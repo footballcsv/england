@@ -6,7 +6,7 @@ Football data for England (and Wales) includes:
 - The Football League (Championship, League One, League Two)
 - Football Conference
 
-Example - `[2013_14/pl.csv](2013_14/pl.csv)`:
+Example - [`2013_14/pl.csv`](2013_14/pl.csv):
 
 ~~~
 17/08/13,Arsenal,Aston Villa,1,3,1,1
@@ -19,6 +19,7 @@ Example - `[2013_14/pl.csv](2013_14/pl.csv)`:
 18/08/13,Chelsea,Hull,2,0,2,0
 18/08/13,Crystal Palace,Tottenham,0,1,0,0
 19/08/13,Man City,Newcastle,4,0,2,0
+...
 ~~~
 
 
