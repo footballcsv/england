@@ -2,11 +2,11 @@
 
 Football data for England (and Wales) includes:
 
-- English Premier League (EPL)
+- English Premier League
 - The Football League (Championship, League One, League Two)
 - Football Conference
 
-Example - [`2013_14/pl.csv`](2013_14/pl.csv):
+Example - [`2013-14/premier-league.csv`](2013-14/premier-league.csv):
 
 ~~~
 17/08/13,Arsenal,Aston Villa,1,3,1,1
