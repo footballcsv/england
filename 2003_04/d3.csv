@@ -1,0 +1,552 @@
+09/08/03,Carlisle,York,1,2,1,2
+09/08/03,Huddersfield,Cambridge,2,2,1,1
+09/08/03,Hull,Darlington,4,1,1,1
+09/08/03,Kidderminster,Mansfield,2,1,1,0
+09/08/03,Leyton Orient,Doncaster,1,3,0,1
+09/08/03,Lincoln,Oxford,0,1,0,1
+09/08/03,Macclesfield,Boston,0,0,0,0
+09/08/03,Northampton,Torquay,0,1,0,0
+09/08/03,Rochdale,Yeovil,1,3,1,1
+09/08/03,Scunthorpe,Bristol Rvs,1,2,0,1
+09/08/03,Southend,Cheltenham,2,0,1,0
+09/08/03,Swansea,Bury,4,2,1,1
+16/08/03,Boston,Huddersfield,2,2,1,0
+16/08/03,Bristol Rvs,Rochdale,0,0,0,0
+16/08/03,Bury,Scunthorpe,2,3,1,1
+16/08/03,Cambridge,Macclesfield,3,1,1,0
+16/08/03,Cheltenham,Swansea,3,4,2,1
+16/08/03,Darlington,Kidderminster,0,2,0,0
+16/08/03,Doncaster,Southend,2,0,1,0
+16/08/03,Mansfield,Leyton Orient,1,1,1,0
+16/08/03,Oxford,Hull,2,1,2,0
+16/08/03,Torquay,Lincoln,1,0,0,0
+16/08/03,Yeovil,Carlisle,3,0,2,0
+16/08/03,York,Northampton,1,0,1,0
+22/08/03,Northampton,Darlington,1,0,1,0
+22/08/03,Swansea,Boston,3,0,0,0
+23/08/03,Carlisle,Bristol Rvs,0,2,0,2
+23/08/03,Huddersfield,York,0,1,0,1
+23/08/03,Hull,Cheltenham,3,3,2,3
+23/08/03,Kidderminster,Bury,0,2,0,1
+23/08/03,Leyton Orient,Yeovil,2,0,1,0
+23/08/03,Lincoln,Doncaster,0,0,0,0
+23/08/03,Macclesfield,Torquay,1,1,1,0
+23/08/03,Rochdale,Cambridge,2,2,0,2
+23/08/03,Scunthorpe,Oxford,1,1,0,1
+23/08/03,Southend,Mansfield,0,3,0,1
+25/08/03,Boston,Carlisle,1,0,1,0
+25/08/03,Bristol Rvs,Macclesfield,2,2,2,2
+25/08/03,Bury,Lincoln,2,1,0,1
+25/08/03,Cambridge,Hull,0,2,0,2
+25/08/03,Cheltenham,Kidderminster,2,1,0,0
+25/08/03,Darlington,Leyton Orient,2,1,0,0
+25/08/03,Doncaster,Huddersfield,1,1,0,1
+25/08/03,Oxford,Swansea,3,0,0,0
+25/08/03,Torquay,Rochdale,1,3,0,0
+25/08/03,Yeovil,Northampton,0,2,0,2
+26/08/03,Mansfield,Scunthorpe,5,0,2,0
+26/08/03,York,Southend,2,0,1,0
+30/08/03,Carlisle,Cambridge,0,0,0,0
+30/08/03,Huddersfield,Bristol Rvs,2,1,1,0
+30/08/03,Hull,Boston,2,1,1,0
+30/08/03,Kidderminster,Oxford,1,1,0,0
+30/08/03,Leyton Orient,Cheltenham,1,4,1,4
+30/08/03,Lincoln,York,3,0,1,0
+30/08/03,Macclesfield,Yeovil,4,1,2,0
+30/08/03,Northampton,Doncaster,1,0,0,0
+30/08/03,Rochdale,Darlington,4,2,2,2
+30/08/03,Scunthorpe,Torquay,2,1,0,1
+30/08/03,Southend,Bury,1,0,0,0
+30/08/03,Swansea,Mansfield,4,1,1,1
+05/09/03,Cambridge,Lincoln,0,0,0,0
+05/09/03,Cheltenham,Northampton,4,3,0,2
+06/09/03,Boston,Scunthorpe,1,1,1,1
+06/09/03,Bristol Rvs,Kidderminster,1,0,0,0
+06/09/03,Bury,Huddersfield,2,1,1,0
+06/09/03,Darlington,Carlisle,2,0,2,0
+06/09/03,Mansfield,Macclesfield,3,2,1,2
+06/09/03,Oxford,Southend,2,0,1,0
+06/09/03,Torquay,Leyton Orient,2,1,0,0
+06/09/03,Yeovil,Swansea,2,0,1,0
+06/09/03,York,Rochdale,1,2,0,2
+08/09/03,Doncaster,Hull,0,0,0,0
+13/09/03,Bristol Rvs,Boston,2,0,0,0
+13/09/03,Bury,Cheltenham,1,1,1,0
+13/09/03,Cambridge,Torquay,1,1,1,1
+13/09/03,Carlisle,Rochdale,3,2,3,0
+13/09/03,Darlington,Doncaster,2,1,0,0
+13/09/03,Huddersfield,Northampton,3,0,3,0
+13/09/03,Hull,Southend,3,2,1,1
+13/09/03,Lincoln,Leyton Orient,0,0,0,0
+13/09/03,Macclesfield,Kidderminster,1,1,0,1
+13/09/03,Oxford,Mansfield,1,1,0,0
+13/09/03,Scunthorpe,Swansea,2,2,1,1
+13/09/03,Yeovil,York,3,0,2,0
+16/09/03,Cheltenham,Oxford,0,0,0,0
+16/09/03,Doncaster,Yeovil,0,1,0,1
+16/09/03,Kidderminster,Scunthorpe,0,2,0,0
+16/09/03,Leyton Orient,Hull,1,1,1,1
+16/09/03,Mansfield,Bury,5,3,3,1
+16/09/03,Northampton,Carlisle,2,0,0,0
+16/09/03,Rochdale,Huddersfield,1,1,1,1
+16/09/03,Southend,Lincoln,0,2,0,1
+16/09/03,Swansea,Macclesfield,3,0,2,0
+16/09/03,Torquay,Bristol Rvs,2,1,2,0
+16/09/03,York,Darlington,1,1,1,1
+17/09/03,Boston,Cambridge,1,2,0,1
+20/09/03,Boston,Bury,1,0,0,0
+20/09/03,Cheltenham,Cambridge,0,3,0,1
+20/09/03,Doncaster,Oxford,2,0,1,0
+20/09/03,Kidderminster,Lincoln,1,2,1,2
+20/09/03,Leyton Orient,Scunthorpe,1,1,0,1
+20/09/03,Mansfield,Yeovil,0,1,0,1
+20/09/03,Northampton,Macclesfield,0,0,0,0
+20/09/03,Rochdale,Hull,0,2,0,0
+20/09/03,Southend,Carlisle,2,2,2,0
+20/09/03,Swansea,Huddersfield,2,0,1,0
+20/09/03,Torquay,Darlington,2,2,2,1
+20/09/03,York,Bristol Rvs,2,1,2,1
+27/09/03,Bristol Rvs,Cheltenham,2,0,1,0
+27/09/03,Bury,Doncaster,1,3,1,2
+27/09/03,Cambridge,Mansfield,1,2,0,1
+27/09/03,Carlisle,Swansea,1,2,1,0
+27/09/03,Darlington,Boston,3,0,0,0
+27/09/03,Huddersfield,Leyton Orient,3,0,1,0
+27/09/03,Hull,Kidderminster,6,1,2,1
+27/09/03,Lincoln,Rochdale,1,1,1,1
+27/09/03,Macclesfield,York,0,0,0,0
+27/09/03,Oxford,Northampton,3,0,3,0
+27/09/03,Scunthorpe,Southend,1,1,1,0
+27/09/03,Yeovil,Torquay,0,2,0,1
+30/09/03,Bristol Rvs,Mansfield,1,3,0,3
+30/09/03,Bury,York,2,0,1,0
+30/09/03,Cambridge,Doncaster,3,3,2,0
+30/09/03,Carlisle,Leyton Orient,0,1,0,0
+30/09/03,Darlington,Southend,0,0,0,0
+30/09/03,Huddersfield,Kidderminster,1,0,1,0
+30/09/03,Hull,Swansea,1,0,1,0
+30/09/03,Lincoln,Northampton,0,0,0,0
+30/09/03,Macclesfield,Rochdale,2,1,0,0
+30/09/03,Scunthorpe,Cheltenham,5,2,2,1
+30/09/03,Yeovil,Boston,2,0,2,0
+01/10/03,Oxford,Torquay,1,0,0,0
+04/10/03,Boston,Oxford,1,1,1,0
+04/10/03,Cheltenham,Yeovil,3,1,2,1
+04/10/03,Doncaster,Bristol Rvs,5,1,3,0
+04/10/03,Kidderminster,Carlisle,2,1,0,0
+04/10/03,Leyton Orient,Macclesfield,2,0,2,0
+04/10/03,Mansfield,Darlington,3,1,1,1
+04/10/03,Northampton,Hull,1,5,0,2
+04/10/03,Rochdale,Scunthorpe,2,0,0,0
+04/10/03,Southend,Huddersfield,1,2,1,1
+04/10/03,Swansea,Lincoln,2,2,1,2
+04/10/03,Torquay,Bury,3,1,1,1
+04/10/03,York,Cambridge,2,0,1,0
+11/10/03,Boston,Cheltenham,3,1,2,1
+11/10/03,Cambridge,Bury,1,2,0,2
+11/10/03,Darlington,Bristol Rvs,0,4,0,1
+11/10/03,Huddersfield,Torquay,1,0,0,0
+11/10/03,Kidderminster,Southend,1,2,0,1
+11/10/03,Leyton Orient,Swansea,1,2,0,2
+11/10/03,Macclesfield,Doncaster,1,3,1,1
+11/10/03,Mansfield,York,2,0,1,0
+11/10/03,Oxford,Yeovil,1,0,1,0
+11/10/03,Rochdale,Northampton,1,1,0,0
+11/10/03,Scunthorpe,Lincoln,1,3,0,2
+12/10/03,Hull,Carlisle,2,1,1,0
+17/10/03,Northampton,Scunthorpe,1,1,1,0
+18/10/03,Bristol Rvs,Cambridge,0,2,0,0
+18/10/03,Bury,Oxford,0,4,0,1
+18/10/03,Carlisle,Macclesfield,0,1,0,0
+18/10/03,Cheltenham,Rochdale,0,2,0,1
+18/10/03,Doncaster,Mansfield,4,2,1,1
+18/10/03,Lincoln,Huddersfield,3,1,0,1
+18/10/03,Southend,Leyton Orient,1,2,0,1
+18/10/03,Swansea,Kidderminster,0,0,0,0
+18/10/03,Torquay,Hull,1,1,1,0
+18/10/03,Yeovil,Darlington,1,0,1,0
+18/10/03,York,Boston,1,1,1,0
+21/10/03,Bristol Rvs,Leyton Orient,1,1,1,0
+21/10/03,Bury,Hull,0,0,0,0
+21/10/03,Carlisle,Scunthorpe,1,4,0,1
+21/10/03,Cheltenham,Darlington,2,1,1,1
+21/10/03,Doncaster,Rochdale,2,1,1,1
+21/10/03,Lincoln,Macclesfield,3,2,1,0
+21/10/03,Northampton,Kidderminster,0,1,0,1
+21/10/03,Southend,Boston,0,2,0,0
+21/10/03,Swansea,Cambridge,0,2,0,1
+21/10/03,Torquay,Mansfield,1,0,1,0
+21/10/03,Yeovil,Huddersfield,2,1,1,1
+21/10/03,York,Oxford,2,2,1,1
+25/10/03,Boston,Torquay,4,0,1,0
+25/10/03,Cambridge,Yeovil,1,4,1,1
+25/10/03,Darlington,Bury,1,3,1,1
+25/10/03,Huddersfield,Carlisle,2,1,2,0
+25/10/03,Hull,Lincoln,3,0,1,0
+25/10/03,Kidderminster,Doncaster,0,2,0,1
+25/10/03,Leyton Orient,Northampton,1,1,0,0
+25/10/03,Macclesfield,Southend,1,2,0,0
+25/10/03,Mansfield,Cheltenham,4,0,2,0
+25/10/03,Oxford,Bristol Rvs,0,0,0,0
+25/10/03,Rochdale,Swansea,0,1,0,1
+25/10/03,Scunthorpe,York,0,0,0,0
+01/11/03,Bury,Yeovil,2,1,1,1
+01/11/03,Cheltenham,York,1,1,0,0
+01/11/03,Doncaster,Torquay,1,0,1,0
+01/11/03,Hull,Macclesfield,2,2,1,1
+01/11/03,Kidderminster,Cambridge,2,2,1,0
+01/11/03,Leyton Orient,Rochdale,2,1,1,0
+01/11/03,Lincoln,Carlisle,2,0,1,0
+01/11/03,Mansfield,Boston,2,1,1,1
+01/11/03,Oxford,Darlington,3,1,0,1
+01/11/03,Scunthorpe,Huddersfield,6,2,2,0
+01/11/03,Southend,Northampton,0,1,0,0
+01/11/03,Swansea,Bristol Rvs,0,0,0,0
+15/11/03,Boston,Leyton Orient,3,0,1,0
+15/11/03,Bristol Rvs,Bury,1,2,0,0
+15/11/03,Cambridge,Oxford,1,1,1,0
+15/11/03,Carlisle,Mansfield,0,2,0,0
+15/11/03,Darlington,Lincoln,0,0,0,0
+15/11/03,Huddersfield,Hull,3,1,2,0
+15/11/03,Macclesfield,Scunthorpe,2,2,1,1
+15/11/03,Rochdale,Kidderminster,0,1,0,1
+15/11/03,Torquay,Cheltenham,3,1,0,0
+15/11/03,Yeovil,Southend,4,0,3,0
+15/11/03,York,Doncaster,1,0,0,0
+17/11/03,Northampton,Swansea,2,1,1,0
+22/11/03,Bury,Northampton,1,0,0,0
+22/11/03,Cheltenham,Carlisle,2,1,1,1
+22/11/03,Doncaster,Boston,3,0,1,0
+22/11/03,Hull,Yeovil,0,0,0,0
+22/11/03,Kidderminster,Torquay,1,2,1,1
+22/11/03,Leyton Orient,York,2,2,2,0
+22/11/03,Lincoln,Bristol Rvs,3,1,1,1
+22/11/03,Mansfield,Huddersfield,3,3,1,2
+22/11/03,Oxford,Macclesfield,3,1,2,1
+22/11/03,Scunthorpe,Cambridge,4,0,2,0
+22/11/03,Southend,Rochdale,4,0,2,0
+22/11/03,Swansea,Darlington,1,0,1,0
+29/11/03,Boston,Kidderminster,2,2,0,1
+29/11/03,Bristol Rvs,Hull,2,1,1,1
+29/11/03,Cambridge,Leyton Orient,1,4,0,3
+29/11/03,Carlisle,Doncaster,0,1,0,0
+29/11/03,Darlington,Scunthorpe,2,2,1,0
+29/11/03,Huddersfield,Cheltenham,0,0,0,0
+29/11/03,Macclesfield,Bury,1,0,1,0
+29/11/03,Northampton,Mansfield,0,3,0,1
+29/11/03,Rochdale,Oxford,1,2,0,1
+29/11/03,Torquay,Southend,3,0,1,0
+29/11/03,Yeovil,Lincoln,3,1,0,0
+29/11/03,York,Swansea,0,0,0,0
+06/12/03,Darlington,York,3,0,2,0
+06/12/03,Hull,Bury,2,0,1,0
+13/12/03,Boston,Northampton,1,1,1,1
+13/12/03,Bristol Rvs,Yeovil,0,1,0,1
+13/12/03,Bury,Rochdale,1,2,0,1
+13/12/03,Cambridge,Darlington,1,0,1,0
+13/12/03,Cheltenham,Doncaster,1,3,1,2
+13/12/03,Kidderminster,Leyton Orient,2,1,1,1
+13/12/03,Macclesfield,Huddersfield,4,0,1,0
+13/12/03,Mansfield,Lincoln,1,2,1,1
+13/12/03,Oxford,Carlisle,2,1,2,0
+13/12/03,Scunthorpe,Hull,1,1,0,0
+13/12/03,Swansea,Southend,2,3,1,2
+13/12/03,Torquay,York,1,1,0,0
+19/12/03,Doncaster,Swansea,3,1,2,0
+19/12/03,Northampton,Cambridge,1,2,0,1
+20/12/03,Carlisle,Torquay,2,0,1,0
+20/12/03,Darlington,Macclesfield,0,1,0,0
+20/12/03,Huddersfield,Oxford,1,1,1,0
+20/12/03,Hull,Mansfield,0,1,0,0
+20/12/03,Leyton Orient,Bury,2,0,0,0
+20/12/03,Rochdale,Boston,1,0,1,0
+20/12/03,Southend,Bristol Rvs,0,1,0,1
+20/12/03,Yeovil,Scunthorpe,2,1,0,1
+21/12/03,York,Kidderminster,1,0,0,0
+26/12/03,Boston,Lincoln,0,1,0,0
+26/12/03,Bristol Rvs,Northampton,1,2,0,0
+26/12/03,Bury,Carlisle,1,3,1,1
+26/12/03,Cambridge,Southend,0,1,0,1
+26/12/03,Cheltenham,Macclesfield,3,2,1,0
+26/12/03,Darlington,Huddersfield,0,1,0,1
+26/12/03,Doncaster,Scunthorpe,1,0,0,0
+26/12/03,Mansfield,Rochdale,1,0,0,0
+26/12/03,Oxford,Leyton Orient,2,1,1,1
+26/12/03,Torquay,Swansea,0,0,0,0
+26/12/03,Yeovil,Kidderminster,1,2,0,1
+26/12/03,York,Hull,0,2,0,0
+28/12/03,Carlisle,Darlington,1,1,1,1
+28/12/03,Huddersfield,Bury,1,0,1,0
+28/12/03,Hull,Doncaster,3,1,1,1
+28/12/03,Kidderminster,Bristol Rvs,1,0,0,0
+28/12/03,Leyton Orient,Torquay,0,0,0,0
+28/12/03,Lincoln,Cambridge,2,2,2,1
+28/12/03,Macclesfield,Mansfield,1,1,0,0
+28/12/03,Northampton,Cheltenham,1,0,1,0
+28/12/03,Rochdale,York,1,2,0,1
+28/12/03,Scunthorpe,Boston,0,1,0,1
+28/12/03,Southend,Oxford,0,1,0,0
+28/12/03,Swansea,Yeovil,3,2,1,0
+03/01/04,Carlisle,Boston,2,1,1,1
+03/01/04,Huddersfield,Doncaster,3,1,1,0
+03/01/04,Hull,Cambridge,2,0,1,0
+03/01/04,Leyton Orient,Darlington,1,0,1,0
+03/01/04,Lincoln,Bury,2,1,2,0
+03/01/04,Rochdale,Torquay,1,0,1,0
+06/01/04,Swansea,Oxford,0,0,0,0
+09/01/04,Cheltenham,Southend,1,1,0,0
+10/01/04,Boston,Macclesfield,3,1,2,0
+10/01/04,Bristol Rvs,Scunthorpe,1,0,1,0
+10/01/04,Bury,Swansea,2,0,0,0
+10/01/04,Cambridge,Huddersfield,1,2,0,1
+10/01/04,Darlington,Hull,0,1,0,1
+10/01/04,Doncaster,Leyton Orient,5,0,3,0
+10/01/04,Mansfield,Kidderminster,1,0,1,0
+10/01/04,Oxford,Lincoln,0,0,0,0
+10/01/04,Torquay,Northampton,3,1,2,0
+10/01/04,Yeovil,Rochdale,1,0,1,0
+10/01/04,York,Carlisle,2,0,1,0
+13/01/04,Lincoln,Cheltenham,0,0,0,0
+13/01/04,Macclesfield,Bristol Rvs,2,1,1,0
+17/01/04,Carlisle,Yeovil,2,0,1,0
+17/01/04,Huddersfield,Boston,2,0,0,0
+17/01/04,Hull,Oxford,4,2,0,0
+17/01/04,Kidderminster,Darlington,1,1,1,0
+17/01/04,Leyton Orient,Mansfield,3,1,1,1
+17/01/04,Lincoln,Torquay,1,3,1,1
+17/01/04,Macclesfield,Cambridge,0,1,0,0
+17/01/04,Northampton,York,2,1,2,0
+17/01/04,Rochdale,Bristol Rvs,2,2,2,0
+17/01/04,Scunthorpe,Bury,0,0,0,0
+17/01/04,Southend,Doncaster,0,2,0,2
+17/01/04,Swansea,Cheltenham,0,0,0,0
+23/01/04,Doncaster,Lincoln,0,2,0,1
+24/01/04,Bristol Rvs,Carlisle,1,0,0,0
+24/01/04,Bury,Kidderminster,0,0,0,0
+24/01/04,Cambridge,Rochdale,0,0,0,0
+24/01/04,Cheltenham,Hull,0,2,0,0
+24/01/04,Mansfield,Southend,1,0,1,0
+24/01/04,Torquay,Macclesfield,4,1,3,1
+24/01/04,Yeovil,Leyton Orient,1,2,0,2
+25/01/04,York,Huddersfield,0,2,0,0
+27/01/04,Scunthorpe,Mansfield,0,0,0,0
+27/01/04,Southend,York,0,0,0,0
+30/01/04,Doncaster,Northampton,1,0,1,0
+31/01/04,Cheltenham,Leyton Orient,1,0,1,0
+31/01/04,Darlington,Rochdale,1,0,0,0
+31/01/04,Oxford,Kidderminster,2,1,1,1
+31/01/04,Yeovil,Macclesfield,2,2,1,2
+03/02/04,Northampton,Yeovil,2,0,0,0
+07/02/04,Carlisle,Bury,2,1,1,1
+07/02/04,Huddersfield,Darlington,0,2,0,1
+07/02/04,Hull,York,2,1,0,0
+07/02/04,Kidderminster,Yeovil,0,1,0,0
+07/02/04,Leyton Orient,Oxford,1,0,0,0
+07/02/04,Lincoln,Boston,1,1,1,1
+07/02/04,Macclesfield,Cheltenham,1,2,1,2
+07/02/04,Northampton,Bristol Rvs,2,0,1,0
+07/02/04,Rochdale,Mansfield,3,0,2,0
+07/02/04,Scunthorpe,Doncaster,2,2,1,0
+07/02/04,Southend,Cambridge,1,0,1,0
+07/02/04,Swansea,Torquay,1,2,0,1
+10/02/04,Kidderminster,Cheltenham,0,0,0,0
+11/02/04,Oxford,Scunthorpe,3,2,2,2
+14/02/04,Bristol Rvs,Darlington,0,3,0,0
+14/02/04,Bury,Cambridge,1,0,1,0
+14/02/04,Carlisle,Hull,1,1,0,0
+14/02/04,Cheltenham,Boston,1,0,0,0
+14/02/04,Doncaster,Macclesfield,1,0,1,0
+14/02/04,Lincoln,Scunthorpe,1,1,1,0
+14/02/04,Northampton,Rochdale,3,1,0,1
+14/02/04,Southend,Kidderminster,3,0,1,0
+14/02/04,Torquay,Huddersfield,0,1,0,0
+14/02/04,Yeovil,Oxford,1,0,1,0
+14/02/04,York,Mansfield,1,2,0,1
+17/02/04,Bristol Rvs,Huddersfield,1,1,0,0
+17/02/04,Cambridge,Carlisle,2,2,0,1
+17/02/04,Darlington,Northampton,1,2,0,0
+17/02/04,York,Lincoln,1,4,0,1
+18/02/04,Boston,Swansea,1,1,0,1
+21/02/04,Boston,York,2,0,0,0
+21/02/04,Cambridge,Bristol Rvs,3,1,2,1
+21/02/04,Darlington,Yeovil,3,2,2,1
+21/02/04,Huddersfield,Lincoln,2,1,0,1
+21/02/04,Hull,Torquay,0,1,0,1
+21/02/04,Kidderminster,Swansea,2,0,0,0
+21/02/04,Leyton Orient,Southend,2,1,0,1
+21/02/04,Macclesfield,Carlisle,1,1,1,1
+21/02/04,Mansfield,Doncaster,1,2,1,0
+21/02/04,Oxford,Bury,1,1,0,0
+21/02/04,Rochdale,Cheltenham,0,0,0,0
+21/02/04,Scunthorpe,Northampton,1,0,0,0
+24/02/04,Bury,Southend,1,1,0,1
+24/02/04,Swansea,Leyton Orient,2,1,1,1
+24/02/04,Torquay,Scunthorpe,1,0,1,0
+27/02/04,Doncaster,Kidderminster,5,0,2,0
+28/02/04,Bristol Rvs,Oxford,1,1,0,1
+28/02/04,Bury,Darlington,1,1,0,1
+28/02/04,Cheltenham,Mansfield,4,2,1,0
+28/02/04,Lincoln,Hull,2,0,0,0
+28/02/04,Northampton,Leyton Orient,1,0,0,0
+28/02/04,Southend,Macclesfield,1,0,0,0
+28/02/04,Torquay,Boston,2,0,1,0
+28/02/04,Yeovil,Cambridge,4,1,3,1
+02/03/04,Cambridge,Swansea,0,1,0,1
+02/03/04,Huddersfield,Yeovil,3,1,1,0
+02/03/04,Kidderminster,Northampton,2,1,1,0
+02/03/04,Leyton Orient,Bristol Rvs,1,1,0,1
+03/03/04,Boston,Southend,0,2,0,1
+03/03/04,Oxford,York,0,0,0,0
+05/03/04,Swansea,Doncaster,1,1,1,0
+06/03/04,Boston,Rochdale,2,0,1,0
+06/03/04,Bristol Rvs,Southend,1,1,1,0
+06/03/04,Bury,Leyton Orient,1,1,0,0
+06/03/04,Cambridge,Northampton,0,1,0,0
+06/03/04,Cheltenham,Lincoln,3,2,1,2
+06/03/04,Kidderminster,York,4,1,3,1
+06/03/04,Macclesfield,Darlington,0,1,0,0
+06/03/04,Mansfield,Hull,1,0,0,0
+06/03/04,Oxford,Huddersfield,0,1,0,1
+06/03/04,Scunthorpe,Yeovil,3,0,2,0
+06/03/04,Torquay,Carlisle,4,1,2,0
+09/03/04,Carlisle,Huddersfield,1,0,0,0
+09/03/04,Darlington,Cheltenham,2,1,2,1
+09/03/04,Swansea,Rochdale,1,1,0,1
+09/03/04,York,Scunthorpe,1,3,0,2
+13/03/04,Carlisle,Oxford,2,0,0,0
+13/03/04,Darlington,Cambridge,3,4,1,2
+13/03/04,Doncaster,Cheltenham,1,1,0,0
+13/03/04,Huddersfield,Macclesfield,4,0,1,0
+13/03/04,Hull,Scunthorpe,2,1,2,0
+13/03/04,Leyton Orient,Kidderminster,1,1,1,0
+13/03/04,Lincoln,Mansfield,4,1,0,1
+13/03/04,Northampton,Boston,2,0,0,0
+13/03/04,Rochdale,Bury,0,0,0,0
+13/03/04,Southend,Swansea,1,1,0,0
+13/03/04,Yeovil,Bristol Rvs,4,0,2,0
+13/03/04,York,Torquay,0,0,0,0
+16/03/04,Bristol Rvs,Torquay,2,2,1,2
+16/03/04,Bury,Mansfield,3,0,2,0
+16/03/04,Cambridge,Boston,0,1,0,1
+16/03/04,Carlisle,Northampton,1,1,0,0
+16/03/04,Huddersfield,Rochdale,1,1,0,1
+16/03/04,Hull,Leyton Orient,3,0,1,0
+16/03/04,Lincoln,Southend,2,2,0,2
+16/03/04,Macclesfield,Swansea,2,1,1,0
+16/03/04,Scunthorpe,Kidderminster,0,2,0,1
+16/03/04,Yeovil,Doncaster,0,1,0,0
+17/03/04,Oxford,Cheltenham,1,0,1,0
+20/03/04,Boston,Bristol Rvs,1,0,1,0
+20/03/04,Cheltenham,Bury,1,2,1,0
+20/03/04,Doncaster,Darlington,1,1,0,0
+20/03/04,Kidderminster,Macclesfield,1,4,0,3
+20/03/04,Leyton Orient,Lincoln,0,2,0,1
+20/03/04,Rochdale,Carlisle,2,0,1,0
+20/03/04,Swansea,Scunthorpe,4,2,1,1
+20/03/04,Torquay,Cambridge,3,0,2,0
+23/03/04,Mansfield,Swansea,1,1,0,1
+23/03/04,Scunthorpe,Carlisle,2,3,1,1
+27/03/04,Bristol Rvs,York,3,0,2,0
+27/03/04,Bury,Boston,1,3,1,2
+27/03/04,Cambridge,Cheltenham,2,1,2,0
+27/03/04,Carlisle,Southend,1,2,0,0
+27/03/04,Darlington,Torquay,1,1,1,0
+27/03/04,Huddersfield,Swansea,3,0,0,0
+27/03/04,Hull,Rochdale,1,0,0,0
+27/03/04,Lincoln,Kidderminster,1,1,0,0
+27/03/04,Macclesfield,Northampton,0,4,0,4
+27/03/04,Oxford,Doncaster,0,0,0,0
+27/03/04,Scunthorpe,Leyton Orient,1,1,1,0
+27/03/04,Yeovil,Mansfield,1,1,0,0
+30/03/04,Macclesfield,Lincoln,0,0,0,0
+30/03/04,Mansfield,Torquay,2,1,2,1
+30/03/04,Rochdale,Doncaster,1,1,1,1
+31/03/04,Boston,Hull,1,2,0,1
+02/04/04,Southend,Scunthorpe,4,2,3,1
+03/04/04,Boston,Darlington,1,0,1,0
+03/04/04,Cheltenham,Bristol Rvs,1,2,1,2
+03/04/04,Doncaster,Bury,3,1,0,0
+03/04/04,Kidderminster,Hull,1,1,1,0
+03/04/04,Leyton Orient,Huddersfield,1,1,1,1
+03/04/04,Mansfield,Cambridge,1,1,0,0
+03/04/04,Northampton,Oxford,2,1,0,1
+03/04/04,Rochdale,Lincoln,0,3,0,0
+03/04/04,Swansea,Carlisle,1,2,1,1
+03/04/04,Torquay,Yeovil,2,2,1,2
+04/04/04,York,Macclesfield,0,2,0,2
+06/04/04,Mansfield,Oxford,3,1,3,1
+09/04/04,Bury,Torquay,2,1,1,1
+09/04/04,Cambridge,York,2,0,1,0
+09/04/04,Oxford,Boston,0,0,0,0
+10/04/04,Bristol Rvs,Doncaster,1,2,0,0
+10/04/04,Carlisle,Kidderminster,1,0,0,0
+10/04/04,Darlington,Mansfield,1,0,0,0
+10/04/04,Huddersfield,Southend,1,0,1,0
+10/04/04,Hull,Northampton,2,3,1,3
+10/04/04,Lincoln,Swansea,2,1,0,1
+10/04/04,Macclesfield,Leyton Orient,1,0,0,0
+10/04/04,Scunthorpe,Rochdale,2,2,2,2
+10/04/04,Yeovil,Cheltenham,0,0,0,0
+12/04/04,Boston,Yeovil,3,2,2,1
+12/04/04,Cheltenham,Scunthorpe,2,1,1,1
+12/04/04,Doncaster,Cambridge,2,0,0,0
+12/04/04,Kidderminster,Huddersfield,2,1,1,0
+12/04/04,Leyton Orient,Carlisle,1,1,0,0
+12/04/04,Mansfield,Bristol Rvs,0,0,0,0
+12/04/04,Northampton,Lincoln,1,1,1,0
+12/04/04,Rochdale,Macclesfield,1,2,1,0
+12/04/04,Southend,Darlington,3,2,0,2
+12/04/04,Swansea,Hull,2,3,1,1
+12/04/04,Torquay,Oxford,3,0,1,0
+13/04/04,York,Bury,1,1,1,1
+17/04/04,Boston,Mansfield,1,2,0,0
+17/04/04,Bristol Rvs,Swansea,2,1,1,1
+17/04/04,Cambridge,Kidderminster,0,0,0,0
+17/04/04,Carlisle,Lincoln,0,2,0,0
+17/04/04,Darlington,Oxford,2,0,1,0
+17/04/04,Huddersfield,Scunthorpe,3,2,1,2
+17/04/04,Macclesfield,Hull,1,1,0,1
+17/04/04,Northampton,Southend,2,2,1,2
+17/04/04,Rochdale,Leyton Orient,3,0,1,0
+17/04/04,Torquay,Doncaster,1,0,1,0
+17/04/04,Yeovil,Bury,2,1,0,1
+17/04/04,York,Cheltenham,0,2,0,0
+20/04/04,Northampton,Huddersfield,0,1,0,0
+20/04/04,Southend,Hull,2,2,2,1
+20/04/04,York,Yeovil,1,2,1,0
+24/04/04,Bury,Bristol Rvs,0,0,0,0
+24/04/04,Cheltenham,Torquay,1,3,0,1
+24/04/04,Doncaster,York,3,1,2,0
+24/04/04,Hull,Huddersfield,0,0,0,0
+24/04/04,Kidderminster,Rochdale,0,1,0,1
+24/04/04,Leyton Orient,Boston,1,3,0,0
+24/04/04,Lincoln,Darlington,1,1,0,1
+24/04/04,Mansfield,Carlisle,2,3,2,2
+24/04/04,Oxford,Cambridge,2,2,0,0
+24/04/04,Scunthorpe,Macclesfield,1,0,0,0
+24/04/04,Southend,Yeovil,0,2,0,2
+24/04/04,Swansea,Northampton,0,2,0,2
+01/05/04,Boston,Doncaster,0,0,0,0
+01/05/04,Bristol Rvs,Lincoln,3,1,1,1
+01/05/04,Cambridge,Scunthorpe,3,2,2,0
+01/05/04,Carlisle,Cheltenham,1,1,1,0
+01/05/04,Darlington,Swansea,1,2,0,0
+01/05/04,Huddersfield,Mansfield,1,3,1,2
+01/05/04,Macclesfield,Oxford,2,1,2,1
+01/05/04,Northampton,Bury,3,2,1,2
+01/05/04,Rochdale,Southend,1,1,0,0
+01/05/04,Torquay,Kidderminster,1,1,1,0
+01/05/04,Yeovil,Hull,1,2,0,1
+01/05/04,York,Leyton Orient,1,2,1,2
+08/05/04,Bury,Macclesfield,2,0,0,0
+08/05/04,Cheltenham,Huddersfield,1,1,0,1
+08/05/04,Doncaster,Carlisle,1,0,0,0
+08/05/04,Hull,Bristol Rvs,3,0,0,0
+08/05/04,Kidderminster,Boston,2,0,1,0
+08/05/04,Leyton Orient,Cambridge,0,1,0,1
+08/05/04,Lincoln,Yeovil,2,3,0,0
+08/05/04,Mansfield,Northampton,1,2,0,1
+08/05/04,Oxford,Rochdale,2,0,2,0
+08/05/04,Scunthorpe,Darlington,0,1,0,1
+08/05/04,Southend,Torquay,1,2,1,2
+08/05/04,Swansea,York,0,0,0,0

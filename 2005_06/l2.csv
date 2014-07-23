@@ -1,0 +1,552 @@
+06/08/05,Barnet,Bristol Rvs,1,1,0,0
+06/08/05,Cheltenham,Bury,2,1,1,1
+06/08/05,Grimsby,Oxford,1,1,0,0
+06/08/05,Leyton Orient,Macclesfield,2,1,1,0
+06/08/05,Lincoln,Northampton,1,1,0,0
+06/08/05,Peterboro,Chester,0,1,0,0
+06/08/05,Rushden & D,Darlington,1,1,0,0
+06/08/05,Shrewsbury,Rochdale,0,1,0,1
+06/08/05,Stockport,Mansfield,2,2,0,2
+06/08/05,Torquay,Notts County,0,0,0,0
+06/08/05,Wrexham,Boston,2,0,1,0
+06/08/05,Wycombe,Carlisle,1,1,1,1
+09/08/05,Bristol Rvs,Grimsby,1,2,0,0
+09/08/05,Bury,Leyton Orient,1,2,0,1
+09/08/05,Carlisle,Peterboro,1,0,1,0
+09/08/05,Chester,Lincoln,2,2,0,2
+09/08/05,Darlington,Stockport,2,0,1,0
+09/08/05,Macclesfield,Cheltenham,2,2,0,1
+09/08/05,Mansfield,Rushden & D,0,1,0,1
+09/08/05,Northampton,Barnet,1,2,1,0
+09/08/05,Notts County,Wrexham,1,0,0,0
+09/08/05,Rochdale,Wycombe,1,2,0,2
+10/08/05,Boston,Shrewsbury,1,1,0,0
+10/08/05,Oxford,Torquay,1,0,0,0
+13/08/05,Boston,Stockport,2,2,0,0
+13/08/05,Bristol Rvs,Peterboro,2,3,1,2
+13/08/05,Bury,Shrewsbury,2,0,0,0
+13/08/05,Carlisle,Barnet,1,3,1,0
+13/08/05,Darlington,Leyton Orient,0,1,0,1
+13/08/05,Mansfield,Torquay,3,0,2,0
+13/08/05,Northampton,Wrexham,0,0,0,0
+13/08/05,Notts County,Lincoln,2,1,1,1
+13/08/05,Oxford,Wycombe,2,2,1,0
+13/08/05,Rochdale,Cheltenham,1,1,0,1
+20/08/05,Barnet,Macclesfield,1,0,1,0
+20/08/05,Cheltenham,Boston,3,0,3,0
+20/08/05,Grimsby,Darlington,0,1,0,0
+20/08/05,Leyton Orient,Rochdale,1,4,0,2
+20/08/05,Lincoln,Oxford,2,1,0,1
+20/08/05,Peterboro,Mansfield,2,0,0,0
+20/08/05,Rushden & D,Chester,1,1,0,0
+20/08/05,Shrewsbury,Northampton,1,1,1,0
+20/08/05,Stockport,Notts County,1,1,1,1
+20/08/05,Torquay,Bristol Rvs,2,3,1,0
+20/08/05,Wrexham,Carlisle,0,1,0,0
+20/08/05,Wycombe,Bury,4,0,1,0
+27/08/05,Barnet,Grimsby,0,1,0,0
+27/08/05,Boston,Mansfield,2,2,2,1
+27/08/05,Bury,Wrexham,2,2,1,2
+27/08/05,Carlisle,Northampton,0,1,0,1
+27/08/05,Cheltenham,Leyton Orient,1,1,0,1
+27/08/05,Chester,Darlington,4,4,0,2
+27/08/05,Notts County,Bristol Rvs,2,0,1,0
+27/08/05,Oxford,Stockport,1,1,1,1
+27/08/05,Peterboro,Torquay,0,0,0,0
+27/08/05,Rochdale,Macclesfield,3,1,2,1
+27/08/05,Rushden & D,Lincoln,1,1,0,1
+27/08/05,Shrewsbury,Wycombe,1,1,0,1
+29/08/05,Darlington,Rochdale,2,1,1,0
+29/08/05,Grimsby,Rushden & D,2,0,1,0
+29/08/05,Leyton Orient,Shrewsbury,0,1,0,1
+29/08/05,Lincoln,Carlisle,0,0,0,0
+29/08/05,Macclesfield,Bury,1,0,1,0
+29/08/05,Mansfield,Notts County,2,3,1,1
+29/08/05,Northampton,Boston,3,2,2,1
+29/08/05,Stockport,Peterboro,1,1,0,1
+29/08/05,Torquay,Chester,0,1,0,0
+29/08/05,Wrexham,Barnet,3,1,2,1
+29/08/05,Wycombe,Cheltenham,0,0,0,0
+02/09/05,Bury,Carlisle,0,1,0,0
+02/09/05,Cheltenham,Barnet,1,1,1,0
+02/09/05,Chester,Mansfield,3,1,1,0
+02/09/05,Darlington,Notts County,1,1,0,0
+02/09/05,Grimsby,Stockport,1,3,1,0
+02/09/05,Rushden & D,Peterboro,0,2,0,1
+02/09/05,Shrewsbury,Oxford,2,0,2,0
+02/09/05,Wycombe,Northampton,1,1,0,1
+03/09/05,Leyton Orient,Bristol Rvs,2,3,0,1
+03/09/05,Rochdale,Torquay,4,1,2,1
+04/09/05,Macclesfield,Boston,2,2,2,0
+06/09/05,Chester,Grimsby,1,2,0,0
+10/09/05,Barnet,Leyton Orient,2,3,1,1
+10/09/05,Boston,Rochdale,3,2,1,1
+10/09/05,Bristol Rvs,Lincoln,0,0,0,0
+10/09/05,Carlisle,Macclesfield,2,0,0,0
+10/09/05,Mansfield,Darlington,2,2,1,1
+10/09/05,Northampton,Bury,1,1,0,1
+10/09/05,Notts County,Chester,1,1,0,0
+10/09/05,Oxford,Rushden & D,2,2,2,0
+10/09/05,Peterboro,Grimsby,0,1,0,0
+10/09/05,Stockport,Wycombe,3,3,2,2
+10/09/05,Torquay,Shrewsbury,2,1,2,1
+10/09/05,Wrexham,Cheltenham,2,0,1,0
+13/09/05,Bristol Rvs,Oxford,1,1,0,1
+13/09/05,Lincoln,Wrexham,2,0,0,0
+13/09/05,Macclesfield,Rushden & D,3,1,1,0
+17/09/05,Bury,Boston,1,1,1,0
+17/09/05,Cheltenham,Carlisle,2,3,1,1
+17/09/05,Chester,Bristol Rvs,4,0,3,0
+17/09/05,Darlington,Oxford,1,2,0,0
+17/09/05,Grimsby,Torquay,3,0,1,0
+17/09/05,Leyton Orient,Wrexham,1,1,0,0
+17/09/05,Lincoln,Peterboro,1,2,0,0
+17/09/05,Macclesfield,Northampton,1,4,0,1
+17/09/05,Rochdale,Mansfield,2,0,1,0
+17/09/05,Rushden & D,Stockport,3,2,0,1
+17/09/05,Shrewsbury,Notts County,2,0,2,0
+17/09/05,Wycombe,Barnet,1,0,1,0
+24/09/05,Barnet,Rochdale,1,1,0,1
+24/09/05,Boston,Grimsby,1,1,0,1
+24/09/05,Bristol Rvs,Darlington,1,0,1,0
+24/09/05,Carlisle,Leyton Orient,2,3,1,3
+24/09/05,Mansfield,Wycombe,2,3,0,3
+24/09/05,Northampton,Cheltenham,1,2,1,2
+24/09/05,Notts County,Rushden & D,0,0,0,0
+24/09/05,Oxford,Bury,2,1,2,0
+24/09/05,Peterboro,Shrewsbury,0,2,0,0
+24/09/05,Stockport,Chester,0,0,0,0
+24/09/05,Torquay,Lincoln,2,1,0,1
+24/09/05,Wrexham,Macclesfield,1,1,0,0
+27/09/05,Bury,Bristol Rvs,1,0,1,0
+27/09/05,Cheltenham,Peterboro,2,1,1,0
+27/09/05,Chester,Carlisle,2,0,2,0
+27/09/05,Darlington,Boston,0,0,0,0
+27/09/05,Grimsby,Notts County,4,0,2,0
+27/09/05,Leyton Orient,Torquay,2,1,1,0
+27/09/05,Lincoln,Stockport,2,0,0,0
+27/09/05,Macclesfield,Mansfield,1,1,1,0
+27/09/05,Rochdale,Oxford,0,1,0,0
+27/09/05,Rushden & D,Northampton,1,3,0,1
+27/09/05,Shrewsbury,Barnet,2,2,1,2
+27/09/05,Wycombe,Wrexham,4,1,2,0
+01/10/05,Barnet,Oxford,0,0,0,0
+01/10/05,Boston,Peterboro,1,0,0,0
+01/10/05,Bury,Lincoln,1,1,0,1
+01/10/05,Carlisle,Bristol Rvs,1,3,1,0
+01/10/05,Cheltenham,Torquay,0,1,0,0
+01/10/05,Leyton Orient,Mansfield,3,1,1,0
+01/10/05,Macclesfield,Notts County,0,0,0,0
+01/10/05,Northampton,Darlington,0,0,0,0
+01/10/05,Rochdale,Rushden & D,2,1,1,0
+01/10/05,Shrewsbury,Grimsby,0,0,0,0
+01/10/05,Wrexham,Stockport,3,0,1,0
+01/10/05,Wycombe,Chester,3,3,2,2
+07/10/05,Bristol Rvs,Northampton,0,0,0,0
+07/10/05,Chester,Rochdale,2,3,0,1
+07/10/05,Darlington,Macclesfield,1,0,1,0
+07/10/05,Grimsby,Wycombe,0,1,0,1
+07/10/05,Lincoln,Cheltenham,0,1,0,0
+07/10/05,Mansfield,Shrewsbury,4,0,1,0
+07/10/05,Notts County,Boston,1,2,0,2
+07/10/05,Oxford,Carlisle,1,0,1,0
+07/10/05,Rushden & D,Bury,0,2,0,0
+07/10/05,Torquay,Barnet,0,0,0,0
+08/10/05,Stockport,Leyton Orient,1,1,1,0
+14/10/05,Cheltenham,Grimsby,0,3,0,1
+14/10/05,Northampton,Oxford,1,0,0,0
+15/10/05,Barnet,Chester,1,3,0,2
+15/10/05,Boston,Bristol Rvs,3,1,1,1
+15/10/05,Bury,Darlington,1,0,1,0
+15/10/05,Carlisle,Mansfield,1,0,0,0
+15/10/05,Leyton Orient,Lincoln,1,1,1,0
+15/10/05,Macclesfield,Peterboro,0,4,0,0
+15/10/05,Rochdale,Notts County,3,0,3,0
+15/10/05,Shrewsbury,Stockport,2,2,1,1
+15/10/05,Wrexham,Torquay,4,2,2,0
+15/10/05,Wycombe,Rushden & D,0,0,0,0
+22/10/05,Bristol Rvs,Wrexham,2,1,0,0
+22/10/05,Chester,Bury,1,1,0,1
+22/10/05,Darlington,Cheltenham,3,1,0,1
+22/10/05,Grimsby,Leyton Orient,0,1,0,1
+22/10/05,Lincoln,Wycombe,1,2,0,0
+22/10/05,Mansfield,Barnet,4,0,1,0
+22/10/05,Notts County,Carlisle,0,0,0,0
+22/10/05,Oxford,Boston,0,0,0,0
+22/10/05,Peterboro,Rochdale,3,1,0,1
+22/10/05,Rushden & D,Shrewsbury,3,0,0,0
+22/10/05,Stockport,Northampton,4,2,1,2
+22/10/05,Torquay,Macclesfield,1,1,0,0
+25/10/05,Peterboro,Wrexham,1,1,1,0
+29/10/05,Barnet,Rushden & D,2,1,1,0
+29/10/05,Boston,Torquay,2,0,1,0
+29/10/05,Bury,Notts County,2,3,0,2
+29/10/05,Carlisle,Stockport,6,0,4,0
+29/10/05,Cheltenham,Mansfield,0,2,0,1
+29/10/05,Leyton Orient,Oxford,1,0,1,0
+29/10/05,Macclesfield,Bristol Rvs,2,1,0,0
+29/10/05,Northampton,Grimsby,0,0,0,0
+29/10/05,Rochdale,Lincoln,1,2,0,2
+29/10/05,Shrewsbury,Chester,3,1,2,1
+29/10/05,Wrexham,Darlington,1,0,0,0
+29/10/05,Wycombe,Peterboro,2,2,0,2
+11/11/05,Grimsby,Macclesfield,3,1,1,1
+11/11/05,Mansfield,Bury,0,3,0,2
+11/11/05,Rushden & D,Boston,1,0,0,0
+12/11/05,Bristol Rvs,Rochdale,1,2,1,1
+12/11/05,Chester,Northampton,0,0,0,0
+12/11/05,Darlington,Wycombe,1,1,1,0
+12/11/05,Lincoln,Shrewsbury,1,1,0,1
+12/11/05,Notts County,Cheltenham,2,3,1,1
+12/11/05,Oxford,Wrexham,0,3,0,1
+12/11/05,Peterboro,Leyton Orient,1,1,1,0
+12/11/05,Torquay,Carlisle,3,4,2,2
+13/11/05,Stockport,Barnet,1,1,1,1
+18/11/05,Cheltenham,Lincoln,4,1,1,0
+19/11/05,Barnet,Torquay,1,0,1,0
+19/11/05,Boston,Notts County,1,2,0,1
+19/11/05,Carlisle,Oxford,2,1,1,0
+19/11/05,Leyton Orient,Stockport,2,2,1,0
+19/11/05,Macclesfield,Darlington,1,0,1,0
+19/11/05,Northampton,Bristol Rvs,4,0,2,0
+19/11/05,Rochdale,Chester,2,2,0,1
+19/11/05,Wrexham,Peterboro,1,1,0,0
+19/11/05,Wycombe,Grimsby,3,1,2,1
+26/11/05,Boston,Wrexham,2,1,1,0
+26/11/05,Bristol Rvs,Barnet,2,1,2,0
+26/11/05,Bury,Cheltenham,0,1,0,1
+26/11/05,Carlisle,Wycombe,0,1,0,0
+26/11/05,Chester,Peterboro,3,1,1,0
+26/11/05,Darlington,Rushden & D,1,1,0,1
+26/11/05,Macclesfield,Leyton Orient,0,0,0,0
+26/11/05,Mansfield,Stockport,2,1,2,0
+26/11/05,Northampton,Lincoln,1,1,0,1
+26/11/05,Notts County,Torquay,2,2,1,0
+26/11/05,Oxford,Grimsby,2,3,0,1
+26/11/05,Rochdale,Shrewsbury,4,3,1,3
+03/12/05,Barnet,Bury,1,1,0,0
+03/12/05,Lincoln,Macclesfield,2,2,0,1
+06/12/05,Cheltenham,Oxford,1,2,1,2
+06/12/05,Grimsby,Rochdale,4,1,0,1
+06/12/05,Leyton Orient,Chester,0,1,0,1
+06/12/05,Peterboro,Notts County,2,0,1,0
+06/12/05,Rushden & D,Carlisle,0,4,0,2
+06/12/05,Shrewsbury,Darlington,3,1,1,1
+06/12/05,Stockport,Bristol Rvs,0,1,0,1
+06/12/05,Torquay,Northampton,3,3,0,1
+06/12/05,Wrexham,Mansfield,4,1,0,1
+06/12/05,Wycombe,Boston,1,1,0,1
+10/12/05,Barnet,Northampton,0,1,0,0
+10/12/05,Cheltenham,Macclesfield,2,2,0,0
+10/12/05,Grimsby,Bristol Rvs,0,1,0,0
+10/12/05,Leyton Orient,Bury,0,1,0,0
+10/12/05,Lincoln,Chester,3,1,0,0
+10/12/05,Peterboro,Carlisle,1,1,0,0
+10/12/05,Rushden & D,Mansfield,1,2,0,1
+10/12/05,Shrewsbury,Boston,1,1,1,0
+10/12/05,Stockport,Darlington,0,3,0,1
+10/12/05,Torquay,Oxford,3,3,2,3
+10/12/05,Wrexham,Notts County,1,1,0,0
+10/12/05,Wycombe,Rochdale,3,0,1,0
+16/12/05,Oxford,Lincoln,0,1,0,0
+17/12/05,Boston,Cheltenham,0,0,0,0
+17/12/05,Bristol Rvs,Torquay,0,1,0,0
+17/12/05,Bury,Wycombe,2,1,0,1
+17/12/05,Carlisle,Wrexham,2,1,0,0
+17/12/05,Chester,Rushden & D,1,2,1,1
+17/12/05,Macclesfield,Barnet,1,1,1,0
+17/12/05,Mansfield,Peterboro,0,0,0,0
+17/12/05,Northampton,Shrewsbury,1,0,0,0
+17/12/05,Notts County,Stockport,2,0,1,0
+17/12/05,Rochdale,Leyton Orient,2,4,1,2
+26/12/05,Barnet,Peterboro,2,1,1,1
+26/12/05,Bristol Rvs,Shrewsbury,2,1,2,0
+26/12/05,Bury,Grimsby,1,2,1,1
+26/12/05,Carlisle,Darlington,1,1,1,1
+26/12/05,Cheltenham,Chester,1,0,0,0
+26/12/05,Leyton Orient,Rushden & D,5,1,3,1
+26/12/05,Lincoln,Boston,0,0,0,0
+26/12/05,Macclesfield,Stockport,6,0,2,0
+26/12/05,Northampton,Mansfield,1,0,0,0
+26/12/05,Oxford,Notts County,3,0,0,0
+26/12/05,Torquay,Wycombe,2,2,2,0
+26/12/05,Wrexham,Rochdale,2,1,1,1
+28/12/05,Darlington,Barnet,2,1,1,0
+28/12/05,Grimsby,Lincoln,3,0,3,0
+28/12/05,Mansfield,Bristol Rvs,3,3,2,2
+28/12/05,Rushden & D,Cheltenham,0,1,0,0
+29/12/05,Wycombe,Leyton Orient,4,2,2,1
+31/12/05,Barnet,Boston,1,0,0,0
+31/12/05,Bristol Rvs,Wycombe,1,2,0,1
+31/12/05,Carlisle,Rochdale,2,1,0,1
+31/12/05,Cheltenham,Shrewsbury,1,0,0,0
+31/12/05,Leyton Orient,Notts County,1,0,1,0
+31/12/05,Lincoln,Darlington,2,2,2,0
+31/12/05,Macclesfield,Chester,1,0,0,0
+31/12/05,Northampton,Peterboro,0,1,0,1
+31/12/05,Oxford,Mansfield,1,2,1,0
+31/12/05,Torquay,Rushden & D,2,1,2,0
+31/12/05,Wrexham,Grimsby,1,2,1,0
+02/01/06,Boston,Leyton Orient,1,2,0,1
+02/01/06,Chester,Oxford,0,1,0,0
+02/01/06,Darlington,Torquay,3,2,1,1
+02/01/06,Grimsby,Carlisle,1,2,1,1
+02/01/06,Mansfield,Lincoln,0,0,0,0
+02/01/06,Notts County,Barnet,1,0,1,0
+02/01/06,Peterboro,Bury,4,1,2,0
+02/01/06,Rochdale,Northampton,1,1,0,0
+02/01/06,Rushden & D,Bristol Rvs,2,3,1,1
+02/01/06,Stockport,Cheltenham,2,2,1,0
+02/01/06,Wycombe,Macclesfield,4,5,1,3
+03/01/06,Shrewsbury,Wrexham,1,0,0,0
+07/01/06,Boston,Macclesfield,3,1,2,0
+07/01/06,Carlisle,Bury,4,0,2,0
+07/01/06,Notts County,Darlington,3,2,0,1
+07/01/06,Oxford,Shrewsbury,0,3,0,0
+07/01/06,Peterboro,Rushden & D,2,0,1,0
+07/01/06,Wrexham,Lincoln,1,1,0,0
+10/01/06,Barnet,Cheltenham,1,1,0,1
+10/01/06,Peterboro,Oxford,0,0,0,0
+14/01/06,Bury,Torquay,3,2,2,1
+14/01/06,Cheltenham,Bristol Rvs,2,3,0,1
+14/01/06,Chester,Boston,0,1,0,0
+14/01/06,Darlington,Peterboro,2,1,0,1
+14/01/06,Grimsby,Mansfield,2,1,1,0
+14/01/06,Leyton Orient,Northampton,1,2,0,1
+14/01/06,Lincoln,Barnet,4,1,1,1
+14/01/06,Macclesfield,Oxford,1,1,1,0
+14/01/06,Rochdale,Stockport,0,1,0,1
+14/01/06,Rushden & D,Wrexham,0,2,0,1
+14/01/06,Shrewsbury,Carlisle,2,1,1,1
+14/01/06,Wycombe,Notts County,2,0,0,0
+17/01/06,Darlington,Grimsby,0,0,0,0
+17/01/06,Shrewsbury,Mansfield,0,0,0,0
+18/01/06,Boston,Carlisle,0,5,0,1
+21/01/06,Barnet,Wycombe,0,0,0,0
+21/01/06,Boston,Bury,3,1,2,1
+21/01/06,Bristol Rvs,Chester,2,1,2,0
+21/01/06,Carlisle,Cheltenham,1,1,1,0
+21/01/06,Mansfield,Rochdale,1,0,1,0
+21/01/06,Northampton,Macclesfield,5,0,2,0
+21/01/06,Notts County,Shrewsbury,2,1,2,0
+21/01/06,Oxford,Darlington,0,2,0,0
+21/01/06,Peterboro,Lincoln,1,1,1,0
+21/01/06,Stockport,Rushden & D,2,2,0,0
+21/01/06,Torquay,Grimsby,2,2,1,1
+21/01/06,Wrexham,Leyton Orient,1,2,0,2
+24/01/06,Mansfield,Chester,1,2,0,0
+24/01/06,Notts County,Northampton,2,2,1,0
+24/01/06,Stockport,Grimsby,2,1,0,0
+24/01/06,Torquay,Rochdale,1,3,0,1
+28/01/06,Bury,Northampton,0,2,0,2
+28/01/06,Chester,Notts County,0,2,0,0
+28/01/06,Darlington,Mansfield,4,0,1,0
+28/01/06,Grimsby,Peterboro,1,2,1,1
+28/01/06,Lincoln,Bristol Rvs,1,0,0,0
+28/01/06,Rochdale,Boston,1,1,1,1
+28/01/06,Rushden & D,Oxford,3,0,3,0
+28/01/06,Shrewsbury,Torquay,0,1,0,0
+28/01/06,Wycombe,Stockport,1,1,0,1
+29/01/06,Macclesfield,Carlisle,3,0,3,0
+31/01/06,Bristol Rvs,Leyton Orient,3,3,1,0
+31/01/06,Northampton,Wycombe,0,0,0,0
+31/01/06,Shrewsbury,Macclesfield,1,1,0,1
+31/01/06,Stockport,Torquay,1,1,0,1
+04/02/06,Barnet,Shrewsbury,1,0,1,0
+04/02/06,Boston,Darlington,0,0,0,0
+04/02/06,Bristol Rvs,Bury,1,0,1,0
+04/02/06,Carlisle,Chester,5,0,2,0
+04/02/06,Mansfield,Macclesfield,1,1,0,0
+04/02/06,Northampton,Rushden & D,2,0,1,0
+04/02/06,Notts County,Grimsby,0,1,0,1
+04/02/06,Oxford,Rochdale,1,1,1,1
+04/02/06,Peterboro,Cheltenham,1,0,0,0
+04/02/06,Stockport,Lincoln,2,3,0,0
+04/02/06,Torquay,Leyton Orient,2,0,0,0
+04/02/06,Wrexham,Wycombe,2,0,2,0
+07/02/06,Bury,Rushden & D,1,1,0,0
+11/02/06,Cheltenham,Northampton,3,1,2,0
+11/02/06,Chester,Stockport,1,2,0,0
+11/02/06,Darlington,Bristol Rvs,1,1,0,0
+11/02/06,Grimsby,Boston,1,0,0,0
+11/02/06,Leyton Orient,Carlisle,0,0,0,0
+11/02/06,Lincoln,Torquay,2,0,1,0
+11/02/06,Rushden & D,Notts County,1,0,1,0
+11/02/06,Shrewsbury,Peterboro,2,1,0,1
+11/02/06,Wycombe,Mansfield,2,2,0,2
+14/02/06,Barnet,Lincoln,2,3,1,0
+14/02/06,Bristol Rvs,Cheltenham,0,1,0,0
+14/02/06,Carlisle,Shrewsbury,2,2,1,1
+14/02/06,Mansfield,Grimsby,2,1,2,0
+14/02/06,Northampton,Leyton Orient,1,1,1,0
+14/02/06,Notts County,Wycombe,1,2,0,1
+14/02/06,Peterboro,Darlington,2,1,1,1
+14/02/06,Stockport,Rochdale,3,0,2,0
+14/02/06,Torquay,Bury,0,0,0,0
+14/02/06,Wrexham,Rushden & D,2,0,2,0
+15/02/06,Oxford,Macclesfield,1,1,1,1
+17/02/06,Northampton,Torquay,1,0,0,0
+18/02/06,Boston,Wycombe,1,1,0,0
+18/02/06,Bristol Rvs,Stockport,2,2,1,0
+18/02/06,Bury,Barnet,0,0,0,0
+18/02/06,Carlisle,Rushden & D,5,0,2,0
+18/02/06,Chester,Leyton Orient,0,2,0,1
+18/02/06,Darlington,Shrewsbury,0,1,0,0
+18/02/06,Macclesfield,Lincoln,1,1,1,0
+18/02/06,Mansfield,Wrexham,2,2,0,0
+18/02/06,Notts County,Peterboro,1,2,0,1
+18/02/06,Oxford,Cheltenham,1,1,0,0
+25/02/06,Barnet,Carlisle,1,2,0,0
+25/02/06,Cheltenham,Rochdale,1,1,1,0
+25/02/06,Grimsby,Chester,1,0,1,0
+25/02/06,Leyton Orient,Darlington,1,0,1,0
+25/02/06,Lincoln,Notts County,2,1,1,0
+25/02/06,Peterboro,Bristol Rvs,1,2,0,1
+25/02/06,Rushden & D,Macclesfield,1,0,0,0
+25/02/06,Shrewsbury,Bury,0,1,0,1
+25/02/06,Stockport,Boston,0,1,0,0
+25/02/06,Torquay,Mansfield,0,2,0,1
+25/02/06,Wrexham,Northampton,0,1,0,0
+25/02/06,Wycombe,Oxford,2,1,1,0
+28/02/06,Leyton Orient,Barnet,0,0,0,0
+28/02/06,Rochdale,Bury,1,1,0,0
+04/03/06,Barnet,Wrexham,2,2,2,1
+04/03/06,Cheltenham,Wycombe,2,1,0,1
+04/03/06,Notts County,Mansfield,2,2,1,0
+04/03/06,Peterboro,Stockport,2,0,0,0
+04/03/06,Rushden & D,Grimsby,1,1,0,0
+04/03/06,Shrewsbury,Leyton Orient,3,3,3,2
+07/03/06,Bury,Stockport,0,1,0,0
+07/03/06,Chester,Torquay,1,1,0,1
+10/03/06,Northampton,Carlisle,0,3,0,1
+11/03/06,Bristol Rvs,Notts County,1,2,0,1
+11/03/06,Darlington,Chester,1,0,0,0
+11/03/06,Grimsby,Barnet,3,0,3,0
+11/03/06,Leyton Orient,Cheltenham,1,0,1,0
+11/03/06,Lincoln,Rushden & D,2,2,1,0
+11/03/06,Macclesfield,Rochdale,1,3,0,1
+11/03/06,Mansfield,Boston,5,0,1,0
+11/03/06,Stockport,Oxford,2,1,1,0
+11/03/06,Torquay,Peterboro,1,0,0,0
+11/03/06,Wrexham,Bury,0,0,0,0
+11/03/06,Wycombe,Shrewsbury,2,0,1,0
+14/03/06,Macclesfield,Wrexham,3,2,1,2
+15/03/06,Oxford,Bristol Rvs,1,0,0,0
+18/03/06,Boston,Lincoln,2,1,1,0
+18/03/06,Chester,Cheltenham,0,1,0,1
+18/03/06,Darlington,Carlisle,0,5,0,1
+18/03/06,Grimsby,Bury,2,1,2,0
+18/03/06,Mansfield,Northampton,1,0,0,0
+18/03/06,Notts County,Oxford,0,0,0,0
+18/03/06,Peterboro,Barnet,2,2,0,1
+18/03/06,Rochdale,Wrexham,0,1,0,1
+18/03/06,Rushden & D,Leyton Orient,1,0,1,0
+18/03/06,Shrewsbury,Bristol Rvs,1,0,0,0
+18/03/06,Stockport,Macclesfield,2,0,1,0
+18/03/06,Wycombe,Torquay,0,1,0,0
+21/03/06,Bury,Oxford,1,1,0,0
+21/03/06,Cheltenham,Wrexham,2,2,1,1
+21/03/06,Rochdale,Grimsby,2,2,0,1
+22/03/06,Boston,Northampton,0,1,0,0
+25/03/06,Barnet,Darlington,1,0,0,0
+25/03/06,Bristol Rvs,Mansfield,2,0,2,0
+25/03/06,Bury,Rochdale,2,1,1,0
+25/03/06,Carlisle,Boston,4,2,2,0
+25/03/06,Cheltenham,Rushden & D,3,1,3,0
+25/03/06,Leyton Orient,Wycombe,1,0,1,0
+25/03/06,Lincoln,Grimsby,5,0,4,0
+25/03/06,Macclesfield,Shrewsbury,2,0,1,0
+25/03/06,Northampton,Notts County,2,0,1,0
+25/03/06,Oxford,Peterboro,1,0,0,0
+26/03/06,Wrexham,Chester,2,1,2,0
+28/03/06,Carlisle,Lincoln,1,0,0,0
+29/03/06,Boston,Chester,1,3,0,1
+01/04/06,Boston,Barnet,2,1,2,0
+01/04/06,Chester,Macclesfield,2,1,0,0
+01/04/06,Darlington,Lincoln,4,2,0,0
+01/04/06,Grimsby,Wrexham,2,0,1,0
+01/04/06,Mansfield,Oxford,1,0,0,0
+01/04/06,Notts County,Leyton Orient,1,1,0,0
+01/04/06,Peterboro,Northampton,0,1,0,1
+01/04/06,Rushden & D,Torquay,1,0,1,0
+01/04/06,Shrewsbury,Cheltenham,2,0,1,0
+01/04/06,Stockport,Bury,0,1,0,1
+01/04/06,Wycombe,Bristol Rvs,1,3,0,1
+04/04/06,Bury,Macclesfield,0,0,0,0
+04/04/06,Rochdale,Darlington,0,2,0,1
+08/04/06,Barnet,Notts County,2,1,0,0
+08/04/06,Bristol Rvs,Rushden & D,0,1,0,0
+08/04/06,Bury,Peterboro,1,3,0,1
+08/04/06,Carlisle,Grimsby,1,0,0,0
+08/04/06,Cheltenham,Stockport,3,3,1,1
+08/04/06,Leyton Orient,Boston,2,0,0,0
+08/04/06,Lincoln,Mansfield,1,1,0,0
+08/04/06,Macclesfield,Wycombe,2,1,1,0
+08/04/06,Northampton,Rochdale,2,2,2,0
+08/04/06,Oxford,Chester,0,1,0,1
+08/04/06,Torquay,Darlington,1,2,1,0
+09/04/06,Wrexham,Shrewsbury,1,2,0,2
+12/04/06,Chester,Wrexham,2,1,0,0
+15/04/06,Bristol Rvs,Carlisle,1,1,0,0
+15/04/06,Chester,Wycombe,1,0,0,0
+15/04/06,Darlington,Northampton,0,1,0,0
+15/04/06,Grimsby,Shrewsbury,1,1,0,1
+15/04/06,Lincoln,Bury,1,1,0,1
+15/04/06,Mansfield,Leyton Orient,0,1,0,0
+15/04/06,Notts County,Macclesfield,1,1,1,0
+15/04/06,Oxford,Barnet,2,0,2,0
+15/04/06,Peterboro,Boston,0,1,0,0
+15/04/06,Rushden & D,Rochdale,1,1,0,0
+15/04/06,Stockport,Wrexham,2,1,2,1
+15/04/06,Torquay,Cheltenham,1,2,1,0
+17/04/06,Barnet,Mansfield,1,0,1,0
+17/04/06,Boston,Oxford,1,0,1,0
+17/04/06,Bury,Chester,0,0,0,0
+17/04/06,Carlisle,Notts County,2,1,1,1
+17/04/06,Cheltenham,Darlington,1,1,0,0
+17/04/06,Leyton Orient,Grimsby,0,0,0,0
+17/04/06,Macclesfield,Torquay,0,2,0,0
+17/04/06,Northampton,Stockport,2,0,0,0
+17/04/06,Rochdale,Peterboro,1,0,0,0
+17/04/06,Wrexham,Bristol Rvs,1,0,1,0
+17/04/06,Wycombe,Lincoln,0,3,0,0
+18/04/06,Shrewsbury,Rushden & D,4,1,2,0
+21/04/06,Grimsby,Cheltenham,1,0,0,0
+22/04/06,Bristol Rvs,Boston,3,1,1,0
+22/04/06,Chester,Barnet,0,0,0,0
+22/04/06,Darlington,Bury,2,3,1,1
+22/04/06,Lincoln,Leyton Orient,1,1,1,1
+22/04/06,Mansfield,Carlisle,1,1,0,0
+22/04/06,Notts County,Rochdale,1,1,0,0
+22/04/06,Oxford,Northampton,1,3,0,1
+22/04/06,Peterboro,Macclesfield,3,2,0,0
+22/04/06,Rushden & D,Wycombe,1,3,1,0
+22/04/06,Stockport,Shrewsbury,3,1,1,0
+22/04/06,Torquay,Wrexham,1,0,1,0
+25/04/06,Rochdale,Barnet,1,1,1,1
+25/04/06,Torquay,Stockport,4,0,3,0
+29/04/06,Barnet,Stockport,0,0,0,0
+29/04/06,Boston,Rushden & D,2,0,0,0
+29/04/06,Bury,Mansfield,0,0,0,0
+29/04/06,Carlisle,Torquay,1,2,0,2
+29/04/06,Cheltenham,Notts County,2,0,1,0
+29/04/06,Leyton Orient,Peterboro,2,1,1,0
+29/04/06,Macclesfield,Grimsby,1,1,1,1
+29/04/06,Northampton,Chester,1,0,1,0
+29/04/06,Rochdale,Bristol Rvs,2,0,1,0
+29/04/06,Shrewsbury,Lincoln,0,1,0,0
+29/04/06,Wrexham,Oxford,1,1,1,0
+29/04/06,Wycombe,Darlington,0,1,0,0
+02/05/06,Rochdale,Carlisle,0,2,0,2
+06/05/06,Bristol Rvs,Macclesfield,2,3,1,2
+06/05/06,Chester,Shrewsbury,0,1,0,1
+06/05/06,Darlington,Wrexham,1,1,0,1
+06/05/06,Grimsby,Northampton,1,1,0,0
+06/05/06,Lincoln,Rochdale,1,1,0,0
+06/05/06,Mansfield,Cheltenham,0,5,0,2
+06/05/06,Notts County,Bury,2,2,0,1
+06/05/06,Oxford,Leyton Orient,2,3,1,1
+06/05/06,Peterboro,Wycombe,0,2,0,1
+06/05/06,Rushden & D,Barnet,1,2,0,0
+06/05/06,Stockport,Carlisle,0,0,0,0
+06/05/06,Torquay,Boston,0,0,0,0
