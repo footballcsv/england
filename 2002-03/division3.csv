@@ -1,552 +1,553 @@
-10/08/02,Boston,Bournemouth,2,2,0,1
-10/08/02,Cambridge,Darlington,1,2,1,1
-10/08/02,Carlisle,Hartlepool,1,3,0,1
-10/08/02,Hull,Southend,2,2,1,0
-10/08/02,Kidderminster,Lincoln,1,1,0,1
-10/08/02,Macclesfield,York,1,1,1,0
-10/08/02,Oxford,Bury,2,1,2,0
-10/08/02,Rochdale,Leyton Orient,1,0,0,0
-10/08/02,Scunthorpe,Wrexham,1,1,1,0
-10/08/02,Shrewsbury,Exeter,1,0,1,0
-10/08/02,Swansea,Rushden & D,2,2,1,1
-10/08/02,Torquay,Bristol Rvs,2,1,1,1
-13/08/02,Bournemouth,Kidderminster,0,0,0,0
-13/08/02,Bristol Rvs,Hull,1,1,1,0
-13/08/02,Bury,Cambridge,0,1,0,0
-13/08/02,Darlington,Swansea,2,2,0,0
-13/08/02,Exeter,Scunthorpe,1,1,0,0
-13/08/02,Hartlepool,Boston,2,0,0,0
-13/08/02,Leyton Orient,Macclesfield,3,2,3,0
-13/08/02,Lincoln,Rochdale,2,0,0,0
-13/08/02,Rushden & D,Torquay,3,0,1,0
-13/08/02,Southend,Carlisle,0,1,0,0
-13/08/02,Wrexham,Oxford,1,0,0,0
-13/08/02,York,Shrewsbury,2,1,0,1
-17/08/02,Bournemouth,Cambridge,1,1,0,1
-17/08/02,Bristol Rvs,Rochdale,1,2,1,1
-17/08/02,Bury,Swansea,3,2,2,0
-17/08/02,Darlington,Oxford,0,1,0,1
-17/08/02,Exeter,Hull,3,1,2,1
-17/08/02,Hartlepool,Macclesfield,0,2,0,0
-17/08/02,Leyton Orient,Scunthorpe,2,0,1,0
-17/08/02,Lincoln,Carlisle,0,1,0,0
-17/08/02,Rushden & D,Kidderminster,3,1,1,0
-17/08/02,Southend,Shrewsbury,2,3,1,1
-17/08/02,Wrexham,Boston,1,1,1,0
-17/08/02,York,Torquay,4,3,1,0
-24/08/02,Boston,Lincoln,2,0,1,0
-24/08/02,Cambridge,Leyton Orient,2,1,1,0
-24/08/02,Carlisle,Bristol Rvs,0,0,0,0
-24/08/02,Hull,Bury,1,1,1,0
-24/08/02,Kidderminster,Exeter,4,3,2,2
-24/08/02,Macclesfield,Wrexham,0,1,0,0
-24/08/02,Oxford,Southend,0,1,0,1
-24/08/02,Rochdale,Darlington,1,1,1,1
-24/08/02,Scunthorpe,York,2,1,2,1
-24/08/02,Shrewsbury,Rushden & D,1,1,0,0
-24/08/02,Swansea,Bournemouth,2,0,1,0
-24/08/02,Torquay,Hartlepool,1,1,0,0
-26/08/02,Bury,Shrewsbury,4,3,1,0
-26/08/02,Exeter,Torquay,1,2,1,2
-26/08/02,Hartlepool,Hull,2,0,1,0
-26/08/02,Leyton Orient,Kidderminster,0,0,0,0
-26/08/02,Lincoln,Macclesfield,3,0,1,0
-26/08/02,Rushden & D,Scunthorpe,2,0,1,0
-26/08/02,Southend,Cambridge,2,1,2,1
-26/08/02,Wrexham,Rochdale,2,5,2,4
-26/08/02,York,Boston,2,0,1,0
-27/08/02,Bournemouth,Oxford,1,1,1,0
-27/08/02,Bristol Rvs,Swansea,3,1,1,0
-27/08/02,Darlington,Carlisle,2,0,0,0
-31/08/02,Boston,Bury,1,1,0,0
-31/08/02,Cambridge,Rushden & D,4,1,1,0
-31/08/02,Carlisle,Exeter,0,2,0,2
-31/08/02,Hull,Leyton Orient,1,1,1,1
-31/08/02,Kidderminster,Darlington,1,1,0,0
-31/08/02,Macclesfield,Bournemouth,0,1,0,1
-31/08/02,Oxford,Hartlepool,0,1,0,1
-31/08/02,Rochdale,Southend,1,2,0,1
-31/08/02,Scunthorpe,Bristol Rvs,2,2,2,0
-31/08/02,Shrewsbury,Lincoln,1,2,1,0
-31/08/02,Swansea,York,1,2,0,1
-31/08/02,Torquay,Wrexham,2,1,2,1
-06/09/02,Bury,York,2,1,2,0
-06/09/02,Carlisle,Rochdale,0,2,0,2
-07/09/02,Cambridge,Hull,1,2,0,0
-07/09/02,Exeter,Bournemouth,1,3,1,2
-07/09/02,Kidderminster,Boston,0,0,0,0
-07/09/02,Lincoln,Scunthorpe,1,0,1,0
-07/09/02,Oxford,Torquay,2,2,0,0
-07/09/02,Rushden & D,Southend,3,0,2,0
-07/09/02,Shrewsbury,Leyton Orient,2,1,0,1
-07/09/02,Swansea,Hartlepool,2,2,2,2
-08/09/02,Macclesfield,Bristol Rvs,2,1,2,0
-14/09/02,Boston,Oxford,1,3,0,3
-14/09/02,Bournemouth,Bury,1,2,0,1
-14/09/02,Bristol Rvs,Exeter,1,1,1,1
-14/09/02,Hartlepool,Darlington,4,1,2,1
-14/09/02,Hull,Carlisle,4,0,1,0
-14/09/02,Leyton Orient,Lincoln,1,1,0,0
-14/09/02,Rochdale,Shrewsbury,1,1,0,1
-14/09/02,Scunthorpe,Kidderminster,1,1,0,1
-14/09/02,Southend,Macclesfield,1,0,1,0
-14/09/02,Torquay,Cambridge,3,2,1,0
-14/09/02,Wrexham,Swansea,4,0,3,0
-14/09/02,York,Rushden & D,0,0,0,0
-17/09/02,Bournemouth,Rushden & D,3,1,1,1
-17/09/02,Bristol Rvs,Bury,2,1,2,0
-17/09/02,Hartlepool,Lincoln,2,1,0,1
-17/09/02,Hull,Macclesfield,1,3,1,0
-17/09/02,Leyton Orient,Oxford,1,2,0,1
-17/09/02,Rochdale,Cambridge,4,3,1,2
-17/09/02,Scunthorpe,Carlisle,3,1,1,1
-17/09/02,Southend,Kidderminster,0,2,0,1
-17/09/02,Torquay,Shrewsbury,2,1,1,0
-17/09/02,Wrexham,Exeter,4,0,2,0
-17/09/02,York,Darlington,1,0,0,0
-18/09/02,Boston,Swansea,1,0,1,0
-21/09/02,Bury,Hartlepool,1,1,1,0
-21/09/02,Cambridge,York,3,0,1,0
-21/09/02,Carlisle,Boston,4,2,4,1
-21/09/02,Darlington,Bournemouth,2,2,1,1
-21/09/02,Exeter,Leyton Orient,1,0,0,0
-21/09/02,Kidderminster,Rochdale,0,0,0,0
-21/09/02,Lincoln,Southend,2,1,0,0
-21/09/02,Macclesfield,Scunthorpe,2,3,0,2
-21/09/02,Oxford,Hull,0,0,0,0
-21/09/02,Rushden & D,Wrexham,2,2,1,1
-21/09/02,Shrewsbury,Bristol Rvs,2,5,0,1
-21/09/02,Swansea,Torquay,0,1,0,1
-24/09/02,Darlington,Wrexham,0,1,0,1
-28/09/02,Boston,Cambridge,1,3,1,2
-28/09/02,Bournemouth,Carlisle,3,1,0,0
-28/09/02,Bristol Rvs,Kidderminster,1,2,0,1
-28/09/02,Hartlepool,Rushden & D,1,2,1,0
-28/09/02,Hull,Swansea,1,1,1,0
-28/09/02,Leyton Orient,Darlington,2,1,0,1
-28/09/02,Rochdale,Macclesfield,3,1,1,1
-28/09/02,Scunthorpe,Shrewsbury,1,1,0,1
-28/09/02,Southend,Exeter,1,0,1,0
-28/09/02,Torquay,Lincoln,0,0,0,0
-28/09/02,Wrexham,Bury,2,2,2,1
-28/09/02,York,Oxford,0,1,0,0
-05/10/02,Bury,Southend,1,3,1,0
-05/10/02,Cambridge,Wrexham,2,2,0,1
-05/10/02,Carlisle,Torquay,1,2,1,1
-05/10/02,Darlington,Bristol Rvs,1,0,1,0
-05/10/02,Exeter,York,0,1,0,1
-05/10/02,Kidderminster,Hull,1,0,0,0
-05/10/02,Lincoln,Bournemouth,1,2,1,1
-05/10/02,Macclesfield,Boston,2,0,1,0
-05/10/02,Oxford,Scunthorpe,0,1,0,0
-05/10/02,Rushden & D,Leyton Orient,2,0,0,0
-05/10/02,Shrewsbury,Hartlepool,0,1,0,0
-05/10/02,Swansea,Rochdale,1,1,1,0
-12/10/02,Boston,Torquay,2,1,0,1
-12/10/02,Bristol Rvs,Lincoln,2,0,1,0
-12/10/02,Bury,Darlington,2,2,0,1
-12/10/02,Carlisle,Shrewsbury,1,2,0,1
-12/10/02,Exeter,Rushden & D,1,1,1,1
-12/10/02,Hull,Rochdale,3,0,2,0
-12/10/02,Kidderminster,Macclesfield,0,2,0,1
-12/10/02,Oxford,Swansea,1,0,0,0
-12/10/02,Scunthorpe,Cambridge,1,2,1,0
-12/10/02,Southend,York,1,0,0,0
-12/10/02,Wrexham,Leyton Orient,0,0,0,0
-13/10/02,Bournemouth,Hartlepool,2,1,0,1
-19/10/02,Cambridge,Oxford,1,1,1,0
-19/10/02,Darlington,Boston,2,3,0,1
-19/10/02,Hartlepool,Wrexham,4,3,3,1
-19/10/02,Leyton Orient,Bournemouth,0,0,0,0
-19/10/02,Lincoln,Exeter,1,0,0,0
-19/10/02,Macclesfield,Carlisle,2,2,1,1
-19/10/02,Rochdale,Scunthorpe,1,2,0,0
-19/10/02,Rushden & D,Bury,0,1,0,1
-19/10/02,Shrewsbury,Kidderminster,2,3,2,2
-19/10/02,Swansea,Southend,1,0,0,0
-19/10/02,Torquay,Hull,1,4,0,1
-19/10/02,York,Bristol Rvs,2,2,1,2
-25/10/02,Southend,Hartlepool,0,1,0,1
-26/10/02,Boston,Rochdale,3,1,1,0
-26/10/02,Bournemouth,York,1,0,0,0
-26/10/02,Bristol Rvs,Leyton Orient,1,2,0,0
-26/10/02,Bury,Macclesfield,2,1,1,0
-26/10/02,Carlisle,Swansea,2,2,1,1
-26/10/02,Exeter,Darlington,0,4,0,2
-26/10/02,Hull,Rushden & D,1,1,1,1
-26/10/02,Kidderminster,Cambridge,2,1,2,1
-26/10/02,Oxford,Shrewsbury,2,2,2,2
-26/10/02,Scunthorpe,Torquay,5,1,2,1
-26/10/02,Wrexham,Lincoln,0,2,0,0
-29/10/02,Cambridge,Carlisle,2,1,1,1
-29/10/02,Darlington,Scunthorpe,1,1,1,1
-29/10/02,Hartlepool,Bristol Rvs,2,0,1,0
-29/10/02,Leyton Orient,Southend,2,1,2,0
-29/10/02,Lincoln,Bury,1,1,1,0
-29/10/02,Macclesfield,Oxford,2,1,0,0
-29/10/02,Rochdale,Exeter,3,3,1,1
-29/10/02,Rushden & D,Boston,1,0,1,0
-29/10/02,Shrewsbury,Hull,1,1,0,0
-29/10/02,Swansea,Kidderminster,0,4,0,1
-29/10/02,Torquay,Bournemouth,4,0,2,0
-29/10/02,York,Wrexham,1,1,0,1
-01/11/02,Hartlepool,York,0,0,0,0
-02/11/02,Boston,Exeter,0,3,0,1
-02/11/02,Bournemouth,Bristol Rvs,1,0,1,0
-02/11/02,Cambridge,Swansea,1,0,0,0
-02/11/02,Carlisle,Oxford,1,0,1,0
-02/11/02,Darlington,Lincoln,0,0,0,0
-02/11/02,Hull,Scunthorpe,2,0,0,0
-02/11/02,Leyton Orient,Bury,1,2,0,1
-02/11/02,Macclesfield,Shrewsbury,1,2,0,1
-02/11/02,Rochdale,Rushden & D,0,1,0,0
-02/11/02,Southend,Wrexham,0,1,0,1
-09/11/02,Bristol Rvs,Southend,0,1,0,0
-09/11/02,Bury,Torquay,0,1,0,0
-09/11/02,Exeter,Hartlepool,1,2,0,0
-09/11/02,Kidderminster,Carlisle,1,2,0,1
-09/11/02,Lincoln,Hull,1,1,1,1
-09/11/02,Oxford,Rochdale,2,0,1,0
-09/11/02,Rushden & D,Darlington,2,0,0,0
-09/11/02,Scunthorpe,Boston,2,0,1,0
-09/11/02,Shrewsbury,Cambridge,3,1,0,0
-09/11/02,Swansea,Macclesfield,1,0,0,0
-09/11/02,Wrexham,Bournemouth,3,2,1,1
-09/11/02,York,Leyton Orient,3,2,1,1
-19/11/02,Torquay,Kidderminster,2,2,2,0
-23/11/02,Bristol Rvs,Wrexham,0,3,0,2
-23/11/02,Carlisle,Bury,1,2,0,0
-23/11/02,Exeter,Cambridge,1,2,1,1
-23/11/02,Hull,Boston,1,0,0,0
-23/11/02,Leyton Orient,Hartlepool,1,2,0,1
-23/11/02,Lincoln,Rushden & D,1,2,0,1
-23/11/02,Macclesfield,Torquay,3,3,1,3
-23/11/02,Rochdale,York,0,1,0,0
-23/11/02,Scunthorpe,Swansea,2,0,2,0
-23/11/02,Shrewsbury,Darlington,2,2,2,0
-23/11/02,Southend,Bournemouth,0,1,0,0
-30/11/02,Boston,Leyton Orient,0,1,0,1
-30/11/02,Bournemouth,Scunthorpe,2,1,0,1
-30/11/02,Bury,Exeter,1,0,0,0
-30/11/02,Cambridge,Macclesfield,3,1,1,1
-30/11/02,Darlington,Southend,2,1,1,0
-30/11/02,Hartlepool,Kidderminster,2,1,2,0
-30/11/02,Oxford,Lincoln,1,0,0,0
-30/11/02,Rushden & D,Bristol Rvs,2,1,1,1
-30/11/02,Swansea,Shrewsbury,2,0,1,0
-30/11/02,Torquay,Rochdale,2,2,0,0
-30/11/02,Wrexham,Hull,0,0,0,0
-30/11/02,York,Carlisle,2,1,1,0
-14/12/02,Bristol Rvs,Oxford,0,2,0,1
-14/12/02,Carlisle,Wrexham,1,2,1,1
-14/12/02,Exeter,Swansea,1,0,0,0
-14/12/02,Hull,Darlington,0,1,0,1
-14/12/02,Kidderminster,York,1,2,1,1
-14/12/02,Leyton Orient,Torquay,2,0,2,0
-14/12/02,Lincoln,Cambridge,2,2,1,1
-14/12/02,Macclesfield,Rushden & D,0,1,0,0
-14/12/02,Rochdale,Hartlepool,4,0,2,0
-14/12/02,Scunthorpe,Bury,0,1,0,0
-14/12/02,Shrewsbury,Bournemouth,0,0,0,0
-14/12/02,Southend,Boston,4,2,3,0
-20/12/02,York,Lincoln,1,1,0,1
-21/12/02,Boston,Shrewsbury,6,0,4,0
-21/12/02,Bournemouth,Hull,0,0,0,0
-21/12/02,Bury,Rochdale,1,1,0,0
-21/12/02,Cambridge,Bristol Rvs,3,1,1,1
-21/12/02,Darlington,Macclesfield,0,0,0,0
-21/12/02,Hartlepool,Scunthorpe,2,2,1,1
-21/12/02,Oxford,Exeter,2,2,0,0
-21/12/02,Rushden & D,Carlisle,1,1,1,1
-21/12/02,Swansea,Leyton Orient,0,1,0,0
-21/12/02,Torquay,Southend,3,1,1,0
-21/12/02,Wrexham,Kidderminster,0,2,0,1
-26/12/02,Boston,York,3,0,1,0
-26/12/02,Cambridge,Southend,1,1,0,1
-26/12/02,Carlisle,Darlington,2,2,2,1
-26/12/02,Hull,Hartlepool,2,0,1,0
-26/12/02,Kidderminster,Leyton Orient,3,2,1,1
-26/12/02,Macclesfield,Lincoln,0,1,0,0
-26/12/02,Oxford,Bournemouth,3,0,1,0
-26/12/02,Rochdale,Wrexham,2,2,2,1
-26/12/02,Scunthorpe,Rushden & D,0,0,0,0
-26/12/02,Shrewsbury,Bury,4,1,1,0
-26/12/02,Swansea,Bristol Rvs,0,1,0,1
-28/12/02,Bournemouth,Rochdale,3,3,2,2
-28/12/02,Bristol Rvs,Boston,1,1,0,1
-28/12/02,Darlington,Torquay,1,1,1,0
-28/12/02,Exeter,Macclesfield,1,1,0,1
-28/12/02,Hartlepool,Cambridge,3,0,1,0
-28/12/02,Leyton Orient,Carlisle,2,1,2,1
-28/12/02,Lincoln,Swansea,1,0,0,0
-28/12/02,Rushden & D,Oxford,0,2,0,2
-28/12/02,York,Hull,1,1,1,0
-29/12/02,Bury,Kidderminster,1,1,0,0
-29/12/02,Southend,Scunthorpe,1,2,1,0
-01/01/03,Bury,Hull,1,0,0,0
-01/01/03,Hartlepool,Carlisle,2,1,0,1
-01/01/03,Lincoln,Boston,1,1,1,0
-01/01/03,Rushden & D,Shrewsbury,5,1,3,0
-01/01/03,Wrexham,Macclesfield,1,3,1,1
-01/01/03,York,Scunthorpe,1,3,1,2
-04/01/03,Boston,Hartlepool,0,1,0,0
-04/01/03,Carlisle,Southend,1,0,1,0
-04/01/03,Hull,Bristol Rvs,1,0,1,0
-04/01/03,Torquay,Rushden & D,1,1,1,0
-11/01/03,Hull,Exeter,2,2,0,0
-11/01/03,Kidderminster,Rushden & D,0,2,0,1
-11/01/03,Scunthorpe,Leyton Orient,2,1,1,1
-11/01/03,Torquay,York,3,1,3,1
-14/01/03,Bristol Rvs,Torquay,1,1,1,1
-14/01/03,Oxford,Darlington,1,1,0,0
-14/01/03,Shrewsbury,Southend,0,1,0,1
-14/01/03,Swansea,Bury,2,3,0,3
-18/01/03,Bournemouth,Macclesfield,2,2,0,2
-18/01/03,Bristol Rvs,Scunthorpe,2,1,0,0
-18/01/03,Bury,Boston,0,0,0,0
-18/01/03,Darlington,Kidderminster,2,1,0,0
-18/01/03,Exeter,Carlisle,1,0,0,0
-18/01/03,Hartlepool,Oxford,3,1,2,1
-18/01/03,Leyton Orient,Hull,2,0,2,0
-18/01/03,Lincoln,Shrewsbury,1,1,1,0
-18/01/03,Rushden & D,Cambridge,4,1,1,0
-18/01/03,Southend,Rochdale,1,0,0,0
-18/01/03,Wrexham,Torquay,2,1,1,1
-18/01/03,York,Swansea,3,1,2,1
-21/01/03,Macclesfield,Hartlepool,0,1,0,1
-21/01/03,Rochdale,Lincoln,0,1,0,0
-21/01/03,Scunthorpe,Exeter,1,1,1,0
-21/01/03,Southend,Oxford,2,1,1,0
-25/01/03,Boston,Bristol Rvs,0,0,0,0
-25/01/03,Cambridge,Hartlepool,0,0,0,0
-25/01/03,Carlisle,Leyton Orient,3,0,0,0
-25/01/03,Hull,York,0,0,0,0
-25/01/03,Kidderminster,Bury,3,2,2,0
-25/01/03,Macclesfield,Exeter,1,1,0,0
-25/01/03,Oxford,Rushden & D,3,0,0,0
-25/01/03,Scunthorpe,Southend,4,1,3,1
-25/01/03,Swansea,Lincoln,2,0,1,0
-25/01/03,Torquay,Darlington,3,1,3,1
-28/01/03,Kidderminster,Oxford,1,3,0,2
-28/01/03,Leyton Orient,Cambridge,1,1,0,1
-01/02/03,Bournemouth,Boston,2,1,0,0
-01/02/03,Bristol Rvs,Carlisle,1,2,1,1
-01/02/03,Exeter,Shrewsbury,1,1,1,0
-01/02/03,Hartlepool,Torquay,3,2,0,1
-01/02/03,Rushden & D,Swansea,1,1,0,1
-01/02/03,Southend,Hull,3,0,3,0
-01/02/03,Wrexham,Scunthorpe,2,1,1,0
-02/02/03,York,Macclesfield,2,1,1,0
-04/02/03,Cambridge,Bury,1,2,1,0
-04/02/03,Carlisle,Lincoln,1,4,0,2
-04/02/03,Kidderminster,Bournemouth,1,0,0,0
-04/02/03,Oxford,Wrexham,0,2,0,0
-04/02/03,Swansea,Darlington,1,0,1,0
-08/02/03,Boston,Scunthorpe,1,0,0,0
-08/02/03,Bournemouth,Wrexham,2,0,0,0
-08/02/03,Cambridge,Shrewsbury,5,0,2,0
-08/02/03,Carlisle,Kidderminster,2,2,2,1
-08/02/03,Darlington,Rushden & D,2,2,0,0
-08/02/03,Hartlepool,Exeter,2,1,0,0
-08/02/03,Hull,Lincoln,0,1,0,0
-08/02/03,Leyton Orient,York,0,1,0,0
-08/02/03,Macclesfield,Swansea,1,3,1,1
-08/02/03,Rochdale,Oxford,2,1,1,0
-08/02/03,Southend,Bristol Rvs,2,2,1,0
-08/02/03,Torquay,Bury,1,1,1,1
-11/02/03,Bournemouth,Swansea,3,0,1,0
-11/02/03,Darlington,Rochdale,0,1,0,1
-11/02/03,Shrewsbury,York,2,2,1,0
-11/02/03,Torquay,Exeter,1,0,1,0
-15/02/03,Bristol Rvs,Bournemouth,0,0,0,0
-15/02/03,Bury,Leyton Orient,0,1,0,0
-15/02/03,Exeter,Boston,0,2,0,1
-15/02/03,Kidderminster,Torquay,2,0,1,0
-15/02/03,Lincoln,Darlington,1,1,1,1
-15/02/03,Scunthorpe,Hull,3,1,0,0
-15/02/03,Swansea,Cambridge,2,0,0,0
-15/02/03,Wrexham,Southend,3,0,1,0
-15/02/03,York,Hartlepool,0,0,0,0
-18/02/03,Exeter,Kidderminster,2,5,1,3
-22/02/03,Boston,Kidderminster,3,0,2,0
-22/02/03,Bournemouth,Exeter,2,0,1,0
-22/02/03,Bristol Rvs,Macclesfield,1,1,0,0
-22/02/03,Hartlepool,Swansea,4,0,2,0
-22/02/03,Hull,Cambridge,1,1,0,1
-22/02/03,Leyton Orient,Shrewsbury,0,2,0,0
-22/02/03,Rochdale,Carlisle,0,1,0,0
-22/02/03,Scunthorpe,Lincoln,0,0,0,0
-22/02/03,Southend,Rushden & D,2,1,2,1
-22/02/03,Torquay,Oxford,2,3,0,0
-22/02/03,York,Bury,1,1,0,0
-23/02/03,Wrexham,Darlington,0,0,0,0
-25/02/03,Leyton Orient,Rochdale,0,1,0,1
-01/03/03,Bury,Bournemouth,2,1,1,1
-01/03/03,Cambridge,Torquay,0,1,0,1
-01/03/03,Carlisle,Hull,1,5,0,3
-01/03/03,Darlington,Hartlepool,2,2,1,0
-01/03/03,Exeter,Bristol Rvs,0,0,0,0
-01/03/03,Kidderminster,Scunthorpe,1,3,0,2
-01/03/03,Lincoln,Leyton Orient,1,1,0,0
-01/03/03,Macclesfield,Southend,2,1,0,0
-01/03/03,Oxford,Boston,2,1,1,0
-01/03/03,Rushden & D,York,2,1,1,0
-01/03/03,Shrewsbury,Rochdale,3,1,2,0
-01/03/03,Swansea,Wrexham,0,0,0,0
-04/03/03,Bury,Bristol Rvs,0,1,0,0
-04/03/03,Cambridge,Rochdale,2,2,2,1
-04/03/03,Darlington,York,2,1,1,0
-04/03/03,Exeter,Wrexham,1,0,0,0
-04/03/03,Kidderminster,Southend,1,0,0,0
-04/03/03,Lincoln,Hartlepool,3,0,1,0
-04/03/03,Macclesfield,Hull,0,1,0,1
-04/03/03,Oxford,Leyton Orient,0,2,0,1
-04/03/03,Rushden & D,Bournemouth,2,1,1,1
-04/03/03,Swansea,Boston,0,0,0,0
-07/03/03,Hartlepool,Bury,0,0,0,0
-08/03/03,Boston,Carlisle,0,0,0,0
-08/03/03,Bournemouth,Darlington,2,0,1,0
-08/03/03,Bristol Rvs,Shrewsbury,0,0,0,0
-08/03/03,Hull,Oxford,0,0,0,0
-08/03/03,Leyton Orient,Exeter,1,1,1,0
-08/03/03,Scunthorpe,Macclesfield,1,1,0,0
-08/03/03,Southend,Lincoln,0,1,0,1
-08/03/03,Torquay,Swansea,0,0,0,0
-08/03/03,Wrexham,Rushden & D,3,0,1,0
-08/03/03,York,Cambridge,3,1,0,1
-11/03/03,Carlisle,Scunthorpe,1,2,1,1
-11/03/03,Darlington,Cambridge,1,2,0,1
-11/03/03,Macclesfield,Leyton Orient,3,1,1,1
-11/03/03,Rochdale,Bournemouth,1,1,0,1
-11/03/03,Wrexham,Shrewsbury,3,3,1,2
-15/03/03,Cambridge,Kidderminster,0,2,0,0
-15/03/03,Darlington,Exeter,2,2,0,1
-15/03/03,Hartlepool,Southend,2,1,1,0
-15/03/03,Leyton Orient,Bristol Rvs,1,2,1,1
-15/03/03,Lincoln,Wrexham,1,1,0,0
-15/03/03,Macclesfield,Bury,0,0,0,0
-15/03/03,Rochdale,Boston,1,0,0,0
-15/03/03,Rushden & D,Hull,4,2,1,0
-15/03/03,Shrewsbury,Oxford,1,2,1,1
-15/03/03,Swansea,Carlisle,1,2,0,0
-15/03/03,Torquay,Scunthorpe,1,1,0,1
-15/03/03,York,Bournemouth,1,0,0,0
-18/03/03,Bournemouth,Leyton Orient,3,1,2,0
-18/03/03,Bristol Rvs,York,0,1,0,1
-18/03/03,Bury,Rushden & D,0,1,0,0
-18/03/03,Carlisle,Macclesfield,1,0,1,0
-18/03/03,Exeter,Lincoln,2,0,2,0
-18/03/03,Hull,Torquay,1,1,0,0
-18/03/03,Kidderminster,Shrewsbury,2,2,0,2
-18/03/03,Oxford,Cambridge,1,1,0,0
-18/03/03,Scunthorpe,Rochdale,3,1,2,1
-18/03/03,Southend,Swansea,0,2,0,0
-18/03/03,Wrexham,Hartlepool,2,0,1,0
-19/03/03,Boston,Darlington,1,0,1,0
-22/03/03,Boston,Rushden & D,1,1,0,0
-22/03/03,Bournemouth,Torquay,1,1,0,0
-22/03/03,Bristol Rvs,Hartlepool,1,0,1,0
-22/03/03,Bury,Lincoln,2,0,2,0
-22/03/03,Carlisle,Cambridge,0,1,0,1
-22/03/03,Exeter,Rochdale,1,1,1,1
-22/03/03,Hull,Shrewsbury,2,0,0,0
-22/03/03,Kidderminster,Swansea,2,2,2,2
-22/03/03,Oxford,Macclesfield,0,1,0,1
-22/03/03,Scunthorpe,Darlington,0,1,0,0
-22/03/03,Southend,Leyton Orient,1,0,1,0
-22/03/03,Wrexham,York,1,1,0,1
-24/03/03,Rushden & D,Rochdale,3,3,0,1
-25/03/03,Bury,Oxford,1,1,1,1
-25/03/03,Cambridge,Bournemouth,2,1,1,1
-25/03/03,Lincoln,Kidderminster,1,0,1,0
-25/03/03,Shrewsbury,Torquay,2,3,0,1
-29/03/03,Cambridge,Scunthorpe,1,1,1,0
-29/03/03,Darlington,Bury,3,1,1,1
-29/03/03,Hartlepool,Bournemouth,0,0,0,0
-29/03/03,Lincoln,Bristol Rvs,2,1,2,1
-29/03/03,Macclesfield,Kidderminster,2,0,0,0
-29/03/03,Rushden & D,Exeter,1,0,0,0
-29/03/03,Torquay,Boston,1,1,0,0
-29/03/03,York,Southend,2,0,2,0
-28/03/03,Swansea,Oxford,3,2,1,1
-01/04/03,Oxford,Carlisle,0,0,0,0
-02/04/03,Boston,Wrexham,3,3,1,1
-05/04/03,Bristol Rvs,Rushden & D,1,2,1,1
-05/04/03,Exeter,Bury,1,2,0,2
-05/04/03,Hull,Wrexham,1,2,0,0
-05/04/03,Kidderminster,Hartlepool,2,2,2,0
-05/04/03,Leyton Orient,Boston,3,2,2,1
-05/04/03,Lincoln,Oxford,0,1,0,1
-05/04/03,Macclesfield,Cambridge,1,1,1,0
-05/04/03,Rochdale,Torquay,0,2,0,1
-05/04/03,Scunthorpe,Bournemouth,0,2,0,0
-05/04/03,Shrewsbury,Swansea,0,0,0,0
-05/04/03,Southend,Darlington,2,0,2,0
-08/04/03,Rochdale,Bristol Rvs,1,1,1,1
-09/04/03,Shrewsbury,Wrexham,1,2,0,1
-12/04/03,Boston,Hull,0,1,0,0
-12/04/03,Bournemouth,Southend,1,0,1,0
-12/04/03,Bury,Carlisle,1,1,1,0
-12/04/03,Cambridge,Exeter,2,1,0,1
-12/04/03,Darlington,Shrewsbury,5,1,3,0
-12/04/03,Hartlepool,Leyton Orient,4,1,1,0
-12/04/03,Oxford,Kidderminster,2,1,1,1
-12/04/03,Rushden & D,Lincoln,1,0,1,0
-12/04/03,Swansea,Scunthorpe,1,1,1,0
-12/04/03,Torquay,Macclesfield,2,2,1,2
-12/04/03,Wrexham,Bristol Rvs,3,2,2,1
-12/04/03,York,Rochdale,2,2,1,1
-15/04/03,Carlisle,York,1,1,0,0
-15/04/03,Rochdale,Kidderminster,0,1,0,0
-15/04/03,Shrewsbury,Macclesfield,2,3,2,2
-18/04/03,Rochdale,Bury,1,2,1,1
-19/04/03,Bristol Rvs,Cambridge,3,1,1,0
-19/04/03,Carlisle,Rushden & D,1,2,0,0
-19/04/03,Exeter,Oxford,2,2,2,1
-19/04/03,Hull,Bournemouth,3,1,2,1
-19/04/03,Kidderminster,Wrexham,0,2,0,1
-19/04/03,Leyton Orient,Swansea,3,1,1,1
-19/04/03,Lincoln,York,1,0,1,0
-19/04/03,Macclesfield,Darlington,1,0,1,0
-19/04/03,Scunthorpe,Hartlepool,4,0,1,0
-19/04/03,Shrewsbury,Boston,1,2,0,1
-19/04/03,Southend,Torquay,3,0,2,0
-21/04/03,Boston,Southend,1,0,0,0
-21/04/03,Bournemouth,Shrewsbury,2,1,2,1
-21/04/03,Bury,Scunthorpe,0,0,0,0
-21/04/03,Darlington,Hull,2,0,0,0
-21/04/03,Hartlepool,Rochdale,2,2,1,2
-21/04/03,Oxford,Bristol Rvs,0,1,0,0
-21/04/03,Rushden & D,Macclesfield,3,0,1,0
-21/04/03,Swansea,Exeter,0,1,0,0
-21/04/03,Torquay,Leyton Orient,2,2,1,1
-21/04/03,Wrexham,Carlisle,6,1,3,0
-21/04/03,York,Kidderminster,0,0,0,0
-22/04/03,Cambridge,Lincoln,0,0,0,0
-26/04/03,Boston,Macclesfield,2,1,1,0
-26/04/03,Bournemouth,Lincoln,0,1,0,1
-26/04/03,Bristol Rvs,Darlington,2,1,1,0
-26/04/03,Hartlepool,Shrewsbury,3,0,2,0
-26/04/03,Hull,Kidderminster,4,1,2,0
-26/04/03,Leyton Orient,Rushden & D,0,0,0,0
-26/04/03,Rochdale,Swansea,1,2,1,1
-26/04/03,Scunthorpe,Oxford,2,0,1,0
-26/04/03,Southend,Bury,1,2,1,1
-26/04/03,Torquay,Carlisle,2,3,0,3
-26/04/03,Wrexham,Cambridge,5,0,3,0
-26/04/03,York,Exeter,0,2,0,1
-29/04/03,Leyton Orient,Wrexham,0,1,0,1
-29/04/03,Rochdale,Hull,2,1,2,0
-29/04/03,Shrewsbury,Carlisle,2,3,1,2
-03/05/03,Bury,Wrexham,0,3,0,1
-03/05/03,Cambridge,Boston,1,2,0,1
-03/05/03,Carlisle,Bournemouth,0,2,0,0
-03/05/03,Darlington,Leyton Orient,2,2,1,2
-03/05/03,Exeter,Southend,1,0,0,0
-03/05/03,Kidderminster,Bristol Rvs,1,1,1,0
-03/05/03,Lincoln,Torquay,1,1,0,1
-03/05/03,Macclesfield,Rochdale,3,2,0,1
-03/05/03,Oxford,York,2,0,1,0
-03/05/03,Rushden & D,Hartlepool,1,1,1,0
-03/05/03,Shrewsbury,Scunthorpe,1,2,1,0
-03/05/03,Swansea,Hull,4,2,2,2
+Date,Team 1,Team 2,FT,HT
+2002-08-10,Boston,Bournemouth,2-2,0-1
+2002-08-10,Cambridge,Darlington,1-2,1-1
+2002-08-10,Carlisle,Hartlepool,1-3,0-1
+2002-08-10,Hull,Southend,2-2,1-0
+2002-08-10,Kidderminster,Lincoln,1-1,0-1
+2002-08-10,Macclesfield,York,1-1,1-0
+2002-08-10,Oxford,Bury,2-1,2-0
+2002-08-10,Rochdale,Leyton Orient,1-0,0-0
+2002-08-10,Scunthorpe,Wrexham,1-1,1-0
+2002-08-10,Shrewsbury,Exeter,1-0,1-0
+2002-08-10,Swansea,Rushden & D,2-2,1-1
+2002-08-10,Torquay,Bristol Rvs,2-1,1-1
+2002-08-13,Bournemouth,Kidderminster,0-0,0-0
+2002-08-13,Bristol Rvs,Hull,1-1,1-0
+2002-08-13,Bury,Cambridge,0-1,0-0
+2002-08-13,Darlington,Swansea,2-2,0-0
+2002-08-13,Exeter,Scunthorpe,1-1,0-0
+2002-08-13,Hartlepool,Boston,2-0,0-0
+2002-08-13,Leyton Orient,Macclesfield,3-2,3-0
+2002-08-13,Lincoln,Rochdale,2-0,0-0
+2002-08-13,Rushden & D,Torquay,3-0,1-0
+2002-08-13,Southend,Carlisle,0-1,0-0
+2002-08-13,Wrexham,Oxford,1-0,0-0
+2002-08-13,York,Shrewsbury,2-1,0-1
+2002-08-17,Bournemouth,Cambridge,1-1,0-1
+2002-08-17,Bristol Rvs,Rochdale,1-2,1-1
+2002-08-17,Bury,Swansea,3-2,2-0
+2002-08-17,Darlington,Oxford,0-1,0-1
+2002-08-17,Exeter,Hull,3-1,2-1
+2002-08-17,Hartlepool,Macclesfield,0-2,0-0
+2002-08-17,Leyton Orient,Scunthorpe,2-0,1-0
+2002-08-17,Lincoln,Carlisle,0-1,0-0
+2002-08-17,Rushden & D,Kidderminster,3-1,1-0
+2002-08-17,Southend,Shrewsbury,2-3,1-1
+2002-08-17,Wrexham,Boston,1-1,1-0
+2002-08-17,York,Torquay,4-3,1-0
+2002-08-24,Boston,Lincoln,2-0,1-0
+2002-08-24,Cambridge,Leyton Orient,2-1,1-0
+2002-08-24,Carlisle,Bristol Rvs,0-0,0-0
+2002-08-24,Hull,Bury,1-1,1-0
+2002-08-24,Kidderminster,Exeter,4-3,2-2
+2002-08-24,Macclesfield,Wrexham,0-1,0-0
+2002-08-24,Oxford,Southend,0-1,0-1
+2002-08-24,Rochdale,Darlington,1-1,1-1
+2002-08-24,Scunthorpe,York,2-1,2-1
+2002-08-24,Shrewsbury,Rushden & D,1-1,0-0
+2002-08-24,Swansea,Bournemouth,2-0,1-0
+2002-08-24,Torquay,Hartlepool,1-1,0-0
+2002-08-26,Bury,Shrewsbury,4-3,1-0
+2002-08-26,Exeter,Torquay,1-2,1-2
+2002-08-26,Hartlepool,Hull,2-0,1-0
+2002-08-26,Leyton Orient,Kidderminster,0-0,0-0
+2002-08-26,Lincoln,Macclesfield,3-0,1-0
+2002-08-26,Rushden & D,Scunthorpe,2-0,1-0
+2002-08-26,Southend,Cambridge,2-1,2-1
+2002-08-26,Wrexham,Rochdale,2-5,2-4
+2002-08-26,York,Boston,2-0,1-0
+2002-08-27,Bournemouth,Oxford,1-1,1-0
+2002-08-27,Bristol Rvs,Swansea,3-1,1-0
+2002-08-27,Darlington,Carlisle,2-0,0-0
+2002-08-31,Boston,Bury,1-1,0-0
+2002-08-31,Cambridge,Rushden & D,4-1,1-0
+2002-08-31,Carlisle,Exeter,0-2,0-2
+2002-08-31,Hull,Leyton Orient,1-1,1-1
+2002-08-31,Kidderminster,Darlington,1-1,0-0
+2002-08-31,Macclesfield,Bournemouth,0-1,0-1
+2002-08-31,Oxford,Hartlepool,0-1,0-1
+2002-08-31,Rochdale,Southend,1-2,0-1
+2002-08-31,Scunthorpe,Bristol Rvs,2-2,2-0
+2002-08-31,Shrewsbury,Lincoln,1-2,1-0
+2002-08-31,Swansea,York,1-2,0-1
+2002-08-31,Torquay,Wrexham,2-1,2-1
+2002-09-06,Bury,York,2-1,2-0
+2002-09-06,Carlisle,Rochdale,0-2,0-2
+2002-09-07,Cambridge,Hull,1-2,0-0
+2002-09-07,Exeter,Bournemouth,1-3,1-2
+2002-09-07,Kidderminster,Boston,0-0,0-0
+2002-09-07,Lincoln,Scunthorpe,1-0,1-0
+2002-09-07,Oxford,Torquay,2-2,0-0
+2002-09-07,Rushden & D,Southend,3-0,2-0
+2002-09-07,Shrewsbury,Leyton Orient,2-1,0-1
+2002-09-07,Swansea,Hartlepool,2-2,2-2
+2002-09-08,Macclesfield,Bristol Rvs,2-1,2-0
+2002-09-14,Boston,Oxford,1-3,0-3
+2002-09-14,Bournemouth,Bury,1-2,0-1
+2002-09-14,Bristol Rvs,Exeter,1-1,1-1
+2002-09-14,Hartlepool,Darlington,4-1,2-1
+2002-09-14,Hull,Carlisle,4-0,1-0
+2002-09-14,Leyton Orient,Lincoln,1-1,0-0
+2002-09-14,Rochdale,Shrewsbury,1-1,0-1
+2002-09-14,Scunthorpe,Kidderminster,1-1,0-1
+2002-09-14,Southend,Macclesfield,1-0,1-0
+2002-09-14,Torquay,Cambridge,3-2,1-0
+2002-09-14,Wrexham,Swansea,4-0,3-0
+2002-09-14,York,Rushden & D,0-0,0-0
+2002-09-17,Bournemouth,Rushden & D,3-1,1-1
+2002-09-17,Bristol Rvs,Bury,2-1,2-0
+2002-09-17,Hartlepool,Lincoln,2-1,0-1
+2002-09-17,Hull,Macclesfield,1-3,1-0
+2002-09-17,Leyton Orient,Oxford,1-2,0-1
+2002-09-17,Rochdale,Cambridge,4-3,1-2
+2002-09-17,Scunthorpe,Carlisle,3-1,1-1
+2002-09-17,Southend,Kidderminster,0-2,0-1
+2002-09-17,Torquay,Shrewsbury,2-1,1-0
+2002-09-17,Wrexham,Exeter,4-0,2-0
+2002-09-17,York,Darlington,1-0,0-0
+2002-09-18,Boston,Swansea,1-0,1-0
+2002-09-21,Bury,Hartlepool,1-1,1-0
+2002-09-21,Cambridge,York,3-0,1-0
+2002-09-21,Carlisle,Boston,4-2,4-1
+2002-09-21,Darlington,Bournemouth,2-2,1-1
+2002-09-21,Exeter,Leyton Orient,1-0,0-0
+2002-09-21,Kidderminster,Rochdale,0-0,0-0
+2002-09-21,Lincoln,Southend,2-1,0-0
+2002-09-21,Macclesfield,Scunthorpe,2-3,0-2
+2002-09-21,Oxford,Hull,0-0,0-0
+2002-09-21,Rushden & D,Wrexham,2-2,1-1
+2002-09-21,Shrewsbury,Bristol Rvs,2-5,0-1
+2002-09-21,Swansea,Torquay,0-1,0-1
+2002-09-24,Darlington,Wrexham,0-1,0-1
+2002-09-28,Boston,Cambridge,1-3,1-2
+2002-09-28,Bournemouth,Carlisle,3-1,0-0
+2002-09-28,Bristol Rvs,Kidderminster,1-2,0-1
+2002-09-28,Hartlepool,Rushden & D,1-2,1-0
+2002-09-28,Hull,Swansea,1-1,1-0
+2002-09-28,Leyton Orient,Darlington,2-1,0-1
+2002-09-28,Rochdale,Macclesfield,3-1,1-1
+2002-09-28,Scunthorpe,Shrewsbury,1-1,0-1
+2002-09-28,Southend,Exeter,1-0,1-0
+2002-09-28,Torquay,Lincoln,0-0,0-0
+2002-09-28,Wrexham,Bury,2-2,2-1
+2002-09-28,York,Oxford,0-1,0-0
+2002-10-05,Bury,Southend,1-3,1-0
+2002-10-05,Cambridge,Wrexham,2-2,0-1
+2002-10-05,Carlisle,Torquay,1-2,1-1
+2002-10-05,Darlington,Bristol Rvs,1-0,1-0
+2002-10-05,Exeter,York,0-1,0-1
+2002-10-05,Kidderminster,Hull,1-0,0-0
+2002-10-05,Lincoln,Bournemouth,1-2,1-1
+2002-10-05,Macclesfield,Boston,2-0,1-0
+2002-10-05,Oxford,Scunthorpe,0-1,0-0
+2002-10-05,Rushden & D,Leyton Orient,2-0,0-0
+2002-10-05,Shrewsbury,Hartlepool,0-1,0-0
+2002-10-05,Swansea,Rochdale,1-1,1-0
+2002-10-12,Boston,Torquay,2-1,0-1
+2002-10-12,Bristol Rvs,Lincoln,2-0,1-0
+2002-10-12,Bury,Darlington,2-2,0-1
+2002-10-12,Carlisle,Shrewsbury,1-2,0-1
+2002-10-12,Exeter,Rushden & D,1-1,1-1
+2002-10-12,Hull,Rochdale,3-0,2-0
+2002-10-12,Kidderminster,Macclesfield,0-2,0-1
+2002-10-12,Oxford,Swansea,1-0,0-0
+2002-10-12,Scunthorpe,Cambridge,1-2,1-0
+2002-10-12,Southend,York,1-0,0-0
+2002-10-12,Wrexham,Leyton Orient,0-0,0-0
+2002-10-13,Bournemouth,Hartlepool,2-1,0-1
+2002-10-19,Cambridge,Oxford,1-1,1-0
+2002-10-19,Darlington,Boston,2-3,0-1
+2002-10-19,Hartlepool,Wrexham,4-3,3-1
+2002-10-19,Leyton Orient,Bournemouth,0-0,0-0
+2002-10-19,Lincoln,Exeter,1-0,0-0
+2002-10-19,Macclesfield,Carlisle,2-2,1-1
+2002-10-19,Rochdale,Scunthorpe,1-2,0-0
+2002-10-19,Rushden & D,Bury,0-1,0-1
+2002-10-19,Shrewsbury,Kidderminster,2-3,2-2
+2002-10-19,Swansea,Southend,1-0,0-0
+2002-10-19,Torquay,Hull,1-4,0-1
+2002-10-19,York,Bristol Rvs,2-2,1-2
+2002-10-25,Southend,Hartlepool,0-1,0-1
+2002-10-26,Boston,Rochdale,3-1,1-0
+2002-10-26,Bournemouth,York,1-0,0-0
+2002-10-26,Bristol Rvs,Leyton Orient,1-2,0-0
+2002-10-26,Bury,Macclesfield,2-1,1-0
+2002-10-26,Carlisle,Swansea,2-2,1-1
+2002-10-26,Exeter,Darlington,0-4,0-2
+2002-10-26,Hull,Rushden & D,1-1,1-1
+2002-10-26,Kidderminster,Cambridge,2-1,2-1
+2002-10-26,Oxford,Shrewsbury,2-2,2-2
+2002-10-26,Scunthorpe,Torquay,5-1,2-1
+2002-10-26,Wrexham,Lincoln,0-2,0-0
+2002-10-29,Cambridge,Carlisle,2-1,1-1
+2002-10-29,Darlington,Scunthorpe,1-1,1-1
+2002-10-29,Hartlepool,Bristol Rvs,2-0,1-0
+2002-10-29,Leyton Orient,Southend,2-1,2-0
+2002-10-29,Lincoln,Bury,1-1,1-0
+2002-10-29,Macclesfield,Oxford,2-1,0-0
+2002-10-29,Rochdale,Exeter,3-3,1-1
+2002-10-29,Rushden & D,Boston,1-0,1-0
+2002-10-29,Shrewsbury,Hull,1-1,0-0
+2002-10-29,Swansea,Kidderminster,0-4,0-1
+2002-10-29,Torquay,Bournemouth,4-0,2-0
+2002-10-29,York,Wrexham,1-1,0-1
+2002-11-01,Hartlepool,York,0-0,0-0
+2002-11-02,Boston,Exeter,0-3,0-1
+2002-11-02,Bournemouth,Bristol Rvs,1-0,1-0
+2002-11-02,Cambridge,Swansea,1-0,0-0
+2002-11-02,Carlisle,Oxford,1-0,1-0
+2002-11-02,Darlington,Lincoln,0-0,0-0
+2002-11-02,Hull,Scunthorpe,2-0,0-0
+2002-11-02,Leyton Orient,Bury,1-2,0-1
+2002-11-02,Macclesfield,Shrewsbury,1-2,0-1
+2002-11-02,Rochdale,Rushden & D,0-1,0-0
+2002-11-02,Southend,Wrexham,0-1,0-1
+2002-11-09,Bristol Rvs,Southend,0-1,0-0
+2002-11-09,Bury,Torquay,0-1,0-0
+2002-11-09,Exeter,Hartlepool,1-2,0-0
+2002-11-09,Kidderminster,Carlisle,1-2,0-1
+2002-11-09,Lincoln,Hull,1-1,1-1
+2002-11-09,Oxford,Rochdale,2-0,1-0
+2002-11-09,Rushden & D,Darlington,2-0,0-0
+2002-11-09,Scunthorpe,Boston,2-0,1-0
+2002-11-09,Shrewsbury,Cambridge,3-1,0-0
+2002-11-09,Swansea,Macclesfield,1-0,0-0
+2002-11-09,Wrexham,Bournemouth,3-2,1-1
+2002-11-09,York,Leyton Orient,3-2,1-1
+2002-11-19,Torquay,Kidderminster,2-2,2-0
+2002-11-23,Bristol Rvs,Wrexham,0-3,0-2
+2002-11-23,Carlisle,Bury,1-2,0-0
+2002-11-23,Exeter,Cambridge,1-2,1-1
+2002-11-23,Hull,Boston,1-0,0-0
+2002-11-23,Leyton Orient,Hartlepool,1-2,0-1
+2002-11-23,Lincoln,Rushden & D,1-2,0-1
+2002-11-23,Macclesfield,Torquay,3-3,1-3
+2002-11-23,Rochdale,York,0-1,0-0
+2002-11-23,Scunthorpe,Swansea,2-0,2-0
+2002-11-23,Shrewsbury,Darlington,2-2,2-0
+2002-11-23,Southend,Bournemouth,0-1,0-0
+2002-11-30,Boston,Leyton Orient,0-1,0-1
+2002-11-30,Bournemouth,Scunthorpe,2-1,0-1
+2002-11-30,Bury,Exeter,1-0,0-0
+2002-11-30,Cambridge,Macclesfield,3-1,1-1
+2002-11-30,Darlington,Southend,2-1,1-0
+2002-11-30,Hartlepool,Kidderminster,2-1,2-0
+2002-11-30,Oxford,Lincoln,1-0,0-0
+2002-11-30,Rushden & D,Bristol Rvs,2-1,1-1
+2002-11-30,Swansea,Shrewsbury,2-0,1-0
+2002-11-30,Torquay,Rochdale,2-2,0-0
+2002-11-30,Wrexham,Hull,0-0,0-0
+2002-11-30,York,Carlisle,2-1,1-0
+2002-12-14,Bristol Rvs,Oxford,0-2,0-1
+2002-12-14,Carlisle,Wrexham,1-2,1-1
+2002-12-14,Exeter,Swansea,1-0,0-0
+2002-12-14,Hull,Darlington,0-1,0-1
+2002-12-14,Kidderminster,York,1-2,1-1
+2002-12-14,Leyton Orient,Torquay,2-0,2-0
+2002-12-14,Lincoln,Cambridge,2-2,1-1
+2002-12-14,Macclesfield,Rushden & D,0-1,0-0
+2002-12-14,Rochdale,Hartlepool,4-0,2-0
+2002-12-14,Scunthorpe,Bury,0-1,0-0
+2002-12-14,Shrewsbury,Bournemouth,0-0,0-0
+2002-12-14,Southend,Boston,4-2,3-0
+2002-12-20,York,Lincoln,1-1,0-1
+2002-12-21,Boston,Shrewsbury,6-0,4-0
+2002-12-21,Bournemouth,Hull,0-0,0-0
+2002-12-21,Bury,Rochdale,1-1,0-0
+2002-12-21,Cambridge,Bristol Rvs,3-1,1-1
+2002-12-21,Darlington,Macclesfield,0-0,0-0
+2002-12-21,Hartlepool,Scunthorpe,2-2,1-1
+2002-12-21,Oxford,Exeter,2-2,0-0
+2002-12-21,Rushden & D,Carlisle,1-1,1-1
+2002-12-21,Swansea,Leyton Orient,0-1,0-0
+2002-12-21,Torquay,Southend,3-1,1-0
+2002-12-21,Wrexham,Kidderminster,0-2,0-1
+2002-12-26,Boston,York,3-0,1-0
+2002-12-26,Cambridge,Southend,1-1,0-1
+2002-12-26,Carlisle,Darlington,2-2,2-1
+2002-12-26,Hull,Hartlepool,2-0,1-0
+2002-12-26,Kidderminster,Leyton Orient,3-2,1-1
+2002-12-26,Macclesfield,Lincoln,0-1,0-0
+2002-12-26,Oxford,Bournemouth,3-0,1-0
+2002-12-26,Rochdale,Wrexham,2-2,2-1
+2002-12-26,Scunthorpe,Rushden & D,0-0,0-0
+2002-12-26,Shrewsbury,Bury,4-1,1-0
+2002-12-26,Swansea,Bristol Rvs,0-1,0-1
+2002-12-28,Bournemouth,Rochdale,3-3,2-2
+2002-12-28,Bristol Rvs,Boston,1-1,0-1
+2002-12-28,Darlington,Torquay,1-1,1-0
+2002-12-28,Exeter,Macclesfield,1-1,0-1
+2002-12-28,Hartlepool,Cambridge,3-0,1-0
+2002-12-28,Leyton Orient,Carlisle,2-1,2-1
+2002-12-28,Lincoln,Swansea,1-0,0-0
+2002-12-28,Rushden & D,Oxford,0-2,0-2
+2002-12-28,York,Hull,1-1,1-0
+2002-12-29,Bury,Kidderminster,1-1,0-0
+2002-12-29,Southend,Scunthorpe,1-2,1-0
+2003-01-01,Bury,Hull,1-0,0-0
+2003-01-01,Hartlepool,Carlisle,2-1,0-1
+2003-01-01,Lincoln,Boston,1-1,1-0
+2003-01-01,Rushden & D,Shrewsbury,5-1,3-0
+2003-01-01,Wrexham,Macclesfield,1-3,1-1
+2003-01-01,York,Scunthorpe,1-3,1-2
+2003-01-04,Boston,Hartlepool,0-1,0-0
+2003-01-04,Carlisle,Southend,1-0,1-0
+2003-01-04,Hull,Bristol Rvs,1-0,1-0
+2003-01-04,Torquay,Rushden & D,1-1,1-0
+2003-01-11,Hull,Exeter,2-2,0-0
+2003-01-11,Kidderminster,Rushden & D,0-2,0-1
+2003-01-11,Scunthorpe,Leyton Orient,2-1,1-1
+2003-01-11,Torquay,York,3-1,3-1
+2003-01-14,Bristol Rvs,Torquay,1-1,1-1
+2003-01-14,Oxford,Darlington,1-1,0-0
+2003-01-14,Shrewsbury,Southend,0-1,0-1
+2003-01-14,Swansea,Bury,2-3,0-3
+2003-01-18,Bournemouth,Macclesfield,2-2,0-2
+2003-01-18,Bristol Rvs,Scunthorpe,2-1,0-0
+2003-01-18,Bury,Boston,0-0,0-0
+2003-01-18,Darlington,Kidderminster,2-1,0-0
+2003-01-18,Exeter,Carlisle,1-0,0-0
+2003-01-18,Hartlepool,Oxford,3-1,2-1
+2003-01-18,Leyton Orient,Hull,2-0,2-0
+2003-01-18,Lincoln,Shrewsbury,1-1,1-0
+2003-01-18,Rushden & D,Cambridge,4-1,1-0
+2003-01-18,Southend,Rochdale,1-0,0-0
+2003-01-18,Wrexham,Torquay,2-1,1-1
+2003-01-18,York,Swansea,3-1,2-1
+2003-01-21,Macclesfield,Hartlepool,0-1,0-1
+2003-01-21,Rochdale,Lincoln,0-1,0-0
+2003-01-21,Scunthorpe,Exeter,1-1,1-0
+2003-01-21,Southend,Oxford,2-1,1-0
+2003-01-25,Boston,Bristol Rvs,0-0,0-0
+2003-01-25,Cambridge,Hartlepool,0-0,0-0
+2003-01-25,Carlisle,Leyton Orient,3-0,0-0
+2003-01-25,Hull,York,0-0,0-0
+2003-01-25,Kidderminster,Bury,3-2,2-0
+2003-01-25,Macclesfield,Exeter,1-1,0-0
+2003-01-25,Oxford,Rushden & D,3-0,0-0
+2003-01-25,Scunthorpe,Southend,4-1,3-1
+2003-01-25,Swansea,Lincoln,2-0,1-0
+2003-01-25,Torquay,Darlington,3-1,3-1
+2003-01-28,Kidderminster,Oxford,1-3,0-2
+2003-01-28,Leyton Orient,Cambridge,1-1,0-1
+2003-02-01,Bournemouth,Boston,2-1,0-0
+2003-02-01,Bristol Rvs,Carlisle,1-2,1-1
+2003-02-01,Exeter,Shrewsbury,1-1,1-0
+2003-02-01,Hartlepool,Torquay,3-2,0-1
+2003-02-01,Rushden & D,Swansea,1-1,0-1
+2003-02-01,Southend,Hull,3-0,3-0
+2003-02-01,Wrexham,Scunthorpe,2-1,1-0
+2003-02-02,York,Macclesfield,2-1,1-0
+2003-02-04,Cambridge,Bury,1-2,1-0
+2003-02-04,Carlisle,Lincoln,1-4,0-2
+2003-02-04,Kidderminster,Bournemouth,1-0,0-0
+2003-02-04,Oxford,Wrexham,0-2,0-0
+2003-02-04,Swansea,Darlington,1-0,1-0
+2003-02-08,Boston,Scunthorpe,1-0,0-0
+2003-02-08,Bournemouth,Wrexham,2-0,0-0
+2003-02-08,Cambridge,Shrewsbury,5-0,2-0
+2003-02-08,Carlisle,Kidderminster,2-2,2-1
+2003-02-08,Darlington,Rushden & D,2-2,0-0
+2003-02-08,Hartlepool,Exeter,2-1,0-0
+2003-02-08,Hull,Lincoln,0-1,0-0
+2003-02-08,Leyton Orient,York,0-1,0-0
+2003-02-08,Macclesfield,Swansea,1-3,1-1
+2003-02-08,Rochdale,Oxford,2-1,1-0
+2003-02-08,Southend,Bristol Rvs,2-2,1-0
+2003-02-08,Torquay,Bury,1-1,1-1
+2003-02-11,Bournemouth,Swansea,3-0,1-0
+2003-02-11,Darlington,Rochdale,0-1,0-1
+2003-02-11,Shrewsbury,York,2-2,1-0
+2003-02-11,Torquay,Exeter,1-0,1-0
+2003-02-15,Bristol Rvs,Bournemouth,0-0,0-0
+2003-02-15,Bury,Leyton Orient,0-1,0-0
+2003-02-15,Exeter,Boston,0-2,0-1
+2003-02-15,Kidderminster,Torquay,2-0,1-0
+2003-02-15,Lincoln,Darlington,1-1,1-1
+2003-02-15,Scunthorpe,Hull,3-1,0-0
+2003-02-15,Swansea,Cambridge,2-0,0-0
+2003-02-15,Wrexham,Southend,3-0,1-0
+2003-02-15,York,Hartlepool,0-0,0-0
+2003-02-18,Exeter,Kidderminster,2-5,1-3
+2003-02-22,Boston,Kidderminster,3-0,2-0
+2003-02-22,Bournemouth,Exeter,2-0,1-0
+2003-02-22,Bristol Rvs,Macclesfield,1-1,0-0
+2003-02-22,Hartlepool,Swansea,4-0,2-0
+2003-02-22,Hull,Cambridge,1-1,0-1
+2003-02-22,Leyton Orient,Shrewsbury,0-2,0-0
+2003-02-22,Rochdale,Carlisle,0-1,0-0
+2003-02-22,Scunthorpe,Lincoln,0-0,0-0
+2003-02-22,Southend,Rushden & D,2-1,2-1
+2003-02-22,Torquay,Oxford,2-3,0-0
+2003-02-22,York,Bury,1-1,0-0
+2003-02-23,Wrexham,Darlington,0-0,0-0
+2003-02-25,Leyton Orient,Rochdale,0-1,0-1
+2003-03-01,Bury,Bournemouth,2-1,1-1
+2003-03-01,Cambridge,Torquay,0-1,0-1
+2003-03-01,Carlisle,Hull,1-5,0-3
+2003-03-01,Darlington,Hartlepool,2-2,1-0
+2003-03-01,Exeter,Bristol Rvs,0-0,0-0
+2003-03-01,Kidderminster,Scunthorpe,1-3,0-2
+2003-03-01,Lincoln,Leyton Orient,1-1,0-0
+2003-03-01,Macclesfield,Southend,2-1,0-0
+2003-03-01,Oxford,Boston,2-1,1-0
+2003-03-01,Rushden & D,York,2-1,1-0
+2003-03-01,Shrewsbury,Rochdale,3-1,2-0
+2003-03-01,Swansea,Wrexham,0-0,0-0
+2003-03-04,Bury,Bristol Rvs,0-1,0-0
+2003-03-04,Cambridge,Rochdale,2-2,2-1
+2003-03-04,Darlington,York,2-1,1-0
+2003-03-04,Exeter,Wrexham,1-0,0-0
+2003-03-04,Kidderminster,Southend,1-0,0-0
+2003-03-04,Lincoln,Hartlepool,3-0,1-0
+2003-03-04,Macclesfield,Hull,0-1,0-1
+2003-03-04,Oxford,Leyton Orient,0-2,0-1
+2003-03-04,Rushden & D,Bournemouth,2-1,1-1
+2003-03-04,Swansea,Boston,0-0,0-0
+2003-03-07,Hartlepool,Bury,0-0,0-0
+2003-03-08,Boston,Carlisle,0-0,0-0
+2003-03-08,Bournemouth,Darlington,2-0,1-0
+2003-03-08,Bristol Rvs,Shrewsbury,0-0,0-0
+2003-03-08,Hull,Oxford,0-0,0-0
+2003-03-08,Leyton Orient,Exeter,1-1,1-0
+2003-03-08,Scunthorpe,Macclesfield,1-1,0-0
+2003-03-08,Southend,Lincoln,0-1,0-1
+2003-03-08,Torquay,Swansea,0-0,0-0
+2003-03-08,Wrexham,Rushden & D,3-0,1-0
+2003-03-08,York,Cambridge,3-1,0-1
+2003-03-11,Carlisle,Scunthorpe,1-2,1-1
+2003-03-11,Darlington,Cambridge,1-2,0-1
+2003-03-11,Macclesfield,Leyton Orient,3-1,1-1
+2003-03-11,Rochdale,Bournemouth,1-1,0-1
+2003-03-11,Wrexham,Shrewsbury,3-3,1-2
+2003-03-15,Cambridge,Kidderminster,0-2,0-0
+2003-03-15,Darlington,Exeter,2-2,0-1
+2003-03-15,Hartlepool,Southend,2-1,1-0
+2003-03-15,Leyton Orient,Bristol Rvs,1-2,1-1
+2003-03-15,Lincoln,Wrexham,1-1,0-0
+2003-03-15,Macclesfield,Bury,0-0,0-0
+2003-03-15,Rochdale,Boston,1-0,0-0
+2003-03-15,Rushden & D,Hull,4-2,1-0
+2003-03-15,Shrewsbury,Oxford,1-2,1-1
+2003-03-15,Swansea,Carlisle,1-2,0-0
+2003-03-15,Torquay,Scunthorpe,1-1,0-1
+2003-03-15,York,Bournemouth,1-0,0-0
+2003-03-18,Bournemouth,Leyton Orient,3-1,2-0
+2003-03-18,Bristol Rvs,York,0-1,0-1
+2003-03-18,Bury,Rushden & D,0-1,0-0
+2003-03-18,Carlisle,Macclesfield,1-0,1-0
+2003-03-18,Exeter,Lincoln,2-0,2-0
+2003-03-18,Hull,Torquay,1-1,0-0
+2003-03-18,Kidderminster,Shrewsbury,2-2,0-2
+2003-03-18,Oxford,Cambridge,1-1,0-0
+2003-03-18,Scunthorpe,Rochdale,3-1,2-1
+2003-03-18,Southend,Swansea,0-2,0-0
+2003-03-18,Wrexham,Hartlepool,2-0,1-0
+2003-03-19,Boston,Darlington,1-0,1-0
+2003-03-22,Boston,Rushden & D,1-1,0-0
+2003-03-22,Bournemouth,Torquay,1-1,0-0
+2003-03-22,Bristol Rvs,Hartlepool,1-0,1-0
+2003-03-22,Bury,Lincoln,2-0,2-0
+2003-03-22,Carlisle,Cambridge,0-1,0-1
+2003-03-22,Exeter,Rochdale,1-1,1-1
+2003-03-22,Hull,Shrewsbury,2-0,0-0
+2003-03-22,Kidderminster,Swansea,2-2,2-2
+2003-03-22,Oxford,Macclesfield,0-1,0-1
+2003-03-22,Scunthorpe,Darlington,0-1,0-0
+2003-03-22,Southend,Leyton Orient,1-0,1-0
+2003-03-22,Wrexham,York,1-1,0-1
+2003-03-24,Rushden & D,Rochdale,3-3,0-1
+2003-03-25,Bury,Oxford,1-1,1-1
+2003-03-25,Cambridge,Bournemouth,2-1,1-1
+2003-03-25,Lincoln,Kidderminster,1-0,1-0
+2003-03-25,Shrewsbury,Torquay,2-3,0-1
+2003-03-29,Cambridge,Scunthorpe,1-1,1-0
+2003-03-29,Darlington,Bury,3-1,1-1
+2003-03-29,Hartlepool,Bournemouth,0-0,0-0
+2003-03-29,Lincoln,Bristol Rvs,2-1,2-1
+2003-03-29,Macclesfield,Kidderminster,2-0,0-0
+2003-03-29,Rushden & D,Exeter,1-0,0-0
+2003-03-29,Torquay,Boston,1-1,0-0
+2003-03-29,York,Southend,2-0,2-0
+2003-03-28,Swansea,Oxford,3-2,1-1
+2003-04-01,Oxford,Carlisle,0-0,0-0
+2003-04-02,Boston,Wrexham,3-3,1-1
+2003-04-05,Bristol Rvs,Rushden & D,1-2,1-1
+2003-04-05,Exeter,Bury,1-2,0-2
+2003-04-05,Hull,Wrexham,1-2,0-0
+2003-04-05,Kidderminster,Hartlepool,2-2,2-0
+2003-04-05,Leyton Orient,Boston,3-2,2-1
+2003-04-05,Lincoln,Oxford,0-1,0-1
+2003-04-05,Macclesfield,Cambridge,1-1,1-0
+2003-04-05,Rochdale,Torquay,0-2,0-1
+2003-04-05,Scunthorpe,Bournemouth,0-2,0-0
+2003-04-05,Shrewsbury,Swansea,0-0,0-0
+2003-04-05,Southend,Darlington,2-0,2-0
+2003-04-08,Rochdale,Bristol Rvs,1-1,1-1
+2003-04-09,Shrewsbury,Wrexham,1-2,0-1
+2003-04-12,Boston,Hull,0-1,0-0
+2003-04-12,Bournemouth,Southend,1-0,1-0
+2003-04-12,Bury,Carlisle,1-1,1-0
+2003-04-12,Cambridge,Exeter,2-1,0-1
+2003-04-12,Darlington,Shrewsbury,5-1,3-0
+2003-04-12,Hartlepool,Leyton Orient,4-1,1-0
+2003-04-12,Oxford,Kidderminster,2-1,1-1
+2003-04-12,Rushden & D,Lincoln,1-0,1-0
+2003-04-12,Swansea,Scunthorpe,1-1,1-0
+2003-04-12,Torquay,Macclesfield,2-2,1-2
+2003-04-12,Wrexham,Bristol Rvs,3-2,2-1
+2003-04-12,York,Rochdale,2-2,1-1
+2003-04-15,Carlisle,York,1-1,0-0
+2003-04-15,Rochdale,Kidderminster,0-1,0-0
+2003-04-15,Shrewsbury,Macclesfield,2-3,2-2
+2003-04-18,Rochdale,Bury,1-2,1-1
+2003-04-19,Bristol Rvs,Cambridge,3-1,1-0
+2003-04-19,Carlisle,Rushden & D,1-2,0-0
+2003-04-19,Exeter,Oxford,2-2,2-1
+2003-04-19,Hull,Bournemouth,3-1,2-1
+2003-04-19,Kidderminster,Wrexham,0-2,0-1
+2003-04-19,Leyton Orient,Swansea,3-1,1-1
+2003-04-19,Lincoln,York,1-0,1-0
+2003-04-19,Macclesfield,Darlington,1-0,1-0
+2003-04-19,Scunthorpe,Hartlepool,4-0,1-0
+2003-04-19,Shrewsbury,Boston,1-2,0-1
+2003-04-19,Southend,Torquay,3-0,2-0
+2003-04-21,Boston,Southend,1-0,0-0
+2003-04-21,Bournemouth,Shrewsbury,2-1,2-1
+2003-04-21,Bury,Scunthorpe,0-0,0-0
+2003-04-21,Darlington,Hull,2-0,0-0
+2003-04-21,Hartlepool,Rochdale,2-2,1-2
+2003-04-21,Oxford,Bristol Rvs,0-1,0-0
+2003-04-21,Rushden & D,Macclesfield,3-0,1-0
+2003-04-21,Swansea,Exeter,0-1,0-0
+2003-04-21,Torquay,Leyton Orient,2-2,1-1
+2003-04-21,Wrexham,Carlisle,6-1,3-0
+2003-04-21,York,Kidderminster,0-0,0-0
+2003-04-22,Cambridge,Lincoln,0-0,0-0
+2003-04-26,Boston,Macclesfield,2-1,1-0
+2003-04-26,Bournemouth,Lincoln,0-1,0-1
+2003-04-26,Bristol Rvs,Darlington,2-1,1-0
+2003-04-26,Hartlepool,Shrewsbury,3-0,2-0
+2003-04-26,Hull,Kidderminster,4-1,2-0
+2003-04-26,Leyton Orient,Rushden & D,0-0,0-0
+2003-04-26,Rochdale,Swansea,1-2,1-1
+2003-04-26,Scunthorpe,Oxford,2-0,1-0
+2003-04-26,Southend,Bury,1-2,1-1
+2003-04-26,Torquay,Carlisle,2-3,0-3
+2003-04-26,Wrexham,Cambridge,5-0,3-0
+2003-04-26,York,Exeter,0-2,0-1
+2003-04-29,Leyton Orient,Wrexham,0-1,0-1
+2003-04-29,Rochdale,Hull,2-1,2-0
+2003-04-29,Shrewsbury,Carlisle,2-3,1-2
+2003-05-03,Bury,Wrexham,0-3,0-1
+2003-05-03,Cambridge,Boston,1-2,0-1
+2003-05-03,Carlisle,Bournemouth,0-2,0-0
+2003-05-03,Darlington,Leyton Orient,2-2,1-2
+2003-05-03,Exeter,Southend,1-0,0-0
+2003-05-03,Kidderminster,Bristol Rvs,1-1,1-0
+2003-05-03,Lincoln,Torquay,1-1,0-1
+2003-05-03,Macclesfield,Rochdale,3-2,0-1
+2003-05-03,Oxford,York,2-0,1-0
+2003-05-03,Rushden & D,Hartlepool,1-1,1-0
+2003-05-03,Shrewsbury,Scunthorpe,1-2,1-0
+2003-05-03,Swansea,Hull,4-2,2-2

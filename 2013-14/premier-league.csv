@@ -1,380 +1,381 @@
-17/08/13,Arsenal,Aston Villa,1,3,1,1
-17/08/13,Liverpool,Stoke,1,0,1,0
-17/08/13,Norwich,Everton,2,2,0,0
-17/08/13,Sunderland,Fulham,0,1,0,0
-17/08/13,Swansea,Man United,1,4,0,2
-17/08/13,West Brom,Southampton,0,1,0,0
-17/08/13,West Ham,Cardiff,2,0,1,0
-18/08/13,Chelsea,Hull,2,0,2,0
-18/08/13,Crystal Palace,Tottenham,0,1,0,0
-19/08/13,Man City,Newcastle,4,0,2,0
-21/08/13,Chelsea,Aston Villa,2,1,1,1
-24/08/13,Aston Villa,Liverpool,0,1,0,1
-24/08/13,Everton,West Brom,0,0,0,0
-24/08/13,Fulham,Arsenal,1,3,0,2
-24/08/13,Hull,Norwich,1,0,1,0
-24/08/13,Newcastle,West Ham,0,0,0,0
-24/08/13,Southampton,Sunderland,1,1,0,1
-24/08/13,Stoke,Crystal Palace,2,1,0,1
-25/08/13,Cardiff,Man City,3,2,0,0
-25/08/13,Tottenham,Swansea,1,0,0,0
-26/08/13,Man United,Chelsea,0,0,0,0
-31/08/13,Cardiff,Everton,0,0,0,0
-31/08/13,Crystal Palace,Sunderland,3,1,1,0
-31/08/13,Man City,Hull,2,0,0,0
-31/08/13,Newcastle,Fulham,1,0,0,0
-31/08/13,Norwich,Southampton,1,0,0,0
-31/08/13,West Ham,Stoke,0,1,0,0
-01/09/13,Arsenal,Tottenham,1,0,1,0
-01/09/13,Liverpool,Man United,1,0,1,0
-01/09/13,West Brom,Swansea,0,2,0,1
-14/09/13,Aston Villa,Newcastle,1,2,0,1
-14/09/13,Everton,Chelsea,1,0,1,0
-14/09/13,Fulham,West Brom,1,1,1,0
-14/09/13,Hull,Cardiff,1,1,1,0
-14/09/13,Man United,Crystal Palace,2,0,1,0
-14/09/13,Stoke,Man City,0,0,0,0
-14/09/13,Sunderland,Arsenal,1,3,0,1
-14/09/13,Tottenham,Norwich,2,0,1,0
-15/09/13,Southampton,West Ham,0,0,0,0
-16/09/13,Swansea,Liverpool,2,2,1,2
-21/09/13,Chelsea,Fulham,2,0,0,0
-21/09/13,Liverpool,Southampton,0,1,0,0
-21/09/13,Newcastle,Hull,2,3,2,1
-21/09/13,Norwich,Aston Villa,0,1,0,1
-21/09/13,West Brom,Sunderland,3,0,1,0
-21/09/13,West Ham,Everton,2,3,1,0
-22/09/13,Arsenal,Stoke,3,1,2,1
-22/09/13,Cardiff,Tottenham,0,1,0,0
-22/09/13,Crystal Palace,Swansea,0,2,0,1
-22/09/13,Man City,Man United,4,1,2,0
-28/09/13,Aston Villa,Man City,3,2,0,1
-28/09/13,Fulham,Cardiff,1,2,1,1
-28/09/13,Hull,West Ham,1,0,1,0
-28/09/13,Man United,West Brom,1,2,0,0
-28/09/13,Southampton,Crystal Palace,2,0,0,0
-28/09/13,Swansea,Arsenal,1,2,0,0
-28/09/13,Tottenham,Chelsea,1,1,1,0
-29/09/13,Stoke,Norwich,0,1,0,1
-29/09/13,Sunderland,Liverpool,1,3,0,2
-30/09/13,Everton,Newcastle,3,2,3,0
-05/10/13,Cardiff,Newcastle,1,2,0,2
-05/10/13,Fulham,Stoke,1,0,0,0
-05/10/13,Hull,Aston Villa,0,0,0,0
-05/10/13,Liverpool,Crystal Palace,3,1,3,0
-05/10/13,Man City,Everton,3,1,2,1
-05/10/13,Sunderland,Man United,1,2,1,0
-06/10/13,Norwich,Chelsea,1,3,0,1
-06/10/13,Southampton,Swansea,2,0,1,0
-06/10/13,Tottenham,West Ham,0,3,0,0
-06/10/13,West Brom,Arsenal,1,1,1,0
-19/10/13,Arsenal,Norwich,4,1,1,0
-19/10/13,Chelsea,Cardiff,4,1,1,1
-19/10/13,Everton,Hull,2,1,1,1
-19/10/13,Man United,Southampton,1,1,1,0
-19/10/13,Newcastle,Liverpool,2,2,1,1
-19/10/13,Stoke,West Brom,0,0,0,0
-19/10/13,Swansea,Sunderland,4,0,0,0
-19/10/13,West Ham,Man City,1,3,0,1
-20/10/13,Aston Villa,Tottenham,0,2,0,1
-21/10/13,Crystal Palace,Fulham,1,4,1,2
-26/10/13,Aston Villa,Everton,0,2,0,0
-26/10/13,Crystal Palace,Arsenal,0,2,0,0
-26/10/13,Liverpool,West Brom,4,1,2,0
-26/10/13,Man United,Stoke,3,2,1,2
-26/10/13,Norwich,Cardiff,0,0,0,0
-26/10/13,Southampton,Fulham,2,0,2,0
-27/10/13,Chelsea,Man City,2,1,1,0
-27/10/13,Sunderland,Newcastle,2,1,1,0
-27/10/13,Swansea,West Ham,0,0,0,0
-27/10/13,Tottenham,Hull,1,0,0,0
-02/11/13,Arsenal,Liverpool,2,0,1,0
-02/11/13,Fulham,Man United,1,3,0,3
-02/11/13,Hull,Sunderland,1,0,1,0
-02/11/13,Man City,Norwich,7,0,4,0
-02/11/13,Newcastle,Chelsea,2,0,0,0
-02/11/13,Stoke,Southampton,1,1,1,1
-02/11/13,West Brom,Crystal Palace,2,0,1,0
-02/11/13,West Ham,Aston Villa,0,0,0,0
-03/11/13,Cardiff,Swansea,1,0,0,0
-03/11/13,Everton,Tottenham,0,0,0,0
-09/11/13,Aston Villa,Cardiff,2,0,0,0
-09/11/13,Chelsea,West Brom,2,2,1,0
-09/11/13,Crystal Palace,Everton,0,0,0,0
-09/11/13,Liverpool,Fulham,4,0,3,0
-09/11/13,Norwich,West Ham,3,1,0,1
-09/11/13,Southampton,Hull,4,1,3,0
-10/11/13,Man United,Arsenal,1,0,1,0
-10/11/13,Sunderland,Man City,1,0,1,0
-10/11/13,Swansea,Stoke,3,3,0,2
-10/11/13,Tottenham,Newcastle,0,1,0,1
-23/11/13,Arsenal,Southampton,2,0,1,0
-23/11/13,Everton,Liverpool,3,3,1,2
-23/11/13,Fulham,Swansea,1,2,0,0
-23/11/13,Hull,Crystal Palace,0,1,0,0
-23/11/13,Newcastle,Norwich,2,1,2,0
-23/11/13,Stoke,Sunderland,2,0,1,0
-23/11/13,West Ham,Chelsea,0,3,0,2
-24/11/13,Cardiff,Man United,2,2,1,2
-24/11/13,Man City,Tottenham,6,0,3,0
-25/11/13,West Brom,Aston Villa,2,2,2,0
-30/11/13,Aston Villa,Sunderland,0,0,0,0
-30/11/13,Cardiff,Arsenal,0,3,0,1
-30/11/13,Everton,Stoke,4,0,1,0
-30/11/13,Newcastle,West Brom,2,1,1,0
-30/11/13,Norwich,Crystal Palace,1,0,1,0
-30/11/13,West Ham,Fulham,3,0,0,0
-01/12/13,Chelsea,Southampton,3,1,0,1
-01/12/13,Hull,Liverpool,3,1,1,1
-01/12/13,Man City,Swansea,3,0,1,0
-01/12/13,Tottenham,Man United,2,2,1,1
-03/12/13,Crystal Palace,West Ham,1,0,1,0
-04/12/13,Arsenal,Hull,2,0,1,0
-04/12/13,Fulham,Tottenham,1,2,0,0
-04/12/13,Liverpool,Norwich,5,1,3,0
-04/12/13,Man United,Everton,0,1,0,0
-04/12/13,Southampton,Aston Villa,2,3,0,1
-04/12/13,Stoke,Cardiff,0,0,0,0
-04/12/13,Sunderland,Chelsea,3,4,1,2
-04/12/13,Swansea,Newcastle,3,0,1,0
-04/12/13,West Brom,Man City,2,3,0,2
-07/12/13,Crystal Palace,Cardiff,2,0,1,0
-07/12/13,Liverpool,West Ham,4,1,1,0
-07/12/13,Man United,Newcastle,0,1,0,0
-07/12/13,Southampton,Man City,1,1,1,1
-07/12/13,Stoke,Chelsea,3,2,1,1
-07/12/13,Sunderland,Tottenham,1,2,1,1
-07/12/13,West Brom,Norwich,0,2,0,1
-08/12/13,Arsenal,Everton,1,1,0,0
-08/12/13,Fulham,Aston Villa,2,0,2,0
-09/12/13,Swansea,Hull,1,1,0,1
-14/12/13,Cardiff,West Brom,1,0,0,0
-14/12/13,Chelsea,Crystal Palace,2,1,2,1
-14/12/13,Everton,Fulham,4,1,1,0
-14/12/13,Hull,Stoke,0,0,0,0
-14/12/13,Man City,Arsenal,6,3,2,1
-14/12/13,Newcastle,Southampton,1,1,1,0
-14/12/13,West Ham,Sunderland,0,0,0,0
-15/12/13,Aston Villa,Man United,0,3,0,2
-15/12/13,Norwich,Swansea,1,1,1,1
-15/12/13,Tottenham,Liverpool,0,5,0,2
-21/12/13,Crystal Palace,Newcastle,0,3,0,2
-21/12/13,Fulham,Man City,2,4,0,2
-21/12/13,Liverpool,Cardiff,3,1,3,0
-21/12/13,Man United,West Ham,3,1,2,0
-21/12/13,Stoke,Aston Villa,2,1,0,0
-21/12/13,Sunderland,Norwich,0,0,0,0
-21/12/13,West Brom,Hull,1,1,0,1
-22/12/13,Southampton,Tottenham,2,3,1,1
-22/12/13,Swansea,Everton,1,2,0,0
-23/12/13,Arsenal,Chelsea,0,0,0,0
-26/12/13,Aston Villa,Crystal Palace,0,1,0,0
-26/12/13,Cardiff,Southampton,0,3,0,3
-26/12/13,Chelsea,Swansea,1,0,1,0
-26/12/13,Everton,Sunderland,0,1,0,1
-26/12/13,Hull,Man United,2,3,2,2
-26/12/13,Man City,Liverpool,2,1,2,1
-26/12/13,Newcastle,Stoke,5,1,1,1
-26/12/13,Norwich,Fulham,1,2,1,1
-26/12/13,Tottenham,West Brom,1,1,1,1
-26/12/13,West Ham,Arsenal,1,3,0,0
-28/12/13,Aston Villa,Swansea,1,1,1,1
-28/12/13,Cardiff,Sunderland,2,2,1,0
-28/12/13,Hull,Fulham,6,0,0,0
-28/12/13,Man City,Crystal Palace,1,0,0,0
-28/12/13,Norwich,Man United,0,1,0,0
-28/12/13,West Ham,West Brom,3,3,1,2
-29/12/13,Chelsea,Liverpool,2,1,2,1
-29/12/13,Everton,Southampton,2,1,1,0
-29/12/13,Newcastle,Arsenal,0,1,0,0
-29/12/13,Tottenham,Stoke,3,0,1,0
-01/01/14,Arsenal,Cardiff,2,0,0,0
-01/01/14,Crystal Palace,Norwich,1,1,1,1
-01/01/14,Fulham,West Ham,2,1,1,1
-01/01/14,Liverpool,Hull,2,0,1,0
-01/01/14,Man United,Tottenham,1,2,0,1
-01/01/14,Southampton,Chelsea,0,3,0,0
-01/01/14,Stoke,Everton,1,1,0,0
-01/01/14,Sunderland,Aston Villa,0,1,0,1
-01/01/14,Swansea,Man City,2,3,1,1
-01/01/14,West Brom,Newcastle,1,0,0,0
-11/01/14,Cardiff,West Ham,0,2,0,1
-11/01/14,Everton,Norwich,2,0,1,0
-11/01/14,Fulham,Sunderland,1,4,0,2
-11/01/14,Hull,Chelsea,0,2,0,0
-11/01/14,Man United,Swansea,2,0,0,0
-11/01/14,Southampton,West Brom,1,0,0,0
-11/01/14,Tottenham,Crystal Palace,2,0,0,0
-12/01/14,Newcastle,Man City,0,2,0,1
-12/01/14,Stoke,Liverpool,3,5,2,2
-13/01/14,Aston Villa,Arsenal,1,2,0,2
-18/01/14,Arsenal,Fulham,2,0,0,0
-18/01/14,Crystal Palace,Stoke,1,0,0,0
-18/01/14,Liverpool,Aston Villa,2,2,1,2
-18/01/14,Man City,Cardiff,4,2,2,1
-18/01/14,Norwich,Hull,1,0,0,0
-18/01/14,Sunderland,Southampton,2,2,1,2
-18/01/14,West Ham,Newcastle,1,3,1,2
-19/01/14,Chelsea,Man United,3,1,2,0
-19/01/14,Swansea,Tottenham,1,3,0,1
-20/01/14,West Brom,Everton,1,1,0,1
-28/01/14,Crystal Palace,Hull,1,0,1,0
-28/01/14,Liverpool,Everton,4,0,3,0
-28/01/14,Man United,Cardiff,2,0,1,0
-28/01/14,Norwich,Newcastle,0,0,0,0
-28/01/14,Southampton,Arsenal,2,2,1,0
-28/01/14,Swansea,Fulham,2,0,0,0
-29/01/14,Aston Villa,West Brom,4,3,3,3
-29/01/14,Chelsea,West Ham,0,0,0,0
-29/01/14,Sunderland,Stoke,1,0,1,0
-29/01/14,Tottenham,Man City,1,5,0,1
-01/02/14,Cardiff,Norwich,2,1,0,1
-01/02/14,Everton,Aston Villa,2,1,0,1
-01/02/14,Fulham,Southampton,0,3,0,0
-01/02/14,Hull,Tottenham,1,1,1,0
-01/02/14,Newcastle,Sunderland,0,3,0,2
-01/02/14,Stoke,Man United,2,1,1,0
-01/02/14,West Ham,Swansea,2,0,2,0
-02/02/14,Arsenal,Crystal Palace,2,0,0,0
-02/02/14,West Brom,Liverpool,1,1,0,1
-03/02/14,Man City,Chelsea,0,1,0,1
-08/02/14,Aston Villa,West Ham,0,2,0,0
-08/02/14,Chelsea,Newcastle,3,0,2,0
-08/02/14,Crystal Palace,West Brom,3,1,2,0
-08/02/14,Liverpool,Arsenal,5,1,4,0
-08/02/14,Norwich,Man City,0,0,0,0
-08/02/14,Southampton,Stoke,2,2,2,2
-08/02/14,Sunderland,Hull,0,2,0,1
-08/02/14,Swansea,Cardiff,3,0,0,0
-09/02/14,Man United,Fulham,2,2,0,1
-09/02/14,Tottenham,Everton,1,0,0,0
-11/02/14,Cardiff,Aston Villa,0,0,0,0
-11/02/14,Hull,Southampton,0,1,0,0
-11/02/14,West Brom,Chelsea,1,1,0,1
-11/02/14,West Ham,Norwich,2,0,0,0
-12/02/14,Arsenal,Man United,0,0,0,0
-12/02/14,Fulham,Liverpool,2,3,1,1
-12/02/14,Newcastle,Tottenham,0,4,0,1
-12/02/14,Stoke,Swansea,1,1,1,0
-22/02/14,Arsenal,Sunderland,4,1,3,0
-22/02/14,Cardiff,Hull,0,4,0,2
-22/02/14,Chelsea,Everton,1,0,0,0
-22/02/14,Crystal Palace,Man United,0,2,0,0
-22/02/14,Man City,Stoke,1,0,0,0
-22/02/14,West Brom,Fulham,1,1,0,1
-22/02/14,West Ham,Southampton,3,1,2,1
-23/02/14,Liverpool,Swansea,4,3,3,2
-23/02/14,Newcastle,Aston Villa,1,0,0,0
-23/02/14,Norwich,Tottenham,1,0,0,0
-01/03/14,Everton,West Ham,1,0,0,0
-01/03/14,Fulham,Chelsea,1,3,0,0
-01/03/14,Hull,Newcastle,1,4,0,2
-01/03/14,Southampton,Liverpool,0,3,0,1
-01/03/14,Stoke,Arsenal,1,0,0,0
-02/03/14,Aston Villa,Norwich,4,1,4,1
-02/03/14,Swansea,Crystal Palace,1,1,1,0
-02/03/14,Tottenham,Cardiff,1,0,1,0
-08/03/14,Cardiff,Fulham,3,1,1,0
-08/03/14,Chelsea,Tottenham,4,0,0,0
-08/03/14,Crystal Palace,Southampton,0,1,0,1
-08/03/14,Norwich,Stoke,1,1,0,0
-08/03/14,West Brom,Man United,0,3,0,1
-15/03/14,Aston Villa,Chelsea,1,0,0,0
-15/03/14,Everton,Cardiff,2,1,0,0
-15/03/14,Fulham,Newcastle,1,0,0,0
-15/03/14,Hull,Man City,0,2,0,1
-15/03/14,Southampton,Norwich,4,2,1,0
-15/03/14,Stoke,West Ham,3,1,1,1
-15/03/14,Sunderland,Crystal Palace,0,0,0,0
-15/03/14,Swansea,West Brom,1,2,1,0
-16/03/14,Man United,Liverpool,0,3,0,1
-16/03/14,Tottenham,Arsenal,0,1,0,1
-22/03/14,Cardiff,Liverpool,3,6,2,2
-22/03/14,Chelsea,Arsenal,6,0,4,0
-22/03/14,Everton,Swansea,3,2,1,1
-22/03/14,Hull,West Brom,2,0,2,0
-22/03/14,Man City,Fulham,5,0,1,0
-22/03/14,Newcastle,Crystal Palace,1,0,0,0
-22/03/14,Norwich,Sunderland,2,0,2,0
-22/03/14,West Ham,Man United,0,2,0,2
-23/03/14,Aston Villa,Stoke,1,4,1,3
-23/03/14,Tottenham,Southampton,3,2,1,2
-25/03/14,Arsenal,Swansea,2,2,0,1
-25/03/14,Man United,Man City,0,3,0,1
-25/03/14,Newcastle,Everton,0,3,0,1
-26/03/14,Liverpool,Sunderland,2,1,1,0
-26/03/14,West Ham,Hull,2,1,1,0
-29/03/14,Arsenal,Man City,1,1,0,1
-29/03/14,Crystal Palace,Chelsea,1,0,0,0
-29/03/14,Man United,Aston Villa,4,1,2,1
-29/03/14,Southampton,Newcastle,4,0,1,0
-29/03/14,Stoke,Hull,1,0,0,0
-29/03/14,Swansea,Norwich,3,0,2,0
-29/03/14,West Brom,Cardiff,3,3,2,1
-30/03/14,Fulham,Everton,1,3,0,0
-30/03/14,Liverpool,Tottenham,4,0,2,0
-31/03/14,Sunderland,West Ham,1,2,0,1
-05/04/14,Aston Villa,Fulham,1,2,0,0
-05/04/14,Cardiff,Crystal Palace,0,3,0,1
-05/04/14,Chelsea,Stoke,3,0,1,0
-05/04/14,Hull,Swansea,1,0,1,0
-05/04/14,Man City,Southampton,4,1,3,1
-05/04/14,Newcastle,Man United,0,4,0,1
-05/04/14,Norwich,West Brom,0,1,0,1
-06/04/14,Everton,Arsenal,3,0,2,0
-06/04/14,West Ham,Liverpool,1,2,1,1
-07/04/14,Tottenham,Sunderland,5,1,1,1
-12/04/14,Crystal Palace,Aston Villa,1,0,0,0
-12/04/14,Fulham,Norwich,1,0,1,0
-12/04/14,Southampton,Cardiff,0,1,0,0
-12/04/14,Stoke,Newcastle,1,0,1,0
-12/04/14,Sunderland,Everton,0,1,0,0
-12/04/14,West Brom,Tottenham,3,3,3,1
-13/04/14,Liverpool,Man City,3,2,2,0
-13/04/14,Swansea,Chelsea,0,1,0,0
-15/04/14,Arsenal,West Ham,3,1,1,1
-16/04/14,Everton,Crystal Palace,2,3,0,1
-16/04/14,Man City,Sunderland,2,2,1,0
-19/04/14,Aston Villa,Southampton,0,0,0,0
-19/04/14,Cardiff,Stoke,1,1,0,1
-19/04/14,Chelsea,Sunderland,1,2,1,1
-19/04/14,Newcastle,Swansea,1,2,1,1
-19/04/14,Tottenham,Fulham,3,1,1,1
-19/04/14,West Ham,Crystal Palace,0,1,0,0
-20/04/14,Everton,Man United,2,0,2,0
-20/04/14,Hull,Arsenal,0,3,0,2
-20/04/14,Norwich,Liverpool,2,3,0,2
-21/04/14,Man City,West Brom,3,1,3,1
-26/04/14,Fulham,Hull,2,2,0,0
-26/04/14,Man United,Norwich,4,0,1,0
-26/04/14,Southampton,Everton,2,0,2,0
-26/04/14,Stoke,Tottenham,0,1,0,1
-26/04/14,Swansea,Aston Villa,4,1,2,1
-26/04/14,West Brom,West Ham,1,0,1,0
-27/04/14,Crystal Palace,Man City,0,2,0,2
-27/04/14,Liverpool,Chelsea,0,2,0,1
-27/04/14,Sunderland,Cardiff,4,0,2,0
-28/04/14,Arsenal,Newcastle,3,0,2,0
-03/05/14,Aston Villa,Hull,3,1,3,1
-03/05/14,Man United,Sunderland,0,1,0,1
-03/05/14,Newcastle,Cardiff,3,0,1,0
-03/05/14,Stoke,Fulham,4,1,1,0
-03/05/14,Swansea,Southampton,0,1,0,0
-03/05/14,West Ham,Tottenham,2,0,2,0
-03/05/14,Everton,Man City,2,3,1,2
-04/05/14,Arsenal,West Brom,1,0,1,0
-04/05/14,Chelsea,Norwich,0,0,0,0
-05/05/14,Crystal Palace,Liverpool,3,3,0,1
-06/05/14,Man United,Hull,3,1,1,0
-07/05/14,Man City,Aston Villa,4,0,0,0
-07/05/14,Sunderland,West Brom,2,0,2,0
-11/05/14,Cardiff,Chelsea,1,2,1,0
-11/05/14,Fulham,Crystal Palace,2,2,0,1
-11/05/14,Hull,Everton,0,2,0,1
-11/05/14,Liverpool,Newcastle,2,1,0,1
-11/05/14,Man City,West Ham,2,0,1,0
-11/05/14,Norwich,Arsenal,0,2,0,0
-11/05/14,Southampton,Man United,1,1,1,0
-11/05/14,Sunderland,Swansea,1,3,0,2
-11/05/14,Tottenham,Aston Villa,3,0,3,0
-11/05/14,West Brom,Stoke,1,2,0,1
+Date,Team 1,Team 2,FT,HT
+2013-08-17,Arsenal,Aston Villa,1-3,1-1
+2013-08-17,Liverpool,Stoke,1-0,1-0
+2013-08-17,Norwich,Everton,2-2,0-0
+2013-08-17,Sunderland,Fulham,0-1,0-0
+2013-08-17,Swansea,Man United,1-4,0-2
+2013-08-17,West Brom,Southampton,0-1,0-0
+2013-08-17,West Ham,Cardiff,2-0,1-0
+2013-08-18,Chelsea,Hull,2-0,2-0
+2013-08-18,Crystal Palace,Tottenham,0-1,0-0
+2013-08-19,Man City,Newcastle,4-0,2-0
+2013-08-21,Chelsea,Aston Villa,2-1,1-1
+2013-08-24,Aston Villa,Liverpool,0-1,0-1
+2013-08-24,Everton,West Brom,0-0,0-0
+2013-08-24,Fulham,Arsenal,1-3,0-2
+2013-08-24,Hull,Norwich,1-0,1-0
+2013-08-24,Newcastle,West Ham,0-0,0-0
+2013-08-24,Southampton,Sunderland,1-1,0-1
+2013-08-24,Stoke,Crystal Palace,2-1,0-1
+2013-08-25,Cardiff,Man City,3-2,0-0
+2013-08-25,Tottenham,Swansea,1-0,0-0
+2013-08-26,Man United,Chelsea,0-0,0-0
+2013-08-31,Cardiff,Everton,0-0,0-0
+2013-08-31,Crystal Palace,Sunderland,3-1,1-0
+2013-08-31,Man City,Hull,2-0,0-0
+2013-08-31,Newcastle,Fulham,1-0,0-0
+2013-08-31,Norwich,Southampton,1-0,0-0
+2013-08-31,West Ham,Stoke,0-1,0-0
+2013-09-01,Arsenal,Tottenham,1-0,1-0
+2013-09-01,Liverpool,Man United,1-0,1-0
+2013-09-01,West Brom,Swansea,0-2,0-1
+2013-09-14,Aston Villa,Newcastle,1-2,0-1
+2013-09-14,Everton,Chelsea,1-0,1-0
+2013-09-14,Fulham,West Brom,1-1,1-0
+2013-09-14,Hull,Cardiff,1-1,1-0
+2013-09-14,Man United,Crystal Palace,2-0,1-0
+2013-09-14,Stoke,Man City,0-0,0-0
+2013-09-14,Sunderland,Arsenal,1-3,0-1
+2013-09-14,Tottenham,Norwich,2-0,1-0
+2013-09-15,Southampton,West Ham,0-0,0-0
+2013-09-16,Swansea,Liverpool,2-2,1-2
+2013-09-21,Chelsea,Fulham,2-0,0-0
+2013-09-21,Liverpool,Southampton,0-1,0-0
+2013-09-21,Newcastle,Hull,2-3,2-1
+2013-09-21,Norwich,Aston Villa,0-1,0-1
+2013-09-21,West Brom,Sunderland,3-0,1-0
+2013-09-21,West Ham,Everton,2-3,1-0
+2013-09-22,Arsenal,Stoke,3-1,2-1
+2013-09-22,Cardiff,Tottenham,0-1,0-0
+2013-09-22,Crystal Palace,Swansea,0-2,0-1
+2013-09-22,Man City,Man United,4-1,2-0
+2013-09-28,Aston Villa,Man City,3-2,0-1
+2013-09-28,Fulham,Cardiff,1-2,1-1
+2013-09-28,Hull,West Ham,1-0,1-0
+2013-09-28,Man United,West Brom,1-2,0-0
+2013-09-28,Southampton,Crystal Palace,2-0,0-0
+2013-09-28,Swansea,Arsenal,1-2,0-0
+2013-09-28,Tottenham,Chelsea,1-1,1-0
+2013-09-29,Stoke,Norwich,0-1,0-1
+2013-09-29,Sunderland,Liverpool,1-3,0-2
+2013-09-30,Everton,Newcastle,3-2,3-0
+2013-10-05,Cardiff,Newcastle,1-2,0-2
+2013-10-05,Fulham,Stoke,1-0,0-0
+2013-10-05,Hull,Aston Villa,0-0,0-0
+2013-10-05,Liverpool,Crystal Palace,3-1,3-0
+2013-10-05,Man City,Everton,3-1,2-1
+2013-10-05,Sunderland,Man United,1-2,1-0
+2013-10-06,Norwich,Chelsea,1-3,0-1
+2013-10-06,Southampton,Swansea,2-0,1-0
+2013-10-06,Tottenham,West Ham,0-3,0-0
+2013-10-06,West Brom,Arsenal,1-1,1-0
+2013-10-19,Arsenal,Norwich,4-1,1-0
+2013-10-19,Chelsea,Cardiff,4-1,1-1
+2013-10-19,Everton,Hull,2-1,1-1
+2013-10-19,Man United,Southampton,1-1,1-0
+2013-10-19,Newcastle,Liverpool,2-2,1-1
+2013-10-19,Stoke,West Brom,0-0,0-0
+2013-10-19,Swansea,Sunderland,4-0,0-0
+2013-10-19,West Ham,Man City,1-3,0-1
+2013-10-20,Aston Villa,Tottenham,0-2,0-1
+2013-10-21,Crystal Palace,Fulham,1-4,1-2
+2013-10-26,Aston Villa,Everton,0-2,0-0
+2013-10-26,Crystal Palace,Arsenal,0-2,0-0
+2013-10-26,Liverpool,West Brom,4-1,2-0
+2013-10-26,Man United,Stoke,3-2,1-2
+2013-10-26,Norwich,Cardiff,0-0,0-0
+2013-10-26,Southampton,Fulham,2-0,2-0
+2013-10-27,Chelsea,Man City,2-1,1-0
+2013-10-27,Sunderland,Newcastle,2-1,1-0
+2013-10-27,Swansea,West Ham,0-0,0-0
+2013-10-27,Tottenham,Hull,1-0,0-0
+2013-11-02,Arsenal,Liverpool,2-0,1-0
+2013-11-02,Fulham,Man United,1-3,0-3
+2013-11-02,Hull,Sunderland,1-0,1-0
+2013-11-02,Man City,Norwich,7-0,4-0
+2013-11-02,Newcastle,Chelsea,2-0,0-0
+2013-11-02,Stoke,Southampton,1-1,1-1
+2013-11-02,West Brom,Crystal Palace,2-0,1-0
+2013-11-02,West Ham,Aston Villa,0-0,0-0
+2013-11-03,Cardiff,Swansea,1-0,0-0
+2013-11-03,Everton,Tottenham,0-0,0-0
+2013-11-09,Aston Villa,Cardiff,2-0,0-0
+2013-11-09,Chelsea,West Brom,2-2,1-0
+2013-11-09,Crystal Palace,Everton,0-0,0-0
+2013-11-09,Liverpool,Fulham,4-0,3-0
+2013-11-09,Norwich,West Ham,3-1,0-1
+2013-11-09,Southampton,Hull,4-1,3-0
+2013-11-10,Man United,Arsenal,1-0,1-0
+2013-11-10,Sunderland,Man City,1-0,1-0
+2013-11-10,Swansea,Stoke,3-3,0-2
+2013-11-10,Tottenham,Newcastle,0-1,0-1
+2013-11-23,Arsenal,Southampton,2-0,1-0
+2013-11-23,Everton,Liverpool,3-3,1-2
+2013-11-23,Fulham,Swansea,1-2,0-0
+2013-11-23,Hull,Crystal Palace,0-1,0-0
+2013-11-23,Newcastle,Norwich,2-1,2-0
+2013-11-23,Stoke,Sunderland,2-0,1-0
+2013-11-23,West Ham,Chelsea,0-3,0-2
+2013-11-24,Cardiff,Man United,2-2,1-2
+2013-11-24,Man City,Tottenham,6-0,3-0
+2013-11-25,West Brom,Aston Villa,2-2,2-0
+2013-11-30,Aston Villa,Sunderland,0-0,0-0
+2013-11-30,Cardiff,Arsenal,0-3,0-1
+2013-11-30,Everton,Stoke,4-0,1-0
+2013-11-30,Newcastle,West Brom,2-1,1-0
+2013-11-30,Norwich,Crystal Palace,1-0,1-0
+2013-11-30,West Ham,Fulham,3-0,0-0
+2013-12-01,Chelsea,Southampton,3-1,0-1
+2013-12-01,Hull,Liverpool,3-1,1-1
+2013-12-01,Man City,Swansea,3-0,1-0
+2013-12-01,Tottenham,Man United,2-2,1-1
+2013-12-03,Crystal Palace,West Ham,1-0,1-0
+2013-12-04,Arsenal,Hull,2-0,1-0
+2013-12-04,Fulham,Tottenham,1-2,0-0
+2013-12-04,Liverpool,Norwich,5-1,3-0
+2013-12-04,Man United,Everton,0-1,0-0
+2013-12-04,Southampton,Aston Villa,2-3,0-1
+2013-12-04,Stoke,Cardiff,0-0,0-0
+2013-12-04,Sunderland,Chelsea,3-4,1-2
+2013-12-04,Swansea,Newcastle,3-0,1-0
+2013-12-04,West Brom,Man City,2-3,0-2
+2013-12-07,Crystal Palace,Cardiff,2-0,1-0
+2013-12-07,Liverpool,West Ham,4-1,1-0
+2013-12-07,Man United,Newcastle,0-1,0-0
+2013-12-07,Southampton,Man City,1-1,1-1
+2013-12-07,Stoke,Chelsea,3-2,1-1
+2013-12-07,Sunderland,Tottenham,1-2,1-1
+2013-12-07,West Brom,Norwich,0-2,0-1
+2013-12-08,Arsenal,Everton,1-1,0-0
+2013-12-08,Fulham,Aston Villa,2-0,2-0
+2013-12-09,Swansea,Hull,1-1,0-1
+2013-12-14,Cardiff,West Brom,1-0,0-0
+2013-12-14,Chelsea,Crystal Palace,2-1,2-1
+2013-12-14,Everton,Fulham,4-1,1-0
+2013-12-14,Hull,Stoke,0-0,0-0
+2013-12-14,Man City,Arsenal,6-3,2-1
+2013-12-14,Newcastle,Southampton,1-1,1-0
+2013-12-14,West Ham,Sunderland,0-0,0-0
+2013-12-15,Aston Villa,Man United,0-3,0-2
+2013-12-15,Norwich,Swansea,1-1,1-1
+2013-12-15,Tottenham,Liverpool,0-5,0-2
+2013-12-21,Crystal Palace,Newcastle,0-3,0-2
+2013-12-21,Fulham,Man City,2-4,0-2
+2013-12-21,Liverpool,Cardiff,3-1,3-0
+2013-12-21,Man United,West Ham,3-1,2-0
+2013-12-21,Stoke,Aston Villa,2-1,0-0
+2013-12-21,Sunderland,Norwich,0-0,0-0
+2013-12-21,West Brom,Hull,1-1,0-1
+2013-12-22,Southampton,Tottenham,2-3,1-1
+2013-12-22,Swansea,Everton,1-2,0-0
+2013-12-23,Arsenal,Chelsea,0-0,0-0
+2013-12-26,Aston Villa,Crystal Palace,0-1,0-0
+2013-12-26,Cardiff,Southampton,0-3,0-3
+2013-12-26,Chelsea,Swansea,1-0,1-0
+2013-12-26,Everton,Sunderland,0-1,0-1
+2013-12-26,Hull,Man United,2-3,2-2
+2013-12-26,Man City,Liverpool,2-1,2-1
+2013-12-26,Newcastle,Stoke,5-1,1-1
+2013-12-26,Norwich,Fulham,1-2,1-1
+2013-12-26,Tottenham,West Brom,1-1,1-1
+2013-12-26,West Ham,Arsenal,1-3,0-0
+2013-12-28,Aston Villa,Swansea,1-1,1-1
+2013-12-28,Cardiff,Sunderland,2-2,1-0
+2013-12-28,Hull,Fulham,6-0,0-0
+2013-12-28,Man City,Crystal Palace,1-0,0-0
+2013-12-28,Norwich,Man United,0-1,0-0
+2013-12-28,West Ham,West Brom,3-3,1-2
+2013-12-29,Chelsea,Liverpool,2-1,2-1
+2013-12-29,Everton,Southampton,2-1,1-0
+2013-12-29,Newcastle,Arsenal,0-1,0-0
+2013-12-29,Tottenham,Stoke,3-0,1-0
+2014-01-01,Arsenal,Cardiff,2-0,0-0
+2014-01-01,Crystal Palace,Norwich,1-1,1-1
+2014-01-01,Fulham,West Ham,2-1,1-1
+2014-01-01,Liverpool,Hull,2-0,1-0
+2014-01-01,Man United,Tottenham,1-2,0-1
+2014-01-01,Southampton,Chelsea,0-3,0-0
+2014-01-01,Stoke,Everton,1-1,0-0
+2014-01-01,Sunderland,Aston Villa,0-1,0-1
+2014-01-01,Swansea,Man City,2-3,1-1
+2014-01-01,West Brom,Newcastle,1-0,0-0
+2014-01-11,Cardiff,West Ham,0-2,0-1
+2014-01-11,Everton,Norwich,2-0,1-0
+2014-01-11,Fulham,Sunderland,1-4,0-2
+2014-01-11,Hull,Chelsea,0-2,0-0
+2014-01-11,Man United,Swansea,2-0,0-0
+2014-01-11,Southampton,West Brom,1-0,0-0
+2014-01-11,Tottenham,Crystal Palace,2-0,0-0
+2014-01-12,Newcastle,Man City,0-2,0-1
+2014-01-12,Stoke,Liverpool,3-5,2-2
+2014-01-13,Aston Villa,Arsenal,1-2,0-2
+2014-01-18,Arsenal,Fulham,2-0,0-0
+2014-01-18,Crystal Palace,Stoke,1-0,0-0
+2014-01-18,Liverpool,Aston Villa,2-2,1-2
+2014-01-18,Man City,Cardiff,4-2,2-1
+2014-01-18,Norwich,Hull,1-0,0-0
+2014-01-18,Sunderland,Southampton,2-2,1-2
+2014-01-18,West Ham,Newcastle,1-3,1-2
+2014-01-19,Chelsea,Man United,3-1,2-0
+2014-01-19,Swansea,Tottenham,1-3,0-1
+2014-01-20,West Brom,Everton,1-1,0-1
+2014-01-28,Crystal Palace,Hull,1-0,1-0
+2014-01-28,Liverpool,Everton,4-0,3-0
+2014-01-28,Man United,Cardiff,2-0,1-0
+2014-01-28,Norwich,Newcastle,0-0,0-0
+2014-01-28,Southampton,Arsenal,2-2,1-0
+2014-01-28,Swansea,Fulham,2-0,0-0
+2014-01-29,Aston Villa,West Brom,4-3,3-3
+2014-01-29,Chelsea,West Ham,0-0,0-0
+2014-01-29,Sunderland,Stoke,1-0,1-0
+2014-01-29,Tottenham,Man City,1-5,0-1
+2014-02-01,Cardiff,Norwich,2-1,0-1
+2014-02-01,Everton,Aston Villa,2-1,0-1
+2014-02-01,Fulham,Southampton,0-3,0-0
+2014-02-01,Hull,Tottenham,1-1,1-0
+2014-02-01,Newcastle,Sunderland,0-3,0-2
+2014-02-01,Stoke,Man United,2-1,1-0
+2014-02-01,West Ham,Swansea,2-0,2-0
+2014-02-02,Arsenal,Crystal Palace,2-0,0-0
+2014-02-02,West Brom,Liverpool,1-1,0-1
+2014-02-03,Man City,Chelsea,0-1,0-1
+2014-02-08,Aston Villa,West Ham,0-2,0-0
+2014-02-08,Chelsea,Newcastle,3-0,2-0
+2014-02-08,Crystal Palace,West Brom,3-1,2-0
+2014-02-08,Liverpool,Arsenal,5-1,4-0
+2014-02-08,Norwich,Man City,0-0,0-0
+2014-02-08,Southampton,Stoke,2-2,2-2
+2014-02-08,Sunderland,Hull,0-2,0-1
+2014-02-08,Swansea,Cardiff,3-0,0-0
+2014-02-09,Man United,Fulham,2-2,0-1
+2014-02-09,Tottenham,Everton,1-0,0-0
+2014-02-11,Cardiff,Aston Villa,0-0,0-0
+2014-02-11,Hull,Southampton,0-1,0-0
+2014-02-11,West Brom,Chelsea,1-1,0-1
+2014-02-11,West Ham,Norwich,2-0,0-0
+2014-02-12,Arsenal,Man United,0-0,0-0
+2014-02-12,Fulham,Liverpool,2-3,1-1
+2014-02-12,Newcastle,Tottenham,0-4,0-1
+2014-02-12,Stoke,Swansea,1-1,1-0
+2014-02-22,Arsenal,Sunderland,4-1,3-0
+2014-02-22,Cardiff,Hull,0-4,0-2
+2014-02-22,Chelsea,Everton,1-0,0-0
+2014-02-22,Crystal Palace,Man United,0-2,0-0
+2014-02-22,Man City,Stoke,1-0,0-0
+2014-02-22,West Brom,Fulham,1-1,0-1
+2014-02-22,West Ham,Southampton,3-1,2-1
+2014-02-23,Liverpool,Swansea,4-3,3-2
+2014-02-23,Newcastle,Aston Villa,1-0,0-0
+2014-02-23,Norwich,Tottenham,1-0,0-0
+2014-03-01,Everton,West Ham,1-0,0-0
+2014-03-01,Fulham,Chelsea,1-3,0-0
+2014-03-01,Hull,Newcastle,1-4,0-2
+2014-03-01,Southampton,Liverpool,0-3,0-1
+2014-03-01,Stoke,Arsenal,1-0,0-0
+2014-03-02,Aston Villa,Norwich,4-1,4-1
+2014-03-02,Swansea,Crystal Palace,1-1,1-0
+2014-03-02,Tottenham,Cardiff,1-0,1-0
+2014-03-08,Cardiff,Fulham,3-1,1-0
+2014-03-08,Chelsea,Tottenham,4-0,0-0
+2014-03-08,Crystal Palace,Southampton,0-1,0-1
+2014-03-08,Norwich,Stoke,1-1,0-0
+2014-03-08,West Brom,Man United,0-3,0-1
+2014-03-15,Aston Villa,Chelsea,1-0,0-0
+2014-03-15,Everton,Cardiff,2-1,0-0
+2014-03-15,Fulham,Newcastle,1-0,0-0
+2014-03-15,Hull,Man City,0-2,0-1
+2014-03-15,Southampton,Norwich,4-2,1-0
+2014-03-15,Stoke,West Ham,3-1,1-1
+2014-03-15,Sunderland,Crystal Palace,0-0,0-0
+2014-03-15,Swansea,West Brom,1-2,1-0
+2014-03-16,Man United,Liverpool,0-3,0-1
+2014-03-16,Tottenham,Arsenal,0-1,0-1
+2014-03-22,Cardiff,Liverpool,3-6,2-2
+2014-03-22,Chelsea,Arsenal,6-0,4-0
+2014-03-22,Everton,Swansea,3-2,1-1
+2014-03-22,Hull,West Brom,2-0,2-0
+2014-03-22,Man City,Fulham,5-0,1-0
+2014-03-22,Newcastle,Crystal Palace,1-0,0-0
+2014-03-22,Norwich,Sunderland,2-0,2-0
+2014-03-22,West Ham,Man United,0-2,0-2
+2014-03-23,Aston Villa,Stoke,1-4,1-3
+2014-03-23,Tottenham,Southampton,3-2,1-2
+2014-03-25,Arsenal,Swansea,2-2,0-1
+2014-03-25,Man United,Man City,0-3,0-1
+2014-03-25,Newcastle,Everton,0-3,0-1
+2014-03-26,Liverpool,Sunderland,2-1,1-0
+2014-03-26,West Ham,Hull,2-1,1-0
+2014-03-29,Arsenal,Man City,1-1,0-1
+2014-03-29,Crystal Palace,Chelsea,1-0,0-0
+2014-03-29,Man United,Aston Villa,4-1,2-1
+2014-03-29,Southampton,Newcastle,4-0,1-0
+2014-03-29,Stoke,Hull,1-0,0-0
+2014-03-29,Swansea,Norwich,3-0,2-0
+2014-03-29,West Brom,Cardiff,3-3,2-1
+2014-03-30,Fulham,Everton,1-3,0-0
+2014-03-30,Liverpool,Tottenham,4-0,2-0
+2014-03-31,Sunderland,West Ham,1-2,0-1
+2014-04-05,Aston Villa,Fulham,1-2,0-0
+2014-04-05,Cardiff,Crystal Palace,0-3,0-1
+2014-04-05,Chelsea,Stoke,3-0,1-0
+2014-04-05,Hull,Swansea,1-0,1-0
+2014-04-05,Man City,Southampton,4-1,3-1
+2014-04-05,Newcastle,Man United,0-4,0-1
+2014-04-05,Norwich,West Brom,0-1,0-1
+2014-04-06,Everton,Arsenal,3-0,2-0
+2014-04-06,West Ham,Liverpool,1-2,1-1
+2014-04-07,Tottenham,Sunderland,5-1,1-1
+2014-04-12,Crystal Palace,Aston Villa,1-0,0-0
+2014-04-12,Fulham,Norwich,1-0,1-0
+2014-04-12,Southampton,Cardiff,0-1,0-0
+2014-04-12,Stoke,Newcastle,1-0,1-0
+2014-04-12,Sunderland,Everton,0-1,0-0
+2014-04-12,West Brom,Tottenham,3-3,3-1
+2014-04-13,Liverpool,Man City,3-2,2-0
+2014-04-13,Swansea,Chelsea,0-1,0-0
+2014-04-15,Arsenal,West Ham,3-1,1-1
+2014-04-16,Everton,Crystal Palace,2-3,0-1
+2014-04-16,Man City,Sunderland,2-2,1-0
+2014-04-19,Aston Villa,Southampton,0-0,0-0
+2014-04-19,Cardiff,Stoke,1-1,0-1
+2014-04-19,Chelsea,Sunderland,1-2,1-1
+2014-04-19,Newcastle,Swansea,1-2,1-1
+2014-04-19,Tottenham,Fulham,3-1,1-1
+2014-04-19,West Ham,Crystal Palace,0-1,0-0
+2014-04-20,Everton,Man United,2-0,2-0
+2014-04-20,Hull,Arsenal,0-3,0-2
+2014-04-20,Norwich,Liverpool,2-3,0-2
+2014-04-21,Man City,West Brom,3-1,3-1
+2014-04-26,Fulham,Hull,2-2,0-0
+2014-04-26,Man United,Norwich,4-0,1-0
+2014-04-26,Southampton,Everton,2-0,2-0
+2014-04-26,Stoke,Tottenham,0-1,0-1
+2014-04-26,Swansea,Aston Villa,4-1,2-1
+2014-04-26,West Brom,West Ham,1-0,1-0
+2014-04-27,Crystal Palace,Man City,0-2,0-2
+2014-04-27,Liverpool,Chelsea,0-2,0-1
+2014-04-27,Sunderland,Cardiff,4-0,2-0
+2014-04-28,Arsenal,Newcastle,3-0,2-0
+2014-05-03,Aston Villa,Hull,3-1,3-1
+2014-05-03,Man United,Sunderland,0-1,0-1
+2014-05-03,Newcastle,Cardiff,3-0,1-0
+2014-05-03,Stoke,Fulham,4-1,1-0
+2014-05-03,Swansea,Southampton,0-1,0-0
+2014-05-03,West Ham,Tottenham,2-0,2-0
+2014-05-03,Everton,Man City,2-3,1-2
+2014-05-04,Arsenal,West Brom,1-0,1-0
+2014-05-04,Chelsea,Norwich,0-0,0-0
+2014-05-05,Crystal Palace,Liverpool,3-3,0-1
+2014-05-06,Man United,Hull,3-1,1-0
+2014-05-07,Man City,Aston Villa,4-0,0-0
+2014-05-07,Sunderland,West Brom,2-0,2-0
+2014-05-11,Cardiff,Chelsea,1-2,1-0
+2014-05-11,Fulham,Crystal Palace,2-2,0-1
+2014-05-11,Hull,Everton,0-2,0-1
+2014-05-11,Liverpool,Newcastle,2-1,0-1
+2014-05-11,Man City,West Ham,2-0,1-0
+2014-05-11,Norwich,Arsenal,0-2,0-0
+2014-05-11,Southampton,Man United,1-1,1-0
+2014-05-11,Sunderland,Swansea,1-3,0-2
+2014-05-11,Tottenham,Aston Villa,3-0,3-0
+2014-05-11,West Brom,Stoke,1-2,0-1
