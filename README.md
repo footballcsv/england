@@ -10,7 +10,7 @@ Note: The Football League's Division 1, Division 2 and Division 3 changed
 to Championship, League One and League Two starting with the 2004/05 season.
 
 
-Example - [`2013-14/premier-league.csv`](2013-14/premier-league.csv):
+Example - [`2013-14/premier-league.csv`](2013-14/1-premier-league.csv):
 
 ~~~
 2013-08-17,Arsenal,Aston Villa,1-3,1-1
