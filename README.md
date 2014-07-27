@@ -27,6 +27,15 @@ Example - [`2013-14/premierleague.csv`](2013-14/1-premierleague.csv):
 ~~~
 
 
+## Tips n Tricks
+
+### Download ZIP Archive - No Git Required
+
+Note: You can download the repo as a ZIP archive (look for the [Download ZIP] button on this page on the right side).
+If you can't find it, use the link [`en-england/archive/master.zip`](https://github.com/footballcsv/en-england/archive/master.zip).
+
+
+
 ## Questions? Comments?
 
 Send them along to the
