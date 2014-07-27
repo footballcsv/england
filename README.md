@@ -34,7 +34,7 @@ Example - [`2013-14/premierleague.csv`](2013-14/1-premierleague.csv):
 
 Note: You can download all .csv files packaged into a single-file .zip archive - 
 look for the "Download ZIP" button on this page on the right side at the bottom of the "<> Code" tab.
-If you can't find the "Download ZIP" button, use the link [`en-england/archive/master.zip`](https://github.com/footballcsv/en-england/archive/master.zip).
+If you can't find the "Download ZIP" button, use the [`en-england/archive/master.zip`](https://github.com/footballcsv/en-england/archive/master.zip) link.
 
 
 
