@@ -1,0 +1,463 @@
+Date,Team 1,Team 2,FT
+-,Cardiff City,Bury,2-1
+-,Charlton Athletic,Bury,3-0
+-,Derby County,Bury,2-1
+-,Grimsby Town,Bury,1-0
+-,Huddersfield Town,Bury,2-1
+-,Leeds United,Bury,3-0
+-,Leyton Orient,Bury,1-1
+-,Manchester City,Bury,1-1
+-,Middlesbrough,Bury,2-0
+-,Newcastle United,Bury,0-4
+-,Northampton Town,Bury,1-2
+-,Norwich City,Bury,0-1
+-,Plymouth Argyle,Bury,1-0
+-,Portsmouth,Bury,3-3
+-,Preston North End,Bury,3-0
+-,Rotherham United,Bury,6-2
+-,Scunthorpe United,Bury,0-0
+-,Southampton,Bury,0-1
+-,Sunderland,Bury,4-1
+-,Swansea City,Bury,0-2
+-,Swindon Town,Bury,2-1
+-,Bury,Cardiff City,4-1
+-,Charlton Athletic,Cardiff City,5-2
+-,Derby County,Cardiff City,2-1
+-,Grimsby Town,Cardiff City,0-2
+-,Huddersfield Town,Cardiff City,2-1
+-,Leeds United,Cardiff City,1-1
+-,Leyton Orient,Cardiff City,4-0
+-,Manchester City,Cardiff City,4-0
+-,Middlesbrough,Cardiff City,3-1
+-,Newcastle United,Cardiff City,0-4
+-,Northampton Town,Cardiff City,2-1
+-,Norwich City,Cardiff City,5-1
+-,Plymouth Argyle,Cardiff City,1-1
+-,Portsmouth,Cardiff City,5-0
+-,Preston North End,Cardiff City,4-0
+-,Rotherham United,Cardiff City,1-0
+-,Scunthorpe United,Cardiff City,1-2
+-,Southampton,Cardiff City,3-2
+-,Sunderland,Cardiff City,3-3
+-,Swansea City,Cardiff City,3-0
+-,Swindon Town,Cardiff City,1-2
+-,Bury,Charlton Athletic,0-2
+-,Cardiff City,Charlton Athletic,1-1
+-,Derby County,Charlton Athletic,1-1
+-,Grimsby Town,Charlton Athletic,0-2
+-,Huddersfield Town,Charlton Athletic,2-1
+-,Leeds United,Charlton Athletic,1-1
+-,Leyton Orient,Charlton Athletic,0-3
+-,Manchester City,Charlton Athletic,1-3
+-,Middlesbrough,Charlton Athletic,2-3
+-,Newcastle United,Charlton Athletic,5-0
+-,Northampton Town,Charlton Athletic,1-2
+-,Norwich City,Charlton Athletic,1-3
+-,Plymouth Argyle,Charlton Athletic,1-0
+-,Portsmouth,Charlton Athletic,4-1
+-,Preston North End,Charlton Athletic,3-1
+-,Rotherham United,Charlton Athletic,5-0
+-,Scunthorpe United,Charlton Athletic,1-1
+-,Southampton,Charlton Athletic,6-1
+-,Sunderland,Charlton Athletic,2-1
+-,Swansea City,Charlton Athletic,1-2
+-,Swindon Town,Charlton Athletic,2-2
+-,Bury,Derby County,1-2
+-,Cardiff City,Derby County,2-1
+-,Charlton Athletic,Derby County,2-0
+-,Grimsby Town,Derby County,1-3
+-,Huddersfield Town,Derby County,0-0
+-,Leeds United,Derby County,2-2
+-,Leyton Orient,Derby County,3-0
+-,Manchester City,Derby County,3-2
+-,Middlesbrough,Derby County,3-0
+-,Newcastle United,Derby County,3-1
+-,Northampton Town,Derby County,0-1
+-,Norwich City,Derby County,3-0
+-,Plymouth Argyle,Derby County,0-0
+-,Portsmouth,Derby County,1-1
+-,Preston North End,Derby County,0-2
+-,Rotherham United,Derby County,2-0
+-,Scunthorpe United,Derby County,3-2
+-,Southampton,Derby County,6-4
+-,Sunderland,Derby County,3-0
+-,Swansea City,Derby County,2-1
+-,Swindon Town,Derby County,0-0
+-,Bury,Grimsby Town,1-1
+-,Cardiff City,Grimsby Town,0-0
+-,Charlton Athletic,Grimsby Town,2-1
+-,Derby County,Grimsby Town,0-0
+-,Huddersfield Town,Grimsby Town,1-2
+-,Leeds United,Grimsby Town,3-1
+-,Leyton Orient,Grimsby Town,0-0
+-,Manchester City,Grimsby Town,0-4
+-,Middlesbrough,Grimsby Town,6-0
+-,Newcastle United,Grimsby Town,4-0
+-,Northampton Town,Grimsby Town,1-2
+-,Norwich City,Grimsby Town,2-0
+-,Plymouth Argyle,Grimsby Town,3-2
+-,Portsmouth,Grimsby Town,2-2
+-,Preston North End,Grimsby Town,1-0
+-,Rotherham United,Grimsby Town,1-0
+-,Scunthorpe United,Grimsby Town,2-2
+-,Southampton,Grimsby Town,6-0
+-,Sunderland,Grimsby Town,3-0
+-,Swansea City,Grimsby Town,1-1
+-,Swindon Town,Grimsby Town,2-1
+-,Bury,Huddersfield Town,0-2
+-,Cardiff City,Huddersfield Town,2-1
+-,Charlton Athletic,Huddersfield Town,5-2
+-,Derby County,Huddersfield Town,2-0
+-,Grimsby Town,Huddersfield Town,2-2
+-,Leeds United,Huddersfield Town,1-1
+-,Leyton Orient,Huddersfield Town,2-3
+-,Manchester City,Huddersfield Town,5-2
+-,Middlesbrough,Huddersfield Town,1-1
+-,Newcastle United,Huddersfield Town,2-0
+-,Northampton Town,Huddersfield Town,1-0
+-,Norwich City,Huddersfield Town,2-2
+-,Plymouth Argyle,Huddersfield Town,0-0
+-,Portsmouth,Huddersfield Town,2-1
+-,Preston North End,Huddersfield Town,2-1
+-,Rotherham United,Huddersfield Town,3-1
+-,Scunthorpe United,Huddersfield Town,1-0
+-,Southampton,Huddersfield Town,1-1
+-,Sunderland,Huddersfield Town,3-2
+-,Swansea City,Huddersfield Town,1-2
+-,Swindon Town,Huddersfield Town,1-2
+-,Bury,Leeds United,1-2
+-,Cardiff City,Leeds United,0-0
+-,Charlton Athletic,Leeds United,0-2
+-,Derby County,Leeds United,1-1
+-,Grimsby Town,Leeds United,0-2
+-,Huddersfield Town,Leeds United,0-2
+-,Leyton Orient,Leeds United,0-2
+-,Manchester City,Leeds United,3-2
+-,Middlesbrough,Leeds United,1-3
+-,Newcastle United,Leeds United,0-1
+-,Northampton Town,Leeds United,0-3
+-,Norwich City,Leeds United,2-2
+-,Plymouth Argyle,Leeds United,0-1
+-,Portsmouth,Leeds United,1-1
+-,Preston North End,Leeds United,2-0
+-,Rotherham United,Leeds United,2-2
+-,Scunthorpe United,Leeds United,0-1
+-,Southampton,Leeds United,1-4
+-,Sunderland,Leeds United,2-0
+-,Swansea City,Leeds United,0-3
+-,Swindon Town,Leeds United,2-2
+-,Bury,Leyton Orient,1-2
+-,Cardiff City,Leyton Orient,2-1
+-,Charlton Athletic,Leyton Orient,1-2
+-,Derby County,Leyton Orient,1-0
+-,Grimsby Town,Leyton Orient,1-1
+-,Huddersfield Town,Leyton Orient,2-1
+-,Leeds United,Leyton Orient,2-1
+-,Manchester City,Leyton Orient,2-0
+-,Middlesbrough,Leyton Orient,2-0
+-,Newcastle United,Leyton Orient,3-0
+-,Northampton Town,Leyton Orient,1-2
+-,Norwich City,Leyton Orient,1-2
+-,Plymouth Argyle,Leyton Orient,2-2
+-,Portsmouth,Leyton Orient,4-3
+-,Preston North End,Leyton Orient,0-0
+-,Rotherham United,Leyton Orient,2-4
+-,Scunthorpe United,Leyton Orient,0-0
+-,Southampton,Leyton Orient,3-0
+-,Sunderland,Leyton Orient,4-1
+-,Swansea City,Leyton Orient,1-0
+-,Swindon Town,Leyton Orient,5-0
+-,Bury,Manchester City,1-1
+-,Cardiff City,Manchester City,2-2
+-,Charlton Athletic,Manchester City,4-3
+-,Derby County,Manchester City,1-3
+-,Grimsby Town,Manchester City,1-1
+-,Huddersfield Town,Manchester City,0-2
+-,Leeds United,Manchester City,1-0
+-,Leyton Orient,Manchester City,0-2
+-,Middlesbrough,Manchester City,2-2
+-,Newcastle United,Manchester City,3-1
+-,Northampton Town,Manchester City,2-1
+-,Norwich City,Manchester City,1-2
+-,Plymouth Argyle,Manchester City,2-1
+-,Portsmouth,Manchester City,2-2
+-,Preston North End,Manchester City,2-0
+-,Rotherham United,Manchester City,1-2
+-,Scunthorpe United,Manchester City,2-4
+-,Southampton,Manchester City,4-2
+-,Sunderland,Manchester City,2-0
+-,Swansea City,Manchester City,3-3
+-,Swindon Town,Manchester City,3-0
+-,Bury,Middlesbrough,1-1
+-,Cardiff City,Middlesbrough,1-1
+-,Charlton Athletic,Middlesbrough,2-4
+-,Derby County,Middlesbrough,2-2
+-,Grimsby Town,Middlesbrough,3-1
+-,Huddersfield Town,Middlesbrough,1-0
+-,Leeds United,Middlesbrough,2-0
+-,Leyton Orient,Middlesbrough,3-2
+-,Manchester City,Middlesbrough,1-0
+-,Newcastle United,Middlesbrough,2-0
+-,Northampton Town,Middlesbrough,3-2
+-,Norwich City,Middlesbrough,1-1
+-,Plymouth Argyle,Middlesbrough,2-0
+-,Portsmouth,Middlesbrough,1-0
+-,Preston North End,Middlesbrough,2-2
+-,Rotherham United,Middlesbrough,2-1
+-,Scunthorpe United,Middlesbrough,1-0
+-,Southampton,Middlesbrough,2-2
+-,Sunderland,Middlesbrough,0-0
+-,Swansea City,Middlesbrough,2-1
+-,Swindon Town,Middlesbrough,2-0
+-,Bury,Newcastle United,1-2
+-,Cardiff City,Newcastle United,2-2
+-,Charlton Athletic,Newcastle United,1-2
+-,Derby County,Newcastle United,1-2
+-,Grimsby Town,Newcastle United,2-1
+-,Huddersfield Town,Newcastle United,3-0
+-,Leeds United,Newcastle United,2-1
+-,Leyton Orient,Newcastle United,1-0
+-,Manchester City,Newcastle United,3-1
+-,Middlesbrough,Newcastle United,3-0
+-,Northampton Town,Newcastle United,2-2
+-,Norwich City,Newcastle United,3-1
+-,Plymouth Argyle,Newcastle United,3-4
+-,Portsmouth,Newcastle United,5-2
+-,Preston North End,Newcastle United,3-0
+-,Rotherham United,Newcastle United,2-3
+-,Scunthorpe United,Newcastle United,2-0
+-,Southampton,Newcastle United,2-0
+-,Sunderland,Newcastle United,2-1
+-,Swansea City,Newcastle United,0-1
+-,Swindon Town,Newcastle United,0-0
+-,Bury,Northampton Town,1-1
+-,Cardiff City,Northampton Town,1-0
+-,Charlton Athletic,Northampton Town,1-1
+-,Derby County,Northampton Town,0-0
+-,Grimsby Town,Northampton Town,4-1
+-,Huddersfield Town,Northampton Town,0-1
+-,Leeds United,Northampton Town,0-0
+-,Leyton Orient,Northampton Town,0-0
+-,Manchester City,Northampton Town,3-0
+-,Middlesbrough,Northampton Town,1-0
+-,Newcastle United,Northampton Town,2-3
+-,Norwich City,Northampton Town,3-3
+-,Plymouth Argyle,Northampton Town,0-3
+-,Portsmouth,Northampton Town,3-0
+-,Preston North End,Northampton Town,2-1
+-,Rotherham United,Northampton Town,1-0
+-,Scunthorpe United,Northampton Town,1-2
+-,Southampton,Northampton Town,3-0
+-,Sunderland,Northampton Town,0-2
+-,Swansea City,Northampton Town,1-1
+-,Swindon Town,Northampton Town,2-3
+-,Bury,Norwich City,4-2
+-,Cardiff City,Norwich City,3-1
+-,Charlton Athletic,Norwich City,3-1
+-,Derby County,Norwich City,2-1
+-,Grimsby Town,Norwich City,3-1
+-,Huddersfield Town,Norwich City,1-1
+-,Leeds United,Norwich City,4-2
+-,Leyton Orient,Norwich City,1-1
+-,Manchester City,Norwich City,5-0
+-,Middlesbrough,Norwich City,0-1
+-,Newcastle United,Norwich City,2-0
+-,Northampton Town,Norwich City,3-2
+-,Plymouth Argyle,Norwich City,1-2
+-,Portsmouth,Norwich City,1-1
+-,Preston North End,Norwich City,3-0
+-,Rotherham United,Norwich City,4-0
+-,Scunthorpe United,Norwich City,2-2
+-,Southampton,Norwich City,3-0
+-,Sunderland,Norwich City,0-0
+-,Swansea City,Norwich City,3-1
+-,Swindon Town,Norwich City,2-2
+-,Bury,Plymouth Argyle,2-2
+-,Cardiff City,Plymouth Argyle,3-1
+-,Charlton Athletic,Plymouth Argyle,1-0
+-,Derby County,Plymouth Argyle,3-1
+-,Grimsby Town,Plymouth Argyle,1-1
+-,Huddersfield Town,Plymouth Argyle,4-3
+-,Leeds United,Plymouth Argyle,1-1
+-,Leyton Orient,Plymouth Argyle,1-0
+-,Manchester City,Plymouth Argyle,1-1
+-,Middlesbrough,Plymouth Argyle,5-0
+-,Newcastle United,Plymouth Argyle,1-1
+-,Northampton Town,Plymouth Argyle,0-0
+-,Norwich City,Plymouth Argyle,1-1
+-,Portsmouth,Plymouth Argyle,1-2
+-,Preston North End,Plymouth Argyle,0-0
+-,Rotherham United,Plymouth Argyle,3-1
+-,Scunthorpe United,Plymouth Argyle,1-0
+-,Southampton,Plymouth Argyle,1-2
+-,Sunderland,Plymouth Argyle,1-0
+-,Swansea City,Plymouth Argyle,2-1
+-,Swindon Town,Plymouth Argyle,2-1
+-,Bury,Portsmouth,3-2
+-,Cardiff City,Portsmouth,1-2
+-,Charlton Athletic,Portsmouth,0-1
+-,Derby County,Portsmouth,3-1
+-,Grimsby Town,Portsmouth,0-3
+-,Huddersfield Town,Portsmouth,1-1
+-,Leeds United,Portsmouth,3-1
+-,Leyton Orient,Portsmouth,3-6
+-,Manchester City,Portsmouth,0-2
+-,Middlesbrough,Portsmouth,3-1
+-,Newcastle United,Portsmouth,1-0
+-,Northampton Town,Portsmouth,2-1
+-,Norwich City,Portsmouth,3-1
+-,Plymouth Argyle,Portsmouth,0-4
+-,Preston North End,Portsmouth,0-0
+-,Rotherham United,Portsmouth,4-2
+-,Scunthorpe United,Portsmouth,1-1
+-,Southampton,Portsmouth,2-3
+-,Sunderland,Portsmouth,3-0
+-,Swansea City,Portsmouth,1-1
+-,Swindon Town,Portsmouth,2-0
+-,Bury,Preston North End,2-1
+-,Cardiff City,Preston North End,0-4
+-,Charlton Athletic,Preston North End,3-0
+-,Derby County,Preston North End,1-2
+-,Grimsby Town,Preston North End,0-3
+-,Huddersfield Town,Preston North End,2-2
+-,Leeds United,Preston North End,1-1
+-,Leyton Orient,Preston North End,2-2
+-,Manchester City,Preston North End,2-3
+-,Middlesbrough,Preston North End,3-0
+-,Newcastle United,Preston North End,2-4
+-,Northampton Town,Preston North End,0-3
+-,Norwich City,Preston North End,2-1
+-,Plymouth Argyle,Preston North End,0-2
+-,Portsmouth,Preston North End,1-2
+-,Rotherham United,Preston North End,4-2
+-,Scunthorpe United,Preston North End,1-0
+-,Southampton,Preston North End,4-5
+-,Sunderland,Preston North End,4-0
+-,Swansea City,Preston North End,5-1
+-,Swindon Town,Preston North End,1-2
+-,Bury,Rotherham United,4-2
+-,Cardiff City,Rotherham United,2-1
+-,Charlton Athletic,Rotherham United,4-3
+-,Derby County,Rotherham United,1-4
+-,Grimsby Town,Rotherham United,1-3
+-,Huddersfield Town,Rotherham United,0-3
+-,Leeds United,Rotherham United,1-0
+-,Leyton Orient,Rotherham United,0-2
+-,Manchester City,Rotherham United,6-1
+-,Middlesbrough,Rotherham United,2-2
+-,Newcastle United,Rotherham United,5-2
+-,Northampton Town,Rotherham United,1-3
+-,Norwich City,Rotherham United,2-2
+-,Plymouth Argyle,Rotherham United,0-0
+-,Portsmouth,Rotherham United,2-1
+-,Preston North End,Rotherham United,2-2
+-,Scunthorpe United,Rotherham United,4-3
+-,Southampton,Rotherham United,6-1
+-,Sunderland,Rotherham United,2-0
+-,Swansea City,Rotherham United,4-2
+-,Swindon Town,Rotherham United,3-1
+-,Bury,Scunthorpe United,3-2
+-,Cardiff City,Scunthorpe United,3-1
+-,Charlton Athletic,Scunthorpe United,0-1
+-,Derby County,Scunthorpe United,2-2
+-,Grimsby Town,Scunthorpe United,2-0
+-,Huddersfield Town,Scunthorpe United,3-2
+-,Leeds United,Scunthorpe United,1-0
+-,Leyton Orient,Scunthorpe United,2-2
+-,Manchester City,Scunthorpe United,8-1
+-,Middlesbrough,Scunthorpe United,2-0
+-,Newcastle United,Scunthorpe United,3-1
+-,Northampton Town,Scunthorpe United,2-0
+-,Norwich City,Scunthorpe United,2-1
+-,Plymouth Argyle,Scunthorpe United,3-1
+-,Portsmouth,Scunthorpe United,3-4
+-,Preston North End,Scunthorpe United,1-0
+-,Rotherham United,Scunthorpe United,2-1
+-,Southampton,Scunthorpe United,7-2
+-,Sunderland,Scunthorpe United,1-0
+-,Swansea City,Scunthorpe United,4-1
+-,Swindon Town,Scunthorpe United,3-0
+-,Bury,Southampton,1-5
+-,Cardiff City,Southampton,2-4
+-,Charlton Athletic,Southampton,2-2
+-,Derby County,Southampton,3-2
+-,Grimsby Town,Southampton,2-2
+-,Huddersfield Town,Southampton,4-0
+-,Leeds United,Southampton,3-1
+-,Leyton Orient,Southampton,1-0
+-,Manchester City,Southampton,1-1
+-,Middlesbrough,Southampton,1-0
+-,Newcastle United,Southampton,2-2
+-,Northampton Town,Southampton,2-0
+-,Norwich City,Southampton,1-1
+-,Plymouth Argyle,Southampton,1-1
+-,Portsmouth,Southampton,2-0
+-,Preston North End,Southampton,2-1
+-,Rotherham United,Southampton,2-3
+-,Scunthorpe United,Southampton,1-2
+-,Sunderland,Southampton,1-2
+-,Swansea City,Southampton,6-0
+-,Swindon Town,Southampton,1-2
+-,Bury,Sunderland,0-1
+-,Cardiff City,Sunderland,0-2
+-,Charlton Athletic,Sunderland,0-0
+-,Derby County,Sunderland,0-3
+-,Grimsby Town,Sunderland,2-2
+-,Huddersfield Town,Sunderland,0-2
+-,Leeds United,Sunderland,1-1
+-,Leyton Orient,Sunderland,2-5
+-,Manchester City,Sunderland,0-3
+-,Middlesbrough,Sunderland,2-0
+-,Newcastle United,Sunderland,1-0
+-,Northampton Town,Sunderland,5-1
+-,Norwich City,Sunderland,2-3
+-,Plymouth Argyle,Sunderland,1-1
+-,Portsmouth,Sunderland,2-4
+-,Preston North End,Sunderland,1-1
+-,Rotherham United,Sunderland,2-2
+-,Scunthorpe United,Sunderland,1-1
+-,Southampton,Sunderland,0-0
+-,Swansea City,Sunderland,1-2
+-,Swindon Town,Sunderland,1-0
+-,Bury,Swansea City,3-2
+-,Cardiff City,Swansea City,1-1
+-,Charlton Athletic,Swansea City,3-1
+-,Derby County,Swansea City,3-0
+-,Grimsby Town,Swansea City,1-1
+-,Huddersfield Town,Swansea City,1-0
+-,Leeds United,Swansea City,2-1
+-,Leyton Orient,Swansea City,4-0
+-,Manchester City,Swansea City,1-0
+-,Middlesbrough,Swansea City,2-1
+-,Newcastle United,Swansea City,4-1
+-,Northampton Town,Swansea City,2-3
+-,Norwich City,Swansea City,3-0
+-,Plymouth Argyle,Swansea City,3-2
+-,Portsmouth,Swansea City,0-0
+-,Preston North End,Swansea City,3-3
+-,Rotherham United,Swansea City,3-0
+-,Scunthorpe United,Swansea City,2-2
+-,Southampton,Swansea City,4-0
+-,Sunderland,Swansea City,1-0
+-,Swindon Town,Swansea City,2-1
+-,Bury,Swindon Town,1-0
+-,Cardiff City,Swindon Town,1-0
+-,Charlton Athletic,Swindon Town,2-2
+-,Derby County,Swindon Town,3-0
+-,Grimsby Town,Swindon Town,1-2
+-,Huddersfield Town,Swindon Town,2-0
+-,Leeds United,Swindon Town,0-0
+-,Leyton Orient,Swindon Town,2-1
+-,Manchester City,Swindon Town,0-0
+-,Middlesbrough,Swindon Town,1-1
+-,Newcastle United,Swindon Town,4-1
+-,Northampton Town,Swindon Town,4-0
+-,Norwich City,Swindon Town,3-2
+-,Plymouth Argyle,Swindon Town,2-4
+-,Portsmouth,Swindon Town,1-4
+-,Preston North End,Swindon Town,1-0
+-,Rotherham United,Swindon Town,0-0
+-,Scunthorpe United,Swindon Town,3-0
+-,Southampton,Swindon Town,5-1
+-,Sunderland,Swindon Town,6-0
+-,Swansea City,Swindon Town,3-0
