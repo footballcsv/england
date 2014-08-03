@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT
--,Barnsley,Arsenal,1-0
--,Birmingham City,Arsenal,2-0
--,Blackpool,Arsenal,1-1
--,Bradford Park Avenue,Arsenal,2-3
--,Bristol City,Arsenal,1-1
--,Bury,Arsenal,1-1
--,Fulham,Arsenal,6-1
--,Glossop North End,Arsenal,0-2
--,Grimsby Town,Arsenal,1-1
--,Huddersfield Town,Arsenal,1-2
--,Hull City,Arsenal,1-2
--,Leeds City,Arsenal,0-0
--,Leicester City,Arsenal,1-2
--,Leyton Orient,Arsenal,1-0
--,Lincoln City,Arsenal,5-2
--,Nottingham Forest,Arsenal,0-0
--,Notts County,Arsenal,1-0
--,Stockport County,Arsenal,2-0
--,Wolverhampton Wanderers,Arsenal,1-2
--,Arsenal,Barnsley,1-0
--,Birmingham City,Barnsley,0-0
--,Blackpool,Barnsley,3-1
--,Bradford Park Avenue,Barnsley,1-1
--,Bristol City,Barnsley,1-1
--,Bury,Barnsley,4-0
--,Fulham,Barnsley,1-2
--,Glossop North End,Barnsley,5-1
--,Grimsby Town,Barnsley,1-1
--,Huddersfield Town,Barnsley,3-1
--,Hull City,Barnsley,0-1
--,Leeds City,Barnsley,3-0
--,Leicester City,Barnsley,0-2
--,Leyton Orient,Barnsley,1-0
--,Lincoln City,Barnsley,2-2
--,Nottingham Forest,Barnsley,0-2
--,Notts County,Barnsley,3-1
--,Stockport County,Barnsley,1-1
--,Wolverhampton Wanderers,Barnsley,0-1
--,Arsenal,Birmingham City,1-0
--,Barnsley,Birmingham City,1-1
--,Blackpool,Birmingham City,2-2
--,Bradford Park Avenue,Birmingham City,5-1
--,Bristol City,Birmingham City,1-2
--,Bury,Birmingham City,3-1
--,Fulham,Birmingham City,1-0
--,Glossop North End,Birmingham City,4-1
--,Grimsby Town,Birmingham City,0-2
--,Huddersfield Town,Birmingham City,7-0
--,Hull City,Birmingham City,0-0
--,Leeds City,Birmingham City,3-2
--,Leicester City,Birmingham City,0-0
--,Leyton Orient,Birmingham City,2-2
--,Lincoln City,Birmingham City,1-1
--,Nottingham Forest,Birmingham City,3-1
--,Notts County,Birmingham City,5-1
--,Stockport County,Birmingham City,2-0
--,Wolverhampton Wanderers,Birmingham City,1-0
--,Arsenal,Blackpool,2-1
--,Barnsley,Blackpool,2-1
--,Birmingham City,Blackpool,0-0
--,Bradford Park Avenue,Blackpool,4-1
--,Bristol City,Blackpool,1-0
--,Bury,Blackpool,1-0
--,Fulham,Blackpool,0-0
--,Glossop North End,Blackpool,1-2
--,Grimsby Town,Blackpool,2-0
--,Huddersfield Town,Blackpool,1-0
--,Hull City,Blackpool,0-0
--,Leeds City,Blackpool,2-1
--,Leicester City,Blackpool,0-1
--,Leyton Orient,Blackpool,2-0
--,Lincoln City,Blackpool,1-2
--,Nottingham Forest,Blackpool,3-0
--,Notts County,Blackpool,2-0
--,Stockport County,Blackpool,0-0
--,Wolverhampton Wanderers,Blackpool,1-0
--,Arsenal,Bradford Park Avenue,2-0
--,Barnsley,Bradford Park Avenue,1-2
--,Birmingham City,Bradford Park Avenue,1-2
--,Blackpool,Bradford Park Avenue,2-1
--,Bristol City,Bradford Park Avenue,2-0
--,Bury,Bradford Park Avenue,0-0
--,Fulham,Bradford Park Avenue,1-6
--,Glossop North End,Bradford Park Avenue,2-1
--,Grimsby Town,Bradford Park Avenue,0-0
--,Huddersfield Town,Bradford Park Avenue,0-1
--,Hull City,Bradford Park Avenue,1-3
--,Leeds City,Bradford Park Avenue,5-1
--,Leicester City,Bradford Park Avenue,2-3
--,Leyton Orient,Bradford Park Avenue,1-0
--,Lincoln City,Bradford Park Avenue,0-3
--,Nottingham Forest,Bradford Park Avenue,1-0
--,Notts County,Bradford Park Avenue,2-3
--,Stockport County,Bradford Park Avenue,3-1
--,Wolverhampton Wanderers,Bradford Park Avenue,1-0
--,Arsenal,Bristol City,1-1
--,Barnsley,Bristol City,3-0
--,Birmingham City,Bristol City,2-2
--,Blackpool,Bristol City,0-1
--,Bradford Park Avenue,Bristol City,4-3
--,Bury,Bristol City,3-1
--,Fulham,Bristol City,3-1
--,Glossop North End,Bristol City,1-1
--,Grimsby Town,Bristol City,1-0
--,Huddersfield Town,Bristol City,1-2
--,Hull City,Bristol City,0-1
--,Leeds City,Bristol City,1-0
--,Leicester City,Bristol City,3-0
--,Leyton Orient,Bristol City,5-2
--,Lincoln City,Bristol City,2-1
--,Nottingham Forest,Bristol City,1-1
--,Notts County,Bristol City,4-0
--,Stockport County,Bristol City,5-1
--,Wolverhampton Wanderers,Bristol City,0-2
--,Arsenal,Bury,0-1
--,Barnsley,Bury,2-0
--,Birmingham City,Bury,1-0
--,Blackpool,Bury,0-1
--,Bradford Park Avenue,Bury,3-1
--,Bristol City,Bury,2-0
--,Fulham,Bury,1-1
--,Glossop North End,Bury,2-1
--,Grimsby Town,Bury,1-0
--,Huddersfield Town,Bury,1-1
--,Hull City,Bury,0-1
--,Leeds City,Bury,2-1
--,Leicester City,Bury,0-0
--,Leyton Orient,Bury,1-0
--,Lincoln City,Bury,1-0
--,Nottingham Forest,Bury,1-1
--,Notts County,Bury,2-0
--,Stockport County,Bury,3-0
--,Wolverhampton Wanderers,Bury,3-0
--,Arsenal,Fulham,2-0
--,Barnsley,Fulham,1-0
--,Birmingham City,Fulham,0-1
--,Blackpool,Fulham,1-1
--,Bradford Park Avenue,Fulham,1-0
--,Bristol City,Fulham,0-1
--,Bury,Fulham,1-0
--,Glossop North End,Fulham,0-1
--,Grimsby Town,Fulham,0-3
--,Huddersfield Town,Fulham,3-1
--,Hull City,Fulham,1-1
--,Leeds City,Fulham,2-1
--,Leicester City,Fulham,3-0
--,Leyton Orient,Fulham,1-0
--,Lincoln City,Fulham,0-1
--,Nottingham Forest,Fulham,1-1
--,Notts County,Fulham,4-0
--,Stockport County,Fulham,1-3
--,Wolverhampton Wanderers,Fulham,1-0
--,Arsenal,Glossop North End,2-0
--,Barnsley,Glossop North End,2-0
--,Birmingham City,Glossop North End,6-0
--,Blackpool,Glossop North End,1-1
--,Bradford Park Avenue,Glossop North End,2-1
--,Bristol City,Glossop North End,4-1
--,Bury,Glossop North End,1-0
--,Fulham,Glossop North End,2-1
--,Grimsby Town,Glossop North End,3-0
--,Huddersfield Town,Glossop North End,2-1
--,Hull City,Glossop North End,3-0
--,Leeds City,Glossop North End,3-0
--,Leicester City,Glossop North End,1-3
--,Leyton Orient,Glossop North End,5-1
--,Lincoln City,Glossop North End,1-5
--,Nottingham Forest,Glossop North End,1-2
--,Notts County,Glossop North End,2-2
--,Stockport County,Glossop North End,1-1
--,Wolverhampton Wanderers,Glossop North End,1-0
--,Arsenal,Grimsby Town,2-0
--,Barnsley,Grimsby Town,3-1
--,Birmingham City,Grimsby Town,1-2
--,Blackpool,Grimsby Town,1-1
--,Bradford Park Avenue,Grimsby Town,3-0
--,Bristol City,Grimsby Town,1-0
--,Bury,Grimsby Town,3-1
--,Fulham,Grimsby Town,2-2
--,Glossop North End,Grimsby Town,3-0
--,Huddersfield Town,Grimsby Town,1-2
--,Hull City,Grimsby Town,2-1
--,Leeds City,Grimsby Town,4-1
--,Leicester City,Grimsby Town,2-0
--,Leyton Orient,Grimsby Town,0-0
--,Lincoln City,Grimsby Town,1-3
--,Nottingham Forest,Grimsby Town,4-1
--,Notts County,Grimsby Town,4-0
--,Stockport County,Grimsby Town,2-2
--,Wolverhampton Wanderers,Grimsby Town,4-1
--,Arsenal,Huddersfield Town,0-1
--,Barnsley,Huddersfield Town,2-1
--,Birmingham City,Huddersfield Town,1-4
--,Blackpool,Huddersfield Town,0-1
--,Bradford Park Avenue,Huddersfield Town,2-1
--,Bristol City,Huddersfield Town,1-0
--,Bury,Huddersfield Town,2-1
--,Fulham,Huddersfield Town,1-0
--,Glossop North End,Huddersfield Town,2-3
--,Grimsby Town,Huddersfield Town,2-1
--,Hull City,Huddersfield Town,4-1
--,Leeds City,Huddersfield Town,5-1
--,Leicester City,Huddersfield Town,0-1
--,Leyton Orient,Huddersfield Town,0-0
--,Lincoln City,Huddersfield Town,3-0
--,Nottingham Forest,Huddersfield Town,1-1
--,Notts County,Huddersfield Town,3-0
--,Stockport County,Huddersfield Town,0-0
--,Wolverhampton Wanderers,Huddersfield Town,2-2
--,Arsenal,Hull City,0-0
--,Barnsley,Hull City,0-2
--,Birmingham City,Hull City,1-1
--,Blackpool,Hull City,2-2
--,Bradford Park Avenue,Hull City,2-0
--,Bristol City,Hull City,2-1
--,Bury,Hull City,2-0
--,Fulham,Hull City,0-1
--,Glossop North End,Hull City,2-1
--,Grimsby Town,Hull City,1-3
--,Huddersfield Town,Hull City,0-3
--,Leeds City,Hull City,1-2
--,Leicester City,Hull City,0-4
--,Leyton Orient,Hull City,3-0
--,Lincoln City,Hull City,0-0
--,Nottingham Forest,Hull City,1-2
--,Notts County,Hull City,4-1
--,Stockport County,Hull City,2-1
--,Wolverhampton Wanderers,Hull City,1-0
--,Arsenal,Leeds City,1-0
--,Barnsley,Leeds City,1-4
--,Birmingham City,Leeds City,0-2
--,Blackpool,Leeds City,2-2
--,Bradford Park Avenue,Leeds City,3-1
--,Bristol City,Leeds City,1-1
--,Bury,Leeds City,1-1
--,Fulham,Leeds City,0-1
--,Glossop North End,Leeds City,1-1
--,Grimsby Town,Leeds City,0-1
--,Huddersfield Town,Leeds City,1-1
--,Hull City,Leeds City,1-0
--,Leicester City,Leeds City,5-1
--,Leyton Orient,Leeds City,3-1
--,Lincoln City,Leeds City,1-0
--,Nottingham Forest,Leeds City,2-1
--,Notts County,Leeds City,4-0
--,Stockport County,Leeds City,2-1
--,Wolverhampton Wanderers,Leeds City,1-3
--,Arsenal,Leicester City,2-1
--,Barnsley,Leicester City,3-0
--,Birmingham City,Leicester City,1-0
--,Blackpool,Leicester City,1-0
--,Bradford Park Avenue,Leicester City,3-2
--,Bristol City,Leicester City,1-0
--,Bury,Leicester City,1-1
--,Fulham,Leicester City,1-2
--,Glossop North End,Leicester City,0-2
--,Grimsby Town,Leicester City,3-0
--,Huddersfield Town,Leicester City,1-2
--,Hull City,Leicester City,0-0
--,Leeds City,Leicester City,2-1
--,Leyton Orient,Leicester City,1-0
--,Lincoln City,Leicester City,3-0
--,Nottingham Forest,Leicester City,1-3
--,Notts County,Leicester City,4-1
--,Stockport County,Leicester City,3-0
--,Wolverhampton Wanderers,Leicester City,2-1
--,Arsenal,Leyton Orient,2-2
--,Barnsley,Leyton Orient,2-1
--,Birmingham City,Leyton Orient,2-0
--,Blackpool,Leyton Orient,0-0
--,Bradford Park Avenue,Leyton Orient,1-0
--,Bristol City,Leyton Orient,3-0
--,Bury,Leyton Orient,0-0
--,Fulham,Leyton Orient,2-0
--,Glossop North End,Leyton Orient,0-3
--,Grimsby Town,Leyton Orient,2-0
--,Huddersfield Town,Leyton Orient,1-0
--,Hull City,Leyton Orient,2-0
--,Leeds City,Leyton Orient,0-0
--,Leicester City,Leyton Orient,1-0
--,Lincoln City,Leyton Orient,0-0
--,Nottingham Forest,Leyton Orient,1-1
--,Notts County,Leyton Orient,3-0
--,Stockport County,Leyton Orient,0-1
--,Wolverhampton Wanderers,Leyton Orient,2-1
--,Arsenal,Lincoln City,3-0
--,Barnsley,Lincoln City,1-0
--,Birmingham City,Lincoln City,2-0
--,Blackpool,Lincoln City,2-1
--,Bradford Park Avenue,Lincoln City,3-0
--,Bristol City,Lincoln City,4-1
--,Bury,Lincoln City,1-0
--,Fulham,Lincoln City,4-0
--,Glossop North End,Lincoln City,4-0
--,Grimsby Town,Lincoln City,1-3
--,Huddersfield Town,Lincoln City,2-1
--,Hull City,Lincoln City,1-1
--,Leeds City,Lincoln City,1-0
--,Leicester City,Lincoln City,2-0
--,Leyton Orient,Lincoln City,5-1
--,Nottingham Forest,Lincoln City,2-1
--,Notts County,Lincoln City,2-1
--,Stockport County,Lincoln City,2-3
--,Wolverhampton Wanderers,Lincoln City,1-0
--,Arsenal,Nottingham Forest,3-2
--,Barnsley,Nottingham Forest,5-0
--,Birmingham City,Nottingham Forest,2-0
--,Blackpool,Nottingham Forest,2-1
--,Bradford Park Avenue,Nottingham Forest,4-0
--,Bristol City,Nottingham Forest,1-0
--,Bury,Nottingham Forest,1-0
--,Fulham,Nottingham Forest,2-0
--,Glossop North End,Nottingham Forest,3-0
--,Grimsby Town,Nottingham Forest,3-0
--,Huddersfield Town,Nottingham Forest,1-1
--,Hull City,Nottingham Forest,1-0
--,Leeds City,Nottingham Forest,8-0
--,Leicester City,Nottingham Forest,5-1
--,Leyton Orient,Nottingham Forest,3-1
--,Lincoln City,Nottingham Forest,1-0
--,Notts County,Nottingham Forest,2-2
--,Stockport County,Nottingham Forest,2-1
--,Wolverhampton Wanderers,Nottingham Forest,4-1
--,Arsenal,Notts County,3-0
--,Barnsley,Notts County,0-1
--,Birmingham City,Notts County,2-1
--,Blackpool,Notts County,0-0
--,Bradford Park Avenue,Notts County,0-3
--,Bristol City,Notts County,1-1
--,Bury,Notts County,3-3
--,Fulham,Notts County,1-2
--,Glossop North End,Notts County,0-1
--,Grimsby Town,Notts County,0-0
--,Huddersfield Town,Notts County,2-1
--,Hull City,Notts County,2-0
--,Leeds City,Notts County,2-4
--,Leicester City,Notts County,0-2
--,Leyton Orient,Notts County,1-0
--,Lincoln City,Notts County,0-0
--,Nottingham Forest,Notts County,1-0
--,Stockport County,Notts County,1-2
--,Wolverhampton Wanderers,Notts County,4-1
--,Arsenal,Stockport County,4-0
--,Barnsley,Stockport County,1-0
--,Birmingham City,Stockport County,3-2
--,Blackpool,Stockport County,2-2
--,Bradford Park Avenue,Stockport County,0-2
--,Bristol City,Stockport County,5-0
--,Bury,Stockport County,1-0
--,Fulham,Stockport County,2-0
--,Glossop North End,Stockport County,1-1
--,Grimsby Town,Stockport County,2-0
--,Huddersfield Town,Stockport County,0-2
--,Hull City,Stockport County,3-0
--,Leeds City,Stockport County,5-1
--,Leicester City,Stockport County,2-5
--,Leyton Orient,Stockport County,1-1
--,Lincoln City,Stockport County,0-3
--,Nottingham Forest,Stockport County,2-2
--,Notts County,Stockport County,2-1
--,Wolverhampton Wanderers,Stockport County,3-1
--,Arsenal,Wolverhampton Wanderers,3-1
--,Barnsley,Wolverhampton Wanderers,2-1
--,Birmingham City,Wolverhampton Wanderers,4-1
--,Blackpool,Wolverhampton Wanderers,2-0
--,Bradford Park Avenue,Wolverhampton Wanderers,1-0
--,Bristol City,Wolverhampton Wanderers,0-0
--,Bury,Wolverhampton Wanderers,1-4
--,Fulham,Wolverhampton Wanderers,1-0
--,Glossop North End,Wolverhampton Wanderers,1-2
--,Grimsby Town,Wolverhampton Wanderers,1-0
--,Huddersfield Town,Wolverhampton Wanderers,0-0
--,Hull City,Wolverhampton Wanderers,7-1
--,Leeds City,Wolverhampton Wanderers,5-0
--,Leicester City,Wolverhampton Wanderers,2-3
--,Leyton Orient,Wolverhampton Wanderers,2-2
--,Lincoln City,Wolverhampton Wanderers,1-0
--,Nottingham Forest,Wolverhampton Wanderers,1-3
--,Notts County,Wolverhampton Wanderers,2-0
--,Stockport County,Wolverhampton Wanderers,0-0
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Barnsley,Arsenal,1-0,-
+-,-,Birmingham City,Arsenal,2-0,-
+-,-,Blackpool,Arsenal,1-1,-
+-,-,Bradford Park Avenue,Arsenal,2-3,-
+-,-,Bristol City,Arsenal,1-1,-
+-,-,Bury,Arsenal,1-1,-
+-,-,Fulham,Arsenal,6-1,-
+-,-,Glossop North End,Arsenal,0-2,-
+-,-,Grimsby Town,Arsenal,1-1,-
+-,-,Huddersfield Town,Arsenal,1-2,-
+-,-,Hull City,Arsenal,1-2,-
+-,-,Leeds City,Arsenal,0-0,-
+-,-,Leicester City,Arsenal,1-2,-
+-,-,Leyton Orient,Arsenal,1-0,-
+-,-,Lincoln City,Arsenal,5-2,-
+-,-,Nottingham Forest,Arsenal,0-0,-
+-,-,Notts County,Arsenal,1-0,-
+-,-,Stockport County,Arsenal,2-0,-
+-,-,Wolverhampton Wanderers,Arsenal,1-2,-
+-,-,Arsenal,Barnsley,1-0,-
+-,-,Birmingham City,Barnsley,0-0,-
+-,-,Blackpool,Barnsley,3-1,-
+-,-,Bradford Park Avenue,Barnsley,1-1,-
+-,-,Bristol City,Barnsley,1-1,-
+-,-,Bury,Barnsley,4-0,-
+-,-,Fulham,Barnsley,1-2,-
+-,-,Glossop North End,Barnsley,5-1,-
+-,-,Grimsby Town,Barnsley,1-1,-
+-,-,Huddersfield Town,Barnsley,3-1,-
+-,-,Hull City,Barnsley,0-1,-
+-,-,Leeds City,Barnsley,3-0,-
+-,-,Leicester City,Barnsley,0-2,-
+-,-,Leyton Orient,Barnsley,1-0,-
+-,-,Lincoln City,Barnsley,2-2,-
+-,-,Nottingham Forest,Barnsley,0-2,-
+-,-,Notts County,Barnsley,3-1,-
+-,-,Stockport County,Barnsley,1-1,-
+-,-,Wolverhampton Wanderers,Barnsley,0-1,-
+-,-,Arsenal,Birmingham City,1-0,-
+-,-,Barnsley,Birmingham City,1-1,-
+-,-,Blackpool,Birmingham City,2-2,-
+-,-,Bradford Park Avenue,Birmingham City,5-1,-
+-,-,Bristol City,Birmingham City,1-2,-
+-,-,Bury,Birmingham City,3-1,-
+-,-,Fulham,Birmingham City,1-0,-
+-,-,Glossop North End,Birmingham City,4-1,-
+-,-,Grimsby Town,Birmingham City,0-2,-
+-,-,Huddersfield Town,Birmingham City,7-0,-
+-,-,Hull City,Birmingham City,0-0,-
+-,-,Leeds City,Birmingham City,3-2,-
+-,-,Leicester City,Birmingham City,0-0,-
+-,-,Leyton Orient,Birmingham City,2-2,-
+-,-,Lincoln City,Birmingham City,1-1,-
+-,-,Nottingham Forest,Birmingham City,3-1,-
+-,-,Notts County,Birmingham City,5-1,-
+-,-,Stockport County,Birmingham City,2-0,-
+-,-,Wolverhampton Wanderers,Birmingham City,1-0,-
+-,-,Arsenal,Blackpool,2-1,-
+-,-,Barnsley,Blackpool,2-1,-
+-,-,Birmingham City,Blackpool,0-0,-
+-,-,Bradford Park Avenue,Blackpool,4-1,-
+-,-,Bristol City,Blackpool,1-0,-
+-,-,Bury,Blackpool,1-0,-
+-,-,Fulham,Blackpool,0-0,-
+-,-,Glossop North End,Blackpool,1-2,-
+-,-,Grimsby Town,Blackpool,2-0,-
+-,-,Huddersfield Town,Blackpool,1-0,-
+-,-,Hull City,Blackpool,0-0,-
+-,-,Leeds City,Blackpool,2-1,-
+-,-,Leicester City,Blackpool,0-1,-
+-,-,Leyton Orient,Blackpool,2-0,-
+-,-,Lincoln City,Blackpool,1-2,-
+-,-,Nottingham Forest,Blackpool,3-0,-
+-,-,Notts County,Blackpool,2-0,-
+-,-,Stockport County,Blackpool,0-0,-
+-,-,Wolverhampton Wanderers,Blackpool,1-0,-
+-,-,Arsenal,Bradford Park Avenue,2-0,-
+-,-,Barnsley,Bradford Park Avenue,1-2,-
+-,-,Birmingham City,Bradford Park Avenue,1-2,-
+-,-,Blackpool,Bradford Park Avenue,2-1,-
+-,-,Bristol City,Bradford Park Avenue,2-0,-
+-,-,Bury,Bradford Park Avenue,0-0,-
+-,-,Fulham,Bradford Park Avenue,1-6,-
+-,-,Glossop North End,Bradford Park Avenue,2-1,-
+-,-,Grimsby Town,Bradford Park Avenue,0-0,-
+-,-,Huddersfield Town,Bradford Park Avenue,0-1,-
+-,-,Hull City,Bradford Park Avenue,1-3,-
+-,-,Leeds City,Bradford Park Avenue,5-1,-
+-,-,Leicester City,Bradford Park Avenue,2-3,-
+-,-,Leyton Orient,Bradford Park Avenue,1-0,-
+-,-,Lincoln City,Bradford Park Avenue,0-3,-
+-,-,Nottingham Forest,Bradford Park Avenue,1-0,-
+-,-,Notts County,Bradford Park Avenue,2-3,-
+-,-,Stockport County,Bradford Park Avenue,3-1,-
+-,-,Wolverhampton Wanderers,Bradford Park Avenue,1-0,-
+-,-,Arsenal,Bristol City,1-1,-
+-,-,Barnsley,Bristol City,3-0,-
+-,-,Birmingham City,Bristol City,2-2,-
+-,-,Blackpool,Bristol City,0-1,-
+-,-,Bradford Park Avenue,Bristol City,4-3,-
+-,-,Bury,Bristol City,3-1,-
+-,-,Fulham,Bristol City,3-1,-
+-,-,Glossop North End,Bristol City,1-1,-
+-,-,Grimsby Town,Bristol City,1-0,-
+-,-,Huddersfield Town,Bristol City,1-2,-
+-,-,Hull City,Bristol City,0-1,-
+-,-,Leeds City,Bristol City,1-0,-
+-,-,Leicester City,Bristol City,3-0,-
+-,-,Leyton Orient,Bristol City,5-2,-
+-,-,Lincoln City,Bristol City,2-1,-
+-,-,Nottingham Forest,Bristol City,1-1,-
+-,-,Notts County,Bristol City,4-0,-
+-,-,Stockport County,Bristol City,5-1,-
+-,-,Wolverhampton Wanderers,Bristol City,0-2,-
+-,-,Arsenal,Bury,0-1,-
+-,-,Barnsley,Bury,2-0,-
+-,-,Birmingham City,Bury,1-0,-
+-,-,Blackpool,Bury,0-1,-
+-,-,Bradford Park Avenue,Bury,3-1,-
+-,-,Bristol City,Bury,2-0,-
+-,-,Fulham,Bury,1-1,-
+-,-,Glossop North End,Bury,2-1,-
+-,-,Grimsby Town,Bury,1-0,-
+-,-,Huddersfield Town,Bury,1-1,-
+-,-,Hull City,Bury,0-1,-
+-,-,Leeds City,Bury,2-1,-
+-,-,Leicester City,Bury,0-0,-
+-,-,Leyton Orient,Bury,1-0,-
+-,-,Lincoln City,Bury,1-0,-
+-,-,Nottingham Forest,Bury,1-1,-
+-,-,Notts County,Bury,2-0,-
+-,-,Stockport County,Bury,3-0,-
+-,-,Wolverhampton Wanderers,Bury,3-0,-
+-,-,Arsenal,Fulham,2-0,-
+-,-,Barnsley,Fulham,1-0,-
+-,-,Birmingham City,Fulham,0-1,-
+-,-,Blackpool,Fulham,1-1,-
+-,-,Bradford Park Avenue,Fulham,1-0,-
+-,-,Bristol City,Fulham,0-1,-
+-,-,Bury,Fulham,1-0,-
+-,-,Glossop North End,Fulham,0-1,-
+-,-,Grimsby Town,Fulham,0-3,-
+-,-,Huddersfield Town,Fulham,3-1,-
+-,-,Hull City,Fulham,1-1,-
+-,-,Leeds City,Fulham,2-1,-
+-,-,Leicester City,Fulham,3-0,-
+-,-,Leyton Orient,Fulham,1-0,-
+-,-,Lincoln City,Fulham,0-1,-
+-,-,Nottingham Forest,Fulham,1-1,-
+-,-,Notts County,Fulham,4-0,-
+-,-,Stockport County,Fulham,1-3,-
+-,-,Wolverhampton Wanderers,Fulham,1-0,-
+-,-,Arsenal,Glossop North End,2-0,-
+-,-,Barnsley,Glossop North End,2-0,-
+-,-,Birmingham City,Glossop North End,6-0,-
+-,-,Blackpool,Glossop North End,1-1,-
+-,-,Bradford Park Avenue,Glossop North End,2-1,-
+-,-,Bristol City,Glossop North End,4-1,-
+-,-,Bury,Glossop North End,1-0,-
+-,-,Fulham,Glossop North End,2-1,-
+-,-,Grimsby Town,Glossop North End,3-0,-
+-,-,Huddersfield Town,Glossop North End,2-1,-
+-,-,Hull City,Glossop North End,3-0,-
+-,-,Leeds City,Glossop North End,3-0,-
+-,-,Leicester City,Glossop North End,1-3,-
+-,-,Leyton Orient,Glossop North End,5-1,-
+-,-,Lincoln City,Glossop North End,1-5,-
+-,-,Nottingham Forest,Glossop North End,1-2,-
+-,-,Notts County,Glossop North End,2-2,-
+-,-,Stockport County,Glossop North End,1-1,-
+-,-,Wolverhampton Wanderers,Glossop North End,1-0,-
+-,-,Arsenal,Grimsby Town,2-0,-
+-,-,Barnsley,Grimsby Town,3-1,-
+-,-,Birmingham City,Grimsby Town,1-2,-
+-,-,Blackpool,Grimsby Town,1-1,-
+-,-,Bradford Park Avenue,Grimsby Town,3-0,-
+-,-,Bristol City,Grimsby Town,1-0,-
+-,-,Bury,Grimsby Town,3-1,-
+-,-,Fulham,Grimsby Town,2-2,-
+-,-,Glossop North End,Grimsby Town,3-0,-
+-,-,Huddersfield Town,Grimsby Town,1-2,-
+-,-,Hull City,Grimsby Town,2-1,-
+-,-,Leeds City,Grimsby Town,4-1,-
+-,-,Leicester City,Grimsby Town,2-0,-
+-,-,Leyton Orient,Grimsby Town,0-0,-
+-,-,Lincoln City,Grimsby Town,1-3,-
+-,-,Nottingham Forest,Grimsby Town,4-1,-
+-,-,Notts County,Grimsby Town,4-0,-
+-,-,Stockport County,Grimsby Town,2-2,-
+-,-,Wolverhampton Wanderers,Grimsby Town,4-1,-
+-,-,Arsenal,Huddersfield Town,0-1,-
+-,-,Barnsley,Huddersfield Town,2-1,-
+-,-,Birmingham City,Huddersfield Town,1-4,-
+-,-,Blackpool,Huddersfield Town,0-1,-
+-,-,Bradford Park Avenue,Huddersfield Town,2-1,-
+-,-,Bristol City,Huddersfield Town,1-0,-
+-,-,Bury,Huddersfield Town,2-1,-
+-,-,Fulham,Huddersfield Town,1-0,-
+-,-,Glossop North End,Huddersfield Town,2-3,-
+-,-,Grimsby Town,Huddersfield Town,2-1,-
+-,-,Hull City,Huddersfield Town,4-1,-
+-,-,Leeds City,Huddersfield Town,5-1,-
+-,-,Leicester City,Huddersfield Town,0-1,-
+-,-,Leyton Orient,Huddersfield Town,0-0,-
+-,-,Lincoln City,Huddersfield Town,3-0,-
+-,-,Nottingham Forest,Huddersfield Town,1-1,-
+-,-,Notts County,Huddersfield Town,3-0,-
+-,-,Stockport County,Huddersfield Town,0-0,-
+-,-,Wolverhampton Wanderers,Huddersfield Town,2-2,-
+-,-,Arsenal,Hull City,0-0,-
+-,-,Barnsley,Hull City,0-2,-
+-,-,Birmingham City,Hull City,1-1,-
+-,-,Blackpool,Hull City,2-2,-
+-,-,Bradford Park Avenue,Hull City,2-0,-
+-,-,Bristol City,Hull City,2-1,-
+-,-,Bury,Hull City,2-0,-
+-,-,Fulham,Hull City,0-1,-
+-,-,Glossop North End,Hull City,2-1,-
+-,-,Grimsby Town,Hull City,1-3,-
+-,-,Huddersfield Town,Hull City,0-3,-
+-,-,Leeds City,Hull City,1-2,-
+-,-,Leicester City,Hull City,0-4,-
+-,-,Leyton Orient,Hull City,3-0,-
+-,-,Lincoln City,Hull City,0-0,-
+-,-,Nottingham Forest,Hull City,1-2,-
+-,-,Notts County,Hull City,4-1,-
+-,-,Stockport County,Hull City,2-1,-
+-,-,Wolverhampton Wanderers,Hull City,1-0,-
+-,-,Arsenal,Leeds City,1-0,-
+-,-,Barnsley,Leeds City,1-4,-
+-,-,Birmingham City,Leeds City,0-2,-
+-,-,Blackpool,Leeds City,2-2,-
+-,-,Bradford Park Avenue,Leeds City,3-1,-
+-,-,Bristol City,Leeds City,1-1,-
+-,-,Bury,Leeds City,1-1,-
+-,-,Fulham,Leeds City,0-1,-
+-,-,Glossop North End,Leeds City,1-1,-
+-,-,Grimsby Town,Leeds City,0-1,-
+-,-,Huddersfield Town,Leeds City,1-1,-
+-,-,Hull City,Leeds City,1-0,-
+-,-,Leicester City,Leeds City,5-1,-
+-,-,Leyton Orient,Leeds City,3-1,-
+-,-,Lincoln City,Leeds City,1-0,-
+-,-,Nottingham Forest,Leeds City,2-1,-
+-,-,Notts County,Leeds City,4-0,-
+-,-,Stockport County,Leeds City,2-1,-
+-,-,Wolverhampton Wanderers,Leeds City,1-3,-
+-,-,Arsenal,Leicester City,2-1,-
+-,-,Barnsley,Leicester City,3-0,-
+-,-,Birmingham City,Leicester City,1-0,-
+-,-,Blackpool,Leicester City,1-0,-
+-,-,Bradford Park Avenue,Leicester City,3-2,-
+-,-,Bristol City,Leicester City,1-0,-
+-,-,Bury,Leicester City,1-1,-
+-,-,Fulham,Leicester City,1-2,-
+-,-,Glossop North End,Leicester City,0-2,-
+-,-,Grimsby Town,Leicester City,3-0,-
+-,-,Huddersfield Town,Leicester City,1-2,-
+-,-,Hull City,Leicester City,0-0,-
+-,-,Leeds City,Leicester City,2-1,-
+-,-,Leyton Orient,Leicester City,1-0,-
+-,-,Lincoln City,Leicester City,3-0,-
+-,-,Nottingham Forest,Leicester City,1-3,-
+-,-,Notts County,Leicester City,4-1,-
+-,-,Stockport County,Leicester City,3-0,-
+-,-,Wolverhampton Wanderers,Leicester City,2-1,-
+-,-,Arsenal,Leyton Orient,2-2,-
+-,-,Barnsley,Leyton Orient,2-1,-
+-,-,Birmingham City,Leyton Orient,2-0,-
+-,-,Blackpool,Leyton Orient,0-0,-
+-,-,Bradford Park Avenue,Leyton Orient,1-0,-
+-,-,Bristol City,Leyton Orient,3-0,-
+-,-,Bury,Leyton Orient,0-0,-
+-,-,Fulham,Leyton Orient,2-0,-
+-,-,Glossop North End,Leyton Orient,0-3,-
+-,-,Grimsby Town,Leyton Orient,2-0,-
+-,-,Huddersfield Town,Leyton Orient,1-0,-
+-,-,Hull City,Leyton Orient,2-0,-
+-,-,Leeds City,Leyton Orient,0-0,-
+-,-,Leicester City,Leyton Orient,1-0,-
+-,-,Lincoln City,Leyton Orient,0-0,-
+-,-,Nottingham Forest,Leyton Orient,1-1,-
+-,-,Notts County,Leyton Orient,3-0,-
+-,-,Stockport County,Leyton Orient,0-1,-
+-,-,Wolverhampton Wanderers,Leyton Orient,2-1,-
+-,-,Arsenal,Lincoln City,3-0,-
+-,-,Barnsley,Lincoln City,1-0,-
+-,-,Birmingham City,Lincoln City,2-0,-
+-,-,Blackpool,Lincoln City,2-1,-
+-,-,Bradford Park Avenue,Lincoln City,3-0,-
+-,-,Bristol City,Lincoln City,4-1,-
+-,-,Bury,Lincoln City,1-0,-
+-,-,Fulham,Lincoln City,4-0,-
+-,-,Glossop North End,Lincoln City,4-0,-
+-,-,Grimsby Town,Lincoln City,1-3,-
+-,-,Huddersfield Town,Lincoln City,2-1,-
+-,-,Hull City,Lincoln City,1-1,-
+-,-,Leeds City,Lincoln City,1-0,-
+-,-,Leicester City,Lincoln City,2-0,-
+-,-,Leyton Orient,Lincoln City,5-1,-
+-,-,Nottingham Forest,Lincoln City,2-1,-
+-,-,Notts County,Lincoln City,2-1,-
+-,-,Stockport County,Lincoln City,2-3,-
+-,-,Wolverhampton Wanderers,Lincoln City,1-0,-
+-,-,Arsenal,Nottingham Forest,3-2,-
+-,-,Barnsley,Nottingham Forest,5-0,-
+-,-,Birmingham City,Nottingham Forest,2-0,-
+-,-,Blackpool,Nottingham Forest,2-1,-
+-,-,Bradford Park Avenue,Nottingham Forest,4-0,-
+-,-,Bristol City,Nottingham Forest,1-0,-
+-,-,Bury,Nottingham Forest,1-0,-
+-,-,Fulham,Nottingham Forest,2-0,-
+-,-,Glossop North End,Nottingham Forest,3-0,-
+-,-,Grimsby Town,Nottingham Forest,3-0,-
+-,-,Huddersfield Town,Nottingham Forest,1-1,-
+-,-,Hull City,Nottingham Forest,1-0,-
+-,-,Leeds City,Nottingham Forest,8-0,-
+-,-,Leicester City,Nottingham Forest,5-1,-
+-,-,Leyton Orient,Nottingham Forest,3-1,-
+-,-,Lincoln City,Nottingham Forest,1-0,-
+-,-,Notts County,Nottingham Forest,2-2,-
+-,-,Stockport County,Nottingham Forest,2-1,-
+-,-,Wolverhampton Wanderers,Nottingham Forest,4-1,-
+-,-,Arsenal,Notts County,3-0,-
+-,-,Barnsley,Notts County,0-1,-
+-,-,Birmingham City,Notts County,2-1,-
+-,-,Blackpool,Notts County,0-0,-
+-,-,Bradford Park Avenue,Notts County,0-3,-
+-,-,Bristol City,Notts County,1-1,-
+-,-,Bury,Notts County,3-3,-
+-,-,Fulham,Notts County,1-2,-
+-,-,Glossop North End,Notts County,0-1,-
+-,-,Grimsby Town,Notts County,0-0,-
+-,-,Huddersfield Town,Notts County,2-1,-
+-,-,Hull City,Notts County,2-0,-
+-,-,Leeds City,Notts County,2-4,-
+-,-,Leicester City,Notts County,0-2,-
+-,-,Leyton Orient,Notts County,1-0,-
+-,-,Lincoln City,Notts County,0-0,-
+-,-,Nottingham Forest,Notts County,1-0,-
+-,-,Stockport County,Notts County,1-2,-
+-,-,Wolverhampton Wanderers,Notts County,4-1,-
+-,-,Arsenal,Stockport County,4-0,-
+-,-,Barnsley,Stockport County,1-0,-
+-,-,Birmingham City,Stockport County,3-2,-
+-,-,Blackpool,Stockport County,2-2,-
+-,-,Bradford Park Avenue,Stockport County,0-2,-
+-,-,Bristol City,Stockport County,5-0,-
+-,-,Bury,Stockport County,1-0,-
+-,-,Fulham,Stockport County,2-0,-
+-,-,Glossop North End,Stockport County,1-1,-
+-,-,Grimsby Town,Stockport County,2-0,-
+-,-,Huddersfield Town,Stockport County,0-2,-
+-,-,Hull City,Stockport County,3-0,-
+-,-,Leeds City,Stockport County,5-1,-
+-,-,Leicester City,Stockport County,2-5,-
+-,-,Leyton Orient,Stockport County,1-1,-
+-,-,Lincoln City,Stockport County,0-3,-
+-,-,Nottingham Forest,Stockport County,2-2,-
+-,-,Notts County,Stockport County,2-1,-
+-,-,Wolverhampton Wanderers,Stockport County,3-1,-
+-,-,Arsenal,Wolverhampton Wanderers,3-1,-
+-,-,Barnsley,Wolverhampton Wanderers,2-1,-
+-,-,Birmingham City,Wolverhampton Wanderers,4-1,-
+-,-,Blackpool,Wolverhampton Wanderers,2-0,-
+-,-,Bradford Park Avenue,Wolverhampton Wanderers,1-0,-
+-,-,Bristol City,Wolverhampton Wanderers,0-0,-
+-,-,Bury,Wolverhampton Wanderers,1-4,-
+-,-,Fulham,Wolverhampton Wanderers,1-0,-
+-,-,Glossop North End,Wolverhampton Wanderers,1-2,-
+-,-,Grimsby Town,Wolverhampton Wanderers,1-0,-
+-,-,Huddersfield Town,Wolverhampton Wanderers,0-0,-
+-,-,Hull City,Wolverhampton Wanderers,7-1,-
+-,-,Leeds City,Wolverhampton Wanderers,5-0,-
+-,-,Leicester City,Wolverhampton Wanderers,2-3,-
+-,-,Leyton Orient,Wolverhampton Wanderers,2-2,-
+-,-,Lincoln City,Wolverhampton Wanderers,1-0,-
+-,-,Nottingham Forest,Wolverhampton Wanderers,1-3,-
+-,-,Notts County,Wolverhampton Wanderers,2-0,-
+-,-,Stockport County,Wolverhampton Wanderers,0-0,-

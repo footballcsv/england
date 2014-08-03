@@ -1,507 +1,507 @@
-Date,Team 1,Team 2,FT
--,Aston Villa,AFC Bournemouth,1-1
--,Barnsley,AFC Bournemouth,2-1
--,Birmingham City,AFC Bournemouth,1-1
--,Blackburn Rovers,AFC Bournemouth,3-1
--,Bradford City,AFC Bournemouth,2-0
--,Crystal Palace,AFC Bournemouth,3-0
--,Huddersfield Town,AFC Bournemouth,1-2
--,Hull City,AFC Bournemouth,2-1
--,Ipswich Town,AFC Bournemouth,1-2
--,Leeds United,AFC Bournemouth,3-2
--,Leicester City,AFC Bournemouth,0-1
--,Manchester City,AFC Bournemouth,2-0
--,Middlesbrough,AFC Bournemouth,3-0
--,Millwall,AFC Bournemouth,1-2
--,Oldham Athletic,AFC Bournemouth,2-0
--,Plymouth Argyle,AFC Bournemouth,1-2
--,Reading,AFC Bournemouth,0-0
--,Sheffield United,AFC Bournemouth,0-1
--,Shrewsbury Town,AFC Bournemouth,2-1
--,Stoke City,AFC Bournemouth,1-0
--,Swindon Town,AFC Bournemouth,4-2
--,West Bromwich Albion,AFC Bournemouth,3-0
--,AFC Bournemouth,Aston Villa,1-2
--,Barnsley,Aston Villa,1-3
--,Birmingham City,Aston Villa,1-2
--,Blackburn Rovers,Aston Villa,3-2
--,Bradford City,Aston Villa,2-4
--,Crystal Palace,Aston Villa,1-1
--,Huddersfield Town,Aston Villa,0-1
--,Hull City,Aston Villa,2-1
--,Ipswich Town,Aston Villa,1-1
--,Leeds United,Aston Villa,1-3
--,Leicester City,Aston Villa,0-2
--,Manchester City,Aston Villa,0-2
--,Middlesbrough,Aston Villa,2-1
--,Millwall,Aston Villa,2-1
--,Oldham Athletic,Aston Villa,0-1
--,Plymouth Argyle,Aston Villa,1-3
--,Reading,Aston Villa,0-2
--,Sheffield United,Aston Villa,1-1
--,Shrewsbury Town,Aston Villa,1-2
--,Stoke City,Aston Villa,0-0
--,Swindon Town,Aston Villa,0-0
--,West Bromwich Albion,Aston Villa,0-2
--,AFC Bournemouth,Barnsley,1-2
--,Aston Villa,Barnsley,0-0
--,Birmingham City,Barnsley,2-0
--,Blackburn Rovers,Barnsley,0-1
--,Bradford City,Barnsley,1-1
--,Crystal Palace,Barnsley,3-2
--,Huddersfield Town,Barnsley,2-2
--,Hull City,Barnsley,1-2
--,Ipswich Town,Barnsley,1-0
--,Leeds United,Barnsley,0-2
--,Leicester City,Barnsley,0-0
--,Manchester City,Barnsley,1-1
--,Middlesbrough,Barnsley,2-0
--,Millwall,Barnsley,3-1
--,Oldham Athletic,Barnsley,1-0
--,Plymouth Argyle,Barnsley,0-0
--,Reading,Barnsley,2-1
--,Sheffield United,Barnsley,1-0
--,Shrewsbury Town,Barnsley,1-1
--,Stoke City,Barnsley,3-1
--,Swindon Town,Barnsley,3-0
--,West Bromwich Albion,Barnsley,2-2
--,AFC Bournemouth,Birmingham City,4-2
--,Aston Villa,Birmingham City,0-2
--,Barnsley,Birmingham City,2-2
--,Blackburn Rovers,Birmingham City,2-0
--,Bradford City,Birmingham City,4-0
--,Crystal Palace,Birmingham City,3-0
--,Huddersfield Town,Birmingham City,2-2
--,Hull City,Birmingham City,2-0
--,Ipswich Town,Birmingham City,1-0
--,Leeds United,Birmingham City,4-1
--,Leicester City,Birmingham City,2-0
--,Manchester City,Birmingham City,3-0
--,Middlesbrough,Birmingham City,1-1
--,Millwall,Birmingham City,3-1
--,Oldham Athletic,Birmingham City,1-2
--,Plymouth Argyle,Birmingham City,1-1
--,Reading,Birmingham City,1-1
--,Sheffield United,Birmingham City,0-2
--,Shrewsbury Town,Birmingham City,0-0
--,Stoke City,Birmingham City,3-1
--,Swindon Town,Birmingham City,0-2
--,West Bromwich Albion,Birmingham City,3-1
--,AFC Bournemouth,Blackburn Rovers,1-1
--,Aston Villa,Blackburn Rovers,1-1
--,Barnsley,Blackburn Rovers,0-1
--,Birmingham City,Blackburn Rovers,1-0
--,Bradford City,Blackburn Rovers,2-1
--,Crystal Palace,Blackburn Rovers,2-0
--,Huddersfield Town,Blackburn Rovers,1-2
--,Hull City,Blackburn Rovers,2-2
--,Ipswich Town,Blackburn Rovers,0-2
--,Leeds United,Blackburn Rovers,2-2
--,Leicester City,Blackburn Rovers,1-2
--,Manchester City,Blackburn Rovers,1-2
--,Middlesbrough,Blackburn Rovers,1-1
--,Millwall,Blackburn Rovers,1-4
--,Oldham Athletic,Blackburn Rovers,4-2
--,Plymouth Argyle,Blackburn Rovers,3-0
--,Reading,Blackburn Rovers,0-0
--,Sheffield United,Blackburn Rovers,3-1
--,Shrewsbury Town,Blackburn Rovers,1-2
--,Stoke City,Blackburn Rovers,2-1
--,Swindon Town,Blackburn Rovers,1-2
--,West Bromwich Albion,Blackburn Rovers,0-1
--,AFC Bournemouth,Bradford City,2-0
--,Aston Villa,Bradford City,1-0
--,Barnsley,Bradford City,3-0
--,Birmingham City,Bradford City,1-1
--,Blackburn Rovers,Bradford City,1-1
--,Crystal Palace,Bradford City,1-1
--,Huddersfield Town,Bradford City,1-2
--,Hull City,Bradford City,0-0
--,Ipswich Town,Bradford City,4-0
--,Leeds United,Bradford City,2-0
--,Leicester City,Bradford City,0-2
--,Manchester City,Bradford City,2-2
--,Middlesbrough,Bradford City,1-2
--,Millwall,Bradford City,0-1
--,Oldham Athletic,Bradford City,0-2
--,Plymouth Argyle,Bradford City,2-1
--,Reading,Bradford City,1-1
--,Sheffield United,Bradford City,1-2
--,Shrewsbury Town,Bradford City,2-2
--,Stoke City,Bradford City,1-2
--,Swindon Town,Bradford City,2-2
--,West Bromwich Albion,Bradford City,0-1
--,AFC Bournemouth,Crystal Palace,2-3
--,Aston Villa,Crystal Palace,4-1
--,Barnsley,Crystal Palace,2-1
--,Birmingham City,Crystal Palace,0-6
--,Blackburn Rovers,Crystal Palace,2-0
--,Bradford City,Crystal Palace,2-0
--,Huddersfield Town,Crystal Palace,2-2
--,Hull City,Crystal Palace,2-1
--,Ipswich Town,Crystal Palace,2-3
--,Leeds United,Crystal Palace,1-0
--,Leicester City,Crystal Palace,4-4
--,Manchester City,Crystal Palace,1-3
--,Middlesbrough,Crystal Palace,2-1
--,Millwall,Crystal Palace,1-1
--,Oldham Athletic,Crystal Palace,1-0
--,Plymouth Argyle,Crystal Palace,1-3
--,Reading,Crystal Palace,2-3
--,Sheffield United,Crystal Palace,1-1
--,Shrewsbury Town,Crystal Palace,2-0
--,Stoke City,Crystal Palace,1-1
--,Swindon Town,Crystal Palace,2-2
--,West Bromwich Albion,Crystal Palace,1-0
--,AFC Bournemouth,Huddersfield Town,0-2
--,Aston Villa,Huddersfield Town,1-1
--,Barnsley,Huddersfield Town,1-0
--,Birmingham City,Huddersfield Town,2-0
--,Blackburn Rovers,Huddersfield Town,2-2
--,Bradford City,Huddersfield Town,0-1
--,Crystal Palace,Huddersfield Town,2-1
--,Hull City,Huddersfield Town,4-0
--,Ipswich Town,Huddersfield Town,3-0
--,Leeds United,Huddersfield Town,3-0
--,Leicester City,Huddersfield Town,3-0
--,Manchester City,Huddersfield Town,10-1
--,Middlesbrough,Huddersfield Town,2-0
--,Millwall,Huddersfield Town,4-1
--,Oldham Athletic,Huddersfield Town,3-2
--,Plymouth Argyle,Huddersfield Town,6-1
--,Reading,Huddersfield Town,3-2
--,Sheffield United,Huddersfield Town,2-2
--,Shrewsbury Town,Huddersfield Town,3-1
--,Stoke City,Huddersfield Town,1-1
--,Swindon Town,Huddersfield Town,4-1
--,West Bromwich Albion,Huddersfield Town,3-2
--,AFC Bournemouth,Hull City,6-2
--,Aston Villa,Hull City,5-0
--,Barnsley,Hull City,1-3
--,Birmingham City,Hull City,1-1
--,Blackburn Rovers,Hull City,2-1
--,Bradford City,Hull City,2-0
--,Crystal Palace,Hull City,2-2
--,Huddersfield Town,Hull City,0-2
--,Ipswich Town,Hull City,2-0
--,Leeds United,Hull City,0-2
--,Leicester City,Hull City,2-1
--,Manchester City,Hull City,2-0
--,Middlesbrough,Hull City,1-0
--,Millwall,Hull City,2-0
--,Oldham Athletic,Hull City,1-2
--,Plymouth Argyle,Hull City,3-1
--,Reading,Hull City,0-0
--,Sheffield United,Hull City,2-1
--,Shrewsbury Town,Hull City,2-2
--,Stoke City,Hull City,1-1
--,Swindon Town,Hull City,0-0
--,West Bromwich Albion,Hull City,1-1
--,AFC Bournemouth,Ipswich Town,1-1
--,Aston Villa,Ipswich Town,1-0
--,Barnsley,Ipswich Town,2-3
--,Birmingham City,Ipswich Town,1-0
--,Blackburn Rovers,Ipswich Town,1-0
--,Bradford City,Ipswich Town,2-3
--,Crystal Palace,Ipswich Town,1-2
--,Huddersfield Town,Ipswich Town,1-2
--,Hull City,Ipswich Town,1-0
--,Leeds United,Ipswich Town,1-0
--,Leicester City,Ipswich Town,1-1
--,Manchester City,Ipswich Town,2-0
--,Middlesbrough,Ipswich Town,3-1
--,Millwall,Ipswich Town,2-1
--,Oldham Athletic,Ipswich Town,3-1
--,Plymouth Argyle,Ipswich Town,0-0
--,Reading,Ipswich Town,1-1
--,Sheffield United,Ipswich Town,4-1
--,Shrewsbury Town,Ipswich Town,0-0
--,Stoke City,Ipswich Town,1-2
--,Swindon Town,Ipswich Town,4-2
--,West Bromwich Albion,Ipswich Town,2-2
--,AFC Bournemouth,Leeds United,0-0
--,Aston Villa,Leeds United,1-2
--,Barnsley,Leeds United,1-1
--,Birmingham City,Leeds United,0-0
--,Blackburn Rovers,Leeds United,1-1
--,Bradford City,Leeds United,0-0
--,Crystal Palace,Leeds United,3-0
--,Huddersfield Town,Leeds United,0-0
--,Hull City,Leeds United,3-1
--,Ipswich Town,Leeds United,1-0
--,Leicester City,Leeds United,3-2
--,Manchester City,Leeds United,1-2
--,Middlesbrough,Leeds United,2-0
--,Millwall,Leeds United,3-1
--,Oldham Athletic,Leeds United,1-1
--,Plymouth Argyle,Leeds United,6-3
--,Reading,Leeds United,0-1
--,Sheffield United,Leeds United,2-2
--,Shrewsbury Town,Leeds United,1-0
--,Stoke City,Leeds United,2-1
--,Swindon Town,Leeds United,1-2
--,West Bromwich Albion,Leeds United,1-4
--,AFC Bournemouth,Leicester City,2-3
--,Aston Villa,Leicester City,2-1
--,Barnsley,Leicester City,1-1
--,Birmingham City,Leicester City,2-2
--,Blackburn Rovers,Leicester City,3-3
--,Bradford City,Leicester City,4-1
--,Crystal Palace,Leicester City,2-1
--,Huddersfield Town,Leicester City,1-0
--,Hull City,Leicester City,2-2
--,Ipswich Town,Leicester City,0-2
--,Leeds United,Leicester City,1-0
--,Manchester City,Leicester City,4-2
--,Middlesbrough,Leicester City,1-2
--,Millwall,Leicester City,1-0
--,Oldham Athletic,Leicester City,2-0
--,Plymouth Argyle,Leicester City,4-0
--,Reading,Leicester City,1-2
--,Sheffield United,Leicester City,2-1
--,Shrewsbury Town,Leicester City,0-0
--,Stoke City,Leicester City,2-1
--,Swindon Town,Leicester City,3-2
--,West Bromwich Albion,Leicester City,1-1
--,AFC Bournemouth,Manchester City,0-2
--,Aston Villa,Manchester City,1-1
--,Barnsley,Manchester City,3-1
--,Birmingham City,Manchester City,0-3
--,Blackburn Rovers,Manchester City,2-1
--,Bradford City,Manchester City,2-4
--,Crystal Palace,Manchester City,2-0
--,Huddersfield Town,Manchester City,1-0
--,Hull City,Manchester City,3-1
--,Ipswich Town,Manchester City,3-0
--,Leeds United,Manchester City,2-0
--,Leicester City,Manchester City,1-0
--,Middlesbrough,Manchester City,2-1
--,Millwall,Manchester City,0-1
--,Oldham Athletic,Manchester City,1-1
--,Plymouth Argyle,Manchester City,3-2
--,Reading,Manchester City,0-2
--,Sheffield United,Manchester City,1-2
--,Shrewsbury Town,Manchester City,0-0
--,Stoke City,Manchester City,1-3
--,Swindon Town,Manchester City,3-4
--,West Bromwich Albion,Manchester City,1-1
--,AFC Bournemouth,Middlesbrough,0-0
--,Aston Villa,Middlesbrough,0-1
--,Barnsley,Middlesbrough,0-3
--,Birmingham City,Middlesbrough,0-0
--,Blackburn Rovers,Middlesbrough,0-2
--,Bradford City,Middlesbrough,2-0
--,Crystal Palace,Middlesbrough,3-1
--,Huddersfield Town,Middlesbrough,1-4
--,Hull City,Middlesbrough,0-0
--,Ipswich Town,Middlesbrough,4-0
--,Leeds United,Middlesbrough,2-0
--,Leicester City,Middlesbrough,0-0
--,Manchester City,Middlesbrough,1-1
--,Millwall,Middlesbrough,2-1
--,Oldham Athletic,Middlesbrough,3-1
--,Plymouth Argyle,Middlesbrough,0-1
--,Reading,Middlesbrough,0-0
--,Sheffield United,Middlesbrough,0-2
--,Shrewsbury Town,Middlesbrough,0-1
--,Stoke City,Middlesbrough,1-0
--,Swindon Town,Middlesbrough,1-1
--,West Bromwich Albion,Middlesbrough,0-0
--,AFC Bournemouth,Millwall,1-2
--,Aston Villa,Millwall,1-2
--,Barnsley,Millwall,4-1
--,Birmingham City,Millwall,1-0
--,Blackburn Rovers,Millwall,2-1
--,Bradford City,Millwall,3-1
--,Crystal Palace,Millwall,1-0
--,Huddersfield Town,Millwall,2-1
--,Hull City,Millwall,0-1
--,Ipswich Town,Millwall,1-1
--,Leeds United,Millwall,1-2
--,Leicester City,Millwall,1-0
--,Manchester City,Millwall,4-0
--,Middlesbrough,Millwall,1-1
--,Oldham Athletic,Millwall,0-0
--,Plymouth Argyle,Millwall,1-2
--,Reading,Millwall,2-3
--,Sheffield United,Millwall,1-2
--,Shrewsbury Town,Millwall,0-0
--,Stoke City,Millwall,1-2
--,Swindon Town,Millwall,0-1
--,West Bromwich Albion,Millwall,1-4
--,AFC Bournemouth,Oldham Athletic,2-2
--,Aston Villa,Oldham Athletic,1-2
--,Barnsley,Oldham Athletic,1-1
--,Birmingham City,Oldham Athletic,1-3
--,Blackburn Rovers,Oldham Athletic,1-0
--,Bradford City,Oldham Athletic,5-3
--,Crystal Palace,Oldham Athletic,3-1
--,Huddersfield Town,Oldham Athletic,2-2
--,Hull City,Oldham Athletic,1-0
--,Ipswich Town,Oldham Athletic,2-0
--,Leeds United,Oldham Athletic,1-1
--,Leicester City,Oldham Athletic,4-1
--,Manchester City,Oldham Athletic,1-2
--,Middlesbrough,Oldham Athletic,1-0
--,Millwall,Oldham Athletic,1-1
--,Plymouth Argyle,Oldham Athletic,1-0
--,Reading,Oldham Athletic,3-0
--,Sheffield United,Oldham Athletic,0-5
--,Shrewsbury Town,Oldham Athletic,2-3
--,Stoke City,Oldham Athletic,2-2
--,Swindon Town,Oldham Athletic,2-0
--,West Bromwich Albion,Oldham Athletic,0-0
--,AFC Bournemouth,Plymouth Argyle,2-2
--,Aston Villa,Plymouth Argyle,5-2
--,Barnsley,Plymouth Argyle,2-1
--,Birmingham City,Plymouth Argyle,0-1
--,Blackburn Rovers,Plymouth Argyle,1-1
--,Bradford City,Plymouth Argyle,3-1
--,Crystal Palace,Plymouth Argyle,5-1
--,Huddersfield Town,Plymouth Argyle,2-1
--,Hull City,Plymouth Argyle,1-1
--,Ipswich Town,Plymouth Argyle,1-2
--,Leeds United,Plymouth Argyle,1-0
--,Leicester City,Plymouth Argyle,4-0
--,Manchester City,Plymouth Argyle,2-1
--,Middlesbrough,Plymouth Argyle,3-1
--,Millwall,Plymouth Argyle,3-2
--,Oldham Athletic,Plymouth Argyle,0-1
--,Reading,Plymouth Argyle,0-1
--,Sheffield United,Plymouth Argyle,1-0
--,Shrewsbury Town,Plymouth Argyle,2-1
--,Stoke City,Plymouth Argyle,1-0
--,Swindon Town,Plymouth Argyle,1-1
--,West Bromwich Albion,Plymouth Argyle,1-0
--,AFC Bournemouth,Reading,3-0
--,Aston Villa,Reading,2-1
--,Barnsley,Reading,5-2
--,Birmingham City,Reading,2-2
--,Blackburn Rovers,Reading,1-1
--,Bradford City,Reading,3-0
--,Crystal Palace,Reading,2-3
--,Huddersfield Town,Reading,0-2
--,Hull City,Reading,2-2
--,Ipswich Town,Reading,2-1
--,Leeds United,Reading,0-0
--,Leicester City,Reading,1-0
--,Manchester City,Reading,2-0
--,Middlesbrough,Reading,0-0
--,Millwall,Reading,3-0
--,Oldham Athletic,Reading,4-2
--,Plymouth Argyle,Reading,1-3
--,Sheffield United,Reading,4-1
--,Shrewsbury Town,Reading,0-1
--,Stoke City,Reading,4-2
--,Swindon Town,Reading,4-0
--,West Bromwich Albion,Reading,0-1
--,AFC Bournemouth,Sheffield United,1-2
--,Aston Villa,Sheffield United,1-1
--,Barnsley,Sheffield United,1-2
--,Birmingham City,Sheffield United,1-0
--,Blackburn Rovers,Sheffield United,4-1
--,Bradford City,Sheffield United,2-0
--,Crystal Palace,Sheffield United,2-1
--,Huddersfield Town,Sheffield United,0-2
--,Hull City,Sheffield United,1-2
--,Ipswich Town,Sheffield United,1-0
--,Leeds United,Sheffield United,5-0
--,Leicester City,Sheffield United,1-0
--,Manchester City,Sheffield United,2-3
--,Middlesbrough,Sheffield United,6-0
--,Millwall,Sheffield United,3-1
--,Oldham Athletic,Sheffield United,3-2
--,Plymouth Argyle,Sheffield United,1-0
--,Reading,Sheffield United,2-1
--,Shrewsbury Town,Sheffield United,2-0
--,Stoke City,Sheffield United,1-0
--,Swindon Town,Sheffield United,2-0
--,West Bromwich Albion,Sheffield United,4-0
--,AFC Bournemouth,Shrewsbury Town,2-0
--,Aston Villa,Shrewsbury Town,1-0
--,Barnsley,Shrewsbury Town,2-1
--,Birmingham City,Shrewsbury Town,0-0
--,Blackburn Rovers,Shrewsbury Town,2-2
--,Bradford City,Shrewsbury Town,1-1
--,Crystal Palace,Shrewsbury Town,1-2
--,Huddersfield Town,Shrewsbury Town,0-0
--,Hull City,Shrewsbury Town,1-1
--,Ipswich Town,Shrewsbury Town,2-0
--,Leeds United,Shrewsbury Town,2-1
--,Leicester City,Shrewsbury Town,0-1
--,Manchester City,Shrewsbury Town,1-3
--,Middlesbrough,Shrewsbury Town,4-0
--,Millwall,Shrewsbury Town,4-1
--,Oldham Athletic,Shrewsbury Town,2-2
--,Plymouth Argyle,Shrewsbury Town,2-0
--,Reading,Shrewsbury Town,1-0
--,Sheffield United,Shrewsbury Town,0-1
--,Stoke City,Shrewsbury Town,1-1
--,Swindon Town,Shrewsbury Town,1-1
--,West Bromwich Albion,Shrewsbury Town,2-1
--,AFC Bournemouth,Stoke City,0-0
--,Aston Villa,Stoke City,0-1
--,Barnsley,Stoke City,5-2
--,Birmingham City,Stoke City,2-0
--,Blackburn Rovers,Stoke City,2-0
--,Bradford City,Stoke City,1-4
--,Crystal Palace,Stoke City,2-0
--,Huddersfield Town,Stoke City,0-3
--,Hull City,Stoke City,0-0
--,Ipswich Town,Stoke City,2-0
--,Leeds United,Stoke City,0-0
--,Leicester City,Stoke City,1-1
--,Manchester City,Stoke City,3-0
--,Middlesbrough,Stoke City,2-0
--,Millwall,Stoke City,2-0
--,Oldham Athletic,Stoke City,5-1
--,Plymouth Argyle,Stoke City,3-0
--,Reading,Stoke City,0-1
--,Sheffield United,Stoke City,0-0
--,Shrewsbury Town,Stoke City,0-3
--,Swindon Town,Stoke City,3-0
--,West Bromwich Albion,Stoke City,2-0
--,AFC Bournemouth,Swindon Town,2-0
--,Aston Villa,Swindon Town,2-1
--,Barnsley,Swindon Town,0-1
--,Birmingham City,Swindon Town,1-1
--,Blackburn Rovers,Swindon Town,0-0
--,Bradford City,Swindon Town,2-0
--,Crystal Palace,Swindon Town,2-1
--,Huddersfield Town,Swindon Town,0-3
--,Hull City,Swindon Town,1-4
--,Ipswich Town,Swindon Town,3-2
--,Leeds United,Swindon Town,4-2
--,Leicester City,Swindon Town,3-2
--,Manchester City,Swindon Town,1-1
--,Middlesbrough,Swindon Town,2-3
--,Millwall,Swindon Town,2-2
--,Oldham Athletic,Swindon Town,4-3
--,Plymouth Argyle,Swindon Town,1-0
--,Reading,Swindon Town,0-1
--,Sheffield United,Swindon Town,1-0
--,Shrewsbury Town,Swindon Town,2-1
--,Stoke City,Swindon Town,1-0
--,West Bromwich Albion,Swindon Town,1-2
--,AFC Bournemouth,West Bromwich Albion,3-2
--,Aston Villa,West Bromwich Albion,0-0
--,Barnsley,West Bromwich Albion,3-1
--,Birmingham City,West Bromwich Albion,0-1
--,Blackburn Rovers,West Bromwich Albion,3-1
--,Bradford City,West Bromwich Albion,4-1
--,Crystal Palace,West Bromwich Albion,4-1
--,Huddersfield Town,West Bromwich Albion,1-3
--,Hull City,West Bromwich Albion,1-0
--,Ipswich Town,West Bromwich Albion,1-1
--,Leeds United,West Bromwich Albion,1-0
--,Leicester City,West Bromwich Albion,3-0
--,Manchester City,West Bromwich Albion,4-2
--,Middlesbrough,West Bromwich Albion,2-1
--,Millwall,West Bromwich Albion,2-0
--,Oldham Athletic,West Bromwich Albion,2-1
--,Plymouth Argyle,West Bromwich Albion,3-3
--,Reading,West Bromwich Albion,1-2
--,Sheffield United,West Bromwich Albion,0-0
--,Shrewsbury Town,West Bromwich Albion,0-1
--,Stoke City,West Bromwich Albion,3-0
--,Swindon Town,West Bromwich Albion,2-0
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Aston Villa,AFC Bournemouth,1-1,-
+-,-,Barnsley,AFC Bournemouth,2-1,-
+-,-,Birmingham City,AFC Bournemouth,1-1,-
+-,-,Blackburn Rovers,AFC Bournemouth,3-1,-
+-,-,Bradford City,AFC Bournemouth,2-0,-
+-,-,Crystal Palace,AFC Bournemouth,3-0,-
+-,-,Huddersfield Town,AFC Bournemouth,1-2,-
+-,-,Hull City,AFC Bournemouth,2-1,-
+-,-,Ipswich Town,AFC Bournemouth,1-2,-
+-,-,Leeds United,AFC Bournemouth,3-2,-
+-,-,Leicester City,AFC Bournemouth,0-1,-
+-,-,Manchester City,AFC Bournemouth,2-0,-
+-,-,Middlesbrough,AFC Bournemouth,3-0,-
+-,-,Millwall,AFC Bournemouth,1-2,-
+-,-,Oldham Athletic,AFC Bournemouth,2-0,-
+-,-,Plymouth Argyle,AFC Bournemouth,1-2,-
+-,-,Reading,AFC Bournemouth,0-0,-
+-,-,Sheffield United,AFC Bournemouth,0-1,-
+-,-,Shrewsbury Town,AFC Bournemouth,2-1,-
+-,-,Stoke City,AFC Bournemouth,1-0,-
+-,-,Swindon Town,AFC Bournemouth,4-2,-
+-,-,West Bromwich Albion,AFC Bournemouth,3-0,-
+-,-,AFC Bournemouth,Aston Villa,1-2,-
+-,-,Barnsley,Aston Villa,1-3,-
+-,-,Birmingham City,Aston Villa,1-2,-
+-,-,Blackburn Rovers,Aston Villa,3-2,-
+-,-,Bradford City,Aston Villa,2-4,-
+-,-,Crystal Palace,Aston Villa,1-1,-
+-,-,Huddersfield Town,Aston Villa,0-1,-
+-,-,Hull City,Aston Villa,2-1,-
+-,-,Ipswich Town,Aston Villa,1-1,-
+-,-,Leeds United,Aston Villa,1-3,-
+-,-,Leicester City,Aston Villa,0-2,-
+-,-,Manchester City,Aston Villa,0-2,-
+-,-,Middlesbrough,Aston Villa,2-1,-
+-,-,Millwall,Aston Villa,2-1,-
+-,-,Oldham Athletic,Aston Villa,0-1,-
+-,-,Plymouth Argyle,Aston Villa,1-3,-
+-,-,Reading,Aston Villa,0-2,-
+-,-,Sheffield United,Aston Villa,1-1,-
+-,-,Shrewsbury Town,Aston Villa,1-2,-
+-,-,Stoke City,Aston Villa,0-0,-
+-,-,Swindon Town,Aston Villa,0-0,-
+-,-,West Bromwich Albion,Aston Villa,0-2,-
+-,-,AFC Bournemouth,Barnsley,1-2,-
+-,-,Aston Villa,Barnsley,0-0,-
+-,-,Birmingham City,Barnsley,2-0,-
+-,-,Blackburn Rovers,Barnsley,0-1,-
+-,-,Bradford City,Barnsley,1-1,-
+-,-,Crystal Palace,Barnsley,3-2,-
+-,-,Huddersfield Town,Barnsley,2-2,-
+-,-,Hull City,Barnsley,1-2,-
+-,-,Ipswich Town,Barnsley,1-0,-
+-,-,Leeds United,Barnsley,0-2,-
+-,-,Leicester City,Barnsley,0-0,-
+-,-,Manchester City,Barnsley,1-1,-
+-,-,Middlesbrough,Barnsley,2-0,-
+-,-,Millwall,Barnsley,3-1,-
+-,-,Oldham Athletic,Barnsley,1-0,-
+-,-,Plymouth Argyle,Barnsley,0-0,-
+-,-,Reading,Barnsley,2-1,-
+-,-,Sheffield United,Barnsley,1-0,-
+-,-,Shrewsbury Town,Barnsley,1-1,-
+-,-,Stoke City,Barnsley,3-1,-
+-,-,Swindon Town,Barnsley,3-0,-
+-,-,West Bromwich Albion,Barnsley,2-2,-
+-,-,AFC Bournemouth,Birmingham City,4-2,-
+-,-,Aston Villa,Birmingham City,0-2,-
+-,-,Barnsley,Birmingham City,2-2,-
+-,-,Blackburn Rovers,Birmingham City,2-0,-
+-,-,Bradford City,Birmingham City,4-0,-
+-,-,Crystal Palace,Birmingham City,3-0,-
+-,-,Huddersfield Town,Birmingham City,2-2,-
+-,-,Hull City,Birmingham City,2-0,-
+-,-,Ipswich Town,Birmingham City,1-0,-
+-,-,Leeds United,Birmingham City,4-1,-
+-,-,Leicester City,Birmingham City,2-0,-
+-,-,Manchester City,Birmingham City,3-0,-
+-,-,Middlesbrough,Birmingham City,1-1,-
+-,-,Millwall,Birmingham City,3-1,-
+-,-,Oldham Athletic,Birmingham City,1-2,-
+-,-,Plymouth Argyle,Birmingham City,1-1,-
+-,-,Reading,Birmingham City,1-1,-
+-,-,Sheffield United,Birmingham City,0-2,-
+-,-,Shrewsbury Town,Birmingham City,0-0,-
+-,-,Stoke City,Birmingham City,3-1,-
+-,-,Swindon Town,Birmingham City,0-2,-
+-,-,West Bromwich Albion,Birmingham City,3-1,-
+-,-,AFC Bournemouth,Blackburn Rovers,1-1,-
+-,-,Aston Villa,Blackburn Rovers,1-1,-
+-,-,Barnsley,Blackburn Rovers,0-1,-
+-,-,Birmingham City,Blackburn Rovers,1-0,-
+-,-,Bradford City,Blackburn Rovers,2-1,-
+-,-,Crystal Palace,Blackburn Rovers,2-0,-
+-,-,Huddersfield Town,Blackburn Rovers,1-2,-
+-,-,Hull City,Blackburn Rovers,2-2,-
+-,-,Ipswich Town,Blackburn Rovers,0-2,-
+-,-,Leeds United,Blackburn Rovers,2-2,-
+-,-,Leicester City,Blackburn Rovers,1-2,-
+-,-,Manchester City,Blackburn Rovers,1-2,-
+-,-,Middlesbrough,Blackburn Rovers,1-1,-
+-,-,Millwall,Blackburn Rovers,1-4,-
+-,-,Oldham Athletic,Blackburn Rovers,4-2,-
+-,-,Plymouth Argyle,Blackburn Rovers,3-0,-
+-,-,Reading,Blackburn Rovers,0-0,-
+-,-,Sheffield United,Blackburn Rovers,3-1,-
+-,-,Shrewsbury Town,Blackburn Rovers,1-2,-
+-,-,Stoke City,Blackburn Rovers,2-1,-
+-,-,Swindon Town,Blackburn Rovers,1-2,-
+-,-,West Bromwich Albion,Blackburn Rovers,0-1,-
+-,-,AFC Bournemouth,Bradford City,2-0,-
+-,-,Aston Villa,Bradford City,1-0,-
+-,-,Barnsley,Bradford City,3-0,-
+-,-,Birmingham City,Bradford City,1-1,-
+-,-,Blackburn Rovers,Bradford City,1-1,-
+-,-,Crystal Palace,Bradford City,1-1,-
+-,-,Huddersfield Town,Bradford City,1-2,-
+-,-,Hull City,Bradford City,0-0,-
+-,-,Ipswich Town,Bradford City,4-0,-
+-,-,Leeds United,Bradford City,2-0,-
+-,-,Leicester City,Bradford City,0-2,-
+-,-,Manchester City,Bradford City,2-2,-
+-,-,Middlesbrough,Bradford City,1-2,-
+-,-,Millwall,Bradford City,0-1,-
+-,-,Oldham Athletic,Bradford City,0-2,-
+-,-,Plymouth Argyle,Bradford City,2-1,-
+-,-,Reading,Bradford City,1-1,-
+-,-,Sheffield United,Bradford City,1-2,-
+-,-,Shrewsbury Town,Bradford City,2-2,-
+-,-,Stoke City,Bradford City,1-2,-
+-,-,Swindon Town,Bradford City,2-2,-
+-,-,West Bromwich Albion,Bradford City,0-1,-
+-,-,AFC Bournemouth,Crystal Palace,2-3,-
+-,-,Aston Villa,Crystal Palace,4-1,-
+-,-,Barnsley,Crystal Palace,2-1,-
+-,-,Birmingham City,Crystal Palace,0-6,-
+-,-,Blackburn Rovers,Crystal Palace,2-0,-
+-,-,Bradford City,Crystal Palace,2-0,-
+-,-,Huddersfield Town,Crystal Palace,2-2,-
+-,-,Hull City,Crystal Palace,2-1,-
+-,-,Ipswich Town,Crystal Palace,2-3,-
+-,-,Leeds United,Crystal Palace,1-0,-
+-,-,Leicester City,Crystal Palace,4-4,-
+-,-,Manchester City,Crystal Palace,1-3,-
+-,-,Middlesbrough,Crystal Palace,2-1,-
+-,-,Millwall,Crystal Palace,1-1,-
+-,-,Oldham Athletic,Crystal Palace,1-0,-
+-,-,Plymouth Argyle,Crystal Palace,1-3,-
+-,-,Reading,Crystal Palace,2-3,-
+-,-,Sheffield United,Crystal Palace,1-1,-
+-,-,Shrewsbury Town,Crystal Palace,2-0,-
+-,-,Stoke City,Crystal Palace,1-1,-
+-,-,Swindon Town,Crystal Palace,2-2,-
+-,-,West Bromwich Albion,Crystal Palace,1-0,-
+-,-,AFC Bournemouth,Huddersfield Town,0-2,-
+-,-,Aston Villa,Huddersfield Town,1-1,-
+-,-,Barnsley,Huddersfield Town,1-0,-
+-,-,Birmingham City,Huddersfield Town,2-0,-
+-,-,Blackburn Rovers,Huddersfield Town,2-2,-
+-,-,Bradford City,Huddersfield Town,0-1,-
+-,-,Crystal Palace,Huddersfield Town,2-1,-
+-,-,Hull City,Huddersfield Town,4-0,-
+-,-,Ipswich Town,Huddersfield Town,3-0,-
+-,-,Leeds United,Huddersfield Town,3-0,-
+-,-,Leicester City,Huddersfield Town,3-0,-
+-,-,Manchester City,Huddersfield Town,10-1,-
+-,-,Middlesbrough,Huddersfield Town,2-0,-
+-,-,Millwall,Huddersfield Town,4-1,-
+-,-,Oldham Athletic,Huddersfield Town,3-2,-
+-,-,Plymouth Argyle,Huddersfield Town,6-1,-
+-,-,Reading,Huddersfield Town,3-2,-
+-,-,Sheffield United,Huddersfield Town,2-2,-
+-,-,Shrewsbury Town,Huddersfield Town,3-1,-
+-,-,Stoke City,Huddersfield Town,1-1,-
+-,-,Swindon Town,Huddersfield Town,4-1,-
+-,-,West Bromwich Albion,Huddersfield Town,3-2,-
+-,-,AFC Bournemouth,Hull City,6-2,-
+-,-,Aston Villa,Hull City,5-0,-
+-,-,Barnsley,Hull City,1-3,-
+-,-,Birmingham City,Hull City,1-1,-
+-,-,Blackburn Rovers,Hull City,2-1,-
+-,-,Bradford City,Hull City,2-0,-
+-,-,Crystal Palace,Hull City,2-2,-
+-,-,Huddersfield Town,Hull City,0-2,-
+-,-,Ipswich Town,Hull City,2-0,-
+-,-,Leeds United,Hull City,0-2,-
+-,-,Leicester City,Hull City,2-1,-
+-,-,Manchester City,Hull City,2-0,-
+-,-,Middlesbrough,Hull City,1-0,-
+-,-,Millwall,Hull City,2-0,-
+-,-,Oldham Athletic,Hull City,1-2,-
+-,-,Plymouth Argyle,Hull City,3-1,-
+-,-,Reading,Hull City,0-0,-
+-,-,Sheffield United,Hull City,2-1,-
+-,-,Shrewsbury Town,Hull City,2-2,-
+-,-,Stoke City,Hull City,1-1,-
+-,-,Swindon Town,Hull City,0-0,-
+-,-,West Bromwich Albion,Hull City,1-1,-
+-,-,AFC Bournemouth,Ipswich Town,1-1,-
+-,-,Aston Villa,Ipswich Town,1-0,-
+-,-,Barnsley,Ipswich Town,2-3,-
+-,-,Birmingham City,Ipswich Town,1-0,-
+-,-,Blackburn Rovers,Ipswich Town,1-0,-
+-,-,Bradford City,Ipswich Town,2-3,-
+-,-,Crystal Palace,Ipswich Town,1-2,-
+-,-,Huddersfield Town,Ipswich Town,1-2,-
+-,-,Hull City,Ipswich Town,1-0,-
+-,-,Leeds United,Ipswich Town,1-0,-
+-,-,Leicester City,Ipswich Town,1-1,-
+-,-,Manchester City,Ipswich Town,2-0,-
+-,-,Middlesbrough,Ipswich Town,3-1,-
+-,-,Millwall,Ipswich Town,2-1,-
+-,-,Oldham Athletic,Ipswich Town,3-1,-
+-,-,Plymouth Argyle,Ipswich Town,0-0,-
+-,-,Reading,Ipswich Town,1-1,-
+-,-,Sheffield United,Ipswich Town,4-1,-
+-,-,Shrewsbury Town,Ipswich Town,0-0,-
+-,-,Stoke City,Ipswich Town,1-2,-
+-,-,Swindon Town,Ipswich Town,4-2,-
+-,-,West Bromwich Albion,Ipswich Town,2-2,-
+-,-,AFC Bournemouth,Leeds United,0-0,-
+-,-,Aston Villa,Leeds United,1-2,-
+-,-,Barnsley,Leeds United,1-1,-
+-,-,Birmingham City,Leeds United,0-0,-
+-,-,Blackburn Rovers,Leeds United,1-1,-
+-,-,Bradford City,Leeds United,0-0,-
+-,-,Crystal Palace,Leeds United,3-0,-
+-,-,Huddersfield Town,Leeds United,0-0,-
+-,-,Hull City,Leeds United,3-1,-
+-,-,Ipswich Town,Leeds United,1-0,-
+-,-,Leicester City,Leeds United,3-2,-
+-,-,Manchester City,Leeds United,1-2,-
+-,-,Middlesbrough,Leeds United,2-0,-
+-,-,Millwall,Leeds United,3-1,-
+-,-,Oldham Athletic,Leeds United,1-1,-
+-,-,Plymouth Argyle,Leeds United,6-3,-
+-,-,Reading,Leeds United,0-1,-
+-,-,Sheffield United,Leeds United,2-2,-
+-,-,Shrewsbury Town,Leeds United,1-0,-
+-,-,Stoke City,Leeds United,2-1,-
+-,-,Swindon Town,Leeds United,1-2,-
+-,-,West Bromwich Albion,Leeds United,1-4,-
+-,-,AFC Bournemouth,Leicester City,2-3,-
+-,-,Aston Villa,Leicester City,2-1,-
+-,-,Barnsley,Leicester City,1-1,-
+-,-,Birmingham City,Leicester City,2-2,-
+-,-,Blackburn Rovers,Leicester City,3-3,-
+-,-,Bradford City,Leicester City,4-1,-
+-,-,Crystal Palace,Leicester City,2-1,-
+-,-,Huddersfield Town,Leicester City,1-0,-
+-,-,Hull City,Leicester City,2-2,-
+-,-,Ipswich Town,Leicester City,0-2,-
+-,-,Leeds United,Leicester City,1-0,-
+-,-,Manchester City,Leicester City,4-2,-
+-,-,Middlesbrough,Leicester City,1-2,-
+-,-,Millwall,Leicester City,1-0,-
+-,-,Oldham Athletic,Leicester City,2-0,-
+-,-,Plymouth Argyle,Leicester City,4-0,-
+-,-,Reading,Leicester City,1-2,-
+-,-,Sheffield United,Leicester City,2-1,-
+-,-,Shrewsbury Town,Leicester City,0-0,-
+-,-,Stoke City,Leicester City,2-1,-
+-,-,Swindon Town,Leicester City,3-2,-
+-,-,West Bromwich Albion,Leicester City,1-1,-
+-,-,AFC Bournemouth,Manchester City,0-2,-
+-,-,Aston Villa,Manchester City,1-1,-
+-,-,Barnsley,Manchester City,3-1,-
+-,-,Birmingham City,Manchester City,0-3,-
+-,-,Blackburn Rovers,Manchester City,2-1,-
+-,-,Bradford City,Manchester City,2-4,-
+-,-,Crystal Palace,Manchester City,2-0,-
+-,-,Huddersfield Town,Manchester City,1-0,-
+-,-,Hull City,Manchester City,3-1,-
+-,-,Ipswich Town,Manchester City,3-0,-
+-,-,Leeds United,Manchester City,2-0,-
+-,-,Leicester City,Manchester City,1-0,-
+-,-,Middlesbrough,Manchester City,2-1,-
+-,-,Millwall,Manchester City,0-1,-
+-,-,Oldham Athletic,Manchester City,1-1,-
+-,-,Plymouth Argyle,Manchester City,3-2,-
+-,-,Reading,Manchester City,0-2,-
+-,-,Sheffield United,Manchester City,1-2,-
+-,-,Shrewsbury Town,Manchester City,0-0,-
+-,-,Stoke City,Manchester City,1-3,-
+-,-,Swindon Town,Manchester City,3-4,-
+-,-,West Bromwich Albion,Manchester City,1-1,-
+-,-,AFC Bournemouth,Middlesbrough,0-0,-
+-,-,Aston Villa,Middlesbrough,0-1,-
+-,-,Barnsley,Middlesbrough,0-3,-
+-,-,Birmingham City,Middlesbrough,0-0,-
+-,-,Blackburn Rovers,Middlesbrough,0-2,-
+-,-,Bradford City,Middlesbrough,2-0,-
+-,-,Crystal Palace,Middlesbrough,3-1,-
+-,-,Huddersfield Town,Middlesbrough,1-4,-
+-,-,Hull City,Middlesbrough,0-0,-
+-,-,Ipswich Town,Middlesbrough,4-0,-
+-,-,Leeds United,Middlesbrough,2-0,-
+-,-,Leicester City,Middlesbrough,0-0,-
+-,-,Manchester City,Middlesbrough,1-1,-
+-,-,Millwall,Middlesbrough,2-1,-
+-,-,Oldham Athletic,Middlesbrough,3-1,-
+-,-,Plymouth Argyle,Middlesbrough,0-1,-
+-,-,Reading,Middlesbrough,0-0,-
+-,-,Sheffield United,Middlesbrough,0-2,-
+-,-,Shrewsbury Town,Middlesbrough,0-1,-
+-,-,Stoke City,Middlesbrough,1-0,-
+-,-,Swindon Town,Middlesbrough,1-1,-
+-,-,West Bromwich Albion,Middlesbrough,0-0,-
+-,-,AFC Bournemouth,Millwall,1-2,-
+-,-,Aston Villa,Millwall,1-2,-
+-,-,Barnsley,Millwall,4-1,-
+-,-,Birmingham City,Millwall,1-0,-
+-,-,Blackburn Rovers,Millwall,2-1,-
+-,-,Bradford City,Millwall,3-1,-
+-,-,Crystal Palace,Millwall,1-0,-
+-,-,Huddersfield Town,Millwall,2-1,-
+-,-,Hull City,Millwall,0-1,-
+-,-,Ipswich Town,Millwall,1-1,-
+-,-,Leeds United,Millwall,1-2,-
+-,-,Leicester City,Millwall,1-0,-
+-,-,Manchester City,Millwall,4-0,-
+-,-,Middlesbrough,Millwall,1-1,-
+-,-,Oldham Athletic,Millwall,0-0,-
+-,-,Plymouth Argyle,Millwall,1-2,-
+-,-,Reading,Millwall,2-3,-
+-,-,Sheffield United,Millwall,1-2,-
+-,-,Shrewsbury Town,Millwall,0-0,-
+-,-,Stoke City,Millwall,1-2,-
+-,-,Swindon Town,Millwall,0-1,-
+-,-,West Bromwich Albion,Millwall,1-4,-
+-,-,AFC Bournemouth,Oldham Athletic,2-2,-
+-,-,Aston Villa,Oldham Athletic,1-2,-
+-,-,Barnsley,Oldham Athletic,1-1,-
+-,-,Birmingham City,Oldham Athletic,1-3,-
+-,-,Blackburn Rovers,Oldham Athletic,1-0,-
+-,-,Bradford City,Oldham Athletic,5-3,-
+-,-,Crystal Palace,Oldham Athletic,3-1,-
+-,-,Huddersfield Town,Oldham Athletic,2-2,-
+-,-,Hull City,Oldham Athletic,1-0,-
+-,-,Ipswich Town,Oldham Athletic,2-0,-
+-,-,Leeds United,Oldham Athletic,1-1,-
+-,-,Leicester City,Oldham Athletic,4-1,-
+-,-,Manchester City,Oldham Athletic,1-2,-
+-,-,Middlesbrough,Oldham Athletic,1-0,-
+-,-,Millwall,Oldham Athletic,1-1,-
+-,-,Plymouth Argyle,Oldham Athletic,1-0,-
+-,-,Reading,Oldham Athletic,3-0,-
+-,-,Sheffield United,Oldham Athletic,0-5,-
+-,-,Shrewsbury Town,Oldham Athletic,2-3,-
+-,-,Stoke City,Oldham Athletic,2-2,-
+-,-,Swindon Town,Oldham Athletic,2-0,-
+-,-,West Bromwich Albion,Oldham Athletic,0-0,-
+-,-,AFC Bournemouth,Plymouth Argyle,2-2,-
+-,-,Aston Villa,Plymouth Argyle,5-2,-
+-,-,Barnsley,Plymouth Argyle,2-1,-
+-,-,Birmingham City,Plymouth Argyle,0-1,-
+-,-,Blackburn Rovers,Plymouth Argyle,1-1,-
+-,-,Bradford City,Plymouth Argyle,3-1,-
+-,-,Crystal Palace,Plymouth Argyle,5-1,-
+-,-,Huddersfield Town,Plymouth Argyle,2-1,-
+-,-,Hull City,Plymouth Argyle,1-1,-
+-,-,Ipswich Town,Plymouth Argyle,1-2,-
+-,-,Leeds United,Plymouth Argyle,1-0,-
+-,-,Leicester City,Plymouth Argyle,4-0,-
+-,-,Manchester City,Plymouth Argyle,2-1,-
+-,-,Middlesbrough,Plymouth Argyle,3-1,-
+-,-,Millwall,Plymouth Argyle,3-2,-
+-,-,Oldham Athletic,Plymouth Argyle,0-1,-
+-,-,Reading,Plymouth Argyle,0-1,-
+-,-,Sheffield United,Plymouth Argyle,1-0,-
+-,-,Shrewsbury Town,Plymouth Argyle,2-1,-
+-,-,Stoke City,Plymouth Argyle,1-0,-
+-,-,Swindon Town,Plymouth Argyle,1-1,-
+-,-,West Bromwich Albion,Plymouth Argyle,1-0,-
+-,-,AFC Bournemouth,Reading,3-0,-
+-,-,Aston Villa,Reading,2-1,-
+-,-,Barnsley,Reading,5-2,-
+-,-,Birmingham City,Reading,2-2,-
+-,-,Blackburn Rovers,Reading,1-1,-
+-,-,Bradford City,Reading,3-0,-
+-,-,Crystal Palace,Reading,2-3,-
+-,-,Huddersfield Town,Reading,0-2,-
+-,-,Hull City,Reading,2-2,-
+-,-,Ipswich Town,Reading,2-1,-
+-,-,Leeds United,Reading,0-0,-
+-,-,Leicester City,Reading,1-0,-
+-,-,Manchester City,Reading,2-0,-
+-,-,Middlesbrough,Reading,0-0,-
+-,-,Millwall,Reading,3-0,-
+-,-,Oldham Athletic,Reading,4-2,-
+-,-,Plymouth Argyle,Reading,1-3,-
+-,-,Sheffield United,Reading,4-1,-
+-,-,Shrewsbury Town,Reading,0-1,-
+-,-,Stoke City,Reading,4-2,-
+-,-,Swindon Town,Reading,4-0,-
+-,-,West Bromwich Albion,Reading,0-1,-
+-,-,AFC Bournemouth,Sheffield United,1-2,-
+-,-,Aston Villa,Sheffield United,1-1,-
+-,-,Barnsley,Sheffield United,1-2,-
+-,-,Birmingham City,Sheffield United,1-0,-
+-,-,Blackburn Rovers,Sheffield United,4-1,-
+-,-,Bradford City,Sheffield United,2-0,-
+-,-,Crystal Palace,Sheffield United,2-1,-
+-,-,Huddersfield Town,Sheffield United,0-2,-
+-,-,Hull City,Sheffield United,1-2,-
+-,-,Ipswich Town,Sheffield United,1-0,-
+-,-,Leeds United,Sheffield United,5-0,-
+-,-,Leicester City,Sheffield United,1-0,-
+-,-,Manchester City,Sheffield United,2-3,-
+-,-,Middlesbrough,Sheffield United,6-0,-
+-,-,Millwall,Sheffield United,3-1,-
+-,-,Oldham Athletic,Sheffield United,3-2,-
+-,-,Plymouth Argyle,Sheffield United,1-0,-
+-,-,Reading,Sheffield United,2-1,-
+-,-,Shrewsbury Town,Sheffield United,2-0,-
+-,-,Stoke City,Sheffield United,1-0,-
+-,-,Swindon Town,Sheffield United,2-0,-
+-,-,West Bromwich Albion,Sheffield United,4-0,-
+-,-,AFC Bournemouth,Shrewsbury Town,2-0,-
+-,-,Aston Villa,Shrewsbury Town,1-0,-
+-,-,Barnsley,Shrewsbury Town,2-1,-
+-,-,Birmingham City,Shrewsbury Town,0-0,-
+-,-,Blackburn Rovers,Shrewsbury Town,2-2,-
+-,-,Bradford City,Shrewsbury Town,1-1,-
+-,-,Crystal Palace,Shrewsbury Town,1-2,-
+-,-,Huddersfield Town,Shrewsbury Town,0-0,-
+-,-,Hull City,Shrewsbury Town,1-1,-
+-,-,Ipswich Town,Shrewsbury Town,2-0,-
+-,-,Leeds United,Shrewsbury Town,2-1,-
+-,-,Leicester City,Shrewsbury Town,0-1,-
+-,-,Manchester City,Shrewsbury Town,1-3,-
+-,-,Middlesbrough,Shrewsbury Town,4-0,-
+-,-,Millwall,Shrewsbury Town,4-1,-
+-,-,Oldham Athletic,Shrewsbury Town,2-2,-
+-,-,Plymouth Argyle,Shrewsbury Town,2-0,-
+-,-,Reading,Shrewsbury Town,1-0,-
+-,-,Sheffield United,Shrewsbury Town,0-1,-
+-,-,Stoke City,Shrewsbury Town,1-1,-
+-,-,Swindon Town,Shrewsbury Town,1-1,-
+-,-,West Bromwich Albion,Shrewsbury Town,2-1,-
+-,-,AFC Bournemouth,Stoke City,0-0,-
+-,-,Aston Villa,Stoke City,0-1,-
+-,-,Barnsley,Stoke City,5-2,-
+-,-,Birmingham City,Stoke City,2-0,-
+-,-,Blackburn Rovers,Stoke City,2-0,-
+-,-,Bradford City,Stoke City,1-4,-
+-,-,Crystal Palace,Stoke City,2-0,-
+-,-,Huddersfield Town,Stoke City,0-3,-
+-,-,Hull City,Stoke City,0-0,-
+-,-,Ipswich Town,Stoke City,2-0,-
+-,-,Leeds United,Stoke City,0-0,-
+-,-,Leicester City,Stoke City,1-1,-
+-,-,Manchester City,Stoke City,3-0,-
+-,-,Middlesbrough,Stoke City,2-0,-
+-,-,Millwall,Stoke City,2-0,-
+-,-,Oldham Athletic,Stoke City,5-1,-
+-,-,Plymouth Argyle,Stoke City,3-0,-
+-,-,Reading,Stoke City,0-1,-
+-,-,Sheffield United,Stoke City,0-0,-
+-,-,Shrewsbury Town,Stoke City,0-3,-
+-,-,Swindon Town,Stoke City,3-0,-
+-,-,West Bromwich Albion,Stoke City,2-0,-
+-,-,AFC Bournemouth,Swindon Town,2-0,-
+-,-,Aston Villa,Swindon Town,2-1,-
+-,-,Barnsley,Swindon Town,0-1,-
+-,-,Birmingham City,Swindon Town,1-1,-
+-,-,Blackburn Rovers,Swindon Town,0-0,-
+-,-,Bradford City,Swindon Town,2-0,-
+-,-,Crystal Palace,Swindon Town,2-1,-
+-,-,Huddersfield Town,Swindon Town,0-3,-
+-,-,Hull City,Swindon Town,1-4,-
+-,-,Ipswich Town,Swindon Town,3-2,-
+-,-,Leeds United,Swindon Town,4-2,-
+-,-,Leicester City,Swindon Town,3-2,-
+-,-,Manchester City,Swindon Town,1-1,-
+-,-,Middlesbrough,Swindon Town,2-3,-
+-,-,Millwall,Swindon Town,2-2,-
+-,-,Oldham Athletic,Swindon Town,4-3,-
+-,-,Plymouth Argyle,Swindon Town,1-0,-
+-,-,Reading,Swindon Town,0-1,-
+-,-,Sheffield United,Swindon Town,1-0,-
+-,-,Shrewsbury Town,Swindon Town,2-1,-
+-,-,Stoke City,Swindon Town,1-0,-
+-,-,West Bromwich Albion,Swindon Town,1-2,-
+-,-,AFC Bournemouth,West Bromwich Albion,3-2,-
+-,-,Aston Villa,West Bromwich Albion,0-0,-
+-,-,Barnsley,West Bromwich Albion,3-1,-
+-,-,Birmingham City,West Bromwich Albion,0-1,-
+-,-,Blackburn Rovers,West Bromwich Albion,3-1,-
+-,-,Bradford City,West Bromwich Albion,4-1,-
+-,-,Crystal Palace,West Bromwich Albion,4-1,-
+-,-,Huddersfield Town,West Bromwich Albion,1-3,-
+-,-,Hull City,West Bromwich Albion,1-0,-
+-,-,Ipswich Town,West Bromwich Albion,1-1,-
+-,-,Leeds United,West Bromwich Albion,1-0,-
+-,-,Leicester City,West Bromwich Albion,3-0,-
+-,-,Manchester City,West Bromwich Albion,4-2,-
+-,-,Middlesbrough,West Bromwich Albion,2-1,-
+-,-,Millwall,West Bromwich Albion,2-0,-
+-,-,Oldham Athletic,West Bromwich Albion,2-1,-
+-,-,Plymouth Argyle,West Bromwich Albion,3-3,-
+-,-,Reading,West Bromwich Albion,1-2,-
+-,-,Sheffield United,West Bromwich Albion,0-0,-
+-,-,Shrewsbury Town,West Bromwich Albion,0-1,-
+-,-,Stoke City,West Bromwich Albion,3-0,-
+-,-,Swindon Town,West Bromwich Albion,2-0,-

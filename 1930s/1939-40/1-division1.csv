@@ -1,34 +1,34 @@
-Date,Team 1,Team 2,FT
--,Wolverhampton Wanderers,Arsenal,2-2
--,Derby County,Aston Villa,1-0
--,Arsenal,Blackburn Rovers,1-0
--,Portsmouth,Blackburn Rovers,2-1
--,Huddersfield Town,Blackpool,0-1
--,Chelsea,Bolton Wanderers,3-2
--,Stoke City,Bolton Wanderers,1-2
--,Blackpool,Brentford,2-1
--,Everton,Brentford,1-1
--,Leeds United,Charlton Athletic,0-1
--,Stoke City,Charlton Athletic,4-0
--,Liverpool,Chelsea,1-0
--,Sunderland,Derby County,3-0
--,Aston Villa,Everton,1-2
--,Blackburn Rovers,Everton,2-2
--,Manchester United,Grimsby Town,4-0
--,Brentford,Huddersfield Town,1-0
--,Sunderland,Huddersfield Town,1-2
--,Preston North End,Leeds United,0-0
--,Sheffield United,Liverpool,2-1
--,Charlton Athletic,Manchester United,2-0
--,Chelsea,Manchester United,1-1
--,Aston Villa,Middlesbrough,2-0
--,Liverpool,Middlesbrough,4-1
--,Bolton Wanderers,Portsmouth,2-1
--,Derby County,Portsmouth,2-0
--,Grimsby Town,Preston North End,2-0
--,Leeds United,Sheffield United,0-1
--,Preston North End,Sheffield United,0-0
--,Middlesbrough,Stoke City,2-2
--,Arsenal,Sunderland,5-2
--,Blackpool,Wolverhampton Wanderers,2-1
--,Grimsby Town,Wolverhampton Wanderers,0-0
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Wolverhampton Wanderers,Arsenal,2-2,-
+-,-,Derby County,Aston Villa,1-0,-
+-,-,Arsenal,Blackburn Rovers,1-0,-
+-,-,Portsmouth,Blackburn Rovers,2-1,-
+-,-,Huddersfield Town,Blackpool,0-1,-
+-,-,Chelsea,Bolton Wanderers,3-2,-
+-,-,Stoke City,Bolton Wanderers,1-2,-
+-,-,Blackpool,Brentford,2-1,-
+-,-,Everton,Brentford,1-1,-
+-,-,Leeds United,Charlton Athletic,0-1,-
+-,-,Stoke City,Charlton Athletic,4-0,-
+-,-,Liverpool,Chelsea,1-0,-
+-,-,Sunderland,Derby County,3-0,-
+-,-,Aston Villa,Everton,1-2,-
+-,-,Blackburn Rovers,Everton,2-2,-
+-,-,Manchester United,Grimsby Town,4-0,-
+-,-,Brentford,Huddersfield Town,1-0,-
+-,-,Sunderland,Huddersfield Town,1-2,-
+-,-,Preston North End,Leeds United,0-0,-
+-,-,Sheffield United,Liverpool,2-1,-
+-,-,Charlton Athletic,Manchester United,2-0,-
+-,-,Chelsea,Manchester United,1-1,-
+-,-,Aston Villa,Middlesbrough,2-0,-
+-,-,Liverpool,Middlesbrough,4-1,-
+-,-,Bolton Wanderers,Portsmouth,2-1,-
+-,-,Derby County,Portsmouth,2-0,-
+-,-,Grimsby Town,Preston North End,2-0,-
+-,-,Leeds United,Sheffield United,0-1,-
+-,-,Preston North End,Sheffield United,0-0,-
+-,-,Middlesbrough,Stoke City,2-2,-
+-,-,Arsenal,Sunderland,5-2,-
+-,-,Blackpool,Wolverhampton Wanderers,2-1,-
+-,-,Grimsby Town,Wolverhampton Wanderers,0-0,-

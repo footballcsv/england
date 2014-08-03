@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Blackburn Rovers,Birmingham City,3-0
--,Brentford,Birmingham City,2-0
--,Bristol Rovers,Birmingham City,1-1
--,Bury,Birmingham City,1-1
--,Derby County,Birmingham City,2-4
--,Doncaster Rovers,Birmingham City,3-1
--,Everton,Birmingham City,1-0
--,Fulham,Birmingham City,5-2
--,Hull City,Birmingham City,3-0
--,Leeds United,Birmingham City,1-1
--,Leicester City,Birmingham City,3-4
--,Lincoln City,Birmingham City,0-1
--,Luton Town,Birmingham City,2-0
--,Nottingham Forest,Birmingham City,1-1
--,Notts County,Birmingham City,2-1
--,Oldham Athletic,Birmingham City,2-3
--,Plymouth Argyle,Birmingham City,2-2
--,Rotherham United,Birmingham City,1-0
--,Stoke City,Birmingham City,3-2
--,Swansea City,Birmingham City,1-3
--,West Ham United,Birmingham City,1-2
--,Birmingham City,Blackburn Rovers,0-0
--,Brentford,Blackburn Rovers,1-4
--,Bristol Rovers,Blackburn Rovers,1-2
--,Bury,Blackburn Rovers,0-0
--,Derby County,Blackburn Rovers,2-2
--,Doncaster Rovers,Blackburn Rovers,0-2
--,Everton,Blackburn Rovers,1-1
--,Fulham,Blackburn Rovers,2-3
--,Hull City,Blackburn Rovers,0-2
--,Leeds United,Blackburn Rovers,3-2
--,Leicester City,Blackburn Rovers,4-0
--,Lincoln City,Blackburn Rovers,8-0
--,Luton Town,Blackburn Rovers,2-1
--,Nottingham Forest,Blackburn Rovers,0-1
--,Notts County,Blackburn Rovers,0-5
--,Oldham Athletic,Blackburn Rovers,1-0
--,Plymouth Argyle,Blackburn Rovers,1-1
--,Rotherham United,Blackburn Rovers,1-4
--,Stoke City,Blackburn Rovers,3-0
--,Swansea City,Blackburn Rovers,2-1
--,West Ham United,Blackburn Rovers,2-1
--,Birmingham City,Brentford,5-1
--,Blackburn Rovers,Brentford,2-2
--,Bristol Rovers,Brentford,0-0
--,Bury,Brentford,1-1
--,Derby County,Brentford,4-1
--,Doncaster Rovers,Brentford,3-0
--,Everton,Brentford,6-1
--,Fulham,Brentford,4-1
--,Hull City,Brentford,2-0
--,Leeds United,Brentford,4-0
--,Leicester City,Brentford,6-0
--,Lincoln City,Brentford,2-1
--,Luton Town,Brentford,1-1
--,Nottingham Forest,Brentford,2-1
--,Notts County,Brentford,2-0
--,Oldham Athletic,Brentford,2-0
--,Plymouth Argyle,Brentford,3-2
--,Rotherham United,Brentford,1-1
--,Stoke City,Brentford,1-1
--,Swansea City,Brentford,1-0
--,West Ham United,Brentford,0-1
--,Birmingham City,Bristol Rovers,1-1
--,Blackburn Rovers,Bristol Rovers,1-1
--,Brentford,Bristol Rovers,0-3
--,Bury,Bristol Rovers,3-1
--,Derby County,Bristol Rovers,0-1
--,Doncaster Rovers,Bristol Rovers,1-0
--,Everton,Bristol Rovers,4-0
--,Fulham,Bristol Rovers,4-4
--,Hull City,Bristol Rovers,4-1
--,Leeds United,Bristol Rovers,3-3
--,Leicester City,Bristol Rovers,1-0
--,Lincoln City,Bristol Rovers,1-2
--,Luton Town,Bristol Rovers,1-1
--,Nottingham Forest,Bristol Rovers,3-1
--,Notts County,Bristol Rovers,1-5
--,Oldham Athletic,Bristol Rovers,0-0
--,Plymouth Argyle,Bristol Rovers,3-3
--,Rotherham United,Bristol Rovers,1-1
--,Stoke City,Bristol Rovers,3-2
--,Swansea City,Bristol Rovers,3-1
--,West Ham United,Bristol Rovers,1-1
--,Birmingham City,Bury,0-0
--,Blackburn Rovers,Bury,4-2
--,Brentford,Bury,2-1
--,Bristol Rovers,Bury,2-0
--,Derby County,Bury,3-1
--,Doncaster Rovers,Bury,0-1
--,Everton,Bury,0-0
--,Fulham,Bury,3-0
--,Hull City,Bury,3-0
--,Leeds United,Bury,3-4
--,Leicester City,Bury,2-0
--,Lincoln City,Bury,0-0
--,Luton Town,Bury,3-2
--,Nottingham Forest,Bury,2-2
--,Notts County,Bury,0-0
--,Oldham Athletic,Bury,0-0
--,Plymouth Argyle,Bury,1-1
--,Rotherham United,Bury,1-0
--,Stoke City,Bury,4-0
--,Swansea City,Bury,2-1
--,West Ham United,Bury,5-0
--,Birmingham City,Derby County,3-0
--,Blackburn Rovers,Derby County,0-3
--,Brentford,Derby County,0-0
--,Bristol Rovers,Derby County,3-0
--,Bury,Derby County,4-0
--,Doncaster Rovers,Derby County,1-3
--,Everton,Derby County,3-2
--,Fulham,Derby County,5-2
--,Hull City,Derby County,3-0
--,Leeds United,Derby County,3-1
--,Leicester City,Derby County,2-2
--,Lincoln City,Derby County,2-2
--,Luton Town,Derby County,2-1
--,Nottingham Forest,Derby County,4-2
--,Notts County,Derby County,0-1
--,Oldham Athletic,Derby County,0-0
--,Plymouth Argyle,Derby County,3-2
--,Rotherham United,Derby County,5-2
--,Stoke City,Derby County,2-2
--,Swansea City,Derby County,2-1
--,West Ham United,Derby County,0-0
--,Birmingham City,Doncaster Rovers,0-1
--,Blackburn Rovers,Doncaster Rovers,2-0
--,Brentford,Doncaster Rovers,1-4
--,Bristol Rovers,Doncaster Rovers,0-1
--,Bury,Doncaster Rovers,2-1
--,Derby County,Doncaster Rovers,2-0
--,Everton,Doncaster Rovers,4-1
--,Fulham,Doncaster Rovers,1-2
--,Hull City,Doncaster Rovers,3-1
--,Leeds United,Doncaster Rovers,3-1
--,Leicester City,Doncaster Rovers,2-0
--,Lincoln City,Doncaster Rovers,0-2
--,Luton Town,Doncaster Rovers,2-0
--,Nottingham Forest,Doncaster Rovers,2-2
--,Notts County,Doncaster Rovers,1-5
--,Oldham Athletic,Doncaster Rovers,2-2
--,Plymouth Argyle,Doncaster Rovers,0-0
--,Rotherham United,Doncaster Rovers,4-0
--,Stoke City,Doncaster Rovers,2-2
--,Swansea City,Doncaster Rovers,0-1
--,West Ham United,Doncaster Rovers,2-1
--,Birmingham City,Everton,5-1
--,Blackburn Rovers,Everton,0-0
--,Brentford,Everton,1-0
--,Bristol Rovers,Everton,0-0
--,Bury,Everton,2-2
--,Derby County,Everton,2-6
--,Doncaster Rovers,Everton,2-2
--,Fulham,Everton,0-0
--,Hull City,Everton,1-3
--,Leeds United,Everton,3-1
--,Leicester City,Everton,2-2
--,Lincoln City,Everton,1-1
--,Luton Town,Everton,1-1
--,Nottingham Forest,Everton,3-3
--,Notts County,Everton,0-2
--,Oldham Athletic,Everton,0-4
--,Plymouth Argyle,Everton,4-0
--,Rotherham United,Everton,1-2
--,Stoke City,Everton,2-4
--,Swansea City,Everton,0-2
--,West Ham United,Everton,1-1
--,Birmingham City,Fulham,2-2
--,Blackburn Rovers,Fulham,5-1
--,Brentford,Fulham,2-1
--,Bristol Rovers,Fulham,2-1
--,Bury,Fulham,1-3
--,Derby County,Fulham,3-3
--,Doncaster Rovers,Fulham,2-2
--,Everton,Fulham,2-2
--,Hull City,Fulham,2-1
--,Leeds United,Fulham,1-2
--,Leicester City,Fulham,2-2
--,Lincoln City,Fulham,4-2
--,Luton Town,Fulham,1-2
--,Nottingham Forest,Fulham,4-1
--,Notts County,Fulham,0-0
--,Oldham Athletic,Fulham,2-3
--,Plymouth Argyle,Fulham,2-2
--,Rotherham United,Fulham,3-2
--,Stoke City,Fulham,1-3
--,Swansea City,Fulham,2-0
--,West Ham United,Fulham,3-1
--,Birmingham City,Hull City,2-0
--,Blackburn Rovers,Hull City,3-1
--,Brentford,Hull City,2-2
--,Bristol Rovers,Hull City,4-2
--,Bury,Hull City,3-0
--,Derby County,Hull City,2-0
--,Doncaster Rovers,Hull City,4-1
--,Everton,Hull City,2-0
--,Fulham,Hull City,5-1
--,Leeds United,Hull City,0-0
--,Leicester City,Hull City,1-3
--,Lincoln City,Hull City,3-0
--,Luton Town,Hull City,3-1
--,Nottingham Forest,Hull City,2-0
--,Notts County,Hull City,1-1
--,Oldham Athletic,Hull City,0-0
--,Plymouth Argyle,Hull City,2-2
--,Rotherham United,Hull City,3-2
--,Stoke City,Hull City,0-1
--,Swansea City,Hull City,1-0
--,West Ham United,Hull City,1-0
--,Birmingham City,Leeds United,3-3
--,Blackburn Rovers,Leeds United,2-2
--,Brentford,Leeds United,2-1
--,Bristol Rovers,Leeds United,1-1
--,Bury,Leeds United,4-4
--,Derby County,Leeds United,0-2
--,Doncaster Rovers,Leeds United,0-0
--,Everton,Leeds United,2-1
--,Fulham,Leeds United,1-3
--,Hull City,Leeds United,1-1
--,Leicester City,Leeds United,5-0
--,Lincoln City,Leeds United,2-0
--,Luton Town,Leeds United,1-1
--,Nottingham Forest,Leeds United,5-2
--,Notts County,Leeds United,2-0
--,Oldham Athletic,Leeds United,4-2
--,Plymouth Argyle,Leeds United,1-1
--,Rotherham United,Leeds United,2-4
--,Stoke City,Leeds United,4-0
--,Swansea City,Leeds United,4-3
--,West Ham United,Leeds United,5-2
--,Birmingham City,Leicester City,1-2
--,Blackburn Rovers,Leicester City,3-0
--,Brentford,Leicester City,1-3
--,Bristol Rovers,Leicester City,3-0
--,Bury,Leicester City,2-5
--,Derby County,Leicester City,2-1
--,Doncaster Rovers,Leicester City,0-2
--,Everton,Leicester City,1-2
--,Fulham,Leicester City,1-1
--,Hull City,Leicester City,0-3
--,Leeds United,Leicester City,7-1
--,Lincoln City,Leicester City,3-1
--,Luton Town,Leicester City,2-2
--,Nottingham Forest,Leicester City,3-1
--,Notts County,Leicester City,1-1
--,Oldham Athletic,Leicester City,0-2
--,Plymouth Argyle,Leicester City,0-3
--,Rotherham United,Leicester City,1-1
--,Stoke City,Leicester City,2-2
--,Swansea City,Leicester City,0-0
--,West Ham United,Leicester City,4-1
--,Birmingham City,Lincoln City,1-0
--,Blackburn Rovers,Lincoln City,6-0
--,Brentford,Lincoln City,0-1
--,Bristol Rovers,Lincoln City,0-1
--,Bury,Lincoln City,1-1
--,Derby County,Lincoln City,2-0
--,Doncaster Rovers,Lincoln City,1-1
--,Everton,Lincoln City,3-1
--,Fulham,Lincoln City,4-1
--,Hull City,Lincoln City,3-0
--,Leeds United,Lincoln City,5-2
--,Leicester City,Lincoln City,9-2
--,Luton Town,Lincoln City,1-0
--,Nottingham Forest,Lincoln City,4-2
--,Notts County,Lincoln City,1-1
--,Oldham Athletic,Lincoln City,1-0
--,Plymouth Argyle,Lincoln City,1-2
--,Rotherham United,Lincoln City,4-1
--,Stoke City,Lincoln City,4-1
--,Swansea City,Lincoln City,4-2
--,West Ham United,Lincoln City,5-0
--,Birmingham City,Luton Town,5-1
--,Blackburn Rovers,Luton Town,2-0
--,Brentford,Luton Town,0-1
--,Bristol Rovers,Luton Town,3-3
--,Bury,Luton Town,0-1
--,Derby County,Luton Town,1-2
--,Doncaster Rovers,Luton Town,1-3
--,Everton,Luton Town,2-1
--,Fulham,Luton Town,5-1
--,Hull City,Luton Town,1-2
--,Leeds United,Luton Town,2-1
--,Leicester City,Luton Town,2-1
--,Lincoln City,Luton Town,1-1
--,Nottingham Forest,Luton Town,2-1
--,Notts County,Luton Town,1-2
--,Oldham Athletic,Luton Town,1-2
--,Plymouth Argyle,Luton Town,2-2
--,Rotherham United,Luton Town,2-1
--,Stoke City,Luton Town,1-1
--,Swansea City,Luton Town,1-1
--,West Ham United,Luton Town,1-0
--,Birmingham City,Nottingham Forest,2-2
--,Blackburn Rovers,Nottingham Forest,2-0
--,Brentford,Nottingham Forest,1-1
--,Bristol Rovers,Nottingham Forest,1-0
--,Bury,Nottingham Forest,2-1
--,Derby County,Nottingham Forest,1-2
--,Doncaster Rovers,Nottingham Forest,1-3
--,Everton,Nottingham Forest,3-3
--,Fulham,Nottingham Forest,3-1
--,Hull City,Nottingham Forest,3-0
--,Leeds United,Nottingham Forest,0-2
--,Leicester City,Nottingham Forest,1-0
--,Lincoln City,Nottingham Forest,2-2
--,Luton Town,Nottingham Forest,0-1
--,Notts County,Nottingham Forest,1-1
--,Oldham Athletic,Nottingham Forest,1-3
--,Plymouth Argyle,Nottingham Forest,1-0
--,Rotherham United,Nottingham Forest,3-0
--,Stoke City,Nottingham Forest,1-1
--,Swansea City,Nottingham Forest,2-1
--,West Ham United,Nottingham Forest,1-1
--,Birmingham City,Notts County,3-0
--,Blackburn Rovers,Notts County,2-0
--,Brentford,Notts County,0-0
--,Bristol Rovers,Notts County,1-1
--,Bury,Notts County,3-3
--,Derby County,Notts County,0-0
--,Doncaster Rovers,Notts County,4-2
--,Everton,Notts County,3-2
--,Fulham,Notts County,4-3
--,Hull City,Notts County,0-2
--,Leeds United,Notts County,6-0
--,Leicester City,Notts County,2-2
--,Lincoln City,Notts County,3-0
--,Luton Town,Notts County,2-1
--,Nottingham Forest,Notts County,5-0
--,Oldham Athletic,Notts County,1-3
--,Plymouth Argyle,Notts County,3-3
--,Rotherham United,Notts County,0-1
--,Stoke City,Notts County,0-1
--,Swansea City,Notts County,2-2
--,West Ham United,Notts County,1-2
--,Birmingham City,Oldham Athletic,2-1
--,Blackburn Rovers,Oldham Athletic,4-0
--,Brentford,Oldham Athletic,3-1
--,Bristol Rovers,Oldham Athletic,1-0
--,Bury,Oldham Athletic,1-0
--,Derby County,Oldham Athletic,3-1
--,Doncaster Rovers,Oldham Athletic,1-0
--,Everton,Oldham Athletic,3-1
--,Fulham,Oldham Athletic,3-1
--,Hull City,Oldham Athletic,8-0
--,Leeds United,Oldham Athletic,2-1
--,Leicester City,Oldham Athletic,1-0
--,Lincoln City,Oldham Athletic,3-1
--,Luton Town,Oldham Athletic,4-4
--,Nottingham Forest,Oldham Athletic,1-1
--,Notts County,Oldham Athletic,2-0
--,Plymouth Argyle,Oldham Athletic,5-0
--,Rotherham United,Oldham Athletic,7-0
--,Stoke City,Oldham Athletic,0-1
--,Swansea City,Oldham Athletic,4-0
--,West Ham United,Oldham Athletic,0-1
--,Birmingham City,Plymouth Argyle,3-0
--,Blackburn Rovers,Plymouth Argyle,2-3
--,Brentford,Plymouth Argyle,1-0
--,Bristol Rovers,Plymouth Argyle,3-1
--,Bury,Plymouth Argyle,3-0
--,Derby County,Plymouth Argyle,1-4
--,Doncaster Rovers,Plymouth Argyle,3-3
--,Everton,Plymouth Argyle,8-4
--,Fulham,Plymouth Argyle,3-1
--,Hull City,Plymouth Argyle,2-0
--,Leeds United,Plymouth Argyle,1-1
--,Leicester City,Plymouth Argyle,4-2
--,Lincoln City,Plymouth Argyle,2-0
--,Luton Town,Plymouth Argyle,2-1
--,Nottingham Forest,Plymouth Argyle,3-0
--,Notts County,Plymouth Argyle,2-0
--,Oldham Athletic,Plymouth Argyle,1-1
--,Rotherham United,Plymouth Argyle,2-1
--,Stoke City,Plymouth Argyle,3-2
--,Swansea City,Plymouth Argyle,0-1
--,West Ham United,Plymouth Argyle,2-2
--,Birmingham City,Rotherham United,2-3
--,Blackburn Rovers,Rotherham United,3-0
--,Brentford,Rotherham United,0-1
--,Bristol Rovers,Rotherham United,1-0
--,Bury,Rotherham United,3-0
--,Derby County,Rotherham United,1-1
--,Doncaster Rovers,Rotherham United,1-2
--,Everton,Rotherham United,3-0
--,Fulham,Rotherham United,2-4
--,Hull City,Rotherham United,1-0
--,Leeds United,Rotherham United,4-2
--,Leicester City,Rotherham United,4-1
--,Lincoln City,Rotherham United,4-3
--,Luton Town,Rotherham United,1-1
--,Nottingham Forest,Rotherham United,4-1
--,Notts County,Rotherham United,1-2
--,Oldham Athletic,Rotherham United,2-3
--,Plymouth Argyle,Rotherham United,0-2
--,Stoke City,Rotherham United,1-1
--,Swansea City,Rotherham United,0-2
--,West Ham United,Rotherham United,3-0
--,Birmingham City,Stoke City,1-0
--,Blackburn Rovers,Stoke City,3-0
--,Brentford,Stoke City,0-0
--,Bristol Rovers,Stoke City,3-2
--,Bury,Stoke City,0-6
--,Derby County,Stoke City,1-1
--,Doncaster Rovers,Stoke City,1-0
--,Everton,Stoke City,1-1
--,Fulham,Stoke City,0-1
--,Hull City,Stoke City,1-2
--,Leeds United,Stoke City,1-1
--,Leicester City,Stoke City,4-0
--,Lincoln City,Stoke City,1-1
--,Luton Town,Stoke City,0-1
--,Nottingham Forest,Stoke City,5-4
--,Notts County,Stoke City,2-1
--,Oldham Athletic,Stoke City,1-0
--,Plymouth Argyle,Stoke City,1-1
--,Rotherham United,Stoke City,2-2
--,Swansea City,Stoke City,2-2
--,West Ham United,Stoke City,2-2
--,Birmingham City,Swansea City,6-0
--,Blackburn Rovers,Swansea City,1-0
--,Brentford,Swansea City,3-1
--,Bristol Rovers,Swansea City,0-1
--,Bury,Swansea City,1-2
--,Derby County,Swansea City,4-2
--,Doncaster Rovers,Swansea City,1-0
--,Everton,Swansea City,2-2
--,Fulham,Swansea City,4-3
--,Hull City,Swansea City,4-3
--,Leeds United,Swansea City,3-2
--,Leicester City,Swansea City,4-1
--,Lincoln City,Swansea City,3-1
--,Luton Town,Swansea City,2-0
--,Nottingham Forest,Swansea City,2-1
--,Notts County,Swansea City,3-0
--,Oldham Athletic,Swansea City,2-2
--,Plymouth Argyle,Swansea City,1-1
--,Rotherham United,Swansea City,2-1
--,Stoke City,Swansea City,5-0
--,West Ham United,Swansea City,4-1
--,Birmingham City,West Ham United,2-0
--,Blackburn Rovers,West Ham United,4-1
--,Brentford,West Ham United,3-1
--,Bristol Rovers,West Ham United,2-2
--,Bury,West Ham United,2-0
--,Derby County,West Ham United,2-1
--,Doncaster Rovers,West Ham United,2-0
--,Everton,West Ham United,1-2
--,Fulham,West Ham United,3-4
--,Hull City,West Ham United,2-1
--,Leeds United,West Ham United,1-2
--,Leicester City,West Ham United,2-1
--,Lincoln City,West Ham United,1-2
--,Luton Town,West Ham United,3-1
--,Nottingham Forest,West Ham United,4-0
--,Notts County,West Ham United,3-1
--,Oldham Athletic,West Ham United,3-1
--,Plymouth Argyle,West Ham United,2-1
--,Rotherham United,West Ham United,5-0
--,Stoke City,West Ham United,1-1
--,Swansea City,West Ham United,1-1
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Blackburn Rovers,Birmingham City,3-0,-
+-,-,Brentford,Birmingham City,2-0,-
+-,-,Bristol Rovers,Birmingham City,1-1,-
+-,-,Bury,Birmingham City,1-1,-
+-,-,Derby County,Birmingham City,2-4,-
+-,-,Doncaster Rovers,Birmingham City,3-1,-
+-,-,Everton,Birmingham City,1-0,-
+-,-,Fulham,Birmingham City,5-2,-
+-,-,Hull City,Birmingham City,3-0,-
+-,-,Leeds United,Birmingham City,1-1,-
+-,-,Leicester City,Birmingham City,3-4,-
+-,-,Lincoln City,Birmingham City,0-1,-
+-,-,Luton Town,Birmingham City,2-0,-
+-,-,Nottingham Forest,Birmingham City,1-1,-
+-,-,Notts County,Birmingham City,2-1,-
+-,-,Oldham Athletic,Birmingham City,2-3,-
+-,-,Plymouth Argyle,Birmingham City,2-2,-
+-,-,Rotherham United,Birmingham City,1-0,-
+-,-,Stoke City,Birmingham City,3-2,-
+-,-,Swansea City,Birmingham City,1-3,-
+-,-,West Ham United,Birmingham City,1-2,-
+-,-,Birmingham City,Blackburn Rovers,0-0,-
+-,-,Brentford,Blackburn Rovers,1-4,-
+-,-,Bristol Rovers,Blackburn Rovers,1-2,-
+-,-,Bury,Blackburn Rovers,0-0,-
+-,-,Derby County,Blackburn Rovers,2-2,-
+-,-,Doncaster Rovers,Blackburn Rovers,0-2,-
+-,-,Everton,Blackburn Rovers,1-1,-
+-,-,Fulham,Blackburn Rovers,2-3,-
+-,-,Hull City,Blackburn Rovers,0-2,-
+-,-,Leeds United,Blackburn Rovers,3-2,-
+-,-,Leicester City,Blackburn Rovers,4-0,-
+-,-,Lincoln City,Blackburn Rovers,8-0,-
+-,-,Luton Town,Blackburn Rovers,2-1,-
+-,-,Nottingham Forest,Blackburn Rovers,0-1,-
+-,-,Notts County,Blackburn Rovers,0-5,-
+-,-,Oldham Athletic,Blackburn Rovers,1-0,-
+-,-,Plymouth Argyle,Blackburn Rovers,1-1,-
+-,-,Rotherham United,Blackburn Rovers,1-4,-
+-,-,Stoke City,Blackburn Rovers,3-0,-
+-,-,Swansea City,Blackburn Rovers,2-1,-
+-,-,West Ham United,Blackburn Rovers,2-1,-
+-,-,Birmingham City,Brentford,5-1,-
+-,-,Blackburn Rovers,Brentford,2-2,-
+-,-,Bristol Rovers,Brentford,0-0,-
+-,-,Bury,Brentford,1-1,-
+-,-,Derby County,Brentford,4-1,-
+-,-,Doncaster Rovers,Brentford,3-0,-
+-,-,Everton,Brentford,6-1,-
+-,-,Fulham,Brentford,4-1,-
+-,-,Hull City,Brentford,2-0,-
+-,-,Leeds United,Brentford,4-0,-
+-,-,Leicester City,Brentford,6-0,-
+-,-,Lincoln City,Brentford,2-1,-
+-,-,Luton Town,Brentford,1-1,-
+-,-,Nottingham Forest,Brentford,2-1,-
+-,-,Notts County,Brentford,2-0,-
+-,-,Oldham Athletic,Brentford,2-0,-
+-,-,Plymouth Argyle,Brentford,3-2,-
+-,-,Rotherham United,Brentford,1-1,-
+-,-,Stoke City,Brentford,1-1,-
+-,-,Swansea City,Brentford,1-0,-
+-,-,West Ham United,Brentford,0-1,-
+-,-,Birmingham City,Bristol Rovers,1-1,-
+-,-,Blackburn Rovers,Bristol Rovers,1-1,-
+-,-,Brentford,Bristol Rovers,0-3,-
+-,-,Bury,Bristol Rovers,3-1,-
+-,-,Derby County,Bristol Rovers,0-1,-
+-,-,Doncaster Rovers,Bristol Rovers,1-0,-
+-,-,Everton,Bristol Rovers,4-0,-
+-,-,Fulham,Bristol Rovers,4-4,-
+-,-,Hull City,Bristol Rovers,4-1,-
+-,-,Leeds United,Bristol Rovers,3-3,-
+-,-,Leicester City,Bristol Rovers,1-0,-
+-,-,Lincoln City,Bristol Rovers,1-2,-
+-,-,Luton Town,Bristol Rovers,1-1,-
+-,-,Nottingham Forest,Bristol Rovers,3-1,-
+-,-,Notts County,Bristol Rovers,1-5,-
+-,-,Oldham Athletic,Bristol Rovers,0-0,-
+-,-,Plymouth Argyle,Bristol Rovers,3-3,-
+-,-,Rotherham United,Bristol Rovers,1-1,-
+-,-,Stoke City,Bristol Rovers,3-2,-
+-,-,Swansea City,Bristol Rovers,3-1,-
+-,-,West Ham United,Bristol Rovers,1-1,-
+-,-,Birmingham City,Bury,0-0,-
+-,-,Blackburn Rovers,Bury,4-2,-
+-,-,Brentford,Bury,2-1,-
+-,-,Bristol Rovers,Bury,2-0,-
+-,-,Derby County,Bury,3-1,-
+-,-,Doncaster Rovers,Bury,0-1,-
+-,-,Everton,Bury,0-0,-
+-,-,Fulham,Bury,3-0,-
+-,-,Hull City,Bury,3-0,-
+-,-,Leeds United,Bury,3-4,-
+-,-,Leicester City,Bury,2-0,-
+-,-,Lincoln City,Bury,0-0,-
+-,-,Luton Town,Bury,3-2,-
+-,-,Nottingham Forest,Bury,2-2,-
+-,-,Notts County,Bury,0-0,-
+-,-,Oldham Athletic,Bury,0-0,-
+-,-,Plymouth Argyle,Bury,1-1,-
+-,-,Rotherham United,Bury,1-0,-
+-,-,Stoke City,Bury,4-0,-
+-,-,Swansea City,Bury,2-1,-
+-,-,West Ham United,Bury,5-0,-
+-,-,Birmingham City,Derby County,3-0,-
+-,-,Blackburn Rovers,Derby County,0-3,-
+-,-,Brentford,Derby County,0-0,-
+-,-,Bristol Rovers,Derby County,3-0,-
+-,-,Bury,Derby County,4-0,-
+-,-,Doncaster Rovers,Derby County,1-3,-
+-,-,Everton,Derby County,3-2,-
+-,-,Fulham,Derby County,5-2,-
+-,-,Hull City,Derby County,3-0,-
+-,-,Leeds United,Derby County,3-1,-
+-,-,Leicester City,Derby County,2-2,-
+-,-,Lincoln City,Derby County,2-2,-
+-,-,Luton Town,Derby County,2-1,-
+-,-,Nottingham Forest,Derby County,4-2,-
+-,-,Notts County,Derby County,0-1,-
+-,-,Oldham Athletic,Derby County,0-0,-
+-,-,Plymouth Argyle,Derby County,3-2,-
+-,-,Rotherham United,Derby County,5-2,-
+-,-,Stoke City,Derby County,2-2,-
+-,-,Swansea City,Derby County,2-1,-
+-,-,West Ham United,Derby County,0-0,-
+-,-,Birmingham City,Doncaster Rovers,0-1,-
+-,-,Blackburn Rovers,Doncaster Rovers,2-0,-
+-,-,Brentford,Doncaster Rovers,1-4,-
+-,-,Bristol Rovers,Doncaster Rovers,0-1,-
+-,-,Bury,Doncaster Rovers,2-1,-
+-,-,Derby County,Doncaster Rovers,2-0,-
+-,-,Everton,Doncaster Rovers,4-1,-
+-,-,Fulham,Doncaster Rovers,1-2,-
+-,-,Hull City,Doncaster Rovers,3-1,-
+-,-,Leeds United,Doncaster Rovers,3-1,-
+-,-,Leicester City,Doncaster Rovers,2-0,-
+-,-,Lincoln City,Doncaster Rovers,0-2,-
+-,-,Luton Town,Doncaster Rovers,2-0,-
+-,-,Nottingham Forest,Doncaster Rovers,2-2,-
+-,-,Notts County,Doncaster Rovers,1-5,-
+-,-,Oldham Athletic,Doncaster Rovers,2-2,-
+-,-,Plymouth Argyle,Doncaster Rovers,0-0,-
+-,-,Rotherham United,Doncaster Rovers,4-0,-
+-,-,Stoke City,Doncaster Rovers,2-2,-
+-,-,Swansea City,Doncaster Rovers,0-1,-
+-,-,West Ham United,Doncaster Rovers,2-1,-
+-,-,Birmingham City,Everton,5-1,-
+-,-,Blackburn Rovers,Everton,0-0,-
+-,-,Brentford,Everton,1-0,-
+-,-,Bristol Rovers,Everton,0-0,-
+-,-,Bury,Everton,2-2,-
+-,-,Derby County,Everton,2-6,-
+-,-,Doncaster Rovers,Everton,2-2,-
+-,-,Fulham,Everton,0-0,-
+-,-,Hull City,Everton,1-3,-
+-,-,Leeds United,Everton,3-1,-
+-,-,Leicester City,Everton,2-2,-
+-,-,Lincoln City,Everton,1-1,-
+-,-,Luton Town,Everton,1-1,-
+-,-,Nottingham Forest,Everton,3-3,-
+-,-,Notts County,Everton,0-2,-
+-,-,Oldham Athletic,Everton,0-4,-
+-,-,Plymouth Argyle,Everton,4-0,-
+-,-,Rotherham United,Everton,1-2,-
+-,-,Stoke City,Everton,2-4,-
+-,-,Swansea City,Everton,0-2,-
+-,-,West Ham United,Everton,1-1,-
+-,-,Birmingham City,Fulham,2-2,-
+-,-,Blackburn Rovers,Fulham,5-1,-
+-,-,Brentford,Fulham,2-1,-
+-,-,Bristol Rovers,Fulham,2-1,-
+-,-,Bury,Fulham,1-3,-
+-,-,Derby County,Fulham,3-3,-
+-,-,Doncaster Rovers,Fulham,2-2,-
+-,-,Everton,Fulham,2-2,-
+-,-,Hull City,Fulham,2-1,-
+-,-,Leeds United,Fulham,1-2,-
+-,-,Leicester City,Fulham,2-2,-
+-,-,Lincoln City,Fulham,4-2,-
+-,-,Luton Town,Fulham,1-2,-
+-,-,Nottingham Forest,Fulham,4-1,-
+-,-,Notts County,Fulham,0-0,-
+-,-,Oldham Athletic,Fulham,2-3,-
+-,-,Plymouth Argyle,Fulham,2-2,-
+-,-,Rotherham United,Fulham,3-2,-
+-,-,Stoke City,Fulham,1-3,-
+-,-,Swansea City,Fulham,2-0,-
+-,-,West Ham United,Fulham,3-1,-
+-,-,Birmingham City,Hull City,2-0,-
+-,-,Blackburn Rovers,Hull City,3-1,-
+-,-,Brentford,Hull City,2-2,-
+-,-,Bristol Rovers,Hull City,4-2,-
+-,-,Bury,Hull City,3-0,-
+-,-,Derby County,Hull City,2-0,-
+-,-,Doncaster Rovers,Hull City,4-1,-
+-,-,Everton,Hull City,2-0,-
+-,-,Fulham,Hull City,5-1,-
+-,-,Leeds United,Hull City,0-0,-
+-,-,Leicester City,Hull City,1-3,-
+-,-,Lincoln City,Hull City,3-0,-
+-,-,Luton Town,Hull City,3-1,-
+-,-,Nottingham Forest,Hull City,2-0,-
+-,-,Notts County,Hull City,1-1,-
+-,-,Oldham Athletic,Hull City,0-0,-
+-,-,Plymouth Argyle,Hull City,2-2,-
+-,-,Rotherham United,Hull City,3-2,-
+-,-,Stoke City,Hull City,0-1,-
+-,-,Swansea City,Hull City,1-0,-
+-,-,West Ham United,Hull City,1-0,-
+-,-,Birmingham City,Leeds United,3-3,-
+-,-,Blackburn Rovers,Leeds United,2-2,-
+-,-,Brentford,Leeds United,2-1,-
+-,-,Bristol Rovers,Leeds United,1-1,-
+-,-,Bury,Leeds United,4-4,-
+-,-,Derby County,Leeds United,0-2,-
+-,-,Doncaster Rovers,Leeds United,0-0,-
+-,-,Everton,Leeds United,2-1,-
+-,-,Fulham,Leeds United,1-3,-
+-,-,Hull City,Leeds United,1-1,-
+-,-,Leicester City,Leeds United,5-0,-
+-,-,Lincoln City,Leeds United,2-0,-
+-,-,Luton Town,Leeds United,1-1,-
+-,-,Nottingham Forest,Leeds United,5-2,-
+-,-,Notts County,Leeds United,2-0,-
+-,-,Oldham Athletic,Leeds United,4-2,-
+-,-,Plymouth Argyle,Leeds United,1-1,-
+-,-,Rotherham United,Leeds United,2-4,-
+-,-,Stoke City,Leeds United,4-0,-
+-,-,Swansea City,Leeds United,4-3,-
+-,-,West Ham United,Leeds United,5-2,-
+-,-,Birmingham City,Leicester City,1-2,-
+-,-,Blackburn Rovers,Leicester City,3-0,-
+-,-,Brentford,Leicester City,1-3,-
+-,-,Bristol Rovers,Leicester City,3-0,-
+-,-,Bury,Leicester City,2-5,-
+-,-,Derby County,Leicester City,2-1,-
+-,-,Doncaster Rovers,Leicester City,0-2,-
+-,-,Everton,Leicester City,1-2,-
+-,-,Fulham,Leicester City,1-1,-
+-,-,Hull City,Leicester City,0-3,-
+-,-,Leeds United,Leicester City,7-1,-
+-,-,Lincoln City,Leicester City,3-1,-
+-,-,Luton Town,Leicester City,2-2,-
+-,-,Nottingham Forest,Leicester City,3-1,-
+-,-,Notts County,Leicester City,1-1,-
+-,-,Oldham Athletic,Leicester City,0-2,-
+-,-,Plymouth Argyle,Leicester City,0-3,-
+-,-,Rotherham United,Leicester City,1-1,-
+-,-,Stoke City,Leicester City,2-2,-
+-,-,Swansea City,Leicester City,0-0,-
+-,-,West Ham United,Leicester City,4-1,-
+-,-,Birmingham City,Lincoln City,1-0,-
+-,-,Blackburn Rovers,Lincoln City,6-0,-
+-,-,Brentford,Lincoln City,0-1,-
+-,-,Bristol Rovers,Lincoln City,0-1,-
+-,-,Bury,Lincoln City,1-1,-
+-,-,Derby County,Lincoln City,2-0,-
+-,-,Doncaster Rovers,Lincoln City,1-1,-
+-,-,Everton,Lincoln City,3-1,-
+-,-,Fulham,Lincoln City,4-1,-
+-,-,Hull City,Lincoln City,3-0,-
+-,-,Leeds United,Lincoln City,5-2,-
+-,-,Leicester City,Lincoln City,9-2,-
+-,-,Luton Town,Lincoln City,1-0,-
+-,-,Nottingham Forest,Lincoln City,4-2,-
+-,-,Notts County,Lincoln City,1-1,-
+-,-,Oldham Athletic,Lincoln City,1-0,-
+-,-,Plymouth Argyle,Lincoln City,1-2,-
+-,-,Rotherham United,Lincoln City,4-1,-
+-,-,Stoke City,Lincoln City,4-1,-
+-,-,Swansea City,Lincoln City,4-2,-
+-,-,West Ham United,Lincoln City,5-0,-
+-,-,Birmingham City,Luton Town,5-1,-
+-,-,Blackburn Rovers,Luton Town,2-0,-
+-,-,Brentford,Luton Town,0-1,-
+-,-,Bristol Rovers,Luton Town,3-3,-
+-,-,Bury,Luton Town,0-1,-
+-,-,Derby County,Luton Town,1-2,-
+-,-,Doncaster Rovers,Luton Town,1-3,-
+-,-,Everton,Luton Town,2-1,-
+-,-,Fulham,Luton Town,5-1,-
+-,-,Hull City,Luton Town,1-2,-
+-,-,Leeds United,Luton Town,2-1,-
+-,-,Leicester City,Luton Town,2-1,-
+-,-,Lincoln City,Luton Town,1-1,-
+-,-,Nottingham Forest,Luton Town,2-1,-
+-,-,Notts County,Luton Town,1-2,-
+-,-,Oldham Athletic,Luton Town,1-2,-
+-,-,Plymouth Argyle,Luton Town,2-2,-
+-,-,Rotherham United,Luton Town,2-1,-
+-,-,Stoke City,Luton Town,1-1,-
+-,-,Swansea City,Luton Town,1-1,-
+-,-,West Ham United,Luton Town,1-0,-
+-,-,Birmingham City,Nottingham Forest,2-2,-
+-,-,Blackburn Rovers,Nottingham Forest,2-0,-
+-,-,Brentford,Nottingham Forest,1-1,-
+-,-,Bristol Rovers,Nottingham Forest,1-0,-
+-,-,Bury,Nottingham Forest,2-1,-
+-,-,Derby County,Nottingham Forest,1-2,-
+-,-,Doncaster Rovers,Nottingham Forest,1-3,-
+-,-,Everton,Nottingham Forest,3-3,-
+-,-,Fulham,Nottingham Forest,3-1,-
+-,-,Hull City,Nottingham Forest,3-0,-
+-,-,Leeds United,Nottingham Forest,0-2,-
+-,-,Leicester City,Nottingham Forest,1-0,-
+-,-,Lincoln City,Nottingham Forest,2-2,-
+-,-,Luton Town,Nottingham Forest,0-1,-
+-,-,Notts County,Nottingham Forest,1-1,-
+-,-,Oldham Athletic,Nottingham Forest,1-3,-
+-,-,Plymouth Argyle,Nottingham Forest,1-0,-
+-,-,Rotherham United,Nottingham Forest,3-0,-
+-,-,Stoke City,Nottingham Forest,1-1,-
+-,-,Swansea City,Nottingham Forest,2-1,-
+-,-,West Ham United,Nottingham Forest,1-1,-
+-,-,Birmingham City,Notts County,3-0,-
+-,-,Blackburn Rovers,Notts County,2-0,-
+-,-,Brentford,Notts County,0-0,-
+-,-,Bristol Rovers,Notts County,1-1,-
+-,-,Bury,Notts County,3-3,-
+-,-,Derby County,Notts County,0-0,-
+-,-,Doncaster Rovers,Notts County,4-2,-
+-,-,Everton,Notts County,3-2,-
+-,-,Fulham,Notts County,4-3,-
+-,-,Hull City,Notts County,0-2,-
+-,-,Leeds United,Notts County,6-0,-
+-,-,Leicester City,Notts County,2-2,-
+-,-,Lincoln City,Notts County,3-0,-
+-,-,Luton Town,Notts County,2-1,-
+-,-,Nottingham Forest,Notts County,5-0,-
+-,-,Oldham Athletic,Notts County,1-3,-
+-,-,Plymouth Argyle,Notts County,3-3,-
+-,-,Rotherham United,Notts County,0-1,-
+-,-,Stoke City,Notts County,0-1,-
+-,-,Swansea City,Notts County,2-2,-
+-,-,West Ham United,Notts County,1-2,-
+-,-,Birmingham City,Oldham Athletic,2-1,-
+-,-,Blackburn Rovers,Oldham Athletic,4-0,-
+-,-,Brentford,Oldham Athletic,3-1,-
+-,-,Bristol Rovers,Oldham Athletic,1-0,-
+-,-,Bury,Oldham Athletic,1-0,-
+-,-,Derby County,Oldham Athletic,3-1,-
+-,-,Doncaster Rovers,Oldham Athletic,1-0,-
+-,-,Everton,Oldham Athletic,3-1,-
+-,-,Fulham,Oldham Athletic,3-1,-
+-,-,Hull City,Oldham Athletic,8-0,-
+-,-,Leeds United,Oldham Athletic,2-1,-
+-,-,Leicester City,Oldham Athletic,1-0,-
+-,-,Lincoln City,Oldham Athletic,3-1,-
+-,-,Luton Town,Oldham Athletic,4-4,-
+-,-,Nottingham Forest,Oldham Athletic,1-1,-
+-,-,Notts County,Oldham Athletic,2-0,-
+-,-,Plymouth Argyle,Oldham Athletic,5-0,-
+-,-,Rotherham United,Oldham Athletic,7-0,-
+-,-,Stoke City,Oldham Athletic,0-1,-
+-,-,Swansea City,Oldham Athletic,4-0,-
+-,-,West Ham United,Oldham Athletic,0-1,-
+-,-,Birmingham City,Plymouth Argyle,3-0,-
+-,-,Blackburn Rovers,Plymouth Argyle,2-3,-
+-,-,Brentford,Plymouth Argyle,1-0,-
+-,-,Bristol Rovers,Plymouth Argyle,3-1,-
+-,-,Bury,Plymouth Argyle,3-0,-
+-,-,Derby County,Plymouth Argyle,1-4,-
+-,-,Doncaster Rovers,Plymouth Argyle,3-3,-
+-,-,Everton,Plymouth Argyle,8-4,-
+-,-,Fulham,Plymouth Argyle,3-1,-
+-,-,Hull City,Plymouth Argyle,2-0,-
+-,-,Leeds United,Plymouth Argyle,1-1,-
+-,-,Leicester City,Plymouth Argyle,4-2,-
+-,-,Lincoln City,Plymouth Argyle,2-0,-
+-,-,Luton Town,Plymouth Argyle,2-1,-
+-,-,Nottingham Forest,Plymouth Argyle,3-0,-
+-,-,Notts County,Plymouth Argyle,2-0,-
+-,-,Oldham Athletic,Plymouth Argyle,1-1,-
+-,-,Rotherham United,Plymouth Argyle,2-1,-
+-,-,Stoke City,Plymouth Argyle,3-2,-
+-,-,Swansea City,Plymouth Argyle,0-1,-
+-,-,West Ham United,Plymouth Argyle,2-2,-
+-,-,Birmingham City,Rotherham United,2-3,-
+-,-,Blackburn Rovers,Rotherham United,3-0,-
+-,-,Brentford,Rotherham United,0-1,-
+-,-,Bristol Rovers,Rotherham United,1-0,-
+-,-,Bury,Rotherham United,3-0,-
+-,-,Derby County,Rotherham United,1-1,-
+-,-,Doncaster Rovers,Rotherham United,1-2,-
+-,-,Everton,Rotherham United,3-0,-
+-,-,Fulham,Rotherham United,2-4,-
+-,-,Hull City,Rotherham United,1-0,-
+-,-,Leeds United,Rotherham United,4-2,-
+-,-,Leicester City,Rotherham United,4-1,-
+-,-,Lincoln City,Rotherham United,4-3,-
+-,-,Luton Town,Rotherham United,1-1,-
+-,-,Nottingham Forest,Rotherham United,4-1,-
+-,-,Notts County,Rotherham United,1-2,-
+-,-,Oldham Athletic,Rotherham United,2-3,-
+-,-,Plymouth Argyle,Rotherham United,0-2,-
+-,-,Stoke City,Rotherham United,1-1,-
+-,-,Swansea City,Rotherham United,0-2,-
+-,-,West Ham United,Rotherham United,3-0,-
+-,-,Birmingham City,Stoke City,1-0,-
+-,-,Blackburn Rovers,Stoke City,3-0,-
+-,-,Brentford,Stoke City,0-0,-
+-,-,Bristol Rovers,Stoke City,3-2,-
+-,-,Bury,Stoke City,0-6,-
+-,-,Derby County,Stoke City,1-1,-
+-,-,Doncaster Rovers,Stoke City,1-0,-
+-,-,Everton,Stoke City,1-1,-
+-,-,Fulham,Stoke City,0-1,-
+-,-,Hull City,Stoke City,1-2,-
+-,-,Leeds United,Stoke City,1-1,-
+-,-,Leicester City,Stoke City,4-0,-
+-,-,Lincoln City,Stoke City,1-1,-
+-,-,Luton Town,Stoke City,0-1,-
+-,-,Nottingham Forest,Stoke City,5-4,-
+-,-,Notts County,Stoke City,2-1,-
+-,-,Oldham Athletic,Stoke City,1-0,-
+-,-,Plymouth Argyle,Stoke City,1-1,-
+-,-,Rotherham United,Stoke City,2-2,-
+-,-,Swansea City,Stoke City,2-2,-
+-,-,West Ham United,Stoke City,2-2,-
+-,-,Birmingham City,Swansea City,6-0,-
+-,-,Blackburn Rovers,Swansea City,1-0,-
+-,-,Brentford,Swansea City,3-1,-
+-,-,Bristol Rovers,Swansea City,0-1,-
+-,-,Bury,Swansea City,1-2,-
+-,-,Derby County,Swansea City,4-2,-
+-,-,Doncaster Rovers,Swansea City,1-0,-
+-,-,Everton,Swansea City,2-2,-
+-,-,Fulham,Swansea City,4-3,-
+-,-,Hull City,Swansea City,4-3,-
+-,-,Leeds United,Swansea City,3-2,-
+-,-,Leicester City,Swansea City,4-1,-
+-,-,Lincoln City,Swansea City,3-1,-
+-,-,Luton Town,Swansea City,2-0,-
+-,-,Nottingham Forest,Swansea City,2-1,-
+-,-,Notts County,Swansea City,3-0,-
+-,-,Oldham Athletic,Swansea City,2-2,-
+-,-,Plymouth Argyle,Swansea City,1-1,-
+-,-,Rotherham United,Swansea City,2-1,-
+-,-,Stoke City,Swansea City,5-0,-
+-,-,West Ham United,Swansea City,4-1,-
+-,-,Birmingham City,West Ham United,2-0,-
+-,-,Blackburn Rovers,West Ham United,4-1,-
+-,-,Brentford,West Ham United,3-1,-
+-,-,Bristol Rovers,West Ham United,2-2,-
+-,-,Bury,West Ham United,2-0,-
+-,-,Derby County,West Ham United,2-1,-
+-,-,Doncaster Rovers,West Ham United,2-0,-
+-,-,Everton,West Ham United,1-2,-
+-,-,Fulham,West Ham United,3-4,-
+-,-,Hull City,West Ham United,2-1,-
+-,-,Leeds United,West Ham United,1-2,-
+-,-,Leicester City,West Ham United,2-1,-
+-,-,Lincoln City,West Ham United,1-2,-
+-,-,Luton Town,West Ham United,3-1,-
+-,-,Nottingham Forest,West Ham United,4-0,-
+-,-,Notts County,West Ham United,3-1,-
+-,-,Oldham Athletic,West Ham United,3-1,-
+-,-,Plymouth Argyle,West Ham United,2-1,-
+-,-,Rotherham United,West Ham United,5-0,-
+-,-,Stoke City,West Ham United,1-1,-
+-,-,Swansea City,West Ham United,1-1,-

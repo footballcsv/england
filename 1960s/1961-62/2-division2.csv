@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Bristol Rovers,Brighton & Hove Albion,0-1
--,Bury,Brighton & Hove Albion,2-1
--,Charlton Athletic,Brighton & Hove Albion,2-3
--,Derby County,Brighton & Hove Albion,2-0
--,Huddersfield Town,Brighton & Hove Albion,2-0
--,Leeds United,Brighton & Hove Albion,1-1
--,Leyton Orient,Brighton & Hove Albion,4-1
--,Liverpool,Brighton & Hove Albion,3-1
--,Luton Town,Brighton & Hove Albion,2-1
--,Middlesbrough,Brighton & Hove Albion,4-0
--,Newcastle United,Brighton & Hove Albion,5-0
--,Norwich City,Brighton & Hove Albion,3-0
--,Plymouth Argyle,Brighton & Hove Albion,5-0
--,Preston North End,Brighton & Hove Albion,3-1
--,Rotherham United,Brighton & Hove Albion,2-1
--,Scunthorpe United,Brighton & Hove Albion,3-3
--,Southampton,Brighton & Hove Albion,6-1
--,Stoke City,Brighton & Hove Albion,0-1
--,Sunderland,Brighton & Hove Albion,0-0
--,Swansea City,Brighton & Hove Albion,3-0
--,Walsall,Brighton & Hove Albion,2-2
--,Brighton & Hove Albion,Bristol Rovers,1-0
--,Bury,Bristol Rovers,2-0
--,Charlton Athletic,Bristol Rovers,2-1
--,Derby County,Bristol Rovers,4-1
--,Huddersfield Town,Bristol Rovers,4-1
--,Leeds United,Bristol Rovers,0-0
--,Leyton Orient,Bristol Rovers,2-3
--,Liverpool,Bristol Rovers,2-0
--,Luton Town,Bristol Rovers,2-0
--,Middlesbrough,Bristol Rovers,5-0
--,Newcastle United,Bristol Rovers,5-2
--,Norwich City,Bristol Rovers,2-2
--,Plymouth Argyle,Bristol Rovers,3-1
--,Preston North End,Bristol Rovers,1-0
--,Rotherham United,Bristol Rovers,4-0
--,Scunthorpe United,Bristol Rovers,2-1
--,Southampton,Bristol Rovers,0-2
--,Stoke City,Bristol Rovers,2-1
--,Sunderland,Bristol Rovers,6-1
--,Swansea City,Bristol Rovers,1-1
--,Walsall,Bristol Rovers,0-0
--,Brighton & Hove Albion,Bury,0-2
--,Bristol Rovers,Bury,0-1
--,Charlton Athletic,Bury,1-0
--,Derby County,Bury,3-0
--,Huddersfield Town,Bury,2-0
--,Leeds United,Bury,0-0
--,Leyton Orient,Bury,2-0
--,Liverpool,Bury,5-0
--,Luton Town,Bury,4-0
--,Middlesbrough,Bury,2-1
--,Newcastle United,Bury,1-2
--,Norwich City,Bury,3-1
--,Plymouth Argyle,Bury,1-2
--,Preston North End,Bury,1-2
--,Rotherham United,Bury,2-0
--,Scunthorpe United,Bury,1-2
--,Southampton,Bury,5-3
--,Stoke City,Bury,1-3
--,Sunderland,Bury,3-0
--,Swansea City,Bury,0-1
--,Walsall,Bury,3-0
--,Brighton & Hove Albion,Charlton Athletic,2-2
--,Bristol Rovers,Charlton Athletic,2-2
--,Bury,Charlton Athletic,1-2
--,Derby County,Charlton Athletic,0-1
--,Huddersfield Town,Charlton Athletic,0-2
--,Leeds United,Charlton Athletic,1-0
--,Leyton Orient,Charlton Athletic,2-1
--,Liverpool,Charlton Athletic,2-1
--,Luton Town,Charlton Athletic,1-6
--,Middlesbrough,Charlton Athletic,3-2
--,Newcastle United,Charlton Athletic,4-1
--,Norwich City,Charlton Athletic,2-2
--,Plymouth Argyle,Charlton Athletic,2-1
--,Preston North End,Charlton Athletic,2-0
--,Rotherham United,Charlton Athletic,3-2
--,Scunthorpe United,Charlton Athletic,6-1
--,Southampton,Charlton Athletic,1-2
--,Stoke City,Charlton Athletic,4-0
--,Sunderland,Charlton Athletic,4-1
--,Swansea City,Charlton Athletic,1-0
--,Walsall,Charlton Athletic,2-2
--,Brighton & Hove Albion,Derby County,1-2
--,Bristol Rovers,Derby County,1-4
--,Bury,Derby County,2-2
--,Charlton Athletic,Derby County,4-0
--,Huddersfield Town,Derby County,4-0
--,Leeds United,Derby County,0-0
--,Leyton Orient,Derby County,2-0
--,Liverpool,Derby County,4-1
--,Luton Town,Derby County,4-2
--,Middlesbrough,Derby County,3-4
--,Newcastle United,Derby County,3-0
--,Norwich City,Derby County,3-2
--,Plymouth Argyle,Derby County,2-3
--,Preston North End,Derby County,1-0
--,Rotherham United,Derby County,2-2
--,Scunthorpe United,Derby County,2-0
--,Southampton,Derby County,2-1
--,Stoke City,Derby County,1-1
--,Sunderland,Derby County,2-1
--,Swansea City,Derby County,3-1
--,Walsall,Derby County,2-0
--,Brighton & Hove Albion,Huddersfield Town,2-2
--,Bristol Rovers,Huddersfield Town,1-1
--,Bury,Huddersfield Town,1-2
--,Charlton Athletic,Huddersfield Town,0-2
--,Derby County,Huddersfield Town,1-0
--,Leeds United,Huddersfield Town,1-0
--,Leyton Orient,Huddersfield Town,3-0
--,Liverpool,Huddersfield Town,1-1
--,Luton Town,Huddersfield Town,3-4
--,Middlesbrough,Huddersfield Town,1-0
--,Newcastle United,Huddersfield Town,1-1
--,Norwich City,Huddersfield Town,1-2
--,Plymouth Argyle,Huddersfield Town,4-2
--,Preston North End,Huddersfield Town,1-0
--,Rotherham United,Huddersfield Town,3-3
--,Scunthorpe United,Huddersfield Town,1-3
--,Southampton,Huddersfield Town,3-1
--,Stoke City,Huddersfield Town,3-0
--,Sunderland,Huddersfield Town,3-1
--,Swansea City,Huddersfield Town,1-1
--,Walsall,Huddersfield Town,2-2
--,Brighton & Hove Albion,Leeds United,1-3
--,Bristol Rovers,Leeds United,4-0
--,Bury,Leeds United,1-1
--,Charlton Athletic,Leeds United,3-1
--,Derby County,Leeds United,3-3
--,Huddersfield Town,Leeds United,2-1
--,Leyton Orient,Leeds United,0-0
--,Liverpool,Leeds United,5-0
--,Luton Town,Leeds United,3-2
--,Middlesbrough,Leeds United,1-3
--,Newcastle United,Leeds United,0-3
--,Norwich City,Leeds United,2-0
--,Plymouth Argyle,Leeds United,1-1
--,Preston North End,Leeds United,1-1
--,Rotherham United,Leeds United,2-1
--,Scunthorpe United,Leeds United,2-1
--,Southampton,Leeds United,4-1
--,Stoke City,Leeds United,2-1
--,Sunderland,Leeds United,2-1
--,Swansea City,Leeds United,2-1
--,Walsall,Leeds United,1-1
--,Brighton & Hove Albion,Leyton Orient,0-1
--,Bristol Rovers,Leyton Orient,2-1
--,Bury,Leyton Orient,0-1
--,Charlton Athletic,Leyton Orient,1-2
--,Derby County,Leyton Orient,1-2
--,Huddersfield Town,Leyton Orient,1-1
--,Leeds United,Leyton Orient,0-0
--,Liverpool,Leyton Orient,3-3
--,Luton Town,Leyton Orient,1-3
--,Middlesbrough,Leyton Orient,2-3
--,Newcastle United,Leyton Orient,0-0
--,Norwich City,Leyton Orient,0-0
--,Plymouth Argyle,Leyton Orient,2-1
--,Preston North End,Leyton Orient,3-2
--,Rotherham United,Leyton Orient,2-1
--,Scunthorpe United,Leyton Orient,0-2
--,Southampton,Leyton Orient,1-2
--,Stoke City,Leyton Orient,0-1
--,Sunderland,Leyton Orient,2-1
--,Swansea City,Leyton Orient,1-3
--,Walsall,Leyton Orient,1-5
--,Brighton & Hove Albion,Liverpool,0-0
--,Bristol Rovers,Liverpool,0-2
--,Bury,Liverpool,0-3
--,Charlton Athletic,Liverpool,0-4
--,Derby County,Liverpool,2-0
--,Huddersfield Town,Liverpool,1-2
--,Leeds United,Liverpool,1-0
--,Leyton Orient,Liverpool,2-2
--,Luton Town,Liverpool,1-0
--,Middlesbrough,Liverpool,2-0
--,Newcastle United,Liverpool,1-2
--,Norwich City,Liverpool,1-2
--,Plymouth Argyle,Liverpool,2-3
--,Preston North End,Liverpool,1-3
--,Rotherham United,Liverpool,1-0
--,Scunthorpe United,Liverpool,1-1
--,Southampton,Liverpool,2-0
--,Stoke City,Liverpool,0-0
--,Sunderland,Liverpool,1-4
--,Swansea City,Liverpool,4-2
--,Walsall,Liverpool,1-1
--,Brighton & Hove Albion,Luton Town,2-1
--,Bristol Rovers,Luton Town,1-0
--,Bury,Luton Town,2-1
--,Charlton Athletic,Luton Town,0-1
--,Derby County,Luton Town,2-0
--,Huddersfield Town,Luton Town,1-2
--,Leeds United,Luton Town,2-1
--,Leyton Orient,Luton Town,0-0
--,Liverpool,Luton Town,1-1
--,Middlesbrough,Luton Town,2-4
--,Newcastle United,Luton Town,4-1
--,Norwich City,Luton Town,0-4
--,Plymouth Argyle,Luton Town,0-3
--,Preston North End,Luton Town,2-0
--,Rotherham United,Luton Town,1-1
--,Scunthorpe United,Luton Town,2-0
--,Southampton,Luton Town,3-0
--,Stoke City,Luton Town,2-1
--,Sunderland,Luton Town,2-2
--,Swansea City,Luton Town,3-2
--,Walsall,Luton Town,2-0
--,Brighton & Hove Albion,Middlesbrough,2-0
--,Bristol Rovers,Middlesbrough,0-2
--,Bury,Middlesbrough,2-1
--,Charlton Athletic,Middlesbrough,1-0
--,Derby County,Middlesbrough,3-2
--,Huddersfield Town,Middlesbrough,0-0
--,Leeds United,Middlesbrough,2-0
--,Leyton Orient,Middlesbrough,2-0
--,Liverpool,Middlesbrough,5-1
--,Luton Town,Middlesbrough,3-2
--,Newcastle United,Middlesbrough,3-4
--,Norwich City,Middlesbrough,5-4
--,Plymouth Argyle,Middlesbrough,1-1
--,Preston North End,Middlesbrough,4-3
--,Rotherham United,Middlesbrough,0-1
--,Scunthorpe United,Middlesbrough,1-1
--,Southampton,Middlesbrough,1-3
--,Stoke City,Middlesbrough,2-0
--,Sunderland,Middlesbrough,2-1
--,Swansea City,Middlesbrough,3-3
--,Walsall,Middlesbrough,1-2
--,Brighton & Hove Albion,Newcastle United,0-4
--,Bristol Rovers,Newcastle United,2-1
--,Bury,Newcastle United,2-7
--,Charlton Athletic,Newcastle United,1-1
--,Derby County,Newcastle United,1-2
--,Huddersfield Town,Newcastle United,2-1
--,Leeds United,Newcastle United,0-1
--,Leyton Orient,Newcastle United,2-0
--,Liverpool,Newcastle United,2-0
--,Luton Town,Newcastle United,1-0
--,Middlesbrough,Newcastle United,3-0
--,Norwich City,Newcastle United,0-0
--,Plymouth Argyle,Newcastle United,1-1
--,Preston North End,Newcastle United,0-1
--,Rotherham United,Newcastle United,0-0
--,Scunthorpe United,Newcastle United,3-2
--,Southampton,Newcastle United,1-0
--,Stoke City,Newcastle United,3-1
--,Sunderland,Newcastle United,3-0
--,Swansea City,Newcastle United,3-2
--,Walsall,Newcastle United,1-0
--,Brighton & Hove Albion,Norwich City,2-1
--,Bristol Rovers,Norwich City,2-1
--,Bury,Norwich City,2-3
--,Charlton Athletic,Norwich City,2-2
--,Derby County,Norwich City,1-1
--,Huddersfield Town,Norwich City,1-1
--,Leeds United,Norwich City,0-1
--,Leyton Orient,Norwich City,2-0
--,Liverpool,Norwich City,5-4
--,Luton Town,Norwich City,1-2
--,Middlesbrough,Norwich City,2-1
--,Newcastle United,Norwich City,0-0
--,Plymouth Argyle,Norwich City,3-1
--,Preston North End,Norwich City,2-0
--,Rotherham United,Norwich City,3-1
--,Scunthorpe United,Norwich City,2-0
--,Southampton,Norwich City,2-2
--,Stoke City,Norwich City,3-1
--,Sunderland,Norwich City,2-0
--,Swansea City,Norwich City,0-3
--,Walsall,Norwich City,5-0
--,Brighton & Hove Albion,Plymouth Argyle,3-2
--,Bristol Rovers,Plymouth Argyle,4-3
--,Bury,Plymouth Argyle,1-1
--,Charlton Athletic,Plymouth Argyle,3-1
--,Derby County,Plymouth Argyle,2-2
--,Huddersfield Town,Plymouth Argyle,5-1
--,Leeds United,Plymouth Argyle,2-3
--,Leyton Orient,Plymouth Argyle,1-2
--,Liverpool,Plymouth Argyle,2-1
--,Luton Town,Plymouth Argyle,0-2
--,Middlesbrough,Plymouth Argyle,1-1
--,Newcastle United,Plymouth Argyle,0-2
--,Norwich City,Plymouth Argyle,0-2
--,Preston North End,Plymouth Argyle,1-1
--,Rotherham United,Plymouth Argyle,1-3
--,Scunthorpe United,Plymouth Argyle,5-1
--,Southampton,Plymouth Argyle,1-2
--,Stoke City,Plymouth Argyle,2-0
--,Sunderland,Plymouth Argyle,5-0
--,Swansea City,Plymouth Argyle,5-0
--,Walsall,Plymouth Argyle,1-0
--,Brighton & Hove Albion,Preston North End,0-0
--,Bristol Rovers,Preston North End,2-1
--,Bury,Preston North End,2-1
--,Charlton Athletic,Preston North End,4-0
--,Derby County,Preston North End,3-2
--,Huddersfield Town,Preston North End,2-2
--,Leeds United,Preston North End,1-2
--,Leyton Orient,Preston North End,0-2
--,Liverpool,Preston North End,4-1
--,Luton Town,Preston North End,4-1
--,Middlesbrough,Preston North End,1-0
--,Newcastle United,Preston North End,0-2
--,Norwich City,Preston North End,2-0
--,Plymouth Argyle,Preston North End,1-0
--,Rotherham United,Preston North End,2-2
--,Scunthorpe United,Preston North End,2-1
--,Southampton,Preston North End,0-0
--,Stoke City,Preston North End,1-1
--,Sunderland,Preston North End,0-0
--,Swansea City,Preston North End,1-2
--,Walsall,Preston North End,2-1
--,Brighton & Hove Albion,Rotherham United,0-3
--,Bristol Rovers,Rotherham United,4-2
--,Bury,Rotherham United,2-1
--,Charlton Athletic,Rotherham United,0-2
--,Derby County,Rotherham United,1-1
--,Huddersfield Town,Rotherham United,0-3
--,Leeds United,Rotherham United,1-3
--,Leyton Orient,Rotherham United,1-1
--,Liverpool,Rotherham United,4-1
--,Luton Town,Rotherham United,4-3
--,Middlesbrough,Rotherham United,5-1
--,Newcastle United,Rotherham United,1-0
--,Norwich City,Rotherham United,0-1
--,Plymouth Argyle,Rotherham United,2-5
--,Preston North End,Rotherham United,2-0
--,Scunthorpe United,Rotherham United,5-2
--,Southampton,Rotherham United,2-1
--,Stoke City,Rotherham United,1-2
--,Sunderland,Rotherham United,4-0
--,Swansea City,Rotherham United,2-2
--,Walsall,Rotherham United,5-0
--,Brighton & Hove Albion,Scunthorpe United,0-3
--,Bristol Rovers,Scunthorpe United,2-1
--,Bury,Scunthorpe United,4-1
--,Charlton Athletic,Scunthorpe United,3-3
--,Derby County,Scunthorpe United,2-2
--,Huddersfield Town,Scunthorpe United,1-2
--,Leeds United,Scunthorpe United,1-4
--,Leyton Orient,Scunthorpe United,0-1
--,Liverpool,Scunthorpe United,2-1
--,Luton Town,Scunthorpe United,1-2
--,Middlesbrough,Scunthorpe United,1-2
--,Newcastle United,Scunthorpe United,2-1
--,Norwich City,Scunthorpe United,2-2
--,Plymouth Argyle,Scunthorpe United,3-1
--,Preston North End,Scunthorpe United,4-1
--,Rotherham United,Scunthorpe United,0-1
--,Southampton,Scunthorpe United,6-4
--,Stoke City,Scunthorpe United,1-0
--,Sunderland,Scunthorpe United,4-0
--,Swansea City,Scunthorpe United,2-1
--,Walsall,Scunthorpe United,4-1
--,Brighton & Hove Albion,Southampton,0-0
--,Bristol Rovers,Southampton,1-0
--,Bury,Southampton,0-2
--,Charlton Athletic,Southampton,1-0
--,Derby County,Southampton,1-1
--,Huddersfield Town,Southampton,1-0
--,Leeds United,Southampton,1-1
--,Leyton Orient,Southampton,1-3
--,Liverpool,Southampton,2-0
--,Luton Town,Southampton,1-4
--,Middlesbrough,Southampton,1-1
--,Newcastle United,Southampton,3-2
--,Norwich City,Southampton,1-1
--,Plymouth Argyle,Southampton,4-0
--,Preston North End,Southampton,1-1
--,Rotherham United,Southampton,4-2
--,Scunthorpe United,Southampton,5-1
--,Stoke City,Southampton,3-2
--,Sunderland,Southampton,3-0
--,Swansea City,Southampton,0-1
--,Walsall,Southampton,0-2
--,Brighton & Hove Albion,Stoke City,2-1
--,Bristol Rovers,Stoke City,0-2
--,Bury,Stoke City,0-2
--,Charlton Athletic,Stoke City,2-2
--,Derby County,Stoke City,2-0
--,Huddersfield Town,Stoke City,3-0
--,Leeds United,Stoke City,3-1
--,Leyton Orient,Stoke City,3-0
--,Liverpool,Stoke City,2-1
--,Luton Town,Stoke City,0-0
--,Middlesbrough,Stoke City,2-2
--,Newcastle United,Stoke City,2-0
--,Norwich City,Stoke City,1-0
--,Plymouth Argyle,Stoke City,3-1
--,Preston North End,Stoke City,1-2
--,Rotherham United,Stoke City,1-2
--,Scunthorpe United,Stoke City,2-2
--,Southampton,Stoke City,5-1
--,Sunderland,Stoke City,2-1
--,Swansea City,Stoke City,1-0
--,Walsall,Stoke City,3-1
--,Brighton & Hove Albion,Sunderland,1-1
--,Bristol Rovers,Sunderland,2-3
--,Bury,Sunderland,3-2
--,Charlton Athletic,Sunderland,2-0
--,Derby County,Sunderland,1-1
--,Huddersfield Town,Sunderland,0-0
--,Leeds United,Sunderland,1-0
--,Leyton Orient,Sunderland,1-1
--,Liverpool,Sunderland,3-0
--,Luton Town,Sunderland,1-2
--,Middlesbrough,Sunderland,0-1
--,Newcastle United,Sunderland,2-2
--,Norwich City,Sunderland,3-1
--,Plymouth Argyle,Sunderland,3-2
--,Preston North End,Sunderland,0-1
--,Rotherham United,Sunderland,0-3
--,Scunthorpe United,Sunderland,3-1
--,Southampton,Sunderland,2-0
--,Stoke City,Sunderland,1-0
--,Swansea City,Sunderland,1-1
--,Walsall,Sunderland,4-3
--,Brighton & Hove Albion,Swansea City,2-2
--,Bristol Rovers,Swansea City,4-1
--,Bury,Swansea City,1-1
--,Charlton Athletic,Swansea City,3-2
--,Derby County,Swansea City,6-3
--,Huddersfield Town,Swansea City,3-1
--,Leeds United,Swansea City,2-0
--,Leyton Orient,Swansea City,1-0
--,Liverpool,Swansea City,5-0
--,Luton Town,Swansea City,5-1
--,Middlesbrough,Swansea City,1-3
--,Newcastle United,Swansea City,2-2
--,Norwich City,Swansea City,2-1
--,Plymouth Argyle,Swansea City,0-0
--,Preston North End,Swansea City,1-1
--,Rotherham United,Swansea City,1-2
--,Scunthorpe United,Swansea City,2-0
--,Southampton,Swansea City,5-1
--,Stoke City,Swansea City,0-0
--,Sunderland,Swansea City,7-2
--,Walsall,Swansea City,0-0
--,Brighton & Hove Albion,Walsall,3-2
--,Bristol Rovers,Walsall,2-2
--,Bury,Walsall,2-1
--,Charlton Athletic,Walsall,3-3
--,Derby County,Walsall,1-3
--,Huddersfield Town,Walsall,4-2
--,Leeds United,Walsall,4-1
--,Leyton Orient,Walsall,3-0
--,Liverpool,Walsall,6-1
--,Luton Town,Walsall,2-0
--,Middlesbrough,Walsall,3-0
--,Newcastle United,Walsall,1-0
--,Norwich City,Walsall,3-1
--,Plymouth Argyle,Walsall,2-1
--,Preston North End,Walsall,2-3
--,Rotherham United,Walsall,2-2
--,Scunthorpe United,Walsall,2-1
--,Southampton,Walsall,1-1
--,Stoke City,Walsall,2-1
--,Sunderland,Walsall,3-0
--,Swansea City,Walsall,1-3
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Bristol Rovers,Brighton & Hove Albion,0-1,-
+-,-,Bury,Brighton & Hove Albion,2-1,-
+-,-,Charlton Athletic,Brighton & Hove Albion,2-3,-
+-,-,Derby County,Brighton & Hove Albion,2-0,-
+-,-,Huddersfield Town,Brighton & Hove Albion,2-0,-
+-,-,Leeds United,Brighton & Hove Albion,1-1,-
+-,-,Leyton Orient,Brighton & Hove Albion,4-1,-
+-,-,Liverpool,Brighton & Hove Albion,3-1,-
+-,-,Luton Town,Brighton & Hove Albion,2-1,-
+-,-,Middlesbrough,Brighton & Hove Albion,4-0,-
+-,-,Newcastle United,Brighton & Hove Albion,5-0,-
+-,-,Norwich City,Brighton & Hove Albion,3-0,-
+-,-,Plymouth Argyle,Brighton & Hove Albion,5-0,-
+-,-,Preston North End,Brighton & Hove Albion,3-1,-
+-,-,Rotherham United,Brighton & Hove Albion,2-1,-
+-,-,Scunthorpe United,Brighton & Hove Albion,3-3,-
+-,-,Southampton,Brighton & Hove Albion,6-1,-
+-,-,Stoke City,Brighton & Hove Albion,0-1,-
+-,-,Sunderland,Brighton & Hove Albion,0-0,-
+-,-,Swansea City,Brighton & Hove Albion,3-0,-
+-,-,Walsall,Brighton & Hove Albion,2-2,-
+-,-,Brighton & Hove Albion,Bristol Rovers,1-0,-
+-,-,Bury,Bristol Rovers,2-0,-
+-,-,Charlton Athletic,Bristol Rovers,2-1,-
+-,-,Derby County,Bristol Rovers,4-1,-
+-,-,Huddersfield Town,Bristol Rovers,4-1,-
+-,-,Leeds United,Bristol Rovers,0-0,-
+-,-,Leyton Orient,Bristol Rovers,2-3,-
+-,-,Liverpool,Bristol Rovers,2-0,-
+-,-,Luton Town,Bristol Rovers,2-0,-
+-,-,Middlesbrough,Bristol Rovers,5-0,-
+-,-,Newcastle United,Bristol Rovers,5-2,-
+-,-,Norwich City,Bristol Rovers,2-2,-
+-,-,Plymouth Argyle,Bristol Rovers,3-1,-
+-,-,Preston North End,Bristol Rovers,1-0,-
+-,-,Rotherham United,Bristol Rovers,4-0,-
+-,-,Scunthorpe United,Bristol Rovers,2-1,-
+-,-,Southampton,Bristol Rovers,0-2,-
+-,-,Stoke City,Bristol Rovers,2-1,-
+-,-,Sunderland,Bristol Rovers,6-1,-
+-,-,Swansea City,Bristol Rovers,1-1,-
+-,-,Walsall,Bristol Rovers,0-0,-
+-,-,Brighton & Hove Albion,Bury,0-2,-
+-,-,Bristol Rovers,Bury,0-1,-
+-,-,Charlton Athletic,Bury,1-0,-
+-,-,Derby County,Bury,3-0,-
+-,-,Huddersfield Town,Bury,2-0,-
+-,-,Leeds United,Bury,0-0,-
+-,-,Leyton Orient,Bury,2-0,-
+-,-,Liverpool,Bury,5-0,-
+-,-,Luton Town,Bury,4-0,-
+-,-,Middlesbrough,Bury,2-1,-
+-,-,Newcastle United,Bury,1-2,-
+-,-,Norwich City,Bury,3-1,-
+-,-,Plymouth Argyle,Bury,1-2,-
+-,-,Preston North End,Bury,1-2,-
+-,-,Rotherham United,Bury,2-0,-
+-,-,Scunthorpe United,Bury,1-2,-
+-,-,Southampton,Bury,5-3,-
+-,-,Stoke City,Bury,1-3,-
+-,-,Sunderland,Bury,3-0,-
+-,-,Swansea City,Bury,0-1,-
+-,-,Walsall,Bury,3-0,-
+-,-,Brighton & Hove Albion,Charlton Athletic,2-2,-
+-,-,Bristol Rovers,Charlton Athletic,2-2,-
+-,-,Bury,Charlton Athletic,1-2,-
+-,-,Derby County,Charlton Athletic,0-1,-
+-,-,Huddersfield Town,Charlton Athletic,0-2,-
+-,-,Leeds United,Charlton Athletic,1-0,-
+-,-,Leyton Orient,Charlton Athletic,2-1,-
+-,-,Liverpool,Charlton Athletic,2-1,-
+-,-,Luton Town,Charlton Athletic,1-6,-
+-,-,Middlesbrough,Charlton Athletic,3-2,-
+-,-,Newcastle United,Charlton Athletic,4-1,-
+-,-,Norwich City,Charlton Athletic,2-2,-
+-,-,Plymouth Argyle,Charlton Athletic,2-1,-
+-,-,Preston North End,Charlton Athletic,2-0,-
+-,-,Rotherham United,Charlton Athletic,3-2,-
+-,-,Scunthorpe United,Charlton Athletic,6-1,-
+-,-,Southampton,Charlton Athletic,1-2,-
+-,-,Stoke City,Charlton Athletic,4-0,-
+-,-,Sunderland,Charlton Athletic,4-1,-
+-,-,Swansea City,Charlton Athletic,1-0,-
+-,-,Walsall,Charlton Athletic,2-2,-
+-,-,Brighton & Hove Albion,Derby County,1-2,-
+-,-,Bristol Rovers,Derby County,1-4,-
+-,-,Bury,Derby County,2-2,-
+-,-,Charlton Athletic,Derby County,4-0,-
+-,-,Huddersfield Town,Derby County,4-0,-
+-,-,Leeds United,Derby County,0-0,-
+-,-,Leyton Orient,Derby County,2-0,-
+-,-,Liverpool,Derby County,4-1,-
+-,-,Luton Town,Derby County,4-2,-
+-,-,Middlesbrough,Derby County,3-4,-
+-,-,Newcastle United,Derby County,3-0,-
+-,-,Norwich City,Derby County,3-2,-
+-,-,Plymouth Argyle,Derby County,2-3,-
+-,-,Preston North End,Derby County,1-0,-
+-,-,Rotherham United,Derby County,2-2,-
+-,-,Scunthorpe United,Derby County,2-0,-
+-,-,Southampton,Derby County,2-1,-
+-,-,Stoke City,Derby County,1-1,-
+-,-,Sunderland,Derby County,2-1,-
+-,-,Swansea City,Derby County,3-1,-
+-,-,Walsall,Derby County,2-0,-
+-,-,Brighton & Hove Albion,Huddersfield Town,2-2,-
+-,-,Bristol Rovers,Huddersfield Town,1-1,-
+-,-,Bury,Huddersfield Town,1-2,-
+-,-,Charlton Athletic,Huddersfield Town,0-2,-
+-,-,Derby County,Huddersfield Town,1-0,-
+-,-,Leeds United,Huddersfield Town,1-0,-
+-,-,Leyton Orient,Huddersfield Town,3-0,-
+-,-,Liverpool,Huddersfield Town,1-1,-
+-,-,Luton Town,Huddersfield Town,3-4,-
+-,-,Middlesbrough,Huddersfield Town,1-0,-
+-,-,Newcastle United,Huddersfield Town,1-1,-
+-,-,Norwich City,Huddersfield Town,1-2,-
+-,-,Plymouth Argyle,Huddersfield Town,4-2,-
+-,-,Preston North End,Huddersfield Town,1-0,-
+-,-,Rotherham United,Huddersfield Town,3-3,-
+-,-,Scunthorpe United,Huddersfield Town,1-3,-
+-,-,Southampton,Huddersfield Town,3-1,-
+-,-,Stoke City,Huddersfield Town,3-0,-
+-,-,Sunderland,Huddersfield Town,3-1,-
+-,-,Swansea City,Huddersfield Town,1-1,-
+-,-,Walsall,Huddersfield Town,2-2,-
+-,-,Brighton & Hove Albion,Leeds United,1-3,-
+-,-,Bristol Rovers,Leeds United,4-0,-
+-,-,Bury,Leeds United,1-1,-
+-,-,Charlton Athletic,Leeds United,3-1,-
+-,-,Derby County,Leeds United,3-3,-
+-,-,Huddersfield Town,Leeds United,2-1,-
+-,-,Leyton Orient,Leeds United,0-0,-
+-,-,Liverpool,Leeds United,5-0,-
+-,-,Luton Town,Leeds United,3-2,-
+-,-,Middlesbrough,Leeds United,1-3,-
+-,-,Newcastle United,Leeds United,0-3,-
+-,-,Norwich City,Leeds United,2-0,-
+-,-,Plymouth Argyle,Leeds United,1-1,-
+-,-,Preston North End,Leeds United,1-1,-
+-,-,Rotherham United,Leeds United,2-1,-
+-,-,Scunthorpe United,Leeds United,2-1,-
+-,-,Southampton,Leeds United,4-1,-
+-,-,Stoke City,Leeds United,2-1,-
+-,-,Sunderland,Leeds United,2-1,-
+-,-,Swansea City,Leeds United,2-1,-
+-,-,Walsall,Leeds United,1-1,-
+-,-,Brighton & Hove Albion,Leyton Orient,0-1,-
+-,-,Bristol Rovers,Leyton Orient,2-1,-
+-,-,Bury,Leyton Orient,0-1,-
+-,-,Charlton Athletic,Leyton Orient,1-2,-
+-,-,Derby County,Leyton Orient,1-2,-
+-,-,Huddersfield Town,Leyton Orient,1-1,-
+-,-,Leeds United,Leyton Orient,0-0,-
+-,-,Liverpool,Leyton Orient,3-3,-
+-,-,Luton Town,Leyton Orient,1-3,-
+-,-,Middlesbrough,Leyton Orient,2-3,-
+-,-,Newcastle United,Leyton Orient,0-0,-
+-,-,Norwich City,Leyton Orient,0-0,-
+-,-,Plymouth Argyle,Leyton Orient,2-1,-
+-,-,Preston North End,Leyton Orient,3-2,-
+-,-,Rotherham United,Leyton Orient,2-1,-
+-,-,Scunthorpe United,Leyton Orient,0-2,-
+-,-,Southampton,Leyton Orient,1-2,-
+-,-,Stoke City,Leyton Orient,0-1,-
+-,-,Sunderland,Leyton Orient,2-1,-
+-,-,Swansea City,Leyton Orient,1-3,-
+-,-,Walsall,Leyton Orient,1-5,-
+-,-,Brighton & Hove Albion,Liverpool,0-0,-
+-,-,Bristol Rovers,Liverpool,0-2,-
+-,-,Bury,Liverpool,0-3,-
+-,-,Charlton Athletic,Liverpool,0-4,-
+-,-,Derby County,Liverpool,2-0,-
+-,-,Huddersfield Town,Liverpool,1-2,-
+-,-,Leeds United,Liverpool,1-0,-
+-,-,Leyton Orient,Liverpool,2-2,-
+-,-,Luton Town,Liverpool,1-0,-
+-,-,Middlesbrough,Liverpool,2-0,-
+-,-,Newcastle United,Liverpool,1-2,-
+-,-,Norwich City,Liverpool,1-2,-
+-,-,Plymouth Argyle,Liverpool,2-3,-
+-,-,Preston North End,Liverpool,1-3,-
+-,-,Rotherham United,Liverpool,1-0,-
+-,-,Scunthorpe United,Liverpool,1-1,-
+-,-,Southampton,Liverpool,2-0,-
+-,-,Stoke City,Liverpool,0-0,-
+-,-,Sunderland,Liverpool,1-4,-
+-,-,Swansea City,Liverpool,4-2,-
+-,-,Walsall,Liverpool,1-1,-
+-,-,Brighton & Hove Albion,Luton Town,2-1,-
+-,-,Bristol Rovers,Luton Town,1-0,-
+-,-,Bury,Luton Town,2-1,-
+-,-,Charlton Athletic,Luton Town,0-1,-
+-,-,Derby County,Luton Town,2-0,-
+-,-,Huddersfield Town,Luton Town,1-2,-
+-,-,Leeds United,Luton Town,2-1,-
+-,-,Leyton Orient,Luton Town,0-0,-
+-,-,Liverpool,Luton Town,1-1,-
+-,-,Middlesbrough,Luton Town,2-4,-
+-,-,Newcastle United,Luton Town,4-1,-
+-,-,Norwich City,Luton Town,0-4,-
+-,-,Plymouth Argyle,Luton Town,0-3,-
+-,-,Preston North End,Luton Town,2-0,-
+-,-,Rotherham United,Luton Town,1-1,-
+-,-,Scunthorpe United,Luton Town,2-0,-
+-,-,Southampton,Luton Town,3-0,-
+-,-,Stoke City,Luton Town,2-1,-
+-,-,Sunderland,Luton Town,2-2,-
+-,-,Swansea City,Luton Town,3-2,-
+-,-,Walsall,Luton Town,2-0,-
+-,-,Brighton & Hove Albion,Middlesbrough,2-0,-
+-,-,Bristol Rovers,Middlesbrough,0-2,-
+-,-,Bury,Middlesbrough,2-1,-
+-,-,Charlton Athletic,Middlesbrough,1-0,-
+-,-,Derby County,Middlesbrough,3-2,-
+-,-,Huddersfield Town,Middlesbrough,0-0,-
+-,-,Leeds United,Middlesbrough,2-0,-
+-,-,Leyton Orient,Middlesbrough,2-0,-
+-,-,Liverpool,Middlesbrough,5-1,-
+-,-,Luton Town,Middlesbrough,3-2,-
+-,-,Newcastle United,Middlesbrough,3-4,-
+-,-,Norwich City,Middlesbrough,5-4,-
+-,-,Plymouth Argyle,Middlesbrough,1-1,-
+-,-,Preston North End,Middlesbrough,4-3,-
+-,-,Rotherham United,Middlesbrough,0-1,-
+-,-,Scunthorpe United,Middlesbrough,1-1,-
+-,-,Southampton,Middlesbrough,1-3,-
+-,-,Stoke City,Middlesbrough,2-0,-
+-,-,Sunderland,Middlesbrough,2-1,-
+-,-,Swansea City,Middlesbrough,3-3,-
+-,-,Walsall,Middlesbrough,1-2,-
+-,-,Brighton & Hove Albion,Newcastle United,0-4,-
+-,-,Bristol Rovers,Newcastle United,2-1,-
+-,-,Bury,Newcastle United,2-7,-
+-,-,Charlton Athletic,Newcastle United,1-1,-
+-,-,Derby County,Newcastle United,1-2,-
+-,-,Huddersfield Town,Newcastle United,2-1,-
+-,-,Leeds United,Newcastle United,0-1,-
+-,-,Leyton Orient,Newcastle United,2-0,-
+-,-,Liverpool,Newcastle United,2-0,-
+-,-,Luton Town,Newcastle United,1-0,-
+-,-,Middlesbrough,Newcastle United,3-0,-
+-,-,Norwich City,Newcastle United,0-0,-
+-,-,Plymouth Argyle,Newcastle United,1-1,-
+-,-,Preston North End,Newcastle United,0-1,-
+-,-,Rotherham United,Newcastle United,0-0,-
+-,-,Scunthorpe United,Newcastle United,3-2,-
+-,-,Southampton,Newcastle United,1-0,-
+-,-,Stoke City,Newcastle United,3-1,-
+-,-,Sunderland,Newcastle United,3-0,-
+-,-,Swansea City,Newcastle United,3-2,-
+-,-,Walsall,Newcastle United,1-0,-
+-,-,Brighton & Hove Albion,Norwich City,2-1,-
+-,-,Bristol Rovers,Norwich City,2-1,-
+-,-,Bury,Norwich City,2-3,-
+-,-,Charlton Athletic,Norwich City,2-2,-
+-,-,Derby County,Norwich City,1-1,-
+-,-,Huddersfield Town,Norwich City,1-1,-
+-,-,Leeds United,Norwich City,0-1,-
+-,-,Leyton Orient,Norwich City,2-0,-
+-,-,Liverpool,Norwich City,5-4,-
+-,-,Luton Town,Norwich City,1-2,-
+-,-,Middlesbrough,Norwich City,2-1,-
+-,-,Newcastle United,Norwich City,0-0,-
+-,-,Plymouth Argyle,Norwich City,3-1,-
+-,-,Preston North End,Norwich City,2-0,-
+-,-,Rotherham United,Norwich City,3-1,-
+-,-,Scunthorpe United,Norwich City,2-0,-
+-,-,Southampton,Norwich City,2-2,-
+-,-,Stoke City,Norwich City,3-1,-
+-,-,Sunderland,Norwich City,2-0,-
+-,-,Swansea City,Norwich City,0-3,-
+-,-,Walsall,Norwich City,5-0,-
+-,-,Brighton & Hove Albion,Plymouth Argyle,3-2,-
+-,-,Bristol Rovers,Plymouth Argyle,4-3,-
+-,-,Bury,Plymouth Argyle,1-1,-
+-,-,Charlton Athletic,Plymouth Argyle,3-1,-
+-,-,Derby County,Plymouth Argyle,2-2,-
+-,-,Huddersfield Town,Plymouth Argyle,5-1,-
+-,-,Leeds United,Plymouth Argyle,2-3,-
+-,-,Leyton Orient,Plymouth Argyle,1-2,-
+-,-,Liverpool,Plymouth Argyle,2-1,-
+-,-,Luton Town,Plymouth Argyle,0-2,-
+-,-,Middlesbrough,Plymouth Argyle,1-1,-
+-,-,Newcastle United,Plymouth Argyle,0-2,-
+-,-,Norwich City,Plymouth Argyle,0-2,-
+-,-,Preston North End,Plymouth Argyle,1-1,-
+-,-,Rotherham United,Plymouth Argyle,1-3,-
+-,-,Scunthorpe United,Plymouth Argyle,5-1,-
+-,-,Southampton,Plymouth Argyle,1-2,-
+-,-,Stoke City,Plymouth Argyle,2-0,-
+-,-,Sunderland,Plymouth Argyle,5-0,-
+-,-,Swansea City,Plymouth Argyle,5-0,-
+-,-,Walsall,Plymouth Argyle,1-0,-
+-,-,Brighton & Hove Albion,Preston North End,0-0,-
+-,-,Bristol Rovers,Preston North End,2-1,-
+-,-,Bury,Preston North End,2-1,-
+-,-,Charlton Athletic,Preston North End,4-0,-
+-,-,Derby County,Preston North End,3-2,-
+-,-,Huddersfield Town,Preston North End,2-2,-
+-,-,Leeds United,Preston North End,1-2,-
+-,-,Leyton Orient,Preston North End,0-2,-
+-,-,Liverpool,Preston North End,4-1,-
+-,-,Luton Town,Preston North End,4-1,-
+-,-,Middlesbrough,Preston North End,1-0,-
+-,-,Newcastle United,Preston North End,0-2,-
+-,-,Norwich City,Preston North End,2-0,-
+-,-,Plymouth Argyle,Preston North End,1-0,-
+-,-,Rotherham United,Preston North End,2-2,-
+-,-,Scunthorpe United,Preston North End,2-1,-
+-,-,Southampton,Preston North End,0-0,-
+-,-,Stoke City,Preston North End,1-1,-
+-,-,Sunderland,Preston North End,0-0,-
+-,-,Swansea City,Preston North End,1-2,-
+-,-,Walsall,Preston North End,2-1,-
+-,-,Brighton & Hove Albion,Rotherham United,0-3,-
+-,-,Bristol Rovers,Rotherham United,4-2,-
+-,-,Bury,Rotherham United,2-1,-
+-,-,Charlton Athletic,Rotherham United,0-2,-
+-,-,Derby County,Rotherham United,1-1,-
+-,-,Huddersfield Town,Rotherham United,0-3,-
+-,-,Leeds United,Rotherham United,1-3,-
+-,-,Leyton Orient,Rotherham United,1-1,-
+-,-,Liverpool,Rotherham United,4-1,-
+-,-,Luton Town,Rotherham United,4-3,-
+-,-,Middlesbrough,Rotherham United,5-1,-
+-,-,Newcastle United,Rotherham United,1-0,-
+-,-,Norwich City,Rotherham United,0-1,-
+-,-,Plymouth Argyle,Rotherham United,2-5,-
+-,-,Preston North End,Rotherham United,2-0,-
+-,-,Scunthorpe United,Rotherham United,5-2,-
+-,-,Southampton,Rotherham United,2-1,-
+-,-,Stoke City,Rotherham United,1-2,-
+-,-,Sunderland,Rotherham United,4-0,-
+-,-,Swansea City,Rotherham United,2-2,-
+-,-,Walsall,Rotherham United,5-0,-
+-,-,Brighton & Hove Albion,Scunthorpe United,0-3,-
+-,-,Bristol Rovers,Scunthorpe United,2-1,-
+-,-,Bury,Scunthorpe United,4-1,-
+-,-,Charlton Athletic,Scunthorpe United,3-3,-
+-,-,Derby County,Scunthorpe United,2-2,-
+-,-,Huddersfield Town,Scunthorpe United,1-2,-
+-,-,Leeds United,Scunthorpe United,1-4,-
+-,-,Leyton Orient,Scunthorpe United,0-1,-
+-,-,Liverpool,Scunthorpe United,2-1,-
+-,-,Luton Town,Scunthorpe United,1-2,-
+-,-,Middlesbrough,Scunthorpe United,1-2,-
+-,-,Newcastle United,Scunthorpe United,2-1,-
+-,-,Norwich City,Scunthorpe United,2-2,-
+-,-,Plymouth Argyle,Scunthorpe United,3-1,-
+-,-,Preston North End,Scunthorpe United,4-1,-
+-,-,Rotherham United,Scunthorpe United,0-1,-
+-,-,Southampton,Scunthorpe United,6-4,-
+-,-,Stoke City,Scunthorpe United,1-0,-
+-,-,Sunderland,Scunthorpe United,4-0,-
+-,-,Swansea City,Scunthorpe United,2-1,-
+-,-,Walsall,Scunthorpe United,4-1,-
+-,-,Brighton & Hove Albion,Southampton,0-0,-
+-,-,Bristol Rovers,Southampton,1-0,-
+-,-,Bury,Southampton,0-2,-
+-,-,Charlton Athletic,Southampton,1-0,-
+-,-,Derby County,Southampton,1-1,-
+-,-,Huddersfield Town,Southampton,1-0,-
+-,-,Leeds United,Southampton,1-1,-
+-,-,Leyton Orient,Southampton,1-3,-
+-,-,Liverpool,Southampton,2-0,-
+-,-,Luton Town,Southampton,1-4,-
+-,-,Middlesbrough,Southampton,1-1,-
+-,-,Newcastle United,Southampton,3-2,-
+-,-,Norwich City,Southampton,1-1,-
+-,-,Plymouth Argyle,Southampton,4-0,-
+-,-,Preston North End,Southampton,1-1,-
+-,-,Rotherham United,Southampton,4-2,-
+-,-,Scunthorpe United,Southampton,5-1,-
+-,-,Stoke City,Southampton,3-2,-
+-,-,Sunderland,Southampton,3-0,-
+-,-,Swansea City,Southampton,0-1,-
+-,-,Walsall,Southampton,0-2,-
+-,-,Brighton & Hove Albion,Stoke City,2-1,-
+-,-,Bristol Rovers,Stoke City,0-2,-
+-,-,Bury,Stoke City,0-2,-
+-,-,Charlton Athletic,Stoke City,2-2,-
+-,-,Derby County,Stoke City,2-0,-
+-,-,Huddersfield Town,Stoke City,3-0,-
+-,-,Leeds United,Stoke City,3-1,-
+-,-,Leyton Orient,Stoke City,3-0,-
+-,-,Liverpool,Stoke City,2-1,-
+-,-,Luton Town,Stoke City,0-0,-
+-,-,Middlesbrough,Stoke City,2-2,-
+-,-,Newcastle United,Stoke City,2-0,-
+-,-,Norwich City,Stoke City,1-0,-
+-,-,Plymouth Argyle,Stoke City,3-1,-
+-,-,Preston North End,Stoke City,1-2,-
+-,-,Rotherham United,Stoke City,1-2,-
+-,-,Scunthorpe United,Stoke City,2-2,-
+-,-,Southampton,Stoke City,5-1,-
+-,-,Sunderland,Stoke City,2-1,-
+-,-,Swansea City,Stoke City,1-0,-
+-,-,Walsall,Stoke City,3-1,-
+-,-,Brighton & Hove Albion,Sunderland,1-1,-
+-,-,Bristol Rovers,Sunderland,2-3,-
+-,-,Bury,Sunderland,3-2,-
+-,-,Charlton Athletic,Sunderland,2-0,-
+-,-,Derby County,Sunderland,1-1,-
+-,-,Huddersfield Town,Sunderland,0-0,-
+-,-,Leeds United,Sunderland,1-0,-
+-,-,Leyton Orient,Sunderland,1-1,-
+-,-,Liverpool,Sunderland,3-0,-
+-,-,Luton Town,Sunderland,1-2,-
+-,-,Middlesbrough,Sunderland,0-1,-
+-,-,Newcastle United,Sunderland,2-2,-
+-,-,Norwich City,Sunderland,3-1,-
+-,-,Plymouth Argyle,Sunderland,3-2,-
+-,-,Preston North End,Sunderland,0-1,-
+-,-,Rotherham United,Sunderland,0-3,-
+-,-,Scunthorpe United,Sunderland,3-1,-
+-,-,Southampton,Sunderland,2-0,-
+-,-,Stoke City,Sunderland,1-0,-
+-,-,Swansea City,Sunderland,1-1,-
+-,-,Walsall,Sunderland,4-3,-
+-,-,Brighton & Hove Albion,Swansea City,2-2,-
+-,-,Bristol Rovers,Swansea City,4-1,-
+-,-,Bury,Swansea City,1-1,-
+-,-,Charlton Athletic,Swansea City,3-2,-
+-,-,Derby County,Swansea City,6-3,-
+-,-,Huddersfield Town,Swansea City,3-1,-
+-,-,Leeds United,Swansea City,2-0,-
+-,-,Leyton Orient,Swansea City,1-0,-
+-,-,Liverpool,Swansea City,5-0,-
+-,-,Luton Town,Swansea City,5-1,-
+-,-,Middlesbrough,Swansea City,1-3,-
+-,-,Newcastle United,Swansea City,2-2,-
+-,-,Norwich City,Swansea City,2-1,-
+-,-,Plymouth Argyle,Swansea City,0-0,-
+-,-,Preston North End,Swansea City,1-1,-
+-,-,Rotherham United,Swansea City,1-2,-
+-,-,Scunthorpe United,Swansea City,2-0,-
+-,-,Southampton,Swansea City,5-1,-
+-,-,Stoke City,Swansea City,0-0,-
+-,-,Sunderland,Swansea City,7-2,-
+-,-,Walsall,Swansea City,0-0,-
+-,-,Brighton & Hove Albion,Walsall,3-2,-
+-,-,Bristol Rovers,Walsall,2-2,-
+-,-,Bury,Walsall,2-1,-
+-,-,Charlton Athletic,Walsall,3-3,-
+-,-,Derby County,Walsall,1-3,-
+-,-,Huddersfield Town,Walsall,4-2,-
+-,-,Leeds United,Walsall,4-1,-
+-,-,Leyton Orient,Walsall,3-0,-
+-,-,Liverpool,Walsall,6-1,-
+-,-,Luton Town,Walsall,2-0,-
+-,-,Middlesbrough,Walsall,3-0,-
+-,-,Newcastle United,Walsall,1-0,-
+-,-,Norwich City,Walsall,3-1,-
+-,-,Plymouth Argyle,Walsall,2-1,-
+-,-,Preston North End,Walsall,2-3,-
+-,-,Rotherham United,Walsall,2-2,-
+-,-,Scunthorpe United,Walsall,2-1,-
+-,-,Southampton,Walsall,1-1,-
+-,-,Stoke City,Walsall,2-1,-
+-,-,Sunderland,Walsall,3-0,-
+-,-,Swansea City,Walsall,1-3,-

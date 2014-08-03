@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT
--,Blackpool,Barnsley,2-3
--,Bradford City,Barnsley,2-0
--,Burnley,Barnsley,2-2
--,Burton United,Barnsley,1-1
--,Chelsea,Barnsley,2-1
--,Chesterfield,Barnsley,3-2
--,Gainsborough Trinity,Barnsley,1-1
--,Glossop North End,Barnsley,2-1
--,Grimsby Town,Barnsley,1-0
--,Hull City,Barnsley,2-0
--,Leeds City,Barnsley,2-1
--,Leicester City,Barnsley,2-1
--,Leyton Orient,Barnsley,1-0
--,Lincoln City,Barnsley,1-0
--,Nottingham Forest,Barnsley,0-0
--,Port Vale,Barnsley,2-2
--,Stockport County,Barnsley,0-0
--,West Bromwich Albion,Barnsley,3-1
--,Wolverhampton Wanderers,Barnsley,5-1
--,Barnsley,Blackpool,3-2
--,Bradford City,Blackpool,3-0
--,Burnley,Blackpool,2-1
--,Burton United,Blackpool,0-0
--,Chelsea,Blackpool,3-0
--,Chesterfield,Blackpool,0-1
--,Gainsborough Trinity,Blackpool,2-0
--,Glossop North End,Blackpool,0-0
--,Grimsby Town,Blackpool,0-0
--,Hull City,Blackpool,3-0
--,Leeds City,Blackpool,1-1
--,Leicester City,Blackpool,5-1
--,Leyton Orient,Blackpool,0-0
--,Lincoln City,Blackpool,0-1
--,Nottingham Forest,Blackpool,3-0
--,Port Vale,Blackpool,3-0
--,Stockport County,Blackpool,0-0
--,West Bromwich Albion,Blackpool,3-0
--,Wolverhampton Wanderers,Blackpool,1-1
--,Barnsley,Bradford City,3-1
--,Blackpool,Bradford City,1-0
--,Burnley,Bradford City,0-1
--,Burton United,Bradford City,1-0
--,Chelsea,Bradford City,5-1
--,Chesterfield,Bradford City,3-4
--,Gainsborough Trinity,Bradford City,4-1
--,Glossop North End,Bradford City,1-2
--,Grimsby Town,Bradford City,0-2
--,Hull City,Bradford City,0-3
--,Leeds City,Bradford City,1-1
--,Leicester City,Bradford City,1-0
--,Leyton Orient,Bradford City,1-1
--,Lincoln City,Bradford City,0-2
--,Nottingham Forest,Bradford City,3-0
--,Port Vale,Bradford City,2-3
--,Stockport County,Bradford City,2-1
--,West Bromwich Albion,Bradford City,3-0
--,Wolverhampton Wanderers,Bradford City,1-1
--,Barnsley,Burnley,5-0
--,Blackpool,Burnley,2-0
--,Bradford City,Burnley,3-1
--,Burton United,Burnley,0-1
--,Chelsea,Burnley,2-0
--,Chesterfield,Burnley,0-1
--,Gainsborough Trinity,Burnley,0-2
--,Glossop North End,Burnley,1-0
--,Grimsby Town,Burnley,1-0
--,Hull City,Burnley,1-1
--,Leeds City,Burnley,0-1
--,Leicester City,Burnley,2-0
--,Leyton Orient,Burnley,2-1
--,Lincoln City,Burnley,1-2
--,Nottingham Forest,Burnley,2-0
--,Port Vale,Burnley,4-4
--,Stockport County,Burnley,2-1
--,West Bromwich Albion,Burnley,3-2
--,Wolverhampton Wanderers,Burnley,3-0
--,Barnsley,Burton United,6-1
--,Blackpool,Burton United,1-1
--,Bradford City,Burton United,2-3
--,Burnley,Burton United,4-0
--,Chelsea,Burton United,1-0
--,Chesterfield,Burton United,2-0
--,Gainsborough Trinity,Burton United,2-0
--,Glossop North End,Burton United,2-2
--,Grimsby Town,Burton United,1-1
--,Hull City,Burton United,3-0
--,Leeds City,Burton United,3-1
--,Leicester City,Burton United,3-0
--,Leyton Orient,Burton United,1-0
--,Lincoln City,Burton United,2-0
--,Nottingham Forest,Burton United,2-0
--,Port Vale,Burton United,0-0
--,Stockport County,Burton United,2-0
--,West Bromwich Albion,Burton United,5-1
--,Wolverhampton Wanderers,Burton United,3-0
--,Barnsley,Chelsea,3-1
--,Blackpool,Chelsea,0-0
--,Bradford City,Chelsea,6-3
--,Burnley,Chelsea,1-1
--,Burton United,Chelsea,2-1
--,Chesterfield,Chelsea,0-0
--,Gainsborough Trinity,Chelsea,1-1
--,Glossop North End,Chelsea,0-1
--,Grimsby Town,Chelsea,2-1
--,Hull City,Chelsea,0-1
--,Leeds City,Chelsea,0-1
--,Leicester City,Chelsea,1-1
--,Leyton Orient,Chelsea,0-1
--,Lincoln City,Chelsea,0-5
--,Nottingham Forest,Chelsea,3-1
--,Port Vale,Chelsea,2-0
--,Stockport County,Chelsea,1-2
--,West Bromwich Albion,Chelsea,1-2
--,Wolverhampton Wanderers,Chelsea,1-2
--,Barnsley,Chesterfield,2-1
--,Blackpool,Chesterfield,0-0
--,Bradford City,Chesterfield,1-0
--,Burnley,Chesterfield,0-0
--,Burton United,Chesterfield,3-1
--,Chelsea,Chesterfield,7-1
--,Gainsborough Trinity,Chesterfield,1-0
--,Glossop North End,Chesterfield,3-1
--,Grimsby Town,Chesterfield,3-1
--,Hull City,Chesterfield,2-0
--,Leeds City,Chesterfield,1-0
--,Leicester City,Chesterfield,2-0
--,Leyton Orient,Chesterfield,1-2
--,Lincoln City,Chesterfield,1-0
--,Nottingham Forest,Chesterfield,3-1
--,Port Vale,Chesterfield,2-2
--,Stockport County,Chesterfield,1-1
--,West Bromwich Albion,Chesterfield,5-2
--,Wolverhampton Wanderers,Chesterfield,2-1
--,Barnsley,Gainsborough Trinity,6-0
--,Blackpool,Gainsborough Trinity,1-0
--,Bradford City,Gainsborough Trinity,1-1
--,Burnley,Gainsborough Trinity,1-0
--,Burton United,Gainsborough Trinity,0-0
--,Chelsea,Gainsborough Trinity,4-1
--,Chesterfield,Gainsborough Trinity,7-0
--,Glossop North End,Gainsborough Trinity,3-1
--,Grimsby Town,Gainsborough Trinity,2-0
--,Hull City,Gainsborough Trinity,2-4
--,Leeds City,Gainsborough Trinity,4-0
--,Leicester City,Gainsborough Trinity,3-1
--,Leyton Orient,Gainsborough Trinity,3-1
--,Lincoln City,Gainsborough Trinity,4-0
--,Nottingham Forest,Gainsborough Trinity,3-1
--,Port Vale,Gainsborough Trinity,1-0
--,Stockport County,Gainsborough Trinity,1-2
--,West Bromwich Albion,Gainsborough Trinity,5-0
--,Wolverhampton Wanderers,Gainsborough Trinity,1-0
--,Barnsley,Glossop North End,3-0
--,Blackpool,Glossop North End,4-1
--,Bradford City,Glossop North End,2-1
--,Burnley,Glossop North End,1-1
--,Burton United,Glossop North End,1-2
--,Chelsea,Glossop North End,9-2
--,Chesterfield,Glossop North End,1-3
--,Gainsborough Trinity,Glossop North End,2-1
--,Grimsby Town,Glossop North End,2-1
--,Hull City,Glossop North End,5-0
--,Leeds City,Glossop North End,1-4
--,Leicester City,Glossop North End,2-2
--,Leyton Orient,Glossop North End,3-0
--,Lincoln City,Glossop North End,2-1
--,Nottingham Forest,Glossop North End,2-0
--,Port Vale,Glossop North End,4-1
--,Stockport County,Glossop North End,5-0
--,West Bromwich Albion,Glossop North End,5-1
--,Wolverhampton Wanderers,Glossop North End,4-0
--,Barnsley,Grimsby Town,1-1
--,Blackpool,Grimsby Town,4-3
--,Bradford City,Grimsby Town,1-0
--,Burnley,Grimsby Town,2-0
--,Burton United,Grimsby Town,2-3
--,Chelsea,Grimsby Town,2-0
--,Chesterfield,Grimsby Town,1-3
--,Gainsborough Trinity,Grimsby Town,2-1
--,Glossop North End,Grimsby Town,1-0
--,Hull City,Grimsby Town,4-2
--,Leeds City,Grimsby Town,4-3
--,Leicester City,Grimsby Town,2-0
--,Leyton Orient,Grimsby Town,1-0
--,Lincoln City,Grimsby Town,2-1
--,Nottingham Forest,Grimsby Town,0-3
--,Port Vale,Grimsby Town,3-2
--,Stockport County,Grimsby Town,3-0
--,West Bromwich Albion,Grimsby Town,6-1
--,Wolverhampton Wanderers,Grimsby Town,5-0
--,Barnsley,Hull City,4-2
--,Blackpool,Hull City,1-1
--,Bradford City,Hull City,1-0
--,Burnley,Hull City,4-2
--,Burton United,Hull City,1-2
--,Chelsea,Hull City,3-0
--,Chesterfield,Hull City,3-1
--,Gainsborough Trinity,Hull City,1-1
--,Glossop North End,Hull City,2-4
--,Grimsby Town,Hull City,1-3
--,Leeds City,Hull City,2-2
--,Leicester City,Hull City,3-0
--,Leyton Orient,Hull City,2-1
--,Lincoln City,Hull City,0-1
--,Nottingham Forest,Hull City,2-1
--,Port Vale,Hull City,2-1
--,Stockport County,Hull City,1-1
--,West Bromwich Albion,Hull City,3-0
--,Wolverhampton Wanderers,Hull City,1-1
--,Barnsley,Leeds City,3-0
--,Blackpool,Leeds City,1-0
--,Bradford City,Leeds City,2-2
--,Burnley,Leeds City,1-2
--,Burton United,Leeds City,0-2
--,Chelsea,Leeds City,2-0
--,Chesterfield,Leeds City,1-0
--,Gainsborough Trinity,Leeds City,1-0
--,Glossop North End,Leeds City,2-0
--,Grimsby Town,Leeds City,4-0
--,Hull City,Leeds City,2-1
--,Leicester City,Leeds City,2-2
--,Leyton Orient,Leeds City,1-1
--,Lincoln City,Leeds City,1-1
--,Nottingham Forest,Leeds City,3-0
--,Port Vale,Leeds City,1-2
--,Stockport County,Leeds City,2-2
--,West Bromwich Albion,Leeds City,5-0
--,Wolverhampton Wanderers,Leeds City,3-2
--,Barnsley,Leicester City,2-2
--,Blackpool,Leicester City,1-0
--,Bradford City,Leicester City,3-1
--,Burnley,Leicester City,5-0
--,Burton United,Leicester City,0-1
--,Chelsea,Leicester City,1-0
--,Chesterfield,Leicester City,2-1
--,Gainsborough Trinity,Leicester City,1-2
--,Glossop North End,Leicester City,2-2
--,Grimsby Town,Leicester City,0-1
--,Hull City,Leicester City,1-1
--,Leeds City,Leicester City,1-1
--,Leyton Orient,Leicester City,1-0
--,Lincoln City,Leicester City,2-2
--,Nottingham Forest,Leicester City,2-1
--,Port Vale,Leicester City,1-2
--,Stockport County,Leicester City,1-0
--,West Bromwich Albion,Leicester City,0-1
--,Wolverhampton Wanderers,Leicester City,1-0
--,Barnsley,Leyton Orient,3-2
--,Blackpool,Leyton Orient,1-3
--,Bradford City,Leyton Orient,5-2
--,Burnley,Leyton Orient,3-0
--,Burton United,Leyton Orient,2-1
--,Chelsea,Leyton Orient,2-1
--,Chesterfield,Leyton Orient,2-1
--,Gainsborough Trinity,Leyton Orient,3-1
--,Glossop North End,Leyton Orient,3-0
--,Grimsby Town,Leyton Orient,1-2
--,Hull City,Leyton Orient,2-0
--,Leeds City,Leyton Orient,3-2
--,Leicester City,Leyton Orient,2-1
--,Lincoln City,Leyton Orient,3-0
--,Nottingham Forest,Leyton Orient,4-0
--,Port Vale,Leyton Orient,3-2
--,Stockport County,Leyton Orient,1-1
--,West Bromwich Albion,Leyton Orient,5-0
--,Wolverhampton Wanderers,Leyton Orient,6-1
--,Barnsley,Lincoln City,6-2
--,Blackpool,Lincoln City,2-0
--,Bradford City,Lincoln City,3-0
--,Burnley,Lincoln City,5-1
--,Burton United,Lincoln City,3-4
--,Chelsea,Lincoln City,2-0
--,Chesterfield,Lincoln City,1-0
--,Gainsborough Trinity,Lincoln City,2-1
--,Glossop North End,Lincoln City,2-1
--,Grimsby Town,Lincoln City,4-0
--,Hull City,Lincoln City,1-2
--,Leeds City,Lincoln City,1-1
--,Leicester City,Lincoln City,3-0
--,Leyton Orient,Lincoln City,1-1
--,Nottingham Forest,Lincoln City,3-1
--,Port Vale,Lincoln City,4-2
--,Stockport County,Lincoln City,1-0
--,West Bromwich Albion,Lincoln City,2-1
--,Wolverhampton Wanderers,Lincoln City,3-0
--,Barnsley,Nottingham Forest,0-1
--,Blackpool,Nottingham Forest,1-2
--,Bradford City,Nottingham Forest,1-2
--,Burnley,Nottingham Forest,2-1
--,Burton United,Nottingham Forest,0-2
--,Chelsea,Nottingham Forest,0-2
--,Chesterfield,Nottingham Forest,1-1
--,Gainsborough Trinity,Nottingham Forest,2-3
--,Glossop North End,Nottingham Forest,0-2
--,Grimsby Town,Nottingham Forest,3-1
--,Hull City,Nottingham Forest,1-2
--,Leeds City,Nottingham Forest,1-4
--,Leicester City,Nottingham Forest,1-2
--,Leyton Orient,Nottingham Forest,0-1
--,Lincoln City,Nottingham Forest,1-2
--,Port Vale,Nottingham Forest,4-2
--,Stockport County,Nottingham Forest,0-0
--,West Bromwich Albion,Nottingham Forest,3-1
--,Wolverhampton Wanderers,Nottingham Forest,2-0
--,Barnsley,Port Vale,3-2
--,Blackpool,Port Vale,0-1
--,Bradford City,Port Vale,3-2
--,Burnley,Port Vale,6-0
--,Burton United,Port Vale,2-0
--,Chelsea,Port Vale,2-1
--,Chesterfield,Port Vale,4-2
--,Gainsborough Trinity,Port Vale,2-0
--,Glossop North End,Port Vale,4-0
--,Grimsby Town,Port Vale,2-0
--,Hull City,Port Vale,4-1
--,Leeds City,Port Vale,2-0
--,Leicester City,Port Vale,4-1
--,Leyton Orient,Port Vale,1-1
--,Lincoln City,Port Vale,4-0
--,Nottingham Forest,Port Vale,2-2
--,Stockport County,Port Vale,3-0
--,West Bromwich Albion,Port Vale,3-0
--,Wolverhampton Wanderers,Port Vale,6-2
--,Barnsley,Stockport County,3-1
--,Blackpool,Stockport County,0-1
--,Bradford City,Stockport County,1-0
--,Burnley,Stockport County,3-0
--,Burton United,Stockport County,0-1
--,Chelsea,Stockport County,2-0
--,Chesterfield,Stockport County,0-2
--,Gainsborough Trinity,Stockport County,3-1
--,Glossop North End,Stockport County,2-3
--,Grimsby Town,Stockport County,3-1
--,Hull City,Stockport County,3-0
--,Leeds City,Stockport County,6-1
--,Leicester City,Stockport County,1-0
--,Leyton Orient,Stockport County,1-1
--,Lincoln City,Stockport County,3-1
--,Nottingham Forest,Stockport County,2-1
--,Port Vale,Stockport County,5-0
--,West Bromwich Albion,Stockport County,1-1
--,Wolverhampton Wanderers,Stockport County,1-1
--,Barnsley,West Bromwich Albion,0-1
--,Blackpool,West Bromwich Albion,2-1
--,Bradford City,West Bromwich Albion,4-0
--,Burnley,West Bromwich Albion,0-1
--,Burton United,West Bromwich Albion,2-0
--,Chelsea,West Bromwich Albion,2-0
--,Chesterfield,West Bromwich Albion,2-2
--,Gainsborough Trinity,West Bromwich Albion,2-4
--,Glossop North End,West Bromwich Albion,0-0
--,Grimsby Town,West Bromwich Albion,2-1
--,Hull City,West Bromwich Albion,0-1
--,Leeds City,West Bromwich Albion,3-2
--,Leicester City,West Bromwich Albion,3-0
--,Leyton Orient,West Bromwich Albion,1-1
--,Lincoln City,West Bromwich Albion,2-1
--,Nottingham Forest,West Bromwich Albion,3-1
--,Port Vale,West Bromwich Albion,2-1
--,Stockport County,West Bromwich Albion,0-1
--,Wolverhampton Wanderers,West Bromwich Albion,0-3
--,Barnsley,Wolverhampton Wanderers,0-1
--,Blackpool,Wolverhampton Wanderers,1-2
--,Bradford City,Wolverhampton Wanderers,2-3
--,Burnley,Wolverhampton Wanderers,3-0
--,Burton United,Wolverhampton Wanderers,4-1
--,Chelsea,Wolverhampton Wanderers,4-0
--,Chesterfield,Wolverhampton Wanderers,3-2
--,Gainsborough Trinity,Wolverhampton Wanderers,1-0
--,Glossop North End,Wolverhampton Wanderers,2-1
--,Grimsby Town,Wolverhampton Wanderers,2-1
--,Hull City,Wolverhampton Wanderers,5-1
--,Leeds City,Wolverhampton Wanderers,2-0
--,Leicester City,Wolverhampton Wanderers,2-0
--,Leyton Orient,Wolverhampton Wanderers,4-0
--,Lincoln City,Wolverhampton Wanderers,0-4
--,Nottingham Forest,Wolverhampton Wanderers,1-0
--,Port Vale,Wolverhampton Wanderers,0-0
--,Stockport County,Wolverhampton Wanderers,0-0
--,West Bromwich Albion,Wolverhampton Wanderers,1-1
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Blackpool,Barnsley,2-3,-
+-,-,Bradford City,Barnsley,2-0,-
+-,-,Burnley,Barnsley,2-2,-
+-,-,Burton United,Barnsley,1-1,-
+-,-,Chelsea,Barnsley,2-1,-
+-,-,Chesterfield,Barnsley,3-2,-
+-,-,Gainsborough Trinity,Barnsley,1-1,-
+-,-,Glossop North End,Barnsley,2-1,-
+-,-,Grimsby Town,Barnsley,1-0,-
+-,-,Hull City,Barnsley,2-0,-
+-,-,Leeds City,Barnsley,2-1,-
+-,-,Leicester City,Barnsley,2-1,-
+-,-,Leyton Orient,Barnsley,1-0,-
+-,-,Lincoln City,Barnsley,1-0,-
+-,-,Nottingham Forest,Barnsley,0-0,-
+-,-,Port Vale,Barnsley,2-2,-
+-,-,Stockport County,Barnsley,0-0,-
+-,-,West Bromwich Albion,Barnsley,3-1,-
+-,-,Wolverhampton Wanderers,Barnsley,5-1,-
+-,-,Barnsley,Blackpool,3-2,-
+-,-,Bradford City,Blackpool,3-0,-
+-,-,Burnley,Blackpool,2-1,-
+-,-,Burton United,Blackpool,0-0,-
+-,-,Chelsea,Blackpool,3-0,-
+-,-,Chesterfield,Blackpool,0-1,-
+-,-,Gainsborough Trinity,Blackpool,2-0,-
+-,-,Glossop North End,Blackpool,0-0,-
+-,-,Grimsby Town,Blackpool,0-0,-
+-,-,Hull City,Blackpool,3-0,-
+-,-,Leeds City,Blackpool,1-1,-
+-,-,Leicester City,Blackpool,5-1,-
+-,-,Leyton Orient,Blackpool,0-0,-
+-,-,Lincoln City,Blackpool,0-1,-
+-,-,Nottingham Forest,Blackpool,3-0,-
+-,-,Port Vale,Blackpool,3-0,-
+-,-,Stockport County,Blackpool,0-0,-
+-,-,West Bromwich Albion,Blackpool,3-0,-
+-,-,Wolverhampton Wanderers,Blackpool,1-1,-
+-,-,Barnsley,Bradford City,3-1,-
+-,-,Blackpool,Bradford City,1-0,-
+-,-,Burnley,Bradford City,0-1,-
+-,-,Burton United,Bradford City,1-0,-
+-,-,Chelsea,Bradford City,5-1,-
+-,-,Chesterfield,Bradford City,3-4,-
+-,-,Gainsborough Trinity,Bradford City,4-1,-
+-,-,Glossop North End,Bradford City,1-2,-
+-,-,Grimsby Town,Bradford City,0-2,-
+-,-,Hull City,Bradford City,0-3,-
+-,-,Leeds City,Bradford City,1-1,-
+-,-,Leicester City,Bradford City,1-0,-
+-,-,Leyton Orient,Bradford City,1-1,-
+-,-,Lincoln City,Bradford City,0-2,-
+-,-,Nottingham Forest,Bradford City,3-0,-
+-,-,Port Vale,Bradford City,2-3,-
+-,-,Stockport County,Bradford City,2-1,-
+-,-,West Bromwich Albion,Bradford City,3-0,-
+-,-,Wolverhampton Wanderers,Bradford City,1-1,-
+-,-,Barnsley,Burnley,5-0,-
+-,-,Blackpool,Burnley,2-0,-
+-,-,Bradford City,Burnley,3-1,-
+-,-,Burton United,Burnley,0-1,-
+-,-,Chelsea,Burnley,2-0,-
+-,-,Chesterfield,Burnley,0-1,-
+-,-,Gainsborough Trinity,Burnley,0-2,-
+-,-,Glossop North End,Burnley,1-0,-
+-,-,Grimsby Town,Burnley,1-0,-
+-,-,Hull City,Burnley,1-1,-
+-,-,Leeds City,Burnley,0-1,-
+-,-,Leicester City,Burnley,2-0,-
+-,-,Leyton Orient,Burnley,2-1,-
+-,-,Lincoln City,Burnley,1-2,-
+-,-,Nottingham Forest,Burnley,2-0,-
+-,-,Port Vale,Burnley,4-4,-
+-,-,Stockport County,Burnley,2-1,-
+-,-,West Bromwich Albion,Burnley,3-2,-
+-,-,Wolverhampton Wanderers,Burnley,3-0,-
+-,-,Barnsley,Burton United,6-1,-
+-,-,Blackpool,Burton United,1-1,-
+-,-,Bradford City,Burton United,2-3,-
+-,-,Burnley,Burton United,4-0,-
+-,-,Chelsea,Burton United,1-0,-
+-,-,Chesterfield,Burton United,2-0,-
+-,-,Gainsborough Trinity,Burton United,2-0,-
+-,-,Glossop North End,Burton United,2-2,-
+-,-,Grimsby Town,Burton United,1-1,-
+-,-,Hull City,Burton United,3-0,-
+-,-,Leeds City,Burton United,3-1,-
+-,-,Leicester City,Burton United,3-0,-
+-,-,Leyton Orient,Burton United,1-0,-
+-,-,Lincoln City,Burton United,2-0,-
+-,-,Nottingham Forest,Burton United,2-0,-
+-,-,Port Vale,Burton United,0-0,-
+-,-,Stockport County,Burton United,2-0,-
+-,-,West Bromwich Albion,Burton United,5-1,-
+-,-,Wolverhampton Wanderers,Burton United,3-0,-
+-,-,Barnsley,Chelsea,3-1,-
+-,-,Blackpool,Chelsea,0-0,-
+-,-,Bradford City,Chelsea,6-3,-
+-,-,Burnley,Chelsea,1-1,-
+-,-,Burton United,Chelsea,2-1,-
+-,-,Chesterfield,Chelsea,0-0,-
+-,-,Gainsborough Trinity,Chelsea,1-1,-
+-,-,Glossop North End,Chelsea,0-1,-
+-,-,Grimsby Town,Chelsea,2-1,-
+-,-,Hull City,Chelsea,0-1,-
+-,-,Leeds City,Chelsea,0-1,-
+-,-,Leicester City,Chelsea,1-1,-
+-,-,Leyton Orient,Chelsea,0-1,-
+-,-,Lincoln City,Chelsea,0-5,-
+-,-,Nottingham Forest,Chelsea,3-1,-
+-,-,Port Vale,Chelsea,2-0,-
+-,-,Stockport County,Chelsea,1-2,-
+-,-,West Bromwich Albion,Chelsea,1-2,-
+-,-,Wolverhampton Wanderers,Chelsea,1-2,-
+-,-,Barnsley,Chesterfield,2-1,-
+-,-,Blackpool,Chesterfield,0-0,-
+-,-,Bradford City,Chesterfield,1-0,-
+-,-,Burnley,Chesterfield,0-0,-
+-,-,Burton United,Chesterfield,3-1,-
+-,-,Chelsea,Chesterfield,7-1,-
+-,-,Gainsborough Trinity,Chesterfield,1-0,-
+-,-,Glossop North End,Chesterfield,3-1,-
+-,-,Grimsby Town,Chesterfield,3-1,-
+-,-,Hull City,Chesterfield,2-0,-
+-,-,Leeds City,Chesterfield,1-0,-
+-,-,Leicester City,Chesterfield,2-0,-
+-,-,Leyton Orient,Chesterfield,1-2,-
+-,-,Lincoln City,Chesterfield,1-0,-
+-,-,Nottingham Forest,Chesterfield,3-1,-
+-,-,Port Vale,Chesterfield,2-2,-
+-,-,Stockport County,Chesterfield,1-1,-
+-,-,West Bromwich Albion,Chesterfield,5-2,-
+-,-,Wolverhampton Wanderers,Chesterfield,2-1,-
+-,-,Barnsley,Gainsborough Trinity,6-0,-
+-,-,Blackpool,Gainsborough Trinity,1-0,-
+-,-,Bradford City,Gainsborough Trinity,1-1,-
+-,-,Burnley,Gainsborough Trinity,1-0,-
+-,-,Burton United,Gainsborough Trinity,0-0,-
+-,-,Chelsea,Gainsborough Trinity,4-1,-
+-,-,Chesterfield,Gainsborough Trinity,7-0,-
+-,-,Glossop North End,Gainsborough Trinity,3-1,-
+-,-,Grimsby Town,Gainsborough Trinity,2-0,-
+-,-,Hull City,Gainsborough Trinity,2-4,-
+-,-,Leeds City,Gainsborough Trinity,4-0,-
+-,-,Leicester City,Gainsborough Trinity,3-1,-
+-,-,Leyton Orient,Gainsborough Trinity,3-1,-
+-,-,Lincoln City,Gainsborough Trinity,4-0,-
+-,-,Nottingham Forest,Gainsborough Trinity,3-1,-
+-,-,Port Vale,Gainsborough Trinity,1-0,-
+-,-,Stockport County,Gainsborough Trinity,1-2,-
+-,-,West Bromwich Albion,Gainsborough Trinity,5-0,-
+-,-,Wolverhampton Wanderers,Gainsborough Trinity,1-0,-
+-,-,Barnsley,Glossop North End,3-0,-
+-,-,Blackpool,Glossop North End,4-1,-
+-,-,Bradford City,Glossop North End,2-1,-
+-,-,Burnley,Glossop North End,1-1,-
+-,-,Burton United,Glossop North End,1-2,-
+-,-,Chelsea,Glossop North End,9-2,-
+-,-,Chesterfield,Glossop North End,1-3,-
+-,-,Gainsborough Trinity,Glossop North End,2-1,-
+-,-,Grimsby Town,Glossop North End,2-1,-
+-,-,Hull City,Glossop North End,5-0,-
+-,-,Leeds City,Glossop North End,1-4,-
+-,-,Leicester City,Glossop North End,2-2,-
+-,-,Leyton Orient,Glossop North End,3-0,-
+-,-,Lincoln City,Glossop North End,2-1,-
+-,-,Nottingham Forest,Glossop North End,2-0,-
+-,-,Port Vale,Glossop North End,4-1,-
+-,-,Stockport County,Glossop North End,5-0,-
+-,-,West Bromwich Albion,Glossop North End,5-1,-
+-,-,Wolverhampton Wanderers,Glossop North End,4-0,-
+-,-,Barnsley,Grimsby Town,1-1,-
+-,-,Blackpool,Grimsby Town,4-3,-
+-,-,Bradford City,Grimsby Town,1-0,-
+-,-,Burnley,Grimsby Town,2-0,-
+-,-,Burton United,Grimsby Town,2-3,-
+-,-,Chelsea,Grimsby Town,2-0,-
+-,-,Chesterfield,Grimsby Town,1-3,-
+-,-,Gainsborough Trinity,Grimsby Town,2-1,-
+-,-,Glossop North End,Grimsby Town,1-0,-
+-,-,Hull City,Grimsby Town,4-2,-
+-,-,Leeds City,Grimsby Town,4-3,-
+-,-,Leicester City,Grimsby Town,2-0,-
+-,-,Leyton Orient,Grimsby Town,1-0,-
+-,-,Lincoln City,Grimsby Town,2-1,-
+-,-,Nottingham Forest,Grimsby Town,0-3,-
+-,-,Port Vale,Grimsby Town,3-2,-
+-,-,Stockport County,Grimsby Town,3-0,-
+-,-,West Bromwich Albion,Grimsby Town,6-1,-
+-,-,Wolverhampton Wanderers,Grimsby Town,5-0,-
+-,-,Barnsley,Hull City,4-2,-
+-,-,Blackpool,Hull City,1-1,-
+-,-,Bradford City,Hull City,1-0,-
+-,-,Burnley,Hull City,4-2,-
+-,-,Burton United,Hull City,1-2,-
+-,-,Chelsea,Hull City,3-0,-
+-,-,Chesterfield,Hull City,3-1,-
+-,-,Gainsborough Trinity,Hull City,1-1,-
+-,-,Glossop North End,Hull City,2-4,-
+-,-,Grimsby Town,Hull City,1-3,-
+-,-,Leeds City,Hull City,2-2,-
+-,-,Leicester City,Hull City,3-0,-
+-,-,Leyton Orient,Hull City,2-1,-
+-,-,Lincoln City,Hull City,0-1,-
+-,-,Nottingham Forest,Hull City,2-1,-
+-,-,Port Vale,Hull City,2-1,-
+-,-,Stockport County,Hull City,1-1,-
+-,-,West Bromwich Albion,Hull City,3-0,-
+-,-,Wolverhampton Wanderers,Hull City,1-1,-
+-,-,Barnsley,Leeds City,3-0,-
+-,-,Blackpool,Leeds City,1-0,-
+-,-,Bradford City,Leeds City,2-2,-
+-,-,Burnley,Leeds City,1-2,-
+-,-,Burton United,Leeds City,0-2,-
+-,-,Chelsea,Leeds City,2-0,-
+-,-,Chesterfield,Leeds City,1-0,-
+-,-,Gainsborough Trinity,Leeds City,1-0,-
+-,-,Glossop North End,Leeds City,2-0,-
+-,-,Grimsby Town,Leeds City,4-0,-
+-,-,Hull City,Leeds City,2-1,-
+-,-,Leicester City,Leeds City,2-2,-
+-,-,Leyton Orient,Leeds City,1-1,-
+-,-,Lincoln City,Leeds City,1-1,-
+-,-,Nottingham Forest,Leeds City,3-0,-
+-,-,Port Vale,Leeds City,1-2,-
+-,-,Stockport County,Leeds City,2-2,-
+-,-,West Bromwich Albion,Leeds City,5-0,-
+-,-,Wolverhampton Wanderers,Leeds City,3-2,-
+-,-,Barnsley,Leicester City,2-2,-
+-,-,Blackpool,Leicester City,1-0,-
+-,-,Bradford City,Leicester City,3-1,-
+-,-,Burnley,Leicester City,5-0,-
+-,-,Burton United,Leicester City,0-1,-
+-,-,Chelsea,Leicester City,1-0,-
+-,-,Chesterfield,Leicester City,2-1,-
+-,-,Gainsborough Trinity,Leicester City,1-2,-
+-,-,Glossop North End,Leicester City,2-2,-
+-,-,Grimsby Town,Leicester City,0-1,-
+-,-,Hull City,Leicester City,1-1,-
+-,-,Leeds City,Leicester City,1-1,-
+-,-,Leyton Orient,Leicester City,1-0,-
+-,-,Lincoln City,Leicester City,2-2,-
+-,-,Nottingham Forest,Leicester City,2-1,-
+-,-,Port Vale,Leicester City,1-2,-
+-,-,Stockport County,Leicester City,1-0,-
+-,-,West Bromwich Albion,Leicester City,0-1,-
+-,-,Wolverhampton Wanderers,Leicester City,1-0,-
+-,-,Barnsley,Leyton Orient,3-2,-
+-,-,Blackpool,Leyton Orient,1-3,-
+-,-,Bradford City,Leyton Orient,5-2,-
+-,-,Burnley,Leyton Orient,3-0,-
+-,-,Burton United,Leyton Orient,2-1,-
+-,-,Chelsea,Leyton Orient,2-1,-
+-,-,Chesterfield,Leyton Orient,2-1,-
+-,-,Gainsborough Trinity,Leyton Orient,3-1,-
+-,-,Glossop North End,Leyton Orient,3-0,-
+-,-,Grimsby Town,Leyton Orient,1-2,-
+-,-,Hull City,Leyton Orient,2-0,-
+-,-,Leeds City,Leyton Orient,3-2,-
+-,-,Leicester City,Leyton Orient,2-1,-
+-,-,Lincoln City,Leyton Orient,3-0,-
+-,-,Nottingham Forest,Leyton Orient,4-0,-
+-,-,Port Vale,Leyton Orient,3-2,-
+-,-,Stockport County,Leyton Orient,1-1,-
+-,-,West Bromwich Albion,Leyton Orient,5-0,-
+-,-,Wolverhampton Wanderers,Leyton Orient,6-1,-
+-,-,Barnsley,Lincoln City,6-2,-
+-,-,Blackpool,Lincoln City,2-0,-
+-,-,Bradford City,Lincoln City,3-0,-
+-,-,Burnley,Lincoln City,5-1,-
+-,-,Burton United,Lincoln City,3-4,-
+-,-,Chelsea,Lincoln City,2-0,-
+-,-,Chesterfield,Lincoln City,1-0,-
+-,-,Gainsborough Trinity,Lincoln City,2-1,-
+-,-,Glossop North End,Lincoln City,2-1,-
+-,-,Grimsby Town,Lincoln City,4-0,-
+-,-,Hull City,Lincoln City,1-2,-
+-,-,Leeds City,Lincoln City,1-1,-
+-,-,Leicester City,Lincoln City,3-0,-
+-,-,Leyton Orient,Lincoln City,1-1,-
+-,-,Nottingham Forest,Lincoln City,3-1,-
+-,-,Port Vale,Lincoln City,4-2,-
+-,-,Stockport County,Lincoln City,1-0,-
+-,-,West Bromwich Albion,Lincoln City,2-1,-
+-,-,Wolverhampton Wanderers,Lincoln City,3-0,-
+-,-,Barnsley,Nottingham Forest,0-1,-
+-,-,Blackpool,Nottingham Forest,1-2,-
+-,-,Bradford City,Nottingham Forest,1-2,-
+-,-,Burnley,Nottingham Forest,2-1,-
+-,-,Burton United,Nottingham Forest,0-2,-
+-,-,Chelsea,Nottingham Forest,0-2,-
+-,-,Chesterfield,Nottingham Forest,1-1,-
+-,-,Gainsborough Trinity,Nottingham Forest,2-3,-
+-,-,Glossop North End,Nottingham Forest,0-2,-
+-,-,Grimsby Town,Nottingham Forest,3-1,-
+-,-,Hull City,Nottingham Forest,1-2,-
+-,-,Leeds City,Nottingham Forest,1-4,-
+-,-,Leicester City,Nottingham Forest,1-2,-
+-,-,Leyton Orient,Nottingham Forest,0-1,-
+-,-,Lincoln City,Nottingham Forest,1-2,-
+-,-,Port Vale,Nottingham Forest,4-2,-
+-,-,Stockport County,Nottingham Forest,0-0,-
+-,-,West Bromwich Albion,Nottingham Forest,3-1,-
+-,-,Wolverhampton Wanderers,Nottingham Forest,2-0,-
+-,-,Barnsley,Port Vale,3-2,-
+-,-,Blackpool,Port Vale,0-1,-
+-,-,Bradford City,Port Vale,3-2,-
+-,-,Burnley,Port Vale,6-0,-
+-,-,Burton United,Port Vale,2-0,-
+-,-,Chelsea,Port Vale,2-1,-
+-,-,Chesterfield,Port Vale,4-2,-
+-,-,Gainsborough Trinity,Port Vale,2-0,-
+-,-,Glossop North End,Port Vale,4-0,-
+-,-,Grimsby Town,Port Vale,2-0,-
+-,-,Hull City,Port Vale,4-1,-
+-,-,Leeds City,Port Vale,2-0,-
+-,-,Leicester City,Port Vale,4-1,-
+-,-,Leyton Orient,Port Vale,1-1,-
+-,-,Lincoln City,Port Vale,4-0,-
+-,-,Nottingham Forest,Port Vale,2-2,-
+-,-,Stockport County,Port Vale,3-0,-
+-,-,West Bromwich Albion,Port Vale,3-0,-
+-,-,Wolverhampton Wanderers,Port Vale,6-2,-
+-,-,Barnsley,Stockport County,3-1,-
+-,-,Blackpool,Stockport County,0-1,-
+-,-,Bradford City,Stockport County,1-0,-
+-,-,Burnley,Stockport County,3-0,-
+-,-,Burton United,Stockport County,0-1,-
+-,-,Chelsea,Stockport County,2-0,-
+-,-,Chesterfield,Stockport County,0-2,-
+-,-,Gainsborough Trinity,Stockport County,3-1,-
+-,-,Glossop North End,Stockport County,2-3,-
+-,-,Grimsby Town,Stockport County,3-1,-
+-,-,Hull City,Stockport County,3-0,-
+-,-,Leeds City,Stockport County,6-1,-
+-,-,Leicester City,Stockport County,1-0,-
+-,-,Leyton Orient,Stockport County,1-1,-
+-,-,Lincoln City,Stockport County,3-1,-
+-,-,Nottingham Forest,Stockport County,2-1,-
+-,-,Port Vale,Stockport County,5-0,-
+-,-,West Bromwich Albion,Stockport County,1-1,-
+-,-,Wolverhampton Wanderers,Stockport County,1-1,-
+-,-,Barnsley,West Bromwich Albion,0-1,-
+-,-,Blackpool,West Bromwich Albion,2-1,-
+-,-,Bradford City,West Bromwich Albion,4-0,-
+-,-,Burnley,West Bromwich Albion,0-1,-
+-,-,Burton United,West Bromwich Albion,2-0,-
+-,-,Chelsea,West Bromwich Albion,2-0,-
+-,-,Chesterfield,West Bromwich Albion,2-2,-
+-,-,Gainsborough Trinity,West Bromwich Albion,2-4,-
+-,-,Glossop North End,West Bromwich Albion,0-0,-
+-,-,Grimsby Town,West Bromwich Albion,2-1,-
+-,-,Hull City,West Bromwich Albion,0-1,-
+-,-,Leeds City,West Bromwich Albion,3-2,-
+-,-,Leicester City,West Bromwich Albion,3-0,-
+-,-,Leyton Orient,West Bromwich Albion,1-1,-
+-,-,Lincoln City,West Bromwich Albion,2-1,-
+-,-,Nottingham Forest,West Bromwich Albion,3-1,-
+-,-,Port Vale,West Bromwich Albion,2-1,-
+-,-,Stockport County,West Bromwich Albion,0-1,-
+-,-,Wolverhampton Wanderers,West Bromwich Albion,0-3,-
+-,-,Barnsley,Wolverhampton Wanderers,0-1,-
+-,-,Blackpool,Wolverhampton Wanderers,1-2,-
+-,-,Bradford City,Wolverhampton Wanderers,2-3,-
+-,-,Burnley,Wolverhampton Wanderers,3-0,-
+-,-,Burton United,Wolverhampton Wanderers,4-1,-
+-,-,Chelsea,Wolverhampton Wanderers,4-0,-
+-,-,Chesterfield,Wolverhampton Wanderers,3-2,-
+-,-,Gainsborough Trinity,Wolverhampton Wanderers,1-0,-
+-,-,Glossop North End,Wolverhampton Wanderers,2-1,-
+-,-,Grimsby Town,Wolverhampton Wanderers,2-1,-
+-,-,Hull City,Wolverhampton Wanderers,5-1,-
+-,-,Leeds City,Wolverhampton Wanderers,2-0,-
+-,-,Leicester City,Wolverhampton Wanderers,2-0,-
+-,-,Leyton Orient,Wolverhampton Wanderers,4-0,-
+-,-,Lincoln City,Wolverhampton Wanderers,0-4,-
+-,-,Nottingham Forest,Wolverhampton Wanderers,1-0,-
+-,-,Port Vale,Wolverhampton Wanderers,0-0,-
+-,-,Stockport County,Wolverhampton Wanderers,0-0,-
+-,-,West Bromwich Albion,Wolverhampton Wanderers,1-1,-

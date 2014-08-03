@@ -1,0 +1,553 @@
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Barrow,Aldershot,1-1,-
+-,-,Brentford,Aldershot,1-1,-
+-,-,Bury,Aldershot,3-1,-
+-,-,Cambridge United,Aldershot,1-1,-
+-,-,Chester,Aldershot,0-0,-
+-,-,Colchester United,Aldershot,1-0,-
+-,-,Crewe Alexandra,Aldershot,2-1,-
+-,-,Darlington,Aldershot,4-2,-
+-,-,Doncaster Rovers,Aldershot,2-1,-
+-,-,Exeter City,Aldershot,1-0,-
+-,-,Gillingham,Aldershot,0-1,-
+-,-,Grimsby Town,Aldershot,3-3,-
+-,-,Hartlepool United,Aldershot,0-1,-
+-,-,Lincoln City,Aldershot,2-2,-
+-,-,Newport County,Aldershot,2-3,-
+-,-,Northampton Town,Aldershot,2-3,-
+-,-,Peterborough United,Aldershot,0-0,-
+-,-,Reading,Aldershot,2-0,-
+-,-,Scunthorpe United,Aldershot,1-0,-
+-,-,Southend United,Aldershot,1-0,-
+-,-,Southport,Aldershot,0-0,-
+-,-,Stockport County,Aldershot,0-0,-
+-,-,Workington,Aldershot,5-0,-
+-,-,Aldershot,Barrow,1-1,-
+-,-,Brentford,Barrow,4-0,-
+-,-,Bury,Barrow,4-0,-
+-,-,Cambridge United,Barrow,1-0,-
+-,-,Chester,Barrow,0-0,-
+-,-,Colchester United,Barrow,0-1,-
+-,-,Crewe Alexandra,Barrow,1-0,-
+-,-,Darlington,Barrow,0-1,-
+-,-,Doncaster Rovers,Barrow,0-1,-
+-,-,Exeter City,Barrow,7-1,-
+-,-,Gillingham,Barrow,1-1,-
+-,-,Grimsby Town,Barrow,2-0,-
+-,-,Hartlepool United,Barrow,4-3,-
+-,-,Lincoln City,Barrow,3-2,-
+-,-,Newport County,Barrow,2-1,-
+-,-,Northampton Town,Barrow,2-0,-
+-,-,Peterborough United,Barrow,7-0,-
+-,-,Reading,Barrow,1-0,-
+-,-,Scunthorpe United,Barrow,2-1,-
+-,-,Southend United,Barrow,1-0,-
+-,-,Southport,Barrow,1-0,-
+-,-,Stockport County,Barrow,1-3,-
+-,-,Workington,Barrow,0-1,-
+-,-,Aldershot,Brentford,1-2,-
+-,-,Barrow,Brentford,0-3,-
+-,-,Bury,Brentford,0-2,-
+-,-,Cambridge United,Brentford,1-1,-
+-,-,Chester,Brentford,0-0,-
+-,-,Colchester United,Brentford,1-1,-
+-,-,Crewe Alexandra,Brentford,2-1,-
+-,-,Darlington,Brentford,0-0,-
+-,-,Doncaster Rovers,Brentford,0-3,-
+-,-,Exeter City,Brentford,0-1,-
+-,-,Gillingham,Brentford,0-1,-
+-,-,Grimsby Town,Brentford,3-1,-
+-,-,Hartlepool United,Brentford,1-2,-
+-,-,Lincoln City,Brentford,4-1,-
+-,-,Newport County,Brentford,0-0,-
+-,-,Northampton Town,Brentford,0-0,-
+-,-,Peterborough United,Brentford,2-2,-
+-,-,Reading,Brentford,2-1,-
+-,-,Scunthorpe United,Brentford,0-0,-
+-,-,Southend United,Brentford,3-1,-
+-,-,Southport,Brentford,0-0,-
+-,-,Stockport County,Brentford,0-1,-
+-,-,Workington,Brentford,3-0,-
+-,-,Aldershot,Bury,2-2,-
+-,-,Barrow,Bury,1-1,-
+-,-,Brentford,Bury,2-0,-
+-,-,Cambridge United,Bury,0-2,-
+-,-,Chester,Bury,2-0,-
+-,-,Colchester United,Bury,0-0,-
+-,-,Crewe Alexandra,Bury,0-0,-
+-,-,Darlington,Bury,0-0,-
+-,-,Doncaster Rovers,Bury,4-1,-
+-,-,Exeter City,Bury,3-2,-
+-,-,Gillingham,Bury,2-0,-
+-,-,Grimsby Town,Bury,4-1,-
+-,-,Hartlepool United,Bury,3-1,-
+-,-,Lincoln City,Bury,2-0,-
+-,-,Newport County,Bury,2-1,-
+-,-,Northampton Town,Bury,2-2,-
+-,-,Peterborough United,Bury,2-0,-
+-,-,Reading,Bury,0-2,-
+-,-,Scunthorpe United,Bury,3-0,-
+-,-,Southend United,Bury,0-0,-
+-,-,Southport,Bury,0-1,-
+-,-,Stockport County,Bury,2-2,-
+-,-,Workington,Bury,1-0,-
+-,-,Aldershot,Cambridge United,1-1,-
+-,-,Barrow,Cambridge United,1-1,-
+-,-,Brentford,Cambridge United,2-1,-
+-,-,Bury,Cambridge United,0-1,-
+-,-,Chester,Cambridge United,1-1,-
+-,-,Colchester United,Cambridge United,1-1,-
+-,-,Crewe Alexandra,Cambridge United,1-1,-
+-,-,Darlington,Cambridge United,2-1,-
+-,-,Doncaster Rovers,Cambridge United,1-1,-
+-,-,Exeter City,Cambridge United,3-4,-
+-,-,Gillingham,Cambridge United,2-0,-
+-,-,Grimsby Town,Cambridge United,2-1,-
+-,-,Hartlepool United,Cambridge United,1-2,-
+-,-,Lincoln City,Cambridge United,3-1,-
+-,-,Newport County,Cambridge United,3-0,-
+-,-,Northampton Town,Cambridge United,1-2,-
+-,-,Peterborough United,Cambridge United,2-0,-
+-,-,Reading,Cambridge United,1-0,-
+-,-,Scunthorpe United,Cambridge United,2-1,-
+-,-,Southend United,Cambridge United,1-2,-
+-,-,Southport,Cambridge United,4-1,-
+-,-,Stockport County,Cambridge United,3-0,-
+-,-,Workington,Cambridge United,0-1,-
+-,-,Aldershot,Chester,0-0,-
+-,-,Barrow,Chester,2-0,-
+-,-,Brentford,Chester,1-1,-
+-,-,Bury,Chester,3-1,-
+-,-,Cambridge United,Chester,2-0,-
+-,-,Colchester United,Chester,1-0,-
+-,-,Crewe Alexandra,Chester,3-1,-
+-,-,Darlington,Chester,1-1,-
+-,-,Doncaster Rovers,Chester,0-0,-
+-,-,Exeter City,Chester,1-1,-
+-,-,Gillingham,Chester,1-0,-
+-,-,Grimsby Town,Chester,1-0,-
+-,-,Hartlepool United,Chester,2-1,-
+-,-,Lincoln City,Chester,4-0,-
+-,-,Newport County,Chester,1-0,-
+-,-,Northampton Town,Chester,4-2,-
+-,-,Peterborough United,Chester,2-0,-
+-,-,Reading,Chester,1-0,-
+-,-,Scunthorpe United,Chester,2-0,-
+-,-,Southend United,Chester,4-2,-
+-,-,Southport,Chester,4-3,-
+-,-,Stockport County,Chester,0-0,-
+-,-,Workington,Chester,0-0,-
+-,-,Aldershot,Colchester United,0-2,-
+-,-,Barrow,Colchester United,2-2,-
+-,-,Brentford,Colchester United,0-2,-
+-,-,Bury,Colchester United,3-0,-
+-,-,Cambridge United,Colchester United,4-2,-
+-,-,Chester,Colchester United,2-1,-
+-,-,Crewe Alexandra,Colchester United,2-4,-
+-,-,Darlington,Colchester United,2-0,-
+-,-,Doncaster Rovers,Colchester United,2-0,-
+-,-,Exeter City,Colchester United,3-3,-
+-,-,Gillingham,Colchester United,0-2,-
+-,-,Grimsby Town,Colchester United,3-0,-
+-,-,Hartlepool United,Colchester United,3-2,-
+-,-,Lincoln City,Colchester United,2-0,-
+-,-,Newport County,Colchester United,2-1,-
+-,-,Northampton Town,Colchester United,1-1,-
+-,-,Peterborough United,Colchester United,4-0,-
+-,-,Reading,Colchester United,2-4,-
+-,-,Scunthorpe United,Colchester United,2-0,-
+-,-,Southend United,Colchester United,1-4,-
+-,-,Southport,Colchester United,3-0,-
+-,-,Stockport County,Colchester United,2-2,-
+-,-,Workington,Colchester United,1-0,-
+-,-,Aldershot,Crewe Alexandra,0-0,-
+-,-,Barrow,Crewe Alexandra,2-1,-
+-,-,Brentford,Crewe Alexandra,1-0,-
+-,-,Bury,Crewe Alexandra,2-0,-
+-,-,Cambridge United,Crewe Alexandra,3-2,-
+-,-,Chester,Crewe Alexandra,0-0,-
+-,-,Colchester United,Crewe Alexandra,4-2,-
+-,-,Darlington,Crewe Alexandra,1-1,-
+-,-,Doncaster Rovers,Crewe Alexandra,0-0,-
+-,-,Exeter City,Crewe Alexandra,3-1,-
+-,-,Gillingham,Crewe Alexandra,2-1,-
+-,-,Grimsby Town,Crewe Alexandra,2-3,-
+-,-,Hartlepool United,Crewe Alexandra,1-0,-
+-,-,Lincoln City,Crewe Alexandra,0-0,-
+-,-,Newport County,Crewe Alexandra,2-0,-
+-,-,Northampton Town,Crewe Alexandra,4-1,-
+-,-,Peterborough United,Crewe Alexandra,2-0,-
+-,-,Reading,Crewe Alexandra,1-0,-
+-,-,Scunthorpe United,Crewe Alexandra,2-0,-
+-,-,Southend United,Crewe Alexandra,4-1,-
+-,-,Southport,Crewe Alexandra,4-2,-
+-,-,Stockport County,Crewe Alexandra,3-1,-
+-,-,Workington,Crewe Alexandra,1-0,-
+-,-,Aldershot,Darlington,3-0,-
+-,-,Barrow,Darlington,0-4,-
+-,-,Brentford,Darlington,6-2,-
+-,-,Bury,Darlington,3-2,-
+-,-,Cambridge United,Darlington,6-0,-
+-,-,Chester,Darlington,2-1,-
+-,-,Colchester United,Darlington,4-3,-
+-,-,Crewe Alexandra,Darlington,1-1,-
+-,-,Doncaster Rovers,Darlington,4-0,-
+-,-,Exeter City,Darlington,3-0,-
+-,-,Gillingham,Darlington,4-2,-
+-,-,Grimsby Town,Darlington,2-0,-
+-,-,Hartlepool United,Darlington,2-3,-
+-,-,Lincoln City,Darlington,0-1,-
+-,-,Newport County,Darlington,4-0,-
+-,-,Northampton Town,Darlington,1-2,-
+-,-,Peterborough United,Darlington,1-3,-
+-,-,Reading,Darlington,2-0,-
+-,-,Scunthorpe United,Darlington,3-1,-
+-,-,Southend United,Darlington,3-0,-
+-,-,Southport,Darlington,2-1,-
+-,-,Stockport County,Darlington,2-1,-
+-,-,Workington,Darlington,0-0,-
+-,-,Aldershot,Doncaster Rovers,3-0,-
+-,-,Barrow,Doncaster Rovers,1-2,-
+-,-,Brentford,Doncaster Rovers,2-1,-
+-,-,Bury,Doncaster Rovers,3-3,-
+-,-,Cambridge United,Doncaster Rovers,1-1,-
+-,-,Chester,Doncaster Rovers,1-1,-
+-,-,Colchester United,Doncaster Rovers,1-2,-
+-,-,Crewe Alexandra,Doncaster Rovers,0-1,-
+-,-,Darlington,Doncaster Rovers,4-1,-
+-,-,Exeter City,Doncaster Rovers,1-0,-
+-,-,Gillingham,Doncaster Rovers,2-0,-
+-,-,Grimsby Town,Doncaster Rovers,3-1,-
+-,-,Hartlepool United,Doncaster Rovers,0-0,-
+-,-,Lincoln City,Doncaster Rovers,2-0,-
+-,-,Newport County,Doncaster Rovers,1-3,-
+-,-,Northampton Town,Doncaster Rovers,1-1,-
+-,-,Peterborough United,Doncaster Rovers,2-0,-
+-,-,Reading,Doncaster Rovers,3-1,-
+-,-,Scunthorpe United,Doncaster Rovers,0-0,-
+-,-,Southend United,Doncaster Rovers,2-1,-
+-,-,Southport,Doncaster Rovers,3-0,-
+-,-,Stockport County,Doncaster Rovers,1-2,-
+-,-,Workington,Doncaster Rovers,2-0,-
+-,-,Aldershot,Exeter City,0-0,-
+-,-,Barrow,Exeter City,0-0,-
+-,-,Brentford,Exeter City,1-0,-
+-,-,Bury,Exeter City,4-3,-
+-,-,Cambridge United,Exeter City,0-1,-
+-,-,Chester,Exeter City,1-2,-
+-,-,Colchester United,Exeter City,3-0,-
+-,-,Crewe Alexandra,Exeter City,0-1,-
+-,-,Darlington,Exeter City,2-1,-
+-,-,Doncaster Rovers,Exeter City,2-1,-
+-,-,Gillingham,Exeter City,0-2,-
+-,-,Grimsby Town,Exeter City,3-0,-
+-,-,Hartlepool United,Exeter City,1-0,-
+-,-,Lincoln City,Exeter City,4-1,-
+-,-,Newport County,Exeter City,0-0,-
+-,-,Northampton Town,Exeter City,1-1,-
+-,-,Peterborough United,Exeter City,3-3,-
+-,-,Reading,Exeter City,3-1,-
+-,-,Scunthorpe United,Exeter City,3-0,-
+-,-,Southend United,Exeter City,3-0,-
+-,-,Southport,Exeter City,4-0,-
+-,-,Stockport County,Exeter City,0-4,-
+-,-,Workington,Exeter City,0-0,-
+-,-,Aldershot,Gillingham,0-2,-
+-,-,Barrow,Gillingham,1-0,-
+-,-,Brentford,Gillingham,1-3,-
+-,-,Bury,Gillingham,5-0,-
+-,-,Cambridge United,Gillingham,2-1,-
+-,-,Chester,Gillingham,5-1,-
+-,-,Colchester United,Gillingham,2-2,-
+-,-,Crewe Alexandra,Gillingham,0-1,-
+-,-,Darlington,Gillingham,0-0,-
+-,-,Doncaster Rovers,Gillingham,1-1,-
+-,-,Exeter City,Gillingham,1-1,-
+-,-,Grimsby Town,Gillingham,2-1,-
+-,-,Hartlepool United,Gillingham,3-1,-
+-,-,Lincoln City,Gillingham,1-1,-
+-,-,Newport County,Gillingham,1-2,-
+-,-,Northampton Town,Gillingham,6-1,-
+-,-,Peterborough United,Gillingham,2-1,-
+-,-,Reading,Gillingham,1-2,-
+-,-,Scunthorpe United,Gillingham,3-3,-
+-,-,Southend United,Gillingham,2-2,-
+-,-,Southport,Gillingham,1-0,-
+-,-,Stockport County,Gillingham,2-1,-
+-,-,Workington,Gillingham,1-1,-
+-,-,Aldershot,Grimsby Town,1-1,-
+-,-,Barrow,Grimsby Town,0-0,-
+-,-,Brentford,Grimsby Town,2-0,-
+-,-,Bury,Grimsby Town,1-1,-
+-,-,Cambridge United,Grimsby Town,3-1,-
+-,-,Chester,Grimsby Town,1-2,-
+-,-,Colchester United,Grimsby Town,0-1,-
+-,-,Crewe Alexandra,Grimsby Town,0-1,-
+-,-,Darlington,Grimsby Town,3-2,-
+-,-,Doncaster Rovers,Grimsby Town,2-1,-
+-,-,Exeter City,Grimsby Town,3-4,-
+-,-,Gillingham,Grimsby Town,0-1,-
+-,-,Hartlepool United,Grimsby Town,0-1,-
+-,-,Lincoln City,Grimsby Town,3-0,-
+-,-,Newport County,Grimsby Town,2-1,-
+-,-,Northampton Town,Grimsby Town,3-0,-
+-,-,Peterborough United,Grimsby Town,0-2,-
+-,-,Reading,Grimsby Town,1-3,-
+-,-,Scunthorpe United,Grimsby Town,1-2,-
+-,-,Southend United,Grimsby Town,3-1,-
+-,-,Southport,Grimsby Town,1-0,-
+-,-,Stockport County,Grimsby Town,0-2,-
+-,-,Workington,Grimsby Town,0-0,-
+-,-,Aldershot,Hartlepool United,2-0,-
+-,-,Barrow,Hartlepool United,2-0,-
+-,-,Brentford,Hartlepool United,6-0,-
+-,-,Bury,Hartlepool United,1-1,-
+-,-,Cambridge United,Hartlepool United,2-1,-
+-,-,Chester,Hartlepool United,4-0,-
+-,-,Colchester United,Hartlepool United,1-0,-
+-,-,Crewe Alexandra,Hartlepool United,1-2,-
+-,-,Darlington,Hartlepool United,1-2,-
+-,-,Doncaster Rovers,Hartlepool United,2-1,-
+-,-,Exeter City,Hartlepool United,1-0,-
+-,-,Gillingham,Hartlepool United,1-0,-
+-,-,Grimsby Town,Hartlepool United,3-2,-
+-,-,Lincoln City,Hartlepool United,2-1,-
+-,-,Newport County,Hartlepool United,0-2,-
+-,-,Northampton Town,Hartlepool United,2-1,-
+-,-,Peterborough United,Hartlepool United,2-2,-
+-,-,Reading,Hartlepool United,3-0,-
+-,-,Scunthorpe United,Hartlepool United,2-2,-
+-,-,Southend United,Hartlepool United,3-1,-
+-,-,Southport,Hartlepool United,1-0,-
+-,-,Stockport County,Hartlepool United,2-1,-
+-,-,Workington,Hartlepool United,0-0,-
+-,-,Aldershot,Lincoln City,0-0,-
+-,-,Barrow,Lincoln City,2-2,-
+-,-,Brentford,Lincoln City,2-0,-
+-,-,Bury,Lincoln City,0-1,-
+-,-,Cambridge United,Lincoln City,0-0,-
+-,-,Chester,Lincoln City,2-1,-
+-,-,Colchester United,Lincoln City,5-2,-
+-,-,Crewe Alexandra,Lincoln City,3-1,-
+-,-,Darlington,Lincoln City,3-3,-
+-,-,Doncaster Rovers,Lincoln City,2-0,-
+-,-,Exeter City,Lincoln City,1-2,-
+-,-,Gillingham,Lincoln City,3-3,-
+-,-,Grimsby Town,Lincoln City,2-2,-
+-,-,Hartlepool United,Lincoln City,2-1,-
+-,-,Newport County,Lincoln City,2-0,-
+-,-,Northampton Town,Lincoln City,2-3,-
+-,-,Peterborough United,Lincoln City,4-4,-
+-,-,Reading,Lincoln City,0-1,-
+-,-,Scunthorpe United,Lincoln City,2-1,-
+-,-,Southend United,Lincoln City,2-1,-
+-,-,Southport,Lincoln City,1-1,-
+-,-,Stockport County,Lincoln City,4-2,-
+-,-,Workington,Lincoln City,0-0,-
+-,-,Aldershot,Newport County,3-0,-
+-,-,Barrow,Newport County,1-0,-
+-,-,Brentford,Newport County,3-1,-
+-,-,Bury,Newport County,3-0,-
+-,-,Cambridge United,Newport County,0-1,-
+-,-,Chester,Newport County,3-0,-
+-,-,Colchester United,Newport County,2-3,-
+-,-,Crewe Alexandra,Newport County,1-2,-
+-,-,Darlington,Newport County,0-0,-
+-,-,Doncaster Rovers,Newport County,4-2,-
+-,-,Exeter City,Newport County,1-0,-
+-,-,Gillingham,Newport County,1-2,-
+-,-,Grimsby Town,Newport County,4-2,-
+-,-,Hartlepool United,Newport County,0-1,-
+-,-,Lincoln City,Newport County,3-1,-
+-,-,Northampton Town,Newport County,1-1,-
+-,-,Peterborough United,Newport County,3-1,-
+-,-,Reading,Newport County,4-2,-
+-,-,Scunthorpe United,Newport County,1-0,-
+-,-,Southend United,Newport County,3-1,-
+-,-,Southport,Newport County,4-2,-
+-,-,Stockport County,Newport County,4-4,-
+-,-,Workington,Newport County,3-0,-
+-,-,Aldershot,Northampton Town,0-2,-
+-,-,Barrow,Northampton Town,0-1,-
+-,-,Brentford,Northampton Town,6-1,-
+-,-,Bury,Northampton Town,4-2,-
+-,-,Cambridge United,Northampton Town,1-1,-
+-,-,Chester,Northampton Town,3-2,-
+-,-,Colchester United,Northampton Town,2-0,-
+-,-,Crewe Alexandra,Northampton Town,0-1,-
+-,-,Darlington,Northampton Town,5-2,-
+-,-,Doncaster Rovers,Northampton Town,1-1,-
+-,-,Exeter City,Northampton Town,1-3,-
+-,-,Gillingham,Northampton Town,4-1,-
+-,-,Grimsby Town,Northampton Town,4-2,-
+-,-,Hartlepool United,Northampton Town,2-0,-
+-,-,Lincoln City,Northampton Town,2-0,-
+-,-,Newport County,Northampton Town,1-1,-
+-,-,Peterborough United,Northampton Town,1-0,-
+-,-,Reading,Northampton Town,2-1,-
+-,-,Scunthorpe United,Northampton Town,0-0,-
+-,-,Southend United,Northampton Town,4-1,-
+-,-,Southport,Northampton Town,4-0,-
+-,-,Stockport County,Northampton Town,3-1,-
+-,-,Workington,Northampton Town,2-0,-
+-,-,Aldershot,Peterborough United,1-1,-
+-,-,Barrow,Peterborough United,0-2,-
+-,-,Brentford,Peterborough United,5-1,-
+-,-,Bury,Peterborough United,1-1,-
+-,-,Cambridge United,Peterborough United,2-5,-
+-,-,Chester,Peterborough United,1-1,-
+-,-,Colchester United,Peterborough United,1-1,-
+-,-,Crewe Alexandra,Peterborough United,2-0,-
+-,-,Darlington,Peterborough United,1-1,-
+-,-,Doncaster Rovers,Peterborough United,3-2,-
+-,-,Exeter City,Peterborough United,3-2,-
+-,-,Gillingham,Peterborough United,1-1,-
+-,-,Grimsby Town,Peterborough United,3-2,-
+-,-,Hartlepool United,Peterborough United,1-0,-
+-,-,Lincoln City,Peterborough United,3-2,-
+-,-,Newport County,Peterborough United,1-1,-
+-,-,Northampton Town,Peterborough United,1-1,-
+-,-,Reading,Peterborough United,2-1,-
+-,-,Scunthorpe United,Peterborough United,0-0,-
+-,-,Southend United,Peterborough United,2-1,-
+-,-,Southport,Peterborough United,2-4,-
+-,-,Stockport County,Peterborough United,0-0,-
+-,-,Workington,Peterborough United,4-1,-
+-,-,Aldershot,Reading,1-2,-
+-,-,Barrow,Reading,0-0,-
+-,-,Brentford,Reading,1-2,-
+-,-,Bury,Reading,2-1,-
+-,-,Cambridge United,Reading,4-1,-
+-,-,Chester,Reading,2-0,-
+-,-,Colchester United,Reading,2-1,-
+-,-,Crewe Alexandra,Reading,2-0,-
+-,-,Darlington,Reading,1-0,-
+-,-,Doncaster Rovers,Reading,1-1,-
+-,-,Exeter City,Reading,0-0,-
+-,-,Gillingham,Reading,4-2,-
+-,-,Grimsby Town,Reading,2-0,-
+-,-,Hartlepool United,Reading,3-1,-
+-,-,Lincoln City,Reading,0-0,-
+-,-,Newport County,Reading,2-1,-
+-,-,Northampton Town,Reading,5-0,-
+-,-,Peterborough United,Reading,3-2,-
+-,-,Scunthorpe United,Reading,1-1,-
+-,-,Southend United,Reading,4-1,-
+-,-,Southport,Reading,5-2,-
+-,-,Stockport County,Reading,0-1,-
+-,-,Workington,Reading,5-0,-
+-,-,Aldershot,Scunthorpe United,1-1,-
+-,-,Barrow,Scunthorpe United,0-1,-
+-,-,Brentford,Scunthorpe United,0-3,-
+-,-,Bury,Scunthorpe United,3-1,-
+-,-,Cambridge United,Scunthorpe United,2-0,-
+-,-,Chester,Scunthorpe United,0-0,-
+-,-,Colchester United,Scunthorpe United,1-1,-
+-,-,Crewe Alexandra,Scunthorpe United,0-2,-
+-,-,Darlington,Scunthorpe United,0-1,-
+-,-,Doncaster Rovers,Scunthorpe United,0-2,-
+-,-,Exeter City,Scunthorpe United,1-0,-
+-,-,Gillingham,Scunthorpe United,0-1,-
+-,-,Grimsby Town,Scunthorpe United,4-1,-
+-,-,Hartlepool United,Scunthorpe United,1-0,-
+-,-,Lincoln City,Scunthorpe United,1-0,-
+-,-,Newport County,Scunthorpe United,1-0,-
+-,-,Northampton Town,Scunthorpe United,0-2,-
+-,-,Peterborough United,Scunthorpe United,0-1,-
+-,-,Reading,Scunthorpe United,2-0,-
+-,-,Southend United,Scunthorpe United,2-3,-
+-,-,Southport,Scunthorpe United,1-1,-
+-,-,Stockport County,Scunthorpe United,0-0,-
+-,-,Workington,Scunthorpe United,2-1,-
+-,-,Aldershot,Southend United,0-0,-
+-,-,Barrow,Southend United,2-1,-
+-,-,Brentford,Southend United,1-2,-
+-,-,Bury,Southend United,2-0,-
+-,-,Cambridge United,Southend United,1-1,-
+-,-,Chester,Southend United,1-1,-
+-,-,Colchester United,Southend United,1-0,-
+-,-,Crewe Alexandra,Southend United,1-2,-
+-,-,Darlington,Southend United,2-3,-
+-,-,Doncaster Rovers,Southend United,0-2,-
+-,-,Exeter City,Southend United,0-0,-
+-,-,Gillingham,Southend United,0-0,-
+-,-,Grimsby Town,Southend United,4-1,-
+-,-,Hartlepool United,Southend United,2-2,-
+-,-,Lincoln City,Southend United,0-0,-
+-,-,Newport County,Southend United,2-0,-
+-,-,Northampton Town,Southend United,1-1,-
+-,-,Peterborough United,Southend United,2-0,-
+-,-,Reading,Southend United,1-4,-
+-,-,Scunthorpe United,Southend United,1-1,-
+-,-,Southport,Southend United,0-1,-
+-,-,Stockport County,Southend United,2-2,-
+-,-,Workington,Southend United,3-1,-
+-,-,Aldershot,Southport,1-1,-
+-,-,Barrow,Southport,0-2,-
+-,-,Brentford,Southport,1-0,-
+-,-,Bury,Southport,2-1,-
+-,-,Cambridge United,Southport,0-0,-
+-,-,Chester,Southport,1-1,-
+-,-,Colchester United,Southport,1-0,-
+-,-,Crewe Alexandra,Southport,2-1,-
+-,-,Darlington,Southport,0-0,-
+-,-,Doncaster Rovers,Southport,2-1,-
+-,-,Exeter City,Southport,1-3,-
+-,-,Gillingham,Southport,2-1,-
+-,-,Grimsby Town,Southport,0-1,-
+-,-,Hartlepool United,Southport,1-0,-
+-,-,Lincoln City,Southport,2-1,-
+-,-,Newport County,Southport,2-2,-
+-,-,Northampton Town,Southport,0-0,-
+-,-,Peterborough United,Southport,2-0,-
+-,-,Reading,Southport,1-1,-
+-,-,Scunthorpe United,Southport,1-0,-
+-,-,Southend United,Southport,2-1,-
+-,-,Stockport County,Southport,1-1,-
+-,-,Workington,Southport,0-0,-
+-,-,Aldershot,Stockport County,4-0,-
+-,-,Barrow,Stockport County,3-2,-
+-,-,Brentford,Stockport County,2-0,-
+-,-,Bury,Stockport County,4-0,-
+-,-,Cambridge United,Stockport County,2-0,-
+-,-,Chester,Stockport County,0-0,-
+-,-,Colchester United,Stockport County,3-2,-
+-,-,Crewe Alexandra,Stockport County,3-1,-
+-,-,Darlington,Stockport County,1-2,-
+-,-,Doncaster Rovers,Stockport County,2-2,-
+-,-,Exeter City,Stockport County,2-0,-
+-,-,Gillingham,Stockport County,3-2,-
+-,-,Grimsby Town,Stockport County,4-1,-
+-,-,Hartlepool United,Stockport County,5-0,-
+-,-,Lincoln City,Stockport County,2-1,-
+-,-,Newport County,Stockport County,1-0,-
+-,-,Northampton Town,Stockport County,2-0,-
+-,-,Peterborough United,Stockport County,4-2,-
+-,-,Reading,Stockport County,2-2,-
+-,-,Scunthorpe United,Stockport County,0-2,-
+-,-,Southend United,Stockport County,4-2,-
+-,-,Southport,Stockport County,1-0,-
+-,-,Workington,Stockport County,1-1,-
+-,-,Aldershot,Workington,2-2,-
+-,-,Barrow,Workington,2-0,-
+-,-,Brentford,Workington,2-0,-
+-,-,Bury,Workington,2-0,-
+-,-,Cambridge United,Workington,0-0,-
+-,-,Chester,Workington,2-1,-
+-,-,Colchester United,Workington,1-0,-
+-,-,Crewe Alexandra,Workington,0-0,-
+-,-,Darlington,Workington,4-0,-
+-,-,Doncaster Rovers,Workington,0-0,-
+-,-,Exeter City,Workington,0-2,-
+-,-,Gillingham,Workington,0-0,-
+-,-,Grimsby Town,Workington,1-1,-
+-,-,Hartlepool United,Workington,1-3,-
+-,-,Lincoln City,Workington,1-0,-
+-,-,Newport County,Workington,0-1,-
+-,-,Northampton Town,Workington,1-2,-
+-,-,Peterborough United,Workington,1-1,-
+-,-,Reading,Workington,0-0,-
+-,-,Scunthorpe United,Workington,2-0,-
+-,-,Southend United,Workington,2-0,-
+-,-,Southport,Workington,2-2,-
+-,-,Stockport County,Workington,1-1,-

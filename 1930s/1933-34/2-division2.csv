@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Bolton Wanderers,Blackpool,1-2
--,Bradford City,Blackpool,1-0
--,Bradford Park Avenue,Blackpool,1-2
--,Brentford,Blackpool,1-0
--,Burnley,Blackpool,3-2
--,Bury,Blackpool,2-5
--,Fulham,Blackpool,1-0
--,Grimsby Town,Blackpool,7-0
--,Hull City,Blackpool,3-0
--,Lincoln City,Blackpool,2-2
--,Manchester United,Blackpool,2-0
--,Millwall,Blackpool,0-0
--,Nottingham Forest,Blackpool,0-0
--,Notts County,Blackpool,1-1
--,Oldham Athletic,Blackpool,2-0
--,Plymouth Argyle,Blackpool,0-3
--,Port Vale,Blackpool,1-0
--,Preston North End,Blackpool,3-0
--,Southampton,Blackpool,3-2
--,Swansea City,Blackpool,2-2
--,West Ham United,Blackpool,1-2
--,Blackpool,Bolton Wanderers,1-1
--,Bradford City,Bolton Wanderers,5-1
--,Bradford Park Avenue,Bolton Wanderers,1-4
--,Brentford,Bolton Wanderers,3-1
--,Burnley,Bolton Wanderers,1-3
--,Bury,Bolton Wanderers,1-1
--,Fulham,Bolton Wanderers,0-2
--,Grimsby Town,Bolton Wanderers,2-3
--,Hull City,Bolton Wanderers,1-0
--,Lincoln City,Bolton Wanderers,2-2
--,Manchester United,Bolton Wanderers,1-5
--,Millwall,Bolton Wanderers,2-1
--,Nottingham Forest,Bolton Wanderers,2-2
--,Notts County,Bolton Wanderers,1-2
--,Oldham Athletic,Bolton Wanderers,1-3
--,Plymouth Argyle,Bolton Wanderers,3-0
--,Port Vale,Bolton Wanderers,0-0
--,Preston North End,Bolton Wanderers,1-1
--,Southampton,Bolton Wanderers,1-0
--,Swansea City,Bolton Wanderers,0-0
--,West Ham United,Bolton Wanderers,4-2
--,Blackpool,Bradford City,3-2
--,Bolton Wanderers,Bradford City,3-0
--,Bradford Park Avenue,Bradford City,2-1
--,Brentford,Bradford City,2-1
--,Burnley,Bradford City,4-2
--,Bury,Bradford City,1-0
--,Fulham,Bradford City,0-1
--,Grimsby Town,Bradford City,1-4
--,Hull City,Bradford City,2-2
--,Lincoln City,Bradford City,0-1
--,Manchester United,Bradford City,2-1
--,Millwall,Bradford City,1-1
--,Nottingham Forest,Bradford City,1-2
--,Notts County,Bradford City,3-0
--,Oldham Athletic,Bradford City,4-3
--,Plymouth Argyle,Bradford City,3-0
--,Port Vale,Bradford City,3-1
--,Preston North End,Bradford City,0-1
--,Southampton,Bradford City,4-1
--,Swansea City,Bradford City,2-1
--,West Ham United,Bradford City,1-2
--,Blackpool,Bradford Park Avenue,1-1
--,Bolton Wanderers,Bradford Park Avenue,0-1
--,Bradford City,Bradford Park Avenue,3-0
--,Brentford,Bradford Park Avenue,2-0
--,Burnley,Bradford Park Avenue,1-0
--,Bury,Bradford Park Avenue,2-1
--,Fulham,Bradford Park Avenue,0-2
--,Grimsby Town,Bradford Park Avenue,3-2
--,Hull City,Bradford Park Avenue,1-2
--,Lincoln City,Bradford Park Avenue,2-1
--,Manchester United,Bradford Park Avenue,0-4
--,Millwall,Bradford Park Avenue,0-1
--,Nottingham Forest,Bradford Park Avenue,3-0
--,Notts County,Bradford Park Avenue,1-0
--,Oldham Athletic,Bradford Park Avenue,1-3
--,Plymouth Argyle,Bradford Park Avenue,4-1
--,Port Vale,Bradford Park Avenue,3-1
--,Preston North End,Bradford Park Avenue,3-1
--,Southampton,Bradford Park Avenue,5-0
--,Swansea City,Bradford Park Avenue,5-1
--,West Ham United,Bradford Park Avenue,0-1
--,Blackpool,Brentford,3-1
--,Bolton Wanderers,Brentford,3-2
--,Bradford City,Brentford,2-1
--,Bradford Park Avenue,Brentford,5-2
--,Burnley,Brentford,3-1
--,Bury,Brentford,1-2
--,Fulham,Brentford,1-1
--,Grimsby Town,Brentford,2-2
--,Hull City,Brentford,0-1
--,Lincoln City,Brentford,0-2
--,Manchester United,Brentford,1-3
--,Millwall,Brentford,2-0
--,Nottingham Forest,Brentford,1-1
--,Notts County,Brentford,1-2
--,Oldham Athletic,Brentford,1-4
--,Plymouth Argyle,Brentford,1-1
--,Port Vale,Brentford,1-0
--,Preston North End,Brentford,3-2
--,Southampton,Brentford,0-0
--,Swansea City,Brentford,2-3
--,West Ham United,Brentford,3-2
--,Blackpool,Burnley,1-1
--,Bolton Wanderers,Burnley,4-1
--,Bradford City,Burnley,2-1
--,Bradford Park Avenue,Burnley,5-0
--,Brentford,Burnley,5-2
--,Bury,Burnley,1-1
--,Fulham,Burnley,1-1
--,Grimsby Town,Burnley,1-0
--,Hull City,Burnley,0-1
--,Lincoln City,Burnley,4-0
--,Manchester United,Burnley,5-2
--,Millwall,Burnley,0-0
--,Nottingham Forest,Burnley,0-2
--,Notts County,Burnley,3-1
--,Oldham Athletic,Burnley,1-0
--,Plymouth Argyle,Burnley,1-0
--,Port Vale,Burnley,0-2
--,Preston North End,Burnley,3-2
--,Southampton,Burnley,2-1
--,Swansea City,Burnley,3-0
--,West Ham United,Burnley,1-2
--,Blackpool,Bury,2-0
--,Bolton Wanderers,Bury,2-0
--,Bradford City,Bury,2-2
--,Bradford Park Avenue,Bury,0-1
--,Brentford,Bury,2-3
--,Burnley,Bury,1-2
--,Fulham,Bury,2-1
--,Grimsby Town,Bury,2-0
--,Hull City,Bury,3-1
--,Lincoln City,Bury,1-2
--,Manchester United,Bury,2-1
--,Millwall,Bury,0-0
--,Nottingham Forest,Bury,7-2
--,Notts County,Bury,2-1
--,Oldham Athletic,Bury,2-2
--,Plymouth Argyle,Bury,3-3
--,Port Vale,Bury,4-1
--,Preston North End,Bury,0-3
--,Southampton,Bury,1-0
--,Swansea City,Bury,1-1
--,West Ham United,Bury,3-1
--,Blackpool,Fulham,4-3
--,Bolton Wanderers,Fulham,3-1
--,Bradford City,Fulham,1-0
--,Bradford Park Avenue,Fulham,3-1
--,Brentford,Fulham,1-2
--,Burnley,Fulham,2-1
--,Bury,Fulham,3-3
--,Grimsby Town,Fulham,3-1
--,Hull City,Fulham,0-0
--,Lincoln City,Fulham,5-0
--,Manchester United,Fulham,1-0
--,Millwall,Fulham,0-1
--,Nottingham Forest,Fulham,2-0
--,Notts County,Fulham,4-1
--,Oldham Athletic,Fulham,2-2
--,Plymouth Argyle,Fulham,4-0
--,Port Vale,Fulham,2-2
--,Preston North End,Fulham,2-0
--,Southampton,Fulham,2-0
--,Swansea City,Fulham,1-0
--,West Ham United,Fulham,5-1
--,Blackpool,Grimsby Town,3-4
--,Bolton Wanderers,Grimsby Town,0-4
--,Bradford City,Grimsby Town,2-1
--,Bradford Park Avenue,Grimsby Town,2-1
--,Brentford,Grimsby Town,1-2
--,Burnley,Grimsby Town,2-0
--,Bury,Grimsby Town,1-3
--,Fulham,Grimsby Town,1-0
--,Hull City,Grimsby Town,0-1
--,Lincoln City,Grimsby Town,3-3
--,Manchester United,Grimsby Town,1-3
--,Millwall,Grimsby Town,0-1
--,Nottingham Forest,Grimsby Town,4-2
--,Notts County,Grimsby Town,1-2
--,Oldham Athletic,Grimsby Town,1-5
--,Plymouth Argyle,Grimsby Town,0-2
--,Port Vale,Grimsby Town,0-1
--,Preston North End,Grimsby Town,1-2
--,Southampton,Grimsby Town,4-2
--,Swansea City,Grimsby Town,1-1
--,West Ham United,Grimsby Town,3-1
--,Blackpool,Hull City,0-0
--,Bolton Wanderers,Hull City,3-3
--,Bradford City,Hull City,1-2
--,Bradford Park Avenue,Hull City,3-1
--,Brentford,Hull City,2-2
--,Burnley,Hull City,3-1
--,Bury,Hull City,3-1
--,Fulham,Hull City,1-1
--,Grimsby Town,Hull City,4-1
--,Lincoln City,Hull City,2-1
--,Manchester United,Hull City,4-1
--,Millwall,Hull City,2-0
--,Nottingham Forest,Hull City,0-1
--,Notts County,Hull City,0-0
--,Oldham Athletic,Hull City,7-0
--,Plymouth Argyle,Hull City,1-1
--,Port Vale,Hull City,3-0
--,Preston North End,Hull City,5-0
--,Southampton,Hull City,1-1
--,Swansea City,Hull City,1-1
--,West Ham United,Hull City,2-1
--,Blackpool,Lincoln City,2-0
--,Bolton Wanderers,Lincoln City,1-2
--,Bradford City,Lincoln City,3-0
--,Bradford Park Avenue,Lincoln City,2-1
--,Brentford,Lincoln City,5-0
--,Burnley,Lincoln City,3-1
--,Bury,Lincoln City,0-2
--,Fulham,Lincoln City,1-0
--,Grimsby Town,Lincoln City,3-0
--,Hull City,Lincoln City,2-0
--,Manchester United,Lincoln City,1-1
--,Millwall,Lincoln City,4-1
--,Nottingham Forest,Lincoln City,6-2
--,Notts County,Lincoln City,2-0
--,Oldham Athletic,Lincoln City,3-0
--,Plymouth Argyle,Lincoln City,3-0
--,Port Vale,Lincoln City,1-0
--,Preston North End,Lincoln City,2-1
--,Southampton,Lincoln City,3-1
--,Swansea City,Lincoln City,1-0
--,West Ham United,Lincoln City,4-1
--,Blackpool,Manchester United,3-1
--,Bolton Wanderers,Manchester United,3-1
--,Bradford City,Manchester United,1-1
--,Bradford Park Avenue,Manchester United,6-1
--,Brentford,Manchester United,3-4
--,Burnley,Manchester United,1-4
--,Bury,Manchester United,2-1
--,Fulham,Manchester United,0-2
--,Grimsby Town,Manchester United,7-3
--,Hull City,Manchester United,4-1
--,Lincoln City,Manchester United,5-1
--,Millwall,Manchester United,0-2
--,Nottingham Forest,Manchester United,1-1
--,Notts County,Manchester United,0-0
--,Oldham Athletic,Manchester United,2-0
--,Plymouth Argyle,Manchester United,4-0
--,Port Vale,Manchester United,2-3
--,Preston North End,Manchester United,3-2
--,Southampton,Manchester United,1-0
--,Swansea City,Manchester United,2-1
--,West Ham United,Manchester United,2-1
--,Blackpool,Millwall,2-2
--,Bolton Wanderers,Millwall,5-0
--,Bradford City,Millwall,1-0
--,Bradford Park Avenue,Millwall,4-0
--,Brentford,Millwall,3-0
--,Burnley,Millwall,2-1
--,Bury,Millwall,5-1
--,Fulham,Millwall,2-0
--,Grimsby Town,Millwall,5-2
--,Hull City,Millwall,3-2
--,Lincoln City,Millwall,0-1
--,Manchester United,Millwall,1-1
--,Nottingham Forest,Millwall,2-0
--,Notts County,Millwall,0-1
--,Oldham Athletic,Millwall,1-0
--,Plymouth Argyle,Millwall,1-0
--,Port Vale,Millwall,5-1
--,Preston North End,Millwall,4-2
--,Southampton,Millwall,2-3
--,Swansea City,Millwall,2-0
--,West Ham United,Millwall,1-1
--,Blackpool,Nottingham Forest,2-3
--,Bolton Wanderers,Nottingham Forest,1-1
--,Bradford City,Nottingham Forest,3-2
--,Bradford Park Avenue,Nottingham Forest,6-2
--,Brentford,Nottingham Forest,2-1
--,Burnley,Nottingham Forest,1-0
--,Bury,Nottingham Forest,4-2
--,Fulham,Nottingham Forest,3-1
--,Grimsby Town,Nottingham Forest,2-1
--,Hull City,Nottingham Forest,2-2
--,Lincoln City,Nottingham Forest,0-0
--,Manchester United,Nottingham Forest,0-1
--,Millwall,Nottingham Forest,0-0
--,Notts County,Nottingham Forest,1-0
--,Oldham Athletic,Nottingham Forest,4-1
--,Plymouth Argyle,Nottingham Forest,4-3
--,Port Vale,Nottingham Forest,3-1
--,Preston North End,Nottingham Forest,4-0
--,Southampton,Nottingham Forest,2-0
--,Swansea City,Nottingham Forest,1-1
--,West Ham United,Nottingham Forest,2-1
--,Blackpool,Notts County,2-1
--,Bolton Wanderers,Notts County,1-0
--,Bradford City,Notts County,3-1
--,Bradford Park Avenue,Notts County,3-2
--,Brentford,Notts County,2-2
--,Burnley,Notts County,1-0
--,Bury,Notts County,3-1
--,Fulham,Notts County,3-0
--,Grimsby Town,Notts County,2-2
--,Hull City,Notts County,0-1
--,Lincoln City,Notts County,0-1
--,Manchester United,Notts County,1-2
--,Millwall,Notts County,3-2
--,Nottingham Forest,Notts County,2-0
--,Oldham Athletic,Notts County,2-0
--,Plymouth Argyle,Notts County,1-0
--,Port Vale,Notts County,0-0
--,Preston North End,Notts County,2-0
--,Southampton,Notts County,3-2
--,Swansea City,Notts County,1-1
--,West Ham United,Notts County,5-3
--,Blackpool,Oldham Athletic,0-0
--,Bolton Wanderers,Oldham Athletic,1-0
--,Bradford City,Oldham Athletic,5-2
--,Bradford Park Avenue,Oldham Athletic,4-2
--,Brentford,Oldham Athletic,2-1
--,Burnley,Oldham Athletic,0-1
--,Bury,Oldham Athletic,1-1
--,Fulham,Oldham Athletic,1-2
--,Grimsby Town,Oldham Athletic,2-1
--,Hull City,Oldham Athletic,2-0
--,Lincoln City,Oldham Athletic,1-1
--,Manchester United,Oldham Athletic,2-3
--,Millwall,Oldham Athletic,1-0
--,Nottingham Forest,Oldham Athletic,1-3
--,Notts County,Oldham Athletic,1-1
--,Plymouth Argyle,Oldham Athletic,1-0
--,Port Vale,Oldham Athletic,2-0
--,Preston North End,Oldham Athletic,1-0
--,Southampton,Oldham Athletic,1-0
--,Swansea City,Oldham Athletic,2-2
--,West Ham United,Oldham Athletic,1-4
--,Blackpool,Plymouth Argyle,1-1
--,Bolton Wanderers,Plymouth Argyle,2-0
--,Bradford City,Plymouth Argyle,3-4
--,Bradford Park Avenue,Plymouth Argyle,4-1
--,Brentford,Plymouth Argyle,3-0
--,Burnley,Plymouth Argyle,2-2
--,Bury,Plymouth Argyle,4-0
--,Fulham,Plymouth Argyle,3-2
--,Grimsby Town,Plymouth Argyle,5-1
--,Hull City,Plymouth Argyle,5-4
--,Lincoln City,Plymouth Argyle,1-1
--,Manchester United,Plymouth Argyle,0-3
--,Millwall,Plymouth Argyle,0-0
--,Nottingham Forest,Plymouth Argyle,2-1
--,Notts County,Plymouth Argyle,2-1
--,Oldham Athletic,Plymouth Argyle,1-1
--,Port Vale,Plymouth Argyle,4-0
--,Preston North End,Plymouth Argyle,1-1
--,Southampton,Plymouth Argyle,0-1
--,Swansea City,Plymouth Argyle,2-1
--,West Ham United,Plymouth Argyle,5-1
--,Blackpool,Port Vale,1-0
--,Bolton Wanderers,Port Vale,3-0
--,Bradford City,Port Vale,1-2
--,Bradford Park Avenue,Port Vale,2-2
--,Brentford,Port Vale,2-0
--,Burnley,Port Vale,0-0
--,Bury,Port Vale,0-3
--,Fulham,Port Vale,3-0
--,Grimsby Town,Port Vale,1-2
--,Hull City,Port Vale,2-1
--,Lincoln City,Port Vale,1-0
--,Manchester United,Port Vale,2-0
--,Millwall,Port Vale,0-3
--,Nottingham Forest,Port Vale,6-1
--,Notts County,Port Vale,3-2
--,Oldham Athletic,Port Vale,5-1
--,Plymouth Argyle,Port Vale,3-0
--,Preston North End,Port Vale,0-0
--,Southampton,Port Vale,1-4
--,Swansea City,Port Vale,4-0
--,West Ham United,Port Vale,1-0
--,Blackpool,Preston North End,1-2
--,Bolton Wanderers,Preston North End,0-2
--,Bradford City,Preston North End,1-0
--,Bradford Park Avenue,Preston North End,2-1
--,Brentford,Preston North End,3-2
--,Burnley,Preston North End,1-4
--,Bury,Preston North End,2-1
--,Fulham,Preston North End,1-0
--,Grimsby Town,Preston North End,3-0
--,Hull City,Preston North End,0-1
--,Lincoln City,Preston North End,0-1
--,Manchester United,Preston North End,1-0
--,Millwall,Preston North End,1-1
--,Nottingham Forest,Preston North End,2-3
--,Notts County,Preston North End,2-2
--,Oldham Athletic,Preston North End,3-1
--,Plymouth Argyle,Preston North End,0-0
--,Port Vale,Preston North End,2-0
--,Southampton,Preston North End,0-1
--,Swansea City,Preston North End,1-2
--,West Ham United,Preston North End,6-0
--,Blackpool,Southampton,4-2
--,Bolton Wanderers,Southampton,2-0
--,Bradford City,Southampton,2-2
--,Bradford Park Avenue,Southampton,3-1
--,Brentford,Southampton,2-0
--,Burnley,Southampton,2-1
--,Bury,Southampton,1-0
--,Fulham,Southampton,1-0
--,Grimsby Town,Southampton,3-1
--,Hull City,Southampton,1-0
--,Lincoln City,Southampton,1-1
--,Manchester United,Southampton,1-0
--,Millwall,Southampton,1-0
--,Nottingham Forest,Southampton,4-1
--,Notts County,Southampton,2-2
--,Oldham Athletic,Southampton,1-1
--,Plymouth Argyle,Southampton,0-0
--,Port Vale,Southampton,2-1
--,Preston North End,Southampton,3-1
--,Swansea City,Southampton,1-0
--,West Ham United,Southampton,0-0
--,Blackpool,Swansea City,2-1
--,Bolton Wanderers,Swansea City,2-1
--,Bradford City,Swansea City,2-1
--,Bradford Park Avenue,Swansea City,5-1
--,Brentford,Swansea City,2-0
--,Burnley,Swansea City,3-1
--,Bury,Swansea City,4-1
--,Fulham,Swansea City,1-0
--,Grimsby Town,Swansea City,3-1
--,Hull City,Swansea City,0-0
--,Lincoln City,Swansea City,1-0
--,Manchester United,Swansea City,1-1
--,Millwall,Swansea City,2-1
--,Nottingham Forest,Swansea City,4-2
--,Notts County,Swansea City,1-1
--,Oldham Athletic,Swansea City,0-0
--,Plymouth Argyle,Swansea City,2-2
--,Port Vale,Swansea City,1-0
--,Preston North End,Swansea City,3-0
--,Southampton,Swansea City,1-0
--,West Ham United,Swansea City,1-1
--,Blackpool,West Ham United,1-1
--,Bolton Wanderers,West Ham United,5-1
--,Bradford City,West Ham United,2-2
--,Bradford Park Avenue,West Ham United,0-0
--,Brentford,West Ham United,4-1
--,Burnley,West Ham United,4-2
--,Bury,West Ham United,2-1
--,Fulham,West Ham United,3-1
--,Grimsby Town,West Ham United,1-1
--,Hull City,West Ham United,2-0
--,Lincoln City,West Ham United,0-2
--,Manchester United,West Ham United,0-1
--,Millwall,West Ham United,2-2
--,Nottingham Forest,West Ham United,0-1
--,Notts County,West Ham United,1-2
--,Oldham Athletic,West Ham United,4-1
--,Plymouth Argyle,West Ham United,4-4
--,Port Vale,West Ham United,0-0
--,Preston North End,West Ham United,3-1
--,Southampton,West Ham United,3-2
--,Swansea City,West Ham United,1-1
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Bolton Wanderers,Blackpool,1-2,-
+-,-,Bradford City,Blackpool,1-0,-
+-,-,Bradford Park Avenue,Blackpool,1-2,-
+-,-,Brentford,Blackpool,1-0,-
+-,-,Burnley,Blackpool,3-2,-
+-,-,Bury,Blackpool,2-5,-
+-,-,Fulham,Blackpool,1-0,-
+-,-,Grimsby Town,Blackpool,7-0,-
+-,-,Hull City,Blackpool,3-0,-
+-,-,Lincoln City,Blackpool,2-2,-
+-,-,Manchester United,Blackpool,2-0,-
+-,-,Millwall,Blackpool,0-0,-
+-,-,Nottingham Forest,Blackpool,0-0,-
+-,-,Notts County,Blackpool,1-1,-
+-,-,Oldham Athletic,Blackpool,2-0,-
+-,-,Plymouth Argyle,Blackpool,0-3,-
+-,-,Port Vale,Blackpool,1-0,-
+-,-,Preston North End,Blackpool,3-0,-
+-,-,Southampton,Blackpool,3-2,-
+-,-,Swansea City,Blackpool,2-2,-
+-,-,West Ham United,Blackpool,1-2,-
+-,-,Blackpool,Bolton Wanderers,1-1,-
+-,-,Bradford City,Bolton Wanderers,5-1,-
+-,-,Bradford Park Avenue,Bolton Wanderers,1-4,-
+-,-,Brentford,Bolton Wanderers,3-1,-
+-,-,Burnley,Bolton Wanderers,1-3,-
+-,-,Bury,Bolton Wanderers,1-1,-
+-,-,Fulham,Bolton Wanderers,0-2,-
+-,-,Grimsby Town,Bolton Wanderers,2-3,-
+-,-,Hull City,Bolton Wanderers,1-0,-
+-,-,Lincoln City,Bolton Wanderers,2-2,-
+-,-,Manchester United,Bolton Wanderers,1-5,-
+-,-,Millwall,Bolton Wanderers,2-1,-
+-,-,Nottingham Forest,Bolton Wanderers,2-2,-
+-,-,Notts County,Bolton Wanderers,1-2,-
+-,-,Oldham Athletic,Bolton Wanderers,1-3,-
+-,-,Plymouth Argyle,Bolton Wanderers,3-0,-
+-,-,Port Vale,Bolton Wanderers,0-0,-
+-,-,Preston North End,Bolton Wanderers,1-1,-
+-,-,Southampton,Bolton Wanderers,1-0,-
+-,-,Swansea City,Bolton Wanderers,0-0,-
+-,-,West Ham United,Bolton Wanderers,4-2,-
+-,-,Blackpool,Bradford City,3-2,-
+-,-,Bolton Wanderers,Bradford City,3-0,-
+-,-,Bradford Park Avenue,Bradford City,2-1,-
+-,-,Brentford,Bradford City,2-1,-
+-,-,Burnley,Bradford City,4-2,-
+-,-,Bury,Bradford City,1-0,-
+-,-,Fulham,Bradford City,0-1,-
+-,-,Grimsby Town,Bradford City,1-4,-
+-,-,Hull City,Bradford City,2-2,-
+-,-,Lincoln City,Bradford City,0-1,-
+-,-,Manchester United,Bradford City,2-1,-
+-,-,Millwall,Bradford City,1-1,-
+-,-,Nottingham Forest,Bradford City,1-2,-
+-,-,Notts County,Bradford City,3-0,-
+-,-,Oldham Athletic,Bradford City,4-3,-
+-,-,Plymouth Argyle,Bradford City,3-0,-
+-,-,Port Vale,Bradford City,3-1,-
+-,-,Preston North End,Bradford City,0-1,-
+-,-,Southampton,Bradford City,4-1,-
+-,-,Swansea City,Bradford City,2-1,-
+-,-,West Ham United,Bradford City,1-2,-
+-,-,Blackpool,Bradford Park Avenue,1-1,-
+-,-,Bolton Wanderers,Bradford Park Avenue,0-1,-
+-,-,Bradford City,Bradford Park Avenue,3-0,-
+-,-,Brentford,Bradford Park Avenue,2-0,-
+-,-,Burnley,Bradford Park Avenue,1-0,-
+-,-,Bury,Bradford Park Avenue,2-1,-
+-,-,Fulham,Bradford Park Avenue,0-2,-
+-,-,Grimsby Town,Bradford Park Avenue,3-2,-
+-,-,Hull City,Bradford Park Avenue,1-2,-
+-,-,Lincoln City,Bradford Park Avenue,2-1,-
+-,-,Manchester United,Bradford Park Avenue,0-4,-
+-,-,Millwall,Bradford Park Avenue,0-1,-
+-,-,Nottingham Forest,Bradford Park Avenue,3-0,-
+-,-,Notts County,Bradford Park Avenue,1-0,-
+-,-,Oldham Athletic,Bradford Park Avenue,1-3,-
+-,-,Plymouth Argyle,Bradford Park Avenue,4-1,-
+-,-,Port Vale,Bradford Park Avenue,3-1,-
+-,-,Preston North End,Bradford Park Avenue,3-1,-
+-,-,Southampton,Bradford Park Avenue,5-0,-
+-,-,Swansea City,Bradford Park Avenue,5-1,-
+-,-,West Ham United,Bradford Park Avenue,0-1,-
+-,-,Blackpool,Brentford,3-1,-
+-,-,Bolton Wanderers,Brentford,3-2,-
+-,-,Bradford City,Brentford,2-1,-
+-,-,Bradford Park Avenue,Brentford,5-2,-
+-,-,Burnley,Brentford,3-1,-
+-,-,Bury,Brentford,1-2,-
+-,-,Fulham,Brentford,1-1,-
+-,-,Grimsby Town,Brentford,2-2,-
+-,-,Hull City,Brentford,0-1,-
+-,-,Lincoln City,Brentford,0-2,-
+-,-,Manchester United,Brentford,1-3,-
+-,-,Millwall,Brentford,2-0,-
+-,-,Nottingham Forest,Brentford,1-1,-
+-,-,Notts County,Brentford,1-2,-
+-,-,Oldham Athletic,Brentford,1-4,-
+-,-,Plymouth Argyle,Brentford,1-1,-
+-,-,Port Vale,Brentford,1-0,-
+-,-,Preston North End,Brentford,3-2,-
+-,-,Southampton,Brentford,0-0,-
+-,-,Swansea City,Brentford,2-3,-
+-,-,West Ham United,Brentford,3-2,-
+-,-,Blackpool,Burnley,1-1,-
+-,-,Bolton Wanderers,Burnley,4-1,-
+-,-,Bradford City,Burnley,2-1,-
+-,-,Bradford Park Avenue,Burnley,5-0,-
+-,-,Brentford,Burnley,5-2,-
+-,-,Bury,Burnley,1-1,-
+-,-,Fulham,Burnley,1-1,-
+-,-,Grimsby Town,Burnley,1-0,-
+-,-,Hull City,Burnley,0-1,-
+-,-,Lincoln City,Burnley,4-0,-
+-,-,Manchester United,Burnley,5-2,-
+-,-,Millwall,Burnley,0-0,-
+-,-,Nottingham Forest,Burnley,0-2,-
+-,-,Notts County,Burnley,3-1,-
+-,-,Oldham Athletic,Burnley,1-0,-
+-,-,Plymouth Argyle,Burnley,1-0,-
+-,-,Port Vale,Burnley,0-2,-
+-,-,Preston North End,Burnley,3-2,-
+-,-,Southampton,Burnley,2-1,-
+-,-,Swansea City,Burnley,3-0,-
+-,-,West Ham United,Burnley,1-2,-
+-,-,Blackpool,Bury,2-0,-
+-,-,Bolton Wanderers,Bury,2-0,-
+-,-,Bradford City,Bury,2-2,-
+-,-,Bradford Park Avenue,Bury,0-1,-
+-,-,Brentford,Bury,2-3,-
+-,-,Burnley,Bury,1-2,-
+-,-,Fulham,Bury,2-1,-
+-,-,Grimsby Town,Bury,2-0,-
+-,-,Hull City,Bury,3-1,-
+-,-,Lincoln City,Bury,1-2,-
+-,-,Manchester United,Bury,2-1,-
+-,-,Millwall,Bury,0-0,-
+-,-,Nottingham Forest,Bury,7-2,-
+-,-,Notts County,Bury,2-1,-
+-,-,Oldham Athletic,Bury,2-2,-
+-,-,Plymouth Argyle,Bury,3-3,-
+-,-,Port Vale,Bury,4-1,-
+-,-,Preston North End,Bury,0-3,-
+-,-,Southampton,Bury,1-0,-
+-,-,Swansea City,Bury,1-1,-
+-,-,West Ham United,Bury,3-1,-
+-,-,Blackpool,Fulham,4-3,-
+-,-,Bolton Wanderers,Fulham,3-1,-
+-,-,Bradford City,Fulham,1-0,-
+-,-,Bradford Park Avenue,Fulham,3-1,-
+-,-,Brentford,Fulham,1-2,-
+-,-,Burnley,Fulham,2-1,-
+-,-,Bury,Fulham,3-3,-
+-,-,Grimsby Town,Fulham,3-1,-
+-,-,Hull City,Fulham,0-0,-
+-,-,Lincoln City,Fulham,5-0,-
+-,-,Manchester United,Fulham,1-0,-
+-,-,Millwall,Fulham,0-1,-
+-,-,Nottingham Forest,Fulham,2-0,-
+-,-,Notts County,Fulham,4-1,-
+-,-,Oldham Athletic,Fulham,2-2,-
+-,-,Plymouth Argyle,Fulham,4-0,-
+-,-,Port Vale,Fulham,2-2,-
+-,-,Preston North End,Fulham,2-0,-
+-,-,Southampton,Fulham,2-0,-
+-,-,Swansea City,Fulham,1-0,-
+-,-,West Ham United,Fulham,5-1,-
+-,-,Blackpool,Grimsby Town,3-4,-
+-,-,Bolton Wanderers,Grimsby Town,0-4,-
+-,-,Bradford City,Grimsby Town,2-1,-
+-,-,Bradford Park Avenue,Grimsby Town,2-1,-
+-,-,Brentford,Grimsby Town,1-2,-
+-,-,Burnley,Grimsby Town,2-0,-
+-,-,Bury,Grimsby Town,1-3,-
+-,-,Fulham,Grimsby Town,1-0,-
+-,-,Hull City,Grimsby Town,0-1,-
+-,-,Lincoln City,Grimsby Town,3-3,-
+-,-,Manchester United,Grimsby Town,1-3,-
+-,-,Millwall,Grimsby Town,0-1,-
+-,-,Nottingham Forest,Grimsby Town,4-2,-
+-,-,Notts County,Grimsby Town,1-2,-
+-,-,Oldham Athletic,Grimsby Town,1-5,-
+-,-,Plymouth Argyle,Grimsby Town,0-2,-
+-,-,Port Vale,Grimsby Town,0-1,-
+-,-,Preston North End,Grimsby Town,1-2,-
+-,-,Southampton,Grimsby Town,4-2,-
+-,-,Swansea City,Grimsby Town,1-1,-
+-,-,West Ham United,Grimsby Town,3-1,-
+-,-,Blackpool,Hull City,0-0,-
+-,-,Bolton Wanderers,Hull City,3-3,-
+-,-,Bradford City,Hull City,1-2,-
+-,-,Bradford Park Avenue,Hull City,3-1,-
+-,-,Brentford,Hull City,2-2,-
+-,-,Burnley,Hull City,3-1,-
+-,-,Bury,Hull City,3-1,-
+-,-,Fulham,Hull City,1-1,-
+-,-,Grimsby Town,Hull City,4-1,-
+-,-,Lincoln City,Hull City,2-1,-
+-,-,Manchester United,Hull City,4-1,-
+-,-,Millwall,Hull City,2-0,-
+-,-,Nottingham Forest,Hull City,0-1,-
+-,-,Notts County,Hull City,0-0,-
+-,-,Oldham Athletic,Hull City,7-0,-
+-,-,Plymouth Argyle,Hull City,1-1,-
+-,-,Port Vale,Hull City,3-0,-
+-,-,Preston North End,Hull City,5-0,-
+-,-,Southampton,Hull City,1-1,-
+-,-,Swansea City,Hull City,1-1,-
+-,-,West Ham United,Hull City,2-1,-
+-,-,Blackpool,Lincoln City,2-0,-
+-,-,Bolton Wanderers,Lincoln City,1-2,-
+-,-,Bradford City,Lincoln City,3-0,-
+-,-,Bradford Park Avenue,Lincoln City,2-1,-
+-,-,Brentford,Lincoln City,5-0,-
+-,-,Burnley,Lincoln City,3-1,-
+-,-,Bury,Lincoln City,0-2,-
+-,-,Fulham,Lincoln City,1-0,-
+-,-,Grimsby Town,Lincoln City,3-0,-
+-,-,Hull City,Lincoln City,2-0,-
+-,-,Manchester United,Lincoln City,1-1,-
+-,-,Millwall,Lincoln City,4-1,-
+-,-,Nottingham Forest,Lincoln City,6-2,-
+-,-,Notts County,Lincoln City,2-0,-
+-,-,Oldham Athletic,Lincoln City,3-0,-
+-,-,Plymouth Argyle,Lincoln City,3-0,-
+-,-,Port Vale,Lincoln City,1-0,-
+-,-,Preston North End,Lincoln City,2-1,-
+-,-,Southampton,Lincoln City,3-1,-
+-,-,Swansea City,Lincoln City,1-0,-
+-,-,West Ham United,Lincoln City,4-1,-
+-,-,Blackpool,Manchester United,3-1,-
+-,-,Bolton Wanderers,Manchester United,3-1,-
+-,-,Bradford City,Manchester United,1-1,-
+-,-,Bradford Park Avenue,Manchester United,6-1,-
+-,-,Brentford,Manchester United,3-4,-
+-,-,Burnley,Manchester United,1-4,-
+-,-,Bury,Manchester United,2-1,-
+-,-,Fulham,Manchester United,0-2,-
+-,-,Grimsby Town,Manchester United,7-3,-
+-,-,Hull City,Manchester United,4-1,-
+-,-,Lincoln City,Manchester United,5-1,-
+-,-,Millwall,Manchester United,0-2,-
+-,-,Nottingham Forest,Manchester United,1-1,-
+-,-,Notts County,Manchester United,0-0,-
+-,-,Oldham Athletic,Manchester United,2-0,-
+-,-,Plymouth Argyle,Manchester United,4-0,-
+-,-,Port Vale,Manchester United,2-3,-
+-,-,Preston North End,Manchester United,3-2,-
+-,-,Southampton,Manchester United,1-0,-
+-,-,Swansea City,Manchester United,2-1,-
+-,-,West Ham United,Manchester United,2-1,-
+-,-,Blackpool,Millwall,2-2,-
+-,-,Bolton Wanderers,Millwall,5-0,-
+-,-,Bradford City,Millwall,1-0,-
+-,-,Bradford Park Avenue,Millwall,4-0,-
+-,-,Brentford,Millwall,3-0,-
+-,-,Burnley,Millwall,2-1,-
+-,-,Bury,Millwall,5-1,-
+-,-,Fulham,Millwall,2-0,-
+-,-,Grimsby Town,Millwall,5-2,-
+-,-,Hull City,Millwall,3-2,-
+-,-,Lincoln City,Millwall,0-1,-
+-,-,Manchester United,Millwall,1-1,-
+-,-,Nottingham Forest,Millwall,2-0,-
+-,-,Notts County,Millwall,0-1,-
+-,-,Oldham Athletic,Millwall,1-0,-
+-,-,Plymouth Argyle,Millwall,1-0,-
+-,-,Port Vale,Millwall,5-1,-
+-,-,Preston North End,Millwall,4-2,-
+-,-,Southampton,Millwall,2-3,-
+-,-,Swansea City,Millwall,2-0,-
+-,-,West Ham United,Millwall,1-1,-
+-,-,Blackpool,Nottingham Forest,2-3,-
+-,-,Bolton Wanderers,Nottingham Forest,1-1,-
+-,-,Bradford City,Nottingham Forest,3-2,-
+-,-,Bradford Park Avenue,Nottingham Forest,6-2,-
+-,-,Brentford,Nottingham Forest,2-1,-
+-,-,Burnley,Nottingham Forest,1-0,-
+-,-,Bury,Nottingham Forest,4-2,-
+-,-,Fulham,Nottingham Forest,3-1,-
+-,-,Grimsby Town,Nottingham Forest,2-1,-
+-,-,Hull City,Nottingham Forest,2-2,-
+-,-,Lincoln City,Nottingham Forest,0-0,-
+-,-,Manchester United,Nottingham Forest,0-1,-
+-,-,Millwall,Nottingham Forest,0-0,-
+-,-,Notts County,Nottingham Forest,1-0,-
+-,-,Oldham Athletic,Nottingham Forest,4-1,-
+-,-,Plymouth Argyle,Nottingham Forest,4-3,-
+-,-,Port Vale,Nottingham Forest,3-1,-
+-,-,Preston North End,Nottingham Forest,4-0,-
+-,-,Southampton,Nottingham Forest,2-0,-
+-,-,Swansea City,Nottingham Forest,1-1,-
+-,-,West Ham United,Nottingham Forest,2-1,-
+-,-,Blackpool,Notts County,2-1,-
+-,-,Bolton Wanderers,Notts County,1-0,-
+-,-,Bradford City,Notts County,3-1,-
+-,-,Bradford Park Avenue,Notts County,3-2,-
+-,-,Brentford,Notts County,2-2,-
+-,-,Burnley,Notts County,1-0,-
+-,-,Bury,Notts County,3-1,-
+-,-,Fulham,Notts County,3-0,-
+-,-,Grimsby Town,Notts County,2-2,-
+-,-,Hull City,Notts County,0-1,-
+-,-,Lincoln City,Notts County,0-1,-
+-,-,Manchester United,Notts County,1-2,-
+-,-,Millwall,Notts County,3-2,-
+-,-,Nottingham Forest,Notts County,2-0,-
+-,-,Oldham Athletic,Notts County,2-0,-
+-,-,Plymouth Argyle,Notts County,1-0,-
+-,-,Port Vale,Notts County,0-0,-
+-,-,Preston North End,Notts County,2-0,-
+-,-,Southampton,Notts County,3-2,-
+-,-,Swansea City,Notts County,1-1,-
+-,-,West Ham United,Notts County,5-3,-
+-,-,Blackpool,Oldham Athletic,0-0,-
+-,-,Bolton Wanderers,Oldham Athletic,1-0,-
+-,-,Bradford City,Oldham Athletic,5-2,-
+-,-,Bradford Park Avenue,Oldham Athletic,4-2,-
+-,-,Brentford,Oldham Athletic,2-1,-
+-,-,Burnley,Oldham Athletic,0-1,-
+-,-,Bury,Oldham Athletic,1-1,-
+-,-,Fulham,Oldham Athletic,1-2,-
+-,-,Grimsby Town,Oldham Athletic,2-1,-
+-,-,Hull City,Oldham Athletic,2-0,-
+-,-,Lincoln City,Oldham Athletic,1-1,-
+-,-,Manchester United,Oldham Athletic,2-3,-
+-,-,Millwall,Oldham Athletic,1-0,-
+-,-,Nottingham Forest,Oldham Athletic,1-3,-
+-,-,Notts County,Oldham Athletic,1-1,-
+-,-,Plymouth Argyle,Oldham Athletic,1-0,-
+-,-,Port Vale,Oldham Athletic,2-0,-
+-,-,Preston North End,Oldham Athletic,1-0,-
+-,-,Southampton,Oldham Athletic,1-0,-
+-,-,Swansea City,Oldham Athletic,2-2,-
+-,-,West Ham United,Oldham Athletic,1-4,-
+-,-,Blackpool,Plymouth Argyle,1-1,-
+-,-,Bolton Wanderers,Plymouth Argyle,2-0,-
+-,-,Bradford City,Plymouth Argyle,3-4,-
+-,-,Bradford Park Avenue,Plymouth Argyle,4-1,-
+-,-,Brentford,Plymouth Argyle,3-0,-
+-,-,Burnley,Plymouth Argyle,2-2,-
+-,-,Bury,Plymouth Argyle,4-0,-
+-,-,Fulham,Plymouth Argyle,3-2,-
+-,-,Grimsby Town,Plymouth Argyle,5-1,-
+-,-,Hull City,Plymouth Argyle,5-4,-
+-,-,Lincoln City,Plymouth Argyle,1-1,-
+-,-,Manchester United,Plymouth Argyle,0-3,-
+-,-,Millwall,Plymouth Argyle,0-0,-
+-,-,Nottingham Forest,Plymouth Argyle,2-1,-
+-,-,Notts County,Plymouth Argyle,2-1,-
+-,-,Oldham Athletic,Plymouth Argyle,1-1,-
+-,-,Port Vale,Plymouth Argyle,4-0,-
+-,-,Preston North End,Plymouth Argyle,1-1,-
+-,-,Southampton,Plymouth Argyle,0-1,-
+-,-,Swansea City,Plymouth Argyle,2-1,-
+-,-,West Ham United,Plymouth Argyle,5-1,-
+-,-,Blackpool,Port Vale,1-0,-
+-,-,Bolton Wanderers,Port Vale,3-0,-
+-,-,Bradford City,Port Vale,1-2,-
+-,-,Bradford Park Avenue,Port Vale,2-2,-
+-,-,Brentford,Port Vale,2-0,-
+-,-,Burnley,Port Vale,0-0,-
+-,-,Bury,Port Vale,0-3,-
+-,-,Fulham,Port Vale,3-0,-
+-,-,Grimsby Town,Port Vale,1-2,-
+-,-,Hull City,Port Vale,2-1,-
+-,-,Lincoln City,Port Vale,1-0,-
+-,-,Manchester United,Port Vale,2-0,-
+-,-,Millwall,Port Vale,0-3,-
+-,-,Nottingham Forest,Port Vale,6-1,-
+-,-,Notts County,Port Vale,3-2,-
+-,-,Oldham Athletic,Port Vale,5-1,-
+-,-,Plymouth Argyle,Port Vale,3-0,-
+-,-,Preston North End,Port Vale,0-0,-
+-,-,Southampton,Port Vale,1-4,-
+-,-,Swansea City,Port Vale,4-0,-
+-,-,West Ham United,Port Vale,1-0,-
+-,-,Blackpool,Preston North End,1-2,-
+-,-,Bolton Wanderers,Preston North End,0-2,-
+-,-,Bradford City,Preston North End,1-0,-
+-,-,Bradford Park Avenue,Preston North End,2-1,-
+-,-,Brentford,Preston North End,3-2,-
+-,-,Burnley,Preston North End,1-4,-
+-,-,Bury,Preston North End,2-1,-
+-,-,Fulham,Preston North End,1-0,-
+-,-,Grimsby Town,Preston North End,3-0,-
+-,-,Hull City,Preston North End,0-1,-
+-,-,Lincoln City,Preston North End,0-1,-
+-,-,Manchester United,Preston North End,1-0,-
+-,-,Millwall,Preston North End,1-1,-
+-,-,Nottingham Forest,Preston North End,2-3,-
+-,-,Notts County,Preston North End,2-2,-
+-,-,Oldham Athletic,Preston North End,3-1,-
+-,-,Plymouth Argyle,Preston North End,0-0,-
+-,-,Port Vale,Preston North End,2-0,-
+-,-,Southampton,Preston North End,0-1,-
+-,-,Swansea City,Preston North End,1-2,-
+-,-,West Ham United,Preston North End,6-0,-
+-,-,Blackpool,Southampton,4-2,-
+-,-,Bolton Wanderers,Southampton,2-0,-
+-,-,Bradford City,Southampton,2-2,-
+-,-,Bradford Park Avenue,Southampton,3-1,-
+-,-,Brentford,Southampton,2-0,-
+-,-,Burnley,Southampton,2-1,-
+-,-,Bury,Southampton,1-0,-
+-,-,Fulham,Southampton,1-0,-
+-,-,Grimsby Town,Southampton,3-1,-
+-,-,Hull City,Southampton,1-0,-
+-,-,Lincoln City,Southampton,1-1,-
+-,-,Manchester United,Southampton,1-0,-
+-,-,Millwall,Southampton,1-0,-
+-,-,Nottingham Forest,Southampton,4-1,-
+-,-,Notts County,Southampton,2-2,-
+-,-,Oldham Athletic,Southampton,1-1,-
+-,-,Plymouth Argyle,Southampton,0-0,-
+-,-,Port Vale,Southampton,2-1,-
+-,-,Preston North End,Southampton,3-1,-
+-,-,Swansea City,Southampton,1-0,-
+-,-,West Ham United,Southampton,0-0,-
+-,-,Blackpool,Swansea City,2-1,-
+-,-,Bolton Wanderers,Swansea City,2-1,-
+-,-,Bradford City,Swansea City,2-1,-
+-,-,Bradford Park Avenue,Swansea City,5-1,-
+-,-,Brentford,Swansea City,2-0,-
+-,-,Burnley,Swansea City,3-1,-
+-,-,Bury,Swansea City,4-1,-
+-,-,Fulham,Swansea City,1-0,-
+-,-,Grimsby Town,Swansea City,3-1,-
+-,-,Hull City,Swansea City,0-0,-
+-,-,Lincoln City,Swansea City,1-0,-
+-,-,Manchester United,Swansea City,1-1,-
+-,-,Millwall,Swansea City,2-1,-
+-,-,Nottingham Forest,Swansea City,4-2,-
+-,-,Notts County,Swansea City,1-1,-
+-,-,Oldham Athletic,Swansea City,0-0,-
+-,-,Plymouth Argyle,Swansea City,2-2,-
+-,-,Port Vale,Swansea City,1-0,-
+-,-,Preston North End,Swansea City,3-0,-
+-,-,Southampton,Swansea City,1-0,-
+-,-,West Ham United,Swansea City,1-1,-
+-,-,Blackpool,West Ham United,1-1,-
+-,-,Bolton Wanderers,West Ham United,5-1,-
+-,-,Bradford City,West Ham United,2-2,-
+-,-,Bradford Park Avenue,West Ham United,0-0,-
+-,-,Brentford,West Ham United,4-1,-
+-,-,Burnley,West Ham United,4-2,-
+-,-,Bury,West Ham United,2-1,-
+-,-,Fulham,West Ham United,3-1,-
+-,-,Grimsby Town,West Ham United,1-1,-
+-,-,Hull City,West Ham United,2-0,-
+-,-,Lincoln City,West Ham United,0-2,-
+-,-,Manchester United,West Ham United,0-1,-
+-,-,Millwall,West Ham United,2-2,-
+-,-,Nottingham Forest,West Ham United,0-1,-
+-,-,Notts County,West Ham United,1-2,-
+-,-,Oldham Athletic,West Ham United,4-1,-
+-,-,Plymouth Argyle,West Ham United,4-4,-
+-,-,Port Vale,West Ham United,0-0,-
+-,-,Preston North End,West Ham United,3-1,-
+-,-,Southampton,West Ham United,3-2,-
+-,-,Swansea City,West Ham United,1-1,-

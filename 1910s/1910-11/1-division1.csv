@@ -1,381 +1,381 @@
-Date,Team 1,Team 2,FT
--,Aston Villa,Arsenal,3-0
--,Blackburn Rovers,Arsenal,1-0
--,Bradford City,Arsenal,3-0
--,Bristol City,Arsenal,0-1
--,Bury,Arsenal,1-1
--,Everton,Arsenal,2-0
--,Liverpool,Arsenal,1-1
--,Manchester City,Arsenal,1-1
--,Manchester United,Arsenal,5-0
--,Middlesbrough,Arsenal,1-1
--,Newcastle United,Arsenal,0-1
--,Nottingham Forest,Arsenal,2-3
--,Notts County,Arsenal,0-2
--,Oldham Athletic,Arsenal,3-0
--,Preston North End,Arsenal,4-1
--,Sheffield United,Arsenal,3-2
--,Sheffield Wednesday,Arsenal,0-0
--,Sunderland,Arsenal,2-2
--,Tottenham Hotspur,Arsenal,3-1
--,Arsenal,Aston Villa,1-1
--,Blackburn Rovers,Aston Villa,0-0
--,Bradford City,Aston Villa,1-2
--,Bristol City,Aston Villa,1-2
--,Bury,Aston Villa,1-0
--,Everton,Aston Villa,0-1
--,Liverpool,Aston Villa,3-1
--,Manchester City,Aston Villa,1-1
--,Manchester United,Aston Villa,2-0
--,Middlesbrough,Aston Villa,0-1
--,Newcastle United,Aston Villa,1-0
--,Nottingham Forest,Aston Villa,3-1
--,Notts County,Aston Villa,1-2
--,Oldham Athletic,Aston Villa,1-1
--,Preston North End,Aston Villa,0-1
--,Sheffield United,Aston Villa,2-1
--,Sheffield Wednesday,Aston Villa,1-0
--,Sunderland,Aston Villa,3-2
--,Tottenham Hotspur,Aston Villa,1-2
--,Arsenal,Blackburn Rovers,4-1
--,Aston Villa,Blackburn Rovers,2-2
--,Bradford City,Blackburn Rovers,1-0
--,Bristol City,Blackburn Rovers,1-0
--,Bury,Blackburn Rovers,2-2
--,Everton,Blackburn Rovers,6-1
--,Liverpool,Blackburn Rovers,2-2
--,Manchester City,Blackburn Rovers,0-0
--,Manchester United,Blackburn Rovers,3-2
--,Middlesbrough,Blackburn Rovers,2-3
--,Newcastle United,Blackburn Rovers,2-2
--,Nottingham Forest,Blackburn Rovers,5-2
--,Notts County,Blackburn Rovers,2-0
--,Oldham Athletic,Blackburn Rovers,2-0
--,Preston North End,Blackburn Rovers,0-0
--,Sheffield United,Blackburn Rovers,1-1
--,Sheffield Wednesday,Blackburn Rovers,1-0
--,Sunderland,Blackburn Rovers,2-2
--,Tottenham Hotspur,Blackburn Rovers,2-2
--,Arsenal,Bradford City,0-0
--,Aston Villa,Bradford City,4-1
--,Blackburn Rovers,Bradford City,3-0
--,Bristol City,Bradford City,0-2
--,Bury,Bradford City,0-1
--,Everton,Bradford City,0-0
--,Liverpool,Bradford City,1-2
--,Manchester City,Bradford City,1-3
--,Manchester United,Bradford City,1-0
--,Middlesbrough,Bradford City,3-2
--,Newcastle United,Bradford City,6-1
--,Nottingham Forest,Bradford City,0-2
--,Notts County,Bradford City,1-1
--,Oldham Athletic,Bradford City,1-0
--,Preston North End,Bradford City,2-0
--,Sheffield United,Bradford City,0-1
--,Sheffield Wednesday,Bradford City,0-1
--,Sunderland,Bradford City,1-1
--,Tottenham Hotspur,Bradford City,2-0
--,Arsenal,Bristol City,3-0
--,Aston Villa,Bristol City,2-0
--,Blackburn Rovers,Bristol City,2-0
--,Bradford City,Bristol City,3-1
--,Bury,Bristol City,2-1
--,Everton,Bristol City,4-3
--,Liverpool,Bristol City,4-0
--,Manchester City,Bristol City,1-2
--,Manchester United,Bristol City,3-1
--,Middlesbrough,Bristol City,3-0
--,Newcastle United,Bristol City,0-1
--,Nottingham Forest,Bristol City,3-3
--,Notts County,Bristol City,2-0
--,Oldham Athletic,Bristol City,1-0
--,Preston North End,Bristol City,4-0
--,Sheffield United,Bristol City,0-4
--,Sheffield Wednesday,Bristol City,2-1
--,Sunderland,Bristol City,3-1
--,Tottenham Hotspur,Bristol City,3-2
--,Arsenal,Bury,3-2
--,Aston Villa,Bury,4-1
--,Blackburn Rovers,Bury,6-2
--,Bradford City,Bury,2-2
--,Bristol City,Bury,2-0
--,Everton,Bury,2-1
--,Liverpool,Bury,2-0
--,Manchester City,Bury,5-1
--,Manchester United,Bury,3-2
--,Middlesbrough,Bury,2-1
--,Newcastle United,Bury,5-1
--,Nottingham Forest,Bury,1-2
--,Notts County,Bury,1-0
--,Oldham Athletic,Bury,0-0
--,Preston North End,Bury,2-0
--,Sheffield United,Bury,3-0
--,Sheffield Wednesday,Bury,1-0
--,Sunderland,Bury,4-1
--,Tottenham Hotspur,Bury,5-0
--,Arsenal,Everton,1-0
--,Aston Villa,Everton,2-1
--,Blackburn Rovers,Everton,0-1
--,Bradford City,Everton,3-1
--,Bristol City,Everton,0-1
--,Bury,Everton,0-0
--,Liverpool,Everton,0-2
--,Manchester City,Everton,2-1
--,Manchester United,Everton,2-2
--,Middlesbrough,Everton,1-0
--,Newcastle United,Everton,1-0
--,Nottingham Forest,Everton,1-1
--,Notts County,Everton,0-0
--,Oldham Athletic,Everton,2-0
--,Preston North End,Everton,0-2
--,Sheffield United,Everton,0-1
--,Sheffield Wednesday,Everton,0-2
--,Sunderland,Everton,4-0
--,Tottenham Hotspur,Everton,0-1
--,Arsenal,Liverpool,0-0
--,Aston Villa,Liverpool,1-1
--,Blackburn Rovers,Liverpool,1-2
--,Bradford City,Liverpool,1-3
--,Bristol City,Liverpool,1-1
--,Bury,Liverpool,3-0
--,Everton,Liverpool,0-1
--,Manchester City,Liverpool,1-2
--,Manchester United,Liverpool,2-0
--,Middlesbrough,Liverpool,2-2
--,Newcastle United,Liverpool,6-1
--,Nottingham Forest,Liverpool,2-0
--,Notts County,Liverpool,1-0
--,Oldham Athletic,Liverpool,3-1
--,Preston North End,Liverpool,2-1
--,Sheffield United,Liverpool,2-0
--,Sheffield Wednesday,Liverpool,1-0
--,Sunderland,Liverpool,4-0
--,Tottenham Hotspur,Liverpool,1-0
--,Arsenal,Manchester City,0-1
--,Aston Villa,Manchester City,2-1
--,Blackburn Rovers,Manchester City,2-0
--,Bradford City,Manchester City,1-0
--,Bristol City,Manchester City,2-1
--,Bury,Manchester City,5-2
--,Everton,Manchester City,1-0
--,Liverpool,Manchester City,1-1
--,Manchester United,Manchester City,2-1
--,Middlesbrough,Manchester City,0-0
--,Newcastle United,Manchester City,3-3
--,Nottingham Forest,Manchester City,0-0
--,Notts County,Manchester City,0-1
--,Oldham Athletic,Manchester City,1-1
--,Preston North End,Manchester City,1-1
--,Sheffield United,Manchester City,2-2
--,Sheffield Wednesday,Manchester City,4-1
--,Sunderland,Manchester City,4-0
--,Tottenham Hotspur,Manchester City,1-1
--,Arsenal,Manchester United,1-2
--,Aston Villa,Manchester United,4-2
--,Blackburn Rovers,Manchester United,1-0
--,Bradford City,Manchester United,1-0
--,Bristol City,Manchester United,0-1
--,Bury,Manchester United,0-3
--,Everton,Manchester United,0-1
--,Liverpool,Manchester United,3-2
--,Manchester City,Manchester United,1-1
--,Middlesbrough,Manchester United,2-2
--,Newcastle United,Manchester United,0-1
--,Nottingham Forest,Manchester United,2-1
--,Notts County,Manchester United,1-0
--,Oldham Athletic,Manchester United,1-3
--,Preston North End,Manchester United,0-2
--,Sheffield United,Manchester United,2-0
--,Sheffield Wednesday,Manchester United,0-0
--,Sunderland,Manchester United,1-2
--,Tottenham Hotspur,Manchester United,2-2
--,Arsenal,Middlesbrough,0-2
--,Aston Villa,Middlesbrough,5-0
--,Blackburn Rovers,Middlesbrough,5-1
--,Bradford City,Middlesbrough,1-0
--,Bristol City,Middlesbrough,3-2
--,Bury,Middlesbrough,4-2
--,Everton,Middlesbrough,2-0
--,Liverpool,Middlesbrough,3-0
--,Manchester City,Middlesbrough,2-1
--,Manchester United,Middlesbrough,1-2
--,Newcastle United,Middlesbrough,0-0
--,Nottingham Forest,Middlesbrough,1-1
--,Notts County,Middlesbrough,1-0
--,Oldham Athletic,Middlesbrough,1-1
--,Preston North End,Middlesbrough,1-1
--,Sheffield United,Middlesbrough,2-1
--,Sheffield Wednesday,Middlesbrough,1-1
--,Sunderland,Middlesbrough,3-1
--,Tottenham Hotspur,Middlesbrough,6-2
--,Arsenal,Newcastle United,1-2
--,Aston Villa,Newcastle United,3-2
--,Blackburn Rovers,Newcastle United,3-1
--,Bradford City,Newcastle United,1-0
--,Bristol City,Newcastle United,1-0
--,Bury,Newcastle United,1-1
--,Everton,Newcastle United,1-5
--,Liverpool,Newcastle United,3-0
--,Manchester City,Newcastle United,2-0
--,Manchester United,Newcastle United,2-0
--,Middlesbrough,Newcastle United,0-2
--,Nottingham Forest,Newcastle United,0-1
--,Notts County,Newcastle United,2-2
--,Oldham Athletic,Newcastle United,0-2
--,Preston North End,Newcastle United,2-1
--,Sheffield United,Newcastle United,0-0
--,Sheffield Wednesday,Newcastle United,0-2
--,Sunderland,Newcastle United,2-1
--,Tottenham Hotspur,Newcastle United,1-2
--,Arsenal,Nottingham Forest,3-2
--,Aston Villa,Nottingham Forest,3-1
--,Blackburn Rovers,Nottingham Forest,4-1
--,Bradford City,Nottingham Forest,2-1
--,Bristol City,Nottingham Forest,5-1
--,Bury,Nottingham Forest,1-0
--,Everton,Nottingham Forest,2-1
--,Liverpool,Nottingham Forest,2-3
--,Manchester City,Nottingham Forest,1-0
--,Manchester United,Nottingham Forest,4-2
--,Middlesbrough,Nottingham Forest,2-2
--,Newcastle United,Nottingham Forest,4-1
--,Notts County,Nottingham Forest,1-1
--,Oldham Athletic,Nottingham Forest,2-0
--,Preston North End,Nottingham Forest,0-2
--,Sheffield United,Nottingham Forest,0-1
--,Sheffield Wednesday,Nottingham Forest,5-2
--,Sunderland,Nottingham Forest,2-2
--,Tottenham Hotspur,Nottingham Forest,1-4
--,Arsenal,Notts County,2-1
--,Aston Villa,Notts County,3-1
--,Blackburn Rovers,Notts County,1-1
--,Bradford City,Notts County,0-1
--,Bristol City,Notts County,1-0
--,Bury,Notts County,0-0
--,Everton,Notts County,5-0
--,Liverpool,Notts County,2-1
--,Manchester City,Notts County,0-1
--,Manchester United,Notts County,0-0
--,Middlesbrough,Notts County,4-1
--,Newcastle United,Notts County,2-0
--,Nottingham Forest,Notts County,0-2
--,Oldham Athletic,Notts County,2-1
--,Preston North End,Notts County,2-0
--,Sheffield United,Notts County,0-2
--,Sheffield Wednesday,Notts County,1-3
--,Sunderland,Notts County,1-1
--,Tottenham Hotspur,Notts County,3-0
--,Arsenal,Oldham Athletic,0-0
--,Aston Villa,Oldham Athletic,1-1
--,Blackburn Rovers,Oldham Athletic,1-0
--,Bradford City,Oldham Athletic,1-2
--,Bristol City,Oldham Athletic,3-2
--,Bury,Oldham Athletic,2-2
--,Everton,Oldham Athletic,1-0
--,Liverpool,Oldham Athletic,1-0
--,Manchester City,Oldham Athletic,2-0
--,Manchester United,Oldham Athletic,0-0
--,Middlesbrough,Oldham Athletic,1-2
--,Newcastle United,Oldham Athletic,3-0
--,Nottingham Forest,Oldham Athletic,4-1
--,Notts County,Oldham Athletic,1-0
--,Preston North End,Oldham Athletic,1-1
--,Sheffield United,Oldham Athletic,1-2
--,Sheffield Wednesday,Oldham Athletic,2-0
--,Sunderland,Oldham Athletic,2-1
--,Tottenham Hotspur,Oldham Athletic,2-0
--,Arsenal,Preston North End,2-0
--,Aston Villa,Preston North End,0-2
--,Blackburn Rovers,Preston North End,0-1
--,Bradford City,Preston North End,1-0
--,Bristol City,Preston North End,0-0
--,Bury,Preston North End,1-0
--,Everton,Preston North End,2-0
--,Liverpool,Preston North End,3-0
--,Manchester City,Preston North End,0-2
--,Manchester United,Preston North End,5-0
--,Middlesbrough,Preston North End,2-0
--,Newcastle United,Preston North End,1-1
--,Nottingham Forest,Preston North End,1-3
--,Notts County,Preston North End,3-3
--,Oldham Athletic,Preston North End,2-1
--,Sheffield United,Preston North End,5-0
--,Sheffield Wednesday,Preston North End,0-0
--,Sunderland,Preston North End,1-1
--,Tottenham Hotspur,Preston North End,1-1
--,Arsenal,Sheffield United,0-0
--,Aston Villa,Sheffield United,3-0
--,Blackburn Rovers,Sheffield United,1-2
--,Bradford City,Sheffield United,0-1
--,Bristol City,Sheffield United,0-2
--,Bury,Sheffield United,1-1
--,Everton,Sheffield United,1-0
--,Liverpool,Sheffield United,2-0
--,Manchester City,Sheffield United,0-4
--,Manchester United,Sheffield United,1-1
--,Middlesbrough,Sheffield United,3-1
--,Newcastle United,Sheffield United,1-1
--,Nottingham Forest,Sheffield United,1-2
--,Notts County,Sheffield United,0-3
--,Oldham Athletic,Sheffield United,3-0
--,Preston North End,Sheffield United,1-1
--,Sheffield Wednesday,Sheffield United,2-0
--,Sunderland,Sheffield United,0-2
--,Tottenham Hotspur,Sheffield United,2-1
--,Arsenal,Sheffield Wednesday,1-0
--,Aston Villa,Sheffield Wednesday,2-1
--,Blackburn Rovers,Sheffield Wednesday,6-1
--,Bradford City,Sheffield Wednesday,5-2
--,Bristol City,Sheffield Wednesday,2-2
--,Bury,Sheffield Wednesday,1-1
--,Everton,Sheffield Wednesday,1-1
--,Liverpool,Sheffield Wednesday,3-0
--,Manchester City,Sheffield Wednesday,1-2
--,Manchester United,Sheffield Wednesday,3-2
--,Middlesbrough,Sheffield Wednesday,0-1
--,Newcastle United,Sheffield Wednesday,0-2
--,Nottingham Forest,Sheffield Wednesday,0-1
--,Notts County,Sheffield Wednesday,2-0
--,Oldham Athletic,Sheffield Wednesday,1-0
--,Preston North End,Sheffield Wednesday,1-3
--,Sheffield United,Sheffield Wednesday,0-1
--,Sunderland,Sheffield Wednesday,1-2
--,Tottenham Hotspur,Sheffield Wednesday,3-1
--,Arsenal,Sunderland,0-0
--,Aston Villa,Sunderland,2-1
--,Blackburn Rovers,Sunderland,0-1
--,Bradford City,Sunderland,3-0
--,Bristol City,Sunderland,1-1
--,Bury,Sunderland,0-0
--,Everton,Sunderland,2-2
--,Liverpool,Sunderland,1-2
--,Manchester City,Sunderland,3-3
--,Manchester United,Sunderland,5-1
--,Middlesbrough,Sunderland,1-0
--,Newcastle United,Sunderland,1-1
--,Nottingham Forest,Sunderland,1-3
--,Notts County,Sunderland,1-1
--,Oldham Athletic,Sunderland,2-1
--,Preston North End,Sunderland,0-2
--,Sheffield United,Sunderland,1-2
--,Sheffield Wednesday,Sunderland,1-1
--,Tottenham Hotspur,Sunderland,1-1
--,Arsenal,Tottenham Hotspur,2-0
--,Aston Villa,Tottenham Hotspur,4-0
--,Blackburn Rovers,Tottenham Hotspur,3-0
--,Bradford City,Tottenham Hotspur,3-0
--,Bristol City,Tottenham Hotspur,0-2
--,Bury,Tottenham Hotspur,2-1
--,Everton,Tottenham Hotspur,2-0
--,Liverpool,Tottenham Hotspur,1-2
--,Manchester City,Tottenham Hotspur,2-1
--,Manchester United,Tottenham Hotspur,3-2
--,Middlesbrough,Tottenham Hotspur,2-0
--,Newcastle United,Tottenham Hotspur,1-1
--,Nottingham Forest,Tottenham Hotspur,1-2
--,Notts County,Tottenham Hotspur,1-0
--,Oldham Athletic,Tottenham Hotspur,2-0
--,Preston North End,Tottenham Hotspur,2-0
--,Sheffield United,Tottenham Hotspur,3-0
--,Sheffield Wednesday,Tottenham Hotspur,2-1
--,Sunderland,Tottenham Hotspur,4-0
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Aston Villa,Arsenal,3-0,-
+-,-,Blackburn Rovers,Arsenal,1-0,-
+-,-,Bradford City,Arsenal,3-0,-
+-,-,Bristol City,Arsenal,0-1,-
+-,-,Bury,Arsenal,1-1,-
+-,-,Everton,Arsenal,2-0,-
+-,-,Liverpool,Arsenal,1-1,-
+-,-,Manchester City,Arsenal,1-1,-
+-,-,Manchester United,Arsenal,5-0,-
+-,-,Middlesbrough,Arsenal,1-1,-
+-,-,Newcastle United,Arsenal,0-1,-
+-,-,Nottingham Forest,Arsenal,2-3,-
+-,-,Notts County,Arsenal,0-2,-
+-,-,Oldham Athletic,Arsenal,3-0,-
+-,-,Preston North End,Arsenal,4-1,-
+-,-,Sheffield United,Arsenal,3-2,-
+-,-,Sheffield Wednesday,Arsenal,0-0,-
+-,-,Sunderland,Arsenal,2-2,-
+-,-,Tottenham Hotspur,Arsenal,3-1,-
+-,-,Arsenal,Aston Villa,1-1,-
+-,-,Blackburn Rovers,Aston Villa,0-0,-
+-,-,Bradford City,Aston Villa,1-2,-
+-,-,Bristol City,Aston Villa,1-2,-
+-,-,Bury,Aston Villa,1-0,-
+-,-,Everton,Aston Villa,0-1,-
+-,-,Liverpool,Aston Villa,3-1,-
+-,-,Manchester City,Aston Villa,1-1,-
+-,-,Manchester United,Aston Villa,2-0,-
+-,-,Middlesbrough,Aston Villa,0-1,-
+-,-,Newcastle United,Aston Villa,1-0,-
+-,-,Nottingham Forest,Aston Villa,3-1,-
+-,-,Notts County,Aston Villa,1-2,-
+-,-,Oldham Athletic,Aston Villa,1-1,-
+-,-,Preston North End,Aston Villa,0-1,-
+-,-,Sheffield United,Aston Villa,2-1,-
+-,-,Sheffield Wednesday,Aston Villa,1-0,-
+-,-,Sunderland,Aston Villa,3-2,-
+-,-,Tottenham Hotspur,Aston Villa,1-2,-
+-,-,Arsenal,Blackburn Rovers,4-1,-
+-,-,Aston Villa,Blackburn Rovers,2-2,-
+-,-,Bradford City,Blackburn Rovers,1-0,-
+-,-,Bristol City,Blackburn Rovers,1-0,-
+-,-,Bury,Blackburn Rovers,2-2,-
+-,-,Everton,Blackburn Rovers,6-1,-
+-,-,Liverpool,Blackburn Rovers,2-2,-
+-,-,Manchester City,Blackburn Rovers,0-0,-
+-,-,Manchester United,Blackburn Rovers,3-2,-
+-,-,Middlesbrough,Blackburn Rovers,2-3,-
+-,-,Newcastle United,Blackburn Rovers,2-2,-
+-,-,Nottingham Forest,Blackburn Rovers,5-2,-
+-,-,Notts County,Blackburn Rovers,2-0,-
+-,-,Oldham Athletic,Blackburn Rovers,2-0,-
+-,-,Preston North End,Blackburn Rovers,0-0,-
+-,-,Sheffield United,Blackburn Rovers,1-1,-
+-,-,Sheffield Wednesday,Blackburn Rovers,1-0,-
+-,-,Sunderland,Blackburn Rovers,2-2,-
+-,-,Tottenham Hotspur,Blackburn Rovers,2-2,-
+-,-,Arsenal,Bradford City,0-0,-
+-,-,Aston Villa,Bradford City,4-1,-
+-,-,Blackburn Rovers,Bradford City,3-0,-
+-,-,Bristol City,Bradford City,0-2,-
+-,-,Bury,Bradford City,0-1,-
+-,-,Everton,Bradford City,0-0,-
+-,-,Liverpool,Bradford City,1-2,-
+-,-,Manchester City,Bradford City,1-3,-
+-,-,Manchester United,Bradford City,1-0,-
+-,-,Middlesbrough,Bradford City,3-2,-
+-,-,Newcastle United,Bradford City,6-1,-
+-,-,Nottingham Forest,Bradford City,0-2,-
+-,-,Notts County,Bradford City,1-1,-
+-,-,Oldham Athletic,Bradford City,1-0,-
+-,-,Preston North End,Bradford City,2-0,-
+-,-,Sheffield United,Bradford City,0-1,-
+-,-,Sheffield Wednesday,Bradford City,0-1,-
+-,-,Sunderland,Bradford City,1-1,-
+-,-,Tottenham Hotspur,Bradford City,2-0,-
+-,-,Arsenal,Bristol City,3-0,-
+-,-,Aston Villa,Bristol City,2-0,-
+-,-,Blackburn Rovers,Bristol City,2-0,-
+-,-,Bradford City,Bristol City,3-1,-
+-,-,Bury,Bristol City,2-1,-
+-,-,Everton,Bristol City,4-3,-
+-,-,Liverpool,Bristol City,4-0,-
+-,-,Manchester City,Bristol City,1-2,-
+-,-,Manchester United,Bristol City,3-1,-
+-,-,Middlesbrough,Bristol City,3-0,-
+-,-,Newcastle United,Bristol City,0-1,-
+-,-,Nottingham Forest,Bristol City,3-3,-
+-,-,Notts County,Bristol City,2-0,-
+-,-,Oldham Athletic,Bristol City,1-0,-
+-,-,Preston North End,Bristol City,4-0,-
+-,-,Sheffield United,Bristol City,0-4,-
+-,-,Sheffield Wednesday,Bristol City,2-1,-
+-,-,Sunderland,Bristol City,3-1,-
+-,-,Tottenham Hotspur,Bristol City,3-2,-
+-,-,Arsenal,Bury,3-2,-
+-,-,Aston Villa,Bury,4-1,-
+-,-,Blackburn Rovers,Bury,6-2,-
+-,-,Bradford City,Bury,2-2,-
+-,-,Bristol City,Bury,2-0,-
+-,-,Everton,Bury,2-1,-
+-,-,Liverpool,Bury,2-0,-
+-,-,Manchester City,Bury,5-1,-
+-,-,Manchester United,Bury,3-2,-
+-,-,Middlesbrough,Bury,2-1,-
+-,-,Newcastle United,Bury,5-1,-
+-,-,Nottingham Forest,Bury,1-2,-
+-,-,Notts County,Bury,1-0,-
+-,-,Oldham Athletic,Bury,0-0,-
+-,-,Preston North End,Bury,2-0,-
+-,-,Sheffield United,Bury,3-0,-
+-,-,Sheffield Wednesday,Bury,1-0,-
+-,-,Sunderland,Bury,4-1,-
+-,-,Tottenham Hotspur,Bury,5-0,-
+-,-,Arsenal,Everton,1-0,-
+-,-,Aston Villa,Everton,2-1,-
+-,-,Blackburn Rovers,Everton,0-1,-
+-,-,Bradford City,Everton,3-1,-
+-,-,Bristol City,Everton,0-1,-
+-,-,Bury,Everton,0-0,-
+-,-,Liverpool,Everton,0-2,-
+-,-,Manchester City,Everton,2-1,-
+-,-,Manchester United,Everton,2-2,-
+-,-,Middlesbrough,Everton,1-0,-
+-,-,Newcastle United,Everton,1-0,-
+-,-,Nottingham Forest,Everton,1-1,-
+-,-,Notts County,Everton,0-0,-
+-,-,Oldham Athletic,Everton,2-0,-
+-,-,Preston North End,Everton,0-2,-
+-,-,Sheffield United,Everton,0-1,-
+-,-,Sheffield Wednesday,Everton,0-2,-
+-,-,Sunderland,Everton,4-0,-
+-,-,Tottenham Hotspur,Everton,0-1,-
+-,-,Arsenal,Liverpool,0-0,-
+-,-,Aston Villa,Liverpool,1-1,-
+-,-,Blackburn Rovers,Liverpool,1-2,-
+-,-,Bradford City,Liverpool,1-3,-
+-,-,Bristol City,Liverpool,1-1,-
+-,-,Bury,Liverpool,3-0,-
+-,-,Everton,Liverpool,0-1,-
+-,-,Manchester City,Liverpool,1-2,-
+-,-,Manchester United,Liverpool,2-0,-
+-,-,Middlesbrough,Liverpool,2-2,-
+-,-,Newcastle United,Liverpool,6-1,-
+-,-,Nottingham Forest,Liverpool,2-0,-
+-,-,Notts County,Liverpool,1-0,-
+-,-,Oldham Athletic,Liverpool,3-1,-
+-,-,Preston North End,Liverpool,2-1,-
+-,-,Sheffield United,Liverpool,2-0,-
+-,-,Sheffield Wednesday,Liverpool,1-0,-
+-,-,Sunderland,Liverpool,4-0,-
+-,-,Tottenham Hotspur,Liverpool,1-0,-
+-,-,Arsenal,Manchester City,0-1,-
+-,-,Aston Villa,Manchester City,2-1,-
+-,-,Blackburn Rovers,Manchester City,2-0,-
+-,-,Bradford City,Manchester City,1-0,-
+-,-,Bristol City,Manchester City,2-1,-
+-,-,Bury,Manchester City,5-2,-
+-,-,Everton,Manchester City,1-0,-
+-,-,Liverpool,Manchester City,1-1,-
+-,-,Manchester United,Manchester City,2-1,-
+-,-,Middlesbrough,Manchester City,0-0,-
+-,-,Newcastle United,Manchester City,3-3,-
+-,-,Nottingham Forest,Manchester City,0-0,-
+-,-,Notts County,Manchester City,0-1,-
+-,-,Oldham Athletic,Manchester City,1-1,-
+-,-,Preston North End,Manchester City,1-1,-
+-,-,Sheffield United,Manchester City,2-2,-
+-,-,Sheffield Wednesday,Manchester City,4-1,-
+-,-,Sunderland,Manchester City,4-0,-
+-,-,Tottenham Hotspur,Manchester City,1-1,-
+-,-,Arsenal,Manchester United,1-2,-
+-,-,Aston Villa,Manchester United,4-2,-
+-,-,Blackburn Rovers,Manchester United,1-0,-
+-,-,Bradford City,Manchester United,1-0,-
+-,-,Bristol City,Manchester United,0-1,-
+-,-,Bury,Manchester United,0-3,-
+-,-,Everton,Manchester United,0-1,-
+-,-,Liverpool,Manchester United,3-2,-
+-,-,Manchester City,Manchester United,1-1,-
+-,-,Middlesbrough,Manchester United,2-2,-
+-,-,Newcastle United,Manchester United,0-1,-
+-,-,Nottingham Forest,Manchester United,2-1,-
+-,-,Notts County,Manchester United,1-0,-
+-,-,Oldham Athletic,Manchester United,1-3,-
+-,-,Preston North End,Manchester United,0-2,-
+-,-,Sheffield United,Manchester United,2-0,-
+-,-,Sheffield Wednesday,Manchester United,0-0,-
+-,-,Sunderland,Manchester United,1-2,-
+-,-,Tottenham Hotspur,Manchester United,2-2,-
+-,-,Arsenal,Middlesbrough,0-2,-
+-,-,Aston Villa,Middlesbrough,5-0,-
+-,-,Blackburn Rovers,Middlesbrough,5-1,-
+-,-,Bradford City,Middlesbrough,1-0,-
+-,-,Bristol City,Middlesbrough,3-2,-
+-,-,Bury,Middlesbrough,4-2,-
+-,-,Everton,Middlesbrough,2-0,-
+-,-,Liverpool,Middlesbrough,3-0,-
+-,-,Manchester City,Middlesbrough,2-1,-
+-,-,Manchester United,Middlesbrough,1-2,-
+-,-,Newcastle United,Middlesbrough,0-0,-
+-,-,Nottingham Forest,Middlesbrough,1-1,-
+-,-,Notts County,Middlesbrough,1-0,-
+-,-,Oldham Athletic,Middlesbrough,1-1,-
+-,-,Preston North End,Middlesbrough,1-1,-
+-,-,Sheffield United,Middlesbrough,2-1,-
+-,-,Sheffield Wednesday,Middlesbrough,1-1,-
+-,-,Sunderland,Middlesbrough,3-1,-
+-,-,Tottenham Hotspur,Middlesbrough,6-2,-
+-,-,Arsenal,Newcastle United,1-2,-
+-,-,Aston Villa,Newcastle United,3-2,-
+-,-,Blackburn Rovers,Newcastle United,3-1,-
+-,-,Bradford City,Newcastle United,1-0,-
+-,-,Bristol City,Newcastle United,1-0,-
+-,-,Bury,Newcastle United,1-1,-
+-,-,Everton,Newcastle United,1-5,-
+-,-,Liverpool,Newcastle United,3-0,-
+-,-,Manchester City,Newcastle United,2-0,-
+-,-,Manchester United,Newcastle United,2-0,-
+-,-,Middlesbrough,Newcastle United,0-2,-
+-,-,Nottingham Forest,Newcastle United,0-1,-
+-,-,Notts County,Newcastle United,2-2,-
+-,-,Oldham Athletic,Newcastle United,0-2,-
+-,-,Preston North End,Newcastle United,2-1,-
+-,-,Sheffield United,Newcastle United,0-0,-
+-,-,Sheffield Wednesday,Newcastle United,0-2,-
+-,-,Sunderland,Newcastle United,2-1,-
+-,-,Tottenham Hotspur,Newcastle United,1-2,-
+-,-,Arsenal,Nottingham Forest,3-2,-
+-,-,Aston Villa,Nottingham Forest,3-1,-
+-,-,Blackburn Rovers,Nottingham Forest,4-1,-
+-,-,Bradford City,Nottingham Forest,2-1,-
+-,-,Bristol City,Nottingham Forest,5-1,-
+-,-,Bury,Nottingham Forest,1-0,-
+-,-,Everton,Nottingham Forest,2-1,-
+-,-,Liverpool,Nottingham Forest,2-3,-
+-,-,Manchester City,Nottingham Forest,1-0,-
+-,-,Manchester United,Nottingham Forest,4-2,-
+-,-,Middlesbrough,Nottingham Forest,2-2,-
+-,-,Newcastle United,Nottingham Forest,4-1,-
+-,-,Notts County,Nottingham Forest,1-1,-
+-,-,Oldham Athletic,Nottingham Forest,2-0,-
+-,-,Preston North End,Nottingham Forest,0-2,-
+-,-,Sheffield United,Nottingham Forest,0-1,-
+-,-,Sheffield Wednesday,Nottingham Forest,5-2,-
+-,-,Sunderland,Nottingham Forest,2-2,-
+-,-,Tottenham Hotspur,Nottingham Forest,1-4,-
+-,-,Arsenal,Notts County,2-1,-
+-,-,Aston Villa,Notts County,3-1,-
+-,-,Blackburn Rovers,Notts County,1-1,-
+-,-,Bradford City,Notts County,0-1,-
+-,-,Bristol City,Notts County,1-0,-
+-,-,Bury,Notts County,0-0,-
+-,-,Everton,Notts County,5-0,-
+-,-,Liverpool,Notts County,2-1,-
+-,-,Manchester City,Notts County,0-1,-
+-,-,Manchester United,Notts County,0-0,-
+-,-,Middlesbrough,Notts County,4-1,-
+-,-,Newcastle United,Notts County,2-0,-
+-,-,Nottingham Forest,Notts County,0-2,-
+-,-,Oldham Athletic,Notts County,2-1,-
+-,-,Preston North End,Notts County,2-0,-
+-,-,Sheffield United,Notts County,0-2,-
+-,-,Sheffield Wednesday,Notts County,1-3,-
+-,-,Sunderland,Notts County,1-1,-
+-,-,Tottenham Hotspur,Notts County,3-0,-
+-,-,Arsenal,Oldham Athletic,0-0,-
+-,-,Aston Villa,Oldham Athletic,1-1,-
+-,-,Blackburn Rovers,Oldham Athletic,1-0,-
+-,-,Bradford City,Oldham Athletic,1-2,-
+-,-,Bristol City,Oldham Athletic,3-2,-
+-,-,Bury,Oldham Athletic,2-2,-
+-,-,Everton,Oldham Athletic,1-0,-
+-,-,Liverpool,Oldham Athletic,1-0,-
+-,-,Manchester City,Oldham Athletic,2-0,-
+-,-,Manchester United,Oldham Athletic,0-0,-
+-,-,Middlesbrough,Oldham Athletic,1-2,-
+-,-,Newcastle United,Oldham Athletic,3-0,-
+-,-,Nottingham Forest,Oldham Athletic,4-1,-
+-,-,Notts County,Oldham Athletic,1-0,-
+-,-,Preston North End,Oldham Athletic,1-1,-
+-,-,Sheffield United,Oldham Athletic,1-2,-
+-,-,Sheffield Wednesday,Oldham Athletic,2-0,-
+-,-,Sunderland,Oldham Athletic,2-1,-
+-,-,Tottenham Hotspur,Oldham Athletic,2-0,-
+-,-,Arsenal,Preston North End,2-0,-
+-,-,Aston Villa,Preston North End,0-2,-
+-,-,Blackburn Rovers,Preston North End,0-1,-
+-,-,Bradford City,Preston North End,1-0,-
+-,-,Bristol City,Preston North End,0-0,-
+-,-,Bury,Preston North End,1-0,-
+-,-,Everton,Preston North End,2-0,-
+-,-,Liverpool,Preston North End,3-0,-
+-,-,Manchester City,Preston North End,0-2,-
+-,-,Manchester United,Preston North End,5-0,-
+-,-,Middlesbrough,Preston North End,2-0,-
+-,-,Newcastle United,Preston North End,1-1,-
+-,-,Nottingham Forest,Preston North End,1-3,-
+-,-,Notts County,Preston North End,3-3,-
+-,-,Oldham Athletic,Preston North End,2-1,-
+-,-,Sheffield United,Preston North End,5-0,-
+-,-,Sheffield Wednesday,Preston North End,0-0,-
+-,-,Sunderland,Preston North End,1-1,-
+-,-,Tottenham Hotspur,Preston North End,1-1,-
+-,-,Arsenal,Sheffield United,0-0,-
+-,-,Aston Villa,Sheffield United,3-0,-
+-,-,Blackburn Rovers,Sheffield United,1-2,-
+-,-,Bradford City,Sheffield United,0-1,-
+-,-,Bristol City,Sheffield United,0-2,-
+-,-,Bury,Sheffield United,1-1,-
+-,-,Everton,Sheffield United,1-0,-
+-,-,Liverpool,Sheffield United,2-0,-
+-,-,Manchester City,Sheffield United,0-4,-
+-,-,Manchester United,Sheffield United,1-1,-
+-,-,Middlesbrough,Sheffield United,3-1,-
+-,-,Newcastle United,Sheffield United,1-1,-
+-,-,Nottingham Forest,Sheffield United,1-2,-
+-,-,Notts County,Sheffield United,0-3,-
+-,-,Oldham Athletic,Sheffield United,3-0,-
+-,-,Preston North End,Sheffield United,1-1,-
+-,-,Sheffield Wednesday,Sheffield United,2-0,-
+-,-,Sunderland,Sheffield United,0-2,-
+-,-,Tottenham Hotspur,Sheffield United,2-1,-
+-,-,Arsenal,Sheffield Wednesday,1-0,-
+-,-,Aston Villa,Sheffield Wednesday,2-1,-
+-,-,Blackburn Rovers,Sheffield Wednesday,6-1,-
+-,-,Bradford City,Sheffield Wednesday,5-2,-
+-,-,Bristol City,Sheffield Wednesday,2-2,-
+-,-,Bury,Sheffield Wednesday,1-1,-
+-,-,Everton,Sheffield Wednesday,1-1,-
+-,-,Liverpool,Sheffield Wednesday,3-0,-
+-,-,Manchester City,Sheffield Wednesday,1-2,-
+-,-,Manchester United,Sheffield Wednesday,3-2,-
+-,-,Middlesbrough,Sheffield Wednesday,0-1,-
+-,-,Newcastle United,Sheffield Wednesday,0-2,-
+-,-,Nottingham Forest,Sheffield Wednesday,0-1,-
+-,-,Notts County,Sheffield Wednesday,2-0,-
+-,-,Oldham Athletic,Sheffield Wednesday,1-0,-
+-,-,Preston North End,Sheffield Wednesday,1-3,-
+-,-,Sheffield United,Sheffield Wednesday,0-1,-
+-,-,Sunderland,Sheffield Wednesday,1-2,-
+-,-,Tottenham Hotspur,Sheffield Wednesday,3-1,-
+-,-,Arsenal,Sunderland,0-0,-
+-,-,Aston Villa,Sunderland,2-1,-
+-,-,Blackburn Rovers,Sunderland,0-1,-
+-,-,Bradford City,Sunderland,3-0,-
+-,-,Bristol City,Sunderland,1-1,-
+-,-,Bury,Sunderland,0-0,-
+-,-,Everton,Sunderland,2-2,-
+-,-,Liverpool,Sunderland,1-2,-
+-,-,Manchester City,Sunderland,3-3,-
+-,-,Manchester United,Sunderland,5-1,-
+-,-,Middlesbrough,Sunderland,1-0,-
+-,-,Newcastle United,Sunderland,1-1,-
+-,-,Nottingham Forest,Sunderland,1-3,-
+-,-,Notts County,Sunderland,1-1,-
+-,-,Oldham Athletic,Sunderland,2-1,-
+-,-,Preston North End,Sunderland,0-2,-
+-,-,Sheffield United,Sunderland,1-2,-
+-,-,Sheffield Wednesday,Sunderland,1-1,-
+-,-,Tottenham Hotspur,Sunderland,1-1,-
+-,-,Arsenal,Tottenham Hotspur,2-0,-
+-,-,Aston Villa,Tottenham Hotspur,4-0,-
+-,-,Blackburn Rovers,Tottenham Hotspur,3-0,-
+-,-,Bradford City,Tottenham Hotspur,3-0,-
+-,-,Bristol City,Tottenham Hotspur,0-2,-
+-,-,Bury,Tottenham Hotspur,2-1,-
+-,-,Everton,Tottenham Hotspur,2-0,-
+-,-,Liverpool,Tottenham Hotspur,1-2,-
+-,-,Manchester City,Tottenham Hotspur,2-1,-
+-,-,Manchester United,Tottenham Hotspur,3-2,-
+-,-,Middlesbrough,Tottenham Hotspur,2-0,-
+-,-,Newcastle United,Tottenham Hotspur,1-1,-
+-,-,Nottingham Forest,Tottenham Hotspur,1-2,-
+-,-,Notts County,Tottenham Hotspur,1-0,-
+-,-,Oldham Athletic,Tottenham Hotspur,2-0,-
+-,-,Preston North End,Tottenham Hotspur,2-0,-
+-,-,Sheffield United,Tottenham Hotspur,3-0,-
+-,-,Sheffield Wednesday,Tottenham Hotspur,2-1,-
+-,-,Sunderland,Tottenham Hotspur,4-0,-

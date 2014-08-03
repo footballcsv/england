@@ -1,0 +1,553 @@
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Brentford,Blackpool,3-2,-
+-,-,Bury,Blackpool,1-3,-
+-,-,Carlisle United,Blackpool,1-1,-
+-,-,Chester,Blackpool,4-2,-
+-,-,Chesterfield,Blackpool,1-3,-
+-,-,Colchester United,Blackpool,3-1,-
+-,-,Exeter City,Blackpool,3-0,-
+-,-,Gillingham,Blackpool,2-0,-
+-,-,Hull City,Blackpool,0-0,-
+-,-,Lincoln City,Blackpool,1-2,-
+-,-,Mansfield Town,Blackpool,1-1,-
+-,-,Oxford United,Blackpool,1-0,-
+-,-,Peterborough United,Blackpool,1-2,-
+-,-,Plymouth Argyle,Blackpool,0-0,-
+-,-,Rotherham United,Blackpool,2-1,-
+-,-,Sheffield Wednesday,Blackpool,2-0,-
+-,-,Shrewsbury Town,Blackpool,2-0,-
+-,-,Southend United,Blackpool,4-0,-
+-,-,Swansea City,Blackpool,1-0,-
+-,-,Swindon Town,Blackpool,0-1,-
+-,-,Tranmere Rovers,Blackpool,0-2,-
+-,-,Walsall,Blackpool,2-1,-
+-,-,Watford,Blackpool,5-1,-
+-,-,Blackpool,Brentford,0-1,-
+-,-,Bury,Brentford,2-3,-
+-,-,Carlisle United,Brentford,1-0,-
+-,-,Chester,Brentford,3-1,-
+-,-,Chesterfield,Brentford,0-0,-
+-,-,Colchester United,Brentford,1-1,-
+-,-,Exeter City,Brentford,2-2,-
+-,-,Gillingham,Brentford,0-0,-
+-,-,Hull City,Brentford,1-0,-
+-,-,Lincoln City,Brentford,1-0,-
+-,-,Mansfield Town,Brentford,2-1,-
+-,-,Oxford United,Brentford,0-1,-
+-,-,Peterborough United,Brentford,3-1,-
+-,-,Plymouth Argyle,Brentford,2-1,-
+-,-,Rotherham United,Brentford,1-0,-
+-,-,Sheffield Wednesday,Brentford,1-0,-
+-,-,Shrewsbury Town,Brentford,1-0,-
+-,-,Southend United,Brentford,1-1,-
+-,-,Swansea City,Brentford,2-1,-
+-,-,Swindon Town,Brentford,2-0,-
+-,-,Tranmere Rovers,Brentford,0-1,-
+-,-,Walsall,Brentford,2-3,-
+-,-,Watford,Brentford,2-0,-
+-,-,Blackpool,Bury,1-2,-
+-,-,Brentford,Bury,0-1,-
+-,-,Carlisle United,Bury,1-2,-
+-,-,Chester,Bury,1-1,-
+-,-,Chesterfield,Bury,2-1,-
+-,-,Colchester United,Bury,0-0,-
+-,-,Exeter City,Bury,2-1,-
+-,-,Gillingham,Bury,3-3,-
+-,-,Hull City,Bury,4-1,-
+-,-,Lincoln City,Bury,1-4,-
+-,-,Mansfield Town,Bury,3-0,-
+-,-,Oxford United,Bury,0-0,-
+-,-,Peterborough United,Bury,2-2,-
+-,-,Plymouth Argyle,Bury,3-0,-
+-,-,Rotherham United,Bury,2-1,-
+-,-,Sheffield Wednesday,Bury,0-0,-
+-,-,Shrewsbury Town,Bury,1-0,-
+-,-,Southend United,Bury,0-0,-
+-,-,Swansea City,Bury,2-0,-
+-,-,Swindon Town,Bury,2-1,-
+-,-,Tranmere Rovers,Bury,0-0,-
+-,-,Walsall,Bury,0-1,-
+-,-,Watford,Bury,3-3,-
+-,-,Blackpool,Carlisle United,3-1,-
+-,-,Brentford,Carlisle United,0-0,-
+-,-,Bury,Carlisle United,2-2,-
+-,-,Chester,Carlisle United,1-2,-
+-,-,Chesterfield,Carlisle United,2-3,-
+-,-,Colchester United,Carlisle United,2-1,-
+-,-,Exeter City,Carlisle United,3-2,-
+-,-,Gillingham,Carlisle United,0-0,-
+-,-,Hull City,Carlisle United,1-1,-
+-,-,Lincoln City,Carlisle United,1-1,-
+-,-,Mansfield Town,Carlisle United,1-0,-
+-,-,Oxford United,Carlisle United,5-1,-
+-,-,Peterborough United,Carlisle United,0-0,-
+-,-,Plymouth Argyle,Carlisle United,2-0,-
+-,-,Rotherham United,Carlisle United,1-3,-
+-,-,Sheffield Wednesday,Carlisle United,0-0,-
+-,-,Shrewsbury Town,Carlisle United,0-0,-
+-,-,Southend United,Carlisle United,1-1,-
+-,-,Swansea City,Carlisle United,0-0,-
+-,-,Swindon Town,Carlisle United,0-0,-
+-,-,Tranmere Rovers,Carlisle United,1-1,-
+-,-,Walsall,Carlisle United,1-2,-
+-,-,Watford,Carlisle United,2-1,-
+-,-,Blackpool,Chester,3-0,-
+-,-,Brentford,Chester,6-0,-
+-,-,Bury,Chester,1-1,-
+-,-,Carlisle United,Chester,1-1,-
+-,-,Chesterfield,Chester,3-1,-
+-,-,Colchester United,Chester,2-1,-
+-,-,Exeter City,Chester,0-1,-
+-,-,Gillingham,Chester,1-0,-
+-,-,Hull City,Chester,3-0,-
+-,-,Lincoln City,Chester,0-0,-
+-,-,Mansfield Town,Chester,2-0,-
+-,-,Oxford United,Chester,0-0,-
+-,-,Peterborough United,Chester,2-1,-
+-,-,Plymouth Argyle,Chester,2-2,-
+-,-,Rotherham United,Chester,0-1,-
+-,-,Sheffield Wednesday,Chester,0-0,-
+-,-,Shrewsbury Town,Chester,1-0,-
+-,-,Southend United,Chester,0-1,-
+-,-,Swansea City,Chester,2-2,-
+-,-,Swindon Town,Chester,2-0,-
+-,-,Tranmere Rovers,Chester,6-2,-
+-,-,Walsall,Chester,2-1,-
+-,-,Watford,Chester,1-0,-
+-,-,Blackpool,Chesterfield,0-0,-
+-,-,Brentford,Chesterfield,0-3,-
+-,-,Bury,Chesterfield,3-1,-
+-,-,Carlisle United,Chesterfield,1-1,-
+-,-,Chester,Chesterfield,3-0,-
+-,-,Colchester United,Chesterfield,0-0,-
+-,-,Exeter City,Chesterfield,3-1,-
+-,-,Gillingham,Chesterfield,2-1,-
+-,-,Hull City,Chesterfield,1-1,-
+-,-,Lincoln City,Chesterfield,0-1,-
+-,-,Mansfield Town,Chesterfield,2-1,-
+-,-,Oxford United,Chesterfield,1-1,-
+-,-,Peterborough United,Chesterfield,0-0,-
+-,-,Plymouth Argyle,Chesterfield,1-1,-
+-,-,Rotherham United,Chesterfield,1-0,-
+-,-,Sheffield Wednesday,Chesterfield,4-0,-
+-,-,Shrewsbury Town,Chesterfield,1-1,-
+-,-,Southend United,Chesterfield,2-0,-
+-,-,Swansea City,Chesterfield,2-1,-
+-,-,Swindon Town,Chesterfield,1-0,-
+-,-,Tranmere Rovers,Chesterfield,1-1,-
+-,-,Walsall,Chesterfield,0-1,-
+-,-,Watford,Chesterfield,2-0,-
+-,-,Blackpool,Colchester United,2-1,-
+-,-,Brentford,Colchester United,1-0,-
+-,-,Bury,Colchester United,2-2,-
+-,-,Carlisle United,Colchester United,4-0,-
+-,-,Chester,Colchester United,2-2,-
+-,-,Chesterfield,Colchester United,2-1,-
+-,-,Exeter City,Colchester United,2-1,-
+-,-,Gillingham,Colchester United,3-0,-
+-,-,Hull City,Colchester United,1-0,-
+-,-,Lincoln City,Colchester United,0-0,-
+-,-,Mansfield Town,Colchester United,1-1,-
+-,-,Oxford United,Colchester United,2-0,-
+-,-,Peterborough United,Colchester United,1-2,-
+-,-,Plymouth Argyle,Colchester United,1-1,-
+-,-,Rotherham United,Colchester United,1-0,-
+-,-,Sheffield Wednesday,Colchester United,0-0,-
+-,-,Shrewsbury Town,Colchester United,2-0,-
+-,-,Southend United,Colchester United,1-1,-
+-,-,Swansea City,Colchester United,4-1,-
+-,-,Swindon Town,Colchester United,1-2,-
+-,-,Tranmere Rovers,Colchester United,1-5,-
+-,-,Walsall,Colchester United,2-2,-
+-,-,Watford,Colchester United,0-3,-
+-,-,Blackpool,Exeter City,1-1,-
+-,-,Brentford,Exeter City,0-0,-
+-,-,Bury,Exeter City,4-2,-
+-,-,Carlisle United,Exeter City,1-1,-
+-,-,Chester,Exeter City,3-0,-
+-,-,Chesterfield,Exeter City,0-1,-
+-,-,Colchester United,Exeter City,2-2,-
+-,-,Gillingham,Exeter City,2-0,-
+-,-,Hull City,Exeter City,1-0,-
+-,-,Lincoln City,Exeter City,0-1,-
+-,-,Mansfield Town,Exeter City,1-1,-
+-,-,Oxford United,Exeter City,3-2,-
+-,-,Peterborough United,Exeter City,1-1,-
+-,-,Plymouth Argyle,Exeter City,4-2,-
+-,-,Rotherham United,Exeter City,2-1,-
+-,-,Sheffield Wednesday,Exeter City,2-1,-
+-,-,Shrewsbury Town,Exeter City,4-1,-
+-,-,Southend United,Exeter City,0-1,-
+-,-,Swansea City,Exeter City,1-0,-
+-,-,Swindon Town,Exeter City,1-1,-
+-,-,Tranmere Rovers,Exeter City,2-2,-
+-,-,Walsall,Exeter City,2-2,-
+-,-,Watford,Exeter City,1-0,-
+-,-,Blackpool,Gillingham,2-0,-
+-,-,Brentford,Gillingham,0-2,-
+-,-,Bury,Gillingham,2-2,-
+-,-,Carlisle United,Gillingham,1-0,-
+-,-,Chester,Gillingham,1-1,-
+-,-,Chesterfield,Gillingham,0-2,-
+-,-,Colchester United,Gillingham,2-2,-
+-,-,Exeter City,Gillingham,0-0,-
+-,-,Hull City,Gillingham,0-1,-
+-,-,Lincoln City,Gillingham,2-4,-
+-,-,Mansfield Town,Gillingham,1-1,-
+-,-,Oxford United,Gillingham,1-1,-
+-,-,Peterborough United,Gillingham,1-1,-
+-,-,Plymouth Argyle,Gillingham,2-1,-
+-,-,Rotherham United,Gillingham,1-1,-
+-,-,Sheffield Wednesday,Gillingham,2-1,-
+-,-,Shrewsbury Town,Gillingham,1-1,-
+-,-,Southend United,Gillingham,0-1,-
+-,-,Swansea City,Gillingham,3-1,-
+-,-,Swindon Town,Gillingham,3-1,-
+-,-,Tranmere Rovers,Gillingham,1-1,-
+-,-,Walsall,Gillingham,0-1,-
+-,-,Watford,Gillingham,1-0,-
+-,-,Blackpool,Hull City,3-1,-
+-,-,Brentford,Hull City,1-0,-
+-,-,Bury,Hull City,1-1,-
+-,-,Carlisle United,Hull City,2-2,-
+-,-,Chester,Hull City,2-1,-
+-,-,Chesterfield,Hull City,1-2,-
+-,-,Colchester United,Hull City,2-1,-
+-,-,Exeter City,Hull City,3-1,-
+-,-,Gillingham,Hull City,2-0,-
+-,-,Lincoln City,Hull City,4-2,-
+-,-,Mansfield Town,Hull City,0-2,-
+-,-,Oxford United,Hull City,1-0,-
+-,-,Peterborough United,Hull City,3-0,-
+-,-,Plymouth Argyle,Hull City,3-4,-
+-,-,Rotherham United,Hull City,0-2,-
+-,-,Sheffield Wednesday,Hull City,2-3,-
+-,-,Shrewsbury Town,Hull City,1-0,-
+-,-,Southend United,Hull City,3-0,-
+-,-,Swansea City,Hull City,5-3,-
+-,-,Swindon Town,Hull City,2-0,-
+-,-,Tranmere Rovers,Hull City,1-3,-
+-,-,Walsall,Hull City,1-2,-
+-,-,Watford,Hull City,4-0,-
+-,-,Blackpool,Lincoln City,2-0,-
+-,-,Brentford,Lincoln City,2-1,-
+-,-,Bury,Lincoln City,2-2,-
+-,-,Carlisle United,Lincoln City,2-0,-
+-,-,Chester,Lincoln City,5-1,-
+-,-,Chesterfield,Lincoln City,1-3,-
+-,-,Colchester United,Lincoln City,2-0,-
+-,-,Exeter City,Lincoln City,3-2,-
+-,-,Gillingham,Lincoln City,4-2,-
+-,-,Hull City,Lincoln City,0-0,-
+-,-,Mansfield Town,Lincoln City,2-0,-
+-,-,Oxford United,Lincoln City,2-1,-
+-,-,Peterborough United,Lincoln City,0-1,-
+-,-,Plymouth Argyle,Lincoln City,2-1,-
+-,-,Rotherham United,Lincoln City,2-0,-
+-,-,Sheffield Wednesday,Lincoln City,0-0,-
+-,-,Shrewsbury Town,Lincoln City,2-0,-
+-,-,Southend United,Lincoln City,2-0,-
+-,-,Swansea City,Lincoln City,3-0,-
+-,-,Swindon Town,Lincoln City,6-0,-
+-,-,Tranmere Rovers,Lincoln City,0-0,-
+-,-,Walsall,Lincoln City,4-1,-
+-,-,Watford,Lincoln City,2-0,-
+-,-,Blackpool,Mansfield Town,2-0,-
+-,-,Brentford,Mansfield Town,1-0,-
+-,-,Bury,Mansfield Town,0-0,-
+-,-,Carlisle United,Mansfield Town,1-0,-
+-,-,Chester,Mansfield Town,1-1,-
+-,-,Chesterfield,Mansfield Town,1-0,-
+-,-,Colchester United,Mansfield Town,1-0,-
+-,-,Exeter City,Mansfield Town,0-0,-
+-,-,Gillingham,Mansfield Town,0-0,-
+-,-,Hull City,Mansfield Town,3-0,-
+-,-,Lincoln City,Mansfield Town,0-1,-
+-,-,Oxford United,Mansfield Town,3-2,-
+-,-,Peterborough United,Mansfield Town,1-2,-
+-,-,Plymouth Argyle,Mansfield Town,1-4,-
+-,-,Rotherham United,Mansfield Town,2-0,-
+-,-,Sheffield Wednesday,Mansfield Town,1-2,-
+-,-,Shrewsbury Town,Mansfield Town,2-2,-
+-,-,Southend United,Mansfield Town,1-1,-
+-,-,Swansea City,Mansfield Town,3-2,-
+-,-,Swindon Town,Mansfield Town,1-0,-
+-,-,Tranmere Rovers,Mansfield Town,1-2,-
+-,-,Walsall,Mansfield Town,1-1,-
+-,-,Watford,Mansfield Town,1-1,-
+-,-,Blackpool,Oxford United,1-0,-
+-,-,Brentford,Oxford United,3-0,-
+-,-,Bury,Oxford United,1-1,-
+-,-,Carlisle United,Oxford United,0-1,-
+-,-,Chester,Oxford United,4-1,-
+-,-,Chesterfield,Oxford United,1-1,-
+-,-,Colchester United,Oxford United,1-1,-
+-,-,Exeter City,Oxford United,2-0,-
+-,-,Gillingham,Oxford United,2-1,-
+-,-,Hull City,Oxford United,0-1,-
+-,-,Lincoln City,Oxford United,2-2,-
+-,-,Mansfield Town,Oxford United,1-1,-
+-,-,Peterborough United,Oxford United,1-1,-
+-,-,Plymouth Argyle,Oxford United,0-1,-
+-,-,Rotherham United,Oxford United,0-0,-
+-,-,Sheffield Wednesday,Oxford United,1-1,-
+-,-,Shrewsbury Town,Oxford United,0-0,-
+-,-,Southend United,Oxford United,2-0,-
+-,-,Swansea City,Oxford United,1-1,-
+-,-,Swindon Town,Oxford United,2-0,-
+-,-,Tranmere Rovers,Oxford United,1-0,-
+-,-,Walsall,Oxford United,0-1,-
+-,-,Watford,Oxford United,4-2,-
+-,-,Blackpool,Peterborough United,0-0,-
+-,-,Brentford,Peterborough United,0-0,-
+-,-,Bury,Peterborough United,1-0,-
+-,-,Carlisle United,Peterborough United,4-1,-
+-,-,Chester,Peterborough United,1-1,-
+-,-,Chesterfield,Peterborough United,3-1,-
+-,-,Colchester United,Peterborough United,4-2,-
+-,-,Exeter City,Peterborough United,1-0,-
+-,-,Gillingham,Peterborough United,1-0,-
+-,-,Hull City,Peterborough United,1-1,-
+-,-,Lincoln City,Peterborough United,0-1,-
+-,-,Mansfield Town,Peterborough United,1-1,-
+-,-,Oxford United,Peterborough United,0-2,-
+-,-,Plymouth Argyle,Peterborough United,3-2,-
+-,-,Rotherham United,Peterborough United,1-1,-
+-,-,Sheffield Wednesday,Peterborough United,3-0,-
+-,-,Shrewsbury Town,Peterborough United,2-0,-
+-,-,Southend United,Peterborough United,0-0,-
+-,-,Swansea City,Peterborough United,4-1,-
+-,-,Swindon Town,Peterborough United,3-1,-
+-,-,Tranmere Rovers,Peterborough United,1-0,-
+-,-,Walsall,Peterborough United,4-1,-
+-,-,Watford,Peterborough United,1-2,-
+-,-,Blackpool,Plymouth Argyle,0-0,-
+-,-,Brentford,Plymouth Argyle,2-1,-
+-,-,Bury,Plymouth Argyle,1-2,-
+-,-,Carlisle United,Plymouth Argyle,1-1,-
+-,-,Chester,Plymouth Argyle,0-0,-
+-,-,Chesterfield,Plymouth Argyle,1-3,-
+-,-,Colchester United,Plymouth Argyle,2-1,-
+-,-,Exeter City,Plymouth Argyle,1-0,-
+-,-,Gillingham,Plymouth Argyle,2-0,-
+-,-,Hull City,Plymouth Argyle,2-1,-
+-,-,Lincoln City,Plymouth Argyle,3-3,-
+-,-,Mansfield Town,Plymouth Argyle,5-0,-
+-,-,Oxford United,Plymouth Argyle,3-2,-
+-,-,Peterborough United,Plymouth Argyle,2-1,-
+-,-,Rotherham United,Plymouth Argyle,1-0,-
+-,-,Sheffield Wednesday,Plymouth Argyle,2-3,-
+-,-,Shrewsbury Town,Plymouth Argyle,2-0,-
+-,-,Southend United,Plymouth Argyle,2-1,-
+-,-,Swansea City,Plymouth Argyle,2-1,-
+-,-,Swindon Town,Plymouth Argyle,1-3,-
+-,-,Tranmere Rovers,Plymouth Argyle,2-1,-
+-,-,Walsall,Plymouth Argyle,2-1,-
+-,-,Watford,Plymouth Argyle,2-2,-
+-,-,Blackpool,Rotherham United,1-2,-
+-,-,Brentford,Rotherham United,1-0,-
+-,-,Bury,Rotherham United,3-2,-
+-,-,Carlisle United,Rotherham United,1-1,-
+-,-,Chester,Rotherham United,0-1,-
+-,-,Chesterfield,Rotherham United,1-0,-
+-,-,Colchester United,Rotherham United,0-0,-
+-,-,Exeter City,Rotherham United,2-0,-
+-,-,Gillingham,Rotherham United,0-0,-
+-,-,Hull City,Rotherham United,1-0,-
+-,-,Lincoln City,Rotherham United,3-0,-
+-,-,Mansfield Town,Rotherham United,0-1,-
+-,-,Oxford United,Rotherham United,1-0,-
+-,-,Peterborough United,Rotherham United,1-1,-
+-,-,Plymouth Argyle,Rotherham United,2-0,-
+-,-,Sheffield Wednesday,Rotherham United,2-1,-
+-,-,Shrewsbury Town,Rotherham United,3-1,-
+-,-,Southend United,Rotherham United,2-1,-
+-,-,Swansea City,Rotherham United,4-4,-
+-,-,Swindon Town,Rotherham United,1-0,-
+-,-,Tranmere Rovers,Rotherham United,1-1,-
+-,-,Walsall,Rotherham United,0-1,-
+-,-,Watford,Rotherham United,2-2,-
+-,-,Blackpool,Sheffield Wednesday,0-1,-
+-,-,Brentford,Sheffield Wednesday,2-1,-
+-,-,Bury,Sheffield Wednesday,0-0,-
+-,-,Carlisle United,Sheffield Wednesday,0-0,-
+-,-,Chester,Sheffield Wednesday,2-2,-
+-,-,Chesterfield,Sheffield Wednesday,3-3,-
+-,-,Colchester United,Sheffield Wednesday,1-0,-
+-,-,Exeter City,Sheffield Wednesday,2-2,-
+-,-,Gillingham,Sheffield Wednesday,0-0,-
+-,-,Hull City,Sheffield Wednesday,1-1,-
+-,-,Lincoln City,Sheffield Wednesday,1-2,-
+-,-,Mansfield Town,Sheffield Wednesday,1-1,-
+-,-,Oxford United,Sheffield Wednesday,1-1,-
+-,-,Peterborough United,Sheffield Wednesday,2-0,-
+-,-,Plymouth Argyle,Sheffield Wednesday,2-0,-
+-,-,Rotherham United,Sheffield Wednesday,0-1,-
+-,-,Shrewsbury Town,Sheffield Wednesday,2-2,-
+-,-,Southend United,Sheffield Wednesday,2-1,-
+-,-,Swansea City,Sheffield Wednesday,4-2,-
+-,-,Swindon Town,Sheffield Wednesday,3-0,-
+-,-,Tranmere Rovers,Sheffield Wednesday,1-1,-
+-,-,Walsall,Sheffield Wednesday,0-2,-
+-,-,Watford,Sheffield Wednesday,1-0,-
+-,-,Blackpool,Shrewsbury Town,5-0,-
+-,-,Brentford,Shrewsbury Town,2-3,-
+-,-,Bury,Shrewsbury Town,3-0,-
+-,-,Carlisle United,Shrewsbury Town,1-1,-
+-,-,Chester,Shrewsbury Town,0-0,-
+-,-,Chesterfield,Shrewsbury Town,2-1,-
+-,-,Colchester United,Shrewsbury Town,1-0,-
+-,-,Exeter City,Shrewsbury Town,0-1,-
+-,-,Gillingham,Shrewsbury Town,2-0,-
+-,-,Hull City,Shrewsbury Town,1-1,-
+-,-,Lincoln City,Shrewsbury Town,1-2,-
+-,-,Mansfield Town,Shrewsbury Town,2-2,-
+-,-,Oxford United,Shrewsbury Town,0-1,-
+-,-,Peterborough United,Shrewsbury Town,0-2,-
+-,-,Plymouth Argyle,Shrewsbury Town,1-1,-
+-,-,Rotherham United,Shrewsbury Town,1-2,-
+-,-,Sheffield Wednesday,Shrewsbury Town,0-0,-
+-,-,Southend United,Shrewsbury Town,0-1,-
+-,-,Swansea City,Shrewsbury Town,1-1,-
+-,-,Swindon Town,Shrewsbury Town,2-1,-
+-,-,Tranmere Rovers,Shrewsbury Town,2-2,-
+-,-,Walsall,Shrewsbury Town,1-1,-
+-,-,Watford,Shrewsbury Town,2-2,-
+-,-,Blackpool,Southend United,1-2,-
+-,-,Brentford,Southend United,3-0,-
+-,-,Bury,Southend United,3-3,-
+-,-,Carlisle United,Southend United,0-0,-
+-,-,Chester,Southend United,0-1,-
+-,-,Chesterfield,Southend United,3-2,-
+-,-,Colchester United,Southend United,1-1,-
+-,-,Exeter City,Southend United,0-0,-
+-,-,Gillingham,Southend United,1-0,-
+-,-,Hull City,Southend United,2-0,-
+-,-,Lincoln City,Southend United,1-1,-
+-,-,Mansfield Town,Southend United,1-1,-
+-,-,Oxford United,Southend United,0-0,-
+-,-,Peterborough United,Southend United,0-1,-
+-,-,Plymouth Argyle,Southend United,1-1,-
+-,-,Rotherham United,Southend United,2-1,-
+-,-,Sheffield Wednesday,Southend United,3-2,-
+-,-,Shrewsbury Town,Southend United,2-0,-
+-,-,Swansea City,Southend United,3-2,-
+-,-,Swindon Town,Southend United,1-0,-
+-,-,Tranmere Rovers,Southend United,1-2,-
+-,-,Walsall,Southend United,1-1,-
+-,-,Watford,Southend United,2-0,-
+-,-,Blackpool,Swansea City,1-3,-
+-,-,Brentford,Swansea City,1-0,-
+-,-,Bury,Swansea City,0-1,-
+-,-,Carlisle United,Swansea City,2-0,-
+-,-,Chester,Swansea City,2-0,-
+-,-,Chesterfield,Swansea City,2-1,-
+-,-,Colchester United,Swansea City,2-2,-
+-,-,Exeter City,Swansea City,2-1,-
+-,-,Gillingham,Swansea City,2-0,-
+-,-,Hull City,Swansea City,2-2,-
+-,-,Lincoln City,Swansea City,2-1,-
+-,-,Mansfield Town,Swansea City,2-2,-
+-,-,Oxford United,Swansea City,0-2,-
+-,-,Peterborough United,Swansea City,2-0,-
+-,-,Plymouth Argyle,Swansea City,2-2,-
+-,-,Rotherham United,Swansea City,0-1,-
+-,-,Sheffield Wednesday,Swansea City,0-0,-
+-,-,Shrewsbury Town,Swansea City,3-0,-
+-,-,Southend United,Swansea City,0-2,-
+-,-,Swindon Town,Swansea City,0-1,-
+-,-,Tranmere Rovers,Swansea City,1-2,-
+-,-,Walsall,Swansea City,1-1,-
+-,-,Watford,Swansea City,0-2,-
+-,-,Blackpool,Swindon Town,5-2,-
+-,-,Brentford,Swindon Town,1-2,-
+-,-,Bury,Swindon Town,0-1,-
+-,-,Carlisle United,Swindon Town,2-0,-
+-,-,Chester,Swindon Town,2-0,-
+-,-,Chesterfield,Swindon Town,1-1,-
+-,-,Colchester United,Swindon Town,3-2,-
+-,-,Exeter City,Swindon Town,1-2,-
+-,-,Gillingham,Swindon Town,2-2,-
+-,-,Hull City,Swindon Town,1-1,-
+-,-,Lincoln City,Swindon Town,0-3,-
+-,-,Mansfield Town,Swindon Town,0-1,-
+-,-,Oxford United,Swindon Town,0-1,-
+-,-,Peterborough United,Swindon Town,2-1,-
+-,-,Plymouth Argyle,Swindon Town,2-0,-
+-,-,Rotherham United,Swindon Town,1-3,-
+-,-,Sheffield Wednesday,Swindon Town,2-1,-
+-,-,Shrewsbury Town,Swindon Town,0-0,-
+-,-,Southend United,Swindon Town,5-3,-
+-,-,Swansea City,Swindon Town,1-2,-
+-,-,Tranmere Rovers,Swindon Town,1-1,-
+-,-,Walsall,Swindon Town,4-1,-
+-,-,Watford,Swindon Town,2-0,-
+-,-,Blackpool,Tranmere Rovers,2-0,-
+-,-,Brentford,Tranmere Rovers,2-0,-
+-,-,Bury,Tranmere Rovers,1-0,-
+-,-,Carlisle United,Tranmere Rovers,2-0,-
+-,-,Chester,Tranmere Rovers,1-1,-
+-,-,Chesterfield,Tranmere Rovers,5-2,-
+-,-,Colchester United,Tranmere Rovers,1-0,-
+-,-,Exeter City,Tranmere Rovers,3-0,-
+-,-,Gillingham,Tranmere Rovers,3-2,-
+-,-,Hull City,Tranmere Rovers,2-1,-
+-,-,Lincoln City,Tranmere Rovers,2-1,-
+-,-,Mansfield Town,Tranmere Rovers,0-0,-
+-,-,Oxford United,Tranmere Rovers,0-0,-
+-,-,Peterborough United,Tranmere Rovers,1-0,-
+-,-,Plymouth Argyle,Tranmere Rovers,2-2,-
+-,-,Rotherham United,Tranmere Rovers,3-2,-
+-,-,Sheffield Wednesday,Tranmere Rovers,1-2,-
+-,-,Shrewsbury Town,Tranmere Rovers,2-1,-
+-,-,Southend United,Tranmere Rovers,0-1,-
+-,-,Swansea City,Tranmere Rovers,4-3,-
+-,-,Swindon Town,Tranmere Rovers,4-1,-
+-,-,Walsall,Tranmere Rovers,2-0,-
+-,-,Watford,Tranmere Rovers,4-0,-
+-,-,Blackpool,Walsall,2-1,-
+-,-,Brentford,Walsall,1-0,-
+-,-,Bury,Walsall,1-1,-
+-,-,Carlisle United,Walsall,1-0,-
+-,-,Chester,Walsall,2-1,-
+-,-,Chesterfield,Walsall,0-0,-
+-,-,Colchester United,Walsall,2-0,-
+-,-,Exeter City,Walsall,3-1,-
+-,-,Gillingham,Walsall,3-1,-
+-,-,Hull City,Walsall,4-1,-
+-,-,Lincoln City,Walsall,1-1,-
+-,-,Mansfield Town,Walsall,1-3,-
+-,-,Oxford United,Walsall,2-1,-
+-,-,Peterborough United,Walsall,0-3,-
+-,-,Plymouth Argyle,Walsall,1-0,-
+-,-,Rotherham United,Walsall,4-1,-
+-,-,Sheffield Wednesday,Walsall,0-2,-
+-,-,Shrewsbury Town,Walsall,1-1,-
+-,-,Southend United,Walsall,1-0,-
+-,-,Swansea City,Walsall,2-2,-
+-,-,Swindon Town,Walsall,4-1,-
+-,-,Tranmere Rovers,Walsall,0-0,-
+-,-,Watford,Walsall,3-1,-
+-,-,Blackpool,Watford,1-1,-
+-,-,Brentford,Watford,3-3,-
+-,-,Bury,Watford,1-2,-
+-,-,Carlisle United,Watford,1-0,-
+-,-,Chester,Watford,2-1,-
+-,-,Chesterfield,Watford,0-2,-
+-,-,Colchester United,Watford,0-1,-
+-,-,Exeter City,Watford,0-0,-
+-,-,Gillingham,Watford,2-3,-
+-,-,Hull City,Watford,4-0,-
+-,-,Lincoln City,Watford,0-5,-
+-,-,Mansfield Town,Watford,0-3,-
+-,-,Oxford United,Watford,1-1,-
+-,-,Peterborough United,Watford,0-1,-
+-,-,Plymouth Argyle,Watford,1-1,-
+-,-,Rotherham United,Watford,2-1,-
+-,-,Sheffield Wednesday,Watford,2-3,-
+-,-,Shrewsbury Town,Watford,1-1,-
+-,-,Southend United,Watford,1-0,-
+-,-,Swansea City,Watford,3-2,-
+-,-,Swindon Town,Watford,2-0,-
+-,-,Tranmere Rovers,Watford,1-1,-
+-,-,Walsall,Watford,2-4,-

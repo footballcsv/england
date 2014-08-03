@@ -1,553 +1,553 @@
-Date,Team 1,Team 2,FT
--,Blackburn Rovers,Barnsley,1-2
--,Brighton & Hove Albion,Barnsley,1-0
--,Bristol City,Barnsley,1-0
--,Bristol Rovers,Barnsley,2-1
--,Charlton Athletic,Barnsley,2-1
--,Hull City,Barnsley,1-2
--,Ipswich Town,Barnsley,2-0
--,Leicester City,Barnsley,2-1
--,Middlesbrough,Barnsley,1-0
--,Millwall,Barnsley,4-1
--,Newcastle United,Barnsley,0-0
--,Notts County,Barnsley,2-3
--,Oldham Athletic,Barnsley,2-0
--,Oxford United,Barnsley,2-0
--,Plymouth Argyle,Barnsley,1-1
--,Port Vale,Barnsley,0-1
--,Portsmouth,Barnsley,0-0
--,Sheffield Wednesday,Barnsley,3-1
--,Swindon Town,Barnsley,1-2
--,Watford,Barnsley,0-0
--,West Bromwich Albion,Barnsley,1-1
--,West Ham United,Barnsley,3-2
--,Wolverhampton Wanderers,Barnsley,0-5
--,Barnsley,Blackburn Rovers,0-1
--,Brighton & Hove Albion,Blackburn Rovers,1-0
--,Bristol City,Blackburn Rovers,4-2
--,Bristol Rovers,Blackburn Rovers,1-2
--,Charlton Athletic,Blackburn Rovers,0-0
--,Hull City,Blackburn Rovers,3-1
--,Ipswich Town,Blackburn Rovers,2-1
--,Leicester City,Blackburn Rovers,1-3
--,Middlesbrough,Blackburn Rovers,0-1
--,Millwall,Blackburn Rovers,2-1
--,Newcastle United,Blackburn Rovers,1-0
--,Notts County,Blackburn Rovers,4-1
--,Oldham Athletic,Blackburn Rovers,1-1
--,Oxford United,Blackburn Rovers,0-0
--,Plymouth Argyle,Blackburn Rovers,4-1
--,Port Vale,Blackburn Rovers,3-0
--,Portsmouth,Blackburn Rovers,3-2
--,Sheffield Wednesday,Blackburn Rovers,3-1
--,Swindon Town,Blackburn Rovers,1-1
--,Watford,Blackburn Rovers,0-3
--,West Bromwich Albion,Blackburn Rovers,2-0
--,West Ham United,Blackburn Rovers,1-0
--,Wolverhampton Wanderers,Blackburn Rovers,2-3
--,Barnsley,Brighton & Hove Albion,2-1
--,Blackburn Rovers,Brighton & Hove Albion,1-2
--,Bristol City,Brighton & Hove Albion,3-1
--,Bristol Rovers,Brighton & Hove Albion,1-3
--,Charlton Athletic,Brighton & Hove Albion,1-2
--,Hull City,Brighton & Hove Albion,0-1
--,Ipswich Town,Brighton & Hove Albion,1-3
--,Leicester City,Brighton & Hove Albion,3-0
--,Middlesbrough,Brighton & Hove Albion,2-0
--,Millwall,Brighton & Hove Albion,3-0
--,Newcastle United,Brighton & Hove Albion,0-0
--,Notts County,Brighton & Hove Albion,2-1
--,Oldham Athletic,Brighton & Hove Albion,6-1
--,Oxford United,Brighton & Hove Albion,3-0
--,Plymouth Argyle,Brighton & Hove Albion,2-0
--,Port Vale,Brighton & Hove Albion,0-1
--,Portsmouth,Brighton & Hove Albion,1-0
--,Sheffield Wednesday,Brighton & Hove Albion,1-1
--,Swindon Town,Brighton & Hove Albion,1-3
--,Watford,Brighton & Hove Albion,0-1
--,West Bromwich Albion,Brighton & Hove Albion,1-1
--,West Ham United,Brighton & Hove Albion,2-1
--,Wolverhampton Wanderers,Brighton & Hove Albion,2-3
--,Barnsley,Bristol City,2-0
--,Blackburn Rovers,Bristol City,0-1
--,Brighton & Hove Albion,Bristol City,0-1
--,Bristol Rovers,Bristol City,3-2
--,Charlton Athletic,Bristol City,2-1
--,Hull City,Bristol City,1-2
--,Ipswich Town,Bristol City,1-1
--,Leicester City,Bristol City,3-0
--,Middlesbrough,Bristol City,2-1
--,Millwall,Bristol City,1-2
--,Newcastle United,Bristol City,0-0
--,Notts County,Bristol City,3-2
--,Oldham Athletic,Bristol City,2-1
--,Oxford United,Bristol City,3-1
--,Plymouth Argyle,Bristol City,1-0
--,Port Vale,Bristol City,3-2
--,Portsmouth,Bristol City,4-1
--,Sheffield Wednesday,Bristol City,3-1
--,Swindon Town,Bristol City,0-1
--,Watford,Bristol City,2-3
--,West Bromwich Albion,Bristol City,2-1
--,West Ham United,Bristol City,1-0
--,Wolverhampton Wanderers,Bristol City,4-0
--,Barnsley,Bristol Rovers,1-0
--,Blackburn Rovers,Bristol Rovers,2-2
--,Brighton & Hove Albion,Bristol Rovers,0-1
--,Bristol City,Bristol Rovers,1-0
--,Charlton Athletic,Bristol Rovers,2-2
--,Hull City,Bristol Rovers,2-0
--,Ipswich Town,Bristol Rovers,2-1
--,Leicester City,Bristol Rovers,3-2
--,Middlesbrough,Bristol Rovers,1-2
--,Millwall,Bristol Rovers,1-1
--,Newcastle United,Bristol Rovers,0-2
--,Notts County,Bristol Rovers,3-2
--,Oldham Athletic,Bristol Rovers,2-0
--,Oxford United,Bristol Rovers,3-1
--,Plymouth Argyle,Bristol Rovers,2-2
--,Port Vale,Bristol Rovers,3-2
--,Portsmouth,Bristol Rovers,3-1
--,Sheffield Wednesday,Bristol Rovers,2-1
--,Swindon Town,Bristol Rovers,0-2
--,Watford,Bristol Rovers,1-1
--,West Bromwich Albion,Bristol Rovers,3-1
--,West Ham United,Bristol Rovers,1-0
--,Wolverhampton Wanderers,Bristol Rovers,1-1
--,Barnsley,Charlton Athletic,1-1
--,Blackburn Rovers,Charlton Athletic,2-2
--,Brighton & Hove Albion,Charlton Athletic,3-2
--,Bristol City,Charlton Athletic,0-1
--,Bristol Rovers,Charlton Athletic,2-1
--,Hull City,Charlton Athletic,2-2
--,Ipswich Town,Charlton Athletic,4-4
--,Leicester City,Charlton Athletic,1-2
--,Middlesbrough,Charlton Athletic,1-2
--,Millwall,Charlton Athletic,3-1
--,Newcastle United,Charlton Athletic,1-3
--,Notts County,Charlton Athletic,2-2
--,Oldham Athletic,Charlton Athletic,1-1
--,Oxford United,Charlton Athletic,1-1
--,Plymouth Argyle,Charlton Athletic,2-0
--,Port Vale,Charlton Athletic,1-1
--,Portsmouth,Charlton Athletic,0-1
--,Sheffield Wednesday,Charlton Athletic,0-0
--,Swindon Town,Charlton Athletic,1-1
--,Watford,Charlton Athletic,2-1
--,West Bromwich Albion,Charlton Athletic,1-0
--,West Ham United,Charlton Athletic,2-1
--,Wolverhampton Wanderers,Charlton Athletic,3-0
--,Barnsley,Hull City,3-1
--,Blackburn Rovers,Hull City,2-1
--,Brighton & Hove Albion,Hull City,3-1
--,Bristol City,Hull City,4-1
--,Bristol Rovers,Hull City,1-1
--,Charlton Athletic,Hull City,2-1
--,Ipswich Town,Hull City,2-0
--,Leicester City,Hull City,0-1
--,Middlesbrough,Hull City,3-0
--,Millwall,Hull City,3-3
--,Newcastle United,Hull City,1-2
--,Notts County,Hull City,2-1
--,Oldham Athletic,Hull City,1-2
--,Oxford United,Hull City,1-0
--,Plymouth Argyle,Hull City,4-1
--,Port Vale,Hull City,0-0
--,Portsmouth,Hull City,5-1
--,Sheffield Wednesday,Hull City,5-1
--,Swindon Town,Hull City,3-1
--,Watford,Hull City,0-1
--,West Bromwich Albion,Hull City,1-1
--,West Ham United,Hull City,7-1
--,Wolverhampton Wanderers,Hull City,0-0
--,Barnsley,Ipswich Town,5-1
--,Blackburn Rovers,Ipswich Town,0-1
--,Brighton & Hove Albion,Ipswich Town,2-1
--,Bristol City,Ipswich Town,4-2
--,Bristol Rovers,Ipswich Town,1-0
--,Charlton Athletic,Ipswich Town,1-1
--,Hull City,Ipswich Town,3-3
--,Leicester City,Ipswich Town,1-2
--,Middlesbrough,Ipswich Town,1-1
--,Millwall,Ipswich Town,1-1
--,Newcastle United,Ipswich Town,2-2
--,Notts County,Ipswich Town,3-1
--,Oldham Athletic,Ipswich Town,2-0
--,Oxford United,Ipswich Town,2-1
--,Plymouth Argyle,Ipswich Town,0-0
--,Port Vale,Ipswich Town,1-2
--,Portsmouth,Ipswich Town,1-1
--,Sheffield Wednesday,Ipswich Town,2-2
--,Swindon Town,Ipswich Town,1-0
--,Watford,Ipswich Town,1-1
--,West Bromwich Albion,Ipswich Town,1-2
--,West Ham United,Ipswich Town,3-1
--,Wolverhampton Wanderers,Ipswich Town,2-2
--,Barnsley,Leicester City,1-1
--,Blackburn Rovers,Leicester City,4-1
--,Brighton & Hove Albion,Leicester City,3-0
--,Bristol City,Leicester City,1-0
--,Bristol Rovers,Leicester City,0-0
--,Charlton Athletic,Leicester City,1-2
--,Hull City,Leicester City,5-2
--,Ipswich Town,Leicester City,3-2
--,Middlesbrough,Leicester City,6-0
--,Millwall,Leicester City,2-1
--,Newcastle United,Leicester City,2-1
--,Notts County,Leicester City,0-2
--,Oldham Athletic,Leicester City,2-0
--,Oxford United,Leicester City,2-2
--,Plymouth Argyle,Leicester City,2-0
--,Port Vale,Leicester City,2-0
--,Portsmouth,Leicester City,3-1
--,Sheffield Wednesday,Leicester City,0-0
--,Swindon Town,Leicester City,5-2
--,Watford,Leicester City,1-0
--,West Bromwich Albion,Leicester City,2-1
--,West Ham United,Leicester City,1-0
--,Wolverhampton Wanderers,Leicester City,2-1
--,Barnsley,Middlesbrough,1-0
--,Blackburn Rovers,Middlesbrough,1-0
--,Brighton & Hove Albion,Middlesbrough,2-4
--,Bristol City,Middlesbrough,3-0
--,Bristol Rovers,Middlesbrough,2-0
--,Charlton Athletic,Middlesbrough,0-1
--,Hull City,Middlesbrough,0-0
--,Ipswich Town,Middlesbrough,0-1
--,Leicester City,Middlesbrough,4-3
--,Millwall,Middlesbrough,2-2
--,Newcastle United,Middlesbrough,0-0
--,Notts County,Middlesbrough,3-2
--,Oldham Athletic,Middlesbrough,2-0
--,Oxford United,Middlesbrough,2-5
--,Plymouth Argyle,Middlesbrough,1-1
--,Port Vale,Middlesbrough,3-1
--,Portsmouth,Middlesbrough,0-3
--,Sheffield Wednesday,Middlesbrough,2-0
--,Swindon Town,Middlesbrough,1-3
--,Watford,Middlesbrough,0-3
--,West Bromwich Albion,Middlesbrough,0-1
--,West Ham United,Middlesbrough,0-0
--,Wolverhampton Wanderers,Middlesbrough,1-0
--,Barnsley,Millwall,1-2
--,Blackburn Rovers,Millwall,1-0
--,Brighton & Hove Albion,Millwall,0-0
--,Bristol City,Millwall,1-4
--,Bristol Rovers,Millwall,1-0
--,Charlton Athletic,Millwall,0-0
--,Hull City,Millwall,1-1
--,Ipswich Town,Millwall,0-3
--,Leicester City,Millwall,1-2
--,Middlesbrough,Millwall,2-1
--,Newcastle United,Millwall,1-2
--,Notts County,Millwall,0-1
--,Oldham Athletic,Millwall,1-1
--,Oxford United,Millwall,0-0
--,Plymouth Argyle,Millwall,3-2
--,Port Vale,Millwall,0-2
--,Portsmouth,Millwall,0-0
--,Sheffield Wednesday,Millwall,2-1
--,Swindon Town,Millwall,0-0
--,Watford,Millwall,1-2
--,West Bromwich Albion,Millwall,0-1
--,West Ham United,Millwall,3-1
--,Wolverhampton Wanderers,Millwall,4-1
--,Barnsley,Newcastle United,1-1
--,Blackburn Rovers,Newcastle United,0-1
--,Brighton & Hove Albion,Newcastle United,4-2
--,Bristol City,Newcastle United,1-0
--,Bristol Rovers,Newcastle United,1-1
--,Charlton Athletic,Newcastle United,1-0
--,Hull City,Newcastle United,2-1
--,Ipswich Town,Newcastle United,2-1
--,Leicester City,Newcastle United,5-4
--,Middlesbrough,Newcastle United,3-0
--,Millwall,Newcastle United,0-1
--,Notts County,Newcastle United,3-0
--,Oldham Athletic,Newcastle United,1-1
--,Oxford United,Newcastle United,0-0
--,Plymouth Argyle,Newcastle United,0-1
--,Port Vale,Newcastle United,0-1
--,Portsmouth,Newcastle United,0-1
--,Sheffield Wednesday,Newcastle United,2-2
--,Swindon Town,Newcastle United,3-2
--,Watford,Newcastle United,1-2
--,West Bromwich Albion,Newcastle United,1-1
--,West Ham United,Newcastle United,1-1
--,Wolverhampton Wanderers,Newcastle United,2-1
--,Barnsley,Notts County,1-0
--,Blackburn Rovers,Notts County,0-1
--,Brighton & Hove Albion,Notts County,0-0
--,Bristol City,Notts County,3-2
--,Bristol Rovers,Notts County,1-1
--,Charlton Athletic,Notts County,3-1
--,Hull City,Notts County,1-2
--,Ipswich Town,Notts County,0-0
--,Leicester City,Notts County,2-1
--,Middlesbrough,Notts County,1-0
--,Millwall,Notts County,1-2
--,Newcastle United,Notts County,0-2
--,Oldham Athletic,Notts County,2-1
--,Oxford United,Notts County,3-3
--,Plymouth Argyle,Notts County,0-0
--,Port Vale,Notts County,0-1
--,Portsmouth,Notts County,2-1
--,Sheffield Wednesday,Notts County,2-2
--,Swindon Town,Notts County,1-2
--,Watford,Notts County,1-3
--,West Bromwich Albion,Notts County,2-2
--,West Ham United,Notts County,1-2
--,Wolverhampton Wanderers,Notts County,0-2
--,Barnsley,Oldham Athletic,0-1
--,Blackburn Rovers,Oldham Athletic,2-0
--,Brighton & Hove Albion,Oldham Athletic,1-2
--,Bristol City,Oldham Athletic,1-2
--,Bristol Rovers,Oldham Athletic,2-0
--,Charlton Athletic,Oldham Athletic,1-1
--,Hull City,Oldham Athletic,2-2
--,Ipswich Town,Oldham Athletic,1-2
--,Leicester City,Oldham Athletic,0-0
--,Middlesbrough,Oldham Athletic,0-1
--,Millwall,Oldham Athletic,0-0
--,Newcastle United,Oldham Athletic,3-2
--,Notts County,Oldham Athletic,2-0
--,Oxford United,Oldham Athletic,5-1
--,Plymouth Argyle,Oldham Athletic,1-2
--,Port Vale,Oldham Athletic,1-0
--,Portsmouth,Oldham Athletic,1-4
--,Sheffield Wednesday,Oldham Athletic,2-2
--,Swindon Town,Oldham Athletic,2-2
--,Watford,Oldham Athletic,1-1
--,West Bromwich Albion,Oldham Athletic,0-0
--,West Ham United,Oldham Athletic,2-0
--,Wolverhampton Wanderers,Oldham Athletic,2-3
--,Barnsley,Oxford United,3-0
--,Blackburn Rovers,Oxford United,1-3
--,Brighton & Hove Albion,Oxford United,0-3
--,Bristol City,Oxford United,3-1
--,Bristol Rovers,Oxford United,1-0
--,Charlton Athletic,Oxford United,3-3
--,Hull City,Oxford United,3-3
--,Ipswich Town,Oxford United,1-1
--,Leicester City,Oxford United,1-0
--,Middlesbrough,Oxford United,0-0
--,Millwall,Oxford United,1-2
--,Newcastle United,Oxford United,2-2
--,Notts County,Oxford United,3-1
--,Oldham Athletic,Oxford United,3-0
--,Plymouth Argyle,Oxford United,2-2
--,Port Vale,Oxford United,1-0
--,Portsmouth,Oxford United,1-1
--,Sheffield Wednesday,Oxford United,0-2
--,Swindon Town,Oxford United,0-0
--,Watford,Oxford United,1-1
--,West Bromwich Albion,Oxford United,2-0
--,West Ham United,Oxford United,2-0
--,Wolverhampton Wanderers,Oxford United,3-3
--,Barnsley,Plymouth Argyle,1-0
--,Blackburn Rovers,Plymouth Argyle,0-0
--,Brighton & Hove Albion,Plymouth Argyle,3-2
--,Bristol City,Plymouth Argyle,1-1
--,Bristol Rovers,Plymouth Argyle,0-0
--,Charlton Athletic,Plymouth Argyle,0-1
--,Hull City,Plymouth Argyle,2-0
--,Ipswich Town,Plymouth Argyle,3-1
--,Leicester City,Plymouth Argyle,3-1
--,Middlesbrough,Plymouth Argyle,0-0
--,Millwall,Plymouth Argyle,4-1
--,Newcastle United,Plymouth Argyle,2-0
--,Notts County,Plymouth Argyle,4-0
--,Oldham Athletic,Plymouth Argyle,5-3
--,Oxford United,Plymouth Argyle,0-0
--,Port Vale,Plymouth Argyle,5-1
--,Portsmouth,Plymouth Argyle,3-1
--,Sheffield Wednesday,Plymouth Argyle,3-0
--,Swindon Town,Plymouth Argyle,1-1
--,Watford,Plymouth Argyle,2-0
--,West Bromwich Albion,Plymouth Argyle,1-2
--,West Ham United,Plymouth Argyle,2-2
--,Wolverhampton Wanderers,Plymouth Argyle,3-1
--,Barnsley,Port Vale,1-1
--,Blackburn Rovers,Port Vale,1-1
--,Brighton & Hove Albion,Port Vale,1-2
--,Bristol City,Port Vale,1-1
--,Bristol Rovers,Port Vale,2-0
--,Charlton Athletic,Port Vale,0-1
--,Hull City,Port Vale,3-2
--,Ipswich Town,Port Vale,3-0
--,Leicester City,Port Vale,1-1
--,Middlesbrough,Port Vale,4-0
--,Millwall,Port Vale,1-2
--,Newcastle United,Port Vale,2-0
--,Notts County,Port Vale,1-1
--,Oldham Athletic,Port Vale,2-0
--,Oxford United,Port Vale,5-2
--,Plymouth Argyle,Port Vale,2-0
--,Portsmouth,Port Vale,2-4
--,Sheffield Wednesday,Port Vale,1-1
--,Swindon Town,Port Vale,1-2
--,Watford,Port Vale,2-1
--,West Bromwich Albion,Port Vale,1-1
--,West Ham United,Port Vale,0-0
--,Wolverhampton Wanderers,Port Vale,3-1
--,Barnsley,Portsmouth,4-0
--,Blackburn Rovers,Portsmouth,1-1
--,Brighton & Hove Albion,Portsmouth,3-2
--,Bristol City,Portsmouth,4-1
--,Bristol Rovers,Portsmouth,1-2
--,Charlton Athletic,Portsmouth,2-1
--,Hull City,Portsmouth,0-2
--,Ipswich Town,Portsmouth,2-2
--,Leicester City,Portsmouth,2-1
--,Middlesbrough,Portsmouth,1-2
--,Millwall,Portsmouth,2-0
--,Newcastle United,Portsmouth,2-1
--,Notts County,Portsmouth,2-1
--,Oldham Athletic,Portsmouth,3-1
--,Oxford United,Portsmouth,1-0
--,Plymouth Argyle,Portsmouth,1-1
--,Port Vale,Portsmouth,3-2
--,Sheffield Wednesday,Portsmouth,2-1
--,Swindon Town,Portsmouth,3-0
--,Watford,Portsmouth,0-1
--,West Bromwich Albion,Portsmouth,0-0
--,West Ham United,Portsmouth,1-1
--,Wolverhampton Wanderers,Portsmouth,3-1
--,Barnsley,Sheffield Wednesday,1-1
--,Blackburn Rovers,Sheffield Wednesday,1-0
--,Brighton & Hove Albion,Sheffield Wednesday,0-4
--,Bristol City,Sheffield Wednesday,1-1
--,Bristol Rovers,Sheffield Wednesday,0-1
--,Charlton Athletic,Sheffield Wednesday,0-1
--,Hull City,Sheffield Wednesday,0-1
--,Ipswich Town,Sheffield Wednesday,0-2
--,Leicester City,Sheffield Wednesday,2-4
--,Middlesbrough,Sheffield Wednesday,0-2
--,Millwall,Sheffield Wednesday,4-2
--,Newcastle United,Sheffield Wednesday,1-0
--,Notts County,Sheffield Wednesday,0-2
--,Oldham Athletic,Sheffield Wednesday,3-2
--,Oxford United,Sheffield Wednesday,2-2
--,Plymouth Argyle,Sheffield Wednesday,1-1
--,Port Vale,Sheffield Wednesday,1-1
--,Portsmouth,Sheffield Wednesday,2-0
--,Swindon Town,Sheffield Wednesday,2-1
--,Watford,Sheffield Wednesday,2-2
--,West Bromwich Albion,Sheffield Wednesday,1-2
--,West Ham United,Sheffield Wednesday,1-3
--,Wolverhampton Wanderers,Sheffield Wednesday,3-2
--,Barnsley,Swindon Town,5-1
--,Blackburn Rovers,Swindon Town,2-1
--,Brighton & Hove Albion,Swindon Town,3-3
--,Bristol City,Swindon Town,0-4
--,Bristol Rovers,Swindon Town,2-1
--,Charlton Athletic,Swindon Town,1-2
--,Hull City,Swindon Town,1-1
--,Ipswich Town,Swindon Town,1-1
--,Leicester City,Swindon Town,2-2
--,Middlesbrough,Swindon Town,2-0
--,Millwall,Swindon Town,1-0
--,Newcastle United,Swindon Town,1-1
--,Notts County,Swindon Town,0-0
--,Oldham Athletic,Swindon Town,3-2
--,Oxford United,Swindon Town,2-4
--,Plymouth Argyle,Swindon Town,3-3
--,Port Vale,Swindon Town,3-1
--,Portsmouth,Swindon Town,2-1
--,Sheffield Wednesday,Swindon Town,2-1
--,Watford,Swindon Town,2-2
--,West Bromwich Albion,Swindon Town,2-1
--,West Ham United,Swindon Town,2-0
--,Wolverhampton Wanderers,Swindon Town,1-2
--,Barnsley,Watford,2-1
--,Blackburn Rovers,Watford,0-2
--,Brighton & Hove Albion,Watford,3-0
--,Bristol City,Watford,3-2
--,Bristol Rovers,Watford,3-1
--,Charlton Athletic,Watford,1-2
--,Hull City,Watford,1-1
--,Ipswich Town,Watford,1-1
--,Leicester City,Watford,0-0
--,Middlesbrough,Watford,1-2
--,Millwall,Watford,0-2
--,Newcastle United,Watford,1-0
--,Notts County,Watford,1-0
--,Oldham Athletic,Watford,4-1
--,Oxford United,Watford,0-1
--,Plymouth Argyle,Watford,1-1
--,Port Vale,Watford,0-0
--,Portsmouth,Watford,0-1
--,Sheffield Wednesday,Watford,2-0
--,Swindon Town,Watford,1-2
--,West Bromwich Albion,Watford,1-1
--,West Ham United,Watford,1-0
--,Wolverhampton Wanderers,Watford,0-0
--,Barnsley,West Bromwich Albion,1-1
--,Blackburn Rovers,West Bromwich Albion,0-3
--,Brighton & Hove Albion,West Bromwich Albion,2-0
--,Bristol City,West Bromwich Albion,2-0
--,Bristol Rovers,West Bromwich Albion,1-1
--,Charlton Athletic,West Bromwich Albion,2-0
--,Hull City,West Bromwich Albion,1-1
--,Ipswich Town,West Bromwich Albion,1-0
--,Leicester City,West Bromwich Albion,2-1
--,Middlesbrough,West Bromwich Albion,3-2
--,Millwall,West Bromwich Albion,4-1
--,Newcastle United,West Bromwich Albion,1-1
--,Notts County,West Bromwich Albion,4-3
--,Oldham Athletic,West Bromwich Albion,2-1
--,Oxford United,West Bromwich Albion,1-3
--,Plymouth Argyle,West Bromwich Albion,2-0
--,Port Vale,West Bromwich Albion,1-2
--,Portsmouth,West Bromwich Albion,1-1
--,Sheffield Wednesday,West Bromwich Albion,1-0
--,Swindon Town,West Bromwich Albion,2-1
--,Watford,West Bromwich Albion,1-1
--,West Ham United,West Bromwich Albion,3-1
--,Wolverhampton Wanderers,West Bromwich Albion,2-2
--,Barnsley,West Ham United,1-0
--,Blackburn Rovers,West Ham United,3-1
--,Brighton & Hove Albion,West Ham United,1-0
--,Bristol City,West Ham United,1-1
--,Bristol Rovers,West Ham United,0-1
--,Charlton Athletic,West Ham United,1-1
--,Hull City,West Ham United,0-0
--,Ipswich Town,West Ham United,0-1
--,Leicester City,West Ham United,1-2
--,Middlesbrough,West Ham United,0-0
--,Millwall,West Ham United,1-1
--,Newcastle United,West Ham United,1-1
--,Notts County,West Ham United,0-1
--,Oldham Athletic,West Ham United,1-1
--,Oxford United,West Ham United,2-1
--,Plymouth Argyle,West Ham United,0-1
--,Port Vale,West Ham United,0-1
--,Portsmouth,West Ham United,0-1
--,Sheffield Wednesday,West Ham United,1-1
--,Swindon Town,West Ham United,0-1
--,Watford,West Ham United,0-1
--,West Bromwich Albion,West Ham United,0-0
--,Wolverhampton Wanderers,West Ham United,2-1
--,Barnsley,Wolverhampton Wanderers,1-1
--,Blackburn Rovers,Wolverhampton Wanderers,1-1
--,Brighton & Hove Albion,Wolverhampton Wanderers,1-1
--,Bristol City,Wolverhampton Wanderers,1-1
--,Bristol Rovers,Wolverhampton Wanderers,1-1
--,Charlton Athletic,Wolverhampton Wanderers,1-0
--,Hull City,Wolverhampton Wanderers,1-2
--,Ipswich Town,Wolverhampton Wanderers,0-0
--,Leicester City,Wolverhampton Wanderers,1-0
--,Middlesbrough,Wolverhampton Wanderers,2-0
--,Millwall,Wolverhampton Wanderers,2-1
--,Newcastle United,Wolverhampton Wanderers,0-0
--,Notts County,Wolverhampton Wanderers,1-1
--,Oldham Athletic,Wolverhampton Wanderers,4-1
--,Oxford United,Wolverhampton Wanderers,1-1
--,Plymouth Argyle,Wolverhampton Wanderers,1-0
--,Port Vale,Wolverhampton Wanderers,1-2
--,Portsmouth,Wolverhampton Wanderers,0-0
--,Sheffield Wednesday,Wolverhampton Wanderers,2-2
--,Swindon Town,Wolverhampton Wanderers,1-0
--,Watford,Wolverhampton Wanderers,3-1
--,West Bromwich Albion,Wolverhampton Wanderers,1-1
--,West Ham United,Wolverhampton Wanderers,1-1
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Blackburn Rovers,Barnsley,1-2,-
+-,-,Brighton & Hove Albion,Barnsley,1-0,-
+-,-,Bristol City,Barnsley,1-0,-
+-,-,Bristol Rovers,Barnsley,2-1,-
+-,-,Charlton Athletic,Barnsley,2-1,-
+-,-,Hull City,Barnsley,1-2,-
+-,-,Ipswich Town,Barnsley,2-0,-
+-,-,Leicester City,Barnsley,2-1,-
+-,-,Middlesbrough,Barnsley,1-0,-
+-,-,Millwall,Barnsley,4-1,-
+-,-,Newcastle United,Barnsley,0-0,-
+-,-,Notts County,Barnsley,2-3,-
+-,-,Oldham Athletic,Barnsley,2-0,-
+-,-,Oxford United,Barnsley,2-0,-
+-,-,Plymouth Argyle,Barnsley,1-1,-
+-,-,Port Vale,Barnsley,0-1,-
+-,-,Portsmouth,Barnsley,0-0,-
+-,-,Sheffield Wednesday,Barnsley,3-1,-
+-,-,Swindon Town,Barnsley,1-2,-
+-,-,Watford,Barnsley,0-0,-
+-,-,West Bromwich Albion,Barnsley,1-1,-
+-,-,West Ham United,Barnsley,3-2,-
+-,-,Wolverhampton Wanderers,Barnsley,0-5,-
+-,-,Barnsley,Blackburn Rovers,0-1,-
+-,-,Brighton & Hove Albion,Blackburn Rovers,1-0,-
+-,-,Bristol City,Blackburn Rovers,4-2,-
+-,-,Bristol Rovers,Blackburn Rovers,1-2,-
+-,-,Charlton Athletic,Blackburn Rovers,0-0,-
+-,-,Hull City,Blackburn Rovers,3-1,-
+-,-,Ipswich Town,Blackburn Rovers,2-1,-
+-,-,Leicester City,Blackburn Rovers,1-3,-
+-,-,Middlesbrough,Blackburn Rovers,0-1,-
+-,-,Millwall,Blackburn Rovers,2-1,-
+-,-,Newcastle United,Blackburn Rovers,1-0,-
+-,-,Notts County,Blackburn Rovers,4-1,-
+-,-,Oldham Athletic,Blackburn Rovers,1-1,-
+-,-,Oxford United,Blackburn Rovers,0-0,-
+-,-,Plymouth Argyle,Blackburn Rovers,4-1,-
+-,-,Port Vale,Blackburn Rovers,3-0,-
+-,-,Portsmouth,Blackburn Rovers,3-2,-
+-,-,Sheffield Wednesday,Blackburn Rovers,3-1,-
+-,-,Swindon Town,Blackburn Rovers,1-1,-
+-,-,Watford,Blackburn Rovers,0-3,-
+-,-,West Bromwich Albion,Blackburn Rovers,2-0,-
+-,-,West Ham United,Blackburn Rovers,1-0,-
+-,-,Wolverhampton Wanderers,Blackburn Rovers,2-3,-
+-,-,Barnsley,Brighton & Hove Albion,2-1,-
+-,-,Blackburn Rovers,Brighton & Hove Albion,1-2,-
+-,-,Bristol City,Brighton & Hove Albion,3-1,-
+-,-,Bristol Rovers,Brighton & Hove Albion,1-3,-
+-,-,Charlton Athletic,Brighton & Hove Albion,1-2,-
+-,-,Hull City,Brighton & Hove Albion,0-1,-
+-,-,Ipswich Town,Brighton & Hove Albion,1-3,-
+-,-,Leicester City,Brighton & Hove Albion,3-0,-
+-,-,Middlesbrough,Brighton & Hove Albion,2-0,-
+-,-,Millwall,Brighton & Hove Albion,3-0,-
+-,-,Newcastle United,Brighton & Hove Albion,0-0,-
+-,-,Notts County,Brighton & Hove Albion,2-1,-
+-,-,Oldham Athletic,Brighton & Hove Albion,6-1,-
+-,-,Oxford United,Brighton & Hove Albion,3-0,-
+-,-,Plymouth Argyle,Brighton & Hove Albion,2-0,-
+-,-,Port Vale,Brighton & Hove Albion,0-1,-
+-,-,Portsmouth,Brighton & Hove Albion,1-0,-
+-,-,Sheffield Wednesday,Brighton & Hove Albion,1-1,-
+-,-,Swindon Town,Brighton & Hove Albion,1-3,-
+-,-,Watford,Brighton & Hove Albion,0-1,-
+-,-,West Bromwich Albion,Brighton & Hove Albion,1-1,-
+-,-,West Ham United,Brighton & Hove Albion,2-1,-
+-,-,Wolverhampton Wanderers,Brighton & Hove Albion,2-3,-
+-,-,Barnsley,Bristol City,2-0,-
+-,-,Blackburn Rovers,Bristol City,0-1,-
+-,-,Brighton & Hove Albion,Bristol City,0-1,-
+-,-,Bristol Rovers,Bristol City,3-2,-
+-,-,Charlton Athletic,Bristol City,2-1,-
+-,-,Hull City,Bristol City,1-2,-
+-,-,Ipswich Town,Bristol City,1-1,-
+-,-,Leicester City,Bristol City,3-0,-
+-,-,Middlesbrough,Bristol City,2-1,-
+-,-,Millwall,Bristol City,1-2,-
+-,-,Newcastle United,Bristol City,0-0,-
+-,-,Notts County,Bristol City,3-2,-
+-,-,Oldham Athletic,Bristol City,2-1,-
+-,-,Oxford United,Bristol City,3-1,-
+-,-,Plymouth Argyle,Bristol City,1-0,-
+-,-,Port Vale,Bristol City,3-2,-
+-,-,Portsmouth,Bristol City,4-1,-
+-,-,Sheffield Wednesday,Bristol City,3-1,-
+-,-,Swindon Town,Bristol City,0-1,-
+-,-,Watford,Bristol City,2-3,-
+-,-,West Bromwich Albion,Bristol City,2-1,-
+-,-,West Ham United,Bristol City,1-0,-
+-,-,Wolverhampton Wanderers,Bristol City,4-0,-
+-,-,Barnsley,Bristol Rovers,1-0,-
+-,-,Blackburn Rovers,Bristol Rovers,2-2,-
+-,-,Brighton & Hove Albion,Bristol Rovers,0-1,-
+-,-,Bristol City,Bristol Rovers,1-0,-
+-,-,Charlton Athletic,Bristol Rovers,2-2,-
+-,-,Hull City,Bristol Rovers,2-0,-
+-,-,Ipswich Town,Bristol Rovers,2-1,-
+-,-,Leicester City,Bristol Rovers,3-2,-
+-,-,Middlesbrough,Bristol Rovers,1-2,-
+-,-,Millwall,Bristol Rovers,1-1,-
+-,-,Newcastle United,Bristol Rovers,0-2,-
+-,-,Notts County,Bristol Rovers,3-2,-
+-,-,Oldham Athletic,Bristol Rovers,2-0,-
+-,-,Oxford United,Bristol Rovers,3-1,-
+-,-,Plymouth Argyle,Bristol Rovers,2-2,-
+-,-,Port Vale,Bristol Rovers,3-2,-
+-,-,Portsmouth,Bristol Rovers,3-1,-
+-,-,Sheffield Wednesday,Bristol Rovers,2-1,-
+-,-,Swindon Town,Bristol Rovers,0-2,-
+-,-,Watford,Bristol Rovers,1-1,-
+-,-,West Bromwich Albion,Bristol Rovers,3-1,-
+-,-,West Ham United,Bristol Rovers,1-0,-
+-,-,Wolverhampton Wanderers,Bristol Rovers,1-1,-
+-,-,Barnsley,Charlton Athletic,1-1,-
+-,-,Blackburn Rovers,Charlton Athletic,2-2,-
+-,-,Brighton & Hove Albion,Charlton Athletic,3-2,-
+-,-,Bristol City,Charlton Athletic,0-1,-
+-,-,Bristol Rovers,Charlton Athletic,2-1,-
+-,-,Hull City,Charlton Athletic,2-2,-
+-,-,Ipswich Town,Charlton Athletic,4-4,-
+-,-,Leicester City,Charlton Athletic,1-2,-
+-,-,Middlesbrough,Charlton Athletic,1-2,-
+-,-,Millwall,Charlton Athletic,3-1,-
+-,-,Newcastle United,Charlton Athletic,1-3,-
+-,-,Notts County,Charlton Athletic,2-2,-
+-,-,Oldham Athletic,Charlton Athletic,1-1,-
+-,-,Oxford United,Charlton Athletic,1-1,-
+-,-,Plymouth Argyle,Charlton Athletic,2-0,-
+-,-,Port Vale,Charlton Athletic,1-1,-
+-,-,Portsmouth,Charlton Athletic,0-1,-
+-,-,Sheffield Wednesday,Charlton Athletic,0-0,-
+-,-,Swindon Town,Charlton Athletic,1-1,-
+-,-,Watford,Charlton Athletic,2-1,-
+-,-,West Bromwich Albion,Charlton Athletic,1-0,-
+-,-,West Ham United,Charlton Athletic,2-1,-
+-,-,Wolverhampton Wanderers,Charlton Athletic,3-0,-
+-,-,Barnsley,Hull City,3-1,-
+-,-,Blackburn Rovers,Hull City,2-1,-
+-,-,Brighton & Hove Albion,Hull City,3-1,-
+-,-,Bristol City,Hull City,4-1,-
+-,-,Bristol Rovers,Hull City,1-1,-
+-,-,Charlton Athletic,Hull City,2-1,-
+-,-,Ipswich Town,Hull City,2-0,-
+-,-,Leicester City,Hull City,0-1,-
+-,-,Middlesbrough,Hull City,3-0,-
+-,-,Millwall,Hull City,3-3,-
+-,-,Newcastle United,Hull City,1-2,-
+-,-,Notts County,Hull City,2-1,-
+-,-,Oldham Athletic,Hull City,1-2,-
+-,-,Oxford United,Hull City,1-0,-
+-,-,Plymouth Argyle,Hull City,4-1,-
+-,-,Port Vale,Hull City,0-0,-
+-,-,Portsmouth,Hull City,5-1,-
+-,-,Sheffield Wednesday,Hull City,5-1,-
+-,-,Swindon Town,Hull City,3-1,-
+-,-,Watford,Hull City,0-1,-
+-,-,West Bromwich Albion,Hull City,1-1,-
+-,-,West Ham United,Hull City,7-1,-
+-,-,Wolverhampton Wanderers,Hull City,0-0,-
+-,-,Barnsley,Ipswich Town,5-1,-
+-,-,Blackburn Rovers,Ipswich Town,0-1,-
+-,-,Brighton & Hove Albion,Ipswich Town,2-1,-
+-,-,Bristol City,Ipswich Town,4-2,-
+-,-,Bristol Rovers,Ipswich Town,1-0,-
+-,-,Charlton Athletic,Ipswich Town,1-1,-
+-,-,Hull City,Ipswich Town,3-3,-
+-,-,Leicester City,Ipswich Town,1-2,-
+-,-,Middlesbrough,Ipswich Town,1-1,-
+-,-,Millwall,Ipswich Town,1-1,-
+-,-,Newcastle United,Ipswich Town,2-2,-
+-,-,Notts County,Ipswich Town,3-1,-
+-,-,Oldham Athletic,Ipswich Town,2-0,-
+-,-,Oxford United,Ipswich Town,2-1,-
+-,-,Plymouth Argyle,Ipswich Town,0-0,-
+-,-,Port Vale,Ipswich Town,1-2,-
+-,-,Portsmouth,Ipswich Town,1-1,-
+-,-,Sheffield Wednesday,Ipswich Town,2-2,-
+-,-,Swindon Town,Ipswich Town,1-0,-
+-,-,Watford,Ipswich Town,1-1,-
+-,-,West Bromwich Albion,Ipswich Town,1-2,-
+-,-,West Ham United,Ipswich Town,3-1,-
+-,-,Wolverhampton Wanderers,Ipswich Town,2-2,-
+-,-,Barnsley,Leicester City,1-1,-
+-,-,Blackburn Rovers,Leicester City,4-1,-
+-,-,Brighton & Hove Albion,Leicester City,3-0,-
+-,-,Bristol City,Leicester City,1-0,-
+-,-,Bristol Rovers,Leicester City,0-0,-
+-,-,Charlton Athletic,Leicester City,1-2,-
+-,-,Hull City,Leicester City,5-2,-
+-,-,Ipswich Town,Leicester City,3-2,-
+-,-,Middlesbrough,Leicester City,6-0,-
+-,-,Millwall,Leicester City,2-1,-
+-,-,Newcastle United,Leicester City,2-1,-
+-,-,Notts County,Leicester City,0-2,-
+-,-,Oldham Athletic,Leicester City,2-0,-
+-,-,Oxford United,Leicester City,2-2,-
+-,-,Plymouth Argyle,Leicester City,2-0,-
+-,-,Port Vale,Leicester City,2-0,-
+-,-,Portsmouth,Leicester City,3-1,-
+-,-,Sheffield Wednesday,Leicester City,0-0,-
+-,-,Swindon Town,Leicester City,5-2,-
+-,-,Watford,Leicester City,1-0,-
+-,-,West Bromwich Albion,Leicester City,2-1,-
+-,-,West Ham United,Leicester City,1-0,-
+-,-,Wolverhampton Wanderers,Leicester City,2-1,-
+-,-,Barnsley,Middlesbrough,1-0,-
+-,-,Blackburn Rovers,Middlesbrough,1-0,-
+-,-,Brighton & Hove Albion,Middlesbrough,2-4,-
+-,-,Bristol City,Middlesbrough,3-0,-
+-,-,Bristol Rovers,Middlesbrough,2-0,-
+-,-,Charlton Athletic,Middlesbrough,0-1,-
+-,-,Hull City,Middlesbrough,0-0,-
+-,-,Ipswich Town,Middlesbrough,0-1,-
+-,-,Leicester City,Middlesbrough,4-3,-
+-,-,Millwall,Middlesbrough,2-2,-
+-,-,Newcastle United,Middlesbrough,0-0,-
+-,-,Notts County,Middlesbrough,3-2,-
+-,-,Oldham Athletic,Middlesbrough,2-0,-
+-,-,Oxford United,Middlesbrough,2-5,-
+-,-,Plymouth Argyle,Middlesbrough,1-1,-
+-,-,Port Vale,Middlesbrough,3-1,-
+-,-,Portsmouth,Middlesbrough,0-3,-
+-,-,Sheffield Wednesday,Middlesbrough,2-0,-
+-,-,Swindon Town,Middlesbrough,1-3,-
+-,-,Watford,Middlesbrough,0-3,-
+-,-,West Bromwich Albion,Middlesbrough,0-1,-
+-,-,West Ham United,Middlesbrough,0-0,-
+-,-,Wolverhampton Wanderers,Middlesbrough,1-0,-
+-,-,Barnsley,Millwall,1-2,-
+-,-,Blackburn Rovers,Millwall,1-0,-
+-,-,Brighton & Hove Albion,Millwall,0-0,-
+-,-,Bristol City,Millwall,1-4,-
+-,-,Bristol Rovers,Millwall,1-0,-
+-,-,Charlton Athletic,Millwall,0-0,-
+-,-,Hull City,Millwall,1-1,-
+-,-,Ipswich Town,Millwall,0-3,-
+-,-,Leicester City,Millwall,1-2,-
+-,-,Middlesbrough,Millwall,2-1,-
+-,-,Newcastle United,Millwall,1-2,-
+-,-,Notts County,Millwall,0-1,-
+-,-,Oldham Athletic,Millwall,1-1,-
+-,-,Oxford United,Millwall,0-0,-
+-,-,Plymouth Argyle,Millwall,3-2,-
+-,-,Port Vale,Millwall,0-2,-
+-,-,Portsmouth,Millwall,0-0,-
+-,-,Sheffield Wednesday,Millwall,2-1,-
+-,-,Swindon Town,Millwall,0-0,-
+-,-,Watford,Millwall,1-2,-
+-,-,West Bromwich Albion,Millwall,0-1,-
+-,-,West Ham United,Millwall,3-1,-
+-,-,Wolverhampton Wanderers,Millwall,4-1,-
+-,-,Barnsley,Newcastle United,1-1,-
+-,-,Blackburn Rovers,Newcastle United,0-1,-
+-,-,Brighton & Hove Albion,Newcastle United,4-2,-
+-,-,Bristol City,Newcastle United,1-0,-
+-,-,Bristol Rovers,Newcastle United,1-1,-
+-,-,Charlton Athletic,Newcastle United,1-0,-
+-,-,Hull City,Newcastle United,2-1,-
+-,-,Ipswich Town,Newcastle United,2-1,-
+-,-,Leicester City,Newcastle United,5-4,-
+-,-,Middlesbrough,Newcastle United,3-0,-
+-,-,Millwall,Newcastle United,0-1,-
+-,-,Notts County,Newcastle United,3-0,-
+-,-,Oldham Athletic,Newcastle United,1-1,-
+-,-,Oxford United,Newcastle United,0-0,-
+-,-,Plymouth Argyle,Newcastle United,0-1,-
+-,-,Port Vale,Newcastle United,0-1,-
+-,-,Portsmouth,Newcastle United,0-1,-
+-,-,Sheffield Wednesday,Newcastle United,2-2,-
+-,-,Swindon Town,Newcastle United,3-2,-
+-,-,Watford,Newcastle United,1-2,-
+-,-,West Bromwich Albion,Newcastle United,1-1,-
+-,-,West Ham United,Newcastle United,1-1,-
+-,-,Wolverhampton Wanderers,Newcastle United,2-1,-
+-,-,Barnsley,Notts County,1-0,-
+-,-,Blackburn Rovers,Notts County,0-1,-
+-,-,Brighton & Hove Albion,Notts County,0-0,-
+-,-,Bristol City,Notts County,3-2,-
+-,-,Bristol Rovers,Notts County,1-1,-
+-,-,Charlton Athletic,Notts County,3-1,-
+-,-,Hull City,Notts County,1-2,-
+-,-,Ipswich Town,Notts County,0-0,-
+-,-,Leicester City,Notts County,2-1,-
+-,-,Middlesbrough,Notts County,1-0,-
+-,-,Millwall,Notts County,1-2,-
+-,-,Newcastle United,Notts County,0-2,-
+-,-,Oldham Athletic,Notts County,2-1,-
+-,-,Oxford United,Notts County,3-3,-
+-,-,Plymouth Argyle,Notts County,0-0,-
+-,-,Port Vale,Notts County,0-1,-
+-,-,Portsmouth,Notts County,2-1,-
+-,-,Sheffield Wednesday,Notts County,2-2,-
+-,-,Swindon Town,Notts County,1-2,-
+-,-,Watford,Notts County,1-3,-
+-,-,West Bromwich Albion,Notts County,2-2,-
+-,-,West Ham United,Notts County,1-2,-
+-,-,Wolverhampton Wanderers,Notts County,0-2,-
+-,-,Barnsley,Oldham Athletic,0-1,-
+-,-,Blackburn Rovers,Oldham Athletic,2-0,-
+-,-,Brighton & Hove Albion,Oldham Athletic,1-2,-
+-,-,Bristol City,Oldham Athletic,1-2,-
+-,-,Bristol Rovers,Oldham Athletic,2-0,-
+-,-,Charlton Athletic,Oldham Athletic,1-1,-
+-,-,Hull City,Oldham Athletic,2-2,-
+-,-,Ipswich Town,Oldham Athletic,1-2,-
+-,-,Leicester City,Oldham Athletic,0-0,-
+-,-,Middlesbrough,Oldham Athletic,0-1,-
+-,-,Millwall,Oldham Athletic,0-0,-
+-,-,Newcastle United,Oldham Athletic,3-2,-
+-,-,Notts County,Oldham Athletic,2-0,-
+-,-,Oxford United,Oldham Athletic,5-1,-
+-,-,Plymouth Argyle,Oldham Athletic,1-2,-
+-,-,Port Vale,Oldham Athletic,1-0,-
+-,-,Portsmouth,Oldham Athletic,1-4,-
+-,-,Sheffield Wednesday,Oldham Athletic,2-2,-
+-,-,Swindon Town,Oldham Athletic,2-2,-
+-,-,Watford,Oldham Athletic,1-1,-
+-,-,West Bromwich Albion,Oldham Athletic,0-0,-
+-,-,West Ham United,Oldham Athletic,2-0,-
+-,-,Wolverhampton Wanderers,Oldham Athletic,2-3,-
+-,-,Barnsley,Oxford United,3-0,-
+-,-,Blackburn Rovers,Oxford United,1-3,-
+-,-,Brighton & Hove Albion,Oxford United,0-3,-
+-,-,Bristol City,Oxford United,3-1,-
+-,-,Bristol Rovers,Oxford United,1-0,-
+-,-,Charlton Athletic,Oxford United,3-3,-
+-,-,Hull City,Oxford United,3-3,-
+-,-,Ipswich Town,Oxford United,1-1,-
+-,-,Leicester City,Oxford United,1-0,-
+-,-,Middlesbrough,Oxford United,0-0,-
+-,-,Millwall,Oxford United,1-2,-
+-,-,Newcastle United,Oxford United,2-2,-
+-,-,Notts County,Oxford United,3-1,-
+-,-,Oldham Athletic,Oxford United,3-0,-
+-,-,Plymouth Argyle,Oxford United,2-2,-
+-,-,Port Vale,Oxford United,1-0,-
+-,-,Portsmouth,Oxford United,1-1,-
+-,-,Sheffield Wednesday,Oxford United,0-2,-
+-,-,Swindon Town,Oxford United,0-0,-
+-,-,Watford,Oxford United,1-1,-
+-,-,West Bromwich Albion,Oxford United,2-0,-
+-,-,West Ham United,Oxford United,2-0,-
+-,-,Wolverhampton Wanderers,Oxford United,3-3,-
+-,-,Barnsley,Plymouth Argyle,1-0,-
+-,-,Blackburn Rovers,Plymouth Argyle,0-0,-
+-,-,Brighton & Hove Albion,Plymouth Argyle,3-2,-
+-,-,Bristol City,Plymouth Argyle,1-1,-
+-,-,Bristol Rovers,Plymouth Argyle,0-0,-
+-,-,Charlton Athletic,Plymouth Argyle,0-1,-
+-,-,Hull City,Plymouth Argyle,2-0,-
+-,-,Ipswich Town,Plymouth Argyle,3-1,-
+-,-,Leicester City,Plymouth Argyle,3-1,-
+-,-,Middlesbrough,Plymouth Argyle,0-0,-
+-,-,Millwall,Plymouth Argyle,4-1,-
+-,-,Newcastle United,Plymouth Argyle,2-0,-
+-,-,Notts County,Plymouth Argyle,4-0,-
+-,-,Oldham Athletic,Plymouth Argyle,5-3,-
+-,-,Oxford United,Plymouth Argyle,0-0,-
+-,-,Port Vale,Plymouth Argyle,5-1,-
+-,-,Portsmouth,Plymouth Argyle,3-1,-
+-,-,Sheffield Wednesday,Plymouth Argyle,3-0,-
+-,-,Swindon Town,Plymouth Argyle,1-1,-
+-,-,Watford,Plymouth Argyle,2-0,-
+-,-,West Bromwich Albion,Plymouth Argyle,1-2,-
+-,-,West Ham United,Plymouth Argyle,2-2,-
+-,-,Wolverhampton Wanderers,Plymouth Argyle,3-1,-
+-,-,Barnsley,Port Vale,1-1,-
+-,-,Blackburn Rovers,Port Vale,1-1,-
+-,-,Brighton & Hove Albion,Port Vale,1-2,-
+-,-,Bristol City,Port Vale,1-1,-
+-,-,Bristol Rovers,Port Vale,2-0,-
+-,-,Charlton Athletic,Port Vale,0-1,-
+-,-,Hull City,Port Vale,3-2,-
+-,-,Ipswich Town,Port Vale,3-0,-
+-,-,Leicester City,Port Vale,1-1,-
+-,-,Middlesbrough,Port Vale,4-0,-
+-,-,Millwall,Port Vale,1-2,-
+-,-,Newcastle United,Port Vale,2-0,-
+-,-,Notts County,Port Vale,1-1,-
+-,-,Oldham Athletic,Port Vale,2-0,-
+-,-,Oxford United,Port Vale,5-2,-
+-,-,Plymouth Argyle,Port Vale,2-0,-
+-,-,Portsmouth,Port Vale,2-4,-
+-,-,Sheffield Wednesday,Port Vale,1-1,-
+-,-,Swindon Town,Port Vale,1-2,-
+-,-,Watford,Port Vale,2-1,-
+-,-,West Bromwich Albion,Port Vale,1-1,-
+-,-,West Ham United,Port Vale,0-0,-
+-,-,Wolverhampton Wanderers,Port Vale,3-1,-
+-,-,Barnsley,Portsmouth,4-0,-
+-,-,Blackburn Rovers,Portsmouth,1-1,-
+-,-,Brighton & Hove Albion,Portsmouth,3-2,-
+-,-,Bristol City,Portsmouth,4-1,-
+-,-,Bristol Rovers,Portsmouth,1-2,-
+-,-,Charlton Athletic,Portsmouth,2-1,-
+-,-,Hull City,Portsmouth,0-2,-
+-,-,Ipswich Town,Portsmouth,2-2,-
+-,-,Leicester City,Portsmouth,2-1,-
+-,-,Middlesbrough,Portsmouth,1-2,-
+-,-,Millwall,Portsmouth,2-0,-
+-,-,Newcastle United,Portsmouth,2-1,-
+-,-,Notts County,Portsmouth,2-1,-
+-,-,Oldham Athletic,Portsmouth,3-1,-
+-,-,Oxford United,Portsmouth,1-0,-
+-,-,Plymouth Argyle,Portsmouth,1-1,-
+-,-,Port Vale,Portsmouth,3-2,-
+-,-,Sheffield Wednesday,Portsmouth,2-1,-
+-,-,Swindon Town,Portsmouth,3-0,-
+-,-,Watford,Portsmouth,0-1,-
+-,-,West Bromwich Albion,Portsmouth,0-0,-
+-,-,West Ham United,Portsmouth,1-1,-
+-,-,Wolverhampton Wanderers,Portsmouth,3-1,-
+-,-,Barnsley,Sheffield Wednesday,1-1,-
+-,-,Blackburn Rovers,Sheffield Wednesday,1-0,-
+-,-,Brighton & Hove Albion,Sheffield Wednesday,0-4,-
+-,-,Bristol City,Sheffield Wednesday,1-1,-
+-,-,Bristol Rovers,Sheffield Wednesday,0-1,-
+-,-,Charlton Athletic,Sheffield Wednesday,0-1,-
+-,-,Hull City,Sheffield Wednesday,0-1,-
+-,-,Ipswich Town,Sheffield Wednesday,0-2,-
+-,-,Leicester City,Sheffield Wednesday,2-4,-
+-,-,Middlesbrough,Sheffield Wednesday,0-2,-
+-,-,Millwall,Sheffield Wednesday,4-2,-
+-,-,Newcastle United,Sheffield Wednesday,1-0,-
+-,-,Notts County,Sheffield Wednesday,0-2,-
+-,-,Oldham Athletic,Sheffield Wednesday,3-2,-
+-,-,Oxford United,Sheffield Wednesday,2-2,-
+-,-,Plymouth Argyle,Sheffield Wednesday,1-1,-
+-,-,Port Vale,Sheffield Wednesday,1-1,-
+-,-,Portsmouth,Sheffield Wednesday,2-0,-
+-,-,Swindon Town,Sheffield Wednesday,2-1,-
+-,-,Watford,Sheffield Wednesday,2-2,-
+-,-,West Bromwich Albion,Sheffield Wednesday,1-2,-
+-,-,West Ham United,Sheffield Wednesday,1-3,-
+-,-,Wolverhampton Wanderers,Sheffield Wednesday,3-2,-
+-,-,Barnsley,Swindon Town,5-1,-
+-,-,Blackburn Rovers,Swindon Town,2-1,-
+-,-,Brighton & Hove Albion,Swindon Town,3-3,-
+-,-,Bristol City,Swindon Town,0-4,-
+-,-,Bristol Rovers,Swindon Town,2-1,-
+-,-,Charlton Athletic,Swindon Town,1-2,-
+-,-,Hull City,Swindon Town,1-1,-
+-,-,Ipswich Town,Swindon Town,1-1,-
+-,-,Leicester City,Swindon Town,2-2,-
+-,-,Middlesbrough,Swindon Town,2-0,-
+-,-,Millwall,Swindon Town,1-0,-
+-,-,Newcastle United,Swindon Town,1-1,-
+-,-,Notts County,Swindon Town,0-0,-
+-,-,Oldham Athletic,Swindon Town,3-2,-
+-,-,Oxford United,Swindon Town,2-4,-
+-,-,Plymouth Argyle,Swindon Town,3-3,-
+-,-,Port Vale,Swindon Town,3-1,-
+-,-,Portsmouth,Swindon Town,2-1,-
+-,-,Sheffield Wednesday,Swindon Town,2-1,-
+-,-,Watford,Swindon Town,2-2,-
+-,-,West Bromwich Albion,Swindon Town,2-1,-
+-,-,West Ham United,Swindon Town,2-0,-
+-,-,Wolverhampton Wanderers,Swindon Town,1-2,-
+-,-,Barnsley,Watford,2-1,-
+-,-,Blackburn Rovers,Watford,0-2,-
+-,-,Brighton & Hove Albion,Watford,3-0,-
+-,-,Bristol City,Watford,3-2,-
+-,-,Bristol Rovers,Watford,3-1,-
+-,-,Charlton Athletic,Watford,1-2,-
+-,-,Hull City,Watford,1-1,-
+-,-,Ipswich Town,Watford,1-1,-
+-,-,Leicester City,Watford,0-0,-
+-,-,Middlesbrough,Watford,1-2,-
+-,-,Millwall,Watford,0-2,-
+-,-,Newcastle United,Watford,1-0,-
+-,-,Notts County,Watford,1-0,-
+-,-,Oldham Athletic,Watford,4-1,-
+-,-,Oxford United,Watford,0-1,-
+-,-,Plymouth Argyle,Watford,1-1,-
+-,-,Port Vale,Watford,0-0,-
+-,-,Portsmouth,Watford,0-1,-
+-,-,Sheffield Wednesday,Watford,2-0,-
+-,-,Swindon Town,Watford,1-2,-
+-,-,West Bromwich Albion,Watford,1-1,-
+-,-,West Ham United,Watford,1-0,-
+-,-,Wolverhampton Wanderers,Watford,0-0,-
+-,-,Barnsley,West Bromwich Albion,1-1,-
+-,-,Blackburn Rovers,West Bromwich Albion,0-3,-
+-,-,Brighton & Hove Albion,West Bromwich Albion,2-0,-
+-,-,Bristol City,West Bromwich Albion,2-0,-
+-,-,Bristol Rovers,West Bromwich Albion,1-1,-
+-,-,Charlton Athletic,West Bromwich Albion,2-0,-
+-,-,Hull City,West Bromwich Albion,1-1,-
+-,-,Ipswich Town,West Bromwich Albion,1-0,-
+-,-,Leicester City,West Bromwich Albion,2-1,-
+-,-,Middlesbrough,West Bromwich Albion,3-2,-
+-,-,Millwall,West Bromwich Albion,4-1,-
+-,-,Newcastle United,West Bromwich Albion,1-1,-
+-,-,Notts County,West Bromwich Albion,4-3,-
+-,-,Oldham Athletic,West Bromwich Albion,2-1,-
+-,-,Oxford United,West Bromwich Albion,1-3,-
+-,-,Plymouth Argyle,West Bromwich Albion,2-0,-
+-,-,Port Vale,West Bromwich Albion,1-2,-
+-,-,Portsmouth,West Bromwich Albion,1-1,-
+-,-,Sheffield Wednesday,West Bromwich Albion,1-0,-
+-,-,Swindon Town,West Bromwich Albion,2-1,-
+-,-,Watford,West Bromwich Albion,1-1,-
+-,-,West Ham United,West Bromwich Albion,3-1,-
+-,-,Wolverhampton Wanderers,West Bromwich Albion,2-2,-
+-,-,Barnsley,West Ham United,1-0,-
+-,-,Blackburn Rovers,West Ham United,3-1,-
+-,-,Brighton & Hove Albion,West Ham United,1-0,-
+-,-,Bristol City,West Ham United,1-1,-
+-,-,Bristol Rovers,West Ham United,0-1,-
+-,-,Charlton Athletic,West Ham United,1-1,-
+-,-,Hull City,West Ham United,0-0,-
+-,-,Ipswich Town,West Ham United,0-1,-
+-,-,Leicester City,West Ham United,1-2,-
+-,-,Middlesbrough,West Ham United,0-0,-
+-,-,Millwall,West Ham United,1-1,-
+-,-,Newcastle United,West Ham United,1-1,-
+-,-,Notts County,West Ham United,0-1,-
+-,-,Oldham Athletic,West Ham United,1-1,-
+-,-,Oxford United,West Ham United,2-1,-
+-,-,Plymouth Argyle,West Ham United,0-1,-
+-,-,Port Vale,West Ham United,0-1,-
+-,-,Portsmouth,West Ham United,0-1,-
+-,-,Sheffield Wednesday,West Ham United,1-1,-
+-,-,Swindon Town,West Ham United,0-1,-
+-,-,Watford,West Ham United,0-1,-
+-,-,West Bromwich Albion,West Ham United,0-0,-
+-,-,Wolverhampton Wanderers,West Ham United,2-1,-
+-,-,Barnsley,Wolverhampton Wanderers,1-1,-
+-,-,Blackburn Rovers,Wolverhampton Wanderers,1-1,-
+-,-,Brighton & Hove Albion,Wolverhampton Wanderers,1-1,-
+-,-,Bristol City,Wolverhampton Wanderers,1-1,-
+-,-,Bristol Rovers,Wolverhampton Wanderers,1-1,-
+-,-,Charlton Athletic,Wolverhampton Wanderers,1-0,-
+-,-,Hull City,Wolverhampton Wanderers,1-2,-
+-,-,Ipswich Town,Wolverhampton Wanderers,0-0,-
+-,-,Leicester City,Wolverhampton Wanderers,1-0,-
+-,-,Middlesbrough,Wolverhampton Wanderers,2-0,-
+-,-,Millwall,Wolverhampton Wanderers,2-1,-
+-,-,Newcastle United,Wolverhampton Wanderers,0-0,-
+-,-,Notts County,Wolverhampton Wanderers,1-1,-
+-,-,Oldham Athletic,Wolverhampton Wanderers,4-1,-
+-,-,Oxford United,Wolverhampton Wanderers,1-1,-
+-,-,Plymouth Argyle,Wolverhampton Wanderers,1-0,-
+-,-,Port Vale,Wolverhampton Wanderers,1-2,-
+-,-,Portsmouth,Wolverhampton Wanderers,0-0,-
+-,-,Sheffield Wednesday,Wolverhampton Wanderers,2-2,-
+-,-,Swindon Town,Wolverhampton Wanderers,1-0,-
+-,-,Watford,Wolverhampton Wanderers,3-1,-
+-,-,West Bromwich Albion,Wolverhampton Wanderers,1-1,-
+-,-,West Ham United,Wolverhampton Wanderers,1-1,-

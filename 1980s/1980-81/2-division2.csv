@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Bolton Wanderers,Blackburn Rovers,1-2
--,Bristol City,Blackburn Rovers,2-0
--,Bristol Rovers,Blackburn Rovers,0-1
--,Cambridge United,Blackburn Rovers,0-0
--,Cardiff City,Blackburn Rovers,1-2
--,Chelsea,Blackburn Rovers,0-0
--,Derby County,Blackburn Rovers,2-2
--,Grimsby Town,Blackburn Rovers,0-0
--,Leyton Orient,Blackburn Rovers,1-1
--,Luton Town,Blackburn Rovers,3-1
--,Newcastle United,Blackburn Rovers,0-0
--,Notts County,Blackburn Rovers,2-0
--,Oldham Athletic,Blackburn Rovers,1-0
--,Preston North End,Blackburn Rovers,0-0
--,Queens Park Rangers,Blackburn Rovers,1-1
--,Sheffield Wednesday,Blackburn Rovers,2-1
--,Shrewsbury Town,Blackburn Rovers,1-1
--,Swansea City,Blackburn Rovers,2-0
--,Watford,Blackburn Rovers,1-1
--,West Ham United,Blackburn Rovers,2-0
--,Wrexham,Blackburn Rovers,0-1
--,Blackburn Rovers,Bolton Wanderers,0-0
--,Bristol City,Bolton Wanderers,3-1
--,Bristol Rovers,Bolton Wanderers,2-1
--,Cambridge United,Bolton Wanderers,2-3
--,Cardiff City,Bolton Wanderers,1-1
--,Chelsea,Bolton Wanderers,2-0
--,Derby County,Bolton Wanderers,1-0
--,Grimsby Town,Bolton Wanderers,4-0
--,Leyton Orient,Bolton Wanderers,2-2
--,Luton Town,Bolton Wanderers,2-2
--,Newcastle United,Bolton Wanderers,2-1
--,Notts County,Bolton Wanderers,2-1
--,Oldham Athletic,Bolton Wanderers,1-1
--,Preston North End,Bolton Wanderers,1-2
--,Queens Park Rangers,Bolton Wanderers,3-1
--,Sheffield Wednesday,Bolton Wanderers,2-0
--,Shrewsbury Town,Bolton Wanderers,1-2
--,Swansea City,Bolton Wanderers,3-0
--,Watford,Bolton Wanderers,3-1
--,West Ham United,Bolton Wanderers,2-1
--,Wrexham,Bolton Wanderers,0-1
--,Blackburn Rovers,Bristol City,1-0
--,Bolton Wanderers,Bristol City,1-1
--,Bristol Rovers,Bristol City,0-0
--,Cambridge United,Bristol City,2-1
--,Cardiff City,Bristol City,2-3
--,Chelsea,Bristol City,0-0
--,Derby County,Bristol City,1-0
--,Grimsby Town,Bristol City,1-0
--,Leyton Orient,Bristol City,3-1
--,Luton Town,Bristol City,3-1
--,Newcastle United,Bristol City,0-0
--,Notts County,Bristol City,2-1
--,Oldham Athletic,Bristol City,2-0
--,Preston North End,Bristol City,1-1
--,Queens Park Rangers,Bristol City,4-0
--,Sheffield Wednesday,Bristol City,2-1
--,Shrewsbury Town,Bristol City,4-0
--,Swansea City,Bristol City,0-0
--,Watford,Bristol City,1-0
--,West Ham United,Bristol City,5-0
--,Wrexham,Bristol City,1-0
--,Blackburn Rovers,Bristol Rovers,2-0
--,Bolton Wanderers,Bristol Rovers,2-0
--,Bristol City,Bristol Rovers,0-0
--,Cambridge United,Bristol Rovers,1-3
--,Cardiff City,Bristol Rovers,2-1
--,Chelsea,Bristol Rovers,2-0
--,Derby County,Bristol Rovers,2-1
--,Grimsby Town,Bristol Rovers,2-0
--,Leyton Orient,Bristol Rovers,2-2
--,Luton Town,Bristol Rovers,1-0
--,Newcastle United,Bristol Rovers,0-0
--,Notts County,Bristol Rovers,3-1
--,Oldham Athletic,Bristol Rovers,1-0
--,Preston North End,Bristol Rovers,0-0
--,Queens Park Rangers,Bristol Rovers,4-0
--,Sheffield Wednesday,Bristol Rovers,4-1
--,Shrewsbury Town,Bristol Rovers,3-1
--,Swansea City,Bristol Rovers,2-1
--,Watford,Bristol Rovers,3-1
--,West Ham United,Bristol Rovers,2-0
--,Wrexham,Bristol Rovers,3-1
--,Blackburn Rovers,Cambridge United,2-0
--,Bolton Wanderers,Cambridge United,6-1
--,Bristol City,Cambridge United,0-1
--,Bristol Rovers,Cambridge United,0-1
--,Cardiff City,Cambridge United,1-2
--,Chelsea,Cambridge United,3-0
--,Derby County,Cambridge United,0-3
--,Grimsby Town,Cambridge United,3-1
--,Leyton Orient,Cambridge United,3-0
--,Luton Town,Cambridge United,0-0
--,Newcastle United,Cambridge United,2-1
--,Notts County,Cambridge United,2-0
--,Oldham Athletic,Cambridge United,2-2
--,Preston North End,Cambridge United,2-0
--,Queens Park Rangers,Cambridge United,5-0
--,Sheffield Wednesday,Cambridge United,4-1
--,Shrewsbury Town,Cambridge United,2-1
--,Swansea City,Cambridge United,1-1
--,Watford,Cambridge United,0-0
--,West Ham United,Cambridge United,4-2
--,Wrexham,Cambridge United,0-0
--,Blackburn Rovers,Cardiff City,2-3
--,Bolton Wanderers,Cardiff City,4-2
--,Bristol City,Cardiff City,0-0
--,Bristol Rovers,Cardiff City,0-1
--,Cambridge United,Cardiff City,2-0
--,Chelsea,Cardiff City,0-1
--,Derby County,Cardiff City,1-1
--,Grimsby Town,Cardiff City,0-1
--,Leyton Orient,Cardiff City,2-2
--,Luton Town,Cardiff City,2-2
--,Newcastle United,Cardiff City,2-1
--,Notts County,Cardiff City,4-2
--,Oldham Athletic,Cardiff City,2-0
--,Preston North End,Cardiff City,3-1
--,Queens Park Rangers,Cardiff City,2-0
--,Sheffield Wednesday,Cardiff City,2-0
--,Shrewsbury Town,Cardiff City,2-0
--,Swansea City,Cardiff City,1-1
--,Watford,Cardiff City,4-2
--,West Ham United,Cardiff City,1-0
--,Wrexham,Cardiff City,0-1
--,Blackburn Rovers,Chelsea,1-1
--,Bolton Wanderers,Chelsea,2-3
--,Bristol City,Chelsea,0-0
--,Bristol Rovers,Chelsea,1-0
--,Cambridge United,Chelsea,0-1
--,Cardiff City,Chelsea,0-1
--,Derby County,Chelsea,3-2
--,Grimsby Town,Chelsea,2-0
--,Leyton Orient,Chelsea,0-1
--,Luton Town,Chelsea,2-0
--,Newcastle United,Chelsea,1-0
--,Notts County,Chelsea,1-1
--,Oldham Athletic,Chelsea,0-0
--,Preston North End,Chelsea,1-0
--,Queens Park Rangers,Chelsea,1-0
--,Sheffield Wednesday,Chelsea,0-0
--,Shrewsbury Town,Chelsea,2-2
--,Swansea City,Chelsea,3-0
--,Watford,Chelsea,2-3
--,West Ham United,Chelsea,4-0
--,Wrexham,Chelsea,0-4
--,Blackburn Rovers,Derby County,1-0
--,Bolton Wanderers,Derby County,3-1
--,Bristol City,Derby County,2-2
--,Bristol Rovers,Derby County,1-1
--,Cambridge United,Derby County,3-0
--,Cardiff City,Derby County,0-0
--,Chelsea,Derby County,1-3
--,Grimsby Town,Derby County,0-1
--,Leyton Orient,Derby County,1-0
--,Luton Town,Derby County,1-2
--,Newcastle United,Derby County,0-2
--,Notts County,Derby County,0-0
--,Oldham Athletic,Derby County,0-2
--,Preston North End,Derby County,0-3
--,Queens Park Rangers,Derby County,3-1
--,Sheffield Wednesday,Derby County,0-0
--,Shrewsbury Town,Derby County,1-0
--,Swansea City,Derby County,3-1
--,Watford,Derby County,1-1
--,West Ham United,Derby County,3-1
--,Wrexham,Derby County,2-2
--,Blackburn Rovers,Grimsby Town,2-0
--,Bolton Wanderers,Grimsby Town,1-1
--,Bristol City,Grimsby Town,1-1
--,Bristol Rovers,Grimsby Town,2-2
--,Cambridge United,Grimsby Town,5-1
--,Cardiff City,Grimsby Town,1-1
--,Chelsea,Grimsby Town,3-0
--,Derby County,Grimsby Town,2-1
--,Leyton Orient,Grimsby Town,2-0
--,Luton Town,Grimsby Town,0-2
--,Newcastle United,Grimsby Town,1-1
--,Notts County,Grimsby Town,0-0
--,Oldham Athletic,Grimsby Town,1-2
--,Preston North End,Grimsby Town,2-4
--,Queens Park Rangers,Grimsby Town,1-0
--,Sheffield Wednesday,Grimsby Town,1-2
--,Shrewsbury Town,Grimsby Town,1-0
--,Swansea City,Grimsby Town,1-0
--,Watford,Grimsby Town,3-1
--,West Ham United,Grimsby Town,2-1
--,Wrexham,Grimsby Town,0-2
--,Blackburn Rovers,Leyton Orient,2-0
--,Bolton Wanderers,Leyton Orient,3-1
--,Bristol City,Leyton Orient,3-1
--,Bristol Rovers,Leyton Orient,1-1
--,Cambridge United,Leyton Orient,1-0
--,Cardiff City,Leyton Orient,4-2
--,Chelsea,Leyton Orient,0-1
--,Derby County,Leyton Orient,1-1
--,Grimsby Town,Leyton Orient,2-0
--,Luton Town,Leyton Orient,2-1
--,Newcastle United,Leyton Orient,3-1
--,Notts County,Leyton Orient,1-0
--,Oldham Athletic,Leyton Orient,0-1
--,Preston North End,Leyton Orient,3-0
--,Queens Park Rangers,Leyton Orient,0-0
--,Sheffield Wednesday,Leyton Orient,2-2
--,Shrewsbury Town,Leyton Orient,1-2
--,Swansea City,Leyton Orient,0-2
--,Watford,Leyton Orient,2-0
--,West Ham United,Leyton Orient,2-1
--,Wrexham,Leyton Orient,3-1
--,Blackburn Rovers,Luton Town,3-0
--,Bolton Wanderers,Luton Town,0-3
--,Bristol City,Luton Town,2-1
--,Bristol Rovers,Luton Town,2-4
--,Cambridge United,Luton Town,1-3
--,Cardiff City,Luton Town,1-0
--,Chelsea,Luton Town,0-2
--,Derby County,Luton Town,2-2
--,Grimsby Town,Luton Town,0-0
--,Leyton Orient,Luton Town,0-0
--,Newcastle United,Luton Town,2-1
--,Notts County,Luton Town,0-1
--,Oldham Athletic,Luton Town,0-0
--,Preston North End,Luton Town,1-0
--,Queens Park Rangers,Luton Town,3-2
--,Sheffield Wednesday,Luton Town,3-1
--,Shrewsbury Town,Luton Town,0-1
--,Swansea City,Luton Town,2-2
--,Watford,Luton Town,0-1
--,West Ham United,Luton Town,1-2
--,Wrexham,Luton Town,0-0
--,Blackburn Rovers,Newcastle United,3-0
--,Bolton Wanderers,Newcastle United,4-0
--,Bristol City,Newcastle United,2-0
--,Bristol Rovers,Newcastle United,0-0
--,Cambridge United,Newcastle United,2-1
--,Cardiff City,Newcastle United,1-0
--,Chelsea,Newcastle United,6-0
--,Derby County,Newcastle United,2-0
--,Grimsby Town,Newcastle United,0-0
--,Leyton Orient,Newcastle United,1-1
--,Luton Town,Newcastle United,0-1
--,Notts County,Newcastle United,0-0
--,Oldham Athletic,Newcastle United,0-0
--,Preston North End,Newcastle United,2-3
--,Queens Park Rangers,Newcastle United,1-2
--,Sheffield Wednesday,Newcastle United,2-0
--,Shrewsbury Town,Newcastle United,1-0
--,Swansea City,Newcastle United,4-0
--,Watford,Newcastle United,0-0
--,West Ham United,Newcastle United,1-0
--,Wrexham,Newcastle United,0-0
--,Blackburn Rovers,Notts County,0-0
--,Bolton Wanderers,Notts County,3-0
--,Bristol City,Notts County,0-1
--,Bristol Rovers,Notts County,1-1
--,Cambridge United,Notts County,1-2
--,Cardiff City,Notts County,0-1
--,Chelsea,Notts County,0-2
--,Derby County,Notts County,2-2
--,Grimsby Town,Notts County,2-1
--,Leyton Orient,Notts County,0-2
--,Luton Town,Notts County,0-1
--,Newcastle United,Notts County,1-1
--,Oldham Athletic,Notts County,0-1
--,Preston North End,Notts County,2-2
--,Queens Park Rangers,Notts County,1-1
--,Sheffield Wednesday,Notts County,1-2
--,Shrewsbury Town,Notts County,1-1
--,Swansea City,Notts County,1-1
--,Watford,Notts County,2-0
--,West Ham United,Notts County,4-0
--,Wrexham,Notts County,1-1
--,Blackburn Rovers,Oldham Athletic,1-0
--,Bolton Wanderers,Oldham Athletic,2-0
--,Bristol City,Oldham Athletic,1-1
--,Bristol Rovers,Oldham Athletic,0-0
--,Cambridge United,Oldham Athletic,3-1
--,Cardiff City,Oldham Athletic,0-2
--,Chelsea,Oldham Athletic,1-0
--,Derby County,Oldham Athletic,4-1
--,Grimsby Town,Oldham Athletic,0-0
--,Leyton Orient,Oldham Athletic,2-3
--,Luton Town,Oldham Athletic,1-2
--,Newcastle United,Oldham Athletic,0-0
--,Notts County,Oldham Athletic,0-2
--,Preston North End,Oldham Athletic,1-2
--,Queens Park Rangers,Oldham Athletic,2-0
--,Sheffield Wednesday,Oldham Athletic,3-0
--,Shrewsbury Town,Oldham Athletic,2-2
--,Swansea City,Oldham Athletic,3-0
--,Watford,Oldham Athletic,2-1
--,West Ham United,Oldham Athletic,1-1
--,Wrexham,Oldham Athletic,3-2
--,Blackburn Rovers,Preston North End,0-0
--,Bolton Wanderers,Preston North End,2-1
--,Bristol City,Preston North End,0-0
--,Bristol Rovers,Preston North End,2-0
--,Cambridge United,Preston North End,1-0
--,Cardiff City,Preston North End,1-3
--,Chelsea,Preston North End,1-1
--,Derby County,Preston North End,1-2
--,Grimsby Town,Preston North End,0-0
--,Leyton Orient,Preston North End,4-0
--,Luton Town,Preston North End,4-2
--,Newcastle United,Preston North End,2-0
--,Notts County,Preston North End,0-0
--,Oldham Athletic,Preston North End,1-1
--,Queens Park Rangers,Preston North End,1-1
--,Sheffield Wednesday,Preston North End,3-0
--,Shrewsbury Town,Preston North End,3-0
--,Swansea City,Preston North End,3-0
--,Watford,Preston North End,2-1
--,West Ham United,Preston North End,5-0
--,Wrexham,Preston North End,0-1
--,Blackburn Rovers,Queens Park Rangers,2-1
--,Bolton Wanderers,Queens Park Rangers,1-2
--,Bristol City,Queens Park Rangers,0-1
--,Bristol Rovers,Queens Park Rangers,1-2
--,Cambridge United,Queens Park Rangers,1-0
--,Cardiff City,Queens Park Rangers,1-0
--,Chelsea,Queens Park Rangers,1-1
--,Derby County,Queens Park Rangers,3-3
--,Grimsby Town,Queens Park Rangers,0-0
--,Leyton Orient,Queens Park Rangers,4-0
--,Luton Town,Queens Park Rangers,3-0
--,Newcastle United,Queens Park Rangers,1-0
--,Notts County,Queens Park Rangers,2-1
--,Oldham Athletic,Queens Park Rangers,1-0
--,Preston North End,Queens Park Rangers,3-2
--,Sheffield Wednesday,Queens Park Rangers,1-0
--,Shrewsbury Town,Queens Park Rangers,3-3
--,Swansea City,Queens Park Rangers,1-2
--,Watford,Queens Park Rangers,1-1
--,West Ham United,Queens Park Rangers,3-0
--,Wrexham,Queens Park Rangers,1-1
--,Blackburn Rovers,Sheffield Wednesday,3-1
--,Bolton Wanderers,Sheffield Wednesday,0-0
--,Bristol City,Sheffield Wednesday,1-0
--,Bristol Rovers,Sheffield Wednesday,3-3
--,Cambridge United,Sheffield Wednesday,0-2
--,Cardiff City,Sheffield Wednesday,0-0
--,Chelsea,Sheffield Wednesday,2-0
--,Derby County,Sheffield Wednesday,3-1
--,Grimsby Town,Sheffield Wednesday,0-0
--,Leyton Orient,Sheffield Wednesday,2-0
--,Luton Town,Sheffield Wednesday,3-0
--,Newcastle United,Sheffield Wednesday,1-0
--,Notts County,Sheffield Wednesday,2-0
--,Oldham Athletic,Sheffield Wednesday,2-0
--,Preston North End,Sheffield Wednesday,2-1
--,Queens Park Rangers,Sheffield Wednesday,1-2
--,Shrewsbury Town,Sheffield Wednesday,2-0
--,Swansea City,Sheffield Wednesday,2-3
--,Watford,Sheffield Wednesday,2-1
--,West Ham United,Sheffield Wednesday,2-1
--,Wrexham,Sheffield Wednesday,4-0
--,Blackburn Rovers,Shrewsbury Town,2-0
--,Bolton Wanderers,Shrewsbury Town,0-2
--,Bristol City,Shrewsbury Town,1-1
--,Bristol Rovers,Shrewsbury Town,1-1
--,Cambridge United,Shrewsbury Town,3-1
--,Cardiff City,Shrewsbury Town,2-2
--,Chelsea,Shrewsbury Town,3-0
--,Derby County,Shrewsbury Town,1-1
--,Grimsby Town,Shrewsbury Town,1-0
--,Leyton Orient,Shrewsbury Town,1-0
--,Luton Town,Shrewsbury Town,1-1
--,Newcastle United,Shrewsbury Town,1-0
--,Notts County,Shrewsbury Town,0-0
--,Oldham Athletic,Shrewsbury Town,0-0
--,Preston North End,Shrewsbury Town,0-0
--,Queens Park Rangers,Shrewsbury Town,0-0
--,Sheffield Wednesday,Shrewsbury Town,1-1
--,Swansea City,Shrewsbury Town,2-1
--,Watford,Shrewsbury Town,1-0
--,West Ham United,Shrewsbury Town,3-0
--,Wrexham,Shrewsbury Town,1-2
--,Blackburn Rovers,Swansea City,0-0
--,Bolton Wanderers,Swansea City,1-4
--,Bristol City,Swansea City,0-1
--,Bristol Rovers,Swansea City,1-2
--,Cambridge United,Swansea City,3-1
--,Cardiff City,Swansea City,3-3
--,Chelsea,Swansea City,0-0
--,Derby County,Swansea City,0-1
--,Grimsby Town,Swansea City,1-0
--,Leyton Orient,Swansea City,1-1
--,Luton Town,Swansea City,2-2
--,Newcastle United,Swansea City,1-2
--,Notts County,Swansea City,2-1
--,Oldham Athletic,Swansea City,2-2
--,Preston North End,Swansea City,1-3
--,Queens Park Rangers,Swansea City,0-0
--,Sheffield Wednesday,Swansea City,2-0
--,Shrewsbury Town,Swansea City,0-0
--,Watford,Swansea City,2-1
--,West Ham United,Swansea City,2-0
--,Wrexham,Swansea City,1-1
--,Blackburn Rovers,Watford,0-0
--,Bolton Wanderers,Watford,2-1
--,Bristol City,Watford,0-0
--,Bristol Rovers,Watford,3-1
--,Cambridge United,Watford,3-1
--,Cardiff City,Watford,1-0
--,Chelsea,Watford,0-1
--,Derby County,Watford,1-1
--,Grimsby Town,Watford,1-1
--,Leyton Orient,Watford,1-1
--,Luton Town,Watford,1-0
--,Newcastle United,Watford,2-1
--,Notts County,Watford,1-2
--,Oldham Athletic,Watford,2-1
--,Preston North End,Watford,2-1
--,Queens Park Rangers,Watford,0-0
--,Sheffield Wednesday,Watford,1-0
--,Shrewsbury Town,Watford,2-1
--,Swansea City,Watford,1-0
--,West Ham United,Watford,3-2
--,Wrexham,Watford,0-1
--,Blackburn Rovers,West Ham United,0-0
--,Bolton Wanderers,West Ham United,1-1
--,Bristol City,West Ham United,1-1
--,Bristol Rovers,West Ham United,0-1
--,Cambridge United,West Ham United,1-2
--,Cardiff City,West Ham United,0-0
--,Chelsea,West Ham United,0-1
--,Derby County,West Ham United,2-0
--,Grimsby Town,West Ham United,1-5
--,Leyton Orient,West Ham United,0-2
--,Luton Town,West Ham United,3-2
--,Newcastle United,West Ham United,0-0
--,Notts County,West Ham United,1-1
--,Oldham Athletic,West Ham United,0-0
--,Preston North End,West Ham United,0-0
--,Queens Park Rangers,West Ham United,3-0
--,Sheffield Wednesday,West Ham United,0-1
--,Shrewsbury Town,West Ham United,0-2
--,Swansea City,West Ham United,1-3
--,Watford,West Ham United,1-2
--,Wrexham,West Ham United,2-2
--,Blackburn Rovers,Wrexham,1-1
--,Bolton Wanderers,Wrexham,1-1
--,Bristol City,Wrexham,0-2
--,Bristol Rovers,Wrexham,0-1
--,Cambridge United,Wrexham,1-0
--,Cardiff City,Wrexham,1-0
--,Chelsea,Wrexham,2-2
--,Derby County,Wrexham,0-1
--,Grimsby Town,Wrexham,1-0
--,Leyton Orient,Wrexham,2-1
--,Luton Town,Wrexham,1-1
--,Newcastle United,Wrexham,0-1
--,Notts County,Wrexham,1-1
--,Oldham Athletic,Wrexham,1-3
--,Preston North End,Wrexham,1-1
--,Queens Park Rangers,Wrexham,0-1
--,Sheffield Wednesday,Wrexham,2-1
--,Shrewsbury Town,Wrexham,1-2
--,Swansea City,Wrexham,3-1
--,Watford,Wrexham,1-0
--,West Ham United,Wrexham,1-0
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Bolton Wanderers,Blackburn Rovers,1-2,-
+-,-,Bristol City,Blackburn Rovers,2-0,-
+-,-,Bristol Rovers,Blackburn Rovers,0-1,-
+-,-,Cambridge United,Blackburn Rovers,0-0,-
+-,-,Cardiff City,Blackburn Rovers,1-2,-
+-,-,Chelsea,Blackburn Rovers,0-0,-
+-,-,Derby County,Blackburn Rovers,2-2,-
+-,-,Grimsby Town,Blackburn Rovers,0-0,-
+-,-,Leyton Orient,Blackburn Rovers,1-1,-
+-,-,Luton Town,Blackburn Rovers,3-1,-
+-,-,Newcastle United,Blackburn Rovers,0-0,-
+-,-,Notts County,Blackburn Rovers,2-0,-
+-,-,Oldham Athletic,Blackburn Rovers,1-0,-
+-,-,Preston North End,Blackburn Rovers,0-0,-
+-,-,Queens Park Rangers,Blackburn Rovers,1-1,-
+-,-,Sheffield Wednesday,Blackburn Rovers,2-1,-
+-,-,Shrewsbury Town,Blackburn Rovers,1-1,-
+-,-,Swansea City,Blackburn Rovers,2-0,-
+-,-,Watford,Blackburn Rovers,1-1,-
+-,-,West Ham United,Blackburn Rovers,2-0,-
+-,-,Wrexham,Blackburn Rovers,0-1,-
+-,-,Blackburn Rovers,Bolton Wanderers,0-0,-
+-,-,Bristol City,Bolton Wanderers,3-1,-
+-,-,Bristol Rovers,Bolton Wanderers,2-1,-
+-,-,Cambridge United,Bolton Wanderers,2-3,-
+-,-,Cardiff City,Bolton Wanderers,1-1,-
+-,-,Chelsea,Bolton Wanderers,2-0,-
+-,-,Derby County,Bolton Wanderers,1-0,-
+-,-,Grimsby Town,Bolton Wanderers,4-0,-
+-,-,Leyton Orient,Bolton Wanderers,2-2,-
+-,-,Luton Town,Bolton Wanderers,2-2,-
+-,-,Newcastle United,Bolton Wanderers,2-1,-
+-,-,Notts County,Bolton Wanderers,2-1,-
+-,-,Oldham Athletic,Bolton Wanderers,1-1,-
+-,-,Preston North End,Bolton Wanderers,1-2,-
+-,-,Queens Park Rangers,Bolton Wanderers,3-1,-
+-,-,Sheffield Wednesday,Bolton Wanderers,2-0,-
+-,-,Shrewsbury Town,Bolton Wanderers,1-2,-
+-,-,Swansea City,Bolton Wanderers,3-0,-
+-,-,Watford,Bolton Wanderers,3-1,-
+-,-,West Ham United,Bolton Wanderers,2-1,-
+-,-,Wrexham,Bolton Wanderers,0-1,-
+-,-,Blackburn Rovers,Bristol City,1-0,-
+-,-,Bolton Wanderers,Bristol City,1-1,-
+-,-,Bristol Rovers,Bristol City,0-0,-
+-,-,Cambridge United,Bristol City,2-1,-
+-,-,Cardiff City,Bristol City,2-3,-
+-,-,Chelsea,Bristol City,0-0,-
+-,-,Derby County,Bristol City,1-0,-
+-,-,Grimsby Town,Bristol City,1-0,-
+-,-,Leyton Orient,Bristol City,3-1,-
+-,-,Luton Town,Bristol City,3-1,-
+-,-,Newcastle United,Bristol City,0-0,-
+-,-,Notts County,Bristol City,2-1,-
+-,-,Oldham Athletic,Bristol City,2-0,-
+-,-,Preston North End,Bristol City,1-1,-
+-,-,Queens Park Rangers,Bristol City,4-0,-
+-,-,Sheffield Wednesday,Bristol City,2-1,-
+-,-,Shrewsbury Town,Bristol City,4-0,-
+-,-,Swansea City,Bristol City,0-0,-
+-,-,Watford,Bristol City,1-0,-
+-,-,West Ham United,Bristol City,5-0,-
+-,-,Wrexham,Bristol City,1-0,-
+-,-,Blackburn Rovers,Bristol Rovers,2-0,-
+-,-,Bolton Wanderers,Bristol Rovers,2-0,-
+-,-,Bristol City,Bristol Rovers,0-0,-
+-,-,Cambridge United,Bristol Rovers,1-3,-
+-,-,Cardiff City,Bristol Rovers,2-1,-
+-,-,Chelsea,Bristol Rovers,2-0,-
+-,-,Derby County,Bristol Rovers,2-1,-
+-,-,Grimsby Town,Bristol Rovers,2-0,-
+-,-,Leyton Orient,Bristol Rovers,2-2,-
+-,-,Luton Town,Bristol Rovers,1-0,-
+-,-,Newcastle United,Bristol Rovers,0-0,-
+-,-,Notts County,Bristol Rovers,3-1,-
+-,-,Oldham Athletic,Bristol Rovers,1-0,-
+-,-,Preston North End,Bristol Rovers,0-0,-
+-,-,Queens Park Rangers,Bristol Rovers,4-0,-
+-,-,Sheffield Wednesday,Bristol Rovers,4-1,-
+-,-,Shrewsbury Town,Bristol Rovers,3-1,-
+-,-,Swansea City,Bristol Rovers,2-1,-
+-,-,Watford,Bristol Rovers,3-1,-
+-,-,West Ham United,Bristol Rovers,2-0,-
+-,-,Wrexham,Bristol Rovers,3-1,-
+-,-,Blackburn Rovers,Cambridge United,2-0,-
+-,-,Bolton Wanderers,Cambridge United,6-1,-
+-,-,Bristol City,Cambridge United,0-1,-
+-,-,Bristol Rovers,Cambridge United,0-1,-
+-,-,Cardiff City,Cambridge United,1-2,-
+-,-,Chelsea,Cambridge United,3-0,-
+-,-,Derby County,Cambridge United,0-3,-
+-,-,Grimsby Town,Cambridge United,3-1,-
+-,-,Leyton Orient,Cambridge United,3-0,-
+-,-,Luton Town,Cambridge United,0-0,-
+-,-,Newcastle United,Cambridge United,2-1,-
+-,-,Notts County,Cambridge United,2-0,-
+-,-,Oldham Athletic,Cambridge United,2-2,-
+-,-,Preston North End,Cambridge United,2-0,-
+-,-,Queens Park Rangers,Cambridge United,5-0,-
+-,-,Sheffield Wednesday,Cambridge United,4-1,-
+-,-,Shrewsbury Town,Cambridge United,2-1,-
+-,-,Swansea City,Cambridge United,1-1,-
+-,-,Watford,Cambridge United,0-0,-
+-,-,West Ham United,Cambridge United,4-2,-
+-,-,Wrexham,Cambridge United,0-0,-
+-,-,Blackburn Rovers,Cardiff City,2-3,-
+-,-,Bolton Wanderers,Cardiff City,4-2,-
+-,-,Bristol City,Cardiff City,0-0,-
+-,-,Bristol Rovers,Cardiff City,0-1,-
+-,-,Cambridge United,Cardiff City,2-0,-
+-,-,Chelsea,Cardiff City,0-1,-
+-,-,Derby County,Cardiff City,1-1,-
+-,-,Grimsby Town,Cardiff City,0-1,-
+-,-,Leyton Orient,Cardiff City,2-2,-
+-,-,Luton Town,Cardiff City,2-2,-
+-,-,Newcastle United,Cardiff City,2-1,-
+-,-,Notts County,Cardiff City,4-2,-
+-,-,Oldham Athletic,Cardiff City,2-0,-
+-,-,Preston North End,Cardiff City,3-1,-
+-,-,Queens Park Rangers,Cardiff City,2-0,-
+-,-,Sheffield Wednesday,Cardiff City,2-0,-
+-,-,Shrewsbury Town,Cardiff City,2-0,-
+-,-,Swansea City,Cardiff City,1-1,-
+-,-,Watford,Cardiff City,4-2,-
+-,-,West Ham United,Cardiff City,1-0,-
+-,-,Wrexham,Cardiff City,0-1,-
+-,-,Blackburn Rovers,Chelsea,1-1,-
+-,-,Bolton Wanderers,Chelsea,2-3,-
+-,-,Bristol City,Chelsea,0-0,-
+-,-,Bristol Rovers,Chelsea,1-0,-
+-,-,Cambridge United,Chelsea,0-1,-
+-,-,Cardiff City,Chelsea,0-1,-
+-,-,Derby County,Chelsea,3-2,-
+-,-,Grimsby Town,Chelsea,2-0,-
+-,-,Leyton Orient,Chelsea,0-1,-
+-,-,Luton Town,Chelsea,2-0,-
+-,-,Newcastle United,Chelsea,1-0,-
+-,-,Notts County,Chelsea,1-1,-
+-,-,Oldham Athletic,Chelsea,0-0,-
+-,-,Preston North End,Chelsea,1-0,-
+-,-,Queens Park Rangers,Chelsea,1-0,-
+-,-,Sheffield Wednesday,Chelsea,0-0,-
+-,-,Shrewsbury Town,Chelsea,2-2,-
+-,-,Swansea City,Chelsea,3-0,-
+-,-,Watford,Chelsea,2-3,-
+-,-,West Ham United,Chelsea,4-0,-
+-,-,Wrexham,Chelsea,0-4,-
+-,-,Blackburn Rovers,Derby County,1-0,-
+-,-,Bolton Wanderers,Derby County,3-1,-
+-,-,Bristol City,Derby County,2-2,-
+-,-,Bristol Rovers,Derby County,1-1,-
+-,-,Cambridge United,Derby County,3-0,-
+-,-,Cardiff City,Derby County,0-0,-
+-,-,Chelsea,Derby County,1-3,-
+-,-,Grimsby Town,Derby County,0-1,-
+-,-,Leyton Orient,Derby County,1-0,-
+-,-,Luton Town,Derby County,1-2,-
+-,-,Newcastle United,Derby County,0-2,-
+-,-,Notts County,Derby County,0-0,-
+-,-,Oldham Athletic,Derby County,0-2,-
+-,-,Preston North End,Derby County,0-3,-
+-,-,Queens Park Rangers,Derby County,3-1,-
+-,-,Sheffield Wednesday,Derby County,0-0,-
+-,-,Shrewsbury Town,Derby County,1-0,-
+-,-,Swansea City,Derby County,3-1,-
+-,-,Watford,Derby County,1-1,-
+-,-,West Ham United,Derby County,3-1,-
+-,-,Wrexham,Derby County,2-2,-
+-,-,Blackburn Rovers,Grimsby Town,2-0,-
+-,-,Bolton Wanderers,Grimsby Town,1-1,-
+-,-,Bristol City,Grimsby Town,1-1,-
+-,-,Bristol Rovers,Grimsby Town,2-2,-
+-,-,Cambridge United,Grimsby Town,5-1,-
+-,-,Cardiff City,Grimsby Town,1-1,-
+-,-,Chelsea,Grimsby Town,3-0,-
+-,-,Derby County,Grimsby Town,2-1,-
+-,-,Leyton Orient,Grimsby Town,2-0,-
+-,-,Luton Town,Grimsby Town,0-2,-
+-,-,Newcastle United,Grimsby Town,1-1,-
+-,-,Notts County,Grimsby Town,0-0,-
+-,-,Oldham Athletic,Grimsby Town,1-2,-
+-,-,Preston North End,Grimsby Town,2-4,-
+-,-,Queens Park Rangers,Grimsby Town,1-0,-
+-,-,Sheffield Wednesday,Grimsby Town,1-2,-
+-,-,Shrewsbury Town,Grimsby Town,1-0,-
+-,-,Swansea City,Grimsby Town,1-0,-
+-,-,Watford,Grimsby Town,3-1,-
+-,-,West Ham United,Grimsby Town,2-1,-
+-,-,Wrexham,Grimsby Town,0-2,-
+-,-,Blackburn Rovers,Leyton Orient,2-0,-
+-,-,Bolton Wanderers,Leyton Orient,3-1,-
+-,-,Bristol City,Leyton Orient,3-1,-
+-,-,Bristol Rovers,Leyton Orient,1-1,-
+-,-,Cambridge United,Leyton Orient,1-0,-
+-,-,Cardiff City,Leyton Orient,4-2,-
+-,-,Chelsea,Leyton Orient,0-1,-
+-,-,Derby County,Leyton Orient,1-1,-
+-,-,Grimsby Town,Leyton Orient,2-0,-
+-,-,Luton Town,Leyton Orient,2-1,-
+-,-,Newcastle United,Leyton Orient,3-1,-
+-,-,Notts County,Leyton Orient,1-0,-
+-,-,Oldham Athletic,Leyton Orient,0-1,-
+-,-,Preston North End,Leyton Orient,3-0,-
+-,-,Queens Park Rangers,Leyton Orient,0-0,-
+-,-,Sheffield Wednesday,Leyton Orient,2-2,-
+-,-,Shrewsbury Town,Leyton Orient,1-2,-
+-,-,Swansea City,Leyton Orient,0-2,-
+-,-,Watford,Leyton Orient,2-0,-
+-,-,West Ham United,Leyton Orient,2-1,-
+-,-,Wrexham,Leyton Orient,3-1,-
+-,-,Blackburn Rovers,Luton Town,3-0,-
+-,-,Bolton Wanderers,Luton Town,0-3,-
+-,-,Bristol City,Luton Town,2-1,-
+-,-,Bristol Rovers,Luton Town,2-4,-
+-,-,Cambridge United,Luton Town,1-3,-
+-,-,Cardiff City,Luton Town,1-0,-
+-,-,Chelsea,Luton Town,0-2,-
+-,-,Derby County,Luton Town,2-2,-
+-,-,Grimsby Town,Luton Town,0-0,-
+-,-,Leyton Orient,Luton Town,0-0,-
+-,-,Newcastle United,Luton Town,2-1,-
+-,-,Notts County,Luton Town,0-1,-
+-,-,Oldham Athletic,Luton Town,0-0,-
+-,-,Preston North End,Luton Town,1-0,-
+-,-,Queens Park Rangers,Luton Town,3-2,-
+-,-,Sheffield Wednesday,Luton Town,3-1,-
+-,-,Shrewsbury Town,Luton Town,0-1,-
+-,-,Swansea City,Luton Town,2-2,-
+-,-,Watford,Luton Town,0-1,-
+-,-,West Ham United,Luton Town,1-2,-
+-,-,Wrexham,Luton Town,0-0,-
+-,-,Blackburn Rovers,Newcastle United,3-0,-
+-,-,Bolton Wanderers,Newcastle United,4-0,-
+-,-,Bristol City,Newcastle United,2-0,-
+-,-,Bristol Rovers,Newcastle United,0-0,-
+-,-,Cambridge United,Newcastle United,2-1,-
+-,-,Cardiff City,Newcastle United,1-0,-
+-,-,Chelsea,Newcastle United,6-0,-
+-,-,Derby County,Newcastle United,2-0,-
+-,-,Grimsby Town,Newcastle United,0-0,-
+-,-,Leyton Orient,Newcastle United,1-1,-
+-,-,Luton Town,Newcastle United,0-1,-
+-,-,Notts County,Newcastle United,0-0,-
+-,-,Oldham Athletic,Newcastle United,0-0,-
+-,-,Preston North End,Newcastle United,2-3,-
+-,-,Queens Park Rangers,Newcastle United,1-2,-
+-,-,Sheffield Wednesday,Newcastle United,2-0,-
+-,-,Shrewsbury Town,Newcastle United,1-0,-
+-,-,Swansea City,Newcastle United,4-0,-
+-,-,Watford,Newcastle United,0-0,-
+-,-,West Ham United,Newcastle United,1-0,-
+-,-,Wrexham,Newcastle United,0-0,-
+-,-,Blackburn Rovers,Notts County,0-0,-
+-,-,Bolton Wanderers,Notts County,3-0,-
+-,-,Bristol City,Notts County,0-1,-
+-,-,Bristol Rovers,Notts County,1-1,-
+-,-,Cambridge United,Notts County,1-2,-
+-,-,Cardiff City,Notts County,0-1,-
+-,-,Chelsea,Notts County,0-2,-
+-,-,Derby County,Notts County,2-2,-
+-,-,Grimsby Town,Notts County,2-1,-
+-,-,Leyton Orient,Notts County,0-2,-
+-,-,Luton Town,Notts County,0-1,-
+-,-,Newcastle United,Notts County,1-1,-
+-,-,Oldham Athletic,Notts County,0-1,-
+-,-,Preston North End,Notts County,2-2,-
+-,-,Queens Park Rangers,Notts County,1-1,-
+-,-,Sheffield Wednesday,Notts County,1-2,-
+-,-,Shrewsbury Town,Notts County,1-1,-
+-,-,Swansea City,Notts County,1-1,-
+-,-,Watford,Notts County,2-0,-
+-,-,West Ham United,Notts County,4-0,-
+-,-,Wrexham,Notts County,1-1,-
+-,-,Blackburn Rovers,Oldham Athletic,1-0,-
+-,-,Bolton Wanderers,Oldham Athletic,2-0,-
+-,-,Bristol City,Oldham Athletic,1-1,-
+-,-,Bristol Rovers,Oldham Athletic,0-0,-
+-,-,Cambridge United,Oldham Athletic,3-1,-
+-,-,Cardiff City,Oldham Athletic,0-2,-
+-,-,Chelsea,Oldham Athletic,1-0,-
+-,-,Derby County,Oldham Athletic,4-1,-
+-,-,Grimsby Town,Oldham Athletic,0-0,-
+-,-,Leyton Orient,Oldham Athletic,2-3,-
+-,-,Luton Town,Oldham Athletic,1-2,-
+-,-,Newcastle United,Oldham Athletic,0-0,-
+-,-,Notts County,Oldham Athletic,0-2,-
+-,-,Preston North End,Oldham Athletic,1-2,-
+-,-,Queens Park Rangers,Oldham Athletic,2-0,-
+-,-,Sheffield Wednesday,Oldham Athletic,3-0,-
+-,-,Shrewsbury Town,Oldham Athletic,2-2,-
+-,-,Swansea City,Oldham Athletic,3-0,-
+-,-,Watford,Oldham Athletic,2-1,-
+-,-,West Ham United,Oldham Athletic,1-1,-
+-,-,Wrexham,Oldham Athletic,3-2,-
+-,-,Blackburn Rovers,Preston North End,0-0,-
+-,-,Bolton Wanderers,Preston North End,2-1,-
+-,-,Bristol City,Preston North End,0-0,-
+-,-,Bristol Rovers,Preston North End,2-0,-
+-,-,Cambridge United,Preston North End,1-0,-
+-,-,Cardiff City,Preston North End,1-3,-
+-,-,Chelsea,Preston North End,1-1,-
+-,-,Derby County,Preston North End,1-2,-
+-,-,Grimsby Town,Preston North End,0-0,-
+-,-,Leyton Orient,Preston North End,4-0,-
+-,-,Luton Town,Preston North End,4-2,-
+-,-,Newcastle United,Preston North End,2-0,-
+-,-,Notts County,Preston North End,0-0,-
+-,-,Oldham Athletic,Preston North End,1-1,-
+-,-,Queens Park Rangers,Preston North End,1-1,-
+-,-,Sheffield Wednesday,Preston North End,3-0,-
+-,-,Shrewsbury Town,Preston North End,3-0,-
+-,-,Swansea City,Preston North End,3-0,-
+-,-,Watford,Preston North End,2-1,-
+-,-,West Ham United,Preston North End,5-0,-
+-,-,Wrexham,Preston North End,0-1,-
+-,-,Blackburn Rovers,Queens Park Rangers,2-1,-
+-,-,Bolton Wanderers,Queens Park Rangers,1-2,-
+-,-,Bristol City,Queens Park Rangers,0-1,-
+-,-,Bristol Rovers,Queens Park Rangers,1-2,-
+-,-,Cambridge United,Queens Park Rangers,1-0,-
+-,-,Cardiff City,Queens Park Rangers,1-0,-
+-,-,Chelsea,Queens Park Rangers,1-1,-
+-,-,Derby County,Queens Park Rangers,3-3,-
+-,-,Grimsby Town,Queens Park Rangers,0-0,-
+-,-,Leyton Orient,Queens Park Rangers,4-0,-
+-,-,Luton Town,Queens Park Rangers,3-0,-
+-,-,Newcastle United,Queens Park Rangers,1-0,-
+-,-,Notts County,Queens Park Rangers,2-1,-
+-,-,Oldham Athletic,Queens Park Rangers,1-0,-
+-,-,Preston North End,Queens Park Rangers,3-2,-
+-,-,Sheffield Wednesday,Queens Park Rangers,1-0,-
+-,-,Shrewsbury Town,Queens Park Rangers,3-3,-
+-,-,Swansea City,Queens Park Rangers,1-2,-
+-,-,Watford,Queens Park Rangers,1-1,-
+-,-,West Ham United,Queens Park Rangers,3-0,-
+-,-,Wrexham,Queens Park Rangers,1-1,-
+-,-,Blackburn Rovers,Sheffield Wednesday,3-1,-
+-,-,Bolton Wanderers,Sheffield Wednesday,0-0,-
+-,-,Bristol City,Sheffield Wednesday,1-0,-
+-,-,Bristol Rovers,Sheffield Wednesday,3-3,-
+-,-,Cambridge United,Sheffield Wednesday,0-2,-
+-,-,Cardiff City,Sheffield Wednesday,0-0,-
+-,-,Chelsea,Sheffield Wednesday,2-0,-
+-,-,Derby County,Sheffield Wednesday,3-1,-
+-,-,Grimsby Town,Sheffield Wednesday,0-0,-
+-,-,Leyton Orient,Sheffield Wednesday,2-0,-
+-,-,Luton Town,Sheffield Wednesday,3-0,-
+-,-,Newcastle United,Sheffield Wednesday,1-0,-
+-,-,Notts County,Sheffield Wednesday,2-0,-
+-,-,Oldham Athletic,Sheffield Wednesday,2-0,-
+-,-,Preston North End,Sheffield Wednesday,2-1,-
+-,-,Queens Park Rangers,Sheffield Wednesday,1-2,-
+-,-,Shrewsbury Town,Sheffield Wednesday,2-0,-
+-,-,Swansea City,Sheffield Wednesday,2-3,-
+-,-,Watford,Sheffield Wednesday,2-1,-
+-,-,West Ham United,Sheffield Wednesday,2-1,-
+-,-,Wrexham,Sheffield Wednesday,4-0,-
+-,-,Blackburn Rovers,Shrewsbury Town,2-0,-
+-,-,Bolton Wanderers,Shrewsbury Town,0-2,-
+-,-,Bristol City,Shrewsbury Town,1-1,-
+-,-,Bristol Rovers,Shrewsbury Town,1-1,-
+-,-,Cambridge United,Shrewsbury Town,3-1,-
+-,-,Cardiff City,Shrewsbury Town,2-2,-
+-,-,Chelsea,Shrewsbury Town,3-0,-
+-,-,Derby County,Shrewsbury Town,1-1,-
+-,-,Grimsby Town,Shrewsbury Town,1-0,-
+-,-,Leyton Orient,Shrewsbury Town,1-0,-
+-,-,Luton Town,Shrewsbury Town,1-1,-
+-,-,Newcastle United,Shrewsbury Town,1-0,-
+-,-,Notts County,Shrewsbury Town,0-0,-
+-,-,Oldham Athletic,Shrewsbury Town,0-0,-
+-,-,Preston North End,Shrewsbury Town,0-0,-
+-,-,Queens Park Rangers,Shrewsbury Town,0-0,-
+-,-,Sheffield Wednesday,Shrewsbury Town,1-1,-
+-,-,Swansea City,Shrewsbury Town,2-1,-
+-,-,Watford,Shrewsbury Town,1-0,-
+-,-,West Ham United,Shrewsbury Town,3-0,-
+-,-,Wrexham,Shrewsbury Town,1-2,-
+-,-,Blackburn Rovers,Swansea City,0-0,-
+-,-,Bolton Wanderers,Swansea City,1-4,-
+-,-,Bristol City,Swansea City,0-1,-
+-,-,Bristol Rovers,Swansea City,1-2,-
+-,-,Cambridge United,Swansea City,3-1,-
+-,-,Cardiff City,Swansea City,3-3,-
+-,-,Chelsea,Swansea City,0-0,-
+-,-,Derby County,Swansea City,0-1,-
+-,-,Grimsby Town,Swansea City,1-0,-
+-,-,Leyton Orient,Swansea City,1-1,-
+-,-,Luton Town,Swansea City,2-2,-
+-,-,Newcastle United,Swansea City,1-2,-
+-,-,Notts County,Swansea City,2-1,-
+-,-,Oldham Athletic,Swansea City,2-2,-
+-,-,Preston North End,Swansea City,1-3,-
+-,-,Queens Park Rangers,Swansea City,0-0,-
+-,-,Sheffield Wednesday,Swansea City,2-0,-
+-,-,Shrewsbury Town,Swansea City,0-0,-
+-,-,Watford,Swansea City,2-1,-
+-,-,West Ham United,Swansea City,2-0,-
+-,-,Wrexham,Swansea City,1-1,-
+-,-,Blackburn Rovers,Watford,0-0,-
+-,-,Bolton Wanderers,Watford,2-1,-
+-,-,Bristol City,Watford,0-0,-
+-,-,Bristol Rovers,Watford,3-1,-
+-,-,Cambridge United,Watford,3-1,-
+-,-,Cardiff City,Watford,1-0,-
+-,-,Chelsea,Watford,0-1,-
+-,-,Derby County,Watford,1-1,-
+-,-,Grimsby Town,Watford,1-1,-
+-,-,Leyton Orient,Watford,1-1,-
+-,-,Luton Town,Watford,1-0,-
+-,-,Newcastle United,Watford,2-1,-
+-,-,Notts County,Watford,1-2,-
+-,-,Oldham Athletic,Watford,2-1,-
+-,-,Preston North End,Watford,2-1,-
+-,-,Queens Park Rangers,Watford,0-0,-
+-,-,Sheffield Wednesday,Watford,1-0,-
+-,-,Shrewsbury Town,Watford,2-1,-
+-,-,Swansea City,Watford,1-0,-
+-,-,West Ham United,Watford,3-2,-
+-,-,Wrexham,Watford,0-1,-
+-,-,Blackburn Rovers,West Ham United,0-0,-
+-,-,Bolton Wanderers,West Ham United,1-1,-
+-,-,Bristol City,West Ham United,1-1,-
+-,-,Bristol Rovers,West Ham United,0-1,-
+-,-,Cambridge United,West Ham United,1-2,-
+-,-,Cardiff City,West Ham United,0-0,-
+-,-,Chelsea,West Ham United,0-1,-
+-,-,Derby County,West Ham United,2-0,-
+-,-,Grimsby Town,West Ham United,1-5,-
+-,-,Leyton Orient,West Ham United,0-2,-
+-,-,Luton Town,West Ham United,3-2,-
+-,-,Newcastle United,West Ham United,0-0,-
+-,-,Notts County,West Ham United,1-1,-
+-,-,Oldham Athletic,West Ham United,0-0,-
+-,-,Preston North End,West Ham United,0-0,-
+-,-,Queens Park Rangers,West Ham United,3-0,-
+-,-,Sheffield Wednesday,West Ham United,0-1,-
+-,-,Shrewsbury Town,West Ham United,0-2,-
+-,-,Swansea City,West Ham United,1-3,-
+-,-,Watford,West Ham United,1-2,-
+-,-,Wrexham,West Ham United,2-2,-
+-,-,Blackburn Rovers,Wrexham,1-1,-
+-,-,Bolton Wanderers,Wrexham,1-1,-
+-,-,Bristol City,Wrexham,0-2,-
+-,-,Bristol Rovers,Wrexham,0-1,-
+-,-,Cambridge United,Wrexham,1-0,-
+-,-,Cardiff City,Wrexham,1-0,-
+-,-,Chelsea,Wrexham,2-2,-
+-,-,Derby County,Wrexham,0-1,-
+-,-,Grimsby Town,Wrexham,1-0,-
+-,-,Leyton Orient,Wrexham,2-1,-
+-,-,Luton Town,Wrexham,1-1,-
+-,-,Newcastle United,Wrexham,0-1,-
+-,-,Notts County,Wrexham,1-1,-
+-,-,Oldham Athletic,Wrexham,1-3,-
+-,-,Preston North End,Wrexham,1-1,-
+-,-,Queens Park Rangers,Wrexham,0-1,-
+-,-,Sheffield Wednesday,Wrexham,2-1,-
+-,-,Shrewsbury Town,Wrexham,1-2,-
+-,-,Swansea City,Wrexham,3-1,-
+-,-,Watford,Wrexham,1-0,-
+-,-,West Ham United,Wrexham,1-0,-

@@ -1,0 +1,553 @@
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Burnley,Aldershot,1-2,-
+-,-,Cambridge United,Aldershot,0-2,-
+-,-,Chester,Aldershot,1-0,-
+-,-,Colchester United,Aldershot,4-0,-
+-,-,Crewe Alexandra,Aldershot,2-0,-
+-,-,Exeter City,Aldershot,2-0,-
+-,-,Halifax Town,Aldershot,1-1,-
+-,-,Hartlepool United,Aldershot,2-1,-
+-,-,Hereford United,Aldershot,4-1,-
+-,-,Leyton Orient,Aldershot,1-1,-
+-,-,Mansfield Town,Aldershot,2-0,-
+-,-,Northampton Town,Aldershot,2-3,-
+-,-,Peterborough United,Aldershot,3-0,-
+-,-,Port Vale,Aldershot,3-1,-
+-,-,Preston North End,Aldershot,1-3,-
+-,-,Rochdale,Aldershot,2-0,-
+-,-,Scunthorpe United,Aldershot,1-0,-
+-,-,Southend United,Aldershot,2-0,-
+-,-,Stockport County,Aldershot,3-2,-
+-,-,Swindon Town,Aldershot,4-1,-
+-,-,Torquay United,Aldershot,1-2,-
+-,-,Tranmere Rovers,Aldershot,3-0,-
+-,-,Wrexham,Aldershot,4-1,-
+-,-,Aldershot,Burnley,0-2,-
+-,-,Cambridge United,Burnley,0-4,-
+-,-,Chester,Burnley,4-0,-
+-,-,Colchester United,Burnley,2-2,-
+-,-,Crewe Alexandra,Burnley,3-1,-
+-,-,Exeter City,Burnley,0-2,-
+-,-,Halifax Town,Burnley,2-2,-
+-,-,Hartlepool United,Burnley,3-1,-
+-,-,Hereford United,Burnley,2-2,-
+-,-,Leyton Orient,Burnley,3-0,-
+-,-,Mansfield Town,Burnley,0-0,-
+-,-,Northampton Town,Burnley,2-0,-
+-,-,Peterborough United,Burnley,0-0,-
+-,-,Port Vale,Burnley,1-1,-
+-,-,Preston North End,Burnley,1-0,-
+-,-,Rochdale,Burnley,1-0,-
+-,-,Scunthorpe United,Burnley,1-1,-
+-,-,Southend United,Burnley,2-3,-
+-,-,Stockport County,Burnley,1-1,-
+-,-,Swindon Town,Burnley,3-1,-
+-,-,Torquay United,Burnley,2-0,-
+-,-,Tranmere Rovers,Burnley,2-1,-
+-,-,Wrexham,Burnley,0-1,-
+-,-,Aldershot,Cambridge United,2-1,-
+-,-,Burnley,Cambridge United,1-1,-
+-,-,Chester,Cambridge United,1-1,-
+-,-,Colchester United,Cambridge United,4-1,-
+-,-,Crewe Alexandra,Cambridge United,0-1,-
+-,-,Exeter City,Cambridge United,0-0,-
+-,-,Halifax Town,Cambridge United,1-1,-
+-,-,Hartlepool United,Cambridge United,2-1,-
+-,-,Hereford United,Cambridge United,1-0,-
+-,-,Leyton Orient,Cambridge United,3-1,-
+-,-,Mansfield Town,Cambridge United,2-0,-
+-,-,Northampton Town,Cambridge United,0-2,-
+-,-,Peterborough United,Cambridge United,0-0,-
+-,-,Port Vale,Cambridge United,4-1,-
+-,-,Preston North End,Cambridge United,1-2,-
+-,-,Rochdale,Cambridge United,2-1,-
+-,-,Scunthorpe United,Cambridge United,0-0,-
+-,-,Southend United,Cambridge United,1-0,-
+-,-,Stockport County,Cambridge United,3-1,-
+-,-,Swindon Town,Cambridge United,1-0,-
+-,-,Torquay United,Cambridge United,1-1,-
+-,-,Tranmere Rovers,Cambridge United,6-2,-
+-,-,Wrexham,Cambridge United,6-2,-
+-,-,Aldershot,Chester,1-1,-
+-,-,Burnley,Chester,1-0,-
+-,-,Cambridge United,Chester,3-2,-
+-,-,Colchester United,Chester,2-3,-
+-,-,Crewe Alexandra,Chester,2-2,-
+-,-,Exeter City,Chester,1-3,-
+-,-,Halifax Town,Chester,1-2,-
+-,-,Hartlepool United,Chester,1-1,-
+-,-,Hereford United,Chester,0-2,-
+-,-,Leyton Orient,Chester,0-0,-
+-,-,Mansfield Town,Chester,0-0,-
+-,-,Northampton Town,Chester,2-2,-
+-,-,Peterborough United,Chester,3-0,-
+-,-,Port Vale,Chester,1-1,-
+-,-,Preston North End,Chester,3-6,-
+-,-,Rochdale,Chester,1-2,-
+-,-,Scunthorpe United,Chester,2-0,-
+-,-,Southend United,Chester,1-1,-
+-,-,Stockport County,Chester,2-2,-
+-,-,Swindon Town,Chester,4-2,-
+-,-,Torquay United,Chester,0-3,-
+-,-,Tranmere Rovers,Chester,2-3,-
+-,-,Wrexham,Chester,1-1,-
+-,-,Aldershot,Colchester United,1-1,-
+-,-,Burnley,Colchester United,0-2,-
+-,-,Cambridge United,Colchester United,1-3,-
+-,-,Chester,Colchester United,4-0,-
+-,-,Crewe Alexandra,Colchester United,0-2,-
+-,-,Exeter City,Colchester United,2-2,-
+-,-,Halifax Town,Colchester United,2-2,-
+-,-,Hartlepool United,Colchester United,4-1,-
+-,-,Hereford United,Colchester United,2-0,-
+-,-,Leyton Orient,Colchester United,1-2,-
+-,-,Mansfield Town,Colchester United,2-1,-
+-,-,Northampton Town,Colchester United,1-0,-
+-,-,Peterborough United,Colchester United,1-2,-
+-,-,Port Vale,Colchester United,1-1,-
+-,-,Preston North End,Colchester United,3-2,-
+-,-,Rochdale,Colchester United,3-3,-
+-,-,Scunthorpe United,Colchester United,1-1,-
+-,-,Southend United,Colchester United,2-4,-
+-,-,Stockport County,Colchester United,1-1,-
+-,-,Swindon Town,Colchester United,2-1,-
+-,-,Torquay United,Colchester United,2-1,-
+-,-,Tranmere Rovers,Colchester United,3-4,-
+-,-,Wrexham,Colchester United,2-1,-
+-,-,Aldershot,Crewe Alexandra,3-2,-
+-,-,Burnley,Crewe Alexandra,0-1,-
+-,-,Cambridge United,Crewe Alexandra,1-0,-
+-,-,Chester,Crewe Alexandra,4-0,-
+-,-,Colchester United,Crewe Alexandra,1-2,-
+-,-,Exeter City,Crewe Alexandra,1-2,-
+-,-,Halifax Town,Crewe Alexandra,1-0,-
+-,-,Hartlepool United,Crewe Alexandra,4-1,-
+-,-,Hereford United,Crewe Alexandra,4-1,-
+-,-,Leyton Orient,Crewe Alexandra,0-1,-
+-,-,Mansfield Town,Crewe Alexandra,2-2,-
+-,-,Northampton Town,Crewe Alexandra,0-1,-
+-,-,Peterborough United,Crewe Alexandra,0-0,-
+-,-,Port Vale,Crewe Alexandra,3-0,-
+-,-,Preston North End,Crewe Alexandra,1-2,-
+-,-,Rochdale,Crewe Alexandra,1-0,-
+-,-,Scunthorpe United,Crewe Alexandra,3-1,-
+-,-,Southend United,Crewe Alexandra,0-1,-
+-,-,Stockport County,Crewe Alexandra,3-0,-
+-,-,Swindon Town,Crewe Alexandra,1-0,-
+-,-,Torquay United,Crewe Alexandra,0-0,-
+-,-,Tranmere Rovers,Crewe Alexandra,0-1,-
+-,-,Wrexham,Crewe Alexandra,2-1,-
+-,-,Aldershot,Exeter City,4-0,-
+-,-,Burnley,Exeter City,3-1,-
+-,-,Cambridge United,Exeter City,1-1,-
+-,-,Chester,Exeter City,2-1,-
+-,-,Colchester United,Exeter City,1-1,-
+-,-,Crewe Alexandra,Exeter City,0-1,-
+-,-,Halifax Town,Exeter City,1-0,-
+-,-,Hartlepool United,Exeter City,0-0,-
+-,-,Hereford United,Exeter City,4-1,-
+-,-,Leyton Orient,Exeter City,2-2,-
+-,-,Mansfield Town,Exeter City,2-1,-
+-,-,Northampton Town,Exeter City,2-2,-
+-,-,Peterborough United,Exeter City,1-1,-
+-,-,Port Vale,Exeter City,0-0,-
+-,-,Preston North End,Exeter City,2-2,-
+-,-,Rochdale,Exeter City,1-1,-
+-,-,Scunthorpe United,Exeter City,1-0,-
+-,-,Southend United,Exeter City,2-0,-
+-,-,Stockport County,Exeter City,1-1,-
+-,-,Swindon Town,Exeter City,2-1,-
+-,-,Torquay United,Exeter City,1-2,-
+-,-,Tranmere Rovers,Exeter City,0-1,-
+-,-,Wrexham,Exeter City,1-1,-
+-,-,Aldershot,Halifax Town,1-2,-
+-,-,Burnley,Halifax Town,1-3,-
+-,-,Cambridge United,Halifax Town,4-0,-
+-,-,Chester,Halifax Town,1-1,-
+-,-,Colchester United,Halifax Town,3-1,-
+-,-,Crewe Alexandra,Halifax Town,2-2,-
+-,-,Exeter City,Halifax Town,1-0,-
+-,-,Hartlepool United,Halifax Town,3-0,-
+-,-,Hereford United,Halifax Town,2-1,-
+-,-,Leyton Orient,Halifax Town,1-0,-
+-,-,Mansfield Town,Halifax Town,2-0,-
+-,-,Northampton Town,Halifax Town,4-0,-
+-,-,Peterborough United,Halifax Town,1-1,-
+-,-,Port Vale,Halifax Town,3-2,-
+-,-,Preston North End,Halifax Town,0-1,-
+-,-,Rochdale,Halifax Town,1-0,-
+-,-,Scunthorpe United,Halifax Town,3-3,-
+-,-,Southend United,Halifax Town,2-1,-
+-,-,Stockport County,Halifax Town,2-1,-
+-,-,Swindon Town,Halifax Town,3-2,-
+-,-,Torquay United,Halifax Town,2-0,-
+-,-,Tranmere Rovers,Halifax Town,0-3,-
+-,-,Wrexham,Halifax Town,2-1,-
+-,-,Aldershot,Hartlepool United,0-1,-
+-,-,Burnley,Hartlepool United,2-0,-
+-,-,Cambridge United,Hartlepool United,4-2,-
+-,-,Chester,Hartlepool United,1-1,-
+-,-,Colchester United,Hartlepool United,3-1,-
+-,-,Crewe Alexandra,Hartlepool United,0-0,-
+-,-,Exeter City,Hartlepool United,1-2,-
+-,-,Halifax Town,Hartlepool United,3-2,-
+-,-,Hereford United,Hartlepool United,2-2,-
+-,-,Leyton Orient,Hartlepool United,1-1,-
+-,-,Mansfield Town,Hartlepool United,4-0,-
+-,-,Northampton Town,Hartlepool United,3-0,-
+-,-,Peterborough United,Hartlepool United,3-1,-
+-,-,Port Vale,Hartlepool United,4-0,-
+-,-,Preston North End,Hartlepool United,2-1,-
+-,-,Rochdale,Hartlepool United,0-2,-
+-,-,Scunthorpe United,Hartlepool United,1-0,-
+-,-,Southend United,Hartlepool United,3-2,-
+-,-,Stockport County,Hartlepool United,1-3,-
+-,-,Swindon Town,Hartlepool United,3-1,-
+-,-,Torquay United,Hartlepool United,1-3,-
+-,-,Tranmere Rovers,Hartlepool United,4-2,-
+-,-,Wrexham,Hartlepool United,1-0,-
+-,-,Aldershot,Hereford United,2-0,-
+-,-,Burnley,Hereford United,3-2,-
+-,-,Cambridge United,Hereford United,4-0,-
+-,-,Chester,Hereford United,1-0,-
+-,-,Colchester United,Hereford United,4-1,-
+-,-,Crewe Alexandra,Hereford United,2-0,-
+-,-,Exeter City,Hereford United,3-2,-
+-,-,Halifax Town,Hereford United,1-0,-
+-,-,Hartlepool United,Hereford United,2-1,-
+-,-,Leyton Orient,Hereford United,2-2,-
+-,-,Mansfield Town,Hereford United,4-0,-
+-,-,Northampton Town,Hereford United,1-3,-
+-,-,Peterborough United,Hereford United,0-0,-
+-,-,Port Vale,Hereford United,1-0,-
+-,-,Preston North End,Hereford United,2-0,-
+-,-,Rochdale,Hereford United,1-1,-
+-,-,Scunthorpe United,Hereford United,2-1,-
+-,-,Southend United,Hereford United,3-1,-
+-,-,Stockport County,Hereford United,1-1,-
+-,-,Swindon Town,Hereford United,1-0,-
+-,-,Torquay United,Hereford United,2-1,-
+-,-,Tranmere Rovers,Hereford United,1-2,-
+-,-,Wrexham,Hereford United,0-1,-
+-,-,Aldershot,Leyton Orient,1-1,-
+-,-,Burnley,Leyton Orient,1-0,-
+-,-,Cambridge United,Leyton Orient,1-2,-
+-,-,Chester,Leyton Orient,3-0,-
+-,-,Colchester United,Leyton Orient,4-0,-
+-,-,Crewe Alexandra,Leyton Orient,1-3,-
+-,-,Exeter City,Leyton Orient,1-1,-
+-,-,Halifax Town,Leyton Orient,2-1,-
+-,-,Hartlepool United,Leyton Orient,1-2,-
+-,-,Hereford United,Leyton Orient,3-2,-
+-,-,Mansfield Town,Leyton Orient,1-1,-
+-,-,Northampton Town,Leyton Orient,2-3,-
+-,-,Peterborough United,Leyton Orient,2-2,-
+-,-,Port Vale,Leyton Orient,2-0,-
+-,-,Preston North End,Leyton Orient,1-3,-
+-,-,Rochdale,Leyton Orient,1-4,-
+-,-,Scunthorpe United,Leyton Orient,2-2,-
+-,-,Southend United,Leyton Orient,5-1,-
+-,-,Stockport County,Leyton Orient,2-3,-
+-,-,Swindon Town,Leyton Orient,4-1,-
+-,-,Torquay United,Leyton Orient,2-2,-
+-,-,Tranmere Rovers,Leyton Orient,0-3,-
+-,-,Wrexham,Leyton Orient,1-3,-
+-,-,Aldershot,Mansfield Town,1-2,-
+-,-,Burnley,Mansfield Town,2-1,-
+-,-,Cambridge United,Mansfield Town,4-2,-
+-,-,Chester,Mansfield Town,1-0,-
+-,-,Colchester United,Mansfield Town,0-0,-
+-,-,Crewe Alexandra,Mansfield Town,2-1,-
+-,-,Exeter City,Mansfield Town,0-1,-
+-,-,Halifax Town,Mansfield Town,1-2,-
+-,-,Hartlepool United,Mansfield Town,1-1,-
+-,-,Hereford United,Mansfield Town,4-2,-
+-,-,Leyton Orient,Mansfield Town,0-1,-
+-,-,Northampton Town,Mansfield Town,1-0,-
+-,-,Peterborough United,Mansfield Town,4-2,-
+-,-,Port Vale,Mansfield Town,0-0,-
+-,-,Preston North End,Mansfield Town,0-2,-
+-,-,Rochdale,Mansfield Town,1-1,-
+-,-,Scunthorpe United,Mansfield Town,0-3,-
+-,-,Southend United,Mansfield Town,3-1,-
+-,-,Stockport County,Mansfield Town,0-2,-
+-,-,Swindon Town,Mansfield Town,2-1,-
+-,-,Torquay United,Mansfield Town,1-2,-
+-,-,Tranmere Rovers,Mansfield Town,1-2,-
+-,-,Wrexham,Mansfield Town,1-2,-
+-,-,Aldershot,Northampton Town,1-0,-
+-,-,Burnley,Northampton Town,3-2,-
+-,-,Cambridge United,Northampton Town,2-5,-
+-,-,Chester,Northampton Town,2-3,-
+-,-,Colchester United,Northampton Town,0-2,-
+-,-,Crewe Alexandra,Northampton Town,0-1,-
+-,-,Exeter City,Northampton Town,1-2,-
+-,-,Halifax Town,Northampton Town,2-0,-
+-,-,Hartlepool United,Northampton Town,2-1,-
+-,-,Hereford United,Northampton Town,3-0,-
+-,-,Leyton Orient,Northampton Town,0-1,-
+-,-,Mansfield Town,Northampton Town,1-0,-
+-,-,Peterborough United,Northampton Town,0-5,-
+-,-,Port Vale,Northampton Town,0-0,-
+-,-,Preston North End,Northampton Town,1-1,-
+-,-,Rochdale,Northampton Town,3-2,-
+-,-,Scunthorpe United,Northampton Town,1-0,-
+-,-,Southend United,Northampton Town,0-4,-
+-,-,Stockport County,Northampton Town,1-0,-
+-,-,Swindon Town,Northampton Town,3-2,-
+-,-,Torquay United,Northampton Town,1-1,-
+-,-,Tranmere Rovers,Northampton Town,1-3,-
+-,-,Wrexham,Northampton Town,1-0,-
+-,-,Aldershot,Peterborough United,1-0,-
+-,-,Burnley,Peterborough United,1-1,-
+-,-,Cambridge United,Peterborough United,3-1,-
+-,-,Chester,Peterborough United,2-1,-
+-,-,Colchester United,Peterborough United,5-0,-
+-,-,Crewe Alexandra,Peterborough United,1-1,-
+-,-,Exeter City,Peterborough United,1-0,-
+-,-,Halifax Town,Peterborough United,1-1,-
+-,-,Hartlepool United,Peterborough United,2-1,-
+-,-,Hereford United,Peterborough United,2-1,-
+-,-,Leyton Orient,Peterborough United,2-2,-
+-,-,Mansfield Town,Peterborough United,0-1,-
+-,-,Northampton Town,Peterborough United,2-2,-
+-,-,Port Vale,Peterborough United,2-0,-
+-,-,Preston North End,Peterborough United,2-4,-
+-,-,Rochdale,Peterborough United,2-1,-
+-,-,Scunthorpe United,Peterborough United,2-0,-
+-,-,Southend United,Peterborough United,0-1,-
+-,-,Stockport County,Peterborough United,2-2,-
+-,-,Swindon Town,Peterborough United,3-0,-
+-,-,Torquay United,Peterborough United,2-0,-
+-,-,Tranmere Rovers,Peterborough United,7-0,-
+-,-,Wrexham,Peterborough United,0-1,-
+-,-,Aldershot,Port Vale,0-0,-
+-,-,Burnley,Port Vale,1-2,-
+-,-,Cambridge United,Port Vale,1-3,-
+-,-,Chester,Port Vale,4-1,-
+-,-,Colchester United,Port Vale,1-0,-
+-,-,Crewe Alexandra,Port Vale,0-1,-
+-,-,Exeter City,Port Vale,1-0,-
+-,-,Halifax Town,Port Vale,2-0,-
+-,-,Hartlepool United,Port Vale,1-1,-
+-,-,Hereford United,Port Vale,1-1,-
+-,-,Leyton Orient,Port Vale,1-0,-
+-,-,Mansfield Town,Port Vale,2-1,-
+-,-,Northampton Town,Port Vale,2-2,-
+-,-,Peterborough United,Port Vale,1-0,-
+-,-,Preston North End,Port Vale,0-1,-
+-,-,Rochdale,Port Vale,3-3,-
+-,-,Scunthorpe United,Port Vale,0-0,-
+-,-,Southend United,Port Vale,2-1,-
+-,-,Stockport County,Port Vale,1-2,-
+-,-,Swindon Town,Port Vale,0-0,-
+-,-,Torquay United,Port Vale,0-1,-
+-,-,Tranmere Rovers,Port Vale,1-2,-
+-,-,Wrexham,Port Vale,1-3,-
+-,-,Aldershot,Preston North End,4-0,-
+-,-,Burnley,Preston North End,1-1,-
+-,-,Cambridge United,Preston North End,2-0,-
+-,-,Chester,Preston North End,2-0,-
+-,-,Colchester United,Preston North End,4-0,-
+-,-,Crewe Alexandra,Preston North End,3-3,-
+-,-,Exeter City,Preston North End,3-0,-
+-,-,Halifax Town,Preston North End,2-1,-
+-,-,Hartlepool United,Preston North End,1-0,-
+-,-,Hereford United,Preston North End,1-1,-
+-,-,Leyton Orient,Preston North End,2-0,-
+-,-,Mansfield Town,Preston North End,2-3,-
+-,-,Northampton Town,Preston North End,6-0,-
+-,-,Peterborough United,Preston North End,1-1,-
+-,-,Port Vale,Preston North End,0-1,-
+-,-,Rochdale,Preston North End,1-1,-
+-,-,Scunthorpe United,Preston North End,1-3,-
+-,-,Southend United,Preston North End,2-1,-
+-,-,Stockport County,Preston North End,2-1,-
+-,-,Swindon Town,Preston North End,4-1,-
+-,-,Torquay United,Preston North End,1-0,-
+-,-,Tranmere Rovers,Preston North End,2-3,-
+-,-,Wrexham,Preston North End,1-1,-
+-,-,Aldershot,Rochdale,2-1,-
+-,-,Burnley,Rochdale,1-0,-
+-,-,Cambridge United,Rochdale,1-0,-
+-,-,Chester,Rochdale,1-1,-
+-,-,Colchester United,Rochdale,0-1,-
+-,-,Crewe Alexandra,Rochdale,4-2,-
+-,-,Exeter City,Rochdale,2-0,-
+-,-,Halifax Town,Rochdale,1-1,-
+-,-,Hartlepool United,Rochdale,2-0,-
+-,-,Hereford United,Rochdale,2-2,-
+-,-,Leyton Orient,Rochdale,5-0,-
+-,-,Mansfield Town,Rochdale,3-2,-
+-,-,Northampton Town,Rochdale,1-0,-
+-,-,Peterborough United,Rochdale,1-1,-
+-,-,Port Vale,Rochdale,1-1,-
+-,-,Preston North End,Rochdale,1-1,-
+-,-,Scunthorpe United,Rochdale,3-1,-
+-,-,Southend United,Rochdale,5-0,-
+-,-,Stockport County,Rochdale,3-0,-
+-,-,Swindon Town,Rochdale,4-0,-
+-,-,Torquay United,Rochdale,1-2,-
+-,-,Tranmere Rovers,Rochdale,2-0,-
+-,-,Wrexham,Rochdale,2-0,-
+-,-,Aldershot,Scunthorpe United,2-1,-
+-,-,Burnley,Scunthorpe United,1-2,-
+-,-,Cambridge United,Scunthorpe United,0-1,-
+-,-,Chester,Scunthorpe United,1-1,-
+-,-,Colchester United,Scunthorpe United,1-1,-
+-,-,Crewe Alexandra,Scunthorpe United,4-0,-
+-,-,Exeter City,Scunthorpe United,2-0,-
+-,-,Halifax Town,Scunthorpe United,2-1,-
+-,-,Hartlepool United,Scunthorpe United,0-1,-
+-,-,Hereford United,Scunthorpe United,1-1,-
+-,-,Leyton Orient,Scunthorpe United,3-0,-
+-,-,Mansfield Town,Scunthorpe United,1-1,-
+-,-,Northampton Town,Scunthorpe United,2-2,-
+-,-,Peterborough United,Scunthorpe United,1-0,-
+-,-,Port Vale,Scunthorpe United,3-1,-
+-,-,Preston North End,Scunthorpe United,0-1,-
+-,-,Rochdale,Scunthorpe United,1-0,-
+-,-,Southend United,Scunthorpe United,2-1,-
+-,-,Stockport County,Scunthorpe United,0-0,-
+-,-,Swindon Town,Scunthorpe United,1-1,-
+-,-,Torquay United,Scunthorpe United,1-0,-
+-,-,Tranmere Rovers,Scunthorpe United,2-1,-
+-,-,Wrexham,Scunthorpe United,1-0,-
+-,-,Aldershot,Southend United,1-3,-
+-,-,Burnley,Southend United,1-3,-
+-,-,Cambridge United,Southend United,1-2,-
+-,-,Chester,Southend United,2-0,-
+-,-,Colchester United,Southend United,2-0,-
+-,-,Crewe Alexandra,Southend United,1-1,-
+-,-,Exeter City,Southend United,0-2,-
+-,-,Halifax Town,Southend United,2-3,-
+-,-,Hartlepool United,Southend United,3-2,-
+-,-,Hereford United,Southend United,2-1,-
+-,-,Leyton Orient,Southend United,3-0,-
+-,-,Mansfield Town,Southend United,3-0,-
+-,-,Northampton Town,Southend United,0-0,-
+-,-,Peterborough United,Southend United,1-1,-
+-,-,Port Vale,Southend United,4-0,-
+-,-,Preston North End,Southend United,3-2,-
+-,-,Rochdale,Southend United,2-1,-
+-,-,Scunthorpe United,Southend United,2-0,-
+-,-,Stockport County,Southend United,2-1,-
+-,-,Swindon Town,Southend United,2-1,-
+-,-,Torquay United,Southend United,2-2,-
+-,-,Tranmere Rovers,Southend United,1-1,-
+-,-,Wrexham,Southend United,0-0,-
+-,-,Aldershot,Stockport County,6-1,-
+-,-,Burnley,Stockport County,0-1,-
+-,-,Cambridge United,Stockport County,1-2,-
+-,-,Chester,Stockport County,1-2,-
+-,-,Colchester United,Stockport County,3-1,-
+-,-,Crewe Alexandra,Stockport County,0-1,-
+-,-,Exeter City,Stockport County,1-0,-
+-,-,Halifax Town,Stockport County,0-0,-
+-,-,Hartlepool United,Stockport County,1-1,-
+-,-,Hereford United,Stockport County,3-2,-
+-,-,Leyton Orient,Stockport County,0-1,-
+-,-,Mansfield Town,Stockport County,4-2,-
+-,-,Northampton Town,Stockport County,3-1,-
+-,-,Peterborough United,Stockport County,2-0,-
+-,-,Port Vale,Stockport County,1-1,-
+-,-,Preston North End,Stockport County,1-2,-
+-,-,Rochdale,Stockport County,4-1,-
+-,-,Scunthorpe United,Stockport County,2-3,-
+-,-,Southend United,Stockport County,0-0,-
+-,-,Swindon Town,Stockport County,1-0,-
+-,-,Torquay United,Stockport County,4-3,-
+-,-,Tranmere Rovers,Stockport County,2-3,-
+-,-,Wrexham,Stockport County,3-0,-
+-,-,Aldershot,Swindon Town,2-4,-
+-,-,Burnley,Swindon Town,0-2,-
+-,-,Cambridge United,Swindon Town,1-1,-
+-,-,Chester,Swindon Town,0-1,-
+-,-,Colchester United,Swindon Town,1-1,-
+-,-,Crewe Alexandra,Swindon Town,2-0,-
+-,-,Exeter City,Swindon Town,0-3,-
+-,-,Halifax Town,Swindon Town,1-3,-
+-,-,Hartlepool United,Swindon Town,1-0,-
+-,-,Hereford United,Swindon Town,4-1,-
+-,-,Leyton Orient,Swindon Town,1-0,-
+-,-,Mansfield Town,Swindon Town,1-1,-
+-,-,Northampton Town,Swindon Town,0-1,-
+-,-,Peterborough United,Swindon Town,3-0,-
+-,-,Port Vale,Swindon Town,3-0,-
+-,-,Preston North End,Swindon Town,0-3,-
+-,-,Rochdale,Swindon Town,1-2,-
+-,-,Scunthorpe United,Swindon Town,0-2,-
+-,-,Southend United,Swindon Town,0-0,-
+-,-,Stockport County,Swindon Town,0-2,-
+-,-,Torquay United,Swindon Town,0-1,-
+-,-,Tranmere Rovers,Swindon Town,3-1,-
+-,-,Wrexham,Swindon Town,0-1,-
+-,-,Aldershot,Torquay United,1-1,-
+-,-,Burnley,Torquay United,3-0,-
+-,-,Cambridge United,Torquay United,3-0,-
+-,-,Chester,Torquay United,3-1,-
+-,-,Colchester United,Torquay United,0-0,-
+-,-,Crewe Alexandra,Torquay United,1-0,-
+-,-,Exeter City,Torquay United,2-2,-
+-,-,Halifax Town,Torquay United,0-0,-
+-,-,Hartlepool United,Torquay United,1-0,-
+-,-,Hereford United,Torquay United,4-1,-
+-,-,Leyton Orient,Torquay United,4-2,-
+-,-,Mansfield Town,Torquay United,4-0,-
+-,-,Northampton Town,Torquay United,5-1,-
+-,-,Peterborough United,Torquay United,2-0,-
+-,-,Port Vale,Torquay United,1-0,-
+-,-,Preston North End,Torquay United,4-0,-
+-,-,Rochdale,Torquay United,5-0,-
+-,-,Scunthorpe United,Torquay United,4-0,-
+-,-,Southend United,Torquay United,1-2,-
+-,-,Stockport County,Torquay United,1-1,-
+-,-,Swindon Town,Torquay United,2-1,-
+-,-,Tranmere Rovers,Torquay United,2-0,-
+-,-,Wrexham,Torquay United,3-2,-
+-,-,Aldershot,Tranmere Rovers,3-1,-
+-,-,Burnley,Tranmere Rovers,3-1,-
+-,-,Cambridge United,Tranmere Rovers,3-2,-
+-,-,Chester,Tranmere Rovers,1-0,-
+-,-,Colchester United,Tranmere Rovers,1-2,-
+-,-,Crewe Alexandra,Tranmere Rovers,2-1,-
+-,-,Exeter City,Tranmere Rovers,1-0,-
+-,-,Halifax Town,Tranmere Rovers,1-2,-
+-,-,Hartlepool United,Tranmere Rovers,1-0,-
+-,-,Hereford United,Tranmere Rovers,1-4,-
+-,-,Leyton Orient,Tranmere Rovers,3-1,-
+-,-,Mansfield Town,Tranmere Rovers,0-0,-
+-,-,Northampton Town,Tranmere Rovers,2-2,-
+-,-,Peterborough United,Tranmere Rovers,0-1,-
+-,-,Port Vale,Tranmere Rovers,0-0,-
+-,-,Preston North End,Tranmere Rovers,2-2,-
+-,-,Rochdale,Tranmere Rovers,1-1,-
+-,-,Scunthorpe United,Tranmere Rovers,0-1,-
+-,-,Southend United,Tranmere Rovers,2-2,-
+-,-,Stockport County,Tranmere Rovers,1-1,-
+-,-,Swindon Town,Tranmere Rovers,2-1,-
+-,-,Torquay United,Tranmere Rovers,1-2,-
+-,-,Wrexham,Tranmere Rovers,1-1,-
+-,-,Aldershot,Wrexham,6-0,-
+-,-,Burnley,Wrexham,5-2,-
+-,-,Cambridge United,Wrexham,4-3,-
+-,-,Chester,Wrexham,2-1,-
+-,-,Colchester United,Wrexham,5-2,-
+-,-,Crewe Alexandra,Wrexham,3-2,-
+-,-,Exeter City,Wrexham,0-1,-
+-,-,Halifax Town,Wrexham,5-2,-
+-,-,Hartlepool United,Wrexham,3-3,-
+-,-,Hereford United,Wrexham,3-1,-
+-,-,Leyton Orient,Wrexham,1-3,-
+-,-,Mansfield Town,Wrexham,1-1,-
+-,-,Northampton Town,Wrexham,1-2,-
+-,-,Peterborough United,Wrexham,1-1,-
+-,-,Port Vale,Wrexham,4-0,-
+-,-,Preston North End,Wrexham,1-0,-
+-,-,Rochdale,Wrexham,3-2,-
+-,-,Scunthorpe United,Wrexham,1-1,-
+-,-,Southend United,Wrexham,3-0,-
+-,-,Stockport County,Wrexham,2-0,-
+-,-,Swindon Town,Wrexham,0-1,-
+-,-,Torquay United,Wrexham,1-3,-
+-,-,Tranmere Rovers,Wrexham,1-3,-

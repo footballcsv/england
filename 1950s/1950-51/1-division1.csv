@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Aston Villa,Arsenal,1-1
--,Blackpool,Arsenal,0-1
--,Bolton Wanderers,Arsenal,3-0
--,Burnley,Arsenal,0-1
--,Charlton Athletic,Arsenal,1-3
--,Chelsea,Arsenal,0-1
--,Derby County,Arsenal,4-2
--,Everton,Arsenal,1-1
--,Fulham,Arsenal,3-2
--,Huddersfield Town,Arsenal,2-2
--,Liverpool,Arsenal,1-3
--,Manchester United,Arsenal,3-1
--,Middlesbrough,Arsenal,2-1
--,Newcastle United,Arsenal,2-1
--,Portsmouth,Arsenal,1-1
--,Sheffield Wednesday,Arsenal,0-2
--,Stoke City,Arsenal,1-0
--,Sunderland,Arsenal,0-2
--,Tottenham Hotspur,Arsenal,1-0
--,West Bromwich Albion,Arsenal,2-0
--,Wolverhampton Wanderers,Arsenal,0-1
--,Arsenal,Aston Villa,2-1
--,Blackpool,Aston Villa,1-1
--,Bolton Wanderers,Aston Villa,1-0
--,Burnley,Aston Villa,2-0
--,Charlton Athletic,Aston Villa,2-2
--,Chelsea,Aston Villa,1-1
--,Derby County,Aston Villa,4-2
--,Everton,Aston Villa,1-2
--,Fulham,Aston Villa,2-1
--,Huddersfield Town,Aston Villa,4-2
--,Liverpool,Aston Villa,0-0
--,Manchester United,Aston Villa,0-0
--,Middlesbrough,Aston Villa,2-1
--,Newcastle United,Aston Villa,0-1
--,Portsmouth,Aston Villa,3-3
--,Sheffield Wednesday,Aston Villa,3-2
--,Stoke City,Aston Villa,1-0
--,Sunderland,Aston Villa,3-3
--,Tottenham Hotspur,Aston Villa,3-2
--,West Bromwich Albion,Aston Villa,2-0
--,Wolverhampton Wanderers,Aston Villa,2-3
--,Arsenal,Blackpool,4-4
--,Aston Villa,Blackpool,0-3
--,Bolton Wanderers,Blackpool,1-2
--,Burnley,Blackpool,0-0
--,Charlton Athletic,Blackpool,2-3
--,Chelsea,Blackpool,0-2
--,Derby County,Blackpool,4-1
--,Everton,Blackpool,0-2
--,Fulham,Blackpool,2-2
--,Huddersfield Town,Blackpool,2-1
--,Liverpool,Blackpool,1-0
--,Manchester United,Blackpool,1-0
--,Middlesbrough,Blackpool,4-3
--,Newcastle United,Blackpool,4-2
--,Portsmouth,Blackpool,2-0
--,Sheffield Wednesday,Blackpool,3-1
--,Stoke City,Blackpool,1-0
--,Sunderland,Blackpool,0-2
--,Tottenham Hotspur,Blackpool,1-4
--,West Bromwich Albion,Blackpool,1-3
--,Wolverhampton Wanderers,Blackpool,1-1
--,Arsenal,Bolton Wanderers,1-1
--,Aston Villa,Bolton Wanderers,0-1
--,Blackpool,Bolton Wanderers,2-0
--,Burnley,Bolton Wanderers,2-0
--,Charlton Athletic,Bolton Wanderers,4-3
--,Chelsea,Bolton Wanderers,4-0
--,Derby County,Bolton Wanderers,2-2
--,Everton,Bolton Wanderers,1-1
--,Fulham,Bolton Wanderers,0-1
--,Huddersfield Town,Bolton Wanderers,0-4
--,Liverpool,Bolton Wanderers,3-3
--,Manchester United,Bolton Wanderers,2-3
--,Middlesbrough,Bolton Wanderers,1-1
--,Newcastle United,Bolton Wanderers,0-1
--,Portsmouth,Bolton Wanderers,2-1
--,Sheffield Wednesday,Bolton Wanderers,3-4
--,Stoke City,Bolton Wanderers,2-1
--,Sunderland,Bolton Wanderers,1-2
--,Tottenham Hotspur,Bolton Wanderers,4-2
--,West Bromwich Albion,Bolton Wanderers,0-1
--,Wolverhampton Wanderers,Bolton Wanderers,7-1
--,Arsenal,Burnley,0-1
--,Aston Villa,Burnley,3-2
--,Blackpool,Burnley,1-2
--,Bolton Wanderers,Burnley,1-1
--,Charlton Athletic,Burnley,0-0
--,Chelsea,Burnley,0-2
--,Derby County,Burnley,1-1
--,Everton,Burnley,1-0
--,Fulham,Burnley,4-1
--,Huddersfield Town,Burnley,3-1
--,Liverpool,Burnley,1-0
--,Manchester United,Burnley,1-1
--,Middlesbrough,Burnley,3-3
--,Newcastle United,Burnley,2-1
--,Portsmouth,Burnley,2-1
--,Sheffield Wednesday,Burnley,0-1
--,Stoke City,Burnley,0-0
--,Sunderland,Burnley,1-1
--,Tottenham Hotspur,Burnley,1-0
--,West Bromwich Albion,Burnley,2-1
--,Wolverhampton Wanderers,Burnley,0-1
--,Arsenal,Charlton Athletic,2-5
--,Aston Villa,Charlton Athletic,0-0
--,Blackpool,Charlton Athletic,0-0
--,Bolton Wanderers,Charlton Athletic,3-0
--,Burnley,Charlton Athletic,5-1
--,Chelsea,Charlton Athletic,2-3
--,Derby County,Charlton Athletic,5-0
--,Everton,Charlton Athletic,0-0
--,Fulham,Charlton Athletic,1-3
--,Huddersfield Town,Charlton Athletic,1-1
--,Liverpool,Charlton Athletic,1-0
--,Manchester United,Charlton Athletic,3-0
--,Middlesbrough,Charlton Athletic,7-3
--,Newcastle United,Charlton Athletic,3-2
--,Portsmouth,Charlton Athletic,3-3
--,Sheffield Wednesday,Charlton Athletic,1-2
--,Stoke City,Charlton Athletic,2-0
--,Sunderland,Charlton Athletic,4-2
--,Tottenham Hotspur,Charlton Athletic,1-0
--,West Bromwich Albion,Charlton Athletic,3-0
--,Wolverhampton Wanderers,Charlton Athletic,2-3
--,Arsenal,Chelsea,0-0
--,Aston Villa,Chelsea,4-2
--,Blackpool,Chelsea,3-2
--,Bolton Wanderers,Chelsea,1-0
--,Burnley,Chelsea,2-1
--,Charlton Athletic,Chelsea,1-2
--,Derby County,Chelsea,1-0
--,Everton,Chelsea,3-0
--,Fulham,Chelsea,1-2
--,Huddersfield Town,Chelsea,2-1
--,Liverpool,Chelsea,1-0
--,Manchester United,Chelsea,4-1
--,Middlesbrough,Chelsea,3-0
--,Newcastle United,Chelsea,3-1
--,Portsmouth,Chelsea,1-3
--,Sheffield Wednesday,Chelsea,2-2
--,Stoke City,Chelsea,2-1
--,Sunderland,Chelsea,1-1
--,Tottenham Hotspur,Chelsea,2-1
--,West Bromwich Albion,Chelsea,1-1
--,Wolverhampton Wanderers,Chelsea,2-1
--,Arsenal,Derby County,3-1
--,Aston Villa,Derby County,1-1
--,Blackpool,Derby County,3-1
--,Bolton Wanderers,Derby County,3-0
--,Burnley,Derby County,1-0
--,Charlton Athletic,Derby County,1-2
--,Chelsea,Derby County,1-2
--,Everton,Derby County,1-2
--,Fulham,Derby County,3-5
--,Huddersfield Town,Derby County,2-0
--,Liverpool,Derby County,1-0
--,Manchester United,Derby County,2-0
--,Middlesbrough,Derby County,1-1
--,Newcastle United,Derby County,3-1
--,Portsmouth,Derby County,2-2
--,Sheffield Wednesday,Derby County,4-3
--,Stoke City,Derby County,4-1
--,Sunderland,Derby County,1-0
--,Tottenham Hotspur,Derby County,2-1
--,West Bromwich Albion,Derby County,1-2
--,Wolverhampton Wanderers,Derby County,2-3
--,Arsenal,Everton,2-1
--,Aston Villa,Everton,3-3
--,Blackpool,Everton,4-0
--,Bolton Wanderers,Everton,2-0
--,Burnley,Everton,1-1
--,Charlton Athletic,Everton,2-1
--,Chelsea,Everton,2-1
--,Derby County,Everton,0-1
--,Fulham,Everton,1-5
--,Huddersfield Town,Everton,1-2
--,Liverpool,Everton,0-2
--,Manchester United,Everton,3-0
--,Middlesbrough,Everton,4-0
--,Newcastle United,Everton,1-1
--,Portsmouth,Everton,6-3
--,Sheffield Wednesday,Everton,6-0
--,Stoke City,Everton,2-0
--,Sunderland,Everton,4-0
--,Tottenham Hotspur,Everton,3-0
--,West Bromwich Albion,Everton,0-1
--,Wolverhampton Wanderers,Everton,4-0
--,Arsenal,Fulham,5-1
--,Aston Villa,Fulham,3-0
--,Blackpool,Fulham,4-0
--,Bolton Wanderers,Fulham,0-1
--,Burnley,Fulham,0-2
--,Charlton Athletic,Fulham,0-0
--,Chelsea,Fulham,2-0
--,Derby County,Fulham,3-2
--,Everton,Fulham,1-0
--,Huddersfield Town,Fulham,1-2
--,Liverpool,Fulham,2-0
--,Manchester United,Fulham,1-0
--,Middlesbrough,Fulham,1-1
--,Newcastle United,Fulham,1-2
--,Portsmouth,Fulham,1-0
--,Sheffield Wednesday,Fulham,2-2
--,Stoke City,Fulham,1-1
--,Sunderland,Fulham,0-1
--,Tottenham Hotspur,Fulham,2-1
--,West Bromwich Albion,Fulham,0-0
--,Wolverhampton Wanderers,Fulham,1-1
--,Arsenal,Huddersfield Town,6-2
--,Aston Villa,Huddersfield Town,0-1
--,Blackpool,Huddersfield Town,3-1
--,Bolton Wanderers,Huddersfield Town,4-0
--,Burnley,Huddersfield Town,0-1
--,Charlton Athletic,Huddersfield Town,3-2
--,Chelsea,Huddersfield Town,1-2
--,Derby County,Huddersfield Town,3-0
--,Everton,Huddersfield Town,3-2
--,Fulham,Huddersfield Town,1-1
--,Liverpool,Huddersfield Town,1-4
--,Manchester United,Huddersfield Town,6-0
--,Middlesbrough,Huddersfield Town,8-0
--,Newcastle United,Huddersfield Town,6-0
--,Portsmouth,Huddersfield Town,1-0
--,Sheffield Wednesday,Huddersfield Town,3-2
--,Stoke City,Huddersfield Town,0-1
--,Sunderland,Huddersfield Town,0-0
--,Tottenham Hotspur,Huddersfield Town,0-2
--,West Bromwich Albion,Huddersfield Town,0-2
--,Wolverhampton Wanderers,Huddersfield Town,3-1
--,Arsenal,Liverpool,1-2
--,Aston Villa,Liverpool,1-1
--,Blackpool,Liverpool,3-0
--,Bolton Wanderers,Liverpool,2-1
--,Burnley,Liverpool,1-1
--,Charlton Athletic,Liverpool,1-0
--,Chelsea,Liverpool,1-0
--,Derby County,Liverpool,1-2
--,Everton,Liverpool,1-3
--,Fulham,Liverpool,2-1
--,Huddersfield Town,Liverpool,2-2
--,Manchester United,Liverpool,1-0
--,Middlesbrough,Liverpool,1-1
--,Newcastle United,Liverpool,1-1
--,Portsmouth,Liverpool,1-3
--,Sheffield Wednesday,Liverpool,4-1
--,Stoke City,Liverpool,2-3
--,Sunderland,Liverpool,2-1
--,Tottenham Hotspur,Liverpool,3-1
--,West Bromwich Albion,Liverpool,1-1
--,Wolverhampton Wanderers,Liverpool,2-0
--,Arsenal,Manchester United,3-0
--,Aston Villa,Manchester United,1-3
--,Blackpool,Manchester United,1-1
--,Bolton Wanderers,Manchester United,1-0
--,Burnley,Manchester United,1-2
--,Charlton Athletic,Manchester United,1-2
--,Chelsea,Manchester United,1-0
--,Derby County,Manchester United,2-4
--,Everton,Manchester United,1-4
--,Fulham,Manchester United,2-2
--,Huddersfield Town,Manchester United,2-3
--,Liverpool,Manchester United,2-1
--,Middlesbrough,Manchester United,1-2
--,Newcastle United,Manchester United,0-2
--,Portsmouth,Manchester United,0-0
--,Sheffield Wednesday,Manchester United,0-4
--,Stoke City,Manchester United,2-0
--,Sunderland,Manchester United,2-1
--,Tottenham Hotspur,Manchester United,1-0
--,West Bromwich Albion,Manchester United,0-1
--,Wolverhampton Wanderers,Manchester United,0-0
--,Arsenal,Middlesbrough,3-1
--,Aston Villa,Middlesbrough,0-1
--,Blackpool,Middlesbrough,2-1
--,Bolton Wanderers,Middlesbrough,0-2
--,Burnley,Middlesbrough,3-1
--,Charlton Athletic,Middlesbrough,3-0
--,Chelsea,Middlesbrough,1-1
--,Derby County,Middlesbrough,6-0
--,Everton,Middlesbrough,3-2
--,Fulham,Middlesbrough,2-0
--,Huddersfield Town,Middlesbrough,2-3
--,Liverpool,Middlesbrough,0-0
--,Manchester United,Middlesbrough,1-0
--,Newcastle United,Middlesbrough,1-0
--,Portsmouth,Middlesbrough,1-1
--,Sheffield Wednesday,Middlesbrough,0-1
--,Stoke City,Middlesbrough,2-0
--,Sunderland,Middlesbrough,2-1
--,Tottenham Hotspur,Middlesbrough,3-3
--,West Bromwich Albion,Middlesbrough,2-3
--,Wolverhampton Wanderers,Middlesbrough,3-4
--,Arsenal,Newcastle United,0-0
--,Aston Villa,Newcastle United,3-0
--,Blackpool,Newcastle United,2-2
--,Bolton Wanderers,Newcastle United,0-2
--,Burnley,Newcastle United,1-1
--,Charlton Athletic,Newcastle United,1-3
--,Chelsea,Newcastle United,3-1
--,Derby County,Newcastle United,1-2
--,Everton,Newcastle United,3-1
--,Fulham,Newcastle United,1-1
--,Huddersfield Town,Newcastle United,0-0
--,Liverpool,Newcastle United,2-4
--,Manchester United,Newcastle United,1-2
--,Middlesbrough,Newcastle United,2-1
--,Portsmouth,Newcastle United,0-0
--,Sheffield Wednesday,Newcastle United,0-0
--,Stoke City,Newcastle United,1-2
--,Sunderland,Newcastle United,2-1
--,Tottenham Hotspur,Newcastle United,7-0
--,West Bromwich Albion,Newcastle United,1-2
--,Wolverhampton Wanderers,Newcastle United,0-1
--,Arsenal,Portsmouth,0-1
--,Aston Villa,Portsmouth,3-3
--,Blackpool,Portsmouth,3-0
--,Bolton Wanderers,Portsmouth,4-0
--,Burnley,Portsmouth,1-1
--,Charlton Athletic,Portsmouth,0-1
--,Chelsea,Portsmouth,1-4
--,Derby County,Portsmouth,2-3
--,Everton,Portsmouth,1-5
--,Fulham,Portsmouth,1-4
--,Huddersfield Town,Portsmouth,2-1
--,Liverpool,Portsmouth,2-1
--,Manchester United,Portsmouth,0-0
--,Middlesbrough,Portsmouth,3-1
--,Newcastle United,Portsmouth,0-0
--,Sheffield Wednesday,Portsmouth,2-1
--,Stoke City,Portsmouth,1-2
--,Sunderland,Portsmouth,0-0
--,Tottenham Hotspur,Portsmouth,5-1
--,West Bromwich Albion,Portsmouth,5-0
--,Wolverhampton Wanderers,Portsmouth,2-3
--,Arsenal,Sheffield Wednesday,3-0
--,Aston Villa,Sheffield Wednesday,2-1
--,Blackpool,Sheffield Wednesday,3-2
--,Bolton Wanderers,Sheffield Wednesday,0-1
--,Burnley,Sheffield Wednesday,1-0
--,Charlton Athletic,Sheffield Wednesday,2-1
--,Chelsea,Sheffield Wednesday,4-0
--,Derby County,Sheffield Wednesday,4-1
--,Everton,Sheffield Wednesday,0-0
--,Fulham,Sheffield Wednesday,4-2
--,Huddersfield Town,Sheffield Wednesday,3-4
--,Liverpool,Sheffield Wednesday,2-1
--,Manchester United,Sheffield Wednesday,3-1
--,Middlesbrough,Sheffield Wednesday,2-1
--,Newcastle United,Sheffield Wednesday,2-0
--,Portsmouth,Sheffield Wednesday,4-1
--,Stoke City,Sheffield Wednesday,1-1
--,Sunderland,Sheffield Wednesday,5-1
--,Tottenham Hotspur,Sheffield Wednesday,1-0
--,West Bromwich Albion,Sheffield Wednesday,1-3
--,Wolverhampton Wanderers,Sheffield Wednesday,4-0
--,Arsenal,Stoke City,0-3
--,Aston Villa,Stoke City,6-2
--,Blackpool,Stoke City,3-0
--,Bolton Wanderers,Stoke City,1-1
--,Burnley,Stoke City,1-1
--,Charlton Athletic,Stoke City,2-0
--,Chelsea,Stoke City,1-1
--,Derby County,Stoke City,1-1
--,Everton,Stoke City,0-3
--,Fulham,Stoke City,2-0
--,Huddersfield Town,Stoke City,3-1
--,Liverpool,Stoke City,0-0
--,Manchester United,Stoke City,0-0
--,Middlesbrough,Stoke City,1-0
--,Newcastle United,Stoke City,3-1
--,Portsmouth,Stoke City,5-1
--,Sheffield Wednesday,Stoke City,1-1
--,Sunderland,Stoke City,1-1
--,Tottenham Hotspur,Stoke City,6-1
--,West Bromwich Albion,Stoke City,1-1
--,Wolverhampton Wanderers,Stoke City,2-3
--,Arsenal,Sunderland,5-1
--,Aston Villa,Sunderland,3-1
--,Blackpool,Sunderland,2-2
--,Bolton Wanderers,Sunderland,1-2
--,Burnley,Sunderland,1-1
--,Charlton Athletic,Sunderland,3-0
--,Chelsea,Sunderland,3-0
--,Derby County,Sunderland,6-5
--,Everton,Sunderland,3-1
--,Fulham,Sunderland,1-1
--,Huddersfield Town,Sunderland,3-4
--,Liverpool,Sunderland,4-0
--,Manchester United,Sunderland,3-5
--,Middlesbrough,Sunderland,1-1
--,Newcastle United,Sunderland,2-2
--,Portsmouth,Sunderland,0-0
--,Sheffield Wednesday,Sunderland,3-0
--,Stoke City,Sunderland,2-4
--,Tottenham Hotspur,Sunderland,1-1
--,West Bromwich Albion,Sunderland,3-1
--,Wolverhampton Wanderers,Sunderland,2-1
--,Arsenal,Tottenham Hotspur,2-2
--,Aston Villa,Tottenham Hotspur,2-3
--,Blackpool,Tottenham Hotspur,0-1
--,Bolton Wanderers,Tottenham Hotspur,1-4
--,Burnley,Tottenham Hotspur,2-0
--,Charlton Athletic,Tottenham Hotspur,1-1
--,Chelsea,Tottenham Hotspur,0-2
--,Derby County,Tottenham Hotspur,1-1
--,Everton,Tottenham Hotspur,1-2
--,Fulham,Tottenham Hotspur,0-1
--,Huddersfield Town,Tottenham Hotspur,3-2
--,Liverpool,Tottenham Hotspur,2-1
--,Manchester United,Tottenham Hotspur,2-1
--,Middlesbrough,Tottenham Hotspur,1-1
--,Newcastle United,Tottenham Hotspur,0-1
--,Portsmouth,Tottenham Hotspur,1-1
--,Sheffield Wednesday,Tottenham Hotspur,1-1
--,Stoke City,Tottenham Hotspur,0-0
--,Sunderland,Tottenham Hotspur,0-0
--,West Bromwich Albion,Tottenham Hotspur,1-2
--,Wolverhampton Wanderers,Tottenham Hotspur,2-1
--,Arsenal,West Bromwich Albion,3-0
--,Aston Villa,West Bromwich Albion,2-0
--,Blackpool,West Bromwich Albion,2-1
--,Bolton Wanderers,West Bromwich Albion,0-2
--,Burnley,West Bromwich Albion,0-1
--,Charlton Athletic,West Bromwich Albion,2-3
--,Chelsea,West Bromwich Albion,1-1
--,Derby County,West Bromwich Albion,1-1
--,Everton,West Bromwich Albion,0-3
--,Fulham,West Bromwich Albion,0-1
--,Huddersfield Town,West Bromwich Albion,1-2
--,Liverpool,West Bromwich Albion,1-1
--,Manchester United,West Bromwich Albion,3-0
--,Middlesbrough,West Bromwich Albion,2-1
--,Newcastle United,West Bromwich Albion,1-1
--,Portsmouth,West Bromwich Albion,2-2
--,Sheffield Wednesday,West Bromwich Albion,3-0
--,Stoke City,West Bromwich Albion,1-1
--,Sunderland,West Bromwich Albion,1-1
--,Tottenham Hotspur,West Bromwich Albion,5-0
--,Wolverhampton Wanderers,West Bromwich Albion,3-1
--,Arsenal,Wolverhampton Wanderers,2-1
--,Aston Villa,Wolverhampton Wanderers,1-0
--,Blackpool,Wolverhampton Wanderers,1-1
--,Bolton Wanderers,Wolverhampton Wanderers,2-1
--,Burnley,Wolverhampton Wanderers,2-0
--,Charlton Athletic,Wolverhampton Wanderers,3-2
--,Chelsea,Wolverhampton Wanderers,2-1
--,Derby County,Wolverhampton Wanderers,1-2
--,Everton,Wolverhampton Wanderers,1-1
--,Fulham,Wolverhampton Wanderers,2-1
--,Huddersfield Town,Wolverhampton Wanderers,1-2
--,Liverpool,Wolverhampton Wanderers,1-4
--,Manchester United,Wolverhampton Wanderers,2-1
--,Middlesbrough,Wolverhampton Wanderers,1-2
--,Newcastle United,Wolverhampton Wanderers,1-1
--,Portsmouth,Wolverhampton Wanderers,1-4
--,Sheffield Wednesday,Wolverhampton Wanderers,2-2
--,Stoke City,Wolverhampton Wanderers,0-1
--,Sunderland,Wolverhampton Wanderers,0-0
--,Tottenham Hotspur,Wolverhampton Wanderers,2-1
--,West Bromwich Albion,Wolverhampton Wanderers,3-2
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Aston Villa,Arsenal,1-1,-
+-,-,Blackpool,Arsenal,0-1,-
+-,-,Bolton Wanderers,Arsenal,3-0,-
+-,-,Burnley,Arsenal,0-1,-
+-,-,Charlton Athletic,Arsenal,1-3,-
+-,-,Chelsea,Arsenal,0-1,-
+-,-,Derby County,Arsenal,4-2,-
+-,-,Everton,Arsenal,1-1,-
+-,-,Fulham,Arsenal,3-2,-
+-,-,Huddersfield Town,Arsenal,2-2,-
+-,-,Liverpool,Arsenal,1-3,-
+-,-,Manchester United,Arsenal,3-1,-
+-,-,Middlesbrough,Arsenal,2-1,-
+-,-,Newcastle United,Arsenal,2-1,-
+-,-,Portsmouth,Arsenal,1-1,-
+-,-,Sheffield Wednesday,Arsenal,0-2,-
+-,-,Stoke City,Arsenal,1-0,-
+-,-,Sunderland,Arsenal,0-2,-
+-,-,Tottenham Hotspur,Arsenal,1-0,-
+-,-,West Bromwich Albion,Arsenal,2-0,-
+-,-,Wolverhampton Wanderers,Arsenal,0-1,-
+-,-,Arsenal,Aston Villa,2-1,-
+-,-,Blackpool,Aston Villa,1-1,-
+-,-,Bolton Wanderers,Aston Villa,1-0,-
+-,-,Burnley,Aston Villa,2-0,-
+-,-,Charlton Athletic,Aston Villa,2-2,-
+-,-,Chelsea,Aston Villa,1-1,-
+-,-,Derby County,Aston Villa,4-2,-
+-,-,Everton,Aston Villa,1-2,-
+-,-,Fulham,Aston Villa,2-1,-
+-,-,Huddersfield Town,Aston Villa,4-2,-
+-,-,Liverpool,Aston Villa,0-0,-
+-,-,Manchester United,Aston Villa,0-0,-
+-,-,Middlesbrough,Aston Villa,2-1,-
+-,-,Newcastle United,Aston Villa,0-1,-
+-,-,Portsmouth,Aston Villa,3-3,-
+-,-,Sheffield Wednesday,Aston Villa,3-2,-
+-,-,Stoke City,Aston Villa,1-0,-
+-,-,Sunderland,Aston Villa,3-3,-
+-,-,Tottenham Hotspur,Aston Villa,3-2,-
+-,-,West Bromwich Albion,Aston Villa,2-0,-
+-,-,Wolverhampton Wanderers,Aston Villa,2-3,-
+-,-,Arsenal,Blackpool,4-4,-
+-,-,Aston Villa,Blackpool,0-3,-
+-,-,Bolton Wanderers,Blackpool,1-2,-
+-,-,Burnley,Blackpool,0-0,-
+-,-,Charlton Athletic,Blackpool,2-3,-
+-,-,Chelsea,Blackpool,0-2,-
+-,-,Derby County,Blackpool,4-1,-
+-,-,Everton,Blackpool,0-2,-
+-,-,Fulham,Blackpool,2-2,-
+-,-,Huddersfield Town,Blackpool,2-1,-
+-,-,Liverpool,Blackpool,1-0,-
+-,-,Manchester United,Blackpool,1-0,-
+-,-,Middlesbrough,Blackpool,4-3,-
+-,-,Newcastle United,Blackpool,4-2,-
+-,-,Portsmouth,Blackpool,2-0,-
+-,-,Sheffield Wednesday,Blackpool,3-1,-
+-,-,Stoke City,Blackpool,1-0,-
+-,-,Sunderland,Blackpool,0-2,-
+-,-,Tottenham Hotspur,Blackpool,1-4,-
+-,-,West Bromwich Albion,Blackpool,1-3,-
+-,-,Wolverhampton Wanderers,Blackpool,1-1,-
+-,-,Arsenal,Bolton Wanderers,1-1,-
+-,-,Aston Villa,Bolton Wanderers,0-1,-
+-,-,Blackpool,Bolton Wanderers,2-0,-
+-,-,Burnley,Bolton Wanderers,2-0,-
+-,-,Charlton Athletic,Bolton Wanderers,4-3,-
+-,-,Chelsea,Bolton Wanderers,4-0,-
+-,-,Derby County,Bolton Wanderers,2-2,-
+-,-,Everton,Bolton Wanderers,1-1,-
+-,-,Fulham,Bolton Wanderers,0-1,-
+-,-,Huddersfield Town,Bolton Wanderers,0-4,-
+-,-,Liverpool,Bolton Wanderers,3-3,-
+-,-,Manchester United,Bolton Wanderers,2-3,-
+-,-,Middlesbrough,Bolton Wanderers,1-1,-
+-,-,Newcastle United,Bolton Wanderers,0-1,-
+-,-,Portsmouth,Bolton Wanderers,2-1,-
+-,-,Sheffield Wednesday,Bolton Wanderers,3-4,-
+-,-,Stoke City,Bolton Wanderers,2-1,-
+-,-,Sunderland,Bolton Wanderers,1-2,-
+-,-,Tottenham Hotspur,Bolton Wanderers,4-2,-
+-,-,West Bromwich Albion,Bolton Wanderers,0-1,-
+-,-,Wolverhampton Wanderers,Bolton Wanderers,7-1,-
+-,-,Arsenal,Burnley,0-1,-
+-,-,Aston Villa,Burnley,3-2,-
+-,-,Blackpool,Burnley,1-2,-
+-,-,Bolton Wanderers,Burnley,1-1,-
+-,-,Charlton Athletic,Burnley,0-0,-
+-,-,Chelsea,Burnley,0-2,-
+-,-,Derby County,Burnley,1-1,-
+-,-,Everton,Burnley,1-0,-
+-,-,Fulham,Burnley,4-1,-
+-,-,Huddersfield Town,Burnley,3-1,-
+-,-,Liverpool,Burnley,1-0,-
+-,-,Manchester United,Burnley,1-1,-
+-,-,Middlesbrough,Burnley,3-3,-
+-,-,Newcastle United,Burnley,2-1,-
+-,-,Portsmouth,Burnley,2-1,-
+-,-,Sheffield Wednesday,Burnley,0-1,-
+-,-,Stoke City,Burnley,0-0,-
+-,-,Sunderland,Burnley,1-1,-
+-,-,Tottenham Hotspur,Burnley,1-0,-
+-,-,West Bromwich Albion,Burnley,2-1,-
+-,-,Wolverhampton Wanderers,Burnley,0-1,-
+-,-,Arsenal,Charlton Athletic,2-5,-
+-,-,Aston Villa,Charlton Athletic,0-0,-
+-,-,Blackpool,Charlton Athletic,0-0,-
+-,-,Bolton Wanderers,Charlton Athletic,3-0,-
+-,-,Burnley,Charlton Athletic,5-1,-
+-,-,Chelsea,Charlton Athletic,2-3,-
+-,-,Derby County,Charlton Athletic,5-0,-
+-,-,Everton,Charlton Athletic,0-0,-
+-,-,Fulham,Charlton Athletic,1-3,-
+-,-,Huddersfield Town,Charlton Athletic,1-1,-
+-,-,Liverpool,Charlton Athletic,1-0,-
+-,-,Manchester United,Charlton Athletic,3-0,-
+-,-,Middlesbrough,Charlton Athletic,7-3,-
+-,-,Newcastle United,Charlton Athletic,3-2,-
+-,-,Portsmouth,Charlton Athletic,3-3,-
+-,-,Sheffield Wednesday,Charlton Athletic,1-2,-
+-,-,Stoke City,Charlton Athletic,2-0,-
+-,-,Sunderland,Charlton Athletic,4-2,-
+-,-,Tottenham Hotspur,Charlton Athletic,1-0,-
+-,-,West Bromwich Albion,Charlton Athletic,3-0,-
+-,-,Wolverhampton Wanderers,Charlton Athletic,2-3,-
+-,-,Arsenal,Chelsea,0-0,-
+-,-,Aston Villa,Chelsea,4-2,-
+-,-,Blackpool,Chelsea,3-2,-
+-,-,Bolton Wanderers,Chelsea,1-0,-
+-,-,Burnley,Chelsea,2-1,-
+-,-,Charlton Athletic,Chelsea,1-2,-
+-,-,Derby County,Chelsea,1-0,-
+-,-,Everton,Chelsea,3-0,-
+-,-,Fulham,Chelsea,1-2,-
+-,-,Huddersfield Town,Chelsea,2-1,-
+-,-,Liverpool,Chelsea,1-0,-
+-,-,Manchester United,Chelsea,4-1,-
+-,-,Middlesbrough,Chelsea,3-0,-
+-,-,Newcastle United,Chelsea,3-1,-
+-,-,Portsmouth,Chelsea,1-3,-
+-,-,Sheffield Wednesday,Chelsea,2-2,-
+-,-,Stoke City,Chelsea,2-1,-
+-,-,Sunderland,Chelsea,1-1,-
+-,-,Tottenham Hotspur,Chelsea,2-1,-
+-,-,West Bromwich Albion,Chelsea,1-1,-
+-,-,Wolverhampton Wanderers,Chelsea,2-1,-
+-,-,Arsenal,Derby County,3-1,-
+-,-,Aston Villa,Derby County,1-1,-
+-,-,Blackpool,Derby County,3-1,-
+-,-,Bolton Wanderers,Derby County,3-0,-
+-,-,Burnley,Derby County,1-0,-
+-,-,Charlton Athletic,Derby County,1-2,-
+-,-,Chelsea,Derby County,1-2,-
+-,-,Everton,Derby County,1-2,-
+-,-,Fulham,Derby County,3-5,-
+-,-,Huddersfield Town,Derby County,2-0,-
+-,-,Liverpool,Derby County,1-0,-
+-,-,Manchester United,Derby County,2-0,-
+-,-,Middlesbrough,Derby County,1-1,-
+-,-,Newcastle United,Derby County,3-1,-
+-,-,Portsmouth,Derby County,2-2,-
+-,-,Sheffield Wednesday,Derby County,4-3,-
+-,-,Stoke City,Derby County,4-1,-
+-,-,Sunderland,Derby County,1-0,-
+-,-,Tottenham Hotspur,Derby County,2-1,-
+-,-,West Bromwich Albion,Derby County,1-2,-
+-,-,Wolverhampton Wanderers,Derby County,2-3,-
+-,-,Arsenal,Everton,2-1,-
+-,-,Aston Villa,Everton,3-3,-
+-,-,Blackpool,Everton,4-0,-
+-,-,Bolton Wanderers,Everton,2-0,-
+-,-,Burnley,Everton,1-1,-
+-,-,Charlton Athletic,Everton,2-1,-
+-,-,Chelsea,Everton,2-1,-
+-,-,Derby County,Everton,0-1,-
+-,-,Fulham,Everton,1-5,-
+-,-,Huddersfield Town,Everton,1-2,-
+-,-,Liverpool,Everton,0-2,-
+-,-,Manchester United,Everton,3-0,-
+-,-,Middlesbrough,Everton,4-0,-
+-,-,Newcastle United,Everton,1-1,-
+-,-,Portsmouth,Everton,6-3,-
+-,-,Sheffield Wednesday,Everton,6-0,-
+-,-,Stoke City,Everton,2-0,-
+-,-,Sunderland,Everton,4-0,-
+-,-,Tottenham Hotspur,Everton,3-0,-
+-,-,West Bromwich Albion,Everton,0-1,-
+-,-,Wolverhampton Wanderers,Everton,4-0,-
+-,-,Arsenal,Fulham,5-1,-
+-,-,Aston Villa,Fulham,3-0,-
+-,-,Blackpool,Fulham,4-0,-
+-,-,Bolton Wanderers,Fulham,0-1,-
+-,-,Burnley,Fulham,0-2,-
+-,-,Charlton Athletic,Fulham,0-0,-
+-,-,Chelsea,Fulham,2-0,-
+-,-,Derby County,Fulham,3-2,-
+-,-,Everton,Fulham,1-0,-
+-,-,Huddersfield Town,Fulham,1-2,-
+-,-,Liverpool,Fulham,2-0,-
+-,-,Manchester United,Fulham,1-0,-
+-,-,Middlesbrough,Fulham,1-1,-
+-,-,Newcastle United,Fulham,1-2,-
+-,-,Portsmouth,Fulham,1-0,-
+-,-,Sheffield Wednesday,Fulham,2-2,-
+-,-,Stoke City,Fulham,1-1,-
+-,-,Sunderland,Fulham,0-1,-
+-,-,Tottenham Hotspur,Fulham,2-1,-
+-,-,West Bromwich Albion,Fulham,0-0,-
+-,-,Wolverhampton Wanderers,Fulham,1-1,-
+-,-,Arsenal,Huddersfield Town,6-2,-
+-,-,Aston Villa,Huddersfield Town,0-1,-
+-,-,Blackpool,Huddersfield Town,3-1,-
+-,-,Bolton Wanderers,Huddersfield Town,4-0,-
+-,-,Burnley,Huddersfield Town,0-1,-
+-,-,Charlton Athletic,Huddersfield Town,3-2,-
+-,-,Chelsea,Huddersfield Town,1-2,-
+-,-,Derby County,Huddersfield Town,3-0,-
+-,-,Everton,Huddersfield Town,3-2,-
+-,-,Fulham,Huddersfield Town,1-1,-
+-,-,Liverpool,Huddersfield Town,1-4,-
+-,-,Manchester United,Huddersfield Town,6-0,-
+-,-,Middlesbrough,Huddersfield Town,8-0,-
+-,-,Newcastle United,Huddersfield Town,6-0,-
+-,-,Portsmouth,Huddersfield Town,1-0,-
+-,-,Sheffield Wednesday,Huddersfield Town,3-2,-
+-,-,Stoke City,Huddersfield Town,0-1,-
+-,-,Sunderland,Huddersfield Town,0-0,-
+-,-,Tottenham Hotspur,Huddersfield Town,0-2,-
+-,-,West Bromwich Albion,Huddersfield Town,0-2,-
+-,-,Wolverhampton Wanderers,Huddersfield Town,3-1,-
+-,-,Arsenal,Liverpool,1-2,-
+-,-,Aston Villa,Liverpool,1-1,-
+-,-,Blackpool,Liverpool,3-0,-
+-,-,Bolton Wanderers,Liverpool,2-1,-
+-,-,Burnley,Liverpool,1-1,-
+-,-,Charlton Athletic,Liverpool,1-0,-
+-,-,Chelsea,Liverpool,1-0,-
+-,-,Derby County,Liverpool,1-2,-
+-,-,Everton,Liverpool,1-3,-
+-,-,Fulham,Liverpool,2-1,-
+-,-,Huddersfield Town,Liverpool,2-2,-
+-,-,Manchester United,Liverpool,1-0,-
+-,-,Middlesbrough,Liverpool,1-1,-
+-,-,Newcastle United,Liverpool,1-1,-
+-,-,Portsmouth,Liverpool,1-3,-
+-,-,Sheffield Wednesday,Liverpool,4-1,-
+-,-,Stoke City,Liverpool,2-3,-
+-,-,Sunderland,Liverpool,2-1,-
+-,-,Tottenham Hotspur,Liverpool,3-1,-
+-,-,West Bromwich Albion,Liverpool,1-1,-
+-,-,Wolverhampton Wanderers,Liverpool,2-0,-
+-,-,Arsenal,Manchester United,3-0,-
+-,-,Aston Villa,Manchester United,1-3,-
+-,-,Blackpool,Manchester United,1-1,-
+-,-,Bolton Wanderers,Manchester United,1-0,-
+-,-,Burnley,Manchester United,1-2,-
+-,-,Charlton Athletic,Manchester United,1-2,-
+-,-,Chelsea,Manchester United,1-0,-
+-,-,Derby County,Manchester United,2-4,-
+-,-,Everton,Manchester United,1-4,-
+-,-,Fulham,Manchester United,2-2,-
+-,-,Huddersfield Town,Manchester United,2-3,-
+-,-,Liverpool,Manchester United,2-1,-
+-,-,Middlesbrough,Manchester United,1-2,-
+-,-,Newcastle United,Manchester United,0-2,-
+-,-,Portsmouth,Manchester United,0-0,-
+-,-,Sheffield Wednesday,Manchester United,0-4,-
+-,-,Stoke City,Manchester United,2-0,-
+-,-,Sunderland,Manchester United,2-1,-
+-,-,Tottenham Hotspur,Manchester United,1-0,-
+-,-,West Bromwich Albion,Manchester United,0-1,-
+-,-,Wolverhampton Wanderers,Manchester United,0-0,-
+-,-,Arsenal,Middlesbrough,3-1,-
+-,-,Aston Villa,Middlesbrough,0-1,-
+-,-,Blackpool,Middlesbrough,2-1,-
+-,-,Bolton Wanderers,Middlesbrough,0-2,-
+-,-,Burnley,Middlesbrough,3-1,-
+-,-,Charlton Athletic,Middlesbrough,3-0,-
+-,-,Chelsea,Middlesbrough,1-1,-
+-,-,Derby County,Middlesbrough,6-0,-
+-,-,Everton,Middlesbrough,3-2,-
+-,-,Fulham,Middlesbrough,2-0,-
+-,-,Huddersfield Town,Middlesbrough,2-3,-
+-,-,Liverpool,Middlesbrough,0-0,-
+-,-,Manchester United,Middlesbrough,1-0,-
+-,-,Newcastle United,Middlesbrough,1-0,-
+-,-,Portsmouth,Middlesbrough,1-1,-
+-,-,Sheffield Wednesday,Middlesbrough,0-1,-
+-,-,Stoke City,Middlesbrough,2-0,-
+-,-,Sunderland,Middlesbrough,2-1,-
+-,-,Tottenham Hotspur,Middlesbrough,3-3,-
+-,-,West Bromwich Albion,Middlesbrough,2-3,-
+-,-,Wolverhampton Wanderers,Middlesbrough,3-4,-
+-,-,Arsenal,Newcastle United,0-0,-
+-,-,Aston Villa,Newcastle United,3-0,-
+-,-,Blackpool,Newcastle United,2-2,-
+-,-,Bolton Wanderers,Newcastle United,0-2,-
+-,-,Burnley,Newcastle United,1-1,-
+-,-,Charlton Athletic,Newcastle United,1-3,-
+-,-,Chelsea,Newcastle United,3-1,-
+-,-,Derby County,Newcastle United,1-2,-
+-,-,Everton,Newcastle United,3-1,-
+-,-,Fulham,Newcastle United,1-1,-
+-,-,Huddersfield Town,Newcastle United,0-0,-
+-,-,Liverpool,Newcastle United,2-4,-
+-,-,Manchester United,Newcastle United,1-2,-
+-,-,Middlesbrough,Newcastle United,2-1,-
+-,-,Portsmouth,Newcastle United,0-0,-
+-,-,Sheffield Wednesday,Newcastle United,0-0,-
+-,-,Stoke City,Newcastle United,1-2,-
+-,-,Sunderland,Newcastle United,2-1,-
+-,-,Tottenham Hotspur,Newcastle United,7-0,-
+-,-,West Bromwich Albion,Newcastle United,1-2,-
+-,-,Wolverhampton Wanderers,Newcastle United,0-1,-
+-,-,Arsenal,Portsmouth,0-1,-
+-,-,Aston Villa,Portsmouth,3-3,-
+-,-,Blackpool,Portsmouth,3-0,-
+-,-,Bolton Wanderers,Portsmouth,4-0,-
+-,-,Burnley,Portsmouth,1-1,-
+-,-,Charlton Athletic,Portsmouth,0-1,-
+-,-,Chelsea,Portsmouth,1-4,-
+-,-,Derby County,Portsmouth,2-3,-
+-,-,Everton,Portsmouth,1-5,-
+-,-,Fulham,Portsmouth,1-4,-
+-,-,Huddersfield Town,Portsmouth,2-1,-
+-,-,Liverpool,Portsmouth,2-1,-
+-,-,Manchester United,Portsmouth,0-0,-
+-,-,Middlesbrough,Portsmouth,3-1,-
+-,-,Newcastle United,Portsmouth,0-0,-
+-,-,Sheffield Wednesday,Portsmouth,2-1,-
+-,-,Stoke City,Portsmouth,1-2,-
+-,-,Sunderland,Portsmouth,0-0,-
+-,-,Tottenham Hotspur,Portsmouth,5-1,-
+-,-,West Bromwich Albion,Portsmouth,5-0,-
+-,-,Wolverhampton Wanderers,Portsmouth,2-3,-
+-,-,Arsenal,Sheffield Wednesday,3-0,-
+-,-,Aston Villa,Sheffield Wednesday,2-1,-
+-,-,Blackpool,Sheffield Wednesday,3-2,-
+-,-,Bolton Wanderers,Sheffield Wednesday,0-1,-
+-,-,Burnley,Sheffield Wednesday,1-0,-
+-,-,Charlton Athletic,Sheffield Wednesday,2-1,-
+-,-,Chelsea,Sheffield Wednesday,4-0,-
+-,-,Derby County,Sheffield Wednesday,4-1,-
+-,-,Everton,Sheffield Wednesday,0-0,-
+-,-,Fulham,Sheffield Wednesday,4-2,-
+-,-,Huddersfield Town,Sheffield Wednesday,3-4,-
+-,-,Liverpool,Sheffield Wednesday,2-1,-
+-,-,Manchester United,Sheffield Wednesday,3-1,-
+-,-,Middlesbrough,Sheffield Wednesday,2-1,-
+-,-,Newcastle United,Sheffield Wednesday,2-0,-
+-,-,Portsmouth,Sheffield Wednesday,4-1,-
+-,-,Stoke City,Sheffield Wednesday,1-1,-
+-,-,Sunderland,Sheffield Wednesday,5-1,-
+-,-,Tottenham Hotspur,Sheffield Wednesday,1-0,-
+-,-,West Bromwich Albion,Sheffield Wednesday,1-3,-
+-,-,Wolverhampton Wanderers,Sheffield Wednesday,4-0,-
+-,-,Arsenal,Stoke City,0-3,-
+-,-,Aston Villa,Stoke City,6-2,-
+-,-,Blackpool,Stoke City,3-0,-
+-,-,Bolton Wanderers,Stoke City,1-1,-
+-,-,Burnley,Stoke City,1-1,-
+-,-,Charlton Athletic,Stoke City,2-0,-
+-,-,Chelsea,Stoke City,1-1,-
+-,-,Derby County,Stoke City,1-1,-
+-,-,Everton,Stoke City,0-3,-
+-,-,Fulham,Stoke City,2-0,-
+-,-,Huddersfield Town,Stoke City,3-1,-
+-,-,Liverpool,Stoke City,0-0,-
+-,-,Manchester United,Stoke City,0-0,-
+-,-,Middlesbrough,Stoke City,1-0,-
+-,-,Newcastle United,Stoke City,3-1,-
+-,-,Portsmouth,Stoke City,5-1,-
+-,-,Sheffield Wednesday,Stoke City,1-1,-
+-,-,Sunderland,Stoke City,1-1,-
+-,-,Tottenham Hotspur,Stoke City,6-1,-
+-,-,West Bromwich Albion,Stoke City,1-1,-
+-,-,Wolverhampton Wanderers,Stoke City,2-3,-
+-,-,Arsenal,Sunderland,5-1,-
+-,-,Aston Villa,Sunderland,3-1,-
+-,-,Blackpool,Sunderland,2-2,-
+-,-,Bolton Wanderers,Sunderland,1-2,-
+-,-,Burnley,Sunderland,1-1,-
+-,-,Charlton Athletic,Sunderland,3-0,-
+-,-,Chelsea,Sunderland,3-0,-
+-,-,Derby County,Sunderland,6-5,-
+-,-,Everton,Sunderland,3-1,-
+-,-,Fulham,Sunderland,1-1,-
+-,-,Huddersfield Town,Sunderland,3-4,-
+-,-,Liverpool,Sunderland,4-0,-
+-,-,Manchester United,Sunderland,3-5,-
+-,-,Middlesbrough,Sunderland,1-1,-
+-,-,Newcastle United,Sunderland,2-2,-
+-,-,Portsmouth,Sunderland,0-0,-
+-,-,Sheffield Wednesday,Sunderland,3-0,-
+-,-,Stoke City,Sunderland,2-4,-
+-,-,Tottenham Hotspur,Sunderland,1-1,-
+-,-,West Bromwich Albion,Sunderland,3-1,-
+-,-,Wolverhampton Wanderers,Sunderland,2-1,-
+-,-,Arsenal,Tottenham Hotspur,2-2,-
+-,-,Aston Villa,Tottenham Hotspur,2-3,-
+-,-,Blackpool,Tottenham Hotspur,0-1,-
+-,-,Bolton Wanderers,Tottenham Hotspur,1-4,-
+-,-,Burnley,Tottenham Hotspur,2-0,-
+-,-,Charlton Athletic,Tottenham Hotspur,1-1,-
+-,-,Chelsea,Tottenham Hotspur,0-2,-
+-,-,Derby County,Tottenham Hotspur,1-1,-
+-,-,Everton,Tottenham Hotspur,1-2,-
+-,-,Fulham,Tottenham Hotspur,0-1,-
+-,-,Huddersfield Town,Tottenham Hotspur,3-2,-
+-,-,Liverpool,Tottenham Hotspur,2-1,-
+-,-,Manchester United,Tottenham Hotspur,2-1,-
+-,-,Middlesbrough,Tottenham Hotspur,1-1,-
+-,-,Newcastle United,Tottenham Hotspur,0-1,-
+-,-,Portsmouth,Tottenham Hotspur,1-1,-
+-,-,Sheffield Wednesday,Tottenham Hotspur,1-1,-
+-,-,Stoke City,Tottenham Hotspur,0-0,-
+-,-,Sunderland,Tottenham Hotspur,0-0,-
+-,-,West Bromwich Albion,Tottenham Hotspur,1-2,-
+-,-,Wolverhampton Wanderers,Tottenham Hotspur,2-1,-
+-,-,Arsenal,West Bromwich Albion,3-0,-
+-,-,Aston Villa,West Bromwich Albion,2-0,-
+-,-,Blackpool,West Bromwich Albion,2-1,-
+-,-,Bolton Wanderers,West Bromwich Albion,0-2,-
+-,-,Burnley,West Bromwich Albion,0-1,-
+-,-,Charlton Athletic,West Bromwich Albion,2-3,-
+-,-,Chelsea,West Bromwich Albion,1-1,-
+-,-,Derby County,West Bromwich Albion,1-1,-
+-,-,Everton,West Bromwich Albion,0-3,-
+-,-,Fulham,West Bromwich Albion,0-1,-
+-,-,Huddersfield Town,West Bromwich Albion,1-2,-
+-,-,Liverpool,West Bromwich Albion,1-1,-
+-,-,Manchester United,West Bromwich Albion,3-0,-
+-,-,Middlesbrough,West Bromwich Albion,2-1,-
+-,-,Newcastle United,West Bromwich Albion,1-1,-
+-,-,Portsmouth,West Bromwich Albion,2-2,-
+-,-,Sheffield Wednesday,West Bromwich Albion,3-0,-
+-,-,Stoke City,West Bromwich Albion,1-1,-
+-,-,Sunderland,West Bromwich Albion,1-1,-
+-,-,Tottenham Hotspur,West Bromwich Albion,5-0,-
+-,-,Wolverhampton Wanderers,West Bromwich Albion,3-1,-
+-,-,Arsenal,Wolverhampton Wanderers,2-1,-
+-,-,Aston Villa,Wolverhampton Wanderers,1-0,-
+-,-,Blackpool,Wolverhampton Wanderers,1-1,-
+-,-,Bolton Wanderers,Wolverhampton Wanderers,2-1,-
+-,-,Burnley,Wolverhampton Wanderers,2-0,-
+-,-,Charlton Athletic,Wolverhampton Wanderers,3-2,-
+-,-,Chelsea,Wolverhampton Wanderers,2-1,-
+-,-,Derby County,Wolverhampton Wanderers,1-2,-
+-,-,Everton,Wolverhampton Wanderers,1-1,-
+-,-,Fulham,Wolverhampton Wanderers,2-1,-
+-,-,Huddersfield Town,Wolverhampton Wanderers,1-2,-
+-,-,Liverpool,Wolverhampton Wanderers,1-4,-
+-,-,Manchester United,Wolverhampton Wanderers,2-1,-
+-,-,Middlesbrough,Wolverhampton Wanderers,1-2,-
+-,-,Newcastle United,Wolverhampton Wanderers,1-1,-
+-,-,Portsmouth,Wolverhampton Wanderers,1-4,-
+-,-,Sheffield Wednesday,Wolverhampton Wanderers,2-2,-
+-,-,Stoke City,Wolverhampton Wanderers,0-1,-
+-,-,Sunderland,Wolverhampton Wanderers,0-0,-
+-,-,Tottenham Hotspur,Wolverhampton Wanderers,2-1,-
+-,-,West Bromwich Albion,Wolverhampton Wanderers,3-2,-

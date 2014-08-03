@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Barnsley,Aston Villa,0-4
--,Blackburn Rovers,Aston Villa,3-4
--,Blackpool,Aston Villa,2-3
--,Bradford City,Aston Villa,2-2
--,Bradford Park Avenue,Aston Villa,3-3
--,Burnley,Aston Villa,1-2
--,Bury,Aston Villa,2-1
--,Chesterfield,Aston Villa,1-0
--,Coventry City,Aston Villa,1-0
--,Doncaster Rovers,Aston Villa,1-0
--,Fulham,Aston Villa,3-2
--,Leicester City,Aston Villa,1-0
--,Newcastle United,Aston Villa,0-2
--,Norwich City,Aston Villa,5-1
--,Nottingham Forest,Aston Villa,1-1
--,Plymouth Argyle,Aston Villa,2-2
--,Sheffield United,Aston Villa,5-1
--,Southampton,Aston Villa,2-2
--,Swansea City,Aston Villa,1-2
--,Tottenham Hotspur,Aston Villa,2-2
--,West Ham United,Aston Villa,2-1
--,Aston Villa,Barnsley,4-2
--,Blackburn Rovers,Barnsley,1-1
--,Blackpool,Barnsley,1-1
--,Bradford City,Barnsley,3-2
--,Bradford Park Avenue,Barnsley,2-1
--,Burnley,Barnsley,3-0
--,Bury,Barnsley,2-1
--,Chesterfield,Barnsley,2-1
--,Coventry City,Barnsley,3-0
--,Doncaster Rovers,Barnsley,0-1
--,Fulham,Barnsley,1-0
--,Leicester City,Barnsley,5-1
--,Newcastle United,Barnsley,0-1
--,Norwich City,Barnsley,0-1
--,Nottingham Forest,Barnsley,4-1
--,Plymouth Argyle,Barnsley,1-2
--,Sheffield United,Barnsley,2-0
--,Southampton,Barnsley,1-3
--,Swansea City,Barnsley,3-1
--,Tottenham Hotspur,Barnsley,3-0
--,West Ham United,Barnsley,0-0
--,Aston Villa,Blackburn Rovers,2-2
--,Barnsley,Blackburn Rovers,3-2
--,Blackpool,Blackburn Rovers,2-0
--,Bradford City,Blackburn Rovers,2-2
--,Bradford Park Avenue,Blackburn Rovers,1-2
--,Burnley,Blackburn Rovers,0-0
--,Bury,Blackburn Rovers,1-1
--,Chesterfield,Blackburn Rovers,0-4
--,Coventry City,Blackburn Rovers,0-1
--,Doncaster Rovers,Blackburn Rovers,0-1
--,Fulham,Blackburn Rovers,1-1
--,Leicester City,Blackburn Rovers,1-0
--,Newcastle United,Blackburn Rovers,2-0
--,Norwich City,Blackburn Rovers,0-0
--,Nottingham Forest,Blackburn Rovers,2-0
--,Plymouth Argyle,Blackburn Rovers,2-0
--,Sheffield United,Blackburn Rovers,0-1
--,Southampton,Blackburn Rovers,2-2
--,Swansea City,Blackburn Rovers,1-0
--,Tottenham Hotspur,Blackburn Rovers,5-1
--,West Ham United,Blackburn Rovers,3-1
--,Aston Villa,Blackpool,4-0
--,Barnsley,Blackpool,2-1
--,Blackburn Rovers,Blackpool,2-0
--,Bradford City,Blackpool,1-4
--,Bradford Park Avenue,Blackpool,2-1
--,Burnley,Blackpool,3-0
--,Bury,Blackpool,2-3
--,Chesterfield,Blackpool,0-4
--,Coventry City,Blackpool,1-2
--,Doncaster Rovers,Blackpool,0-4
--,Fulham,Blackpool,0-3
--,Leicester City,Blackpool,1-2
--,Newcastle United,Blackpool,1-2
--,Norwich City,Blackpool,1-2
--,Nottingham Forest,Blackpool,1-1
--,Plymouth Argyle,Blackpool,1-3
--,Sheffield United,Blackpool,2-2
--,Southampton,Blackpool,5-2
--,Swansea City,Blackpool,1-1
--,Tottenham Hotspur,Blackpool,1-2
--,West Ham United,Blackpool,3-0
--,Aston Villa,Bradford City,5-1
--,Barnsley,Bradford City,1-1
--,Blackburn Rovers,Bradford City,3-0
--,Blackpool,Bradford City,4-2
--,Bradford Park Avenue,Bradford City,2-1
--,Burnley,Bradford City,3-0
--,Bury,Bradford City,5-0
--,Chesterfield,Bradford City,7-1
--,Coventry City,Bradford City,3-1
--,Doncaster Rovers,Bradford City,1-1
--,Fulham,Bradford City,0-1
--,Leicester City,Bradford City,4-1
--,Newcastle United,Bradford City,2-0
--,Norwich City,Bradford City,0-0
--,Nottingham Forest,Bradford City,2-1
--,Plymouth Argyle,Bradford City,4-4
--,Sheffield United,Bradford City,3-1
--,Southampton,Bradford City,2-0
--,Swansea City,Bradford City,3-0
--,Tottenham Hotspur,Bradford City,5-1
--,West Ham United,Bradford City,4-1
--,Aston Villa,Bradford Park Avenue,4-1
--,Barnsley,Bradford Park Avenue,2-1
--,Blackburn Rovers,Bradford Park Avenue,1-1
--,Blackpool,Bradford Park Avenue,6-0
--,Bradford City,Bradford Park Avenue,2-3
--,Burnley,Bradford Park Avenue,2-2
--,Bury,Bradford Park Avenue,3-1
--,Chesterfield,Bradford Park Avenue,4-2
--,Coventry City,Bradford Park Avenue,4-0
--,Doncaster Rovers,Bradford Park Avenue,1-3
--,Fulham,Bradford Park Avenue,0-0
--,Leicester City,Bradford Park Avenue,5-0
--,Newcastle United,Bradford Park Avenue,1-1
--,Norwich City,Bradford Park Avenue,3-1
--,Nottingham Forest,Bradford Park Avenue,3-2
--,Plymouth Argyle,Bradford Park Avenue,2-0
--,Sheffield United,Bradford Park Avenue,3-0
--,Southampton,Bradford Park Avenue,0-0
--,Swansea City,Bradford Park Avenue,3-0
--,Tottenham Hotspur,Bradford Park Avenue,5-1
--,West Ham United,Bradford Park Avenue,1-0
--,Aston Villa,Burnley,0-0
--,Barnsley,Burnley,1-1
--,Blackburn Rovers,Burnley,3-1
--,Blackpool,Burnley,2-0
--,Bradford City,Burnley,1-3
--,Bradford Park Avenue,Burnley,2-0
--,Bury,Burnley,3-1
--,Chesterfield,Burnley,4-1
--,Coventry City,Burnley,0-1
--,Doncaster Rovers,Burnley,2-0
--,Fulham,Burnley,2-0
--,Leicester City,Burnley,7-3
--,Newcastle United,Burnley,3-0
--,Norwich City,Burnley,2-2
--,Nottingham Forest,Burnley,1-2
--,Plymouth Argyle,Burnley,0-1
--,Sheffield United,Burnley,1-1
--,Southampton,Burnley,1-1
--,Swansea City,Burnley,3-0
--,Tottenham Hotspur,Burnley,3-0
--,West Ham United,Burnley,0-2
--,Aston Villa,Bury,0-4
--,Barnsley,Bury,2-2
--,Blackburn Rovers,Bury,2-3
--,Blackpool,Bury,1-2
--,Bradford City,Bury,0-1
--,Bradford Park Avenue,Bury,0-1
--,Burnley,Bury,1-2
--,Chesterfield,Bury,1-1
--,Coventry City,Bury,1-3
--,Doncaster Rovers,Bury,1-0
--,Fulham,Bury,1-1
--,Leicester City,Bury,0-3
--,Newcastle United,Bury,1-3
--,Norwich City,Bury,0-0
--,Nottingham Forest,Bury,1-0
--,Plymouth Argyle,Bury,3-0
--,Sheffield United,Bury,1-0
--,Southampton,Bury,4-1
--,Swansea City,Bury,2-0
--,Tottenham Hotspur,Bury,2-0
--,West Ham United,Bury,5-1
--,Aston Villa,Chesterfield,6-2
--,Barnsley,Chesterfield,1-1
--,Blackburn Rovers,Chesterfield,5-2
--,Blackpool,Chesterfield,0-1
--,Bradford City,Chesterfield,2-2
--,Bradford Park Avenue,Chesterfield,4-5
--,Burnley,Chesterfield,3-1
--,Bury,Chesterfield,4-0
--,Coventry City,Chesterfield,2-1
--,Doncaster Rovers,Chesterfield,0-4
--,Fulham,Chesterfield,1-0
--,Leicester City,Chesterfield,3-1
--,Newcastle United,Chesterfield,1-2
--,Norwich City,Chesterfield,2-0
--,Nottingham Forest,Chesterfield,2-2
--,Plymouth Argyle,Chesterfield,1-1
--,Sheffield United,Chesterfield,5-0
--,Southampton,Chesterfield,3-2
--,Swansea City,Chesterfield,4-1
--,Tottenham Hotspur,Chesterfield,5-1
--,West Ham United,Chesterfield,1-1
--,Aston Villa,Coventry City,0-0
--,Barnsley,Coventry City,3-0
--,Blackburn Rovers,Coventry City,2-5
--,Blackpool,Coventry City,3-0
--,Bradford City,Coventry City,1-0
--,Bradford Park Avenue,Coventry City,1-3
--,Burnley,Coventry City,3-3
--,Bury,Coventry City,0-4
--,Chesterfield,Coventry City,2-3
--,Doncaster Rovers,Coventry City,1-1
--,Fulham,Coventry City,0-2
--,Leicester City,Coventry City,1-0
--,Newcastle United,Coventry City,4-2
--,Norwich City,Coventry City,0-3
--,Nottingham Forest,Coventry City,1-1
--,Plymouth Argyle,Coventry City,1-0
--,Sheffield United,Coventry City,2-2
--,Southampton,Coventry City,1-1
--,Swansea City,Coventry City,2-0
--,Tottenham Hotspur,Coventry City,3-1
--,West Ham United,Coventry City,4-0
--,Aston Villa,Doncaster Rovers,1-1
--,Barnsley,Doncaster Rovers,4-1
--,Blackburn Rovers,Doncaster Rovers,2-0
--,Blackpool,Doncaster Rovers,1-1
--,Bradford City,Doncaster Rovers,0-0
--,Bradford Park Avenue,Doncaster Rovers,1-0
--,Burnley,Doncaster Rovers,3-0
--,Bury,Doncaster Rovers,4-2
--,Chesterfield,Doncaster Rovers,5-1
--,Coventry City,Doncaster Rovers,1-1
--,Fulham,Doncaster Rovers,1-0
--,Leicester City,Doncaster Rovers,7-1
--,Newcastle United,Doncaster Rovers,7-0
--,Norwich City,Doncaster Rovers,2-1
--,Nottingham Forest,Doncaster Rovers,2-1
--,Plymouth Argyle,Doncaster Rovers,7-0
--,Sheffield United,Doncaster Rovers,3-1
--,Southampton,Doncaster Rovers,1-0
--,Swansea City,Doncaster Rovers,0-1
--,Tottenham Hotspur,Doncaster Rovers,2-0
--,West Ham United,Doncaster Rovers,1-0
--,Aston Villa,Fulham,0-3
--,Barnsley,Fulham,1-0
--,Blackburn Rovers,Fulham,0-2
--,Blackpool,Fulham,3-1
--,Bradford City,Fulham,1-1
--,Bradford Park Avenue,Fulham,1-1
--,Burnley,Fulham,0-2
--,Bury,Fulham,1-1
--,Chesterfield,Fulham,4-1
--,Coventry City,Fulham,1-1
--,Doncaster Rovers,Fulham,2-1
--,Leicester City,Fulham,2-0
--,Newcastle United,Fulham,1-1
--,Norwich City,Fulham,3-0
--,Nottingham Forest,Fulham,5-3
--,Plymouth Argyle,Fulham,0-3
--,Sheffield United,Fulham,2-0
--,Southampton,Fulham,3-3
--,Swansea City,Fulham,3-0
--,Tottenham Hotspur,Fulham,1-1
--,West Ham United,Fulham,3-3
--,Aston Villa,Leicester City,1-3
--,Barnsley,Leicester City,1-2
--,Blackburn Rovers,Leicester City,0-0
--,Blackpool,Leicester City,6-2
--,Bradford City,Leicester City,1-2
--,Bradford Park Avenue,Leicester City,1-2
--,Burnley,Leicester City,0-0
--,Bury,Leicester City,0-1
--,Chesterfield,Leicester City,2-5
--,Coventry City,Leicester City,0-2
--,Doncaster Rovers,Leicester City,0-0
--,Fulham,Leicester City,2-0
--,Newcastle United,Leicester City,1-0
--,Norwich City,Leicester City,1-2
--,Nottingham Forest,Leicester City,0-3
--,Plymouth Argyle,Leicester City,2-1
--,Sheffield United,Leicester City,3-1
--,Southampton,Leicester City,1-1
--,Swansea City,Leicester City,1-3
--,Tottenham Hotspur,Leicester City,4-2
--,West Ham United,Leicester City,4-1
--,Aston Villa,Newcastle United,0-2
--,Barnsley,Newcastle United,1-0
--,Blackburn Rovers,Newcastle United,6-1
--,Blackpool,Newcastle United,3-0
--,Bradford City,Newcastle United,2-0
--,Bradford Park Avenue,Newcastle United,0-3
--,Burnley,Newcastle United,0-3
--,Bury,Newcastle United,1-2
--,Chesterfield,Newcastle United,4-0
--,Coventry City,Newcastle United,2-2
--,Doncaster Rovers,Newcastle United,1-2
--,Fulham,Newcastle United,3-4
--,Leicester City,Newcastle United,3-2
--,Norwich City,Newcastle United,1-5
--,Nottingham Forest,Newcastle United,0-2
--,Plymouth Argyle,Newcastle United,1-1
--,Sheffield United,Newcastle United,2-1
--,Southampton,Newcastle United,2-0
--,Swansea City,Newcastle United,1-2
--,Tottenham Hotspur,Newcastle United,0-1
--,West Ham United,Newcastle United,0-2
--,Aston Villa,Norwich City,3-0
--,Barnsley,Norwich City,2-1
--,Blackburn Rovers,Norwich City,1-0
--,Blackpool,Norwich City,0-2
--,Bradford City,Norwich City,2-0
--,Bradford Park Avenue,Norwich City,1-0
--,Burnley,Norwich City,3-0
--,Bury,Norwich City,3-2
--,Chesterfield,Norwich City,3-1
--,Coventry City,Norwich City,1-1
--,Doncaster Rovers,Norwich City,1-2
--,Fulham,Norwich City,2-3
--,Leicester City,Norwich City,2-2
--,Newcastle United,Norwich City,0-1
--,Nottingham Forest,Norwich City,3-4
--,Plymouth Argyle,Norwich City,2-0
--,Sheffield United,Norwich City,2-0
--,Southampton,Norwich City,3-1
--,Swansea City,Norwich City,2-1
--,Tottenham Hotspur,Norwich City,2-3
--,West Ham United,Norwich City,4-1
--,Aston Villa,Nottingham Forest,1-1
--,Barnsley,Nottingham Forest,1-0
--,Blackburn Rovers,Nottingham Forest,9-1
--,Blackpool,Nottingham Forest,7-1
--,Bradford City,Nottingham Forest,2-1
--,Bradford Park Avenue,Nottingham Forest,3-2
--,Burnley,Nottingham Forest,3-0
--,Bury,Nottingham Forest,1-1
--,Chesterfield,Nottingham Forest,4-2
--,Coventry City,Nottingham Forest,2-2
--,Doncaster Rovers,Nottingham Forest,0-2
--,Fulham,Nottingham Forest,5-2
--,Leicester City,Nottingham Forest,2-1
--,Newcastle United,Nottingham Forest,3-2
--,Norwich City,Nottingham Forest,4-0
--,Plymouth Argyle,Nottingham Forest,4-1
--,Sheffield United,Nottingham Forest,4-1
--,Southampton,Nottingham Forest,0-3
--,Swansea City,Nottingham Forest,1-0
--,Tottenham Hotspur,Nottingham Forest,2-1
--,West Ham United,Nottingham Forest,2-2
--,Aston Villa,Plymouth Argyle,5-4
--,Barnsley,Plymouth Argyle,1-3
--,Blackburn Rovers,Plymouth Argyle,2-3
--,Blackpool,Plymouth Argyle,1-1
--,Bradford City,Plymouth Argyle,1-1
--,Bradford Park Avenue,Plymouth Argyle,0-0
--,Burnley,Plymouth Argyle,2-0
--,Bury,Plymouth Argyle,2-0
--,Chesterfield,Plymouth Argyle,0-1
--,Coventry City,Plymouth Argyle,2-0
--,Doncaster Rovers,Plymouth Argyle,2-1
--,Fulham,Plymouth Argyle,2-2
--,Leicester City,Plymouth Argyle,3-2
--,Newcastle United,Plymouth Argyle,1-1
--,Norwich City,Plymouth Argyle,1-2
--,Nottingham Forest,Plymouth Argyle,2-3
--,Sheffield United,Plymouth Argyle,2-0
--,Southampton,Plymouth Argyle,0-0
--,Swansea City,Plymouth Argyle,0-1
--,Tottenham Hotspur,Plymouth Argyle,1-3
--,West Ham United,Plymouth Argyle,1-1
--,Aston Villa,Sheffield United,2-1
--,Barnsley,Sheffield United,1-1
--,Blackburn Rovers,Sheffield United,3-1
--,Blackpool,Sheffield United,1-0
--,Bradford City,Sheffield United,3-2
--,Bradford Park Avenue,Sheffield United,0-3
--,Burnley,Sheffield United,1-0
--,Bury,Sheffield United,2-0
--,Chesterfield,Sheffield United,2-2
--,Coventry City,Sheffield United,2-0
--,Doncaster Rovers,Sheffield United,1-1
--,Fulham,Sheffield United,4-0
--,Leicester City,Sheffield United,1-2
--,Newcastle United,Sheffield United,4-0
--,Norwich City,Sheffield United,1-1
--,Nottingham Forest,Sheffield United,1-1
--,Plymouth Argyle,Sheffield United,2-0
--,Southampton,Sheffield United,4-0
--,Swansea City,Sheffield United,2-1
--,Tottenham Hotspur,Sheffield United,2-2
--,West Ham United,Sheffield United,1-0
--,Aston Villa,Southampton,4-0
--,Barnsley,Southampton,2-1
--,Blackburn Rovers,Southampton,1-0
--,Blackpool,Southampton,2-0
--,Bradford City,Southampton,2-2
--,Bradford Park Avenue,Southampton,3-1
--,Burnley,Southampton,1-3
--,Bury,Southampton,2-1
--,Chesterfield,Southampton,3-0
--,Coventry City,Southampton,2-0
--,Doncaster Rovers,Southampton,2-0
--,Fulham,Southampton,2-0
--,Leicester City,Southampton,2-2
--,Newcastle United,Southampton,3-0
--,Norwich City,Southampton,4-2
--,Nottingham Forest,Southampton,1-1
--,Plymouth Argyle,Southampton,3-1
--,Sheffield United,Southampton,0-0
--,Swansea City,Southampton,5-1
--,Tottenham Hotspur,Southampton,4-0
--,West Ham United,Southampton,4-0
--,Aston Villa,Swansea City,4-0
--,Barnsley,Swansea City,0-1
--,Blackburn Rovers,Swansea City,2-1
--,Blackpool,Swansea City,3-2
--,Bradford City,Swansea City,4-0
--,Bradford Park Avenue,Swansea City,1-1
--,Burnley,Swansea City,0-0
--,Bury,Swansea City,2-0
--,Chesterfield,Swansea City,4-0
--,Coventry City,Swansea City,2-1
--,Doncaster Rovers,Swansea City,0-0
--,Fulham,Swansea City,5-0
--,Leicester City,Swansea City,0-0
--,Newcastle United,Swansea City,5-1
--,Norwich City,Swansea City,3-0
--,Nottingham Forest,Swansea City,6-1
--,Plymouth Argyle,Swansea City,0-0
--,Sheffield United,Swansea City,1-0
--,Southampton,Swansea City,2-1
--,Tottenham Hotspur,Swansea City,3-1
--,West Ham United,Swansea City,2-0
--,Aston Villa,Tottenham Hotspur,1-1
--,Barnsley,Tottenham Hotspur,1-0
--,Blackburn Rovers,Tottenham Hotspur,0-4
--,Blackpool,Tottenham Hotspur,0-0
--,Bradford City,Tottenham Hotspur,2-2
--,Bradford Park Avenue,Tottenham Hotspur,3-2
--,Burnley,Tottenham Hotspur,3-1
--,Bury,Tottenham Hotspur,5-3
--,Chesterfield,Tottenham Hotspur,1-3
--,Coventry City,Tottenham Hotspur,1-0
--,Doncaster Rovers,Tottenham Hotspur,1-1
--,Fulham,Tottenham Hotspur,3-3
--,Leicester City,Tottenham Hotspur,4-1
--,Newcastle United,Tottenham Hotspur,0-1
--,Norwich City,Tottenham Hotspur,2-3
--,Nottingham Forest,Tottenham Hotspur,3-0
--,Plymouth Argyle,Tottenham Hotspur,2-2
--,Sheffield United,Tottenham Hotspur,3-2
--,Southampton,Tottenham Hotspur,1-0
--,Swansea City,Tottenham Hotspur,2-1
--,West Ham United,Tottenham Hotspur,2-1
--,Aston Villa,West Ham United,0-2
--,Barnsley,West Ham United,0-0
--,Blackburn Rovers,West Ham United,1-2
--,Blackpool,West Ham United,1-0
--,Bradford City,West Ham United,2-1
--,Bradford Park Avenue,West Ham United,2-1
--,Burnley,West Ham United,2-1
--,Bury,West Ham United,1-1
--,Chesterfield,West Ham United,1-1
--,Coventry City,West Ham United,4-0
--,Doncaster Rovers,West Ham United,1-4
--,Fulham,West Ham United,5-0
--,Leicester City,West Ham United,2-2
--,Newcastle United,West Ham United,5-3
--,Norwich City,West Ham United,3-3
--,Nottingham Forest,West Ham United,1-0
--,Plymouth Argyle,West Ham United,2-0
--,Sheffield United,West Ham United,2-0
--,Southampton,West Ham United,0-2
--,Swansea City,West Ham United,0-0
--,Tottenham Hotspur,West Ham United,2-3
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Barnsley,Aston Villa,0-4,-
+-,-,Blackburn Rovers,Aston Villa,3-4,-
+-,-,Blackpool,Aston Villa,2-3,-
+-,-,Bradford City,Aston Villa,2-2,-
+-,-,Bradford Park Avenue,Aston Villa,3-3,-
+-,-,Burnley,Aston Villa,1-2,-
+-,-,Bury,Aston Villa,2-1,-
+-,-,Chesterfield,Aston Villa,1-0,-
+-,-,Coventry City,Aston Villa,1-0,-
+-,-,Doncaster Rovers,Aston Villa,1-0,-
+-,-,Fulham,Aston Villa,3-2,-
+-,-,Leicester City,Aston Villa,1-0,-
+-,-,Newcastle United,Aston Villa,0-2,-
+-,-,Norwich City,Aston Villa,5-1,-
+-,-,Nottingham Forest,Aston Villa,1-1,-
+-,-,Plymouth Argyle,Aston Villa,2-2,-
+-,-,Sheffield United,Aston Villa,5-1,-
+-,-,Southampton,Aston Villa,2-2,-
+-,-,Swansea City,Aston Villa,1-2,-
+-,-,Tottenham Hotspur,Aston Villa,2-2,-
+-,-,West Ham United,Aston Villa,2-1,-
+-,-,Aston Villa,Barnsley,4-2,-
+-,-,Blackburn Rovers,Barnsley,1-1,-
+-,-,Blackpool,Barnsley,1-1,-
+-,-,Bradford City,Barnsley,3-2,-
+-,-,Bradford Park Avenue,Barnsley,2-1,-
+-,-,Burnley,Barnsley,3-0,-
+-,-,Bury,Barnsley,2-1,-
+-,-,Chesterfield,Barnsley,2-1,-
+-,-,Coventry City,Barnsley,3-0,-
+-,-,Doncaster Rovers,Barnsley,0-1,-
+-,-,Fulham,Barnsley,1-0,-
+-,-,Leicester City,Barnsley,5-1,-
+-,-,Newcastle United,Barnsley,0-1,-
+-,-,Norwich City,Barnsley,0-1,-
+-,-,Nottingham Forest,Barnsley,4-1,-
+-,-,Plymouth Argyle,Barnsley,1-2,-
+-,-,Sheffield United,Barnsley,2-0,-
+-,-,Southampton,Barnsley,1-3,-
+-,-,Swansea City,Barnsley,3-1,-
+-,-,Tottenham Hotspur,Barnsley,3-0,-
+-,-,West Ham United,Barnsley,0-0,-
+-,-,Aston Villa,Blackburn Rovers,2-2,-
+-,-,Barnsley,Blackburn Rovers,3-2,-
+-,-,Blackpool,Blackburn Rovers,2-0,-
+-,-,Bradford City,Blackburn Rovers,2-2,-
+-,-,Bradford Park Avenue,Blackburn Rovers,1-2,-
+-,-,Burnley,Blackburn Rovers,0-0,-
+-,-,Bury,Blackburn Rovers,1-1,-
+-,-,Chesterfield,Blackburn Rovers,0-4,-
+-,-,Coventry City,Blackburn Rovers,0-1,-
+-,-,Doncaster Rovers,Blackburn Rovers,0-1,-
+-,-,Fulham,Blackburn Rovers,1-1,-
+-,-,Leicester City,Blackburn Rovers,1-0,-
+-,-,Newcastle United,Blackburn Rovers,2-0,-
+-,-,Norwich City,Blackburn Rovers,0-0,-
+-,-,Nottingham Forest,Blackburn Rovers,2-0,-
+-,-,Plymouth Argyle,Blackburn Rovers,2-0,-
+-,-,Sheffield United,Blackburn Rovers,0-1,-
+-,-,Southampton,Blackburn Rovers,2-2,-
+-,-,Swansea City,Blackburn Rovers,1-0,-
+-,-,Tottenham Hotspur,Blackburn Rovers,5-1,-
+-,-,West Ham United,Blackburn Rovers,3-1,-
+-,-,Aston Villa,Blackpool,4-0,-
+-,-,Barnsley,Blackpool,2-1,-
+-,-,Blackburn Rovers,Blackpool,2-0,-
+-,-,Bradford City,Blackpool,1-4,-
+-,-,Bradford Park Avenue,Blackpool,2-1,-
+-,-,Burnley,Blackpool,3-0,-
+-,-,Bury,Blackpool,2-3,-
+-,-,Chesterfield,Blackpool,0-4,-
+-,-,Coventry City,Blackpool,1-2,-
+-,-,Doncaster Rovers,Blackpool,0-4,-
+-,-,Fulham,Blackpool,0-3,-
+-,-,Leicester City,Blackpool,1-2,-
+-,-,Newcastle United,Blackpool,1-2,-
+-,-,Norwich City,Blackpool,1-2,-
+-,-,Nottingham Forest,Blackpool,1-1,-
+-,-,Plymouth Argyle,Blackpool,1-3,-
+-,-,Sheffield United,Blackpool,2-2,-
+-,-,Southampton,Blackpool,5-2,-
+-,-,Swansea City,Blackpool,1-1,-
+-,-,Tottenham Hotspur,Blackpool,1-2,-
+-,-,West Ham United,Blackpool,3-0,-
+-,-,Aston Villa,Bradford City,5-1,-
+-,-,Barnsley,Bradford City,1-1,-
+-,-,Blackburn Rovers,Bradford City,3-0,-
+-,-,Blackpool,Bradford City,4-2,-
+-,-,Bradford Park Avenue,Bradford City,2-1,-
+-,-,Burnley,Bradford City,3-0,-
+-,-,Bury,Bradford City,5-0,-
+-,-,Chesterfield,Bradford City,7-1,-
+-,-,Coventry City,Bradford City,3-1,-
+-,-,Doncaster Rovers,Bradford City,1-1,-
+-,-,Fulham,Bradford City,0-1,-
+-,-,Leicester City,Bradford City,4-1,-
+-,-,Newcastle United,Bradford City,2-0,-
+-,-,Norwich City,Bradford City,0-0,-
+-,-,Nottingham Forest,Bradford City,2-1,-
+-,-,Plymouth Argyle,Bradford City,4-4,-
+-,-,Sheffield United,Bradford City,3-1,-
+-,-,Southampton,Bradford City,2-0,-
+-,-,Swansea City,Bradford City,3-0,-
+-,-,Tottenham Hotspur,Bradford City,5-1,-
+-,-,West Ham United,Bradford City,4-1,-
+-,-,Aston Villa,Bradford Park Avenue,4-1,-
+-,-,Barnsley,Bradford Park Avenue,2-1,-
+-,-,Blackburn Rovers,Bradford Park Avenue,1-1,-
+-,-,Blackpool,Bradford Park Avenue,6-0,-
+-,-,Bradford City,Bradford Park Avenue,2-3,-
+-,-,Burnley,Bradford Park Avenue,2-2,-
+-,-,Bury,Bradford Park Avenue,3-1,-
+-,-,Chesterfield,Bradford Park Avenue,4-2,-
+-,-,Coventry City,Bradford Park Avenue,4-0,-
+-,-,Doncaster Rovers,Bradford Park Avenue,1-3,-
+-,-,Fulham,Bradford Park Avenue,0-0,-
+-,-,Leicester City,Bradford Park Avenue,5-0,-
+-,-,Newcastle United,Bradford Park Avenue,1-1,-
+-,-,Norwich City,Bradford Park Avenue,3-1,-
+-,-,Nottingham Forest,Bradford Park Avenue,3-2,-
+-,-,Plymouth Argyle,Bradford Park Avenue,2-0,-
+-,-,Sheffield United,Bradford Park Avenue,3-0,-
+-,-,Southampton,Bradford Park Avenue,0-0,-
+-,-,Swansea City,Bradford Park Avenue,3-0,-
+-,-,Tottenham Hotspur,Bradford Park Avenue,5-1,-
+-,-,West Ham United,Bradford Park Avenue,1-0,-
+-,-,Aston Villa,Burnley,0-0,-
+-,-,Barnsley,Burnley,1-1,-
+-,-,Blackburn Rovers,Burnley,3-1,-
+-,-,Blackpool,Burnley,2-0,-
+-,-,Bradford City,Burnley,1-3,-
+-,-,Bradford Park Avenue,Burnley,2-0,-
+-,-,Bury,Burnley,3-1,-
+-,-,Chesterfield,Burnley,4-1,-
+-,-,Coventry City,Burnley,0-1,-
+-,-,Doncaster Rovers,Burnley,2-0,-
+-,-,Fulham,Burnley,2-0,-
+-,-,Leicester City,Burnley,7-3,-
+-,-,Newcastle United,Burnley,3-0,-
+-,-,Norwich City,Burnley,2-2,-
+-,-,Nottingham Forest,Burnley,1-2,-
+-,-,Plymouth Argyle,Burnley,0-1,-
+-,-,Sheffield United,Burnley,1-1,-
+-,-,Southampton,Burnley,1-1,-
+-,-,Swansea City,Burnley,3-0,-
+-,-,Tottenham Hotspur,Burnley,3-0,-
+-,-,West Ham United,Burnley,0-2,-
+-,-,Aston Villa,Bury,0-4,-
+-,-,Barnsley,Bury,2-2,-
+-,-,Blackburn Rovers,Bury,2-3,-
+-,-,Blackpool,Bury,1-2,-
+-,-,Bradford City,Bury,0-1,-
+-,-,Bradford Park Avenue,Bury,0-1,-
+-,-,Burnley,Bury,1-2,-
+-,-,Chesterfield,Bury,1-1,-
+-,-,Coventry City,Bury,1-3,-
+-,-,Doncaster Rovers,Bury,1-0,-
+-,-,Fulham,Bury,1-1,-
+-,-,Leicester City,Bury,0-3,-
+-,-,Newcastle United,Bury,1-3,-
+-,-,Norwich City,Bury,0-0,-
+-,-,Nottingham Forest,Bury,1-0,-
+-,-,Plymouth Argyle,Bury,3-0,-
+-,-,Sheffield United,Bury,1-0,-
+-,-,Southampton,Bury,4-1,-
+-,-,Swansea City,Bury,2-0,-
+-,-,Tottenham Hotspur,Bury,2-0,-
+-,-,West Ham United,Bury,5-1,-
+-,-,Aston Villa,Chesterfield,6-2,-
+-,-,Barnsley,Chesterfield,1-1,-
+-,-,Blackburn Rovers,Chesterfield,5-2,-
+-,-,Blackpool,Chesterfield,0-1,-
+-,-,Bradford City,Chesterfield,2-2,-
+-,-,Bradford Park Avenue,Chesterfield,4-5,-
+-,-,Burnley,Chesterfield,3-1,-
+-,-,Bury,Chesterfield,4-0,-
+-,-,Coventry City,Chesterfield,2-1,-
+-,-,Doncaster Rovers,Chesterfield,0-4,-
+-,-,Fulham,Chesterfield,1-0,-
+-,-,Leicester City,Chesterfield,3-1,-
+-,-,Newcastle United,Chesterfield,1-2,-
+-,-,Norwich City,Chesterfield,2-0,-
+-,-,Nottingham Forest,Chesterfield,2-2,-
+-,-,Plymouth Argyle,Chesterfield,1-1,-
+-,-,Sheffield United,Chesterfield,5-0,-
+-,-,Southampton,Chesterfield,3-2,-
+-,-,Swansea City,Chesterfield,4-1,-
+-,-,Tottenham Hotspur,Chesterfield,5-1,-
+-,-,West Ham United,Chesterfield,1-1,-
+-,-,Aston Villa,Coventry City,0-0,-
+-,-,Barnsley,Coventry City,3-0,-
+-,-,Blackburn Rovers,Coventry City,2-5,-
+-,-,Blackpool,Coventry City,3-0,-
+-,-,Bradford City,Coventry City,1-0,-
+-,-,Bradford Park Avenue,Coventry City,1-3,-
+-,-,Burnley,Coventry City,3-3,-
+-,-,Bury,Coventry City,0-4,-
+-,-,Chesterfield,Coventry City,2-3,-
+-,-,Doncaster Rovers,Coventry City,1-1,-
+-,-,Fulham,Coventry City,0-2,-
+-,-,Leicester City,Coventry City,1-0,-
+-,-,Newcastle United,Coventry City,4-2,-
+-,-,Norwich City,Coventry City,0-3,-
+-,-,Nottingham Forest,Coventry City,1-1,-
+-,-,Plymouth Argyle,Coventry City,1-0,-
+-,-,Sheffield United,Coventry City,2-2,-
+-,-,Southampton,Coventry City,1-1,-
+-,-,Swansea City,Coventry City,2-0,-
+-,-,Tottenham Hotspur,Coventry City,3-1,-
+-,-,West Ham United,Coventry City,4-0,-
+-,-,Aston Villa,Doncaster Rovers,1-1,-
+-,-,Barnsley,Doncaster Rovers,4-1,-
+-,-,Blackburn Rovers,Doncaster Rovers,2-0,-
+-,-,Blackpool,Doncaster Rovers,1-1,-
+-,-,Bradford City,Doncaster Rovers,0-0,-
+-,-,Bradford Park Avenue,Doncaster Rovers,1-0,-
+-,-,Burnley,Doncaster Rovers,3-0,-
+-,-,Bury,Doncaster Rovers,4-2,-
+-,-,Chesterfield,Doncaster Rovers,5-1,-
+-,-,Coventry City,Doncaster Rovers,1-1,-
+-,-,Fulham,Doncaster Rovers,1-0,-
+-,-,Leicester City,Doncaster Rovers,7-1,-
+-,-,Newcastle United,Doncaster Rovers,7-0,-
+-,-,Norwich City,Doncaster Rovers,2-1,-
+-,-,Nottingham Forest,Doncaster Rovers,2-1,-
+-,-,Plymouth Argyle,Doncaster Rovers,7-0,-
+-,-,Sheffield United,Doncaster Rovers,3-1,-
+-,-,Southampton,Doncaster Rovers,1-0,-
+-,-,Swansea City,Doncaster Rovers,0-1,-
+-,-,Tottenham Hotspur,Doncaster Rovers,2-0,-
+-,-,West Ham United,Doncaster Rovers,1-0,-
+-,-,Aston Villa,Fulham,0-3,-
+-,-,Barnsley,Fulham,1-0,-
+-,-,Blackburn Rovers,Fulham,0-2,-
+-,-,Blackpool,Fulham,3-1,-
+-,-,Bradford City,Fulham,1-1,-
+-,-,Bradford Park Avenue,Fulham,1-1,-
+-,-,Burnley,Fulham,0-2,-
+-,-,Bury,Fulham,1-1,-
+-,-,Chesterfield,Fulham,4-1,-
+-,-,Coventry City,Fulham,1-1,-
+-,-,Doncaster Rovers,Fulham,2-1,-
+-,-,Leicester City,Fulham,2-0,-
+-,-,Newcastle United,Fulham,1-1,-
+-,-,Norwich City,Fulham,3-0,-
+-,-,Nottingham Forest,Fulham,5-3,-
+-,-,Plymouth Argyle,Fulham,0-3,-
+-,-,Sheffield United,Fulham,2-0,-
+-,-,Southampton,Fulham,3-3,-
+-,-,Swansea City,Fulham,3-0,-
+-,-,Tottenham Hotspur,Fulham,1-1,-
+-,-,West Ham United,Fulham,3-3,-
+-,-,Aston Villa,Leicester City,1-3,-
+-,-,Barnsley,Leicester City,1-2,-
+-,-,Blackburn Rovers,Leicester City,0-0,-
+-,-,Blackpool,Leicester City,6-2,-
+-,-,Bradford City,Leicester City,1-2,-
+-,-,Bradford Park Avenue,Leicester City,1-2,-
+-,-,Burnley,Leicester City,0-0,-
+-,-,Bury,Leicester City,0-1,-
+-,-,Chesterfield,Leicester City,2-5,-
+-,-,Coventry City,Leicester City,0-2,-
+-,-,Doncaster Rovers,Leicester City,0-0,-
+-,-,Fulham,Leicester City,2-0,-
+-,-,Newcastle United,Leicester City,1-0,-
+-,-,Norwich City,Leicester City,1-2,-
+-,-,Nottingham Forest,Leicester City,0-3,-
+-,-,Plymouth Argyle,Leicester City,2-1,-
+-,-,Sheffield United,Leicester City,3-1,-
+-,-,Southampton,Leicester City,1-1,-
+-,-,Swansea City,Leicester City,1-3,-
+-,-,Tottenham Hotspur,Leicester City,4-2,-
+-,-,West Ham United,Leicester City,4-1,-
+-,-,Aston Villa,Newcastle United,0-2,-
+-,-,Barnsley,Newcastle United,1-0,-
+-,-,Blackburn Rovers,Newcastle United,6-1,-
+-,-,Blackpool,Newcastle United,3-0,-
+-,-,Bradford City,Newcastle United,2-0,-
+-,-,Bradford Park Avenue,Newcastle United,0-3,-
+-,-,Burnley,Newcastle United,0-3,-
+-,-,Bury,Newcastle United,1-2,-
+-,-,Chesterfield,Newcastle United,4-0,-
+-,-,Coventry City,Newcastle United,2-2,-
+-,-,Doncaster Rovers,Newcastle United,1-2,-
+-,-,Fulham,Newcastle United,3-4,-
+-,-,Leicester City,Newcastle United,3-2,-
+-,-,Norwich City,Newcastle United,1-5,-
+-,-,Nottingham Forest,Newcastle United,0-2,-
+-,-,Plymouth Argyle,Newcastle United,1-1,-
+-,-,Sheffield United,Newcastle United,2-1,-
+-,-,Southampton,Newcastle United,2-0,-
+-,-,Swansea City,Newcastle United,1-2,-
+-,-,Tottenham Hotspur,Newcastle United,0-1,-
+-,-,West Ham United,Newcastle United,0-2,-
+-,-,Aston Villa,Norwich City,3-0,-
+-,-,Barnsley,Norwich City,2-1,-
+-,-,Blackburn Rovers,Norwich City,1-0,-
+-,-,Blackpool,Norwich City,0-2,-
+-,-,Bradford City,Norwich City,2-0,-
+-,-,Bradford Park Avenue,Norwich City,1-0,-
+-,-,Burnley,Norwich City,3-0,-
+-,-,Bury,Norwich City,3-2,-
+-,-,Chesterfield,Norwich City,3-1,-
+-,-,Coventry City,Norwich City,1-1,-
+-,-,Doncaster Rovers,Norwich City,1-2,-
+-,-,Fulham,Norwich City,2-3,-
+-,-,Leicester City,Norwich City,2-2,-
+-,-,Newcastle United,Norwich City,0-1,-
+-,-,Nottingham Forest,Norwich City,3-4,-
+-,-,Plymouth Argyle,Norwich City,2-0,-
+-,-,Sheffield United,Norwich City,2-0,-
+-,-,Southampton,Norwich City,3-1,-
+-,-,Swansea City,Norwich City,2-1,-
+-,-,Tottenham Hotspur,Norwich City,2-3,-
+-,-,West Ham United,Norwich City,4-1,-
+-,-,Aston Villa,Nottingham Forest,1-1,-
+-,-,Barnsley,Nottingham Forest,1-0,-
+-,-,Blackburn Rovers,Nottingham Forest,9-1,-
+-,-,Blackpool,Nottingham Forest,7-1,-
+-,-,Bradford City,Nottingham Forest,2-1,-
+-,-,Bradford Park Avenue,Nottingham Forest,3-2,-
+-,-,Burnley,Nottingham Forest,3-0,-
+-,-,Bury,Nottingham Forest,1-1,-
+-,-,Chesterfield,Nottingham Forest,4-2,-
+-,-,Coventry City,Nottingham Forest,2-2,-
+-,-,Doncaster Rovers,Nottingham Forest,0-2,-
+-,-,Fulham,Nottingham Forest,5-2,-
+-,-,Leicester City,Nottingham Forest,2-1,-
+-,-,Newcastle United,Nottingham Forest,3-2,-
+-,-,Norwich City,Nottingham Forest,4-0,-
+-,-,Plymouth Argyle,Nottingham Forest,4-1,-
+-,-,Sheffield United,Nottingham Forest,4-1,-
+-,-,Southampton,Nottingham Forest,0-3,-
+-,-,Swansea City,Nottingham Forest,1-0,-
+-,-,Tottenham Hotspur,Nottingham Forest,2-1,-
+-,-,West Ham United,Nottingham Forest,2-2,-
+-,-,Aston Villa,Plymouth Argyle,5-4,-
+-,-,Barnsley,Plymouth Argyle,1-3,-
+-,-,Blackburn Rovers,Plymouth Argyle,2-3,-
+-,-,Blackpool,Plymouth Argyle,1-1,-
+-,-,Bradford City,Plymouth Argyle,1-1,-
+-,-,Bradford Park Avenue,Plymouth Argyle,0-0,-
+-,-,Burnley,Plymouth Argyle,2-0,-
+-,-,Bury,Plymouth Argyle,2-0,-
+-,-,Chesterfield,Plymouth Argyle,0-1,-
+-,-,Coventry City,Plymouth Argyle,2-0,-
+-,-,Doncaster Rovers,Plymouth Argyle,2-1,-
+-,-,Fulham,Plymouth Argyle,2-2,-
+-,-,Leicester City,Plymouth Argyle,3-2,-
+-,-,Newcastle United,Plymouth Argyle,1-1,-
+-,-,Norwich City,Plymouth Argyle,1-2,-
+-,-,Nottingham Forest,Plymouth Argyle,2-3,-
+-,-,Sheffield United,Plymouth Argyle,2-0,-
+-,-,Southampton,Plymouth Argyle,0-0,-
+-,-,Swansea City,Plymouth Argyle,0-1,-
+-,-,Tottenham Hotspur,Plymouth Argyle,1-3,-
+-,-,West Ham United,Plymouth Argyle,1-1,-
+-,-,Aston Villa,Sheffield United,2-1,-
+-,-,Barnsley,Sheffield United,1-1,-
+-,-,Blackburn Rovers,Sheffield United,3-1,-
+-,-,Blackpool,Sheffield United,1-0,-
+-,-,Bradford City,Sheffield United,3-2,-
+-,-,Bradford Park Avenue,Sheffield United,0-3,-
+-,-,Burnley,Sheffield United,1-0,-
+-,-,Bury,Sheffield United,2-0,-
+-,-,Chesterfield,Sheffield United,2-2,-
+-,-,Coventry City,Sheffield United,2-0,-
+-,-,Doncaster Rovers,Sheffield United,1-1,-
+-,-,Fulham,Sheffield United,4-0,-
+-,-,Leicester City,Sheffield United,1-2,-
+-,-,Newcastle United,Sheffield United,4-0,-
+-,-,Norwich City,Sheffield United,1-1,-
+-,-,Nottingham Forest,Sheffield United,1-1,-
+-,-,Plymouth Argyle,Sheffield United,2-0,-
+-,-,Southampton,Sheffield United,4-0,-
+-,-,Swansea City,Sheffield United,2-1,-
+-,-,Tottenham Hotspur,Sheffield United,2-2,-
+-,-,West Ham United,Sheffield United,1-0,-
+-,-,Aston Villa,Southampton,4-0,-
+-,-,Barnsley,Southampton,2-1,-
+-,-,Blackburn Rovers,Southampton,1-0,-
+-,-,Blackpool,Southampton,2-0,-
+-,-,Bradford City,Southampton,2-2,-
+-,-,Bradford Park Avenue,Southampton,3-1,-
+-,-,Burnley,Southampton,1-3,-
+-,-,Bury,Southampton,2-1,-
+-,-,Chesterfield,Southampton,3-0,-
+-,-,Coventry City,Southampton,2-0,-
+-,-,Doncaster Rovers,Southampton,2-0,-
+-,-,Fulham,Southampton,2-0,-
+-,-,Leicester City,Southampton,2-2,-
+-,-,Newcastle United,Southampton,3-0,-
+-,-,Norwich City,Southampton,4-2,-
+-,-,Nottingham Forest,Southampton,1-1,-
+-,-,Plymouth Argyle,Southampton,3-1,-
+-,-,Sheffield United,Southampton,0-0,-
+-,-,Swansea City,Southampton,5-1,-
+-,-,Tottenham Hotspur,Southampton,4-0,-
+-,-,West Ham United,Southampton,4-0,-
+-,-,Aston Villa,Swansea City,4-0,-
+-,-,Barnsley,Swansea City,0-1,-
+-,-,Blackburn Rovers,Swansea City,2-1,-
+-,-,Blackpool,Swansea City,3-2,-
+-,-,Bradford City,Swansea City,4-0,-
+-,-,Bradford Park Avenue,Swansea City,1-1,-
+-,-,Burnley,Swansea City,0-0,-
+-,-,Bury,Swansea City,2-0,-
+-,-,Chesterfield,Swansea City,4-0,-
+-,-,Coventry City,Swansea City,2-1,-
+-,-,Doncaster Rovers,Swansea City,0-0,-
+-,-,Fulham,Swansea City,5-0,-
+-,-,Leicester City,Swansea City,0-0,-
+-,-,Newcastle United,Swansea City,5-1,-
+-,-,Norwich City,Swansea City,3-0,-
+-,-,Nottingham Forest,Swansea City,6-1,-
+-,-,Plymouth Argyle,Swansea City,0-0,-
+-,-,Sheffield United,Swansea City,1-0,-
+-,-,Southampton,Swansea City,2-1,-
+-,-,Tottenham Hotspur,Swansea City,3-1,-
+-,-,West Ham United,Swansea City,2-0,-
+-,-,Aston Villa,Tottenham Hotspur,1-1,-
+-,-,Barnsley,Tottenham Hotspur,1-0,-
+-,-,Blackburn Rovers,Tottenham Hotspur,0-4,-
+-,-,Blackpool,Tottenham Hotspur,0-0,-
+-,-,Bradford City,Tottenham Hotspur,2-2,-
+-,-,Bradford Park Avenue,Tottenham Hotspur,3-2,-
+-,-,Burnley,Tottenham Hotspur,3-1,-
+-,-,Bury,Tottenham Hotspur,5-3,-
+-,-,Chesterfield,Tottenham Hotspur,1-3,-
+-,-,Coventry City,Tottenham Hotspur,1-0,-
+-,-,Doncaster Rovers,Tottenham Hotspur,1-1,-
+-,-,Fulham,Tottenham Hotspur,3-3,-
+-,-,Leicester City,Tottenham Hotspur,4-1,-
+-,-,Newcastle United,Tottenham Hotspur,0-1,-
+-,-,Norwich City,Tottenham Hotspur,2-3,-
+-,-,Nottingham Forest,Tottenham Hotspur,3-0,-
+-,-,Plymouth Argyle,Tottenham Hotspur,2-2,-
+-,-,Sheffield United,Tottenham Hotspur,3-2,-
+-,-,Southampton,Tottenham Hotspur,1-0,-
+-,-,Swansea City,Tottenham Hotspur,2-1,-
+-,-,West Ham United,Tottenham Hotspur,2-1,-
+-,-,Aston Villa,West Ham United,0-2,-
+-,-,Barnsley,West Ham United,0-0,-
+-,-,Blackburn Rovers,West Ham United,1-2,-
+-,-,Blackpool,West Ham United,1-0,-
+-,-,Bradford City,West Ham United,2-1,-
+-,-,Bradford Park Avenue,West Ham United,2-1,-
+-,-,Burnley,West Ham United,2-1,-
+-,-,Bury,West Ham United,1-1,-
+-,-,Chesterfield,West Ham United,1-1,-
+-,-,Coventry City,West Ham United,4-0,-
+-,-,Doncaster Rovers,West Ham United,1-4,-
+-,-,Fulham,West Ham United,5-0,-
+-,-,Leicester City,West Ham United,2-2,-
+-,-,Newcastle United,West Ham United,5-3,-
+-,-,Norwich City,West Ham United,3-3,-
+-,-,Nottingham Forest,West Ham United,1-0,-
+-,-,Plymouth Argyle,West Ham United,2-0,-
+-,-,Sheffield United,West Ham United,2-0,-
+-,-,Southampton,West Ham United,0-2,-
+-,-,Swansea City,West Ham United,0-0,-
+-,-,Tottenham Hotspur,West Ham United,2-3,-

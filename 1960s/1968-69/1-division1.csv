@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Burnley,Arsenal,0-1
--,Chelsea,Arsenal,2-1
--,Coventry City,Arsenal,0-1
--,Everton,Arsenal,1-0
--,Ipswich Town,Arsenal,1-2
--,Leeds United,Arsenal,2-0
--,Leicester City,Arsenal,0-0
--,Liverpool,Arsenal,1-1
--,Manchester City,Arsenal,1-1
--,Manchester United,Arsenal,0-0
--,Newcastle United,Arsenal,2-1
--,Nottingham Forest,Arsenal,0-2
--,Queens Park Rangers,Arsenal,0-1
--,Sheffield Wednesday,Arsenal,0-5
--,Southampton,Arsenal,1-2
--,Stoke City,Arsenal,1-3
--,Sunderland,Arsenal,0-0
--,Tottenham Hotspur,Arsenal,1-2
--,West Bromwich Albion,Arsenal,1-0
--,West Ham United,Arsenal,1-2
--,Wolverhampton Wanderers,Arsenal,0-0
--,Arsenal,Burnley,2-0
--,Chelsea,Burnley,2-3
--,Coventry City,Burnley,4-1
--,Everton,Burnley,3-0
--,Ipswich Town,Burnley,2-0
--,Leeds United,Burnley,6-1
--,Leicester City,Burnley,0-2
--,Liverpool,Burnley,1-1
--,Manchester City,Burnley,7-0
--,Manchester United,Burnley,2-0
--,Newcastle United,Burnley,1-0
--,Nottingham Forest,Burnley,2-2
--,Queens Park Rangers,Burnley,0-2
--,Sheffield Wednesday,Burnley,1-0
--,Southampton,Burnley,5-1
--,Stoke City,Burnley,1-3
--,Sunderland,Burnley,2-0
--,Tottenham Hotspur,Burnley,7-0
--,West Bromwich Albion,Burnley,3-2
--,West Ham United,Burnley,5-0
--,Wolverhampton Wanderers,Burnley,1-1
--,Arsenal,Chelsea,0-1
--,Burnley,Chelsea,2-1
--,Coventry City,Chelsea,0-1
--,Everton,Chelsea,1-2
--,Ipswich Town,Chelsea,1-3
--,Leeds United,Chelsea,1-0
--,Leicester City,Chelsea,1-4
--,Liverpool,Chelsea,2-1
--,Manchester City,Chelsea,4-1
--,Manchester United,Chelsea,0-4
--,Newcastle United,Chelsea,3-2
--,Nottingham Forest,Chelsea,1-2
--,Queens Park Rangers,Chelsea,0-4
--,Sheffield Wednesday,Chelsea,1-1
--,Southampton,Chelsea,5-0
--,Stoke City,Chelsea,2-0
--,Sunderland,Chelsea,3-2
--,Tottenham Hotspur,Chelsea,1-0
--,West Bromwich Albion,Chelsea,0-3
--,West Ham United,Chelsea,0-0
--,Wolverhampton Wanderers,Chelsea,1-1
--,Arsenal,Coventry City,2-1
--,Burnley,Coventry City,1-1
--,Chelsea,Coventry City,2-1
--,Everton,Coventry City,3-0
--,Ipswich Town,Coventry City,0-0
--,Leeds United,Coventry City,3-0
--,Leicester City,Coventry City,1-1
--,Liverpool,Coventry City,2-0
--,Manchester City,Coventry City,4-2
--,Manchester United,Coventry City,1-0
--,Newcastle United,Coventry City,2-0
--,Nottingham Forest,Coventry City,0-0
--,Queens Park Rangers,Coventry City,0-1
--,Sheffield Wednesday,Coventry City,3-0
--,Southampton,Coventry City,1-0
--,Stoke City,Coventry City,0-3
--,Sunderland,Coventry City,3-0
--,Tottenham Hotspur,Coventry City,2-0
--,West Bromwich Albion,Coventry City,6-1
--,West Ham United,Coventry City,5-2
--,Wolverhampton Wanderers,Coventry City,1-1
--,Arsenal,Everton,3-1
--,Burnley,Everton,1-2
--,Chelsea,Everton,1-1
--,Coventry City,Everton,2-2
--,Ipswich Town,Everton,2-2
--,Leeds United,Everton,2-1
--,Leicester City,Everton,1-1
--,Liverpool,Everton,1-1
--,Manchester City,Everton,1-3
--,Manchester United,Everton,2-1
--,Newcastle United,Everton,0-0
--,Nottingham Forest,Everton,1-0
--,Queens Park Rangers,Everton,0-1
--,Sheffield Wednesday,Everton,2-2
--,Southampton,Everton,2-5
--,Stoke City,Everton,0-0
--,Sunderland,Everton,1-3
--,Tottenham Hotspur,Everton,1-1
--,West Bromwich Albion,Everton,1-1
--,West Ham United,Everton,1-4
--,Wolverhampton Wanderers,Everton,1-2
--,Arsenal,Ipswich Town,0-2
--,Burnley,Ipswich Town,1-0
--,Chelsea,Ipswich Town,3-1
--,Coventry City,Ipswich Town,0-2
--,Everton,Ipswich Town,2-2
--,Leeds United,Ipswich Town,2-0
--,Leicester City,Ipswich Town,1-3
--,Liverpool,Ipswich Town,4-0
--,Manchester City,Ipswich Town,1-1
--,Manchester United,Ipswich Town,0-0
--,Newcastle United,Ipswich Town,2-1
--,Nottingham Forest,Ipswich Town,1-2
--,Queens Park Rangers,Ipswich Town,2-1
--,Sheffield Wednesday,Ipswich Town,2-1
--,Southampton,Ipswich Town,2-2
--,Stoke City,Ipswich Town,2-1
--,Sunderland,Ipswich Town,3-0
--,Tottenham Hotspur,Ipswich Town,2-2
--,West Bromwich Albion,Ipswich Town,2-2
--,West Ham United,Ipswich Town,1-3
--,Wolverhampton Wanderers,Ipswich Town,1-1
--,Arsenal,Leeds United,1-2
--,Burnley,Leeds United,5-1
--,Chelsea,Leeds United,1-1
--,Coventry City,Leeds United,0-1
--,Everton,Leeds United,0-0
--,Ipswich Town,Leeds United,2-3
--,Leicester City,Leeds United,1-1
--,Liverpool,Leeds United,0-0
--,Manchester City,Leeds United,3-1
--,Manchester United,Leeds United,0-0
--,Newcastle United,Leeds United,0-1
--,Nottingham Forest,Leeds United,0-2
--,Queens Park Rangers,Leeds United,0-1
--,Sheffield Wednesday,Leeds United,0-0
--,Southampton,Leeds United,1-3
--,Stoke City,Leeds United,1-5
--,Sunderland,Leeds United,0-1
--,Tottenham Hotspur,Leeds United,0-0
--,West Bromwich Albion,Leeds United,1-1
--,West Ham United,Leeds United,1-1
--,Wolverhampton Wanderers,Leeds United,0-0
--,Arsenal,Leicester City,3-0
--,Burnley,Leicester City,2-1
--,Chelsea,Leicester City,3-0
--,Coventry City,Leicester City,1-0
--,Everton,Leicester City,7-1
--,Ipswich Town,Leicester City,2-1
--,Leeds United,Leicester City,2-0
--,Liverpool,Leicester City,4-0
--,Manchester City,Leicester City,2-0
--,Manchester United,Leicester City,3-2
--,Newcastle United,Leicester City,0-0
--,Nottingham Forest,Leicester City,0-0
--,Queens Park Rangers,Leicester City,1-1
--,Sheffield Wednesday,Leicester City,1-3
--,Southampton,Leicester City,1-0
--,Stoke City,Leicester City,1-0
--,Sunderland,Leicester City,2-0
--,Tottenham Hotspur,Leicester City,3-2
--,West Bromwich Albion,Leicester City,1-1
--,West Ham United,Leicester City,4-0
--,Wolverhampton Wanderers,Leicester City,1-0
--,Arsenal,Liverpool,1-1
--,Burnley,Liverpool,0-4
--,Chelsea,Liverpool,1-2
--,Coventry City,Liverpool,0-0
--,Everton,Liverpool,0-0
--,Ipswich Town,Liverpool,0-2
--,Leeds United,Liverpool,1-0
--,Leicester City,Liverpool,1-2
--,Manchester City,Liverpool,1-0
--,Manchester United,Liverpool,1-0
--,Newcastle United,Liverpool,1-1
--,Nottingham Forest,Liverpool,0-1
--,Queens Park Rangers,Liverpool,1-2
--,Sheffield Wednesday,Liverpool,1-2
--,Southampton,Liverpool,2-0
--,Stoke City,Liverpool,0-0
--,Sunderland,Liverpool,0-2
--,Tottenham Hotspur,Liverpool,2-1
--,West Bromwich Albion,Liverpool,0-0
--,West Ham United,Liverpool,1-1
--,Wolverhampton Wanderers,Liverpool,0-6
--,Arsenal,Manchester City,4-1
--,Burnley,Manchester City,2-1
--,Chelsea,Manchester City,2-0
--,Coventry City,Manchester City,1-1
--,Everton,Manchester City,2-0
--,Ipswich Town,Manchester City,2-1
--,Leeds United,Manchester City,1-0
--,Leicester City,Manchester City,3-0
--,Liverpool,Manchester City,2-1
--,Manchester United,Manchester City,0-1
--,Newcastle United,Manchester City,1-0
--,Nottingham Forest,Manchester City,1-0
--,Queens Park Rangers,Manchester City,1-1
--,Sheffield Wednesday,Manchester City,1-1
--,Southampton,Manchester City,3-0
--,Stoke City,Manchester City,1-0
--,Sunderland,Manchester City,0-4
--,Tottenham Hotspur,Manchester City,1-1
--,West Bromwich Albion,Manchester City,2-0
--,West Ham United,Manchester City,2-1
--,Wolverhampton Wanderers,Manchester City,3-1
--,Arsenal,Manchester United,3-0
--,Burnley,Manchester United,1-0
--,Chelsea,Manchester United,3-2
--,Coventry City,Manchester United,2-1
--,Everton,Manchester United,0-0
--,Ipswich Town,Manchester United,1-0
--,Leeds United,Manchester United,2-1
--,Leicester City,Manchester United,2-1
--,Liverpool,Manchester United,2-0
--,Manchester City,Manchester United,0-0
--,Newcastle United,Manchester United,2-0
--,Nottingham Forest,Manchester United,0-1
--,Queens Park Rangers,Manchester United,2-3
--,Sheffield Wednesday,Manchester United,5-4
--,Southampton,Manchester United,2-0
--,Stoke City,Manchester United,0-0
--,Sunderland,Manchester United,1-1
--,Tottenham Hotspur,Manchester United,2-2
--,West Bromwich Albion,Manchester United,3-1
--,West Ham United,Manchester United,0-0
--,Wolverhampton Wanderers,Manchester United,2-2
--,Arsenal,Newcastle United,0-0
--,Burnley,Newcastle United,1-0
--,Chelsea,Newcastle United,1-1
--,Coventry City,Newcastle United,2-1
--,Everton,Newcastle United,1-1
--,Ipswich Town,Newcastle United,1-4
--,Leeds United,Newcastle United,2-1
--,Leicester City,Newcastle United,2-1
--,Liverpool,Newcastle United,2-1
--,Manchester City,Newcastle United,1-0
--,Manchester United,Newcastle United,3-1
--,Nottingham Forest,Newcastle United,2-4
--,Queens Park Rangers,Newcastle United,1-1
--,Sheffield Wednesday,Newcastle United,1-1
--,Southampton,Newcastle United,0-0
--,Stoke City,Newcastle United,1-0
--,Sunderland,Newcastle United,1-1
--,Tottenham Hotspur,Newcastle United,0-1
--,West Bromwich Albion,Newcastle United,5-1
--,West Ham United,Newcastle United,3-1
--,Wolverhampton Wanderers,Newcastle United,5-0
--,Arsenal,Nottingham Forest,1-1
--,Burnley,Nottingham Forest,3-1
--,Chelsea,Nottingham Forest,1-1
--,Coventry City,Nottingham Forest,1-1
--,Everton,Nottingham Forest,2-1
--,Ipswich Town,Nottingham Forest,2-3
--,Leeds United,Nottingham Forest,1-0
--,Leicester City,Nottingham Forest,2-2
--,Liverpool,Nottingham Forest,0-2
--,Manchester City,Nottingham Forest,3-3
--,Manchester United,Nottingham Forest,3-1
--,Newcastle United,Nottingham Forest,1-1
--,Queens Park Rangers,Nottingham Forest,2-1
--,Sheffield Wednesday,Nottingham Forest,0-1
--,Southampton,Nottingham Forest,1-1
--,Stoke City,Nottingham Forest,3-1
--,Sunderland,Nottingham Forest,3-1
--,Tottenham Hotspur,Nottingham Forest,2-1
--,West Bromwich Albion,Nottingham Forest,2-5
--,West Ham United,Nottingham Forest,1-0
--,Wolverhampton Wanderers,Nottingham Forest,1-0
--,Arsenal,Queens Park Rangers,2-1
--,Burnley,Queens Park Rangers,2-2
--,Chelsea,Queens Park Rangers,2-1
--,Coventry City,Queens Park Rangers,5-0
--,Everton,Queens Park Rangers,4-0
--,Ipswich Town,Queens Park Rangers,3-0
--,Leeds United,Queens Park Rangers,4-1
--,Leicester City,Queens Park Rangers,2-0
--,Liverpool,Queens Park Rangers,2-0
--,Manchester City,Queens Park Rangers,3-1
--,Manchester United,Queens Park Rangers,8-1
--,Newcastle United,Queens Park Rangers,3-2
--,Nottingham Forest,Queens Park Rangers,1-0
--,Sheffield Wednesday,Queens Park Rangers,4-0
--,Southampton,Queens Park Rangers,3-2
--,Stoke City,Queens Park Rangers,1-1
--,Sunderland,Queens Park Rangers,0-0
--,Tottenham Hotspur,Queens Park Rangers,3-2
--,West Bromwich Albion,Queens Park Rangers,3-1
--,West Ham United,Queens Park Rangers,4-3
--,Wolverhampton Wanderers,Queens Park Rangers,3-1
--,Arsenal,Sheffield Wednesday,2-0
--,Burnley,Sheffield Wednesday,2-0
--,Chelsea,Sheffield Wednesday,1-0
--,Coventry City,Sheffield Wednesday,3-0
--,Everton,Sheffield Wednesday,3-0
--,Ipswich Town,Sheffield Wednesday,2-0
--,Leeds United,Sheffield Wednesday,2-0
--,Leicester City,Sheffield Wednesday,1-1
--,Liverpool,Sheffield Wednesday,1-0
--,Manchester City,Sheffield Wednesday,0-1
--,Manchester United,Sheffield Wednesday,1-0
--,Newcastle United,Sheffield Wednesday,3-2
--,Nottingham Forest,Sheffield Wednesday,0-0
--,Queens Park Rangers,Sheffield Wednesday,3-2
--,Southampton,Sheffield Wednesday,1-1
--,Stoke City,Sheffield Wednesday,1-1
--,Sunderland,Sheffield Wednesday,0-0
--,Tottenham Hotspur,Sheffield Wednesday,1-2
--,West Bromwich Albion,Sheffield Wednesday,0-0
--,West Ham United,Sheffield Wednesday,1-1
--,Wolverhampton Wanderers,Sheffield Wednesday,0-3
--,Arsenal,Southampton,0-0
--,Burnley,Southampton,3-1
--,Chelsea,Southampton,2-3
--,Coventry City,Southampton,1-1
--,Everton,Southampton,1-0
--,Ipswich Town,Southampton,0-0
--,Leeds United,Southampton,3-2
--,Leicester City,Southampton,3-1
--,Liverpool,Southampton,1-0
--,Manchester City,Southampton,1-1
--,Manchester United,Southampton,1-2
--,Newcastle United,Southampton,4-1
--,Nottingham Forest,Southampton,1-0
--,Queens Park Rangers,Southampton,1-1
--,Sheffield Wednesday,Southampton,0-0
--,Stoke City,Southampton,1-0
--,Sunderland,Southampton,1-0
--,Tottenham Hotspur,Southampton,2-1
--,West Bromwich Albion,Southampton,1-2
--,West Ham United,Southampton,0-0
--,Wolverhampton Wanderers,Southampton,0-0
--,Arsenal,Stoke City,1-0
--,Burnley,Stoke City,1-1
--,Chelsea,Stoke City,1-0
--,Coventry City,Stoke City,1-1
--,Everton,Stoke City,2-1
--,Ipswich Town,Stoke City,3-1
--,Leeds United,Stoke City,2-0
--,Leicester City,Stoke City,0-0
--,Liverpool,Stoke City,2-1
--,Manchester City,Stoke City,3-1
--,Manchester United,Stoke City,1-1
--,Newcastle United,Stoke City,5-0
--,Nottingham Forest,Stoke City,3-3
--,Queens Park Rangers,Stoke City,2-1
--,Sheffield Wednesday,Stoke City,2-1
--,Southampton,Stoke City,2-0
--,Sunderland,Stoke City,4-1
--,Tottenham Hotspur,Stoke City,1-1
--,West Bromwich Albion,Stoke City,2-1
--,West Ham United,Stoke City,0-0
--,Wolverhampton Wanderers,Stoke City,1-1
--,Arsenal,Sunderland,0-0
--,Burnley,Sunderland,1-2
--,Chelsea,Sunderland,5-1
--,Coventry City,Sunderland,3-1
--,Everton,Sunderland,2-0
--,Ipswich Town,Sunderland,1-0
--,Leeds United,Sunderland,1-1
--,Leicester City,Sunderland,2-1
--,Liverpool,Sunderland,4-1
--,Manchester City,Sunderland,1-0
--,Manchester United,Sunderland,4-1
--,Newcastle United,Sunderland,1-1
--,Nottingham Forest,Sunderland,1-0
--,Queens Park Rangers,Sunderland,2-2
--,Sheffield Wednesday,Sunderland,1-1
--,Southampton,Sunderland,1-0
--,Stoke City,Sunderland,2-1
--,Tottenham Hotspur,Sunderland,5-1
--,West Bromwich Albion,Sunderland,3-0
--,West Ham United,Sunderland,8-0
--,Wolverhampton Wanderers,Sunderland,1-1
--,Arsenal,Tottenham Hotspur,1-0
--,Burnley,Tottenham Hotspur,2-2
--,Chelsea,Tottenham Hotspur,2-2
--,Coventry City,Tottenham Hotspur,1-2
--,Everton,Tottenham Hotspur,0-2
--,Ipswich Town,Tottenham Hotspur,0-1
--,Leeds United,Tottenham Hotspur,0-0
--,Leicester City,Tottenham Hotspur,1-0
--,Liverpool,Tottenham Hotspur,1-0
--,Manchester City,Tottenham Hotspur,4-0
--,Manchester United,Tottenham Hotspur,3-1
--,Newcastle United,Tottenham Hotspur,2-2
--,Nottingham Forest,Tottenham Hotspur,0-2
--,Queens Park Rangers,Tottenham Hotspur,1-1
--,Sheffield Wednesday,Tottenham Hotspur,0-0
--,Southampton,Tottenham Hotspur,2-1
--,Stoke City,Tottenham Hotspur,1-1
--,Sunderland,Tottenham Hotspur,0-0
--,West Bromwich Albion,Tottenham Hotspur,4-3
--,West Ham United,Tottenham Hotspur,2-2
--,Wolverhampton Wanderers,Tottenham Hotspur,2-0
--,Arsenal,West Bromwich Albion,2-0
--,Burnley,West Bromwich Albion,2-2
--,Chelsea,West Bromwich Albion,3-1
--,Coventry City,West Bromwich Albion,4-2
--,Everton,West Bromwich Albion,4-0
--,Ipswich Town,West Bromwich Albion,4-1
--,Leeds United,West Bromwich Albion,0-0
--,Leicester City,West Bromwich Albion,0-2
--,Liverpool,West Bromwich Albion,1-0
--,Manchester City,West Bromwich Albion,5-1
--,Manchester United,West Bromwich Albion,2-1
--,Newcastle United,West Bromwich Albion,2-3
--,Nottingham Forest,West Bromwich Albion,3-0
--,Queens Park Rangers,West Bromwich Albion,0-4
--,Sheffield Wednesday,West Bromwich Albion,1-0
--,Southampton,West Bromwich Albion,2-0
--,Stoke City,West Bromwich Albion,1-1
--,Sunderland,West Bromwich Albion,0-1
--,Tottenham Hotspur,West Bromwich Albion,1-1
--,West Ham United,West Bromwich Albion,4-0
--,Wolverhampton Wanderers,West Bromwich Albion,0-1
--,Arsenal,West Ham United,0-0
--,Burnley,West Ham United,3-1
--,Chelsea,West Ham United,1-1
--,Coventry City,West Ham United,1-2
--,Everton,West Ham United,1-0
--,Ipswich Town,West Ham United,2-2
--,Leeds United,West Ham United,2-0
--,Leicester City,West Ham United,1-1
--,Liverpool,West Ham United,2-0
--,Manchester City,West Ham United,1-1
--,Manchester United,West Ham United,1-1
--,Newcastle United,West Ham United,1-1
--,Nottingham Forest,West Ham United,0-1
--,Queens Park Rangers,West Ham United,1-1
--,Sheffield Wednesday,West Ham United,1-1
--,Southampton,West Ham United,2-2
--,Stoke City,West Ham United,0-2
--,Sunderland,West Ham United,2-1
--,Tottenham Hotspur,West Ham United,1-0
--,West Bromwich Albion,West Ham United,3-1
--,Wolverhampton Wanderers,West Ham United,2-0
--,Arsenal,Wolverhampton Wanderers,3-1
--,Burnley,Wolverhampton Wanderers,1-1
--,Chelsea,Wolverhampton Wanderers,1-1
--,Coventry City,Wolverhampton Wanderers,0-1
--,Everton,Wolverhampton Wanderers,4-0
--,Ipswich Town,Wolverhampton Wanderers,1-0
--,Leeds United,Wolverhampton Wanderers,2-1
--,Leicester City,Wolverhampton Wanderers,2-0
--,Liverpool,Wolverhampton Wanderers,1-0
--,Manchester City,Wolverhampton Wanderers,3-2
--,Manchester United,Wolverhampton Wanderers,2-0
--,Newcastle United,Wolverhampton Wanderers,4-1
--,Nottingham Forest,Wolverhampton Wanderers,0-0
--,Queens Park Rangers,Wolverhampton Wanderers,0-1
--,Sheffield Wednesday,Wolverhampton Wanderers,0-2
--,Southampton,Wolverhampton Wanderers,2-1
--,Stoke City,Wolverhampton Wanderers,4-1
--,Sunderland,Wolverhampton Wanderers,2-0
--,Tottenham Hotspur,Wolverhampton Wanderers,1-1
--,West Bromwich Albion,Wolverhampton Wanderers,0-0
--,West Ham United,Wolverhampton Wanderers,3-1
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Burnley,Arsenal,0-1,-
+-,-,Chelsea,Arsenal,2-1,-
+-,-,Coventry City,Arsenal,0-1,-
+-,-,Everton,Arsenal,1-0,-
+-,-,Ipswich Town,Arsenal,1-2,-
+-,-,Leeds United,Arsenal,2-0,-
+-,-,Leicester City,Arsenal,0-0,-
+-,-,Liverpool,Arsenal,1-1,-
+-,-,Manchester City,Arsenal,1-1,-
+-,-,Manchester United,Arsenal,0-0,-
+-,-,Newcastle United,Arsenal,2-1,-
+-,-,Nottingham Forest,Arsenal,0-2,-
+-,-,Queens Park Rangers,Arsenal,0-1,-
+-,-,Sheffield Wednesday,Arsenal,0-5,-
+-,-,Southampton,Arsenal,1-2,-
+-,-,Stoke City,Arsenal,1-3,-
+-,-,Sunderland,Arsenal,0-0,-
+-,-,Tottenham Hotspur,Arsenal,1-2,-
+-,-,West Bromwich Albion,Arsenal,1-0,-
+-,-,West Ham United,Arsenal,1-2,-
+-,-,Wolverhampton Wanderers,Arsenal,0-0,-
+-,-,Arsenal,Burnley,2-0,-
+-,-,Chelsea,Burnley,2-3,-
+-,-,Coventry City,Burnley,4-1,-
+-,-,Everton,Burnley,3-0,-
+-,-,Ipswich Town,Burnley,2-0,-
+-,-,Leeds United,Burnley,6-1,-
+-,-,Leicester City,Burnley,0-2,-
+-,-,Liverpool,Burnley,1-1,-
+-,-,Manchester City,Burnley,7-0,-
+-,-,Manchester United,Burnley,2-0,-
+-,-,Newcastle United,Burnley,1-0,-
+-,-,Nottingham Forest,Burnley,2-2,-
+-,-,Queens Park Rangers,Burnley,0-2,-
+-,-,Sheffield Wednesday,Burnley,1-0,-
+-,-,Southampton,Burnley,5-1,-
+-,-,Stoke City,Burnley,1-3,-
+-,-,Sunderland,Burnley,2-0,-
+-,-,Tottenham Hotspur,Burnley,7-0,-
+-,-,West Bromwich Albion,Burnley,3-2,-
+-,-,West Ham United,Burnley,5-0,-
+-,-,Wolverhampton Wanderers,Burnley,1-1,-
+-,-,Arsenal,Chelsea,0-1,-
+-,-,Burnley,Chelsea,2-1,-
+-,-,Coventry City,Chelsea,0-1,-
+-,-,Everton,Chelsea,1-2,-
+-,-,Ipswich Town,Chelsea,1-3,-
+-,-,Leeds United,Chelsea,1-0,-
+-,-,Leicester City,Chelsea,1-4,-
+-,-,Liverpool,Chelsea,2-1,-
+-,-,Manchester City,Chelsea,4-1,-
+-,-,Manchester United,Chelsea,0-4,-
+-,-,Newcastle United,Chelsea,3-2,-
+-,-,Nottingham Forest,Chelsea,1-2,-
+-,-,Queens Park Rangers,Chelsea,0-4,-
+-,-,Sheffield Wednesday,Chelsea,1-1,-
+-,-,Southampton,Chelsea,5-0,-
+-,-,Stoke City,Chelsea,2-0,-
+-,-,Sunderland,Chelsea,3-2,-
+-,-,Tottenham Hotspur,Chelsea,1-0,-
+-,-,West Bromwich Albion,Chelsea,0-3,-
+-,-,West Ham United,Chelsea,0-0,-
+-,-,Wolverhampton Wanderers,Chelsea,1-1,-
+-,-,Arsenal,Coventry City,2-1,-
+-,-,Burnley,Coventry City,1-1,-
+-,-,Chelsea,Coventry City,2-1,-
+-,-,Everton,Coventry City,3-0,-
+-,-,Ipswich Town,Coventry City,0-0,-
+-,-,Leeds United,Coventry City,3-0,-
+-,-,Leicester City,Coventry City,1-1,-
+-,-,Liverpool,Coventry City,2-0,-
+-,-,Manchester City,Coventry City,4-2,-
+-,-,Manchester United,Coventry City,1-0,-
+-,-,Newcastle United,Coventry City,2-0,-
+-,-,Nottingham Forest,Coventry City,0-0,-
+-,-,Queens Park Rangers,Coventry City,0-1,-
+-,-,Sheffield Wednesday,Coventry City,3-0,-
+-,-,Southampton,Coventry City,1-0,-
+-,-,Stoke City,Coventry City,0-3,-
+-,-,Sunderland,Coventry City,3-0,-
+-,-,Tottenham Hotspur,Coventry City,2-0,-
+-,-,West Bromwich Albion,Coventry City,6-1,-
+-,-,West Ham United,Coventry City,5-2,-
+-,-,Wolverhampton Wanderers,Coventry City,1-1,-
+-,-,Arsenal,Everton,3-1,-
+-,-,Burnley,Everton,1-2,-
+-,-,Chelsea,Everton,1-1,-
+-,-,Coventry City,Everton,2-2,-
+-,-,Ipswich Town,Everton,2-2,-
+-,-,Leeds United,Everton,2-1,-
+-,-,Leicester City,Everton,1-1,-
+-,-,Liverpool,Everton,1-1,-
+-,-,Manchester City,Everton,1-3,-
+-,-,Manchester United,Everton,2-1,-
+-,-,Newcastle United,Everton,0-0,-
+-,-,Nottingham Forest,Everton,1-0,-
+-,-,Queens Park Rangers,Everton,0-1,-
+-,-,Sheffield Wednesday,Everton,2-2,-
+-,-,Southampton,Everton,2-5,-
+-,-,Stoke City,Everton,0-0,-
+-,-,Sunderland,Everton,1-3,-
+-,-,Tottenham Hotspur,Everton,1-1,-
+-,-,West Bromwich Albion,Everton,1-1,-
+-,-,West Ham United,Everton,1-4,-
+-,-,Wolverhampton Wanderers,Everton,1-2,-
+-,-,Arsenal,Ipswich Town,0-2,-
+-,-,Burnley,Ipswich Town,1-0,-
+-,-,Chelsea,Ipswich Town,3-1,-
+-,-,Coventry City,Ipswich Town,0-2,-
+-,-,Everton,Ipswich Town,2-2,-
+-,-,Leeds United,Ipswich Town,2-0,-
+-,-,Leicester City,Ipswich Town,1-3,-
+-,-,Liverpool,Ipswich Town,4-0,-
+-,-,Manchester City,Ipswich Town,1-1,-
+-,-,Manchester United,Ipswich Town,0-0,-
+-,-,Newcastle United,Ipswich Town,2-1,-
+-,-,Nottingham Forest,Ipswich Town,1-2,-
+-,-,Queens Park Rangers,Ipswich Town,2-1,-
+-,-,Sheffield Wednesday,Ipswich Town,2-1,-
+-,-,Southampton,Ipswich Town,2-2,-
+-,-,Stoke City,Ipswich Town,2-1,-
+-,-,Sunderland,Ipswich Town,3-0,-
+-,-,Tottenham Hotspur,Ipswich Town,2-2,-
+-,-,West Bromwich Albion,Ipswich Town,2-2,-
+-,-,West Ham United,Ipswich Town,1-3,-
+-,-,Wolverhampton Wanderers,Ipswich Town,1-1,-
+-,-,Arsenal,Leeds United,1-2,-
+-,-,Burnley,Leeds United,5-1,-
+-,-,Chelsea,Leeds United,1-1,-
+-,-,Coventry City,Leeds United,0-1,-
+-,-,Everton,Leeds United,0-0,-
+-,-,Ipswich Town,Leeds United,2-3,-
+-,-,Leicester City,Leeds United,1-1,-
+-,-,Liverpool,Leeds United,0-0,-
+-,-,Manchester City,Leeds United,3-1,-
+-,-,Manchester United,Leeds United,0-0,-
+-,-,Newcastle United,Leeds United,0-1,-
+-,-,Nottingham Forest,Leeds United,0-2,-
+-,-,Queens Park Rangers,Leeds United,0-1,-
+-,-,Sheffield Wednesday,Leeds United,0-0,-
+-,-,Southampton,Leeds United,1-3,-
+-,-,Stoke City,Leeds United,1-5,-
+-,-,Sunderland,Leeds United,0-1,-
+-,-,Tottenham Hotspur,Leeds United,0-0,-
+-,-,West Bromwich Albion,Leeds United,1-1,-
+-,-,West Ham United,Leeds United,1-1,-
+-,-,Wolverhampton Wanderers,Leeds United,0-0,-
+-,-,Arsenal,Leicester City,3-0,-
+-,-,Burnley,Leicester City,2-1,-
+-,-,Chelsea,Leicester City,3-0,-
+-,-,Coventry City,Leicester City,1-0,-
+-,-,Everton,Leicester City,7-1,-
+-,-,Ipswich Town,Leicester City,2-1,-
+-,-,Leeds United,Leicester City,2-0,-
+-,-,Liverpool,Leicester City,4-0,-
+-,-,Manchester City,Leicester City,2-0,-
+-,-,Manchester United,Leicester City,3-2,-
+-,-,Newcastle United,Leicester City,0-0,-
+-,-,Nottingham Forest,Leicester City,0-0,-
+-,-,Queens Park Rangers,Leicester City,1-1,-
+-,-,Sheffield Wednesday,Leicester City,1-3,-
+-,-,Southampton,Leicester City,1-0,-
+-,-,Stoke City,Leicester City,1-0,-
+-,-,Sunderland,Leicester City,2-0,-
+-,-,Tottenham Hotspur,Leicester City,3-2,-
+-,-,West Bromwich Albion,Leicester City,1-1,-
+-,-,West Ham United,Leicester City,4-0,-
+-,-,Wolverhampton Wanderers,Leicester City,1-0,-
+-,-,Arsenal,Liverpool,1-1,-
+-,-,Burnley,Liverpool,0-4,-
+-,-,Chelsea,Liverpool,1-2,-
+-,-,Coventry City,Liverpool,0-0,-
+-,-,Everton,Liverpool,0-0,-
+-,-,Ipswich Town,Liverpool,0-2,-
+-,-,Leeds United,Liverpool,1-0,-
+-,-,Leicester City,Liverpool,1-2,-
+-,-,Manchester City,Liverpool,1-0,-
+-,-,Manchester United,Liverpool,1-0,-
+-,-,Newcastle United,Liverpool,1-1,-
+-,-,Nottingham Forest,Liverpool,0-1,-
+-,-,Queens Park Rangers,Liverpool,1-2,-
+-,-,Sheffield Wednesday,Liverpool,1-2,-
+-,-,Southampton,Liverpool,2-0,-
+-,-,Stoke City,Liverpool,0-0,-
+-,-,Sunderland,Liverpool,0-2,-
+-,-,Tottenham Hotspur,Liverpool,2-1,-
+-,-,West Bromwich Albion,Liverpool,0-0,-
+-,-,West Ham United,Liverpool,1-1,-
+-,-,Wolverhampton Wanderers,Liverpool,0-6,-
+-,-,Arsenal,Manchester City,4-1,-
+-,-,Burnley,Manchester City,2-1,-
+-,-,Chelsea,Manchester City,2-0,-
+-,-,Coventry City,Manchester City,1-1,-
+-,-,Everton,Manchester City,2-0,-
+-,-,Ipswich Town,Manchester City,2-1,-
+-,-,Leeds United,Manchester City,1-0,-
+-,-,Leicester City,Manchester City,3-0,-
+-,-,Liverpool,Manchester City,2-1,-
+-,-,Manchester United,Manchester City,0-1,-
+-,-,Newcastle United,Manchester City,1-0,-
+-,-,Nottingham Forest,Manchester City,1-0,-
+-,-,Queens Park Rangers,Manchester City,1-1,-
+-,-,Sheffield Wednesday,Manchester City,1-1,-
+-,-,Southampton,Manchester City,3-0,-
+-,-,Stoke City,Manchester City,1-0,-
+-,-,Sunderland,Manchester City,0-4,-
+-,-,Tottenham Hotspur,Manchester City,1-1,-
+-,-,West Bromwich Albion,Manchester City,2-0,-
+-,-,West Ham United,Manchester City,2-1,-
+-,-,Wolverhampton Wanderers,Manchester City,3-1,-
+-,-,Arsenal,Manchester United,3-0,-
+-,-,Burnley,Manchester United,1-0,-
+-,-,Chelsea,Manchester United,3-2,-
+-,-,Coventry City,Manchester United,2-1,-
+-,-,Everton,Manchester United,0-0,-
+-,-,Ipswich Town,Manchester United,1-0,-
+-,-,Leeds United,Manchester United,2-1,-
+-,-,Leicester City,Manchester United,2-1,-
+-,-,Liverpool,Manchester United,2-0,-
+-,-,Manchester City,Manchester United,0-0,-
+-,-,Newcastle United,Manchester United,2-0,-
+-,-,Nottingham Forest,Manchester United,0-1,-
+-,-,Queens Park Rangers,Manchester United,2-3,-
+-,-,Sheffield Wednesday,Manchester United,5-4,-
+-,-,Southampton,Manchester United,2-0,-
+-,-,Stoke City,Manchester United,0-0,-
+-,-,Sunderland,Manchester United,1-1,-
+-,-,Tottenham Hotspur,Manchester United,2-2,-
+-,-,West Bromwich Albion,Manchester United,3-1,-
+-,-,West Ham United,Manchester United,0-0,-
+-,-,Wolverhampton Wanderers,Manchester United,2-2,-
+-,-,Arsenal,Newcastle United,0-0,-
+-,-,Burnley,Newcastle United,1-0,-
+-,-,Chelsea,Newcastle United,1-1,-
+-,-,Coventry City,Newcastle United,2-1,-
+-,-,Everton,Newcastle United,1-1,-
+-,-,Ipswich Town,Newcastle United,1-4,-
+-,-,Leeds United,Newcastle United,2-1,-
+-,-,Leicester City,Newcastle United,2-1,-
+-,-,Liverpool,Newcastle United,2-1,-
+-,-,Manchester City,Newcastle United,1-0,-
+-,-,Manchester United,Newcastle United,3-1,-
+-,-,Nottingham Forest,Newcastle United,2-4,-
+-,-,Queens Park Rangers,Newcastle United,1-1,-
+-,-,Sheffield Wednesday,Newcastle United,1-1,-
+-,-,Southampton,Newcastle United,0-0,-
+-,-,Stoke City,Newcastle United,1-0,-
+-,-,Sunderland,Newcastle United,1-1,-
+-,-,Tottenham Hotspur,Newcastle United,0-1,-
+-,-,West Bromwich Albion,Newcastle United,5-1,-
+-,-,West Ham United,Newcastle United,3-1,-
+-,-,Wolverhampton Wanderers,Newcastle United,5-0,-
+-,-,Arsenal,Nottingham Forest,1-1,-
+-,-,Burnley,Nottingham Forest,3-1,-
+-,-,Chelsea,Nottingham Forest,1-1,-
+-,-,Coventry City,Nottingham Forest,1-1,-
+-,-,Everton,Nottingham Forest,2-1,-
+-,-,Ipswich Town,Nottingham Forest,2-3,-
+-,-,Leeds United,Nottingham Forest,1-0,-
+-,-,Leicester City,Nottingham Forest,2-2,-
+-,-,Liverpool,Nottingham Forest,0-2,-
+-,-,Manchester City,Nottingham Forest,3-3,-
+-,-,Manchester United,Nottingham Forest,3-1,-
+-,-,Newcastle United,Nottingham Forest,1-1,-
+-,-,Queens Park Rangers,Nottingham Forest,2-1,-
+-,-,Sheffield Wednesday,Nottingham Forest,0-1,-
+-,-,Southampton,Nottingham Forest,1-1,-
+-,-,Stoke City,Nottingham Forest,3-1,-
+-,-,Sunderland,Nottingham Forest,3-1,-
+-,-,Tottenham Hotspur,Nottingham Forest,2-1,-
+-,-,West Bromwich Albion,Nottingham Forest,2-5,-
+-,-,West Ham United,Nottingham Forest,1-0,-
+-,-,Wolverhampton Wanderers,Nottingham Forest,1-0,-
+-,-,Arsenal,Queens Park Rangers,2-1,-
+-,-,Burnley,Queens Park Rangers,2-2,-
+-,-,Chelsea,Queens Park Rangers,2-1,-
+-,-,Coventry City,Queens Park Rangers,5-0,-
+-,-,Everton,Queens Park Rangers,4-0,-
+-,-,Ipswich Town,Queens Park Rangers,3-0,-
+-,-,Leeds United,Queens Park Rangers,4-1,-
+-,-,Leicester City,Queens Park Rangers,2-0,-
+-,-,Liverpool,Queens Park Rangers,2-0,-
+-,-,Manchester City,Queens Park Rangers,3-1,-
+-,-,Manchester United,Queens Park Rangers,8-1,-
+-,-,Newcastle United,Queens Park Rangers,3-2,-
+-,-,Nottingham Forest,Queens Park Rangers,1-0,-
+-,-,Sheffield Wednesday,Queens Park Rangers,4-0,-
+-,-,Southampton,Queens Park Rangers,3-2,-
+-,-,Stoke City,Queens Park Rangers,1-1,-
+-,-,Sunderland,Queens Park Rangers,0-0,-
+-,-,Tottenham Hotspur,Queens Park Rangers,3-2,-
+-,-,West Bromwich Albion,Queens Park Rangers,3-1,-
+-,-,West Ham United,Queens Park Rangers,4-3,-
+-,-,Wolverhampton Wanderers,Queens Park Rangers,3-1,-
+-,-,Arsenal,Sheffield Wednesday,2-0,-
+-,-,Burnley,Sheffield Wednesday,2-0,-
+-,-,Chelsea,Sheffield Wednesday,1-0,-
+-,-,Coventry City,Sheffield Wednesday,3-0,-
+-,-,Everton,Sheffield Wednesday,3-0,-
+-,-,Ipswich Town,Sheffield Wednesday,2-0,-
+-,-,Leeds United,Sheffield Wednesday,2-0,-
+-,-,Leicester City,Sheffield Wednesday,1-1,-
+-,-,Liverpool,Sheffield Wednesday,1-0,-
+-,-,Manchester City,Sheffield Wednesday,0-1,-
+-,-,Manchester United,Sheffield Wednesday,1-0,-
+-,-,Newcastle United,Sheffield Wednesday,3-2,-
+-,-,Nottingham Forest,Sheffield Wednesday,0-0,-
+-,-,Queens Park Rangers,Sheffield Wednesday,3-2,-
+-,-,Southampton,Sheffield Wednesday,1-1,-
+-,-,Stoke City,Sheffield Wednesday,1-1,-
+-,-,Sunderland,Sheffield Wednesday,0-0,-
+-,-,Tottenham Hotspur,Sheffield Wednesday,1-2,-
+-,-,West Bromwich Albion,Sheffield Wednesday,0-0,-
+-,-,West Ham United,Sheffield Wednesday,1-1,-
+-,-,Wolverhampton Wanderers,Sheffield Wednesday,0-3,-
+-,-,Arsenal,Southampton,0-0,-
+-,-,Burnley,Southampton,3-1,-
+-,-,Chelsea,Southampton,2-3,-
+-,-,Coventry City,Southampton,1-1,-
+-,-,Everton,Southampton,1-0,-
+-,-,Ipswich Town,Southampton,0-0,-
+-,-,Leeds United,Southampton,3-2,-
+-,-,Leicester City,Southampton,3-1,-
+-,-,Liverpool,Southampton,1-0,-
+-,-,Manchester City,Southampton,1-1,-
+-,-,Manchester United,Southampton,1-2,-
+-,-,Newcastle United,Southampton,4-1,-
+-,-,Nottingham Forest,Southampton,1-0,-
+-,-,Queens Park Rangers,Southampton,1-1,-
+-,-,Sheffield Wednesday,Southampton,0-0,-
+-,-,Stoke City,Southampton,1-0,-
+-,-,Sunderland,Southampton,1-0,-
+-,-,Tottenham Hotspur,Southampton,2-1,-
+-,-,West Bromwich Albion,Southampton,1-2,-
+-,-,West Ham United,Southampton,0-0,-
+-,-,Wolverhampton Wanderers,Southampton,0-0,-
+-,-,Arsenal,Stoke City,1-0,-
+-,-,Burnley,Stoke City,1-1,-
+-,-,Chelsea,Stoke City,1-0,-
+-,-,Coventry City,Stoke City,1-1,-
+-,-,Everton,Stoke City,2-1,-
+-,-,Ipswich Town,Stoke City,3-1,-
+-,-,Leeds United,Stoke City,2-0,-
+-,-,Leicester City,Stoke City,0-0,-
+-,-,Liverpool,Stoke City,2-1,-
+-,-,Manchester City,Stoke City,3-1,-
+-,-,Manchester United,Stoke City,1-1,-
+-,-,Newcastle United,Stoke City,5-0,-
+-,-,Nottingham Forest,Stoke City,3-3,-
+-,-,Queens Park Rangers,Stoke City,2-1,-
+-,-,Sheffield Wednesday,Stoke City,2-1,-
+-,-,Southampton,Stoke City,2-0,-
+-,-,Sunderland,Stoke City,4-1,-
+-,-,Tottenham Hotspur,Stoke City,1-1,-
+-,-,West Bromwich Albion,Stoke City,2-1,-
+-,-,West Ham United,Stoke City,0-0,-
+-,-,Wolverhampton Wanderers,Stoke City,1-1,-
+-,-,Arsenal,Sunderland,0-0,-
+-,-,Burnley,Sunderland,1-2,-
+-,-,Chelsea,Sunderland,5-1,-
+-,-,Coventry City,Sunderland,3-1,-
+-,-,Everton,Sunderland,2-0,-
+-,-,Ipswich Town,Sunderland,1-0,-
+-,-,Leeds United,Sunderland,1-1,-
+-,-,Leicester City,Sunderland,2-1,-
+-,-,Liverpool,Sunderland,4-1,-
+-,-,Manchester City,Sunderland,1-0,-
+-,-,Manchester United,Sunderland,4-1,-
+-,-,Newcastle United,Sunderland,1-1,-
+-,-,Nottingham Forest,Sunderland,1-0,-
+-,-,Queens Park Rangers,Sunderland,2-2,-
+-,-,Sheffield Wednesday,Sunderland,1-1,-
+-,-,Southampton,Sunderland,1-0,-
+-,-,Stoke City,Sunderland,2-1,-
+-,-,Tottenham Hotspur,Sunderland,5-1,-
+-,-,West Bromwich Albion,Sunderland,3-0,-
+-,-,West Ham United,Sunderland,8-0,-
+-,-,Wolverhampton Wanderers,Sunderland,1-1,-
+-,-,Arsenal,Tottenham Hotspur,1-0,-
+-,-,Burnley,Tottenham Hotspur,2-2,-
+-,-,Chelsea,Tottenham Hotspur,2-2,-
+-,-,Coventry City,Tottenham Hotspur,1-2,-
+-,-,Everton,Tottenham Hotspur,0-2,-
+-,-,Ipswich Town,Tottenham Hotspur,0-1,-
+-,-,Leeds United,Tottenham Hotspur,0-0,-
+-,-,Leicester City,Tottenham Hotspur,1-0,-
+-,-,Liverpool,Tottenham Hotspur,1-0,-
+-,-,Manchester City,Tottenham Hotspur,4-0,-
+-,-,Manchester United,Tottenham Hotspur,3-1,-
+-,-,Newcastle United,Tottenham Hotspur,2-2,-
+-,-,Nottingham Forest,Tottenham Hotspur,0-2,-
+-,-,Queens Park Rangers,Tottenham Hotspur,1-1,-
+-,-,Sheffield Wednesday,Tottenham Hotspur,0-0,-
+-,-,Southampton,Tottenham Hotspur,2-1,-
+-,-,Stoke City,Tottenham Hotspur,1-1,-
+-,-,Sunderland,Tottenham Hotspur,0-0,-
+-,-,West Bromwich Albion,Tottenham Hotspur,4-3,-
+-,-,West Ham United,Tottenham Hotspur,2-2,-
+-,-,Wolverhampton Wanderers,Tottenham Hotspur,2-0,-
+-,-,Arsenal,West Bromwich Albion,2-0,-
+-,-,Burnley,West Bromwich Albion,2-2,-
+-,-,Chelsea,West Bromwich Albion,3-1,-
+-,-,Coventry City,West Bromwich Albion,4-2,-
+-,-,Everton,West Bromwich Albion,4-0,-
+-,-,Ipswich Town,West Bromwich Albion,4-1,-
+-,-,Leeds United,West Bromwich Albion,0-0,-
+-,-,Leicester City,West Bromwich Albion,0-2,-
+-,-,Liverpool,West Bromwich Albion,1-0,-
+-,-,Manchester City,West Bromwich Albion,5-1,-
+-,-,Manchester United,West Bromwich Albion,2-1,-
+-,-,Newcastle United,West Bromwich Albion,2-3,-
+-,-,Nottingham Forest,West Bromwich Albion,3-0,-
+-,-,Queens Park Rangers,West Bromwich Albion,0-4,-
+-,-,Sheffield Wednesday,West Bromwich Albion,1-0,-
+-,-,Southampton,West Bromwich Albion,2-0,-
+-,-,Stoke City,West Bromwich Albion,1-1,-
+-,-,Sunderland,West Bromwich Albion,0-1,-
+-,-,Tottenham Hotspur,West Bromwich Albion,1-1,-
+-,-,West Ham United,West Bromwich Albion,4-0,-
+-,-,Wolverhampton Wanderers,West Bromwich Albion,0-1,-
+-,-,Arsenal,West Ham United,0-0,-
+-,-,Burnley,West Ham United,3-1,-
+-,-,Chelsea,West Ham United,1-1,-
+-,-,Coventry City,West Ham United,1-2,-
+-,-,Everton,West Ham United,1-0,-
+-,-,Ipswich Town,West Ham United,2-2,-
+-,-,Leeds United,West Ham United,2-0,-
+-,-,Leicester City,West Ham United,1-1,-
+-,-,Liverpool,West Ham United,2-0,-
+-,-,Manchester City,West Ham United,1-1,-
+-,-,Manchester United,West Ham United,1-1,-
+-,-,Newcastle United,West Ham United,1-1,-
+-,-,Nottingham Forest,West Ham United,0-1,-
+-,-,Queens Park Rangers,West Ham United,1-1,-
+-,-,Sheffield Wednesday,West Ham United,1-1,-
+-,-,Southampton,West Ham United,2-2,-
+-,-,Stoke City,West Ham United,0-2,-
+-,-,Sunderland,West Ham United,2-1,-
+-,-,Tottenham Hotspur,West Ham United,1-0,-
+-,-,West Bromwich Albion,West Ham United,3-1,-
+-,-,Wolverhampton Wanderers,West Ham United,2-0,-
+-,-,Arsenal,Wolverhampton Wanderers,3-1,-
+-,-,Burnley,Wolverhampton Wanderers,1-1,-
+-,-,Chelsea,Wolverhampton Wanderers,1-1,-
+-,-,Coventry City,Wolverhampton Wanderers,0-1,-
+-,-,Everton,Wolverhampton Wanderers,4-0,-
+-,-,Ipswich Town,Wolverhampton Wanderers,1-0,-
+-,-,Leeds United,Wolverhampton Wanderers,2-1,-
+-,-,Leicester City,Wolverhampton Wanderers,2-0,-
+-,-,Liverpool,Wolverhampton Wanderers,1-0,-
+-,-,Manchester City,Wolverhampton Wanderers,3-2,-
+-,-,Manchester United,Wolverhampton Wanderers,2-0,-
+-,-,Newcastle United,Wolverhampton Wanderers,4-1,-
+-,-,Nottingham Forest,Wolverhampton Wanderers,0-0,-
+-,-,Queens Park Rangers,Wolverhampton Wanderers,0-1,-
+-,-,Sheffield Wednesday,Wolverhampton Wanderers,0-2,-
+-,-,Southampton,Wolverhampton Wanderers,2-1,-
+-,-,Stoke City,Wolverhampton Wanderers,4-1,-
+-,-,Sunderland,Wolverhampton Wanderers,2-0,-
+-,-,Tottenham Hotspur,Wolverhampton Wanderers,1-1,-
+-,-,West Bromwich Albion,Wolverhampton Wanderers,0-0,-
+-,-,West Ham United,Wolverhampton Wanderers,3-1,-

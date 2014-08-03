@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Blackpool,Barnsley,2-1
--,Bradford City,Barnsley,0-1
--,Bradford Park Avenue,Barnsley,4-4
--,Bristol City,Barnsley,2-1
--,Bury,Barnsley,2-1
--,Cardiff City,Barnsley,1-0
--,Charlton Athletic,Barnsley,2-0
--,Chelsea,Barnsley,2-0
--,Hull City,Barnsley,2-0
--,Millwall,Barnsley,2-1
--,Nottingham Forest,Barnsley,4-0
--,Notts County,Barnsley,3-0
--,Oldham Athletic,Barnsley,3-2
--,Preston North End,Barnsley,3-1
--,Reading,Barnsley,1-0
--,Southampton,Barnsley,4-0
--,Stoke City,Barnsley,3-0
--,Swansea City,Barnsley,0-2
--,Tottenham Hotspur,Barnsley,2-1
--,West Bromwich Albion,Barnsley,4-2
--,Wolverhampton Wanderers,Barnsley,3-0
--,Barnsley,Blackpool,2-4
--,Bradford City,Blackpool,1-1
--,Bradford Park Avenue,Blackpool,5-0
--,Bristol City,Blackpool,0-1
--,Bury,Blackpool,0-1
--,Cardiff City,Blackpool,4-2
--,Charlton Athletic,Blackpool,1-4
--,Chelsea,Blackpool,4-0
--,Hull City,Blackpool,0-3
--,Millwall,Blackpool,3-1
--,Nottingham Forest,Blackpool,0-0
--,Notts County,Blackpool,0-2
--,Oldham Athletic,Blackpool,1-2
--,Preston North End,Blackpool,4-6
--,Reading,Blackpool,1-1
--,Southampton,Blackpool,4-2
--,Stoke City,Blackpool,0-1
--,Swansea City,Blackpool,3-0
--,Tottenham Hotspur,Blackpool,6-1
--,West Bromwich Albion,Blackpool,5-1
--,Wolverhampton Wanderers,Blackpool,1-2
--,Barnsley,Bradford City,2-1
--,Blackpool,Bradford City,3-0
--,Bradford Park Avenue,Bradford City,0-2
--,Bristol City,Bradford City,1-3
--,Bury,Bradford City,2-4
--,Cardiff City,Bradford City,0-1
--,Charlton Athletic,Bradford City,1-3
--,Chelsea,Bradford City,3-2
--,Hull City,Bradford City,0-0
--,Millwall,Bradford City,2-2
--,Nottingham Forest,Bradford City,2-1
--,Notts County,Bradford City,2-0
--,Oldham Athletic,Bradford City,6-1
--,Preston North End,Bradford City,2-2
--,Reading,Bradford City,1-1
--,Southampton,Bradford City,2-1
--,Stoke City,Bradford City,2-0
--,Swansea City,Bradford City,5-0
--,Tottenham Hotspur,Bradford City,1-1
--,West Bromwich Albion,Bradford City,4-2
--,Wolverhampton Wanderers,Bradford City,6-0
--,Barnsley,Bradford Park Avenue,1-1
--,Blackpool,Bradford Park Avenue,1-0
--,Bradford City,Bradford Park Avenue,1-2
--,Bristol City,Bradford Park Avenue,0-0
--,Bury,Bradford Park Avenue,5-1
--,Cardiff City,Bradford Park Avenue,2-0
--,Charlton Athletic,Bradford Park Avenue,2-0
--,Chelsea,Bradford Park Avenue,1-2
--,Hull City,Bradford Park Avenue,0-2
--,Millwall,Bradford Park Avenue,1-2
--,Nottingham Forest,Bradford Park Avenue,1-1
--,Notts County,Bradford Park Avenue,1-1
--,Oldham Athletic,Bradford Park Avenue,5-1
--,Preston North End,Bradford Park Avenue,4-1
--,Reading,Bradford Park Avenue,1-0
--,Southampton,Bradford Park Avenue,2-2
--,Stoke City,Bradford Park Avenue,2-1
--,Swansea City,Bradford Park Avenue,2-4
--,Tottenham Hotspur,Bradford Park Avenue,1-1
--,West Bromwich Albion,Bradford Park Avenue,5-0
--,Wolverhampton Wanderers,Bradford Park Avenue,4-4
--,Barnsley,Bristol City,3-1
--,Blackpool,Bristol City,7-1
--,Bradford City,Bristol City,3-0
--,Bradford Park Avenue,Bristol City,3-1
--,Bury,Bristol City,2-0
--,Cardiff City,Bristol City,1-1
--,Charlton Athletic,Bristol City,3-1
--,Chelsea,Bristol City,2-1
--,Hull City,Bristol City,0-1
--,Millwall,Bristol City,1-1
--,Nottingham Forest,Bristol City,5-2
--,Notts County,Bristol City,3-1
--,Oldham Athletic,Bristol City,2-2
--,Preston North End,Bristol City,2-2
--,Reading,Bristol City,1-6
--,Southampton,Bristol City,3-0
--,Stoke City,Bristol City,6-2
--,Swansea City,Bristol City,1-1
--,Tottenham Hotspur,Bristol City,2-1
--,West Bromwich Albion,Bristol City,2-0
--,Wolverhampton Wanderers,Bristol City,1-0
--,Barnsley,Bury,2-1
--,Blackpool,Bury,2-1
--,Bradford City,Bury,2-1
--,Bradford Park Avenue,Bury,2-1
--,Bristol City,Bury,1-2
--,Cardiff City,Bury,5-1
--,Charlton Athletic,Bury,1-2
--,Chelsea,Bury,5-3
--,Hull City,Bury,1-3
--,Millwall,Bury,2-4
--,Nottingham Forest,Bury,1-2
--,Notts County,Bury,1-3
--,Oldham Athletic,Bury,2-0
--,Preston North End,Bury,1-1
--,Reading,Bury,0-1
--,Southampton,Bury,0-0
--,Stoke City,Bury,1-0
--,Swansea City,Bury,2-4
--,Tottenham Hotspur,Bury,2-2
--,West Bromwich Albion,Bury,5-1
--,Wolverhampton Wanderers,Bury,2-0
--,Barnsley,Cardiff City,2-2
--,Blackpool,Cardiff City,3-0
--,Bradford City,Cardiff City,0-1
--,Bradford Park Avenue,Cardiff City,2-0
--,Bristol City,Cardiff City,2-0
--,Bury,Cardiff City,4-2
--,Charlton Athletic,Cardiff City,4-1
--,Chelsea,Cardiff City,1-0
--,Hull City,Cardiff City,2-2
--,Millwall,Cardiff City,2-0
--,Nottingham Forest,Cardiff City,3-1
--,Notts County,Cardiff City,2-1
--,Oldham Athletic,Cardiff City,4-1
--,Preston North End,Cardiff City,2-3
--,Reading,Cardiff City,2-0
--,Southampton,Cardiff City,1-1
--,Stoke City,Cardiff City,1-1
--,Swansea City,Cardiff City,1-0
--,Tottenham Hotspur,Cardiff City,1-2
--,West Bromwich Albion,Cardiff City,0-2
--,Wolverhampton Wanderers,Cardiff City,4-0
--,Barnsley,Charlton Athletic,2-0
--,Blackpool,Charlton Athletic,6-0
--,Bradford City,Charlton Athletic,4-1
--,Bradford Park Avenue,Charlton Athletic,4-0
--,Bristol City,Charlton Athletic,1-1
--,Bury,Charlton Athletic,2-2
--,Cardiff City,Charlton Athletic,1-0
--,Chelsea,Charlton Athletic,1-1
--,Hull City,Charlton Athletic,0-2
--,Millwall,Charlton Athletic,1-1
--,Nottingham Forest,Charlton Athletic,0-2
--,Notts County,Charlton Athletic,4-0
--,Oldham Athletic,Charlton Athletic,1-0
--,Preston North End,Charlton Athletic,0-3
--,Reading,Charlton Athletic,3-1
--,Southampton,Charlton Athletic,2-0
--,Stoke City,Charlton Athletic,2-1
--,Swansea City,Charlton Athletic,2-0
--,Tottenham Hotspur,Charlton Athletic,3-0
--,West Bromwich Albion,Charlton Athletic,1-1
--,Wolverhampton Wanderers,Charlton Athletic,0-4
--,Barnsley,Chelsea,1-1
--,Blackpool,Chelsea,1-1
--,Bradford City,Chelsea,0-1
--,Bradford Park Avenue,Chelsea,1-3
--,Bristol City,Chelsea,2-1
--,Bury,Chelsea,1-0
--,Cardiff City,Chelsea,1-0
--,Charlton Athletic,Chelsea,1-1
--,Hull City,Chelsea,1-3
--,Millwall,Chelsea,0-0
--,Nottingham Forest,Chelsea,0-0
--,Notts County,Chelsea,2-2
--,Oldham Athletic,Chelsea,4-2
--,Preston North End,Chelsea,1-2
--,Reading,Chelsea,3-1
--,Southampton,Chelsea,4-2
--,Stoke City,Chelsea,1-1
--,Swansea City,Chelsea,3-0
--,Tottenham Hotspur,Chelsea,3-3
--,West Bromwich Albion,Chelsea,2-0
--,Wolverhampton Wanderers,Chelsea,0-1
--,Barnsley,Hull City,3-0
--,Blackpool,Hull City,1-2
--,Bradford City,Hull City,2-1
--,Bradford Park Avenue,Hull City,4-2
--,Bristol City,Hull City,4-0
--,Bury,Hull City,2-1
--,Cardiff City,Hull City,0-1
--,Charlton Athletic,Hull City,4-0
--,Chelsea,Hull City,3-0
--,Millwall,Hull City,0-0
--,Nottingham Forest,Hull City,2-1
--,Notts County,Hull City,4-1
--,Oldham Athletic,Hull City,3-1
--,Preston North End,Hull City,1-2
--,Reading,Hull City,1-1
--,Southampton,Hull City,2-2
--,Stoke City,Hull City,3-1
--,Swansea City,Hull City,2-0
--,Tottenham Hotspur,Hull City,2-2
--,West Bromwich Albion,Hull City,7-1
--,Wolverhampton Wanderers,Hull City,4-2
--,Barnsley,Millwall,1-2
--,Blackpool,Millwall,4-3
--,Bradford City,Millwall,1-1
--,Bradford Park Avenue,Millwall,6-0
--,Bristol City,Millwall,1-0
--,Bury,Millwall,5-1
--,Cardiff City,Millwall,3-1
--,Charlton Athletic,Millwall,1-1
--,Chelsea,Millwall,3-0
--,Hull City,Millwall,3-2
--,Nottingham Forest,Millwall,1-1
--,Notts County,Millwall,1-1
--,Oldham Athletic,Millwall,2-2
--,Preston North End,Millwall,3-1
--,Reading,Millwall,0-1
--,Southampton,Millwall,0-0
--,Stoke City,Millwall,1-0
--,Swansea City,Millwall,3-1
--,Tottenham Hotspur,Millwall,1-1
--,West Bromwich Albion,Millwall,6-1
--,Wolverhampton Wanderers,Millwall,1-1
--,Barnsley,Nottingham Forest,1-1
--,Blackpool,Nottingham Forest,5-1
--,Bradford City,Nottingham Forest,1-1
--,Bradford Park Avenue,Nottingham Forest,5-1
--,Bristol City,Nottingham Forest,4-1
--,Bury,Nottingham Forest,0-0
--,Cardiff City,Nottingham Forest,1-1
--,Charlton Athletic,Nottingham Forest,5-0
--,Chelsea,Nottingham Forest,2-0
--,Hull City,Nottingham Forest,1-2
--,Millwall,Nottingham Forest,2-2
--,Notts County,Nottingham Forest,0-0
--,Oldham Athletic,Nottingham Forest,0-0
--,Preston North End,Nottingham Forest,1-2
--,Reading,Nottingham Forest,0-1
--,Southampton,Nottingham Forest,2-0
--,Stoke City,Nottingham Forest,6-0
--,Swansea City,Nottingham Forest,1-1
--,Tottenham Hotspur,Nottingham Forest,1-1
--,West Bromwich Albion,Nottingham Forest,1-3
--,Wolverhampton Wanderers,Nottingham Forest,2-1
--,Barnsley,Notts County,2-2
--,Blackpool,Notts County,1-2
--,Bradford City,Notts County,2-0
--,Bradford Park Avenue,Notts County,3-3
--,Bristol City,Notts County,0-0
--,Bury,Notts County,2-0
--,Cardiff City,Notts County,3-1
--,Charlton Athletic,Notts County,1-0
--,Chelsea,Notts County,3-1
--,Hull City,Notts County,0-0
--,Millwall,Notts County,2-0
--,Nottingham Forest,Notts County,1-1
--,Oldham Athletic,Notts County,2-2
--,Preston North End,Notts County,3-1
--,Reading,Notts County,2-0
--,Southampton,Notts County,2-2
--,Stoke City,Notts County,1-1
--,Swansea City,Notts County,3-2
--,Tottenham Hotspur,Notts County,2-0
--,West Bromwich Albion,Notts County,4-2
--,Wolverhampton Wanderers,Notts County,5-1
--,Barnsley,Oldham Athletic,2-1
--,Blackpool,Oldham Athletic,3-0
--,Bradford City,Oldham Athletic,2-4
--,Bradford Park Avenue,Oldham Athletic,2-2
--,Bristol City,Oldham Athletic,0-4
--,Bury,Oldham Athletic,0-2
--,Cardiff City,Oldham Athletic,5-0
--,Charlton Athletic,Oldham Athletic,1-1
--,Chelsea,Oldham Athletic,1-1
--,Hull City,Oldham Athletic,1-0
--,Millwall,Oldham Athletic,2-1
--,Nottingham Forest,Oldham Athletic,1-2
--,Notts County,Oldham Athletic,1-1
--,Preston North End,Oldham Athletic,0-3
--,Reading,Oldham Athletic,1-1
--,Southampton,Oldham Athletic,2-0
--,Stoke City,Oldham Athletic,0-2
--,Swansea City,Oldham Athletic,3-0
--,Tottenham Hotspur,Oldham Athletic,2-1
--,West Bromwich Albion,Oldham Athletic,0-3
--,Wolverhampton Wanderers,Oldham Athletic,1-1
--,Barnsley,Preston North End,0-0
--,Blackpool,Preston North End,5-1
--,Bradford City,Preston North End,1-1
--,Bradford Park Avenue,Preston North End,5-2
--,Bristol City,Preston North End,2-2
--,Bury,Preston North End,1-2
--,Cardiff City,Preston North End,2-0
--,Charlton Athletic,Preston North End,1-1
--,Chelsea,Preston North End,5-0
--,Hull City,Preston North End,2-0
--,Millwall,Preston North End,2-0
--,Nottingham Forest,Preston North End,2-4
--,Notts County,Preston North End,0-3
--,Oldham Athletic,Preston North End,0-2
--,Reading,Preston North End,2-0
--,Southampton,Preston North End,1-2
--,Stoke City,Preston North End,2-3
--,Swansea City,Preston North End,4-0
--,Tottenham Hotspur,Preston North End,1-0
--,West Bromwich Albion,Preston North End,2-0
--,Wolverhampton Wanderers,Preston North End,4-0
--,Barnsley,Reading,1-0
--,Blackpool,Reading,4-2
--,Bradford City,Reading,1-0
--,Bradford Park Avenue,Reading,5-2
--,Bristol City,Reading,5-3
--,Bury,Reading,2-4
--,Cardiff City,Reading,2-1
--,Charlton Athletic,Reading,0-0
--,Chelsea,Reading,1-0
--,Hull City,Reading,4-2
--,Millwall,Reading,3-1
--,Nottingham Forest,Reading,5-0
--,Notts County,Reading,3-0
--,Oldham Athletic,Reading,0-0
--,Preston North End,Reading,2-1
--,Southampton,Reading,4-3
--,Stoke City,Reading,2-2
--,Swansea City,Reading,0-1
--,Tottenham Hotspur,Reading,0-0
--,West Bromwich Albion,Reading,1-0
--,Wolverhampton Wanderers,Reading,2-1
--,Barnsley,Southampton,3-1
--,Blackpool,Southampton,5-1
--,Bradford City,Southampton,2-5
--,Bradford Park Avenue,Southampton,1-1
--,Bristol City,Southampton,3-1
--,Bury,Southampton,4-2
--,Cardiff City,Southampton,5-2
--,Charlton Athletic,Southampton,4-1
--,Chelsea,Southampton,2-0
--,Hull City,Southampton,2-0
--,Millwall,Southampton,1-1
--,Nottingham Forest,Southampton,0-5
--,Notts County,Southampton,1-2
--,Oldham Athletic,Southampton,3-2
--,Preston North End,Southampton,1-1
--,Reading,Southampton,1-1
--,Stoke City,Southampton,4-0
--,Swansea City,Southampton,2-2
--,Tottenham Hotspur,Southampton,3-2
--,West Bromwich Albion,Southampton,5-1
--,Wolverhampton Wanderers,Southampton,2-0
--,Barnsley,Stoke City,3-1
--,Blackpool,Stoke City,0-2
--,Bradford City,Stoke City,3-0
--,Bradford Park Avenue,Stoke City,3-2
--,Bristol City,Stoke City,2-6
--,Bury,Stoke City,2-0
--,Cardiff City,Stoke City,1-2
--,Charlton Athletic,Stoke City,4-4
--,Chelsea,Stoke City,3-2
--,Hull City,Stoke City,3-0
--,Millwall,Stoke City,2-1
--,Nottingham Forest,Stoke City,2-1
--,Notts County,Stoke City,3-3
--,Oldham Athletic,Stoke City,5-0
--,Preston North End,Stoke City,5-1
--,Reading,Stoke City,0-0
--,Southampton,Stoke City,2-1
--,Swansea City,Stoke City,2-2
--,Tottenham Hotspur,Stoke City,3-1
--,West Bromwich Albion,Stoke City,2-3
--,Wolverhampton Wanderers,Stoke City,2-1
--,Barnsley,Swansea City,1-0
--,Blackpool,Swansea City,3-0
--,Bradford City,Swansea City,3-3
--,Bradford Park Avenue,Swansea City,3-0
--,Bristol City,Swansea City,2-1
--,Bury,Swansea City,1-0
--,Cardiff City,Swansea City,0-0
--,Charlton Athletic,Swansea City,0-2
--,Chelsea,Swansea City,1-0
--,Hull City,Swansea City,1-0
--,Millwall,Swansea City,0-2
--,Nottingham Forest,Swansea City,1-0
--,Notts County,Swansea City,0-0
--,Oldham Athletic,Swansea City,4-1
--,Preston North End,Swansea City,0-0
--,Reading,Swansea City,3-1
--,Southampton,Swansea City,2-1
--,Stoke City,Swansea City,0-1
--,Tottenham Hotspur,Swansea City,3-0
--,West Bromwich Albion,Swansea City,6-2
--,Wolverhampton Wanderers,Swansea City,4-1
--,Barnsley,Tottenham Hotspur,2-0
--,Blackpool,Tottenham Hotspur,3-2
--,Bradford City,Tottenham Hotspur,0-2
--,Bradford Park Avenue,Tottenham Hotspur,2-1
--,Bristol City,Tottenham Hotspur,1-0
--,Bury,Tottenham Hotspur,2-1
--,Cardiff City,Tottenham Hotspur,1-0
--,Charlton Athletic,Tottenham Hotspur,1-0
--,Chelsea,Tottenham Hotspur,3-0
--,Hull City,Tottenham Hotspur,2-0
--,Millwall,Tottenham Hotspur,2-5
--,Nottingham Forest,Tottenham Hotspur,0-0
--,Notts County,Tottenham Hotspur,0-1
--,Oldham Athletic,Tottenham Hotspur,2-0
--,Preston North End,Tottenham Hotspur,4-0
--,Reading,Tottenham Hotspur,3-0
--,Southampton,Tottenham Hotspur,1-0
--,Stoke City,Tottenham Hotspur,1-0
--,Swansea City,Tottenham Hotspur,0-1
--,West Bromwich Albion,Tottenham Hotspur,4-3
--,Wolverhampton Wanderers,Tottenham Hotspur,3-0
--,Barnsley,West Bromwich Albion,2-2
--,Blackpool,West Bromwich Albion,1-0
--,Bradford City,West Bromwich Albion,2-2
--,Bradford Park Avenue,West Bromwich Albion,5-1
--,Bristol City,West Bromwich Albion,2-1
--,Bury,West Bromwich Albion,3-2
--,Cardiff City,West Bromwich Albion,3-2
--,Charlton Athletic,West Bromwich Albion,0-1
--,Chelsea,West Bromwich Albion,2-0
--,Hull City,West Bromwich Albion,3-2
--,Millwall,West Bromwich Albion,2-1
--,Nottingham Forest,West Bromwich Albion,0-2
--,Notts County,West Bromwich Albion,2-1
--,Oldham Athletic,West Bromwich Albion,5-0
--,Preston North End,West Bromwich Albion,2-2
--,Reading,West Bromwich Albion,2-2
--,Southampton,West Bromwich Albion,3-2
--,Stoke City,West Bromwich Albion,0-3
--,Swansea City,West Bromwich Albion,1-0
--,Tottenham Hotspur,West Bromwich Albion,0-2
--,Wolverhampton Wanderers,West Bromwich Albion,2-4
--,Barnsley,Wolverhampton Wanderers,3-1
--,Blackpool,Wolverhampton Wanderers,3-2
--,Bradford City,Wolverhampton Wanderers,2-2
--,Bradford Park Avenue,Wolverhampton Wanderers,0-0
--,Bristol City,Wolverhampton Wanderers,1-2
--,Bury,Wolverhampton Wanderers,3-1
--,Cardiff City,Wolverhampton Wanderers,0-0
--,Charlton Athletic,Wolverhampton Wanderers,2-0
--,Chelsea,Wolverhampton Wanderers,1-1
--,Hull City,Wolverhampton Wanderers,2-0
--,Millwall,Wolverhampton Wanderers,4-0
--,Nottingham Forest,Wolverhampton Wanderers,5-2
--,Notts County,Wolverhampton Wanderers,0-3
--,Oldham Athletic,Wolverhampton Wanderers,6-0
--,Preston North End,Wolverhampton Wanderers,1-1
--,Reading,Wolverhampton Wanderers,3-1
--,Southampton,Wolverhampton Wanderers,3-1
--,Stoke City,Wolverhampton Wanderers,3-0
--,Swansea City,Wolverhampton Wanderers,2-2
--,Tottenham Hotspur,Wolverhampton Wanderers,4-2
--,West Bromwich Albion,Wolverhampton Wanderers,7-3
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Blackpool,Barnsley,2-1,-
+-,-,Bradford City,Barnsley,0-1,-
+-,-,Bradford Park Avenue,Barnsley,4-4,-
+-,-,Bristol City,Barnsley,2-1,-
+-,-,Bury,Barnsley,2-1,-
+-,-,Cardiff City,Barnsley,1-0,-
+-,-,Charlton Athletic,Barnsley,2-0,-
+-,-,Chelsea,Barnsley,2-0,-
+-,-,Hull City,Barnsley,2-0,-
+-,-,Millwall,Barnsley,2-1,-
+-,-,Nottingham Forest,Barnsley,4-0,-
+-,-,Notts County,Barnsley,3-0,-
+-,-,Oldham Athletic,Barnsley,3-2,-
+-,-,Preston North End,Barnsley,3-1,-
+-,-,Reading,Barnsley,1-0,-
+-,-,Southampton,Barnsley,4-0,-
+-,-,Stoke City,Barnsley,3-0,-
+-,-,Swansea City,Barnsley,0-2,-
+-,-,Tottenham Hotspur,Barnsley,2-1,-
+-,-,West Bromwich Albion,Barnsley,4-2,-
+-,-,Wolverhampton Wanderers,Barnsley,3-0,-
+-,-,Barnsley,Blackpool,2-4,-
+-,-,Bradford City,Blackpool,1-1,-
+-,-,Bradford Park Avenue,Blackpool,5-0,-
+-,-,Bristol City,Blackpool,0-1,-
+-,-,Bury,Blackpool,0-1,-
+-,-,Cardiff City,Blackpool,4-2,-
+-,-,Charlton Athletic,Blackpool,1-4,-
+-,-,Chelsea,Blackpool,4-0,-
+-,-,Hull City,Blackpool,0-3,-
+-,-,Millwall,Blackpool,3-1,-
+-,-,Nottingham Forest,Blackpool,0-0,-
+-,-,Notts County,Blackpool,0-2,-
+-,-,Oldham Athletic,Blackpool,1-2,-
+-,-,Preston North End,Blackpool,4-6,-
+-,-,Reading,Blackpool,1-1,-
+-,-,Southampton,Blackpool,4-2,-
+-,-,Stoke City,Blackpool,0-1,-
+-,-,Swansea City,Blackpool,3-0,-
+-,-,Tottenham Hotspur,Blackpool,6-1,-
+-,-,West Bromwich Albion,Blackpool,5-1,-
+-,-,Wolverhampton Wanderers,Blackpool,1-2,-
+-,-,Barnsley,Bradford City,2-1,-
+-,-,Blackpool,Bradford City,3-0,-
+-,-,Bradford Park Avenue,Bradford City,0-2,-
+-,-,Bristol City,Bradford City,1-3,-
+-,-,Bury,Bradford City,2-4,-
+-,-,Cardiff City,Bradford City,0-1,-
+-,-,Charlton Athletic,Bradford City,1-3,-
+-,-,Chelsea,Bradford City,3-2,-
+-,-,Hull City,Bradford City,0-0,-
+-,-,Millwall,Bradford City,2-2,-
+-,-,Nottingham Forest,Bradford City,2-1,-
+-,-,Notts County,Bradford City,2-0,-
+-,-,Oldham Athletic,Bradford City,6-1,-
+-,-,Preston North End,Bradford City,2-2,-
+-,-,Reading,Bradford City,1-1,-
+-,-,Southampton,Bradford City,2-1,-
+-,-,Stoke City,Bradford City,2-0,-
+-,-,Swansea City,Bradford City,5-0,-
+-,-,Tottenham Hotspur,Bradford City,1-1,-
+-,-,West Bromwich Albion,Bradford City,4-2,-
+-,-,Wolverhampton Wanderers,Bradford City,6-0,-
+-,-,Barnsley,Bradford Park Avenue,1-1,-
+-,-,Blackpool,Bradford Park Avenue,1-0,-
+-,-,Bradford City,Bradford Park Avenue,1-2,-
+-,-,Bristol City,Bradford Park Avenue,0-0,-
+-,-,Bury,Bradford Park Avenue,5-1,-
+-,-,Cardiff City,Bradford Park Avenue,2-0,-
+-,-,Charlton Athletic,Bradford Park Avenue,2-0,-
+-,-,Chelsea,Bradford Park Avenue,1-2,-
+-,-,Hull City,Bradford Park Avenue,0-2,-
+-,-,Millwall,Bradford Park Avenue,1-2,-
+-,-,Nottingham Forest,Bradford Park Avenue,1-1,-
+-,-,Notts County,Bradford Park Avenue,1-1,-
+-,-,Oldham Athletic,Bradford Park Avenue,5-1,-
+-,-,Preston North End,Bradford Park Avenue,4-1,-
+-,-,Reading,Bradford Park Avenue,1-0,-
+-,-,Southampton,Bradford Park Avenue,2-2,-
+-,-,Stoke City,Bradford Park Avenue,2-1,-
+-,-,Swansea City,Bradford Park Avenue,2-4,-
+-,-,Tottenham Hotspur,Bradford Park Avenue,1-1,-
+-,-,West Bromwich Albion,Bradford Park Avenue,5-0,-
+-,-,Wolverhampton Wanderers,Bradford Park Avenue,4-4,-
+-,-,Barnsley,Bristol City,3-1,-
+-,-,Blackpool,Bristol City,7-1,-
+-,-,Bradford City,Bristol City,3-0,-
+-,-,Bradford Park Avenue,Bristol City,3-1,-
+-,-,Bury,Bristol City,2-0,-
+-,-,Cardiff City,Bristol City,1-1,-
+-,-,Charlton Athletic,Bristol City,3-1,-
+-,-,Chelsea,Bristol City,2-1,-
+-,-,Hull City,Bristol City,0-1,-
+-,-,Millwall,Bristol City,1-1,-
+-,-,Nottingham Forest,Bristol City,5-2,-
+-,-,Notts County,Bristol City,3-1,-
+-,-,Oldham Athletic,Bristol City,2-2,-
+-,-,Preston North End,Bristol City,2-2,-
+-,-,Reading,Bristol City,1-6,-
+-,-,Southampton,Bristol City,3-0,-
+-,-,Stoke City,Bristol City,6-2,-
+-,-,Swansea City,Bristol City,1-1,-
+-,-,Tottenham Hotspur,Bristol City,2-1,-
+-,-,West Bromwich Albion,Bristol City,2-0,-
+-,-,Wolverhampton Wanderers,Bristol City,1-0,-
+-,-,Barnsley,Bury,2-1,-
+-,-,Blackpool,Bury,2-1,-
+-,-,Bradford City,Bury,2-1,-
+-,-,Bradford Park Avenue,Bury,2-1,-
+-,-,Bristol City,Bury,1-2,-
+-,-,Cardiff City,Bury,5-1,-
+-,-,Charlton Athletic,Bury,1-2,-
+-,-,Chelsea,Bury,5-3,-
+-,-,Hull City,Bury,1-3,-
+-,-,Millwall,Bury,2-4,-
+-,-,Nottingham Forest,Bury,1-2,-
+-,-,Notts County,Bury,1-3,-
+-,-,Oldham Athletic,Bury,2-0,-
+-,-,Preston North End,Bury,1-1,-
+-,-,Reading,Bury,0-1,-
+-,-,Southampton,Bury,0-0,-
+-,-,Stoke City,Bury,1-0,-
+-,-,Swansea City,Bury,2-4,-
+-,-,Tottenham Hotspur,Bury,2-2,-
+-,-,West Bromwich Albion,Bury,5-1,-
+-,-,Wolverhampton Wanderers,Bury,2-0,-
+-,-,Barnsley,Cardiff City,2-2,-
+-,-,Blackpool,Cardiff City,3-0,-
+-,-,Bradford City,Cardiff City,0-1,-
+-,-,Bradford Park Avenue,Cardiff City,2-0,-
+-,-,Bristol City,Cardiff City,2-0,-
+-,-,Bury,Cardiff City,4-2,-
+-,-,Charlton Athletic,Cardiff City,4-1,-
+-,-,Chelsea,Cardiff City,1-0,-
+-,-,Hull City,Cardiff City,2-2,-
+-,-,Millwall,Cardiff City,2-0,-
+-,-,Nottingham Forest,Cardiff City,3-1,-
+-,-,Notts County,Cardiff City,2-1,-
+-,-,Oldham Athletic,Cardiff City,4-1,-
+-,-,Preston North End,Cardiff City,2-3,-
+-,-,Reading,Cardiff City,2-0,-
+-,-,Southampton,Cardiff City,1-1,-
+-,-,Stoke City,Cardiff City,1-1,-
+-,-,Swansea City,Cardiff City,1-0,-
+-,-,Tottenham Hotspur,Cardiff City,1-2,-
+-,-,West Bromwich Albion,Cardiff City,0-2,-
+-,-,Wolverhampton Wanderers,Cardiff City,4-0,-
+-,-,Barnsley,Charlton Athletic,2-0,-
+-,-,Blackpool,Charlton Athletic,6-0,-
+-,-,Bradford City,Charlton Athletic,4-1,-
+-,-,Bradford Park Avenue,Charlton Athletic,4-0,-
+-,-,Bristol City,Charlton Athletic,1-1,-
+-,-,Bury,Charlton Athletic,2-2,-
+-,-,Cardiff City,Charlton Athletic,1-0,-
+-,-,Chelsea,Charlton Athletic,1-1,-
+-,-,Hull City,Charlton Athletic,0-2,-
+-,-,Millwall,Charlton Athletic,1-1,-
+-,-,Nottingham Forest,Charlton Athletic,0-2,-
+-,-,Notts County,Charlton Athletic,4-0,-
+-,-,Oldham Athletic,Charlton Athletic,1-0,-
+-,-,Preston North End,Charlton Athletic,0-3,-
+-,-,Reading,Charlton Athletic,3-1,-
+-,-,Southampton,Charlton Athletic,2-0,-
+-,-,Stoke City,Charlton Athletic,2-1,-
+-,-,Swansea City,Charlton Athletic,2-0,-
+-,-,Tottenham Hotspur,Charlton Athletic,3-0,-
+-,-,West Bromwich Albion,Charlton Athletic,1-1,-
+-,-,Wolverhampton Wanderers,Charlton Athletic,0-4,-
+-,-,Barnsley,Chelsea,1-1,-
+-,-,Blackpool,Chelsea,1-1,-
+-,-,Bradford City,Chelsea,0-1,-
+-,-,Bradford Park Avenue,Chelsea,1-3,-
+-,-,Bristol City,Chelsea,2-1,-
+-,-,Bury,Chelsea,1-0,-
+-,-,Cardiff City,Chelsea,1-0,-
+-,-,Charlton Athletic,Chelsea,1-1,-
+-,-,Hull City,Chelsea,1-3,-
+-,-,Millwall,Chelsea,0-0,-
+-,-,Nottingham Forest,Chelsea,0-0,-
+-,-,Notts County,Chelsea,2-2,-
+-,-,Oldham Athletic,Chelsea,4-2,-
+-,-,Preston North End,Chelsea,1-2,-
+-,-,Reading,Chelsea,3-1,-
+-,-,Southampton,Chelsea,4-2,-
+-,-,Stoke City,Chelsea,1-1,-
+-,-,Swansea City,Chelsea,3-0,-
+-,-,Tottenham Hotspur,Chelsea,3-3,-
+-,-,West Bromwich Albion,Chelsea,2-0,-
+-,-,Wolverhampton Wanderers,Chelsea,0-1,-
+-,-,Barnsley,Hull City,3-0,-
+-,-,Blackpool,Hull City,1-2,-
+-,-,Bradford City,Hull City,2-1,-
+-,-,Bradford Park Avenue,Hull City,4-2,-
+-,-,Bristol City,Hull City,4-0,-
+-,-,Bury,Hull City,2-1,-
+-,-,Cardiff City,Hull City,0-1,-
+-,-,Charlton Athletic,Hull City,4-0,-
+-,-,Chelsea,Hull City,3-0,-
+-,-,Millwall,Hull City,0-0,-
+-,-,Nottingham Forest,Hull City,2-1,-
+-,-,Notts County,Hull City,4-1,-
+-,-,Oldham Athletic,Hull City,3-1,-
+-,-,Preston North End,Hull City,1-2,-
+-,-,Reading,Hull City,1-1,-
+-,-,Southampton,Hull City,2-2,-
+-,-,Stoke City,Hull City,3-1,-
+-,-,Swansea City,Hull City,2-0,-
+-,-,Tottenham Hotspur,Hull City,2-2,-
+-,-,West Bromwich Albion,Hull City,7-1,-
+-,-,Wolverhampton Wanderers,Hull City,4-2,-
+-,-,Barnsley,Millwall,1-2,-
+-,-,Blackpool,Millwall,4-3,-
+-,-,Bradford City,Millwall,1-1,-
+-,-,Bradford Park Avenue,Millwall,6-0,-
+-,-,Bristol City,Millwall,1-0,-
+-,-,Bury,Millwall,5-1,-
+-,-,Cardiff City,Millwall,3-1,-
+-,-,Charlton Athletic,Millwall,1-1,-
+-,-,Chelsea,Millwall,3-0,-
+-,-,Hull City,Millwall,3-2,-
+-,-,Nottingham Forest,Millwall,1-1,-
+-,-,Notts County,Millwall,1-1,-
+-,-,Oldham Athletic,Millwall,2-2,-
+-,-,Preston North End,Millwall,3-1,-
+-,-,Reading,Millwall,0-1,-
+-,-,Southampton,Millwall,0-0,-
+-,-,Stoke City,Millwall,1-0,-
+-,-,Swansea City,Millwall,3-1,-
+-,-,Tottenham Hotspur,Millwall,1-1,-
+-,-,West Bromwich Albion,Millwall,6-1,-
+-,-,Wolverhampton Wanderers,Millwall,1-1,-
+-,-,Barnsley,Nottingham Forest,1-1,-
+-,-,Blackpool,Nottingham Forest,5-1,-
+-,-,Bradford City,Nottingham Forest,1-1,-
+-,-,Bradford Park Avenue,Nottingham Forest,5-1,-
+-,-,Bristol City,Nottingham Forest,4-1,-
+-,-,Bury,Nottingham Forest,0-0,-
+-,-,Cardiff City,Nottingham Forest,1-1,-
+-,-,Charlton Athletic,Nottingham Forest,5-0,-
+-,-,Chelsea,Nottingham Forest,2-0,-
+-,-,Hull City,Nottingham Forest,1-2,-
+-,-,Millwall,Nottingham Forest,2-2,-
+-,-,Notts County,Nottingham Forest,0-0,-
+-,-,Oldham Athletic,Nottingham Forest,0-0,-
+-,-,Preston North End,Nottingham Forest,1-2,-
+-,-,Reading,Nottingham Forest,0-1,-
+-,-,Southampton,Nottingham Forest,2-0,-
+-,-,Stoke City,Nottingham Forest,6-0,-
+-,-,Swansea City,Nottingham Forest,1-1,-
+-,-,Tottenham Hotspur,Nottingham Forest,1-1,-
+-,-,West Bromwich Albion,Nottingham Forest,1-3,-
+-,-,Wolverhampton Wanderers,Nottingham Forest,2-1,-
+-,-,Barnsley,Notts County,2-2,-
+-,-,Blackpool,Notts County,1-2,-
+-,-,Bradford City,Notts County,2-0,-
+-,-,Bradford Park Avenue,Notts County,3-3,-
+-,-,Bristol City,Notts County,0-0,-
+-,-,Bury,Notts County,2-0,-
+-,-,Cardiff City,Notts County,3-1,-
+-,-,Charlton Athletic,Notts County,1-0,-
+-,-,Chelsea,Notts County,3-1,-
+-,-,Hull City,Notts County,0-0,-
+-,-,Millwall,Notts County,2-0,-
+-,-,Nottingham Forest,Notts County,1-1,-
+-,-,Oldham Athletic,Notts County,2-2,-
+-,-,Preston North End,Notts County,3-1,-
+-,-,Reading,Notts County,2-0,-
+-,-,Southampton,Notts County,2-2,-
+-,-,Stoke City,Notts County,1-1,-
+-,-,Swansea City,Notts County,3-2,-
+-,-,Tottenham Hotspur,Notts County,2-0,-
+-,-,West Bromwich Albion,Notts County,4-2,-
+-,-,Wolverhampton Wanderers,Notts County,5-1,-
+-,-,Barnsley,Oldham Athletic,2-1,-
+-,-,Blackpool,Oldham Athletic,3-0,-
+-,-,Bradford City,Oldham Athletic,2-4,-
+-,-,Bradford Park Avenue,Oldham Athletic,2-2,-
+-,-,Bristol City,Oldham Athletic,0-4,-
+-,-,Bury,Oldham Athletic,0-2,-
+-,-,Cardiff City,Oldham Athletic,5-0,-
+-,-,Charlton Athletic,Oldham Athletic,1-1,-
+-,-,Chelsea,Oldham Athletic,1-1,-
+-,-,Hull City,Oldham Athletic,1-0,-
+-,-,Millwall,Oldham Athletic,2-1,-
+-,-,Nottingham Forest,Oldham Athletic,1-2,-
+-,-,Notts County,Oldham Athletic,1-1,-
+-,-,Preston North End,Oldham Athletic,0-3,-
+-,-,Reading,Oldham Athletic,1-1,-
+-,-,Southampton,Oldham Athletic,2-0,-
+-,-,Stoke City,Oldham Athletic,0-2,-
+-,-,Swansea City,Oldham Athletic,3-0,-
+-,-,Tottenham Hotspur,Oldham Athletic,2-1,-
+-,-,West Bromwich Albion,Oldham Athletic,0-3,-
+-,-,Wolverhampton Wanderers,Oldham Athletic,1-1,-
+-,-,Barnsley,Preston North End,0-0,-
+-,-,Blackpool,Preston North End,5-1,-
+-,-,Bradford City,Preston North End,1-1,-
+-,-,Bradford Park Avenue,Preston North End,5-2,-
+-,-,Bristol City,Preston North End,2-2,-
+-,-,Bury,Preston North End,1-2,-
+-,-,Cardiff City,Preston North End,2-0,-
+-,-,Charlton Athletic,Preston North End,1-1,-
+-,-,Chelsea,Preston North End,5-0,-
+-,-,Hull City,Preston North End,2-0,-
+-,-,Millwall,Preston North End,2-0,-
+-,-,Nottingham Forest,Preston North End,2-4,-
+-,-,Notts County,Preston North End,0-3,-
+-,-,Oldham Athletic,Preston North End,0-2,-
+-,-,Reading,Preston North End,2-0,-
+-,-,Southampton,Preston North End,1-2,-
+-,-,Stoke City,Preston North End,2-3,-
+-,-,Swansea City,Preston North End,4-0,-
+-,-,Tottenham Hotspur,Preston North End,1-0,-
+-,-,West Bromwich Albion,Preston North End,2-0,-
+-,-,Wolverhampton Wanderers,Preston North End,4-0,-
+-,-,Barnsley,Reading,1-0,-
+-,-,Blackpool,Reading,4-2,-
+-,-,Bradford City,Reading,1-0,-
+-,-,Bradford Park Avenue,Reading,5-2,-
+-,-,Bristol City,Reading,5-3,-
+-,-,Bury,Reading,2-4,-
+-,-,Cardiff City,Reading,2-1,-
+-,-,Charlton Athletic,Reading,0-0,-
+-,-,Chelsea,Reading,1-0,-
+-,-,Hull City,Reading,4-2,-
+-,-,Millwall,Reading,3-1,-
+-,-,Nottingham Forest,Reading,5-0,-
+-,-,Notts County,Reading,3-0,-
+-,-,Oldham Athletic,Reading,0-0,-
+-,-,Preston North End,Reading,2-1,-
+-,-,Southampton,Reading,4-3,-
+-,-,Stoke City,Reading,2-2,-
+-,-,Swansea City,Reading,0-1,-
+-,-,Tottenham Hotspur,Reading,0-0,-
+-,-,West Bromwich Albion,Reading,1-0,-
+-,-,Wolverhampton Wanderers,Reading,2-1,-
+-,-,Barnsley,Southampton,3-1,-
+-,-,Blackpool,Southampton,5-1,-
+-,-,Bradford City,Southampton,2-5,-
+-,-,Bradford Park Avenue,Southampton,1-1,-
+-,-,Bristol City,Southampton,3-1,-
+-,-,Bury,Southampton,4-2,-
+-,-,Cardiff City,Southampton,5-2,-
+-,-,Charlton Athletic,Southampton,4-1,-
+-,-,Chelsea,Southampton,2-0,-
+-,-,Hull City,Southampton,2-0,-
+-,-,Millwall,Southampton,1-1,-
+-,-,Nottingham Forest,Southampton,0-5,-
+-,-,Notts County,Southampton,1-2,-
+-,-,Oldham Athletic,Southampton,3-2,-
+-,-,Preston North End,Southampton,1-1,-
+-,-,Reading,Southampton,1-1,-
+-,-,Stoke City,Southampton,4-0,-
+-,-,Swansea City,Southampton,2-2,-
+-,-,Tottenham Hotspur,Southampton,3-2,-
+-,-,West Bromwich Albion,Southampton,5-1,-
+-,-,Wolverhampton Wanderers,Southampton,2-0,-
+-,-,Barnsley,Stoke City,3-1,-
+-,-,Blackpool,Stoke City,0-2,-
+-,-,Bradford City,Stoke City,3-0,-
+-,-,Bradford Park Avenue,Stoke City,3-2,-
+-,-,Bristol City,Stoke City,2-6,-
+-,-,Bury,Stoke City,2-0,-
+-,-,Cardiff City,Stoke City,1-2,-
+-,-,Charlton Athletic,Stoke City,4-4,-
+-,-,Chelsea,Stoke City,3-2,-
+-,-,Hull City,Stoke City,3-0,-
+-,-,Millwall,Stoke City,2-1,-
+-,-,Nottingham Forest,Stoke City,2-1,-
+-,-,Notts County,Stoke City,3-3,-
+-,-,Oldham Athletic,Stoke City,5-0,-
+-,-,Preston North End,Stoke City,5-1,-
+-,-,Reading,Stoke City,0-0,-
+-,-,Southampton,Stoke City,2-1,-
+-,-,Swansea City,Stoke City,2-2,-
+-,-,Tottenham Hotspur,Stoke City,3-1,-
+-,-,West Bromwich Albion,Stoke City,2-3,-
+-,-,Wolverhampton Wanderers,Stoke City,2-1,-
+-,-,Barnsley,Swansea City,1-0,-
+-,-,Blackpool,Swansea City,3-0,-
+-,-,Bradford City,Swansea City,3-3,-
+-,-,Bradford Park Avenue,Swansea City,3-0,-
+-,-,Bristol City,Swansea City,2-1,-
+-,-,Bury,Swansea City,1-0,-
+-,-,Cardiff City,Swansea City,0-0,-
+-,-,Charlton Athletic,Swansea City,0-2,-
+-,-,Chelsea,Swansea City,1-0,-
+-,-,Hull City,Swansea City,1-0,-
+-,-,Millwall,Swansea City,0-2,-
+-,-,Nottingham Forest,Swansea City,1-0,-
+-,-,Notts County,Swansea City,0-0,-
+-,-,Oldham Athletic,Swansea City,4-1,-
+-,-,Preston North End,Swansea City,0-0,-
+-,-,Reading,Swansea City,3-1,-
+-,-,Southampton,Swansea City,2-1,-
+-,-,Stoke City,Swansea City,0-1,-
+-,-,Tottenham Hotspur,Swansea City,3-0,-
+-,-,West Bromwich Albion,Swansea City,6-2,-
+-,-,Wolverhampton Wanderers,Swansea City,4-1,-
+-,-,Barnsley,Tottenham Hotspur,2-0,-
+-,-,Blackpool,Tottenham Hotspur,3-2,-
+-,-,Bradford City,Tottenham Hotspur,0-2,-
+-,-,Bradford Park Avenue,Tottenham Hotspur,2-1,-
+-,-,Bristol City,Tottenham Hotspur,1-0,-
+-,-,Bury,Tottenham Hotspur,2-1,-
+-,-,Cardiff City,Tottenham Hotspur,1-0,-
+-,-,Charlton Athletic,Tottenham Hotspur,1-0,-
+-,-,Chelsea,Tottenham Hotspur,3-0,-
+-,-,Hull City,Tottenham Hotspur,2-0,-
+-,-,Millwall,Tottenham Hotspur,2-5,-
+-,-,Nottingham Forest,Tottenham Hotspur,0-0,-
+-,-,Notts County,Tottenham Hotspur,0-1,-
+-,-,Oldham Athletic,Tottenham Hotspur,2-0,-
+-,-,Preston North End,Tottenham Hotspur,4-0,-
+-,-,Reading,Tottenham Hotspur,3-0,-
+-,-,Southampton,Tottenham Hotspur,1-0,-
+-,-,Stoke City,Tottenham Hotspur,1-0,-
+-,-,Swansea City,Tottenham Hotspur,0-1,-
+-,-,West Bromwich Albion,Tottenham Hotspur,4-3,-
+-,-,Wolverhampton Wanderers,Tottenham Hotspur,3-0,-
+-,-,Barnsley,West Bromwich Albion,2-2,-
+-,-,Blackpool,West Bromwich Albion,1-0,-
+-,-,Bradford City,West Bromwich Albion,2-2,-
+-,-,Bradford Park Avenue,West Bromwich Albion,5-1,-
+-,-,Bristol City,West Bromwich Albion,2-1,-
+-,-,Bury,West Bromwich Albion,3-2,-
+-,-,Cardiff City,West Bromwich Albion,3-2,-
+-,-,Charlton Athletic,West Bromwich Albion,0-1,-
+-,-,Chelsea,West Bromwich Albion,2-0,-
+-,-,Hull City,West Bromwich Albion,3-2,-
+-,-,Millwall,West Bromwich Albion,2-1,-
+-,-,Nottingham Forest,West Bromwich Albion,0-2,-
+-,-,Notts County,West Bromwich Albion,2-1,-
+-,-,Oldham Athletic,West Bromwich Albion,5-0,-
+-,-,Preston North End,West Bromwich Albion,2-2,-
+-,-,Reading,West Bromwich Albion,2-2,-
+-,-,Southampton,West Bromwich Albion,3-2,-
+-,-,Stoke City,West Bromwich Albion,0-3,-
+-,-,Swansea City,West Bromwich Albion,1-0,-
+-,-,Tottenham Hotspur,West Bromwich Albion,0-2,-
+-,-,Wolverhampton Wanderers,West Bromwich Albion,2-4,-
+-,-,Barnsley,Wolverhampton Wanderers,3-1,-
+-,-,Blackpool,Wolverhampton Wanderers,3-2,-
+-,-,Bradford City,Wolverhampton Wanderers,2-2,-
+-,-,Bradford Park Avenue,Wolverhampton Wanderers,0-0,-
+-,-,Bristol City,Wolverhampton Wanderers,1-2,-
+-,-,Bury,Wolverhampton Wanderers,3-1,-
+-,-,Cardiff City,Wolverhampton Wanderers,0-0,-
+-,-,Charlton Athletic,Wolverhampton Wanderers,2-0,-
+-,-,Chelsea,Wolverhampton Wanderers,1-1,-
+-,-,Hull City,Wolverhampton Wanderers,2-0,-
+-,-,Millwall,Wolverhampton Wanderers,4-0,-
+-,-,Nottingham Forest,Wolverhampton Wanderers,5-2,-
+-,-,Notts County,Wolverhampton Wanderers,0-3,-
+-,-,Oldham Athletic,Wolverhampton Wanderers,6-0,-
+-,-,Preston North End,Wolverhampton Wanderers,1-1,-
+-,-,Reading,Wolverhampton Wanderers,3-1,-
+-,-,Southampton,Wolverhampton Wanderers,3-1,-
+-,-,Stoke City,Wolverhampton Wanderers,3-0,-
+-,-,Swansea City,Wolverhampton Wanderers,2-2,-
+-,-,Tottenham Hotspur,Wolverhampton Wanderers,4-2,-
+-,-,West Bromwich Albion,Wolverhampton Wanderers,7-3,-

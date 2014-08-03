@@ -1,241 +1,241 @@
-Date,Team 1,Team 2,FT
--,Aston Villa,Accrington F.C.,6-4
--,Blackburn Rovers,Accrington F.C.,3-3
--,Bolton Wanderers,Accrington F.C.,5-2
--,Burnley,Accrington F.C.,1-3
--,Derby County,Accrington F.C.,3-3
--,Everton,Accrington F.C.,1-1
--,Manchester United,Accrington F.C.,3-3
--,Nottingham Forest,Accrington F.C.,3-0
--,Notts County,Accrington F.C.,2-0
--,Preston North End,Accrington F.C.,0-0
--,Sheffield Wednesday,Accrington F.C.,5-2
--,Stoke City,Accrington F.C.,2-2
--,Sunderland,Accrington F.C.,4-2
--,West Bromwich Albion,Accrington F.C.,4-0
--,Wolverhampton Wanderers,Accrington F.C.,5-3
--,Accrington F.C.,Aston Villa,1-1
--,Blackburn Rovers,Aston Villa,2-2
--,Bolton Wanderers,Aston Villa,5-0
--,Burnley,Aston Villa,0-2
--,Derby County,Aston Villa,2-1
--,Everton,Aston Villa,1-0
--,Manchester United,Aston Villa,2-0
--,Nottingham Forest,Aston Villa,4-5
--,Notts County,Aston Villa,1-4
--,Preston North End,Aston Villa,4-1
--,Sheffield Wednesday,Aston Villa,5-3
--,Stoke City,Aston Villa,0-1
--,Sunderland,Aston Villa,6-0
--,West Bromwich Albion,Aston Villa,3-2
--,Wolverhampton Wanderers,Aston Villa,2-1
--,Accrington F.C.,Blackburn Rovers,1-1
--,Aston Villa,Blackburn Rovers,4-1
--,Bolton Wanderers,Blackburn Rovers,2-1
--,Burnley,Blackburn Rovers,0-0
--,Derby County,Blackburn Rovers,3-0
--,Everton,Blackburn Rovers,4-0
--,Manchester United,Blackburn Rovers,4-4
--,Nottingham Forest,Blackburn Rovers,0-1
--,Notts County,Blackburn Rovers,0-0
--,Preston North End,Blackburn Rovers,2-1
--,Sheffield Wednesday,Blackburn Rovers,0-3
--,Stoke City,Blackburn Rovers,2-2
--,Sunderland,Blackburn Rovers,5-0
--,West Bromwich Albion,Blackburn Rovers,1-2
--,Wolverhampton Wanderers,Blackburn Rovers,4-2
--,Accrington F.C.,Bolton Wanderers,1-1
--,Aston Villa,Bolton Wanderers,1-1
--,Blackburn Rovers,Bolton Wanderers,3-0
--,Burnley,Bolton Wanderers,3-0
--,Derby County,Bolton Wanderers,1-1
--,Everton,Bolton Wanderers,3-0
--,Manchester United,Bolton Wanderers,1-0
--,Nottingham Forest,Bolton Wanderers,2-0
--,Notts County,Bolton Wanderers,2-2
--,Preston North End,Bolton Wanderers,2-1
--,Sheffield Wednesday,Bolton Wanderers,4-2
--,Stoke City,Bolton Wanderers,6-0
--,Sunderland,Bolton Wanderers,3-3
--,West Bromwich Albion,Bolton Wanderers,1-0
--,Wolverhampton Wanderers,Bolton Wanderers,1-2
--,Accrington F.C.,Burnley,0-4
--,Aston Villa,Burnley,1-3
--,Blackburn Rovers,Burnley,2-0
--,Bolton Wanderers,Burnley,1-0
--,Derby County,Burnley,1-0
--,Everton,Burnley,0-1
--,Manchester United,Burnley,1-1
--,Nottingham Forest,Burnley,2-2
--,Notts County,Burnley,3-1
--,Preston North End,Burnley,2-0
--,Sheffield Wednesday,Burnley,2-0
--,Stoke City,Burnley,4-1
--,Sunderland,Burnley,2-0
--,West Bromwich Albion,Burnley,7-1
--,Wolverhampton Wanderers,Burnley,1-0
--,Accrington F.C.,Derby County,0-3
--,Aston Villa,Derby County,6-1
--,Blackburn Rovers,Derby County,2-2
--,Bolton Wanderers,Derby County,0-3
--,Burnley,Derby County,2-1
--,Everton,Derby County,5-0
--,Manchester United,Derby County,7-1
--,Nottingham Forest,Derby County,1-0
--,Notts County,Derby County,1-1
--,Preston North End,Derby County,0-1
--,Sheffield Wednesday,Derby County,3-3
--,Stoke City,Derby County,1-3
--,Sunderland,Derby County,3-1
--,West Bromwich Albion,Derby County,3-1
--,Wolverhampton Wanderers,Derby County,2-1
--,Accrington F.C.,Everton,0-3
--,Aston Villa,Everton,4-1
--,Blackburn Rovers,Everton,2-2
--,Bolton Wanderers,Everton,4-1
--,Burnley,Everton,3-0
--,Derby County,Everton,1-6
--,Manchester United,Everton,3-4
--,Nottingham Forest,Everton,2-1
--,Notts County,Everton,1-2
--,Preston North End,Everton,5-0
--,Sheffield Wednesday,Everton,0-2
--,Stoke City,Everton,0-1
--,Sunderland,Everton,4-3
--,West Bromwich Albion,Everton,3-0
--,Wolverhampton Wanderers,Everton,2-4
--,Accrington F.C.,Manchester United,2-2
--,Aston Villa,Manchester United,2-0
--,Blackburn Rovers,Manchester United,4-3
--,Bolton Wanderers,Manchester United,4-1
--,Burnley,Manchester United,4-1
--,Derby County,Manchester United,5-1
--,Everton,Manchester United,6-0
--,Nottingham Forest,Manchester United,1-1
--,Notts County,Manchester United,4-0
--,Preston North End,Manchester United,2-1
--,Sheffield Wednesday,Manchester United,1-0
--,Stoke City,Manchester United,7-1
--,Sunderland,Manchester United,6-0
--,West Bromwich Albion,Manchester United,0-0
--,Wolverhampton Wanderers,Manchester United,2-0
--,Accrington F.C.,Nottingham Forest,1-1
--,Aston Villa,Nottingham Forest,1-0
--,Blackburn Rovers,Nottingham Forest,0-1
--,Bolton Wanderers,Nottingham Forest,3-1
--,Burnley,Nottingham Forest,1-1
--,Derby County,Nottingham Forest,2-3
--,Everton,Nottingham Forest,2-2
--,Manchester United,Nottingham Forest,1-3
--,Notts County,Nottingham Forest,3-0
--,Preston North End,Nottingham Forest,1-0
--,Sheffield Wednesday,Nottingham Forest,2-2
--,Stoke City,Nottingham Forest,3-0
--,Sunderland,Nottingham Forest,1-0
--,West Bromwich Albion,Nottingham Forest,2-2
--,Wolverhampton Wanderers,Nottingham Forest,2-2
--,Accrington F.C.,Notts County,4-2
--,Aston Villa,Notts County,3-1
--,Blackburn Rovers,Notts County,1-0
--,Bolton Wanderers,Notts County,4-1
--,Burnley,Notts County,3-0
--,Derby County,Notts County,4-5
--,Everton,Notts County,6-0
--,Manchester United,Notts County,1-3
--,Nottingham Forest,Notts County,3-1
--,Preston North End,Notts County,4-0
--,Sheffield Wednesday,Notts County,3-2
--,Stoke City,Notts County,1-0
--,Sunderland,Notts County,2-2
--,West Bromwich Albion,Notts County,4-2
--,Wolverhampton Wanderers,Notts County,3-0
--,Accrington F.C.,Preston North End,1-2
--,Aston Villa,Preston North End,3-1
--,Blackburn Rovers,Preston North End,0-0
--,Bolton Wanderers,Preston North End,2-4
--,Burnley,Preston North End,4-2
--,Derby County,Preston North End,1-2
--,Everton,Preston North End,6-0
--,Manchester United,Preston North End,2-1
--,Nottingham Forest,Preston North End,1-2
--,Notts County,Preston North End,3-1
--,Sheffield Wednesday,Preston North End,0-5
--,Stoke City,Preston North End,2-1
--,Sunderland,Preston North End,2-0
--,West Bromwich Albion,Preston North End,0-1
--,Wolverhampton Wanderers,Preston North End,2-1
--,Accrington F.C.,Sheffield Wednesday,4-2
--,Aston Villa,Sheffield Wednesday,5-1
--,Blackburn Rovers,Sheffield Wednesday,0-2
--,Bolton Wanderers,Sheffield Wednesday,1-0
--,Burnley,Sheffield Wednesday,4-0
--,Derby County,Sheffield Wednesday,2-2
--,Everton,Sheffield Wednesday,3-5
--,Manchester United,Sheffield Wednesday,1-5
--,Nottingham Forest,Sheffield Wednesday,2-0
--,Notts County,Sheffield Wednesday,0-1
--,Preston North End,Sheffield Wednesday,4-1
--,Stoke City,Sheffield Wednesday,2-0
--,Sunderland,Sheffield Wednesday,4-2
--,West Bromwich Albion,Sheffield Wednesday,3-0
--,Wolverhampton Wanderers,Sheffield Wednesday,2-0
--,Accrington F.C.,Stoke City,5-2
--,Aston Villa,Stoke City,3-2
--,Blackburn Rovers,Stoke City,3-3
--,Bolton Wanderers,Stoke City,4-4
--,Burnley,Stoke City,3-2
--,Derby County,Stoke City,1-0
--,Everton,Stoke City,2-2
--,Manchester United,Stoke City,1-0
--,Nottingham Forest,Stoke City,3-4
--,Notts County,Stoke City,0-1
--,Preston North End,Stoke City,2-1
--,Sheffield Wednesday,Stoke City,0-1
--,Sunderland,Stoke City,3-1
--,West Bromwich Albion,Stoke City,1-2
--,Wolverhampton Wanderers,Stoke City,1-0
--,Accrington F.C.,Sunderland,0-6
--,Aston Villa,Sunderland,1-6
--,Blackburn Rovers,Sunderland,2-2
--,Bolton Wanderers,Sunderland,2-1
--,Burnley,Sunderland,2-3
--,Derby County,Sunderland,1-1
--,Everton,Sunderland,1-4
--,Manchester United,Sunderland,0-5
--,Nottingham Forest,Sunderland,0-5
--,Notts County,Sunderland,3-1
--,Preston North End,Sunderland,1-2
--,Sheffield Wednesday,Sunderland,3-2
--,Stoke City,Sunderland,0-1
--,West Bromwich Albion,Sunderland,1-3
--,Wolverhampton Wanderers,Sunderland,2-0
--,Accrington F.C.,West Bromwich Albion,5-4
--,Aston Villa,West Bromwich Albion,5-2
--,Blackburn Rovers,West Bromwich Albion,2-1
--,Bolton Wanderers,West Bromwich Albion,3-1
--,Burnley,West Bromwich Albion,5-0
--,Derby County,West Bromwich Albion,1-1
--,Everton,West Bromwich Albion,1-0
--,Manchester United,West Bromwich Albion,2-4
--,Nottingham Forest,West Bromwich Albion,3-4
--,Notts County,West Bromwich Albion,8-1
--,Preston North End,West Bromwich Albion,1-1
--,Sheffield Wednesday,West Bromwich Albion,6-0
--,Stoke City,West Bromwich Albion,1-2
--,Sunderland,West Bromwich Albion,8-1
--,Wolverhampton Wanderers,West Bromwich Albion,1-1
--,Accrington F.C.,Wolverhampton Wanderers,4-0
--,Aston Villa,Wolverhampton Wanderers,5-0
--,Blackburn Rovers,Wolverhampton Wanderers,3-3
--,Bolton Wanderers,Wolverhampton Wanderers,3-1
--,Burnley,Wolverhampton Wanderers,2-0
--,Derby County,Wolverhampton Wanderers,2-2
--,Everton,Wolverhampton Wanderers,3-2
--,Manchester United,Wolverhampton Wanderers,10-1
--,Nottingham Forest,Wolverhampton Wanderers,3-1
--,Notts County,Wolverhampton Wanderers,3-0
--,Preston North End,Wolverhampton Wanderers,4-0
--,Sheffield Wednesday,Wolverhampton Wanderers,0-1
--,Stoke City,Wolverhampton Wanderers,2-1
--,Sunderland,Wolverhampton Wanderers,5-2
--,West Bromwich Albion,Wolverhampton Wanderers,2-1
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Aston Villa,Accrington F.C.,6-4,-
+-,-,Blackburn Rovers,Accrington F.C.,3-3,-
+-,-,Bolton Wanderers,Accrington F.C.,5-2,-
+-,-,Burnley,Accrington F.C.,1-3,-
+-,-,Derby County,Accrington F.C.,3-3,-
+-,-,Everton,Accrington F.C.,1-1,-
+-,-,Manchester United,Accrington F.C.,3-3,-
+-,-,Nottingham Forest,Accrington F.C.,3-0,-
+-,-,Notts County,Accrington F.C.,2-0,-
+-,-,Preston North End,Accrington F.C.,0-0,-
+-,-,Sheffield Wednesday,Accrington F.C.,5-2,-
+-,-,Stoke City,Accrington F.C.,2-2,-
+-,-,Sunderland,Accrington F.C.,4-2,-
+-,-,West Bromwich Albion,Accrington F.C.,4-0,-
+-,-,Wolverhampton Wanderers,Accrington F.C.,5-3,-
+-,-,Accrington F.C.,Aston Villa,1-1,-
+-,-,Blackburn Rovers,Aston Villa,2-2,-
+-,-,Bolton Wanderers,Aston Villa,5-0,-
+-,-,Burnley,Aston Villa,0-2,-
+-,-,Derby County,Aston Villa,2-1,-
+-,-,Everton,Aston Villa,1-0,-
+-,-,Manchester United,Aston Villa,2-0,-
+-,-,Nottingham Forest,Aston Villa,4-5,-
+-,-,Notts County,Aston Villa,1-4,-
+-,-,Preston North End,Aston Villa,4-1,-
+-,-,Sheffield Wednesday,Aston Villa,5-3,-
+-,-,Stoke City,Aston Villa,0-1,-
+-,-,Sunderland,Aston Villa,6-0,-
+-,-,West Bromwich Albion,Aston Villa,3-2,-
+-,-,Wolverhampton Wanderers,Aston Villa,2-1,-
+-,-,Accrington F.C.,Blackburn Rovers,1-1,-
+-,-,Aston Villa,Blackburn Rovers,4-1,-
+-,-,Bolton Wanderers,Blackburn Rovers,2-1,-
+-,-,Burnley,Blackburn Rovers,0-0,-
+-,-,Derby County,Blackburn Rovers,3-0,-
+-,-,Everton,Blackburn Rovers,4-0,-
+-,-,Manchester United,Blackburn Rovers,4-4,-
+-,-,Nottingham Forest,Blackburn Rovers,0-1,-
+-,-,Notts County,Blackburn Rovers,0-0,-
+-,-,Preston North End,Blackburn Rovers,2-1,-
+-,-,Sheffield Wednesday,Blackburn Rovers,0-3,-
+-,-,Stoke City,Blackburn Rovers,2-2,-
+-,-,Sunderland,Blackburn Rovers,5-0,-
+-,-,West Bromwich Albion,Blackburn Rovers,1-2,-
+-,-,Wolverhampton Wanderers,Blackburn Rovers,4-2,-
+-,-,Accrington F.C.,Bolton Wanderers,1-1,-
+-,-,Aston Villa,Bolton Wanderers,1-1,-
+-,-,Blackburn Rovers,Bolton Wanderers,3-0,-
+-,-,Burnley,Bolton Wanderers,3-0,-
+-,-,Derby County,Bolton Wanderers,1-1,-
+-,-,Everton,Bolton Wanderers,3-0,-
+-,-,Manchester United,Bolton Wanderers,1-0,-
+-,-,Nottingham Forest,Bolton Wanderers,2-0,-
+-,-,Notts County,Bolton Wanderers,2-2,-
+-,-,Preston North End,Bolton Wanderers,2-1,-
+-,-,Sheffield Wednesday,Bolton Wanderers,4-2,-
+-,-,Stoke City,Bolton Wanderers,6-0,-
+-,-,Sunderland,Bolton Wanderers,3-3,-
+-,-,West Bromwich Albion,Bolton Wanderers,1-0,-
+-,-,Wolverhampton Wanderers,Bolton Wanderers,1-2,-
+-,-,Accrington F.C.,Burnley,0-4,-
+-,-,Aston Villa,Burnley,1-3,-
+-,-,Blackburn Rovers,Burnley,2-0,-
+-,-,Bolton Wanderers,Burnley,1-0,-
+-,-,Derby County,Burnley,1-0,-
+-,-,Everton,Burnley,0-1,-
+-,-,Manchester United,Burnley,1-1,-
+-,-,Nottingham Forest,Burnley,2-2,-
+-,-,Notts County,Burnley,3-1,-
+-,-,Preston North End,Burnley,2-0,-
+-,-,Sheffield Wednesday,Burnley,2-0,-
+-,-,Stoke City,Burnley,4-1,-
+-,-,Sunderland,Burnley,2-0,-
+-,-,West Bromwich Albion,Burnley,7-1,-
+-,-,Wolverhampton Wanderers,Burnley,1-0,-
+-,-,Accrington F.C.,Derby County,0-3,-
+-,-,Aston Villa,Derby County,6-1,-
+-,-,Blackburn Rovers,Derby County,2-2,-
+-,-,Bolton Wanderers,Derby County,0-3,-
+-,-,Burnley,Derby County,2-1,-
+-,-,Everton,Derby County,5-0,-
+-,-,Manchester United,Derby County,7-1,-
+-,-,Nottingham Forest,Derby County,1-0,-
+-,-,Notts County,Derby County,1-1,-
+-,-,Preston North End,Derby County,0-1,-
+-,-,Sheffield Wednesday,Derby County,3-3,-
+-,-,Stoke City,Derby County,1-3,-
+-,-,Sunderland,Derby County,3-1,-
+-,-,West Bromwich Albion,Derby County,3-1,-
+-,-,Wolverhampton Wanderers,Derby County,2-1,-
+-,-,Accrington F.C.,Everton,0-3,-
+-,-,Aston Villa,Everton,4-1,-
+-,-,Blackburn Rovers,Everton,2-2,-
+-,-,Bolton Wanderers,Everton,4-1,-
+-,-,Burnley,Everton,3-0,-
+-,-,Derby County,Everton,1-6,-
+-,-,Manchester United,Everton,3-4,-
+-,-,Nottingham Forest,Everton,2-1,-
+-,-,Notts County,Everton,1-2,-
+-,-,Preston North End,Everton,5-0,-
+-,-,Sheffield Wednesday,Everton,0-2,-
+-,-,Stoke City,Everton,0-1,-
+-,-,Sunderland,Everton,4-3,-
+-,-,West Bromwich Albion,Everton,3-0,-
+-,-,Wolverhampton Wanderers,Everton,2-4,-
+-,-,Accrington F.C.,Manchester United,2-2,-
+-,-,Aston Villa,Manchester United,2-0,-
+-,-,Blackburn Rovers,Manchester United,4-3,-
+-,-,Bolton Wanderers,Manchester United,4-1,-
+-,-,Burnley,Manchester United,4-1,-
+-,-,Derby County,Manchester United,5-1,-
+-,-,Everton,Manchester United,6-0,-
+-,-,Nottingham Forest,Manchester United,1-1,-
+-,-,Notts County,Manchester United,4-0,-
+-,-,Preston North End,Manchester United,2-1,-
+-,-,Sheffield Wednesday,Manchester United,1-0,-
+-,-,Stoke City,Manchester United,7-1,-
+-,-,Sunderland,Manchester United,6-0,-
+-,-,West Bromwich Albion,Manchester United,0-0,-
+-,-,Wolverhampton Wanderers,Manchester United,2-0,-
+-,-,Accrington F.C.,Nottingham Forest,1-1,-
+-,-,Aston Villa,Nottingham Forest,1-0,-
+-,-,Blackburn Rovers,Nottingham Forest,0-1,-
+-,-,Bolton Wanderers,Nottingham Forest,3-1,-
+-,-,Burnley,Nottingham Forest,1-1,-
+-,-,Derby County,Nottingham Forest,2-3,-
+-,-,Everton,Nottingham Forest,2-2,-
+-,-,Manchester United,Nottingham Forest,1-3,-
+-,-,Notts County,Nottingham Forest,3-0,-
+-,-,Preston North End,Nottingham Forest,1-0,-
+-,-,Sheffield Wednesday,Nottingham Forest,2-2,-
+-,-,Stoke City,Nottingham Forest,3-0,-
+-,-,Sunderland,Nottingham Forest,1-0,-
+-,-,West Bromwich Albion,Nottingham Forest,2-2,-
+-,-,Wolverhampton Wanderers,Nottingham Forest,2-2,-
+-,-,Accrington F.C.,Notts County,4-2,-
+-,-,Aston Villa,Notts County,3-1,-
+-,-,Blackburn Rovers,Notts County,1-0,-
+-,-,Bolton Wanderers,Notts County,4-1,-
+-,-,Burnley,Notts County,3-0,-
+-,-,Derby County,Notts County,4-5,-
+-,-,Everton,Notts County,6-0,-
+-,-,Manchester United,Notts County,1-3,-
+-,-,Nottingham Forest,Notts County,3-1,-
+-,-,Preston North End,Notts County,4-0,-
+-,-,Sheffield Wednesday,Notts County,3-2,-
+-,-,Stoke City,Notts County,1-0,-
+-,-,Sunderland,Notts County,2-2,-
+-,-,West Bromwich Albion,Notts County,4-2,-
+-,-,Wolverhampton Wanderers,Notts County,3-0,-
+-,-,Accrington F.C.,Preston North End,1-2,-
+-,-,Aston Villa,Preston North End,3-1,-
+-,-,Blackburn Rovers,Preston North End,0-0,-
+-,-,Bolton Wanderers,Preston North End,2-4,-
+-,-,Burnley,Preston North End,4-2,-
+-,-,Derby County,Preston North End,1-2,-
+-,-,Everton,Preston North End,6-0,-
+-,-,Manchester United,Preston North End,2-1,-
+-,-,Nottingham Forest,Preston North End,1-2,-
+-,-,Notts County,Preston North End,3-1,-
+-,-,Sheffield Wednesday,Preston North End,0-5,-
+-,-,Stoke City,Preston North End,2-1,-
+-,-,Sunderland,Preston North End,2-0,-
+-,-,West Bromwich Albion,Preston North End,0-1,-
+-,-,Wolverhampton Wanderers,Preston North End,2-1,-
+-,-,Accrington F.C.,Sheffield Wednesday,4-2,-
+-,-,Aston Villa,Sheffield Wednesday,5-1,-
+-,-,Blackburn Rovers,Sheffield Wednesday,0-2,-
+-,-,Bolton Wanderers,Sheffield Wednesday,1-0,-
+-,-,Burnley,Sheffield Wednesday,4-0,-
+-,-,Derby County,Sheffield Wednesday,2-2,-
+-,-,Everton,Sheffield Wednesday,3-5,-
+-,-,Manchester United,Sheffield Wednesday,1-5,-
+-,-,Nottingham Forest,Sheffield Wednesday,2-0,-
+-,-,Notts County,Sheffield Wednesday,0-1,-
+-,-,Preston North End,Sheffield Wednesday,4-1,-
+-,-,Stoke City,Sheffield Wednesday,2-0,-
+-,-,Sunderland,Sheffield Wednesday,4-2,-
+-,-,West Bromwich Albion,Sheffield Wednesday,3-0,-
+-,-,Wolverhampton Wanderers,Sheffield Wednesday,2-0,-
+-,-,Accrington F.C.,Stoke City,5-2,-
+-,-,Aston Villa,Stoke City,3-2,-
+-,-,Blackburn Rovers,Stoke City,3-3,-
+-,-,Bolton Wanderers,Stoke City,4-4,-
+-,-,Burnley,Stoke City,3-2,-
+-,-,Derby County,Stoke City,1-0,-
+-,-,Everton,Stoke City,2-2,-
+-,-,Manchester United,Stoke City,1-0,-
+-,-,Nottingham Forest,Stoke City,3-4,-
+-,-,Notts County,Stoke City,0-1,-
+-,-,Preston North End,Stoke City,2-1,-
+-,-,Sheffield Wednesday,Stoke City,0-1,-
+-,-,Sunderland,Stoke City,3-1,-
+-,-,West Bromwich Albion,Stoke City,1-2,-
+-,-,Wolverhampton Wanderers,Stoke City,1-0,-
+-,-,Accrington F.C.,Sunderland,0-6,-
+-,-,Aston Villa,Sunderland,1-6,-
+-,-,Blackburn Rovers,Sunderland,2-2,-
+-,-,Bolton Wanderers,Sunderland,2-1,-
+-,-,Burnley,Sunderland,2-3,-
+-,-,Derby County,Sunderland,1-1,-
+-,-,Everton,Sunderland,1-4,-
+-,-,Manchester United,Sunderland,0-5,-
+-,-,Nottingham Forest,Sunderland,0-5,-
+-,-,Notts County,Sunderland,3-1,-
+-,-,Preston North End,Sunderland,1-2,-
+-,-,Sheffield Wednesday,Sunderland,3-2,-
+-,-,Stoke City,Sunderland,0-1,-
+-,-,West Bromwich Albion,Sunderland,1-3,-
+-,-,Wolverhampton Wanderers,Sunderland,2-0,-
+-,-,Accrington F.C.,West Bromwich Albion,5-4,-
+-,-,Aston Villa,West Bromwich Albion,5-2,-
+-,-,Blackburn Rovers,West Bromwich Albion,2-1,-
+-,-,Bolton Wanderers,West Bromwich Albion,3-1,-
+-,-,Burnley,West Bromwich Albion,5-0,-
+-,-,Derby County,West Bromwich Albion,1-1,-
+-,-,Everton,West Bromwich Albion,1-0,-
+-,-,Manchester United,West Bromwich Albion,2-4,-
+-,-,Nottingham Forest,West Bromwich Albion,3-4,-
+-,-,Notts County,West Bromwich Albion,8-1,-
+-,-,Preston North End,West Bromwich Albion,1-1,-
+-,-,Sheffield Wednesday,West Bromwich Albion,6-0,-
+-,-,Stoke City,West Bromwich Albion,1-2,-
+-,-,Sunderland,West Bromwich Albion,8-1,-
+-,-,Wolverhampton Wanderers,West Bromwich Albion,1-1,-
+-,-,Accrington F.C.,Wolverhampton Wanderers,4-0,-
+-,-,Aston Villa,Wolverhampton Wanderers,5-0,-
+-,-,Blackburn Rovers,Wolverhampton Wanderers,3-3,-
+-,-,Bolton Wanderers,Wolverhampton Wanderers,3-1,-
+-,-,Burnley,Wolverhampton Wanderers,2-0,-
+-,-,Derby County,Wolverhampton Wanderers,2-2,-
+-,-,Everton,Wolverhampton Wanderers,3-2,-
+-,-,Manchester United,Wolverhampton Wanderers,10-1,-
+-,-,Nottingham Forest,Wolverhampton Wanderers,3-1,-
+-,-,Notts County,Wolverhampton Wanderers,3-0,-
+-,-,Preston North End,Wolverhampton Wanderers,4-0,-
+-,-,Sheffield Wednesday,Wolverhampton Wanderers,0-1,-
+-,-,Stoke City,Wolverhampton Wanderers,2-1,-
+-,-,Sunderland,Wolverhampton Wanderers,5-2,-
+-,-,West Bromwich Albion,Wolverhampton Wanderers,2-1,-

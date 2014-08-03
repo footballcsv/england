@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Aston Villa,Arsenal,0-2
--,Birmingham City,Arsenal,0-1
--,Brighton & Hove Albion,Arsenal,2-1
--,Coventry City,Arsenal,1-0
--,Everton,Arsenal,2-1
--,Ipswich Town,Arsenal,2-1
--,Leeds United,Arsenal,0-0
--,Liverpool,Arsenal,2-0
--,Manchester City,Arsenal,0-0
--,Manchester United,Arsenal,0-0
--,Middlesbrough,Arsenal,1-3
--,Nottingham Forest,Arsenal,1-2
--,Notts County,Arsenal,2-1
--,Southampton,Arsenal,3-1
--,Stoke City,Arsenal,0-1
--,Sunderland,Arsenal,0-0
--,Swansea City,Arsenal,2-0
--,Tottenham Hotspur,Arsenal,2-2
--,West Bromwich Albion,Arsenal,0-2
--,West Ham United,Arsenal,1-2
--,Wolverhampton Wanderers,Arsenal,1-1
--,Arsenal,Aston Villa,4-3
--,Birmingham City,Aston Villa,0-1
--,Brighton & Hove Albion,Aston Villa,0-1
--,Coventry City,Aston Villa,1-1
--,Everton,Aston Villa,2-0
--,Ipswich Town,Aston Villa,3-1
--,Leeds United,Aston Villa,1-1
--,Liverpool,Aston Villa,0-0
--,Manchester City,Aston Villa,1-0
--,Manchester United,Aston Villa,4-1
--,Middlesbrough,Aston Villa,3-3
--,Nottingham Forest,Aston Villa,1-1
--,Notts County,Aston Villa,1-0
--,Southampton,Aston Villa,0-3
--,Stoke City,Aston Villa,1-0
--,Sunderland,Aston Villa,2-1
--,Swansea City,Aston Villa,2-1
--,Tottenham Hotspur,Aston Villa,1-3
--,West Bromwich Albion,Aston Villa,0-1
--,West Ham United,Aston Villa,2-2
--,Wolverhampton Wanderers,Aston Villa,0-3
--,Arsenal,Birmingham City,1-0
--,Aston Villa,Birmingham City,0-0
--,Brighton & Hove Albion,Birmingham City,1-1
--,Coventry City,Birmingham City,0-1
--,Everton,Birmingham City,3-1
--,Ipswich Town,Birmingham City,3-2
--,Leeds United,Birmingham City,3-3
--,Liverpool,Birmingham City,3-1
--,Manchester City,Birmingham City,4-2
--,Manchester United,Birmingham City,1-1
--,Middlesbrough,Birmingham City,2-1
--,Nottingham Forest,Birmingham City,2-1
--,Notts County,Birmingham City,1-4
--,Southampton,Birmingham City,3-1
--,Stoke City,Birmingham City,1-0
--,Sunderland,Birmingham City,2-0
--,Swansea City,Birmingham City,1-0
--,Tottenham Hotspur,Birmingham City,1-1
--,West Bromwich Albion,Birmingham City,1-1
--,West Ham United,Birmingham City,2-2
--,Wolverhampton Wanderers,Birmingham City,1-1
--,Arsenal,Brighton & Hove Albion,0-0
--,Aston Villa,Brighton & Hove Albion,3-0
--,Birmingham City,Brighton & Hove Albion,1-0
--,Coventry City,Brighton & Hove Albion,0-1
--,Everton,Brighton & Hove Albion,1-1
--,Ipswich Town,Brighton & Hove Albion,3-1
--,Leeds United,Brighton & Hove Albion,2-1
--,Liverpool,Brighton & Hove Albion,0-1
--,Manchester City,Brighton & Hove Albion,4-0
--,Manchester United,Brighton & Hove Albion,2-0
--,Middlesbrough,Brighton & Hove Albion,2-1
--,Nottingham Forest,Brighton & Hove Albion,2-1
--,Notts County,Brighton & Hove Albion,4-1
--,Southampton,Brighton & Hove Albion,0-2
--,Stoke City,Brighton & Hove Albion,0-0
--,Sunderland,Brighton & Hove Albion,3-0
--,Swansea City,Brighton & Hove Albion,0-0
--,Tottenham Hotspur,Brighton & Hove Albion,0-1
--,West Bromwich Albion,Brighton & Hove Albion,0-0
--,West Ham United,Brighton & Hove Albion,1-1
--,Wolverhampton Wanderers,Brighton & Hove Albion,0-1
--,Arsenal,Coventry City,1-0
--,Aston Villa,Coventry City,2-1
--,Birmingham City,Coventry City,3-3
--,Brighton & Hove Albion,Coventry City,2-2
--,Everton,Coventry City,3-2
--,Ipswich Town,Coventry City,1-0
--,Leeds United,Coventry City,0-0
--,Liverpool,Coventry City,4-0
--,Manchester City,Coventry City,1-3
--,Manchester United,Coventry City,0-1
--,Middlesbrough,Coventry City,0-0
--,Nottingham Forest,Coventry City,2-1
--,Notts County,Coventry City,2-1
--,Southampton,Coventry City,5-5
--,Stoke City,Coventry City,4-0
--,Sunderland,Coventry City,0-0
--,Swansea City,Coventry City,0-0
--,Tottenham Hotspur,Coventry City,1-2
--,West Bromwich Albion,Coventry City,1-2
--,West Ham United,Coventry City,5-2
--,Wolverhampton Wanderers,Coventry City,1-0
--,Arsenal,Everton,1-0
--,Aston Villa,Everton,1-2
--,Birmingham City,Everton,0-2
--,Brighton & Hove Albion,Everton,3-1
--,Coventry City,Everton,1-0
--,Ipswich Town,Everton,3-0
--,Leeds United,Everton,1-1
--,Liverpool,Everton,3-1
--,Manchester City,Everton,1-1
--,Manchester United,Everton,1-1
--,Middlesbrough,Everton,0-2
--,Nottingham Forest,Everton,0-1
--,Notts County,Everton,2-2
--,Southampton,Everton,1-0
--,Stoke City,Everton,3-1
--,Sunderland,Everton,3-1
--,Swansea City,Everton,1-3
--,Tottenham Hotspur,Everton,3-0
--,West Bromwich Albion,Everton,0-0
--,West Ham United,Everton,1-1
--,Wolverhampton Wanderers,Everton,0-3
--,Arsenal,Ipswich Town,1-0
--,Aston Villa,Ipswich Town,0-1
--,Birmingham City,Ipswich Town,1-1
--,Brighton & Hove Albion,Ipswich Town,0-1
--,Coventry City,Ipswich Town,2-4
--,Everton,Ipswich Town,2-1
--,Leeds United,Ipswich Town,0-2
--,Liverpool,Ipswich Town,4-0
--,Manchester City,Ipswich Town,1-1
--,Manchester United,Ipswich Town,1-2
--,Middlesbrough,Ipswich Town,0-1
--,Nottingham Forest,Ipswich Town,1-1
--,Notts County,Ipswich Town,1-4
--,Southampton,Ipswich Town,4-3
--,Stoke City,Ipswich Town,2-0
--,Sunderland,Ipswich Town,1-1
--,Swansea City,Ipswich Town,1-2
--,Tottenham Hotspur,Ipswich Town,1-0
--,West Bromwich Albion,Ipswich Town,1-2
--,West Ham United,Ipswich Town,2-0
--,Wolverhampton Wanderers,Ipswich Town,2-1
--,Arsenal,Leeds United,1-0
--,Aston Villa,Leeds United,1-4
--,Birmingham City,Leeds United,0-1
--,Brighton & Hove Albion,Leeds United,1-0
--,Coventry City,Leeds United,4-0
--,Everton,Leeds United,1-0
--,Ipswich Town,Leeds United,2-1
--,Liverpool,Leeds United,3-0
--,Manchester City,Leeds United,4-0
--,Manchester United,Leeds United,1-0
--,Middlesbrough,Leeds United,0-0
--,Nottingham Forest,Leeds United,2-1
--,Notts County,Leeds United,2-1
--,Southampton,Leeds United,4-0
--,Stoke City,Leeds United,1-2
--,Sunderland,Leeds United,0-1
--,Swansea City,Leeds United,5-1
--,Tottenham Hotspur,Leeds United,2-1
--,West Bromwich Albion,Leeds United,2-0
--,West Ham United,Leeds United,4-3
--,Wolverhampton Wanderers,Leeds United,1-0
--,Arsenal,Liverpool,1-1
--,Aston Villa,Liverpool,0-3
--,Birmingham City,Liverpool,0-1
--,Brighton & Hove Albion,Liverpool,3-3
--,Coventry City,Liverpool,1-2
--,Everton,Liverpool,1-3
--,Ipswich Town,Liverpool,2-0
--,Leeds United,Liverpool,0-2
--,Manchester City,Liverpool,0-5
--,Manchester United,Liverpool,0-1
--,Middlesbrough,Liverpool,0-0
--,Nottingham Forest,Liverpool,0-2
--,Notts County,Liverpool,0-4
--,Southampton,Liverpool,2-3
--,Stoke City,Liverpool,1-5
--,Sunderland,Liverpool,0-2
--,Swansea City,Liverpool,2-0
--,Tottenham Hotspur,Liverpool,2-2
--,West Bromwich Albion,Liverpool,1-1
--,West Ham United,Liverpool,1-1
--,Wolverhampton Wanderers,Liverpool,1-0
--,Arsenal,Manchester City,1-0
--,Aston Villa,Manchester City,0-0
--,Birmingham City,Manchester City,3-0
--,Brighton & Hove Albion,Manchester City,4-1
--,Coventry City,Manchester City,0-1
--,Everton,Manchester City,0-1
--,Ipswich Town,Manchester City,2-0
--,Leeds United,Manchester City,0-1
--,Liverpool,Manchester City,1-3
--,Manchester United,Manchester City,1-1
--,Middlesbrough,Manchester City,0-0
--,Nottingham Forest,Manchester City,1-1
--,Notts County,Manchester City,1-1
--,Southampton,Manchester City,2-1
--,Stoke City,Manchester City,1-3
--,Sunderland,Manchester City,1-0
--,Swansea City,Manchester City,2-0
--,Tottenham Hotspur,Manchester City,2-0
--,West Bromwich Albion,Manchester City,0-1
--,West Ham United,Manchester City,1-1
--,Wolverhampton Wanderers,Manchester City,4-1
--,Arsenal,Manchester United,0-0
--,Aston Villa,Manchester United,1-1
--,Birmingham City,Manchester United,0-1
--,Brighton & Hove Albion,Manchester United,0-1
--,Coventry City,Manchester United,2-1
--,Everton,Manchester United,3-3
--,Ipswich Town,Manchester United,2-1
--,Leeds United,Manchester United,0-0
--,Liverpool,Manchester United,1-2
--,Manchester City,Manchester United,0-0
--,Middlesbrough,Manchester United,0-2
--,Nottingham Forest,Manchester United,0-1
--,Notts County,Manchester United,1-3
--,Southampton,Manchester United,3-2
--,Stoke City,Manchester United,0-3
--,Sunderland,Manchester United,1-5
--,Swansea City,Manchester United,2-0
--,Tottenham Hotspur,Manchester United,3-1
--,West Bromwich Albion,Manchester United,0-3
--,West Ham United,Manchester United,1-1
--,Wolverhampton Wanderers,Manchester United,0-1
--,Arsenal,Middlesbrough,1-0
--,Aston Villa,Middlesbrough,1-0
--,Birmingham City,Middlesbrough,0-0
--,Brighton & Hove Albion,Middlesbrough,2-0
--,Coventry City,Middlesbrough,1-1
--,Everton,Middlesbrough,2-0
--,Ipswich Town,Middlesbrough,3-1
--,Leeds United,Middlesbrough,1-1
--,Liverpool,Middlesbrough,1-1
--,Manchester City,Middlesbrough,3-2
--,Manchester United,Middlesbrough,1-0
--,Nottingham Forest,Middlesbrough,1-1
--,Notts County,Middlesbrough,0-1
--,Southampton,Middlesbrough,2-0
--,Stoke City,Middlesbrough,2-0
--,Sunderland,Middlesbrough,0-2
--,Swansea City,Middlesbrough,1-2
--,Tottenham Hotspur,Middlesbrough,1-0
--,West Bromwich Albion,Middlesbrough,2-0
--,West Ham United,Middlesbrough,3-2
--,Wolverhampton Wanderers,Middlesbrough,0-0
--,Arsenal,Nottingham Forest,2-0
--,Aston Villa,Nottingham Forest,3-1
--,Birmingham City,Nottingham Forest,4-3
--,Brighton & Hove Albion,Nottingham Forest,0-1
--,Coventry City,Nottingham Forest,0-1
--,Everton,Nottingham Forest,2-1
--,Ipswich Town,Nottingham Forest,1-3
--,Leeds United,Nottingham Forest,1-1
--,Liverpool,Nottingham Forest,2-0
--,Manchester City,Nottingham Forest,0-0
--,Manchester United,Nottingham Forest,0-0
--,Middlesbrough,Nottingham Forest,1-1
--,Notts County,Nottingham Forest,1-2
--,Southampton,Nottingham Forest,2-0
--,Stoke City,Nottingham Forest,1-2
--,Sunderland,Nottingham Forest,2-3
--,Swansea City,Nottingham Forest,1-2
--,Tottenham Hotspur,Nottingham Forest,3-0
--,West Bromwich Albion,Nottingham Forest,2-1
--,West Ham United,Nottingham Forest,0-1
--,Wolverhampton Wanderers,Nottingham Forest,0-0
--,Arsenal,Notts County,1-0
--,Aston Villa,Notts County,0-1
--,Birmingham City,Notts County,2-1
--,Brighton & Hove Albion,Notts County,2-2
--,Coventry City,Notts County,1-5
--,Everton,Notts County,3-1
--,Ipswich Town,Notts County,1-3
--,Leeds United,Notts County,1-0
--,Liverpool,Notts County,1-0
--,Manchester City,Notts County,1-0
--,Manchester United,Notts County,2-1
--,Middlesbrough,Notts County,3-0
--,Nottingham Forest,Notts County,0-2
--,Southampton,Notts County,3-1
--,Stoke City,Notts County,2-2
--,Sunderland,Notts County,1-1
--,Swansea City,Notts County,3-2
--,Tottenham Hotspur,Notts County,3-1
--,West Bromwich Albion,Notts County,2-4
--,West Ham United,Notts County,1-0
--,Wolverhampton Wanderers,Notts County,3-2
--,Arsenal,Southampton,4-1
--,Aston Villa,Southampton,1-1
--,Birmingham City,Southampton,4-0
--,Brighton & Hove Albion,Southampton,1-1
--,Coventry City,Southampton,4-2
--,Everton,Southampton,1-1
--,Ipswich Town,Southampton,5-2
--,Leeds United,Southampton,1-3
--,Liverpool,Southampton,0-1
--,Manchester City,Southampton,1-1
--,Manchester United,Southampton,1-0
--,Middlesbrough,Southampton,0-1
--,Nottingham Forest,Southampton,2-1
--,Notts County,Southampton,1-1
--,Stoke City,Southampton,0-2
--,Sunderland,Southampton,2-0
--,Swansea City,Southampton,1-0
--,Tottenham Hotspur,Southampton,3-2
--,West Bromwich Albion,Southampton,1-1
--,West Ham United,Southampton,4-2
--,Wolverhampton Wanderers,Southampton,0-0
--,Arsenal,Stoke City,0-1
--,Aston Villa,Stoke City,2-2
--,Birmingham City,Stoke City,2-1
--,Brighton & Hove Albion,Stoke City,0-0
--,Coventry City,Stoke City,3-0
--,Everton,Stoke City,0-0
--,Ipswich Town,Stoke City,2-0
--,Leeds United,Stoke City,0-0
--,Liverpool,Stoke City,2-0
--,Manchester City,Stoke City,1-1
--,Manchester United,Stoke City,2-0
--,Middlesbrough,Stoke City,3-2
--,Nottingham Forest,Stoke City,0-0
--,Notts County,Stoke City,3-1
--,Southampton,Stoke City,4-3
--,Sunderland,Stoke City,0-2
--,Swansea City,Stoke City,3-0
--,Tottenham Hotspur,Stoke City,2-0
--,West Bromwich Albion,Stoke City,1-2
--,West Ham United,Stoke City,3-2
--,Wolverhampton Wanderers,Stoke City,2-0
--,Arsenal,Sunderland,1-1
--,Aston Villa,Sunderland,1-0
--,Birmingham City,Sunderland,2-0
--,Brighton & Hove Albion,Sunderland,2-1
--,Coventry City,Sunderland,6-1
--,Everton,Sunderland,1-2
--,Ipswich Town,Sunderland,3-3
--,Leeds United,Sunderland,1-0
--,Liverpool,Sunderland,1-0
--,Manchester City,Sunderland,2-3
--,Manchester United,Sunderland,0-0
--,Middlesbrough,Sunderland,0-0
--,Nottingham Forest,Sunderland,2-0
--,Notts County,Sunderland,2-0
--,Southampton,Sunderland,1-0
--,Stoke City,Sunderland,0-1
--,Swansea City,Sunderland,2-0
--,Tottenham Hotspur,Sunderland,2-2
--,West Bromwich Albion,Sunderland,2-3
--,West Ham United,Sunderland,1-1
--,Wolverhampton Wanderers,Sunderland,0-1
--,Arsenal,Swansea City,0-2
--,Aston Villa,Swansea City,3-0
--,Birmingham City,Swansea City,2-1
--,Brighton & Hove Albion,Swansea City,1-2
--,Coventry City,Swansea City,3-1
--,Everton,Swansea City,3-1
--,Ipswich Town,Swansea City,2-3
--,Leeds United,Swansea City,2-0
--,Liverpool,Swansea City,2-2
--,Manchester City,Swansea City,4-0
--,Manchester United,Swansea City,1-0
--,Middlesbrough,Swansea City,1-1
--,Nottingham Forest,Swansea City,0-2
--,Notts County,Swansea City,0-1
--,Southampton,Swansea City,3-1
--,Stoke City,Swansea City,1-2
--,Sunderland,Swansea City,0-1
--,Tottenham Hotspur,Swansea City,2-1
--,West Bromwich Albion,Swansea City,4-1
--,West Ham United,Swansea City,1-1
--,Wolverhampton Wanderers,Swansea City,0-1
--,Arsenal,Tottenham Hotspur,1-3
--,Aston Villa,Tottenham Hotspur,1-1
--,Birmingham City,Tottenham Hotspur,0-0
--,Brighton & Hove Albion,Tottenham Hotspur,1-3
--,Coventry City,Tottenham Hotspur,0-0
--,Everton,Tottenham Hotspur,1-1
--,Ipswich Town,Tottenham Hotspur,2-1
--,Leeds United,Tottenham Hotspur,0-0
--,Liverpool,Tottenham Hotspur,3-1
--,Manchester City,Tottenham Hotspur,0-1
--,Manchester United,Tottenham Hotspur,2-0
--,Middlesbrough,Tottenham Hotspur,1-3
--,Nottingham Forest,Tottenham Hotspur,2-0
--,Notts County,Tottenham Hotspur,2-2
--,Southampton,Tottenham Hotspur,1-2
--,Stoke City,Tottenham Hotspur,0-2
--,Sunderland,Tottenham Hotspur,0-2
--,Swansea City,Tottenham Hotspur,2-1
--,West Bromwich Albion,Tottenham Hotspur,1-0
--,West Ham United,Tottenham Hotspur,2-2
--,Wolverhampton Wanderers,Tottenham Hotspur,0-1
--,Arsenal,West Bromwich Albion,2-2
--,Aston Villa,West Bromwich Albion,2-1
--,Birmingham City,West Bromwich Albion,3-3
--,Brighton & Hove Albion,West Bromwich Albion,2-2
--,Coventry City,West Bromwich Albion,0-2
--,Everton,West Bromwich Albion,1-0
--,Ipswich Town,West Bromwich Albion,1-0
--,Leeds United,West Bromwich Albion,3-1
--,Liverpool,West Bromwich Albion,1-0
--,Manchester City,West Bromwich Albion,2-1
--,Manchester United,West Bromwich Albion,1-0
--,Middlesbrough,West Bromwich Albion,1-0
--,Nottingham Forest,West Bromwich Albion,0-0
--,Notts County,West Bromwich Albion,1-2
--,Southampton,West Bromwich Albion,0-0
--,Stoke City,West Bromwich Albion,3-0
--,Sunderland,West Bromwich Albion,1-2
--,Swansea City,West Bromwich Albion,3-1
--,Tottenham Hotspur,West Bromwich Albion,1-2
--,West Ham United,West Bromwich Albion,3-1
--,Wolverhampton Wanderers,West Bromwich Albion,1-2
--,Arsenal,West Ham United,2-0
--,Aston Villa,West Ham United,3-2
--,Birmingham City,West Ham United,2-2
--,Brighton & Hove Albion,West Ham United,1-0
--,Coventry City,West Ham United,1-0
--,Everton,West Ham United,0-0
--,Ipswich Town,West Ham United,3-2
--,Leeds United,West Ham United,3-3
--,Liverpool,West Ham United,3-0
--,Manchester City,West Ham United,0-1
--,Manchester United,West Ham United,1-0
--,Middlesbrough,West Ham United,2-3
--,Nottingham Forest,West Ham United,0-0
--,Notts County,West Ham United,1-1
--,Southampton,West Ham United,2-1
--,Stoke City,West Ham United,2-1
--,Sunderland,West Ham United,0-2
--,Swansea City,West Ham United,0-1
--,Tottenham Hotspur,West Ham United,0-4
--,West Bromwich Albion,West Ham United,0-0
--,Wolverhampton Wanderers,West Ham United,2-1
--,Arsenal,Wolverhampton Wanderers,2-1
--,Aston Villa,Wolverhampton Wanderers,3-1
--,Birmingham City,Wolverhampton Wanderers,0-3
--,Brighton & Hove Albion,Wolverhampton Wanderers,2-0
--,Coventry City,Wolverhampton Wanderers,0-0
--,Everton,Wolverhampton Wanderers,1-1
--,Ipswich Town,Wolverhampton Wanderers,1-0
--,Leeds United,Wolverhampton Wanderers,3-0
--,Liverpool,Wolverhampton Wanderers,2-1
--,Manchester City,Wolverhampton Wanderers,2-1
--,Manchester United,Wolverhampton Wanderers,5-0
--,Middlesbrough,Wolverhampton Wanderers,0-0
--,Nottingham Forest,Wolverhampton Wanderers,0-1
--,Notts County,Wolverhampton Wanderers,4-0
--,Southampton,Wolverhampton Wanderers,4-1
--,Stoke City,Wolverhampton Wanderers,2-1
--,Sunderland,Wolverhampton Wanderers,0-0
--,Swansea City,Wolverhampton Wanderers,0-0
--,Tottenham Hotspur,Wolverhampton Wanderers,6-1
--,West Bromwich Albion,Wolverhampton Wanderers,3-0
--,West Ham United,Wolverhampton Wanderers,3-1
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Aston Villa,Arsenal,0-2,-
+-,-,Birmingham City,Arsenal,0-1,-
+-,-,Brighton & Hove Albion,Arsenal,2-1,-
+-,-,Coventry City,Arsenal,1-0,-
+-,-,Everton,Arsenal,2-1,-
+-,-,Ipswich Town,Arsenal,2-1,-
+-,-,Leeds United,Arsenal,0-0,-
+-,-,Liverpool,Arsenal,2-0,-
+-,-,Manchester City,Arsenal,0-0,-
+-,-,Manchester United,Arsenal,0-0,-
+-,-,Middlesbrough,Arsenal,1-3,-
+-,-,Nottingham Forest,Arsenal,1-2,-
+-,-,Notts County,Arsenal,2-1,-
+-,-,Southampton,Arsenal,3-1,-
+-,-,Stoke City,Arsenal,0-1,-
+-,-,Sunderland,Arsenal,0-0,-
+-,-,Swansea City,Arsenal,2-0,-
+-,-,Tottenham Hotspur,Arsenal,2-2,-
+-,-,West Bromwich Albion,Arsenal,0-2,-
+-,-,West Ham United,Arsenal,1-2,-
+-,-,Wolverhampton Wanderers,Arsenal,1-1,-
+-,-,Arsenal,Aston Villa,4-3,-
+-,-,Birmingham City,Aston Villa,0-1,-
+-,-,Brighton & Hove Albion,Aston Villa,0-1,-
+-,-,Coventry City,Aston Villa,1-1,-
+-,-,Everton,Aston Villa,2-0,-
+-,-,Ipswich Town,Aston Villa,3-1,-
+-,-,Leeds United,Aston Villa,1-1,-
+-,-,Liverpool,Aston Villa,0-0,-
+-,-,Manchester City,Aston Villa,1-0,-
+-,-,Manchester United,Aston Villa,4-1,-
+-,-,Middlesbrough,Aston Villa,3-3,-
+-,-,Nottingham Forest,Aston Villa,1-1,-
+-,-,Notts County,Aston Villa,1-0,-
+-,-,Southampton,Aston Villa,0-3,-
+-,-,Stoke City,Aston Villa,1-0,-
+-,-,Sunderland,Aston Villa,2-1,-
+-,-,Swansea City,Aston Villa,2-1,-
+-,-,Tottenham Hotspur,Aston Villa,1-3,-
+-,-,West Bromwich Albion,Aston Villa,0-1,-
+-,-,West Ham United,Aston Villa,2-2,-
+-,-,Wolverhampton Wanderers,Aston Villa,0-3,-
+-,-,Arsenal,Birmingham City,1-0,-
+-,-,Aston Villa,Birmingham City,0-0,-
+-,-,Brighton & Hove Albion,Birmingham City,1-1,-
+-,-,Coventry City,Birmingham City,0-1,-
+-,-,Everton,Birmingham City,3-1,-
+-,-,Ipswich Town,Birmingham City,3-2,-
+-,-,Leeds United,Birmingham City,3-3,-
+-,-,Liverpool,Birmingham City,3-1,-
+-,-,Manchester City,Birmingham City,4-2,-
+-,-,Manchester United,Birmingham City,1-1,-
+-,-,Middlesbrough,Birmingham City,2-1,-
+-,-,Nottingham Forest,Birmingham City,2-1,-
+-,-,Notts County,Birmingham City,1-4,-
+-,-,Southampton,Birmingham City,3-1,-
+-,-,Stoke City,Birmingham City,1-0,-
+-,-,Sunderland,Birmingham City,2-0,-
+-,-,Swansea City,Birmingham City,1-0,-
+-,-,Tottenham Hotspur,Birmingham City,1-1,-
+-,-,West Bromwich Albion,Birmingham City,1-1,-
+-,-,West Ham United,Birmingham City,2-2,-
+-,-,Wolverhampton Wanderers,Birmingham City,1-1,-
+-,-,Arsenal,Brighton & Hove Albion,0-0,-
+-,-,Aston Villa,Brighton & Hove Albion,3-0,-
+-,-,Birmingham City,Brighton & Hove Albion,1-0,-
+-,-,Coventry City,Brighton & Hove Albion,0-1,-
+-,-,Everton,Brighton & Hove Albion,1-1,-
+-,-,Ipswich Town,Brighton & Hove Albion,3-1,-
+-,-,Leeds United,Brighton & Hove Albion,2-1,-
+-,-,Liverpool,Brighton & Hove Albion,0-1,-
+-,-,Manchester City,Brighton & Hove Albion,4-0,-
+-,-,Manchester United,Brighton & Hove Albion,2-0,-
+-,-,Middlesbrough,Brighton & Hove Albion,2-1,-
+-,-,Nottingham Forest,Brighton & Hove Albion,2-1,-
+-,-,Notts County,Brighton & Hove Albion,4-1,-
+-,-,Southampton,Brighton & Hove Albion,0-2,-
+-,-,Stoke City,Brighton & Hove Albion,0-0,-
+-,-,Sunderland,Brighton & Hove Albion,3-0,-
+-,-,Swansea City,Brighton & Hove Albion,0-0,-
+-,-,Tottenham Hotspur,Brighton & Hove Albion,0-1,-
+-,-,West Bromwich Albion,Brighton & Hove Albion,0-0,-
+-,-,West Ham United,Brighton & Hove Albion,1-1,-
+-,-,Wolverhampton Wanderers,Brighton & Hove Albion,0-1,-
+-,-,Arsenal,Coventry City,1-0,-
+-,-,Aston Villa,Coventry City,2-1,-
+-,-,Birmingham City,Coventry City,3-3,-
+-,-,Brighton & Hove Albion,Coventry City,2-2,-
+-,-,Everton,Coventry City,3-2,-
+-,-,Ipswich Town,Coventry City,1-0,-
+-,-,Leeds United,Coventry City,0-0,-
+-,-,Liverpool,Coventry City,4-0,-
+-,-,Manchester City,Coventry City,1-3,-
+-,-,Manchester United,Coventry City,0-1,-
+-,-,Middlesbrough,Coventry City,0-0,-
+-,-,Nottingham Forest,Coventry City,2-1,-
+-,-,Notts County,Coventry City,2-1,-
+-,-,Southampton,Coventry City,5-5,-
+-,-,Stoke City,Coventry City,4-0,-
+-,-,Sunderland,Coventry City,0-0,-
+-,-,Swansea City,Coventry City,0-0,-
+-,-,Tottenham Hotspur,Coventry City,1-2,-
+-,-,West Bromwich Albion,Coventry City,1-2,-
+-,-,West Ham United,Coventry City,5-2,-
+-,-,Wolverhampton Wanderers,Coventry City,1-0,-
+-,-,Arsenal,Everton,1-0,-
+-,-,Aston Villa,Everton,1-2,-
+-,-,Birmingham City,Everton,0-2,-
+-,-,Brighton & Hove Albion,Everton,3-1,-
+-,-,Coventry City,Everton,1-0,-
+-,-,Ipswich Town,Everton,3-0,-
+-,-,Leeds United,Everton,1-1,-
+-,-,Liverpool,Everton,3-1,-
+-,-,Manchester City,Everton,1-1,-
+-,-,Manchester United,Everton,1-1,-
+-,-,Middlesbrough,Everton,0-2,-
+-,-,Nottingham Forest,Everton,0-1,-
+-,-,Notts County,Everton,2-2,-
+-,-,Southampton,Everton,1-0,-
+-,-,Stoke City,Everton,3-1,-
+-,-,Sunderland,Everton,3-1,-
+-,-,Swansea City,Everton,1-3,-
+-,-,Tottenham Hotspur,Everton,3-0,-
+-,-,West Bromwich Albion,Everton,0-0,-
+-,-,West Ham United,Everton,1-1,-
+-,-,Wolverhampton Wanderers,Everton,0-3,-
+-,-,Arsenal,Ipswich Town,1-0,-
+-,-,Aston Villa,Ipswich Town,0-1,-
+-,-,Birmingham City,Ipswich Town,1-1,-
+-,-,Brighton & Hove Albion,Ipswich Town,0-1,-
+-,-,Coventry City,Ipswich Town,2-4,-
+-,-,Everton,Ipswich Town,2-1,-
+-,-,Leeds United,Ipswich Town,0-2,-
+-,-,Liverpool,Ipswich Town,4-0,-
+-,-,Manchester City,Ipswich Town,1-1,-
+-,-,Manchester United,Ipswich Town,1-2,-
+-,-,Middlesbrough,Ipswich Town,0-1,-
+-,-,Nottingham Forest,Ipswich Town,1-1,-
+-,-,Notts County,Ipswich Town,1-4,-
+-,-,Southampton,Ipswich Town,4-3,-
+-,-,Stoke City,Ipswich Town,2-0,-
+-,-,Sunderland,Ipswich Town,1-1,-
+-,-,Swansea City,Ipswich Town,1-2,-
+-,-,Tottenham Hotspur,Ipswich Town,1-0,-
+-,-,West Bromwich Albion,Ipswich Town,1-2,-
+-,-,West Ham United,Ipswich Town,2-0,-
+-,-,Wolverhampton Wanderers,Ipswich Town,2-1,-
+-,-,Arsenal,Leeds United,1-0,-
+-,-,Aston Villa,Leeds United,1-4,-
+-,-,Birmingham City,Leeds United,0-1,-
+-,-,Brighton & Hove Albion,Leeds United,1-0,-
+-,-,Coventry City,Leeds United,4-0,-
+-,-,Everton,Leeds United,1-0,-
+-,-,Ipswich Town,Leeds United,2-1,-
+-,-,Liverpool,Leeds United,3-0,-
+-,-,Manchester City,Leeds United,4-0,-
+-,-,Manchester United,Leeds United,1-0,-
+-,-,Middlesbrough,Leeds United,0-0,-
+-,-,Nottingham Forest,Leeds United,2-1,-
+-,-,Notts County,Leeds United,2-1,-
+-,-,Southampton,Leeds United,4-0,-
+-,-,Stoke City,Leeds United,1-2,-
+-,-,Sunderland,Leeds United,0-1,-
+-,-,Swansea City,Leeds United,5-1,-
+-,-,Tottenham Hotspur,Leeds United,2-1,-
+-,-,West Bromwich Albion,Leeds United,2-0,-
+-,-,West Ham United,Leeds United,4-3,-
+-,-,Wolverhampton Wanderers,Leeds United,1-0,-
+-,-,Arsenal,Liverpool,1-1,-
+-,-,Aston Villa,Liverpool,0-3,-
+-,-,Birmingham City,Liverpool,0-1,-
+-,-,Brighton & Hove Albion,Liverpool,3-3,-
+-,-,Coventry City,Liverpool,1-2,-
+-,-,Everton,Liverpool,1-3,-
+-,-,Ipswich Town,Liverpool,2-0,-
+-,-,Leeds United,Liverpool,0-2,-
+-,-,Manchester City,Liverpool,0-5,-
+-,-,Manchester United,Liverpool,0-1,-
+-,-,Middlesbrough,Liverpool,0-0,-
+-,-,Nottingham Forest,Liverpool,0-2,-
+-,-,Notts County,Liverpool,0-4,-
+-,-,Southampton,Liverpool,2-3,-
+-,-,Stoke City,Liverpool,1-5,-
+-,-,Sunderland,Liverpool,0-2,-
+-,-,Swansea City,Liverpool,2-0,-
+-,-,Tottenham Hotspur,Liverpool,2-2,-
+-,-,West Bromwich Albion,Liverpool,1-1,-
+-,-,West Ham United,Liverpool,1-1,-
+-,-,Wolverhampton Wanderers,Liverpool,1-0,-
+-,-,Arsenal,Manchester City,1-0,-
+-,-,Aston Villa,Manchester City,0-0,-
+-,-,Birmingham City,Manchester City,3-0,-
+-,-,Brighton & Hove Albion,Manchester City,4-1,-
+-,-,Coventry City,Manchester City,0-1,-
+-,-,Everton,Manchester City,0-1,-
+-,-,Ipswich Town,Manchester City,2-0,-
+-,-,Leeds United,Manchester City,0-1,-
+-,-,Liverpool,Manchester City,1-3,-
+-,-,Manchester United,Manchester City,1-1,-
+-,-,Middlesbrough,Manchester City,0-0,-
+-,-,Nottingham Forest,Manchester City,1-1,-
+-,-,Notts County,Manchester City,1-1,-
+-,-,Southampton,Manchester City,2-1,-
+-,-,Stoke City,Manchester City,1-3,-
+-,-,Sunderland,Manchester City,1-0,-
+-,-,Swansea City,Manchester City,2-0,-
+-,-,Tottenham Hotspur,Manchester City,2-0,-
+-,-,West Bromwich Albion,Manchester City,0-1,-
+-,-,West Ham United,Manchester City,1-1,-
+-,-,Wolverhampton Wanderers,Manchester City,4-1,-
+-,-,Arsenal,Manchester United,0-0,-
+-,-,Aston Villa,Manchester United,1-1,-
+-,-,Birmingham City,Manchester United,0-1,-
+-,-,Brighton & Hove Albion,Manchester United,0-1,-
+-,-,Coventry City,Manchester United,2-1,-
+-,-,Everton,Manchester United,3-3,-
+-,-,Ipswich Town,Manchester United,2-1,-
+-,-,Leeds United,Manchester United,0-0,-
+-,-,Liverpool,Manchester United,1-2,-
+-,-,Manchester City,Manchester United,0-0,-
+-,-,Middlesbrough,Manchester United,0-2,-
+-,-,Nottingham Forest,Manchester United,0-1,-
+-,-,Notts County,Manchester United,1-3,-
+-,-,Southampton,Manchester United,3-2,-
+-,-,Stoke City,Manchester United,0-3,-
+-,-,Sunderland,Manchester United,1-5,-
+-,-,Swansea City,Manchester United,2-0,-
+-,-,Tottenham Hotspur,Manchester United,3-1,-
+-,-,West Bromwich Albion,Manchester United,0-3,-
+-,-,West Ham United,Manchester United,1-1,-
+-,-,Wolverhampton Wanderers,Manchester United,0-1,-
+-,-,Arsenal,Middlesbrough,1-0,-
+-,-,Aston Villa,Middlesbrough,1-0,-
+-,-,Birmingham City,Middlesbrough,0-0,-
+-,-,Brighton & Hove Albion,Middlesbrough,2-0,-
+-,-,Coventry City,Middlesbrough,1-1,-
+-,-,Everton,Middlesbrough,2-0,-
+-,-,Ipswich Town,Middlesbrough,3-1,-
+-,-,Leeds United,Middlesbrough,1-1,-
+-,-,Liverpool,Middlesbrough,1-1,-
+-,-,Manchester City,Middlesbrough,3-2,-
+-,-,Manchester United,Middlesbrough,1-0,-
+-,-,Nottingham Forest,Middlesbrough,1-1,-
+-,-,Notts County,Middlesbrough,0-1,-
+-,-,Southampton,Middlesbrough,2-0,-
+-,-,Stoke City,Middlesbrough,2-0,-
+-,-,Sunderland,Middlesbrough,0-2,-
+-,-,Swansea City,Middlesbrough,1-2,-
+-,-,Tottenham Hotspur,Middlesbrough,1-0,-
+-,-,West Bromwich Albion,Middlesbrough,2-0,-
+-,-,West Ham United,Middlesbrough,3-2,-
+-,-,Wolverhampton Wanderers,Middlesbrough,0-0,-
+-,-,Arsenal,Nottingham Forest,2-0,-
+-,-,Aston Villa,Nottingham Forest,3-1,-
+-,-,Birmingham City,Nottingham Forest,4-3,-
+-,-,Brighton & Hove Albion,Nottingham Forest,0-1,-
+-,-,Coventry City,Nottingham Forest,0-1,-
+-,-,Everton,Nottingham Forest,2-1,-
+-,-,Ipswich Town,Nottingham Forest,1-3,-
+-,-,Leeds United,Nottingham Forest,1-1,-
+-,-,Liverpool,Nottingham Forest,2-0,-
+-,-,Manchester City,Nottingham Forest,0-0,-
+-,-,Manchester United,Nottingham Forest,0-0,-
+-,-,Middlesbrough,Nottingham Forest,1-1,-
+-,-,Notts County,Nottingham Forest,1-2,-
+-,-,Southampton,Nottingham Forest,2-0,-
+-,-,Stoke City,Nottingham Forest,1-2,-
+-,-,Sunderland,Nottingham Forest,2-3,-
+-,-,Swansea City,Nottingham Forest,1-2,-
+-,-,Tottenham Hotspur,Nottingham Forest,3-0,-
+-,-,West Bromwich Albion,Nottingham Forest,2-1,-
+-,-,West Ham United,Nottingham Forest,0-1,-
+-,-,Wolverhampton Wanderers,Nottingham Forest,0-0,-
+-,-,Arsenal,Notts County,1-0,-
+-,-,Aston Villa,Notts County,0-1,-
+-,-,Birmingham City,Notts County,2-1,-
+-,-,Brighton & Hove Albion,Notts County,2-2,-
+-,-,Coventry City,Notts County,1-5,-
+-,-,Everton,Notts County,3-1,-
+-,-,Ipswich Town,Notts County,1-3,-
+-,-,Leeds United,Notts County,1-0,-
+-,-,Liverpool,Notts County,1-0,-
+-,-,Manchester City,Notts County,1-0,-
+-,-,Manchester United,Notts County,2-1,-
+-,-,Middlesbrough,Notts County,3-0,-
+-,-,Nottingham Forest,Notts County,0-2,-
+-,-,Southampton,Notts County,3-1,-
+-,-,Stoke City,Notts County,2-2,-
+-,-,Sunderland,Notts County,1-1,-
+-,-,Swansea City,Notts County,3-2,-
+-,-,Tottenham Hotspur,Notts County,3-1,-
+-,-,West Bromwich Albion,Notts County,2-4,-
+-,-,West Ham United,Notts County,1-0,-
+-,-,Wolverhampton Wanderers,Notts County,3-2,-
+-,-,Arsenal,Southampton,4-1,-
+-,-,Aston Villa,Southampton,1-1,-
+-,-,Birmingham City,Southampton,4-0,-
+-,-,Brighton & Hove Albion,Southampton,1-1,-
+-,-,Coventry City,Southampton,4-2,-
+-,-,Everton,Southampton,1-1,-
+-,-,Ipswich Town,Southampton,5-2,-
+-,-,Leeds United,Southampton,1-3,-
+-,-,Liverpool,Southampton,0-1,-
+-,-,Manchester City,Southampton,1-1,-
+-,-,Manchester United,Southampton,1-0,-
+-,-,Middlesbrough,Southampton,0-1,-
+-,-,Nottingham Forest,Southampton,2-1,-
+-,-,Notts County,Southampton,1-1,-
+-,-,Stoke City,Southampton,0-2,-
+-,-,Sunderland,Southampton,2-0,-
+-,-,Swansea City,Southampton,1-0,-
+-,-,Tottenham Hotspur,Southampton,3-2,-
+-,-,West Bromwich Albion,Southampton,1-1,-
+-,-,West Ham United,Southampton,4-2,-
+-,-,Wolverhampton Wanderers,Southampton,0-0,-
+-,-,Arsenal,Stoke City,0-1,-
+-,-,Aston Villa,Stoke City,2-2,-
+-,-,Birmingham City,Stoke City,2-1,-
+-,-,Brighton & Hove Albion,Stoke City,0-0,-
+-,-,Coventry City,Stoke City,3-0,-
+-,-,Everton,Stoke City,0-0,-
+-,-,Ipswich Town,Stoke City,2-0,-
+-,-,Leeds United,Stoke City,0-0,-
+-,-,Liverpool,Stoke City,2-0,-
+-,-,Manchester City,Stoke City,1-1,-
+-,-,Manchester United,Stoke City,2-0,-
+-,-,Middlesbrough,Stoke City,3-2,-
+-,-,Nottingham Forest,Stoke City,0-0,-
+-,-,Notts County,Stoke City,3-1,-
+-,-,Southampton,Stoke City,4-3,-
+-,-,Sunderland,Stoke City,0-2,-
+-,-,Swansea City,Stoke City,3-0,-
+-,-,Tottenham Hotspur,Stoke City,2-0,-
+-,-,West Bromwich Albion,Stoke City,1-2,-
+-,-,West Ham United,Stoke City,3-2,-
+-,-,Wolverhampton Wanderers,Stoke City,2-0,-
+-,-,Arsenal,Sunderland,1-1,-
+-,-,Aston Villa,Sunderland,1-0,-
+-,-,Birmingham City,Sunderland,2-0,-
+-,-,Brighton & Hove Albion,Sunderland,2-1,-
+-,-,Coventry City,Sunderland,6-1,-
+-,-,Everton,Sunderland,1-2,-
+-,-,Ipswich Town,Sunderland,3-3,-
+-,-,Leeds United,Sunderland,1-0,-
+-,-,Liverpool,Sunderland,1-0,-
+-,-,Manchester City,Sunderland,2-3,-
+-,-,Manchester United,Sunderland,0-0,-
+-,-,Middlesbrough,Sunderland,0-0,-
+-,-,Nottingham Forest,Sunderland,2-0,-
+-,-,Notts County,Sunderland,2-0,-
+-,-,Southampton,Sunderland,1-0,-
+-,-,Stoke City,Sunderland,0-1,-
+-,-,Swansea City,Sunderland,2-0,-
+-,-,Tottenham Hotspur,Sunderland,2-2,-
+-,-,West Bromwich Albion,Sunderland,2-3,-
+-,-,West Ham United,Sunderland,1-1,-
+-,-,Wolverhampton Wanderers,Sunderland,0-1,-
+-,-,Arsenal,Swansea City,0-2,-
+-,-,Aston Villa,Swansea City,3-0,-
+-,-,Birmingham City,Swansea City,2-1,-
+-,-,Brighton & Hove Albion,Swansea City,1-2,-
+-,-,Coventry City,Swansea City,3-1,-
+-,-,Everton,Swansea City,3-1,-
+-,-,Ipswich Town,Swansea City,2-3,-
+-,-,Leeds United,Swansea City,2-0,-
+-,-,Liverpool,Swansea City,2-2,-
+-,-,Manchester City,Swansea City,4-0,-
+-,-,Manchester United,Swansea City,1-0,-
+-,-,Middlesbrough,Swansea City,1-1,-
+-,-,Nottingham Forest,Swansea City,0-2,-
+-,-,Notts County,Swansea City,0-1,-
+-,-,Southampton,Swansea City,3-1,-
+-,-,Stoke City,Swansea City,1-2,-
+-,-,Sunderland,Swansea City,0-1,-
+-,-,Tottenham Hotspur,Swansea City,2-1,-
+-,-,West Bromwich Albion,Swansea City,4-1,-
+-,-,West Ham United,Swansea City,1-1,-
+-,-,Wolverhampton Wanderers,Swansea City,0-1,-
+-,-,Arsenal,Tottenham Hotspur,1-3,-
+-,-,Aston Villa,Tottenham Hotspur,1-1,-
+-,-,Birmingham City,Tottenham Hotspur,0-0,-
+-,-,Brighton & Hove Albion,Tottenham Hotspur,1-3,-
+-,-,Coventry City,Tottenham Hotspur,0-0,-
+-,-,Everton,Tottenham Hotspur,1-1,-
+-,-,Ipswich Town,Tottenham Hotspur,2-1,-
+-,-,Leeds United,Tottenham Hotspur,0-0,-
+-,-,Liverpool,Tottenham Hotspur,3-1,-
+-,-,Manchester City,Tottenham Hotspur,0-1,-
+-,-,Manchester United,Tottenham Hotspur,2-0,-
+-,-,Middlesbrough,Tottenham Hotspur,1-3,-
+-,-,Nottingham Forest,Tottenham Hotspur,2-0,-
+-,-,Notts County,Tottenham Hotspur,2-2,-
+-,-,Southampton,Tottenham Hotspur,1-2,-
+-,-,Stoke City,Tottenham Hotspur,0-2,-
+-,-,Sunderland,Tottenham Hotspur,0-2,-
+-,-,Swansea City,Tottenham Hotspur,2-1,-
+-,-,West Bromwich Albion,Tottenham Hotspur,1-0,-
+-,-,West Ham United,Tottenham Hotspur,2-2,-
+-,-,Wolverhampton Wanderers,Tottenham Hotspur,0-1,-
+-,-,Arsenal,West Bromwich Albion,2-2,-
+-,-,Aston Villa,West Bromwich Albion,2-1,-
+-,-,Birmingham City,West Bromwich Albion,3-3,-
+-,-,Brighton & Hove Albion,West Bromwich Albion,2-2,-
+-,-,Coventry City,West Bromwich Albion,0-2,-
+-,-,Everton,West Bromwich Albion,1-0,-
+-,-,Ipswich Town,West Bromwich Albion,1-0,-
+-,-,Leeds United,West Bromwich Albion,3-1,-
+-,-,Liverpool,West Bromwich Albion,1-0,-
+-,-,Manchester City,West Bromwich Albion,2-1,-
+-,-,Manchester United,West Bromwich Albion,1-0,-
+-,-,Middlesbrough,West Bromwich Albion,1-0,-
+-,-,Nottingham Forest,West Bromwich Albion,0-0,-
+-,-,Notts County,West Bromwich Albion,1-2,-
+-,-,Southampton,West Bromwich Albion,0-0,-
+-,-,Stoke City,West Bromwich Albion,3-0,-
+-,-,Sunderland,West Bromwich Albion,1-2,-
+-,-,Swansea City,West Bromwich Albion,3-1,-
+-,-,Tottenham Hotspur,West Bromwich Albion,1-2,-
+-,-,West Ham United,West Bromwich Albion,3-1,-
+-,-,Wolverhampton Wanderers,West Bromwich Albion,1-2,-
+-,-,Arsenal,West Ham United,2-0,-
+-,-,Aston Villa,West Ham United,3-2,-
+-,-,Birmingham City,West Ham United,2-2,-
+-,-,Brighton & Hove Albion,West Ham United,1-0,-
+-,-,Coventry City,West Ham United,1-0,-
+-,-,Everton,West Ham United,0-0,-
+-,-,Ipswich Town,West Ham United,3-2,-
+-,-,Leeds United,West Ham United,3-3,-
+-,-,Liverpool,West Ham United,3-0,-
+-,-,Manchester City,West Ham United,0-1,-
+-,-,Manchester United,West Ham United,1-0,-
+-,-,Middlesbrough,West Ham United,2-3,-
+-,-,Nottingham Forest,West Ham United,0-0,-
+-,-,Notts County,West Ham United,1-1,-
+-,-,Southampton,West Ham United,2-1,-
+-,-,Stoke City,West Ham United,2-1,-
+-,-,Sunderland,West Ham United,0-2,-
+-,-,Swansea City,West Ham United,0-1,-
+-,-,Tottenham Hotspur,West Ham United,0-4,-
+-,-,West Bromwich Albion,West Ham United,0-0,-
+-,-,Wolverhampton Wanderers,West Ham United,2-1,-
+-,-,Arsenal,Wolverhampton Wanderers,2-1,-
+-,-,Aston Villa,Wolverhampton Wanderers,3-1,-
+-,-,Birmingham City,Wolverhampton Wanderers,0-3,-
+-,-,Brighton & Hove Albion,Wolverhampton Wanderers,2-0,-
+-,-,Coventry City,Wolverhampton Wanderers,0-0,-
+-,-,Everton,Wolverhampton Wanderers,1-1,-
+-,-,Ipswich Town,Wolverhampton Wanderers,1-0,-
+-,-,Leeds United,Wolverhampton Wanderers,3-0,-
+-,-,Liverpool,Wolverhampton Wanderers,2-1,-
+-,-,Manchester City,Wolverhampton Wanderers,2-1,-
+-,-,Manchester United,Wolverhampton Wanderers,5-0,-
+-,-,Middlesbrough,Wolverhampton Wanderers,0-0,-
+-,-,Nottingham Forest,Wolverhampton Wanderers,0-1,-
+-,-,Notts County,Wolverhampton Wanderers,4-0,-
+-,-,Southampton,Wolverhampton Wanderers,4-1,-
+-,-,Stoke City,Wolverhampton Wanderers,2-1,-
+-,-,Sunderland,Wolverhampton Wanderers,0-0,-
+-,-,Swansea City,Wolverhampton Wanderers,0-0,-
+-,-,Tottenham Hotspur,Wolverhampton Wanderers,6-1,-
+-,-,West Bromwich Albion,Wolverhampton Wanderers,3-0,-
+-,-,West Ham United,Wolverhampton Wanderers,3-1,-

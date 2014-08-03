@@ -1,463 +1,463 @@
-Date,Team 1,Team 2,FT
--,Birmingham City,Aston Villa,4-0
--,Blackburn Rovers,Aston Villa,2-0
--,Blackpool,Aston Villa,1-1
--,Bolton Wanderers,Aston Villa,4-1
--,Bristol City,Aston Villa,1-0
--,Bury,Aston Villa,3-2
--,Cardiff City,Aston Villa,1-1
--,Carlisle United,Aston Villa,0-1
--,Charlton Athletic,Aston Villa,1-1
--,Crystal Palace,Aston Villa,4-2
--,Derby County,Aston Villa,3-1
--,Fulham,Aston Villa,1-1
--,Huddersfield Town,Aston Villa,3-1
--,Hull City,Aston Villa,1-0
--,Middlesbrough,Aston Villa,0-0
--,Millwall,Aston Villa,0-1
--,Norwich City,Aston Villa,1-1
--,Oxford United,Aston Villa,1-0
--,Portsmouth,Aston Villa,2-0
--,Preston North End,Aston Villa,1-0
--,Sheffield United,Aston Villa,3-1
--,Aston Villa,Birmingham City,1-0
--,Blackburn Rovers,Birmingham City,3-2
--,Blackpool,Birmingham City,2-1
--,Bolton Wanderers,Birmingham City,0-0
--,Bristol City,Birmingham City,0-0
--,Bury,Birmingham City,1-2
--,Cardiff City,Birmingham City,4-0
--,Carlisle United,Birmingham City,2-3
--,Charlton Athletic,Birmingham City,3-1
--,Crystal Palace,Birmingham City,3-2
--,Derby County,Birmingham City,1-0
--,Fulham,Birmingham City,2-0
--,Huddersfield Town,Birmingham City,0-0
--,Hull City,Birmingham City,1-2
--,Middlesbrough,Birmingham City,3-1
--,Millwall,Birmingham City,1-3
--,Norwich City,Birmingham City,1-1
--,Oxford United,Birmingham City,1-2
--,Portsmouth,Birmingham City,0-0
--,Preston North End,Birmingham City,4-1
--,Sheffield United,Birmingham City,2-0
--,Aston Villa,Blackburn Rovers,1-1
--,Birmingham City,Blackburn Rovers,3-1
--,Blackpool,Blackburn Rovers,0-1
--,Bolton Wanderers,Blackburn Rovers,1-1
--,Bristol City,Blackburn Rovers,1-0
--,Bury,Blackburn Rovers,1-3
--,Cardiff City,Blackburn Rovers,2-1
--,Carlisle United,Blackburn Rovers,4-1
--,Charlton Athletic,Blackburn Rovers,4-0
--,Crystal Palace,Blackburn Rovers,1-0
--,Derby County,Blackburn Rovers,4-2
--,Fulham,Blackburn Rovers,1-1
--,Huddersfield Town,Blackburn Rovers,2-1
--,Hull City,Blackburn Rovers,1-3
--,Middlesbrough,Blackburn Rovers,2-0
--,Millwall,Blackburn Rovers,2-2
--,Norwich City,Blackburn Rovers,3-1
--,Oxford United,Blackburn Rovers,2-1
--,Portsmouth,Blackburn Rovers,0-1
--,Preston North End,Blackburn Rovers,1-1
--,Sheffield United,Blackburn Rovers,3-0
--,Aston Villa,Blackpool,0-1
--,Birmingham City,Blackpool,1-0
--,Blackburn Rovers,Blackpool,1-1
--,Bolton Wanderers,Blackpool,1-4
--,Bristol City,Blackpool,1-1
--,Bury,Blackpool,2-0
--,Cardiff City,Blackpool,1-0
--,Carlisle United,Blackpool,1-0
--,Charlton Athletic,Blackpool,0-0
--,Crystal Palace,Blackpool,1-2
--,Derby County,Blackpool,1-1
--,Fulham,Blackpool,0-0
--,Huddersfield Town,Blackpool,2-1
--,Hull City,Blackpool,2-2
--,Middlesbrough,Blackpool,2-1
--,Millwall,Blackpool,1-2
--,Norwich City,Blackpool,0-1
--,Oxford United,Blackpool,0-0
--,Portsmouth,Blackpool,1-0
--,Preston North End,Blackpool,1-0
--,Sheffield United,Blackpool,2-1
--,Aston Villa,Bolton Wanderers,1-1
--,Birmingham City,Bolton Wanderers,5-0
--,Blackburn Rovers,Bolton Wanderers,2-3
--,Blackpool,Bolton Wanderers,1-0
--,Bristol City,Bolton Wanderers,2-2
--,Bury,Bolton Wanderers,2-1
--,Cardiff City,Bolton Wanderers,0-2
--,Carlisle United,Bolton Wanderers,1-1
--,Charlton Athletic,Bolton Wanderers,2-2
--,Crystal Palace,Bolton Wanderers,2-1
--,Derby County,Bolton Wanderers,5-1
--,Fulham,Bolton Wanderers,0-2
--,Huddersfield Town,Bolton Wanderers,3-0
--,Hull City,Bolton Wanderers,1-0
--,Middlesbrough,Bolton Wanderers,0-0
--,Millwall,Bolton Wanderers,3-1
--,Norwich City,Bolton Wanderers,2-0
--,Oxford United,Bolton Wanderers,1-1
--,Portsmouth,Bolton Wanderers,2-2
--,Preston North End,Bolton Wanderers,1-4
--,Sheffield United,Bolton Wanderers,5-2
--,Aston Villa,Bristol City,1-0
--,Birmingham City,Bristol City,2-0
--,Blackburn Rovers,Bristol City,1-3
--,Blackpool,Bristol City,2-2
--,Bolton Wanderers,Bristol City,1-0
--,Bury,Bristol City,1-2
--,Cardiff City,Bristol City,3-0
--,Carlisle United,Bristol City,3-0
--,Charlton Athletic,Bristol City,0-0
--,Crystal Palace,Bristol City,2-1
--,Derby County,Bristol City,5-0
--,Fulham,Bristol City,1-0
--,Huddersfield Town,Bristol City,4-1
--,Hull City,Bristol City,1-1
--,Middlesbrough,Bristol City,4-1
--,Millwall,Bristol City,2-2
--,Norwich City,Bristol City,1-1
--,Oxford United,Bristol City,0-0
--,Portsmouth,Bristol City,1-1
--,Preston North End,Bristol City,1-0
--,Sheffield United,Bristol City,2-1
--,Aston Villa,Bury,1-0
--,Birmingham City,Bury,1-3
--,Blackburn Rovers,Bury,3-0
--,Blackpool,Bury,6-0
--,Bolton Wanderers,Bury,2-0
--,Bristol City,Bury,2-1
--,Cardiff City,Bury,2-0
--,Carlisle United,Bury,2-0
--,Charlton Athletic,Bury,2-2
--,Crystal Palace,Bury,1-0
--,Derby County,Bury,2-0
--,Fulham,Bury,0-0
--,Huddersfield Town,Bury,4-1
--,Hull City,Bury,3-0
--,Middlesbrough,Bury,2-3
--,Millwall,Bury,1-0
--,Norwich City,Bury,2-2
--,Oxford United,Bury,2-2
--,Portsmouth,Bury,1-2
--,Preston North End,Bury,3-0
--,Sheffield United,Bury,5-0
--,Aston Villa,Cardiff City,2-0
--,Birmingham City,Cardiff City,2-0
--,Blackburn Rovers,Cardiff City,1-0
--,Blackpool,Cardiff City,1-2
--,Bolton Wanderers,Cardiff City,1-2
--,Bristol City,Cardiff City,0-3
--,Bury,Cardiff City,3-3
--,Carlisle United,Cardiff City,1-0
--,Charlton Athletic,Cardiff City,4-1
--,Crystal Palace,Cardiff City,3-1
--,Derby County,Cardiff City,2-0
--,Fulham,Cardiff City,1-5
--,Huddersfield Town,Cardiff City,3-0
--,Hull City,Cardiff City,3-3
--,Middlesbrough,Cardiff City,0-0
--,Millwall,Cardiff City,2-0
--,Norwich City,Cardiff City,3-1
--,Oxford United,Cardiff City,0-2
--,Portsmouth,Cardiff City,1-3
--,Preston North End,Cardiff City,0-1
--,Sheffield United,Cardiff City,2-2
--,Aston Villa,Carlisle United,0-0
--,Birmingham City,Carlisle United,3-0
--,Blackburn Rovers,Carlisle United,0-2
--,Blackpool,Carlisle United,1-0
--,Bolton Wanderers,Carlisle United,0-1
--,Bristol City,Carlisle United,3-0
--,Bury,Carlisle United,3-2
--,Cardiff City,Carlisle United,2-1
--,Charlton Athletic,Carlisle United,1-1
--,Crystal Palace,Carlisle United,5-0
--,Derby County,Carlisle United,3-3
--,Fulham,Carlisle United,0-2
--,Huddersfield Town,Carlisle United,2-0
--,Hull City,Carlisle United,1-2
--,Middlesbrough,Carlisle United,1-0
--,Millwall,Carlisle United,1-1
--,Norwich City,Carlisle United,2-1
--,Oxford United,Carlisle United,0-1
--,Portsmouth,Carlisle United,2-1
--,Preston North End,Carlisle United,2-2
--,Sheffield United,Carlisle United,0-1
--,Aston Villa,Charlton Athletic,0-0
--,Birmingham City,Charlton Athletic,0-0
--,Blackburn Rovers,Charlton Athletic,0-1
--,Blackpool,Charlton Athletic,2-3
--,Bolton Wanderers,Charlton Athletic,3-0
--,Bristol City,Charlton Athletic,2-0
--,Bury,Charlton Athletic,2-3
--,Cardiff City,Charlton Athletic,0-1
--,Carlisle United,Charlton Athletic,1-1
--,Crystal Palace,Charlton Athletic,3-3
--,Derby County,Charlton Athletic,2-1
--,Fulham,Charlton Athletic,0-1
--,Huddersfield Town,Charlton Athletic,0-0
--,Hull City,Charlton Athletic,5-2
--,Middlesbrough,Charlton Athletic,1-0
--,Millwall,Charlton Athletic,3-2
--,Norwich City,Charlton Athletic,0-1
--,Oxford United,Charlton Athletic,0-1
--,Portsmouth,Charlton Athletic,4-1
--,Preston North End,Charlton Athletic,1-1
--,Sheffield United,Charlton Athletic,2-0
--,Aston Villa,Crystal Palace,1-1
--,Birmingham City,Crystal Palace,0-1
--,Blackburn Rovers,Crystal Palace,1-2
--,Blackpool,Crystal Palace,3-0
--,Bolton Wanderers,Crystal Palace,2-2
--,Bristol City,Crystal Palace,1-1
--,Bury,Crystal Palace,2-1
--,Cardiff City,Crystal Palace,0-4
--,Carlisle United,Crystal Palace,1-2
--,Charlton Athletic,Crystal Palace,1-1
--,Derby County,Crystal Palace,0-1
--,Fulham,Crystal Palace,1-0
--,Huddersfield Town,Crystal Palace,0-0
--,Hull City,Crystal Palace,2-0
--,Middlesbrough,Crystal Palace,4-0
--,Millwall,Crystal Palace,0-2
--,Norwich City,Crystal Palace,0-1
--,Oxford United,Crystal Palace,0-2
--,Portsmouth,Crystal Palace,3-3
--,Preston North End,Crystal Palace,0-0
--,Sheffield United,Crystal Palace,1-1
--,Aston Villa,Derby County,0-1
--,Birmingham City,Derby County,1-1
--,Blackburn Rovers,Derby County,1-1
--,Blackpool,Derby County,2-3
--,Bolton Wanderers,Derby County,1-2
--,Bristol City,Derby County,0-0
--,Bury,Derby County,0-1
--,Cardiff City,Derby County,1-1
--,Carlisle United,Derby County,1-1
--,Charlton Athletic,Derby County,2-0
--,Crystal Palace,Derby County,1-2
--,Fulham,Derby County,0-1
--,Huddersfield Town,Derby County,2-0
--,Hull City,Derby County,1-0
--,Middlesbrough,Derby County,0-0
--,Millwall,Derby County,0-1
--,Norwich City,Derby County,1-4
--,Oxford United,Derby County,0-2
--,Portsmouth,Derby County,0-1
--,Preston North End,Derby County,0-0
--,Sheffield United,Derby County,2-0
--,Aston Villa,Fulham,1-1
--,Birmingham City,Fulham,5-4
--,Blackburn Rovers,Fulham,2-2
--,Blackpool,Fulham,2-2
--,Bolton Wanderers,Fulham,3-2
--,Bristol City,Fulham,6-0
--,Bury,Fulham,5-1
--,Cardiff City,Fulham,0-2
--,Carlisle United,Fulham,2-0
--,Charlton Athletic,Fulham,5-3
--,Crystal Palace,Fulham,3-2
--,Derby County,Fulham,1-0
--,Huddersfield Town,Fulham,3-0
--,Hull City,Fulham,4-0
--,Middlesbrough,Fulham,2-0
--,Millwall,Fulham,2-0
--,Norwich City,Fulham,2-0
--,Oxford United,Fulham,1-0
--,Portsmouth,Fulham,3-1
--,Preston North End,Fulham,0-0
--,Sheffield United,Fulham,1-0
--,Aston Villa,Huddersfield Town,1-0
--,Birmingham City,Huddersfield Town,5-1
--,Blackburn Rovers,Huddersfield Town,0-0
--,Blackpool,Huddersfield Town,0-0
--,Bolton Wanderers,Huddersfield Town,2-3
--,Bristol City,Huddersfield Town,0-1
--,Bury,Huddersfield Town,1-1
--,Cardiff City,Huddersfield Town,0-2
--,Carlisle United,Huddersfield Town,0-0
--,Charlton Athletic,Huddersfield Town,1-0
--,Crystal Palace,Huddersfield Town,2-1
--,Derby County,Huddersfield Town,1-0
--,Fulham,Huddersfield Town,4-3
--,Hull City,Huddersfield Town,3-0
--,Middlesbrough,Huddersfield Town,1-1
--,Millwall,Huddersfield Town,5-1
--,Norwich City,Huddersfield Town,1-0
--,Oxford United,Huddersfield Town,3-0
--,Portsmouth,Huddersfield Town,1-2
--,Preston North End,Huddersfield Town,1-0
--,Sheffield United,Huddersfield Town,0-0
--,Aston Villa,Hull City,1-1
--,Birmingham City,Hull City,5-2
--,Blackburn Rovers,Hull City,1-1
--,Blackpool,Hull City,2-0
--,Bolton Wanderers,Hull City,1-0
--,Bristol City,Hull City,1-1
--,Bury,Hull City,0-0
--,Cardiff City,Hull City,3-0
--,Carlisle United,Hull City,1-0
--,Charlton Athletic,Hull City,1-1
--,Crystal Palace,Hull City,2-0
--,Derby County,Hull City,2-2
--,Fulham,Hull City,0-0
--,Huddersfield Town,Hull City,0-3
--,Middlesbrough,Hull City,5-3
--,Millwall,Hull City,2-3
--,Norwich City,Hull City,1-2
--,Oxford United,Hull City,1-1
--,Portsmouth,Hull City,1-0
--,Preston North End,Hull City,1-0
--,Sheffield United,Hull City,1-1
--,Aston Villa,Middlesbrough,1-0
--,Birmingham City,Middlesbrough,3-1
--,Blackburn Rovers,Middlesbrough,1-1
--,Blackpool,Middlesbrough,1-1
--,Bolton Wanderers,Middlesbrough,0-0
--,Bristol City,Middlesbrough,3-0
--,Bury,Middlesbrough,2-3
--,Cardiff City,Middlesbrough,2-0
--,Carlisle United,Middlesbrough,3-0
--,Charlton Athletic,Middlesbrough,2-0
--,Crystal Palace,Middlesbrough,0-0
--,Derby County,Middlesbrough,3-2
--,Fulham,Middlesbrough,0-3
--,Huddersfield Town,Middlesbrough,3-0
--,Hull City,Middlesbrough,3-0
--,Millwall,Middlesbrough,2-0
--,Norwich City,Middlesbrough,0-2
--,Oxford United,Middlesbrough,2-4
--,Portsmouth,Middlesbrough,3-0
--,Preston North End,Middlesbrough,1-2
--,Sheffield United,Middlesbrough,1-3
--,Aston Villa,Millwall,1-1
--,Birmingham City,Millwall,1-2
--,Blackburn Rovers,Millwall,2-4
--,Blackpool,Millwall,1-0
--,Bolton Wanderers,Millwall,0-4
--,Bristol City,Millwall,0-0
--,Bury,Millwall,0-0
--,Cardiff City,Millwall,2-0
--,Carlisle United,Millwall,1-0
--,Charlton Athletic,Millwall,3-4
--,Crystal Palace,Millwall,4-2
--,Derby County,Millwall,1-0
--,Fulham,Millwall,2-0
--,Huddersfield Town,Millwall,0-2
--,Hull City,Millwall,2-0
--,Middlesbrough,Millwall,1-1
--,Norwich City,Millwall,0-3
--,Oxford United,Millwall,1-0
--,Portsmouth,Millwall,3-0
--,Preston North End,Millwall,0-1
--,Sheffield United,Millwall,1-0
--,Aston Villa,Norwich City,2-1
--,Birmingham City,Norwich City,1-2
--,Blackburn Rovers,Norwich City,3-0
--,Blackpool,Norwich City,2-1
--,Bolton Wanderers,Norwich City,1-1
--,Bristol City,Norwich City,0-1
--,Bury,Norwich City,1-2
--,Cardiff City,Norwich City,3-1
--,Carlisle United,Norwich City,0-4
--,Charlton Athletic,Norwich City,2-1
--,Crystal Palace,Norwich City,2-0
--,Derby County,Norwich City,1-1
--,Fulham,Norwich City,1-3
--,Huddersfield Town,Norwich City,2-2
--,Hull City,Norwich City,0-1
--,Middlesbrough,Norwich City,0-0
--,Millwall,Norwich City,3-1
--,Oxford United,Norwich City,0-2
--,Portsmouth,Norwich City,5-2
--,Preston North End,Norwich City,1-3
--,Sheffield United,Norwich City,1-0
--,Aston Villa,Oxford United,2-0
--,Birmingham City,Oxford United,0-1
--,Blackburn Rovers,Oxford United,1-0
--,Blackpool,Oxford United,1-0
--,Bolton Wanderers,Oxford United,1-1
--,Bristol City,Oxford United,2-0
--,Bury,Oxford United,3-1
--,Cardiff City,Oxford United,5-0
--,Carlisle United,Oxford United,0-2
--,Charlton Athletic,Oxford United,1-0
--,Crystal Palace,Oxford United,1-1
--,Derby County,Oxford United,2-0
--,Fulham,Oxford United,0-1
--,Huddersfield Town,Oxford United,2-1
--,Hull City,Oxford United,0-0
--,Middlesbrough,Oxford United,2-0
--,Millwall,Oxford United,2-1
--,Norwich City,Oxford United,1-1
--,Portsmouth,Oxford United,3-0
--,Preston North End,Oxford United,2-1
--,Sheffield United,Oxford United,1-2
--,Aston Villa,Portsmouth,2-0
--,Birmingham City,Portsmouth,5-2
--,Blackburn Rovers,Portsmouth,3-1
--,Blackpool,Portsmouth,1-1
--,Bolton Wanderers,Portsmouth,1-0
--,Bristol City,Portsmouth,2-2
--,Bury,Portsmouth,3-2
--,Cardiff City,Portsmouth,2-2
--,Carlisle United,Portsmouth,0-0
--,Charlton Athletic,Portsmouth,2-1
--,Crystal Palace,Portsmouth,3-1
--,Derby County,Portsmouth,2-1
--,Fulham,Portsmouth,2-2
--,Huddersfield Town,Portsmouth,0-0
--,Hull City,Portsmouth,2-2
--,Middlesbrough,Portsmouth,1-0
--,Millwall,Portsmouth,0-0
--,Norwich City,Portsmouth,0-1
--,Oxford United,Portsmouth,3-1
--,Preston North End,Portsmouth,0-0
--,Sheffield United,Portsmouth,2-0
--,Aston Villa,Preston North End,0-1
--,Birmingham City,Preston North End,3-1
--,Blackburn Rovers,Preston North End,1-0
--,Blackpool,Preston North End,1-1
--,Bolton Wanderers,Preston North End,0-0
--,Bristol City,Preston North End,2-1
--,Bury,Preston North End,0-1
--,Cardiff City,Preston North End,1-0
--,Carlisle United,Preston North End,1-0
--,Charlton Athletic,Preston North End,0-1
--,Crystal Palace,Preston North End,1-2
--,Derby County,Preston North End,1-0
--,Fulham,Preston North End,2-1
--,Huddersfield Town,Preston North End,1-1
--,Hull City,Preston North End,1-1
--,Middlesbrough,Preston North End,2-1
--,Millwall,Preston North End,0-0
--,Norwich City,Preston North End,1-1
--,Oxford United,Preston North End,2-1
--,Portsmouth,Preston North End,1-1
--,Sheffield United,Preston North End,4-0
--,Aston Villa,Sheffield United,3-1
--,Birmingham City,Sheffield United,2-2
--,Blackburn Rovers,Sheffield United,1-0
--,Blackpool,Sheffield United,1-1
--,Bolton Wanderers,Sheffield United,4-2
--,Bristol City,Sheffield United,1-1
--,Bury,Sheffield United,0-2
--,Cardiff City,Sheffield United,4-1
--,Carlisle United,Sheffield United,0-1
--,Charlton Athletic,Sheffield United,2-1
--,Crystal Palace,Sheffield United,1-1
--,Derby County,Sheffield United,1-0
--,Fulham,Sheffield United,2-2
--,Huddersfield Town,Sheffield United,1-0
--,Hull City,Sheffield United,1-1
--,Middlesbrough,Sheffield United,3-1
--,Millwall,Sheffield United,1-0
--,Norwich City,Sheffield United,2-0
--,Oxford United,Sheffield United,1-0
--,Portsmouth,Sheffield United,2-1
--,Preston North End,Sheffield United,2-2
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Birmingham City,Aston Villa,4-0,-
+-,-,Blackburn Rovers,Aston Villa,2-0,-
+-,-,Blackpool,Aston Villa,1-1,-
+-,-,Bolton Wanderers,Aston Villa,4-1,-
+-,-,Bristol City,Aston Villa,1-0,-
+-,-,Bury,Aston Villa,3-2,-
+-,-,Cardiff City,Aston Villa,1-1,-
+-,-,Carlisle United,Aston Villa,0-1,-
+-,-,Charlton Athletic,Aston Villa,1-1,-
+-,-,Crystal Palace,Aston Villa,4-2,-
+-,-,Derby County,Aston Villa,3-1,-
+-,-,Fulham,Aston Villa,1-1,-
+-,-,Huddersfield Town,Aston Villa,3-1,-
+-,-,Hull City,Aston Villa,1-0,-
+-,-,Middlesbrough,Aston Villa,0-0,-
+-,-,Millwall,Aston Villa,0-1,-
+-,-,Norwich City,Aston Villa,1-1,-
+-,-,Oxford United,Aston Villa,1-0,-
+-,-,Portsmouth,Aston Villa,2-0,-
+-,-,Preston North End,Aston Villa,1-0,-
+-,-,Sheffield United,Aston Villa,3-1,-
+-,-,Aston Villa,Birmingham City,1-0,-
+-,-,Blackburn Rovers,Birmingham City,3-2,-
+-,-,Blackpool,Birmingham City,2-1,-
+-,-,Bolton Wanderers,Birmingham City,0-0,-
+-,-,Bristol City,Birmingham City,0-0,-
+-,-,Bury,Birmingham City,1-2,-
+-,-,Cardiff City,Birmingham City,4-0,-
+-,-,Carlisle United,Birmingham City,2-3,-
+-,-,Charlton Athletic,Birmingham City,3-1,-
+-,-,Crystal Palace,Birmingham City,3-2,-
+-,-,Derby County,Birmingham City,1-0,-
+-,-,Fulham,Birmingham City,2-0,-
+-,-,Huddersfield Town,Birmingham City,0-0,-
+-,-,Hull City,Birmingham City,1-2,-
+-,-,Middlesbrough,Birmingham City,3-1,-
+-,-,Millwall,Birmingham City,1-3,-
+-,-,Norwich City,Birmingham City,1-1,-
+-,-,Oxford United,Birmingham City,1-2,-
+-,-,Portsmouth,Birmingham City,0-0,-
+-,-,Preston North End,Birmingham City,4-1,-
+-,-,Sheffield United,Birmingham City,2-0,-
+-,-,Aston Villa,Blackburn Rovers,1-1,-
+-,-,Birmingham City,Blackburn Rovers,3-1,-
+-,-,Blackpool,Blackburn Rovers,0-1,-
+-,-,Bolton Wanderers,Blackburn Rovers,1-1,-
+-,-,Bristol City,Blackburn Rovers,1-0,-
+-,-,Bury,Blackburn Rovers,1-3,-
+-,-,Cardiff City,Blackburn Rovers,2-1,-
+-,-,Carlisle United,Blackburn Rovers,4-1,-
+-,-,Charlton Athletic,Blackburn Rovers,4-0,-
+-,-,Crystal Palace,Blackburn Rovers,1-0,-
+-,-,Derby County,Blackburn Rovers,4-2,-
+-,-,Fulham,Blackburn Rovers,1-1,-
+-,-,Huddersfield Town,Blackburn Rovers,2-1,-
+-,-,Hull City,Blackburn Rovers,1-3,-
+-,-,Middlesbrough,Blackburn Rovers,2-0,-
+-,-,Millwall,Blackburn Rovers,2-2,-
+-,-,Norwich City,Blackburn Rovers,3-1,-
+-,-,Oxford United,Blackburn Rovers,2-1,-
+-,-,Portsmouth,Blackburn Rovers,0-1,-
+-,-,Preston North End,Blackburn Rovers,1-1,-
+-,-,Sheffield United,Blackburn Rovers,3-0,-
+-,-,Aston Villa,Blackpool,0-1,-
+-,-,Birmingham City,Blackpool,1-0,-
+-,-,Blackburn Rovers,Blackpool,1-1,-
+-,-,Bolton Wanderers,Blackpool,1-4,-
+-,-,Bristol City,Blackpool,1-1,-
+-,-,Bury,Blackpool,2-0,-
+-,-,Cardiff City,Blackpool,1-0,-
+-,-,Carlisle United,Blackpool,1-0,-
+-,-,Charlton Athletic,Blackpool,0-0,-
+-,-,Crystal Palace,Blackpool,1-2,-
+-,-,Derby County,Blackpool,1-1,-
+-,-,Fulham,Blackpool,0-0,-
+-,-,Huddersfield Town,Blackpool,2-1,-
+-,-,Hull City,Blackpool,2-2,-
+-,-,Middlesbrough,Blackpool,2-1,-
+-,-,Millwall,Blackpool,1-2,-
+-,-,Norwich City,Blackpool,0-1,-
+-,-,Oxford United,Blackpool,0-0,-
+-,-,Portsmouth,Blackpool,1-0,-
+-,-,Preston North End,Blackpool,1-0,-
+-,-,Sheffield United,Blackpool,2-1,-
+-,-,Aston Villa,Bolton Wanderers,1-1,-
+-,-,Birmingham City,Bolton Wanderers,5-0,-
+-,-,Blackburn Rovers,Bolton Wanderers,2-3,-
+-,-,Blackpool,Bolton Wanderers,1-0,-
+-,-,Bristol City,Bolton Wanderers,2-2,-
+-,-,Bury,Bolton Wanderers,2-1,-
+-,-,Cardiff City,Bolton Wanderers,0-2,-
+-,-,Carlisle United,Bolton Wanderers,1-1,-
+-,-,Charlton Athletic,Bolton Wanderers,2-2,-
+-,-,Crystal Palace,Bolton Wanderers,2-1,-
+-,-,Derby County,Bolton Wanderers,5-1,-
+-,-,Fulham,Bolton Wanderers,0-2,-
+-,-,Huddersfield Town,Bolton Wanderers,3-0,-
+-,-,Hull City,Bolton Wanderers,1-0,-
+-,-,Middlesbrough,Bolton Wanderers,0-0,-
+-,-,Millwall,Bolton Wanderers,3-1,-
+-,-,Norwich City,Bolton Wanderers,2-0,-
+-,-,Oxford United,Bolton Wanderers,1-1,-
+-,-,Portsmouth,Bolton Wanderers,2-2,-
+-,-,Preston North End,Bolton Wanderers,1-4,-
+-,-,Sheffield United,Bolton Wanderers,5-2,-
+-,-,Aston Villa,Bristol City,1-0,-
+-,-,Birmingham City,Bristol City,2-0,-
+-,-,Blackburn Rovers,Bristol City,1-3,-
+-,-,Blackpool,Bristol City,2-2,-
+-,-,Bolton Wanderers,Bristol City,1-0,-
+-,-,Bury,Bristol City,1-2,-
+-,-,Cardiff City,Bristol City,3-0,-
+-,-,Carlisle United,Bristol City,3-0,-
+-,-,Charlton Athletic,Bristol City,0-0,-
+-,-,Crystal Palace,Bristol City,2-1,-
+-,-,Derby County,Bristol City,5-0,-
+-,-,Fulham,Bristol City,1-0,-
+-,-,Huddersfield Town,Bristol City,4-1,-
+-,-,Hull City,Bristol City,1-1,-
+-,-,Middlesbrough,Bristol City,4-1,-
+-,-,Millwall,Bristol City,2-2,-
+-,-,Norwich City,Bristol City,1-1,-
+-,-,Oxford United,Bristol City,0-0,-
+-,-,Portsmouth,Bristol City,1-1,-
+-,-,Preston North End,Bristol City,1-0,-
+-,-,Sheffield United,Bristol City,2-1,-
+-,-,Aston Villa,Bury,1-0,-
+-,-,Birmingham City,Bury,1-3,-
+-,-,Blackburn Rovers,Bury,3-0,-
+-,-,Blackpool,Bury,6-0,-
+-,-,Bolton Wanderers,Bury,2-0,-
+-,-,Bristol City,Bury,2-1,-
+-,-,Cardiff City,Bury,2-0,-
+-,-,Carlisle United,Bury,2-0,-
+-,-,Charlton Athletic,Bury,2-2,-
+-,-,Crystal Palace,Bury,1-0,-
+-,-,Derby County,Bury,2-0,-
+-,-,Fulham,Bury,0-0,-
+-,-,Huddersfield Town,Bury,4-1,-
+-,-,Hull City,Bury,3-0,-
+-,-,Middlesbrough,Bury,2-3,-
+-,-,Millwall,Bury,1-0,-
+-,-,Norwich City,Bury,2-2,-
+-,-,Oxford United,Bury,2-2,-
+-,-,Portsmouth,Bury,1-2,-
+-,-,Preston North End,Bury,3-0,-
+-,-,Sheffield United,Bury,5-0,-
+-,-,Aston Villa,Cardiff City,2-0,-
+-,-,Birmingham City,Cardiff City,2-0,-
+-,-,Blackburn Rovers,Cardiff City,1-0,-
+-,-,Blackpool,Cardiff City,1-2,-
+-,-,Bolton Wanderers,Cardiff City,1-2,-
+-,-,Bristol City,Cardiff City,0-3,-
+-,-,Bury,Cardiff City,3-3,-
+-,-,Carlisle United,Cardiff City,1-0,-
+-,-,Charlton Athletic,Cardiff City,4-1,-
+-,-,Crystal Palace,Cardiff City,3-1,-
+-,-,Derby County,Cardiff City,2-0,-
+-,-,Fulham,Cardiff City,1-5,-
+-,-,Huddersfield Town,Cardiff City,3-0,-
+-,-,Hull City,Cardiff City,3-3,-
+-,-,Middlesbrough,Cardiff City,0-0,-
+-,-,Millwall,Cardiff City,2-0,-
+-,-,Norwich City,Cardiff City,3-1,-
+-,-,Oxford United,Cardiff City,0-2,-
+-,-,Portsmouth,Cardiff City,1-3,-
+-,-,Preston North End,Cardiff City,0-1,-
+-,-,Sheffield United,Cardiff City,2-2,-
+-,-,Aston Villa,Carlisle United,0-0,-
+-,-,Birmingham City,Carlisle United,3-0,-
+-,-,Blackburn Rovers,Carlisle United,0-2,-
+-,-,Blackpool,Carlisle United,1-0,-
+-,-,Bolton Wanderers,Carlisle United,0-1,-
+-,-,Bristol City,Carlisle United,3-0,-
+-,-,Bury,Carlisle United,3-2,-
+-,-,Cardiff City,Carlisle United,2-1,-
+-,-,Charlton Athletic,Carlisle United,1-1,-
+-,-,Crystal Palace,Carlisle United,5-0,-
+-,-,Derby County,Carlisle United,3-3,-
+-,-,Fulham,Carlisle United,0-2,-
+-,-,Huddersfield Town,Carlisle United,2-0,-
+-,-,Hull City,Carlisle United,1-2,-
+-,-,Middlesbrough,Carlisle United,1-0,-
+-,-,Millwall,Carlisle United,1-1,-
+-,-,Norwich City,Carlisle United,2-1,-
+-,-,Oxford United,Carlisle United,0-1,-
+-,-,Portsmouth,Carlisle United,2-1,-
+-,-,Preston North End,Carlisle United,2-2,-
+-,-,Sheffield United,Carlisle United,0-1,-
+-,-,Aston Villa,Charlton Athletic,0-0,-
+-,-,Birmingham City,Charlton Athletic,0-0,-
+-,-,Blackburn Rovers,Charlton Athletic,0-1,-
+-,-,Blackpool,Charlton Athletic,2-3,-
+-,-,Bolton Wanderers,Charlton Athletic,3-0,-
+-,-,Bristol City,Charlton Athletic,2-0,-
+-,-,Bury,Charlton Athletic,2-3,-
+-,-,Cardiff City,Charlton Athletic,0-1,-
+-,-,Carlisle United,Charlton Athletic,1-1,-
+-,-,Crystal Palace,Charlton Athletic,3-3,-
+-,-,Derby County,Charlton Athletic,2-1,-
+-,-,Fulham,Charlton Athletic,0-1,-
+-,-,Huddersfield Town,Charlton Athletic,0-0,-
+-,-,Hull City,Charlton Athletic,5-2,-
+-,-,Middlesbrough,Charlton Athletic,1-0,-
+-,-,Millwall,Charlton Athletic,3-2,-
+-,-,Norwich City,Charlton Athletic,0-1,-
+-,-,Oxford United,Charlton Athletic,0-1,-
+-,-,Portsmouth,Charlton Athletic,4-1,-
+-,-,Preston North End,Charlton Athletic,1-1,-
+-,-,Sheffield United,Charlton Athletic,2-0,-
+-,-,Aston Villa,Crystal Palace,1-1,-
+-,-,Birmingham City,Crystal Palace,0-1,-
+-,-,Blackburn Rovers,Crystal Palace,1-2,-
+-,-,Blackpool,Crystal Palace,3-0,-
+-,-,Bolton Wanderers,Crystal Palace,2-2,-
+-,-,Bristol City,Crystal Palace,1-1,-
+-,-,Bury,Crystal Palace,2-1,-
+-,-,Cardiff City,Crystal Palace,0-4,-
+-,-,Carlisle United,Crystal Palace,1-2,-
+-,-,Charlton Athletic,Crystal Palace,1-1,-
+-,-,Derby County,Crystal Palace,0-1,-
+-,-,Fulham,Crystal Palace,1-0,-
+-,-,Huddersfield Town,Crystal Palace,0-0,-
+-,-,Hull City,Crystal Palace,2-0,-
+-,-,Middlesbrough,Crystal Palace,4-0,-
+-,-,Millwall,Crystal Palace,0-2,-
+-,-,Norwich City,Crystal Palace,0-1,-
+-,-,Oxford United,Crystal Palace,0-2,-
+-,-,Portsmouth,Crystal Palace,3-3,-
+-,-,Preston North End,Crystal Palace,0-0,-
+-,-,Sheffield United,Crystal Palace,1-1,-
+-,-,Aston Villa,Derby County,0-1,-
+-,-,Birmingham City,Derby County,1-1,-
+-,-,Blackburn Rovers,Derby County,1-1,-
+-,-,Blackpool,Derby County,2-3,-
+-,-,Bolton Wanderers,Derby County,1-2,-
+-,-,Bristol City,Derby County,0-0,-
+-,-,Bury,Derby County,0-1,-
+-,-,Cardiff City,Derby County,1-1,-
+-,-,Carlisle United,Derby County,1-1,-
+-,-,Charlton Athletic,Derby County,2-0,-
+-,-,Crystal Palace,Derby County,1-2,-
+-,-,Fulham,Derby County,0-1,-
+-,-,Huddersfield Town,Derby County,2-0,-
+-,-,Hull City,Derby County,1-0,-
+-,-,Middlesbrough,Derby County,0-0,-
+-,-,Millwall,Derby County,0-1,-
+-,-,Norwich City,Derby County,1-4,-
+-,-,Oxford United,Derby County,0-2,-
+-,-,Portsmouth,Derby County,0-1,-
+-,-,Preston North End,Derby County,0-0,-
+-,-,Sheffield United,Derby County,2-0,-
+-,-,Aston Villa,Fulham,1-1,-
+-,-,Birmingham City,Fulham,5-4,-
+-,-,Blackburn Rovers,Fulham,2-2,-
+-,-,Blackpool,Fulham,2-2,-
+-,-,Bolton Wanderers,Fulham,3-2,-
+-,-,Bristol City,Fulham,6-0,-
+-,-,Bury,Fulham,5-1,-
+-,-,Cardiff City,Fulham,0-2,-
+-,-,Carlisle United,Fulham,2-0,-
+-,-,Charlton Athletic,Fulham,5-3,-
+-,-,Crystal Palace,Fulham,3-2,-
+-,-,Derby County,Fulham,1-0,-
+-,-,Huddersfield Town,Fulham,3-0,-
+-,-,Hull City,Fulham,4-0,-
+-,-,Middlesbrough,Fulham,2-0,-
+-,-,Millwall,Fulham,2-0,-
+-,-,Norwich City,Fulham,2-0,-
+-,-,Oxford United,Fulham,1-0,-
+-,-,Portsmouth,Fulham,3-1,-
+-,-,Preston North End,Fulham,0-0,-
+-,-,Sheffield United,Fulham,1-0,-
+-,-,Aston Villa,Huddersfield Town,1-0,-
+-,-,Birmingham City,Huddersfield Town,5-1,-
+-,-,Blackburn Rovers,Huddersfield Town,0-0,-
+-,-,Blackpool,Huddersfield Town,0-0,-
+-,-,Bolton Wanderers,Huddersfield Town,2-3,-
+-,-,Bristol City,Huddersfield Town,0-1,-
+-,-,Bury,Huddersfield Town,1-1,-
+-,-,Cardiff City,Huddersfield Town,0-2,-
+-,-,Carlisle United,Huddersfield Town,0-0,-
+-,-,Charlton Athletic,Huddersfield Town,1-0,-
+-,-,Crystal Palace,Huddersfield Town,2-1,-
+-,-,Derby County,Huddersfield Town,1-0,-
+-,-,Fulham,Huddersfield Town,4-3,-
+-,-,Hull City,Huddersfield Town,3-0,-
+-,-,Middlesbrough,Huddersfield Town,1-1,-
+-,-,Millwall,Huddersfield Town,5-1,-
+-,-,Norwich City,Huddersfield Town,1-0,-
+-,-,Oxford United,Huddersfield Town,3-0,-
+-,-,Portsmouth,Huddersfield Town,1-2,-
+-,-,Preston North End,Huddersfield Town,1-0,-
+-,-,Sheffield United,Huddersfield Town,0-0,-
+-,-,Aston Villa,Hull City,1-1,-
+-,-,Birmingham City,Hull City,5-2,-
+-,-,Blackburn Rovers,Hull City,1-1,-
+-,-,Blackpool,Hull City,2-0,-
+-,-,Bolton Wanderers,Hull City,1-0,-
+-,-,Bristol City,Hull City,1-1,-
+-,-,Bury,Hull City,0-0,-
+-,-,Cardiff City,Hull City,3-0,-
+-,-,Carlisle United,Hull City,1-0,-
+-,-,Charlton Athletic,Hull City,1-1,-
+-,-,Crystal Palace,Hull City,2-0,-
+-,-,Derby County,Hull City,2-2,-
+-,-,Fulham,Hull City,0-0,-
+-,-,Huddersfield Town,Hull City,0-3,-
+-,-,Middlesbrough,Hull City,5-3,-
+-,-,Millwall,Hull City,2-3,-
+-,-,Norwich City,Hull City,1-2,-
+-,-,Oxford United,Hull City,1-1,-
+-,-,Portsmouth,Hull City,1-0,-
+-,-,Preston North End,Hull City,1-0,-
+-,-,Sheffield United,Hull City,1-1,-
+-,-,Aston Villa,Middlesbrough,1-0,-
+-,-,Birmingham City,Middlesbrough,3-1,-
+-,-,Blackburn Rovers,Middlesbrough,1-1,-
+-,-,Blackpool,Middlesbrough,1-1,-
+-,-,Bolton Wanderers,Middlesbrough,0-0,-
+-,-,Bristol City,Middlesbrough,3-0,-
+-,-,Bury,Middlesbrough,2-3,-
+-,-,Cardiff City,Middlesbrough,2-0,-
+-,-,Carlisle United,Middlesbrough,3-0,-
+-,-,Charlton Athletic,Middlesbrough,2-0,-
+-,-,Crystal Palace,Middlesbrough,0-0,-
+-,-,Derby County,Middlesbrough,3-2,-
+-,-,Fulham,Middlesbrough,0-3,-
+-,-,Huddersfield Town,Middlesbrough,3-0,-
+-,-,Hull City,Middlesbrough,3-0,-
+-,-,Millwall,Middlesbrough,2-0,-
+-,-,Norwich City,Middlesbrough,0-2,-
+-,-,Oxford United,Middlesbrough,2-4,-
+-,-,Portsmouth,Middlesbrough,3-0,-
+-,-,Preston North End,Middlesbrough,1-2,-
+-,-,Sheffield United,Middlesbrough,1-3,-
+-,-,Aston Villa,Millwall,1-1,-
+-,-,Birmingham City,Millwall,1-2,-
+-,-,Blackburn Rovers,Millwall,2-4,-
+-,-,Blackpool,Millwall,1-0,-
+-,-,Bolton Wanderers,Millwall,0-4,-
+-,-,Bristol City,Millwall,0-0,-
+-,-,Bury,Millwall,0-0,-
+-,-,Cardiff City,Millwall,2-0,-
+-,-,Carlisle United,Millwall,1-0,-
+-,-,Charlton Athletic,Millwall,3-4,-
+-,-,Crystal Palace,Millwall,4-2,-
+-,-,Derby County,Millwall,1-0,-
+-,-,Fulham,Millwall,2-0,-
+-,-,Huddersfield Town,Millwall,0-2,-
+-,-,Hull City,Millwall,2-0,-
+-,-,Middlesbrough,Millwall,1-1,-
+-,-,Norwich City,Millwall,0-3,-
+-,-,Oxford United,Millwall,1-0,-
+-,-,Portsmouth,Millwall,3-0,-
+-,-,Preston North End,Millwall,0-1,-
+-,-,Sheffield United,Millwall,1-0,-
+-,-,Aston Villa,Norwich City,2-1,-
+-,-,Birmingham City,Norwich City,1-2,-
+-,-,Blackburn Rovers,Norwich City,3-0,-
+-,-,Blackpool,Norwich City,2-1,-
+-,-,Bolton Wanderers,Norwich City,1-1,-
+-,-,Bristol City,Norwich City,0-1,-
+-,-,Bury,Norwich City,1-2,-
+-,-,Cardiff City,Norwich City,3-1,-
+-,-,Carlisle United,Norwich City,0-4,-
+-,-,Charlton Athletic,Norwich City,2-1,-
+-,-,Crystal Palace,Norwich City,2-0,-
+-,-,Derby County,Norwich City,1-1,-
+-,-,Fulham,Norwich City,1-3,-
+-,-,Huddersfield Town,Norwich City,2-2,-
+-,-,Hull City,Norwich City,0-1,-
+-,-,Middlesbrough,Norwich City,0-0,-
+-,-,Millwall,Norwich City,3-1,-
+-,-,Oxford United,Norwich City,0-2,-
+-,-,Portsmouth,Norwich City,5-2,-
+-,-,Preston North End,Norwich City,1-3,-
+-,-,Sheffield United,Norwich City,1-0,-
+-,-,Aston Villa,Oxford United,2-0,-
+-,-,Birmingham City,Oxford United,0-1,-
+-,-,Blackburn Rovers,Oxford United,1-0,-
+-,-,Blackpool,Oxford United,1-0,-
+-,-,Bolton Wanderers,Oxford United,1-1,-
+-,-,Bristol City,Oxford United,2-0,-
+-,-,Bury,Oxford United,3-1,-
+-,-,Cardiff City,Oxford United,5-0,-
+-,-,Carlisle United,Oxford United,0-2,-
+-,-,Charlton Athletic,Oxford United,1-0,-
+-,-,Crystal Palace,Oxford United,1-1,-
+-,-,Derby County,Oxford United,2-0,-
+-,-,Fulham,Oxford United,0-1,-
+-,-,Huddersfield Town,Oxford United,2-1,-
+-,-,Hull City,Oxford United,0-0,-
+-,-,Middlesbrough,Oxford United,2-0,-
+-,-,Millwall,Oxford United,2-1,-
+-,-,Norwich City,Oxford United,1-1,-
+-,-,Portsmouth,Oxford United,3-0,-
+-,-,Preston North End,Oxford United,2-1,-
+-,-,Sheffield United,Oxford United,1-2,-
+-,-,Aston Villa,Portsmouth,2-0,-
+-,-,Birmingham City,Portsmouth,5-2,-
+-,-,Blackburn Rovers,Portsmouth,3-1,-
+-,-,Blackpool,Portsmouth,1-1,-
+-,-,Bolton Wanderers,Portsmouth,1-0,-
+-,-,Bristol City,Portsmouth,2-2,-
+-,-,Bury,Portsmouth,3-2,-
+-,-,Cardiff City,Portsmouth,2-2,-
+-,-,Carlisle United,Portsmouth,0-0,-
+-,-,Charlton Athletic,Portsmouth,2-1,-
+-,-,Crystal Palace,Portsmouth,3-1,-
+-,-,Derby County,Portsmouth,2-1,-
+-,-,Fulham,Portsmouth,2-2,-
+-,-,Huddersfield Town,Portsmouth,0-0,-
+-,-,Hull City,Portsmouth,2-2,-
+-,-,Middlesbrough,Portsmouth,1-0,-
+-,-,Millwall,Portsmouth,0-0,-
+-,-,Norwich City,Portsmouth,0-1,-
+-,-,Oxford United,Portsmouth,3-1,-
+-,-,Preston North End,Portsmouth,0-0,-
+-,-,Sheffield United,Portsmouth,2-0,-
+-,-,Aston Villa,Preston North End,0-1,-
+-,-,Birmingham City,Preston North End,3-1,-
+-,-,Blackburn Rovers,Preston North End,1-0,-
+-,-,Blackpool,Preston North End,1-1,-
+-,-,Bolton Wanderers,Preston North End,0-0,-
+-,-,Bristol City,Preston North End,2-1,-
+-,-,Bury,Preston North End,0-1,-
+-,-,Cardiff City,Preston North End,1-0,-
+-,-,Carlisle United,Preston North End,1-0,-
+-,-,Charlton Athletic,Preston North End,0-1,-
+-,-,Crystal Palace,Preston North End,1-2,-
+-,-,Derby County,Preston North End,1-0,-
+-,-,Fulham,Preston North End,2-1,-
+-,-,Huddersfield Town,Preston North End,1-1,-
+-,-,Hull City,Preston North End,1-1,-
+-,-,Middlesbrough,Preston North End,2-1,-
+-,-,Millwall,Preston North End,0-0,-
+-,-,Norwich City,Preston North End,1-1,-
+-,-,Oxford United,Preston North End,2-1,-
+-,-,Portsmouth,Preston North End,1-1,-
+-,-,Sheffield United,Preston North End,4-0,-
+-,-,Aston Villa,Sheffield United,3-1,-
+-,-,Birmingham City,Sheffield United,2-2,-
+-,-,Blackburn Rovers,Sheffield United,1-0,-
+-,-,Blackpool,Sheffield United,1-1,-
+-,-,Bolton Wanderers,Sheffield United,4-2,-
+-,-,Bristol City,Sheffield United,1-1,-
+-,-,Bury,Sheffield United,0-2,-
+-,-,Cardiff City,Sheffield United,4-1,-
+-,-,Carlisle United,Sheffield United,0-1,-
+-,-,Charlton Athletic,Sheffield United,2-1,-
+-,-,Crystal Palace,Sheffield United,1-1,-
+-,-,Derby County,Sheffield United,1-0,-
+-,-,Fulham,Sheffield United,2-2,-
+-,-,Huddersfield Town,Sheffield United,1-0,-
+-,-,Hull City,Sheffield United,1-1,-
+-,-,Middlesbrough,Sheffield United,3-1,-
+-,-,Millwall,Sheffield United,1-0,-
+-,-,Norwich City,Sheffield United,2-0,-
+-,-,Oxford United,Sheffield United,1-0,-
+-,-,Portsmouth,Sheffield United,2-1,-
+-,-,Preston North End,Sheffield United,2-2,-

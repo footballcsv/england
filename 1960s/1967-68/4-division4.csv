@@ -1,0 +1,553 @@
+Round,Date,Team 1,Team 2,FT,HT
+-,-,Barnsley,Aldershot,1-0,-
+-,-,Bradford City,Aldershot,1-3,-
+-,-,Bradford Park Avenue,Aldershot,1-1,-
+-,-,Brentford,Aldershot,1-1,-
+-,-,Chester,Aldershot,2-5,-
+-,-,Chesterfield,Aldershot,1-2,-
+-,-,Crewe Alexandra,Aldershot,1-1,-
+-,-,Darlington,Aldershot,6-2,-
+-,-,Doncaster Rovers,Aldershot,3-0,-
+-,-,Exeter City,Aldershot,3-0,-
+-,-,Halifax Town,Aldershot,2-2,-
+-,-,Hartlepool United,Aldershot,1-0,-
+-,-,Lincoln City,Aldershot,1-1,-
+-,-,Luton Town,Aldershot,3-1,-
+-,-,Newport County,Aldershot,0-2,-
+-,-,Notts County,Aldershot,0-1,-
+-,-,Port Vale,Aldershot,0-3,-
+-,-,Rochdale,Aldershot,0-2,-
+-,-,Southend United,Aldershot,1-1,-
+-,-,Swansea City,Aldershot,1-0,-
+-,-,Workington,Aldershot,3-2,-
+-,-,Wrexham,Aldershot,2-1,-
+-,-,York City,Aldershot,2-3,-
+-,-,Aldershot,Barnsley,1-1,-
+-,-,Bradford City,Barnsley,1-0,-
+-,-,Bradford Park Avenue,Barnsley,1-1,-
+-,-,Brentford,Barnsley,0-1,-
+-,-,Chester,Barnsley,1-1,-
+-,-,Chesterfield,Barnsley,2-3,-
+-,-,Crewe Alexandra,Barnsley,3-3,-
+-,-,Darlington,Barnsley,0-2,-
+-,-,Doncaster Rovers,Barnsley,1-2,-
+-,-,Exeter City,Barnsley,2-0,-
+-,-,Halifax Town,Barnsley,1-1,-
+-,-,Hartlepool United,Barnsley,2-1,-
+-,-,Lincoln City,Barnsley,0-1,-
+-,-,Luton Town,Barnsley,2-0,-
+-,-,Newport County,Barnsley,3-0,-
+-,-,Notts County,Barnsley,1-4,-
+-,-,Port Vale,Barnsley,2-0,-
+-,-,Rochdale,Barnsley,1-0,-
+-,-,Southend United,Barnsley,4-1,-
+-,-,Swansea City,Barnsley,1-1,-
+-,-,Workington,Barnsley,0-1,-
+-,-,Wrexham,Barnsley,2-0,-
+-,-,York City,Barnsley,1-1,-
+-,-,Aldershot,Bradford City,3-3,-
+-,-,Barnsley,Bradford City,1-0,-
+-,-,Bradford Park Avenue,Bradford City,1-2,-
+-,-,Brentford,Bradford City,0-1,-
+-,-,Chester,Bradford City,2-3,-
+-,-,Chesterfield,Bradford City,2-1,-
+-,-,Crewe Alexandra,Bradford City,1-1,-
+-,-,Darlington,Bradford City,2-2,-
+-,-,Doncaster Rovers,Bradford City,2-2,-
+-,-,Exeter City,Bradford City,4-1,-
+-,-,Halifax Town,Bradford City,1-0,-
+-,-,Hartlepool United,Bradford City,1-0,-
+-,-,Lincoln City,Bradford City,2-0,-
+-,-,Luton Town,Bradford City,1-3,-
+-,-,Newport County,Bradford City,0-3,-
+-,-,Notts County,Bradford City,1-0,-
+-,-,Port Vale,Bradford City,1-2,-
+-,-,Rochdale,Bradford City,3-2,-
+-,-,Southend United,Bradford City,1-1,-
+-,-,Swansea City,Bradford City,0-0,-
+-,-,Workington,Bradford City,0-1,-
+-,-,Wrexham,Bradford City,0-2,-
+-,-,York City,Bradford City,0-1,-
+-,-,Aldershot,Bradford Park Avenue,1-1,-
+-,-,Barnsley,Bradford Park Avenue,2-0,-
+-,-,Bradford City,Bradford Park Avenue,1-2,-
+-,-,Brentford,Bradford Park Avenue,2-1,-
+-,-,Chester,Bradford Park Avenue,0-0,-
+-,-,Chesterfield,Bradford Park Avenue,2-0,-
+-,-,Crewe Alexandra,Bradford Park Avenue,4-0,-
+-,-,Darlington,Bradford Park Avenue,0-0,-
+-,-,Doncaster Rovers,Bradford Park Avenue,2-0,-
+-,-,Exeter City,Bradford Park Avenue,0-0,-
+-,-,Halifax Town,Bradford Park Avenue,1-0,-
+-,-,Hartlepool United,Bradford Park Avenue,2-0,-
+-,-,Lincoln City,Bradford Park Avenue,5-1,-
+-,-,Luton Town,Bradford Park Avenue,2-0,-
+-,-,Newport County,Bradford Park Avenue,4-0,-
+-,-,Notts County,Bradford Park Avenue,0-0,-
+-,-,Port Vale,Bradford Park Avenue,4-0,-
+-,-,Rochdale,Bradford Park Avenue,1-1,-
+-,-,Southend United,Bradford Park Avenue,2-1,-
+-,-,Swansea City,Bradford Park Avenue,1-1,-
+-,-,Workington,Bradford Park Avenue,2-2,-
+-,-,Wrexham,Bradford Park Avenue,3-0,-
+-,-,York City,Bradford Park Avenue,6-2,-
+-,-,Aldershot,Brentford,0-0,-
+-,-,Barnsley,Brentford,3-0,-
+-,-,Bradford City,Brentford,2-3,-
+-,-,Bradford Park Avenue,Brentford,1-0,-
+-,-,Chester,Brentford,3-0,-
+-,-,Chesterfield,Brentford,2-1,-
+-,-,Crewe Alexandra,Brentford,2-0,-
+-,-,Darlington,Brentford,2-3,-
+-,-,Doncaster Rovers,Brentford,2-0,-
+-,-,Exeter City,Brentford,0-3,-
+-,-,Halifax Town,Brentford,3-0,-
+-,-,Hartlepool United,Brentford,2-0,-
+-,-,Lincoln City,Brentford,1-0,-
+-,-,Luton Town,Brentford,2-1,-
+-,-,Newport County,Brentford,2-2,-
+-,-,Notts County,Brentford,2-1,-
+-,-,Port Vale,Brentford,4-1,-
+-,-,Rochdale,Brentford,1-1,-
+-,-,Southend United,Brentford,1-0,-
+-,-,Swansea City,Brentford,2-1,-
+-,-,Workington,Brentford,2-0,-
+-,-,Wrexham,Brentford,1-2,-
+-,-,York City,Brentford,0-1,-
+-,-,Aldershot,Chester,2-1,-
+-,-,Barnsley,Chester,2-1,-
+-,-,Bradford City,Chester,2-2,-
+-,-,Bradford Park Avenue,Chester,0-2,-
+-,-,Brentford,Chester,3-1,-
+-,-,Chesterfield,Chester,3-1,-
+-,-,Crewe Alexandra,Chester,2-0,-
+-,-,Darlington,Chester,0-2,-
+-,-,Doncaster Rovers,Chester,0-0,-
+-,-,Exeter City,Chester,1-0,-
+-,-,Halifax Town,Chester,2-2,-
+-,-,Hartlepool United,Chester,0-0,-
+-,-,Lincoln City,Chester,3-0,-
+-,-,Luton Town,Chester,0-0,-
+-,-,Newport County,Chester,1-1,-
+-,-,Notts County,Chester,1-2,-
+-,-,Port Vale,Chester,4-4,-
+-,-,Rochdale,Chester,1-1,-
+-,-,Southend United,Chester,5-1,-
+-,-,Swansea City,Chester,1-0,-
+-,-,Workington,Chester,1-0,-
+-,-,Wrexham,Chester,2-0,-
+-,-,York City,Chester,4-1,-
+-,-,Aldershot,Chesterfield,3-0,-
+-,-,Barnsley,Chesterfield,0-0,-
+-,-,Bradford City,Chesterfield,3-1,-
+-,-,Bradford Park Avenue,Chesterfield,2-1,-
+-,-,Brentford,Chesterfield,1-1,-
+-,-,Chester,Chesterfield,3-0,-
+-,-,Crewe Alexandra,Chesterfield,1-1,-
+-,-,Darlington,Chesterfield,1-1,-
+-,-,Doncaster Rovers,Chesterfield,1-0,-
+-,-,Exeter City,Chesterfield,1-1,-
+-,-,Halifax Town,Chesterfield,0-2,-
+-,-,Hartlepool United,Chesterfield,2-1,-
+-,-,Lincoln City,Chesterfield,2-2,-
+-,-,Luton Town,Chesterfield,1-0,-
+-,-,Newport County,Chesterfield,0-3,-
+-,-,Notts County,Chesterfield,1-0,-
+-,-,Port Vale,Chesterfield,0-1,-
+-,-,Rochdale,Chesterfield,1-4,-
+-,-,Southend United,Chesterfield,1-1,-
+-,-,Swansea City,Chesterfield,0-1,-
+-,-,Workington,Chesterfield,3-1,-
+-,-,Wrexham,Chesterfield,3-0,-
+-,-,York City,Chesterfield,0-2,-
+-,-,Aldershot,Crewe Alexandra,2-0,-
+-,-,Barnsley,Crewe Alexandra,3-1,-
+-,-,Bradford City,Crewe Alexandra,2-1,-
+-,-,Bradford Park Avenue,Crewe Alexandra,1-2,-
+-,-,Brentford,Crewe Alexandra,2-1,-
+-,-,Chester,Crewe Alexandra,0-4,-
+-,-,Chesterfield,Crewe Alexandra,4-1,-
+-,-,Darlington,Crewe Alexandra,0-0,-
+-,-,Doncaster Rovers,Crewe Alexandra,2-2,-
+-,-,Exeter City,Crewe Alexandra,1-4,-
+-,-,Halifax Town,Crewe Alexandra,0-1,-
+-,-,Hartlepool United,Crewe Alexandra,1-1,-
+-,-,Lincoln City,Crewe Alexandra,2-4,-
+-,-,Luton Town,Crewe Alexandra,4-0,-
+-,-,Newport County,Crewe Alexandra,0-0,-
+-,-,Notts County,Crewe Alexandra,1-0,-
+-,-,Port Vale,Crewe Alexandra,0-2,-
+-,-,Rochdale,Crewe Alexandra,1-1,-
+-,-,Southend United,Crewe Alexandra,0-0,-
+-,-,Swansea City,Crewe Alexandra,1-2,-
+-,-,Workington,Crewe Alexandra,2-2,-
+-,-,Wrexham,Crewe Alexandra,1-0,-
+-,-,York City,Crewe Alexandra,1-1,-
+-,-,Aldershot,Darlington,0-0,-
+-,-,Barnsley,Darlington,1-0,-
+-,-,Bradford City,Darlington,1-0,-
+-,-,Bradford Park Avenue,Darlington,1-2,-
+-,-,Brentford,Darlington,2-0,-
+-,-,Chester,Darlington,0-1,-
+-,-,Chesterfield,Darlington,3-1,-
+-,-,Crewe Alexandra,Darlington,1-1,-
+-,-,Doncaster Rovers,Darlington,2-1,-
+-,-,Exeter City,Darlington,0-0,-
+-,-,Halifax Town,Darlington,2-0,-
+-,-,Hartlepool United,Darlington,1-0,-
+-,-,Lincoln City,Darlington,1-2,-
+-,-,Luton Town,Darlington,3-1,-
+-,-,Newport County,Darlington,1-0,-
+-,-,Notts County,Darlington,0-0,-
+-,-,Port Vale,Darlington,0-1,-
+-,-,Rochdale,Darlington,1-0,-
+-,-,Southend United,Darlington,2-2,-
+-,-,Swansea City,Darlington,0-1,-
+-,-,Workington,Darlington,0-1,-
+-,-,Wrexham,Darlington,3-1,-
+-,-,York City,Darlington,1-1,-
+-,-,Aldershot,Doncaster Rovers,2-1,-
+-,-,Barnsley,Doncaster Rovers,1-0,-
+-,-,Bradford City,Doncaster Rovers,1-1,-
+-,-,Bradford Park Avenue,Doncaster Rovers,1-1,-
+-,-,Brentford,Doncaster Rovers,4-2,-
+-,-,Chester,Doncaster Rovers,2-3,-
+-,-,Chesterfield,Doncaster Rovers,2-0,-
+-,-,Crewe Alexandra,Doncaster Rovers,2-2,-
+-,-,Darlington,Doncaster Rovers,1-1,-
+-,-,Exeter City,Doncaster Rovers,0-1,-
+-,-,Halifax Town,Doncaster Rovers,2-3,-
+-,-,Hartlepool United,Doncaster Rovers,0-0,-
+-,-,Lincoln City,Doncaster Rovers,2-0,-
+-,-,Luton Town,Doncaster Rovers,5-3,-
+-,-,Newport County,Doncaster Rovers,2-1,-
+-,-,Notts County,Doncaster Rovers,0-2,-
+-,-,Port Vale,Doncaster Rovers,4-2,-
+-,-,Rochdale,Doncaster Rovers,2-0,-
+-,-,Southend United,Doncaster Rovers,1-2,-
+-,-,Swansea City,Doncaster Rovers,3-1,-
+-,-,Workington,Doncaster Rovers,2-2,-
+-,-,Wrexham,Doncaster Rovers,0-0,-
+-,-,York City,Doncaster Rovers,1-2,-
+-,-,Aldershot,Exeter City,0-0,-
+-,-,Barnsley,Exeter City,2-1,-
+-,-,Bradford City,Exeter City,2-1,-
+-,-,Bradford Park Avenue,Exeter City,0-1,-
+-,-,Brentford,Exeter City,5-1,-
+-,-,Chester,Exeter City,3-1,-
+-,-,Chesterfield,Exeter City,1-1,-
+-,-,Crewe Alexandra,Exeter City,2-0,-
+-,-,Darlington,Exeter City,0-1,-
+-,-,Doncaster Rovers,Exeter City,3-1,-
+-,-,Halifax Town,Exeter City,1-1,-
+-,-,Hartlepool United,Exeter City,3-1,-
+-,-,Lincoln City,Exeter City,1-1,-
+-,-,Luton Town,Exeter City,0-0,-
+-,-,Newport County,Exeter City,1-1,-
+-,-,Notts County,Exeter City,1-0,-
+-,-,Port Vale,Exeter City,1-0,-
+-,-,Rochdale,Exeter City,2-2,-
+-,-,Southend United,Exeter City,1-0,-
+-,-,Swansea City,Exeter City,1-1,-
+-,-,Workington,Exeter City,1-0,-
+-,-,Wrexham,Exeter City,0-0,-
+-,-,York City,Exeter City,4-0,-
+-,-,Aldershot,Halifax Town,1-1,-
+-,-,Barnsley,Halifax Town,0-0,-
+-,-,Bradford City,Halifax Town,0-1,-
+-,-,Bradford Park Avenue,Halifax Town,0-1,-
+-,-,Brentford,Halifax Town,0-0,-
+-,-,Chester,Halifax Town,3-2,-
+-,-,Chesterfield,Halifax Town,0-0,-
+-,-,Crewe Alexandra,Halifax Town,5-1,-
+-,-,Darlington,Halifax Town,0-0,-
+-,-,Doncaster Rovers,Halifax Town,0-0,-
+-,-,Exeter City,Halifax Town,0-0,-
+-,-,Hartlepool United,Halifax Town,0-0,-
+-,-,Lincoln City,Halifax Town,1-0,-
+-,-,Luton Town,Halifax Town,2-0,-
+-,-,Newport County,Halifax Town,0-1,-
+-,-,Notts County,Halifax Town,1-3,-
+-,-,Port Vale,Halifax Town,2-1,-
+-,-,Rochdale,Halifax Town,2-1,-
+-,-,Southend United,Halifax Town,2-2,-
+-,-,Swansea City,Halifax Town,2-1,-
+-,-,Workington,Halifax Town,1-1,-
+-,-,Wrexham,Halifax Town,2-0,-
+-,-,York City,Halifax Town,1-2,-
+-,-,Aldershot,Hartlepool United,2-0,-
+-,-,Barnsley,Hartlepool United,4-0,-
+-,-,Bradford City,Hartlepool United,1-1,-
+-,-,Bradford Park Avenue,Hartlepool United,0-1,-
+-,-,Brentford,Hartlepool United,0-1,-
+-,-,Chester,Hartlepool United,0-2,-
+-,-,Chesterfield,Hartlepool United,3-1,-
+-,-,Crewe Alexandra,Hartlepool United,2-1,-
+-,-,Darlington,Hartlepool United,2-3,-
+-,-,Doncaster Rovers,Hartlepool United,0-1,-
+-,-,Exeter City,Hartlepool United,0-0,-
+-,-,Halifax Town,Hartlepool United,3-0,-
+-,-,Lincoln City,Hartlepool United,1-2,-
+-,-,Luton Town,Hartlepool United,1-0,-
+-,-,Newport County,Hartlepool United,2-0,-
+-,-,Notts County,Hartlepool United,0-3,-
+-,-,Port Vale,Hartlepool United,2-3,-
+-,-,Rochdale,Hartlepool United,1-1,-
+-,-,Southend United,Hartlepool United,2-1,-
+-,-,Swansea City,Hartlepool United,0-2,-
+-,-,Workington,Hartlepool United,2-1,-
+-,-,Wrexham,Hartlepool United,6-0,-
+-,-,York City,Hartlepool United,0-2,-
+-,-,Aldershot,Lincoln City,3-2,-
+-,-,Barnsley,Lincoln City,2-1,-
+-,-,Bradford City,Lincoln City,2-1,-
+-,-,Bradford Park Avenue,Lincoln City,1-5,-
+-,-,Brentford,Lincoln City,1-3,-
+-,-,Chester,Lincoln City,6-0,-
+-,-,Chesterfield,Lincoln City,2-0,-
+-,-,Crewe Alexandra,Lincoln City,2-1,-
+-,-,Darlington,Lincoln City,1-1,-
+-,-,Doncaster Rovers,Lincoln City,0-0,-
+-,-,Exeter City,Lincoln City,0-1,-
+-,-,Halifax Town,Lincoln City,1-0,-
+-,-,Hartlepool United,Lincoln City,1-1,-
+-,-,Luton Town,Lincoln City,4-2,-
+-,-,Newport County,Lincoln City,0-1,-
+-,-,Notts County,Lincoln City,0-0,-
+-,-,Port Vale,Lincoln City,1-1,-
+-,-,Rochdale,Lincoln City,1-2,-
+-,-,Southend United,Lincoln City,2-1,-
+-,-,Swansea City,Lincoln City,2-2,-
+-,-,Workington,Lincoln City,2-4,-
+-,-,Wrexham,Lincoln City,2-1,-
+-,-,York City,Lincoln City,1-0,-
+-,-,Aldershot,Luton Town,0-1,-
+-,-,Barnsley,Luton Town,2-2,-
+-,-,Bradford City,Luton Town,2-0,-
+-,-,Bradford Park Avenue,Luton Town,2-1,-
+-,-,Brentford,Luton Town,0-2,-
+-,-,Chester,Luton Town,1-3,-
+-,-,Chesterfield,Luton Town,0-0,-
+-,-,Crewe Alexandra,Luton Town,2-1,-
+-,-,Darlington,Luton Town,1-2,-
+-,-,Doncaster Rovers,Luton Town,2-0,-
+-,-,Exeter City,Luton Town,0-5,-
+-,-,Halifax Town,Luton Town,0-1,-
+-,-,Hartlepool United,Luton Town,2-1,-
+-,-,Lincoln City,Luton Town,2-3,-
+-,-,Newport County,Luton Town,1-1,-
+-,-,Notts County,Luton Town,2-2,-
+-,-,Port Vale,Luton Town,0-0,-
+-,-,Rochdale,Luton Town,2-2,-
+-,-,Southend United,Luton Town,3-0,-
+-,-,Swansea City,Luton Town,2-2,-
+-,-,Workington,Luton Town,0-1,-
+-,-,Wrexham,Luton Town,1-1,-
+-,-,York City,Luton Town,1-1,-
+-,-,Aldershot,Newport County,0-0,-
+-,-,Barnsley,Newport County,4-2,-
+-,-,Bradford City,Newport County,3-0,-
+-,-,Bradford Park Avenue,Newport County,0-2,-
+-,-,Brentford,Newport County,2-1,-
+-,-,Chester,Newport County,2-1,-
+-,-,Chesterfield,Newport County,1-2,-
+-,-,Crewe Alexandra,Newport County,1-1,-
+-,-,Darlington,Newport County,1-0,-
+-,-,Doncaster Rovers,Newport County,1-1,-
+-,-,Exeter City,Newport County,2-1,-
+-,-,Halifax Town,Newport County,4-1,-
+-,-,Hartlepool United,Newport County,2-0,-
+-,-,Lincoln City,Newport County,2-1,-
+-,-,Luton Town,Newport County,1-1,-
+-,-,Notts County,Newport County,3-1,-
+-,-,Port Vale,Newport County,0-1,-
+-,-,Rochdale,Newport County,4-3,-
+-,-,Southend United,Newport County,2-2,-
+-,-,Swansea City,Newport County,4-2,-
+-,-,Workington,Newport County,1-1,-
+-,-,Wrexham,Newport County,0-1,-
+-,-,York City,Newport County,0-1,-
+-,-,Aldershot,Notts County,0-0,-
+-,-,Barnsley,Notts County,3-1,-
+-,-,Bradford City,Notts County,5-1,-
+-,-,Bradford Park Avenue,Notts County,1-4,-
+-,-,Brentford,Notts County,2-1,-
+-,-,Chester,Notts County,1-3,-
+-,-,Chesterfield,Notts County,4-0,-
+-,-,Crewe Alexandra,Notts County,4-0,-
+-,-,Darlington,Notts County,2-2,-
+-,-,Doncaster Rovers,Notts County,3-1,-
+-,-,Exeter City,Notts County,3-3,-
+-,-,Halifax Town,Notts County,0-1,-
+-,-,Hartlepool United,Notts County,3-1,-
+-,-,Lincoln City,Notts County,1-3,-
+-,-,Luton Town,Notts County,2-0,-
+-,-,Newport County,Notts County,1-0,-
+-,-,Port Vale,Notts County,4-1,-
+-,-,Rochdale,Notts County,0-0,-
+-,-,Southend United,Notts County,0-1,-
+-,-,Swansea City,Notts County,2-0,-
+-,-,Workington,Notts County,5-1,-
+-,-,Wrexham,Notts County,2-0,-
+-,-,York City,Notts County,4-2,-
+-,-,Aldershot,Port Vale,2-0,-
+-,-,Barnsley,Port Vale,2-0,-
+-,-,Bradford City,Port Vale,2-1,-
+-,-,Bradford Park Avenue,Port Vale,2-2,-
+-,-,Brentford,Port Vale,3-1,-
+-,-,Chester,Port Vale,1-1,-
+-,-,Chesterfield,Port Vale,3-0,-
+-,-,Crewe Alexandra,Port Vale,1-1,-
+-,-,Darlington,Port Vale,2-2,-
+-,-,Doncaster Rovers,Port Vale,0-0,-
+-,-,Exeter City,Port Vale,3-1,-
+-,-,Halifax Town,Port Vale,0-1,-
+-,-,Hartlepool United,Port Vale,2-2,-
+-,-,Lincoln City,Port Vale,0-1,-
+-,-,Luton Town,Port Vale,2-0,-
+-,-,Newport County,Port Vale,1-1,-
+-,-,Notts County,Port Vale,0-0,-
+-,-,Rochdale,Port Vale,3-1,-
+-,-,Southend United,Port Vale,1-1,-
+-,-,Swansea City,Port Vale,4-2,-
+-,-,Workington,Port Vale,1-1,-
+-,-,Wrexham,Port Vale,1-0,-
+-,-,York City,Port Vale,5-1,-
+-,-,Aldershot,Rochdale,2-1,-
+-,-,Barnsley,Rochdale,1-1,-
+-,-,Bradford City,Rochdale,0-0,-
+-,-,Bradford Park Avenue,Rochdale,0-0,-
+-,-,Brentford,Rochdale,4-0,-
+-,-,Chester,Rochdale,0-1,-
+-,-,Chesterfield,Rochdale,0-2,-
+-,-,Crewe Alexandra,Rochdale,2-1,-
+-,-,Darlington,Rochdale,2-0,-
+-,-,Doncaster Rovers,Rochdale,2-0,-
+-,-,Exeter City,Rochdale,3-1,-
+-,-,Halifax Town,Rochdale,2-0,-
+-,-,Hartlepool United,Rochdale,1-1,-
+-,-,Lincoln City,Rochdale,3-2,-
+-,-,Luton Town,Rochdale,4-1,-
+-,-,Newport County,Rochdale,1-1,-
+-,-,Notts County,Rochdale,2-0,-
+-,-,Port Vale,Rochdale,1-1,-
+-,-,Southend United,Rochdale,3-1,-
+-,-,Swansea City,Rochdale,1-0,-
+-,-,Workington,Rochdale,0-1,-
+-,-,Wrexham,Rochdale,2-0,-
+-,-,York City,Rochdale,4-1,-
+-,-,Aldershot,Southend United,1-3,-
+-,-,Barnsley,Southend United,1-1,-
+-,-,Bradford City,Southend United,2-1,-
+-,-,Bradford Park Avenue,Southend United,0-1,-
+-,-,Brentford,Southend United,1-2,-
+-,-,Chester,Southend United,0-0,-
+-,-,Chesterfield,Southend United,3-1,-
+-,-,Crewe Alexandra,Southend United,1-0,-
+-,-,Darlington,Southend United,1-1,-
+-,-,Doncaster Rovers,Southend United,2-1,-
+-,-,Exeter City,Southend United,0-2,-
+-,-,Halifax Town,Southend United,1-2,-
+-,-,Hartlepool United,Southend United,0-1,-
+-,-,Lincoln City,Southend United,4-2,-
+-,-,Luton Town,Southend United,3-1,-
+-,-,Newport County,Southend United,2-0,-
+-,-,Notts County,Southend United,4-3,-
+-,-,Port Vale,Southend United,1-2,-
+-,-,Rochdale,Southend United,0-1,-
+-,-,Swansea City,Southend United,2-2,-
+-,-,Workington,Southend United,2-2,-
+-,-,Wrexham,Southend United,4-1,-
+-,-,York City,Southend United,2-2,-
+-,-,Aldershot,Swansea City,1-1,-
+-,-,Barnsley,Swansea City,3-0,-
+-,-,Bradford City,Swansea City,4-1,-
+-,-,Bradford Park Avenue,Swansea City,1-2,-
+-,-,Brentford,Swansea City,2-1,-
+-,-,Chester,Swansea City,2-3,-
+-,-,Chesterfield,Swansea City,3-1,-
+-,-,Crewe Alexandra,Swansea City,2-0,-
+-,-,Darlington,Swansea City,2-0,-
+-,-,Doncaster Rovers,Swansea City,1-2,-
+-,-,Exeter City,Swansea City,1-3,-
+-,-,Halifax Town,Swansea City,2-2,-
+-,-,Hartlepool United,Swansea City,2-0,-
+-,-,Lincoln City,Swansea City,3-0,-
+-,-,Luton Town,Swansea City,4-0,-
+-,-,Newport County,Swansea City,3-0,-
+-,-,Notts County,Swansea City,3-2,-
+-,-,Port Vale,Swansea City,4-2,-
+-,-,Rochdale,Swansea City,1-2,-
+-,-,Southend United,Swansea City,1-0,-
+-,-,Workington,Swansea City,3-1,-
+-,-,Wrexham,Swansea City,2-1,-
+-,-,York City,Swansea City,2-1,-
+-,-,Aldershot,Workington,5-0,-
+-,-,Barnsley,Workington,2-1,-
+-,-,Bradford City,Workington,1-0,-
+-,-,Bradford Park Avenue,Workington,1-1,-
+-,-,Brentford,Workington,2-1,-
+-,-,Chester,Workington,1-2,-
+-,-,Chesterfield,Workington,0-0,-
+-,-,Crewe Alexandra,Workington,3-2,-
+-,-,Darlington,Workington,1-0,-
+-,-,Doncaster Rovers,Workington,3-0,-
+-,-,Exeter City,Workington,1-0,-
+-,-,Halifax Town,Workington,2-1,-
+-,-,Hartlepool United,Workington,2-1,-
+-,-,Lincoln City,Workington,3-0,-
+-,-,Luton Town,Workington,4-0,-
+-,-,Newport County,Workington,2-1,-
+-,-,Notts County,Workington,2-1,-
+-,-,Port Vale,Workington,4-2,-
+-,-,Rochdale,Workington,1-3,-
+-,-,Southend United,Workington,7-0,-
+-,-,Swansea City,Workington,5-2,-
+-,-,Wrexham,Workington,5-0,-
+-,-,York City,Workington,1-1,-
+-,-,Aldershot,Wrexham,3-1,-
+-,-,Barnsley,Wrexham,2-2,-
+-,-,Bradford City,Wrexham,3-1,-
+-,-,Bradford Park Avenue,Wrexham,0-1,-
+-,-,Brentford,Wrexham,0-0,-
+-,-,Chester,Wrexham,1-1,-
+-,-,Chesterfield,Wrexham,3-1,-
+-,-,Crewe Alexandra,Wrexham,0-0,-
+-,-,Darlington,Wrexham,1-1,-
+-,-,Doncaster Rovers,Wrexham,2-2,-
+-,-,Exeter City,Wrexham,2-2,-
+-,-,Halifax Town,Wrexham,2-2,-
+-,-,Hartlepool United,Wrexham,3-0,-
+-,-,Lincoln City,Wrexham,0-2,-
+-,-,Luton Town,Wrexham,2-1,-
+-,-,Newport County,Wrexham,3-2,-
+-,-,Notts County,Wrexham,1-1,-
+-,-,Port Vale,Wrexham,1-1,-
+-,-,Rochdale,Wrexham,3-0,-
+-,-,Southend United,Wrexham,3-1,-
+-,-,Swansea City,Wrexham,2-0,-
+-,-,Workington,Wrexham,1-2,-
+-,-,York City,Wrexham,3-1,-
+-,-,Aldershot,York City,2-2,-
+-,-,Barnsley,York City,1-0,-
+-,-,Bradford City,York City,0-0,-
+-,-,Bradford Park Avenue,York City,1-1,-
+-,-,Brentford,York City,3-1,-
+-,-,Chester,York City,1-1,-
+-,-,Chesterfield,York City,3-1,-
+-,-,Crewe Alexandra,York City,0-0,-
+-,-,Darlington,York City,3-1,-
+-,-,Doncaster Rovers,York City,2-0,-
+-,-,Exeter City,York City,3-1,-
+-,-,Halifax Town,York City,2-1,-
+-,-,Hartlepool United,York City,1-0,-
+-,-,Lincoln City,York City,1-3,-
+-,-,Luton Town,York City,3-1,-
+-,-,Newport County,York City,2-1,-
+-,-,Notts County,York City,1-1,-
+-,-,Port Vale,York City,1-0,-
+-,-,Rochdale,York City,3-2,-
+-,-,Southend United,York City,0-1,-
+-,-,Swansea City,York City,1-1,-
+-,-,Workington,York City,1-1,-
+-,-,Wrexham,York City,3-1,-
