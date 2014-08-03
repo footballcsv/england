@@ -63,6 +63,36 @@
 (Source: `2-division2.csv`)
 
 
+~~~
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Crystal Palace                42  15  4  2  45:17    9  7  5  25:17    70:34  +36   83
+ 2. Queens Park Rangers           42  14  4  3  38:11    8  5  8  23:21    61:32  +29   75
+ 3. Southampton                   42  14  5  2  46:10    5 11  5  18:18    64:28  +36   73
+ 4. Swindon Town                  42  14  5  2  51:17    7  5  9  22:32    73:49  +24   73
+ 5. Swansea City                  42   9 10  2  32:19    9  5  7  24:26    56:45  +11   69
+ 6. Watford                       42  14  4  3  40:15    6  4 11  19:29    59:44  +15   68
+ 7. Millwall                      42  11  5  5  25:8     7  6  8  17:22    42:30  +12   65
+ 8. Bristol Rovers                42  15  3  3  51:22    3  4 14  17:35    68:57  +11   61
+ 9. Merthyr Town                  42  13  5  3  46:20    2 10  9  14:29    60:49  +11   60
+10. Luton Town                    42  14  6  1  51:15    2  6 13  10:41    61:56   +5   60
+11. Plymouth Argyle               42  10  7  4  25:13    1 14  6  10:21    35:34   +1   54
+12. Grimsby Town                  42  12  5  4  32:16    3  4 14  17:43    49:59  -10   54
+13. Northampton Town              42  11  4  6  32:23    4  4 13  27:52    59:75  -16   53
+14. Portsmouth                    42  10  8  3  28:14    2  7 12  18:34    46:48   -2   51
+15. Newport County                42   8  5  8  20:23    6  4 11  23:41    43:64  -21   51
+16. Southend United               42  13  2  6  32:20    1  6 14  12:41    44:61  -17   50
+17. Brighton & Hove Albion        42  11  6  4  28:20    3  2 16  14:41    42:61  -19   50
+18. Norwich City                  42   9 10  2  31:14    1  6 14  13:39    44:53   -9   46
+19. Exeter City                   42   9  7  5  27:15    1  8 12  12:39    39:54  -15   45
+20. Reading                       42   8  4  9  26:22    4  3 14  16:37    42:59  -17   43
+21. Brentford                     42   7  9  5  27:23    2  3 16  15:44    42:67  -25   39
+22. Gillingham                    42   6  9  6  19:24    2  3 16  15:50    34:74  -40   36
+~~~
+
+(Source: `3-division3.csv`)
+
+
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points

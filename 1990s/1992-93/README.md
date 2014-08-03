@@ -65,6 +65,38 @@
 (Source: `2-division1.csv`)
 
 
+~~~
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Stoke City                    46  17  4  2  41:13   10  8  5  32:21    73:34  +39   93
+ 2. Bolton Wanderers              46  18  2  3  48:14    9  7  7  32:27    80:41  +39   90
+ 3. Port Vale                     46  14  7  2  44:17   12  4  7  35:27    79:44  +35   89
+ 4. West Bromwich Albion          46  17  3  3  56:22    8  7  8  32:32    88:54  +34   85
+ 5. Swansea City                  46  12  7  4  38:17    8  6  9  27:30    65:47  +18   73
+ 6. Stockport County              46  11 11  1  47:18    8  4 11  34:39    81:57  +24   72
+ 7. Leyton Orient                 46  16  4  3  49:20    5  5 13  20:33    69:53  +16   72
+ 8. Reading                       46  14  4  5  44:20    4 11  8  22:31    66:51  +15   69
+ 9. Brighton & Hove Albion        46  13  4  6  36:24    7  5 11  27:35    63:59   +4   69
+10. Bradford City                 46  12  5  6  36:24    6  9  8  33:43    69:67   +2   68
+11. Fulham                        46   9  9  5  28:22    7  8  8  29:33    57:55   +2   65
+12. Rotherham United              46   9  7  7  30:27    8  7  8  30:33    60:60        65
+13. Burnley                       46  11  8  4  38:21    4  8 11  19:38    57:59   -2   61
+14. Plymouth Argyle               46  11  6  6  38:28    5  6 12  21:36    59:64   -5   60
+15. Huddersfield Town             46  10  6  7  30:22    7  3 13  24:39    54:61   -7   60
+16. Hartlepool United             46   8  6  9  19:23    6  6 11  23:37    42:60  -18   54
+17. AFC Bournemouth               46   7 10  6  28:24    5  7 11  17:28    45:52   -7   53
+18. Blackpool                     46   9  9  5  40:30    3  6 14  23:45    63:75  -12   51
+19. Exeter City                   46   5  8 10  26:30    6  9  8  28:39    54:69  -15   50
+20. Hull City                     46   9  5  9  28:26    4  6 13  18:43    46:69  -23   50
+21. Preston North End             46   8  5 10  41:47    5  3 15  24:47    65:94  -29   47
+22. Mansfield Town                46   7  8  8  34:34    4  3 16  18:46    52:80  -28   44
+23. Wigan Athletic                46   6  6 11  26:34    4  5 14  17:38    43:72  -29   41
+24. Chester                       46   6  2 15  30:47    2  3 18  19:55    49:102 -53   29
+~~~
+
+(Source: `3-division2.csv`)
+
+
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points

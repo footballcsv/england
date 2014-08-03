@@ -63,6 +63,70 @@
 (Source: `2-division2.csv`)
 
 
+~~~
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Leyton Orient                 46  16  5  2  43:15    9  7  7  24:21    67:36  +31   87
+ 2. Luton Town                    46  13  8  2  46:15   10  6  7  31:28    77:43  +34   83
+ 3. Brighton & Hove Albion        46  16  4  3  37:16    7  5 11  20:27    57:43  +14   78
+ 4. Bristol Rovers                46  15  5  3  51:26    5 11  7  29:33    80:59  +21   76
+ 5. Fulham                        46  12  9  2  43:26    8  6  9  38:29    81:55  +26   75
+ 6. Mansfield Town                46  14  4  5  46:22    7  7  9  24:27    70:49  +21   74
+ 7. Reading                       46  16  3  4  52:29    5  8 10  35:48    87:77  +10   74
+ 8. Barnsley                      46  14  6  3  43:24    5  9  9  25:35    68:59   +9   72
+ 9. Rochdale                      46  11  6  6  39:24    7  4 12  30:36    69:60   +9   64
+10. Bradford City                 46  11  6  6  37:22    6  6 11  20:28    57:50   +7   63
+11. Doncaster Rovers              46  13  4  6  31:19    4  8 11  21:35    52:54   -2   63
+12. Walsall                       46  11  4  8  33:31    6  8  9  21:36    54:67  -13   63
+13. Rotherham United              46  10  8  5  36:19    5  6 12  26:35    62:54   +8   59
+14. Torquay United                46   9  9  5  36:22    5  8 10  26:37    62:59   +3   59
+15. Plymouth Argyle               46  10  7  6  32:23    6  4 13  24:41    56:64   -8   59
+16. Tranmere Rovers               46  10  8  5  38:29    4  8 11  18:43    56:72  -16   58
+17. Shrewsbury Town               46  10 12  1  35:17    3  6 14  27:46    62:63   -1   57
+18. Halifax Town                  46  10  9  4  31:25    4  6 13  16:38    47:63  -16   57
+19. Bury                          46  13  4  6  47:29    2  7 14  28:51    75:80   -5   56
+20. Gillingham                    46   7  6 10  28:33    6  7 10  24:31    52:64  -12   52
+21. Southport                     46  11  5  7  31:22    3  5 15  17:44    48:66  -18   52
+22. AFC Bournemouth               46   8  9  6  28:27    4  6 13  20:44    48:71  -23   51
+23. Barrow                        46   7  9  7  28:27    1  5 17  18:54    46:81  -35   38
+24. Stockport County              46   4  7 12  17:30    2  4 17  10:41    27:71  -44   29
+~~~
+
+(Source: `3-division3.csv`)
+
+
+~~~
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Chesterfield                  46  19  1  3  55:12    8  9  6  22:20    77:32  +45   91
+ 2. Wrexham                       46  17  6  0  56:16    9  3 11  28:33    84:49  +35   87
+ 3. Swansea City                  46  14  8  1  43:14    7 10  6  23:31    66:45  +21   81
+ 4. Port Vale                     46  13  9  1  39:10    7 10  6  22:23    61:33  +28   79
+ 5. Brentford                     46  14  8  1  36:11    6  8  9  22:28    58:39  +19   76
+ 6. Notts County                  46  14  4  5  44:21    8  4 11  29:41    73:62  +11   74
+ 7. Aldershot                     46  16  5  2  52:22    4  8 11  26:43    78:65  +13   73
+ 8. Chester                       46  14  3  6  39:23    7  3 13  19:43    58:66   -8   69
+ 9. Lincoln City                  46  11  8  4  38:20    6  8  9  28:32    66:52  +14   67
+10. Peterborough United           46  13  8  2  51:21    4  6 13  26:48    77:69   +8   65
+11. Colchester United             46  14  5  4  38:22    3  9 11  26:41    64:63   +1   65
+12. Scunthorpe United             46  11  6  6  34:23    7  4 12  33:42    67:65   +2   64
+13. York City                     46  14  7  2  38:16    2  7 14  17:46    55:62   -7   62
+14. Northampton Town              46  11  7  5  41:19    5  5 13  23:36    64:55   +9   60
+15. Crewe Alexandra               46  12  6  5  37:18    4  6 13  14:33    51:51        60
+16. Grimsby Town                  46   9  9  5  33:24    5  6 12  21:34    54:58   -4   57
+17. Southend United               46  12  8  3  40:28    3  2 18  19:57    59:85  -26   55
+18. Exeter City                   46  13  5  5  48:20    1  6 16   9:39    57:59   -2   53
+19. Oldham Athletic               46  11  4  8  45:28    2  9 12  15:37    60:65   -5   52
+20. Workington                    46   9  9  5  31:21    3  5 15  15:43    46:64  -18   50
+21. Newport County                46  12  3  8  39:24    1  8 14  14:50    53:74  -21   50
+22. Darlington                    46   8  7  8  31:27    5  3 15  22:46    53:73  -20   49
+23. Hartlepool United             46   7  7  9  31:30    3  3 17  11:52    42:82  -40   40
+24. Bradford Park Avenue          46   6  5 12  23:32    0  6 17  18:64    41:96  -55   29
+~~~
+
+(Source: `4-division4.csv`)
+
+
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points

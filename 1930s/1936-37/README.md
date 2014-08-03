@@ -63,6 +63,66 @@
 (Source: `2-division2.csv`)
 
 
+~~~
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Stockport County              42  17  3  1  59:18    6 11  4  25:21    84:39  +45   83
+ 2. Lincoln City                  42  18  1  2  65:20    7  6  8  38:37   103:57  +46   82
+ 3. Chester                       42  15  5  1  68:21    7  4 10  19:36    87:57  +30   75
+ 4. Oldham Athletic               42  13  7  1  49:25    7  4 10  28:34    77:59  +18   71
+ 5. Hartlepool United             42  16  1  4  53:21    3  6 12  22:48    75:69   +6   64
+ 6. Halifax Town                  42  12  4  5  40:20    6  5 10  28:43    68:63   +5   63
+ 7. Hull City                     42  13  6  2  39:22    4  6 11  29:47    68:69   -1   63
+ 8. Mansfield Town                42  13  1  7  64:35    5  7  9  27:41    91:76  +15   62
+ 9. Carlisle United               42  13  6  2  42:19    5  2 14  23:49    65:68   -3   62
+10. Port Vale                     42  12  6  3  39:23    5  4 12  19:41    58:64   -6   61
+11. Wrexham                       42  12  3  6  41:21    4  9  8  30:36    71:57  +14   60
+12. York City                     42  13  3  5  54:27    3  8 10  25:43    79:70   +9   59
+13. Accrington Stanley            42  14  2  5  51:26    2  7 12  25:43    76:69   +7   57
+14. New Brighton                  42  10  8  3  36:16    3  3 15  19:54    55:70  -15   50
+15. Rotherham United              42  11  7  3  52:28    3  0 18  26:63    78:91  -13   49
+16. Southport                     42  10  8  3  39:28    2  5 14  34:59    73:87  -14   49
+17. Barrow                        42  11  5  5  42:25    2  5 14  28:61    70:86  -16   49
+18. Rochdale                      42  12  3  6  44:27    1  6 14  25:59    69:86  -17   48
+19. Tranmere Rovers               42  10  8  3  52:30    2  1 18  19:58    71:88  -17   45
+20. Gateshead                     42   9  8  4  40:31    2  2 17  23:67    63:98  -35   43
+21. Crewe Alexandra               42   6  8  7  31:31    4  4 13  24:52    55:83  -28   42
+22. Darlington                    42   6  8  7  42:46    2  6 13  24:50    66:96  -30   38
+~~~
+
+(Source: `3a-division3n.csv`)
+
+
+~~~
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Luton Town                    42  19  1  1  69:16    8  3 10  34:37   103:53  +50   85
+ 2. Notts County                  42  15  3  3  44:23    8  7  6  30:29    74:52  +22   79
+ 3. Brighton & Hove Albion        42  15  5  1  49:16    9  0 12  25:27    74:43  +31   77
+ 4. AFC Bournemouth               42  17  3  1  45:20    3  6 12  20:39    65:59   +6   69
+ 5. Watford                       42  14  4  3  53:21    5  7  9  32:39    85:60  +25   68
+ 6. Reading                       42  14  5  2  53:23    5  6 10  23:37    76:60  +16   68
+ 7. Northampton Town              42  15  4  2  56:22    5  2 14  29:46    85:68  +17   66
+ 8. Millwall                      42  12  4  5  43:24    6  6  9  21:30    64:54  +10   64
+ 9. Queens Park Rangers           42  12  2  7  51:24    6  7  8  22:28    73:52  +21   63
+10. Southend United               42  10  8  3  49:23    7  3 11  29:44    78:67  +11   62
+11. Gillingham                    42  14  5  2  36:18    4  3 14  16:48    52:66  -14   62
+12. Leyton Orient                 42  10  8  3  29:17    4  7 10  23:35    52:52        57
+13. Swindon Town                  42  12  4  5  52:24    2  7 12  23:49    75:73   +2   53
+14. Bristol Rovers                42  14  3  4  49:20    2  1 18  22:60    71:80   -9   52
+15. Crystal Palace                42  11  7  3  45:20    2  5 14  17:41    62:61   +1   51
+16. Bristol City                  42  13  3  5  42:20    2  3 16  16:50    58:70  -12   51
+17. Walsall                       42  11  3  7  38:34    2  7 12  25:51    63:85  -22   49
+18. Cardiff City                  42  10  5  6  35:24    4  2 15  19:63    54:87  -33   49
+19. Newport County                42   7  7  7  37:28    5  3 13  30:70    67:98  -31   46
+20. Torquay United                42   9  5  7  42:32    2  5 14  15:48    57:80  -23   43
+21. Exeter City                   42   9  5  7  36:37    1  7 13  23:51    59:88  -29   42
+22. Aldershot                     42   5  6 10  29:29    2  3 16  21:60    50:89  -39   30
+~~~
+
+(Source: `3b-division3s.csv`)
+
+
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points

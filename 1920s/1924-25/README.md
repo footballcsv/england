@@ -63,6 +63,66 @@
 (Source: `2-division2.csv`)
 
 
+~~~
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Darlington                    42  16  4  1  50:14    8  6  7  28:19    78:33  +45   82
+ 2. Nelson                        42  18  2  1  58:14    5  5 11  21:36    79:50  +29   76
+ 3. New Brighton                  42  17  3  1  56:16    6  4 11  19:34    75:50  +25   76
+ 4. Southport                     42  17  2  2  41:7     5  5 11  18:30    59:37  +22   73
+ 5. Rochdale                      42  17  2  2  53:16    4  5 12  22:37    75:53  +22   70
+ 6. Bradford Park Avenue          42  15  5  1  59:13    4  7 10  25:29    84:42  +42   69
+ 7. Chesterfield                  42  14  3  4  42:15    3  8 10  18:29    60:44  +16   62
+ 8. Lincoln City                  42  13  4  4  39:19    5  4 12  14:39    53:58   -5   62
+ 9. Halifax Town                  42  11  5  5  36:22    5  6 10  20:30    56:52   +4   59
+10. Ashington                     42  13  4  4  41:24    3  6 12  27:52    68:76   -8   58
+11. Wigan Borough                 42  10  7  4  39:16    5  4 12  23:49    62:65   -3   56
+12. Barrow                        42  14  4  3  39:22    2  3 16  12:52    51:74  -23   55
+13. Grimsby Town                  42  10  6  5  38:21    5  3 13  22:39    60:60        54
+14. Wrexham                       42  11  5  5  37:21    4  3 14  16:40    53:61   -8   53
+15. Accrington Stanley            42  12  5  4  43:23    3  3 15  17:49    60:72  -12   53
+16. Doncaster Rovers              42  12  5  4  36:17    2  5 14  18:48    54:65  -11   52
+17. Durham City                   42  11  6  4  38:17    2  7 12  12:51    50:68  -18   52
+18. Crewe Alexandra               42  11  7  3  35:24    2  6 13  18:54    53:78  -25   52
+19. Walsall                       42  10  6  5  27:16    3  5 13  17:37    44:53   -9   50
+20. Hartlepool United             42   9  8  4  28:21    3  3 15  17:42    45:63  -18   47
+21. Tranmere Rovers               42  11  3  7  40:29    3  1 17  19:49    59:78  -19   46
+22. Rotherham County              42   6  5 10  27:31    1  2 18  15:57    42:88  -46   28
+~~~
+
+(Source: `3a-division3n.csv`)
+
+
+~~~
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Swansea City                  42  17  4  0  51:12    6  7  8  17:23    68:35  +33   80
+ 2. Plymouth Argyle               42  17  3  1  55:12    6  7  8  22:26    77:38  +39   79
+ 3. Bristol City                  42  14  5  2  40:10    8  4  9  20:31    60:41  +19   75
+ 4. Swindon Town                  42  17  2  2  51:13    3  9  9  15:25    66:38  +28   71
+ 5. Newport County                42  13  6  2  35:12    7  3 11  27:30    62:42  +20   69
+ 6. Millwall                      42  12  5  4  35:14    6  8  7  23:24    58:38  +20   67
+ 7. Exeter City                   42  13  4  4  37:19    6  5 10  22:29    59:48  +11   66
+ 8. Northampton Town              42  12  3  6  34:18    8  3 10  17:26    51:44   +7   66
+ 9. Brighton & Hove Albion        42  14  3  4  43:17    5  5 11  16:28    59:45  +14   65
+10. Southend United               42  14  1  6  34:18    5  4 12  17:43    51:61  -10   62
+11. Watford                       42  12  3  6  22:20    5  6 10  16:27    38:47   -9   60
+12. Norwich City                  42  10  8  3  39:18    4  5 12  14:33    53:51   +2   55
+13. Gillingham                    42  11  8  2  25:11    2  6 13  10:33    35:44   -9   53
+14. Reading                       42   9  6  6  28:15    5  4 12   9:23    37:38   -1   52
+15. Charlton Athletic             42  12  6  3  31:13    1  6 14  15:35    46:48   -2   51
+16. Aberdare Athletic             42  13  4  4  40:21    1  5 15  14:46    54:67  -13   51
+17. Queens Park Rangers           42  10  6  5  28:19    4  2 15  14:44    42:63  -21   50
+18. Bristol Rovers                42  10  5  6  26:13    2  8 11  16:36    42:49   -7   49
+19. Luton Town                    42   9 10  2  34:15    1  7 13  15:42    49:57   -8   47
+20. AFC Bournemouth               42   8  6  7  20:17    5  2 14  20:41    40:58  -18   47
+21. Brentford                     42   8  7  6  28:26    1  0 20  10:65    38:91  -53   34
+22. Merthyr Town                  42   8  3 10  24:27    0  2 19  11:50    35:77  -42   29
+~~~
+
+(Source: `3b-division3s.csv`)
+
+
 
 ---
 Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
