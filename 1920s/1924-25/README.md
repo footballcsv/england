@@ -4,58 +4,66 @@
 
 
 ~~~
- 1. Huddersfield Town             42  21  16   5  69:28   79
- 2. West Bromwich Albion          42  23  10   9  58:34   79
- 3. Bolton Wanderers              42  22  11   9  76:34   77
- 4. Liverpool                     42  20  10  12  63:55   70
- 5. Sunderland                    42  19  10  13  64:51   67
- 6. Bury                          42  17  15  10  54:51   66
- 7. Newcastle United              42  16  16  10  61:42   64
- 8. Birmingham City               42  17  12  13  49:53   63
- 9. Notts County                  42  16  13  13  42:31   61
-10. Manchester City               42  17   9  16  76:68   60
-11. Cardiff City                  42  16  11  15  56:51   59
-12. Tottenham Hotspur             42  15  12  15  52:43   57
-13. West Ham United               42  15  12  15  62:60   57
-14. Sheffield United              42  13  13  16  55:63   52
-15. Aston Villa                   42  13  13  16  58:71   52
-16. Arsenal                       42  14   5  23  46:58   47
-17. Everton                       42  12  11  19  40:60   47
-18. Blackburn Rovers              42  11  13  18  53:66   46
-19. Leeds United                  42  11  12  19  46:59   45
-20. Burnley                       42  11  12  19  46:75   45
-21. Preston North End             42  10   6  26  37:74   36
-22. Nottingham Forest             42   6  12  24  29:65   30
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Huddersfield Town             42  10  8  3  31:10   11  8  2  38:18    69:28  +41   79
+ 2. West Bromwich Albion          42  13  6  2  40:17   10  4  7  18:17    58:34  +24   79
+ 3. Bolton Wanderers              42  18  2  1  61:13    4  9  8  15:21    76:34  +42   77
+ 4. Liverpool                     42  13  5  3  43:20    7  5  9  20:35    63:55   +8   70
+ 5. Sunderland                    42  13  6  2  39:14    6  4 11  25:37    64:51  +13   67
+ 6. Bury                          42  13  4  4  35:20    4 11  6  19:31    54:51   +3   66
+ 7. Newcastle United              42  11  6  4  43:18    5 10  6  18:24    61:42  +19   64
+ 8. Birmingham City               42  10  8  3  27:17    7  4 10  22:36    49:53   -4   63
+ 9. Notts County                  42  11  6  4  29:12    5  7  9  13:19    42:31  +11   61
+10. Manchester City               42  11  7  3  44:29    6  2 13  32:39    76:68   +8   60
+11. Cardiff City                  42  11  5  5  35:19    5  6 10  21:32    56:51   +5   59
+12. Tottenham Hotspur             42   9  8  4  32:16    6  4 11  20:27    52:43   +9   57
+13. West Ham United               42  12  7  2  37:12    3  5 13  25:48    62:60   +2   57
+14. Sheffield United              42  10  5  6  34:25    3  8 10  21:38    55:63   -8   52
+15. Aston Villa                   42  10  7  4  34:25    3  6 12  24:46    58:71  -13   52
+16. Arsenal                       42  12  3  6  33:17    2  2 17  13:41    46:58  -12   47
+17. Everton                       42  11  4  6  25:20    1  7 13  15:40    40:60  -20   47
+18. Blackburn Rovers              42   7  6  8  31:26    4  7 10  22:40    53:66  -13   46
+19. Leeds United                  42   9  8  4  29:17    2  4 15  17:42    46:59  -13   45
+20. Burnley                       42   7  8  6  28:31    4  4 13  18:44    46:75  -29   45
+21. Preston North End             42   8  2 11  29:35    2  4 15   8:39    37:74  -37   36
+22. Nottingham Forest             42   5  6 10  17:23    1  6 14  12:42    29:65  -36   30
 ~~~
 
 (Source: `1-division1.csv`)
 
 
 ~~~
- 1. Leicester City                42  24  11   7  90:32   83
- 2. Manchester United             42  23  11   8  57:23   80
- 3. Derby County                  42  22  11   9  71:36   77
- 4. Wolverhampton Wanderers       42  20   6  16  55:51   66
- 5. Chelsea                       42  16  15  11  51:37   63
- 6. Portsmouth                    42  15  18   9  58:50   63
- 7. Port Vale                     42  17   8  17  48:56   59
- 8. Southampton                   42  13  18  11  40:36   57
- 9. Hull City                     42  15  11  16  50:49   56
-10. Fulham                        42  15  10  17  41:56   55
-11. Leyton Orient                 42  14  12  16  42:42   54
-12. South Shields                 42  12  17  13  42:38   53
-13. Sheffield Wednesday           42  15   8  19  50:56   53
-14. Blackpool                     42  14   9  19  65:61   51
-15. Barnsley                      42  13  12  17  46:59   51
-16. Bradford City                 42  13  12  17  37:50   51
-17. Oldham Athletic               42  13  11  18  35:51   50
-18. Stockport County              42  13  11  18  37:57   50
-19. Middlesbrough                 42  10  19  13  36:44   49
-20. Stoke City                    42  12  11  19  34:46   47
-21. Crystal Palace                42  12  10  20  38:54   46
-22. Coventry City                 42  11   9  22  45:84   42
+                                        - Home -          - Away -            - Total -
+                                 Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
+ 1. Leicester City                42  15  4  2  58:9     9  7  5  32:23    90:32  +58   83
+ 2. Manchester United             42  17  3  1  40:6     6  8  7  17:17    57:23  +34   80
+ 3. Derby County                  42  15  3  3  49:15    7  8  6  22:21    71:36  +35   77
+ 4. Wolverhampton Wanderers       42  14  1  6  29:19    6  5 10  26:32    55:51   +4   66
+ 5. Chelsea                       42  11  8  2  31:12    5  7  9  20:25    51:37  +14   63
+ 6. Portsmouth                    42   7 13  1  28:14    8  5  8  30:36    58:50   +8   63
+ 7. Port Vale                     42  12  4  5  34:19    5  4 12  14:37    48:56   -8   59
+ 8. Southampton                   42  12  8  1  29:10    1 10 10  11:26    40:36   +4   57
+ 9. Hull City                     42  12  6  3  40:14    3  5 13  10:35    50:49   +1   56
+10. Fulham                        42  11  6  4  26:15    4  4 13  15:41    41:56  -15   55
+11. Leyton Orient                 42   8  7  6  22:13    6  5 10  20:29    42:42        54
+12. South Shields                 42   9  6  6  33:21    3 11  7   9:17    42:38   +4   53
+13. Sheffield Wednesday           42  12  3  6  36:23    3  5 13  14:33    50:56   -6   53
+14. Blackpool                     42   8  5  8  37:26    6  4 11  28:35    65:61   +4   51
+15. Barnsley                      42   8  8  5  30:23    5  4 12  16:36    46:59  -13   51
+16. Bradford City                 42  11  6  4  26:13    2  6 13  11:37    37:50  -13   51
+17. Oldham Athletic               42   9  5  7  24:21    4  6 11  11:30    35:51  -16   50
+18. Stockport County              42  10  6  5  26:15    3  5 13  11:42    37:57  -20   50
+19. Middlesbrough                 42   6 10  5  22:21    4  9  8  14:23    36:44   -8   49
+20. Stoke City                    42   7  8  6  22:17    5  3 13  12:29    34:46  -12   47
+21. Crystal Palace                42   8  4  9  23:19    4  6 11  15:35    38:54  -16   46
+22. Coventry City                 42  10  6  5  32:26    1  3 17  13:58    45:84  -39   42
 ~~~
 
 (Source: `2-division2.csv`)
 
+
+
+---
+Pld = Matches; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; +/- = Goal differencence; Pts = Points
 
