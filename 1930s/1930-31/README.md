@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Arsenal                       42  28  10   4 127:59   94
  2. Aston Villa                   42  25   9   8 128:78   84
@@ -25,6 +26,36 @@
 20. Leeds United                  42  12   7  23  68:81   43
 21. Blackpool                     42  11  10  21  71:125  43
 22. Manchester United             42   7   8  27  53:115  29
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Everton                       42  28   5   9 121:66   89
+ 2. West Bromwich Albion          42  22  10  10  83:49   76
+ 3. Tottenham Hotspur             42  22   7  13  88:55   73
+ 4. Wolverhampton Wanderers       42  21   5  16  84:67   68
+ 5. Port Vale                     42  21   5  16  67:61   68
+ 6. Bradford Park Avenue          42  18  10  14  97:66   64
+ 7. Southampton                   42  19   6  17  74:62   63
+ 8. Preston North End             42  17  11  14  83:64   62
+ 9. Burnley                       42  17  11  14  81:77   62
+10. Bradford City                 42  17  10  15  61:63   61
+11. Stoke City                    42  17  10  15  64:71   61
+12. Bury                          42  19   3  20  75:82   60
+13. Oldham Athletic               42  16  10  16  61:72   58
+14. Millwall                      42  16   7  19  71:80   55
+15. Charlton Athletic             42  15   9  18  59:86   54
+16. Bristol City                  42  15   8  19  54:82   53
+17. Nottingham Forest             42  14   9  19  80:85   51
+18. Plymouth Argyle               42  14   8  20  76:84   50
+19. Barnsley                      42  13   9  20  59:79   48
+20. Swansea City                  42  12  10  20  51:74   46
+21. Reading                       42  12   6  24  72:96   42
+22. Cardiff City                  42   8   9  25  47:87   33
+~~~
+
+(Source: `2-division2.csv`)
+
+

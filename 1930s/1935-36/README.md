@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Sunderland                    42  25   6  11 109:74   81
  2. Stoke City                    42  20   7  15  57:57   67
@@ -25,6 +26,36 @@
 20. Sheffield Wednesday           42  13  12  17  63:77   51
 21. Aston Villa                   42  13   9  20  81:110  48
 22. Blackburn Rovers              42  12   9  21  55:96   45
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Manchester United             42  22  12   8  85:43   78
+ 2. Charlton Athletic             42  22  11   9  85:58   77
+ 3. West Ham United               42  22   8  12  90:68   74
+ 4. Sheffield United              42  20  12  10  79:50   72
+ 5. Plymouth Argyle               42  20   8  14  71:57   68
+ 6. Tottenham Hotspur             42  18  13  11  91:55   67
+ 7. Leicester City                42  19  10  13  79:57   67
+ 8. Newcastle United              42  20   6  16  88:79   66
+ 9. Blackpool                     42  18   7  17  93:72   61
+10. Norwich City                  42  17   9  16  72:65   60
+11. Fulham                        42  15  14  13  76:52   59
+12. Bradford City                 42  15  13  14  55:65   58
+13. Swansea City                  42  15   9  18  67:76   54
+14. Bury                          42  13  12  17  66:84   51
+15. Southampton                   42  14   9  19  47:65   51
+16. Doncaster Rovers              42  14   9  19  51:71   51
+17. Bradford Park Avenue          42  14   9  19  62:84   51
+18. Burnley                       42  12  13  17  50:59   49
+19. Nottingham Forest             42  12  11  19  69:76   47
+20. Barnsley                      42  12   9  21  54:80   45
+21. Port Vale                     42  12   8  22  56:106  44
+22. Hull City                     42   5  10  27  47:111  25
+~~~
+
+(Source: `2-division2.csv`)
+
+

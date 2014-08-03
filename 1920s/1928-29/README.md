@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Sheffield Wednesday           42  21  10  11  86:62   73
  2. Aston Villa                   42  23   4  15  98:81   73
@@ -25,6 +26,36 @@
 20. Portsmouth                    42  15   6  21  56:80   51
 21. Bury                          42  12   7  23  62:99   43
 22. Cardiff City                  42   8  13  21  43:59   37
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Middlesbrough                 42  22  11   9  92:57   77
+ 2. Grimsby Town                  42  24   5  13  82:61   77
+ 3. Bradford Park Avenue          42  22   4  16  88:70   70
+ 4. Notts County                  42  19   9  14  78:65   66
+ 5. Southampton                   42  17  14  11  74:60   65
+ 6. West Bromwich Albion          42  19   8  15  80:79   65
+ 7. Blackpool                     42  19   7  16  92:76   64
+ 8. Stoke City                    42  17  12  13  74:51   63
+ 9. Chelsea                       42  17  10  15  64:65   61
+10. Tottenham Hotspur             42  17   9  16  75:81   60
+11. Nottingham Forest             42  15  12  15  71:70   57
+12. Millwall                      42  16   7  19  71:86   55
+13. Barnsley                      42  16   6  20  69:66   54
+14. Preston North End             42  15   9  18  77:79   54
+15. Reading                       42  15   9  18  63:86   54
+16. Hull City                     42  13  14  15  58:63   53
+17. Oldham Athletic               42  16   5  21  54:74   53
+18. Wolverhampton Wanderers       42  15   7  20  77:81   52
+19. Swansea City                  42  13  10  19  62:75   49
+20. Bristol City                  42  13  10  19  58:72   49
+21. Port Vale                     42  15   4  23  71:86   49
+22. Leyton Orient                 42  12   8  22  45:72   44
+~~~
+
+(Source: `2-division2.csv`)
+
+

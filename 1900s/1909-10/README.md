@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Aston Villa                   38  23   7   8  84:42   76
  2. Liverpool                     38  21   6  11  78:57   69
@@ -23,6 +24,34 @@
 18. Arsenal                       38  11   9  18  37:67   42
 19. Chelsea                       38  11   7  20  47:70   40
 20. Bolton Wanderers              38   9   6  23  44:71   33
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Manchester City               38  23   8   7  81:40   77
+ 2. Oldham Athletic               38  23   7   8  79:39   76
+ 3. Hull City                     38  23   7   8  80:46   76
+ 4. Derby County                  38  22   9   7  72:47   75
+ 5. Leicester City                38  20   4  14  79:58   64
+ 6. Glossop North End             38  18   7  13  64:57   61
+ 7. Wolverhampton Wanderers       38  17   6  15  64:63   57
+ 8. Fulham                        38  14  13  11  51:43   55
+ 9. Bradford Park Avenue          38  17   4  17  64:59   55
+10. Barnsley                      38  16   7  15  62:59   55
+11. West Bromwich Albion          38  16   5  17  58:56   53
+12. Blackpool                     38  14   8  16  50:52   50
+13. Burnley                       38  14   6  18  62:61   48
+14. Stockport County              38  13   8  17  50:47   47
+15. Leyton Orient                 38  12   6  20  37:60   42
+16. Lincoln City                  38  10  11  17  42:69   41
+17. Leeds City                    38  10   7  21  46:80   37
+18. Gainsborough Trinity          38  10   6  22  33:75   36
+19. Grimsby Town                  38   9   6  23  50:77   33
+20. Birmingham City               38   8   7  23  42:78   31
+~~~
+
+(Source: `2-division2.csv`)
+
+

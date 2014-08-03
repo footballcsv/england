@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Ipswich Town                  42  23   5  14  66:44   74
  2. Derby County                  42  21  11  10  67:49   74
@@ -25,6 +26,36 @@
 20. Luton Town                    42  11  11  20  47:65   44
 21. Chelsea                       42   9  15  18  42:72   42
 22. Carlisle United               42  12   5  25  43:59   41
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Manchester United             42  26   9   7  66:30   87
+ 2. Aston Villa                   42  25   8   9  79:32   83
+ 3. Norwich City                  42  20  13   9  58:37   73
+ 4. Bristol City                  42  21   8  13  47:33   71
+ 5. Sunderland                    42  19  13  10  65:35   70
+ 6. West Bromwich Albion          42  18   9  15  54:42   63
+ 7. Blackpool                     42  14  17  11  38:33   59
+ 8. Hull City                     42  15  14  13  40:53   59
+ 9. Bolton Wanderers              42  15  12  15  45:41   57
+10. Oxford United                 42  15  12  15  41:51   57
+11. Southampton                   42  15  11  16  53:54   56
+12. Fulham                        42  13  16  13  44:39   55
+13. Leyton Orient                 42  11  20  11  28:39   53
+14. York City                     42  14  10  18  51:55   52
+15. Notts County                  42  12  16  14  49:59   52
+16. Nottingham Forest             42  12  14  16  43:55   50
+17. Portsmouth                    42  12  13  17  44:54   49
+18. Bristol Rovers                42  12  11  19  42:64   47
+19. Oldham Athletic               42  10  15  17  40:48   45
+20. Millwall                      42  10  12  20  44:56   42
+21. Cardiff City                  42   9  14  19  36:62   41
+22. Sheffield Wednesday           42   5  11  26  29:64   26
+~~~
+
+(Source: `2-division2.csv`)
+
+

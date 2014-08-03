@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Arsenal                       42  21  12   9  97:64   75
  2. Preston North End             42  21  12   9  85:60   75
@@ -25,6 +26,36 @@
 20. Chelsea                       42  12  11  19  56:66   47
 21. Stoke City                    42  12  10  20  53:66   46
 22. Derby County                  42  11  10  21  59:74   43
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Sheffield United              42  25  10   7  97:55   85
+ 2. Huddersfield Town             42  24  10   8  84:33   82
+ 3. Luton Town                    42  22   8  12  84:49   74
+ 4. Plymouth Argyle               42  20   9  13  65:60   69
+ 5. Birmingham City               42  19  10  13  71:66   67
+ 6. Leicester City                42  18  12  12  89:74   66
+ 7. Nottingham Forest             42  18   8  16  77:67   62
+ 8. Blackburn Rovers              42  18   8  16  68:65   62
+ 9. Fulham                        42  17  10  15  81:71   61
+10. Leeds United                  42  14  15  13  71:63   57
+11. Rotherham United              42  16   9  17  75:74   57
+12. Swansea City                  42  15  12  15  78:81   57
+13. West Ham United               42  13  13  16  58:60   52
+14. Doncaster Rovers              42  12  16  14  58:64   52
+15. Everton                       42  12  14  16  71:75   50
+16. Lincoln City                  42  11  17  14  64:71   50
+17. Hull City                     42  14   8  20  57:69   50
+18. Brentford                     42  13  11  18  59:76   50
+19. Notts County                  42  14   8  20  60:88   50
+20. Bury                          42  13   9  20  53:81   48
+21. Southampton                   42  10  13  19  68:85   43
+22. Barnsley                      42   5   8  29  47:108  23
+~~~
+
+(Source: `2-division2.csv`)
+
+

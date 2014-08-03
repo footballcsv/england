@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. West Bromwich Albion          42  28   4  10 104:47   88
  2. Burnley                       42  21   9  12  65:59   72
@@ -25,6 +26,37 @@
 20. Blackburn Rovers              42  13  11  18  64:77   50
 21. Notts County                  42  12  12  18  56:74   48
 22. Sheffield Wednesday           42   7   9  26  28:64   30
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Tottenham Hotspur             42  32   6   4 102:32  102
+ 2. Huddersfield Town             42  28   8   6  97:38   92
+ 3. Birmingham City               42  24   8  10  85:34   80
+ 4. Blackpool                     42  21  10  11  65:47   73
+ 5. Bury                          42  20   8  14  60:44   68
+ 6. Fulham                        42  19   9  14  61:50   66
+ 7. West Ham United               42  19   9  14  47:40   66
+ 8. Hull City                     42  18   6  18  78:72   60
+ 9. Stoke City                    42  18   6  18  60:54   60
+10. South Shields                 42  15  12  15  58:48   57
+11. Bristol City                  42  13  17  12  46:43   56
+12. Barnsley                      42  15  10  17  61:55   55
+13. Leicester City                42  15  10  17  41:61   55
+14. Leyton Orient                 42  16   6  20  51:59   54
+15. Stockport County              42  14   9  19  52:61   51
+16. Rotherham County              42  13   8  21  51:83   47
+17. Port Vale                     34  12   6  16  42:52   42
+18. Nottingham Forest             42  11   9  22  43:73   42
+19. Wolverhampton Wanderers       42  10  10  22  55:80   40
+20. Coventry City                 42   9  11  22  35:73   38
+21. Lincoln City                  42   9   9  24  44:101  36
+22. Grimsby Town                  42  10   5  27  34:75   35
+23. Leeds City                     8   4   2   2  17:10   14
+~~~
+
+(Source: `2-division2.csv`)
+
+

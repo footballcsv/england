@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Manchester United             42  26   9   7  89:39   87
  2. Leeds United                  42  26   9   7  83:52   87
@@ -25,6 +26,36 @@
 20. Fulham                        42  11  12  19  60:78   45
 21. Wolverhampton Wanderers       42  13   4  25  59:89   43
 22. Birmingham City               42   8  11  23  64:96   35
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Newcastle United              42  24   9   9  81:45   81
+ 2. Northampton Town              42  20  16   6  66:50   76
+ 3. Bolton Wanderers              42  20  10  12  80:58   70
+ 4. Norwich City                  42  20   7  15  61:57   67
+ 5. Southampton                   42  17  14  11  83:63   65
+ 6. Ipswich Town                  42  15  17  10  74:67   62
+ 7. Crystal Palace                42  16  13  13  55:51   61
+ 8. Huddersfield Town             42  17  10  15  53:51   61
+ 9. Coventry City                 42  17   9  16  72:70   60
+10. Derby County                  42  16  11  15  84:79   59
+11. Manchester City               42  16   9  17  63:62   57
+12. Plymouth Argyle               42  16   8  18  63:79   56
+13. Preston North End             42  14  13  15  76:81   55
+14. Rotherham United              42  14  12  16  70:69   54
+15. Cardiff City                  42  13  14  15  64:57   53
+16. Bury                          42  14  10  18  60:66   52
+17. Middlesbrough                 42  13   9  20  70:76   48
+18. Charlton Athletic             42  13   9  20  64:75   48
+19. Swindon Town                  42  14   5  23  63:81   47
+20. Leyton Orient                 42  12  11  19  50:72   47
+21. Portsmouth                    42  12  10  20  56:77   46
+22. Swansea City                  42  11  10  21  62:84   43
+~~~
+
+(Source: `2-division2.csv`)
+
+

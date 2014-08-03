@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Burnley                       42  23  13   6  79:36   82
  2. Manchester City               42  24   6  12  70:50   78
@@ -25,6 +26,36 @@
 20. Sheffield United              42   6  18  18  42:68   36
 21. Bradford Park Avenue          42   8   8  26  43:76   32
 22. Derby County                  42   5  16  21  32:58   31
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Birmingham City               42  24  10   8  79:38   82
+ 2. Cardiff City                  42  24  10   8  59:32   82
+ 3. Bristol City                  42  19  13  10  49:29   70
+ 4. Blackpool                     42  20  10  12  54:42   70
+ 5. West Ham United               42  19  10  13  51:30   67
+ 6. Notts County                  42  18  11  13  55:40   65
+ 7. South Shields                 42  17  10  15  61:46   61
+ 8. Leyton Orient                 42  16  13  13  43:42   61
+ 9. Fulham                        42  16  10  16  43:47   58
+10. Sheffield Wednesday           42  15  11  16  48:48   56
+11. Bury                          42  15  10  17  45:49   55
+12. Wolverhampton Wanderers       42  16   6  20  49:66   54
+13. Leeds United                  42  14  10  18  40:45   52
+14. Leicester City                42  12  16  14  39:46   52
+15. Hull City                     42  10  20  12  43:53   50
+16. Nottingham Forest             42  12  12  18  48:55   48
+17. Rotherham County              42  12  12  18  37:53   48
+18. Port Vale                     42  11  14  17  43:49   47
+19. Stoke City                    42  12  11  19  46:56   47
+20. Coventry City                 42  12  11  19  39:70   47
+21. Barnsley                      42  10  16  16  48:50   46
+22. Stockport County              42   9  12  21  42:75   39
+~~~
+
+(Source: `2-division2.csv`)
+
+

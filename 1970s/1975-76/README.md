@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Liverpool                     42  23  14   5  66:31   83
  2. Queens Park Rangers           42  24  11   7  67:33   83
@@ -25,6 +26,36 @@
 20. Wolverhampton Wanderers       42  10  10  22  51:68   40
 21. Burnley                       42   9  10  23  43:66   37
 22. Sheffield United              42   6  10  26  33:82   28
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Sunderland                    42  24   8  10  67:36   80
+ 2. West Bromwich Albion          42  20  13   9  50:33   73
+ 3. Bolton Wanderers              42  20  12  10  64:38   72
+ 4. Bristol City                  42  19  15   8  59:35   72
+ 5. Southampton                   42  21   7  14  66:50   70
+ 6. Notts County                  42  19  11  12  60:41   68
+ 7. Luton Town                    42  19  10  13  61:51   67
+ 8. Nottingham Forest             42  17  12  13  55:40   63
+ 9. Charlton Athletic             42  15  12  15  61:72   57
+10. Blackpool                     42  14  14  14  40:49   56
+11. Fulham                        42  13  14  15  45:47   53
+12. Leyton Orient                 42  13  14  15  37:39   53
+13. Hull City                     42  14  11  17  45:49   53
+14. Chelsea                       42  12  16  14  53:54   52
+15. Plymouth Argyle               42  13  12  17  48:54   51
+16. Oldham Athletic               42  13  12  17  57:68   51
+17. Blackburn Rovers              42  12  14  16  45:50   50
+18. Bristol Rovers                42  11  16  15  38:50   49
+19. Carlisle United               42  12  13  17  45:59   49
+20. Oxford United                 42  11  11  20  39:59   44
+21. York City                     42  10   8  24  39:71   38
+22. Portsmouth                    42   9   7  26  32:61   34
+~~~
+
+(Source: `2-division2.csv`)
+
+

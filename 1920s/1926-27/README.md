@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Newcastle United              42  25   6  11  96:58   81
  2. Sunderland                    42  21   7  14  98:70   70
@@ -25,6 +26,36 @@
 20. Everton                       42  12  10  20  64:90   46
 21. Leeds United                  42  11   8  23  69:88   41
 22. West Bromwich Albion          42  11   8  23  65:86   41
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Middlesbrough                 42  27   8   7 122:60   89
+ 2. Portsmouth                    42  23   8  11  87:49   77
+ 3. Manchester City               42  22  10  10 108:61   76
+ 4. Chelsea                       42  20  12  10  62:52   72
+ 5. Preston North End             42  20   9  13  74:72   69
+ 6. Nottingham Forest             42  18  13  11  79:55   67
+ 7. Hull City                     42  20   7  15  63:52   67
+ 8. Oldham Athletic               42  19   6  17  74:84   63
+ 9. Blackpool                     42  18   8  16  95:80   62
+10. Port Vale                     42  16  13  13  88:78   61
+11. Barnsley                      42  17   9  16  88:87   60
+12. Swansea City                  42  16  11  15  68:72   59
+13. Southampton                   42  15  12  15  60:62   57
+14. Reading                       42  16   8  18  64:72   56
+15. Notts County                  42  15   5  22  70:96   50
+16. Wolverhampton Wanderers       42  14   7  21  73:75   49
+17. Fulham                        42  13   8  21  58:92   47
+18. South Shields                 42  12  10  20  71:95   46
+19. Grimsby Town                  42  11  12  19  74:91   45
+20. Leyton Orient                 42  12   7  23  60:96   43
+21. Darlington                    42  12   6  24  79:98   42
+22. Bradford City                 42   7   9  26  50:88   30
+~~~
+
+(Source: `2-division2.csv`)
+
+

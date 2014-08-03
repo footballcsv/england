@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Portsmouth                    42  25   8   9  84:42   83
  2. Derby County                  42  22   9  11  74:55   75
@@ -25,6 +26,36 @@
 20. Middlesbrough                 42  11  12  19  46:57   45
 21. Preston North End             42  11  11  20  62:75   44
 22. Sheffield United              42  11  11  20  57:78   44
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Fulham                        42  24   9   9  77:37   81
+ 2. West Bromwich Albion          42  24   8  10  69:39   80
+ 3. Southampton                   42  23   9  10  69:36   78
+ 4. Cardiff City                  42  19  13  10  62:47   70
+ 5. Tottenham Hotspur             42  17  16   9  72:44   67
+ 6. West Ham United               42  18  10  14  56:58   64
+ 7. Chesterfield                  42  15  17  10  51:45   62
+ 8. Sheffield Wednesday           42  15  13  14  63:56   58
+ 9. Bury                          42  17   6  19  67:76   57
+10. Grimsby Town                  42  15  10  17  72:76   55
+11. Barnsley                      42  14  12  16  62:61   54
+12. Luton Town                    42  14  12  16  55:57   54
+13. Blackburn Rovers              42  15   8  19  53:63   53
+14. Queens Park Rangers           42  14  11  17  44:62   53
+15. Coventry City                 42  15   7  20  55:64   52
+16. Bradford Park Avenue          42  13  11  18  65:78   50
+17. Nottingham Forest             42  14   7  21  50:54   49
+18. Leeds United                  42  12  13  17  55:63   49
+19. Plymouth Argyle               42  12  12  18  49:64   48
+20. Brentford                     42  11  14  17  42:53   47
+21. Leicester City                42  10  16  16  62:79   46
+22. Lincoln City                  42   8  12  22  53:91   36
+~~~
+
+(Source: `2-division2.csv`)
+
+

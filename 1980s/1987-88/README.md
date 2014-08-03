@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Liverpool                     40  26  12   2  87:24   90
  2. Manchester United             40  23  12   5  71:38   81
@@ -24,6 +25,37 @@
 19. Portsmouth                    40   7  14  19  36:66   35
 20. Watford                       40   7  11  22  27:51   32
 21. Oxford United                 40   6  13  21  44:80   31
-
-(Source: 1-division1.csv)
 ~~~
+
+(Source: `1-division1.csv`)
+
+
+~~~
+ 1. Millwall                      44  25   7  12  72:52   82
+ 2. Aston Villa                   44  22  12  10  68:41   78
+ 3. Middlesbrough                 44  22  12  10  63:36   78
+ 4. Bradford City                 44  22  11  11  74:54   77
+ 5. Blackburn Rovers              44  21  14   9  68:52   77
+ 6. Crystal Palace                44  22   9  13  86:59   75
+ 7. Leeds United                  44  19  12  13  61:51   69
+ 8. Ipswich Town                  44  19   9  16  61:52   66
+ 9. Manchester City               44  19   8  17  80:60   65
+10. Oldham Athletic               44  18  11  15  72:64   65
+11. Stoke City                    44  17  11  16  50:57   62
+12. Swindon Town                  44  16  11  17  73:60   59
+13. Leicester City                44  16  11  17  62:61   59
+14. Barnsley                      44  15  12  17  61:62   57
+15. Hull City                     44  14  15  15  54:60   57
+16. Plymouth Argyle               44  16   8  20  65:67   56
+17. AFC Bournemouth               44  13  10  21  56:68   49
+18. Shrewsbury Town               44  11  16  17  42:54   49
+19. Birmingham City               44  11  15  18  41:66   48
+20. West Bromwich Albion          44  12  11  21  50:69   47
+21. Sheffield United              44  13   7  24  45:74   46
+22. Reading                       44  10  12  22  44:70   42
+23. Huddersfield Town             44   6  10  28  41:100  28
+~~~
+
+(Source: `2-division2.csv`)
+
+
