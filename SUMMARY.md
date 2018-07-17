@@ -1,82 +1,83 @@
 # Summary
 
-25 seasons, 5 levels (1 2 3 4 5), 154 teams in 113 datafiles
+25 seasons, 5 levels (1 2 3 4 5), 153 teams in 113 datafiles
 
 level 1
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
-- 50 teams: Arsenal (25) Aston Villa (23) Barnsley (1) Birmingham (7) Blackburn (17) Blackpool (1) Bolton (13) Bournemouth (3) Bradford (2) Brighton (1) Burnley (4) Cardiff (1) Charlton (8) Chelsea (25) Coventry (8) Crystal Palace (8) Derby (7) Everton (25) Fulham (13) Huddersfield (1) Hull (5) Ipswich (4) Leeds (11) Leicester (12) Liverpool (25) Man City (20) Man United (25) Middlesboro (1) Middlesbrough (13) Newcastle (23) Norwich (7) Nott'm Forest (4) Oldham (1) Portsmouth (7) QPR (6) Reading (3) Sheffield United (2) Sheffield Weds (7) Southampton (18) Stoke (10) Sunderland (16) Swansea (7) Swindon (1) Tottenham (25) Watford (5) West Brom (12) West Ham (22) Wigan (8) Wimbledon (7) Wolves (4) 
-  - 25 seasons: Arsenal, Chelsea, Everton, Liverpool, Man United, Tottenham
-  - 23 seasons: Aston Villa, Newcastle
-  - 22 seasons: West Ham
-  - 20 seasons: Man City
-  - 18 seasons: Southampton
-  - 17 seasons: Blackburn
-  - 16 seasons: Sunderland
-  - 13 seasons: Bolton, Fulham, Middlesbrough
-  - 12 seasons: Leicester, West Brom
-  - 11 seasons: Leeds
-  - 10 seasons: Stoke
-  - 8 seasons: Charlton, Coventry, Crystal Palace, Wigan
-  - 7 seasons: Birmingham, Derby, Norwich, Portsmouth, Sheffield Weds, Swansea, Wimbledon
-  - 6 seasons: QPR
-  - 5 seasons: Hull, Watford
-  - 4 seasons: Burnley, Ipswich, Nott'm Forest, Wolves
-  - 3 seasons: Bournemouth, Reading
-  - 2 seasons: Bradford, Sheffield United
-  - 1 seasons: Barnsley, Blackpool, Brighton, Cardiff, Huddersfield, Middlesboro, Oldham, Swindon
+- 49 teams: AFC Bournemouth (3) Arsenal FC (25) Aston Villa FC (23) Barnsley FC (1) Birmingham City FC (7) Blackburn Rovers FC (17) Blackpool FC (1) Bolton Wanderers FC (13) Bradford City AFC (2) Brighton & Hove Albion FC (1) Burnley FC (4) Cardiff City FC (1) Charlton Athletic FC (8) Chelsea FC (25) Coventry City FC (8) Crystal Palace FC (8) Derby County FC (7) Everton FC (25) Fulham FC (13) Huddersfield Town AFC (1) Hull City AFC (5) Ipswich Town FC (4) Leeds United FC (11) Leicester City FC (12) Liverpool FC (25) Manchester City FC (20) Manchester United FC (25) Middlesbrough FC (14) Newcastle United FC (23) Norwich City FC (7) Nottingham Forest FC (4) Oldham Athletic AFC (1) Portsmouth FC (7) Queens Park Rangers FC (6) Reading FC (3) Sheffield United FC (2) Sheffield Wednesday FC (7) Southampton FC (18) Stoke City FC (10) Sunderland AFC (16) Swansea City AFC (7) Swindon Town FC (1) Tottenham Hotspur FC (25) Watford FC (5) West Bromwich Albion FC (12) West Ham United FC (22) Wigan Athletic FC (8) Wimbledon FC (7) Wolverhampton Wanderers FC (4) 
+  - 25 seasons: Arsenal FC, Chelsea FC, Everton FC, Liverpool FC, Manchester United FC, Tottenham Hotspur FC
+  - 23 seasons: Aston Villa FC, Newcastle United FC
+  - 22 seasons: West Ham United FC
+  - 20 seasons: Manchester City FC
+  - 18 seasons: Southampton FC
+  - 17 seasons: Blackburn Rovers FC
+  - 16 seasons: Sunderland AFC
+  - 14 seasons: Middlesbrough FC
+  - 13 seasons: Bolton Wanderers FC, Fulham FC
+  - 12 seasons: Leicester City FC, West Bromwich Albion FC
+  - 11 seasons: Leeds United FC
+  - 10 seasons: Stoke City FC
+  - 8 seasons: Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Wigan Athletic FC
+  - 7 seasons: Birmingham City FC, Derby County FC, Norwich City FC, Portsmouth FC, Sheffield Wednesday FC, Swansea City AFC, Wimbledon FC
+  - 6 seasons: Queens Park Rangers FC
+  - 5 seasons: Hull City AFC, Watford FC
+  - 4 seasons: Burnley FC, Ipswich Town FC, Nottingham Forest FC, Wolverhampton Wanderers FC
+  - 3 seasons: AFC Bournemouth, Reading FC
+  - 2 seasons: Bradford City AFC, Sheffield United FC
+  - 1 seasons: Barnsley FC, Blackpool FC, Brighton & Hove Albion FC, Cardiff City FC, Huddersfield Town AFC, Oldham Athletic AFC, Swindon Town FC
 
 
 level 2
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
-- 68 teams: Aston Villa (2) Barnsley (18) Birmingham (17) Blackburn (7) Blackpool (7) Bolton (11) Bournemouth (2) Bradford (6) Brentford (4) Brighton (9) Bristol City (12) Burnley (15) Burton (2) Bury (2) Cardiff (14) Charlton (12) Colchester (2) Coventry (11) Crewe (8) Crystal Palace (17) Derby (18) Doncaster (5) Fulham (6) Gillingham (5) Grimsby (9) Huddersfield (11) Hull (8) Ipswich (21) Leeds (11) Leicester (12) Luton (5) Man City (4) Middlesbrough (11) Millwall (14) Milton Keynes Dons (1) Newcastle (2) Norwich (17) Nott'm Forest (18) Notts County (2) Oldham (3) Oxford (4) Peterboro (4) Plymouth (6) Port Vale (6) Portsmouth (12) Preston (14) QPR (16) Reading (17) Rotherham (7) Scunthorpe (3) Sheffield United (17) Sheffield Weds (14) Southampton (5) Southend (5) Stockport (5) Stoke (11) Sunderland (9) Swansea (3) Swindon (5) Tranmere (8) Walsall (4) Watford (18) West Brom (13) West Ham (3) Wigan (5) Wimbledon (4) Wolves (20) Yeovil (1) 
-  - 21 seasons: Ipswich
-  - 20 seasons: Wolves
-  - 18 seasons: Barnsley, Derby, Nott'm Forest, Watford
-  - 17 seasons: Birmingham, Crystal Palace, Norwich, Reading, Sheffield United
-  - 16 seasons: QPR
-  - 15 seasons: Burnley
-  - 14 seasons: Cardiff, Millwall, Preston, Sheffield Weds
-  - 13 seasons: West Brom
-  - 12 seasons: Bristol City, Charlton, Leicester, Portsmouth
-  - 11 seasons: Bolton, Coventry, Huddersfield, Leeds, Middlesbrough, Stoke
-  - 9 seasons: Brighton, Grimsby, Sunderland
-  - 8 seasons: Crewe, Hull, Tranmere
-  - 7 seasons: Blackburn, Blackpool, Rotherham
-  - 6 seasons: Bradford, Fulham, Plymouth, Port Vale
-  - 5 seasons: Doncaster, Gillingham, Luton, Southampton, Southend, Stockport, Swindon, Wigan
-  - 4 seasons: Brentford, Man City, Oxford, Peterboro, Walsall, Wimbledon
-  - 3 seasons: Oldham, Scunthorpe, Swansea, West Ham
-  - 2 seasons: Aston Villa, Bournemouth, Burton, Bury, Colchester, Newcastle, Notts County
+- 68 teams: AFC Bournemouth (2) Aston Villa FC (2) Barnsley FC (18) Birmingham City FC (17) Blackburn Rovers FC (7) Blackpool FC (7) Bolton Wanderers FC (11) Bradford City AFC (6) Brentford (4) Brighton & Hove Albion FC (9) Bristol City (12) Burnley FC (15) Burton (2) Bury (2) Cardiff City FC (14) Charlton Athletic FC (12) Colchester (2) Coventry City FC (11) Crewe (8) Crystal Palace FC (17) Derby County FC (18) Doncaster (5) Fulham FC (6) Gillingham (5) Grimsby (9) Huddersfield Town AFC (11) Hull City AFC (8) Ipswich Town FC (21) Leeds United FC (11) Leicester City FC (12) Luton (5) Manchester City FC (4) Middlesbrough FC (11) Millwall (14) Milton Keynes Dons (1) Newcastle United FC (2) Norwich City FC (17) Nottingham Forest FC (18) Notts County (2) Oldham Athletic AFC (3) Oxford (4) Peterboro (4) Plymouth (6) Port Vale (6) Portsmouth FC (12) Preston (14) Queens Park Rangers FC (16) Reading FC (17) Rotherham (7) Scunthorpe (3) Sheffield United FC (17) Sheffield Wednesday FC (14) Southampton FC (5) Southend (5) Stockport (5) Stoke City FC (11) Sunderland AFC (9) Swansea City AFC (3) Swindon Town FC (5) Tranmere (8) Walsall (4) Watford FC (18) West Bromwich Albion FC (13) West Ham United FC (3) Wigan Athletic FC (5) Wimbledon FC (4) Wolverhampton Wanderers FC (20) Yeovil (1) 
+  - 21 seasons: Ipswich Town FC
+  - 20 seasons: Wolverhampton Wanderers FC
+  - 18 seasons: Barnsley FC, Derby County FC, Nottingham Forest FC, Watford FC
+  - 17 seasons: Birmingham City FC, Crystal Palace FC, Norwich City FC, Reading FC, Sheffield United FC
+  - 16 seasons: Queens Park Rangers FC
+  - 15 seasons: Burnley FC
+  - 14 seasons: Cardiff City FC, Millwall, Preston, Sheffield Wednesday FC
+  - 13 seasons: West Bromwich Albion FC
+  - 12 seasons: Bristol City, Charlton Athletic FC, Leicester City FC, Portsmouth FC
+  - 11 seasons: Bolton Wanderers FC, Coventry City FC, Huddersfield Town AFC, Leeds United FC, Middlesbrough FC, Stoke City FC
+  - 9 seasons: Brighton & Hove Albion FC, Grimsby, Sunderland AFC
+  - 8 seasons: Crewe, Hull City AFC, Tranmere
+  - 7 seasons: Blackburn Rovers FC, Blackpool FC, Rotherham
+  - 6 seasons: Bradford City AFC, Fulham FC, Plymouth, Port Vale
+  - 5 seasons: Doncaster, Gillingham, Luton, Southampton FC, Southend, Stockport, Swindon Town FC, Wigan Athletic FC
+  - 4 seasons: Brentford, Manchester City FC, Oxford, Peterboro, Walsall, Wimbledon FC
+  - 3 seasons: Oldham Athletic AFC, Scunthorpe, Swansea City AFC, West Ham United FC
+  - 2 seasons: AFC Bournemouth, Aston Villa FC, Burton, Bury, Colchester, Newcastle United FC, Notts County
   - 1 seasons: Milton Keynes Dons, Yeovil
 
 
 level 3
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
-- 85 teams: AFC Wimbledon (2) Barnet (1) Barnsley (6) Birmingham (1) Blackburn (1) Blackpool (15) Bolton (1) Bournemouth (17) Bradford (11) Brentford (18) Brighton (10) Bristol City (13) Bristol Rvs (14) Burnley (6) Burton (1) Bury (9) Cambridge (5) Cardiff (5) Carlisle (10) Charlton (5) Cheltenham (4) Chester (1) Chesterfield (15) Colchester (16) Coventry (5) Crawley Town (3) Crewe (11) Dag and Red (1) Doncaster (8) Exeter (4) Fleetwood Town (4) Fulham (3) Gillingham (13) Grimsby (2) Hartlepool (10) Hereford (1) Huddersfield (12) Hull (4) Leeds (3) Leicester (1) Leyton Orient (11) Lincoln (1) Luton (9) Macclesfield (1) Man City (1) Mansfield (1) Millwall (11) Milton Keynes Dons (11) Northampton (10) Norwich (1) Nott'm Forest (3) Notts County (13) Oldham (21) Oxford (6) Peterboro (15) Plymouth (8) Port Vale (13) Portsmouth (2) Preston (8) QPR (3) Reading (5) Rochdale (6) Rotherham (9) Rushden & D (1) Scunthorpe (10) Sheffield United (6) Sheffield Weds (4) Shrewsbury (8) Southampton (2) Southend (8) Stevenage (3) Stockport (9) Stoke (4) Swansea (7) Swindon (16) Torquay (1) Tranmere (13) Walsall (18) Watford (2) Wigan (8) Wolves (1) Wrexham (11) Wycombe (12) Yeovil (9) York (6) 
-  - 21 seasons: Oldham
+- 85 teams: AFC Bournemouth (17) AFC Wimbledon (2) Barnet (1) Barnsley FC (6) Birmingham City FC (1) Blackburn Rovers FC (1) Blackpool FC (15) Bolton Wanderers FC (1) Bradford City AFC (11) Brentford (18) Brighton & Hove Albion FC (10) Bristol City (13) Bristol Rvs (14) Burnley FC (6) Burton (1) Bury (9) Cambridge (5) Cardiff City FC (5) Carlisle (10) Charlton Athletic FC (5) Cheltenham (4) Chester (1) Chesterfield (15) Colchester (16) Coventry City FC (5) Crawley Town (3) Crewe (11) Dag and Red (1) Doncaster (8) Exeter (4) Fleetwood Town (4) Fulham FC (3) Gillingham (13) Grimsby (2) Hartlepool (10) Hereford (1) Huddersfield Town AFC (12) Hull City AFC (4) Leeds United FC (3) Leicester City FC (1) Leyton Orient (11) Lincoln (1) Luton (9) Macclesfield (1) Manchester City FC (1) Mansfield (1) Millwall (11) Milton Keynes Dons (11) Northampton (10) Norwich City FC (1) Nottingham Forest FC (3) Notts County (13) Oldham Athletic AFC (21) Oxford (6) Peterboro (15) Plymouth (8) Port Vale (13) Portsmouth FC (2) Preston (8) Queens Park Rangers FC (3) Reading FC (5) Rochdale (6) Rotherham (9) Rushden & D (1) Scunthorpe (10) Sheffield United FC (6) Sheffield Wednesday FC (4) Shrewsbury (8) Southampton FC (2) Southend (8) Stevenage (3) Stockport (9) Stoke City FC (4) Swansea City AFC (7) Swindon Town FC (16) Torquay (1) Tranmere (13) Walsall (18) Watford FC (2) Wigan Athletic FC (8) Wolverhampton Wanderers FC (1) Wrexham (11) Wycombe (12) Yeovil (9) York (6) 
+  - 21 seasons: Oldham Athletic AFC
   - 18 seasons: Brentford, Walsall
-  - 17 seasons: Bournemouth
-  - 16 seasons: Colchester, Swindon
-  - 15 seasons: Blackpool, Chesterfield, Peterboro
+  - 17 seasons: AFC Bournemouth
+  - 16 seasons: Colchester, Swindon Town FC
+  - 15 seasons: Blackpool FC, Chesterfield, Peterboro
   - 14 seasons: Bristol Rvs
   - 13 seasons: Bristol City, Gillingham, Notts County, Port Vale, Tranmere
-  - 12 seasons: Huddersfield, Wycombe
-  - 11 seasons: Bradford, Crewe, Leyton Orient, Millwall, Milton Keynes Dons, Wrexham
-  - 10 seasons: Brighton, Carlisle, Hartlepool, Northampton, Scunthorpe
+  - 12 seasons: Huddersfield Town AFC, Wycombe
+  - 11 seasons: Bradford City AFC, Crewe, Leyton Orient, Millwall, Milton Keynes Dons, Wrexham
+  - 10 seasons: Brighton & Hove Albion FC, Carlisle, Hartlepool, Northampton, Scunthorpe
   - 9 seasons: Bury, Luton, Rotherham, Stockport, Yeovil
-  - 8 seasons: Doncaster, Plymouth, Preston, Shrewsbury, Southend, Wigan
-  - 7 seasons: Swansea
-  - 6 seasons: Barnsley, Burnley, Oxford, Rochdale, Sheffield United, York
-  - 5 seasons: Cambridge, Cardiff, Charlton, Coventry, Reading
-  - 4 seasons: Cheltenham, Exeter, Fleetwood Town, Hull, Sheffield Weds, Stoke
-  - 3 seasons: Crawley Town, Fulham, Leeds, Nott'm Forest, QPR, Stevenage
-  - 2 seasons: AFC Wimbledon, Grimsby, Portsmouth, Southampton, Watford
-  - 1 seasons: Barnet, Birmingham, Blackburn, Bolton, Burton, Chester, Dag and Red, Hereford, Leicester, Lincoln, Macclesfield, Man City, Mansfield, Norwich, Rushden & D, Torquay, Wolves
+  - 8 seasons: Doncaster, Plymouth, Preston, Shrewsbury, Southend, Wigan Athletic FC
+  - 7 seasons: Swansea City AFC
+  - 6 seasons: Barnsley FC, Burnley FC, Oxford, Rochdale, Sheffield United FC, York
+  - 5 seasons: Cambridge, Cardiff City FC, Charlton Athletic FC, Coventry City FC, Reading FC
+  - 4 seasons: Cheltenham, Exeter, Fleetwood Town, Hull City AFC, Sheffield Wednesday FC, Stoke City FC
+  - 3 seasons: Crawley Town, Fulham FC, Leeds United FC, Nottingham Forest FC, Queens Park Rangers FC, Stevenage
+  - 2 seasons: AFC Wimbledon, Grimsby, Portsmouth FC, Southampton FC, Watford FC
+  - 1 seasons: Barnet, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burton, Chester, Dag and Red, Hereford, Leicester City FC, Lincoln, Macclesfield, Manchester City FC, Mansfield, Norwich City FC, Rushden & D, Torquay, Wolverhampton Wanderers FC
 
 
 level 4
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
-- 73 teams: AFC Wimbledon (5) Accrington (12) Aldershot (5) Barnet (18) Blackpool (2) Boston (5) Bournemouth (3) Bradford (6) Brentford (3) Brighton (5) Bristol Rvs (10) Burton (6) Bury (14) Cambridge (11) Cardiff (5) Carlisle (14) Cheltenham (14) Chester (11) Chesterfield (10) Colchester (7) Coventry (1) Crawley Town (4) Crewe (6) Dag and Red (8) Darlington (17) Doncaster (7) Exeter (16) Fleetwood Town (2) Forest Green (1) Fulham (3) Gillingham (7) Grimsby (8) Halifax (4) Hartlepool (14) Hereford (9) Huddersfield (1) Hull (8) Kidderminster (5) Leyton Orient (13) Lincoln (18) Luton (6) Macclesfield (14) Mansfield (19) Milton Keynes Dons (2) Morecambe (11) Newport County (5) Northampton (15) Notts County (10) Oxford (11) Peterboro (6) Plymouth (11) Port Vale (6) Portsmouth (4) Preston (3) Rochdale (19) Rotherham (9) Rushden & D (4) Scarborough (6) Scunthorpe (12) Shrewsbury (16) Southend (12) Stevenage (5) Stockport (4) Swansea (8) Swindon (3) Torquay (18) Tranmere (1) Walsall (3) Wigan (4) Wrexham (4) Wycombe (13) Yeovil (5) York (9) 
+- 73 teams: AFC Bournemouth (3) AFC Wimbledon (5) Accrington (12) Aldershot (5) Barnet (18) Blackpool FC (2) Boston (5) Bradford City AFC (6) Brentford (3) Brighton & Hove Albion FC (5) Bristol Rvs (10) Burton (6) Bury (14) Cambridge (11) Cardiff City FC (5) Carlisle (14) Cheltenham (14) Chester (11) Chesterfield (10) Colchester (7) Coventry City FC (1) Crawley Town (4) Crewe (6) Dag and Red (8) Darlington (17) Doncaster (7) Exeter (16) Fleetwood Town (2) Forest Green (1) Fulham FC (3) Gillingham (7) Grimsby (8) Halifax (4) Hartlepool (14) Hereford (9) Huddersfield Town AFC (1) Hull City AFC (8) Kidderminster (5) Leyton Orient (13) Lincoln (18) Luton (6) Macclesfield (14) Mansfield (19) Milton Keynes Dons (2) Morecambe (11) Newport County (5) Northampton (15) Notts County (10) Oxford (11) Peterboro (6) Plymouth (11) Port Vale (6) Portsmouth FC (4) Preston (3) Rochdale (19) Rotherham (9) Rushden & D (4) Scarborough (6) Scunthorpe (12) Shrewsbury (16) Southend (12) Stevenage (5) Stockport (4) Swansea City AFC (8) Swindon Town FC (3) Torquay (18) Tranmere (1) Walsall (3) Wigan Athletic FC (4) Wrexham (4) Wycombe (13) Yeovil (5) York (9) 
   - 19 seasons: Mansfield, Rochdale
   - 18 seasons: Barnet, Lincoln, Torquay
   - 17 seasons: Darlington
@@ -88,14 +89,14 @@ level 4
   - 11 seasons: Cambridge, Chester, Morecambe, Oxford, Plymouth
   - 10 seasons: Bristol Rvs, Chesterfield, Notts County
   - 9 seasons: Hereford, Rotherham, York
-  - 8 seasons: Dag and Red, Grimsby, Hull, Swansea
+  - 8 seasons: Dag and Red, Grimsby, Hull City AFC, Swansea City AFC
   - 7 seasons: Colchester, Doncaster, Gillingham
-  - 6 seasons: Bradford, Burton, Crewe, Luton, Peterboro, Port Vale, Scarborough
-  - 5 seasons: AFC Wimbledon, Aldershot, Boston, Brighton, Cardiff, Kidderminster, Newport County, Stevenage, Yeovil
-  - 4 seasons: Crawley Town, Halifax, Portsmouth, Rushden & D, Stockport, Wigan, Wrexham
-  - 3 seasons: Bournemouth, Brentford, Fulham, Preston, Swindon, Walsall
-  - 2 seasons: Blackpool, Fleetwood Town, Milton Keynes Dons
-  - 1 seasons: Coventry, Forest Green, Huddersfield, Tranmere
+  - 6 seasons: Bradford City AFC, Burton, Crewe, Luton, Peterboro, Port Vale, Scarborough
+  - 5 seasons: AFC Wimbledon, Aldershot, Boston, Brighton & Hove Albion FC, Cardiff City FC, Kidderminster, Newport County, Stevenage, Yeovil
+  - 4 seasons: Crawley Town, Halifax, Portsmouth FC, Rushden & D, Stockport, Wigan Athletic FC, Wrexham
+  - 3 seasons: AFC Bournemouth, Brentford, Fulham FC, Preston, Swindon Town FC, Walsall
+  - 2 seasons: Blackpool FC, Fleetwood Town, Milton Keynes Dons
+  - 1 seasons: Coventry City FC, Forest Green, Huddersfield Town AFC, Tranmere
 
 
 level 5
@@ -245,24 +246,24 @@ level 5 - 13 seasons:
 
 2017-18 - 5 levels (1 2 3 4 5)
   - 1: [`2017-18/1-premierleague.csv`](2017-18/1-premierleague.csv) -  20 teams,  380 matches,  1018 goals,  38 rounds,  Fri 11 Aug 2017 - Sun 13 May 2018
-    - Arsenal, Bournemouth, Brighton, Burnley, Chelsea, Crystal Palace, Everton, Huddersfield, Leicester, Liverpool, Man City, Man United, Newcastle, Southampton, Stoke, Swansea, Tottenham, Watford, West Brom, West Ham
-      - (++) new in season 2017-18: (3) Brighton, Huddersfield, Newcastle
-      - (--) out down: (3) Hull, Middlesbrough, Sunderland
+    - AFC Bournemouth, Arsenal FC, Brighton & Hove Albion FC, Burnley FC, Chelsea FC, Crystal Palace FC, Everton FC, Huddersfield Town AFC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Southampton FC, Stoke City FC, Swansea City AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2017-18: (3) Brighton & Hove Albion FC, Huddersfield Town AFC, Newcastle United FC
+      - (--) out down: (3) Hull City AFC, Middlesbrough FC, Sunderland AFC
 
   - 2: [`2017-18/2-championship.csv`](2017-18/2-championship.csv) -  24 teams,  552 matches,  1409 goals,  46 rounds,  Fri 4 Aug 2017 - Sun 6 May 2018
-    - Aston Villa, Barnsley, Birmingham, Bolton, Brentford, Bristol City, Burton, Cardiff, Derby, Fulham, Hull, Ipswich, Leeds, Middlesbrough, Millwall, Norwich, Nott'm Forest, Preston, QPR, Reading, Sheffield United, Sheffield Weds, Sunderland, Wolves
-      - (++) new in season 2017-18: (6) Bolton, Hull, Middlesbrough, Millwall, Sheffield United, Sunderland
-      - (--) out up/down: (6) Blackburn, Brighton, Huddersfield, Newcastle, Rotherham, Wigan
+    - Aston Villa FC, Barnsley FC, Birmingham City FC, Bolton Wanderers FC, Brentford, Bristol City, Burton, Cardiff City FC, Derby County FC, Fulham FC, Hull City AFC, Ipswich Town FC, Leeds United FC, Middlesbrough FC, Millwall, Norwich City FC, Nottingham Forest FC, Preston, Queens Park Rangers FC, Reading FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 2017-18: (6) Bolton Wanderers FC, Hull City AFC, Middlesbrough FC, Millwall, Sheffield United FC, Sunderland AFC
+      - (--) out up/down: (6) Blackburn Rovers FC, Brighton & Hove Albion FC, Huddersfield Town AFC, Newcastle United FC, Rotherham, Wigan Athletic FC
 
   - 3: [`2017-18/3-league1.csv`](2017-18/3-league1.csv) -  24 teams,  552 matches,  1401 goals,  46 rounds,  Sat 5 Aug 2017 - Sat 5 May 2018
-    - AFC Wimbledon, Blackburn, Blackpool, Bradford, Bristol Rvs, Bury, Charlton, Doncaster, Fleetwood Town, Gillingham, Milton Keynes Dons, Northampton, Oldham, Oxford, Peterboro, Plymouth, Portsmouth, Rochdale, Rotherham, Scunthorpe, Shrewsbury, Southend, Walsall, Wigan
-      - (++) new in season 2017-18: (7) Blackburn, Blackpool, Doncaster, Plymouth, Portsmouth, Rotherham, Wigan
-      - (--) out up/down: (7) Bolton, Chesterfield, Coventry, Millwall, Port Vale, Sheffield United, Swindon
+    - AFC Wimbledon, Blackburn Rovers FC, Blackpool FC, Bradford City AFC, Bristol Rvs, Bury, Charlton Athletic FC, Doncaster, Fleetwood Town, Gillingham, Milton Keynes Dons, Northampton, Oldham Athletic AFC, Oxford, Peterboro, Plymouth, Portsmouth FC, Rochdale, Rotherham, Scunthorpe, Shrewsbury, Southend, Walsall, Wigan Athletic FC
+      - (++) new in season 2017-18: (7) Blackburn Rovers FC, Blackpool FC, Doncaster, Plymouth, Portsmouth FC, Rotherham, Wigan Athletic FC
+      - (--) out up/down: (7) Bolton Wanderers FC, Chesterfield, Coventry City FC, Millwall, Port Vale, Sheffield United FC, Swindon Town FC
 
   - 4: [`2017-18/4-league2.csv`](2017-18/4-league2.csv) -  24 teams,  552 matches,  1458 goals,  46 rounds,  Sat 5 Aug 2017 - Sat 5 May 2018
-    - Accrington, Barnet, Cambridge, Carlisle, Cheltenham, Chesterfield, Colchester, Coventry, Crawley Town, Crewe, Exeter, Forest Green, Grimsby, Lincoln, Luton, Mansfield, Morecambe, Newport County, Notts County, Port Vale, Stevenage, Swindon, Wycombe, Yeovil
-      - (++) new in season 2017-18: (6) Chesterfield, Coventry, Forest Green, Lincoln, Port Vale, Swindon
-      - (--) out up/down: (6) Blackpool, Doncaster, Hartlepool, Leyton Orient, Plymouth, Portsmouth
+    - Accrington, Barnet, Cambridge, Carlisle, Cheltenham, Chesterfield, Colchester, Coventry City FC, Crawley Town, Crewe, Exeter, Forest Green, Grimsby, Lincoln, Luton, Mansfield, Morecambe, Newport County, Notts County, Port Vale, Stevenage, Swindon Town FC, Wycombe, Yeovil
+      - (++) new in season 2017-18: (6) Chesterfield, Coventry City FC, Forest Green, Lincoln, Port Vale, Swindon Town FC
+      - (--) out up/down: (6) Blackpool FC, Doncaster, Hartlepool, Leyton Orient, Plymouth, Portsmouth FC
 
   - 5: [`2017-18/5-conference.csv`](2017-18/5-conference.csv) -  24 teams,  552 matches,  1430 goals,  46 rounds,  Sat 5 Aug 2017 - Sat 28 Apr 2018
     - Aldershot, Barrow, Boreham Wood, Bromley, Chester, Dag and Red, Dover Athletic, Eastleigh, Ebbsfleet, Fylde, Gateshead, Guiseley, Halifax, Hartlepool, Leyton Orient, Macclesfield, Maidenhead, Maidstone, Solihull, Sutton, Torquay, Tranmere, Woking, Wrexham
@@ -271,23 +272,23 @@ level 5 - 13 seasons:
 
 2016-17 - 5 levels (1 2 3 4 5)
   - 1: [`2016-17/1-premierleague.csv`](2016-17/1-premierleague.csv) -  20 teams,  380 matches,  1064 goals,  38 rounds,  Sat 13 Aug 2016 - Sun 21 May 2017
-    - Arsenal, Bournemouth, Burnley, Chelsea, Crystal Palace, Everton, Hull, Leicester, Liverpool, Man City, Man United, Middlesbrough, Southampton, Stoke, Sunderland, Swansea, Tottenham, Watford, West Brom, West Ham
-      - (++) new in season 2016-17: (3) Burnley, Hull, Middlesbrough
-      - (--) out down: (3) Aston Villa, Newcastle, Norwich
+    - AFC Bournemouth, Arsenal FC, Burnley FC, Chelsea FC, Crystal Palace FC, Everton FC, Hull City AFC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2016-17: (3) Burnley FC, Hull City AFC, Middlesbrough FC
+      - (--) out down: (3) Aston Villa FC, Newcastle United FC, Norwich City FC
 
   - 2: [`2016-17/2-championship.csv`](2016-17/2-championship.csv) -  24 teams,  552 matches,  1441 goals,  46 rounds,  Fri 5 Aug 2016 - Sun 7 May 2017
-    - Aston Villa, Barnsley, Birmingham, Blackburn, Brentford, Brighton, Bristol City, Burton, Cardiff, Derby, Fulham, Huddersfield, Ipswich, Leeds, Newcastle, Norwich, Nott'm Forest, Preston, QPR, Reading, Rotherham, Sheffield Weds, Wigan, Wolves
-      - (++) new in season 2016-17: (6) Aston Villa, Barnsley, Burton, Newcastle, Norwich, Wigan
-      - (--) out up/down: (6) Bolton, Burnley, Charlton, Hull, Middlesbrough, Milton Keynes Dons
+    - Aston Villa FC, Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Brentford, Brighton & Hove Albion FC, Bristol City, Burton, Cardiff City FC, Derby County FC, Fulham FC, Huddersfield Town AFC, Ipswich Town FC, Leeds United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Preston, Queens Park Rangers FC, Reading FC, Rotherham, Sheffield Wednesday FC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 2016-17: (6) Aston Villa FC, Barnsley FC, Burton, Newcastle United FC, Norwich City FC, Wigan Athletic FC
+      - (--) out up/down: (6) Bolton Wanderers FC, Burnley FC, Charlton Athletic FC, Hull City AFC, Middlesbrough FC, Milton Keynes Dons
 
   - 3: [`2016-17/3-league1.csv`](2016-17/3-league1.csv) -  24 teams,  552 matches,  1417 goals,  46 rounds,  Sat 6 Aug 2016 - Sun 30 Apr 2017
-    - AFC Wimbledon, Bolton, Bradford, Bristol Rvs, Bury, Charlton, Chesterfield, Coventry, Fleetwood Town, Gillingham, Millwall, Milton Keynes Dons, Northampton, Oldham, Oxford, Peterboro, Port Vale, Rochdale, Scunthorpe, Sheffield United, Shrewsbury, Southend, Swindon, Walsall
-      - (++) new in season 2016-17: (7) AFC Wimbledon, Bolton, Bristol Rvs, Charlton, Milton Keynes Dons, Northampton, Oxford
-      - (--) out up/down: (7) Barnsley, Blackpool, Burton, Colchester, Crewe, Doncaster, Wigan
+    - AFC Wimbledon, Bolton Wanderers FC, Bradford City AFC, Bristol Rvs, Bury, Charlton Athletic FC, Chesterfield, Coventry City FC, Fleetwood Town, Gillingham, Millwall, Milton Keynes Dons, Northampton, Oldham Athletic AFC, Oxford, Peterboro, Port Vale, Rochdale, Scunthorpe, Sheffield United FC, Shrewsbury, Southend, Swindon Town FC, Walsall
+      - (++) new in season 2016-17: (7) AFC Wimbledon, Bolton Wanderers FC, Bristol Rvs, Charlton Athletic FC, Milton Keynes Dons, Northampton, Oxford
+      - (--) out up/down: (7) Barnsley FC, Blackpool FC, Burton, Colchester, Crewe, Doncaster, Wigan Athletic FC
 
   - 4: [`2016-17/4-league2.csv`](2016-17/4-league2.csv) -  24 teams,  552 matches,  1465 goals,  46 rounds,  Sat 6 Aug 2016 - Sat 6 May 2017
-    - Accrington, Barnet, Blackpool, Cambridge, Carlisle, Cheltenham, Colchester, Crawley Town, Crewe, Doncaster, Exeter, Grimsby, Hartlepool, Leyton Orient, Luton, Mansfield, Morecambe, Newport County, Notts County, Plymouth, Portsmouth, Stevenage, Wycombe, Yeovil
-      - (++) new in season 2016-17: (6) Blackpool, Cheltenham, Colchester, Crewe, Doncaster, Grimsby
+    - Accrington, Barnet, Blackpool FC, Cambridge, Carlisle, Cheltenham, Colchester, Crawley Town, Crewe, Doncaster, Exeter, Grimsby, Hartlepool, Leyton Orient, Luton, Mansfield, Morecambe, Newport County, Notts County, Plymouth, Portsmouth FC, Stevenage, Wycombe, Yeovil
+      - (++) new in season 2016-17: (6) Blackpool FC, Cheltenham, Colchester, Crewe, Doncaster, Grimsby
       - (--) out up/down: (6) AFC Wimbledon, Bristol Rvs, Dag and Red, Northampton, Oxford, York
 
   - 5: [`2016-17/5-conference.csv`](2016-17/5-conference.csv) -  24 teams,  552 matches,  1504 goals,  46 rounds,  Sat 6 Aug 2016 - Sat 29 Apr 2017
@@ -297,22 +298,22 @@ level 5 - 13 seasons:
 
 2015-16 - 5 levels (1 2 3 4 5)
   - 1: [`2015-16/1-premierleague.csv`](2015-16/1-premierleague.csv) -  20 teams,  380 matches,  1026 goals,  38 rounds,  Sat 8 Aug 2015 - Tue 17 May 2016
-    - Arsenal, Aston Villa, Bournemouth, Chelsea, Crystal Palace, Everton, Leicester, Liverpool, Man City, Man United, Newcastle, Norwich, Southampton, Stoke, Sunderland, Swansea, Tottenham, Watford, West Brom, West Ham
-      - (++) new in season 2015-16: (3) Bournemouth, Norwich, Watford
-      - (--) out down: (3) Burnley, Hull, QPR
+    - AFC Bournemouth, Arsenal FC, Aston Villa FC, Chelsea FC, Crystal Palace FC, Everton FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2015-16: (3) AFC Bournemouth, Norwich City FC, Watford FC
+      - (--) out down: (3) Burnley FC, Hull City AFC, Queens Park Rangers FC
 
   - 2: [`2015-16/2-championship.csv`](2015-16/2-championship.csv) -  24 teams,  552 matches,  1337 goals,  46 rounds,  Fri 7 Aug 2015 - Sat 7 May 2016
-    - Birmingham, Blackburn, Bolton, Brentford, Brighton, Bristol City, Burnley, Cardiff, Charlton, Derby, Fulham, Huddersfield, Hull, Ipswich, Leeds, Middlesbrough, Milton Keynes Dons, Nott'm Forest, Preston, QPR, Reading, Rotherham, Sheffield Weds, Wolves
-      - (++) new in season 2015-16: (6) Bristol City, Burnley, Hull, Milton Keynes Dons, Preston, QPR
-      - (--) out up/down: (6) Blackpool, Bournemouth, Millwall, Norwich, Watford, Wigan
+    - Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Brentford, Brighton & Hove Albion FC, Bristol City, Burnley FC, Cardiff City FC, Charlton Athletic FC, Derby County FC, Fulham FC, Huddersfield Town AFC, Hull City AFC, Ipswich Town FC, Leeds United FC, Middlesbrough FC, Milton Keynes Dons, Nottingham Forest FC, Preston, Queens Park Rangers FC, Reading FC, Rotherham, Sheffield Wednesday FC, Wolverhampton Wanderers FC
+      - (++) new in season 2015-16: (6) Bristol City, Burnley FC, Hull City AFC, Milton Keynes Dons, Preston, Queens Park Rangers FC
+      - (--) out up/down: (6) AFC Bournemouth, Blackpool FC, Millwall, Norwich City FC, Watford FC, Wigan Athletic FC
 
   - 3: [`2015-16/3-league1.csv`](2015-16/3-league1.csv) -  24 teams,  552 matches,  1457 goals,  46 rounds,  Sat 8 Aug 2015 - Sun 8 May 2016
-    - Barnsley, Blackpool, Bradford, Burton, Bury, Chesterfield, Colchester, Coventry, Crewe, Doncaster, Fleetwood Town, Gillingham, Millwall, Oldham, Peterboro, Port Vale, Rochdale, Scunthorpe, Sheffield United, Shrewsbury, Southend, Swindon, Walsall, Wigan
-      - (++) new in season 2015-16: (7) Blackpool, Burton, Bury, Millwall, Shrewsbury, Southend, Wigan
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Burton, Bury, Chesterfield, Colchester, Coventry City FC, Crewe, Doncaster, Fleetwood Town, Gillingham, Millwall, Oldham Athletic AFC, Peterboro, Port Vale, Rochdale, Scunthorpe, Sheffield United FC, Shrewsbury, Southend, Swindon Town FC, Walsall, Wigan Athletic FC
+      - (++) new in season 2015-16: (7) Blackpool FC, Burton, Bury, Millwall, Shrewsbury, Southend, Wigan Athletic FC
       - (--) out up/down: (7) Bristol City, Crawley Town, Leyton Orient, Milton Keynes Dons, Notts County, Preston, Yeovil
 
   - 4: [`2015-16/4-league2.csv`](2015-16/4-league2.csv) -  24 teams,  552 matches,  1472 goals,  46 rounds,  Sat 8 Aug 2015 - Sat 7 May 2016
-    - AFC Wimbledon, Accrington, Barnet, Bristol Rvs, Cambridge, Carlisle, Crawley Town, Dag and Red, Exeter, Hartlepool, Leyton Orient, Luton, Mansfield, Morecambe, Newport County, Northampton, Notts County, Oxford, Plymouth, Portsmouth, Stevenage, Wycombe, Yeovil, York
+    - AFC Wimbledon, Accrington, Barnet, Bristol Rvs, Cambridge, Carlisle, Crawley Town, Dag and Red, Exeter, Hartlepool, Leyton Orient, Luton, Mansfield, Morecambe, Newport County, Northampton, Notts County, Oxford, Plymouth, Portsmouth FC, Stevenage, Wycombe, Yeovil, York
       - (++) new in season 2015-16: (6) Barnet, Bristol Rvs, Crawley Town, Leyton Orient, Notts County, Yeovil
       - (--) out up/down: (6) Burton, Bury, Cheltenham, Shrewsbury, Southend, Tranmere
 
@@ -323,22 +324,22 @@ level 5 - 13 seasons:
 
 2014-15 - 5 levels (1 2 3 4 5)
   - 1: [`2014-15/1-premierleague.csv`](2014-15/1-premierleague.csv) -  20 teams,  380 matches,  975 goals,  38 rounds,  Sat 16 Aug 2014 - Sun 24 May 2015
-    - Arsenal, Aston Villa, Burnley, Chelsea, Crystal Palace, Everton, Hull, Leicester, Liverpool, Man City, Man United, Newcastle, QPR, Southampton, Stoke, Sunderland, Swansea, Tottenham, West Brom, West Ham
-      - (++) new in season 2014-15: (3) Burnley, Leicester, QPR
-      - (--) out down: (3) Cardiff, Fulham, Norwich
+    - Arsenal FC, Aston Villa FC, Burnley FC, Chelsea FC, Crystal Palace FC, Everton FC, Hull City AFC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Queens Park Rangers FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2014-15: (3) Burnley FC, Leicester City FC, Queens Park Rangers FC
+      - (--) out down: (3) Cardiff City FC, Fulham FC, Norwich City FC
 
   - 2: [`2014-15/2-championship.csv`](2014-15/2-championship.csv) -  24 teams,  552 matches,  1474 goals,  46 rounds,  Fri 8 Aug 2014 - Sat 2 May 2015
-    - Birmingham, Blackburn, Blackpool, Bolton, Bournemouth, Brentford, Brighton, Cardiff, Charlton, Derby, Fulham, Huddersfield, Ipswich, Leeds, Middlesbrough, Millwall, Norwich, Nott'm Forest, Reading, Rotherham, Sheffield Weds, Watford, Wigan, Wolves
-      - (++) new in season 2014-15: (6) Brentford, Cardiff, Fulham, Norwich, Rotherham, Wolves
-      - (--) out up/down: (6) Barnsley, Burnley, Doncaster, Leicester, QPR, Yeovil
+    - AFC Bournemouth, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Brentford, Brighton & Hove Albion FC, Cardiff City FC, Charlton Athletic FC, Derby County FC, Fulham FC, Huddersfield Town AFC, Ipswich Town FC, Leeds United FC, Middlesbrough FC, Millwall, Norwich City FC, Nottingham Forest FC, Reading FC, Rotherham, Sheffield Wednesday FC, Watford FC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 2014-15: (6) Brentford, Cardiff City FC, Fulham FC, Norwich City FC, Rotherham, Wolverhampton Wanderers FC
+      - (--) out up/down: (6) Barnsley FC, Burnley FC, Doncaster, Leicester City FC, Queens Park Rangers FC, Yeovil
 
   - 3: [`2014-15/3-league1.csv`](2014-15/3-league1.csv) -  24 teams,  552 matches,  1464 goals,  46 rounds,  Sat 9 Aug 2014 - Sun 3 May 2015
-    - Barnsley, Bradford, Bristol City, Chesterfield, Colchester, Coventry, Crawley Town, Crewe, Doncaster, Fleetwood Town, Gillingham, Leyton Orient, Milton Keynes Dons, Notts County, Oldham, Peterboro, Port Vale, Preston, Rochdale, Scunthorpe, Sheffield United, Swindon, Walsall, Yeovil
-      - (++) new in season 2014-15: (7) Barnsley, Chesterfield, Doncaster, Fleetwood Town, Rochdale, Scunthorpe, Yeovil
-      - (--) out up/down: (7) Brentford, Carlisle, Rotherham, Shrewsbury, Stevenage, Tranmere, Wolves
+    - Barnsley FC, Bradford City AFC, Bristol City, Chesterfield, Colchester, Coventry City FC, Crawley Town, Crewe, Doncaster, Fleetwood Town, Gillingham, Leyton Orient, Milton Keynes Dons, Notts County, Oldham Athletic AFC, Peterboro, Port Vale, Preston, Rochdale, Scunthorpe, Sheffield United FC, Swindon Town FC, Walsall, Yeovil
+      - (++) new in season 2014-15: (7) Barnsley FC, Chesterfield, Doncaster, Fleetwood Town, Rochdale, Scunthorpe, Yeovil
+      - (--) out up/down: (7) Brentford, Carlisle, Rotherham, Shrewsbury, Stevenage, Tranmere, Wolverhampton Wanderers FC
 
   - 4: [`2014-15/4-league2.csv`](2014-15/4-league2.csv) -  24 teams,  552 matches,  1317 goals,  46 rounds,  Sat 9 Aug 2014 - Sat 2 May 2015
-    - AFC Wimbledon, Accrington, Burton, Bury, Cambridge, Carlisle, Cheltenham, Dag and Red, Exeter, Hartlepool, Luton, Mansfield, Morecambe, Newport County, Northampton, Oxford, Plymouth, Portsmouth, Shrewsbury, Southend, Stevenage, Tranmere, Wycombe, York
+    - AFC Wimbledon, Accrington, Burton, Bury, Cambridge, Carlisle, Cheltenham, Dag and Red, Exeter, Hartlepool, Luton, Mansfield, Morecambe, Newport County, Northampton, Oxford, Plymouth, Portsmouth FC, Shrewsbury, Southend, Stevenage, Tranmere, Wycombe, York
       - (++) new in season 2014-15: (6) Cambridge, Carlisle, Luton, Shrewsbury, Stevenage, Tranmere
       - (--) out up/down: (6) Bristol Rvs, Chesterfield, Fleetwood Town, Rochdale, Scunthorpe, Torquay
 
@@ -349,24 +350,24 @@ level 5 - 13 seasons:
 
 2013-14 - 5 levels (1 2 3 4 5)
   - 1: [`2013-14/1-premierleague.csv`](2013-14/1-premierleague.csv) -  20 teams,  380 matches,  1052 goals,  38 rounds,  Sat 17 Aug 2013 - Sun 11 May 2014
-    - Arsenal, Aston Villa, Cardiff, Chelsea, Crystal Palace, Everton, Fulham, Hull, Liverpool, Man City, Man United, Newcastle, Norwich, Southampton, Stoke, Sunderland, Swansea, Tottenham, West Brom, West Ham
-      - (++) new in season 2013-14: (3) Cardiff, Crystal Palace, Hull
-      - (--) out down: (3) QPR, Reading, Wigan
+    - Arsenal FC, Aston Villa FC, Cardiff City FC, Chelsea FC, Crystal Palace FC, Everton FC, Fulham FC, Hull City AFC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2013-14: (3) Cardiff City FC, Crystal Palace FC, Hull City AFC
+      - (--) out down: (3) Queens Park Rangers FC, Reading FC, Wigan Athletic FC
 
   - 2: [`2013-14/2-championship.csv`](2013-14/2-championship.csv) -  24 teams,  552 matches,  1434 goals,  46 rounds,  Sat 3 Aug 2013 - Sat 3 May 2014
-    - Barnsley, Birmingham, Blackburn, Blackpool, Bolton, Bournemouth, Brighton, Burnley, Charlton, Derby, Doncaster, Huddersfield, Ipswich, Leeds, Leicester, Middlesbrough, Millwall, Nott'm Forest, QPR, Reading, Sheffield Weds, Watford, Wigan, Yeovil
-      - (++) new in season 2013-14: (6) Bournemouth, Doncaster, QPR, Reading, Wigan, Yeovil
-      - (--) out up/down: (6) Bristol City, Cardiff, Crystal Palace, Hull, Peterboro, Wolves
+    - AFC Bournemouth, Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Brighton & Hove Albion FC, Burnley FC, Charlton Athletic FC, Derby County FC, Doncaster, Huddersfield Town AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Middlesbrough FC, Millwall, Nottingham Forest FC, Queens Park Rangers FC, Reading FC, Sheffield Wednesday FC, Watford FC, Wigan Athletic FC, Yeovil
+      - (++) new in season 2013-14: (6) AFC Bournemouth, Doncaster, Queens Park Rangers FC, Reading FC, Wigan Athletic FC, Yeovil
+      - (--) out up/down: (6) Bristol City, Cardiff City FC, Crystal Palace FC, Hull City AFC, Peterboro, Wolverhampton Wanderers FC
 
   - 3: [`2013-14/3-league1.csv`](2013-14/3-league1.csv) -  24 teams,  552 matches,  1473 goals,  46 rounds,  Fri 2 Aug 2013 - Sat 3 May 2014
-    - Bradford, Brentford, Bristol City, Carlisle, Colchester, Coventry, Crawley Town, Crewe, Gillingham, Leyton Orient, Milton Keynes Dons, Notts County, Oldham, Peterboro, Port Vale, Preston, Rotherham, Sheffield United, Shrewsbury, Stevenage, Swindon, Tranmere, Walsall, Wolves
-      - (++) new in season 2013-14: (7) Bradford, Bristol City, Gillingham, Peterboro, Port Vale, Rotherham, Wolves
-      - (--) out up/down: (7) Bournemouth, Bury, Doncaster, Hartlepool, Portsmouth, Scunthorpe, Yeovil
+    - Bradford City AFC, Brentford, Bristol City, Carlisle, Colchester, Coventry City FC, Crawley Town, Crewe, Gillingham, Leyton Orient, Milton Keynes Dons, Notts County, Oldham Athletic AFC, Peterboro, Port Vale, Preston, Rotherham, Sheffield United FC, Shrewsbury, Stevenage, Swindon Town FC, Tranmere, Walsall, Wolverhampton Wanderers FC
+      - (++) new in season 2013-14: (7) Bradford City AFC, Bristol City, Gillingham, Peterboro, Port Vale, Rotherham, Wolverhampton Wanderers FC
+      - (--) out up/down: (7) AFC Bournemouth, Bury, Doncaster, Hartlepool, Portsmouth FC, Scunthorpe, Yeovil
 
   - 4: [`2013-14/4-league2.csv`](2013-14/4-league2.csv) -  24 teams,  552 matches,  1291 goals,  46 rounds,  Sat 3 Aug 2013 - Sat 3 May 2014
-    - AFC Wimbledon, Accrington, Bristol Rvs, Burton, Bury, Cheltenham, Chesterfield, Dag and Red, Exeter, Fleetwood Town, Hartlepool, Mansfield, Morecambe, Newport County, Northampton, Oxford, Plymouth, Portsmouth, Rochdale, Scunthorpe, Southend, Torquay, Wycombe, York
-      - (++) new in season 2013-14: (6) Bury, Hartlepool, Mansfield, Newport County, Portsmouth, Scunthorpe
-      - (--) out up/down: (6) Aldershot, Barnet, Bradford, Gillingham, Port Vale, Rotherham
+    - AFC Wimbledon, Accrington, Bristol Rvs, Burton, Bury, Cheltenham, Chesterfield, Dag and Red, Exeter, Fleetwood Town, Hartlepool, Mansfield, Morecambe, Newport County, Northampton, Oxford, Plymouth, Portsmouth FC, Rochdale, Scunthorpe, Southend, Torquay, Wycombe, York
+      - (++) new in season 2013-14: (6) Bury, Hartlepool, Mansfield, Newport County, Portsmouth FC, Scunthorpe
+      - (--) out up/down: (6) Aldershot, Barnet, Bradford City AFC, Gillingham, Port Vale, Rotherham
 
   - 5: [`2013-14/5-conference.csv`](2013-14/5-conference.csv) -  24 teams,  552 matches,  1491 goals,  46 rounds,  Sat 10 Aug 2013 - Sat 26 Apr 2014
     - Aldershot, Alfreton Town, Barnet, Braintree Town, Cambridge, Chester, Dartford, Forest Green, Gateshead, Grimsby, Halifax, Hereford, Hyde United, Kidderminster, Lincoln, Luton, Macclesfield, Nuneaton Town, Salisbury, Southport, Tamworth, Welling United, Woking, Wrexham
@@ -375,24 +376,24 @@ level 5 - 13 seasons:
 
 2012-13 - 5 levels (1 2 3 4 5)
   - 1: [`2012-13/1-premierleague.csv`](2012-13/1-premierleague.csv) -  20 teams,  380 matches,  1063 goals,  38 rounds,  Sat 18 Aug 2012 - Sun 19 May 2013
-    - Arsenal, Aston Villa, Chelsea, Everton, Fulham, Liverpool, Man City, Man United, Newcastle, Norwich, QPR, Reading, Southampton, Stoke, Sunderland, Swansea, Tottenham, West Brom, West Ham, Wigan
-      - (++) new in season 2012-13: (3) Reading, Southampton, West Ham
-      - (--) out down: (3) Blackburn, Bolton, Wolves
+    - Arsenal FC, Aston Villa FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC
+      - (++) new in season 2012-13: (3) Reading FC, Southampton FC, West Ham United FC
+      - (--) out down: (3) Blackburn Rovers FC, Bolton Wanderers FC, Wolverhampton Wanderers FC
 
   - 2: [`2012-13/2-championship.csv`](2012-13/2-championship.csv) -  24 teams,  552 matches,  1494 goals,  46 rounds,  Fri 17 Aug 2012 - Sat 4 May 2013
-    - Barnsley, Birmingham, Blackburn, Blackpool, Bolton, Brighton, Bristol City, Burnley, Cardiff, Charlton, Crystal Palace, Derby, Huddersfield, Hull, Ipswich, Leeds, Leicester, Middlesbrough, Millwall, Nott'm Forest, Peterboro, Sheffield Weds, Watford, Wolves
-      - (++) new in season 2012-13: (6) Blackburn, Bolton, Charlton, Huddersfield, Sheffield Weds, Wolves
-      - (--) out up/down: (6) Coventry, Doncaster, Portsmouth, Reading, Southampton, West Ham
+    - Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Brighton & Hove Albion FC, Bristol City, Burnley FC, Cardiff City FC, Charlton Athletic FC, Crystal Palace FC, Derby County FC, Huddersfield Town AFC, Hull City AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Middlesbrough FC, Millwall, Nottingham Forest FC, Peterboro, Sheffield Wednesday FC, Watford FC, Wolverhampton Wanderers FC
+      - (++) new in season 2012-13: (6) Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Huddersfield Town AFC, Sheffield Wednesday FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (6) Coventry City FC, Doncaster, Portsmouth FC, Reading FC, Southampton FC, West Ham United FC
 
   - 3: [`2012-13/3-league1.csv`](2012-13/3-league1.csv) -  24 teams,  552 matches,  1366 goals,  46 rounds,  Sat 18 Aug 2012 - Sat 27 Apr 2013
-    - Bournemouth, Brentford, Bury, Carlisle, Colchester, Coventry, Crawley Town, Crewe, Doncaster, Hartlepool, Leyton Orient, Milton Keynes Dons, Notts County, Oldham, Portsmouth, Preston, Scunthorpe, Sheffield United, Shrewsbury, Stevenage, Swindon, Tranmere, Walsall, Yeovil
-      - (++) new in season 2012-13: (7) Coventry, Crawley Town, Crewe, Doncaster, Portsmouth, Shrewsbury, Swindon
-      - (--) out up/down: (7) Charlton, Chesterfield, Exeter, Huddersfield, Rochdale, Sheffield Weds, Wycombe
+    - AFC Bournemouth, Brentford, Bury, Carlisle, Colchester, Coventry City FC, Crawley Town, Crewe, Doncaster, Hartlepool, Leyton Orient, Milton Keynes Dons, Notts County, Oldham Athletic AFC, Portsmouth FC, Preston, Scunthorpe, Sheffield United FC, Shrewsbury, Stevenage, Swindon Town FC, Tranmere, Walsall, Yeovil
+      - (++) new in season 2012-13: (7) Coventry City FC, Crawley Town, Crewe, Doncaster, Portsmouth FC, Shrewsbury, Swindon Town FC
+      - (--) out up/down: (7) Charlton Athletic FC, Chesterfield, Exeter, Huddersfield Town AFC, Rochdale, Sheffield Wednesday FC, Wycombe
 
   - 4: [`2012-13/4-league2.csv`](2012-13/4-league2.csv) -  24 teams,  552 matches,  1415 goals,  46 rounds,  Sat 18 Aug 2012 - Sat 27 Apr 2013
-    - AFC Wimbledon, Accrington, Aldershot, Barnet, Bradford, Bristol Rvs, Burton, Cheltenham, Chesterfield, Dag and Red, Exeter, Fleetwood Town, Gillingham, Morecambe, Northampton, Oxford, Plymouth, Port Vale, Rochdale, Rotherham, Southend, Torquay, Wycombe, York
+    - AFC Wimbledon, Accrington, Aldershot, Barnet, Bradford City AFC, Bristol Rvs, Burton, Cheltenham, Chesterfield, Dag and Red, Exeter, Fleetwood Town, Gillingham, Morecambe, Northampton, Oxford, Plymouth, Port Vale, Rochdale, Rotherham, Southend, Torquay, Wycombe, York
       - (++) new in season 2012-13: (6) Chesterfield, Exeter, Fleetwood Town, Rochdale, Wycombe, York
-      - (--) out up/down: (6) Crawley Town, Crewe, Hereford, Macclesfield, Shrewsbury, Swindon
+      - (--) out up/down: (6) Crawley Town, Crewe, Hereford, Macclesfield, Shrewsbury, Swindon Town FC
 
   - 5: [`2012-13/5-conference.csv`](2012-13/5-conference.csv) -  24 teams,  552 matches,  1592 goals,  46 rounds,  Fri 10 Aug 2012 - Sat 20 Apr 2013
     - Alfreton Town, Barrow, Braintree Town, Cambridge, Dartford, Ebbsfleet, Forest Green, Gateshead, Grimsby, Hereford, Hyde United, Kidderminster, Lincoln, Luton, Macclesfield, Mansfield, Newport County, Nuneaton Town, Southport, Stockport, Tamworth, Telford United, Woking, Wrexham
@@ -401,23 +402,23 @@ level 5 - 13 seasons:
 
 2011-12 - 5 levels (1 2 3 4 5)
   - 1: [`2011-12/1-premierleague.csv`](2011-12/1-premierleague.csv) -  20 teams,  380 matches,  1066 goals,  38 rounds,  Sat 13 Aug 2011 - Sun 13 May 2012
-    - Arsenal, Aston Villa, Blackburn, Bolton, Chelsea, Everton, Fulham, Liverpool, Man City, Man United, Newcastle, Norwich, QPR, Stoke, Sunderland, Swansea, Tottenham, West Brom, Wigan, Wolves
-      - (++) new in season 2011-12: (3) Norwich, QPR, Swansea
-      - (--) out down: (3) Birmingham, Blackpool, West Ham
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Queens Park Rangers FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 2011-12: (3) Norwich City FC, Queens Park Rangers FC, Swansea City AFC
+      - (--) out down: (3) Birmingham City FC, Blackpool FC, West Ham United FC
 
   - 2: [`2011-12/2-championship.csv`](2011-12/2-championship.csv) -  24 teams,  552 matches,  1419 goals,  46 rounds,  Fri 5 Aug 2011 - Sat 28 Apr 2012
-    - Barnsley, Birmingham, Blackpool, Brighton, Bristol City, Burnley, Cardiff, Coventry, Crystal Palace, Derby, Doncaster, Hull, Ipswich, Leeds, Leicester, Middlesbrough, Millwall, Nott'm Forest, Peterboro, Portsmouth, Reading, Southampton, Watford, West Ham
-      - (++) new in season 2011-12: (6) Birmingham, Blackpool, Brighton, Peterboro, Southampton, West Ham
-      - (--) out up/down: (6) Norwich, Preston, QPR, Scunthorpe, Sheffield United, Swansea
+    - Barnsley FC, Birmingham City FC, Blackpool FC, Brighton & Hove Albion FC, Bristol City, Burnley FC, Cardiff City FC, Coventry City FC, Crystal Palace FC, Derby County FC, Doncaster, Hull City AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Middlesbrough FC, Millwall, Nottingham Forest FC, Peterboro, Portsmouth FC, Reading FC, Southampton FC, Watford FC, West Ham United FC
+      - (++) new in season 2011-12: (6) Birmingham City FC, Blackpool FC, Brighton & Hove Albion FC, Peterboro, Southampton FC, West Ham United FC
+      - (--) out up/down: (6) Norwich City FC, Preston, Queens Park Rangers FC, Scunthorpe, Sheffield United FC, Swansea City AFC
 
   - 3: [`2011-12/3-league1.csv`](2011-12/3-league1.csv) -  24 teams,  552 matches,  1489 goals,  46 rounds,  Sat 6 Aug 2011 - Sat 5 May 2012
-    - Bournemouth, Brentford, Bury, Carlisle, Charlton, Chesterfield, Colchester, Exeter, Hartlepool, Huddersfield, Leyton Orient, Milton Keynes Dons, Notts County, Oldham, Preston, Rochdale, Scunthorpe, Sheffield United, Sheffield Weds, Stevenage, Tranmere, Walsall, Wycombe, Yeovil
-      - (++) new in season 2011-12: (7) Bury, Chesterfield, Preston, Scunthorpe, Sheffield United, Stevenage, Wycombe
-      - (--) out up/down: (7) Brighton, Bristol Rvs, Dag and Red, Peterboro, Plymouth, Southampton, Swindon
+    - AFC Bournemouth, Brentford, Bury, Carlisle, Charlton Athletic FC, Chesterfield, Colchester, Exeter, Hartlepool, Huddersfield Town AFC, Leyton Orient, Milton Keynes Dons, Notts County, Oldham Athletic AFC, Preston, Rochdale, Scunthorpe, Sheffield United FC, Sheffield Wednesday FC, Stevenage, Tranmere, Walsall, Wycombe, Yeovil
+      - (++) new in season 2011-12: (7) Bury, Chesterfield, Preston, Scunthorpe, Sheffield United FC, Stevenage, Wycombe
+      - (--) out up/down: (7) Brighton & Hove Albion FC, Bristol Rvs, Dag and Red, Peterboro, Plymouth, Southampton FC, Swindon Town FC
 
   - 4: [`2011-12/4-league2.csv`](2011-12/4-league2.csv) -  24 teams,  552 matches,  1458 goals,  46 rounds,  Sat 6 Aug 2011 - Sat 5 May 2012
-    - AFC Wimbledon, Accrington, Aldershot, Barnet, Bradford, Bristol Rvs, Burton, Cheltenham, Crawley Town, Crewe, Dag and Red, Gillingham, Hereford, Macclesfield, Morecambe, Northampton, Oxford, Plymouth, Port Vale, Rotherham, Shrewsbury, Southend, Swindon, Torquay
-      - (++) new in season 2011-12: (6) AFC Wimbledon, Bristol Rvs, Crawley Town, Dag and Red, Plymouth, Swindon
+    - AFC Wimbledon, Accrington, Aldershot, Barnet, Bradford City AFC, Bristol Rvs, Burton, Cheltenham, Crawley Town, Crewe, Dag and Red, Gillingham, Hereford, Macclesfield, Morecambe, Northampton, Oxford, Plymouth, Port Vale, Rotherham, Shrewsbury, Southend, Swindon Town FC, Torquay
+      - (++) new in season 2011-12: (6) AFC Wimbledon, Bristol Rvs, Crawley Town, Dag and Red, Plymouth, Swindon Town FC
       - (--) out up/down: (6) Bury, Chesterfield, Lincoln, Stevenage, Stockport, Wycombe
 
   - 5: [`2011-12/5-conference.csv`](2011-12/5-conference.csv) -  24 teams,  552 matches,  1574 goals,  46 rounds,  Fri 12 Aug 2011 - Sat 28 Apr 2012
@@ -427,24 +428,24 @@ level 5 - 13 seasons:
 
 2010-11 - 5 levels (1 2 3 4 5)
   - 1: [`2010-11/1-premierleague.csv`](2010-11/1-premierleague.csv) -  20 teams,  380 matches,  1063 goals,  38 rounds,  Sat 14 Aug 2010 - Sun 22 May 2011
-    - Arsenal, Aston Villa, Birmingham, Blackburn, Blackpool, Bolton, Chelsea, Everton, Fulham, Liverpool, Man City, Man United, Newcastle, Stoke, Sunderland, Tottenham, West Brom, West Ham, Wigan, Wolves
-      - (++) new in season 2010-11: (3) Blackpool, Newcastle, West Brom
-      - (--) out down: (3) Burnley, Hull, Portsmouth
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 2010-11: (3) Blackpool FC, Newcastle United FC, West Bromwich Albion FC
+      - (--) out down: (3) Burnley FC, Hull City AFC, Portsmouth FC
 
   - 2: [`2010-11/2-championship.csv`](2010-11/2-championship.csv) -  24 teams,  552 matches,  1510 goals,  46 rounds,  Fri 6 Aug 2010 - Sat 7 May 2011
-    - Barnsley, Bristol City, Burnley, Cardiff, Coventry, Crystal Palace, Derby, Doncaster, Hull, Ipswich, Leeds, Leicester, Middlesbrough, Millwall, Norwich, Nott'm Forest, Portsmouth, Preston, QPR, Reading, Scunthorpe, Sheffield United, Swansea, Watford
-      - (++) new in season 2010-11: (6) Burnley, Hull, Leeds, Millwall, Norwich, Portsmouth
-      - (--) out up/down: (6) Blackpool, Newcastle, Peterboro, Plymouth, Sheffield Weds, West Brom
+    - Barnsley FC, Bristol City, Burnley FC, Cardiff City FC, Coventry City FC, Crystal Palace FC, Derby County FC, Doncaster, Hull City AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Middlesbrough FC, Millwall, Norwich City FC, Nottingham Forest FC, Portsmouth FC, Preston, Queens Park Rangers FC, Reading FC, Scunthorpe, Sheffield United FC, Swansea City AFC, Watford FC
+      - (++) new in season 2010-11: (6) Burnley FC, Hull City AFC, Leeds United FC, Millwall, Norwich City FC, Portsmouth FC
+      - (--) out up/down: (6) Blackpool FC, Newcastle United FC, Peterboro, Plymouth, Sheffield Wednesday FC, West Bromwich Albion FC
 
   - 3: [`2010-11/3-league1.csv`](2010-11/3-league1.csv) -  24 teams,  552 matches,  1509 goals,  46 rounds,  Sat 7 Aug 2010 - Sat 7 May 2011
-    - Bournemouth, Brentford, Brighton, Bristol Rvs, Carlisle, Charlton, Colchester, Dag and Red, Exeter, Hartlepool, Huddersfield, Leyton Orient, Milton Keynes Dons, Notts County, Oldham, Peterboro, Plymouth, Rochdale, Sheffield Weds, Southampton, Swindon, Tranmere, Walsall, Yeovil
-      - (++) new in season 2010-11: (7) Bournemouth, Dag and Red, Notts County, Peterboro, Plymouth, Rochdale, Sheffield Weds
-      - (--) out up/down: (7) Gillingham, Leeds, Millwall, Norwich, Southend, Stockport, Wycombe
+    - AFC Bournemouth, Brentford, Brighton & Hove Albion FC, Bristol Rvs, Carlisle, Charlton Athletic FC, Colchester, Dag and Red, Exeter, Hartlepool, Huddersfield Town AFC, Leyton Orient, Milton Keynes Dons, Notts County, Oldham Athletic AFC, Peterboro, Plymouth, Rochdale, Sheffield Wednesday FC, Southampton FC, Swindon Town FC, Tranmere, Walsall, Yeovil
+      - (++) new in season 2010-11: (7) AFC Bournemouth, Dag and Red, Notts County, Peterboro, Plymouth, Rochdale, Sheffield Wednesday FC
+      - (--) out up/down: (7) Gillingham, Leeds United FC, Millwall, Norwich City FC, Southend, Stockport, Wycombe
 
   - 4: [`2010-11/4-league2.csv`](2010-11/4-league2.csv) -  24 teams,  552 matches,  1506 goals,  46 rounds,  Sat 7 Aug 2010 - Sat 7 May 2011
-    - Accrington, Aldershot, Barnet, Bradford, Burton, Bury, Cheltenham, Chesterfield, Crewe, Gillingham, Hereford, Lincoln, Macclesfield, Morecambe, Northampton, Oxford, Port Vale, Rotherham, Shrewsbury, Southend, Stevenage, Stockport, Torquay, Wycombe
+    - Accrington, Aldershot, Barnet, Bradford City AFC, Burton, Bury, Cheltenham, Chesterfield, Crewe, Gillingham, Hereford, Lincoln, Macclesfield, Morecambe, Northampton, Oxford, Port Vale, Rotherham, Shrewsbury, Southend, Stevenage, Stockport, Torquay, Wycombe
       - (++) new in season 2010-11: (6) Gillingham, Oxford, Southend, Stevenage, Stockport, Wycombe
-      - (--) out up/down: (6) Bournemouth, Dag and Red, Darlington, Grimsby, Notts County, Rochdale
+      - (--) out up/down: (6) AFC Bournemouth, Dag and Red, Darlington, Grimsby, Notts County, Rochdale
 
   - 5: [`2010-11/5-conference.csv`](2010-11/5-conference.csv) -  24 teams,  552 matches,  1549 goals,  46 rounds,  Sat 14 Aug 2010 - Sat 30 Apr 2011
     - AFC Wimbledon, Altrincham, Barrow, Bath City, Cambridge, Crawley Town, Darlington, Eastbourne Borough, Fleetwood Town, Forest Green, Gateshead, Grimsby, Hayes & Yeading, Histon, Kettering Town, Kidderminster, Luton, Mansfield, Newport County, Rushden & D, Southport, Tamworth, Wrexham, York
@@ -453,22 +454,22 @@ level 5 - 13 seasons:
 
 2009-10 - 5 levels (1 2 3 4 5)
   - 1: [`2009-10/1-premierleague.csv`](2009-10/1-premierleague.csv) -  20 teams,  380 matches,  1053 goals,  38 rounds,  Sat 15 Aug 2009 - Sun 9 May 2010
-    - Arsenal, Aston Villa, Birmingham, Blackburn, Bolton, Burnley, Chelsea, Everton, Fulham, Hull, Liverpool, Man City, Man United, Portsmouth, Stoke, Sunderland, Tottenham, West Ham, Wigan, Wolves
-      - (++) new in season 2009-10: (3) Birmingham, Burnley, Wolves
-      - (--) out down: (3) Middlesbrough, Newcastle, West Brom
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Chelsea FC, Everton FC, Fulham FC, Hull City AFC, Liverpool FC, Manchester City FC, Manchester United FC, Portsmouth FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Ham United FC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 2009-10: (3) Birmingham City FC, Burnley FC, Wolverhampton Wanderers FC
+      - (--) out down: (3) Middlesbrough FC, Newcastle United FC, West Bromwich Albion FC
 
   - 2: [`2009-10/2-championship.csv`](2009-10/2-championship.csv) -  24 teams,  552 matches,  1425 goals,  46 rounds,  Fri 7 Aug 2009 - Sun 2 May 2010
-    - Barnsley, Blackpool, Bristol City, Cardiff, Coventry, Crystal Palace, Derby, Doncaster, Ipswich, Leicester, Middlesbrough, Newcastle, Nott'm Forest, Peterboro, Plymouth, Preston, QPR, Reading, Scunthorpe, Sheffield United, Sheffield Weds, Swansea, Watford, West Brom
-      - (++) new in season 2009-10: (6) Leicester, Middlesbrough, Newcastle, Peterboro, Scunthorpe, West Brom
-      - (--) out up/down: (6) Birmingham, Burnley, Charlton, Norwich, Southampton, Wolves
+    - Barnsley FC, Blackpool FC, Bristol City, Cardiff City FC, Coventry City FC, Crystal Palace FC, Derby County FC, Doncaster, Ipswich Town FC, Leicester City FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Peterboro, Plymouth, Preston, Queens Park Rangers FC, Reading FC, Scunthorpe, Sheffield United FC, Sheffield Wednesday FC, Swansea City AFC, Watford FC, West Bromwich Albion FC
+      - (++) new in season 2009-10: (6) Leicester City FC, Middlesbrough FC, Newcastle United FC, Peterboro, Scunthorpe, West Bromwich Albion FC
+      - (--) out up/down: (6) Birmingham City FC, Burnley FC, Charlton Athletic FC, Norwich City FC, Southampton FC, Wolverhampton Wanderers FC
 
   - 3: [`2009-10/3-league1.csv`](2009-10/3-league1.csv) -  24 teams,  552 matches,  1459 goals,  46 rounds,  Sat 8 Aug 2009 - Sat 8 May 2010
-    - Brentford, Brighton, Bristol Rvs, Carlisle, Charlton, Colchester, Exeter, Gillingham, Hartlepool, Huddersfield, Leeds, Leyton Orient, Millwall, Milton Keynes Dons, Norwich, Oldham, Southampton, Southend, Stockport, Swindon, Tranmere, Walsall, Wycombe, Yeovil
-      - (++) new in season 2009-10: (7) Brentford, Charlton, Exeter, Gillingham, Norwich, Southampton, Wycombe
-      - (--) out up/down: (7) Cheltenham, Crewe, Hereford, Leicester, Northampton, Peterboro, Scunthorpe
+    - Brentford, Brighton & Hove Albion FC, Bristol Rvs, Carlisle, Charlton Athletic FC, Colchester, Exeter, Gillingham, Hartlepool, Huddersfield Town AFC, Leeds United FC, Leyton Orient, Millwall, Milton Keynes Dons, Norwich City FC, Oldham Athletic AFC, Southampton FC, Southend, Stockport, Swindon Town FC, Tranmere, Walsall, Wycombe, Yeovil
+      - (++) new in season 2009-10: (7) Brentford, Charlton Athletic FC, Exeter, Gillingham, Norwich City FC, Southampton FC, Wycombe
+      - (--) out up/down: (7) Cheltenham, Crewe, Hereford, Leicester City FC, Northampton, Peterboro, Scunthorpe
 
   - 4: [`2009-10/4-league2.csv`](2009-10/4-league2.csv) -  24 teams,  552 matches,  1446 goals,  46 rounds,  Sat 8 Aug 2009 - Sat 8 May 2010
-    - Accrington, Aldershot, Barnet, Bournemouth, Bradford, Burton, Bury, Cheltenham, Chesterfield, Crewe, Dag and Red, Darlington, Grimsby, Hereford, Lincoln, Macclesfield, Morecambe, Northampton, Notts County, Port Vale, Rochdale, Rotherham, Shrewsbury, Torquay
+    - AFC Bournemouth, Accrington, Aldershot, Barnet, Bradford City AFC, Burton, Bury, Cheltenham, Chesterfield, Crewe, Dag and Red, Darlington, Grimsby, Hereford, Lincoln, Macclesfield, Morecambe, Northampton, Notts County, Port Vale, Rochdale, Rotherham, Shrewsbury, Torquay
       - (++) new in season 2009-10: (6) Burton, Cheltenham, Crewe, Hereford, Northampton, Torquay
       - (--) out up/down: (6) Brentford, Chester, Exeter, Gillingham, Luton, Wycombe
 
@@ -479,23 +480,23 @@ level 5 - 13 seasons:
 
 2008-09 - 5 levels (1 2 3 4 5)
   - 1: [`2008-09/1-premierleague.csv`](2008-09/1-premierleague.csv) -  20 teams,  380 matches,  942 goals,  38 rounds,  Sat 16 Aug 2008 - Sun 24 May 2009
-    - Arsenal, Aston Villa, Blackburn, Bolton, Chelsea, Everton, Fulham, Hull, Liverpool, Man City, Man United, Middlesbrough, Newcastle, Portsmouth, Stoke, Sunderland, Tottenham, West Brom, West Ham, Wigan
-      - (++) new in season 2008-09: (3) Hull, Stoke, West Brom
-      - (--) out down: (3) Birmingham, Derby, Reading
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Chelsea FC, Everton FC, Fulham FC, Hull City AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC
+      - (++) new in season 2008-09: (3) Hull City AFC, Stoke City FC, West Bromwich Albion FC
+      - (--) out down: (3) Birmingham City FC, Derby County FC, Reading FC
 
   - 2: [`2008-09/2-championship.csv`](2008-09/2-championship.csv) -  24 teams,  552 matches,  1350 goals,  46 rounds,  Sat 9 Aug 2008 - Sun 3 May 2009
-    - Barnsley, Birmingham, Blackpool, Bristol City, Burnley, Cardiff, Charlton, Coventry, Crystal Palace, Derby, Doncaster, Ipswich, Norwich, Nott'm Forest, Plymouth, Preston, QPR, Reading, Sheffield United, Sheffield Weds, Southampton, Swansea, Watford, Wolves
-      - (++) new in season 2008-09: (6) Birmingham, Derby, Doncaster, Nott'm Forest, Reading, Swansea
-      - (--) out up/down: (6) Colchester, Hull, Leicester, Scunthorpe, Stoke, West Brom
+    - Barnsley FC, Birmingham City FC, Blackpool FC, Bristol City, Burnley FC, Cardiff City FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Derby County FC, Doncaster, Ipswich Town FC, Norwich City FC, Nottingham Forest FC, Plymouth, Preston, Queens Park Rangers FC, Reading FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Swansea City AFC, Watford FC, Wolverhampton Wanderers FC
+      - (++) new in season 2008-09: (6) Birmingham City FC, Derby County FC, Doncaster, Nottingham Forest FC, Reading FC, Swansea City AFC
+      - (--) out up/down: (6) Colchester, Hull City AFC, Leicester City FC, Scunthorpe, Stoke City FC, West Bromwich Albion FC
 
   - 3: [`2008-09/3-league1.csv`](2008-09/3-league1.csv) -  24 teams,  552 matches,  1516 goals,  46 rounds,  Sat 9 Aug 2008 - Sat 2 May 2009
-    - Brighton, Bristol Rvs, Carlisle, Cheltenham, Colchester, Crewe, Hartlepool, Hereford, Huddersfield, Leeds, Leicester, Leyton Orient, Millwall, Milton Keynes Dons, Northampton, Oldham, Peterboro, Scunthorpe, Southend, Stockport, Swindon, Tranmere, Walsall, Yeovil
-      - (++) new in season 2008-09: (7) Colchester, Hereford, Leicester, Milton Keynes Dons, Peterboro, Scunthorpe, Stockport
-      - (--) out up/down: (7) Bournemouth, Doncaster, Gillingham, Luton, Nott'm Forest, Port Vale, Swansea
+    - Brighton & Hove Albion FC, Bristol Rvs, Carlisle, Cheltenham, Colchester, Crewe, Hartlepool, Hereford, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Leyton Orient, Millwall, Milton Keynes Dons, Northampton, Oldham Athletic AFC, Peterboro, Scunthorpe, Southend, Stockport, Swindon Town FC, Tranmere, Walsall, Yeovil
+      - (++) new in season 2008-09: (7) Colchester, Hereford, Leicester City FC, Milton Keynes Dons, Peterboro, Scunthorpe, Stockport
+      - (--) out up/down: (7) AFC Bournemouth, Doncaster, Gillingham, Luton, Nottingham Forest FC, Port Vale, Swansea City AFC
 
   - 4: [`2008-09/4-league2.csv`](2008-09/4-league2.csv) -  24 teams,  552 matches,  1374 goals,  46 rounds,  Sat 9 Aug 2008 - Sat 2 May 2009
-    - Accrington, Aldershot, Barnet, Bournemouth, Bradford, Brentford, Bury, Chester, Chesterfield, Dag and Red, Darlington, Exeter, Gillingham, Grimsby, Lincoln, Luton, Macclesfield, Morecambe, Notts County, Port Vale, Rochdale, Rotherham, Shrewsbury, Wycombe
-      - (++) new in season 2008-09: (6) Aldershot, Bournemouth, Exeter, Gillingham, Luton, Port Vale
+    - AFC Bournemouth, Accrington, Aldershot, Barnet, Bradford City AFC, Brentford, Bury, Chester, Chesterfield, Dag and Red, Darlington, Exeter, Gillingham, Grimsby, Lincoln, Luton, Macclesfield, Morecambe, Notts County, Port Vale, Rochdale, Rotherham, Shrewsbury, Wycombe
+      - (++) new in season 2008-09: (6) AFC Bournemouth, Aldershot, Exeter, Gillingham, Luton, Port Vale
       - (--) out up/down: (6) Hereford, Mansfield, Milton Keynes Dons, Peterboro, Stockport, Wrexham
 
   - 5: [`2008-09/5-conference.csv`](2008-09/5-conference.csv) -  24 teams,  552 matches,  1410 goals,  46 rounds,  Fri 8 Aug 2008 - Sun 26 Apr 2009
@@ -505,24 +506,24 @@ level 5 - 13 seasons:
 
 2007-08 - 5 levels (1 2 3 4 5)
   - 1: [`2007-08/1-premierleague.csv`](2007-08/1-premierleague.csv) -  20 teams,  380 matches,  1002 goals,  38 rounds,  Sat 11 Aug 2007 - Sun 11 May 2008
-    - Arsenal, Aston Villa, Birmingham, Blackburn, Bolton, Chelsea, Derby, Everton, Fulham, Liverpool, Man City, Man United, Middlesbrough, Newcastle, Portsmouth, Reading, Sunderland, Tottenham, West Ham, Wigan
-      - (++) new in season 2007-08: (3) Birmingham, Derby, Sunderland
-      - (--) out down: (3) Charlton, Sheffield United, Watford
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Chelsea FC, Derby County FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Reading FC, Sunderland AFC, Tottenham Hotspur FC, West Ham United FC, Wigan Athletic FC
+      - (++) new in season 2007-08: (3) Birmingham City FC, Derby County FC, Sunderland AFC
+      - (--) out down: (3) Charlton Athletic FC, Sheffield United FC, Watford FC
 
   - 2: [`2007-08/2-championship.csv`](2007-08/2-championship.csv) -  24 teams,  552 matches,  1394 goals,  46 rounds,  Sat 11 Aug 2007 - Sun 4 May 2008
-    - Barnsley, Blackpool, Bristol City, Burnley, Cardiff, Charlton, Colchester, Coventry, Crystal Palace, Hull, Ipswich, Leicester, Norwich, Plymouth, Preston, QPR, Scunthorpe, Sheffield United, Sheffield Weds, Southampton, Stoke, Watford, West Brom, Wolves
-      - (++) new in season 2007-08: (6) Blackpool, Bristol City, Charlton, Scunthorpe, Sheffield United, Watford
-      - (--) out up/down: (6) Birmingham, Derby, Leeds, Luton, Southend, Sunderland
+    - Barnsley FC, Blackpool FC, Bristol City, Burnley FC, Cardiff City FC, Charlton Athletic FC, Colchester, Coventry City FC, Crystal Palace FC, Hull City AFC, Ipswich Town FC, Leicester City FC, Norwich City FC, Plymouth, Preston, Queens Park Rangers FC, Scunthorpe, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Stoke City FC, Watford FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 2007-08: (6) Blackpool FC, Bristol City, Charlton Athletic FC, Scunthorpe, Sheffield United FC, Watford FC
+      - (--) out up/down: (6) Birmingham City FC, Derby County FC, Leeds United FC, Luton, Southend, Sunderland AFC
 
   - 3: [`2007-08/3-league1.csv`](2007-08/3-league1.csv) -  24 teams,  552 matches,  1335 goals,  46 rounds,  Sat 11 Aug 2007 - Sat 3 May 2008
-    - Bournemouth, Brighton, Bristol Rvs, Carlisle, Cheltenham, Crewe, Doncaster, Gillingham, Hartlepool, Huddersfield, Leeds, Leyton Orient, Luton, Millwall, Northampton, Nott'm Forest, Oldham, Port Vale, Southend, Swansea, Swindon, Tranmere, Walsall, Yeovil
-      - (++) new in season 2007-08: (7) Bristol Rvs, Hartlepool, Leeds, Luton, Southend, Swindon, Walsall
-      - (--) out up/down: (7) Blackpool, Bradford, Brentford, Bristol City, Chesterfield, Rotherham, Scunthorpe
+    - AFC Bournemouth, Brighton & Hove Albion FC, Bristol Rvs, Carlisle, Cheltenham, Crewe, Doncaster, Gillingham, Hartlepool, Huddersfield Town AFC, Leeds United FC, Leyton Orient, Luton, Millwall, Northampton, Nottingham Forest FC, Oldham Athletic AFC, Port Vale, Southend, Swansea City AFC, Swindon Town FC, Tranmere, Walsall, Yeovil
+      - (++) new in season 2007-08: (7) Bristol Rvs, Hartlepool, Leeds United FC, Luton, Southend, Swindon Town FC, Walsall
+      - (--) out up/down: (7) Blackpool FC, Bradford City AFC, Brentford, Bristol City, Chesterfield, Rotherham, Scunthorpe
 
   - 4: [`2007-08/4-league2.csv`](2007-08/4-league2.csv) -  24 teams,  552 matches,  1427 goals,  46 rounds,  Sat 11 Aug 2007 - Sat 3 May 2008
-    - Accrington, Barnet, Bradford, Brentford, Bury, Chester, Chesterfield, Dag and Red, Darlington, Grimsby, Hereford, Lincoln, Macclesfield, Mansfield, Milton Keynes Dons, Morecambe, Notts County, Peterboro, Rochdale, Rotherham, Shrewsbury, Stockport, Wrexham, Wycombe
-      - (++) new in season 2007-08: (6) Bradford, Brentford, Chesterfield, Dag and Red, Morecambe, Rotherham
-      - (--) out up/down: (6) Boston, Bristol Rvs, Hartlepool, Swindon, Torquay, Walsall
+    - Accrington, Barnet, Bradford City AFC, Brentford, Bury, Chester, Chesterfield, Dag and Red, Darlington, Grimsby, Hereford, Lincoln, Macclesfield, Mansfield, Milton Keynes Dons, Morecambe, Notts County, Peterboro, Rochdale, Rotherham, Shrewsbury, Stockport, Wrexham, Wycombe
+      - (++) new in season 2007-08: (6) Bradford City AFC, Brentford, Chesterfield, Dag and Red, Morecambe, Rotherham
+      - (--) out up/down: (6) Boston, Bristol Rvs, Hartlepool, Swindon Town FC, Torquay, Walsall
 
   - 5: [`2007-08/5-conference.csv`](2007-08/5-conference.csv) -  24 teams,  552 matches,  1562 goals,  46 rounds,  Sat 11 Aug 2007 - Sat 26 Apr 2008
     - Aldershot, Altrincham, Burton, Cambridge, Crawley Town, Droylsden, Ebbsfleet, Exeter, Farsley, Forest Green, Grays, Halifax, Histon, Kidderminster, Northwich, Oxford, Rushden & D, Salisbury, Stafford Rangers, Stevenage, Torquay, Weymouth, Woking, York
@@ -531,23 +532,23 @@ level 5 - 13 seasons:
 
 2006-07 - 5 levels (1 2 3 4 5)
   - 1: [`2006-07/1-premierleague.csv`](2006-07/1-premierleague.csv) -  20 teams,  380 matches,  931 goals,  38 rounds,  Sat 19 Aug 2006 - Sun 13 May 2007
-    - Arsenal, Aston Villa, Blackburn, Bolton, Charlton, Chelsea, Everton, Fulham, Liverpool, Man City, Man United, Middlesbrough, Newcastle, Portsmouth, Reading, Sheffield United, Tottenham, Watford, West Ham, Wigan
-      - (++) new in season 2006-07: (3) Reading, Sheffield United, Watford
-      - (--) out down: (3) Birmingham, Sunderland, West Brom
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Reading FC, Sheffield United FC, Tottenham Hotspur FC, Watford FC, West Ham United FC, Wigan Athletic FC
+      - (++) new in season 2006-07: (3) Reading FC, Sheffield United FC, Watford FC
+      - (--) out down: (3) Birmingham City FC, Sunderland AFC, West Bromwich Albion FC
 
   - 2: [`2006-07/2-championship.csv`](2006-07/2-championship.csv) -  24 teams,  552 matches,  1439 goals,  46 rounds,  Sat 5 Aug 2006 - Sun 6 May 2007
-    - Barnsley, Birmingham, Burnley, Cardiff, Colchester, Coventry, Crystal Palace, Derby, Hull, Ipswich, Leeds, Leicester, Luton, Norwich, Plymouth, Preston, QPR, Sheffield Weds, Southampton, Southend, Stoke, Sunderland, West Brom, Wolves
-      - (++) new in season 2006-07: (6) Barnsley, Birmingham, Colchester, Southend, Sunderland, West Brom
-      - (--) out up/down: (6) Brighton, Crewe, Millwall, Reading, Sheffield United, Watford
+    - Barnsley FC, Birmingham City FC, Burnley FC, Cardiff City FC, Colchester, Coventry City FC, Crystal Palace FC, Derby County FC, Hull City AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Luton, Norwich City FC, Plymouth, Preston, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Southend, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 2006-07: (6) Barnsley FC, Birmingham City FC, Colchester, Southend, Sunderland AFC, West Bromwich Albion FC
+      - (--) out up/down: (6) Brighton & Hove Albion FC, Crewe, Millwall, Reading FC, Sheffield United FC, Watford FC
 
   - 3: [`2006-07/3-league1.csv`](2006-07/3-league1.csv) -  24 teams,  552 matches,  1386 goals,  46 rounds,  Sat 5 Aug 2006 - Sat 5 May 2007
-    - Blackpool, Bournemouth, Bradford, Brentford, Brighton, Bristol City, Carlisle, Cheltenham, Chesterfield, Crewe, Doncaster, Gillingham, Huddersfield, Leyton Orient, Millwall, Northampton, Nott'm Forest, Oldham, Port Vale, Rotherham, Scunthorpe, Swansea, Tranmere, Yeovil
-      - (++) new in season 2006-07: (7) Brighton, Carlisle, Cheltenham, Crewe, Leyton Orient, Millwall, Northampton
-      - (--) out up/down: (7) Barnsley, Colchester, Hartlepool, Milton Keynes Dons, Southend, Swindon, Walsall
+    - AFC Bournemouth, Blackpool FC, Bradford City AFC, Brentford, Brighton & Hove Albion FC, Bristol City, Carlisle, Cheltenham, Chesterfield, Crewe, Doncaster, Gillingham, Huddersfield Town AFC, Leyton Orient, Millwall, Northampton, Nottingham Forest FC, Oldham Athletic AFC, Port Vale, Rotherham, Scunthorpe, Swansea City AFC, Tranmere, Yeovil
+      - (++) new in season 2006-07: (7) Brighton & Hove Albion FC, Carlisle, Cheltenham, Crewe, Leyton Orient, Millwall, Northampton
+      - (--) out up/down: (7) Barnsley FC, Colchester, Hartlepool, Milton Keynes Dons, Southend, Swindon Town FC, Walsall
 
   - 4: [`2006-07/4-league2.csv`](2006-07/4-league2.csv) -  24 teams,  552 matches,  1372 goals,  46 rounds,  Sat 5 Aug 2006 - Sat 5 May 2007
-    - Accrington, Barnet, Boston, Bristol Rvs, Bury, Chester, Darlington, Grimsby, Hartlepool, Hereford, Lincoln, Macclesfield, Mansfield, Milton Keynes Dons, Notts County, Peterboro, Rochdale, Shrewsbury, Stockport, Swindon, Torquay, Walsall, Wrexham, Wycombe
-      - (++) new in season 2006-07: (6) Accrington, Hartlepool, Hereford, Milton Keynes Dons, Swindon, Walsall
+    - Accrington, Barnet, Boston, Bristol Rvs, Bury, Chester, Darlington, Grimsby, Hartlepool, Hereford, Lincoln, Macclesfield, Mansfield, Milton Keynes Dons, Notts County, Peterboro, Rochdale, Shrewsbury, Stockport, Swindon Town FC, Torquay, Walsall, Wrexham, Wycombe
+      - (++) new in season 2006-07: (6) Accrington, Hartlepool, Hereford, Milton Keynes Dons, Swindon Town FC, Walsall
       - (--) out up/down: (6) Carlisle, Cheltenham, Leyton Orient, Northampton, Oxford, Rushden & D
 
   - 5: [`2006-07/5-conference.csv`](2006-07/5-conference.csv) -  24 teams,  552 matches,  1413 goals,  46 rounds,  Sat 12 Aug 2006 - Sat 28 Apr 2007
@@ -557,24 +558,24 @@ level 5 - 13 seasons:
 
 2005-06 - 5 levels (1 2 3 4 5)
   - 1: [`2005-06/1-premierleague.csv`](2005-06/1-premierleague.csv) -  20 teams,  380 matches,  944 goals,  38 rounds,  Sat 13 Aug 2005 - Sun 7 May 2006
-    - Arsenal, Aston Villa, Birmingham, Blackburn, Bolton, Charlton, Chelsea, Everton, Fulham, Liverpool, Man City, Man United, Middlesbrough, Newcastle, Portsmouth, Sunderland, Tottenham, West Brom, West Ham, Wigan
-      - (++) new in season 2005-06: (3) Sunderland, West Ham, Wigan
-      - (--) out down: (3) Crystal Palace, Norwich, Southampton
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC
+      - (++) new in season 2005-06: (3) Sunderland AFC, West Ham United FC, Wigan Athletic FC
+      - (--) out down: (3) Crystal Palace FC, Norwich City FC, Southampton FC
 
   - 2: [`2005-06/2-championship.csv`](2005-06/2-championship.csv) -  24 teams,  552 matches,  1341 goals,  46 rounds,  Sat 6 Aug 2005 - Sun 30 Apr 2006
-    - Brighton, Burnley, Cardiff, Coventry, Crewe, Crystal Palace, Derby, Hull, Ipswich, Leeds, Leicester, Luton, Millwall, Norwich, Plymouth, Preston, QPR, Reading, Sheffield United, Sheffield Weds, Southampton, Stoke, Watford, Wolves
-      - (++) new in season 2005-06: (6) Crystal Palace, Hull, Luton, Norwich, Sheffield Weds, Southampton
-      - (--) out up/down: (6) Gillingham, Nott'm Forest, Rotherham, Sunderland, West Ham, Wigan
+    - Brighton & Hove Albion FC, Burnley FC, Cardiff City FC, Coventry City FC, Crewe, Crystal Palace FC, Derby County FC, Hull City AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Luton, Millwall, Norwich City FC, Plymouth, Preston, Queens Park Rangers FC, Reading FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Stoke City FC, Watford FC, Wolverhampton Wanderers FC
+      - (++) new in season 2005-06: (6) Crystal Palace FC, Hull City AFC, Luton, Norwich City FC, Sheffield Wednesday FC, Southampton FC
+      - (--) out up/down: (6) Gillingham, Nottingham Forest FC, Rotherham, Sunderland AFC, West Ham United FC, Wigan Athletic FC
 
   - 3: [`2005-06/3-league1.csv`](2005-06/3-league1.csv) -  24 teams,  552 matches,  1384 goals,  46 rounds,  Sat 6 Aug 2005 - Sat 6 May 2006
-    - Barnsley, Blackpool, Bournemouth, Bradford, Brentford, Bristol City, Chesterfield, Colchester, Doncaster, Gillingham, Hartlepool, Huddersfield, Milton Keynes Dons, Nott'm Forest, Oldham, Port Vale, Rotherham, Scunthorpe, Southend, Swansea, Swindon, Tranmere, Walsall, Yeovil
-      - (++) new in season 2005-06: (7) Gillingham, Nott'm Forest, Rotherham, Scunthorpe, Southend, Swansea, Yeovil
-      - (--) out up/down: (7) Hull, Luton, Peterboro, Sheffield Weds, Stockport, Torquay, Wrexham
+    - AFC Bournemouth, Barnsley FC, Blackpool FC, Bradford City AFC, Brentford, Bristol City, Chesterfield, Colchester, Doncaster, Gillingham, Hartlepool, Huddersfield Town AFC, Milton Keynes Dons, Nottingham Forest FC, Oldham Athletic AFC, Port Vale, Rotherham, Scunthorpe, Southend, Swansea City AFC, Swindon Town FC, Tranmere, Walsall, Yeovil
+      - (++) new in season 2005-06: (7) Gillingham, Nottingham Forest FC, Rotherham, Scunthorpe, Southend, Swansea City AFC, Yeovil
+      - (--) out up/down: (7) Hull City AFC, Luton, Peterboro, Sheffield Wednesday FC, Stockport, Torquay, Wrexham
 
   - 4: [`2005-06/4-league2.csv`](2005-06/4-league2.csv) -  24 teams,  552 matches,  1392 goals,  46 rounds,  Sat 6 Aug 2005 - Sat 6 May 2006
     - Barnet, Boston, Bristol Rvs, Bury, Carlisle, Cheltenham, Chester, Darlington, Grimsby, Leyton Orient, Lincoln, Macclesfield, Mansfield, Northampton, Notts County, Oxford, Peterboro, Rochdale, Rushden & D, Shrewsbury, Stockport, Torquay, Wrexham, Wycombe
       - (++) new in season 2005-06: (6) Barnet, Carlisle, Peterboro, Stockport, Torquay, Wrexham
-      - (--) out up/down: (6) Cambridge, Kidderminster, Scunthorpe, Southend, Swansea, Yeovil
+      - (--) out up/down: (6) Cambridge, Kidderminster, Scunthorpe, Southend, Swansea City AFC, Yeovil
 
   - 5: [`2005-06/5-conference.csv`](2005-06/5-conference.csv) -  22 teams,  462 matches,  1201 goals,  42 rounds,  Sat 13 Aug 2005 - Sat 29 Apr 2006
     - Accrington, Aldershot, Altrincham, Burton, Cambridge, Canvey Island, Crawley Town, Dag and Red, Exeter, Forest Green, Gravesend, Grays, Halifax, Hereford, Kidderminster, Morecambe, Scarborough, Southport, Stevenage, Tamworth, Woking, York
@@ -585,66 +586,66 @@ level 5 - 13 seasons:
 ## Teams
 
 ```
-  154 teams:
-    [1]   x AFC Telford United (???)     ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-    [2]   x AFC Wimbledon (???)          ::  412 matches in   9 seasons / 3 levels -    x         x      3 (2)     4 (5)     5 (2)     
-    [3]   x Accrington (???)             ::  594 matches in  13 seasons / 2 levels -    x         x         x      4 (12)    5 (1)     
-    [4]   x Aldershot (???)              ::  594 matches in  13 seasons / 2 levels -    x         x         x      4 (5)     5 (8)     
-    [5]   x Alfreton Town (???)          ::  184 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
-    [6]   x Altrincham (???)             ::  362 matches in   8 seasons / 1 levels -    x         x         x         x      5 (8)     
-    [7]   x Arsenal (???)                ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
-    [8]   x Aston Villa (???)            ::  974 matches in  25 seasons / 2 levels - 1 (23)    2 (2)        x         x         x      
-    [9]   x Barnet (???)                 ::  962 matches in  21 seasons / 3 levels -    x         x      3 (1)     4 (18)    5 (2)     
-   [10]   x Barnsley (???)               :: 1142 matches in  25 seasons / 3 levels - 1 (1)     2 (18)    3 (6)        x         x      
-   [11]   x Barrow (???)                 ::  366 matches in   8 seasons / 1 levels -    x         x         x         x      5 (8)     
-   [12]   x Bath City (???)              ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-   [13]   x Birmingham (???)             :: 1094 matches in  25 seasons / 3 levels - 1 (7)     2 (17)    3 (1)        x         x      
-   [14]   x Blackburn (???)              :: 1022 matches in  25 seasons / 3 levels - 1 (17)    2 (7)     3 (1)        x         x      
-   [15]   x Blackpool (???)              :: 1142 matches in  25 seasons / 4 levels - 1 (1)     2 (7)     3 (15)    4 (2)        x      
-   [16]   x Bolton (???)                 :: 1046 matches in  25 seasons / 3 levels - 1 (13)    2 (11)    3 (1)        x         x      
-   [17]   x Boreham Wood (???)           ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-   [18]   x Boston (???)                 ::  230 matches in   5 seasons / 1 levels -    x         x         x      4 (5)        x      
-   [19]   x Bournemouth (???)            :: 1126 matches in  25 seasons / 4 levels - 1 (3)     2 (2)     3 (17)    4 (3)        x      
-   [20]   x Bradford (???)               :: 1134 matches in  25 seasons / 4 levels - 1 (2)     2 (6)     3 (11)    4 (6)        x      
+  153 teams:
+    [1]  AFC Bournemouth                 :: 1126 matches in  25 seasons / 4 levels - 1 (3)     2 (2)     3 (17)    4 (3)        x      
+    [2]   x AFC Telford United (???)     ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+    [3]   x AFC Wimbledon (???)          ::  412 matches in   9 seasons / 3 levels -    x         x      3 (2)     4 (5)     5 (2)     
+    [4]   x Accrington (???)             ::  594 matches in  13 seasons / 2 levels -    x         x         x      4 (12)    5 (1)     
+    [5]   x Aldershot (???)              ::  594 matches in  13 seasons / 2 levels -    x         x         x      4 (5)     5 (8)     
+    [6]   x Alfreton Town (???)          ::  184 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
+    [7]   x Altrincham (???)             ::  362 matches in   8 seasons / 1 levels -    x         x         x         x      5 (8)     
+    [8]  Arsenal FC                      ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
+    [9]  Aston Villa FC                  ::  974 matches in  25 seasons / 2 levels - 1 (23)    2 (2)        x         x         x      
+   [10]   x Barnet (???)                 ::  962 matches in  21 seasons / 3 levels -    x         x      3 (1)     4 (18)    5 (2)     
+   [11]  Barnsley FC                     :: 1142 matches in  25 seasons / 3 levels - 1 (1)     2 (18)    3 (6)        x         x      
+   [12]   x Barrow (???)                 ::  366 matches in   8 seasons / 1 levels -    x         x         x         x      5 (8)     
+   [13]   x Bath City (???)              ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+   [14]  Birmingham City FC              :: 1094 matches in  25 seasons / 3 levels - 1 (7)     2 (17)    3 (1)        x         x      
+   [15]  Blackburn Rovers FC             :: 1022 matches in  25 seasons / 3 levels - 1 (17)    2 (7)     3 (1)        x         x      
+   [16]  Blackpool FC                    :: 1142 matches in  25 seasons / 4 levels - 1 (1)     2 (7)     3 (15)    4 (2)        x      
+   [17]  Bolton Wanderers FC             :: 1046 matches in  25 seasons / 3 levels - 1 (13)    2 (11)    3 (1)        x         x      
+   [18]   x Boreham Wood (???)           ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+   [19]   x Boston (???)                 ::  230 matches in   5 seasons / 1 levels -    x         x         x      4 (5)        x      
+   [20]  Bradford City AFC               :: 1134 matches in  25 seasons / 4 levels - 1 (2)     2 (6)     3 (11)    4 (6)        x      
    [21]   x Braintree Town (???)         ::  276 matches in   6 seasons / 1 levels -    x         x         x         x      5 (6)     
    [22]   x Brentford (???)              :: 1150 matches in  25 seasons / 3 levels -    x      2 (4)     3 (18)    4 (3)        x      
-   [23]   x Brighton (???)               :: 1142 matches in  25 seasons / 4 levels - 1 (1)     2 (9)     3 (10)    4 (5)        x      
+   [23]  Brighton & Hove Albion FC       :: 1142 matches in  25 seasons / 4 levels - 1 (1)     2 (9)     3 (10)    4 (5)        x      
    [24]   x Bristol City (???)           :: 1150 matches in  25 seasons / 2 levels -    x      2 (12)    3 (13)       x         x      
    [25]   x Bristol Rvs (???)            :: 1150 matches in  25 seasons / 3 levels -    x         x      3 (14)    4 (10)    5 (1)     
    [26]   x Bromley (???)                ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-   [27]   x Burnley (???)                :: 1118 matches in  25 seasons / 3 levels - 1 (4)     2 (15)    3 (6)        x         x      
+   [27]  Burnley FC                      :: 1118 matches in  25 seasons / 3 levels - 1 (4)     2 (15)    3 (6)        x         x      
    [28]   x Burton (???)                 ::  594 matches in  13 seasons / 4 levels -    x      2 (2)     3 (1)     4 (6)     5 (4)     
    [29]   x Bury (???)                   :: 1142 matches in  25 seasons / 3 levels -    x      2 (2)     3 (9)     4 (14)       x      
    [30]   x Cambridge (???)              :: 1144 matches in  25 seasons / 3 levels -    x         x      3 (5)     4 (11)    5 (9)     
    [31]   x Canvey Island (???)          ::   42 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-   [32]   x Cardiff (???)                :: 1142 matches in  25 seasons / 4 levels - 1 (1)     2 (14)    3 (5)     4 (5)        x      
+   [32]  Cardiff City FC                 :: 1142 matches in  25 seasons / 4 levels - 1 (1)     2 (14)    3 (5)     4 (5)        x      
    [33]   x Carlisle (???)               :: 1096 matches in  24 seasons / 2 levels -    x         x      3 (10)    4 (14)       x      
-   [34]   x Charlton (???)               :: 1086 matches in  25 seasons / 3 levels - 1 (8)     2 (12)    3 (5)        x         x      
-   [35]   x Chelsea (???)                ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
+   [34]  Charlton Athletic FC            :: 1086 matches in  25 seasons / 3 levels - 1 (8)     2 (12)    3 (5)        x         x      
+   [35]  Chelsea FC                      ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
    [36]   x Cheltenham (???)             ::  874 matches in  19 seasons / 3 levels -    x         x      3 (4)     4 (14)    5 (1)     
    [37]   x Chester (???)                ::  778 matches in  17 seasons / 3 levels -    x         x      3 (1)     4 (11)    5 (5)     
    [38]   x Chesterfield (???)           :: 1142 matches in  25 seasons / 2 levels -    x         x      3 (15)    4 (10)       x      
    [39]   x Colchester (???)             :: 1142 matches in  25 seasons / 3 levels -    x      2 (2)     3 (16)    4 (7)        x      
-   [40]   x Coventry (???)               :: 1094 matches in  25 seasons / 4 levels - 1 (8)     2 (11)    3 (5)     4 (1)        x      
+   [40]  Coventry City FC                :: 1094 matches in  25 seasons / 4 levels - 1 (8)     2 (11)    3 (5)     4 (1)        x      
    [41]   x Crawley Town (???)           ::  592 matches in  13 seasons / 3 levels -    x         x      3 (3)     4 (4)     5 (6)     
    [42]   x Crewe (???)                  :: 1146 matches in  25 seasons / 3 levels -    x      2 (8)     3 (11)    4 (6)        x      
-   [43]   x Crystal Palace (???)         :: 1090 matches in  25 seasons / 2 levels - 1 (8)     2 (17)       x         x         x      
+   [43]  Crystal Palace FC               :: 1090 matches in  25 seasons / 2 levels - 1 (8)     2 (17)       x         x         x      
    [44]   x Dag and Red (???)            ::  594 matches in  13 seasons / 3 levels -    x         x      3 (1)     4 (8)     5 (4)     
    [45]   x Darlington (???)             ::  866 matches in  19 seasons / 2 levels -    x         x         x      4 (17)    5 (2)     
    [46]   x Dartford (???)               ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-   [47]   x Derby (???)                  :: 1094 matches in  25 seasons / 2 levels - 1 (7)     2 (18)       x         x         x      
+   [47]  Derby County FC                 :: 1094 matches in  25 seasons / 2 levels - 1 (7)     2 (18)       x         x         x      
    [48]   x Doncaster (???)              ::  912 matches in  20 seasons / 3 levels -    x      2 (5)     3 (8)     4 (7)        x      
    [49]   x Dover Athletic (???)         ::  184 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
    [50]   x Droylsden (???)              ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
    [51]   x Eastbourne Borough (???)     ::  136 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
    [52]   x Eastleigh (???)              ::  184 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
    [53]   x Ebbsfleet (???)              ::  274 matches in   6 seasons / 1 levels -    x         x         x         x      5 (6)     
-   [54]   x Everton (???)                ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
+   [54]  Everton FC                      ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
    [55]   x Exeter (???)                 :: 1050 matches in  23 seasons / 3 levels -    x         x      3 (4)     4 (16)    5 (3)     
    [56]   x Farsley (???)                ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
    [57]   x Fleetwood Town (???)         ::  368 matches in   8 seasons / 3 levels -    x         x      3 (4)     4 (2)     5 (2)     
    [58]   x Forest Green (???)           ::  592 matches in  13 seasons / 2 levels -    x         x         x      4 (1)     5 (12)    
-   [59]   x Fulham (???)                 :: 1042 matches in  25 seasons / 4 levels - 1 (13)    2 (6)     3 (3)     4 (3)        x      
+   [59]  Fulham FC                       :: 1042 matches in  25 seasons / 4 levels - 1 (13)    2 (6)     3 (3)     4 (3)        x      
    [60]   x Fylde (???)                  ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
    [61]   x Gateshead (???)              ::  412 matches in   9 seasons / 1 levels -    x         x         x         x      5 (9)     
    [62]   x Gillingham (???)             :: 1142 matches in  25 seasons / 3 levels -    x      2 (5)     3 (13)    4 (7)        x      
@@ -657,96 +658,95 @@ level 5 - 13 seasons:
    [69]   x Hayes & Yeading (???)        ::  136 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
    [70]   x Hereford (???)               ::  586 matches in  13 seasons / 3 levels -    x         x      3 (1)     4 (9)     5 (3)     
    [71]   x Histon (???)                 ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
-   [72]   x Huddersfield (???)           :: 1142 matches in  25 seasons / 4 levels - 1 (1)     2 (11)    3 (12)    4 (1)        x      
-   [73]   x Hull (???)                   :: 1110 matches in  25 seasons / 4 levels - 1 (5)     2 (8)     3 (4)     4 (8)        x      
+   [72]  Huddersfield Town AFC           :: 1142 matches in  25 seasons / 4 levels - 1 (1)     2 (11)    3 (12)    4 (1)        x      
+   [73]  Hull City AFC                   :: 1110 matches in  25 seasons / 4 levels - 1 (5)     2 (8)     3 (4)     4 (8)        x      
    [74]   x Hyde United (???)            ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-   [75]   x Ipswich (???)                :: 1126 matches in  25 seasons / 2 levels - 1 (4)     2 (21)       x         x         x      
+   [75]  Ipswich Town FC                 :: 1126 matches in  25 seasons / 2 levels - 1 (4)     2 (21)       x         x         x      
    [76]   x Kettering Town (???)         ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
    [77]   x Kidderminster (???)          ::  730 matches in  16 seasons / 2 levels -    x         x         x      4 (5)     5 (11)    
-   [78]   x Leeds (???)                  :: 1070 matches in  25 seasons / 3 levels - 1 (11)    2 (11)    3 (3)        x         x      
-   [79]   x Leicester (???)              :: 1058 matches in  25 seasons / 3 levels - 1 (12)    2 (12)    3 (1)        x         x      
+   [78]  Leeds United FC                 :: 1070 matches in  25 seasons / 3 levels - 1 (11)    2 (11)    3 (3)        x         x      
+   [79]  Leicester City FC               :: 1058 matches in  25 seasons / 3 levels - 1 (12)    2 (12)    3 (1)        x         x      
    [80]   x Lewes (???)                  ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
    [81]   x Leyton Orient (???)          :: 1150 matches in  25 seasons / 3 levels -    x         x      3 (11)    4 (13)    5 (1)     
    [82]   x Lincoln (???)                :: 1142 matches in  25 seasons / 3 levels -    x         x      3 (1)     4 (18)    5 (6)     
-   [83]   x Liverpool (???)              ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
+   [83]  Liverpool FC                    ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
    [84]   x Luton (???)                  :: 1148 matches in  25 seasons / 4 levels -    x      2 (5)     3 (9)     4 (6)     5 (5)     
    [85]   x Macclesfield (???)           ::  966 matches in  21 seasons / 3 levels -    x         x      3 (1)     4 (14)    5 (6)     
    [86]   x Maidenhead (???)             ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
    [87]   x Maidstone (???)              ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-   [88]   x Man City (???)               ::  998 matches in  25 seasons / 3 levels - 1 (20)    2 (4)     3 (1)        x         x      
-   [89]   x Man United (???)             ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
+   [88]  Manchester City FC              ::  998 matches in  25 seasons / 3 levels - 1 (20)    2 (4)     3 (1)        x         x      
+   [89]  Manchester United FC            ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
    [90]   x Mansfield (???)              :: 1140 matches in  25 seasons / 3 levels -    x         x      3 (1)     4 (19)    5 (5)     
-   [91]   x Middlesboro (???)            ::   38 matches in   1 seasons / 1 levels - 1 (1)        x         x         x         x      
-   [92]   x Middlesbrough (???)          :: 1000 matches in  24 seasons / 2 levels - 1 (13)    2 (11)       x         x         x      
-   [93]   x Millwall (???)               :: 1150 matches in  25 seasons / 2 levels -    x      2 (14)    3 (11)       x         x      
-   [94]   x Milton Keynes Dons (???)     ::  644 matches in  14 seasons / 3 levels -    x      2 (1)     3 (11)    4 (2)        x      
-   [95]   x Morecambe (???)              ::  594 matches in  13 seasons / 2 levels -    x         x         x      4 (11)    5 (2)     
-   [96]   x Newcastle (???)              ::  974 matches in  25 seasons / 2 levels - 1 (23)    2 (2)        x         x         x      
-   [97]   x Newport County (???)         ::  368 matches in   8 seasons / 2 levels -    x         x         x      4 (5)     5 (3)     
-   [98]   x North Ferriby (???)          ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-   [99]   x Northampton (???)            :: 1142 matches in  25 seasons / 2 levels -    x         x      3 (10)    4 (15)       x      
-  [100]   x Northwich (???)              ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-  [101]   x Norwich (???)                :: 1102 matches in  25 seasons / 3 levels - 1 (7)     2 (17)    3 (1)        x         x      
-  [102]   x Nott'm Forest (???)          :: 1122 matches in  25 seasons / 3 levels - 1 (4)     2 (18)    3 (3)        x         x      
-  [103]   x Notts County (???)           :: 1150 matches in  25 seasons / 3 levels -    x      2 (2)     3 (13)    4 (10)       x      
-  [104]   x Nuneaton Town (???)          ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-  [105]   x Oldham (???)                 :: 1146 matches in  25 seasons / 3 levels - 1 (1)     2 (3)     3 (21)       x         x      
-  [106]   x Oxford (???)                 :: 1148 matches in  25 seasons / 4 levels -    x      2 (4)     3 (6)     4 (11)    5 (4)     
-  [107]   x Peterboro (???)              :: 1150 matches in  25 seasons / 3 levels -    x      2 (4)     3 (15)    4 (6)        x      
-  [108]   x Plymouth (???)               :: 1150 matches in  25 seasons / 3 levels -    x      2 (6)     3 (8)     4 (11)       x      
-  [109]   x Port Vale (???)              :: 1150 matches in  25 seasons / 3 levels -    x      2 (6)     3 (13)    4 (6)        x      
-  [110]   x Portsmouth (???)             :: 1094 matches in  25 seasons / 4 levels - 1 (7)     2 (12)    3 (2)     4 (4)        x      
-  [111]   x Preston (???)                :: 1142 matches in  25 seasons / 3 levels -    x      2 (14)    3 (8)     4 (3)        x      
-  [112]   x QPR (???)                    :: 1110 matches in  25 seasons / 3 levels - 1 (6)     2 (16)    3 (3)        x         x      
-  [113]   x Reading (???)                :: 1126 matches in  25 seasons / 3 levels - 1 (3)     2 (17)    3 (5)        x         x      
-  [114]   x Rochdale (???)               :: 1142 matches in  25 seasons / 2 levels -    x         x      3 (6)     4 (19)       x      
-  [115]   x Rotherham (???)              :: 1150 matches in  25 seasons / 3 levels -    x      2 (7)     3 (9)     4 (9)        x      
-  [116]   x Rushden & D (???)            ::  458 matches in  10 seasons / 3 levels -    x         x      3 (1)     4 (4)     5 (5)     
-  [117]   x Salisbury (???)              ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
-  [118]   x Scarborough (???)            ::  310 matches in   7 seasons / 2 levels -    x         x         x      4 (6)     5 (1)     
-  [119]   x Scunthorpe (???)             :: 1142 matches in  25 seasons / 3 levels -    x      2 (3)     3 (10)    4 (12)       x      
-  [120]   x Sheffield United (???)       :: 1138 matches in  25 seasons / 3 levels - 1 (2)     2 (17)    3 (6)        x         x      
-  [121]   x Sheffield Weds (???)         :: 1102 matches in  25 seasons / 3 levels - 1 (7)     2 (14)    3 (4)        x         x      
-  [122]   x Shrewsbury (???)             :: 1100 matches in  24 seasons / 2 levels -    x         x      3 (8)     4 (16)       x      
-  [123]   x Solihull (???)               ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-  [124]   x Southampton (???)            :: 1014 matches in  25 seasons / 3 levels - 1 (18)    2 (5)     3 (2)        x         x      
-  [125]   x Southend (???)               :: 1150 matches in  25 seasons / 3 levels -    x      2 (5)     3 (8)     4 (12)       x      
-  [126]   x Southport (???)              ::  410 matches in   9 seasons / 1 levels -    x         x         x         x      5 (9)     
-  [127]   x St. Albans (???)             ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-  [128]   x Stafford Rangers (???)       ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-  [129]   x Stevenage (???)              ::  592 matches in  13 seasons / 3 levels -    x         x      3 (3)     4 (5)     5 (5)     
-  [130]   x Stockport (???)              ::  920 matches in  20 seasons / 4 levels -    x      2 (5)     3 (9)     4 (4)     5 (2)     
-  [131]   x Stoke (???)                  :: 1070 matches in  25 seasons / 3 levels - 1 (10)    2 (11)    3 (4)        x         x      
-  [132]   x Sunderland (???)             :: 1022 matches in  25 seasons / 2 levels - 1 (16)    2 (9)        x         x         x      
-  [133]   x Sutton (???)                 ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-  [134]   x Swansea (???)                :: 1094 matches in  25 seasons / 4 levels - 1 (7)     2 (3)     3 (7)     4 (8)        x      
-  [135]   x Swindon (???)                :: 1146 matches in  25 seasons / 4 levels - 1 (1)     2 (5)     3 (16)    4 (3)        x      
-  [136]   x Tamworth (???)               ::  316 matches in   7 seasons / 1 levels -    x         x         x         x      5 (7)     
-  [137]   x Telford United (???)         ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-  [138]   x Torquay (???)                :: 1142 matches in  25 seasons / 3 levels -    x         x      3 (1)     4 (18)    5 (6)     
-  [139]   x Tottenham (???)              ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
-  [140]   x Tranmere (???)               :: 1150 matches in  25 seasons / 4 levels -    x      2 (8)     3 (13)    4 (1)     5 (3)     
-  [141]   x Walsall (???)                :: 1142 matches in  25 seasons / 3 levels -    x      2 (4)     3 (18)    4 (3)        x      
-  [142]   x Watford (???)                :: 1110 matches in  25 seasons / 3 levels - 1 (5)     2 (18)    3 (2)        x         x      
-  [143]   x Welling United (???)         ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-  [144]   x West Brom (???)              :: 1054 matches in  25 seasons / 2 levels - 1 (12)    2 (13)       x         x         x      
-  [145]   x West Ham (???)               ::  982 matches in  25 seasons / 2 levels - 1 (22)    2 (3)        x         x         x      
-  [146]   x Weymouth (???)               ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-  [147]   x Wigan (???)                  :: 1078 matches in  25 seasons / 4 levels - 1 (8)     2 (5)     3 (8)     4 (4)        x      
-  [148]   x Wimbledon (???)              ::  458 matches in  11 seasons / 2 levels - 1 (7)     2 (4)        x         x         x      
-  [149]   x Woking (???)                 ::  456 matches in  10 seasons / 1 levels -    x         x         x         x      5 (10)    
-  [150]   x Wolves (???)                 :: 1118 matches in  25 seasons / 3 levels - 1 (4)     2 (20)    3 (1)        x         x      
-  [151]   x Wrexham (???)                :: 1148 matches in  25 seasons / 3 levels -    x         x      3 (11)    4 (4)     5 (10)    
-  [152]   x Wycombe (???)                :: 1146 matches in  25 seasons / 2 levels -    x         x      3 (12)    4 (13)       x      
-  [153]   x Yeovil (???)                 ::  690 matches in  15 seasons / 3 levels -    x      2 (1)     3 (9)     4 (5)        x      
-  [154]   x York (???)                   :: 1052 matches in  23 seasons / 3 levels -    x         x      3 (6)     4 (9)     5 (8)     
+   [91]  Middlesbrough FC                :: 1038 matches in  25 seasons / 2 levels - 1 (14)    2 (11)       x         x         x      
+   [92]   x Millwall (???)               :: 1150 matches in  25 seasons / 2 levels -    x      2 (14)    3 (11)       x         x      
+   [93]   x Milton Keynes Dons (???)     ::  644 matches in  14 seasons / 3 levels -    x      2 (1)     3 (11)    4 (2)        x      
+   [94]   x Morecambe (???)              ::  594 matches in  13 seasons / 2 levels -    x         x         x      4 (11)    5 (2)     
+   [95]  Newcastle United FC             ::  974 matches in  25 seasons / 2 levels - 1 (23)    2 (2)        x         x         x      
+   [96]   x Newport County (???)         ::  368 matches in   8 seasons / 2 levels -    x         x         x      4 (5)     5 (3)     
+   [97]   x North Ferriby (???)          ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+   [98]   x Northampton (???)            :: 1142 matches in  25 seasons / 2 levels -    x         x      3 (10)    4 (15)       x      
+   [99]   x Northwich (???)              ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+  [100]  Norwich City FC                 :: 1102 matches in  25 seasons / 3 levels - 1 (7)     2 (17)    3 (1)        x         x      
+  [101]  Nottingham Forest FC            :: 1122 matches in  25 seasons / 3 levels - 1 (4)     2 (18)    3 (3)        x         x      
+  [102]   x Notts County (???)           :: 1150 matches in  25 seasons / 3 levels -    x      2 (2)     3 (13)    4 (10)       x      
+  [103]   x Nuneaton Town (???)          ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+  [104]  Oldham Athletic AFC             :: 1146 matches in  25 seasons / 3 levels - 1 (1)     2 (3)     3 (21)       x         x      
+  [105]   x Oxford (???)                 :: 1148 matches in  25 seasons / 4 levels -    x      2 (4)     3 (6)     4 (11)    5 (4)     
+  [106]   x Peterboro (???)              :: 1150 matches in  25 seasons / 3 levels -    x      2 (4)     3 (15)    4 (6)        x      
+  [107]   x Plymouth (???)               :: 1150 matches in  25 seasons / 3 levels -    x      2 (6)     3 (8)     4 (11)       x      
+  [108]   x Port Vale (???)              :: 1150 matches in  25 seasons / 3 levels -    x      2 (6)     3 (13)    4 (6)        x      
+  [109]  Portsmouth FC                   :: 1094 matches in  25 seasons / 4 levels - 1 (7)     2 (12)    3 (2)     4 (4)        x      
+  [110]   x Preston (???)                :: 1142 matches in  25 seasons / 3 levels -    x      2 (14)    3 (8)     4 (3)        x      
+  [111]  Queens Park Rangers FC          :: 1110 matches in  25 seasons / 3 levels - 1 (6)     2 (16)    3 (3)        x         x      
+  [112]  Reading FC                      :: 1126 matches in  25 seasons / 3 levels - 1 (3)     2 (17)    3 (5)        x         x      
+  [113]   x Rochdale (???)               :: 1142 matches in  25 seasons / 2 levels -    x         x      3 (6)     4 (19)       x      
+  [114]   x Rotherham (???)              :: 1150 matches in  25 seasons / 3 levels -    x      2 (7)     3 (9)     4 (9)        x      
+  [115]   x Rushden & D (???)            ::  458 matches in  10 seasons / 3 levels -    x         x      3 (1)     4 (4)     5 (5)     
+  [116]   x Salisbury (???)              ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
+  [117]   x Scarborough (???)            ::  310 matches in   7 seasons / 2 levels -    x         x         x      4 (6)     5 (1)     
+  [118]   x Scunthorpe (???)             :: 1142 matches in  25 seasons / 3 levels -    x      2 (3)     3 (10)    4 (12)       x      
+  [119]  Sheffield United FC             :: 1138 matches in  25 seasons / 3 levels - 1 (2)     2 (17)    3 (6)        x         x      
+  [120]  Sheffield Wednesday FC          :: 1102 matches in  25 seasons / 3 levels - 1 (7)     2 (14)    3 (4)        x         x      
+  [121]   x Shrewsbury (???)             :: 1100 matches in  24 seasons / 2 levels -    x         x      3 (8)     4 (16)       x      
+  [122]   x Solihull (???)               ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+  [123]  Southampton FC                  :: 1014 matches in  25 seasons / 3 levels - 1 (18)    2 (5)     3 (2)        x         x      
+  [124]   x Southend (???)               :: 1150 matches in  25 seasons / 3 levels -    x      2 (5)     3 (8)     4 (12)       x      
+  [125]   x Southport (???)              ::  410 matches in   9 seasons / 1 levels -    x         x         x         x      5 (9)     
+  [126]   x St. Albans (???)             ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+  [127]   x Stafford Rangers (???)       ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+  [128]   x Stevenage (???)              ::  592 matches in  13 seasons / 3 levels -    x         x      3 (3)     4 (5)     5 (5)     
+  [129]   x Stockport (???)              ::  920 matches in  20 seasons / 4 levels -    x      2 (5)     3 (9)     4 (4)     5 (2)     
+  [130]  Stoke City FC                   :: 1070 matches in  25 seasons / 3 levels - 1 (10)    2 (11)    3 (4)        x         x      
+  [131]  Sunderland AFC                  :: 1022 matches in  25 seasons / 2 levels - 1 (16)    2 (9)        x         x         x      
+  [132]   x Sutton (???)                 ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+  [133]  Swansea City AFC                :: 1094 matches in  25 seasons / 4 levels - 1 (7)     2 (3)     3 (7)     4 (8)        x      
+  [134]  Swindon Town FC                 :: 1146 matches in  25 seasons / 4 levels - 1 (1)     2 (5)     3 (16)    4 (3)        x      
+  [135]   x Tamworth (???)               ::  316 matches in   7 seasons / 1 levels -    x         x         x         x      5 (7)     
+  [136]   x Telford United (???)         ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+  [137]   x Torquay (???)                :: 1142 matches in  25 seasons / 3 levels -    x         x      3 (1)     4 (18)    5 (6)     
+  [138]  Tottenham Hotspur FC            ::  958 matches in  25 seasons / 1 levels - 1 (25)       x         x         x         x      
+  [139]   x Tranmere (???)               :: 1150 matches in  25 seasons / 4 levels -    x      2 (8)     3 (13)    4 (1)     5 (3)     
+  [140]   x Walsall (???)                :: 1142 matches in  25 seasons / 3 levels -    x      2 (4)     3 (18)    4 (3)        x      
+  [141]  Watford FC                      :: 1110 matches in  25 seasons / 3 levels - 1 (5)     2 (18)    3 (2)        x         x      
+  [142]   x Welling United (???)         ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+  [143]  West Bromwich Albion FC         :: 1054 matches in  25 seasons / 2 levels - 1 (12)    2 (13)       x         x         x      
+  [144]  West Ham United FC              ::  982 matches in  25 seasons / 2 levels - 1 (22)    2 (3)        x         x         x      
+  [145]   x Weymouth (???)               ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+  [146]  Wigan Athletic FC               :: 1078 matches in  25 seasons / 4 levels - 1 (8)     2 (5)     3 (8)     4 (4)        x      
+  [147]  Wimbledon FC                    ::  458 matches in  11 seasons / 2 levels - 1 (7)     2 (4)        x         x         x      
+  [148]   x Woking (???)                 ::  456 matches in  10 seasons / 1 levels -    x         x         x         x      5 (10)    
+  [149]  Wolverhampton Wanderers FC      :: 1118 matches in  25 seasons / 3 levels - 1 (4)     2 (20)    3 (1)        x         x      
+  [150]   x Wrexham (???)                :: 1148 matches in  25 seasons / 3 levels -    x         x      3 (11)    4 (4)     5 (10)    
+  [151]   x Wycombe (???)                :: 1146 matches in  25 seasons / 2 levels -    x         x      3 (12)    4 (13)       x      
+  [152]   x Yeovil (???)                 ::  690 matches in  15 seasons / 3 levels -    x      2 (1)     3 (9)     4 (5)        x      
+  [153]   x York (???)                   :: 1052 matches in  23 seasons / 3 levels -    x         x      3 (6)     4 (9)     5 (8)     
 ```
 
 
 ### Team Name Mappings
 
-154 missing / unknown / (???) teams:
-AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrincham, Arsenal, Aston Villa, Barnet, Barnsley, Barrow, Bath City, Birmingham, Blackburn, Blackpool, Bolton, Boreham Wood, Boston, Bournemouth, Bradford, Braintree Town, Brentford, Brighton, Bristol City, Bristol Rvs, Bromley, Burnley, Burton, Bury, Cambridge, Canvey Island, Cardiff, Carlisle, Charlton, Chelsea, Cheltenham, Chester, Chesterfield, Colchester, Coventry, Crawley Town, Crewe, Crystal Palace, Dag and Red, Darlington, Dartford, Derby, Doncaster, Dover Athletic, Droylsden, Eastbourne Borough, Eastleigh, Ebbsfleet, Everton, Exeter, Farsley, Fleetwood Town, Forest Green, Fulham, Fylde, Gateshead, Gillingham, Gravesend, Grays, Grimsby, Guiseley, Halifax, Hartlepool, Hayes & Yeading, Hereford, Histon, Huddersfield, Hull, Hyde United, Ipswich, Kettering Town, Kidderminster, Leeds, Leicester, Lewes, Leyton Orient, Lincoln, Liverpool, Luton, Macclesfield, Maidenhead, Maidstone, Man City, Man United, Mansfield, Middlesboro, Middlesbrough, Millwall, Milton Keynes Dons, Morecambe, Newcastle, Newport County, North Ferriby, Northampton, Northwich, Norwich, Nott'm Forest, Notts County, Nuneaton Town, Oldham, Oxford, Peterboro, Plymouth, Port Vale, Portsmouth, Preston, QPR, Reading, Rochdale, Rotherham, Rushden & D, Salisbury, Scarborough, Scunthorpe, Sheffield United, Sheffield Weds, Shrewsbury, Solihull, Southampton, Southend, Southport, St. Albans, Stafford Rangers, Stevenage, Stockport, Stoke, Sunderland, Sutton, Swansea, Swindon, Tamworth, Telford United, Torquay, Tottenham, Tranmere, Walsall, Watford, Welling United, West Brom, West Ham, Weymouth, Wigan, Wimbledon, Woking, Wolves, Wrexham, Wycombe, Yeovil, York
+104 missing / unknown / (???) teams:
+AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrincham, Barnet, Barrow, Bath City, Boreham Wood, Boston, Braintree Town, Brentford, Bristol City, Bristol Rvs, Bromley, Burton, Bury, Cambridge, Canvey Island, Carlisle, Cheltenham, Chester, Chesterfield, Colchester, Crawley Town, Crewe, Dag and Red, Darlington, Dartford, Doncaster, Dover Athletic, Droylsden, Eastbourne Borough, Eastleigh, Ebbsfleet, Exeter, Farsley, Fleetwood Town, Forest Green, Fylde, Gateshead, Gillingham, Gravesend, Grays, Grimsby, Guiseley, Halifax, Hartlepool, Hayes & Yeading, Hereford, Histon, Hyde United, Kettering Town, Kidderminster, Lewes, Leyton Orient, Lincoln, Luton, Macclesfield, Maidenhead, Maidstone, Mansfield, Millwall, Milton Keynes Dons, Morecambe, Newport County, North Ferriby, Northampton, Northwich, Notts County, Nuneaton Town, Oxford, Peterboro, Plymouth, Port Vale, Preston, Rochdale, Rotherham, Rushden & D, Salisbury, Scarborough, Scunthorpe, Shrewsbury, Solihull, Southend, Southport, St. Albans, Stafford Rangers, Stevenage, Stockport, Sutton, Tamworth, Telford United, Torquay, Tranmere, Walsall, Welling United, Weymouth, Woking, Wrexham, Wycombe, Yeovil, York
 
 
 ```
@@ -756,59 +756,40 @@ Accrington             =>
 Aldershot              =>
 Alfreton Town          =>
 Altrincham             =>
-Arsenal                =>
-Aston Villa            =>
 Barnet                 =>
-Barnsley               =>
 Barrow                 =>
 Bath City              =>
-Birmingham             =>
-Blackburn              =>
-Blackpool              =>
-Bolton                 =>
 Boreham Wood           =>
 Boston                 =>
-Bournemouth            =>
-Bradford               =>
 Braintree Town         =>
 Brentford              =>
-Brighton               =>
 Bristol City           =>
 Bristol Rvs            =>
 Bromley                =>
-Burnley                =>
 Burton                 =>
 Bury                   =>
 Cambridge              =>
 Canvey Island          =>
-Cardiff                =>
 Carlisle               =>
-Charlton               =>
-Chelsea                =>
 Cheltenham             =>
 Chester                =>
 Chesterfield           =>
 Colchester             =>
-Coventry               =>
 Crawley Town           =>
 Crewe                  =>
-Crystal Palace         =>
 Dag and Red            =>
 Darlington             =>
 Dartford               =>
-Derby                  =>
 Doncaster              =>
 Dover Athletic         =>
 Droylsden              =>
 Eastbourne Borough     =>
 Eastleigh              =>
 Ebbsfleet              =>
-Everton                =>
 Exeter                 =>
 Farsley                =>
 Fleetwood Town         =>
 Forest Green           =>
-Fulham                 =>
 Fylde                  =>
 Gateshead              =>
 Gillingham             =>
@@ -821,85 +802,54 @@ Hartlepool             =>
 Hayes & Yeading        =>
 Hereford               =>
 Histon                 =>
-Huddersfield           =>
-Hull                   =>
 Hyde United            =>
-Ipswich                =>
 Kettering Town         =>
 Kidderminster          =>
-Leeds                  =>
-Leicester              =>
 Lewes                  =>
 Leyton Orient          =>
 Lincoln                =>
-Liverpool              =>
 Luton                  =>
 Macclesfield           =>
 Maidenhead             =>
 Maidstone              =>
-Man City               =>
-Man United             =>
 Mansfield              =>
-Middlesboro            =>
-Middlesbrough          =>
 Millwall               =>
 Milton Keynes Dons     =>
 Morecambe              =>
-Newcastle              =>
 Newport County         =>
 North Ferriby          =>
 Northampton            =>
 Northwich              =>
-Norwich                =>
-Nott'm Forest          =>
 Notts County           =>
 Nuneaton Town          =>
-Oldham                 =>
 Oxford                 =>
 Peterboro              =>
 Plymouth               =>
 Port Vale              =>
-Portsmouth             =>
 Preston                =>
-QPR                    =>
-Reading                =>
 Rochdale               =>
 Rotherham              =>
 Rushden & D            =>
 Salisbury              =>
 Scarborough            =>
 Scunthorpe             =>
-Sheffield United       =>
-Sheffield Weds         =>
 Shrewsbury             =>
 Solihull               =>
-Southampton            =>
 Southend               =>
 Southport              =>
 St. Albans             =>
 Stafford Rangers       =>
 Stevenage              =>
 Stockport              =>
-Stoke                  =>
-Sunderland             =>
 Sutton                 =>
-Swansea                =>
-Swindon                =>
 Tamworth               =>
 Telford United         =>
 Torquay                =>
-Tottenham              =>
 Tranmere               =>
 Walsall                =>
-Watford                =>
 Welling United         =>
-West Brom              =>
-West Ham               =>
 Weymouth               =>
-Wigan                  =>
-Wimbledon              =>
 Woking                 =>
-Wolves                 =>
 Wrexham                =>
 Wycombe                =>
 Yeovil                 =>
@@ -909,65 +859,65 @@ York                   =>
 
 
 ```
+AFC Bournemouth             => Bournemouth
  x AFC Telford United (???)
  x AFC Wimbledon (???)
  x Accrington (???)
  x Aldershot (???)
  x Alfreton Town (???)
  x Altrincham (???)
- x Arsenal (???)
- x Aston Villa (???)
+Arsenal FC                  => Arsenal
+Aston Villa FC              => Aston Villa
  x Barnet (???)
- x Barnsley (???)
+Barnsley FC                 => Barnsley
  x Barrow (???)
  x Bath City (???)
- x Birmingham (???)
- x Blackburn (???)
- x Blackpool (???)
- x Bolton (???)
+Birmingham City FC          => Birmingham
+Blackburn Rovers FC         => Blackburn
+Blackpool FC                => Blackpool
+Bolton Wanderers FC         => Bolton
  x Boreham Wood (???)
  x Boston (???)
- x Bournemouth (???)
- x Bradford (???)
+Bradford City AFC           => Bradford
  x Braintree Town (???)
  x Brentford (???)
- x Brighton (???)
+Brighton & Hove Albion FC   => Brighton
  x Bristol City (???)
  x Bristol Rvs (???)
  x Bromley (???)
- x Burnley (???)
+Burnley FC                  => Burnley
  x Burton (???)
  x Bury (???)
  x Cambridge (???)
  x Canvey Island (???)
- x Cardiff (???)
+Cardiff City FC             => Cardiff
  x Carlisle (???)
- x Charlton (???)
- x Chelsea (???)
+Charlton Athletic FC        => Charlton
+Chelsea FC                  => Chelsea
  x Cheltenham (???)
  x Chester (???)
  x Chesterfield (???)
  x Colchester (???)
- x Coventry (???)
+Coventry City FC            => Coventry
  x Crawley Town (???)
  x Crewe (???)
- x Crystal Palace (???)
+Crystal Palace FC           => Crystal Palace
  x Dag and Red (???)
  x Darlington (???)
  x Dartford (???)
- x Derby (???)
+Derby County FC             => Derby
  x Doncaster (???)
  x Dover Athletic (???)
  x Droylsden (???)
  x Eastbourne Borough (???)
  x Eastleigh (???)
  x Ebbsfleet (???)
- x Everton (???)
+Everton FC                  => Everton
  x Exeter (???)
  x Farsley (???)
  x Fleetwood Town (???)
  x Forest Green (???)
- x Fulham (???)
+Fulham FC                   => Fulham
  x Fylde (???)
  x Gateshead (???)
  x Gillingham (???)
@@ -980,85 +930,84 @@ York                   =>
  x Hayes & Yeading (???)
  x Hereford (???)
  x Histon (???)
- x Huddersfield (???)
- x Hull (???)
+Huddersfield Town AFC       => Huddersfield
+Hull City AFC               => Hull
  x Hyde United (???)
- x Ipswich (???)
+Ipswich Town FC             => Ipswich
  x Kettering Town (???)
  x Kidderminster (???)
- x Leeds (???)
- x Leicester (???)
+Leeds United FC             => Leeds
+Leicester City FC           => Leicester
  x Lewes (???)
  x Leyton Orient (???)
  x Lincoln (???)
- x Liverpool (???)
+Liverpool FC                => Liverpool
  x Luton (???)
  x Macclesfield (???)
  x Maidenhead (???)
  x Maidstone (???)
- x Man City (???)
- x Man United (???)
+Manchester City FC          => Man City
+Manchester United FC        => Man United
  x Mansfield (???)
- x Middlesboro (???)
- x Middlesbrough (???)
+Middlesbrough FC            => (2) Middlesboro • Middlesbrough
  x Millwall (???)
  x Milton Keynes Dons (???)
  x Morecambe (???)
- x Newcastle (???)
+Newcastle United FC         => Newcastle
  x Newport County (???)
  x North Ferriby (???)
  x Northampton (???)
  x Northwich (???)
- x Norwich (???)
- x Nott'm Forest (???)
+Norwich City FC             => Norwich
+Nottingham Forest FC        => Nott'm Forest
  x Notts County (???)
  x Nuneaton Town (???)
- x Oldham (???)
+Oldham Athletic AFC         => Oldham
  x Oxford (???)
  x Peterboro (???)
  x Plymouth (???)
  x Port Vale (???)
- x Portsmouth (???)
+Portsmouth FC               => Portsmouth
  x Preston (???)
- x QPR (???)
- x Reading (???)
+Queens Park Rangers FC      => QPR
+Reading FC                  => Reading
  x Rochdale (???)
  x Rotherham (???)
  x Rushden & D (???)
  x Salisbury (???)
  x Scarborough (???)
  x Scunthorpe (???)
- x Sheffield United (???)
- x Sheffield Weds (???)
+Sheffield United FC         => Sheffield United
+Sheffield Wednesday FC      => Sheffield Weds
  x Shrewsbury (???)
  x Solihull (???)
- x Southampton (???)
+Southampton FC              => Southampton
  x Southend (???)
  x Southport (???)
  x St. Albans (???)
  x Stafford Rangers (???)
  x Stevenage (???)
  x Stockport (???)
- x Stoke (???)
- x Sunderland (???)
+Stoke City FC               => Stoke
+Sunderland AFC              => Sunderland
  x Sutton (???)
- x Swansea (???)
- x Swindon (???)
+Swansea City AFC            => Swansea
+Swindon Town FC             => Swindon
  x Tamworth (???)
  x Telford United (???)
  x Torquay (???)
- x Tottenham (???)
+Tottenham Hotspur FC        => Tottenham
  x Tranmere (???)
  x Walsall (???)
- x Watford (???)
+Watford FC                  => Watford
  x Welling United (???)
- x West Brom (???)
- x West Ham (???)
+West Bromwich Albion FC     => West Brom
+West Ham United FC          => West Ham
  x Weymouth (???)
- x Wigan (???)
- x Wimbledon (???)
+Wigan Athletic FC           => Wigan
+Wimbledon FC                => Wimbledon
  x Woking (???)
- x Wolves (???)
+Wolverhampton Wanderers FC  => Wolves
  x Wrexham (???)
  x Wycombe (???)
  x Yeovil (???)
@@ -1069,15 +1018,74 @@ York                   =>
 
 ### Teams by City
 
-154 missing / unknown / (???) teams:
-AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrincham, Arsenal, Aston Villa, Barnet, Barnsley, Barrow, Bath City, Birmingham, Blackburn, Blackpool, Bolton, Boreham Wood, Boston, Bournemouth, Bradford, Braintree Town, Brentford, Brighton, Bristol City, Bristol Rvs, Bromley, Burnley, Burton, Bury, Cambridge, Canvey Island, Cardiff, Carlisle, Charlton, Chelsea, Cheltenham, Chester, Chesterfield, Colchester, Coventry, Crawley Town, Crewe, Crystal Palace, Dag and Red, Darlington, Dartford, Derby, Doncaster, Dover Athletic, Droylsden, Eastbourne Borough, Eastleigh, Ebbsfleet, Everton, Exeter, Farsley, Fleetwood Town, Forest Green, Fulham, Fylde, Gateshead, Gillingham, Gravesend, Grays, Grimsby, Guiseley, Halifax, Hartlepool, Hayes & Yeading, Hereford, Histon, Huddersfield, Hull, Hyde United, Ipswich, Kettering Town, Kidderminster, Leeds, Leicester, Lewes, Leyton Orient, Lincoln, Liverpool, Luton, Macclesfield, Maidenhead, Maidstone, Man City, Man United, Mansfield, Middlesboro, Middlesbrough, Millwall, Milton Keynes Dons, Morecambe, Newcastle, Newport County, North Ferriby, Northampton, Northwich, Norwich, Nott'm Forest, Notts County, Nuneaton Town, Oldham, Oxford, Peterboro, Plymouth, Port Vale, Portsmouth, Preston, QPR, Reading, Rochdale, Rotherham, Rushden & D, Salisbury, Scarborough, Scunthorpe, Sheffield United, Sheffield Weds, Shrewsbury, Solihull, Southampton, Southend, Southport, St. Albans, Stafford Rangers, Stevenage, Stockport, Stoke, Sunderland, Sutton, Swansea, Swindon, Tamworth, Telford United, Torquay, Tottenham, Tranmere, Walsall, Watford, Welling United, West Brom, West Ham, Weymouth, Wigan, Wimbledon, Woking, Wolves, Wrexham, Wycombe, Yeovil, York
+104 missing / unknown / (???) teams:
+AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrincham, Barnet, Barrow, Bath City, Boreham Wood, Boston, Braintree Town, Brentford, Bristol City, Bristol Rvs, Bromley, Burton, Bury, Cambridge, Canvey Island, Carlisle, Cheltenham, Chester, Chesterfield, Colchester, Crawley Town, Crewe, Dag and Red, Darlington, Dartford, Doncaster, Dover Athletic, Droylsden, Eastbourne Borough, Eastleigh, Ebbsfleet, Exeter, Farsley, Fleetwood Town, Forest Green, Fylde, Gateshead, Gillingham, Gravesend, Grays, Grimsby, Guiseley, Halifax, Hartlepool, Hayes & Yeading, Hereford, Histon, Hyde United, Kettering Town, Kidderminster, Lewes, Leyton Orient, Lincoln, Luton, Macclesfield, Maidenhead, Maidstone, Mansfield, Millwall, Milton Keynes Dons, Morecambe, Newport County, North Ferriby, Northampton, Northwich, Notts County, Nuneaton Town, Oxford, Peterboro, Plymouth, Port Vale, Preston, Rochdale, Rotherham, Rushden & D, Salisbury, Scarborough, Scunthorpe, Shrewsbury, Solihull, Southend, Southport, St. Albans, Stafford Rangers, Stevenage, Stockport, Sutton, Tamworth, Telford United, Torquay, Tranmere, Walsall, Welling United, Weymouth, Woking, Wrexham, Wycombe, Yeovil, York
 
+- **London** (9): 
+  - Arsenal FC  (1) Arsenal
+  - Charlton Athletic FC  (1) Charlton
+  - Chelsea FC  (1) Chelsea
+  - Crystal Palace FC  (1) Crystal Palace
+  - Fulham FC  (1) Fulham
+  - Queens Park Rangers FC  (1) QPR
+  - Tottenham Hotspur FC  (1) Tottenham
+  - West Ham United FC  (1) West Ham
+  - Wimbledon FC  (1) Wimbledon
+- **Birmingham › Warwickshire** (2): 
+  - Aston Villa FC  (1) Aston Villa
+  - Birmingham City FC  (1) Birmingham
+- **Liverpool › Lancashire** (2): 
+  - Everton FC  (1) Everton
+  - Liverpool FC  (1) Liverpool
+- **Manchester** (2): 
+  - Manchester City FC  (1) Man City
+  - Manchester United FC  (1) Man United
+- **Sheffield › South Yorkshire** (2): 
+  - Sheffield United FC  (1) Sheffield United
+  - Sheffield Wednesday FC  (1) Sheffield Weds
+- **Barnsley › South Yorkshire** (1): Barnsley FC  (1) Barnsley
+- **Blackburn › Lancashire** (1): Blackburn Rovers FC  (1) Blackburn
+- **Blackpool › Lancashire** (1): Blackpool FC  (1) Blackpool
+- **Bolton › Greater Manchester** (1): Bolton Wanderers FC  (1) Bolton
+- **Bournemouth › Dorset** (1): AFC Bournemouth  (1) Bournemouth
+- **Bradford › West Yorkshire** (1): Bradford City AFC  (1) Bradford
+- **Burnley › Lancashire** (1): Burnley FC  (1) Burnley
+- **Cardiff** (1): Cardiff City FC  (1) Cardiff
+- **Coventry › West Midlands** (1): Coventry City FC  (1) Coventry
+- **Derby › Derbyshire** (1): Derby County FC  (1) Derby
+- **Falmer › East Sussex** (1): Brighton & Hove Albion FC  (1) Brighton
+- **Huddersfield › West Yorkshire** (1): Huddersfield Town AFC  (1) Huddersfield
+- **Hull › East Yorkshire** (1): Hull City AFC  (1) Hull
+- **Ipswich › Suffolk** (1): Ipswich Town FC  (1) Ipswich
+- **Leeds › West Yorkshire** (1): Leeds United FC  (1) Leeds
+- **Leicester** (1): Leicester City FC  (1) Leicester
+- **Middlesbrough › North Yorkshire** (1): Middlesbrough FC  (2) Middlesbrough • Middlesboro
+- **Newcastle upon Tyne › Northumberland** (1): Newcastle United FC  (1) Newcastle
+- **Norwich › Norfolk** (1): Norwich City FC  (1) Norwich
+- **Oldham › Greater Manchester** (1): Oldham Athletic AFC  (1) Oldham
+- **Portsmouth › Hampshire** (1): Portsmouth FC  (1) Portsmouth
+- **Reading › Berkshire** (1): Reading FC  (1) Reading
+- **Southampton › Hampshire** (1): Southampton FC  (1) Southampton
+- **Stoke-on-Trent › Staffordshire** (1): Stoke City FC  (1) Stoke
+- **Sunderland** (1): Sunderland AFC  (1) Sunderland
+- **Swansea** (1): Swansea City AFC  (1) Swansea
+- **Swindon › Wiltshire** (1): Swindon Town FC  (1) Swindon
+- **Watford › Hertfordshire** (1): Watford FC  (1) Watford
+- **West Bridgford › Nottinghamshire** (1): Nottingham Forest FC  (1) Nott'm Forest
+- **West Bromwich › West Midlands** (1): West Bromwich Albion FC  (1) West Brom
+- **Wigan › Greater Manchester** (1): Wigan Athletic FC  (1) Wigan
+- **Wolverhampton › West Midlands** (1): Wolverhampton Wanderers FC  (1) Wolves
 
 
 
 
 ### Season
 
+- **AFC Bournemouth** - 25 seasons in 4 levels
+  - 1 (3): 2017-18...2015-16 (3)
+  - 2 (2): 2014-15..2013-14 (2)
+  - 3 (17): 2012-13...2010-11 (3) 2007-08.....2003-04 (5) 2001-02.........1993-94 (9)
+  - 4 (3): 2009-10..2008-09 (2) 2002-03
 - x AFC Telford United (???) - 1 season in 1 level
   - 5 (1): 2011-12
 - x AFC Wimbledon (???) - 9 seasons in 3 levels
@@ -1094,16 +1102,16 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (4): 2014-15....2011-12 (4)
 - x Altrincham (???) - 8 seasons in 1 level
   - 5 (8): 2015-16..2014-15 (2) 2010-11......2005-06 (6)
-- x Arsenal (???) - 25 seasons in 1 level
+- **Arsenal FC** - 25 seasons in 1 level
   - 1 (25): 2017-18.........................1993-94 (25)
-- x Aston Villa (???) - 25 seasons in 2 levels
+- **Aston Villa FC** - 25 seasons in 2 levels
   - 1 (23): 2015-16.......................1993-94 (23)
   - 2 (2): 2017-18..2016-17 (2)
 - x Barnet (???) - 21 seasons in 3 levels
   - 3 (1): 1993-94
   - 4 (18): 2017-18...2015-16 (3) 2012-13........2005-06 (8) 2000-01.......1994-95 (7)
   - 5 (2): 2014-15..2013-14 (2)
-- x Barnsley (???) - 25 seasons in 3 levels
+- **Barnsley FC** - 25 seasons in 3 levels
   - 1 (1): 1997-98
   - 2 (18): 2017-18..2016-17 (2) 2013-14........2006-07 (8) 2001-02....1998-99 (4) 1996-97....1993-94 (4)
   - 3 (6): 2015-16..2014-15 (2) 2005-06....2002-03 (4)
@@ -1111,20 +1119,20 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (8): 2017-18...2015-16 (3) 2012-13.....2008-09 (5)
 - x Bath City (???) - 2 seasons in 1 level
   - 5 (2): 2011-12..2010-11 (2)
-- x Birmingham (???) - 25 seasons in 3 levels
+- **Birmingham City FC** - 25 seasons in 3 levels
   - 1 (7): 2010-11..2009-10 (2) 2007-08 2005-06....2002-03 (4)
   - 2 (17): 2017-18.......2011-12 (7) 2008-09 2006-07 2001-02.......1995-96 (7) 1993-94
   - 3 (1): 1994-95
-- x Blackburn (???) - 25 seasons in 3 levels
+- **Blackburn Rovers FC** - 25 seasons in 3 levels
   - 1 (17): 2011-12...........2001-02 (11) 1998-99......1993-94 (6)
   - 2 (7): 2016-17.....2012-13 (5) 2000-01..1999-00 (2)
   - 3 (1): 2017-18
-- x Blackpool (???) - 25 seasons in 4 levels
+- **Blackpool FC** - 25 seasons in 4 levels
   - 1 (1): 2010-11
   - 2 (7): 2014-15....2011-12 (4) 2009-10...2007-08 (3)
   - 3 (15): 2017-18 2015-16 2006-07......2001-02 (6) 1999-00.......1993-94 (7)
   - 4 (2): 2016-17 2000-01
-- x Bolton (???) - 25 seasons in 3 levels
+- **Bolton Wanderers FC** - 25 seasons in 3 levels
   - 1 (13): 2011-12...........2001-02 (11) 1997-98 1995-96
   - 2 (11): 2017-18 2015-16....2012-13 (4) 2000-01...1998-99 (3) 1996-97 1994-95..1993-94 (2)
   - 3 (1): 2016-17
@@ -1132,12 +1140,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (3): 2017-18...2015-16 (3)
 - x Boston (???) - 5 seasons in 1 level
   - 4 (5): 2006-07.....2002-03 (5)
-- x Bournemouth (???) - 25 seasons in 4 levels
-  - 1 (3): 2017-18...2015-16 (3)
-  - 2 (2): 2014-15..2013-14 (2)
-  - 3 (17): 2012-13...2010-11 (3) 2007-08.....2003-04 (5) 2001-02.........1993-94 (9)
-  - 4 (3): 2009-10..2008-09 (2) 2002-03
-- x Bradford (???) - 25 seasons in 4 levels
+- **Bradford City AFC** - 25 seasons in 4 levels
   - 1 (2): 2000-01..1999-00 (2)
   - 2 (6): 2003-04...2001-02 (3) 1998-99...1996-97 (3)
   - 3 (11): 2017-18.....2013-14 (5) 2006-07...2004-05 (3) 1995-96...1993-94 (3)
@@ -1148,7 +1151,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 2 (4): 2017-18....2014-15 (4)
   - 3 (18): 2013-14.....2009-10 (5) 2006-07........1999-00 (8) 1997-98.....1993-94 (5)
   - 4 (3): 2008-09..2007-08 (2) 1998-99
-- x Brighton (???) - 25 seasons in 4 levels
+- **Brighton & Hove Albion FC** - 25 seasons in 4 levels
   - 1 (1): 2017-18
   - 2 (9): 2016-17......2011-12 (6) 2005-06..2004-05 (2) 2002-03
   - 3 (10): 2010-11.....2006-07 (5) 2003-04 2001-02 1995-96...1993-94 (3)
@@ -1162,7 +1165,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (1): 2014-15
 - x Bromley (???) - 3 seasons in 1 level
   - 5 (3): 2017-18...2015-16 (3)
-- x Burnley (???) - 25 seasons in 3 levels
+- **Burnley FC** - 25 seasons in 3 levels
   - 1 (4): 2017-18..2016-17 (2) 2014-15 2009-10
   - 2 (15): 2015-16 2013-14....2010-11 (4) 2008-09.........2000-01 (9) 1994-95
   - 3 (6): 1999-00.....1995-96 (5) 1993-94
@@ -1181,7 +1184,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (9): 2013-14.........2005-06 (9)
 - x Canvey Island (???) - 1 season in 1 level
   - 5 (1): 2005-06
-- x Cardiff (???) - 25 seasons in 4 levels
+- **Cardiff City FC** - 25 seasons in 4 levels
   - 1 (1): 2013-14
   - 2 (14): 2017-18....2014-15 (4) 2012-13..........2003-04 (10)
   - 3 (5): 2002-03..2001-02 (2) 1999-00 1994-95..1993-94 (2)
@@ -1189,11 +1192,11 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
 - x Carlisle (???) - 24 seasons in 2 levels
   - 3 (10): 2013-14........2006-07 (8) 1997-98 1995-96
   - 4 (14): 2017-18....2014-15 (4) 2005-06 2003-04......1998-99 (6) 1996-97 1994-95..1993-94 (2)
-- x Charlton (???) - 25 seasons in 3 levels
+- **Charlton Athletic FC** - 25 seasons in 3 levels
   - 1 (8): 2006-07.......2000-01 (7) 1998-99
   - 2 (12): 2015-16....2012-13 (4) 2008-09..2007-08 (2) 1999-00 1997-98.....1993-94 (5)
   - 3 (5): 2017-18..2016-17 (2) 2011-12...2009-10 (3)
-- x Chelsea (???) - 25 seasons in 1 level
+- **Chelsea FC** - 25 seasons in 1 level
   - 1 (25): 2017-18.........................1993-94 (25)
 - x Cheltenham (???) - 19 seasons in 3 levels
   - 3 (4): 2008-09...2006-07 (3) 2002-03
@@ -1210,7 +1213,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 2 (2): 2007-08..2006-07 (2)
   - 3 (16): 2015-16........2008-09 (8) 2005-06........1998-99 (8)
   - 4 (7): 2017-18..2016-17 (2) 1997-98.....1993-94 (5)
-- x Coventry (???) - 25 seasons in 4 levels
+- **Coventry City FC** - 25 seasons in 4 levels
   - 1 (8): 2000-01........1993-94 (8)
   - 2 (11): 2011-12...........2001-02 (11)
   - 3 (5): 2016-17.....2012-13 (5)
@@ -1223,7 +1226,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 2 (8): 2005-06...2003-04 (3) 2001-02.....1997-98 (5)
   - 3 (11): 2015-16....2012-13 (4) 2008-09...2006-07 (3) 2002-03 1996-97...1994-95 (3)
   - 4 (6): 2017-18..2016-17 (2) 2011-12...2009-10 (3) 1993-94
-- x Crystal Palace (???) - 25 seasons in 2 levels
+- **Crystal Palace FC** - 25 seasons in 2 levels
   - 1 (8): 2017-18.....2013-14 (5) 2004-05 1997-98 1994-95
   - 2 (17): 2012-13........2005-06 (8) 2003-04......1998-99 (6) 1996-97..1995-96 (2) 1993-94
 - x Dag and Red (???) - 13 seasons in 3 levels
@@ -1235,7 +1238,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (2): 2011-12..2010-11 (2)
 - x Dartford (???) - 3 seasons in 1 level
   - 5 (3): 2014-15...2012-13 (3)
-- x Derby (???) - 25 seasons in 2 levels
+- **Derby County FC** - 25 seasons in 2 levels
   - 1 (7): 2007-08 2001-02......1996-97 (6)
   - 2 (18): 2017-18..........2008-09 (10) 2006-07.....2002-03 (5) 1995-96...1993-94 (3)
 - x Doncaster (???) - 20 seasons in 3 levels
@@ -1252,7 +1255,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (4): 2017-18....2014-15 (4)
 - x Ebbsfleet (???) - 6 seasons in 1 level
   - 5 (6): 2017-18 2012-13..2011-12 (2) 2009-10...2007-08 (3)
-- x Everton (???) - 25 seasons in 1 level
+- **Everton FC** - 25 seasons in 1 level
   - 1 (25): 2017-18.........................1993-94 (25)
 - x Exeter (???) - 23 seasons in 3 levels
   - 3 (4): 2011-12...2009-10 (3) 1993-94
@@ -1267,7 +1270,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
 - x Forest Green (???) - 13 seasons in 2 levels
   - 4 (1): 2017-18
   - 5 (12): 2016-17............2005-06 (12)
-- x Fulham (???) - 25 seasons in 4 levels
+- **Fulham FC** - 25 seasons in 4 levels
   - 1 (13): 2013-14.............2001-02 (13)
   - 2 (6): 2017-18....2014-15 (4) 2000-01..1999-00 (2)
   - 3 (3): 1998-99..1997-98 (2) 1993-94
@@ -1306,19 +1309,19 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (3): 2013-14..2012-13 (2) 2005-06
 - x Histon (???) - 4 seasons in 1 level
   - 5 (4): 2010-11....2007-08 (4)
-- x Huddersfield (???) - 25 seasons in 4 levels
+- **Huddersfield Town AFC** - 25 seasons in 4 levels
   - 1 (1): 2017-18
   - 2 (11): 2016-17.....2012-13 (5) 2000-01......1995-96 (6)
   - 3 (12): 2011-12........2004-05 (8) 2002-03..2001-02 (2) 1994-95..1993-94 (2)
   - 4 (1): 2003-04
-- x Hull (???) - 25 seasons in 4 levels
+- **Hull City AFC** - 25 seasons in 4 levels
   - 1 (5): 2016-17 2014-15..2013-14 (2) 2009-10..2008-09 (2)
   - 2 (8): 2017-18 2015-16 2012-13...2010-11 (3) 2007-08...2005-06 (3)
   - 3 (4): 2004-05 1995-96...1993-94 (3)
   - 4 (8): 2003-04........1996-97 (8)
 - x Hyde United (???) - 2 seasons in 1 level
   - 5 (2): 2013-14..2012-13 (2)
-- x Ipswich (???) - 25 seasons in 2 levels
+- **Ipswich Town FC** - 25 seasons in 2 levels
   - 1 (4): 2001-02..2000-01 (2) 1994-95..1993-94 (2)
   - 2 (21): 2017-18................2002-03 (16) 1999-00.....1995-96 (5)
 - x Kettering Town (???) - 4 seasons in 1 level
@@ -1326,11 +1329,11 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
 - x Kidderminster (???) - 16 seasons in 2 levels
   - 4 (5): 2004-05.....2000-01 (5)
   - 5 (11): 2015-16...........2005-06 (11)
-- x Leeds (???) - 25 seasons in 3 levels
+- **Leeds United FC** - 25 seasons in 3 levels
   - 1 (11): 2003-04...........1993-94 (11)
   - 2 (11): 2017-18........2010-11 (8) 2006-07...2004-05 (3)
   - 3 (3): 2009-10...2007-08 (3)
-- x Leicester (???) - 25 seasons in 3 levels
+- **Leicester City FC** - 25 seasons in 3 levels
   - 1 (12): 2017-18....2014-15 (4) 2003-04 2001-02......1996-97 (6) 1994-95
   - 2 (12): 2013-14.....2009-10 (5) 2007-08....2004-05 (4) 2002-03 1995-96 1993-94
   - 3 (1): 2008-09
@@ -1344,7 +1347,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 3 (1): 1998-99
   - 4 (18): 2017-18 2010-11............1999-00 (12) 1997-98.....1993-94 (5)
   - 5 (6): 2016-17......2011-12 (6)
-- x Liverpool (???) - 25 seasons in 1 level
+- **Liverpool FC** - 25 seasons in 1 level
   - 1 (25): 2017-18.........................1993-94 (25)
 - x Luton (???) - 25 seasons in 4 levels
   - 2 (5): 2006-07..2005-06 (2) 1995-96...1993-94 (3)
@@ -1359,20 +1362,18 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 5 (1): 2017-18
 - x Maidstone (???) - 2 seasons in 1 level
   - 5 (2): 2017-18..2016-17 (2)
-- x Man City (???) - 25 seasons in 3 levels
+- **Manchester City FC** - 25 seasons in 3 levels
   - 1 (20): 2017-18................2002-03 (16) 2000-01 1995-96...1993-94 (3)
   - 2 (4): 2001-02 1999-00 1997-98..1996-97 (2)
   - 3 (1): 1998-99
-- x Man United (???) - 25 seasons in 1 level
+- **Manchester United FC** - 25 seasons in 1 level
   - 1 (25): 2017-18.........................1993-94 (25)
 - x Mansfield (???) - 25 seasons in 3 levels
   - 3 (1): 2002-03
   - 4 (19): 2017-18.....2013-14 (5) 2007-08.....2003-04 (5) 2001-02.........1993-94 (9)
   - 5 (5): 2012-13.....2008-09 (5)
-- x Middlesboro (???) - 1 season in 1 level
-  - 1 (1): 2002-03
-- x Middlesbrough (???) - 24 seasons in 2 levels
-  - 1 (13): 2016-17 2008-09......2003-04 (6) 2001-02....1998-99 (4) 1996-97..1995-96 (2)
+- **Middlesbrough FC** - 25 seasons in 2 levels
+  - 1 (14): 2016-17 2008-09...........1998-99 (11) 1996-97..1995-96 (2)
   - 2 (11): 2017-18 2015-16.......2009-10 (7) 1997-98 1994-95..1993-94 (2)
 - x Millwall (???) - 25 seasons in 2 levels
   - 2 (14): 2017-18 2014-15.....2010-11 (5) 2005-06.....2001-02 (5) 1995-96...1993-94 (3)
@@ -1384,7 +1385,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
 - x Morecambe (???) - 13 seasons in 2 levels
   - 4 (11): 2017-18...........2007-08 (11)
   - 5 (2): 2006-07..2005-06 (2)
-- x Newcastle (???) - 25 seasons in 2 levels
+- **Newcastle United FC** - 25 seasons in 2 levels
   - 1 (23): 2017-18 2015-16......2010-11 (6) 2008-09................1993-94 (16)
   - 2 (2): 2016-17 2009-10
 - x Newport County (???) - 8 seasons in 2 levels
@@ -1397,11 +1398,11 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 4 (15): 2015-16.......2009-10 (7) 2005-06...2003-04 (3) 1999-00 1996-97....1993-94 (4)
 - x Northwich (???) - 3 seasons in 1 level
   - 5 (3): 2008-09...2006-07 (3)
-- x Norwich (???) - 25 seasons in 3 levels
+- **Norwich City FC** - 25 seasons in 3 levels
   - 1 (7): 2015-16 2013-14...2011-12 (3) 2004-05 1994-95..1993-94 (2)
   - 2 (17): 2017-18..2016-17 (2) 2014-15 2010-11 2008-09....2005-06 (4) 2003-04.........1995-96 (9)
   - 3 (1): 2009-10
-- x Nott'm Forest (???) - 25 seasons in 3 levels
+- **Nottingham Forest FC** - 25 seasons in 3 levels
   - 1 (4): 1998-99 1996-97...1994-95 (3)
   - 2 (18): 2017-18..........2008-09 (10) 2004-05......1999-00 (6) 1997-98 1993-94
   - 3 (3): 2007-08...2005-06 (3)
@@ -1411,7 +1412,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 4 (10): 2017-18...2015-16 (3) 2009-10......2004-05 (6) 1997-98
 - x Nuneaton Town (???) - 3 seasons in 1 level
   - 5 (3): 2014-15...2012-13 (3)
-- x Oldham (???) - 25 seasons in 3 levels
+- **Oldham Athletic AFC** - 25 seasons in 3 levels
   - 1 (1): 1993-94
   - 2 (3): 1996-97...1994-95 (3)
   - 3 (21): 2017-18.....................1997-98 (21)
@@ -1432,7 +1433,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 2 (6): 1999-00......1994-95 (6)
   - 3 (13): 2016-17....2013-14 (4) 2007-08........2000-01 (8) 1993-94
   - 4 (6): 2017-18 2012-13.....2008-09 (5)
-- x Portsmouth (???) - 25 seasons in 4 levels
+- **Portsmouth FC** - 25 seasons in 4 levels
   - 1 (7): 2009-10.......2003-04 (7)
   - 2 (12): 2011-12..2010-11 (2) 2002-03..........1993-94 (10)
   - 3 (2): 2017-18 2012-13
@@ -1441,11 +1442,11 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 2 (14): 2017-18...2015-16 (3) 2010-11...........2000-01 (11)
   - 3 (8): 2014-15....2011-12 (4) 1999-00....1996-97 (4)
   - 4 (3): 1995-96...1993-94 (3)
-- x QPR (???) - 25 seasons in 3 levels
+- **Queens Park Rangers FC** - 25 seasons in 3 levels
   - 1 (6): 2014-15 2012-13..2011-12 (2) 1995-96...1993-94 (3)
   - 2 (16): 2017-18...2015-16 (3) 2013-14 2010-11.......2004-05 (7) 2000-01.....1996-97 (5)
   - 3 (3): 2003-04...2001-02 (3)
-- x Reading (???) - 25 seasons in 3 levels
+- **Reading FC** - 25 seasons in 3 levels
   - 1 (3): 2012-13 2007-08..2006-07 (2)
   - 2 (17): 2017-18.....2013-14 (5) 2011-12....2008-09 (4) 2005-06....2002-03 (4) 1997-98....1994-95 (4)
   - 3 (5): 2001-02....1998-99 (4) 1993-94
@@ -1469,11 +1470,11 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 2 (3): 2010-11..2009-10 (2) 2007-08
   - 3 (10): 2017-18....2014-15 (4) 2012-13..2011-12 (2) 2008-09 2006-07..2005-06 (2) 1999-00
   - 4 (12): 2013-14 2004-05.....2000-01 (5) 1998-99......1993-94 (6)
-- x Sheffield United (???) - 25 seasons in 3 levels
+- **Sheffield United FC** - 25 seasons in 3 levels
   - 1 (2): 2006-07 1993-94
   - 2 (17): 2017-18 2010-11....2007-08 (4) 2005-06............1994-95 (12)
   - 3 (6): 2016-17......2011-12 (6)
-- x Sheffield Weds (???) - 25 seasons in 3 levels
+- **Sheffield Wednesday FC** - 25 seasons in 3 levels
   - 1 (7): 1999-00.......1993-94 (7)
   - 2 (14): 2017-18......2012-13 (6) 2009-10.....2005-06 (5) 2002-03...2000-01 (3)
   - 3 (4): 2011-12..2010-11 (2) 2004-05..2003-04 (2)
@@ -1482,7 +1483,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 4 (16): 2014-15 2011-12........2004-05 (8) 2002-03......1997-98 (6) 1993-94
 - x Solihull (???) - 2 seasons in 1 level
   - 5 (2): 2017-18..2016-17 (2)
-- x Southampton (???) - 25 seasons in 3 levels
+- **Southampton FC** - 25 seasons in 3 levels
   - 1 (18): 2017-18......2012-13 (6) 2004-05............1993-94 (12)
   - 2 (5): 2011-12 2008-09....2005-06 (4)
   - 3 (2): 2010-11..2009-10 (2)
@@ -1505,21 +1506,21 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 3 (9): 2009-10..2008-09 (2) 2004-05...2002-03 (3) 1996-97....1993-94 (4)
   - 4 (4): 2010-11 2007-08...2005-06 (3)
   - 5 (2): 2012-13..2011-12 (2)
-- x Stoke (???) - 25 seasons in 3 levels
+- **Stoke City FC** - 25 seasons in 3 levels
   - 1 (10): 2017-18..........2008-09 (10)
   - 2 (11): 2007-08......2002-03 (6) 1997-98.....1993-94 (5)
   - 3 (4): 2001-02....1998-99 (4)
-- x Sunderland (???) - 25 seasons in 2 levels
+- **Sunderland AFC** - 25 seasons in 2 levels
   - 1 (16): 2016-17..........2007-08 (10) 2005-06 2002-03....1999-00 (4) 1996-97
   - 2 (9): 2017-18 2006-07 2004-05..2003-04 (2) 1998-99..1997-98 (2) 1995-96...1993-94 (3)
 - x Sutton (???) - 2 seasons in 1 level
   - 5 (2): 2017-18..2016-17 (2)
-- x Swansea (???) - 25 seasons in 4 levels
+- **Swansea City AFC** - 25 seasons in 4 levels
   - 1 (7): 2017-18.......2011-12 (7)
   - 2 (3): 2010-11...2008-09 (3)
   - 3 (7): 2007-08...2005-06 (3) 2000-01 1995-96...1993-94 (3)
   - 4 (8): 2004-05....2001-02 (4) 1999-00....1996-97 (4)
-- x Swindon (???) - 25 seasons in 4 levels
+- **Swindon Town FC** - 25 seasons in 4 levels
   - 1 (1): 1993-94
   - 2 (5): 1999-00....1996-97 (4) 1994-95
   - 3 (16): 2016-17.....2012-13 (5) 2010-11....2007-08 (4) 2005-06......2000-01 (6) 1995-96
@@ -1532,7 +1533,7 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 3 (1): 2004-05
   - 4 (18): 2013-14.....2009-10 (5) 2006-07..2005-06 (2) 2003-04...........1993-94 (11)
   - 5 (6): 2017-18....2014-15 (4) 2008-09..2007-08 (2)
-- x Tottenham (???) - 25 seasons in 1 level
+- **Tottenham Hotspur FC** - 25 seasons in 1 level
   - 1 (25): 2017-18.........................1993-94 (25)
 - x Tranmere (???) - 25 seasons in 4 levels
   - 2 (8): 2000-01........1993-94 (8)
@@ -1543,31 +1544,31 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
   - 2 (4): 2003-04...2001-02 (3) 1999-00
   - 3 (18): 2017-18...........2007-08 (11) 2005-06..2004-05 (2) 2000-01 1998-99....1995-96 (4)
   - 4 (3): 2006-07 1994-95..1993-94 (2)
-- x Watford (???) - 25 seasons in 3 levels
+- **Watford FC** - 25 seasons in 3 levels
   - 1 (5): 2017-18...2015-16 (3) 2006-07 1999-00
   - 2 (18): 2014-15........2007-08 (8) 2005-06......2000-01 (6) 1998-99 1995-96...1993-94 (3)
   - 3 (2): 1997-98..1996-97 (2)
 - x Welling United (???) - 3 seasons in 1 level
   - 5 (3): 2015-16...2013-14 (3)
-- x West Brom (???) - 25 seasons in 2 levels
+- **West Bromwich Albion FC** - 25 seasons in 2 levels
   - 1 (12): 2017-18........2010-11 (8) 2008-09 2005-06..2004-05 (2) 2002-03
   - 2 (13): 2009-10 2007-08..2006-07 (2) 2003-04 2001-02.........1993-94 (9)
-- x West Ham (???) - 25 seasons in 2 levels
+- **West Ham United FC** - 25 seasons in 2 levels
   - 1 (22): 2017-18......2012-13 (6) 2010-11......2005-06 (6) 2002-03..........1993-94 (10)
   - 2 (3): 2011-12 2004-05..2003-04 (2)
 - x Weymouth (???) - 3 seasons in 1 level
   - 5 (3): 2008-09...2006-07 (3)
-- x Wigan (???) - 25 seasons in 4 levels
+- **Wigan Athletic FC** - 25 seasons in 4 levels
   - 1 (8): 2012-13........2005-06 (8)
   - 2 (5): 2016-17 2014-15..2013-14 (2) 2004-05..2003-04 (2)
   - 3 (8): 2017-18 2015-16 2002-03......1997-98 (6)
   - 4 (4): 1996-97....1993-94 (4)
-- x Wimbledon (???) - 11 seasons in 2 levels
+- **Wimbledon FC** - 11 seasons in 2 levels
   - 1 (7): 1999-00.......1993-94 (7)
   - 2 (4): 2003-04....2000-01 (4)
 - x Woking (???) - 10 seasons in 1 level
   - 5 (10): 2017-18......2012-13 (6) 2008-09....2005-06 (4)
-- x Wolves (???) - 25 seasons in 3 levels
+- **Wolverhampton Wanderers FC** - 25 seasons in 3 levels
   - 1 (4): 2011-12...2009-10 (3) 2003-04
   - 2 (20): 2017-18....2014-15 (4) 2012-13 2008-09.....2004-05 (5) 2002-03..........1993-94 (10)
   - 3 (1): 2013-14
