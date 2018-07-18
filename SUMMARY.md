@@ -5,115 +5,115 @@
 level 1
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
 - 49 teams: AFC Bournemouth (3) Arsenal FC (25) Aston Villa FC (23) Barnsley FC (1) Birmingham City FC (7) Blackburn Rovers FC (17) Blackpool FC (1) Bolton Wanderers FC (13) Bradford City AFC (2) Brighton & Hove Albion FC (1) Burnley FC (4) Cardiff City FC (1) Charlton Athletic FC (8) Chelsea FC (25) Coventry City FC (8) Crystal Palace FC (8) Derby County FC (7) Everton FC (25) Fulham FC (13) Huddersfield Town AFC (1) Hull City AFC (5) Ipswich Town FC (4) Leeds United FC (11) Leicester City FC (12) Liverpool FC (25) Manchester City FC (20) Manchester United FC (25) Middlesbrough FC (14) Newcastle United FC (23) Norwich City FC (7) Nottingham Forest FC (4) Oldham Athletic AFC (1) Portsmouth FC (7) Queens Park Rangers FC (6) Reading FC (3) Sheffield United FC (2) Sheffield Wednesday FC (7) Southampton FC (18) Stoke City FC (10) Sunderland AFC (16) Swansea City AFC (7) Swindon Town FC (1) Tottenham Hotspur FC (25) Watford FC (5) West Bromwich Albion FC (12) West Ham United FC (22) Wigan Athletic FC (8) Wimbledon FC (7) Wolverhampton Wanderers FC (4) 
-  - 25 seasons: Arsenal FC, Chelsea FC, Everton FC, Liverpool FC, Manchester United FC, Tottenham Hotspur FC
-  - 23 seasons: Aston Villa FC, Newcastle United FC
-  - 22 seasons: West Ham United FC
-  - 20 seasons: Manchester City FC
-  - 18 seasons: Southampton FC
-  - 17 seasons: Blackburn Rovers FC
-  - 16 seasons: Sunderland AFC
-  - 14 seasons: Middlesbrough FC
-  - 13 seasons: Bolton Wanderers FC, Fulham FC
-  - 12 seasons: Leicester City FC, West Bromwich Albion FC
-  - 11 seasons: Leeds United FC
-  - 10 seasons: Stoke City FC
-  - 8 seasons: Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Wigan Athletic FC
-  - 7 seasons: Birmingham City FC, Derby County FC, Norwich City FC, Portsmouth FC, Sheffield Wednesday FC, Swansea City AFC, Wimbledon FC
-  - 6 seasons: Queens Park Rangers FC
-  - 5 seasons: Hull City AFC, Watford FC
-  - 4 seasons: Burnley FC, Ipswich Town FC, Nottingham Forest FC, Wolverhampton Wanderers FC
-  - 3 seasons: AFC Bournemouth, Reading FC
-  - 2 seasons: Bradford City AFC, Sheffield United FC
-  - 1 seasons: Barnsley FC, Blackpool FC, Brighton & Hove Albion FC, Cardiff City FC, Huddersfield Town AFC, Oldham Athletic AFC, Swindon Town FC
+  - 25 seasons: **Arsenal FC**, **Chelsea FC**, **Everton FC**, **Liverpool FC**, **Manchester United FC**, **Tottenham Hotspur FC**
+  - 23 seasons: **Aston Villa FC**, **Newcastle United FC**
+  - 22 seasons: **West Ham United FC**
+  - 20 seasons: **Manchester City FC**
+  - 18 seasons: **Southampton FC**
+  - 17 seasons: **Blackburn Rovers FC**
+  - 16 seasons: **Sunderland AFC**
+  - 14 seasons: **Middlesbrough FC**
+  - 13 seasons: **Bolton Wanderers FC**, **Fulham FC**
+  - 12 seasons: **Leicester City FC**, **West Bromwich Albion FC**
+  - 11 seasons: **Leeds United FC**
+  - 10 seasons: **Stoke City FC**
+  - 8 seasons: **Charlton Athletic FC**, **Coventry City FC**, **Crystal Palace FC**, **Wigan Athletic FC**
+  - 7 seasons: **Birmingham City FC**, **Derby County FC**, **Norwich City FC**, **Portsmouth FC**, **Sheffield Wednesday FC**, **Swansea City AFC**, **Wimbledon FC**
+  - 6 seasons: **Queens Park Rangers FC**
+  - 5 seasons: **Hull City AFC**, **Watford FC**
+  - 4 seasons: **Burnley FC**, **Ipswich Town FC**, **Nottingham Forest FC**, **Wolverhampton Wanderers FC**
+  - 3 seasons: **AFC Bournemouth**, **Reading FC**
+  - 2 seasons: **Bradford City AFC**, **Sheffield United FC**
+  - 1 seasons: **Barnsley FC**, **Blackpool FC**, **Brighton & Hove Albion FC**, **Cardiff City FC**, **Huddersfield Town AFC**, **Oldham Athletic AFC**, **Swindon Town FC**
 
 
 level 2
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
 - 68 teams: AFC Bournemouth (2) Aston Villa FC (2) Barnsley FC (18) Birmingham City FC (17) Blackburn Rovers FC (7) Blackpool FC (7) Bolton Wanderers FC (11) Bradford City AFC (6) Brentford (4) Brighton & Hove Albion FC (9) Bristol City (12) Burnley FC (15) Burton (2) Bury (2) Cardiff City FC (14) Charlton Athletic FC (12) Colchester (2) Coventry City FC (11) Crewe (8) Crystal Palace FC (17) Derby County FC (18) Doncaster (5) Fulham FC (6) Gillingham (5) Grimsby (9) Huddersfield Town AFC (11) Hull City AFC (8) Ipswich Town FC (21) Leeds United FC (11) Leicester City FC (12) Luton (5) Manchester City FC (4) Middlesbrough FC (11) Millwall (14) Milton Keynes Dons (1) Newcastle United FC (2) Norwich City FC (17) Nottingham Forest FC (18) Notts County (2) Oldham Athletic AFC (3) Oxford (4) Peterboro (4) Plymouth (6) Port Vale (6) Portsmouth FC (12) Preston (14) Queens Park Rangers FC (16) Reading FC (17) Rotherham (7) Scunthorpe (3) Sheffield United FC (17) Sheffield Wednesday FC (14) Southampton FC (5) Southend (5) Stockport (5) Stoke City FC (11) Sunderland AFC (9) Swansea City AFC (3) Swindon Town FC (5) Tranmere (8) Walsall (4) Watford FC (18) West Bromwich Albion FC (13) West Ham United FC (3) Wigan Athletic FC (5) Wimbledon FC (4) Wolverhampton Wanderers FC (20) Yeovil (1) 
-  - 21 seasons: Ipswich Town FC
-  - 20 seasons: Wolverhampton Wanderers FC
-  - 18 seasons: Barnsley FC, Derby County FC, Nottingham Forest FC, Watford FC
-  - 17 seasons: Birmingham City FC, Crystal Palace FC, Norwich City FC, Reading FC, Sheffield United FC
-  - 16 seasons: Queens Park Rangers FC
-  - 15 seasons: Burnley FC
-  - 14 seasons: Cardiff City FC, Millwall, Preston, Sheffield Wednesday FC
-  - 13 seasons: West Bromwich Albion FC
-  - 12 seasons: Bristol City, Charlton Athletic FC, Leicester City FC, Portsmouth FC
-  - 11 seasons: Bolton Wanderers FC, Coventry City FC, Huddersfield Town AFC, Leeds United FC, Middlesbrough FC, Stoke City FC
-  - 9 seasons: Brighton & Hove Albion FC, Grimsby, Sunderland AFC
-  - 8 seasons: Crewe, Hull City AFC, Tranmere
-  - 7 seasons: Blackburn Rovers FC, Blackpool FC, Rotherham
-  - 6 seasons: Bradford City AFC, Fulham FC, Plymouth, Port Vale
-  - 5 seasons: Doncaster, Gillingham, Luton, Southampton FC, Southend, Stockport, Swindon Town FC, Wigan Athletic FC
-  - 4 seasons: Brentford, Manchester City FC, Oxford, Peterboro, Walsall, Wimbledon FC
-  - 3 seasons: Oldham Athletic AFC, Scunthorpe, Swansea City AFC, West Ham United FC
-  - 2 seasons: AFC Bournemouth, Aston Villa FC, Burton, Bury, Colchester, Newcastle United FC, Notts County
-  - 1 seasons: Milton Keynes Dons, Yeovil
+  - 21 seasons: **Ipswich Town FC**
+  - 20 seasons: **Wolverhampton Wanderers FC**
+  - 18 seasons: **Barnsley FC**, **Derby County FC**, **Nottingham Forest FC**, **Watford FC**
+  - 17 seasons: **Birmingham City FC**, **Crystal Palace FC**, **Norwich City FC**, **Reading FC**, **Sheffield United FC**
+  - 16 seasons: **Queens Park Rangers FC**
+  - 15 seasons: **Burnley FC**
+  - 14 seasons: **Cardiff City FC**, x Millwall (???), x Preston (???), **Sheffield Wednesday FC**
+  - 13 seasons: **West Bromwich Albion FC**
+  - 12 seasons: x Bristol City (???), **Charlton Athletic FC**, **Leicester City FC**, **Portsmouth FC**
+  - 11 seasons: **Bolton Wanderers FC**, **Coventry City FC**, **Huddersfield Town AFC**, **Leeds United FC**, **Middlesbrough FC**, **Stoke City FC**
+  - 9 seasons: **Brighton & Hove Albion FC**, x Grimsby (???), **Sunderland AFC**
+  - 8 seasons: x Crewe (???), **Hull City AFC**, x Tranmere (???)
+  - 7 seasons: **Blackburn Rovers FC**, **Blackpool FC**, x Rotherham (???)
+  - 6 seasons: **Bradford City AFC**, **Fulham FC**, x Plymouth (???), x Port Vale (???)
+  - 5 seasons: x Doncaster (???), x Gillingham (???), x Luton (???), **Southampton FC**, x Southend (???), x Stockport (???), **Swindon Town FC**, **Wigan Athletic FC**
+  - 4 seasons: x Brentford (???), **Manchester City FC**, x Oxford (???), x Peterboro (???), x Walsall (???), **Wimbledon FC**
+  - 3 seasons: **Oldham Athletic AFC**, x Scunthorpe (???), **Swansea City AFC**, **West Ham United FC**
+  - 2 seasons: **AFC Bournemouth**, **Aston Villa FC**, x Burton (???), x Bury (???), x Colchester (???), **Newcastle United FC**, x Notts County (???)
+  - 1 seasons: x Milton Keynes Dons (???), x Yeovil (???)
 
 
 level 3
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
 - 85 teams: AFC Bournemouth (17) AFC Wimbledon (2) Barnet (1) Barnsley FC (6) Birmingham City FC (1) Blackburn Rovers FC (1) Blackpool FC (15) Bolton Wanderers FC (1) Bradford City AFC (11) Brentford (18) Brighton & Hove Albion FC (10) Bristol City (13) Bristol Rvs (14) Burnley FC (6) Burton (1) Bury (9) Cambridge (5) Cardiff City FC (5) Carlisle (10) Charlton Athletic FC (5) Cheltenham (4) Chester (1) Chesterfield (15) Colchester (16) Coventry City FC (5) Crawley Town (3) Crewe (11) Dag and Red (1) Doncaster (8) Exeter (4) Fleetwood Town (4) Fulham FC (3) Gillingham (13) Grimsby (2) Hartlepool (10) Hereford (1) Huddersfield Town AFC (12) Hull City AFC (4) Leeds United FC (3) Leicester City FC (1) Leyton Orient (11) Lincoln (1) Luton (9) Macclesfield (1) Manchester City FC (1) Mansfield (1) Millwall (11) Milton Keynes Dons (11) Northampton (10) Norwich City FC (1) Nottingham Forest FC (3) Notts County (13) Oldham Athletic AFC (21) Oxford (6) Peterboro (15) Plymouth (8) Port Vale (13) Portsmouth FC (2) Preston (8) Queens Park Rangers FC (3) Reading FC (5) Rochdale (6) Rotherham (9) Rushden & D (1) Scunthorpe (10) Sheffield United FC (6) Sheffield Wednesday FC (4) Shrewsbury (8) Southampton FC (2) Southend (8) Stevenage (3) Stockport (9) Stoke City FC (4) Swansea City AFC (7) Swindon Town FC (16) Torquay (1) Tranmere (13) Walsall (18) Watford FC (2) Wigan Athletic FC (8) Wolverhampton Wanderers FC (1) Wrexham (11) Wycombe (12) Yeovil (9) York (6) 
-  - 21 seasons: Oldham Athletic AFC
-  - 18 seasons: Brentford, Walsall
-  - 17 seasons: AFC Bournemouth
-  - 16 seasons: Colchester, Swindon Town FC
-  - 15 seasons: Blackpool FC, Chesterfield, Peterboro
-  - 14 seasons: Bristol Rvs
-  - 13 seasons: Bristol City, Gillingham, Notts County, Port Vale, Tranmere
-  - 12 seasons: Huddersfield Town AFC, Wycombe
-  - 11 seasons: Bradford City AFC, Crewe, Leyton Orient, Millwall, Milton Keynes Dons, Wrexham
-  - 10 seasons: Brighton & Hove Albion FC, Carlisle, Hartlepool, Northampton, Scunthorpe
-  - 9 seasons: Bury, Luton, Rotherham, Stockport, Yeovil
-  - 8 seasons: Doncaster, Plymouth, Preston, Shrewsbury, Southend, Wigan Athletic FC
-  - 7 seasons: Swansea City AFC
-  - 6 seasons: Barnsley FC, Burnley FC, Oxford, Rochdale, Sheffield United FC, York
-  - 5 seasons: Cambridge, Cardiff City FC, Charlton Athletic FC, Coventry City FC, Reading FC
-  - 4 seasons: Cheltenham, Exeter, Fleetwood Town, Hull City AFC, Sheffield Wednesday FC, Stoke City FC
-  - 3 seasons: Crawley Town, Fulham FC, Leeds United FC, Nottingham Forest FC, Queens Park Rangers FC, Stevenage
-  - 2 seasons: AFC Wimbledon, Grimsby, Portsmouth FC, Southampton FC, Watford FC
-  - 1 seasons: Barnet, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burton, Chester, Dag and Red, Hereford, Leicester City FC, Lincoln, Macclesfield, Manchester City FC, Mansfield, Norwich City FC, Rushden & D, Torquay, Wolverhampton Wanderers FC
+  - 21 seasons: **Oldham Athletic AFC**
+  - 18 seasons: x Brentford (???), x Walsall (???)
+  - 17 seasons: **AFC Bournemouth**
+  - 16 seasons: x Colchester (???), **Swindon Town FC**
+  - 15 seasons: **Blackpool FC**, x Chesterfield (???), x Peterboro (???)
+  - 14 seasons: x Bristol Rvs (???)
+  - 13 seasons: x Bristol City (???), x Gillingham (???), x Notts County (???), x Port Vale (???), x Tranmere (???)
+  - 12 seasons: **Huddersfield Town AFC**, x Wycombe (???)
+  - 11 seasons: **Bradford City AFC**, x Crewe (???), x Leyton Orient (???), x Millwall (???), x Milton Keynes Dons (???), x Wrexham (???)
+  - 10 seasons: **Brighton & Hove Albion FC**, x Carlisle (???), x Hartlepool (???), x Northampton (???), x Scunthorpe (???)
+  - 9 seasons: x Bury (???), x Luton (???), x Rotherham (???), x Stockport (???), x Yeovil (???)
+  - 8 seasons: x Doncaster (???), x Plymouth (???), x Preston (???), x Shrewsbury (???), x Southend (???), **Wigan Athletic FC**
+  - 7 seasons: **Swansea City AFC**
+  - 6 seasons: **Barnsley FC**, **Burnley FC**, x Oxford (???), x Rochdale (???), **Sheffield United FC**, x York (???)
+  - 5 seasons: x Cambridge (???), **Cardiff City FC**, **Charlton Athletic FC**, **Coventry City FC**, **Reading FC**
+  - 4 seasons: x Cheltenham (???), x Exeter (???), x Fleetwood Town (???), **Hull City AFC**, **Sheffield Wednesday FC**, **Stoke City FC**
+  - 3 seasons: x Crawley Town (???), **Fulham FC**, **Leeds United FC**, **Nottingham Forest FC**, **Queens Park Rangers FC**, x Stevenage (???)
+  - 2 seasons: x AFC Wimbledon (???), x Grimsby (???), **Portsmouth FC**, **Southampton FC**, **Watford FC**
+  - 1 seasons: x Barnet (???), **Birmingham City FC**, **Blackburn Rovers FC**, **Bolton Wanderers FC**, x Burton (???), x Chester (???), x Dag and Red (???), x Hereford (???), **Leicester City FC**, x Lincoln (???), x Macclesfield (???), **Manchester City FC**, x Mansfield (???), **Norwich City FC**, x Rushden & D (???), x Torquay (???), **Wolverhampton Wanderers FC**
 
 
 level 4
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
 - 73 teams: AFC Bournemouth (3) AFC Wimbledon (5) Accrington (12) Aldershot (5) Barnet (18) Blackpool FC (2) Boston (5) Bradford City AFC (6) Brentford (3) Brighton & Hove Albion FC (5) Bristol Rvs (10) Burton (6) Bury (14) Cambridge (11) Cardiff City FC (5) Carlisle (14) Cheltenham (14) Chester (11) Chesterfield (10) Colchester (7) Coventry City FC (1) Crawley Town (4) Crewe (6) Dag and Red (8) Darlington (17) Doncaster (7) Exeter (16) Fleetwood Town (2) Forest Green (1) Fulham FC (3) Gillingham (7) Grimsby (8) Halifax (4) Hartlepool (14) Hereford (9) Huddersfield Town AFC (1) Hull City AFC (8) Kidderminster (5) Leyton Orient (13) Lincoln (18) Luton (6) Macclesfield (14) Mansfield (19) Milton Keynes Dons (2) Morecambe (11) Newport County (5) Northampton (15) Notts County (10) Oxford (11) Peterboro (6) Plymouth (11) Port Vale (6) Portsmouth FC (4) Preston (3) Rochdale (19) Rotherham (9) Rushden & D (4) Scarborough (6) Scunthorpe (12) Shrewsbury (16) Southend (12) Stevenage (5) Stockport (4) Swansea City AFC (8) Swindon Town FC (3) Torquay (18) Tranmere (1) Walsall (3) Wigan Athletic FC (4) Wrexham (4) Wycombe (13) Yeovil (5) York (9) 
-  - 19 seasons: Mansfield, Rochdale
-  - 18 seasons: Barnet, Lincoln, Torquay
-  - 17 seasons: Darlington
-  - 16 seasons: Exeter, Shrewsbury
-  - 15 seasons: Northampton
-  - 14 seasons: Bury, Carlisle, Cheltenham, Hartlepool, Macclesfield
-  - 13 seasons: Leyton Orient, Wycombe
-  - 12 seasons: Accrington, Scunthorpe, Southend
-  - 11 seasons: Cambridge, Chester, Morecambe, Oxford, Plymouth
-  - 10 seasons: Bristol Rvs, Chesterfield, Notts County
-  - 9 seasons: Hereford, Rotherham, York
-  - 8 seasons: Dag and Red, Grimsby, Hull City AFC, Swansea City AFC
-  - 7 seasons: Colchester, Doncaster, Gillingham
-  - 6 seasons: Bradford City AFC, Burton, Crewe, Luton, Peterboro, Port Vale, Scarborough
-  - 5 seasons: AFC Wimbledon, Aldershot, Boston, Brighton & Hove Albion FC, Cardiff City FC, Kidderminster, Newport County, Stevenage, Yeovil
-  - 4 seasons: Crawley Town, Halifax, Portsmouth FC, Rushden & D, Stockport, Wigan Athletic FC, Wrexham
-  - 3 seasons: AFC Bournemouth, Brentford, Fulham FC, Preston, Swindon Town FC, Walsall
-  - 2 seasons: Blackpool FC, Fleetwood Town, Milton Keynes Dons
-  - 1 seasons: Coventry City FC, Forest Green, Huddersfield Town AFC, Tranmere
+  - 19 seasons: x Mansfield (???), x Rochdale (???)
+  - 18 seasons: x Barnet (???), x Lincoln (???), x Torquay (???)
+  - 17 seasons: x Darlington (???)
+  - 16 seasons: x Exeter (???), x Shrewsbury (???)
+  - 15 seasons: x Northampton (???)
+  - 14 seasons: x Bury (???), x Carlisle (???), x Cheltenham (???), x Hartlepool (???), x Macclesfield (???)
+  - 13 seasons: x Leyton Orient (???), x Wycombe (???)
+  - 12 seasons: x Accrington (???), x Scunthorpe (???), x Southend (???)
+  - 11 seasons: x Cambridge (???), x Chester (???), x Morecambe (???), x Oxford (???), x Plymouth (???)
+  - 10 seasons: x Bristol Rvs (???), x Chesterfield (???), x Notts County (???)
+  - 9 seasons: x Hereford (???), x Rotherham (???), x York (???)
+  - 8 seasons: x Dag and Red (???), x Grimsby (???), **Hull City AFC**, **Swansea City AFC**
+  - 7 seasons: x Colchester (???), x Doncaster (???), x Gillingham (???)
+  - 6 seasons: **Bradford City AFC**, x Burton (???), x Crewe (???), x Luton (???), x Peterboro (???), x Port Vale (???), x Scarborough (???)
+  - 5 seasons: x AFC Wimbledon (???), x Aldershot (???), x Boston (???), **Brighton & Hove Albion FC**, **Cardiff City FC**, x Kidderminster (???), x Newport County (???), x Stevenage (???), x Yeovil (???)
+  - 4 seasons: x Crawley Town (???), x Halifax (???), **Portsmouth FC**, x Rushden & D (???), x Stockport (???), **Wigan Athletic FC**, x Wrexham (???)
+  - 3 seasons: **AFC Bournemouth**, x Brentford (???), **Fulham FC**, x Preston (???), **Swindon Town FC**, x Walsall (???)
+  - 2 seasons: **Blackpool FC**, x Fleetwood Town (???), x Milton Keynes Dons (???)
+  - 1 seasons: **Coventry City FC**, x Forest Green (???), **Huddersfield Town AFC**, x Tranmere (???)
 
 
 level 5
 - 13 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 
 - 78 teams: AFC Telford United (1) AFC Wimbledon (2) Accrington (1) Aldershot (8) Alfreton Town (4) Altrincham (8) Barnet (2) Barrow (8) Bath City (2) Boreham Wood (3) Braintree Town (6) Bristol Rvs (1) Bromley (3) Burton (4) Cambridge (9) Canvey Island (1) Cheltenham (1) Chester (5) Crawley Town (6) Dag and Red (4) Darlington (2) Dartford (3) Dover Athletic (4) Droylsden (1) Eastbourne Borough (3) Eastleigh (4) Ebbsfleet (6) Exeter (3) Farsley (1) Fleetwood Town (2) Forest Green (12) Fylde (1) Gateshead (9) Gravesend (2) Grays (5) Grimsby (6) Guiseley (3) Halifax (7) Hartlepool (1) Hayes & Yeading (3) Hereford (3) Histon (4) Hyde United (2) Kettering Town (4) Kidderminster (11) Lewes (1) Leyton Orient (1) Lincoln (6) Luton (5) Macclesfield (6) Maidenhead (1) Maidstone (2) Mansfield (5) Morecambe (2) Newport County (3) North Ferriby (1) Northwich (3) Nuneaton Town (3) Oxford (4) Rushden & D (5) Salisbury (4) Scarborough (1) Solihull (2) Southport (9) St. Albans (1) Stafford Rangers (2) Stevenage (5) Stockport (2) Sutton (2) Tamworth (7) Telford United (2) Torquay (6) Tranmere (3) Welling United (3) Weymouth (3) Woking (10) Wrexham (10) York (8) 
-  - 12 seasons: Forest Green
-  - 11 seasons: Kidderminster
-  - 10 seasons: Woking, Wrexham
-  - 9 seasons: Cambridge, Gateshead, Southport
-  - 8 seasons: Aldershot, Altrincham, Barrow, York
-  - 7 seasons: Halifax, Tamworth
-  - 6 seasons: Braintree Town, Crawley Town, Ebbsfleet, Grimsby, Lincoln, Macclesfield, Torquay
-  - 5 seasons: Chester, Grays, Luton, Mansfield, Rushden & D, Stevenage
-  - 4 seasons: Alfreton Town, Burton, Dag and Red, Dover Athletic, Eastleigh, Histon, Kettering Town, Oxford, Salisbury
-  - 3 seasons: Boreham Wood, Bromley, Dartford, Eastbourne Borough, Exeter, Guiseley, Hayes & Yeading, Hereford, Newport County, Northwich, Nuneaton Town, Tranmere, Welling United, Weymouth
-  - 2 seasons: AFC Wimbledon, Barnet, Bath City, Darlington, Fleetwood Town, Gravesend, Hyde United, Maidstone, Morecambe, Solihull, Stafford Rangers, Stockport, Sutton, Telford United
-  - 1 seasons: AFC Telford United, Accrington, Bristol Rvs, Canvey Island, Cheltenham, Droylsden, Farsley, Fylde, Hartlepool, Lewes, Leyton Orient, Maidenhead, North Ferriby, Scarborough, St. Albans
+  - 12 seasons: x Forest Green (???)
+  - 11 seasons: x Kidderminster (???)
+  - 10 seasons: x Woking (???), x Wrexham (???)
+  - 9 seasons: x Cambridge (???), x Gateshead (???), x Southport (???)
+  - 8 seasons: x Aldershot (???), x Altrincham (???), x Barrow (???), x York (???)
+  - 7 seasons: x Halifax (???), x Tamworth (???)
+  - 6 seasons: x Braintree Town (???), x Crawley Town (???), x Ebbsfleet (???), x Grimsby (???), x Lincoln (???), x Macclesfield (???), x Torquay (???)
+  - 5 seasons: x Chester (???), x Grays (???), x Luton (???), x Mansfield (???), x Rushden & D (???), x Stevenage (???)
+  - 4 seasons: x Alfreton Town (???), x Burton (???), x Dag and Red (???), x Dover Athletic (???), x Eastleigh (???), x Histon (???), x Kettering Town (???), x Oxford (???), x Salisbury (???)
+  - 3 seasons: x Boreham Wood (???), x Bromley (???), x Dartford (???), x Eastbourne Borough (???), x Exeter (???), x Guiseley (???), x Hayes & Yeading (???), x Hereford (???), x Newport County (???), x Northwich (???), x Nuneaton Town (???), x Tranmere (???), x Welling United (???), x Weymouth (???)
+  - 2 seasons: x AFC Wimbledon (???), x Barnet (???), x Bath City (???), x Darlington (???), x Fleetwood Town (???), x Gravesend (???), x Hyde United (???), x Maidstone (???), x Morecambe (???), x Solihull (???), x Stafford Rangers (???), x Stockport (???), x Sutton (???), x Telford United (???)
+  - 1 seasons: x AFC Telford United (???), x Accrington (???), x Bristol Rvs (???), x Canvey Island (???), x Cheltenham (???), x Droylsden (???), x Farsley (???), x Fylde (???), x Hartlepool (???), x Lewes (???), x Leyton Orient (???), x Maidenhead (???), x North Ferriby (???), x Scarborough (???), x St. Albans (???)
 
 
 level 1 - 25 seasons:
@@ -1082,511 +1082,508 @@ AFC Telford United, AFC Wimbledon, Accrington, Aldershot, Alfreton Town, Altrinc
 ### Season
 
 - **AFC Bournemouth** - 25 seasons in 4 levels
-  - 1 (3): 2017-18...2015-16 (3)
-  - 2 (2): 2014-15..2013-14 (2)
-  - 3 (17): 2012-13...2010-11 (3) 2007-08.....2003-04 (5) 2001-02.........1993-94 (9)
-  - 4 (3): 2009-10..2008-09 (2) 2002-03
+  - 1 (3): 2018...2015 (3)
+  - 2 (2): 2015..2013 (2)
+  - 3 (17): 2013...2010 (3) 2008.....2003 (5) 2002.........1993 (9)
+  - 4 (3): 2010..2008 (2) 2002-03
 - x AFC Telford United (???) - 1 season in 1 level
   - 5 (1): 2011-12
 - x AFC Wimbledon (???) - 9 seasons in 3 levels
-  - 3 (2): 2017-18..2016-17 (2)
-  - 4 (5): 2015-16.....2011-12 (5)
-  - 5 (2): 2010-11..2009-10 (2)
+  - 3 (2): 2018..2016 (2)
+  - 4 (5): 2016.....2011 (5)
+  - 5 (2): 2011..2009 (2)
 - x Accrington (???) - 13 seasons in 2 levels
-  - 4 (12): 2017-18............2006-07 (12)
+  - 4 (12): 2018............2006 (12)
   - 5 (1): 2005-06
 - x Aldershot (???) - 13 seasons in 2 levels
-  - 4 (5): 2012-13.....2008-09 (5)
-  - 5 (8): 2017-18.....2013-14 (5) 2007-08...2005-06 (3)
+  - 4 (5): 2013.....2008 (5)
+  - 5 (8): 2018.....2013 (5) 2008...2005 (3)
 - x Alfreton Town (???) - 4 seasons in 1 level
-  - 5 (4): 2014-15....2011-12 (4)
+  - 5 (4): 2015....2011 (4)
 - x Altrincham (???) - 8 seasons in 1 level
-  - 5 (8): 2015-16..2014-15 (2) 2010-11......2005-06 (6)
+  - 5 (8): 2016..2014 (2) 2011......2005 (6)
 - **Arsenal FC** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Aston Villa FC** - 25 seasons in 2 levels
-  - 1 (23): 2015-16.......................1993-94 (23)
-  - 2 (2): 2017-18..2016-17 (2)
+  - 1 (23): 2016.......................1993 (23)
+  - 2 (2): 2018..2016 (2)
 - x Barnet (???) - 21 seasons in 3 levels
   - 3 (1): 1993-94
-  - 4 (18): 2017-18...2015-16 (3) 2012-13........2005-06 (8) 2000-01.......1994-95 (7)
-  - 5 (2): 2014-15..2013-14 (2)
+  - 4 (18): 2018...2015 (3) 2013........2005 (8) 2001.......1994 (7)
+  - 5 (2): 2015..2013 (2)
 - **Barnsley FC** - 25 seasons in 3 levels
   - 1 (1): 1997-98
-  - 2 (18): 2017-18..2016-17 (2) 2013-14........2006-07 (8) 2001-02....1998-99 (4) 1996-97....1993-94 (4)
-  - 3 (6): 2015-16..2014-15 (2) 2005-06....2002-03 (4)
+  - 2 (18): 2018..2016 (2) 2014........2006 (8) 2002....1998 (4) 1997....1993 (4)
+  - 3 (6): 2016..2014 (2) 2006....2002 (4)
 - x Barrow (???) - 8 seasons in 1 level
-  - 5 (8): 2017-18...2015-16 (3) 2012-13.....2008-09 (5)
+  - 5 (8): 2018...2015 (3) 2013.....2008 (5)
 - x Bath City (???) - 2 seasons in 1 level
-  - 5 (2): 2011-12..2010-11 (2)
+  - 5 (2): 2012..2010 (2)
 - **Birmingham City FC** - 25 seasons in 3 levels
-  - 1 (7): 2010-11..2009-10 (2) 2007-08 2005-06....2002-03 (4)
-  - 2 (17): 2017-18.......2011-12 (7) 2008-09 2006-07 2001-02.......1995-96 (7) 1993-94
+  - 1 (7): 2011..2009 (2) 2007-08 2006....2002 (4)
+  - 2 (17): 2018.......2011 (7) 2008-09 2006-07 2002.......1995 (7) 1993-94
   - 3 (1): 1994-95
 - **Blackburn Rovers FC** - 25 seasons in 3 levels
-  - 1 (17): 2011-12...........2001-02 (11) 1998-99......1993-94 (6)
-  - 2 (7): 2016-17.....2012-13 (5) 2000-01..1999-00 (2)
+  - 1 (17): 2012...........2001 (11) 1999......1993 (6)
+  - 2 (7): 2017.....2012 (5) 2001..1999 (2)
   - 3 (1): 2017-18
 - **Blackpool FC** - 25 seasons in 4 levels
   - 1 (1): 2010-11
-  - 2 (7): 2014-15....2011-12 (4) 2009-10...2007-08 (3)
-  - 3 (15): 2017-18 2015-16 2006-07......2001-02 (6) 1999-00.......1993-94 (7)
+  - 2 (7): 2015....2011 (4) 2010...2007 (3)
+  - 3 (15): 2017-18 2015-16 2007......2001 (6) 2000.......1993 (7)
   - 4 (2): 2016-17 2000-01
 - **Bolton Wanderers FC** - 25 seasons in 3 levels
-  - 1 (13): 2011-12...........2001-02 (11) 1997-98 1995-96
-  - 2 (11): 2017-18 2015-16....2012-13 (4) 2000-01...1998-99 (3) 1996-97 1994-95..1993-94 (2)
+  - 1 (13): 2012...........2001 (11) 1997-98 1995-96
+  - 2 (11): 2017-18 2016....2012 (4) 2001...1998 (3) 1996-97 1995..1993 (2)
   - 3 (1): 2016-17
 - x Boreham Wood (???) - 3 seasons in 1 level
-  - 5 (3): 2017-18...2015-16 (3)
+  - 5 (3): 2018...2015 (3)
 - x Boston (???) - 5 seasons in 1 level
-  - 4 (5): 2006-07.....2002-03 (5)
+  - 4 (5): 2007.....2002 (5)
 - **Bradford City AFC** - 25 seasons in 4 levels
-  - 1 (2): 2000-01..1999-00 (2)
-  - 2 (6): 2003-04...2001-02 (3) 1998-99...1996-97 (3)
-  - 3 (11): 2017-18.....2013-14 (5) 2006-07...2004-05 (3) 1995-96...1993-94 (3)
-  - 4 (6): 2012-13......2007-08 (6)
+  - 1 (2): 2001..1999 (2)
+  - 2 (6): 2004...2001 (3) 1999...1996 (3)
+  - 3 (11): 2018.....2013 (5) 2007...2004 (3) 1996...1993 (3)
+  - 4 (6): 2013......2007 (6)
 - x Braintree Town (???) - 6 seasons in 1 level
-  - 5 (6): 2016-17......2011-12 (6)
+  - 5 (6): 2017......2011 (6)
 - x Brentford (???) - 25 seasons in 3 levels
-  - 2 (4): 2017-18....2014-15 (4)
-  - 3 (18): 2013-14.....2009-10 (5) 2006-07........1999-00 (8) 1997-98.....1993-94 (5)
-  - 4 (3): 2008-09..2007-08 (2) 1998-99
+  - 2 (4): 2018....2014 (4)
+  - 3 (18): 2014.....2009 (5) 2007........1999 (8) 1998.....1993 (5)
+  - 4 (3): 2009..2007 (2) 1998-99
 - **Brighton & Hove Albion FC** - 25 seasons in 4 levels
   - 1 (1): 2017-18
-  - 2 (9): 2016-17......2011-12 (6) 2005-06..2004-05 (2) 2002-03
-  - 3 (10): 2010-11.....2006-07 (5) 2003-04 2001-02 1995-96...1993-94 (3)
-  - 4 (5): 2000-01.....1996-97 (5)
+  - 2 (9): 2017......2011 (6) 2006..2004 (2) 2002-03
+  - 3 (10): 2011.....2006 (5) 2003-04 2001-02 1996...1993 (3)
+  - 4 (5): 2001.....1996 (5)
 - x Bristol City (???) - 25 seasons in 2 levels
-  - 2 (12): 2017-18...2015-16 (3) 2012-13......2007-08 (6) 1998-99 1994-95..1993-94 (2)
-  - 3 (13): 2014-15..2013-14 (2) 2006-07........1999-00 (8) 1997-98...1995-96 (3)
+  - 2 (12): 2018...2015 (3) 2013......2007 (6) 1998-99 1995..1993 (2)
+  - 3 (13): 2015..2013 (2) 2007........1999 (8) 1998...1995 (3)
 - x Bristol Rvs (???) - 25 seasons in 3 levels
-  - 3 (14): 2017-18..2016-17 (2) 2010-11....2007-08 (4) 2000-01........1993-94 (8)
-  - 4 (10): 2015-16 2013-14...2011-12 (3) 2006-07......2001-02 (6)
+  - 3 (14): 2018..2016 (2) 2011....2007 (4) 2001........1993 (8)
+  - 4 (10): 2015-16 2014...2011 (3) 2007......2001 (6)
   - 5 (1): 2014-15
 - x Bromley (???) - 3 seasons in 1 level
-  - 5 (3): 2017-18...2015-16 (3)
+  - 5 (3): 2018...2015 (3)
 - **Burnley FC** - 25 seasons in 3 levels
-  - 1 (4): 2017-18..2016-17 (2) 2014-15 2009-10
-  - 2 (15): 2015-16 2013-14....2010-11 (4) 2008-09.........2000-01 (9) 1994-95
-  - 3 (6): 1999-00.....1995-96 (5) 1993-94
+  - 1 (4): 2018..2016 (2) 2014-15 2009-10
+  - 2 (15): 2015-16 2014....2010 (4) 2009.........2000 (9) 1994-95
+  - 3 (6): 2000.....1995 (5) 1993-94
 - x Burton (???) - 13 seasons in 4 levels
-  - 2 (2): 2017-18..2016-17 (2)
+  - 2 (2): 2018..2016 (2)
   - 3 (1): 2015-16
-  - 4 (6): 2014-15......2009-10 (6)
-  - 5 (4): 2008-09....2005-06 (4)
+  - 4 (6): 2015......2009 (6)
+  - 5 (4): 2009....2005 (4)
 - x Bury (???) - 25 seasons in 3 levels
-  - 2 (2): 1998-99..1997-98 (2)
-  - 3 (9): 2017-18...2015-16 (3) 2012-13..2011-12 (2) 2001-02...1999-00 (3) 1996-97
-  - 4 (14): 2014-15..2013-14 (2) 2010-11.........2002-03 (9) 1995-96...1993-94 (3)
+  - 2 (2): 1999..1997 (2)
+  - 3 (9): 2018...2015 (3) 2013..2011 (2) 2002...1999 (3) 1996-97
+  - 4 (14): 2015..2013 (2) 2011.........2002 (9) 1996...1993 (3)
 - x Cambridge (???) - 25 seasons in 3 levels
-  - 3 (5): 2001-02...1999-00 (3) 1994-95..1993-94 (2)
-  - 4 (11): 2017-18....2014-15 (4) 2004-05...2002-03 (3) 1998-99....1995-96 (4)
-  - 5 (9): 2013-14.........2005-06 (9)
+  - 3 (5): 2002...1999 (3) 1995..1993 (2)
+  - 4 (11): 2018....2014 (4) 2005...2002 (3) 1999....1995 (4)
+  - 5 (9): 2014.........2005 (9)
 - x Canvey Island (???) - 1 season in 1 level
   - 5 (1): 2005-06
 - **Cardiff City FC** - 25 seasons in 4 levels
   - 1 (1): 2013-14
-  - 2 (14): 2017-18....2014-15 (4) 2012-13..........2003-04 (10)
-  - 3 (5): 2002-03..2001-02 (2) 1999-00 1994-95..1993-94 (2)
-  - 4 (5): 2000-01 1998-99....1995-96 (4)
+  - 2 (14): 2018....2014 (4) 2013..........2003 (10)
+  - 3 (5): 2003..2001 (2) 1999-00 1995..1993 (2)
+  - 4 (5): 2000-01 1999....1995 (4)
 - x Carlisle (???) - 24 seasons in 2 levels
-  - 3 (10): 2013-14........2006-07 (8) 1997-98 1995-96
-  - 4 (14): 2017-18....2014-15 (4) 2005-06 2003-04......1998-99 (6) 1996-97 1994-95..1993-94 (2)
+  - 3 (10): 2014........2006 (8) 1997-98 1995-96
+  - 4 (14): 2018....2014 (4) 2005-06 2004......1998 (6) 1996-97 1995..1993 (2)
 - **Charlton Athletic FC** - 25 seasons in 3 levels
-  - 1 (8): 2006-07.......2000-01 (7) 1998-99
-  - 2 (12): 2015-16....2012-13 (4) 2008-09..2007-08 (2) 1999-00 1997-98.....1993-94 (5)
-  - 3 (5): 2017-18..2016-17 (2) 2011-12...2009-10 (3)
+  - 1 (8): 2007.......2000 (7) 1998-99
+  - 2 (12): 2016....2012 (4) 2009..2007 (2) 1999-00 1998.....1993 (5)
+  - 3 (5): 2018..2016 (2) 2012...2009 (3)
 - **Chelsea FC** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - x Cheltenham (???) - 19 seasons in 3 levels
-  - 3 (4): 2008-09...2006-07 (3) 2002-03
-  - 4 (14): 2017-18..2016-17 (2) 2014-15......2009-10 (6) 2005-06...2003-04 (3) 2001-02...1999-00 (3)
+  - 3 (4): 2009...2006 (3) 2002-03
+  - 4 (14): 2018..2016 (2) 2015......2009 (6) 2006...2003 (3) 2002...1999 (3)
   - 5 (1): 2015-16
 - x Chester (???) - 17 seasons in 3 levels
   - 3 (1): 1994-95
-  - 4 (11): 2008-09.....2004-05 (5) 1999-00.....1995-96 (5) 1993-94
-  - 5 (5): 2017-18.....2013-14 (5)
+  - 4 (11): 2009.....2004 (5) 2000.....1995 (5) 1993-94
+  - 5 (5): 2018.....2013 (5)
 - x Chesterfield (???) - 25 seasons in 2 levels
-  - 3 (15): 2016-17...2014-15 (3) 2011-12 2006-07......2001-02 (6) 1999-00.....1995-96 (5)
-  - 4 (10): 2017-18 2013-14..2012-13 (2) 2010-11....2007-08 (4) 2000-01 1994-95..1993-94 (2)
+  - 3 (15): 2017...2014 (3) 2011-12 2007......2001 (6) 2000.....1995 (5)
+  - 4 (10): 2017-18 2014..2012 (2) 2011....2007 (4) 2000-01 1995..1993 (2)
 - x Colchester (???) - 25 seasons in 3 levels
-  - 2 (2): 2007-08..2006-07 (2)
-  - 3 (16): 2015-16........2008-09 (8) 2005-06........1998-99 (8)
-  - 4 (7): 2017-18..2016-17 (2) 1997-98.....1993-94 (5)
+  - 2 (2): 2008..2006 (2)
+  - 3 (16): 2016........2008 (8) 2006........1998 (8)
+  - 4 (7): 2018..2016 (2) 1998.....1993 (5)
 - **Coventry City FC** - 25 seasons in 4 levels
-  - 1 (8): 2000-01........1993-94 (8)
-  - 2 (11): 2011-12...........2001-02 (11)
-  - 3 (5): 2016-17.....2012-13 (5)
+  - 1 (8): 2001........1993 (8)
+  - 2 (11): 2012...........2001 (11)
+  - 3 (5): 2017.....2012 (5)
   - 4 (1): 2017-18
 - x Crawley Town (???) - 13 seasons in 3 levels
-  - 3 (3): 2014-15...2012-13 (3)
-  - 4 (4): 2017-18...2015-16 (3) 2011-12
-  - 5 (6): 2010-11......2005-06 (6)
+  - 3 (3): 2015...2012 (3)
+  - 4 (4): 2018...2015 (3) 2011-12
+  - 5 (6): 2011......2005 (6)
 - x Crewe (???) - 25 seasons in 3 levels
-  - 2 (8): 2005-06...2003-04 (3) 2001-02.....1997-98 (5)
-  - 3 (11): 2015-16....2012-13 (4) 2008-09...2006-07 (3) 2002-03 1996-97...1994-95 (3)
-  - 4 (6): 2017-18..2016-17 (2) 2011-12...2009-10 (3) 1993-94
+  - 2 (8): 2006...2003 (3) 2002.....1997 (5)
+  - 3 (11): 2016....2012 (4) 2009...2006 (3) 2002-03 1997...1994 (3)
+  - 4 (6): 2018..2016 (2) 2012...2009 (3) 1993-94
 - **Crystal Palace FC** - 25 seasons in 2 levels
-  - 1 (8): 2017-18.....2013-14 (5) 2004-05 1997-98 1994-95
-  - 2 (17): 2012-13........2005-06 (8) 2003-04......1998-99 (6) 1996-97..1995-96 (2) 1993-94
+  - 1 (8): 2018.....2013 (5) 2004-05 1997-98 1994-95
+  - 2 (17): 2013........2005 (8) 2004......1998 (6) 1997..1995 (2) 1993-94
 - x Dag and Red (???) - 13 seasons in 3 levels
   - 3 (1): 2010-11
-  - 4 (8): 2015-16.....2011-12 (5) 2009-10...2007-08 (3)
-  - 5 (4): 2017-18..2016-17 (2) 2006-07..2005-06 (2)
+  - 4 (8): 2016.....2011 (5) 2010...2007 (3)
+  - 5 (4): 2018..2016 (2) 2007..2005 (2)
 - x Darlington (???) - 19 seasons in 2 levels
-  - 4 (17): 2009-10.................1993-94 (17)
-  - 5 (2): 2011-12..2010-11 (2)
+  - 4 (17): 2010.................1993 (17)
+  - 5 (2): 2012..2010 (2)
 - x Dartford (???) - 3 seasons in 1 level
-  - 5 (3): 2014-15...2012-13 (3)
+  - 5 (3): 2015...2012 (3)
 - **Derby County FC** - 25 seasons in 2 levels
-  - 1 (7): 2007-08 2001-02......1996-97 (6)
-  - 2 (18): 2017-18..........2008-09 (10) 2006-07.....2002-03 (5) 1995-96...1993-94 (3)
+  - 1 (7): 2007-08 2002......1996 (6)
+  - 2 (18): 2018..........2008 (10) 2007.....2002 (5) 1996...1993 (3)
 - x Doncaster (???) - 20 seasons in 3 levels
-  - 2 (5): 2013-14 2011-12....2008-09 (4)
-  - 3 (8): 2017-18 2015-16..2014-15 (2) 2012-13 2007-08....2004-05 (4)
-  - 4 (7): 2016-17 2003-04 1997-98.....1993-94 (5)
+  - 2 (5): 2013-14 2012....2008 (4)
+  - 3 (8): 2017-18 2016..2014 (2) 2012-13 2008....2004 (4)
+  - 4 (7): 2016-17 2003-04 1998.....1993 (5)
 - x Dover Athletic (???) - 4 seasons in 1 level
-  - 5 (4): 2017-18....2014-15 (4)
+  - 5 (4): 2018....2014 (4)
 - x Droylsden (???) - 1 season in 1 level
   - 5 (1): 2007-08
 - x Eastbourne Borough (???) - 3 seasons in 1 level
-  - 5 (3): 2010-11...2008-09 (3)
+  - 5 (3): 2011...2008 (3)
 - x Eastleigh (???) - 4 seasons in 1 level
-  - 5 (4): 2017-18....2014-15 (4)
+  - 5 (4): 2018....2014 (4)
 - x Ebbsfleet (???) - 6 seasons in 1 level
-  - 5 (6): 2017-18 2012-13..2011-12 (2) 2009-10...2007-08 (3)
+  - 5 (6): 2017-18 2013..2011 (2) 2010...2007 (3)
 - **Everton FC** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - x Exeter (???) - 23 seasons in 3 levels
-  - 3 (4): 2011-12...2009-10 (3) 1993-94
-  - 4 (16): 2017-18......2012-13 (6) 2008-09 2002-03.........1994-95 (9)
-  - 5 (3): 2007-08...2005-06 (3)
+  - 3 (4): 2012...2009 (3) 1993-94
+  - 4 (16): 2018......2012 (6) 2008-09 2003.........1994 (9)
+  - 5 (3): 2008...2005 (3)
 - x Farsley (???) - 1 season in 1 level
   - 5 (1): 2007-08
 - x Fleetwood Town (???) - 8 seasons in 3 levels
-  - 3 (4): 2017-18....2014-15 (4)
-  - 4 (2): 2013-14..2012-13 (2)
-  - 5 (2): 2011-12..2010-11 (2)
+  - 3 (4): 2018....2014 (4)
+  - 4 (2): 2014..2012 (2)
+  - 5 (2): 2012..2010 (2)
 - x Forest Green (???) - 13 seasons in 2 levels
   - 4 (1): 2017-18
-  - 5 (12): 2016-17............2005-06 (12)
+  - 5 (12): 2017............2005 (12)
 - **Fulham FC** - 25 seasons in 4 levels
-  - 1 (13): 2013-14.............2001-02 (13)
-  - 2 (6): 2017-18....2014-15 (4) 2000-01..1999-00 (2)
-  - 3 (3): 1998-99..1997-98 (2) 1993-94
-  - 4 (3): 1996-97...1994-95 (3)
+  - 1 (13): 2014.............2001 (13)
+  - 2 (6): 2018....2014 (4) 2001..1999 (2)
+  - 3 (3): 1999..1997 (2) 1993-94
+  - 4 (3): 1997...1994 (3)
 - x Fylde (???) - 1 season in 1 level
   - 5 (1): 2017-18
 - x Gateshead (???) - 9 seasons in 1 level
-  - 5 (9): 2017-18.........2009-10 (9)
+  - 5 (9): 2018.........2009 (9)
 - x Gillingham (???) - 25 seasons in 3 levels
-  - 2 (5): 2004-05.....2000-01 (5)
-  - 3 (13): 2017-18.....2013-14 (5) 2009-10 2007-08...2005-06 (3) 1999-00....1996-97 (4)
-  - 4 (7): 2012-13...2010-11 (3) 2008-09 1995-96...1993-94 (3)
+  - 2 (5): 2005.....2000 (5)
+  - 3 (13): 2018.....2013 (5) 2009-10 2008...2005 (3) 2000....1996 (4)
+  - 4 (7): 2013...2010 (3) 2008-09 1996...1993 (3)
 - x Gravesend (???) - 2 seasons in 1 level
-  - 5 (2): 2006-07..2005-06 (2)
+  - 5 (2): 2007..2005 (2)
 - x Grays (???) - 5 seasons in 1 level
-  - 5 (5): 2009-10.....2005-06 (5)
+  - 5 (5): 2010.....2005 (5)
 - x Grimsby (???) - 25 seasons in 4 levels
-  - 2 (9): 2002-03.....1998-99 (5) 1996-97....1993-94 (4)
+  - 2 (9): 2003.....1998 (5) 1997....1993 (4)
   - 3 (2): 2003-04 1997-98
-  - 4 (8): 2017-18..2016-17 (2) 2009-10......2004-05 (6)
-  - 5 (6): 2015-16......2010-11 (6)
+  - 4 (8): 2018..2016 (2) 2010......2004 (6)
+  - 5 (6): 2016......2010 (6)
 - x Guiseley (???) - 3 seasons in 1 level
-  - 5 (3): 2017-18...2015-16 (3)
+  - 5 (3): 2018...2015 (3)
 - x Halifax (???) - 11 seasons in 2 levels
-  - 4 (4): 2001-02....1998-99 (4)
-  - 5 (7): 2017-18 2015-16...2013-14 (3) 2007-08...2005-06 (3)
+  - 4 (4): 2002....1998 (4)
+  - 5 (7): 2017-18 2016...2013 (3) 2008...2005 (3)
 - x Hartlepool (???) - 25 seasons in 3 levels
-  - 3 (10): 2012-13......2007-08 (6) 2005-06...2003-04 (3) 1993-94
-  - 4 (14): 2016-17....2013-14 (4) 2006-07 2002-03.........1994-95 (9)
+  - 3 (10): 2013......2007 (6) 2006...2003 (3) 1993-94
+  - 4 (14): 2017....2013 (4) 2006-07 2003.........1994 (9)
   - 5 (1): 2017-18
 - x Hayes & Yeading (???) - 3 seasons in 1 level
-  - 5 (3): 2011-12...2009-10 (3)
+  - 5 (3): 2012...2009 (3)
 - x Hereford (???) - 13 seasons in 3 levels
   - 3 (1): 2008-09
-  - 4 (9): 2011-12...2009-10 (3) 2007-08..2006-07 (2) 1996-97....1993-94 (4)
-  - 5 (3): 2013-14..2012-13 (2) 2005-06
+  - 4 (9): 2012...2009 (3) 2008..2006 (2) 1997....1993 (4)
+  - 5 (3): 2014..2012 (2) 2005-06
 - x Histon (???) - 4 seasons in 1 level
-  - 5 (4): 2010-11....2007-08 (4)
+  - 5 (4): 2011....2007 (4)
 - **Huddersfield Town AFC** - 25 seasons in 4 levels
   - 1 (1): 2017-18
-  - 2 (11): 2016-17.....2012-13 (5) 2000-01......1995-96 (6)
-  - 3 (12): 2011-12........2004-05 (8) 2002-03..2001-02 (2) 1994-95..1993-94 (2)
+  - 2 (11): 2017.....2012 (5) 2001......1995 (6)
+  - 3 (12): 2012........2004 (8) 2003..2001 (2) 1995..1993 (2)
   - 4 (1): 2003-04
 - **Hull City AFC** - 25 seasons in 4 levels
-  - 1 (5): 2016-17 2014-15..2013-14 (2) 2009-10..2008-09 (2)
-  - 2 (8): 2017-18 2015-16 2012-13...2010-11 (3) 2007-08...2005-06 (3)
-  - 3 (4): 2004-05 1995-96...1993-94 (3)
-  - 4 (8): 2003-04........1996-97 (8)
+  - 1 (5): 2016-17 2015..2013 (2) 2010..2008 (2)
+  - 2 (8): 2017-18 2015-16 2013...2010 (3) 2008...2005 (3)
+  - 3 (4): 2004-05 1996...1993 (3)
+  - 4 (8): 2004........1996 (8)
 - x Hyde United (???) - 2 seasons in 1 level
-  - 5 (2): 2013-14..2012-13 (2)
+  - 5 (2): 2014..2012 (2)
 - **Ipswich Town FC** - 25 seasons in 2 levels
-  - 1 (4): 2001-02..2000-01 (2) 1994-95..1993-94 (2)
-  - 2 (21): 2017-18................2002-03 (16) 1999-00.....1995-96 (5)
+  - 1 (4): 2002..2000 (2) 1995..1993 (2)
+  - 2 (21): 2018................2002 (16) 2000.....1995 (5)
 - x Kettering Town (???) - 4 seasons in 1 level
-  - 5 (4): 2011-12....2008-09 (4)
+  - 5 (4): 2012....2008 (4)
 - x Kidderminster (???) - 16 seasons in 2 levels
-  - 4 (5): 2004-05.....2000-01 (5)
-  - 5 (11): 2015-16...........2005-06 (11)
+  - 4 (5): 2005.....2000 (5)
+  - 5 (11): 2016...........2005 (11)
 - **Leeds United FC** - 25 seasons in 3 levels
-  - 1 (11): 2003-04...........1993-94 (11)
-  - 2 (11): 2017-18........2010-11 (8) 2006-07...2004-05 (3)
-  - 3 (3): 2009-10...2007-08 (3)
+  - 1 (11): 2004...........1993 (11)
+  - 2 (11): 2018........2010 (8) 2007...2004 (3)
+  - 3 (3): 2010...2007 (3)
 - **Leicester City FC** - 25 seasons in 3 levels
-  - 1 (12): 2017-18....2014-15 (4) 2003-04 2001-02......1996-97 (6) 1994-95
-  - 2 (12): 2013-14.....2009-10 (5) 2007-08....2004-05 (4) 2002-03 1995-96 1993-94
+  - 1 (12): 2018....2014 (4) 2003-04 2002......1996 (6) 1994-95
+  - 2 (12): 2014.....2009 (5) 2008....2004 (4) 2002-03 1995-96 1993-94
   - 3 (1): 2008-09
 - x Lewes (???) - 1 season in 1 level
   - 5 (1): 2008-09
 - x Leyton Orient (???) - 25 seasons in 3 levels
-  - 3 (11): 2014-15.........2006-07 (9) 1994-95..1993-94 (2)
-  - 4 (13): 2016-17..2015-16 (2) 2005-06...........1995-96 (11)
+  - 3 (11): 2015.........2006 (9) 1995..1993 (2)
+  - 4 (13): 2017..2015 (2) 2006...........1995 (11)
   - 5 (1): 2017-18
 - x Lincoln (???) - 25 seasons in 3 levels
   - 3 (1): 1998-99
-  - 4 (18): 2017-18 2010-11............1999-00 (12) 1997-98.....1993-94 (5)
-  - 5 (6): 2016-17......2011-12 (6)
+  - 4 (18): 2017-18 2011............1999 (12) 1998.....1993 (5)
+  - 5 (6): 2017......2011 (6)
 - **Liverpool FC** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - x Luton (???) - 25 seasons in 4 levels
-  - 2 (5): 2006-07..2005-06 (2) 1995-96...1993-94 (3)
-  - 3 (9): 2007-08 2004-05...2002-03 (3) 2000-01.....1996-97 (5)
-  - 4 (6): 2017-18....2014-15 (4) 2008-09 2001-02
-  - 5 (5): 2013-14.....2009-10 (5)
+  - 2 (5): 2007..2005 (2) 1996...1993 (3)
+  - 3 (9): 2007-08 2005...2002 (3) 2001.....1996 (5)
+  - 4 (6): 2018....2014 (4) 2008-09 2001-02
+  - 5 (5): 2014.....2009 (5)
 - x Macclesfield (???) - 21 seasons in 3 levels
   - 3 (1): 1998-99
-  - 4 (14): 2011-12.............1999-00 (13) 1997-98
-  - 5 (6): 2017-18......2012-13 (6)
+  - 4 (14): 2012.............1999 (13) 1997-98
+  - 5 (6): 2018......2012 (6)
 - x Maidenhead (???) - 1 season in 1 level
   - 5 (1): 2017-18
 - x Maidstone (???) - 2 seasons in 1 level
-  - 5 (2): 2017-18..2016-17 (2)
+  - 5 (2): 2018..2016 (2)
 - **Manchester City FC** - 25 seasons in 3 levels
-  - 1 (20): 2017-18................2002-03 (16) 2000-01 1995-96...1993-94 (3)
-  - 2 (4): 2001-02 1999-00 1997-98..1996-97 (2)
+  - 1 (20): 2018................2002 (16) 2000-01 1996...1993 (3)
+  - 2 (4): 2001-02 1999-00 1998..1996 (2)
   - 3 (1): 1998-99
 - **Manchester United FC** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - x Mansfield (???) - 25 seasons in 3 levels
   - 3 (1): 2002-03
-  - 4 (19): 2017-18.....2013-14 (5) 2007-08.....2003-04 (5) 2001-02.........1993-94 (9)
-  - 5 (5): 2012-13.....2008-09 (5)
+  - 4 (19): 2018.....2013 (5) 2008.....2003 (5) 2002.........1993 (9)
+  - 5 (5): 2013.....2008 (5)
 - **Middlesbrough FC** - 25 seasons in 2 levels
-  - 1 (14): 2016-17 2008-09...........1998-99 (11) 1996-97..1995-96 (2)
-  - 2 (11): 2017-18 2015-16.......2009-10 (7) 1997-98 1994-95..1993-94 (2)
+  - 1 (14): 2016-17 2009...........1998 (11) 1997..1995 (2)
+  - 2 (11): 2017-18 2016.......2009 (7) 1997-98 1995..1993 (2)
 - x Millwall (???) - 25 seasons in 2 levels
-  - 2 (14): 2017-18 2014-15.....2010-11 (5) 2005-06.....2001-02 (5) 1995-96...1993-94 (3)
-  - 3 (11): 2016-17..2015-16 (2) 2009-10....2006-07 (4) 2000-01.....1996-97 (5)
+  - 2 (14): 2017-18 2015.....2010 (5) 2006.....2001 (5) 1996...1993 (3)
+  - 3 (11): 2017..2015 (2) 2010....2006 (4) 2001.....1996 (5)
 - x Milton Keynes Dons (???) - 14 seasons in 3 levels
   - 2 (1): 2015-16
-  - 3 (11): 2017-18..2016-17 (2) 2014-15.......2008-09 (7) 2005-06..2004-05 (2)
-  - 4 (2): 2007-08..2006-07 (2)
+  - 3 (11): 2018..2016 (2) 2015.......2008 (7) 2006..2004 (2)
+  - 4 (2): 2008..2006 (2)
 - x Morecambe (???) - 13 seasons in 2 levels
-  - 4 (11): 2017-18...........2007-08 (11)
-  - 5 (2): 2006-07..2005-06 (2)
+  - 4 (11): 2018...........2007 (11)
+  - 5 (2): 2007..2005 (2)
 - **Newcastle United FC** - 25 seasons in 2 levels
-  - 1 (23): 2017-18 2015-16......2010-11 (6) 2008-09................1993-94 (16)
+  - 1 (23): 2017-18 2016......2010 (6) 2009................1993 (16)
   - 2 (2): 2016-17 2009-10
 - x Newport County (???) - 8 seasons in 2 levels
-  - 4 (5): 2017-18.....2013-14 (5)
-  - 5 (3): 2012-13...2010-11 (3)
+  - 4 (5): 2018.....2013 (5)
+  - 5 (3): 2013...2010 (3)
 - x North Ferriby (???) - 1 season in 1 level
   - 5 (1): 2016-17
 - x Northampton (???) - 25 seasons in 2 levels
-  - 3 (10): 2017-18..2016-17 (2) 2008-09...2006-07 (3) 2002-03...2000-01 (3) 1998-99..1997-98 (2)
-  - 4 (15): 2015-16.......2009-10 (7) 2005-06...2003-04 (3) 1999-00 1996-97....1993-94 (4)
+  - 3 (10): 2018..2016 (2) 2009...2006 (3) 2003...2000 (3) 1999..1997 (2)
+  - 4 (15): 2016.......2009 (7) 2006...2003 (3) 1999-00 1997....1993 (4)
 - x Northwich (???) - 3 seasons in 1 level
-  - 5 (3): 2008-09...2006-07 (3)
+  - 5 (3): 2009...2006 (3)
 - **Norwich City FC** - 25 seasons in 3 levels
-  - 1 (7): 2015-16 2013-14...2011-12 (3) 2004-05 1994-95..1993-94 (2)
-  - 2 (17): 2017-18..2016-17 (2) 2014-15 2010-11 2008-09....2005-06 (4) 2003-04.........1995-96 (9)
+  - 1 (7): 2015-16 2014...2011 (3) 2004-05 1995..1993 (2)
+  - 2 (17): 2018..2016 (2) 2014-15 2010-11 2009....2005 (4) 2004.........1995 (9)
   - 3 (1): 2009-10
 - **Nottingham Forest FC** - 25 seasons in 3 levels
-  - 1 (4): 1998-99 1996-97...1994-95 (3)
-  - 2 (18): 2017-18..........2008-09 (10) 2004-05......1999-00 (6) 1997-98 1993-94
-  - 3 (3): 2007-08...2005-06 (3)
+  - 1 (4): 1998-99 1997...1994 (3)
+  - 2 (18): 2018..........2008 (10) 2005......1999 (6) 1997-98 1993-94
+  - 3 (3): 2008...2005 (3)
 - x Notts County (???) - 25 seasons in 3 levels
-  - 2 (2): 1994-95..1993-94 (2)
-  - 3 (13): 2014-15.....2010-11 (5) 2003-04......1998-99 (6) 1996-97..1995-96 (2)
-  - 4 (10): 2017-18...2015-16 (3) 2009-10......2004-05 (6) 1997-98
+  - 2 (2): 1995..1993 (2)
+  - 3 (13): 2015.....2010 (5) 2004......1998 (6) 1997..1995 (2)
+  - 4 (10): 2018...2015 (3) 2010......2004 (6) 1997-98
 - x Nuneaton Town (???) - 3 seasons in 1 level
-  - 5 (3): 2014-15...2012-13 (3)
+  - 5 (3): 2015...2012 (3)
 - **Oldham Athletic AFC** - 25 seasons in 3 levels
   - 1 (1): 1993-94
-  - 2 (3): 1996-97...1994-95 (3)
-  - 3 (21): 2017-18.....................1997-98 (21)
+  - 2 (3): 1997...1994 (3)
+  - 3 (21): 2018.....................1997 (21)
 - x Oxford (???) - 25 seasons in 4 levels
-  - 2 (4): 1998-99...1996-97 (3) 1993-94
-  - 3 (6): 2017-18..2016-17 (2) 2000-01..1999-00 (2) 1995-96..1994-95 (2)
-  - 4 (11): 2015-16......2010-11 (6) 2005-06.....2001-02 (5)
-  - 5 (4): 2009-10....2006-07 (4)
+  - 2 (4): 1999...1996 (3) 1993-94
+  - 3 (6): 2018..2016 (2) 2001..1999 (2) 1996..1994 (2)
+  - 4 (11): 2016......2010 (6) 2006.....2001 (5)
+  - 5 (4): 2010....2006 (4)
 - x Peterboro (???) - 25 seasons in 3 levels
-  - 2 (4): 2012-13..2011-12 (2) 2009-10 1993-94
-  - 3 (15): 2017-18.....2013-14 (5) 2010-11 2008-09 2004-05.....2000-01 (5) 1996-97...1994-95 (3)
-  - 4 (6): 2007-08...2005-06 (3) 1999-00...1997-98 (3)
+  - 2 (4): 2013..2011 (2) 2009-10 1993-94
+  - 3 (15): 2018.....2013 (5) 2010-11 2008-09 2005.....2000 (5) 1997...1994 (3)
+  - 4 (6): 2008...2005 (3) 2000...1997 (3)
 - x Plymouth (???) - 25 seasons in 3 levels
-  - 2 (6): 2009-10......2004-05 (6)
-  - 3 (8): 2017-18 2010-11 2003-04..2002-03 (2) 1997-98..1996-97 (2) 1994-95..1993-94 (2)
-  - 4 (11): 2016-17......2011-12 (6) 2001-02....1998-99 (4) 1995-96
+  - 2 (6): 2010......2004 (6)
+  - 3 (8): 2017-18 2010-11 2004..2002 (2) 1998..1996 (2) 1995..1993 (2)
+  - 4 (11): 2017......2011 (6) 2002....1998 (4) 1995-96
 - x Port Vale (???) - 25 seasons in 3 levels
-  - 2 (6): 1999-00......1994-95 (6)
-  - 3 (13): 2016-17....2013-14 (4) 2007-08........2000-01 (8) 1993-94
-  - 4 (6): 2017-18 2012-13.....2008-09 (5)
+  - 2 (6): 2000......1994 (6)
+  - 3 (13): 2017....2013 (4) 2008........2000 (8) 1993-94
+  - 4 (6): 2017-18 2013.....2008 (5)
 - **Portsmouth FC** - 25 seasons in 4 levels
-  - 1 (7): 2009-10.......2003-04 (7)
-  - 2 (12): 2011-12..2010-11 (2) 2002-03..........1993-94 (10)
+  - 1 (7): 2010.......2003 (7)
+  - 2 (12): 2012..2010 (2) 2003..........1993 (10)
   - 3 (2): 2017-18 2012-13
-  - 4 (4): 2016-17....2013-14 (4)
+  - 4 (4): 2017....2013 (4)
 - x Preston (???) - 25 seasons in 3 levels
-  - 2 (14): 2017-18...2015-16 (3) 2010-11...........2000-01 (11)
-  - 3 (8): 2014-15....2011-12 (4) 1999-00....1996-97 (4)
-  - 4 (3): 1995-96...1993-94 (3)
+  - 2 (14): 2018...2015 (3) 2011...........2000 (11)
+  - 3 (8): 2015....2011 (4) 2000....1996 (4)
+  - 4 (3): 1996...1993 (3)
 - **Queens Park Rangers FC** - 25 seasons in 3 levels
-  - 1 (6): 2014-15 2012-13..2011-12 (2) 1995-96...1993-94 (3)
-  - 2 (16): 2017-18...2015-16 (3) 2013-14 2010-11.......2004-05 (7) 2000-01.....1996-97 (5)
-  - 3 (3): 2003-04...2001-02 (3)
+  - 1 (6): 2014-15 2013..2011 (2) 1996...1993 (3)
+  - 2 (16): 2018...2015 (3) 2013-14 2011.......2004 (7) 2001.....1996 (5)
+  - 3 (3): 2004...2001 (3)
 - **Reading FC** - 25 seasons in 3 levels
-  - 1 (3): 2012-13 2007-08..2006-07 (2)
-  - 2 (17): 2017-18.....2013-14 (5) 2011-12....2008-09 (4) 2005-06....2002-03 (4) 1997-98....1994-95 (4)
-  - 3 (5): 2001-02....1998-99 (4) 1993-94
+  - 1 (3): 2012-13 2008..2006 (2)
+  - 2 (17): 2018.....2013 (5) 2012....2008 (4) 2006....2002 (4) 1998....1994 (4)
+  - 3 (5): 2002....1998 (4) 1993-94
 - x Rochdale (???) - 25 seasons in 2 levels
-  - 3 (6): 2017-18....2014-15 (4) 2011-12..2010-11 (2)
-  - 4 (19): 2013-14..2012-13 (2) 2009-10.................1993-94 (17)
+  - 3 (6): 2018....2014 (4) 2012..2010 (2)
+  - 4 (19): 2014..2012 (2) 2010.................1993 (17)
 - x Rotherham (???) - 25 seasons in 3 levels
-  - 2 (7): 2016-17...2014-15 (3) 2004-05....2001-02 (4)
-  - 3 (9): 2017-18 2013-14 2006-07..2005-06 (2) 2000-01 1996-97....1993-94 (4)
-  - 4 (9): 2012-13......2007-08 (6) 1999-00...1997-98 (3)
+  - 2 (7): 2017...2014 (3) 2005....2001 (4)
+  - 3 (9): 2017-18 2013-14 2007..2005 (2) 2000-01 1997....1993 (4)
+  - 4 (9): 2013......2007 (6) 2000...1997 (3)
 - x Rushden & D (???) - 10 seasons in 3 levels
   - 3 (1): 2003-04
-  - 4 (4): 2005-06..2004-05 (2) 2002-03..2001-02 (2)
-  - 5 (5): 2010-11.....2006-07 (5)
+  - 4 (4): 2006..2004 (2) 2003..2001 (2)
+  - 5 (5): 2011.....2006 (5)
 - x Salisbury (???) - 4 seasons in 1 level
-  - 5 (4): 2013-14 2009-10...2007-08 (3)
+  - 5 (4): 2013-14 2010...2007 (3)
 - x Scarborough (???) - 7 seasons in 2 levels
-  - 4 (6): 1998-99......1993-94 (6)
+  - 4 (6): 1999......1993 (6)
   - 5 (1): 2005-06
 - x Scunthorpe (???) - 25 seasons in 3 levels
-  - 2 (3): 2010-11..2009-10 (2) 2007-08
-  - 3 (10): 2017-18....2014-15 (4) 2012-13..2011-12 (2) 2008-09 2006-07..2005-06 (2) 1999-00
-  - 4 (12): 2013-14 2004-05.....2000-01 (5) 1998-99......1993-94 (6)
+  - 2 (3): 2011..2009 (2) 2007-08
+  - 3 (10): 2018....2014 (4) 2013..2011 (2) 2008-09 2007..2005 (2) 1999-00
+  - 4 (12): 2013-14 2005.....2000 (5) 1999......1993 (6)
 - **Sheffield United FC** - 25 seasons in 3 levels
   - 1 (2): 2006-07 1993-94
-  - 2 (17): 2017-18 2010-11....2007-08 (4) 2005-06............1994-95 (12)
-  - 3 (6): 2016-17......2011-12 (6)
+  - 2 (17): 2017-18 2011....2007 (4) 2006............1994 (12)
+  - 3 (6): 2017......2011 (6)
 - **Sheffield Wednesday FC** - 25 seasons in 3 levels
-  - 1 (7): 1999-00.......1993-94 (7)
-  - 2 (14): 2017-18......2012-13 (6) 2009-10.....2005-06 (5) 2002-03...2000-01 (3)
-  - 3 (4): 2011-12..2010-11 (2) 2004-05..2003-04 (2)
+  - 1 (7): 2000.......1993 (7)
+  - 2 (14): 2018......2012 (6) 2010.....2005 (5) 2003...2000 (3)
+  - 3 (4): 2012..2010 (2) 2005..2003 (2)
 - x Shrewsbury (???) - 24 seasons in 2 levels
-  - 3 (8): 2017-18...2015-16 (3) 2013-14..2012-13 (2) 1996-97...1994-95 (3)
-  - 4 (16): 2014-15 2011-12........2004-05 (8) 2002-03......1997-98 (6) 1993-94
+  - 3 (8): 2018...2015 (3) 2014..2012 (2) 1997...1994 (3)
+  - 4 (16): 2014-15 2012........2004 (8) 2003......1997 (6) 1993-94
 - x Solihull (???) - 2 seasons in 1 level
-  - 5 (2): 2017-18..2016-17 (2)
+  - 5 (2): 2018..2016 (2)
 - **Southampton FC** - 25 seasons in 3 levels
-  - 1 (18): 2017-18......2012-13 (6) 2004-05............1993-94 (12)
-  - 2 (5): 2011-12 2008-09....2005-06 (4)
-  - 3 (2): 2010-11..2009-10 (2)
+  - 1 (18): 2018......2012 (6) 2005............1993 (12)
+  - 2 (5): 2011-12 2009....2005 (4)
+  - 3 (2): 2011..2009 (2)
 - x Southend (???) - 25 seasons in 3 levels
-  - 2 (5): 2006-07 1996-97....1993-94 (4)
-  - 3 (8): 2017-18...2015-16 (3) 2009-10...2007-08 (3) 2005-06 1997-98
-  - 4 (12): 2014-15.....2010-11 (5) 2004-05.......1998-99 (7)
+  - 2 (5): 2006-07 1997....1993 (4)
+  - 3 (8): 2018...2015 (3) 2010...2007 (3) 2005-06 1997-98
+  - 4 (12): 2015.....2010 (5) 2005.......1998 (7)
 - x Southport (???) - 9 seasons in 1 level
-  - 5 (9): 2016-17.......2010-11 (7) 2006-07..2005-06 (2)
+  - 5 (9): 2017.......2010 (7) 2007..2005 (2)
 - x St. Albans (???) - 1 season in 1 level
   - 5 (1): 2006-07
 - x Stafford Rangers (???) - 2 seasons in 1 level
-  - 5 (2): 2007-08..2006-07 (2)
+  - 5 (2): 2008..2006 (2)
 - x Stevenage (???) - 13 seasons in 3 levels
-  - 3 (3): 2013-14...2011-12 (3)
-  - 4 (5): 2017-18....2014-15 (4) 2010-11
-  - 5 (5): 2009-10.....2005-06 (5)
+  - 3 (3): 2014...2011 (3)
+  - 4 (5): 2018....2014 (4) 2010-11
+  - 5 (5): 2010.....2005 (5)
 - x Stockport (???) - 20 seasons in 4 levels
-  - 2 (5): 2001-02.....1997-98 (5)
-  - 3 (9): 2009-10..2008-09 (2) 2004-05...2002-03 (3) 1996-97....1993-94 (4)
-  - 4 (4): 2010-11 2007-08...2005-06 (3)
-  - 5 (2): 2012-13..2011-12 (2)
+  - 2 (5): 2002.....1997 (5)
+  - 3 (9): 2010..2008 (2) 2005...2002 (3) 1997....1993 (4)
+  - 4 (4): 2010-11 2008...2005 (3)
+  - 5 (2): 2013..2011 (2)
 - **Stoke City FC** - 25 seasons in 3 levels
-  - 1 (10): 2017-18..........2008-09 (10)
-  - 2 (11): 2007-08......2002-03 (6) 1997-98.....1993-94 (5)
-  - 3 (4): 2001-02....1998-99 (4)
+  - 1 (10): 2018..........2008 (10)
+  - 2 (11): 2008......2002 (6) 1998.....1993 (5)
+  - 3 (4): 2002....1998 (4)
 - **Sunderland AFC** - 25 seasons in 2 levels
-  - 1 (16): 2016-17..........2007-08 (10) 2005-06 2002-03....1999-00 (4) 1996-97
-  - 2 (9): 2017-18 2006-07 2004-05..2003-04 (2) 1998-99..1997-98 (2) 1995-96...1993-94 (3)
+  - 1 (16): 2017..........2007 (10) 2005-06 2003....1999 (4) 1996-97
+  - 2 (9): 2017-18 2006-07 2005..2003 (2) 1999..1997 (2) 1996...1993 (3)
 - x Sutton (???) - 2 seasons in 1 level
-  - 5 (2): 2017-18..2016-17 (2)
+  - 5 (2): 2018..2016 (2)
 - **Swansea City AFC** - 25 seasons in 4 levels
-  - 1 (7): 2017-18.......2011-12 (7)
-  - 2 (3): 2010-11...2008-09 (3)
-  - 3 (7): 2007-08...2005-06 (3) 2000-01 1995-96...1993-94 (3)
-  - 4 (8): 2004-05....2001-02 (4) 1999-00....1996-97 (4)
+  - 1 (7): 2018.......2011 (7)
+  - 2 (3): 2011...2008 (3)
+  - 3 (7): 2008...2005 (3) 2000-01 1996...1993 (3)
+  - 4 (8): 2005....2001 (4) 2000....1996 (4)
 - **Swindon Town FC** - 25 seasons in 4 levels
   - 1 (1): 1993-94
-  - 2 (5): 1999-00....1996-97 (4) 1994-95
-  - 3 (16): 2016-17.....2012-13 (5) 2010-11....2007-08 (4) 2005-06......2000-01 (6) 1995-96
+  - 2 (5): 2000....1996 (4) 1994-95
+  - 3 (16): 2017.....2012 (5) 2011....2007 (4) 2006......2000 (6) 1995-96
   - 4 (3): 2017-18 2011-12 2006-07
 - x Tamworth (???) - 7 seasons in 1 level
-  - 5 (7): 2013-14.....2009-10 (5) 2006-07..2005-06 (2)
+  - 5 (7): 2014.....2009 (5) 2007..2005 (2)
 - x Telford United (???) - 2 seasons in 1 level
   - 5 (2): 2014-15 2012-13
 - x Torquay (???) - 25 seasons in 3 levels
   - 3 (1): 2004-05
-  - 4 (18): 2013-14.....2009-10 (5) 2006-07..2005-06 (2) 2003-04...........1993-94 (11)
-  - 5 (6): 2017-18....2014-15 (4) 2008-09..2007-08 (2)
+  - 4 (18): 2014.....2009 (5) 2007..2005 (2) 2004...........1993 (11)
+  - 5 (6): 2018....2014 (4) 2009..2007 (2)
 - **Tottenham Hotspur FC** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - x Tranmere (???) - 25 seasons in 4 levels
-  - 2 (8): 2000-01........1993-94 (8)
-  - 3 (13): 2013-14.............2001-02 (13)
+  - 2 (8): 2001........1993 (8)
+  - 3 (13): 2014.............2001 (13)
   - 4 (1): 2014-15
-  - 5 (3): 2017-18...2015-16 (3)
+  - 5 (3): 2018...2015 (3)
 - x Walsall (???) - 25 seasons in 3 levels
-  - 2 (4): 2003-04...2001-02 (3) 1999-00
-  - 3 (18): 2017-18...........2007-08 (11) 2005-06..2004-05 (2) 2000-01 1998-99....1995-96 (4)
-  - 4 (3): 2006-07 1994-95..1993-94 (2)
+  - 2 (4): 2004...2001 (3) 1999-00
+  - 3 (18): 2018...........2007 (11) 2006..2004 (2) 2000-01 1999....1995 (4)
+  - 4 (3): 2006-07 1995..1993 (2)
 - **Watford FC** - 25 seasons in 3 levels
-  - 1 (5): 2017-18...2015-16 (3) 2006-07 1999-00
-  - 2 (18): 2014-15........2007-08 (8) 2005-06......2000-01 (6) 1998-99 1995-96...1993-94 (3)
-  - 3 (2): 1997-98..1996-97 (2)
+  - 1 (5): 2018...2015 (3) 2006-07 1999-00
+  - 2 (18): 2015........2007 (8) 2006......2000 (6) 1998-99 1996...1993 (3)
+  - 3 (2): 1998..1996 (2)
 - x Welling United (???) - 3 seasons in 1 level
-  - 5 (3): 2015-16...2013-14 (3)
+  - 5 (3): 2016...2013 (3)
 - **West Bromwich Albion FC** - 25 seasons in 2 levels
-  - 1 (12): 2017-18........2010-11 (8) 2008-09 2005-06..2004-05 (2) 2002-03
-  - 2 (13): 2009-10 2007-08..2006-07 (2) 2003-04 2001-02.........1993-94 (9)
+  - 1 (12): 2018........2010 (8) 2008-09 2006..2004 (2) 2002-03
+  - 2 (13): 2009-10 2008..2006 (2) 2003-04 2002.........1993 (9)
 - **West Ham United FC** - 25 seasons in 2 levels
-  - 1 (22): 2017-18......2012-13 (6) 2010-11......2005-06 (6) 2002-03..........1993-94 (10)
-  - 2 (3): 2011-12 2004-05..2003-04 (2)
+  - 1 (22): 2018......2012 (6) 2011......2005 (6) 2003..........1993 (10)
+  - 2 (3): 2011-12 2005..2003 (2)
 - x Weymouth (???) - 3 seasons in 1 level
-  - 5 (3): 2008-09...2006-07 (3)
+  - 5 (3): 2009...2006 (3)
 - **Wigan Athletic FC** - 25 seasons in 4 levels
-  - 1 (8): 2012-13........2005-06 (8)
-  - 2 (5): 2016-17 2014-15..2013-14 (2) 2004-05..2003-04 (2)
-  - 3 (8): 2017-18 2015-16 2002-03......1997-98 (6)
-  - 4 (4): 1996-97....1993-94 (4)
+  - 1 (8): 2013........2005 (8)
+  - 2 (5): 2016-17 2015..2013 (2) 2005..2003 (2)
+  - 3 (8): 2017-18 2015-16 2003......1997 (6)
+  - 4 (4): 1997....1993 (4)
 - **Wimbledon FC** - 11 seasons in 2 levels
-  - 1 (7): 1999-00.......1993-94 (7)
-  - 2 (4): 2003-04....2000-01 (4)
+  - 1 (7): 2000.......1993 (7)
+  - 2 (4): 2004....2000 (4)
 - x Woking (???) - 10 seasons in 1 level
-  - 5 (10): 2017-18......2012-13 (6) 2008-09....2005-06 (4)
+  - 5 (10): 2018......2012 (6) 2009....2005 (4)
 - **Wolverhampton Wanderers FC** - 25 seasons in 3 levels
-  - 1 (4): 2011-12...2009-10 (3) 2003-04
-  - 2 (20): 2017-18....2014-15 (4) 2012-13 2008-09.....2004-05 (5) 2002-03..........1993-94 (10)
+  - 1 (4): 2012...2009 (3) 2003-04
+  - 2 (20): 2018....2014 (4) 2012-13 2009.....2004 (5) 2003..........1993 (10)
   - 3 (1): 2013-14
 - x Wrexham (???) - 25 seasons in 3 levels
-  - 3 (11): 2004-05..2003-04 (2) 2001-02.........1993-94 (9)
-  - 4 (4): 2007-08...2005-06 (3) 2002-03
-  - 5 (10): 2017-18..........2008-09 (10)
+  - 3 (11): 2005..2003 (2) 2002.........1993 (9)
+  - 4 (4): 2008...2005 (3) 2002-03
+  - 5 (10): 2018..........2008 (10)
 - x Wycombe (???) - 25 seasons in 2 levels
-  - 3 (12): 2011-12 2009-10 2003-04..........1994-95 (10)
-  - 4 (13): 2017-18......2012-13 (6) 2010-11 2008-09.....2004-05 (5) 1993-94
+  - 3 (12): 2011-12 2009-10 2004..........1994 (10)
+  - 4 (13): 2018......2012 (6) 2010-11 2009.....2004 (5) 1993-94
 - x Yeovil (???) - 15 seasons in 3 levels
   - 2 (1): 2013-14
-  - 3 (9): 2014-15 2012-13........2005-06 (8)
-  - 4 (5): 2017-18...2015-16 (3) 2004-05..2003-04 (2)
+  - 3 (9): 2014-15 2013........2005 (8)
+  - 4 (5): 2018...2015 (3) 2005..2003 (2)
 - x York (???) - 23 seasons in 3 levels
-  - 3 (6): 1998-99......1993-94 (6)
-  - 4 (9): 2015-16....2012-13 (4) 2003-04.....1999-00 (5)
-  - 5 (8): 2016-17 2011-12.......2005-06 (7)
-
-
-
+  - 3 (6): 1999......1993 (6)
+  - 4 (9): 2016....2012 (4) 2004.....1999 (5)
+  - 5 (8): 2016-17 2012.......2005 (7)
