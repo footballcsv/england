@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Blackpool,Birmingham City,3-2,-
--,-,Bolton Wanderers,Birmingham City,3-1,-
--,-,Brentford,Birmingham City,0-1,-
--,-,Bristol City,Birmingham City,1-0,-
--,-,Bristol Rovers,Birmingham City,0-0,-
--,-,Bury,Birmingham City,0-0,-
--,-,Cardiff City,Birmingham City,0-1,-
--,-,Chester,Birmingham City,4-0,-
--,-,Crewe Alexandra,Birmingham City,0-2,-
--,-,Fulham,Birmingham City,1-2,-
--,-,Huddersfield Town,Birmingham City,1-2,-
--,-,Leyton Orient,Birmingham City,1-2,-
--,-,Mansfield Town,Birmingham City,5-2,-
--,-,Northampton Town,Birmingham City,2-2,-
--,-,Notts County,Birmingham City,3-2,-
--,-,Preston North End,Birmingham City,2-2,-
--,-,Reading,Birmingham City,0-2,-
--,-,Rotherham United,Birmingham City,5-1,-
--,-,Shrewsbury Town,Birmingham City,2-0,-
--,-,Swansea City,Birmingham City,1-1,-
--,-,Tranmere Rovers,Birmingham City,5-1,-
--,-,Walsall,Birmingham City,0-1,-
--,-,Wigan Athletic,Birmingham City,1-0,-
--,-,Birmingham City,Blackpool,3-1,-
--,-,Bolton Wanderers,Blackpool,2-0,-
--,-,Brentford,Blackpool,5-0,-
--,-,Bristol City,Blackpool,2-0,-
--,-,Bristol Rovers,Blackpool,1-1,-
--,-,Bury,Blackpool,2-0,-
--,-,Cardiff City,Blackpool,2-2,-
--,-,Chester,Blackpool,2-0,-
--,-,Crewe Alexandra,Blackpool,2-0,-
--,-,Fulham,Blackpool,0-0,-
--,-,Huddersfield Town,Blackpool,2-2,-
--,-,Leyton Orient,Blackpool,2-0,-
--,-,Mansfield Town,Blackpool,0-3,-
--,-,Northampton Town,Blackpool,4-2,-
--,-,Notts County,Blackpool,0-1,-
--,-,Preston North End,Blackpool,2-1,-
--,-,Reading,Blackpool,1-1,-
--,-,Rotherham United,Blackpool,1-1,-
--,-,Shrewsbury Town,Blackpool,1-1,-
--,-,Swansea City,Blackpool,0-0,-
--,-,Tranmere Rovers,Blackpool,4-2,-
--,-,Walsall,Blackpool,1-1,-
--,-,Wigan Athletic,Blackpool,1-1,-
--,-,Birmingham City,Bolton Wanderers,1-0,-
--,-,Blackpool,Bolton Wanderers,2-1,-
--,-,Brentford,Bolton Wanderers,1-2,-
--,-,Bristol City,Bolton Wanderers,1-1,-
--,-,Bristol Rovers,Bolton Wanderers,1-1,-
--,-,Bury,Bolton Wanderers,2-0,-
--,-,Cardiff City,Bolton Wanderers,0-2,-
--,-,Chester,Bolton Wanderers,2-0,-
--,-,Crewe Alexandra,Bolton Wanderers,2-2,-
--,-,Fulham,Bolton Wanderers,2-2,-
--,-,Huddersfield Town,Bolton Wanderers,1-1,-
--,-,Leyton Orient,Bolton Wanderers,0-0,-
--,-,Mansfield Town,Bolton Wanderers,0-1,-
--,-,Northampton Town,Bolton Wanderers,0-2,-
--,-,Notts County,Bolton Wanderers,2-1,-
--,-,Preston North End,Bolton Wanderers,1-4,-
--,-,Reading,Bolton Wanderers,2-0,-
--,-,Rotherham United,Bolton Wanderers,1-0,-
--,-,Shrewsbury Town,Bolton Wanderers,3-3,-
--,-,Swansea City,Bolton Wanderers,0-0,-
--,-,Tranmere Rovers,Bolton Wanderers,1-3,-
--,-,Walsall,Bolton Wanderers,2-1,-
--,-,Wigan Athletic,Bolton Wanderers,2-0,-
--,-,Birmingham City,Brentford,0-1,-
--,-,Blackpool,Brentford,4-0,-
--,-,Bolton Wanderers,Brentford,0-1,-
--,-,Bristol City,Brentford,2-0,-
--,-,Bristol Rovers,Brentford,1-0,-
--,-,Bury,Brentford,0-2,-
--,-,Cardiff City,Brentford,2-2,-
--,-,Chester,Brentford,1-1,-
--,-,Crewe Alexandra,Brentford,2-3,-
--,-,Fulham,Brentford,1-0,-
--,-,Huddersfield Town,Brentford,1-0,-
--,-,Leyton Orient,Brentford,0-1,-
--,-,Mansfield Town,Brentford,2-3,-
--,-,Northampton Town,Brentford,0-2,-
--,-,Notts County,Brentford,3-1,-
--,-,Preston North End,Brentford,4-2,-
--,-,Reading,Brentford,1-0,-
--,-,Rotherham United,Brentford,2-1,-
--,-,Shrewsbury Town,Brentford,1-0,-
--,-,Swansea City,Brentford,2-1,-
--,-,Tranmere Rovers,Brentford,2-2,-
--,-,Walsall,Brentford,2-1,-
--,-,Wigan Athletic,Brentford,2-1,-
--,-,Birmingham City,Bristol City,0-4,-
--,-,Blackpool,Bristol City,1-3,-
--,-,Bolton Wanderers,Bristol City,1-0,-
--,-,Brentford,Bristol City,0-2,-
--,-,Bristol Rovers,Bristol City,3-0,-
--,-,Bury,Bristol City,1-1,-
--,-,Cardiff City,Bristol City,0-3,-
--,-,Chester,Bristol City,0-3,-
--,-,Crewe Alexandra,Bristol City,0-1,-
--,-,Fulham,Bristol City,0-1,-
--,-,Huddersfield Town,Bristol City,2-1,-
--,-,Leyton Orient,Bristol City,1-1,-
--,-,Mansfield Town,Bristol City,1-0,-
--,-,Northampton Town,Bristol City,2-0,-
--,-,Notts County,Bristol City,0-0,-
--,-,Preston North End,Bristol City,2-2,-
--,-,Reading,Bristol City,1-1,-
--,-,Rotherham United,Bristol City,1-2,-
--,-,Shrewsbury Town,Bristol City,0-1,-
--,-,Swansea City,Bristol City,0-5,-
--,-,Tranmere Rovers,Bristol City,6-0,-
--,-,Walsall,Bristol City,0-2,-
--,-,Wigan Athletic,Bristol City,2-3,-
--,-,Birmingham City,Bristol Rovers,2-2,-
--,-,Blackpool,Bristol Rovers,0-3,-
--,-,Bolton Wanderers,Bristol Rovers,1-0,-
--,-,Brentford,Bristol Rovers,2-1,-
--,-,Bristol City,Bristol Rovers,0-0,-
--,-,Bury,Bristol Rovers,0-0,-
--,-,Cardiff City,Bristol Rovers,1-1,-
--,-,Chester,Bristol Rovers,0-0,-
--,-,Crewe Alexandra,Bristol Rovers,1-0,-
--,-,Fulham,Bristol Rovers,1-2,-
--,-,Huddersfield Town,Bristol Rovers,1-1,-
--,-,Leyton Orient,Bristol Rovers,0-1,-
--,-,Mansfield Town,Bristol Rovers,0-1,-
--,-,Northampton Town,Bristol Rovers,1-2,-
--,-,Notts County,Bristol Rovers,3-1,-
--,-,Preston North End,Bristol Rovers,0-1,-
--,-,Reading,Bristol Rovers,0-1,-
--,-,Rotherham United,Bristol Rovers,3-2,-
--,-,Shrewsbury Town,Bristol Rovers,2-3,-
--,-,Swansea City,Bristol Rovers,0-0,-
--,-,Tranmere Rovers,Bristol Rovers,1-2,-
--,-,Walsall,Bristol Rovers,1-2,-
--,-,Wigan Athletic,Bristol Rovers,1-2,-
--,-,Birmingham City,Bury,0-0,-
--,-,Blackpool,Bury,0-1,-
--,-,Bolton Wanderers,Bury,3-1,-
--,-,Brentford,Bury,0-1,-
--,-,Bristol City,Bury,1-0,-
--,-,Bristol Rovers,Bury,2-1,-
--,-,Cardiff City,Bury,3-1,-
--,-,Chester,Bury,1-4,-
--,-,Crewe Alexandra,Bury,2-1,-
--,-,Fulham,Bury,2-2,-
--,-,Huddersfield Town,Bury,2-1,-
--,-,Leyton Orient,Bury,2-3,-
--,-,Mansfield Town,Bury,1-0,-
--,-,Northampton Town,Bury,0-1,-
--,-,Notts County,Bury,0-4,-
--,-,Preston North End,Bury,2-3,-
--,-,Reading,Bury,1-0,-
--,-,Rotherham United,Bury,1-3,-
--,-,Shrewsbury Town,Bury,3-1,-
--,-,Swansea City,Bury,0-1,-
--,-,Tranmere Rovers,Bury,2-4,-
--,-,Walsall,Bury,2-2,-
--,-,Wigan Athletic,Bury,0-0,-
--,-,Birmingham City,Cardiff City,1-1,-
--,-,Blackpool,Cardiff City,1-0,-
--,-,Bolton Wanderers,Cardiff City,3-1,-
--,-,Brentford,Cardiff City,0-1,-
--,-,Bristol City,Cardiff City,1-0,-
--,-,Bristol Rovers,Cardiff City,2-1,-
--,-,Bury,Cardiff City,2-0,-
--,-,Chester,Cardiff City,1-0,-
--,-,Crewe Alexandra,Cardiff City,1-1,-
--,-,Fulham,Cardiff City,2-5,-
--,-,Huddersfield Town,Cardiff City,2-3,-
--,-,Leyton Orient,Cardiff City,3-1,-
--,-,Mansfield Town,Cardiff City,1-0,-
--,-,Northampton Town,Cardiff City,1-1,-
--,-,Notts County,Cardiff City,2-1,-
--,-,Preston North End,Cardiff City,4-0,-
--,-,Reading,Cardiff City,0-1,-
--,-,Rotherham United,Cardiff City,4-0,-
--,-,Shrewsbury Town,Cardiff City,0-0,-
--,-,Swansea City,Cardiff City,0-1,-
--,-,Tranmere Rovers,Cardiff City,3-0,-
--,-,Walsall,Cardiff City,0-2,-
--,-,Wigan Athletic,Cardiff City,1-1,-
--,-,Birmingham City,Chester,0-0,-
--,-,Blackpool,Chester,1-3,-
--,-,Bolton Wanderers,Chester,1-0,-
--,-,Brentford,Chester,1-1,-
--,-,Bristol City,Chester,1-0,-
--,-,Bristol Rovers,Chester,2-1,-
--,-,Bury,Chester,1-0,-
--,-,Cardiff City,Chester,1-1,-
--,-,Crewe Alexandra,Chester,0-0,-
--,-,Fulham,Chester,1-0,-
--,-,Huddersfield Town,Chester,4-1,-
--,-,Leyton Orient,Chester,0-3,-
--,-,Mansfield Town,Chester,1-0,-
--,-,Northampton Town,Chester,1-0,-
--,-,Notts County,Chester,0-0,-
--,-,Preston North End,Chester,5-0,-
--,-,Reading,Chester,1-1,-
--,-,Rotherham United,Chester,5-0,-
--,-,Shrewsbury Town,Chester,2-0,-
--,-,Swansea City,Chester,2-1,-
--,-,Tranmere Rovers,Chester,0-0,-
--,-,Walsall,Chester,1-1,-
--,-,Wigan Athletic,Chester,1-0,-
--,-,Birmingham City,Crewe Alexandra,3-0,-
--,-,Blackpool,Crewe Alexandra,1-3,-
--,-,Bolton Wanderers,Crewe Alexandra,0-0,-
--,-,Brentford,Crewe Alexandra,0-2,-
--,-,Bristol City,Crewe Alexandra,4-1,-
--,-,Bristol Rovers,Crewe Alexandra,1-1,-
--,-,Bury,Crewe Alexandra,0-3,-
--,-,Cardiff City,Crewe Alexandra,0-0,-
--,-,Chester,Crewe Alexandra,2-1,-
--,-,Fulham,Crewe Alexandra,1-1,-
--,-,Huddersfield Town,Crewe Alexandra,0-1,-
--,-,Leyton Orient,Crewe Alexandra,2-1,-
--,-,Mansfield Town,Crewe Alexandra,2-1,-
--,-,Northampton Town,Crewe Alexandra,3-1,-
--,-,Notts County,Crewe Alexandra,2-0,-
--,-,Preston North End,Crewe Alexandra,0-0,-
--,-,Reading,Crewe Alexandra,1-1,-
--,-,Rotherham United,Crewe Alexandra,1-3,-
--,-,Shrewsbury Town,Crewe Alexandra,0-0,-
--,-,Swansea City,Crewe Alexandra,3-2,-
--,-,Tranmere Rovers,Crewe Alexandra,1-1,-
--,-,Walsall,Crewe Alexandra,1-1,-
--,-,Wigan Athletic,Crewe Alexandra,1-0,-
--,-,Birmingham City,Fulham,1-1,-
--,-,Blackpool,Fulham,0-1,-
--,-,Bolton Wanderers,Fulham,0-0,-
--,-,Brentford,Fulham,2-0,-
--,-,Bristol City,Fulham,5-1,-
--,-,Bristol Rovers,Fulham,2-0,-
--,-,Bury,Fulham,0-0,-
--,-,Cardiff City,Fulham,3-3,-
--,-,Chester,Fulham,0-2,-
--,-,Crewe Alexandra,Fulham,2-3,-
--,-,Huddersfield Town,Fulham,0-1,-
--,-,Leyton Orient,Fulham,1-1,-
--,-,Mansfield Town,Fulham,3-0,-
--,-,Northampton Town,Fulham,2-2,-
--,-,Notts County,Fulham,2-0,-
--,-,Preston North End,Fulham,1-0,-
--,-,Reading,Fulham,3-2,-
--,-,Rotherham United,Fulham,2-1,-
--,-,Shrewsbury Town,Fulham,2-0,-
--,-,Swansea City,Fulham,4-2,-
--,-,Tranmere Rovers,Fulham,2-1,-
--,-,Walsall,Fulham,0-0,-
--,-,Wigan Athletic,Fulham,2-1,-
--,-,Birmingham City,Huddersfield Town,0-1,-
--,-,Blackpool,Huddersfield Town,2-2,-
--,-,Bolton Wanderers,Huddersfield Town,2-2,-
--,-,Brentford,Huddersfield Town,2-1,-
--,-,Bristol City,Huddersfield Town,1-1,-
--,-,Bristol Rovers,Huddersfield Town,2-2,-
--,-,Bury,Huddersfield Town,6-0,-
--,-,Cardiff City,Huddersfield Town,1-5,-
--,-,Chester,Huddersfield Town,2-1,-
--,-,Crewe Alexandra,Huddersfield Town,3-0,-
--,-,Fulham,Huddersfield Town,0-0,-
--,-,Leyton Orient,Huddersfield Town,1-0,-
--,-,Mansfield Town,Huddersfield Town,1-2,-
--,-,Northampton Town,Huddersfield Town,1-0,-
--,-,Notts County,Huddersfield Town,1-0,-
--,-,Preston North End,Huddersfield Town,3-3,-
--,-,Reading,Huddersfield Town,0-0,-
--,-,Rotherham United,Huddersfield Town,0-0,-
--,-,Shrewsbury Town,Huddersfield Town,3-3,-
--,-,Swansea City,Huddersfield Town,1-3,-
--,-,Tranmere Rovers,Huddersfield Town,4-0,-
--,-,Walsall,Huddersfield Town,2-3,-
--,-,Wigan Athletic,Huddersfield Town,1-2,-
--,-,Birmingham City,Leyton Orient,0-0,-
--,-,Blackpool,Leyton Orient,1-0,-
--,-,Bolton Wanderers,Leyton Orient,2-1,-
--,-,Brentford,Leyton Orient,4-3,-
--,-,Bristol City,Leyton Orient,2-1,-
--,-,Bristol Rovers,Leyton Orient,0-0,-
--,-,Bury,Leyton Orient,2-0,-
--,-,Cardiff City,Leyton Orient,1-1,-
--,-,Chester,Leyton Orient,1-0,-
--,-,Crewe Alexandra,Leyton Orient,0-1,-
--,-,Fulham,Leyton Orient,1-2,-
--,-,Huddersfield Town,Leyton Orient,2-0,-
--,-,Mansfield Town,Leyton Orient,1-0,-
--,-,Northampton Town,Leyton Orient,0-1,-
--,-,Notts County,Leyton Orient,1-0,-
--,-,Preston North End,Leyton Orient,0-3,-
--,-,Reading,Leyton Orient,1-1,-
--,-,Rotherham United,Leyton Orient,5-2,-
--,-,Shrewsbury Town,Leyton Orient,4-2,-
--,-,Swansea City,Leyton Orient,0-1,-
--,-,Tranmere Rovers,Leyton Orient,3-0,-
--,-,Walsall,Leyton Orient,1-3,-
--,-,Wigan Athletic,Leyton Orient,0-2,-
--,-,Birmingham City,Mansfield Town,4-1,-
--,-,Blackpool,Mansfield Town,3-1,-
--,-,Bolton Wanderers,Mansfield Town,1-1,-
--,-,Brentford,Mansfield Town,2-1,-
--,-,Bristol City,Mansfield Town,1-1,-
--,-,Bristol Rovers,Mansfield Town,1-1,-
--,-,Bury,Mansfield Town,3-0,-
--,-,Cardiff City,Mansfield Town,1-0,-
--,-,Chester,Mansfield Town,0-2,-
--,-,Crewe Alexandra,Mansfield Town,2-1,-
--,-,Fulham,Mansfield Town,1-0,-
--,-,Huddersfield Town,Mansfield Town,1-0,-
--,-,Leyton Orient,Mansfield Town,3-1,-
--,-,Northampton Town,Mansfield Town,1-2,-
--,-,Notts County,Mansfield Town,4-2,-
--,-,Preston North End,Mansfield Town,4-0,-
--,-,Reading,Mansfield Town,1-0,-
--,-,Rotherham United,Mansfield Town,0-0,-
--,-,Shrewsbury Town,Mansfield Town,0-1,-
--,-,Swansea City,Mansfield Town,1-0,-
--,-,Tranmere Rovers,Mansfield Town,1-1,-
--,-,Walsall,Mansfield Town,1-0,-
--,-,Wigan Athletic,Mansfield Town,4-0,-
--,-,Birmingham City,Northampton Town,4-0,-
--,-,Blackpool,Northampton Town,1-0,-
--,-,Bolton Wanderers,Northampton Town,0-3,-
--,-,Brentford,Northampton Town,3-2,-
--,-,Bristol City,Northampton Town,3-1,-
--,-,Bristol Rovers,Northampton Town,4-2,-
--,-,Bury,Northampton Town,1-0,-
--,-,Cardiff City,Northampton Town,2-3,-
--,-,Chester,Northampton Town,0-1,-
--,-,Crewe Alexandra,Northampton Town,2-1,-
--,-,Fulham,Northampton Town,1-1,-
--,-,Huddersfield Town,Northampton Town,2-2,-
--,-,Leyton Orient,Northampton Town,1-1,-
--,-,Mansfield Town,Northampton Town,1-2,-
--,-,Notts County,Northampton Town,3-2,-
--,-,Preston North End,Northampton Town,0-0,-
--,-,Reading,Northampton Town,3-2,-
--,-,Rotherham United,Northampton Town,2-0,-
--,-,Shrewsbury Town,Northampton Town,2-0,-
--,-,Swansea City,Northampton Town,1-1,-
--,-,Tranmere Rovers,Northampton Town,0-0,-
--,-,Walsall,Northampton Town,1-0,-
--,-,Wigan Athletic,Northampton Town,0-0,-
--,-,Birmingham City,Notts County,1-2,-
--,-,Blackpool,Notts County,0-0,-
--,-,Bolton Wanderers,Notts County,3-0,-
--,-,Brentford,Notts County,0-1,-
--,-,Bristol City,Notts County,2-0,-
--,-,Bristol Rovers,Notts County,3-2,-
--,-,Bury,Notts County,3-2,-
--,-,Cardiff City,Notts County,1-3,-
--,-,Chester,Notts County,3-3,-
--,-,Crewe Alexandra,Notts County,1-0,-
--,-,Fulham,Notts County,5-2,-
--,-,Huddersfield Town,Notts County,1-2,-
--,-,Leyton Orient,Notts County,0-1,-
--,-,Mansfield Town,Notts County,1-3,-
--,-,Northampton Town,Notts County,0-0,-
--,-,Preston North End,Notts County,2-4,-
--,-,Reading,Notts County,1-1,-
--,-,Rotherham United,Notts County,1-2,-
--,-,Shrewsbury Town,Notts County,2-2,-
--,-,Swansea City,Notts County,0-0,-
--,-,Tranmere Rovers,Notts County,2-0,-
--,-,Walsall,Notts County,2-2,-
--,-,Wigan Athletic,Notts County,1-1,-
--,-,Birmingham City,Preston North End,3-1,-
--,-,Blackpool,Preston North End,2-2,-
--,-,Bolton Wanderers,Preston North End,2-1,-
--,-,Brentford,Preston North End,2-2,-
--,-,Bristol City,Preston North End,2-1,-
--,-,Bristol Rovers,Preston North End,3-0,-
--,-,Bury,Preston North End,1-2,-
--,-,Cardiff City,Preston North End,3-0,-
--,-,Chester,Preston North End,3-1,-
--,-,Crewe Alexandra,Preston North End,1-0,-
--,-,Fulham,Preston North End,3-1,-
--,-,Huddersfield Town,Preston North End,0-2,-
--,-,Leyton Orient,Preston North End,3-1,-
--,-,Mansfield Town,Preston North End,2-2,-
--,-,Northampton Town,Preston North End,1-2,-
--,-,Notts County,Preston North End,2-1,-
--,-,Reading,Preston North End,6-0,-
--,-,Rotherham United,Preston North End,3-1,-
--,-,Shrewsbury Town,Preston North End,2-0,-
--,-,Swansea City,Preston North End,2-1,-
--,-,Tranmere Rovers,Preston North End,2-1,-
--,-,Walsall,Preston North End,1-0,-
--,-,Wigan Athletic,Preston North End,0-1,-
--,-,Birmingham City,Reading,0-1,-
--,-,Blackpool,Reading,0-0,-
--,-,Bolton Wanderers,Reading,3-0,-
--,-,Brentford,Reading,1-1,-
--,-,Bristol City,Reading,0-1,-
--,-,Bristol Rovers,Reading,0-0,-
--,-,Bury,Reading,4-0,-
--,-,Cardiff City,Reading,3-2,-
--,-,Chester,Reading,1-1,-
--,-,Crewe Alexandra,Reading,1-1,-
--,-,Fulham,Reading,1-2,-
--,-,Huddersfield Town,Reading,0-1,-
--,-,Leyton Orient,Reading,4-1,-
--,-,Mansfield Town,Reading,1-1,-
--,-,Northampton Town,Reading,2-1,-
--,-,Notts County,Reading,0-0,-
--,-,Preston North End,Reading,1-0,-
--,-,Rotherham United,Reading,1-1,-
--,-,Shrewsbury Town,Reading,1-1,-
--,-,Swansea City,Reading,1-6,-
--,-,Tranmere Rovers,Reading,3-1,-
--,-,Walsall,Reading,1-1,-
--,-,Wigan Athletic,Reading,3-1,-
--,-,Birmingham City,Rotherham United,4-1,-
--,-,Blackpool,Rotherham United,1-2,-
--,-,Bolton Wanderers,Rotherham United,0-2,-
--,-,Brentford,Rotherham United,4-2,-
--,-,Bristol City,Rotherham United,0-0,-
--,-,Bristol Rovers,Rotherham United,2-0,-
--,-,Bury,Rotherham United,1-1,-
--,-,Cardiff City,Rotherham United,2-0,-
--,-,Chester,Rotherham United,2-0,-
--,-,Crewe Alexandra,Rotherham United,0-0,-
--,-,Fulham,Rotherham United,1-1,-
--,-,Huddersfield Town,Rotherham United,2-1,-
--,-,Leyton Orient,Rotherham United,1-1,-
--,-,Mansfield Town,Rotherham United,3-1,-
--,-,Northampton Town,Rotherham United,1-2,-
--,-,Notts County,Rotherham United,2-0,-
--,-,Preston North End,Rotherham United,0-1,-
--,-,Reading,Rotherham United,3-2,-
--,-,Shrewsbury Town,Rotherham United,1-1,-
--,-,Swansea City,Rotherham United,1-0,-
--,-,Tranmere Rovers,Rotherham United,2-1,-
--,-,Walsall,Rotherham United,1-1,-
--,-,Wigan Athletic,Rotherham United,0-3,-
--,-,Birmingham City,Shrewsbury Town,0-1,-
--,-,Blackpool,Shrewsbury Town,0-1,-
--,-,Bolton Wanderers,Shrewsbury Town,0-1,-
--,-,Brentford,Shrewsbury Town,1-1,-
--,-,Bristol City,Shrewsbury Town,2-1,-
--,-,Bristol Rovers,Shrewsbury Town,1-0,-
--,-,Bury,Shrewsbury Town,0-0,-
--,-,Cardiff City,Shrewsbury Town,0-1,-
--,-,Chester,Shrewsbury Town,1-0,-
--,-,Crewe Alexandra,Shrewsbury Town,1-1,-
--,-,Fulham,Shrewsbury Town,2-1,-
--,-,Huddersfield Town,Shrewsbury Town,1-1,-
--,-,Leyton Orient,Shrewsbury Town,1-0,-
--,-,Mansfield Town,Shrewsbury Town,2-1,-
--,-,Northampton Town,Shrewsbury Town,2-1,-
--,-,Notts County,Shrewsbury Town,4-0,-
--,-,Preston North End,Shrewsbury Town,2-1,-
--,-,Reading,Shrewsbury Town,3-3,-
--,-,Rotherham United,Shrewsbury Town,4-2,-
--,-,Swansea City,Shrewsbury Town,0-1,-
--,-,Tranmere Rovers,Shrewsbury Town,3-1,-
--,-,Walsall,Shrewsbury Town,0-2,-
--,-,Wigan Athletic,Shrewsbury Town,0-0,-
--,-,Birmingham City,Swansea City,2-0,-
--,-,Blackpool,Swansea City,2-2,-
--,-,Bolton Wanderers,Swansea City,0-0,-
--,-,Brentford,Swansea City,2-1,-
--,-,Bristol City,Swansea City,1-3,-
--,-,Bristol Rovers,Swansea City,2-0,-
--,-,Bury,Swansea City,3-2,-
--,-,Cardiff City,Swansea City,0-2,-
--,-,Chester,Swansea City,1-0,-
--,-,Crewe Alexandra,Swansea City,1-1,-
--,-,Fulham,Swansea City,2-0,-
--,-,Huddersfield Town,Swansea City,1-0,-
--,-,Leyton Orient,Swansea City,0-2,-
--,-,Mansfield Town,Swansea City,4-0,-
--,-,Northampton Town,Swansea City,1-1,-
--,-,Notts County,Swansea City,2-1,-
--,-,Preston North End,Swansea City,2-0,-
--,-,Reading,Swansea City,1-1,-
--,-,Rotherham United,Swansea City,3-2,-
--,-,Shrewsbury Town,Swansea City,1-1,-
--,-,Tranmere Rovers,Swansea City,3-0,-
--,-,Walsall,Swansea City,0-1,-
--,-,Wigan Athletic,Swansea City,2-0,-
--,-,Birmingham City,Tranmere Rovers,2-1,-
--,-,Blackpool,Tranmere Rovers,0-3,-
--,-,Bolton Wanderers,Tranmere Rovers,1-1,-
--,-,Brentford,Tranmere Rovers,2-4,-
--,-,Bristol City,Tranmere Rovers,1-3,-
--,-,Bristol Rovers,Tranmere Rovers,2-0,-
--,-,Bury,Tranmere Rovers,1-2,-
--,-,Cardiff City,Tranmere Rovers,0-0,-
--,-,Chester,Tranmere Rovers,2-2,-
--,-,Crewe Alexandra,Tranmere Rovers,2-2,-
--,-,Fulham,Tranmere Rovers,1-2,-
--,-,Huddersfield Town,Tranmere Rovers,1-0,-
--,-,Leyton Orient,Tranmere Rovers,0-1,-
--,-,Mansfield Town,Tranmere Rovers,1-0,-
--,-,Northampton Town,Tranmere Rovers,0-4,-
--,-,Notts County,Tranmere Rovers,1-0,-
--,-,Preston North End,Tranmere Rovers,2-2,-
--,-,Reading,Tranmere Rovers,1-0,-
--,-,Rotherham United,Tranmere Rovers,0-0,-
--,-,Shrewsbury Town,Tranmere Rovers,3-1,-
--,-,Swansea City,Tranmere Rovers,1-0,-
--,-,Walsall,Tranmere Rovers,2-1,-
--,-,Wigan Athletic,Tranmere Rovers,1-3,-
--,-,Birmingham City,Walsall,2-0,-
--,-,Blackpool,Walsall,4-3,-
--,-,Bolton Wanderers,Walsall,1-1,-
--,-,Brentford,Walsall,4-0,-
--,-,Bristol City,Walsall,4-0,-
--,-,Bristol Rovers,Walsall,2-0,-
--,-,Bury,Walsall,0-2,-
--,-,Cardiff City,Walsall,3-1,-
--,-,Chester,Walsall,1-1,-
--,-,Crewe Alexandra,Walsall,3-1,-
--,-,Fulham,Walsall,0-0,-
--,-,Huddersfield Town,Walsall,1-0,-
--,-,Leyton Orient,Walsall,1-1,-
--,-,Mansfield Town,Walsall,0-2,-
--,-,Northampton Town,Walsall,1-1,-
--,-,Notts County,Walsall,2-0,-
--,-,Preston North End,Walsall,2-0,-
--,-,Reading,Walsall,0-1,-
--,-,Rotherham United,Walsall,2-2,-
--,-,Shrewsbury Town,Walsall,2-0,-
--,-,Swansea City,Walsall,2-0,-
--,-,Tranmere Rovers,Walsall,2-1,-
--,-,Wigan Athletic,Walsall,3-0,-
--,-,Birmingham City,Wigan Athletic,0-0,-
--,-,Blackpool,Wigan Athletic,0-0,-
--,-,Bolton Wanderers,Wigan Athletic,3-2,-
--,-,Brentford,Wigan Athletic,3-1,-
--,-,Bristol City,Wigan Athletic,3-0,-
--,-,Bristol Rovers,Wigan Athletic,6-1,-
--,-,Bury,Wigan Athletic,2-2,-
--,-,Cardiff City,Wigan Athletic,1-1,-
--,-,Chester,Wigan Athletic,0-0,-
--,-,Crewe Alexandra,Wigan Athletic,3-2,-
--,-,Fulham,Wigan Athletic,4-0,-
--,-,Huddersfield Town,Wigan Athletic,2-0,-
--,-,Leyton Orient,Wigan Athletic,1-0,-
--,-,Mansfield Town,Wigan Athletic,1-0,-
--,-,Northampton Town,Wigan Athletic,1-1,-
--,-,Notts County,Wigan Athletic,1-1,-
--,-,Preston North End,Wigan Athletic,1-1,-
--,-,Reading,Wigan Athletic,2-0,-
--,-,Rotherham United,Wigan Athletic,1-2,-
--,-,Shrewsbury Town,Wigan Athletic,1-3,-
--,-,Swansea City,Wigan Athletic,3-0,-
--,-,Tranmere Rovers,Wigan Athletic,2-0,-
--,-,Walsall,Wigan Athletic,1-2,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Tue) 6 Mar 1990 (10),Birmingham City (1),3-1,?,Blackpool FC (1)
+?,(Sat) 25 Nov 1989 (47),Birmingham City (2),1-0,?,Bolton Wanderers (1)
+?,(Tue) 13 Mar 1990 (11),Birmingham City (3),0-1,?,Brentford FC (1)
+?,(Sat) 13 Jan 1990 (2),Birmingham City (4),0-4,?,Bristol City FC (1)
+?,(Mon) 16 Apr 1990 (16),Birmingham City (5),2-2,?,Bristol Rovers (1)
+?,(Sat) 7 Apr 1990 (14),Birmingham City (6),0-0,?,Bury FC (1)
+?,(Tue) 31 Oct 1989 (44),Birmingham City (7),1-1,?,Cardiff City (1)
+?,(Sat) 24 Mar 1990 (12),Birmingham City (8),0-0,?,Chester FC (1)
+?,(Sat) 19 Aug 1989 (33),Birmingham City (9),3-0,?,Crewe Alexandra (1)
+?,(Mon) 1 Jan 1990 (1),Birmingham City (10),1-1,?,Fulham FC (1)
+?,(Sat) 21 Oct 1989 (42),Birmingham City (11),0-1,?,Huddersfield Town (1)
+?,(Sat) 11 Nov 1989 (45),Birmingham City (12),0-0,?,Leyton Orient FC (1)
+?,(Sat) 3 Mar 1990 (9),Birmingham City (13),4-1,?,Mansfield Town (1)
+?,(Sat) 14 Oct 1989 (41),Birmingham City (14),4-0,?,Northampton Town (1)
+?,(Tue) 24 Apr 1990 (17),Birmingham City (15),1-2,?,Notts County FC (1)
+?,(Sat) 16 Dec 1989 (50),Birmingham City (16),3-1,?,Preston North End (1)
+?,(Sat) 5 May 1990 (18),Birmingham City (17),0-1,?,Reading FC (1)
+?,(Sat) 17 Mar 1990 (11),Birmingham City (18),4-1,?,Rotherham United (1)
+?,(Sat) 27 Jan 1990 (4),Birmingham City (19),0-1,?,Shrewsbury Town (1)
+?,(Sat) 2 Sep 1989 (35),Birmingham City (20),2-0,?,Swansea City (1)
+?,(Sat) 16 Sep 1989 (37),Birmingham City (21),2-1,?,Tranmere Rovers (1)
+?,(Tue) 26 Sep 1989 (39),Birmingham City (22),2-0,?,Walsall FC (1)
+?,(Sat) 17 Feb 1990 (7),Birmingham City (23),0-0,?,Wigan Athletic (1)
+?,(Sat) 30 Sep 1989 (39),Blackpool FC (2),3-2,?,Birmingham City (24)
+?,(Mon) 16 Apr 1990 (16),Blackpool FC (3),2-1,?,Bolton Wanderers (2)
+?,(Sat) 11 Nov 1989 (45),Blackpool FC (4),4-0,?,Brentford FC (2)
+?,(Tue) 13 Mar 1990 (11),Blackpool FC (5),1-3,?,Bristol City FC (2)
+?,(Sat) 5 May 1990 (18),Blackpool FC (6),0-3,?,Bristol Rovers (2)
+?,(Tue) 31 Oct 1989 (44),Blackpool FC (7),0-1,?,Bury FC (2)
+?,(Sat) 21 Oct 1989 (42),Blackpool FC (8),1-0,?,Cardiff City (2)
+?,(Tue) 24 Apr 1990 (17),Blackpool FC (9),1-3,?,Chester FC (2)
+?,(Sat) 16 Sep 1989 (37),Blackpool FC (10),1-3,?,Crewe Alexandra (2)
+?,(Sat) 16 Dec 1989 (50),Blackpool FC (11),0-1,?,Fulham FC (2)
+?,(Mon) 1 Jan 1990 (1),Blackpool FC (12),2-2,?,Huddersfield Town (2)
+?,(Tue) 20 Mar 1990 (12),Blackpool FC (13),1-0,?,Leyton Orient FC (2)
+?,(Sat) 3 Feb 1990 (5),Blackpool FC (14),3-1,?,Mansfield Town (2)
+?,(Sat) 24 Mar 1990 (12),Blackpool FC (15),1-0,?,Northampton Town (2)
+?,(Sat) 13 Jan 1990 (2),Blackpool FC (16),0-0,?,Notts County FC (2)
+?,(Sat) 10 Mar 1990 (10),Blackpool FC (17),2-2,?,Preston North End (2)
+?,(Fri) 6 Oct 1989 (40),Blackpool FC (18),0-0,?,Reading FC (2)
+?,(Sat) 7 Apr 1990 (14),Blackpool FC (19),1-2,?,Rotherham United (2)
+?,(Sat) 2 Sep 1989 (35),Blackpool FC (20),0-1,?,Shrewsbury Town (2)
+?,(Mon) 30 Apr 1990 (18),Blackpool FC (21),2-2,?,Swansea City (2)
+?,(Sat) 25 Nov 1989 (47),Blackpool FC (22),0-3,?,Tranmere Rovers (2)
+?,(Sat) 3 Mar 1990 (9),Blackpool FC (23),4-3,?,Walsall FC (2)
+?,(Sat) 19 Aug 1989 (33),Blackpool FC (24),0-0,?,Wigan Athletic (2)
+?,(Sat) 24 Feb 1990 (8),Bolton Wanderers (3),3-1,?,Birmingham City (25)
+?,(Tue) 26 Dec 1989 (52),Bolton Wanderers (4),2-0,?,Blackpool FC (25)
+?,(Sat) 24 Mar 1990 (12),Bolton Wanderers (5),0-1,?,Brentford FC (3)
+?,(Sat) 28 Apr 1990 (17),Bolton Wanderers (6),1-0,?,Bristol City FC (3)
+?,(Sat) 9 Sep 1989 (36),Bolton Wanderers (7),1-0,?,Bristol Rovers (3)
+?,(Sat) 30 Dec 1989 (52),Bolton Wanderers (8),3-1,?,Bury FC (3)
+?,(Sat) 20 Jan 1990 (3),Bolton Wanderers (9),3-1,?,Cardiff City (3)
+?,(Sat) 21 Oct 1989 (42),Bolton Wanderers (10),1-0,?,Chester FC (3)
+?,(Tue) 20 Mar 1990 (12),Bolton Wanderers (11),0-0,?,Crewe Alexandra (3)
+?,(Sat) 26 Aug 1989 (34),Bolton Wanderers (12),0-0,?,Fulham FC (3)
+?,(Tue) 1 May 1990 (18),Bolton Wanderers (13),2-2,?,Huddersfield Town (3)
+?,(Sat) 23 Sep 1989 (38),Bolton Wanderers (14),2-1,?,Leyton Orient FC (3)
+?,(Sat) 30 Sep 1989 (39),Bolton Wanderers (15),1-1,?,Mansfield Town (3)
+?,(Sat) 2 Dec 1989 (48),Bolton Wanderers (16),0-3,?,Northampton Town (3)
+?,(Sat) 10 Mar 1990 (10),Bolton Wanderers (17),3-0,?,Notts County FC (3)
+?,(Sat) 7 Apr 1990 (14),Bolton Wanderers (18),2-1,?,Preston North End (3)
+?,(Tue) 3 Apr 1990 (14),Bolton Wanderers (19),3-0,?,Reading FC (3)
+?,(Sat) 10 Feb 1990 (6),Bolton Wanderers (20),0-2,?,Rotherham United (3)
+?,(Sat) 21 Apr 1990 (16),Bolton Wanderers (21),0-1,?,Shrewsbury Town (3)
+?,(Sat) 4 Nov 1989 (44),Bolton Wanderers (22),0-0,?,Swansea City (3)
+?,(Sat) 14 Apr 1990 (15),Bolton Wanderers (23),1-1,?,Tranmere Rovers (3)
+?,(Tue) 31 Oct 1989 (44),Bolton Wanderers (24),1-1,?,Walsall FC (3)
+?,(Sat) 7 Oct 1989 (40),Bolton Wanderers (25),3-2,?,Wigan Athletic (3)
+?,(Sat) 23 Sep 1989 (38),Brentford FC (4),0-1,?,Birmingham City (26)
+?,(Sat) 28 Apr 1990 (17),Brentford FC (5),5-0,?,Blackpool FC (26)
+?,(Tue) 17 Oct 1989 (42),Brentford FC (6),1-2,?,Bolton Wanderers (26)
+?,(Sat) 7 Oct 1989 (40),Brentford FC (7),0-2,?,Bristol City FC (4)
+?,(Sat) 20 Jan 1990 (3),Brentford FC (8),2-1,?,Bristol Rovers (4)
+?,(Sat) 9 Sep 1989 (36),Brentford FC (9),0-1,?,Bury FC (4)
+?,(Wed) 21 Feb 1990 (8),Brentford FC (10),0-1,?,Cardiff City (4)
+?,(Sat) 26 Aug 1989 (34),Brentford FC (11),1-1,?,Chester FC (4)
+?,(Sat) 10 Mar 1990 (10),Brentford FC (12),0-2,?,Crewe Alexandra (4)
+?,(Sat) 28 Oct 1989 (43),Brentford FC (13),2-0,?,Fulham FC (4)
+?,(Sat) 10 Feb 1990 (6),Brentford FC (14),2-1,?,Huddersfield Town (4)
+?,(Sun) 3 Dec 1989 (48),Brentford FC (15),4-3,?,Leyton Orient FC (4)
+?,(Sun) 17 Dec 1989 (50),Brentford FC (16),2-1,?,Mansfield Town (4)
+?,(Sun) 25 Feb 1990 (8),Brentford FC (17),3-2,?,Northampton Town (4)
+?,(Sat) 7 Apr 1990 (14),Brentford FC (18),0-1,?,Notts County FC (4)
+?,(Tue) 20 Mar 1990 (12),Brentford FC (19),2-2,?,Preston North End (4)
+?,(Mon) 16 Apr 1990 (16),Brentford FC (20),1-1,?,Reading FC (4)
+?,(Sat) 6 Jan 1990 (1),Brentford FC (21),4-2,?,Rotherham United (4)
+?,(Sat) 31 Mar 1990 (13),Brentford FC (22),1-1,?,Shrewsbury Town (4)
+?,(Wed) 2 May 1990 (18),Brentford FC (23),2-1,?,Swansea City (4)
+?,(Sat) 4 Nov 1989 (44),Brentford FC (24),2-4,?,Tranmere Rovers (4)
+?,(Mon) 1 Jan 1990 (1),Brentford FC (25),4-0,?,Walsall FC (4)
+?,(Sat) 30 Sep 1989 (39),Brentford FC (26),3-1,?,Wigan Athletic (4)
+?,(Sat) 26 Aug 1989 (34),Bristol City FC (5),1-0,?,Birmingham City (27)
+?,(Sat) 9 Sep 1989 (36),Bristol City FC (6),2-0,?,Blackpool FC (27)
+?,(Sat) 11 Nov 1989 (45),Bristol City FC (7),1-1,?,Bolton Wanderers (27)
+?,(Sat) 17 Mar 1990 (11),Bristol City FC (8),2-0,?,Brentford FC (27)
+?,(Sat) 23 Sep 1989 (38),Bristol City FC (9),0-0,?,Bristol Rovers (5)
+?,(Sat) 20 Jan 1990 (3),Bristol City FC (10),1-0,?,Bury FC (5)
+?,(Sat) 10 Feb 1990 (6),Bristol City FC (11),1-0,?,Cardiff City (5)
+?,(Tue) 30 Jan 1990 (5),Bristol City FC (12),1-0,?,Chester FC (5)
+?,(Tue) 10 Apr 1990 (15),Bristol City FC (13),4-1,?,Crewe Alexandra (5)
+?,(Mon) 16 Apr 1990 (16),Bristol City FC (14),5-1,?,Fulham FC (5)
+?,(Tue) 24 Apr 1990 (17),Bristol City FC (15),1-1,?,Huddersfield Town (5)
+?,(Sat) 16 Dec 1989 (50),Bristol City FC (16),2-1,?,Leyton Orient FC (5)
+?,(Sat) 31 Mar 1990 (13),Bristol City FC (17),1-1,?,Mansfield Town (5)
+?,(Tue) 27 Mar 1990 (13),Bristol City FC (18),3-1,?,Northampton Town (5)
+?,(Tue) 17 Oct 1989 (42),Bristol City FC (19),2-0,?,Notts County FC (5)
+?,(Mon) 1 Jan 1990 (1),Bristol City FC (20),2-1,?,Preston North End (5)
+?,(Sat) 24 Feb 1990 (8),Bristol City FC (21),0-1,?,Reading FC (5)
+?,(Sat) 2 Dec 1989 (48),Bristol City FC (22),0-0,?,Rotherham United (5)
+?,(Tue) 26 Sep 1989 (39),Bristol City FC (23),2-1,?,Shrewsbury Town (5)
+?,(Sat) 14 Oct 1989 (41),Bristol City FC (24),1-3,?,Swansea City (5)
+?,(Tue) 6 Mar 1990 (10),Bristol City FC (25),1-3,?,Tranmere Rovers (5)
+?,(Sat) 5 May 1990 (18),Bristol City FC (26),4-0,?,Walsall FC (5)
+?,(Sat) 28 Oct 1989 (43),Bristol City FC (27),3-0,?,Wigan Athletic (5)
+?,(Tue) 26 Dec 1989 (52),Bristol Rovers (6),0-0,?,Birmingham City (28)
+?,(Sat) 4 Nov 1989 (44),Bristol Rovers (7),1-1,?,Blackpool FC (28)
+?,(Sun) 28 Jan 1990 (4),Bristol Rovers (8),1-1,?,Bolton Wanderers (28)
+?,(Sat) 19 Aug 1989 (33),Bristol Rovers (9),1-0,?,Brentford FC (28)
+?,(Wed) 2 May 1990 (18),Bristol Rovers (10),3-0,?,Bristol City FC (28)
+?,(Wed) 21 Mar 1990 (12),Bristol Rovers (11),2-1,?,Bury FC (6)
+?,(Sat) 24 Mar 1990 (12),Bristol Rovers (12),2-1,?,Cardiff City (6)
+?,(Sat) 7 Apr 1990 (14),Bristol Rovers (13),2-1,?,Chester FC (6)
+?,(Sat) 21 Apr 1990 (16),Bristol Rovers (14),1-1,?,Crewe Alexandra (6)
+?,(Sat) 7 Oct 1989 (40),Bristol Rovers (15),2-0,?,Fulham FC (6)
+?,(Wed) 1 Nov 1989 (44),Bristol Rovers (16),2-2,?,Huddersfield Town (6)
+?,(Sun) 11 Mar 1990 (10),Bristol Rovers (17),0-0,?,Leyton Orient FC (6)
+?,(Sat) 13 Jan 1990 (2),Bristol Rovers (18),1-1,?,Mansfield Town (6)
+?,(Sat) 21 Oct 1989 (42),Bristol Rovers (19),4-2,?,Northampton Town (6)
+?,(Sat) 2 Sep 1989 (35),Bristol Rovers (20),3-2,?,Notts County FC (6)
+?,(Sat) 16 Sep 1989 (37),Bristol Rovers (21),3-0,?,Preston North End (6)
+?,(Sat) 30 Sep 1989 (39),Bristol Rovers (22),0-0,?,Reading FC (6)
+?,(Sat) 14 Apr 1990 (15),Bristol Rovers (23),2-0,?,Rotherham United (6)
+?,(Sat) 28 Apr 1990 (17),Bristol Rovers (24),1-0,?,Shrewsbury Town (6)
+?,(Sat) 25 Nov 1989 (47),Bristol Rovers (25),2-0,?,Swansea City (6)
+?,(Sat) 30 Dec 1989 (52),Bristol Rovers (26),2-0,?,Tranmere Rovers (6)
+?,(Sun) 18 Feb 1990 (7),Bristol Rovers (27),2-0,?,Walsall FC (6)
+?,(Sat) 3 Mar 1990 (9),Bristol Rovers (28),6-1,?,Wigan Athletic (6)
+?,(Sat) 28 Oct 1989 (43),Bury FC (7),0-0,?,Birmingham City (29)
+?,(Tue) 10 Apr 1990 (15),Bury FC (8),2-0,?,Blackpool FC (29)
+?,(Tue) 24 Apr 1990 (17),Bury FC (9),2-0,?,Bolton Wanderers (29)
+?,(Sat) 27 Jan 1990 (4),Bury FC (10),0-2,?,Brentford FC (29)
+?,(Sat) 19 Aug 1989 (33),Bury FC (11),1-1,?,Bristol City FC (29)
+?,(Sat) 14 Oct 1989 (41),Bury FC (12),0-0,?,Bristol Rovers (29)
+?,(Sat) 5 May 1990 (18),Bury FC (13),2-0,?,Cardiff City (7)
+?,(Sat) 17 Mar 1990 (11),Bury FC (14),1-0,?,Chester FC (7)
+?,(Sat) 25 Nov 1989 (47),Bury FC (15),0-3,?,Crewe Alexandra (7)
+?,(Sat) 31 Mar 1990 (13),Bury FC (16),0-0,?,Fulham FC (7)
+?,(Mon) 16 Apr 1990 (16),Bury FC (17),6-0,?,Huddersfield Town (7)
+?,(Mon) 1 Jan 1990 (1),Bury FC (18),2-0,?,Leyton Orient FC (7)
+?,(Sat) 16 Sep 1989 (37),Bury FC (19),3-0,?,Mansfield Town (7)
+?,(Tue) 6 Mar 1990 (10),Bury FC (20),1-0,?,Northampton Town (7)
+?,(Sat) 3 Mar 1990 (9),Bury FC (21),3-2,?,Notts County FC (7)
+?,(Sat) 13 Jan 1990 (2),Bury FC (22),1-2,?,Preston North End (7)
+?,(Sat) 11 Nov 1989 (45),Bury FC (23),4-0,?,Reading FC (7)
+?,(Tue) 26 Sep 1989 (39),Bury FC (24),1-1,?,Rotherham United (7)
+?,(Sat) 3 Feb 1990 (5),Bury FC (25),0-0,?,Shrewsbury Town (7)
+?,(Tue) 17 Oct 1989 (42),Bury FC (26),3-2,?,Swansea City (7)
+?,(Sat) 17 Feb 1990 (7),Bury FC (27),1-2,?,Tranmere Rovers (7)
+?,(Sat) 16 Dec 1989 (50),Bury FC (28),0-2,?,Walsall FC (7)
+?,(Sat) 2 Sep 1989 (35),Bury FC (29),2-2,?,Wigan Athletic (7)
+?,(Tue) 10 Apr 1990 (15),Cardiff City (8),0-1,?,Birmingham City (30)
+?,(Sat) 31 Mar 1990 (13),Cardiff City (9),2-2,?,Blackpool FC (30)
+?,(Sat) 19 Aug 1989 (33),Cardiff City (10),0-2,?,Bolton Wanderers (30)
+?,(Sat) 2 Sep 1989 (35),Cardiff City (11),2-2,?,Brentford FC (30)
+?,(Sat) 16 Sep 1989 (37),Cardiff City (12),0-3,?,Bristol City FC (30)
+?,(Tue) 17 Oct 1989 (42),Cardiff City (13),1-1,?,Bristol Rovers (30)
+?,(Fri) 3 Nov 1989 (44),Cardiff City (14),3-1,?,Bury FC (30)
+?,(Fri) 13 Oct 1989 (41),Cardiff City (15),1-1,?,Chester FC (8)
+?,(Sat) 17 Feb 1990 (7),Cardiff City (16),0-0,?,Crewe Alexandra (8)
+?,(Sat) 28 Apr 1990 (17),Cardiff City (17),3-3,?,Fulham FC (8)
+?,(Sat) 17 Mar 1990 (11),Cardiff City (18),1-5,?,Huddersfield Town (8)
+?,(Sat) 28 Oct 1989 (43),Cardiff City (19),1-1,?,Leyton Orient FC (8)
+?,(Tue) 27 Mar 1990 (13),Cardiff City (20),1-0,?,Mansfield Town (8)
+?,(Tue) 26 Sep 1989 (39),Cardiff City (21),2-3,?,Northampton Town (8)
+?,(Sat) 16 Dec 1989 (50),Cardiff City (22),1-3,?,Notts County FC (8)
+?,(Sat) 25 Nov 1989 (47),Cardiff City (23),3-0,?,Preston North End (8)
+?,(Tue) 1 May 1990 (18),Cardiff City (24),3-2,?,Reading FC (8)
+?,(Tue) 6 Mar 1990 (10),Cardiff City (25),2-0,?,Rotherham United (8)
+?,(Fri) 2 Mar 1990 (9),Cardiff City (26),0-1,?,Shrewsbury Town (8)
+?,(Mon) 16 Apr 1990 (16),Cardiff City (27),0-2,?,Swansea City (8)
+?,(Sat) 13 Jan 1990 (2),Cardiff City (28),0-0,?,Tranmere Rovers (8)
+?,(Tue) 24 Apr 1990 (17),Cardiff City (29),3-1,?,Walsall FC (8)
+?,(Sat) 3 Feb 1990 (5),Cardiff City (30),1-1,?,Wigan Athletic (8)
+?,(Tue) 17 Oct 1989 (42),Chester FC (9),4-0,?,Birmingham City (31)
+?,(Sat) 30 Dec 1989 (52),Chester FC (10),2-0,?,Blackpool FC (31)
+?,(Sat) 31 Mar 1990 (13),Chester FC (11),2-0,?,Bolton Wanderers (31)
+?,(Fri) 12 Jan 1990 (2),Chester FC (12),1-1,?,Brentford FC (31)
+?,(Sat) 3 Mar 1990 (9),Chester FC (13),0-3,?,Bristol City FC (31)
+?,(Sat) 28 Oct 1989 (43),Chester FC (14),0-0,?,Bristol Rovers (31)
+?,(Sat) 7 Oct 1989 (40),Chester FC (15),1-4,?,Bury FC (31)
+?,(Tue) 20 Mar 1990 (12),Chester FC (16),1-0,?,Cardiff City (31)
+?,(Sat) 2 Sep 1989 (35),Chester FC (17),2-1,?,Crewe Alexandra (9)
+?,(Sat) 30 Sep 1989 (39),Chester FC (18),0-2,?,Fulham FC (9)
+?,(Sat) 4 Nov 1989 (44),Chester FC (19),2-1,?,Huddersfield Town (9)
+?,(Sat) 6 Jan 1990 (1),Chester FC (20),1-0,?,Leyton Orient FC (9)
+?,(Sat) 19 Aug 1989 (33),Chester FC (21),0-2,?,Mansfield Town (9)
+?,(Sat) 14 Apr 1990 (15),Chester FC (22),0-1,?,Northampton Town (9)
+?,(Fri) 15 Sep 1989 (37),Chester FC (23),3-3,?,Notts County FC (9)
+?,(Sat) 3 Feb 1990 (5),Chester FC (24),3-1,?,Preston North End (9)
+?,(Fri) 9 Mar 1990 (10),Chester FC (25),1-1,?,Reading FC (9)
+?,(Sat) 28 Apr 1990 (17),Chester FC (26),2-0,?,Rotherham United (9)
+?,(Sat) 17 Feb 1990 (7),Chester FC (27),1-0,?,Shrewsbury Town (9)
+?,(Fri) 26 Jan 1990 (4),Chester FC (28),1-0,?,Swansea City (9)
+?,(Fri) 20 Apr 1990 (16),Chester FC (29),2-2,?,Tranmere Rovers (9)
+?,(Fri) 24 Nov 1989 (47),Chester FC (30),1-1,?,Walsall FC (9)
+?,(Tue) 26 Dec 1989 (52),Chester FC (31),0-0,?,Wigan Athletic (9)
+?,(Sat) 20 Jan 1990 (3),Crewe Alexandra (10),0-2,?,Birmingham City (32)
+?,(Sat) 10 Feb 1990 (6),Crewe Alexandra (11),2-0,?,Blackpool FC (32)
+?,(Sat) 14 Oct 1989 (41),Crewe Alexandra (12),2-2,?,Bolton Wanderers (32)
+?,(Tue) 26 Sep 1989 (39),Crewe Alexandra (13),2-3,?,Brentford FC (32)
+?,(Tue) 31 Oct 1989 (44),Crewe Alexandra (14),0-1,?,Bristol City FC (32)
+?,(Fri) 15 Dec 1989 (50),Crewe Alexandra (15),1-0,?,Bristol Rovers (32)
+?,(Sat) 24 Feb 1990 (8),Crewe Alexandra (16),2-1,?,Bury FC (32)
+?,(Sat) 2 Dec 1989 (48),Crewe Alexandra (17),1-1,?,Cardiff City (32)
+?,(Tue) 13 Feb 1990 (7),Crewe Alexandra (18),0-0,?,Chester FC (32)
+?,(Sat) 9 Sep 1989 (36),Crewe Alexandra (19),2-3,?,Fulham FC (10)
+?,(Tue) 13 Mar 1990 (11),Crewe Alexandra (20),3-0,?,Huddersfield Town (10)
+?,(Tue) 24 Apr 1990 (17),Crewe Alexandra (21),0-1,?,Leyton Orient FC (10)
+?,(Fri) 10 Nov 1989 (45),Crewe Alexandra (22),2-1,?,Mansfield Town (10)
+?,(Sat) 23 Sep 1989 (38),Crewe Alexandra (23),2-1,?,Northampton Town (10)
+?,(Mon) 1 Jan 1990 (1),Crewe Alexandra (24),1-0,?,Notts County FC (10)
+?,(Sat) 24 Mar 1990 (12),Crewe Alexandra (25),1-0,?,Preston North End (10)
+?,(Fri) 25 Aug 1989 (34),Crewe Alexandra (26),1-1,?,Reading FC (10)
+?,(Sat) 21 Oct 1989 (42),Crewe Alexandra (27),0-0,?,Rotherham United (10)
+?,(Tue) 6 Mar 1990 (10),Crewe Alexandra (28),1-1,?,Shrewsbury Town (10)
+?,(Sat) 17 Mar 1990 (11),Crewe Alexandra (29),1-1,?,Swansea City (10)
+?,(Fri) 6 Apr 1990 (14),Crewe Alexandra (30),2-2,?,Tranmere Rovers (10)
+?,(Mon) 16 Apr 1990 (16),Crewe Alexandra (31),3-1,?,Walsall FC (10)
+?,(Sat) 5 May 1990 (18),Crewe Alexandra (32),3-2,?,Wigan Athletic (10)
+?,(Sat) 14 Apr 1990 (15),Fulham FC (11),1-2,?,Birmingham City (33)
+?,(Sat) 21 Apr 1990 (16),Fulham FC (12),0-0,?,Blackpool FC (33)
+?,(Sat) 13 Jan 1990 (2),Fulham FC (13),2-2,?,Bolton Wanderers (33)
+?,(Tue) 10 Apr 1990 (15),Fulham FC (14),1-0,?,Brentford FC (33)
+?,(Tue) 26 Dec 1989 (52),Fulham FC (15),0-1,?,Bristol City FC (33)
+?,(Sat) 17 Mar 1990 (11),Fulham FC (16),1-2,?,Bristol Rovers (33)
+?,(Sat) 21 Oct 1989 (42),Fulham FC (17),2-2,?,Bury FC (33)
+?,(Sat) 11 Nov 1989 (45),Fulham FC (18),2-5,?,Cardiff City (33)
+?,(Tue) 6 Mar 1990 (10),Fulham FC (19),1-0,?,Chester FC (33)
+?,(Sat) 27 Jan 1990 (4),Fulham FC (20),1-1,?,Crewe Alexandra (33)
+?,(Tue) 26 Sep 1989 (39),Fulham FC (21),0-0,?,Huddersfield Town (11)
+?,(Sat) 5 May 1990 (18),Fulham FC (22),1-2,?,Leyton Orient FC (11)
+?,(Sat) 2 Sep 1989 (35),Fulham FC (23),1-0,?,Mansfield Town (11)
+?,(Tue) 31 Oct 1989 (44),Fulham FC (24),1-1,?,Northampton Town (11)
+?,(Sat) 17 Feb 1990 (7),Fulham FC (25),5-2,?,Notts County FC (11)
+?,(Sat) 3 Mar 1990 (9),Fulham FC (26),3-1,?,Preston North End (11)
+?,(Sat) 24 Mar 1990 (12),Fulham FC (27),1-2,?,Reading FC (11)
+?,(Sat) 14 Oct 1989 (41),Fulham FC (28),1-1,?,Rotherham United (11)
+?,(Sat) 30 Dec 1989 (52),Fulham FC (29),2-1,?,Shrewsbury Town (11)
+?,(Sat) 16 Sep 1989 (37),Fulham FC (30),2-0,?,Swansea City (11)
+?,(Sat) 19 Aug 1989 (33),Fulham FC (31),1-2,?,Tranmere Rovers (11)
+?,(Wed) 4 Apr 1990 (14),Fulham FC (32),0-0,?,Walsall FC (11)
+?,(Sat) 25 Nov 1989 (47),Fulham FC (33),4-0,?,Wigan Athletic (11)
+?,(Sat) 31 Mar 1990 (13),Huddersfield Town (12),1-2,?,Birmingham City (34)
+?,(Sat) 14 Apr 1990 (15),Huddersfield Town (13),2-2,?,Blackpool FC (34)
+?,(Sat) 2 Sep 1989 (35),Huddersfield Town (14),1-1,?,Bolton Wanderers (34)
+?,(Sat) 16 Sep 1989 (37),Huddersfield Town (15),1-0,?,Brentford FC (34)
+?,(Sat) 30 Dec 1989 (52),Huddersfield Town (16),2-1,?,Bristol City FC (34)
+?,(Tue) 10 Apr 1990 (15),Huddersfield Town (17),1-1,?,Bristol Rovers (34)
+?,(Tue) 26 Dec 1989 (52),Huddersfield Town (18),2-1,?,Bury FC (34)
+?,(Sat) 7 Oct 1989 (40),Huddersfield Town (19),2-3,?,Cardiff City (34)
+?,(Sat) 5 May 1990 (18),Huddersfield Town (20),4-1,?,Chester FC (34)
+?,(Sat) 3 Mar 1990 (9),Huddersfield Town (21),0-1,?,Crewe Alexandra (34)
+?,(Sat) 10 Mar 1990 (10),Huddersfield Town (22),0-1,?,Fulham FC (34)
+?,(Sat) 30 Sep 1989 (39),Huddersfield Town (23),2-0,?,Leyton Orient FC (12)
+?,(Sat) 17 Feb 1990 (7),Huddersfield Town (24),1-0,?,Mansfield Town (12)
+?,(Sat) 11 Nov 1989 (45),Huddersfield Town (25),2-2,?,Northampton Town (12)
+?,(Sat) 25 Nov 1989 (47),Huddersfield Town (26),1-2,?,Notts County FC (12)
+?,(Tue) 3 Apr 1990 (14),Huddersfield Town (27),0-2,?,Preston North End (12)
+?,(Tue) 20 Mar 1990 (12),Huddersfield Town (28),0-1,?,Reading FC (12)
+?,(Sat) 21 Apr 1990 (16),Huddersfield Town (29),2-1,?,Rotherham United (12)
+?,(Sat) 28 Oct 1989 (43),Huddersfield Town (30),1-1,?,Shrewsbury Town (12)
+?,(Sat) 19 Aug 1989 (33),Huddersfield Town (31),1-0,?,Swansea City (12)
+?,(Sat) 3 Feb 1990 (5),Huddersfield Town (32),1-0,?,Tranmere Rovers (12)
+?,(Sat) 13 Jan 1990 (2),Huddersfield Town (33),1-0,?,Walsall FC (12)
+?,(Tue) 17 Oct 1989 (42),Huddersfield Town (34),2-0,?,Wigan Athletic (12)
+?,(Sat) 28 Apr 1990 (17),Leyton Orient FC (13),1-2,?,Birmingham City (35)
+?,(Sat) 14 Oct 1989 (41),Leyton Orient FC (14),2-0,?,Blackpool FC (35)
+?,(Tue) 27 Mar 1990 (13),Leyton Orient FC (15),0-0,?,Bolton Wanderers (35)
+?,(Sun) 18 Feb 1990 (7),Leyton Orient FC (16),0-1,?,Brentford FC (35)
+?,(Sat) 21 Apr 1990 (16),Leyton Orient FC (17),1-1,?,Bristol City FC (35)
+?,(Tue) 26 Sep 1989 (39),Leyton Orient FC (18),0-1,?,Bristol Rovers (35)
+?,(Sat) 14 Apr 1990 (15),Leyton Orient FC (19),2-3,?,Bury FC (35)
+?,(Sat) 7 Apr 1990 (14),Leyton Orient FC (20),3-1,?,Cardiff City (35)
+?,(Tue) 31 Oct 1989 (44),Leyton Orient FC (21),0-3,?,Chester FC (35)
+?,(Sat) 30 Dec 1989 (52),Leyton Orient FC (22),2-1,?,Crewe Alexandra (35)
+?,(Sun) 5 Nov 1989 (44),Leyton Orient FC (23),1-1,?,Fulham FC (35)
+?,(Tue) 6 Mar 1990 (10),Leyton Orient FC (24),1-0,?,Huddersfield Town (35)
+?,(Sat) 25 Nov 1989 (47),Leyton Orient FC (25),3-1,?,Mansfield Town (13)
+?,(Tue) 26 Dec 1989 (52),Leyton Orient FC (26),1-1,?,Northampton Town (13)
+?,(Sat) 19 Aug 1989 (33),Leyton Orient FC (27),0-1,?,Notts County FC (13)
+?,(Sat) 2 Sep 1989 (35),Leyton Orient FC (28),3-1,?,Preston North End (13)
+?,(Sat) 21 Oct 1989 (42),Leyton Orient FC (29),4-1,?,Reading FC (13)
+?,(Sat) 24 Mar 1990 (12),Leyton Orient FC (30),1-1,?,Rotherham United (13)
+?,(Sat) 13 Jan 1990 (2),Leyton Orient FC (31),1-0,?,Shrewsbury Town (13)
+?,(Sat) 3 Mar 1990 (9),Leyton Orient FC (32),0-2,?,Swansea City (13)
+?,(Sat) 17 Mar 1990 (11),Leyton Orient FC (33),0-1,?,Tranmere Rovers (13)
+?,(Sat) 27 Jan 1990 (4),Leyton Orient FC (34),1-1,?,Walsall FC (13)
+?,(Sat) 16 Sep 1989 (37),Leyton Orient FC (35),1-0,?,Wigan Athletic (13)
+?,(Tue) 3 Apr 1990 (14),Mansfield Town (14),5-2,?,Birmingham City (36)
+?,(Sat) 23 Sep 1989 (38),Mansfield Town (15),0-3,?,Blackpool FC (36)
+?,(Tue) 6 Mar 1990 (10),Mansfield Town (16),0-1,?,Bolton Wanderers (36)
+?,(Sat) 21 Apr 1990 (16),Mansfield Town (17),2-3,?,Brentford FC (36)
+?,(Sat) 21 Oct 1989 (42),Mansfield Town (18),1-0,?,Bristol City FC (36)
+?,(Sat) 26 Aug 1989 (34),Mansfield Town (19),0-1,?,Bristol Rovers (36)
+?,(Sat) 10 Feb 1990 (6),Mansfield Town (20),1-0,?,Bury FC (36)
+?,(Sat) 9 Sep 1989 (36),Mansfield Town (21),1-0,?,Cardiff City (36)
+?,(Sat) 20 Jan 1990 (3),Mansfield Town (22),1-0,?,Chester FC (36)
+?,(Sat) 28 Apr 1990 (17),Mansfield Town (23),2-1,?,Crewe Alexandra (36)
+?,(Tue) 13 Feb 1990 (7),Mansfield Town (24),3-0,?,Fulham FC (36)
+?,(Sat) 2 Dec 1989 (48),Mansfield Town (25),1-2,?,Huddersfield Town (36)
+?,(Sat) 24 Feb 1990 (8),Mansfield Town (26),1-0,?,Leyton Orient FC (36)
+?,(Sat) 30 Dec 1989 (52),Mansfield Town (27),1-2,?,Northampton Town (14)
+?,(Sat) 4 Nov 1989 (44),Mansfield Town (28),1-3,?,Notts County FC (14)
+?,(Tue) 31 Oct 1989 (44),Mansfield Town (29),2-2,?,Preston North End (14)
+?,(Sat) 7 Apr 1990 (14),Mansfield Town (30),1-1,?,Reading FC (14)
+?,(Tue) 26 Dec 1989 (52),Mansfield Town (31),3-1,?,Rotherham United (14)
+?,(Sat) 17 Mar 1990 (11),Mansfield Town (32),2-1,?,Shrewsbury Town (14)
+?,(Tue) 24 Oct 1989 (43),Mansfield Town (33),4-0,?,Swansea City (14)
+?,(Sat) 24 Mar 1990 (12),Mansfield Town (34),1-0,?,Tranmere Rovers (14)
+?,(Sat) 14 Oct 1989 (41),Mansfield Town (35),0-2,?,Walsall FC (14)
+?,(Sat) 14 Apr 1990 (15),Mansfield Town (36),1-0,?,Wigan Athletic (14)
+?,(Tue) 20 Mar 1990 (12),Northampton Town (15),2-2,?,Birmingham City (37)
+?,(Tue) 17 Oct 1989 (42),Northampton Town (16),4-2,?,Blackpool FC (37)
+?,(Sat) 17 Feb 1990 (7),Northampton Town (17),0-2,?,Bolton Wanderers (37)
+?,(Sat) 25 Nov 1989 (47),Northampton Town (18),0-2,?,Brentford FC (37)
+?,(Sat) 2 Sep 1989 (35),Northampton Town (19),2-0,?,Bristol City FC (37)
+?,(Sat) 31 Mar 1990 (13),Northampton Town (20),1-2,?,Bristol Rovers (37)
+?,(Sat) 30 Sep 1989 (39),Northampton Town (21),0-1,?,Bury FC (37)
+?,(Sat) 10 Mar 1990 (10),Northampton Town (22),1-1,?,Cardiff City (37)
+?,(Mon) 1 Jan 1990 (1),Northampton Town (23),1-0,?,Chester FC (37)
+?,(Mon) 30 Apr 1990 (18),Northampton Town (24),3-1,?,Crewe Alexandra (37)
+?,(Sat) 7 Apr 1990 (14),Northampton Town (25),2-2,?,Fulham FC (37)
+?,(Sat) 28 Apr 1990 (17),Northampton Town (26),1-0,?,Huddersfield Town (37)
+?,(Mon) 16 Apr 1990 (16),Northampton Town (27),0-1,?,Leyton Orient FC (37)
+?,(Tue) 24 Apr 1990 (17),Northampton Town (28),1-2,?,Mansfield Town (37)
+?,(Sat) 28 Oct 1989 (43),Northampton Town (29),0-0,?,Notts County FC (15)
+?,(Sat) 7 Oct 1989 (40),Northampton Town (30),1-2,?,Preston North End (15)
+?,(Sun) 17 Dec 1989 (50),Northampton Town (31),2-1,?,Reading FC (15)
+?,(Sat) 4 Nov 1989 (44),Northampton Town (32),1-2,?,Rotherham United (15)
+?,(Sat) 16 Sep 1989 (37),Northampton Town (33),2-1,?,Shrewsbury Town (15)
+?,(Sat) 13 Jan 1990 (2),Northampton Town (34),1-1,?,Swansea City (15)
+?,(Sat) 3 Mar 1990 (9),Northampton Town (35),0-4,?,Tranmere Rovers (15)
+?,(Tue) 20 Feb 1990 (8),Northampton Town (36),1-1,?,Walsall FC (15)
+?,(Tue) 13 Mar 1990 (11),Northampton Town (37),1-1,?,Wigan Athletic (15)
+?,(Sat) 30 Dec 1989 (52),Notts County FC (16),3-2,?,Birmingham City (38)
+?,(Sat) 26 Aug 1989 (34),Notts County FC (17),0-1,?,Blackpool FC (38)
+?,(Tue) 26 Sep 1989 (39),Notts County FC (18),2-1,?,Bolton Wanderers (38)
+?,(Tue) 31 Oct 1989 (44),Notts County FC (19),3-1,?,Brentford FC (38)
+?,(Sat) 24 Mar 1990 (12),Notts County FC (20),0-0,?,Bristol City FC (38)
+?,(Thu) 26 Apr 1990 (17),Notts County FC (21),3-1,?,Bristol Rovers (38)
+?,(Sat) 6 Jan 1990 (1),Notts County FC (22),0-4,?,Bury FC (38)
+?,(Sat) 21 Apr 1990 (16),Notts County FC (23),2-1,?,Cardiff City (38)
+?,(Sat) 10 Feb 1990 (6),Notts County FC (24),0-0,?,Chester FC (38)
+?,(Sat) 14 Apr 1990 (15),Notts County FC (25),2-0,?,Crewe Alexandra (38)
+?,(Sat) 2 Dec 1989 (48),Notts County FC (26),2-0,?,Fulham FC (38)
+?,(Sat) 24 Feb 1990 (8),Notts County FC (27),1-0,?,Huddersfield Town (38)
+?,(Sat) 20 Jan 1990 (3),Notts County FC (28),1-0,?,Leyton Orient FC (38)
+?,(Sat) 5 May 1990 (18),Notts County FC (29),4-2,?,Mansfield Town (38)
+?,(Tue) 10 Apr 1990 (15),Notts County FC (30),3-2,?,Northampton Town (38)
+?,(Sat) 21 Oct 1989 (42),Notts County FC (31),2-1,?,Preston North End (16)
+?,(Sat) 9 Sep 1989 (36),Notts County FC (32),0-0,?,Reading FC (16)
+?,(Sat) 23 Sep 1989 (38),Notts County FC (33),2-0,?,Rotherham United (16)
+?,(Tue) 26 Dec 1989 (52),Notts County FC (34),4-0,?,Shrewsbury Town (16)
+?,(Tue) 6 Mar 1990 (10),Notts County FC (35),2-1,?,Swansea City (16)
+?,(Sat) 14 Oct 1989 (41),Notts County FC (36),1-0,?,Tranmere Rovers (16)
+?,(Sat) 17 Mar 1990 (11),Notts County FC (37),2-0,?,Walsall FC (16)
+?,(Sat) 11 Nov 1989 (45),Notts County FC (38),1-1,?,Wigan Athletic (16)
+?,(Sat) 21 Apr 1990 (16),Preston North End (17),2-2,?,Birmingham City (39)
+?,(Tue) 26 Sep 1989 (39),Preston North End (18),2-1,?,Blackpool FC (39)
+?,(Sat) 28 Oct 1989 (43),Preston North End (19),1-4,?,Bolton Wanderers (39)
+?,(Sat) 14 Oct 1989 (41),Preston North End (20),4-2,?,Brentford FC (39)
+?,(Sat) 14 Apr 1990 (15),Preston North End (21),2-2,?,Bristol City FC (39)
+?,(Sat) 10 Feb 1990 (6),Preston North End (22),0-1,?,Bristol Rovers (39)
+?,(Sat) 26 Aug 1989 (34),Preston North End (23),2-3,?,Bury FC (39)
+?,(Sat) 24 Feb 1990 (8),Preston North End (24),4-0,?,Cardiff City (39)
+?,(Sat) 23 Sep 1989 (38),Preston North End (25),5-0,?,Chester FC (39)
+?,(Tue) 17 Oct 1989 (42),Preston North End (26),0-0,?,Crewe Alexandra (39)
+?,(Sat) 6 Jan 1990 (1),Preston North End (27),1-0,?,Fulham FC (39)
+?,(Sat) 9 Sep 1989 (36),Preston North End (28),3-3,?,Huddersfield Town (39)
+?,(Tue) 13 Feb 1990 (7),Preston North End (29),0-3,?,Leyton Orient FC (39)
+?,(Tue) 10 Apr 1990 (15),Preston North End (30),4-0,?,Mansfield Town (39)
+?,(Sat) 17 Mar 1990 (11),Preston North End (31),0-0,?,Northampton Town (39)
+?,(Sat) 31 Mar 1990 (13),Preston North End (32),2-4,?,Notts County FC (39)
+?,(Sat) 2 Dec 1989 (48),Preston North End (33),1-0,?,Reading FC (17)
+?,(Sat) 20 Jan 1990 (3),Preston North End (34),0-1,?,Rotherham United (17)
+?,(Sat) 4 Nov 1989 (44),Preston North End (35),2-1,?,Shrewsbury Town (17)
+?,(Sat) 28 Apr 1990 (17),Preston North End (36),2-0,?,Swansea City (17)
+?,(Tue) 26 Dec 1989 (52),Preston North End (37),2-2,?,Tranmere Rovers (17)
+?,(Tue) 6 Mar 1990 (10),Preston North End (38),2-0,?,Walsall FC (17)
+?,(Sat) 30 Dec 1989 (52),Preston North End (39),1-1,?,Wigan Athletic (17)
+?,(Sat) 4 Nov 1989 (44),Reading FC (18),0-2,?,Birmingham City (40)
+?,(Sat) 17 Mar 1990 (11),Reading FC (19),1-1,?,Blackpool FC (40)
+?,(Sat) 3 Mar 1990 (9),Reading FC (20),2-0,?,Bolton Wanderers (40)
+?,(Tue) 26 Dec 1989 (52),Reading FC (21),1-0,?,Brentford FC (40)
+?,(Sat) 25 Nov 1989 (47),Reading FC (22),1-1,?,Bristol City FC (40)
+?,(Tue) 6 Mar 1990 (10),Reading FC (23),0-1,?,Bristol Rovers (40)
+?,(Sat) 28 Apr 1990 (17),Reading FC (24),1-0,?,Bury FC (40)
+?,(Sat) 14 Apr 1990 (15),Reading FC (25),0-1,?,Cardiff City (40)
+?,(Tue) 26 Sep 1989 (39),Reading FC (26),1-1,?,Chester FC (40)
+?,(Sat) 13 Jan 1990 (2),Reading FC (27),1-1,?,Crewe Alexandra (40)
+?,(Tue) 17 Oct 1989 (42),Reading FC (28),3-2,?,Fulham FC (40)
+?,(Sat) 14 Oct 1989 (41),Reading FC (29),0-0,?,Huddersfield Town (40)
+?,(Sat) 31 Mar 1990 (13),Reading FC (30),1-1,?,Leyton Orient FC (40)
+?,(Sat) 28 Oct 1989 (43),Reading FC (31),1-0,?,Mansfield Town (40)
+?,(Sat) 21 Apr 1990 (16),Reading FC (32),3-2,?,Northampton Town (40)
+?,(Thu) 3 May 1990 (18),Reading FC (33),1-1,?,Notts County FC (40)
+?,(Sat) 17 Feb 1990 (7),Reading FC (34),6-0,?,Preston North End (40)
+?,(Sat) 30 Dec 1989 (52),Reading FC (35),3-2,?,Rotherham United (18)
+?,(Sat) 19 Aug 1989 (33),Reading FC (36),3-3,?,Shrewsbury Town (18)
+?,(Tue) 20 Feb 1990 (8),Reading FC (37),1-1,?,Swansea City (18)
+?,(Sat) 2 Sep 1989 (35),Reading FC (38),1-0,?,Tranmere Rovers (18)
+?,(Sat) 16 Sep 1989 (37),Reading FC (39),0-1,?,Walsall FC (18)
+?,(Tue) 10 Apr 1990 (15),Reading FC (40),2-0,?,Wigan Athletic (18)
+?,(Sat) 7 Oct 1989 (40),Rotherham United (19),5-1,?,Birmingham City (41)
+?,(Sat) 28 Oct 1989 (43),Rotherham United (20),1-1,?,Blackpool FC (41)
+?,(Sat) 16 Sep 1989 (37),Rotherham United (21),1-0,?,Bolton Wanderers (41)
+?,(Sat) 3 Mar 1990 (9),Rotherham United (22),2-1,?,Brentford FC (41)
+?,(Tue) 3 Apr 1990 (14),Rotherham United (23),1-2,?,Bristol City FC (41)
+?,(Mon) 1 Jan 1990 (1),Rotherham United (24),3-2,?,Bristol Rovers (41)
+?,(Sat) 10 Mar 1990 (10),Rotherham United (25),1-3,?,Bury FC (41)
+?,(Sat) 30 Sep 1989 (39),Rotherham United (26),4-0,?,Cardiff City (41)
+?,(Sat) 11 Nov 1989 (45),Rotherham United (27),5-0,?,Chester FC (41)
+?,(Sat) 31 Mar 1990 (13),Rotherham United (28),1-3,?,Crewe Alexandra (41)
+?,(Tue) 20 Mar 1990 (12),Rotherham United (29),2-1,?,Fulham FC (41)
+?,(Sat) 16 Dec 1989 (50),Rotherham United (30),0-0,?,Huddersfield Town (41)
+?,(Tue) 17 Oct 1989 (42),Rotherham United (31),5-2,?,Leyton Orient FC (41)
+?,(Mon) 16 Apr 1990 (16),Rotherham United (32),0-0,?,Mansfield Town (41)
+?,(Sat) 5 May 1990 (18),Rotherham United (33),2-0,?,Northampton Town (41)
+?,(Sat) 3 Feb 1990 (5),Rotherham United (34),1-2,?,Notts County FC (41)
+?,(Sat) 19 Aug 1989 (33),Rotherham United (35),3-1,?,Preston North End (41)
+?,(Tue) 24 Apr 1990 (17),Rotherham United (36),1-1,?,Reading FC (41)
+?,(Sat) 25 Nov 1989 (47),Rotherham United (37),4-2,?,Shrewsbury Town (19)
+?,(Sat) 17 Feb 1990 (7),Rotherham United (38),3-2,?,Swansea City (19)
+?,(Sat) 27 Jan 1990 (4),Rotherham United (39),0-0,?,Tranmere Rovers (19)
+?,(Sat) 2 Sep 1989 (35),Rotherham United (40),2-2,?,Walsall FC (19)
+?,(Sat) 13 Jan 1990 (2),Rotherham United (41),1-2,?,Wigan Athletic (19)
+?,(Sat) 9 Sep 1989 (36),Shrewsbury Town (20),2-0,?,Birmingham City (42)
+?,(Tue) 13 Feb 1990 (7),Shrewsbury Town (21),1-1,?,Blackpool FC (42)
+?,(Sat) 16 Dec 1989 (50),Shrewsbury Town (22),3-3,?,Bolton Wanderers (42)
+?,(Sat) 21 Oct 1989 (42),Shrewsbury Town (23),1-0,?,Brentford FC (42)
+?,(Sat) 10 Mar 1990 (10),Shrewsbury Town (24),0-1,?,Bristol City FC (42)
+?,(Sat) 11 Nov 1989 (45),Shrewsbury Town (25),2-3,?,Bristol Rovers (42)
+?,(Sat) 23 Sep 1989 (38),Shrewsbury Town (26),3-1,?,Bury FC (42)
+?,(Tue) 13 Mar 1990 (11),Shrewsbury Town (27),0-0,?,Cardiff City (42)
+?,(Sat) 2 Dec 1989 (48),Shrewsbury Town (28),2-0,?,Chester FC (42)
+?,(Sat) 30 Sep 1989 (39),Shrewsbury Town (29),0-0,?,Crewe Alexandra (42)
+?,(Tue) 24 Apr 1990 (17),Shrewsbury Town (30),2-0,?,Fulham FC (42)
+?,(Sat) 7 Apr 1990 (14),Shrewsbury Town (31),3-3,?,Huddersfield Town (42)
+?,(Sat) 26 Aug 1989 (34),Shrewsbury Town (32),4-2,?,Leyton Orient FC (42)
+?,(Sat) 7 Oct 1989 (40),Shrewsbury Town (33),0-1,?,Mansfield Town (42)
+?,(Tue) 3 Apr 1990 (14),Shrewsbury Town (34),2-0,?,Northampton Town (42)
+?,(Tue) 17 Apr 1990 (16),Shrewsbury Town (35),2-2,?,Notts County FC (42)
+?,(Sat) 5 May 1990 (18),Shrewsbury Town (36),2-0,?,Preston North End (42)
+?,(Sat) 20 Jan 1990 (3),Shrewsbury Town (37),1-1,?,Reading FC (42)
+?,(Sat) 24 Feb 1990 (8),Shrewsbury Town (38),1-1,?,Rotherham United (42)
+?,(Mon) 1 Jan 1990 (1),Shrewsbury Town (39),1-1,?,Swansea City (20)
+?,(Tue) 31 Oct 1989 (44),Shrewsbury Town (40),3-1,?,Tranmere Rovers (20)
+?,(Sat) 24 Mar 1990 (12),Shrewsbury Town (41),2-0,?,Walsall FC (20)
+?,(Tue) 20 Mar 1990 (12),Shrewsbury Town (42),1-3,?,Wigan Athletic (20)
+?,(Tue) 13 Feb 1990 (7),Swansea City (21),1-1,?,Birmingham City (43)
+?,(Sat) 2 Dec 1989 (48),Swansea City (22),0-0,?,Blackpool FC (43)
+?,(Sat) 5 May 1990 (18),Swansea City (23),0-0,?,Bolton Wanderers (43)
+?,(Sat) 30 Dec 1989 (52),Swansea City (24),2-1,?,Brentford FC (43)
+?,(Tue) 20 Mar 1990 (12),Swansea City (25),0-5,?,Bristol City FC (43)
+?,(Sat) 24 Feb 1990 (8),Swansea City (26),0-0,?,Bristol Rovers (43)
+?,(Fri) 23 Mar 1990 (12),Swansea City (27),0-1,?,Bury FC (43)
+?,(Tue) 26 Dec 1989 (52),Swansea City (28),0-1,?,Cardiff City (43)
+?,(Sat) 9 Sep 1989 (36),Swansea City (29),2-1,?,Chester FC (43)
+?,(Sat) 7 Oct 1989 (40),Swansea City (30),3-2,?,Crewe Alexandra (43)
+?,(Sat) 10 Feb 1990 (6),Swansea City (31),4-2,?,Fulham FC (43)
+?,(Sun) 21 Jan 1990 (3),Swansea City (32),1-3,?,Huddersfield Town (43)
+?,(Tue) 3 Apr 1990 (14),Swansea City (33),0-1,?,Leyton Orient FC (43)
+?,(Sat) 10 Mar 1990 (10),Swansea City (34),1-0,?,Mansfield Town (43)
+?,(Sat) 26 Aug 1989 (34),Swansea City (35),1-1,?,Northampton Town (43)
+?,(Sat) 30 Sep 1989 (39),Swansea City (36),0-0,?,Notts County FC (43)
+?,(Sat) 11 Nov 1989 (45),Swansea City (37),2-1,?,Preston North End (43)
+?,(Sat) 23 Sep 1989 (38),Swansea City (38),1-6,?,Reading FC (43)
+?,(Tue) 31 Oct 1989 (44),Swansea City (39),1-0,?,Rotherham United (43)
+?,(Sat) 14 Apr 1990 (15),Swansea City (40),0-1,?,Shrewsbury Town (43)
+?,(Fri) 20 Oct 1989 (42),Swansea City (41),1-0,?,Tranmere Rovers (21)
+?,(Sat) 7 Apr 1990 (14),Swansea City (42),2-0,?,Walsall FC (21)
+?,(Sat) 21 Apr 1990 (16),Swansea City (43),3-0,?,Wigan Athletic (21)
+?,(Fri) 9 Feb 1990 (6),Tranmere Rovers (22),5-1,?,Birmingham City (44)
+?,(Fri) 23 Feb 1990 (8),Tranmere Rovers (23),4-2,?,Blackpool FC (44)
+?,(Sat) 6 Jan 1990 (1),Tranmere Rovers (24),1-3,?,Bolton Wanderers (44)
+?,(Sat) 5 May 1990 (18),Tranmere Rovers (25),2-2,?,Brentford FC (44)
+?,(Fri) 29 Sep 1989 (39),Tranmere Rovers (26),6-0,?,Bristol City FC (44)
+?,(Mon) 23 Apr 1990 (17),Tranmere Rovers (27),1-2,?,Bristol Rovers (44)
+?,(Sat) 2 Dec 1989 (48),Tranmere Rovers (28),2-4,?,Bury FC (44)
+?,(Sat) 26 Aug 1989 (34),Tranmere Rovers (29),3-0,?,Cardiff City (44)
+?,(Fri) 15 Dec 1989 (50),Tranmere Rovers (30),0-0,?,Chester FC (44)
+?,(Fri) 27 Oct 1989 (43),Tranmere Rovers (31),1-1,?,Crewe Alexandra (44)
+?,(Fri) 19 Jan 1990 (3),Tranmere Rovers (32),2-1,?,Fulham FC (44)
+?,(Fri) 22 Sep 1989 (38),Tranmere Rovers (33),4-0,?,Huddersfield Town (44)
+?,(Fri) 6 Oct 1989 (40),Tranmere Rovers (34),3-0,?,Leyton Orient FC (44)
+?,(Mon) 16 Oct 1989 (42),Tranmere Rovers (35),1-1,?,Mansfield Town (44)
+?,(Wed) 2 May 1990 (18),Tranmere Rovers (36),0-0,?,Northampton Town (44)
+?,(Mon) 19 Mar 1990 (12),Tranmere Rovers (37),2-0,?,Notts County FC (44)
+?,(Mon) 16 Apr 1990 (16),Tranmere Rovers (38),2-1,?,Preston North End (44)
+?,(Mon) 12 Feb 1990 (7),Tranmere Rovers (39),3-1,?,Reading FC (44)
+?,(Sat) 9 Sep 1989 (36),Tranmere Rovers (40),2-1,?,Rotherham United (44)
+?,(Mon) 9 Apr 1990 (15),Tranmere Rovers (41),3-1,?,Shrewsbury Town (44)
+?,(Fri) 30 Mar 1990 (13),Tranmere Rovers (42),3-0,?,Swansea City (44)
+?,(Fri) 10 Nov 1989 (45),Tranmere Rovers (43),2-1,?,Walsall FC (22)
+?,(Fri) 9 Mar 1990 (10),Tranmere Rovers (44),2-0,?,Wigan Athletic (22)
+?,(Sat) 10 Mar 1990 (10),Walsall FC (23),0-1,?,Birmingham City (45)
+?,(Tue) 27 Mar 1990 (13),Walsall FC (24),1-1,?,Blackpool FC (45)
+?,(Tue) 10 Apr 1990 (15),Walsall FC (25),2-1,?,Bolton Wanderers (45)
+?,(Sat) 14 Apr 1990 (15),Walsall FC (26),2-1,?,Brentford FC (45)
+?,(Sat) 4 Nov 1989 (44),Walsall FC (27),0-2,?,Bristol City FC (45)
+?,(Sat) 2 Dec 1989 (48),Walsall FC (28),1-2,?,Bristol Rovers (45)
+?,(Sat) 21 Apr 1990 (16),Walsall FC (29),2-2,?,Bury FC (45)
+?,(Sat) 30 Dec 1989 (52),Walsall FC (30),0-2,?,Cardiff City (45)
+?,(Sat) 24 Feb 1990 (8),Walsall FC (31),1-1,?,Chester FC (45)
+?,(Tue) 26 Dec 1989 (52),Walsall FC (32),1-1,?,Crewe Alexandra (45)
+?,(Sat) 23 Sep 1989 (38),Walsall FC (33),0-0,?,Fulham FC (45)
+?,(Sat) 26 Aug 1989 (34),Walsall FC (34),2-3,?,Huddersfield Town (45)
+?,(Sat) 9 Sep 1989 (36),Walsall FC (35),1-3,?,Leyton Orient FC (45)
+?,(Tue) 20 Mar 1990 (12),Walsall FC (36),1-0,?,Mansfield Town (45)
+?,(Sat) 19 Aug 1989 (33),Walsall FC (37),1-0,?,Northampton Town (45)
+?,(Sat) 7 Oct 1989 (40),Walsall FC (38),2-2,?,Notts County FC (45)
+?,(Sat) 30 Sep 1989 (39),Walsall FC (39),1-0,?,Preston North End (45)
+?,(Sat) 10 Feb 1990 (6),Walsall FC (40),1-1,?,Reading FC (45)
+?,(Tue) 1 May 1990 (18),Walsall FC (41),1-1,?,Rotherham United (45)
+?,(Tue) 17 Oct 1989 (42),Walsall FC (42),0-2,?,Shrewsbury Town (45)
+?,(Sat) 28 Oct 1989 (43),Walsall FC (43),0-1,?,Swansea City (45)
+?,(Sat) 28 Apr 1990 (17),Walsall FC (44),2-1,?,Tranmere Rovers (45)
+?,(Sat) 31 Mar 1990 (13),Walsall FC (45),1-2,?,Wigan Athletic (23)
+?,(Fri) 1 Dec 1989 (48),Wigan Athletic (24),1-0,?,Birmingham City (46)
+?,(Sat) 20 Jan 1990 (3),Wigan Athletic (25),1-1,?,Blackpool FC (46)
+?,(Fri) 16 Mar 1990 (11),Wigan Athletic (26),2-0,?,Bolton Wanderers (46)
+?,(Tue) 6 Mar 1990 (10),Wigan Athletic (27),2-1,?,Brentford FC (46)
+?,(Sat) 7 Apr 1990 (14),Wigan Athletic (28),2-3,?,Bristol City FC (46)
+?,(Wed) 4 Apr 1990 (14),Wigan Athletic (29),1-2,?,Bristol Rovers (46)
+?,(Tue) 13 Feb 1990 (7),Wigan Athletic (30),0-0,?,Bury FC (46)
+?,(Sat) 23 Sep 1989 (38),Wigan Athletic (31),1-1,?,Cardiff City (46)
+?,(Mon) 16 Apr 1990 (16),Wigan Athletic (32),1-0,?,Chester FC (46)
+?,(Sat) 4 Nov 1989 (44),Wigan Athletic (33),1-0,?,Crewe Alexandra (46)
+?,(Sat) 24 Feb 1990 (8),Wigan Athletic (34),2-1,?,Fulham FC (46)
+?,(Sat) 24 Mar 1990 (12),Wigan Athletic (35),1-2,?,Huddersfield Town (46)
+?,(Sat) 10 Feb 1990 (6),Wigan Athletic (36),0-2,?,Leyton Orient FC (46)
+?,(Mon) 1 Jan 1990 (1),Wigan Athletic (37),4-0,?,Mansfield Town (46)
+?,(Sat) 9 Sep 1989 (36),Wigan Athletic (38),0-0,?,Northampton Town (46)
+?,(Sat) 28 Apr 1990 (17),Wigan Athletic (39),1-1,?,Notts County FC (46)
+?,(Tue) 24 Apr 1990 (17),Wigan Athletic (40),0-1,?,Preston North End (46)
+?,(Tue) 31 Oct 1989 (44),Wigan Athletic (41),3-1,?,Reading FC (46)
+?,(Sat) 26 Aug 1989 (34),Wigan Athletic (42),0-3,?,Rotherham United (46)
+?,(Sat) 14 Oct 1989 (41),Wigan Athletic (43),0-0,?,Shrewsbury Town (46)
+?,(Sat) 16 Dec 1989 (50),Wigan Athletic (44),2-0,?,Swansea City (46)
+?,(Tue) 26 Sep 1989 (39),Wigan Athletic (45),1-3,?,Tranmere Rovers (46)
+?,(Sat) 21 Oct 1989 (42),Wigan Athletic (46),3-0,?,Walsall FC (46)

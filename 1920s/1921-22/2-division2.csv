@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Blackpool,Barnsley,1-0,-
--,-,Bradford Park Avenue,Barnsley,2-3,-
--,-,Bristol City,Barnsley,3-0,-
--,-,Bury,Barnsley,1-2,-
--,-,Coventry City,Barnsley,0-1,-
--,-,Crystal Palace,Barnsley,0-1,-
--,-,Derby County,Barnsley,1-0,-
--,-,Fulham,Barnsley,0-0,-
--,-,Hull City,Barnsley,1-3,-
--,-,Leeds United,Barnsley,4-0,-
--,-,Leicester City,Barnsley,1-0,-
--,-,Leyton Orient,Barnsley,2-1,-
--,-,Nottingham Forest,Barnsley,1-1,-
--,-,Notts County,Barnsley,1-4,-
--,-,Port Vale,Barnsley,2-3,-
--,-,Rotherham County,Barnsley,0-0,-
--,-,Sheffield Wednesday,Barnsley,2-3,-
--,-,South Shields,Barnsley,5-2,-
--,-,Stoke City,Barnsley,1-0,-
--,-,West Ham United,Barnsley,4-0,-
--,-,Wolverhampton Wanderers,Barnsley,2-0,-
--,-,Barnsley,Blackpool,3-2,-
--,-,Bradford Park Avenue,Blackpool,0-0,-
--,-,Bristol City,Blackpool,0-1,-
--,-,Bury,Blackpool,3-0,-
--,-,Coventry City,Blackpool,0-1,-
--,-,Crystal Palace,Blackpool,1-0,-
--,-,Derby County,Blackpool,1-0,-
--,-,Fulham,Blackpool,1-0,-
--,-,Hull City,Blackpool,2-0,-
--,-,Leeds United,Blackpool,0-0,-
--,-,Leicester City,Blackpool,1-0,-
--,-,Leyton Orient,Blackpool,3-0,-
--,-,Nottingham Forest,Blackpool,0-0,-
--,-,Notts County,Blackpool,2-1,-
--,-,Port Vale,Blackpool,1-0,-
--,-,Rotherham County,Blackpool,0-1,-
--,-,Sheffield Wednesday,Blackpool,5-1,-
--,-,South Shields,Blackpool,2-1,-
--,-,Stoke City,Blackpool,1-1,-
--,-,West Ham United,Blackpool,0-2,-
--,-,Wolverhampton Wanderers,Blackpool,4-0,-
--,-,Barnsley,Bradford Park Avenue,2-0,-
--,-,Blackpool,Bradford Park Avenue,1-1,-
--,-,Bristol City,Bradford Park Avenue,1-0,-
--,-,Bury,Bradford Park Avenue,2-2,-
--,-,Coventry City,Bradford Park Avenue,2-2,-
--,-,Crystal Palace,Bradford Park Avenue,1-1,-
--,-,Derby County,Bradford Park Avenue,1-3,-
--,-,Fulham,Bradford Park Avenue,2-1,-
--,-,Hull City,Bradford Park Avenue,3-0,-
--,-,Leeds United,Bradford Park Avenue,3-0,-
--,-,Leicester City,Bradford Park Avenue,2-1,-
--,-,Leyton Orient,Bradford Park Avenue,1-0,-
--,-,Nottingham Forest,Bradford Park Avenue,4-1,-
--,-,Notts County,Bradford Park Avenue,3-0,-
--,-,Port Vale,Bradford Park Avenue,1-0,-
--,-,Rotherham County,Bradford Park Avenue,2-0,-
--,-,Sheffield Wednesday,Bradford Park Avenue,2-1,-
--,-,South Shields,Bradford Park Avenue,1-0,-
--,-,Stoke City,Bradford Park Avenue,0-1,-
--,-,West Ham United,Bradford Park Avenue,1-0,-
--,-,Wolverhampton Wanderers,Bradford Park Avenue,5-0,-
--,-,Barnsley,Bristol City,1-1,-
--,-,Blackpool,Bristol City,2-0,-
--,-,Bradford Park Avenue,Bristol City,2-1,-
--,-,Bury,Bristol City,5-0,-
--,-,Coventry City,Bristol City,1-1,-
--,-,Crystal Palace,Bristol City,1-1,-
--,-,Derby County,Bristol City,5-1,-
--,-,Fulham,Bristol City,0-0,-
--,-,Hull City,Bristol City,1-0,-
--,-,Leeds United,Bristol City,3-0,-
--,-,Leicester City,Bristol City,4-1,-
--,-,Leyton Orient,Bristol City,0-1,-
--,-,Nottingham Forest,Bristol City,1-0,-
--,-,Notts County,Bristol City,0-2,-
--,-,Port Vale,Bristol City,3-1,-
--,-,Rotherham County,Bristol City,0-0,-
--,-,Sheffield Wednesday,Bristol City,1-0,-
--,-,South Shields,Bristol City,2-0,-
--,-,Stoke City,Bristol City,3-0,-
--,-,West Ham United,Bristol City,3-0,-
--,-,Wolverhampton Wanderers,Bristol City,2-2,-
--,-,Barnsley,Bury,3-0,-
--,-,Blackpool,Bury,0-1,-
--,-,Bradford Park Avenue,Bury,1-1,-
--,-,Bristol City,Bury,2-0,-
--,-,Coventry City,Bury,1-2,-
--,-,Crystal Palace,Bury,4-1,-
--,-,Derby County,Bury,1-0,-
--,-,Fulham,Bury,0-1,-
--,-,Hull City,Bury,1-1,-
--,-,Leeds United,Bury,2-0,-
--,-,Leicester City,Bury,0-0,-
--,-,Leyton Orient,Bury,3-1,-
--,-,Nottingham Forest,Bury,1-2,-
--,-,Notts County,Bury,1-1,-
--,-,Port Vale,Bury,5-2,-
--,-,Rotherham County,Bury,1-1,-
--,-,Sheffield Wednesday,Bury,4-1,-
--,-,South Shields,Bury,1-1,-
--,-,Stoke City,Bury,1-0,-
--,-,West Ham United,Bury,3-2,-
--,-,Wolverhampton Wanderers,Bury,1-1,-
--,-,Barnsley,Coventry City,0-1,-
--,-,Blackpool,Coventry City,2-1,-
--,-,Bradford Park Avenue,Coventry City,1-2,-
--,-,Bristol City,Coventry City,0-2,-
--,-,Bury,Coventry City,3-2,-
--,-,Crystal Palace,Coventry City,1-1,-
--,-,Derby County,Coventry City,1-0,-
--,-,Fulham,Coventry City,5-0,-
--,-,Hull City,Coventry City,2-0,-
--,-,Leeds United,Coventry City,5-2,-
--,-,Leicester City,Coventry City,1-1,-
--,-,Leyton Orient,Coventry City,4-0,-
--,-,Nottingham Forest,Coventry City,1-0,-
--,-,Notts County,Coventry City,1-1,-
--,-,Port Vale,Coventry City,1-2,-
--,-,Rotherham County,Coventry City,0-0,-
--,-,Sheffield Wednesday,Coventry City,3-2,-
--,-,South Shields,Coventry City,2-1,-
--,-,Stoke City,Coventry City,2-2,-
--,-,West Ham United,Coventry City,3-0,-
--,-,Wolverhampton Wanderers,Coventry City,1-0,-
--,-,Barnsley,Crystal Palace,3-1,-
--,-,Blackpool,Crystal Palace,1-3,-
--,-,Bradford Park Avenue,Crystal Palace,0-0,-
--,-,Bristol City,Crystal Palace,1-2,-
--,-,Bury,Crystal Palace,1-2,-
--,-,Coventry City,Crystal Palace,1-1,-
--,-,Derby County,Crystal Palace,2-0,-
--,-,Fulham,Crystal Palace,1-1,-
--,-,Hull City,Crystal Palace,1-0,-
--,-,Leeds United,Crystal Palace,0-0,-
--,-,Leicester City,Crystal Palace,2-0,-
--,-,Leyton Orient,Crystal Palace,0-0,-
--,-,Nottingham Forest,Crystal Palace,2-1,-
--,-,Notts County,Crystal Palace,3-2,-
--,-,Port Vale,Crystal Palace,3-0,-
--,-,Rotherham County,Crystal Palace,1-1,-
--,-,Sheffield Wednesday,Crystal Palace,1-0,-
--,-,South Shields,Crystal Palace,1-1,-
--,-,Stoke City,Crystal Palace,5-1,-
--,-,West Ham United,Crystal Palace,2-0,-
--,-,Wolverhampton Wanderers,Crystal Palace,0-1,-
--,-,Barnsley,Derby County,2-1,-
--,-,Blackpool,Derby County,4-2,-
--,-,Bradford Park Avenue,Derby County,5-1,-
--,-,Bristol City,Derby County,1-2,-
--,-,Bury,Derby County,2-0,-
--,-,Coventry City,Derby County,1-2,-
--,-,Crystal Palace,Derby County,3-1,-
--,-,Fulham,Derby County,2-2,-
--,-,Hull City,Derby County,1-1,-
--,-,Leeds United,Derby County,2-1,-
--,-,Leicester City,Derby County,1-1,-
--,-,Leyton Orient,Derby County,3-2,-
--,-,Nottingham Forest,Derby County,3-0,-
--,-,Notts County,Derby County,1-2,-
--,-,Port Vale,Derby County,1-1,-
--,-,Rotherham County,Derby County,2-0,-
--,-,Sheffield Wednesday,Derby County,1-1,-
--,-,South Shields,Derby County,3-1,-
--,-,Stoke City,Derby County,1-1,-
--,-,West Ham United,Derby County,3-1,-
--,-,Wolverhampton Wanderers,Derby County,0-3,-
--,-,Barnsley,Fulham,2-1,-
--,-,Blackpool,Fulham,0-2,-
--,-,Bradford Park Avenue,Fulham,1-2,-
--,-,Bristol City,Fulham,1-0,-
--,-,Bury,Fulham,1-0,-
--,-,Coventry City,Fulham,2-0,-
--,-,Crystal Palace,Fulham,2-0,-
--,-,Derby County,Fulham,1-1,-
--,-,Hull City,Fulham,2-1,-
--,-,Leeds United,Fulham,2-0,-
--,-,Leicester City,Fulham,1-2,-
--,-,Leyton Orient,Fulham,4-2,-
--,-,Nottingham Forest,Fulham,0-0,-
--,-,Notts County,Fulham,3-0,-
--,-,Port Vale,Fulham,1-1,-
--,-,Rotherham County,Fulham,1-0,-
--,-,Sheffield Wednesday,Fulham,1-4,-
--,-,South Shields,Fulham,1-0,-
--,-,Stoke City,Fulham,3-0,-
--,-,West Ham United,Fulham,1-0,-
--,-,Wolverhampton Wanderers,Fulham,0-0,-
--,-,Barnsley,Hull City,4-1,-
--,-,Blackpool,Hull City,0-1,-
--,-,Bradford Park Avenue,Hull City,1-1,-
--,-,Bristol City,Hull City,1-0,-
--,-,Bury,Hull City,4-0,-
--,-,Coventry City,Hull City,2-0,-
--,-,Crystal Palace,Hull City,0-2,-
--,-,Derby County,Hull City,0-0,-
--,-,Fulham,Hull City,6-0,-
--,-,Leeds United,Hull City,0-2,-
--,-,Leicester City,Hull City,0-1,-
--,-,Leyton Orient,Hull City,0-2,-
--,-,Nottingham Forest,Hull City,3-2,-
--,-,Notts County,Hull City,2-0,-
--,-,Port Vale,Hull City,1-0,-
--,-,Rotherham County,Hull City,2-0,-
--,-,Sheffield Wednesday,Hull City,0-0,-
--,-,South Shields,Hull City,1-0,-
--,-,Stoke City,Hull City,0-0,-
--,-,West Ham United,Hull City,1-1,-
--,-,Wolverhampton Wanderers,Hull City,0-2,-
--,-,Barnsley,Leeds United,2-2,-
--,-,Blackpool,Leeds United,1-3,-
--,-,Bradford Park Avenue,Leeds United,0-1,-
--,-,Bristol City,Leeds United,0-0,-
--,-,Bury,Leeds United,2-1,-
--,-,Coventry City,Leeds United,1-0,-
--,-,Crystal Palace,Leeds United,1-2,-
--,-,Derby County,Leeds United,2-0,-
--,-,Fulham,Leeds United,0-1,-
--,-,Hull City,Leeds United,1-0,-
--,-,Leicester City,Leeds United,0-0,-
--,-,Leyton Orient,Leeds United,4-2,-
--,-,Nottingham Forest,Leeds United,1-0,-
--,-,Notts County,Leeds United,4-1,-
--,-,Port Vale,Leeds United,0-1,-
--,-,Rotherham County,Leeds United,1-0,-
--,-,Sheffield Wednesday,Leeds United,2-1,-
--,-,South Shields,Leeds United,0-1,-
--,-,Stoke City,Leeds United,3-0,-
--,-,West Ham United,Leeds United,1-1,-
--,-,Wolverhampton Wanderers,Leeds United,0-0,-
--,-,Barnsley,Leicester City,0-0,-
--,-,Blackpool,Leicester City,2-0,-
--,-,Bradford Park Avenue,Leicester City,0-1,-
--,-,Bristol City,Leicester City,1-1,-
--,-,Bury,Leicester City,0-1,-
--,-,Coventry City,Leicester City,0-0,-
--,-,Crystal Palace,Leicester City,1-0,-
--,-,Derby County,Leicester City,0-1,-
--,-,Fulham,Leicester City,0-0,-
--,-,Hull City,Leicester City,5-2,-
--,-,Leeds United,Leicester City,3-0,-
--,-,Leyton Orient,Leicester City,0-0,-
--,-,Nottingham Forest,Leicester City,0-0,-
--,-,Notts County,Leicester City,0-0,-
--,-,Port Vale,Leicester City,1-1,-
--,-,Rotherham County,Leicester City,0-0,-
--,-,Sheffield Wednesday,Leicester City,1-0,-
--,-,South Shields,Leicester City,1-0,-
--,-,Stoke City,Leicester City,1-1,-
--,-,West Ham United,Leicester City,1-0,-
--,-,Wolverhampton Wanderers,Leicester City,1-1,-
--,-,Barnsley,Leyton Orient,4-0,-
--,-,Blackpool,Leyton Orient,2-0,-
--,-,Bradford Park Avenue,Leyton Orient,3-1,-
--,-,Bristol City,Leyton Orient,2-1,-
--,-,Bury,Leyton Orient,0-0,-
--,-,Coventry City,Leyton Orient,1-2,-
--,-,Crystal Palace,Leyton Orient,1-0,-
--,-,Derby County,Leyton Orient,3-0,-
--,-,Fulham,Leyton Orient,2-0,-
--,-,Hull City,Leyton Orient,2-1,-
--,-,Leeds United,Leyton Orient,2-0,-
--,-,Leicester City,Leyton Orient,1-0,-
--,-,Nottingham Forest,Leyton Orient,2-0,-
--,-,Notts County,Leyton Orient,0-0,-
--,-,Port Vale,Leyton Orient,3-0,-
--,-,Rotherham County,Leyton Orient,2-0,-
--,-,Sheffield Wednesday,Leyton Orient,0-0,-
--,-,South Shields,Leyton Orient,1-1,-
--,-,Stoke City,Leyton Orient,0-0,-
--,-,West Ham United,Leyton Orient,1-2,-
--,-,Wolverhampton Wanderers,Leyton Orient,0-2,-
--,-,Barnsley,Nottingham Forest,2-0,-
--,-,Blackpool,Nottingham Forest,2-1,-
--,-,Bradford Park Avenue,Nottingham Forest,1-0,-
--,-,Bristol City,Nottingham Forest,0-1,-
--,-,Bury,Nottingham Forest,1-2,-
--,-,Coventry City,Nottingham Forest,0-1,-
--,-,Crystal Palace,Nottingham Forest,4-1,-
--,-,Derby County,Nottingham Forest,1-2,-
--,-,Fulham,Nottingham Forest,2-0,-
--,-,Hull City,Nottingham Forest,0-1,-
--,-,Leeds United,Nottingham Forest,0-0,-
--,-,Leicester City,Nottingham Forest,2-2,-
--,-,Leyton Orient,Nottingham Forest,1-2,-
--,-,Notts County,Nottingham Forest,1-1,-
--,-,Port Vale,Nottingham Forest,0-2,-
--,-,Rotherham County,Nottingham Forest,0-1,-
--,-,Sheffield Wednesday,Nottingham Forest,0-4,-
--,-,South Shields,Nottingham Forest,0-0,-
--,-,Stoke City,Nottingham Forest,1-1,-
--,-,West Ham United,Nottingham Forest,1-0,-
--,-,Wolverhampton Wanderers,Nottingham Forest,2-0,-
--,-,Barnsley,Notts County,3-0,-
--,-,Blackpool,Notts County,1-2,-
--,-,Bradford Park Avenue,Notts County,2-1,-
--,-,Bristol City,Notts County,2-2,-
--,-,Bury,Notts County,1-0,-
--,-,Coventry City,Notts County,4-2,-
--,-,Crystal Palace,Notts County,1-0,-
--,-,Derby County,Notts County,1-1,-
--,-,Fulham,Notts County,4-0,-
--,-,Hull City,Notts County,2-0,-
--,-,Leeds United,Notts County,1-1,-
--,-,Leicester City,Notts County,3-0,-
--,-,Leyton Orient,Notts County,2-1,-
--,-,Nottingham Forest,Notts County,0-0,-
--,-,Port Vale,Notts County,0-0,-
--,-,Rotherham County,Notts County,3-0,-
--,-,Sheffield Wednesday,Notts County,0-0,-
--,-,South Shields,Notts County,0-0,-
--,-,Stoke City,Notts County,0-0,-
--,-,West Ham United,Notts County,2-1,-
--,-,Wolverhampton Wanderers,Notts County,1-2,-
--,-,Barnsley,Port Vale,3-2,-
--,-,Blackpool,Port Vale,0-1,-
--,-,Bradford Park Avenue,Port Vale,2-0,-
--,-,Bristol City,Port Vale,2-1,-
--,-,Bury,Port Vale,5-2,-
--,-,Coventry City,Port Vale,4-1,-
--,-,Crystal Palace,Port Vale,0-0,-
--,-,Derby County,Port Vale,3-2,-
--,-,Fulham,Port Vale,1-0,-
--,-,Hull City,Port Vale,2-0,-
--,-,Leeds United,Port Vale,2-1,-
--,-,Leicester City,Port Vale,3-0,-
--,-,Leyton Orient,Port Vale,2-0,-
--,-,Nottingham Forest,Port Vale,1-1,-
--,-,Notts County,Port Vale,1-2,-
--,-,Rotherham County,Port Vale,0-1,-
--,-,Sheffield Wednesday,Port Vale,2-0,-
--,-,South Shields,Port Vale,0-1,-
--,-,Stoke City,Port Vale,0-0,-
--,-,West Ham United,Port Vale,3-0,-
--,-,Wolverhampton Wanderers,Port Vale,2-0,-
--,-,Barnsley,Rotherham County,0-1,-
--,-,Blackpool,Rotherham County,3-1,-
--,-,Bradford Park Avenue,Rotherham County,4-2,-
--,-,Bristol City,Rotherham County,1-2,-
--,-,Bury,Rotherham County,0-0,-
--,-,Coventry City,Rotherham County,4-0,-
--,-,Crystal Palace,Rotherham County,2-0,-
--,-,Derby County,Rotherham County,4-0,-
--,-,Fulham,Rotherham County,4-0,-
--,-,Hull City,Rotherham County,0-1,-
--,-,Leeds United,Rotherham County,0-2,-
--,-,Leicester City,Rotherham County,1-0,-
--,-,Leyton Orient,Rotherham County,1-2,-
--,-,Nottingham Forest,Rotherham County,1-0,-
--,-,Notts County,Rotherham County,2-0,-
--,-,Port Vale,Rotherham County,1-0,-
--,-,Sheffield Wednesday,Rotherham County,1-0,-
--,-,South Shields,Rotherham County,2-0,-
--,-,Stoke City,Rotherham County,1-1,-
--,-,West Ham United,Rotherham County,1-2,-
--,-,Wolverhampton Wanderers,Rotherham County,3-1,-
--,-,Barnsley,Sheffield Wednesday,2-0,-
--,-,Blackpool,Sheffield Wednesday,0-2,-
--,-,Bradford Park Avenue,Sheffield Wednesday,2-1,-
--,-,Bristol City,Sheffield Wednesday,3-1,-
--,-,Bury,Sheffield Wednesday,1-2,-
--,-,Coventry City,Sheffield Wednesday,2-2,-
--,-,Crystal Palace,Sheffield Wednesday,2-2,-
--,-,Derby County,Sheffield Wednesday,0-1,-
--,-,Fulham,Sheffield Wednesday,3-1,-
--,-,Hull City,Sheffield Wednesday,0-0,-
--,-,Leeds United,Sheffield Wednesday,1-1,-
--,-,Leicester City,Sheffield Wednesday,1-1,-
--,-,Leyton Orient,Sheffield Wednesday,1-1,-
--,-,Nottingham Forest,Sheffield Wednesday,2-0,-
--,-,Notts County,Sheffield Wednesday,2-0,-
--,-,Port Vale,Sheffield Wednesday,1-0,-
--,-,Rotherham County,Sheffield Wednesday,0-0,-
--,-,South Shields,Sheffield Wednesday,0-0,-
--,-,Stoke City,Sheffield Wednesday,1-1,-
--,-,West Ham United,Sheffield Wednesday,2-0,-
--,-,Wolverhampton Wanderers,Sheffield Wednesday,0-0,-
--,-,Barnsley,South Shields,2-1,-
--,-,Blackpool,South Shields,4-0,-
--,-,Bradford Park Avenue,South Shields,1-0,-
--,-,Bristol City,South Shields,0-1,-
--,-,Bury,South Shields,1-0,-
--,-,Coventry City,South Shields,0-1,-
--,-,Crystal Palace,South Shields,1-2,-
--,-,Derby County,South Shields,0-2,-
--,-,Fulham,South Shields,3-0,-
--,-,Hull City,South Shields,1-1,-
--,-,Leeds United,South Shields,0-0,-
--,-,Leicester City,South Shields,1-0,-
--,-,Leyton Orient,South Shields,0-1,-
--,-,Nottingham Forest,South Shields,1-0,-
--,-,Notts County,South Shields,2-0,-
--,-,Port Vale,South Shields,1-1,-
--,-,Rotherham County,South Shields,1-1,-
--,-,Sheffield Wednesday,South Shields,0-3,-
--,-,Stoke City,South Shields,2-1,-
--,-,West Ham United,South Shields,1-1,-
--,-,Wolverhampton Wanderers,South Shields,3-2,-
--,-,Barnsley,Stoke City,2-2,-
--,-,Blackpool,Stoke City,3-2,-
--,-,Bradford Park Avenue,Stoke City,2-4,-
--,-,Bristol City,Stoke City,2-0,-
--,-,Bury,Stoke City,0-1,-
--,-,Coventry City,Stoke City,0-1,-
--,-,Crystal Palace,Stoke City,0-2,-
--,-,Derby County,Stoke City,2-4,-
--,-,Fulham,Stoke City,2-1,-
--,-,Hull City,Stoke City,7-1,-
--,-,Leeds United,Stoke City,1-2,-
--,-,Leicester City,Stoke City,3-4,-
--,-,Leyton Orient,Stoke City,1-0,-
--,-,Nottingham Forest,Stoke City,3-1,-
--,-,Notts County,Stoke City,0-0,-
--,-,Port Vale,Stoke City,0-1,-
--,-,Rotherham County,Stoke City,0-0,-
--,-,Sheffield Wednesday,Stoke City,0-1,-
--,-,South Shields,Stoke City,1-1,-
--,-,West Ham United,Stoke City,3-0,-
--,-,Wolverhampton Wanderers,Stoke City,1-1,-
--,-,Barnsley,West Ham United,1-1,-
--,-,Blackpool,West Ham United,3-1,-
--,-,Bradford Park Avenue,West Ham United,2-0,-
--,-,Bristol City,West Ham United,0-1,-
--,-,Bury,West Ham United,0-1,-
--,-,Coventry City,West Ham United,2-0,-
--,-,Crystal Palace,West Ham United,1-2,-
--,-,Derby County,West Ham United,3-1,-
--,-,Fulham,West Ham United,2-0,-
--,-,Hull City,West Ham United,0-0,-
--,-,Leeds United,West Ham United,0-0,-
--,-,Leicester City,West Ham United,2-1,-
--,-,Leyton Orient,West Ham United,0-0,-
--,-,Nottingham Forest,West Ham United,2-0,-
--,-,Notts County,West Ham United,1-1,-
--,-,Port Vale,West Ham United,2-1,-
--,-,Rotherham County,West Ham United,0-1,-
--,-,Sheffield Wednesday,West Ham United,2-1,-
--,-,South Shields,West Ham United,1-0,-
--,-,Stoke City,West Ham United,2-0,-
--,-,Wolverhampton Wanderers,West Ham United,0-1,-
--,-,Barnsley,Wolverhampton Wanderers,2-1,-
--,-,Blackpool,Wolverhampton Wanderers,1-3,-
--,-,Bradford Park Avenue,Wolverhampton Wanderers,0-0,-
--,-,Bristol City,Wolverhampton Wanderers,2-0,-
--,-,Bury,Wolverhampton Wanderers,2-1,-
--,-,Coventry City,Wolverhampton Wanderers,3-1,-
--,-,Crystal Palace,Wolverhampton Wanderers,1-1,-
--,-,Derby County,Wolverhampton Wanderers,2-3,-
--,-,Fulham,Wolverhampton Wanderers,1-0,-
--,-,Hull City,Wolverhampton Wanderers,2-0,-
--,-,Leeds United,Wolverhampton Wanderers,0-0,-
--,-,Leicester City,Wolverhampton Wanderers,0-1,-
--,-,Leyton Orient,Wolverhampton Wanderers,1-0,-
--,-,Nottingham Forest,Wolverhampton Wanderers,0-0,-
--,-,Notts County,Wolverhampton Wanderers,4-0,-
--,-,Port Vale,Wolverhampton Wanderers,0-2,-
--,-,Rotherham County,Wolverhampton Wanderers,1-0,-
--,-,Sheffield Wednesday,Wolverhampton Wanderers,3-1,-
--,-,South Shields,Wolverhampton Wanderers,0-2,-
--,-,Stoke City,Wolverhampton Wanderers,3-0,-
--,-,West Ham United,Wolverhampton Wanderers,2-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 11 Feb 1922 (6),Barnsley FC (1),3-2,?,Blackpool FC (1)
+?,(Sat) 25 Feb 1922 (8),Barnsley FC (2),2-0,?,Bradford Park Avenue (1)
+?,(Mon) 26 Dec 1921 (52),Barnsley FC (3),1-1,?,Bristol City FC (1)
+?,(Sat) 24 Sep 1921 (38),Barnsley FC (4),3-0,?,Bury FC (1)
+?,(Sat) 8 Oct 1921 (40),Barnsley FC (5),0-1,?,Coventry City (1)
+?,(Mon) 29 Aug 1921 (35),Barnsley FC (6),3-1,?,Crystal Palace FC (1)
+?,(Sat) 22 Oct 1921 (42),Barnsley FC (7),2-1,?,Derby County (1)
+?,(Mon) 6 Mar 1922 (10),Barnsley FC (8),2-1,?,Fulham FC (1)
+?,(Sat) 15 Apr 1922 (15),Barnsley FC (9),4-1,?,Hull City (1)
+?,(Sat) 1 Apr 1922 (13),Barnsley FC (10),2-2,?,Leeds United (1)
+?,(Sat) 12 Nov 1921 (45),Barnsley FC (11),0-0,?,Leicester City (1)
+?,(Sat) 11 Mar 1922 (10),Barnsley FC (12),4-0,?,Leyton Orient FC (1)
+?,(Fri) 14 Apr 1922 (15),Barnsley FC (13),2-0,?,Nottingham Forest (1)
+?,(Sat) 29 Apr 1922 (17),Barnsley FC (14),3-0,?,Notts County FC (1)
+?,(Sat) 24 Dec 1921 (51),Barnsley FC (15),3-2,?,Port Vale FC (1)
+?,(Sat) 10 Dec 1921 (49),Barnsley FC (16),0-1,?,Rotherham County (1)
+?,(Sat) 3 Sep 1921 (35),Barnsley FC (17),2-0,?,Sheffield Wednesday (1)
+?,(Mon) 27 Feb 1922 (9),Barnsley FC (18),2-1,?,South Shields (1)
+?,(Sat) 18 Mar 1922 (11),Barnsley FC (19),2-2,?,Stoke City (1)
+?,(Sat) 26 Nov 1921 (47),Barnsley FC (20),1-1,?,West Ham United (1)
+?,(Sat) 10 Sep 1921 (36),Barnsley FC (21),2-1,?,Wolverhampton Wanderers (1)
+?,(Sat) 4 Feb 1922 (5),Blackpool FC (2),1-0,?,Barnsley FC (22)
+?,(Sat) 17 Dec 1921 (50),Blackpool FC (3),1-1,?,Bradford Park Avenue (2)
+?,(Sat) 25 Mar 1922 (12),Blackpool FC (4),2-0,?,Bristol City FC (2)
+?,(Mon) 5 Sep 1921 (36),Blackpool FC (5),0-1,?,Bury FC (2)
+?,(Sat) 21 Jan 1922 (3),Blackpool FC (6),2-1,?,Coventry City (2)
+?,(Sat) 29 Oct 1921 (43),Blackpool FC (7),1-3,?,Crystal Palace FC (2)
+?,(Sat) 27 Aug 1921 (34),Blackpool FC (8),4-2,?,Derby County (2)
+?,(Sat) 3 Dec 1921 (48),Blackpool FC (9),0-2,?,Fulham FC (2)
+?,(Sat) 1 Oct 1921 (39),Blackpool FC (10),0-1,?,Hull City (2)
+?,(Sat) 17 Sep 1921 (37),Blackpool FC (11),1-3,?,Leeds United (2)
+?,(Mon) 26 Dec 1921 (52),Blackpool FC (12),2-0,?,Leicester City (2)
+?,(Sat) 14 Jan 1922 (2),Blackpool FC (13),2-0,?,Leyton Orient FC (2)
+?,(Sat) 4 Mar 1922 (9),Blackpool FC (14),2-1,?,Nottingham Forest (2)
+?,(Sat) 15 Oct 1921 (41),Blackpool FC (15),1-2,?,Notts County FC (2)
+?,(Sat) 15 Apr 1922 (15),Blackpool FC (16),0-1,?,Port Vale FC (2)
+?,(Sat) 12 Nov 1921 (45),Blackpool FC (17),3-1,?,Rotherham County (2)
+?,(Sat) 19 Nov 1921 (46),Blackpool FC (18),0-2,?,Sheffield Wednesday (2)
+?,(Sat) 8 Apr 1922 (14),Blackpool FC (19),4-0,?,South Shields (2)
+?,(Fri) 14 Apr 1922 (15),Blackpool FC (20),3-2,?,Stoke City (2)
+?,(Sat) 6 May 1922 (18),Blackpool FC (21),3-1,?,West Ham United (2)
+?,(Sat) 18 Feb 1922 (7),Blackpool FC (22),1-3,?,Wolverhampton Wanderers (2)
+?,(Wed) 22 Mar 1922 (12),Bradford Park Avenue (3),2-3,?,Barnsley FC (23)
+?,(Sat) 24 Dec 1921 (51),Bradford Park Avenue (4),0-0,?,Blackpool FC (23)
+?,(Sat) 8 Apr 1922 (14),Bradford Park Avenue (5),2-1,?,Bristol City FC (3)
+?,(Sat) 10 Sep 1921 (36),Bradford Park Avenue (6),1-1,?,Bury FC (3)
+?,(Wed) 15 Feb 1922 (7),Bradford Park Avenue (7),1-2,?,Coventry City (3)
+?,(Tue) 18 Apr 1922 (16),Bradford Park Avenue (8),0-0,?,Crystal Palace FC (3)
+?,(Sat) 21 Jan 1922 (3),Bradford Park Avenue (9),5-1,?,Derby County (3)
+?,(Sat) 19 Nov 1921 (46),Bradford Park Avenue (10),1-2,?,Fulham FC (3)
+?,(Sat) 10 Dec 1921 (49),Bradford Park Avenue (11),1-1,?,Hull City (3)
+?,(Sat) 12 Nov 1921 (45),Bradford Park Avenue (12),0-1,?,Leeds United (3)
+?,(Sat) 27 Aug 1921 (34),Bradford Park Avenue (13),0-1,?,Leicester City (3)
+?,(Mon) 26 Dec 1921 (52),Bradford Park Avenue (14),3-1,?,Leyton Orient FC (3)
+?,(Sat) 25 Mar 1922 (12),Bradford Park Avenue (15),1-0,?,Nottingham Forest (3)
+?,(Tue) 28 Feb 1922 (9),Bradford Park Avenue (16),2-1,?,Notts County FC (3)
+?,(Sat) 6 May 1922 (18),Bradford Park Avenue (17),2-0,?,Port Vale FC (3)
+?,(Sat) 24 Sep 1921 (38),Bradford Park Avenue (18),4-2,?,Rotherham County (3)
+?,(Sat) 29 Oct 1921 (43),Bradford Park Avenue (19),2-1,?,Sheffield Wednesday (3)
+?,(Sat) 22 Apr 1922 (16),Bradford Park Avenue (20),1-0,?,South Shields (3)
+?,(Sat) 15 Oct 1921 (41),Bradford Park Avenue (21),2-4,?,Stoke City (3)
+?,(Mon) 5 Sep 1921 (36),Bradford Park Avenue (22),2-0,?,West Ham United (3)
+?,(Sat) 4 Mar 1922 (9),Bradford Park Avenue (23),0-0,?,Wolverhampton Wanderers (3)
+?,(Tue) 27 Dec 1921 (52),Bristol City FC (4),3-0,?,Barnsley FC (24)
+?,(Sat) 18 Mar 1922 (11),Bristol City FC (5),0-1,?,Blackpool FC (24)
+?,(Tue) 11 Apr 1922 (15),Bristol City FC (6),1-0,?,Bradford Park Avenue (24)
+?,(Sat) 10 Dec 1921 (49),Bristol City FC (7),2-0,?,Bury FC (4)
+?,(Mon) 17 Apr 1922 (16),Bristol City FC (8),0-2,?,Coventry City (4)
+?,(Wed) 8 Feb 1922 (6),Bristol City FC (9),1-2,?,Crystal Palace FC (4)
+?,(Sat) 17 Sep 1921 (37),Bristol City FC (10),1-2,?,Derby County (4)
+?,(Sat) 11 Mar 1922 (10),Bristol City FC (11),1-0,?,Fulham FC (4)
+?,(Sat) 29 Oct 1921 (43),Bristol City FC (12),1-0,?,Hull City (4)
+?,(Mon) 29 Aug 1921 (35),Bristol City FC (13),0-0,?,Leeds United (4)
+?,(Sat) 1 Oct 1921 (39),Bristol City FC (14),1-1,?,Leicester City (4)
+?,(Sat) 15 Apr 1922 (15),Bristol City FC (15),2-1,?,Leyton Orient FC (4)
+?,(Sat) 24 Dec 1921 (51),Bristol City FC (16),0-1,?,Nottingham Forest (4)
+?,(Sat) 3 Sep 1921 (35),Bristol City FC (17),2-2,?,Notts County FC (4)
+?,(Sat) 5 Nov 1921 (44),Bristol City FC (18),2-1,?,Port Vale FC (4)
+?,(Sat) 11 Feb 1922 (6),Bristol City FC (19),1-2,?,Rotherham County (4)
+?,(Sat) 25 Feb 1922 (8),Bristol City FC (20),3-1,?,Sheffield Wednesday (4)
+?,(Sat) 26 Nov 1921 (47),Bristol City FC (21),0-1,?,South Shields (4)
+?,(Sat) 29 Apr 1922 (17),Bristol City FC (22),2-0,?,Stoke City (4)
+?,(Sat) 15 Oct 1921 (41),Bristol City FC (23),0-1,?,West Ham United (4)
+?,(Sat) 31 Dec 1921 (52),Bristol City FC (24),2-0,?,Wolverhampton Wanderers (4)
+?,(Sat) 1 Oct 1921 (39),Bury FC (5),1-2,?,Barnsley FC (25)
+?,(Wed) 31 Aug 1921 (35),Bury FC (6),3-0,?,Blackpool FC (25)
+?,(Sat) 17 Sep 1921 (37),Bury FC (7),2-2,?,Bradford Park Avenue (25)
+?,(Sat) 3 Dec 1921 (48),Bury FC (8),5-0,?,Bristol City FC (25)
+?,(Sat) 22 Oct 1921 (42),Bury FC (9),3-2,?,Coventry City (5)
+?,(Sat) 18 Mar 1922 (11),Bury FC (10),1-2,?,Crystal Palace FC (5)
+?,(Sat) 26 Nov 1921 (47),Bury FC (11),2-0,?,Derby County (5)
+?,(Sat) 29 Apr 1922 (17),Bury FC (12),1-0,?,Fulham FC (5)
+?,(Sat) 25 Feb 1922 (8),Bury FC (13),4-0,?,Hull City (5)
+?,(Sat) 11 Feb 1922 (6),Bury FC (14),2-1,?,Leeds United (5)
+?,(Sat) 17 Dec 1921 (50),Bury FC (15),0-1,?,Leicester City (5)
+?,(Sat) 3 Sep 1921 (35),Bury FC (16),0-0,?,Leyton Orient FC (5)
+?,(Sat) 31 Dec 1921 (52),Bury FC (17),1-2,?,Nottingham Forest (5)
+?,(Sat) 11 Mar 1922 (10),Bury FC (18),1-0,?,Notts County FC (5)
+?,(Sat) 8 Oct 1921 (40),Bury FC (19),5-2,?,Port Vale FC (5)
+?,(Sat) 1 Apr 1922 (13),Bury FC (20),0-0,?,Rotherham County (5)
+?,(Sat) 15 Apr 1922 (15),Bury FC (21),1-2,?,Sheffield Wednesday (5)
+?,(Sat) 5 Nov 1921 (44),Bury FC (22),1-0,?,South Shields (5)
+?,(Wed) 8 Feb 1922 (6),Bury FC (23),0-1,?,Stoke City (5)
+?,(Mon) 26 Dec 1921 (52),Bury FC (24),0-1,?,West Ham United (5)
+?,(Fri) 14 Apr 1922 (15),Bury FC (25),2-1,?,Wolverhampton Wanderers (5)
+?,(Sat) 15 Oct 1921 (41),Coventry City (6),0-1,?,Barnsley FC (26)
+?,(Sat) 28 Jan 1922 (4),Coventry City (7),0-1,?,Blackpool FC (26)
+?,(Sat) 11 Feb 1922 (6),Coventry City (8),2-2,?,Bradford Park Avenue (26)
+?,(Tue) 18 Apr 1922 (16),Coventry City (9),1-1,?,Bristol City FC (26)
+?,(Sat) 29 Oct 1921 (43),Coventry City (10),1-2,?,Bury FC (26)
+?,(Sat) 29 Apr 1922 (17),Coventry City (11),1-1,?,Crystal Palace FC (6)
+?,(Thu) 17 Nov 1921 (46),Coventry City (12),1-2,?,Derby County (6)
+?,(Sat) 3 Sep 1921 (35),Coventry City (13),2-0,?,Fulham FC (6)
+?,(Sat) 1 Apr 1922 (13),Coventry City (14),2-0,?,Hull City (6)
+?,(Sat) 18 Mar 1922 (11),Coventry City (15),1-0,?,Leeds United (6)
+?,(Sat) 19 Nov 1921 (46),Coventry City (16),0-0,?,Leicester City (6)
+?,(Sat) 25 Feb 1922 (8),Coventry City (17),1-2,?,Leyton Orient FC (6)
+?,(Sat) 10 Sep 1921 (36),Coventry City (18),0-1,?,Nottingham Forest (6)
+?,(Sat) 22 Apr 1922 (16),Coventry City (19),4-2,?,Notts County FC (6)
+?,(Sat) 31 Dec 1921 (52),Coventry City (20),4-1,?,Port Vale FC (6)
+?,(Mon) 29 Aug 1921 (35),Coventry City (21),4-0,?,Rotherham County (6)
+?,(Sat) 24 Dec 1921 (51),Coventry City (22),2-2,?,Sheffield Wednesday (6)
+?,(Mon) 26 Dec 1921 (52),Coventry City (23),0-1,?,South Shields (6)
+?,(Sat) 11 Mar 1922 (10),Coventry City (24),0-1,?,Stoke City (6)
+?,(Mon) 3 Oct 1921 (40),Coventry City (25),2-0,?,West Ham United (6)
+?,(Sat) 24 Sep 1921 (38),Coventry City (26),3-1,?,Wolverhampton Wanderers (6)
+?,(Wed) 7 Sep 1921 (36),Crystal Palace FC (7),0-1,?,Barnsley FC (27)
+?,(Sat) 22 Oct 1921 (42),Crystal Palace FC (8),1-0,?,Blackpool FC (27)
+?,(Mon) 17 Apr 1922 (16),Crystal Palace FC (9),1-1,?,Bradford Park Avenue (27)
+?,(Sat) 21 Jan 1922 (3),Crystal Palace FC (10),1-1,?,Bristol City FC (27)
+?,(Sat) 25 Mar 1922 (12),Crystal Palace FC (11),4-1,?,Bury FC (27)
+?,(Sat) 6 May 1922 (18),Crystal Palace FC (12),1-1,?,Coventry City (27)
+?,(Sat) 22 Apr 1922 (16),Crystal Palace FC (13),3-1,?,Derby County (7)
+?,(Sat) 8 Oct 1921 (40),Crystal Palace FC (14),2-0,?,Fulham FC (7)
+?,(Sat) 14 Jan 1922 (2),Crystal Palace FC (15),0-2,?,Hull City (7)
+?,(Sat) 24 Dec 1921 (51),Crystal Palace FC (16),1-2,?,Leeds United (7)
+?,(Sat) 8 Apr 1922 (14),Crystal Palace FC (17),1-0,?,Leicester City (7)
+?,(Sat) 5 Nov 1921 (44),Crystal Palace FC (18),1-0,?,Leyton Orient FC (7)
+?,(Sat) 27 Aug 1921 (34),Crystal Palace FC (19),4-1,?,Nottingham Forest (7)
+?,(Mon) 26 Dec 1921 (52),Crystal Palace FC (20),1-0,?,Notts County FC (7)
+?,(Sat) 18 Feb 1922 (7),Crystal Palace FC (21),0-0,?,Port Vale FC (7)
+?,(Sat) 10 Sep 1921 (36),Crystal Palace FC (22),2-0,?,Rotherham County (7)
+?,(Sat) 24 Sep 1921 (38),Crystal Palace FC (23),2-2,?,Sheffield Wednesday (7)
+?,(Sat) 4 Feb 1922 (5),Crystal Palace FC (24),1-2,?,South Shields (7)
+?,(Sat) 10 Dec 1921 (49),Crystal Palace FC (25),0-2,?,Stoke City (7)
+?,(Sat) 4 Mar 1922 (9),Crystal Palace FC (26),1-2,?,West Ham United (7)
+?,(Wed) 7 Dec 1921 (49),Crystal Palace FC (27),1-1,?,Wolverhampton Wanderers (7)
+?,(Sat) 29 Oct 1921 (43),Derby County (8),1-0,?,Barnsley FC (28)
+?,(Sat) 3 Sep 1921 (35),Derby County (9),1-0,?,Blackpool FC (28)
+?,(Sat) 18 Feb 1922 (7),Derby County (10),1-3,?,Bradford Park Avenue (28)
+?,(Sat) 10 Sep 1921 (36),Derby County (11),5-1,?,Bristol City FC (28)
+?,(Sat) 19 Nov 1921 (46),Derby County (12),1-0,?,Bury FC (28)
+?,(Sat) 5 Nov 1921 (44),Derby County (13),1-0,?,Coventry City (28)
+?,(Sat) 15 Apr 1922 (15),Derby County (14),2-0,?,Crystal Palace FC (28)
+?,(Sat) 31 Dec 1921 (52),Derby County (15),1-1,?,Fulham FC (8)
+?,(Sat) 18 Mar 1922 (11),Derby County (16),0-0,?,Hull City (8)
+?,(Sat) 11 Mar 1922 (10),Derby County (17),2-0,?,Leeds United (8)
+?,(Sat) 3 Dec 1921 (48),Derby County (18),0-1,?,Leicester City (8)
+?,(Sat) 11 Feb 1922 (6),Derby County (19),3-0,?,Leyton Orient FC (8)
+?,(Sat) 24 Sep 1921 (38),Derby County (20),1-2,?,Nottingham Forest (8)
+?,(Sat) 1 Apr 1922 (13),Derby County (21),1-1,?,Notts County FC (8)
+?,(Tue) 27 Dec 1921 (52),Derby County (22),3-2,?,Port Vale FC (8)
+?,(Sat) 29 Apr 1922 (17),Derby County (23),4-0,?,Rotherham County (8)
+?,(Mon) 29 Aug 1921 (35),Derby County (24),0-1,?,Sheffield Wednesday (8)
+?,(Mon) 17 Apr 1922 (16),Derby County (25),0-2,?,South Shields (8)
+?,(Sat) 25 Feb 1922 (8),Derby County (26),2-4,?,Stoke City (8)
+?,(Sat) 24 Dec 1921 (51),Derby County (27),3-1,?,West Ham United (8)
+?,(Sat) 8 Oct 1921 (40),Derby County (28),2-3,?,Wolverhampton Wanderers (8)
+?,(Sat) 21 Jan 1922 (3),Fulham FC (9),0-0,?,Barnsley FC (29)
+?,(Sat) 10 Dec 1921 (49),Fulham FC (10),1-0,?,Blackpool FC (29)
+?,(Sat) 26 Nov 1921 (47),Fulham FC (11),2-1,?,Bradford Park Avenue (29)
+?,(Sat) 4 Mar 1922 (9),Fulham FC (12),0-0,?,Bristol City FC (29)
+?,(Sat) 6 May 1922 (18),Fulham FC (13),0-1,?,Bury FC (29)
+?,(Sat) 27 Aug 1921 (34),Fulham FC (14),5-0,?,Coventry City (29)
+?,(Sat) 15 Oct 1921 (41),Fulham FC (15),1-1,?,Crystal Palace FC (29)
+?,(Sat) 14 Jan 1922 (2),Fulham FC (16),2-2,?,Derby County (29)
+?,(Sat) 17 Sep 1921 (37),Fulham FC (17),6-0,?,Hull City (9)
+?,(Mon) 17 Apr 1922 (16),Fulham FC (18),0-1,?,Leeds United (9)
+?,(Mon) 5 Sep 1921 (36),Fulham FC (19),0-0,?,Leicester City (9)
+?,(Sat) 17 Dec 1921 (50),Fulham FC (20),2-0,?,Leyton Orient FC (9)
+?,(Tue) 28 Feb 1922 (9),Fulham FC (21),2-0,?,Nottingham Forest (9)
+?,(Sat) 1 Oct 1921 (39),Fulham FC (22),4-0,?,Notts County FC (9)
+?,(Sat) 8 Apr 1922 (14),Fulham FC (23),1-0,?,Port Vale FC (9)
+?,(Sat) 22 Oct 1921 (42),Fulham FC (24),4-0,?,Rotherham County (9)
+?,(Sat) 12 Nov 1921 (45),Fulham FC (25),3-1,?,Sheffield Wednesday (9)
+?,(Sat) 25 Mar 1922 (12),Fulham FC (26),3-0,?,South Shields (9)
+?,(Mon) 26 Dec 1921 (52),Fulham FC (27),2-1,?,Stoke City (9)
+?,(Sat) 22 Apr 1922 (16),Fulham FC (28),2-0,?,West Ham United (9)
+?,(Sat) 4 Feb 1922 (5),Fulham FC (29),1-0,?,Wolverhampton Wanderers (9)
+?,(Sat) 22 Apr 1922 (16),Hull City (10),1-3,?,Barnsley FC (30)
+?,(Sat) 24 Sep 1921 (38),Hull City (11),2-0,?,Blackpool FC (30)
+?,(Sat) 3 Dec 1921 (48),Hull City (12),3-0,?,Bradford Park Avenue (30)
+?,(Sat) 22 Oct 1921 (42),Hull City (13),1-0,?,Bristol City FC (30)
+?,(Sat) 18 Feb 1922 (7),Hull City (14),1-1,?,Bury FC (30)
+?,(Sat) 8 Apr 1922 (14),Hull City (15),2-0,?,Coventry City (30)
+?,(Sat) 31 Dec 1921 (52),Hull City (16),1-0,?,Crystal Palace FC (30)
+?,(Sat) 25 Mar 1922 (12),Hull City (17),1-1,?,Derby County (30)
+?,(Sat) 10 Sep 1921 (36),Hull City (18),2-1,?,Fulham FC (30)
+?,(Sat) 19 Nov 1921 (46),Hull City (19),1-0,?,Leeds United (10)
+?,(Sat) 4 Mar 1922 (9),Hull City (20),5-2,?,Leicester City (10)
+?,(Sat) 8 Oct 1921 (40),Hull City (21),2-1,?,Leyton Orient FC (10)
+?,(Mon) 5 Sep 1921 (36),Hull City (22),0-1,?,Nottingham Forest (10)
+?,(Sat) 17 Dec 1921 (50),Hull City (23),2-0,?,Notts County FC (10)
+?,(Sat) 21 Jan 1922 (3),Hull City (24),2-0,?,Port Vale FC (10)
+?,(Mon) 26 Dec 1921 (52),Hull City (25),0-1,?,Rotherham County (10)
+?,(Fri) 14 Apr 1922 (15),Hull City (26),0-0,?,Sheffield Wednesday (10)
+?,(Sat) 27 Aug 1921 (34),Hull City (27),1-1,?,South Shields (10)
+?,(Sat) 12 Nov 1921 (45),Hull City (28),7-1,?,Stoke City (10)
+?,(Sat) 4 Feb 1922 (5),Hull City (29),0-0,?,West Ham United (10)
+?,(Sat) 6 May 1922 (18),Hull City (30),2-0,?,Wolverhampton Wanderers (10)
+?,(Sat) 8 Apr 1922 (14),Leeds United (11),4-0,?,Barnsley FC (31)
+?,(Sat) 10 Sep 1921 (36),Leeds United (12),0-0,?,Blackpool FC (31)
+?,(Sat) 5 Nov 1921 (44),Leeds United (13),3-0,?,Bradford Park Avenue (31)
+?,(Mon) 5 Sep 1921 (36),Leeds United (14),3-0,?,Bristol City FC (31)
+?,(Sat) 4 Feb 1922 (5),Leeds United (15),2-0,?,Bury FC (31)
+?,(Sat) 25 Mar 1922 (12),Leeds United (16),5-2,?,Coventry City (31)
+?,(Sat) 17 Dec 1921 (50),Leeds United (17),0-0,?,Crystal Palace FC (31)
+?,(Sat) 4 Mar 1922 (9),Leeds United (18),2-1,?,Derby County (31)
+?,(Fri) 14 Apr 1922 (15),Leeds United (19),2-0,?,Fulham FC (31)
+?,(Sat) 26 Nov 1921 (47),Leeds United (20),0-2,?,Hull City (31)
+?,(Mon) 20 Feb 1922 (8),Leeds United (21),3-0,?,Leicester City (11)
+?,(Sat) 24 Sep 1921 (38),Leeds United (22),2-0,?,Leyton Orient FC (11)
+?,(Sat) 6 May 1922 (18),Leeds United (23),0-0,?,Nottingham Forest (11)
+?,(Sat) 10 Dec 1921 (49),Leeds United (24),1-1,?,Notts County FC (11)
+?,(Sat) 27 Aug 1921 (34),Leeds United (25),2-1,?,Port Vale FC (11)
+?,(Sat) 31 Dec 1921 (52),Leeds United (26),0-2,?,Rotherham County (11)
+?,(Mon) 26 Dec 1921 (52),Leeds United (27),1-1,?,Sheffield Wednesday (11)
+?,(Sat) 8 Oct 1921 (40),Leeds United (28),0-0,?,South Shields (11)
+?,(Sat) 22 Oct 1921 (42),Leeds United (29),1-2,?,Stoke City (11)
+?,(Sat) 21 Jan 1922 (3),Leeds United (30),0-0,?,West Ham United (11)
+?,(Sat) 22 Apr 1922 (16),Leeds United (31),0-0,?,Wolverhampton Wanderers (11)
+?,(Sat) 5 Nov 1921 (44),Leicester City (12),1-0,?,Barnsley FC (32)
+?,(Tue) 27 Dec 1921 (52),Leicester City (13),1-0,?,Blackpool FC (32)
+?,(Sat) 3 Sep 1921 (35),Leicester City (14),2-1,?,Bradford Park Avenue (32)
+?,(Sat) 24 Sep 1921 (38),Leicester City (15),4-1,?,Bristol City FC (32)
+?,(Sat) 24 Dec 1921 (51),Leicester City (16),0-0,?,Bury FC (32)
+?,(Sat) 26 Nov 1921 (47),Leicester City (17),1-1,?,Coventry City (32)
+?,(Sat) 1 Apr 1922 (13),Leicester City (18),2-0,?,Crystal Palace FC (32)
+?,(Sat) 10 Dec 1921 (49),Leicester City (19),1-1,?,Derby County (32)
+?,(Mon) 29 Aug 1921 (35),Leicester City (20),1-2,?,Fulham FC (32)
+?,(Sat) 11 Mar 1922 (10),Leicester City (21),0-1,?,Hull City (32)
+?,(Sat) 25 Feb 1922 (8),Leicester City (22),0-0,?,Leeds United (32)
+?,(Thu) 9 Feb 1922 (6),Leicester City (23),1-0,?,Leyton Orient FC (12)
+?,(Sat) 8 Oct 1921 (40),Leicester City (24),2-2,?,Nottingham Forest (12)
+?,(Sat) 18 Mar 1922 (11),Leicester City (25),3-0,?,Notts County FC (12)
+?,(Mon) 17 Apr 1922 (16),Leicester City (26),3-0,?,Port Vale FC (12)
+?,(Sat) 15 Apr 1922 (15),Leicester City (27),1-0,?,Rotherham County (12)
+?,(Sat) 29 Apr 1922 (17),Leicester City (28),1-1,?,Sheffield Wednesday (12)
+?,(Sat) 10 Sep 1921 (36),Leicester City (29),1-0,?,South Shields (12)
+?,(Sat) 11 Feb 1922 (6),Leicester City (30),3-4,?,Stoke City (12)
+?,(Sat) 14 Jan 1922 (2),Leicester City (31),2-1,?,West Ham United (12)
+?,(Sat) 22 Oct 1921 (42),Leicester City (32),0-1,?,Wolverhampton Wanderers (12)
+?,(Sat) 4 Mar 1922 (9),Leyton Orient FC (13),2-1,?,Barnsley FC (33)
+?,(Sat) 31 Dec 1921 (52),Leyton Orient FC (14),3-0,?,Blackpool FC (33)
+?,(Tue) 27 Dec 1921 (52),Leyton Orient FC (15),1-0,?,Bradford Park Avenue (33)
+?,(Sat) 22 Apr 1922 (16),Leyton Orient FC (16),0-1,?,Bristol City FC (33)
+?,(Sat) 27 Aug 1921 (34),Leyton Orient FC (17),3-1,?,Bury FC (33)
+?,(Sat) 18 Feb 1922 (7),Leyton Orient FC (18),4-0,?,Coventry City (33)
+?,(Sat) 12 Nov 1921 (45),Leyton Orient FC (19),0-0,?,Crystal Palace FC (33)
+?,(Sat) 4 Feb 1922 (5),Leyton Orient FC (20),3-2,?,Derby County (33)
+?,(Sat) 24 Dec 1921 (51),Leyton Orient FC (21),4-2,?,Fulham FC (33)
+?,(Sat) 15 Oct 1921 (41),Leyton Orient FC (22),0-2,?,Hull City (33)
+?,(Sat) 1 Oct 1921 (39),Leyton Orient FC (23),4-2,?,Leeds United (33)
+?,(Sat) 21 Jan 1922 (3),Leyton Orient FC (24),0-0,?,Leicester City (33)
+?,(Sat) 8 Apr 1922 (14),Leyton Orient FC (25),1-2,?,Nottingham Forest (13)
+?,(Sat) 29 Oct 1921 (43),Leyton Orient FC (26),2-1,?,Notts County FC (13)
+?,(Mon) 12 Sep 1921 (37),Leyton Orient FC (27),2-0,?,Port Vale FC (13)
+?,(Sat) 19 Nov 1921 (46),Leyton Orient FC (28),1-2,?,Rotherham County (13)
+?,(Sat) 10 Dec 1921 (49),Leyton Orient FC (29),1-1,?,Sheffield Wednesday (13)
+?,(Sat) 6 May 1922 (18),Leyton Orient FC (30),0-1,?,South Shields (13)
+?,(Sat) 17 Sep 1921 (37),Leyton Orient FC (31),1-0,?,Stoke City (13)
+?,(Mon) 17 Apr 1922 (16),Leyton Orient FC (32),0-0,?,West Ham United (13)
+?,(Sat) 25 Mar 1922 (12),Leyton Orient FC (33),1-0,?,Wolverhampton Wanderers (13)
+?,(Mon) 17 Apr 1922 (16),Nottingham Forest (14),1-1,?,Barnsley FC (34)
+?,(Sat) 11 Mar 1922 (10),Nottingham Forest (15),0-0,?,Blackpool FC (34)
+?,(Sat) 18 Mar 1922 (11),Nottingham Forest (16),4-1,?,Bradford Park Avenue (34)
+?,(Sat) 17 Dec 1921 (50),Nottingham Forest (17),1-0,?,Bristol City FC (34)
+?,(Sat) 14 Jan 1922 (2),Nottingham Forest (18),1-2,?,Bury FC (34)
+?,(Sat) 17 Sep 1921 (37),Nottingham Forest (19),1-0,?,Coventry City (34)
+?,(Sat) 3 Sep 1921 (35),Nottingham Forest (20),2-1,?,Crystal Palace FC (34)
+?,(Sat) 1 Oct 1921 (39),Nottingham Forest (21),3-0,?,Derby County (34)
+?,(Sat) 25 Feb 1922 (8),Nottingham Forest (22),0-0,?,Fulham FC (34)
+?,(Mon) 29 Aug 1921 (35),Nottingham Forest (23),3-2,?,Hull City (34)
+?,(Sat) 29 Apr 1922 (17),Nottingham Forest (24),1-0,?,Leeds United (34)
+?,(Sat) 15 Oct 1921 (41),Nottingham Forest (25),0-0,?,Leicester City (34)
+?,(Sat) 1 Apr 1922 (13),Nottingham Forest (26),2-0,?,Leyton Orient FC (34)
+?,(Mon) 14 Nov 1921 (46),Nottingham Forest (27),0-0,?,Notts County FC (14)
+?,(Sat) 19 Nov 1921 (46),Nottingham Forest (28),1-1,?,Port Vale FC (14)
+?,(Wed) 8 Feb 1922 (6),Nottingham Forest (29),1-0,?,Rotherham County (14)
+?,(Sat) 11 Feb 1922 (6),Nottingham Forest (30),2-0,?,Sheffield Wednesday (14)
+?,(Sat) 10 Dec 1921 (49),Nottingham Forest (31),1-0,?,South Shields (14)
+?,(Sat) 22 Apr 1922 (16),Nottingham Forest (32),3-1,?,Stoke City (14)
+?,(Sat) 29 Oct 1921 (43),Nottingham Forest (33),2-0,?,West Ham United (14)
+?,(Mon) 26 Dec 1921 (52),Nottingham Forest (34),0-0,?,Wolverhampton Wanderers (14)
+?,(Thu) 6 Oct 1921 (40),Notts County FC (15),1-4,?,Barnsley FC (35)
+?,(Sat) 8 Oct 1921 (40),Notts County FC (16),2-1,?,Blackpool FC (35)
+?,(Sat) 31 Dec 1921 (52),Notts County FC (17),3-0,?,Bradford Park Avenue (35)
+?,(Sat) 27 Aug 1921 (34),Notts County FC (18),0-2,?,Bristol City FC (35)
+?,(Wed) 5 Apr 1922 (14),Notts County FC (19),1-1,?,Bury FC (35)
+?,(Sat) 15 Apr 1922 (15),Notts County FC (20),1-1,?,Coventry City (35)
+?,(Tue) 27 Dec 1921 (52),Notts County FC (21),3-2,?,Crystal Palace FC (35)
+?,(Sat) 8 Apr 1922 (14),Notts County FC (22),1-2,?,Derby County (35)
+?,(Sat) 24 Sep 1921 (38),Notts County FC (23),3-0,?,Fulham FC (35)
+?,(Sat) 24 Dec 1921 (51),Notts County FC (24),2-0,?,Hull City (35)
+?,(Sat) 3 Dec 1921 (48),Notts County FC (25),4-1,?,Leeds United (35)
+?,(Wed) 26 Apr 1922 (17),Notts County FC (26),0-0,?,Leicester City (35)
+?,(Sat) 22 Oct 1921 (42),Notts County FC (27),0-0,?,Leyton Orient FC (35)
+?,(Sat) 5 Nov 1921 (44),Notts County FC (28),1-1,?,Nottingham Forest (35)
+?,(Sat) 4 Feb 1922 (5),Notts County FC (29),1-2,?,Port Vale FC (15)
+?,(Fri) 14 Apr 1922 (15),Notts County FC (30),2-0,?,Rotherham County (15)
+?,(Sat) 10 Sep 1921 (36),Notts County FC (31),2-0,?,Sheffield Wednesday (15)
+?,(Sat) 21 Jan 1922 (3),Notts County FC (32),2-0,?,South Shields (15)
+?,(Sat) 26 Nov 1921 (47),Notts County FC (33),0-0,?,Stoke City (15)
+?,(Wed) 29 Mar 1922 (13),Notts County FC (34),1-1,?,West Ham United (15)
+?,(Mon) 5 Sep 1921 (36),Notts County FC (35),4-0,?,Wolverhampton Wanderers (15)
+?,(Sat) 17 Dec 1921 (50),Port Vale FC (16),2-3,?,Barnsley FC (36)
+?,(Sat) 22 Apr 1922 (16),Port Vale FC (17),1-0,?,Blackpool FC (36)
+?,(Sat) 29 Apr 1922 (17),Port Vale FC (18),1-0,?,Bradford Park Avenue (36)
+?,(Sat) 12 Nov 1921 (45),Port Vale FC (19),3-1,?,Bristol City FC (36)
+?,(Sat) 15 Oct 1921 (41),Port Vale FC (20),5-2,?,Bury FC (36)
+?,(Mon) 30 Jan 1922 (5),Port Vale FC (21),1-2,?,Coventry City (36)
+?,(Sat) 25 Feb 1922 (8),Port Vale FC (22),3-0,?,Crystal Palace FC (36)
+?,(Mon) 26 Dec 1921 (52),Port Vale FC (23),1-1,?,Derby County (36)
+?,(Sat) 1 Apr 1922 (13),Port Vale FC (24),1-1,?,Fulham FC (36)
+?,(Mon) 13 Feb 1922 (7),Port Vale FC (25),1-0,?,Hull City (36)
+?,(Sat) 3 Sep 1921 (35),Port Vale FC (26),0-1,?,Leeds United (36)
+?,(Fri) 14 Apr 1922 (15),Port Vale FC (27),1-1,?,Leicester City (36)
+?,(Mon) 29 Aug 1921 (35),Port Vale FC (28),3-0,?,Leyton Orient FC (36)
+?,(Sat) 26 Nov 1921 (47),Port Vale FC (29),0-2,?,Nottingham Forest (36)
+?,(Sat) 11 Feb 1922 (6),Port Vale FC (30),0-0,?,Notts County FC (36)
+?,(Sat) 11 Mar 1922 (10),Port Vale FC (31),1-0,?,Rotherham County (16)
+?,(Sat) 18 Mar 1922 (11),Port Vale FC (32),1-0,?,Sheffield Wednesday (16)
+?,(Sat) 22 Oct 1921 (42),Port Vale FC (33),1-1,?,South Shields (16)
+?,(Sat) 1 Oct 1921 (39),Port Vale FC (34),0-1,?,Stoke City (16)
+?,(Sat) 17 Sep 1921 (37),Port Vale FC (35),2-1,?,West Ham United (16)
+?,(Sat) 10 Dec 1921 (49),Port Vale FC (36),0-2,?,Wolverhampton Wanderers (16)
+?,(Mon) 7 Nov 1921 (45),Rotherham County (17),0-0,?,Barnsley FC (37)
+?,(Sat) 5 Nov 1921 (44),Rotherham County (18),0-1,?,Blackpool FC (37)
+?,(Sat) 1 Oct 1921 (39),Rotherham County (19),2-0,?,Bradford Park Avenue (37)
+?,(Mon) 20 Feb 1922 (8),Rotherham County (20),0-0,?,Bristol City FC (37)
+?,(Sat) 8 Apr 1922 (14),Rotherham County (21),1-1,?,Bury FC (37)
+?,(Mon) 5 Sep 1921 (36),Rotherham County (22),0-0,?,Coventry City (37)
+?,(Sat) 17 Sep 1921 (37),Rotherham County (23),1-1,?,Crystal Palace FC (37)
+?,(Sat) 6 May 1922 (18),Rotherham County (24),2-0,?,Derby County (37)
+?,(Sat) 29 Oct 1921 (43),Rotherham County (25),1-0,?,Fulham FC (37)
+?,(Tue) 27 Dec 1921 (52),Rotherham County (26),2-0,?,Hull City (37)
+?,(Sat) 14 Jan 1922 (2),Rotherham County (27),1-0,?,Leeds United (37)
+?,(Sat) 22 Apr 1922 (16),Rotherham County (28),0-0,?,Leicester City (37)
+?,(Sat) 26 Nov 1921 (47),Rotherham County (29),2-0,?,Leyton Orient FC (37)
+?,(Sat) 21 Jan 1922 (3),Rotherham County (30),0-1,?,Nottingham Forest (37)
+?,(Mon) 17 Apr 1922 (16),Rotherham County (31),3-0,?,Notts County FC (37)
+?,(Sat) 4 Mar 1922 (9),Rotherham County (32),0-1,?,Port Vale FC (37)
+?,(Sat) 15 Oct 1921 (41),Rotherham County (33),0-0,?,Sheffield Wednesday (17)
+?,(Sat) 18 Feb 1922 (7),Rotherham County (34),1-1,?,South Shields (17)
+?,(Sat) 17 Dec 1921 (50),Rotherham County (35),0-0,?,Stoke City (17)
+?,(Sat) 25 Mar 1922 (12),Rotherham County (36),0-1,?,West Ham United (17)
+?,(Sat) 27 Aug 1921 (34),Rotherham County (37),1-0,?,Wolverhampton Wanderers (17)
+?,(Sat) 27 Aug 1921 (34),Sheffield Wednesday (18),2-3,?,Barnsley FC (38)
+?,(Sat) 26 Nov 1921 (47),Sheffield Wednesday (19),5-1,?,Blackpool FC (38)
+?,(Sat) 22 Oct 1921 (42),Sheffield Wednesday (20),2-1,?,Bradford Park Avenue (38)
+?,(Sat) 18 Feb 1922 (7),Sheffield Wednesday (21),1-0,?,Bristol City FC (38)
+?,(Sat) 22 Apr 1922 (16),Sheffield Wednesday (22),4-1,?,Bury FC (38)
+?,(Mon) 13 Mar 1922 (11),Sheffield Wednesday (23),3-2,?,Coventry City (38)
+?,(Sat) 1 Oct 1921 (39),Sheffield Wednesday (24),1-0,?,Crystal Palace FC (38)
+?,(Mon) 5 Sep 1921 (36),Sheffield Wednesday (25),1-1,?,Derby County (38)
+?,(Sat) 5 Nov 1921 (44),Sheffield Wednesday (26),1-4,?,Fulham FC (38)
+?,(Mon) 17 Apr 1922 (16),Sheffield Wednesday (27),0-0,?,Hull City (38)
+?,(Tue) 27 Dec 1921 (52),Sheffield Wednesday (28),2-1,?,Leeds United (38)
+?,(Sat) 6 May 1922 (18),Sheffield Wednesday (29),1-0,?,Leicester City (38)
+?,(Sat) 3 Dec 1921 (48),Sheffield Wednesday (30),0-0,?,Leyton Orient FC (38)
+?,(Sat) 4 Feb 1922 (5),Sheffield Wednesday (31),0-4,?,Nottingham Forest (38)
+?,(Sat) 17 Sep 1921 (37),Sheffield Wednesday (32),0-0,?,Notts County FC (38)
+?,(Mon) 3 Apr 1922 (14),Sheffield Wednesday (33),2-0,?,Port Vale FC (38)
+?,(Sat) 8 Oct 1921 (40),Sheffield Wednesday (34),1-0,?,Rotherham County (38)
+?,(Sat) 4 Mar 1922 (9),Sheffield Wednesday (35),0-3,?,South Shields (18)
+?,(Sat) 14 Jan 1922 (2),Sheffield Wednesday (36),0-1,?,Stoke City (18)
+?,(Sat) 8 Apr 1922 (14),Sheffield Wednesday (37),2-1,?,West Ham United (18)
+?,(Mon) 13 Feb 1922 (7),Sheffield Wednesday (38),3-1,?,Wolverhampton Wanderers (18)
+?,(Sat) 31 Dec 1921 (52),South Shields (19),5-2,?,Barnsley FC (39)
+?,(Sat) 1 Apr 1922 (13),South Shields (20),2-1,?,Blackpool FC (39)
+?,(Sat) 15 Apr 1922 (15),South Shields (21),1-0,?,Bradford Park Avenue (39)
+?,(Sat) 19 Nov 1921 (46),South Shields (22),2-0,?,Bristol City FC (39)
+?,(Sat) 12 Nov 1921 (45),South Shields (23),1-1,?,Bury FC (39)
+?,(Mon) 2 Jan 1922 (1),South Shields (24),2-1,?,Coventry City (39)
+?,(Sat) 11 Feb 1922 (6),South Shields (25),1-1,?,Crystal Palace FC (39)
+?,(Fri) 14 Apr 1922 (15),South Shields (26),3-1,?,Derby County (39)
+?,(Sat) 18 Mar 1922 (11),South Shields (27),1-0,?,Fulham FC (39)
+?,(Sat) 3 Sep 1921 (35),South Shields (28),1-0,?,Hull City (39)
+?,(Sat) 15 Oct 1921 (41),South Shields (29),0-1,?,Leeds United (39)
+?,(Sat) 17 Sep 1921 (37),South Shields (30),1-0,?,Leicester City (39)
+?,(Sat) 29 Apr 1922 (17),South Shields (31),1-1,?,Leyton Orient FC (39)
+?,(Sat) 3 Dec 1921 (48),South Shields (32),0-0,?,Nottingham Forest (39)
+?,(Wed) 15 Mar 1922 (11),South Shields (33),0-0,?,Notts County FC (39)
+?,(Sat) 29 Oct 1921 (43),South Shields (34),0-1,?,Port Vale FC (39)
+?,(Sat) 28 Jan 1922 (4),South Shields (35),2-0,?,Rotherham County (39)
+?,(Sat) 11 Mar 1922 (10),South Shields (36),0-0,?,Sheffield Wednesday (39)
+?,(Mon) 29 Aug 1921 (35),South Shields (37),1-1,?,Stoke City (19)
+?,(Sat) 1 Oct 1921 (39),South Shields (38),1-0,?,West Ham United (19)
+?,(Sat) 17 Dec 1921 (50),South Shields (39),0-2,?,Wolverhampton Wanderers (19)
+?,(Sat) 25 Mar 1922 (12),Stoke City (20),1-0,?,Barnsley FC (40)
+?,(Mon) 17 Apr 1922 (16),Stoke City (21),1-1,?,Blackpool FC (40)
+?,(Sat) 8 Oct 1921 (40),Stoke City (22),0-1,?,Bradford Park Avenue (40)
+?,(Sat) 6 May 1922 (18),Stoke City (23),3-0,?,Bristol City FC (40)
+?,(Sat) 21 Jan 1922 (3),Stoke City (24),1-0,?,Bury FC (40)
+?,(Sat) 4 Mar 1922 (9),Stoke City (25),2-2,?,Coventry City (40)
+?,(Sat) 3 Dec 1921 (48),Stoke City (26),5-1,?,Crystal Palace FC (40)
+?,(Mon) 6 Mar 1922 (10),Stoke City (27),1-1,?,Derby County (40)
+?,(Tue) 27 Dec 1921 (52),Stoke City (28),3-0,?,Fulham FC (40)
+?,(Sat) 5 Nov 1921 (44),Stoke City (29),0-0,?,Hull City (40)
+?,(Sat) 29 Oct 1921 (43),Stoke City (30),3-0,?,Leeds United (40)
+?,(Sat) 4 Feb 1922 (5),Stoke City (31),1-1,?,Leicester City (40)
+?,(Sat) 10 Sep 1921 (36),Stoke City (32),0-0,?,Leyton Orient FC (40)
+?,(Sat) 15 Apr 1922 (15),Stoke City (33),1-1,?,Nottingham Forest (40)
+?,(Sat) 19 Nov 1921 (46),Stoke City (34),0-0,?,Notts County FC (40)
+?,(Sat) 24 Sep 1921 (38),Stoke City (35),0-0,?,Port Vale FC (40)
+?,(Sat) 24 Dec 1921 (51),Stoke City (36),1-1,?,Rotherham County (40)
+?,(Sat) 31 Dec 1921 (52),Stoke City (37),1-1,?,Sheffield Wednesday (40)
+?,(Mon) 5 Sep 1921 (36),Stoke City (38),2-1,?,South Shields (40)
+?,(Sat) 27 Aug 1921 (34),Stoke City (39),2-0,?,West Ham United (20)
+?,(Sat) 8 Apr 1922 (14),Stoke City (40),3-0,?,Wolverhampton Wanderers (20)
+?,(Sat) 19 Nov 1921 (46),West Ham United (21),4-0,?,Barnsley FC (41)
+?,(Sat) 29 Apr 1922 (17),West Ham United (22),0-2,?,Blackpool FC (41)
+?,(Mon) 29 Aug 1921 (35),West Ham United (23),1-0,?,Bradford Park Avenue (41)
+?,(Sat) 8 Oct 1921 (40),West Ham United (24),3-0,?,Bristol City FC (41)
+?,(Tue) 27 Dec 1921 (52),West Ham United (25),3-2,?,Bury FC (41)
+?,(Sat) 10 Dec 1921 (49),West Ham United (26),3-0,?,Coventry City (41)
+?,(Sat) 11 Mar 1922 (10),West Ham United (27),2-0,?,Crystal Palace FC (41)
+?,(Sat) 17 Dec 1921 (50),West Ham United (28),3-1,?,Derby County (41)
+?,(Sat) 15 Apr 1922 (15),West Ham United (29),1-0,?,Fulham FC (41)
+?,(Sat) 11 Feb 1922 (6),West Ham United (30),1-1,?,Hull City (41)
+?,(Sat) 28 Jan 1922 (4),West Ham United (31),1-1,?,Leeds United (41)
+?,(Sat) 31 Dec 1921 (52),West Ham United (32),1-0,?,Leicester City (41)
+?,(Fri) 14 Apr 1922 (15),West Ham United (33),1-2,?,Leyton Orient FC (41)
+?,(Sat) 22 Oct 1921 (42),West Ham United (34),1-0,?,Nottingham Forest (41)
+?,(Sat) 25 Feb 1922 (8),West Ham United (35),2-1,?,Notts County FC (41)
+?,(Sat) 10 Sep 1921 (36),West Ham United (36),3-0,?,Port Vale FC (41)
+?,(Sat) 18 Mar 1922 (11),West Ham United (37),1-2,?,Rotherham County (41)
+?,(Sat) 1 Apr 1922 (13),West Ham United (38),2-0,?,Sheffield Wednesday (41)
+?,(Sat) 24 Sep 1921 (38),West Ham United (39),1-1,?,South Shields (41)
+?,(Sat) 3 Sep 1921 (35),West Ham United (40),3-0,?,Stoke City (41)
+?,(Sat) 5 Nov 1921 (44),West Ham United (41),2-0,?,Wolverhampton Wanderers (21)
+?,(Sat) 17 Sep 1921 (37),Wolverhampton Wanderers (22),2-0,?,Barnsley FC (42)
+?,(Sat) 25 Feb 1922 (8),Wolverhampton Wanderers (23),4-0,?,Blackpool FC (42)
+?,(Sat) 11 Mar 1922 (10),Wolverhampton Wanderers (24),5-0,?,Bradford Park Avenue (42)
+?,(Sat) 14 Jan 1922 (2),Wolverhampton Wanderers (25),2-2,?,Bristol City FC (42)
+?,(Mon) 17 Apr 1922 (16),Wolverhampton Wanderers (26),1-1,?,Bury FC (42)
+?,(Sat) 1 Oct 1921 (39),Wolverhampton Wanderers (27),1-0,?,Coventry City (42)
+?,(Sat) 19 Nov 1921 (46),Wolverhampton Wanderers (28),0-1,?,Crystal Palace FC (42)
+?,(Sat) 15 Oct 1921 (41),Wolverhampton Wanderers (29),0-3,?,Derby County (42)
+?,(Sat) 11 Feb 1922 (6),Wolverhampton Wanderers (30),0-0,?,Fulham FC (42)
+?,(Sat) 29 Apr 1922 (17),Wolverhampton Wanderers (31),0-2,?,Hull City (42)
+?,(Sat) 15 Apr 1922 (15),Wolverhampton Wanderers (32),0-0,?,Leeds United (42)
+?,(Sat) 29 Oct 1921 (43),Wolverhampton Wanderers (33),1-1,?,Leicester City (42)
+?,(Sat) 18 Mar 1922 (11),Wolverhampton Wanderers (34),0-2,?,Leyton Orient FC (42)
+?,(Tue) 27 Dec 1921 (52),Wolverhampton Wanderers (35),2-0,?,Nottingham Forest (42)
+?,(Mon) 29 Aug 1921 (35),Wolverhampton Wanderers (36),1-2,?,Notts County FC (42)
+?,(Sat) 3 Dec 1921 (48),Wolverhampton Wanderers (37),2-0,?,Port Vale FC (42)
+?,(Sat) 3 Sep 1921 (35),Wolverhampton Wanderers (38),3-1,?,Rotherham County (42)
+?,(Sat) 28 Jan 1922 (4),Wolverhampton Wanderers (39),0-0,?,Sheffield Wednesday (42)
+?,(Sat) 24 Dec 1921 (51),Wolverhampton Wanderers (40),3-2,?,South Shields (42)
+?,(Sat) 1 Apr 1922 (13),Wolverhampton Wanderers (41),1-1,?,Stoke City (42)
+?,(Sat) 12 Nov 1921 (45),Wolverhampton Wanderers (42),0-1,?,West Ham United (42)

@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Blackburn Rovers,Aston Villa,0-0,-
--,-,Bolton Wanderers,Aston Villa,3-0,-
--,-,Bradford City,Aston Villa,0-0,-
--,-,Burnley,Aston Villa,4-0,-
--,-,Chelsea,Aston Villa,0-3,-
--,-,Derby County,Aston Villa,0-2,-
--,-,Everton,Aston Villa,1-4,-
--,-,Liverpool,Aston Villa,0-1,-
--,-,Manchester City,Aston Villa,3-1,-
--,-,Manchester United,Aston Villa,0-6,-
--,-,Middlesbrough,Aston Villa,5-2,-
--,-,Newcastle United,Aston Villa,2-2,-
--,-,Oldham Athletic,Aston Villa,0-1,-
--,-,Preston North End,Aston Villa,3-2,-
--,-,Sheffield United,Aston Villa,3-0,-
--,-,Sheffield Wednesday,Aston Villa,2-3,-
--,-,Sunderland,Aston Villa,2-0,-
--,-,Tottenham Hotspur,Aston Villa,0-2,-
--,-,West Bromwich Albion,Aston Villa,1-0,-
--,-,Aston Villa,Blackburn Rovers,1-3,-
--,-,Bolton Wanderers,Blackburn Rovers,1-0,-
--,-,Bradford City,Blackburn Rovers,0-2,-
--,-,Burnley,Blackburn Rovers,1-2,-
--,-,Chelsea,Blackburn Rovers,2-0,-
--,-,Derby County,Blackburn Rovers,2-3,-
--,-,Everton,Blackburn Rovers,0-0,-
--,-,Liverpool,Blackburn Rovers,3-3,-
--,-,Manchester City,Blackburn Rovers,1-2,-
--,-,Manchester United,Blackburn Rovers,0-0,-
--,-,Middlesbrough,Blackburn Rovers,3-0,-
--,-,Newcastle United,Blackburn Rovers,0-0,-
--,-,Oldham Athletic,Blackburn Rovers,1-1,-
--,-,Preston North End,Blackburn Rovers,1-5,-
--,-,Sheffield United,Blackburn Rovers,1-1,-
--,-,Sheffield Wednesday,Blackburn Rovers,3-1,-
--,-,Sunderland,Blackburn Rovers,2-1,-
--,-,Tottenham Hotspur,Blackburn Rovers,3-3,-
--,-,West Bromwich Albion,Blackburn Rovers,2-0,-
--,-,Aston Villa,Bolton Wanderers,1-0,-
--,-,Blackburn Rovers,Bolton Wanderers,3-2,-
--,-,Bradford City,Bolton Wanderers,5-1,-
--,-,Burnley,Bolton Wanderers,2-2,-
--,-,Chelsea,Bolton Wanderers,2-1,-
--,-,Derby County,Bolton Wanderers,3-3,-
--,-,Everton,Bolton Wanderers,1-1,-
--,-,Liverpool,Bolton Wanderers,2-1,-
--,-,Manchester City,Bolton Wanderers,0-1,-
--,-,Manchester United,Bolton Wanderers,0-1,-
--,-,Middlesbrough,Bolton Wanderers,2-3,-
--,-,Newcastle United,Bolton Wanderers,4-3,-
--,-,Oldham Athletic,Bolton Wanderers,2-0,-
--,-,Preston North End,Bolton Wanderers,1-1,-
--,-,Sheffield United,Bolton Wanderers,2-0,-
--,-,Sheffield Wednesday,Bolton Wanderers,1-1,-
--,-,Sunderland,Bolton Wanderers,3-2,-
--,-,Tottenham Hotspur,Bolton Wanderers,3-0,-
--,-,West Bromwich Albion,Bolton Wanderers,1-1,-
--,-,Aston Villa,Bradford City,0-1,-
--,-,Blackburn Rovers,Bradford City,0-0,-
--,-,Bolton Wanderers,Bradford City,3-0,-
--,-,Burnley,Bradford City,2-2,-
--,-,Chelsea,Bradford City,2-1,-
--,-,Derby County,Bradford City,3-1,-
--,-,Everton,Bradford City,1-1,-
--,-,Liverpool,Bradford City,0-1,-
--,-,Manchester City,Bradford City,1-0,-
--,-,Manchester United,Bradford City,1-1,-
--,-,Middlesbrough,Bradford City,1-1,-
--,-,Newcastle United,Bradford City,0-0,-
--,-,Oldham Athletic,Bradford City,3-1,-
--,-,Preston North End,Bradford City,2-1,-
--,-,Sheffield United,Bradford City,1-1,-
--,-,Sheffield Wednesday,Bradford City,1-3,-
--,-,Sunderland,Bradford City,0-1,-
--,-,Tottenham Hotspur,Bradford City,0-0,-
--,-,West Bromwich Albion,Bradford City,2-1,-
--,-,Aston Villa,Burnley,1-0,-
--,-,Blackburn Rovers,Burnley,0-0,-
--,-,Bolton Wanderers,Burnley,0-0,-
--,-,Bradford City,Burnley,1-1,-
--,-,Chelsea,Burnley,0-0,-
--,-,Derby County,Burnley,3-1,-
--,-,Everton,Burnley,1-1,-
--,-,Liverpool,Burnley,1-1,-
--,-,Manchester City,Burnley,4-1,-
--,-,Manchester United,Burnley,0-1,-
--,-,Middlesbrough,Burnley,2-1,-
--,-,Newcastle United,Burnley,3-1,-
--,-,Oldham Athletic,Burnley,1-1,-
--,-,Preston North End,Burnley,2-1,-
--,-,Sheffield United,Burnley,5-0,-
--,-,Sheffield Wednesday,Burnley,2-6,-
--,-,Sunderland,Burnley,1-1,-
--,-,Tottenham Hotspur,Burnley,2-0,-
--,-,West Bromwich Albion,Burnley,4-1,-
--,-,Aston Villa,Chelsea,1-2,-
--,-,Blackburn Rovers,Chelsea,3-1,-
--,-,Bolton Wanderers,Chelsea,1-1,-
--,-,Bradford City,Chelsea,0-0,-
--,-,Burnley,Chelsea,6-1,-
--,-,Derby County,Chelsea,0-1,-
--,-,Everton,Chelsea,0-0,-
--,-,Liverpool,Chelsea,3-0,-
--,-,Manchester City,Chelsea,2-1,-
--,-,Manchester United,Chelsea,0-1,-
--,-,Middlesbrough,Chelsea,2-0,-
--,-,Newcastle United,Chelsea,1-0,-
--,-,Oldham Athletic,Chelsea,3-2,-
--,-,Preston North End,Chelsea,3-3,-
--,-,Sheffield United,Chelsea,3-2,-
--,-,Sheffield Wednesday,Chelsea,3-0,-
--,-,Sunderland,Chelsea,2-0,-
--,-,Tottenham Hotspur,Chelsea,1-2,-
--,-,West Bromwich Albion,Chelsea,3-1,-
--,-,Aston Villa,Derby County,3-2,-
--,-,Blackburn Rovers,Derby County,3-1,-
--,-,Bolton Wanderers,Derby County,3-1,-
--,-,Bradford City,Derby County,0-0,-
--,-,Burnley,Derby County,5-1,-
--,-,Chelsea,Derby County,2-1,-
--,-,Everton,Derby County,5-0,-
--,-,Liverpool,Derby County,1-0,-
--,-,Manchester City,Derby County,1-2,-
--,-,Manchester United,Derby County,3-3,-
--,-,Middlesbrough,Derby County,3-2,-
--,-,Newcastle United,Derby County,1-1,-
--,-,Oldham Athletic,Derby County,0-0,-
--,-,Preston North End,Derby County,2-0,-
--,-,Sheffield United,Derby County,2-2,-
--,-,Sheffield Wednesday,Derby County,1-3,-
--,-,Sunderland,Derby County,1-0,-
--,-,Tottenham Hotspur,Derby County,1-1,-
--,-,West Bromwich Albion,Derby County,2-1,-
--,-,Aston Villa,Everton,3-1,-
--,-,Blackburn Rovers,Everton,6-0,-
--,-,Bolton Wanderers,Everton,0-0,-
--,-,Bradford City,Everton,0-1,-
--,-,Burnley,Everton,2-0,-
--,-,Chelsea,Everton,2-0,-
--,-,Derby County,Everton,1-0,-
--,-,Liverpool,Everton,1-2,-
--,-,Manchester City,Everton,1-1,-
--,-,Manchester United,Everton,0-1,-
--,-,Middlesbrough,Everton,2-0,-
--,-,Newcastle United,Everton,0-1,-
--,-,Oldham Athletic,Everton,2-0,-
--,-,Preston North End,Everton,1-0,-
--,-,Sheffield United,Everton,4-1,-
--,-,Sheffield Wednesday,Everton,2-2,-
--,-,Sunderland,Everton,5-2,-
--,-,Tottenham Hotspur,Everton,4-1,-
--,-,West Bromwich Albion,Everton,1-1,-
--,-,Aston Villa,Liverpool,2-1,-
--,-,Blackburn Rovers,Liverpool,6-2,-
--,-,Bolton Wanderers,Liverpool,2-1,-
--,-,Bradford City,Liverpool,1-0,-
--,-,Burnley,Liverpool,5-2,-
--,-,Chelsea,Liverpool,3-0,-
--,-,Derby County,Liverpool,1-1,-
--,-,Everton,Liverpool,1-2,-
--,-,Manchester City,Liverpool,1-0,-
--,-,Manchester United,Liverpool,3-0,-
--,-,Middlesbrough,Liverpool,4-0,-
--,-,Newcastle United,Liverpool,1-2,-
--,-,Oldham Athletic,Liverpool,2-2,-
--,-,Preston North End,Liverpool,0-1,-
--,-,Sheffield United,Liverpool,0-1,-
--,-,Sheffield Wednesday,Liverpool,4-1,-
--,-,Sunderland,Liverpool,1-2,-
--,-,Tottenham Hotspur,Liverpool,0-0,-
--,-,West Bromwich Albion,Liverpool,0-1,-
--,-,Aston Villa,Manchester City,1-1,-
--,-,Blackburn Rovers,Manchester City,2-1,-
--,-,Bolton Wanderers,Manchester City,3-0,-
--,-,Bradford City,Manchester City,3-2,-
--,-,Burnley,Manchester City,2-0,-
--,-,Chelsea,Manchester City,1-0,-
--,-,Derby County,Manchester City,2-4,-
--,-,Everton,Manchester City,1-0,-
--,-,Liverpool,Manchester City,4-2,-
--,-,Manchester United,Manchester City,0-1,-
--,-,Middlesbrough,Manchester City,2-0,-
--,-,Newcastle United,Manchester City,0-1,-
--,-,Oldham Athletic,Manchester City,1-3,-
--,-,Preston North End,Manchester City,2-2,-
--,-,Sheffield United,Manchester City,1-3,-
--,-,Sheffield Wednesday,Manchester City,2-2,-
--,-,Sunderland,Manchester City,0-0,-
--,-,Tottenham Hotspur,Manchester City,3-1,-
--,-,West Bromwich Albion,Manchester City,0-0,-
--,-,Aston Villa,Manchester United,3-1,-
--,-,Blackburn Rovers,Manchester United,0-1,-
--,-,Bolton Wanderers,Manchester United,6-1,-
--,-,Bradford City,Manchester United,1-1,-
--,-,Burnley,Manchester United,1-2,-
--,-,Chelsea,Manchester United,0-2,-
--,-,Derby County,Manchester United,4-2,-
--,-,Everton,Manchester United,5-0,-
--,-,Liverpool,Manchester United,1-2,-
--,-,Manchester City,Manchester United,0-2,-
--,-,Middlesbrough,Manchester United,3-1,-
--,-,Newcastle United,Manchester United,0-1,-
--,-,Oldham Athletic,Manchester United,2-2,-
--,-,Preston North End,Manchester United,4-2,-
--,-,Sheffield United,Manchester United,2-0,-
--,-,Sheffield Wednesday,Manchester United,1-3,-
--,-,Sunderland,Manchester United,2-0,-
--,-,Tottenham Hotspur,Manchester United,2-1,-
--,-,West Bromwich Albion,Manchester United,2-1,-
--,-,Aston Villa,Middlesbrough,1-3,-
--,-,Blackburn Rovers,Middlesbrough,6-0,-
--,-,Bolton Wanderers,Middlesbrough,1-1,-
--,-,Bradford City,Middlesbrough,2-3,-
--,-,Burnley,Middlesbrough,1-2,-
--,-,Chelsea,Middlesbrough,3-2,-
--,-,Derby County,Middlesbrough,2-2,-
--,-,Everton,Middlesbrough,2-0,-
--,-,Liverpool,Middlesbrough,2-1,-
--,-,Manchester City,Middlesbrough,1-1,-
--,-,Manchester United,Middlesbrough,0-1,-
--,-,Newcastle United,Middlesbrough,1-0,-
--,-,Oldham Athletic,Middlesbrough,3-0,-
--,-,Preston North End,Middlesbrough,4-1,-
--,-,Sheffield United,Middlesbrough,3-1,-
--,-,Sheffield Wednesday,Middlesbrough,2-0,-
--,-,Sunderland,Middlesbrough,4-2,-
--,-,Tottenham Hotspur,Middlesbrough,0-1,-
--,-,West Bromwich Albion,Middlesbrough,2-1,-
--,-,Aston Villa,Newcastle United,1-3,-
--,-,Blackburn Rovers,Newcastle United,3-0,-
--,-,Bolton Wanderers,Newcastle United,3-1,-
--,-,Bradford City,Newcastle United,2-0,-
--,-,Burnley,Newcastle United,1-0,-
--,-,Chelsea,Newcastle United,0-1,-
--,-,Derby County,Newcastle United,2-0,-
--,-,Everton,Newcastle United,2-0,-
--,-,Liverpool,Newcastle United,0-0,-
--,-,Manchester City,Newcastle United,0-1,-
--,-,Manchester United,Newcastle United,2-2,-
--,-,Middlesbrough,Newcastle United,3-0,-
--,-,Oldham Athletic,Newcastle United,3-0,-
--,-,Preston North End,Newcastle United,4-1,-
--,-,Sheffield United,Newcastle United,2-0,-
--,-,Sheffield Wednesday,Newcastle United,0-0,-
--,-,Sunderland,Newcastle United,1-2,-
--,-,Tottenham Hotspur,Newcastle United,0-0,-
--,-,West Bromwich Albion,Newcastle United,1-1,-
--,-,Aston Villa,Oldham Athletic,0-0,-
--,-,Blackburn Rovers,Oldham Athletic,2-1,-
--,-,Bolton Wanderers,Oldham Athletic,6-2,-
--,-,Bradford City,Oldham Athletic,0-1,-
--,-,Burnley,Oldham Athletic,2-0,-
--,-,Chelsea,Oldham Athletic,2-1,-
--,-,Derby County,Oldham Athletic,1-2,-
--,-,Everton,Oldham Athletic,0-2,-
--,-,Liverpool,Oldham Athletic,0-3,-
--,-,Manchester City,Oldham Athletic,2-1,-
--,-,Manchester United,Oldham Athletic,4-1,-
--,-,Middlesbrough,Oldham Athletic,0-0,-
--,-,Newcastle United,Oldham Athletic,0-0,-
--,-,Preston North End,Oldham Athletic,0-1,-
--,-,Sheffield United,Oldham Athletic,2-1,-
--,-,Sheffield Wednesday,Oldham Athletic,1-2,-
--,-,Sunderland,Oldham Athletic,2-0,-
--,-,Tottenham Hotspur,Oldham Athletic,3-1,-
--,-,West Bromwich Albion,Oldham Athletic,2-2,-
--,-,Aston Villa,Preston North End,3-0,-
--,-,Blackburn Rovers,Preston North End,5-0,-
--,-,Bolton Wanderers,Preston North End,0-3,-
--,-,Bradford City,Preston North End,0-0,-
--,-,Burnley,Preston North End,3-4,-
--,-,Chelsea,Preston North End,2-0,-
--,-,Derby County,Preston North End,0-1,-
--,-,Everton,Preston North End,2-0,-
--,-,Liverpool,Preston North End,3-1,-
--,-,Manchester City,Preston North End,1-1,-
--,-,Manchester United,Preston North End,3-0,-
--,-,Middlesbrough,Preston North End,4-1,-
--,-,Newcastle United,Preston North End,2-0,-
--,-,Oldham Athletic,Preston North End,1-0,-
--,-,Sheffield United,Preston North End,2-0,-
--,-,Sheffield Wednesday,Preston North End,2-1,-
--,-,Sunderland,Preston North End,3-1,-
--,-,Tottenham Hotspur,Preston North End,1-0,-
--,-,West Bromwich Albion,Preston North End,1-0,-
--,-,Aston Villa,Sheffield United,3-0,-
--,-,Blackburn Rovers,Sheffield United,3-2,-
--,-,Bolton Wanderers,Sheffield United,3-1,-
--,-,Bradford City,Sheffield United,2-1,-
--,-,Burnley,Sheffield United,0-0,-
--,-,Chelsea,Sheffield United,2-0,-
--,-,Derby County,Sheffield United,3-5,-
--,-,Everton,Sheffield United,5-0,-
--,-,Liverpool,Sheffield United,2-1,-
--,-,Manchester City,Sheffield United,2-1,-
--,-,Manchester United,Sheffield United,2-1,-
--,-,Middlesbrough,Sheffield United,2-3,-
--,-,Newcastle United,Sheffield United,2-1,-
--,-,Oldham Athletic,Sheffield United,1-2,-
--,-,Preston North End,Sheffield United,2-4,-
--,-,Sheffield Wednesday,Sheffield United,2-1,-
--,-,Sunderland,Sheffield United,1-2,-
--,-,Tottenham Hotspur,Sheffield United,2-1,-
--,-,West Bromwich Albion,Sheffield United,2-1,-
--,-,Aston Villa,Sheffield Wednesday,2-0,-
--,-,Blackburn Rovers,Sheffield Wednesday,3-2,-
--,-,Bolton Wanderers,Sheffield Wednesday,0-1,-
--,-,Bradford City,Sheffield Wednesday,3-1,-
--,-,Burnley,Sheffield Wednesday,3-0,-
--,-,Chelsea,Sheffield Wednesday,2-1,-
--,-,Derby County,Sheffield Wednesday,1-1,-
--,-,Everton,Sheffield Wednesday,1-1,-
--,-,Liverpool,Sheffield Wednesday,1-2,-
--,-,Manchester City,Sheffield Wednesday,1-2,-
--,-,Manchester United,Sheffield Wednesday,2-1,-
--,-,Middlesbrough,Sheffield Wednesday,5-2,-
--,-,Newcastle United,Sheffield Wednesday,3-1,-
--,-,Oldham Athletic,Sheffield Wednesday,2-0,-
--,-,Preston North End,Sheffield Wednesday,5-0,-
--,-,Sheffield United,Sheffield Wednesday,0-1,-
--,-,Sunderland,Sheffield Wednesday,0-1,-
--,-,Tottenham Hotspur,Sheffield Wednesday,1-1,-
--,-,West Bromwich Albion,Sheffield Wednesday,1-1,-
--,-,Aston Villa,Sunderland,5-0,-
--,-,Blackburn Rovers,Sunderland,3-1,-
--,-,Bolton Wanderers,Sunderland,2-1,-
--,-,Bradford City,Sunderland,0-2,-
--,-,Burnley,Sunderland,0-1,-
--,-,Chelsea,Sunderland,1-1,-
--,-,Derby County,Sunderland,1-1,-
--,-,Everton,Sunderland,1-5,-
--,-,Liverpool,Sunderland,1-3,-
--,-,Manchester City,Sunderland,3-1,-
--,-,Manchester United,Sunderland,3-1,-
--,-,Middlesbrough,Sunderland,3-4,-
--,-,Newcastle United,Sunderland,2-1,-
--,-,Oldham Athletic,Sunderland,2-1,-
--,-,Preston North End,Sunderland,2-2,-
--,-,Sheffield United,Sunderland,1-0,-
--,-,Sheffield Wednesday,Sunderland,2-1,-
--,-,Tottenham Hotspur,Sunderland,1-4,-
--,-,West Bromwich Albion,Sunderland,2-1,-
--,-,Aston Villa,Tottenham Hotspur,3-3,-
--,-,Blackburn Rovers,Tottenham Hotspur,1-1,-
--,-,Bolton Wanderers,Tottenham Hotspur,3-0,-
--,-,Bradford City,Tottenham Hotspur,2-1,-
--,-,Burnley,Tottenham Hotspur,3-1,-
--,-,Chelsea,Tottenham Hotspur,1-3,-
--,-,Derby County,Tottenham Hotspur,4-0,-
--,-,Everton,Tottenham Hotspur,1-1,-
--,-,Liverpool,Tottenham Hotspur,2-1,-
--,-,Manchester City,Tottenham Hotspur,2-1,-
--,-,Manchester United,Tottenham Hotspur,3-1,-
--,-,Middlesbrough,Tottenham Hotspur,6-0,-
--,-,Newcastle United,Tottenham Hotspur,2-0,-
--,-,Oldham Athletic,Tottenham Hotspur,3-0,-
--,-,Preston North End,Tottenham Hotspur,1-2,-
--,-,Sheffield United,Tottenham Hotspur,1-4,-
--,-,Sheffield Wednesday,Tottenham Hotspur,2-0,-
--,-,Sunderland,Tottenham Hotspur,2-0,-
--,-,West Bromwich Albion,Tottenham Hotspur,1-1,-
--,-,Aston Villa,West Bromwich Albion,2-0,-
--,-,Blackburn Rovers,West Bromwich Albion,2-0,-
--,-,Bolton Wanderers,West Bromwich Albion,1-0,-
--,-,Bradford City,West Bromwich Albion,1-0,-
--,-,Burnley,West Bromwich Albion,0-0,-
--,-,Chelsea,West Bromwich Albion,1-1,-
--,-,Derby County,West Bromwich Albion,1-2,-
--,-,Everton,West Bromwich Albion,2-0,-
--,-,Liverpool,West Bromwich Albion,0-0,-
--,-,Manchester City,West Bromwich Albion,2-3,-
--,-,Manchester United,West Bromwich Albion,1-0,-
--,-,Middlesbrough,West Bromwich Albion,3-0,-
--,-,Newcastle United,West Bromwich Albion,3-3,-
--,-,Oldham Athletic,West Bromwich Albion,2-0,-
--,-,Preston North End,West Bromwich Albion,0-2,-
--,-,Sheffield United,West Bromwich Albion,1-1,-
--,-,Sheffield Wednesday,West Bromwich Albion,1-4,-
--,-,Sunderland,West Bromwich Albion,0-0,-
--,-,Tottenham Hotspur,West Bromwich Albion,3-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 13 Sep 1913 (36),Aston Villa FC (1),1-3,?,Blackburn Rovers (1)
+?,(Wed) 25 Feb 1914 (8),Aston Villa FC (2),1-0,?,Bolton Wanderers (1)
+?,(Sat) 27 Dec 1913 (51),Aston Villa FC (3),0-1,?,Bradford City (1)
+?,(Sat) 21 Mar 1914 (11),Aston Villa FC (4),1-0,?,Burnley FC (1)
+?,(Sat) 25 Oct 1913 (42),Aston Villa FC (5),1-2,?,Chelsea FC (1)
+?,(Mon) 13 Apr 1914 (15),Aston Villa FC (6),3-2,?,Derby County (1)
+?,(Sat) 27 Sep 1913 (38),Aston Villa FC (7),3-1,?,Everton FC (1)
+?,(Sat) 6 Dec 1913 (48),Aston Villa FC (8),2-1,?,Liverpool FC (1)
+?,(Mon) 1 Sep 1913 (35),Aston Villa FC (9),1-1,?,Manchester City (1)
+?,(Sat) 8 Nov 1913 (44),Aston Villa FC (10),3-1,?,Manchester United (1)
+?,(Sat) 25 Apr 1914 (16),Aston Villa FC (11),1-3,?,Middlesbrough FC (1)
+?,(Sat) 4 Apr 1914 (13),Aston Villa FC (12),1-3,?,Newcastle United (1)
+?,(Wed) 18 Mar 1914 (11),Aston Villa FC (13),0-0,?,Oldham Athletic (1)
+?,(Sat) 22 Nov 1913 (46),Aston Villa FC (14),3-0,?,Preston North End (1)
+?,(Fri) 26 Dec 1913 (51),Aston Villa FC (15),3-0,?,Sheffield United FC (1)
+?,(Sat) 11 Oct 1913 (40),Aston Villa FC (16),2-0,?,Sheffield Wednesday (1)
+?,(Sat) 17 Jan 1914 (2),Aston Villa FC (17),5-0,?,Sunderland AFC (1)
+?,(Sat) 13 Dec 1913 (49),Aston Villa FC (18),3-3,?,Tottenham Hotspur (1)
+?,(Sat) 7 Feb 1914 (5),Aston Villa FC (19),2-0,?,West Bromwich Albion (1)
+?,(Sat) 3 Jan 1914 (0),Blackburn Rovers (2),0-0,?,Aston Villa FC (20)
+?,(Sat) 4 Apr 1914 (13),Blackburn Rovers (3),3-2,?,Bolton Wanderers (2)
+?,(Sat) 18 Oct 1913 (41),Blackburn Rovers (4),0-0,?,Bradford City (2)
+?,(Thu) 1 Jan 1914 (0),Blackburn Rovers (5),0-0,?,Burnley FC (2)
+?,(Sat) 6 Dec 1913 (48),Blackburn Rovers (6),3-1,?,Chelsea FC (2)
+?,(Sat) 4 Oct 1913 (39),Blackburn Rovers (7),3-1,?,Derby County (2)
+?,(Sat) 8 Nov 1913 (44),Blackburn Rovers (8),6-0,?,Everton FC (2)
+?,(Sat) 6 Sep 1913 (35),Blackburn Rovers (9),6-2,?,Liverpool FC (2)
+?,(Sat) 14 Feb 1914 (6),Blackburn Rovers (10),2-1,?,Manchester City (2)
+?,(Sat) 20 Dec 1913 (50),Blackburn Rovers (11),0-1,?,Manchester United (2)
+?,(Sat) 20 Sep 1913 (37),Blackburn Rovers (12),6-0,?,Middlesbrough FC (2)
+?,(Mon) 1 Sep 1913 (35),Blackburn Rovers (13),3-0,?,Newcastle United (2)
+?,(Sat) 18 Apr 1914 (15),Blackburn Rovers (14),2-1,?,Oldham Athletic (2)
+?,(Thu) 25 Dec 1913 (51),Blackburn Rovers (15),5-0,?,Preston North End (2)
+?,(Sat) 24 Jan 1914 (3),Blackburn Rovers (16),3-2,?,Sheffield United FC (2)
+?,(Sat) 22 Nov 1913 (46),Blackburn Rovers (17),3-2,?,Sheffield Wednesday (2)
+?,(Mon) 23 Mar 1914 (12),Blackburn Rovers (18),3-1,?,Sunderland AFC (2)
+?,(Sat) 28 Feb 1914 (8),Blackburn Rovers (19),1-1,?,Tottenham Hotspur (2)
+?,(Sat) 21 Mar 1914 (11),Blackburn Rovers (20),2-0,?,West Bromwich Albion (2)
+?,(Sat) 18 Oct 1913 (41),Bolton Wanderers (3),3-0,?,Aston Villa FC (21)
+?,(Sat) 29 Nov 1913 (47),Bolton Wanderers (4),1-0,?,Blackburn Rovers (21)
+?,(Sat) 28 Mar 1914 (12),Bolton Wanderers (5),3-0,?,Bradford City (3)
+?,(Sat) 20 Sep 1913 (37),Bolton Wanderers (6),0-0,?,Burnley FC (3)
+?,(Wed) 11 Feb 1914 (6),Bolton Wanderers (7),1-1,?,Chelsea FC (3)
+?,(Sat) 14 Mar 1914 (10),Bolton Wanderers (8),3-1,?,Derby County (3)
+?,(Sat) 13 Dec 1913 (49),Bolton Wanderers (9),0-0,?,Everton FC (3)
+?,(Sat) 14 Feb 1914 (6),Bolton Wanderers (10),2-1,?,Liverpool FC (3)
+?,(Sat) 15 Nov 1913 (45),Bolton Wanderers (11),3-0,?,Manchester City (3)
+?,(Sat) 3 Jan 1914 (0),Bolton Wanderers (12),6-1,?,Manchester United (3)
+?,(Sat) 28 Feb 1914 (8),Bolton Wanderers (13),1-1,?,Middlesbrough FC (3)
+?,(Sat) 4 Oct 1913 (39),Bolton Wanderers (14),3-1,?,Newcastle United (3)
+?,(Sat) 6 Sep 1913 (35),Bolton Wanderers (15),6-2,?,Oldham Athletic (3)
+?,(Sat) 24 Jan 1914 (3),Bolton Wanderers (16),0-3,?,Preston North End (3)
+?,(Sat) 1 Nov 1913 (43),Bolton Wanderers (17),3-1,?,Sheffield United FC (3)
+?,(Mon) 1 Sep 1913 (35),Bolton Wanderers (18),0-1,?,Sheffield Wednesday (3)
+?,(Sat) 11 Apr 1914 (14),Bolton Wanderers (19),2-1,?,Sunderland AFC (3)
+?,(Thu) 1 Jan 1914 (0),Bolton Wanderers (20),3-0,?,Tottenham Hotspur (3)
+?,(Sat) 7 Mar 1914 (9),Bolton Wanderers (21),1-0,?,West Bromwich Albion (3)
+?,(Sat) 6 Sep 1913 (35),Bradford City (4),0-0,?,Aston Villa FC (22)
+?,(Wed) 25 Feb 1914 (8),Bradford City (5),0-2,?,Blackburn Rovers (22)
+?,(Sat) 22 Nov 1913 (46),Bradford City (6),5-1,?,Bolton Wanderers (22)
+?,(Sat) 20 Dec 1913 (50),Bradford City (7),1-1,?,Burnley FC (4)
+?,(Sat) 4 Apr 1914 (13),Bradford City (8),0-0,?,Chelsea FC (4)
+?,(Sat) 24 Jan 1914 (3),Bradford City (9),0-0,?,Derby County (4)
+?,(Sat) 7 Mar 1914 (9),Bradford City (10),0-1,?,Everton FC (4)
+?,(Mon) 13 Apr 1914 (15),Bradford City (11),1-0,?,Liverpool FC (4)
+?,(Sat) 4 Oct 1913 (39),Bradford City (12),3-2,?,Manchester City (4)
+?,(Sat) 18 Apr 1914 (15),Bradford City (13),1-1,?,Manchester United (4)
+?,(Sat) 3 Jan 1914 (0),Bradford City (14),2-3,?,Middlesbrough FC (4)
+?,(Fri) 26 Dec 1913 (51),Bradford City (15),2-0,?,Newcastle United (4)
+?,(Sat) 6 Dec 1913 (48),Bradford City (16),0-1,?,Oldham Athletic (4)
+?,(Wed) 17 Sep 1913 (37),Bradford City (17),0-0,?,Preston North End (4)
+?,(Sat) 20 Sep 1913 (37),Bradford City (18),2-1,?,Sheffield United FC (4)
+?,(Sat) 21 Mar 1914 (11),Bradford City (19),3-1,?,Sheffield Wednesday (4)
+?,(Sat) 25 Oct 1913 (42),Bradford City (20),0-2,?,Sunderland AFC (4)
+?,(Sat) 14 Feb 1914 (6),Bradford City (21),2-1,?,Tottenham Hotspur (4)
+?,(Sat) 8 Nov 1913 (44),Bradford City (22),1-0,?,West Bromwich Albion (4)
+?,(Sat) 15 Nov 1913 (45),Burnley FC (5),4-0,?,Aston Villa FC (23)
+?,(Mon) 8 Sep 1913 (36),Burnley FC (6),1-2,?,Blackburn Rovers (23)
+?,(Sat) 17 Jan 1914 (2),Burnley FC (7),2-2,?,Bolton Wanderers (23)
+?,(Mon) 27 Apr 1914 (17),Burnley FC (8),2-2,?,Bradford City (23)
+?,(Sat) 27 Sep 1913 (38),Burnley FC (9),6-1,?,Chelsea FC (5)
+?,(Sat) 11 Apr 1914 (14),Burnley FC (10),5-1,?,Derby County (5)
+?,(Fri) 10 Apr 1914 (14),Burnley FC (11),2-0,?,Everton FC (5)
+?,(Sat) 14 Mar 1914 (10),Burnley FC (12),5-2,?,Liverpool FC (5)
+?,(Sat) 13 Dec 1913 (49),Burnley FC (13),2-0,?,Manchester City (5)
+?,(Sat) 11 Oct 1913 (40),Burnley FC (14),1-2,?,Manchester United (5)
+?,(Mon) 6 Apr 1914 (14),Burnley FC (15),1-2,?,Middlesbrough FC (5)
+?,(Sat) 1 Nov 1913 (43),Burnley FC (16),1-0,?,Newcastle United (5)
+?,(Sat) 7 Feb 1914 (5),Burnley FC (17),2-0,?,Oldham Athletic (5)
+?,(Sat) 28 Feb 1914 (8),Burnley FC (18),3-4,?,Preston North End (5)
+?,(Sat) 29 Nov 1913 (47),Burnley FC (19),0-0,?,Sheffield United FC (5)
+?,(Sat) 13 Sep 1913 (36),Burnley FC (20),3-0,?,Sheffield Wednesday (5)
+?,(Thu) 25 Dec 1913 (51),Burnley FC (21),0-1,?,Sunderland AFC (5)
+?,(Sat) 18 Oct 1913 (41),Burnley FC (22),3-1,?,Tottenham Hotspur (5)
+?,(Sat) 27 Dec 1913 (51),Burnley FC (23),0-0,?,West Bromwich Albion (5)
+?,(Sat) 28 Feb 1914 (8),Chelsea FC (6),0-3,?,Aston Villa FC (24)
+?,(Sat) 11 Apr 1914 (14),Chelsea FC (7),2-0,?,Blackburn Rovers (24)
+?,(Mon) 13 Apr 1914 (15),Chelsea FC (8),2-1,?,Bolton Wanderers (24)
+?,(Sat) 29 Nov 1913 (47),Chelsea FC (9),2-1,?,Bradford City (24)
+?,(Sat) 24 Jan 1914 (3),Chelsea FC (10),0-0,?,Burnley FC (24)
+?,(Sat) 15 Nov 1913 (45),Chelsea FC (11),2-1,?,Derby County (6)
+?,(Sat) 25 Apr 1914 (16),Chelsea FC (12),2-0,?,Everton FC (6)
+?,(Sat) 18 Oct 1913 (41),Chelsea FC (13),3-0,?,Liverpool FC (6)
+?,(Sat) 28 Mar 1914 (12),Chelsea FC (14),1-0,?,Manchester City (6)
+?,(Sat) 20 Sep 1913 (37),Chelsea FC (15),0-2,?,Manchester United (6)
+?,(Sat) 1 Nov 1913 (43),Chelsea FC (16),3-2,?,Middlesbrough FC (6)
+?,(Sat) 14 Feb 1914 (6),Chelsea FC (17),0-1,?,Newcastle United (6)
+?,(Sat) 3 Jan 1914 (0),Chelsea FC (18),2-1,?,Oldham Athletic (6)
+?,(Sat) 4 Oct 1913 (39),Chelsea FC (19),2-0,?,Preston North End (6)
+?,(Sat) 14 Mar 1914 (10),Chelsea FC (20),2-0,?,Sheffield United FC (6)
+?,(Thu) 25 Dec 1913 (51),Chelsea FC (21),2-1,?,Sheffield Wednesday (6)
+?,(Sat) 13 Dec 1913 (49),Chelsea FC (22),1-1,?,Sunderland AFC (6)
+?,(Sat) 6 Sep 1913 (35),Chelsea FC (23),1-3,?,Tottenham Hotspur (6)
+?,(Mon) 8 Sep 1913 (36),Chelsea FC (24),1-1,?,West Bromwich Albion (6)
+?,(Thu) 25 Dec 1913 (51),Derby County (7),0-2,?,Aston Villa FC (25)
+?,(Sat) 7 Feb 1914 (5),Derby County (8),2-3,?,Blackburn Rovers (25)
+?,(Sat) 8 Nov 1913 (44),Derby County (9),3-3,?,Bolton Wanderers (25)
+?,(Sat) 27 Sep 1913 (38),Derby County (10),3-1,?,Bradford City (25)
+?,(Sat) 6 Dec 1913 (48),Derby County (11),3-1,?,Burnley FC (25)
+?,(Sat) 21 Mar 1914 (11),Derby County (12),0-1,?,Chelsea FC (25)
+?,(Sat) 21 Feb 1914 (7),Derby County (13),1-0,?,Everton FC (7)
+?,(Mon) 1 Sep 1913 (35),Derby County (14),1-1,?,Liverpool FC (7)
+?,(Sat) 17 Jan 1914 (2),Derby County (15),2-4,?,Manchester City (7)
+?,(Sat) 4 Apr 1914 (13),Derby County (16),4-2,?,Manchester United (7)
+?,(Wed) 10 Sep 1913 (36),Derby County (17),2-2,?,Middlesbrough FC (7)
+?,(Sat) 20 Dec 1913 (50),Derby County (18),2-0,?,Newcastle United (7)
+?,(Sat) 22 Nov 1913 (46),Derby County (19),1-2,?,Oldham Athletic (7)
+?,(Sat) 18 Apr 1914 (15),Derby County (20),0-1,?,Preston North End (7)
+?,(Sat) 6 Sep 1913 (35),Derby County (21),3-5,?,Sheffield United FC (7)
+?,(Wed) 11 Mar 1914 (10),Derby County (22),1-1,?,Sheffield Wednesday (7)
+?,(Sat) 11 Oct 1913 (40),Derby County (23),1-1,?,Sunderland AFC (7)
+?,(Sat) 3 Jan 1914 (0),Derby County (24),4-0,?,Tottenham Hotspur (7)
+?,(Sat) 25 Oct 1913 (42),Derby County (25),1-2,?,West Bromwich Albion (7)
+?,(Sat) 24 Jan 1914 (3),Everton FC (8),1-4,?,Aston Villa FC (26)
+?,(Sat) 14 Mar 1914 (10),Everton FC (9),0-0,?,Blackburn Rovers (26)
+?,(Sat) 18 Apr 1914 (15),Everton FC (10),1-1,?,Bolton Wanderers (26)
+?,(Sat) 1 Nov 1913 (43),Everton FC (11),1-1,?,Bradford City (26)
+?,(Mon) 1 Sep 1913 (35),Everton FC (12),1-1,?,Burnley FC (26)
+?,(Sat) 20 Dec 1913 (50),Everton FC (13),0-0,?,Chelsea FC (26)
+?,(Sat) 18 Oct 1913 (41),Everton FC (14),5-0,?,Derby County (26)
+?,(Sat) 20 Sep 1913 (37),Everton FC (15),1-2,?,Liverpool FC (8)
+?,(Sat) 28 Feb 1914 (8),Everton FC (16),1-0,?,Manchester City (8)
+?,(Fri) 26 Dec 1913 (51),Everton FC (17),5-0,?,Manchester United (8)
+?,(Sat) 4 Oct 1913 (39),Everton FC (18),2-0,?,Middlesbrough FC (8)
+?,(Sat) 3 Jan 1914 (0),Everton FC (19),2-0,?,Newcastle United (8)
+?,(Mon) 13 Apr 1914 (15),Everton FC (20),0-2,?,Oldham Athletic (8)
+?,(Sat) 6 Sep 1913 (35),Everton FC (21),2-0,?,Preston North End (8)
+?,(Sat) 14 Feb 1914 (6),Everton FC (22),5-0,?,Sheffield United FC (8)
+?,(Sat) 6 Dec 1913 (48),Everton FC (23),1-1,?,Sheffield Wednesday (8)
+?,(Sat) 15 Nov 1913 (45),Everton FC (24),1-5,?,Sunderland AFC (8)
+?,(Sat) 28 Mar 1914 (12),Everton FC (25),1-1,?,Tottenham Hotspur (8)
+?,(Sat) 4 Apr 1914 (13),Everton FC (26),2-0,?,West Bromwich Albion (8)
+?,(Sat) 11 Apr 1914 (14),Liverpool FC (9),0-1,?,Aston Villa FC (27)
+?,(Sat) 27 Dec 1913 (51),Liverpool FC (10),3-3,?,Blackburn Rovers (27)
+?,(Sat) 11 Oct 1913 (40),Liverpool FC (11),2-1,?,Bolton Wanderers (27)
+?,(Thu) 1 Jan 1914 (0),Liverpool FC (12),0-1,?,Bradford City (27)
+?,(Sat) 8 Nov 1913 (44),Liverpool FC (13),1-1,?,Burnley FC (27)
+?,(Wed) 18 Mar 1914 (11),Liverpool FC (14),3-0,?,Chelsea FC (27)
+?,(Fri) 10 Apr 1914 (14),Liverpool FC (15),1-0,?,Derby County (27)
+?,(Sat) 17 Jan 1914 (2),Liverpool FC (16),1-2,?,Everton FC (27)
+?,(Thu) 25 Dec 1913 (51),Liverpool FC (17),4-2,?,Manchester City (9)
+?,(Wed) 15 Apr 1914 (15),Liverpool FC (18),1-2,?,Manchester United (9)
+?,(Sat) 13 Dec 1913 (49),Liverpool FC (19),2-1,?,Middlesbrough FC (9)
+?,(Sat) 22 Nov 1913 (46),Liverpool FC (20),0-0,?,Newcastle United (9)
+?,(Sat) 25 Oct 1913 (42),Liverpool FC (21),0-3,?,Oldham Athletic (9)
+?,(Sat) 21 Mar 1914 (11),Liverpool FC (22),3-1,?,Preston North End (9)
+?,(Mon) 27 Apr 1914 (17),Liverpool FC (23),2-1,?,Sheffield United FC (9)
+?,(Sat) 7 Feb 1914 (5),Liverpool FC (24),1-2,?,Sheffield Wednesday (9)
+?,(Sat) 13 Sep 1913 (36),Liverpool FC (25),1-3,?,Sunderland AFC (9)
+?,(Sat) 29 Nov 1913 (47),Liverpool FC (26),2-1,?,Tottenham Hotspur (9)
+?,(Sat) 27 Sep 1913 (38),Liverpool FC (27),0-0,?,West Bromwich Albion (9)
+?,(Fri) 10 Apr 1914 (14),Manchester City (10),3-1,?,Aston Villa FC (28)
+?,(Sat) 11 Oct 1913 (40),Manchester City (11),1-2,?,Blackburn Rovers (28)
+?,(Sat) 21 Mar 1914 (11),Manchester City (12),0-1,?,Bolton Wanderers (28)
+?,(Sat) 7 Feb 1914 (5),Manchester City (13),1-0,?,Bradford City (28)
+?,(Sat) 18 Apr 1914 (15),Manchester City (14),4-1,?,Burnley FC (28)
+?,(Sat) 22 Nov 1913 (46),Manchester City (15),2-1,?,Chelsea FC (28)
+?,(Sat) 20 Sep 1913 (37),Manchester City (16),1-2,?,Derby County (28)
+?,(Sat) 25 Oct 1913 (42),Manchester City (17),1-1,?,Everton FC (28)
+?,(Fri) 26 Dec 1913 (51),Manchester City (18),1-0,?,Liverpool FC (28)
+?,(Sat) 6 Dec 1913 (48),Manchester City (19),0-2,?,Manchester United (10)
+?,(Sat) 6 Sep 1913 (35),Manchester City (20),1-1,?,Middlesbrough FC (10)
+?,(Mon) 13 Apr 1914 (15),Manchester City (21),0-1,?,Newcastle United (10)
+?,(Sat) 4 Apr 1914 (13),Manchester City (22),2-1,?,Oldham Athletic (10)
+?,(Sat) 20 Dec 1913 (50),Manchester City (23),1-1,?,Preston North End (10)
+?,(Sat) 3 Jan 1914 (0),Manchester City (24),2-1,?,Sheffield United FC (10)
+?,(Sat) 8 Nov 1913 (44),Manchester City (25),1-2,?,Sheffield Wednesday (10)
+?,(Wed) 18 Mar 1914 (11),Manchester City (26),3-1,?,Sunderland AFC (10)
+?,(Sat) 24 Jan 1914 (3),Manchester City (27),2-1,?,Tottenham Hotspur (10)
+?,(Wed) 25 Mar 1914 (12),Manchester City (28),2-3,?,West Bromwich Albion (10)
+?,(Sat) 14 Mar 1914 (10),Manchester United (11),0-6,?,Aston Villa FC (29)
+?,(Sat) 25 Apr 1914 (16),Manchester United (12),0-0,?,Blackburn Rovers (29)
+?,(Sat) 13 Sep 1913 (36),Manchester United (13),0-1,?,Bolton Wanderers (29)
+?,(Sat) 13 Dec 1913 (49),Manchester United (14),1-1,?,Bradford City (29)
+?,(Sat) 14 Feb 1914 (6),Manchester United (15),0-1,?,Burnley FC (29)
+?,(Sat) 17 Jan 1914 (2),Manchester United (16),0-1,?,Chelsea FC (29)
+?,(Sat) 29 Nov 1913 (47),Manchester United (17),3-3,?,Derby County (29)
+?,(Thu) 25 Dec 1913 (51),Manchester United (18),0-1,?,Everton FC (29)
+?,(Sat) 1 Nov 1913 (43),Manchester United (19),3-0,?,Liverpool FC (29)
+?,(Sat) 11 Apr 1914 (14),Manchester United (20),0-1,?,Manchester City (29)
+?,(Sat) 15 Nov 1913 (45),Manchester United (21),0-1,?,Middlesbrough FC (11)
+?,(Sat) 28 Feb 1914 (8),Manchester United (22),2-2,?,Newcastle United (11)
+?,(Sat) 27 Sep 1913 (38),Manchester United (23),4-1,?,Oldham Athletic (11)
+?,(Sat) 18 Oct 1913 (41),Manchester United (24),3-0,?,Preston North End (11)
+?,(Wed) 22 Apr 1914 (16),Manchester United (25),2-1,?,Sheffield United FC (11)
+?,(Sat) 27 Dec 1913 (51),Manchester United (26),2-1,?,Sheffield Wednesday (11)
+?,(Mon) 8 Sep 1913 (36),Manchester United (27),3-1,?,Sunderland AFC (11)
+?,(Sat) 4 Oct 1913 (39),Manchester United (28),3-1,?,Tottenham Hotspur (11)
+?,(Thu) 1 Jan 1914 (0),Manchester United (29),1-0,?,West Bromwich Albion (11)
+?,(Sat) 20 Dec 1913 (50),Middlesbrough FC (12),5-2,?,Aston Villa FC (30)
+?,(Sat) 17 Jan 1914 (2),Middlesbrough FC (13),3-0,?,Blackburn Rovers (30)
+?,(Sat) 25 Oct 1913 (42),Middlesbrough FC (14),2-3,?,Bolton Wanderers (30)
+?,(Sat) 13 Sep 1913 (36),Middlesbrough FC (15),1-1,?,Bradford City (30)
+?,(Sat) 22 Nov 1913 (46),Middlesbrough FC (16),2-1,?,Burnley FC (30)
+?,(Sat) 7 Mar 1914 (9),Middlesbrough FC (17),2-0,?,Chelsea FC (30)
+?,(Thu) 1 Jan 1914 (0),Middlesbrough FC (18),3-2,?,Derby County (30)
+?,(Sat) 7 Feb 1914 (5),Middlesbrough FC (19),2-0,?,Everton FC (30)
+?,(Sat) 18 Apr 1914 (15),Middlesbrough FC (20),4-0,?,Liverpool FC (30)
+?,(Sat) 27 Dec 1913 (51),Middlesbrough FC (21),2-0,?,Manchester City (30)
+?,(Sat) 21 Feb 1914 (7),Middlesbrough FC (22),3-1,?,Manchester United (30)
+?,(Sat) 6 Dec 1913 (48),Middlesbrough FC (23),3-0,?,Newcastle United (12)
+?,(Sat) 8 Nov 1913 (44),Middlesbrough FC (24),0-0,?,Oldham Athletic (12)
+?,(Sat) 4 Apr 1914 (13),Middlesbrough FC (25),4-1,?,Preston North End (12)
+?,(Fri) 10 Apr 1914 (14),Middlesbrough FC (26),2-3,?,Sheffield United FC (12)
+?,(Wed) 18 Mar 1914 (11),Middlesbrough FC (27),5-2,?,Sheffield Wednesday (12)
+?,(Sat) 27 Sep 1913 (38),Middlesbrough FC (28),3-4,?,Sunderland AFC (12)
+?,(Mon) 13 Apr 1914 (15),Middlesbrough FC (29),6-0,?,Tottenham Hotspur (12)
+?,(Sat) 11 Oct 1913 (40),Middlesbrough FC (30),3-0,?,West Bromwich Albion (12)
+?,(Sat) 29 Nov 1913 (47),Newcastle United (13),2-2,?,Aston Villa FC (31)
+?,(Fri) 10 Apr 1914 (14),Newcastle United (14),0-0,?,Blackburn Rovers (31)
+?,(Sat) 7 Feb 1914 (5),Newcastle United (15),4-3,?,Bolton Wanderers (31)
+?,(Thu) 25 Dec 1913 (51),Newcastle United (16),0-0,?,Bradford City (31)
+?,(Wed) 18 Mar 1914 (11),Newcastle United (17),3-1,?,Burnley FC (31)
+?,(Sat) 11 Oct 1913 (40),Newcastle United (18),1-0,?,Chelsea FC (31)
+?,(Sat) 25 Apr 1914 (16),Newcastle United (19),1-1,?,Derby County (31)
+?,(Sat) 13 Sep 1913 (36),Newcastle United (20),0-1,?,Everton FC (31)
+?,(Wed) 1 Apr 1914 (13),Newcastle United (21),1-2,?,Liverpool FC (31)
+?,(Thu) 1 Jan 1914 (0),Newcastle United (22),0-1,?,Manchester City (31)
+?,(Sat) 25 Oct 1913 (42),Newcastle United (23),0-1,?,Manchester United (31)
+?,(Sat) 11 Apr 1914 (14),Newcastle United (24),1-0,?,Middlesbrough FC (31)
+?,(Sat) 21 Feb 1914 (7),Newcastle United (25),0-0,?,Oldham Athletic (13)
+?,(Sat) 8 Nov 1913 (44),Newcastle United (26),2-0,?,Preston North End (13)
+?,(Sat) 13 Dec 1913 (49),Newcastle United (27),2-1,?,Sheffield United FC (13)
+?,(Sat) 27 Sep 1913 (38),Newcastle United (28),3-1,?,Sheffield Wednesday (13)
+?,(Sat) 27 Dec 1913 (51),Newcastle United (29),2-1,?,Sunderland AFC (13)
+?,(Sat) 15 Nov 1913 (45),Newcastle United (30),2-0,?,Tottenham Hotspur (13)
+?,(Sat) 17 Jan 1914 (2),Newcastle United (31),3-3,?,West Bromwich Albion (13)
+?,(Sat) 1 Nov 1913 (43),Oldham Athletic (14),0-1,?,Aston Villa FC (32)
+?,(Sat) 13 Dec 1913 (49),Oldham Athletic (15),1-1,?,Blackburn Rovers (32)
+?,(Sat) 27 Dec 1913 (51),Oldham Athletic (16),2-0,?,Bolton Wanderers (32)
+?,(Sat) 11 Apr 1914 (14),Oldham Athletic (17),3-1,?,Bradford City (32)
+?,(Sat) 4 Oct 1913 (39),Oldham Athletic (18),1-1,?,Burnley FC (32)
+?,(Sat) 13 Sep 1913 (36),Oldham Athletic (19),3-2,?,Chelsea FC (32)
+?,(Sat) 28 Mar 1914 (12),Oldham Athletic (20),0-0,?,Derby County (32)
+?,(Thu) 1 Jan 1914 (0),Oldham Athletic (21),2-0,?,Everton FC (32)
+?,(Sat) 28 Feb 1914 (8),Oldham Athletic (22),2-2,?,Liverpool FC (32)
+?,(Sat) 29 Nov 1913 (47),Oldham Athletic (23),1-3,?,Manchester City (32)
+?,(Sat) 24 Jan 1914 (3),Oldham Athletic (24),2-2,?,Manchester United (32)
+?,(Sat) 14 Mar 1914 (10),Oldham Athletic (25),3-0,?,Middlesbrough FC (32)
+?,(Sat) 18 Oct 1913 (41),Oldham Athletic (26),3-0,?,Newcastle United (32)
+?,(Sat) 14 Feb 1914 (6),Oldham Athletic (27),1-0,?,Preston North End (14)
+?,(Sat) 15 Nov 1913 (45),Oldham Athletic (28),1-2,?,Sheffield United FC (14)
+?,(Tue) 14 Apr 1914 (15),Oldham Athletic (29),2-0,?,Sheffield Wednesday (14)
+?,(Sat) 25 Apr 1914 (16),Oldham Athletic (30),2-1,?,Sunderland AFC (14)
+?,(Sat) 20 Sep 1913 (37),Oldham Athletic (31),3-0,?,Tottenham Hotspur (14)
+?,(Thu) 25 Dec 1913 (51),Oldham Athletic (32),2-0,?,West Bromwich Albion (14)
+?,(Wed) 1 Apr 1914 (13),Preston North End (15),3-2,?,Aston Villa FC (33)
+?,(Fri) 26 Dec 1913 (51),Preston North End (16),1-5,?,Blackburn Rovers (33)
+?,(Sat) 27 Sep 1913 (38),Preston North End (17),1-1,?,Bolton Wanderers (33)
+?,(Fri) 10 Apr 1914 (14),Preston North End (18),2-1,?,Bradford City (33)
+?,(Sat) 25 Oct 1913 (42),Preston North End (19),2-1,?,Burnley FC (33)
+?,(Sat) 7 Feb 1914 (5),Preston North End (20),3-3,?,Chelsea FC (33)
+?,(Sat) 13 Dec 1913 (49),Preston North End (21),2-0,?,Derby County (33)
+?,(Sat) 27 Dec 1913 (51),Preston North End (22),1-0,?,Everton FC (33)
+?,(Sat) 15 Nov 1913 (45),Preston North End (23),0-1,?,Liverpool FC (33)
+?,(Sat) 25 Apr 1914 (16),Preston North End (24),2-2,?,Manchester City (33)
+?,(Thu) 5 Mar 1914 (9),Preston North End (25),4-2,?,Manchester United (33)
+?,(Sat) 29 Nov 1913 (47),Preston North End (26),4-1,?,Middlesbrough FC (33)
+?,(Sat) 14 Mar 1914 (10),Preston North End (27),4-1,?,Newcastle United (33)
+?,(Sat) 11 Oct 1913 (40),Preston North End (28),0-1,?,Oldham Athletic (33)
+?,(Sat) 11 Apr 1914 (14),Preston North End (29),2-4,?,Sheffield United FC (15)
+?,(Sat) 17 Jan 1914 (2),Preston North End (30),5-0,?,Sheffield Wednesday (15)
+?,(Mon) 1 Sep 1913 (35),Preston North End (31),2-2,?,Sunderland AFC (15)
+?,(Sat) 1 Nov 1913 (43),Preston North End (32),1-2,?,Tottenham Hotspur (15)
+?,(Sat) 13 Sep 1913 (36),Preston North End (33),0-2,?,West Bromwich Albion (15)
+?,(Thu) 1 Jan 1914 (0),Sheffield United FC (16),3-0,?,Aston Villa FC (34)
+?,(Sat) 27 Sep 1913 (38),Sheffield United FC (17),1-1,?,Blackburn Rovers (34)
+?,(Mon) 6 Apr 1914 (14),Sheffield United FC (18),2-0,?,Bolton Wanderers (34)
+?,(Sat) 17 Jan 1914 (2),Sheffield United FC (19),1-1,?,Bradford City (34)
+?,(Sat) 4 Apr 1914 (13),Sheffield United FC (20),5-0,?,Burnley FC (34)
+?,(Sat) 8 Nov 1913 (44),Sheffield United FC (21),3-2,?,Chelsea FC (34)
+?,(Sat) 27 Dec 1913 (51),Sheffield United FC (22),2-2,?,Derby County (34)
+?,(Sat) 11 Oct 1913 (40),Sheffield United FC (23),4-1,?,Everton FC (34)
+?,(Sat) 20 Dec 1913 (50),Sheffield United FC (24),0-1,?,Liverpool FC (34)
+?,(Sat) 13 Sep 1913 (36),Sheffield United FC (25),1-3,?,Manchester City (34)
+?,(Sat) 22 Nov 1913 (46),Sheffield United FC (26),2-0,?,Manchester United (34)
+?,(Thu) 25 Dec 1913 (51),Sheffield United FC (27),3-1,?,Middlesbrough FC (34)
+?,(Sat) 18 Apr 1914 (15),Sheffield United FC (28),2-0,?,Newcastle United (34)
+?,(Sat) 21 Mar 1914 (11),Sheffield United FC (29),2-1,?,Oldham Athletic (34)
+?,(Sat) 6 Dec 1913 (48),Sheffield United FC (30),2-0,?,Preston North End (34)
+?,(Sat) 25 Oct 1913 (42),Sheffield United FC (31),0-1,?,Sheffield Wednesday (16)
+?,(Sat) 7 Feb 1914 (5),Sheffield United FC (32),1-0,?,Sunderland AFC (16)
+?,(Mon) 1 Sep 1913 (35),Sheffield United FC (33),1-4,?,Tottenham Hotspur (16)
+?,(Thu) 19 Mar 1914 (11),Sheffield United FC (34),1-1,?,West Bromwich Albion (16)
+?,(Sat) 14 Feb 1914 (6),Sheffield Wednesday (17),2-3,?,Aston Villa FC (35)
+?,(Sat) 28 Mar 1914 (12),Sheffield Wednesday (18),3-1,?,Blackburn Rovers (35)
+?,(Mon) 29 Dec 1913 (52),Sheffield Wednesday (19),1-1,?,Bolton Wanderers (35)
+?,(Sat) 15 Nov 1913 (45),Sheffield Wednesday (20),1-3,?,Bradford City (35)
+?,(Sat) 3 Jan 1914 (0),Sheffield Wednesday (21),2-6,?,Burnley FC (35)
+?,(Fri) 26 Dec 1913 (51),Sheffield Wednesday (22),3-0,?,Chelsea FC (35)
+?,(Sat) 1 Nov 1913 (43),Sheffield Wednesday (23),1-3,?,Derby County (35)
+?,(Sat) 11 Apr 1914 (14),Sheffield Wednesday (24),2-2,?,Everton FC (35)
+?,(Sat) 4 Oct 1913 (39),Sheffield Wednesday (25),4-1,?,Liverpool FC (35)
+?,(Sat) 14 Mar 1914 (10),Sheffield Wednesday (26),2-2,?,Manchester City (35)
+?,(Sat) 6 Sep 1913 (35),Sheffield Wednesday (27),1-3,?,Manchester United (35)
+?,(Sat) 18 Oct 1913 (41),Sheffield Wednesday (28),2-0,?,Middlesbrough FC (35)
+?,(Sat) 24 Jan 1914 (3),Sheffield Wednesday (29),0-0,?,Newcastle United (35)
+?,(Mon) 22 Sep 1913 (38),Sheffield Wednesday (30),1-2,?,Oldham Athletic (35)
+?,(Sat) 20 Sep 1913 (37),Sheffield Wednesday (31),2-1,?,Preston North End (35)
+?,(Sat) 28 Feb 1914 (8),Sheffield Wednesday (32),2-1,?,Sheffield United FC (35)
+?,(Sat) 29 Nov 1913 (47),Sheffield Wednesday (33),2-1,?,Sunderland AFC (17)
+?,(Sat) 25 Apr 1914 (16),Sheffield Wednesday (34),2-0,?,Tottenham Hotspur (17)
+?,(Sat) 13 Dec 1913 (49),Sheffield Wednesday (35),1-4,?,West Bromwich Albion (17)
+?,(Sat) 20 Sep 1913 (37),Sunderland AFC (18),2-0,?,Aston Villa FC (36)
+?,(Sat) 1 Nov 1913 (43),Sunderland AFC (19),2-1,?,Blackburn Rovers (36)
+?,(Sat) 6 Dec 1913 (48),Sunderland AFC (20),3-2,?,Bolton Wanderers (36)
+?,(Sat) 28 Feb 1914 (8),Sunderland AFC (21),0-1,?,Bradford City (36)
+?,(Fri) 26 Dec 1913 (51),Sunderland AFC (22),1-1,?,Burnley FC (36)
+?,(Sat) 18 Apr 1914 (15),Sunderland AFC (23),2-0,?,Chelsea FC (36)
+?,(Sat) 14 Feb 1914 (6),Sunderland AFC (24),1-0,?,Derby County (36)
+?,(Sat) 21 Mar 1914 (11),Sunderland AFC (25),5-2,?,Everton FC (36)
+?,(Sat) 3 Jan 1914 (0),Sunderland AFC (26),1-2,?,Liverpool FC (36)
+?,(Sat) 18 Oct 1913 (41),Sunderland AFC (27),0-0,?,Manchester City (36)
+?,(Fri) 10 Apr 1914 (14),Sunderland AFC (28),2-0,?,Manchester United (36)
+?,(Sat) 24 Jan 1914 (3),Sunderland AFC (29),4-2,?,Middlesbrough FC (36)
+?,(Sat) 6 Sep 1913 (35),Sunderland AFC (30),1-2,?,Newcastle United (36)
+?,(Sat) 20 Dec 1913 (50),Sunderland AFC (31),2-0,?,Oldham Athletic (36)
+?,(Thu) 1 Jan 1914 (0),Sunderland AFC (32),3-1,?,Preston North End (36)
+?,(Sat) 4 Oct 1913 (39),Sunderland AFC (33),1-2,?,Sheffield United FC (36)
+?,(Sat) 4 Apr 1914 (13),Sunderland AFC (34),0-1,?,Sheffield Wednesday (36)
+?,(Sat) 14 Mar 1914 (10),Sunderland AFC (35),2-0,?,Tottenham Hotspur (18)
+?,(Sat) 22 Nov 1913 (46),Sunderland AFC (36),0-0,?,West Bromwich Albion (18)
+?,(Sat) 18 Apr 1914 (15),Tottenham Hotspur (19),0-2,?,Aston Villa FC (37)
+?,(Sat) 25 Oct 1913 (42),Tottenham Hotspur (20),3-3,?,Blackburn Rovers (37)
+?,(Fri) 10 Apr 1914 (14),Tottenham Hotspur (21),3-0,?,Bolton Wanderers (37)
+?,(Sat) 11 Oct 1913 (40),Tottenham Hotspur (22),0-0,?,Bradford City (37)
+?,(Mon) 23 Feb 1914 (8),Tottenham Hotspur (23),2-0,?,Burnley FC (37)
+?,(Sat) 27 Dec 1913 (51),Tottenham Hotspur (24),1-2,?,Chelsea FC (37)
+?,(Sat) 13 Sep 1913 (36),Tottenham Hotspur (25),1-1,?,Derby County (37)
+?,(Sat) 22 Nov 1913 (46),Tottenham Hotspur (26),4-1,?,Everton FC (37)
+?,(Sat) 4 Apr 1914 (13),Tottenham Hotspur (27),0-0,?,Liverpool FC (37)
+?,(Sat) 27 Sep 1913 (38),Tottenham Hotspur (28),3-1,?,Manchester City (37)
+?,(Sat) 7 Feb 1914 (5),Tottenham Hotspur (29),2-1,?,Manchester United (37)
+?,(Fri) 26 Dec 1913 (51),Tottenham Hotspur (30),0-1,?,Middlesbrough FC (37)
+?,(Sat) 21 Mar 1914 (11),Tottenham Hotspur (31),0-0,?,Newcastle United (37)
+?,(Sat) 17 Jan 1914 (2),Tottenham Hotspur (32),3-1,?,Oldham Athletic (37)
+?,(Sat) 7 Mar 1914 (9),Tottenham Hotspur (33),1-0,?,Preston North End (37)
+?,(Mon) 8 Sep 1913 (36),Tottenham Hotspur (34),2-1,?,Sheffield United FC (37)
+?,(Sat) 20 Dec 1913 (50),Tottenham Hotspur (35),1-1,?,Sheffield Wednesday (37)
+?,(Sat) 8 Nov 1913 (44),Tottenham Hotspur (36),1-4,?,Sunderland AFC (37)
+?,(Sat) 6 Dec 1913 (48),Tottenham Hotspur (37),3-0,?,West Bromwich Albion (19)
+?,(Sat) 4 Oct 1913 (39),West Bromwich Albion (20),1-0,?,Aston Villa FC (38)
+?,(Sat) 15 Nov 1913 (45),West Bromwich Albion (21),2-0,?,Blackburn Rovers (38)
+?,(Sat) 20 Dec 1913 (50),West Bromwich Albion (22),1-1,?,Bolton Wanderers (38)
+?,(Sat) 14 Mar 1914 (10),West Bromwich Albion (23),2-1,?,Bradford City (38)
+?,(Sat) 6 Sep 1913 (35),West Bromwich Albion (24),4-1,?,Burnley FC (38)
+?,(Tue) 14 Apr 1914 (15),West Bromwich Albion (25),3-1,?,Chelsea FC (38)
+?,(Sat) 28 Feb 1914 (8),West Bromwich Albion (26),2-1,?,Derby County (38)
+?,(Sat) 29 Nov 1913 (47),West Bromwich Albion (27),1-1,?,Everton FC (38)
+?,(Sat) 24 Jan 1914 (3),West Bromwich Albion (28),0-1,?,Liverpool FC (38)
+?,(Sat) 1 Nov 1913 (43),West Bromwich Albion (29),0-0,?,Manchester City (38)
+?,(Mon) 13 Apr 1914 (15),West Bromwich Albion (30),2-1,?,Manchester United (38)
+?,(Sat) 14 Feb 1914 (6),West Bromwich Albion (31),2-1,?,Middlesbrough FC (38)
+?,(Sat) 20 Sep 1913 (37),West Bromwich Albion (32),1-1,?,Newcastle United (38)
+?,(Fri) 26 Dec 1913 (51),West Bromwich Albion (33),2-2,?,Oldham Athletic (38)
+?,(Sat) 3 Jan 1914 (0),West Bromwich Albion (34),1-0,?,Preston North End (38)
+?,(Sat) 18 Oct 1913 (41),West Bromwich Albion (35),2-1,?,Sheffield United FC (38)
+?,(Sat) 18 Apr 1914 (15),West Bromwich Albion (36),1-1,?,Sheffield Wednesday (38)
+?,(Sat) 28 Mar 1914 (12),West Bromwich Albion (37),2-1,?,Sunderland AFC (38)
+?,(Sat) 11 Apr 1914 (14),West Bromwich Albion (38),1-1,?,Tottenham Hotspur (38)

@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aldershot,AFC Bournemouth,1-0,-
--,-,Brighton & Hove Albion,AFC Bournemouth,2-0,-
--,-,Bristol City,AFC Bournemouth,1-1,-
--,-,Bristol Rovers,AFC Bournemouth,2-1,-
--,-,Colchester United,AFC Bournemouth,1-1,-
--,-,Coventry City,AFC Bournemouth,2-3,-
--,-,Crystal Palace,AFC Bournemouth,1-0,-
--,-,Exeter City,AFC Bournemouth,5-1,-
--,-,Gillingham,AFC Bournemouth,1-2,-
--,-,Ipswich Town,AFC Bournemouth,2-1,-
--,-,Leyton Orient,AFC Bournemouth,2-2,-
--,-,Millwall,AFC Bournemouth,3-1,-
--,-,Newport County,AFC Bournemouth,2-1,-
--,-,Northampton Town,AFC Bournemouth,5-1,-
--,-,Norwich City,AFC Bournemouth,1-1,-
--,-,Queens Park Rangers,AFC Bournemouth,2-1,-
--,-,Reading,AFC Bournemouth,1-3,-
--,-,Shrewsbury Town,AFC Bournemouth,1-0,-
--,-,Southend United,AFC Bournemouth,0-0,-
--,-,Swindon Town,AFC Bournemouth,1-2,-
--,-,Torquay United,AFC Bournemouth,5-1,-
--,-,Walsall,AFC Bournemouth,2-2,-
--,-,Watford,AFC Bournemouth,3-0,-
--,-,AFC Bournemouth,Aldershot,0-3,-
--,-,Brighton & Hove Albion,Aldershot,4-2,-
--,-,Bristol City,Aldershot,0-0,-
--,-,Bristol Rovers,Aldershot,4-1,-
--,-,Colchester United,Aldershot,1-2,-
--,-,Coventry City,Aldershot,3-0,-
--,-,Crystal Palace,Aldershot,3-0,-
--,-,Exeter City,Aldershot,2-2,-
--,-,Gillingham,Aldershot,2-0,-
--,-,Ipswich Town,Aldershot,2-1,-
--,-,Leyton Orient,Aldershot,4-1,-
--,-,Millwall,Aldershot,0-0,-
--,-,Newport County,Aldershot,2-1,-
--,-,Northampton Town,Aldershot,4-0,-
--,-,Norwich City,Aldershot,5-0,-
--,-,Queens Park Rangers,Aldershot,2-2,-
--,-,Reading,Aldershot,2-3,-
--,-,Shrewsbury Town,Aldershot,2-1,-
--,-,Southend United,Aldershot,1-1,-
--,-,Swindon Town,Aldershot,3-2,-
--,-,Torquay United,Aldershot,1-2,-
--,-,Walsall,Aldershot,0-0,-
--,-,Watford,Aldershot,1-1,-
--,-,AFC Bournemouth,Brighton & Hove Albion,2-1,-
--,-,Aldershot,Brighton & Hove Albion,1-2,-
--,-,Bristol City,Brighton & Hove Albion,2-2,-
--,-,Bristol Rovers,Brighton & Hove Albion,7-0,-
--,-,Colchester United,Brighton & Hove Albion,0-0,-
--,-,Coventry City,Brighton & Hove Albion,3-1,-
--,-,Crystal Palace,Brighton & Hove Albion,2-1,-
--,-,Exeter City,Brighton & Hove Albion,1-5,-
--,-,Gillingham,Brighton & Hove Albion,1-2,-
--,-,Ipswich Town,Brighton & Hove Albion,1-0,-
--,-,Leyton Orient,Brighton & Hove Albion,3-0,-
--,-,Millwall,Brighton & Hove Albion,1-1,-
--,-,Newport County,Brighton & Hove Albion,0-3,-
--,-,Northampton Town,Brighton & Hove Albion,5-3,-
--,-,Norwich City,Brighton & Hove Albion,3-2,-
--,-,Queens Park Rangers,Brighton & Hove Albion,3-3,-
--,-,Reading,Brighton & Hove Albion,0-0,-
--,-,Shrewsbury Town,Brighton & Hove Albion,0-0,-
--,-,Southend United,Brighton & Hove Albion,1-2,-
--,-,Swindon Town,Brighton & Hove Albion,3-0,-
--,-,Torquay United,Brighton & Hove Albion,1-2,-
--,-,Walsall,Brighton & Hove Albion,3-0,-
--,-,Watford,Brighton & Hove Albion,2-3,-
--,-,AFC Bournemouth,Bristol City,4-1,-
--,-,Aldershot,Bristol City,1-2,-
--,-,Brighton & Hove Albion,Bristol City,0-1,-
--,-,Bristol Rovers,Bristol City,0-0,-
--,-,Colchester United,Bristol City,3-1,-
--,-,Coventry City,Bristol City,2-2,-
--,-,Crystal Palace,Bristol City,1-3,-
--,-,Exeter City,Bristol City,1-1,-
--,-,Gillingham,Bristol City,0-1,-
--,-,Ipswich Town,Bristol City,1-0,-
--,-,Leyton Orient,Bristol City,1-3,-
--,-,Millwall,Bristol City,1-1,-
--,-,Newport County,Bristol City,4-3,-
--,-,Northampton Town,Bristol City,0-2,-
--,-,Norwich City,Bristol City,0-0,-
--,-,Queens Park Rangers,Bristol City,2-1,-
--,-,Reading,Bristol City,4-0,-
--,-,Shrewsbury Town,Bristol City,0-1,-
--,-,Southend United,Bristol City,0-4,-
--,-,Swindon Town,Bristol City,0-0,-
--,-,Torquay United,Bristol City,1-2,-
--,-,Walsall,Bristol City,3-3,-
--,-,Watford,Bristol City,4-1,-
--,-,AFC Bournemouth,Bristol Rovers,1-2,-
--,-,Aldershot,Bristol Rovers,0-0,-
--,-,Brighton & Hove Albion,Bristol Rovers,2-1,-
--,-,Bristol City,Bristol Rovers,0-0,-
--,-,Colchester United,Bristol Rovers,0-3,-
--,-,Coventry City,Bristol Rovers,1-1,-
--,-,Crystal Palace,Bristol Rovers,1-0,-
--,-,Exeter City,Bristol Rovers,0-0,-
--,-,Gillingham,Bristol Rovers,0-4,-
--,-,Ipswich Town,Bristol Rovers,1-5,-
--,-,Leyton Orient,Bristol Rovers,3-3,-
--,-,Millwall,Bristol Rovers,3-0,-
--,-,Newport County,Bristol Rovers,2-2,-
--,-,Northampton Town,Bristol Rovers,2-2,-
--,-,Norwich City,Bristol Rovers,0-0,-
--,-,Queens Park Rangers,Bristol Rovers,0-1,-
--,-,Reading,Bristol Rovers,2-0,-
--,-,Shrewsbury Town,Bristol Rovers,0-1,-
--,-,Southend United,Bristol Rovers,2-1,-
--,-,Swindon Town,Bristol Rovers,1-3,-
--,-,Torquay United,Bristol Rovers,1-0,-
--,-,Walsall,Bristol Rovers,3-5,-
--,-,Watford,Bristol Rovers,2-3,-
--,-,AFC Bournemouth,Colchester United,1-0,-
--,-,Aldershot,Colchester United,0-0,-
--,-,Brighton & Hove Albion,Colchester United,0-0,-
--,-,Bristol City,Colchester United,3-2,-
--,-,Bristol Rovers,Colchester United,3-1,-
--,-,Coventry City,Colchester United,2-2,-
--,-,Crystal Palace,Colchester United,3-1,-
--,-,Exeter City,Colchester United,2-0,-
--,-,Gillingham,Colchester United,1-1,-
--,-,Ipswich Town,Colchester United,2-2,-
--,-,Leyton Orient,Colchester United,5-3,-
--,-,Millwall,Colchester United,3-1,-
--,-,Newport County,Colchester United,0-1,-
--,-,Northampton Town,Colchester United,2-0,-
--,-,Norwich City,Colchester United,3-0,-
--,-,Queens Park Rangers,Colchester United,1-0,-
--,-,Reading,Colchester United,2-0,-
--,-,Shrewsbury Town,Colchester United,3-0,-
--,-,Southend United,Colchester United,4-0,-
--,-,Swindon Town,Colchester United,0-1,-
--,-,Torquay United,Colchester United,5-1,-
--,-,Walsall,Colchester United,0-3,-
--,-,Watford,Colchester United,2-0,-
--,-,AFC Bournemouth,Coventry City,3-0,-
--,-,Aldershot,Coventry City,4-1,-
--,-,Brighton & Hove Albion,Coventry City,1-1,-
--,-,Bristol City,Coventry City,1-0,-
--,-,Bristol Rovers,Coventry City,5-2,-
--,-,Colchester United,Coventry City,0-1,-
--,-,Crystal Palace,Coventry City,2-2,-
--,-,Exeter City,Coventry City,1-0,-
--,-,Gillingham,Coventry City,0-0,-
--,-,Ipswich Town,Coventry City,3-0,-
--,-,Leyton Orient,Coventry City,1-2,-
--,-,Millwall,Coventry City,2-0,-
--,-,Newport County,Coventry City,4-4,-
--,-,Northampton Town,Coventry City,3-1,-
--,-,Norwich City,Coventry City,1-1,-
--,-,Queens Park Rangers,Coventry City,0-4,-
--,-,Reading,Coventry City,1-0,-
--,-,Shrewsbury Town,Coventry City,1-0,-
--,-,Southend United,Coventry City,1-0,-
--,-,Swindon Town,Coventry City,2-3,-
--,-,Torquay United,Coventry City,2-1,-
--,-,Walsall,Coventry City,1-1,-
--,-,Watford,Coventry City,1-1,-
--,-,AFC Bournemouth,Crystal Palace,4-2,-
--,-,Aldershot,Crystal Palace,0-1,-
--,-,Brighton & Hove Albion,Crystal Palace,4-1,-
--,-,Bristol City,Crystal Palace,5-0,-
--,-,Bristol Rovers,Crystal Palace,2-0,-
--,-,Colchester United,Crystal Palace,3-0,-
--,-,Coventry City,Crystal Palace,4-2,-
--,-,Exeter City,Crystal Palace,2-0,-
--,-,Gillingham,Crystal Palace,1-0,-
--,-,Ipswich Town,Crystal Palace,2-0,-
--,-,Leyton Orient,Crystal Palace,0-0,-
--,-,Millwall,Crystal Palace,0-0,-
--,-,Newport County,Crystal Palace,3-2,-
--,-,Northampton Town,Crystal Palace,5-1,-
--,-,Norwich City,Crystal Palace,5-1,-
--,-,Queens Park Rangers,Crystal Palace,1-1,-
--,-,Reading,Crystal Palace,4-1,-
--,-,Shrewsbury Town,Crystal Palace,1-1,-
--,-,Southend United,Crystal Palace,2-2,-
--,-,Swindon Town,Crystal Palace,3-6,-
--,-,Torquay United,Crystal Palace,1-1,-
--,-,Walsall,Crystal Palace,2-4,-
--,-,Watford,Crystal Palace,2-0,-
--,-,AFC Bournemouth,Exeter City,2-1,-
--,-,Aldershot,Exeter City,1-1,-
--,-,Brighton & Hove Albion,Exeter City,4-2,-
--,-,Bristol City,Exeter City,4-1,-
--,-,Bristol Rovers,Exeter City,0-0,-
--,-,Colchester United,Exeter City,3-1,-
--,-,Coventry City,Exeter City,1-0,-
--,-,Crystal Palace,Exeter City,2-0,-
--,-,Gillingham,Exeter City,1-0,-
--,-,Ipswich Town,Exeter City,0-1,-
--,-,Leyton Orient,Exeter City,2-0,-
--,-,Millwall,Exeter City,0-0,-
--,-,Newport County,Exeter City,1-0,-
--,-,Northampton Town,Exeter City,3-1,-
--,-,Norwich City,Exeter City,2-0,-
--,-,Queens Park Rangers,Exeter City,1-1,-
--,-,Reading,Exeter City,3-1,-
--,-,Shrewsbury Town,Exeter City,1-3,-
--,-,Southend United,Exeter City,1-1,-
--,-,Swindon Town,Exeter City,5-2,-
--,-,Torquay United,Exeter City,5-2,-
--,-,Walsall,Exeter City,2-2,-
--,-,Watford,Exeter City,3-1,-
--,-,AFC Bournemouth,Gillingham,4-2,-
--,-,Aldershot,Gillingham,3-2,-
--,-,Brighton & Hove Albion,Gillingham,5-0,-
--,-,Bristol City,Gillingham,4-0,-
--,-,Bristol Rovers,Gillingham,3-1,-
--,-,Colchester United,Gillingham,1-1,-
--,-,Coventry City,Gillingham,2-1,-
--,-,Crystal Palace,Gillingham,0-0,-
--,-,Exeter City,Gillingham,0-0,-
--,-,Ipswich Town,Gillingham,1-1,-
--,-,Leyton Orient,Gillingham,1-1,-
--,-,Millwall,Gillingham,3-1,-
--,-,Newport County,Gillingham,1-2,-
--,-,Northampton Town,Gillingham,3-1,-
--,-,Norwich City,Gillingham,3-2,-
--,-,Queens Park Rangers,Gillingham,1-1,-
--,-,Reading,Gillingham,3-2,-
--,-,Shrewsbury Town,Gillingham,3-1,-
--,-,Southend United,Gillingham,3-1,-
--,-,Swindon Town,Gillingham,0-0,-
--,-,Torquay United,Gillingham,3-2,-
--,-,Walsall,Gillingham,1-3,-
--,-,Watford,Gillingham,0-0,-
--,-,AFC Bournemouth,Ipswich Town,2-1,-
--,-,Aldershot,Ipswich Town,1-1,-
--,-,Brighton & Hove Albion,Ipswich Town,1-4,-
--,-,Bristol City,Ipswich Town,4-2,-
--,-,Bristol Rovers,Ipswich Town,3-0,-
--,-,Colchester United,Ipswich Town,0-0,-
--,-,Coventry City,Ipswich Town,2-0,-
--,-,Crystal Palace,Ipswich Town,1-1,-
--,-,Exeter City,Ipswich Town,1-1,-
--,-,Gillingham,Ipswich Town,1-1,-
--,-,Leyton Orient,Ipswich Town,3-1,-
--,-,Millwall,Ipswich Town,3-2,-
--,-,Newport County,Ipswich Town,1-3,-
--,-,Northampton Town,Ipswich Town,2-0,-
--,-,Norwich City,Ipswich Town,1-0,-
--,-,Queens Park Rangers,Ipswich Town,2-2,-
--,-,Reading,Ipswich Town,1-1,-
--,-,Shrewsbury Town,Ipswich Town,2-2,-
--,-,Southend United,Ipswich Town,2-0,-
--,-,Swindon Town,Ipswich Town,2-0,-
--,-,Torquay United,Ipswich Town,4-1,-
--,-,Walsall,Ipswich Town,1-3,-
--,-,Watford,Ipswich Town,1-0,-
--,-,AFC Bournemouth,Leyton Orient,4-1,-
--,-,Aldershot,Leyton Orient,2-0,-
--,-,Brighton & Hove Albion,Leyton Orient,3-1,-
--,-,Bristol City,Leyton Orient,2-1,-
--,-,Bristol Rovers,Leyton Orient,2-1,-
--,-,Colchester United,Leyton Orient,3-1,-
--,-,Coventry City,Leyton Orient,3-0,-
--,-,Crystal Palace,Leyton Orient,2-2,-
--,-,Exeter City,Leyton Orient,0-1,-
--,-,Gillingham,Leyton Orient,3-2,-
--,-,Ipswich Town,Leyton Orient,0-1,-
--,-,Millwall,Leyton Orient,0-0,-
--,-,Newport County,Leyton Orient,0-1,-
--,-,Northampton Town,Leyton Orient,3-1,-
--,-,Norwich City,Leyton Orient,5-1,-
--,-,Queens Park Rangers,Leyton Orient,0-1,-
--,-,Reading,Leyton Orient,2-0,-
--,-,Shrewsbury Town,Leyton Orient,2-0,-
--,-,Southend United,Leyton Orient,1-0,-
--,-,Swindon Town,Leyton Orient,1-1,-
--,-,Torquay United,Leyton Orient,5-0,-
--,-,Walsall,Leyton Orient,1-0,-
--,-,Watford,Leyton Orient,1-0,-
--,-,AFC Bournemouth,Millwall,1-1,-
--,-,Aldershot,Millwall,1-2,-
--,-,Brighton & Hove Albion,Millwall,1-0,-
--,-,Bristol City,Millwall,0-0,-
--,-,Bristol Rovers,Millwall,1-1,-
--,-,Colchester United,Millwall,0-0,-
--,-,Coventry City,Millwall,4-1,-
--,-,Crystal Palace,Millwall,0-1,-
--,-,Exeter City,Millwall,1-0,-
--,-,Gillingham,Millwall,0-1,-
--,-,Ipswich Town,Millwall,1-6,-
--,-,Leyton Orient,Millwall,1-4,-
--,-,Newport County,Millwall,1-3,-
--,-,Northampton Town,Millwall,1-1,-
--,-,Norwich City,Millwall,2-2,-
--,-,Queens Park Rangers,Millwall,1-3,-
--,-,Reading,Millwall,5-0,-
--,-,Shrewsbury Town,Millwall,2-4,-
--,-,Southend United,Millwall,2-1,-
--,-,Swindon Town,Millwall,1-2,-
--,-,Torquay United,Millwall,1-0,-
--,-,Walsall,Millwall,0-2,-
--,-,Watford,Millwall,1-1,-
--,-,AFC Bournemouth,Newport County,1-2,-
--,-,Aldershot,Newport County,2-2,-
--,-,Brighton & Hove Albion,Newport County,2-2,-
--,-,Bristol City,Newport County,2-0,-
--,-,Bristol Rovers,Newport County,3-1,-
--,-,Colchester United,Newport County,3-3,-
--,-,Coventry City,Newport County,0-1,-
--,-,Crystal Palace,Newport County,2-1,-
--,-,Exeter City,Newport County,3-2,-
--,-,Gillingham,Newport County,1-1,-
--,-,Ipswich Town,Newport County,3-0,-
--,-,Leyton Orient,Newport County,2-1,-
--,-,Millwall,Newport County,3-0,-
--,-,Northampton Town,Newport County,5-0,-
--,-,Norwich City,Newport County,2-0,-
--,-,Queens Park Rangers,Newport County,4-2,-
--,-,Reading,Newport County,2-1,-
--,-,Shrewsbury Town,Newport County,1-1,-
--,-,Southend United,Newport County,1-0,-
--,-,Swindon Town,Newport County,2-0,-
--,-,Torquay United,Newport County,3-3,-
--,-,Walsall,Newport County,1-3,-
--,-,Watford,Newport County,0-1,-
--,-,AFC Bournemouth,Northampton Town,0-1,-
--,-,Aldershot,Northampton Town,2-1,-
--,-,Brighton & Hove Albion,Northampton Town,1-1,-
--,-,Bristol City,Northampton Town,2-3,-
--,-,Bristol Rovers,Northampton Town,1-1,-
--,-,Colchester United,Northampton Town,1-2,-
--,-,Coventry City,Northampton Town,1-1,-
--,-,Crystal Palace,Northampton Town,4-3,-
--,-,Exeter City,Northampton Town,2-0,-
--,-,Gillingham,Northampton Town,1-1,-
--,-,Ipswich Town,Northampton Town,1-1,-
--,-,Leyton Orient,Northampton Town,0-1,-
--,-,Millwall,Northampton Town,1-2,-
--,-,Newport County,Northampton Town,4-1,-
--,-,Norwich City,Northampton Town,1-2,-
--,-,Queens Park Rangers,Northampton Town,2-2,-
--,-,Reading,Northampton Town,2-0,-
--,-,Shrewsbury Town,Northampton Town,2-4,-
--,-,Southend United,Northampton Town,3-1,-
--,-,Swindon Town,Northampton Town,3-0,-
--,-,Torquay United,Northampton Town,3-0,-
--,-,Walsall,Northampton Town,1-5,-
--,-,Watford,Northampton Town,2-1,-
--,-,AFC Bournemouth,Norwich City,0-0,-
--,-,Aldershot,Norwich City,1-2,-
--,-,Brighton & Hove Albion,Norwich City,2-3,-
--,-,Bristol City,Norwich City,0-1,-
--,-,Bristol Rovers,Norwich City,3-1,-
--,-,Colchester United,Norwich City,0-4,-
--,-,Coventry City,Norwich City,2-1,-
--,-,Crystal Palace,Norwich City,1-1,-
--,-,Exeter City,Norwich City,1-0,-
--,-,Gillingham,Norwich City,0-3,-
--,-,Ipswich Town,Norwich City,2-1,-
--,-,Leyton Orient,Norwich City,3-1,-
--,-,Millwall,Norwich City,2-3,-
--,-,Newport County,Norwich City,1-1,-
--,-,Northampton Town,Norwich City,3-3,-
--,-,Queens Park Rangers,Norwich City,3-1,-
--,-,Reading,Norwich City,0-1,-
--,-,Shrewsbury Town,Norwich City,1-8,-
--,-,Southend United,Norwich City,1-2,-
--,-,Swindon Town,Norwich City,2-1,-
--,-,Torquay United,Norwich City,4-1,-
--,-,Walsall,Norwich City,3-2,-
--,-,Watford,Norwich City,3-2,-
--,-,AFC Bournemouth,Queens Park Rangers,1-0,-
--,-,Aldershot,Queens Park Rangers,4-1,-
--,-,Brighton & Hove Albion,Queens Park Rangers,2-0,-
--,-,Bristol City,Queens Park Rangers,4-4,-
--,-,Bristol Rovers,Queens Park Rangers,2-1,-
--,-,Colchester United,Queens Park Rangers,1-1,-
--,-,Coventry City,Queens Park Rangers,2-0,-
--,-,Crystal Palace,Queens Park Rangers,4-2,-
--,-,Exeter City,Queens Park Rangers,2-2,-
--,-,Gillingham,Queens Park Rangers,3-0,-
--,-,Ipswich Town,Queens Park Rangers,0-1,-
--,-,Leyton Orient,Queens Park Rangers,5-0,-
--,-,Millwall,Queens Park Rangers,2-1,-
--,-,Newport County,Queens Park Rangers,2-0,-
--,-,Northampton Town,Queens Park Rangers,4-2,-
--,-,Norwich City,Queens Park Rangers,2-0,-
--,-,Reading,Queens Park Rangers,2-0,-
--,-,Shrewsbury Town,Queens Park Rangers,0-3,-
--,-,Southend United,Queens Park Rangers,2-0,-
--,-,Swindon Town,Queens Park Rangers,1-3,-
--,-,Torquay United,Queens Park Rangers,1-1,-
--,-,Walsall,Queens Park Rangers,1-1,-
--,-,Watford,Queens Park Rangers,1-1,-
--,-,AFC Bournemouth,Reading,2-0,-
--,-,Aldershot,Reading,2-2,-
--,-,Brighton & Hove Albion,Reading,1-1,-
--,-,Bristol City,Reading,1-1,-
--,-,Bristol Rovers,Reading,4-0,-
--,-,Colchester United,Reading,2-1,-
--,-,Coventry City,Reading,4-0,-
--,-,Crystal Palace,Reading,0-3,-
--,-,Exeter City,Reading,2-0,-
--,-,Gillingham,Reading,2-1,-
--,-,Ipswich Town,Reading,1-2,-
--,-,Leyton Orient,Reading,1-1,-
--,-,Millwall,Reading,1-0,-
--,-,Newport County,Reading,1-0,-
--,-,Northampton Town,Reading,6-1,-
--,-,Norwich City,Reading,3-0,-
--,-,Queens Park Rangers,Reading,1-0,-
--,-,Shrewsbury Town,Reading,1-1,-
--,-,Southend United,Reading,3-1,-
--,-,Swindon Town,Reading,2-0,-
--,-,Torquay United,Reading,2-0,-
--,-,Walsall,Reading,2-0,-
--,-,Watford,Reading,2-1,-
--,-,AFC Bournemouth,Shrewsbury Town,2-0,-
--,-,Aldershot,Shrewsbury Town,4-2,-
--,-,Brighton & Hove Albion,Shrewsbury Town,3-1,-
--,-,Bristol City,Shrewsbury Town,3-2,-
--,-,Bristol Rovers,Shrewsbury Town,2-1,-
--,-,Colchester United,Shrewsbury Town,1-0,-
--,-,Coventry City,Shrewsbury Town,0-0,-
--,-,Crystal Palace,Shrewsbury Town,1-2,-
--,-,Exeter City,Shrewsbury Town,2-2,-
--,-,Gillingham,Shrewsbury Town,4-2,-
--,-,Ipswich Town,Shrewsbury Town,2-1,-
--,-,Leyton Orient,Shrewsbury Town,0-0,-
--,-,Millwall,Shrewsbury Town,4-1,-
--,-,Newport County,Shrewsbury Town,4-2,-
--,-,Northampton Town,Shrewsbury Town,3-1,-
--,-,Norwich City,Shrewsbury Town,2-1,-
--,-,Queens Park Rangers,Shrewsbury Town,1-0,-
--,-,Reading,Shrewsbury Town,5-3,-
--,-,Southend United,Shrewsbury Town,2-2,-
--,-,Swindon Town,Shrewsbury Town,2-2,-
--,-,Torquay United,Shrewsbury Town,4-0,-
--,-,Walsall,Shrewsbury Town,4-4,-
--,-,Watford,Shrewsbury Town,1-1,-
--,-,AFC Bournemouth,Southend United,5-1,-
--,-,Aldershot,Southend United,1-1,-
--,-,Brighton & Hove Albion,Southend United,2-2,-
--,-,Bristol City,Southend United,5-0,-
--,-,Bristol Rovers,Southend United,2-1,-
--,-,Colchester United,Southend United,3-3,-
--,-,Coventry City,Southend United,2-1,-
--,-,Crystal Palace,Southend United,0-0,-
--,-,Exeter City,Southend United,0-2,-
--,-,Gillingham,Southend United,1-1,-
--,-,Ipswich Town,Southend United,0-0,-
--,-,Leyton Orient,Southend United,3-0,-
--,-,Millwall,Southend United,4-1,-
--,-,Newport County,Southend United,0-1,-
--,-,Northampton Town,Southend United,4-3,-
--,-,Norwich City,Southend United,3-1,-
--,-,Queens Park Rangers,Southend United,3-2,-
--,-,Reading,Southend United,1-0,-
--,-,Shrewsbury Town,Southend United,7-1,-
--,-,Swindon Town,Southend United,1-3,-
--,-,Torquay United,Southend United,4-2,-
--,-,Walsall,Southend United,1-1,-
--,-,Watford,Southend United,1-1,-
--,-,AFC Bournemouth,Swindon Town,1-1,-
--,-,Aldershot,Swindon Town,2-2,-
--,-,Brighton & Hove Albion,Swindon Town,1-2,-
--,-,Bristol City,Swindon Town,4-2,-
--,-,Bristol Rovers,Swindon Town,1-2,-
--,-,Colchester United,Swindon Town,3-1,-
--,-,Coventry City,Swindon Town,1-2,-
--,-,Crystal Palace,Swindon Town,3-0,-
--,-,Exeter City,Swindon Town,1-2,-
--,-,Gillingham,Swindon Town,0-0,-
--,-,Ipswich Town,Swindon Town,1-1,-
--,-,Leyton Orient,Swindon Town,2-2,-
--,-,Millwall,Swindon Town,3-0,-
--,-,Newport County,Swindon Town,3-0,-
--,-,Northampton Town,Swindon Town,3-1,-
--,-,Norwich City,Swindon Town,1-1,-
--,-,Queens Park Rangers,Swindon Town,1-1,-
--,-,Reading,Swindon Town,4-1,-
--,-,Shrewsbury Town,Swindon Town,2-1,-
--,-,Southend United,Swindon Town,3-0,-
--,-,Torquay United,Swindon Town,3-1,-
--,-,Walsall,Swindon Town,1-2,-
--,-,Watford,Swindon Town,2-1,-
--,-,AFC Bournemouth,Torquay United,0-1,-
--,-,Aldershot,Torquay United,0-2,-
--,-,Brighton & Hove Albion,Torquay United,2-1,-
--,-,Bristol City,Torquay United,4-4,-
--,-,Bristol Rovers,Torquay United,3-0,-
--,-,Colchester United,Torquay United,4-1,-
--,-,Coventry City,Torquay United,7-2,-
--,-,Crystal Palace,Torquay United,2-2,-
--,-,Exeter City,Torquay United,4-1,-
--,-,Gillingham,Torquay United,2-1,-
--,-,Ipswich Town,Torquay United,2-2,-
--,-,Leyton Orient,Torquay United,4-1,-
--,-,Millwall,Torquay United,3-0,-
--,-,Newport County,Torquay United,3-0,-
--,-,Northampton Town,Torquay United,3-3,-
--,-,Norwich City,Torquay United,3-0,-
--,-,Queens Park Rangers,Torquay United,0-1,-
--,-,Reading,Torquay United,4-1,-
--,-,Shrewsbury Town,Torquay United,2-1,-
--,-,Southend United,Torquay United,3-1,-
--,-,Swindon Town,Torquay United,2-0,-
--,-,Walsall,Torquay United,2-0,-
--,-,Watford,Torquay United,1-1,-
--,-,AFC Bournemouth,Walsall,5-1,-
--,-,Aldershot,Walsall,2-0,-
--,-,Brighton & Hove Albion,Walsall,4-2,-
--,-,Bristol City,Walsall,6-1,-
--,-,Bristol Rovers,Walsall,2-0,-
--,-,Colchester United,Walsall,6-1,-
--,-,Coventry City,Walsall,3-1,-
--,-,Crystal Palace,Walsall,4-1,-
--,-,Exeter City,Walsall,6-1,-
--,-,Gillingham,Walsall,3-1,-
--,-,Ipswich Town,Walsall,5-0,-
--,-,Leyton Orient,Walsall,4-1,-
--,-,Millwall,Walsall,3-0,-
--,-,Newport County,Walsall,3-2,-
--,-,Northampton Town,Walsall,2-1,-
--,-,Norwich City,Walsall,3-0,-
--,-,Queens Park Rangers,Walsall,4-2,-
--,-,Reading,Walsall,0-0,-
--,-,Shrewsbury Town,Walsall,1-0,-
--,-,Southend United,Walsall,2-1,-
--,-,Swindon Town,Walsall,1-2,-
--,-,Torquay United,Walsall,0-3,-
--,-,Watford,Walsall,3-0,-
--,-,AFC Bournemouth,Watford,4-1,-
--,-,Aldershot,Watford,1-2,-
--,-,Brighton & Hove Albion,Watford,1-2,-
--,-,Bristol City,Watford,5-1,-
--,-,Bristol Rovers,Watford,0-3,-
--,-,Colchester United,Watford,1-1,-
--,-,Coventry City,Watford,1-0,-
--,-,Crystal Palace,Watford,1-0,-
--,-,Exeter City,Watford,1-1,-
--,-,Gillingham,Watford,2-1,-
--,-,Ipswich Town,Watford,1-1,-
--,-,Leyton Orient,Watford,2-0,-
--,-,Millwall,Watford,1-1,-
--,-,Newport County,Watford,1-1,-
--,-,Northampton Town,Watford,4-1,-
--,-,Norwich City,Watford,5-2,-
--,-,Queens Park Rangers,Watford,2-2,-
--,-,Reading,Watford,3-0,-
--,-,Shrewsbury Town,Watford,3-1,-
--,-,Southend United,Watford,1-0,-
--,-,Swindon Town,Watford,0-0,-
--,-,Torquay United,Watford,2-2,-
--,-,Walsall,Watford,0-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Wed) 3 Sep 1952 (35),AFC Bournemouth (1),0-3,?,Aldershot Town FC (1)
+?,(Wed) 1 Oct 1952 (39),AFC Bournemouth (2),2-1,?,Brighton & Hove Albion (1)
+?,(Mon) 6 Apr 1953 (14),AFC Bournemouth (3),4-1,?,Bristol City FC (1)
+?,(Sat) 8 Nov 1952 (44),AFC Bournemouth (4),1-2,?,Bristol Rovers (1)
+?,(Sat) 11 Oct 1952 (40),AFC Bournemouth (5),1-0,?,Colchester United (1)
+?,(Sat) 25 Oct 1952 (42),AFC Bournemouth (6),3-0,?,Coventry City (1)
+?,(Sat) 31 Jan 1953 (4),AFC Bournemouth (7),4-2,?,Crystal Palace FC (1)
+?,(Sat) 21 Mar 1953 (11),AFC Bournemouth (8),2-1,?,Exeter City (1)
+?,(Wed) 24 Sep 1952 (38),AFC Bournemouth (9),4-2,?,Gillingham FC (1)
+?,(Sat) 6 Sep 1952 (35),AFC Bournemouth (10),2-1,?,Ipswich Town (1)
+?,(Sat) 3 Jan 1953 (0),AFC Bournemouth (11),4-1,?,Leyton Orient FC (1)
+?,(Sat) 4 Apr 1953 (13),AFC Bournemouth (12),1-1,?,Millwall FC (1)
+?,(Wed) 17 Sep 1952 (37),AFC Bournemouth (13),1-2,?,Newport County AFC (1)
+?,(Sat) 23 Aug 1952 (33),AFC Bournemouth (14),0-1,?,Northampton Town (1)
+?,(Sat) 7 Mar 1953 (9),AFC Bournemouth (15),0-0,?,Norwich City (1)
+?,(Sat) 2 May 1953 (17),AFC Bournemouth (16),1-0,?,Queens Park Rangers (1)
+?,(Sat) 24 Jan 1953 (3),AFC Bournemouth (17),2-0,?,Reading FC (1)
+?,(Wed) 15 Apr 1953 (15),AFC Bournemouth (18),2-0,?,Shrewsbury Town (1)
+?,(Sat) 27 Sep 1952 (38),AFC Bournemouth (19),5-1,?,Southend United (1)
+?,(Sat) 7 Feb 1953 (5),AFC Bournemouth (20),1-1,?,Swindon Town (1)
+?,(Sat) 27 Dec 1952 (51),AFC Bournemouth (21),0-1,?,Torquay United (1)
+?,(Sat) 18 Apr 1953 (15),AFC Bournemouth (22),5-1,?,Walsall FC (1)
+?,(Sat) 21 Feb 1953 (7),AFC Bournemouth (23),4-1,?,Watford FC (1)
+?,(Wed) 27 Aug 1952 (34),Aldershot Town FC (2),1-0,?,AFC Bournemouth (24)
+?,(Sat) 14 Mar 1953 (10),Aldershot Town FC (3),1-2,?,Brighton & Hove Albion (2)
+?,(Sat) 15 Nov 1952 (45),Aldershot Town FC (4),1-2,?,Bristol City FC (2)
+?,(Wed) 29 Apr 1953 (17),Aldershot Town FC (5),0-0,?,Bristol Rovers (2)
+?,(Sat) 30 Aug 1952 (34),Aldershot Town FC (6),0-0,?,Colchester United (2)
+?,(Fri) 26 Dec 1952 (51),Aldershot Town FC (7),4-1,?,Coventry City (2)
+?,(Sat) 28 Mar 1953 (12),Aldershot Town FC (8),0-1,?,Crystal Palace FC (2)
+?,(Fri) 3 Apr 1953 (13),Aldershot Town FC (9),1-1,?,Exeter City (2)
+?,(Wed) 22 Apr 1953 (16),Aldershot Town FC (10),3-2,?,Gillingham FC (2)
+?,(Sat) 13 Dec 1952 (49),Aldershot Town FC (11),1-1,?,Ipswich Town (2)
+?,(Sat) 25 Apr 1953 (16),Aldershot Town FC (12),2-0,?,Leyton Orient FC (2)
+?,(Wed) 10 Sep 1952 (36),Aldershot Town FC (13),1-2,?,Millwall FC (2)
+?,(Sat) 1 Nov 1952 (43),Aldershot Town FC (14),2-2,?,Newport County AFC (2)
+?,(Sat) 29 Nov 1952 (47),Aldershot Town FC (15),2-1,?,Northampton Town (2)
+?,(Sat) 20 Dec 1952 (50),Aldershot Town FC (16),1-2,?,Norwich City (2)
+?,(Sat) 20 Sep 1952 (37),Aldershot Town FC (17),4-1,?,Queens Park Rangers (2)
+?,(Sat) 6 Sep 1952 (35),Aldershot Town FC (18),2-2,?,Reading FC (2)
+?,(Sat) 14 Feb 1953 (6),Aldershot Town FC (19),4-2,?,Shrewsbury Town (2)
+?,(Sat) 28 Feb 1953 (8),Aldershot Town FC (20),1-1,?,Southend United (2)
+?,(Sat) 24 Jan 1953 (3),Aldershot Town FC (21),2-2,?,Swindon Town (2)
+?,(Sat) 11 Apr 1953 (14),Aldershot Town FC (22),0-2,?,Torquay United (2)
+?,(Sat) 4 Oct 1952 (39),Aldershot Town FC (23),2-0,?,Walsall FC (2)
+?,(Sat) 18 Oct 1952 (41),Aldershot Town FC (24),1-2,?,Watford FC (2)
+?,(Wed) 22 Apr 1953 (16),Brighton & Hove Albion (3),2-0,?,AFC Bournemouth (25)
+?,(Sat) 25 Oct 1952 (42),Brighton & Hove Albion (4),4-2,?,Aldershot Town FC (25)
+?,(Sat) 3 Jan 1953 (0),Brighton & Hove Albion (5),0-1,?,Bristol City FC (3)
+?,(Sat) 18 Apr 1953 (15),Brighton & Hove Albion (6),2-1,?,Bristol Rovers (3)
+?,(Sat) 21 Mar 1953 (11),Brighton & Hove Albion (7),0-0,?,Colchester United (3)
+?,(Sat) 4 Apr 1953 (13),Brighton & Hove Albion (8),1-1,?,Coventry City (3)
+?,(Sat) 23 Aug 1952 (33),Brighton & Hove Albion (9),4-1,?,Crystal Palace FC (3)
+?,(Wed) 24 Sep 1952 (38),Brighton & Hove Albion (10),4-2,?,Exeter City (3)
+?,(Sat) 2 May 1953 (17),Brighton & Hove Albion (11),5-0,?,Gillingham FC (3)
+?,(Sat) 14 Feb 1953 (6),Brighton & Hove Albion (12),1-4,?,Ipswich Town (3)
+?,(Sat) 20 Sep 1952 (37),Brighton & Hove Albion (13),3-1,?,Leyton Orient FC (3)
+?,(Wed) 15 Apr 1953 (15),Brighton & Hove Albion (14),1-0,?,Millwall FC (3)
+?,(Sat) 27 Dec 1952 (51),Brighton & Hove Albion (15),2-2,?,Newport County AFC (3)
+?,(Sat) 24 Jan 1953 (3),Brighton & Hove Albion (16),1-1,?,Northampton Town (3)
+?,(Sat) 8 Nov 1952 (44),Brighton & Hove Albion (17),2-3,?,Norwich City (3)
+?,(Sat) 11 Oct 1952 (40),Brighton & Hove Albion (18),2-0,?,Queens Park Rangers (3)
+?,(Sat) 4 Oct 1952 (39),Brighton & Hove Albion (19),1-1,?,Reading FC (3)
+?,(Wed) 3 Sep 1952 (35),Brighton & Hove Albion (20),3-1,?,Shrewsbury Town (3)
+?,(Wed) 17 Sep 1952 (37),Brighton & Hove Albion (21),2-2,?,Southend United (3)
+?,(Sat) 7 Mar 1953 (9),Brighton & Hove Albion (22),1-2,?,Swindon Town (3)
+?,(Sat) 6 Sep 1952 (35),Brighton & Hove Albion (23),2-1,?,Torquay United (3)
+?,(Fri) 3 Apr 1953 (13),Brighton & Hove Albion (24),4-2,?,Walsall FC (3)
+?,(Sat) 31 Jan 1953 (4),Brighton & Hove Albion (25),1-2,?,Watford FC (3)
+?,(Fri) 3 Apr 1953 (13),Bristol City FC (4),1-1,?,AFC Bournemouth (26)
+?,(Sat) 4 Apr 1953 (13),Bristol City FC (5),0-0,?,Aldershot Town FC (26)
+?,(Sat) 30 Aug 1952 (34),Bristol City FC (6),2-2,?,Brighton & Hove Albion (26)
+?,(Sat) 7 Feb 1953 (5),Bristol City FC (7),0-0,?,Bristol Rovers (4)
+?,(Tue) 23 Sep 1952 (38),Bristol City FC (8),3-2,?,Colchester United (4)
+?,(Tue) 28 Apr 1953 (17),Bristol City FC (9),1-0,?,Coventry City (4)
+?,(Sat) 13 Sep 1952 (36),Bristol City FC (10),5-0,?,Crystal Palace FC (4)
+?,(Sat) 6 Dec 1952 (48),Bristol City FC (11),4-1,?,Exeter City (4)
+?,(Sat) 11 Oct 1952 (40),Bristol City FC (12),4-0,?,Gillingham FC (4)
+?,(Tue) 9 Sep 1952 (36),Bristol City FC (13),4-2,?,Ipswich Town (4)
+?,(Tue) 21 Apr 1953 (16),Bristol City FC (14),2-1,?,Leyton Orient FC (4)
+?,(Tue) 26 Aug 1952 (34),Bristol City FC (15),0-0,?,Millwall FC (4)
+?,(Sat) 17 Jan 1953 (2),Bristol City FC (16),2-0,?,Newport County AFC (4)
+?,(Sat) 4 Oct 1952 (39),Bristol City FC (17),2-3,?,Northampton Town (4)
+?,(Sat) 18 Apr 1953 (15),Bristol City FC (18),0-1,?,Norwich City (4)
+?,(Sat) 21 Mar 1953 (11),Bristol City FC (19),4-4,?,Queens Park Rangers (4)
+?,(Sat) 10 Jan 1953 (1),Bristol City FC (20),1-1,?,Reading FC (4)
+?,(Sat) 25 Oct 1952 (42),Bristol City FC (21),3-2,?,Shrewsbury Town (4)
+?,(Fri) 26 Dec 1952 (51),Bristol City FC (22),5-0,?,Southend United (4)
+?,(Sat) 8 Nov 1952 (44),Bristol City FC (23),4-2,?,Swindon Town (4)
+?,(Sat) 14 Feb 1953 (6),Bristol City FC (24),4-4,?,Torquay United (4)
+?,(Sat) 7 Mar 1953 (9),Bristol City FC (25),6-1,?,Walsall FC (4)
+?,(Sat) 20 Dec 1952 (50),Bristol City FC (26),5-1,?,Watford FC (4)
+?,(Sat) 28 Mar 1953 (12),Bristol Rovers (5),2-1,?,AFC Bournemouth (27)
+?,(Sat) 31 Jan 1953 (4),Bristol Rovers (6),4-1,?,Aldershot Town FC (27)
+?,(Sat) 29 Nov 1952 (47),Bristol Rovers (7),7-0,?,Brighton & Hove Albion (27)
+?,(Sat) 20 Sep 1952 (37),Bristol Rovers (8),0-0,?,Bristol City FC (27)
+?,(Mon) 15 Sep 1952 (37),Bristol Rovers (9),3-1,?,Colchester United (5)
+?,(Sat) 21 Feb 1953 (7),Bristol Rovers (10),5-2,?,Coventry City (5)
+?,(Sat) 13 Dec 1952 (49),Bristol Rovers (11),2-0,?,Crystal Palace FC (5)
+?,(Sat) 27 Sep 1952 (38),Bristol Rovers (12),0-0,?,Exeter City (5)
+?,(Sat) 6 Sep 1952 (35),Bristol Rovers (13),3-1,?,Gillingham FC (5)
+?,(Sat) 14 Mar 1953 (10),Bristol Rovers (14),3-0,?,Ipswich Town (5)
+?,(Sat) 18 Oct 1952 (41),Bristol Rovers (15),2-1,?,Leyton Orient FC (5)
+?,(Sat) 24 Jan 1953 (3),Bristol Rovers (16),1-1,?,Millwall FC (5)
+?,(Sat) 25 Apr 1953 (16),Bristol Rovers (17),3-1,?,Newport County AFC (5)
+?,(Sat) 28 Feb 1953 (8),Bristol Rovers (18),1-1,?,Northampton Town (5)
+?,(Mon) 29 Sep 1952 (39),Bristol Rovers (19),3-1,?,Norwich City (5)
+?,(Sat) 27 Dec 1952 (51),Bristol Rovers (20),2-1,?,Queens Park Rangers (5)
+?,(Sat) 1 Nov 1952 (43),Bristol Rovers (21),4-0,?,Reading FC (5)
+?,(Sat) 23 Aug 1952 (33),Bristol Rovers (22),2-1,?,Shrewsbury Town (5)
+?,(Sat) 15 Nov 1952 (45),Bristol Rovers (23),2-1,?,Southend United (5)
+?,(Mon) 6 Apr 1953 (14),Bristol Rovers (24),1-2,?,Swindon Town (5)
+?,(Mon) 1 Sep 1952 (35),Bristol Rovers (25),3-0,?,Torquay United (5)
+?,(Sat) 3 Jan 1953 (0),Bristol Rovers (26),2-0,?,Walsall FC (5)
+?,(Sat) 11 Apr 1953 (14),Bristol Rovers (27),0-3,?,Watford FC (5)
+?,(Sat) 28 Feb 1953 (8),Colchester United (6),1-1,?,AFC Bournemouth (28)
+?,(Sat) 3 Jan 1953 (0),Colchester United (7),1-2,?,Aldershot Town FC (28)
+?,(Sat) 1 Nov 1952 (43),Colchester United (8),0-0,?,Brighton & Hove Albion (28)
+?,(Sat) 11 Apr 1953 (14),Colchester United (9),3-1,?,Bristol City FC (28)
+?,(Thu) 11 Sep 1952 (36),Colchester United (10),0-3,?,Bristol Rovers (28)
+?,(Fri) 3 Apr 1953 (13),Colchester United (11),0-1,?,Coventry City (6)
+?,(Thu) 19 Mar 1953 (11),Colchester United (12),3-0,?,Crystal Palace FC (6)
+?,(Sat) 31 Jan 1953 (4),Colchester United (13),3-1,?,Exeter City (6)
+?,(Sat) 4 Oct 1952 (39),Colchester United (14),1-1,?,Gillingham FC (6)
+?,(Sat) 23 Aug 1952 (33),Colchester United (15),0-0,?,Ipswich Town (6)
+?,(Sat) 13 Dec 1952 (49),Colchester United (16),3-1,?,Leyton Orient FC (6)
+?,(Thu) 23 Apr 1953 (16),Colchester United (17),0-0,?,Millwall FC (6)
+?,(Sat) 28 Mar 1953 (12),Colchester United (18),3-3,?,Newport County AFC (6)
+?,(Sat) 25 Apr 1953 (16),Colchester United (19),1-2,?,Northampton Town (6)
+?,(Sat) 2 May 1953 (17),Colchester United (20),0-4,?,Norwich City (6)
+?,(Sat) 24 Jan 1953 (3),Colchester United (21),1-1,?,Queens Park Rangers (6)
+?,(Thu) 28 Aug 1952 (34),Colchester United (22),2-1,?,Reading FC (6)
+?,(Sat) 20 Sep 1952 (37),Colchester United (23),1-0,?,Shrewsbury Town (6)
+?,(Sat) 18 Oct 1952 (41),Colchester United (24),3-3,?,Southend United (6)
+?,(Sat) 6 Sep 1952 (35),Colchester United (25),3-1,?,Swindon Town (6)
+?,(Sat) 29 Nov 1952 (47),Colchester United (26),4-1,?,Torquay United (6)
+?,(Sat) 14 Feb 1953 (6),Colchester United (27),6-1,?,Walsall FC (6)
+?,(Sat) 14 Mar 1953 (10),Colchester United (28),1-1,?,Watford FC (6)
+?,(Sat) 14 Mar 1953 (10),Coventry City (7),2-3,?,AFC Bournemouth (29)
+?,(Sat) 27 Dec 1952 (51),Coventry City (8),3-0,?,Aldershot Town FC (29)
+?,(Sat) 15 Nov 1952 (45),Coventry City (9),3-1,?,Brighton & Hove Albion (29)
+?,(Sat) 25 Apr 1953 (16),Coventry City (10),2-2,?,Bristol City FC (29)
+?,(Sat) 4 Oct 1952 (39),Coventry City (11),1-1,?,Bristol Rovers (29)
+?,(Mon) 6 Apr 1953 (14),Coventry City (12),2-2,?,Colchester United (29)
+?,(Sat) 29 Nov 1952 (47),Coventry City (13),4-2,?,Crystal Palace FC (7)
+?,(Mon) 29 Sep 1952 (39),Coventry City (14),1-0,?,Exeter City (7)
+?,(Sat) 20 Sep 1952 (37),Coventry City (15),2-1,?,Gillingham FC (7)
+?,(Sat) 28 Feb 1953 (8),Coventry City (16),2-0,?,Ipswich Town (7)
+?,(Mon) 1 Sep 1952 (35),Coventry City (17),3-0,?,Leyton Orient FC (7)
+?,(Sat) 14 Feb 1953 (6),Coventry City (18),4-1,?,Millwall FC (7)
+?,(Sat) 11 Apr 1953 (14),Coventry City (19),0-1,?,Newport County AFC (7)
+?,(Mon) 15 Sep 1952 (37),Coventry City (20),1-1,?,Northampton Town (7)
+?,(Thu) 15 Jan 1953 (2),Coventry City (21),2-1,?,Norwich City (7)
+?,(Sat) 3 Jan 1953 (0),Coventry City (22),2-0,?,Queens Park Rangers (7)
+?,(Sat) 18 Oct 1952 (41),Coventry City (23),4-0,?,Reading FC (7)
+?,(Sat) 6 Sep 1952 (35),Coventry City (24),0-0,?,Shrewsbury Town (7)
+?,(Sat) 1 Nov 1952 (43),Coventry City (25),2-1,?,Southend United (7)
+?,(Sat) 23 Aug 1952 (33),Coventry City (26),1-2,?,Swindon Town (7)
+?,(Sat) 13 Dec 1952 (49),Coventry City (27),7-2,?,Torquay United (7)
+?,(Sat) 24 Jan 1953 (3),Coventry City (28),3-1,?,Walsall FC (7)
+?,(Sat) 28 Mar 1953 (12),Coventry City (29),1-0,?,Watford FC (7)
+?,(Sat) 10 Jan 1953 (1),Crystal Palace FC (8),1-0,?,AFC Bournemouth (30)
+?,(Sat) 8 Nov 1952 (44),Crystal Palace FC (9),3-0,?,Aldershot Town FC (30)
+?,(Sat) 20 Dec 1952 (50),Crystal Palace FC (10),2-1,?,Brighton & Hove Albion (30)
+?,(Sat) 24 Jan 1953 (3),Crystal Palace FC (11),1-3,?,Bristol City FC (30)
+?,(Fri) 1 May 1953 (17),Crystal Palace FC (12),1-0,?,Bristol Rovers (30)
+?,(Sat) 4 Apr 1953 (13),Crystal Palace FC (13),3-1,?,Colchester United (30)
+?,(Sat) 18 Apr 1953 (15),Crystal Palace FC (14),2-2,?,Coventry City (30)
+?,(Wed) 15 Apr 1953 (15),Crystal Palace FC (15),2-0,?,Exeter City (8)
+?,(Wed) 27 Aug 1952 (34),Crystal Palace FC (16),0-0,?,Gillingham FC (8)
+?,(Wed) 22 Apr 1953 (16),Crystal Palace FC (17),1-1,?,Ipswich Town (8)
+?,(Sat) 4 Oct 1952 (39),Crystal Palace FC (18),2-2,?,Leyton Orient FC (8)
+?,(Sat) 17 Jan 1953 (2),Crystal Palace FC (19),0-1,?,Millwall FC (8)
+?,(Sat) 30 Aug 1952 (34),Crystal Palace FC (20),2-1,?,Newport County AFC (8)
+?,(Sat) 14 Feb 1953 (6),Crystal Palace FC (21),4-3,?,Northampton Town (8)
+?,(Wed) 24 Sep 1952 (38),Crystal Palace FC (22),1-1,?,Norwich City (8)
+?,(Sat) 25 Oct 1952 (42),Crystal Palace FC (23),4-2,?,Queens Park Rangers (8)
+?,(Wed) 10 Sep 1952 (36),Crystal Palace FC (24),0-3,?,Reading FC (8)
+?,(Sat) 7 Mar 1953 (9),Crystal Palace FC (25),1-2,?,Shrewsbury Town (8)
+?,(Mon) 6 Apr 1953 (14),Crystal Palace FC (26),0-0,?,Southend United (8)
+?,(Sat) 21 Mar 1953 (11),Crystal Palace FC (27),3-0,?,Swindon Town (8)
+?,(Sat) 20 Sep 1952 (37),Crystal Palace FC (28),2-2,?,Torquay United (8)
+?,(Sat) 11 Oct 1952 (40),Crystal Palace FC (29),4-1,?,Walsall FC (8)
+?,(Wed) 29 Apr 1953 (17),Crystal Palace FC (30),1-0,?,Watford FC (8)
+?,(Sat) 1 Nov 1952 (43),Exeter City (9),5-1,?,AFC Bournemouth (31)
+?,(Mon) 6 Apr 1953 (14),Exeter City (10),2-2,?,Aldershot Town FC (31)
+?,(Sat) 11 Apr 1953 (14),Exeter City (11),1-5,?,Brighton & Hove Albion (31)
+?,(Sat) 13 Dec 1952 (49),Exeter City (12),1-1,?,Bristol City FC (31)
+?,(Sat) 14 Feb 1953 (6),Exeter City (13),0-0,?,Bristol Rovers (31)
+?,(Wed) 21 Jan 1953 (3),Exeter City (14),2-0,?,Colchester United (31)
+?,(Wed) 22 Apr 1953 (16),Exeter City (15),1-0,?,Coventry City (31)
+?,(Sat) 25 Apr 1953 (16),Exeter City (16),2-0,?,Crystal Palace FC (31)
+?,(Sat) 24 Jan 1953 (3),Exeter City (17),0-0,?,Gillingham FC (9)
+?,(Sat) 18 Oct 1952 (41),Exeter City (18),1-1,?,Ipswich Town (9)
+?,(Sat) 28 Feb 1953 (8),Exeter City (19),0-1,?,Leyton Orient FC (9)
+?,(Sat) 20 Sep 1952 (37),Exeter City (20),1-0,?,Millwall FC (9)
+?,(Sat) 29 Nov 1952 (47),Exeter City (21),3-2,?,Newport County AFC (9)
+?,(Wed) 27 Aug 1952 (34),Exeter City (22),2-0,?,Northampton Town (9)
+?,(Wed) 10 Sep 1952 (36),Exeter City (23),1-0,?,Norwich City (9)
+?,(Sat) 23 Aug 1952 (33),Exeter City (24),2-2,?,Queens Park Rangers (9)
+?,(Sat) 14 Mar 1953 (10),Exeter City (25),2-0,?,Reading FC (9)
+?,(Sat) 3 Jan 1953 (0),Exeter City (26),2-2,?,Shrewsbury Town (9)
+?,(Sat) 28 Mar 1953 (12),Exeter City (27),0-2,?,Southend United (9)
+?,(Fri) 26 Dec 1952 (51),Exeter City (28),1-2,?,Swindon Town (9)
+?,(Sat) 4 Oct 1952 (39),Exeter City (29),4-1,?,Torquay United (9)
+?,(Sat) 6 Sep 1952 (35),Exeter City (30),6-1,?,Walsall FC (9)
+?,(Sat) 15 Nov 1952 (45),Exeter City (31),1-1,?,Watford FC (9)
+?,(Sat) 11 Apr 1953 (14),Gillingham FC (10),1-2,?,AFC Bournemouth (32)
+?,(Wed) 1 Oct 1952 (39),Gillingham FC (11),2-0,?,Aldershot Town FC (32)
+?,(Sat) 13 Dec 1952 (49),Gillingham FC (12),1-2,?,Brighton & Hove Albion (32)
+?,(Sat) 28 Feb 1953 (8),Gillingham FC (13),0-1,?,Bristol City FC (32)
+?,(Sat) 17 Jan 1953 (2),Gillingham FC (14),0-4,?,Bristol Rovers (32)
+?,(Sat) 21 Feb 1953 (7),Gillingham FC (15),1-1,?,Colchester United (32)
+?,(Sat) 7 Feb 1953 (5),Gillingham FC (16),0-0,?,Coventry City (32)
+?,(Wed) 3 Sep 1952 (35),Gillingham FC (17),1-0,?,Crystal Palace FC (32)
+?,(Sat) 13 Sep 1952 (36),Gillingham FC (18),1-0,?,Exeter City (32)
+?,(Sat) 28 Mar 1953 (12),Gillingham FC (19),1-1,?,Ipswich Town (10)
+?,(Sat) 1 Nov 1952 (43),Gillingham FC (20),3-2,?,Leyton Orient FC (10)
+?,(Sat) 30 Aug 1952 (34),Gillingham FC (21),0-1,?,Millwall FC (10)
+?,(Sat) 20 Dec 1952 (50),Gillingham FC (22),1-1,?,Newport County AFC (10)
+?,(Sat) 14 Mar 1953 (10),Gillingham FC (23),1-1,?,Northampton Town (10)
+?,(Sat) 27 Sep 1952 (38),Gillingham FC (24),0-3,?,Norwich City (10)
+?,(Sat) 10 Jan 1953 (1),Gillingham FC (25),3-0,?,Queens Park Rangers (10)
+?,(Sat) 15 Nov 1952 (45),Gillingham FC (26),2-1,?,Reading FC (10)
+?,(Fri) 3 Apr 1953 (13),Gillingham FC (27),4-2,?,Shrewsbury Town (10)
+?,(Sat) 29 Nov 1952 (47),Gillingham FC (28),1-1,?,Southend United (10)
+?,(Wed) 17 Sep 1952 (37),Gillingham FC (29),0-0,?,Swindon Town (10)
+?,(Sat) 18 Oct 1952 (41),Gillingham FC (30),2-1,?,Torquay United (10)
+?,(Fri) 26 Dec 1952 (51),Gillingham FC (31),3-1,?,Walsall FC (10)
+?,(Sat) 25 Apr 1953 (16),Gillingham FC (32),2-1,?,Watford FC (10)
+?,(Sat) 17 Jan 1953 (2),Ipswich Town (11),2-1,?,AFC Bournemouth (33)
+?,(Fri) 1 May 1953 (17),Ipswich Town (12),2-1,?,Aldershot Town FC (33)
+?,(Sat) 27 Sep 1952 (38),Ipswich Town (13),1-0,?,Brighton & Hove Albion (33)
+?,(Wed) 17 Sep 1952 (37),Ipswich Town (14),1-0,?,Bristol City FC (33)
+?,(Sat) 25 Oct 1952 (42),Ipswich Town (15),1-5,?,Bristol Rovers (33)
+?,(Sat) 20 Dec 1952 (50),Ipswich Town (16),2-2,?,Colchester United (33)
+?,(Sat) 11 Oct 1952 (40),Ipswich Town (17),3-0,?,Coventry City (33)
+?,(Wed) 1 Oct 1952 (39),Ipswich Town (18),2-0,?,Crystal Palace FC (33)
+?,(Sat) 7 Mar 1953 (9),Ipswich Town (19),0-1,?,Exeter City (33)
+?,(Sat) 8 Nov 1952 (44),Ipswich Town (20),1-1,?,Gillingham FC (33)
+?,(Wed) 25 Mar 1953 (12),Ipswich Town (21),0-1,?,Leyton Orient FC (11)
+?,(Sat) 21 Mar 1953 (11),Ipswich Town (22),1-6,?,Millwall FC (11)
+?,(Sat) 21 Feb 1953 (7),Ipswich Town (23),3-0,?,Newport County AFC (11)
+?,(Mon) 6 Apr 1953 (14),Ipswich Town (24),1-1,?,Northampton Town (11)
+?,(Wed) 27 Aug 1952 (34),Ipswich Town (25),2-1,?,Norwich City (11)
+?,(Sat) 18 Apr 1953 (15),Ipswich Town (26),0-1,?,Queens Park Rangers (11)
+?,(Sat) 30 Aug 1952 (34),Ipswich Town (27),1-2,?,Reading FC (11)
+?,(Wed) 24 Sep 1952 (38),Ipswich Town (28),2-1,?,Shrewsbury Town (11)
+?,(Sat) 13 Sep 1952 (36),Ipswich Town (29),0-0,?,Southend United (11)
+?,(Wed) 15 Apr 1953 (15),Ipswich Town (30),1-1,?,Swindon Town (11)
+?,(Wed) 14 Jan 1953 (2),Ipswich Town (31),2-2,?,Torquay United (11)
+?,(Sat) 4 Apr 1953 (13),Ipswich Town (32),5-0,?,Walsall FC (11)
+?,(Sat) 7 Feb 1953 (5),Ipswich Town (33),1-1,?,Watford FC (11)
+?,(Sat) 30 Aug 1952 (34),Leyton Orient FC (12),2-2,?,AFC Bournemouth (34)
+?,(Thu) 16 Apr 1953 (15),Leyton Orient FC (13),4-1,?,Aldershot Town FC (34)
+?,(Sat) 7 Feb 1953 (5),Leyton Orient FC (14),3-0,?,Brighton & Hove Albion (34)
+?,(Thu) 2 Oct 1952 (39),Leyton Orient FC (15),1-3,?,Bristol City FC (34)
+?,(Sat) 7 Mar 1953 (9),Leyton Orient FC (16),3-3,?,Bristol Rovers (34)
+?,(Thu) 30 Apr 1953 (17),Leyton Orient FC (17),5-3,?,Colchester United (34)
+?,(Thu) 28 Aug 1952 (34),Leyton Orient FC (18),1-2,?,Coventry City (34)
+?,(Sat) 21 Feb 1953 (7),Leyton Orient FC (19),0-0,?,Crystal Palace FC (34)
+?,(Sat) 11 Oct 1952 (40),Leyton Orient FC (20),2-0,?,Exeter City (34)
+?,(Sat) 21 Mar 1953 (11),Leyton Orient FC (21),1-1,?,Gillingham FC (34)
+?,(Fri) 26 Dec 1952 (51),Leyton Orient FC (22),3-1,?,Ipswich Town (34)
+?,(Sat) 25 Oct 1952 (42),Leyton Orient FC (23),1-4,?,Millwall FC (12)
+?,(Sat) 27 Sep 1952 (38),Leyton Orient FC (24),2-1,?,Newport County AFC (12)
+?,(Sat) 10 Jan 1953 (1),Leyton Orient FC (25),0-1,?,Northampton Town (12)
+?,(Fri) 3 Apr 1953 (13),Leyton Orient FC (26),3-1,?,Norwich City (12)
+?,(Thu) 25 Sep 1952 (38),Leyton Orient FC (27),5-0,?,Queens Park Rangers (12)
+?,(Sat) 20 Dec 1952 (50),Leyton Orient FC (28),1-1,?,Reading FC (12)
+?,(Sat) 4 Apr 1953 (13),Leyton Orient FC (29),0-0,?,Shrewsbury Town (12)
+?,(Sat) 17 Jan 1953 (2),Leyton Orient FC (30),3-0,?,Southend United (12)
+?,(Sat) 18 Apr 1953 (15),Leyton Orient FC (31),2-2,?,Swindon Town (12)
+?,(Mon) 8 Sep 1952 (36),Leyton Orient FC (32),4-1,?,Torquay United (12)
+?,(Sat) 8 Nov 1952 (44),Leyton Orient FC (33),4-1,?,Walsall FC (12)
+?,(Sat) 13 Sep 1952 (36),Leyton Orient FC (34),2-0,?,Watford FC (12)
+?,(Sat) 15 Nov 1952 (45),Millwall FC (13),3-1,?,AFC Bournemouth (35)
+?,(Wed) 17 Sep 1952 (37),Millwall FC (14),0-0,?,Aldershot Town FC (35)
+?,(Sat) 25 Apr 1953 (16),Millwall FC (15),1-1,?,Brighton & Hove Albion (35)
+?,(Wed) 3 Sep 1952 (35),Millwall FC (16),1-1,?,Bristol City FC (35)
+?,(Sat) 13 Sep 1952 (36),Millwall FC (17),3-0,?,Bristol Rovers (35)
+?,(Mon) 27 Apr 1953 (17),Millwall FC (18),3-1,?,Colchester United (35)
+?,(Sat) 27 Sep 1952 (38),Millwall FC (19),2-0,?,Coventry City (35)
+?,(Sat) 6 Sep 1952 (35),Millwall FC (20),0-0,?,Crystal Palace FC (35)
+?,(Sat) 7 Feb 1953 (5),Millwall FC (21),0-0,?,Exeter City (35)
+?,(Sat) 3 Jan 1953 (0),Millwall FC (22),3-1,?,Gillingham FC (35)
+?,(Sat) 1 Nov 1952 (43),Millwall FC (23),3-2,?,Ipswich Town (35)
+?,(Sat) 14 Mar 1953 (10),Millwall FC (24),0-0,?,Leyton Orient FC (35)
+?,(Sat) 13 Dec 1952 (49),Millwall FC (25),3-0,?,Newport County AFC (13)
+?,(Sat) 18 Oct 1952 (41),Millwall FC (26),1-2,?,Northampton Town (13)
+?,(Sat) 21 Feb 1953 (7),Millwall FC (27),2-3,?,Norwich City (13)
+?,(Fri) 3 Apr 1953 (13),Millwall FC (28),2-1,?,Queens Park Rangers (13)
+?,(Sat) 28 Mar 1953 (12),Millwall FC (29),1-0,?,Reading FC (13)
+?,(Fri) 26 Dec 1952 (51),Millwall FC (30),4-1,?,Shrewsbury Town (13)
+?,(Sat) 11 Apr 1953 (14),Millwall FC (31),4-1,?,Southend United (13)
+?,(Sat) 31 Jan 1953 (4),Millwall FC (32),3-0,?,Swindon Town (13)
+?,(Sat) 28 Feb 1953 (8),Millwall FC (33),3-0,?,Torquay United (13)
+?,(Sat) 23 Aug 1952 (33),Millwall FC (34),3-0,?,Walsall FC (13)
+?,(Sat) 29 Nov 1952 (47),Millwall FC (35),1-1,?,Watford FC (13)
+?,(Thu) 11 Sep 1952 (36),Newport County AFC (14),2-1,?,AFC Bournemouth (36)
+?,(Sat) 21 Mar 1953 (11),Newport County AFC (15),2-1,?,Aldershot Town FC (36)
+?,(Thu) 25 Dec 1952 (51),Newport County AFC (16),0-3,?,Brighton & Hove Albion (36)
+?,(Sat) 6 Sep 1952 (35),Newport County AFC (17),4-3,?,Bristol City FC (36)
+?,(Mon) 13 Apr 1953 (15),Newport County AFC (18),2-2,?,Bristol Rovers (36)
+?,(Sat) 8 Nov 1952 (44),Newport County AFC (19),0-1,?,Colchester United (36)
+?,(Thu) 25 Sep 1952 (38),Newport County AFC (20),4-4,?,Coventry City (36)
+?,(Sat) 3 Jan 1953 (0),Newport County AFC (21),3-2,?,Crystal Palace FC (36)
+?,(Sat) 18 Apr 1953 (15),Newport County AFC (22),1-0,?,Exeter City (36)
+?,(Sat) 23 Aug 1952 (33),Newport County AFC (23),1-2,?,Gillingham FC (36)
+?,(Sat) 4 Oct 1952 (39),Newport County AFC (24),1-3,?,Ipswich Town (36)
+?,(Sat) 14 Feb 1953 (6),Newport County AFC (25),0-1,?,Leyton Orient FC (36)
+?,(Thu) 30 Apr 1953 (17),Newport County AFC (26),1-3,?,Millwall FC (36)
+?,(Sat) 20 Sep 1952 (37),Newport County AFC (27),4-1,?,Northampton Town (14)
+?,(Sat) 4 Apr 1953 (13),Newport County AFC (28),1-1,?,Norwich City (14)
+?,(Sat) 7 Mar 1953 (9),Newport County AFC (29),2-0,?,Queens Park Rangers (14)
+?,(Thu) 23 Apr 1953 (16),Newport County AFC (30),1-0,?,Reading FC (14)
+?,(Sat) 11 Oct 1952 (40),Newport County AFC (31),4-2,?,Shrewsbury Town (14)
+?,(Thu) 15 Jan 1953 (2),Newport County AFC (32),0-1,?,Southend United (14)
+?,(Sat) 25 Oct 1952 (42),Newport County AFC (33),3-0,?,Swindon Town (14)
+?,(Sat) 24 Jan 1953 (3),Newport County AFC (34),3-0,?,Torquay United (14)
+?,(Thu) 4 Sep 1952 (35),Newport County AFC (35),3-2,?,Walsall FC (14)
+?,(Fri) 3 Apr 1953 (13),Newport County AFC (36),1-1,?,Watford FC (14)
+?,(Sat) 20 Dec 1952 (50),Northampton Town (15),5-1,?,AFC Bournemouth (37)
+?,(Sat) 18 Apr 1953 (15),Northampton Town (16),4-0,?,Aldershot Town FC (37)
+?,(Sat) 13 Sep 1952 (36),Northampton Town (17),5-3,?,Brighton & Hove Albion (37)
+?,(Sat) 21 Feb 1953 (7),Northampton Town (18),0-2,?,Bristol City FC (37)
+?,(Sat) 11 Oct 1952 (40),Northampton Town (19),2-2,?,Bristol Rovers (37)
+?,(Thu) 16 Apr 1953 (15),Northampton Town (20),2-0,?,Colchester United (37)
+?,(Thu) 11 Sep 1952 (36),Northampton Town (21),3-1,?,Coventry City (37)
+?,(Sat) 27 Sep 1952 (38),Northampton Town (22),5-1,?,Crystal Palace FC (37)
+?,(Thu) 4 Sep 1952 (35),Northampton Town (23),3-1,?,Exeter City (37)
+?,(Sat) 25 Oct 1952 (42),Northampton Town (24),3-1,?,Gillingham FC (37)
+?,(Tue) 7 Apr 1953 (14),Northampton Town (25),2-0,?,Ipswich Town (37)
+?,(Sat) 31 Jan 1953 (4),Northampton Town (26),3-1,?,Leyton Orient FC (37)
+?,(Sat) 7 Mar 1953 (9),Northampton Town (27),1-1,?,Millwall FC (37)
+?,(Sat) 7 Feb 1953 (5),Northampton Town (28),5-0,?,Newport County AFC (37)
+?,(Thu) 30 Apr 1953 (17),Northampton Town (29),3-3,?,Norwich City (15)
+?,(Sat) 4 Apr 1953 (13),Northampton Town (30),4-2,?,Queens Park Rangers (15)
+?,(Fri) 26 Dec 1952 (51),Northampton Town (31),6-1,?,Reading FC (15)
+?,(Sat) 8 Nov 1952 (44),Northampton Town (32),3-1,?,Shrewsbury Town (15)
+?,(Sat) 30 Aug 1952 (34),Northampton Town (33),4-3,?,Southend United (15)
+?,(Thu) 25 Sep 1952 (38),Northampton Town (34),3-1,?,Swindon Town (15)
+?,(Thu) 23 Apr 1953 (16),Northampton Town (35),3-3,?,Torquay United (15)
+?,(Sat) 21 Mar 1953 (11),Northampton Town (36),2-1,?,Walsall FC (15)
+?,(Sat) 17 Jan 1953 (2),Northampton Town (37),4-1,?,Watford FC (15)
+?,(Sat) 18 Oct 1952 (41),Norwich City (16),1-1,?,AFC Bournemouth (38)
+?,(Sat) 23 Aug 1952 (33),Norwich City (17),5-0,?,Aldershot Town FC (38)
+?,(Sat) 28 Mar 1953 (12),Norwich City (18),3-2,?,Brighton & Hove Albion (38)
+?,(Sat) 29 Nov 1952 (47),Norwich City (19),0-0,?,Bristol City FC (38)
+?,(Wed) 22 Apr 1953 (16),Norwich City (20),0-0,?,Bristol Rovers (38)
+?,(Fri) 26 Dec 1952 (51),Norwich City (21),3-0,?,Colchester United (38)
+?,(Sat) 31 Jan 1953 (4),Norwich City (22),1-1,?,Coventry City (38)
+?,(Sat) 11 Apr 1953 (14),Norwich City (23),5-1,?,Crystal Palace FC (38)
+?,(Wed) 17 Sep 1952 (37),Norwich City (24),2-0,?,Exeter City (38)
+?,(Sat) 14 Feb 1953 (6),Norwich City (25),3-2,?,Gillingham FC (38)
+?,(Wed) 3 Sep 1952 (35),Norwich City (26),1-0,?,Ipswich Town (38)
+?,(Mon) 6 Apr 1953 (14),Norwich City (27),5-1,?,Leyton Orient FC (38)
+?,(Sat) 4 Oct 1952 (39),Norwich City (28),2-2,?,Millwall FC (38)
+?,(Sat) 15 Nov 1952 (45),Norwich City (29),2-0,?,Newport County AFC (38)
+?,(Sat) 13 Dec 1952 (49),Norwich City (30),1-2,?,Northampton Town (38)
+?,(Sat) 6 Sep 1952 (35),Norwich City (31),2-0,?,Queens Park Rangers (16)
+?,(Sat) 28 Feb 1953 (8),Norwich City (32),3-0,?,Reading FC (16)
+?,(Sat) 24 Jan 1953 (3),Norwich City (33),2-1,?,Shrewsbury Town (16)
+?,(Sat) 14 Mar 1953 (10),Norwich City (34),3-1,?,Southend United (16)
+?,(Sat) 3 Jan 1953 (0),Norwich City (35),1-1,?,Swindon Town (16)
+?,(Sat) 25 Apr 1953 (16),Norwich City (36),3-0,?,Torquay United (16)
+?,(Sat) 20 Sep 1952 (37),Norwich City (37),3-0,?,Walsall FC (16)
+?,(Sat) 1 Nov 1952 (43),Norwich City (38),5-2,?,Watford FC (16)
+?,(Sat) 13 Dec 1952 (49),Queens Park Rangers (17),2-1,?,AFC Bournemouth (39)
+?,(Sat) 7 Feb 1953 (5),Queens Park Rangers (18),2-2,?,Aldershot Town FC (39)
+?,(Sat) 28 Feb 1953 (8),Queens Park Rangers (19),3-3,?,Brighton & Hove Albion (39)
+?,(Sat) 1 Nov 1952 (43),Queens Park Rangers (20),2-1,?,Bristol City FC (39)
+?,(Fri) 26 Dec 1952 (51),Queens Park Rangers (21),0-1,?,Bristol Rovers (39)
+?,(Sat) 13 Sep 1952 (36),Queens Park Rangers (22),1-0,?,Colchester United (39)
+?,(Sat) 30 Aug 1952 (34),Queens Park Rangers (23),0-4,?,Coventry City (39)
+?,(Sat) 14 Mar 1953 (10),Queens Park Rangers (24),1-1,?,Crystal Palace FC (39)
+?,(Sat) 20 Dec 1952 (50),Queens Park Rangers (25),1-1,?,Exeter City (39)
+?,(Sat) 31 Jan 1953 (4),Queens Park Rangers (26),1-1,?,Gillingham FC (39)
+?,(Sat) 29 Nov 1952 (47),Queens Park Rangers (27),2-2,?,Ipswich Town (39)
+?,(Sat) 11 Apr 1953 (14),Queens Park Rangers (28),0-1,?,Leyton Orient FC (39)
+?,(Mon) 6 Apr 1953 (14),Queens Park Rangers (29),1-3,?,Millwall FC (39)
+?,(Sat) 18 Oct 1952 (41),Queens Park Rangers (30),4-2,?,Newport County AFC (39)
+?,(Sat) 15 Nov 1952 (45),Queens Park Rangers (31),2-2,?,Northampton Town (39)
+?,(Sat) 17 Jan 1953 (2),Queens Park Rangers (32),3-1,?,Norwich City (39)
+?,(Sat) 25 Apr 1953 (16),Queens Park Rangers (33),1-0,?,Reading FC (17)
+?,(Mon) 20 Apr 1953 (16),Queens Park Rangers (34),1-0,?,Shrewsbury Town (17)
+?,(Sat) 4 Oct 1952 (39),Queens Park Rangers (35),3-2,?,Southend United (17)
+?,(Sat) 27 Sep 1952 (38),Queens Park Rangers (36),1-1,?,Swindon Town (17)
+?,(Sat) 28 Mar 1953 (12),Queens Park Rangers (37),0-1,?,Torquay United (17)
+?,(Mon) 8 Sep 1952 (36),Queens Park Rangers (38),4-2,?,Walsall FC (17)
+?,(Mon) 25 Aug 1952 (34),Queens Park Rangers (39),2-2,?,Watford FC (17)
+?,(Sat) 13 Sep 1952 (36),Reading FC (18),1-3,?,AFC Bournemouth (40)
+?,(Sat) 17 Jan 1953 (2),Reading FC (19),2-3,?,Aldershot Town FC (40)
+?,(Sat) 21 Feb 1953 (7),Reading FC (20),0-0,?,Brighton & Hove Albion (40)
+?,(Sat) 31 Jan 1953 (4),Reading FC (21),4-0,?,Bristol City FC (40)
+?,(Sat) 21 Mar 1953 (11),Reading FC (22),2-0,?,Bristol Rovers (40)
+?,(Wed) 3 Sep 1952 (35),Reading FC (23),2-0,?,Colchester United (40)
+?,(Sat) 7 Mar 1953 (9),Reading FC (24),1-0,?,Coventry City (40)
+?,(Wed) 17 Sep 1952 (37),Reading FC (25),4-1,?,Crystal Palace FC (40)
+?,(Sat) 25 Oct 1952 (42),Reading FC (26),3-1,?,Exeter City (40)
+?,(Sat) 4 Apr 1953 (13),Reading FC (27),3-2,?,Gillingham FC (40)
+?,(Sat) 3 Jan 1953 (0),Reading FC (28),1-1,?,Ipswich Town (40)
+?,(Sat) 23 Aug 1952 (33),Reading FC (29),2-0,?,Leyton Orient FC (40)
+?,(Sat) 8 Nov 1952 (44),Reading FC (30),5-0,?,Millwall FC (40)
+?,(Wed) 1 Oct 1952 (39),Reading FC (31),2-1,?,Newport County AFC (40)
+?,(Mon) 13 Apr 1953 (15),Reading FC (32),2-0,?,Northampton Town (40)
+?,(Sat) 11 Oct 1952 (40),Reading FC (33),0-1,?,Norwich City (40)
+?,(Wed) 29 Apr 1953 (17),Reading FC (34),2-0,?,Queens Park Rangers (40)
+?,(Sat) 18 Apr 1953 (15),Reading FC (35),5-3,?,Shrewsbury Town (18)
+?,(Sat) 7 Feb 1953 (5),Reading FC (36),1-0,?,Southend United (18)
+?,(Fri) 1 May 1953 (17),Reading FC (37),4-1,?,Swindon Town (18)
+?,(Fri) 3 Apr 1953 (13),Reading FC (38),4-1,?,Torquay United (18)
+?,(Sat) 11 Apr 1953 (14),Reading FC (39),0-0,?,Walsall FC (18)
+?,(Sat) 27 Sep 1952 (38),Reading FC (40),3-0,?,Watford FC (18)
+?,(Sat) 25 Apr 1953 (16),Shrewsbury Town (19),1-0,?,AFC Bournemouth (41)
+?,(Sat) 27 Sep 1952 (38),Shrewsbury Town (20),2-1,?,Aldershot Town FC (41)
+?,(Thu) 28 Aug 1952 (34),Shrewsbury Town (21),0-0,?,Brighton & Hove Albion (41)
+?,(Sat) 14 Mar 1953 (10),Shrewsbury Town (22),0-1,?,Bristol City FC (41)
+?,(Sat) 20 Dec 1952 (50),Shrewsbury Town (23),0-1,?,Bristol Rovers (41)
+?,(Sat) 7 Feb 1953 (5),Shrewsbury Town (24),3-0,?,Colchester United (41)
+?,(Sat) 17 Jan 1953 (2),Shrewsbury Town (25),1-0,?,Coventry City (41)
+?,(Sat) 18 Oct 1952 (41),Shrewsbury Town (26),1-1,?,Crystal Palace FC (41)
+?,(Sat) 30 Aug 1952 (34),Shrewsbury Town (27),1-3,?,Exeter City (41)
+?,(Mon) 6 Apr 1953 (14),Shrewsbury Town (28),3-1,?,Gillingham FC (41)
+?,(Sat) 11 Apr 1953 (14),Shrewsbury Town (29),2-2,?,Ipswich Town (41)
+?,(Sat) 15 Nov 1952 (45),Shrewsbury Town (30),2-0,?,Leyton Orient FC (41)
+?,(Sat) 27 Dec 1952 (51),Shrewsbury Town (31),2-4,?,Millwall FC (41)
+?,(Sat) 28 Feb 1953 (8),Shrewsbury Town (32),1-1,?,Newport County AFC (41)
+?,(Sat) 28 Mar 1953 (12),Shrewsbury Town (33),2-4,?,Northampton Town (41)
+?,(Sat) 13 Sep 1952 (36),Shrewsbury Town (34),1-8,?,Norwich City (41)
+?,(Thu) 2 Oct 1952 (39),Shrewsbury Town (35),0-3,?,Queens Park Rangers (41)
+?,(Sat) 29 Nov 1952 (47),Shrewsbury Town (36),1-1,?,Reading FC (41)
+?,(Sat) 13 Dec 1952 (49),Shrewsbury Town (37),7-1,?,Southend United (19)
+?,(Sat) 21 Feb 1953 (7),Shrewsbury Town (38),2-1,?,Swindon Town (19)
+?,(Sat) 1 Nov 1952 (43),Shrewsbury Town (39),2-1,?,Torquay United (19)
+?,(Thu) 5 Feb 1953 (5),Shrewsbury Town (40),1-0,?,Walsall FC (19)
+?,(Thu) 11 Sep 1952 (36),Shrewsbury Town (41),3-1,?,Watford FC (19)
+?,(Sat) 14 Feb 1953 (6),Southend United (20),0-0,?,AFC Bournemouth (42)
+?,(Sat) 11 Oct 1952 (40),Southend United (21),1-1,?,Aldershot Town FC (42)
+?,(Tue) 9 Sep 1952 (36),Southend United (22),1-2,?,Brighton & Hove Albion (42)
+?,(Wed) 29 Apr 1953 (17),Southend United (23),0-4,?,Bristol City FC (42)
+?,(Sat) 4 Apr 1953 (13),Southend United (24),2-1,?,Bristol Rovers (42)
+?,(Sat) 7 Mar 1953 (9),Southend United (25),4-0,?,Colchester United (42)
+?,(Sat) 21 Mar 1953 (11),Southend United (26),1-0,?,Coventry City (42)
+?,(Fri) 3 Apr 1953 (13),Southend United (27),2-2,?,Crystal Palace FC (42)
+?,(Sat) 8 Nov 1952 (44),Southend United (28),1-1,?,Exeter City (42)
+?,(Sat) 18 Apr 1953 (15),Southend United (29),3-1,?,Gillingham FC (42)
+?,(Sat) 24 Jan 1953 (3),Southend United (30),2-0,?,Ipswich Town (42)
+?,(Sat) 6 Sep 1952 (35),Southend United (31),1-0,?,Leyton Orient FC (42)
+?,(Tue) 23 Sep 1952 (38),Southend United (32),2-1,?,Millwall FC (42)
+?,(Sat) 31 Jan 1953 (4),Southend United (33),1-0,?,Newport County AFC (42)
+?,(Sat) 3 Jan 1953 (0),Southend United (34),3-1,?,Northampton Town (42)
+?,(Sat) 25 Oct 1952 (42),Southend United (35),1-2,?,Norwich City (42)
+?,(Sat) 21 Feb 1953 (7),Southend United (36),2-0,?,Queens Park Rangers (42)
+?,(Sat) 20 Sep 1952 (37),Southend United (37),3-1,?,Reading FC (42)
+?,(Fri) 1 May 1953 (17),Southend United (38),2-2,?,Shrewsbury Town (42)
+?,(Tue) 2 Sep 1952 (35),Southend United (39),3-0,?,Swindon Town (20)
+?,(Sat) 23 Aug 1952 (33),Southend United (40),3-1,?,Torquay United (20)
+?,(Sat) 6 Dec 1952 (48),Southend United (41),2-1,?,Walsall FC (20)
+?,(Tue) 30 Sep 1952 (39),Southend United (42),1-0,?,Watford FC (20)
+?,(Sat) 20 Sep 1952 (37),Swindon Town (21),1-2,?,AFC Bournemouth (43)
+?,(Sat) 13 Sep 1952 (36),Swindon Town (22),3-2,?,Aldershot Town FC (43)
+?,(Sat) 18 Oct 1952 (41),Swindon Town (23),3-0,?,Brighton & Hove Albion (43)
+?,(Sat) 28 Mar 1953 (12),Swindon Town (24),0-0,?,Bristol City FC (43)
+?,(Fri) 3 Apr 1953 (13),Swindon Town (25),1-3,?,Bristol Rovers (43)
+?,(Sat) 17 Jan 1953 (2),Swindon Town (26),0-1,?,Colchester United (43)
+?,(Sat) 20 Dec 1952 (50),Swindon Town (27),2-3,?,Coventry City (43)
+?,(Sat) 1 Nov 1952 (43),Swindon Town (28),3-6,?,Crystal Palace FC (43)
+?,(Sat) 27 Dec 1952 (51),Swindon Town (29),5-2,?,Exeter City (43)
+?,(Wed) 10 Sep 1952 (36),Swindon Town (30),0-0,?,Gillingham FC (43)
+?,(Sat) 25 Apr 1953 (16),Swindon Town (31),2-0,?,Ipswich Town (43)
+?,(Wed) 18 Mar 1953 (11),Swindon Town (32),1-1,?,Leyton Orient FC (43)
+?,(Wed) 14 Jan 1953 (2),Swindon Town (33),1-2,?,Millwall FC (43)
+?,(Sat) 14 Mar 1953 (10),Swindon Town (34),2-0,?,Newport County AFC (43)
+?,(Sat) 11 Apr 1953 (14),Swindon Town (35),3-0,?,Northampton Town (43)
+?,(Sat) 30 Aug 1952 (34),Swindon Town (36),2-1,?,Norwich City (43)
+?,(Sat) 14 Feb 1953 (6),Swindon Town (37),1-3,?,Queens Park Rangers (43)
+?,(Sat) 13 Dec 1952 (49),Swindon Town (38),2-0,?,Reading FC (43)
+?,(Sat) 4 Oct 1952 (39),Swindon Town (39),2-2,?,Shrewsbury Town (43)
+?,(Wed) 27 Aug 1952 (34),Swindon Town (40),1-3,?,Southend United (43)
+?,(Sat) 15 Nov 1952 (45),Swindon Town (41),2-0,?,Torquay United (21)
+?,(Wed) 1 Oct 1952 (39),Swindon Town (42),1-2,?,Walsall FC (21)
+?,(Sat) 28 Feb 1953 (8),Swindon Town (43),0-0,?,Watford FC (21)
+?,(Fri) 26 Dec 1952 (51),Torquay United (22),5-1,?,AFC Bournemouth (44)
+?,(Wed) 24 Sep 1952 (38),Torquay United (23),1-2,?,Aldershot Town FC (44)
+?,(Sat) 17 Jan 1953 (2),Torquay United (24),1-2,?,Brighton & Hove Albion (44)
+?,(Sat) 27 Sep 1952 (38),Torquay United (25),1-2,?,Bristol City FC (44)
+?,(Wed) 27 Aug 1952 (34),Torquay United (26),1-0,?,Bristol Rovers (44)
+?,(Sat) 18 Apr 1953 (15),Torquay United (27),5-1,?,Colchester United (44)
+?,(Sat) 2 May 1953 (17),Torquay United (28),2-1,?,Coventry City (44)
+?,(Sat) 7 Feb 1953 (5),Torquay United (29),1-1,?,Crystal Palace FC (44)
+?,(Sat) 21 Feb 1953 (7),Torquay United (30),5-2,?,Exeter City (44)
+?,(Sat) 7 Mar 1953 (9),Torquay United (31),3-2,?,Gillingham FC (44)
+?,(Sat) 31 Jan 1953 (4),Torquay United (32),4-1,?,Ipswich Town (44)
+?,(Wed) 17 Sep 1952 (37),Torquay United (33),5-0,?,Leyton Orient FC (44)
+?,(Sat) 11 Oct 1952 (40),Torquay United (34),1-0,?,Millwall FC (44)
+?,(Sat) 13 Sep 1952 (36),Torquay United (35),3-3,?,Newport County AFC (44)
+?,(Wed) 1 Oct 1952 (39),Torquay United (36),3-0,?,Northampton Town (44)
+?,(Wed) 15 Apr 1953 (15),Torquay United (37),4-1,?,Norwich City (44)
+?,(Sat) 8 Nov 1952 (44),Torquay United (38),1-1,?,Queens Park Rangers (44)
+?,(Mon) 6 Apr 1953 (14),Torquay United (39),2-0,?,Reading FC (44)
+?,(Sat) 21 Mar 1953 (11),Torquay United (40),4-0,?,Shrewsbury Town (44)
+?,(Sat) 20 Dec 1952 (50),Torquay United (41),4-2,?,Southend United (44)
+?,(Sat) 4 Apr 1953 (13),Torquay United (42),3-1,?,Swindon Town (44)
+?,(Sat) 25 Oct 1952 (42),Torquay United (43),0-3,?,Walsall FC (22)
+?,(Sat) 30 Aug 1952 (34),Torquay United (44),2-2,?,Watford FC (22)
+?,(Thu) 30 Apr 1953 (17),Walsall FC (23),2-2,?,AFC Bournemouth (45)
+?,(Sat) 21 Feb 1953 (7),Walsall FC (24),0-0,?,Aldershot Town FC (45)
+?,(Mon) 6 Apr 1953 (14),Walsall FC (25),3-0,?,Brighton & Hove Albion (45)
+?,(Sat) 18 Oct 1952 (41),Walsall FC (26),3-3,?,Bristol City FC (45)
+?,(Sat) 30 Aug 1952 (34),Walsall FC (27),3-5,?,Bristol Rovers (45)
+?,(Sat) 27 Sep 1952 (38),Walsall FC (28),0-3,?,Colchester United (45)
+?,(Sat) 13 Sep 1952 (36),Walsall FC (29),1-1,?,Coventry City (45)
+?,(Sat) 28 Feb 1953 (8),Walsall FC (30),2-4,?,Crystal Palace FC (45)
+?,(Sat) 17 Jan 1953 (2),Walsall FC (31),2-2,?,Exeter City (45)
+?,(Sat) 27 Dec 1952 (51),Walsall FC (32),1-3,?,Gillingham FC (45)
+?,(Sat) 15 Nov 1952 (45),Walsall FC (33),1-3,?,Ipswich Town (45)
+?,(Sat) 28 Mar 1953 (12),Walsall FC (34),1-0,?,Leyton Orient FC (45)
+?,(Sat) 20 Dec 1952 (50),Walsall FC (35),0-2,?,Millwall FC (45)
+?,(Thu) 28 Aug 1952 (34),Walsall FC (36),1-3,?,Newport County AFC (45)
+?,(Sat) 1 Nov 1952 (43),Walsall FC (37),1-5,?,Northampton Town (45)
+?,(Sat) 7 Feb 1953 (5),Walsall FC (38),3-2,?,Norwich City (45)
+?,(Thu) 18 Sep 1952 (37),Walsall FC (39),1-1,?,Queens Park Rangers (45)
+?,(Thu) 25 Sep 1952 (38),Walsall FC (40),2-0,?,Reading FC (45)
+?,(Thu) 15 Jan 1953 (2),Walsall FC (41),4-4,?,Shrewsbury Town (45)
+?,(Sat) 25 Apr 1953 (16),Walsall FC (42),1-1,?,Southend United (45)
+?,(Thu) 23 Apr 1953 (16),Walsall FC (43),1-2,?,Swindon Town (45)
+?,(Sat) 14 Mar 1953 (10),Walsall FC (44),2-0,?,Torquay United (45)
+?,(Sat) 13 Dec 1952 (49),Walsall FC (45),0-0,?,Watford FC (23)
+?,(Sat) 4 Oct 1952 (39),Watford FC (24),3-0,?,AFC Bournemouth (46)
+?,(Sat) 7 Mar 1953 (9),Watford FC (25),1-1,?,Aldershot Town FC (46)
+?,(Wed) 14 Jan 1953 (2),Watford FC (26),2-3,?,Brighton & Hove Albion (46)
+?,(Sat) 23 Aug 1952 (33),Watford FC (27),4-1,?,Bristol City FC (46)
+?,(Thu) 25 Sep 1952 (38),Watford FC (28),2-3,?,Bristol Rovers (46)
+?,(Sat) 25 Oct 1952 (42),Watford FC (29),2-0,?,Colchester United (46)
+?,(Sat) 8 Nov 1952 (44),Watford FC (30),1-1,?,Coventry City (46)
+?,(Fri) 26 Dec 1952 (51),Watford FC (31),2-0,?,Crystal Palace FC (46)
+?,(Sat) 4 Apr 1953 (13),Watford FC (32),3-1,?,Exeter City (46)
+?,(Thu) 16 Apr 1953 (15),Watford FC (33),0-0,?,Gillingham FC (46)
+?,(Sat) 20 Sep 1952 (37),Watford FC (34),1-0,?,Ipswich Town (46)
+?,(Sat) 24 Jan 1953 (3),Watford FC (35),1-0,?,Leyton Orient FC (46)
+?,(Sat) 18 Apr 1953 (15),Watford FC (36),1-1,?,Millwall FC (46)
+?,(Mon) 6 Apr 1953 (14),Watford FC (37),0-1,?,Newport County AFC (46)
+?,(Sat) 6 Sep 1952 (35),Watford FC (38),2-1,?,Northampton Town (46)
+?,(Sat) 21 Mar 1953 (11),Watford FC (39),3-2,?,Norwich City (46)
+?,(Thu) 4 Sep 1952 (35),Watford FC (40),1-1,?,Queens Park Rangers (46)
+?,(Sat) 14 Feb 1953 (6),Watford FC (41),2-1,?,Reading FC (46)
+?,(Thu) 18 Sep 1952 (37),Watford FC (42),1-1,?,Shrewsbury Town (46)
+?,(Thu) 23 Apr 1953 (16),Watford FC (43),1-1,?,Southend United (46)
+?,(Sat) 11 Oct 1952 (40),Watford FC (44),2-1,?,Swindon Town (46)
+?,(Sat) 3 Jan 1953 (0),Watford FC (45),1-1,?,Torquay United (46)
+?,(Sat) 10 Jan 1953 (1),Watford FC (46),3-0,?,Walsall FC (46)

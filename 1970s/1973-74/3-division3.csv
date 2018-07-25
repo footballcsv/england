@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aldershot,AFC Bournemouth,1-3,-
--,-,Blackburn Rovers,AFC Bournemouth,4-3,-
--,-,Brighton & Hove Albion,AFC Bournemouth,0-2,-
--,-,Bristol Rovers,AFC Bournemouth,3-0,-
--,-,Cambridge United,AFC Bournemouth,2-1,-
--,-,Charlton Athletic,AFC Bournemouth,0-0,-
--,-,Chesterfield,AFC Bournemouth,2-1,-
--,-,Grimsby Town,AFC Bournemouth,1-1,-
--,-,Halifax Town,AFC Bournemouth,1-1,-
--,-,Hereford United,AFC Bournemouth,0-2,-
--,-,Huddersfield Town,AFC Bournemouth,1-1,-
--,-,Oldham Athletic,AFC Bournemouth,4-2,-
--,-,Plymouth Argyle,AFC Bournemouth,2-0,-
--,-,Port Vale,AFC Bournemouth,0-0,-
--,-,Rochdale,AFC Bournemouth,3-3,-
--,-,Shrewsbury Town,AFC Bournemouth,1-1,-
--,-,Southend United,AFC Bournemouth,2-2,-
--,-,Southport,AFC Bournemouth,1-0,-
--,-,Tranmere Rovers,AFC Bournemouth,1-1,-
--,-,Walsall,AFC Bournemouth,1-2,-
--,-,Watford,AFC Bournemouth,1-1,-
--,-,Wrexham,AFC Bournemouth,0-1,-
--,-,York City,AFC Bournemouth,4-1,-
--,-,AFC Bournemouth,Aldershot,3-0,-
--,-,Blackburn Rovers,Aldershot,1-2,-
--,-,Brighton & Hove Albion,Aldershot,0-1,-
--,-,Bristol Rovers,Aldershot,2-1,-
--,-,Cambridge United,Aldershot,1-2,-
--,-,Charlton Athletic,Aldershot,2-0,-
--,-,Chesterfield,Aldershot,0-0,-
--,-,Grimsby Town,Aldershot,1-0,-
--,-,Halifax Town,Aldershot,0-0,-
--,-,Hereford United,Aldershot,0-2,-
--,-,Huddersfield Town,Aldershot,1-0,-
--,-,Oldham Athletic,Aldershot,2-0,-
--,-,Plymouth Argyle,Aldershot,2-1,-
--,-,Port Vale,Aldershot,0-1,-
--,-,Rochdale,Aldershot,2-2,-
--,-,Shrewsbury Town,Aldershot,0-0,-
--,-,Southend United,Aldershot,2-1,-
--,-,Southport,Aldershot,3-0,-
--,-,Tranmere Rovers,Aldershot,0-1,-
--,-,Walsall,Aldershot,3-2,-
--,-,Watford,Aldershot,2-1,-
--,-,Wrexham,Aldershot,0-0,-
--,-,York City,Aldershot,3-1,-
--,-,AFC Bournemouth,Blackburn Rovers,1-2,-
--,-,Aldershot,Blackburn Rovers,4-0,-
--,-,Brighton & Hove Albion,Blackburn Rovers,3-0,-
--,-,Bristol Rovers,Blackburn Rovers,3-0,-
--,-,Cambridge United,Blackburn Rovers,0-2,-
--,-,Charlton Athletic,Blackburn Rovers,4-3,-
--,-,Chesterfield,Blackburn Rovers,3-0,-
--,-,Grimsby Town,Blackburn Rovers,4-2,-
--,-,Halifax Town,Blackburn Rovers,1-1,-
--,-,Hereford United,Blackburn Rovers,1-0,-
--,-,Huddersfield Town,Blackburn Rovers,1-0,-
--,-,Oldham Athletic,Blackburn Rovers,2-3,-
--,-,Plymouth Argyle,Blackburn Rovers,2-1,-
--,-,Port Vale,Blackburn Rovers,1-2,-
--,-,Rochdale,Blackburn Rovers,1-2,-
--,-,Shrewsbury Town,Blackburn Rovers,3-0,-
--,-,Southend United,Blackburn Rovers,1-1,-
--,-,Southport,Blackburn Rovers,2-2,-
--,-,Tranmere Rovers,Blackburn Rovers,1-1,-
--,-,Walsall,Blackburn Rovers,2-0,-
--,-,Watford,Blackburn Rovers,0-0,-
--,-,Wrexham,Blackburn Rovers,2-2,-
--,-,York City,Blackburn Rovers,1-0,-
--,-,AFC Bournemouth,Brighton & Hove Albion,0-0,-
--,-,Aldershot,Brighton & Hove Albion,0-1,-
--,-,Blackburn Rovers,Brighton & Hove Albion,3-1,-
--,-,Bristol Rovers,Brighton & Hove Albion,1-1,-
--,-,Cambridge United,Brighton & Hove Albion,1-1,-
--,-,Charlton Athletic,Brighton & Hove Albion,0-4,-
--,-,Chesterfield,Brighton & Hove Albion,1-0,-
--,-,Grimsby Town,Brighton & Hove Albion,0-0,-
--,-,Halifax Town,Brighton & Hove Albion,2-2,-
--,-,Hereford United,Brighton & Hove Albion,3-0,-
--,-,Huddersfield Town,Brighton & Hove Albion,2-2,-
--,-,Oldham Athletic,Brighton & Hove Albion,0-1,-
--,-,Plymouth Argyle,Brighton & Hove Albion,0-1,-
--,-,Port Vale,Brighton & Hove Albion,2-1,-
--,-,Rochdale,Brighton & Hove Albion,1-1,-
--,-,Shrewsbury Town,Brighton & Hove Albion,1-0,-
--,-,Southend United,Brighton & Hove Albion,0-2,-
--,-,Southport,Brighton & Hove Albion,1-1,-
--,-,Tranmere Rovers,Brighton & Hove Albion,4-1,-
--,-,Walsall,Brighton & Hove Albion,0-1,-
--,-,Watford,Brighton & Hove Albion,1-0,-
--,-,Wrexham,Brighton & Hove Albion,1-0,-
--,-,York City,Brighton & Hove Albion,3-0,-
--,-,AFC Bournemouth,Bristol Rovers,0-3,-
--,-,Aldershot,Bristol Rovers,2-3,-
--,-,Blackburn Rovers,Bristol Rovers,0-2,-
--,-,Brighton & Hove Albion,Bristol Rovers,2-8,-
--,-,Cambridge United,Bristol Rovers,2-2,-
--,-,Charlton Athletic,Bristol Rovers,1-1,-
--,-,Chesterfield,Bristol Rovers,0-0,-
--,-,Grimsby Town,Bristol Rovers,1-1,-
--,-,Halifax Town,Bristol Rovers,0-0,-
--,-,Hereford United,Bristol Rovers,0-0,-
--,-,Huddersfield Town,Bristol Rovers,1-2,-
--,-,Oldham Athletic,Bristol Rovers,1-1,-
--,-,Plymouth Argyle,Bristol Rovers,1-0,-
--,-,Port Vale,Bristol Rovers,3-1,-
--,-,Rochdale,Bristol Rovers,0-1,-
--,-,Shrewsbury Town,Bristol Rovers,0-2,-
--,-,Southend United,Bristol Rovers,0-0,-
--,-,Southport,Bristol Rovers,1-0,-
--,-,Tranmere Rovers,Bristol Rovers,0-0,-
--,-,Walsall,Bristol Rovers,0-0,-
--,-,Watford,Bristol Rovers,0-0,-
--,-,Wrexham,Bristol Rovers,1-0,-
--,-,York City,Bristol Rovers,2-1,-
--,-,AFC Bournemouth,Cambridge United,1-0,-
--,-,Aldershot,Cambridge United,6-0,-
--,-,Blackburn Rovers,Cambridge United,2-0,-
--,-,Brighton & Hove Albion,Cambridge United,4-1,-
--,-,Bristol Rovers,Cambridge United,1-0,-
--,-,Charlton Athletic,Cambridge United,2-0,-
--,-,Chesterfield,Cambridge United,3-0,-
--,-,Grimsby Town,Cambridge United,1-0,-
--,-,Halifax Town,Cambridge United,0-1,-
--,-,Hereford United,Cambridge United,0-0,-
--,-,Huddersfield Town,Cambridge United,2-1,-
--,-,Oldham Athletic,Cambridge United,6-1,-
--,-,Plymouth Argyle,Cambridge United,4-1,-
--,-,Port Vale,Cambridge United,2-1,-
--,-,Rochdale,Cambridge United,0-2,-
--,-,Shrewsbury Town,Cambridge United,2-0,-
--,-,Southend United,Cambridge United,3-1,-
--,-,Southport,Cambridge United,0-0,-
--,-,Tranmere Rovers,Cambridge United,5-2,-
--,-,Walsall,Cambridge United,3-0,-
--,-,Watford,Cambridge United,3-0,-
--,-,Wrexham,Cambridge United,2-1,-
--,-,York City,Cambridge United,2-0,-
--,-,AFC Bournemouth,Charlton Athletic,1-0,-
--,-,Aldershot,Charlton Athletic,2-1,-
--,-,Blackburn Rovers,Charlton Athletic,1-1,-
--,-,Brighton & Hove Albion,Charlton Athletic,1-2,-
--,-,Bristol Rovers,Charlton Athletic,2-1,-
--,-,Cambridge United,Charlton Athletic,1-0,-
--,-,Chesterfield,Charlton Athletic,3-1,-
--,-,Grimsby Town,Charlton Athletic,5-0,-
--,-,Halifax Town,Charlton Athletic,2-1,-
--,-,Hereford United,Charlton Athletic,2-3,-
--,-,Huddersfield Town,Charlton Athletic,2-0,-
--,-,Oldham Athletic,Charlton Athletic,0-2,-
--,-,Plymouth Argyle,Charlton Athletic,1-0,-
--,-,Port Vale,Charlton Athletic,3-1,-
--,-,Rochdale,Charlton Athletic,1-1,-
--,-,Shrewsbury Town,Charlton Athletic,3-3,-
--,-,Southend United,Charlton Athletic,2-0,-
--,-,Southport,Charlton Athletic,1-2,-
--,-,Tranmere Rovers,Charlton Athletic,2-0,-
--,-,Walsall,Charlton Athletic,4-0,-
--,-,Watford,Charlton Athletic,1-3,-
--,-,Wrexham,Charlton Athletic,4-0,-
--,-,York City,Charlton Athletic,0-1,-
--,-,AFC Bournemouth,Chesterfield,0-1,-
--,-,Aldershot,Chesterfield,2-2,-
--,-,Blackburn Rovers,Chesterfield,2-1,-
--,-,Brighton & Hove Albion,Chesterfield,0-0,-
--,-,Bristol Rovers,Chesterfield,1-0,-
--,-,Cambridge United,Chesterfield,1-2,-
--,-,Charlton Athletic,Chesterfield,3-3,-
--,-,Grimsby Town,Chesterfield,1-1,-
--,-,Halifax Town,Chesterfield,2-0,-
--,-,Hereford United,Chesterfield,2-1,-
--,-,Huddersfield Town,Chesterfield,1-0,-
--,-,Oldham Athletic,Chesterfield,0-0,-
--,-,Plymouth Argyle,Chesterfield,1-1,-
--,-,Port Vale,Chesterfield,0-1,-
--,-,Rochdale,Chesterfield,1-2,-
--,-,Shrewsbury Town,Chesterfield,0-1,-
--,-,Southend United,Chesterfield,1-3,-
--,-,Southport,Chesterfield,1-1,-
--,-,Tranmere Rovers,Chesterfield,1-2,-
--,-,Walsall,Chesterfield,2-0,-
--,-,Watford,Chesterfield,2-1,-
--,-,Wrexham,Chesterfield,2-1,-
--,-,York City,Chesterfield,0-0,-
--,-,AFC Bournemouth,Grimsby Town,1-1,-
--,-,Aldershot,Grimsby Town,1-0,-
--,-,Blackburn Rovers,Grimsby Town,1-0,-
--,-,Brighton & Hove Albion,Grimsby Town,1-1,-
--,-,Bristol Rovers,Grimsby Town,1-1,-
--,-,Cambridge United,Grimsby Town,0-1,-
--,-,Charlton Athletic,Grimsby Town,2-1,-
--,-,Chesterfield,Grimsby Town,1-0,-
--,-,Halifax Town,Grimsby Town,1-2,-
--,-,Hereford United,Grimsby Town,2-1,-
--,-,Huddersfield Town,Grimsby Town,1-0,-
--,-,Oldham Athletic,Grimsby Town,3-1,-
--,-,Plymouth Argyle,Grimsby Town,1-0,-
--,-,Port Vale,Grimsby Town,1-1,-
--,-,Rochdale,Grimsby Town,1-1,-
--,-,Shrewsbury Town,Grimsby Town,1-1,-
--,-,Southend United,Grimsby Town,4-1,-
--,-,Southport,Grimsby Town,0-1,-
--,-,Tranmere Rovers,Grimsby Town,0-0,-
--,-,Walsall,Grimsby Town,3-1,-
--,-,Watford,Grimsby Town,1-2,-
--,-,Wrexham,Grimsby Town,1-1,-
--,-,York City,Grimsby Town,1-1,-
--,-,AFC Bournemouth,Halifax Town,1-1,-
--,-,Aldershot,Halifax Town,2-1,-
--,-,Blackburn Rovers,Halifax Town,1-1,-
--,-,Brighton & Hove Albion,Halifax Town,0-1,-
--,-,Bristol Rovers,Halifax Town,2-0,-
--,-,Cambridge United,Halifax Town,0-1,-
--,-,Charlton Athletic,Halifax Town,5-2,-
--,-,Chesterfield,Halifax Town,1-1,-
--,-,Grimsby Town,Halifax Town,4-1,-
--,-,Hereford United,Halifax Town,3-1,-
--,-,Huddersfield Town,Halifax Town,4-0,-
--,-,Oldham Athletic,Halifax Town,3-2,-
--,-,Plymouth Argyle,Halifax Town,1-1,-
--,-,Port Vale,Halifax Town,1-1,-
--,-,Rochdale,Halifax Town,1-1,-
--,-,Shrewsbury Town,Halifax Town,0-2,-
--,-,Southend United,Halifax Town,1-2,-
--,-,Southport,Halifax Town,1-1,-
--,-,Tranmere Rovers,Halifax Town,0-1,-
--,-,Walsall,Halifax Town,2-2,-
--,-,Watford,Halifax Town,0-0,-
--,-,Wrexham,Halifax Town,2-1,-
--,-,York City,Halifax Town,1-1,-
--,-,AFC Bournemouth,Hereford United,3-2,-
--,-,Aldershot,Hereford United,1-0,-
--,-,Blackburn Rovers,Hereford United,1-2,-
--,-,Brighton & Hove Albion,Hereford United,2-1,-
--,-,Bristol Rovers,Hereford United,1-1,-
--,-,Cambridge United,Hereford United,2-0,-
--,-,Charlton Athletic,Hereford United,2-0,-
--,-,Chesterfield,Hereford United,1-1,-
--,-,Grimsby Town,Hereford United,1-3,-
--,-,Halifax Town,Hereford United,1-1,-
--,-,Huddersfield Town,Hereford United,0-0,-
--,-,Oldham Athletic,Hereford United,1-1,-
--,-,Plymouth Argyle,Hereford United,0-1,-
--,-,Port Vale,Hereford United,1-3,-
--,-,Rochdale,Hereford United,1-1,-
--,-,Shrewsbury Town,Hereford United,1-1,-
--,-,Southend United,Hereford United,2-1,-
--,-,Southport,Hereford United,1-1,-
--,-,Tranmere Rovers,Hereford United,0-0,-
--,-,Walsall,Hereford United,3-1,-
--,-,Watford,Hereford United,2-1,-
--,-,Wrexham,Hereford United,5-0,-
--,-,York City,Hereford United,0-0,-
--,-,AFC Bournemouth,Huddersfield Town,1-0,-
--,-,Aldershot,Huddersfield Town,1-0,-
--,-,Blackburn Rovers,Huddersfield Town,1-0,-
--,-,Brighton & Hove Albion,Huddersfield Town,1-2,-
--,-,Bristol Rovers,Huddersfield Town,2-1,-
--,-,Cambridge United,Huddersfield Town,2-2,-
--,-,Charlton Athletic,Huddersfield Town,2-1,-
--,-,Chesterfield,Huddersfield Town,0-2,-
--,-,Grimsby Town,Huddersfield Town,2-1,-
--,-,Halifax Town,Huddersfield Town,0-0,-
--,-,Hereford United,Huddersfield Town,0-1,-
--,-,Oldham Athletic,Huddersfield Town,6-0,-
--,-,Plymouth Argyle,Huddersfield Town,1-1,-
--,-,Port Vale,Huddersfield Town,4-2,-
--,-,Rochdale,Huddersfield Town,1-1,-
--,-,Shrewsbury Town,Huddersfield Town,3-0,-
--,-,Southend United,Huddersfield Town,5-2,-
--,-,Southport,Huddersfield Town,0-0,-
--,-,Tranmere Rovers,Huddersfield Town,1-1,-
--,-,Walsall,Huddersfield Town,3-0,-
--,-,Watford,Huddersfield Town,1-1,-
--,-,Wrexham,Huddersfield Town,0-0,-
--,-,York City,Huddersfield Town,2-1,-
--,-,AFC Bournemouth,Oldham Athletic,0-3,-
--,-,Aldershot,Oldham Athletic,0-1,-
--,-,Blackburn Rovers,Oldham Athletic,0-1,-
--,-,Brighton & Hove Albion,Oldham Athletic,1-2,-
--,-,Bristol Rovers,Oldham Athletic,1-2,-
--,-,Cambridge United,Oldham Athletic,1-1,-
--,-,Charlton Athletic,Oldham Athletic,4-1,-
--,-,Chesterfield,Oldham Athletic,1-0,-
--,-,Grimsby Town,Oldham Athletic,2-1,-
--,-,Halifax Town,Oldham Athletic,0-0,-
--,-,Hereford United,Oldham Athletic,3-4,-
--,-,Huddersfield Town,Oldham Athletic,2-1,-
--,-,Plymouth Argyle,Oldham Athletic,0-0,-
--,-,Port Vale,Oldham Athletic,3-0,-
--,-,Rochdale,Oldham Athletic,1-3,-
--,-,Shrewsbury Town,Oldham Athletic,0-2,-
--,-,Southend United,Oldham Athletic,2-2,-
--,-,Southport,Oldham Athletic,0-2,-
--,-,Tranmere Rovers,Oldham Athletic,0-2,-
--,-,Walsall,Oldham Athletic,1-1,-
--,-,Watford,Oldham Athletic,0-1,-
--,-,Wrexham,Oldham Athletic,1-2,-
--,-,York City,Oldham Athletic,1-1,-
--,-,AFC Bournemouth,Plymouth Argyle,0-0,-
--,-,Aldershot,Plymouth Argyle,3-2,-
--,-,Blackburn Rovers,Plymouth Argyle,2-0,-
--,-,Brighton & Hove Albion,Plymouth Argyle,1-0,-
--,-,Bristol Rovers,Plymouth Argyle,4-2,-
--,-,Cambridge United,Plymouth Argyle,3-1,-
--,-,Charlton Athletic,Plymouth Argyle,2-0,-
--,-,Chesterfield,Plymouth Argyle,1-0,-
--,-,Grimsby Town,Plymouth Argyle,3-0,-
--,-,Halifax Town,Plymouth Argyle,1-0,-
--,-,Hereford United,Plymouth Argyle,0-1,-
--,-,Huddersfield Town,Plymouth Argyle,2-1,-
--,-,Oldham Athletic,Plymouth Argyle,1-0,-
--,-,Port Vale,Plymouth Argyle,2-1,-
--,-,Rochdale,Plymouth Argyle,1-3,-
--,-,Shrewsbury Town,Plymouth Argyle,0-0,-
--,-,Southend United,Plymouth Argyle,2-0,-
--,-,Southport,Plymouth Argyle,1-1,-
--,-,Tranmere Rovers,Plymouth Argyle,2-0,-
--,-,Walsall,Plymouth Argyle,0-4,-
--,-,Watford,Plymouth Argyle,0-3,-
--,-,Wrexham,Plymouth Argyle,5-2,-
--,-,York City,Plymouth Argyle,1-1,-
--,-,AFC Bournemouth,Port Vale,2-2,-
--,-,Aldershot,Port Vale,0-0,-
--,-,Blackburn Rovers,Port Vale,1-1,-
--,-,Brighton & Hove Albion,Port Vale,2-1,-
--,-,Bristol Rovers,Port Vale,1-1,-
--,-,Cambridge United,Port Vale,4-2,-
--,-,Charlton Athletic,Port Vale,2-0,-
--,-,Chesterfield,Port Vale,2-1,-
--,-,Grimsby Town,Port Vale,2-0,-
--,-,Halifax Town,Port Vale,1-0,-
--,-,Hereford United,Port Vale,2-1,-
--,-,Huddersfield Town,Port Vale,3-0,-
--,-,Oldham Athletic,Port Vale,1-1,-
--,-,Plymouth Argyle,Port Vale,2-0,-
--,-,Rochdale,Port Vale,1-1,-
--,-,Shrewsbury Town,Port Vale,0-1,-
--,-,Southend United,Port Vale,1-0,-
--,-,Southport,Port Vale,0-1,-
--,-,Tranmere Rovers,Port Vale,3-0,-
--,-,Walsall,Port Vale,0-0,-
--,-,Watford,Port Vale,2-1,-
--,-,Wrexham,Port Vale,0-0,-
--,-,York City,Port Vale,3-1,-
--,-,AFC Bournemouth,Rochdale,2-0,-
--,-,Aldershot,Rochdale,4-0,-
--,-,Blackburn Rovers,Rochdale,3-1,-
--,-,Brighton & Hove Albion,Rochdale,2-1,-
--,-,Bristol Rovers,Rochdale,1-1,-
--,-,Cambridge United,Rochdale,3-3,-
--,-,Charlton Athletic,Rochdale,3-0,-
--,-,Chesterfield,Rochdale,1-0,-
--,-,Grimsby Town,Rochdale,5-1,-
--,-,Halifax Town,Rochdale,1-0,-
--,-,Hereford United,Rochdale,2-1,-
--,-,Huddersfield Town,Rochdale,5-0,-
--,-,Oldham Athletic,Rochdale,3-1,-
--,-,Plymouth Argyle,Rochdale,5-0,-
--,-,Port Vale,Rochdale,3-1,-
--,-,Shrewsbury Town,Rochdale,2-0,-
--,-,Southend United,Rochdale,1-2,-
--,-,Southport,Rochdale,0-0,-
--,-,Tranmere Rovers,Rochdale,1-1,-
--,-,Walsall,Rochdale,0-0,-
--,-,Watford,Rochdale,4-0,-
--,-,Wrexham,Rochdale,3-0,-
--,-,York City,Rochdale,2-1,-
--,-,AFC Bournemouth,Shrewsbury Town,1-0,-
--,-,Aldershot,Shrewsbury Town,2-2,-
--,-,Blackburn Rovers,Shrewsbury Town,2-0,-
--,-,Brighton & Hove Albion,Shrewsbury Town,2-0,-
--,-,Bristol Rovers,Shrewsbury Town,1-0,-
--,-,Cambridge United,Shrewsbury Town,2-1,-
--,-,Charlton Athletic,Shrewsbury Town,3-3,-
--,-,Chesterfield,Shrewsbury Town,0-2,-
--,-,Grimsby Town,Shrewsbury Town,1-2,-
--,-,Halifax Town,Shrewsbury Town,1-0,-
--,-,Hereford United,Shrewsbury Town,1-1,-
--,-,Huddersfield Town,Shrewsbury Town,1-0,-
--,-,Oldham Athletic,Shrewsbury Town,3-0,-
--,-,Plymouth Argyle,Shrewsbury Town,2-2,-
--,-,Port Vale,Shrewsbury Town,3-0,-
--,-,Rochdale,Shrewsbury Town,3-2,-
--,-,Southend United,Shrewsbury Town,2-0,-
--,-,Southport,Shrewsbury Town,1-0,-
--,-,Tranmere Rovers,Shrewsbury Town,1-0,-
--,-,Walsall,Shrewsbury Town,2-0,-
--,-,Watford,Shrewsbury Town,1-0,-
--,-,Wrexham,Shrewsbury Town,3-1,-
--,-,York City,Shrewsbury Town,0-1,-
--,-,AFC Bournemouth,Southend United,1-3,-
--,-,Aldershot,Southend United,3-3,-
--,-,Blackburn Rovers,Southend United,1-0,-
--,-,Brighton & Hove Albion,Southend United,0-2,-
--,-,Bristol Rovers,Southend United,4-0,-
--,-,Cambridge United,Southend United,3-2,-
--,-,Charlton Athletic,Southend United,2-1,-
--,-,Chesterfield,Southend United,0-0,-
--,-,Grimsby Town,Southend United,2-1,-
--,-,Halifax Town,Southend United,0-0,-
--,-,Hereford United,Southend United,1-2,-
--,-,Huddersfield Town,Southend United,0-1,-
--,-,Oldham Athletic,Southend United,2-0,-
--,-,Plymouth Argyle,Southend United,1-1,-
--,-,Port Vale,Southend United,0-0,-
--,-,Rochdale,Southend United,1-1,-
--,-,Shrewsbury Town,Southend United,1-2,-
--,-,Southport,Southend United,0-0,-
--,-,Tranmere Rovers,Southend United,2-0,-
--,-,Walsall,Southend United,1-2,-
--,-,Watford,Southend United,1-0,-
--,-,Wrexham,Southend United,5-1,-
--,-,York City,Southend United,1-0,-
--,-,AFC Bournemouth,Southport,2-0,-
--,-,Aldershot,Southport,4-0,-
--,-,Blackburn Rovers,Southport,2-1,-
--,-,Brighton & Hove Albion,Southport,4-0,-
--,-,Bristol Rovers,Southport,3-1,-
--,-,Cambridge United,Southport,2-0,-
--,-,Charlton Athletic,Southport,0-1,-
--,-,Chesterfield,Southport,4-2,-
--,-,Grimsby Town,Southport,2-1,-
--,-,Halifax Town,Southport,1-1,-
--,-,Hereford United,Southport,3-0,-
--,-,Huddersfield Town,Southport,3-1,-
--,-,Oldham Athletic,Southport,6-0,-
--,-,Plymouth Argyle,Southport,4-1,-
--,-,Port Vale,Southport,2-1,-
--,-,Rochdale,Southport,2-2,-
--,-,Shrewsbury Town,Southport,2-0,-
--,-,Southend United,Southport,0-1,-
--,-,Tranmere Rovers,Southport,3-1,-
--,-,Walsall,Southport,2-0,-
--,-,Watford,Southport,4-0,-
--,-,Wrexham,Southport,3-2,-
--,-,York City,Southport,4-0,-
--,-,AFC Bournemouth,Tranmere Rovers,2-1,-
--,-,Aldershot,Tranmere Rovers,0-0,-
--,-,Blackburn Rovers,Tranmere Rovers,0-0,-
--,-,Brighton & Hove Albion,Tranmere Rovers,1-3,-
--,-,Bristol Rovers,Tranmere Rovers,1-0,-
--,-,Cambridge United,Tranmere Rovers,1-0,-
--,-,Charlton Athletic,Tranmere Rovers,1-0,-
--,-,Chesterfield,Tranmere Rovers,1-0,-
--,-,Grimsby Town,Tranmere Rovers,5-0,-
--,-,Halifax Town,Tranmere Rovers,2-1,-
--,-,Hereford United,Tranmere Rovers,0-2,-
--,-,Huddersfield Town,Tranmere Rovers,0-0,-
--,-,Oldham Athletic,Tranmere Rovers,2-2,-
--,-,Plymouth Argyle,Tranmere Rovers,2-0,-
--,-,Port Vale,Tranmere Rovers,1-0,-
--,-,Rochdale,Tranmere Rovers,0-1,-
--,-,Shrewsbury Town,Tranmere Rovers,1-3,-
--,-,Southend United,Tranmere Rovers,1-1,-
--,-,Southport,Tranmere Rovers,2-2,-
--,-,Walsall,Tranmere Rovers,0-1,-
--,-,Watford,Tranmere Rovers,4-2,-
--,-,Wrexham,Tranmere Rovers,0-0,-
--,-,York City,Tranmere Rovers,2-0,-
--,-,AFC Bournemouth,Walsall,1-0,-
--,-,Aldershot,Walsall,1-0,-
--,-,Blackburn Rovers,Walsall,0-2,-
--,-,Brighton & Hove Albion,Walsall,2-1,-
--,-,Bristol Rovers,Walsall,0-2,-
--,-,Cambridge United,Walsall,0-0,-
--,-,Charlton Athletic,Walsall,0-1,-
--,-,Chesterfield,Walsall,1-0,-
--,-,Grimsby Town,Walsall,1-0,-
--,-,Halifax Town,Walsall,3-1,-
--,-,Hereford United,Walsall,3-1,-
--,-,Huddersfield Town,Walsall,2-2,-
--,-,Oldham Athletic,Walsall,2-1,-
--,-,Plymouth Argyle,Walsall,2-1,-
--,-,Port Vale,Walsall,1-1,-
--,-,Rochdale,Walsall,0-1,-
--,-,Shrewsbury Town,Walsall,0-0,-
--,-,Southend United,Walsall,2-1,-
--,-,Southport,Walsall,1-1,-
--,-,Tranmere Rovers,Walsall,3-0,-
--,-,Watford,Walsall,1-3,-
--,-,Wrexham,Walsall,2-0,-
--,-,York City,Walsall,1-1,-
--,-,AFC Bournemouth,Watford,1-0,-
--,-,Aldershot,Watford,1-0,-
--,-,Blackburn Rovers,Watford,5-0,-
--,-,Brighton & Hove Albion,Watford,0-1,-
--,-,Bristol Rovers,Watford,1-0,-
--,-,Cambridge United,Watford,3-2,-
--,-,Charlton Athletic,Watford,1-3,-
--,-,Chesterfield,Watford,3-1,-
--,-,Grimsby Town,Watford,2-2,-
--,-,Halifax Town,Watford,0-0,-
--,-,Hereford United,Watford,1-1,-
--,-,Huddersfield Town,Watford,1-2,-
--,-,Oldham Athletic,Watford,0-3,-
--,-,Plymouth Argyle,Watford,2-0,-
--,-,Port Vale,Watford,1-2,-
--,-,Rochdale,Watford,1-3,-
--,-,Shrewsbury Town,Watford,3-2,-
--,-,Southend United,Watford,2-3,-
--,-,Southport,Watford,1-1,-
--,-,Tranmere Rovers,Watford,1-0,-
--,-,Walsall,Watford,2-2,-
--,-,Wrexham,Watford,1-0,-
--,-,York City,Watford,2-2,-
--,-,AFC Bournemouth,Wrexham,0-1,-
--,-,Aldershot,Wrexham,5-1,-
--,-,Blackburn Rovers,Wrexham,1-2,-
--,-,Brighton & Hove Albion,Wrexham,2-1,-
--,-,Bristol Rovers,Wrexham,1-0,-
--,-,Cambridge United,Wrexham,2-1,-
--,-,Charlton Athletic,Wrexham,0-0,-
--,-,Chesterfield,Wrexham,2-2,-
--,-,Grimsby Town,Wrexham,1-1,-
--,-,Halifax Town,Wrexham,1-2,-
--,-,Hereford United,Wrexham,2-0,-
--,-,Huddersfield Town,Wrexham,2-1,-
--,-,Oldham Athletic,Wrexham,0-0,-
--,-,Plymouth Argyle,Wrexham,1-2,-
--,-,Port Vale,Wrexham,1-0,-
--,-,Rochdale,Wrexham,0-0,-
--,-,Shrewsbury Town,Wrexham,0-1,-
--,-,Southend United,Wrexham,1-1,-
--,-,Southport,Wrexham,0-2,-
--,-,Tranmere Rovers,Wrexham,0-1,-
--,-,Walsall,Wrexham,3-0,-
--,-,Watford,Wrexham,2-0,-
--,-,York City,Wrexham,1-0,-
--,-,AFC Bournemouth,York City,1-3,-
--,-,Aldershot,York City,2-2,-
--,-,Blackburn Rovers,York City,4-0,-
--,-,Brighton & Hove Albion,York City,0-0,-
--,-,Bristol Rovers,York City,0-0,-
--,-,Cambridge United,York City,0-0,-
--,-,Charlton Athletic,York City,2-4,-
--,-,Chesterfield,York City,0-2,-
--,-,Grimsby Town,York City,1-2,-
--,-,Halifax Town,York City,2-1,-
--,-,Hereford United,York City,0-0,-
--,-,Huddersfield Town,York City,0-1,-
--,-,Oldham Athletic,York City,2-1,-
--,-,Plymouth Argyle,York City,0-2,-
--,-,Port Vale,York City,2-2,-
--,-,Rochdale,York City,1-3,-
--,-,Shrewsbury Town,York City,0-2,-
--,-,Southend United,York City,3-3,-
--,-,Southport,York City,1-1,-
--,-,Tranmere Rovers,York City,0-0,-
--,-,Walsall,York City,0-0,-
--,-,Watford,York City,1-1,-
--,-,Wrexham,York City,1-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Wed) 12 Sep 1973 (37),AFC Bournemouth (1),3-0,?,Aldershot Town FC (1)
+?,(Sat) 10 Nov 1973 (45),AFC Bournemouth (2),1-2,?,Blackburn Rovers (1)
+?,(Tue) 1 Jan 1974 (0),AFC Bournemouth (3),0-0,?,Brighton & Hove Albion (1)
+?,(Sat) 25 Aug 1973 (34),AFC Bournemouth (4),0-3,?,Bristol Rovers (1)
+?,(Sat) 8 Dec 1973 (49),AFC Bournemouth (5),1-0,?,Cambridge United (1)
+?,(Wed) 14 Nov 1973 (46),AFC Bournemouth (6),1-0,?,Charlton Athletic (1)
+?,(Sat) 8 Sep 1973 (36),AFC Bournemouth (7),0-1,?,Chesterfield FC (1)
+?,(Sat) 13 Apr 1974 (14),AFC Bournemouth (8),1-1,?,Grimsby Town (1)
+?,(Wed) 24 Apr 1974 (16),AFC Bournemouth (9),1-1,?,Halifax Town (1)
+?,(Sat) 2 Mar 1974 (8),AFC Bournemouth (10),3-2,?,Hereford United (1)
+?,(Sat) 22 Dec 1973 (51),AFC Bournemouth (11),1-0,?,Huddersfield Town (1)
+?,(Sat) 2 Feb 1974 (4),AFC Bournemouth (12),0-3,?,Oldham Athletic (1)
+?,(Fri) 12 Apr 1974 (14),AFC Bournemouth (13),0-0,?,Plymouth Argyle (1)
+?,(Sat) 16 Mar 1974 (10),AFC Bournemouth (14),2-2,?,Port Vale FC (1)
+?,(Wed) 3 Oct 1973 (40),AFC Bournemouth (15),2-0,?,Rochdale AFC (1)
+?,(Sat) 16 Feb 1974 (6),AFC Bournemouth (16),1-0,?,Shrewsbury Town (1)
+?,(Fri) 25 Jan 1974 (3),AFC Bournemouth (17),1-3,?,Southend United (1)
+?,(Sat) 6 Oct 1973 (40),AFC Bournemouth (18),2-0,?,Southport FC (1)
+?,(Sat) 22 Sep 1973 (38),AFC Bournemouth (19),2-1,?,Tranmere Rovers (1)
+?,(Sat) 12 Jan 1974 (1),AFC Bournemouth (20),1-0,?,Walsall FC (1)
+?,(Sat) 27 Oct 1973 (43),AFC Bournemouth (21),1-0,?,Watford FC (1)
+?,(Sat) 27 Apr 1974 (16),AFC Bournemouth (22),0-1,?,Wrexham AFC (1)
+?,(Wed) 27 Mar 1974 (12),AFC Bournemouth (23),1-3,?,York City (1)
+?,(Wed) 24 Oct 1973 (43),Aldershot Town FC (2),1-3,?,AFC Bournemouth (24)
+?,(Sat) 27 Apr 1974 (16),Aldershot Town FC (3),4-0,?,Blackburn Rovers (2)
+?,(Sun) 3 Mar 1974 (8),Aldershot Town FC (4),0-1,?,Brighton & Hove Albion (2)
+?,(Sun) 27 Jan 1974 (3),Aldershot Town FC (5),2-3,?,Bristol Rovers (2)
+?,(Sat) 13 Apr 1974 (14),Aldershot Town FC (6),6-0,?,Cambridge United (2)
+?,(Sat) 27 Oct 1973 (43),Aldershot Town FC (7),2-1,?,Charlton Athletic (2)
+?,(Wed) 27 Mar 1974 (12),Aldershot Town FC (8),2-2,?,Chesterfield FC (2)
+?,(Sat) 16 Mar 1974 (10),Aldershot Town FC (9),1-0,?,Grimsby Town (2)
+?,(Sat) 8 Dec 1973 (49),Aldershot Town FC (10),2-1,?,Halifax Town (2)
+?,(Sun) 3 Feb 1974 (4),Aldershot Town FC (11),1-0,?,Hereford United (2)
+?,(Sat) 12 Jan 1974 (1),Aldershot Town FC (12),1-0,?,Huddersfield Town (2)
+?,(Sat) 6 Oct 1973 (40),Aldershot Town FC (13),0-1,?,Oldham Athletic (2)
+?,(Wed) 19 Sep 1973 (38),Aldershot Town FC (14),3-2,?,Plymouth Argyle (2)
+?,(Sat) 10 Nov 1973 (45),Aldershot Town FC (15),0-0,?,Port Vale FC (2)
+?,(Wed) 13 Mar 1974 (10),Aldershot Town FC (16),4-0,?,Rochdale AFC (2)
+?,(Sat) 22 Sep 1973 (38),Aldershot Town FC (17),2-2,?,Shrewsbury Town (2)
+?,(Sun) 17 Feb 1974 (6),Aldershot Town FC (18),3-3,?,Southend United (2)
+?,(Tue) 1 Jan 1974 (0),Aldershot Town FC (19),4-0,?,Southport FC (2)
+?,(Sat) 25 Aug 1973 (34),Aldershot Town FC (20),0-0,?,Tranmere Rovers (2)
+?,(Sat) 8 Sep 1973 (36),Aldershot Town FC (21),1-0,?,Walsall FC (2)
+?,(Sat) 30 Mar 1974 (12),Aldershot Town FC (22),1-0,?,Watford FC (2)
+?,(Wed) 14 Nov 1973 (46),Aldershot Town FC (23),5-1,?,Wrexham AFC (2)
+?,(Sat) 22 Dec 1973 (51),Aldershot Town FC (24),2-2,?,York City (2)
+?,(Sat) 23 Mar 1974 (11),Blackburn Rovers (3),4-3,?,AFC Bournemouth (25)
+?,(Wed) 24 Apr 1974 (16),Blackburn Rovers (4),1-2,?,Aldershot Town FC (25)
+?,(Sat) 6 Oct 1973 (40),Blackburn Rovers (5),3-1,?,Brighton & Hove Albion (3)
+?,(Sat) 22 Sep 1973 (38),Blackburn Rovers (6),0-2,?,Bristol Rovers (3)
+?,(Sat) 20 Oct 1973 (42),Blackburn Rovers (7),2-0,?,Cambridge United (3)
+?,(Wed) 24 Oct 1973 (43),Blackburn Rovers (8),1-1,?,Charlton Athletic (3)
+?,(Sat) 12 Jan 1974 (1),Blackburn Rovers (9),2-1,?,Chesterfield FC (3)
+?,(Wed) 19 Sep 1973 (38),Blackburn Rovers (10),1-0,?,Grimsby Town (3)
+?,(Mon) 15 Apr 1974 (15),Blackburn Rovers (11),1-1,?,Halifax Town (3)
+?,(Tue) 1 Jan 1974 (0),Blackburn Rovers (12),1-2,?,Hereford United (3)
+?,(Wed) 27 Mar 1974 (12),Blackburn Rovers (13),1-0,?,Huddersfield Town (3)
+?,(Sat) 2 Mar 1974 (8),Blackburn Rovers (14),0-1,?,Oldham Athletic (3)
+?,(Sat) 3 Nov 1973 (44),Blackburn Rovers (15),2-0,?,Plymouth Argyle (3)
+?,(Sat) 6 Apr 1974 (13),Blackburn Rovers (16),1-1,?,Port Vale FC (3)
+?,(Sat) 20 Apr 1974 (15),Blackburn Rovers (17),3-1,?,Rochdale AFC (3)
+?,(Sun) 27 Jan 1974 (3),Blackburn Rovers (18),2-0,?,Shrewsbury Town (3)
+?,(Sat) 25 Aug 1973 (34),Blackburn Rovers (19),1-0,?,Southend United (3)
+?,(Sun) 3 Feb 1974 (4),Blackburn Rovers (20),2-1,?,Southport FC (3)
+?,(Sun) 17 Feb 1974 (6),Blackburn Rovers (21),0-0,?,Tranmere Rovers (3)
+?,(Sat) 22 Dec 1973 (51),Blackburn Rovers (22),0-2,?,Walsall FC (3)
+?,(Sat) 17 Nov 1973 (46),Blackburn Rovers (23),5-0,?,Watford FC (3)
+?,(Wed) 1 May 1974 (17),Blackburn Rovers (24),1-2,?,Wrexham AFC (3)
+?,(Sat) 8 Sep 1973 (36),Blackburn Rovers (25),4-0,?,York City (3)
+?,(Sat) 1 Sep 1973 (35),Brighton & Hove Albion (4),0-2,?,AFC Bournemouth (26)
+?,(Wed) 26 Dec 1973 (52),Brighton & Hove Albion (5),0-1,?,Aldershot Town FC (26)
+?,(Sat) 23 Feb 1974 (7),Brighton & Hove Albion (6),3-0,?,Blackburn Rovers (26)
+?,(Sat) 1 Dec 1973 (48),Brighton & Hove Albion (7),2-8,?,Bristol Rovers (4)
+?,(Wed) 3 Apr 1974 (13),Brighton & Hove Albion (8),4-1,?,Cambridge United (4)
+?,(Sat) 15 Sep 1973 (37),Brighton & Hove Albion (9),1-2,?,Charlton Athletic (4)
+?,(Sat) 17 Nov 1973 (46),Brighton & Hove Albion (10),0-0,?,Chesterfield FC (4)
+?,(Sat) 9 Feb 1974 (5),Brighton & Hove Albion (11),1-1,?,Grimsby Town (4)
+?,(Sat) 13 Oct 1973 (41),Brighton & Hove Albion (12),0-1,?,Halifax Town (4)
+?,(Sun) 10 Mar 1974 (9),Brighton & Hove Albion (13),2-1,?,Hereford United (4)
+?,(Sat) 23 Mar 1974 (11),Brighton & Hove Albion (14),1-2,?,Huddersfield Town (4)
+?,(Wed) 19 Sep 1973 (38),Brighton & Hove Albion (15),1-2,?,Oldham Athletic (4)
+?,(Sat) 29 Dec 1973 (52),Brighton & Hove Albion (16),1-0,?,Plymouth Argyle (4)
+?,(Wed) 20 Mar 1974 (11),Brighton & Hove Albion (17),2-1,?,Port Vale FC (4)
+?,(Sun) 20 Jan 1974 (2),Brighton & Hove Albion (18),2-1,?,Rochdale AFC (4)
+?,(Sat) 20 Oct 1973 (42),Brighton & Hove Albion (19),2-0,?,Shrewsbury Town (4)
+?,(Mon) 15 Apr 1974 (15),Brighton & Hove Albion (20),0-2,?,Southend United (4)
+?,(Wed) 24 Oct 1973 (43),Brighton & Hove Albion (21),4-0,?,Southport FC (4)
+?,(Sat) 20 Apr 1974 (15),Brighton & Hove Albion (22),1-3,?,Tranmere Rovers (4)
+?,(Sat) 6 Apr 1974 (13),Brighton & Hove Albion (23),2-1,?,Walsall FC (4)
+?,(Sat) 29 Sep 1973 (39),Brighton & Hove Albion (24),0-1,?,Watford FC (4)
+?,(Wed) 27 Feb 1974 (8),Brighton & Hove Albion (25),2-1,?,Wrexham AFC (4)
+?,(Sat) 3 Nov 1973 (44),Brighton & Hove Albion (26),0-0,?,York City (4)
+?,(Sat) 19 Jan 1974 (2),Bristol Rovers (5),3-0,?,AFC Bournemouth (27)
+?,(Tue) 2 Apr 1974 (13),Bristol Rovers (6),2-1,?,Aldershot Town FC (27)
+?,(Tue) 12 Mar 1974 (10),Bristol Rovers (7),3-0,?,Blackburn Rovers (27)
+?,(Sat) 27 Apr 1974 (16),Bristol Rovers (8),1-1,?,Brighton & Hove Albion (27)
+?,(Sat) 29 Sep 1973 (39),Bristol Rovers (9),1-0,?,Cambridge United (5)
+?,(Sat) 1 Sep 1973 (35),Bristol Rovers (10),2-1,?,Charlton Athletic (5)
+?,(Sat) 3 Nov 1973 (44),Bristol Rovers (11),1-0,?,Chesterfield FC (5)
+?,(Sat) 29 Dec 1973 (52),Bristol Rovers (12),1-1,?,Grimsby Town (5)
+?,(Sat) 15 Sep 1973 (37),Bristol Rovers (13),2-0,?,Halifax Town (5)
+?,(Tue) 11 Sep 1973 (37),Bristol Rovers (14),1-1,?,Hereford United (5)
+?,(Fri) 8 Mar 1974 (9),Bristol Rovers (15),2-1,?,Huddersfield Town (5)
+?,(Sat) 13 Apr 1974 (14),Bristol Rovers (16),1-2,?,Oldham Athletic (5)
+?,(Wed) 26 Dec 1973 (52),Bristol Rovers (17),4-2,?,Plymouth Argyle (5)
+?,(Sat) 13 Oct 1973 (41),Bristol Rovers (18),1-1,?,Port Vale FC (5)
+?,(Tue) 5 Mar 1974 (9),Bristol Rovers (19),1-1,?,Rochdale AFC (5)
+?,(Tue) 2 Oct 1973 (40),Bristol Rovers (20),1-0,?,Shrewsbury Town (5)
+?,(Sat) 8 Dec 1973 (49),Bristol Rovers (21),4-0,?,Southend United (5)
+?,(Tue) 13 Nov 1973 (46),Bristol Rovers (22),3-1,?,Southport FC (5)
+?,(Tue) 16 Apr 1974 (15),Bristol Rovers (23),1-0,?,Tranmere Rovers (5)
+?,(Sat) 23 Mar 1974 (11),Bristol Rovers (24),0-2,?,Walsall FC (5)
+?,(Sat) 23 Feb 1974 (7),Bristol Rovers (25),1-0,?,Watford FC (5)
+?,(Tue) 19 Mar 1974 (11),Bristol Rovers (26),1-0,?,Wrexham AFC (5)
+?,(Sat) 20 Oct 1973 (42),Bristol Rovers (27),0-0,?,York City (5)
+?,(Sat) 20 Apr 1974 (15),Cambridge United (6),2-1,?,AFC Bournemouth (28)
+?,(Sat) 17 Nov 1973 (46),Cambridge United (7),1-2,?,Aldershot Town FC (28)
+?,(Sat) 16 Mar 1974 (10),Cambridge United (8),0-2,?,Blackburn Rovers (28)
+?,(Sun) 27 Jan 1974 (3),Cambridge United (9),1-1,?,Brighton & Hove Albion (28)
+?,(Sat) 22 Dec 1973 (51),Cambridge United (10),2-2,?,Bristol Rovers (28)
+?,(Sat) 10 Nov 1973 (45),Cambridge United (11),1-0,?,Charlton Athletic (6)
+?,(Sat) 2 Feb 1974 (4),Cambridge United (12),1-2,?,Chesterfield FC (6)
+?,(Sat) 30 Mar 1974 (12),Cambridge United (13),0-1,?,Grimsby Town (6)
+?,(Sat) 27 Oct 1973 (43),Cambridge United (14),0-1,?,Halifax Town (6)
+?,(Sun) 17 Feb 1974 (6),Cambridge United (15),2-0,?,Hereford United (6)
+?,(Tue) 1 Jan 1974 (0),Cambridge United (16),2-2,?,Huddersfield Town (6)
+?,(Sat) 22 Sep 1973 (38),Cambridge United (17),1-1,?,Oldham Athletic (6)
+?,(Wed) 1 May 1974 (17),Cambridge United (18),3-1,?,Plymouth Argyle (6)
+?,(Wed) 24 Oct 1973 (43),Cambridge United (19),4-2,?,Port Vale FC (6)
+?,(Sat) 6 Apr 1974 (13),Cambridge United (20),3-3,?,Rochdale AFC (6)
+?,(Sat) 8 Sep 1973 (36),Cambridge United (21),2-1,?,Shrewsbury Town (6)
+?,(Sat) 12 Jan 1974 (1),Cambridge United (22),3-2,?,Southend United (6)
+?,(Sat) 25 Aug 1973 (34),Cambridge United (23),2-0,?,Southport FC (6)
+?,(Wed) 27 Mar 1974 (12),Cambridge United (24),1-0,?,Tranmere Rovers (6)
+?,(Sun) 3 Mar 1974 (8),Cambridge United (25),0-0,?,Walsall FC (6)
+?,(Wed) 19 Sep 1973 (38),Cambridge United (26),3-2,?,Watford FC (6)
+?,(Tue) 16 Apr 1974 (15),Cambridge United (27),2-1,?,Wrexham AFC (6)
+?,(Sat) 6 Oct 1973 (40),Cambridge United (28),0-0,?,York City (6)
+?,(Sat) 6 Apr 1974 (13),Charlton Athletic (7),0-0,?,AFC Bournemouth (29)
+?,(Fri) 3 May 1974 (17),Charlton Athletic (8),2-0,?,Aldershot Town FC (29)
+?,(Tue) 11 Sep 1973 (37),Charlton Athletic (9),4-3,?,Blackburn Rovers (29)
+?,(Sat) 12 Jan 1974 (1),Charlton Athletic (10),0-4,?,Brighton & Hove Albion (29)
+?,(Tue) 1 Jan 1974 (0),Charlton Athletic (11),1-1,?,Bristol Rovers (29)
+?,(Sat) 23 Mar 1974 (11),Charlton Athletic (12),2-0,?,Cambridge United (29)
+?,(Sat) 22 Sep 1973 (38),Charlton Athletic (13),3-3,?,Chesterfield FC (7)
+?,(Mon) 15 Apr 1974 (15),Charlton Athletic (14),2-1,?,Grimsby Town (7)
+?,(Tue) 2 Oct 1973 (40),Charlton Athletic (15),5-2,?,Halifax Town (7)
+?,(Sat) 8 Sep 1973 (36),Charlton Athletic (16),2-0,?,Hereford United (7)
+?,(Sat) 26 Jan 1974 (3),Charlton Athletic (17),2-1,?,Huddersfield Town (7)
+?,(Tue) 26 Mar 1974 (12),Charlton Athletic (18),4-1,?,Oldham Athletic (7)
+?,(Sat) 17 Nov 1973 (46),Charlton Athletic (19),2-0,?,Plymouth Argyle (7)
+?,(Sat) 1 Dec 1973 (48),Charlton Athletic (20),2-0,?,Port Vale FC (7)
+?,(Sat) 20 Oct 1973 (42),Charlton Athletic (21),3-0,?,Rochdale AFC (7)
+?,(Sun) 3 Feb 1974 (4),Charlton Athletic (22),3-3,?,Shrewsbury Town (7)
+?,(Sun) 3 Mar 1974 (8),Charlton Athletic (23),2-1,?,Southend United (7)
+?,(Sat) 22 Dec 1973 (51),Charlton Athletic (24),0-1,?,Southport FC (7)
+?,(Sat) 6 Oct 1973 (40),Charlton Athletic (25),1-0,?,Tranmere Rovers (7)
+?,(Sun) 17 Feb 1974 (6),Charlton Athletic (26),0-1,?,Walsall FC (7)
+?,(Sat) 20 Apr 1974 (15),Charlton Athletic (27),1-3,?,Watford FC (7)
+?,(Sat) 3 Nov 1973 (44),Charlton Athletic (28),0-0,?,Wrexham AFC (7)
+?,(Sat) 25 Aug 1973 (34),Charlton Athletic (29),2-4,?,York City (7)
+?,(Sat) 29 Dec 1973 (52),Chesterfield FC (8),2-1,?,AFC Bournemouth (30)
+?,(Sat) 5 Jan 1974 (0),Chesterfield FC (9),0-0,?,Aldershot Town FC (30)
+?,(Sat) 15 Sep 1973 (37),Chesterfield FC (10),3-0,?,Blackburn Rovers (30)
+?,(Sat) 13 Apr 1974 (14),Chesterfield FC (11),1-0,?,Brighton & Hove Albion (30)
+?,(Sat) 30 Mar 1974 (12),Chesterfield FC (12),0-0,?,Bristol Rovers (30)
+?,(Wed) 13 Mar 1974 (10),Chesterfield FC (13),3-0,?,Cambridge United (30)
+?,(Sat) 9 Feb 1974 (5),Chesterfield FC (14),3-1,?,Charlton Athletic (30)
+?,(Sat) 1 Sep 1973 (35),Chesterfield FC (15),1-0,?,Grimsby Town (8)
+?,(Sat) 23 Feb 1974 (7),Chesterfield FC (16),1-1,?,Halifax Town (8)
+?,(Sat) 8 Dec 1973 (49),Chesterfield FC (17),1-1,?,Hereford United (8)
+?,(Wed) 24 Oct 1973 (43),Chesterfield FC (18),0-2,?,Huddersfield Town (8)
+?,(Sat) 16 Mar 1974 (10),Chesterfield FC (19),1-0,?,Oldham Athletic (8)
+?,(Sat) 19 Jan 1974 (2),Chesterfield FC (20),1-0,?,Plymouth Argyle (8)
+?,(Sat) 29 Sep 1973 (39),Chesterfield FC (21),2-1,?,Port Vale FC (8)
+?,(Wed) 26 Dec 1973 (52),Chesterfield FC (22),1-0,?,Rochdale AFC (8)
+?,(Sat) 27 Apr 1974 (16),Chesterfield FC (23),0-2,?,Shrewsbury Town (8)
+?,(Wed) 14 Nov 1973 (46),Chesterfield FC (24),0-0,?,Southend United (8)
+?,(Sat) 27 Oct 1973 (43),Chesterfield FC (25),4-2,?,Southport FC (8)
+?,(Sat) 10 Nov 1973 (45),Chesterfield FC (26),1-0,?,Tranmere Rovers (8)
+?,(Wed) 17 Apr 1974 (15),Chesterfield FC (27),1-0,?,Walsall FC (8)
+?,(Sat) 13 Oct 1973 (41),Chesterfield FC (28),3-1,?,Watford FC (8)
+?,(Wed) 3 Apr 1974 (13),Chesterfield FC (29),2-2,?,Wrexham AFC (8)
+?,(Wed) 19 Sep 1973 (38),Chesterfield FC (30),0-2,?,York City (8)
+?,(Sat) 17 Nov 1973 (46),Grimsby Town (9),1-1,?,AFC Bournemouth (31)
+?,(Sat) 20 Oct 1973 (42),Grimsby Town (10),1-0,?,Aldershot Town FC (31)
+?,(Tue) 2 Oct 1973 (40),Grimsby Town (11),4-2,?,Blackburn Rovers (31)
+?,(Sat) 22 Sep 1973 (38),Grimsby Town (12),0-0,?,Brighton & Hove Albion (31)
+?,(Sat) 8 Sep 1973 (36),Grimsby Town (13),1-1,?,Bristol Rovers (31)
+?,(Sat) 3 Nov 1973 (44),Grimsby Town (14),1-0,?,Cambridge United (31)
+?,(Fri) 12 Apr 1974 (14),Grimsby Town (15),5-0,?,Charlton Athletic (31)
+?,(Tue) 1 Jan 1974 (0),Grimsby Town (16),1-1,?,Chesterfield FC (31)
+?,(Tue) 11 Sep 1973 (37),Grimsby Town (17),4-1,?,Halifax Town (9)
+?,(Sat) 25 Aug 1973 (34),Grimsby Town (18),1-3,?,Hereford United (9)
+?,(Sat) 2 Feb 1974 (4),Grimsby Town (19),2-1,?,Huddersfield Town (9)
+?,(Wed) 24 Apr 1974 (16),Grimsby Town (20),2-1,?,Oldham Athletic (9)
+?,(Sat) 6 Apr 1974 (13),Grimsby Town (21),3-0,?,Plymouth Argyle (9)
+?,(Sat) 20 Apr 1974 (15),Grimsby Town (22),2-0,?,Port Vale FC (9)
+?,(Sat) 26 Jan 1974 (3),Grimsby Town (23),5-1,?,Rochdale AFC (9)
+?,(Sat) 22 Dec 1973 (51),Grimsby Town (24),1-2,?,Shrewsbury Town (9)
+?,(Tue) 26 Mar 1974 (12),Grimsby Town (25),2-1,?,Southend United (9)
+?,(Sat) 16 Feb 1974 (6),Grimsby Town (26),2-1,?,Southport FC (9)
+?,(Sat) 12 Jan 1974 (1),Grimsby Town (27),5-0,?,Tranmere Rovers (9)
+?,(Tue) 6 Nov 1973 (45),Grimsby Town (28),1-0,?,Walsall FC (9)
+?,(Mon) 29 Apr 1974 (17),Grimsby Town (29),2-2,?,Watford FC (9)
+?,(Sat) 23 Mar 1974 (11),Grimsby Town (30),1-1,?,Wrexham AFC (9)
+?,(Sat) 2 Mar 1974 (8),Grimsby Town (31),1-2,?,York City (9)
+?,(Sat) 3 Nov 1973 (44),Halifax Town (10),1-1,?,AFC Bournemouth (32)
+?,(Sat) 20 Apr 1974 (15),Halifax Town (11),0-0,?,Aldershot Town FC (32)
+?,(Tue) 16 Apr 1974 (15),Halifax Town (12),1-1,?,Blackburn Rovers (32)
+?,(Sat) 16 Feb 1974 (6),Halifax Town (13),2-2,?,Brighton & Hove Albion (32)
+?,(Sat) 12 Jan 1974 (1),Halifax Town (14),0-0,?,Bristol Rovers (32)
+?,(Sun) 10 Mar 1974 (9),Halifax Town (15),0-1,?,Cambridge United (32)
+?,(Tue) 18 Sep 1973 (38),Halifax Town (16),2-1,?,Charlton Athletic (32)
+?,(Sat) 6 Oct 1973 (40),Halifax Town (17),2-0,?,Chesterfield FC (32)
+?,(Tue) 9 Apr 1974 (14),Halifax Town (18),1-2,?,Grimsby Town (32)
+?,(Sat) 22 Sep 1973 (38),Halifax Town (19),1-1,?,Hereford United (10)
+?,(Sat) 2 Mar 1974 (8),Halifax Town (20),0-0,?,Huddersfield Town (10)
+?,(Sat) 25 Aug 1973 (34),Halifax Town (21),0-0,?,Oldham Athletic (10)
+?,(Sat) 23 Mar 1974 (11),Halifax Town (22),1-0,?,Plymouth Argyle (10)
+?,(Sat) 17 Nov 1973 (46),Halifax Town (23),1-0,?,Port Vale FC (10)
+?,(Mon) 22 Apr 1974 (16),Halifax Town (24),1-0,?,Rochdale AFC (10)
+?,(Tue) 26 Mar 1974 (12),Halifax Town (25),1-0,?,Shrewsbury Town (10)
+?,(Sat) 8 Sep 1973 (36),Halifax Town (26),0-0,?,Southend United (10)
+?,(Sun) 27 Jan 1974 (3),Halifax Town (27),1-1,?,Southport FC (10)
+?,(Sat) 22 Dec 1973 (51),Halifax Town (28),2-1,?,Tranmere Rovers (10)
+?,(Sun) 3 Feb 1974 (4),Halifax Town (29),3-1,?,Walsall FC (10)
+?,(Sat) 6 Apr 1974 (13),Halifax Town (30),0-0,?,Watford FC (10)
+?,(Sat) 20 Oct 1973 (42),Halifax Town (31),1-2,?,Wrexham AFC (10)
+?,(Tue) 30 Apr 1974 (17),Halifax Town (32),2-1,?,York City (10)
+?,(Wed) 26 Dec 1973 (52),Hereford United (11),0-2,?,AFC Bournemouth (33)
+?,(Wed) 20 Mar 1974 (11),Hereford United (12),0-2,?,Aldershot Town FC (33)
+?,(Sat) 1 Sep 1973 (35),Hereford United (13),1-0,?,Blackburn Rovers (33)
+?,(Sat) 27 Oct 1973 (43),Hereford United (14),3-0,?,Brighton & Hove Albion (33)
+?,(Wed) 24 Oct 1973 (43),Hereford United (15),0-0,?,Bristol Rovers (33)
+?,(Sat) 13 Oct 1973 (41),Hereford United (16),0-0,?,Cambridge United (33)
+?,(Sat) 29 Dec 1973 (52),Hereford United (17),2-3,?,Charlton Athletic (33)
+?,(Sat) 20 Apr 1974 (15),Hereford United (18),2-1,?,Chesterfield FC (33)
+?,(Sat) 19 Jan 1974 (2),Hereford United (19),2-1,?,Grimsby Town (33)
+?,(Wed) 13 Mar 1974 (10),Hereford United (20),3-1,?,Halifax Town (33)
+?,(Sat) 17 Nov 1973 (46),Hereford United (21),0-1,?,Huddersfield Town (11)
+?,(Sat) 10 Nov 1973 (45),Hereford United (22),3-4,?,Oldham Athletic (11)
+?,(Wed) 20 Feb 1974 (7),Hereford United (23),0-1,?,Plymouth Argyle (11)
+?,(Sat) 23 Feb 1974 (7),Hereford United (24),2-1,?,Port Vale FC (11)
+?,(Wed) 3 Apr 1974 (13),Hereford United (25),2-1,?,Rochdale AFC (11)
+?,(Mon) 15 Apr 1974 (15),Hereford United (26),1-1,?,Shrewsbury Town (11)
+?,(Sat) 16 Mar 1974 (10),Hereford United (27),1-2,?,Southend United (11)
+?,(Sat) 30 Mar 1974 (12),Hereford United (28),3-0,?,Southport FC (11)
+?,(Wed) 19 Sep 1973 (38),Hereford United (29),0-2,?,Tranmere Rovers (11)
+?,(Sat) 1 Dec 1973 (48),Hereford United (30),3-1,?,Walsall FC (11)
+?,(Sat) 15 Sep 1973 (37),Hereford United (31),1-1,?,Watford FC (11)
+?,(Sat) 29 Sep 1973 (39),Hereford United (32),2-0,?,Wrexham AFC (11)
+?,(Sat) 6 Apr 1974 (13),Hereford United (33),0-0,?,York City (11)
+?,(Sat) 29 Sep 1973 (39),Huddersfield Town (12),1-1,?,AFC Bournemouth (34)
+?,(Sat) 15 Sep 1973 (37),Huddersfield Town (13),1-0,?,Aldershot Town FC (34)
+?,(Tue) 29 Jan 1974 (4),Huddersfield Town (14),1-0,?,Blackburn Rovers (34)
+?,(Sat) 10 Nov 1973 (45),Huddersfield Town (15),2-2,?,Brighton & Hove Albion (34)
+?,(Sat) 27 Oct 1973 (43),Huddersfield Town (16),1-2,?,Bristol Rovers (34)
+?,(Sat) 1 Sep 1973 (35),Huddersfield Town (17),2-1,?,Cambridge United (34)
+?,(Tue) 2 Apr 1974 (13),Huddersfield Town (18),2-0,?,Charlton Athletic (34)
+?,(Tue) 11 Sep 1973 (37),Huddersfield Town (19),1-0,?,Chesterfield FC (34)
+?,(Wed) 20 Mar 1974 (11),Huddersfield Town (20),1-0,?,Grimsby Town (34)
+?,(Wed) 26 Dec 1973 (52),Huddersfield Town (21),4-0,?,Halifax Town (34)
+?,(Sat) 13 Apr 1974 (14),Huddersfield Town (22),0-0,?,Hereford United (34)
+?,(Sat) 8 Dec 1973 (49),Huddersfield Town (23),2-1,?,Oldham Athletic (12)
+?,(Sat) 13 Oct 1973 (41),Huddersfield Town (24),2-1,?,Plymouth Argyle (12)
+?,(Sat) 29 Dec 1973 (52),Huddersfield Town (25),3-0,?,Port Vale FC (12)
+?,(Sat) 23 Feb 1974 (7),Huddersfield Town (26),5-0,?,Rochdale AFC (12)
+?,(Tue) 13 Nov 1973 (46),Huddersfield Town (27),1-0,?,Shrewsbury Town (12)
+?,(Sat) 30 Mar 1974 (12),Huddersfield Town (28),0-1,?,Southend United (12)
+?,(Sat) 27 Apr 1974 (16),Huddersfield Town (29),3-1,?,Southport FC (12)
+?,(Sat) 16 Mar 1974 (10),Huddersfield Town (30),0-0,?,Tranmere Rovers (12)
+?,(Tue) 9 Oct 1973 (41),Huddersfield Town (31),2-2,?,Walsall FC (12)
+?,(Sat) 19 Jan 1974 (2),Huddersfield Town (32),1-2,?,Watford FC (12)
+?,(Wed) 24 Apr 1974 (16),Huddersfield Town (33),2-1,?,Wrexham AFC (12)
+?,(Tue) 16 Apr 1974 (15),Huddersfield Town (34),0-1,?,York City (12)
+?,(Tue) 19 Mar 1974 (11),Oldham Athletic (13),4-2,?,AFC Bournemouth (35)
+?,(Sat) 23 Feb 1974 (7),Oldham Athletic (14),2-0,?,Aldershot Town FC (35)
+?,(Wed) 26 Dec 1973 (52),Oldham Athletic (15),2-3,?,Blackburn Rovers (35)
+?,(Tue) 2 Oct 1973 (40),Oldham Athletic (16),0-1,?,Brighton & Hove Albion (35)
+?,(Sat) 17 Nov 1973 (46),Oldham Athletic (17),1-1,?,Bristol Rovers (35)
+?,(Tue) 5 Mar 1974 (9),Oldham Athletic (18),6-1,?,Cambridge United (35)
+?,(Tue) 30 Apr 1974 (17),Oldham Athletic (19),0-2,?,Charlton Athletic (35)
+?,(Sat) 20 Oct 1973 (42),Oldham Athletic (20),0-0,?,Chesterfield FC (35)
+?,(Tue) 2 Apr 1974 (13),Oldham Athletic (21),3-1,?,Grimsby Town (35)
+?,(Sat) 19 Jan 1974 (2),Oldham Athletic (22),3-2,?,Halifax Town (35)
+?,(Sat) 23 Mar 1974 (11),Oldham Athletic (23),1-1,?,Hereford United (35)
+?,(Sat) 20 Apr 1974 (15),Oldham Athletic (24),6-0,?,Huddersfield Town (35)
+?,(Sat) 29 Sep 1973 (39),Oldham Athletic (25),1-0,?,Plymouth Argyle (13)
+?,(Sat) 1 Sep 1973 (35),Oldham Athletic (26),1-1,?,Port Vale FC (13)
+?,(Sat) 13 Oct 1973 (41),Oldham Athletic (27),3-1,?,Rochdale AFC (13)
+?,(Sat) 3 Nov 1973 (44),Oldham Athletic (28),3-0,?,Shrewsbury Town (13)
+?,(Tue) 11 Sep 1973 (37),Oldham Athletic (29),2-0,?,Southend United (13)
+?,(Fri) 12 Apr 1974 (14),Oldham Athletic (30),6-0,?,Southport FC (13)
+?,(Sat) 6 Apr 1974 (13),Oldham Athletic (31),2-2,?,Tranmere Rovers (13)
+?,(Sat) 9 Mar 1974 (9),Oldham Athletic (32),2-1,?,Walsall FC (13)
+?,(Sat) 29 Dec 1973 (52),Oldham Athletic (33),0-3,?,Watford FC (13)
+?,(Sat) 15 Sep 1973 (37),Oldham Athletic (34),0-0,?,Wrexham AFC (13)
+?,(Tue) 12 Mar 1974 (10),Oldham Athletic (35),2-1,?,York City (13)
+?,(Mon) 15 Apr 1974 (15),Plymouth Argyle (14),2-0,?,AFC Bournemouth (36)
+?,(Tue) 2 Oct 1973 (40),Plymouth Argyle (15),2-1,?,Aldershot Town FC (36)
+?,(Sat) 30 Mar 1974 (12),Plymouth Argyle (16),2-1,?,Blackburn Rovers (36)
+?,(Sat) 8 Sep 1973 (36),Plymouth Argyle (17),0-1,?,Brighton & Hove Albion (36)
+?,(Sat) 2 Mar 1974 (8),Plymouth Argyle (18),1-0,?,Bristol Rovers (36)
+?,(Sat) 27 Apr 1974 (16),Plymouth Argyle (19),4-1,?,Cambridge United (36)
+?,(Tue) 16 Apr 1974 (15),Plymouth Argyle (20),1-0,?,Charlton Athletic (36)
+?,(Sat) 25 Aug 1973 (34),Plymouth Argyle (21),1-1,?,Chesterfield FC (36)
+?,(Tue) 13 Nov 1973 (46),Plymouth Argyle (22),1-0,?,Grimsby Town (36)
+?,(Sat) 10 Nov 1973 (45),Plymouth Argyle (23),1-1,?,Halifax Town (36)
+?,(Tue) 26 Mar 1974 (12),Plymouth Argyle (24),0-1,?,Hereford United (36)
+?,(Sat) 16 Feb 1974 (6),Plymouth Argyle (25),1-1,?,Huddersfield Town (36)
+?,(Fri) 3 May 1974 (17),Plymouth Argyle (26),0-0,?,Oldham Athletic (36)
+?,(Sat) 27 Oct 1973 (43),Plymouth Argyle (27),2-0,?,Port Vale FC (14)
+?,(Tue) 11 Sep 1973 (37),Plymouth Argyle (28),5-0,?,Rochdale AFC (14)
+?,(Sat) 6 Oct 1973 (40),Plymouth Argyle (29),2-2,?,Shrewsbury Town (14)
+?,(Sat) 2 Feb 1974 (4),Plymouth Argyle (30),1-1,?,Southend United (14)
+?,(Sat) 12 Jan 1974 (1),Plymouth Argyle (31),4-1,?,Southport FC (14)
+?,(Tue) 1 Jan 1974 (0),Plymouth Argyle (32),2-0,?,Tranmere Rovers (14)
+?,(Sat) 22 Sep 1973 (38),Plymouth Argyle (33),2-1,?,Walsall FC (14)
+?,(Sat) 16 Mar 1974 (10),Plymouth Argyle (34),2-0,?,Watford FC (14)
+?,(Sat) 8 Dec 1973 (49),Plymouth Argyle (35),1-2,?,Wrexham AFC (14)
+?,(Mon) 6 May 1974 (18),Plymouth Argyle (36),0-2,?,York City (14)
+?,(Sat) 20 Oct 1973 (42),Port Vale FC (15),0-0,?,AFC Bournemouth (37)
+?,(Sat) 23 Mar 1974 (11),Port Vale FC (16),0-1,?,Aldershot Town FC (37)
+?,(Mon) 12 Nov 1973 (46),Port Vale FC (17),1-2,?,Blackburn Rovers (37)
+?,(Sat) 2 Feb 1974 (4),Port Vale FC (18),2-1,?,Brighton & Hove Albion (37)
+?,(Sun) 17 Feb 1974 (6),Port Vale FC (19),3-1,?,Bristol Rovers (37)
+?,(Mon) 10 Sep 1973 (37),Port Vale FC (20),2-1,?,Cambridge United (37)
+?,(Sat) 27 Apr 1974 (16),Port Vale FC (21),3-1,?,Charlton Athletic (37)
+?,(Sat) 22 Dec 1973 (51),Port Vale FC (22),0-1,?,Chesterfield FC (37)
+?,(Sat) 8 Dec 1973 (49),Port Vale FC (23),1-1,?,Grimsby Town (37)
+?,(Sat) 13 Apr 1974 (14),Port Vale FC (24),1-1,?,Halifax Town (37)
+?,(Sat) 6 Oct 1973 (40),Port Vale FC (25),1-3,?,Hereford United (37)
+?,(Sat) 8 Sep 1973 (36),Port Vale FC (26),4-2,?,Huddersfield Town (37)
+?,(Tue) 1 Jan 1974 (0),Port Vale FC (27),3-0,?,Oldham Athletic (37)
+?,(Sun) 10 Mar 1974 (9),Port Vale FC (28),2-1,?,Plymouth Argyle (37)
+?,(Sat) 3 Nov 1973 (44),Port Vale FC (29),3-1,?,Rochdale AFC (15)
+?,(Sat) 25 Aug 1973 (34),Port Vale FC (30),3-0,?,Shrewsbury Town (15)
+?,(Sat) 22 Sep 1973 (38),Port Vale FC (31),0-0,?,Southend United (15)
+?,(Sat) 2 Mar 1974 (8),Port Vale FC (32),2-1,?,Southport FC (15)
+?,(Sat) 26 Jan 1974 (3),Port Vale FC (33),1-0,?,Tranmere Rovers (15)
+?,(Mon) 25 Mar 1974 (12),Port Vale FC (34),1-1,?,Walsall FC (15)
+?,(Tue) 16 Apr 1974 (15),Port Vale FC (35),1-2,?,Watford FC (15)
+?,(Mon) 1 Oct 1973 (40),Port Vale FC (36),1-0,?,Wrexham AFC (15)
+?,(Sat) 12 Jan 1974 (1),Port Vale FC (37),2-2,?,York City (15)
+?,(Mon) 17 Sep 1973 (38),Rochdale AFC (16),3-3,?,AFC Bournemouth (38)
+?,(Mon) 15 Apr 1974 (15),Rochdale AFC (17),2-2,?,Aldershot Town FC (38)
+?,(Sat) 8 Dec 1973 (49),Rochdale AFC (18),1-2,?,Blackburn Rovers (38)
+?,(Sat) 25 Aug 1973 (34),Rochdale AFC (19),1-1,?,Brighton & Hove Albion (38)
+?,(Mon) 25 Mar 1974 (12),Rochdale AFC (20),0-1,?,Bristol Rovers (38)
+?,(Tue) 5 Feb 1974 (5),Rochdale AFC (21),0-2,?,Cambridge United (38)
+?,(Sat) 16 Mar 1974 (10),Rochdale AFC (22),1-1,?,Charlton Athletic (38)
+?,(Sat) 2 Mar 1974 (8),Rochdale AFC (23),1-2,?,Chesterfield FC (38)
+?,(Sat) 27 Oct 1973 (43),Rochdale AFC (24),1-1,?,Grimsby Town (38)
+?,(Sat) 27 Apr 1974 (16),Rochdale AFC (25),1-1,?,Halifax Town (38)
+?,(Tue) 26 Feb 1974 (8),Rochdale AFC (26),1-1,?,Hereford United (38)
+?,(Sat) 6 Oct 1973 (40),Rochdale AFC (27),1-1,?,Huddersfield Town (38)
+?,(Sat) 16 Feb 1974 (6),Rochdale AFC (28),1-3,?,Oldham Athletic (38)
+?,(Mon) 22 Oct 1973 (43),Rochdale AFC (29),1-3,?,Plymouth Argyle (38)
+?,(Sat) 30 Mar 1974 (12),Rochdale AFC (30),1-1,?,Port Vale FC (38)
+?,(Sat) 12 Jan 1974 (1),Rochdale AFC (31),3-2,?,Shrewsbury Town (16)
+?,(Sat) 22 Dec 1973 (51),Rochdale AFC (32),1-1,?,Southend United (16)
+?,(Sat) 22 Sep 1973 (38),Rochdale AFC (33),2-2,?,Southport FC (16)
+?,(Sat) 8 Sep 1973 (36),Rochdale AFC (34),0-1,?,Tranmere Rovers (16)
+?,(Tue) 1 Jan 1974 (0),Rochdale AFC (35),0-1,?,Walsall FC (16)
+?,(Sat) 10 Nov 1973 (45),Rochdale AFC (36),1-3,?,Watford FC (16)
+?,(Sat) 13 Apr 1974 (14),Rochdale AFC (37),0-0,?,Wrexham AFC (16)
+?,(Sun) 3 Feb 1974 (4),Rochdale AFC (38),1-3,?,York City (16)
+?,(Sat) 13 Oct 1973 (41),Shrewsbury Town (17),1-1,?,AFC Bournemouth (39)
+?,(Sun) 10 Feb 1974 (5),Shrewsbury Town (18),0-0,?,Aldershot Town FC (39)
+?,(Tue) 2 Apr 1974 (13),Shrewsbury Town (19),3-0,?,Blackburn Rovers (39)
+?,(Sat) 16 Mar 1974 (10),Shrewsbury Town (20),1-0,?,Brighton & Hove Albion (39)
+?,(Tue) 18 Sep 1973 (38),Shrewsbury Town (21),0-2,?,Bristol Rovers (39)
+?,(Sat) 29 Dec 1973 (52),Shrewsbury Town (22),2-0,?,Cambridge United (39)
+?,(Tue) 19 Mar 1974 (11),Shrewsbury Town (23),3-3,?,Charlton Athletic (39)
+?,(Sat) 1 Dec 1973 (48),Shrewsbury Town (24),0-1,?,Chesterfield FC (39)
+?,(Sat) 29 Sep 1973 (39),Shrewsbury Town (25),1-1,?,Grimsby Town (39)
+?,(Sat) 5 Jan 1974 (0),Shrewsbury Town (26),0-2,?,Halifax Town (39)
+?,(Tue) 16 Apr 1974 (15),Shrewsbury Town (27),1-1,?,Hereford United (39)
+?,(Sat) 6 Apr 1974 (13),Shrewsbury Town (28),3-0,?,Huddersfield Town (39)
+?,(Sat) 30 Mar 1974 (12),Shrewsbury Town (29),0-2,?,Oldham Athletic (39)
+?,(Sat) 23 Feb 1974 (7),Shrewsbury Town (30),0-0,?,Plymouth Argyle (39)
+?,(Sat) 19 Jan 1974 (2),Shrewsbury Town (31),0-1,?,Port Vale FC (39)
+?,(Sat) 15 Sep 1973 (37),Shrewsbury Town (32),2-0,?,Rochdale AFC (39)
+?,(Sat) 27 Oct 1973 (43),Shrewsbury Town (33),1-2,?,Southend United (17)
+?,(Sat) 10 Nov 1973 (45),Shrewsbury Town (34),2-0,?,Southport FC (17)
+?,(Tue) 23 Oct 1973 (43),Shrewsbury Town (35),1-3,?,Tranmere Rovers (17)
+?,(Sat) 20 Apr 1974 (15),Shrewsbury Town (36),0-0,?,Walsall FC (17)
+?,(Wed) 26 Dec 1973 (52),Shrewsbury Town (37),3-2,?,Watford FC (17)
+?,(Sat) 1 Sep 1973 (35),Shrewsbury Town (38),0-1,?,Wrexham AFC (17)
+?,(Sat) 17 Nov 1973 (46),Shrewsbury Town (39),0-2,?,York City (17)
+?,(Mon) 1 Apr 1974 (13),Southend United (18),2-2,?,AFC Bournemouth (40)
+?,(Sat) 13 Oct 1973 (41),Southend United (19),2-1,?,Aldershot Town FC (40)
+?,(Sat) 19 Jan 1974 (2),Southend United (20),1-1,?,Blackburn Rovers (40)
+?,(Fri) 12 Apr 1974 (14),Southend United (21),0-2,?,Brighton & Hove Albion (40)
+?,(Fri) 19 Apr 1974 (15),Southend United (22),0-0,?,Bristol Rovers (40)
+?,(Fri) 14 Sep 1973 (37),Southend United (23),3-1,?,Cambridge United (40)
+?,(Wed) 26 Dec 1973 (52),Southend United (24),2-0,?,Charlton Athletic (40)
+?,(Fri) 5 Apr 1974 (13),Southend United (25),1-3,?,Chesterfield FC (40)
+?,(Mon) 22 Apr 1974 (16),Southend United (26),4-1,?,Grimsby Town (40)
+?,(Sat) 29 Dec 1973 (52),Southend United (27),1-2,?,Halifax Town (40)
+?,(Fri) 19 Oct 1973 (42),Southend United (28),2-1,?,Hereford United (40)
+?,(Sat) 3 Nov 1973 (44),Southend United (29),5-2,?,Huddersfield Town (40)
+?,(Mon) 22 Oct 1973 (43),Southend United (30),2-2,?,Oldham Athletic (40)
+?,(Mon) 18 Mar 1974 (11),Southend United (31),2-0,?,Plymouth Argyle (40)
+?,(Sat) 9 Feb 1974 (5),Southend United (32),1-0,?,Port Vale FC (40)
+?,(Sat) 29 Sep 1973 (39),Southend United (33),1-2,?,Rochdale AFC (40)
+?,(Sun) 10 Mar 1974 (9),Southend United (34),2-0,?,Shrewsbury Town (40)
+?,(Mon) 17 Sep 1973 (38),Southend United (35),0-1,?,Southport FC (18)
+?,(Sat) 1 Dec 1973 (48),Southend United (36),1-1,?,Tranmere Rovers (18)
+?,(Sat) 17 Nov 1973 (46),Southend United (37),2-1,?,Walsall FC (18)
+?,(Fri) 31 Aug 1973 (35),Southend United (38),2-3,?,Watford FC (18)
+?,(Sun) 24 Feb 1974 (7),Southend United (39),1-1,?,Wrexham AFC (18)
+?,(Sun) 24 Mar 1974 (11),Southend United (40),3-3,?,York City (18)
+?,(Sun) 24 Feb 1974 (7),Southport FC (19),1-0,?,AFC Bournemouth (41)
+?,(Sat) 1 Sep 1973 (35),Southport FC (20),3-0,?,Aldershot Town FC (41)
+?,(Mon) 8 Apr 1974 (14),Southport FC (21),2-2,?,Blackburn Rovers (41)
+?,(Mon) 10 Sep 1973 (37),Southport FC (22),1-1,?,Brighton & Hove Albion (41)
+?,(Fri) 5 Apr 1974 (13),Southport FC (23),1-0,?,Bristol Rovers (41)
+?,(Sat) 19 Jan 1974 (2),Southport FC (24),0-0,?,Cambridge United (41)
+?,(Sat) 29 Sep 1973 (39),Southport FC (25),1-2,?,Charlton Athletic (41)
+?,(Sat) 9 Mar 1974 (9),Southport FC (26),1-1,?,Chesterfield FC (41)
+?,(Fri) 12 Oct 1973 (41),Southport FC (27),0-1,?,Grimsby Town (41)
+?,(Mon) 1 Apr 1974 (13),Southport FC (28),1-1,?,Halifax Town (41)
+?,(Fri) 2 Nov 1973 (44),Southport FC (29),1-1,?,Hereford United (41)
+?,(Sat) 1 Dec 1973 (48),Southport FC (30),0-0,?,Huddersfield Town (41)
+?,(Mon) 15 Apr 1974 (15),Southport FC (31),0-2,?,Oldham Athletic (41)
+?,(Sat) 15 Sep 1973 (37),Southport FC (32),1-1,?,Plymouth Argyle (41)
+?,(Wed) 26 Dec 1973 (52),Southport FC (33),0-1,?,Port Vale FC (41)
+?,(Sun) 10 Mar 1974 (9),Southport FC (34),0-0,?,Rochdale AFC (41)
+?,(Sat) 23 Mar 1974 (11),Southport FC (35),1-0,?,Shrewsbury Town (41)
+?,(Mon) 1 Oct 1973 (40),Southport FC (36),0-0,?,Southend United (41)
+?,(Sat) 17 Nov 1973 (46),Southport FC (37),2-2,?,Tranmere Rovers (19)
+?,(Fri) 19 Oct 1973 (42),Southport FC (38),1-1,?,Walsall FC (19)
+?,(Sat) 5 Jan 1974 (0),Southport FC (39),1-1,?,Watford FC (19)
+?,(Sat) 29 Dec 1973 (52),Southport FC (40),0-2,?,Wrexham AFC (19)
+?,(Fri) 19 Apr 1974 (15),Southport FC (41),1-1,?,York City (19)
+?,(Sun) 10 Feb 1974 (5),Tranmere Rovers (20),1-1,?,AFC Bournemouth (42)
+?,(Sun) 20 Jan 1974 (2),Tranmere Rovers (21),0-1,?,Aldershot Town FC (42)
+?,(Fri) 12 Oct 1973 (41),Tranmere Rovers (22),1-1,?,Blackburn Rovers (42)
+?,(Sat) 8 Dec 1973 (49),Tranmere Rovers (23),4-1,?,Brighton & Hove Albion (42)
+?,(Fri) 12 Apr 1974 (14),Tranmere Rovers (24),0-0,?,Bristol Rovers (42)
+?,(Mon) 22 Apr 1974 (16),Tranmere Rovers (25),5-2,?,Cambridge United (42)
+?,(Sun) 24 Feb 1974 (7),Tranmere Rovers (26),2-0,?,Charlton Athletic (42)
+?,(Sat) 23 Mar 1974 (11),Tranmere Rovers (27),1-2,?,Chesterfield FC (42)
+?,(Fri) 14 Sep 1973 (37),Tranmere Rovers (28),0-0,?,Grimsby Town (42)
+?,(Fri) 28 Sep 1973 (39),Tranmere Rovers (29),0-1,?,Halifax Town (42)
+?,(Mon) 8 Oct 1973 (41),Tranmere Rovers (30),0-0,?,Hereford United (42)
+?,(Fri) 19 Oct 1973 (42),Tranmere Rovers (31),1-1,?,Huddersfield Town (42)
+?,(Mon) 4 Feb 1974 (5),Tranmere Rovers (32),0-2,?,Oldham Athletic (42)
+?,(Sat) 1 Sep 1973 (35),Tranmere Rovers (33),2-0,?,Plymouth Argyle (42)
+?,(Mon) 1 Apr 1974 (13),Tranmere Rovers (34),3-0,?,Port Vale FC (42)
+?,(Sat) 29 Dec 1973 (52),Tranmere Rovers (35),1-1,?,Rochdale AFC (42)
+?,(Mon) 10 Sep 1973 (37),Tranmere Rovers (36),1-0,?,Shrewsbury Town (42)
+?,(Fri) 26 Apr 1974 (16),Tranmere Rovers (37),2-0,?,Southend United (42)
+?,(Sat) 13 Apr 1974 (14),Tranmere Rovers (38),3-1,?,Southport FC (42)
+?,(Fri) 2 Nov 1973 (44),Tranmere Rovers (39),3-0,?,Walsall FC (20)
+?,(Mon) 8 Apr 1974 (14),Tranmere Rovers (40),1-0,?,Watford FC (20)
+?,(Wed) 26 Dec 1973 (52),Tranmere Rovers (41),0-1,?,Wrexham AFC (20)
+?,(Sat) 9 Mar 1974 (9),Tranmere Rovers (42),0-0,?,York City (20)
+?,(Sat) 15 Sep 1973 (37),Walsall FC (21),1-2,?,AFC Bournemouth (43)
+?,(Sat) 29 Dec 1973 (52),Walsall FC (22),3-2,?,Aldershot Town FC (43)
+?,(Sat) 29 Sep 1973 (39),Walsall FC (23),2-0,?,Blackburn Rovers (43)
+?,(Tue) 13 Nov 1973 (46),Walsall FC (24),0-1,?,Brighton & Hove Albion (43)
+?,(Sat) 10 Nov 1973 (45),Walsall FC (25),0-0,?,Bristol Rovers (43)
+?,(Wed) 26 Dec 1973 (52),Walsall FC (26),3-0,?,Cambridge United (43)
+?,(Sat) 13 Oct 1973 (41),Walsall FC (27),4-0,?,Charlton Athletic (43)
+?,(Mon) 15 Apr 1974 (15),Walsall FC (28),2-0,?,Chesterfield FC (43)
+?,(Sat) 23 Feb 1974 (7),Walsall FC (29),3-1,?,Grimsby Town (43)
+?,(Tue) 19 Mar 1974 (11),Walsall FC (30),2-2,?,Halifax Town (43)
+?,(Sat) 27 Apr 1974 (16),Walsall FC (31),3-1,?,Hereford United (43)
+?,(Mon) 17 Sep 1973 (38),Walsall FC (32),3-0,?,Huddersfield Town (43)
+?,(Sat) 27 Oct 1973 (43),Walsall FC (33),1-1,?,Oldham Athletic (43)
+?,(Sun) 10 Feb 1974 (5),Walsall FC (34),0-4,?,Plymouth Argyle (43)
+?,(Tue) 30 Apr 1974 (17),Walsall FC (35),0-0,?,Port Vale FC (43)
+?,(Sat) 1 Sep 1973 (35),Walsall FC (36),0-0,?,Rochdale AFC (43)
+?,(Sat) 8 Dec 1973 (49),Walsall FC (37),2-0,?,Shrewsbury Town (43)
+?,(Sat) 13 Apr 1974 (14),Walsall FC (38),1-2,?,Southend United (43)
+?,(Sun) 17 Mar 1974 (10),Walsall FC (39),2-0,?,Southport FC (43)
+?,(Sat) 30 Mar 1974 (12),Walsall FC (40),0-1,?,Tranmere Rovers (43)
+?,(Tue) 2 Apr 1974 (13),Walsall FC (41),2-2,?,Watford FC (21)
+?,(Sun) 20 Jan 1974 (2),Walsall FC (42),3-0,?,Wrexham AFC (21)
+?,(Tue) 16 Oct 1973 (42),Walsall FC (43),0-0,?,York City (21)
+?,(Sat) 9 Mar 1974 (9),Watford FC (22),1-1,?,AFC Bournemouth (44)
+?,(Sat) 3 Nov 1973 (44),Watford FC (23),2-1,?,Aldershot Town FC (44)
+?,(Sat) 13 Apr 1974 (14),Watford FC (24),0-0,?,Blackburn Rovers (44)
+?,(Sat) 22 Dec 1973 (51),Watford FC (25),1-0,?,Brighton & Hove Albion (44)
+?,(Sat) 6 Oct 1973 (40),Watford FC (26),0-0,?,Bristol Rovers (44)
+?,(Wed) 3 Oct 1973 (40),Watford FC (27),3-0,?,Cambridge United (44)
+?,(Sat) 8 Dec 1973 (49),Watford FC (28),1-3,?,Charlton Athletic (44)
+?,(Sat) 16 Feb 1974 (6),Watford FC (29),2-1,?,Chesterfield FC (44)
+?,(Sat) 27 Apr 1974 (16),Watford FC (30),1-2,?,Grimsby Town (44)
+?,(Mon) 12 Nov 1973 (46),Watford FC (31),0-0,?,Halifax Town (44)
+?,(Sat) 12 Jan 1974 (1),Watford FC (32),2-1,?,Hereford United (44)
+?,(Sat) 25 Aug 1973 (34),Watford FC (33),1-1,?,Huddersfield Town (44)
+?,(Sat) 8 Sep 1973 (36),Watford FC (34),0-1,?,Oldham Athletic (44)
+?,(Sat) 20 Oct 1973 (42),Watford FC (35),0-3,?,Plymouth Argyle (44)
+?,(Wed) 24 Apr 1974 (16),Watford FC (36),2-1,?,Port Vale FC (44)
+?,(Sat) 23 Mar 1974 (11),Watford FC (37),4-0,?,Rochdale AFC (44)
+?,(Sat) 2 Mar 1974 (8),Watford FC (38),1-0,?,Shrewsbury Town (44)
+?,(Tue) 1 Jan 1974 (0),Watford FC (39),1-0,?,Southend United (44)
+?,(Wed) 27 Mar 1974 (12),Watford FC (40),4-0,?,Southport FC (44)
+?,(Sat) 2 Feb 1974 (4),Watford FC (41),4-2,?,Tranmere Rovers (44)
+?,(Sat) 26 Jan 1974 (3),Watford FC (42),1-3,?,Walsall FC (44)
+?,(Wed) 12 Sep 1973 (37),Watford FC (43),2-0,?,Wrexham AFC (22)
+?,(Sat) 22 Sep 1973 (38),Watford FC (44),1-1,?,York City (22)
+?,(Sat) 1 Dec 1973 (48),Wrexham AFC (23),0-1,?,AFC Bournemouth (45)
+?,(Sat) 6 Apr 1974 (13),Wrexham AFC (24),0-0,?,Aldershot Town FC (45)
+?,(Sat) 27 Oct 1973 (43),Wrexham AFC (25),2-2,?,Blackburn Rovers (45)
+?,(Mon) 25 Mar 1974 (12),Wrexham AFC (26),1-0,?,Brighton & Hove Albion (45)
+?,(Sat) 2 Feb 1974 (4),Wrexham AFC (27),1-0,?,Bristol Rovers (45)
+?,(Fri) 12 Apr 1974 (14),Wrexham AFC (28),2-1,?,Cambridge United (45)
+?,(Sat) 30 Mar 1974 (12),Wrexham AFC (29),4-0,?,Charlton Athletic (45)
+?,(Mon) 4 Mar 1974 (9),Wrexham AFC (30),2-1,?,Chesterfield FC (45)
+?,(Sat) 10 Nov 1973 (45),Wrexham AFC (31),1-1,?,Grimsby Town (45)
+?,(Sat) 16 Mar 1974 (10),Wrexham AFC (32),2-1,?,Halifax Town (45)
+?,(Sat) 22 Dec 1973 (51),Wrexham AFC (33),5-0,?,Hereford United (45)
+?,(Sat) 22 Sep 1973 (38),Wrexham AFC (34),0-0,?,Huddersfield Town (45)
+?,(Sat) 12 Jan 1974 (1),Wrexham AFC (35),1-2,?,Oldham Athletic (45)
+?,(Sat) 20 Apr 1974 (15),Wrexham AFC (36),5-2,?,Plymouth Argyle (45)
+?,(Mon) 17 Sep 1973 (38),Wrexham AFC (37),0-0,?,Port Vale FC (45)
+?,(Sat) 17 Nov 1973 (46),Wrexham AFC (38),3-0,?,Rochdale AFC (45)
+?,(Tue) 1 Jan 1974 (0),Wrexham AFC (39),3-1,?,Shrewsbury Town (45)
+?,(Sat) 6 Oct 1973 (40),Wrexham AFC (40),5-1,?,Southend United (45)
+?,(Sat) 8 Sep 1973 (36),Wrexham AFC (41),3-2,?,Southport FC (45)
+?,(Sat) 2 Mar 1974 (8),Wrexham AFC (42),0-0,?,Tranmere Rovers (45)
+?,(Sat) 25 Aug 1973 (34),Wrexham AFC (43),2-0,?,Walsall FC (45)
+?,(Mon) 22 Oct 1973 (43),Wrexham AFC (44),1-0,?,Watford FC (45)
+?,(Wed) 20 Feb 1974 (7),Wrexham AFC (45),1-0,?,York City (23)
+?,(Wed) 6 Mar 1974 (9),York City (24),4-1,?,AFC Bournemouth (46)
+?,(Sat) 29 Sep 1973 (39),York City (25),3-1,?,Aldershot Town FC (46)
+?,(Sat) 29 Dec 1973 (52),York City (26),1-0,?,Blackburn Rovers (46)
+?,(Sat) 30 Mar 1974 (12),York City (27),3-0,?,Brighton & Hove Albion (46)
+?,(Sat) 16 Mar 1974 (10),York City (28),2-1,?,Bristol Rovers (46)
+?,(Sun) 24 Feb 1974 (7),York City (29),2-0,?,Cambridge United (46)
+?,(Sat) 19 Jan 1974 (2),York City (30),0-1,?,Charlton Athletic (46)
+?,(Mon) 1 Oct 1973 (40),York City (31),0-0,?,Chesterfield FC (46)
+?,(Wed) 26 Dec 1973 (52),York City (32),1-1,?,Grimsby Town (46)
+?,(Sat) 1 Sep 1973 (35),York City (33),1-1,?,Halifax Town (46)
+?,(Mon) 12 Nov 1973 (46),York City (34),0-0,?,Hereford United (46)
+?,(Fri) 12 Apr 1974 (14),York City (35),2-1,?,Huddersfield Town (46)
+?,(Sat) 27 Apr 1974 (16),York City (36),1-1,?,Oldham Athletic (46)
+?,(Wed) 3 Apr 1974 (13),York City (37),1-1,?,Plymouth Argyle (46)
+?,(Sat) 15 Sep 1973 (37),York City (38),3-1,?,Port Vale FC (46)
+?,(Sat) 5 Jan 1974 (0),York City (39),2-1,?,Rochdale AFC (46)
+?,(Sat) 13 Apr 1974 (14),York City (40),0-1,?,Shrewsbury Town (46)
+?,(Sat) 10 Nov 1973 (45),York City (41),1-0,?,Southend United (46)
+?,(Sat) 8 Dec 1973 (49),York City (42),4-0,?,Southport FC (46)
+?,(Sat) 27 Oct 1973 (43),York City (43),2-0,?,Tranmere Rovers (46)
+?,(Mon) 10 Sep 1973 (37),York City (44),1-1,?,Walsall FC (46)
+?,(Sun) 10 Feb 1974 (5),York City (45),2-2,?,Watford FC (46)
+?,(Fri) 12 Oct 1973 (41),York City (46),1-0,?,Wrexham AFC (46)

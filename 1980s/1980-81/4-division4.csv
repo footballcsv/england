@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aldershot,AFC Bournemouth,0-0,-
--,-,Bradford City,AFC Bournemouth,1-1,-
--,-,Bury,AFC Bournemouth,3-0,-
--,-,Crewe Alexandra,AFC Bournemouth,0-2,-
--,-,Darlington,AFC Bournemouth,1-2,-
--,-,Doncaster Rovers,AFC Bournemouth,2-1,-
--,-,Halifax Town,AFC Bournemouth,1-2,-
--,-,Hartlepool United,AFC Bournemouth,1-0,-
--,-,Hereford United,AFC Bournemouth,1-0,-
--,-,Lincoln City,AFC Bournemouth,2-0,-
--,-,Mansfield Town,AFC Bournemouth,1-1,-
--,-,Northampton Town,AFC Bournemouth,0-1,-
--,-,Peterborough United,AFC Bournemouth,1-0,-
--,-,Port Vale,AFC Bournemouth,0-2,-
--,-,Rochdale,AFC Bournemouth,0-0,-
--,-,Scunthorpe United,AFC Bournemouth,1-1,-
--,-,Southend United,AFC Bournemouth,2-1,-
--,-,Stockport County,AFC Bournemouth,2-1,-
--,-,Torquay United,AFC Bournemouth,2-0,-
--,-,Tranmere Rovers,AFC Bournemouth,0-1,-
--,-,Wigan Athletic,AFC Bournemouth,0-1,-
--,-,Wimbledon,AFC Bournemouth,2-0,-
--,-,York City,AFC Bournemouth,4-0,-
--,-,AFC Bournemouth,Aldershot,0-2,-
--,-,Bradford City,Aldershot,1-0,-
--,-,Bury,Aldershot,0-0,-
--,-,Crewe Alexandra,Aldershot,0-0,-
--,-,Darlington,Aldershot,1-2,-
--,-,Doncaster Rovers,Aldershot,1-0,-
--,-,Halifax Town,Aldershot,1-0,-
--,-,Hartlepool United,Aldershot,1-0,-
--,-,Hereford United,Aldershot,0-0,-
--,-,Lincoln City,Aldershot,0-1,-
--,-,Mansfield Town,Aldershot,1-2,-
--,-,Northampton Town,Aldershot,2-0,-
--,-,Peterborough United,Aldershot,0-0,-
--,-,Port Vale,Aldershot,0-1,-
--,-,Rochdale,Aldershot,2-0,-
--,-,Scunthorpe United,Aldershot,2-2,-
--,-,Southend United,Aldershot,3-0,-
--,-,Stockport County,Aldershot,1-0,-
--,-,Torquay United,Aldershot,2-0,-
--,-,Tranmere Rovers,Aldershot,3-1,-
--,-,Wigan Athletic,Aldershot,1-0,-
--,-,Wimbledon,Aldershot,4-0,-
--,-,York City,Aldershot,4-1,-
--,-,AFC Bournemouth,Bradford City,4-0,-
--,-,Aldershot,Bradford City,1-1,-
--,-,Bury,Bradford City,2-2,-
--,-,Crewe Alexandra,Bradford City,1-0,-
--,-,Darlington,Bradford City,2-1,-
--,-,Doncaster Rovers,Bradford City,2-0,-
--,-,Halifax Town,Bradford City,2-0,-
--,-,Hartlepool United,Bradford City,2-2,-
--,-,Hereford United,Bradford City,4-0,-
--,-,Lincoln City,Bradford City,1-1,-
--,-,Mansfield Town,Bradford City,1-0,-
--,-,Northampton Town,Bradford City,0-1,-
--,-,Peterborough United,Bradford City,2-2,-
--,-,Port Vale,Bradford City,2-1,-
--,-,Rochdale,Bradford City,0-2,-
--,-,Scunthorpe United,Bradford City,1-0,-
--,-,Southend United,Bradford City,3-1,-
--,-,Stockport County,Bradford City,1-2,-
--,-,Torquay United,Bradford City,2-0,-
--,-,Tranmere Rovers,Bradford City,1-1,-
--,-,Wigan Athletic,Bradford City,0-1,-
--,-,Wimbledon,Bradford City,2-2,-
--,-,York City,Bradford City,0-3,-
--,-,AFC Bournemouth,Bury,2-2,-
--,-,Aldershot,Bury,1-0,-
--,-,Bradford City,Bury,0-2,-
--,-,Crewe Alexandra,Bury,2-2,-
--,-,Darlington,Bury,2-1,-
--,-,Doncaster Rovers,Bury,1-0,-
--,-,Halifax Town,Bury,4-2,-
--,-,Hartlepool United,Bury,1-2,-
--,-,Hereford United,Bury,0-1,-
--,-,Lincoln City,Bury,2-1,-
--,-,Mansfield Town,Bury,2-0,-
--,-,Northampton Town,Bury,5-3,-
--,-,Peterborough United,Bury,2-0,-
--,-,Port Vale,Bury,1-3,-
--,-,Rochdale,Bury,2-1,-
--,-,Scunthorpe United,Bury,2-2,-
--,-,Southend United,Bury,1-0,-
--,-,Stockport County,Bury,1-2,-
--,-,Torquay United,Bury,3-1,-
--,-,Tranmere Rovers,Bury,3-1,-
--,-,Wigan Athletic,Bury,2-1,-
--,-,Wimbledon,Bury,2-4,-
--,-,York City,Bury,0-1,-
--,-,AFC Bournemouth,Crewe Alexandra,0-0,-
--,-,Aldershot,Crewe Alexandra,2-0,-
--,-,Bradford City,Crewe Alexandra,2-2,-
--,-,Bury,Crewe Alexandra,1-3,-
--,-,Darlington,Crewe Alexandra,2-1,-
--,-,Doncaster Rovers,Crewe Alexandra,1-1,-
--,-,Halifax Town,Crewe Alexandra,1-0,-
--,-,Hartlepool United,Crewe Alexandra,6-2,-
--,-,Hereford United,Crewe Alexandra,0-0,-
--,-,Lincoln City,Crewe Alexandra,2-1,-
--,-,Mansfield Town,Crewe Alexandra,4-1,-
--,-,Northampton Town,Crewe Alexandra,4-1,-
--,-,Peterborough United,Crewe Alexandra,2-1,-
--,-,Port Vale,Crewe Alexandra,2-2,-
--,-,Rochdale,Crewe Alexandra,2-0,-
--,-,Scunthorpe United,Crewe Alexandra,1-1,-
--,-,Southend United,Crewe Alexandra,3-0,-
--,-,Stockport County,Crewe Alexandra,1-3,-
--,-,Torquay United,Crewe Alexandra,1-0,-
--,-,Tranmere Rovers,Crewe Alexandra,0-1,-
--,-,Wigan Athletic,Crewe Alexandra,0-0,-
--,-,Wimbledon,Crewe Alexandra,2-0,-
--,-,York City,Crewe Alexandra,2-0,-
--,-,AFC Bournemouth,Darlington,3-3,-
--,-,Aldershot,Darlington,2-1,-
--,-,Bradford City,Darlington,3-0,-
--,-,Bury,Darlington,1-2,-
--,-,Crewe Alexandra,Darlington,1-1,-
--,-,Doncaster Rovers,Darlington,2-0,-
--,-,Halifax Town,Darlington,1-2,-
--,-,Hartlepool United,Darlington,2-0,-
--,-,Hereford United,Darlington,0-1,-
--,-,Lincoln City,Darlington,1-0,-
--,-,Mansfield Town,Darlington,1-0,-
--,-,Northampton Town,Darlington,2-2,-
--,-,Peterborough United,Darlington,1-0,-
--,-,Port Vale,Darlington,4-2,-
--,-,Rochdale,Darlington,0-0,-
--,-,Scunthorpe United,Darlington,3-0,-
--,-,Southend United,Darlington,1-0,-
--,-,Stockport County,Darlington,0-1,-
--,-,Torquay United,Darlington,0-2,-
--,-,Tranmere Rovers,Darlington,3-1,-
--,-,Wigan Athletic,Darlington,3-1,-
--,-,Wimbledon,Darlington,1-1,-
--,-,York City,Darlington,1-2,-
--,-,AFC Bournemouth,Doncaster Rovers,1-2,-
--,-,Aldershot,Doncaster Rovers,1-0,-
--,-,Bradford City,Doncaster Rovers,1-1,-
--,-,Bury,Doncaster Rovers,2-0,-
--,-,Crewe Alexandra,Doncaster Rovers,0-0,-
--,-,Darlington,Doncaster Rovers,5-0,-
--,-,Halifax Town,Doncaster Rovers,0-3,-
--,-,Hartlepool United,Doncaster Rovers,1-0,-
--,-,Hereford United,Doncaster Rovers,1-3,-
--,-,Lincoln City,Doncaster Rovers,1-1,-
--,-,Mansfield Town,Doncaster Rovers,1-1,-
--,-,Northampton Town,Doncaster Rovers,0-2,-
--,-,Peterborough United,Doncaster Rovers,0-1,-
--,-,Port Vale,Doncaster Rovers,3-0,-
--,-,Rochdale,Doncaster Rovers,2-2,-
--,-,Scunthorpe United,Doncaster Rovers,1-1,-
--,-,Southend United,Doncaster Rovers,0-0,-
--,-,Stockport County,Doncaster Rovers,2-1,-
--,-,Torquay United,Doncaster Rovers,2-3,-
--,-,Tranmere Rovers,Doncaster Rovers,1-1,-
--,-,Wigan Athletic,Doncaster Rovers,3-0,-
--,-,Wimbledon,Doncaster Rovers,1-0,-
--,-,York City,Doncaster Rovers,0-1,-
--,-,AFC Bournemouth,Halifax Town,2-1,-
--,-,Aldershot,Halifax Town,2-1,-
--,-,Bradford City,Halifax Town,0-0,-
--,-,Bury,Halifax Town,0-0,-
--,-,Crewe Alexandra,Halifax Town,2-1,-
--,-,Darlington,Halifax Town,3-1,-
--,-,Doncaster Rovers,Halifax Town,0-0,-
--,-,Hartlepool United,Halifax Town,3-0,-
--,-,Hereford United,Halifax Town,0-1,-
--,-,Lincoln City,Halifax Town,3-0,-
--,-,Mansfield Town,Halifax Town,0-1,-
--,-,Northampton Town,Halifax Town,2-1,-
--,-,Peterborough United,Halifax Town,2-2,-
--,-,Port Vale,Halifax Town,0-0,-
--,-,Rochdale,Halifax Town,1-1,-
--,-,Scunthorpe United,Halifax Town,2-2,-
--,-,Southend United,Halifax Town,5-1,-
--,-,Stockport County,Halifax Town,1-1,-
--,-,Torquay United,Halifax Town,1-0,-
--,-,Tranmere Rovers,Halifax Town,2-0,-
--,-,Wigan Athletic,Halifax Town,4-1,-
--,-,Wimbledon,Halifax Town,3-0,-
--,-,York City,Halifax Town,1-1,-
--,-,AFC Bournemouth,Hartlepool United,1-0,-
--,-,Aldershot,Hartlepool United,2-1,-
--,-,Bradford City,Hartlepool United,2-0,-
--,-,Bury,Hartlepool United,0-0,-
--,-,Crewe Alexandra,Hartlepool United,2-0,-
--,-,Darlington,Hartlepool United,3-0,-
--,-,Doncaster Rovers,Hartlepool United,1-2,-
--,-,Halifax Town,Hartlepool United,1-2,-
--,-,Hereford United,Hartlepool United,3-0,-
--,-,Lincoln City,Hartlepool United,2-0,-
--,-,Mansfield Town,Hartlepool United,0-1,-
--,-,Northampton Town,Hartlepool United,3-1,-
--,-,Peterborough United,Hartlepool United,1-1,-
--,-,Port Vale,Hartlepool United,1-1,-
--,-,Rochdale,Hartlepool United,1-1,-
--,-,Scunthorpe United,Hartlepool United,3-3,-
--,-,Southend United,Hartlepool United,4-0,-
--,-,Stockport County,Hartlepool United,0-2,-
--,-,Torquay United,Hartlepool United,2-1,-
--,-,Tranmere Rovers,Hartlepool United,2-2,-
--,-,Wigan Athletic,Hartlepool United,0-3,-
--,-,Wimbledon,Hartlepool United,5-0,-
--,-,York City,Hartlepool United,0-1,-
--,-,AFC Bournemouth,Hereford United,1-0,-
--,-,Aldershot,Hereford United,4-0,-
--,-,Bradford City,Hereford United,0-1,-
--,-,Bury,Hereford United,2-1,-
--,-,Crewe Alexandra,Hereford United,5-0,-
--,-,Darlington,Hereford United,2-1,-
--,-,Doncaster Rovers,Hereford United,5-1,-
--,-,Halifax Town,Hereford United,0-0,-
--,-,Hartlepool United,Hereford United,2-0,-
--,-,Lincoln City,Hereford United,1-0,-
--,-,Mansfield Town,Hereford United,4-0,-
--,-,Northampton Town,Hereford United,0-0,-
--,-,Peterborough United,Hereford United,3-0,-
--,-,Port Vale,Hereford United,4-0,-
--,-,Rochdale,Hereford United,0-0,-
--,-,Scunthorpe United,Hereford United,3-1,-
--,-,Southend United,Hereford United,2-0,-
--,-,Stockport County,Hereford United,0-0,-
--,-,Torquay United,Hereford United,0-1,-
--,-,Tranmere Rovers,Hereford United,2-1,-
--,-,Wigan Athletic,Hereford United,1-0,-
--,-,Wimbledon,Hereford United,0-0,-
--,-,York City,Hereford United,1-2,-
--,-,AFC Bournemouth,Lincoln City,0-1,-
--,-,Aldershot,Lincoln City,0-0,-
--,-,Bradford City,Lincoln City,1-2,-
--,-,Bury,Lincoln City,1-1,-
--,-,Crewe Alexandra,Lincoln City,0-3,-
--,-,Darlington,Lincoln City,0-0,-
--,-,Doncaster Rovers,Lincoln City,0-1,-
--,-,Halifax Town,Lincoln City,1-3,-
--,-,Hartlepool United,Lincoln City,2-0,-
--,-,Hereford United,Lincoln City,0-2,-
--,-,Mansfield Town,Lincoln City,2-0,-
--,-,Northampton Town,Lincoln City,1-1,-
--,-,Peterborough United,Lincoln City,1-0,-
--,-,Port Vale,Lincoln City,0-1,-
--,-,Rochdale,Lincoln City,1-0,-
--,-,Scunthorpe United,Lincoln City,2-2,-
--,-,Southend United,Lincoln City,0-0,-
--,-,Stockport County,Lincoln City,0-0,-
--,-,Torquay United,Lincoln City,1-2,-
--,-,Tranmere Rovers,Lincoln City,0-0,-
--,-,Wigan Athletic,Lincoln City,0-2,-
--,-,Wimbledon,Lincoln City,0-1,-
--,-,York City,Lincoln City,1-0,-
--,-,AFC Bournemouth,Mansfield Town,0-1,-
--,-,Aldershot,Mansfield Town,1-0,-
--,-,Bradford City,Mansfield Town,0-2,-
--,-,Bury,Mansfield Town,4-1,-
--,-,Crewe Alexandra,Mansfield Town,1-2,-
--,-,Darlington,Mansfield Town,2-2,-
--,-,Doncaster Rovers,Mansfield Town,2-1,-
--,-,Halifax Town,Mansfield Town,0-2,-
--,-,Hartlepool United,Mansfield Town,0-1,-
--,-,Hereford United,Mansfield Town,2-1,-
--,-,Lincoln City,Mansfield Town,1-1,-
--,-,Northampton Town,Mansfield Town,0-1,-
--,-,Peterborough United,Mansfield Town,1-0,-
--,-,Port Vale,Mansfield Town,0-0,-
--,-,Rochdale,Mansfield Town,1-4,-
--,-,Scunthorpe United,Mansfield Town,2-0,-
--,-,Southend United,Mansfield Town,2-0,-
--,-,Stockport County,Mansfield Town,2-1,-
--,-,Torquay United,Mansfield Town,1-1,-
--,-,Tranmere Rovers,Mansfield Town,1-0,-
--,-,Wigan Athletic,Mansfield Town,2-0,-
--,-,Wimbledon,Mansfield Town,2-1,-
--,-,York City,Mansfield Town,2-0,-
--,-,AFC Bournemouth,Northampton Town,0-0,-
--,-,Aldershot,Northampton Town,0-0,-
--,-,Bradford City,Northampton Town,3-1,-
--,-,Bury,Northampton Town,1-2,-
--,-,Crewe Alexandra,Northampton Town,3-1,-
--,-,Darlington,Northampton Town,1-0,-
--,-,Doncaster Rovers,Northampton Town,1-1,-
--,-,Halifax Town,Northampton Town,0-1,-
--,-,Hartlepool United,Northampton Town,2-3,-
--,-,Hereford United,Northampton Town,4-1,-
--,-,Lincoln City,Northampton Town,8-0,-
--,-,Mansfield Town,Northampton Town,2-0,-
--,-,Peterborough United,Northampton Town,3-0,-
--,-,Port Vale,Northampton Town,1-1,-
--,-,Rochdale,Northampton Town,0-1,-
--,-,Scunthorpe United,Northampton Town,0-2,-
--,-,Southend United,Northampton Town,0-0,-
--,-,Stockport County,Northampton Town,1-2,-
--,-,Torquay United,Northampton Town,3-3,-
--,-,Tranmere Rovers,Northampton Town,3-2,-
--,-,Wigan Athletic,Northampton Town,3-0,-
--,-,Wimbledon,Northampton Town,1-0,-
--,-,York City,Northampton Town,1-2,-
--,-,AFC Bournemouth,Peterborough United,4-1,-
--,-,Aldershot,Peterborough United,0-0,-
--,-,Bradford City,Peterborough United,1-1,-
--,-,Bury,Peterborough United,1-1,-
--,-,Crewe Alexandra,Peterborough United,1-0,-
--,-,Darlington,Peterborough United,2-0,-
--,-,Doncaster Rovers,Peterborough United,0-4,-
--,-,Halifax Town,Peterborough United,2-3,-
--,-,Hartlepool United,Peterborough United,1-1,-
--,-,Hereford United,Peterborough United,1-1,-
--,-,Lincoln City,Peterborough United,1-1,-
--,-,Mansfield Town,Peterborough United,2-1,-
--,-,Northampton Town,Peterborough United,2-2,-
--,-,Port Vale,Peterborough United,1-1,-
--,-,Rochdale,Peterborough United,2-3,-
--,-,Scunthorpe United,Peterborough United,1-1,-
--,-,Southend United,Peterborough United,1-0,-
--,-,Stockport County,Peterborough United,3-4,-
--,-,Torquay United,Peterborough United,2-0,-
--,-,Tranmere Rovers,Peterborough United,1-2,-
--,-,Wigan Athletic,Peterborough United,1-1,-
--,-,Wimbledon,Peterborough United,2-1,-
--,-,York City,Peterborough United,1-2,-
--,-,AFC Bournemouth,Port Vale,0-0,-
--,-,Aldershot,Port Vale,0-0,-
--,-,Bradford City,Port Vale,2-1,-
--,-,Bury,Port Vale,2-1,-
--,-,Crewe Alexandra,Port Vale,0-0,-
--,-,Darlington,Port Vale,1-1,-
--,-,Doncaster Rovers,Port Vale,2-0,-
--,-,Halifax Town,Port Vale,2-2,-
--,-,Hartlepool United,Port Vale,3-0,-
--,-,Hereford United,Port Vale,2-3,-
--,-,Lincoln City,Port Vale,1-0,-
--,-,Mansfield Town,Port Vale,5-0,-
--,-,Northampton Town,Port Vale,5-1,-
--,-,Peterborough United,Port Vale,1-1,-
--,-,Rochdale,Port Vale,2-1,-
--,-,Scunthorpe United,Port Vale,1-1,-
--,-,Southend United,Port Vale,5-1,-
--,-,Stockport County,Port Vale,2-1,-
--,-,Torquay United,Port Vale,4-0,-
--,-,Tranmere Rovers,Port Vale,1-2,-
--,-,Wigan Athletic,Port Vale,1-0,-
--,-,Wimbledon,Port Vale,1-0,-
--,-,York City,Port Vale,4-1,-
--,-,AFC Bournemouth,Rochdale,2-1,-
--,-,Aldershot,Rochdale,0-0,-
--,-,Bradford City,Rochdale,2-1,-
--,-,Bury,Rochdale,3-1,-
--,-,Crewe Alexandra,Rochdale,1-0,-
--,-,Darlington,Rochdale,4-4,-
--,-,Doncaster Rovers,Rochdale,1-2,-
--,-,Halifax Town,Rochdale,2-0,-
--,-,Hartlepool United,Rochdale,2-2,-
--,-,Hereford United,Rochdale,3-0,-
--,-,Lincoln City,Rochdale,3-0,-
--,-,Mansfield Town,Rochdale,2-2,-
--,-,Northampton Town,Rochdale,3-2,-
--,-,Peterborough United,Rochdale,2-2,-
--,-,Port Vale,Rochdale,1-1,-
--,-,Scunthorpe United,Rochdale,1-1,-
--,-,Southend United,Rochdale,1-1,-
--,-,Stockport County,Rochdale,2-2,-
--,-,Torquay United,Rochdale,2-0,-
--,-,Tranmere Rovers,Rochdale,3-1,-
--,-,Wigan Athletic,Rochdale,0-1,-
--,-,Wimbledon,Rochdale,4-1,-
--,-,York City,Rochdale,1-2,-
--,-,AFC Bournemouth,Scunthorpe United,2-2,-
--,-,Aldershot,Scunthorpe United,0-0,-
--,-,Bradford City,Scunthorpe United,0-0,-
--,-,Bury,Scunthorpe United,6-1,-
--,-,Crewe Alexandra,Scunthorpe United,1-0,-
--,-,Darlington,Scunthorpe United,0-1,-
--,-,Doncaster Rovers,Scunthorpe United,1-0,-
--,-,Halifax Town,Scunthorpe United,1-0,-
--,-,Hartlepool United,Scunthorpe United,2-0,-
--,-,Hereford United,Scunthorpe United,2-1,-
--,-,Lincoln City,Scunthorpe United,2-2,-
--,-,Mansfield Town,Scunthorpe United,1-0,-
--,-,Northampton Town,Scunthorpe United,3-3,-
--,-,Peterborough United,Scunthorpe United,0-2,-
--,-,Port Vale,Scunthorpe United,2-2,-
--,-,Rochdale,Scunthorpe United,4-0,-
--,-,Southend United,Scunthorpe United,2-0,-
--,-,Stockport County,Scunthorpe United,2-0,-
--,-,Torquay United,Scunthorpe United,2-1,-
--,-,Tranmere Rovers,Scunthorpe United,1-2,-
--,-,Wigan Athletic,Scunthorpe United,1-1,-
--,-,Wimbledon,Scunthorpe United,2-2,-
--,-,York City,Scunthorpe United,1-0,-
--,-,AFC Bournemouth,Southend United,2-1,-
--,-,Aldershot,Southend United,1-2,-
--,-,Bradford City,Southend United,2-1,-
--,-,Bury,Southend United,1-2,-
--,-,Crewe Alexandra,Southend United,1-1,-
--,-,Darlington,Southend United,0-2,-
--,-,Doncaster Rovers,Southend United,1-0,-
--,-,Halifax Town,Southend United,1-5,-
--,-,Hartlepool United,Southend United,1-3,-
--,-,Hereford United,Southend United,0-0,-
--,-,Lincoln City,Southend United,2-1,-
--,-,Mansfield Town,Southend United,0-1,-
--,-,Northampton Town,Southend United,2-0,-
--,-,Peterborough United,Southend United,5-2,-
--,-,Port Vale,Southend United,1-0,-
--,-,Rochdale,Southend United,0-2,-
--,-,Scunthorpe United,Southend United,2-1,-
--,-,Stockport County,Southend United,1-0,-
--,-,Torquay United,Southend United,0-3,-
--,-,Tranmere Rovers,Southend United,2-2,-
--,-,Wigan Athletic,Southend United,0-1,-
--,-,Wimbledon,Southend United,0-1,-
--,-,York City,Southend United,0-1,-
--,-,AFC Bournemouth,Stockport County,0-1,-
--,-,Aldershot,Stockport County,3-0,-
--,-,Bradford City,Stockport County,1-1,-
--,-,Bury,Stockport County,0-1,-
--,-,Crewe Alexandra,Stockport County,2-0,-
--,-,Darlington,Stockport County,2-2,-
--,-,Doncaster Rovers,Stockport County,2-1,-
--,-,Halifax Town,Stockport County,2-0,-
--,-,Hartlepool United,Stockport County,1-0,-
--,-,Hereford United,Stockport County,2-0,-
--,-,Lincoln City,Stockport County,1-0,-
--,-,Mansfield Town,Stockport County,1-0,-
--,-,Northampton Town,Stockport County,0-1,-
--,-,Peterborough United,Stockport County,1-2,-
--,-,Port Vale,Stockport County,2-0,-
--,-,Rochdale,Stockport County,2-1,-
--,-,Scunthorpe United,Stockport County,2-0,-
--,-,Southend United,Stockport County,2-0,-
--,-,Torquay United,Stockport County,1-2,-
--,-,Tranmere Rovers,Stockport County,1-0,-
--,-,Wigan Athletic,Stockport County,2-1,-
--,-,Wimbledon,Stockport County,1-2,-
--,-,York City,Stockport County,1-0,-
--,-,AFC Bournemouth,Torquay United,1-1,-
--,-,Aldershot,Torquay United,2-1,-
--,-,Bradford City,Torquay United,2-0,-
--,-,Bury,Torquay United,3-0,-
--,-,Crewe Alexandra,Torquay United,0-1,-
--,-,Darlington,Torquay United,1-0,-
--,-,Doncaster Rovers,Torquay United,2-0,-
--,-,Halifax Town,Torquay United,2-1,-
--,-,Hartlepool United,Torquay United,0-2,-
--,-,Hereford United,Torquay United,0-1,-
--,-,Lincoln City,Torquay United,5-0,-
--,-,Mansfield Town,Torquay United,1-1,-
--,-,Northampton Town,Torquay United,1-0,-
--,-,Peterborough United,Torquay United,1-3,-
--,-,Port Vale,Torquay United,3-1,-
--,-,Rochdale,Torquay United,2-1,-
--,-,Scunthorpe United,Torquay United,0-2,-
--,-,Southend United,Torquay United,3-1,-
--,-,Stockport County,Torquay United,4-1,-
--,-,Tranmere Rovers,Torquay United,1-0,-
--,-,Wigan Athletic,Torquay United,2-0,-
--,-,Wimbledon,Torquay United,1-0,-
--,-,York City,Torquay United,0-0,-
--,-,AFC Bournemouth,Tranmere Rovers,1-0,-
--,-,Aldershot,Tranmere Rovers,3-2,-
--,-,Bradford City,Tranmere Rovers,0-3,-
--,-,Bury,Tranmere Rovers,2-2,-
--,-,Crewe Alexandra,Tranmere Rovers,3-0,-
--,-,Darlington,Tranmere Rovers,2-0,-
--,-,Doncaster Rovers,Tranmere Rovers,1-0,-
--,-,Halifax Town,Tranmere Rovers,1-1,-
--,-,Hartlepool United,Tranmere Rovers,3-0,-
--,-,Hereford United,Tranmere Rovers,1-1,-
--,-,Lincoln City,Tranmere Rovers,2-0,-
--,-,Mansfield Town,Tranmere Rovers,1-1,-
--,-,Northampton Town,Tranmere Rovers,3-1,-
--,-,Peterborough United,Tranmere Rovers,4-1,-
--,-,Port Vale,Tranmere Rovers,5-1,-
--,-,Rochdale,Tranmere Rovers,3-1,-
--,-,Scunthorpe United,Tranmere Rovers,2-0,-
--,-,Southend United,Tranmere Rovers,2-0,-
--,-,Stockport County,Tranmere Rovers,1-0,-
--,-,Torquay United,Tranmere Rovers,2-1,-
--,-,Wigan Athletic,Tranmere Rovers,1-1,-
--,-,Wimbledon,Tranmere Rovers,2-1,-
--,-,York City,Tranmere Rovers,4-1,-
--,-,AFC Bournemouth,Wigan Athletic,3-0,-
--,-,Aldershot,Wigan Athletic,0-1,-
--,-,Bradford City,Wigan Athletic,3-3,-
--,-,Bury,Wigan Athletic,0-0,-
--,-,Crewe Alexandra,Wigan Athletic,1-2,-
--,-,Darlington,Wigan Athletic,3-1,-
--,-,Doncaster Rovers,Wigan Athletic,1-1,-
--,-,Halifax Town,Wigan Athletic,0-1,-
--,-,Hartlepool United,Wigan Athletic,3-1,-
--,-,Hereford United,Wigan Athletic,1-1,-
--,-,Lincoln City,Wigan Athletic,2-0,-
--,-,Mansfield Town,Wigan Athletic,3-1,-
--,-,Northampton Town,Wigan Athletic,1-1,-
--,-,Peterborough United,Wigan Athletic,0-0,-
--,-,Port Vale,Wigan Athletic,3-0,-
--,-,Rochdale,Wigan Athletic,3-0,-
--,-,Scunthorpe United,Wigan Athletic,4-4,-
--,-,Southend United,Wigan Athletic,1-0,-
--,-,Stockport County,Wigan Athletic,0-1,-
--,-,Torquay United,Wigan Athletic,2-0,-
--,-,Tranmere Rovers,Wigan Athletic,2-3,-
--,-,Wimbledon,Wigan Athletic,1-0,-
--,-,York City,Wigan Athletic,2-1,-
--,-,AFC Bournemouth,Wimbledon,0-1,-
--,-,Aldershot,Wimbledon,2-0,-
--,-,Bradford City,Wimbledon,2-0,-
--,-,Bury,Wimbledon,1-0,-
--,-,Crewe Alexandra,Wimbledon,0-3,-
--,-,Darlington,Wimbledon,4-1,-
--,-,Doncaster Rovers,Wimbledon,2-1,-
--,-,Halifax Town,Wimbledon,0-1,-
--,-,Hartlepool United,Wimbledon,2-3,-
--,-,Hereford United,Wimbledon,1-1,-
--,-,Lincoln City,Wimbledon,0-0,-
--,-,Mansfield Town,Wimbledon,1-0,-
--,-,Northampton Town,Wimbledon,1-1,-
--,-,Peterborough United,Wimbledon,1-1,-
--,-,Port Vale,Wimbledon,2-3,-
--,-,Rochdale,Wimbledon,2-0,-
--,-,Scunthorpe United,Wimbledon,1-2,-
--,-,Southend United,Wimbledon,1-0,-
--,-,Stockport County,Wimbledon,0-0,-
--,-,Torquay United,Wimbledon,2-3,-
--,-,Tranmere Rovers,Wimbledon,3-0,-
--,-,Wigan Athletic,Wimbledon,1-0,-
--,-,York City,Wimbledon,0-1,-
--,-,AFC Bournemouth,York City,1-1,-
--,-,Aldershot,York City,1-1,-
--,-,Bradford City,York City,1-1,-
--,-,Bury,York City,2-0,-
--,-,Crewe Alexandra,York City,1-1,-
--,-,Darlington,York City,0-0,-
--,-,Doncaster Rovers,York City,3-2,-
--,-,Halifax Town,York City,3-1,-
--,-,Hartlepool United,York City,1-0,-
--,-,Hereford United,York City,1-1,-
--,-,Lincoln City,York City,1-1,-
--,-,Mansfield Town,York City,0-1,-
--,-,Northampton Town,York City,2-0,-
--,-,Peterborough United,York City,3-0,-
--,-,Port Vale,York City,2-0,-
--,-,Rochdale,York City,3-2,-
--,-,Scunthorpe United,York City,3-2,-
--,-,Southend United,York City,3-0,-
--,-,Stockport County,York City,2-0,-
--,-,Torquay United,York City,1-2,-
--,-,Tranmere Rovers,York City,5-0,-
--,-,Wigan Athletic,York City,1-0,-
--,-,Wimbledon,York City,3-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Tue) 4 Nov 1980 (44),AFC Bournemouth (1),0-2,?,Aldershot Town FC (1)
+?,(Sat) 14 Feb 1981 (6),AFC Bournemouth (2),4-0,?,Bradford City (1)
+?,(Sat) 11 Apr 1981 (14),AFC Bournemouth (3),2-2,?,Bury FC (1)
+?,(Tue) 21 Oct 1980 (42),AFC Bournemouth (4),0-0,?,Crewe Alexandra (1)
+?,(Sat) 14 Mar 1981 (10),AFC Bournemouth (5),3-3,?,Darlington FC (1)
+?,(Sat) 6 Dec 1980 (48),AFC Bournemouth (6),1-2,?,Doncaster Rovers (1)
+?,(Sat) 17 Jan 1981 (2),AFC Bournemouth (7),2-1,?,Halifax Town (1)
+?,(Tue) 16 Sep 1980 (37),AFC Bournemouth (8),1-0,?,Hartlepool United (1)
+?,(Tue) 19 Aug 1980 (33),AFC Bournemouth (9),1-0,?,Hereford United (1)
+?,(Sat) 25 Apr 1981 (16),AFC Bournemouth (10),0-1,?,Lincoln City (1)
+?,(Sat) 18 Oct 1980 (41),AFC Bournemouth (11),0-1,?,Mansfield Town (1)
+?,(Sat) 23 Aug 1980 (33),AFC Bournemouth (12),0-0,?,Northampton Town (1)
+?,(Sat) 28 Feb 1981 (8),AFC Bournemouth (13),4-1,?,Peterborough United (1)
+?,(Sat) 28 Mar 1981 (12),AFC Bournemouth (14),0-0,?,Port Vale FC (1)
+?,(Sat) 27 Sep 1980 (38),AFC Bournemouth (15),2-1,?,Rochdale AFC (1)
+?,(Sat) 4 Oct 1980 (39),AFC Bournemouth (16),2-2,?,Scunthorpe United (1)
+?,(Fri) 26 Dec 1980 (51),AFC Bournemouth (17),2-1,?,Southend United (1)
+?,(Sat) 3 Jan 1981 (0),AFC Bournemouth (18),0-1,?,Stockport County (1)
+?,(Sat) 24 Jan 1981 (3),AFC Bournemouth (19),1-1,?,Torquay United (1)
+?,(Sat) 13 Sep 1980 (36),AFC Bournemouth (20),1-0,?,Tranmere Rovers (1)
+?,(Sat) 1 Nov 1980 (43),AFC Bournemouth (21),3-0,?,Wigan Athletic (1)
+?,(Sat) 18 Apr 1981 (15),AFC Bournemouth (22),0-1,?,Wimbledon FC (1)
+?,(Sat) 15 Nov 1980 (45),AFC Bournemouth (23),1-1,?,York City (1)
+?,(Tue) 7 Oct 1980 (40),Aldershot Town FC (2),0-0,?,AFC Bournemouth (24)
+?,(Sat) 4 Apr 1981 (13),Aldershot Town FC (3),1-1,?,Bradford City (2)
+?,(Fri) 5 Sep 1980 (35),Aldershot Town FC (4),1-0,?,Bury FC (2)
+?,(Sat) 23 Aug 1980 (33),Aldershot Town FC (5),2-0,?,Crewe Alexandra (2)
+?,(Sat) 21 Feb 1981 (7),Aldershot Town FC (6),2-1,?,Darlington FC (2)
+?,(Sat) 25 Oct 1980 (42),Aldershot Town FC (7),1-0,?,Doncaster Rovers (2)
+?,(Sat) 6 Dec 1980 (48),Aldershot Town FC (8),2-1,?,Halifax Town (2)
+?,(Sat) 7 Mar 1981 (9),Aldershot Town FC (9),2-1,?,Hartlepool United (2)
+?,(Fri) 26 Dec 1980 (51),Aldershot Town FC (10),4-0,?,Hereford United (2)
+?,(Tue) 30 Sep 1980 (39),Aldershot Town FC (11),0-0,?,Lincoln City (2)
+?,(Sat) 20 Sep 1980 (37),Aldershot Town FC (12),1-0,?,Mansfield Town (2)
+?,(Sat) 3 Jan 1981 (0),Aldershot Town FC (13),0-0,?,Northampton Town (2)
+?,(Sat) 8 Nov 1980 (44),Aldershot Town FC (14),0-0,?,Peterborough United (2)
+?,(Sat) 7 Feb 1981 (5),Aldershot Town FC (15),0-0,?,Port Vale FC (2)
+?,(Sat) 11 Oct 1980 (40),Aldershot Town FC (16),0-0,?,Rochdale AFC (2)
+?,(Sat) 15 Nov 1980 (45),Aldershot Town FC (17),0-0,?,Scunthorpe United (2)
+?,(Sat) 18 Apr 1981 (15),Aldershot Town FC (18),1-2,?,Southend United (2)
+?,(Sat) 17 Jan 1981 (2),Aldershot Town FC (19),3-0,?,Stockport County (2)
+?,(Tue) 28 Oct 1980 (43),Aldershot Town FC (20),2-1,?,Torquay United (2)
+?,(Sun) 22 Mar 1981 (11),Aldershot Town FC (21),3-2,?,Tranmere Rovers (2)
+?,(Sat) 24 Jan 1981 (3),Aldershot Town FC (22),0-1,?,Wigan Athletic (2)
+?,(Tue) 19 Aug 1980 (33),Aldershot Town FC (23),2-0,?,Wimbledon FC (2)
+?,(Sat) 25 Apr 1981 (16),Aldershot Town FC (24),1-1,?,York City (2)
+?,(Sat) 6 Sep 1980 (35),Bradford City (3),1-1,?,AFC Bournemouth (25)
+?,(Sat) 1 Nov 1980 (43),Bradford City (4),1-0,?,Aldershot Town FC (25)
+?,(Sat) 28 Mar 1981 (12),Bradford City (5),0-2,?,Bury FC (3)
+?,(Sat) 4 Oct 1980 (39),Bradford City (6),2-2,?,Crewe Alexandra (3)
+?,(Tue) 4 Nov 1980 (44),Bradford City (7),3-0,?,Darlington FC (3)
+?,(Fri) 26 Dec 1980 (51),Bradford City (8),1-1,?,Doncaster Rovers (3)
+?,(Wed) 11 Feb 1981 (6),Bradford City (9),0-0,?,Halifax Town (3)
+?,(Sun) 19 Apr 1981 (15),Bradford City (10),2-0,?,Hartlepool United (3)
+?,(Fri) 15 May 1981 (19),Bradford City (11),0-1,?,Hereford United (3)
+?,(Wed) 22 Oct 1980 (42),Bradford City (12),1-2,?,Lincoln City (3)
+?,(Sat) 14 Mar 1981 (10),Bradford City (13),0-2,?,Mansfield Town (3)
+?,(Wed) 17 Sep 1980 (37),Bradford City (14),3-1,?,Northampton Town (3)
+?,(Wed) 28 Jan 1981 (4),Bradford City (15),1-1,?,Peterborough United (3)
+?,(Sat) 18 Oct 1980 (41),Bradford City (16),2-1,?,Port Vale FC (3)
+?,(Sun) 8 Mar 1981 (9),Bradford City (17),2-1,?,Rochdale AFC (3)
+?,(Sat) 23 Aug 1980 (33),Bradford City (18),0-0,?,Scunthorpe United (3)
+?,(Wed) 4 Mar 1981 (9),Bradford City (19),2-1,?,Southend United (3)
+?,(Wed) 20 Aug 1980 (33),Bradford City (20),1-1,?,Stockport County (3)
+?,(Sat) 7 Feb 1981 (5),Bradford City (21),2-0,?,Torquay United (3)
+?,(Sat) 27 Sep 1980 (38),Bradford City (22),0-3,?,Tranmere Rovers (3)
+?,(Sat) 11 Apr 1981 (14),Bradford City (23),3-3,?,Wigan Athletic (3)
+?,(Sat) 15 Nov 1980 (45),Bradford City (24),2-0,?,Wimbledon FC (3)
+?,(Sat) 6 Dec 1980 (48),Bradford City (25),1-1,?,York City (3)
+?,(Sat) 8 Nov 1980 (44),Bury FC (4),3-0,?,AFC Bournemouth (26)
+?,(Sat) 14 Feb 1981 (6),Bury FC (5),0-0,?,Aldershot Town FC (26)
+?,(Sat) 25 Oct 1980 (42),Bury FC (6),2-2,?,Bradford City (26)
+?,(Tue) 16 Sep 1980 (37),Bury FC (7),1-3,?,Crewe Alexandra (4)
+?,(Sat) 30 Aug 1980 (34),Bury FC (8),1-2,?,Darlington FC (4)
+?,(Tue) 31 Mar 1981 (13),Bury FC (9),2-0,?,Doncaster Rovers (4)
+?,(Sat) 31 Jan 1981 (4),Bury FC (10),0-0,?,Halifax Town (4)
+?,(Tue) 11 Nov 1980 (45),Bury FC (11),0-0,?,Hartlepool United (4)
+?,(Tue) 28 Oct 1980 (43),Bury FC (12),2-1,?,Hereford United (4)
+?,(Mon) 4 May 1981 (18),Bury FC (13),1-1,?,Lincoln City (4)
+?,(Sat) 13 Sep 1980 (36),Bury FC (14),4-1,?,Mansfield Town (4)
+?,(Tue) 7 Oct 1980 (40),Bury FC (15),1-2,?,Northampton Town (4)
+?,(Sat) 7 Mar 1981 (9),Bury FC (16),1-1,?,Peterborough United (4)
+?,(Sat) 27 Sep 1980 (38),Bury FC (17),2-1,?,Port Vale FC (4)
+?,(Sat) 21 Mar 1981 (11),Bury FC (18),3-1,?,Rochdale AFC (4)
+?,(Sat) 18 Apr 1981 (15),Bury FC (19),6-1,?,Scunthorpe United (4)
+?,(Sat) 16 Aug 1980 (32),Bury FC (20),1-2,?,Southend United (4)
+?,(Sat) 25 Apr 1981 (16),Bury FC (21),0-1,?,Stockport County (4)
+?,(Sat) 11 Oct 1980 (40),Bury FC (22),3-0,?,Torquay United (4)
+?,(Sat) 4 Apr 1981 (13),Bury FC (23),2-2,?,Tranmere Rovers (4)
+?,(Sat) 28 Feb 1981 (8),Bury FC (24),0-0,?,Wigan Athletic (4)
+?,(Sat) 29 Nov 1980 (47),Bury FC (25),1-0,?,Wimbledon FC (4)
+?,(Fri) 26 Dec 1980 (51),Bury FC (26),2-0,?,York City (4)
+?,(Sat) 10 Jan 1981 (1),Crewe Alexandra (5),0-2,?,AFC Bournemouth (27)
+?,(Sat) 31 Jan 1981 (4),Crewe Alexandra (6),0-0,?,Aldershot Town FC (27)
+?,(Sat) 7 Mar 1981 (9),Crewe Alexandra (7),1-0,?,Bradford City (27)
+?,(Wed) 1 Oct 1980 (39),Crewe Alexandra (8),2-2,?,Bury FC (27)
+?,(Sat) 20 Dec 1980 (50),Crewe Alexandra (9),1-1,?,Darlington FC (5)
+?,(Sat) 11 Oct 1980 (40),Crewe Alexandra (10),0-0,?,Doncaster Rovers (5)
+?,(Sat) 20 Sep 1980 (37),Crewe Alexandra (11),2-1,?,Halifax Town (5)
+?,(Fri) 3 Apr 1981 (13),Crewe Alexandra (12),2-0,?,Hartlepool United (5)
+?,(Tue) 7 Oct 1980 (40),Crewe Alexandra (13),5-0,?,Hereford United (5)
+?,(Sat) 30 Aug 1980 (34),Crewe Alexandra (14),0-3,?,Lincoln City (5)
+?,(Sat) 29 Nov 1980 (47),Crewe Alexandra (15),1-2,?,Mansfield Town (5)
+?,(Sat) 21 Mar 1981 (11),Crewe Alexandra (16),3-1,?,Northampton Town (5)
+?,(Sat) 27 Dec 1980 (51),Crewe Alexandra (17),1-0,?,Peterborough United (5)
+?,(Fri) 1 May 1981 (17),Crewe Alexandra (18),0-0,?,Port Vale FC (5)
+?,(Sat) 25 Oct 1980 (42),Crewe Alexandra (19),1-0,?,Rochdale AFC (5)
+?,(Sat) 14 Feb 1981 (6),Crewe Alexandra (20),1-0,?,Scunthorpe United (5)
+?,(Wed) 29 Oct 1980 (43),Crewe Alexandra (21),1-1,?,Southend United (5)
+?,(Sat) 21 Feb 1981 (7),Crewe Alexandra (22),2-0,?,Stockport County (5)
+?,(Sat) 16 Aug 1980 (32),Crewe Alexandra (23),0-1,?,Torquay United (5)
+?,(Wed) 12 Nov 1980 (45),Crewe Alexandra (24),3-0,?,Tranmere Rovers (5)
+?,(Sat) 13 Dec 1980 (49),Crewe Alexandra (25),1-2,?,Wigan Athletic (5)
+?,(Sat) 13 Sep 1980 (36),Crewe Alexandra (26),0-3,?,Wimbledon FC (5)
+?,(Sat) 8 Nov 1980 (44),Crewe Alexandra (27),1-1,?,York City (5)
+?,(Sat) 11 Oct 1980 (40),Darlington FC (6),1-2,?,AFC Bournemouth (28)
+?,(Sat) 27 Sep 1980 (38),Darlington FC (7),1-2,?,Aldershot Town FC (28)
+?,(Tue) 7 Oct 1980 (40),Darlington FC (8),2-1,?,Bradford City (28)
+?,(Sat) 24 Jan 1981 (3),Darlington FC (9),2-1,?,Bury FC (28)
+?,(Sat) 25 Apr 1981 (16),Darlington FC (10),2-1,?,Crewe Alexandra (28)
+?,(Tue) 11 Nov 1980 (45),Darlington FC (11),5-0,?,Doncaster Rovers (6)
+?,(Sat) 18 Apr 1981 (15),Darlington FC (12),3-1,?,Halifax Town (6)
+?,(Fri) 26 Dec 1980 (51),Darlington FC (13),3-0,?,Hartlepool United (6)
+?,(Sun) 8 Mar 1981 (9),Darlington FC (14),2-1,?,Hereford United (6)
+?,(Tue) 10 Mar 1981 (10),Darlington FC (15),0-0,?,Lincoln City (6)
+?,(Sun) 15 Feb 1981 (6),Darlington FC (16),2-2,?,Mansfield Town (6)
+?,(Sat) 16 Aug 1980 (32),Darlington FC (17),1-0,?,Northampton Town (6)
+?,(Sat) 21 Mar 1981 (11),Darlington FC (18),2-0,?,Peterborough United (6)
+?,(Tue) 5 May 1981 (18),Darlington FC (19),1-1,?,Port Vale FC (6)
+?,(Tue) 28 Oct 1980 (43),Darlington FC (20),4-4,?,Rochdale AFC (6)
+?,(Tue) 16 Sep 1980 (37),Darlington FC (21),0-1,?,Scunthorpe United (6)
+?,(Sat) 25 Oct 1980 (42),Darlington FC (22),0-2,?,Southend United (6)
+?,(Sat) 23 Aug 1980 (33),Darlington FC (23),2-2,?,Stockport County (6)
+?,(Sun) 5 Apr 1981 (13),Darlington FC (24),1-0,?,Torquay United (6)
+?,(Sat) 8 Nov 1980 (44),Darlington FC (25),2-0,?,Tranmere Rovers (6)
+?,(Sat) 13 Sep 1980 (36),Darlington FC (26),3-1,?,Wigan Athletic (6)
+?,(Tue) 17 Mar 1981 (11),Darlington FC (27),4-1,?,Wimbledon FC (6)
+?,(Sat) 3 Jan 1981 (0),Darlington FC (28),0-0,?,York City (6)
+?,(Sat) 2 May 1981 (17),Doncaster Rovers (7),2-1,?,AFC Bournemouth (29)
+?,(Sat) 10 Jan 1981 (1),Doncaster Rovers (8),3-1,?,Aldershot Town FC (29)
+?,(Tue) 21 Apr 1981 (16),Doncaster Rovers (9),2-0,?,Bradford City (29)
+?,(Tue) 21 Oct 1980 (42),Doncaster Rovers (10),1-0,?,Bury FC (29)
+?,(Fri) 13 Mar 1981 (10),Doncaster Rovers (11),1-1,?,Crewe Alexandra (29)
+?,(Tue) 19 Aug 1980 (33),Doncaster Rovers (12),2-0,?,Darlington FC (29)
+?,(Sat) 18 Oct 1980 (41),Doncaster Rovers (13),0-0,?,Halifax Town (7)
+?,(Sat) 24 Jan 1981 (3),Doncaster Rovers (14),1-2,?,Hartlepool United (7)
+?,(Sat) 6 Sep 1980 (35),Doncaster Rovers (15),5-1,?,Hereford United (7)
+?,(Sat) 4 Oct 1980 (39),Doncaster Rovers (16),0-1,?,Lincoln City (7)
+?,(Fri) 19 Dec 1980 (50),Doncaster Rovers (17),2-1,?,Mansfield Town (7)
+?,(Fri) 6 Feb 1981 (5),Doncaster Rovers (18),1-1,?,Northampton Town (7)
+?,(Sat) 23 Aug 1980 (33),Doncaster Rovers (19),0-4,?,Peterborough United (7)
+?,(Sat) 15 Nov 1980 (45),Doncaster Rovers (20),2-0,?,Port Vale FC (7)
+?,(Sat) 29 Nov 1980 (47),Doncaster Rovers (21),1-2,?,Rochdale AFC (7)
+?,(Fri) 27 Mar 1981 (12),Doncaster Rovers (22),1-0,?,Scunthorpe United (7)
+?,(Fri) 19 Sep 1980 (37),Doncaster Rovers (23),1-0,?,Southend United (7)
+?,(Fri) 10 Apr 1981 (14),Doncaster Rovers (24),2-1,?,Stockport County (7)
+?,(Tue) 30 Sep 1980 (39),Doncaster Rovers (25),2-0,?,Torquay United (7)
+?,(Sat) 27 Dec 1980 (51),Doncaster Rovers (26),1-0,?,Tranmere Rovers (7)
+?,(Tue) 4 Nov 1980 (44),Doncaster Rovers (27),1-1,?,Wigan Athletic (7)
+?,(Sat) 1 Nov 1980 (43),Doncaster Rovers (28),2-1,?,Wimbledon FC (7)
+?,(Fri) 20 Feb 1981 (7),Doncaster Rovers (29),3-2,?,York City (7)
+?,(Sat) 29 Nov 1980 (47),Halifax Town (8),1-2,?,AFC Bournemouth (30)
+?,(Sat) 2 May 1981 (17),Halifax Town (9),1-0,?,Aldershot Town FC (30)
+?,(Tue) 28 Oct 1980 (43),Halifax Town (10),2-0,?,Bradford City (30)
+?,(Sat) 23 Aug 1980 (33),Halifax Town (11),4-2,?,Bury FC (30)
+?,(Tue) 24 Mar 1981 (12),Halifax Town (12),1-0,?,Crewe Alexandra (30)
+?,(Sat) 27 Dec 1980 (51),Halifax Town (13),1-2,?,Darlington FC (30)
+?,(Sat) 21 Mar 1981 (11),Halifax Town (14),0-3,?,Doncaster Rovers (30)
+?,(Sat) 8 Nov 1980 (44),Halifax Town (15),1-2,?,Hartlepool United (8)
+?,(Sat) 25 Oct 1980 (42),Halifax Town (16),0-0,?,Hereford United (8)
+?,(Sat) 14 Feb 1981 (6),Halifax Town (17),1-3,?,Lincoln City (8)
+?,(Sat) 16 Aug 1980 (32),Halifax Town (18),0-2,?,Mansfield Town (8)
+?,(Sat) 4 Apr 1981 (13),Halifax Town (19),0-1,?,Northampton Town (8)
+?,(Tue) 11 Nov 1980 (45),Halifax Town (20),2-3,?,Peterborough United (8)
+?,(Sat) 20 Dec 1980 (50),Halifax Town (21),2-2,?,Port Vale FC (8)
+?,(Mon) 20 Apr 1981 (16),Halifax Town (22),2-0,?,Rochdale AFC (8)
+?,(Sat) 13 Sep 1980 (36),Halifax Town (23),1-0,?,Scunthorpe United (8)
+?,(Sat) 11 Oct 1980 (40),Halifax Town (24),1-5,?,Southend United (8)
+?,(Sat) 24 Jan 1981 (3),Halifax Town (25),2-0,?,Stockport County (8)
+?,(Sat) 7 Mar 1981 (9),Halifax Town (26),2-1,?,Torquay United (8)
+?,(Sat) 10 Jan 1981 (1),Halifax Town (27),1-1,?,Tranmere Rovers (8)
+?,(Tue) 16 Sep 1980 (37),Halifax Town (28),0-1,?,Wigan Athletic (8)
+?,(Sat) 27 Sep 1980 (38),Halifax Town (29),0-1,?,Wimbledon FC (8)
+?,(Tue) 7 Oct 1980 (40),Halifax Town (30),3-1,?,York City (8)
+?,(Tue) 30 Sep 1980 (39),Hartlepool United (9),1-0,?,AFC Bournemouth (31)
+?,(Sat) 4 Oct 1980 (39),Hartlepool United (10),1-0,?,Aldershot Town FC (31)
+?,(Sat) 27 Dec 1980 (51),Hartlepool United (11),2-2,?,Bradford City (31)
+?,(Tue) 19 Aug 1980 (33),Hartlepool United (12),1-2,?,Bury FC (31)
+?,(Sat) 1 Nov 1980 (43),Hartlepool United (13),6-2,?,Crewe Alexandra (31)
+?,(Fri) 17 Apr 1981 (15),Hartlepool United (14),2-0,?,Darlington FC (31)
+?,(Sat) 30 Aug 1980 (34),Hartlepool United (15),1-0,?,Doncaster Rovers (31)
+?,(Sat) 11 Apr 1981 (14),Hartlepool United (16),3-0,?,Halifax Town (31)
+?,(Sat) 20 Sep 1980 (37),Hartlepool United (17),2-0,?,Hereford United (9)
+?,(Sat) 18 Oct 1980 (41),Hartlepool United (18),2-0,?,Lincoln City (9)
+?,(Tue) 21 Oct 1980 (42),Hartlepool United (19),0-1,?,Mansfield Town (9)
+?,(Sat) 6 Sep 1980 (35),Hartlepool United (20),2-3,?,Northampton Town (9)
+?,(Sat) 20 Dec 1980 (50),Hartlepool United (21),1-1,?,Peterborough United (9)
+?,(Sat) 10 Jan 1981 (1),Hartlepool United (22),3-0,?,Port Vale FC (9)
+?,(Sat) 31 Jan 1981 (4),Hartlepool United (23),2-2,?,Rochdale AFC (9)
+?,(Tue) 4 Nov 1980 (44),Hartlepool United (24),2-0,?,Scunthorpe United (9)
+?,(Sat) 21 Feb 1981 (7),Hartlepool United (25),1-3,?,Southend United (9)
+?,(Sat) 28 Mar 1981 (12),Hartlepool United (26),1-0,?,Stockport County (9)
+?,(Sat) 29 Nov 1980 (47),Hartlepool United (27),0-2,?,Torquay United (9)
+?,(Sat) 2 May 1981 (17),Hartlepool United (28),3-0,?,Tranmere Rovers (9)
+?,(Sat) 15 Nov 1980 (45),Hartlepool United (29),3-1,?,Wigan Athletic (9)
+?,(Sat) 14 Mar 1981 (10),Hartlepool United (30),2-3,?,Wimbledon FC (9)
+?,(Sat) 7 Feb 1981 (5),Hartlepool United (31),1-0,?,York City (9)
+?,(Wed) 12 Nov 1980 (45),Hereford United (10),1-0,?,AFC Bournemouth (32)
+?,(Mon) 20 Apr 1981 (16),Hereford United (11),0-0,?,Aldershot Town FC (32)
+?,(Sat) 20 Dec 1980 (50),Hereford United (12),4-0,?,Bradford City (32)
+?,(Sat) 10 Jan 1981 (1),Hereford United (13),0-1,?,Bury FC (32)
+?,(Wed) 5 Nov 1980 (44),Hereford United (14),0-0,?,Crewe Alexandra (32)
+?,(Sat) 4 Oct 1980 (39),Hereford United (15),0-1,?,Darlington FC (32)
+?,(Sat) 14 Feb 1981 (6),Hereford United (16),1-3,?,Doncaster Rovers (32)
+?,(Sat) 28 Mar 1981 (12),Hereford United (17),0-1,?,Halifax Town (32)
+?,(Sat) 28 Feb 1981 (8),Hereford United (18),3-0,?,Hartlepool United (32)
+?,(Sat) 1 Nov 1980 (43),Hereford United (19),0-2,?,Lincoln City (10)
+?,(Sat) 31 Jan 1981 (4),Hereford United (20),2-1,?,Mansfield Town (10)
+?,(Sat) 27 Sep 1980 (38),Hereford United (21),4-1,?,Northampton Town (10)
+?,(Sat) 2 May 1981 (17),Hereford United (22),1-1,?,Peterborough United (10)
+?,(Wed) 22 Oct 1980 (42),Hereford United (23),2-3,?,Port Vale FC (10)
+?,(Wed) 17 Sep 1980 (37),Hereford United (24),3-0,?,Rochdale AFC (10)
+?,(Sat) 11 Apr 1981 (14),Hereford United (25),2-1,?,Scunthorpe United (10)
+?,(Sat) 13 Sep 1980 (36),Hereford United (26),0-0,?,Southend United (10)
+?,(Wed) 6 May 1981 (18),Hereford United (27),2-0,?,Stockport County (10)
+?,(Sat) 27 Dec 1980 (51),Hereford United (28),0-1,?,Torquay United (10)
+?,(Sat) 16 Aug 1980 (32),Hereford United (29),1-1,?,Tranmere Rovers (10)
+?,(Sat) 29 Nov 1980 (47),Hereford United (30),1-1,?,Wigan Athletic (10)
+?,(Sat) 18 Oct 1980 (41),Hereford United (31),1-1,?,Wimbledon FC (10)
+?,(Sat) 30 Aug 1980 (34),Hereford United (32),1-1,?,York City (10)
+?,(Sat) 20 Dec 1980 (50),Lincoln City (11),2-0,?,AFC Bournemouth (33)
+?,(Wed) 17 Sep 1980 (37),Lincoln City (12),0-1,?,Aldershot Town FC (33)
+?,(Sat) 10 Jan 1981 (1),Lincoln City (13),1-1,?,Bradford City (33)
+?,(Sat) 6 Dec 1980 (48),Lincoln City (14),2-1,?,Bury FC (33)
+?,(Sat) 24 Jan 1981 (3),Lincoln City (15),2-1,?,Crewe Alexandra (33)
+?,(Sat) 2 May 1981 (17),Lincoln City (16),1-0,?,Darlington FC (33)
+?,(Sat) 7 Mar 1981 (9),Lincoln City (17),1-1,?,Doncaster Rovers (33)
+?,(Sat) 6 Sep 1980 (35),Lincoln City (18),3-0,?,Halifax Town (33)
+?,(Sat) 21 Mar 1981 (11),Lincoln City (19),2-0,?,Hartlepool United (33)
+?,(Sat) 4 Apr 1981 (13),Lincoln City (20),1-0,?,Hereford United (33)
+?,(Sat) 27 Dec 1980 (51),Lincoln City (21),1-1,?,Mansfield Town (11)
+?,(Sat) 25 Oct 1980 (42),Lincoln City (22),8-0,?,Northampton Town (11)
+?,(Sat) 16 Aug 1980 (32),Lincoln City (23),1-1,?,Peterborough United (11)
+?,(Mon) 20 Apr 1981 (16),Lincoln City (24),1-0,?,Port Vale FC (11)
+?,(Wed) 8 Oct 1980 (40),Lincoln City (25),3-0,?,Rochdale AFC (11)
+?,(Sat) 27 Sep 1980 (38),Lincoln City (26),2-2,?,Scunthorpe United (11)
+?,(Sat) 8 Nov 1980 (44),Lincoln City (27),2-1,?,Southend United (11)
+?,(Sat) 7 Feb 1981 (5),Lincoln City (28),1-0,?,Stockport County (11)
+?,(Wed) 12 Nov 1980 (45),Lincoln City (29),5-0,?,Torquay United (11)
+?,(Wed) 29 Oct 1980 (43),Lincoln City (30),2-0,?,Tranmere Rovers (11)
+?,(Sat) 23 Aug 1980 (33),Lincoln City (31),2-0,?,Wigan Athletic (11)
+?,(Sat) 28 Feb 1981 (8),Lincoln City (32),0-0,?,Wimbledon FC (11)
+?,(Sat) 11 Oct 1980 (40),Lincoln City (33),1-1,?,York City (11)
+?,(Sat) 21 Mar 1981 (11),Mansfield Town (12),1-1,?,AFC Bournemouth (34)
+?,(Mon) 6 Apr 1981 (14),Mansfield Town (13),1-2,?,Aldershot Town FC (34)
+?,(Sat) 11 Oct 1980 (40),Mansfield Town (14),1-0,?,Bradford City (34)
+?,(Sat) 7 Feb 1981 (5),Mansfield Town (15),2-0,?,Bury FC (34)
+?,(Sat) 17 Jan 1981 (2),Mansfield Town (16),4-1,?,Crewe Alexandra (34)
+?,(Sat) 6 Sep 1980 (35),Mansfield Town (17),1-0,?,Darlington FC (34)
+?,(Wed) 6 May 1981 (18),Mansfield Town (18),1-1,?,Doncaster Rovers (34)
+?,(Sat) 15 Nov 1980 (45),Mansfield Town (19),0-1,?,Halifax Town (34)
+?,(Mon) 16 Mar 1981 (11),Mansfield Town (20),0-1,?,Hartlepool United (34)
+?,(Sat) 23 Aug 1980 (33),Mansfield Town (21),4-0,?,Hereford United (34)
+?,(Sat) 18 Apr 1981 (15),Mansfield Town (22),2-0,?,Lincoln City (34)
+?,(Mon) 27 Oct 1980 (43),Mansfield Town (23),2-0,?,Northampton Town (12)
+?,(Sat) 25 Oct 1980 (42),Mansfield Town (24),2-1,?,Peterborough United (12)
+?,(Sat) 24 Jan 1981 (3),Mansfield Town (25),5-0,?,Port Vale FC (12)
+?,(Sat) 4 Apr 1981 (13),Mansfield Town (26),2-2,?,Rochdale AFC (12)
+?,(Fri) 26 Dec 1980 (51),Mansfield Town (27),1-0,?,Scunthorpe United (12)
+?,(Sat) 7 Mar 1981 (9),Mansfield Town (28),0-1,?,Southend United (12)
+?,(Sat) 6 Dec 1980 (48),Mansfield Town (29),1-0,?,Stockport County (12)
+?,(Sat) 8 Nov 1980 (44),Mansfield Town (30),1-1,?,Torquay United (12)
+?,(Mon) 6 Oct 1980 (40),Mansfield Town (31),1-1,?,Tranmere Rovers (12)
+?,(Sat) 27 Sep 1980 (38),Mansfield Town (32),3-1,?,Wigan Athletic (12)
+?,(Mon) 15 Sep 1980 (37),Mansfield Town (33),1-0,?,Wimbledon FC (12)
+?,(Mon) 18 Aug 1980 (33),Mansfield Town (34),0-1,?,York City (12)
+?,(Sat) 31 Jan 1981 (4),Northampton Town (13),0-1,?,AFC Bournemouth (35)
+?,(Tue) 21 Oct 1980 (42),Northampton Town (14),2-0,?,Aldershot Town FC (35)
+?,(Tue) 30 Sep 1980 (39),Northampton Town (15),0-1,?,Bradford City (35)
+?,(Tue) 4 Nov 1980 (44),Northampton Town (16),5-3,?,Bury FC (35)
+?,(Fri) 17 Oct 1980 (41),Northampton Town (17),4-1,?,Crewe Alexandra (35)
+?,(Sat) 15 Nov 1980 (45),Northampton Town (18),2-2,?,Darlington FC (35)
+?,(Sat) 13 Sep 1980 (36),Northampton Town (19),0-2,?,Doncaster Rovers (35)
+?,(Fri) 31 Oct 1980 (43),Northampton Town (20),2-1,?,Halifax Town (35)
+?,(Sat) 14 Feb 1981 (6),Northampton Town (21),3-1,?,Hartlepool United (35)
+?,(Tue) 14 Apr 1981 (15),Northampton Town (22),0-0,?,Hereford United (35)
+?,(Sat) 28 Mar 1981 (12),Northampton Town (23),1-1,?,Lincoln City (35)
+?,(Sat) 10 Jan 1981 (1),Northampton Town (24),0-1,?,Mansfield Town (35)
+?,(Tue) 21 Apr 1981 (16),Northampton Town (25),2-2,?,Peterborough United (13)
+?,(Sat) 27 Dec 1980 (51),Northampton Town (26),5-1,?,Port Vale FC (13)
+?,(Sat) 20 Dec 1980 (50),Northampton Town (27),3-2,?,Rochdale AFC (13)
+?,(Fri) 13 Mar 1981 (10),Northampton Town (28),3-3,?,Scunthorpe United (13)
+?,(Tue) 23 Sep 1980 (38),Northampton Town (29),2-0,?,Southend United (13)
+?,(Fri) 3 Oct 1980 (39),Northampton Town (30),0-1,?,Stockport County (13)
+?,(Fri) 1 May 1981 (17),Northampton Town (31),1-0,?,Torquay United (13)
+?,(Sat) 29 Nov 1980 (47),Northampton Town (32),3-1,?,Tranmere Rovers (13)
+?,(Tue) 3 Feb 1981 (5),Northampton Town (33),1-1,?,Wigan Athletic (13)
+?,(Sat) 11 Apr 1981 (14),Northampton Town (34),1-1,?,Wimbledon FC (13)
+?,(Fri) 19 Sep 1980 (37),Northampton Town (35),2-0,?,York City (13)
+?,(Sat) 20 Sep 1980 (37),Peterborough United (14),1-0,?,AFC Bournemouth (36)
+?,(Sat) 11 Apr 1981 (14),Peterborough United (15),0-0,?,Aldershot Town FC (36)
+?,(Sat) 30 Aug 1980 (34),Peterborough United (16),2-2,?,Bradford City (36)
+?,(Sat) 4 Oct 1980 (39),Peterborough United (17),2-0,?,Bury FC (36)
+?,(Sat) 18 Apr 1981 (15),Peterborough United (18),2-1,?,Crewe Alexandra (36)
+?,(Sat) 18 Oct 1980 (41),Peterborough United (19),1-0,?,Darlington FC (36)
+?,(Sat) 31 Jan 1981 (4),Peterborough United (20),0-1,?,Doncaster Rovers (36)
+?,(Wed) 20 Aug 1980 (33),Peterborough United (21),2-2,?,Halifax Town (36)
+?,(Sat) 25 Apr 1981 (16),Peterborough United (22),1-1,?,Hartlepool United (36)
+?,(Sat) 6 Dec 1980 (48),Peterborough United (23),3-0,?,Hereford United (36)
+?,(Sat) 15 Nov 1980 (45),Peterborough United (24),1-0,?,Lincoln City (36)
+?,(Sat) 28 Mar 1981 (12),Peterborough United (25),1-0,?,Mansfield Town (36)
+?,(Fri) 26 Dec 1980 (51),Peterborough United (26),3-0,?,Northampton Town (36)
+?,(Sat) 1 Nov 1980 (43),Peterborough United (27),1-1,?,Port Vale FC (14)
+?,(Sat) 13 Sep 1980 (36),Peterborough United (28),2-2,?,Rochdale AFC (14)
+?,(Wed) 22 Oct 1980 (42),Peterborough United (29),0-2,?,Scunthorpe United (14)
+?,(Wed) 1 Oct 1980 (39),Peterborough United (30),5-2,?,Southend United (14)
+?,(Tue) 4 Nov 1980 (44),Peterborough United (31),1-2,?,Stockport County (14)
+?,(Sat) 21 Feb 1981 (7),Peterborough United (32),1-3,?,Torquay United (14)
+?,(Wed) 18 Mar 1981 (11),Peterborough United (33),4-1,?,Tranmere Rovers (14)
+?,(Fri) 13 Mar 1981 (10),Peterborough United (34),0-0,?,Wigan Athletic (14)
+?,(Wed) 4 Mar 1981 (9),Peterborough United (35),1-1,?,Wimbledon FC (14)
+?,(Sat) 17 Jan 1981 (2),Peterborough United (36),3-0,?,York City (14)
+?,(Mon) 27 Oct 1980 (43),Port Vale FC (15),0-2,?,AFC Bournemouth (37)
+?,(Sat) 13 Sep 1980 (36),Port Vale FC (16),0-1,?,Aldershot Town FC (37)
+?,(Tue) 14 Apr 1981 (15),Port Vale FC (17),2-1,?,Bradford City (37)
+?,(Sat) 21 Feb 1981 (7),Port Vale FC (18),1-3,?,Bury FC (37)
+?,(Fri) 5 Dec 1980 (48),Port Vale FC (19),2-2,?,Crewe Alexandra (37)
+?,(Sat) 20 Sep 1980 (37),Port Vale FC (20),4-2,?,Darlington FC (37)
+?,(Sat) 16 Aug 1980 (32),Port Vale FC (21),3-0,?,Doncaster Rovers (37)
+?,(Sun) 26 Apr 1981 (16),Port Vale FC (22),0-0,?,Halifax Town (37)
+?,(Sat) 25 Oct 1980 (42),Port Vale FC (23),1-1,?,Hartlepool United (37)
+?,(Mon) 16 Mar 1981 (11),Port Vale FC (24),4-0,?,Hereford United (37)
+?,(Fri) 26 Dec 1980 (51),Port Vale FC (25),0-1,?,Lincoln City (37)
+?,(Sat) 30 Aug 1980 (34),Port Vale FC (26),0-0,?,Mansfield Town (37)
+?,(Sat) 18 Apr 1981 (15),Port Vale FC (27),1-1,?,Northampton Town (37)
+?,(Sat) 4 Apr 1981 (13),Port Vale FC (28),1-1,?,Peterborough United (37)
+?,(Sat) 8 Nov 1980 (44),Port Vale FC (29),1-1,?,Rochdale AFC (15)
+?,(Tue) 3 Mar 1981 (9),Port Vale FC (30),2-2,?,Scunthorpe United (15)
+?,(Mon) 10 Nov 1980 (45),Port Vale FC (31),1-0,?,Southend United (15)
+?,(Mon) 29 Sep 1980 (39),Port Vale FC (32),2-0,?,Stockport County (15)
+?,(Mon) 6 Oct 1980 (40),Port Vale FC (33),3-1,?,Torquay United (15)
+?,(Sat) 11 Oct 1980 (40),Port Vale FC (34),5-1,?,Tranmere Rovers (15)
+?,(Sat) 14 Feb 1981 (6),Port Vale FC (35),3-0,?,Wigan Athletic (15)
+?,(Sat) 31 Jan 1981 (4),Port Vale FC (36),2-3,?,Wimbledon FC (15)
+?,(Sat) 7 Mar 1981 (9),Port Vale FC (37),2-0,?,York City (15)
+?,(Sat) 21 Feb 1981 (7),Rochdale AFC (16),0-0,?,AFC Bournemouth (38)
+?,(Sat) 14 Mar 1981 (10),Rochdale AFC (17),0-2,?,Aldershot Town FC (38)
+?,(Sat) 20 Sep 1980 (37),Rochdale AFC (18),0-2,?,Bradford City (38)
+?,(Sat) 18 Oct 1980 (41),Rochdale AFC (19),2-1,?,Bury FC (38)
+?,(Sat) 3 Jan 1981 (0),Rochdale AFC (20),2-0,?,Crewe Alexandra (38)
+?,(Sat) 28 Mar 1981 (12),Rochdale AFC (21),0-0,?,Darlington FC (38)
+?,(Sat) 17 Jan 1981 (2),Rochdale AFC (22),2-2,?,Doncaster Rovers (38)
+?,(Fri) 26 Dec 1980 (51),Rochdale AFC (23),1-1,?,Halifax Town (38)
+?,(Sat) 23 Aug 1980 (33),Rochdale AFC (24),1-1,?,Hartlepool United (38)
+?,(Tue) 30 Sep 1980 (39),Rochdale AFC (25),0-0,?,Hereford United (38)
+?,(Tue) 4 Nov 1980 (44),Rochdale AFC (26),1-0,?,Lincoln City (38)
+?,(Sat) 1 Nov 1980 (43),Rochdale AFC (27),1-4,?,Mansfield Town (38)
+?,(Sun) 3 May 1981 (17),Rochdale AFC (28),0-1,?,Northampton Town (38)
+?,(Sat) 7 Feb 1981 (5),Rochdale AFC (29),2-3,?,Peterborough United (38)
+?,(Sun) 12 Apr 1981 (14),Rochdale AFC (30),2-1,?,Port Vale FC (38)
+?,(Tue) 19 Aug 1980 (33),Rochdale AFC (31),4-0,?,Scunthorpe United (16)
+?,(Sat) 6 Dec 1980 (48),Rochdale AFC (32),0-2,?,Southend United (16)
+?,(Fri) 12 Dec 1980 (49),Rochdale AFC (33),2-1,?,Stockport County (16)
+?,(Sat) 6 Sep 1980 (35),Rochdale AFC (34),2-1,?,Torquay United (16)
+?,(Sat) 24 Jan 1981 (3),Rochdale AFC (35),3-1,?,Tranmere Rovers (16)
+?,(Sat) 4 Oct 1980 (39),Rochdale AFC (36),3-0,?,Wigan Athletic (16)
+?,(Tue) 21 Oct 1980 (42),Rochdale AFC (37),2-0,?,Wimbledon FC (16)
+?,(Sat) 18 Apr 1981 (15),Rochdale AFC (38),3-2,?,York City (16)
+?,(Fri) 6 Mar 1981 (9),Scunthorpe United (17),1-1,?,AFC Bournemouth (39)
+?,(Sat) 16 Aug 1980 (32),Scunthorpe United (18),2-2,?,Aldershot Town FC (39)
+?,(Sat) 31 Jan 1981 (4),Scunthorpe United (19),1-0,?,Bradford City (39)
+?,(Sat) 27 Dec 1980 (51),Scunthorpe United (20),2-2,?,Bury FC (39)
+?,(Sat) 6 Sep 1980 (35),Scunthorpe United (21),1-1,?,Crewe Alexandra (39)
+?,(Tue) 30 Sep 1980 (39),Scunthorpe United (22),3-0,?,Darlington FC (39)
+?,(Tue) 28 Oct 1980 (43),Scunthorpe United (23),1-1,?,Doncaster Rovers (39)
+?,(Sat) 7 Feb 1981 (5),Scunthorpe United (24),2-2,?,Halifax Town (39)
+?,(Tue) 7 Oct 1980 (40),Scunthorpe United (25),3-3,?,Hartlepool United (39)
+?,(Sat) 8 Nov 1980 (44),Scunthorpe United (26),3-1,?,Hereford United (39)
+?,(Sat) 21 Feb 1981 (7),Scunthorpe United (27),2-2,?,Lincoln City (39)
+?,(Mon) 20 Apr 1981 (16),Scunthorpe United (28),2-0,?,Mansfield Town (39)
+?,(Sat) 11 Oct 1980 (40),Scunthorpe United (29),0-2,?,Northampton Town (39)
+?,(Sat) 10 Jan 1981 (1),Scunthorpe United (30),1-1,?,Peterborough United (39)
+?,(Tue) 24 Feb 1981 (8),Scunthorpe United (31),1-1,?,Port Vale FC (39)
+?,(Tue) 11 Nov 1980 (45),Scunthorpe United (32),1-1,?,Rochdale AFC (39)
+?,(Sun) 22 Mar 1981 (11),Scunthorpe United (33),2-1,?,Southend United (17)
+?,(Fri) 19 Sep 1980 (37),Scunthorpe United (34),2-0,?,Stockport County (17)
+?,(Sat) 25 Oct 1980 (42),Scunthorpe United (35),0-2,?,Torquay United (17)
+?,(Sat) 20 Dec 1980 (50),Scunthorpe United (36),2-0,?,Tranmere Rovers (17)
+?,(Sat) 2 May 1981 (17),Scunthorpe United (37),4-4,?,Wigan Athletic (17)
+?,(Sat) 30 Aug 1980 (34),Scunthorpe United (38),1-2,?,Wimbledon FC (17)
+?,(Sat) 4 Apr 1981 (13),Scunthorpe United (39),3-2,?,York City (17)
+?,(Fri) 17 Apr 1981 (15),Southend United (18),2-1,?,AFC Bournemouth (40)
+?,(Sat) 27 Dec 1980 (51),Southend United (19),3-0,?,Aldershot Town FC (40)
+?,(Fri) 12 Dec 1980 (49),Southend United (20),3-1,?,Bradford City (40)
+?,(Sat) 15 Nov 1980 (45),Southend United (21),1-0,?,Bury FC (40)
+?,(Fri) 27 Mar 1981 (12),Southend United (22),3-0,?,Crewe Alexandra (40)
+?,(Fri) 9 Jan 1981 (1),Southend United (23),1-0,?,Darlington FC (40)
+?,(Fri) 27 Feb 1981 (8),Southend United (24),0-0,?,Doncaster Rovers (40)
+?,(Fri) 13 Mar 1981 (10),Southend United (25),5-1,?,Halifax Town (40)
+?,(Fri) 26 Sep 1980 (38),Southend United (26),4-0,?,Hartlepool United (40)
+?,(Fri) 6 Feb 1981 (5),Southend United (27),2-0,?,Hereford United (40)
+?,(Sat) 11 Apr 1981 (14),Southend United (28),0-0,?,Lincoln City (40)
+?,(Fri) 3 Oct 1980 (39),Southend United (29),2-0,?,Mansfield Town (40)
+?,(Fri) 23 Jan 1981 (3),Southend United (30),0-0,?,Northampton Town (40)
+?,(Mon) 15 Sep 1980 (37),Southend United (31),1-0,?,Peterborough United (40)
+?,(Mon) 18 Aug 1980 (33),Southend United (32),5-1,?,Port Vale FC (40)
+?,(Fri) 1 May 1981 (17),Southend United (33),1-1,?,Rochdale AFC (40)
+?,(Fri) 17 Oct 1980 (41),Southend United (34),2-0,?,Scunthorpe United (40)
+?,(Fri) 31 Oct 1980 (43),Southend United (35),2-0,?,Stockport County (18)
+?,(Fri) 19 Dec 1980 (50),Southend United (36),3-1,?,Torquay United (18)
+?,(Wed) 20 Aug 1980 (33),Southend United (37),2-0,?,Tranmere Rovers (18)
+?,(Mon) 20 Oct 1980 (42),Southend United (38),1-0,?,Wigan Athletic (18)
+?,(Mon) 3 Nov 1980 (44),Southend United (39),1-0,?,Wimbledon FC (18)
+?,(Fri) 5 Sep 1980 (35),Southend United (40),3-0,?,York City (18)
+?,(Fri) 24 Oct 1980 (42),Stockport County (19),2-1,?,AFC Bournemouth (41)
+?,(Sat) 29 Nov 1980 (47),Stockport County (20),1-0,?,Aldershot Town FC (41)
+?,(Mon) 10 Nov 1980 (45),Stockport County (21),1-2,?,Bradford City (41)
+?,(Fri) 19 Dec 1980 (50),Stockport County (22),1-2,?,Bury FC (41)
+?,(Fri) 26 Sep 1980 (38),Stockport County (23),1-3,?,Crewe Alexandra (41)
+?,(Fri) 30 Jan 1981 (4),Stockport County (24),0-1,?,Darlington FC (41)
+?,(Fri) 7 Nov 1980 (44),Stockport County (25),2-1,?,Doncaster Rovers (41)
+?,(Fri) 29 Aug 1980 (34),Stockport County (26),1-1,?,Halifax Town (41)
+?,(Mon) 27 Oct 1980 (43),Stockport County (27),0-2,?,Hartlepool United (41)
+?,(Fri) 10 Oct 1980 (40),Stockport County (28),0-0,?,Hereford United (41)
+?,(Sat) 13 Sep 1980 (36),Stockport County (29),0-0,?,Lincoln City (41)
+?,(Fri) 1 May 1981 (17),Stockport County (30),2-1,?,Mansfield Town (41)
+?,(Fri) 6 Mar 1981 (9),Stockport County (31),1-2,?,Northampton Town (41)
+?,(Mon) 6 Oct 1980 (40),Stockport County (32),3-4,?,Peterborough United (41)
+?,(Mon) 15 Sep 1980 (37),Stockport County (33),2-1,?,Port Vale FC (41)
+?,(Sat) 16 Aug 1980 (32),Stockport County (34),2-2,?,Rochdale AFC (41)
+?,(Fri) 27 Feb 1981 (8),Stockport County (35),2-0,?,Scunthorpe United (41)
+?,(Fri) 3 Apr 1981 (13),Stockport County (36),1-0,?,Southend United (41)
+?,(Mon) 16 Feb 1981 (7),Stockport County (37),4-1,?,Torquay United (19)
+?,(Mon) 20 Apr 1981 (16),Stockport County (38),1-0,?,Tranmere Rovers (19)
+?,(Sat) 27 Dec 1980 (51),Stockport County (39),0-1,?,Wigan Athletic (19)
+?,(Fri) 13 Feb 1981 (6),Stockport County (40),0-0,?,Wimbledon FC (19)
+?,(Fri) 20 Mar 1981 (11),Stockport County (41),2-0,?,York City (19)
+?,(Sat) 30 Aug 1980 (34),Torquay United (20),2-0,?,AFC Bournemouth (42)
+?,(Sun) 29 Mar 1981 (12),Torquay United (21),2-0,?,Aldershot Town FC (42)
+?,(Sat) 13 Sep 1980 (36),Torquay United (22),2-0,?,Bradford City (42)
+?,(Sat) 14 Mar 1981 (10),Torquay United (23),3-1,?,Bury FC (42)
+?,(Sat) 15 Nov 1980 (45),Torquay United (24),1-0,?,Crewe Alexandra (42)
+?,(Sat) 1 Nov 1980 (43),Torquay United (25),0-2,?,Darlington FC (42)
+?,(Tue) 16 Sep 1980 (37),Torquay United (26),2-3,?,Doncaster Rovers (42)
+?,(Sat) 4 Oct 1980 (39),Torquay United (27),1-0,?,Halifax Town (42)
+?,(Sat) 17 Jan 1981 (2),Torquay United (28),2-1,?,Hartlepool United (42)
+?,(Sat) 18 Apr 1981 (15),Torquay United (29),0-1,?,Hereford United (42)
+?,(Wed) 20 Aug 1980 (33),Torquay United (30),1-2,?,Lincoln City (42)
+?,(Sun) 12 Apr 1981 (14),Torquay United (31),1-1,?,Mansfield Town (42)
+?,(Sat) 6 Dec 1980 (48),Torquay United (32),3-3,?,Northampton Town (42)
+?,(Sat) 27 Sep 1980 (38),Torquay United (33),2-0,?,Peterborough United (42)
+?,(Wed) 5 Nov 1980 (44),Torquay United (34),4-0,?,Port Vale FC (42)
+?,(Sat) 14 Feb 1981 (6),Torquay United (35),2-0,?,Rochdale AFC (42)
+?,(Wed) 4 Feb 1981 (5),Torquay United (36),2-1,?,Scunthorpe United (42)
+?,(Sat) 25 Apr 1981 (16),Torquay United (37),0-3,?,Southend United (42)
+?,(Wed) 22 Oct 1980 (42),Torquay United (38),1-2,?,Stockport County (42)
+?,(Sun) 1 Mar 1981 (8),Torquay United (39),2-1,?,Tranmere Rovers (20)
+?,(Sat) 18 Oct 1980 (41),Torquay United (40),2-0,?,Wigan Athletic (20)
+?,(Fri) 26 Dec 1980 (51),Torquay United (41),2-3,?,Wimbledon FC (20)
+?,(Wed) 8 Apr 1981 (14),Torquay United (42),1-2,?,York City (20)
+?,(Fri) 6 Feb 1981 (5),Tranmere Rovers (21),0-1,?,AFC Bournemouth (43)
+?,(Fri) 17 Oct 1980 (41),Tranmere Rovers (22),3-1,?,Aldershot Town FC (43)
+?,(Tue) 10 Mar 1981 (10),Tranmere Rovers (23),1-1,?,Bradford City (43)
+?,(Fri) 31 Oct 1980 (43),Tranmere Rovers (24),3-1,?,Bury FC (43)
+?,(Mon) 18 Aug 1980 (33),Tranmere Rovers (25),0-1,?,Crewe Alexandra (43)
+?,(Fri) 10 Apr 1981 (14),Tranmere Rovers (26),3-1,?,Darlington FC (43)
+?,(Fri) 17 Apr 1981 (15),Tranmere Rovers (27),1-1,?,Doncaster Rovers (43)
+?,(Mon) 20 Oct 1980 (42),Tranmere Rovers (28),2-0,?,Halifax Town (43)
+?,(Fri) 5 Dec 1980 (48),Tranmere Rovers (29),2-2,?,Hartlepool United (43)
+?,(Wed) 29 Apr 1981 (17),Tranmere Rovers (30),2-1,?,Hereford United (43)
+?,(Tue) 3 Mar 1981 (9),Tranmere Rovers (31),0-0,?,Lincoln City (43)
+?,(Mon) 3 Nov 1980 (44),Tranmere Rovers (32),1-0,?,Mansfield Town (43)
+?,(Fri) 16 Jan 1981 (2),Tranmere Rovers (33),3-2,?,Northampton Town (43)
+?,(Fri) 5 Sep 1980 (35),Tranmere Rovers (34),1-2,?,Peterborough United (43)
+?,(Tue) 24 Mar 1981 (12),Tranmere Rovers (35),1-2,?,Port Vale FC (43)
+?,(Fri) 29 Aug 1980 (34),Tranmere Rovers (36),3-1,?,Rochdale AFC (43)
+?,(Fri) 24 Apr 1981 (16),Tranmere Rovers (37),1-2,?,Scunthorpe United (43)
+?,(Fri) 30 Jan 1981 (4),Tranmere Rovers (38),2-2,?,Southend United (43)
+?,(Fri) 26 Dec 1980 (51),Tranmere Rovers (39),1-0,?,Stockport County (43)
+?,(Fri) 19 Sep 1980 (37),Tranmere Rovers (40),1-0,?,Torquay United (43)
+?,(Sun) 29 Mar 1981 (12),Tranmere Rovers (41),2-3,?,Wigan Athletic (21)
+?,(Fri) 3 Oct 1980 (39),Tranmere Rovers (42),3-0,?,Wimbledon FC (21)
+?,(Mon) 29 Sep 1980 (39),Tranmere Rovers (43),5-0,?,York City (21)
+?,(Sat) 4 Apr 1981 (13),Wigan Athletic (22),0-1,?,AFC Bournemouth (44)
+?,(Sat) 30 Aug 1980 (34),Wigan Athletic (23),1-0,?,Aldershot Town FC (44)
+?,(Sat) 8 Nov 1980 (44),Wigan Athletic (24),0-1,?,Bradford City (44)
+?,(Sat) 20 Sep 1980 (37),Wigan Athletic (25),2-1,?,Bury FC (44)
+?,(Fri) 26 Dec 1980 (51),Wigan Athletic (26),0-0,?,Crewe Alexandra (44)
+?,(Sat) 7 Feb 1981 (5),Wigan Athletic (27),3-1,?,Darlington FC (44)
+?,(Wed) 8 Oct 1980 (40),Wigan Athletic (28),3-0,?,Doncaster Rovers (44)
+?,(Wed) 1 Oct 1980 (39),Wigan Athletic (29),4-1,?,Halifax Town (44)
+?,(Sat) 16 Aug 1980 (32),Wigan Athletic (30),0-3,?,Hartlepool United (44)
+?,(Wed) 11 Feb 1981 (6),Wigan Athletic (31),1-0,?,Hereford United (44)
+?,(Sat) 31 Jan 1981 (4),Wigan Athletic (32),0-2,?,Lincoln City (44)
+?,(Sat) 21 Feb 1981 (7),Wigan Athletic (33),2-0,?,Mansfield Town (44)
+?,(Wed) 12 Nov 1980 (45),Wigan Athletic (34),3-0,?,Northampton Town (44)
+?,(Sat) 11 Oct 1980 (40),Wigan Athletic (35),1-1,?,Peterborough United (44)
+?,(Sat) 6 Sep 1980 (35),Wigan Athletic (36),1-0,?,Port Vale FC (44)
+?,(Sat) 7 Mar 1981 (9),Wigan Athletic (37),0-1,?,Rochdale AFC (44)
+?,(Sat) 6 Dec 1980 (48),Wigan Athletic (38),1-1,?,Scunthorpe United (44)
+?,(Sat) 3 Jan 1981 (0),Wigan Athletic (39),0-1,?,Southend United (44)
+?,(Sat) 18 Apr 1981 (15),Wigan Athletic (40),2-1,?,Stockport County (44)
+?,(Sat) 21 Mar 1981 (11),Wigan Athletic (41),2-0,?,Torquay United (44)
+?,(Sat) 25 Oct 1980 (42),Wigan Athletic (42),1-1,?,Tranmere Rovers (44)
+?,(Sat) 25 Apr 1981 (16),Wigan Athletic (43),1-0,?,Wimbledon FC (22)
+?,(Wed) 29 Oct 1980 (43),Wigan Athletic (44),1-0,?,York City (22)
+?,(Sat) 27 Dec 1980 (51),Wimbledon FC (23),2-0,?,AFC Bournemouth (45)
+?,(Tue) 11 Nov 1980 (45),Wimbledon FC (24),4-0,?,Aldershot Town FC (45)
+?,(Sat) 16 Aug 1980 (32),Wimbledon FC (25),2-2,?,Bradford City (45)
+?,(Sat) 2 May 1981 (17),Wimbledon FC (26),2-4,?,Bury FC (45)
+?,(Sat) 7 Feb 1981 (5),Wimbledon FC (27),2-0,?,Crewe Alexandra (45)
+?,(Sat) 6 Dec 1980 (48),Wimbledon FC (28),1-1,?,Darlington FC (45)
+?,(Sat) 4 Apr 1981 (13),Wimbledon FC (29),1-0,?,Doncaster Rovers (45)
+?,(Sat) 21 Feb 1981 (7),Wimbledon FC (30),3-0,?,Halifax Town (45)
+?,(Sat) 11 Oct 1980 (40),Wimbledon FC (31),5-0,?,Hartlepool United (45)
+?,(Sun) 22 Mar 1981 (11),Wimbledon FC (32),0-0,?,Hereford United (45)
+?,(Sat) 20 Sep 1980 (37),Wimbledon FC (33),0-1,?,Lincoln City (45)
+?,(Tue) 30 Sep 1980 (39),Wimbledon FC (34),2-1,?,Mansfield Town (45)
+?,(Sat) 8 Nov 1980 (44),Wimbledon FC (35),1-0,?,Northampton Town (45)
+?,(Tue) 28 Oct 1980 (43),Wimbledon FC (36),2-1,?,Peterborough United (45)
+?,(Sat) 23 Aug 1980 (33),Wimbledon FC (37),1-0,?,Port Vale FC (45)
+?,(Tue) 28 Apr 1981 (17),Wimbledon FC (38),4-1,?,Rochdale AFC (45)
+?,(Mon) 19 Jan 1981 (3),Wimbledon FC (39),2-2,?,Scunthorpe United (45)
+?,(Tue) 7 Oct 1980 (40),Wimbledon FC (40),0-1,?,Southend United (45)
+?,(Sat) 6 Sep 1980 (35),Wimbledon FC (41),1-2,?,Stockport County (45)
+?,(Mon) 20 Apr 1981 (16),Wimbledon FC (42),1-0,?,Torquay United (45)
+?,(Sat) 7 Mar 1981 (9),Wimbledon FC (43),2-1,?,Tranmere Rovers (45)
+?,(Tue) 31 Mar 1981 (13),Wimbledon FC (44),1-0,?,Wigan Athletic (45)
+?,(Sat) 25 Oct 1980 (42),Wimbledon FC (45),3-0,?,York City (23)
+?,(Sat) 16 Aug 1980 (32),York City (24),4-0,?,AFC Bournemouth (46)
+?,(Sat) 20 Dec 1980 (50),York City (25),4-1,?,Aldershot Town FC (46)
+?,(Sat) 2 May 1981 (17),York City (26),0-3,?,Bradford City (46)
+?,(Tue) 14 Apr 1981 (15),York City (27),0-1,?,Bury FC (46)
+?,(Sat) 11 Apr 1981 (14),York City (28),2-0,?,Crewe Alexandra (46)
+?,(Tue) 21 Oct 1980 (42),York City (29),1-2,?,Darlington FC (46)
+?,(Sat) 27 Sep 1980 (38),York City (30),0-1,?,Doncaster Rovers (46)
+?,(Tue) 4 Nov 1980 (44),York City (31),1-1,?,Halifax Town (46)
+?,(Sat) 13 Sep 1980 (36),York City (32),0-1,?,Hartlepool United (46)
+?,(Sat) 24 Jan 1981 (3),York City (33),1-2,?,Hereford United (46)
+?,(Sat) 14 Mar 1981 (10),York City (34),1-0,?,Lincoln City (46)
+?,(Tue) 11 Nov 1980 (45),York City (35),2-0,?,Mansfield Town (46)
+?,(Tue) 5 May 1981 (18),York City (36),1-2,?,Northampton Town (46)
+?,(Tue) 24 Mar 1981 (12),York City (37),1-2,?,Peterborough United (46)
+?,(Sat) 4 Oct 1980 (39),York City (38),4-1,?,Port Vale FC (46)
+?,(Sat) 27 Dec 1980 (51),York City (39),1-2,?,Rochdale AFC (46)
+?,(Sat) 1 Nov 1980 (43),York City (40),1-0,?,Scunthorpe United (46)
+?,(Sat) 14 Feb 1981 (6),York City (41),0-1,?,Southend United (46)
+?,(Sat) 18 Oct 1980 (41),York City (42),1-0,?,Stockport County (46)
+?,(Sat) 23 Aug 1980 (33),York City (43),0-0,?,Torquay United (46)
+?,(Tue) 23 Sep 1980 (38),York City (44),4-1,?,Tranmere Rovers (46)
+?,(Sat) 10 Jan 1981 (1),York City (45),2-1,?,Wigan Athletic (46)
+?,(Sat) 28 Mar 1981 (12),York City (46),0-1,?,Wimbledon FC (46)

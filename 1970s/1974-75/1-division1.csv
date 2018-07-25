@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Birmingham City,Arsenal,3-1,-
--,-,Burnley,Arsenal,3-3,-
--,-,Carlisle United,Arsenal,2-1,-
--,-,Chelsea,Arsenal,0-0,-
--,-,Coventry City,Arsenal,3-0,-
--,-,Derby County,Arsenal,2-1,-
--,-,Everton,Arsenal,2-1,-
--,-,Ipswich Town,Arsenal,3-0,-
--,-,Leeds United,Arsenal,2-0,-
--,-,Leicester City,Arsenal,0-1,-
--,-,Liverpool,Arsenal,1-3,-
--,-,Luton Town,Arsenal,2-0,-
--,-,Manchester City,Arsenal,2-1,-
--,-,Middlesbrough,Arsenal,0-0,-
--,-,Newcastle United,Arsenal,3-1,-
--,-,Queens Park Rangers,Arsenal,0-0,-
--,-,Sheffield United,Arsenal,1-1,-
--,-,Stoke City,Arsenal,0-2,-
--,-,Tottenham Hotspur,Arsenal,2-0,-
--,-,West Ham United,Arsenal,1-0,-
--,-,Wolverhampton Wanderers,Arsenal,1-0,-
--,-,Arsenal,Birmingham City,1-1,-
--,-,Burnley,Birmingham City,2-2,-
--,-,Carlisle United,Birmingham City,1-0,-
--,-,Chelsea,Birmingham City,2-1,-
--,-,Coventry City,Birmingham City,1-0,-
--,-,Derby County,Birmingham City,2-1,-
--,-,Everton,Birmingham City,4-1,-
--,-,Ipswich Town,Birmingham City,3-2,-
--,-,Leeds United,Birmingham City,1-0,-
--,-,Leicester City,Birmingham City,1-1,-
--,-,Liverpool,Birmingham City,1-0,-
--,-,Luton Town,Birmingham City,1-3,-
--,-,Manchester City,Birmingham City,3-1,-
--,-,Middlesbrough,Birmingham City,3-0,-
--,-,Newcastle United,Birmingham City,1-2,-
--,-,Queens Park Rangers,Birmingham City,0-1,-
--,-,Sheffield United,Birmingham City,3-2,-
--,-,Stoke City,Birmingham City,0-0,-
--,-,Tottenham Hotspur,Birmingham City,0-0,-
--,-,West Ham United,Birmingham City,3-0,-
--,-,Wolverhampton Wanderers,Birmingham City,0-1,-
--,-,Arsenal,Burnley,0-1,-
--,-,Birmingham City,Burnley,1-1,-
--,-,Carlisle United,Burnley,4-2,-
--,-,Chelsea,Burnley,3-3,-
--,-,Coventry City,Burnley,0-3,-
--,-,Derby County,Burnley,3-2,-
--,-,Everton,Burnley,1-1,-
--,-,Ipswich Town,Burnley,2-0,-
--,-,Leeds United,Burnley,2-2,-
--,-,Leicester City,Burnley,1-0,-
--,-,Liverpool,Burnley,0-1,-
--,-,Luton Town,Burnley,2-3,-
--,-,Manchester City,Burnley,2-0,-
--,-,Middlesbrough,Burnley,2-0,-
--,-,Newcastle United,Burnley,3-0,-
--,-,Queens Park Rangers,Burnley,0-1,-
--,-,Sheffield United,Burnley,2-2,-
--,-,Stoke City,Burnley,2-0,-
--,-,Tottenham Hotspur,Burnley,2-3,-
--,-,West Ham United,Burnley,2-1,-
--,-,Wolverhampton Wanderers,Burnley,4-2,-
--,-,Arsenal,Carlisle United,2-1,-
--,-,Birmingham City,Carlisle United,2-0,-
--,-,Burnley,Carlisle United,2-1,-
--,-,Chelsea,Carlisle United,0-2,-
--,-,Coventry City,Carlisle United,2-1,-
--,-,Derby County,Carlisle United,0-0,-
--,-,Everton,Carlisle United,2-3,-
--,-,Ipswich Town,Carlisle United,3-1,-
--,-,Leeds United,Carlisle United,3-1,-
--,-,Leicester City,Carlisle United,1-1,-
--,-,Liverpool,Carlisle United,2-0,-
--,-,Luton Town,Carlisle United,3-1,-
--,-,Manchester City,Carlisle United,1-2,-
--,-,Middlesbrough,Carlisle United,0-2,-
--,-,Newcastle United,Carlisle United,1-0,-
--,-,Queens Park Rangers,Carlisle United,2-1,-
--,-,Sheffield United,Carlisle United,2-1,-
--,-,Stoke City,Carlisle United,5-2,-
--,-,Tottenham Hotspur,Carlisle United,1-1,-
--,-,West Ham United,Carlisle United,2-0,-
--,-,Wolverhampton Wanderers,Carlisle United,2-0,-
--,-,Arsenal,Chelsea,1-2,-
--,-,Birmingham City,Chelsea,2-0,-
--,-,Burnley,Chelsea,1-2,-
--,-,Carlisle United,Chelsea,1-2,-
--,-,Coventry City,Chelsea,1-3,-
--,-,Derby County,Chelsea,4-1,-
--,-,Everton,Chelsea,1-1,-
--,-,Ipswich Town,Chelsea,2-0,-
--,-,Leeds United,Chelsea,2-0,-
--,-,Leicester City,Chelsea,1-1,-
--,-,Liverpool,Chelsea,2-2,-
--,-,Luton Town,Chelsea,1-1,-
--,-,Manchester City,Chelsea,1-1,-
--,-,Middlesbrough,Chelsea,1-1,-
--,-,Newcastle United,Chelsea,5-0,-
--,-,Queens Park Rangers,Chelsea,1-0,-
--,-,Sheffield United,Chelsea,2-1,-
--,-,Stoke City,Chelsea,3-0,-
--,-,Tottenham Hotspur,Chelsea,2-0,-
--,-,West Ham United,Chelsea,0-1,-
--,-,Wolverhampton Wanderers,Chelsea,7-1,-
--,-,Arsenal,Coventry City,2-0,-
--,-,Birmingham City,Coventry City,1-2,-
--,-,Burnley,Coventry City,3-0,-
--,-,Carlisle United,Coventry City,0-0,-
--,-,Chelsea,Coventry City,3-3,-
--,-,Derby County,Coventry City,1-1,-
--,-,Everton,Coventry City,1-0,-
--,-,Ipswich Town,Coventry City,4-0,-
--,-,Leeds United,Coventry City,0-0,-
--,-,Leicester City,Coventry City,0-1,-
--,-,Liverpool,Coventry City,2-1,-
--,-,Luton Town,Coventry City,1-3,-
--,-,Manchester City,Coventry City,1-0,-
--,-,Middlesbrough,Coventry City,4-4,-
--,-,Newcastle United,Coventry City,3-2,-
--,-,Queens Park Rangers,Coventry City,2-0,-
--,-,Sheffield United,Coventry City,1-0,-
--,-,Stoke City,Coventry City,2-0,-
--,-,Tottenham Hotspur,Coventry City,1-1,-
--,-,West Ham United,Coventry City,1-2,-
--,-,Wolverhampton Wanderers,Coventry City,2-0,-
--,-,Arsenal,Derby County,3-1,-
--,-,Birmingham City,Derby County,3-2,-
--,-,Burnley,Derby County,2-5,-
--,-,Carlisle United,Derby County,3-0,-
--,-,Chelsea,Derby County,1-2,-
--,-,Coventry City,Derby County,1-1,-
--,-,Everton,Derby County,0-0,-
--,-,Ipswich Town,Derby County,3-0,-
--,-,Leeds United,Derby County,0-1,-
--,-,Leicester City,Derby County,0-0,-
--,-,Liverpool,Derby County,2-2,-
--,-,Luton Town,Derby County,1-0,-
--,-,Manchester City,Derby County,1-2,-
--,-,Middlesbrough,Derby County,1-1,-
--,-,Newcastle United,Derby County,0-2,-
--,-,Queens Park Rangers,Derby County,4-1,-
--,-,Sheffield United,Derby County,1-2,-
--,-,Stoke City,Derby County,1-1,-
--,-,Tottenham Hotspur,Derby County,2-0,-
--,-,West Ham United,Derby County,2-2,-
--,-,Wolverhampton Wanderers,Derby County,0-1,-
--,-,Arsenal,Everton,0-2,-
--,-,Birmingham City,Everton,0-3,-
--,-,Burnley,Everton,1-1,-
--,-,Carlisle United,Everton,3-0,-
--,-,Chelsea,Everton,1-1,-
--,-,Coventry City,Everton,1-1,-
--,-,Derby County,Everton,0-1,-
--,-,Ipswich Town,Everton,1-0,-
--,-,Leeds United,Everton,0-0,-
--,-,Leicester City,Everton,0-2,-
--,-,Liverpool,Everton,0-0,-
--,-,Luton Town,Everton,2-1,-
--,-,Manchester City,Everton,2-1,-
--,-,Middlesbrough,Everton,2-0,-
--,-,Newcastle United,Everton,0-1,-
--,-,Queens Park Rangers,Everton,2-2,-
--,-,Sheffield United,Everton,2-2,-
--,-,Stoke City,Everton,1-1,-
--,-,Tottenham Hotspur,Everton,1-1,-
--,-,West Ham United,Everton,2-3,-
--,-,Wolverhampton Wanderers,Everton,2-0,-
--,-,Arsenal,Ipswich Town,0-1,-
--,-,Birmingham City,Ipswich Town,0-1,-
--,-,Burnley,Ipswich Town,1-0,-
--,-,Carlisle United,Ipswich Town,2-1,-
--,-,Chelsea,Ipswich Town,0-0,-
--,-,Coventry City,Ipswich Town,3-1,-
--,-,Derby County,Ipswich Town,2-0,-
--,-,Everton,Ipswich Town,1-1,-
--,-,Leeds United,Ipswich Town,2-1,-
--,-,Leicester City,Ipswich Town,0-1,-
--,-,Liverpool,Ipswich Town,5-2,-
--,-,Luton Town,Ipswich Town,1-4,-
--,-,Manchester City,Ipswich Town,1-1,-
--,-,Middlesbrough,Ipswich Town,3-0,-
--,-,Newcastle United,Ipswich Town,1-0,-
--,-,Queens Park Rangers,Ipswich Town,1-0,-
--,-,Sheffield United,Ipswich Town,3-1,-
--,-,Stoke City,Ipswich Town,1-2,-
--,-,Tottenham Hotspur,Ipswich Town,0-1,-
--,-,West Ham United,Ipswich Town,1-0,-
--,-,Wolverhampton Wanderers,Ipswich Town,2-1,-
--,-,Arsenal,Leeds United,1-2,-
--,-,Birmingham City,Leeds United,1-0,-
--,-,Burnley,Leeds United,2-1,-
--,-,Carlisle United,Leeds United,1-2,-
--,-,Chelsea,Leeds United,0-2,-
--,-,Coventry City,Leeds United,1-3,-
--,-,Derby County,Leeds United,0-0,-
--,-,Everton,Leeds United,3-2,-
--,-,Ipswich Town,Leeds United,0-0,-
--,-,Leicester City,Leeds United,0-2,-
--,-,Liverpool,Leeds United,1-0,-
--,-,Luton Town,Leeds United,2-1,-
--,-,Manchester City,Leeds United,2-1,-
--,-,Middlesbrough,Leeds United,0-1,-
--,-,Newcastle United,Leeds United,3-0,-
--,-,Queens Park Rangers,Leeds United,1-1,-
--,-,Sheffield United,Leeds United,1-1,-
--,-,Stoke City,Leeds United,3-0,-
--,-,Tottenham Hotspur,Leeds United,4-2,-
--,-,West Ham United,Leeds United,2-1,-
--,-,Wolverhampton Wanderers,Leeds United,1-1,-
--,-,Arsenal,Leicester City,0-0,-
--,-,Birmingham City,Leicester City,3-4,-
--,-,Burnley,Leicester City,2-0,-
--,-,Carlisle United,Leicester City,0-1,-
--,-,Chelsea,Leicester City,0-0,-
--,-,Coventry City,Leicester City,2-2,-
--,-,Derby County,Leicester City,1-0,-
--,-,Everton,Leicester City,3-0,-
--,-,Ipswich Town,Leicester City,2-1,-
--,-,Leeds United,Leicester City,2-2,-
--,-,Liverpool,Leicester City,2-1,-
--,-,Luton Town,Leicester City,3-0,-
--,-,Manchester City,Leicester City,4-1,-
--,-,Middlesbrough,Leicester City,3-0,-
--,-,Newcastle United,Leicester City,0-1,-
--,-,Queens Park Rangers,Leicester City,4-2,-
--,-,Sheffield United,Leicester City,4-0,-
--,-,Stoke City,Leicester City,1-0,-
--,-,Tottenham Hotspur,Leicester City,0-3,-
--,-,West Ham United,Leicester City,6-2,-
--,-,Wolverhampton Wanderers,Leicester City,1-1,-
--,-,Arsenal,Liverpool,2-0,-
--,-,Birmingham City,Liverpool,3-1,-
--,-,Burnley,Liverpool,1-1,-
--,-,Carlisle United,Liverpool,0-1,-
--,-,Chelsea,Liverpool,0-3,-
--,-,Coventry City,Liverpool,1-1,-
--,-,Derby County,Liverpool,2-0,-
--,-,Everton,Liverpool,0-0,-
--,-,Ipswich Town,Liverpool,1-0,-
--,-,Leeds United,Liverpool,0-2,-
--,-,Leicester City,Liverpool,1-1,-
--,-,Luton Town,Liverpool,1-2,-
--,-,Manchester City,Liverpool,2-0,-
--,-,Middlesbrough,Liverpool,1-0,-
--,-,Newcastle United,Liverpool,4-1,-
--,-,Queens Park Rangers,Liverpool,0-1,-
--,-,Sheffield United,Liverpool,1-0,-
--,-,Stoke City,Liverpool,2-0,-
--,-,Tottenham Hotspur,Liverpool,0-2,-
--,-,West Ham United,Liverpool,0-0,-
--,-,Wolverhampton Wanderers,Liverpool,0-0,-
--,-,Arsenal,Luton Town,2-2,-
--,-,Birmingham City,Luton Town,1-4,-
--,-,Burnley,Luton Town,1-0,-
--,-,Carlisle United,Luton Town,1-2,-
--,-,Chelsea,Luton Town,2-0,-
--,-,Coventry City,Luton Town,2-1,-
--,-,Derby County,Luton Town,5-0,-
--,-,Everton,Luton Town,3-1,-
--,-,Ipswich Town,Luton Town,0-1,-
--,-,Leeds United,Luton Town,1-1,-
--,-,Leicester City,Luton Town,0-0,-
--,-,Liverpool,Luton Town,2-0,-
--,-,Manchester City,Luton Town,1-0,-
--,-,Middlesbrough,Luton Town,1-1,-
--,-,Newcastle United,Luton Town,1-0,-
--,-,Queens Park Rangers,Luton Town,2-1,-
--,-,Sheffield United,Luton Town,1-1,-
--,-,Stoke City,Luton Town,4-2,-
--,-,Tottenham Hotspur,Luton Town,2-1,-
--,-,West Ham United,Luton Town,2-0,-
--,-,Wolverhampton Wanderers,Luton Town,5-2,-
--,-,Arsenal,Manchester City,4-0,-
--,-,Birmingham City,Manchester City,4-0,-
--,-,Burnley,Manchester City,2-1,-
--,-,Carlisle United,Manchester City,0-0,-
--,-,Chelsea,Manchester City,0-1,-
--,-,Coventry City,Manchester City,2-2,-
--,-,Derby County,Manchester City,2-1,-
--,-,Everton,Manchester City,2-0,-
--,-,Ipswich Town,Manchester City,1-1,-
--,-,Leeds United,Manchester City,2-2,-
--,-,Leicester City,Manchester City,1-0,-
--,-,Liverpool,Manchester City,4-1,-
--,-,Luton Town,Manchester City,1-1,-
--,-,Middlesbrough,Manchester City,3-0,-
--,-,Newcastle United,Manchester City,2-1,-
--,-,Queens Park Rangers,Manchester City,2-0,-
--,-,Sheffield United,Manchester City,1-1,-
--,-,Stoke City,Manchester City,4-0,-
--,-,Tottenham Hotspur,Manchester City,1-2,-
--,-,West Ham United,Manchester City,0-0,-
--,-,Wolverhampton Wanderers,Manchester City,1-0,-
--,-,Arsenal,Middlesbrough,2-0,-
--,-,Birmingham City,Middlesbrough,0-3,-
--,-,Burnley,Middlesbrough,1-1,-
--,-,Carlisle United,Middlesbrough,0-1,-
--,-,Chelsea,Middlesbrough,1-2,-
--,-,Coventry City,Middlesbrough,0-2,-
--,-,Derby County,Middlesbrough,2-3,-
--,-,Everton,Middlesbrough,1-1,-
--,-,Ipswich Town,Middlesbrough,2-0,-
--,-,Leeds United,Middlesbrough,2-2,-
--,-,Leicester City,Middlesbrough,1-0,-
--,-,Liverpool,Middlesbrough,2-0,-
--,-,Luton Town,Middlesbrough,0-1,-
--,-,Manchester City,Middlesbrough,2-1,-
--,-,Newcastle United,Middlesbrough,2-1,-
--,-,Queens Park Rangers,Middlesbrough,0-0,-
--,-,Sheffield United,Middlesbrough,1-0,-
--,-,Stoke City,Middlesbrough,1-1,-
--,-,Tottenham Hotspur,Middlesbrough,1-2,-
--,-,West Ham United,Middlesbrough,3-0,-
--,-,Wolverhampton Wanderers,Middlesbrough,2-0,-
--,-,Arsenal,Newcastle United,3-0,-
--,-,Birmingham City,Newcastle United,3-0,-
--,-,Burnley,Newcastle United,4-1,-
--,-,Carlisle United,Newcastle United,1-2,-
--,-,Chelsea,Newcastle United,3-2,-
--,-,Coventry City,Newcastle United,2-0,-
--,-,Derby County,Newcastle United,2-2,-
--,-,Everton,Newcastle United,1-1,-
--,-,Ipswich Town,Newcastle United,5-4,-
--,-,Leeds United,Newcastle United,1-1,-
--,-,Leicester City,Newcastle United,4-0,-
--,-,Liverpool,Newcastle United,4-0,-
--,-,Luton Town,Newcastle United,1-0,-
--,-,Manchester City,Newcastle United,5-1,-
--,-,Middlesbrough,Newcastle United,0-0,-
--,-,Queens Park Rangers,Newcastle United,1-2,-
--,-,Sheffield United,Newcastle United,2-1,-
--,-,Stoke City,Newcastle United,0-0,-
--,-,Tottenham Hotspur,Newcastle United,3-0,-
--,-,West Ham United,Newcastle United,0-1,-
--,-,Wolverhampton Wanderers,Newcastle United,4-2,-
--,-,Arsenal,Queens Park Rangers,2-2,-
--,-,Birmingham City,Queens Park Rangers,4-1,-
--,-,Burnley,Queens Park Rangers,3-0,-
--,-,Carlisle United,Queens Park Rangers,1-2,-
--,-,Chelsea,Queens Park Rangers,0-3,-
--,-,Coventry City,Queens Park Rangers,1-1,-
--,-,Derby County,Queens Park Rangers,5-2,-
--,-,Everton,Queens Park Rangers,2-1,-
--,-,Ipswich Town,Queens Park Rangers,2-1,-
--,-,Leeds United,Queens Park Rangers,0-1,-
--,-,Leicester City,Queens Park Rangers,3-1,-
--,-,Liverpool,Queens Park Rangers,3-1,-
--,-,Luton Town,Queens Park Rangers,1-1,-
--,-,Manchester City,Queens Park Rangers,1-0,-
--,-,Middlesbrough,Queens Park Rangers,1-3,-
--,-,Newcastle United,Queens Park Rangers,2-2,-
--,-,Sheffield United,Queens Park Rangers,1-1,-
--,-,Stoke City,Queens Park Rangers,1-0,-
--,-,Tottenham Hotspur,Queens Park Rangers,1-2,-
--,-,West Ham United,Queens Park Rangers,2-2,-
--,-,Wolverhampton Wanderers,Queens Park Rangers,1-2,-
--,-,Arsenal,Sheffield United,1-0,-
--,-,Birmingham City,Sheffield United,0-0,-
--,-,Burnley,Sheffield United,2-1,-
--,-,Carlisle United,Sheffield United,0-1,-
--,-,Chelsea,Sheffield United,1-1,-
--,-,Coventry City,Sheffield United,2-2,-
--,-,Derby County,Sheffield United,2-0,-
--,-,Everton,Sheffield United,2-3,-
--,-,Ipswich Town,Sheffield United,0-1,-
--,-,Leeds United,Sheffield United,5-1,-
--,-,Leicester City,Sheffield United,3-0,-
--,-,Liverpool,Sheffield United,0-0,-
--,-,Luton Town,Sheffield United,0-1,-
--,-,Manchester City,Sheffield United,3-2,-
--,-,Middlesbrough,Sheffield United,1-0,-
--,-,Newcastle United,Sheffield United,2-2,-
--,-,Queens Park Rangers,Sheffield United,1-0,-
--,-,Stoke City,Sheffield United,3-2,-
--,-,Tottenham Hotspur,Sheffield United,1-3,-
--,-,West Ham United,Sheffield United,1-2,-
--,-,Wolverhampton Wanderers,Sheffield United,1-1,-
--,-,Arsenal,Stoke City,1-1,-
--,-,Birmingham City,Stoke City,0-3,-
--,-,Burnley,Stoke City,0-0,-
--,-,Carlisle United,Stoke City,0-2,-
--,-,Chelsea,Stoke City,3-3,-
--,-,Coventry City,Stoke City,2-0,-
--,-,Derby County,Stoke City,1-2,-
--,-,Everton,Stoke City,2-1,-
--,-,Ipswich Town,Stoke City,3-1,-
--,-,Leeds United,Stoke City,3-1,-
--,-,Leicester City,Stoke City,1-1,-
--,-,Liverpool,Stoke City,3-0,-
--,-,Luton Town,Stoke City,0-0,-
--,-,Manchester City,Stoke City,1-0,-
--,-,Middlesbrough,Stoke City,2-0,-
--,-,Newcastle United,Stoke City,2-2,-
--,-,Queens Park Rangers,Stoke City,0-1,-
--,-,Sheffield United,Stoke City,2-0,-
--,-,Tottenham Hotspur,Stoke City,0-2,-
--,-,West Ham United,Stoke City,2-2,-
--,-,Wolverhampton Wanderers,Stoke City,2-2,-
--,-,Arsenal,Tottenham Hotspur,1-0,-
--,-,Birmingham City,Tottenham Hotspur,1-0,-
--,-,Burnley,Tottenham Hotspur,3-2,-
--,-,Carlisle United,Tottenham Hotspur,1-0,-
--,-,Chelsea,Tottenham Hotspur,1-0,-
--,-,Coventry City,Tottenham Hotspur,1-1,-
--,-,Derby County,Tottenham Hotspur,3-1,-
--,-,Everton,Tottenham Hotspur,1-0,-
--,-,Ipswich Town,Tottenham Hotspur,4-0,-
--,-,Leeds United,Tottenham Hotspur,2-1,-
--,-,Leicester City,Tottenham Hotspur,1-2,-
--,-,Liverpool,Tottenham Hotspur,5-2,-
--,-,Luton Town,Tottenham Hotspur,1-1,-
--,-,Manchester City,Tottenham Hotspur,1-0,-
--,-,Middlesbrough,Tottenham Hotspur,3-0,-
--,-,Newcastle United,Tottenham Hotspur,2-5,-
--,-,Queens Park Rangers,Tottenham Hotspur,0-1,-
--,-,Sheffield United,Tottenham Hotspur,0-1,-
--,-,Stoke City,Tottenham Hotspur,2-2,-
--,-,West Ham United,Tottenham Hotspur,1-1,-
--,-,Wolverhampton Wanderers,Tottenham Hotspur,2-3,-
--,-,Arsenal,West Ham United,3-0,-
--,-,Birmingham City,West Ham United,1-1,-
--,-,Burnley,West Ham United,3-5,-
--,-,Carlisle United,West Ham United,0-1,-
--,-,Chelsea,West Ham United,1-1,-
--,-,Coventry City,West Ham United,1-1,-
--,-,Derby County,West Ham United,1-0,-
--,-,Everton,West Ham United,1-1,-
--,-,Ipswich Town,West Ham United,4-1,-
--,-,Leeds United,West Ham United,2-1,-
--,-,Leicester City,West Ham United,3-0,-
--,-,Liverpool,West Ham United,1-1,-
--,-,Luton Town,West Ham United,0-0,-
--,-,Manchester City,West Ham United,4-0,-
--,-,Middlesbrough,West Ham United,0-0,-
--,-,Newcastle United,West Ham United,2-0,-
--,-,Queens Park Rangers,West Ham United,0-2,-
--,-,Sheffield United,West Ham United,3-2,-
--,-,Stoke City,West Ham United,2-1,-
--,-,Tottenham Hotspur,West Ham United,2-1,-
--,-,Wolverhampton Wanderers,West Ham United,3-1,-
--,-,Arsenal,Wolverhampton Wanderers,0-0,-
--,-,Birmingham City,Wolverhampton Wanderers,1-1,-
--,-,Burnley,Wolverhampton Wanderers,1-2,-
--,-,Carlisle United,Wolverhampton Wanderers,1-0,-
--,-,Chelsea,Wolverhampton Wanderers,0-1,-
--,-,Coventry City,Wolverhampton Wanderers,2-1,-
--,-,Derby County,Wolverhampton Wanderers,1-0,-
--,-,Everton,Wolverhampton Wanderers,0-0,-
--,-,Ipswich Town,Wolverhampton Wanderers,2-0,-
--,-,Leeds United,Wolverhampton Wanderers,2-0,-
--,-,Leicester City,Wolverhampton Wanderers,3-2,-
--,-,Liverpool,Wolverhampton Wanderers,2-0,-
--,-,Luton Town,Wolverhampton Wanderers,3-2,-
--,-,Manchester City,Wolverhampton Wanderers,0-0,-
--,-,Middlesbrough,Wolverhampton Wanderers,2-1,-
--,-,Newcastle United,Wolverhampton Wanderers,0-0,-
--,-,Queens Park Rangers,Wolverhampton Wanderers,2-0,-
--,-,Sheffield United,Wolverhampton Wanderers,1-0,-
--,-,Stoke City,Wolverhampton Wanderers,2-2,-
--,-,Tottenham Hotspur,Wolverhampton Wanderers,3-0,-
--,-,West Ham United,Wolverhampton Wanderers,5-2,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 15 Mar 1975 (10),Arsenal FC (1),1-1,?,Birmingham City (1)
+?,(Sat) 7 Sep 1974 (35),Arsenal FC (2),0-1,?,Burnley FC (1)
+?,(Sat) 11 Jan 1975 (1),Arsenal FC (3),2-1,?,Carlisle United (1)
+?,(Thu) 26 Dec 1974 (51),Arsenal FC (4),1-2,?,Chelsea FC (1)
+?,(Tue) 8 Apr 1975 (14),Arsenal FC (5),2-0,?,Coventry City (1)
+?,(Sat) 16 Nov 1974 (45),Arsenal FC (6),3-1,?,Derby County (1)
+?,(Sat) 1 Mar 1975 (8),Arsenal FC (7),0-2,?,Everton FC (1)
+?,(Tue) 20 Aug 1974 (33),Arsenal FC (8),0-1,?,Ipswich Town (1)
+?,(Sat) 12 Apr 1975 (14),Arsenal FC (9),1-2,?,Leeds United (1)
+?,(Sat) 14 Dec 1974 (49),Arsenal FC (10),0-0,?,Leicester City (1)
+?,(Sat) 1 Feb 1975 (4),Arsenal FC (11),2-0,?,Liverpool FC (1)
+?,(Sat) 21 Sep 1974 (37),Arsenal FC (12),2-2,?,Luton Town (1)
+?,(Sat) 24 Aug 1974 (33),Arsenal FC (13),4-0,?,Manchester City (1)
+?,(Sat) 30 Nov 1974 (47),Arsenal FC (14),2-0,?,Middlesbrough FC (1)
+?,(Tue) 18 Mar 1975 (11),Arsenal FC (15),3-0,?,Newcastle United (1)
+?,(Sat) 12 Oct 1974 (40),Arsenal FC (16),2-2,?,Queens Park Rangers (1)
+?,(Mon) 31 Mar 1975 (13),Arsenal FC (17),1-0,?,Sheffield United FC (1)
+?,(Sat) 29 Mar 1975 (12),Arsenal FC (18),1-1,?,Stoke City (1)
+?,(Sat) 26 Apr 1975 (16),Arsenal FC (19),1-0,?,Tottenham Hotspur (1)
+?,(Sat) 26 Oct 1974 (42),Arsenal FC (20),3-0,?,West Ham United (1)
+?,(Sat) 2 Nov 1974 (43),Arsenal FC (21),0-0,?,Wolverhampton Wanderers (1)
+?,(Sat) 28 Sep 1974 (38),Birmingham City (2),3-1,?,Arsenal FC (22)
+?,(Sat) 1 Feb 1975 (4),Birmingham City (3),1-1,?,Burnley FC (2)
+?,(Tue) 25 Mar 1975 (12),Birmingham City (4),2-0,?,Carlisle United (2)
+?,(Sat) 2 Nov 1974 (43),Birmingham City (5),2-0,?,Chelsea FC (2)
+?,(Sat) 5 Oct 1974 (39),Birmingham City (6),1-2,?,Coventry City (2)
+?,(Sat) 14 Sep 1974 (36),Birmingham City (7),3-2,?,Derby County (2)
+?,(Sat) 18 Jan 1975 (2),Birmingham City (8),0-3,?,Everton FC (2)
+?,(Sat) 28 Dec 1974 (51),Birmingham City (9),0-1,?,Ipswich Town (2)
+?,(Tue) 15 Oct 1974 (41),Birmingham City (10),1-0,?,Leeds United (2)
+?,(Tue) 20 Aug 1974 (33),Birmingham City (11),3-4,?,Leicester City (2)
+?,(Sat) 21 Dec 1974 (50),Birmingham City (12),3-1,?,Liverpool FC (2)
+?,(Sat) 19 Apr 1975 (15),Birmingham City (13),1-4,?,Luton Town (2)
+?,(Sat) 16 Nov 1974 (45),Birmingham City (14),4-0,?,Manchester City (2)
+?,(Sat) 17 Aug 1974 (32),Birmingham City (15),0-3,?,Middlesbrough FC (2)
+?,(Sat) 19 Oct 1974 (41),Birmingham City (16),3-0,?,Newcastle United (2)
+?,(Sat) 22 Mar 1975 (11),Birmingham City (17),4-1,?,Queens Park Rangers (2)
+?,(Tue) 29 Apr 1975 (17),Birmingham City (18),0-0,?,Sheffield United FC (2)
+?,(Sat) 7 Dec 1974 (48),Birmingham City (19),0-3,?,Stoke City (2)
+?,(Tue) 18 Feb 1975 (7),Birmingham City (20),1-0,?,Tottenham Hotspur (2)
+?,(Tue) 18 Mar 1975 (11),Birmingham City (21),1-1,?,West Ham United (2)
+?,(Sat) 31 Aug 1974 (34),Birmingham City (22),1-1,?,Wolverhampton Wanderers (2)
+?,(Sat) 22 Mar 1975 (11),Burnley FC (3),3-3,?,Arsenal FC (23)
+?,(Sat) 9 Nov 1974 (44),Burnley FC (4),2-2,?,Birmingham City (23)
+?,(Sat) 28 Dec 1974 (51),Burnley FC (5),2-1,?,Carlisle United (3)
+?,(Tue) 27 Aug 1974 (34),Burnley FC (6),1-2,?,Chelsea FC (3)
+?,(Sat) 31 Aug 1974 (34),Burnley FC (7),3-0,?,Coventry City (3)
+?,(Mon) 31 Mar 1975 (13),Burnley FC (8),2-5,?,Derby County (3)
+?,(Sat) 26 Oct 1974 (42),Burnley FC (9),1-1,?,Everton FC (3)
+?,(Tue) 15 Oct 1974 (41),Burnley FC (10),1-0,?,Ipswich Town (3)
+?,(Sat) 14 Sep 1974 (36),Burnley FC (11),2-1,?,Leeds United (3)
+?,(Sat) 8 Feb 1975 (5),Burnley FC (12),2-0,?,Leicester City (3)
+?,(Sat) 8 Mar 1975 (9),Burnley FC (13),1-1,?,Liverpool FC (3)
+?,(Sat) 18 Jan 1975 (2),Burnley FC (14),1-0,?,Luton Town (3)
+?,(Sat) 12 Oct 1974 (40),Burnley FC (15),2-1,?,Manchester City (3)
+?,(Sat) 21 Dec 1974 (50),Burnley FC (16),1-1,?,Middlesbrough FC (3)
+?,(Sat) 23 Nov 1974 (46),Burnley FC (17),4-1,?,Newcastle United (3)
+?,(Sat) 7 Dec 1974 (48),Burnley FC (18),3-0,?,Queens Park Rangers (3)
+?,(Sat) 22 Feb 1975 (7),Burnley FC (19),2-1,?,Sheffield United FC (3)
+?,(Sat) 26 Apr 1975 (16),Burnley FC (20),0-0,?,Stoke City (3)
+?,(Sat) 12 Apr 1975 (14),Burnley FC (21),3-2,?,Tottenham Hotspur (3)
+?,(Sat) 28 Sep 1974 (38),Burnley FC (22),3-5,?,West Ham United (3)
+?,(Sat) 17 Aug 1974 (32),Burnley FC (23),1-2,?,Wolverhampton Wanderers (3)
+?,(Sat) 7 Dec 1974 (48),Carlisle United (4),2-1,?,Arsenal FC (24)
+?,(Sat) 21 Sep 1974 (37),Carlisle United (5),1-0,?,Birmingham City (24)
+?,(Tue) 1 Apr 1975 (13),Carlisle United (6),4-2,?,Burnley FC (24)
+?,(Sat) 14 Dec 1974 (49),Carlisle United (7),1-2,?,Chelsea FC (4)
+?,(Sat) 5 Apr 1975 (13),Carlisle United (8),0-0,?,Coventry City (4)
+?,(Sat) 19 Oct 1974 (41),Carlisle United (9),3-0,?,Derby County (4)
+?,(Sat) 29 Mar 1975 (12),Carlisle United (10),3-0,?,Everton FC (4)
+?,(Sat) 18 Jan 1975 (2),Carlisle United (11),2-1,?,Ipswich Town (4)
+?,(Sat) 23 Nov 1974 (46),Carlisle United (12),1-2,?,Leeds United (4)
+?,(Sat) 1 Mar 1975 (8),Carlisle United (13),0-1,?,Leicester City (4)
+?,(Sat) 5 Oct 1974 (39),Carlisle United (14),0-1,?,Liverpool FC (4)
+?,(Sat) 15 Mar 1975 (10),Carlisle United (15),1-2,?,Luton Town (4)
+?,(Tue) 24 Sep 1974 (38),Carlisle United (16),0-0,?,Manchester City (4)
+?,(Tue) 27 Aug 1974 (34),Carlisle United (17),0-1,?,Middlesbrough FC (4)
+?,(Thu) 26 Dec 1974 (51),Carlisle United (18),1-2,?,Newcastle United (4)
+?,(Sat) 22 Feb 1975 (7),Carlisle United (19),1-2,?,Queens Park Rangers (4)
+?,(Sat) 8 Feb 1975 (5),Carlisle United (20),0-1,?,Sheffield United FC (4)
+?,(Sat) 7 Sep 1974 (35),Carlisle United (21),0-2,?,Stoke City (4)
+?,(Sat) 24 Aug 1974 (33),Carlisle United (22),1-0,?,Tottenham Hotspur (4)
+?,(Sat) 9 Nov 1974 (44),Carlisle United (23),0-1,?,West Ham United (4)
+?,(Sat) 19 Apr 1975 (15),Carlisle United (24),1-0,?,Wolverhampton Wanderers (4)
+?,(Sat) 14 Sep 1974 (36),Chelsea FC (5),0-0,?,Arsenal FC (25)
+?,(Sat) 8 Feb 1975 (5),Chelsea FC (6),2-1,?,Birmingham City (25)
+?,(Wed) 21 Aug 1974 (33),Chelsea FC (7),3-3,?,Burnley FC (25)
+?,(Sat) 17 Aug 1974 (32),Chelsea FC (8),0-2,?,Carlisle United (25)
+?,(Wed) 13 Nov 1974 (45),Chelsea FC (9),3-3,?,Coventry City (5)
+?,(Sat) 8 Mar 1975 (9),Chelsea FC (10),1-2,?,Derby County (5)
+?,(Sat) 26 Apr 1975 (16),Chelsea FC (11),1-1,?,Everton FC (5)
+?,(Mon) 31 Mar 1975 (13),Chelsea FC (12),0-0,?,Ipswich Town (5)
+?,(Sat) 18 Jan 1975 (2),Chelsea FC (13),0-2,?,Leeds United (5)
+?,(Sat) 9 Nov 1974 (44),Chelsea FC (14),0-0,?,Leicester City (5)
+?,(Sat) 31 Aug 1974 (34),Chelsea FC (15),0-3,?,Liverpool FC (5)
+?,(Sat) 7 Dec 1974 (48),Chelsea FC (16),2-0,?,Luton Town (5)
+?,(Sat) 12 Apr 1975 (14),Chelsea FC (17),0-1,?,Manchester City (5)
+?,(Sat) 22 Mar 1975 (11),Chelsea FC (18),1-2,?,Middlesbrough FC (5)
+?,(Sat) 22 Feb 1975 (7),Chelsea FC (19),3-2,?,Newcastle United (5)
+?,(Sat) 28 Dec 1974 (51),Chelsea FC (20),0-3,?,Queens Park Rangers (5)
+?,(Wed) 23 Apr 1975 (16),Chelsea FC (21),1-1,?,Sheffield United FC (5)
+?,(Sat) 26 Oct 1974 (42),Chelsea FC (22),3-3,?,Stoke City (5)
+?,(Sat) 12 Oct 1974 (40),Chelsea FC (23),1-0,?,Tottenham Hotspur (5)
+?,(Sat) 21 Dec 1974 (50),Chelsea FC (24),1-1,?,West Ham United (5)
+?,(Sat) 28 Sep 1974 (38),Chelsea FC (25),0-1,?,Wolverhampton Wanderers (5)
+?,(Sat) 23 Nov 1974 (46),Coventry City (6),3-0,?,Arsenal FC (26)
+?,(Sat) 12 Apr 1975 (14),Coventry City (7),1-0,?,Birmingham City (26)
+?,(Sat) 1 Mar 1975 (8),Coventry City (8),0-3,?,Burnley FC (26)
+?,(Sat) 26 Oct 1974 (42),Coventry City (9),2-1,?,Carlisle United (26)
+?,(Sat) 24 Aug 1974 (33),Coventry City (10),1-3,?,Chelsea FC (26)
+?,(Tue) 27 Aug 1974 (34),Coventry City (11),1-1,?,Derby County (6)
+?,(Sat) 21 Sep 1974 (37),Coventry City (12),1-1,?,Everton FC (6)
+?,(Sat) 22 Feb 1975 (7),Coventry City (13),3-1,?,Ipswich Town (6)
+?,(Sat) 9 Nov 1974 (44),Coventry City (14),1-3,?,Leeds United (6)
+?,(Sat) 15 Mar 1975 (10),Coventry City (15),2-2,?,Leicester City (6)
+?,(Sat) 30 Nov 1974 (47),Coventry City (16),1-1,?,Liverpool FC (6)
+?,(Tue) 24 Sep 1974 (38),Coventry City (17),2-1,?,Luton Town (6)
+?,(Sat) 7 Sep 1974 (35),Coventry City (18),2-2,?,Manchester City (6)
+?,(Sat) 26 Apr 1975 (16),Coventry City (19),0-2,?,Middlesbrough FC (6)
+?,(Sat) 14 Dec 1974 (49),Coventry City (20),2-0,?,Newcastle United (6)
+?,(Sat) 8 Feb 1975 (5),Coventry City (21),1-1,?,Queens Park Rangers (6)
+?,(Fri) 28 Mar 1975 (12),Coventry City (22),2-2,?,Sheffield United FC (6)
+?,(Thu) 26 Dec 1974 (51),Coventry City (23),2-0,?,Stoke City (6)
+?,(Sat) 15 Feb 1975 (6),Coventry City (24),1-1,?,Tottenham Hotspur (6)
+?,(Sat) 12 Oct 1974 (40),Coventry City (25),1-1,?,West Ham United (6)
+?,(Sat) 11 Jan 1975 (1),Coventry City (26),2-1,?,Wolverhampton Wanderers (6)
+?,(Sat) 22 Feb 1975 (7),Derby County (7),2-1,?,Arsenal FC (27)
+?,(Thu) 26 Dec 1974 (51),Derby County (8),2-1,?,Birmingham City (27)
+?,(Sat) 21 Sep 1974 (37),Derby County (9),3-2,?,Burnley FC (27)
+?,(Sat) 26 Apr 1975 (16),Derby County (10),0-0,?,Carlisle United (27)
+?,(Wed) 25 Sep 1974 (38),Derby County (11),4-1,?,Chelsea FC (27)
+?,(Wed) 21 Aug 1974 (33),Derby County (12),1-1,?,Coventry City (27)
+?,(Sat) 14 Dec 1974 (49),Derby County (13),0-1,?,Everton FC (7)
+?,(Sat) 23 Nov 1974 (46),Derby County (14),2-0,?,Ipswich Town (7)
+?,(Sat) 8 Feb 1975 (5),Derby County (15),0-0,?,Leeds United (7)
+?,(Sat) 12 Oct 1974 (40),Derby County (16),1-0,?,Leicester City (7)
+?,(Sat) 11 Jan 1975 (1),Derby County (17),2-0,?,Liverpool FC (7)
+?,(Sat) 29 Mar 1975 (12),Derby County (18),5-0,?,Luton Town (7)
+?,(Tue) 1 Apr 1975 (13),Derby County (19),2-1,?,Manchester City (7)
+?,(Sat) 26 Oct 1974 (42),Derby County (20),2-3,?,Middlesbrough FC (7)
+?,(Sat) 7 Sep 1974 (35),Derby County (21),2-2,?,Newcastle United (7)
+?,(Sat) 9 Nov 1974 (44),Derby County (22),5-2,?,Queens Park Rangers (7)
+?,(Sat) 24 Aug 1974 (33),Derby County (23),2-0,?,Sheffield United FC (7)
+?,(Sat) 15 Mar 1975 (10),Derby County (24),1-2,?,Stoke City (7)
+?,(Sat) 1 Mar 1975 (8),Derby County (25),3-1,?,Tottenham Hotspur (7)
+?,(Sat) 12 Apr 1975 (14),Derby County (26),1-0,?,West Ham United (7)
+?,(Wed) 9 Apr 1975 (14),Derby County (27),1-0,?,Wolverhampton Wanderers (7)
+?,(Sat) 31 Aug 1974 (34),Everton FC (8),2-1,?,Arsenal FC (28)
+?,(Sat) 30 Nov 1974 (47),Everton FC (9),4-1,?,Birmingham City (28)
+?,(Fri) 4 Apr 1975 (13),Everton FC (10),1-1,?,Burnley FC (28)
+?,(Sat) 21 Dec 1974 (50),Everton FC (11),2-3,?,Carlisle United (28)
+?,(Sat) 19 Oct 1974 (41),Everton FC (12),1-1,?,Chelsea FC (28)
+?,(Mon) 31 Mar 1975 (13),Everton FC (13),1-0,?,Coventry City (28)
+?,(Sat) 17 Aug 1974 (32),Everton FC (14),0-0,?,Derby County (28)
+?,(Sat) 22 Mar 1975 (11),Everton FC (15),1-1,?,Ipswich Town (8)
+?,(Sat) 28 Sep 1974 (38),Everton FC (16),3-2,?,Leeds United (8)
+?,(Sat) 11 Jan 1975 (1),Everton FC (17),3-0,?,Leicester City (8)
+?,(Sat) 16 Nov 1974 (45),Everton FC (18),0-0,?,Liverpool FC (8)
+?,(Tue) 25 Feb 1975 (8),Everton FC (19),3-1,?,Luton Town (8)
+?,(Sat) 2 Nov 1974 (43),Everton FC (20),2-0,?,Manchester City (8)
+?,(Sat) 28 Dec 1974 (51),Everton FC (21),1-1,?,Middlesbrough FC (8)
+?,(Sat) 5 Oct 1974 (39),Everton FC (22),1-1,?,Newcastle United (8)
+?,(Sat) 8 Mar 1975 (9),Everton FC (23),2-1,?,Queens Park Rangers (8)
+?,(Sat) 19 Apr 1975 (15),Everton FC (24),2-3,?,Sheffield United FC (8)
+?,(Tue) 20 Aug 1974 (33),Everton FC (25),2-1,?,Stoke City (8)
+?,(Sat) 1 Feb 1975 (4),Everton FC (26),1-0,?,Tottenham Hotspur (8)
+?,(Tue) 15 Oct 1974 (41),Everton FC (27),1-1,?,West Ham United (8)
+?,(Sat) 14 Sep 1974 (36),Everton FC (28),0-0,?,Wolverhampton Wanderers (8)
+?,(Tue) 27 Aug 1974 (34),Ipswich Town (9),3-0,?,Arsenal FC (29)
+?,(Tue) 1 Apr 1975 (13),Ipswich Town (10),3-2,?,Birmingham City (29)
+?,(Sat) 24 Aug 1974 (33),Ipswich Town (11),2-0,?,Burnley FC (29)
+?,(Sat) 30 Nov 1974 (47),Ipswich Town (12),3-1,?,Carlisle United (29)
+?,(Sat) 21 Sep 1974 (37),Ipswich Town (13),2-0,?,Chelsea FC (29)
+?,(Sat) 16 Nov 1974 (45),Ipswich Town (14),4-0,?,Coventry City (29)
+?,(Tue) 25 Feb 1975 (8),Ipswich Town (15),3-0,?,Derby County (29)
+?,(Sat) 7 Sep 1974 (35),Ipswich Town (16),1-0,?,Everton FC (29)
+?,(Sat) 12 Oct 1974 (40),Ipswich Town (17),0-0,?,Leeds United (9)
+?,(Sat) 29 Mar 1975 (12),Ipswich Town (18),2-1,?,Leicester City (9)
+?,(Sat) 2 Nov 1974 (43),Ipswich Town (19),1-0,?,Liverpool FC (9)
+?,(Thu) 26 Dec 1974 (51),Ipswich Town (20),0-1,?,Luton Town (9)
+?,(Sat) 26 Oct 1974 (42),Ipswich Town (21),1-1,?,Manchester City (9)
+?,(Sat) 11 Jan 1975 (1),Ipswich Town (22),2-0,?,Middlesbrough FC (9)
+?,(Sat) 15 Mar 1975 (10),Ipswich Town (23),5-4,?,Newcastle United (9)
+?,(Sat) 12 Apr 1975 (14),Ipswich Town (24),2-1,?,Queens Park Rangers (9)
+?,(Sat) 1 Mar 1975 (8),Ipswich Town (25),0-1,?,Sheffield United FC (9)
+?,(Tue) 24 Sep 1974 (38),Ipswich Town (26),3-1,?,Stoke City (9)
+?,(Sat) 14 Dec 1974 (49),Ipswich Town (27),4-0,?,Tottenham Hotspur (9)
+?,(Sat) 26 Apr 1975 (16),Ipswich Town (28),4-1,?,West Ham United (9)
+?,(Sat) 1 Feb 1975 (4),Ipswich Town (29),2-0,?,Wolverhampton Wanderers (9)
+?,(Sat) 5 Oct 1974 (39),Leeds United (10),2-0,?,Arsenal FC (30)
+?,(Sat) 24 Aug 1974 (33),Leeds United (11),1-0,?,Birmingham City (30)
+?,(Thu) 26 Dec 1974 (51),Leeds United (12),2-2,?,Burnley FC (30)
+?,(Tue) 25 Feb 1975 (8),Leeds United (13),3-1,?,Carlisle United (30)
+?,(Sat) 30 Nov 1974 (47),Leeds United (14),2-0,?,Chelsea FC (30)
+?,(Sat) 1 Feb 1975 (4),Leeds United (15),0-0,?,Coventry City (30)
+?,(Sat) 2 Nov 1974 (43),Leeds United (16),0-1,?,Derby County (30)
+?,(Sat) 15 Mar 1975 (10),Leeds United (17),0-0,?,Everton FC (30)
+?,(Sat) 19 Apr 1975 (15),Leeds United (18),2-1,?,Ipswich Town (30)
+?,(Mon) 31 Mar 1975 (13),Leeds United (19),2-2,?,Leicester City (10)
+?,(Sat) 5 Apr 1975 (13),Leeds United (20),0-2,?,Liverpool FC (10)
+?,(Sat) 7 Sep 1974 (35),Leeds United (21),1-1,?,Luton Town (10)
+?,(Sat) 1 Mar 1975 (8),Leeds United (22),2-2,?,Manchester City (10)
+?,(Sat) 16 Nov 1974 (45),Leeds United (23),2-2,?,Middlesbrough FC (10)
+?,(Sat) 29 Mar 1975 (12),Leeds United (24),1-1,?,Newcastle United (10)
+?,(Wed) 21 Aug 1974 (33),Leeds United (25),0-1,?,Queens Park Rangers (10)
+?,(Sat) 21 Sep 1974 (37),Leeds United (26),5-1,?,Sheffield United FC (10)
+?,(Sat) 14 Dec 1974 (49),Leeds United (27),3-1,?,Stoke City (10)
+?,(Wed) 4 Dec 1974 (48),Leeds United (28),2-1,?,Tottenham Hotspur (10)
+?,(Sat) 11 Jan 1975 (1),Leeds United (29),2-1,?,West Ham United (10)
+?,(Sat) 19 Oct 1974 (41),Leeds United (30),2-0,?,Wolverhampton Wanderers (10)
+?,(Sat) 17 Aug 1974 (32),Leicester City (11),0-1,?,Arsenal FC (31)
+?,(Wed) 28 Aug 1974 (34),Leicester City (12),1-1,?,Birmingham City (31)
+?,(Sat) 2 Nov 1974 (43),Leicester City (13),1-0,?,Burnley FC (31)
+?,(Sat) 31 Aug 1974 (34),Leicester City (14),1-1,?,Carlisle United (31)
+?,(Sat) 1 Feb 1975 (4),Leicester City (15),1-1,?,Chelsea FC (31)
+?,(Sat) 28 Sep 1974 (38),Leicester City (16),0-1,?,Coventry City (31)
+?,(Sat) 19 Apr 1975 (15),Leicester City (17),0-0,?,Derby County (31)
+?,(Sat) 7 Dec 1974 (48),Leicester City (18),0-2,?,Everton FC (31)
+?,(Fri) 20 Dec 1974 (50),Leicester City (19),0-1,?,Ipswich Town (31)
+?,(Sat) 28 Dec 1974 (51),Leicester City (20),0-2,?,Leeds United (31)
+?,(Wed) 19 Mar 1975 (11),Leicester City (21),1-1,?,Liverpool FC (11)
+?,(Sat) 5 Oct 1974 (39),Leicester City (22),0-0,?,Luton Town (11)
+?,(Sat) 8 Mar 1975 (9),Leicester City (23),1-0,?,Manchester City (11)
+?,(Wed) 9 Apr 1975 (14),Leicester City (24),1-0,?,Middlesbrough FC (11)
+?,(Sat) 5 Apr 1975 (13),Leicester City (25),4-0,?,Newcastle United (11)
+?,(Sat) 14 Sep 1974 (36),Leicester City (26),3-1,?,Queens Park Rangers (11)
+?,(Sat) 19 Oct 1974 (41),Leicester City (27),3-0,?,Sheffield United FC (11)
+?,(Sat) 18 Jan 1975 (2),Leicester City (28),1-1,?,Stoke City (11)
+?,(Sat) 16 Nov 1974 (45),Leicester City (29),1-2,?,Tottenham Hotspur (11)
+?,(Tue) 1 Apr 1975 (13),Leicester City (30),3-0,?,West Ham United (11)
+?,(Sat) 22 Mar 1975 (11),Leicester City (31),3-2,?,Wolverhampton Wanderers (11)
+?,(Sat) 9 Nov 1974 (44),Liverpool FC (12),1-3,?,Arsenal FC (32)
+?,(Sat) 29 Mar 1975 (12),Liverpool FC (13),1-0,?,Birmingham City (32)
+?,(Tue) 24 Sep 1974 (38),Liverpool FC (14),0-1,?,Burnley FC (32)
+?,(Sat) 12 Apr 1975 (14),Liverpool FC (15),2-0,?,Carlisle United (32)
+?,(Sat) 1 Mar 1975 (8),Liverpool FC (16),2-2,?,Chelsea FC (32)
+?,(Sat) 18 Jan 1975 (2),Liverpool FC (17),2-1,?,Coventry City (32)
+?,(Sat) 7 Dec 1974 (48),Liverpool FC (18),2-2,?,Derby County (32)
+?,(Sat) 22 Feb 1975 (7),Liverpool FC (19),0-0,?,Everton FC (32)
+?,(Sat) 8 Feb 1975 (5),Liverpool FC (20),5-2,?,Ipswich Town (32)
+?,(Sat) 26 Oct 1974 (42),Liverpool FC (21),1-0,?,Leeds United (32)
+?,(Sat) 24 Aug 1974 (33),Liverpool FC (22),2-1,?,Leicester City (32)
+?,(Sat) 14 Dec 1974 (49),Liverpool FC (23),2-0,?,Luton Town (12)
+?,(Thu) 26 Dec 1974 (51),Liverpool FC (24),4-1,?,Manchester City (12)
+?,(Sat) 12 Oct 1974 (40),Liverpool FC (25),2-0,?,Middlesbrough FC (12)
+?,(Tue) 25 Mar 1975 (12),Liverpool FC (26),4-0,?,Newcastle United (12)
+?,(Sat) 26 Apr 1975 (16),Liverpool FC (27),3-1,?,Queens Park Rangers (12)
+?,(Sat) 15 Mar 1975 (10),Liverpool FC (28),0-0,?,Sheffield United FC (12)
+?,(Sat) 21 Sep 1974 (37),Liverpool FC (29),3-0,?,Stoke City (12)
+?,(Sat) 7 Sep 1974 (35),Liverpool FC (30),5-2,?,Tottenham Hotspur (12)
+?,(Sat) 23 Nov 1974 (46),Liverpool FC (31),1-1,?,West Ham United (12)
+?,(Tue) 27 Aug 1974 (34),Liverpool FC (32),2-0,?,Wolverhampton Wanderers (12)
+?,(Tue) 25 Mar 1975 (12),Luton Town (13),2-0,?,Arsenal FC (33)
+?,(Sat) 12 Oct 1974 (40),Luton Town (14),1-3,?,Birmingham City (33)
+?,(Sat) 30 Nov 1974 (47),Luton Town (15),2-3,?,Burnley FC (33)
+?,(Sat) 28 Sep 1974 (38),Luton Town (16),3-1,?,Carlisle United (33)
+?,(Sat) 11 Jan 1975 (1),Luton Town (17),1-1,?,Chelsea FC (33)
+?,(Sat) 8 Mar 1975 (9),Luton Town (18),1-3,?,Coventry City (33)
+?,(Sat) 21 Dec 1974 (50),Luton Town (19),1-0,?,Derby County (33)
+?,(Wed) 9 Apr 1975 (14),Luton Town (20),2-1,?,Everton FC (33)
+?,(Sat) 14 Sep 1974 (36),Luton Town (21),1-4,?,Ipswich Town (33)
+?,(Sat) 22 Mar 1975 (11),Luton Town (22),2-1,?,Leeds United (33)
+?,(Sat) 12 Apr 1975 (14),Luton Town (23),3-0,?,Leicester City (33)
+?,(Sat) 17 Aug 1974 (32),Luton Town (24),1-2,?,Liverpool FC (33)
+?,(Sat) 26 Apr 1975 (16),Luton Town (25),1-1,?,Manchester City (13)
+?,(Wed) 16 Oct 1974 (41),Luton Town (26),0-1,?,Middlesbrough FC (13)
+?,(Sat) 8 Feb 1975 (5),Luton Town (27),1-0,?,Newcastle United (13)
+?,(Sat) 31 Aug 1974 (34),Luton Town (28),1-1,?,Queens Park Rangers (13)
+?,(Sat) 9 Nov 1974 (44),Luton Town (29),0-1,?,Sheffield United FC (13)
+?,(Sat) 22 Feb 1975 (7),Luton Town (30),0-0,?,Stoke City (13)
+?,(Sat) 26 Oct 1974 (42),Luton Town (31),1-1,?,Tottenham Hotspur (13)
+?,(Wed) 28 Aug 1974 (34),Luton Town (32),0-0,?,West Ham United (13)
+?,(Sat) 28 Dec 1974 (51),Luton Town (33),3-2,?,Wolverhampton Wanderers (13)
+?,(Wed) 16 Oct 1974 (41),Manchester City (14),2-1,?,Arsenal FC (34)
+?,(Sat) 22 Feb 1975 (7),Manchester City (15),3-1,?,Birmingham City (34)
+?,(Sat) 19 Apr 1975 (15),Manchester City (16),2-0,?,Burnley FC (34)
+?,(Wed) 19 Mar 1975 (11),Manchester City (17),1-2,?,Carlisle United (34)
+?,(Sat) 5 Oct 1974 (39),Manchester City (18),1-1,?,Chelsea FC (34)
+?,(Sat) 22 Mar 1975 (11),Manchester City (19),1-0,?,Coventry City (34)
+?,(Sat) 28 Dec 1974 (51),Manchester City (20),1-2,?,Derby County (34)
+?,(Sat) 8 Feb 1975 (5),Manchester City (21),2-1,?,Everton FC (34)
+?,(Wed) 23 Apr 1975 (16),Manchester City (22),1-1,?,Ipswich Town (34)
+?,(Sat) 31 Aug 1974 (34),Manchester City (23),2-1,?,Leeds United (34)
+?,(Sat) 23 Nov 1974 (46),Manchester City (24),4-1,?,Leicester City (34)
+?,(Sat) 14 Sep 1974 (36),Manchester City (25),2-0,?,Liverpool FC (34)
+?,(Sat) 19 Oct 1974 (41),Manchester City (26),1-0,?,Luton Town (34)
+?,(Fri) 28 Mar 1975 (12),Manchester City (27),2-1,?,Middlesbrough FC (14)
+?,(Sat) 18 Jan 1975 (2),Manchester City (28),5-1,?,Newcastle United (14)
+?,(Sat) 28 Sep 1974 (38),Manchester City (29),1-0,?,Queens Park Rangers (14)
+?,(Sat) 7 Dec 1974 (48),Manchester City (30),3-2,?,Sheffield United FC (14)
+?,(Sat) 9 Nov 1974 (44),Manchester City (31),1-0,?,Stoke City (14)
+?,(Wed) 21 Aug 1974 (33),Manchester City (32),1-0,?,Tottenham Hotspur (14)
+?,(Sat) 17 Aug 1974 (32),Manchester City (33),4-0,?,West Ham United (14)
+?,(Sat) 21 Dec 1974 (50),Manchester City (34),0-0,?,Wolverhampton Wanderers (14)
+?,(Sat) 18 Jan 1975 (2),Middlesbrough FC (15),0-0,?,Arsenal FC (35)
+?,(Sat) 14 Dec 1974 (49),Middlesbrough FC (16),3-0,?,Birmingham City (35)
+?,(Sat) 29 Mar 1975 (12),Middlesbrough FC (17),2-0,?,Burnley FC (35)
+?,(Tue) 20 Aug 1974 (33),Middlesbrough FC (18),0-2,?,Carlisle United (35)
+?,(Sat) 7 Sep 1974 (35),Middlesbrough FC (19),1-1,?,Chelsea FC (35)
+?,(Sat) 19 Oct 1974 (41),Middlesbrough FC (20),4-4,?,Coventry City (35)
+?,(Sat) 5 Apr 1975 (13),Middlesbrough FC (21),1-1,?,Derby County (35)
+?,(Tue) 18 Mar 1975 (11),Middlesbrough FC (22),2-0,?,Everton FC (35)
+?,(Sat) 7 Dec 1974 (48),Middlesbrough FC (23),3-0,?,Ipswich Town (35)
+?,(Sat) 22 Feb 1975 (7),Middlesbrough FC (24),0-1,?,Leeds United (35)
+?,(Tue) 10 Dec 1974 (49),Middlesbrough FC (25),3-0,?,Leicester City (35)
+?,(Sat) 19 Apr 1975 (15),Middlesbrough FC (26),1-0,?,Liverpool FC (35)
+?,(Sat) 24 Aug 1974 (33),Middlesbrough FC (27),1-1,?,Luton Town (35)
+?,(Sat) 21 Sep 1974 (37),Middlesbrough FC (28),3-0,?,Manchester City (35)
+?,(Sat) 9 Nov 1974 (44),Middlesbrough FC (29),0-0,?,Newcastle United (15)
+?,(Sat) 23 Nov 1974 (46),Middlesbrough FC (30),1-3,?,Queens Park Rangers (15)
+?,(Thu) 26 Dec 1974 (51),Middlesbrough FC (31),1-0,?,Sheffield United FC (15)
+?,(Sat) 1 Mar 1975 (8),Middlesbrough FC (32),2-0,?,Stoke City (15)
+?,(Sat) 15 Mar 1975 (10),Middlesbrough FC (33),3-0,?,Tottenham Hotspur (15)
+?,(Sat) 8 Feb 1975 (5),Middlesbrough FC (34),0-0,?,West Ham United (15)
+?,(Sat) 5 Oct 1974 (39),Middlesbrough FC (35),2-1,?,Wolverhampton Wanderers (15)
+?,(Wed) 23 Apr 1975 (16),Newcastle United (16),3-1,?,Arsenal FC (36)
+?,(Sat) 26 Apr 1975 (16),Newcastle United (17),1-2,?,Birmingham City (36)
+?,(Sat) 15 Feb 1975 (6),Newcastle United (18),3-0,?,Burnley FC (36)
+?,(Sat) 14 Sep 1974 (36),Newcastle United (19),1-0,?,Carlisle United (36)
+?,(Sat) 16 Nov 1974 (45),Newcastle United (20),5-0,?,Chelsea FC (36)
+?,(Sat) 17 Aug 1974 (32),Newcastle United (21),3-2,?,Coventry City (36)
+?,(Sat) 22 Mar 1975 (11),Newcastle United (22),0-2,?,Derby County (36)
+?,(Sat) 12 Apr 1975 (14),Newcastle United (23),0-1,?,Everton FC (36)
+?,(Sat) 28 Sep 1974 (38),Newcastle United (24),1-0,?,Ipswich Town (36)
+?,(Sat) 21 Dec 1974 (50),Newcastle United (25),3-0,?,Leeds United (36)
+?,(Sat) 26 Oct 1974 (42),Newcastle United (26),0-1,?,Leicester City (36)
+?,(Wed) 12 Feb 1975 (6),Newcastle United (27),4-1,?,Liverpool FC (36)
+?,(Sat) 2 Nov 1974 (43),Newcastle United (28),1-0,?,Luton Town (36)
+?,(Sat) 30 Nov 1974 (47),Newcastle United (29),2-1,?,Manchester City (36)
+?,(Sat) 1 Feb 1975 (4),Newcastle United (30),2-1,?,Middlesbrough FC (36)
+?,(Mon) 31 Mar 1975 (13),Newcastle United (31),2-2,?,Queens Park Rangers (16)
+?,(Wed) 21 Aug 1974 (33),Newcastle United (32),2-2,?,Sheffield United FC (16)
+?,(Sat) 12 Oct 1974 (40),Newcastle United (33),2-2,?,Stoke City (16)
+?,(Sat) 11 Jan 1975 (1),Newcastle United (34),2-5,?,Tottenham Hotspur (16)
+?,(Sat) 31 Aug 1974 (34),Newcastle United (35),2-0,?,West Ham United (16)
+?,(Wed) 16 Oct 1974 (41),Newcastle United (36),0-0,?,Wolverhampton Wanderers (16)
+?,(Sat) 19 Apr 1975 (15),Queens Park Rangers (17),0-0,?,Arsenal FC (37)
+?,(Sat) 7 Sep 1974 (35),Queens Park Rangers (18),0-1,?,Birmingham City (37)
+?,(Sat) 11 Jan 1975 (1),Queens Park Rangers (19),0-1,?,Burnley FC (37)
+?,(Sat) 16 Nov 1974 (45),Queens Park Rangers (20),2-1,?,Carlisle United (37)
+?,(Tue) 18 Mar 1975 (11),Queens Park Rangers (21),1-0,?,Chelsea FC (37)
+?,(Sat) 2 Nov 1974 (43),Queens Park Rangers (22),2-0,?,Coventry City (37)
+?,(Sat) 1 Feb 1975 (4),Queens Park Rangers (23),4-1,?,Derby County (37)
+?,(Tue) 24 Sep 1974 (38),Queens Park Rangers (24),2-2,?,Everton FC (37)
+?,(Sat) 5 Oct 1974 (39),Queens Park Rangers (25),1-0,?,Ipswich Town (37)
+?,(Tue) 27 Aug 1974 (34),Queens Park Rangers (26),1-1,?,Leeds United (37)
+?,(Thu) 26 Dec 1974 (51),Queens Park Rangers (27),4-2,?,Leicester City (37)
+?,(Sat) 19 Oct 1974 (41),Queens Park Rangers (28),0-1,?,Liverpool FC (37)
+?,(Sat) 1 Mar 1975 (8),Queens Park Rangers (29),2-1,?,Luton Town (37)
+?,(Sat) 15 Mar 1975 (10),Queens Park Rangers (30),2-0,?,Manchester City (37)
+?,(Tue) 25 Feb 1975 (8),Queens Park Rangers (31),0-0,?,Middlesbrough FC (37)
+?,(Sat) 21 Sep 1974 (37),Queens Park Rangers (32),1-2,?,Newcastle United (37)
+?,(Sat) 14 Dec 1974 (49),Queens Park Rangers (33),1-0,?,Sheffield United FC (17)
+?,(Sat) 24 Aug 1974 (33),Queens Park Rangers (34),0-1,?,Stoke City (17)
+?,(Sat) 29 Mar 1975 (12),Queens Park Rangers (35),0-1,?,Tottenham Hotspur (17)
+?,(Sat) 30 Nov 1974 (47),Queens Park Rangers (36),0-2,?,West Ham United (17)
+?,(Sat) 5 Apr 1975 (13),Queens Park Rangers (37),2-0,?,Wolverhampton Wanderers (17)
+?,(Sat) 28 Dec 1974 (51),Sheffield United FC (18),1-1,?,Arsenal FC (38)
+?,(Sat) 26 Oct 1974 (42),Sheffield United FC (19),3-2,?,Birmingham City (38)
+?,(Sat) 16 Nov 1974 (45),Sheffield United FC (20),2-2,?,Burnley FC (38)
+?,(Sat) 2 Nov 1974 (43),Sheffield United FC (21),2-1,?,Carlisle United (38)
+?,(Sat) 15 Feb 1975 (6),Sheffield United FC (22),2-1,?,Chelsea FC (38)
+?,(Fri) 20 Dec 1974 (50),Sheffield United FC (23),1-0,?,Coventry City (38)
+?,(Tue) 15 Oct 1974 (41),Sheffield United FC (24),1-2,?,Derby County (38)
+?,(Sat) 12 Oct 1974 (40),Sheffield United FC (25),2-2,?,Everton FC (38)
+?,(Sat) 31 Aug 1974 (34),Sheffield United FC (26),3-1,?,Ipswich Town (38)
+?,(Tue) 1 Apr 1975 (13),Sheffield United FC (27),1-1,?,Leeds United (38)
+?,(Sat) 26 Apr 1975 (16),Sheffield United FC (28),4-0,?,Leicester City (38)
+?,(Sat) 28 Sep 1974 (38),Sheffield United FC (29),1-0,?,Liverpool FC (38)
+?,(Sat) 1 Feb 1975 (4),Sheffield United FC (30),1-1,?,Luton Town (38)
+?,(Sat) 11 Jan 1975 (1),Sheffield United FC (31),1-1,?,Manchester City (38)
+?,(Sat) 14 Sep 1974 (36),Sheffield United FC (32),1-0,?,Middlesbrough FC (38)
+?,(Tue) 27 Aug 1974 (34),Sheffield United FC (33),2-1,?,Newcastle United (38)
+?,(Sat) 17 Aug 1974 (32),Sheffield United FC (34),1-1,?,Queens Park Rangers (38)
+?,(Sat) 12 Apr 1975 (14),Sheffield United FC (35),2-0,?,Stoke City (18)
+?,(Sat) 30 Nov 1974 (47),Sheffield United FC (36),0-1,?,Tottenham Hotspur (18)
+?,(Sat) 22 Mar 1975 (11),Sheffield United FC (37),3-2,?,West Ham United (18)
+?,(Sat) 8 Mar 1975 (9),Sheffield United FC (38),1-0,?,Wolverhampton Wanderers (18)
+?,(Sat) 21 Dec 1974 (50),Stoke City (19),0-2,?,Arsenal FC (39)
+?,(Sat) 11 Jan 1975 (1),Stoke City (20),0-0,?,Birmingham City (39)
+?,(Sat) 19 Oct 1974 (41),Stoke City (21),2-0,?,Burnley FC (39)
+?,(Sat) 22 Mar 1975 (11),Stoke City (22),5-2,?,Carlisle United (39)
+?,(Sat) 5 Apr 1975 (13),Stoke City (23),3-0,?,Chelsea FC (39)
+?,(Sat) 14 Sep 1974 (36),Stoke City (24),2-0,?,Coventry City (39)
+?,(Sat) 28 Sep 1974 (38),Stoke City (25),1-1,?,Derby County (39)
+?,(Wed) 28 Aug 1974 (34),Stoke City (26),1-1,?,Everton FC (39)
+?,(Tue) 18 Mar 1975 (11),Stoke City (27),1-2,?,Ipswich Town (39)
+?,(Sat) 17 Aug 1974 (32),Stoke City (28),3-0,?,Leeds United (39)
+?,(Sat) 30 Nov 1974 (47),Stoke City (29),1-0,?,Leicester City (39)
+?,(Mon) 31 Mar 1975 (13),Stoke City (30),2-0,?,Liverpool FC (39)
+?,(Sat) 16 Nov 1974 (45),Stoke City (31),4-2,?,Luton Town (39)
+?,(Sat) 1 Feb 1975 (4),Stoke City (32),4-0,?,Manchester City (39)
+?,(Sat) 31 Aug 1974 (34),Stoke City (33),1-1,?,Middlesbrough FC (39)
+?,(Sat) 19 Apr 1975 (15),Stoke City (34),0-0,?,Newcastle United (39)
+?,(Wed) 27 Nov 1974 (47),Stoke City (35),1-0,?,Queens Park Rangers (39)
+?,(Sat) 5 Oct 1974 (39),Stoke City (36),3-2,?,Sheffield United FC (39)
+?,(Sat) 2 Nov 1974 (43),Stoke City (37),2-2,?,Tottenham Hotspur (19)
+?,(Sat) 28 Dec 1974 (51),Stoke City (38),2-1,?,West Ham United (19)
+?,(Sat) 15 Feb 1975 (6),Stoke City (39),2-2,?,Wolverhampton Wanderers (19)
+?,(Sat) 19 Oct 1974 (41),Tottenham Hotspur (20),2-0,?,Arsenal FC (40)
+?,(Sat) 23 Nov 1974 (46),Tottenham Hotspur (21),0-0,?,Birmingham City (40)
+?,(Sat) 5 Oct 1974 (39),Tottenham Hotspur (22),2-3,?,Burnley FC (40)
+?,(Wed) 16 Oct 1974 (41),Tottenham Hotspur (23),1-1,?,Carlisle United (40)
+?,(Sat) 19 Apr 1975 (15),Tottenham Hotspur (24),2-0,?,Chelsea FC (40)
+?,(Sat) 28 Dec 1974 (51),Tottenham Hotspur (25),1-1,?,Coventry City (40)
+?,(Sat) 31 Aug 1974 (34),Tottenham Hotspur (26),2-0,?,Derby County (40)
+?,(Sat) 9 Nov 1974 (44),Tottenham Hotspur (27),1-1,?,Everton FC (40)
+?,(Sat) 17 Aug 1974 (32),Tottenham Hotspur (28),0-1,?,Ipswich Town (40)
+?,(Mon) 28 Apr 1975 (17),Tottenham Hotspur (29),4-2,?,Leeds United (40)
+?,(Sat) 22 Feb 1975 (7),Tottenham Hotspur (30),0-3,?,Leicester City (40)
+?,(Sat) 22 Mar 1975 (11),Tottenham Hotspur (31),0-2,?,Liverpool FC (40)
+?,(Sat) 5 Apr 1975 (13),Tottenham Hotspur (32),2-1,?,Luton Town (40)
+?,(Wed) 28 Aug 1974 (34),Tottenham Hotspur (33),1-2,?,Manchester City (40)
+?,(Sat) 28 Sep 1974 (38),Tottenham Hotspur (34),1-2,?,Middlesbrough FC (40)
+?,(Sat) 7 Dec 1974 (48),Tottenham Hotspur (35),3-0,?,Newcastle United (40)
+?,(Sat) 21 Dec 1974 (50),Tottenham Hotspur (36),1-2,?,Queens Park Rangers (40)
+?,(Sat) 18 Jan 1975 (2),Tottenham Hotspur (37),1-3,?,Sheffield United FC (40)
+?,(Sat) 8 Feb 1975 (5),Tottenham Hotspur (38),0-2,?,Stoke City (40)
+?,(Sat) 14 Sep 1974 (36),Tottenham Hotspur (39),2-1,?,West Ham United (20)
+?,(Fri) 28 Mar 1975 (12),Tottenham Hotspur (40),3-0,?,Wolverhampton Wanderers (20)
+?,(Mon) 28 Apr 1975 (17),West Ham United (21),1-0,?,Arsenal FC (41)
+?,(Wed) 25 Sep 1974 (38),West Ham United (22),3-0,?,Birmingham City (41)
+?,(Sat) 15 Mar 1975 (10),West Ham United (23),2-1,?,Burnley FC (41)
+?,(Sat) 1 Feb 1975 (4),West Ham United (24),2-0,?,Carlisle United (41)
+?,(Sat) 29 Mar 1975 (12),West Ham United (25),0-1,?,Chelsea FC (41)
+?,(Sat) 19 Apr 1975 (15),West Ham United (26),1-2,?,Coventry City (41)
+?,(Sat) 5 Oct 1974 (39),West Ham United (27),2-2,?,Derby County (41)
+?,(Sat) 24 Aug 1974 (33),West Ham United (28),2-3,?,Everton FC (41)
+?,(Sat) 19 Oct 1974 (41),West Ham United (29),1-0,?,Ipswich Town (41)
+?,(Sat) 7 Dec 1974 (48),West Ham United (30),2-1,?,Leeds United (41)
+?,(Sat) 21 Sep 1974 (37),West Ham United (31),6-2,?,Leicester City (41)
+?,(Wed) 19 Feb 1975 (7),West Ham United (32),0-0,?,Liverpool FC (41)
+?,(Mon) 19 Aug 1974 (33),West Ham United (33),2-0,?,Luton Town (41)
+?,(Sat) 14 Dec 1974 (49),West Ham United (34),0-0,?,Manchester City (41)
+?,(Sat) 2 Nov 1974 (43),West Ham United (35),3-0,?,Middlesbrough FC (41)
+?,(Fri) 28 Feb 1975 (8),West Ham United (36),0-1,?,Newcastle United (41)
+?,(Sat) 18 Jan 1975 (2),West Ham United (37),2-2,?,Queens Park Rangers (41)
+?,(Sat) 7 Sep 1974 (35),West Ham United (38),1-2,?,Sheffield United FC (41)
+?,(Fri) 28 Mar 1975 (12),West Ham United (39),2-2,?,Stoke City (41)
+?,(Thu) 26 Dec 1974 (51),West Ham United (40),1-1,?,Tottenham Hotspur (41)
+?,(Sat) 16 Nov 1974 (45),West Ham United (41),5-2,?,Wolverhampton Wanderers (21)
+?,(Sat) 8 Feb 1975 (5),Wolverhampton Wanderers (22),1-0,?,Arsenal FC (42)
+?,(Sat) 1 Mar 1975 (8),Wolverhampton Wanderers (23),0-1,?,Birmingham City (42)
+?,(Sat) 14 Dec 1974 (49),Wolverhampton Wanderers (24),4-2,?,Burnley FC (42)
+?,(Sat) 12 Oct 1974 (40),Wolverhampton Wanderers (25),2-0,?,Carlisle United (42)
+?,(Sat) 15 Mar 1975 (10),Wolverhampton Wanderers (26),7-1,?,Chelsea FC (42)
+?,(Sat) 7 Dec 1974 (48),Wolverhampton Wanderers (27),2-0,?,Coventry City (42)
+?,(Sat) 18 Jan 1975 (2),Wolverhampton Wanderers (28),0-1,?,Derby County (42)
+?,(Thu) 26 Dec 1974 (51),Wolverhampton Wanderers (29),2-0,?,Everton FC (42)
+?,(Sat) 9 Nov 1974 (44),Wolverhampton Wanderers (30),2-1,?,Ipswich Town (42)
+?,(Sat) 26 Apr 1975 (16),Wolverhampton Wanderers (31),1-1,?,Leeds United (42)
+?,(Sat) 7 Sep 1974 (35),Wolverhampton Wanderers (32),1-1,?,Leicester City (42)
+?,(Tue) 20 Aug 1974 (33),Wolverhampton Wanderers (33),0-0,?,Liverpool FC (42)
+?,(Mon) 31 Mar 1975 (13),Wolverhampton Wanderers (34),5-2,?,Luton Town (42)
+?,(Sat) 29 Mar 1975 (12),Wolverhampton Wanderers (35),1-0,?,Manchester City (42)
+?,(Sat) 12 Apr 1975 (14),Wolverhampton Wanderers (36),2-0,?,Middlesbrough FC (42)
+?,(Sat) 24 Aug 1974 (33),Wolverhampton Wanderers (37),4-2,?,Newcastle United (42)
+?,(Sat) 26 Oct 1974 (42),Wolverhampton Wanderers (38),1-2,?,Queens Park Rangers (42)
+?,(Tue) 24 Sep 1974 (38),Wolverhampton Wanderers (39),1-1,?,Sheffield United FC (42)
+?,(Sat) 23 Nov 1974 (46),Wolverhampton Wanderers (40),2-2,?,Stoke City (42)
+?,(Sat) 21 Sep 1974 (37),Wolverhampton Wanderers (41),2-3,?,Tottenham Hotspur (42)
+?,(Sat) 22 Feb 1975 (7),Wolverhampton Wanderers (42),3-1,?,West Ham United (42)

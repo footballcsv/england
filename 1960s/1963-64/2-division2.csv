@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Cardiff City,Bury,2-1,-
--,-,Charlton Athletic,Bury,3-0,-
--,-,Derby County,Bury,2-1,-
--,-,Grimsby Town,Bury,1-0,-
--,-,Huddersfield Town,Bury,2-1,-
--,-,Leeds United,Bury,3-0,-
--,-,Leyton Orient,Bury,1-1,-
--,-,Manchester City,Bury,1-1,-
--,-,Middlesbrough,Bury,2-0,-
--,-,Newcastle United,Bury,0-4,-
--,-,Northampton Town,Bury,1-2,-
--,-,Norwich City,Bury,0-1,-
--,-,Plymouth Argyle,Bury,1-0,-
--,-,Portsmouth,Bury,3-3,-
--,-,Preston North End,Bury,3-0,-
--,-,Rotherham United,Bury,6-2,-
--,-,Scunthorpe United,Bury,0-0,-
--,-,Southampton,Bury,0-1,-
--,-,Sunderland,Bury,4-1,-
--,-,Swansea City,Bury,0-2,-
--,-,Swindon Town,Bury,2-1,-
--,-,Bury,Cardiff City,4-1,-
--,-,Charlton Athletic,Cardiff City,5-2,-
--,-,Derby County,Cardiff City,2-1,-
--,-,Grimsby Town,Cardiff City,0-2,-
--,-,Huddersfield Town,Cardiff City,2-1,-
--,-,Leeds United,Cardiff City,1-1,-
--,-,Leyton Orient,Cardiff City,4-0,-
--,-,Manchester City,Cardiff City,4-0,-
--,-,Middlesbrough,Cardiff City,3-1,-
--,-,Newcastle United,Cardiff City,0-4,-
--,-,Northampton Town,Cardiff City,2-1,-
--,-,Norwich City,Cardiff City,5-1,-
--,-,Plymouth Argyle,Cardiff City,1-1,-
--,-,Portsmouth,Cardiff City,5-0,-
--,-,Preston North End,Cardiff City,4-0,-
--,-,Rotherham United,Cardiff City,1-0,-
--,-,Scunthorpe United,Cardiff City,1-2,-
--,-,Southampton,Cardiff City,3-2,-
--,-,Sunderland,Cardiff City,3-3,-
--,-,Swansea City,Cardiff City,3-0,-
--,-,Swindon Town,Cardiff City,1-2,-
--,-,Bury,Charlton Athletic,0-2,-
--,-,Cardiff City,Charlton Athletic,1-1,-
--,-,Derby County,Charlton Athletic,1-1,-
--,-,Grimsby Town,Charlton Athletic,0-2,-
--,-,Huddersfield Town,Charlton Athletic,2-1,-
--,-,Leeds United,Charlton Athletic,1-1,-
--,-,Leyton Orient,Charlton Athletic,0-3,-
--,-,Manchester City,Charlton Athletic,1-3,-
--,-,Middlesbrough,Charlton Athletic,2-3,-
--,-,Newcastle United,Charlton Athletic,5-0,-
--,-,Northampton Town,Charlton Athletic,1-2,-
--,-,Norwich City,Charlton Athletic,1-3,-
--,-,Plymouth Argyle,Charlton Athletic,1-0,-
--,-,Portsmouth,Charlton Athletic,4-1,-
--,-,Preston North End,Charlton Athletic,3-1,-
--,-,Rotherham United,Charlton Athletic,5-0,-
--,-,Scunthorpe United,Charlton Athletic,1-1,-
--,-,Southampton,Charlton Athletic,6-1,-
--,-,Sunderland,Charlton Athletic,2-1,-
--,-,Swansea City,Charlton Athletic,1-2,-
--,-,Swindon Town,Charlton Athletic,2-2,-
--,-,Bury,Derby County,1-2,-
--,-,Cardiff City,Derby County,2-1,-
--,-,Charlton Athletic,Derby County,2-0,-
--,-,Grimsby Town,Derby County,1-3,-
--,-,Huddersfield Town,Derby County,0-0,-
--,-,Leeds United,Derby County,2-2,-
--,-,Leyton Orient,Derby County,3-0,-
--,-,Manchester City,Derby County,3-2,-
--,-,Middlesbrough,Derby County,3-0,-
--,-,Newcastle United,Derby County,3-1,-
--,-,Northampton Town,Derby County,0-1,-
--,-,Norwich City,Derby County,3-0,-
--,-,Plymouth Argyle,Derby County,0-0,-
--,-,Portsmouth,Derby County,1-1,-
--,-,Preston North End,Derby County,0-2,-
--,-,Rotherham United,Derby County,2-0,-
--,-,Scunthorpe United,Derby County,3-2,-
--,-,Southampton,Derby County,6-4,-
--,-,Sunderland,Derby County,3-0,-
--,-,Swansea City,Derby County,2-1,-
--,-,Swindon Town,Derby County,0-0,-
--,-,Bury,Grimsby Town,1-1,-
--,-,Cardiff City,Grimsby Town,0-0,-
--,-,Charlton Athletic,Grimsby Town,2-1,-
--,-,Derby County,Grimsby Town,0-0,-
--,-,Huddersfield Town,Grimsby Town,1-2,-
--,-,Leeds United,Grimsby Town,3-1,-
--,-,Leyton Orient,Grimsby Town,0-0,-
--,-,Manchester City,Grimsby Town,0-4,-
--,-,Middlesbrough,Grimsby Town,6-0,-
--,-,Newcastle United,Grimsby Town,4-0,-
--,-,Northampton Town,Grimsby Town,1-2,-
--,-,Norwich City,Grimsby Town,2-0,-
--,-,Plymouth Argyle,Grimsby Town,3-2,-
--,-,Portsmouth,Grimsby Town,2-2,-
--,-,Preston North End,Grimsby Town,1-0,-
--,-,Rotherham United,Grimsby Town,1-0,-
--,-,Scunthorpe United,Grimsby Town,2-2,-
--,-,Southampton,Grimsby Town,6-0,-
--,-,Sunderland,Grimsby Town,3-0,-
--,-,Swansea City,Grimsby Town,1-1,-
--,-,Swindon Town,Grimsby Town,2-1,-
--,-,Bury,Huddersfield Town,0-2,-
--,-,Cardiff City,Huddersfield Town,2-1,-
--,-,Charlton Athletic,Huddersfield Town,5-2,-
--,-,Derby County,Huddersfield Town,2-0,-
--,-,Grimsby Town,Huddersfield Town,2-2,-
--,-,Leeds United,Huddersfield Town,1-1,-
--,-,Leyton Orient,Huddersfield Town,2-3,-
--,-,Manchester City,Huddersfield Town,5-2,-
--,-,Middlesbrough,Huddersfield Town,1-1,-
--,-,Newcastle United,Huddersfield Town,2-0,-
--,-,Northampton Town,Huddersfield Town,1-0,-
--,-,Norwich City,Huddersfield Town,2-2,-
--,-,Plymouth Argyle,Huddersfield Town,0-0,-
--,-,Portsmouth,Huddersfield Town,2-1,-
--,-,Preston North End,Huddersfield Town,2-1,-
--,-,Rotherham United,Huddersfield Town,3-1,-
--,-,Scunthorpe United,Huddersfield Town,1-0,-
--,-,Southampton,Huddersfield Town,1-1,-
--,-,Sunderland,Huddersfield Town,3-2,-
--,-,Swansea City,Huddersfield Town,1-2,-
--,-,Swindon Town,Huddersfield Town,1-2,-
--,-,Bury,Leeds United,1-2,-
--,-,Cardiff City,Leeds United,0-0,-
--,-,Charlton Athletic,Leeds United,0-2,-
--,-,Derby County,Leeds United,1-1,-
--,-,Grimsby Town,Leeds United,0-2,-
--,-,Huddersfield Town,Leeds United,0-2,-
--,-,Leyton Orient,Leeds United,0-2,-
--,-,Manchester City,Leeds United,3-2,-
--,-,Middlesbrough,Leeds United,1-3,-
--,-,Newcastle United,Leeds United,0-1,-
--,-,Northampton Town,Leeds United,0-3,-
--,-,Norwich City,Leeds United,2-2,-
--,-,Plymouth Argyle,Leeds United,0-1,-
--,-,Portsmouth,Leeds United,1-1,-
--,-,Preston North End,Leeds United,2-0,-
--,-,Rotherham United,Leeds United,2-2,-
--,-,Scunthorpe United,Leeds United,0-1,-
--,-,Southampton,Leeds United,1-4,-
--,-,Sunderland,Leeds United,2-0,-
--,-,Swansea City,Leeds United,0-3,-
--,-,Swindon Town,Leeds United,2-2,-
--,-,Bury,Leyton Orient,1-2,-
--,-,Cardiff City,Leyton Orient,2-1,-
--,-,Charlton Athletic,Leyton Orient,1-2,-
--,-,Derby County,Leyton Orient,1-0,-
--,-,Grimsby Town,Leyton Orient,1-1,-
--,-,Huddersfield Town,Leyton Orient,2-1,-
--,-,Leeds United,Leyton Orient,2-1,-
--,-,Manchester City,Leyton Orient,2-0,-
--,-,Middlesbrough,Leyton Orient,2-0,-
--,-,Newcastle United,Leyton Orient,3-0,-
--,-,Northampton Town,Leyton Orient,1-2,-
--,-,Norwich City,Leyton Orient,1-2,-
--,-,Plymouth Argyle,Leyton Orient,2-2,-
--,-,Portsmouth,Leyton Orient,4-3,-
--,-,Preston North End,Leyton Orient,0-0,-
--,-,Rotherham United,Leyton Orient,2-4,-
--,-,Scunthorpe United,Leyton Orient,0-0,-
--,-,Southampton,Leyton Orient,3-0,-
--,-,Sunderland,Leyton Orient,4-1,-
--,-,Swansea City,Leyton Orient,1-0,-
--,-,Swindon Town,Leyton Orient,5-0,-
--,-,Bury,Manchester City,1-1,-
--,-,Cardiff City,Manchester City,2-2,-
--,-,Charlton Athletic,Manchester City,4-3,-
--,-,Derby County,Manchester City,1-3,-
--,-,Grimsby Town,Manchester City,1-1,-
--,-,Huddersfield Town,Manchester City,0-2,-
--,-,Leeds United,Manchester City,1-0,-
--,-,Leyton Orient,Manchester City,0-2,-
--,-,Middlesbrough,Manchester City,2-2,-
--,-,Newcastle United,Manchester City,3-1,-
--,-,Northampton Town,Manchester City,2-1,-
--,-,Norwich City,Manchester City,1-2,-
--,-,Plymouth Argyle,Manchester City,2-1,-
--,-,Portsmouth,Manchester City,2-2,-
--,-,Preston North End,Manchester City,2-0,-
--,-,Rotherham United,Manchester City,1-2,-
--,-,Scunthorpe United,Manchester City,2-4,-
--,-,Southampton,Manchester City,4-2,-
--,-,Sunderland,Manchester City,2-0,-
--,-,Swansea City,Manchester City,3-3,-
--,-,Swindon Town,Manchester City,3-0,-
--,-,Bury,Middlesbrough,1-1,-
--,-,Cardiff City,Middlesbrough,1-1,-
--,-,Charlton Athletic,Middlesbrough,2-4,-
--,-,Derby County,Middlesbrough,2-2,-
--,-,Grimsby Town,Middlesbrough,3-1,-
--,-,Huddersfield Town,Middlesbrough,1-0,-
--,-,Leeds United,Middlesbrough,2-0,-
--,-,Leyton Orient,Middlesbrough,3-2,-
--,-,Manchester City,Middlesbrough,1-0,-
--,-,Newcastle United,Middlesbrough,2-0,-
--,-,Northampton Town,Middlesbrough,3-2,-
--,-,Norwich City,Middlesbrough,1-1,-
--,-,Plymouth Argyle,Middlesbrough,2-0,-
--,-,Portsmouth,Middlesbrough,1-0,-
--,-,Preston North End,Middlesbrough,2-2,-
--,-,Rotherham United,Middlesbrough,2-1,-
--,-,Scunthorpe United,Middlesbrough,1-0,-
--,-,Southampton,Middlesbrough,2-2,-
--,-,Sunderland,Middlesbrough,0-0,-
--,-,Swansea City,Middlesbrough,2-1,-
--,-,Swindon Town,Middlesbrough,2-0,-
--,-,Bury,Newcastle United,1-2,-
--,-,Cardiff City,Newcastle United,2-2,-
--,-,Charlton Athletic,Newcastle United,1-2,-
--,-,Derby County,Newcastle United,1-2,-
--,-,Grimsby Town,Newcastle United,2-1,-
--,-,Huddersfield Town,Newcastle United,3-0,-
--,-,Leeds United,Newcastle United,2-1,-
--,-,Leyton Orient,Newcastle United,1-0,-
--,-,Manchester City,Newcastle United,3-1,-
--,-,Middlesbrough,Newcastle United,3-0,-
--,-,Northampton Town,Newcastle United,2-2,-
--,-,Norwich City,Newcastle United,3-1,-
--,-,Plymouth Argyle,Newcastle United,3-4,-
--,-,Portsmouth,Newcastle United,5-2,-
--,-,Preston North End,Newcastle United,3-0,-
--,-,Rotherham United,Newcastle United,2-3,-
--,-,Scunthorpe United,Newcastle United,2-0,-
--,-,Southampton,Newcastle United,2-0,-
--,-,Sunderland,Newcastle United,2-1,-
--,-,Swansea City,Newcastle United,0-1,-
--,-,Swindon Town,Newcastle United,0-0,-
--,-,Bury,Northampton Town,1-1,-
--,-,Cardiff City,Northampton Town,1-0,-
--,-,Charlton Athletic,Northampton Town,1-1,-
--,-,Derby County,Northampton Town,0-0,-
--,-,Grimsby Town,Northampton Town,4-1,-
--,-,Huddersfield Town,Northampton Town,0-1,-
--,-,Leeds United,Northampton Town,0-0,-
--,-,Leyton Orient,Northampton Town,0-0,-
--,-,Manchester City,Northampton Town,3-0,-
--,-,Middlesbrough,Northampton Town,1-0,-
--,-,Newcastle United,Northampton Town,2-3,-
--,-,Norwich City,Northampton Town,3-3,-
--,-,Plymouth Argyle,Northampton Town,0-3,-
--,-,Portsmouth,Northampton Town,3-0,-
--,-,Preston North End,Northampton Town,2-1,-
--,-,Rotherham United,Northampton Town,1-0,-
--,-,Scunthorpe United,Northampton Town,1-2,-
--,-,Southampton,Northampton Town,3-0,-
--,-,Sunderland,Northampton Town,0-2,-
--,-,Swansea City,Northampton Town,1-1,-
--,-,Swindon Town,Northampton Town,2-3,-
--,-,Bury,Norwich City,4-2,-
--,-,Cardiff City,Norwich City,3-1,-
--,-,Charlton Athletic,Norwich City,3-1,-
--,-,Derby County,Norwich City,2-1,-
--,-,Grimsby Town,Norwich City,3-1,-
--,-,Huddersfield Town,Norwich City,1-1,-
--,-,Leeds United,Norwich City,4-2,-
--,-,Leyton Orient,Norwich City,1-1,-
--,-,Manchester City,Norwich City,5-0,-
--,-,Middlesbrough,Norwich City,0-1,-
--,-,Newcastle United,Norwich City,2-0,-
--,-,Northampton Town,Norwich City,3-2,-
--,-,Plymouth Argyle,Norwich City,1-2,-
--,-,Portsmouth,Norwich City,1-1,-
--,-,Preston North End,Norwich City,3-0,-
--,-,Rotherham United,Norwich City,4-0,-
--,-,Scunthorpe United,Norwich City,2-2,-
--,-,Southampton,Norwich City,3-0,-
--,-,Sunderland,Norwich City,0-0,-
--,-,Swansea City,Norwich City,3-1,-
--,-,Swindon Town,Norwich City,2-2,-
--,-,Bury,Plymouth Argyle,2-2,-
--,-,Cardiff City,Plymouth Argyle,3-1,-
--,-,Charlton Athletic,Plymouth Argyle,1-0,-
--,-,Derby County,Plymouth Argyle,3-1,-
--,-,Grimsby Town,Plymouth Argyle,1-1,-
--,-,Huddersfield Town,Plymouth Argyle,4-3,-
--,-,Leeds United,Plymouth Argyle,1-1,-
--,-,Leyton Orient,Plymouth Argyle,1-0,-
--,-,Manchester City,Plymouth Argyle,1-1,-
--,-,Middlesbrough,Plymouth Argyle,5-0,-
--,-,Newcastle United,Plymouth Argyle,1-1,-
--,-,Northampton Town,Plymouth Argyle,0-0,-
--,-,Norwich City,Plymouth Argyle,1-1,-
--,-,Portsmouth,Plymouth Argyle,1-2,-
--,-,Preston North End,Plymouth Argyle,0-0,-
--,-,Rotherham United,Plymouth Argyle,3-1,-
--,-,Scunthorpe United,Plymouth Argyle,1-0,-
--,-,Southampton,Plymouth Argyle,1-2,-
--,-,Sunderland,Plymouth Argyle,1-0,-
--,-,Swansea City,Plymouth Argyle,2-1,-
--,-,Swindon Town,Plymouth Argyle,2-1,-
--,-,Bury,Portsmouth,3-2,-
--,-,Cardiff City,Portsmouth,1-2,-
--,-,Charlton Athletic,Portsmouth,0-1,-
--,-,Derby County,Portsmouth,3-1,-
--,-,Grimsby Town,Portsmouth,0-3,-
--,-,Huddersfield Town,Portsmouth,1-1,-
--,-,Leeds United,Portsmouth,3-1,-
--,-,Leyton Orient,Portsmouth,3-6,-
--,-,Manchester City,Portsmouth,0-2,-
--,-,Middlesbrough,Portsmouth,3-1,-
--,-,Newcastle United,Portsmouth,1-0,-
--,-,Northampton Town,Portsmouth,2-1,-
--,-,Norwich City,Portsmouth,3-1,-
--,-,Plymouth Argyle,Portsmouth,0-4,-
--,-,Preston North End,Portsmouth,0-0,-
--,-,Rotherham United,Portsmouth,4-2,-
--,-,Scunthorpe United,Portsmouth,1-1,-
--,-,Southampton,Portsmouth,2-3,-
--,-,Sunderland,Portsmouth,3-0,-
--,-,Swansea City,Portsmouth,1-1,-
--,-,Swindon Town,Portsmouth,2-0,-
--,-,Bury,Preston North End,2-1,-
--,-,Cardiff City,Preston North End,0-4,-
--,-,Charlton Athletic,Preston North End,3-0,-
--,-,Derby County,Preston North End,1-2,-
--,-,Grimsby Town,Preston North End,0-3,-
--,-,Huddersfield Town,Preston North End,2-2,-
--,-,Leeds United,Preston North End,1-1,-
--,-,Leyton Orient,Preston North End,2-2,-
--,-,Manchester City,Preston North End,2-3,-
--,-,Middlesbrough,Preston North End,3-0,-
--,-,Newcastle United,Preston North End,2-4,-
--,-,Northampton Town,Preston North End,0-3,-
--,-,Norwich City,Preston North End,2-1,-
--,-,Plymouth Argyle,Preston North End,0-2,-
--,-,Portsmouth,Preston North End,1-2,-
--,-,Rotherham United,Preston North End,4-2,-
--,-,Scunthorpe United,Preston North End,1-0,-
--,-,Southampton,Preston North End,4-5,-
--,-,Sunderland,Preston North End,4-0,-
--,-,Swansea City,Preston North End,5-1,-
--,-,Swindon Town,Preston North End,1-2,-
--,-,Bury,Rotherham United,4-2,-
--,-,Cardiff City,Rotherham United,2-1,-
--,-,Charlton Athletic,Rotherham United,4-3,-
--,-,Derby County,Rotherham United,1-4,-
--,-,Grimsby Town,Rotherham United,1-3,-
--,-,Huddersfield Town,Rotherham United,0-3,-
--,-,Leeds United,Rotherham United,1-0,-
--,-,Leyton Orient,Rotherham United,0-2,-
--,-,Manchester City,Rotherham United,6-1,-
--,-,Middlesbrough,Rotherham United,2-2,-
--,-,Newcastle United,Rotherham United,5-2,-
--,-,Northampton Town,Rotherham United,1-3,-
--,-,Norwich City,Rotherham United,2-2,-
--,-,Plymouth Argyle,Rotherham United,0-0,-
--,-,Portsmouth,Rotherham United,2-1,-
--,-,Preston North End,Rotherham United,2-2,-
--,-,Scunthorpe United,Rotherham United,4-3,-
--,-,Southampton,Rotherham United,6-1,-
--,-,Sunderland,Rotherham United,2-0,-
--,-,Swansea City,Rotherham United,4-2,-
--,-,Swindon Town,Rotherham United,3-1,-
--,-,Bury,Scunthorpe United,3-2,-
--,-,Cardiff City,Scunthorpe United,3-1,-
--,-,Charlton Athletic,Scunthorpe United,0-1,-
--,-,Derby County,Scunthorpe United,2-2,-
--,-,Grimsby Town,Scunthorpe United,2-0,-
--,-,Huddersfield Town,Scunthorpe United,3-2,-
--,-,Leeds United,Scunthorpe United,1-0,-
--,-,Leyton Orient,Scunthorpe United,2-2,-
--,-,Manchester City,Scunthorpe United,8-1,-
--,-,Middlesbrough,Scunthorpe United,2-0,-
--,-,Newcastle United,Scunthorpe United,3-1,-
--,-,Northampton Town,Scunthorpe United,2-0,-
--,-,Norwich City,Scunthorpe United,2-1,-
--,-,Plymouth Argyle,Scunthorpe United,3-1,-
--,-,Portsmouth,Scunthorpe United,3-4,-
--,-,Preston North End,Scunthorpe United,1-0,-
--,-,Rotherham United,Scunthorpe United,2-1,-
--,-,Southampton,Scunthorpe United,7-2,-
--,-,Sunderland,Scunthorpe United,1-0,-
--,-,Swansea City,Scunthorpe United,4-1,-
--,-,Swindon Town,Scunthorpe United,3-0,-
--,-,Bury,Southampton,1-5,-
--,-,Cardiff City,Southampton,2-4,-
--,-,Charlton Athletic,Southampton,2-2,-
--,-,Derby County,Southampton,3-2,-
--,-,Grimsby Town,Southampton,2-2,-
--,-,Huddersfield Town,Southampton,4-0,-
--,-,Leeds United,Southampton,3-1,-
--,-,Leyton Orient,Southampton,1-0,-
--,-,Manchester City,Southampton,1-1,-
--,-,Middlesbrough,Southampton,1-0,-
--,-,Newcastle United,Southampton,2-2,-
--,-,Northampton Town,Southampton,2-0,-
--,-,Norwich City,Southampton,1-1,-
--,-,Plymouth Argyle,Southampton,1-1,-
--,-,Portsmouth,Southampton,2-0,-
--,-,Preston North End,Southampton,2-1,-
--,-,Rotherham United,Southampton,2-3,-
--,-,Scunthorpe United,Southampton,1-2,-
--,-,Sunderland,Southampton,1-2,-
--,-,Swansea City,Southampton,6-0,-
--,-,Swindon Town,Southampton,1-2,-
--,-,Bury,Sunderland,0-1,-
--,-,Cardiff City,Sunderland,0-2,-
--,-,Charlton Athletic,Sunderland,0-0,-
--,-,Derby County,Sunderland,0-3,-
--,-,Grimsby Town,Sunderland,2-2,-
--,-,Huddersfield Town,Sunderland,0-2,-
--,-,Leeds United,Sunderland,1-1,-
--,-,Leyton Orient,Sunderland,2-5,-
--,-,Manchester City,Sunderland,0-3,-
--,-,Middlesbrough,Sunderland,2-0,-
--,-,Newcastle United,Sunderland,1-0,-
--,-,Northampton Town,Sunderland,5-1,-
--,-,Norwich City,Sunderland,2-3,-
--,-,Plymouth Argyle,Sunderland,1-1,-
--,-,Portsmouth,Sunderland,2-4,-
--,-,Preston North End,Sunderland,1-1,-
--,-,Rotherham United,Sunderland,2-2,-
--,-,Scunthorpe United,Sunderland,1-1,-
--,-,Southampton,Sunderland,0-0,-
--,-,Swansea City,Sunderland,1-2,-
--,-,Swindon Town,Sunderland,1-0,-
--,-,Bury,Swansea City,3-2,-
--,-,Cardiff City,Swansea City,1-1,-
--,-,Charlton Athletic,Swansea City,3-1,-
--,-,Derby County,Swansea City,3-0,-
--,-,Grimsby Town,Swansea City,1-1,-
--,-,Huddersfield Town,Swansea City,1-0,-
--,-,Leeds United,Swansea City,2-1,-
--,-,Leyton Orient,Swansea City,4-0,-
--,-,Manchester City,Swansea City,1-0,-
--,-,Middlesbrough,Swansea City,2-1,-
--,-,Newcastle United,Swansea City,4-1,-
--,-,Northampton Town,Swansea City,2-3,-
--,-,Norwich City,Swansea City,3-0,-
--,-,Plymouth Argyle,Swansea City,3-2,-
--,-,Portsmouth,Swansea City,0-0,-
--,-,Preston North End,Swansea City,3-3,-
--,-,Rotherham United,Swansea City,3-0,-
--,-,Scunthorpe United,Swansea City,2-2,-
--,-,Southampton,Swansea City,4-0,-
--,-,Sunderland,Swansea City,1-0,-
--,-,Swindon Town,Swansea City,2-1,-
--,-,Bury,Swindon Town,1-0,-
--,-,Cardiff City,Swindon Town,1-0,-
--,-,Charlton Athletic,Swindon Town,2-2,-
--,-,Derby County,Swindon Town,3-0,-
--,-,Grimsby Town,Swindon Town,1-2,-
--,-,Huddersfield Town,Swindon Town,2-0,-
--,-,Leeds United,Swindon Town,0-0,-
--,-,Leyton Orient,Swindon Town,2-1,-
--,-,Manchester City,Swindon Town,0-0,-
--,-,Middlesbrough,Swindon Town,1-1,-
--,-,Newcastle United,Swindon Town,4-1,-
--,-,Northampton Town,Swindon Town,4-0,-
--,-,Norwich City,Swindon Town,3-2,-
--,-,Plymouth Argyle,Swindon Town,2-4,-
--,-,Portsmouth,Swindon Town,1-4,-
--,-,Preston North End,Swindon Town,1-0,-
--,-,Rotherham United,Swindon Town,0-0,-
--,-,Scunthorpe United,Swindon Town,3-0,-
--,-,Southampton,Swindon Town,5-1,-
--,-,Sunderland,Swindon Town,6-0,-
--,-,Swansea City,Swindon Town,3-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Tue) 17 Sep 1963 (37),Bury FC (1),4-1,?,Cardiff City (1)
+?,(Sat) 22 Feb 1964 (7),Bury FC (2),0-2,?,Charlton Athletic (1)
+?,(Tue) 8 Oct 1963 (40),Bury FC (3),1-2,?,Derby County (1)
+?,(Sat) 19 Oct 1963 (41),Bury FC (4),1-1,?,Grimsby Town (1)
+?,(Sat) 7 Mar 1964 (9),Bury FC (5),0-2,?,Huddersfield Town (1)
+?,(Sat) 21 Dec 1963 (50),Bury FC (6),1-2,?,Leeds United (1)
+?,(Sat) 2 Nov 1963 (43),Bury FC (7),1-2,?,Leyton Orient FC (1)
+?,(Sat) 28 Sep 1963 (38),Bury FC (8),1-1,?,Manchester City (1)
+?,(Sat) 4 Apr 1964 (13),Bury FC (9),1-1,?,Middlesbrough FC (1)
+?,(Sat) 30 Nov 1963 (47),Bury FC (10),1-2,?,Newcastle United (1)
+?,(Sat) 18 Jan 1964 (2),Bury FC (11),1-1,?,Northampton Town (1)
+?,(Tue) 3 Sep 1963 (35),Bury FC (12),4-2,?,Norwich City (1)
+?,(Sat) 21 Sep 1963 (37),Bury FC (13),2-2,?,Plymouth Argyle (1)
+?,(Mon) 13 Apr 1964 (15),Bury FC (14),3-2,?,Portsmouth FC (1)
+?,(Sat) 18 Apr 1964 (15),Bury FC (15),2-1,?,Preston North End (1)
+?,(Sat) 24 Aug 1963 (33),Bury FC (16),4-2,?,Rotherham United (1)
+?,(Tue) 31 Mar 1964 (13),Bury FC (17),3-2,?,Scunthorpe United (1)
+?,(Tue) 21 Apr 1964 (16),Bury FC (18),1-5,?,Southampton FC (1)
+?,(Sat) 7 Sep 1963 (35),Bury FC (19),0-1,?,Sunderland AFC (1)
+?,(Sat) 21 Mar 1964 (11),Bury FC (20),3-2,?,Swansea City (1)
+?,(Tue) 18 Feb 1964 (7),Bury FC (21),1-0,?,Swindon Town (1)
+?,(Wed) 11 Sep 1963 (36),Cardiff City (2),2-1,?,Bury FC (22)
+?,(Sat) 7 Mar 1964 (9),Cardiff City (3),1-1,?,Charlton Athletic (2)
+?,(Sat) 4 Apr 1964 (13),Cardiff City (4),2-1,?,Derby County (2)
+?,(Wed) 2 Oct 1963 (39),Cardiff City (5),0-0,?,Grimsby Town (2)
+?,(Sat) 16 Nov 1963 (45),Cardiff City (6),2-1,?,Huddersfield Town (2)
+?,(Sat) 21 Sep 1963 (37),Cardiff City (7),0-0,?,Leeds United (2)
+?,(Sat) 22 Feb 1964 (7),Cardiff City (8),2-1,?,Leyton Orient FC (2)
+?,(Wed) 28 Aug 1963 (34),Cardiff City (9),2-2,?,Manchester City (2)
+?,(Sat) 2 Nov 1963 (43),Cardiff City (10),1-1,?,Middlesbrough FC (2)
+?,(Fri) 20 Mar 1964 (11),Cardiff City (11),2-2,?,Newcastle United (2)
+?,(Sat) 5 Oct 1963 (39),Cardiff City (12),1-0,?,Northampton Town (2)
+?,(Sat) 24 Aug 1963 (33),Cardiff City (13),3-1,?,Norwich City (2)
+?,(Sat) 30 Nov 1963 (47),Cardiff City (14),3-1,?,Plymouth Argyle (2)
+?,(Sat) 7 Sep 1963 (35),Cardiff City (15),1-2,?,Portsmouth FC (2)
+?,(Thu) 26 Dec 1963 (51),Cardiff City (16),0-4,?,Preston North End (2)
+?,(Fri) 17 Jan 1964 (2),Cardiff City (17),2-1,?,Rotherham United (2)
+?,(Wed) 8 Apr 1964 (14),Cardiff City (18),3-1,?,Scunthorpe United (2)
+?,(Sat) 18 Apr 1964 (15),Cardiff City (19),2-4,?,Southampton FC (2)
+?,(Sat) 8 Feb 1964 (5),Cardiff City (20),0-2,?,Sunderland AFC (2)
+?,(Sat) 19 Oct 1963 (41),Cardiff City (21),1-1,?,Swansea City (2)
+?,(Mon) 30 Mar 1964 (13),Cardiff City (22),1-0,?,Swindon Town (2)
+?,(Sat) 12 Oct 1963 (40),Charlton Athletic (3),3-0,?,Bury FC (23)
+?,(Sat) 26 Oct 1963 (42),Charlton Athletic (4),5-2,?,Cardiff City (23)
+?,(Sat) 1 Feb 1964 (4),Charlton Athletic (5),2-0,?,Derby County (3)
+?,(Tue) 17 Sep 1963 (37),Charlton Athletic (6),2-1,?,Grimsby Town (3)
+?,(Sat) 14 Sep 1963 (36),Charlton Athletic (7),5-2,?,Huddersfield Town (3)
+?,(Sat) 25 Apr 1964 (16),Charlton Athletic (8),0-2,?,Leeds United (3)
+?,(Mon) 30 Mar 1964 (13),Charlton Athletic (9),1-2,?,Leyton Orient FC (3)
+?,(Sat) 15 Feb 1964 (6),Charlton Athletic (10),4-3,?,Manchester City (3)
+?,(Sat) 31 Aug 1963 (34),Charlton Athletic (11),2-4,?,Middlesbrough FC (3)
+?,(Sat) 11 Jan 1964 (1),Charlton Athletic (12),1-2,?,Newcastle United (3)
+?,(Sat) 28 Mar 1964 (12),Charlton Athletic (13),1-1,?,Northampton Town (3)
+?,(Sat) 11 Apr 1964 (14),Charlton Athletic (14),3-1,?,Norwich City (3)
+?,(Sat) 28 Sep 1963 (38),Charlton Athletic (15),1-0,?,Plymouth Argyle (3)
+?,(Sat) 29 Feb 1964 (8),Charlton Athletic (16),0-1,?,Portsmouth FC (3)
+?,(Tue) 3 Sep 1963 (35),Charlton Athletic (17),3-0,?,Preston North End (3)
+?,(Sat) 9 Nov 1963 (44),Charlton Athletic (18),4-3,?,Rotherham United (3)
+?,(Sat) 23 Nov 1963 (46),Charlton Athletic (19),0-1,?,Scunthorpe United (3)
+?,(Sat) 14 Dec 1963 (49),Charlton Athletic (20),2-2,?,Southampton FC (3)
+?,(Sat) 7 Dec 1963 (48),Charlton Athletic (21),0-0,?,Sunderland AFC (3)
+?,(Sat) 28 Dec 1963 (51),Charlton Athletic (22),3-1,?,Swansea City (3)
+?,(Sat) 14 Mar 1964 (10),Charlton Athletic (23),2-2,?,Swindon Town (3)
+?,(Sat) 14 Mar 1964 (10),Derby County (4),2-1,?,Bury FC (24)
+?,(Sat) 23 Nov 1963 (46),Derby County (5),2-1,?,Cardiff City (24)
+?,(Sat) 21 Sep 1963 (37),Derby County (6),1-1,?,Charlton Athletic (24)
+?,(Sat) 8 Feb 1964 (5),Derby County (7),0-0,?,Grimsby Town (4)
+?,(Sat) 31 Aug 1963 (34),Derby County (8),2-0,?,Huddersfield Town (4)
+?,(Sat) 28 Mar 1964 (12),Derby County (9),1-1,?,Leeds United (4)
+?,(Wed) 11 Sep 1963 (36),Derby County (10),1-0,?,Leyton Orient FC (4)
+?,(Sat) 26 Oct 1963 (42),Derby County (11),1-3,?,Manchester City (4)
+?,(Sat) 28 Dec 1963 (51),Derby County (12),2-2,?,Middlesbrough FC (4)
+?,(Sat) 14 Dec 1963 (49),Derby County (13),1-2,?,Newcastle United (4)
+?,(Sat) 11 Jan 1964 (1),Derby County (14),0-0,?,Northampton Town (4)
+?,(Sat) 29 Feb 1964 (8),Derby County (15),2-1,?,Norwich City (4)
+?,(Sat) 18 Jan 1964 (2),Derby County (16),3-1,?,Plymouth Argyle (4)
+?,(Sat) 25 Apr 1964 (16),Derby County (17),3-1,?,Portsmouth FC (4)
+?,(Sat) 5 Oct 1963 (39),Derby County (18),1-2,?,Preston North End (4)
+?,(Sat) 7 Dec 1963 (48),Derby County (19),1-4,?,Rotherham United (4)
+?,(Sat) 25 Jan 1964 (3),Derby County (20),2-2,?,Scunthorpe United (4)
+?,(Mon) 30 Mar 1964 (13),Derby County (21),3-2,?,Southampton FC (4)
+?,(Wed) 16 Oct 1963 (41),Derby County (22),0-3,?,Sunderland AFC (4)
+?,(Wed) 28 Aug 1963 (34),Derby County (23),3-0,?,Swansea City (4)
+?,(Sat) 11 Apr 1964 (14),Derby County (24),3-0,?,Swindon Town (4)
+?,(Sat) 28 Mar 1964 (12),Grimsby Town (5),1-0,?,Bury FC (25)
+?,(Wed) 15 Apr 1964 (15),Grimsby Town (6),0-2,?,Cardiff City (25)
+?,(Tue) 10 Sep 1963 (36),Grimsby Town (7),0-2,?,Charlton Athletic (25)
+?,(Sat) 28 Sep 1963 (38),Grimsby Town (8),1-3,?,Derby County (25)
+?,(Sat) 1 Feb 1964 (4),Grimsby Town (9),2-2,?,Huddersfield Town (5)
+?,(Sat) 9 Nov 1963 (44),Grimsby Town (10),0-2,?,Leeds United (5)
+?,(Thu) 26 Dec 1963 (51),Grimsby Town (11),1-1,?,Leyton Orient FC (5)
+?,(Sat) 12 Oct 1963 (40),Grimsby Town (12),1-1,?,Manchester City (5)
+?,(Sat) 11 Jan 1964 (1),Grimsby Town (13),3-1,?,Middlesbrough FC (5)
+?,(Sat) 14 Sep 1963 (36),Grimsby Town (14),2-1,?,Newcastle United (5)
+?,(Sat) 7 Dec 1963 (48),Grimsby Town (15),4-1,?,Northampton Town (5)
+?,(Sat) 26 Oct 1963 (42),Grimsby Town (16),3-1,?,Norwich City (5)
+?,(Sat) 15 Feb 1964 (6),Grimsby Town (17),1-1,?,Plymouth Argyle (5)
+?,(Sat) 23 Nov 1963 (46),Grimsby Town (18),0-3,?,Portsmouth FC (5)
+?,(Fri) 27 Mar 1964 (12),Grimsby Town (19),0-3,?,Preston North End (5)
+?,(Sat) 29 Feb 1964 (8),Grimsby Town (20),1-3,?,Rotherham United (5)
+?,(Sat) 11 Apr 1964 (14),Grimsby Town (21),2-0,?,Scunthorpe United (5)
+?,(Sat) 31 Aug 1963 (34),Grimsby Town (22),2-2,?,Southampton FC (5)
+?,(Sat) 25 Apr 1964 (16),Grimsby Town (23),2-2,?,Sunderland AFC (5)
+?,(Fri) 13 Dec 1963 (49),Grimsby Town (24),1-1,?,Swansea City (5)
+?,(Wed) 28 Aug 1963 (34),Grimsby Town (25),1-2,?,Swindon Town (5)
+?,(Sat) 26 Oct 1963 (42),Huddersfield Town (6),2-1,?,Bury FC (26)
+?,(Sat) 29 Feb 1964 (8),Huddersfield Town (7),2-1,?,Cardiff City (26)
+?,(Tue) 7 Apr 1964 (14),Huddersfield Town (8),2-1,?,Charlton Athletic (26)
+?,(Sat) 21 Dec 1963 (50),Huddersfield Town (9),0-0,?,Derby County (26)
+?,(Sat) 21 Sep 1963 (37),Huddersfield Town (10),1-2,?,Grimsby Town (26)
+?,(Sat) 12 Oct 1963 (40),Huddersfield Town (11),0-2,?,Leeds United (6)
+?,(Sat) 5 Oct 1963 (39),Huddersfield Town (12),2-1,?,Leyton Orient FC (6)
+?,(Sat) 11 Apr 1964 (14),Huddersfield Town (13),0-2,?,Manchester City (6)
+?,(Tue) 31 Mar 1964 (13),Huddersfield Town (14),1-0,?,Middlesbrough FC (6)
+?,(Sat) 28 Dec 1963 (51),Huddersfield Town (15),3-0,?,Newcastle United (6)
+?,(Mon) 13 Apr 1964 (15),Huddersfield Town (16),0-1,?,Northampton Town (6)
+?,(Sat) 9 Nov 1963 (44),Huddersfield Town (17),1-1,?,Norwich City (6)
+?,(Sat) 7 Sep 1963 (35),Huddersfield Town (18),4-3,?,Plymouth Argyle (6)
+?,(Sat) 7 Dec 1963 (48),Huddersfield Town (19),1-1,?,Portsmouth FC (6)
+?,(Sat) 8 Feb 1964 (5),Huddersfield Town (20),2-2,?,Preston North End (6)
+?,(Sat) 28 Mar 1964 (12),Huddersfield Town (21),0-3,?,Rotherham United (6)
+?,(Sat) 25 Apr 1964 (16),Huddersfield Town (22),3-2,?,Scunthorpe United (6)
+?,(Tue) 3 Sep 1963 (35),Huddersfield Town (23),4-0,?,Southampton FC (6)
+?,(Sat) 24 Aug 1963 (33),Huddersfield Town (24),0-2,?,Sunderland AFC (6)
+?,(Tue) 10 Sep 1963 (36),Huddersfield Town (25),1-0,?,Swansea City (6)
+?,(Sat) 23 Nov 1963 (46),Huddersfield Town (26),2-0,?,Swindon Town (6)
+?,(Sat) 31 Aug 1963 (34),Leeds United (7),3-0,?,Bury FC (27)
+?,(Sat) 1 Feb 1964 (4),Leeds United (8),1-1,?,Cardiff City (27)
+?,(Sat) 2 Nov 1963 (43),Leeds United (9),1-1,?,Charlton Athletic (27)
+?,(Sat) 19 Oct 1963 (41),Leeds United (10),2-2,?,Derby County (27)
+?,(Sat) 21 Mar 1964 (11),Leeds United (11),3-1,?,Grimsby Town (27)
+?,(Sat) 22 Feb 1964 (7),Leeds United (12),1-1,?,Huddersfield Town (27)
+?,(Sat) 4 Apr 1964 (13),Leeds United (13),2-1,?,Leyton Orient FC (7)
+?,(Sat) 11 Jan 1964 (1),Leeds United (14),1-0,?,Manchester City (7)
+?,(Wed) 9 Oct 1963 (40),Leeds United (15),2-0,?,Middlesbrough FC (7)
+?,(Mon) 30 Mar 1964 (13),Leeds United (16),2-1,?,Newcastle United (7)
+?,(Sat) 14 Dec 1963 (49),Leeds United (17),0-0,?,Northampton Town (7)
+?,(Sat) 28 Sep 1963 (38),Leeds United (18),4-2,?,Norwich City (7)
+?,(Sat) 18 Apr 1964 (15),Leeds United (19),1-1,?,Plymouth Argyle (7)
+?,(Wed) 11 Sep 1963 (36),Leeds United (20),3-1,?,Portsmouth FC (7)
+?,(Sat) 16 Nov 1963 (45),Leeds United (21),1-1,?,Preston North End (7)
+?,(Wed) 28 Aug 1963 (34),Leeds United (22),1-0,?,Rotherham United (7)
+?,(Sat) 15 Feb 1964 (6),Leeds United (23),1-0,?,Scunthorpe United (7)
+?,(Sat) 7 Mar 1964 (9),Leeds United (24),3-1,?,Southampton FC (7)
+?,(Thu) 26 Dec 1963 (51),Leeds United (25),1-1,?,Sunderland AFC (7)
+?,(Sat) 30 Nov 1963 (47),Leeds United (26),2-1,?,Swansea City (7)
+?,(Sat) 14 Sep 1963 (36),Leeds United (27),0-0,?,Swindon Town (7)
+?,(Sat) 25 Apr 1964 (16),Leyton Orient FC (8),1-1,?,Bury FC (28)
+?,(Mon) 13 Apr 1964 (15),Leyton Orient FC (9),4-0,?,Cardiff City (28)
+?,(Thu) 26 Mar 1964 (12),Leyton Orient FC (10),0-3,?,Charlton Athletic (28)
+?,(Wed) 18 Sep 1963 (37),Leyton Orient FC (11),3-0,?,Derby County (28)
+?,(Sat) 28 Dec 1963 (51),Leyton Orient FC (12),0-0,?,Grimsby Town (28)
+?,(Mon) 24 Feb 1964 (8),Leyton Orient FC (13),2-3,?,Huddersfield Town (28)
+?,(Sat) 23 Nov 1963 (46),Leyton Orient FC (14),0-2,?,Leeds United (28)
+?,(Sat) 7 Dec 1963 (48),Leyton Orient FC (15),0-2,?,Manchester City (8)
+?,(Sat) 1 Feb 1964 (4),Leyton Orient FC (16),3-2,?,Middlesbrough FC (8)
+?,(Sat) 28 Sep 1963 (38),Leyton Orient FC (17),1-0,?,Newcastle United (8)
+?,(Sat) 9 Nov 1963 (44),Leyton Orient FC (18),0-0,?,Northampton Town (8)
+?,(Sat) 21 Dec 1963 (50),Leyton Orient FC (19),1-1,?,Norwich City (8)
+?,(Tue) 3 Sep 1963 (35),Leyton Orient FC (20),1-0,?,Plymouth Argyle (8)
+?,(Sat) 26 Oct 1963 (42),Leyton Orient FC (21),3-6,?,Portsmouth FC (8)
+?,(Sat) 24 Aug 1963 (33),Leyton Orient FC (22),2-2,?,Preston North End (8)
+?,(Sat) 11 Apr 1964 (14),Leyton Orient FC (23),0-2,?,Rotherham United (8)
+?,(Sat) 14 Mar 1964 (10),Leyton Orient FC (24),2-2,?,Scunthorpe United (8)
+?,(Sat) 14 Sep 1963 (36),Leyton Orient FC (25),1-0,?,Southampton FC (8)
+?,(Mon) 6 Apr 1964 (14),Leyton Orient FC (26),2-5,?,Sunderland AFC (8)
+?,(Sat) 11 Jan 1964 (1),Leyton Orient FC (27),4-0,?,Swansea City (8)
+?,(Sat) 28 Mar 1964 (12),Leyton Orient FC (28),2-1,?,Swindon Town (8)
+?,(Sat) 8 Feb 1964 (5),Manchester City (9),1-1,?,Bury FC (29)
+?,(Wed) 4 Sep 1963 (35),Manchester City (10),4-0,?,Cardiff City (29)
+?,(Sat) 5 Oct 1963 (39),Manchester City (11),1-3,?,Charlton Athletic (29)
+?,(Sat) 7 Mar 1964 (9),Manchester City (12),3-2,?,Derby County (29)
+?,(Sat) 22 Feb 1964 (7),Manchester City (13),0-4,?,Grimsby Town (29)
+?,(Sat) 30 Nov 1963 (47),Manchester City (14),5-2,?,Huddersfield Town (29)
+?,(Sat) 7 Sep 1963 (35),Manchester City (15),3-2,?,Leeds United (29)
+?,(Sat) 18 Apr 1964 (15),Manchester City (16),2-0,?,Leyton Orient FC (29)
+?,(Tue) 17 Mar 1964 (11),Manchester City (17),1-0,?,Middlesbrough FC (9)
+?,(Sat) 4 Apr 1964 (13),Manchester City (18),3-1,?,Newcastle United (9)
+?,(Sat) 21 Sep 1963 (37),Manchester City (19),3-0,?,Northampton Town (9)
+?,(Fri) 27 Mar 1964 (12),Manchester City (20),5-0,?,Norwich City (9)
+?,(Wed) 9 Oct 1963 (40),Manchester City (21),1-1,?,Plymouth Argyle (9)
+?,(Sat) 24 Aug 1963 (33),Manchester City (22),0-2,?,Portsmouth FC (9)
+?,(Sat) 19 Oct 1963 (41),Manchester City (23),2-3,?,Preston North End (9)
+?,(Sat) 21 Dec 1963 (50),Manchester City (24),6-1,?,Rotherham United (9)
+?,(Thu) 26 Dec 1963 (51),Manchester City (25),8-1,?,Scunthorpe United (9)
+?,(Sat) 21 Mar 1964 (11),Manchester City (26),1-1,?,Southampton FC (9)
+?,(Sat) 18 Jan 1964 (2),Manchester City (27),0-3,?,Sunderland AFC (9)
+?,(Sat) 2 Nov 1963 (43),Manchester City (28),1-0,?,Swansea City (9)
+?,(Wed) 18 Sep 1963 (37),Manchester City (29),0-0,?,Swindon Town (9)
+?,(Sat) 23 Nov 1963 (46),Middlesbrough FC (10),2-0,?,Bury FC (30)
+?,(Fri) 24 Apr 1964 (16),Middlesbrough FC (11),3-1,?,Cardiff City (30)
+?,(Sat) 21 Dec 1963 (50),Middlesbrough FC (12),2-3,?,Charlton Athletic (30)
+?,(Thu) 26 Dec 1963 (51),Middlesbrough FC (13),3-0,?,Derby County (30)
+?,(Sat) 7 Sep 1963 (35),Middlesbrough FC (14),6-0,?,Grimsby Town (30)
+?,(Mon) 30 Mar 1964 (13),Middlesbrough FC (15),1-1,?,Huddersfield Town (30)
+?,(Sat) 14 Mar 1964 (10),Middlesbrough FC (16),1-3,?,Leeds United (30)
+?,(Sat) 21 Sep 1963 (37),Middlesbrough FC (17),2-0,?,Leyton Orient FC (30)
+?,(Sat) 29 Feb 1964 (8),Middlesbrough FC (18),2-2,?,Manchester City (30)
+?,(Mon) 26 Aug 1963 (34),Middlesbrough FC (19),3-0,?,Newcastle United (10)
+?,(Fri) 10 Apr 1964 (14),Middlesbrough FC (20),1-0,?,Northampton Town (10)
+?,(Sat) 7 Dec 1963 (48),Middlesbrough FC (21),0-1,?,Norwich City (10)
+?,(Sat) 24 Aug 1963 (33),Middlesbrough FC (22),5-0,?,Plymouth Argyle (10)
+?,(Sat) 12 Oct 1963 (40),Middlesbrough FC (23),3-1,?,Portsmouth FC (10)
+?,(Sat) 18 Jan 1964 (2),Middlesbrough FC (24),3-0,?,Preston North End (10)
+?,(Mon) 9 Sep 1963 (36),Middlesbrough FC (25),2-2,?,Rotherham United (10)
+?,(Sat) 28 Mar 1964 (12),Middlesbrough FC (26),2-0,?,Scunthorpe United (10)
+?,(Sat) 5 Oct 1963 (39),Middlesbrough FC (27),1-0,?,Southampton FC (10)
+?,(Sat) 26 Oct 1963 (42),Middlesbrough FC (28),2-0,?,Sunderland AFC (10)
+?,(Sat) 8 Feb 1964 (5),Middlesbrough FC (29),2-1,?,Swansea City (10)
+?,(Sat) 9 Nov 1963 (44),Middlesbrough FC (30),1-1,?,Swindon Town (10)
+?,(Sat) 11 Apr 1964 (14),Newcastle United (11),0-4,?,Bury FC (31)
+?,(Sat) 9 Nov 1963 (44),Newcastle United (12),0-4,?,Cardiff City (31)
+?,(Sat) 7 Sep 1963 (35),Newcastle United (13),5-0,?,Charlton Athletic (31)
+?,(Sat) 24 Aug 1963 (33),Newcastle United (14),3-1,?,Derby County (31)
+?,(Sat) 18 Jan 1964 (2),Newcastle United (15),4-0,?,Grimsby Town (31)
+?,(Thu) 26 Dec 1963 (51),Newcastle United (16),2-0,?,Huddersfield Town (31)
+?,(Fri) 27 Mar 1964 (12),Newcastle United (17),0-1,?,Leeds United (31)
+?,(Sat) 8 Feb 1964 (5),Newcastle United (18),3-0,?,Leyton Orient FC (31)
+?,(Sat) 23 Nov 1963 (46),Newcastle United (19),3-1,?,Manchester City (31)
+?,(Wed) 4 Sep 1963 (35),Newcastle United (20),2-0,?,Middlesbrough FC (31)
+?,(Sat) 26 Oct 1963 (42),Newcastle United (21),2-3,?,Northampton Town (11)
+?,(Sat) 25 Apr 1964 (16),Newcastle United (22),2-0,?,Norwich City (11)
+?,(Sat) 21 Dec 1963 (50),Newcastle United (23),1-1,?,Plymouth Argyle (11)
+?,(Wed) 2 Oct 1963 (39),Newcastle United (24),1-0,?,Portsmouth FC (11)
+?,(Sat) 21 Sep 1963 (37),Newcastle United (25),2-4,?,Preston North End (11)
+?,(Wed) 8 Apr 1964 (14),Newcastle United (26),5-2,?,Rotherham United (11)
+?,(Sat) 7 Dec 1963 (48),Newcastle United (27),3-1,?,Scunthorpe United (11)
+?,(Wed) 11 Sep 1963 (36),Newcastle United (28),2-2,?,Southampton FC (11)
+?,(Sat) 14 Mar 1964 (10),Newcastle United (29),1-0,?,Sunderland AFC (11)
+?,(Sat) 5 Oct 1963 (39),Newcastle United (30),4-1,?,Swansea City (11)
+?,(Sat) 29 Feb 1964 (8),Newcastle United (31),4-1,?,Swindon Town (11)
+?,(Fri) 13 Sep 1963 (36),Northampton Town (12),1-2,?,Bury FC (32)
+?,(Sat) 15 Feb 1964 (6),Northampton Town (13),2-1,?,Cardiff City (32)
+?,(Sat) 19 Oct 1963 (41),Northampton Town (14),1-2,?,Charlton Athletic (32)
+?,(Sat) 7 Sep 1963 (35),Northampton Town (15),0-1,?,Derby County (32)
+?,(Sat) 18 Apr 1964 (15),Northampton Town (16),1-2,?,Grimsby Town (32)
+?,(Tue) 8 Oct 1963 (40),Northampton Town (17),1-0,?,Huddersfield Town (32)
+?,(Tue) 1 Oct 1963 (39),Northampton Town (18),0-3,?,Leeds United (32)
+?,(Sat) 21 Mar 1964 (11),Northampton Town (19),1-2,?,Leyton Orient FC (32)
+?,(Sat) 1 Feb 1964 (4),Northampton Town (20),2-1,?,Manchester City (32)
+?,(Sat) 30 Nov 1963 (47),Northampton Town (21),3-2,?,Middlesbrough FC (32)
+?,(Sat) 7 Mar 1964 (9),Northampton Town (22),2-2,?,Newcastle United (32)
+?,(Mon) 16 Sep 1963 (37),Northampton Town (23),3-2,?,Norwich City (12)
+?,(Tue) 18 Feb 1964 (7),Northampton Town (24),0-0,?,Plymouth Argyle (12)
+?,(Tue) 31 Mar 1964 (13),Northampton Town (25),2-1,?,Portsmouth FC (12)
+?,(Sat) 2 Nov 1963 (43),Northampton Town (26),0-3,?,Preston North End (12)
+?,(Thu) 26 Dec 1963 (51),Northampton Town (27),1-3,?,Rotherham United (12)
+?,(Tue) 3 Sep 1963 (35),Northampton Town (28),2-0,?,Scunthorpe United (12)
+?,(Sat) 4 Apr 1964 (13),Northampton Town (29),2-0,?,Southampton FC (12)
+?,(Sat) 21 Dec 1963 (50),Northampton Town (30),5-1,?,Sunderland AFC (12)
+?,(Sat) 16 Nov 1963 (45),Northampton Town (31),2-3,?,Swansea City (12)
+?,(Sat) 28 Sep 1963 (38),Northampton Town (32),4-0,?,Swindon Town (12)
+?,(Wed) 28 Aug 1963 (34),Norwich City (13),0-1,?,Bury FC (33)
+?,(Sat) 14 Dec 1963 (49),Norwich City (14),5-1,?,Cardiff City (33)
+?,(Sat) 30 Nov 1963 (47),Norwich City (15),1-3,?,Charlton Athletic (33)
+?,(Sat) 16 Nov 1963 (45),Norwich City (16),3-0,?,Derby County (33)
+?,(Sat) 7 Mar 1964 (9),Norwich City (17),2-0,?,Grimsby Town (33)
+?,(Sat) 21 Mar 1964 (11),Norwich City (18),2-2,?,Huddersfield Town (33)
+?,(Sat) 8 Feb 1964 (5),Norwich City (19),2-2,?,Leeds United (33)
+?,(Sat) 31 Aug 1963 (34),Norwich City (20),1-2,?,Leyton Orient FC (33)
+?,(Mon) 30 Mar 1964 (13),Norwich City (21),1-2,?,Manchester City (33)
+?,(Sat) 18 Apr 1964 (15),Norwich City (22),1-1,?,Middlesbrough FC (33)
+?,(Sat) 2 Nov 1963 (43),Norwich City (23),3-1,?,Newcastle United (33)
+?,(Wed) 11 Sep 1963 (36),Norwich City (24),3-3,?,Northampton Town (33)
+?,(Sat) 4 Apr 1964 (13),Norwich City (25),1-1,?,Plymouth Argyle (13)
+?,(Sat) 18 Jan 1964 (2),Norwich City (26),3-1,?,Portsmouth FC (13)
+?,(Wed) 2 Oct 1963 (39),Norwich City (27),2-1,?,Preston North End (13)
+?,(Sat) 21 Sep 1963 (37),Norwich City (28),2-2,?,Rotherham United (13)
+?,(Sat) 7 Sep 1963 (35),Norwich City (29),2-1,?,Scunthorpe United (13)
+?,(Sat) 19 Oct 1963 (41),Norwich City (30),1-1,?,Southampton FC (13)
+?,(Sat) 5 Oct 1963 (39),Norwich City (31),2-3,?,Sunderland AFC (13)
+?,(Sat) 22 Feb 1964 (7),Norwich City (32),3-0,?,Swansea City (13)
+?,(Thu) 26 Dec 1963 (51),Norwich City (33),3-2,?,Swindon Town (13)
+?,(Sat) 1 Feb 1964 (4),Plymouth Argyle (14),1-0,?,Bury FC (34)
+?,(Sat) 11 Apr 1964 (14),Plymouth Argyle (15),1-1,?,Cardiff City (34)
+?,(Sat) 8 Feb 1964 (5),Plymouth Argyle (16),1-1,?,Charlton Athletic (34)
+?,(Sat) 14 Sep 1963 (36),Plymouth Argyle (17),0-0,?,Derby County (34)
+?,(Sat) 5 Oct 1963 (39),Plymouth Argyle (18),3-2,?,Grimsby Town (34)
+?,(Sat) 11 Jan 1964 (1),Plymouth Argyle (19),0-0,?,Huddersfield Town (34)
+?,(Sat) 7 Dec 1963 (48),Plymouth Argyle (20),0-1,?,Leeds United (34)
+?,(Wed) 28 Aug 1963 (34),Plymouth Argyle (21),2-2,?,Leyton Orient FC (34)
+?,(Sat) 14 Mar 1964 (10),Plymouth Argyle (22),2-1,?,Manchester City (34)
+?,(Sat) 14 Dec 1963 (49),Plymouth Argyle (23),2-0,?,Middlesbrough FC (34)
+?,(Sat) 31 Aug 1963 (34),Plymouth Argyle (24),3-4,?,Newcastle United (34)
+?,(Sat) 12 Oct 1963 (40),Plymouth Argyle (25),0-3,?,Northampton Town (34)
+?,(Sat) 23 Nov 1963 (46),Plymouth Argyle (26),1-2,?,Norwich City (34)
+?,(Sat) 9 Nov 1963 (44),Plymouth Argyle (27),0-4,?,Portsmouth FC (14)
+?,(Wed) 18 Sep 1963 (37),Plymouth Argyle (28),0-2,?,Preston North End (14)
+?,(Sat) 25 Apr 1964 (16),Plymouth Argyle (29),0-0,?,Rotherham United (14)
+?,(Sat) 29 Feb 1964 (8),Plymouth Argyle (30),3-1,?,Scunthorpe United (14)
+?,(Sat) 28 Dec 1963 (51),Plymouth Argyle (31),1-1,?,Southampton FC (14)
+?,(Wed) 2 Oct 1963 (39),Plymouth Argyle (32),1-1,?,Sunderland AFC (14)
+?,(Mon) 30 Mar 1964 (13),Plymouth Argyle (33),3-2,?,Swansea City (14)
+?,(Sat) 26 Oct 1963 (42),Plymouth Argyle (34),2-4,?,Swindon Town (14)
+?,(Sat) 28 Dec 1963 (51),Portsmouth FC (15),3-3,?,Bury FC (35)
+?,(Sat) 11 Jan 1964 (1),Portsmouth FC (16),5-0,?,Cardiff City (35)
+?,(Sat) 16 Nov 1963 (45),Portsmouth FC (17),4-1,?,Charlton Athletic (35)
+?,(Sat) 2 Nov 1963 (43),Portsmouth FC (18),1-1,?,Derby County (35)
+?,(Sat) 4 Apr 1964 (13),Portsmouth FC (19),2-2,?,Grimsby Town (35)
+?,(Sat) 18 Apr 1964 (15),Portsmouth FC (20),2-1,?,Huddersfield Town (35)
+?,(Wed) 18 Sep 1963 (37),Portsmouth FC (21),1-1,?,Leeds United (35)
+?,(Sat) 7 Mar 1964 (9),Portsmouth FC (22),4-3,?,Leyton Orient FC (35)
+?,(Sat) 14 Dec 1963 (49),Portsmouth FC (23),2-2,?,Manchester City (35)
+?,(Sat) 22 Feb 1964 (7),Portsmouth FC (24),1-0,?,Middlesbrough FC (35)
+?,(Sat) 19 Oct 1963 (41),Portsmouth FC (25),5-2,?,Newcastle United (35)
+?,(Mon) 30 Mar 1964 (13),Portsmouth FC (26),3-0,?,Northampton Town (35)
+?,(Sat) 14 Sep 1963 (36),Portsmouth FC (27),1-1,?,Norwich City (35)
+?,(Sat) 21 Mar 1964 (11),Portsmouth FC (28),1-2,?,Plymouth Argyle (35)
+?,(Sat) 30 Nov 1963 (47),Portsmouth FC (29),1-2,?,Preston North End (15)
+?,(Sat) 5 Oct 1963 (39),Portsmouth FC (30),2-1,?,Rotherham United (15)
+?,(Sat) 1 Feb 1964 (4),Portsmouth FC (31),3-4,?,Scunthorpe United (15)
+?,(Sat) 28 Sep 1963 (38),Portsmouth FC (32),2-0,?,Southampton FC (15)
+?,(Wed) 4 Sep 1963 (35),Portsmouth FC (33),2-4,?,Sunderland AFC (15)
+?,(Wed) 9 Oct 1963 (40),Portsmouth FC (34),0-0,?,Swansea City (15)
+?,(Sat) 31 Aug 1963 (34),Portsmouth FC (35),1-4,?,Swindon Town (15)
+?,(Sat) 7 Dec 1963 (48),Preston North End (16),3-0,?,Bury FC (36)
+?,(Sat) 28 Dec 1963 (51),Preston North End (17),4-0,?,Cardiff City (36)
+?,(Tue) 27 Aug 1963 (34),Preston North End (18),3-1,?,Charlton Athletic (36)
+?,(Mon) 17 Feb 1964 (7),Preston North End (19),0-2,?,Derby County (36)
+?,(Mon) 30 Mar 1964 (13),Preston North End (20),1-0,?,Grimsby Town (36)
+?,(Sat) 28 Sep 1963 (38),Preston North End (21),2-1,?,Huddersfield Town (36)
+?,(Tue) 3 Mar 1964 (9),Preston North End (22),2-0,?,Leeds United (36)
+?,(Sat) 14 Dec 1963 (49),Preston North End (23),0-0,?,Leyton Orient FC (36)
+?,(Sat) 28 Mar 1964 (12),Preston North End (24),2-0,?,Manchester City (36)
+?,(Sat) 14 Sep 1963 (36),Preston North End (25),2-2,?,Middlesbrough FC (36)
+?,(Sat) 1 Feb 1964 (4),Preston North End (26),3-0,?,Newcastle United (36)
+?,(Sat) 25 Apr 1964 (16),Preston North End (27),2-1,?,Northampton Town (36)
+?,(Tue) 17 Mar 1964 (11),Preston North End (28),3-0,?,Norwich City (36)
+?,(Mon) 9 Sep 1963 (36),Preston North End (29),0-0,?,Plymouth Argyle (36)
+?,(Sat) 11 Apr 1964 (14),Preston North End (30),0-0,?,Portsmouth FC (36)
+?,(Sat) 23 Nov 1963 (46),Preston North End (31),2-2,?,Rotherham United (16)
+?,(Sat) 26 Oct 1963 (42),Preston North End (32),1-0,?,Scunthorpe United (16)
+?,(Sat) 11 Jan 1964 (1),Preston North End (33),2-1,?,Southampton FC (16)
+?,(Sat) 9 Nov 1963 (44),Preston North End (34),1-1,?,Sunderland AFC (16)
+?,(Sat) 31 Aug 1963 (34),Preston North End (35),3-3,?,Swansea City (16)
+?,(Sat) 12 Oct 1963 (40),Preston North End (36),1-0,?,Swindon Town (16)
+?,(Sat) 14 Dec 1963 (49),Rotherham United (17),6-2,?,Bury FC (37)
+?,(Fri) 13 Sep 1963 (36),Rotherham United (18),1-0,?,Cardiff City (37)
+?,(Fri) 20 Mar 1964 (11),Rotherham United (19),5-0,?,Charlton Athletic (37)
+?,(Sat) 18 Apr 1964 (15),Rotherham United (20),2-0,?,Derby County (37)
+?,(Sat) 16 Nov 1963 (45),Rotherham United (21),1-0,?,Grimsby Town (37)
+?,(Sat) 19 Oct 1963 (41),Rotherham United (22),3-1,?,Huddersfield Town (37)
+?,(Tue) 3 Sep 1963 (35),Rotherham United (23),2-2,?,Leeds United (37)
+?,(Sat) 30 Nov 1963 (47),Rotherham United (24),2-4,?,Leyton Orient FC (37)
+?,(Sat) 31 Aug 1963 (34),Rotherham United (25),1-2,?,Manchester City (37)
+?,(Tue) 17 Sep 1963 (37),Rotherham United (26),2-1,?,Middlesbrough FC (37)
+?,(Sat) 22 Feb 1964 (7),Rotherham United (27),2-3,?,Newcastle United (37)
+?,(Sat) 28 Dec 1963 (51),Rotherham United (28),1-0,?,Northampton Town (37)
+?,(Sat) 1 Feb 1964 (4),Rotherham United (29),4-0,?,Norwich City (37)
+?,(Sat) 2 Nov 1963 (43),Rotherham United (30),3-1,?,Plymouth Argyle (37)
+?,(Sat) 15 Feb 1964 (6),Rotherham United (31),4-2,?,Portsmouth FC (37)
+?,(Sat) 4 Apr 1964 (13),Rotherham United (32),4-2,?,Preston North End (37)
+?,(Sat) 28 Sep 1963 (38),Rotherham United (33),2-1,?,Scunthorpe United (17)
+?,(Tue) 1 Oct 1963 (39),Rotherham United (34),2-3,?,Southampton FC (17)
+?,(Mon) 30 Mar 1964 (13),Rotherham United (35),2-2,?,Sunderland AFC (17)
+?,(Sat) 7 Mar 1964 (9),Rotherham United (36),3-0,?,Swansea City (17)
+?,(Sat) 11 Jan 1964 (1),Rotherham United (37),0-0,?,Swindon Town (17)
+?,(Thu) 26 Mar 1964 (12),Scunthorpe United (18),0-0,?,Bury FC (38)
+?,(Fri) 30 Aug 1963 (34),Scunthorpe United (19),1-2,?,Cardiff City (38)
+?,(Sat) 4 Apr 1964 (13),Scunthorpe United (20),1-1,?,Charlton Athletic (38)
+?,(Fri) 20 Mar 1964 (11),Scunthorpe United (21),3-2,?,Derby County (38)
+?,(Sat) 30 Nov 1963 (47),Scunthorpe United (22),2-2,?,Grimsby Town (38)
+?,(Sat) 2 Nov 1963 (43),Scunthorpe United (23),1-0,?,Huddersfield Town (38)
+?,(Sat) 5 Oct 1963 (39),Scunthorpe United (24),0-1,?,Leeds United (38)
+?,(Tue) 1 Oct 1963 (39),Scunthorpe United (25),0-0,?,Leyton Orient FC (38)
+?,(Sat) 28 Dec 1963 (51),Scunthorpe United (26),2-4,?,Manchester City (38)
+?,(Sat) 19 Oct 1963 (41),Scunthorpe United (27),1-0,?,Middlesbrough FC (38)
+?,(Sat) 18 Apr 1964 (15),Scunthorpe United (28),2-0,?,Newcastle United (38)
+?,(Tue) 27 Aug 1963 (34),Scunthorpe United (29),1-2,?,Northampton Town (38)
+?,(Sat) 11 Jan 1964 (1),Scunthorpe United (30),2-2,?,Norwich City (38)
+?,(Sat) 16 Nov 1963 (45),Scunthorpe United (31),1-0,?,Plymouth Argyle (38)
+?,(Sat) 21 Sep 1963 (37),Scunthorpe United (32),1-1,?,Portsmouth FC (38)
+?,(Sat) 7 Mar 1964 (9),Scunthorpe United (33),1-0,?,Preston North End (38)
+?,(Sat) 8 Feb 1964 (5),Scunthorpe United (34),4-3,?,Rotherham United (38)
+?,(Sat) 22 Feb 1964 (7),Scunthorpe United (35),1-2,?,Southampton FC (18)
+?,(Mon) 9 Sep 1963 (36),Scunthorpe United (36),1-1,?,Sunderland AFC (18)
+?,(Thu) 12 Sep 1963 (36),Scunthorpe United (37),2-2,?,Swansea City (18)
+?,(Sat) 14 Dec 1963 (49),Scunthorpe United (38),3-0,?,Swindon Town (18)
+?,(Sat) 29 Feb 1964 (8),Southampton FC (19),0-1,?,Bury FC (39)
+?,(Sat) 7 Dec 1963 (48),Southampton FC (20),3-2,?,Cardiff City (39)
+?,(Sat) 24 Aug 1963 (33),Southampton FC (21),6-1,?,Charlton Athletic (39)
+?,(Wed) 1 Apr 1964 (13),Southampton FC (22),6-4,?,Derby County (39)
+?,(Sat) 21 Dec 1963 (50),Southampton FC (23),6-0,?,Grimsby Town (39)
+?,(Wed) 28 Aug 1963 (34),Southampton FC (24),1-1,?,Huddersfield Town (39)
+?,(Sat) 26 Oct 1963 (42),Southampton FC (25),1-4,?,Leeds United (39)
+?,(Sat) 18 Jan 1964 (2),Southampton FC (26),3-0,?,Leyton Orient FC (39)
+?,(Sat) 9 Nov 1963 (44),Southampton FC (27),4-2,?,Manchester City (39)
+?,(Sat) 15 Feb 1964 (6),Southampton FC (28),2-2,?,Middlesbrough FC (39)
+?,(Wed) 18 Sep 1963 (37),Southampton FC (29),2-0,?,Newcastle United (39)
+?,(Sat) 23 Nov 1963 (46),Southampton FC (30),3-1,?,Northampton Town (39)
+?,(Sat) 28 Mar 1964 (12),Southampton FC (31),3-0,?,Norwich City (39)
+?,(Thu) 26 Dec 1963 (51),Southampton FC (32),1-2,?,Plymouth Argyle (39)
+?,(Sat) 8 Feb 1964 (5),Southampton FC (33),2-3,?,Portsmouth FC (39)
+?,(Sat) 7 Sep 1963 (35),Southampton FC (34),4-5,?,Preston North End (39)
+?,(Mon) 27 Apr 1964 (17),Southampton FC (35),6-1,?,Rotherham United (39)
+?,(Wed) 29 Jan 1964 (4),Southampton FC (36),7-2,?,Scunthorpe United (39)
+?,(Sat) 11 Apr 1964 (14),Southampton FC (37),0-0,?,Sunderland AFC (19)
+?,(Sat) 21 Sep 1963 (37),Southampton FC (38),4-0,?,Swansea City (19)
+?,(Sat) 25 Apr 1964 (16),Southampton FC (39),5-1,?,Swindon Town (19)
+?,(Sat) 11 Jan 1964 (1),Sunderland AFC (20),4-1,?,Bury FC (40)
+?,(Sat) 28 Sep 1963 (38),Sunderland AFC (21),3-3,?,Cardiff City (40)
+?,(Sat) 18 Apr 1964 (15),Sunderland AFC (22),2-1,?,Charlton Athletic (40)
+?,(Sat) 22 Feb 1964 (7),Sunderland AFC (23),3-0,?,Derby County (40)
+?,(Sat) 2 Nov 1963 (43),Sunderland AFC (24),3-0,?,Grimsby Town (40)
+?,(Sat) 14 Dec 1963 (49),Sunderland AFC (25),3-2,?,Huddersfield Town (40)
+?,(Sat) 28 Dec 1963 (51),Sunderland AFC (26),2-0,?,Leeds United (40)
+?,(Sat) 16 Nov 1963 (45),Sunderland AFC (27),4-1,?,Leyton Orient FC (40)
+?,(Sat) 14 Sep 1963 (36),Sunderland AFC (28),2-0,?,Manchester City (40)
+?,(Sat) 7 Mar 1964 (9),Sunderland AFC (29),0-0,?,Middlesbrough FC (40)
+?,(Wed) 9 Oct 1963 (40),Sunderland AFC (30),2-1,?,Newcastle United (40)
+?,(Sat) 31 Aug 1963 (34),Sunderland AFC (31),0-2,?,Northampton Town (40)
+?,(Wed) 19 Feb 1964 (7),Sunderland AFC (32),0-0,?,Norwich City (40)
+?,(Sat) 19 Oct 1963 (41),Sunderland AFC (33),1-0,?,Plymouth Argyle (40)
+?,(Wed) 28 Aug 1963 (34),Sunderland AFC (34),3-0,?,Portsmouth FC (40)
+?,(Sat) 21 Mar 1964 (11),Sunderland AFC (35),4-0,?,Preston North End (40)
+?,(Fri) 27 Mar 1964 (12),Sunderland AFC (36),2-0,?,Rotherham United (40)
+?,(Wed) 18 Sep 1963 (37),Sunderland AFC (37),1-0,?,Scunthorpe United (40)
+?,(Sat) 30 Nov 1963 (47),Sunderland AFC (38),1-2,?,Southampton FC (40)
+?,(Sat) 4 Apr 1964 (13),Sunderland AFC (39),1-0,?,Swansea City (20)
+?,(Sat) 1 Feb 1964 (4),Sunderland AFC (40),6-0,?,Swindon Town (20)
+?,(Sat) 9 Nov 1963 (44),Swansea City (21),0-2,?,Bury FC (41)
+?,(Sat) 28 Mar 1964 (12),Swansea City (22),3-0,?,Cardiff City (41)
+?,(Thu) 26 Dec 1963 (51),Swansea City (23),1-2,?,Charlton Athletic (41)
+?,(Tue) 3 Sep 1963 (35),Swansea City (24),2-1,?,Derby County (41)
+?,(Sat) 24 Aug 1963 (33),Swansea City (25),1-1,?,Grimsby Town (41)
+?,(Tue) 17 Sep 1963 (37),Swansea City (26),1-2,?,Huddersfield Town (41)
+?,(Sat) 11 Apr 1964 (14),Swansea City (27),0-3,?,Leeds United (41)
+?,(Sat) 7 Sep 1963 (35),Swansea City (28),1-0,?,Leyton Orient FC (41)
+?,(Sat) 25 Apr 1964 (16),Swansea City (29),3-3,?,Manchester City (41)
+?,(Sat) 28 Sep 1963 (38),Swansea City (30),2-1,?,Middlesbrough FC (41)
+?,(Tue) 17 Mar 1964 (11),Swansea City (31),0-1,?,Newcastle United (41)
+?,(Tue) 7 Apr 1964 (14),Swansea City (32),1-1,?,Northampton Town (41)
+?,(Tue) 15 Oct 1963 (41),Swansea City (33),3-1,?,Norwich City (41)
+?,(Tue) 31 Mar 1964 (13),Swansea City (34),2-1,?,Plymouth Argyle (41)
+?,(Tue) 21 Apr 1964 (16),Swansea City (35),1-1,?,Portsmouth FC (41)
+?,(Fri) 20 Dec 1963 (50),Swansea City (36),5-1,?,Preston North End (41)
+?,(Sat) 26 Oct 1963 (42),Swansea City (37),4-2,?,Rotherham United (41)
+?,(Thu) 16 Jan 1964 (2),Swansea City (38),4-1,?,Scunthorpe United (41)
+?,(Tue) 3 Mar 1964 (9),Swansea City (39),6-0,?,Southampton FC (41)
+?,(Sat) 23 Nov 1963 (46),Swansea City (40),1-2,?,Sunderland AFC (41)
+?,(Sat) 7 Dec 1963 (48),Swansea City (41),3-0,?,Swindon Town (21)
+?,(Sat) 5 Oct 1963 (39),Swindon Town (22),2-1,?,Bury FC (42)
+?,(Fri) 27 Mar 1964 (12),Swindon Town (23),1-2,?,Cardiff City (42)
+?,(Tue) 1 Oct 1963 (39),Swindon Town (24),2-2,?,Charlton Athletic (42)
+?,(Sat) 30 Nov 1963 (47),Swindon Town (25),0-0,?,Derby County (42)
+?,(Tue) 3 Sep 1963 (35),Swindon Town (26),2-1,?,Grimsby Town (42)
+?,(Sat) 4 Apr 1964 (13),Swindon Town (27),1-2,?,Huddersfield Town (42)
+?,(Sat) 18 Jan 1964 (2),Swindon Town (28),2-2,?,Leeds United (42)
+?,(Sat) 19 Oct 1963 (41),Swindon Town (29),5-0,?,Leyton Orient FC (42)
+?,(Tue) 10 Sep 1963 (36),Swindon Town (30),3-0,?,Manchester City (42)
+?,(Sat) 21 Mar 1964 (11),Swindon Town (31),2-0,?,Middlesbrough FC (42)
+?,(Sat) 16 Nov 1963 (45),Swindon Town (32),0-0,?,Newcastle United (42)
+?,(Sat) 8 Feb 1964 (5),Swindon Town (33),2-3,?,Northampton Town (42)
+?,(Sat) 28 Dec 1963 (51),Swindon Town (34),2-2,?,Norwich City (42)
+?,(Sat) 7 Mar 1964 (9),Swindon Town (35),2-1,?,Plymouth Argyle (42)
+?,(Sat) 21 Dec 1963 (50),Swindon Town (36),2-0,?,Portsmouth FC (42)
+?,(Sat) 22 Feb 1964 (7),Swindon Town (37),1-4,?,Preston North End (42)
+?,(Sat) 7 Sep 1963 (35),Swindon Town (38),3-1,?,Rotherham United (42)
+?,(Sat) 24 Aug 1963 (33),Swindon Town (39),3-0,?,Scunthorpe United (42)
+?,(Sat) 2 Nov 1963 (43),Swindon Town (40),1-2,?,Southampton FC (42)
+?,(Sat) 21 Sep 1963 (37),Swindon Town (41),1-0,?,Sunderland AFC (42)
+?,(Sat) 18 Apr 1964 (15),Swindon Town (42),2-1,?,Swansea City (42)

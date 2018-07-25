@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barrow,Accrington Stanley,3-1,-
--,-,Carlisle United,Accrington Stanley,2-1,-
--,-,Chesterfield,Accrington Stanley,4-2,-
--,-,Crewe Alexandra,Accrington Stanley,2-1,-
--,-,Darlington,Accrington Stanley,2-4,-
--,-,Doncaster Rovers,Accrington Stanley,3-1,-
--,-,Halifax Town,Accrington Stanley,1-1,-
--,-,Hartlepool United,Accrington Stanley,2-2,-
--,-,Lincoln City,Accrington Stanley,3-3,-
--,-,Nelson,Accrington Stanley,2-1,-
--,-,New Brighton,Accrington Stanley,5-0,-
--,-,Port Vale,Accrington Stanley,5-2,-
--,-,Rochdale,Accrington Stanley,4-0,-
--,-,Rotherham United,Accrington Stanley,2-4,-
--,-,South Shields,Accrington Stanley,2-2,-
--,-,Southport,Accrington Stanley,2-0,-
--,-,Stockport County,Accrington Stanley,1-0,-
--,-,Tranmere Rovers,Accrington Stanley,2-2,-
--,-,Wigan Borough,Accrington Stanley,2-1,-
--,-,Wrexham,Accrington Stanley,0-1,-
--,-,York City,Accrington Stanley,2-0,-
--,-,Accrington Stanley,Barrow,3-1,-
--,-,Carlisle United,Barrow,7-1,-
--,-,Chesterfield,Barrow,2-1,-
--,-,Crewe Alexandra,Barrow,0-0,-
--,-,Darlington,Barrow,4-0,-
--,-,Doncaster Rovers,Barrow,4-0,-
--,-,Halifax Town,Barrow,0-1,-
--,-,Hartlepool United,Barrow,2-0,-
--,-,Lincoln City,Barrow,3-0,-
--,-,Nelson,Barrow,2-0,-
--,-,New Brighton,Barrow,5-0,-
--,-,Port Vale,Barrow,5-0,-
--,-,Rochdale,Barrow,6-1,-
--,-,Rotherham United,Barrow,7-0,-
--,-,South Shields,Barrow,2-0,-
--,-,Southport,Barrow,0-2,-
--,-,Stockport County,Barrow,5-0,-
--,-,Tranmere Rovers,Barrow,5-2,-
--,-,Wigan Borough,Barrow,2-0,-
--,-,Wrexham,Barrow,3-0,-
--,-,York City,Barrow,3-1,-
--,-,Accrington Stanley,Carlisle United,7-2,-
--,-,Barrow,Carlisle United,0-2,-
--,-,Chesterfield,Carlisle United,3-1,-
--,-,Crewe Alexandra,Carlisle United,1-2,-
--,-,Darlington,Carlisle United,3-0,-
--,-,Doncaster Rovers,Carlisle United,1-4,-
--,-,Halifax Town,Carlisle United,1-0,-
--,-,Hartlepool United,Carlisle United,1-0,-
--,-,Lincoln City,Carlisle United,4-1,-
--,-,Nelson,Carlisle United,2-2,-
--,-,New Brighton,Carlisle United,2-1,-
--,-,Port Vale,Carlisle United,4-0,-
--,-,Rochdale,Carlisle United,2-0,-
--,-,Rotherham United,Carlisle United,4-1,-
--,-,South Shields,Carlisle United,5-2,-
--,-,Southport,Carlisle United,4-3,-
--,-,Stockport County,Carlisle United,7-1,-
--,-,Tranmere Rovers,Carlisle United,3-0,-
--,-,Wigan Borough,Carlisle United,8-0,-
--,-,Wrexham,Carlisle United,3-3,-
--,-,York City,Carlisle United,2-2,-
--,-,Accrington Stanley,Chesterfield,3-0,-
--,-,Barrow,Chesterfield,0-1,-
--,-,Carlisle United,Chesterfield,6-0,-
--,-,Crewe Alexandra,Chesterfield,2-1,-
--,-,Darlington,Chesterfield,1-4,-
--,-,Doncaster Rovers,Chesterfield,2-1,-
--,-,Halifax Town,Chesterfield,3-2,-
--,-,Hartlepool United,Chesterfield,0-0,-
--,-,Lincoln City,Chesterfield,2-1,-
--,-,Nelson,Chesterfield,0-2,-
--,-,New Brighton,Chesterfield,1-1,-
--,-,Port Vale,Chesterfield,4-1,-
--,-,Rochdale,Chesterfield,2-1,-
--,-,Rotherham United,Chesterfield,1-1,-
--,-,South Shields,Chesterfield,3-1,-
--,-,Southport,Chesterfield,5-1,-
--,-,Stockport County,Chesterfield,1-0,-
--,-,Tranmere Rovers,Chesterfield,1-2,-
--,-,Wigan Borough,Chesterfield,2-1,-
--,-,Wrexham,Chesterfield,1-1,-
--,-,York City,Chesterfield,1-1,-
--,-,Accrington Stanley,Crewe Alexandra,0-3,-
--,-,Barrow,Crewe Alexandra,1-0,-
--,-,Carlisle United,Crewe Alexandra,2-0,-
--,-,Chesterfield,Crewe Alexandra,5-1,-
--,-,Darlington,Crewe Alexandra,3-0,-
--,-,Doncaster Rovers,Crewe Alexandra,2-1,-
--,-,Halifax Town,Crewe Alexandra,1-3,-
--,-,Hartlepool United,Crewe Alexandra,5-1,-
--,-,Lincoln City,Crewe Alexandra,2-2,-
--,-,Nelson,Crewe Alexandra,1-1,-
--,-,New Brighton,Crewe Alexandra,3-1,-
--,-,Port Vale,Crewe Alexandra,2-0,-
--,-,Rochdale,Crewe Alexandra,3-1,-
--,-,Rotherham United,Crewe Alexandra,2-1,-
--,-,South Shields,Crewe Alexandra,1-0,-
--,-,Southport,Crewe Alexandra,0-3,-
--,-,Stockport County,Crewe Alexandra,2-3,-
--,-,Tranmere Rovers,Crewe Alexandra,1-2,-
--,-,Wigan Borough,Crewe Alexandra,2-2,-
--,-,Wrexham,Crewe Alexandra,1-0,-
--,-,York City,Crewe Alexandra,4-2,-
--,-,Accrington Stanley,Darlington,3-1,-
--,-,Barrow,Darlington,0-1,-
--,-,Carlisle United,Darlington,1-4,-
--,-,Chesterfield,Darlington,4-1,-
--,-,Crewe Alexandra,Darlington,1-2,-
--,-,Doncaster Rovers,Darlington,3-1,-
--,-,Halifax Town,Darlington,3-1,-
--,-,Hartlepool United,Darlington,2-5,-
--,-,Lincoln City,Darlington,2-2,-
--,-,Nelson,Darlington,0-1,-
--,-,New Brighton,Darlington,1-3,-
--,-,Port Vale,Darlington,0-2,-
--,-,Rochdale,Darlington,4-1,-
--,-,Rotherham United,Darlington,1-4,-
--,-,South Shields,Darlington,3-3,-
--,-,Southport,Darlington,3-0,-
--,-,Stockport County,Darlington,4-0,-
--,-,Tranmere Rovers,Darlington,3-0,-
--,-,Wigan Borough,Darlington,3-2,-
--,-,Wrexham,Darlington,2-2,-
--,-,York City,Darlington,1-1,-
--,-,Accrington Stanley,Doncaster Rovers,3-3,-
--,-,Barrow,Doncaster Rovers,1-0,-
--,-,Carlisle United,Doncaster Rovers,1-1,-
--,-,Chesterfield,Doncaster Rovers,2-1,-
--,-,Crewe Alexandra,Doncaster Rovers,4-0,-
--,-,Darlington,Doncaster Rovers,6-2,-
--,-,Halifax Town,Doncaster Rovers,1-0,-
--,-,Hartlepool United,Doncaster Rovers,3-0,-
--,-,Lincoln City,Doncaster Rovers,3-1,-
--,-,Nelson,Doncaster Rovers,4-1,-
--,-,New Brighton,Doncaster Rovers,1-0,-
--,-,Port Vale,Doncaster Rovers,2-1,-
--,-,Rochdale,Doncaster Rovers,2-4,-
--,-,Rotherham United,Doncaster Rovers,1-0,-
--,-,South Shields,Doncaster Rovers,2-1,-
--,-,Southport,Doncaster Rovers,1-1,-
--,-,Stockport County,Doncaster Rovers,3-0,-
--,-,Tranmere Rovers,Doncaster Rovers,2-1,-
--,-,Wigan Borough,Doncaster Rovers,3-2,-
--,-,Wrexham,Doncaster Rovers,0-2,-
--,-,York City,Doncaster Rovers,2-2,-
--,-,Accrington Stanley,Halifax Town,7-1,-
--,-,Barrow,Halifax Town,0-4,-
--,-,Carlisle United,Halifax Town,2-0,-
--,-,Chesterfield,Halifax Town,2-0,-
--,-,Crewe Alexandra,Halifax Town,4-1,-
--,-,Darlington,Halifax Town,3-2,-
--,-,Doncaster Rovers,Halifax Town,1-0,-
--,-,Hartlepool United,Halifax Town,3-0,-
--,-,Lincoln City,Halifax Town,0-1,-
--,-,Nelson,Halifax Town,1-0,-
--,-,New Brighton,Halifax Town,4-0,-
--,-,Port Vale,Halifax Town,3-0,-
--,-,Rochdale,Halifax Town,0-3,-
--,-,Rotherham United,Halifax Town,2-0,-
--,-,South Shields,Halifax Town,1-0,-
--,-,Southport,Halifax Town,4-0,-
--,-,Stockport County,Halifax Town,6-0,-
--,-,Tranmere Rovers,Halifax Town,3-3,-
--,-,Wigan Borough,Halifax Town,2-1,-
--,-,Wrexham,Halifax Town,2-1,-
--,-,York City,Halifax Town,3-0,-
--,-,Accrington Stanley,Hartlepool United,3-0,-
--,-,Barrow,Hartlepool United,3-0,-
--,-,Carlisle United,Hartlepool United,5-1,-
--,-,Chesterfield,Hartlepool United,2-0,-
--,-,Crewe Alexandra,Hartlepool United,5-2,-
--,-,Darlington,Hartlepool United,0-0,-
--,-,Doncaster Rovers,Hartlepool United,0-0,-
--,-,Halifax Town,Hartlepool United,0-0,-
--,-,Lincoln City,Hartlepool United,2-2,-
--,-,Nelson,Hartlepool United,3-2,-
--,-,New Brighton,Hartlepool United,0-0,-
--,-,Port Vale,Hartlepool United,2-1,-
--,-,Rochdale,Hartlepool United,1-1,-
--,-,Rotherham United,Hartlepool United,0-4,-
--,-,South Shields,Hartlepool United,3-5,-
--,-,Southport,Hartlepool United,1-1,-
--,-,Stockport County,Hartlepool United,5-1,-
--,-,Tranmere Rovers,Hartlepool United,7-1,-
--,-,Wigan Borough,Hartlepool United,1-3,-
--,-,Wrexham,Hartlepool United,3-5,-
--,-,York City,Hartlepool United,4-1,-
--,-,Accrington Stanley,Lincoln City,0-3,-
--,-,Barrow,Lincoln City,2-1,-
--,-,Carlisle United,Lincoln City,2-4,-
--,-,Chesterfield,Lincoln City,2-1,-
--,-,Crewe Alexandra,Lincoln City,1-1,-
--,-,Darlington,Lincoln City,1-1,-
--,-,Doncaster Rovers,Lincoln City,0-0,-
--,-,Halifax Town,Lincoln City,1-1,-
--,-,Hartlepool United,Lincoln City,4-0,-
--,-,Nelson,Lincoln City,0-0,-
--,-,New Brighton,Lincoln City,1-4,-
--,-,Port Vale,Lincoln City,5-2,-
--,-,Rochdale,Lincoln City,3-4,-
--,-,Rotherham United,Lincoln City,1-0,-
--,-,South Shields,Lincoln City,3-1,-
--,-,Southport,Lincoln City,3-2,-
--,-,Stockport County,Lincoln City,1-1,-
--,-,Tranmere Rovers,Lincoln City,0-1,-
--,-,Wigan Borough,Lincoln City,4-1,-
--,-,Wrexham,Lincoln City,3-1,-
--,-,York City,Lincoln City,1-0,-
--,-,Accrington Stanley,Nelson,3-0,-
--,-,Barrow,Nelson,0-2,-
--,-,Carlisle United,Nelson,2-2,-
--,-,Chesterfield,Nelson,3-0,-
--,-,Crewe Alexandra,Nelson,4-0,-
--,-,Darlington,Nelson,6-1,-
--,-,Doncaster Rovers,Nelson,3-0,-
--,-,Halifax Town,Nelson,1-1,-
--,-,Hartlepool United,Nelson,1-2,-
--,-,Lincoln City,Nelson,4-1,-
--,-,New Brighton,Nelson,2-1,-
--,-,Port Vale,Nelson,3-1,-
--,-,Rochdale,Nelson,4-1,-
--,-,Rotherham United,Nelson,1-2,-
--,-,South Shields,Nelson,2-1,-
--,-,Southport,Nelson,0-0,-
--,-,Stockport County,Nelson,6-1,-
--,-,Tranmere Rovers,Nelson,2-3,-
--,-,Wigan Borough,Nelson,2-0,-
--,-,Wrexham,Nelson,5-1,-
--,-,York City,Nelson,1-0,-
--,-,Accrington Stanley,New Brighton,5-0,-
--,-,Barrow,New Brighton,3-0,-
--,-,Carlisle United,New Brighton,2-2,-
--,-,Chesterfield,New Brighton,1-0,-
--,-,Crewe Alexandra,New Brighton,2-3,-
--,-,Darlington,New Brighton,1-2,-
--,-,Doncaster Rovers,New Brighton,1-1,-
--,-,Halifax Town,New Brighton,4-0,-
--,-,Hartlepool United,New Brighton,1-1,-
--,-,Lincoln City,New Brighton,5-3,-
--,-,Nelson,New Brighton,2-1,-
--,-,Port Vale,New Brighton,5-0,-
--,-,Rochdale,New Brighton,5-0,-
--,-,Rotherham United,New Brighton,2-2,-
--,-,South Shields,New Brighton,1-2,-
--,-,Southport,New Brighton,2-1,-
--,-,Stockport County,New Brighton,2-0,-
--,-,Tranmere Rovers,New Brighton,3-1,-
--,-,Wigan Borough,New Brighton,5-0,-
--,-,Wrexham,New Brighton,2-1,-
--,-,York City,New Brighton,3-0,-
--,-,Accrington Stanley,Port Vale,0-2,-
--,-,Barrow,Port Vale,1-1,-
--,-,Carlisle United,Port Vale,1-4,-
--,-,Chesterfield,Port Vale,1-1,-
--,-,Crewe Alexandra,Port Vale,0-2,-
--,-,Darlington,Port Vale,0-1,-
--,-,Doncaster Rovers,Port Vale,0-2,-
--,-,Halifax Town,Port Vale,1-2,-
--,-,Hartlepool United,Port Vale,2-0,-
--,-,Lincoln City,Port Vale,3-2,-
--,-,Nelson,Port Vale,2-3,-
--,-,New Brighton,Port Vale,0-1,-
--,-,Rochdale,Port Vale,0-0,-
--,-,Rotherham United,Port Vale,2-2,-
--,-,South Shields,Port Vale,0-0,-
--,-,Southport,Port Vale,1-2,-
--,-,Stockport County,Port Vale,4-2,-
--,-,Tranmere Rovers,Port Vale,1-5,-
--,-,Wigan Borough,Port Vale,0-3,-
--,-,Wrexham,Port Vale,0-2,-
--,-,York City,Port Vale,0-2,-
--,-,Accrington Stanley,Rochdale,6-2,-
--,-,Barrow,Rochdale,2-0,-
--,-,Carlisle United,Rochdale,2-0,-
--,-,Chesterfield,Rochdale,2-0,-
--,-,Crewe Alexandra,Rochdale,6-1,-
--,-,Darlington,Rochdale,3-0,-
--,-,Doncaster Rovers,Rochdale,3-1,-
--,-,Halifax Town,Rochdale,2-3,-
--,-,Hartlepool United,Rochdale,2-8,-
--,-,Lincoln City,Rochdale,0-0,-
--,-,Nelson,Rochdale,1-0,-
--,-,New Brighton,Rochdale,2-0,-
--,-,Port Vale,Rochdale,3-3,-
--,-,Rotherham United,Rochdale,0-4,-
--,-,South Shields,Rochdale,2-2,-
--,-,Southport,Rochdale,2-3,-
--,-,Stockport County,Rochdale,4-2,-
--,-,Tranmere Rovers,Rochdale,2-2,-
--,-,Wigan Borough,Rochdale,3-1,-
--,-,Wrexham,Rochdale,8-0,-
--,-,York City,Rochdale,6-0,-
--,-,Accrington Stanley,Rotherham United,2-0,-
--,-,Barrow,Rotherham United,5-1,-
--,-,Carlisle United,Rotherham United,3-1,-
--,-,Chesterfield,Rotherham United,2-1,-
--,-,Crewe Alexandra,Rotherham United,6-1,-
--,-,Darlington,Rotherham United,8-1,-
--,-,Doncaster Rovers,Rotherham United,2-0,-
--,-,Halifax Town,Rotherham United,1-1,-
--,-,Hartlepool United,Rotherham United,5-1,-
--,-,Lincoln City,Rotherham United,1-1,-
--,-,Nelson,Rotherham United,0-1,-
--,-,New Brighton,Rotherham United,2-2,-
--,-,Port Vale,Rotherham United,7-1,-
--,-,Rochdale,Rotherham United,1-2,-
--,-,South Shields,Rotherham United,5-0,-
--,-,Southport,Rotherham United,7-1,-
--,-,Stockport County,Rotherham United,6-1,-
--,-,Tranmere Rovers,Rotherham United,5-4,-
--,-,Wigan Borough,Rotherham United,1-1,-
--,-,Wrexham,Rotherham United,1-0,-
--,-,York City,Rotherham United,3-0,-
--,-,Accrington Stanley,South Shields,1-2,-
--,-,Barrow,South Shields,1-3,-
--,-,Carlisle United,South Shields,4-1,-
--,-,Chesterfield,South Shields,1-2,-
--,-,Crewe Alexandra,South Shields,2-2,-
--,-,Darlington,South Shields,8-3,-
--,-,Doncaster Rovers,South Shields,1-0,-
--,-,Halifax Town,South Shields,0-2,-
--,-,Hartlepool United,South Shields,2-1,-
--,-,Lincoln City,South Shields,2-2,-
--,-,Nelson,South Shields,0-1,-
--,-,New Brighton,South Shields,4-1,-
--,-,Port Vale,South Shields,3-0,-
--,-,Rochdale,South Shields,2-0,-
--,-,Rotherham United,South Shields,0-1,-
--,-,Southport,South Shields,2-1,-
--,-,Stockport County,South Shields,2-0,-
--,-,Tranmere Rovers,South Shields,3-0,-
--,-,Wigan Borough,South Shields,1-1,-
--,-,Wrexham,South Shields,1-3,-
--,-,York City,South Shields,2-2,-
--,-,Accrington Stanley,Southport,1-1,-
--,-,Barrow,Southport,0-2,-
--,-,Carlisle United,Southport,4-0,-
--,-,Chesterfield,Southport,2-0,-
--,-,Crewe Alexandra,Southport,5-4,-
--,-,Darlington,Southport,2-1,-
--,-,Doncaster Rovers,Southport,3-1,-
--,-,Halifax Town,Southport,1-1,-
--,-,Hartlepool United,Southport,1-1,-
--,-,Lincoln City,Southport,1-1,-
--,-,Nelson,Southport,2-2,-
--,-,New Brighton,Southport,1-3,-
--,-,Port Vale,Southport,1-0,-
--,-,Rochdale,Southport,2-2,-
--,-,Rotherham United,Southport,6-3,-
--,-,South Shields,Southport,4-0,-
--,-,Stockport County,Southport,2-2,-
--,-,Tranmere Rovers,Southport,3-1,-
--,-,Wigan Borough,Southport,1-1,-
--,-,Wrexham,Southport,1-2,-
--,-,York City,Southport,0-4,-
--,-,Accrington Stanley,Stockport County,0-1,-
--,-,Barrow,Stockport County,1-4,-
--,-,Carlisle United,Stockport County,1-5,-
--,-,Chesterfield,Stockport County,1-3,-
--,-,Crewe Alexandra,Stockport County,1-1,-
--,-,Darlington,Stockport County,1-2,-
--,-,Doncaster Rovers,Stockport County,1-1,-
--,-,Halifax Town,Stockport County,0-3,-
--,-,Hartlepool United,Stockport County,0-1,-
--,-,Lincoln City,Stockport County,1-0,-
--,-,Nelson,Stockport County,1-2,-
--,-,New Brighton,Stockport County,3-2,-
--,-,Port Vale,Stockport County,1-2,-
--,-,Rochdale,Stockport County,3-1,-
--,-,Rotherham United,Stockport County,2-2,-
--,-,South Shields,Stockport County,2-3,-
--,-,Southport,Stockport County,1-2,-
--,-,Tranmere Rovers,Stockport County,2-0,-
--,-,Wigan Borough,Stockport County,0-1,-
--,-,Wrexham,Stockport County,1-1,-
--,-,York City,Stockport County,1-2,-
--,-,Accrington Stanley,Tranmere Rovers,3-3,-
--,-,Barrow,Tranmere Rovers,1-1,-
--,-,Carlisle United,Tranmere Rovers,4-3,-
--,-,Chesterfield,Tranmere Rovers,1-0,-
--,-,Crewe Alexandra,Tranmere Rovers,3-1,-
--,-,Darlington,Tranmere Rovers,7-2,-
--,-,Doncaster Rovers,Tranmere Rovers,1-1,-
--,-,Halifax Town,Tranmere Rovers,0-1,-
--,-,Hartlepool United,Tranmere Rovers,2-0,-
--,-,Lincoln City,Tranmere Rovers,8-0,-
--,-,Nelson,Tranmere Rovers,0-1,-
--,-,New Brighton,Tranmere Rovers,3-0,-
--,-,Port Vale,Tranmere Rovers,1-0,-
--,-,Rochdale,Tranmere Rovers,2-1,-
--,-,Rotherham United,Tranmere Rovers,5-0,-
--,-,South Shields,Tranmere Rovers,1-5,-
--,-,Southport,Tranmere Rovers,4-4,-
--,-,Stockport County,Tranmere Rovers,3-1,-
--,-,Wigan Borough,Tranmere Rovers,0-2,-
--,-,Wrexham,Tranmere Rovers,2-0,-
--,-,York City,Tranmere Rovers,0-0,-
--,-,Accrington Stanley,Wigan Borough,3-1,-
--,-,Barrow,Wigan Borough,4-1,-
--,-,Carlisle United,Wigan Borough,5-0,-
--,-,Chesterfield,Wigan Borough,5-0,-
--,-,Crewe Alexandra,Wigan Borough,2-1,-
--,-,Darlington,Wigan Borough,2-0,-
--,-,Doncaster Rovers,Wigan Borough,4-2,-
--,-,Halifax Town,Wigan Borough,2-1,-
--,-,Hartlepool United,Wigan Borough,4-0,-
--,-,Lincoln City,Wigan Borough,2-0,-
--,-,Nelson,Wigan Borough,1-3,-
--,-,New Brighton,Wigan Borough,5-0,-
--,-,Port Vale,Wigan Borough,4-0,-
--,-,Rochdale,Wigan Borough,2-1,-
--,-,Rotherham United,Wigan Borough,4-1,-
--,-,South Shields,Wigan Borough,2-2,-
--,-,Southport,Wigan Borough,1-1,-
--,-,Stockport County,Wigan Borough,1-1,-
--,-,Tranmere Rovers,Wigan Borough,3-0,-
--,-,Wrexham,Wigan Borough,2-1,-
--,-,York City,Wigan Borough,4-0,-
--,-,Accrington Stanley,Wrexham,1-3,-
--,-,Barrow,Wrexham,3-3,-
--,-,Carlisle United,Wrexham,5-1,-
--,-,Chesterfield,Wrexham,5-0,-
--,-,Crewe Alexandra,Wrexham,2-0,-
--,-,Darlington,Wrexham,5-1,-
--,-,Doncaster Rovers,Wrexham,4-2,-
--,-,Halifax Town,Wrexham,2-0,-
--,-,Hartlepool United,Wrexham,5-0,-
--,-,Lincoln City,Wrexham,3-0,-
--,-,Nelson,Wrexham,4-0,-
--,-,New Brighton,Wrexham,2-1,-
--,-,Port Vale,Wrexham,3-0,-
--,-,Rochdale,Wrexham,5-4,-
--,-,Rotherham United,Wrexham,1-3,-
--,-,South Shields,Wrexham,1-1,-
--,-,Southport,Wrexham,5-3,-
--,-,Stockport County,Wrexham,0-1,-
--,-,Tranmere Rovers,Wrexham,2-1,-
--,-,Wigan Borough,Wrexham,2-1,-
--,-,York City,Wrexham,0-0,-
--,-,Accrington Stanley,York City,1-1,-
--,-,Barrow,York City,0-0,-
--,-,Carlisle United,York City,2-2,-
--,-,Chesterfield,York City,3-0,-
--,-,Crewe Alexandra,York City,2-2,-
--,-,Darlington,York City,5-2,-
--,-,Doncaster Rovers,York City,0-3,-
--,-,Halifax Town,York City,2-2,-
--,-,Hartlepool United,York City,3-1,-
--,-,Lincoln City,York City,3-0,-
--,-,Nelson,York City,3-1,-
--,-,New Brighton,York City,1-1,-
--,-,Port Vale,York City,1-1,-
--,-,Rochdale,York City,4-2,-
--,-,Rotherham United,York City,2-5,-
--,-,South Shields,York City,4-1,-
--,-,Southport,York City,1-0,-
--,-,Stockport County,York City,2-3,-
--,-,Tranmere Rovers,York City,4-4,-
--,-,Wigan Borough,York City,0-2,-
--,-,Wrexham,York City,1-1,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 2 Nov 1929 (43),Accrington Stanley (1),3-1,?,Barrow AFC (1)
+?,(Wed) 1 Jan 1930 (0),Accrington Stanley (2),7-2,?,Carlisle United (1)
+?,(Sat) 7 Sep 1929 (35),Accrington Stanley (3),3-0,?,Chesterfield FC (1)
+?,(Sat) 12 Apr 1930 (14),Accrington Stanley (4),0-3,?,Crewe Alexandra (1)
+?,(Thu) 26 Dec 1929 (51),Accrington Stanley (5),3-1,?,Darlington FC (1)
+?,(Mon) 24 Feb 1930 (8),Accrington Stanley (6),3-3,?,Doncaster Rovers (1)
+?,(Sat) 1 Feb 1930 (4),Accrington Stanley (7),7-1,?,Halifax Town (1)
+?,(Mon) 9 Sep 1929 (36),Accrington Stanley (8),3-0,?,Hartlepool United (1)
+?,(Sat) 18 Jan 1930 (2),Accrington Stanley (9),0-3,?,Lincoln City (1)
+?,(Tue) 24 Sep 1929 (38),Accrington Stanley (10),3-0,?,Nelson (1)
+?,(Sat) 16 Nov 1929 (45),Accrington Stanley (11),5-0,?,New Brighton (1)
+?,(Sat) 15 Mar 1930 (10),Accrington Stanley (12),0-2,?,Port Vale FC (1)
+?,(Sat) 15 Feb 1930 (6),Accrington Stanley (13),6-2,?,Rochdale AFC (1)
+?,(Sat) 5 Oct 1929 (39),Accrington Stanley (14),2-0,?,Rotherham United (1)
+?,(Mon) 21 Apr 1930 (16),Accrington Stanley (15),1-2,?,South Shields (1)
+?,(Sat) 26 Apr 1930 (16),Accrington Stanley (16),1-1,?,Southport FC (1)
+?,(Sat) 29 Mar 1930 (12),Accrington Stanley (17),0-1,?,Stockport County (1)
+?,(Sat) 21 Sep 1929 (37),Accrington Stanley (18),3-3,?,Tranmere Rovers (1)
+?,(Sat) 19 Oct 1929 (41),Accrington Stanley (19),3-1,?,Wigan Borough (1)
+?,(Sat) 1 Mar 1930 (8),Accrington Stanley (20),1-3,?,Wrexham AFC (1)
+?,(Wed) 5 Mar 1930 (9),Accrington Stanley (21),1-1,?,York City (1)
+?,(Sat) 8 Mar 1930 (9),Barrow AFC (2),3-1,?,Accrington Stanley (22)
+?,(Sat) 5 Oct 1929 (39),Barrow AFC (3),0-2,?,Carlisle United (2)
+?,(Sat) 5 Apr 1930 (13),Barrow AFC (4),0-1,?,Chesterfield FC (2)
+?,(Mon) 21 Apr 1930 (16),Barrow AFC (5),1-0,?,Crewe Alexandra (2)
+?,(Sat) 9 Nov 1929 (44),Barrow AFC (6),0-1,?,Darlington FC (2)
+?,(Sat) 23 Nov 1929 (46),Barrow AFC (7),1-0,?,Doncaster Rovers (2)
+?,(Sat) 21 Dec 1929 (50),Barrow AFC (8),0-4,?,Halifax Town (2)
+?,(Sat) 22 Mar 1930 (11),Barrow AFC (9),3-0,?,Hartlepool United (2)
+?,(Sat) 7 Dec 1929 (48),Barrow AFC (10),2-1,?,Lincoln City (2)
+?,(Sat) 15 Feb 1930 (6),Barrow AFC (11),0-2,?,Nelson (2)
+?,(Sat) 31 Aug 1929 (34),Barrow AFC (12),3-0,?,New Brighton (2)
+?,(Sat) 4 Jan 1930 (0),Barrow AFC (13),1-1,?,Port Vale FC (2)
+?,(Sat) 22 Feb 1930 (7),Barrow AFC (14),2-0,?,Rochdale AFC (2)
+?,(Sat) 14 Sep 1929 (36),Barrow AFC (15),5-1,?,Rotherham United (2)
+?,(Sat) 26 Oct 1929 (42),Barrow AFC (16),1-3,?,South Shields (2)
+?,(Sat) 3 May 1930 (17),Barrow AFC (17),0-2,?,Southport FC (2)
+?,(Mon) 9 Sep 1929 (36),Barrow AFC (18),1-4,?,Stockport County (2)
+?,(Sat) 19 Apr 1930 (15),Barrow AFC (19),1-1,?,Tranmere Rovers (2)
+?,(Sat) 1 Feb 1930 (4),Barrow AFC (20),4-1,?,Wigan Borough (2)
+?,(Sat) 21 Sep 1929 (37),Barrow AFC (21),3-3,?,Wrexham AFC (2)
+?,(Wed) 25 Dec 1929 (51),Barrow AFC (22),0-0,?,York City (2)
+?,(Fri) 18 Apr 1930 (15),Carlisle United (3),2-1,?,Accrington Stanley (23)
+?,(Sat) 8 Feb 1930 (5),Carlisle United (4),7-1,?,Barrow AFC (23)
+?,(Sat) 9 Nov 1929 (44),Carlisle United (5),6-0,?,Chesterfield FC (3)
+?,(Sat) 31 Aug 1929 (34),Carlisle United (6),2-0,?,Crewe Alexandra (3)
+?,(Sat) 22 Feb 1930 (7),Carlisle United (7),1-4,?,Darlington FC (3)
+?,(Sat) 8 Mar 1930 (9),Carlisle United (8),1-1,?,Doncaster Rovers (3)
+?,(Sat) 5 Apr 1930 (13),Carlisle United (9),2-0,?,Halifax Town (3)
+?,(Sat) 26 Oct 1929 (42),Carlisle United (10),5-2,?,Hartlepool United (3)
+?,(Sat) 22 Mar 1930 (11),Carlisle United (11),2-4,?,Lincoln City (3)
+?,(Thu) 23 Jan 1930 (3),Carlisle United (12),2-2,?,Nelson (3)
+?,(Sat) 25 Jan 1930 (3),Carlisle United (13),2-2,?,New Brighton (3)
+?,(Sat) 28 Sep 1929 (38),Carlisle United (14),1-4,?,Port Vale FC (3)
+?,(Sat) 19 Apr 1930 (15),Carlisle United (15),2-0,?,Rochdale AFC (3)
+?,(Sat) 7 Dec 1929 (48),Carlisle United (16),3-1,?,Rotherham United (3)
+?,(Sat) 21 Dec 1929 (50),Carlisle United (17),4-1,?,South Shields (3)
+?,(Thu) 12 Sep 1929 (36),Carlisle United (18),4-0,?,Southport FC (3)
+?,(Sat) 14 Sep 1929 (36),Carlisle United (19),1-5,?,Stockport County (3)
+?,(Sat) 23 Nov 1929 (46),Carlisle United (20),4-3,?,Tranmere Rovers (3)
+?,(Sat) 3 May 1930 (17),Carlisle United (21),5-0,?,Wigan Borough (3)
+?,(Sat) 12 Oct 1929 (40),Carlisle United (22),5-1,?,Wrexham AFC (3)
+?,(Sat) 4 Jan 1930 (0),Carlisle United (23),2-2,?,York City (3)
+?,(Sat) 4 Jan 1930 (0),Chesterfield FC (4),4-2,?,Accrington Stanley (24)
+?,(Wed) 12 Mar 1930 (10),Chesterfield FC (5),2-1,?,Barrow AFC (24)
+?,(Sat) 15 Mar 1930 (10),Chesterfield FC (6),3-1,?,Carlisle United (24)
+?,(Sat) 19 Oct 1929 (41),Chesterfield FC (7),5-1,?,Crewe Alexandra (4)
+?,(Sat) 14 Sep 1929 (36),Chesterfield FC (8),4-1,?,Darlington FC (4)
+?,(Sat) 28 Sep 1929 (38),Chesterfield FC (9),2-1,?,Doncaster Rovers (4)
+?,(Fri) 18 Apr 1930 (15),Chesterfield FC (10),2-0,?,Halifax Town (4)
+?,(Sat) 25 Jan 1930 (3),Chesterfield FC (11),2-0,?,Hartlepool United (4)
+?,(Sat) 15 Feb 1930 (6),Chesterfield FC (12),2-1,?,Lincoln City (4)
+?,(Sat) 2 Nov 1929 (43),Chesterfield FC (13),3-0,?,Nelson (4)
+?,(Mon) 7 Apr 1930 (14),Chesterfield FC (14),1-0,?,New Brighton (4)
+?,(Sat) 12 Apr 1930 (14),Chesterfield FC (15),1-1,?,Port Vale FC (4)
+?,(Wed) 1 Jan 1930 (0),Chesterfield FC (16),2-0,?,Rochdale AFC (4)
+?,(Thu) 26 Dec 1929 (51),Chesterfield FC (17),2-1,?,Rotherham United (4)
+?,(Sat) 31 Aug 1929 (34),Chesterfield FC (18),1-2,?,South Shields (4)
+?,(Sat) 1 Mar 1930 (8),Chesterfield FC (19),2-0,?,Southport FC (4)
+?,(Sat) 26 Apr 1930 (16),Chesterfield FC (20),1-3,?,Stockport County (4)
+?,(Mon) 23 Sep 1929 (38),Chesterfield FC (21),1-0,?,Tranmere Rovers (4)
+?,(Sat) 16 Nov 1929 (45),Chesterfield FC (22),5-0,?,Wigan Borough (4)
+?,(Sat) 29 Mar 1930 (12),Chesterfield FC (23),5-0,?,Wrexham AFC (4)
+?,(Sat) 8 Feb 1930 (5),Chesterfield FC (24),3-0,?,York City (4)
+?,(Sat) 7 Dec 1929 (48),Crewe Alexandra (5),2-1,?,Accrington Stanley (25)
+?,(Fri) 18 Apr 1930 (15),Crewe Alexandra (6),0-0,?,Barrow AFC (25)
+?,(Sat) 28 Dec 1929 (51),Crewe Alexandra (7),1-2,?,Carlisle United (25)
+?,(Sat) 22 Feb 1930 (7),Crewe Alexandra (8),2-1,?,Chesterfield FC (25)
+?,(Sat) 19 Apr 1930 (15),Crewe Alexandra (9),1-2,?,Darlington FC (5)
+?,(Sat) 21 Sep 1929 (37),Crewe Alexandra (10),4-0,?,Doncaster Rovers (5)
+?,(Sat) 9 Nov 1929 (44),Crewe Alexandra (11),4-1,?,Halifax Town (5)
+?,(Sat) 21 Dec 1929 (50),Crewe Alexandra (12),5-2,?,Hartlepool United (5)
+?,(Sat) 26 Oct 1929 (42),Crewe Alexandra (13),1-1,?,Lincoln City (5)
+?,(Sat) 7 Sep 1929 (35),Crewe Alexandra (14),4-0,?,Nelson (5)
+?,(Sat) 12 Oct 1929 (40),Crewe Alexandra (15),2-3,?,New Brighton (5)
+?,(Sat) 3 May 1930 (17),Crewe Alexandra (16),0-2,?,Port Vale FC (5)
+?,(Sat) 23 Nov 1929 (46),Crewe Alexandra (17),6-1,?,Rochdale AFC (5)
+?,(Sat) 22 Mar 1930 (11),Crewe Alexandra (18),6-1,?,Rotherham United (5)
+?,(Sat) 5 Apr 1930 (13),Crewe Alexandra (19),2-2,?,South Shields (5)
+?,(Sat) 18 Jan 1930 (2),Crewe Alexandra (20),5-4,?,Southport FC (5)
+?,(Sat) 8 Feb 1930 (5),Crewe Alexandra (21),1-1,?,Stockport County (5)
+?,(Sat) 8 Mar 1930 (9),Crewe Alexandra (22),3-1,?,Tranmere Rovers (5)
+?,(Mon) 2 Sep 1929 (35),Crewe Alexandra (23),2-1,?,Wigan Borough (5)
+?,(Wed) 25 Dec 1929 (51),Crewe Alexandra (24),2-0,?,Wrexham AFC (5)
+?,(Sat) 28 Sep 1929 (38),Crewe Alexandra (25),2-2,?,York City (5)
+?,(Wed) 25 Dec 1929 (51),Darlington FC (6),2-4,?,Accrington Stanley (26)
+?,(Sat) 15 Mar 1930 (10),Darlington FC (7),4-0,?,Barrow AFC (26)
+?,(Sat) 19 Oct 1929 (41),Darlington FC (8),3-0,?,Carlisle United (26)
+?,(Sat) 18 Jan 1930 (2),Darlington FC (9),1-4,?,Chesterfield FC (26)
+?,(Mon) 28 Apr 1930 (17),Darlington FC (10),3-0,?,Crewe Alexandra (26)
+?,(Sat) 7 Sep 1929 (35),Darlington FC (11),6-2,?,Doncaster Rovers (6)
+?,(Sat) 5 Oct 1929 (39),Darlington FC (12),3-2,?,Halifax Town (6)
+?,(Sat) 28 Dec 1929 (51),Darlington FC (13),0-0,?,Hartlepool United (6)
+?,(Sat) 21 Sep 1929 (37),Darlington FC (14),1-1,?,Lincoln City (6)
+?,(Wed) 4 Sep 1929 (35),Darlington FC (15),6-1,?,Nelson (6)
+?,(Sat) 29 Mar 1930 (12),Darlington FC (16),1-2,?,New Brighton (6)
+?,(Sat) 16 Nov 1929 (45),Darlington FC (17),0-1,?,Port Vale FC (6)
+?,(Tue) 22 Apr 1930 (16),Darlington FC (18),3-0,?,Rochdale AFC (6)
+?,(Sat) 15 Feb 1930 (6),Darlington FC (19),8-1,?,Rotherham United (6)
+?,(Wed) 1 Jan 1930 (0),Darlington FC (20),8-3,?,South Shields (6)
+?,(Sat) 14 Dec 1929 (49),Darlington FC (21),2-1,?,Southport FC (6)
+?,(Wed) 19 Feb 1930 (7),Darlington FC (22),1-2,?,Stockport County (6)
+?,(Sat) 1 Feb 1930 (4),Darlington FC (23),7-2,?,Tranmere Rovers (6)
+?,(Sat) 1 Mar 1930 (8),Darlington FC (24),2-0,?,Wigan Borough (6)
+?,(Sat) 2 Nov 1929 (43),Darlington FC (25),5-1,?,Wrexham AFC (6)
+?,(Sat) 12 Apr 1930 (14),Darlington FC (26),5-2,?,York City (6)
+?,(Sat) 31 Aug 1929 (34),Doncaster Rovers (7),3-1,?,Accrington Stanley (27)
+?,(Sat) 29 Mar 1930 (12),Doncaster Rovers (8),4-0,?,Barrow AFC (27)
+?,(Sat) 2 Nov 1929 (43),Doncaster Rovers (9),1-4,?,Carlisle United (27)
+?,(Sat) 1 Feb 1930 (4),Doncaster Rovers (10),2-1,?,Chesterfield FC (27)
+?,(Thu) 10 Apr 1930 (14),Doncaster Rovers (11),2-1,?,Crewe Alexandra (27)
+?,(Sat) 4 Jan 1930 (0),Doncaster Rovers (12),3-1,?,Darlington FC (27)
+?,(Mon) 23 Sep 1929 (38),Doncaster Rovers (13),1-0,?,Halifax Town (7)
+?,(Sat) 14 Sep 1929 (36),Doncaster Rovers (14),0-0,?,Hartlepool United (7)
+?,(Sat) 5 Oct 1929 (39),Doncaster Rovers (15),0-0,?,Lincoln City (7)
+?,(Sat) 1 Mar 1930 (8),Doncaster Rovers (16),3-0,?,Nelson (7)
+?,(Sat) 12 Apr 1930 (14),Doncaster Rovers (17),1-1,?,New Brighton (7)
+?,(Thu) 1 May 1930 (17),Doncaster Rovers (18),0-2,?,Port Vale FC (7)
+?,(Thu) 26 Dec 1929 (51),Doncaster Rovers (19),3-1,?,Rochdale AFC (7)
+?,(Fri) 18 Apr 1930 (15),Doncaster Rovers (20),2-0,?,Rotherham United (7)
+?,(Mon) 2 Sep 1929 (35),Doncaster Rovers (21),1-0,?,South Shields (7)
+?,(Sat) 19 Oct 1929 (41),Doncaster Rovers (22),3-1,?,Southport FC (7)
+?,(Thu) 20 Mar 1930 (11),Doncaster Rovers (23),1-1,?,Stockport County (7)
+?,(Sat) 15 Feb 1930 (6),Doncaster Rovers (24),1-1,?,Tranmere Rovers (7)
+?,(Sat) 15 Mar 1930 (10),Doncaster Rovers (25),4-2,?,Wigan Borough (7)
+?,(Sat) 16 Nov 1929 (45),Doncaster Rovers (26),4-2,?,Wrexham AFC (7)
+?,(Sat) 26 Apr 1930 (16),Doncaster Rovers (27),0-3,?,York City (7)
+?,(Sat) 28 Sep 1929 (38),Halifax Town (8),1-1,?,Accrington Stanley (28)
+?,(Sat) 11 Jan 1930 (1),Halifax Town (9),0-1,?,Barrow AFC (28)
+?,(Thu) 20 Feb 1930 (7),Halifax Town (10),1-0,?,Carlisle United (28)
+?,(Mon) 21 Apr 1930 (16),Halifax Town (11),3-2,?,Chesterfield FC (28)
+?,(Sat) 15 Mar 1930 (10),Halifax Town (12),1-3,?,Crewe Alexandra (28)
+?,(Sat) 8 Feb 1930 (5),Halifax Town (13),3-1,?,Darlington FC (28)
+?,(Mon) 16 Sep 1929 (37),Halifax Town (14),1-0,?,Doncaster Rovers (28)
+?,(Sat) 12 Oct 1929 (40),Halifax Town (15),0-0,?,Hartlepool United (8)
+?,(Wed) 25 Dec 1929 (51),Halifax Town (16),1-1,?,Lincoln City (8)
+?,(Sat) 29 Mar 1930 (12),Halifax Town (17),1-1,?,Nelson (8)
+?,(Sat) 19 Oct 1929 (41),Halifax Town (18),4-0,?,New Brighton (8)
+?,(Sat) 31 Aug 1929 (34),Halifax Town (19),1-2,?,Port Vale FC (8)
+?,(Sat) 14 Sep 1929 (36),Halifax Town (20),2-3,?,Rochdale AFC (8)
+?,(Sat) 4 Jan 1930 (0),Halifax Town (21),1-1,?,Rotherham United (8)
+?,(Sat) 25 Jan 1930 (3),Halifax Town (22),0-2,?,South Shields (8)
+?,(Sat) 16 Nov 1929 (45),Halifax Town (23),1-1,?,Southport FC (8)
+?,(Sat) 1 Mar 1930 (8),Halifax Town (24),0-3,?,Stockport County (8)
+?,(Mon) 9 Sep 1929 (36),Halifax Town (25),0-1,?,Tranmere Rovers (8)
+?,(Sat) 12 Apr 1930 (14),Halifax Town (26),2-1,?,Wigan Borough (8)
+?,(Thu) 19 Dec 1929 (50),Halifax Town (27),2-0,?,Wrexham AFC (8)
+?,(Sat) 2 Nov 1929 (43),Halifax Town (28),2-2,?,York City (8)
+?,(Mon) 2 Sep 1929 (35),Hartlepool United (9),2-2,?,Accrington Stanley (29)
+?,(Sat) 16 Nov 1929 (45),Hartlepool United (10),2-0,?,Barrow AFC (29)
+?,(Sat) 1 Mar 1930 (8),Hartlepool United (11),1-0,?,Carlisle United (29)
+?,(Sat) 21 Sep 1929 (37),Hartlepool United (12),0-0,?,Chesterfield FC (29)
+?,(Sat) 26 Apr 1930 (16),Hartlepool United (13),5-1,?,Crewe Alexandra (29)
+?,(Sat) 31 Aug 1929 (34),Hartlepool United (14),2-5,?,Darlington FC (29)
+?,(Sat) 18 Jan 1930 (2),Hartlepool United (15),3-0,?,Doncaster Rovers (29)
+?,(Sat) 15 Feb 1930 (6),Hartlepool United (16),3-0,?,Halifax Town (29)
+?,(Sat) 1 Feb 1930 (4),Hartlepool United (17),4-0,?,Lincoln City (9)
+?,(Sat) 19 Oct 1929 (41),Hartlepool United (18),1-2,?,Nelson (9)
+?,(Sat) 11 Jan 1930 (1),Hartlepool United (19),1-1,?,New Brighton (9)
+?,(Sat) 29 Mar 1930 (12),Hartlepool United (20),2-0,?,Port Vale FC (9)
+?,(Mon) 21 Apr 1930 (16),Hartlepool United (21),2-8,?,Rochdale AFC (9)
+?,(Wed) 1 Jan 1930 (0),Hartlepool United (22),5-1,?,Rotherham United (9)
+?,(Wed) 25 Dec 1929 (51),Hartlepool United (23),2-1,?,South Shields (9)
+?,(Sat) 4 Jan 1930 (0),Hartlepool United (24),1-1,?,Southport FC (9)
+?,(Sat) 12 Apr 1930 (14),Hartlepool United (25),0-1,?,Stockport County (9)
+?,(Sat) 5 Oct 1929 (39),Hartlepool United (26),2-0,?,Tranmere Rovers (9)
+?,(Sat) 2 Nov 1929 (43),Hartlepool United (27),4-0,?,Wigan Borough (9)
+?,(Sat) 15 Mar 1930 (10),Hartlepool United (28),5-0,?,Wrexham AFC (9)
+?,(Wed) 2 Apr 1930 (13),Hartlepool United (29),3-1,?,York City (9)
+?,(Sat) 14 Sep 1929 (36),Lincoln City (10),3-3,?,Accrington Stanley (30)
+?,(Sat) 12 Apr 1930 (14),Lincoln City (11),3-0,?,Barrow AFC (30)
+?,(Sat) 16 Nov 1929 (45),Lincoln City (12),4-1,?,Carlisle United (30)
+?,(Sat) 12 Oct 1929 (40),Lincoln City (13),2-1,?,Chesterfield FC (30)
+?,(Sat) 1 Mar 1930 (8),Lincoln City (14),2-2,?,Crewe Alexandra (30)
+?,(Sat) 25 Jan 1930 (3),Lincoln City (15),2-2,?,Darlington FC (30)
+?,(Sat) 8 Feb 1930 (5),Lincoln City (16),3-1,?,Doncaster Rovers (30)
+?,(Thu) 26 Dec 1929 (51),Lincoln City (17),0-1,?,Halifax Town (30)
+?,(Sat) 28 Sep 1929 (38),Lincoln City (18),2-2,?,Hartlepool United (30)
+?,(Sat) 15 Mar 1930 (10),Lincoln City (19),4-1,?,Nelson (10)
+?,(Sat) 26 Apr 1930 (16),Lincoln City (20),5-3,?,New Brighton (10)
+?,(Mon) 16 Sep 1929 (37),Lincoln City (21),3-2,?,Port Vale FC (10)
+?,(Sat) 31 Aug 1929 (34),Lincoln City (22),0-0,?,Rochdale AFC (10)
+?,(Mon) 9 Sep 1929 (36),Lincoln City (23),1-1,?,Rotherham United (10)
+?,(Sat) 4 Jan 1930 (0),Lincoln City (24),2-2,?,South Shields (10)
+?,(Sat) 2 Nov 1929 (43),Lincoln City (25),1-1,?,Southport FC (10)
+?,(Wed) 23 Apr 1930 (16),Lincoln City (26),1-0,?,Stockport County (10)
+?,(Mon) 21 Apr 1930 (16),Lincoln City (27),8-0,?,Tranmere Rovers (10)
+?,(Sat) 29 Mar 1930 (12),Lincoln City (28),2-0,?,Wigan Borough (10)
+?,(Wed) 19 Feb 1930 (7),Lincoln City (29),3-0,?,Wrexham AFC (10)
+?,(Sat) 19 Oct 1929 (41),Lincoln City (30),3-0,?,York City (10)
+?,(Sat) 21 Dec 1929 (50),Nelson (11),2-1,?,Accrington Stanley (31)
+?,(Sat) 12 Oct 1929 (40),Nelson (12),2-0,?,Barrow AFC (31)
+?,(Wed) 25 Dec 1929 (51),Nelson (13),2-2,?,Carlisle United (31)
+?,(Sat) 8 Mar 1930 (9),Nelson (14),0-2,?,Chesterfield FC (31)
+?,(Sat) 4 Jan 1930 (0),Nelson (15),1-1,?,Crewe Alexandra (31)
+?,(Wed) 11 Sep 1929 (36),Nelson (16),0-1,?,Darlington FC (31)
+?,(Sat) 26 Oct 1929 (42),Nelson (17),4-1,?,Doncaster Rovers (31)
+?,(Sat) 23 Nov 1929 (46),Nelson (18),1-0,?,Halifax Town (31)
+?,(Sat) 22 Feb 1930 (7),Nelson (19),3-2,?,Hartlepool United (31)
+?,(Sat) 9 Nov 1929 (44),Nelson (20),0-0,?,Lincoln City (31)
+?,(Sat) 28 Sep 1929 (38),Nelson (21),2-1,?,New Brighton (11)
+?,(Sat) 8 Feb 1930 (5),Nelson (22),2-3,?,Port Vale FC (11)
+?,(Tue) 14 Jan 1930 (2),Nelson (23),1-0,?,Rochdale AFC (11)
+?,(Sat) 5 Apr 1930 (13),Nelson (24),0-1,?,Rotherham United (11)
+?,(Sat) 19 Apr 1930 (15),Nelson (25),0-1,?,South Shields (11)
+?,(Sat) 31 Aug 1929 (34),Nelson (26),2-2,?,Southport FC (11)
+?,(Sat) 25 Jan 1930 (3),Nelson (27),1-2,?,Stockport County (11)
+?,(Sat) 22 Mar 1930 (11),Nelson (28),0-1,?,Tranmere Rovers (11)
+?,(Fri) 18 Apr 1930 (15),Nelson (29),1-3,?,Wigan Borough (11)
+?,(Tue) 1 Oct 1929 (39),Nelson (30),4-0,?,Wrexham AFC (11)
+?,(Sat) 14 Sep 1929 (36),Nelson (31),3-1,?,York City (11)
+?,(Sat) 22 Mar 1930 (11),New Brighton (12),5-0,?,Accrington Stanley (32)
+?,(Sat) 28 Dec 1929 (51),New Brighton (13),5-0,?,Barrow AFC (32)
+?,(Sat) 21 Sep 1929 (37),New Brighton (14),2-1,?,Carlisle United (32)
+?,(Sat) 19 Apr 1930 (15),New Brighton (15),1-1,?,Chesterfield FC (32)
+?,(Sat) 15 Feb 1930 (6),New Brighton (16),3-1,?,Crewe Alexandra (32)
+?,(Sat) 23 Nov 1929 (46),New Brighton (17),1-3,?,Darlington FC (32)
+?,(Sat) 7 Dec 1929 (48),New Brighton (18),1-0,?,Doncaster Rovers (32)
+?,(Sat) 22 Feb 1930 (7),New Brighton (19),4-0,?,Halifax Town (32)
+?,(Sat) 5 Apr 1930 (13),New Brighton (20),0-0,?,Hartlepool United (32)
+?,(Sat) 21 Dec 1929 (50),New Brighton (21),1-4,?,Lincoln City (32)
+?,(Sat) 1 Feb 1930 (4),New Brighton (22),2-1,?,Nelson (32)
+?,(Mon) 2 Sep 1929 (35),New Brighton (23),0-1,?,Port Vale FC (12)
+?,(Sat) 8 Mar 1930 (9),New Brighton (24),2-0,?,Rochdale AFC (12)
+?,(Sat) 26 Oct 1929 (42),New Brighton (25),2-2,?,Rotherham United (12)
+?,(Sat) 9 Nov 1929 (44),New Brighton (26),4-1,?,South Shields (12)
+?,(Sat) 5 Oct 1929 (39),New Brighton (27),1-3,?,Southport FC (12)
+?,(Fri) 18 Apr 1930 (15),New Brighton (28),3-2,?,Stockport County (12)
+?,(Thu) 26 Dec 1929 (51),New Brighton (29),3-0,?,Tranmere Rovers (12)
+?,(Sat) 18 Jan 1930 (2),New Brighton (30),5-0,?,Wigan Borough (12)
+?,(Sat) 7 Sep 1929 (35),New Brighton (31),2-1,?,Wrexham AFC (12)
+?,(Wed) 1 Jan 1930 (0),New Brighton (32),1-1,?,York City (12)
+?,(Sat) 9 Nov 1929 (44),Port Vale FC (13),5-2,?,Accrington Stanley (33)
+?,(Sat) 7 Sep 1929 (35),Port Vale FC (14),5-0,?,Barrow AFC (33)
+?,(Sat) 1 Feb 1930 (4),Port Vale FC (15),4-0,?,Carlisle United (33)
+?,(Sat) 7 Dec 1929 (48),Port Vale FC (16),4-1,?,Chesterfield FC (33)
+?,(Mon) 23 Sep 1929 (38),Port Vale FC (17),2-0,?,Crewe Alexandra (33)
+?,(Sat) 22 Mar 1930 (11),Port Vale FC (18),0-2,?,Darlington FC (33)
+?,(Sat) 5 Apr 1930 (13),Port Vale FC (19),2-1,?,Doncaster Rovers (33)
+?,(Sat) 28 Dec 1929 (51),Port Vale FC (20),3-0,?,Halifax Town (33)
+?,(Sat) 23 Nov 1929 (46),Port Vale FC (21),2-1,?,Hartlepool United (33)
+?,(Sat) 19 Apr 1930 (15),Port Vale FC (22),5-2,?,Lincoln City (33)
+?,(Sat) 5 Oct 1929 (39),Port Vale FC (23),3-1,?,Nelson (33)
+?,(Mon) 9 Sep 1929 (36),Port Vale FC (24),5-1,?,New Brighton (33)
+?,(Sat) 26 Oct 1929 (42),Port Vale FC (25),3-3,?,Rochdale AFC (13)
+?,(Sat) 22 Feb 1930 (7),Port Vale FC (26),7-1,?,Rotherham United (13)
+?,(Sat) 8 Mar 1930 (9),Port Vale FC (27),3-0,?,South Shields (13)
+?,(Sat) 15 Feb 1930 (6),Port Vale FC (28),1-0,?,Southport FC (13)
+?,(Wed) 25 Dec 1929 (51),Port Vale FC (29),1-2,?,Stockport County (13)
+?,(Sat) 21 Dec 1929 (50),Port Vale FC (30),1-0,?,Tranmere Rovers (13)
+?,(Sat) 21 Sep 1929 (37),Port Vale FC (31),4-0,?,Wigan Borough (13)
+?,(Sat) 18 Jan 1930 (2),Port Vale FC (32),3-0,?,Wrexham AFC (13)
+?,(Fri) 18 Apr 1930 (15),Port Vale FC (33),1-1,?,York City (13)
+?,(Sat) 12 Oct 1929 (40),Rochdale AFC (14),4-0,?,Accrington Stanley (34)
+?,(Sat) 19 Oct 1929 (41),Rochdale AFC (15),6-1,?,Barrow AFC (34)
+?,(Tue) 29 Apr 1930 (17),Rochdale AFC (16),2-0,?,Carlisle United (34)
+?,(Tue) 3 Sep 1929 (35),Rochdale AFC (17),2-1,?,Chesterfield FC (34)
+?,(Sat) 29 Mar 1930 (12),Rochdale AFC (18),3-1,?,Crewe Alexandra (34)
+?,(Tue) 17 Sep 1929 (37),Rochdale AFC (19),4-1,?,Darlington FC (34)
+?,(Wed) 25 Dec 1929 (51),Rochdale AFC (20),2-4,?,Doncaster Rovers (34)
+?,(Sat) 18 Jan 1930 (2),Rochdale AFC (21),0-3,?,Halifax Town (34)
+?,(Fri) 18 Apr 1930 (15),Rochdale AFC (22),1-1,?,Hartlepool United (34)
+?,(Tue) 8 Apr 1930 (14),Rochdale AFC (23),3-4,?,Lincoln City (34)
+?,(Sat) 12 Apr 1930 (14),Rochdale AFC (24),4-1,?,Nelson (34)
+?,(Sat) 2 Nov 1929 (43),Rochdale AFC (25),5-0,?,New Brighton (34)
+?,(Sat) 1 Mar 1930 (8),Rochdale AFC (26),0-0,?,Port Vale FC (34)
+?,(Sat) 21 Sep 1929 (37),Rochdale AFC (27),1-2,?,Rotherham United (14)
+?,(Sat) 8 Feb 1930 (5),Rochdale AFC (28),2-0,?,South Shields (14)
+?,(Sat) 11 Jan 1930 (1),Rochdale AFC (29),2-2,?,Southport FC (14)
+?,(Sat) 15 Mar 1930 (10),Rochdale AFC (30),3-1,?,Stockport County (14)
+?,(Sat) 7 Sep 1929 (35),Rochdale AFC (31),2-1,?,Tranmere Rovers (14)
+?,(Sat) 14 Dec 1929 (49),Rochdale AFC (32),2-1,?,Wigan Borough (14)
+?,(Sat) 1 Feb 1930 (4),Rochdale AFC (33),5-4,?,Wrexham AFC (14)
+?,(Sat) 3 May 1930 (17),Rochdale AFC (34),4-2,?,York City (14)
+?,(Sat) 8 Feb 1930 (5),Rotherham United (15),2-4,?,Accrington Stanley (35)
+?,(Sat) 18 Jan 1930 (2),Rotherham United (16),7-0,?,Barrow AFC (35)
+?,(Sat) 12 Apr 1930 (14),Rotherham United (17),4-1,?,Carlisle United (35)
+?,(Wed) 25 Dec 1929 (51),Rotherham United (18),1-1,?,Chesterfield FC (35)
+?,(Sat) 16 Nov 1929 (45),Rotherham United (19),2-1,?,Crewe Alexandra (35)
+?,(Sat) 12 Oct 1929 (40),Rotherham United (20),1-4,?,Darlington FC (35)
+?,(Mon) 21 Apr 1930 (16),Rotherham United (21),1-0,?,Doncaster Rovers (35)
+?,(Sat) 7 Sep 1929 (35),Rotherham United (22),2-0,?,Halifax Town (35)
+?,(Sat) 3 May 1930 (17),Rotherham United (23),0-4,?,Hartlepool United (35)
+?,(Mon) 2 Sep 1929 (35),Rotherham United (24),1-0,?,Lincoln City (35)
+?,(Mon) 24 Mar 1930 (12),Rotherham United (25),1-2,?,Nelson (35)
+?,(Sat) 1 Mar 1930 (8),Rotherham United (26),2-2,?,New Brighton (35)
+?,(Sat) 19 Oct 1929 (41),Rotherham United (27),2-2,?,Port Vale FC (35)
+?,(Sat) 25 Jan 1930 (3),Rotherham United (28),0-4,?,Rochdale AFC (35)
+?,(Sat) 28 Sep 1929 (38),Rotherham United (29),0-1,?,South Shields (15)
+?,(Sat) 29 Mar 1930 (12),Rotherham United (30),6-3,?,Southport FC (15)
+?,(Sat) 2 Nov 1929 (43),Rotherham United (31),2-2,?,Stockport County (15)
+?,(Sat) 28 Dec 1929 (51),Rotherham United (32),5-0,?,Tranmere Rovers (15)
+?,(Mon) 24 Feb 1930 (8),Rotherham United (33),4-1,?,Wigan Borough (15)
+?,(Sat) 26 Apr 1930 (16),Rotherham United (34),1-3,?,Wrexham AFC (15)
+?,(Sat) 15 Mar 1930 (10),Rotherham United (35),2-5,?,York City (15)
+?,(Sat) 3 May 1930 (17),South Shields (16),2-2,?,Accrington Stanley (36)
+?,(Sat) 1 Mar 1930 (8),South Shields (17),2-0,?,Barrow AFC (36)
+?,(Sat) 26 Apr 1930 (16),South Shields (18),5-2,?,Carlisle United (36)
+?,(Sat) 28 Dec 1929 (51),South Shields (19),3-1,?,Chesterfield FC (36)
+?,(Sat) 11 Jan 1930 (1),South Shields (20),1-0,?,Crewe Alexandra (36)
+?,(Fri) 18 Apr 1930 (15),South Shields (21),3-3,?,Darlington FC (36)
+?,(Wed) 11 Sep 1929 (36),South Shields (22),2-1,?,Doncaster Rovers (36)
+?,(Sat) 21 Sep 1929 (37),South Shields (23),1-0,?,Halifax Town (36)
+?,(Thu) 26 Dec 1929 (51),South Shields (24),3-5,?,Hartlepool United (36)
+?,(Sat) 7 Sep 1929 (35),South Shields (25),3-1,?,Lincoln City (36)
+?,(Sat) 14 Dec 1929 (49),South Shields (26),2-1,?,Nelson (36)
+?,(Sat) 15 Mar 1930 (10),South Shields (27),1-2,?,New Brighton (36)
+?,(Sat) 2 Nov 1929 (43),South Shields (28),0-0,?,Port Vale FC (36)
+?,(Sat) 5 Oct 1929 (39),South Shields (29),2-2,?,Rochdale AFC (36)
+?,(Sat) 1 Feb 1930 (4),South Shields (30),5-0,?,Rotherham United (36)
+?,(Sat) 12 Apr 1930 (14),South Shields (31),4-0,?,Southport FC (16)
+?,(Sat) 16 Nov 1929 (45),South Shields (32),2-3,?,Stockport County (16)
+?,(Sat) 14 Sep 1929 (36),South Shields (33),1-5,?,Tranmere Rovers (16)
+?,(Sat) 15 Feb 1930 (6),South Shields (34),2-2,?,Wigan Borough (16)
+?,(Sat) 19 Oct 1929 (41),South Shields (35),1-1,?,Wrexham AFC (16)
+?,(Sat) 29 Mar 1930 (12),South Shields (36),4-1,?,York City (16)
+?,(Sat) 19 Apr 1930 (15),Southport FC (17),2-0,?,Accrington Stanley (37)
+?,(Wed) 1 Jan 1930 (0),Southport FC (18),0-2,?,Barrow AFC (37)
+?,(Tue) 3 Sep 1929 (35),Southport FC (19),4-3,?,Carlisle United (37)
+?,(Sat) 26 Oct 1929 (42),Southport FC (20),5-1,?,Chesterfield FC (37)
+?,(Sat) 14 Sep 1929 (36),Southport FC (21),0-3,?,Crewe Alexandra (37)
+?,(Sat) 21 Dec 1929 (50),Southport FC (22),3-0,?,Darlington FC (37)
+?,(Sat) 22 Feb 1930 (7),Southport FC (23),1-1,?,Doncaster Rovers (37)
+?,(Sat) 22 Mar 1930 (11),Southport FC (24),4-0,?,Halifax Town (37)
+?,(Sat) 7 Sep 1929 (35),Southport FC (25),1-1,?,Hartlepool United (37)
+?,(Sat) 8 Mar 1930 (9),Southport FC (26),3-2,?,Lincoln City (37)
+?,(Sat) 28 Dec 1929 (51),Southport FC (27),0-0,?,Nelson (37)
+?,(Sat) 8 Feb 1930 (5),Southport FC (28),2-1,?,New Brighton (37)
+?,(Sat) 12 Oct 1929 (40),Southport FC (29),1-2,?,Port Vale FC (37)
+?,(Sat) 5 Apr 1930 (13),Southport FC (30),2-3,?,Rochdale AFC (37)
+?,(Sat) 23 Nov 1929 (46),Southport FC (31),7-1,?,Rotherham United (37)
+?,(Sat) 7 Dec 1929 (48),Southport FC (32),2-1,?,South Shields (37)
+?,(Sat) 28 Sep 1929 (38),Southport FC (33),1-2,?,Stockport County (17)
+?,(Sat) 9 Nov 1929 (44),Southport FC (34),4-4,?,Tranmere Rovers (17)
+?,(Wed) 25 Dec 1929 (51),Southport FC (35),1-1,?,Wigan Borough (17)
+?,(Fri) 18 Apr 1930 (15),Southport FC (36),5-3,?,Wrexham AFC (17)
+?,(Sat) 25 Jan 1930 (3),Southport FC (37),1-0,?,York City (17)
+?,(Sat) 23 Nov 1929 (46),Stockport County (18),1-0,?,Accrington Stanley (38)
+?,(Mon) 2 Sep 1929 (35),Stockport County (19),5-0,?,Barrow AFC (38)
+?,(Sat) 18 Jan 1930 (2),Stockport County (20),7-1,?,Carlisle United (38)
+?,(Sat) 21 Dec 1929 (50),Stockport County (21),1-0,?,Chesterfield FC (38)
+?,(Sat) 5 Oct 1929 (39),Stockport County (22),2-3,?,Crewe Alexandra (38)
+?,(Sat) 5 Apr 1930 (13),Stockport County (23),4-0,?,Darlington FC (38)
+?,(Sat) 19 Apr 1930 (15),Stockport County (24),3-0,?,Doncaster Rovers (38)
+?,(Sat) 26 Oct 1929 (42),Stockport County (25),6-0,?,Halifax Town (38)
+?,(Mon) 3 Mar 1930 (9),Stockport County (26),5-1,?,Hartlepool United (38)
+?,(Wed) 1 Jan 1930 (0),Stockport County (27),1-1,?,Lincoln City (38)
+?,(Sat) 21 Sep 1929 (37),Stockport County (28),6-1,?,Nelson (38)
+?,(Sat) 3 May 1930 (17),Stockport County (29),2-0,?,New Brighton (38)
+?,(Thu) 26 Dec 1929 (51),Stockport County (30),4-2,?,Port Vale FC (38)
+?,(Sat) 9 Nov 1929 (44),Stockport County (31),4-2,?,Rochdale AFC (38)
+?,(Sat) 8 Mar 1930 (9),Stockport County (32),6-1,?,Rotherham United (38)
+?,(Sat) 22 Mar 1930 (11),Stockport County (33),2-0,?,South Shields (38)
+?,(Sat) 1 Feb 1930 (4),Stockport County (34),2-2,?,Southport FC (38)
+?,(Sat) 22 Feb 1930 (7),Stockport County (35),3-1,?,Tranmere Rovers (18)
+?,(Sat) 7 Sep 1929 (35),Stockport County (36),1-1,?,Wigan Borough (18)
+?,(Sat) 28 Dec 1929 (51),Stockport County (37),0-1,?,Wrexham AFC (18)
+?,(Sat) 15 Feb 1930 (6),Stockport County (38),2-3,?,York City (18)
+?,(Sat) 25 Jan 1930 (3),Tranmere Rovers (19),2-2,?,Accrington Stanley (39)
+?,(Thu) 20 Feb 1930 (7),Tranmere Rovers (20),5-2,?,Barrow AFC (39)
+?,(Sat) 29 Mar 1930 (12),Tranmere Rovers (21),3-0,?,Carlisle United (39)
+?,(Tue) 22 Apr 1930 (16),Tranmere Rovers (22),1-2,?,Chesterfield FC (39)
+?,(Sat) 2 Nov 1929 (43),Tranmere Rovers (23),1-2,?,Crewe Alexandra (39)
+?,(Sat) 28 Sep 1929 (38),Tranmere Rovers (24),3-0,?,Darlington FC (39)
+?,(Sat) 12 Oct 1929 (40),Tranmere Rovers (25),2-1,?,Doncaster Rovers (39)
+?,(Mon) 2 Sep 1929 (35),Tranmere Rovers (26),3-3,?,Halifax Town (39)
+?,(Sat) 8 Feb 1930 (5),Tranmere Rovers (27),7-1,?,Hartlepool United (39)
+?,(Fri) 18 Apr 1930 (15),Tranmere Rovers (28),0-1,?,Lincoln City (39)
+?,(Sat) 16 Nov 1929 (45),Tranmere Rovers (29),2-3,?,Nelson (39)
+?,(Wed) 25 Dec 1929 (51),Tranmere Rovers (30),3-1,?,New Brighton (39)
+?,(Sat) 26 Apr 1930 (16),Tranmere Rovers (31),1-5,?,Port Vale FC (39)
+?,(Sat) 4 Jan 1930 (0),Tranmere Rovers (32),2-2,?,Rochdale AFC (39)
+?,(Sat) 31 Aug 1929 (34),Tranmere Rovers (33),5-4,?,Rotherham United (39)
+?,(Sat) 18 Jan 1930 (2),Tranmere Rovers (34),3-0,?,South Shields (39)
+?,(Sat) 15 Mar 1930 (10),Tranmere Rovers (35),3-1,?,Southport FC (39)
+?,(Sat) 19 Oct 1929 (41),Tranmere Rovers (36),2-0,?,Stockport County (39)
+?,(Sat) 11 Jan 1930 (1),Tranmere Rovers (37),3-0,?,Wigan Borough (19)
+?,(Sat) 12 Apr 1930 (14),Tranmere Rovers (38),2-1,?,Wrexham AFC (19)
+?,(Sat) 1 Mar 1930 (8),Tranmere Rovers (39),4-4,?,York City (19)
+?,(Sat) 22 Feb 1930 (7),Wigan Borough (20),2-1,?,Accrington Stanley (40)
+?,(Sat) 28 Sep 1929 (38),Wigan Borough (21),2-0,?,Barrow AFC (40)
+?,(Wed) 25 Sep 1929 (38),Wigan Borough (22),8-0,?,Carlisle United (40)
+?,(Sat) 22 Mar 1930 (11),Wigan Borough (23),2-1,?,Chesterfield FC (40)
+?,(Wed) 1 Jan 1930 (0),Wigan Borough (24),2-2,?,Crewe Alexandra (40)
+?,(Sat) 26 Oct 1929 (42),Wigan Borough (25),3-2,?,Darlington FC (40)
+?,(Sat) 9 Nov 1929 (44),Wigan Borough (26),3-2,?,Doncaster Rovers (40)
+?,(Sat) 7 Dec 1929 (48),Wigan Borough (27),2-1,?,Halifax Town (40)
+?,(Sat) 8 Mar 1930 (9),Wigan Borough (28),1-3,?,Hartlepool United (40)
+?,(Sat) 23 Nov 1929 (46),Wigan Borough (29),4-1,?,Lincoln City (40)
+?,(Mon) 21 Apr 1930 (16),Wigan Borough (30),2-0,?,Nelson (40)
+?,(Sat) 14 Sep 1929 (36),Wigan Borough (31),5-0,?,New Brighton (40)
+?,(Sat) 25 Jan 1930 (3),Wigan Borough (32),0-3,?,Port Vale FC (40)
+?,(Sat) 21 Dec 1929 (50),Wigan Borough (33),3-1,?,Rochdale AFC (40)
+?,(Sat) 19 Apr 1930 (15),Wigan Borough (34),1-1,?,Rotherham United (40)
+?,(Sat) 12 Oct 1929 (40),Wigan Borough (35),1-1,?,South Shields (40)
+?,(Thu) 26 Dec 1929 (51),Wigan Borough (36),1-1,?,Southport FC (40)
+?,(Sat) 4 Jan 1930 (0),Wigan Borough (37),0-1,?,Stockport County (40)
+?,(Sat) 5 Apr 1930 (13),Wigan Borough (38),0-2,?,Tranmere Rovers (40)
+?,(Sat) 8 Feb 1930 (5),Wigan Borough (39),2-1,?,Wrexham AFC (20)
+?,(Sat) 31 Aug 1929 (34),Wigan Borough (40),0-2,?,York City (20)
+?,(Sat) 26 Oct 1929 (42),Wrexham AFC (21),0-1,?,Accrington Stanley (41)
+?,(Wed) 26 Mar 1930 (12),Wrexham AFC (22),3-0,?,Barrow AFC (41)
+?,(Sat) 15 Feb 1930 (6),Wrexham AFC (23),3-3,?,Carlisle United (41)
+?,(Sat) 23 Nov 1929 (46),Wrexham AFC (24),1-1,?,Chesterfield FC (41)
+?,(Thu) 26 Dec 1929 (51),Wrexham AFC (25),1-0,?,Crewe Alexandra (41)
+?,(Mon) 10 Mar 1930 (10),Wrexham AFC (26),2-2,?,Darlington FC (41)
+?,(Sat) 22 Mar 1930 (11),Wrexham AFC (27),0-2,?,Doncaster Rovers (41)
+?,(Sat) 19 Apr 1930 (15),Wrexham AFC (28),2-1,?,Halifax Town (41)
+?,(Sat) 9 Nov 1929 (44),Wrexham AFC (29),3-5,?,Hartlepool United (41)
+?,(Sat) 5 Apr 1930 (13),Wrexham AFC (30),3-1,?,Lincoln City (41)
+?,(Sat) 3 May 1930 (17),Wrexham AFC (31),5-1,?,Nelson (41)
+?,(Sat) 4 Jan 1930 (0),Wrexham AFC (32),2-1,?,New Brighton (41)
+?,(Sat) 14 Sep 1929 (36),Wrexham AFC (33),0-2,?,Port Vale FC (41)
+?,(Sat) 28 Sep 1929 (38),Wrexham AFC (34),8-0,?,Rochdale AFC (41)
+?,(Sat) 21 Dec 1929 (50),Wrexham AFC (35),1-0,?,Rotherham United (41)
+?,(Sat) 22 Feb 1930 (7),Wrexham AFC (36),1-3,?,South Shields (41)
+?,(Mon) 21 Apr 1930 (16),Wrexham AFC (37),1-2,?,Southport FC (41)
+?,(Sat) 31 Aug 1929 (34),Wrexham AFC (38),1-1,?,Stockport County (41)
+?,(Sat) 7 Dec 1929 (48),Wrexham AFC (39),2-0,?,Tranmere Rovers (41)
+?,(Sat) 5 Oct 1929 (39),Wrexham AFC (40),2-1,?,Wigan Borough (41)
+?,(Wed) 11 Sep 1929 (36),Wrexham AFC (41),1-1,?,York City (21)
+?,(Sat) 5 Apr 1930 (13),York City (22),2-0,?,Accrington Stanley (42)
+?,(Thu) 26 Dec 1929 (51),York City (23),3-1,?,Barrow AFC (42)
+?,(Sat) 7 Sep 1929 (35),York City (24),2-2,?,Carlisle United (42)
+?,(Sat) 5 Oct 1929 (39),York City (25),1-1,?,Chesterfield FC (42)
+?,(Sat) 1 Feb 1930 (4),York City (26),4-2,?,Crewe Alexandra (42)
+?,(Sat) 7 Dec 1929 (48),York City (27),1-1,?,Darlington FC (42)
+?,(Sat) 21 Dec 1929 (50),York City (28),2-2,?,Doncaster Rovers (42)
+?,(Sat) 8 Mar 1930 (9),York City (29),3-0,?,Halifax Town (42)
+?,(Sat) 19 Apr 1930 (15),York City (30),4-1,?,Hartlepool United (42)
+?,(Sat) 22 Feb 1930 (7),York City (31),1-0,?,Lincoln City (42)
+?,(Sat) 18 Jan 1930 (2),York City (32),1-0,?,Nelson (42)
+?,(Wed) 18 Sep 1929 (37),York City (33),3-0,?,New Brighton (42)
+?,(Mon) 21 Apr 1930 (16),York City (34),0-2,?,Port Vale FC (42)
+?,(Sat) 22 Mar 1930 (11),York City (35),6-0,?,Rochdale AFC (42)
+?,(Sat) 9 Nov 1929 (44),York City (36),3-0,?,Rotherham United (42)
+?,(Sat) 23 Nov 1929 (46),York City (37),2-2,?,South Shields (42)
+?,(Sat) 21 Sep 1929 (37),York City (38),0-4,?,Southport FC (42)
+?,(Sat) 12 Oct 1929 (40),York City (39),1-2,?,Stockport County (42)
+?,(Sat) 26 Oct 1929 (42),York City (40),0-0,?,Tranmere Rovers (42)
+?,(Sat) 28 Dec 1929 (51),York City (41),4-0,?,Wigan Borough (42)
+?,(Wed) 4 Sep 1929 (35),York City (42),0-0,?,Wrexham AFC (42)

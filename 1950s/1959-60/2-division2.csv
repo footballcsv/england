@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Brighton & Hove Albion,Aston Villa,1-2,-
--,-,Bristol City,Aston Villa,0-5,-
--,-,Bristol Rovers,Aston Villa,1-1,-
--,-,Cardiff City,Aston Villa,1-0,-
--,-,Charlton Athletic,Aston Villa,2-0,-
--,-,Derby County,Aston Villa,2-2,-
--,-,Huddersfield Town,Aston Villa,0-1,-
--,-,Hull City,Aston Villa,0-1,-
--,-,Ipswich Town,Aston Villa,2-1,-
--,-,Leyton Orient,Aston Villa,0-0,-
--,-,Lincoln City,Aston Villa,0-0,-
--,-,Liverpool,Aston Villa,2-1,-
--,-,Middlesbrough,Aston Villa,0-1,-
--,-,Plymouth Argyle,Aston Villa,3-0,-
--,-,Portsmouth,Aston Villa,1-2,-
--,-,Rotherham United,Aston Villa,2-1,-
--,-,Scunthorpe United,Aston Villa,1-2,-
--,-,Sheffield United,Aston Villa,1-1,-
--,-,Stoke City,Aston Villa,3-3,-
--,-,Sunderland,Aston Villa,1-0,-
--,-,Swansea City,Aston Villa,1-3,-
--,-,Aston Villa,Brighton & Hove Albion,3-1,-
--,-,Bristol City,Brighton & Hove Albion,0-1,-
--,-,Bristol Rovers,Brighton & Hove Albion,4-5,-
--,-,Cardiff City,Brighton & Hove Albion,1-4,-
--,-,Charlton Athletic,Brighton & Hove Albion,3-1,-
--,-,Derby County,Brighton & Hove Albion,0-1,-
--,-,Huddersfield Town,Brighton & Hove Albion,2-0,-
--,-,Hull City,Brighton & Hove Albion,3-1,-
--,-,Ipswich Town,Brighton & Hove Albion,3-0,-
--,-,Leyton Orient,Brighton & Hove Albion,3-2,-
--,-,Lincoln City,Brighton & Hove Albion,2-1,-
--,-,Liverpool,Brighton & Hove Albion,2-2,-
--,-,Middlesbrough,Brighton & Hove Albion,4-1,-
--,-,Plymouth Argyle,Brighton & Hove Albion,3-2,-
--,-,Portsmouth,Brighton & Hove Albion,2-2,-
--,-,Rotherham United,Brighton & Hove Albion,1-0,-
--,-,Scunthorpe United,Brighton & Hove Albion,1-2,-
--,-,Sheffield United,Brighton & Hove Albion,4-1,-
--,-,Stoke City,Brighton & Hove Albion,1-3,-
--,-,Sunderland,Brighton & Hove Albion,0-0,-
--,-,Swansea City,Brighton & Hove Albion,2-2,-
--,-,Aston Villa,Bristol City,2-1,-
--,-,Brighton & Hove Albion,Bristol City,5-1,-
--,-,Bristol Rovers,Bristol City,2-1,-
--,-,Cardiff City,Bristol City,4-2,-
--,-,Charlton Athletic,Bristol City,4-2,-
--,-,Derby County,Bristol City,3-0,-
--,-,Huddersfield Town,Bristol City,6-1,-
--,-,Hull City,Bristol City,1-1,-
--,-,Ipswich Town,Bristol City,1-3,-
--,-,Leyton Orient,Bristol City,3-1,-
--,-,Lincoln City,Bristol City,3-1,-
--,-,Liverpool,Bristol City,4-2,-
--,-,Middlesbrough,Bristol City,6-3,-
--,-,Plymouth Argyle,Bristol City,1-4,-
--,-,Portsmouth,Bristol City,2-0,-
--,-,Rotherham United,Bristol City,3-1,-
--,-,Scunthorpe United,Bristol City,1-1,-
--,-,Sheffield United,Bristol City,5-2,-
--,-,Stoke City,Bristol City,1-3,-
--,-,Sunderland,Bristol City,3-2,-
--,-,Swansea City,Bristol City,6-1,-
--,-,Aston Villa,Bristol Rovers,4-1,-
--,-,Brighton & Hove Albion,Bristol Rovers,2-2,-
--,-,Bristol City,Bristol Rovers,2-1,-
--,-,Cardiff City,Bristol Rovers,2-2,-
--,-,Charlton Athletic,Bristol Rovers,2-2,-
--,-,Derby County,Bristol Rovers,1-0,-
--,-,Huddersfield Town,Bristol Rovers,0-1,-
--,-,Hull City,Bristol Rovers,3-1,-
--,-,Ipswich Town,Bristol Rovers,3-0,-
--,-,Leyton Orient,Bristol Rovers,1-2,-
--,-,Lincoln City,Bristol Rovers,0-1,-
--,-,Liverpool,Bristol Rovers,4-0,-
--,-,Middlesbrough,Bristol Rovers,5-1,-
--,-,Plymouth Argyle,Bristol Rovers,5-3,-
--,-,Portsmouth,Bristol Rovers,4-5,-
--,-,Rotherham United,Bristol Rovers,3-0,-
--,-,Scunthorpe United,Bristol Rovers,3-4,-
--,-,Sheffield United,Bristol Rovers,1-1,-
--,-,Stoke City,Bristol Rovers,0-1,-
--,-,Sunderland,Bristol Rovers,2-2,-
--,-,Swansea City,Bristol Rovers,3-0,-
--,-,Aston Villa,Cardiff City,2-0,-
--,-,Brighton & Hove Albion,Cardiff City,2-2,-
--,-,Bristol City,Cardiff City,0-3,-
--,-,Bristol Rovers,Cardiff City,1-1,-
--,-,Charlton Athletic,Cardiff City,2-1,-
--,-,Derby County,Cardiff City,1-2,-
--,-,Huddersfield Town,Cardiff City,0-1,-
--,-,Hull City,Cardiff City,0-0,-
--,-,Ipswich Town,Cardiff City,1-1,-
--,-,Leyton Orient,Cardiff City,3-4,-
--,-,Lincoln City,Cardiff City,2-3,-
--,-,Liverpool,Cardiff City,0-4,-
--,-,Middlesbrough,Cardiff City,1-1,-
--,-,Plymouth Argyle,Cardiff City,1-1,-
--,-,Portsmouth,Cardiff City,1-1,-
--,-,Rotherham United,Cardiff City,2-2,-
--,-,Scunthorpe United,Cardiff City,1-2,-
--,-,Sheffield United,Cardiff City,2-1,-
--,-,Stoke City,Cardiff City,0-1,-
--,-,Sunderland,Cardiff City,1-1,-
--,-,Swansea City,Cardiff City,3-3,-
--,-,Aston Villa,Charlton Athletic,11-1,-
--,-,Brighton & Hove Albion,Charlton Athletic,1-1,-
--,-,Bristol City,Charlton Athletic,1-2,-
--,-,Bristol Rovers,Charlton Athletic,2-2,-
--,-,Cardiff City,Charlton Athletic,5-1,-
--,-,Derby County,Charlton Athletic,1-2,-
--,-,Huddersfield Town,Charlton Athletic,4-0,-
--,-,Hull City,Charlton Athletic,0-4,-
--,-,Ipswich Town,Charlton Athletic,1-1,-
--,-,Leyton Orient,Charlton Athletic,2-0,-
--,-,Lincoln City,Charlton Athletic,5-3,-
--,-,Liverpool,Charlton Athletic,2-0,-
--,-,Middlesbrough,Charlton Athletic,3-0,-
--,-,Plymouth Argyle,Charlton Athletic,6-4,-
--,-,Portsmouth,Charlton Athletic,2-2,-
--,-,Rotherham United,Charlton Athletic,3-3,-
--,-,Scunthorpe United,Charlton Athletic,1-1,-
--,-,Sheffield United,Charlton Athletic,2-0,-
--,-,Stoke City,Charlton Athletic,1-3,-
--,-,Sunderland,Charlton Athletic,1-3,-
--,-,Swansea City,Charlton Athletic,5-2,-
--,-,Aston Villa,Derby County,3-2,-
--,-,Brighton & Hove Albion,Derby County,2-0,-
--,-,Bristol City,Derby County,0-1,-
--,-,Bristol Rovers,Derby County,2-1,-
--,-,Cardiff City,Derby County,2-0,-
--,-,Charlton Athletic,Derby County,6-1,-
--,-,Huddersfield Town,Derby County,2-2,-
--,-,Hull City,Derby County,1-1,-
--,-,Ipswich Town,Derby County,1-1,-
--,-,Leyton Orient,Derby County,3-0,-
--,-,Lincoln City,Derby County,6-2,-
--,-,Liverpool,Derby County,4-1,-
--,-,Middlesbrough,Derby County,3-0,-
--,-,Plymouth Argyle,Derby County,0-5,-
--,-,Portsmouth,Derby County,2-3,-
--,-,Rotherham United,Derby County,1-2,-
--,-,Scunthorpe United,Derby County,3-2,-
--,-,Sheffield United,Derby County,2-1,-
--,-,Stoke City,Derby County,2-1,-
--,-,Sunderland,Derby County,3-1,-
--,-,Swansea City,Derby County,1-3,-
--,-,Aston Villa,Huddersfield Town,4-0,-
--,-,Brighton & Hove Albion,Huddersfield Town,3-2,-
--,-,Bristol City,Huddersfield Town,2-3,-
--,-,Bristol Rovers,Huddersfield Town,2-0,-
--,-,Cardiff City,Huddersfield Town,2-1,-
--,-,Charlton Athletic,Huddersfield Town,1-1,-
--,-,Derby County,Huddersfield Town,3-2,-
--,-,Hull City,Huddersfield Town,1-1,-
--,-,Ipswich Town,Huddersfield Town,1-4,-
--,-,Leyton Orient,Huddersfield Town,2-1,-
--,-,Lincoln City,Huddersfield Town,0-2,-
--,-,Liverpool,Huddersfield Town,2-2,-
--,-,Middlesbrough,Huddersfield Town,1-0,-
--,-,Plymouth Argyle,Huddersfield Town,1-3,-
--,-,Portsmouth,Huddersfield Town,0-2,-
--,-,Rotherham United,Huddersfield Town,1-1,-
--,-,Scunthorpe United,Huddersfield Town,0-2,-
--,-,Sheffield United,Huddersfield Town,2-0,-
--,-,Stoke City,Huddersfield Town,1-1,-
--,-,Sunderland,Huddersfield Town,0-0,-
--,-,Swansea City,Huddersfield Town,3-1,-
--,-,Aston Villa,Hull City,1-1,-
--,-,Brighton & Hove Albion,Hull City,1-1,-
--,-,Bristol City,Hull City,0-1,-
--,-,Bristol Rovers,Hull City,1-0,-
--,-,Cardiff City,Hull City,3-2,-
--,-,Charlton Athletic,Hull City,3-2,-
--,-,Derby County,Hull City,1-3,-
--,-,Huddersfield Town,Hull City,1-0,-
--,-,Ipswich Town,Hull City,2-0,-
--,-,Leyton Orient,Hull City,3-1,-
--,-,Lincoln City,Hull City,3-0,-
--,-,Liverpool,Hull City,5-3,-
--,-,Middlesbrough,Hull City,4-0,-
--,-,Plymouth Argyle,Hull City,3-2,-
--,-,Portsmouth,Hull City,1-1,-
--,-,Rotherham United,Hull City,1-0,-
--,-,Scunthorpe United,Hull City,3-0,-
--,-,Sheffield United,Hull City,6-0,-
--,-,Stoke City,Hull City,3-1,-
--,-,Sunderland,Hull City,1-3,-
--,-,Swansea City,Hull City,0-0,-
--,-,Aston Villa,Ipswich Town,3-1,-
--,-,Brighton & Hove Albion,Ipswich Town,1-4,-
--,-,Bristol City,Ipswich Town,5-1,-
--,-,Bristol Rovers,Ipswich Town,2-1,-
--,-,Cardiff City,Ipswich Town,3-2,-
--,-,Charlton Athletic,Ipswich Town,1-3,-
--,-,Derby County,Ipswich Town,3-0,-
--,-,Huddersfield Town,Ipswich Town,3-1,-
--,-,Hull City,Ipswich Town,2-0,-
--,-,Leyton Orient,Ipswich Town,4-1,-
--,-,Lincoln City,Ipswich Town,0-1,-
--,-,Liverpool,Ipswich Town,3-1,-
--,-,Middlesbrough,Ipswich Town,4-1,-
--,-,Plymouth Argyle,Ipswich Town,3-1,-
--,-,Portsmouth,Ipswich Town,0-2,-
--,-,Rotherham United,Ipswich Town,1-4,-
--,-,Scunthorpe United,Ipswich Town,2-2,-
--,-,Sheffield United,Ipswich Town,1-0,-
--,-,Stoke City,Ipswich Town,1-2,-
--,-,Sunderland,Ipswich Town,0-1,-
--,-,Swansea City,Ipswich Town,2-1,-
--,-,Aston Villa,Leyton Orient,1-0,-
--,-,Brighton & Hove Albion,Leyton Orient,1-1,-
--,-,Bristol City,Leyton Orient,1-1,-
--,-,Bristol Rovers,Leyton Orient,2-2,-
--,-,Cardiff City,Leyton Orient,5-1,-
--,-,Charlton Athletic,Leyton Orient,0-0,-
--,-,Derby County,Leyton Orient,1-1,-
--,-,Huddersfield Town,Leyton Orient,1-1,-
--,-,Hull City,Leyton Orient,1-2,-
--,-,Ipswich Town,Leyton Orient,6-3,-
--,-,Lincoln City,Leyton Orient,2-2,-
--,-,Liverpool,Leyton Orient,4-3,-
--,-,Middlesbrough,Leyton Orient,2-2,-
--,-,Plymouth Argyle,Leyton Orient,1-0,-
--,-,Portsmouth,Leyton Orient,1-1,-
--,-,Rotherham United,Leyton Orient,1-1,-
--,-,Scunthorpe United,Leyton Orient,2-1,-
--,-,Sheffield United,Leyton Orient,0-2,-
--,-,Stoke City,Leyton Orient,2-1,-
--,-,Sunderland,Leyton Orient,1-4,-
--,-,Swansea City,Leyton Orient,1-0,-
--,-,Aston Villa,Lincoln City,1-1,-
--,-,Brighton & Hove Albion,Lincoln City,3-3,-
--,-,Bristol City,Lincoln City,1-0,-
--,-,Bristol Rovers,Lincoln City,3-3,-
--,-,Cardiff City,Lincoln City,6-2,-
--,-,Charlton Athletic,Lincoln City,2-2,-
--,-,Derby County,Lincoln City,3-1,-
--,-,Huddersfield Town,Lincoln City,3-0,-
--,-,Hull City,Lincoln City,0-5,-
--,-,Ipswich Town,Lincoln City,3-0,-
--,-,Leyton Orient,Lincoln City,4-0,-
--,-,Liverpool,Lincoln City,1-3,-
--,-,Middlesbrough,Lincoln City,3-2,-
--,-,Plymouth Argyle,Lincoln City,0-2,-
--,-,Portsmouth,Lincoln City,1-2,-
--,-,Rotherham United,Lincoln City,1-0,-
--,-,Scunthorpe United,Lincoln City,5-0,-
--,-,Sheffield United,Lincoln City,3-2,-
--,-,Stoke City,Lincoln City,6-1,-
--,-,Sunderland,Lincoln City,2-4,-
--,-,Swansea City,Lincoln City,2-1,-
--,-,Aston Villa,Liverpool,4-4,-
--,-,Brighton & Hove Albion,Liverpool,1-2,-
--,-,Bristol City,Liverpool,1-0,-
--,-,Bristol Rovers,Liverpool,0-2,-
--,-,Cardiff City,Liverpool,3-2,-
--,-,Charlton Athletic,Liverpool,3-0,-
--,-,Derby County,Liverpool,1-2,-
--,-,Huddersfield Town,Liverpool,1-0,-
--,-,Hull City,Liverpool,0-1,-
--,-,Ipswich Town,Liverpool,0-1,-
--,-,Leyton Orient,Liverpool,2-0,-
--,-,Lincoln City,Liverpool,4-2,-
--,-,Middlesbrough,Liverpool,3-3,-
--,-,Plymouth Argyle,Liverpool,1-1,-
--,-,Portsmouth,Liverpool,2-1,-
--,-,Rotherham United,Liverpool,2-2,-
--,-,Scunthorpe United,Liverpool,1-1,-
--,-,Sheffield United,Liverpool,2-1,-
--,-,Stoke City,Liverpool,1-1,-
--,-,Sunderland,Liverpool,1-1,-
--,-,Swansea City,Liverpool,5-4,-
--,-,Aston Villa,Middlesbrough,1-0,-
--,-,Brighton & Hove Albion,Middlesbrough,3-2,-
--,-,Bristol City,Middlesbrough,2-0,-
--,-,Bristol Rovers,Middlesbrough,0-2,-
--,-,Cardiff City,Middlesbrough,2-0,-
--,-,Charlton Athletic,Middlesbrough,1-0,-
--,-,Derby County,Middlesbrough,1-7,-
--,-,Huddersfield Town,Middlesbrough,2-0,-
--,-,Hull City,Middlesbrough,3-3,-
--,-,Ipswich Town,Middlesbrough,1-0,-
--,-,Leyton Orient,Middlesbrough,5-0,-
--,-,Lincoln City,Middlesbrough,5-2,-
--,-,Liverpool,Middlesbrough,1-2,-
--,-,Plymouth Argyle,Middlesbrough,2-2,-
--,-,Portsmouth,Middlesbrough,6-3,-
--,-,Rotherham United,Middlesbrough,0-2,-
--,-,Scunthorpe United,Middlesbrough,1-1,-
--,-,Sheffield United,Middlesbrough,0-0,-
--,-,Stoke City,Middlesbrough,2-5,-
--,-,Sunderland,Middlesbrough,2-2,-
--,-,Swansea City,Middlesbrough,3-1,-
--,-,Aston Villa,Plymouth Argyle,2-0,-
--,-,Brighton & Hove Albion,Plymouth Argyle,2-2,-
--,-,Bristol City,Plymouth Argyle,2-1,-
--,-,Bristol Rovers,Plymouth Argyle,2-0,-
--,-,Cardiff City,Plymouth Argyle,0-1,-
--,-,Charlton Athletic,Plymouth Argyle,5-2,-
--,-,Derby County,Plymouth Argyle,1-0,-
--,-,Huddersfield Town,Plymouth Argyle,2-0,-
--,-,Hull City,Plymouth Argyle,3-1,-
--,-,Ipswich Town,Plymouth Argyle,3-3,-
--,-,Leyton Orient,Plymouth Argyle,2-3,-
--,-,Lincoln City,Plymouth Argyle,0-1,-
--,-,Liverpool,Plymouth Argyle,4-1,-
--,-,Middlesbrough,Plymouth Argyle,6-2,-
--,-,Portsmouth,Plymouth Argyle,1-0,-
--,-,Rotherham United,Plymouth Argyle,1-1,-
--,-,Scunthorpe United,Plymouth Argyle,2-0,-
--,-,Sheffield United,Plymouth Argyle,4-0,-
--,-,Stoke City,Plymouth Argyle,1-0,-
--,-,Sunderland,Plymouth Argyle,4-0,-
--,-,Swansea City,Plymouth Argyle,6-1,-
--,-,Aston Villa,Portsmouth,5-2,-
--,-,Brighton & Hove Albion,Portsmouth,3-1,-
--,-,Bristol City,Portsmouth,2-0,-
--,-,Bristol Rovers,Portsmouth,2-0,-
--,-,Cardiff City,Portsmouth,1-4,-
--,-,Charlton Athletic,Portsmouth,6-1,-
--,-,Derby County,Portsmouth,1-0,-
--,-,Huddersfield Town,Portsmouth,6-3,-
--,-,Hull City,Portsmouth,1-3,-
--,-,Ipswich Town,Portsmouth,1-1,-
--,-,Leyton Orient,Portsmouth,1-2,-
--,-,Lincoln City,Portsmouth,0-2,-
--,-,Liverpool,Portsmouth,1-1,-
--,-,Middlesbrough,Portsmouth,0-0,-
--,-,Plymouth Argyle,Portsmouth,1-1,-
--,-,Rotherham United,Portsmouth,2-1,-
--,-,Scunthorpe United,Portsmouth,1-0,-
--,-,Sheffield United,Portsmouth,0-0,-
--,-,Stoke City,Portsmouth,4-0,-
--,-,Sunderland,Portsmouth,2-0,-
--,-,Swansea City,Portsmouth,1-1,-
--,-,Aston Villa,Rotherham United,3-0,-
--,-,Brighton & Hove Albion,Rotherham United,0-0,-
--,-,Bristol City,Rotherham United,2-3,-
--,-,Bristol Rovers,Rotherham United,3-1,-
--,-,Cardiff City,Rotherham United,1-4,-
--,-,Charlton Athletic,Rotherham United,2-2,-
--,-,Derby County,Rotherham United,1-1,-
--,-,Huddersfield Town,Rotherham United,2-1,-
--,-,Hull City,Rotherham United,1-0,-
--,-,Ipswich Town,Rotherham United,2-3,-
--,-,Leyton Orient,Rotherham United,2-3,-
--,-,Lincoln City,Rotherham United,0-1,-
--,-,Liverpool,Rotherham United,3-0,-
--,-,Middlesbrough,Rotherham United,3-0,-
--,-,Plymouth Argyle,Rotherham United,1-0,-
--,-,Portsmouth,Rotherham United,2-0,-
--,-,Scunthorpe United,Rotherham United,2-1,-
--,-,Sheffield United,Rotherham United,2-3,-
--,-,Stoke City,Rotherham United,2-3,-
--,-,Sunderland,Rotherham United,1-2,-
--,-,Swansea City,Rotherham United,2-2,-
--,-,Aston Villa,Scunthorpe United,5-0,-
--,-,Brighton & Hove Albion,Scunthorpe United,0-1,-
--,-,Bristol City,Scunthorpe United,0-2,-
--,-,Bristol Rovers,Scunthorpe United,1-1,-
--,-,Cardiff City,Scunthorpe United,4-2,-
--,-,Charlton Athletic,Scunthorpe United,5-2,-
--,-,Derby County,Scunthorpe United,3-0,-
--,-,Huddersfield Town,Scunthorpe United,2-0,-
--,-,Hull City,Scunthorpe United,0-2,-
--,-,Ipswich Town,Scunthorpe United,1-0,-
--,-,Leyton Orient,Scunthorpe United,1-1,-
--,-,Lincoln City,Scunthorpe United,2-1,-
--,-,Liverpool,Scunthorpe United,2-0,-
--,-,Middlesbrough,Scunthorpe United,3-1,-
--,-,Plymouth Argyle,Scunthorpe United,4-0,-
--,-,Portsmouth,Scunthorpe United,4-0,-
--,-,Rotherham United,Scunthorpe United,1-1,-
--,-,Sheffield United,Scunthorpe United,2-1,-
--,-,Stoke City,Scunthorpe United,1-3,-
--,-,Sunderland,Scunthorpe United,1-0,-
--,-,Swansea City,Scunthorpe United,3-1,-
--,-,Aston Villa,Sheffield United,1-3,-
--,-,Brighton & Hove Albion,Sheffield United,0-2,-
--,-,Bristol City,Sheffield United,2-2,-
--,-,Bristol Rovers,Sheffield United,3-2,-
--,-,Cardiff City,Sheffield United,2-0,-
--,-,Charlton Athletic,Sheffield United,1-1,-
--,-,Derby County,Sheffield United,1-1,-
--,-,Huddersfield Town,Sheffield United,0-1,-
--,-,Hull City,Sheffield United,0-2,-
--,-,Ipswich Town,Sheffield United,2-0,-
--,-,Leyton Orient,Sheffield United,1-1,-
--,-,Lincoln City,Sheffield United,2-0,-
--,-,Liverpool,Sheffield United,3-0,-
--,-,Middlesbrough,Sheffield United,1-2,-
--,-,Plymouth Argyle,Sheffield United,1-1,-
--,-,Portsmouth,Sheffield United,0-2,-
--,-,Rotherham United,Sheffield United,0-0,-
--,-,Scunthorpe United,Sheffield United,1-1,-
--,-,Stoke City,Sheffield United,1-2,-
--,-,Sunderland,Sheffield United,5-1,-
--,-,Swansea City,Sheffield United,2-1,-
--,-,Aston Villa,Stoke City,2-1,-
--,-,Brighton & Hove Albion,Stoke City,1-0,-
--,-,Bristol City,Stoke City,1-2,-
--,-,Bristol Rovers,Stoke City,3-1,-
--,-,Cardiff City,Stoke City,4-4,-
--,-,Charlton Athletic,Stoke City,1-2,-
--,-,Derby County,Stoke City,2-0,-
--,-,Huddersfield Town,Stoke City,2-3,-
--,-,Hull City,Stoke City,4-0,-
--,-,Ipswich Town,Stoke City,4-0,-
--,-,Leyton Orient,Stoke City,2-1,-
--,-,Lincoln City,Stoke City,3-0,-
--,-,Liverpool,Stoke City,5-1,-
--,-,Middlesbrough,Stoke City,1-0,-
--,-,Plymouth Argyle,Stoke City,2-3,-
--,-,Portsmouth,Stoke City,2-2,-
--,-,Rotherham United,Stoke City,3-0,-
--,-,Scunthorpe United,Stoke City,1-1,-
--,-,Sheffield United,Stoke City,0-1,-
--,-,Sunderland,Stoke City,0-2,-
--,-,Swansea City,Stoke City,2-2,-
--,-,Aston Villa,Sunderland,3-0,-
--,-,Brighton & Hove Albion,Sunderland,2-1,-
--,-,Bristol City,Sunderland,1-0,-
--,-,Bristol Rovers,Sunderland,3-1,-
--,-,Cardiff City,Sunderland,2-1,-
--,-,Charlton Athletic,Sunderland,3-1,-
--,-,Derby County,Sunderland,0-1,-
--,-,Huddersfield Town,Sunderland,1-1,-
--,-,Hull City,Sunderland,0-0,-
--,-,Ipswich Town,Sunderland,6-1,-
--,-,Leyton Orient,Sunderland,1-1,-
--,-,Lincoln City,Sunderland,0-0,-
--,-,Liverpool,Sunderland,3-0,-
--,-,Middlesbrough,Sunderland,1-1,-
--,-,Plymouth Argyle,Sunderland,0-0,-
--,-,Portsmouth,Sunderland,1-2,-
--,-,Rotherham United,Sunderland,1-0,-
--,-,Scunthorpe United,Sunderland,3-1,-
--,-,Sheffield United,Sunderland,1-2,-
--,-,Stoke City,Sunderland,3-1,-
--,-,Swansea City,Sunderland,1-2,-
--,-,Aston Villa,Swansea City,1-0,-
--,-,Brighton & Hove Albion,Swansea City,1-2,-
--,-,Bristol City,Swansea City,2-2,-
--,-,Bristol Rovers,Swansea City,3-1,-
--,-,Cardiff City,Swansea City,2-1,-
--,-,Charlton Athletic,Swansea City,2-2,-
--,-,Derby County,Swansea City,1-2,-
--,-,Huddersfield Town,Swansea City,4-3,-
--,-,Hull City,Swansea City,3-1,-
--,-,Ipswich Town,Swansea City,4-1,-
--,-,Leyton Orient,Swansea City,2-1,-
--,-,Lincoln City,Swansea City,2-0,-
--,-,Liverpool,Swansea City,4-1,-
--,-,Middlesbrough,Swansea City,2-0,-
--,-,Plymouth Argyle,Swansea City,3-1,-
--,-,Portsmouth,Swansea City,1-3,-
--,-,Rotherham United,Swansea City,1-1,-
--,-,Scunthorpe United,Swansea City,3-1,-
--,-,Sheffield United,Swansea City,3-3,-
--,-,Stoke City,Swansea City,4-2,-
--,-,Sunderland,Swansea City,4-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 19 Dec 1959 (50),Aston Villa FC (1),3-1,?,Brighton & Hove Albion (1)
+?,(Sat) 9 Apr 1960 (14),Aston Villa FC (2),2-1,?,Bristol City FC (1)
+?,(Sat) 16 Jan 1960 (2),Aston Villa FC (3),4-1,?,Bristol Rovers (1)
+?,(Sat) 12 Dec 1959 (49),Aston Villa FC (4),2-0,?,Cardiff City (1)
+?,(Sat) 14 Nov 1959 (45),Aston Villa FC (5),11-1,?,Charlton Athletic (1)
+?,(Tue) 15 Mar 1960 (11),Aston Villa FC (6),3-2,?,Derby County (1)
+?,(Sat) 6 Feb 1960 (5),Aston Villa FC (7),4-0,?,Huddersfield Town (1)
+?,(Mon) 28 Dec 1959 (52),Aston Villa FC (8),1-1,?,Hull City (1)
+?,(Sat) 12 Sep 1959 (36),Aston Villa FC (9),3-1,?,Ipswich Town (1)
+?,(Sat) 26 Sep 1959 (38),Aston Villa FC (10),1-0,?,Leyton Orient FC (1)
+?,(Tue) 1 Mar 1960 (9),Aston Villa FC (11),1-1,?,Lincoln City (1)
+?,(Wed) 30 Mar 1960 (13),Aston Villa FC (12),4-4,?,Liverpool FC (1)
+?,(Sat) 17 Oct 1959 (41),Aston Villa FC (13),1-0,?,Middlesbrough FC (1)
+?,(Sat) 31 Oct 1959 (43),Aston Villa FC (14),2-0,?,Plymouth Argyle (1)
+?,(Mon) 14 Sep 1959 (37),Aston Villa FC (15),5-2,?,Portsmouth FC (1)
+?,(Sat) 23 Apr 1960 (16),Aston Villa FC (16),3-0,?,Rotherham United (1)
+?,(Sat) 28 Nov 1959 (47),Aston Villa FC (17),5-0,?,Scunthorpe United (1)
+?,(Sat) 27 Feb 1960 (8),Aston Villa FC (18),1-3,?,Sheffield United FC (1)
+?,(Mon) 18 Apr 1960 (16),Aston Villa FC (19),2-1,?,Stoke City (1)
+?,(Mon) 31 Aug 1959 (35),Aston Villa FC (20),3-0,?,Sunderland AFC (1)
+?,(Sat) 29 Aug 1959 (34),Aston Villa FC (21),1-0,?,Swansea City (1)
+?,(Sat) 22 Aug 1959 (33),Brighton & Hove Albion (2),1-2,?,Aston Villa FC (22)
+?,(Sat) 12 Mar 1960 (10),Brighton & Hove Albion (3),5-1,?,Bristol City FC (2)
+?,(Wed) 2 Mar 1960 (9),Brighton & Hove Albion (4),2-2,?,Bristol Rovers (2)
+?,(Sat) 14 Nov 1959 (45),Brighton & Hove Albion (5),2-2,?,Cardiff City (2)
+?,(Sat) 17 Oct 1959 (41),Brighton & Hove Albion (6),1-1,?,Charlton Athletic (2)
+?,(Sat) 12 Dec 1959 (49),Brighton & Hove Albion (7),2-0,?,Derby County (2)
+?,(Wed) 2 Sep 1959 (35),Brighton & Hove Albion (8),3-2,?,Huddersfield Town (2)
+?,(Sat) 9 Apr 1960 (14),Brighton & Hove Albion (9),1-1,?,Hull City (2)
+?,(Mon) 28 Dec 1959 (52),Brighton & Hove Albion (10),1-4,?,Ipswich Town (2)
+?,(Wed) 16 Sep 1959 (37),Brighton & Hove Albion (11),1-1,?,Leyton Orient FC (2)
+?,(Mon) 18 Apr 1960 (16),Brighton & Hove Albion (12),3-3,?,Lincoln City (2)
+?,(Sat) 27 Feb 1960 (8),Brighton & Hove Albion (13),1-2,?,Liverpool FC (2)
+?,(Sat) 23 Apr 1960 (16),Brighton & Hove Albion (14),3-2,?,Middlesbrough FC (2)
+?,(Sat) 19 Sep 1959 (37),Brighton & Hove Albion (15),2-2,?,Plymouth Argyle (2)
+?,(Sat) 5 Sep 1959 (35),Brighton & Hove Albion (16),3-1,?,Portsmouth FC (2)
+?,(Sat) 26 Mar 1960 (12),Brighton & Hove Albion (17),0-0,?,Rotherham United (2)
+?,(Sat) 31 Oct 1959 (43),Brighton & Hove Albion (18),0-1,?,Scunthorpe United (2)
+?,(Sat) 28 Nov 1959 (47),Brighton & Hove Albion (19),0-2,?,Sheffield United FC (2)
+?,(Sat) 23 Jan 1960 (3),Brighton & Hove Albion (20),1-0,?,Stoke City (2)
+?,(Sat) 2 Jan 1960 (0),Brighton & Hove Albion (21),2-1,?,Sunderland AFC (2)
+?,(Sat) 26 Sep 1959 (38),Brighton & Hove Albion (22),1-2,?,Swansea City (2)
+?,(Sat) 21 Nov 1959 (46),Bristol City FC (3),0-5,?,Aston Villa FC (23)
+?,(Sat) 24 Oct 1959 (42),Bristol City FC (4),0-1,?,Brighton & Hove Albion (23)
+?,(Sat) 10 Oct 1959 (40),Bristol City FC (5),2-1,?,Bristol Rovers (3)
+?,(Sat) 16 Jan 1960 (2),Bristol City FC (6),0-3,?,Cardiff City (3)
+?,(Tue) 15 Sep 1959 (37),Bristol City FC (7),1-2,?,Charlton Athletic (3)
+?,(Sat) 20 Feb 1960 (7),Bristol City FC (8),0-1,?,Derby County (3)
+?,(Sat) 16 Apr 1960 (15),Bristol City FC (9),2-3,?,Huddersfield Town (3)
+?,(Sat) 12 Sep 1959 (36),Bristol City FC (10),0-1,?,Hull City (3)
+?,(Mon) 18 Apr 1960 (16),Bristol City FC (11),5-1,?,Ipswich Town (3)
+?,(Sat) 5 Dec 1959 (48),Bristol City FC (12),1-1,?,Leyton Orient FC (3)
+?,(Sat) 19 Mar 1960 (11),Bristol City FC (13),1-0,?,Lincoln City (3)
+?,(Tue) 1 Sep 1959 (35),Bristol City FC (14),1-0,?,Liverpool FC (3)
+?,(Sat) 26 Sep 1959 (38),Bristol City FC (15),2-0,?,Middlesbrough FC (3)
+?,(Mon) 28 Dec 1959 (52),Bristol City FC (16),2-1,?,Plymouth Argyle (3)
+?,(Sat) 7 Nov 1959 (44),Bristol City FC (17),2-0,?,Portsmouth FC (3)
+?,(Sat) 29 Aug 1959 (34),Bristol City FC (18),2-3,?,Rotherham United (3)
+?,(Sat) 19 Dec 1959 (50),Bristol City FC (19),0-2,?,Scunthorpe United (3)
+?,(Sat) 6 Feb 1960 (5),Bristol City FC (20),2-2,?,Sheffield United FC (3)
+?,(Sat) 30 Apr 1960 (17),Bristol City FC (21),1-2,?,Stoke City (3)
+?,(Sat) 2 Apr 1960 (13),Bristol City FC (22),1-0,?,Sunderland AFC (3)
+?,(Sat) 5 Mar 1960 (9),Bristol City FC (23),2-2,?,Swansea City (3)
+?,(Sat) 5 Sep 1959 (35),Bristol Rovers (4),1-1,?,Aston Villa FC (24)
+?,(Sat) 3 Oct 1959 (39),Bristol Rovers (5),4-5,?,Brighton & Hove Albion (24)
+?,(Sat) 27 Feb 1960 (8),Bristol Rovers (6),2-1,?,Bristol City FC (24)
+?,(Sat) 31 Oct 1959 (43),Bristol Rovers (7),1-1,?,Cardiff City (4)
+?,(Mon) 21 Sep 1959 (38),Bristol Rovers (8),2-2,?,Charlton Athletic (4)
+?,(Sat) 28 Nov 1959 (47),Bristol Rovers (9),2-1,?,Derby County (4)
+?,(Fri) 15 Apr 1960 (15),Bristol Rovers (10),2-0,?,Huddersfield Town (4)
+?,(Sat) 26 Mar 1960 (12),Bristol Rovers (11),1-0,?,Hull City (4)
+?,(Mon) 7 Sep 1959 (36),Bristol Rovers (12),2-1,?,Ipswich Town (4)
+?,(Sat) 22 Aug 1959 (33),Bristol Rovers (13),2-2,?,Leyton Orient FC (4)
+?,(Sat) 2 Jan 1960 (0),Bristol Rovers (14),3-3,?,Lincoln City (4)
+?,(Sat) 12 Dec 1959 (49),Bristol Rovers (15),0-2,?,Liverpool FC (4)
+?,(Sat) 9 Apr 1960 (14),Bristol Rovers (16),0-2,?,Middlesbrough FC (4)
+?,(Sat) 23 Apr 1960 (16),Bristol Rovers (17),2-0,?,Plymouth Argyle (4)
+?,(Sat) 19 Sep 1959 (37),Bristol Rovers (18),2-0,?,Portsmouth FC (4)
+?,(Sat) 12 Mar 1960 (10),Bristol Rovers (19),3-1,?,Rotherham United (4)
+?,(Sat) 17 Oct 1959 (41),Bristol Rovers (20),1-1,?,Scunthorpe United (4)
+?,(Sat) 14 Nov 1959 (45),Bristol Rovers (21),3-2,?,Sheffield United FC (4)
+?,(Sat) 13 Feb 1960 (6),Bristol Rovers (22),3-1,?,Stoke City (4)
+?,(Sat) 23 Jan 1960 (3),Bristol Rovers (23),3-1,?,Sunderland AFC (4)
+?,(Sat) 26 Dec 1959 (51),Bristol Rovers (24),3-1,?,Swansea City (4)
+?,(Sat) 16 Apr 1960 (15),Cardiff City (5),1-0,?,Aston Villa FC (25)
+?,(Sat) 2 Apr 1960 (13),Cardiff City (6),1-4,?,Brighton & Hove Albion (25)
+?,(Sat) 5 Sep 1959 (35),Cardiff City (7),4-2,?,Bristol City FC (25)
+?,(Sat) 30 Apr 1960 (17),Cardiff City (8),2-2,?,Bristol Rovers (25)
+?,(Sat) 2 Jan 1960 (0),Cardiff City (9),5-1,?,Charlton Athletic (5)
+?,(Wed) 16 Sep 1959 (37),Cardiff City (10),2-0,?,Derby County (5)
+?,(Sat) 5 Mar 1960 (9),Cardiff City (11),2-1,?,Huddersfield Town (5)
+?,(Sat) 20 Feb 1960 (7),Cardiff City (12),3-2,?,Hull City (5)
+?,(Sat) 24 Oct 1959 (42),Cardiff City (13),3-2,?,Ipswich Town (5)
+?,(Sat) 10 Oct 1959 (40),Cardiff City (14),5-1,?,Leyton Orient FC (5)
+?,(Sat) 13 Feb 1960 (6),Cardiff City (15),6-2,?,Lincoln City (5)
+?,(Sat) 22 Aug 1959 (33),Cardiff City (16),3-2,?,Liverpool FC (5)
+?,(Wed) 26 Aug 1959 (34),Cardiff City (17),2-0,?,Middlesbrough FC (5)
+?,(Tue) 19 Apr 1960 (16),Cardiff City (18),0-1,?,Plymouth Argyle (5)
+?,(Sat) 19 Mar 1960 (11),Cardiff City (19),1-4,?,Portsmouth FC (5)
+?,(Sat) 19 Sep 1959 (37),Cardiff City (20),1-4,?,Rotherham United (5)
+?,(Sat) 23 Jan 1960 (3),Cardiff City (21),4-2,?,Scunthorpe United (5)
+?,(Sat) 26 Dec 1959 (51),Cardiff City (22),2-0,?,Sheffield United FC (5)
+?,(Sat) 21 Nov 1959 (46),Cardiff City (23),4-4,?,Stoke City (5)
+?,(Sat) 5 Dec 1959 (48),Cardiff City (24),2-1,?,Sunderland AFC (5)
+?,(Sat) 7 Nov 1959 (44),Cardiff City (25),2-1,?,Swansea City (5)
+?,(Sat) 2 Apr 1960 (13),Charlton Athletic (6),2-0,?,Aston Villa FC (26)
+?,(Sat) 5 Mar 1960 (9),Charlton Athletic (7),3-1,?,Brighton & Hove Albion (26)
+?,(Wed) 9 Sep 1959 (36),Charlton Athletic (8),4-2,?,Bristol City FC (26)
+?,(Wed) 26 Aug 1959 (34),Charlton Athletic (9),2-2,?,Bristol Rovers (26)
+?,(Sat) 29 Aug 1959 (34),Charlton Athletic (10),2-1,?,Cardiff City (26)
+?,(Sat) 26 Sep 1959 (38),Charlton Athletic (11),6-1,?,Derby County (6)
+?,(Sat) 5 Dec 1959 (48),Charlton Athletic (12),1-1,?,Huddersfield Town (6)
+?,(Sat) 16 Jan 1960 (2),Charlton Athletic (13),3-2,?,Hull City (6)
+?,(Sat) 16 Apr 1960 (15),Charlton Athletic (14),1-3,?,Ipswich Town (6)
+?,(Sat) 19 Mar 1960 (11),Charlton Athletic (15),0-0,?,Leyton Orient FC (6)
+?,(Sat) 21 Nov 1959 (46),Charlton Athletic (16),2-2,?,Lincoln City (6)
+?,(Sat) 26 Dec 1959 (51),Charlton Athletic (17),3-0,?,Liverpool FC (6)
+?,(Sat) 6 Feb 1960 (5),Charlton Athletic (18),1-0,?,Middlesbrough FC (6)
+?,(Sat) 20 Feb 1960 (7),Charlton Athletic (19),5-2,?,Plymouth Argyle (6)
+?,(Sat) 30 Apr 1960 (17),Charlton Athletic (20),6-1,?,Portsmouth FC (6)
+?,(Sat) 19 Dec 1959 (50),Charlton Athletic (21),2-2,?,Rotherham United (6)
+?,(Mon) 18 Apr 1960 (16),Charlton Athletic (22),5-2,?,Scunthorpe United (6)
+?,(Sat) 12 Sep 1959 (36),Charlton Athletic (23),1-1,?,Sheffield United FC (6)
+?,(Sat) 24 Oct 1959 (42),Charlton Athletic (24),1-2,?,Stoke City (6)
+?,(Sat) 7 Nov 1959 (44),Charlton Athletic (25),3-1,?,Sunderland AFC (6)
+?,(Sat) 10 Oct 1959 (40),Charlton Athletic (26),2-2,?,Swansea City (6)
+?,(Sat) 24 Oct 1959 (42),Derby County (7),2-2,?,Aston Villa FC (27)
+?,(Sat) 16 Apr 1960 (15),Derby County (8),0-1,?,Brighton & Hove Albion (27)
+?,(Sat) 3 Oct 1959 (39),Derby County (9),3-0,?,Bristol City FC (27)
+?,(Sat) 19 Mar 1960 (11),Derby County (10),1-0,?,Bristol Rovers (27)
+?,(Wed) 9 Sep 1959 (36),Derby County (11),1-2,?,Cardiff City (27)
+?,(Wed) 24 Feb 1960 (8),Derby County (12),1-2,?,Charlton Athletic (27)
+?,(Sat) 2 Apr 1960 (13),Derby County (13),3-2,?,Huddersfield Town (7)
+?,(Mon) 18 Apr 1960 (16),Derby County (14),1-3,?,Hull City (7)
+?,(Sat) 21 Nov 1959 (46),Derby County (15),3-0,?,Ipswich Town (7)
+?,(Sat) 7 Nov 1959 (44),Derby County (16),1-1,?,Leyton Orient FC (7)
+?,(Sat) 30 Apr 1960 (17),Derby County (17),3-1,?,Lincoln City (7)
+?,(Sat) 19 Sep 1959 (37),Derby County (18),1-2,?,Liverpool FC (7)
+?,(Sat) 29 Aug 1959 (34),Derby County (19),1-7,?,Middlesbrough FC (7)
+?,(Sat) 23 Jan 1960 (3),Derby County (20),1-0,?,Plymouth Argyle (7)
+?,(Sat) 10 Oct 1959 (40),Derby County (21),1-0,?,Portsmouth FC (7)
+?,(Wed) 26 Aug 1959 (34),Derby County (22),1-1,?,Rotherham United (7)
+?,(Mon) 28 Dec 1959 (52),Derby County (23),3-0,?,Scunthorpe United (7)
+?,(Sat) 19 Dec 1959 (50),Derby County (24),1-1,?,Sheffield United FC (7)
+?,(Sat) 16 Jan 1960 (2),Derby County (25),2-0,?,Stoke City (7)
+?,(Sat) 5 Mar 1960 (9),Derby County (26),0-1,?,Sunderland AFC (7)
+?,(Sat) 5 Dec 1959 (48),Derby County (27),1-2,?,Swansea City (7)
+?,(Sat) 19 Sep 1959 (37),Huddersfield Town (8),0-1,?,Aston Villa FC (28)
+?,(Wed) 26 Aug 1959 (34),Huddersfield Town (9),2-0,?,Brighton & Hove Albion (28)
+?,(Sat) 12 Dec 1959 (49),Huddersfield Town (10),6-1,?,Bristol City FC (28)
+?,(Mon) 18 Apr 1960 (16),Huddersfield Town (11),0-1,?,Bristol Rovers (28)
+?,(Sat) 17 Oct 1959 (41),Huddersfield Town (12),0-1,?,Cardiff City (28)
+?,(Sat) 23 Apr 1960 (16),Huddersfield Town (13),4-0,?,Charlton Athletic (28)
+?,(Sat) 14 Nov 1959 (45),Huddersfield Town (14),2-2,?,Derby County (28)
+?,(Sat) 12 Mar 1960 (10),Huddersfield Town (15),1-0,?,Hull City (8)
+?,(Sat) 19 Dec 1959 (50),Huddersfield Town (16),3-1,?,Ipswich Town (8)
+?,(Sat) 5 Sep 1959 (35),Huddersfield Town (17),1-1,?,Leyton Orient FC (8)
+?,(Sat) 23 Jan 1960 (3),Huddersfield Town (18),3-0,?,Lincoln City (8)
+?,(Sat) 28 Nov 1959 (47),Huddersfield Town (19),1-0,?,Liverpool FC (8)
+?,(Sat) 26 Mar 1960 (12),Huddersfield Town (20),2-0,?,Middlesbrough FC (8)
+?,(Sat) 9 Apr 1960 (14),Huddersfield Town (21),2-0,?,Plymouth Argyle (8)
+?,(Sat) 3 Oct 1959 (39),Huddersfield Town (22),6-3,?,Portsmouth FC (8)
+?,(Sat) 27 Feb 1960 (8),Huddersfield Town (23),2-1,?,Rotherham United (8)
+?,(Sat) 29 Aug 1959 (34),Huddersfield Town (24),2-0,?,Scunthorpe United (8)
+?,(Sat) 31 Oct 1959 (43),Huddersfield Town (25),0-1,?,Sheffield United FC (8)
+?,(Mon) 28 Dec 1959 (52),Huddersfield Town (26),2-3,?,Stoke City (8)
+?,(Sat) 13 Feb 1960 (6),Huddersfield Town (27),1-1,?,Sunderland AFC (8)
+?,(Wed) 9 Sep 1959 (36),Huddersfield Town (28),4-3,?,Swansea City (8)
+?,(Sat) 26 Dec 1959 (51),Hull City (9),0-1,?,Aston Villa FC (29)
+?,(Sat) 21 Nov 1959 (46),Hull City (10),3-1,?,Brighton & Hove Albion (29)
+?,(Sat) 23 Jan 1960 (3),Hull City (11),1-1,?,Bristol City FC (29)
+?,(Sat) 7 Nov 1959 (44),Hull City (12),3-1,?,Bristol Rovers (29)
+?,(Sat) 3 Oct 1959 (39),Hull City (13),0-0,?,Cardiff City (29)
+?,(Sat) 5 Sep 1959 (35),Hull City (14),0-4,?,Charlton Athletic (29)
+?,(Fri) 15 Apr 1960 (15),Hull City (15),1-1,?,Derby County (29)
+?,(Sat) 24 Oct 1959 (42),Hull City (16),1-1,?,Huddersfield Town (29)
+?,(Sat) 30 Apr 1960 (17),Hull City (17),2-0,?,Ipswich Town (9)
+?,(Sat) 5 Mar 1960 (9),Hull City (18),1-2,?,Leyton Orient FC (9)
+?,(Sat) 10 Oct 1959 (40),Hull City (19),0-5,?,Lincoln City (9)
+?,(Sat) 2 Jan 1960 (0),Hull City (20),0-1,?,Liverpool FC (9)
+?,(Mon) 14 Sep 1959 (37),Hull City (21),3-3,?,Middlesbrough FC (9)
+?,(Sat) 22 Aug 1959 (33),Hull City (22),3-1,?,Plymouth Argyle (9)
+?,(Sat) 5 Dec 1959 (48),Hull City (23),1-3,?,Portsmouth FC (9)
+?,(Sat) 13 Feb 1960 (6),Hull City (24),1-0,?,Rotherham United (9)
+?,(Sat) 19 Sep 1959 (37),Hull City (25),0-2,?,Scunthorpe United (9)
+?,(Mon) 31 Aug 1959 (35),Hull City (26),0-2,?,Sheffield United FC (9)
+?,(Thu) 17 Mar 1960 (11),Hull City (27),4-0,?,Stoke City (9)
+?,(Sat) 16 Apr 1960 (15),Hull City (28),0-0,?,Sunderland AFC (9)
+?,(Sat) 2 Apr 1960 (13),Hull City (29),3-1,?,Swansea City (9)
+?,(Sat) 23 Jan 1960 (3),Ipswich Town (10),2-1,?,Aston Villa FC (30)
+?,(Sat) 26 Dec 1959 (51),Ipswich Town (11),3-0,?,Brighton & Hove Albion (30)
+?,(Fri) 15 Apr 1960 (15),Ipswich Town (12),1-3,?,Bristol City FC (30)
+?,(Wed) 16 Sep 1959 (37),Ipswich Town (13),3-0,?,Bristol Rovers (30)
+?,(Sat) 12 Mar 1960 (10),Ipswich Town (14),1-1,?,Cardiff City (30)
+?,(Sat) 12 Dec 1959 (49),Ipswich Town (15),1-1,?,Charlton Athletic (30)
+?,(Sat) 9 Apr 1960 (14),Ipswich Town (16),1-1,?,Derby County (30)
+?,(Sat) 22 Aug 1959 (33),Ipswich Town (17),1-4,?,Huddersfield Town (30)
+?,(Sat) 31 Oct 1959 (43),Ipswich Town (18),2-0,?,Hull City (30)
+?,(Sat) 2 Jan 1960 (0),Ipswich Town (19),6-3,?,Leyton Orient FC (10)
+?,(Sat) 5 Sep 1959 (35),Ipswich Town (20),3-0,?,Lincoln City (10)
+?,(Sat) 23 Apr 1960 (16),Ipswich Town (21),0-1,?,Liverpool FC (10)
+?,(Sat) 14 Nov 1959 (45),Ipswich Town (22),1-0,?,Middlesbrough FC (10)
+?,(Sat) 28 Nov 1959 (47),Ipswich Town (23),3-3,?,Plymouth Argyle (10)
+?,(Sat) 13 Feb 1960 (6),Ipswich Town (24),1-1,?,Portsmouth FC (10)
+?,(Sat) 17 Oct 1959 (41),Ipswich Town (25),2-3,?,Rotherham United (10)
+?,(Sat) 27 Feb 1960 (8),Ipswich Town (26),1-0,?,Scunthorpe United (10)
+?,(Sat) 26 Mar 1960 (12),Ipswich Town (27),2-0,?,Sheffield United FC (10)
+?,(Sat) 3 Oct 1959 (39),Ipswich Town (28),4-0,?,Stoke City (10)
+?,(Sat) 19 Sep 1959 (37),Ipswich Town (29),6-1,?,Sunderland AFC (10)
+?,(Wed) 26 Aug 1959 (34),Ipswich Town (30),4-1,?,Swansea City (10)
+?,(Sat) 13 Feb 1960 (6),Leyton Orient FC (11),0-0,?,Aston Villa FC (31)
+?,(Thu) 10 Sep 1959 (36),Leyton Orient FC (12),3-2,?,Brighton & Hove Albion (31)
+?,(Sat) 23 Apr 1960 (16),Leyton Orient FC (13),3-1,?,Bristol City FC (31)
+?,(Sat) 19 Dec 1959 (50),Leyton Orient FC (14),1-2,?,Bristol Rovers (31)
+?,(Sat) 27 Feb 1960 (8),Leyton Orient FC (15),3-4,?,Cardiff City (31)
+?,(Sat) 28 Nov 1959 (47),Leyton Orient FC (16),2-0,?,Charlton Athletic (31)
+?,(Sat) 26 Mar 1960 (12),Leyton Orient FC (17),3-0,?,Derby County (31)
+?,(Sat) 16 Jan 1960 (2),Leyton Orient FC (18),2-1,?,Huddersfield Town (31)
+?,(Sat) 17 Oct 1959 (41),Leyton Orient FC (19),3-1,?,Hull City (31)
+?,(Sat) 29 Aug 1959 (34),Leyton Orient FC (20),4-1,?,Ipswich Town (31)
+?,(Sat) 19 Sep 1959 (37),Leyton Orient FC (21),4-0,?,Lincoln City (11)
+?,(Sat) 9 Apr 1960 (14),Leyton Orient FC (22),2-0,?,Liverpool FC (11)
+?,(Sat) 31 Oct 1959 (43),Leyton Orient FC (23),5-0,?,Middlesbrough FC (11)
+?,(Sat) 14 Nov 1959 (45),Leyton Orient FC (24),2-3,?,Plymouth Argyle (11)
+?,(Sat) 26 Dec 1959 (51),Leyton Orient FC (25),1-2,?,Portsmouth FC (11)
+?,(Sat) 12 Sep 1959 (36),Leyton Orient FC (26),2-3,?,Rotherham United (11)
+?,(Sat) 12 Dec 1959 (49),Leyton Orient FC (27),1-1,?,Scunthorpe United (11)
+?,(Thu) 17 Mar 1960 (11),Leyton Orient FC (28),1-1,?,Sheffield United FC (11)
+?,(Thu) 27 Aug 1959 (34),Leyton Orient FC (29),2-1,?,Stoke City (11)
+?,(Sat) 3 Oct 1959 (39),Leyton Orient FC (30),1-1,?,Sunderland AFC (11)
+?,(Fri) 15 Apr 1960 (15),Leyton Orient FC (31),2-1,?,Swansea City (11)
+?,(Sat) 3 Oct 1959 (39),Lincoln City (12),0-0,?,Aston Villa FC (32)
+?,(Fri) 15 Apr 1960 (15),Lincoln City (13),2-1,?,Brighton & Hove Albion (32)
+?,(Sat) 28 Nov 1959 (47),Lincoln City (14),3-1,?,Bristol City FC (32)
+?,(Sat) 29 Aug 1959 (34),Lincoln City (15),0-1,?,Bristol Rovers (32)
+?,(Sat) 26 Sep 1959 (38),Lincoln City (16),2-3,?,Cardiff City (32)
+?,(Sat) 9 Apr 1960 (14),Lincoln City (17),5-3,?,Charlton Athletic (32)
+?,(Sat) 31 Oct 1959 (43),Lincoln City (18),6-2,?,Derby County (32)
+?,(Sat) 12 Sep 1959 (36),Lincoln City (19),0-2,?,Huddersfield Town (32)
+?,(Sat) 27 Feb 1960 (8),Lincoln City (20),3-0,?,Hull City (32)
+?,(Sat) 16 Jan 1960 (2),Lincoln City (21),0-1,?,Ipswich Town (32)
+?,(Sat) 6 Feb 1960 (5),Lincoln City (22),2-2,?,Leyton Orient FC (32)
+?,(Sat) 14 Nov 1959 (45),Lincoln City (23),4-2,?,Liverpool FC (12)
+?,(Sat) 12 Mar 1960 (10),Lincoln City (24),5-2,?,Middlesbrough FC (12)
+?,(Sat) 26 Mar 1960 (12),Lincoln City (25),0-1,?,Plymouth Argyle (12)
+?,(Wed) 26 Aug 1959 (34),Lincoln City (26),0-2,?,Portsmouth FC (12)
+?,(Sat) 12 Dec 1959 (49),Lincoln City (27),0-1,?,Rotherham United (12)
+?,(Sat) 23 Apr 1960 (16),Lincoln City (28),2-1,?,Scunthorpe United (12)
+?,(Sat) 17 Oct 1959 (41),Lincoln City (29),2-0,?,Sheffield United FC (12)
+?,(Wed) 9 Sep 1959 (36),Lincoln City (30),3-0,?,Stoke City (12)
+?,(Mon) 28 Dec 1959 (52),Lincoln City (31),0-0,?,Sunderland AFC (12)
+?,(Sat) 19 Dec 1959 (50),Lincoln City (32),2-0,?,Swansea City (12)
+?,(Sat) 7 Nov 1959 (44),Liverpool FC (13),2-1,?,Aston Villa FC (33)
+?,(Sat) 10 Oct 1959 (40),Liverpool FC (14),2-2,?,Brighton & Hove Albion (33)
+?,(Wed) 26 Aug 1959 (34),Liverpool FC (15),4-2,?,Bristol City FC (33)
+?,(Sat) 16 Apr 1960 (15),Liverpool FC (16),4-0,?,Bristol Rovers (33)
+?,(Sat) 19 Dec 1959 (50),Liverpool FC (17),0-4,?,Cardiff City (33)
+?,(Mon) 28 Dec 1959 (52),Liverpool FC (18),2-0,?,Charlton Athletic (33)
+?,(Wed) 6 Apr 1960 (14),Liverpool FC (19),4-1,?,Derby County (33)
+?,(Sat) 19 Mar 1960 (11),Liverpool FC (20),2-2,?,Huddersfield Town (33)
+?,(Sat) 29 Aug 1959 (34),Liverpool FC (21),5-3,?,Hull City (33)
+?,(Sat) 5 Dec 1959 (48),Liverpool FC (22),3-1,?,Ipswich Town (33)
+?,(Sat) 21 Nov 1959 (46),Liverpool FC (23),4-3,?,Leyton Orient FC (33)
+?,(Sat) 2 Apr 1960 (13),Liverpool FC (24),1-3,?,Lincoln City (33)
+?,(Sat) 12 Sep 1959 (36),Liverpool FC (25),1-2,?,Middlesbrough FC (13)
+?,(Sat) 26 Sep 1959 (38),Liverpool FC (26),4-1,?,Plymouth Argyle (13)
+?,(Sat) 24 Oct 1959 (42),Liverpool FC (27),1-1,?,Portsmouth FC (13)
+?,(Mon) 18 Apr 1960 (16),Liverpool FC (28),3-0,?,Rotherham United (13)
+?,(Wed) 9 Sep 1959 (36),Liverpool FC (29),2-0,?,Scunthorpe United (13)
+?,(Sat) 16 Jan 1960 (2),Liverpool FC (30),3-0,?,Sheffield United FC (13)
+?,(Sat) 5 Mar 1960 (9),Liverpool FC (31),5-1,?,Stoke City (13)
+?,(Sat) 30 Apr 1960 (17),Liverpool FC (32),3-0,?,Sunderland AFC (13)
+?,(Sat) 20 Feb 1960 (7),Liverpool FC (33),4-1,?,Swansea City (13)
+?,(Sat) 5 Mar 1960 (9),Middlesbrough FC (14),0-1,?,Aston Villa FC (34)
+?,(Sat) 5 Dec 1959 (48),Middlesbrough FC (15),4-1,?,Brighton & Hove Albion (34)
+?,(Sat) 13 Feb 1960 (6),Middlesbrough FC (16),6-3,?,Bristol City FC (34)
+?,(Sat) 21 Nov 1959 (46),Middlesbrough FC (17),5-1,?,Bristol Rovers (34)
+?,(Wed) 2 Sep 1959 (35),Middlesbrough FC (18),1-1,?,Cardiff City (34)
+?,(Sat) 19 Sep 1959 (37),Middlesbrough FC (19),3-0,?,Charlton Athletic (34)
+?,(Sat) 2 Jan 1960 (0),Middlesbrough FC (20),3-0,?,Derby County (34)
+?,(Sat) 7 Nov 1959 (44),Middlesbrough FC (21),1-0,?,Huddersfield Town (34)
+?,(Wed) 9 Sep 1959 (36),Middlesbrough FC (22),4-0,?,Hull City (34)
+?,(Sat) 2 Apr 1960 (13),Middlesbrough FC (23),4-1,?,Ipswich Town (34)
+?,(Sat) 30 Apr 1960 (17),Middlesbrough FC (24),2-2,?,Leyton Orient FC (34)
+?,(Sat) 24 Oct 1959 (42),Middlesbrough FC (25),3-2,?,Lincoln City (34)
+?,(Sat) 23 Jan 1960 (3),Middlesbrough FC (26),3-3,?,Liverpool FC (34)
+?,(Sat) 5 Sep 1959 (35),Middlesbrough FC (27),6-2,?,Plymouth Argyle (14)
+?,(Sat) 22 Aug 1959 (33),Middlesbrough FC (28),0-0,?,Portsmouth FC (14)
+?,(Mon) 28 Dec 1959 (52),Middlesbrough FC (29),3-0,?,Rotherham United (14)
+?,(Sat) 3 Oct 1959 (39),Middlesbrough FC (30),3-1,?,Scunthorpe United (14)
+?,(Mon) 18 Apr 1960 (16),Middlesbrough FC (31),1-2,?,Sheffield United FC (14)
+?,(Sat) 16 Apr 1960 (15),Middlesbrough FC (32),1-0,?,Stoke City (14)
+?,(Sat) 10 Oct 1959 (40),Middlesbrough FC (33),1-1,?,Sunderland AFC (14)
+?,(Sat) 19 Mar 1960 (11),Middlesbrough FC (34),2-0,?,Swansea City (14)
+?,(Sat) 30 Apr 1960 (17),Plymouth Argyle (15),3-0,?,Aston Villa FC (35)
+?,(Sat) 6 Feb 1960 (5),Plymouth Argyle (16),3-2,?,Brighton & Hove Albion (35)
+?,(Sat) 26 Dec 1959 (51),Plymouth Argyle (17),1-4,?,Bristol City FC (35)
+?,(Sat) 5 Dec 1959 (48),Plymouth Argyle (18),5-3,?,Bristol Rovers (35)
+?,(Sat) 30 Jan 1960 (4),Plymouth Argyle (19),1-1,?,Cardiff City (35)
+?,(Sat) 3 Oct 1959 (39),Plymouth Argyle (20),6-4,?,Charlton Athletic (35)
+?,(Sat) 12 Sep 1959 (36),Plymouth Argyle (21),0-5,?,Derby County (35)
+?,(Sat) 21 Nov 1959 (46),Plymouth Argyle (22),1-3,?,Huddersfield Town (35)
+?,(Sat) 19 Dec 1959 (50),Plymouth Argyle (23),3-2,?,Hull City (35)
+?,(Sat) 19 Mar 1960 (11),Plymouth Argyle (24),3-1,?,Ipswich Town (35)
+?,(Sat) 2 Apr 1960 (13),Plymouth Argyle (25),1-0,?,Leyton Orient FC (35)
+?,(Sat) 7 Nov 1959 (44),Plymouth Argyle (26),0-2,?,Lincoln City (35)
+?,(Sat) 13 Feb 1960 (6),Plymouth Argyle (27),1-1,?,Liverpool FC (35)
+?,(Sat) 16 Jan 1960 (2),Plymouth Argyle (28),2-2,?,Middlesbrough FC (35)
+?,(Sat) 5 Mar 1960 (9),Plymouth Argyle (29),1-1,?,Portsmouth FC (15)
+?,(Mon) 7 Sep 1959 (36),Plymouth Argyle (30),1-0,?,Rotherham United (15)
+?,(Mon) 24 Aug 1959 (34),Plymouth Argyle (31),4-0,?,Scunthorpe United (15)
+?,(Sat) 29 Aug 1959 (34),Plymouth Argyle (32),1-1,?,Sheffield United FC (15)
+?,(Sat) 10 Oct 1959 (40),Plymouth Argyle (33),2-3,?,Stoke City (15)
+?,(Sat) 24 Oct 1959 (42),Plymouth Argyle (34),0-0,?,Sunderland AFC (15)
+?,(Sat) 16 Apr 1960 (15),Plymouth Argyle (35),3-1,?,Swansea City (15)
+?,(Wed) 9 Sep 1959 (36),Portsmouth FC (16),1-2,?,Aston Villa FC (36)
+?,(Sat) 16 Jan 1960 (2),Portsmouth FC (17),2-2,?,Brighton & Hove Albion (36)
+?,(Sat) 26 Mar 1960 (12),Portsmouth FC (18),2-0,?,Bristol City FC (36)
+?,(Sat) 6 Feb 1960 (5),Portsmouth FC (19),4-5,?,Bristol Rovers (36)
+?,(Sat) 28 Nov 1959 (47),Portsmouth FC (20),1-1,?,Cardiff City (36)
+?,(Sat) 31 Oct 1959 (43),Portsmouth FC (21),2-2,?,Charlton Athletic (36)
+?,(Sat) 27 Feb 1960 (8),Portsmouth FC (22),2-3,?,Derby County (36)
+?,(Sat) 20 Feb 1960 (7),Portsmouth FC (23),0-2,?,Huddersfield Town (36)
+?,(Sat) 23 Apr 1960 (16),Portsmouth FC (24),1-1,?,Hull City (36)
+?,(Sat) 26 Sep 1959 (38),Portsmouth FC (25),0-2,?,Ipswich Town (36)
+?,(Mon) 28 Dec 1959 (52),Portsmouth FC (26),1-1,?,Leyton Orient FC (36)
+?,(Wed) 2 Sep 1959 (35),Portsmouth FC (27),1-2,?,Lincoln City (36)
+?,(Sat) 12 Mar 1960 (10),Portsmouth FC (28),2-1,?,Liverpool FC (36)
+?,(Sat) 19 Dec 1959 (50),Portsmouth FC (29),6-3,?,Middlesbrough FC (36)
+?,(Sat) 17 Oct 1959 (41),Portsmouth FC (30),1-0,?,Plymouth Argyle (36)
+?,(Sat) 9 Apr 1960 (14),Portsmouth FC (31),2-0,?,Rotherham United (16)
+?,(Sat) 14 Nov 1959 (45),Portsmouth FC (32),4-0,?,Scunthorpe United (16)
+?,(Sat) 12 Dec 1959 (49),Portsmouth FC (33),0-2,?,Sheffield United FC (16)
+?,(Sat) 29 Aug 1959 (34),Portsmouth FC (34),2-2,?,Stoke City (16)
+?,(Mon) 18 Apr 1960 (16),Portsmouth FC (35),1-2,?,Sunderland AFC (16)
+?,(Sat) 12 Sep 1959 (36),Portsmouth FC (36),1-3,?,Swansea City (16)
+?,(Sat) 5 Dec 1959 (48),Rotherham United (17),2-1,?,Aston Villa FC (37)
+?,(Sat) 7 Nov 1959 (44),Rotherham United (18),1-0,?,Brighton & Hove Albion (37)
+?,(Sat) 2 Jan 1960 (0),Rotherham United (19),3-1,?,Bristol City FC (37)
+?,(Sat) 24 Oct 1959 (42),Rotherham United (20),3-0,?,Bristol Rovers (37)
+?,(Sat) 6 Feb 1960 (5),Rotherham United (21),2-2,?,Cardiff City (37)
+?,(Sat) 22 Aug 1959 (33),Rotherham United (22),3-3,?,Charlton Athletic (37)
+?,(Mon) 31 Aug 1959 (35),Rotherham United (23),1-2,?,Derby County (37)
+?,(Sat) 10 Oct 1959 (40),Rotherham United (24),1-1,?,Huddersfield Town (37)
+?,(Sat) 26 Sep 1959 (38),Rotherham United (25),1-0,?,Hull City (37)
+?,(Sat) 5 Mar 1960 (9),Rotherham United (26),1-4,?,Ipswich Town (37)
+?,(Sat) 23 Jan 1960 (3),Rotherham United (27),1-1,?,Leyton Orient FC (37)
+?,(Sat) 16 Apr 1960 (15),Rotherham United (28),1-0,?,Lincoln City (37)
+?,(Tue) 19 Apr 1960 (16),Rotherham United (29),2-2,?,Liverpool FC (37)
+?,(Sat) 26 Dec 1959 (51),Rotherham United (30),0-2,?,Middlesbrough FC (37)
+?,(Wed) 16 Sep 1959 (37),Rotherham United (31),1-1,?,Plymouth Argyle (37)
+?,(Sat) 21 Nov 1959 (46),Rotherham United (32),2-1,?,Portsmouth FC (37)
+?,(Sat) 5 Sep 1959 (35),Rotherham United (33),1-1,?,Scunthorpe United (17)
+?,(Wed) 2 Mar 1960 (9),Rotherham United (34),0-0,?,Sheffield United FC (17)
+?,(Sat) 2 Apr 1960 (13),Rotherham United (35),3-0,?,Stoke City (17)
+?,(Sat) 19 Mar 1960 (11),Rotherham United (36),1-0,?,Sunderland AFC (17)
+?,(Sat) 30 Apr 1960 (17),Rotherham United (37),1-1,?,Swansea City (17)
+?,(Sat) 19 Mar 1960 (11),Scunthorpe United (18),1-2,?,Aston Villa FC (38)
+?,(Sat) 30 Apr 1960 (17),Scunthorpe United (19),1-2,?,Brighton & Hove Albion (38)
+?,(Sat) 22 Aug 1959 (33),Scunthorpe United (20),1-1,?,Bristol City FC (38)
+?,(Sat) 5 Mar 1960 (9),Scunthorpe United (21),3-4,?,Bristol Rovers (38)
+?,(Sat) 12 Sep 1959 (36),Scunthorpe United (22),1-2,?,Cardiff City (38)
+?,(Fri) 15 Apr 1960 (15),Scunthorpe United (23),1-1,?,Charlton Athletic (38)
+?,(Sat) 26 Dec 1959 (51),Scunthorpe United (24),3-2,?,Derby County (38)
+?,(Sat) 2 Jan 1960 (0),Scunthorpe United (25),0-2,?,Huddersfield Town (38)
+?,(Sat) 6 Feb 1960 (5),Scunthorpe United (26),3-0,?,Hull City (38)
+?,(Sat) 10 Oct 1959 (40),Scunthorpe United (27),2-2,?,Ipswich Town (38)
+?,(Sat) 16 Apr 1960 (15),Scunthorpe United (28),2-1,?,Leyton Orient FC (38)
+?,(Sat) 5 Dec 1959 (48),Scunthorpe United (29),5-0,?,Lincoln City (38)
+?,(Thu) 17 Sep 1959 (37),Scunthorpe United (30),1-1,?,Liverpool FC (38)
+?,(Sat) 20 Feb 1960 (7),Scunthorpe United (31),1-1,?,Middlesbrough FC (38)
+?,(Thu) 3 Sep 1959 (35),Scunthorpe United (32),2-0,?,Plymouth Argyle (38)
+?,(Sat) 2 Apr 1960 (13),Scunthorpe United (33),1-0,?,Portsmouth FC (38)
+?,(Sat) 16 Jan 1960 (2),Scunthorpe United (34),2-1,?,Rotherham United (38)
+?,(Sat) 26 Sep 1959 (38),Scunthorpe United (35),1-1,?,Sheffield United FC (18)
+?,(Sat) 7 Nov 1959 (44),Scunthorpe United (36),1-1,?,Stoke City (18)
+?,(Sat) 21 Nov 1959 (46),Scunthorpe United (37),3-1,?,Sunderland AFC (18)
+?,(Sat) 24 Oct 1959 (42),Scunthorpe United (38),3-1,?,Swansea City (18)
+?,(Sat) 10 Oct 1959 (40),Sheffield United FC (19),1-1,?,Aston Villa FC (39)
+?,(Sat) 19 Mar 1960 (11),Sheffield United FC (20),4-1,?,Brighton & Hove Albion (39)
+?,(Sat) 19 Sep 1959 (37),Sheffield United FC (21),5-2,?,Bristol City FC (39)
+?,(Sat) 2 Apr 1960 (13),Sheffield United FC (22),1-1,?,Bristol Rovers (39)
+?,(Mon) 28 Dec 1959 (52),Sheffield United FC (23),2-1,?,Cardiff City (39)
+?,(Sat) 23 Jan 1960 (3),Sheffield United FC (24),2-0,?,Charlton Athletic (39)
+?,(Sat) 22 Aug 1959 (33),Sheffield United FC (25),2-1,?,Derby County (39)
+?,(Sat) 30 Apr 1960 (17),Sheffield United FC (26),2-0,?,Huddersfield Town (39)
+?,(Mon) 24 Aug 1959 (34),Sheffield United FC (27),6-0,?,Hull City (39)
+?,(Sat) 7 Nov 1959 (44),Sheffield United FC (28),1-0,?,Ipswich Town (39)
+?,(Sat) 24 Oct 1959 (42),Sheffield United FC (29),0-2,?,Leyton Orient FC (39)
+?,(Sat) 5 Mar 1960 (9),Sheffield United FC (30),3-2,?,Lincoln City (39)
+?,(Sat) 5 Sep 1959 (35),Sheffield United FC (31),2-1,?,Liverpool FC (39)
+?,(Tue) 19 Apr 1960 (16),Sheffield United FC (32),0-0,?,Middlesbrough FC (39)
+?,(Sat) 2 Jan 1960 (0),Sheffield United FC (33),4-0,?,Plymouth Argyle (39)
+?,(Sat) 16 Apr 1960 (15),Sheffield United FC (34),0-0,?,Portsmouth FC (39)
+?,(Sat) 3 Oct 1959 (39),Sheffield United FC (35),2-3,?,Rotherham United (39)
+?,(Sat) 13 Feb 1960 (6),Sheffield United FC (36),2-1,?,Scunthorpe United (39)
+?,(Sat) 5 Dec 1959 (48),Sheffield United FC (37),0-1,?,Stoke City (19)
+?,(Mon) 7 Sep 1959 (36),Sheffield United FC (38),1-2,?,Sunderland AFC (19)
+?,(Sat) 21 Nov 1959 (46),Sheffield United FC (39),3-3,?,Swansea City (19)
+?,(Wed) 30 Sep 1959 (39),Stoke City (20),3-3,?,Aston Villa FC (40)
+?,(Sat) 12 Sep 1959 (36),Stoke City (21),1-3,?,Brighton & Hove Albion (40)
+?,(Sat) 31 Oct 1959 (43),Stoke City (22),1-3,?,Bristol City FC (40)
+?,(Sat) 26 Sep 1959 (38),Stoke City (23),0-1,?,Bristol Rovers (40)
+?,(Sat) 9 Apr 1960 (14),Stoke City (24),0-1,?,Cardiff City (40)
+?,(Sat) 12 Mar 1960 (10),Stoke City (25),1-3,?,Charlton Athletic (40)
+?,(Sat) 5 Sep 1959 (35),Stoke City (26),2-1,?,Derby County (40)
+?,(Sat) 26 Dec 1959 (51),Stoke City (27),1-1,?,Huddersfield Town (40)
+?,(Sat) 28 Nov 1959 (47),Stoke City (28),3-1,?,Hull City (40)
+?,(Wed) 30 Mar 1960 (13),Stoke City (29),1-2,?,Ipswich Town (40)
+?,(Wed) 2 Sep 1959 (35),Stoke City (30),2-1,?,Leyton Orient FC (40)
+?,(Wed) 16 Sep 1959 (37),Stoke City (31),6-1,?,Lincoln City (40)
+?,(Sat) 17 Oct 1959 (41),Stoke City (32),1-1,?,Liverpool FC (40)
+?,(Sat) 12 Dec 1959 (49),Stoke City (33),2-5,?,Middlesbrough FC (40)
+?,(Sat) 27 Feb 1960 (8),Stoke City (34),1-0,?,Plymouth Argyle (40)
+?,(Sat) 2 Jan 1960 (0),Stoke City (35),4-0,?,Portsmouth FC (40)
+?,(Sat) 14 Nov 1959 (45),Stoke City (36),2-3,?,Rotherham United (40)
+?,(Sat) 26 Mar 1960 (12),Stoke City (37),1-3,?,Scunthorpe United (40)
+?,(Sat) 23 Apr 1960 (16),Stoke City (38),1-2,?,Sheffield United FC (40)
+?,(Sat) 22 Aug 1959 (33),Stoke City (39),3-1,?,Sunderland AFC (20)
+?,(Sat) 6 Feb 1960 (5),Stoke City (40),4-2,?,Swansea City (20)
+?,(Wed) 26 Aug 1959 (34),Sunderland AFC (21),1-0,?,Aston Villa FC (41)
+?,(Sat) 29 Aug 1959 (34),Sunderland AFC (22),0-0,?,Brighton & Hove Albion (41)
+?,(Sat) 14 Nov 1959 (45),Sunderland AFC (23),3-2,?,Bristol City FC (41)
+?,(Sat) 12 Sep 1959 (36),Sunderland AFC (24),2-2,?,Bristol Rovers (41)
+?,(Sat) 23 Apr 1960 (16),Sunderland AFC (25),1-1,?,Cardiff City (41)
+?,(Sat) 26 Mar 1960 (12),Sunderland AFC (26),1-3,?,Charlton Athletic (41)
+?,(Sat) 17 Oct 1959 (41),Sunderland AFC (27),3-1,?,Derby County (41)
+?,(Sat) 26 Sep 1959 (38),Sunderland AFC (28),0-0,?,Huddersfield Town (41)
+?,(Sat) 12 Dec 1959 (49),Sunderland AFC (29),1-3,?,Hull City (41)
+?,(Sat) 6 Feb 1960 (5),Sunderland AFC (30),0-1,?,Ipswich Town (41)
+?,(Sat) 20 Feb 1960 (7),Sunderland AFC (31),1-4,?,Leyton Orient FC (41)
+?,(Sat) 26 Dec 1959 (51),Sunderland AFC (32),2-4,?,Lincoln City (41)
+?,(Sat) 31 Oct 1959 (43),Sunderland AFC (33),1-1,?,Liverpool FC (41)
+?,(Sat) 27 Feb 1960 (8),Sunderland AFC (34),2-2,?,Middlesbrough FC (41)
+?,(Sat) 12 Mar 1960 (10),Sunderland AFC (35),4-0,?,Plymouth Argyle (41)
+?,(Fri) 15 Apr 1960 (15),Sunderland AFC (36),2-0,?,Portsmouth FC (41)
+?,(Sat) 28 Nov 1959 (47),Sunderland AFC (37),1-2,?,Rotherham United (41)
+?,(Sat) 9 Apr 1960 (14),Sunderland AFC (38),1-0,?,Scunthorpe United (41)
+?,(Wed) 16 Sep 1959 (37),Sunderland AFC (39),5-1,?,Sheffield United FC (41)
+?,(Sat) 19 Dec 1959 (50),Sunderland AFC (40),0-2,?,Stoke City (41)
+?,(Sat) 16 Jan 1960 (2),Sunderland AFC (41),4-0,?,Swansea City (21)
+?,(Sat) 2 Jan 1960 (0),Swansea City (22),1-3,?,Aston Villa FC (42)
+?,(Sat) 13 Feb 1960 (6),Swansea City (23),2-2,?,Brighton & Hove Albion (42)
+?,(Tue) 26 Apr 1960 (17),Swansea City (24),6-1,?,Bristol City FC (42)
+?,(Mon) 28 Dec 1959 (52),Swansea City (25),3-0,?,Bristol Rovers (42)
+?,(Sat) 26 Mar 1960 (12),Swansea City (26),3-3,?,Cardiff City (42)
+?,(Sat) 27 Feb 1960 (8),Swansea City (27),5-2,?,Charlton Athletic (42)
+?,(Sat) 23 Apr 1960 (16),Swansea City (28),1-3,?,Derby County (42)
+?,(Thu) 17 Sep 1959 (37),Swansea City (29),3-1,?,Huddersfield Town (42)
+?,(Sat) 14 Nov 1959 (45),Swansea City (30),0-0,?,Hull City (42)
+?,(Thu) 3 Sep 1959 (35),Swansea City (31),2-1,?,Ipswich Town (42)
+?,(Mon) 18 Apr 1960 (16),Swansea City (32),1-0,?,Leyton Orient FC (42)
+?,(Sat) 22 Aug 1959 (33),Swansea City (33),2-1,?,Lincoln City (42)
+?,(Sat) 3 Oct 1959 (39),Swansea City (34),5-4,?,Liverpool FC (42)
+?,(Sat) 28 Nov 1959 (47),Swansea City (35),3-1,?,Middlesbrough FC (42)
+?,(Sat) 12 Dec 1959 (49),Swansea City (36),6-1,?,Plymouth Argyle (42)
+?,(Sat) 23 Jan 1960 (3),Swansea City (37),1-1,?,Portsmouth FC (42)
+?,(Sat) 31 Oct 1959 (43),Swansea City (38),2-2,?,Rotherham United (42)
+?,(Sat) 12 Mar 1960 (10),Swansea City (39),3-1,?,Scunthorpe United (42)
+?,(Sat) 9 Apr 1960 (14),Swansea City (40),2-1,?,Sheffield United FC (42)
+?,(Sat) 19 Sep 1959 (37),Swansea City (41),2-2,?,Stoke City (42)
+?,(Sat) 5 Sep 1959 (35),Swansea City (42),1-2,?,Sunderland AFC (42)

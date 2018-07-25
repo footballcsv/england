@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Birmingham City,Barnsley,1-1,-
--,-,Blackburn Rovers,Barnsley,4-2,-
--,-,Bradford City,Barnsley,0-0,-
--,-,Brighton & Hove Albion,Barnsley,1-1,-
--,-,Crystal Palace,Barnsley,0-1,-
--,-,Derby County,Barnsley,3-2,-
--,-,Grimsby Town,Barnsley,0-1,-
--,-,Huddersfield Town,Barnsley,2-2,-
--,-,Hull City,Barnsley,3-4,-
--,-,Ipswich Town,Barnsley,1-0,-
--,-,Leeds United,Barnsley,2-2,-
--,-,Millwall,Barnsley,1-0,-
--,-,Oldham Athletic,Barnsley,2-0,-
--,-,Plymouth Argyle,Barnsley,2-0,-
--,-,Portsmouth,Barnsley,2-1,-
--,-,Reading,Barnsley,0-0,-
--,-,Sheffield United,Barnsley,1-0,-
--,-,Shrewsbury Town,Barnsley,1-0,-
--,-,Stoke City,Barnsley,1-2,-
--,-,Sunderland,Barnsley,2-3,-
--,-,West Bromwich Albion,Barnsley,0-1,-
--,-,Barnsley,Birmingham City,2-2,-
--,-,Blackburn Rovers,Birmingham City,1-0,-
--,-,Bradford City,Birmingham City,0-0,-
--,-,Brighton & Hove Albion,Birmingham City,2-0,-
--,-,Crystal Palace,Birmingham City,6-0,-
--,-,Derby County,Birmingham City,2-2,-
--,-,Grimsby Town,Birmingham City,0-1,-
--,-,Huddersfield Town,Birmingham City,2-2,-
--,-,Hull City,Birmingham City,3-2,-
--,-,Ipswich Town,Birmingham City,3-0,-
--,-,Leeds United,Birmingham City,4-0,-
--,-,Millwall,Birmingham City,0-2,-
--,-,Oldham Athletic,Birmingham City,2-2,-
--,-,Plymouth Argyle,Birmingham City,0-0,-
--,-,Portsmouth,Birmingham City,2-0,-
--,-,Reading,Birmingham City,2-2,-
--,-,Sheffield United,Birmingham City,1-1,-
--,-,Shrewsbury Town,Birmingham City,1-0,-
--,-,Stoke City,Birmingham City,0-2,-
--,-,Sunderland,Birmingham City,2-0,-
--,-,West Bromwich Albion,Birmingham City,3-2,-
--,-,Barnsley,Blackburn Rovers,1-1,-
--,-,Birmingham City,Blackburn Rovers,1-1,-
--,-,Bradford City,Blackburn Rovers,2-0,-
--,-,Brighton & Hove Albion,Blackburn Rovers,0-2,-
--,-,Crystal Palace,Blackburn Rovers,2-0,-
--,-,Derby County,Blackburn Rovers,3-2,-
--,-,Grimsby Town,Blackburn Rovers,1-0,-
--,-,Huddersfield Town,Blackburn Rovers,1-2,-
--,-,Hull City,Blackburn Rovers,0-0,-
--,-,Ipswich Town,Blackburn Rovers,3-1,-
--,-,Leeds United,Blackburn Rovers,0-0,-
--,-,Millwall,Blackburn Rovers,2-2,-
--,-,Oldham Athletic,Blackburn Rovers,3-0,-
--,-,Plymouth Argyle,Blackburn Rovers,1-1,-
--,-,Portsmouth,Blackburn Rovers,1-0,-
--,-,Reading,Blackburn Rovers,4-0,-
--,-,Sheffield United,Blackburn Rovers,4-1,-
--,-,Shrewsbury Town,Blackburn Rovers,0-1,-
--,-,Stoke City,Blackburn Rovers,1-0,-
--,-,Sunderland,Blackburn Rovers,3-0,-
--,-,West Bromwich Albion,Blackburn Rovers,0-1,-
--,-,Barnsley,Bradford City,2-0,-
--,-,Birmingham City,Bradford City,2-1,-
--,-,Blackburn Rovers,Bradford City,2-1,-
--,-,Brighton & Hove Albion,Bradford City,2-2,-
--,-,Crystal Palace,Bradford City,1-1,-
--,-,Derby County,Bradford City,1-0,-
--,-,Grimsby Town,Bradford City,0-0,-
--,-,Huddersfield Town,Bradford City,5-2,-
--,-,Hull City,Bradford City,2-1,-
--,-,Ipswich Town,Bradford City,1-0,-
--,-,Leeds United,Bradford City,1-0,-
--,-,Millwall,Bradford City,1-2,-
--,-,Oldham Athletic,Bradford City,2-1,-
--,-,Plymouth Argyle,Bradford City,3-2,-
--,-,Portsmouth,Bradford City,2-1,-
--,-,Reading,Bradford City,0-1,-
--,-,Sheffield United,Bradford City,2-2,-
--,-,Shrewsbury Town,Bradford City,0-1,-
--,-,Stoke City,Bradford City,2-3,-
--,-,Sunderland,Bradford City,2-3,-
--,-,West Bromwich Albion,Bradford City,2-2,-
--,-,Barnsley,Brighton & Hove Albion,3-1,-
--,-,Birmingham City,Brighton & Hove Albion,2-0,-
--,-,Blackburn Rovers,Brighton & Hove Albion,1-1,-
--,-,Bradford City,Brighton & Hove Albion,2-0,-
--,-,Crystal Palace,Brighton & Hove Albion,2-0,-
--,-,Derby County,Brighton & Hove Albion,4-1,-
--,-,Grimsby Town,Brighton & Hove Albion,1-2,-
--,-,Huddersfield Town,Brighton & Hove Albion,2-1,-
--,-,Hull City,Brighton & Hove Albion,1-0,-
--,-,Ipswich Town,Brighton & Hove Albion,1-0,-
--,-,Leeds United,Brighton & Hove Albion,3-1,-
--,-,Millwall,Brighton & Hove Albion,3-1,-
--,-,Oldham Athletic,Brighton & Hove Albion,1-1,-
--,-,Plymouth Argyle,Brighton & Hove Albion,2-2,-
--,-,Portsmouth,Brighton & Hove Albion,1-0,-
--,-,Reading,Brighton & Hove Albion,2-1,-
--,-,Sheffield United,Brighton & Hove Albion,0-1,-
--,-,Shrewsbury Town,Brighton & Hove Albion,1-0,-
--,-,Stoke City,Brighton & Hove Albion,1-1,-
--,-,Sunderland,Brighton & Hove Albion,1-1,-
--,-,West Bromwich Albion,Brighton & Hove Albion,0-0,-
--,-,Barnsley,Crystal Palace,2-3,-
--,-,Birmingham City,Crystal Palace,4-1,-
--,-,Blackburn Rovers,Crystal Palace,0-2,-
--,-,Bradford City,Crystal Palace,1-2,-
--,-,Brighton & Hove Albion,Crystal Palace,2-0,-
--,-,Derby County,Crystal Palace,1-0,-
--,-,Grimsby Town,Crystal Palace,0-1,-
--,-,Huddersfield Town,Crystal Palace,1-2,-
--,-,Hull City,Crystal Palace,3-0,-
--,-,Ipswich Town,Crystal Palace,3-0,-
--,-,Leeds United,Crystal Palace,3-0,-
--,-,Millwall,Crystal Palace,0-1,-
--,-,Oldham Athletic,Crystal Palace,1-0,-
--,-,Plymouth Argyle,Crystal Palace,3-1,-
--,-,Portsmouth,Crystal Palace,2-0,-
--,-,Reading,Crystal Palace,1-0,-
--,-,Sheffield United,Crystal Palace,1-0,-
--,-,Shrewsbury Town,Crystal Palace,0-0,-
--,-,Stoke City,Crystal Palace,3-1,-
--,-,Sunderland,Crystal Palace,1-0,-
--,-,West Bromwich Albion,Crystal Palace,1-2,-
--,-,Barnsley,Derby County,0-1,-
--,-,Birmingham City,Derby County,1-1,-
--,-,Blackburn Rovers,Derby County,3-1,-
--,-,Bradford City,Derby County,0-1,-
--,-,Brighton & Hove Albion,Derby County,0-1,-
--,-,Crystal Palace,Derby County,1-0,-
--,-,Grimsby Town,Derby County,0-1,-
--,-,Huddersfield Town,Derby County,2-0,-
--,-,Hull City,Derby County,1-1,-
--,-,Ipswich Town,Derby County,0-2,-
--,-,Leeds United,Derby County,2-0,-
--,-,Millwall,Derby County,0-1,-
--,-,Oldham Athletic,Derby County,1-4,-
--,-,Plymouth Argyle,Derby County,1-1,-
--,-,Portsmouth,Derby County,3-1,-
--,-,Reading,Derby County,2-0,-
--,-,Sheffield United,Derby County,0-1,-
--,-,Shrewsbury Town,Derby County,0-1,-
--,-,Stoke City,Derby County,0-2,-
--,-,Sunderland,Derby County,1-2,-
--,-,West Bromwich Albion,Derby County,2-0,-
--,-,Barnsley,Grimsby Town,1-0,-
--,-,Birmingham City,Grimsby Town,1-0,-
--,-,Blackburn Rovers,Grimsby Town,2-2,-
--,-,Bradford City,Grimsby Town,4-2,-
--,-,Brighton & Hove Albion,Grimsby Town,0-1,-
--,-,Crystal Palace,Grimsby Town,0-3,-
--,-,Derby County,Grimsby Town,4-0,-
--,-,Huddersfield Town,Grimsby Town,0-0,-
--,-,Hull City,Grimsby Town,1-1,-
--,-,Ipswich Town,Grimsby Town,1-1,-
--,-,Leeds United,Grimsby Town,2-0,-
--,-,Millwall,Grimsby Town,1-0,-
--,-,Oldham Athletic,Grimsby Town,1-1,-
--,-,Plymouth Argyle,Grimsby Town,5-0,-
--,-,Portsmouth,Grimsby Town,2-1,-
--,-,Reading,Grimsby Town,2-3,-
--,-,Sheffield United,Grimsby Town,1-2,-
--,-,Shrewsbury Town,Grimsby Town,4-1,-
--,-,Stoke City,Grimsby Town,5-1,-
--,-,Sunderland,Grimsby Town,0-1,-
--,-,West Bromwich Albion,Grimsby Town,1-1,-
--,-,Barnsley,Huddersfield Town,0-1,-
--,-,Birmingham City,Huddersfield Town,1-1,-
--,-,Blackburn Rovers,Huddersfield Town,1-2,-
--,-,Bradford City,Huddersfield Town,4-3,-
--,-,Brighton & Hove Albion,Huddersfield Town,1-1,-
--,-,Crystal Palace,Huddersfield Town,1-0,-
--,-,Derby County,Huddersfield Town,2-0,-
--,-,Grimsby Town,Huddersfield Town,0-1,-
--,-,Hull City,Huddersfield Town,0-0,-
--,-,Ipswich Town,Huddersfield Town,3-0,-
--,-,Leeds United,Huddersfield Town,1-1,-
--,-,Millwall,Huddersfield Town,4-0,-
--,-,Oldham Athletic,Huddersfield Town,2-0,-
--,-,Plymouth Argyle,Huddersfield Town,1-1,-
--,-,Portsmouth,Huddersfield Town,1-0,-
--,-,Reading,Huddersfield Town,3-2,-
--,-,Sheffield United,Huddersfield Town,0-0,-
--,-,Shrewsbury Town,Huddersfield Town,1-2,-
--,-,Stoke City,Huddersfield Town,2-0,-
--,-,Sunderland,Huddersfield Town,2-1,-
--,-,West Bromwich Albion,Huddersfield Town,1-0,-
--,-,Barnsley,Hull City,1-1,-
--,-,Birmingham City,Hull City,0-0,-
--,-,Blackburn Rovers,Hull City,0-2,-
--,-,Bradford City,Hull City,2-0,-
--,-,Brighton & Hove Albion,Hull City,2-1,-
--,-,Crystal Palace,Hull City,5-1,-
--,-,Derby County,Hull City,1-1,-
--,-,Grimsby Town,Hull City,2-2,-
--,-,Huddersfield Town,Hull City,1-3,-
--,-,Ipswich Town,Hull City,0-0,-
--,-,Leeds United,Hull City,3-0,-
--,-,Millwall,Hull City,0-1,-
--,-,Oldham Athletic,Hull City,0-0,-
--,-,Plymouth Argyle,Hull City,4-0,-
--,-,Portsmouth,Hull City,1-0,-
--,-,Reading,Hull City,1-0,-
--,-,Sheffield United,Hull City,4-2,-
--,-,Shrewsbury Town,Hull City,3-0,-
--,-,Stoke City,Hull City,1-1,-
--,-,Sunderland,Hull City,1-0,-
--,-,West Bromwich Albion,Hull City,1-1,-
--,-,Barnsley,Ipswich Town,2-1,-
--,-,Birmingham City,Ipswich Town,2-2,-
--,-,Blackburn Rovers,Ipswich Town,0-0,-
--,-,Bradford City,Ipswich Town,3-4,-
--,-,Brighton & Hove Albion,Ipswich Town,1-2,-
--,-,Crystal Palace,Ipswich Town,3-3,-
--,-,Derby County,Ipswich Town,2-1,-
--,-,Grimsby Town,Ipswich Town,1-1,-
--,-,Huddersfield Town,Ipswich Town,1-2,-
--,-,Hull City,Ipswich Town,2-1,-
--,-,Leeds United,Ipswich Town,3-2,-
--,-,Millwall,Ipswich Town,1-0,-
--,-,Oldham Athletic,Ipswich Town,2-1,-
--,-,Plymouth Argyle,Ipswich Town,2-0,-
--,-,Portsmouth,Ipswich Town,1-1,-
--,-,Reading,Ipswich Town,1-4,-
--,-,Sheffield United,Ipswich Town,0-0,-
--,-,Shrewsbury Town,Ipswich Town,2-1,-
--,-,Stoke City,Ipswich Town,0-0,-
--,-,Sunderland,Ipswich Town,1-0,-
--,-,West Bromwich Albion,Ipswich Town,3-4,-
--,-,Barnsley,Leeds United,0-1,-
--,-,Birmingham City,Leeds United,2-1,-
--,-,Blackburn Rovers,Leeds United,2-1,-
--,-,Bradford City,Leeds United,2-0,-
--,-,Brighton & Hove Albion,Leeds United,0-1,-
--,-,Crystal Palace,Leeds United,1-0,-
--,-,Derby County,Leeds United,2-1,-
--,-,Grimsby Town,Leeds United,0-0,-
--,-,Huddersfield Town,Leeds United,1-1,-
--,-,Hull City,Leeds United,0-0,-
--,-,Ipswich Town,Leeds United,2-0,-
--,-,Millwall,Leeds United,1-0,-
--,-,Oldham Athletic,Leeds United,0-1,-
--,-,Plymouth Argyle,Leeds United,1-1,-
--,-,Portsmouth,Leeds United,1-1,-
--,-,Reading,Leeds United,2-1,-
--,-,Sheffield United,Leeds United,0-0,-
--,-,Shrewsbury Town,Leeds United,0-2,-
--,-,Stoke City,Leeds United,7-2,-
--,-,Sunderland,Leeds United,1-1,-
--,-,West Bromwich Albion,Leeds United,3-0,-
--,-,Barnsley,Millwall,1-0,-
--,-,Birmingham City,Millwall,1-1,-
--,-,Blackburn Rovers,Millwall,1-0,-
--,-,Bradford City,Millwall,4-0,-
--,-,Brighton & Hove Albion,Millwall,0-1,-
--,-,Crystal Palace,Millwall,2-1,-
--,-,Derby County,Millwall,1-1,-
--,-,Grimsby Town,Millwall,1-0,-
--,-,Huddersfield Town,Millwall,3-0,-
--,-,Hull City,Millwall,2-1,-
--,-,Ipswich Town,Millwall,0-0,-
--,-,Leeds United,Millwall,2-0,-
--,-,Oldham Athletic,Millwall,2-1,-
--,-,Plymouth Argyle,Millwall,1-0,-
--,-,Portsmouth,Millwall,2-0,-
--,-,Reading,Millwall,0-1,-
--,-,Sheffield United,Millwall,2-1,-
--,-,Shrewsbury Town,Millwall,1-2,-
--,-,Stoke City,Millwall,2-0,-
--,-,Sunderland,Millwall,1-1,-
--,-,West Bromwich Albion,Millwall,0-1,-
--,-,Barnsley,Oldham Athletic,1-1,-
--,-,Birmingham City,Oldham Athletic,1-3,-
--,-,Blackburn Rovers,Oldham Athletic,1-0,-
--,-,Bradford City,Oldham Athletic,0-3,-
--,-,Brighton & Hove Albion,Oldham Athletic,1-2,-
--,-,Crystal Palace,Oldham Athletic,2-1,-
--,-,Derby County,Oldham Athletic,0-1,-
--,-,Grimsby Town,Oldham Athletic,2-2,-
--,-,Huddersfield Town,Oldham Athletic,5-4,-
--,-,Hull City,Oldham Athletic,1-0,-
--,-,Ipswich Town,Oldham Athletic,0-1,-
--,-,Leeds United,Oldham Athletic,0-2,-
--,-,Millwall,Oldham Athletic,0-0,-
--,-,Plymouth Argyle,Oldham Athletic,3-2,-
--,-,Portsmouth,Oldham Athletic,3-0,-
--,-,Reading,Oldham Athletic,2-3,-
--,-,Sheffield United,Oldham Athletic,2-0,-
--,-,Shrewsbury Town,Oldham Athletic,2-0,-
--,-,Stoke City,Oldham Athletic,0-2,-
--,-,Sunderland,Oldham Athletic,0-2,-
--,-,West Bromwich Albion,Oldham Athletic,2-0,-
--,-,Barnsley,Plymouth Argyle,1-1,-
--,-,Birmingham City,Plymouth Argyle,3-2,-
--,-,Blackburn Rovers,Plymouth Argyle,1-2,-
--,-,Bradford City,Plymouth Argyle,2-2,-
--,-,Brighton & Hove Albion,Plymouth Argyle,1-1,-
--,-,Crystal Palace,Plymouth Argyle,0-0,-
--,-,Derby County,Plymouth Argyle,4-2,-
--,-,Grimsby Town,Plymouth Argyle,1-1,-
--,-,Huddersfield Town,Plymouth Argyle,1-2,-
--,-,Hull City,Plymouth Argyle,0-3,-
--,-,Ipswich Town,Plymouth Argyle,3-0,-
--,-,Leeds United,Plymouth Argyle,4-0,-
--,-,Millwall,Plymouth Argyle,3-1,-
--,-,Oldham Athletic,Plymouth Argyle,2-1,-
--,-,Portsmouth,Plymouth Argyle,0-1,-
--,-,Reading,Plymouth Argyle,2-0,-
--,-,Sheffield United,Plymouth Argyle,2-1,-
--,-,Shrewsbury Town,Plymouth Argyle,1-1,-
--,-,Stoke City,Plymouth Argyle,1-0,-
--,-,Sunderland,Plymouth Argyle,2-1,-
--,-,West Bromwich Albion,Plymouth Argyle,0-0,-
--,-,Barnsley,Portsmouth,0-2,-
--,-,Birmingham City,Portsmouth,0-1,-
--,-,Blackburn Rovers,Portsmouth,1-0,-
--,-,Bradford City,Portsmouth,1-0,-
--,-,Brighton & Hove Albion,Portsmouth,0-0,-
--,-,Crystal Palace,Portsmouth,1-0,-
--,-,Derby County,Portsmouth,0-0,-
--,-,Grimsby Town,Portsmouth,0-2,-
--,-,Huddersfield Town,Portsmouth,2-0,-
--,-,Hull City,Portsmouth,0-2,-
--,-,Ipswich Town,Portsmouth,0-1,-
--,-,Leeds United,Portsmouth,3-1,-
--,-,Millwall,Portsmouth,1-1,-
--,-,Oldham Athletic,Portsmouth,0-0,-
--,-,Plymouth Argyle,Portsmouth,2-3,-
--,-,Reading,Portsmouth,2-2,-
--,-,Sheffield United,Portsmouth,1-0,-
--,-,Shrewsbury Town,Portsmouth,1-0,-
--,-,Stoke City,Portsmouth,1-1,-
--,-,Sunderland,Portsmouth,0-0,-
--,-,West Bromwich Albion,Portsmouth,1-0,-
--,-,Barnsley,Reading,2-0,-
--,-,Birmingham City,Reading,1-1,-
--,-,Blackburn Rovers,Reading,0-0,-
--,-,Bradford City,Reading,3-0,-
--,-,Brighton & Hove Albion,Reading,1-1,-
--,-,Crystal Palace,Reading,1-3,-
--,-,Derby County,Reading,3-0,-
--,-,Grimsby Town,Reading,3-2,-
--,-,Huddersfield Town,Reading,2-0,-
--,-,Hull City,Reading,0-2,-
--,-,Ipswich Town,Reading,1-1,-
--,-,Leeds United,Reading,3-2,-
--,-,Millwall,Reading,2-1,-
--,-,Oldham Athletic,Reading,4-0,-
--,-,Plymouth Argyle,Reading,1-0,-
--,-,Portsmouth,Reading,1-0,-
--,-,Sheffield United,Reading,3-3,-
--,-,Shrewsbury Town,Reading,0-0,-
--,-,Stoke City,Reading,3-0,-
--,-,Sunderland,Reading,1-1,-
--,-,West Bromwich Albion,Reading,1-2,-
--,-,Barnsley,Sheffield United,2-2,-
--,-,Birmingham City,Sheffield United,2-1,-
--,-,Blackburn Rovers,Sheffield United,0-2,-
--,-,Bradford City,Sheffield United,1-1,-
--,-,Brighton & Hove Albion,Sheffield United,2-0,-
--,-,Crystal Palace,Sheffield United,1-2,-
--,-,Derby County,Sheffield United,2-0,-
--,-,Grimsby Town,Sheffield United,1-0,-
--,-,Huddersfield Town,Sheffield United,1-1,-
--,-,Hull City,Sheffield United,0-0,-
--,-,Ipswich Town,Sheffield United,2-2,-
--,-,Leeds United,Sheffield United,0-1,-
--,-,Millwall,Sheffield United,1-0,-
--,-,Oldham Athletic,Sheffield United,3-1,-
--,-,Plymouth Argyle,Sheffield United,1-0,-
--,-,Portsmouth,Sheffield United,1-2,-
--,-,Reading,Sheffield United,2-0,-
--,-,Shrewsbury Town,Sheffield United,1-0,-
--,-,Stoke City,Sheffield United,5-2,-
--,-,Sunderland,Sheffield United,1-2,-
--,-,West Bromwich Albion,Sheffield United,1-0,-
--,-,Barnsley,Shrewsbury Town,2-1,-
--,-,Birmingham City,Shrewsbury Town,0-2,-
--,-,Blackburn Rovers,Shrewsbury Town,2-1,-
--,-,Bradford City,Shrewsbury Town,0-0,-
--,-,Brighton & Hove Albion,Shrewsbury Town,3-0,-
--,-,Crystal Palace,Shrewsbury Town,2-3,-
--,-,Derby County,Shrewsbury Town,3-1,-
--,-,Grimsby Town,Shrewsbury Town,0-1,-
--,-,Huddersfield Town,Shrewsbury Town,2-1,-
--,-,Hull City,Shrewsbury Town,3-0,-
--,-,Ipswich Town,Shrewsbury Town,1-0,-
--,-,Leeds United,Shrewsbury Town,1-0,-
--,-,Millwall,Shrewsbury Town,4-0,-
--,-,Oldham Athletic,Shrewsbury Town,3-0,-
--,-,Plymouth Argyle,Shrewsbury Town,3-2,-
--,-,Portsmouth,Shrewsbury Town,3-0,-
--,-,Reading,Shrewsbury Town,3-1,-
--,-,Sheffield United,Shrewsbury Town,1-1,-
--,-,Stoke City,Shrewsbury Town,1-0,-
--,-,Sunderland,Shrewsbury Town,1-1,-
--,-,West Bromwich Albion,Shrewsbury Town,1-2,-
--,-,Barnsley,Stoke City,0-2,-
--,-,Birmingham City,Stoke City,0-0,-
--,-,Blackburn Rovers,Stoke City,2-1,-
--,-,Bradford City,Stoke City,1-4,-
--,-,Brighton & Hove Albion,Stoke City,1-0,-
--,-,Crystal Palace,Stoke City,1-0,-
--,-,Derby County,Stoke City,0-0,-
--,-,Grimsby Town,Stoke City,1-1,-
--,-,Huddersfield Town,Stoke City,2-2,-
--,-,Hull City,Stoke City,0-4,-
--,-,Ipswich Town,Stoke City,2-0,-
--,-,Leeds United,Stoke City,2-1,-
--,-,Millwall,Stoke City,1-1,-
--,-,Oldham Athletic,Stoke City,2-0,-
--,-,Plymouth Argyle,Stoke City,1-3,-
--,-,Portsmouth,Stoke City,3-0,-
--,-,Reading,Stoke City,0-1,-
--,-,Sheffield United,Stoke City,3-1,-
--,-,Shrewsbury Town,Stoke City,4-1,-
--,-,Sunderland,Stoke City,2-0,-
--,-,West Bromwich Albion,Stoke City,4-1,-
--,-,Barnsley,Sunderland,1-0,-
--,-,Birmingham City,Sunderland,2-0,-
--,-,Blackburn Rovers,Sunderland,6-1,-
--,-,Bradford City,Sunderland,3-2,-
--,-,Brighton & Hove Albion,Sunderland,0-3,-
--,-,Crystal Palace,Sunderland,2-0,-
--,-,Derby County,Sunderland,3-2,-
--,-,Grimsby Town,Sunderland,1-1,-
--,-,Huddersfield Town,Sunderland,0-2,-
--,-,Hull City,Sunderland,1-0,-
--,-,Ipswich Town,Sunderland,1-1,-
--,-,Leeds United,Sunderland,1-1,-
--,-,Millwall,Sunderland,1-1,-
--,-,Oldham Athletic,Sunderland,1-1,-
--,-,Plymouth Argyle,Sunderland,2-4,-
--,-,Portsmouth,Sunderland,3-1,-
--,-,Reading,Sunderland,1-0,-
--,-,Sheffield United,Sunderland,2-1,-
--,-,Shrewsbury Town,Sunderland,0-1,-
--,-,Stoke City,Sunderland,3-0,-
--,-,West Bromwich Albion,Sunderland,2-2,-
--,-,Barnsley,West Bromwich Albion,2-2,-
--,-,Birmingham City,West Bromwich Albion,0-1,-
--,-,Blackburn Rovers,West Bromwich Albion,0-1,-
--,-,Bradford City,West Bromwich Albion,1-3,-
--,-,Brighton & Hove Albion,West Bromwich Albion,2-0,-
--,-,Crystal Palace,West Bromwich Albion,1-1,-
--,-,Derby County,West Bromwich Albion,1-1,-
--,-,Grimsby Town,West Bromwich Albion,3-1,-
--,-,Huddersfield Town,West Bromwich Albion,2-1,-
--,-,Hull City,West Bromwich Albion,2-0,-
--,-,Ipswich Town,West Bromwich Albion,1-0,-
--,-,Leeds United,West Bromwich Albion,3-2,-
--,-,Millwall,West Bromwich Albion,0-1,-
--,-,Oldham Athletic,West Bromwich Albion,2-1,-
--,-,Plymouth Argyle,West Bromwich Albion,1-0,-
--,-,Portsmouth,West Bromwich Albion,2-1,-
--,-,Reading,West Bromwich Albion,1-1,-
--,-,Sheffield United,West Bromwich Albion,1-1,-
--,-,Shrewsbury Town,West Bromwich Albion,1-0,-
--,-,Stoke City,West Bromwich Albion,1-1,-
--,-,Sunderland,West Bromwich Albion,0-3,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 28 Mar 1987 (12),Barnsley FC (1),2-2,?,Birmingham City (1)
+?,(Sat) 1 Nov 1986 (43),Barnsley FC (2),1-1,?,Blackburn Rovers (1)
+?,(Sat) 11 Oct 1986 (40),Barnsley FC (3),2-0,?,Bradford City (1)
+?,(Sat) 14 Mar 1987 (10),Barnsley FC (4),3-1,?,Brighton & Hove Albion (1)
+?,(Sat) 23 Aug 1986 (33),Barnsley FC (5),2-3,?,Crystal Palace FC (1)
+?,(Sat) 15 Nov 1986 (45),Barnsley FC (6),0-1,?,Derby County (1)
+?,(Tue) 24 Feb 1987 (8),Barnsley FC (7),1-0,?,Grimsby Town (1)
+?,(Mon) 4 May 1987 (18),Barnsley FC (8),0-1,?,Huddersfield Town (1)
+?,(Sat) 18 Apr 1987 (15),Barnsley FC (9),1-1,?,Hull City (1)
+?,(Sat) 25 Apr 1987 (16),Barnsley FC (10),2-1,?,Ipswich Town (1)
+?,(Tue) 2 Sep 1986 (35),Barnsley FC (11),0-1,?,Leeds United (1)
+?,(Sat) 7 Feb 1987 (5),Barnsley FC (12),1-0,?,Millwall FC (1)
+?,(Sat) 3 Jan 1987 (0),Barnsley FC (13),1-1,?,Oldham Athletic (1)
+?,(Sat) 20 Sep 1986 (37),Barnsley FC (14),1-1,?,Plymouth Argyle (1)
+?,(Sat) 6 Sep 1986 (35),Barnsley FC (15),0-2,?,Portsmouth FC (1)
+?,(Sat) 4 Apr 1987 (13),Barnsley FC (16),2-0,?,Reading FC (1)
+?,(Sat) 25 Oct 1986 (42),Barnsley FC (17),2-2,?,Sheffield United FC (1)
+?,(Tue) 3 Mar 1987 (9),Barnsley FC (18),2-1,?,Shrewsbury Town (1)
+?,(Fri) 26 Dec 1986 (51),Barnsley FC (19),0-2,?,Stoke City (1)
+?,(Sat) 13 Dec 1986 (49),Barnsley FC (20),1-0,?,Sunderland AFC (1)
+?,(Sat) 29 Nov 1986 (47),Barnsley FC (21),2-2,?,West Bromwich Albion (1)
+?,(Sat) 4 Oct 1986 (39),Birmingham City (2),1-1,?,Barnsley FC (22)
+?,(Sat) 6 Dec 1986 (48),Birmingham City (3),1-1,?,Blackburn Rovers (2)
+?,(Mon) 25 Aug 1986 (34),Birmingham City (4),2-1,?,Bradford City (2)
+?,(Sat) 14 Feb 1987 (6),Birmingham City (5),2-0,?,Brighton & Hove Albion (2)
+?,(Sat) 18 Oct 1986 (41),Birmingham City (6),4-1,?,Crystal Palace FC (2)
+?,(Sat) 30 Aug 1986 (34),Birmingham City (7),1-1,?,Derby County (2)
+?,(Sat) 2 May 1987 (17),Birmingham City (8),1-0,?,Grimsby Town (2)
+?,(Sat) 13 Sep 1986 (36),Birmingham City (9),1-1,?,Huddersfield Town (2)
+?,(Sat) 28 Feb 1987 (8),Birmingham City (10),0-0,?,Hull City (2)
+?,(Sat) 27 Sep 1986 (38),Birmingham City (11),2-2,?,Ipswich Town (2)
+?,(Fri) 21 Nov 1986 (46),Birmingham City (12),2-1,?,Leeds United (2)
+?,(Mon) 29 Dec 1986 (52),Birmingham City (13),1-1,?,Millwall FC (2)
+?,(Sat) 8 Nov 1986 (44),Birmingham City (14),1-3,?,Oldham Athletic (2)
+?,(Thu) 1 Jan 1987 (0),Birmingham City (15),3-2,?,Plymouth Argyle (2)
+?,(Sat) 21 Mar 1987 (11),Birmingham City (16),0-1,?,Portsmouth FC (2)
+?,(Mon) 20 Apr 1987 (16),Birmingham City (17),1-1,?,Reading FC (2)
+?,(Fri) 19 Dec 1986 (50),Birmingham City (18),2-1,?,Sheffield United FC (2)
+?,(Sat) 9 May 1987 (18),Birmingham City (19),0-2,?,Shrewsbury Town (2)
+?,(Sat) 24 Jan 1987 (3),Birmingham City (20),0-0,?,Stoke City (2)
+?,(Tue) 31 Mar 1987 (13),Birmingham City (21),2-0,?,Sunderland AFC (2)
+?,(Sun) 12 Apr 1987 (14),Birmingham City (22),0-1,?,West Bromwich Albion (2)
+?,(Sat) 11 Apr 1987 (14),Blackburn Rovers (3),4-2,?,Barnsley FC (23)
+?,(Tue) 5 May 1987 (18),Blackburn Rovers (4),1-0,?,Birmingham City (23)
+?,(Tue) 24 Mar 1987 (12),Blackburn Rovers (5),2-1,?,Bradford City (3)
+?,(Sat) 25 Apr 1987 (16),Blackburn Rovers (6),1-1,?,Brighton & Hove Albion (3)
+?,(Sat) 20 Sep 1986 (37),Blackburn Rovers (7),0-2,?,Crystal Palace FC (3)
+?,(Fri) 17 Apr 1987 (15),Blackburn Rovers (8),3-1,?,Derby County (3)
+?,(Sat) 17 Jan 1987 (2),Blackburn Rovers (9),2-2,?,Grimsby Town (3)
+?,(Fri) 26 Dec 1986 (51),Blackburn Rovers (10),1-2,?,Huddersfield Town (3)
+?,(Sat) 15 Nov 1986 (45),Blackburn Rovers (11),0-2,?,Hull City (3)
+?,(Sat) 29 Nov 1986 (47),Blackburn Rovers (12),0-0,?,Ipswich Town (3)
+?,(Sat) 23 Aug 1986 (33),Blackburn Rovers (13),2-1,?,Leeds United (3)
+?,(Sat) 21 Feb 1987 (7),Blackburn Rovers (14),1-0,?,Millwall FC (3)
+?,(Sat) 31 Jan 1987 (4),Blackburn Rovers (15),1-0,?,Oldham Athletic (3)
+?,(Tue) 30 Sep 1986 (39),Blackburn Rovers (16),1-2,?,Plymouth Argyle (3)
+?,(Sat) 3 Jan 1987 (0),Blackburn Rovers (17),1-0,?,Portsmouth FC (3)
+?,(Tue) 14 Apr 1987 (15),Blackburn Rovers (18),0-0,?,Reading FC (3)
+?,(Sat) 8 Nov 1986 (44),Blackburn Rovers (19),0-2,?,Sheffield United FC (3)
+?,(Sat) 7 Feb 1987 (5),Blackburn Rovers (20),2-1,?,Shrewsbury Town (3)
+?,(Sat) 14 Mar 1987 (10),Blackburn Rovers (21),2-1,?,Stoke City (3)
+?,(Sat) 6 Sep 1986 (35),Blackburn Rovers (22),6-1,?,Sunderland AFC (3)
+?,(Sat) 11 Oct 1986 (40),Blackburn Rovers (23),0-1,?,West Bromwich Albion (3)
+?,(Sat) 21 Mar 1987 (11),Bradford City (4),0-0,?,Barnsley FC (24)
+?,(Sat) 3 Jan 1987 (0),Bradford City (5),0-0,?,Birmingham City (24)
+?,(Sat) 7 Mar 1987 (9),Bradford City (6),2-0,?,Blackburn Rovers (24)
+?,(Mon) 4 May 1987 (18),Bradford City (7),2-0,?,Brighton & Hove Albion (4)
+?,(Wed) 3 Sep 1986 (35),Bradford City (8),1-2,?,Crystal Palace FC (4)
+?,(Fri) 26 Dec 1986 (51),Bradford City (9),0-1,?,Derby County (4)
+?,(Sat) 7 Feb 1987 (5),Bradford City (10),4-2,?,Grimsby Town (4)
+?,(Sat) 15 Nov 1986 (45),Bradford City (11),4-3,?,Huddersfield Town (4)
+?,(Sat) 25 Apr 1987 (16),Bradford City (12),2-0,?,Hull City (4)
+?,(Sat) 18 Oct 1986 (41),Bradford City (13),3-4,?,Ipswich Town (4)
+?,(Sat) 20 Sep 1986 (37),Bradford City (14),2-0,?,Leeds United (4)
+?,(Sat) 17 Jan 1987 (2),Bradford City (15),4-0,?,Millwall FC (4)
+?,(Sat) 6 Sep 1986 (35),Bradford City (16),0-3,?,Oldham Athletic (4)
+?,(Sat) 23 Aug 1986 (33),Bradford City (17),2-2,?,Plymouth Argyle (4)
+?,(Sat) 4 Apr 1987 (13),Bradford City (18),1-0,?,Portsmouth FC (4)
+?,(Sat) 1 Nov 1986 (43),Bradford City (19),3-0,?,Reading FC (4)
+?,(Sat) 4 Oct 1986 (39),Bradford City (20),1-1,?,Sheffield United FC (4)
+?,(Sat) 21 Feb 1987 (7),Bradford City (21),0-0,?,Shrewsbury Town (4)
+?,(Sat) 29 Nov 1986 (47),Bradford City (22),1-4,?,Stoke City (4)
+?,(Sat) 18 Apr 1987 (15),Bradford City (23),3-2,?,Sunderland AFC (4)
+?,(Fri) 12 Dec 1986 (49),Bradford City (24),1-3,?,West Bromwich Albion (4)
+?,(Sat) 18 Oct 1986 (41),Brighton & Hove Albion (5),1-1,?,Barnsley FC (25)
+?,(Wed) 3 Sep 1986 (35),Brighton & Hove Albion (6),2-0,?,Birmingham City (25)
+?,(Sat) 22 Nov 1986 (46),Brighton & Hove Albion (7),0-2,?,Blackburn Rovers (25)
+?,(Sat) 6 Dec 1986 (48),Brighton & Hove Albion (8),2-2,?,Bradford City (25)
+?,(Mon) 20 Apr 1987 (16),Brighton & Hove Albion (9),2-0,?,Crystal Palace FC (5)
+?,(Sat) 7 Mar 1987 (9),Brighton & Hove Albion (10),0-1,?,Derby County (5)
+?,(Sat) 6 Sep 1986 (35),Brighton & Hove Albion (11),0-1,?,Grimsby Town (5)
+?,(Fri) 3 Apr 1987 (13),Brighton & Hove Albion (12),1-1,?,Huddersfield Town (5)
+?,(Sat) 1 Nov 1986 (43),Brighton & Hove Albion (13),2-1,?,Hull City (5)
+?,(Sat) 21 Mar 1987 (11),Brighton & Hove Albion (14),1-2,?,Ipswich Town (5)
+?,(Sat) 9 May 1987 (18),Brighton & Hove Albion (15),0-1,?,Leeds United (5)
+?,(Thu) 1 Jan 1987 (0),Brighton & Hove Albion (16),0-1,?,Millwall FC (5)
+?,(Sat) 21 Feb 1987 (7),Brighton & Hove Albion (17),1-2,?,Oldham Athletic (5)
+?,(Tue) 7 Apr 1987 (14),Brighton & Hove Albion (18),1-1,?,Plymouth Argyle (5)
+?,(Sat) 23 Aug 1986 (33),Brighton & Hove Albion (19),0-0,?,Portsmouth FC (5)
+?,(Sat) 27 Dec 1986 (51),Brighton & Hove Albion (20),1-1,?,Reading FC (5)
+?,(Sat) 2 May 1987 (17),Brighton & Hove Albion (21),2-0,?,Sheffield United FC (5)
+?,(Sun) 21 Dec 1986 (50),Brighton & Hove Albion (22),3-0,?,Shrewsbury Town (5)
+?,(Sat) 4 Oct 1986 (39),Brighton & Hove Albion (23),1-0,?,Stoke City (5)
+?,(Sat) 7 Feb 1987 (5),Brighton & Hove Albion (24),0-3,?,Sunderland AFC (5)
+?,(Sat) 20 Sep 1986 (37),Brighton & Hove Albion (25),2-0,?,West Bromwich Albion (5)
+?,(Sat) 24 Jan 1987 (3),Crystal Palace FC (6),0-1,?,Barnsley FC (26)
+?,(Sat) 14 Mar 1987 (10),Crystal Palace FC (7),6-0,?,Birmingham City (26)
+?,(Sat) 28 Feb 1987 (8),Crystal Palace FC (8),2-0,?,Blackburn Rovers (26)
+?,(Sat) 14 Feb 1987 (6),Crystal Palace FC (9),1-1,?,Bradford City (26)
+?,(Fri) 26 Dec 1986 (51),Crystal Palace FC (10),2-0,?,Brighton & Hove Albion (26)
+?,(Sat) 3 Jan 1987 (0),Crystal Palace FC (11),1-0,?,Derby County (6)
+?,(Sat) 8 Nov 1986 (44),Crystal Palace FC (12),0-3,?,Grimsby Town (6)
+?,(Tue) 9 Sep 1986 (36),Crystal Palace FC (13),1-0,?,Huddersfield Town (6)
+?,(Sat) 13 Dec 1986 (49),Crystal Palace FC (14),5-1,?,Hull City (6)
+?,(Sat) 15 Nov 1986 (45),Crystal Palace FC (15),3-3,?,Ipswich Town (6)
+?,(Sat) 21 Mar 1987 (11),Crystal Palace FC (16),1-0,?,Leeds United (6)
+?,(Sat) 4 Oct 1986 (39),Crystal Palace FC (17),2-1,?,Millwall FC (6)
+?,(Sat) 25 Apr 1987 (16),Crystal Palace FC (18),2-1,?,Oldham Athletic (6)
+?,(Sat) 11 Apr 1987 (14),Crystal Palace FC (19),0-0,?,Plymouth Argyle (6)
+?,(Mon) 4 May 1987 (18),Crystal Palace FC (20),1-0,?,Portsmouth FC (6)
+?,(Sat) 27 Sep 1986 (38),Crystal Palace FC (21),1-3,?,Reading FC (6)
+?,(Sat) 13 Sep 1986 (36),Crystal Palace FC (22),1-2,?,Sheffield United FC (6)
+?,(Sat) 25 Oct 1986 (42),Crystal Palace FC (23),2-3,?,Shrewsbury Town (6)
+?,(Sat) 30 Aug 1986 (34),Crystal Palace FC (24),1-0,?,Stoke City (6)
+?,(Sat) 29 Nov 1986 (47),Crystal Palace FC (25),2-0,?,Sunderland AFC (6)
+?,(Sat) 18 Apr 1987 (15),Crystal Palace FC (26),1-1,?,West Bromwich Albion (6)
+?,(Sat) 27 Dec 1986 (51),Derby County (7),3-2,?,Barnsley FC (27)
+?,(Sat) 7 Feb 1987 (5),Derby County (8),2-2,?,Birmingham City (27)
+?,(Wed) 18 Mar 1987 (11),Derby County (9),3-2,?,Blackburn Rovers (27)
+?,(Mon) 20 Apr 1987 (16),Derby County (10),1-0,?,Bradford City (27)
+?,(Sat) 25 Oct 1986 (42),Derby County (11),4-1,?,Brighton & Hove Albion (27)
+?,(Sat) 6 Sep 1986 (35),Derby County (12),1-0,?,Crystal Palace FC (27)
+?,(Sun) 21 Dec 1986 (50),Derby County (13),4-0,?,Grimsby Town (7)
+?,(Wed) 8 Apr 1987 (14),Derby County (14),2-0,?,Huddersfield Town (7)
+?,(Sat) 11 Oct 1986 (40),Derby County (15),1-1,?,Hull City (7)
+?,(Sat) 8 Nov 1986 (44),Derby County (16),2-1,?,Ipswich Town (7)
+?,(Sat) 2 May 1987 (17),Derby County (17),2-1,?,Leeds United (7)
+?,(Sat) 20 Sep 1986 (37),Derby County (18),1-1,?,Millwall FC (7)
+?,(Sat) 23 Aug 1986 (33),Derby County (19),0-1,?,Oldham Athletic (7)
+?,(Sat) 9 May 1987 (18),Derby County (20),4-2,?,Plymouth Argyle (7)
+?,(Wed) 4 Mar 1987 (9),Derby County (21),0-0,?,Portsmouth FC (7)
+?,(Sat) 6 Dec 1986 (48),Derby County (22),3-0,?,Reading FC (7)
+?,(Sat) 22 Nov 1986 (46),Derby County (23),2-0,?,Sheffield United FC (7)
+?,(Sat) 14 Mar 1987 (10),Derby County (24),3-1,?,Shrewsbury Town (7)
+?,(Sat) 11 Apr 1987 (14),Derby County (25),0-0,?,Stoke City (7)
+?,(Wed) 1 Oct 1986 (39),Derby County (26),3-2,?,Sunderland AFC (7)
+?,(Sat) 21 Feb 1987 (7),Derby County (27),1-1,?,West Bromwich Albion (7)
+?,(Sat) 27 Sep 1986 (38),Grimsby Town (8),0-1,?,Barnsley FC (28)
+?,(Sat) 29 Nov 1986 (47),Grimsby Town (9),0-1,?,Birmingham City (28)
+?,(Tue) 2 Dec 1986 (48),Grimsby Town (10),1-0,?,Blackburn Rovers (28)
+?,(Sat) 30 Aug 1986 (34),Grimsby Town (11),0-0,?,Bradford City (28)
+?,(Sat) 3 Jan 1987 (0),Grimsby Town (12),1-2,?,Brighton & Hove Albion (28)
+?,(Sat) 4 Apr 1987 (13),Grimsby Town (13),0-1,?,Crystal Palace FC (28)
+?,(Sat) 13 Sep 1986 (36),Grimsby Town (14),0-1,?,Derby County (28)
+?,(Sat) 18 Apr 1987 (15),Grimsby Town (15),0-1,?,Huddersfield Town (8)
+?,(Tue) 5 May 1987 (18),Grimsby Town (16),2-2,?,Hull City (8)
+?,(Sat) 24 Jan 1987 (3),Grimsby Town (17),1-1,?,Ipswich Town (8)
+?,(Sat) 25 Oct 1986 (42),Grimsby Town (18),0-0,?,Leeds United (8)
+?,(Sat) 1 Nov 1986 (43),Grimsby Town (19),1-0,?,Millwall FC (8)
+?,(Fri) 26 Dec 1986 (51),Grimsby Town (20),2-2,?,Oldham Athletic (8)
+?,(Sat) 11 Oct 1986 (40),Grimsby Town (21),1-1,?,Plymouth Argyle (8)
+?,(Sat) 25 Apr 1987 (16),Grimsby Town (22),0-2,?,Portsmouth FC (8)
+?,(Sat) 14 Feb 1987 (6),Grimsby Town (23),3-2,?,Reading FC (8)
+?,(Sat) 28 Feb 1987 (8),Grimsby Town (24),1-0,?,Sheffield United FC (8)
+?,(Sat) 28 Mar 1987 (12),Grimsby Town (25),0-1,?,Shrewsbury Town (8)
+?,(Sat) 13 Dec 1986 (49),Grimsby Town (26),1-1,?,Stoke City (8)
+?,(Sat) 15 Nov 1986 (45),Grimsby Town (27),1-1,?,Sunderland AFC (8)
+?,(Sat) 14 Mar 1987 (10),Grimsby Town (28),3-1,?,West Bromwich Albion (8)
+?,(Tue) 31 Mar 1987 (13),Huddersfield Town (9),2-2,?,Barnsley FC (29)
+?,(Tue) 3 Mar 1987 (9),Huddersfield Town (10),2-2,?,Birmingham City (29)
+?,(Mon) 20 Apr 1987 (16),Huddersfield Town (11),1-2,?,Blackburn Rovers (29)
+?,(Sat) 27 Dec 1986 (51),Huddersfield Town (12),5-2,?,Bradford City (29)
+?,(Sat) 8 Nov 1986 (44),Huddersfield Town (13),2-1,?,Brighton & Hove Albion (29)
+?,(Sat) 20 Dec 1986 (50),Huddersfield Town (14),1-2,?,Crystal Palace FC (29)
+?,(Sat) 4 Oct 1986 (39),Huddersfield Town (15),2-0,?,Derby County (29)
+?,(Thu) 1 Jan 1987 (0),Huddersfield Town (16),0-0,?,Grimsby Town (29)
+?,(Sat) 25 Oct 1986 (42),Huddersfield Town (17),1-3,?,Hull City (9)
+?,(Sat) 11 Apr 1987 (14),Huddersfield Town (18),1-2,?,Ipswich Town (9)
+?,(Sat) 6 Sep 1986 (35),Huddersfield Town (19),1-1,?,Leeds United (9)
+?,(Sat) 9 May 1987 (18),Huddersfield Town (20),3-0,?,Millwall FC (9)
+?,(Sat) 20 Sep 1986 (37),Huddersfield Town (21),5-4,?,Oldham Athletic (9)
+?,(Sat) 22 Nov 1986 (46),Huddersfield Town (22),1-2,?,Plymouth Argyle (9)
+?,(Sat) 21 Feb 1987 (7),Huddersfield Town (23),2-0,?,Portsmouth FC (9)
+?,(Sat) 2 May 1987 (17),Huddersfield Town (24),2-0,?,Reading FC (9)
+?,(Sat) 14 Mar 1987 (10),Huddersfield Town (25),1-1,?,Sheffield United FC (9)
+?,(Tue) 21 Oct 1986 (42),Huddersfield Town (26),2-1,?,Shrewsbury Town (9)
+?,(Sat) 21 Mar 1987 (11),Huddersfield Town (27),2-2,?,Stoke City (9)
+?,(Sat) 23 Aug 1986 (33),Huddersfield Town (28),0-2,?,Sunderland AFC (9)
+?,(Sat) 7 Feb 1987 (5),Huddersfield Town (29),2-1,?,West Bromwich Albion (9)
+?,(Thu) 1 Jan 1987 (0),Hull City (10),3-4,?,Barnsley FC (30)
+?,(Sat) 20 Sep 1986 (37),Hull City (11),3-2,?,Birmingham City (30)
+?,(Sat) 27 Dec 1986 (51),Hull City (12),0-0,?,Blackburn Rovers (30)
+?,(Sat) 22 Nov 1986 (46),Hull City (13),2-1,?,Bradford City (30)
+?,(Tue) 28 Apr 1987 (17),Hull City (14),1-0,?,Brighton & Hove Albion (30)
+?,(Sat) 9 May 1987 (18),Hull City (15),3-0,?,Crystal Palace FC (30)
+?,(Sat) 21 Mar 1987 (11),Hull City (16),1-1,?,Derby County (30)
+?,(Sat) 6 Dec 1986 (48),Hull City (17),1-1,?,Grimsby Town (30)
+?,(Sat) 7 Mar 1987 (9),Hull City (18),0-0,?,Huddersfield Town (30)
+?,(Sat) 4 Oct 1986 (39),Hull City (19),2-1,?,Ipswich Town (10)
+?,(Wed) 8 Apr 1987 (14),Hull City (20),0-0,?,Leeds United (10)
+?,(Tue) 14 Apr 1987 (15),Hull City (21),2-1,?,Millwall FC (10)
+?,(Sat) 7 Feb 1987 (5),Hull City (22),1-0,?,Oldham Athletic (10)
+?,(Sat) 6 Sep 1986 (35),Hull City (23),0-3,?,Plymouth Argyle (10)
+?,(Tue) 2 Sep 1986 (35),Hull City (24),0-2,?,Portsmouth FC (10)
+?,(Sat) 18 Oct 1986 (41),Hull City (25),0-2,?,Reading FC (10)
+?,(Mon) 20 Apr 1987 (16),Hull City (26),0-0,?,Sheffield United FC (10)
+?,(Sat) 2 May 1987 (17),Hull City (27),3-0,?,Shrewsbury Town (10)
+?,(Sat) 8 Nov 1986 (44),Hull City (28),0-4,?,Stoke City (10)
+?,(Tue) 3 Mar 1987 (9),Hull City (29),1-0,?,Sunderland AFC (10)
+?,(Sat) 23 Aug 1986 (33),Hull City (30),2-0,?,West Bromwich Albion (10)
+?,(Sat) 22 Nov 1986 (46),Ipswich Town (11),1-0,?,Barnsley FC (31)
+?,(Sat) 21 Feb 1987 (7),Ipswich Town (12),3-0,?,Birmingham City (31)
+?,(Sat) 2 May 1987 (17),Ipswich Town (13),3-1,?,Blackburn Rovers (31)
+?,(Sat) 14 Mar 1987 (10),Ipswich Town (14),1-0,?,Bradford City (31)
+?,(Sat) 11 Oct 1986 (40),Ipswich Town (15),1-0,?,Brighton & Hove Albion (31)
+?,(Sat) 27 Dec 1986 (51),Ipswich Town (16),3-0,?,Crystal Palace FC (31)
+?,(Sat) 4 Apr 1987 (13),Ipswich Town (17),0-2,?,Derby County (31)
+?,(Sat) 23 Aug 1986 (33),Ipswich Town (18),1-1,?,Grimsby Town (31)
+?,(Sat) 1 Nov 1986 (43),Ipswich Town (19),3-0,?,Huddersfield Town (31)
+?,(Sat) 28 Mar 1987 (12),Ipswich Town (20),0-0,?,Hull City (31)
+?,(Thu) 1 Jan 1987 (0),Ipswich Town (21),2-0,?,Leeds United (11)
+?,(Tue) 21 Apr 1987 (16),Ipswich Town (22),0-0,?,Millwall FC (11)
+?,(Tue) 2 Sep 1986 (35),Ipswich Town (23),0-1,?,Oldham Athletic (11)
+?,(Fri) 19 Dec 1986 (50),Ipswich Town (24),3-0,?,Plymouth Argyle (11)
+?,(Sat) 7 Feb 1987 (5),Ipswich Town (25),0-1,?,Portsmouth FC (11)
+?,(Sat) 9 May 1987 (18),Ipswich Town (26),1-1,?,Reading FC (11)
+?,(Sat) 6 Dec 1986 (48),Ipswich Town (27),2-2,?,Sheffield United FC (11)
+?,(Sat) 6 Sep 1986 (35),Ipswich Town (28),1-0,?,Shrewsbury Town (11)
+?,(Sat) 25 Oct 1986 (42),Ipswich Town (29),2-0,?,Stoke City (11)
+?,(Sat) 20 Sep 1986 (37),Ipswich Town (30),1-1,?,Sunderland AFC (11)
+?,(Tue) 3 Mar 1987 (9),Ipswich Town (31),1-0,?,West Bromwich Albion (11)
+?,(Sat) 14 Feb 1987 (6),Leeds United (12),2-2,?,Barnsley FC (32)
+?,(Sat) 25 Apr 1987 (16),Leeds United (13),4-0,?,Birmingham City (32)
+?,(Sat) 24 Jan 1987 (3),Leeds United (14),0-0,?,Blackburn Rovers (32)
+?,(Sat) 28 Feb 1987 (8),Leeds United (15),1-0,?,Bradford City (32)
+?,(Sat) 13 Dec 1986 (49),Leeds United (16),3-1,?,Brighton & Hove Albion (32)
+?,(Sat) 11 Oct 1986 (40),Leeds United (17),3-0,?,Crystal Palace FC (32)
+?,(Sat) 29 Nov 1986 (47),Leeds United (18),2-0,?,Derby County (32)
+?,(Sat) 7 Mar 1987 (9),Leeds United (19),2-0,?,Grimsby Town (32)
+?,(Sat) 3 Jan 1987 (0),Leeds United (20),1-1,?,Huddersfield Town (32)
+?,(Sat) 27 Sep 1986 (38),Leeds United (21),3-0,?,Hull City (32)
+?,(Sat) 18 Apr 1987 (15),Leeds United (22),3-2,?,Ipswich Town (32)
+?,(Sat) 4 Apr 1987 (13),Leeds United (23),2-0,?,Millwall FC (12)
+?,(Sat) 15 Nov 1986 (45),Leeds United (24),0-2,?,Oldham Athletic (12)
+?,(Sat) 28 Mar 1987 (12),Leeds United (25),4-0,?,Plymouth Argyle (12)
+?,(Sat) 18 Oct 1986 (41),Leeds United (26),3-1,?,Portsmouth FC (12)
+?,(Sat) 13 Sep 1986 (36),Leeds United (27),3-2,?,Reading FC (12)
+?,(Sat) 30 Aug 1986 (34),Leeds United (28),0-1,?,Sheffield United FC (12)
+?,(Sat) 1 Nov 1986 (43),Leeds United (29),1-0,?,Shrewsbury Town (12)
+?,(Mon) 25 Aug 1986 (34),Leeds United (30),2-1,?,Stoke City (12)
+?,(Fri) 26 Dec 1986 (51),Leeds United (31),1-1,?,Sunderland AFC (12)
+?,(Mon) 4 May 1987 (18),Leeds United (32),3-2,?,West Bromwich Albion (12)
+?,(Sat) 30 Aug 1986 (34),Millwall FC (13),1-0,?,Barnsley FC (33)
+?,(Sat) 15 Nov 1986 (45),Millwall FC (14),0-2,?,Birmingham City (33)
+?,(Sat) 27 Sep 1986 (38),Millwall FC (15),2-2,?,Blackburn Rovers (33)
+?,(Sat) 13 Sep 1986 (36),Millwall FC (16),1-2,?,Bradford City (33)
+?,(Sat) 18 Apr 1987 (15),Millwall FC (17),3-1,?,Brighton & Hove Albion (33)
+?,(Sat) 28 Mar 1987 (12),Millwall FC (18),0-1,?,Crystal Palace FC (33)
+?,(Sat) 28 Feb 1987 (8),Millwall FC (19),0-1,?,Derby County (33)
+?,(Sat) 11 Apr 1987 (14),Millwall FC (20),1-0,?,Grimsby Town (33)
+?,(Sat) 13 Dec 1986 (49),Millwall FC (21),4-0,?,Huddersfield Town (33)
+?,(Tue) 26 Aug 1986 (34),Millwall FC (22),0-1,?,Hull City (33)
+?,(Fri) 26 Dec 1986 (51),Millwall FC (23),1-0,?,Ipswich Town (33)
+?,(Sat) 8 Nov 1986 (44),Millwall FC (24),1-0,?,Leeds United (33)
+?,(Sat) 14 Mar 1987 (10),Millwall FC (25),0-0,?,Oldham Athletic (13)
+?,(Sat) 25 Oct 1986 (42),Millwall FC (26),3-1,?,Plymouth Argyle (13)
+?,(Sat) 29 Nov 1986 (47),Millwall FC (27),1-1,?,Portsmouth FC (13)
+?,(Sat) 24 Jan 1987 (3),Millwall FC (28),2-1,?,Reading FC (13)
+?,(Sat) 14 Feb 1987 (6),Millwall FC (29),1-0,?,Sheffield United FC (13)
+?,(Sat) 11 Oct 1986 (40),Millwall FC (30),4-0,?,Shrewsbury Town (13)
+?,(Sat) 3 Jan 1987 (0),Millwall FC (31),1-1,?,Stoke City (13)
+?,(Tue) 5 May 1987 (18),Millwall FC (32),1-1,?,Sunderland AFC (13)
+?,(Sat) 25 Apr 1987 (16),Millwall FC (33),0-1,?,West Bromwich Albion (13)
+?,(Mon) 25 Aug 1986 (34),Oldham Athletic (14),2-0,?,Barnsley FC (34)
+?,(Sat) 4 Apr 1987 (13),Oldham Athletic (15),2-2,?,Birmingham City (34)
+?,(Sat) 9 May 1987 (18),Oldham Athletic (16),3-0,?,Blackburn Rovers (34)
+?,(Sun) 21 Dec 1986 (50),Oldham Athletic (17),2-1,?,Bradford City (34)
+?,(Sat) 27 Sep 1986 (38),Oldham Athletic (18),1-1,?,Brighton & Hove Albion (34)
+?,(Sat) 22 Nov 1986 (46),Oldham Athletic (19),1-0,?,Crystal Palace FC (34)
+?,(Sat) 24 Jan 1987 (3),Oldham Athletic (20),1-4,?,Derby County (34)
+?,(Tue) 21 Apr 1987 (16),Oldham Athletic (21),1-1,?,Grimsby Town (34)
+?,(Sat) 28 Feb 1987 (8),Oldham Athletic (22),2-0,?,Huddersfield Town (34)
+?,(Sat) 30 Aug 1986 (34),Oldham Athletic (23),0-0,?,Hull City (34)
+?,(Sat) 14 Feb 1987 (6),Oldham Athletic (24),2-1,?,Ipswich Town (34)
+?,(Sat) 27 Dec 1986 (51),Oldham Athletic (25),0-1,?,Leeds United (34)
+?,(Fri) 17 Oct 1986 (41),Oldham Athletic (26),2-1,?,Millwall FC (34)
+?,(Sat) 2 May 1987 (17),Oldham Athletic (27),2-1,?,Plymouth Argyle (14)
+?,(Sat) 1 Nov 1986 (43),Oldham Athletic (28),0-0,?,Portsmouth FC (14)
+?,(Fri) 6 Mar 1987 (9),Oldham Athletic (29),4-0,?,Reading FC (14)
+?,(Thu) 1 Jan 1987 (0),Oldham Athletic (30),3-1,?,Sheffield United FC (14)
+?,(Sat) 6 Dec 1986 (48),Oldham Athletic (31),3-0,?,Shrewsbury Town (14)
+?,(Sat) 13 Sep 1986 (36),Oldham Athletic (32),2-0,?,Stoke City (14)
+?,(Sat) 11 Oct 1986 (40),Oldham Athletic (33),1-1,?,Sunderland AFC (14)
+?,(Sat) 28 Mar 1987 (12),Oldham Athletic (34),2-1,?,West Bromwich Albion (14)
+?,(Sat) 28 Feb 1987 (8),Plymouth Argyle (15),2-0,?,Barnsley FC (35)
+?,(Sat) 18 Apr 1987 (15),Plymouth Argyle (16),0-0,?,Birmingham City (35)
+?,(Sat) 14 Feb 1987 (6),Plymouth Argyle (17),1-1,?,Blackburn Rovers (35)
+?,(Sat) 24 Jan 1987 (3),Plymouth Argyle (18),3-2,?,Bradford City (35)
+?,(Sat) 13 Sep 1986 (36),Plymouth Argyle (19),2-2,?,Brighton & Hove Albion (35)
+?,(Sat) 1 Nov 1986 (43),Plymouth Argyle (20),3-1,?,Crystal Palace FC (35)
+?,(Sat) 13 Dec 1986 (49),Plymouth Argyle (21),1-1,?,Derby County (35)
+?,(Sat) 21 Mar 1987 (11),Plymouth Argyle (22),5-0,?,Grimsby Town (35)
+?,(Sat) 25 Apr 1987 (16),Plymouth Argyle (23),1-1,?,Huddersfield Town (35)
+?,(Sat) 3 Jan 1987 (0),Plymouth Argyle (24),4-0,?,Hull City (35)
+?,(Tue) 21 Oct 1986 (42),Plymouth Argyle (25),2-0,?,Ipswich Town (35)
+?,(Sat) 4 Oct 1986 (39),Plymouth Argyle (26),1-1,?,Leeds United (35)
+?,(Sat) 7 Mar 1987 (9),Plymouth Argyle (27),1-0,?,Millwall FC (35)
+?,(Sat) 29 Nov 1986 (47),Plymouth Argyle (28),3-2,?,Oldham Athletic (35)
+?,(Fri) 26 Dec 1986 (51),Plymouth Argyle (29),2-3,?,Portsmouth FC (15)
+?,(Sat) 30 Aug 1986 (34),Plymouth Argyle (30),1-0,?,Reading FC (15)
+?,(Tue) 14 Oct 1986 (41),Plymouth Argyle (31),1-0,?,Sheffield United FC (15)
+?,(Sat) 4 Apr 1987 (13),Plymouth Argyle (32),3-2,?,Shrewsbury Town (15)
+?,(Mon) 4 May 1987 (18),Plymouth Argyle (33),1-3,?,Stoke City (15)
+?,(Sat) 18 Oct 1986 (41),Plymouth Argyle (34),2-4,?,Sunderland AFC (15)
+?,(Sat) 15 Nov 1986 (45),Plymouth Argyle (35),1-0,?,West Bromwich Albion (15)
+?,(Sat) 20 Dec 1986 (50),Portsmouth FC (16),2-1,?,Barnsley FC (36)
+?,(Sat) 11 Oct 1986 (40),Portsmouth FC (17),2-0,?,Birmingham City (36)
+?,(Sat) 13 Sep 1986 (36),Portsmouth FC (18),1-0,?,Blackburn Rovers (36)
+?,(Sat) 8 Nov 1986 (44),Portsmouth FC (19),2-1,?,Bradford City (36)
+?,(Sat) 24 Jan 1987 (3),Portsmouth FC (20),1-0,?,Brighton & Hove Albion (36)
+?,(Sat) 6 Dec 1986 (48),Portsmouth FC (21),2-0,?,Crystal Palace FC (36)
+?,(Tue) 21 Oct 1986 (42),Portsmouth FC (22),3-1,?,Derby County (36)
+?,(Sat) 22 Nov 1986 (46),Portsmouth FC (23),2-1,?,Grimsby Town (36)
+?,(Sat) 27 Sep 1986 (38),Portsmouth FC (24),1-0,?,Huddersfield Town (36)
+?,(Sat) 14 Feb 1987 (6),Portsmouth FC (25),1-0,?,Hull City (36)
+?,(Sat) 30 Aug 1986 (34),Portsmouth FC (26),1-1,?,Ipswich Town (36)
+?,(Tue) 10 Mar 1987 (10),Portsmouth FC (27),1-1,?,Leeds United (36)
+?,(Sat) 2 May 1987 (17),Portsmouth FC (28),2-0,?,Millwall FC (36)
+?,(Sat) 11 Apr 1987 (14),Portsmouth FC (29),3-0,?,Oldham Athletic (36)
+?,(Mon) 20 Apr 1987 (16),Portsmouth FC (30),0-1,?,Plymouth Argyle (36)
+?,(Thu) 1 Jan 1987 (0),Portsmouth FC (31),1-0,?,Reading FC (16)
+?,(Sat) 9 May 1987 (18),Portsmouth FC (32),1-2,?,Sheffield United FC (16)
+?,(Mon) 29 Dec 1986 (52),Portsmouth FC (33),3-0,?,Shrewsbury Town (16)
+?,(Sat) 28 Feb 1987 (8),Portsmouth FC (34),3-0,?,Stoke City (16)
+?,(Sat) 28 Mar 1987 (12),Portsmouth FC (35),3-1,?,Sunderland AFC (16)
+?,(Sat) 25 Oct 1986 (42),Portsmouth FC (36),2-1,?,West Bromwich Albion (16)
+?,(Sat) 8 Nov 1986 (44),Reading FC (17),0-0,?,Barnsley FC (37)
+?,(Fri) 26 Dec 1986 (51),Reading FC (18),2-2,?,Birmingham City (37)
+?,(Sat) 4 Oct 1986 (39),Reading FC (19),4-0,?,Blackburn Rovers (37)
+?,(Sat) 11 Apr 1987 (14),Reading FC (20),0-1,?,Bradford City (37)
+?,(Sat) 15 Nov 1986 (45),Reading FC (21),2-1,?,Brighton & Hove Albion (37)
+?,(Sat) 21 Feb 1987 (7),Reading FC (22),1-0,?,Crystal Palace FC (37)
+?,(Mon) 4 May 1987 (18),Reading FC (23),2-0,?,Derby County (37)
+?,(Wed) 1 Oct 1986 (39),Reading FC (24),2-3,?,Grimsby Town (37)
+?,(Tue) 17 Feb 1987 (7),Reading FC (25),3-2,?,Huddersfield Town (37)
+?,(Sat) 14 Mar 1987 (10),Reading FC (26),1-0,?,Hull City (37)
+?,(Sat) 13 Dec 1986 (49),Reading FC (27),1-4,?,Ipswich Town (37)
+?,(Wed) 22 Apr 1987 (16),Reading FC (28),2-1,?,Leeds United (37)
+?,(Sat) 23 Aug 1986 (33),Reading FC (29),0-1,?,Millwall FC (37)
+?,(Sat) 25 Oct 1986 (42),Reading FC (30),2-3,?,Oldham Athletic (37)
+?,(Sat) 7 Feb 1987 (5),Reading FC (31),2-0,?,Plymouth Argyle (37)
+?,(Sat) 18 Apr 1987 (15),Reading FC (32),2-2,?,Portsmouth FC (37)
+?,(Sat) 21 Mar 1987 (11),Reading FC (33),2-0,?,Sheffield United FC (17)
+?,(Sat) 20 Sep 1986 (37),Reading FC (34),3-1,?,Shrewsbury Town (17)
+?,(Sat) 25 Apr 1987 (16),Reading FC (35),0-1,?,Stoke City (17)
+?,(Sat) 31 Jan 1987 (4),Reading FC (36),1-0,?,Sunderland AFC (17)
+?,(Sat) 6 Sep 1986 (35),Reading FC (37),1-1,?,West Bromwich Albion (17)
+?,(Sat) 7 Mar 1987 (9),Sheffield United FC (18),1-0,?,Barnsley FC (38)
+?,(Sat) 6 Sep 1986 (35),Sheffield United FC (19),1-1,?,Birmingham City (38)
+?,(Sat) 4 Apr 1987 (13),Sheffield United FC (20),4-1,?,Blackburn Rovers (38)
+?,(Sat) 28 Mar 1987 (12),Sheffield United FC (21),2-2,?,Bradford City (38)
+?,(Sat) 29 Nov 1986 (47),Sheffield United FC (22),0-1,?,Brighton & Hove Albion (38)
+?,(Tue) 17 Mar 1987 (11),Sheffield United FC (23),1-0,?,Crystal Palace FC (38)
+?,(Sat) 25 Apr 1987 (16),Sheffield United FC (24),0-1,?,Derby County (38)
+?,(Sat) 20 Sep 1986 (37),Sheffield United FC (25),1-2,?,Grimsby Town (38)
+?,(Sat) 18 Oct 1986 (41),Sheffield United FC (26),0-0,?,Huddersfield Town (38)
+?,(Fri) 26 Dec 1986 (51),Sheffield United FC (27),4-2,?,Hull City (38)
+?,(Mon) 4 May 1987 (18),Sheffield United FC (28),0-0,?,Ipswich Town (38)
+?,(Sat) 7 Feb 1987 (5),Sheffield United FC (29),0-0,?,Leeds United (38)
+?,(Tue) 2 Sep 1986 (35),Sheffield United FC (30),2-1,?,Millwall FC (38)
+?,(Sat) 18 Apr 1987 (15),Sheffield United FC (31),2-0,?,Oldham Athletic (38)
+?,(Sat) 21 Feb 1987 (7),Sheffield United FC (32),2-1,?,Plymouth Argyle (38)
+?,(Sat) 13 Dec 1986 (49),Sheffield United FC (33),1-0,?,Portsmouth FC (38)
+?,(Sat) 11 Oct 1986 (40),Sheffield United FC (34),3-3,?,Reading FC (38)
+?,(Sat) 23 Aug 1986 (33),Sheffield United FC (35),1-1,?,Shrewsbury Town (18)
+?,(Sat) 15 Nov 1986 (45),Sheffield United FC (36),3-1,?,Stoke City (18)
+?,(Sat) 1 Nov 1986 (43),Sheffield United FC (37),2-1,?,Sunderland AFC (18)
+?,(Sat) 3 Jan 1987 (0),Sheffield United FC (38),1-1,?,West Bromwich Albion (18)
+?,(Sat) 13 Sep 1986 (36),Shrewsbury Town (19),1-0,?,Barnsley FC (39)
+?,(Sat) 13 Dec 1986 (49),Shrewsbury Town (20),1-0,?,Birmingham City (39)
+?,(Sat) 30 Aug 1986 (34),Shrewsbury Town (21),0-1,?,Blackburn Rovers (39)
+?,(Sat) 27 Sep 1986 (38),Shrewsbury Town (22),0-1,?,Bradford City (39)
+?,(Tue) 16 Sep 1986 (37),Shrewsbury Town (23),1-0,?,Brighton & Hove Albion (39)
+?,(Tue) 24 Mar 1987 (12),Shrewsbury Town (24),0-0,?,Crystal Palace FC (39)
+?,(Sat) 18 Oct 1986 (41),Shrewsbury Town (25),0-1,?,Derby County (39)
+?,(Sat) 4 Oct 1986 (39),Shrewsbury Town (26),4-1,?,Grimsby Town (39)
+?,(Sat) 14 Feb 1987 (6),Shrewsbury Town (27),1-2,?,Huddersfield Town (39)
+?,(Sat) 29 Nov 1986 (47),Shrewsbury Town (28),3-0,?,Hull City (39)
+?,(Sat) 3 Jan 1987 (0),Shrewsbury Town (29),2-1,?,Ipswich Town (39)
+?,(Tue) 14 Apr 1987 (15),Shrewsbury Town (30),0-2,?,Leeds United (39)
+?,(Sat) 21 Mar 1987 (11),Shrewsbury Town (31),1-2,?,Millwall FC (39)
+?,(Tue) 5 May 1987 (18),Shrewsbury Town (32),2-0,?,Oldham Athletic (39)
+?,(Sat) 8 Nov 1986 (44),Shrewsbury Town (33),1-1,?,Plymouth Argyle (39)
+?,(Sat) 15 Nov 1986 (45),Shrewsbury Town (34),1-0,?,Portsmouth FC (39)
+?,(Sat) 28 Feb 1987 (8),Shrewsbury Town (35),0-0,?,Reading FC (39)
+?,(Sat) 24 Jan 1987 (3),Shrewsbury Town (36),1-0,?,Sheffield United FC (39)
+?,(Sat) 18 Apr 1987 (15),Shrewsbury Town (37),4-1,?,Stoke City (19)
+?,(Sat) 25 Apr 1987 (16),Shrewsbury Town (38),0-1,?,Sunderland AFC (19)
+?,(Fri) 26 Dec 1986 (51),Shrewsbury Town (39),1-0,?,West Bromwich Albion (19)
+?,(Mon) 20 Apr 1987 (16),Stoke City (20),1-2,?,Barnsley FC (40)
+?,(Sat) 23 Aug 1986 (33),Stoke City (21),0-2,?,Birmingham City (40)
+?,(Sat) 18 Oct 1986 (41),Stoke City (22),1-0,?,Blackburn Rovers (40)
+?,(Sat) 2 May 1987 (17),Stoke City (23),2-3,?,Bradford City (40)
+?,(Sat) 28 Mar 1987 (12),Stoke City (24),1-1,?,Brighton & Hove Albion (40)
+?,(Sat) 7 Feb 1987 (5),Stoke City (25),3-1,?,Crystal Palace FC (40)
+?,(Sat) 1 Nov 1986 (43),Stoke City (26),0-2,?,Derby County (40)
+?,(Sat) 9 May 1987 (18),Stoke City (27),5-1,?,Grimsby Town (40)
+?,(Sat) 11 Oct 1986 (40),Stoke City (28),2-0,?,Huddersfield Town (40)
+?,(Sat) 4 Apr 1987 (13),Stoke City (29),1-1,?,Hull City (40)
+?,(Wed) 25 Mar 1987 (12),Stoke City (30),0-0,?,Ipswich Town (40)
+?,(Sun) 21 Dec 1986 (50),Stoke City (31),7-2,?,Leeds United (40)
+?,(Sat) 6 Sep 1986 (35),Stoke City (32),2-0,?,Millwall FC (40)
+?,(Tue) 28 Apr 1987 (17),Stoke City (33),0-2,?,Oldham Athletic (40)
+?,(Sat) 6 Dec 1986 (48),Stoke City (34),1-0,?,Plymouth Argyle (40)
+?,(Sat) 20 Sep 1986 (37),Stoke City (35),1-1,?,Portsmouth FC (40)
+?,(Sat) 22 Nov 1986 (46),Stoke City (36),3-0,?,Reading FC (40)
+?,(Sat) 27 Dec 1986 (51),Stoke City (37),5-2,?,Sheffield United FC (40)
+?,(Thu) 1 Jan 1987 (0),Stoke City (38),1-0,?,Shrewsbury Town (40)
+?,(Tue) 17 Mar 1987 (11),Stoke City (39),3-0,?,Sunderland AFC (20)
+?,(Tue) 2 Sep 1986 (35),Stoke City (40),1-1,?,West Bromwich Albion (20)
+?,(Sat) 9 May 1987 (18),Sunderland AFC (21),2-3,?,Barnsley FC (41)
+?,(Sat) 25 Oct 1986 (42),Sunderland AFC (22),2-0,?,Birmingham City (41)
+?,(Sun) 21 Dec 1986 (50),Sunderland AFC (23),3-0,?,Blackburn Rovers (41)
+?,(Tue) 28 Apr 1987 (17),Sunderland AFC (24),2-3,?,Bradford City (41)
+?,(Sat) 30 Aug 1986 (34),Sunderland AFC (25),1-1,?,Brighton & Hove Albion (41)
+?,(Sat) 2 May 1987 (17),Sunderland AFC (26),1-0,?,Crystal Palace FC (41)
+?,(Sat) 14 Feb 1987 (6),Sunderland AFC (27),1-2,?,Derby County (41)
+?,(Sat) 27 Dec 1986 (51),Sunderland AFC (28),0-1,?,Grimsby Town (41)
+?,(Sat) 24 Jan 1987 (3),Sunderland AFC (29),2-1,?,Huddersfield Town (41)
+?,(Sat) 13 Sep 1986 (36),Sunderland AFC (30),1-0,?,Hull City (41)
+?,(Sat) 28 Feb 1987 (8),Sunderland AFC (31),1-0,?,Ipswich Town (41)
+?,(Mon) 20 Apr 1987 (16),Sunderland AFC (32),1-1,?,Leeds United (41)
+?,(Sat) 6 Dec 1986 (48),Sunderland AFC (33),1-1,?,Millwall FC (41)
+?,(Sat) 21 Mar 1987 (11),Sunderland AFC (34),0-2,?,Oldham Athletic (41)
+?,(Sat) 14 Mar 1987 (10),Sunderland AFC (35),2-1,?,Plymouth Argyle (41)
+?,(Sat) 4 Oct 1986 (39),Sunderland AFC (36),0-0,?,Portsmouth FC (41)
+?,(Tue) 21 Oct 1986 (42),Sunderland AFC (37),1-1,?,Reading FC (41)
+?,(Sat) 11 Apr 1987 (14),Sunderland AFC (38),1-2,?,Sheffield United FC (41)
+?,(Sat) 22 Nov 1986 (46),Sunderland AFC (39),1-1,?,Shrewsbury Town (41)
+?,(Sat) 27 Sep 1986 (38),Sunderland AFC (40),2-0,?,Stoke City (41)
+?,(Sat) 8 Nov 1986 (44),Sunderland AFC (41),0-3,?,West Bromwich Albion (21)
+?,(Sat) 2 May 1987 (17),West Bromwich Albion (22),0-1,?,Barnsley FC (42)
+?,(Sat) 1 Nov 1986 (43),West Bromwich Albion (23),3-2,?,Birmingham City (42)
+?,(Sat) 21 Mar 1987 (11),West Bromwich Albion (24),0-1,?,Blackburn Rovers (42)
+?,(Sat) 9 May 1987 (18),West Bromwich Albion (25),2-2,?,Bradford City (42)
+?,(Sat) 28 Feb 1987 (8),West Bromwich Albion (26),0-0,?,Brighton & Hove Albion (42)
+?,(Thu) 1 Jan 1987 (0),West Bromwich Albion (27),1-2,?,Crystal Palace FC (42)
+?,(Sat) 27 Sep 1986 (38),West Bromwich Albion (28),2-0,?,Derby County (42)
+?,(Sat) 18 Oct 1986 (41),West Bromwich Albion (29),1-1,?,Grimsby Town (42)
+?,(Sat) 30 Aug 1986 (34),West Bromwich Albion (30),1-0,?,Huddersfield Town (42)
+?,(Sat) 24 Jan 1987 (3),West Bromwich Albion (31),1-1,?,Hull City (42)
+?,(Sat) 13 Sep 1986 (36),West Bromwich Albion (32),3-4,?,Ipswich Town (42)
+?,(Sat) 6 Dec 1986 (48),West Bromwich Albion (33),3-0,?,Leeds United (42)
+?,(Sat) 22 Nov 1986 (46),West Bromwich Albion (34),0-1,?,Millwall FC (42)
+?,(Sat) 4 Oct 1986 (39),West Bromwich Albion (35),2-0,?,Oldham Athletic (42)
+?,(Sat) 27 Dec 1986 (51),West Bromwich Albion (36),0-0,?,Plymouth Argyle (42)
+?,(Wed) 29 Apr 1987 (17),West Bromwich Albion (37),1-0,?,Portsmouth FC (42)
+?,(Fri) 19 Dec 1986 (50),West Bromwich Albion (38),1-2,?,Reading FC (42)
+?,(Mon) 25 Aug 1986 (34),West Bromwich Albion (39),1-0,?,Sheffield United FC (42)
+?,(Mon) 20 Apr 1987 (16),West Bromwich Albion (40),1-2,?,Shrewsbury Town (42)
+?,(Sat) 14 Feb 1987 (6),West Bromwich Albion (41),4-1,?,Stoke City (42)
+?,(Sat) 4 Apr 1987 (13),West Bromwich Albion (42),2-2,?,Sunderland AFC (42)

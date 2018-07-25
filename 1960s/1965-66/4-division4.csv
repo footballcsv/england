@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barnsley,Aldershot,2-1,-
--,-,Barrow,Aldershot,2-2,-
--,-,Bradford City,Aldershot,1-1,-
--,-,Bradford Park Avenue,Aldershot,5-1,-
--,-,Chester,Aldershot,3-2,-
--,-,Chesterfield,Aldershot,1-1,-
--,-,Colchester United,Aldershot,0-0,-
--,-,Crewe Alexandra,Aldershot,2-0,-
--,-,Darlington,Aldershot,4-3,-
--,-,Doncaster Rovers,Aldershot,3-2,-
--,-,Halifax Town,Aldershot,3-4,-
--,-,Hartlepool United,Aldershot,3-0,-
--,-,Lincoln City,Aldershot,2-1,-
--,-,Luton Town,Aldershot,3-1,-
--,-,Newport County,Aldershot,3-1,-
--,-,Notts County,Aldershot,2-0,-
--,-,Port Vale,Aldershot,2-1,-
--,-,Rochdale,Aldershot,1-0,-
--,-,Southport,Aldershot,0-2,-
--,-,Stockport County,Aldershot,1-2,-
--,-,Torquay United,Aldershot,5-1,-
--,-,Tranmere Rovers,Aldershot,5-2,-
--,-,Wrexham,Aldershot,4-0,-
--,-,Aldershot,Barnsley,1-1,-
--,-,Barrow,Barnsley,1-5,-
--,-,Bradford City,Barnsley,1-0,-
--,-,Bradford Park Avenue,Barnsley,7-2,-
--,-,Chester,Barnsley,3-3,-
--,-,Chesterfield,Barnsley,3-1,-
--,-,Colchester United,Barnsley,4-0,-
--,-,Crewe Alexandra,Barnsley,0-1,-
--,-,Darlington,Barnsley,2-1,-
--,-,Doncaster Rovers,Barnsley,2-1,-
--,-,Halifax Town,Barnsley,2-2,-
--,-,Hartlepool United,Barnsley,1-2,-
--,-,Lincoln City,Barnsley,4-1,-
--,-,Luton Town,Barnsley,5-4,-
--,-,Newport County,Barnsley,1-0,-
--,-,Notts County,Barnsley,0-1,-
--,-,Port Vale,Barnsley,1-1,-
--,-,Rochdale,Barnsley,2-1,-
--,-,Southport,Barnsley,3-1,-
--,-,Stockport County,Barnsley,1-0,-
--,-,Torquay United,Barnsley,3-0,-
--,-,Tranmere Rovers,Barnsley,1-0,-
--,-,Wrexham,Barnsley,6-3,-
--,-,Aldershot,Barrow,3-1,-
--,-,Barnsley,Barrow,3-0,-
--,-,Bradford City,Barrow,0-0,-
--,-,Bradford Park Avenue,Barrow,2-3,-
--,-,Chester,Barrow,0-0,-
--,-,Chesterfield,Barrow,2-2,-
--,-,Colchester United,Barrow,2-2,-
--,-,Crewe Alexandra,Barrow,2-1,-
--,-,Darlington,Barrow,1-0,-
--,-,Doncaster Rovers,Barrow,1-1,-
--,-,Halifax Town,Barrow,2-1,-
--,-,Hartlepool United,Barrow,3-0,-
--,-,Lincoln City,Barrow,4-0,-
--,-,Luton Town,Barrow,3-2,-
--,-,Newport County,Barrow,3-2,-
--,-,Notts County,Barrow,0-2,-
--,-,Port Vale,Barrow,0-0,-
--,-,Rochdale,Barrow,4-0,-
--,-,Southport,Barrow,1-1,-
--,-,Stockport County,Barrow,5-2,-
--,-,Torquay United,Barrow,0-1,-
--,-,Tranmere Rovers,Barrow,1-2,-
--,-,Wrexham,Barrow,3-1,-
--,-,Aldershot,Bradford City,5-2,-
--,-,Barnsley,Bradford City,4-2,-
--,-,Barrow,Bradford City,2-0,-
--,-,Bradford Park Avenue,Bradford City,5-1,-
--,-,Chester,Bradford City,4-0,-
--,-,Chesterfield,Bradford City,1-1,-
--,-,Colchester United,Bradford City,0-1,-
--,-,Crewe Alexandra,Bradford City,7-1,-
--,-,Darlington,Bradford City,3-0,-
--,-,Doncaster Rovers,Bradford City,1-1,-
--,-,Halifax Town,Bradford City,3-2,-
--,-,Hartlepool United,Bradford City,1-1,-
--,-,Lincoln City,Bradford City,1-0,-
--,-,Luton Town,Bradford City,2-3,-
--,-,Newport County,Bradford City,2-2,-
--,-,Notts County,Bradford City,2-1,-
--,-,Port Vale,Bradford City,0-0,-
--,-,Rochdale,Bradford City,5-1,-
--,-,Southport,Bradford City,4-0,-
--,-,Stockport County,Bradford City,1-1,-
--,-,Torquay United,Bradford City,4-3,-
--,-,Tranmere Rovers,Bradford City,2-2,-
--,-,Wrexham,Bradford City,1-1,-
--,-,Aldershot,Bradford Park Avenue,5-1,-
--,-,Barnsley,Bradford Park Avenue,1-1,-
--,-,Barrow,Bradford Park Avenue,5-2,-
--,-,Bradford City,Bradford Park Avenue,3-0,-
--,-,Chester,Bradford Park Avenue,2-4,-
--,-,Chesterfield,Bradford Park Avenue,0-3,-
--,-,Colchester United,Bradford Park Avenue,6-3,-
--,-,Crewe Alexandra,Bradford Park Avenue,2-5,-
--,-,Darlington,Bradford Park Avenue,4-1,-
--,-,Doncaster Rovers,Bradford Park Avenue,6-2,-
--,-,Halifax Town,Bradford Park Avenue,1-0,-
--,-,Hartlepool United,Bradford Park Avenue,2-3,-
--,-,Lincoln City,Bradford Park Avenue,1-1,-
--,-,Luton Town,Bradford Park Avenue,3-1,-
--,-,Newport County,Bradford Park Avenue,3-1,-
--,-,Notts County,Bradford Park Avenue,2-0,-
--,-,Port Vale,Bradford Park Avenue,3-3,-
--,-,Rochdale,Bradford Park Avenue,2-3,-
--,-,Southport,Bradford Park Avenue,2-1,-
--,-,Stockport County,Bradford Park Avenue,2-3,-
--,-,Torquay United,Bradford Park Avenue,2-1,-
--,-,Tranmere Rovers,Bradford Park Avenue,1-2,-
--,-,Wrexham,Bradford Park Avenue,3-2,-
--,-,Aldershot,Chester,2-2,-
--,-,Barnsley,Chester,0-2,-
--,-,Barrow,Chester,4-1,-
--,-,Bradford City,Chester,1-2,-
--,-,Bradford Park Avenue,Chester,0-1,-
--,-,Chesterfield,Chester,2-2,-
--,-,Colchester United,Chester,1-1,-
--,-,Crewe Alexandra,Chester,1-1,-
--,-,Darlington,Chester,0-1,-
--,-,Doncaster Rovers,Chester,1-1,-
--,-,Halifax Town,Chester,2-0,-
--,-,Hartlepool United,Chester,2-0,-
--,-,Lincoln City,Chester,2-2,-
--,-,Luton Town,Chester,5-2,-
--,-,Newport County,Chester,3-2,-
--,-,Notts County,Chester,3-3,-
--,-,Port Vale,Chester,5-2,-
--,-,Rochdale,Chester,3-0,-
--,-,Southport,Chester,2-0,-
--,-,Stockport County,Chester,0-1,-
--,-,Torquay United,Chester,1-0,-
--,-,Tranmere Rovers,Chester,1-0,-
--,-,Wrexham,Chester,2-1,-
--,-,Aldershot,Chesterfield,1-3,-
--,-,Barnsley,Chesterfield,0-0,-
--,-,Barrow,Chesterfield,3-2,-
--,-,Bradford City,Chesterfield,1-1,-
--,-,Bradford Park Avenue,Chesterfield,3-1,-
--,-,Chester,Chesterfield,3-0,-
--,-,Colchester United,Chesterfield,3-0,-
--,-,Crewe Alexandra,Chesterfield,1-0,-
--,-,Darlington,Chesterfield,4-1,-
--,-,Doncaster Rovers,Chesterfield,1-0,-
--,-,Halifax Town,Chesterfield,4-1,-
--,-,Hartlepool United,Chesterfield,1-2,-
--,-,Lincoln City,Chesterfield,0-2,-
--,-,Luton Town,Chesterfield,1-2,-
--,-,Newport County,Chesterfield,3-4,-
--,-,Notts County,Chesterfield,2-0,-
--,-,Port Vale,Chesterfield,1-1,-
--,-,Rochdale,Chesterfield,1-1,-
--,-,Southport,Chesterfield,1-0,-
--,-,Stockport County,Chesterfield,2-1,-
--,-,Torquay United,Chesterfield,2-0,-
--,-,Tranmere Rovers,Chesterfield,3-2,-
--,-,Wrexham,Chesterfield,2-1,-
--,-,Aldershot,Colchester United,1-3,-
--,-,Barnsley,Colchester United,1-1,-
--,-,Barrow,Colchester United,3-0,-
--,-,Bradford City,Colchester United,1-2,-
--,-,Bradford Park Avenue,Colchester United,1-0,-
--,-,Chester,Colchester United,2-1,-
--,-,Chesterfield,Colchester United,2-4,-
--,-,Crewe Alexandra,Colchester United,0-2,-
--,-,Darlington,Colchester United,2-0,-
--,-,Doncaster Rovers,Colchester United,2-0,-
--,-,Halifax Town,Colchester United,1-1,-
--,-,Hartlepool United,Colchester United,0-1,-
--,-,Lincoln City,Colchester United,0-2,-
--,-,Luton Town,Colchester United,1-1,-
--,-,Newport County,Colchester United,2-1,-
--,-,Notts County,Colchester United,1-0,-
--,-,Port Vale,Colchester United,1-0,-
--,-,Rochdale,Colchester United,0-1,-
--,-,Southport,Colchester United,0-1,-
--,-,Stockport County,Colchester United,1-0,-
--,-,Torquay United,Colchester United,0-1,-
--,-,Tranmere Rovers,Colchester United,2-0,-
--,-,Wrexham,Colchester United,2-3,-
--,-,Aldershot,Crewe Alexandra,1-0,-
--,-,Barnsley,Crewe Alexandra,0-1,-
--,-,Barrow,Crewe Alexandra,1-1,-
--,-,Bradford City,Crewe Alexandra,0-1,-
--,-,Bradford Park Avenue,Crewe Alexandra,2-1,-
--,-,Chester,Crewe Alexandra,3-0,-
--,-,Chesterfield,Crewe Alexandra,3-1,-
--,-,Colchester United,Crewe Alexandra,1-1,-
--,-,Darlington,Crewe Alexandra,1-1,-
--,-,Doncaster Rovers,Crewe Alexandra,4-1,-
--,-,Halifax Town,Crewe Alexandra,1-0,-
--,-,Hartlepool United,Crewe Alexandra,4-1,-
--,-,Lincoln City,Crewe Alexandra,1-1,-
--,-,Luton Town,Crewe Alexandra,4-0,-
--,-,Newport County,Crewe Alexandra,1-0,-
--,-,Notts County,Crewe Alexandra,0-1,-
--,-,Port Vale,Crewe Alexandra,2-0,-
--,-,Rochdale,Crewe Alexandra,2-1,-
--,-,Southport,Crewe Alexandra,1-1,-
--,-,Stockport County,Crewe Alexandra,2-0,-
--,-,Torquay United,Crewe Alexandra,2-1,-
--,-,Tranmere Rovers,Crewe Alexandra,3-1,-
--,-,Wrexham,Crewe Alexandra,1-4,-
--,-,Aldershot,Darlington,0-1,-
--,-,Barnsley,Darlington,3-1,-
--,-,Barrow,Darlington,1-1,-
--,-,Bradford City,Darlington,2-0,-
--,-,Bradford Park Avenue,Darlington,0-2,-
--,-,Chester,Darlington,3-2,-
--,-,Chesterfield,Darlington,1-2,-
--,-,Colchester United,Darlington,0-1,-
--,-,Crewe Alexandra,Darlington,0-1,-
--,-,Doncaster Rovers,Darlington,6-3,-
--,-,Halifax Town,Darlington,2-2,-
--,-,Hartlepool United,Darlington,1-1,-
--,-,Lincoln City,Darlington,4-1,-
--,-,Luton Town,Darlington,2-0,-
--,-,Newport County,Darlington,3-0,-
--,-,Notts County,Darlington,0-0,-
--,-,Port Vale,Darlington,3-1,-
--,-,Rochdale,Darlington,1-2,-
--,-,Southport,Darlington,1-1,-
--,-,Stockport County,Darlington,1-1,-
--,-,Torquay United,Darlington,0-4,-
--,-,Tranmere Rovers,Darlington,1-2,-
--,-,Wrexham,Darlington,1-2,-
--,-,Aldershot,Doncaster Rovers,1-1,-
--,-,Barnsley,Doncaster Rovers,1-5,-
--,-,Barrow,Doncaster Rovers,2-1,-
--,-,Bradford City,Doncaster Rovers,1-1,-
--,-,Bradford Park Avenue,Doncaster Rovers,0-1,-
--,-,Chester,Doncaster Rovers,1-4,-
--,-,Chesterfield,Doncaster Rovers,1-1,-
--,-,Colchester United,Doncaster Rovers,2-1,-
--,-,Crewe Alexandra,Doncaster Rovers,0-1,-
--,-,Darlington,Doncaster Rovers,3-2,-
--,-,Halifax Town,Doncaster Rovers,2-3,-
--,-,Hartlepool United,Doncaster Rovers,2-0,-
--,-,Lincoln City,Doncaster Rovers,0-3,-
--,-,Luton Town,Doncaster Rovers,4-3,-
--,-,Newport County,Doncaster Rovers,4-0,-
--,-,Notts County,Doncaster Rovers,1-2,-
--,-,Port Vale,Doncaster Rovers,0-1,-
--,-,Rochdale,Doncaster Rovers,0-1,-
--,-,Southport,Doncaster Rovers,2-1,-
--,-,Stockport County,Doncaster Rovers,1-1,-
--,-,Torquay United,Doncaster Rovers,0-0,-
--,-,Tranmere Rovers,Doncaster Rovers,1-0,-
--,-,Wrexham,Doncaster Rovers,4-3,-
--,-,Aldershot,Halifax Town,0-0,-
--,-,Barnsley,Halifax Town,1-2,-
--,-,Barrow,Halifax Town,3-0,-
--,-,Bradford City,Halifax Town,0-1,-
--,-,Bradford Park Avenue,Halifax Town,2-1,-
--,-,Chester,Halifax Town,1-0,-
--,-,Chesterfield,Halifax Town,3-2,-
--,-,Colchester United,Halifax Town,1-0,-
--,-,Crewe Alexandra,Halifax Town,3-0,-
--,-,Darlington,Halifax Town,2-0,-
--,-,Doncaster Rovers,Halifax Town,2-2,-
--,-,Hartlepool United,Halifax Town,1-2,-
--,-,Lincoln City,Halifax Town,3-3,-
--,-,Luton Town,Halifax Town,4-1,-
--,-,Newport County,Halifax Town,3-1,-
--,-,Notts County,Halifax Town,1-1,-
--,-,Port Vale,Halifax Town,2-0,-
--,-,Rochdale,Halifax Town,0-1,-
--,-,Southport,Halifax Town,1-0,-
--,-,Stockport County,Halifax Town,3-0,-
--,-,Torquay United,Halifax Town,1-0,-
--,-,Tranmere Rovers,Halifax Town,5-2,-
--,-,Wrexham,Halifax Town,2-2,-
--,-,Aldershot,Hartlepool United,5-0,-
--,-,Barnsley,Hartlepool United,2-2,-
--,-,Barrow,Hartlepool United,2-0,-
--,-,Bradford City,Hartlepool United,1-3,-
--,-,Bradford Park Avenue,Hartlepool United,4-1,-
--,-,Chester,Hartlepool United,2-0,-
--,-,Chesterfield,Hartlepool United,1-3,-
--,-,Colchester United,Hartlepool United,2-0,-
--,-,Crewe Alexandra,Hartlepool United,3-1,-
--,-,Darlington,Hartlepool United,1-1,-
--,-,Doncaster Rovers,Hartlepool United,4-0,-
--,-,Halifax Town,Hartlepool United,1-0,-
--,-,Lincoln City,Hartlepool United,2-1,-
--,-,Luton Town,Hartlepool United,2-1,-
--,-,Newport County,Hartlepool United,3-0,-
--,-,Notts County,Hartlepool United,1-0,-
--,-,Port Vale,Hartlepool United,0-0,-
--,-,Rochdale,Hartlepool United,3-1,-
--,-,Southport,Hartlepool United,4-1,-
--,-,Stockport County,Hartlepool United,1-2,-
--,-,Torquay United,Hartlepool United,2-0,-
--,-,Tranmere Rovers,Hartlepool United,6-1,-
--,-,Wrexham,Hartlepool United,1-1,-
--,-,Aldershot,Lincoln City,2-0,-
--,-,Barnsley,Lincoln City,0-1,-
--,-,Barrow,Lincoln City,2-2,-
--,-,Bradford City,Lincoln City,2-0,-
--,-,Bradford Park Avenue,Lincoln City,4-2,-
--,-,Chester,Lincoln City,4-2,-
--,-,Chesterfield,Lincoln City,1-0,-
--,-,Colchester United,Lincoln City,3-0,-
--,-,Crewe Alexandra,Lincoln City,7-0,-
--,-,Darlington,Lincoln City,0-2,-
--,-,Doncaster Rovers,Lincoln City,4-0,-
--,-,Halifax Town,Lincoln City,2-2,-
--,-,Hartlepool United,Lincoln City,3-1,-
--,-,Luton Town,Lincoln City,0-0,-
--,-,Newport County,Lincoln City,0-0,-
--,-,Notts County,Lincoln City,2-1,-
--,-,Port Vale,Lincoln City,3-0,-
--,-,Rochdale,Lincoln City,0-1,-
--,-,Southport,Lincoln City,5-1,-
--,-,Stockport County,Lincoln City,2-1,-
--,-,Torquay United,Lincoln City,4-1,-
--,-,Tranmere Rovers,Lincoln City,3-2,-
--,-,Wrexham,Lincoln City,0-1,-
--,-,Aldershot,Luton Town,3-1,-
--,-,Barnsley,Luton Town,3-0,-
--,-,Barrow,Luton Town,0-1,-
--,-,Bradford City,Luton Town,2-2,-
--,-,Bradford Park Avenue,Luton Town,1-3,-
--,-,Chester,Luton Town,1-1,-
--,-,Chesterfield,Luton Town,1-3,-
--,-,Colchester United,Luton Town,2-2,-
--,-,Crewe Alexandra,Luton Town,2-0,-
--,-,Darlington,Luton Town,1-0,-
--,-,Doncaster Rovers,Luton Town,1-1,-
--,-,Halifax Town,Luton Town,3-0,-
--,-,Hartlepool United,Luton Town,2-0,-
--,-,Lincoln City,Luton Town,2-2,-
--,-,Newport County,Luton Town,3-1,-
--,-,Notts County,Luton Town,1-1,-
--,-,Port Vale,Luton Town,1-2,-
--,-,Rochdale,Luton Town,1-2,-
--,-,Southport,Luton Town,3-2,-
--,-,Stockport County,Luton Town,4-1,-
--,-,Torquay United,Luton Town,2-0,-
--,-,Tranmere Rovers,Luton Town,2-0,-
--,-,Wrexham,Luton Town,2-0,-
--,-,Aldershot,Newport County,2-1,-
--,-,Barnsley,Newport County,2-2,-
--,-,Barrow,Newport County,2-2,-
--,-,Bradford City,Newport County,3-2,-
--,-,Bradford Park Avenue,Newport County,6-1,-
--,-,Chester,Newport County,6-1,-
--,-,Chesterfield,Newport County,1-2,-
--,-,Colchester United,Newport County,3-2,-
--,-,Crewe Alexandra,Newport County,2-2,-
--,-,Darlington,Newport County,0-1,-
--,-,Doncaster Rovers,Newport County,1-0,-
--,-,Halifax Town,Newport County,4-4,-
--,-,Hartlepool United,Newport County,5-2,-
--,-,Lincoln City,Newport County,1-1,-
--,-,Luton Town,Newport County,2-1,-
--,-,Notts County,Newport County,1-1,-
--,-,Port Vale,Newport County,3-0,-
--,-,Rochdale,Newport County,2-1,-
--,-,Southport,Newport County,2-0,-
--,-,Stockport County,Newport County,2-1,-
--,-,Torquay United,Newport County,1-0,-
--,-,Tranmere Rovers,Newport County,0-1,-
--,-,Wrexham,Newport County,0-1,-
--,-,Aldershot,Notts County,0-0,-
--,-,Barnsley,Notts County,1-1,-
--,-,Barrow,Notts County,2-1,-
--,-,Bradford City,Notts County,0-4,-
--,-,Bradford Park Avenue,Notts County,4-0,-
--,-,Chester,Notts County,1-1,-
--,-,Chesterfield,Notts County,0-0,-
--,-,Colchester United,Notts County,4-1,-
--,-,Crewe Alexandra,Notts County,1-0,-
--,-,Darlington,Notts County,1-0,-
--,-,Doncaster Rovers,Notts County,0-3,-
--,-,Halifax Town,Notts County,0-1,-
--,-,Hartlepool United,Notts County,2-0,-
--,-,Lincoln City,Notts County,1-2,-
--,-,Luton Town,Notts County,5-1,-
--,-,Newport County,Notts County,1-2,-
--,-,Port Vale,Notts County,0-1,-
--,-,Rochdale,Notts County,0-2,-
--,-,Southport,Notts County,1-0,-
--,-,Stockport County,Notts County,1-3,-
--,-,Torquay United,Notts County,2-0,-
--,-,Tranmere Rovers,Notts County,0-3,-
--,-,Wrexham,Notts County,1-3,-
--,-,Aldershot,Port Vale,3-0,-
--,-,Barnsley,Port Vale,1-0,-
--,-,Barrow,Port Vale,2-2,-
--,-,Bradford City,Port Vale,2-0,-
--,-,Bradford Park Avenue,Port Vale,1-2,-
--,-,Chester,Port Vale,2-0,-
--,-,Chesterfield,Port Vale,3-1,-
--,-,Colchester United,Port Vale,3-0,-
--,-,Crewe Alexandra,Port Vale,0-0,-
--,-,Darlington,Port Vale,2-1,-
--,-,Doncaster Rovers,Port Vale,1-0,-
--,-,Halifax Town,Port Vale,2-0,-
--,-,Hartlepool United,Port Vale,2-0,-
--,-,Lincoln City,Port Vale,0-1,-
--,-,Luton Town,Port Vale,5-0,-
--,-,Newport County,Port Vale,0-1,-
--,-,Notts County,Port Vale,3-1,-
--,-,Rochdale,Port Vale,1-0,-
--,-,Southport,Port Vale,2-1,-
--,-,Stockport County,Port Vale,3-0,-
--,-,Torquay United,Port Vale,1-0,-
--,-,Tranmere Rovers,Port Vale,1-0,-
--,-,Wrexham,Port Vale,1-0,-
--,-,Aldershot,Rochdale,2-3,-
--,-,Barnsley,Rochdale,5-0,-
--,-,Barrow,Rochdale,0-2,-
--,-,Bradford City,Rochdale,2-1,-
--,-,Bradford Park Avenue,Rochdale,1-2,-
--,-,Chester,Rochdale,1-2,-
--,-,Chesterfield,Rochdale,4-1,-
--,-,Colchester United,Rochdale,2-0,-
--,-,Crewe Alexandra,Rochdale,3-1,-
--,-,Darlington,Rochdale,3-1,-
--,-,Doncaster Rovers,Rochdale,2-0,-
--,-,Halifax Town,Rochdale,4-1,-
--,-,Hartlepool United,Rochdale,0-0,-
--,-,Lincoln City,Rochdale,2-0,-
--,-,Luton Town,Rochdale,4-1,-
--,-,Newport County,Rochdale,1-1,-
--,-,Notts County,Rochdale,3-3,-
--,-,Port Vale,Rochdale,2-1,-
--,-,Southport,Rochdale,4-0,-
--,-,Stockport County,Rochdale,3-1,-
--,-,Torquay United,Rochdale,4-0,-
--,-,Tranmere Rovers,Rochdale,6-2,-
--,-,Wrexham,Rochdale,2-2,-
--,-,Aldershot,Southport,3-0,-
--,-,Barnsley,Southport,4-0,-
--,-,Barrow,Southport,3-3,-
--,-,Bradford City,Southport,3-0,-
--,-,Bradford Park Avenue,Southport,2-1,-
--,-,Chester,Southport,1-0,-
--,-,Chesterfield,Southport,3-2,-
--,-,Colchester United,Southport,0-0,-
--,-,Crewe Alexandra,Southport,2-1,-
--,-,Darlington,Southport,2-0,-
--,-,Doncaster Rovers,Southport,1-1,-
--,-,Halifax Town,Southport,1-2,-
--,-,Hartlepool United,Southport,3-1,-
--,-,Lincoln City,Southport,4-0,-
--,-,Luton Town,Southport,2-0,-
--,-,Newport County,Southport,1-1,-
--,-,Notts County,Southport,1-2,-
--,-,Port Vale,Southport,4-1,-
--,-,Rochdale,Southport,3-0,-
--,-,Stockport County,Southport,2-2,-
--,-,Torquay United,Southport,1-1,-
--,-,Tranmere Rovers,Southport,0-2,-
--,-,Wrexham,Southport,3-1,-
--,-,Aldershot,Stockport County,1-0,-
--,-,Barnsley,Stockport County,1-2,-
--,-,Barrow,Stockport County,1-0,-
--,-,Bradford City,Stockport County,1-7,-
--,-,Bradford Park Avenue,Stockport County,3-1,-
--,-,Chester,Stockport County,1-0,-
--,-,Chesterfield,Stockport County,2-1,-
--,-,Colchester United,Stockport County,3-2,-
--,-,Crewe Alexandra,Stockport County,1-1,-
--,-,Darlington,Stockport County,3-0,-
--,-,Doncaster Rovers,Stockport County,1-0,-
--,-,Halifax Town,Stockport County,0-1,-
--,-,Hartlepool United,Stockport County,2-1,-
--,-,Lincoln City,Stockport County,1-2,-
--,-,Luton Town,Stockport County,2-0,-
--,-,Newport County,Stockport County,1-0,-
--,-,Notts County,Stockport County,1-1,-
--,-,Port Vale,Stockport County,2-0,-
--,-,Rochdale,Stockport County,4-0,-
--,-,Southport,Stockport County,2-0,-
--,-,Torquay United,Stockport County,1-4,-
--,-,Tranmere Rovers,Stockport County,6-2,-
--,-,Wrexham,Stockport County,1-4,-
--,-,Aldershot,Torquay United,3-2,-
--,-,Barnsley,Torquay United,1-0,-
--,-,Barrow,Torquay United,2-0,-
--,-,Bradford City,Torquay United,4-1,-
--,-,Bradford Park Avenue,Torquay United,1-1,-
--,-,Chester,Torquay United,1-1,-
--,-,Chesterfield,Torquay United,1-1,-
--,-,Colchester United,Torquay United,0-2,-
--,-,Crewe Alexandra,Torquay United,2-1,-
--,-,Darlington,Torquay United,0-0,-
--,-,Doncaster Rovers,Torquay United,0-1,-
--,-,Halifax Town,Torquay United,0-2,-
--,-,Hartlepool United,Torquay United,0-2,-
--,-,Lincoln City,Torquay United,1-1,-
--,-,Luton Town,Torquay United,3-2,-
--,-,Newport County,Torquay United,3-2,-
--,-,Notts County,Torquay United,1-1,-
--,-,Port Vale,Torquay United,0-0,-
--,-,Rochdale,Torquay United,2-3,-
--,-,Southport,Torquay United,3-3,-
--,-,Stockport County,Torquay United,1-0,-
--,-,Tranmere Rovers,Torquay United,0-1,-
--,-,Wrexham,Torquay United,0-2,-
--,-,Aldershot,Tranmere Rovers,1-3,-
--,-,Barnsley,Tranmere Rovers,4-0,-
--,-,Barrow,Tranmere Rovers,1-1,-
--,-,Bradford City,Tranmere Rovers,2-4,-
--,-,Bradford Park Avenue,Tranmere Rovers,1-1,-
--,-,Chester,Tranmere Rovers,3-1,-
--,-,Chesterfield,Tranmere Rovers,0-0,-
--,-,Colchester United,Tranmere Rovers,2-1,-
--,-,Crewe Alexandra,Tranmere Rovers,1-2,-
--,-,Darlington,Tranmere Rovers,0-1,-
--,-,Doncaster Rovers,Tranmere Rovers,3-1,-
--,-,Halifax Town,Tranmere Rovers,2-2,-
--,-,Hartlepool United,Tranmere Rovers,0-0,-
--,-,Lincoln City,Tranmere Rovers,1-0,-
--,-,Luton Town,Tranmere Rovers,2-1,-
--,-,Newport County,Tranmere Rovers,0-0,-
--,-,Notts County,Tranmere Rovers,1-2,-
--,-,Port Vale,Tranmere Rovers,2-3,-
--,-,Rochdale,Tranmere Rovers,3-5,-
--,-,Southport,Tranmere Rovers,1-1,-
--,-,Stockport County,Tranmere Rovers,1-2,-
--,-,Torquay United,Tranmere Rovers,2-1,-
--,-,Wrexham,Tranmere Rovers,1-5,-
--,-,Aldershot,Wrexham,2-2,-
--,-,Barnsley,Wrexham,3-0,-
--,-,Barrow,Wrexham,4-2,-
--,-,Bradford City,Wrexham,4-1,-
--,-,Bradford Park Avenue,Wrexham,4-2,-
--,-,Chester,Wrexham,4-2,-
--,-,Chesterfield,Wrexham,1-1,-
--,-,Colchester United,Wrexham,1-1,-
--,-,Crewe Alexandra,Wrexham,0-1,-
--,-,Darlington,Wrexham,2-0,-
--,-,Doncaster Rovers,Wrexham,2-0,-
--,-,Halifax Town,Wrexham,4-0,-
--,-,Hartlepool United,Wrexham,4-2,-
--,-,Lincoln City,Wrexham,0-2,-
--,-,Luton Town,Wrexham,1-0,-
--,-,Newport County,Wrexham,2-2,-
--,-,Notts County,Wrexham,3-1,-
--,-,Port Vale,Wrexham,1-0,-
--,-,Rochdale,Wrexham,6-0,-
--,-,Southport,Wrexham,2-2,-
--,-,Stockport County,Wrexham,2-4,-
--,-,Torquay United,Wrexham,3-1,-
--,-,Tranmere Rovers,Wrexham,6-3,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 23 Apr 1966 (16),Aldershot Town FC (1),1-1,?,Barnsley FC (1)
+?,(Sat) 19 Feb 1966 (7),Aldershot Town FC (2),3-1,?,Barrow AFC (1)
+?,(Sat) 9 Apr 1966 (14),Aldershot Town FC (3),5-2,?,Bradford City (1)
+?,(Wed) 27 Apr 1966 (17),Aldershot Town FC (4),5-1,?,Bradford Park Avenue (1)
+?,(Sat) 9 Oct 1965 (40),Aldershot Town FC (5),2-2,?,Chester FC (1)
+?,(Wed) 15 Sep 1965 (37),Aldershot Town FC (6),1-3,?,Chesterfield FC (1)
+?,(Sat) 20 Nov 1965 (46),Aldershot Town FC (7),1-3,?,Colchester United (1)
+?,(Sat) 7 May 1966 (18),Aldershot Town FC (8),1-0,?,Crewe Alexandra (1)
+?,(Wed) 23 Mar 1966 (12),Aldershot Town FC (9),0-1,?,Darlington FC (1)
+?,(Sat) 12 Mar 1966 (10),Aldershot Town FC (10),1-1,?,Doncaster Rovers (1)
+?,(Fri) 8 Apr 1966 (14),Aldershot Town FC (11),0-0,?,Halifax Town (1)
+?,(Sat) 11 Sep 1965 (36),Aldershot Town FC (12),5-0,?,Hartlepool United (1)
+?,(Sat) 23 Oct 1965 (42),Aldershot Town FC (13),2-0,?,Lincoln City (1)
+?,(Sat) 28 Aug 1965 (34),Aldershot Town FC (14),3-1,?,Luton Town (1)
+?,(Wed) 6 Oct 1965 (40),Aldershot Town FC (15),2-1,?,Newport County AFC (1)
+?,(Wed) 9 Mar 1966 (10),Aldershot Town FC (16),0-0,?,Notts County FC (1)
+?,(Sat) 12 Feb 1966 (6),Aldershot Town FC (17),3-0,?,Port Vale FC (1)
+?,(Sat) 29 Jan 1966 (4),Aldershot Town FC (18),2-3,?,Rochdale AFC (1)
+?,(Sat) 25 Sep 1965 (38),Aldershot Town FC (19),3-0,?,Southport FC (1)
+?,(Sat) 6 Nov 1965 (44),Aldershot Town FC (20),1-0,?,Stockport County (1)
+?,(Wed) 16 Feb 1966 (7),Aldershot Town FC (21),3-2,?,Torquay United (1)
+?,(Sat) 8 Jan 1966 (1),Aldershot Town FC (22),1-3,?,Tranmere Rovers (1)
+?,(Sat) 26 Mar 1966 (12),Aldershot Town FC (23),2-2,?,Wrexham AFC (1)
+?,(Tue) 15 Mar 1966 (11),Barnsley FC (2),2-1,?,Aldershot Town FC (24)
+?,(Fri) 15 Oct 1965 (41),Barnsley FC (3),3-0,?,Barrow AFC (2)
+?,(Sat) 28 Aug 1965 (34),Barnsley FC (4),4-2,?,Bradford City (2)
+?,(Fri) 15 Apr 1966 (15),Barnsley FC (5),1-1,?,Bradford Park Avenue (2)
+?,(Tue) 23 Nov 1965 (47),Barnsley FC (6),0-2,?,Chester FC (2)
+?,(Fri) 3 Sep 1965 (35),Barnsley FC (7),0-0,?,Chesterfield FC (2)
+?,(Sat) 26 Feb 1966 (8),Barnsley FC (8),1-1,?,Colchester United (2)
+?,(Sat) 29 Jan 1966 (4),Barnsley FC (9),0-1,?,Crewe Alexandra (2)
+?,(Fri) 1 Oct 1965 (39),Barnsley FC (10),3-1,?,Darlington FC (2)
+?,(Fri) 29 Oct 1965 (43),Barnsley FC (11),1-5,?,Doncaster Rovers (2)
+?,(Mon) 27 Dec 1965 (52),Barnsley FC (12),1-2,?,Halifax Town (2)
+?,(Sat) 15 Jan 1966 (2),Barnsley FC (13),2-2,?,Hartlepool United (2)
+?,(Tue) 26 Apr 1966 (17),Barnsley FC (14),0-1,?,Lincoln City (2)
+?,(Sat) 1 Jan 1966 (0),Barnsley FC (15),3-0,?,Luton Town (2)
+?,(Fri) 29 Apr 1966 (17),Barnsley FC (16),2-2,?,Newport County AFC (2)
+?,(Sat) 12 Feb 1966 (6),Barnsley FC (17),1-1,?,Notts County FC (2)
+?,(Tue) 24 Aug 1965 (34),Barnsley FC (18),1-0,?,Port Vale FC (2)
+?,(Tue) 8 Mar 1966 (10),Barnsley FC (19),5-0,?,Rochdale AFC (2)
+?,(Fri) 13 May 1966 (19),Barnsley FC (20),4-0,?,Southport FC (2)
+?,(Fri) 18 Mar 1966 (11),Barnsley FC (21),1-2,?,Stockport County (2)
+?,(Sat) 11 Dec 1965 (49),Barnsley FC (22),1-0,?,Torquay United (2)
+?,(Fri) 17 Sep 1965 (37),Barnsley FC (23),4-0,?,Tranmere Rovers (2)
+?,(Tue) 10 May 1966 (19),Barnsley FC (24),3-0,?,Wrexham AFC (2)
+?,(Sat) 4 Sep 1965 (35),Barrow AFC (3),2-2,?,Aldershot Town FC (25)
+?,(Sat) 18 Dec 1965 (50),Barrow AFC (4),1-5,?,Barnsley FC (25)
+?,(Sat) 23 Oct 1965 (42),Barrow AFC (5),2-0,?,Bradford City (3)
+?,(Sat) 5 Feb 1966 (5),Barrow AFC (6),5-2,?,Bradford Park Avenue (3)
+?,(Sat) 20 Nov 1965 (46),Barrow AFC (7),4-1,?,Chester FC (3)
+?,(Sat) 19 Mar 1966 (11),Barrow AFC (8),3-2,?,Chesterfield FC (3)
+?,(Sat) 9 Oct 1965 (40),Barrow AFC (9),3-0,?,Colchester United (3)
+?,(Mon) 18 Apr 1966 (16),Barrow AFC (10),1-1,?,Crewe Alexandra (3)
+?,(Sat) 7 May 1966 (18),Barrow AFC (11),1-1,?,Darlington FC (3)
+?,(Mon) 27 Dec 1965 (52),Barrow AFC (12),2-1,?,Doncaster Rovers (3)
+?,(Sat) 8 Jan 1966 (1),Barrow AFC (13),3-0,?,Halifax Town (3)
+?,(Mon) 4 Oct 1965 (40),Barrow AFC (14),2-0,?,Hartlepool United (3)
+?,(Thu) 12 May 1966 (19),Barrow AFC (15),2-2,?,Lincoln City (3)
+?,(Mon) 25 Apr 1966 (17),Barrow AFC (16),0-1,?,Luton Town (3)
+?,(Sat) 26 Feb 1966 (8),Barrow AFC (17),2-2,?,Newport County AFC (3)
+?,(Sat) 23 Apr 1966 (16),Barrow AFC (18),2-1,?,Notts County FC (3)
+?,(Sat) 6 Nov 1965 (44),Barrow AFC (19),2-2,?,Port Vale FC (3)
+?,(Sat) 2 Oct 1965 (39),Barrow AFC (20),0-2,?,Rochdale AFC (3)
+?,(Mon) 13 Sep 1965 (37),Barrow AFC (21),3-3,?,Southport FC (3)
+?,(Sat) 5 Mar 1966 (9),Barrow AFC (22),1-0,?,Stockport County (3)
+?,(Sat) 18 Sep 1965 (37),Barrow AFC (23),2-0,?,Torquay United (3)
+?,(Mon) 11 Apr 1966 (15),Barrow AFC (24),1-1,?,Tranmere Rovers (3)
+?,(Sat) 21 Aug 1965 (33),Barrow AFC (25),4-2,?,Wrexham AFC (3)
+?,(Sat) 30 Apr 1966 (17),Bradford City (4),1-1,?,Aldershot Town FC (26)
+?,(Sat) 5 Feb 1966 (5),Bradford City (5),1-0,?,Barnsley FC (26)
+?,(Sat) 15 Jan 1966 (2),Bradford City (6),0-0,?,Barrow AFC (26)
+?,(Wed) 16 Feb 1966 (7),Bradford City (7),3-0,?,Bradford Park Avenue (4)
+?,(Sat) 5 Mar 1966 (9),Bradford City (8),1-2,?,Chester FC (4)
+?,(Mon) 11 Apr 1966 (15),Bradford City (9),1-1,?,Chesterfield FC (4)
+?,(Sat) 4 Sep 1965 (35),Bradford City (10),1-2,?,Colchester United (4)
+?,(Wed) 25 Aug 1965 (34),Bradford City (11),0-1,?,Crewe Alexandra (4)
+?,(Sat) 19 Mar 1966 (11),Bradford City (12),2-0,?,Darlington FC (4)
+?,(Mon) 16 May 1966 (20),Bradford City (13),1-1,?,Doncaster Rovers (4)
+?,(Wed) 16 Mar 1966 (11),Bradford City (14),0-1,?,Halifax Town (4)
+?,(Sat) 30 Oct 1965 (43),Bradford City (15),1-3,?,Hartlepool United (4)
+?,(Sat) 2 Oct 1965 (39),Bradford City (16),2-0,?,Lincoln City (4)
+?,(Sat) 16 Oct 1965 (41),Bradford City (17),2-2,?,Luton Town (4)
+?,(Sat) 11 Dec 1965 (49),Bradford City (18),3-2,?,Newport County AFC (4)
+?,(Wed) 27 Apr 1966 (17),Bradford City (19),0-4,?,Notts County FC (4)
+?,(Wed) 12 Jan 1966 (2),Bradford City (20),2-0,?,Port Vale FC (4)
+?,(Sat) 1 Jan 1966 (0),Bradford City (21),2-1,?,Rochdale AFC (4)
+?,(Wed) 20 Apr 1966 (16),Bradford City (22),3-0,?,Southport FC (4)
+?,(Sat) 18 Sep 1965 (37),Bradford City (23),1-7,?,Stockport County (4)
+?,(Sat) 21 Aug 1965 (33),Bradford City (24),4-1,?,Torquay United (4)
+?,(Sat) 26 Feb 1966 (8),Bradford City (25),2-4,?,Tranmere Rovers (4)
+?,(Thu) 12 May 1966 (19),Bradford City (26),4-1,?,Wrexham AFC (4)
+?,(Mon) 1 Nov 1965 (44),Bradford Park Avenue (5),5-1,?,Aldershot Town FC (27)
+?,(Sat) 20 Nov 1965 (46),Bradford Park Avenue (6),7-2,?,Barnsley FC (27)
+?,(Sat) 28 Aug 1965 (34),Bradford Park Avenue (7),2-3,?,Barrow AFC (27)
+?,(Sat) 23 Apr 1966 (16),Bradford Park Avenue (8),5-1,?,Bradford City (27)
+?,(Tue) 12 Apr 1966 (15),Bradford Park Avenue (9),0-1,?,Chester FC (5)
+?,(Tue) 4 Jan 1966 (1),Bradford Park Avenue (10),3-1,?,Chesterfield FC (5)
+?,(Sat) 8 Jan 1966 (1),Bradford Park Avenue (11),1-0,?,Colchester United (5)
+?,(Sat) 9 Apr 1966 (14),Bradford Park Avenue (12),2-1,?,Crewe Alexandra (5)
+?,(Sat) 23 Oct 1965 (42),Bradford Park Avenue (13),0-2,?,Darlington FC (5)
+?,(Sat) 11 Sep 1965 (36),Bradford Park Avenue (14),0-1,?,Doncaster Rovers (5)
+?,(Sat) 26 Mar 1966 (12),Bradford Park Avenue (15),2-1,?,Halifax Town (5)
+?,(Tue) 19 Apr 1966 (16),Bradford Park Avenue (16),4-1,?,Hartlepool United (5)
+?,(Sat) 18 Dec 1965 (50),Bradford Park Avenue (17),4-2,?,Lincoln City (5)
+?,(Sat) 29 Jan 1966 (4),Bradford Park Avenue (18),1-3,?,Luton Town (5)
+?,(Sat) 12 Feb 1966 (6),Bradford Park Avenue (19),6-1,?,Newport County AFC (5)
+?,(Sat) 9 Oct 1965 (40),Bradford Park Avenue (20),4-0,?,Notts County FC (5)
+?,(Sat) 7 May 1966 (18),Bradford Park Avenue (21),1-2,?,Port Vale FC (5)
+?,(Tue) 24 Aug 1965 (34),Bradford Park Avenue (22),1-2,?,Rochdale AFC (5)
+?,(Sat) 12 Mar 1966 (10),Bradford Park Avenue (23),2-1,?,Southport FC (5)
+?,(Tue) 24 May 1966 (21),Bradford Park Avenue (24),3-1,?,Stockport County (5)
+?,(Mon) 4 Oct 1965 (40),Bradford Park Avenue (25),1-1,?,Torquay United (5)
+?,(Sat) 6 Nov 1965 (44),Bradford Park Avenue (26),1-1,?,Tranmere Rovers (5)
+?,(Sat) 25 Sep 1965 (38),Bradford Park Avenue (27),4-2,?,Wrexham AFC (5)
+?,(Sat) 1 Jan 1966 (0),Chester FC (6),3-2,?,Aldershot Town FC (28)
+?,(Wed) 6 Oct 1965 (40),Chester FC (7),3-3,?,Barnsley FC (28)
+?,(Sat) 16 Apr 1966 (15),Chester FC (8),0-0,?,Barrow AFC (28)
+?,(Sat) 12 Feb 1966 (6),Chester FC (9),4-0,?,Bradford City (28)
+?,(Fri) 8 Apr 1966 (14),Chester FC (10),2-4,?,Bradford Park Avenue (28)
+?,(Sat) 30 Oct 1965 (43),Chester FC (11),3-0,?,Chesterfield FC (6)
+?,(Tue) 28 Dec 1965 (52),Chester FC (12),2-1,?,Colchester United (6)
+?,(Wed) 27 Oct 1965 (43),Chester FC (13),3-0,?,Crewe Alexandra (6)
+?,(Sat) 5 Feb 1966 (5),Chester FC (14),3-2,?,Darlington FC (6)
+?,(Sat) 30 Apr 1966 (17),Chester FC (15),1-4,?,Doncaster Rovers (6)
+?,(Sat) 25 Sep 1965 (38),Chester FC (16),1-0,?,Halifax Town (6)
+?,(Sat) 27 Nov 1965 (47),Chester FC (17),2-0,?,Hartlepool United (6)
+?,(Sat) 4 Sep 1965 (35),Chester FC (18),4-2,?,Lincoln City (6)
+?,(Sat) 28 May 1966 (21),Chester FC (19),1-1,?,Luton Town (6)
+?,(Sat) 16 Oct 1965 (41),Chester FC (20),6-1,?,Newport County AFC (6)
+?,(Sat) 26 Feb 1966 (8),Chester FC (21),1-1,?,Notts County FC (6)
+?,(Sat) 26 Mar 1966 (12),Chester FC (22),2-0,?,Port Vale FC (6)
+?,(Sat) 2 Apr 1966 (13),Chester FC (23),1-2,?,Rochdale AFC (6)
+?,(Sat) 11 Dec 1965 (49),Chester FC (24),1-0,?,Southport FC (6)
+?,(Sat) 21 Aug 1965 (33),Chester FC (25),1-0,?,Stockport County (6)
+?,(Sat) 15 Jan 1966 (2),Chester FC (26),1-1,?,Torquay United (6)
+?,(Wed) 15 Sep 1965 (37),Chester FC (27),3-1,?,Tranmere Rovers (6)
+?,(Sat) 18 Sep 1965 (37),Chester FC (28),4-2,?,Wrexham AFC (6)
+?,(Mon) 23 Aug 1965 (34),Chesterfield FC (7),1-1,?,Aldershot Town FC (29)
+?,(Sat) 19 Feb 1966 (7),Chesterfield FC (8),3-1,?,Barnsley FC (29)
+?,(Sat) 25 Sep 1965 (38),Chesterfield FC (9),2-2,?,Barrow AFC (29)
+?,(Fri) 8 Apr 1966 (14),Chesterfield FC (10),1-1,?,Bradford City (29)
+?,(Mon) 27 Dec 1965 (52),Chesterfield FC (11),0-3,?,Bradford Park Avenue (29)
+?,(Mon) 28 Mar 1966 (13),Chesterfield FC (12),2-2,?,Chester FC (29)
+?,(Sat) 7 May 1966 (18),Chesterfield FC (13),2-4,?,Colchester United (7)
+?,(Sat) 9 Oct 1965 (40),Chesterfield FC (14),3-1,?,Crewe Alexandra (7)
+?,(Sat) 20 Nov 1965 (46),Chesterfield FC (15),1-2,?,Darlington FC (7)
+?,(Mon) 25 Apr 1966 (17),Chesterfield FC (16),1-1,?,Doncaster Rovers (7)
+?,(Sat) 23 Oct 1965 (42),Chesterfield FC (17),3-2,?,Halifax Town (7)
+?,(Fri) 25 Mar 1966 (12),Chesterfield FC (18),1-3,?,Hartlepool United (7)
+?,(Sat) 8 Jan 1966 (1),Chesterfield FC (19),1-0,?,Lincoln City (7)
+?,(Sat) 12 Mar 1966 (10),Chesterfield FC (20),1-3,?,Luton Town (7)
+?,(Sat) 21 Aug 1965 (33),Chesterfield FC (21),1-2,?,Newport County AFC (7)
+?,(Sat) 6 Nov 1965 (44),Chesterfield FC (22),0-0,?,Notts County FC (7)
+?,(Sat) 18 Dec 1965 (50),Chesterfield FC (23),3-1,?,Port Vale FC (7)
+?,(Sat) 11 Sep 1965 (36),Chesterfield FC (24),4-1,?,Rochdale AFC (7)
+?,(Mon) 2 May 1966 (18),Chesterfield FC (25),3-2,?,Southport FC (7)
+?,(Sat) 23 Apr 1966 (16),Chesterfield FC (26),2-1,?,Stockport County (7)
+?,(Sat) 5 Feb 1966 (5),Chesterfield FC (27),1-1,?,Torquay United (7)
+?,(Sat) 9 Apr 1966 (14),Chesterfield FC (28),0-0,?,Tranmere Rovers (7)
+?,(Mon) 6 Sep 1965 (36),Chesterfield FC (29),1-1,?,Wrexham AFC (7)
+?,(Sat) 16 Apr 1966 (15),Colchester United (8),0-0,?,Aldershot Town FC (30)
+?,(Sat) 11 Sep 1965 (36),Colchester United (9),4-0,?,Barnsley FC (30)
+?,(Sat) 1 Jan 1966 (0),Colchester United (10),2-2,?,Barrow AFC (30)
+?,(Sat) 19 Feb 1966 (7),Colchester United (11),0-1,?,Bradford City (30)
+?,(Mon) 28 Feb 1966 (9),Colchester United (12),6-3,?,Bradford Park Avenue (30)
+?,(Mon) 27 Dec 1965 (52),Colchester United (13),1-1,?,Chester FC (30)
+?,(Sat) 11 Dec 1965 (49),Colchester United (14),3-0,?,Chesterfield FC (30)
+?,(Sat) 28 Aug 1965 (34),Colchester United (15),1-1,?,Crewe Alexandra (8)
+?,(Mon) 25 Apr 1966 (17),Colchester United (16),0-1,?,Darlington FC (8)
+?,(Sat) 15 Jan 1966 (2),Colchester United (17),2-1,?,Doncaster Rovers (8)
+?,(Mon) 23 Aug 1965 (34),Colchester United (18),1-0,?,Halifax Town (8)
+?,(Sat) 16 Oct 1965 (41),Colchester United (19),2-0,?,Hartlepool United (8)
+?,(Sat) 5 Mar 1966 (9),Colchester United (20),3-0,?,Lincoln City (8)
+?,(Fri) 8 Apr 1966 (14),Colchester United (21),2-2,?,Luton Town (8)
+?,(Sat) 27 Nov 1965 (47),Colchester United (22),3-2,?,Newport County AFC (8)
+?,(Mon) 22 Nov 1965 (47),Colchester United (23),4-1,?,Notts County FC (8)
+?,(Sat) 29 Jan 1966 (4),Colchester United (24),3-0,?,Port Vale FC (8)
+?,(Sat) 18 Sep 1965 (37),Colchester United (25),2-0,?,Rochdale AFC (8)
+?,(Sat) 30 Oct 1965 (43),Colchester United (26),0-0,?,Southport FC (8)
+?,(Sat) 2 Oct 1965 (39),Colchester United (27),3-2,?,Stockport County (8)
+?,(Sat) 30 Apr 1966 (17),Colchester United (28),0-2,?,Torquay United (8)
+?,(Sat) 19 Mar 1966 (11),Colchester United (29),2-1,?,Tranmere Rovers (8)
+?,(Sat) 2 Apr 1966 (13),Colchester United (30),1-1,?,Wrexham AFC (8)
+?,(Sat) 11 Dec 1965 (49),Crewe Alexandra (9),2-0,?,Aldershot Town FC (31)
+?,(Sat) 21 Aug 1965 (33),Crewe Alexandra (10),0-1,?,Barnsley FC (31)
+?,(Fri) 29 Oct 1965 (43),Crewe Alexandra (11),2-1,?,Barrow AFC (31)
+?,(Wed) 15 Sep 1965 (37),Crewe Alexandra (12),7-1,?,Bradford City (31)
+?,(Sat) 30 Apr 1966 (17),Crewe Alexandra (13),2-5,?,Bradford Park Avenue (31)
+?,(Wed) 18 May 1966 (20),Crewe Alexandra (14),1-1,?,Chester FC (31)
+?,(Sat) 1 Jan 1966 (0),Crewe Alexandra (15),1-0,?,Chesterfield FC (31)
+?,(Sat) 5 Feb 1966 (5),Crewe Alexandra (16),0-2,?,Colchester United (31)
+?,(Fri) 17 Sep 1965 (37),Crewe Alexandra (17),0-1,?,Darlington FC (9)
+?,(Wed) 11 May 1966 (19),Crewe Alexandra (18),0-1,?,Doncaster Rovers (9)
+?,(Wed) 23 Feb 1966 (8),Crewe Alexandra (19),3-0,?,Halifax Town (9)
+?,(Fri) 1 Apr 1966 (13),Crewe Alexandra (20),3-1,?,Hartlepool United (9)
+?,(Fri) 18 Mar 1966 (11),Crewe Alexandra (21),7-0,?,Lincoln City (9)
+?,(Sat) 15 Jan 1966 (2),Crewe Alexandra (22),2-0,?,Luton Town (9)
+?,(Wed) 2 Mar 1966 (9),Crewe Alexandra (23),2-2,?,Newport County AFC (9)
+?,(Fri) 1 Oct 1965 (39),Crewe Alexandra (24),1-0,?,Notts County FC (9)
+?,(Wed) 9 Mar 1966 (10),Crewe Alexandra (25),0-0,?,Port Vale FC (9)
+?,(Sat) 16 Oct 1965 (41),Crewe Alexandra (26),3-1,?,Rochdale AFC (9)
+?,(Fri) 15 Apr 1966 (15),Crewe Alexandra (27),2-1,?,Southport FC (9)
+?,(Wed) 4 May 1966 (18),Crewe Alexandra (28),1-1,?,Stockport County (9)
+?,(Fri) 8 Apr 1966 (14),Crewe Alexandra (29),2-1,?,Torquay United (9)
+?,(Sat) 4 Sep 1965 (35),Crewe Alexandra (30),1-2,?,Tranmere Rovers (9)
+?,(Sat) 27 Nov 1965 (47),Crewe Alexandra (31),0-1,?,Wrexham AFC (9)
+?,(Sat) 30 Oct 1965 (43),Darlington FC (10),4-3,?,Aldershot Town FC (32)
+?,(Sat) 26 Mar 1966 (12),Darlington FC (11),2-1,?,Barnsley FC (32)
+?,(Sat) 11 Dec 1965 (49),Darlington FC (12),1-0,?,Barrow AFC (32)
+?,(Sat) 25 Sep 1965 (38),Darlington FC (13),3-0,?,Bradford City (32)
+?,(Mon) 14 Mar 1966 (11),Darlington FC (14),4-1,?,Bradford Park Avenue (32)
+?,(Sat) 28 Aug 1965 (34),Darlington FC (15),0-1,?,Chester FC (32)
+?,(Sat) 16 Apr 1966 (15),Darlington FC (16),4-1,?,Chesterfield FC (32)
+?,(Mon) 16 May 1966 (20),Darlington FC (17),2-0,?,Colchester United (32)
+?,(Sat) 12 Mar 1966 (10),Darlington FC (18),1-1,?,Crewe Alexandra (32)
+?,(Mon) 11 Apr 1966 (15),Darlington FC (19),3-2,?,Doncaster Rovers (10)
+?,(Mon) 28 Mar 1966 (13),Darlington FC (20),2-0,?,Halifax Town (10)
+?,(Tue) 28 Dec 1965 (52),Darlington FC (21),1-1,?,Hartlepool United (10)
+?,(Mon) 23 Aug 1965 (34),Darlington FC (22),0-2,?,Lincoln City (10)
+?,(Sat) 30 Apr 1966 (17),Darlington FC (23),1-0,?,Luton Town (10)
+?,(Mon) 9 May 1966 (19),Darlington FC (24),0-1,?,Newport County AFC (10)
+?,(Sat) 29 Jan 1966 (4),Darlington FC (25),1-0,?,Notts County FC (10)
+?,(Sat) 11 Sep 1965 (36),Darlington FC (26),2-1,?,Port Vale FC (10)
+?,(Mon) 28 Feb 1966 (9),Darlington FC (27),3-1,?,Rochdale AFC (10)
+?,(Sat) 1 Jan 1966 (0),Darlington FC (28),2-0,?,Southport FC (10)
+?,(Mon) 4 Oct 1965 (40),Darlington FC (29),3-0,?,Stockport County (10)
+?,(Sat) 21 May 1966 (20),Darlington FC (30),0-0,?,Torquay United (10)
+?,(Mon) 7 Mar 1966 (10),Darlington FC (31),0-1,?,Tranmere Rovers (10)
+?,(Sat) 16 Oct 1965 (41),Darlington FC (32),2-0,?,Wrexham AFC (10)
+?,(Fri) 17 Sep 1965 (37),Doncaster Rovers (11),3-2,?,Aldershot Town FC (33)
+?,(Tue) 3 May 1966 (18),Doncaster Rovers (12),2-1,?,Barnsley FC (33)
+?,(Tue) 28 Dec 1965 (52),Doncaster Rovers (13),1-1,?,Barrow AFC (33)
+?,(Sat) 6 Nov 1965 (44),Doncaster Rovers (14),1-1,?,Bradford City (33)
+?,(Fri) 25 Feb 1966 (8),Doncaster Rovers (15),6-2,?,Bradford Park Avenue (33)
+?,(Sat) 9 Apr 1966 (14),Doncaster Rovers (16),1-1,?,Chester FC (33)
+?,(Tue) 15 Feb 1966 (7),Doncaster Rovers (17),1-0,?,Chesterfield FC (33)
+?,(Sat) 4 Dec 1965 (48),Doncaster Rovers (18),2-0,?,Colchester United (33)
+?,(Sat) 8 Jan 1966 (1),Doncaster Rovers (19),4-1,?,Crewe Alexandra (33)
+?,(Tue) 12 Apr 1966 (15),Doncaster Rovers (20),6-3,?,Darlington FC (33)
+?,(Fri) 22 Apr 1966 (16),Doncaster Rovers (21),2-2,?,Halifax Town (11)
+?,(Tue) 24 Aug 1965 (34),Doncaster Rovers (22),4-0,?,Hartlepool United (11)
+?,(Sat) 21 Aug 1965 (33),Doncaster Rovers (23),4-0,?,Lincoln City (11)
+?,(Tue) 23 Nov 1965 (47),Doncaster Rovers (24),1-1,?,Luton Town (11)
+?,(Sat) 19 Mar 1966 (11),Doncaster Rovers (25),1-0,?,Newport County AFC (11)
+?,(Fri) 6 May 1966 (18),Doncaster Rovers (26),0-3,?,Notts County FC (11)
+?,(Fri) 19 Nov 1965 (46),Doncaster Rovers (27),1-0,?,Port Vale FC (11)
+?,(Fri) 4 Mar 1966 (9),Doncaster Rovers (28),2-0,?,Rochdale AFC (11)
+?,(Sat) 5 Feb 1966 (5),Doncaster Rovers (29),1-1,?,Southport FC (11)
+?,(Sat) 9 Oct 1965 (40),Doncaster Rovers (30),1-0,?,Stockport County (11)
+?,(Sat) 2 Oct 1965 (39),Doncaster Rovers (31),0-1,?,Torquay United (11)
+?,(Sat) 18 Dec 1965 (50),Doncaster Rovers (32),3-1,?,Tranmere Rovers (11)
+?,(Sat) 4 Sep 1965 (35),Doncaster Rovers (33),2-0,?,Wrexham AFC (11)
+?,(Tue) 12 Apr 1966 (15),Halifax Town (12),3-4,?,Aldershot Town FC (34)
+?,(Tue) 28 Dec 1965 (52),Halifax Town (13),2-2,?,Barnsley FC (34)
+?,(Sat) 22 Jan 1966 (3),Halifax Town (14),2-1,?,Barrow AFC (34)
+?,(Tue) 5 Oct 1965 (40),Halifax Town (15),3-2,?,Bradford City (34)
+?,(Fri) 1 Oct 1965 (39),Halifax Town (16),1-0,?,Bradford Park Avenue (34)
+?,(Fri) 18 Mar 1966 (11),Halifax Town (17),2-0,?,Chester FC (34)
+?,(Sat) 12 Feb 1966 (6),Halifax Town (18),4-1,?,Chesterfield FC (34)
+?,(Tue) 14 Sep 1965 (37),Halifax Town (19),1-1,?,Colchester United (34)
+?,(Sat) 5 Mar 1966 (9),Halifax Town (20),1-0,?,Crewe Alexandra (34)
+?,(Fri) 3 Sep 1965 (35),Halifax Town (21),2-2,?,Darlington FC (34)
+?,(Tue) 8 Mar 1966 (10),Halifax Town (22),2-3,?,Doncaster Rovers (34)
+?,(Fri) 15 Apr 1966 (15),Halifax Town (23),1-0,?,Hartlepool United (12)
+?,(Sat) 26 Feb 1966 (8),Halifax Town (24),2-2,?,Lincoln City (12)
+?,(Mon) 16 May 1966 (20),Halifax Town (25),3-0,?,Luton Town (12)
+?,(Fri) 31 Dec 1965 (52),Halifax Town (26),4-4,?,Newport County AFC (12)
+?,(Sat) 18 Sep 1965 (37),Halifax Town (27),0-1,?,Notts County FC (12)
+?,(Tue) 10 May 1966 (19),Halifax Town (28),2-0,?,Port Vale FC (12)
+?,(Fri) 29 Oct 1965 (43),Halifax Town (29),4-1,?,Rochdale AFC (12)
+?,(Fri) 29 Apr 1966 (17),Halifax Town (30),1-2,?,Southport FC (12)
+?,(Sat) 5 Feb 1966 (5),Halifax Town (31),0-1,?,Stockport County (12)
+?,(Sat) 16 Oct 1965 (41),Halifax Town (32),0-2,?,Torquay United (12)
+?,(Sat) 21 Aug 1965 (33),Halifax Town (33),2-2,?,Tranmere Rovers (12)
+?,(Fri) 10 Dec 1965 (49),Halifax Town (34),4-0,?,Wrexham AFC (12)
+?,(Sat) 26 Feb 1966 (8),Hartlepool United (13),3-0,?,Aldershot Town FC (35)
+?,(Sat) 23 Oct 1965 (42),Hartlepool United (14),1-2,?,Barnsley FC (35)
+?,(Mon) 9 May 1966 (19),Hartlepool United (15),3-0,?,Barrow AFC (35)
+?,(Sat) 21 May 1966 (20),Hartlepool United (16),1-1,?,Bradford City (35)
+?,(Sat) 4 Sep 1965 (35),Hartlepool United (17),2-3,?,Bradford Park Avenue (35)
+?,(Sat) 23 Apr 1966 (16),Hartlepool United (18),2-0,?,Chester FC (35)
+?,(Sat) 2 Oct 1965 (39),Hartlepool United (19),1-2,?,Chesterfield FC (35)
+?,(Sat) 18 Dec 1965 (50),Hartlepool United (20),0-1,?,Colchester United (35)
+?,(Sat) 6 Nov 1965 (44),Hartlepool United (21),4-1,?,Crewe Alexandra (35)
+?,(Mon) 27 Dec 1965 (52),Hartlepool United (22),1-1,?,Darlington FC (35)
+?,(Mon) 13 Sep 1965 (37),Hartlepool United (23),2-0,?,Doncaster Rovers (35)
+?,(Sat) 20 Nov 1965 (46),Hartlepool United (24),1-2,?,Halifax Town (35)
+?,(Sat) 7 May 1966 (18),Hartlepool United (25),3-1,?,Lincoln City (13)
+?,(Sat) 5 Mar 1966 (9),Hartlepool United (26),2-0,?,Luton Town (13)
+?,(Sat) 18 Sep 1965 (37),Hartlepool United (27),5-2,?,Newport County AFC (13)
+?,(Sat) 9 Apr 1966 (14),Hartlepool United (28),2-0,?,Notts County FC (13)
+?,(Sat) 8 Jan 1966 (1),Hartlepool United (29),2-0,?,Port Vale FC (13)
+?,(Mon) 16 May 1966 (20),Hartlepool United (30),0-0,?,Rochdale AFC (13)
+?,(Sat) 21 Aug 1965 (33),Hartlepool United (31),3-1,?,Southport FC (13)
+?,(Fri) 8 Apr 1966 (14),Hartlepool United (32),2-1,?,Stockport County (13)
+?,(Sat) 19 Mar 1966 (11),Hartlepool United (33),0-2,?,Torquay United (13)
+?,(Sat) 9 Oct 1965 (40),Hartlepool United (34),0-0,?,Tranmere Rovers (13)
+?,(Sat) 5 Feb 1966 (5),Hartlepool United (35),4-2,?,Wrexham AFC (13)
+?,(Sat) 15 Jan 1966 (2),Lincoln City (14),2-1,?,Aldershot Town FC (36)
+?,(Tue) 22 Mar 1966 (12),Lincoln City (15),4-1,?,Barnsley FC (36)
+?,(Sat) 30 Apr 1966 (17),Lincoln City (16),4-0,?,Barrow AFC (36)
+?,(Fri) 25 Mar 1966 (12),Lincoln City (17),1-0,?,Bradford City (36)
+?,(Fri) 15 Oct 1965 (41),Lincoln City (18),1-1,?,Bradford Park Avenue (36)
+?,(Sat) 19 Feb 1966 (7),Lincoln City (19),2-2,?,Chester FC (36)
+?,(Wed) 9 Mar 1966 (10),Lincoln City (20),0-2,?,Chesterfield FC (36)
+?,(Sat) 12 Feb 1966 (6),Lincoln City (21),0-2,?,Colchester United (36)
+?,(Fri) 24 Sep 1965 (38),Lincoln City (22),1-1,?,Crewe Alexandra (36)
+?,(Wed) 15 Sep 1965 (37),Lincoln City (23),4-1,?,Darlington FC (36)
+?,(Fri) 28 Jan 1966 (4),Lincoln City (24),0-3,?,Doncaster Rovers (36)
+?,(Sat) 11 Sep 1965 (36),Lincoln City (25),3-3,?,Halifax Town (36)
+?,(Sat) 11 Dec 1965 (49),Lincoln City (26),2-1,?,Hartlepool United (36)
+?,(Sat) 27 Nov 1965 (47),Lincoln City (27),2-2,?,Luton Town (14)
+?,(Sat) 30 Oct 1965 (43),Lincoln City (28),1-1,?,Newport County AFC (14)
+?,(Sat) 28 Aug 1965 (34),Lincoln City (29),1-2,?,Notts County FC (14)
+?,(Sat) 12 Mar 1966 (10),Lincoln City (30),0-1,?,Port Vale FC (14)
+?,(Sat) 16 Apr 1966 (15),Lincoln City (31),2-0,?,Rochdale AFC (14)
+?,(Fri) 8 Apr 1966 (14),Lincoln City (32),4-0,?,Southport FC (14)
+?,(Tue) 15 Mar 1966 (11),Lincoln City (33),1-2,?,Stockport County (14)
+?,(Sat) 2 Apr 1966 (13),Lincoln City (34),1-1,?,Torquay United (14)
+?,(Wed) 6 Oct 1965 (40),Lincoln City (35),1-0,?,Tranmere Rovers (14)
+?,(Sat) 1 Jan 1966 (0),Lincoln City (36),0-2,?,Wrexham AFC (14)
+?,(Sat) 5 Feb 1966 (5),Luton Town (15),3-1,?,Aldershot Town FC (37)
+?,(Sat) 9 Oct 1965 (40),Luton Town (16),5-4,?,Barnsley FC (37)
+?,(Thu) 19 May 1966 (20),Luton Town (17),3-2,?,Barrow AFC (37)
+?,(Sat) 18 Dec 1965 (50),Luton Town (18),2-3,?,Bradford City (37)
+?,(Sat) 21 Aug 1965 (33),Luton Town (19),3-1,?,Bradford Park Avenue (37)
+?,(Sat) 8 Jan 1966 (1),Luton Town (20),5-2,?,Chester FC (37)
+?,(Sat) 18 Sep 1965 (37),Luton Town (21),1-2,?,Chesterfield FC (37)
+?,(Mon) 11 Apr 1966 (15),Luton Town (22),1-1,?,Colchester United (37)
+?,(Sat) 23 Oct 1965 (42),Luton Town (23),4-0,?,Crewe Alexandra (37)
+?,(Sat) 9 Apr 1966 (14),Luton Town (24),2-0,?,Darlington FC (37)
+?,(Thu) 7 Oct 1965 (40),Luton Town (25),4-3,?,Doncaster Rovers (37)
+?,(Sat) 6 Nov 1965 (44),Luton Town (26),4-1,?,Halifax Town (37)
+?,(Sat) 12 Feb 1966 (6),Luton Town (27),2-1,?,Hartlepool United (37)
+?,(Sat) 23 Apr 1966 (16),Luton Town (28),0-0,?,Lincoln City (37)
+?,(Sat) 4 Sep 1965 (35),Luton Town (29),2-1,?,Newport County AFC (15)
+?,(Sat) 20 Nov 1965 (46),Luton Town (30),5-1,?,Notts County FC (15)
+?,(Sat) 14 May 1966 (19),Luton Town (31),5-0,?,Port Vale FC (15)
+?,(Sat) 19 Mar 1966 (11),Luton Town (32),4-1,?,Rochdale AFC (15)
+?,(Tue) 28 Dec 1965 (52),Luton Town (33),2-0,?,Southport FC (15)
+?,(Sat) 7 May 1966 (18),Luton Town (34),2-0,?,Stockport County (15)
+?,(Sat) 26 Feb 1966 (8),Luton Town (35),3-2,?,Torquay United (15)
+?,(Sat) 26 Mar 1966 (12),Luton Town (36),2-1,?,Tranmere Rovers (15)
+?,(Thu) 16 Sep 1965 (37),Luton Town (37),1-0,?,Wrexham AFC (15)
+?,(Mon) 22 Nov 1965 (47),Newport County AFC (16),3-1,?,Aldershot Town FC (38)
+?,(Sat) 9 Apr 1966 (14),Newport County AFC (17),1-0,?,Barnsley FC (38)
+?,(Sat) 11 Sep 1965 (36),Newport County AFC (18),3-2,?,Barrow AFC (38)
+?,(Sat) 7 May 1966 (18),Newport County AFC (19),2-2,?,Bradford City (38)
+?,(Mon) 7 Mar 1966 (10),Newport County AFC (20),3-1,?,Bradford Park Avenue (38)
+?,(Mon) 23 May 1966 (21),Newport County AFC (21),3-2,?,Chester FC (38)
+?,(Mon) 31 Jan 1966 (5),Newport County AFC (22),3-4,?,Chesterfield FC (38)
+?,(Sat) 28 May 1966 (21),Newport County AFC (23),2-1,?,Colchester United (38)
+?,(Mon) 21 Mar 1966 (12),Newport County AFC (24),1-0,?,Crewe Alexandra (38)
+?,(Mon) 8 Nov 1965 (45),Newport County AFC (25),3-0,?,Darlington FC (38)
+?,(Sat) 25 Sep 1965 (38),Newport County AFC (26),4-0,?,Doncaster Rovers (38)
+?,(Sat) 9 Oct 1965 (40),Newport County AFC (27),3-1,?,Halifax Town (38)
+?,(Sat) 12 Mar 1966 (10),Newport County AFC (28),3-0,?,Hartlepool United (38)
+?,(Mon) 2 May 1966 (18),Newport County AFC (29),0-0,?,Lincoln City (38)
+?,(Wed) 25 May 1966 (21),Newport County AFC (30),3-1,?,Luton Town (38)
+?,(Mon) 25 Oct 1965 (43),Newport County AFC (31),1-2,?,Notts County FC (16)
+?,(Mon) 11 Apr 1966 (15),Newport County AFC (32),0-1,?,Port Vale FC (16)
+?,(Sat) 28 Aug 1965 (34),Newport County AFC (33),1-1,?,Rochdale AFC (16)
+?,(Fri) 25 Mar 1966 (12),Newport County AFC (34),1-1,?,Southport FC (16)
+?,(Sat) 8 Jan 1966 (1),Newport County AFC (35),1-0,?,Stockport County (16)
+?,(Mon) 13 Sep 1965 (37),Newport County AFC (36),3-2,?,Torquay United (16)
+?,(Fri) 19 Nov 1965 (46),Newport County AFC (37),0-0,?,Tranmere Rovers (16)
+?,(Mon) 16 May 1966 (20),Newport County AFC (38),2-2,?,Wrexham AFC (16)
+?,(Sat) 16 Oct 1965 (41),Notts County FC (17),2-0,?,Aldershot Town FC (39)
+?,(Sat) 5 Mar 1966 (9),Notts County FC (18),0-1,?,Barnsley FC (39)
+?,(Sat) 27 Nov 1965 (47),Notts County FC (19),0-2,?,Barrow AFC (39)
+?,(Wed) 18 May 1966 (20),Notts County FC (20),2-1,?,Bradford City (39)
+?,(Sat) 1 Jan 1966 (0),Notts County FC (21),2-0,?,Bradford Park Avenue (39)
+?,(Sat) 11 Sep 1965 (36),Notts County FC (22),3-3,?,Chester FC (39)
+?,(Sat) 2 Apr 1966 (13),Notts County FC (23),2-0,?,Chesterfield FC (39)
+?,(Thu) 7 Oct 1965 (40),Notts County FC (24),1-0,?,Colchester United (39)
+?,(Sat) 26 Mar 1966 (12),Notts County FC (25),0-1,?,Crewe Alexandra (39)
+?,(Sat) 21 Aug 1965 (33),Notts County FC (26),0-0,?,Darlington FC (39)
+?,(Sat) 11 Dec 1965 (49),Notts County FC (27),1-2,?,Doncaster Rovers (39)
+?,(Sat) 12 Mar 1966 (10),Notts County FC (28),1-1,?,Halifax Town (39)
+?,(Sat) 30 Apr 1966 (17),Notts County FC (29),1-0,?,Hartlepool United (39)
+?,(Sat) 5 Feb 1966 (5),Notts County FC (30),2-1,?,Lincoln City (39)
+?,(Sat) 16 Apr 1966 (15),Notts County FC (31),1-1,?,Luton Town (39)
+?,(Sat) 15 Jan 1966 (2),Notts County FC (32),1-1,?,Newport County AFC (39)
+?,(Sat) 25 Sep 1965 (38),Notts County FC (33),3-1,?,Port Vale FC (17)
+?,(Sat) 21 May 1966 (20),Notts County FC (34),3-3,?,Rochdale AFC (17)
+?,(Sat) 4 Sep 1965 (35),Notts County FC (35),1-2,?,Southport FC (17)
+?,(Thu) 16 Sep 1965 (37),Notts County FC (36),1-1,?,Stockport County (17)
+?,(Sat) 30 Oct 1965 (43),Notts County FC (37),1-1,?,Torquay United (17)
+?,(Fri) 13 May 1966 (19),Notts County FC (38),1-2,?,Tranmere Rovers (17)
+?,(Mon) 11 Apr 1966 (15),Notts County FC (39),3-1,?,Wrexham AFC (17)
+?,(Sat) 5 Mar 1966 (9),Port Vale FC (18),2-1,?,Aldershot Town FC (40)
+?,(Mon) 13 Sep 1965 (37),Port Vale FC (19),1-1,?,Barnsley FC (40)
+?,(Mon) 2 May 1966 (18),Port Vale FC (20),0-0,?,Barrow AFC (40)
+?,(Mon) 4 Apr 1966 (14),Port Vale FC (21),0-0,?,Bradford City (40)
+?,(Sat) 11 Dec 1965 (49),Port Vale FC (22),3-3,?,Bradford Park Avenue (40)
+?,(Sat) 2 Oct 1965 (39),Port Vale FC (23),5-2,?,Chester FC (40)
+?,(Sat) 16 Oct 1965 (41),Port Vale FC (24),1-1,?,Chesterfield FC (40)
+?,(Sat) 21 Aug 1965 (33),Port Vale FC (25),1-0,?,Colchester United (40)
+?,(Mon) 4 Oct 1965 (40),Port Vale FC (26),2-0,?,Crewe Alexandra (40)
+?,(Sat) 26 Feb 1966 (8),Port Vale FC (27),3-1,?,Darlington FC (40)
+?,(Sat) 16 Apr 1966 (15),Port Vale FC (28),0-1,?,Doncaster Rovers (40)
+?,(Wed) 27 Apr 1966 (17),Port Vale FC (29),2-0,?,Halifax Town (40)
+?,(Mon) 21 Mar 1966 (12),Port Vale FC (30),0-0,?,Hartlepool United (40)
+?,(Sat) 18 Sep 1965 (37),Port Vale FC (31),3-0,?,Lincoln City (40)
+?,(Sat) 30 Oct 1965 (43),Port Vale FC (32),1-2,?,Luton Town (40)
+?,(Tue) 12 Apr 1966 (15),Port Vale FC (33),3-0,?,Newport County AFC (40)
+?,(Sat) 19 Mar 1966 (11),Port Vale FC (34),0-1,?,Notts County FC (40)
+?,(Sat) 15 Jan 1966 (2),Port Vale FC (35),2-1,?,Rochdale AFC (18)
+?,(Sat) 27 Nov 1965 (47),Port Vale FC (36),4-1,?,Southport FC (18)
+?,(Sat) 4 Sep 1965 (35),Port Vale FC (37),2-0,?,Stockport County (18)
+?,(Sat) 1 Jan 1966 (0),Port Vale FC (38),0-0,?,Torquay United (18)
+?,(Sat) 5 Feb 1966 (5),Port Vale FC (39),2-3,?,Tranmere Rovers (18)
+?,(Sat) 30 Apr 1966 (17),Port Vale FC (40),1-0,?,Wrexham AFC (18)
+?,(Sat) 21 Aug 1965 (33),Rochdale AFC (19),1-0,?,Aldershot Town FC (41)
+?,(Mon) 11 Apr 1966 (15),Rochdale AFC (20),2-1,?,Barnsley FC (41)
+?,(Fri) 25 Mar 1966 (12),Rochdale AFC (21),4-0,?,Barrow AFC (41)
+?,(Fri) 8 Oct 1965 (40),Rochdale AFC (22),5-1,?,Bradford City (41)
+?,(Tue) 14 Sep 1965 (37),Rochdale AFC (23),2-3,?,Bradford Park Avenue (41)
+?,(Fri) 5 Nov 1965 (44),Rochdale AFC (24),3-0,?,Chester FC (41)
+?,(Sat) 26 Feb 1966 (8),Rochdale AFC (25),1-1,?,Chesterfield FC (41)
+?,(Fri) 11 Mar 1966 (10),Rochdale AFC (26),0-1,?,Colchester United (41)
+?,(Sat) 18 Dec 1965 (50),Rochdale AFC (27),2-1,?,Crewe Alexandra (41)
+?,(Fri) 22 Apr 1966 (16),Rochdale AFC (28),1-2,?,Darlington FC (41)
+?,(Sat) 12 Feb 1966 (6),Rochdale AFC (29),0-1,?,Doncaster Rovers (41)
+?,(Tue) 19 Apr 1966 (16),Rochdale AFC (30),0-1,?,Halifax Town (41)
+?,(Tue) 26 Apr 1966 (17),Rochdale AFC (31),3-1,?,Hartlepool United (41)
+?,(Sat) 20 Nov 1965 (46),Rochdale AFC (32),0-1,?,Lincoln City (41)
+?,(Fri) 24 Sep 1965 (38),Rochdale AFC (33),1-2,?,Luton Town (41)
+?,(Sat) 5 Feb 1966 (5),Rochdale AFC (34),2-1,?,Newport County AFC (41)
+?,(Sat) 8 Jan 1966 (1),Rochdale AFC (35),0-2,?,Notts County FC (41)
+?,(Fri) 22 Oct 1965 (42),Rochdale AFC (36),1-0,?,Port Vale FC (41)
+?,(Tue) 5 Oct 1965 (40),Rochdale AFC (37),3-0,?,Southport FC (19)
+?,(Sat) 9 Apr 1966 (14),Rochdale AFC (38),4-0,?,Stockport County (19)
+?,(Sat) 4 Sep 1965 (35),Rochdale AFC (39),2-3,?,Torquay United (19)
+?,(Fri) 6 May 1966 (18),Rochdale AFC (40),3-5,?,Tranmere Rovers (19)
+?,(Mon) 27 Dec 1965 (52),Rochdale AFC (41),6-0,?,Wrexham AFC (19)
+?,(Fri) 18 Mar 1966 (11),Southport FC (20),0-2,?,Aldershot Town FC (42)
+?,(Mon) 4 Apr 1966 (14),Southport FC (21),3-1,?,Barnsley FC (42)
+?,(Mon) 23 Aug 1965 (34),Southport FC (22),1-1,?,Barrow AFC (42)
+?,(Sat) 8 Jan 1966 (1),Southport FC (23),4-0,?,Bradford City (42)
+?,(Fri) 17 Sep 1965 (37),Southport FC (24),2-1,?,Bradford Park Avenue (42)
+?,(Sat) 7 May 1966 (18),Southport FC (25),2-0,?,Chester FC (42)
+?,(Mon) 21 Mar 1966 (12),Southport FC (26),1-0,?,Chesterfield FC (42)
+?,(Tue) 10 May 1966 (19),Southport FC (27),0-1,?,Colchester United (42)
+?,(Sat) 20 Nov 1965 (46),Southport FC (28),1-1,?,Crewe Alexandra (42)
+?,(Fri) 8 Oct 1965 (40),Southport FC (29),1-1,?,Darlington FC (42)
+?,(Sat) 28 Aug 1965 (34),Southport FC (30),2-1,?,Doncaster Rovers (42)
+?,(Sat) 9 Apr 1966 (14),Southport FC (31),1-0,?,Halifax Town (42)
+?,(Sat) 29 Jan 1966 (4),Southport FC (32),4-1,?,Hartlepool United (42)
+?,(Mon) 11 Apr 1966 (15),Southport FC (33),5-1,?,Lincoln City (42)
+?,(Mon) 27 Dec 1965 (52),Southport FC (34),3-2,?,Luton Town (42)
+?,(Sat) 2 Oct 1965 (39),Southport FC (35),2-0,?,Newport County AFC (42)
+?,(Sat) 19 Feb 1966 (7),Southport FC (36),1-0,?,Notts County FC (42)
+?,(Sat) 23 Apr 1966 (16),Southport FC (37),2-1,?,Port Vale FC (42)
+?,(Mon) 22 Nov 1965 (47),Southport FC (38),4-0,?,Rochdale AFC (42)
+?,(Fri) 17 Dec 1965 (50),Southport FC (39),2-0,?,Stockport County (20)
+?,(Mon) 25 Apr 1966 (17),Southport FC (40),3-3,?,Torquay United (20)
+?,(Sat) 23 Oct 1965 (42),Southport FC (41),1-1,?,Tranmere Rovers (20)
+?,(Sat) 26 Feb 1966 (8),Southport FC (42),2-2,?,Wrexham AFC (20)
+?,(Mon) 16 May 1966 (20),Stockport County (21),1-2,?,Aldershot Town FC (43)
+?,(Fri) 24 Sep 1965 (38),Stockport County (22),1-0,?,Barnsley FC (43)
+?,(Fri) 11 Feb 1966 (6),Stockport County (23),5-2,?,Barrow AFC (43)
+?,(Mon) 21 Mar 1966 (12),Stockport County (24),1-1,?,Bradford City (43)
+?,(Fri) 29 Oct 1965 (43),Stockport County (25),2-3,?,Bradford Park Avenue (43)
+?,(Fri) 28 Jan 1966 (4),Stockport County (26),0-1,?,Chester FC (43)
+?,(Fri) 26 Nov 1965 (47),Stockport County (27),2-1,?,Chesterfield FC (43)
+?,(Fri) 25 Mar 1966 (12),Stockport County (28),1-0,?,Colchester United (43)
+?,(Fri) 10 Sep 1965 (36),Stockport County (29),2-0,?,Crewe Alexandra (43)
+?,(Mon) 22 Nov 1965 (47),Stockport County (30),1-1,?,Darlington FC (43)
+?,(Sat) 1 Jan 1966 (0),Stockport County (31),1-1,?,Doncaster Rovers (43)
+?,(Fri) 27 Aug 1965 (34),Stockport County (32),3-0,?,Halifax Town (43)
+?,(Mon) 11 Apr 1966 (15),Stockport County (33),1-2,?,Hartlepool United (43)
+?,(Mon) 21 Feb 1966 (8),Stockport County (34),2-1,?,Lincoln City (43)
+?,(Fri) 10 Dec 1965 (49),Stockport County (35),4-1,?,Luton Town (43)
+?,(Fri) 20 May 1966 (20),Stockport County (36),2-1,?,Newport County AFC (43)
+?,(Mon) 23 Aug 1965 (34),Stockport County (37),1-3,?,Notts County FC (43)
+?,(Fri) 18 Feb 1966 (7),Stockport County (38),3-0,?,Port Vale FC (43)
+?,(Fri) 29 Apr 1966 (17),Stockport County (39),3-1,?,Rochdale AFC (43)
+?,(Fri) 15 Oct 1965 (41),Stockport County (40),2-2,?,Southport FC (43)
+?,(Fri) 15 Apr 1966 (15),Stockport County (41),1-0,?,Torquay United (21)
+?,(Mon) 6 Sep 1965 (36),Stockport County (42),1-2,?,Tranmere Rovers (21)
+?,(Fri) 14 Jan 1966 (2),Stockport County (43),2-4,?,Wrexham AFC (21)
+?,(Mon) 27 Dec 1965 (52),Torquay United (22),5-1,?,Aldershot Town FC (44)
+?,(Wed) 20 Oct 1965 (42),Torquay United (23),3-0,?,Barnsley FC (44)
+?,(Sat) 12 Mar 1966 (10),Torquay United (24),0-1,?,Barrow AFC (44)
+?,(Sat) 29 Jan 1966 (4),Torquay United (25),4-3,?,Bradford City (44)
+?,(Tue) 23 Nov 1965 (47),Torquay United (26),2-1,?,Bradford Park Avenue (44)
+?,(Sat) 23 Oct 1965 (42),Torquay United (27),1-0,?,Chester FC (44)
+?,(Sat) 28 Aug 1965 (34),Torquay United (28),2-0,?,Chesterfield FC (44)
+?,(Sat) 9 Apr 1966 (14),Torquay United (29),0-1,?,Colchester United (44)
+?,(Mon) 11 Apr 1966 (15),Torquay United (30),2-1,?,Crewe Alexandra (44)
+?,(Sat) 8 Jan 1966 (1),Torquay United (31),0-4,?,Darlington FC (44)
+?,(Sat) 26 Mar 1966 (12),Torquay United (32),0-0,?,Doncaster Rovers (44)
+?,(Mon) 2 May 1966 (18),Torquay United (33),1-0,?,Halifax Town (44)
+?,(Sat) 25 Sep 1965 (38),Torquay United (34),2-0,?,Hartlepool United (44)
+?,(Sat) 6 Nov 1965 (44),Torquay United (35),4-1,?,Lincoln City (44)
+?,(Sat) 11 Sep 1965 (36),Torquay United (36),2-0,?,Luton Town (44)
+?,(Wed) 25 Aug 1965 (34),Torquay United (37),1-0,?,Newport County AFC (44)
+?,(Mon) 9 May 1966 (19),Torquay United (38),2-0,?,Notts County FC (44)
+?,(Sat) 9 Oct 1965 (40),Torquay United (39),1-0,?,Port Vale FC (44)
+?,(Sat) 19 Feb 1966 (7),Torquay United (40),4-0,?,Rochdale AFC (44)
+?,(Wed) 22 Sep 1965 (38),Torquay United (41),1-1,?,Southport FC (44)
+?,(Sat) 20 Nov 1965 (46),Torquay United (42),1-4,?,Stockport County (44)
+?,(Sat) 23 Apr 1966 (16),Torquay United (43),2-1,?,Tranmere Rovers (22)
+?,(Sat) 12 Feb 1966 (6),Torquay United (44),3-1,?,Wrexham AFC (22)
+?,(Mon) 18 Oct 1965 (42),Tranmere Rovers (23),5-2,?,Aldershot Town FC (45)
+?,(Fri) 11 Mar 1966 (10),Tranmere Rovers (24),1-0,?,Barnsley FC (45)
+?,(Fri) 8 Apr 1966 (14),Tranmere Rovers (25),1-2,?,Barrow AFC (45)
+?,(Fri) 10 Sep 1965 (36),Tranmere Rovers (26),2-2,?,Bradford City (45)
+?,(Fri) 1 Apr 1966 (13),Tranmere Rovers (27),1-2,?,Bradford Park Avenue (45)
+?,(Mon) 23 Aug 1965 (34),Tranmere Rovers (28),1-0,?,Chester FC (45)
+?,(Fri) 29 Apr 1966 (17),Tranmere Rovers (29),3-2,?,Chesterfield FC (45)
+?,(Fri) 24 Sep 1965 (38),Tranmere Rovers (30),2-0,?,Colchester United (45)
+?,(Fri) 18 Feb 1966 (7),Tranmere Rovers (31),3-1,?,Crewe Alexandra (45)
+?,(Fri) 4 Mar 1966 (9),Tranmere Rovers (32),1-2,?,Darlington FC (45)
+?,(Fri) 15 Oct 1965 (41),Tranmere Rovers (33),1-0,?,Doncaster Rovers (45)
+?,(Fri) 28 Jan 1966 (4),Tranmere Rovers (34),5-2,?,Halifax Town (45)
+?,(Sat) 1 Jan 1966 (0),Tranmere Rovers (35),6-1,?,Hartlepool United (45)
+?,(Mon) 22 Nov 1965 (47),Tranmere Rovers (36),3-2,?,Lincoln City (45)
+?,(Wed) 3 Nov 1965 (44),Tranmere Rovers (37),2-0,?,Luton Town (45)
+?,(Fri) 15 Apr 1966 (15),Tranmere Rovers (38),0-1,?,Newport County AFC (45)
+?,(Mon) 27 Dec 1965 (52),Tranmere Rovers (39),0-3,?,Notts County FC (45)
+?,(Fri) 27 Aug 1965 (34),Tranmere Rovers (40),1-0,?,Port Vale FC (45)
+?,(Fri) 10 Dec 1965 (49),Tranmere Rovers (41),6-2,?,Rochdale AFC (45)
+?,(Fri) 14 Jan 1966 (2),Tranmere Rovers (42),0-2,?,Southport FC (45)
+?,(Mon) 25 Apr 1966 (17),Tranmere Rovers (43),6-2,?,Stockport County (45)
+?,(Fri) 26 Nov 1965 (47),Tranmere Rovers (44),0-1,?,Torquay United (45)
+?,(Fri) 29 Oct 1965 (43),Tranmere Rovers (45),6-3,?,Wrexham AFC (23)
+?,(Sat) 2 Oct 1965 (39),Wrexham AFC (24),4-0,?,Aldershot Town FC (46)
+?,(Sat) 8 Jan 1966 (1),Wrexham AFC (25),6-3,?,Barnsley FC (46)
+?,(Sat) 29 Jan 1966 (4),Wrexham AFC (26),3-1,?,Barrow AFC (46)
+?,(Sat) 20 Nov 1965 (46),Wrexham AFC (27),1-1,?,Bradford City (46)
+?,(Sat) 19 Mar 1966 (11),Wrexham AFC (28),3-2,?,Bradford Park Avenue (46)
+?,(Sat) 12 Mar 1966 (10),Wrexham AFC (29),2-1,?,Chester FC (46)
+?,(Mon) 25 Oct 1965 (43),Wrexham AFC (30),2-1,?,Chesterfield FC (46)
+?,(Sat) 6 Nov 1965 (44),Wrexham AFC (31),2-3,?,Colchester United (46)
+?,(Sat) 23 Apr 1966 (16),Wrexham AFC (32),1-4,?,Crewe Alexandra (46)
+?,(Sat) 18 Dec 1965 (50),Wrexham AFC (33),1-2,?,Darlington FC (46)
+?,(Sat) 19 Feb 1966 (7),Wrexham AFC (34),4-3,?,Doncaster Rovers (46)
+?,(Sat) 7 May 1966 (18),Wrexham AFC (35),2-2,?,Halifax Town (46)
+?,(Sat) 28 Aug 1965 (34),Wrexham AFC (36),1-1,?,Hartlepool United (46)
+?,(Sat) 9 Oct 1965 (40),Wrexham AFC (37),0-1,?,Lincoln City (46)
+?,(Mon) 23 Aug 1965 (34),Wrexham AFC (38),2-0,?,Luton Town (46)
+?,(Mon) 25 Apr 1966 (17),Wrexham AFC (39),0-1,?,Newport County AFC (46)
+?,(Fri) 8 Apr 1966 (14),Wrexham AFC (40),1-3,?,Notts County FC (46)
+?,(Wed) 4 May 1966 (18),Wrexham AFC (41),1-0,?,Port Vale FC (46)
+?,(Wed) 30 Mar 1966 (13),Wrexham AFC (42),2-2,?,Rochdale AFC (46)
+?,(Sat) 11 Sep 1965 (36),Wrexham AFC (43),3-1,?,Southport FC (46)
+?,(Sat) 23 Oct 1965 (42),Wrexham AFC (44),1-4,?,Stockport County (46)
+?,(Sat) 5 Mar 1966 (9),Wrexham AFC (45),0-2,?,Torquay United (46)
+?,(Wed) 29 Sep 1965 (39),Wrexham AFC (46),1-5,?,Tranmere Rovers (46)

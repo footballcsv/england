@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Blackpool,Aldershot,4-0,-
--,-,Bolton Wanderers,Aldershot,1-0,-
--,-,Brentford,Aldershot,2-1,-
--,-,Bristol City,Aldershot,1-1,-
--,-,Bristol Rovers,Aldershot,2-2,-
--,-,Bury,Aldershot,0-1,-
--,-,Cardiff City,Aldershot,3-2,-
--,-,Chester,Aldershot,1-1,-
--,-,Chesterfield,Aldershot,2-1,-
--,-,Fulham,Aldershot,5-1,-
--,-,Gillingham,Aldershot,1-1,-
--,-,Huddersfield Town,Aldershot,2-1,-
--,-,Mansfield Town,Aldershot,1-1,-
--,-,Northampton Town,Aldershot,6-0,-
--,-,Notts County,Aldershot,4-1,-
--,-,Port Vale,Aldershot,3-0,-
--,-,Preston North End,Aldershot,2-2,-
--,-,Reading,Aldershot,3-1,-
--,-,Sheffield United,Aldershot,1-0,-
--,-,Southend United,Aldershot,1-1,-
--,-,Swansea City,Aldershot,1-0,-
--,-,Wigan Athletic,Aldershot,2-1,-
--,-,Wolverhampton Wanderers,Aldershot,1-0,-
--,-,Aldershot,Blackpool,1-0,-
--,-,Bolton Wanderers,Blackpool,2-2,-
--,-,Brentford,Blackpool,1-0,-
--,-,Bristol City,Blackpool,1-2,-
--,-,Bristol Rovers,Blackpool,1-0,-
--,-,Bury,Blackpool,0-0,-
--,-,Cardiff City,Blackpool,0-0,-
--,-,Chester,Blackpool,1-1,-
--,-,Chesterfield,Blackpool,0-2,-
--,-,Fulham,Blackpool,1-1,-
--,-,Gillingham,Blackpool,1-0,-
--,-,Huddersfield Town,Blackpool,1-1,-
--,-,Mansfield Town,Blackpool,0-1,-
--,-,Northampton Town,Blackpool,4-2,-
--,-,Notts County,Blackpool,1-1,-
--,-,Port Vale,Blackpool,1-0,-
--,-,Preston North End,Blackpool,1-0,-
--,-,Reading,Blackpool,2-1,-
--,-,Sheffield United,Blackpool,4-1,-
--,-,Southend United,Blackpool,2-1,-
--,-,Swansea City,Blackpool,1-2,-
--,-,Wigan Athletic,Blackpool,2-1,-
--,-,Wolverhampton Wanderers,Blackpool,2-1,-
--,-,Aldershot,Bolton Wanderers,0-3,-
--,-,Blackpool,Bolton Wanderers,2-0,-
--,-,Brentford,Bolton Wanderers,3-0,-
--,-,Bristol City,Bolton Wanderers,1-1,-
--,-,Bristol Rovers,Bolton Wanderers,2-0,-
--,-,Bury,Bolton Wanderers,0-0,-
--,-,Cardiff City,Bolton Wanderers,1-0,-
--,-,Chester,Bolton Wanderers,0-0,-
--,-,Chesterfield,Bolton Wanderers,1-1,-
--,-,Fulham,Bolton Wanderers,1-1,-
--,-,Gillingham,Bolton Wanderers,0-1,-
--,-,Huddersfield Town,Bolton Wanderers,0-1,-
--,-,Mansfield Town,Bolton Wanderers,1-1,-
--,-,Northampton Town,Bolton Wanderers,2-3,-
--,-,Notts County,Bolton Wanderers,2-0,-
--,-,Port Vale,Bolton Wanderers,2-1,-
--,-,Preston North End,Bolton Wanderers,3-1,-
--,-,Reading,Bolton Wanderers,1-1,-
--,-,Sheffield United,Bolton Wanderers,4-0,-
--,-,Southend United,Bolton Wanderers,2-0,-
--,-,Swansea City,Bolton Wanderers,1-0,-
--,-,Wigan Athletic,Bolton Wanderers,1-1,-
--,-,Wolverhampton Wanderers,Bolton Wanderers,1-0,-
--,-,Aldershot,Brentford,0-0,-
--,-,Blackpool,Brentford,0-3,-
--,-,Bolton Wanderers,Brentford,4-2,-
--,-,Bristol City,Brentford,0-1,-
--,-,Bristol Rovers,Brentford,1-2,-
--,-,Bury,Brentford,3-1,-
--,-,Cardiff City,Brentford,1-0,-
--,-,Chester,Brentford,3-2,-
--,-,Chesterfield,Brentford,2-2,-
--,-,Fulham,Brentford,3-3,-
--,-,Gillingham,Brentford,0-0,-
--,-,Huddersfield Town,Brentford,1-2,-
--,-,Mansfield Town,Brentford,1-0,-
--,-,Northampton Town,Brentford,1-0,-
--,-,Notts County,Brentford,3-0,-
--,-,Port Vale,Brentford,3-2,-
--,-,Preston North End,Brentford,5-3,-
--,-,Reading,Brentford,2-2,-
--,-,Sheffield United,Brentford,2-2,-
--,-,Southend United,Brentford,1-1,-
--,-,Swansea City,Brentford,1-1,-
--,-,Wigan Athletic,Brentford,1-1,-
--,-,Wolverhampton Wanderers,Brentford,2-0,-
--,-,Aldershot,Bristol City,0-1,-
--,-,Blackpool,Bristol City,2-2,-
--,-,Bolton Wanderers,Bristol City,2-0,-
--,-,Brentford,Bristol City,3-0,-
--,-,Bristol Rovers,Bristol City,1-1,-
--,-,Bury,Bristol City,2-1,-
--,-,Cardiff City,Bristol City,1-1,-
--,-,Chester,Bristol City,2-0,-
--,-,Chesterfield,Bristol City,1-0,-
--,-,Fulham,Bristol City,3-1,-
--,-,Gillingham,Bristol City,0-1,-
--,-,Huddersfield Town,Bristol City,0-1,-
--,-,Mansfield Town,Bristol City,2-2,-
--,-,Northampton Town,Bristol City,1-3,-
--,-,Notts County,Bristol City,0-0,-
--,-,Port Vale,Bristol City,0-1,-
--,-,Preston North End,Bristol City,2-0,-
--,-,Reading,Bristol City,1-2,-
--,-,Sheffield United,Bristol City,3-0,-
--,-,Southend United,Bristol City,1-2,-
--,-,Swansea City,Bristol City,1-1,-
--,-,Wigan Athletic,Bristol City,0-1,-
--,-,Wolverhampton Wanderers,Bristol City,2-0,-
--,-,Aldershot,Bristol Rovers,1-3,-
--,-,Blackpool,Bristol Rovers,1-1,-
--,-,Bolton Wanderers,Bristol Rovers,1-1,-
--,-,Brentford,Bristol Rovers,2-1,-
--,-,Bristol City,Bristol Rovers,0-1,-
--,-,Bury,Bristol Rovers,0-0,-
--,-,Cardiff City,Bristol Rovers,2-2,-
--,-,Chester,Bristol Rovers,0-2,-
--,-,Chesterfield,Bristol Rovers,0-3,-
--,-,Fulham,Bristol Rovers,0-2,-
--,-,Gillingham,Bristol Rovers,2-3,-
--,-,Huddersfield Town,Bristol Rovers,2-3,-
--,-,Mansfield Town,Bristol Rovers,2-1,-
--,-,Northampton Town,Bristol Rovers,1-2,-
--,-,Notts County,Bristol Rovers,1-0,-
--,-,Port Vale,Bristol Rovers,1-0,-
--,-,Preston North End,Bristol Rovers,1-1,-
--,-,Reading,Bristol Rovers,3-1,-
--,-,Sheffield United,Bristol Rovers,4-1,-
--,-,Southend United,Bristol Rovers,2-2,-
--,-,Swansea City,Bristol Rovers,1-2,-
--,-,Wigan Athletic,Bristol Rovers,3-0,-
--,-,Wolverhampton Wanderers,Bristol Rovers,0-1,-
--,-,Aldershot,Bury,4-1,-
--,-,Blackpool,Bury,2-2,-
--,-,Bolton Wanderers,Bury,2-4,-
--,-,Brentford,Bury,2-2,-
--,-,Bristol City,Bury,3-0,-
--,-,Bristol Rovers,Bury,1-3,-
--,-,Cardiff City,Bury,3-0,-
--,-,Chester,Bury,2-0,-
--,-,Chesterfield,Bury,1-2,-
--,-,Fulham,Bury,1-0,-
--,-,Gillingham,Bury,3-4,-
--,-,Huddersfield Town,Bury,3-2,-
--,-,Mansfield Town,Bury,1-1,-
--,-,Northampton Town,Bury,2-0,-
--,-,Notts County,Bury,3-0,-
--,-,Port Vale,Bury,1-3,-
--,-,Preston North End,Bury,1-0,-
--,-,Reading,Bury,1-1,-
--,-,Sheffield United,Bury,2-1,-
--,-,Southend United,Bury,1-1,-
--,-,Swansea City,Bury,1-1,-
--,-,Wigan Athletic,Bury,1-0,-
--,-,Wolverhampton Wanderers,Bury,4-0,-
--,-,Aldershot,Cardiff City,0-1,-
--,-,Blackpool,Cardiff City,1-0,-
--,-,Bolton Wanderers,Cardiff City,4-0,-
--,-,Brentford,Cardiff City,1-1,-
--,-,Bristol City,Cardiff City,2-0,-
--,-,Bristol Rovers,Cardiff City,0-1,-
--,-,Bury,Cardiff City,1-0,-
--,-,Chester,Cardiff City,0-0,-
--,-,Chesterfield,Cardiff City,4-0,-
--,-,Fulham,Cardiff City,2-0,-
--,-,Gillingham,Cardiff City,1-2,-
--,-,Huddersfield Town,Cardiff City,1-0,-
--,-,Mansfield Town,Cardiff City,2-2,-
--,-,Northampton Town,Cardiff City,3-0,-
--,-,Notts County,Cardiff City,2-0,-
--,-,Port Vale,Cardiff City,6-1,-
--,-,Preston North End,Cardiff City,3-3,-
--,-,Reading,Cardiff City,3-1,-
--,-,Sheffield United,Cardiff City,0-1,-
--,-,Southend United,Cardiff City,0-0,-
--,-,Swansea City,Cardiff City,1-1,-
--,-,Wigan Athletic,Cardiff City,1-0,-
--,-,Wolverhampton Wanderers,Cardiff City,2-0,-
--,-,Aldershot,Chester,1-1,-
--,-,Blackpool,Chester,1-1,-
--,-,Bolton Wanderers,Chester,0-1,-
--,-,Brentford,Chester,0-1,-
--,-,Bristol City,Chester,0-1,-
--,-,Bristol Rovers,Chester,4-1,-
--,-,Bury,Chester,2-1,-
--,-,Cardiff City,Chester,2-0,-
--,-,Chesterfield,Chester,1-2,-
--,-,Fulham,Chester,4-1,-
--,-,Gillingham,Chester,0-2,-
--,-,Huddersfield Town,Chester,3-1,-
--,-,Mansfield Town,Chester,2-0,-
--,-,Northampton Town,Chester,0-2,-
--,-,Notts County,Chester,2-2,-
--,-,Port Vale,Chester,1-2,-
--,-,Preston North End,Chester,3-3,-
--,-,Reading,Chester,3-1,-
--,-,Sheffield United,Chester,6-1,-
--,-,Southend United,Chester,1-0,-
--,-,Swansea City,Chester,1-1,-
--,-,Wigan Athletic,Chester,3-0,-
--,-,Wolverhampton Wanderers,Chester,3-1,-
--,-,Aldershot,Chesterfield,2-0,-
--,-,Blackpool,Chesterfield,1-2,-
--,-,Bolton Wanderers,Chesterfield,5-0,-
--,-,Brentford,Chesterfield,1-0,-
--,-,Bristol City,Chesterfield,4-0,-
--,-,Bristol Rovers,Chesterfield,2-1,-
--,-,Bury,Chesterfield,2-1,-
--,-,Cardiff City,Chesterfield,0-1,-
--,-,Chester,Chesterfield,3-1,-
--,-,Fulham,Chesterfield,2-1,-
--,-,Gillingham,Chesterfield,0-1,-
--,-,Huddersfield Town,Chesterfield,1-1,-
--,-,Mansfield Town,Chesterfield,3-1,-
--,-,Northampton Town,Chesterfield,3-0,-
--,-,Notts County,Chesterfield,4-0,-
--,-,Port Vale,Chesterfield,5-0,-
--,-,Preston North End,Chesterfield,6-0,-
--,-,Reading,Chesterfield,0-0,-
--,-,Sheffield United,Chesterfield,1-3,-
--,-,Southend United,Chesterfield,3-1,-
--,-,Swansea City,Chesterfield,2-0,-
--,-,Wigan Athletic,Chesterfield,0-2,-
--,-,Wolverhampton Wanderers,Chesterfield,1-0,-
--,-,Aldershot,Fulham,1-2,-
--,-,Blackpool,Fulham,0-1,-
--,-,Bolton Wanderers,Fulham,3-2,-
--,-,Brentford,Fulham,0-1,-
--,-,Bristol City,Fulham,1-5,-
--,-,Bristol Rovers,Fulham,0-0,-
--,-,Bury,Fulham,3-1,-
--,-,Cardiff City,Fulham,1-2,-
--,-,Chester,Fulham,7-0,-
--,-,Chesterfield,Fulham,4-1,-
--,-,Gillingham,Fulham,0-1,-
--,-,Huddersfield Town,Fulham,2-0,-
--,-,Mansfield Town,Fulham,3-1,-
--,-,Northampton Town,Fulham,2-1,-
--,-,Notts County,Fulham,0-1,-
--,-,Port Vale,Fulham,3-0,-
--,-,Preston North End,Fulham,1-4,-
--,-,Reading,Fulham,0-1,-
--,-,Sheffield United,Fulham,1-0,-
--,-,Southend United,Fulham,0-0,-
--,-,Swansea City,Fulham,2-0,-
--,-,Wigan Athletic,Fulham,0-1,-
--,-,Wolverhampton Wanderers,Fulham,5-2,-
--,-,Aldershot,Gillingham,0-2,-
--,-,Blackpool,Gillingham,4-1,-
--,-,Bolton Wanderers,Gillingham,2-1,-
--,-,Brentford,Gillingham,1-0,-
--,-,Bristol City,Gillingham,1-0,-
--,-,Bristol Rovers,Gillingham,2-0,-
--,-,Bury,Gillingham,1-0,-
--,-,Cardiff City,Gillingham,1-0,-
--,-,Chester,Gillingham,2-0,-
--,-,Chesterfield,Gillingham,3-1,-
--,-,Fulham,Gillingham,1-2,-
--,-,Huddersfield Town,Gillingham,1-1,-
--,-,Mansfield Town,Gillingham,2-1,-
--,-,Northampton Town,Gillingham,1-2,-
--,-,Notts County,Gillingham,1-2,-
--,-,Port Vale,Gillingham,2-1,-
--,-,Preston North End,Gillingham,5-0,-
--,-,Reading,Gillingham,1-2,-
--,-,Sheffield United,Gillingham,4-2,-
--,-,Southend United,Gillingham,2-1,-
--,-,Swansea City,Gillingham,3-2,-
--,-,Wigan Athletic,Gillingham,3-0,-
--,-,Wolverhampton Wanderers,Gillingham,6-1,-
--,-,Aldershot,Huddersfield Town,0-1,-
--,-,Blackpool,Huddersfield Town,2-1,-
--,-,Bolton Wanderers,Huddersfield Town,3-1,-
--,-,Brentford,Huddersfield Town,1-0,-
--,-,Bristol City,Huddersfield Town,6-1,-
--,-,Bristol Rovers,Huddersfield Town,5-1,-
--,-,Bury,Huddersfield Town,0-6,-
--,-,Cardiff City,Huddersfield Town,3-0,-
--,-,Chester,Huddersfield Town,3-0,-
--,-,Chesterfield,Huddersfield Town,1-1,-
--,-,Fulham,Huddersfield Town,1-2,-
--,-,Gillingham,Huddersfield Town,1-2,-
--,-,Mansfield Town,Huddersfield Town,1-0,-
--,-,Northampton Town,Huddersfield Town,1-3,-
--,-,Notts County,Huddersfield Town,3-0,-
--,-,Port Vale,Huddersfield Town,2-0,-
--,-,Preston North End,Huddersfield Town,1-0,-
--,-,Reading,Huddersfield Town,2-1,-
--,-,Sheffield United,Huddersfield Town,5-1,-
--,-,Southend United,Huddersfield Town,2-4,-
--,-,Swansea City,Huddersfield Town,1-0,-
--,-,Wigan Athletic,Huddersfield Town,0-2,-
--,-,Wolverhampton Wanderers,Huddersfield Town,4-1,-
--,-,Aldershot,Mansfield Town,0-0,-
--,-,Blackpool,Mansfield Town,1-1,-
--,-,Bolton Wanderers,Mansfield Town,0-0,-
--,-,Brentford,Mansfield Town,1-0,-
--,-,Bristol City,Mansfield Town,2-0,-
--,-,Bristol Rovers,Mansfield Town,0-0,-
--,-,Bury,Mansfield Town,0-1,-
--,-,Cardiff City,Mansfield Town,0-0,-
--,-,Chester,Mansfield Town,0-0,-
--,-,Chesterfield,Mansfield Town,1-3,-
--,-,Fulham,Mansfield Town,1-1,-
--,-,Gillingham,Mansfield Town,3-0,-
--,-,Huddersfield Town,Mansfield Town,2-0,-
--,-,Northampton Town,Mansfield Town,2-1,-
--,-,Notts County,Mansfield Town,2-1,-
--,-,Port Vale,Mansfield Town,1-2,-
--,-,Preston North End,Mansfield Town,2-0,-
--,-,Reading,Mansfield Town,1-0,-
--,-,Sheffield United,Mansfield Town,1-2,-
--,-,Southend United,Mansfield Town,1-1,-
--,-,Swansea City,Mansfield Town,3-1,-
--,-,Wigan Athletic,Mansfield Town,0-0,-
--,-,Wolverhampton Wanderers,Mansfield Town,6-2,-
--,-,Aldershot,Northampton Town,5-1,-
--,-,Blackpool,Northampton Town,3-1,-
--,-,Bolton Wanderers,Northampton Town,2-1,-
--,-,Brentford,Northampton Town,2-0,-
--,-,Bristol City,Northampton Town,3-1,-
--,-,Bristol Rovers,Northampton Town,1-1,-
--,-,Bury,Northampton Town,0-1,-
--,-,Cardiff City,Northampton Town,1-0,-
--,-,Chester,Northampton Town,2-1,-
--,-,Chesterfield,Northampton Town,1-1,-
--,-,Fulham,Northampton Town,3-2,-
--,-,Gillingham,Northampton Town,1-0,-
--,-,Huddersfield Town,Northampton Town,1-2,-
--,-,Mansfield Town,Northampton Town,1-1,-
--,-,Notts County,Northampton Town,0-1,-
--,-,Port Vale,Northampton Town,1-2,-
--,-,Preston North End,Northampton Town,3-2,-
--,-,Reading,Northampton Town,1-1,-
--,-,Sheffield United,Northampton Town,4-0,-
--,-,Southend United,Northampton Town,2-1,-
--,-,Swansea City,Northampton Town,1-0,-
--,-,Wigan Athletic,Northampton Town,1-3,-
--,-,Wolverhampton Wanderers,Northampton Town,3-2,-
--,-,Aldershot,Notts County,2-3,-
--,-,Blackpool,Notts County,0-1,-
--,-,Bolton Wanderers,Notts County,3-3,-
--,-,Brentford,Notts County,2-1,-
--,-,Bristol City,Notts County,0-4,-
--,-,Bristol Rovers,Notts County,2-0,-
--,-,Bury,Notts County,1-1,-
--,-,Cardiff City,Notts County,0-1,-
--,-,Chester,Notts County,1-0,-
--,-,Chesterfield,Notts County,3-0,-
--,-,Fulham,Notts County,2-1,-
--,-,Gillingham,Notts County,2-1,-
--,-,Huddersfield Town,Notts County,3-1,-
--,-,Mansfield Town,Notts County,1-1,-
--,-,Northampton Town,Notts County,1-3,-
--,-,Port Vale,Notts County,1-0,-
--,-,Preston North End,Notts County,3-0,-
--,-,Reading,Notts County,1-3,-
--,-,Sheffield United,Notts County,1-1,-
--,-,Southend United,Notts County,1-1,-
--,-,Swansea City,Notts County,2-0,-
--,-,Wigan Athletic,Notts County,0-1,-
--,-,Wolverhampton Wanderers,Notts County,0-0,-
--,-,Aldershot,Port Vale,2-2,-
--,-,Blackpool,Port Vale,3-2,-
--,-,Bolton Wanderers,Port Vale,1-1,-
--,-,Brentford,Port Vale,2-1,-
--,-,Bristol City,Port Vale,0-1,-
--,-,Bristol Rovers,Port Vale,2-2,-
--,-,Bury,Port Vale,0-0,-
--,-,Cardiff City,Port Vale,3-0,-
--,-,Chester,Port Vale,1-2,-
--,-,Chesterfield,Port Vale,1-2,-
--,-,Fulham,Port Vale,1-2,-
--,-,Gillingham,Port Vale,1-0,-
--,-,Huddersfield Town,Port Vale,0-0,-
--,-,Mansfield Town,Port Vale,0-1,-
--,-,Northampton Town,Port Vale,1-3,-
--,-,Notts County,Port Vale,1-4,-
--,-,Preston North End,Port Vale,1-3,-
--,-,Reading,Port Vale,3-0,-
--,-,Sheffield United,Port Vale,0-0,-
--,-,Southend United,Port Vale,1-1,-
--,-,Swansea City,Port Vale,0-0,-
--,-,Wigan Athletic,Port Vale,0-2,-
--,-,Wolverhampton Wanderers,Port Vale,3-3,-
--,-,Aldershot,Preston North End,2-1,-
--,-,Blackpool,Preston North End,1-0,-
--,-,Bolton Wanderers,Preston North End,1-0,-
--,-,Brentford,Preston North End,0-2,-
--,-,Bristol City,Preston North End,1-1,-
--,-,Bristol Rovers,Preston North End,1-0,-
--,-,Bury,Preston North End,1-1,-
--,-,Cardiff City,Preston North End,0-0,-
--,-,Chester,Preston North End,0-1,-
--,-,Chesterfield,Preston North End,0-3,-
--,-,Fulham,Preston North End,2-1,-
--,-,Gillingham,Preston North End,1-3,-
--,-,Huddersfield Town,Preston North End,2-0,-
--,-,Mansfield Town,Preston North End,0-3,-
--,-,Northampton Town,Preston North End,1-0,-
--,-,Notts County,Preston North End,0-0,-
--,-,Port Vale,Preston North End,1-1,-
--,-,Reading,Preston North End,2-2,-
--,-,Sheffield United,Preston North End,3-1,-
--,-,Southend United,Preston North End,2-1,-
--,-,Swansea City,Preston North End,1-1,-
--,-,Wigan Athletic,Preston North End,1-1,-
--,-,Wolverhampton Wanderers,Preston North End,6-0,-
--,-,Aldershot,Reading,1-1,-
--,-,Blackpool,Reading,2-4,-
--,-,Bolton Wanderers,Reading,1-1,-
--,-,Brentford,Reading,3-2,-
--,-,Bristol City,Reading,2-1,-
--,-,Bristol Rovers,Reading,1-1,-
--,-,Bury,Reading,2-1,-
--,-,Cardiff City,Reading,1-2,-
--,-,Chester,Reading,3-0,-
--,-,Chesterfield,Reading,2-4,-
--,-,Fulham,Reading,2-1,-
--,-,Gillingham,Reading,0-1,-
--,-,Huddersfield Town,Reading,2-2,-
--,-,Mansfield Town,Reading,2-1,-
--,-,Northampton Town,Reading,1-3,-
--,-,Notts County,Reading,3-3,-
--,-,Port Vale,Reading,3-0,-
--,-,Preston North End,Reading,2-1,-
--,-,Sheffield United,Reading,1-0,-
--,-,Southend United,Reading,2-1,-
--,-,Swansea City,Reading,2-0,-
--,-,Wigan Athletic,Reading,3-0,-
--,-,Wolverhampton Wanderers,Reading,2-1,-
--,-,Aldershot,Sheffield United,1-0,-
--,-,Blackpool,Sheffield United,1-2,-
--,-,Bolton Wanderers,Sheffield United,2-0,-
--,-,Brentford,Sheffield United,1-4,-
--,-,Bristol City,Sheffield United,2-0,-
--,-,Bristol Rovers,Sheffield United,1-1,-
--,-,Bury,Sheffield United,1-2,-
--,-,Cardiff City,Sheffield United,0-0,-
--,-,Chester,Sheffield United,0-1,-
--,-,Chesterfield,Sheffield United,2-1,-
--,-,Fulham,Sheffield United,2-2,-
--,-,Gillingham,Sheffield United,2-1,-
--,-,Huddersfield Town,Sheffield United,3-2,-
--,-,Mansfield Town,Sheffield United,0-1,-
--,-,Northampton Town,Sheffield United,1-2,-
--,-,Notts County,Sheffield United,1-4,-
--,-,Port Vale,Sheffield United,3-3,-
--,-,Preston North End,Sheffield United,2-0,-
--,-,Reading,Sheffield United,1-3,-
--,-,Southend United,Sheffield United,2-1,-
--,-,Swansea City,Sheffield United,2-2,-
--,-,Wigan Athletic,Sheffield United,1-2,-
--,-,Wolverhampton Wanderers,Sheffield United,2-2,-
--,-,Aldershot,Southend United,2-2,-
--,-,Blackpool,Southend United,3-2,-
--,-,Bolton Wanderers,Southend United,0-0,-
--,-,Brentford,Southend United,4-0,-
--,-,Bristol City,Southend United,0-2,-
--,-,Bristol Rovers,Southend United,1-1,-
--,-,Bury,Southend United,3-1,-
--,-,Cardiff City,Southend United,2-0,-
--,-,Chester,Southend United,2-4,-
--,-,Chesterfield,Southend United,2-1,-
--,-,Fulham,Southend United,1-0,-
--,-,Gillingham,Southend United,1-1,-
--,-,Huddersfield Town,Southend United,3-2,-
--,-,Mansfield Town,Southend United,4-0,-
--,-,Northampton Town,Southend United,2-2,-
--,-,Notts County,Southend United,1-1,-
--,-,Port Vale,Southend United,2-0,-
--,-,Preston North End,Southend United,3-2,-
--,-,Reading,Southend United,4-0,-
--,-,Sheffield United,Southend United,1-2,-
--,-,Swansea City,Southend United,2-0,-
--,-,Wigan Athletic,Southend United,3-0,-
--,-,Wolverhampton Wanderers,Southend United,3-0,-
--,-,Aldershot,Swansea City,0-1,-
--,-,Blackpool,Swansea City,0-0,-
--,-,Bolton Wanderers,Swansea City,1-0,-
--,-,Brentford,Swansea City,1-1,-
--,-,Bristol City,Swansea City,2-0,-
--,-,Bristol Rovers,Swansea City,1-1,-
--,-,Bury,Swansea City,1-0,-
--,-,Cardiff City,Swansea City,2-2,-
--,-,Chester,Swansea City,3-1,-
--,-,Chesterfield,Swansea City,2-0,-
--,-,Fulham,Swansea City,1-0,-
--,-,Gillingham,Swansea City,2-3,-
--,-,Huddersfield Town,Swansea City,1-1,-
--,-,Mansfield Town,Swansea City,0-0,-
--,-,Northampton Town,Swansea City,1-0,-
--,-,Notts County,Swansea City,1-0,-
--,-,Port Vale,Swansea City,2-1,-
--,-,Preston North End,Swansea City,1-1,-
--,-,Reading,Swansea City,2-0,-
--,-,Sheffield United,Swansea City,5-1,-
--,-,Southend United,Swansea City,0-2,-
--,-,Wigan Athletic,Swansea City,1-2,-
--,-,Wolverhampton Wanderers,Swansea City,1-1,-
--,-,Aldershot,Wigan Athletic,3-1,-
--,-,Blackpool,Wigan Athletic,2-0,-
--,-,Bolton Wanderers,Wigan Athletic,1-1,-
--,-,Brentford,Wigan Athletic,1-1,-
--,-,Bristol City,Wigan Athletic,0-1,-
--,-,Bristol Rovers,Wigan Athletic,3-2,-
--,-,Bury,Wigan Athletic,1-1,-
--,-,Cardiff City,Wigan Athletic,2-2,-
--,-,Chester,Wigan Athletic,1-0,-
--,-,Chesterfield,Wigan Athletic,1-1,-
--,-,Fulham,Wigan Athletic,1-1,-
--,-,Gillingham,Wigan Athletic,2-1,-
--,-,Huddersfield Town,Wigan Athletic,1-1,-
--,-,Mansfield Town,Wigan Athletic,0-1,-
--,-,Northampton Town,Wigan Athletic,1-1,-
--,-,Notts County,Wigan Athletic,1-0,-
--,-,Port Vale,Wigan Athletic,2-1,-
--,-,Preston North End,Wigan Athletic,2-2,-
--,-,Reading,Wigan Athletic,0-3,-
--,-,Sheffield United,Wigan Athletic,2-1,-
--,-,Southend United,Wigan Athletic,1-2,-
--,-,Swansea City,Wigan Athletic,1-2,-
--,-,Wolverhampton Wanderers,Wigan Athletic,2-1,-
--,-,Aldershot,Wolverhampton Wanderers,1-2,-
--,-,Blackpool,Wolverhampton Wanderers,0-2,-
--,-,Bolton Wanderers,Wolverhampton Wanderers,1-2,-
--,-,Brentford,Wolverhampton Wanderers,2-2,-
--,-,Bristol City,Wolverhampton Wanderers,0-1,-
--,-,Bristol Rovers,Wolverhampton Wanderers,0-0,-
--,-,Bury,Wolverhampton Wanderers,3-1,-
--,-,Cardiff City,Wolverhampton Wanderers,1-1,-
--,-,Chester,Wolverhampton Wanderers,1-1,-
--,-,Chesterfield,Wolverhampton Wanderers,0-3,-
--,-,Fulham,Wolverhampton Wanderers,2-2,-
--,-,Gillingham,Wolverhampton Wanderers,1-3,-
--,-,Huddersfield Town,Wolverhampton Wanderers,0-0,-
--,-,Mansfield Town,Wolverhampton Wanderers,3-1,-
--,-,Northampton Town,Wolverhampton Wanderers,3-1,-
--,-,Notts County,Wolverhampton Wanderers,1-1,-
--,-,Port Vale,Wolverhampton Wanderers,0-0,-
--,-,Preston North End,Wolverhampton Wanderers,3-3,-
--,-,Reading,Wolverhampton Wanderers,0-2,-
--,-,Sheffield United,Wolverhampton Wanderers,2-0,-
--,-,Southend United,Wolverhampton Wanderers,3-1,-
--,-,Swansea City,Wolverhampton Wanderers,2-5,-
--,-,Wigan Athletic,Wolverhampton Wanderers,1-1,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 29 Apr 1989 (17),Aldershot Town FC (1),1-0,?,Blackpool FC (1)
+?,(Sat) 24 Sep 1988 (38),Aldershot Town FC (2),0-3,?,Bolton Wanderers (1)
+?,(Sun) 18 Dec 1988 (50),Aldershot Town FC (3),0-0,?,Brentford FC (1)
+?,(Tue) 21 Feb 1989 (8),Aldershot Town FC (4),0-1,?,Bristol City FC (1)
+?,(Sat) 21 Jan 1989 (3),Aldershot Town FC (5),1-3,?,Bristol Rovers (1)
+?,(Sat) 8 Apr 1989 (14),Aldershot Town FC (6),4-1,?,Bury FC (1)
+?,(Mon) 2 Jan 1989 (1),Aldershot Town FC (7),0-1,?,Cardiff City (1)
+?,(Sat) 29 Oct 1988 (43),Aldershot Town FC (8),1-1,?,Chester FC (1)
+?,(Sat) 18 Mar 1989 (11),Aldershot Town FC (9),2-0,?,Chesterfield FC (1)
+?,(Tue) 25 Apr 1989 (17),Aldershot Town FC (10),1-2,?,Fulham FC (1)
+?,(Sat) 3 Sep 1988 (35),Aldershot Town FC (11),0-2,?,Gillingham FC (1)
+?,(Sat) 22 Oct 1988 (42),Aldershot Town FC (12),0-1,?,Huddersfield Town (1)
+?,(Sat) 13 May 1989 (19),Aldershot Town FC (13),0-0,?,Mansfield Town (1)
+?,(Sat) 4 Feb 1989 (5),Aldershot Town FC (14),5-1,?,Northampton Town (1)
+?,(Sat) 3 Dec 1988 (48),Aldershot Town FC (15),2-3,?,Notts County FC (1)
+?,(Sat) 11 Mar 1989 (10),Aldershot Town FC (16),2-2,?,Port Vale FC (1)
+?,(Sat) 7 Jan 1989 (1),Aldershot Town FC (17),2-1,?,Preston North End (1)
+?,(Mon) 27 Mar 1989 (13),Aldershot Town FC (18),1-1,?,Reading FC (1)
+?,(Tue) 8 Nov 1988 (45),Aldershot Town FC (19),1-0,?,Sheffield United FC (1)
+?,(Sat) 17 Sep 1988 (37),Aldershot Town FC (20),2-2,?,Southend United (1)
+?,(Sun) 9 Oct 1988 (40),Aldershot Town FC (21),0-1,?,Swansea City (1)
+?,(Tue) 4 Oct 1988 (40),Aldershot Town FC (22),3-1,?,Wigan Athletic (1)
+?,(Sat) 15 Apr 1989 (15),Aldershot Town FC (23),1-2,?,Wolverhampton Wanderers (1)
+?,(Sat) 12 Nov 1988 (45),Blackpool FC (2),4-0,?,Aldershot Town FC (24)
+?,(Sat) 18 Feb 1989 (7),Blackpool FC (3),2-0,?,Bolton Wanderers (2)
+?,(Mon) 27 Mar 1989 (13),Blackpool FC (4),0-3,?,Brentford FC (2)
+?,(Tue) 20 Sep 1988 (38),Blackpool FC (5),2-2,?,Bristol City FC (2)
+?,(Sat) 17 Dec 1988 (50),Blackpool FC (6),1-1,?,Bristol Rovers (2)
+?,(Mon) 2 Jan 1989 (1),Blackpool FC (7),2-2,?,Bury FC (2)
+?,(Sat) 29 Oct 1988 (43),Blackpool FC (8),1-0,?,Cardiff City (2)
+?,(Sat) 18 Mar 1989 (11),Blackpool FC (9),1-1,?,Chester FC (2)
+?,(Sat) 22 Apr 1989 (16),Blackpool FC (10),1-2,?,Chesterfield FC (2)
+?,(Sat) 11 Mar 1989 (10),Blackpool FC (11),0-1,?,Fulham FC (2)
+?,(Mon) 1 May 1989 (18),Blackpool FC (12),4-1,?,Gillingham FC (2)
+?,(Sat) 6 May 1989 (18),Blackpool FC (13),2-1,?,Huddersfield Town (2)
+?,(Sat) 17 Sep 1988 (37),Blackpool FC (14),1-1,?,Mansfield Town (2)
+?,(Tue) 4 Oct 1988 (40),Blackpool FC (15),3-1,?,Northampton Town (2)
+?,(Sat) 3 Sep 1988 (35),Blackpool FC (16),0-1,?,Notts County FC (2)
+?,(Sat) 22 Oct 1988 (42),Blackpool FC (17),3-2,?,Port Vale FC (2)
+?,(Sat) 21 Jan 1989 (3),Blackpool FC (18),1-0,?,Preston North End (2)
+?,(Sat) 8 Apr 1989 (14),Blackpool FC (19),2-4,?,Reading FC (2)
+?,(Sat) 15 Oct 1988 (41),Blackpool FC (20),1-2,?,Sheffield United FC (2)
+?,(Tue) 9 May 1989 (19),Blackpool FC (21),3-2,?,Southend United (2)
+?,(Sat) 26 Nov 1988 (47),Blackpool FC (22),0-0,?,Swansea City (2)
+?,(Sat) 4 Feb 1989 (5),Blackpool FC (23),2-0,?,Wigan Athletic (2)
+?,(Tue) 28 Feb 1989 (9),Blackpool FC (24),0-2,?,Wolverhampton Wanderers (2)
+?,(Sat) 22 Apr 1989 (16),Bolton Wanderers (3),1-0,?,Aldershot Town FC (25)
+?,(Sat) 8 Oct 1988 (40),Bolton Wanderers (4),2-2,?,Blackpool FC (25)
+?,(Sat) 6 May 1989 (18),Bolton Wanderers (5),4-2,?,Brentford FC (3)
+?,(Sat) 11 Mar 1989 (10),Bolton Wanderers (6),2-0,?,Bristol City FC (3)
+?,(Sat) 17 Sep 1988 (37),Bolton Wanderers (7),1-1,?,Bristol Rovers (3)
+?,(Sat) 12 Nov 1988 (45),Bolton Wanderers (8),2-4,?,Bury FC (3)
+?,(Sat) 3 Sep 1988 (35),Bolton Wanderers (9),4-0,?,Cardiff City (3)
+?,(Sat) 17 Dec 1988 (50),Bolton Wanderers (10),0-1,?,Chester FC (3)
+?,(Sat) 29 Oct 1988 (43),Bolton Wanderers (11),5-0,?,Chesterfield FC (3)
+?,(Tue) 20 Sep 1988 (38),Bolton Wanderers (12),3-2,?,Fulham FC (3)
+?,(Fri) 6 Jan 1989 (1),Bolton Wanderers (13),2-1,?,Gillingham FC (3)
+?,(Mon) 1 May 1989 (18),Bolton Wanderers (14),3-1,?,Huddersfield Town (3)
+?,(Mon) 2 Jan 1989 (1),Bolton Wanderers (15),0-0,?,Mansfield Town (3)
+?,(Sat) 26 Nov 1988 (47),Bolton Wanderers (16),2-1,?,Northampton Town (3)
+?,(Sat) 8 Apr 1989 (14),Bolton Wanderers (17),3-3,?,Notts County FC (3)
+?,(Tue) 25 Apr 1989 (17),Bolton Wanderers (18),1-1,?,Port Vale FC (3)
+?,(Mon) 27 Mar 1989 (13),Bolton Wanderers (19),1-0,?,Preston North End (3)
+?,(Sat) 21 Jan 1989 (3),Bolton Wanderers (20),1-1,?,Reading FC (3)
+?,(Sat) 1 Oct 1988 (39),Bolton Wanderers (21),2-0,?,Sheffield United FC (3)
+?,(Sat) 18 Mar 1989 (11),Bolton Wanderers (22),0-0,?,Southend United (3)
+?,(Sat) 11 Feb 1989 (6),Bolton Wanderers (23),1-0,?,Swansea City (3)
+?,(Tue) 9 May 1989 (19),Bolton Wanderers (24),1-1,?,Wigan Athletic (3)
+?,(Sat) 22 Oct 1988 (42),Bolton Wanderers (25),1-2,?,Wolverhampton Wanderers (3)
+?,(Sat) 1 Apr 1989 (13),Brentford FC (4),2-1,?,Aldershot Town FC (26)
+?,(Mon) 26 Dec 1988 (52),Brentford FC (5),1-0,?,Blackpool FC (26)
+?,(Sat) 3 Dec 1988 (48),Brentford FC (6),3-0,?,Bolton Wanderers (26)
+?,(Tue) 4 Apr 1989 (14),Brentford FC (7),3-0,?,Bristol City FC (4)
+?,(Sat) 15 Apr 1989 (15),Brentford FC (8),2-1,?,Bristol Rovers (4)
+?,(Sat) 25 Feb 1989 (8),Brentford FC (9),2-2,?,Bury FC (4)
+?,(Sat) 13 May 1989 (19),Brentford FC (10),1-1,?,Cardiff City (4)
+?,(Sat) 11 Feb 1989 (6),Brentford FC (11),0-1,?,Chester FC (4)
+?,(Tue) 28 Feb 1989 (9),Brentford FC (12),1-0,?,Chesterfield FC (4)
+?,(Fri) 24 Mar 1989 (12),Brentford FC (13),0-1,?,Fulham FC (4)
+?,(Sat) 1 Oct 1988 (39),Brentford FC (14),1-0,?,Gillingham FC (4)
+?,(Sat) 27 Aug 1988 (34),Brentford FC (15),1-0,?,Huddersfield Town (4)
+?,(Sat) 29 Apr 1989 (17),Brentford FC (16),1-0,?,Mansfield Town (4)
+?,(Sat) 14 Jan 1989 (2),Brentford FC (17),2-0,?,Northampton Town (4)
+?,(Tue) 8 Nov 1988 (45),Brentford FC (18),2-1,?,Notts County FC (4)
+?,(Sat) 29 Oct 1988 (43),Brentford FC (19),2-1,?,Port Vale FC (4)
+?,(Sat) 22 Oct 1988 (42),Brentford FC (20),0-2,?,Preston North End (4)
+?,(Sat) 11 Mar 1989 (10),Brentford FC (21),3-2,?,Reading FC (4)
+?,(Sat) 24 Sep 1988 (38),Brentford FC (22),1-4,?,Sheffield United FC (4)
+?,(Sun) 9 Oct 1988 (40),Brentford FC (23),4-0,?,Southend United (4)
+?,(Tue) 9 May 1989 (19),Brentford FC (24),1-1,?,Swansea City (4)
+?,(Sat) 10 Sep 1988 (36),Brentford FC (25),1-1,?,Wigan Athletic (4)
+?,(Sat) 31 Dec 1988 (52),Brentford FC (26),2-2,?,Wolverhampton Wanderers (4)
+?,(Tue) 25 Oct 1988 (43),Bristol City FC (5),1-1,?,Aldershot Town FC (27)
+?,(Sat) 15 Apr 1989 (15),Bristol City FC (6),1-2,?,Blackpool FC (27)
+?,(Sat) 5 Nov 1988 (44),Bristol City FC (7),1-1,?,Bolton Wanderers (27)
+?,(Tue) 11 Apr 1989 (15),Bristol City FC (8),0-1,?,Brentford FC (27)
+?,(Mon) 2 Jan 1989 (1),Bristol City FC (9),0-1,?,Bristol Rovers (5)
+?,(Mon) 27 Mar 1989 (13),Bristol City FC (10),3-0,?,Bury FC (5)
+?,(Sat) 17 Dec 1988 (50),Bristol City FC (11),2-0,?,Cardiff City (5)
+?,(Sat) 21 Jan 1989 (3),Bristol City FC (12),0-1,?,Chester FC (5)
+?,(Sat) 3 Sep 1988 (35),Bristol City FC (13),4-0,?,Chesterfield FC (5)
+?,(Sat) 8 Oct 1988 (40),Bristol City FC (14),1-5,?,Fulham FC (5)
+?,(Sat) 11 Feb 1989 (6),Bristol City FC (15),1-0,?,Gillingham FC (5)
+?,(Tue) 18 Apr 1989 (16),Bristol City FC (16),6-1,?,Huddersfield Town (5)
+?,(Tue) 21 Mar 1989 (12),Bristol City FC (17),2-0,?,Mansfield Town (5)
+?,(Sat) 4 Mar 1989 (9),Bristol City FC (18),3-1,?,Northampton Town (5)
+?,(Sat) 18 Mar 1989 (11),Bristol City FC (19),0-4,?,Notts County FC (5)
+?,(Sat) 24 Sep 1988 (38),Bristol City FC (20),0-1,?,Port Vale FC (5)
+?,(Sat) 17 Sep 1988 (37),Bristol City FC (21),1-1,?,Preston North End (5)
+?,(Sat) 3 Dec 1988 (48),Bristol City FC (22),2-1,?,Reading FC (5)
+?,(Sat) 13 May 1989 (19),Bristol City FC (23),2-0,?,Sheffield United FC (5)
+?,(Sat) 8 Apr 1989 (14),Bristol City FC (24),0-2,?,Southend United (5)
+?,(Sat) 1 Oct 1988 (39),Bristol City FC (25),2-0,?,Swansea City (5)
+?,(Sat) 29 Apr 1989 (17),Bristol City FC (26),0-1,?,Wigan Athletic (5)
+?,(Tue) 8 Nov 1988 (45),Bristol City FC (27),0-1,?,Wolverhampton Wanderers (5)
+?,(Sat) 10 Sep 1988 (36),Bristol Rovers (6),2-2,?,Aldershot Town FC (28)
+?,(Sat) 1 Apr 1989 (13),Bristol Rovers (7),1-0,?,Blackpool FC (28)
+?,(Sat) 28 Jan 1989 (4),Bristol Rovers (8),2-0,?,Bolton Wanderers (28)
+?,(Wed) 21 Sep 1988 (38),Bristol Rovers (9),1-2,?,Brentford FC (28)
+?,(Sat) 25 Mar 1989 (12),Bristol Rovers (10),1-1,?,Bristol City FC (28)
+?,(Sat) 26 Nov 1988 (47),Bristol Rovers (11),1-3,?,Bury FC (6)
+?,(Sat) 4 Feb 1989 (5),Bristol Rovers (12),0-1,?,Cardiff City (6)
+?,(Sat) 22 Oct 1988 (42),Bristol Rovers (13),4-1,?,Chester FC (6)
+?,(Sat) 11 Mar 1989 (10),Bristol Rovers (14),2-1,?,Chesterfield FC (6)
+?,(Sat) 6 May 1989 (18),Bristol Rovers (15),0-0,?,Fulham FC (6)
+?,(Sat) 12 Nov 1988 (45),Bristol Rovers (16),2-0,?,Gillingham FC (6)
+?,(Sat) 29 Oct 1988 (43),Bristol Rovers (17),5-1,?,Huddersfield Town (6)
+?,(Sat) 18 Feb 1989 (7),Bristol Rovers (18),0-0,?,Mansfield Town (6)
+?,(Sat) 22 Apr 1989 (16),Bristol Rovers (19),1-1,?,Northampton Town (6)
+?,(Sat) 15 Oct 1988 (41),Bristol Rovers (20),2-0,?,Notts County FC (6)
+?,(Wed) 5 Apr 1989 (14),Bristol Rovers (21),2-2,?,Port Vale FC (6)
+?,(Wed) 5 Oct 1988 (40),Bristol Rovers (22),1-0,?,Preston North End (6)
+?,(Wed) 1 Mar 1989 (9),Bristol Rovers (23),1-1,?,Reading FC (6)
+?,(Sat) 14 Jan 1989 (2),Bristol Rovers (24),1-1,?,Sheffield United FC (6)
+?,(Mon) 1 May 1989 (18),Bristol Rovers (25),1-1,?,Southend United (6)
+?,(Sat) 31 Dec 1988 (52),Bristol Rovers (26),1-1,?,Swansea City (6)
+?,(Sat) 27 Aug 1988 (34),Bristol Rovers (27),3-2,?,Wigan Athletic (6)
+?,(Mon) 26 Dec 1988 (52),Bristol Rovers (28),0-0,?,Wolverhampton Wanderers (6)
+?,(Sat) 31 Dec 1988 (52),Bury FC (7),0-1,?,Aldershot Town FC (29)
+?,(Sat) 25 Mar 1989 (12),Bury FC (8),0-0,?,Blackpool FC (29)
+?,(Sat) 29 Apr 1989 (17),Bury FC (9),0-0,?,Bolton Wanderers (29)
+?,(Sat) 15 Oct 1988 (41),Bury FC (10),3-1,?,Brentford FC (29)
+?,(Mon) 26 Dec 1988 (52),Bury FC (11),2-1,?,Bristol City FC (29)
+?,(Sat) 13 May 1989 (19),Bury FC (12),0-0,?,Bristol Rovers (29)
+?,(Sat) 15 Apr 1989 (15),Bury FC (13),1-0,?,Cardiff City (7)
+?,(Tue) 8 Nov 1988 (45),Bury FC (14),2-1,?,Chester FC (7)
+?,(Sat) 4 Feb 1989 (5),Bury FC (15),2-1,?,Chesterfield FC (7)
+?,(Sat) 28 Jan 1989 (4),Bury FC (16),3-1,?,Fulham FC (7)
+?,(Sat) 4 Mar 1989 (9),Bury FC (17),1-0,?,Gillingham FC (7)
+?,(Sat) 1 Apr 1989 (13),Bury FC (18),0-6,?,Huddersfield Town (7)
+?,(Sat) 24 Sep 1988 (38),Bury FC (19),0-1,?,Mansfield Town (7)
+?,(Tue) 4 Apr 1989 (14),Bury FC (20),0-1,?,Northampton Town (7)
+?,(Sat) 5 Nov 1988 (44),Bury FC (21),1-1,?,Notts County FC (7)
+?,(Sat) 10 Sep 1988 (36),Bury FC (22),0-0,?,Port Vale FC (7)
+?,(Sat) 18 Feb 1989 (7),Bury FC (23),1-1,?,Preston North End (7)
+?,(Tue) 4 Oct 1988 (40),Bury FC (24),2-1,?,Reading FC (7)
+?,(Tue) 14 Mar 1989 (11),Bury FC (25),1-2,?,Sheffield United FC (7)
+?,(Tue) 25 Oct 1988 (43),Bury FC (26),3-1,?,Southend United (7)
+?,(Sat) 14 Jan 1989 (2),Bury FC (27),1-0,?,Swansea City (7)
+?,(Sat) 3 Dec 1988 (48),Bury FC (28),1-1,?,Wigan Athletic (7)
+?,(Sat) 27 Aug 1988 (34),Bury FC (29),3-1,?,Wolverhampton Wanderers (7)
+?,(Sat) 25 Mar 1989 (12),Cardiff City (8),3-2,?,Aldershot Town FC (30)
+?,(Tue) 16 May 1989 (20),Cardiff City (9),0-0,?,Blackpool FC (30)
+?,(Sat) 14 Jan 1989 (2),Cardiff City (10),1-0,?,Bolton Wanderers (30)
+?,(Fri) 25 Nov 1988 (47),Cardiff City (11),1-0,?,Brentford FC (30)
+?,(Sat) 1 Apr 1989 (13),Cardiff City (12),1-1,?,Bristol City FC (30)
+?,(Sat) 1 Oct 1988 (39),Cardiff City (13),2-2,?,Bristol Rovers (30)
+?,(Tue) 1 Nov 1988 (44),Cardiff City (14),3-0,?,Bury FC (30)
+?,(Tue) 9 May 1989 (19),Cardiff City (15),2-0,?,Chester FC (8)
+?,(Mon) 1 May 1989 (18),Cardiff City (16),0-1,?,Chesterfield FC (8)
+?,(Sat) 27 Aug 1988 (34),Cardiff City (17),1-2,?,Fulham FC (8)
+?,(Sat) 5 Nov 1988 (44),Cardiff City (18),1-0,?,Gillingham FC (8)
+?,(Sat) 10 Sep 1988 (36),Cardiff City (19),3-0,?,Huddersfield Town (8)
+?,(Sat) 4 Mar 1989 (9),Cardiff City (20),0-0,?,Mansfield Town (8)
+?,(Sat) 12 Nov 1988 (45),Cardiff City (21),1-0,?,Northampton Town (8)
+?,(Tue) 18 Apr 1989 (16),Cardiff City (22),0-1,?,Notts County FC (8)
+?,(Sat) 28 Jan 1989 (4),Cardiff City (23),3-0,?,Port Vale FC (8)
+?,(Fri) 5 May 1989 (18),Cardiff City (24),0-0,?,Preston North End (8)
+?,(Sat) 8 Oct 1988 (40),Cardiff City (25),1-2,?,Reading FC (8)
+?,(Sat) 11 Feb 1989 (6),Cardiff City (26),0-0,?,Sheffield United FC (8)
+?,(Sat) 22 Apr 1989 (16),Cardiff City (27),2-0,?,Southend United (8)
+?,(Mon) 26 Dec 1988 (52),Cardiff City (28),2-2,?,Swansea City (8)
+?,(Fri) 30 Dec 1988 (52),Cardiff City (29),2-2,?,Wigan Athletic (8)
+?,(Tue) 4 Apr 1989 (14),Cardiff City (30),1-1,?,Wolverhampton Wanderers (8)
+?,(Wed) 15 Mar 1989 (11),Chester FC (9),1-1,?,Aldershot Town FC (31)
+?,(Sat) 27 Aug 1988 (34),Chester FC (10),1-1,?,Blackpool FC (31)
+?,(Sat) 1 Apr 1989 (13),Chester FC (11),0-0,?,Bolton Wanderers (31)
+?,(Wed) 5 Oct 1988 (40),Chester FC (12),3-2,?,Brentford FC (31)
+?,(Sat) 10 Sep 1988 (36),Chester FC (13),2-0,?,Bristol City FC (31)
+?,(Sat) 4 Mar 1989 (9),Chester FC (14),0-2,?,Bristol Rovers (31)
+?,(Mon) 1 May 1989 (18),Chester FC (15),2-0,?,Bury FC (31)
+?,(Sat) 15 Oct 1988 (41),Chester FC (16),0-0,?,Cardiff City (31)
+?,(Sat) 12 Nov 1988 (45),Chester FC (17),3-1,?,Chesterfield FC (9)
+?,(Wed) 5 Apr 1989 (14),Chester FC (18),7-0,?,Fulham FC (9)
+?,(Sat) 6 May 1989 (18),Chester FC (19),2-0,?,Gillingham FC (9)
+?,(Sat) 24 Sep 1988 (38),Chester FC (20),3-0,?,Huddersfield Town (9)
+?,(Wed) 26 Oct 1988 (43),Chester FC (21),0-0,?,Mansfield Town (9)
+?,(Sat) 31 Dec 1988 (52),Chester FC (22),2-1,?,Northampton Town (9)
+?,(Sat) 18 Feb 1989 (7),Chester FC (23),1-0,?,Notts County FC (9)
+?,(Sat) 14 Jan 1989 (2),Chester FC (24),1-2,?,Port Vale FC (9)
+?,(Sat) 22 Apr 1989 (16),Chester FC (25),0-1,?,Preston North End (9)
+?,(Sat) 4 Feb 1989 (5),Chester FC (26),3-0,?,Reading FC (9)
+?,(Wed) 19 Apr 1989 (16),Chester FC (27),0-1,?,Sheffield United FC (9)
+?,(Sat) 26 Nov 1988 (47),Chester FC (28),2-4,?,Southend United (9)
+?,(Sat) 5 Nov 1988 (44),Chester FC (29),3-1,?,Swansea City (9)
+?,(Mon) 26 Dec 1988 (52),Chester FC (30),1-0,?,Wigan Athletic (9)
+?,(Sat) 25 Mar 1989 (12),Chester FC (31),1-1,?,Wolverhampton Wanderers (9)
+?,(Sat) 27 Aug 1988 (34),Chesterfield FC (10),2-1,?,Aldershot Town FC (32)
+?,(Sat) 24 Sep 1988 (38),Chesterfield FC (11),0-2,?,Blackpool FC (32)
+?,(Tue) 14 Mar 1989 (11),Chesterfield FC (12),1-1,?,Bolton Wanderers (32)
+?,(Tue) 25 Oct 1988 (43),Chesterfield FC (13),2-2,?,Brentford FC (32)
+?,(Sat) 14 Jan 1989 (2),Chesterfield FC (14),1-0,?,Bristol City FC (32)
+?,(Sat) 5 Nov 1988 (44),Chesterfield FC (15),0-3,?,Bristol Rovers (32)
+?,(Sat) 1 Oct 1988 (39),Chesterfield FC (16),1-2,?,Bury FC (32)
+?,(Tue) 21 Mar 1989 (12),Chesterfield FC (17),4-0,?,Cardiff City (32)
+?,(Sat) 29 Apr 1989 (17),Chesterfield FC (18),1-2,?,Chester FC (32)
+?,(Sat) 31 Dec 1988 (52),Chesterfield FC (19),4-1,?,Fulham FC (10)
+?,(Sat) 18 Feb 1989 (7),Chesterfield FC (20),3-1,?,Gillingham FC (10)
+?,(Mon) 26 Dec 1988 (52),Chesterfield FC (21),1-1,?,Huddersfield Town (10)
+?,(Sat) 3 Dec 1988 (48),Chesterfield FC (22),1-3,?,Mansfield Town (10)
+?,(Sat) 28 Jan 1989 (4),Chesterfield FC (23),1-1,?,Northampton Town (10)
+?,(Sat) 11 Feb 1989 (6),Chesterfield FC (24),3-0,?,Notts County FC (10)
+?,(Sat) 15 Apr 1989 (15),Chesterfield FC (25),1-2,?,Port Vale FC (10)
+?,(Sat) 15 Oct 1988 (41),Chesterfield FC (26),0-3,?,Preston North End (10)
+?,(Sat) 13 May 1989 (19),Chesterfield FC (27),2-4,?,Reading FC (10)
+?,(Sat) 25 Mar 1989 (12),Chesterfield FC (28),2-1,?,Sheffield United FC (10)
+?,(Sat) 4 Mar 1989 (9),Chesterfield FC (29),2-1,?,Southend United (10)
+?,(Sat) 1 Apr 1989 (13),Chesterfield FC (30),2-0,?,Swansea City (10)
+?,(Tue) 4 Apr 1989 (14),Chesterfield FC (31),1-1,?,Wigan Athletic (10)
+?,(Sat) 10 Sep 1988 (36),Chesterfield FC (32),0-3,?,Wolverhampton Wanderers (10)
+?,(Sat) 15 Oct 1988 (41),Fulham FC (11),5-1,?,Aldershot Town FC (33)
+?,(Sat) 5 Nov 1988 (44),Fulham FC (12),1-1,?,Blackpool FC (33)
+?,(Sat) 15 Apr 1989 (15),Fulham FC (13),1-1,?,Bolton Wanderers (33)
+?,(Mon) 2 Jan 1989 (1),Fulham FC (14),3-3,?,Brentford FC (33)
+?,(Sat) 18 Feb 1989 (7),Fulham FC (15),3-1,?,Bristol City FC (33)
+?,(Sat) 3 Dec 1988 (48),Fulham FC (16),0-2,?,Bristol Rovers (33)
+?,(Sat) 17 Sep 1988 (37),Fulham FC (17),1-0,?,Bury FC (33)
+?,(Sat) 18 Mar 1989 (11),Fulham FC (18),2-0,?,Cardiff City (33)
+?,(Sat) 7 Jan 1989 (1),Fulham FC (19),4-1,?,Chester FC (33)
+?,(Sat) 8 Apr 1989 (14),Fulham FC (20),2-1,?,Chesterfield FC (33)
+?,(Mon) 27 Mar 1989 (13),Fulham FC (21),1-2,?,Gillingham FC (11)
+?,(Sat) 4 Feb 1989 (5),Fulham FC (22),1-2,?,Huddersfield Town (11)
+?,(Sat) 21 Jan 1989 (3),Fulham FC (23),1-1,?,Mansfield Town (11)
+?,(Tue) 25 Oct 1988 (43),Fulham FC (24),3-2,?,Northampton Town (11)
+?,(Tue) 14 Mar 1989 (11),Fulham FC (25),2-1,?,Notts County FC (11)
+?,(Sat) 13 May 1989 (19),Fulham FC (26),1-2,?,Port Vale FC (11)
+?,(Sat) 17 Dec 1988 (50),Fulham FC (27),2-1,?,Preston North End (11)
+?,(Tue) 8 Nov 1988 (45),Fulham FC (28),2-1,?,Reading FC (11)
+?,(Sat) 29 Apr 1989 (17),Fulham FC (29),2-2,?,Sheffield United FC (11)
+?,(Sat) 3 Sep 1988 (35),Fulham FC (30),1-0,?,Southend United (11)
+?,(Sat) 4 Mar 1989 (9),Fulham FC (31),1-0,?,Swansea City (11)
+?,(Sat) 24 Sep 1988 (38),Fulham FC (32),1-1,?,Wigan Athletic (11)
+?,(Wed) 5 Oct 1988 (40),Fulham FC (33),2-2,?,Wolverhampton Wanderers (11)
+?,(Sat) 14 Jan 1989 (2),Gillingham FC (12),1-1,?,Aldershot Town FC (34)
+?,(Tue) 8 Nov 1988 (45),Gillingham FC (13),1-0,?,Blackpool FC (34)
+?,(Tue) 4 Apr 1989 (14),Gillingham FC (14),0-1,?,Bolton Wanderers (34)
+?,(Sat) 4 Feb 1989 (5),Gillingham FC (15),0-0,?,Brentford FC (34)
+?,(Tue) 4 Oct 1988 (40),Gillingham FC (16),0-1,?,Bristol City FC (34)
+?,(Fri) 28 Apr 1989 (17),Gillingham FC (17),2-3,?,Bristol Rovers (34)
+?,(Sat) 22 Oct 1988 (42),Gillingham FC (18),3-4,?,Bury FC (34)
+?,(Sat) 11 Mar 1989 (10),Gillingham FC (19),1-2,?,Cardiff City (34)
+?,(Sat) 3 Dec 1988 (48),Gillingham FC (20),0-2,?,Chester FC (34)
+?,(Sat) 8 Oct 1988 (40),Gillingham FC (21),0-1,?,Chesterfield FC (34)
+?,(Mon) 26 Dec 1988 (52),Gillingham FC (22),0-1,?,Fulham FC (34)
+?,(Sat) 28 Jan 1989 (4),Gillingham FC (23),1-2,?,Huddersfield Town (12)
+?,(Sat) 15 Apr 1989 (15),Gillingham FC (24),3-0,?,Mansfield Town (12)
+?,(Sat) 1 Apr 1989 (13),Gillingham FC (25),1-0,?,Northampton Town (12)
+?,(Sat) 13 May 1989 (19),Gillingham FC (26),2-1,?,Notts County FC (12)
+?,(Fri) 30 Dec 1988 (52),Gillingham FC (27),1-0,?,Port Vale FC (12)
+?,(Tue) 28 Feb 1989 (9),Gillingham FC (28),1-3,?,Preston North End (12)
+?,(Sat) 24 Sep 1988 (38),Gillingham FC (29),0-1,?,Reading FC (12)
+?,(Sat) 10 Sep 1988 (36),Gillingham FC (30),2-1,?,Sheffield United FC (12)
+?,(Sat) 25 Feb 1989 (8),Gillingham FC (31),1-1,?,Southend United (12)
+?,(Sat) 27 Aug 1988 (34),Gillingham FC (32),2-3,?,Swansea City (12)
+?,(Fri) 24 Mar 1989 (12),Gillingham FC (33),2-1,?,Wigan Athletic (12)
+?,(Sat) 29 Oct 1988 (43),Gillingham FC (34),1-3,?,Wolverhampton Wanderers (12)
+?,(Sat) 4 Mar 1989 (9),Huddersfield Town (13),2-1,?,Aldershot Town FC (35)
+?,(Sat) 3 Dec 1988 (48),Huddersfield Town (14),1-1,?,Blackpool FC (35)
+?,(Tue) 8 Nov 1988 (45),Huddersfield Town (15),0-1,?,Bolton Wanderers (35)
+?,(Tue) 25 Apr 1989 (17),Huddersfield Town (16),1-2,?,Brentford FC (35)
+?,(Sat) 15 Oct 1988 (41),Huddersfield Town (17),0-1,?,Bristol City FC (35)
+?,(Tue) 14 Mar 1989 (11),Huddersfield Town (18),2-3,?,Bristol Rovers (35)
+?,(Sat) 17 Dec 1988 (50),Huddersfield Town (19),3-2,?,Bury FC (35)
+?,(Sat) 21 Jan 1989 (3),Huddersfield Town (20),1-0,?,Cardiff City (35)
+?,(Sat) 15 Apr 1989 (15),Huddersfield Town (21),3-1,?,Chester FC (35)
+?,(Mon) 27 Mar 1989 (13),Huddersfield Town (22),1-1,?,Chesterfield FC (35)
+?,(Sat) 1 Oct 1988 (39),Huddersfield Town (23),2-0,?,Fulham FC (35)
+?,(Sat) 17 Sep 1988 (37),Huddersfield Town (24),1-1,?,Gillingham FC (35)
+?,(Sat) 8 Apr 1989 (14),Huddersfield Town (25),2-0,?,Mansfield Town (13)
+?,(Sat) 18 Feb 1989 (7),Huddersfield Town (26),1-2,?,Northampton Town (13)
+?,(Tue) 20 Sep 1988 (38),Huddersfield Town (27),3-1,?,Notts County FC (13)
+?,(Sat) 11 Feb 1989 (6),Huddersfield Town (28),0-0,?,Port Vale FC (13)
+?,(Sat) 3 Sep 1988 (35),Huddersfield Town (29),2-0,?,Preston North End (13)
+?,(Tue) 7 Mar 1989 (10),Huddersfield Town (30),2-2,?,Reading FC (13)
+?,(Sat) 5 Nov 1988 (44),Huddersfield Town (31),3-2,?,Sheffield United FC (13)
+?,(Mon) 2 Jan 1989 (1),Huddersfield Town (32),3-2,?,Southend United (13)
+?,(Tue) 25 Oct 1988 (43),Huddersfield Town (33),1-1,?,Swansea City (13)
+?,(Sat) 13 May 1989 (19),Huddersfield Town (34),1-1,?,Wigan Athletic (13)
+?,(Sat) 29 Apr 1989 (17),Huddersfield Town (35),0-0,?,Wolverhampton Wanderers (13)
+?,(Sat) 26 Nov 1988 (47),Mansfield Town (14),1-1,?,Aldershot Town FC (36)
+?,(Sat) 28 Jan 1989 (4),Mansfield Town (15),0-1,?,Blackpool FC (36)
+?,(Sat) 25 Mar 1989 (12),Mansfield Town (16),1-1,?,Bolton Wanderers (36)
+?,(Sat) 12 Nov 1988 (45),Mansfield Town (17),1-0,?,Brentford FC (36)
+?,(Sat) 29 Oct 1988 (43),Mansfield Town (18),2-2,?,Bristol City FC (36)
+?,(Sat) 8 Oct 1988 (40),Mansfield Town (19),2-1,?,Bristol Rovers (36)
+?,(Sat) 22 Apr 1989 (16),Mansfield Town (20),1-1,?,Bury FC (36)
+?,(Sat) 22 Oct 1988 (42),Mansfield Town (21),2-2,?,Cardiff City (36)
+?,(Tue) 28 Feb 1989 (9),Mansfield Town (22),2-0,?,Chester FC (36)
+?,(Sat) 6 May 1989 (18),Mansfield Town (23),3-1,?,Chesterfield FC (36)
+?,(Sat) 10 Sep 1988 (36),Mansfield Town (24),3-1,?,Fulham FC (36)
+?,(Tue) 20 Sep 1988 (38),Mansfield Town (25),2-1,?,Gillingham FC (36)
+?,(Sat) 31 Dec 1988 (52),Mansfield Town (26),1-0,?,Huddersfield Town (36)
+?,(Sat) 27 Aug 1988 (34),Mansfield Town (27),1-1,?,Northampton Town (14)
+?,(Sat) 1 Oct 1988 (39),Mansfield Town (28),1-1,?,Notts County FC (14)
+?,(Mon) 26 Dec 1988 (52),Mansfield Town (29),0-1,?,Port Vale FC (14)
+?,(Sat) 11 Mar 1989 (10),Mansfield Town (30),0-3,?,Preston North End (14)
+?,(Sat) 25 Feb 1989 (8),Mansfield Town (31),2-1,?,Reading FC (14)
+?,(Tue) 4 Apr 1989 (14),Mansfield Town (32),0-1,?,Sheffield United FC (14)
+?,(Sat) 11 Feb 1989 (6),Mansfield Town (33),4-0,?,Southend United (14)
+?,(Tue) 2 May 1989 (18),Mansfield Town (34),0-0,?,Swansea City (14)
+?,(Sat) 14 Jan 1989 (2),Mansfield Town (35),0-1,?,Wigan Athletic (14)
+?,(Sat) 1 Apr 1989 (13),Mansfield Town (36),3-1,?,Wolverhampton Wanderers (14)
+?,(Sat) 1 Oct 1988 (39),Northampton Town (15),6-0,?,Aldershot Town FC (37)
+?,(Sat) 11 Feb 1989 (6),Northampton Town (16),4-2,?,Blackpool FC (37)
+?,(Sat) 13 May 1989 (19),Northampton Town (17),2-3,?,Bolton Wanderers (37)
+?,(Sat) 3 Sep 1988 (35),Northampton Town (18),1-0,?,Brentford FC (37)
+?,(Sat) 22 Oct 1988 (42),Northampton Town (19),1-3,?,Bristol City FC (37)
+?,(Sat) 24 Sep 1988 (38),Northampton Town (20),1-2,?,Bristol Rovers (37)
+?,(Sat) 7 Jan 1989 (1),Northampton Town (21),2-0,?,Bury FC (37)
+?,(Sat) 29 Apr 1989 (17),Northampton Town (22),3-0,?,Cardiff City (37)
+?,(Sat) 8 Apr 1989 (14),Northampton Town (23),0-2,?,Chester FC (37)
+?,(Sat) 17 Sep 1988 (37),Northampton Town (24),3-0,?,Chesterfield FC (37)
+?,(Tue) 28 Feb 1989 (9),Northampton Town (25),2-1,?,Fulham FC (37)
+?,(Sun) 18 Dec 1988 (50),Northampton Town (26),1-2,?,Gillingham FC (37)
+?,(Sat) 8 Oct 1988 (40),Northampton Town (27),1-3,?,Huddersfield Town (37)
+?,(Sat) 18 Mar 1989 (11),Northampton Town (28),2-1,?,Mansfield Town (37)
+?,(Sat) 21 Jan 1989 (3),Northampton Town (29),1-3,?,Notts County FC (15)
+?,(Tue) 8 Nov 1988 (45),Northampton Town (30),1-3,?,Port Vale FC (15)
+?,(Mon) 2 Jan 1989 (1),Northampton Town (31),1-0,?,Preston North End (15)
+?,(Sat) 29 Oct 1988 (43),Northampton Town (32),1-3,?,Reading FC (15)
+?,(Sat) 15 Apr 1989 (15),Northampton Town (33),1-2,?,Sheffield United FC (15)
+?,(Mon) 27 Mar 1989 (13),Northampton Town (34),2-2,?,Southend United (15)
+?,(Sat) 25 Feb 1989 (8),Northampton Town (35),1-0,?,Swansea City (15)
+?,(Sat) 11 Mar 1989 (10),Northampton Town (36),1-1,?,Wigan Athletic (15)
+?,(Sun) 4 Dec 1988 (48),Northampton Town (37),3-1,?,Wolverhampton Wanderers (15)
+?,(Sat) 6 May 1989 (18),Notts County FC (16),4-1,?,Aldershot Town FC (38)
+?,(Sat) 14 Jan 1989 (2),Notts County FC (17),1-1,?,Blackpool FC (38)
+?,(Sat) 31 Dec 1988 (52),Notts County FC (18),2-0,?,Bolton Wanderers (38)
+?,(Mon) 1 May 1989 (18),Notts County FC (19),3-0,?,Brentford FC (38)
+?,(Sat) 27 Aug 1988 (34),Notts County FC (20),0-0,?,Bristol City FC (38)
+?,(Sat) 25 Feb 1989 (8),Notts County FC (21),1-0,?,Bristol Rovers (38)
+?,(Sat) 11 Mar 1989 (10),Notts County FC (22),3-0,?,Bury FC (38)
+?,(Tue) 28 Feb 1989 (9),Notts County FC (23),2-0,?,Cardiff City (38)
+?,(Sun) 9 Oct 1988 (40),Notts County FC (24),2-2,?,Chester FC (38)
+?,(Tue) 4 Oct 1988 (40),Notts County FC (25),4-0,?,Chesterfield FC (38)
+?,(Sat) 29 Oct 1988 (43),Notts County FC (26),0-1,?,Fulham FC (38)
+?,(Sat) 26 Nov 1988 (47),Notts County FC (27),1-2,?,Gillingham FC (38)
+?,(Sat) 22 Apr 1989 (16),Notts County FC (28),3-0,?,Huddersfield Town (38)
+?,(Sat) 4 Feb 1989 (5),Notts County FC (29),2-1,?,Mansfield Town (38)
+?,(Sat) 10 Sep 1988 (36),Notts County FC (30),0-1,?,Northampton Town (38)
+?,(Sat) 25 Mar 1989 (12),Notts County FC (31),1-4,?,Port Vale FC (16)
+?,(Sat) 24 Sep 1988 (38),Notts County FC (32),0-0,?,Preston North End (16)
+?,(Sat) 22 Oct 1988 (42),Notts County FC (33),3-3,?,Reading FC (16)
+?,(Mon) 26 Dec 1988 (52),Notts County FC (34),1-4,?,Sheffield United FC (16)
+?,(Sat) 12 Nov 1988 (45),Notts County FC (35),1-1,?,Southend United (16)
+?,(Tue) 4 Apr 1989 (14),Notts County FC (36),1-0,?,Swansea City (16)
+?,(Sat) 1 Apr 1989 (13),Notts County FC (37),1-0,?,Wigan Athletic (16)
+?,(Sun) 29 Jan 1989 (4),Notts County FC (38),1-1,?,Wolverhampton Wanderers (16)
+?,(Mon) 13 Feb 1989 (7),Port Vale FC (17),3-0,?,Aldershot Town FC (39)
+?,(Sat) 4 Mar 1989 (9),Port Vale FC (18),1-0,?,Blackpool FC (39)
+?,(Sat) 15 Oct 1988 (41),Port Vale FC (19),2-1,?,Bolton Wanderers (39)
+?,(Mon) 13 Mar 1989 (11),Port Vale FC (20),3-2,?,Brentford FC (39)
+?,(Fri) 21 Apr 1989 (16),Port Vale FC (21),0-1,?,Bristol City FC (39)
+?,(Tue) 9 May 1989 (19),Port Vale FC (22),1-0,?,Bristol Rovers (39)
+?,(Sat) 21 Jan 1989 (3),Port Vale FC (23),1-3,?,Bury FC (39)
+?,(Sat) 17 Sep 1988 (37),Port Vale FC (24),6-1,?,Cardiff City (39)
+?,(Sat) 3 Sep 1988 (35),Port Vale FC (25),1-2,?,Chester FC (39)
+?,(Mon) 19 Sep 1988 (38),Port Vale FC (26),5-0,?,Chesterfield FC (39)
+?,(Sat) 26 Nov 1988 (47),Port Vale FC (27),3-0,?,Fulham FC (39)
+?,(Sat) 8 Apr 1989 (14),Port Vale FC (28),2-1,?,Gillingham FC (39)
+?,(Mon) 3 Oct 1988 (40),Port Vale FC (29),2-0,?,Huddersfield Town (39)
+?,(Mon) 27 Mar 1989 (13),Port Vale FC (30),1-2,?,Mansfield Town (39)
+?,(Mon) 1 May 1989 (18),Port Vale FC (31),1-2,?,Northampton Town (39)
+?,(Mon) 2 Jan 1989 (1),Port Vale FC (32),1-0,?,Notts County FC (39)
+?,(Sat) 18 Mar 1989 (11),Port Vale FC (33),1-1,?,Preston North End (17)
+?,(Sat) 17 Dec 1988 (50),Port Vale FC (34),3-0,?,Reading FC (17)
+?,(Mon) 24 Oct 1988 (43),Port Vale FC (35),3-3,?,Sheffield United FC (17)
+?,(Sat) 6 May 1989 (18),Port Vale FC (36),2-0,?,Southend United (17)
+?,(Sat) 12 Nov 1988 (45),Port Vale FC (37),2-1,?,Swansea City (17)
+?,(Sat) 18 Feb 1989 (7),Port Vale FC (38),2-1,?,Wigan Athletic (17)
+?,(Sat) 4 Feb 1989 (5),Port Vale FC (39),0-0,?,Wolverhampton Wanderers (17)
+?,(Tue) 4 Apr 1989 (14),Preston North End (18),2-2,?,Aldershot Town FC (40)
+?,(Sat) 10 Sep 1988 (36),Preston North End (19),1-0,?,Blackpool FC (40)
+?,(Mon) 26 Dec 1988 (52),Preston North End (20),3-1,?,Bolton Wanderers (40)
+?,(Sat) 4 Mar 1989 (9),Preston North End (21),5-3,?,Brentford FC (40)
+?,(Sat) 28 Jan 1989 (4),Preston North End (22),2-0,?,Bristol City FC (40)
+?,(Sat) 11 Feb 1989 (6),Preston North End (23),1-1,?,Bristol Rovers (40)
+?,(Sat) 8 Oct 1988 (40),Preston North End (24),1-0,?,Bury FC (40)
+?,(Sat) 3 Dec 1988 (48),Preston North End (25),3-3,?,Cardiff City (40)
+?,(Tue) 20 Sep 1988 (38),Preston North End (26),3-3,?,Chester FC (40)
+?,(Sat) 25 Feb 1989 (8),Preston North End (27),6-0,?,Chesterfield FC (40)
+?,(Sat) 1 Apr 1989 (13),Preston North End (28),1-4,?,Fulham FC (40)
+?,(Tue) 25 Oct 1988 (43),Preston North End (29),5-0,?,Gillingham FC (40)
+?,(Sat) 14 Jan 1989 (2),Preston North End (30),1-0,?,Huddersfield Town (40)
+?,(Sat) 5 Nov 1988 (44),Preston North End (31),2-0,?,Mansfield Town (40)
+?,(Sat) 25 Mar 1989 (12),Preston North End (32),3-2,?,Northampton Town (40)
+?,(Sat) 15 Apr 1989 (15),Preston North End (33),3-0,?,Notts County FC (40)
+?,(Sat) 27 Aug 1988 (34),Preston North End (34),1-3,?,Port Vale FC (40)
+?,(Sat) 29 Apr 1989 (17),Preston North End (35),2-1,?,Reading FC (18)
+?,(Sat) 31 Dec 1988 (52),Preston North End (36),2-0,?,Sheffield United FC (18)
+?,(Sat) 1 Oct 1988 (39),Preston North End (37),3-2,?,Southend United (18)
+?,(Tue) 14 Mar 1989 (11),Preston North End (38),1-1,?,Swansea City (18)
+?,(Tue) 8 Nov 1988 (45),Preston North End (39),2-2,?,Wigan Athletic (18)
+?,(Sat) 13 May 1989 (19),Preston North End (40),3-3,?,Wolverhampton Wanderers (18)
+?,(Mon) 26 Dec 1988 (52),Reading FC (19),3-1,?,Aldershot Town FC (41)
+?,(Fri) 30 Dec 1988 (52),Reading FC (20),2-1,?,Blackpool FC (41)
+?,(Sat) 10 Sep 1988 (36),Reading FC (21),1-1,?,Bolton Wanderers (41)
+?,(Sat) 5 Nov 1988 (44),Reading FC (22),2-2,?,Brentford FC (41)
+?,(Fri) 5 May 1989 (18),Reading FC (23),1-2,?,Bristol City FC (41)
+?,(Wed) 26 Oct 1988 (43),Reading FC (24),3-1,?,Bristol Rovers (41)
+?,(Sat) 11 Feb 1989 (6),Reading FC (25),1-1,?,Bury FC (41)
+?,(Sat) 18 Feb 1989 (7),Reading FC (26),3-1,?,Cardiff City (41)
+?,(Sat) 1 Oct 1988 (39),Reading FC (27),3-1,?,Chester FC (41)
+?,(Sat) 26 Nov 1988 (47),Reading FC (28),0-0,?,Chesterfield FC (41)
+?,(Mon) 1 May 1989 (18),Reading FC (29),0-1,?,Fulham FC (41)
+?,(Sat) 22 Apr 1989 (16),Reading FC (30),1-2,?,Gillingham FC (41)
+?,(Wed) 5 Apr 1989 (14),Reading FC (31),2-1,?,Huddersfield Town (41)
+?,(Sat) 15 Oct 1988 (41),Reading FC (32),1-0,?,Mansfield Town (41)
+?,(Wed) 15 Mar 1989 (11),Reading FC (33),1-1,?,Northampton Town (41)
+?,(Sat) 4 Mar 1989 (9),Reading FC (34),1-3,?,Notts County FC (41)
+?,(Sat) 1 Apr 1989 (13),Reading FC (35),3-0,?,Port Vale FC (41)
+?,(Sat) 12 Nov 1988 (45),Reading FC (36),2-2,?,Preston North End (41)
+?,(Sat) 27 Aug 1988 (34),Reading FC (37),1-3,?,Sheffield United FC (19)
+?,(Wed) 21 Sep 1988 (38),Reading FC (38),4-0,?,Southend United (19)
+?,(Sat) 25 Mar 1989 (12),Reading FC (39),2-0,?,Swansea City (19)
+?,(Wed) 19 Apr 1989 (16),Reading FC (40),0-3,?,Wigan Athletic (19)
+?,(Sat) 14 Jan 1989 (2),Reading FC (41),0-2,?,Wolverhampton Wanderers (19)
+?,(Mon) 1 May 1989 (18),Sheffield United FC (20),1-0,?,Aldershot Town FC (42)
+?,(Sat) 25 Feb 1989 (8),Sheffield United FC (21),4-1,?,Blackpool FC (42)
+?,(Sat) 4 Feb 1989 (5),Sheffield United FC (22),4-0,?,Bolton Wanderers (42)
+?,(Sat) 22 Apr 1989 (16),Sheffield United FC (23),2-2,?,Brentford FC (42)
+?,(Sat) 26 Nov 1988 (47),Sheffield United FC (24),3-0,?,Bristol City FC (42)
+?,(Sat) 3 Sep 1988 (35),Sheffield United FC (25),4-1,?,Bristol Rovers (42)
+?,(Sat) 29 Oct 1988 (43),Sheffield United FC (26),2-1,?,Bury FC (42)
+?,(Tue) 11 Apr 1989 (15),Sheffield United FC (27),0-1,?,Cardiff City (42)
+?,(Sat) 17 Sep 1988 (37),Sheffield United FC (28),6-1,?,Chester FC (42)
+?,(Mon) 2 Jan 1989 (1),Sheffield United FC (29),1-3,?,Chesterfield FC (42)
+?,(Sat) 12 Nov 1988 (45),Sheffield United FC (30),1-0,?,Fulham FC (42)
+?,(Sat) 21 Jan 1989 (3),Sheffield United FC (31),4-2,?,Gillingham FC (42)
+?,(Sat) 11 Mar 1989 (10),Sheffield United FC (32),5-1,?,Huddersfield Town (42)
+?,(Tue) 25 Apr 1989 (17),Sheffield United FC (33),1-2,?,Mansfield Town (42)
+?,(Tue) 20 Sep 1988 (38),Sheffield United FC (34),4-0,?,Northampton Town (42)
+?,(Mon) 27 Mar 1989 (13),Sheffield United FC (35),1-1,?,Notts County FC (42)
+?,(Tue) 28 Feb 1989 (9),Sheffield United FC (36),0-0,?,Port Vale FC (42)
+?,(Sat) 8 Apr 1989 (14),Sheffield United FC (37),3-1,?,Preston North End (42)
+?,(Sat) 18 Mar 1989 (11),Sheffield United FC (38),1-0,?,Reading FC (42)
+?,(Sat) 17 Dec 1988 (50),Sheffield United FC (39),1-2,?,Southend United (20)
+?,(Sat) 6 May 1989 (18),Sheffield United FC (40),5-1,?,Swansea City (20)
+?,(Sat) 22 Oct 1988 (42),Sheffield United FC (41),2-1,?,Wigan Athletic (20)
+?,(Sat) 8 Oct 1988 (40),Sheffield United FC (42),2-0,?,Wolverhampton Wanderers (20)
+?,(Sat) 28 Jan 1989 (4),Southend United (21),1-1,?,Aldershot Town FC (43)
+?,(Tue) 4 Apr 1989 (14),Southend United (22),2-1,?,Blackpool FC (43)
+?,(Sat) 27 Aug 1988 (34),Southend United (23),2-0,?,Bolton Wanderers (43)
+?,(Tue) 18 Apr 1989 (16),Southend United (24),1-1,?,Brentford FC (43)
+?,(Sat) 31 Dec 1988 (52),Southend United (25),1-2,?,Bristol City FC (43)
+?,(Tue) 8 Nov 1988 (45),Southend United (26),2-2,?,Bristol Rovers (43)
+?,(Tue) 28 Feb 1989 (9),Southend United (27),1-1,?,Bury FC (43)
+?,(Fri) 23 Sep 1988 (38),Southend United (28),0-0,?,Cardiff City (43)
+?,(Sat) 13 May 1989 (19),Southend United (29),1-0,?,Chester FC (43)
+?,(Sat) 22 Oct 1988 (42),Southend United (30),3-1,?,Chesterfield FC (43)
+?,(Fri) 13 Jan 1989 (2),Southend United (31),0-0,?,Fulham FC (43)
+?,(Sat) 15 Oct 1988 (41),Southend United (32),2-1,?,Gillingham FC (43)
+?,(Sat) 25 Mar 1989 (12),Southend United (33),2-4,?,Huddersfield Town (43)
+?,(Tue) 4 Oct 1988 (40),Southend United (34),1-1,?,Mansfield Town (43)
+?,(Mon) 26 Dec 1988 (52),Southend United (35),2-1,?,Northampton Town (43)
+?,(Fri) 28 Apr 1989 (17),Southend United (36),1-1,?,Notts County FC (43)
+?,(Fri) 2 Dec 1988 (48),Southend United (37),1-1,?,Port Vale FC (43)
+?,(Fri) 3 Feb 1989 (5),Southend United (38),2-1,?,Preston North End (43)
+?,(Fri) 14 Apr 1989 (15),Southend United (39),2-1,?,Reading FC (43)
+?,(Fri) 31 Mar 1989 (13),Southend United (40),2-1,?,Sheffield United FC (43)
+?,(Fri) 9 Sep 1988 (36),Southend United (41),0-2,?,Swansea City (21)
+?,(Fri) 28 Oct 1988 (43),Southend United (42),1-2,?,Wigan Athletic (21)
+?,(Fri) 10 Mar 1989 (10),Southend United (43),3-1,?,Wolverhampton Wanderers (21)
+?,(Fri) 17 Feb 1989 (7),Swansea City (22),1-0,?,Aldershot Town FC (44)
+?,(Sat) 13 May 1989 (19),Swansea City (23),1-2,?,Blackpool FC (44)
+?,(Tue) 4 Oct 1988 (40),Swansea City (24),1-0,?,Bolton Wanderers (44)
+?,(Sat) 17 Sep 1988 (37),Swansea City (25),1-1,?,Brentford FC (44)
+?,(Fri) 3 Feb 1989 (5),Swansea City (26),1-1,?,Bristol City FC (44)
+?,(Sat) 8 Apr 1989 (14),Swansea City (27),1-2,?,Bristol Rovers (44)
+?,(Sat) 3 Sep 1988 (35),Swansea City (28),1-1,?,Bury FC (44)
+?,(Mon) 27 Mar 1989 (13),Swansea City (29),1-1,?,Cardiff City (44)
+?,(Sat) 11 Mar 1989 (10),Swansea City (30),1-1,?,Chester FC (44)
+?,(Sat) 17 Dec 1988 (50),Swansea City (31),2-0,?,Chesterfield FC (44)
+?,(Sat) 22 Oct 1988 (42),Swansea City (32),2-0,?,Fulham FC (44)
+?,(Sun) 19 Mar 1989 (11),Swansea City (33),3-2,?,Gillingham FC (44)
+?,(Wed) 22 Mar 1989 (12),Swansea City (34),1-0,?,Huddersfield Town (44)
+?,(Tue) 8 Nov 1988 (45),Swansea City (35),3-1,?,Mansfield Town (44)
+?,(Sat) 15 Oct 1988 (41),Swansea City (36),1-0,?,Northampton Town (44)
+?,(Sat) 7 Jan 1989 (1),Swansea City (37),2-0,?,Notts County FC (44)
+?,(Sat) 29 Apr 1989 (17),Swansea City (38),0-0,?,Port Vale FC (44)
+?,(Sat) 29 Oct 1988 (43),Swansea City (39),1-1,?,Preston North End (44)
+?,(Mon) 2 Jan 1989 (1),Swansea City (40),2-0,?,Reading FC (44)
+?,(Sat) 3 Dec 1988 (48),Swansea City (41),2-2,?,Sheffield United FC (44)
+?,(Sat) 21 Jan 1989 (3),Swansea City (42),2-0,?,Southend United (44)
+?,(Sat) 15 Apr 1989 (15),Swansea City (43),1-2,?,Wigan Athletic (22)
+?,(Sat) 24 Sep 1988 (38),Swansea City (44),2-5,?,Wolverhampton Wanderers (22)
+?,(Sat) 11 Feb 1989 (6),Wigan Athletic (23),2-1,?,Aldershot Town FC (45)
+?,(Fri) 30 Sep 1988 (39),Wigan Athletic (24),2-1,?,Blackpool FC (45)
+?,(Tue) 25 Oct 1988 (43),Wigan Athletic (25),1-1,?,Bolton Wanderers (45)
+?,(Sat) 21 Jan 1989 (3),Wigan Athletic (26),1-1,?,Brentford FC (45)
+?,(Sat) 12 Nov 1988 (45),Wigan Athletic (27),0-1,?,Bristol City FC (45)
+?,(Wed) 3 May 1989 (18),Wigan Athletic (28),3-0,?,Bristol Rovers (45)
+?,(Sat) 6 May 1989 (18),Wigan Athletic (29),1-0,?,Bury FC (45)
+?,(Fri) 7 Apr 1989 (14),Wigan Athletic (30),1-0,?,Cardiff City (45)
+?,(Mon) 27 Mar 1989 (13),Wigan Athletic (31),3-0,?,Chester FC (45)
+?,(Sat) 7 Jan 1989 (1),Wigan Athletic (32),0-2,?,Chesterfield FC (45)
+?,(Sat) 22 Apr 1989 (16),Wigan Athletic (33),0-1,?,Fulham FC (45)
+?,(Mon) 2 Jan 1989 (1),Wigan Athletic (34),3-0,?,Gillingham FC (45)
+?,(Sat) 26 Nov 1988 (47),Wigan Athletic (35),0-2,?,Huddersfield Town (45)
+?,(Sat) 3 Sep 1988 (35),Wigan Athletic (36),0-0,?,Mansfield Town (45)
+?,(Sat) 5 Nov 1988 (44),Wigan Athletic (37),1-3,?,Northampton Town (45)
+?,(Sun) 18 Dec 1988 (50),Wigan Athletic (38),0-1,?,Notts County FC (45)
+?,(Sat) 8 Oct 1988 (40),Wigan Athletic (39),0-2,?,Port Vale FC (45)
+?,(Mon) 1 May 1989 (18),Wigan Athletic (40),1-1,?,Preston North End (45)
+?,(Sat) 17 Sep 1988 (37),Wigan Athletic (41),3-0,?,Reading FC (45)
+?,(Sat) 4 Mar 1989 (9),Wigan Athletic (42),1-2,?,Sheffield United FC (45)
+?,(Sat) 10 Dec 1988 (49),Wigan Athletic (43),3-0,?,Southend United (45)
+?,(Tue) 1 Nov 1988 (44),Wigan Athletic (44),1-2,?,Swansea City (45)
+?,(Tue) 16 May 1989 (20),Wigan Athletic (45),1-1,?,Wolverhampton Wanderers (23)
+?,(Tue) 20 Sep 1988 (38),Wolverhampton Wanderers (24),1-0,?,Aldershot Town FC (46)
+?,(Tue) 25 Oct 1988 (43),Wolverhampton Wanderers (25),2-1,?,Blackpool FC (46)
+?,(Sat) 4 Mar 1989 (9),Wolverhampton Wanderers (26),1-0,?,Bolton Wanderers (46)
+?,(Sat) 8 Apr 1989 (14),Wolverhampton Wanderers (27),2-0,?,Brentford FC (46)
+?,(Mon) 1 May 1989 (18),Wolverhampton Wanderers (28),2-0,?,Bristol City FC (46)
+?,(Mon) 27 Mar 1989 (13),Wolverhampton Wanderers (29),0-1,?,Bristol Rovers (46)
+?,(Sat) 18 Mar 1989 (11),Wolverhampton Wanderers (30),4-0,?,Bury FC (46)
+?,(Tue) 10 Jan 1989 (2),Wolverhampton Wanderers (31),2-0,?,Cardiff City (46)
+?,(Mon) 2 Jan 1989 (1),Wolverhampton Wanderers (32),3-1,?,Chester FC (46)
+?,(Sat) 21 Jan 1989 (3),Wolverhampton Wanderers (33),1-0,?,Chesterfield FC (46)
+?,(Sat) 11 Feb 1989 (6),Wolverhampton Wanderers (34),5-2,?,Fulham FC (46)
+?,(Tue) 14 Mar 1989 (11),Wolverhampton Wanderers (35),6-1,?,Gillingham FC (46)
+?,(Sat) 12 Nov 1988 (45),Wolverhampton Wanderers (36),4-1,?,Huddersfield Town (46)
+?,(Sat) 17 Dec 1988 (50),Wolverhampton Wanderers (37),6-2,?,Mansfield Town (46)
+?,(Sat) 6 May 1989 (18),Wolverhampton Wanderers (38),3-2,?,Northampton Town (46)
+?,(Sat) 17 Sep 1988 (37),Wolverhampton Wanderers (39),0-0,?,Notts County FC (46)
+?,(Sat) 1 Oct 1988 (39),Wolverhampton Wanderers (40),3-3,?,Port Vale FC (46)
+?,(Sat) 26 Nov 1988 (47),Wolverhampton Wanderers (41),6-0,?,Preston North End (46)
+?,(Sat) 3 Sep 1988 (35),Wolverhampton Wanderers (42),2-1,?,Reading FC (46)
+?,(Tue) 9 May 1989 (19),Wolverhampton Wanderers (43),2-2,?,Sheffield United FC (46)
+?,(Sat) 5 Nov 1988 (44),Wolverhampton Wanderers (44),3-0,?,Southend United (46)
+?,(Sat) 22 Apr 1989 (16),Wolverhampton Wanderers (45),1-1,?,Swansea City (46)
+?,(Sat) 15 Oct 1988 (41),Wolverhampton Wanderers (46),2-1,?,Wigan Athletic (46)

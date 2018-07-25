@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Ashington,Accrington Stanley,1-1,-
--,-,Barrow,Accrington Stanley,0-0,-
--,-,Bradford Park Avenue,Accrington Stanley,1-1,-
--,-,Chesterfield,Accrington Stanley,3-0,-
--,-,Crewe Alexandra,Accrington Stanley,1-2,-
--,-,Darlington,Accrington Stanley,2-1,-
--,-,Doncaster Rovers,Accrington Stanley,1-2,-
--,-,Durham City,Accrington Stanley,3-0,-
--,-,Grimsby Town,Accrington Stanley,2-0,-
--,-,Halifax Town,Accrington Stanley,3-0,-
--,-,Hartlepool United,Accrington Stanley,3-0,-
--,-,Lincoln City,Accrington Stanley,0-2,-
--,-,New Brighton,Accrington Stanley,1-2,-
--,-,Rochdale,Accrington Stanley,4-1,-
--,-,Rotherham County,Accrington Stanley,2-0,-
--,-,Southport,Accrington Stanley,1-0,-
--,-,Tranmere Rovers,Accrington Stanley,2-0,-
--,-,Walsall,Accrington Stanley,2-0,-
--,-,Wigan Borough,Accrington Stanley,2-0,-
--,-,Wolverhampton Wanderers,Accrington Stanley,5-1,-
--,-,Wrexham,Accrington Stanley,1-0,-
--,-,Accrington Stanley,Ashington,0-1,-
--,-,Barrow,Ashington,2-2,-
--,-,Bradford Park Avenue,Ashington,3-1,-
--,-,Chesterfield,Ashington,2-0,-
--,-,Crewe Alexandra,Ashington,1-3,-
--,-,Darlington,Ashington,3-2,-
--,-,Doncaster Rovers,Ashington,2-1,-
--,-,Durham City,Ashington,4-0,-
--,-,Grimsby Town,Ashington,4-0,-
--,-,Halifax Town,Ashington,3-0,-
--,-,Hartlepool United,Ashington,0-1,-
--,-,Lincoln City,Ashington,2-0,-
--,-,New Brighton,Ashington,1-1,-
--,-,Rochdale,Ashington,1-0,-
--,-,Rotherham County,Ashington,1-0,-
--,-,Southport,Ashington,2-0,-
--,-,Tranmere Rovers,Ashington,2-4,-
--,-,Walsall,Ashington,1-1,-
--,-,Wigan Borough,Ashington,1-1,-
--,-,Wolverhampton Wanderers,Ashington,1-0,-
--,-,Wrexham,Ashington,4-0,-
--,-,Accrington Stanley,Barrow,3-1,-
--,-,Ashington,Barrow,2-0,-
--,-,Bradford Park Avenue,Barrow,3-0,-
--,-,Chesterfield,Barrow,2-1,-
--,-,Crewe Alexandra,Barrow,2-0,-
--,-,Darlington,Barrow,5-1,-
--,-,Doncaster Rovers,Barrow,2-2,-
--,-,Durham City,Barrow,1-2,-
--,-,Grimsby Town,Barrow,5-0,-
--,-,Halifax Town,Barrow,1-0,-
--,-,Hartlepool United,Barrow,1-0,-
--,-,Lincoln City,Barrow,4-1,-
--,-,New Brighton,Barrow,5-0,-
--,-,Rochdale,Barrow,3-1,-
--,-,Rotherham County,Barrow,2-0,-
--,-,Southport,Barrow,2-0,-
--,-,Tranmere Rovers,Barrow,3-0,-
--,-,Walsall,Barrow,1-1,-
--,-,Wigan Borough,Barrow,4-0,-
--,-,Wolverhampton Wanderers,Barrow,3-0,-
--,-,Wrexham,Barrow,2-0,-
--,-,Accrington Stanley,Bradford Park Avenue,2-2,-
--,-,Ashington,Bradford Park Avenue,1-0,-
--,-,Barrow,Bradford Park Avenue,1-1,-
--,-,Chesterfield,Bradford Park Avenue,2-3,-
--,-,Crewe Alexandra,Bradford Park Avenue,1-1,-
--,-,Darlington,Bradford Park Avenue,3-1,-
--,-,Doncaster Rovers,Bradford Park Avenue,1-1,-
--,-,Durham City,Bradford Park Avenue,2-0,-
--,-,Grimsby Town,Bradford Park Avenue,2-0,-
--,-,Halifax Town,Bradford Park Avenue,0-0,-
--,-,Hartlepool United,Bradford Park Avenue,0-0,-
--,-,Lincoln City,Bradford Park Avenue,2-3,-
--,-,New Brighton,Bradford Park Avenue,1-0,-
--,-,Rochdale,Bradford Park Avenue,3-0,-
--,-,Rotherham County,Bradford Park Avenue,1-0,-
--,-,Southport,Bradford Park Avenue,1-0,-
--,-,Tranmere Rovers,Bradford Park Avenue,2-1,-
--,-,Walsall,Bradford Park Avenue,2-3,-
--,-,Wigan Borough,Bradford Park Avenue,0-1,-
--,-,Wolverhampton Wanderers,Bradford Park Avenue,2-0,-
--,-,Wrexham,Bradford Park Avenue,2-2,-
--,-,Accrington Stanley,Chesterfield,2-0,-
--,-,Ashington,Chesterfield,1-1,-
--,-,Barrow,Chesterfield,2-0,-
--,-,Bradford Park Avenue,Chesterfield,2-1,-
--,-,Crewe Alexandra,Chesterfield,0-1,-
--,-,Darlington,Chesterfield,2-1,-
--,-,Doncaster Rovers,Chesterfield,0-2,-
--,-,Durham City,Chesterfield,1-1,-
--,-,Grimsby Town,Chesterfield,0-0,-
--,-,Halifax Town,Chesterfield,2-0,-
--,-,Hartlepool United,Chesterfield,2-3,-
--,-,Lincoln City,Chesterfield,0-1,-
--,-,New Brighton,Chesterfield,0-0,-
--,-,Rochdale,Chesterfield,3-0,-
--,-,Rotherham County,Chesterfield,1-2,-
--,-,Southport,Chesterfield,1-0,-
--,-,Tranmere Rovers,Chesterfield,0-0,-
--,-,Walsall,Chesterfield,0-1,-
--,-,Wigan Borough,Chesterfield,3-1,-
--,-,Wolverhampton Wanderers,Chesterfield,2-1,-
--,-,Wrexham,Chesterfield,0-0,-
--,-,Accrington Stanley,Crewe Alexandra,1-1,-
--,-,Ashington,Crewe Alexandra,3-0,-
--,-,Barrow,Crewe Alexandra,1-2,-
--,-,Bradford Park Avenue,Crewe Alexandra,1-1,-
--,-,Chesterfield,Crewe Alexandra,2-1,-
--,-,Darlington,Crewe Alexandra,1-1,-
--,-,Doncaster Rovers,Crewe Alexandra,4-1,-
--,-,Durham City,Crewe Alexandra,3-1,-
--,-,Grimsby Town,Crewe Alexandra,2-0,-
--,-,Halifax Town,Crewe Alexandra,2-0,-
--,-,Hartlepool United,Crewe Alexandra,2-2,-
--,-,Lincoln City,Crewe Alexandra,0-0,-
--,-,New Brighton,Crewe Alexandra,2-1,-
--,-,Rochdale,Crewe Alexandra,1-0,-
--,-,Rotherham County,Crewe Alexandra,1-0,-
--,-,Southport,Crewe Alexandra,1-0,-
--,-,Tranmere Rovers,Crewe Alexandra,1-1,-
--,-,Walsall,Crewe Alexandra,1-0,-
--,-,Wigan Borough,Crewe Alexandra,3-0,-
--,-,Wolverhampton Wanderers,Crewe Alexandra,1-0,-
--,-,Wrexham,Crewe Alexandra,1-0,-
--,-,Accrington Stanley,Darlington,2-0,-
--,-,Ashington,Darlington,2-1,-
--,-,Barrow,Darlington,1-0,-
--,-,Bradford Park Avenue,Darlington,1-0,-
--,-,Chesterfield,Darlington,5-1,-
--,-,Crewe Alexandra,Darlington,2-1,-
--,-,Doncaster Rovers,Darlington,1-0,-
--,-,Durham City,Darlington,3-2,-
--,-,Grimsby Town,Darlington,3-0,-
--,-,Halifax Town,Darlington,1-4,-
--,-,Hartlepool United,Darlington,0-1,-
--,-,Lincoln City,Darlington,2-0,-
--,-,New Brighton,Darlington,1-1,-
--,-,Rochdale,Darlington,0-0,-
--,-,Rotherham County,Darlington,2-0,-
--,-,Southport,Darlington,1-0,-
--,-,Tranmere Rovers,Darlington,1-4,-
--,-,Walsall,Darlington,2-1,-
--,-,Wigan Borough,Darlington,2-2,-
--,-,Wolverhampton Wanderers,Darlington,2-0,-
--,-,Wrexham,Darlington,0-1,-
--,-,Accrington Stanley,Doncaster Rovers,0-0,-
--,-,Ashington,Doncaster Rovers,3-1,-
--,-,Barrow,Doncaster Rovers,0-0,-
--,-,Bradford Park Avenue,Doncaster Rovers,4-2,-
--,-,Chesterfield,Doncaster Rovers,2-1,-
--,-,Crewe Alexandra,Doncaster Rovers,0-2,-
--,-,Darlington,Doncaster Rovers,1-1,-
--,-,Durham City,Doncaster Rovers,2-1,-
--,-,Grimsby Town,Doncaster Rovers,1-1,-
--,-,Halifax Town,Doncaster Rovers,0-1,-
--,-,Hartlepool United,Doncaster Rovers,1-1,-
--,-,Lincoln City,Doncaster Rovers,1-1,-
--,-,New Brighton,Doncaster Rovers,2-0,-
--,-,Rochdale,Doncaster Rovers,2-0,-
--,-,Rotherham County,Doncaster Rovers,3-0,-
--,-,Southport,Doncaster Rovers,2-2,-
--,-,Tranmere Rovers,Doncaster Rovers,3-0,-
--,-,Walsall,Doncaster Rovers,5-2,-
--,-,Wigan Borough,Doncaster Rovers,1-0,-
--,-,Wolverhampton Wanderers,Doncaster Rovers,1-0,-
--,-,Wrexham,Doncaster Rovers,2-2,-
--,-,Accrington Stanley,Durham City,5-4,-
--,-,Ashington,Durham City,2-1,-
--,-,Barrow,Durham City,1-2,-
--,-,Bradford Park Avenue,Durham City,3-0,-
--,-,Chesterfield,Durham City,1-1,-
--,-,Crewe Alexandra,Durham City,0-2,-
--,-,Darlington,Durham City,3-2,-
--,-,Doncaster Rovers,Durham City,2-1,-
--,-,Grimsby Town,Durham City,1-0,-
--,-,Halifax Town,Durham City,2-1,-
--,-,Hartlepool United,Durham City,0-0,-
--,-,Lincoln City,Durham City,3-1,-
--,-,New Brighton,Durham City,2-0,-
--,-,Rochdale,Durham City,2-0,-
--,-,Rotherham County,Durham City,5-1,-
--,-,Southport,Durham City,1-0,-
--,-,Tranmere Rovers,Durham City,1-0,-
--,-,Walsall,Durham City,1-1,-
--,-,Wigan Borough,Durham City,0-1,-
--,-,Wolverhampton Wanderers,Durham City,2-1,-
--,-,Wrexham,Durham City,0-0,-
--,-,Accrington Stanley,Grimsby Town,2-0,-
--,-,Ashington,Grimsby Town,1-0,-
--,-,Barrow,Grimsby Town,3-1,-
--,-,Bradford Park Avenue,Grimsby Town,2-1,-
--,-,Chesterfield,Grimsby Town,4-2,-
--,-,Crewe Alexandra,Grimsby Town,0-0,-
--,-,Darlington,Grimsby Town,1-0,-
--,-,Doncaster Rovers,Grimsby Town,2-1,-
--,-,Durham City,Grimsby Town,0-1,-
--,-,Halifax Town,Grimsby Town,1-3,-
--,-,Hartlepool United,Grimsby Town,1-1,-
--,-,Lincoln City,Grimsby Town,1-3,-
--,-,New Brighton,Grimsby Town,0-0,-
--,-,Rochdale,Grimsby Town,4-2,-
--,-,Rotherham County,Grimsby Town,2-1,-
--,-,Southport,Grimsby Town,3-0,-
--,-,Tranmere Rovers,Grimsby Town,2-1,-
--,-,Walsall,Grimsby Town,2-0,-
--,-,Wigan Borough,Grimsby Town,4-0,-
--,-,Wolverhampton Wanderers,Grimsby Town,4-1,-
--,-,Wrexham,Grimsby Town,1-1,-
--,-,Accrington Stanley,Halifax Town,1-2,-
--,-,Ashington,Halifax Town,4-0,-
--,-,Barrow,Halifax Town,1-0,-
--,-,Bradford Park Avenue,Halifax Town,1-0,-
--,-,Chesterfield,Halifax Town,1-1,-
--,-,Crewe Alexandra,Halifax Town,2-2,-
--,-,Darlington,Halifax Town,0-0,-
--,-,Doncaster Rovers,Halifax Town,7-0,-
--,-,Durham City,Halifax Town,2-2,-
--,-,Grimsby Town,Halifax Town,1-1,-
--,-,Hartlepool United,Halifax Town,1-3,-
--,-,Lincoln City,Halifax Town,1-1,-
--,-,New Brighton,Halifax Town,2-0,-
--,-,Rochdale,Halifax Town,3-0,-
--,-,Rotherham County,Halifax Town,3-2,-
--,-,Southport,Halifax Town,3-0,-
--,-,Tranmere Rovers,Halifax Town,3-0,-
--,-,Walsall,Halifax Town,2-0,-
--,-,Wigan Borough,Halifax Town,0-1,-
--,-,Wolverhampton Wanderers,Halifax Town,4-0,-
--,-,Wrexham,Halifax Town,0-1,-
--,-,Accrington Stanley,Hartlepool United,2-0,-
--,-,Ashington,Hartlepool United,0-0,-
--,-,Barrow,Hartlepool United,1-2,-
--,-,Bradford Park Avenue,Hartlepool United,4-0,-
--,-,Chesterfield,Hartlepool United,5-1,-
--,-,Crewe Alexandra,Hartlepool United,2-1,-
--,-,Darlington,Hartlepool United,5-0,-
--,-,Doncaster Rovers,Hartlepool United,3-1,-
--,-,Durham City,Hartlepool United,3-0,-
--,-,Grimsby Town,Hartlepool United,0-1,-
--,-,Halifax Town,Hartlepool United,1-0,-
--,-,Lincoln City,Hartlepool United,1-1,-
--,-,New Brighton,Hartlepool United,0-0,-
--,-,Rochdale,Hartlepool United,1-0,-
--,-,Rotherham County,Hartlepool United,5-0,-
--,-,Southport,Hartlepool United,2-2,-
--,-,Tranmere Rovers,Hartlepool United,2-0,-
--,-,Walsall,Hartlepool United,2-0,-
--,-,Wigan Borough,Hartlepool United,4-1,-
--,-,Wolverhampton Wanderers,Hartlepool United,2-1,-
--,-,Wrexham,Hartlepool United,1-0,-
--,-,Accrington Stanley,Lincoln City,3-1,-
--,-,Ashington,Lincoln City,2-1,-
--,-,Barrow,Lincoln City,2-1,-
--,-,Bradford Park Avenue,Lincoln City,3-1,-
--,-,Chesterfield,Lincoln City,2-1,-
--,-,Crewe Alexandra,Lincoln City,1-2,-
--,-,Darlington,Lincoln City,1-0,-
--,-,Doncaster Rovers,Lincoln City,3-2,-
--,-,Durham City,Lincoln City,1-0,-
--,-,Grimsby Town,Lincoln City,2-2,-
--,-,Halifax Town,Lincoln City,1-0,-
--,-,Hartlepool United,Lincoln City,1-1,-
--,-,New Brighton,Lincoln City,3-1,-
--,-,Rochdale,Lincoln City,1-0,-
--,-,Rotherham County,Lincoln City,2-0,-
--,-,Southport,Lincoln City,3-2,-
--,-,Tranmere Rovers,Lincoln City,1-3,-
--,-,Walsall,Lincoln City,0-0,-
--,-,Wigan Borough,Lincoln City,0-0,-
--,-,Wolverhampton Wanderers,Lincoln City,3-0,-
--,-,Wrexham,Lincoln City,2-1,-
--,-,Accrington Stanley,New Brighton,0-0,-
--,-,Ashington,New Brighton,5-0,-
--,-,Barrow,New Brighton,2-1,-
--,-,Bradford Park Avenue,New Brighton,1-1,-
--,-,Chesterfield,New Brighton,1-0,-
--,-,Crewe Alexandra,New Brighton,2-0,-
--,-,Darlington,New Brighton,3-1,-
--,-,Doncaster Rovers,New Brighton,2-0,-
--,-,Durham City,New Brighton,2-1,-
--,-,Grimsby Town,New Brighton,0-0,-
--,-,Halifax Town,New Brighton,2-1,-
--,-,Hartlepool United,New Brighton,0-1,-
--,-,Lincoln City,New Brighton,1-0,-
--,-,Rochdale,New Brighton,6-2,-
--,-,Rotherham County,New Brighton,3-1,-
--,-,Southport,New Brighton,3-0,-
--,-,Tranmere Rovers,New Brighton,1-2,-
--,-,Walsall,New Brighton,3-0,-
--,-,Wigan Borough,New Brighton,1-0,-
--,-,Wolverhampton Wanderers,New Brighton,5-1,-
--,-,Wrexham,New Brighton,0-0,-
--,-,Accrington Stanley,Rochdale,0-1,-
--,-,Ashington,Rochdale,1-0,-
--,-,Barrow,Rochdale,1-2,-
--,-,Bradford Park Avenue,Rochdale,4-2,-
--,-,Chesterfield,Rochdale,1-1,-
--,-,Crewe Alexandra,Rochdale,0-2,-
--,-,Darlington,Rochdale,2-2,-
--,-,Doncaster Rovers,Rochdale,0-0,-
--,-,Durham City,Rochdale,0-0,-
--,-,Grimsby Town,Rochdale,1-0,-
--,-,Halifax Town,Rochdale,0-1,-
--,-,Hartlepool United,Rochdale,1-2,-
--,-,Lincoln City,Rochdale,0-2,-
--,-,New Brighton,Rochdale,1-1,-
--,-,Rotherham County,Rochdale,0-0,-
--,-,Southport,Rochdale,0-1,-
--,-,Tranmere Rovers,Rochdale,2-1,-
--,-,Walsall,Rochdale,0-1,-
--,-,Wigan Borough,Rochdale,3-0,-
--,-,Wolverhampton Wanderers,Rochdale,0-0,-
--,-,Wrexham,Rochdale,1-1,-
--,-,Accrington Stanley,Rotherham County,3-2,-
--,-,Ashington,Rotherham County,1-2,-
--,-,Barrow,Rotherham County,1-2,-
--,-,Bradford Park Avenue,Rotherham County,2-0,-
--,-,Chesterfield,Rotherham County,3-1,-
--,-,Crewe Alexandra,Rotherham County,1-0,-
--,-,Darlington,Rotherham County,1-0,-
--,-,Doncaster Rovers,Rotherham County,0-1,-
--,-,Durham City,Rotherham County,3-2,-
--,-,Grimsby Town,Rotherham County,1-1,-
--,-,Halifax Town,Rotherham County,0-2,-
--,-,Hartlepool United,Rotherham County,2-5,-
--,-,Lincoln City,Rotherham County,2-1,-
--,-,New Brighton,Rotherham County,1-2,-
--,-,Rochdale,Rotherham County,1-0,-
--,-,Southport,Rotherham County,0-0,-
--,-,Tranmere Rovers,Rotherham County,0-1,-
--,-,Walsall,Rotherham County,1-1,-
--,-,Wigan Borough,Rotherham County,3-1,-
--,-,Wolverhampton Wanderers,Rotherham County,3-0,-
--,-,Wrexham,Rotherham County,1-0,-
--,-,Accrington Stanley,Southport,2-0,-
--,-,Ashington,Southport,2-0,-
--,-,Barrow,Southport,1-3,-
--,-,Bradford Park Avenue,Southport,2-0,-
--,-,Chesterfield,Southport,4-0,-
--,-,Crewe Alexandra,Southport,1-1,-
--,-,Darlington,Southport,3-1,-
--,-,Doncaster Rovers,Southport,3-0,-
--,-,Durham City,Southport,0-1,-
--,-,Grimsby Town,Southport,1-0,-
--,-,Halifax Town,Southport,1-0,-
--,-,Hartlepool United,Southport,1-0,-
--,-,Lincoln City,Southport,1-1,-
--,-,New Brighton,Southport,0-0,-
--,-,Rochdale,Southport,2-2,-
--,-,Rotherham County,Southport,1-1,-
--,-,Tranmere Rovers,Southport,1-1,-
--,-,Walsall,Southport,0-1,-
--,-,Wigan Borough,Southport,1-1,-
--,-,Wolverhampton Wanderers,Southport,2-1,-
--,-,Wrexham,Southport,3-0,-
--,-,Accrington Stanley,Tranmere Rovers,3-1,-
--,-,Ashington,Tranmere Rovers,3-3,-
--,-,Barrow,Tranmere Rovers,1-1,-
--,-,Bradford Park Avenue,Tranmere Rovers,2-0,-
--,-,Chesterfield,Tranmere Rovers,5-0,-
--,-,Crewe Alexandra,Tranmere Rovers,1-1,-
--,-,Darlington,Tranmere Rovers,4-1,-
--,-,Doncaster Rovers,Tranmere Rovers,4-0,-
--,-,Durham City,Tranmere Rovers,1-1,-
--,-,Grimsby Town,Tranmere Rovers,0-0,-
--,-,Halifax Town,Tranmere Rovers,0-0,-
--,-,Hartlepool United,Tranmere Rovers,2-1,-
--,-,Lincoln City,Tranmere Rovers,1-1,-
--,-,New Brighton,Tranmere Rovers,0-0,-
--,-,Rochdale,Tranmere Rovers,1-0,-
--,-,Rotherham County,Tranmere Rovers,5-1,-
--,-,Southport,Tranmere Rovers,1-1,-
--,-,Walsall,Tranmere Rovers,0-4,-
--,-,Wigan Borough,Tranmere Rovers,1-2,-
--,-,Wolverhampton Wanderers,Tranmere Rovers,3-0,-
--,-,Wrexham,Tranmere Rovers,1-1,-
--,-,Accrington Stanley,Walsall,0-3,-
--,-,Ashington,Walsall,3-1,-
--,-,Barrow,Walsall,0-1,-
--,-,Bradford Park Avenue,Walsall,5-0,-
--,-,Chesterfield,Walsall,7-0,-
--,-,Crewe Alexandra,Walsall,2-0,-
--,-,Darlington,Walsall,4-2,-
--,-,Doncaster Rovers,Walsall,3-0,-
--,-,Durham City,Walsall,1-0,-
--,-,Grimsby Town,Walsall,1-0,-
--,-,Halifax Town,Walsall,3-0,-
--,-,Hartlepool United,Walsall,0-1,-
--,-,Lincoln City,Walsall,2-0,-
--,-,New Brighton,Walsall,1-0,-
--,-,Rochdale,Walsall,1-0,-
--,-,Rotherham County,Walsall,0-2,-
--,-,Southport,Walsall,1-1,-
--,-,Tranmere Rovers,Walsall,3-1,-
--,-,Wigan Borough,Walsall,2-1,-
--,-,Wolverhampton Wanderers,Walsall,0-0,-
--,-,Wrexham,Walsall,0-0,-
--,-,Accrington Stanley,Wigan Borough,2-2,-
--,-,Ashington,Wigan Borough,3-0,-
--,-,Barrow,Wigan Borough,2-1,-
--,-,Bradford Park Avenue,Wigan Borough,4-0,-
--,-,Chesterfield,Wigan Borough,1-0,-
--,-,Crewe Alexandra,Wigan Borough,0-2,-
--,-,Darlington,Wigan Borough,3-1,-
--,-,Doncaster Rovers,Wigan Borough,0-0,-
--,-,Durham City,Wigan Borough,2-2,-
--,-,Grimsby Town,Wigan Borough,1-1,-
--,-,Halifax Town,Wigan Borough,1-2,-
--,-,Hartlepool United,Wigan Borough,0-0,-
--,-,Lincoln City,Wigan Borough,1-1,-
--,-,New Brighton,Wigan Borough,5-0,-
--,-,Rochdale,Wigan Borough,1-0,-
--,-,Rotherham County,Wigan Borough,4-0,-
--,-,Southport,Wigan Borough,1-1,-
--,-,Tranmere Rovers,Wigan Borough,1-0,-
--,-,Walsall,Wigan Borough,3-0,-
--,-,Wolverhampton Wanderers,Wigan Borough,3-3,-
--,-,Wrexham,Wigan Borough,0-0,-
--,-,Accrington Stanley,Wolverhampton Wanderers,1-0,-
--,-,Ashington,Wolverhampton Wanderers,1-7,-
--,-,Barrow,Wolverhampton Wanderers,2-2,-
--,-,Bradford Park Avenue,Wolverhampton Wanderers,0-1,-
--,-,Chesterfield,Wolverhampton Wanderers,0-0,-
--,-,Crewe Alexandra,Wolverhampton Wanderers,0-0,-
--,-,Darlington,Wolverhampton Wanderers,1-1,-
--,-,Doncaster Rovers,Wolverhampton Wanderers,0-2,-
--,-,Durham City,Wolverhampton Wanderers,2-3,-
--,-,Grimsby Town,Wolverhampton Wanderers,2-0,-
--,-,Halifax Town,Wolverhampton Wanderers,2-2,-
--,-,Hartlepool United,Wolverhampton Wanderers,0-1,-
--,-,Lincoln City,Wolverhampton Wanderers,0-0,-
--,-,New Brighton,Wolverhampton Wanderers,0-1,-
--,-,Rochdale,Wolverhampton Wanderers,0-0,-
--,-,Rotherham County,Wolverhampton Wanderers,1-1,-
--,-,Southport,Wolverhampton Wanderers,0-0,-
--,-,Tranmere Rovers,Wolverhampton Wanderers,0-0,-
--,-,Walsall,Wolverhampton Wanderers,2-1,-
--,-,Wigan Borough,Wolverhampton Wanderers,1-1,-
--,-,Wrexham,Wolverhampton Wanderers,2-2,-
--,-,Accrington Stanley,Wrexham,1-0,-
--,-,Ashington,Wrexham,0-2,-
--,-,Barrow,Wrexham,0-0,-
--,-,Bradford Park Avenue,Wrexham,2-0,-
--,-,Chesterfield,Wrexham,1-0,-
--,-,Crewe Alexandra,Wrexham,1-1,-
--,-,Darlington,Wrexham,3-0,-
--,-,Doncaster Rovers,Wrexham,1-0,-
--,-,Durham City,Wrexham,4-3,-
--,-,Grimsby Town,Wrexham,0-0,-
--,-,Halifax Town,Wrexham,0-0,-
--,-,Hartlepool United,Wrexham,4-0,-
--,-,Lincoln City,Wrexham,4-2,-
--,-,New Brighton,Wrexham,0-0,-
--,-,Rochdale,Wrexham,0-0,-
--,-,Rotherham County,Wrexham,2-1,-
--,-,Southport,Wrexham,1-0,-
--,-,Tranmere Rovers,Wrexham,1-1,-
--,-,Walsall,Wrexham,1-2,-
--,-,Wigan Borough,Wrexham,3-1,-
--,-,Wolverhampton Wanderers,Wrexham,3-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 27 Oct 1923 (43),Accrington Stanley (1),0-1,?,Ashington (1)
+?,(Tue) 25 Sep 1923 (39),Accrington Stanley (2),3-1,?,Barrow AFC (1)
+?,(Sat) 23 Feb 1924 (7),Accrington Stanley (3),2-2,?,Bradford Park Avenue (1)
+?,(Sat) 8 Mar 1924 (9),Accrington Stanley (4),2-0,?,Chesterfield FC (1)
+?,(Mon) 11 Feb 1924 (6),Accrington Stanley (5),1-1,?,Crewe Alexandra (1)
+?,(Sat) 1 Sep 1923 (35),Accrington Stanley (6),2-0,?,Darlington FC (1)
+?,(Sat) 19 Apr 1924 (15),Accrington Stanley (7),0-0,?,Doncaster Rovers (1)
+?,(Wed) 30 Apr 1924 (17),Accrington Stanley (8),5-4,?,Durham City (1)
+?,(Tue) 1 Jan 1924 (0),Accrington Stanley (9),2-0,?,Grimsby Town (1)
+?,(Sat) 5 Jan 1924 (0),Accrington Stanley (10),1-2,?,Halifax Town (1)
+?,(Mon) 17 Mar 1924 (11),Accrington Stanley (11),2-0,?,Hartlepool United (1)
+?,(Sat) 26 Jan 1924 (3),Accrington Stanley (12),3-1,?,Lincoln City (1)
+?,(Sat) 8 Sep 1923 (36),Accrington Stanley (13),0-0,?,New Brighton (1)
+?,(Sat) 26 Apr 1924 (16),Accrington Stanley (14),0-1,?,Rochdale AFC (1)
+?,(Sat) 15 Mar 1924 (10),Accrington Stanley (15),3-2,?,Rotherham County (1)
+?,(Wed) 26 Dec 1923 (52),Accrington Stanley (16),2-0,?,Southport FC (1)
+?,(Sat) 9 Feb 1924 (5),Accrington Stanley (17),3-1,?,Tranmere Rovers (1)
+?,(Sat) 6 Oct 1923 (40),Accrington Stanley (18),0-3,?,Walsall FC (1)
+?,(Sat) 10 Nov 1923 (45),Accrington Stanley (19),2-2,?,Wigan Borough (1)
+?,(Sat) 22 Sep 1923 (38),Accrington Stanley (20),1-0,?,Wolverhampton Wanderers (1)
+?,(Sat) 29 Mar 1924 (12),Accrington Stanley (21),1-0,?,Wrexham AFC (1)
+?,(Sat) 20 Oct 1923 (42),Ashington (2),1-1,?,Accrington Stanley (22)
+?,(Sat) 1 Mar 1924 (8),Ashington (3),2-0,?,Barrow AFC (2)
+?,(Sat) 12 Apr 1924 (14),Ashington (4),1-0,?,Bradford Park Avenue (2)
+?,(Sat) 26 Apr 1924 (16),Ashington (5),1-1,?,Chesterfield FC (2)
+?,(Sat) 13 Oct 1923 (41),Ashington (6),3-0,?,Crewe Alexandra (2)
+?,(Sat) 23 Feb 1924 (7),Ashington (7),2-1,?,Darlington FC (2)
+?,(Mon) 27 Aug 1923 (35),Ashington (8),3-1,?,Doncaster Rovers (2)
+?,(Sat) 29 Sep 1923 (39),Ashington (9),2-1,?,Durham City (2)
+?,(Sat) 8 Dec 1923 (49),Ashington (10),1-0,?,Grimsby Town (2)
+?,(Sat) 3 Nov 1923 (44),Ashington (11),4-0,?,Halifax Town (2)
+?,(Fri) 18 Apr 1924 (15),Ashington (12),0-0,?,Hartlepool United (2)
+?,(Sat) 15 Mar 1924 (10),Ashington (13),2-1,?,Lincoln City (2)
+?,(Sat) 22 Dec 1923 (51),Ashington (14),5-0,?,New Brighton (2)
+?,(Sat) 26 Jan 1924 (3),Ashington (15),1-0,?,Rochdale AFC (2)
+?,(Sat) 24 Nov 1923 (47),Ashington (16),1-2,?,Rotherham County (2)
+?,(Sat) 9 Feb 1924 (5),Ashington (17),2-0,?,Southport FC (2)
+?,(Sat) 29 Mar 1924 (12),Ashington (18),3-3,?,Tranmere Rovers (2)
+?,(Tue) 1 Jan 1924 (0),Ashington (19),3-1,?,Walsall FC (2)
+?,(Sat) 15 Sep 1923 (37),Ashington (20),3-0,?,Wigan Borough (2)
+?,(Sat) 5 Jan 1924 (0),Ashington (21),1-7,?,Wolverhampton Wanderers (2)
+?,(Sat) 1 Sep 1923 (35),Ashington (22),0-2,?,Wrexham AFC (2)
+?,(Mon) 3 Sep 1923 (36),Barrow AFC (3),0-0,?,Accrington Stanley (23)
+?,(Sat) 8 Mar 1924 (9),Barrow AFC (4),2-2,?,Ashington (23)
+?,(Sat) 13 Oct 1923 (41),Barrow AFC (5),1-1,?,Bradford Park Avenue (3)
+?,(Sat) 27 Oct 1923 (43),Barrow AFC (6),2-0,?,Chesterfield FC (3)
+?,(Sat) 19 Jan 1924 (2),Barrow AFC (7),1-2,?,Crewe Alexandra (3)
+?,(Tue) 25 Dec 1923 (52),Barrow AFC (8),1-0,?,Darlington FC (3)
+?,(Sat) 8 Dec 1923 (49),Barrow AFC (9),0-0,?,Doncaster Rovers (3)
+?,(Sat) 2 Feb 1924 (4),Barrow AFC (10),1-2,?,Durham City (3)
+?,(Sat) 3 May 1924 (17),Barrow AFC (11),3-1,?,Grimsby Town (3)
+?,(Fri) 18 Apr 1924 (15),Barrow AFC (12),1-0,?,Halifax Town (3)
+?,(Sat) 25 Aug 1923 (34),Barrow AFC (13),1-2,?,Hartlepool United (3)
+?,(Sat) 15 Sep 1923 (37),Barrow AFC (14),2-1,?,Lincoln City (3)
+?,(Sat) 19 Apr 1924 (15),Barrow AFC (15),2-1,?,New Brighton (3)
+?,(Sat) 22 Dec 1923 (51),Barrow AFC (16),1-2,?,Rochdale AFC (3)
+?,(Sat) 10 Nov 1923 (45),Barrow AFC (17),1-2,?,Rotherham County (3)
+?,(Sat) 5 Jan 1924 (0),Barrow AFC (18),1-3,?,Southport FC (3)
+?,(Sat) 29 Sep 1923 (39),Barrow AFC (19),1-1,?,Tranmere Rovers (3)
+?,(Sat) 22 Mar 1924 (11),Barrow AFC (20),0-1,?,Walsall FC (3)
+?,(Sat) 23 Feb 1924 (7),Barrow AFC (21),2-1,?,Wigan Borough (3)
+?,(Sat) 5 Apr 1924 (13),Barrow AFC (22),2-2,?,Wolverhampton Wanderers (3)
+?,(Sat) 12 Jan 1924 (1),Barrow AFC (23),0-0,?,Wrexham AFC (3)
+?,(Sat) 16 Feb 1924 (6),Bradford Park Avenue (4),1-1,?,Accrington Stanley (24)
+?,(Sat) 19 Apr 1924 (15),Bradford Park Avenue (5),3-1,?,Ashington (24)
+?,(Sat) 6 Oct 1923 (40),Bradford Park Avenue (6),3-0,?,Barrow AFC (24)
+?,(Wed) 6 Feb 1924 (5),Bradford Park Avenue (7),2-1,?,Chesterfield FC (4)
+?,(Sat) 1 Mar 1924 (8),Bradford Park Avenue (8),1-1,?,Crewe Alexandra (4)
+?,(Sat) 8 Dec 1923 (49),Bradford Park Avenue (9),1-0,?,Darlington FC (4)
+?,(Wed) 26 Dec 1923 (52),Bradford Park Avenue (10),4-2,?,Doncaster Rovers (4)
+?,(Sat) 22 Mar 1924 (11),Bradford Park Avenue (11),3-0,?,Durham City (4)
+?,(Mon) 3 Sep 1923 (36),Bradford Park Avenue (12),2-1,?,Grimsby Town (4)
+?,(Sat) 19 Jan 1924 (2),Bradford Park Avenue (13),1-0,?,Halifax Town (4)
+?,(Sat) 2 Feb 1924 (4),Bradford Park Avenue (14),4-0,?,Hartlepool United (4)
+?,(Sat) 3 Nov 1923 (44),Bradford Park Avenue (15),3-1,?,Lincoln City (4)
+?,(Sat) 25 Aug 1923 (34),Bradford Park Avenue (16),1-1,?,New Brighton (4)
+?,(Sat) 8 Sep 1923 (36),Bradford Park Avenue (17),4-2,?,Rochdale AFC (4)
+?,(Sat) 5 Jan 1924 (0),Bradford Park Avenue (18),2-0,?,Rotherham County (4)
+?,(Sat) 22 Sep 1923 (38),Bradford Park Avenue (19),2-0,?,Southport FC (4)
+?,(Sat) 24 Nov 1923 (47),Bradford Park Avenue (20),2-0,?,Tranmere Rovers (4)
+?,(Sat) 3 May 1924 (17),Bradford Park Avenue (21),5-0,?,Walsall FC (4)
+?,(Sat) 5 Apr 1924 (13),Bradford Park Avenue (22),4-0,?,Wigan Borough (4)
+?,(Sat) 20 Oct 1923 (42),Bradford Park Avenue (23),0-1,?,Wolverhampton Wanderers (4)
+?,(Tue) 22 Apr 1924 (16),Bradford Park Avenue (24),2-0,?,Wrexham AFC (4)
+?,(Sat) 1 Mar 1924 (8),Chesterfield FC (5),3-0,?,Accrington Stanley (25)
+?,(Sat) 3 May 1924 (17),Chesterfield FC (6),2-0,?,Ashington (25)
+?,(Sat) 20 Oct 1923 (42),Chesterfield FC (7),2-1,?,Barrow AFC (25)
+?,(Sat) 22 Dec 1923 (51),Chesterfield FC (8),2-3,?,Bradford Park Avenue (25)
+?,(Sat) 22 Mar 1924 (11),Chesterfield FC (9),2-1,?,Crewe Alexandra (5)
+?,(Sat) 5 Jan 1924 (0),Chesterfield FC (10),5-1,?,Darlington FC (5)
+?,(Sat) 8 Sep 1923 (36),Chesterfield FC (11),2-1,?,Doncaster Rovers (5)
+?,(Fri) 18 Apr 1924 (15),Chesterfield FC (12),1-1,?,Durham City (5)
+?,(Sat) 19 Jan 1924 (2),Chesterfield FC (13),4-2,?,Grimsby Town (5)
+?,(Wed) 26 Mar 1924 (12),Chesterfield FC (14),1-1,?,Halifax Town (5)
+?,(Sat) 16 Feb 1924 (6),Chesterfield FC (15),5-1,?,Hartlepool United (5)
+?,(Sat) 24 Nov 1923 (47),Chesterfield FC (16),2-1,?,Lincoln City (5)
+?,(Mon) 3 Sep 1923 (36),Chesterfield FC (17),1-0,?,New Brighton (5)
+?,(Sat) 22 Sep 1923 (38),Chesterfield FC (18),1-1,?,Rochdale AFC (5)
+?,(Tue) 25 Dec 1923 (52),Chesterfield FC (19),3-1,?,Rotherham County (5)
+?,(Sat) 6 Oct 1923 (40),Chesterfield FC (20),4-0,?,Southport FC (5)
+?,(Sat) 8 Dec 1923 (49),Chesterfield FC (21),5-0,?,Tranmere Rovers (5)
+?,(Sat) 10 Nov 1923 (45),Chesterfield FC (22),7-0,?,Walsall FC (5)
+?,(Sat) 19 Apr 1924 (15),Chesterfield FC (23),1-0,?,Wigan Borough (5)
+?,(Sat) 25 Aug 1923 (34),Chesterfield FC (24),0-0,?,Wolverhampton Wanderers (5)
+?,(Tue) 1 Jan 1924 (0),Chesterfield FC (25),1-0,?,Wrexham AFC (5)
+?,(Sat) 8 Dec 1923 (49),Crewe Alexandra (6),1-2,?,Accrington Stanley (26)
+?,(Sat) 6 Oct 1923 (40),Crewe Alexandra (7),1-3,?,Ashington (26)
+?,(Sat) 26 Jan 1924 (3),Crewe Alexandra (8),2-0,?,Barrow AFC (26)
+?,(Sat) 8 Mar 1924 (9),Crewe Alexandra (9),1-1,?,Bradford Park Avenue (26)
+?,(Sat) 15 Mar 1924 (10),Crewe Alexandra (10),0-1,?,Chesterfield FC (26)
+?,(Wed) 29 Aug 1923 (35),Crewe Alexandra (11),2-1,?,Darlington FC (6)
+?,(Sat) 26 Apr 1924 (16),Crewe Alexandra (12),0-2,?,Doncaster Rovers (6)
+?,(Sat) 3 Nov 1923 (44),Crewe Alexandra (13),0-2,?,Durham City (6)
+?,(Wed) 26 Dec 1923 (52),Crewe Alexandra (14),0-0,?,Grimsby Town (6)
+?,(Sat) 22 Dec 1923 (51),Crewe Alexandra (15),2-2,?,Halifax Town (6)
+?,(Wed) 30 Apr 1924 (17),Crewe Alexandra (16),2-1,?,Hartlepool United (6)
+?,(Sat) 9 Feb 1924 (5),Crewe Alexandra (17),1-2,?,Lincoln City (6)
+?,(Fri) 18 Apr 1924 (15),Crewe Alexandra (18),2-0,?,New Brighton (6)
+?,(Sat) 5 Jan 1924 (0),Crewe Alexandra (19),0-2,?,Rochdale AFC (6)
+?,(Sat) 29 Mar 1924 (12),Crewe Alexandra (20),1-0,?,Rotherham County (6)
+?,(Sat) 1 Sep 1923 (35),Crewe Alexandra (21),1-1,?,Southport FC (6)
+?,(Sat) 16 Feb 1924 (6),Crewe Alexandra (22),1-1,?,Tranmere Rovers (6)
+?,(Sat) 22 Sep 1923 (38),Crewe Alexandra (23),2-0,?,Walsall FC (6)
+?,(Sat) 27 Oct 1923 (43),Crewe Alexandra (24),0-2,?,Wigan Borough (6)
+?,(Sat) 8 Sep 1923 (36),Crewe Alexandra (25),0-0,?,Wolverhampton Wanderers (6)
+?,(Sat) 12 Apr 1924 (14),Crewe Alexandra (26),1-1,?,Wrexham AFC (6)
+?,(Sat) 25 Aug 1923 (34),Darlington FC (7),2-1,?,Accrington Stanley (27)
+?,(Sat) 16 Feb 1924 (6),Darlington FC (8),3-2,?,Ashington (27)
+?,(Wed) 26 Dec 1923 (52),Darlington FC (9),5-1,?,Barrow AFC (27)
+?,(Sat) 17 Nov 1923 (46),Darlington FC (10),3-1,?,Bradford Park Avenue (27)
+?,(Sat) 29 Dec 1923 (52),Darlington FC (11),2-1,?,Chesterfield FC (27)
+?,(Wed) 5 Sep 1923 (36),Darlington FC (12),1-1,?,Crewe Alexandra (27)
+?,(Sat) 27 Oct 1923 (43),Darlington FC (13),1-1,?,Doncaster Rovers (7)
+?,(Sat) 19 Jan 1924 (2),Darlington FC (14),3-2,?,Durham City (7)
+?,(Sat) 19 Apr 1924 (15),Darlington FC (15),1-0,?,Grimsby Town (7)
+?,(Sat) 3 May 1924 (17),Darlington FC (16),0-0,?,Halifax Town (7)
+?,(Sat) 8 Sep 1923 (36),Darlington FC (17),5-0,?,Hartlepool United (7)
+?,(Sat) 13 Oct 1923 (41),Darlington FC (18),1-0,?,Lincoln City (7)
+?,(Sat) 5 Apr 1924 (13),Darlington FC (19),3-1,?,New Brighton (7)
+?,(Sat) 24 Nov 1923 (47),Darlington FC (20),2-2,?,Rochdale AFC (7)
+?,(Tue) 1 Jan 1924 (0),Darlington FC (21),1-0,?,Rotherham County (7)
+?,(Sat) 22 Dec 1923 (51),Darlington FC (22),3-1,?,Southport FC (7)
+?,(Sat) 10 Nov 1923 (45),Darlington FC (23),4-1,?,Tranmere Rovers (7)
+?,(Sat) 1 Mar 1924 (8),Darlington FC (24),4-2,?,Walsall FC (7)
+?,(Sat) 2 Feb 1924 (4),Darlington FC (25),3-1,?,Wigan Borough (7)
+?,(Sat) 22 Mar 1924 (11),Darlington FC (26),1-1,?,Wolverhampton Wanderers (7)
+?,(Sat) 22 Sep 1923 (38),Darlington FC (27),3-0,?,Wrexham AFC (7)
+?,(Sat) 12 Apr 1924 (14),Doncaster Rovers (8),1-2,?,Accrington Stanley (28)
+?,(Mon) 3 Sep 1923 (36),Doncaster Rovers (9),2-1,?,Ashington (28)
+?,(Sat) 1 Dec 1923 (48),Doncaster Rovers (10),2-2,?,Barrow AFC (28)
+?,(Tue) 25 Dec 1923 (52),Doncaster Rovers (11),1-1,?,Bradford Park Avenue (28)
+?,(Sat) 15 Sep 1923 (37),Doncaster Rovers (12),0-2,?,Chesterfield FC (28)
+?,(Sat) 3 May 1924 (17),Doncaster Rovers (13),4-1,?,Crewe Alexandra (28)
+?,(Sat) 20 Oct 1923 (42),Doncaster Rovers (14),1-0,?,Darlington FC (28)
+?,(Sat) 15 Dec 1923 (50),Doncaster Rovers (15),2-1,?,Durham City (8)
+?,(Sat) 1 Mar 1924 (8),Doncaster Rovers (16),2-1,?,Grimsby Town (8)
+?,(Sat) 22 Mar 1924 (11),Doncaster Rovers (17),7-0,?,Halifax Town (8)
+?,(Sat) 5 Apr 1924 (13),Doncaster Rovers (18),3-1,?,Hartlepool United (8)
+?,(Sat) 29 Dec 1923 (52),Doncaster Rovers (19),3-2,?,Lincoln City (8)
+?,(Sat) 16 Feb 1924 (6),Doncaster Rovers (20),2-0,?,New Brighton (8)
+?,(Sat) 3 Nov 1923 (44),Doncaster Rovers (21),0-0,?,Rochdale AFC (8)
+?,(Sat) 29 Sep 1923 (39),Doncaster Rovers (22),0-1,?,Rotherham County (8)
+?,(Sat) 12 Jan 1924 (1),Doncaster Rovers (23),3-0,?,Southport FC (8)
+?,(Mon) 21 Apr 1924 (16),Doncaster Rovers (24),4-0,?,Tranmere Rovers (8)
+?,(Sat) 19 Jan 1924 (2),Doncaster Rovers (25),3-0,?,Walsall FC (8)
+?,(Sat) 25 Aug 1923 (34),Doncaster Rovers (26),0-0,?,Wigan Borough (8)
+?,(Thu) 1 May 1924 (17),Doncaster Rovers (27),0-2,?,Wolverhampton Wanderers (8)
+?,(Sat) 6 Oct 1923 (40),Doncaster Rovers (28),1-0,?,Wrexham AFC (8)
+?,(Sat) 24 Nov 1923 (47),Durham City (9),3-0,?,Accrington Stanley (29)
+?,(Sat) 5 Apr 1924 (13),Durham City (10),4-0,?,Ashington (29)
+?,(Sat) 9 Feb 1924 (5),Durham City (11),1-2,?,Barrow AFC (29)
+?,(Sat) 15 Mar 1924 (10),Durham City (12),2-0,?,Bradford Park Avenue (29)
+?,(Sat) 29 Mar 1924 (12),Durham City (13),1-1,?,Chesterfield FC (29)
+?,(Sat) 10 Nov 1923 (45),Durham City (14),3-1,?,Crewe Alexandra (29)
+?,(Sat) 26 Jan 1924 (3),Durham City (15),3-2,?,Darlington FC (29)
+?,(Sat) 22 Dec 1923 (51),Durham City (16),2-1,?,Doncaster Rovers (29)
+?,(Sat) 5 Jan 1924 (0),Durham City (17),0-1,?,Grimsby Town (9)
+?,(Sat) 8 Dec 1923 (49),Durham City (18),2-2,?,Halifax Town (9)
+?,(Sat) 20 Oct 1923 (42),Durham City (19),3-0,?,Hartlepool United (9)
+?,(Sat) 23 Feb 1924 (7),Durham City (20),1-0,?,Lincoln City (9)
+?,(Mon) 21 Apr 1924 (16),Durham City (21),2-1,?,New Brighton (9)
+?,(Sat) 1 Sep 1923 (35),Durham City (22),0-0,?,Rochdale AFC (9)
+?,(Sat) 12 Apr 1924 (14),Durham City (23),3-2,?,Rotherham County (9)
+?,(Wed) 29 Aug 1923 (35),Durham City (24),0-1,?,Southport FC (9)
+?,(Sat) 1 Mar 1924 (8),Durham City (25),1-1,?,Tranmere Rovers (9)
+?,(Sat) 8 Sep 1923 (36),Durham City (26),1-0,?,Walsall FC (9)
+?,(Sat) 13 Oct 1923 (41),Durham City (27),2-2,?,Wigan Borough (9)
+?,(Tue) 1 Jan 1924 (0),Durham City (28),2-3,?,Wolverhampton Wanderers (9)
+?,(Sat) 26 Apr 1924 (16),Durham City (29),4-3,?,Wrexham AFC (9)
+?,(Fri) 18 Apr 1924 (15),Grimsby Town (10),2-0,?,Accrington Stanley (30)
+?,(Tue) 8 Apr 1924 (14),Grimsby Town (11),4-0,?,Ashington (30)
+?,(Sat) 26 Apr 1924 (16),Grimsby Town (12),5-0,?,Barrow AFC (30)
+?,(Mon) 27 Aug 1923 (35),Grimsby Town (13),2-0,?,Bradford Park Avenue (30)
+?,(Sat) 26 Jan 1924 (3),Grimsby Town (14),0-0,?,Chesterfield FC (30)
+?,(Tue) 25 Dec 1923 (52),Grimsby Town (15),2-0,?,Crewe Alexandra (30)
+?,(Sat) 12 Apr 1924 (14),Grimsby Town (16),3-0,?,Darlington FC (30)
+?,(Sat) 8 Mar 1924 (9),Grimsby Town (17),1-1,?,Doncaster Rovers (30)
+?,(Sat) 29 Dec 1923 (52),Grimsby Town (18),1-0,?,Durham City (30)
+?,(Sat) 15 Sep 1923 (37),Grimsby Town (19),1-1,?,Halifax Town (10)
+?,(Sat) 13 Oct 1923 (41),Grimsby Town (20),0-1,?,Hartlepool United (10)
+?,(Sat) 29 Sep 1923 (39),Grimsby Town (21),2-2,?,Lincoln City (10)
+?,(Sat) 27 Oct 1923 (43),Grimsby Town (22),0-0,?,New Brighton (10)
+?,(Sat) 15 Mar 1924 (10),Grimsby Town (23),1-0,?,Rochdale AFC (10)
+?,(Sat) 9 Feb 1924 (5),Grimsby Town (24),1-1,?,Rotherham County (10)
+?,(Sat) 29 Mar 1924 (12),Grimsby Town (25),1-0,?,Southport FC (10)
+?,(Sat) 1 Sep 1923 (35),Grimsby Town (26),0-0,?,Tranmere Rovers (10)
+?,(Sat) 17 Nov 1923 (46),Grimsby Town (27),1-0,?,Walsall FC (10)
+?,(Thu) 27 Mar 1924 (12),Grimsby Town (28),1-1,?,Wigan Borough (10)
+?,(Sat) 10 Nov 1923 (45),Grimsby Town (29),2-0,?,Wolverhampton Wanderers (10)
+?,(Sat) 23 Feb 1924 (7),Grimsby Town (30),0-0,?,Wrexham AFC (10)
+?,(Sat) 29 Dec 1923 (52),Halifax Town (11),3-0,?,Accrington Stanley (31)
+?,(Sat) 10 Nov 1923 (45),Halifax Town (12),3-0,?,Ashington (31)
+?,(Mon) 21 Apr 1924 (16),Halifax Town (13),1-0,?,Barrow AFC (31)
+?,(Sat) 26 Jan 1924 (3),Halifax Town (14),0-0,?,Bradford Park Avenue (31)
+?,(Sat) 9 Feb 1924 (5),Halifax Town (15),2-0,?,Chesterfield FC (31)
+?,(Tue) 1 Jan 1924 (0),Halifax Town (16),2-0,?,Crewe Alexandra (31)
+?,(Sat) 26 Apr 1924 (16),Halifax Town (17),1-4,?,Darlington FC (31)
+?,(Sat) 15 Mar 1924 (10),Halifax Town (18),0-1,?,Doncaster Rovers (31)
+?,(Mon) 10 Mar 1924 (10),Halifax Town (19),2-1,?,Durham City (31)
+?,(Sat) 8 Sep 1923 (36),Halifax Town (20),1-3,?,Grimsby Town (31)
+?,(Tue) 25 Dec 1923 (52),Halifax Town (21),1-0,?,Hartlepool United (11)
+?,(Sat) 1 Sep 1923 (35),Halifax Town (22),1-0,?,Lincoln City (11)
+?,(Sat) 22 Sep 1923 (38),Halifax Town (23),2-1,?,New Brighton (11)
+?,(Sat) 29 Mar 1924 (12),Halifax Town (24),0-1,?,Rochdale AFC (11)
+?,(Sat) 23 Feb 1924 (7),Halifax Town (25),0-2,?,Rotherham County (11)
+?,(Sat) 12 Apr 1924 (14),Halifax Town (26),1-0,?,Southport FC (11)
+?,(Mon) 27 Aug 1923 (35),Halifax Town (27),0-0,?,Tranmere Rovers (11)
+?,(Sat) 27 Oct 1923 (43),Halifax Town (28),3-0,?,Walsall FC (11)
+?,(Sat) 17 Nov 1923 (46),Halifax Town (29),1-2,?,Wigan Borough (11)
+?,(Sat) 6 Oct 1923 (40),Halifax Town (30),2-2,?,Wolverhampton Wanderers (11)
+?,(Sat) 8 Mar 1924 (9),Halifax Town (31),0-0,?,Wrexham AFC (11)
+?,(Sat) 22 Dec 1923 (51),Hartlepool United (12),3-0,?,Accrington Stanley (32)
+?,(Tue) 22 Apr 1924 (16),Hartlepool United (13),0-1,?,Ashington (32)
+?,(Sat) 1 Sep 1923 (35),Hartlepool United (14),1-0,?,Barrow AFC (32)
+?,(Sat) 9 Feb 1924 (5),Hartlepool United (15),0-0,?,Bradford Park Avenue (32)
+?,(Sat) 23 Feb 1924 (7),Hartlepool United (16),2-3,?,Chesterfield FC (32)
+?,(Mon) 21 Apr 1924 (16),Hartlepool United (17),2-2,?,Crewe Alexandra (32)
+?,(Sat) 15 Sep 1923 (37),Hartlepool United (18),0-1,?,Darlington FC (32)
+?,(Sat) 29 Mar 1924 (12),Hartlepool United (19),1-1,?,Doncaster Rovers (32)
+?,(Sat) 27 Oct 1923 (43),Hartlepool United (20),0-0,?,Durham City (32)
+?,(Sat) 6 Oct 1923 (40),Hartlepool United (21),1-1,?,Grimsby Town (32)
+?,(Wed) 26 Dec 1923 (52),Hartlepool United (22),1-3,?,Halifax Town (32)
+?,(Tue) 1 Jan 1924 (0),Hartlepool United (23),1-1,?,Lincoln City (12)
+?,(Sat) 3 Nov 1923 (44),Hartlepool United (24),0-1,?,New Brighton (12)
+?,(Sat) 12 Apr 1924 (14),Hartlepool United (25),1-2,?,Rochdale AFC (12)
+?,(Sat) 8 Mar 1924 (9),Hartlepool United (26),2-5,?,Rotherham County (12)
+?,(Sat) 26 Apr 1924 (16),Hartlepool United (27),1-0,?,Southport FC (12)
+?,(Sat) 26 Jan 1924 (3),Hartlepool United (28),2-1,?,Tranmere Rovers (12)
+?,(Sat) 5 Jan 1924 (0),Hartlepool United (29),0-1,?,Walsall FC (12)
+?,(Sat) 29 Sep 1923 (39),Hartlepool United (30),0-0,?,Wigan Borough (12)
+?,(Sat) 8 Dec 1923 (49),Hartlepool United (31),0-1,?,Wolverhampton Wanderers (12)
+?,(Sat) 15 Mar 1924 (10),Hartlepool United (32),4-0,?,Wrexham AFC (12)
+?,(Sat) 19 Jan 1924 (2),Lincoln City (13),0-2,?,Accrington Stanley (33)
+?,(Sat) 22 Mar 1924 (11),Lincoln City (14),2-0,?,Ashington (33)
+?,(Sat) 8 Sep 1923 (36),Lincoln City (15),4-1,?,Barrow AFC (33)
+?,(Sat) 10 Nov 1923 (45),Lincoln City (16),2-3,?,Bradford Park Avenue (33)
+?,(Sat) 12 Jan 1924 (1),Lincoln City (17),0-1,?,Chesterfield FC (33)
+?,(Sat) 2 Feb 1924 (4),Lincoln City (18),0-0,?,Crewe Alexandra (33)
+?,(Sat) 6 Oct 1923 (40),Lincoln City (19),2-0,?,Darlington FC (33)
+?,(Sat) 5 Jan 1924 (0),Lincoln City (20),1-1,?,Doncaster Rovers (33)
+?,(Sat) 16 Feb 1924 (6),Lincoln City (21),3-1,?,Durham City (33)
+?,(Sat) 22 Sep 1923 (38),Lincoln City (22),1-3,?,Grimsby Town (33)
+?,(Sat) 25 Aug 1923 (34),Lincoln City (23),1-1,?,Halifax Town (33)
+?,(Wed) 5 Sep 1923 (36),Lincoln City (24),1-1,?,Hartlepool United (33)
+?,(Sat) 3 May 1924 (17),Lincoln City (25),1-0,?,New Brighton (13)
+?,(Tue) 25 Dec 1923 (52),Lincoln City (26),0-2,?,Rochdale AFC (13)
+?,(Sat) 8 Dec 1923 (49),Lincoln City (27),2-1,?,Rotherham County (13)
+?,(Mon) 21 Apr 1924 (16),Lincoln City (28),1-1,?,Southport FC (13)
+?,(Sat) 27 Oct 1923 (43),Lincoln City (29),1-1,?,Tranmere Rovers (13)
+?,(Sat) 5 Apr 1924 (13),Lincoln City (30),2-0,?,Walsall FC (13)
+?,(Sat) 1 Mar 1924 (8),Lincoln City (31),1-1,?,Wigan Borough (13)
+?,(Sat) 12 Apr 1924 (14),Lincoln City (32),0-0,?,Wolverhampton Wanderers (13)
+?,(Sat) 22 Dec 1923 (51),Lincoln City (33),4-2,?,Wrexham AFC (13)
+?,(Sat) 15 Sep 1923 (37),New Brighton (14),1-2,?,Accrington Stanley (34)
+?,(Wed) 26 Dec 1923 (52),New Brighton (15),1-1,?,Ashington (34)
+?,(Sat) 12 Apr 1924 (14),New Brighton (16),5-0,?,Barrow AFC (34)
+?,(Sat) 1 Sep 1923 (35),New Brighton (17),1-0,?,Bradford Park Avenue (34)
+?,(Wed) 29 Aug 1923 (35),New Brighton (18),0-0,?,Chesterfield FC (34)
+?,(Sat) 15 Dec 1923 (50),New Brighton (19),2-1,?,Crewe Alexandra (34)
+?,(Sat) 29 Mar 1924 (12),New Brighton (20),1-1,?,Darlington FC (34)
+?,(Sat) 23 Feb 1924 (7),New Brighton (21),2-0,?,Doncaster Rovers (34)
+?,(Wed) 12 Sep 1923 (37),New Brighton (22),2-0,?,Durham City (34)
+?,(Sat) 20 Oct 1923 (42),New Brighton (23),0-0,?,Grimsby Town (34)
+?,(Sat) 29 Sep 1923 (39),New Brighton (24),2-0,?,Halifax Town (34)
+?,(Sat) 10 Nov 1923 (45),New Brighton (25),0-0,?,Hartlepool United (34)
+?,(Sat) 26 Apr 1924 (16),New Brighton (26),3-1,?,Lincoln City (34)
+?,(Sat) 8 Mar 1924 (9),New Brighton (27),1-1,?,Rochdale AFC (14)
+?,(Sat) 26 Jan 1924 (3),New Brighton (28),1-2,?,Rotherham County (14)
+?,(Sat) 15 Mar 1924 (10),New Brighton (29),0-0,?,Southport FC (14)
+?,(Sat) 6 Oct 1923 (40),New Brighton (30),0-0,?,Tranmere Rovers (14)
+?,(Sat) 8 Dec 1923 (49),New Brighton (31),1-0,?,Walsall FC (14)
+?,(Sat) 29 Dec 1923 (52),New Brighton (32),5-0,?,Wigan Borough (14)
+?,(Sat) 1 Dec 1923 (48),New Brighton (33),0-1,?,Wolverhampton Wanderers (14)
+?,(Sat) 9 Feb 1924 (5),New Brighton (34),0-0,?,Wrexham AFC (14)
+?,(Sat) 3 May 1924 (17),Rochdale AFC (15),4-1,?,Accrington Stanley (35)
+?,(Sat) 19 Jan 1924 (2),Rochdale AFC (16),1-0,?,Ashington (35)
+?,(Sat) 15 Dec 1923 (50),Rochdale AFC (17),3-1,?,Barrow AFC (35)
+?,(Sat) 15 Sep 1923 (37),Rochdale AFC (18),3-0,?,Bradford Park Avenue (35)
+?,(Sat) 29 Sep 1923 (39),Rochdale AFC (19),3-0,?,Chesterfield FC (35)
+?,(Sat) 29 Dec 1923 (52),Rochdale AFC (20),1-0,?,Crewe Alexandra (35)
+?,(Fri) 18 Apr 1924 (15),Rochdale AFC (21),0-0,?,Darlington FC (35)
+?,(Sat) 10 Nov 1923 (45),Rochdale AFC (22),2-0,?,Doncaster Rovers (35)
+?,(Sat) 25 Aug 1923 (34),Rochdale AFC (23),2-0,?,Durham City (35)
+?,(Sat) 22 Mar 1924 (11),Rochdale AFC (24),4-2,?,Grimsby Town (35)
+?,(Sat) 5 Apr 1924 (13),Rochdale AFC (25),3-0,?,Halifax Town (35)
+?,(Sat) 12 Jan 1924 (1),Rochdale AFC (26),1-0,?,Hartlepool United (35)
+?,(Wed) 26 Dec 1923 (52),Rochdale AFC (27),1-0,?,Lincoln City (35)
+?,(Sat) 1 Mar 1924 (8),Rochdale AFC (28),6-2,?,New Brighton (35)
+?,(Sat) 13 Oct 1923 (41),Rochdale AFC (29),1-0,?,Rotherham County (15)
+?,(Tue) 8 Jan 1924 (1),Rochdale AFC (30),2-2,?,Southport FC (15)
+?,(Tue) 22 Apr 1924 (16),Rochdale AFC (31),1-0,?,Tranmere Rovers (15)
+?,(Sat) 2 Feb 1924 (4),Rochdale AFC (32),1-0,?,Walsall FC (15)
+?,(Mon) 3 Sep 1923 (36),Rochdale AFC (33),1-0,?,Wigan Borough (15)
+?,(Sat) 16 Feb 1924 (6),Rochdale AFC (34),0-0,?,Wolverhampton Wanderers (15)
+?,(Sat) 27 Oct 1923 (43),Rochdale AFC (35),0-0,?,Wrexham AFC (15)
+?,(Sat) 22 Mar 1924 (11),Rotherham County (16),2-0,?,Accrington Stanley (36)
+?,(Mon) 17 Mar 1924 (11),Rotherham County (17),1-0,?,Ashington (36)
+?,(Sat) 3 Nov 1923 (44),Rotherham County (18),2-0,?,Barrow AFC (36)
+?,(Mon) 24 Mar 1924 (12),Rotherham County (19),1-0,?,Bradford Park Avenue (36)
+?,(Wed) 26 Dec 1923 (52),Rotherham County (20),1-2,?,Chesterfield FC (36)
+?,(Sat) 17 Nov 1923 (46),Rotherham County (21),1-0,?,Crewe Alexandra (36)
+?,(Mon) 21 Apr 1924 (16),Rotherham County (22),2-0,?,Darlington FC (36)
+?,(Sat) 22 Sep 1923 (38),Rotherham County (23),3-0,?,Doncaster Rovers (36)
+?,(Sat) 19 Apr 1924 (15),Rotherham County (24),5-1,?,Durham City (36)
+?,(Sat) 2 Feb 1924 (4),Rotherham County (25),2-1,?,Grimsby Town (36)
+?,(Sat) 16 Feb 1924 (6),Rotherham County (26),3-2,?,Halifax Town (36)
+?,(Sat) 1 Mar 1924 (8),Rotherham County (27),5-0,?,Hartlepool United (36)
+?,(Tue) 22 Apr 1924 (16),Rotherham County (28),2-0,?,Lincoln City (36)
+?,(Sat) 19 Jan 1924 (2),Rotherham County (29),3-1,?,New Brighton (36)
+?,(Sat) 6 Oct 1923 (40),Rotherham County (30),0-0,?,Rochdale AFC (36)
+?,(Sat) 27 Oct 1923 (43),Rotherham County (31),1-1,?,Southport FC (16)
+?,(Sat) 12 Jan 1924 (1),Rotherham County (32),5-1,?,Tranmere Rovers (16)
+?,(Sat) 25 Aug 1923 (34),Rotherham County (33),0-2,?,Walsall FC (16)
+?,(Sat) 3 May 1924 (17),Rotherham County (34),4-0,?,Wigan Borough (16)
+?,(Mon) 3 Sep 1923 (36),Rotherham County (35),1-1,?,Wolverhampton Wanderers (16)
+?,(Sat) 8 Sep 1923 (36),Rotherham County (36),2-1,?,Wrexham AFC (16)
+?,(Tue) 25 Dec 1923 (52),Southport FC (17),1-0,?,Accrington Stanley (37)
+?,(Sat) 2 Feb 1924 (4),Southport FC (18),2-0,?,Ashington (37)
+?,(Sat) 29 Dec 1923 (52),Southport FC (19),2-0,?,Barrow AFC (37)
+?,(Sat) 29 Sep 1923 (39),Southport FC (20),1-0,?,Bradford Park Avenue (37)
+?,(Sat) 13 Oct 1923 (41),Southport FC (21),1-0,?,Chesterfield FC (37)
+?,(Sat) 25 Aug 1923 (34),Southport FC (22),1-0,?,Crewe Alexandra (37)
+?,(Tue) 29 Apr 1924 (17),Southport FC (23),1-0,?,Darlington FC (37)
+?,(Sat) 24 Nov 1923 (47),Southport FC (24),2-2,?,Doncaster Rovers (37)
+?,(Tue) 4 Sep 1923 (36),Southport FC (25),1-0,?,Durham City (37)
+?,(Sat) 5 Apr 1924 (13),Southport FC (26),3-0,?,Grimsby Town (37)
+?,(Sat) 19 Apr 1924 (15),Southport FC (27),3-0,?,Halifax Town (37)
+?,(Sat) 3 May 1924 (17),Southport FC (28),2-2,?,Hartlepool United (37)
+?,(Fri) 18 Apr 1924 (15),Southport FC (29),3-2,?,Lincoln City (37)
+?,(Tue) 1 Jan 1924 (0),Southport FC (30),3-0,?,New Brighton (37)
+?,(Sat) 8 Dec 1923 (49),Southport FC (31),0-1,?,Rochdale AFC (37)
+?,(Sat) 20 Oct 1923 (42),Southport FC (32),0-0,?,Rotherham County (37)
+?,(Sat) 15 Sep 1923 (37),Southport FC (33),1-1,?,Tranmere Rovers (17)
+?,(Sat) 16 Feb 1924 (6),Southport FC (34),1-1,?,Walsall FC (17)
+?,(Sat) 26 Jan 1924 (3),Southport FC (35),1-1,?,Wigan Borough (17)
+?,(Sat) 1 Mar 1924 (8),Southport FC (36),0-0,?,Wolverhampton Wanderers (17)
+?,(Sat) 3 Nov 1923 (44),Southport FC (37),1-0,?,Wrexham AFC (17)
+?,(Sat) 2 Feb 1924 (4),Tranmere Rovers (18),2-0,?,Accrington Stanley (38)
+?,(Tue) 25 Dec 1923 (52),Tranmere Rovers (19),2-4,?,Ashington (38)
+?,(Sat) 22 Sep 1923 (38),Tranmere Rovers (20),3-0,?,Barrow AFC (38)
+?,(Tue) 1 Jan 1924 (0),Tranmere Rovers (21),2-1,?,Bradford Park Avenue (38)
+?,(Sat) 5 Apr 1924 (13),Tranmere Rovers (22),0-0,?,Chesterfield FC (38)
+?,(Sat) 23 Feb 1924 (7),Tranmere Rovers (23),1-1,?,Crewe Alexandra (38)
+?,(Sat) 3 Nov 1923 (44),Tranmere Rovers (24),1-4,?,Darlington FC (38)
+?,(Fri) 18 Apr 1924 (15),Tranmere Rovers (25),3-0,?,Doncaster Rovers (38)
+?,(Sat) 8 Mar 1924 (9),Tranmere Rovers (26),1-0,?,Durham City (38)
+?,(Sat) 25 Aug 1923 (34),Tranmere Rovers (27),2-1,?,Grimsby Town (38)
+?,(Thu) 6 Sep 1923 (36),Tranmere Rovers (28),3-0,?,Halifax Town (38)
+?,(Sat) 19 Jan 1924 (2),Tranmere Rovers (29),2-0,?,Hartlepool United (38)
+?,(Sat) 20 Oct 1923 (42),Tranmere Rovers (30),1-3,?,Lincoln City (38)
+?,(Sat) 13 Oct 1923 (41),Tranmere Rovers (31),1-2,?,New Brighton (38)
+?,(Mon) 28 Apr 1924 (17),Tranmere Rovers (32),2-1,?,Rochdale AFC (38)
+?,(Sat) 22 Dec 1923 (51),Tranmere Rovers (33),0-1,?,Rotherham County (38)
+?,(Sat) 8 Sep 1923 (36),Tranmere Rovers (34),1-1,?,Southport FC (38)
+?,(Sat) 19 Apr 1924 (15),Tranmere Rovers (35),3-1,?,Walsall FC (18)
+?,(Sat) 22 Mar 1924 (11),Tranmere Rovers (36),1-0,?,Wigan Borough (18)
+?,(Sat) 3 May 1924 (17),Tranmere Rovers (37),0-0,?,Wolverhampton Wanderers (18)
+?,(Sat) 5 Jan 1924 (0),Tranmere Rovers (38),1-1,?,Wrexham AFC (18)
+?,(Sat) 13 Oct 1923 (41),Walsall FC (19),2-0,?,Accrington Stanley (39)
+?,(Mon) 21 Apr 1924 (16),Walsall FC (20),1-1,?,Ashington (39)
+?,(Sat) 15 Mar 1924 (10),Walsall FC (21),1-1,?,Barrow AFC (39)
+?,(Sat) 26 Apr 1924 (16),Walsall FC (22),2-3,?,Bradford Park Avenue (39)
+?,(Sat) 3 Nov 1923 (44),Walsall FC (23),0-1,?,Chesterfield FC (39)
+?,(Sat) 29 Sep 1923 (39),Walsall FC (24),1-0,?,Crewe Alexandra (39)
+?,(Sat) 8 Mar 1924 (9),Walsall FC (25),2-1,?,Darlington FC (39)
+?,(Sat) 26 Jan 1924 (3),Walsall FC (26),5-2,?,Doncaster Rovers (39)
+?,(Sat) 15 Sep 1923 (37),Walsall FC (27),1-1,?,Durham City (39)
+?,(Sat) 24 Nov 1923 (47),Walsall FC (28),2-0,?,Grimsby Town (39)
+?,(Sat) 20 Oct 1923 (42),Walsall FC (29),2-0,?,Halifax Town (39)
+?,(Sat) 29 Dec 1923 (52),Walsall FC (30),2-0,?,Hartlepool United (39)
+?,(Sat) 29 Mar 1924 (12),Walsall FC (31),0-0,?,Lincoln City (39)
+?,(Sat) 12 Jan 1924 (1),Walsall FC (32),3-0,?,New Brighton (39)
+?,(Sat) 9 Feb 1924 (5),Walsall FC (33),0-1,?,Rochdale AFC (39)
+?,(Sat) 1 Sep 1923 (35),Walsall FC (34),1-1,?,Rotherham County (39)
+?,(Sat) 23 Feb 1924 (7),Walsall FC (35),0-1,?,Southport FC (39)
+?,(Sat) 12 Apr 1924 (14),Walsall FC (36),0-4,?,Tranmere Rovers (39)
+?,(Tue) 25 Dec 1923 (52),Walsall FC (37),3-0,?,Wigan Borough (19)
+?,(Mon) 7 Apr 1924 (14),Walsall FC (38),2-1,?,Wolverhampton Wanderers (19)
+?,(Mon) 27 Aug 1923 (35),Walsall FC (39),1-2,?,Wrexham AFC (19)
+?,(Sat) 3 Nov 1923 (44),Wigan Borough (20),2-0,?,Accrington Stanley (40)
+?,(Sat) 8 Sep 1923 (36),Wigan Borough (21),1-1,?,Ashington (40)
+?,(Sat) 16 Feb 1924 (6),Wigan Borough (22),4-0,?,Barrow AFC (40)
+?,(Sat) 29 Mar 1924 (12),Wigan Borough (23),0-1,?,Bradford Park Avenue (40)
+?,(Sat) 12 Apr 1924 (14),Wigan Borough (24),3-1,?,Chesterfield FC (40)
+?,(Sat) 20 Oct 1923 (42),Wigan Borough (25),3-0,?,Crewe Alexandra (40)
+?,(Sat) 9 Feb 1924 (5),Wigan Borough (26),2-2,?,Darlington FC (40)
+?,(Sat) 1 Sep 1923 (35),Wigan Borough (27),1-0,?,Doncaster Rovers (40)
+?,(Sat) 6 Oct 1923 (40),Wigan Borough (28),0-1,?,Durham City (40)
+?,(Sat) 22 Dec 1923 (51),Wigan Borough (29),4-0,?,Grimsby Town (40)
+?,(Sat) 24 Nov 1923 (47),Wigan Borough (30),0-1,?,Halifax Town (40)
+?,(Sat) 22 Sep 1923 (38),Wigan Borough (31),4-1,?,Hartlepool United (40)
+?,(Sat) 8 Mar 1924 (9),Wigan Borough (32),0-0,?,Lincoln City (40)
+?,(Sat) 5 Jan 1924 (0),Wigan Borough (33),1-0,?,New Brighton (40)
+?,(Mon) 27 Aug 1923 (35),Wigan Borough (34),3-0,?,Rochdale AFC (40)
+?,(Sat) 26 Apr 1924 (16),Wigan Borough (35),3-1,?,Rotherham County (40)
+?,(Sat) 19 Jan 1924 (2),Wigan Borough (36),1-1,?,Southport FC (40)
+?,(Sat) 15 Mar 1924 (10),Wigan Borough (37),1-2,?,Tranmere Rovers (40)
+?,(Wed) 26 Dec 1923 (52),Wigan Borough (38),2-1,?,Walsall FC (40)
+?,(Tue) 22 Apr 1924 (16),Wigan Borough (39),1-1,?,Wolverhampton Wanderers (20)
+?,(Sat) 8 Dec 1923 (49),Wigan Borough (40),3-1,?,Wrexham AFC (20)
+?,(Sat) 29 Sep 1923 (39),Wolverhampton Wanderers (21),5-1,?,Accrington Stanley (41)
+?,(Sat) 29 Dec 1923 (52),Wolverhampton Wanderers (22),1-0,?,Ashington (41)
+?,(Sat) 29 Mar 1924 (12),Wolverhampton Wanderers (23),3-0,?,Barrow AFC (41)
+?,(Sat) 27 Oct 1923 (43),Wolverhampton Wanderers (24),2-0,?,Bradford Park Avenue (41)
+?,(Sat) 1 Sep 1923 (35),Wolverhampton Wanderers (25),2-1,?,Chesterfield FC (41)
+?,(Sat) 15 Sep 1923 (37),Wolverhampton Wanderers (26),1-0,?,Crewe Alexandra (41)
+?,(Sat) 15 Mar 1924 (10),Wolverhampton Wanderers (27),2-0,?,Darlington FC (41)
+?,(Sat) 9 Feb 1924 (5),Wolverhampton Wanderers (28),1-0,?,Doncaster Rovers (41)
+?,(Wed) 26 Dec 1923 (52),Wolverhampton Wanderers (29),2-1,?,Durham City (41)
+?,(Sat) 3 Nov 1923 (44),Wolverhampton Wanderers (30),4-1,?,Grimsby Town (41)
+?,(Sat) 13 Oct 1923 (41),Wolverhampton Wanderers (31),4-0,?,Halifax Town (41)
+?,(Mon) 11 Feb 1924 (6),Wolverhampton Wanderers (32),2-1,?,Hartlepool United (41)
+?,(Sat) 19 Apr 1924 (15),Wolverhampton Wanderers (33),3-0,?,Lincoln City (41)
+?,(Sat) 24 Nov 1923 (47),Wolverhampton Wanderers (34),5-1,?,New Brighton (41)
+?,(Wed) 26 Mar 1924 (12),Wolverhampton Wanderers (35),0-0,?,Rochdale AFC (41)
+?,(Mon) 27 Aug 1923 (35),Wolverhampton Wanderers (36),3-0,?,Rotherham County (41)
+?,(Sat) 8 Mar 1924 (9),Wolverhampton Wanderers (37),2-1,?,Southport FC (41)
+?,(Sat) 26 Apr 1924 (16),Wolverhampton Wanderers (38),3-0,?,Tranmere Rovers (41)
+?,(Sat) 22 Dec 1923 (51),Wolverhampton Wanderers (39),0-0,?,Walsall FC (41)
+?,(Mon) 21 Apr 1924 (16),Wolverhampton Wanderers (40),3-3,?,Wigan Borough (41)
+?,(Sat) 26 Jan 1924 (3),Wolverhampton Wanderers (41),3-0,?,Wrexham AFC (21)
+?,(Sat) 5 Apr 1924 (13),Wrexham AFC (22),1-0,?,Accrington Stanley (42)
+?,(Sat) 25 Aug 1923 (34),Wrexham AFC (23),4-0,?,Ashington (42)
+?,(Sat) 24 Nov 1923 (47),Wrexham AFC (24),2-0,?,Barrow AFC (42)
+?,(Mon) 21 Apr 1924 (16),Wrexham AFC (25),2-2,?,Bradford Park Avenue (42)
+?,(Sat) 17 Nov 1923 (46),Wrexham AFC (26),0-0,?,Chesterfield FC (42)
+?,(Sat) 19 Apr 1924 (15),Wrexham AFC (27),1-0,?,Crewe Alexandra (42)
+?,(Sat) 29 Sep 1923 (39),Wrexham AFC (28),0-1,?,Darlington FC (42)
+?,(Sat) 13 Oct 1923 (41),Wrexham AFC (29),2-2,?,Doncaster Rovers (42)
+?,(Sat) 3 May 1924 (17),Wrexham AFC (30),0-0,?,Durham City (42)
+?,(Sat) 16 Feb 1924 (6),Wrexham AFC (31),1-1,?,Grimsby Town (42)
+?,(Sat) 1 Mar 1924 (8),Wrexham AFC (32),0-1,?,Halifax Town (42)
+?,(Sat) 22 Mar 1924 (11),Wrexham AFC (33),1-0,?,Hartlepool United (42)
+?,(Wed) 12 Mar 1924 (10),Wrexham AFC (34),2-1,?,Lincoln City (42)
+?,(Sat) 2 Feb 1924 (4),Wrexham AFC (35),0-0,?,New Brighton (42)
+?,(Sat) 20 Oct 1923 (42),Wrexham AFC (36),1-1,?,Rochdale AFC (42)
+?,(Sat) 15 Sep 1923 (37),Wrexham AFC (37),1-0,?,Rotherham County (42)
+?,(Sat) 10 Nov 1923 (45),Wrexham AFC (38),3-0,?,Southport FC (42)
+?,(Wed) 26 Dec 1923 (52),Wrexham AFC (39),1-1,?,Tranmere Rovers (42)
+?,(Wed) 5 Sep 1923 (36),Wrexham AFC (40),0-0,?,Walsall FC (42)
+?,(Wed) 19 Sep 1923 (38),Wrexham AFC (41),0-0,?,Wigan Borough (42)
+?,(Sat) 19 Jan 1924 (2),Wrexham AFC (42),2-2,?,Wolverhampton Wanderers (42)

@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Blackpool,Blackburn Rovers,5-2,-
--,-,Bolton Wanderers,Blackburn Rovers,4-2,-
--,-,Brighton & Hove Albion,Blackburn Rovers,2-2,-
--,-,Bristol Rovers,Blackburn Rovers,4-1,-
--,-,Burnley,Blackburn Rovers,2-3,-
--,-,Cardiff City,Blackburn Rovers,1-1,-
--,-,Charlton Athletic,Blackburn Rovers,2-2,-
--,-,Crystal Palace,Blackburn Rovers,5-0,-
--,-,Fulham,Blackburn Rovers,0-0,-
--,-,Hull City,Blackburn Rovers,0-1,-
--,-,Leyton Orient,Blackburn Rovers,0-0,-
--,-,Luton Town,Blackburn Rovers,0-0,-
--,-,Mansfield Town,Blackburn Rovers,2-2,-
--,-,Millwall,Blackburn Rovers,1-1,-
--,-,Notts County,Blackburn Rovers,1-1,-
--,-,Oldham Athletic,Blackburn Rovers,0-2,-
--,-,Sheffield United,Blackburn Rovers,2-0,-
--,-,Southampton,Blackburn Rovers,5-0,-
--,-,Stoke City,Blackburn Rovers,4-2,-
--,-,Sunderland,Blackburn Rovers,0-1,-
--,-,Tottenham Hotspur,Blackburn Rovers,4-0,-
--,-,Blackburn Rovers,Blackpool,1-2,-
--,-,Bolton Wanderers,Blackpool,2-1,-
--,-,Brighton & Hove Albion,Blackpool,2-1,-
--,-,Bristol Rovers,Blackpool,2-0,-
--,-,Burnley,Blackpool,0-1,-
--,-,Cardiff City,Blackpool,2-1,-
--,-,Charlton Athletic,Blackpool,3-1,-
--,-,Crystal Palace,Blackpool,2-2,-
--,-,Fulham,Blackpool,1-1,-
--,-,Hull City,Blackpool,2-0,-
--,-,Leyton Orient,Blackpool,1-4,-
--,-,Luton Town,Blackpool,4-0,-
--,-,Mansfield Town,Blackpool,1-3,-
--,-,Millwall,Blackpool,2-0,-
--,-,Notts County,Blackpool,1-1,-
--,-,Oldham Athletic,Blackpool,2-1,-
--,-,Sheffield United,Blackpool,0-0,-
--,-,Southampton,Blackpool,2-0,-
--,-,Stoke City,Blackpool,1-2,-
--,-,Sunderland,Blackpool,2-1,-
--,-,Tottenham Hotspur,Blackpool,2-2,-
--,-,Blackburn Rovers,Bolton Wanderers,0-1,-
--,-,Blackpool,Bolton Wanderers,0-2,-
--,-,Brighton & Hove Albion,Bolton Wanderers,1-2,-
--,-,Bristol Rovers,Bolton Wanderers,0-1,-
--,-,Burnley,Bolton Wanderers,0-1,-
--,-,Cardiff City,Bolton Wanderers,1-0,-
--,-,Charlton Athletic,Bolton Wanderers,2-1,-
--,-,Crystal Palace,Bolton Wanderers,2-1,-
--,-,Fulham,Bolton Wanderers,2-0,-
--,-,Hull City,Bolton Wanderers,0-0,-
--,-,Leyton Orient,Bolton Wanderers,1-1,-
--,-,Luton Town,Bolton Wanderers,2-1,-
--,-,Mansfield Town,Bolton Wanderers,0-1,-
--,-,Millwall,Bolton Wanderers,1-0,-
--,-,Notts County,Bolton Wanderers,1-1,-
--,-,Oldham Athletic,Bolton Wanderers,2-2,-
--,-,Sheffield United,Bolton Wanderers,1-5,-
--,-,Southampton,Bolton Wanderers,2-2,-
--,-,Stoke City,Bolton Wanderers,0-0,-
--,-,Sunderland,Bolton Wanderers,0-2,-
--,-,Tottenham Hotspur,Bolton Wanderers,1-0,-
--,-,Blackburn Rovers,Brighton & Hove Albion,0-1,-
--,-,Blackpool,Brighton & Hove Albion,0-1,-
--,-,Bolton Wanderers,Brighton & Hove Albion,1-1,-
--,-,Bristol Rovers,Brighton & Hove Albion,0-4,-
--,-,Burnley,Brighton & Hove Albion,0-0,-
--,-,Cardiff City,Brighton & Hove Albion,1-0,-
--,-,Charlton Athletic,Brighton & Hove Albion,4-3,-
--,-,Crystal Palace,Brighton & Hove Albion,0-0,-
--,-,Fulham,Brighton & Hove Albion,2-1,-
--,-,Hull City,Brighton & Hove Albion,1-1,-
--,-,Leyton Orient,Brighton & Hove Albion,0-1,-
--,-,Luton Town,Brighton & Hove Albion,1-0,-
--,-,Mansfield Town,Brighton & Hove Albion,1-2,-
--,-,Millwall,Brighton & Hove Albion,0-1,-
--,-,Notts County,Brighton & Hove Albion,1-0,-
--,-,Oldham Athletic,Brighton & Hove Albion,1-1,-
--,-,Sheffield United,Brighton & Hove Albion,2-0,-
--,-,Southampton,Brighton & Hove Albion,1-1,-
--,-,Stoke City,Brighton & Hove Albion,1-0,-
--,-,Sunderland,Brighton & Hove Albion,0-2,-
--,-,Tottenham Hotspur,Brighton & Hove Albion,0-0,-
--,-,Blackburn Rovers,Bristol Rovers,0-1,-
--,-,Blackpool,Bristol Rovers,3-1,-
--,-,Bolton Wanderers,Bristol Rovers,3-0,-
--,-,Brighton & Hove Albion,Bristol Rovers,1-1,-
--,-,Burnley,Bristol Rovers,3-1,-
--,-,Cardiff City,Bristol Rovers,1-1,-
--,-,Charlton Athletic,Bristol Rovers,3-1,-
--,-,Crystal Palace,Bristol Rovers,1-0,-
--,-,Fulham,Bristol Rovers,1-1,-
--,-,Hull City,Bristol Rovers,0-1,-
--,-,Leyton Orient,Bristol Rovers,2-1,-
--,-,Luton Town,Bristol Rovers,1-1,-
--,-,Mansfield Town,Bristol Rovers,3-0,-
--,-,Millwall,Bristol Rovers,1-3,-
--,-,Notts County,Bristol Rovers,3-2,-
--,-,Oldham Athletic,Bristol Rovers,4-1,-
--,-,Sheffield United,Bristol Rovers,1-1,-
--,-,Southampton,Bristol Rovers,3-1,-
--,-,Stoke City,Bristol Rovers,3-2,-
--,-,Sunderland,Bristol Rovers,5-1,-
--,-,Tottenham Hotspur,Bristol Rovers,9-0,-
--,-,Blackburn Rovers,Burnley,0-1,-
--,-,Blackpool,Burnley,1-1,-
--,-,Bolton Wanderers,Burnley,1-2,-
--,-,Brighton & Hove Albion,Burnley,2-1,-
--,-,Bristol Rovers,Burnley,2-2,-
--,-,Cardiff City,Burnley,2-1,-
--,-,Charlton Athletic,Burnley,3-2,-
--,-,Crystal Palace,Burnley,1-1,-
--,-,Fulham,Burnley,4-1,-
--,-,Hull City,Burnley,1-3,-
--,-,Leyton Orient,Burnley,3-0,-
--,-,Luton Town,Burnley,1-2,-
--,-,Mansfield Town,Burnley,4-1,-
--,-,Millwall,Burnley,1-1,-
--,-,Notts County,Burnley,3-0,-
--,-,Oldham Athletic,Burnley,2-0,-
--,-,Sheffield United,Burnley,2-1,-
--,-,Southampton,Burnley,3-0,-
--,-,Stoke City,Burnley,2-1,-
--,-,Sunderland,Burnley,3-0,-
--,-,Tottenham Hotspur,Burnley,3-0,-
--,-,Blackburn Rovers,Cardiff City,3-0,-
--,-,Blackpool,Cardiff City,3-0,-
--,-,Bolton Wanderers,Cardiff City,6-3,-
--,-,Brighton & Hove Albion,Cardiff City,4-0,-
--,-,Bristol Rovers,Cardiff City,3-2,-
--,-,Burnley,Cardiff City,4-2,-
--,-,Charlton Athletic,Cardiff City,0-0,-
--,-,Crystal Palace,Cardiff City,2-0,-
--,-,Fulham,Cardiff City,1-0,-
--,-,Hull City,Cardiff City,4-1,-
--,-,Leyton Orient,Cardiff City,2-1,-
--,-,Luton Town,Cardiff City,3-1,-
--,-,Mansfield Town,Cardiff City,2-2,-
--,-,Millwall,Cardiff City,1-1,-
--,-,Notts County,Cardiff City,1-1,-
--,-,Oldham Athletic,Cardiff City,1-1,-
--,-,Sheffield United,Cardiff City,0-1,-
--,-,Southampton,Cardiff City,3-1,-
--,-,Stoke City,Cardiff City,2-0,-
--,-,Sunderland,Cardiff City,1-1,-
--,-,Tottenham Hotspur,Cardiff City,2-1,-
--,-,Blackburn Rovers,Charlton Athletic,2-1,-
--,-,Blackpool,Charlton Athletic,5-1,-
--,-,Bolton Wanderers,Charlton Athletic,2-1,-
--,-,Brighton & Hove Albion,Charlton Athletic,1-0,-
--,-,Bristol Rovers,Charlton Athletic,2-2,-
--,-,Burnley,Charlton Athletic,1-0,-
--,-,Cardiff City,Charlton Athletic,1-0,-
--,-,Crystal Palace,Charlton Athletic,1-1,-
--,-,Fulham,Charlton Athletic,1-1,-
--,-,Hull City,Charlton Athletic,0-2,-
--,-,Leyton Orient,Charlton Athletic,0-0,-
--,-,Luton Town,Charlton Athletic,7-1,-
--,-,Mansfield Town,Charlton Athletic,0-3,-
--,-,Millwall,Charlton Athletic,1-1,-
--,-,Notts County,Charlton Athletic,2-0,-
--,-,Oldham Athletic,Charlton Athletic,1-1,-
--,-,Sheffield United,Charlton Athletic,1-0,-
--,-,Southampton,Charlton Athletic,4-1,-
--,-,Stoke City,Charlton Athletic,4-0,-
--,-,Sunderland,Charlton Athletic,3-0,-
--,-,Tottenham Hotspur,Charlton Athletic,2-1,-
--,-,Blackburn Rovers,Crystal Palace,3-0,-
--,-,Blackpool,Crystal Palace,3-1,-
--,-,Bolton Wanderers,Crystal Palace,2-0,-
--,-,Brighton & Hove Albion,Crystal Palace,1-1,-
--,-,Bristol Rovers,Crystal Palace,3-0,-
--,-,Burnley,Crystal Palace,1-1,-
--,-,Cardiff City,Crystal Palace,2-2,-
--,-,Charlton Athletic,Crystal Palace,1-0,-
--,-,Fulham,Crystal Palace,1-1,-
--,-,Hull City,Crystal Palace,1-0,-
--,-,Leyton Orient,Crystal Palace,0-0,-
--,-,Luton Town,Crystal Palace,1-0,-
--,-,Mansfield Town,Crystal Palace,1-3,-
--,-,Millwall,Crystal Palace,0-3,-
--,-,Notts County,Crystal Palace,2-0,-
--,-,Oldham Athletic,Crystal Palace,1-1,-
--,-,Sheffield United,Crystal Palace,0-2,-
--,-,Southampton,Crystal Palace,2-0,-
--,-,Stoke City,Crystal Palace,0-2,-
--,-,Sunderland,Crystal Palace,0-0,-
--,-,Tottenham Hotspur,Crystal Palace,2-2,-
--,-,Blackburn Rovers,Fulham,4-0,-
--,-,Blackpool,Fulham,1-2,-
--,-,Bolton Wanderers,Fulham,0-0,-
--,-,Brighton & Hove Albion,Fulham,2-0,-
--,-,Bristol Rovers,Fulham,0-0,-
--,-,Burnley,Fulham,2-0,-
--,-,Cardiff City,Fulham,3-1,-
--,-,Charlton Athletic,Fulham,0-1,-
--,-,Crystal Palace,Fulham,2-3,-
--,-,Hull City,Fulham,0-1,-
--,-,Leyton Orient,Fulham,1-1,-
--,-,Luton Town,Fulham,1-0,-
--,-,Mansfield Town,Fulham,2-1,-
--,-,Millwall,Fulham,0-3,-
--,-,Notts County,Fulham,1-1,-
--,-,Oldham Athletic,Fulham,2-0,-
--,-,Sheffield United,Fulham,2-1,-
--,-,Southampton,Fulham,2-0,-
--,-,Stoke City,Fulham,2-0,-
--,-,Sunderland,Fulham,2-2,-
--,-,Tottenham Hotspur,Fulham,1-0,-
--,-,Blackburn Rovers,Hull City,1-1,-
--,-,Blackpool,Hull City,3-0,-
--,-,Bolton Wanderers,Hull City,1-0,-
--,-,Brighton & Hove Albion,Hull City,2-1,-
--,-,Bristol Rovers,Hull City,1-1,-
--,-,Burnley,Hull City,1-1,-
--,-,Cardiff City,Hull City,0-0,-
--,-,Charlton Athletic,Hull City,0-1,-
--,-,Crystal Palace,Hull City,0-1,-
--,-,Fulham,Hull City,2-0,-
--,-,Leyton Orient,Hull City,2-1,-
--,-,Luton Town,Hull City,1-1,-
--,-,Mansfield Town,Hull City,1-0,-
--,-,Millwall,Hull City,1-1,-
--,-,Notts County,Hull City,2-1,-
--,-,Oldham Athletic,Hull City,2-1,-
--,-,Sheffield United,Hull City,2-0,-
--,-,Southampton,Hull City,1-0,-
--,-,Stoke City,Hull City,1-0,-
--,-,Sunderland,Hull City,2-0,-
--,-,Tottenham Hotspur,Hull City,1-0,-
--,-,Blackburn Rovers,Leyton Orient,1-0,-
--,-,Blackpool,Leyton Orient,0-0,-
--,-,Bolton Wanderers,Leyton Orient,2-0,-
--,-,Brighton & Hove Albion,Leyton Orient,1-0,-
--,-,Bristol Rovers,Leyton Orient,2-1,-
--,-,Burnley,Leyton Orient,0-0,-
--,-,Cardiff City,Leyton Orient,0-1,-
--,-,Charlton Athletic,Leyton Orient,2-1,-
--,-,Crystal Palace,Leyton Orient,1-0,-
--,-,Fulham,Leyton Orient,1-2,-
--,-,Hull City,Leyton Orient,2-2,-
--,-,Luton Town,Leyton Orient,1-0,-
--,-,Mansfield Town,Leyton Orient,1-1,-
--,-,Millwall,Leyton Orient,2-0,-
--,-,Notts County,Leyton Orient,1-1,-
--,-,Oldham Athletic,Leyton Orient,2-1,-
--,-,Sheffield United,Leyton Orient,2-0,-
--,-,Southampton,Leyton Orient,1-0,-
--,-,Stoke City,Leyton Orient,5-1,-
--,-,Sunderland,Leyton Orient,1-1,-
--,-,Tottenham Hotspur,Leyton Orient,1-1,-
--,-,Blackburn Rovers,Luton Town,2-0,-
--,-,Blackpool,Luton Town,2-1,-
--,-,Bolton Wanderers,Luton Town,2-1,-
--,-,Brighton & Hove Albion,Luton Town,3-2,-
--,-,Bristol Rovers,Luton Town,1-2,-
--,-,Burnley,Luton Town,2-1,-
--,-,Cardiff City,Luton Town,1-4,-
--,-,Charlton Athletic,Luton Town,0-0,-
--,-,Crystal Palace,Luton Town,3-3,-
--,-,Fulham,Luton Town,1-0,-
--,-,Hull City,Luton Town,1-1,-
--,-,Leyton Orient,Luton Town,0-0,-
--,-,Mansfield Town,Luton Town,3-1,-
--,-,Millwall,Luton Town,1-0,-
--,-,Notts County,Luton Town,2-0,-
--,-,Oldham Athletic,Luton Town,1-0,-
--,-,Sheffield United,Luton Town,4-1,-
--,-,Southampton,Luton Town,0-1,-
--,-,Stoke City,Luton Town,0-0,-
--,-,Sunderland,Luton Town,1-1,-
--,-,Tottenham Hotspur,Luton Town,2-0,-
--,-,Blackburn Rovers,Mansfield Town,3-1,-
--,-,Blackpool,Mansfield Town,1-2,-
--,-,Bolton Wanderers,Mansfield Town,2-0,-
--,-,Brighton & Hove Albion,Mansfield Town,5-1,-
--,-,Bristol Rovers,Mansfield Town,3-1,-
--,-,Burnley,Mansfield Town,2-0,-
--,-,Cardiff City,Mansfield Town,1-1,-
--,-,Charlton Athletic,Mansfield Town,2-2,-
--,-,Crystal Palace,Mansfield Town,3-1,-
--,-,Fulham,Mansfield Town,0-2,-
--,-,Hull City,Mansfield Town,0-2,-
--,-,Leyton Orient,Mansfield Town,4-2,-
--,-,Luton Town,Mansfield Town,1-1,-
--,-,Millwall,Mansfield Town,1-0,-
--,-,Notts County,Mansfield Town,1-0,-
--,-,Oldham Athletic,Mansfield Town,0-1,-
--,-,Sheffield United,Mansfield Town,2-0,-
--,-,Southampton,Mansfield Town,1-0,-
--,-,Stoke City,Mansfield Town,1-1,-
--,-,Sunderland,Mansfield Town,1-0,-
--,-,Tottenham Hotspur,Mansfield Town,1-1,-
--,-,Blackburn Rovers,Millwall,2-1,-
--,-,Blackpool,Millwall,2-2,-
--,-,Bolton Wanderers,Millwall,2-1,-
--,-,Brighton & Hove Albion,Millwall,3-2,-
--,-,Bristol Rovers,Millwall,2-0,-
--,-,Burnley,Millwall,0-2,-
--,-,Cardiff City,Millwall,4-1,-
--,-,Charlton Athletic,Millwall,0-2,-
--,-,Crystal Palace,Millwall,1-0,-
--,-,Fulham,Millwall,0-1,-
--,-,Hull City,Millwall,3-2,-
--,-,Leyton Orient,Millwall,0-0,-
--,-,Luton Town,Millwall,1-0,-
--,-,Mansfield Town,Millwall,0-0,-
--,-,Notts County,Millwall,1-1,-
--,-,Oldham Athletic,Millwall,2-2,-
--,-,Sheffield United,Millwall,5-2,-
--,-,Southampton,Millwall,2-3,-
--,-,Stoke City,Millwall,2-1,-
--,-,Sunderland,Millwall,2-0,-
--,-,Tottenham Hotspur,Millwall,3-3,-
--,-,Blackburn Rovers,Notts County,1-0,-
--,-,Blackpool,Notts County,2-2,-
--,-,Bolton Wanderers,Notts County,2-0,-
--,-,Brighton & Hove Albion,Notts County,2-1,-
--,-,Bristol Rovers,Notts County,2-2,-
--,-,Burnley,Notts County,3-1,-
--,-,Cardiff City,Notts County,2-1,-
--,-,Charlton Athletic,Notts County,0-0,-
--,-,Crystal Palace,Notts County,2-0,-
--,-,Fulham,Notts County,5-1,-
--,-,Hull City,Notts County,1-1,-
--,-,Leyton Orient,Notts County,0-0,-
--,-,Luton Town,Notts County,2-0,-
--,-,Mansfield Town,Notts County,1-3,-
--,-,Millwall,Notts County,0-0,-
--,-,Oldham Athletic,Notts County,2-1,-
--,-,Sheffield United,Notts County,4-1,-
--,-,Southampton,Notts County,3-1,-
--,-,Stoke City,Notts County,1-1,-
--,-,Sunderland,Notts County,3-1,-
--,-,Tottenham Hotspur,Notts County,2-1,-
--,-,Blackburn Rovers,Oldham Athletic,4-2,-
--,-,Blackpool,Oldham Athletic,1-1,-
--,-,Bolton Wanderers,Oldham Athletic,1-0,-
--,-,Brighton & Hove Albion,Oldham Athletic,1-1,-
--,-,Bristol Rovers,Oldham Athletic,0-0,-
--,-,Burnley,Oldham Athletic,4-1,-
--,-,Cardiff City,Oldham Athletic,1-0,-
--,-,Charlton Athletic,Oldham Athletic,2-2,-
--,-,Crystal Palace,Oldham Athletic,0-0,-
--,-,Fulham,Oldham Athletic,0-2,-
--,-,Hull City,Oldham Athletic,0-1,-
--,-,Leyton Orient,Oldham Athletic,5-3,-
--,-,Luton Town,Oldham Athletic,0-1,-
--,-,Mansfield Town,Oldham Athletic,0-2,-
--,-,Millwall,Oldham Athletic,2-0,-
--,-,Notts County,Oldham Athletic,3-2,-
--,-,Sheffield United,Oldham Athletic,1-0,-
--,-,Southampton,Oldham Athletic,2-2,-
--,-,Stoke City,Oldham Athletic,3-0,-
--,-,Sunderland,Oldham Athletic,3-1,-
--,-,Tottenham Hotspur,Oldham Athletic,5-1,-
--,-,Blackburn Rovers,Sheffield United,1-1,-
--,-,Blackpool,Sheffield United,1-1,-
--,-,Bolton Wanderers,Sheffield United,2-1,-
--,-,Brighton & Hove Albion,Sheffield United,2-1,-
--,-,Bristol Rovers,Sheffield United,4-1,-
--,-,Burnley,Sheffield United,4-1,-
--,-,Cardiff City,Sheffield United,1-6,-
--,-,Charlton Athletic,Sheffield United,3-0,-
--,-,Crystal Palace,Sheffield United,1-0,-
--,-,Fulham,Sheffield United,2-0,-
--,-,Hull City,Sheffield United,2-3,-
--,-,Leyton Orient,Sheffield United,3-1,-
--,-,Luton Town,Sheffield United,4-0,-
--,-,Mansfield Town,Sheffield United,1-1,-
--,-,Millwall,Sheffield United,1-1,-
--,-,Notts County,Sheffield United,1-2,-
--,-,Oldham Athletic,Sheffield United,3-0,-
--,-,Southampton,Sheffield United,2-1,-
--,-,Stoke City,Sheffield United,4-0,-
--,-,Sunderland,Sheffield United,5-1,-
--,-,Tottenham Hotspur,Sheffield United,4-2,-
--,-,Blackburn Rovers,Southampton,2-1,-
--,-,Blackpool,Southampton,0-1,-
--,-,Bolton Wanderers,Southampton,0-0,-
--,-,Brighton & Hove Albion,Southampton,1-1,-
--,-,Bristol Rovers,Southampton,0-0,-
--,-,Burnley,Southampton,3-3,-
--,-,Cardiff City,Southampton,1-0,-
--,-,Charlton Athletic,Southampton,1-3,-
--,-,Crystal Palace,Southampton,1-2,-
--,-,Fulham,Southampton,1-1,-
--,-,Hull City,Southampton,0-3,-
--,-,Leyton Orient,Southampton,1-1,-
--,-,Luton Town,Southampton,1-2,-
--,-,Mansfield Town,Southampton,1-2,-
--,-,Millwall,Southampton,3-0,-
--,-,Notts County,Southampton,2-3,-
--,-,Oldham Athletic,Southampton,1-1,-
--,-,Sheffield United,Southampton,3-2,-
--,-,Stoke City,Southampton,1-0,-
--,-,Sunderland,Southampton,0-0,-
--,-,Tottenham Hotspur,Southampton,0-0,-
--,-,Blackburn Rovers,Stoke City,2-1,-
--,-,Blackpool,Stoke City,1-1,-
--,-,Bolton Wanderers,Stoke City,1-1,-
--,-,Brighton & Hove Albion,Stoke City,2-1,-
--,-,Bristol Rovers,Stoke City,4-1,-
--,-,Burnley,Stoke City,1-0,-
--,-,Cardiff City,Stoke City,2-0,-
--,-,Charlton Athletic,Stoke City,3-2,-
--,-,Crystal Palace,Stoke City,0-1,-
--,-,Fulham,Stoke City,3-0,-
--,-,Hull City,Stoke City,0-0,-
--,-,Leyton Orient,Stoke City,2-0,-
--,-,Luton Town,Stoke City,1-2,-
--,-,Mansfield Town,Stoke City,2-1,-
--,-,Millwall,Stoke City,0-0,-
--,-,Notts County,Stoke City,2-0,-
--,-,Oldham Athletic,Stoke City,1-1,-
--,-,Sheffield United,Stoke City,1-2,-
--,-,Southampton,Stoke City,1-0,-
--,-,Sunderland,Stoke City,1-0,-
--,-,Tottenham Hotspur,Stoke City,3-1,-
--,-,Blackburn Rovers,Sunderland,1-1,-
--,-,Blackpool,Sunderland,1-1,-
--,-,Bolton Wanderers,Sunderland,2-0,-
--,-,Brighton & Hove Albion,Sunderland,2-1,-
--,-,Bristol Rovers,Sunderland,3-2,-
--,-,Burnley,Sunderland,0-0,-
--,-,Cardiff City,Sunderland,5-2,-
--,-,Charlton Athletic,Sunderland,3-2,-
--,-,Crystal Palace,Sunderland,2-2,-
--,-,Fulham,Sunderland,3-3,-
--,-,Hull City,Sunderland,3-0,-
--,-,Leyton Orient,Sunderland,2-2,-
--,-,Luton Town,Sunderland,1-3,-
--,-,Mansfield Town,Sunderland,1-2,-
--,-,Millwall,Sunderland,3-1,-
--,-,Notts County,Sunderland,2-2,-
--,-,Oldham Athletic,Sunderland,1-1,-
--,-,Sheffield United,Sunderland,1-1,-
--,-,Southampton,Sunderland,4-2,-
--,-,Stoke City,Sunderland,0-0,-
--,-,Tottenham Hotspur,Sunderland,2-3,-
--,-,Blackburn Rovers,Tottenham Hotspur,0-0,-
--,-,Blackpool,Tottenham Hotspur,0-2,-
--,-,Bolton Wanderers,Tottenham Hotspur,1-0,-
--,-,Brighton & Hove Albion,Tottenham Hotspur,3-1,-
--,-,Bristol Rovers,Tottenham Hotspur,2-3,-
--,-,Burnley,Tottenham Hotspur,2-1,-
--,-,Cardiff City,Tottenham Hotspur,0-0,-
--,-,Charlton Athletic,Tottenham Hotspur,4-1,-
--,-,Crystal Palace,Tottenham Hotspur,1-2,-
--,-,Fulham,Tottenham Hotspur,1-1,-
--,-,Hull City,Tottenham Hotspur,2-0,-
--,-,Leyton Orient,Tottenham Hotspur,1-1,-
--,-,Luton Town,Tottenham Hotspur,1-4,-
--,-,Mansfield Town,Tottenham Hotspur,3-3,-
--,-,Millwall,Tottenham Hotspur,1-3,-
--,-,Notts County,Tottenham Hotspur,3-3,-
--,-,Oldham Athletic,Tottenham Hotspur,1-1,-
--,-,Sheffield United,Tottenham Hotspur,2-2,-
--,-,Southampton,Tottenham Hotspur,0-0,-
--,-,Stoke City,Tottenham Hotspur,1-3,-
--,-,Sunderland,Tottenham Hotspur,1-2,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 10 Sep 1977 (36),Blackburn Rovers (1),1-2,?,Blackpool FC (1)
+?,(Wed) 26 Apr 1978 (17),Blackburn Rovers (2),0-1,?,Bolton Wanderers (1)
+?,(Sat) 8 Apr 1978 (14),Blackburn Rovers (3),0-1,?,Brighton & Hove Albion (1)
+?,(Sat) 11 Mar 1978 (10),Blackburn Rovers (4),0-1,?,Bristol Rovers (1)
+?,(Mon) 27 Mar 1978 (13),Blackburn Rovers (5),0-1,?,Burnley FC (1)
+?,(Sat) 27 Aug 1977 (34),Blackburn Rovers (6),3-0,?,Cardiff City (1)
+?,(Sat) 8 Oct 1977 (40),Blackburn Rovers (7),2-1,?,Charlton Athletic (1)
+?,(Sat) 3 Dec 1977 (48),Blackburn Rovers (8),3-0,?,Crystal Palace FC (1)
+?,(Wed) 15 Mar 1978 (11),Blackburn Rovers (9),4-0,?,Fulham FC (1)
+?,(Fri) 24 Mar 1978 (12),Blackburn Rovers (10),1-1,?,Hull City (1)
+?,(Sat) 24 Sep 1977 (38),Blackburn Rovers (11),1-0,?,Leyton Orient FC (1)
+?,(Sat) 11 Feb 1978 (6),Blackburn Rovers (12),2-0,?,Luton Town (1)
+?,(Sat) 19 Nov 1977 (46),Blackburn Rovers (13),3-1,?,Mansfield Town (1)
+?,(Sat) 17 Dec 1977 (50),Blackburn Rovers (14),2-1,?,Millwall FC (1)
+?,(Mon) 2 Jan 1978 (1),Blackburn Rovers (15),1-0,?,Notts County FC (1)
+?,(Sat) 25 Feb 1978 (8),Blackburn Rovers (16),4-2,?,Oldham Athletic (1)
+?,(Sat) 22 Apr 1978 (16),Blackburn Rovers (17),1-1,?,Sheffield United FC (1)
+?,(Sat) 5 Nov 1977 (44),Blackburn Rovers (18),2-1,?,Southampton FC (1)
+?,(Sat) 22 Oct 1977 (42),Blackburn Rovers (19),2-1,?,Stoke City (1)
+?,(Tue) 27 Dec 1977 (52),Blackburn Rovers (20),1-1,?,Sunderland AFC (1)
+?,(Wed) 24 Aug 1977 (34),Blackburn Rovers (21),0-0,?,Tottenham Hotspur (1)
+?,(Sat) 4 Feb 1978 (5),Blackpool FC (2),5-2,?,Blackburn Rovers (22)
+?,(Tue) 27 Dec 1977 (52),Blackpool FC (3),0-2,?,Bolton Wanderers (2)
+?,(Sat) 3 Dec 1977 (48),Blackpool FC (4),0-1,?,Brighton & Hove Albion (2)
+?,(Sat) 3 Sep 1977 (35),Blackpool FC (5),3-1,?,Bristol Rovers (2)
+?,(Tue) 28 Mar 1978 (13),Blackpool FC (6),1-1,?,Burnley FC (2)
+?,(Sat) 1 Oct 1977 (39),Blackpool FC (7),3-0,?,Cardiff City (2)
+?,(Sat) 14 Jan 1978 (2),Blackpool FC (8),5-1,?,Charlton Athletic (2)
+?,(Tue) 4 Oct 1977 (40),Blackpool FC (9),3-1,?,Crystal Palace FC (2)
+?,(Tue) 18 Apr 1978 (16),Blackpool FC (10),1-2,?,Fulham FC (2)
+?,(Sat) 11 Mar 1978 (10),Blackpool FC (11),3-0,?,Hull City (2)
+?,(Sat) 31 Dec 1977 (52),Blackpool FC (12),0-0,?,Leyton Orient FC (2)
+?,(Sat) 22 Oct 1977 (42),Blackpool FC (13),2-1,?,Luton Town (2)
+?,(Sat) 22 Apr 1978 (16),Blackpool FC (14),1-2,?,Mansfield Town (2)
+?,(Sat) 19 Nov 1977 (46),Blackpool FC (15),2-2,?,Millwall FC (2)
+?,(Tue) 7 Mar 1978 (10),Blackpool FC (16),2-2,?,Notts County FC (2)
+?,(Sat) 20 Aug 1977 (33),Blackpool FC (17),1-1,?,Oldham Athletic (2)
+?,(Sat) 5 Nov 1977 (44),Blackpool FC (18),1-1,?,Sheffield United FC (2)
+?,(Sat) 17 Dec 1977 (50),Blackpool FC (19),0-1,?,Southampton FC (2)
+?,(Sat) 8 Apr 1978 (14),Blackpool FC (20),1-1,?,Stoke City (2)
+?,(Mon) 27 Mar 1978 (13),Blackpool FC (21),1-1,?,Sunderland AFC (2)
+?,(Sat) 17 Sep 1977 (37),Blackpool FC (22),0-2,?,Tottenham Hotspur (2)
+?,(Mon) 3 Oct 1977 (40),Bolton Wanderers (3),4-2,?,Blackburn Rovers (23)
+?,(Sat) 25 Mar 1978 (12),Bolton Wanderers (4),2-1,?,Blackpool FC (23)
+?,(Sat) 4 Mar 1978 (9),Bolton Wanderers (5),1-1,?,Brighton & Hove Albion (3)
+?,(Sat) 15 Apr 1978 (15),Bolton Wanderers (6),3-0,?,Bristol Rovers (3)
+?,(Mon) 2 Jan 1978 (1),Bolton Wanderers (7),1-2,?,Burnley FC (3)
+?,(Sat) 10 Dec 1977 (49),Bolton Wanderers (8),6-3,?,Cardiff City (3)
+?,(Sat) 12 Nov 1977 (45),Bolton Wanderers (9),2-1,?,Charlton Athletic (3)
+?,(Tue) 18 Apr 1978 (16),Bolton Wanderers (10),2-0,?,Crystal Palace FC (3)
+?,(Sat) 29 Apr 1978 (17),Bolton Wanderers (11),0-0,?,Fulham FC (3)
+?,(Sat) 21 Jan 1978 (3),Bolton Wanderers (12),1-0,?,Hull City (3)
+?,(Sat) 1 Apr 1978 (13),Bolton Wanderers (13),2-0,?,Leyton Orient FC (3)
+?,(Sat) 29 Oct 1977 (43),Bolton Wanderers (14),2-1,?,Luton Town (3)
+?,(Sat) 15 Oct 1977 (41),Bolton Wanderers (15),2-0,?,Mansfield Town (3)
+?,(Tue) 23 Aug 1977 (34),Bolton Wanderers (16),2-1,?,Millwall FC (3)
+?,(Mon) 26 Dec 1977 (52),Bolton Wanderers (17),2-0,?,Notts County FC (3)
+?,(Sat) 10 Sep 1977 (36),Bolton Wanderers (18),1-0,?,Oldham Athletic (3)
+?,(Sat) 27 Aug 1977 (34),Bolton Wanderers (19),2-1,?,Sheffield United FC (3)
+?,(Sat) 18 Mar 1978 (11),Bolton Wanderers (20),0-0,?,Southampton FC (3)
+?,(Sat) 1 Oct 1977 (39),Bolton Wanderers (21),1-1,?,Stoke City (3)
+?,(Tue) 7 Mar 1978 (10),Bolton Wanderers (22),2-0,?,Sunderland AFC (3)
+?,(Sat) 26 Nov 1977 (47),Bolton Wanderers (23),1-0,?,Tottenham Hotspur (3)
+?,(Sat) 26 Nov 1977 (47),Brighton & Hove Albion (4),2-2,?,Blackburn Rovers (24)
+?,(Sat) 29 Apr 1978 (17),Brighton & Hove Albion (5),2-1,?,Blackpool FC (24)
+?,(Sat) 8 Oct 1977 (40),Brighton & Hove Albion (6),1-2,?,Bolton Wanderers (24)
+?,(Mon) 26 Dec 1977 (52),Brighton & Hove Albion (7),1-1,?,Bristol Rovers (4)
+?,(Sat) 11 Feb 1978 (6),Brighton & Hove Albion (8),2-1,?,Burnley FC (4)
+?,(Sat) 29 Oct 1977 (43),Brighton & Hove Albion (9),4-0,?,Cardiff City (4)
+?,(Tue) 25 Apr 1978 (17),Brighton & Hove Albion (10),1-0,?,Charlton Athletic (4)
+?,(Sat) 22 Oct 1977 (42),Brighton & Hove Albion (11),1-1,?,Crystal Palace FC (4)
+?,(Sat) 25 Mar 1978 (12),Brighton & Hove Albion (12),2-0,?,Fulham FC (4)
+?,(Sat) 10 Sep 1977 (36),Brighton & Hove Albion (13),2-1,?,Hull City (4)
+?,(Sat) 12 Nov 1977 (45),Brighton & Hove Albion (14),1-0,?,Leyton Orient FC (4)
+?,(Tue) 27 Sep 1977 (39),Brighton & Hove Albion (15),3-2,?,Luton Town (4)
+?,(Sat) 21 Jan 1978 (3),Brighton & Hove Albion (16),5-1,?,Mansfield Town (4)
+?,(Sat) 27 Aug 1977 (34),Brighton & Hove Albion (17),3-2,?,Millwall FC (4)
+?,(Sat) 1 Apr 1978 (13),Brighton & Hove Albion (18),2-1,?,Notts County FC (4)
+?,(Sat) 10 Dec 1977 (49),Brighton & Hove Albion (19),1-1,?,Oldham Athletic (4)
+?,(Sat) 24 Sep 1977 (38),Brighton & Hove Albion (20),2-1,?,Sheffield United FC (4)
+?,(Mon) 2 Jan 1978 (1),Brighton & Hove Albion (21),1-1,?,Southampton FC (4)
+?,(Sat) 11 Mar 1978 (10),Brighton & Hove Albion (22),2-1,?,Stoke City (4)
+?,(Sat) 25 Feb 1978 (8),Brighton & Hove Albion (23),2-1,?,Sunderland AFC (4)
+?,(Sat) 15 Apr 1978 (15),Brighton & Hove Albion (24),3-1,?,Tottenham Hotspur (4)
+?,(Sat) 15 Oct 1977 (41),Bristol Rovers (5),4-1,?,Blackburn Rovers (25)
+?,(Sat) 21 Jan 1978 (3),Bristol Rovers (6),2-0,?,Blackpool FC (25)
+?,(Sat) 19 Nov 1977 (46),Bristol Rovers (7),0-1,?,Bolton Wanderers (25)
+?,(Tue) 18 Apr 1978 (16),Bristol Rovers (8),0-4,?,Brighton & Hove Albion (25)
+?,(Sat) 4 Mar 1978 (9),Bristol Rovers (9),2-2,?,Burnley FC (5)
+?,(Mon) 2 Jan 1978 (1),Bristol Rovers (10),3-2,?,Cardiff City (5)
+?,(Sat) 25 Feb 1978 (8),Bristol Rovers (11),2-2,?,Charlton Athletic (5)
+?,(Tue) 27 Dec 1977 (52),Bristol Rovers (12),3-0,?,Crystal Palace FC (5)
+?,(Sat) 27 Aug 1977 (34),Bristol Rovers (13),0-0,?,Fulham FC (5)
+?,(Sat) 3 Dec 1977 (48),Bristol Rovers (14),1-1,?,Hull City (5)
+?,(Sat) 11 Feb 1978 (6),Bristol Rovers (15),2-1,?,Leyton Orient FC (5)
+?,(Sat) 10 Sep 1977 (36),Bristol Rovers (16),1-2,?,Luton Town (5)
+?,(Tue) 4 Oct 1977 (40),Bristol Rovers (17),3-1,?,Mansfield Town (5)
+?,(Sat) 5 Nov 1977 (44),Bristol Rovers (18),2-0,?,Millwall FC (5)
+?,(Tue) 23 Aug 1977 (34),Bristol Rovers (19),2-2,?,Notts County FC (5)
+?,(Sat) 24 Sep 1977 (38),Bristol Rovers (20),0-0,?,Oldham Athletic (5)
+?,(Sat) 8 Apr 1978 (14),Bristol Rovers (21),4-1,?,Sheffield United FC (5)
+?,(Sat) 29 Oct 1977 (43),Bristol Rovers (22),0-0,?,Southampton FC (5)
+?,(Sat) 22 Apr 1978 (16),Bristol Rovers (23),4-1,?,Stoke City (5)
+?,(Sat) 17 Dec 1977 (50),Bristol Rovers (24),3-2,?,Sunderland AFC (5)
+?,(Sat) 18 Mar 1978 (11),Bristol Rovers (25),2-3,?,Tottenham Hotspur (5)
+?,(Mon) 26 Dec 1977 (52),Burnley FC (6),2-3,?,Blackburn Rovers (26)
+?,(Sat) 29 Oct 1977 (43),Burnley FC (7),0-1,?,Blackpool FC (26)
+?,(Sat) 20 Aug 1977 (33),Burnley FC (8),0-1,?,Bolton Wanderers (26)
+?,(Sat) 17 Sep 1977 (37),Burnley FC (9),0-0,?,Brighton & Hove Albion (26)
+?,(Sat) 8 Oct 1977 (40),Burnley FC (10),3-1,?,Bristol Rovers (26)
+?,(Sat) 15 Apr 1978 (15),Burnley FC (11),4-2,?,Cardiff City (6)
+?,(Sat) 10 Dec 1977 (49),Burnley FC (12),1-0,?,Charlton Athletic (6)
+?,(Sat) 3 Sep 1977 (35),Burnley FC (13),1-1,?,Crystal Palace FC (6)
+?,(Tue) 25 Apr 1978 (17),Burnley FC (14),2-0,?,Fulham FC (6)
+?,(Sat) 22 Oct 1977 (42),Burnley FC (15),1-1,?,Hull City (6)
+?,(Sat) 26 Nov 1977 (47),Burnley FC (16),0-0,?,Leyton Orient FC (6)
+?,(Sat) 29 Apr 1978 (17),Burnley FC (17),2-1,?,Luton Town (6)
+?,(Tue) 14 Mar 1978 (11),Burnley FC (18),2-0,?,Mansfield Town (6)
+?,(Sat) 1 Oct 1977 (39),Burnley FC (19),0-2,?,Millwall FC (6)
+?,(Sat) 12 Nov 1977 (45),Burnley FC (20),3-1,?,Notts County FC (6)
+?,(Sat) 25 Mar 1978 (12),Burnley FC (21),4-1,?,Oldham Athletic (6)
+?,(Sat) 11 Mar 1978 (10),Burnley FC (22),4-1,?,Sheffield United FC (6)
+?,(Sat) 4 Feb 1978 (5),Burnley FC (23),3-3,?,Southampton FC (6)
+?,(Sat) 14 Jan 1978 (2),Burnley FC (24),1-0,?,Stoke City (6)
+?,(Sat) 31 Dec 1977 (52),Burnley FC (25),0-0,?,Sunderland AFC (6)
+?,(Sat) 1 Apr 1978 (13),Burnley FC (26),2-1,?,Tottenham Hotspur (6)
+?,(Sat) 14 Jan 1978 (2),Cardiff City (7),1-1,?,Blackburn Rovers (27)
+?,(Sat) 25 Feb 1978 (8),Cardiff City (8),2-1,?,Blackpool FC (27)
+?,(Sat) 22 Apr 1978 (16),Cardiff City (9),1-0,?,Bolton Wanderers (27)
+?,(Fri) 24 Mar 1978 (12),Cardiff City (10),1-0,?,Brighton & Hove Albion (27)
+?,(Sat) 20 Aug 1977 (33),Cardiff City (11),1-1,?,Bristol Rovers (27)
+?,(Sat) 19 Nov 1977 (46),Cardiff City (12),2-1,?,Burnley FC (27)
+?,(Sat) 31 Dec 1977 (52),Cardiff City (13),1-0,?,Charlton Athletic (7)
+?,(Sat) 8 Apr 1978 (14),Cardiff City (14),2-2,?,Crystal Palace FC (7)
+?,(Sat) 24 Sep 1977 (38),Cardiff City (15),3-1,?,Fulham FC (7)
+?,(Sat) 17 Dec 1977 (50),Cardiff City (16),0-0,?,Hull City (7)
+?,(Tue) 9 May 1978 (19),Cardiff City (17),0-1,?,Leyton Orient FC (7)
+?,(Sat) 8 Oct 1977 (40),Cardiff City (18),1-4,?,Luton Town (7)
+?,(Sat) 17 Sep 1977 (37),Cardiff City (19),1-1,?,Mansfield Town (7)
+?,(Wed) 28 Dec 1977 (52),Cardiff City (20),4-1,?,Millwall FC (7)
+?,(Wed) 3 May 1978 (18),Cardiff City (21),2-1,?,Notts County FC (7)
+?,(Sat) 22 Oct 1977 (42),Cardiff City (22),1-0,?,Oldham Athletic (7)
+?,(Sat) 3 Dec 1977 (48),Cardiff City (23),1-6,?,Sheffield United FC (7)
+?,(Wed) 29 Mar 1978 (13),Cardiff City (24),1-0,?,Southampton FC (7)
+?,(Sat) 5 Nov 1977 (44),Cardiff City (25),2-0,?,Stoke City (7)
+?,(Sat) 28 Jan 1978 (4),Cardiff City (26),5-2,?,Sunderland AFC (7)
+?,(Sat) 3 Sep 1977 (35),Cardiff City (27),0-0,?,Tottenham Hotspur (7)
+?,(Sat) 4 Mar 1978 (9),Charlton Athletic (8),2-2,?,Blackburn Rovers (28)
+?,(Sat) 27 Aug 1977 (34),Charlton Athletic (9),3-1,?,Blackpool FC (28)
+?,(Sat) 17 Dec 1977 (50),Charlton Athletic (10),2-1,?,Bolton Wanderers (28)
+?,(Tue) 4 Oct 1977 (40),Charlton Athletic (11),4-3,?,Brighton & Hove Albion (28)
+?,(Fri) 30 Sep 1977 (39),Charlton Athletic (12),3-1,?,Bristol Rovers (28)
+?,(Sat) 22 Apr 1978 (16),Charlton Athletic (13),3-2,?,Burnley FC (28)
+?,(Tue) 4 Apr 1978 (14),Charlton Athletic (14),0-0,?,Cardiff City (28)
+?,(Fri) 24 Mar 1978 (12),Charlton Athletic (15),1-0,?,Crystal Palace FC (8)
+?,(Mon) 2 Jan 1978 (1),Charlton Athletic (16),0-1,?,Fulham FC (8)
+?,(Sat) 8 Apr 1978 (14),Charlton Athletic (17),0-1,?,Hull City (8)
+?,(Sat) 10 Sep 1977 (36),Charlton Athletic (18),2-1,?,Leyton Orient FC (8)
+?,(Sat) 21 Jan 1978 (3),Charlton Athletic (19),0-0,?,Luton Town (8)
+?,(Sat) 5 Nov 1977 (44),Charlton Athletic (20),2-2,?,Mansfield Town (8)
+?,(Tue) 28 Feb 1978 (9),Charlton Athletic (21),0-2,?,Millwall FC (8)
+?,(Fri) 17 Mar 1978 (11),Charlton Athletic (22),0-0,?,Notts County FC (8)
+?,(Fri) 10 Feb 1978 (6),Charlton Athletic (23),2-2,?,Oldham Athletic (8)
+?,(Sat) 19 Nov 1977 (46),Charlton Athletic (24),3-0,?,Sheffield United FC (8)
+?,(Tue) 27 Dec 1977 (52),Charlton Athletic (25),1-3,?,Southampton FC (8)
+?,(Tue) 28 Mar 1978 (13),Charlton Athletic (26),3-2,?,Stoke City (8)
+?,(Sat) 3 Dec 1977 (48),Charlton Athletic (27),3-2,?,Sunderland AFC (8)
+?,(Sat) 15 Oct 1977 (41),Charlton Athletic (28),4-1,?,Tottenham Hotspur (8)
+?,(Sat) 29 Apr 1978 (17),Crystal Palace FC (9),5-0,?,Blackburn Rovers (29)
+?,(Tue) 25 Apr 1978 (17),Crystal Palace FC (10),2-2,?,Blackpool FC (29)
+?,(Sat) 24 Sep 1977 (38),Crystal Palace FC (11),2-1,?,Bolton Wanderers (29)
+?,(Sat) 18 Mar 1978 (11),Crystal Palace FC (12),0-0,?,Brighton & Hove Albion (29)
+?,(Sat) 25 Mar 1978 (12),Crystal Palace FC (13),1-0,?,Bristol Rovers (29)
+?,(Sat) 21 Jan 1978 (3),Crystal Palace FC (14),1-1,?,Burnley FC (29)
+?,(Sat) 26 Nov 1977 (47),Crystal Palace FC (15),2-0,?,Cardiff City (29)
+?,(Sat) 29 Oct 1977 (43),Crystal Palace FC (16),1-1,?,Charlton Athletic (29)
+?,(Sat) 1 Oct 1977 (39),Crystal Palace FC (17),2-3,?,Fulham FC (9)
+?,(Sat) 27 Aug 1977 (34),Crystal Palace FC (18),0-1,?,Hull City (9)
+?,(Sat) 15 Apr 1978 (15),Crystal Palace FC (19),1-0,?,Leyton Orient FC (9)
+?,(Mon) 26 Dec 1977 (52),Crystal Palace FC (20),3-3,?,Luton Town (9)
+?,(Tue) 23 Aug 1977 (34),Crystal Palace FC (21),3-1,?,Mansfield Town (9)
+?,(Mon) 2 Jan 1978 (1),Crystal Palace FC (22),1-0,?,Millwall FC (9)
+?,(Sat) 10 Dec 1977 (49),Crystal Palace FC (23),2-0,?,Notts County FC (9)
+?,(Sat) 1 Apr 1978 (13),Crystal Palace FC (24),0-0,?,Oldham Athletic (9)
+?,(Sat) 11 Feb 1978 (6),Crystal Palace FC (25),1-0,?,Sheffield United FC (9)
+?,(Sat) 15 Oct 1977 (41),Crystal Palace FC (26),1-2,?,Southampton FC (9)
+?,(Sat) 4 Mar 1978 (9),Crystal Palace FC (27),0-1,?,Stoke City (9)
+?,(Sat) 10 Sep 1977 (36),Crystal Palace FC (28),2-2,?,Sunderland AFC (9)
+?,(Sat) 12 Nov 1977 (45),Crystal Palace FC (29),1-2,?,Tottenham Hotspur (9)
+?,(Sat) 3 Sep 1977 (35),Fulham FC (10),0-0,?,Blackburn Rovers (30)
+?,(Sat) 8 Oct 1977 (40),Fulham FC (11),1-1,?,Blackpool FC (30)
+?,(Sat) 3 Dec 1977 (48),Fulham FC (12),2-0,?,Bolton Wanderers (30)
+?,(Wed) 28 Dec 1977 (52),Fulham FC (13),2-1,?,Brighton & Hove Albion (30)
+?,(Sat) 14 Jan 1978 (2),Fulham FC (14),1-1,?,Bristol Rovers (30)
+?,(Tue) 4 Oct 1977 (40),Fulham FC (15),4-1,?,Burnley FC (30)
+?,(Tue) 7 Mar 1978 (10),Fulham FC (16),1-0,?,Cardiff City (30)
+?,(Sat) 20 Aug 1977 (33),Fulham FC (17),1-1,?,Charlton Athletic (30)
+?,(Sat) 25 Feb 1978 (8),Fulham FC (18),1-1,?,Crystal Palace FC (30)
+?,(Sat) 19 Nov 1977 (46),Fulham FC (19),2-0,?,Hull City (10)
+?,(Sat) 22 Oct 1977 (42),Fulham FC (20),1-2,?,Leyton Orient FC (10)
+?,(Fri) 10 Mar 1978 (10),Fulham FC (21),1-0,?,Luton Town (10)
+?,(Mon) 27 Mar 1978 (13),Fulham FC (22),0-2,?,Mansfield Town (10)
+?,(Sat) 22 Apr 1978 (16),Fulham FC (23),0-1,?,Millwall FC (10)
+?,(Sat) 17 Sep 1977 (37),Fulham FC (24),5-1,?,Notts County FC (10)
+?,(Fri) 30 Dec 1977 (52),Fulham FC (25),0-2,?,Oldham Athletic (10)
+?,(Fri) 24 Mar 1978 (12),Fulham FC (26),2-0,?,Sheffield United FC (10)
+?,(Fri) 7 Apr 1978 (14),Fulham FC (27),1-1,?,Southampton FC (10)
+?,(Sat) 17 Dec 1977 (50),Fulham FC (28),3-0,?,Stoke City (10)
+?,(Sat) 5 Nov 1977 (44),Fulham FC (29),3-3,?,Sunderland AFC (10)
+?,(Sat) 4 Feb 1978 (5),Fulham FC (30),1-1,?,Tottenham Hotspur (10)
+?,(Sat) 29 Oct 1977 (43),Hull City (11),0-1,?,Blackburn Rovers (31)
+?,(Sat) 15 Oct 1977 (41),Hull City (12),2-0,?,Blackpool FC (31)
+?,(Sat) 3 Sep 1977 (35),Hull City (13),0-0,?,Bolton Wanderers (31)
+?,(Sat) 4 Feb 1978 (5),Hull City (14),1-1,?,Brighton & Hove Albion (31)
+?,(Sat) 29 Apr 1978 (17),Hull City (15),0-1,?,Bristol Rovers (31)
+?,(Sat) 18 Mar 1978 (11),Hull City (16),1-3,?,Burnley FC (31)
+?,(Sat) 12 Nov 1977 (45),Hull City (17),4-1,?,Cardiff City (31)
+?,(Sat) 26 Nov 1977 (47),Hull City (18),0-2,?,Charlton Athletic (31)
+?,(Sat) 14 Jan 1978 (2),Hull City (19),1-0,?,Crystal Palace FC (31)
+?,(Sat) 15 Apr 1978 (15),Hull City (20),0-1,?,Fulham FC (31)
+?,(Sat) 10 Dec 1977 (49),Hull City (21),2-2,?,Leyton Orient FC (11)
+?,(Sat) 1 Apr 1978 (13),Hull City (22),1-1,?,Luton Town (11)
+?,(Sat) 1 Oct 1977 (39),Hull City (23),0-2,?,Mansfield Town (11)
+?,(Sat) 4 Mar 1978 (9),Hull City (24),3-2,?,Millwall FC (11)
+?,(Sat) 25 Mar 1978 (12),Hull City (25),1-1,?,Notts County FC (11)
+?,(Mon) 26 Dec 1977 (52),Hull City (26),0-1,?,Oldham Athletic (11)
+?,(Sat) 31 Dec 1977 (52),Hull City (27),2-3,?,Sheffield United FC (11)
+?,(Tue) 11 Apr 1978 (15),Hull City (28),0-3,?,Southampton FC (11)
+?,(Sat) 17 Sep 1977 (37),Hull City (29),0-0,?,Stoke City (11)
+?,(Sat) 20 Aug 1977 (33),Hull City (30),3-0,?,Sunderland AFC (11)
+?,(Tue) 4 Oct 1977 (40),Hull City (31),2-0,?,Tottenham Hotspur (11)
+?,(Tue) 4 Apr 1978 (14),Leyton Orient FC (12),0-0,?,Blackburn Rovers (32)
+?,(Tue) 23 Aug 1977 (34),Leyton Orient FC (13),1-4,?,Blackpool FC (32)
+?,(Sat) 5 Nov 1977 (44),Leyton Orient FC (14),1-1,?,Bolton Wanderers (32)
+?,(Sat) 17 Dec 1977 (50),Leyton Orient FC (15),0-1,?,Brighton & Hove Albion (32)
+?,(Sat) 17 Sep 1977 (37),Leyton Orient FC (16),2-1,?,Bristol Rovers (32)
+?,(Tue) 18 Apr 1978 (16),Leyton Orient FC (17),3-0,?,Burnley FC (32)
+?,(Sat) 15 Oct 1977 (41),Leyton Orient FC (18),2-1,?,Cardiff City (32)
+?,(Wed) 3 May 1978 (18),Leyton Orient FC (19),0-0,?,Charlton Athletic (32)
+?,(Sat) 19 Nov 1977 (46),Leyton Orient FC (20),0-0,?,Crystal Palace FC (32)
+?,(Fri) 17 Mar 1978 (11),Leyton Orient FC (21),1-1,?,Fulham FC (32)
+?,(Sat) 22 Apr 1978 (16),Leyton Orient FC (22),2-1,?,Hull City (32)
+?,(Mon) 2 Jan 1978 (1),Leyton Orient FC (23),0-0,?,Luton Town (12)
+?,(Sat) 3 Dec 1977 (48),Leyton Orient FC (24),4-2,?,Mansfield Town (12)
+?,(Sat) 29 Oct 1977 (43),Leyton Orient FC (25),0-0,?,Millwall FC (12)
+?,(Sat) 4 Mar 1978 (9),Leyton Orient FC (26),0-0,?,Notts County FC (12)
+?,(Sat) 3 Sep 1977 (35),Leyton Orient FC (27),5-3,?,Oldham Athletic (12)
+?,(Mon) 27 Mar 1978 (13),Leyton Orient FC (28),3-1,?,Sheffield United FC (12)
+?,(Tue) 25 Apr 1978 (17),Leyton Orient FC (29),1-1,?,Southampton FC (12)
+?,(Tue) 27 Dec 1977 (52),Leyton Orient FC (30),2-0,?,Stoke City (12)
+?,(Sat) 14 Jan 1978 (2),Leyton Orient FC (31),2-2,?,Sunderland AFC (12)
+?,(Sat) 1 Oct 1977 (39),Leyton Orient FC (32),1-1,?,Tottenham Hotspur (12)
+?,(Sat) 17 Sep 1977 (37),Luton Town (13),0-0,?,Blackburn Rovers (33)
+?,(Sat) 18 Mar 1978 (11),Luton Town (14),4-0,?,Blackpool FC (33)
+?,(Tue) 21 Mar 1978 (12),Luton Town (15),2-1,?,Bolton Wanderers (33)
+?,(Sat) 31 Dec 1977 (52),Luton Town (16),1-0,?,Brighton & Hove Albion (33)
+?,(Wed) 8 Feb 1978 (6),Luton Town (17),1-1,?,Bristol Rovers (33)
+?,(Sat) 3 Dec 1977 (48),Luton Town (18),1-2,?,Burnley FC (33)
+?,(Sat) 4 Mar 1978 (9),Luton Town (19),3-1,?,Cardiff City (33)
+?,(Sat) 3 Sep 1977 (35),Luton Town (20),7-1,?,Charlton Athletic (33)
+?,(Mon) 27 Mar 1978 (13),Luton Town (21),1-0,?,Crystal Palace FC (33)
+?,(Sat) 15 Oct 1977 (41),Luton Town (22),1-0,?,Fulham FC (33)
+?,(Sat) 5 Nov 1977 (44),Luton Town (23),1-1,?,Hull City (33)
+?,(Sat) 20 Aug 1977 (33),Luton Town (24),1-0,?,Leyton Orient FC (33)
+?,(Sat) 17 Dec 1977 (50),Luton Town (25),1-1,?,Mansfield Town (13)
+?,(Tue) 4 Oct 1977 (40),Luton Town (26),1-0,?,Millwall FC (13)
+?,(Sat) 1 Oct 1977 (39),Luton Town (27),2-0,?,Notts County FC (13)
+?,(Sat) 14 Jan 1978 (2),Luton Town (28),0-1,?,Oldham Athletic (13)
+?,(Tue) 27 Dec 1977 (52),Luton Town (29),4-0,?,Sheffield United FC (13)
+?,(Sat) 22 Apr 1978 (16),Luton Town (30),1-2,?,Southampton FC (13)
+?,(Sat) 19 Nov 1977 (46),Luton Town (31),1-2,?,Stoke City (13)
+?,(Sat) 8 Apr 1978 (14),Luton Town (32),1-3,?,Sunderland AFC (13)
+?,(Wed) 22 Feb 1978 (8),Luton Town (33),1-4,?,Tottenham Hotspur (13)
+?,(Sat) 15 Apr 1978 (15),Mansfield Town (14),2-2,?,Blackburn Rovers (34)
+?,(Sat) 10 Dec 1977 (49),Mansfield Town (15),1-3,?,Blackpool FC (34)
+?,(Sat) 11 Mar 1978 (10),Mansfield Town (16),0-1,?,Bolton Wanderers (34)
+?,(Sat) 3 Sep 1977 (35),Mansfield Town (17),1-2,?,Brighton & Hove Albion (34)
+?,(Mon) 24 Apr 1978 (17),Mansfield Town (18),3-0,?,Bristol Rovers (34)
+?,(Sat) 24 Sep 1977 (38),Mansfield Town (19),4-1,?,Burnley FC (34)
+?,(Sat) 11 Feb 1978 (6),Mansfield Town (20),2-2,?,Cardiff City (34)
+?,(Sat) 1 Apr 1978 (13),Mansfield Town (21),0-3,?,Charlton Athletic (34)
+?,(Sat) 31 Dec 1977 (52),Mansfield Town (22),1-3,?,Crystal Palace FC (34)
+?,(Mon) 26 Dec 1977 (52),Mansfield Town (23),2-1,?,Fulham FC (34)
+?,(Sat) 25 Feb 1978 (8),Mansfield Town (24),1-0,?,Hull City (34)
+?,(Sat) 29 Apr 1978 (17),Mansfield Town (25),1-1,?,Leyton Orient FC (34)
+?,(Sat) 12 Nov 1977 (45),Mansfield Town (26),3-1,?,Luton Town (34)
+?,(Sat) 10 Sep 1977 (36),Mansfield Town (27),0-0,?,Millwall FC (14)
+?,(Sat) 29 Oct 1977 (43),Mansfield Town (28),1-3,?,Notts County FC (14)
+?,(Sat) 26 Nov 1977 (47),Mansfield Town (29),0-2,?,Oldham Athletic (14)
+?,(Sat) 8 Oct 1977 (40),Mansfield Town (30),1-1,?,Sheffield United FC (14)
+?,(Sat) 14 Jan 1978 (2),Mansfield Town (31),1-2,?,Southampton FC (14)
+?,(Sat) 20 Aug 1977 (33),Mansfield Town (32),2-1,?,Stoke City (14)
+?,(Sat) 22 Oct 1977 (42),Mansfield Town (33),1-2,?,Sunderland AFC (14)
+?,(Sat) 25 Mar 1978 (12),Mansfield Town (34),3-3,?,Tottenham Hotspur (14)
+?,(Sat) 12 Nov 1977 (45),Millwall FC (15),1-1,?,Blackburn Rovers (35)
+?,(Sat) 15 Apr 1978 (15),Millwall FC (16),2-0,?,Blackpool FC (35)
+?,(Sat) 31 Dec 1977 (52),Millwall FC (17),1-0,?,Bolton Wanderers (35)
+?,(Sat) 14 Jan 1978 (2),Millwall FC (18),0-1,?,Brighton & Hove Albion (35)
+?,(Sat) 1 Apr 1978 (13),Millwall FC (19),1-3,?,Bristol Rovers (35)
+?,(Sat) 25 Feb 1978 (8),Millwall FC (20),1-1,?,Burnley FC (35)
+?,(Sat) 25 Mar 1978 (12),Millwall FC (21),1-1,?,Cardiff City (35)
+?,(Sat) 24 Sep 1977 (38),Millwall FC (22),1-1,?,Charlton Athletic (35)
+?,(Sat) 20 Aug 1977 (33),Millwall FC (23),0-3,?,Crystal Palace FC (35)
+?,(Sat) 10 Dec 1977 (49),Millwall FC (24),0-3,?,Fulham FC (35)
+?,(Sat) 8 Oct 1977 (40),Millwall FC (25),1-1,?,Hull City (35)
+?,(Tue) 21 Mar 1978 (12),Millwall FC (26),2-0,?,Leyton Orient FC (35)
+?,(Tue) 25 Apr 1978 (17),Millwall FC (27),1-0,?,Luton Town (35)
+?,(Tue) 2 May 1978 (18),Millwall FC (28),1-0,?,Mansfield Town (35)
+?,(Sat) 26 Nov 1977 (47),Millwall FC (29),0-0,?,Notts County FC (15)
+?,(Sat) 29 Apr 1978 (17),Millwall FC (30),2-0,?,Oldham Athletic (15)
+?,(Sat) 22 Oct 1977 (42),Millwall FC (31),1-1,?,Sheffield United FC (15)
+?,(Sat) 17 Sep 1977 (37),Millwall FC (32),3-0,?,Southampton FC (15)
+?,(Sat) 3 Sep 1977 (35),Millwall FC (33),0-0,?,Stoke City (15)
+?,(Tue) 18 Apr 1978 (16),Millwall FC (34),3-1,?,Sunderland AFC (15)
+?,(Mon) 26 Dec 1977 (52),Millwall FC (35),1-3,?,Tottenham Hotspur (15)
+?,(Sat) 20 Aug 1977 (33),Notts County FC (16),1-1,?,Blackburn Rovers (36)
+?,(Sat) 24 Sep 1977 (38),Notts County FC (17),1-1,?,Blackpool FC (36)
+?,(Mon) 27 Mar 1978 (13),Notts County FC (18),1-1,?,Bolton Wanderers (36)
+?,(Sat) 5 Nov 1977 (44),Notts County FC (19),1-0,?,Brighton & Hove Albion (36)
+?,(Sat) 31 Dec 1977 (52),Notts County FC (20),3-2,?,Bristol Rovers (36)
+?,(Sat) 17 Dec 1977 (50),Notts County FC (21),3-0,?,Burnley FC (36)
+?,(Sat) 10 Sep 1977 (36),Notts County FC (22),1-1,?,Cardiff City (36)
+?,(Sat) 22 Oct 1977 (42),Notts County FC (23),2-0,?,Charlton Athletic (36)
+?,(Sat) 22 Apr 1978 (16),Notts County FC (24),2-0,?,Crystal Palace FC (36)
+?,(Tue) 4 Apr 1978 (14),Notts County FC (25),1-1,?,Fulham FC (36)
+?,(Tue) 27 Dec 1977 (52),Notts County FC (26),2-1,?,Hull City (36)
+?,(Sat) 8 Oct 1977 (40),Notts County FC (27),1-1,?,Leyton Orient FC (36)
+?,(Sat) 25 Feb 1978 (8),Notts County FC (28),2-0,?,Luton Town (36)
+?,(Tue) 21 Mar 1978 (12),Notts County FC (29),1-0,?,Mansfield Town (36)
+?,(Sat) 8 Apr 1978 (14),Notts County FC (30),1-1,?,Millwall FC (36)
+?,(Sat) 11 Mar 1978 (10),Notts County FC (31),3-2,?,Oldham Athletic (16)
+?,(Tue) 25 Apr 1978 (17),Notts County FC (32),1-2,?,Sheffield United FC (16)
+?,(Sat) 3 Sep 1977 (35),Notts County FC (33),2-3,?,Southampton FC (16)
+?,(Sat) 3 Dec 1977 (48),Notts County FC (34),2-0,?,Stoke City (16)
+?,(Sat) 19 Nov 1977 (46),Notts County FC (35),2-2,?,Sunderland AFC (16)
+?,(Sat) 14 Jan 1978 (2),Notts County FC (36),3-3,?,Tottenham Hotspur (16)
+?,(Sat) 1 Oct 1977 (39),Oldham Athletic (17),0-2,?,Blackburn Rovers (37)
+?,(Mon) 2 Jan 1978 (1),Oldham Athletic (18),2-1,?,Blackpool FC (37)
+?,(Sat) 18 Feb 1978 (7),Oldham Athletic (19),2-2,?,Bolton Wanderers (37)
+?,(Sat) 22 Apr 1978 (16),Oldham Athletic (20),1-1,?,Brighton & Hove Albion (37)
+?,(Tue) 4 Apr 1978 (14),Oldham Athletic (21),4-1,?,Bristol Rovers (37)
+?,(Tue) 27 Dec 1977 (52),Oldham Athletic (22),2-0,?,Burnley FC (37)
+?,(Sat) 18 Mar 1978 (11),Oldham Athletic (23),1-1,?,Cardiff City (37)
+?,(Sat) 17 Sep 1977 (37),Oldham Athletic (24),1-1,?,Charlton Athletic (37)
+?,(Sat) 5 Nov 1977 (44),Oldham Athletic (25),1-1,?,Crystal Palace FC (37)
+?,(Tue) 23 Aug 1977 (34),Oldham Athletic (26),2-0,?,Fulham FC (37)
+?,(Mon) 27 Mar 1978 (13),Oldham Athletic (27),2-1,?,Hull City (37)
+?,(Sat) 21 Jan 1978 (3),Oldham Athletic (28),2-1,?,Leyton Orient FC (37)
+?,(Sat) 27 Aug 1977 (34),Oldham Athletic (29),1-0,?,Luton Town (37)
+?,(Sat) 8 Apr 1978 (14),Oldham Athletic (30),0-1,?,Mansfield Town (37)
+?,(Sat) 3 Dec 1977 (48),Oldham Athletic (31),2-2,?,Millwall FC (37)
+?,(Sat) 15 Oct 1977 (41),Oldham Athletic (32),2-1,?,Notts County FC (37)
+?,(Sat) 17 Dec 1977 (50),Oldham Athletic (33),3-0,?,Sheffield United FC (17)
+?,(Sat) 19 Nov 1977 (46),Oldham Athletic (34),1-1,?,Southampton FC (17)
+?,(Tue) 4 Oct 1977 (40),Oldham Athletic (35),1-1,?,Stoke City (17)
+?,(Fri) 24 Mar 1978 (12),Oldham Athletic (36),1-1,?,Sunderland AFC (17)
+?,(Sat) 4 Mar 1978 (9),Oldham Athletic (37),1-1,?,Tottenham Hotspur (17)
+?,(Sat) 10 Dec 1977 (49),Sheffield United FC (18),2-0,?,Blackburn Rovers (38)
+?,(Sat) 1 Apr 1978 (13),Sheffield United FC (19),0-0,?,Blackpool FC (38)
+?,(Sat) 14 Jan 1978 (2),Sheffield United FC (20),1-5,?,Bolton Wanderers (38)
+?,(Tue) 4 Apr 1978 (14),Sheffield United FC (21),2-0,?,Brighton & Hove Albion (38)
+?,(Sat) 26 Nov 1977 (47),Sheffield United FC (22),1-1,?,Bristol Rovers (38)
+?,(Sat) 15 Oct 1977 (41),Sheffield United FC (23),2-1,?,Burnley FC (38)
+?,(Sat) 29 Apr 1978 (17),Sheffield United FC (24),0-1,?,Cardiff City (38)
+?,(Sat) 15 Apr 1978 (15),Sheffield United FC (25),1-0,?,Charlton Athletic (38)
+?,(Sat) 17 Sep 1977 (37),Sheffield United FC (26),0-2,?,Crystal Palace FC (38)
+?,(Sat) 29 Oct 1977 (43),Sheffield United FC (27),2-1,?,Fulham FC (38)
+?,(Tue) 23 Aug 1977 (34),Sheffield United FC (28),2-0,?,Hull City (38)
+?,(Mon) 26 Dec 1977 (52),Sheffield United FC (29),2-0,?,Leyton Orient FC (38)
+?,(Sat) 25 Mar 1978 (12),Sheffield United FC (30),4-1,?,Luton Town (38)
+?,(Sat) 4 Mar 1978 (9),Sheffield United FC (31),2-0,?,Mansfield Town (38)
+?,(Sat) 18 Mar 1978 (11),Sheffield United FC (32),5-2,?,Millwall FC (38)
+?,(Tue) 4 Oct 1977 (40),Sheffield United FC (33),4-1,?,Notts County FC (38)
+?,(Sat) 12 Nov 1977 (45),Sheffield United FC (34),1-0,?,Oldham Athletic (38)
+?,(Sat) 1 Oct 1977 (39),Sheffield United FC (35),3-2,?,Southampton FC (18)
+?,(Tue) 14 Mar 1978 (11),Sheffield United FC (36),1-2,?,Stoke City (18)
+?,(Sat) 3 Sep 1977 (35),Sheffield United FC (37),1-1,?,Sunderland AFC (18)
+?,(Mon) 2 Jan 1978 (1),Sheffield United FC (38),2-2,?,Tottenham Hotspur (18)
+?,(Sat) 1 Apr 1978 (13),Southampton FC (19),5-0,?,Blackburn Rovers (39)
+?,(Sat) 12 Nov 1977 (45),Southampton FC (20),2-0,?,Blackpool FC (39)
+?,(Sat) 22 Oct 1977 (42),Southampton FC (21),2-2,?,Bolton Wanderers (39)
+?,(Sat) 20 Aug 1977 (33),Southampton FC (22),1-1,?,Brighton & Hove Albion (39)
+?,(Mon) 27 Mar 1978 (13),Southampton FC (23),3-1,?,Bristol Rovers (39)
+?,(Sat) 10 Sep 1977 (36),Southampton FC (24),3-0,?,Burnley FC (39)
+?,(Mon) 26 Dec 1977 (52),Southampton FC (25),3-1,?,Cardiff City (39)
+?,(Sat) 25 Mar 1978 (12),Southampton FC (26),4-1,?,Charlton Athletic (39)
+?,(Sat) 11 Mar 1978 (10),Southampton FC (27),2-0,?,Crystal Palace FC (39)
+?,(Sat) 26 Nov 1977 (47),Southampton FC (28),2-0,?,Fulham FC (39)
+?,(Sat) 24 Sep 1977 (38),Southampton FC (29),1-0,?,Hull City (39)
+?,(Tue) 4 Oct 1977 (40),Southampton FC (30),1-0,?,Leyton Orient FC (39)
+?,(Sat) 10 Dec 1977 (49),Southampton FC (31),0-1,?,Luton Town (39)
+?,(Sat) 27 Aug 1977 (34),Southampton FC (32),1-0,?,Mansfield Town (39)
+?,(Sat) 11 Feb 1978 (6),Southampton FC (33),2-3,?,Millwall FC (39)
+?,(Sat) 21 Jan 1978 (3),Southampton FC (34),3-1,?,Notts County FC (39)
+?,(Sat) 15 Apr 1978 (15),Southampton FC (35),2-2,?,Oldham Athletic (39)
+?,(Sat) 25 Feb 1978 (8),Southampton FC (36),2-1,?,Sheffield United FC (39)
+?,(Sat) 31 Dec 1977 (52),Southampton FC (37),1-0,?,Stoke City (19)
+?,(Sat) 8 Oct 1977 (40),Southampton FC (38),4-2,?,Sunderland AFC (19)
+?,(Sat) 29 Apr 1978 (17),Southampton FC (39),0-0,?,Tottenham Hotspur (19)
+?,(Sat) 18 Mar 1978 (11),Stoke City (20),4-2,?,Blackburn Rovers (40)
+?,(Sat) 26 Nov 1977 (47),Stoke City (21),1-2,?,Blackpool FC (40)
+?,(Sat) 25 Feb 1978 (8),Stoke City (22),0-0,?,Bolton Wanderers (40)
+?,(Sat) 15 Oct 1977 (41),Stoke City (23),1-0,?,Brighton & Hove Albion (40)
+?,(Sat) 10 Dec 1977 (49),Stoke City (24),3-2,?,Bristol Rovers (40)
+?,(Sat) 27 Aug 1977 (34),Stoke City (25),2-1,?,Burnley FC (40)
+?,(Sat) 1 Apr 1978 (13),Stoke City (26),2-0,?,Cardiff City (40)
+?,(Mon) 26 Dec 1977 (52),Stoke City (27),4-0,?,Charlton Athletic (40)
+?,(Sat) 8 Oct 1977 (40),Stoke City (28),0-2,?,Crystal Palace FC (40)
+?,(Sat) 12 Nov 1977 (45),Stoke City (29),2-0,?,Fulham FC (40)
+?,(Wed) 8 Mar 1978 (10),Stoke City (30),1-0,?,Hull City (40)
+?,(Sat) 25 Mar 1978 (12),Stoke City (31),5-1,?,Leyton Orient FC (40)
+?,(Sat) 15 Apr 1978 (15),Stoke City (32),0-0,?,Luton Town (40)
+?,(Mon) 2 Jan 1978 (1),Stoke City (33),1-1,?,Mansfield Town (40)
+?,(Wed) 12 Apr 1978 (15),Stoke City (34),2-1,?,Millwall FC (40)
+?,(Sat) 29 Apr 1978 (17),Stoke City (35),1-1,?,Notts County FC (40)
+?,(Wed) 26 Apr 1978 (17),Stoke City (36),3-0,?,Oldham Athletic (40)
+?,(Sat) 10 Sep 1977 (36),Stoke City (37),4-0,?,Sheffield United FC (40)
+?,(Wed) 24 Aug 1977 (34),Stoke City (38),1-0,?,Southampton FC (40)
+?,(Sat) 24 Sep 1977 (38),Stoke City (39),0-0,?,Sunderland AFC (20)
+?,(Sat) 29 Oct 1977 (43),Stoke City (40),1-3,?,Tottenham Hotspur (20)
+?,(Sat) 25 Mar 1978 (12),Sunderland AFC (21),0-1,?,Blackburn Rovers (41)
+?,(Mon) 26 Dec 1977 (52),Sunderland AFC (22),2-1,?,Blackpool FC (41)
+?,(Sat) 17 Sep 1977 (37),Sunderland AFC (23),0-2,?,Bolton Wanderers (41)
+?,(Sat) 1 Oct 1977 (39),Sunderland AFC (24),0-2,?,Brighton & Hove Albion (41)
+?,(Sat) 12 Nov 1977 (45),Sunderland AFC (25),5-1,?,Bristol Rovers (41)
+?,(Tue) 23 Aug 1977 (34),Sunderland AFC (26),3-0,?,Burnley FC (41)
+?,(Tue) 4 Oct 1977 (40),Sunderland AFC (27),1-1,?,Cardiff City (41)
+?,(Sat) 29 Apr 1978 (17),Sunderland AFC (28),3-0,?,Charlton Athletic (41)
+?,(Tue) 14 Mar 1978 (11),Sunderland AFC (29),0-0,?,Crystal Palace FC (41)
+?,(Sat) 1 Apr 1978 (13),Sunderland AFC (30),2-2,?,Fulham FC (41)
+?,(Mon) 2 Jan 1978 (1),Sunderland AFC (31),2-0,?,Hull City (41)
+?,(Sat) 27 Aug 1977 (34),Sunderland AFC (32),1-1,?,Leyton Orient FC (41)
+?,(Sat) 26 Nov 1977 (47),Sunderland AFC (33),1-1,?,Luton Town (41)
+?,(Sat) 18 Mar 1978 (11),Sunderland AFC (34),1-0,?,Mansfield Town (41)
+?,(Sat) 15 Oct 1977 (41),Sunderland AFC (35),2-0,?,Millwall FC (41)
+?,(Sat) 15 Apr 1978 (15),Sunderland AFC (36),3-1,?,Notts County FC (41)
+?,(Sat) 29 Oct 1977 (43),Sunderland AFC (37),3-1,?,Oldham Athletic (41)
+?,(Sat) 21 Jan 1978 (3),Sunderland AFC (38),5-1,?,Sheffield United FC (41)
+?,(Sat) 4 Mar 1978 (9),Sunderland AFC (39),0-0,?,Southampton FC (41)
+?,(Tue) 4 Apr 1978 (14),Sunderland AFC (40),1-0,?,Stoke City (41)
+?,(Sat) 10 Dec 1977 (49),Sunderland AFC (41),1-2,?,Tottenham Hotspur (21)
+?,(Sat) 31 Dec 1977 (52),Tottenham Hotspur (22),4-0,?,Blackburn Rovers (42)
+?,(Sat) 11 Feb 1978 (6),Tottenham Hotspur (23),2-2,?,Blackpool FC (42)
+?,(Sat) 8 Apr 1978 (14),Tottenham Hotspur (24),1-0,?,Bolton Wanderers (42)
+?,(Sat) 19 Nov 1977 (46),Tottenham Hotspur (25),0-0,?,Brighton & Hove Albion (42)
+?,(Sat) 22 Oct 1977 (42),Tottenham Hotspur (26),9-0,?,Bristol Rovers (42)
+?,(Sat) 5 Nov 1977 (44),Tottenham Hotspur (27),3-0,?,Burnley FC (42)
+?,(Sat) 21 Jan 1978 (3),Tottenham Hotspur (28),2-1,?,Cardiff City (42)
+?,(Sat) 11 Mar 1978 (10),Tottenham Hotspur (29),2-1,?,Charlton Athletic (42)
+?,(Sat) 17 Dec 1977 (50),Tottenham Hotspur (30),2-2,?,Crystal Palace FC (42)
+?,(Sat) 10 Sep 1977 (36),Tottenham Hotspur (31),1-0,?,Fulham FC (42)
+?,(Wed) 26 Apr 1978 (17),Tottenham Hotspur (32),1-0,?,Hull City (42)
+?,(Sat) 25 Feb 1978 (8),Tottenham Hotspur (33),1-1,?,Leyton Orient FC (42)
+?,(Sat) 24 Sep 1977 (38),Tottenham Hotspur (34),2-0,?,Luton Town (42)
+?,(Tue) 27 Dec 1977 (52),Tottenham Hotspur (35),1-1,?,Mansfield Town (42)
+?,(Mon) 27 Mar 1978 (13),Tottenham Hotspur (36),3-3,?,Millwall FC (42)
+?,(Sat) 27 Aug 1977 (34),Tottenham Hotspur (37),2-1,?,Notts County FC (42)
+?,(Sat) 8 Oct 1977 (40),Tottenham Hotspur (38),5-1,?,Oldham Athletic (42)
+?,(Sat) 20 Aug 1977 (33),Tottenham Hotspur (39),4-2,?,Sheffield United FC (42)
+?,(Sat) 3 Dec 1977 (48),Tottenham Hotspur (40),0-0,?,Southampton FC (42)
+?,(Wed) 22 Mar 1978 (12),Tottenham Hotspur (41),3-1,?,Stoke City (42)
+?,(Sat) 22 Apr 1978 (16),Tottenham Hotspur (42),2-3,?,Sunderland AFC (42)

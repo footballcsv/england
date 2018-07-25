@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barrow,Accrington Stanley,3-1,-
--,-,Bradford City,Accrington Stanley,1-1,-
--,-,Bradford Park Avenue,Accrington Stanley,1-3,-
--,-,Bury,Accrington Stanley,1-1,-
--,-,Carlisle United,Accrington Stanley,6-1,-
--,-,Chester,Accrington Stanley,5-1,-
--,-,Chesterfield,Accrington Stanley,1-0,-
--,-,Crewe Alexandra,Accrington Stanley,4-1,-
--,-,Darlington,Accrington Stanley,0-2,-
--,-,Gateshead,Accrington Stanley,1-3,-
--,-,Halifax Town,Accrington Stanley,0-2,-
--,-,Hartlepool United,Accrington Stanley,1-1,-
--,-,Hull City,Accrington Stanley,1-0,-
--,-,Mansfield Town,Accrington Stanley,0-2,-
--,-,Oldham Athletic,Accrington Stanley,0-3,-
--,-,Rochdale,Accrington Stanley,3-0,-
--,-,Scunthorpe United,Accrington Stanley,1-0,-
--,-,Southport,Accrington Stanley,3-3,-
--,-,Stockport County,Accrington Stanley,0-0,-
--,-,Tranmere Rovers,Accrington Stanley,0-1,-
--,-,Workington,Accrington Stanley,0-1,-
--,-,Wrexham,Accrington Stanley,1-0,-
--,-,York City,Accrington Stanley,0-3,-
--,-,Accrington Stanley,Barrow,3-2,-
--,-,Bradford City,Barrow,4-1,-
--,-,Bradford Park Avenue,Barrow,1-1,-
--,-,Bury,Barrow,4-1,-
--,-,Carlisle United,Barrow,2-1,-
--,-,Chester,Barrow,2-2,-
--,-,Chesterfield,Barrow,4-3,-
--,-,Crewe Alexandra,Barrow,1-4,-
--,-,Darlington,Barrow,3-0,-
--,-,Gateshead,Barrow,0-2,-
--,-,Halifax Town,Barrow,3-1,-
--,-,Hartlepool United,Barrow,4-1,-
--,-,Hull City,Barrow,1-1,-
--,-,Mansfield Town,Barrow,4-2,-
--,-,Oldham Athletic,Barrow,1-1,-
--,-,Rochdale,Barrow,1-1,-
--,-,Scunthorpe United,Barrow,1-0,-
--,-,Southport,Barrow,0-4,-
--,-,Stockport County,Barrow,2-0,-
--,-,Tranmere Rovers,Barrow,1-1,-
--,-,Workington,Barrow,0-1,-
--,-,Wrexham,Barrow,0-0,-
--,-,York City,Barrow,0-0,-
--,-,Accrington Stanley,Bradford City,2-2,-
--,-,Barrow,Bradford City,1-2,-
--,-,Bradford Park Avenue,Bradford City,0-0,-
--,-,Bury,Bradford City,1-0,-
--,-,Carlisle United,Bradford City,0-3,-
--,-,Chester,Bradford City,0-0,-
--,-,Chesterfield,Bradford City,0-1,-
--,-,Crewe Alexandra,Bradford City,2-2,-
--,-,Darlington,Bradford City,4-0,-
--,-,Gateshead,Bradford City,0-0,-
--,-,Halifax Town,Bradford City,3-2,-
--,-,Hartlepool United,Bradford City,2-0,-
--,-,Hull City,Bradford City,1-3,-
--,-,Mansfield Town,Bradford City,5-2,-
--,-,Oldham Athletic,Bradford City,1-1,-
--,-,Rochdale,Bradford City,0-2,-
--,-,Scunthorpe United,Bradford City,0-2,-
--,-,Southport,Bradford City,0-2,-
--,-,Stockport County,Bradford City,0-4,-
--,-,Tranmere Rovers,Bradford City,4-1,-
--,-,Workington,Bradford City,1-1,-
--,-,Wrexham,Bradford City,1-1,-
--,-,York City,Bradford City,2-0,-
--,-,Accrington Stanley,Bradford Park Avenue,5-2,-
--,-,Barrow,Bradford Park Avenue,0-0,-
--,-,Bradford City,Bradford Park Avenue,2-1,-
--,-,Bury,Bradford Park Avenue,1-0,-
--,-,Carlisle United,Bradford Park Avenue,2-3,-
--,-,Chester,Bradford Park Avenue,1-2,-
--,-,Chesterfield,Bradford Park Avenue,1-1,-
--,-,Crewe Alexandra,Bradford Park Avenue,3-0,-
--,-,Darlington,Bradford Park Avenue,4-0,-
--,-,Gateshead,Bradford Park Avenue,2-4,-
--,-,Halifax Town,Bradford Park Avenue,2-0,-
--,-,Hartlepool United,Bradford Park Avenue,0-0,-
--,-,Hull City,Bradford Park Avenue,3-3,-
--,-,Mansfield Town,Bradford Park Avenue,2-1,-
--,-,Oldham Athletic,Bradford Park Avenue,4-2,-
--,-,Rochdale,Bradford Park Avenue,1-2,-
--,-,Scunthorpe United,Bradford Park Avenue,6-2,-
--,-,Southport,Bradford Park Avenue,2-1,-
--,-,Stockport County,Bradford Park Avenue,3-0,-
--,-,Tranmere Rovers,Bradford Park Avenue,5-0,-
--,-,Workington,Bradford Park Avenue,1-2,-
--,-,Wrexham,Bradford Park Avenue,1-1,-
--,-,York City,Bradford Park Avenue,3-0,-
--,-,Accrington Stanley,Bury,3-0,-
--,-,Barrow,Bury,4-2,-
--,-,Bradford City,Bury,3-3,-
--,-,Bradford Park Avenue,Bury,1-4,-
--,-,Carlisle United,Bury,0-2,-
--,-,Chester,Bury,0-0,-
--,-,Chesterfield,Bury,1-1,-
--,-,Crewe Alexandra,Bury,0-1,-
--,-,Darlington,Bury,3-2,-
--,-,Gateshead,Bury,1-2,-
--,-,Halifax Town,Bury,1-2,-
--,-,Hartlepool United,Bury,2-1,-
--,-,Hull City,Bury,2-1,-
--,-,Mansfield Town,Bury,6-4,-
--,-,Oldham Athletic,Bury,1-3,-
--,-,Rochdale,Bury,1-1,-
--,-,Scunthorpe United,Bury,1-0,-
--,-,Southport,Bury,2-2,-
--,-,Stockport County,Bury,4-0,-
--,-,Tranmere Rovers,Bury,1-1,-
--,-,Workington,Bury,3-0,-
--,-,Wrexham,Bury,2-0,-
--,-,York City,Bury,2-1,-
--,-,Accrington Stanley,Carlisle United,3-2,-
--,-,Barrow,Carlisle United,2-3,-
--,-,Bradford City,Carlisle United,1-1,-
--,-,Bradford Park Avenue,Carlisle United,4-1,-
--,-,Bury,Carlisle United,3-0,-
--,-,Chester,Carlisle United,0-0,-
--,-,Chesterfield,Carlisle United,1-3,-
--,-,Crewe Alexandra,Carlisle United,0-0,-
--,-,Darlington,Carlisle United,1-2,-
--,-,Gateshead,Carlisle United,3-2,-
--,-,Halifax Town,Carlisle United,5-0,-
--,-,Hartlepool United,Carlisle United,0-1,-
--,-,Hull City,Carlisle United,4-0,-
--,-,Mansfield Town,Carlisle United,2-0,-
--,-,Oldham Athletic,Carlisle United,1-0,-
--,-,Rochdale,Carlisle United,1-0,-
--,-,Scunthorpe United,Carlisle United,3-1,-
--,-,Southport,Carlisle United,2-0,-
--,-,Stockport County,Carlisle United,4-1,-
--,-,Tranmere Rovers,Carlisle United,0-1,-
--,-,Workington,Carlisle United,2-1,-
--,-,Wrexham,Carlisle United,1-0,-
--,-,York City,Carlisle United,0-5,-
--,-,Accrington Stanley,Chester,1-2,-
--,-,Barrow,Chester,4-1,-
--,-,Bradford City,Chester,5-0,-
--,-,Bradford Park Avenue,Chester,3-0,-
--,-,Bury,Chester,1-2,-
--,-,Carlisle United,Chester,3-2,-
--,-,Chesterfield,Chester,2-1,-
--,-,Crewe Alexandra,Chester,0-3,-
--,-,Darlington,Chester,2-3,-
--,-,Gateshead,Chester,3-2,-
--,-,Halifax Town,Chester,2-1,-
--,-,Hartlepool United,Chester,2-1,-
--,-,Hull City,Chester,3-0,-
--,-,Mansfield Town,Chester,3-1,-
--,-,Oldham Athletic,Chester,5-1,-
--,-,Rochdale,Chester,1-1,-
--,-,Scunthorpe United,Chester,2-1,-
--,-,Southport,Chester,2-4,-
--,-,Stockport County,Chester,2-2,-
--,-,Tranmere Rovers,Chester,2-2,-
--,-,Workington,Chester,5-3,-
--,-,Wrexham,Chester,1-0,-
--,-,York City,Chester,1-2,-
--,-,Accrington Stanley,Chesterfield,0-4,-
--,-,Barrow,Chesterfield,4-1,-
--,-,Bradford City,Chesterfield,0-0,-
--,-,Bradford Park Avenue,Chesterfield,2-0,-
--,-,Bury,Chesterfield,1-0,-
--,-,Carlisle United,Chesterfield,2-2,-
--,-,Chester,Chesterfield,0-0,-
--,-,Crewe Alexandra,Chesterfield,1-2,-
--,-,Darlington,Chesterfield,2-0,-
--,-,Gateshead,Chesterfield,3-0,-
--,-,Halifax Town,Chesterfield,3-2,-
--,-,Hartlepool United,Chesterfield,0-2,-
--,-,Hull City,Chesterfield,1-0,-
--,-,Mansfield Town,Chesterfield,1-1,-
--,-,Oldham Athletic,Chesterfield,2-1,-
--,-,Rochdale,Chesterfield,3-4,-
--,-,Scunthorpe United,Chesterfield,1-1,-
--,-,Southport,Chesterfield,5-2,-
--,-,Stockport County,Chesterfield,4-1,-
--,-,Tranmere Rovers,Chesterfield,1-2,-
--,-,Workington,Chesterfield,0-2,-
--,-,Wrexham,Chesterfield,2-2,-
--,-,York City,Chesterfield,3-3,-
--,-,Accrington Stanley,Crewe Alexandra,2-0,-
--,-,Barrow,Crewe Alexandra,0-1,-
--,-,Bradford City,Crewe Alexandra,2-1,-
--,-,Bradford Park Avenue,Crewe Alexandra,3-1,-
--,-,Bury,Crewe Alexandra,2-0,-
--,-,Carlisle United,Crewe Alexandra,2-0,-
--,-,Chester,Crewe Alexandra,3-2,-
--,-,Chesterfield,Crewe Alexandra,1-1,-
--,-,Darlington,Crewe Alexandra,3-0,-
--,-,Gateshead,Crewe Alexandra,3-1,-
--,-,Halifax Town,Crewe Alexandra,2-0,-
--,-,Hartlepool United,Crewe Alexandra,1-1,-
--,-,Hull City,Crewe Alexandra,1-0,-
--,-,Mansfield Town,Crewe Alexandra,2-1,-
--,-,Oldham Athletic,Crewe Alexandra,1-0,-
--,-,Rochdale,Crewe Alexandra,3-0,-
--,-,Scunthorpe United,Crewe Alexandra,3-2,-
--,-,Southport,Crewe Alexandra,2-0,-
--,-,Stockport County,Crewe Alexandra,5-1,-
--,-,Tranmere Rovers,Crewe Alexandra,5-2,-
--,-,Workington,Crewe Alexandra,3-2,-
--,-,Wrexham,Crewe Alexandra,0-1,-
--,-,York City,Crewe Alexandra,3-1,-
--,-,Accrington Stanley,Darlington,0-0,-
--,-,Barrow,Darlington,2-1,-
--,-,Bradford City,Darlington,3-1,-
--,-,Bradford Park Avenue,Darlington,4-1,-
--,-,Bury,Darlington,5-0,-
--,-,Carlisle United,Darlington,5-2,-
--,-,Chester,Darlington,0-1,-
--,-,Chesterfield,Darlington,2-0,-
--,-,Crewe Alexandra,Darlington,2-2,-
--,-,Gateshead,Darlington,4-0,-
--,-,Halifax Town,Darlington,1-0,-
--,-,Hartlepool United,Darlington,5-1,-
--,-,Hull City,Darlington,2-1,-
--,-,Mansfield Town,Darlington,4-2,-
--,-,Oldham Athletic,Darlington,2-2,-
--,-,Rochdale,Darlington,5-4,-
--,-,Scunthorpe United,Darlington,5-0,-
--,-,Southport,Darlington,0-3,-
--,-,Stockport County,Darlington,4-1,-
--,-,Tranmere Rovers,Darlington,2-1,-
--,-,Workington,Darlington,2-2,-
--,-,Wrexham,Darlington,2-0,-
--,-,York City,Darlington,3-0,-
--,-,Accrington Stanley,Gateshead,3-0,-
--,-,Barrow,Gateshead,1-2,-
--,-,Bradford City,Gateshead,0-1,-
--,-,Bradford Park Avenue,Gateshead,2-2,-
--,-,Bury,Gateshead,4-1,-
--,-,Carlisle United,Gateshead,5-1,-
--,-,Chester,Gateshead,1-1,-
--,-,Chesterfield,Gateshead,5-3,-
--,-,Crewe Alexandra,Gateshead,2-2,-
--,-,Darlington,Gateshead,2-2,-
--,-,Halifax Town,Gateshead,4-1,-
--,-,Hartlepool United,Gateshead,2-2,-
--,-,Hull City,Gateshead,1-1,-
--,-,Mansfield Town,Gateshead,3-0,-
--,-,Oldham Athletic,Gateshead,0-0,-
--,-,Rochdale,Gateshead,0-0,-
--,-,Scunthorpe United,Gateshead,2-1,-
--,-,Southport,Gateshead,1-0,-
--,-,Stockport County,Gateshead,5-1,-
--,-,Tranmere Rovers,Gateshead,2-1,-
--,-,Workington,Gateshead,1-1,-
--,-,Wrexham,Gateshead,1-2,-
--,-,York City,Gateshead,2-2,-
--,-,Accrington Stanley,Halifax Town,2-1,-
--,-,Barrow,Halifax Town,0-3,-
--,-,Bradford City,Halifax Town,3-0,-
--,-,Bradford Park Avenue,Halifax Town,0-2,-
--,-,Bury,Halifax Town,1-0,-
--,-,Carlisle United,Halifax Town,2-1,-
--,-,Chester,Halifax Town,1-1,-
--,-,Chesterfield,Halifax Town,1-1,-
--,-,Crewe Alexandra,Halifax Town,1-2,-
--,-,Darlington,Halifax Town,5-0,-
--,-,Gateshead,Halifax Town,0-0,-
--,-,Hartlepool United,Halifax Town,5-0,-
--,-,Hull City,Halifax Town,5-2,-
--,-,Mansfield Town,Halifax Town,2-1,-
--,-,Oldham Athletic,Halifax Town,2-4,-
--,-,Rochdale,Halifax Town,5-1,-
--,-,Scunthorpe United,Halifax Town,1-1,-
--,-,Southport,Halifax Town,0-3,-
--,-,Stockport County,Halifax Town,4-2,-
--,-,Tranmere Rovers,Halifax Town,2-0,-
--,-,Workington,Halifax Town,4-4,-
--,-,Wrexham,Halifax Town,2-1,-
--,-,York City,Halifax Town,1-1,-
--,-,Accrington Stanley,Hartlepool United,1-2,-
--,-,Barrow,Hartlepool United,3-3,-
--,-,Bradford City,Hartlepool United,0-1,-
--,-,Bradford Park Avenue,Hartlepool United,2-3,-
--,-,Bury,Hartlepool United,3-3,-
--,-,Carlisle United,Hartlepool United,1-2,-
--,-,Chester,Hartlepool United,2-1,-
--,-,Chesterfield,Hartlepool United,2-1,-
--,-,Crewe Alexandra,Hartlepool United,2-1,-
--,-,Darlington,Hartlepool United,1-3,-
--,-,Gateshead,Hartlepool United,0-0,-
--,-,Halifax Town,Hartlepool United,3-0,-
--,-,Hull City,Hartlepool United,1-1,-
--,-,Mansfield Town,Hartlepool United,5-1,-
--,-,Oldham Athletic,Hartlepool United,4-0,-
--,-,Rochdale,Hartlepool United,7-0,-
--,-,Scunthorpe United,Hartlepool United,2-0,-
--,-,Southport,Hartlepool United,0-0,-
--,-,Stockport County,Hartlepool United,2-1,-
--,-,Tranmere Rovers,Hartlepool United,3-2,-
--,-,Workington,Hartlepool United,1-0,-
--,-,Wrexham,Hartlepool United,3-1,-
--,-,York City,Hartlepool United,2-2,-
--,-,Accrington Stanley,Hull City,3-0,-
--,-,Barrow,Hull City,0-0,-
--,-,Bradford City,Hull City,1-0,-
--,-,Bradford Park Avenue,Hull City,4-4,-
--,-,Bury,Hull City,1-1,-
--,-,Carlisle United,Hull City,0-1,-
--,-,Chester,Hull City,1-1,-
--,-,Chesterfield,Hull City,0-0,-
--,-,Crewe Alexandra,Hull City,1-2,-
--,-,Darlington,Hull City,2-2,-
--,-,Gateshead,Hull City,3-1,-
--,-,Halifax Town,Hull City,2-2,-
--,-,Hartlepool United,Hull City,5-1,-
--,-,Mansfield Town,Hull City,1-3,-
--,-,Oldham Athletic,Hull City,1-1,-
--,-,Rochdale,Hull City,2-1,-
--,-,Scunthorpe United,Hull City,2-0,-
--,-,Southport,Hull City,1-2,-
--,-,Stockport County,Hull City,1-0,-
--,-,Tranmere Rovers,Hull City,4-4,-
--,-,Workington,Hull City,3-2,-
--,-,Wrexham,Hull City,6-0,-
--,-,York City,Hull City,3-1,-
--,-,Accrington Stanley,Mansfield Town,4-1,-
--,-,Barrow,Mansfield Town,2-1,-
--,-,Bradford City,Mansfield Town,1-1,-
--,-,Bradford Park Avenue,Mansfield Town,0-2,-
--,-,Bury,Mansfield Town,0-2,-
--,-,Carlisle United,Mansfield Town,3-4,-
--,-,Chester,Mansfield Town,1-2,-
--,-,Chesterfield,Mansfield Town,1-4,-
--,-,Crewe Alexandra,Mansfield Town,1-0,-
--,-,Darlington,Mansfield Town,2-0,-
--,-,Gateshead,Mansfield Town,2-1,-
--,-,Halifax Town,Mansfield Town,4-0,-
--,-,Hartlepool United,Mansfield Town,2-0,-
--,-,Hull City,Mansfield Town,1-1,-
--,-,Oldham Athletic,Mansfield Town,1-1,-
--,-,Rochdale,Mansfield Town,3-0,-
--,-,Scunthorpe United,Mansfield Town,3-3,-
--,-,Southport,Mansfield Town,4-1,-
--,-,Stockport County,Mansfield Town,3-3,-
--,-,Tranmere Rovers,Mansfield Town,1-2,-
--,-,Workington,Mansfield Town,4-0,-
--,-,Wrexham,Mansfield Town,4-2,-
--,-,York City,Mansfield Town,3-1,-
--,-,Accrington Stanley,Oldham Athletic,1-1,-
--,-,Barrow,Oldham Athletic,2-2,-
--,-,Bradford City,Oldham Athletic,0-0,-
--,-,Bradford Park Avenue,Oldham Athletic,1-3,-
--,-,Bury,Oldham Athletic,4-0,-
--,-,Carlisle United,Oldham Athletic,1-1,-
--,-,Chester,Oldham Athletic,0-0,-
--,-,Chesterfield,Oldham Athletic,2-1,-
--,-,Crewe Alexandra,Oldham Athletic,0-2,-
--,-,Darlington,Oldham Athletic,3-1,-
--,-,Gateshead,Oldham Athletic,1-0,-
--,-,Halifax Town,Oldham Athletic,4-0,-
--,-,Hartlepool United,Oldham Athletic,4-1,-
--,-,Hull City,Oldham Athletic,9-0,-
--,-,Mansfield Town,Oldham Athletic,4-4,-
--,-,Rochdale,Oldham Athletic,1-3,-
--,-,Scunthorpe United,Oldham Athletic,1-1,-
--,-,Southport,Oldham Athletic,2-1,-
--,-,Stockport County,Oldham Athletic,3-0,-
--,-,Tranmere Rovers,Oldham Athletic,1-1,-
--,-,Workington,Oldham Athletic,4-2,-
--,-,Wrexham,Oldham Athletic,2-2,-
--,-,York City,Oldham Athletic,2-2,-
--,-,Accrington Stanley,Rochdale,3-2,-
--,-,Barrow,Rochdale,2-1,-
--,-,Bradford City,Rochdale,1-0,-
--,-,Bradford Park Avenue,Rochdale,2-2,-
--,-,Bury,Rochdale,4-1,-
--,-,Carlisle United,Rochdale,1-0,-
--,-,Chester,Rochdale,2-0,-
--,-,Chesterfield,Rochdale,2-2,-
--,-,Crewe Alexandra,Rochdale,0-0,-
--,-,Darlington,Rochdale,4-2,-
--,-,Gateshead,Rochdale,3-2,-
--,-,Halifax Town,Rochdale,4-1,-
--,-,Hartlepool United,Rochdale,1-3,-
--,-,Hull City,Rochdale,2-1,-
--,-,Mansfield Town,Rochdale,2-4,-
--,-,Oldham Athletic,Rochdale,0-0,-
--,-,Scunthorpe United,Rochdale,2-0,-
--,-,Southport,Rochdale,0-2,-
--,-,Stockport County,Rochdale,0-3,-
--,-,Tranmere Rovers,Rochdale,3-1,-
--,-,Workington,Rochdale,1-2,-
--,-,Wrexham,Rochdale,2-0,-
--,-,York City,Rochdale,1-0,-
--,-,Accrington Stanley,Scunthorpe United,2-1,-
--,-,Barrow,Scunthorpe United,0-1,-
--,-,Bradford City,Scunthorpe United,2-3,-
--,-,Bradford Park Avenue,Scunthorpe United,1-2,-
--,-,Bury,Scunthorpe United,2-1,-
--,-,Carlisle United,Scunthorpe United,3-4,-
--,-,Chester,Scunthorpe United,1-2,-
--,-,Chesterfield,Scunthorpe United,1-1,-
--,-,Crewe Alexandra,Scunthorpe United,0-2,-
--,-,Darlington,Scunthorpe United,1-1,-
--,-,Gateshead,Scunthorpe United,1-2,-
--,-,Halifax Town,Scunthorpe United,0-1,-
--,-,Hartlepool United,Scunthorpe United,1-2,-
--,-,Hull City,Scunthorpe United,2-0,-
--,-,Mansfield Town,Scunthorpe United,3-5,-
--,-,Oldham Athletic,Scunthorpe United,2-1,-
--,-,Rochdale,Scunthorpe United,1-4,-
--,-,Southport,Scunthorpe United,1-2,-
--,-,Stockport County,Scunthorpe United,2-1,-
--,-,Tranmere Rovers,Scunthorpe United,1-4,-
--,-,Workington,Scunthorpe United,3-2,-
--,-,Wrexham,Scunthorpe United,1-0,-
--,-,York City,Scunthorpe United,0-0,-
--,-,Accrington Stanley,Southport,2-2,-
--,-,Barrow,Southport,1-0,-
--,-,Bradford City,Southport,2-0,-
--,-,Bradford Park Avenue,Southport,3-5,-
--,-,Bury,Southport,4-1,-
--,-,Carlisle United,Southport,4-0,-
--,-,Chester,Southport,1-1,-
--,-,Chesterfield,Southport,0-0,-
--,-,Crewe Alexandra,Southport,3-2,-
--,-,Darlington,Southport,1-2,-
--,-,Gateshead,Southport,2-1,-
--,-,Halifax Town,Southport,4-1,-
--,-,Hartlepool United,Southport,2-1,-
--,-,Hull City,Southport,3-2,-
--,-,Mansfield Town,Southport,3-0,-
--,-,Oldham Athletic,Southport,3-2,-
--,-,Rochdale,Southport,2-0,-
--,-,Scunthorpe United,Southport,1-0,-
--,-,Stockport County,Southport,1-2,-
--,-,Tranmere Rovers,Southport,2-1,-
--,-,Workington,Southport,2-0,-
--,-,Wrexham,Southport,1-0,-
--,-,York City,Southport,1-0,-
--,-,Accrington Stanley,Stockport County,3-2,-
--,-,Barrow,Stockport County,1-1,-
--,-,Bradford City,Stockport County,2-1,-
--,-,Bradford Park Avenue,Stockport County,1-0,-
--,-,Bury,Stockport County,1-1,-
--,-,Carlisle United,Stockport County,3-1,-
--,-,Chester,Stockport County,3-0,-
--,-,Chesterfield,Stockport County,2-1,-
--,-,Crewe Alexandra,Stockport County,1-2,-
--,-,Darlington,Stockport County,1-0,-
--,-,Gateshead,Stockport County,3-0,-
--,-,Halifax Town,Stockport County,0-0,-
--,-,Hartlepool United,Stockport County,1-2,-
--,-,Hull City,Stockport County,1-0,-
--,-,Mansfield Town,Stockport County,2-2,-
--,-,Oldham Athletic,Stockport County,2-4,-
--,-,Rochdale,Stockport County,3-0,-
--,-,Scunthorpe United,Stockport County,4-0,-
--,-,Southport,Stockport County,1-0,-
--,-,Tranmere Rovers,Stockport County,2-2,-
--,-,Workington,Stockport County,1-1,-
--,-,Wrexham,Stockport County,1-0,-
--,-,York City,Stockport County,0-0,-
--,-,Accrington Stanley,Tranmere Rovers,2-1,-
--,-,Barrow,Tranmere Rovers,1-4,-
--,-,Bradford City,Tranmere Rovers,3-0,-
--,-,Bradford Park Avenue,Tranmere Rovers,1-0,-
--,-,Bury,Tranmere Rovers,8-2,-
--,-,Carlisle United,Tranmere Rovers,3-1,-
--,-,Chester,Tranmere Rovers,1-3,-
--,-,Chesterfield,Tranmere Rovers,2-1,-
--,-,Crewe Alexandra,Tranmere Rovers,0-4,-
--,-,Darlington,Tranmere Rovers,2-1,-
--,-,Gateshead,Tranmere Rovers,2-3,-
--,-,Halifax Town,Tranmere Rovers,1-1,-
--,-,Hartlepool United,Tranmere Rovers,1-1,-
--,-,Hull City,Tranmere Rovers,0-0,-
--,-,Mansfield Town,Tranmere Rovers,4-1,-
--,-,Oldham Athletic,Tranmere Rovers,1-0,-
--,-,Rochdale,Tranmere Rovers,2-0,-
--,-,Scunthorpe United,Tranmere Rovers,1-0,-
--,-,Southport,Tranmere Rovers,0-3,-
--,-,Stockport County,Tranmere Rovers,2-1,-
--,-,Workington,Tranmere Rovers,1-2,-
--,-,Wrexham,Tranmere Rovers,2-2,-
--,-,York City,Tranmere Rovers,4-0,-
--,-,Accrington Stanley,Workington,3-0,-
--,-,Barrow,Workington,0-0,-
--,-,Bradford City,Workington,0-0,-
--,-,Bradford Park Avenue,Workington,3-3,-
--,-,Bury,Workington,3-0,-
--,-,Carlisle United,Workington,2-2,-
--,-,Chester,Workington,4-3,-
--,-,Chesterfield,Workington,3-0,-
--,-,Crewe Alexandra,Workington,0-3,-
--,-,Darlington,Workington,3-1,-
--,-,Gateshead,Workington,3-0,-
--,-,Halifax Town,Workington,2-2,-
--,-,Hartlepool United,Workington,1-0,-
--,-,Hull City,Workington,3-2,-
--,-,Mansfield Town,Workington,6-3,-
--,-,Oldham Athletic,Workington,4-1,-
--,-,Rochdale,Workington,1-0,-
--,-,Scunthorpe United,Workington,2-2,-
--,-,Southport,Workington,0-1,-
--,-,Stockport County,Workington,0-2,-
--,-,Tranmere Rovers,Workington,1-0,-
--,-,Wrexham,Workington,1-1,-
--,-,York City,Workington,3-0,-
--,-,Accrington Stanley,Wrexham,2-1,-
--,-,Barrow,Wrexham,2-2,-
--,-,Bradford City,Wrexham,3-1,-
--,-,Bradford Park Avenue,Wrexham,2-0,-
--,-,Bury,Wrexham,3-0,-
--,-,Carlisle United,Wrexham,4-0,-
--,-,Chester,Wrexham,0-1,-
--,-,Chesterfield,Wrexham,3-2,-
--,-,Crewe Alexandra,Wrexham,2-0,-
--,-,Darlington,Wrexham,2-1,-
--,-,Gateshead,Wrexham,1-1,-
--,-,Halifax Town,Wrexham,0-0,-
--,-,Hartlepool United,Wrexham,1-2,-
--,-,Hull City,Wrexham,2-0,-
--,-,Mansfield Town,Wrexham,2-1,-
--,-,Oldham Athletic,Wrexham,4-1,-
--,-,Rochdale,Wrexham,2-0,-
--,-,Scunthorpe United,Wrexham,1-0,-
--,-,Southport,Wrexham,1-3,-
--,-,Stockport County,Wrexham,1-1,-
--,-,Tranmere Rovers,Wrexham,2-1,-
--,-,Workington,Wrexham,4-2,-
--,-,York City,Wrexham,1-2,-
--,-,Accrington Stanley,York City,3-0,-
--,-,Barrow,York City,1-0,-
--,-,Bradford City,York City,3-2,-
--,-,Bradford Park Avenue,York City,0-2,-
--,-,Bury,York City,4-1,-
--,-,Carlisle United,York City,2-1,-
--,-,Chester,York City,9-2,-
--,-,Chesterfield,York City,2-0,-
--,-,Crewe Alexandra,York City,3-4,-
--,-,Darlington,York City,2-0,-
--,-,Gateshead,York City,0-0,-
--,-,Halifax Town,York City,2-1,-
--,-,Hartlepool United,York City,2-2,-
--,-,Hull City,York City,0-1,-
--,-,Mansfield Town,York City,2-1,-
--,-,Oldham Athletic,York City,2-3,-
--,-,Rochdale,York City,2-1,-
--,-,Scunthorpe United,York City,1-2,-
--,-,Southport,York City,0-1,-
--,-,Stockport County,York City,2-1,-
--,-,Tranmere Rovers,York City,6-1,-
--,-,Workington,York City,0-0,-
--,-,Wrexham,York City,2-2,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Thu) 24 Apr 1958 (16),Accrington Stanley (1),3-2,?,Barrow AFC (1)
+?,(Sat) 15 Mar 1958 (10),Accrington Stanley (2),2-2,?,Bradford City (1)
+?,(Sat) 28 Dec 1957 (51),Accrington Stanley (3),5-2,?,Bradford Park Avenue (1)
+?,(Wed) 5 Mar 1958 (9),Accrington Stanley (4),3-0,?,Bury FC (1)
+?,(Sat) 7 Sep 1957 (35),Accrington Stanley (5),3-2,?,Carlisle United (1)
+?,(Mon) 30 Sep 1957 (39),Accrington Stanley (6),1-2,?,Chester FC (1)
+?,(Mon) 16 Sep 1957 (37),Accrington Stanley (7),0-4,?,Chesterfield FC (1)
+?,(Thu) 26 Dec 1957 (51),Accrington Stanley (8),2-0,?,Crewe Alexandra (1)
+?,(Sat) 12 Apr 1958 (14),Accrington Stanley (9),0-0,?,Darlington FC (1)
+?,(Sat) 23 Nov 1957 (46),Accrington Stanley (10),3-0,?,Gateshead FC (1)
+?,(Mon) 14 Apr 1958 (15),Accrington Stanley (11),2-1,?,Halifax Town (1)
+?,(Sat) 24 Aug 1957 (33),Accrington Stanley (12),1-2,?,Hartlepool United (1)
+?,(Sat) 26 Oct 1957 (42),Accrington Stanley (13),3-0,?,Hull City (1)
+?,(Sat) 29 Mar 1958 (12),Accrington Stanley (14),4-1,?,Mansfield Town (1)
+?,(Sat) 5 Oct 1957 (39),Accrington Stanley (15),1-1,?,Oldham Athletic (1)
+?,(Mon) 2 Sep 1957 (35),Accrington Stanley (16),3-2,?,Rochdale AFC (1)
+?,(Sat) 12 Oct 1957 (40),Accrington Stanley (17),2-1,?,Scunthorpe United (1)
+?,(Sat) 18 Jan 1958 (2),Accrington Stanley (18),2-2,?,Southport FC (1)
+?,(Sat) 1 Mar 1958 (8),Accrington Stanley (19),3-2,?,Stockport County (1)
+?,(Fri) 4 Apr 1958 (13),Accrington Stanley (20),2-1,?,Tranmere Rovers (1)
+?,(Sat) 9 Nov 1957 (44),Accrington Stanley (21),3-0,?,Workington (1)
+?,(Sat) 14 Dec 1957 (49),Accrington Stanley (22),2-1,?,Wrexham AFC (1)
+?,(Sat) 21 Sep 1957 (37),Accrington Stanley (23),3-0,?,York City (1)
+?,(Sat) 28 Sep 1957 (38),Barrow AFC (2),3-1,?,Accrington Stanley (24)
+?,(Mon) 21 Apr 1958 (16),Barrow AFC (3),1-2,?,Bradford City (2)
+?,(Mon) 16 Sep 1957 (37),Barrow AFC (4),0-0,?,Bradford Park Avenue (2)
+?,(Sat) 1 Feb 1958 (4),Barrow AFC (5),4-2,?,Bury FC (2)
+?,(Mon) 7 Apr 1958 (14),Barrow AFC (6),2-3,?,Carlisle United (2)
+?,(Sat) 15 Feb 1958 (6),Barrow AFC (7),4-1,?,Chester FC (2)
+?,(Wed) 1 Jan 1958 (0),Barrow AFC (8),4-1,?,Chesterfield FC (2)
+?,(Sat) 12 Apr 1958 (14),Barrow AFC (9),0-1,?,Crewe Alexandra (2)
+?,(Sat) 9 Nov 1957 (44),Barrow AFC (10),2-1,?,Darlington FC (2)
+?,(Sat) 7 Dec 1957 (48),Barrow AFC (11),1-2,?,Gateshead FC (2)
+?,(Sat) 26 Apr 1958 (16),Barrow AFC (12),0-3,?,Halifax Town (2)
+?,(Mon) 30 Sep 1957 (39),Barrow AFC (13),3-3,?,Hartlepool United (2)
+?,(Mon) 2 Sep 1957 (35),Barrow AFC (14),0-0,?,Hull City (2)
+?,(Sat) 26 Oct 1957 (42),Barrow AFC (15),2-1,?,Mansfield Town (2)
+?,(Sat) 14 Sep 1957 (36),Barrow AFC (16),2-2,?,Oldham Athletic (2)
+?,(Sat) 12 Oct 1957 (40),Barrow AFC (17),2-1,?,Rochdale AFC (2)
+?,(Sat) 29 Mar 1958 (12),Barrow AFC (18),0-1,?,Scunthorpe United (2)
+?,(Sat) 24 Aug 1957 (33),Barrow AFC (19),1-0,?,Southport FC (2)
+?,(Sat) 11 Jan 1958 (1),Barrow AFC (20),1-1,?,Stockport County (2)
+?,(Wed) 25 Dec 1957 (51),Barrow AFC (21),1-4,?,Tranmere Rovers (2)
+?,(Sat) 1 Mar 1958 (8),Barrow AFC (22),0-0,?,Workington (2)
+?,(Sat) 23 Nov 1957 (46),Barrow AFC (23),2-2,?,Wrexham AFC (2)
+?,(Sat) 28 Dec 1957 (51),Barrow AFC (24),1-0,?,York City (2)
+?,(Sat) 2 Nov 1957 (43),Bradford City (3),1-1,?,Accrington Stanley (25)
+?,(Sat) 5 Apr 1958 (13),Bradford City (4),4-1,?,Barrow AFC (25)
+?,(Sat) 22 Mar 1958 (11),Bradford City (5),2-1,?,Bradford Park Avenue (3)
+?,(Sat) 8 Mar 1958 (9),Bradford City (6),3-3,?,Bury FC (3)
+?,(Sat) 14 Dec 1957 (49),Bradford City (7),1-1,?,Carlisle United (3)
+?,(Sat) 19 Apr 1958 (15),Bradford City (8),5-0,?,Chester FC (3)
+?,(Tue) 29 Apr 1958 (17),Bradford City (9),0-0,?,Chesterfield FC (3)
+?,(Sat) 18 Jan 1958 (2),Bradford City (10),2-1,?,Crewe Alexandra (3)
+?,(Sat) 5 Oct 1957 (39),Bradford City (11),3-1,?,Darlington FC (3)
+?,(Tue) 11 Mar 1958 (10),Bradford City (12),0-1,?,Gateshead FC (3)
+?,(Sat) 28 Dec 1957 (51),Bradford City (13),3-0,?,Halifax Town (3)
+?,(Sat) 30 Nov 1957 (47),Bradford City (14),0-1,?,Hartlepool United (3)
+?,(Tue) 8 Apr 1958 (14),Bradford City (15),1-0,?,Hull City (3)
+?,(Thu) 26 Dec 1957 (51),Bradford City (16),1-1,?,Mansfield Town (3)
+?,(Sat) 19 Oct 1957 (41),Bradford City (17),0-0,?,Oldham Athletic (3)
+?,(Sat) 7 Sep 1957 (35),Bradford City (18),1-0,?,Rochdale AFC (3)
+?,(Thu) 24 Apr 1958 (16),Bradford City (19),2-3,?,Scunthorpe United (3)
+?,(Wed) 18 Sep 1957 (37),Bradford City (20),2-0,?,Southport FC (3)
+?,(Sat) 24 Aug 1957 (33),Bradford City (21),2-1,?,Stockport County (3)
+?,(Sat) 22 Feb 1958 (7),Bradford City (22),3-0,?,Tranmere Rovers (3)
+?,(Tue) 1 Oct 1957 (39),Bradford City (23),0-0,?,Workington (3)
+?,(Sat) 21 Sep 1957 (37),Bradford City (24),3-1,?,Wrexham AFC (3)
+?,(Wed) 4 Sep 1957 (35),Bradford City (25),3-2,?,York City (3)
+?,(Sat) 31 Aug 1957 (34),Bradford Park Avenue (4),1-3,?,Accrington Stanley (26)
+?,(Mon) 9 Sep 1957 (36),Bradford Park Avenue (5),1-1,?,Barrow AFC (26)
+?,(Sat) 12 Oct 1957 (40),Bradford Park Avenue (6),0-0,?,Bradford City (26)
+?,(Sat) 21 Dec 1957 (50),Bradford Park Avenue (7),1-4,?,Bury FC (4)
+?,(Sat) 4 Jan 1958 (0),Bradford Park Avenue (8),4-1,?,Carlisle United (4)
+?,(Sat) 11 Jan 1958 (1),Bradford Park Avenue (9),3-0,?,Chester FC (4)
+?,(Sat) 14 Sep 1957 (36),Bradford Park Avenue (10),2-0,?,Chesterfield FC (4)
+?,(Sat) 15 Mar 1958 (10),Bradford Park Avenue (11),3-1,?,Crewe Alexandra (4)
+?,(Mon) 14 Apr 1958 (15),Bradford Park Avenue (12),4-1,?,Darlington FC (4)
+?,(Mon) 26 Aug 1957 (34),Bradford Park Avenue (13),2-2,?,Gateshead FC (4)
+?,(Sat) 7 Dec 1957 (48),Bradford Park Avenue (14),0-2,?,Halifax Town (4)
+?,(Sat) 28 Sep 1957 (38),Bradford Park Avenue (15),2-3,?,Hartlepool United (4)
+?,(Sat) 12 Apr 1958 (14),Bradford Park Avenue (16),4-4,?,Hull City (4)
+?,(Sat) 15 Feb 1958 (6),Bradford Park Avenue (17),0-2,?,Mansfield Town (4)
+?,(Mon) 7 Apr 1958 (14),Bradford Park Avenue (18),1-3,?,Oldham Athletic (4)
+?,(Sat) 9 Nov 1957 (44),Bradford Park Avenue (19),2-2,?,Rochdale AFC (4)
+?,(Sat) 1 Mar 1958 (8),Bradford Park Avenue (20),1-2,?,Scunthorpe United (4)
+?,(Wed) 25 Dec 1957 (51),Bradford Park Avenue (21),3-5,?,Southport FC (4)
+?,(Sat) 23 Nov 1957 (46),Bradford Park Avenue (22),1-0,?,Stockport County (4)
+?,(Sat) 1 Feb 1958 (4),Bradford Park Avenue (23),1-0,?,Tranmere Rovers (4)
+?,(Sat) 26 Apr 1958 (16),Bradford Park Avenue (24),3-3,?,Workington (4)
+?,(Sat) 26 Oct 1957 (42),Bradford Park Avenue (25),2-0,?,Wrexham AFC (4)
+?,(Wed) 25 Sep 1957 (38),Bradford Park Avenue (26),0-2,?,York City (4)
+?,(Wed) 1 Jan 1958 (0),Bury FC (5),1-1,?,Accrington Stanley (27)
+?,(Sat) 21 Sep 1957 (37),Bury FC (6),4-1,?,Barrow AFC (27)
+?,(Sat) 26 Oct 1957 (42),Bury FC (7),1-0,?,Bradford City (27)
+?,(Sat) 24 Aug 1957 (33),Bury FC (8),1-0,?,Bradford Park Avenue (27)
+?,(Sat) 28 Dec 1957 (51),Bury FC (9),3-0,?,Carlisle United (5)
+?,(Wed) 25 Dec 1957 (51),Bury FC (10),1-2,?,Chester FC (5)
+?,(Mon) 23 Sep 1957 (38),Bury FC (11),1-0,?,Chesterfield FC (5)
+?,(Sat) 26 Apr 1958 (16),Bury FC (12),2-0,?,Crewe Alexandra (5)
+?,(Sat) 23 Nov 1957 (46),Bury FC (13),5-0,?,Darlington FC (5)
+?,(Sat) 29 Mar 1958 (12),Bury FC (14),4-1,?,Gateshead FC (5)
+?,(Mon) 2 Sep 1957 (35),Bury FC (15),1-0,?,Halifax Town (5)
+?,(Mon) 7 Apr 1958 (14),Bury FC (16),3-3,?,Hartlepool United (5)
+?,(Sat) 1 Mar 1958 (8),Bury FC (17),1-1,?,Hull City (5)
+?,(Sat) 9 Nov 1957 (44),Bury FC (18),0-2,?,Mansfield Town (5)
+?,(Sat) 8 Feb 1958 (5),Bury FC (19),4-0,?,Oldham Athletic (5)
+?,(Sat) 15 Feb 1958 (6),Bury FC (20),4-1,?,Rochdale AFC (5)
+?,(Sat) 12 Apr 1958 (14),Bury FC (21),2-1,?,Scunthorpe United (5)
+?,(Sat) 7 Sep 1957 (35),Bury FC (22),4-1,?,Southport FC (5)
+?,(Wed) 12 Feb 1958 (6),Bury FC (23),1-1,?,Stockport County (5)
+?,(Mon) 16 Sep 1957 (37),Bury FC (24),8-2,?,Tranmere Rovers (5)
+?,(Sat) 15 Mar 1958 (10),Bury FC (25),3-0,?,Workington (5)
+?,(Sat) 12 Oct 1957 (40),Bury FC (26),3-0,?,Wrexham AFC (5)
+?,(Sat) 18 Jan 1958 (2),Bury FC (27),4-1,?,York City (5)
+?,(Sat) 11 Jan 1958 (1),Carlisle United (6),6-1,?,Accrington Stanley (28)
+?,(Mon) 14 Apr 1958 (15),Carlisle United (7),2-1,?,Barrow AFC (28)
+?,(Sat) 26 Apr 1958 (16),Carlisle United (8),0-3,?,Bradford City (28)
+?,(Wed) 1 Jan 1958 (0),Carlisle United (9),2-3,?,Bradford Park Avenue (28)
+?,(Sat) 31 Aug 1957 (34),Carlisle United (10),0-2,?,Bury FC (28)
+?,(Sat) 14 Sep 1957 (36),Carlisle United (11),3-2,?,Chester FC (6)
+?,(Sat) 1 Feb 1958 (4),Carlisle United (12),2-2,?,Chesterfield FC (6)
+?,(Sat) 9 Nov 1957 (44),Carlisle United (13),2-0,?,Crewe Alexandra (6)
+?,(Sat) 1 Mar 1958 (8),Carlisle United (14),5-2,?,Darlington FC (6)
+?,(Tue) 18 Feb 1958 (7),Carlisle United (15),5-1,?,Gateshead FC (6)
+?,(Sat) 23 Nov 1957 (46),Carlisle United (16),2-1,?,Halifax Town (6)
+?,(Sat) 15 Feb 1958 (6),Carlisle United (17),1-2,?,Hartlepool United (6)
+?,(Sat) 12 Oct 1957 (40),Carlisle United (18),0-1,?,Hull City (6)
+?,(Tue) 27 Aug 1957 (34),Carlisle United (19),3-4,?,Mansfield Town (6)
+?,(Sat) 21 Dec 1957 (50),Carlisle United (20),1-1,?,Oldham Athletic (6)
+?,(Sat) 29 Mar 1958 (12),Carlisle United (21),1-0,?,Rochdale AFC (6)
+?,(Sat) 26 Oct 1957 (42),Carlisle United (22),3-4,?,Scunthorpe United (6)
+?,(Tue) 1 Oct 1957 (39),Carlisle United (23),4-0,?,Southport FC (6)
+?,(Sat) 12 Apr 1958 (14),Carlisle United (24),3-1,?,Stockport County (6)
+?,(Sat) 28 Sep 1957 (38),Carlisle United (25),3-1,?,Tranmere Rovers (6)
+?,(Wed) 25 Dec 1957 (51),Carlisle United (26),2-2,?,Workington (6)
+?,(Sat) 15 Mar 1958 (10),Carlisle United (27),4-0,?,Wrexham AFC (6)
+?,(Tue) 10 Sep 1957 (36),Carlisle United (28),2-1,?,York City (6)
+?,(Wed) 30 Apr 1958 (17),Chester FC (7),5-1,?,Accrington Stanley (29)
+?,(Sat) 5 Oct 1957 (39),Chester FC (8),2-2,?,Barrow AFC (29)
+?,(Sat) 9 Nov 1957 (44),Chester FC (9),0-0,?,Bradford City (29)
+?,(Sat) 7 Sep 1957 (35),Chester FC (10),1-2,?,Bradford Park Avenue (29)
+?,(Thu) 26 Dec 1957 (51),Chester FC (11),0-0,?,Bury FC (29)
+?,(Sat) 18 Jan 1958 (2),Chester FC (12),0-0,?,Carlisle United (29)
+?,(Mon) 7 Apr 1958 (14),Chester FC (13),0-0,?,Chesterfield FC (7)
+?,(Wed) 28 Aug 1957 (34),Chester FC (14),3-2,?,Crewe Alexandra (7)
+?,(Sat) 12 Oct 1957 (40),Chester FC (15),0-1,?,Darlington FC (7)
+?,(Sat) 12 Apr 1958 (14),Chester FC (16),1-1,?,Gateshead FC (7)
+?,(Sat) 1 Mar 1958 (8),Chester FC (17),1-1,?,Halifax Town (7)
+?,(Sat) 28 Dec 1957 (51),Chester FC (18),2-1,?,Hartlepool United (7)
+?,(Sat) 15 Mar 1958 (10),Chester FC (19),1-1,?,Hull City (7)
+?,(Sat) 23 Nov 1957 (46),Chester FC (20),1-2,?,Mansfield Town (7)
+?,(Sat) 4 Jan 1958 (0),Chester FC (21),0-0,?,Oldham Athletic (7)
+?,(Wed) 16 Apr 1958 (15),Chester FC (22),2-0,?,Rochdale AFC (7)
+?,(Sat) 14 Dec 1957 (49),Chester FC (23),1-2,?,Scunthorpe United (7)
+?,(Sat) 21 Sep 1957 (37),Chester FC (24),1-1,?,Southport FC (7)
+?,(Sat) 26 Oct 1957 (42),Chester FC (25),3-0,?,Stockport County (7)
+?,(Sat) 24 Aug 1957 (33),Chester FC (26),1-3,?,Tranmere Rovers (7)
+?,(Sat) 29 Mar 1958 (12),Chester FC (27),4-3,?,Workington (7)
+?,(Wed) 18 Sep 1957 (37),Chester FC (28),0-1,?,Wrexham AFC (7)
+?,(Sat) 8 Feb 1958 (5),Chester FC (29),9-2,?,York City (7)
+?,(Wed) 11 Sep 1957 (36),Chesterfield FC (8),1-0,?,Accrington Stanley (30)
+?,(Sat) 4 Jan 1958 (0),Chesterfield FC (9),4-3,?,Barrow AFC (30)
+?,(Sat) 29 Mar 1958 (12),Chesterfield FC (10),0-1,?,Bradford City (30)
+?,(Sat) 18 Jan 1958 (2),Chesterfield FC (11),1-1,?,Bradford Park Avenue (30)
+?,(Wed) 23 Apr 1958 (16),Chesterfield FC (12),1-1,?,Bury FC (30)
+?,(Sat) 21 Sep 1957 (37),Chesterfield FC (13),1-3,?,Carlisle United (30)
+?,(Fri) 4 Apr 1958 (13),Chesterfield FC (14),2-1,?,Chester FC (30)
+?,(Sat) 7 Dec 1957 (48),Chesterfield FC (15),1-1,?,Crewe Alexandra (8)
+?,(Sat) 26 Apr 1958 (16),Chesterfield FC (16),2-0,?,Darlington FC (8)
+?,(Sat) 12 Oct 1957 (40),Chesterfield FC (17),5-3,?,Gateshead FC (8)
+?,(Sat) 26 Oct 1957 (42),Chesterfield FC (18),1-1,?,Halifax Town (8)
+?,(Sat) 7 Sep 1957 (35),Chesterfield FC (19),2-1,?,Hartlepool United (8)
+?,(Sat) 9 Nov 1957 (44),Chesterfield FC (20),0-0,?,Hull City (8)
+?,(Sat) 12 Apr 1958 (14),Chesterfield FC (21),1-4,?,Mansfield Town (8)
+?,(Thu) 26 Dec 1957 (51),Chesterfield FC (22),2-1,?,Oldham Athletic (8)
+?,(Sat) 1 Mar 1958 (8),Chesterfield FC (23),2-2,?,Rochdale AFC (8)
+?,(Sat) 24 Aug 1957 (33),Chesterfield FC (24),1-1,?,Scunthorpe United (8)
+?,(Wed) 16 Apr 1958 (15),Chesterfield FC (25),0-0,?,Southport FC (8)
+?,(Sat) 15 Mar 1958 (10),Chesterfield FC (26),2-1,?,Stockport County (8)
+?,(Sat) 28 Dec 1957 (51),Chesterfield FC (27),2-1,?,Tranmere Rovers (8)
+?,(Sat) 23 Nov 1957 (46),Chesterfield FC (28),3-0,?,Workington (8)
+?,(Wed) 4 Sep 1957 (35),Chesterfield FC (29),3-2,?,Wrexham AFC (8)
+?,(Sat) 5 Oct 1957 (39),Chesterfield FC (30),2-0,?,York City (8)
+?,(Wed) 25 Dec 1957 (51),Crewe Alexandra (9),4-1,?,Accrington Stanley (31)
+?,(Sat) 30 Nov 1957 (47),Crewe Alexandra (10),1-4,?,Barrow AFC (31)
+?,(Sat) 14 Sep 1957 (36),Crewe Alexandra (11),2-2,?,Bradford City (31)
+?,(Sat) 2 Nov 1957 (43),Crewe Alexandra (12),3-0,?,Bradford Park Avenue (31)
+?,(Sat) 14 Dec 1957 (49),Crewe Alexandra (13),0-1,?,Bury FC (31)
+?,(Sat) 19 Apr 1958 (15),Crewe Alexandra (14),0-0,?,Carlisle United (31)
+?,(Mon) 2 Sep 1957 (35),Crewe Alexandra (15),0-3,?,Chester FC (31)
+?,(Sat) 5 Apr 1958 (13),Crewe Alexandra (16),1-2,?,Chesterfield FC (31)
+?,(Fri) 4 Apr 1958 (13),Crewe Alexandra (17),2-2,?,Darlington FC (9)
+?,(Sat) 21 Dec 1957 (50),Crewe Alexandra (18),2-2,?,Gateshead FC (9)
+?,(Sat) 15 Feb 1958 (6),Crewe Alexandra (19),1-2,?,Halifax Town (9)
+?,(Sat) 8 Mar 1958 (9),Crewe Alexandra (20),2-1,?,Hartlepool United (9)
+?,(Sat) 1 Feb 1958 (4),Crewe Alexandra (21),1-2,?,Hull City (9)
+?,(Sat) 31 Aug 1957 (34),Crewe Alexandra (22),1-0,?,Mansfield Town (9)
+?,(Sat) 22 Mar 1958 (11),Crewe Alexandra (23),0-2,?,Oldham Athletic (9)
+?,(Mon) 21 Apr 1958 (16),Crewe Alexandra (24),0-0,?,Rochdale AFC (9)
+?,(Wed) 18 Sep 1957 (37),Crewe Alexandra (25),0-2,?,Scunthorpe United (9)
+?,(Wed) 23 Apr 1958 (16),Crewe Alexandra (26),3-2,?,Southport FC (9)
+?,(Sat) 28 Sep 1957 (38),Crewe Alexandra (27),1-2,?,Stockport County (9)
+?,(Sat) 19 Oct 1957 (41),Crewe Alexandra (28),0-4,?,Tranmere Rovers (9)
+?,(Sat) 11 Jan 1958 (1),Crewe Alexandra (29),0-3,?,Workington (9)
+?,(Wed) 2 Oct 1957 (39),Crewe Alexandra (30),2-0,?,Wrexham AFC (9)
+?,(Sat) 22 Feb 1958 (7),Crewe Alexandra (31),3-4,?,York City (9)
+?,(Sat) 30 Nov 1957 (47),Darlington FC (10),0-2,?,Accrington Stanley (32)
+?,(Sat) 19 Apr 1958 (15),Darlington FC (11),3-0,?,Barrow AFC (32)
+?,(Wed) 19 Feb 1958 (7),Darlington FC (12),4-0,?,Bradford City (32)
+?,(Sat) 5 Apr 1958 (13),Darlington FC (13),4-0,?,Bradford Park Avenue (32)
+?,(Sat) 22 Feb 1958 (7),Darlington FC (14),3-2,?,Bury FC (32)
+?,(Sat) 19 Oct 1957 (41),Darlington FC (15),1-2,?,Carlisle United (32)
+?,(Sat) 22 Mar 1958 (11),Darlington FC (16),2-3,?,Chester FC (32)
+?,(Sat) 14 Dec 1957 (49),Darlington FC (17),2-0,?,Chesterfield FC (32)
+?,(Mon) 7 Apr 1958 (14),Darlington FC (18),3-0,?,Crewe Alexandra (32)
+?,(Sat) 14 Sep 1957 (36),Darlington FC (19),2-2,?,Gateshead FC (10)
+?,(Wed) 2 Oct 1957 (39),Darlington FC (20),5-0,?,Halifax Town (10)
+?,(Wed) 4 Sep 1957 (35),Darlington FC (21),1-3,?,Hartlepool United (10)
+?,(Wed) 23 Apr 1958 (16),Darlington FC (22),2-2,?,Hull City (10)
+?,(Sat) 1 Feb 1958 (4),Darlington FC (23),2-0,?,Mansfield Town (10)
+?,(Mon) 28 Apr 1958 (17),Darlington FC (24),3-1,?,Oldham Athletic (10)
+?,(Wed) 18 Sep 1957 (37),Darlington FC (25),4-2,?,Rochdale AFC (10)
+?,(Sat) 28 Dec 1957 (51),Darlington FC (26),1-1,?,Scunthorpe United (10)
+?,(Wed) 19 Mar 1958 (11),Darlington FC (27),1-2,?,Southport FC (10)
+?,(Thu) 26 Dec 1957 (51),Darlington FC (28),1-0,?,Stockport County (10)
+?,(Sat) 7 Sep 1957 (35),Darlington FC (29),2-1,?,Tranmere Rovers (10)
+?,(Sat) 28 Sep 1957 (38),Darlington FC (30),3-1,?,Workington (10)
+?,(Sat) 24 Aug 1957 (33),Darlington FC (31),2-1,?,Wrexham AFC (10)
+?,(Sat) 2 Nov 1957 (43),Darlington FC (32),2-0,?,York City (10)
+?,(Sat) 22 Feb 1958 (7),Gateshead FC (11),1-3,?,Accrington Stanley (33)
+?,(Sat) 2 Nov 1957 (43),Gateshead FC (12),0-2,?,Barrow AFC (33)
+?,(Wed) 1 Jan 1958 (0),Gateshead FC (13),0-0,?,Bradford City (33)
+?,(Mon) 2 Sep 1957 (35),Gateshead FC (14),2-4,?,Bradford Park Avenue (33)
+?,(Sat) 4 Jan 1958 (0),Gateshead FC (15),1-2,?,Bury FC (33)
+?,(Sat) 5 Apr 1958 (13),Gateshead FC (16),3-2,?,Carlisle United (33)
+?,(Sat) 30 Nov 1957 (47),Gateshead FC (17),3-2,?,Chester FC (33)
+?,(Sat) 22 Mar 1958 (11),Gateshead FC (18),3-0,?,Chesterfield FC (33)
+?,(Sat) 24 Aug 1957 (33),Gateshead FC (19),3-1,?,Crewe Alexandra (33)
+?,(Sat) 18 Jan 1958 (2),Gateshead FC (20),4-0,?,Darlington FC (33)
+?,(Mon) 16 Sep 1957 (37),Gateshead FC (21),0-0,?,Halifax Town (11)
+?,(Sat) 21 Sep 1957 (37),Gateshead FC (22),0-0,?,Hartlepool United (11)
+?,(Thu) 26 Dec 1957 (51),Gateshead FC (23),3-1,?,Hull City (11)
+?,(Mon) 14 Apr 1958 (15),Gateshead FC (24),2-1,?,Mansfield Town (11)
+?,(Sat) 19 Apr 1958 (15),Gateshead FC (25),1-0,?,Oldham Athletic (11)
+?,(Mon) 7 Apr 1958 (14),Gateshead FC (26),3-2,?,Rochdale AFC (11)
+?,(Sat) 7 Sep 1957 (35),Gateshead FC (27),1-2,?,Scunthorpe United (11)
+?,(Sat) 19 Oct 1957 (41),Gateshead FC (28),2-1,?,Southport FC (11)
+?,(Mon) 14 Oct 1957 (41),Gateshead FC (29),3-0,?,Stockport County (11)
+?,(Sat) 14 Dec 1957 (49),Gateshead FC (30),2-3,?,Tranmere Rovers (11)
+?,(Sat) 15 Feb 1958 (6),Gateshead FC (31),3-0,?,Workington (11)
+?,(Sat) 28 Dec 1957 (51),Gateshead FC (32),1-1,?,Wrexham AFC (11)
+?,(Mon) 24 Mar 1958 (12),Gateshead FC (33),0-0,?,York City (11)
+?,(Sat) 5 Apr 1958 (13),Halifax Town (12),0-2,?,Accrington Stanley (34)
+?,(Sat) 14 Dec 1957 (49),Halifax Town (13),3-1,?,Barrow AFC (34)
+?,(Sat) 31 Aug 1957 (34),Halifax Town (14),3-2,?,Bradford City (34)
+?,(Sat) 29 Mar 1958 (12),Halifax Town (15),2-0,?,Bradford Park Avenue (34)
+?,(Mon) 26 Aug 1957 (34),Halifax Town (16),1-2,?,Bury FC (34)
+?,(Sat) 22 Feb 1958 (7),Halifax Town (17),5-0,?,Carlisle United (34)
+?,(Sat) 19 Oct 1957 (41),Halifax Town (18),2-1,?,Chester FC (34)
+?,(Sat) 8 Mar 1958 (9),Halifax Town (19),3-2,?,Chesterfield FC (34)
+?,(Sat) 5 Oct 1957 (39),Halifax Town (20),2-0,?,Crewe Alexandra (34)
+?,(Mon) 23 Sep 1957 (38),Halifax Town (21),1-0,?,Darlington FC (34)
+?,(Mon) 9 Sep 1957 (36),Halifax Town (22),4-1,?,Gateshead FC (34)
+?,(Sat) 19 Apr 1958 (15),Halifax Town (23),3-0,?,Hartlepool United (12)
+?,(Sat) 11 Jan 1958 (1),Halifax Town (24),2-2,?,Hull City (12)
+?,(Tue) 8 Apr 1958 (14),Halifax Town (25),4-0,?,Mansfield Town (12)
+?,(Sat) 21 Sep 1957 (37),Halifax Town (26),4-0,?,Oldham Athletic (12)
+?,(Tue) 29 Apr 1958 (17),Halifax Town (27),4-1,?,Rochdale AFC (12)
+?,(Thu) 26 Dec 1957 (51),Halifax Town (28),0-1,?,Scunthorpe United (12)
+?,(Sat) 30 Nov 1957 (47),Halifax Town (29),4-1,?,Southport FC (12)
+?,(Sat) 14 Sep 1957 (36),Halifax Town (30),0-0,?,Stockport County (12)
+?,(Sat) 2 Nov 1957 (43),Halifax Town (31),1-1,?,Tranmere Rovers (12)
+?,(Sat) 21 Dec 1957 (50),Halifax Town (32),2-2,?,Workington (12)
+?,(Mon) 21 Apr 1958 (16),Halifax Town (33),0-0,?,Wrexham AFC (12)
+?,(Sat) 22 Mar 1958 (11),Halifax Town (34),2-1,?,York City (12)
+?,(Sat) 21 Dec 1957 (50),Hartlepool United (13),1-1,?,Accrington Stanley (35)
+?,(Mon) 23 Sep 1957 (38),Hartlepool United (14),4-1,?,Barrow AFC (35)
+?,(Sat) 12 Apr 1958 (14),Hartlepool United (15),2-0,?,Bradford City (35)
+?,(Sat) 8 Feb 1958 (5),Hartlepool United (16),0-0,?,Bradford Park Avenue (35)
+?,(Fri) 4 Apr 1958 (13),Hartlepool United (17),2-1,?,Bury FC (35)
+?,(Sat) 5 Oct 1957 (39),Hartlepool United (18),0-1,?,Carlisle United (35)
+?,(Sat) 31 Aug 1957 (34),Hartlepool United (19),2-1,?,Chester FC (35)
+?,(Sat) 11 Jan 1958 (1),Hartlepool United (20),0-2,?,Chesterfield FC (35)
+?,(Sat) 26 Oct 1957 (42),Hartlepool United (21),1-1,?,Crewe Alexandra (35)
+?,(Mon) 26 Aug 1957 (34),Hartlepool United (22),5-1,?,Darlington FC (35)
+?,(Sat) 1 Feb 1958 (4),Hartlepool United (23),2-2,?,Gateshead FC (35)
+?,(Sat) 9 Nov 1957 (44),Hartlepool United (24),5-0,?,Halifax Town (35)
+?,(Sat) 23 Nov 1957 (46),Hartlepool United (25),5-1,?,Hull City (13)
+?,(Sat) 26 Apr 1958 (16),Hartlepool United (26),2-0,?,Mansfield Town (13)
+?,(Mon) 9 Sep 1957 (36),Hartlepool United (27),4-1,?,Oldham Athletic (13)
+?,(Sat) 15 Mar 1958 (10),Hartlepool United (28),1-3,?,Rochdale AFC (13)
+?,(Mon) 28 Apr 1958 (17),Hartlepool United (29),1-2,?,Scunthorpe United (13)
+?,(Wed) 1 Jan 1958 (0),Hartlepool United (30),2-1,?,Southport FC (13)
+?,(Sat) 29 Mar 1958 (12),Hartlepool United (31),1-2,?,Stockport County (13)
+?,(Sat) 14 Sep 1957 (36),Hartlepool United (32),1-1,?,Tranmere Rovers (13)
+?,(Sat) 12 Oct 1957 (40),Hartlepool United (33),1-0,?,Workington (13)
+?,(Sat) 1 Mar 1958 (8),Hartlepool United (34),1-2,?,Wrexham AFC (13)
+?,(Wed) 25 Dec 1957 (51),Hartlepool United (35),2-2,?,York City (13)
+?,(Tue) 25 Mar 1958 (12),Hull City (14),1-0,?,Accrington Stanley (36)
+?,(Mon) 26 Aug 1957 (34),Hull City (15),1-1,?,Barrow AFC (36)
+?,(Mon) 7 Apr 1958 (14),Hull City (16),1-3,?,Bradford City (36)
+?,(Sat) 30 Nov 1957 (47),Hull City (17),3-3,?,Bradford Park Avenue (36)
+?,(Sat) 19 Oct 1957 (41),Hull City (18),2-1,?,Bury FC (36)
+?,(Sat) 22 Mar 1958 (11),Hull City (19),4-0,?,Carlisle United (36)
+?,(Sat) 2 Nov 1957 (43),Hull City (20),3-0,?,Chester FC (36)
+?,(Sat) 19 Apr 1958 (15),Hull City (21),1-0,?,Chesterfield FC (36)
+?,(Sat) 21 Sep 1957 (37),Hull City (22),1-0,?,Crewe Alexandra (36)
+?,(Mon) 10 Mar 1958 (10),Hull City (23),2-1,?,Darlington FC (36)
+?,(Wed) 25 Dec 1957 (51),Hull City (24),1-1,?,Gateshead FC (36)
+?,(Sat) 7 Sep 1957 (35),Hull City (25),5-2,?,Halifax Town (36)
+?,(Sat) 22 Feb 1958 (7),Hull City (26),1-1,?,Hartlepool United (36)
+?,(Mon) 30 Sep 1957 (39),Hull City (27),1-1,?,Mansfield Town (14)
+?,(Sat) 5 Apr 1958 (13),Hull City (28),9-0,?,Oldham Athletic (14)
+?,(Sat) 18 Jan 1958 (2),Hull City (29),2-1,?,Rochdale AFC (14)
+?,(Sat) 5 Oct 1957 (39),Hull City (30),2-0,?,Scunthorpe United (14)
+?,(Sat) 14 Dec 1957 (49),Hull City (31),3-2,?,Southport FC (14)
+?,(Sat) 28 Dec 1957 (51),Hull City (32),1-0,?,Stockport County (14)
+?,(Mon) 17 Mar 1958 (11),Hull City (33),0-0,?,Tranmere Rovers (14)
+?,(Mon) 9 Sep 1957 (36),Hull City (34),3-2,?,Workington (14)
+?,(Sat) 8 Feb 1958 (5),Hull City (35),2-0,?,Wrexham AFC (14)
+?,(Sat) 24 Aug 1957 (33),Hull City (36),0-1,?,York City (14)
+?,(Sat) 25 Jan 1958 (3),Mansfield Town (15),0-2,?,Accrington Stanley (37)
+?,(Sat) 8 Mar 1958 (9),Mansfield Town (16),4-2,?,Barrow AFC (37)
+?,(Wed) 25 Dec 1957 (51),Mansfield Town (17),5-2,?,Bradford City (37)
+?,(Sat) 5 Oct 1957 (39),Mansfield Town (18),2-1,?,Bradford Park Avenue (37)
+?,(Sat) 19 Apr 1958 (15),Mansfield Town (19),6-4,?,Bury FC (37)
+?,(Mon) 2 Sep 1957 (35),Mansfield Town (20),2-0,?,Carlisle United (37)
+?,(Sat) 22 Feb 1958 (7),Mansfield Town (21),3-1,?,Chester FC (37)
+?,(Sat) 30 Nov 1957 (47),Mansfield Town (22),1-1,?,Chesterfield FC (37)
+?,(Sat) 28 Dec 1957 (51),Mansfield Town (23),2-1,?,Crewe Alexandra (37)
+?,(Sat) 21 Sep 1957 (37),Mansfield Town (24),4-2,?,Darlington FC (37)
+?,(Mon) 28 Apr 1958 (17),Mansfield Town (25),3-0,?,Gateshead FC (37)
+?,(Mon) 7 Apr 1958 (14),Mansfield Town (26),2-1,?,Halifax Town (37)
+?,(Sat) 14 Dec 1957 (49),Mansfield Town (27),5-1,?,Hartlepool United (37)
+?,(Mon) 23 Sep 1957 (38),Mansfield Town (28),1-3,?,Hull City (37)
+?,(Sat) 2 Nov 1957 (43),Mansfield Town (29),4-4,?,Oldham Athletic (15)
+?,(Sat) 24 Aug 1957 (33),Mansfield Town (30),2-4,?,Rochdale AFC (15)
+?,(Sat) 18 Jan 1958 (2),Mansfield Town (31),3-5,?,Scunthorpe United (15)
+?,(Sat) 5 Apr 1958 (13),Mansfield Town (32),3-0,?,Southport FC (15)
+?,(Mon) 9 Sep 1957 (36),Mansfield Town (33),2-2,?,Stockport County (15)
+?,(Sat) 22 Mar 1958 (11),Mansfield Town (34),4-1,?,Tranmere Rovers (15)
+?,(Mon) 10 Mar 1958 (10),Mansfield Town (35),6-3,?,Workington (15)
+?,(Sat) 7 Sep 1957 (35),Mansfield Town (36),2-1,?,Wrexham AFC (15)
+?,(Sat) 19 Oct 1957 (41),Mansfield Town (37),2-1,?,York City (15)
+?,(Sat) 15 Feb 1958 (6),Oldham Athletic (16),0-3,?,Accrington Stanley (38)
+?,(Sat) 18 Jan 1958 (2),Oldham Athletic (17),1-1,?,Barrow AFC (38)
+?,(Sat) 1 Mar 1958 (8),Oldham Athletic (18),1-1,?,Bradford City (38)
+?,(Fri) 4 Apr 1958 (13),Oldham Athletic (19),4-2,?,Bradford Park Avenue (38)
+?,(Sat) 28 Sep 1957 (38),Oldham Athletic (20),1-3,?,Bury FC (38)
+?,(Sat) 24 Aug 1957 (33),Oldham Athletic (21),1-0,?,Carlisle United (38)
+?,(Tue) 22 Apr 1958 (16),Oldham Athletic (22),5-1,?,Chester FC (38)
+?,(Wed) 25 Dec 1957 (51),Oldham Athletic (23),2-1,?,Chesterfield FC (38)
+?,(Sat) 12 Oct 1957 (40),Oldham Athletic (24),1-0,?,Crewe Alexandra (38)
+?,(Sat) 29 Mar 1958 (12),Oldham Athletic (25),2-2,?,Darlington FC (38)
+?,(Sat) 9 Nov 1957 (44),Oldham Athletic (26),0-0,?,Gateshead FC (38)
+?,(Sat) 1 Feb 1958 (4),Oldham Athletic (27),2-4,?,Halifax Town (38)
+?,(Tue) 17 Sep 1957 (37),Oldham Athletic (28),4-0,?,Hartlepool United (38)
+?,(Tue) 15 Apr 1958 (15),Oldham Athletic (29),1-1,?,Hull City (38)
+?,(Sat) 15 Mar 1958 (10),Oldham Athletic (30),1-1,?,Mansfield Town (38)
+?,(Sat) 26 Apr 1958 (16),Oldham Athletic (31),0-0,?,Rochdale AFC (16)
+?,(Sat) 23 Nov 1957 (46),Oldham Athletic (32),2-1,?,Scunthorpe United (16)
+?,(Sat) 28 Dec 1957 (51),Oldham Athletic (33),3-2,?,Southport FC (16)
+?,(Tue) 3 Sep 1957 (35),Oldham Athletic (34),2-4,?,Stockport County (16)
+?,(Tue) 1 Oct 1957 (39),Oldham Athletic (35),1-0,?,Tranmere Rovers (16)
+?,(Sat) 26 Oct 1957 (42),Oldham Athletic (36),4-1,?,Workington (16)
+?,(Sat) 12 Apr 1958 (14),Oldham Athletic (37),4-1,?,Wrexham AFC (16)
+?,(Sat) 7 Sep 1957 (35),Oldham Athletic (38),2-3,?,York City (16)
+?,(Wed) 28 Aug 1957 (34),Rochdale AFC (17),3-0,?,Accrington Stanley (39)
+?,(Sat) 22 Mar 1958 (11),Rochdale AFC (18),1-1,?,Barrow AFC (39)
+?,(Sat) 11 Jan 1958 (1),Rochdale AFC (19),0-2,?,Bradford City (39)
+?,(Sat) 19 Apr 1958 (15),Rochdale AFC (20),1-2,?,Bradford Park Avenue (39)
+?,(Sat) 5 Oct 1957 (39),Rochdale AFC (21),1-1,?,Bury FC (39)
+?,(Tue) 11 Mar 1958 (10),Rochdale AFC (22),1-0,?,Carlisle United (39)
+?,(Sat) 5 Apr 1958 (13),Rochdale AFC (23),1-1,?,Chester FC (39)
+?,(Sat) 19 Oct 1957 (41),Rochdale AFC (24),3-4,?,Chesterfield FC (39)
+?,(Sat) 4 Jan 1958 (0),Rochdale AFC (25),3-0,?,Crewe Alexandra (39)
+?,(Wed) 11 Sep 1957 (36),Rochdale AFC (26),5-4,?,Darlington FC (39)
+?,(Fri) 4 Apr 1958 (13),Rochdale AFC (27),0-0,?,Gateshead FC (39)
+?,(Sat) 28 Sep 1957 (38),Rochdale AFC (28),5-1,?,Halifax Town (39)
+?,(Sat) 2 Nov 1957 (43),Rochdale AFC (29),7-0,?,Hartlepool United (39)
+?,(Sat) 14 Sep 1957 (36),Rochdale AFC (30),2-1,?,Hull City (39)
+?,(Sat) 21 Dec 1957 (50),Rochdale AFC (31),3-0,?,Mansfield Town (39)
+?,(Sat) 14 Dec 1957 (49),Rochdale AFC (32),1-3,?,Oldham Athletic (39)
+?,(Wed) 25 Sep 1957 (38),Rochdale AFC (33),1-4,?,Scunthorpe United (17)
+?,(Sat) 22 Feb 1958 (7),Rochdale AFC (34),2-0,?,Southport FC (17)
+?,(Sat) 1 Feb 1958 (4),Rochdale AFC (35),3-0,?,Stockport County (17)
+?,(Sat) 8 Mar 1958 (9),Rochdale AFC (36),2-0,?,Tranmere Rovers (17)
+?,(Sat) 31 Aug 1957 (34),Rochdale AFC (37),1-0,?,Workington (17)
+?,(Wed) 25 Dec 1957 (51),Rochdale AFC (38),2-0,?,Wrexham AFC (17)
+?,(Sat) 30 Nov 1957 (47),Rochdale AFC (39),2-1,?,York City (17)
+?,(Sat) 22 Mar 1958 (11),Scunthorpe United (18),1-0,?,Accrington Stanley (40)
+?,(Thu) 17 Apr 1958 (15),Scunthorpe United (19),1-0,?,Barrow AFC (40)
+?,(Sat) 28 Sep 1957 (38),Scunthorpe United (20),0-2,?,Bradford City (40)
+?,(Sat) 19 Oct 1957 (41),Scunthorpe United (21),6-2,?,Bradford Park Avenue (40)
+?,(Sat) 30 Nov 1957 (47),Scunthorpe United (22),1-0,?,Bury FC (40)
+?,(Thu) 1 May 1958 (17),Scunthorpe United (23),3-1,?,Carlisle United (40)
+?,(Sat) 26 Apr 1958 (16),Scunthorpe United (24),2-1,?,Chester FC (40)
+?,(Sat) 21 Dec 1957 (50),Scunthorpe United (25),1-1,?,Chesterfield FC (40)
+?,(Thu) 12 Sep 1957 (36),Scunthorpe United (26),3-2,?,Crewe Alexandra (40)
+?,(Sat) 31 Aug 1957 (34),Scunthorpe United (27),5-0,?,Darlington FC (40)
+?,(Sat) 11 Jan 1958 (1),Scunthorpe United (28),2-1,?,Gateshead FC (40)
+?,(Thu) 31 Oct 1957 (43),Scunthorpe United (29),1-1,?,Halifax Town (40)
+?,(Sat) 5 Apr 1958 (13),Scunthorpe United (30),2-0,?,Hartlepool United (40)
+?,(Thu) 20 Feb 1958 (7),Scunthorpe United (31),2-0,?,Hull City (40)
+?,(Sat) 14 Sep 1957 (36),Scunthorpe United (32),3-3,?,Mansfield Town (40)
+?,(Sat) 22 Feb 1958 (7),Scunthorpe United (33),1-1,?,Oldham Athletic (40)
+?,(Thu) 3 Oct 1957 (39),Scunthorpe United (34),2-0,?,Rochdale AFC (40)
+?,(Sat) 2 Nov 1957 (43),Scunthorpe United (35),1-0,?,Southport FC (18)
+?,(Thu) 13 Mar 1958 (10),Scunthorpe United (36),4-0,?,Stockport County (18)
+?,(Thu) 5 Sep 1957 (35),Scunthorpe United (37),1-0,?,Tranmere Rovers (18)
+?,(Sat) 1 Feb 1958 (4),Scunthorpe United (38),2-2,?,Workington (18)
+?,(Mon) 7 Apr 1958 (14),Scunthorpe United (39),1-0,?,Wrexham AFC (18)
+?,(Sat) 19 Apr 1958 (15),Scunthorpe United (40),1-2,?,York City (18)
+?,(Sat) 14 Sep 1957 (36),Southport FC (19),3-3,?,Accrington Stanley (41)
+?,(Sat) 21 Dec 1957 (50),Southport FC (20),0-4,?,Barrow AFC (41)
+?,(Tue) 10 Sep 1957 (36),Southport FC (21),0-2,?,Bradford City (41)
+?,(Thu) 26 Dec 1957 (51),Southport FC (22),2-1,?,Bradford Park Avenue (41)
+?,(Sat) 11 Jan 1958 (1),Southport FC (23),2-2,?,Bury FC (41)
+?,(Tue) 24 Sep 1957 (38),Southport FC (24),2-0,?,Carlisle United (41)
+?,(Sat) 1 Feb 1958 (4),Southport FC (25),2-4,?,Chester FC (41)
+?,(Sat) 28 Sep 1957 (38),Southport FC (26),5-2,?,Chesterfield FC (41)
+?,(Sat) 29 Mar 1958 (12),Southport FC (27),2-0,?,Crewe Alexandra (41)
+?,(Sat) 26 Oct 1957 (42),Southport FC (28),0-3,?,Darlington FC (41)
+?,(Sat) 1 Mar 1958 (8),Southport FC (29),1-0,?,Gateshead FC (41)
+?,(Sat) 12 Apr 1958 (14),Southport FC (30),0-3,?,Halifax Town (41)
+?,(Sat) 4 Jan 1958 (0),Southport FC (31),0-0,?,Hartlepool United (41)
+?,(Sat) 26 Apr 1958 (16),Southport FC (32),1-2,?,Hull City (41)
+?,(Mon) 31 Mar 1958 (13),Southport FC (33),4-1,?,Mansfield Town (41)
+?,(Sat) 31 Aug 1957 (34),Southport FC (34),2-1,?,Oldham Athletic (41)
+?,(Sat) 23 Nov 1957 (46),Southport FC (35),0-2,?,Rochdale AFC (41)
+?,(Sat) 15 Mar 1958 (10),Southport FC (36),1-2,?,Scunthorpe United (41)
+?,(Sat) 12 Oct 1957 (40),Southport FC (37),1-0,?,Stockport County (19)
+?,(Sat) 15 Feb 1958 (6),Southport FC (38),0-3,?,Tranmere Rovers (19)
+?,(Tue) 27 Aug 1957 (34),Southport FC (39),0-1,?,Workington (19)
+?,(Sat) 9 Nov 1957 (44),Southport FC (40),1-3,?,Wrexham AFC (19)
+?,(Fri) 4 Apr 1958 (13),Southport FC (41),0-1,?,York City (19)
+?,(Sat) 19 Oct 1957 (41),Stockport County (20),0-0,?,Accrington Stanley (42)
+?,(Sat) 7 Sep 1957 (35),Stockport County (21),2-0,?,Barrow AFC (42)
+?,(Sat) 21 Dec 1957 (50),Stockport County (22),0-4,?,Bradford City (42)
+?,(Sat) 22 Feb 1958 (7),Stockport County (23),3-0,?,Bradford Park Avenue (42)
+?,(Sat) 5 Apr 1958 (13),Stockport County (24),4-0,?,Bury FC (42)
+?,(Sat) 30 Nov 1957 (47),Stockport County (25),4-1,?,Carlisle United (42)
+?,(Sat) 8 Mar 1958 (9),Stockport County (26),2-2,?,Chester FC (42)
+?,(Sat) 2 Nov 1957 (43),Stockport County (27),4-1,?,Chesterfield FC (42)
+?,(Sat) 8 Feb 1958 (5),Stockport County (28),5-1,?,Crewe Alexandra (42)
+?,(Wed) 25 Dec 1957 (51),Stockport County (29),4-1,?,Darlington FC (42)
+?,(Mon) 23 Sep 1957 (38),Stockport County (30),5-1,?,Gateshead FC (42)
+?,(Sat) 18 Jan 1958 (2),Stockport County (31),4-2,?,Halifax Town (42)
+?,(Mon) 14 Apr 1958 (15),Stockport County (32),2-1,?,Hartlepool United (42)
+?,(Sat) 31 Aug 1957 (34),Stockport County (33),1-0,?,Hull City (42)
+?,(Mon) 16 Sep 1957 (37),Stockport County (34),3-3,?,Mansfield Town (42)
+?,(Mon) 26 Aug 1957 (34),Stockport County (35),3-0,?,Oldham Athletic (42)
+?,(Sat) 21 Sep 1957 (37),Stockport County (36),0-3,?,Rochdale AFC (42)
+?,(Mon) 21 Apr 1958 (16),Stockport County (37),2-1,?,Scunthorpe United (42)
+?,(Sat) 22 Mar 1958 (11),Stockport County (38),1-2,?,Southport FC (42)
+?,(Sat) 19 Apr 1958 (15),Stockport County (39),2-1,?,Tranmere Rovers (20)
+?,(Fri) 4 Apr 1958 (13),Stockport County (40),0-2,?,Workington (20)
+?,(Sat) 5 Oct 1957 (39),Stockport County (41),1-1,?,Wrexham AFC (20)
+?,(Sat) 14 Dec 1957 (49),Stockport County (42),2-1,?,York City (20)
+?,(Mon) 7 Apr 1958 (14),Tranmere Rovers (21),0-1,?,Accrington Stanley (43)
+?,(Thu) 26 Dec 1957 (51),Tranmere Rovers (22),1-1,?,Barrow AFC (43)
+?,(Sat) 23 Nov 1957 (46),Tranmere Rovers (23),4-1,?,Bradford City (43)
+?,(Sat) 21 Sep 1957 (37),Tranmere Rovers (24),5-0,?,Bradford Park Avenue (43)
+?,(Mon) 9 Sep 1957 (36),Tranmere Rovers (25),1-1,?,Bury FC (43)
+?,(Sat) 8 Feb 1958 (5),Tranmere Rovers (26),0-1,?,Carlisle United (43)
+?,(Sat) 21 Dec 1957 (50),Tranmere Rovers (27),2-2,?,Chester FC (43)
+?,(Sat) 31 Aug 1957 (34),Tranmere Rovers (28),1-2,?,Chesterfield FC (43)
+?,(Sat) 1 Mar 1958 (8),Tranmere Rovers (29),5-2,?,Crewe Alexandra (43)
+?,(Sat) 11 Jan 1958 (1),Tranmere Rovers (30),2-1,?,Darlington FC (43)
+?,(Sat) 26 Apr 1958 (16),Tranmere Rovers (31),2-1,?,Gateshead FC (43)
+?,(Sat) 15 Mar 1958 (10),Tranmere Rovers (32),2-0,?,Halifax Town (43)
+?,(Sat) 18 Jan 1958 (2),Tranmere Rovers (33),3-2,?,Hartlepool United (43)
+?,(Sat) 29 Mar 1958 (12),Tranmere Rovers (34),4-4,?,Hull City (43)
+?,(Sat) 12 Oct 1957 (40),Tranmere Rovers (35),1-2,?,Mansfield Town (43)
+?,(Mon) 23 Sep 1957 (38),Tranmere Rovers (36),1-1,?,Oldham Athletic (43)
+?,(Sat) 26 Oct 1957 (42),Tranmere Rovers (37),3-1,?,Rochdale AFC (43)
+?,(Mon) 26 Aug 1957 (34),Tranmere Rovers (38),1-4,?,Scunthorpe United (43)
+?,(Sat) 5 Oct 1957 (39),Tranmere Rovers (39),2-1,?,Southport FC (43)
+?,(Sat) 9 Nov 1957 (44),Tranmere Rovers (40),2-2,?,Stockport County (43)
+?,(Sat) 12 Apr 1958 (14),Tranmere Rovers (41),1-0,?,Workington (21)
+?,(Wed) 30 Apr 1958 (17),Tranmere Rovers (42),2-1,?,Wrexham AFC (21)
+?,(Wed) 1 Jan 1958 (0),Tranmere Rovers (43),6-1,?,York City (21)
+?,(Sat) 19 Apr 1958 (15),Workington (22),0-1,?,Accrington Stanley (44)
+?,(Sat) 19 Oct 1957 (41),Workington (23),0-1,?,Barrow AFC (44)
+?,(Wed) 25 Sep 1957 (38),Workington (24),1-1,?,Bradford City (44)
+?,(Sat) 14 Dec 1957 (49),Workington (25),1-2,?,Bradford Park Avenue (44)
+?,(Sat) 2 Nov 1957 (43),Workington (26),3-0,?,Bury FC (44)
+?,(Thu) 26 Dec 1957 (51),Workington (27),2-1,?,Carlisle United (44)
+?,(Sat) 25 Jan 1958 (3),Workington (28),5-3,?,Chester FC (44)
+?,(Sat) 22 Feb 1958 (7),Workington (29),0-2,?,Chesterfield FC (44)
+?,(Sat) 7 Sep 1957 (35),Workington (30),3-2,?,Crewe Alexandra (44)
+?,(Sat) 8 Feb 1958 (5),Workington (31),2-2,?,Darlington FC (44)
+?,(Sat) 5 Oct 1957 (39),Workington (32),1-1,?,Gateshead FC (44)
+?,(Sat) 24 Aug 1957 (33),Workington (33),4-4,?,Halifax Town (44)
+?,(Sat) 22 Mar 1958 (11),Workington (34),1-0,?,Hartlepool United (44)
+?,(Wed) 18 Sep 1957 (37),Workington (35),3-2,?,Hull City (44)
+?,(Wed) 23 Apr 1958 (16),Workington (36),4-0,?,Mansfield Town (44)
+?,(Sat) 8 Mar 1958 (9),Workington (37),4-2,?,Oldham Athletic (44)
+?,(Sat) 28 Dec 1957 (51),Workington (38),1-2,?,Rochdale AFC (44)
+?,(Sat) 21 Sep 1957 (37),Workington (39),3-2,?,Scunthorpe United (44)
+?,(Wed) 4 Sep 1957 (35),Workington (40),2-0,?,Southport FC (44)
+?,(Mon) 7 Apr 1958 (14),Workington (41),1-1,?,Stockport County (44)
+?,(Sat) 30 Nov 1957 (47),Workington (42),1-2,?,Tranmere Rovers (44)
+?,(Sat) 18 Jan 1958 (2),Workington (43),4-2,?,Wrexham AFC (22)
+?,(Sat) 5 Apr 1958 (13),Workington (44),0-0,?,York City (22)
+?,(Sat) 26 Apr 1958 (16),Wrexham AFC (23),1-0,?,Accrington Stanley (45)
+?,(Sat) 22 Feb 1958 (7),Wrexham AFC (24),0-0,?,Barrow AFC (45)
+?,(Sat) 1 Feb 1958 (4),Wrexham AFC (25),1-1,?,Bradford City (45)
+?,(Sat) 8 Mar 1958 (9),Wrexham AFC (26),1-1,?,Bradford Park Avenue (45)
+?,(Sat) 22 Mar 1958 (11),Wrexham AFC (27),2-0,?,Bury FC (45)
+?,(Sat) 2 Nov 1957 (43),Wrexham AFC (28),1-0,?,Carlisle United (45)
+?,(Wed) 11 Sep 1957 (36),Wrexham AFC (29),1-0,?,Chester FC (45)
+?,(Wed) 28 Aug 1957 (34),Wrexham AFC (30),2-2,?,Chesterfield FC (45)
+?,(Wed) 25 Sep 1957 (38),Wrexham AFC (31),0-1,?,Crewe Alexandra (45)
+?,(Sat) 21 Dec 1957 (50),Wrexham AFC (32),2-0,?,Darlington FC (45)
+?,(Sat) 31 Aug 1957 (34),Wrexham AFC (33),1-2,?,Gateshead FC (45)
+?,(Sat) 4 Jan 1958 (0),Wrexham AFC (34),2-1,?,Halifax Town (45)
+?,(Sat) 19 Oct 1957 (41),Wrexham AFC (35),3-1,?,Hartlepool United (45)
+?,(Sat) 28 Sep 1957 (38),Wrexham AFC (36),6-0,?,Hull City (45)
+?,(Sat) 11 Jan 1958 (1),Wrexham AFC (37),4-2,?,Mansfield Town (45)
+?,(Sat) 30 Nov 1957 (47),Wrexham AFC (38),2-2,?,Oldham Athletic (45)
+?,(Thu) 26 Dec 1957 (51),Wrexham AFC (39),2-0,?,Rochdale AFC (45)
+?,(Fri) 4 Apr 1958 (13),Wrexham AFC (40),1-0,?,Scunthorpe United (45)
+?,(Sat) 19 Apr 1958 (15),Wrexham AFC (41),1-0,?,Southport FC (45)
+?,(Sat) 15 Feb 1958 (6),Wrexham AFC (42),1-0,?,Stockport County (45)
+?,(Sat) 5 Apr 1958 (13),Wrexham AFC (43),2-2,?,Tranmere Rovers (45)
+?,(Sat) 14 Sep 1957 (36),Wrexham AFC (44),1-1,?,Workington (45)
+?,(Wed) 16 Apr 1958 (15),Wrexham AFC (45),2-2,?,York City (23)
+?,(Sat) 1 Feb 1958 (4),York City (24),0-3,?,Accrington Stanley (46)
+?,(Sat) 31 Aug 1957 (34),York City (25),0-0,?,Barrow AFC (46)
+?,(Mon) 26 Aug 1957 (34),York City (26),2-0,?,Bradford City (46)
+?,(Mon) 30 Sep 1957 (39),York City (27),3-0,?,Bradford Park Avenue (46)
+?,(Sat) 14 Sep 1957 (36),York City (28),2-1,?,Bury FC (46)
+?,(Mon) 16 Sep 1957 (37),York City (29),0-5,?,Carlisle United (46)
+?,(Sat) 28 Sep 1957 (38),York City (30),1-2,?,Chester FC (46)
+?,(Sat) 15 Feb 1958 (6),York City (31),3-3,?,Chesterfield FC (46)
+?,(Sat) 23 Nov 1957 (46),York City (32),3-1,?,Crewe Alexandra (46)
+?,(Thu) 1 May 1958 (17),York City (33),3-0,?,Darlington FC (46)
+?,(Sat) 26 Oct 1957 (42),York City (34),2-2,?,Gateshead FC (46)
+?,(Sat) 12 Oct 1957 (40),York City (35),1-1,?,Halifax Town (46)
+?,(Thu) 26 Dec 1957 (51),York City (36),2-2,?,Hartlepool United (46)
+?,(Sat) 21 Dec 1957 (50),York City (37),3-1,?,Hull City (46)
+?,(Sat) 1 Mar 1958 (8),York City (38),3-1,?,Mansfield Town (46)
+?,(Sat) 11 Jan 1958 (1),York City (39),2-2,?,Oldham Athletic (46)
+?,(Sat) 12 Apr 1958 (14),York City (40),1-0,?,Rochdale AFC (46)
+?,(Sat) 9 Nov 1957 (44),York City (41),0-0,?,Scunthorpe United (46)
+?,(Mon) 7 Apr 1958 (14),York City (42),1-0,?,Southport FC (46)
+?,(Sat) 26 Apr 1958 (16),York City (43),0-0,?,Stockport County (46)
+?,(Wed) 23 Apr 1958 (16),York City (44),4-0,?,Tranmere Rovers (46)
+?,(Mon) 28 Apr 1958 (17),York City (45),3-0,?,Workington (46)
+?,(Sat) 29 Mar 1958 (12),York City (46),1-2,?,Wrexham AFC (46)

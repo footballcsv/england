@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aston Villa,Arsenal,0-0,-
--,-,Birmingham City,Arsenal,4-2,-
--,-,Blackpool,Arsenal,2-4,-
--,-,Bolton Wanderers,Arsenal,2-1,-
--,-,Burnley,Arsenal,3-1,-
--,-,Cardiff City,Arsenal,2-3,-
--,-,Charlton Athletic,Arsenal,1-3,-
--,-,Chelsea,Arsenal,1-1,-
--,-,Everton,Arsenal,4-0,-
--,-,Leeds United,Arsenal,3-3,-
--,-,Luton Town,Arsenal,1-2,-
--,-,Manchester City,Arsenal,2-3,-
--,-,Manchester United,Arsenal,6-2,-
--,-,Newcastle United,Arsenal,3-1,-
--,-,Portsmouth,Arsenal,2-3,-
--,-,Preston North End,Arsenal,3-0,-
--,-,Sheffield Wednesday,Arsenal,2-4,-
--,-,Sunderland,Arsenal,1-0,-
--,-,Tottenham Hotspur,Arsenal,1-3,-
--,-,West Bromwich Albion,Arsenal,0-2,-
--,-,Wolverhampton Wanderers,Arsenal,5-2,-
--,-,Arsenal,Aston Villa,2-1,-
--,-,Birmingham City,Aston Villa,1-2,-
--,-,Blackpool,Aston Villa,0-0,-
--,-,Bolton Wanderers,Aston Villa,0-0,-
--,-,Burnley,Aston Villa,2-1,-
--,-,Cardiff City,Aston Villa,1-0,-
--,-,Charlton Athletic,Aston Villa,0-2,-
--,-,Chelsea,Aston Villa,1-1,-
--,-,Everton,Aston Villa,0-4,-
--,-,Leeds United,Aston Villa,1-0,-
--,-,Luton Town,Aston Villa,0-0,-
--,-,Manchester City,Aston Villa,1-1,-
--,-,Manchester United,Aston Villa,1-1,-
--,-,Newcastle United,Aston Villa,1-2,-
--,-,Portsmouth,Aston Villa,5-1,-
--,-,Preston North End,Aston Villa,3-3,-
--,-,Sheffield Wednesday,Aston Villa,2-1,-
--,-,Sunderland,Aston Villa,1-0,-
--,-,Tottenham Hotspur,Aston Villa,3-0,-
--,-,West Bromwich Albion,Aston Villa,2-0,-
--,-,Wolverhampton Wanderers,Aston Villa,3-0,-
--,-,Arsenal,Birmingham City,4-0,-
--,-,Aston Villa,Birmingham City,3-1,-
--,-,Blackpool,Birmingham City,3-1,-
--,-,Bolton Wanderers,Birmingham City,3-1,-
--,-,Burnley,Birmingham City,2-0,-
--,-,Cardiff City,Birmingham City,1-2,-
--,-,Charlton Athletic,Birmingham City,1-0,-
--,-,Chelsea,Birmingham City,1-0,-
--,-,Everton,Birmingham City,2-0,-
--,-,Leeds United,Birmingham City,1-1,-
--,-,Luton Town,Birmingham City,0-0,-
--,-,Manchester City,Birmingham City,3-1,-
--,-,Manchester United,Birmingham City,2-2,-
--,-,Newcastle United,Birmingham City,3-2,-
--,-,Portsmouth,Birmingham City,3-4,-
--,-,Preston North End,Birmingham City,1-0,-
--,-,Sheffield Wednesday,Birmingham City,3-0,-
--,-,Sunderland,Birmingham City,0-1,-
--,-,Tottenham Hotspur,Birmingham City,5-1,-
--,-,West Bromwich Albion,Birmingham City,0-0,-
--,-,Wolverhampton Wanderers,Birmingham City,3-0,-
--,-,Arsenal,Blackpool,1-1,-
--,-,Aston Villa,Blackpool,3-2,-
--,-,Birmingham City,Blackpool,2-2,-
--,-,Bolton Wanderers,Blackpool,4-1,-
--,-,Burnley,Blackpool,2-2,-
--,-,Cardiff City,Blackpool,3-4,-
--,-,Charlton Athletic,Blackpool,0-4,-
--,-,Chelsea,Blackpool,2-2,-
--,-,Everton,Blackpool,2-3,-
--,-,Leeds United,Blackpool,5-0,-
--,-,Luton Town,Blackpool,0-2,-
--,-,Manchester City,Blackpool,0-3,-
--,-,Manchester United,Blackpool,0-2,-
--,-,Newcastle United,Blackpool,2-1,-
--,-,Portsmouth,Blackpool,0-0,-
--,-,Preston North End,Blackpool,0-0,-
--,-,Sheffield Wednesday,Blackpool,1-2,-
--,-,Sunderland,Blackpool,5-2,-
--,-,Tottenham Hotspur,Blackpool,2-1,-
--,-,West Bromwich Albion,Blackpool,1-3,-
--,-,Wolverhampton Wanderers,Blackpool,4-1,-
--,-,Arsenal,Bolton Wanderers,3-0,-
--,-,Aston Villa,Bolton Wanderers,0-0,-
--,-,Birmingham City,Bolton Wanderers,0-0,-
--,-,Blackpool,Bolton Wanderers,4-2,-
--,-,Burnley,Bolton Wanderers,1-0,-
--,-,Cardiff City,Bolton Wanderers,2-0,-
--,-,Charlton Athletic,Bolton Wanderers,2-1,-
--,-,Chelsea,Bolton Wanderers,2-2,-
--,-,Everton,Bolton Wanderers,2-2,-
--,-,Leeds United,Bolton Wanderers,3-2,-
--,-,Luton Town,Bolton Wanderers,1-0,-
--,-,Manchester City,Bolton Wanderers,1-3,-
--,-,Manchester United,Bolton Wanderers,0-2,-
--,-,Newcastle United,Bolton Wanderers,4-0,-
--,-,Portsmouth,Bolton Wanderers,1-1,-
--,-,Preston North End,Bolton Wanderers,2-2,-
--,-,Sheffield Wednesday,Bolton Wanderers,1-2,-
--,-,Sunderland,Bolton Wanderers,3-0,-
--,-,Tottenham Hotspur,Bolton Wanderers,4-0,-
--,-,West Bromwich Albion,Bolton Wanderers,3-2,-
--,-,Wolverhampton Wanderers,Bolton Wanderers,3-2,-
--,-,Arsenal,Burnley,2-0,-
--,-,Aston Villa,Burnley,1-0,-
--,-,Birmingham City,Burnley,2-0,-
--,-,Blackpool,Burnley,1-0,-
--,-,Bolton Wanderers,Burnley,3-0,-
--,-,Cardiff City,Burnley,3-3,-
--,-,Charlton Athletic,Burnley,1-2,-
--,-,Chelsea,Burnley,2-0,-
--,-,Everton,Burnley,1-0,-
--,-,Leeds United,Burnley,1-1,-
--,-,Luton Town,Burnley,0-2,-
--,-,Manchester City,Burnley,0-1,-
--,-,Manchester United,Burnley,2-0,-
--,-,Newcastle United,Burnley,1-1,-
--,-,Portsmouth,Burnley,1-0,-
--,-,Preston North End,Burnley,1-0,-
--,-,Sheffield Wednesday,Burnley,0-0,-
--,-,Sunderland,Burnley,2-1,-
--,-,Tottenham Hotspur,Burnley,2-0,-
--,-,West Bromwich Albion,Burnley,2-2,-
--,-,Wolverhampton Wanderers,Burnley,1-2,-
--,-,Arsenal,Cardiff City,0-0,-
--,-,Aston Villa,Cardiff City,4-1,-
--,-,Birmingham City,Cardiff City,2-1,-
--,-,Blackpool,Cardiff City,3-1,-
--,-,Bolton Wanderers,Cardiff City,2-0,-
--,-,Burnley,Cardiff City,6-2,-
--,-,Charlton Athletic,Cardiff City,0-2,-
--,-,Chelsea,Cardiff City,1-2,-
--,-,Everton,Cardiff City,0-0,-
--,-,Leeds United,Cardiff City,3-0,-
--,-,Luton Town,Cardiff City,3-0,-
--,-,Manchester City,Cardiff City,4-1,-
--,-,Manchester United,Cardiff City,3-1,-
--,-,Newcastle United,Cardiff City,1-0,-
--,-,Portsmouth,Cardiff City,1-0,-
--,-,Preston North End,Cardiff City,6-0,-
--,-,Sheffield Wednesday,Cardiff City,5-3,-
--,-,Sunderland,Cardiff City,1-1,-
--,-,Tottenham Hotspur,Cardiff City,5-0,-
--,-,West Bromwich Albion,Cardiff City,1-2,-
--,-,Wolverhampton Wanderers,Cardiff City,3-1,-
--,-,Arsenal,Charlton Athletic,3-1,-
--,-,Aston Villa,Charlton Athletic,3-1,-
--,-,Birmingham City,Charlton Athletic,4-2,-
--,-,Blackpool,Charlton Athletic,3-2,-
--,-,Bolton Wanderers,Charlton Athletic,2-0,-
--,-,Burnley,Charlton Athletic,2-1,-
--,-,Cardiff City,Charlton Athletic,2-3,-
--,-,Chelsea,Charlton Athletic,1-3,-
--,-,Everton,Charlton Athletic,5-0,-
--,-,Leeds United,Charlton Athletic,4-0,-
--,-,Luton Town,Charlton Athletic,4-2,-
--,-,Manchester City,Charlton Athletic,5-1,-
--,-,Manchester United,Charlton Athletic,4-2,-
--,-,Newcastle United,Charlton Athletic,3-1,-
--,-,Portsmouth,Charlton Athletic,1-0,-
--,-,Preston North End,Charlton Athletic,4-3,-
--,-,Sheffield Wednesday,Charlton Athletic,3-1,-
--,-,Sunderland,Charlton Athletic,8-1,-
--,-,Tottenham Hotspur,Charlton Athletic,6-2,-
--,-,West Bromwich Albion,Charlton Athletic,2-2,-
--,-,Wolverhampton Wanderers,Charlton Athletic,7-3,-
--,-,Arsenal,Chelsea,2-0,-
--,-,Aston Villa,Chelsea,1-1,-
--,-,Birmingham City,Chelsea,0-1,-
--,-,Blackpool,Chelsea,1-0,-
--,-,Bolton Wanderers,Chelsea,2-2,-
--,-,Burnley,Chelsea,2-0,-
--,-,Cardiff City,Chelsea,1-1,-
--,-,Charlton Athletic,Chelsea,3-1,-
--,-,Everton,Chelsea,0-3,-
--,-,Leeds United,Chelsea,0-0,-
--,-,Luton Town,Chelsea,0-4,-
--,-,Manchester City,Chelsea,5-4,-
--,-,Manchester United,Chelsea,3-0,-
--,-,Newcastle United,Chelsea,1-2,-
--,-,Portsmouth,Chelsea,2-2,-
--,-,Preston North End,Chelsea,1-0,-
--,-,Sheffield Wednesday,Chelsea,4-0,-
--,-,Sunderland,Chelsea,1-3,-
--,-,Tottenham Hotspur,Chelsea,3-4,-
--,-,West Bromwich Albion,Chelsea,2-1,-
--,-,Wolverhampton Wanderers,Chelsea,3-1,-
--,-,Arsenal,Everton,2-0,-
--,-,Aston Villa,Everton,5-1,-
--,-,Birmingham City,Everton,1-3,-
--,-,Blackpool,Everton,5-2,-
--,-,Bolton Wanderers,Everton,1-1,-
--,-,Burnley,Everton,2-1,-
--,-,Cardiff City,Everton,1-0,-
--,-,Charlton Athletic,Everton,1-2,-
--,-,Chelsea,Everton,5-1,-
--,-,Leeds United,Everton,5-1,-
--,-,Luton Town,Everton,2-0,-
--,-,Manchester City,Everton,2-4,-
--,-,Manchester United,Everton,2-5,-
--,-,Newcastle United,Everton,0-0,-
--,-,Portsmouth,Everton,3-2,-
--,-,Preston North End,Everton,0-0,-
--,-,Sheffield Wednesday,Everton,2-2,-
--,-,Sunderland,Everton,1-1,-
--,-,Tottenham Hotspur,Everton,6-0,-
--,-,West Bromwich Albion,Everton,3-0,-
--,-,Wolverhampton Wanderers,Everton,2-1,-
--,-,Arsenal,Leeds United,1-0,-
--,-,Aston Villa,Leeds United,1-1,-
--,-,Birmingham City,Leeds United,6-2,-
--,-,Blackpool,Leeds United,1-1,-
--,-,Bolton Wanderers,Leeds United,5-3,-
--,-,Burnley,Leeds United,0-0,-
--,-,Cardiff City,Leeds United,4-1,-
--,-,Charlton Athletic,Leeds United,1-2,-
--,-,Chelsea,Leeds United,1-1,-
--,-,Everton,Leeds United,2-1,-
--,-,Luton Town,Leeds United,2-2,-
--,-,Manchester City,Leeds United,1-0,-
--,-,Manchester United,Leeds United,3-2,-
--,-,Newcastle United,Leeds United,2-3,-
--,-,Portsmouth,Leeds United,2-5,-
--,-,Preston North End,Leeds United,3-0,-
--,-,Sheffield Wednesday,Leeds United,2-3,-
--,-,Sunderland,Leeds United,2-0,-
--,-,Tottenham Hotspur,Leeds United,5-1,-
--,-,West Bromwich Albion,Leeds United,0-0,-
--,-,Wolverhampton Wanderers,Leeds United,1-2,-
--,-,Arsenal,Luton Town,1-3,-
--,-,Aston Villa,Luton Town,1-3,-
--,-,Birmingham City,Luton Town,3-0,-
--,-,Blackpool,Luton Town,4-0,-
--,-,Bolton Wanderers,Luton Town,2-2,-
--,-,Burnley,Luton Town,1-1,-
--,-,Cardiff City,Luton Town,0-0,-
--,-,Charlton Athletic,Luton Town,1-2,-
--,-,Chelsea,Luton Town,4-1,-
--,-,Everton,Luton Town,2-1,-
--,-,Leeds United,Luton Town,1-2,-
--,-,Manchester City,Luton Town,3-2,-
--,-,Manchester United,Luton Town,3-1,-
--,-,Newcastle United,Luton Town,2-2,-
--,-,Portsmouth,Luton Town,2-2,-
--,-,Preston North End,Luton Town,2-0,-
--,-,Sheffield Wednesday,Luton Town,3-0,-
--,-,Sunderland,Luton Town,1-0,-
--,-,Tottenham Hotspur,Luton Town,5-0,-
--,-,West Bromwich Albion,Luton Town,4-0,-
--,-,Wolverhampton Wanderers,Luton Town,5-4,-
--,-,Arsenal,Manchester City,7-3,-
--,-,Aston Villa,Manchester City,2-2,-
--,-,Birmingham City,Manchester City,3-3,-
--,-,Blackpool,Manchester City,4-1,-
--,-,Bolton Wanderers,Manchester City,1-0,-
--,-,Burnley,Manchester City,0-3,-
--,-,Cardiff City,Manchester City,1-1,-
--,-,Charlton Athletic,Manchester City,1-0,-
--,-,Chelsea,Manchester City,4-2,-
--,-,Everton,Manchester City,1-1,-
--,-,Leeds United,Manchester City,2-0,-
--,-,Luton Town,Manchester City,3-2,-
--,-,Manchester United,Manchester City,2-0,-
--,-,Newcastle United,Manchester City,0-3,-
--,-,Portsmouth,Manchester City,0-1,-
--,-,Preston North End,Manchester City,3-1,-
--,-,Sheffield Wednesday,Manchester City,2-2,-
--,-,Sunderland,Manchester City,1-1,-
--,-,Tottenham Hotspur,Manchester City,3-2,-
--,-,West Bromwich Albion,Manchester City,1-1,-
--,-,Wolverhampton Wanderers,Manchester City,5-1,-
--,-,Arsenal,Manchester United,1-2,-
--,-,Aston Villa,Manchester United,1-3,-
--,-,Birmingham City,Manchester United,3-1,-
--,-,Blackpool,Manchester United,2-2,-
--,-,Bolton Wanderers,Manchester United,2-0,-
--,-,Burnley,Manchester United,1-3,-
--,-,Cardiff City,Manchester United,2-3,-
--,-,Charlton Athletic,Manchester United,1-5,-
--,-,Chelsea,Manchester United,1-2,-
--,-,Everton,Manchester United,1-2,-
--,-,Leeds United,Manchester United,1-2,-
--,-,Luton Town,Manchester United,0-2,-
--,-,Manchester City,Manchester United,2-4,-
--,-,Newcastle United,Manchester United,1-1,-
--,-,Portsmouth,Manchester United,1-3,-
--,-,Preston North End,Manchester United,1-3,-
--,-,Sheffield Wednesday,Manchester United,2-1,-
--,-,Sunderland,Manchester United,1-3,-
--,-,Tottenham Hotspur,Manchester United,2-2,-
--,-,West Bromwich Albion,Manchester United,2-3,-
--,-,Wolverhampton Wanderers,Manchester United,1-1,-
--,-,Arsenal,Newcastle United,0-1,-
--,-,Aston Villa,Newcastle United,3-1,-
--,-,Birmingham City,Newcastle United,6-1,-
--,-,Blackpool,Newcastle United,2-3,-
--,-,Bolton Wanderers,Newcastle United,3-1,-
--,-,Burnley,Newcastle United,3-2,-
--,-,Cardiff City,Newcastle United,5-2,-
--,-,Charlton Athletic,Newcastle United,1-1,-
--,-,Chelsea,Newcastle United,6-2,-
--,-,Everton,Newcastle United,2-1,-
--,-,Leeds United,Newcastle United,0-0,-
--,-,Luton Town,Newcastle United,4-1,-
--,-,Manchester City,Newcastle United,1-2,-
--,-,Manchester United,Newcastle United,6-1,-
--,-,Portsmouth,Newcastle United,2-2,-
--,-,Preston North End,Newcastle United,1-0,-
--,-,Sheffield Wednesday,Newcastle United,4-0,-
--,-,Sunderland,Newcastle United,1-2,-
--,-,Tottenham Hotspur,Newcastle United,3-1,-
--,-,West Bromwich Albion,Newcastle United,1-0,-
--,-,Wolverhampton Wanderers,Newcastle United,2-0,-
--,-,Arsenal,Portsmouth,1-1,-
--,-,Aston Villa,Portsmouth,2-2,-
--,-,Birmingham City,Portsmouth,3-1,-
--,-,Blackpool,Portsmouth,5-0,-
--,-,Bolton Wanderers,Portsmouth,1-1,-
--,-,Burnley,Portsmouth,1-1,-
--,-,Cardiff City,Portsmouth,0-2,-
--,-,Charlton Athletic,Portsmouth,1-3,-
--,-,Chelsea,Portsmouth,3-3,-
--,-,Everton,Portsmouth,2-2,-
--,-,Leeds United,Portsmouth,4-1,-
--,-,Luton Town,Portsmouth,1-0,-
--,-,Manchester City,Portsmouth,5-1,-
--,-,Manchester United,Portsmouth,3-0,-
--,-,Newcastle United,Portsmouth,2-1,-
--,-,Preston North End,Portsmouth,7-1,-
--,-,Sheffield Wednesday,Portsmouth,3-1,-
--,-,Sunderland,Portsmouth,3-3,-
--,-,Tottenham Hotspur,Portsmouth,2-0,-
--,-,West Bromwich Albion,Portsmouth,2-1,-
--,-,Wolverhampton Wanderers,Portsmouth,6-0,-
--,-,Arsenal,Preston North End,1-2,-
--,-,Aston Villa,Preston North End,2-0,-
--,-,Birmingham City,Preston North End,3-0,-
--,-,Blackpool,Preston North End,4-0,-
--,-,Bolton Wanderers,Preston North End,2-3,-
--,-,Burnley,Preston North End,2-2,-
--,-,Cardiff City,Preston North End,2-3,-
--,-,Charlton Athletic,Preston North End,3-4,-
--,-,Chelsea,Preston North End,1-0,-
--,-,Everton,Preston North End,1-4,-
--,-,Leeds United,Preston North End,1-2,-
--,-,Luton Town,Preston North End,1-1,-
--,-,Manchester City,Preston North End,0-2,-
--,-,Manchester United,Preston North End,3-2,-
--,-,Newcastle United,Preston North End,1-2,-
--,-,Portsmouth,Preston North End,2-2,-
--,-,Sheffield Wednesday,Preston North End,3-1,-
--,-,Sunderland,Preston North End,0-0,-
--,-,Tottenham Hotspur,Preston North End,1-1,-
--,-,West Bromwich Albion,Preston North End,0-0,-
--,-,Wolverhampton Wanderers,Preston North End,4-3,-
--,-,Arsenal,Sheffield Wednesday,6-3,-
--,-,Aston Villa,Sheffield Wednesday,5-0,-
--,-,Birmingham City,Sheffield Wednesday,4-0,-
--,-,Blackpool,Sheffield Wednesday,3-1,-
--,-,Bolton Wanderers,Sheffield Wednesday,3-2,-
--,-,Burnley,Sheffield Wednesday,4-1,-
--,-,Cardiff City,Sheffield Wednesday,2-1,-
--,-,Charlton Athletic,Sheffield Wednesday,4-4,-
--,-,Chelsea,Sheffield Wednesday,0-0,-
--,-,Everton,Sheffield Wednesday,1-0,-
--,-,Leeds United,Sheffield Wednesday,3-1,-
--,-,Luton Town,Sheffield Wednesday,2-0,-
--,-,Manchester City,Sheffield Wednesday,4-2,-
--,-,Manchester United,Sheffield Wednesday,4-1,-
--,-,Newcastle United,Sheffield Wednesday,1-2,-
--,-,Portsmouth,Sheffield Wednesday,3-1,-
--,-,Preston North End,Sheffield Wednesday,1-0,-
--,-,Sunderland,Sheffield Wednesday,5-2,-
--,-,Tottenham Hotspur,Sheffield Wednesday,1-1,-
--,-,West Bromwich Albion,Sheffield Wednesday,1-4,-
--,-,Wolverhampton Wanderers,Sheffield Wednesday,2-1,-
--,-,Arsenal,Sunderland,1-1,-
--,-,Aston Villa,Sunderland,2-2,-
--,-,Birmingham City,Sunderland,1-2,-
--,-,Blackpool,Sunderland,1-2,-
--,-,Bolton Wanderers,Sunderland,2-1,-
--,-,Burnley,Sunderland,2-0,-
--,-,Cardiff City,Sunderland,1-0,-
--,-,Charlton Athletic,Sunderland,3-2,-
--,-,Chelsea,Sunderland,0-2,-
--,-,Everton,Sunderland,2-1,-
--,-,Leeds United,Sunderland,3-1,-
--,-,Luton Town,Sunderland,6-2,-
--,-,Manchester City,Sunderland,3-1,-
--,-,Manchester United,Sunderland,4-0,-
--,-,Newcastle United,Sunderland,6-2,-
--,-,Portsmouth,Sunderland,3-2,-
--,-,Preston North End,Sunderland,6-0,-
--,-,Sheffield Wednesday,Sunderland,3-2,-
--,-,Tottenham Hotspur,Sunderland,5-2,-
--,-,West Bromwich Albion,Sunderland,2-0,-
--,-,Wolverhampton Wanderers,Sunderland,2-2,-
--,-,Arsenal,Tottenham Hotspur,3-1,-
--,-,Aston Villa,Tottenham Hotspur,2-4,-
--,-,Birmingham City,Tottenham Hotspur,0-0,-
--,-,Blackpool,Tottenham Hotspur,4-1,-
--,-,Bolton Wanderers,Tottenham Hotspur,1-0,-
--,-,Burnley,Tottenham Hotspur,1-0,-
--,-,Cardiff City,Tottenham Hotspur,0-3,-
--,-,Charlton Athletic,Tottenham Hotspur,1-1,-
--,-,Chelsea,Tottenham Hotspur,2-4,-
--,-,Everton,Tottenham Hotspur,1-1,-
--,-,Leeds United,Tottenham Hotspur,1-1,-
--,-,Luton Town,Tottenham Hotspur,1-3,-
--,-,Manchester City,Tottenham Hotspur,2-2,-
--,-,Manchester United,Tottenham Hotspur,0-0,-
--,-,Newcastle United,Tottenham Hotspur,2-2,-
--,-,Portsmouth,Tottenham Hotspur,2-3,-
--,-,Preston North End,Tottenham Hotspur,1-4,-
--,-,Sheffield Wednesday,Tottenham Hotspur,4-1,-
--,-,Sunderland,Tottenham Hotspur,0-2,-
--,-,West Bromwich Albion,Tottenham Hotspur,1-1,-
--,-,Wolverhampton Wanderers,Tottenham Hotspur,3-0,-
--,-,Arsenal,West Bromwich Albion,4-1,-
--,-,Aston Villa,West Bromwich Albion,0-0,-
--,-,Birmingham City,West Bromwich Albion,2-0,-
--,-,Blackpool,West Bromwich Albion,0-1,-
--,-,Bolton Wanderers,West Bromwich Albion,1-1,-
--,-,Burnley,West Bromwich Albion,1-0,-
--,-,Cardiff City,West Bromwich Albion,0-0,-
--,-,Charlton Athletic,West Bromwich Albion,3-2,-
--,-,Chelsea,West Bromwich Albion,2-4,-
--,-,Everton,West Bromwich Albion,0-1,-
--,-,Leeds United,West Bromwich Albion,0-0,-
--,-,Luton Town,West Bromwich Albion,0-1,-
--,-,Manchester City,West Bromwich Albion,2-1,-
--,-,Manchester United,West Bromwich Albion,1-1,-
--,-,Newcastle United,West Bromwich Albion,5-2,-
--,-,Portsmouth,West Bromwich Albion,0-1,-
--,-,Preston North End,West Bromwich Albion,3-2,-
--,-,Sheffield Wednesday,West Bromwich Albion,4-2,-
--,-,Sunderland,West Bromwich Albion,1-4,-
--,-,Tottenham Hotspur,West Bromwich Albion,2-2,-
--,-,Wolverhampton Wanderers,West Bromwich Albion,5-2,-
--,-,Arsenal,Wolverhampton Wanderers,0-0,-
--,-,Aston Villa,Wolverhampton Wanderers,4-0,-
--,-,Birmingham City,Wolverhampton Wanderers,2-2,-
--,-,Blackpool,Wolverhampton Wanderers,3-2,-
--,-,Bolton Wanderers,Wolverhampton Wanderers,0-3,-
--,-,Burnley,Wolverhampton Wanderers,3-0,-
--,-,Cardiff City,Wolverhampton Wanderers,2-2,-
--,-,Charlton Athletic,Wolverhampton Wanderers,2-1,-
--,-,Chelsea,Wolverhampton Wanderers,3-3,-
--,-,Everton,Wolverhampton Wanderers,3-1,-
--,-,Leeds United,Wolverhampton Wanderers,0-0,-
--,-,Luton Town,Wolverhampton Wanderers,1-0,-
--,-,Manchester City,Wolverhampton Wanderers,2-3,-
--,-,Manchester United,Wolverhampton Wanderers,3-0,-
--,-,Newcastle United,Wolverhampton Wanderers,2-1,-
--,-,Portsmouth,Wolverhampton Wanderers,1-0,-
--,-,Preston North End,Wolverhampton Wanderers,1-0,-
--,-,Sheffield Wednesday,Wolverhampton Wanderers,2-1,-
--,-,Sunderland,Wolverhampton Wanderers,2-3,-
--,-,Tottenham Hotspur,Wolverhampton Wanderers,4-1,-
--,-,West Bromwich Albion,Wolverhampton Wanderers,1-1,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 3 Nov 1956 (44),Arsenal FC (1),2-1,?,Aston Villa FC (1)
+?,(Sat) 22 Dec 1956 (51),Arsenal FC (2),4-0,?,Birmingham City (1)
+?,(Fri) 19 Apr 1957 (15),Arsenal FC (3),1-1,?,Blackpool FC (1)
+?,(Sat) 17 Nov 1956 (46),Arsenal FC (4),3-0,?,Bolton Wanderers (1)
+?,(Tue) 21 Aug 1956 (34),Arsenal FC (5),2-0,?,Burnley FC (1)
+?,(Sat) 18 Aug 1956 (33),Arsenal FC (6),0-0,?,Cardiff City (1)
+?,(Sat) 20 Apr 1957 (15),Arsenal FC (7),3-1,?,Charlton Athletic (1)
+?,(Wed) 26 Dec 1956 (52),Arsenal FC (8),2-0,?,Chelsea FC (1)
+?,(Sat) 23 Feb 1957 (7),Arsenal FC (9),2-0,?,Everton FC (1)
+?,(Sat) 6 Apr 1957 (13),Arsenal FC (10),1-0,?,Leeds United (1)
+?,(Sat) 9 Mar 1957 (9),Arsenal FC (11),1-3,?,Luton Town (1)
+?,(Sat) 6 Oct 1956 (40),Arsenal FC (12),7-3,?,Manchester City (1)
+?,(Sat) 29 Sep 1956 (39),Arsenal FC (13),1-2,?,Manchester United (1)
+?,(Sat) 15 Sep 1956 (37),Arsenal FC (14),0-1,?,Newcastle United (1)
+?,(Sat) 12 Jan 1957 (1),Arsenal FC (15),1-1,?,Portsmouth FC (1)
+?,(Tue) 4 Sep 1956 (36),Arsenal FC (16),1-2,?,Preston North End (1)
+?,(Sat) 2 Feb 1957 (4),Arsenal FC (17),6-3,?,Sheffield Wednesday (1)
+?,(Sat) 1 Dec 1956 (48),Arsenal FC (18),1-1,?,Sunderland AFC (1)
+?,(Sat) 20 Oct 1956 (42),Arsenal FC (19),3-1,?,Tottenham Hotspur (1)
+?,(Sat) 1 Sep 1956 (35),Arsenal FC (20),4-1,?,West Bromwich Albion (1)
+?,(Sat) 23 Mar 1957 (11),Arsenal FC (21),0-0,?,Wolverhampton Wanderers (1)
+?,(Sat) 16 Mar 1957 (10),Aston Villa FC (2),0-0,?,Arsenal FC (22)
+?,(Sat) 27 Oct 1956 (43),Aston Villa FC (3),3-1,?,Birmingham City (2)
+?,(Sat) 1 Sep 1956 (35),Aston Villa FC (4),3-2,?,Blackpool FC (2)
+?,(Sat) 29 Sep 1956 (39),Aston Villa FC (5),0-0,?,Bolton Wanderers (2)
+?,(Sat) 10 Nov 1956 (45),Aston Villa FC (6),1-0,?,Burnley FC (2)
+?,(Wed) 13 Mar 1957 (10),Aston Villa FC (7),4-1,?,Cardiff City (2)
+?,(Sat) 18 Aug 1956 (33),Aston Villa FC (8),3-1,?,Charlton Athletic (2)
+?,(Sat) 24 Nov 1956 (47),Aston Villa FC (9),1-1,?,Chelsea FC (2)
+?,(Sat) 12 Jan 1957 (1),Aston Villa FC (10),5-1,?,Everton FC (2)
+?,(Sat) 2 Feb 1957 (4),Aston Villa FC (11),1-1,?,Leeds United (2)
+?,(Sat) 27 Apr 1957 (16),Aston Villa FC (12),1-3,?,Luton Town (2)
+?,(Mon) 4 Feb 1957 (5),Aston Villa FC (13),2-2,?,Manchester City (2)
+?,(Sat) 8 Dec 1956 (49),Aston Villa FC (14),1-3,?,Manchester United (2)
+?,(Sat) 13 Oct 1956 (41),Aston Villa FC (15),3-1,?,Newcastle United (2)
+?,(Mon) 18 Feb 1957 (7),Aston Villa FC (16),2-2,?,Portsmouth FC (2)
+?,(Sat) 30 Mar 1957 (12),Aston Villa FC (17),2-0,?,Preston North End (2)
+?,(Sat) 13 Apr 1957 (14),Aston Villa FC (18),5-0,?,Sheffield Wednesday (2)
+?,(Mon) 8 Apr 1957 (14),Aston Villa FC (19),2-2,?,Sunderland AFC (2)
+?,(Sat) 15 Sep 1956 (37),Aston Villa FC (20),2-4,?,Tottenham Hotspur (2)
+?,(Mon) 27 Aug 1956 (35),Aston Villa FC (21),0-0,?,West Bromwich Albion (2)
+?,(Mon) 22 Apr 1957 (16),Aston Villa FC (22),4-0,?,Wolverhampton Wanderers (2)
+?,(Sat) 25 Aug 1956 (34),Birmingham City (3),4-2,?,Arsenal FC (23)
+?,(Wed) 10 Apr 1957 (14),Birmingham City (4),1-2,?,Aston Villa FC (23)
+?,(Sat) 3 Nov 1956 (44),Birmingham City (5),2-2,?,Blackpool FC (3)
+?,(Sat) 6 Oct 1956 (40),Birmingham City (6),0-0,?,Bolton Wanderers (3)
+?,(Sat) 29 Dec 1956 (52),Birmingham City (7),2-0,?,Burnley FC (3)
+?,(Sat) 22 Sep 1956 (38),Birmingham City (8),2-1,?,Cardiff City (3)
+?,(Sat) 17 Nov 1956 (46),Birmingham City (9),4-2,?,Charlton Athletic (3)
+?,(Sat) 19 Jan 1957 (2),Birmingham City (10),0-1,?,Chelsea FC (3)
+?,(Sat) 9 Mar 1957 (9),Birmingham City (11),1-3,?,Everton FC (3)
+?,(Sat) 20 Apr 1957 (15),Birmingham City (12),6-2,?,Leeds United (3)
+?,(Sat) 20 Oct 1956 (42),Birmingham City (13),3-0,?,Luton Town (3)
+?,(Sat) 27 Apr 1957 (16),Birmingham City (14),3-3,?,Manchester City (3)
+?,(Sat) 15 Dec 1956 (50),Birmingham City (15),3-1,?,Manchester United (3)
+?,(Wed) 5 Sep 1956 (36),Birmingham City (16),6-1,?,Newcastle United (3)
+?,(Wed) 22 Aug 1956 (34),Birmingham City (17),3-1,?,Portsmouth FC (3)
+?,(Sat) 8 Sep 1956 (36),Birmingham City (18),3-0,?,Preston North End (3)
+?,(Tue) 25 Dec 1956 (52),Birmingham City (19),4-0,?,Sheffield Wednesday (3)
+?,(Sat) 6 Apr 1957 (13),Birmingham City (20),1-2,?,Sunderland AFC (3)
+?,(Sat) 1 Dec 1956 (48),Birmingham City (21),0-0,?,Tottenham Hotspur (3)
+?,(Tue) 23 Apr 1957 (16),Birmingham City (22),2-0,?,West Bromwich Albion (3)
+?,(Sat) 9 Feb 1957 (5),Birmingham City (23),2-2,?,Wolverhampton Wanderers (3)
+?,(Mon) 22 Apr 1957 (16),Blackpool FC (4),2-4,?,Arsenal FC (24)
+?,(Sat) 29 Dec 1956 (52),Blackpool FC (5),0-0,?,Aston Villa FC (24)
+?,(Sat) 16 Mar 1957 (10),Blackpool FC (6),3-1,?,Birmingham City (24)
+?,(Sat) 15 Dec 1956 (50),Blackpool FC (7),4-2,?,Bolton Wanderers (4)
+?,(Wed) 1 May 1957 (17),Blackpool FC (8),1-0,?,Burnley FC (4)
+?,(Sat) 8 Dec 1956 (49),Blackpool FC (9),3-1,?,Cardiff City (4)
+?,(Sat) 22 Sep 1956 (38),Blackpool FC (10),3-2,?,Charlton Athletic (4)
+?,(Sat) 13 Apr 1957 (14),Blackpool FC (11),1-0,?,Chelsea FC (4)
+?,(Mon) 27 Aug 1956 (35),Blackpool FC (12),5-2,?,Everton FC (4)
+?,(Tue) 25 Dec 1956 (52),Blackpool FC (13),1-1,?,Leeds United (4)
+?,(Sat) 8 Sep 1956 (36),Blackpool FC (14),4-0,?,Luton Town (4)
+?,(Sat) 9 Feb 1957 (5),Blackpool FC (15),4-1,?,Manchester City (4)
+?,(Sat) 27 Oct 1956 (43),Blackpool FC (16),2-2,?,Manchester United (4)
+?,(Sat) 24 Nov 1956 (47),Blackpool FC (17),2-3,?,Newcastle United (4)
+?,(Sat) 30 Mar 1957 (12),Blackpool FC (18),5-0,?,Portsmouth FC (4)
+?,(Sat) 13 Oct 1956 (41),Blackpool FC (19),4-0,?,Preston North End (4)
+?,(Sat) 2 Mar 1957 (8),Blackpool FC (20),3-1,?,Sheffield Wednesday (4)
+?,(Sat) 19 Jan 1957 (2),Blackpool FC (21),1-2,?,Sunderland AFC (4)
+?,(Mon) 3 Sep 1956 (36),Blackpool FC (22),4-1,?,Tottenham Hotspur (4)
+?,(Sat) 10 Nov 1956 (45),Blackpool FC (23),0-1,?,West Bromwich Albion (4)
+?,(Sat) 25 Aug 1956 (34),Blackpool FC (24),3-2,?,Wolverhampton Wanderers (4)
+?,(Sat) 30 Mar 1957 (12),Bolton Wanderers (5),2-1,?,Arsenal FC (25)
+?,(Sat) 9 Feb 1957 (5),Bolton Wanderers (6),0-0,?,Aston Villa FC (25)
+?,(Wed) 20 Feb 1957 (7),Bolton Wanderers (7),3-1,?,Birmingham City (25)
+?,(Sat) 18 Aug 1956 (33),Bolton Wanderers (8),4-1,?,Blackpool FC (25)
+?,(Sat) 24 Nov 1956 (47),Bolton Wanderers (9),3-0,?,Burnley FC (5)
+?,(Sat) 15 Sep 1956 (37),Bolton Wanderers (10),2-0,?,Cardiff City (5)
+?,(Wed) 12 Sep 1956 (37),Bolton Wanderers (11),2-0,?,Charlton Athletic (5)
+?,(Sat) 27 Oct 1956 (43),Bolton Wanderers (12),2-2,?,Chelsea FC (5)
+?,(Sat) 27 Apr 1957 (16),Bolton Wanderers (13),1-1,?,Everton FC (5)
+?,(Sat) 12 Jan 1957 (1),Bolton Wanderers (14),5-3,?,Leeds United (5)
+?,(Fri) 19 Apr 1957 (15),Bolton Wanderers (15),2-2,?,Luton Town (5)
+?,(Wed) 26 Dec 1956 (52),Bolton Wanderers (16),1-0,?,Manchester City (5)
+?,(Sat) 10 Nov 1956 (45),Bolton Wanderers (17),2-0,?,Manchester United (5)
+?,(Sat) 8 Dec 1956 (49),Bolton Wanderers (18),3-1,?,Newcastle United (5)
+?,(Sat) 13 Apr 1957 (14),Bolton Wanderers (19),1-1,?,Portsmouth FC (5)
+?,(Sat) 2 Mar 1957 (8),Bolton Wanderers (20),2-3,?,Preston North End (5)
+?,(Sat) 16 Mar 1957 (10),Bolton Wanderers (21),3-2,?,Sheffield Wednesday (5)
+?,(Wed) 5 Sep 1956 (36),Bolton Wanderers (22),2-1,?,Sunderland AFC (5)
+?,(Sat) 1 Sep 1956 (35),Bolton Wanderers (23),1-0,?,Tottenham Hotspur (5)
+?,(Sat) 13 Oct 1956 (41),Bolton Wanderers (24),1-1,?,West Bromwich Albion (5)
+?,(Sat) 22 Sep 1956 (38),Bolton Wanderers (25),0-3,?,Wolverhampton Wanderers (5)
+?,(Tue) 28 Aug 1956 (35),Burnley FC (6),3-1,?,Arsenal FC (26)
+?,(Mon) 15 Apr 1957 (15),Burnley FC (7),2-1,?,Aston Villa FC (26)
+?,(Sat) 1 Sep 1956 (35),Burnley FC (8),2-0,?,Birmingham City (26)
+?,(Sat) 6 Oct 1956 (40),Burnley FC (9),2-2,?,Blackpool FC (26)
+?,(Sat) 6 Apr 1957 (13),Burnley FC (10),1-0,?,Bolton Wanderers (26)
+?,(Sat) 22 Dec 1956 (51),Burnley FC (11),6-2,?,Cardiff City (6)
+?,(Sat) 1 Dec 1956 (48),Burnley FC (12),2-1,?,Charlton Athletic (6)
+?,(Sat) 18 Aug 1956 (33),Burnley FC (13),2-0,?,Chelsea FC (6)
+?,(Mon) 3 Sep 1956 (36),Burnley FC (14),2-1,?,Everton FC (6)
+?,(Sat) 20 Oct 1956 (42),Burnley FC (15),0-0,?,Leeds United (6)
+?,(Sat) 3 Nov 1956 (44),Burnley FC (16),1-1,?,Luton Town (6)
+?,(Sat) 20 Apr 1957 (15),Burnley FC (17),0-3,?,Manchester City (6)
+?,(Fri) 19 Apr 1957 (15),Burnley FC (18),1-3,?,Manchester United (6)
+?,(Sat) 2 Feb 1957 (4),Burnley FC (19),3-2,?,Newcastle United (6)
+?,(Sat) 15 Sep 1956 (37),Burnley FC (20),1-1,?,Portsmouth FC (6)
+?,(Tue) 25 Dec 1956 (52),Burnley FC (21),2-2,?,Preston North End (6)
+?,(Sat) 29 Sep 1956 (39),Burnley FC (22),4-1,?,Sheffield Wednesday (6)
+?,(Sat) 9 Mar 1957 (9),Burnley FC (23),2-0,?,Sunderland AFC (6)
+?,(Mon) 29 Apr 1957 (17),Burnley FC (24),1-0,?,Tottenham Hotspur (6)
+?,(Sat) 12 Jan 1957 (1),Burnley FC (25),1-0,?,West Bromwich Albion (6)
+?,(Sat) 17 Nov 1956 (46),Burnley FC (26),3-0,?,Wolverhampton Wanderers (6)
+?,(Sat) 15 Dec 1956 (50),Cardiff City (7),2-3,?,Arsenal FC (27)
+?,(Wed) 3 Apr 1957 (13),Cardiff City (8),1-0,?,Aston Villa FC (27)
+?,(Sat) 2 Feb 1957 (4),Cardiff City (9),1-2,?,Birmingham City (27)
+?,(Sat) 9 Mar 1957 (9),Cardiff City (10),3-4,?,Blackpool FC (27)
+?,(Sat) 19 Jan 1957 (2),Cardiff City (11),2-0,?,Bolton Wanderers (27)
+?,(Sat) 25 Aug 1956 (34),Cardiff City (12),3-3,?,Burnley FC (27)
+?,(Sat) 23 Mar 1957 (11),Cardiff City (13),2-3,?,Charlton Athletic (7)
+?,(Sat) 8 Sep 1956 (36),Cardiff City (14),1-1,?,Chelsea FC (7)
+?,(Sat) 1 Dec 1956 (48),Cardiff City (15),1-0,?,Everton FC (7)
+?,(Sat) 6 Oct 1956 (40),Cardiff City (16),4-1,?,Leeds United (7)
+?,(Sat) 6 Apr 1957 (13),Cardiff City (17),0-0,?,Luton Town (7)
+?,(Sat) 3 Nov 1956 (44),Cardiff City (18),1-1,?,Manchester City (7)
+?,(Sat) 27 Apr 1957 (16),Cardiff City (19),2-3,?,Manchester United (7)
+?,(Wed) 22 Aug 1956 (34),Cardiff City (20),5-2,?,Newcastle United (7)
+?,(Mon) 22 Apr 1957 (16),Cardiff City (21),0-2,?,Portsmouth FC (7)
+?,(Sat) 29 Dec 1956 (52),Cardiff City (22),2-3,?,Preston North End (7)
+?,(Wed) 5 Sep 1956 (36),Cardiff City (23),2-1,?,Sheffield Wednesday (7)
+?,(Sat) 17 Nov 1956 (46),Cardiff City (24),1-0,?,Sunderland AFC (7)
+?,(Sat) 20 Apr 1957 (15),Cardiff City (25),0-3,?,Tottenham Hotspur (7)
+?,(Sat) 29 Sep 1956 (39),Cardiff City (26),0-0,?,West Bromwich Albion (7)
+?,(Sat) 23 Feb 1957 (7),Cardiff City (27),2-2,?,Wolverhampton Wanderers (7)
+?,(Sat) 13 Oct 1956 (41),Charlton Athletic (8),1-3,?,Arsenal FC (28)
+?,(Sat) 15 Dec 1956 (50),Charlton Athletic (9),0-2,?,Aston Villa FC (28)
+?,(Sat) 30 Mar 1957 (12),Charlton Athletic (10),1-0,?,Birmingham City (28)
+?,(Sat) 2 Feb 1957 (4),Charlton Athletic (11),0-4,?,Blackpool FC (28)
+?,(Thu) 20 Sep 1956 (38),Charlton Athletic (12),2-1,?,Bolton Wanderers (28)
+?,(Sat) 13 Apr 1957 (14),Charlton Athletic (13),1-2,?,Burnley FC (28)
+?,(Sat) 10 Nov 1956 (45),Charlton Athletic (14),0-2,?,Cardiff City (28)
+?,(Sat) 16 Mar 1957 (10),Charlton Athletic (15),3-1,?,Chelsea FC (8)
+?,(Sat) 29 Sep 1956 (39),Charlton Athletic (16),1-2,?,Everton FC (8)
+?,(Thu) 23 Aug 1956 (34),Charlton Athletic (17),1-2,?,Leeds United (8)
+?,(Sat) 25 Aug 1956 (34),Charlton Athletic (18),1-2,?,Luton Town (8)
+?,(Sat) 15 Sep 1956 (37),Charlton Athletic (19),1-0,?,Manchester City (8)
+?,(Mon) 18 Feb 1957 (7),Charlton Athletic (20),1-5,?,Manchester United (8)
+?,(Sat) 27 Oct 1956 (43),Charlton Athletic (21),1-1,?,Newcastle United (8)
+?,(Sat) 2 Mar 1957 (8),Charlton Athletic (22),1-3,?,Portsmouth FC (8)
+?,(Sat) 8 Dec 1956 (49),Charlton Athletic (23),3-4,?,Preston North End (8)
+?,(Sat) 8 Sep 1956 (36),Charlton Athletic (24),4-4,?,Sheffield Wednesday (8)
+?,(Sat) 29 Dec 1956 (52),Charlton Athletic (25),3-2,?,Sunderland AFC (8)
+?,(Fri) 19 Apr 1957 (15),Charlton Athletic (26),1-1,?,Tottenham Hotspur (8)
+?,(Sat) 24 Nov 1956 (47),Charlton Athletic (27),3-2,?,West Bromwich Albion (8)
+?,(Tue) 25 Dec 1956 (52),Charlton Athletic (28),2-1,?,Wolverhampton Wanderers (8)
+?,(Tue) 25 Dec 1956 (52),Chelsea FC (9),1-1,?,Arsenal FC (29)
+?,(Sat) 6 Apr 1957 (13),Chelsea FC (10),1-1,?,Aston Villa FC (29)
+?,(Sat) 15 Sep 1956 (37),Chelsea FC (11),1-0,?,Birmingham City (29)
+?,(Sat) 1 Dec 1956 (48),Chelsea FC (12),2-2,?,Blackpool FC (29)
+?,(Sat) 23 Feb 1957 (7),Chelsea FC (13),2-2,?,Bolton Wanderers (29)
+?,(Sat) 15 Dec 1956 (50),Chelsea FC (14),2-0,?,Burnley FC (29)
+?,(Sat) 12 Jan 1957 (1),Chelsea FC (15),1-2,?,Cardiff City (29)
+?,(Sat) 3 Nov 1956 (44),Chelsea FC (16),1-3,?,Charlton Athletic (29)
+?,(Sat) 20 Apr 1957 (15),Chelsea FC (17),5-1,?,Everton FC (9)
+?,(Sat) 29 Dec 1956 (52),Chelsea FC (18),1-1,?,Leeds United (9)
+?,(Sat) 17 Nov 1956 (46),Chelsea FC (19),4-1,?,Luton Town (9)
+?,(Sat) 9 Mar 1957 (9),Chelsea FC (20),4-2,?,Manchester City (9)
+?,(Wed) 5 Sep 1956 (36),Chelsea FC (21),1-2,?,Manchester United (9)
+?,(Mon) 22 Apr 1957 (16),Chelsea FC (22),6-2,?,Newcastle United (9)
+?,(Sat) 29 Sep 1956 (39),Chelsea FC (23),3-3,?,Portsmouth FC (9)
+?,(Sat) 25 Aug 1956 (34),Chelsea FC (24),1-0,?,Preston North End (9)
+?,(Wed) 19 Sep 1956 (38),Chelsea FC (25),0-0,?,Sheffield Wednesday (9)
+?,(Sat) 23 Mar 1957 (11),Chelsea FC (26),0-2,?,Sunderland AFC (9)
+?,(Sat) 6 Oct 1956 (40),Chelsea FC (27),2-4,?,Tottenham Hotspur (9)
+?,(Sat) 2 Feb 1957 (4),Chelsea FC (28),2-4,?,West Bromwich Albion (9)
+?,(Sat) 20 Oct 1956 (42),Chelsea FC (29),3-3,?,Wolverhampton Wanderers (9)
+?,(Sat) 27 Oct 1956 (43),Everton FC (10),4-0,?,Arsenal FC (30)
+?,(Sat) 8 Sep 1956 (36),Everton FC (11),0-4,?,Aston Villa FC (30)
+?,(Sat) 8 Dec 1956 (49),Everton FC (12),2-0,?,Birmingham City (30)
+?,(Wed) 22 Aug 1956 (34),Everton FC (13),2-3,?,Blackpool FC (30)
+?,(Sat) 25 Aug 1956 (34),Everton FC (14),2-2,?,Bolton Wanderers (30)
+?,(Wed) 12 Sep 1956 (37),Everton FC (15),1-0,?,Burnley FC (30)
+?,(Sat) 13 Apr 1957 (14),Everton FC (16),0-0,?,Cardiff City (30)
+?,(Sat) 9 Feb 1957 (5),Everton FC (17),5-0,?,Charlton Athletic (30)
+?,(Sat) 13 Oct 1956 (41),Everton FC (18),0-3,?,Chelsea FC (30)
+?,(Sat) 15 Dec 1956 (50),Everton FC (19),2-1,?,Leeds United (10)
+?,(Sat) 19 Jan 1957 (2),Everton FC (20),2-1,?,Luton Town (10)
+?,(Mon) 22 Apr 1957 (16),Everton FC (21),1-1,?,Manchester City (10)
+?,(Wed) 6 Mar 1957 (9),Everton FC (22),1-2,?,Manchester United (10)
+?,(Sat) 30 Mar 1957 (12),Everton FC (23),2-1,?,Newcastle United (10)
+?,(Sat) 10 Nov 1956 (45),Everton FC (24),2-2,?,Portsmouth FC (10)
+?,(Wed) 27 Feb 1957 (8),Everton FC (25),1-4,?,Preston North End (10)
+?,(Sat) 24 Nov 1956 (47),Everton FC (26),1-0,?,Sheffield Wednesday (10)
+?,(Sat) 22 Sep 1956 (38),Everton FC (27),2-1,?,Sunderland AFC (10)
+?,(Wed) 26 Dec 1956 (52),Everton FC (28),1-1,?,Tottenham Hotspur (10)
+?,(Sat) 16 Mar 1957 (10),Everton FC (29),0-1,?,West Bromwich Albion (10)
+?,(Sat) 29 Dec 1956 (52),Everton FC (30),3-1,?,Wolverhampton Wanderers (10)
+?,(Sat) 24 Nov 1956 (47),Leeds United (11),3-3,?,Arsenal FC (31)
+?,(Sat) 22 Sep 1956 (38),Leeds United (12),1-0,?,Aston Villa FC (31)
+?,(Sat) 13 Oct 1956 (41),Leeds United (13),1-1,?,Birmingham City (31)
+?,(Wed) 26 Dec 1956 (52),Leeds United (14),5-0,?,Blackpool FC (31)
+?,(Sat) 8 Sep 1956 (36),Leeds United (15),3-2,?,Bolton Wanderers (31)
+?,(Mon) 11 Mar 1957 (10),Leeds United (16),1-1,?,Burnley FC (31)
+?,(Sat) 16 Feb 1957 (6),Leeds United (17),3-0,?,Cardiff City (31)
+?,(Wed) 29 Aug 1956 (35),Leeds United (18),4-0,?,Charlton Athletic (31)
+?,(Sat) 1 Sep 1956 (35),Leeds United (19),0-0,?,Chelsea FC (31)
+?,(Sat) 18 Aug 1956 (33),Leeds United (20),5-1,?,Everton FC (31)
+?,(Sat) 9 Feb 1957 (5),Leeds United (21),1-2,?,Luton Town (11)
+?,(Wed) 12 Sep 1956 (37),Leeds United (22),2-0,?,Manchester City (11)
+?,(Sat) 30 Mar 1957 (12),Leeds United (23),1-2,?,Manchester United (11)
+?,(Sat) 16 Mar 1957 (10),Leeds United (24),0-0,?,Newcastle United (11)
+?,(Sat) 8 Dec 1956 (49),Leeds United (25),4-1,?,Portsmouth FC (11)
+?,(Sat) 27 Oct 1956 (43),Leeds United (26),1-2,?,Preston North End (11)
+?,(Sat) 10 Nov 1956 (45),Leeds United (27),3-1,?,Sheffield Wednesday (11)
+?,(Mon) 22 Apr 1957 (16),Leeds United (28),3-1,?,Sunderland AFC (11)
+?,(Sat) 2 Mar 1957 (8),Leeds United (29),1-1,?,Tottenham Hotspur (11)
+?,(Sat) 13 Apr 1957 (14),Leeds United (30),0-0,?,West Bromwich Albion (11)
+?,(Sat) 19 Jan 1957 (2),Leeds United (31),0-0,?,Wolverhampton Wanderers (11)
+?,(Sat) 8 Dec 1956 (49),Luton Town (12),1-2,?,Arsenal FC (32)
+?,(Wed) 5 Sep 1956 (36),Luton Town (13),0-0,?,Aston Villa FC (32)
+?,(Wed) 3 Apr 1957 (13),Luton Town (14),0-0,?,Birmingham City (32)
+?,(Sat) 12 Jan 1957 (1),Luton Town (15),0-2,?,Blackpool FC (32)
+?,(Mon) 22 Apr 1957 (16),Luton Town (16),1-0,?,Bolton Wanderers (32)
+?,(Sat) 16 Mar 1957 (10),Luton Town (17),0-2,?,Burnley FC (32)
+?,(Sat) 24 Nov 1956 (47),Luton Town (18),3-0,?,Cardiff City (32)
+?,(Sat) 22 Dec 1956 (51),Luton Town (19),4-2,?,Charlton Athletic (32)
+?,(Sat) 30 Mar 1957 (12),Luton Town (20),0-4,?,Chelsea FC (32)
+?,(Sat) 15 Sep 1956 (37),Luton Town (21),2-0,?,Everton FC (32)
+?,(Sat) 29 Sep 1956 (39),Luton Town (22),2-2,?,Leeds United (32)
+?,(Sat) 1 Sep 1956 (35),Luton Town (23),3-2,?,Manchester City (12)
+?,(Sat) 13 Apr 1957 (14),Luton Town (24),0-2,?,Manchester United (12)
+?,(Sat) 16 Feb 1957 (6),Luton Town (25),4-1,?,Newcastle United (12)
+?,(Wed) 20 Mar 1957 (11),Luton Town (26),1-0,?,Portsmouth FC (12)
+?,(Sat) 10 Nov 1956 (45),Luton Town (27),1-1,?,Preston North End (12)
+?,(Sat) 13 Oct 1956 (41),Luton Town (28),2-0,?,Sheffield Wednesday (12)
+?,(Sat) 18 Aug 1956 (33),Luton Town (29),6-2,?,Sunderland AFC (12)
+?,(Sat) 2 Feb 1957 (4),Luton Town (30),1-3,?,Tottenham Hotspur (12)
+?,(Sat) 27 Oct 1956 (43),Luton Town (31),0-1,?,West Bromwich Albion (12)
+?,(Wed) 22 Aug 1956 (34),Luton Town (32),1-0,?,Wolverhampton Wanderers (12)
+?,(Wed) 20 Mar 1957 (11),Manchester City (13),2-3,?,Arsenal FC (33)
+?,(Sat) 25 Aug 1956 (34),Manchester City (14),1-1,?,Aston Villa FC (33)
+?,(Sat) 10 Nov 1956 (45),Manchester City (15),3-1,?,Birmingham City (33)
+?,(Sat) 29 Sep 1956 (39),Manchester City (16),0-3,?,Blackpool FC (33)
+?,(Tue) 25 Dec 1956 (52),Manchester City (17),1-3,?,Bolton Wanderers (33)
+?,(Sat) 13 Oct 1956 (41),Manchester City (18),0-1,?,Burnley FC (33)
+?,(Sat) 16 Mar 1957 (10),Manchester City (19),4-1,?,Cardiff City (33)
+?,(Sat) 19 Jan 1957 (2),Manchester City (20),5-1,?,Charlton Athletic (33)
+?,(Sat) 8 Dec 1956 (49),Manchester City (21),5-4,?,Chelsea FC (33)
+?,(Fri) 19 Apr 1957 (15),Manchester City (22),2-4,?,Everton FC (33)
+?,(Wed) 5 Sep 1956 (36),Manchester City (23),1-0,?,Leeds United (33)
+?,(Sat) 29 Dec 1956 (52),Manchester City (24),3-2,?,Luton Town (33)
+?,(Sat) 2 Feb 1957 (4),Manchester City (25),2-4,?,Manchester United (13)
+?,(Sat) 2 Mar 1957 (8),Manchester City (26),1-2,?,Newcastle United (13)
+?,(Sat) 24 Nov 1956 (47),Manchester City (27),5-1,?,Portsmouth FC (13)
+?,(Sat) 13 Apr 1957 (14),Manchester City (28),0-2,?,Preston North End (13)
+?,(Sat) 27 Oct 1956 (43),Manchester City (29),4-2,?,Sheffield Wednesday (13)
+?,(Sat) 8 Sep 1956 (36),Manchester City (30),3-1,?,Sunderland AFC (13)
+?,(Wed) 22 Aug 1956 (34),Manchester City (31),2-2,?,Tottenham Hotspur (13)
+?,(Sat) 30 Mar 1957 (12),Manchester City (32),2-1,?,West Bromwich Albion (13)
+?,(Sat) 15 Dec 1956 (50),Manchester City (33),2-3,?,Wolverhampton Wanderers (13)
+?,(Sat) 9 Feb 1957 (5),Manchester United (14),6-2,?,Arsenal FC (34)
+?,(Sat) 9 Mar 1957 (9),Manchester United (15),1-1,?,Aston Villa FC (34)
+?,(Sat) 18 Aug 1956 (33),Manchester United (16),2-2,?,Birmingham City (34)
+?,(Sat) 23 Feb 1957 (7),Manchester United (17),0-2,?,Blackpool FC (34)
+?,(Mon) 25 Mar 1957 (12),Manchester United (18),0-2,?,Bolton Wanderers (34)
+?,(Mon) 22 Apr 1957 (16),Manchester United (19),2-0,?,Burnley FC (34)
+?,(Wed) 26 Dec 1956 (52),Manchester United (20),3-1,?,Cardiff City (34)
+?,(Sat) 6 Oct 1956 (40),Manchester United (21),4-2,?,Charlton Athletic (34)
+?,(Tue) 1 Jan 1957 (0),Manchester United (22),3-0,?,Chelsea FC (34)
+?,(Sat) 20 Oct 1956 (42),Manchester United (23),2-5,?,Everton FC (34)
+?,(Sat) 17 Nov 1956 (46),Manchester United (24),3-2,?,Leeds United (34)
+?,(Sat) 1 Dec 1956 (48),Manchester United (25),3-1,?,Luton Town (34)
+?,(Sat) 22 Sep 1956 (38),Manchester United (26),2-0,?,Manchester City (34)
+?,(Sat) 12 Jan 1957 (1),Manchester United (27),6-1,?,Newcastle United (14)
+?,(Sat) 1 Sep 1956 (35),Manchester United (28),3-0,?,Portsmouth FC (14)
+?,(Wed) 29 Aug 1956 (35),Manchester United (29),3-2,?,Preston North End (14)
+?,(Sat) 15 Sep 1956 (37),Manchester United (30),4-1,?,Sheffield Wednesday (14)
+?,(Sat) 20 Apr 1957 (15),Manchester United (31),4-0,?,Sunderland AFC (14)
+?,(Sat) 6 Apr 1957 (13),Manchester United (32),0-0,?,Tottenham Hotspur (14)
+?,(Mon) 29 Apr 1957 (17),Manchester United (33),1-1,?,West Bromwich Albion (14)
+?,(Sat) 3 Nov 1956 (44),Manchester United (34),3-0,?,Wolverhampton Wanderers (14)
+?,(Sat) 19 Jan 1957 (2),Newcastle United (15),3-1,?,Arsenal FC (35)
+?,(Sat) 20 Apr 1957 (15),Newcastle United (16),1-2,?,Aston Villa FC (35)
+?,(Tue) 1 Jan 1957 (0),Newcastle United (17),3-2,?,Birmingham City (35)
+?,(Sat) 6 Apr 1957 (13),Newcastle United (18),2-1,?,Blackpool FC (35)
+?,(Sat) 9 Mar 1957 (9),Newcastle United (19),4-0,?,Bolton Wanderers (35)
+?,(Sat) 22 Sep 1956 (38),Newcastle United (20),1-1,?,Burnley FC (35)
+?,(Wed) 29 Aug 1956 (35),Newcastle United (21),1-0,?,Cardiff City (35)
+?,(Sat) 23 Feb 1957 (7),Newcastle United (22),3-1,?,Charlton Athletic (35)
+?,(Fri) 19 Apr 1957 (15),Newcastle United (23),1-2,?,Chelsea FC (35)
+?,(Sat) 17 Nov 1956 (46),Newcastle United (24),0-0,?,Everton FC (35)
+?,(Sat) 3 Nov 1956 (44),Newcastle United (25),2-3,?,Leeds United (35)
+?,(Sat) 6 Oct 1956 (40),Newcastle United (26),2-2,?,Luton Town (35)
+?,(Sat) 20 Oct 1956 (42),Newcastle United (27),0-3,?,Manchester City (35)
+?,(Sat) 8 Sep 1956 (36),Newcastle United (28),1-1,?,Manchester United (35)
+?,(Sat) 18 Aug 1956 (33),Newcastle United (29),2-1,?,Portsmouth FC (15)
+?,(Sat) 9 Feb 1957 (5),Newcastle United (30),1-2,?,Preston North End (15)
+?,(Sat) 29 Dec 1956 (52),Newcastle United (31),1-2,?,Sheffield Wednesday (15)
+?,(Sat) 22 Dec 1956 (51),Newcastle United (32),6-2,?,Sunderland AFC (15)
+?,(Sat) 23 Mar 1957 (11),Newcastle United (33),2-2,?,Tottenham Hotspur (15)
+?,(Wed) 26 Dec 1956 (52),Newcastle United (34),5-2,?,West Bromwich Albion (15)
+?,(Sat) 1 Dec 1956 (48),Newcastle United (35),2-1,?,Wolverhampton Wanderers (15)
+?,(Sat) 8 Sep 1956 (36),Portsmouth FC (16),2-3,?,Arsenal FC (36)
+?,(Sat) 6 Oct 1956 (40),Portsmouth FC (17),5-1,?,Aston Villa FC (36)
+?,(Wed) 29 Aug 1956 (35),Portsmouth FC (18),3-4,?,Birmingham City (36)
+?,(Sat) 17 Nov 1956 (46),Portsmouth FC (19),0-0,?,Blackpool FC (36)
+?,(Sat) 1 Dec 1956 (48),Portsmouth FC (20),1-1,?,Bolton Wanderers (36)
+?,(Sat) 19 Jan 1957 (2),Portsmouth FC (21),1-0,?,Burnley FC (36)
+?,(Fri) 19 Apr 1957 (15),Portsmouth FC (22),1-0,?,Cardiff City (36)
+?,(Sat) 20 Oct 1956 (42),Portsmouth FC (23),1-0,?,Charlton Athletic (36)
+?,(Sat) 9 Feb 1957 (5),Portsmouth FC (24),2-2,?,Chelsea FC (36)
+?,(Sat) 23 Mar 1957 (11),Portsmouth FC (25),3-2,?,Everton FC (36)
+?,(Sat) 9 Mar 1957 (9),Portsmouth FC (26),2-5,?,Leeds United (36)
+?,(Wed) 13 Mar 1957 (10),Portsmouth FC (27),2-2,?,Luton Town (36)
+?,(Sat) 6 Apr 1957 (13),Portsmouth FC (28),0-1,?,Manchester City (36)
+?,(Sat) 29 Dec 1956 (52),Portsmouth FC (29),1-3,?,Manchester United (36)
+?,(Sat) 15 Dec 1956 (50),Portsmouth FC (30),2-2,?,Newcastle United (36)
+?,(Sat) 22 Sep 1956 (38),Portsmouth FC (31),2-2,?,Preston North End (16)
+?,(Sat) 25 Aug 1956 (34),Portsmouth FC (32),3-1,?,Sheffield Wednesday (16)
+?,(Wed) 1 May 1957 (17),Portsmouth FC (33),3-2,?,Sunderland AFC (16)
+?,(Sat) 3 Nov 1956 (44),Portsmouth FC (34),2-3,?,Tottenham Hotspur (16)
+?,(Sat) 27 Apr 1957 (16),Portsmouth FC (35),0-1,?,West Bromwich Albion (16)
+?,(Sat) 20 Apr 1957 (15),Portsmouth FC (36),1-0,?,Wolverhampton Wanderers (16)
+?,(Mon) 10 Sep 1956 (37),Preston North End (17),3-0,?,Arsenal FC (37)
+?,(Sat) 17 Nov 1956 (46),Preston North End (18),3-3,?,Aston Villa FC (37)
+?,(Sat) 12 Jan 1957 (1),Preston North End (19),1-0,?,Birmingham City (37)
+?,(Sat) 20 Apr 1957 (15),Preston North End (20),0-0,?,Blackpool FC (37)
+?,(Sat) 20 Oct 1956 (42),Preston North End (21),2-2,?,Bolton Wanderers (37)
+?,(Wed) 26 Dec 1956 (52),Preston North End (22),1-0,?,Burnley FC (37)
+?,(Sat) 1 Sep 1956 (35),Preston North End (23),6-0,?,Cardiff City (37)
+?,(Sat) 9 Mar 1957 (9),Preston North End (24),4-3,?,Charlton Athletic (37)
+?,(Sat) 27 Apr 1957 (16),Preston North End (25),1-0,?,Chelsea FC (37)
+?,(Sat) 6 Oct 1956 (40),Preston North End (26),0-0,?,Everton FC (37)
+?,(Sat) 23 Feb 1957 (7),Preston North End (27),3-0,?,Leeds United (37)
+?,(Sat) 23 Mar 1957 (11),Preston North End (28),2-0,?,Luton Town (37)
+?,(Sat) 1 Dec 1956 (48),Preston North End (29),3-1,?,Manchester City (37)
+?,(Mon) 20 Aug 1956 (34),Preston North End (30),1-3,?,Manchester United (37)
+?,(Sat) 29 Sep 1956 (39),Preston North End (31),1-0,?,Newcastle United (37)
+?,(Sat) 2 Feb 1957 (4),Preston North End (32),7-1,?,Portsmouth FC (37)
+?,(Fri) 19 Apr 1957 (15),Preston North End (33),1-0,?,Sheffield Wednesday (17)
+?,(Sat) 3 Nov 1956 (44),Preston North End (34),6-0,?,Sunderland AFC (17)
+?,(Sat) 18 Aug 1956 (33),Preston North End (35),1-4,?,Tottenham Hotspur (17)
+?,(Sat) 15 Sep 1956 (37),Preston North End (36),3-2,?,West Bromwich Albion (17)
+?,(Sat) 6 Apr 1957 (13),Preston North End (37),1-0,?,Wolverhampton Wanderers (17)
+?,(Sat) 22 Sep 1956 (38),Sheffield Wednesday (18),2-4,?,Arsenal FC (38)
+?,(Sat) 1 Dec 1956 (48),Sheffield Wednesday (19),2-1,?,Aston Villa FC (38)
+?,(Mon) 29 Apr 1957 (17),Sheffield Wednesday (20),3-0,?,Birmingham City (38)
+?,(Sat) 20 Oct 1956 (42),Sheffield Wednesday (21),1-2,?,Blackpool FC (38)
+?,(Sat) 3 Nov 1956 (44),Sheffield Wednesday (22),1-2,?,Bolton Wanderers (38)
+?,(Sat) 9 Feb 1957 (5),Sheffield Wednesday (23),0-0,?,Burnley FC (38)
+?,(Wed) 12 Sep 1956 (37),Sheffield Wednesday (24),5-3,?,Cardiff City (38)
+?,(Sat) 12 Jan 1957 (1),Sheffield Wednesday (25),3-1,?,Charlton Athletic (38)
+?,(Wed) 22 Aug 1956 (34),Sheffield Wednesday (26),4-0,?,Chelsea FC (38)
+?,(Sat) 6 Apr 1957 (13),Sheffield Wednesday (27),2-2,?,Everton FC (38)
+?,(Tue) 26 Mar 1957 (12),Sheffield Wednesday (28),2-3,?,Leeds United (38)
+?,(Sat) 20 Apr 1957 (15),Sheffield Wednesday (29),3-0,?,Luton Town (38)
+?,(Sat) 23 Feb 1957 (7),Sheffield Wednesday (30),2-2,?,Manchester City (38)
+?,(Sat) 19 Jan 1957 (2),Sheffield Wednesday (31),2-1,?,Manchester United (38)
+?,(Sat) 1 Sep 1956 (35),Sheffield Wednesday (32),4-0,?,Newcastle United (38)
+?,(Tue) 9 Apr 1957 (14),Sheffield Wednesday (33),3-1,?,Portsmouth FC (38)
+?,(Mon) 22 Apr 1957 (16),Sheffield Wednesday (34),3-1,?,Preston North End (38)
+?,(Sat) 6 Oct 1956 (40),Sheffield Wednesday (35),3-2,?,Sunderland AFC (18)
+?,(Sat) 17 Nov 1956 (46),Sheffield Wednesday (36),4-1,?,Tottenham Hotspur (18)
+?,(Sat) 18 Aug 1956 (33),Sheffield Wednesday (37),4-2,?,West Bromwich Albion (18)
+?,(Sat) 9 Mar 1957 (9),Sheffield Wednesday (38),2-1,?,Wolverhampton Wanderers (18)
+?,(Sat) 13 Apr 1957 (14),Sunderland AFC (19),1-0,?,Arsenal FC (39)
+?,(Tue) 25 Dec 1956 (52),Sunderland AFC (20),1-0,?,Aston Villa FC (39)
+?,(Sat) 24 Nov 1956 (47),Sunderland AFC (21),0-1,?,Birmingham City (39)
+?,(Sat) 15 Sep 1956 (37),Sunderland AFC (22),5-2,?,Blackpool FC (39)
+?,(Wed) 22 Aug 1956 (34),Sunderland AFC (23),3-0,?,Bolton Wanderers (39)
+?,(Sat) 8 Dec 1956 (49),Sunderland AFC (24),2-1,?,Burnley FC (39)
+?,(Sat) 30 Mar 1957 (12),Sunderland AFC (25),1-1,?,Cardiff City (39)
+?,(Sat) 1 Sep 1956 (35),Sunderland AFC (26),8-1,?,Charlton Athletic (39)
+?,(Sat) 10 Nov 1956 (45),Sunderland AFC (27),1-3,?,Chelsea FC (39)
+?,(Sat) 2 Feb 1957 (4),Sunderland AFC (28),1-1,?,Everton FC (39)
+?,(Fri) 19 Apr 1957 (15),Sunderland AFC (29),2-0,?,Leeds United (39)
+?,(Sat) 15 Dec 1956 (50),Sunderland AFC (30),1-0,?,Luton Town (39)
+?,(Sat) 12 Jan 1957 (1),Sunderland AFC (31),1-1,?,Manchester City (39)
+?,(Sat) 13 Oct 1956 (41),Sunderland AFC (32),1-3,?,Manchester United (39)
+?,(Sat) 25 Aug 1956 (34),Sunderland AFC (33),1-2,?,Newcastle United (39)
+?,(Sat) 27 Oct 1956 (43),Sunderland AFC (34),3-3,?,Portsmouth FC (39)
+?,(Sat) 16 Mar 1957 (10),Sunderland AFC (35),0-0,?,Preston North End (39)
+?,(Sat) 16 Feb 1957 (6),Sunderland AFC (36),5-2,?,Sheffield Wednesday (39)
+?,(Sat) 29 Sep 1956 (39),Sunderland AFC (37),0-2,?,Tottenham Hotspur (19)
+?,(Wed) 13 Mar 1957 (10),Sunderland AFC (38),1-4,?,West Bromwich Albion (19)
+?,(Tue) 1 Jan 1957 (0),Sunderland AFC (39),2-3,?,Wolverhampton Wanderers (19)
+?,(Wed) 13 Mar 1957 (10),Tottenham Hotspur (20),1-3,?,Arsenal FC (40)
+?,(Sat) 19 Jan 1957 (2),Tottenham Hotspur (21),3-0,?,Aston Villa FC (40)
+?,(Sat) 13 Apr 1957 (14),Tottenham Hotspur (22),5-1,?,Birmingham City (40)
+?,(Sat) 27 Apr 1957 (16),Tottenham Hotspur (23),2-1,?,Blackpool FC (40)
+?,(Sat) 29 Dec 1956 (52),Tottenham Hotspur (24),4-0,?,Bolton Wanderers (40)
+?,(Sat) 27 Oct 1956 (43),Tottenham Hotspur (25),2-0,?,Burnley FC (40)
+?,(Sat) 13 Oct 1956 (41),Tottenham Hotspur (26),5-0,?,Cardiff City (40)
+?,(Mon) 22 Apr 1957 (16),Tottenham Hotspur (27),6-2,?,Charlton Athletic (40)
+?,(Wed) 20 Feb 1957 (7),Tottenham Hotspur (28),3-4,?,Chelsea FC (40)
+?,(Tue) 25 Dec 1956 (52),Tottenham Hotspur (29),6-0,?,Everton FC (40)
+?,(Sat) 25 Aug 1956 (34),Tottenham Hotspur (30),5-1,?,Leeds United (40)
+?,(Sat) 22 Sep 1956 (38),Tottenham Hotspur (31),5-0,?,Luton Town (40)
+?,(Wed) 29 Aug 1956 (35),Tottenham Hotspur (32),3-2,?,Manchester City (40)
+?,(Sat) 24 Nov 1956 (47),Tottenham Hotspur (33),2-2,?,Manchester United (40)
+?,(Sat) 10 Nov 1956 (45),Tottenham Hotspur (34),3-1,?,Newcastle United (40)
+?,(Sat) 16 Mar 1957 (10),Tottenham Hotspur (35),2-0,?,Portsmouth FC (40)
+?,(Sat) 15 Dec 1956 (50),Tottenham Hotspur (36),1-1,?,Preston North End (40)
+?,(Sat) 30 Mar 1957 (12),Tottenham Hotspur (37),1-1,?,Sheffield Wednesday (40)
+?,(Sat) 9 Feb 1957 (5),Tottenham Hotspur (38),5-2,?,Sunderland AFC (40)
+?,(Sat) 8 Dec 1956 (49),Tottenham Hotspur (39),2-2,?,West Bromwich Albion (20)
+?,(Sat) 8 Sep 1956 (36),Tottenham Hotspur (40),4-1,?,Wolverhampton Wanderers (20)
+?,(Sat) 29 Dec 1956 (52),West Bromwich Albion (21),0-2,?,Arsenal FC (41)
+?,(Wed) 22 Aug 1956 (34),West Bromwich Albion (22),2-0,?,Aston Villa FC (41)
+?,(Mon) 22 Apr 1957 (16),West Bromwich Albion (23),0-0,?,Birmingham City (41)
+?,(Wed) 3 Apr 1957 (13),West Bromwich Albion (24),1-3,?,Blackpool FC (41)
+?,(Sat) 20 Apr 1957 (15),West Bromwich Albion (25),3-2,?,Bolton Wanderers (41)
+?,(Sat) 8 Sep 1956 (36),West Bromwich Albion (26),2-2,?,Burnley FC (41)
+?,(Sat) 9 Feb 1957 (5),West Bromwich Albion (27),1-2,?,Cardiff City (41)
+?,(Sat) 6 Apr 1957 (13),West Bromwich Albion (28),2-2,?,Charlton Athletic (41)
+?,(Sat) 22 Sep 1956 (38),West Bromwich Albion (29),2-1,?,Chelsea FC (41)
+?,(Sat) 3 Nov 1956 (44),West Bromwich Albion (30),3-0,?,Everton FC (41)
+?,(Sat) 1 Dec 1956 (48),West Bromwich Albion (31),0-0,?,Leeds United (41)
+?,(Sat) 23 Feb 1957 (7),West Bromwich Albion (32),4-0,?,Luton Town (41)
+?,(Sat) 17 Nov 1956 (46),West Bromwich Albion (33),1-1,?,Manchester City (41)
+?,(Sat) 25 Aug 1956 (34),West Bromwich Albion (34),2-3,?,Manchester United (41)
+?,(Tue) 25 Dec 1956 (52),West Bromwich Albion (35),1-0,?,Newcastle United (41)
+?,(Wed) 5 Sep 1956 (36),West Bromwich Albion (36),2-1,?,Portsmouth FC (41)
+?,(Sat) 19 Jan 1957 (2),West Bromwich Albion (37),0-0,?,Preston North End (41)
+?,(Sat) 15 Dec 1956 (50),West Bromwich Albion (38),1-4,?,Sheffield Wednesday (41)
+?,(Sat) 20 Oct 1956 (42),West Bromwich Albion (39),2-0,?,Sunderland AFC (41)
+?,(Sat) 9 Mar 1957 (9),West Bromwich Albion (40),1-1,?,Tottenham Hotspur (41)
+?,(Sat) 6 Oct 1956 (40),West Bromwich Albion (41),1-1,?,Wolverhampton Wanderers (21)
+?,(Sat) 10 Nov 1956 (45),Wolverhampton Wanderers (22),5-2,?,Arsenal FC (42)
+?,(Tue) 23 Apr 1957 (16),Wolverhampton Wanderers (23),3-0,?,Aston Villa FC (42)
+?,(Sat) 29 Sep 1956 (39),Wolverhampton Wanderers (24),3-0,?,Birmingham City (42)
+?,(Sat) 22 Dec 1956 (51),Wolverhampton Wanderers (25),4-1,?,Blackpool FC (42)
+?,(Sat) 2 Feb 1957 (4),Wolverhampton Wanderers (26),3-2,?,Bolton Wanderers (42)
+?,(Sat) 30 Mar 1957 (12),Wolverhampton Wanderers (27),1-2,?,Burnley FC (42)
+?,(Sat) 27 Oct 1956 (43),Wolverhampton Wanderers (28),3-1,?,Cardiff City (42)
+?,(Sat) 16 Feb 1957 (6),Wolverhampton Wanderers (29),7-3,?,Charlton Athletic (42)
+?,(Sat) 2 Mar 1957 (8),Wolverhampton Wanderers (30),3-1,?,Chelsea FC (42)
+?,(Sat) 1 Sep 1956 (35),Wolverhampton Wanderers (31),2-1,?,Everton FC (42)
+?,(Sat) 15 Sep 1956 (37),Wolverhampton Wanderers (32),1-2,?,Leeds United (42)
+?,(Wed) 29 Aug 1956 (35),Wolverhampton Wanderers (33),5-4,?,Luton Town (42)
+?,(Sat) 18 Aug 1956 (33),Wolverhampton Wanderers (34),5-1,?,Manchester City (42)
+?,(Sat) 16 Mar 1957 (10),Wolverhampton Wanderers (35),1-1,?,Manchester United (42)
+?,(Sat) 13 Apr 1957 (14),Wolverhampton Wanderers (36),2-0,?,Newcastle United (42)
+?,(Sat) 13 Oct 1956 (41),Wolverhampton Wanderers (37),6-0,?,Portsmouth FC (42)
+?,(Sat) 24 Nov 1956 (47),Wolverhampton Wanderers (38),4-3,?,Preston North End (42)
+?,(Sat) 8 Dec 1956 (49),Wolverhampton Wanderers (39),2-1,?,Sheffield Wednesday (42)
+?,(Wed) 12 Sep 1956 (37),Wolverhampton Wanderers (40),2-2,?,Sunderland AFC (42)
+?,(Sat) 12 Jan 1957 (1),Wolverhampton Wanderers (41),3-0,?,Tottenham Hotspur (42)
+?,(Mon) 15 Apr 1957 (15),Wolverhampton Wanderers (42),5-2,?,West Bromwich Albion (42)

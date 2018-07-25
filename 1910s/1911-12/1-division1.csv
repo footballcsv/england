@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aston Villa,Arsenal,4-1,-
--,-,Blackburn Rovers,Arsenal,4-0,-
--,-,Bolton Wanderers,Arsenal,2-2,-
--,-,Bradford City,Arsenal,1-1,-
--,-,Bury,Arsenal,3-1,-
--,-,Everton,Arsenal,1-0,-
--,-,Liverpool,Arsenal,4-1,-
--,-,Manchester City,Arsenal,3-3,-
--,-,Manchester United,Arsenal,2-0,-
--,-,Middlesbrough,Arsenal,0-2,-
--,-,Newcastle United,Arsenal,1-2,-
--,-,Notts County,Arsenal,3-1,-
--,-,Oldham Athletic,Arsenal,0-0,-
--,-,Preston North End,Arsenal,0-1,-
--,-,Sheffield United,Arsenal,2-1,-
--,-,Sheffield Wednesday,Arsenal,3-0,-
--,-,Sunderland,Arsenal,1-0,-
--,-,Tottenham Hotspur,Arsenal,5-0,-
--,-,West Bromwich Albion,Arsenal,1-1,-
--,-,Arsenal,Aston Villa,2-2,-
--,-,Blackburn Rovers,Aston Villa,3-1,-
--,-,Bolton Wanderers,Aston Villa,3-0,-
--,-,Bradford City,Aston Villa,2-1,-
--,-,Bury,Aston Villa,1-1,-
--,-,Everton,Aston Villa,1-1,-
--,-,Liverpool,Aston Villa,1-2,-
--,-,Manchester City,Aston Villa,2-6,-
--,-,Manchester United,Aston Villa,3-1,-
--,-,Middlesbrough,Aston Villa,1-2,-
--,-,Newcastle United,Aston Villa,6-2,-
--,-,Notts County,Aston Villa,2-0,-
--,-,Oldham Athletic,Aston Villa,1-2,-
--,-,Preston North End,Aston Villa,4-1,-
--,-,Sheffield United,Aston Villa,0-1,-
--,-,Sheffield Wednesday,Aston Villa,3-0,-
--,-,Sunderland,Aston Villa,2-2,-
--,-,Tottenham Hotspur,Aston Villa,2-1,-
--,-,West Bromwich Albion,Aston Villa,2-2,-
--,-,Arsenal,Blackburn Rovers,5-1,-
--,-,Aston Villa,Blackburn Rovers,0-3,-
--,-,Bolton Wanderers,Blackburn Rovers,2-0,-
--,-,Bradford City,Blackburn Rovers,1-0,-
--,-,Bury,Blackburn Rovers,1-2,-
--,-,Everton,Blackburn Rovers,1-3,-
--,-,Liverpool,Blackburn Rovers,1-2,-
--,-,Manchester City,Blackburn Rovers,3-0,-
--,-,Manchester United,Blackburn Rovers,3-1,-
--,-,Middlesbrough,Blackburn Rovers,2-1,-
--,-,Newcastle United,Blackburn Rovers,4-2,-
--,-,Notts County,Blackburn Rovers,1-3,-
--,-,Oldham Athletic,Blackburn Rovers,0-1,-
--,-,Preston North End,Blackburn Rovers,2-2,-
--,-,Sheffield United,Blackburn Rovers,1-1,-
--,-,Sheffield Wednesday,Blackburn Rovers,1-1,-
--,-,Sunderland,Blackburn Rovers,3-0,-
--,-,Tottenham Hotspur,Blackburn Rovers,0-2,-
--,-,West Bromwich Albion,Blackburn Rovers,2-0,-
--,-,Arsenal,Bolton Wanderers,3-0,-
--,-,Aston Villa,Bolton Wanderers,0-1,-
--,-,Blackburn Rovers,Bolton Wanderers,2-0,-
--,-,Bradford City,Bolton Wanderers,1-0,-
--,-,Bury,Bolton Wanderers,1-3,-
--,-,Everton,Bolton Wanderers,1-0,-
--,-,Liverpool,Bolton Wanderers,1-0,-
--,-,Manchester City,Bolton Wanderers,3-1,-
--,-,Manchester United,Bolton Wanderers,2-0,-
--,-,Middlesbrough,Bolton Wanderers,1-0,-
--,-,Newcastle United,Bolton Wanderers,5-2,-
--,-,Notts County,Bolton Wanderers,3-2,-
--,-,Oldham Athletic,Bolton Wanderers,3-1,-
--,-,Preston North End,Bolton Wanderers,1-2,-
--,-,Sheffield United,Bolton Wanderers,0-5,-
--,-,Sheffield Wednesday,Bolton Wanderers,0-1,-
--,-,Sunderland,Bolton Wanderers,0-1,-
--,-,Tottenham Hotspur,Bolton Wanderers,1-0,-
--,-,West Bromwich Albion,Bolton Wanderers,0-0,-
--,-,Arsenal,Bradford City,2-0,-
--,-,Aston Villa,Bradford City,0-0,-
--,-,Blackburn Rovers,Bradford City,3-1,-
--,-,Bolton Wanderers,Bradford City,2-0,-
--,-,Bury,Bradford City,2-0,-
--,-,Everton,Bradford City,1-0,-
--,-,Liverpool,Bradford City,1-0,-
--,-,Manchester City,Bradford City,4-0,-
--,-,Manchester United,Bradford City,0-1,-
--,-,Middlesbrough,Bradford City,1-0,-
--,-,Newcastle United,Bradford City,0-2,-
--,-,Notts County,Bradford City,0-0,-
--,-,Oldham Athletic,Bradford City,3-0,-
--,-,Preston North End,Bradford City,2-2,-
--,-,Sheffield United,Bradford City,7-3,-
--,-,Sheffield Wednesday,Bradford City,4-2,-
--,-,Sunderland,Bradford City,1-1,-
--,-,Tottenham Hotspur,Bradford City,2-3,-
--,-,West Bromwich Albion,Bradford City,0-0,-
--,-,Arsenal,Bury,1-0,-
--,-,Aston Villa,Bury,5-2,-
--,-,Blackburn Rovers,Bury,2-0,-
--,-,Bolton Wanderers,Bury,1-0,-
--,-,Bradford City,Bury,1-0,-
--,-,Everton,Bury,1-1,-
--,-,Liverpool,Bury,1-1,-
--,-,Manchester City,Bury,2-0,-
--,-,Manchester United,Bury,0-0,-
--,-,Middlesbrough,Bury,1-1,-
--,-,Newcastle United,Bury,3-2,-
--,-,Notts County,Bury,2-0,-
--,-,Oldham Athletic,Bury,2-0,-
--,-,Preston North End,Bury,1-0,-
--,-,Sheffield United,Bury,4-0,-
--,-,Sheffield Wednesday,Bury,2-1,-
--,-,Sunderland,Bury,1-0,-
--,-,Tottenham Hotspur,Bury,2-1,-
--,-,West Bromwich Albion,Bury,2-0,-
--,-,Arsenal,Everton,0-1,-
--,-,Aston Villa,Everton,3-0,-
--,-,Blackburn Rovers,Everton,2-1,-
--,-,Bolton Wanderers,Everton,1-2,-
--,-,Bradford City,Everton,1-0,-
--,-,Bury,Everton,1-2,-
--,-,Liverpool,Everton,1-3,-
--,-,Manchester City,Everton,4-0,-
--,-,Manchester United,Everton,2-1,-
--,-,Middlesbrough,Everton,0-0,-
--,-,Newcastle United,Everton,2-0,-
--,-,Notts County,Everton,0-1,-
--,-,Oldham Athletic,Everton,3-0,-
--,-,Preston North End,Everton,2-1,-
--,-,Sheffield United,Everton,2-1,-
--,-,Sheffield Wednesday,Everton,1-3,-
--,-,Sunderland,Everton,4-0,-
--,-,Tottenham Hotspur,Everton,0-1,-
--,-,West Bromwich Albion,Everton,1-0,-
--,-,Arsenal,Liverpool,2-2,-
--,-,Aston Villa,Liverpool,5-0,-
--,-,Blackburn Rovers,Liverpool,1-0,-
--,-,Bolton Wanderers,Liverpool,2-1,-
--,-,Bradford City,Liverpool,0-2,-
--,-,Bury,Liverpool,2-2,-
--,-,Everton,Liverpool,2-1,-
--,-,Manchester City,Liverpool,2-3,-
--,-,Manchester United,Liverpool,1-1,-
--,-,Middlesbrough,Liverpool,3-2,-
--,-,Newcastle United,Liverpool,1-1,-
--,-,Notts County,Liverpool,0-0,-
--,-,Oldham Athletic,Liverpool,0-1,-
--,-,Preston North End,Liverpool,2-1,-
--,-,Sheffield United,Liverpool,3-1,-
--,-,Sheffield Wednesday,Liverpool,2-2,-
--,-,Sunderland,Liverpool,1-2,-
--,-,Tottenham Hotspur,Liverpool,2-0,-
--,-,West Bromwich Albion,Liverpool,1-0,-
--,-,Arsenal,Manchester City,2-0,-
--,-,Aston Villa,Manchester City,3-1,-
--,-,Blackburn Rovers,Manchester City,2-0,-
--,-,Bolton Wanderers,Manchester City,2-1,-
--,-,Bradford City,Manchester City,4-1,-
--,-,Bury,Manchester City,1-2,-
--,-,Everton,Manchester City,1-0,-
--,-,Liverpool,Manchester City,2-2,-
--,-,Manchester United,Manchester City,0-0,-
--,-,Middlesbrough,Manchester City,3-1,-
--,-,Newcastle United,Manchester City,1-0,-
--,-,Notts County,Manchester City,0-1,-
--,-,Oldham Athletic,Manchester City,4-1,-
--,-,Preston North End,Manchester City,2-1,-
--,-,Sheffield United,Manchester City,6-2,-
--,-,Sheffield Wednesday,Manchester City,3-0,-
--,-,Sunderland,Manchester City,1-1,-
--,-,Tottenham Hotspur,Manchester City,0-2,-
--,-,West Bromwich Albion,Manchester City,1-1,-
--,-,Arsenal,Manchester United,2-1,-
--,-,Aston Villa,Manchester United,6-0,-
--,-,Blackburn Rovers,Manchester United,2-2,-
--,-,Bolton Wanderers,Manchester United,1-1,-
--,-,Bradford City,Manchester United,0-1,-
--,-,Bury,Manchester United,0-1,-
--,-,Everton,Manchester United,4-0,-
--,-,Liverpool,Manchester United,3-2,-
--,-,Manchester City,Manchester United,0-0,-
--,-,Middlesbrough,Manchester United,3-0,-
--,-,Newcastle United,Manchester United,2-3,-
--,-,Notts County,Manchester United,0-1,-
--,-,Oldham Athletic,Manchester United,2-2,-
--,-,Preston North End,Manchester United,0-0,-
--,-,Sheffield United,Manchester United,6-1,-
--,-,Sheffield Wednesday,Manchester United,3-0,-
--,-,Sunderland,Manchester United,5-0,-
--,-,Tottenham Hotspur,Manchester United,1-1,-
--,-,West Bromwich Albion,Manchester United,1-0,-
--,-,Arsenal,Middlesbrough,3-1,-
--,-,Aston Villa,Middlesbrough,2-1,-
--,-,Blackburn Rovers,Middlesbrough,2-1,-
--,-,Bolton Wanderers,Middlesbrough,1-0,-
--,-,Bradford City,Middlesbrough,2-1,-
--,-,Bury,Middlesbrough,0-2,-
--,-,Everton,Middlesbrough,1-0,-
--,-,Liverpool,Middlesbrough,1-1,-
--,-,Manchester City,Middlesbrough,2-0,-
--,-,Manchester United,Middlesbrough,3-4,-
--,-,Newcastle United,Middlesbrough,0-1,-
--,-,Notts County,Middlesbrough,2-1,-
--,-,Oldham Athletic,Middlesbrough,2-0,-
--,-,Preston North End,Middlesbrough,0-3,-
--,-,Sheffield United,Middlesbrough,1-1,-
--,-,Sheffield Wednesday,Middlesbrough,0-2,-
--,-,Sunderland,Middlesbrough,1-0,-
--,-,Tottenham Hotspur,Middlesbrough,2-1,-
--,-,West Bromwich Albion,Middlesbrough,3-1,-
--,-,Arsenal,Newcastle United,2-0,-
--,-,Aston Villa,Newcastle United,2-0,-
--,-,Blackburn Rovers,Newcastle United,1-1,-
--,-,Bolton Wanderers,Newcastle United,0-2,-
--,-,Bradford City,Newcastle United,1-1,-
--,-,Bury,Newcastle United,2-1,-
--,-,Everton,Newcastle United,2-0,-
--,-,Liverpool,Newcastle United,0-1,-
--,-,Manchester City,Newcastle United,1-1,-
--,-,Manchester United,Newcastle United,0-2,-
--,-,Middlesbrough,Newcastle United,1-1,-
--,-,Notts County,Newcastle United,1-4,-
--,-,Oldham Athletic,Newcastle United,2-4,-
--,-,Preston North End,Newcastle United,2-1,-
--,-,Sheffield United,Newcastle United,2-1,-
--,-,Sheffield Wednesday,Newcastle United,1-2,-
--,-,Sunderland,Newcastle United,1-2,-
--,-,Tottenham Hotspur,Newcastle United,1-2,-
--,-,West Bromwich Albion,Newcastle United,3-1,-
--,-,Arsenal,Notts County,0-3,-
--,-,Aston Villa,Notts County,5-1,-
--,-,Blackburn Rovers,Notts County,0-0,-
--,-,Bolton Wanderers,Notts County,3-0,-
--,-,Bradford City,Notts County,2-3,-
--,-,Bury,Notts County,0-1,-
--,-,Everton,Notts County,1-1,-
--,-,Liverpool,Notts County,3-0,-
--,-,Manchester City,Notts County,4-0,-
--,-,Manchester United,Notts County,2-0,-
--,-,Middlesbrough,Notts County,4-0,-
--,-,Newcastle United,Notts County,3-2,-
--,-,Oldham Athletic,Notts County,1-2,-
--,-,Preston North End,Notts County,2-1,-
--,-,Sheffield United,Notts County,1-3,-
--,-,Sheffield Wednesday,Notts County,3-0,-
--,-,Sunderland,Notts County,5-0,-
--,-,Tottenham Hotspur,Notts County,2-2,-
--,-,West Bromwich Albion,Notts County,2-1,-
--,-,Arsenal,Oldham Athletic,1-1,-
--,-,Aston Villa,Oldham Athletic,6-1,-
--,-,Blackburn Rovers,Oldham Athletic,1-0,-
--,-,Bolton Wanderers,Oldham Athletic,2-1,-
--,-,Bradford City,Oldham Athletic,0-0,-
--,-,Bury,Oldham Athletic,1-1,-
--,-,Everton,Oldham Athletic,1-1,-
--,-,Liverpool,Oldham Athletic,1-0,-
--,-,Manchester City,Oldham Athletic,1-3,-
--,-,Manchester United,Oldham Athletic,3-1,-
--,-,Middlesbrough,Oldham Athletic,3-0,-
--,-,Newcastle United,Oldham Athletic,1-1,-
--,-,Notts County,Oldham Athletic,1-1,-
--,-,Preston North End,Oldham Athletic,0-1,-
--,-,Sheffield United,Oldham Athletic,4-0,-
--,-,Sheffield Wednesday,Oldham Athletic,1-0,-
--,-,Sunderland,Oldham Athletic,4-2,-
--,-,Tottenham Hotspur,Oldham Athletic,4-0,-
--,-,West Bromwich Albion,Oldham Athletic,0-0,-
--,-,Arsenal,Preston North End,4-1,-
--,-,Aston Villa,Preston North End,1-0,-
--,-,Blackburn Rovers,Preston North End,3-0,-
--,-,Bolton Wanderers,Preston North End,3-0,-
--,-,Bradford City,Preston North End,0-1,-
--,-,Bury,Preston North End,0-0,-
--,-,Everton,Preston North End,1-0,-
--,-,Liverpool,Preston North End,0-1,-
--,-,Manchester City,Preston North End,0-0,-
--,-,Manchester United,Preston North End,0-0,-
--,-,Middlesbrough,Preston North End,4-2,-
--,-,Newcastle United,Preston North End,1-0,-
--,-,Notts County,Preston North End,1-2,-
--,-,Oldham Athletic,Preston North End,1-0,-
--,-,Sheffield United,Preston North End,4-2,-
--,-,Sheffield Wednesday,Preston North End,0-1,-
--,-,Sunderland,Preston North End,3-0,-
--,-,Tottenham Hotspur,Preston North End,6-2,-
--,-,West Bromwich Albion,Preston North End,0-2,-
--,-,Arsenal,Sheffield United,3-1,-
--,-,Aston Villa,Sheffield United,1-0,-
--,-,Blackburn Rovers,Sheffield United,1-0,-
--,-,Bolton Wanderers,Sheffield United,0-3,-
--,-,Bradford City,Sheffield United,1-0,-
--,-,Bury,Sheffield United,3-1,-
--,-,Everton,Sheffield United,3-2,-
--,-,Liverpool,Sheffield United,2-0,-
--,-,Manchester City,Sheffield United,0-0,-
--,-,Manchester United,Sheffield United,1-0,-
--,-,Middlesbrough,Sheffield United,1-1,-
--,-,Newcastle United,Sheffield United,2-2,-
--,-,Notts County,Sheffield United,2-0,-
--,-,Oldham Athletic,Sheffield United,2-3,-
--,-,Preston North End,Sheffield United,3-0,-
--,-,Sheffield Wednesday,Sheffield United,1-1,-
--,-,Sunderland,Sheffield United,0-0,-
--,-,Tottenham Hotspur,Sheffield United,1-1,-
--,-,West Bromwich Albion,Sheffield United,0-1,-
--,-,Arsenal,Sheffield Wednesday,0-2,-
--,-,Aston Villa,Sheffield Wednesday,2-3,-
--,-,Blackburn Rovers,Sheffield Wednesday,0-0,-
--,-,Bolton Wanderers,Sheffield Wednesday,4-2,-
--,-,Bradford City,Sheffield Wednesday,5-1,-
--,-,Bury,Sheffield Wednesday,2-2,-
--,-,Everton,Sheffield Wednesday,1-0,-
--,-,Liverpool,Sheffield Wednesday,1-1,-
--,-,Manchester City,Sheffield Wednesday,4-0,-
--,-,Manchester United,Sheffield Wednesday,3-1,-
--,-,Middlesbrough,Sheffield Wednesday,1-1,-
--,-,Newcastle United,Sheffield Wednesday,0-2,-
--,-,Notts County,Sheffield Wednesday,1-0,-
--,-,Oldham Athletic,Sheffield Wednesday,1-0,-
--,-,Preston North End,Sheffield Wednesday,2-3,-
--,-,Sheffield United,Sheffield Wednesday,1-1,-
--,-,Sunderland,Sheffield Wednesday,0-0,-
--,-,Tottenham Hotspur,Sheffield Wednesday,3-1,-
--,-,West Bromwich Albion,Sheffield Wednesday,1-5,-
--,-,Arsenal,Sunderland,3-0,-
--,-,Aston Villa,Sunderland,1-3,-
--,-,Blackburn Rovers,Sunderland,2-2,-
--,-,Bolton Wanderers,Sunderland,3-0,-
--,-,Bradford City,Sunderland,2-1,-
--,-,Bury,Sunderland,0-2,-
--,-,Everton,Sunderland,1-0,-
--,-,Liverpool,Sunderland,2-1,-
--,-,Manchester City,Sunderland,2-0,-
--,-,Manchester United,Sunderland,2-2,-
--,-,Middlesbrough,Sunderland,3-3,-
--,-,Newcastle United,Sunderland,3-1,-
--,-,Notts County,Sunderland,3-1,-
--,-,Oldham Athletic,Sunderland,0-0,-
--,-,Preston North End,Sunderland,0-3,-
--,-,Sheffield United,Sunderland,1-2,-
--,-,Sheffield Wednesday,Sunderland,8-0,-
--,-,Tottenham Hotspur,Sunderland,0-0,-
--,-,West Bromwich Albion,Sunderland,1-0,-
--,-,Arsenal,Tottenham Hotspur,3-1,-
--,-,Aston Villa,Tottenham Hotspur,2-2,-
--,-,Blackburn Rovers,Tottenham Hotspur,0-0,-
--,-,Bolton Wanderers,Tottenham Hotspur,1-0,-
--,-,Bradford City,Tottenham Hotspur,3-0,-
--,-,Bury,Tottenham Hotspur,2-1,-
--,-,Everton,Tottenham Hotspur,2-2,-
--,-,Liverpool,Tottenham Hotspur,1-2,-
--,-,Manchester City,Tottenham Hotspur,2-1,-
--,-,Manchester United,Tottenham Hotspur,1-2,-
--,-,Middlesbrough,Tottenham Hotspur,2-0,-
--,-,Newcastle United,Tottenham Hotspur,2-0,-
--,-,Notts County,Tottenham Hotspur,2-2,-
--,-,Oldham Athletic,Tottenham Hotspur,2-1,-
--,-,Preston North End,Tottenham Hotspur,0-1,-
--,-,Sheffield United,Tottenham Hotspur,1-2,-
--,-,Sheffield Wednesday,Tottenham Hotspur,4-0,-
--,-,Sunderland,Tottenham Hotspur,1-1,-
--,-,West Bromwich Albion,Tottenham Hotspur,2-0,-
--,-,Arsenal,West Bromwich Albion,0-2,-
--,-,Aston Villa,West Bromwich Albion,0-3,-
--,-,Blackburn Rovers,West Bromwich Albion,4-1,-
--,-,Bolton Wanderers,West Bromwich Albion,2-0,-
--,-,Bradford City,West Bromwich Albion,4-1,-
--,-,Bury,West Bromwich Albion,1-0,-
--,-,Everton,West Bromwich Albion,3-0,-
--,-,Liverpool,West Bromwich Albion,1-3,-
--,-,Manchester City,West Bromwich Albion,0-2,-
--,-,Manchester United,West Bromwich Albion,1-2,-
--,-,Middlesbrough,West Bromwich Albion,1-0,-
--,-,Newcastle United,West Bromwich Albion,0-0,-
--,-,Notts County,West Bromwich Albion,2-0,-
--,-,Oldham Athletic,West Bromwich Albion,3-1,-
--,-,Preston North End,West Bromwich Albion,1-1,-
--,-,Sheffield United,West Bromwich Albion,1-1,-
--,-,Sheffield Wednesday,West Bromwich Albion,4-1,-
--,-,Sunderland,West Bromwich Albion,3-2,-
--,-,Tottenham Hotspur,West Bromwich Albion,1-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 6 Jan 1912 (1),Arsenal FC (1),2-2,?,Aston Villa FC (1)
+?,(Mon) 22 Apr 1912 (17),Arsenal FC (2),5-1,?,Blackburn Rovers (1)
+?,(Sat) 10 Feb 1912 (6),Arsenal FC (3),3-0,?,Bolton Wanderers (1)
+?,(Sat) 14 Oct 1911 (41),Arsenal FC (4),2-0,?,Bradford City (1)
+?,(Sat) 13 Apr 1912 (15),Arsenal FC (5),1-0,?,Bury FC (1)
+?,(Sat) 4 Nov 1911 (44),Arsenal FC (6),0-1,?,Everton FC (1)
+?,(Sat) 2 Sep 1911 (35),Arsenal FC (7),2-2,?,Liverpool FC (1)
+?,(Sat) 2 Mar 1912 (9),Arsenal FC (8),2-0,?,Manchester City (1)
+?,(Fri) 5 Apr 1912 (14),Arsenal FC (9),2-1,?,Manchester United (1)
+?,(Sat) 16 Dec 1911 (50),Arsenal FC (10),3-1,?,Middlesbrough FC (1)
+?,(Sat) 16 Sep 1911 (37),Arsenal FC (11),2-0,?,Newcastle United (1)
+?,(Sat) 27 Apr 1912 (17),Arsenal FC (12),0-3,?,Notts County FC (1)
+?,(Sat) 30 Sep 1911 (39),Arsenal FC (13),1-1,?,Oldham Athletic (1)
+?,(Mon) 8 Apr 1912 (15),Arsenal FC (14),4-1,?,Preston North End (1)
+?,(Sat) 27 Jan 1912 (4),Arsenal FC (15),3-1,?,Sheffield United FC (1)
+?,(Sat) 2 Dec 1911 (48),Arsenal FC (16),0-2,?,Sheffield Wednesday (1)
+?,(Sat) 18 Nov 1911 (46),Arsenal FC (17),3-0,?,Sunderland AFC (1)
+?,(Tue) 26 Dec 1911 (52),Arsenal FC (18),3-1,?,Tottenham Hotspur (1)
+?,(Sat) 16 Mar 1912 (11),Arsenal FC (19),0-2,?,West Bromwich Albion (1)
+?,(Sat) 9 Sep 1911 (36),Aston Villa FC (2),4-1,?,Arsenal FC (20)
+?,(Sat) 17 Feb 1912 (7),Aston Villa FC (3),0-3,?,Blackburn Rovers (2)
+?,(Fri) 5 Apr 1912 (14),Aston Villa FC (4),0-1,?,Bolton Wanderers (2)
+?,(Sat) 30 Dec 1911 (52),Aston Villa FC (5),0-0,?,Bradford City (2)
+?,(Sat) 2 Mar 1912 (9),Aston Villa FC (6),5-2,?,Bury FC (2)
+?,(Sat) 23 Sep 1911 (38),Aston Villa FC (7),3-0,?,Everton FC (2)
+?,(Sat) 2 Dec 1911 (48),Aston Villa FC (8),5-0,?,Liverpool FC (2)
+?,(Sat) 20 Jan 1912 (3),Aston Villa FC (9),3-1,?,Manchester City (2)
+?,(Sat) 30 Mar 1912 (13),Aston Villa FC (10),6-0,?,Manchester United (2)
+?,(Sat) 4 Nov 1911 (44),Aston Villa FC (11),2-1,?,Middlesbrough FC (2)
+?,(Sat) 20 Apr 1912 (16),Aston Villa FC (12),2-0,?,Newcastle United (2)
+?,(Sat) 16 Mar 1912 (11),Aston Villa FC (13),5-1,?,Notts County FC (2)
+?,(Tue) 26 Dec 1911 (52),Aston Villa FC (14),6-1,?,Oldham Athletic (2)
+?,(Sat) 9 Dec 1911 (49),Aston Villa FC (15),1-0,?,Preston North End (2)
+?,(Sat) 23 Dec 1911 (51),Aston Villa FC (16),1-0,?,Sheffield United FC (2)
+?,(Sat) 21 Oct 1911 (42),Aston Villa FC (17),2-3,?,Sheffield Wednesday (2)
+?,(Sat) 7 Oct 1911 (40),Aston Villa FC (18),1-3,?,Sunderland AFC (2)
+?,(Sat) 18 Nov 1911 (46),Aston Villa FC (19),2-2,?,Tottenham Hotspur (2)
+?,(Mon) 4 Sep 1911 (36),Aston Villa FC (20),0-3,?,West Bromwich Albion (2)
+?,(Sat) 25 Nov 1911 (47),Blackburn Rovers (3),4-0,?,Arsenal FC (21)
+?,(Sat) 14 Oct 1911 (41),Blackburn Rovers (4),3-1,?,Aston Villa FC (21)
+?,(Sat) 11 Nov 1911 (45),Blackburn Rovers (5),2-0,?,Bolton Wanderers (3)
+?,(Sat) 23 Mar 1912 (12),Blackburn Rovers (6),3-1,?,Bradford City (3)
+?,(Sat) 2 Sep 1911 (35),Blackburn Rovers (7),2-0,?,Bury FC (3)
+?,(Sat) 9 Dec 1911 (49),Blackburn Rovers (8),2-1,?,Everton FC (3)
+?,(Sat) 10 Feb 1912 (6),Blackburn Rovers (9),1-0,?,Liverpool FC (3)
+?,(Sat) 6 Apr 1912 (14),Blackburn Rovers (10),2-0,?,Manchester City (3)
+?,(Sat) 30 Sep 1911 (39),Blackburn Rovers (11),2-2,?,Manchester United (3)
+?,(Sat) 6 Jan 1912 (1),Blackburn Rovers (12),2-1,?,Middlesbrough FC (3)
+?,(Sat) 27 Apr 1912 (17),Blackburn Rovers (13),1-1,?,Newcastle United (3)
+?,(Sat) 16 Sep 1911 (37),Blackburn Rovers (14),0-0,?,Notts County FC (3)
+?,(Mon) 15 Apr 1912 (16),Blackburn Rovers (15),1-0,?,Oldham Athletic (3)
+?,(Mon) 1 Jan 1912 (1),Blackburn Rovers (16),3-0,?,Preston North End (3)
+?,(Sat) 28 Oct 1911 (43),Blackburn Rovers (17),1-0,?,Sheffield United FC (3)
+?,(Mon) 25 Dec 1911 (52),Blackburn Rovers (18),0-0,?,Sheffield Wednesday (3)
+?,(Sat) 23 Dec 1911 (51),Blackburn Rovers (19),2-2,?,Sunderland AFC (3)
+?,(Sat) 27 Jan 1912 (4),Blackburn Rovers (20),0-0,?,Tottenham Hotspur (3)
+?,(Thu) 25 Apr 1912 (17),Blackburn Rovers (21),4-1,?,West Bromwich Albion (3)
+?,(Sat) 7 Oct 1911 (40),Bolton Wanderers (4),2-2,?,Arsenal FC (22)
+?,(Mon) 1 Jan 1912 (1),Bolton Wanderers (5),3-0,?,Aston Villa FC (22)
+?,(Sat) 16 Mar 1912 (11),Bolton Wanderers (6),2-0,?,Blackburn Rovers (22)
+?,(Wed) 14 Feb 1912 (7),Bolton Wanderers (7),2-0,?,Bradford City (4)
+?,(Sat) 30 Mar 1912 (13),Bolton Wanderers (8),1-0,?,Bury FC (4)
+?,(Sat) 21 Oct 1911 (42),Bolton Wanderers (9),1-2,?,Everton FC (4)
+?,(Mon) 4 Sep 1911 (36),Bolton Wanderers (10),2-1,?,Liverpool FC (4)
+?,(Sat) 17 Feb 1912 (7),Bolton Wanderers (11),2-1,?,Manchester City (4)
+?,(Sat) 27 Apr 1912 (17),Bolton Wanderers (12),1-1,?,Manchester United (4)
+?,(Sat) 2 Dec 1911 (48),Bolton Wanderers (13),1-0,?,Middlesbrough FC (4)
+?,(Sat) 2 Sep 1911 (35),Bolton Wanderers (14),0-2,?,Newcastle United (4)
+?,(Sat) 13 Apr 1912 (15),Bolton Wanderers (15),3-0,?,Notts County FC (4)
+?,(Sat) 16 Sep 1911 (37),Bolton Wanderers (16),2-1,?,Oldham Athletic (4)
+?,(Sat) 27 Jan 1912 (4),Bolton Wanderers (17),3-0,?,Preston North End (4)
+?,(Sat) 6 Jan 1912 (1),Bolton Wanderers (18),0-3,?,Sheffield United FC (4)
+?,(Sat) 18 Nov 1911 (46),Bolton Wanderers (19),4-2,?,Sheffield Wednesday (4)
+?,(Sat) 4 Nov 1911 (44),Bolton Wanderers (20),3-0,?,Sunderland AFC (4)
+?,(Sat) 16 Dec 1911 (50),Bolton Wanderers (21),1-0,?,Tottenham Hotspur (4)
+?,(Sat) 2 Mar 1912 (9),Bolton Wanderers (22),2-0,?,West Bromwich Albion (4)
+?,(Sat) 17 Feb 1912 (7),Bradford City (5),1-1,?,Arsenal FC (23)
+?,(Sat) 2 Sep 1911 (35),Bradford City (6),2-1,?,Aston Villa FC (23)
+?,(Sat) 18 Nov 1911 (46),Bradford City (7),1-0,?,Blackburn Rovers (23)
+?,(Sat) 30 Sep 1911 (39),Bradford City (8),1-0,?,Bolton Wanderers (23)
+?,(Sat) 2 Dec 1911 (48),Bradford City (9),1-0,?,Bury FC (5)
+?,(Sat) 2 Mar 1912 (9),Bradford City (10),1-0,?,Everton FC (5)
+?,(Mon) 8 Apr 1912 (15),Bradford City (11),0-2,?,Liverpool FC (5)
+?,(Sat) 21 Oct 1911 (42),Bradford City (12),4-1,?,Manchester City (5)
+?,(Tue) 26 Dec 1911 (52),Bradford City (13),0-1,?,Manchester United (5)
+?,(Sat) 13 Apr 1912 (15),Bradford City (14),2-1,?,Middlesbrough FC (5)
+?,(Tue) 9 Apr 1912 (15),Bradford City (15),1-1,?,Newcastle United (5)
+?,(Sat) 16 Dec 1911 (50),Bradford City (16),2-3,?,Notts County FC (5)
+?,(Sat) 27 Jan 1912 (4),Bradford City (17),0-0,?,Oldham Athletic (5)
+?,(Sat) 10 Feb 1912 (6),Bradford City (18),0-1,?,Preston North End (5)
+?,(Sat) 16 Sep 1911 (37),Bradford City (19),1-0,?,Sheffield United FC (5)
+?,(Sat) 30 Mar 1912 (13),Bradford City (20),5-1,?,Sheffield Wednesday (5)
+?,(Sat) 16 Mar 1912 (11),Bradford City (21),2-1,?,Sunderland AFC (5)
+?,(Sat) 27 Apr 1912 (17),Bradford City (22),3-0,?,Tottenham Hotspur (5)
+?,(Sat) 4 Nov 1911 (44),Bradford City (23),4-1,?,West Bromwich Albion (5)
+?,(Sat) 9 Dec 1911 (49),Bury FC (6),3-1,?,Arsenal FC (24)
+?,(Sat) 28 Oct 1911 (43),Bury FC (7),1-1,?,Aston Villa FC (24)
+?,(Sat) 30 Dec 1911 (52),Bury FC (8),1-2,?,Blackburn Rovers (24)
+?,(Sat) 25 Nov 1911 (47),Bury FC (9),1-3,?,Bolton Wanderers (24)
+?,(Sat) 6 Apr 1912 (14),Bury FC (10),2-0,?,Bradford City (24)
+?,(Sat) 23 Dec 1911 (51),Bury FC (11),1-2,?,Everton FC (6)
+?,(Sat) 24 Feb 1912 (8),Bury FC (12),2-2,?,Liverpool FC (6)
+?,(Sat) 20 Apr 1912 (16),Bury FC (13),1-2,?,Manchester City (6)
+?,(Sat) 14 Oct 1911 (41),Bury FC (14),0-1,?,Manchester United (6)
+?,(Sat) 27 Jan 1912 (4),Bury FC (15),0-2,?,Middlesbrough FC (6)
+?,(Sat) 9 Mar 1912 (10),Bury FC (16),2-1,?,Newcastle United (6)
+?,(Sat) 30 Sep 1911 (39),Bury FC (17),0-1,?,Notts County FC (6)
+?,(Sat) 23 Mar 1912 (12),Bury FC (18),1-1,?,Oldham Athletic (6)
+?,(Sat) 16 Sep 1911 (37),Bury FC (19),0-0,?,Preston North End (6)
+?,(Tue) 20 Feb 1912 (8),Bury FC (20),3-1,?,Sheffield United FC (6)
+?,(Sat) 9 Sep 1911 (36),Bury FC (21),2-2,?,Sheffield Wednesday (6)
+?,(Mon) 25 Dec 1911 (52),Bury FC (22),0-2,?,Sunderland AFC (6)
+?,(Sat) 10 Feb 1912 (6),Bury FC (23),2-1,?,Tottenham Hotspur (6)
+?,(Mon) 1 Jan 1912 (1),Bury FC (24),1-0,?,West Bromwich Albion (6)
+?,(Wed) 27 Mar 1912 (13),Everton FC (7),1-0,?,Arsenal FC (25)
+?,(Sat) 27 Jan 1912 (4),Everton FC (8),1-1,?,Aston Villa FC (25)
+?,(Sat) 13 Apr 1912 (15),Everton FC (9),1-3,?,Blackburn Rovers (25)
+?,(Wed) 28 Feb 1912 (9),Everton FC (10),1-0,?,Bolton Wanderers (25)
+?,(Sat) 28 Oct 1911 (43),Everton FC (11),1-0,?,Bradford City (25)
+?,(Sat) 27 Apr 1912 (17),Everton FC (12),1-1,?,Bury FC (25)
+?,(Sat) 16 Sep 1911 (37),Everton FC (13),2-1,?,Liverpool FC (7)
+?,(Sat) 11 Nov 1911 (45),Everton FC (14),1-0,?,Manchester City (7)
+?,(Sat) 6 Jan 1912 (1),Everton FC (15),4-0,?,Manchester United (7)
+?,(Tue) 26 Dec 1911 (52),Everton FC (16),1-0,?,Middlesbrough FC (7)
+?,(Sat) 30 Sep 1911 (39),Everton FC (17),2-0,?,Newcastle United (7)
+?,(Mon) 8 Apr 1912 (15),Everton FC (18),1-1,?,Notts County FC (7)
+?,(Sat) 14 Oct 1911 (41),Everton FC (19),1-1,?,Oldham Athletic (7)
+?,(Sat) 23 Mar 1912 (12),Everton FC (20),1-0,?,Preston North End (7)
+?,(Sat) 10 Feb 1912 (6),Everton FC (21),3-2,?,Sheffield United FC (7)
+?,(Sat) 16 Dec 1911 (50),Everton FC (22),1-0,?,Sheffield Wednesday (7)
+?,(Sat) 2 Dec 1911 (48),Everton FC (23),1-0,?,Sunderland AFC (7)
+?,(Sat) 2 Sep 1911 (35),Everton FC (24),2-2,?,Tottenham Hotspur (7)
+?,(Mon) 22 Apr 1912 (17),Everton FC (25),3-0,?,West Bromwich Albion (7)
+?,(Sat) 30 Dec 1911 (52),Liverpool FC (8),4-1,?,Arsenal FC (26)
+?,(Sat) 6 Apr 1912 (14),Liverpool FC (9),1-2,?,Aston Villa FC (26)
+?,(Sat) 7 Oct 1911 (40),Liverpool FC (10),1-2,?,Blackburn Rovers (26)
+?,(Mon) 25 Dec 1911 (52),Liverpool FC (11),1-0,?,Bolton Wanderers (26)
+?,(Mon) 1 Jan 1912 (1),Liverpool FC (12),1-0,?,Bradford City (26)
+?,(Sat) 21 Oct 1911 (42),Liverpool FC (13),1-1,?,Bury FC (26)
+?,(Sat) 20 Jan 1912 (3),Liverpool FC (14),1-3,?,Everton FC (26)
+?,(Sat) 9 Sep 1911 (36),Liverpool FC (15),2-2,?,Manchester City (8)
+?,(Sat) 18 Nov 1911 (46),Liverpool FC (16),3-2,?,Manchester United (8)
+?,(Sat) 2 Mar 1912 (9),Liverpool FC (17),1-1,?,Middlesbrough FC (8)
+?,(Sat) 9 Dec 1911 (49),Liverpool FC (18),0-1,?,Newcastle United (8)
+?,(Sat) 4 Nov 1911 (44),Liverpool FC (19),3-0,?,Notts County FC (8)
+?,(Sat) 23 Dec 1911 (51),Liverpool FC (20),1-0,?,Oldham Athletic (8)
+?,(Sat) 25 Nov 1911 (47),Liverpool FC (21),0-1,?,Preston North End (8)
+?,(Sat) 20 Apr 1912 (16),Liverpool FC (22),2-0,?,Sheffield United FC (8)
+?,(Sat) 17 Feb 1912 (7),Liverpool FC (23),1-1,?,Sheffield Wednesday (8)
+?,(Fri) 5 Apr 1912 (14),Liverpool FC (24),2-1,?,Sunderland AFC (8)
+?,(Sat) 16 Mar 1912 (11),Liverpool FC (25),1-2,?,Tottenham Hotspur (8)
+?,(Sat) 23 Sep 1911 (38),Liverpool FC (26),1-3,?,West Bromwich Albion (8)
+?,(Sat) 28 Oct 1911 (43),Manchester City (9),3-3,?,Arsenal FC (27)
+?,(Sat) 16 Sep 1911 (37),Manchester City (10),2-6,?,Aston Villa FC (27)
+?,(Sat) 2 Dec 1911 (48),Manchester City (11),3-0,?,Blackburn Rovers (27)
+?,(Sat) 14 Oct 1911 (41),Manchester City (12),3-1,?,Bolton Wanderers (27)
+?,(Thu) 28 Mar 1912 (13),Manchester City (13),4-0,?,Bradford City (27)
+?,(Sat) 16 Dec 1911 (50),Manchester City (14),2-0,?,Bury FC (27)
+?,(Sat) 16 Mar 1912 (11),Manchester City (15),4-0,?,Everton FC (27)
+?,(Sat) 6 Jan 1912 (1),Manchester City (16),2-3,?,Liverpool FC (27)
+?,(Sat) 2 Sep 1911 (35),Manchester City (17),0-0,?,Manchester United (9)
+?,(Sat) 27 Apr 1912 (17),Manchester City (18),2-0,?,Middlesbrough FC (9)
+?,(Sat) 27 Jan 1912 (4),Manchester City (19),1-1,?,Newcastle United (9)
+?,(Tue) 26 Dec 1911 (52),Manchester City (20),4-0,?,Notts County FC (9)
+?,(Sat) 10 Feb 1912 (6),Manchester City (21),1-3,?,Oldham Athletic (9)
+?,(Sat) 9 Mar 1912 (10),Manchester City (22),0-0,?,Preston North End (9)
+?,(Sat) 30 Sep 1911 (39),Manchester City (23),0-0,?,Sheffield United FC (9)
+?,(Sat) 13 Apr 1912 (15),Manchester City (24),4-0,?,Sheffield Wednesday (9)
+?,(Sat) 30 Mar 1912 (13),Manchester City (25),2-0,?,Sunderland AFC (9)
+?,(Fri) 5 Apr 1912 (14),Manchester City (26),2-1,?,Tottenham Hotspur (9)
+?,(Sat) 18 Nov 1911 (46),Manchester City (27),0-2,?,West Bromwich Albion (9)
+?,(Mon) 1 Jan 1912 (1),Manchester United (10),2-0,?,Arsenal FC (28)
+?,(Sat) 25 Nov 1911 (47),Manchester United (11),3-1,?,Aston Villa FC (28)
+?,(Mon) 29 Apr 1912 (18),Manchester United (12),3-1,?,Blackburn Rovers (28)
+?,(Sat) 23 Dec 1911 (51),Manchester United (13),2-0,?,Bolton Wanderers (28)
+?,(Mon) 25 Dec 1911 (52),Manchester United (14),0-1,?,Bradford City (28)
+?,(Sat) 17 Feb 1912 (7),Manchester United (15),0-0,?,Bury FC (28)
+?,(Sat) 9 Sep 1911 (36),Manchester United (16),2-1,?,Everton FC (28)
+?,(Sat) 23 Mar 1912 (12),Manchester United (17),1-1,?,Liverpool FC (28)
+?,(Sat) 30 Dec 1911 (52),Manchester United (18),0-0,?,Manchester City (28)
+?,(Sat) 21 Oct 1911 (42),Manchester United (19),3-4,?,Middlesbrough FC (10)
+?,(Sat) 6 Apr 1912 (14),Manchester United (20),0-2,?,Newcastle United (10)
+?,(Sat) 2 Mar 1912 (9),Manchester United (21),2-0,?,Notts County FC (10)
+?,(Sat) 20 Apr 1912 (16),Manchester United (22),3-1,?,Oldham Athletic (10)
+?,(Sat) 11 Nov 1911 (45),Manchester United (23),0-0,?,Preston North End (10)
+?,(Sat) 9 Dec 1911 (49),Manchester United (24),1-0,?,Sheffield United FC (10)
+?,(Sat) 7 Oct 1911 (40),Manchester United (25),3-1,?,Sheffield Wednesday (10)
+?,(Sat) 23 Sep 1911 (38),Manchester United (26),2-2,?,Sunderland AFC (10)
+?,(Sat) 4 Nov 1911 (44),Manchester United (27),1-2,?,Tottenham Hotspur (10)
+?,(Sat) 20 Jan 1912 (3),Manchester United (28),1-2,?,West Bromwich Albion (10)
+?,(Sat) 24 Feb 1912 (8),Middlesbrough FC (11),0-2,?,Arsenal FC (29)
+?,(Sat) 9 Mar 1912 (10),Middlesbrough FC (12),1-2,?,Aston Villa FC (29)
+?,(Sat) 9 Sep 1911 (36),Middlesbrough FC (13),2-1,?,Blackburn Rovers (29)
+?,(Sat) 6 Apr 1912 (14),Middlesbrough FC (14),1-0,?,Bolton Wanderers (29)
+?,(Sat) 9 Dec 1911 (49),Middlesbrough FC (15),1-0,?,Bradford City (29)
+?,(Sat) 23 Sep 1911 (38),Middlesbrough FC (16),1-1,?,Bury FC (29)
+?,(Mon) 25 Dec 1911 (52),Middlesbrough FC (17),0-0,?,Everton FC (29)
+?,(Sat) 28 Oct 1911 (43),Middlesbrough FC (18),3-2,?,Liverpool FC (29)
+?,(Sat) 23 Dec 1911 (51),Middlesbrough FC (19),3-1,?,Manchester City (29)
+?,(Wed) 17 Apr 1912 (16),Middlesbrough FC (20),3-0,?,Manchester United (29)
+?,(Sat) 11 Nov 1911 (45),Middlesbrough FC (21),1-1,?,Newcastle United (11)
+?,(Sat) 10 Feb 1912 (6),Middlesbrough FC (22),4-0,?,Notts County FC (11)
+?,(Sat) 25 Nov 1911 (47),Middlesbrough FC (23),3-0,?,Oldham Athletic (11)
+?,(Sat) 30 Sep 1911 (39),Middlesbrough FC (24),4-2,?,Preston North End (11)
+?,(Sat) 23 Mar 1912 (12),Middlesbrough FC (25),1-1,?,Sheffield United FC (11)
+?,(Sat) 20 Jan 1912 (3),Middlesbrough FC (26),1-1,?,Sheffield Wednesday (11)
+?,(Sat) 30 Dec 1911 (52),Middlesbrough FC (27),3-3,?,Sunderland AFC (11)
+?,(Sat) 14 Oct 1911 (41),Middlesbrough FC (28),2-0,?,Tottenham Hotspur (11)
+?,(Fri) 5 Apr 1912 (14),Middlesbrough FC (29),1-0,?,West Bromwich Albion (11)
+?,(Sat) 20 Jan 1912 (3),Newcastle United (12),1-2,?,Arsenal FC (30)
+?,(Sat) 16 Dec 1911 (50),Newcastle United (13),6-2,?,Aston Villa FC (30)
+?,(Sat) 21 Oct 1911 (42),Newcastle United (14),4-2,?,Blackburn Rovers (30)
+?,(Sat) 30 Dec 1911 (52),Newcastle United (15),5-2,?,Bolton Wanderers (30)
+?,(Sat) 9 Sep 1911 (36),Newcastle United (16),0-2,?,Bradford City (30)
+?,(Sat) 4 Nov 1911 (44),Newcastle United (17),3-2,?,Bury FC (30)
+?,(Wed) 6 Sep 1911 (36),Newcastle United (18),2-0,?,Everton FC (30)
+?,(Sat) 13 Apr 1912 (15),Newcastle United (19),1-1,?,Liverpool FC (30)
+?,(Sat) 23 Sep 1911 (38),Newcastle United (20),1-0,?,Manchester City (30)
+?,(Sat) 2 Dec 1911 (48),Newcastle United (21),2-3,?,Manchester United (30)
+?,(Sat) 16 Mar 1912 (11),Newcastle United (22),0-1,?,Middlesbrough FC (30)
+?,(Sat) 18 Nov 1911 (46),Newcastle United (23),3-2,?,Notts County FC (12)
+?,(Fri) 5 Apr 1912 (14),Newcastle United (24),1-1,?,Oldham Athletic (12)
+?,(Sat) 24 Feb 1912 (8),Newcastle United (25),1-0,?,Preston North End (12)
+?,(Tue) 26 Dec 1911 (52),Newcastle United (26),2-2,?,Sheffield United FC (12)
+?,(Sat) 2 Mar 1912 (9),Newcastle United (27),0-2,?,Sheffield Wednesday (12)
+?,(Sat) 17 Feb 1912 (7),Newcastle United (28),3-1,?,Sunderland AFC (12)
+?,(Sat) 30 Mar 1912 (13),Newcastle United (29),2-0,?,Tottenham Hotspur (12)
+?,(Sat) 7 Oct 1911 (40),Newcastle United (30),0-0,?,West Bromwich Albion (12)
+?,(Sat) 23 Dec 1911 (51),Notts County FC (13),3-1,?,Arsenal FC (31)
+?,(Wed) 13 Mar 1912 (11),Notts County FC (14),2-0,?,Aston Villa FC (31)
+?,(Sat) 20 Jan 1912 (3),Notts County FC (15),1-3,?,Blackburn Rovers (31)
+?,(Sat) 9 Dec 1911 (49),Notts County FC (16),3-2,?,Bolton Wanderers (31)
+?,(Thu) 5 Oct 1911 (40),Notts County FC (17),0-0,?,Bradford City (31)
+?,(Wed) 14 Feb 1912 (7),Notts County FC (18),2-0,?,Bury FC (31)
+?,(Fri) 5 Apr 1912 (14),Notts County FC (19),0-1,?,Everton FC (31)
+?,(Sat) 9 Mar 1912 (10),Notts County FC (20),0-0,?,Liverpool FC (31)
+?,(Mon) 25 Dec 1911 (52),Notts County FC (21),0-1,?,Manchester City (31)
+?,(Sat) 28 Oct 1911 (43),Notts County FC (22),0-1,?,Manchester United (31)
+?,(Sat) 7 Oct 1911 (40),Notts County FC (23),2-1,?,Middlesbrough FC (31)
+?,(Sat) 23 Mar 1912 (12),Notts County FC (24),1-4,?,Newcastle United (31)
+?,(Sat) 6 Apr 1912 (14),Notts County FC (25),1-1,?,Oldham Athletic (13)
+?,(Sat) 14 Oct 1911 (41),Notts County FC (26),1-2,?,Preston North End (13)
+?,(Sat) 25 Nov 1911 (47),Notts County FC (27),2-0,?,Sheffield United FC (13)
+?,(Sat) 23 Sep 1911 (38),Notts County FC (28),1-0,?,Sheffield Wednesday (13)
+?,(Sat) 9 Sep 1911 (36),Notts County FC (29),3-1,?,Sunderland AFC (13)
+?,(Sat) 24 Feb 1912 (8),Notts County FC (30),2-2,?,Tottenham Hotspur (13)
+?,(Sat) 30 Dec 1911 (52),Notts County FC (31),2-0,?,West Bromwich Albion (13)
+?,(Sat) 9 Mar 1912 (10),Oldham Athletic (14),0-0,?,Arsenal FC (32)
+?,(Mon) 8 Apr 1912 (15),Oldham Athletic (15),1-2,?,Aston Villa FC (32)
+?,(Sat) 4 Nov 1911 (44),Oldham Athletic (16),0-1,?,Blackburn Rovers (32)
+?,(Sat) 20 Jan 1912 (3),Oldham Athletic (17),3-1,?,Bolton Wanderers (32)
+?,(Sat) 23 Sep 1911 (38),Oldham Athletic (18),3-0,?,Bradford City (32)
+?,(Sat) 18 Nov 1911 (46),Oldham Athletic (19),2-0,?,Bury FC (32)
+?,(Sat) 17 Feb 1912 (7),Oldham Athletic (20),3-0,?,Everton FC (32)
+?,(Sat) 27 Apr 1912 (17),Oldham Athletic (21),0-1,?,Liverpool FC (32)
+?,(Sat) 7 Oct 1911 (40),Oldham Athletic (22),4-1,?,Manchester City (32)
+?,(Sat) 16 Dec 1911 (50),Oldham Athletic (23),2-2,?,Manchester United (32)
+?,(Sat) 30 Mar 1912 (13),Oldham Athletic (24),2-0,?,Middlesbrough FC (32)
+?,(Mon) 25 Dec 1911 (52),Oldham Athletic (25),2-4,?,Newcastle United (32)
+?,(Sat) 2 Dec 1911 (48),Oldham Athletic (26),1-2,?,Notts County FC (32)
+?,(Sat) 6 Jan 1912 (1),Oldham Athletic (27),1-0,?,Preston North End (14)
+?,(Sat) 2 Sep 1911 (35),Oldham Athletic (28),2-3,?,Sheffield United FC (14)
+?,(Sat) 16 Mar 1912 (11),Oldham Athletic (29),1-0,?,Sheffield Wednesday (14)
+?,(Sat) 2 Mar 1912 (9),Oldham Athletic (30),0-0,?,Sunderland AFC (14)
+?,(Sat) 13 Apr 1912 (15),Oldham Athletic (31),2-1,?,Tottenham Hotspur (14)
+?,(Sat) 21 Oct 1911 (42),Oldham Athletic (32),3-1,?,West Bromwich Albion (14)
+?,(Sat) 21 Oct 1911 (42),Preston North End (15),0-1,?,Arsenal FC (33)
+?,(Sat) 13 Apr 1912 (15),Preston North End (16),4-1,?,Aston Villa FC (33)
+?,(Tue) 26 Dec 1911 (52),Preston North End (17),2-2,?,Blackburn Rovers (33)
+?,(Sat) 23 Sep 1911 (38),Preston North End (18),1-2,?,Bolton Wanderers (33)
+?,(Sat) 7 Oct 1911 (40),Preston North End (19),2-2,?,Bradford City (33)
+?,(Sat) 20 Jan 1912 (3),Preston North End (20),1-0,?,Bury FC (33)
+?,(Sat) 18 Nov 1911 (46),Preston North End (21),2-1,?,Everton FC (33)
+?,(Sat) 30 Mar 1912 (13),Preston North End (22),2-1,?,Liverpool FC (33)
+?,(Sat) 4 Nov 1911 (44),Preston North End (23),2-1,?,Manchester City (33)
+?,(Sat) 16 Mar 1912 (11),Preston North End (24),0-0,?,Manchester United (33)
+?,(Mon) 22 Apr 1912 (17),Preston North End (25),0-3,?,Middlesbrough FC (33)
+?,(Sat) 23 Dec 1911 (51),Preston North End (26),2-1,?,Newcastle United (33)
+?,(Sat) 17 Feb 1912 (7),Preston North End (27),2-1,?,Notts County FC (33)
+?,(Sat) 9 Sep 1911 (36),Preston North End (28),0-1,?,Oldham Athletic (33)
+?,(Fri) 5 Apr 1912 (14),Preston North End (29),3-0,?,Sheffield United FC (15)
+?,(Sat) 30 Dec 1911 (52),Preston North End (30),2-3,?,Sheffield Wednesday (15)
+?,(Sat) 20 Apr 1912 (16),Preston North End (31),0-3,?,Sunderland AFC (15)
+?,(Sat) 2 Mar 1912 (9),Preston North End (32),0-1,?,Tottenham Hotspur (15)
+?,(Sat) 2 Dec 1911 (48),Preston North End (33),1-1,?,West Bromwich Albion (15)
+?,(Sat) 23 Sep 1911 (38),Sheffield United FC (16),2-1,?,Arsenal FC (34)
+?,(Mon) 23 Oct 1911 (43),Sheffield United FC (17),0-1,?,Aston Villa FC (34)
+?,(Sat) 2 Mar 1912 (9),Sheffield United FC (18),1-1,?,Blackburn Rovers (34)
+?,(Sat) 9 Sep 1911 (36),Sheffield United FC (19),0-5,?,Bolton Wanderers (34)
+?,(Mon) 4 Mar 1912 (10),Sheffield United FC (20),7-3,?,Bradford City (34)
+?,(Sat) 16 Mar 1912 (11),Sheffield United FC (21),4-0,?,Bury FC (34)
+?,(Sat) 7 Oct 1911 (40),Sheffield United FC (22),2-1,?,Everton FC (34)
+?,(Sat) 16 Dec 1911 (50),Sheffield United FC (23),3-1,?,Liverpool FC (34)
+?,(Mon) 26 Feb 1912 (9),Sheffield United FC (24),6-2,?,Manchester City (34)
+?,(Sat) 13 Apr 1912 (15),Sheffield United FC (25),6-1,?,Manchester United (34)
+?,(Sat) 18 Nov 1911 (46),Sheffield United FC (26),1-1,?,Middlesbrough FC (34)
+?,(Mon) 1 Jan 1912 (1),Sheffield United FC (27),2-1,?,Newcastle United (34)
+?,(Sat) 30 Mar 1912 (13),Sheffield United FC (28),1-3,?,Notts County FC (34)
+?,(Sat) 30 Dec 1911 (52),Sheffield United FC (29),4-0,?,Oldham Athletic (34)
+?,(Thu) 28 Dec 1911 (52),Sheffield United FC (30),4-2,?,Preston North End (34)
+?,(Sat) 4 Nov 1911 (44),Sheffield United FC (31),1-1,?,Sheffield Wednesday (16)
+?,(Sat) 21 Oct 1911 (42),Sheffield United FC (32),1-2,?,Sunderland AFC (16)
+?,(Sat) 2 Dec 1911 (48),Sheffield United FC (33),1-2,?,Tottenham Hotspur (16)
+?,(Sat) 17 Feb 1912 (7),Sheffield United FC (34),1-1,?,West Bromwich Albion (16)
+?,(Sat) 6 Apr 1912 (14),Sheffield Wednesday (17),3-0,?,Arsenal FC (35)
+?,(Sat) 24 Feb 1912 (8),Sheffield Wednesday (18),3-0,?,Aston Villa FC (35)
+?,(Mon) 8 Apr 1912 (15),Sheffield Wednesday (19),1-1,?,Blackburn Rovers (35)
+?,(Sat) 23 Mar 1912 (12),Sheffield Wednesday (20),0-1,?,Bolton Wanderers (35)
+?,(Sat) 25 Nov 1911 (47),Sheffield Wednesday (21),4-2,?,Bradford City (35)
+?,(Mon) 18 Mar 1912 (12),Sheffield Wednesday (22),2-1,?,Bury FC (35)
+?,(Sat) 20 Apr 1912 (16),Sheffield Wednesday (23),1-3,?,Everton FC (35)
+?,(Sat) 14 Oct 1911 (41),Sheffield Wednesday (24),2-2,?,Liverpool FC (35)
+?,(Sat) 9 Dec 1911 (49),Sheffield Wednesday (25),3-0,?,Manchester City (35)
+?,(Sat) 10 Feb 1912 (6),Sheffield Wednesday (26),3-0,?,Manchester United (35)
+?,(Sat) 16 Sep 1911 (37),Sheffield Wednesday (27),0-2,?,Middlesbrough FC (35)
+?,(Sat) 28 Oct 1911 (43),Sheffield Wednesday (28),1-2,?,Newcastle United (35)
+?,(Sat) 27 Jan 1912 (4),Sheffield Wednesday (29),3-0,?,Notts County FC (35)
+?,(Sat) 11 Nov 1911 (45),Sheffield Wednesday (30),1-0,?,Oldham Athletic (35)
+?,(Sat) 2 Sep 1911 (35),Sheffield Wednesday (31),0-1,?,Preston North End (35)
+?,(Sat) 9 Mar 1912 (10),Sheffield Wednesday (32),1-1,?,Sheffield United FC (35)
+?,(Tue) 26 Dec 1911 (52),Sheffield Wednesday (33),8-0,?,Sunderland AFC (17)
+?,(Sat) 30 Sep 1911 (39),Sheffield Wednesday (34),4-0,?,Tottenham Hotspur (17)
+?,(Sat) 23 Dec 1911 (51),Sheffield Wednesday (35),4-1,?,West Bromwich Albion (17)
+?,(Sat) 23 Mar 1912 (12),Sunderland AFC (18),1-0,?,Arsenal FC (36)
+?,(Sat) 10 Feb 1912 (6),Sunderland AFC (19),2-2,?,Aston Villa FC (36)
+?,(Wed) 6 Sep 1911 (36),Sunderland AFC (20),3-0,?,Blackburn Rovers (36)
+?,(Sat) 9 Mar 1912 (10),Sunderland AFC (21),0-1,?,Bolton Wanderers (36)
+?,(Sat) 11 Nov 1911 (45),Sunderland AFC (22),1-1,?,Bradford City (36)
+?,(Mon) 8 Apr 1912 (15),Sunderland AFC (23),1-0,?,Bury FC (36)
+?,(Sat) 6 Apr 1912 (14),Sunderland AFC (24),4-0,?,Everton FC (36)
+?,(Sat) 30 Sep 1911 (39),Sunderland AFC (25),1-2,?,Liverpool FC (36)
+?,(Sat) 25 Nov 1911 (47),Sunderland AFC (26),1-1,?,Manchester City (36)
+?,(Sat) 27 Jan 1912 (4),Sunderland AFC (27),5-0,?,Manchester United (36)
+?,(Sat) 2 Sep 1911 (35),Sunderland AFC (28),1-0,?,Middlesbrough FC (36)
+?,(Sat) 14 Oct 1911 (41),Sunderland AFC (29),1-2,?,Newcastle United (36)
+?,(Sat) 6 Jan 1912 (1),Sunderland AFC (30),5-0,?,Notts County FC (36)
+?,(Sat) 28 Oct 1911 (43),Sunderland AFC (31),4-2,?,Oldham Athletic (36)
+?,(Sat) 16 Dec 1911 (50),Sunderland AFC (32),3-0,?,Preston North End (36)
+?,(Wed) 28 Feb 1912 (9),Sunderland AFC (33),0-0,?,Sheffield United FC (36)
+?,(Mon) 1 Jan 1912 (1),Sunderland AFC (34),0-0,?,Sheffield Wednesday (36)
+?,(Sat) 16 Sep 1911 (37),Sunderland AFC (35),1-1,?,Tottenham Hotspur (18)
+?,(Sat) 9 Dec 1911 (49),Sunderland AFC (36),3-2,?,West Bromwich Albion (18)
+?,(Mon) 25 Dec 1911 (52),Tottenham Hotspur (19),5-0,?,Arsenal FC (37)
+?,(Sat) 23 Mar 1912 (12),Tottenham Hotspur (20),2-1,?,Aston Villa FC (37)
+?,(Sat) 23 Sep 1911 (38),Tottenham Hotspur (21),0-2,?,Blackburn Rovers (37)
+?,(Sat) 20 Apr 1912 (16),Tottenham Hotspur (22),1-0,?,Bolton Wanderers (37)
+?,(Sat) 23 Dec 1911 (51),Tottenham Hotspur (23),2-3,?,Bradford City (37)
+?,(Sat) 7 Oct 1911 (40),Tottenham Hotspur (24),2-1,?,Bury FC (37)
+?,(Sat) 30 Dec 1911 (52),Tottenham Hotspur (25),0-1,?,Everton FC (37)
+?,(Sat) 11 Nov 1911 (45),Tottenham Hotspur (26),2-0,?,Liverpool FC (37)
+?,(Mon) 8 Apr 1912 (15),Tottenham Hotspur (27),0-2,?,Manchester City (37)
+?,(Tue) 9 Apr 1912 (15),Tottenham Hotspur (28),1-1,?,Manchester United (37)
+?,(Sat) 17 Feb 1912 (7),Tottenham Hotspur (29),2-1,?,Middlesbrough FC (37)
+?,(Sat) 25 Nov 1911 (47),Tottenham Hotspur (30),1-2,?,Newcastle United (37)
+?,(Sat) 21 Oct 1911 (42),Tottenham Hotspur (31),2-2,?,Notts County FC (37)
+?,(Sat) 9 Dec 1911 (49),Tottenham Hotspur (32),4-0,?,Oldham Athletic (37)
+?,(Sat) 28 Oct 1911 (43),Tottenham Hotspur (33),6-2,?,Preston North End (37)
+?,(Sat) 6 Apr 1912 (14),Tottenham Hotspur (34),1-1,?,Sheffield United FC (37)
+?,(Mon) 4 Sep 1911 (36),Tottenham Hotspur (35),3-1,?,Sheffield Wednesday (37)
+?,(Sat) 20 Jan 1912 (3),Tottenham Hotspur (36),0-0,?,Sunderland AFC (37)
+?,(Sat) 9 Sep 1911 (36),Tottenham Hotspur (37),1-0,?,West Bromwich Albion (19)
+?,(Sat) 11 Nov 1911 (45),West Bromwich Albion (20),1-1,?,Arsenal FC (38)
+?,(Sat) 30 Sep 1911 (39),West Bromwich Albion (21),2-2,?,Aston Villa FC (38)
+?,(Sat) 16 Dec 1911 (50),West Bromwich Albion (22),2-0,?,Blackburn Rovers (38)
+?,(Sat) 28 Oct 1911 (43),West Bromwich Albion (23),0-0,?,Bolton Wanderers (38)
+?,(Fri) 26 Apr 1912 (17),West Bromwich Albion (24),0-0,?,Bradford City (38)
+?,(Tue) 26 Dec 1911 (52),West Bromwich Albion (25),2-0,?,Bury FC (38)
+?,(Sat) 25 Nov 1911 (47),West Bromwich Albion (26),1-0,?,Everton FC (38)
+?,(Sat) 27 Jan 1912 (4),West Bromwich Albion (27),1-0,?,Liverpool FC (38)
+?,(Sat) 23 Mar 1912 (12),West Bromwich Albion (28),1-1,?,Manchester City (38)
+?,(Sat) 16 Sep 1911 (37),West Bromwich Albion (29),1-0,?,Manchester United (38)
+?,(Mon) 8 Apr 1912 (15),West Bromwich Albion (30),3-1,?,Middlesbrough FC (38)
+?,(Sat) 10 Feb 1912 (6),West Bromwich Albion (31),3-1,?,Newcastle United (38)
+?,(Sat) 2 Sep 1911 (35),West Bromwich Albion (32),2-1,?,Notts County FC (38)
+?,(Mon) 29 Apr 1912 (18),West Bromwich Albion (33),0-0,?,Oldham Athletic (38)
+?,(Tue) 9 Apr 1912 (15),West Bromwich Albion (34),0-2,?,Preston North End (38)
+?,(Sat) 14 Oct 1911 (41),West Bromwich Albion (35),0-1,?,Sheffield United FC (38)
+?,(Sat) 27 Apr 1912 (17),West Bromwich Albion (36),1-5,?,Sheffield Wednesday (38)
+?,(Sat) 13 Apr 1912 (15),West Bromwich Albion (37),1-0,?,Sunderland AFC (38)
+?,(Wed) 13 Mar 1912 (11),West Bromwich Albion (38),2-0,?,Tottenham Hotspur (38)

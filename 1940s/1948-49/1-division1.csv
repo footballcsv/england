@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aston Villa,Arsenal,1-0,-
--,-,Birmingham City,Arsenal,1-1,-
--,-,Blackpool,Arsenal,1-1,-
--,-,Bolton Wanderers,Arsenal,1-0,-
--,-,Burnley,Arsenal,1-1,-
--,-,Charlton Athletic,Arsenal,4-3,-
--,-,Chelsea,Arsenal,0-1,-
--,-,Derby County,Arsenal,2-1,-
--,-,Everton,Arsenal,0-0,-
--,-,Huddersfield Town,Arsenal,1-1,-
--,-,Liverpool,Arsenal,0-1,-
--,-,Manchester City,Arsenal,0-3,-
--,-,Manchester United,Arsenal,2-0,-
--,-,Middlesbrough,Arsenal,0-1,-
--,-,Newcastle United,Arsenal,3-2,-
--,-,Portsmouth,Arsenal,4-1,-
--,-,Preston North End,Arsenal,1-1,-
--,-,Sheffield United,Arsenal,1-1,-
--,-,Stoke City,Arsenal,1-0,-
--,-,Sunderland,Arsenal,1-1,-
--,-,Wolverhampton Wanderers,Arsenal,1-3,-
--,-,Arsenal,Aston Villa,3-1,-
--,-,Birmingham City,Aston Villa,0-1,-
--,-,Blackpool,Aston Villa,1-0,-
--,-,Bolton Wanderers,Aston Villa,3-0,-
--,-,Burnley,Aston Villa,1-1,-
--,-,Charlton Athletic,Aston Villa,0-2,-
--,-,Chelsea,Aston Villa,2-1,-
--,-,Derby County,Aston Villa,2-2,-
--,-,Everton,Aston Villa,1-3,-
--,-,Huddersfield Town,Aston Villa,0-1,-
--,-,Liverpool,Aston Villa,1-1,-
--,-,Manchester City,Aston Villa,4-1,-
--,-,Manchester United,Aston Villa,3-1,-
--,-,Middlesbrough,Aston Villa,6-0,-
--,-,Newcastle United,Aston Villa,2-1,-
--,-,Portsmouth,Aston Villa,3-0,-
--,-,Preston North End,Aston Villa,0-1,-
--,-,Sheffield United,Aston Villa,0-1,-
--,-,Stoke City,Aston Villa,4-2,-
--,-,Sunderland,Aston Villa,0-0,-
--,-,Wolverhampton Wanderers,Aston Villa,4-0,-
--,-,Arsenal,Birmingham City,2-0,-
--,-,Aston Villa,Birmingham City,0-3,-
--,-,Blackpool,Birmingham City,1-0,-
--,-,Bolton Wanderers,Birmingham City,0-0,-
--,-,Burnley,Birmingham City,2-2,-
--,-,Charlton Athletic,Birmingham City,1-1,-
--,-,Chelsea,Birmingham City,2-0,-
--,-,Derby County,Birmingham City,1-0,-
--,-,Everton,Birmingham City,0-5,-
--,-,Huddersfield Town,Birmingham City,0-0,-
--,-,Liverpool,Birmingham City,1-0,-
--,-,Manchester City,Birmingham City,1-0,-
--,-,Manchester United,Birmingham City,3-0,-
--,-,Middlesbrough,Birmingham City,1-1,-
--,-,Newcastle United,Birmingham City,1-0,-
--,-,Portsmouth,Birmingham City,3-1,-
--,-,Preston North End,Birmingham City,0-0,-
--,-,Sheffield United,Birmingham City,4-0,-
--,-,Stoke City,Birmingham City,2-1,-
--,-,Sunderland,Birmingham City,1-1,-
--,-,Wolverhampton Wanderers,Birmingham City,2-2,-
--,-,Arsenal,Blackpool,2-0,-
--,-,Aston Villa,Blackpool,2-5,-
--,-,Birmingham City,Blackpool,1-1,-
--,-,Bolton Wanderers,Blackpool,2-2,-
--,-,Burnley,Blackpool,2-0,-
--,-,Charlton Athletic,Blackpool,0-0,-
--,-,Chelsea,Blackpool,3-3,-
--,-,Derby County,Blackpool,3-1,-
--,-,Everton,Blackpool,5-0,-
--,-,Huddersfield Town,Blackpool,1-0,-
--,-,Liverpool,Blackpool,1-1,-
--,-,Manchester City,Blackpool,1-1,-
--,-,Manchester United,Blackpool,3-4,-
--,-,Middlesbrough,Blackpool,1-0,-
--,-,Newcastle United,Blackpool,3-1,-
--,-,Portsmouth,Blackpool,1-1,-
--,-,Preston North End,Blackpool,1-3,-
--,-,Sheffield United,Blackpool,3-2,-
--,-,Stoke City,Blackpool,3-2,-
--,-,Sunderland,Blackpool,2-2,-
--,-,Wolverhampton Wanderers,Blackpool,2-1,-
--,-,Arsenal,Bolton Wanderers,5-0,-
--,-,Aston Villa,Bolton Wanderers,2-4,-
--,-,Birmingham City,Bolton Wanderers,0-0,-
--,-,Blackpool,Bolton Wanderers,1-0,-
--,-,Burnley,Bolton Wanderers,3-0,-
--,-,Charlton Athletic,Bolton Wanderers,1-4,-
--,-,Chelsea,Bolton Wanderers,2-2,-
--,-,Derby County,Bolton Wanderers,1-0,-
--,-,Everton,Bolton Wanderers,1-0,-
--,-,Huddersfield Town,Bolton Wanderers,0-2,-
--,-,Liverpool,Bolton Wanderers,0-1,-
--,-,Manchester City,Bolton Wanderers,1-0,-
--,-,Manchester United,Bolton Wanderers,3-0,-
--,-,Middlesbrough,Bolton Wanderers,5-0,-
--,-,Newcastle United,Bolton Wanderers,1-1,-
--,-,Portsmouth,Bolton Wanderers,0-0,-
--,-,Preston North End,Bolton Wanderers,1-1,-
--,-,Sheffield United,Bolton Wanderers,1-1,-
--,-,Stoke City,Bolton Wanderers,4-0,-
--,-,Sunderland,Bolton Wanderers,2-0,-
--,-,Wolverhampton Wanderers,Bolton Wanderers,2-0,-
--,-,Arsenal,Burnley,3-1,-
--,-,Aston Villa,Burnley,3-1,-
--,-,Birmingham City,Burnley,0-0,-
--,-,Blackpool,Burnley,1-1,-
--,-,Bolton Wanderers,Burnley,0-1,-
--,-,Charlton Athletic,Burnley,3-1,-
--,-,Chelsea,Burnley,1-0,-
--,-,Derby County,Burnley,2-0,-
--,-,Everton,Burnley,2-1,-
--,-,Huddersfield Town,Burnley,1-0,-
--,-,Liverpool,Burnley,1-1,-
--,-,Manchester City,Burnley,2-2,-
--,-,Manchester United,Burnley,1-1,-
--,-,Middlesbrough,Burnley,4-1,-
--,-,Newcastle United,Burnley,1-1,-
--,-,Portsmouth,Burnley,1-0,-
--,-,Preston North End,Burnley,0-3,-
--,-,Sheffield United,Burnley,0-0,-
--,-,Stoke City,Burnley,2-1,-
--,-,Sunderland,Burnley,0-0,-
--,-,Wolverhampton Wanderers,Burnley,3-0,-
--,-,Arsenal,Charlton Athletic,2-0,-
--,-,Aston Villa,Charlton Athletic,4-3,-
--,-,Birmingham City,Charlton Athletic,1-0,-
--,-,Blackpool,Charlton Athletic,0-1,-
--,-,Bolton Wanderers,Charlton Athletic,2-2,-
--,-,Burnley,Charlton Athletic,0-0,-
--,-,Chelsea,Charlton Athletic,2-2,-
--,-,Derby County,Charlton Athletic,5-1,-
--,-,Everton,Charlton Athletic,1-1,-
--,-,Huddersfield Town,Charlton Athletic,1-2,-
--,-,Liverpool,Charlton Athletic,1-1,-
--,-,Manchester City,Charlton Athletic,0-1,-
--,-,Manchester United,Charlton Athletic,1-1,-
--,-,Middlesbrough,Charlton Athletic,2-4,-
--,-,Newcastle United,Charlton Athletic,2-0,-
--,-,Portsmouth,Charlton Athletic,3-1,-
--,-,Preston North End,Charlton Athletic,2-3,-
--,-,Sheffield United,Charlton Athletic,2-0,-
--,-,Stoke City,Charlton Athletic,2-2,-
--,-,Sunderland,Charlton Athletic,1-0,-
--,-,Wolverhampton Wanderers,Charlton Athletic,2-0,-
--,-,Arsenal,Chelsea,1-2,-
--,-,Aston Villa,Chelsea,1-1,-
--,-,Birmingham City,Chelsea,1-0,-
--,-,Blackpool,Chelsea,2-1,-
--,-,Bolton Wanderers,Chelsea,1-1,-
--,-,Burnley,Chelsea,3-0,-
--,-,Charlton Athletic,Chelsea,1-1,-
--,-,Derby County,Chelsea,2-1,-
--,-,Everton,Chelsea,2-1,-
--,-,Huddersfield Town,Chelsea,3-4,-
--,-,Liverpool,Chelsea,1-1,-
--,-,Manchester City,Chelsea,1-0,-
--,-,Manchester United,Chelsea,1-1,-
--,-,Middlesbrough,Chelsea,1-1,-
--,-,Newcastle United,Chelsea,2-2,-
--,-,Portsmouth,Chelsea,5-2,-
--,-,Preston North End,Chelsea,3-2,-
--,-,Sheffield United,Chelsea,2-1,-
--,-,Stoke City,Chelsea,4-3,-
--,-,Sunderland,Chelsea,3-0,-
--,-,Wolverhampton Wanderers,Chelsea,1-1,-
--,-,Arsenal,Derby County,3-3,-
--,-,Aston Villa,Derby County,1-1,-
--,-,Birmingham City,Derby County,0-1,-
--,-,Blackpool,Derby County,1-1,-
--,-,Bolton Wanderers,Derby County,4-0,-
--,-,Burnley,Derby County,3-1,-
--,-,Charlton Athletic,Derby County,1-5,-
--,-,Chelsea,Derby County,0-3,-
--,-,Everton,Derby County,0-1,-
--,-,Huddersfield Town,Derby County,1-1,-
--,-,Liverpool,Derby County,0-0,-
--,-,Manchester City,Derby County,2-1,-
--,-,Manchester United,Derby County,1-2,-
--,-,Middlesbrough,Derby County,1-0,-
--,-,Newcastle United,Derby County,3-0,-
--,-,Portsmouth,Derby County,1-0,-
--,-,Preston North End,Derby County,0-0,-
--,-,Sheffield United,Derby County,3-1,-
--,-,Stoke City,Derby County,4-2,-
--,-,Sunderland,Derby County,2-1,-
--,-,Wolverhampton Wanderers,Derby County,2-2,-
--,-,Arsenal,Everton,5-0,-
--,-,Aston Villa,Everton,0-1,-
--,-,Birmingham City,Everton,0-0,-
--,-,Blackpool,Everton,3-0,-
--,-,Bolton Wanderers,Everton,1-0,-
--,-,Burnley,Everton,1-0,-
--,-,Charlton Athletic,Everton,3-1,-
--,-,Chelsea,Everton,6-0,-
--,-,Derby County,Everton,3-2,-
--,-,Huddersfield Town,Everton,1-1,-
--,-,Liverpool,Everton,0-0,-
--,-,Manchester City,Everton,0-0,-
--,-,Manchester United,Everton,2-0,-
--,-,Middlesbrough,Everton,1-0,-
--,-,Newcastle United,Everton,1-0,-
--,-,Portsmouth,Everton,4-0,-
--,-,Preston North End,Everton,3-1,-
--,-,Sheffield United,Everton,1-1,-
--,-,Stoke City,Everton,1-0,-
--,-,Sunderland,Everton,1-1,-
--,-,Wolverhampton Wanderers,Everton,1-0,-
--,-,Arsenal,Huddersfield Town,3-0,-
--,-,Aston Villa,Huddersfield Town,3-3,-
--,-,Birmingham City,Huddersfield Town,1-0,-
--,-,Blackpool,Huddersfield Town,0-0,-
--,-,Bolton Wanderers,Huddersfield Town,1-2,-
--,-,Burnley,Huddersfield Town,1-2,-
--,-,Charlton Athletic,Huddersfield Town,3-1,-
--,-,Chelsea,Huddersfield Town,5-0,-
--,-,Derby County,Huddersfield Town,4-1,-
--,-,Everton,Huddersfield Town,2-0,-
--,-,Liverpool,Huddersfield Town,0-1,-
--,-,Manchester City,Huddersfield Town,3-1,-
--,-,Manchester United,Huddersfield Town,4-1,-
--,-,Middlesbrough,Huddersfield Town,1-0,-
--,-,Newcastle United,Huddersfield Town,2-4,-
--,-,Portsmouth,Huddersfield Town,2-0,-
--,-,Preston North End,Huddersfield Town,2-0,-
--,-,Sheffield United,Huddersfield Town,0-0,-
--,-,Stoke City,Huddersfield Town,1-3,-
--,-,Sunderland,Huddersfield Town,0-1,-
--,-,Wolverhampton Wanderers,Huddersfield Town,7-1,-
--,-,Arsenal,Liverpool,1-1,-
--,-,Aston Villa,Liverpool,2-1,-
--,-,Birmingham City,Liverpool,0-1,-
--,-,Blackpool,Liverpool,1-0,-
--,-,Bolton Wanderers,Liverpool,0-3,-
--,-,Burnley,Liverpool,0-2,-
--,-,Charlton Athletic,Liverpool,2-1,-
--,-,Chelsea,Liverpool,2-1,-
--,-,Derby County,Liverpool,3-0,-
--,-,Everton,Liverpool,1-1,-
--,-,Huddersfield Town,Liverpool,0-4,-
--,-,Manchester City,Liverpool,2-4,-
--,-,Manchester United,Liverpool,0-0,-
--,-,Middlesbrough,Liverpool,0-1,-
--,-,Newcastle United,Liverpool,1-0,-
--,-,Portsmouth,Liverpool,3-2,-
--,-,Preston North End,Liverpool,3-2,-
--,-,Sheffield United,Liverpool,1-2,-
--,-,Stoke City,Liverpool,3-0,-
--,-,Sunderland,Liverpool,0-2,-
--,-,Wolverhampton Wanderers,Liverpool,0-0,-
--,-,Arsenal,Manchester City,1-1,-
--,-,Aston Villa,Manchester City,1-0,-
--,-,Birmingham City,Manchester City,4-1,-
--,-,Blackpool,Manchester City,1-1,-
--,-,Bolton Wanderers,Manchester City,5-1,-
--,-,Burnley,Manchester City,1-0,-
--,-,Charlton Athletic,Manchester City,3-2,-
--,-,Chelsea,Manchester City,1-1,-
--,-,Derby County,Manchester City,2-0,-
--,-,Everton,Manchester City,0-0,-
--,-,Huddersfield Town,Manchester City,1-0,-
--,-,Liverpool,Manchester City,0-1,-
--,-,Manchester United,Manchester City,0-0,-
--,-,Middlesbrough,Manchester City,0-1,-
--,-,Newcastle United,Manchester City,0-0,-
--,-,Portsmouth,Manchester City,3-1,-
--,-,Preston North End,Manchester City,1-3,-
--,-,Sheffield United,Manchester City,0-2,-
--,-,Stoke City,Manchester City,2-3,-
--,-,Sunderland,Manchester City,3-0,-
--,-,Wolverhampton Wanderers,Manchester City,1-1,-
--,-,Arsenal,Manchester United,0-1,-
--,-,Aston Villa,Manchester United,2-1,-
--,-,Birmingham City,Manchester United,1-0,-
--,-,Blackpool,Manchester United,0-3,-
--,-,Bolton Wanderers,Manchester United,0-1,-
--,-,Burnley,Manchester United,0-2,-
--,-,Charlton Athletic,Manchester United,2-3,-
--,-,Chelsea,Manchester United,1-1,-
--,-,Derby County,Manchester United,1-3,-
--,-,Everton,Manchester United,2-0,-
--,-,Huddersfield Town,Manchester United,2-1,-
--,-,Liverpool,Manchester United,0-2,-
--,-,Manchester City,Manchester United,0-0,-
--,-,Middlesbrough,Manchester United,1-4,-
--,-,Newcastle United,Manchester United,0-1,-
--,-,Portsmouth,Manchester United,2-2,-
--,-,Preston North End,Manchester United,1-6,-
--,-,Sheffield United,Manchester United,2-2,-
--,-,Stoke City,Manchester United,2-1,-
--,-,Sunderland,Manchester United,2-1,-
--,-,Wolverhampton Wanderers,Manchester United,3-2,-
--,-,Arsenal,Middlesbrough,1-1,-
--,-,Aston Villa,Middlesbrough,1-1,-
--,-,Birmingham City,Middlesbrough,0-0,-
--,-,Blackpool,Middlesbrough,1-1,-
--,-,Bolton Wanderers,Middlesbrough,4-1,-
--,-,Burnley,Middlesbrough,0-0,-
--,-,Charlton Athletic,Middlesbrough,2-0,-
--,-,Chelsea,Middlesbrough,1-0,-
--,-,Derby County,Middlesbrough,2-0,-
--,-,Everton,Middlesbrough,3-1,-
--,-,Huddersfield Town,Middlesbrough,0-0,-
--,-,Liverpool,Middlesbrough,4-0,-
--,-,Manchester City,Middlesbrough,1-0,-
--,-,Manchester United,Middlesbrough,1-0,-
--,-,Newcastle United,Middlesbrough,1-0,-
--,-,Portsmouth,Middlesbrough,1-0,-
--,-,Preston North End,Middlesbrough,6-1,-
--,-,Sheffield United,Middlesbrough,1-0,-
--,-,Stoke City,Middlesbrough,3-0,-
--,-,Sunderland,Middlesbrough,1-0,-
--,-,Wolverhampton Wanderers,Middlesbrough,0-3,-
--,-,Arsenal,Newcastle United,0-1,-
--,-,Aston Villa,Newcastle United,2-4,-
--,-,Birmingham City,Newcastle United,2-0,-
--,-,Blackpool,Newcastle United,1-3,-
--,-,Bolton Wanderers,Newcastle United,1-5,-
--,-,Burnley,Newcastle United,0-3,-
--,-,Charlton Athletic,Newcastle United,0-0,-
--,-,Chelsea,Newcastle United,2-3,-
--,-,Derby County,Newcastle United,2-4,-
--,-,Everton,Newcastle United,3-3,-
--,-,Huddersfield Town,Newcastle United,0-2,-
--,-,Liverpool,Newcastle United,1-1,-
--,-,Manchester City,Newcastle United,1-0,-
--,-,Manchester United,Newcastle United,1-1,-
--,-,Middlesbrough,Newcastle United,3-2,-
--,-,Portsmouth,Newcastle United,1-0,-
--,-,Preston North End,Newcastle United,2-1,-
--,-,Sheffield United,Newcastle United,0-0,-
--,-,Stoke City,Newcastle United,1-1,-
--,-,Sunderland,Newcastle United,1-1,-
--,-,Wolverhampton Wanderers,Newcastle United,3-0,-
--,-,Arsenal,Portsmouth,3-2,-
--,-,Aston Villa,Portsmouth,1-1,-
--,-,Birmingham City,Portsmouth,3-0,-
--,-,Blackpool,Portsmouth,1-0,-
--,-,Bolton Wanderers,Portsmouth,1-2,-
--,-,Burnley,Portsmouth,2-1,-
--,-,Charlton Athletic,Portsmouth,0-1,-
--,-,Chelsea,Portsmouth,1-2,-
--,-,Derby County,Portsmouth,1-0,-
--,-,Everton,Portsmouth,0-5,-
--,-,Huddersfield Town,Portsmouth,0-0,-
--,-,Liverpool,Portsmouth,3-1,-
--,-,Manchester City,Portsmouth,1-1,-
--,-,Manchester United,Portsmouth,3-2,-
--,-,Middlesbrough,Portsmouth,1-1,-
--,-,Newcastle United,Portsmouth,0-5,-
--,-,Preston North End,Portsmouth,2-2,-
--,-,Sheffield United,Portsmouth,3-1,-
--,-,Stoke City,Portsmouth,0-1,-
--,-,Sunderland,Portsmouth,1-4,-
--,-,Wolverhampton Wanderers,Portsmouth,3-0,-
--,-,Arsenal,Preston North End,0-0,-
--,-,Aston Villa,Preston North End,2-0,-
--,-,Birmingham City,Preston North End,1-0,-
--,-,Blackpool,Preston North End,2-2,-
--,-,Bolton Wanderers,Preston North End,5-3,-
--,-,Burnley,Preston North End,1-0,-
--,-,Charlton Athletic,Preston North End,0-0,-
--,-,Chelsea,Preston North End,5-3,-
--,-,Derby County,Preston North End,1-0,-
--,-,Everton,Preston North End,4-1,-
--,-,Huddersfield Town,Preston North End,0-2,-
--,-,Liverpool,Preston North End,0-2,-
--,-,Manchester City,Preston North End,3-2,-
--,-,Manchester United,Preston North End,2-2,-
--,-,Middlesbrough,Preston North End,1-0,-
--,-,Newcastle United,Preston North End,2-5,-
--,-,Portsmouth,Preston North End,3-1,-
--,-,Sheffield United,Preston North End,3-2,-
--,-,Stoke City,Preston North End,2-0,-
--,-,Sunderland,Preston North End,0-0,-
--,-,Wolverhampton Wanderers,Preston North End,2-1,-
--,-,Arsenal,Sheffield United,5-3,-
--,-,Aston Villa,Sheffield United,4-3,-
--,-,Birmingham City,Sheffield United,1-2,-
--,-,Blackpool,Sheffield United,0-3,-
--,-,Bolton Wanderers,Sheffield United,6-1,-
--,-,Burnley,Sheffield United,2-0,-
--,-,Charlton Athletic,Sheffield United,2-1,-
--,-,Chelsea,Sheffield United,1-0,-
--,-,Derby County,Sheffield United,2-1,-
--,-,Everton,Sheffield United,2-1,-
--,-,Huddersfield Town,Sheffield United,0-0,-
--,-,Liverpool,Sheffield United,3-3,-
--,-,Manchester City,Sheffield United,1-0,-
--,-,Manchester United,Sheffield United,3-2,-
--,-,Middlesbrough,Sheffield United,3-1,-
--,-,Newcastle United,Sheffield United,3-2,-
--,-,Portsmouth,Sheffield United,3-0,-
--,-,Preston North End,Sheffield United,4-1,-
--,-,Stoke City,Sheffield United,0-1,-
--,-,Sunderland,Sheffield United,2-0,-
--,-,Wolverhampton Wanderers,Sheffield United,6-0,-
--,-,Arsenal,Stoke City,3-0,-
--,-,Aston Villa,Stoke City,2-1,-
--,-,Birmingham City,Stoke City,2-1,-
--,-,Blackpool,Stoke City,2-1,-
--,-,Bolton Wanderers,Stoke City,2-1,-
--,-,Burnley,Stoke City,1-3,-
--,-,Charlton Athletic,Stoke City,4-1,-
--,-,Chelsea,Stoke City,2-2,-
--,-,Derby County,Stoke City,4-1,-
--,-,Everton,Stoke City,2-1,-
--,-,Huddersfield Town,Stoke City,1-3,-
--,-,Liverpool,Stoke City,4-0,-
--,-,Manchester City,Stoke City,0-0,-
--,-,Manchester United,Stoke City,3-0,-
--,-,Middlesbrough,Stoke City,1-1,-
--,-,Newcastle United,Stoke City,2-2,-
--,-,Portsmouth,Stoke City,1-0,-
--,-,Preston North End,Stoke City,2-1,-
--,-,Sheffield United,Stoke City,2-2,-
--,-,Sunderland,Stoke City,1-1,-
--,-,Wolverhampton Wanderers,Stoke City,3-1,-
--,-,Arsenal,Sunderland,5-0,-
--,-,Aston Villa,Sunderland,1-1,-
--,-,Birmingham City,Sunderland,0-0,-
--,-,Blackpool,Sunderland,3-3,-
--,-,Bolton Wanderers,Sunderland,4-1,-
--,-,Burnley,Sunderland,3-1,-
--,-,Charlton Athletic,Sunderland,4-0,-
--,-,Chelsea,Sunderland,0-1,-
--,-,Derby County,Sunderland,2-2,-
--,-,Everton,Sunderland,1-0,-
--,-,Huddersfield Town,Sunderland,2-0,-
--,-,Liverpool,Sunderland,4-0,-
--,-,Manchester City,Sunderland,1-1,-
--,-,Manchester United,Sunderland,1-2,-
--,-,Middlesbrough,Sunderland,0-0,-
--,-,Newcastle United,Sunderland,2-1,-
--,-,Portsmouth,Sunderland,3-0,-
--,-,Preston North End,Sunderland,1-3,-
--,-,Sheffield United,Sunderland,2-5,-
--,-,Stoke City,Sunderland,0-0,-
--,-,Wolverhampton Wanderers,Sunderland,0-1,-
--,-,Arsenal,Wolverhampton Wanderers,3-1,-
--,-,Aston Villa,Wolverhampton Wanderers,5-1,-
--,-,Birmingham City,Wolverhampton Wanderers,0-1,-
--,-,Blackpool,Wolverhampton Wanderers,1-3,-
--,-,Bolton Wanderers,Wolverhampton Wanderers,0-5,-
--,-,Burnley,Wolverhampton Wanderers,0-0,-
--,-,Charlton Athletic,Wolverhampton Wanderers,2-3,-
--,-,Chelsea,Wolverhampton Wanderers,4-1,-
--,-,Derby County,Wolverhampton Wanderers,3-2,-
--,-,Everton,Wolverhampton Wanderers,1-0,-
--,-,Huddersfield Town,Wolverhampton Wanderers,4-0,-
--,-,Liverpool,Wolverhampton Wanderers,0-0,-
--,-,Manchester City,Wolverhampton Wanderers,3-3,-
--,-,Manchester United,Wolverhampton Wanderers,2-0,-
--,-,Middlesbrough,Wolverhampton Wanderers,4-4,-
--,-,Newcastle United,Wolverhampton Wanderers,3-1,-
--,-,Portsmouth,Wolverhampton Wanderers,5-0,-
--,-,Preston North End,Wolverhampton Wanderers,1-1,-
--,-,Sheffield United,Wolverhampton Wanderers,1-1,-
--,-,Stoke City,Wolverhampton Wanderers,2-1,-
--,-,Sunderland,Wolverhampton Wanderers,3-3,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 11 Sep 1948 (36),Arsenal FC (1),3-1,?,Aston Villa FC (1)
+?,(Sat) 6 Nov 1948 (44),Arsenal FC (2),2-0,?,Birmingham City (1)
+?,(Mon) 18 Apr 1949 (16),Arsenal FC (3),2-0,?,Blackpool FC (1)
+?,(Sat) 26 Feb 1949 (8),Arsenal FC (4),5-0,?,Bolton Wanderers (1)
+?,(Sat) 9 Oct 1948 (40),Arsenal FC (5),3-1,?,Burnley FC (1)
+?,(Sat) 7 May 1949 (18),Arsenal FC (6),2-0,?,Charlton Athletic (1)
+?,(Sat) 23 Apr 1949 (16),Arsenal FC (7),1-2,?,Chelsea FC (1)
+?,(Sat) 25 Dec 1948 (51),Arsenal FC (8),3-3,?,Derby County (1)
+?,(Sat) 23 Oct 1948 (42),Arsenal FC (9),5-0,?,Everton FC (1)
+?,(Sat) 18 Dec 1948 (50),Arsenal FC (10),3-0,?,Huddersfield Town (1)
+?,(Wed) 8 Sep 1948 (36),Arsenal FC (11),1-1,?,Liverpool FC (1)
+?,(Sat) 4 Dec 1948 (48),Arsenal FC (12),1-1,?,Manchester City (1)
+?,(Sat) 28 Aug 1948 (34),Arsenal FC (13),0-1,?,Manchester United (1)
+?,(Sat) 9 Apr 1949 (14),Arsenal FC (14),1-1,?,Middlesbrough FC (1)
+?,(Sat) 20 Nov 1948 (46),Arsenal FC (15),0-1,?,Newcastle United (1)
+?,(Wed) 4 May 1949 (18),Arsenal FC (16),3-2,?,Portsmouth FC (1)
+?,(Sat) 12 Mar 1949 (10),Arsenal FC (17),0-0,?,Preston North End (1)
+?,(Sat) 15 Jan 1949 (2),Arsenal FC (18),5-3,?,Sheffield United FC (1)
+?,(Wed) 25 Aug 1948 (34),Arsenal FC (19),3-0,?,Stoke City (1)
+?,(Sat) 5 Feb 1949 (5),Arsenal FC (20),5-0,?,Sunderland AFC (1)
+?,(Sat) 25 Sep 1948 (38),Arsenal FC (21),3-1,?,Wolverhampton Wanderers (1)
+?,(Sat) 22 Jan 1949 (3),Aston Villa FC (2),1-0,?,Arsenal FC (22)
+?,(Sat) 4 Dec 1948 (48),Aston Villa FC (3),0-3,?,Birmingham City (2)
+?,(Sat) 1 Jan 1949 (0),Aston Villa FC (4),2-5,?,Blackpool FC (2)
+?,(Mon) 30 Aug 1948 (35),Aston Villa FC (5),2-4,?,Bolton Wanderers (2)
+?,(Sat) 6 Nov 1948 (44),Aston Villa FC (6),3-1,?,Burnley FC (2)
+?,(Sat) 23 Oct 1948 (42),Aston Villa FC (7),4-3,?,Charlton Athletic (2)
+?,(Sat) 26 Mar 1949 (12),Aston Villa FC (8),1-1,?,Chelsea FC (2)
+?,(Sat) 4 Sep 1948 (35),Aston Villa FC (9),1-1,?,Derby County (2)
+?,(Sat) 20 Nov 1948 (46),Aston Villa FC (10),0-1,?,Everton FC (2)
+?,(Sat) 18 Sep 1948 (37),Aston Villa FC (11),3-3,?,Huddersfield Town (2)
+?,(Sat) 21 Aug 1948 (33),Aston Villa FC (12),2-1,?,Liverpool FC (2)
+?,(Sat) 12 Mar 1949 (10),Aston Villa FC (13),1-0,?,Manchester City (2)
+?,(Sat) 19 Feb 1949 (7),Aston Villa FC (14),2-1,?,Manchester United (2)
+?,(Sat) 7 May 1949 (18),Aston Villa FC (15),1-1,?,Middlesbrough FC (2)
+?,(Mon) 13 Sep 1948 (37),Aston Villa FC (16),2-4,?,Newcastle United (2)
+?,(Sat) 9 Oct 1948 (40),Aston Villa FC (17),1-1,?,Portsmouth FC (2)
+?,(Sat) 9 Apr 1949 (14),Aston Villa FC (18),2-0,?,Preston North End (2)
+?,(Sat) 2 Oct 1948 (39),Aston Villa FC (19),4-3,?,Sheffield United FC (2)
+?,(Sat) 23 Apr 1949 (16),Aston Villa FC (20),2-1,?,Stoke City (2)
+?,(Tue) 19 Apr 1949 (16),Aston Villa FC (21),1-1,?,Sunderland AFC (2)
+?,(Mon) 27 Dec 1948 (52),Aston Villa FC (22),5-1,?,Wolverhampton Wanderers (2)
+?,(Sat) 2 Apr 1949 (13),Birmingham City (3),1-1,?,Arsenal FC (23)
+?,(Sat) 30 Apr 1949 (17),Birmingham City (4),0-1,?,Aston Villa FC (23)
+?,(Sat) 16 Apr 1949 (15),Birmingham City (5),1-1,?,Blackpool FC (3)
+?,(Sat) 5 Mar 1949 (9),Birmingham City (6),0-0,?,Bolton Wanderers (3)
+?,(Sat) 5 Feb 1949 (5),Birmingham City (7),0-0,?,Burnley FC (3)
+?,(Sat) 26 Feb 1949 (8),Birmingham City (8),1-0,?,Charlton Athletic (3)
+?,(Sat) 28 Aug 1948 (34),Birmingham City (9),1-0,?,Chelsea FC (3)
+?,(Sat) 30 Oct 1948 (43),Birmingham City (10),0-1,?,Derby County (3)
+?,(Sat) 12 Feb 1949 (6),Birmingham City (11),0-0,?,Everton FC (3)
+?,(Sat) 13 Nov 1948 (45),Birmingham City (12),1-0,?,Huddersfield Town (3)
+?,(Sat) 16 Oct 1948 (41),Birmingham City (13),0-1,?,Liverpool FC (3)
+?,(Wed) 15 Sep 1948 (37),Birmingham City (14),4-1,?,Manchester City (3)
+?,(Sat) 19 Mar 1949 (11),Birmingham City (15),1-0,?,Manchester United (3)
+?,(Wed) 25 Aug 1948 (34),Birmingham City (16),0-0,?,Middlesbrough FC (3)
+?,(Sat) 25 Dec 1948 (51),Birmingham City (17),2-0,?,Newcastle United (3)
+?,(Mon) 18 Apr 1949 (16),Birmingham City (18),3-0,?,Portsmouth FC (3)
+?,(Sat) 11 Sep 1948 (36),Birmingham City (19),1-0,?,Preston North End (3)
+?,(Sat) 27 Nov 1948 (47),Birmingham City (20),1-2,?,Sheffield United FC (3)
+?,(Sat) 25 Sep 1948 (38),Birmingham City (21),2-1,?,Stoke City (3)
+?,(Sat) 11 Dec 1948 (49),Birmingham City (22),0-0,?,Sunderland AFC (3)
+?,(Sat) 18 Dec 1948 (50),Birmingham City (23),0-1,?,Wolverhampton Wanderers (3)
+?,(Fri) 15 Apr 1949 (15),Blackpool FC (4),1-1,?,Arsenal FC (24)
+?,(Sat) 28 Aug 1948 (34),Blackpool FC (5),1-0,?,Aston Villa FC (24)
+?,(Sat) 23 Oct 1948 (42),Blackpool FC (6),1-0,?,Birmingham City (24)
+?,(Sat) 12 Feb 1949 (6),Blackpool FC (7),1-0,?,Bolton Wanderers (4)
+?,(Sat) 7 May 1949 (18),Blackpool FC (8),1-1,?,Burnley FC (4)
+?,(Sat) 26 Mar 1949 (12),Blackpool FC (9),0-1,?,Charlton Athletic (4)
+?,(Sat) 12 Mar 1949 (10),Blackpool FC (10),2-1,?,Chelsea FC (4)
+?,(Mon) 6 Sep 1948 (36),Blackpool FC (11),1-1,?,Derby County (4)
+?,(Sat) 9 Oct 1948 (40),Blackpool FC (12),3-0,?,Everton FC (4)
+?,(Sat) 25 Dec 1948 (51),Blackpool FC (13),0-0,?,Huddersfield Town (4)
+?,(Sat) 25 Sep 1948 (38),Blackpool FC (14),1-0,?,Liverpool FC (4)
+?,(Sat) 20 Nov 1948 (46),Blackpool FC (15),1-1,?,Manchester City (4)
+?,(Mon) 23 Aug 1948 (34),Blackpool FC (16),0-3,?,Manchester United (4)
+?,(Sat) 23 Apr 1949 (16),Blackpool FC (17),1-1,?,Middlesbrough FC (4)
+?,(Sat) 6 Nov 1948 (44),Blackpool FC (18),1-3,?,Newcastle United (4)
+?,(Sat) 9 Apr 1949 (14),Blackpool FC (19),1-0,?,Portsmouth FC (4)
+?,(Sat) 26 Feb 1949 (8),Blackpool FC (20),2-2,?,Preston North End (4)
+?,(Sat) 18 Dec 1948 (50),Blackpool FC (21),0-3,?,Sheffield United FC (4)
+?,(Sat) 4 Dec 1948 (48),Blackpool FC (22),2-1,?,Stoke City (4)
+?,(Sat) 15 Jan 1949 (2),Blackpool FC (23),3-3,?,Sunderland AFC (4)
+?,(Sat) 11 Sep 1948 (36),Blackpool FC (24),1-3,?,Wolverhampton Wanderers (4)
+?,(Sat) 2 Oct 1948 (39),Bolton Wanderers (5),1-0,?,Arsenal FC (25)
+?,(Wed) 25 Aug 1948 (34),Bolton Wanderers (6),3-0,?,Aston Villa FC (25)
+?,(Sat) 9 Oct 1948 (40),Bolton Wanderers (7),0-0,?,Birmingham City (25)
+?,(Sat) 18 Sep 1948 (37),Bolton Wanderers (8),2-2,?,Blackpool FC (25)
+?,(Sat) 26 Mar 1949 (12),Bolton Wanderers (9),0-1,?,Burnley FC (5)
+?,(Sat) 9 Apr 1949 (14),Bolton Wanderers (10),2-2,?,Charlton Athletic (5)
+?,(Wed) 4 May 1949 (18),Bolton Wanderers (11),1-1,?,Chelsea FC (5)
+?,(Sat) 19 Feb 1949 (7),Bolton Wanderers (12),4-0,?,Derby County (5)
+?,(Sat) 7 May 1949 (18),Bolton Wanderers (13),1-0,?,Everton FC (5)
+?,(Mon) 6 Sep 1948 (36),Bolton Wanderers (14),1-2,?,Huddersfield Town (5)
+?,(Sat) 22 Jan 1949 (3),Bolton Wanderers (15),0-3,?,Liverpool FC (5)
+?,(Sat) 6 Nov 1948 (44),Bolton Wanderers (16),5-1,?,Manchester City (5)
+?,(Fri) 15 Apr 1949 (15),Bolton Wanderers (17),0-1,?,Manchester United (5)
+?,(Sat) 12 Mar 1949 (10),Bolton Wanderers (18),4-1,?,Middlesbrough FC (5)
+?,(Sat) 23 Oct 1948 (42),Bolton Wanderers (19),1-5,?,Newcastle United (5)
+?,(Sat) 23 Apr 1949 (16),Bolton Wanderers (20),1-2,?,Portsmouth FC (5)
+?,(Sat) 4 Dec 1948 (48),Bolton Wanderers (21),5-3,?,Preston North End (5)
+?,(Mon) 27 Dec 1948 (52),Bolton Wanderers (22),6-1,?,Sheffield United FC (5)
+?,(Sat) 20 Nov 1948 (46),Bolton Wanderers (23),2-1,?,Stoke City (5)
+?,(Sat) 18 Dec 1948 (50),Bolton Wanderers (24),4-1,?,Sunderland AFC (5)
+?,(Sat) 28 Aug 1948 (34),Bolton Wanderers (25),0-5,?,Wolverhampton Wanderers (5)
+?,(Sat) 5 Mar 1949 (9),Burnley FC (6),1-1,?,Arsenal FC (26)
+?,(Sat) 2 Apr 1949 (13),Burnley FC (7),1-1,?,Aston Villa FC (26)
+?,(Sat) 18 Sep 1948 (37),Burnley FC (8),2-2,?,Birmingham City (26)
+?,(Sat) 11 Dec 1948 (49),Burnley FC (9),2-0,?,Blackpool FC (26)
+?,(Sat) 27 Nov 1948 (47),Burnley FC (10),3-0,?,Bolton Wanderers (26)
+?,(Tue) 31 Aug 1948 (35),Burnley FC (11),0-0,?,Charlton Athletic (6)
+?,(Sat) 19 Feb 1949 (7),Burnley FC (12),3-0,?,Chelsea FC (6)
+?,(Fri) 15 Apr 1949 (15),Burnley FC (13),3-1,?,Derby County (6)
+?,(Sat) 2 Oct 1948 (39),Burnley FC (14),1-0,?,Everton FC (6)
+?,(Sat) 16 Oct 1948 (41),Burnley FC (15),1-2,?,Huddersfield Town (6)
+?,(Sat) 30 Apr 1949 (17),Burnley FC (16),0-2,?,Liverpool FC (6)
+?,(Sat) 21 Aug 1948 (33),Burnley FC (17),1-0,?,Manchester City (6)
+?,(Sat) 16 Apr 1949 (15),Burnley FC (18),0-2,?,Manchester United (6)
+?,(Sat) 22 Jan 1949 (3),Burnley FC (19),0-0,?,Middlesbrough FC (6)
+?,(Sat) 4 Sep 1948 (35),Burnley FC (20),0-3,?,Newcastle United (6)
+?,(Sat) 1 Jan 1949 (0),Burnley FC (21),2-1,?,Portsmouth FC (6)
+?,(Mon) 6 Sep 1948 (36),Burnley FC (22),1-0,?,Preston North End (6)
+?,(Sat) 30 Oct 1948 (43),Burnley FC (23),2-0,?,Sheffield United FC (6)
+?,(Sat) 25 Dec 1948 (51),Burnley FC (24),1-3,?,Stoke City (6)
+?,(Sat) 13 Nov 1948 (45),Burnley FC (25),3-1,?,Sunderland AFC (6)
+?,(Sat) 19 Mar 1949 (11),Burnley FC (26),0-0,?,Wolverhampton Wanderers (6)
+?,(Sat) 11 Dec 1948 (49),Charlton Athletic (7),4-3,?,Arsenal FC (27)
+?,(Sat) 16 Apr 1949 (15),Charlton Athletic (8),0-2,?,Aston Villa FC (27)
+?,(Sat) 2 Oct 1948 (39),Charlton Athletic (9),1-1,?,Birmingham City (27)
+?,(Sat) 27 Nov 1948 (47),Charlton Athletic (10),0-0,?,Blackpool FC (27)
+?,(Sat) 13 Nov 1948 (45),Charlton Athletic (11),1-4,?,Bolton Wanderers (27)
+?,(Wed) 25 Aug 1948 (34),Charlton Athletic (12),3-1,?,Burnley FC (27)
+?,(Wed) 8 Sep 1948 (36),Charlton Athletic (13),1-1,?,Chelsea FC (7)
+?,(Sat) 30 Apr 1949 (17),Charlton Athletic (14),1-5,?,Derby County (7)
+?,(Sat) 2 Apr 1949 (13),Charlton Athletic (15),3-1,?,Everton FC (7)
+?,(Sat) 28 Aug 1948 (34),Charlton Athletic (16),3-1,?,Huddersfield Town (7)
+?,(Sat) 19 Mar 1949 (11),Charlton Athletic (17),2-1,?,Liverpool FC (7)
+?,(Sat) 4 Sep 1948 (35),Charlton Athletic (18),3-2,?,Manchester City (7)
+?,(Sat) 5 Mar 1949 (9),Charlton Athletic (19),2-3,?,Manchester United (7)
+?,(Sat) 19 Feb 1949 (7),Charlton Athletic (20),2-0,?,Middlesbrough FC (7)
+?,(Sat) 18 Sep 1948 (37),Charlton Athletic (21),0-0,?,Newcastle United (7)
+?,(Sat) 22 Jan 1949 (3),Charlton Athletic (22),0-1,?,Portsmouth FC (7)
+?,(Sat) 25 Dec 1948 (51),Charlton Athletic (23),0-0,?,Preston North End (7)
+?,(Sat) 16 Oct 1948 (41),Charlton Athletic (24),2-1,?,Sheffield United FC (7)
+?,(Sat) 18 Dec 1948 (50),Charlton Athletic (25),4-1,?,Stoke City (7)
+?,(Sat) 30 Oct 1948 (43),Charlton Athletic (26),4-0,?,Sunderland AFC (7)
+?,(Wed) 13 Apr 1949 (15),Charlton Athletic (27),2-3,?,Wolverhampton Wanderers (7)
+?,(Sat) 30 Oct 1948 (43),Chelsea FC (8),0-1,?,Arsenal FC (28)
+?,(Sat) 27 Nov 1948 (47),Chelsea FC (9),2-1,?,Aston Villa FC (28)
+?,(Sat) 1 Jan 1949 (0),Chelsea FC (10),2-0,?,Birmingham City (28)
+?,(Sat) 16 Oct 1948 (41),Chelsea FC (11),3-3,?,Blackpool FC (28)
+?,(Sat) 4 Sep 1948 (35),Chelsea FC (12),2-2,?,Bolton Wanderers (28)
+?,(Sat) 25 Sep 1948 (38),Chelsea FC (13),1-0,?,Burnley FC (28)
+?,(Thu) 16 Sep 1948 (37),Chelsea FC (14),2-2,?,Charlton Athletic (28)
+?,(Sat) 16 Apr 1949 (15),Chelsea FC (15),0-3,?,Derby County (8)
+?,(Sat) 11 Sep 1948 (36),Chelsea FC (16),6-0,?,Everton FC (8)
+?,(Sat) 2 Apr 1949 (13),Chelsea FC (17),5-0,?,Huddersfield Town (8)
+?,(Sat) 5 Mar 1949 (9),Chelsea FC (18),2-1,?,Liverpool FC (8)
+?,(Mon) 18 Apr 1949 (16),Chelsea FC (19),1-1,?,Manchester City (8)
+?,(Sat) 13 Nov 1948 (45),Chelsea FC (20),1-1,?,Manchester United (8)
+?,(Sat) 21 Aug 1948 (33),Chelsea FC (21),1-0,?,Middlesbrough FC (8)
+?,(Wed) 1 Sep 1948 (35),Chelsea FC (22),2-3,?,Newcastle United (8)
+?,(Sat) 25 Dec 1948 (51),Chelsea FC (23),1-2,?,Portsmouth FC (8)
+?,(Sat) 5 Feb 1949 (5),Chelsea FC (24),5-3,?,Preston North End (8)
+?,(Sat) 19 Mar 1949 (11),Chelsea FC (25),1-0,?,Sheffield United FC (8)
+?,(Sat) 26 Feb 1949 (8),Chelsea FC (26),2-2,?,Stoke City (8)
+?,(Sat) 30 Apr 1949 (17),Chelsea FC (27),0-1,?,Sunderland AFC (8)
+?,(Sat) 11 Dec 1948 (49),Chelsea FC (28),4-1,?,Wolverhampton Wanderers (8)
+?,(Mon) 27 Dec 1948 (52),Derby County (9),2-1,?,Arsenal FC (29)
+?,(Wed) 27 Apr 1949 (17),Derby County (10),2-2,?,Aston Villa FC (29)
+?,(Sat) 23 Apr 1949 (16),Derby County (11),1-0,?,Birmingham City (29)
+?,(Wed) 15 Sep 1948 (37),Derby County (12),3-1,?,Blackpool FC (29)
+?,(Sat) 25 Sep 1948 (38),Derby County (13),1-0,?,Bolton Wanderers (29)
+?,(Mon) 18 Apr 1949 (16),Derby County (14),2-0,?,Burnley FC (29)
+?,(Sat) 4 Dec 1948 (48),Derby County (15),5-1,?,Charlton Athletic (29)
+?,(Sat) 23 Oct 1948 (42),Derby County (16),2-1,?,Chelsea FC (29)
+?,(Sat) 12 Mar 1949 (10),Derby County (17),3-2,?,Everton FC (9)
+?,(Wed) 25 Aug 1948 (34),Derby County (18),4-1,?,Huddersfield Town (9)
+?,(Wed) 4 May 1949 (18),Derby County (19),3-0,?,Liverpool FC (9)
+?,(Sat) 26 Mar 1949 (12),Derby County (20),2-0,?,Manchester City (9)
+?,(Sat) 18 Dec 1948 (50),Derby County (21),1-3,?,Manchester United (9)
+?,(Sat) 6 Nov 1948 (44),Derby County (22),2-0,?,Middlesbrough FC (9)
+?,(Sat) 9 Apr 1949 (14),Derby County (23),2-4,?,Newcastle United (9)
+?,(Sat) 20 Nov 1948 (46),Derby County (24),1-0,?,Portsmouth FC (9)
+?,(Sat) 9 Oct 1948 (40),Derby County (25),1-0,?,Preston North End (9)
+?,(Sat) 28 Aug 1948 (34),Derby County (26),2-1,?,Sheffield United FC (9)
+?,(Sat) 7 May 1949 (18),Derby County (27),4-1,?,Stoke City (9)
+?,(Sat) 11 Sep 1948 (36),Derby County (28),2-2,?,Sunderland AFC (9)
+?,(Sat) 5 Feb 1949 (5),Derby County (29),3-2,?,Wolverhampton Wanderers (9)
+?,(Sat) 16 Apr 1949 (15),Everton FC (10),0-0,?,Arsenal FC (30)
+?,(Sat) 19 Mar 1949 (11),Everton FC (11),1-3,?,Aston Villa FC (30)
+?,(Sat) 4 Sep 1948 (35),Everton FC (12),0-5,?,Birmingham City (30)
+?,(Sat) 5 Mar 1949 (9),Everton FC (13),5-0,?,Blackpool FC (30)
+?,(Sat) 11 Dec 1948 (49),Everton FC (14),1-0,?,Bolton Wanderers (30)
+?,(Sat) 26 Feb 1949 (8),Everton FC (15),2-1,?,Burnley FC (30)
+?,(Mon) 18 Apr 1949 (16),Everton FC (16),1-1,?,Charlton Athletic (30)
+?,(Sat) 22 Jan 1949 (3),Everton FC (17),2-1,?,Chelsea FC (30)
+?,(Sat) 16 Oct 1948 (41),Everton FC (18),0-1,?,Derby County (30)
+?,(Sat) 30 Oct 1948 (43),Everton FC (19),2-0,?,Huddersfield Town (10)
+?,(Sat) 18 Sep 1948 (37),Everton FC (20),1-1,?,Liverpool FC (10)
+?,(Sat) 25 Dec 1948 (51),Everton FC (21),0-0,?,Manchester City (10)
+?,(Wed) 27 Apr 1949 (17),Everton FC (22),2-0,?,Manchester United (10)
+?,(Sat) 1 Jan 1949 (0),Everton FC (23),3-1,?,Middlesbrough FC (10)
+?,(Sat) 21 Aug 1948 (33),Everton FC (24),3-3,?,Newcastle United (10)
+?,(Wed) 1 Sep 1948 (35),Everton FC (25),0-5,?,Portsmouth FC (10)
+?,(Sat) 25 Sep 1948 (38),Everton FC (26),4-1,?,Preston North End (10)
+?,(Sat) 13 Nov 1948 (45),Everton FC (27),2-1,?,Sheffield United FC (10)
+?,(Wed) 8 Sep 1948 (36),Everton FC (28),2-1,?,Stoke City (10)
+?,(Sat) 27 Nov 1948 (47),Everton FC (29),1-0,?,Sunderland AFC (10)
+?,(Wed) 4 May 1949 (18),Everton FC (30),1-0,?,Wolverhampton Wanderers (10)
+?,(Sat) 21 Aug 1948 (33),Huddersfield Town (11),1-1,?,Arsenal FC (31)
+?,(Sat) 12 Feb 1949 (6),Huddersfield Town (12),0-1,?,Aston Villa FC (31)
+?,(Sat) 9 Apr 1949 (14),Huddersfield Town (13),0-0,?,Birmingham City (31)
+?,(Mon) 27 Dec 1948 (52),Huddersfield Town (14),1-0,?,Blackpool FC (31)
+?,(Wed) 15 Sep 1948 (37),Huddersfield Town (15),0-2,?,Bolton Wanderers (31)
+?,(Sat) 12 Mar 1949 (10),Huddersfield Town (16),1-0,?,Burnley FC (31)
+?,(Sat) 1 Jan 1949 (0),Huddersfield Town (17),1-2,?,Charlton Athletic (31)
+?,(Sat) 6 Nov 1948 (44),Huddersfield Town (18),3-4,?,Chelsea FC (31)
+?,(Wed) 1 Sep 1948 (35),Huddersfield Town (19),1-1,?,Derby County (31)
+?,(Sat) 23 Apr 1949 (16),Huddersfield Town (20),1-1,?,Everton FC (31)
+?,(Mon) 18 Apr 1949 (16),Huddersfield Town (21),0-4,?,Liverpool FC (11)
+?,(Sat) 7 May 1949 (18),Huddersfield Town (22),1-0,?,Manchester City (11)
+?,(Wed) 6 Apr 1949 (14),Huddersfield Town (23),2-1,?,Manchester United (11)
+?,(Sat) 20 Nov 1948 (46),Huddersfield Town (24),0-0,?,Middlesbrough FC (11)
+?,(Sat) 26 Mar 1949 (12),Huddersfield Town (25),0-2,?,Newcastle United (11)
+?,(Sat) 4 Dec 1948 (48),Huddersfield Town (26),0-0,?,Portsmouth FC (11)
+?,(Sat) 23 Oct 1948 (42),Huddersfield Town (27),0-2,?,Preston North End (11)
+?,(Sat) 11 Sep 1948 (36),Huddersfield Town (28),0-0,?,Sheffield United FC (11)
+?,(Sat) 9 Oct 1948 (40),Huddersfield Town (29),1-3,?,Stoke City (11)
+?,(Sat) 25 Sep 1948 (38),Huddersfield Town (30),2-0,?,Sunderland AFC (11)
+?,(Thu) 5 May 1949 (18),Huddersfield Town (31),4-0,?,Wolverhampton Wanderers (11)
+?,(Wed) 15 Sep 1948 (37),Liverpool FC (12),0-1,?,Arsenal FC (32)
+?,(Sat) 18 Dec 1948 (50),Liverpool FC (13),1-1,?,Aston Villa FC (32)
+?,(Sat) 12 Mar 1949 (10),Liverpool FC (14),1-0,?,Birmingham City (32)
+?,(Sat) 19 Feb 1949 (7),Liverpool FC (15),1-1,?,Blackpool FC (32)
+?,(Sat) 11 Sep 1948 (36),Liverpool FC (16),0-1,?,Bolton Wanderers (32)
+?,(Sat) 4 Dec 1948 (48),Liverpool FC (17),1-1,?,Burnley FC (32)
+?,(Sat) 20 Nov 1948 (46),Liverpool FC (18),1-1,?,Charlton Athletic (32)
+?,(Sat) 9 Oct 1948 (40),Liverpool FC (19),1-1,?,Chelsea FC (32)
+?,(Sat) 2 Oct 1948 (39),Liverpool FC (20),0-0,?,Derby County (32)
+?,(Sat) 5 Feb 1949 (5),Liverpool FC (21),0-0,?,Everton FC (32)
+?,(Fri) 15 Apr 1949 (15),Liverpool FC (22),0-1,?,Huddersfield Town (32)
+?,(Sat) 9 Apr 1949 (14),Liverpool FC (23),0-1,?,Manchester City (12)
+?,(Mon) 27 Dec 1948 (52),Liverpool FC (24),0-2,?,Manchester United (12)
+?,(Sat) 23 Oct 1948 (42),Liverpool FC (25),4-0,?,Middlesbrough FC (12)
+?,(Sat) 23 Apr 1949 (16),Liverpool FC (26),1-1,?,Newcastle United (12)
+?,(Sat) 6 Nov 1948 (44),Liverpool FC (27),3-1,?,Portsmouth FC (12)
+?,(Sat) 7 May 1949 (18),Liverpool FC (28),0-2,?,Preston North End (12)
+?,(Wed) 25 Aug 1948 (34),Liverpool FC (29),3-3,?,Sheffield United FC (12)
+?,(Sat) 26 Mar 1949 (12),Liverpool FC (30),4-0,?,Stoke City (12)
+?,(Sat) 28 Aug 1948 (34),Liverpool FC (31),4-0,?,Sunderland AFC (12)
+?,(Wed) 6 Apr 1949 (14),Liverpool FC (32),0-0,?,Wolverhampton Wanderers (12)
+?,(Wed) 27 Apr 1949 (17),Manchester City (13),0-3,?,Arsenal FC (33)
+?,(Sat) 16 Oct 1948 (41),Manchester City (14),4-1,?,Aston Villa FC (33)
+?,(Wed) 8 Sep 1948 (36),Manchester City (15),1-0,?,Birmingham City (33)
+?,(Sat) 19 Mar 1949 (11),Manchester City (16),1-1,?,Blackpool FC (33)
+?,(Sat) 2 Apr 1949 (13),Manchester City (17),1-0,?,Bolton Wanderers (33)
+?,(Sat) 18 Dec 1948 (50),Manchester City (18),2-2,?,Burnley FC (33)
+?,(Sat) 15 Jan 1949 (2),Manchester City (19),0-1,?,Charlton Athletic (33)
+?,(Fri) 15 Apr 1949 (15),Manchester City (20),1-0,?,Chelsea FC (33)
+?,(Sat) 27 Nov 1948 (47),Manchester City (21),2-1,?,Derby County (33)
+?,(Mon) 27 Dec 1948 (52),Manchester City (22),0-0,?,Everton FC (33)
+?,(Sat) 11 Dec 1948 (49),Manchester City (23),3-1,?,Huddersfield Town (33)
+?,(Sat) 13 Nov 1948 (45),Manchester City (24),2-4,?,Liverpool FC (33)
+?,(Sat) 11 Sep 1948 (36),Manchester City (25),0-0,?,Manchester United (13)
+?,(Sat) 2 Oct 1948 (39),Manchester City (26),1-0,?,Middlesbrough FC (13)
+?,(Sat) 19 Feb 1949 (7),Manchester City (27),1-0,?,Newcastle United (13)
+?,(Sat) 18 Sep 1948 (37),Manchester City (28),1-1,?,Portsmouth FC (13)
+?,(Wed) 25 Aug 1948 (34),Manchester City (29),3-2,?,Preston North End (13)
+?,(Sat) 5 Mar 1949 (9),Manchester City (30),1-0,?,Sheffield United FC (13)
+?,(Sat) 28 Aug 1948 (34),Manchester City (31),0-0,?,Stoke City (13)
+?,(Sat) 16 Apr 1949 (15),Manchester City (32),1-1,?,Sunderland AFC (13)
+?,(Sat) 30 Oct 1948 (43),Manchester City (33),3-3,?,Wolverhampton Wanderers (13)
+?,(Sat) 1 Jan 1949 (0),Manchester United (14),2-0,?,Arsenal FC (34)
+?,(Sat) 25 Sep 1948 (38),Manchester United (15),3-1,?,Aston Villa FC (34)
+?,(Sat) 20 Nov 1948 (46),Manchester United (16),3-0,?,Birmingham City (34)
+?,(Wed) 1 Sep 1948 (35),Manchester United (17),3-4,?,Blackpool FC (34)
+?,(Mon) 18 Apr 1949 (16),Manchester United (18),3-0,?,Bolton Wanderers (34)
+?,(Sat) 23 Oct 1948 (42),Manchester United (19),1-1,?,Burnley FC (34)
+?,(Sat) 9 Oct 1948 (40),Manchester United (20),1-1,?,Charlton Athletic (34)
+?,(Sat) 9 Apr 1949 (14),Manchester United (21),1-1,?,Chelsea FC (34)
+?,(Sat) 21 Aug 1948 (33),Manchester United (22),1-2,?,Derby County (34)
+?,(Sat) 6 Nov 1948 (44),Manchester United (23),2-0,?,Everton FC (34)
+?,(Sat) 4 Sep 1948 (35),Manchester United (24),4-1,?,Huddersfield Town (34)
+?,(Sat) 25 Dec 1948 (51),Manchester United (25),0-0,?,Liverpool FC (34)
+?,(Sat) 22 Jan 1949 (3),Manchester United (26),0-0,?,Manchester City (34)
+?,(Mon) 2 May 1949 (18),Manchester United (27),1-0,?,Middlesbrough FC (14)
+?,(Sat) 4 Dec 1948 (48),Manchester United (28),1-1,?,Newcastle United (14)
+?,(Sat) 7 May 1949 (18),Manchester United (29),3-2,?,Portsmouth FC (14)
+?,(Sat) 23 Apr 1949 (16),Manchester United (30),2-2,?,Preston North End (14)
+?,(Wed) 4 May 1949 (18),Manchester United (31),3-2,?,Sheffield United FC (14)
+?,(Sat) 12 Mar 1949 (10),Manchester United (32),3-0,?,Stoke City (14)
+?,(Thu) 21 Apr 1949 (16),Manchester United (33),1-2,?,Sunderland AFC (14)
+?,(Wed) 15 Sep 1948 (37),Manchester United (34),2-0,?,Wolverhampton Wanderers (14)
+?,(Sat) 13 Nov 1948 (45),Middlesbrough FC (15),0-1,?,Arsenal FC (35)
+?,(Sat) 11 Dec 1948 (49),Middlesbrough FC (16),6-0,?,Aston Villa FC (35)
+?,(Wed) 1 Sep 1948 (35),Middlesbrough FC (17),1-1,?,Birmingham City (35)
+?,(Sat) 30 Oct 1948 (43),Middlesbrough FC (18),1-0,?,Blackpool FC (35)
+?,(Sat) 16 Oct 1948 (41),Middlesbrough FC (19),5-0,?,Bolton Wanderers (35)
+?,(Sat) 11 Sep 1948 (36),Middlesbrough FC (20),4-1,?,Burnley FC (35)
+?,(Sat) 25 Sep 1948 (38),Middlesbrough FC (21),2-4,?,Charlton Athletic (35)
+?,(Sat) 18 Dec 1948 (50),Middlesbrough FC (22),1-1,?,Chelsea FC (35)
+?,(Sat) 2 Apr 1949 (13),Middlesbrough FC (23),1-0,?,Derby County (35)
+?,(Sat) 28 Aug 1948 (34),Middlesbrough FC (24),1-0,?,Everton FC (35)
+?,(Sat) 19 Mar 1949 (11),Middlesbrough FC (25),1-0,?,Huddersfield Town (35)
+?,(Sat) 16 Apr 1949 (15),Middlesbrough FC (26),0-1,?,Liverpool FC (35)
+?,(Sat) 26 Feb 1949 (8),Middlesbrough FC (27),0-1,?,Manchester City (35)
+?,(Sat) 27 Nov 1948 (47),Middlesbrough FC (28),1-4,?,Manchester United (35)
+?,(Mon) 18 Apr 1949 (16),Middlesbrough FC (29),3-2,?,Newcastle United (15)
+?,(Wed) 15 Sep 1948 (37),Middlesbrough FC (30),1-1,?,Portsmouth FC (15)
+?,(Sat) 15 Jan 1949 (2),Middlesbrough FC (31),1-0,?,Preston North End (15)
+?,(Sat) 30 Apr 1949 (17),Middlesbrough FC (32),3-1,?,Sheffield United FC (15)
+?,(Wed) 27 Apr 1949 (17),Middlesbrough FC (33),1-1,?,Stoke City (15)
+?,(Mon) 27 Dec 1948 (52),Middlesbrough FC (34),0-0,?,Sunderland AFC (15)
+?,(Sat) 5 Mar 1949 (9),Middlesbrough FC (35),4-4,?,Wolverhampton Wanderers (15)
+?,(Sat) 19 Mar 1949 (11),Newcastle United (16),3-2,?,Arsenal FC (36)
+?,(Wed) 8 Sep 1948 (36),Newcastle United (17),2-1,?,Aston Villa FC (36)
+?,(Mon) 27 Dec 1948 (52),Newcastle United (18),1-0,?,Birmingham City (36)
+?,(Sat) 2 Apr 1949 (13),Newcastle United (19),3-1,?,Blackpool FC (36)
+?,(Sat) 16 Apr 1949 (15),Newcastle United (20),1-1,?,Bolton Wanderers (36)
+?,(Sat) 15 Jan 1949 (2),Newcastle United (21),1-1,?,Burnley FC (36)
+?,(Sat) 5 Feb 1949 (5),Newcastle United (22),2-0,?,Charlton Athletic (36)
+?,(Wed) 25 Aug 1948 (34),Newcastle United (23),2-2,?,Chelsea FC (36)
+?,(Sat) 13 Nov 1948 (45),Newcastle United (24),3-0,?,Derby County (36)
+?,(Sat) 18 Dec 1948 (50),Newcastle United (25),1-0,?,Everton FC (36)
+?,(Sat) 27 Nov 1948 (47),Newcastle United (26),2-4,?,Huddersfield Town (36)
+?,(Sat) 30 Oct 1948 (43),Newcastle United (27),1-0,?,Liverpool FC (36)
+?,(Sat) 25 Sep 1948 (38),Newcastle United (28),0-0,?,Manchester City (36)
+?,(Sat) 30 Apr 1949 (17),Newcastle United (29),0-1,?,Manchester United (36)
+?,(Fri) 15 Apr 1949 (15),Newcastle United (30),1-0,?,Middlesbrough FC (36)
+?,(Wed) 6 Apr 1949 (14),Newcastle United (31),0-5,?,Portsmouth FC (16)
+?,(Sat) 28 Aug 1948 (34),Newcastle United (32),2-5,?,Preston North End (16)
+?,(Sat) 11 Dec 1948 (49),Newcastle United (33),3-2,?,Sheffield United FC (16)
+?,(Sat) 11 Sep 1948 (36),Newcastle United (34),2-2,?,Stoke City (16)
+?,(Sat) 5 Mar 1949 (9),Newcastle United (35),2-1,?,Sunderland AFC (16)
+?,(Sat) 16 Oct 1948 (41),Newcastle United (36),3-1,?,Wolverhampton Wanderers (16)
+?,(Sat) 27 Nov 1948 (47),Portsmouth FC (17),4-1,?,Arsenal FC (37)
+?,(Sat) 5 Mar 1949 (9),Portsmouth FC (18),3-0,?,Aston Villa FC (37)
+?,(Fri) 15 Apr 1949 (15),Portsmouth FC (19),3-1,?,Birmingham City (37)
+?,(Sat) 13 Nov 1948 (45),Portsmouth FC (20),1-1,?,Blackpool FC (37)
+?,(Sat) 30 Oct 1948 (43),Portsmouth FC (21),0-0,?,Bolton Wanderers (37)
+?,(Sat) 28 Aug 1948 (34),Portsmouth FC (22),1-0,?,Burnley FC (37)
+?,(Sat) 11 Sep 1948 (36),Portsmouth FC (23),3-1,?,Charlton Athletic (37)
+?,(Mon) 27 Dec 1948 (52),Portsmouth FC (24),5-2,?,Chelsea FC (37)
+?,(Sat) 19 Mar 1949 (11),Portsmouth FC (25),1-0,?,Derby County (37)
+?,(Wed) 25 Aug 1948 (34),Portsmouth FC (26),4-0,?,Everton FC (37)
+?,(Sat) 30 Apr 1949 (17),Portsmouth FC (27),2-0,?,Huddersfield Town (37)
+?,(Sat) 2 Apr 1949 (13),Portsmouth FC (28),3-2,?,Liverpool FC (37)
+?,(Sat) 5 Feb 1949 (5),Portsmouth FC (29),3-1,?,Manchester City (37)
+?,(Sat) 11 Dec 1948 (49),Portsmouth FC (30),2-2,?,Manchester United (37)
+?,(Wed) 8 Sep 1948 (36),Portsmouth FC (31),1-0,?,Middlesbrough FC (37)
+?,(Sat) 2 Oct 1948 (39),Portsmouth FC (32),1-0,?,Newcastle United (37)
+?,(Sat) 18 Dec 1948 (50),Portsmouth FC (33),3-1,?,Preston North End (17)
+?,(Sat) 25 Sep 1948 (38),Portsmouth FC (34),3-0,?,Sheffield United FC (17)
+?,(Sat) 15 Jan 1949 (2),Portsmouth FC (35),1-0,?,Stoke City (17)
+?,(Sat) 16 Oct 1948 (41),Portsmouth FC (36),3-0,?,Sunderland AFC (17)
+?,(Sat) 16 Apr 1949 (15),Portsmouth FC (37),5-0,?,Wolverhampton Wanderers (17)
+?,(Sat) 16 Oct 1948 (41),Preston North End (18),1-1,?,Arsenal FC (38)
+?,(Sat) 13 Nov 1948 (45),Preston North End (19),0-1,?,Aston Villa FC (38)
+?,(Sat) 22 Jan 1949 (3),Preston North End (20),0-0,?,Birmingham City (38)
+?,(Sat) 2 Oct 1948 (39),Preston North End (21),1-3,?,Blackpool FC (38)
+?,(Sat) 30 Apr 1949 (17),Preston North End (22),1-1,?,Bolton Wanderers (38)
+?,(Wed) 15 Sep 1948 (37),Preston North End (23),0-3,?,Burnley FC (38)
+?,(Mon) 27 Dec 1948 (52),Preston North End (24),2-3,?,Charlton Athletic (38)
+?,(Sat) 18 Sep 1948 (37),Preston North End (25),3-2,?,Chelsea FC (38)
+?,(Sat) 5 Mar 1949 (9),Preston North End (26),0-0,?,Derby County (38)
+?,(Sat) 19 Feb 1949 (7),Preston North End (27),3-1,?,Everton FC (38)
+?,(Sat) 16 Apr 1949 (15),Preston North End (28),2-0,?,Huddersfield Town (38)
+?,(Sat) 11 Dec 1948 (49),Preston North End (29),3-2,?,Liverpool FC (38)
+?,(Wed) 1 Sep 1948 (35),Preston North End (30),1-3,?,Manchester City (38)
+?,(Sat) 30 Oct 1948 (43),Preston North End (31),1-6,?,Manchester United (38)
+?,(Sat) 4 Sep 1948 (35),Preston North End (32),6-1,?,Middlesbrough FC (38)
+?,(Sat) 1 Jan 1949 (0),Preston North End (33),2-1,?,Newcastle United (38)
+?,(Sat) 21 Aug 1948 (33),Preston North End (34),2-2,?,Portsmouth FC (38)
+?,(Sat) 2 Apr 1949 (13),Preston North End (35),4-1,?,Sheffield United FC (18)
+?,(Fri) 15 Apr 1949 (15),Preston North End (36),2-1,?,Stoke City (18)
+?,(Sat) 19 Mar 1949 (11),Preston North End (37),1-3,?,Sunderland AFC (18)
+?,(Sat) 27 Nov 1948 (47),Preston North End (38),1-1,?,Wolverhampton Wanderers (18)
+?,(Sat) 4 Sep 1948 (35),Sheffield United FC (19),1-1,?,Arsenal FC (39)
+?,(Sat) 26 Feb 1949 (8),Sheffield United FC (20),0-1,?,Aston Villa FC (39)
+?,(Sat) 26 Mar 1949 (12),Sheffield United FC (21),4-0,?,Birmingham City (39)
+?,(Sat) 21 Aug 1948 (33),Sheffield United FC (22),3-2,?,Blackpool FC (39)
+?,(Sat) 25 Dec 1948 (51),Sheffield United FC (23),1-1,?,Bolton Wanderers (39)
+?,(Sat) 23 Apr 1949 (16),Sheffield United FC (24),0-0,?,Burnley FC (39)
+?,(Sat) 12 Mar 1949 (10),Sheffield United FC (25),2-0,?,Charlton Athletic (39)
+?,(Sat) 20 Nov 1948 (46),Sheffield United FC (26),2-1,?,Chelsea FC (39)
+?,(Sat) 1 Jan 1949 (0),Sheffield United FC (27),3-1,?,Derby County (39)
+?,(Sat) 9 Apr 1949 (14),Sheffield United FC (28),1-1,?,Everton FC (39)
+?,(Sat) 22 Jan 1949 (3),Sheffield United FC (29),0-0,?,Huddersfield Town (39)
+?,(Mon) 30 Aug 1948 (35),Sheffield United FC (30),1-2,?,Liverpool FC (39)
+?,(Sat) 9 Oct 1948 (40),Sheffield United FC (31),0-2,?,Manchester City (39)
+?,(Sat) 18 Sep 1948 (37),Sheffield United FC (32),2-2,?,Manchester United (39)
+?,(Sat) 4 Dec 1948 (48),Sheffield United FC (33),1-0,?,Middlesbrough FC (39)
+?,(Sat) 7 May 1949 (18),Sheffield United FC (34),0-0,?,Newcastle United (39)
+?,(Sat) 19 Feb 1949 (7),Sheffield United FC (35),3-1,?,Portsmouth FC (39)
+?,(Sat) 6 Nov 1948 (44),Sheffield United FC (36),3-2,?,Preston North End (39)
+?,(Sat) 23 Oct 1948 (42),Sheffield United FC (37),2-2,?,Stoke City (19)
+?,(Mon) 6 Sep 1948 (36),Sheffield United FC (38),2-5,?,Sunderland AFC (19)
+?,(Mon) 18 Apr 1949 (16),Sheffield United FC (39),1-1,?,Wolverhampton Wanderers (19)
+?,(Mon) 30 Aug 1948 (35),Stoke City (20),1-0,?,Arsenal FC (40)
+?,(Sat) 30 Oct 1948 (43),Stoke City (21),4-2,?,Aston Villa FC (40)
+?,(Sat) 19 Feb 1949 (7),Stoke City (22),2-1,?,Birmingham City (40)
+?,(Sat) 30 Apr 1949 (17),Stoke City (23),3-2,?,Blackpool FC (40)
+?,(Sat) 19 Mar 1949 (11),Stoke City (24),4-0,?,Bolton Wanderers (40)
+?,(Mon) 27 Dec 1948 (52),Stoke City (25),2-1,?,Burnley FC (40)
+?,(Sat) 21 Aug 1948 (33),Stoke City (26),2-2,?,Charlton Athletic (40)
+?,(Sat) 2 Oct 1948 (39),Stoke City (27),4-3,?,Chelsea FC (40)
+?,(Sat) 11 Dec 1948 (49),Stoke City (28),4-2,?,Derby County (40)
+?,(Mon) 13 Sep 1948 (37),Stoke City (29),1-0,?,Everton FC (40)
+?,(Sat) 5 Mar 1949 (9),Stoke City (30),1-3,?,Huddersfield Town (40)
+?,(Sat) 27 Nov 1948 (47),Stoke City (31),3-0,?,Liverpool FC (40)
+?,(Sat) 1 Jan 1949 (0),Stoke City (32),2-3,?,Manchester City (40)
+?,(Sat) 16 Oct 1948 (41),Stoke City (33),2-1,?,Manchester United (40)
+?,(Sat) 18 Sep 1948 (37),Stoke City (34),3-0,?,Middlesbrough FC (40)
+?,(Sat) 22 Jan 1949 (3),Stoke City (35),1-1,?,Newcastle United (40)
+?,(Sat) 4 Sep 1948 (35),Stoke City (36),0-1,?,Portsmouth FC (40)
+?,(Mon) 18 Apr 1949 (16),Stoke City (37),2-0,?,Preston North End (40)
+?,(Sat) 16 Apr 1949 (15),Stoke City (38),0-1,?,Sheffield United FC (40)
+?,(Sat) 2 Apr 1949 (13),Stoke City (39),0-0,?,Sunderland AFC (20)
+?,(Sat) 13 Nov 1948 (45),Stoke City (40),2-1,?,Wolverhampton Wanderers (20)
+?,(Sat) 18 Sep 1948 (37),Sunderland AFC (21),1-1,?,Arsenal FC (41)
+?,(Fri) 15 Apr 1949 (15),Sunderland AFC (22),0-0,?,Aston Villa FC (41)
+?,(Sat) 7 May 1949 (18),Sunderland AFC (23),1-1,?,Birmingham City (41)
+?,(Sat) 4 Sep 1948 (35),Sunderland AFC (24),2-2,?,Blackpool FC (41)
+?,(Sat) 21 Aug 1948 (33),Sunderland AFC (25),2-0,?,Bolton Wanderers (41)
+?,(Sat) 9 Apr 1949 (14),Sunderland AFC (26),0-0,?,Burnley FC (41)
+?,(Sat) 23 Apr 1949 (16),Sunderland AFC (27),1-0,?,Charlton Athletic (41)
+?,(Sat) 4 Dec 1948 (48),Sunderland AFC (28),3-0,?,Chelsea FC (41)
+?,(Sat) 22 Jan 1949 (3),Sunderland AFC (29),2-1,?,Derby County (41)
+?,(Sat) 26 Mar 1949 (12),Sunderland AFC (30),1-1,?,Everton FC (41)
+?,(Sat) 19 Feb 1949 (7),Sunderland AFC (31),0-1,?,Huddersfield Town (41)
+?,(Sat) 1 Jan 1949 (0),Sunderland AFC (32),0-2,?,Liverpool FC (41)
+?,(Sat) 23 Oct 1948 (42),Sunderland AFC (33),3-0,?,Manchester City (41)
+?,(Sat) 2 Oct 1948 (39),Sunderland AFC (34),2-1,?,Manchester United (41)
+?,(Sat) 25 Dec 1948 (51),Sunderland AFC (35),1-0,?,Middlesbrough FC (41)
+?,(Sat) 9 Oct 1948 (40),Sunderland AFC (36),1-1,?,Newcastle United (41)
+?,(Sat) 12 Mar 1949 (10),Sunderland AFC (37),1-4,?,Portsmouth FC (41)
+?,(Sat) 20 Nov 1948 (46),Sunderland AFC (38),0-0,?,Preston North End (41)
+?,(Wed) 15 Sep 1948 (37),Sunderland AFC (39),2-0,?,Sheffield United FC (41)
+?,(Sat) 6 Nov 1948 (44),Sunderland AFC (40),1-1,?,Stoke City (41)
+?,(Wed) 1 Sep 1948 (35),Sunderland AFC (41),3-3,?,Wolverhampton Wanderers (21)
+?,(Sat) 19 Feb 1949 (7),Wolverhampton Wanderers (22),1-3,?,Arsenal FC (42)
+?,(Sat) 25 Dec 1948 (51),Wolverhampton Wanderers (23),4-0,?,Aston Villa FC (42)
+?,(Sat) 21 Aug 1948 (33),Wolverhampton Wanderers (24),2-2,?,Birmingham City (42)
+?,(Sat) 22 Jan 1949 (3),Wolverhampton Wanderers (25),2-1,?,Blackpool FC (42)
+?,(Sat) 1 Jan 1949 (0),Wolverhampton Wanderers (26),2-0,?,Bolton Wanderers (42)
+?,(Sat) 20 Nov 1948 (46),Wolverhampton Wanderers (27),3-0,?,Burnley FC (42)
+?,(Sat) 6 Nov 1948 (44),Wolverhampton Wanderers (28),2-0,?,Charlton Athletic (42)
+?,(Sat) 7 May 1949 (18),Wolverhampton Wanderers (29),1-1,?,Chelsea FC (42)
+?,(Sat) 18 Sep 1948 (37),Wolverhampton Wanderers (30),2-2,?,Derby County (42)
+?,(Sat) 4 Dec 1948 (48),Wolverhampton Wanderers (31),1-0,?,Everton FC (42)
+?,(Sat) 2 Oct 1948 (39),Wolverhampton Wanderers (32),7-1,?,Huddersfield Town (42)
+?,(Sat) 4 Sep 1948 (35),Wolverhampton Wanderers (33),0-0,?,Liverpool FC (42)
+?,(Sat) 23 Apr 1949 (16),Wolverhampton Wanderers (34),1-1,?,Manchester City (42)
+?,(Wed) 8 Sep 1948 (36),Wolverhampton Wanderers (35),3-2,?,Manchester United (42)
+?,(Sat) 9 Oct 1948 (40),Wolverhampton Wanderers (36),0-3,?,Middlesbrough FC (42)
+?,(Sat) 12 Mar 1949 (10),Wolverhampton Wanderers (37),3-0,?,Newcastle United (42)
+?,(Sat) 23 Oct 1948 (42),Wolverhampton Wanderers (38),3-0,?,Portsmouth FC (42)
+?,(Mon) 2 May 1949 (18),Wolverhampton Wanderers (39),2-1,?,Preston North End (42)
+?,(Tue) 19 Apr 1949 (16),Wolverhampton Wanderers (40),6-0,?,Sheffield United FC (42)
+?,(Sat) 9 Apr 1949 (14),Wolverhampton Wanderers (41),3-1,?,Stoke City (42)
+?,(Wed) 25 Aug 1948 (34),Wolverhampton Wanderers (42),0-1,?,Sunderland AFC (42)

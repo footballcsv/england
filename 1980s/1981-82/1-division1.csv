@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aston Villa,Arsenal,0-2,-
--,-,Birmingham City,Arsenal,0-1,-
--,-,Brighton & Hove Albion,Arsenal,2-1,-
--,-,Coventry City,Arsenal,1-0,-
--,-,Everton,Arsenal,2-1,-
--,-,Ipswich Town,Arsenal,2-1,-
--,-,Leeds United,Arsenal,0-0,-
--,-,Liverpool,Arsenal,2-0,-
--,-,Manchester City,Arsenal,0-0,-
--,-,Manchester United,Arsenal,0-0,-
--,-,Middlesbrough,Arsenal,1-3,-
--,-,Nottingham Forest,Arsenal,1-2,-
--,-,Notts County,Arsenal,2-1,-
--,-,Southampton,Arsenal,3-1,-
--,-,Stoke City,Arsenal,0-1,-
--,-,Sunderland,Arsenal,0-0,-
--,-,Swansea City,Arsenal,2-0,-
--,-,Tottenham Hotspur,Arsenal,2-2,-
--,-,West Bromwich Albion,Arsenal,0-2,-
--,-,West Ham United,Arsenal,1-2,-
--,-,Wolverhampton Wanderers,Arsenal,1-1,-
--,-,Arsenal,Aston Villa,4-3,-
--,-,Birmingham City,Aston Villa,0-1,-
--,-,Brighton & Hove Albion,Aston Villa,0-1,-
--,-,Coventry City,Aston Villa,1-1,-
--,-,Everton,Aston Villa,2-0,-
--,-,Ipswich Town,Aston Villa,3-1,-
--,-,Leeds United,Aston Villa,1-1,-
--,-,Liverpool,Aston Villa,0-0,-
--,-,Manchester City,Aston Villa,1-0,-
--,-,Manchester United,Aston Villa,4-1,-
--,-,Middlesbrough,Aston Villa,3-3,-
--,-,Nottingham Forest,Aston Villa,1-1,-
--,-,Notts County,Aston Villa,1-0,-
--,-,Southampton,Aston Villa,0-3,-
--,-,Stoke City,Aston Villa,1-0,-
--,-,Sunderland,Aston Villa,2-1,-
--,-,Swansea City,Aston Villa,2-1,-
--,-,Tottenham Hotspur,Aston Villa,1-3,-
--,-,West Bromwich Albion,Aston Villa,0-1,-
--,-,West Ham United,Aston Villa,2-2,-
--,-,Wolverhampton Wanderers,Aston Villa,0-3,-
--,-,Arsenal,Birmingham City,1-0,-
--,-,Aston Villa,Birmingham City,0-0,-
--,-,Brighton & Hove Albion,Birmingham City,1-1,-
--,-,Coventry City,Birmingham City,0-1,-
--,-,Everton,Birmingham City,3-1,-
--,-,Ipswich Town,Birmingham City,3-2,-
--,-,Leeds United,Birmingham City,3-3,-
--,-,Liverpool,Birmingham City,3-1,-
--,-,Manchester City,Birmingham City,4-2,-
--,-,Manchester United,Birmingham City,1-1,-
--,-,Middlesbrough,Birmingham City,2-1,-
--,-,Nottingham Forest,Birmingham City,2-1,-
--,-,Notts County,Birmingham City,1-4,-
--,-,Southampton,Birmingham City,3-1,-
--,-,Stoke City,Birmingham City,1-0,-
--,-,Sunderland,Birmingham City,2-0,-
--,-,Swansea City,Birmingham City,1-0,-
--,-,Tottenham Hotspur,Birmingham City,1-1,-
--,-,West Bromwich Albion,Birmingham City,1-1,-
--,-,West Ham United,Birmingham City,2-2,-
--,-,Wolverhampton Wanderers,Birmingham City,1-1,-
--,-,Arsenal,Brighton & Hove Albion,0-0,-
--,-,Aston Villa,Brighton & Hove Albion,3-0,-
--,-,Birmingham City,Brighton & Hove Albion,1-0,-
--,-,Coventry City,Brighton & Hove Albion,0-1,-
--,-,Everton,Brighton & Hove Albion,1-1,-
--,-,Ipswich Town,Brighton & Hove Albion,3-1,-
--,-,Leeds United,Brighton & Hove Albion,2-1,-
--,-,Liverpool,Brighton & Hove Albion,0-1,-
--,-,Manchester City,Brighton & Hove Albion,4-0,-
--,-,Manchester United,Brighton & Hove Albion,2-0,-
--,-,Middlesbrough,Brighton & Hove Albion,2-1,-
--,-,Nottingham Forest,Brighton & Hove Albion,2-1,-
--,-,Notts County,Brighton & Hove Albion,4-1,-
--,-,Southampton,Brighton & Hove Albion,0-2,-
--,-,Stoke City,Brighton & Hove Albion,0-0,-
--,-,Sunderland,Brighton & Hove Albion,3-0,-
--,-,Swansea City,Brighton & Hove Albion,0-0,-
--,-,Tottenham Hotspur,Brighton & Hove Albion,0-1,-
--,-,West Bromwich Albion,Brighton & Hove Albion,0-0,-
--,-,West Ham United,Brighton & Hove Albion,1-1,-
--,-,Wolverhampton Wanderers,Brighton & Hove Albion,0-1,-
--,-,Arsenal,Coventry City,1-0,-
--,-,Aston Villa,Coventry City,2-1,-
--,-,Birmingham City,Coventry City,3-3,-
--,-,Brighton & Hove Albion,Coventry City,2-2,-
--,-,Everton,Coventry City,3-2,-
--,-,Ipswich Town,Coventry City,1-0,-
--,-,Leeds United,Coventry City,0-0,-
--,-,Liverpool,Coventry City,4-0,-
--,-,Manchester City,Coventry City,1-3,-
--,-,Manchester United,Coventry City,0-1,-
--,-,Middlesbrough,Coventry City,0-0,-
--,-,Nottingham Forest,Coventry City,2-1,-
--,-,Notts County,Coventry City,2-1,-
--,-,Southampton,Coventry City,5-5,-
--,-,Stoke City,Coventry City,4-0,-
--,-,Sunderland,Coventry City,0-0,-
--,-,Swansea City,Coventry City,0-0,-
--,-,Tottenham Hotspur,Coventry City,1-2,-
--,-,West Bromwich Albion,Coventry City,1-2,-
--,-,West Ham United,Coventry City,5-2,-
--,-,Wolverhampton Wanderers,Coventry City,1-0,-
--,-,Arsenal,Everton,1-0,-
--,-,Aston Villa,Everton,1-2,-
--,-,Birmingham City,Everton,0-2,-
--,-,Brighton & Hove Albion,Everton,3-1,-
--,-,Coventry City,Everton,1-0,-
--,-,Ipswich Town,Everton,3-0,-
--,-,Leeds United,Everton,1-1,-
--,-,Liverpool,Everton,3-1,-
--,-,Manchester City,Everton,1-1,-
--,-,Manchester United,Everton,1-1,-
--,-,Middlesbrough,Everton,0-2,-
--,-,Nottingham Forest,Everton,0-1,-
--,-,Notts County,Everton,2-2,-
--,-,Southampton,Everton,1-0,-
--,-,Stoke City,Everton,3-1,-
--,-,Sunderland,Everton,3-1,-
--,-,Swansea City,Everton,1-3,-
--,-,Tottenham Hotspur,Everton,3-0,-
--,-,West Bromwich Albion,Everton,0-0,-
--,-,West Ham United,Everton,1-1,-
--,-,Wolverhampton Wanderers,Everton,0-3,-
--,-,Arsenal,Ipswich Town,1-0,-
--,-,Aston Villa,Ipswich Town,0-1,-
--,-,Birmingham City,Ipswich Town,1-1,-
--,-,Brighton & Hove Albion,Ipswich Town,0-1,-
--,-,Coventry City,Ipswich Town,2-4,-
--,-,Everton,Ipswich Town,2-1,-
--,-,Leeds United,Ipswich Town,0-2,-
--,-,Liverpool,Ipswich Town,4-0,-
--,-,Manchester City,Ipswich Town,1-1,-
--,-,Manchester United,Ipswich Town,1-2,-
--,-,Middlesbrough,Ipswich Town,0-1,-
--,-,Nottingham Forest,Ipswich Town,1-1,-
--,-,Notts County,Ipswich Town,1-4,-
--,-,Southampton,Ipswich Town,4-3,-
--,-,Stoke City,Ipswich Town,2-0,-
--,-,Sunderland,Ipswich Town,1-1,-
--,-,Swansea City,Ipswich Town,1-2,-
--,-,Tottenham Hotspur,Ipswich Town,1-0,-
--,-,West Bromwich Albion,Ipswich Town,1-2,-
--,-,West Ham United,Ipswich Town,2-0,-
--,-,Wolverhampton Wanderers,Ipswich Town,2-1,-
--,-,Arsenal,Leeds United,1-0,-
--,-,Aston Villa,Leeds United,1-4,-
--,-,Birmingham City,Leeds United,0-1,-
--,-,Brighton & Hove Albion,Leeds United,1-0,-
--,-,Coventry City,Leeds United,4-0,-
--,-,Everton,Leeds United,1-0,-
--,-,Ipswich Town,Leeds United,2-1,-
--,-,Liverpool,Leeds United,3-0,-
--,-,Manchester City,Leeds United,4-0,-
--,-,Manchester United,Leeds United,1-0,-
--,-,Middlesbrough,Leeds United,0-0,-
--,-,Nottingham Forest,Leeds United,2-1,-
--,-,Notts County,Leeds United,2-1,-
--,-,Southampton,Leeds United,4-0,-
--,-,Stoke City,Leeds United,1-2,-
--,-,Sunderland,Leeds United,0-1,-
--,-,Swansea City,Leeds United,5-1,-
--,-,Tottenham Hotspur,Leeds United,2-1,-
--,-,West Bromwich Albion,Leeds United,2-0,-
--,-,West Ham United,Leeds United,4-3,-
--,-,Wolverhampton Wanderers,Leeds United,1-0,-
--,-,Arsenal,Liverpool,1-1,-
--,-,Aston Villa,Liverpool,0-3,-
--,-,Birmingham City,Liverpool,0-1,-
--,-,Brighton & Hove Albion,Liverpool,3-3,-
--,-,Coventry City,Liverpool,1-2,-
--,-,Everton,Liverpool,1-3,-
--,-,Ipswich Town,Liverpool,2-0,-
--,-,Leeds United,Liverpool,0-2,-
--,-,Manchester City,Liverpool,0-5,-
--,-,Manchester United,Liverpool,0-1,-
--,-,Middlesbrough,Liverpool,0-0,-
--,-,Nottingham Forest,Liverpool,0-2,-
--,-,Notts County,Liverpool,0-4,-
--,-,Southampton,Liverpool,2-3,-
--,-,Stoke City,Liverpool,1-5,-
--,-,Sunderland,Liverpool,0-2,-
--,-,Swansea City,Liverpool,2-0,-
--,-,Tottenham Hotspur,Liverpool,2-2,-
--,-,West Bromwich Albion,Liverpool,1-1,-
--,-,West Ham United,Liverpool,1-1,-
--,-,Wolverhampton Wanderers,Liverpool,1-0,-
--,-,Arsenal,Manchester City,1-0,-
--,-,Aston Villa,Manchester City,0-0,-
--,-,Birmingham City,Manchester City,3-0,-
--,-,Brighton & Hove Albion,Manchester City,4-1,-
--,-,Coventry City,Manchester City,0-1,-
--,-,Everton,Manchester City,0-1,-
--,-,Ipswich Town,Manchester City,2-0,-
--,-,Leeds United,Manchester City,0-1,-
--,-,Liverpool,Manchester City,1-3,-
--,-,Manchester United,Manchester City,1-1,-
--,-,Middlesbrough,Manchester City,0-0,-
--,-,Nottingham Forest,Manchester City,1-1,-
--,-,Notts County,Manchester City,1-1,-
--,-,Southampton,Manchester City,2-1,-
--,-,Stoke City,Manchester City,1-3,-
--,-,Sunderland,Manchester City,1-0,-
--,-,Swansea City,Manchester City,2-0,-
--,-,Tottenham Hotspur,Manchester City,2-0,-
--,-,West Bromwich Albion,Manchester City,0-1,-
--,-,West Ham United,Manchester City,1-1,-
--,-,Wolverhampton Wanderers,Manchester City,4-1,-
--,-,Arsenal,Manchester United,0-0,-
--,-,Aston Villa,Manchester United,1-1,-
--,-,Birmingham City,Manchester United,0-1,-
--,-,Brighton & Hove Albion,Manchester United,0-1,-
--,-,Coventry City,Manchester United,2-1,-
--,-,Everton,Manchester United,3-3,-
--,-,Ipswich Town,Manchester United,2-1,-
--,-,Leeds United,Manchester United,0-0,-
--,-,Liverpool,Manchester United,1-2,-
--,-,Manchester City,Manchester United,0-0,-
--,-,Middlesbrough,Manchester United,0-2,-
--,-,Nottingham Forest,Manchester United,0-1,-
--,-,Notts County,Manchester United,1-3,-
--,-,Southampton,Manchester United,3-2,-
--,-,Stoke City,Manchester United,0-3,-
--,-,Sunderland,Manchester United,1-5,-
--,-,Swansea City,Manchester United,2-0,-
--,-,Tottenham Hotspur,Manchester United,3-1,-
--,-,West Bromwich Albion,Manchester United,0-3,-
--,-,West Ham United,Manchester United,1-1,-
--,-,Wolverhampton Wanderers,Manchester United,0-1,-
--,-,Arsenal,Middlesbrough,1-0,-
--,-,Aston Villa,Middlesbrough,1-0,-
--,-,Birmingham City,Middlesbrough,0-0,-
--,-,Brighton & Hove Albion,Middlesbrough,2-0,-
--,-,Coventry City,Middlesbrough,1-1,-
--,-,Everton,Middlesbrough,2-0,-
--,-,Ipswich Town,Middlesbrough,3-1,-
--,-,Leeds United,Middlesbrough,1-1,-
--,-,Liverpool,Middlesbrough,1-1,-
--,-,Manchester City,Middlesbrough,3-2,-
--,-,Manchester United,Middlesbrough,1-0,-
--,-,Nottingham Forest,Middlesbrough,1-1,-
--,-,Notts County,Middlesbrough,0-1,-
--,-,Southampton,Middlesbrough,2-0,-
--,-,Stoke City,Middlesbrough,2-0,-
--,-,Sunderland,Middlesbrough,0-2,-
--,-,Swansea City,Middlesbrough,1-2,-
--,-,Tottenham Hotspur,Middlesbrough,1-0,-
--,-,West Bromwich Albion,Middlesbrough,2-0,-
--,-,West Ham United,Middlesbrough,3-2,-
--,-,Wolverhampton Wanderers,Middlesbrough,0-0,-
--,-,Arsenal,Nottingham Forest,2-0,-
--,-,Aston Villa,Nottingham Forest,3-1,-
--,-,Birmingham City,Nottingham Forest,4-3,-
--,-,Brighton & Hove Albion,Nottingham Forest,0-1,-
--,-,Coventry City,Nottingham Forest,0-1,-
--,-,Everton,Nottingham Forest,2-1,-
--,-,Ipswich Town,Nottingham Forest,1-3,-
--,-,Leeds United,Nottingham Forest,1-1,-
--,-,Liverpool,Nottingham Forest,2-0,-
--,-,Manchester City,Nottingham Forest,0-0,-
--,-,Manchester United,Nottingham Forest,0-0,-
--,-,Middlesbrough,Nottingham Forest,1-1,-
--,-,Notts County,Nottingham Forest,1-2,-
--,-,Southampton,Nottingham Forest,2-0,-
--,-,Stoke City,Nottingham Forest,1-2,-
--,-,Sunderland,Nottingham Forest,2-3,-
--,-,Swansea City,Nottingham Forest,1-2,-
--,-,Tottenham Hotspur,Nottingham Forest,3-0,-
--,-,West Bromwich Albion,Nottingham Forest,2-1,-
--,-,West Ham United,Nottingham Forest,0-1,-
--,-,Wolverhampton Wanderers,Nottingham Forest,0-0,-
--,-,Arsenal,Notts County,1-0,-
--,-,Aston Villa,Notts County,0-1,-
--,-,Birmingham City,Notts County,2-1,-
--,-,Brighton & Hove Albion,Notts County,2-2,-
--,-,Coventry City,Notts County,1-5,-
--,-,Everton,Notts County,3-1,-
--,-,Ipswich Town,Notts County,1-3,-
--,-,Leeds United,Notts County,1-0,-
--,-,Liverpool,Notts County,1-0,-
--,-,Manchester City,Notts County,1-0,-
--,-,Manchester United,Notts County,2-1,-
--,-,Middlesbrough,Notts County,3-0,-
--,-,Nottingham Forest,Notts County,0-2,-
--,-,Southampton,Notts County,3-1,-
--,-,Stoke City,Notts County,2-2,-
--,-,Sunderland,Notts County,1-1,-
--,-,Swansea City,Notts County,3-2,-
--,-,Tottenham Hotspur,Notts County,3-1,-
--,-,West Bromwich Albion,Notts County,2-4,-
--,-,West Ham United,Notts County,1-0,-
--,-,Wolverhampton Wanderers,Notts County,3-2,-
--,-,Arsenal,Southampton,4-1,-
--,-,Aston Villa,Southampton,1-1,-
--,-,Birmingham City,Southampton,4-0,-
--,-,Brighton & Hove Albion,Southampton,1-1,-
--,-,Coventry City,Southampton,4-2,-
--,-,Everton,Southampton,1-1,-
--,-,Ipswich Town,Southampton,5-2,-
--,-,Leeds United,Southampton,1-3,-
--,-,Liverpool,Southampton,0-1,-
--,-,Manchester City,Southampton,1-1,-
--,-,Manchester United,Southampton,1-0,-
--,-,Middlesbrough,Southampton,0-1,-
--,-,Nottingham Forest,Southampton,2-1,-
--,-,Notts County,Southampton,1-1,-
--,-,Stoke City,Southampton,0-2,-
--,-,Sunderland,Southampton,2-0,-
--,-,Swansea City,Southampton,1-0,-
--,-,Tottenham Hotspur,Southampton,3-2,-
--,-,West Bromwich Albion,Southampton,1-1,-
--,-,West Ham United,Southampton,4-2,-
--,-,Wolverhampton Wanderers,Southampton,0-0,-
--,-,Arsenal,Stoke City,0-1,-
--,-,Aston Villa,Stoke City,2-2,-
--,-,Birmingham City,Stoke City,2-1,-
--,-,Brighton & Hove Albion,Stoke City,0-0,-
--,-,Coventry City,Stoke City,3-0,-
--,-,Everton,Stoke City,0-0,-
--,-,Ipswich Town,Stoke City,2-0,-
--,-,Leeds United,Stoke City,0-0,-
--,-,Liverpool,Stoke City,2-0,-
--,-,Manchester City,Stoke City,1-1,-
--,-,Manchester United,Stoke City,2-0,-
--,-,Middlesbrough,Stoke City,3-2,-
--,-,Nottingham Forest,Stoke City,0-0,-
--,-,Notts County,Stoke City,3-1,-
--,-,Southampton,Stoke City,4-3,-
--,-,Sunderland,Stoke City,0-2,-
--,-,Swansea City,Stoke City,3-0,-
--,-,Tottenham Hotspur,Stoke City,2-0,-
--,-,West Bromwich Albion,Stoke City,1-2,-
--,-,West Ham United,Stoke City,3-2,-
--,-,Wolverhampton Wanderers,Stoke City,2-0,-
--,-,Arsenal,Sunderland,1-1,-
--,-,Aston Villa,Sunderland,1-0,-
--,-,Birmingham City,Sunderland,2-0,-
--,-,Brighton & Hove Albion,Sunderland,2-1,-
--,-,Coventry City,Sunderland,6-1,-
--,-,Everton,Sunderland,1-2,-
--,-,Ipswich Town,Sunderland,3-3,-
--,-,Leeds United,Sunderland,1-0,-
--,-,Liverpool,Sunderland,1-0,-
--,-,Manchester City,Sunderland,2-3,-
--,-,Manchester United,Sunderland,0-0,-
--,-,Middlesbrough,Sunderland,0-0,-
--,-,Nottingham Forest,Sunderland,2-0,-
--,-,Notts County,Sunderland,2-0,-
--,-,Southampton,Sunderland,1-0,-
--,-,Stoke City,Sunderland,0-1,-
--,-,Swansea City,Sunderland,2-0,-
--,-,Tottenham Hotspur,Sunderland,2-2,-
--,-,West Bromwich Albion,Sunderland,2-3,-
--,-,West Ham United,Sunderland,1-1,-
--,-,Wolverhampton Wanderers,Sunderland,0-1,-
--,-,Arsenal,Swansea City,0-2,-
--,-,Aston Villa,Swansea City,3-0,-
--,-,Birmingham City,Swansea City,2-1,-
--,-,Brighton & Hove Albion,Swansea City,1-2,-
--,-,Coventry City,Swansea City,3-1,-
--,-,Everton,Swansea City,3-1,-
--,-,Ipswich Town,Swansea City,2-3,-
--,-,Leeds United,Swansea City,2-0,-
--,-,Liverpool,Swansea City,2-2,-
--,-,Manchester City,Swansea City,4-0,-
--,-,Manchester United,Swansea City,1-0,-
--,-,Middlesbrough,Swansea City,1-1,-
--,-,Nottingham Forest,Swansea City,0-2,-
--,-,Notts County,Swansea City,0-1,-
--,-,Southampton,Swansea City,3-1,-
--,-,Stoke City,Swansea City,1-2,-
--,-,Sunderland,Swansea City,0-1,-
--,-,Tottenham Hotspur,Swansea City,2-1,-
--,-,West Bromwich Albion,Swansea City,4-1,-
--,-,West Ham United,Swansea City,1-1,-
--,-,Wolverhampton Wanderers,Swansea City,0-1,-
--,-,Arsenal,Tottenham Hotspur,1-3,-
--,-,Aston Villa,Tottenham Hotspur,1-1,-
--,-,Birmingham City,Tottenham Hotspur,0-0,-
--,-,Brighton & Hove Albion,Tottenham Hotspur,1-3,-
--,-,Coventry City,Tottenham Hotspur,0-0,-
--,-,Everton,Tottenham Hotspur,1-1,-
--,-,Ipswich Town,Tottenham Hotspur,2-1,-
--,-,Leeds United,Tottenham Hotspur,0-0,-
--,-,Liverpool,Tottenham Hotspur,3-1,-
--,-,Manchester City,Tottenham Hotspur,0-1,-
--,-,Manchester United,Tottenham Hotspur,2-0,-
--,-,Middlesbrough,Tottenham Hotspur,1-3,-
--,-,Nottingham Forest,Tottenham Hotspur,2-0,-
--,-,Notts County,Tottenham Hotspur,2-2,-
--,-,Southampton,Tottenham Hotspur,1-2,-
--,-,Stoke City,Tottenham Hotspur,0-2,-
--,-,Sunderland,Tottenham Hotspur,0-2,-
--,-,Swansea City,Tottenham Hotspur,2-1,-
--,-,West Bromwich Albion,Tottenham Hotspur,1-0,-
--,-,West Ham United,Tottenham Hotspur,2-2,-
--,-,Wolverhampton Wanderers,Tottenham Hotspur,0-1,-
--,-,Arsenal,West Bromwich Albion,2-2,-
--,-,Aston Villa,West Bromwich Albion,2-1,-
--,-,Birmingham City,West Bromwich Albion,3-3,-
--,-,Brighton & Hove Albion,West Bromwich Albion,2-2,-
--,-,Coventry City,West Bromwich Albion,0-2,-
--,-,Everton,West Bromwich Albion,1-0,-
--,-,Ipswich Town,West Bromwich Albion,1-0,-
--,-,Leeds United,West Bromwich Albion,3-1,-
--,-,Liverpool,West Bromwich Albion,1-0,-
--,-,Manchester City,West Bromwich Albion,2-1,-
--,-,Manchester United,West Bromwich Albion,1-0,-
--,-,Middlesbrough,West Bromwich Albion,1-0,-
--,-,Nottingham Forest,West Bromwich Albion,0-0,-
--,-,Notts County,West Bromwich Albion,1-2,-
--,-,Southampton,West Bromwich Albion,0-0,-
--,-,Stoke City,West Bromwich Albion,3-0,-
--,-,Sunderland,West Bromwich Albion,1-2,-
--,-,Swansea City,West Bromwich Albion,3-1,-
--,-,Tottenham Hotspur,West Bromwich Albion,1-2,-
--,-,West Ham United,West Bromwich Albion,3-1,-
--,-,Wolverhampton Wanderers,West Bromwich Albion,1-2,-
--,-,Arsenal,West Ham United,2-0,-
--,-,Aston Villa,West Ham United,3-2,-
--,-,Birmingham City,West Ham United,2-2,-
--,-,Brighton & Hove Albion,West Ham United,1-0,-
--,-,Coventry City,West Ham United,1-0,-
--,-,Everton,West Ham United,0-0,-
--,-,Ipswich Town,West Ham United,3-2,-
--,-,Leeds United,West Ham United,3-3,-
--,-,Liverpool,West Ham United,3-0,-
--,-,Manchester City,West Ham United,0-1,-
--,-,Manchester United,West Ham United,1-0,-
--,-,Middlesbrough,West Ham United,2-3,-
--,-,Nottingham Forest,West Ham United,0-0,-
--,-,Notts County,West Ham United,1-1,-
--,-,Southampton,West Ham United,2-1,-
--,-,Stoke City,West Ham United,2-1,-
--,-,Sunderland,West Ham United,0-2,-
--,-,Swansea City,West Ham United,0-1,-
--,-,Tottenham Hotspur,West Ham United,0-4,-
--,-,West Bromwich Albion,West Ham United,0-0,-
--,-,Wolverhampton Wanderers,West Ham United,2-1,-
--,-,Arsenal,Wolverhampton Wanderers,2-1,-
--,-,Aston Villa,Wolverhampton Wanderers,3-1,-
--,-,Birmingham City,Wolverhampton Wanderers,0-3,-
--,-,Brighton & Hove Albion,Wolverhampton Wanderers,2-0,-
--,-,Coventry City,Wolverhampton Wanderers,0-0,-
--,-,Everton,Wolverhampton Wanderers,1-1,-
--,-,Ipswich Town,Wolverhampton Wanderers,1-0,-
--,-,Leeds United,Wolverhampton Wanderers,3-0,-
--,-,Liverpool,Wolverhampton Wanderers,2-1,-
--,-,Manchester City,Wolverhampton Wanderers,2-1,-
--,-,Manchester United,Wolverhampton Wanderers,5-0,-
--,-,Middlesbrough,Wolverhampton Wanderers,0-0,-
--,-,Nottingham Forest,Wolverhampton Wanderers,0-1,-
--,-,Notts County,Wolverhampton Wanderers,4-0,-
--,-,Southampton,Wolverhampton Wanderers,4-1,-
--,-,Stoke City,Wolverhampton Wanderers,2-1,-
--,-,Sunderland,Wolverhampton Wanderers,0-0,-
--,-,Swansea City,Wolverhampton Wanderers,0-0,-
--,-,Tottenham Hotspur,Wolverhampton Wanderers,6-1,-
--,-,West Bromwich Albion,Wolverhampton Wanderers,3-0,-
--,-,West Ham United,Wolverhampton Wanderers,3-1,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 27 Mar 1982 (12),Arsenal FC (1),4-3,?,Aston Villa FC (1)
+?,(Tue) 22 Sep 1981 (38),Arsenal FC (2),1-0,?,Birmingham City (1)
+?,(Tue) 26 Jan 1982 (4),Arsenal FC (3),0-0,?,Brighton & Hove Albion (1)
+?,(Sat) 31 Oct 1981 (43),Arsenal FC (4),1-0,?,Coventry City (1)
+?,(Sat) 28 Nov 1981 (47),Arsenal FC (5),1-0,?,Everton FC (1)
+?,(Sat) 13 Mar 1982 (10),Arsenal FC (6),1-0,?,Ipswich Town (1)
+?,(Sat) 30 Jan 1982 (4),Arsenal FC (7),1-0,?,Leeds United (1)
+?,(Tue) 11 May 1982 (19),Arsenal FC (8),1-1,?,Liverpool FC (1)
+?,(Sat) 17 Oct 1981 (41),Arsenal FC (9),1-0,?,Manchester City (1)
+?,(Sat) 26 Sep 1981 (38),Arsenal FC (10),0-0,?,Manchester United (1)
+?,(Tue) 16 Feb 1982 (7),Arsenal FC (11),1-0,?,Middlesbrough FC (1)
+?,(Sat) 17 Apr 1982 (15),Arsenal FC (12),2-0,?,Nottingham Forest (1)
+?,(Sat) 13 Feb 1982 (6),Arsenal FC (13),1-0,?,Notts County FC (1)
+?,(Sat) 15 May 1982 (19),Arsenal FC (14),4-1,?,Southampton FC (1)
+?,(Sat) 29 Aug 1981 (34),Arsenal FC (15),0-1,?,Stoke City (1)
+?,(Sat) 12 Sep 1981 (36),Arsenal FC (16),1-1,?,Sunderland AFC (1)
+?,(Sat) 27 Feb 1982 (8),Arsenal FC (17),0-2,?,Swansea City (1)
+?,(Mon) 12 Apr 1982 (15),Arsenal FC (18),1-3,?,Tottenham Hotspur (1)
+?,(Tue) 16 Mar 1982 (11),Arsenal FC (19),2-2,?,West Bromwich Albion (1)
+?,(Sat) 1 May 1982 (17),Arsenal FC (20),2-0,?,West Ham United (1)
+?,(Tue) 2 Feb 1982 (5),Arsenal FC (21),2-1,?,Wolverhampton Wanderers (1)
+?,(Sat) 7 Nov 1981 (44),Aston Villa FC (2),0-2,?,Arsenal FC (22)
+?,(Sat) 26 Sep 1981 (38),Aston Villa FC (3),0-0,?,Birmingham City (2)
+?,(Mon) 12 Apr 1982 (15),Aston Villa FC (4),3-0,?,Brighton & Hove Albion (2)
+?,(Sat) 27 Feb 1982 (8),Aston Villa FC (5),2-1,?,Coventry City (2)
+?,(Sat) 15 May 1982 (19),Aston Villa FC (6),1-2,?,Everton FC (2)
+?,(Sat) 31 Oct 1981 (43),Aston Villa FC (7),0-1,?,Ipswich Town (2)
+?,(Wed) 28 Apr 1982 (17),Aston Villa FC (8),1-4,?,Leeds United (2)
+?,(Sat) 30 Jan 1982 (4),Aston Villa FC (9),0-3,?,Liverpool FC (2)
+?,(Sat) 1 May 1982 (17),Aston Villa FC (10),0-0,?,Manchester City (2)
+?,(Sat) 12 Sep 1981 (36),Aston Villa FC (11),1-1,?,Manchester United (2)
+?,(Sat) 17 Apr 1982 (15),Aston Villa FC (12),1-0,?,Middlesbrough FC (2)
+?,(Sat) 28 Nov 1981 (47),Aston Villa FC (13),3-1,?,Nottingham Forest (2)
+?,(Sat) 29 Aug 1981 (34),Aston Villa FC (14),0-1,?,Notts County FC (2)
+?,(Wed) 10 Feb 1982 (6),Aston Villa FC (15),1-1,?,Southampton FC (2)
+?,(Wed) 23 Sep 1981 (38),Aston Villa FC (16),2-2,?,Stoke City (2)
+?,(Tue) 2 Feb 1982 (5),Aston Villa FC (17),1-0,?,Sunderland AFC (2)
+?,(Fri) 21 May 1982 (20),Aston Villa FC (18),3-0,?,Swansea City (2)
+?,(Wed) 17 Feb 1982 (7),Aston Villa FC (19),1-1,?,Tottenham Hotspur (2)
+?,(Tue) 30 Mar 1982 (13),Aston Villa FC (20),2-1,?,West Bromwich Albion (2)
+?,(Sat) 17 Oct 1981 (41),Aston Villa FC (21),3-2,?,West Ham United (2)
+?,(Sat) 13 Mar 1982 (10),Aston Villa FC (22),3-1,?,Wolverhampton Wanderers (2)
+?,(Tue) 4 May 1982 (18),Birmingham City (3),0-1,?,Arsenal FC (23)
+?,(Sat) 20 Feb 1982 (7),Birmingham City (4),0-1,?,Aston Villa FC (23)
+?,(Sat) 27 Mar 1982 (12),Birmingham City (5),1-0,?,Brighton & Hove Albion (3)
+?,(Tue) 26 Jan 1982 (4),Birmingham City (6),3-3,?,Coventry City (3)
+?,(Tue) 6 Apr 1982 (14),Birmingham City (7),0-2,?,Everton FC (3)
+?,(Tue) 1 Sep 1981 (35),Birmingham City (8),1-1,?,Ipswich Town (3)
+?,(Sat) 10 Apr 1982 (14),Birmingham City (9),0-1,?,Leeds United (3)
+?,(Sat) 8 May 1982 (18),Birmingham City (10),0-1,?,Liverpool FC (3)
+?,(Sat) 19 Sep 1981 (37),Birmingham City (11),3-0,?,Manchester City (3)
+?,(Sat) 6 Mar 1982 (9),Birmingham City (12),0-1,?,Manchester United (3)
+?,(Sat) 6 Feb 1982 (5),Birmingham City (13),0-0,?,Middlesbrough FC (3)
+?,(Sat) 5 Sep 1981 (35),Birmingham City (14),4-3,?,Nottingham Forest (3)
+?,(Sat) 5 Dec 1981 (48),Birmingham City (15),2-1,?,Notts County FC (3)
+?,(Sat) 10 Oct 1981 (40),Birmingham City (16),4-0,?,Southampton FC (3)
+?,(Sat) 13 Mar 1982 (10),Birmingham City (17),2-1,?,Stoke City (3)
+?,(Tue) 16 Feb 1982 (7),Birmingham City (18),2-0,?,Sunderland AFC (3)
+?,(Sat) 24 Apr 1982 (16),Birmingham City (19),2-1,?,Swansea City (3)
+?,(Tue) 23 Mar 1982 (12),Birmingham City (20),0-0,?,Tottenham Hotspur (3)
+?,(Sat) 31 Oct 1981 (43),Birmingham City (21),3-3,?,West Bromwich Albion (3)
+?,(Sat) 3 Oct 1981 (39),Birmingham City (22),2-2,?,West Ham United (3)
+?,(Sat) 21 Nov 1981 (46),Birmingham City (23),0-3,?,Wolverhampton Wanderers (3)
+?,(Sat) 10 Apr 1982 (14),Brighton & Hove Albion (4),2-1,?,Arsenal FC (24)
+?,(Mon) 28 Dec 1981 (52),Brighton & Hove Albion (5),0-1,?,Aston Villa FC (24)
+?,(Sat) 7 Nov 1981 (44),Brighton & Hove Albion (6),1-1,?,Birmingham City (24)
+?,(Sat) 19 Sep 1981 (37),Brighton & Hove Albion (7),2-2,?,Coventry City (4)
+?,(Sat) 6 Feb 1982 (5),Brighton & Hove Albion (8),3-1,?,Everton FC (4)
+?,(Sat) 8 May 1982 (18),Brighton & Hove Albion (9),0-1,?,Ipswich Town (4)
+?,(Tue) 2 Mar 1982 (9),Brighton & Hove Albion (10),1-0,?,Leeds United (4)
+?,(Sat) 17 Oct 1981 (41),Brighton & Hove Albion (11),3-3,?,Liverpool FC (4)
+?,(Sat) 3 Oct 1981 (39),Brighton & Hove Albion (12),4-1,?,Manchester City (4)
+?,(Sat) 24 Apr 1982 (16),Brighton & Hove Albion (13),0-1,?,Manchester United (4)
+?,(Sat) 5 Sep 1981 (35),Brighton & Hove Albion (14),2-0,?,Middlesbrough FC (4)
+?,(Sat) 20 Feb 1982 (7),Brighton & Hove Albion (15),0-1,?,Nottingham Forest (4)
+?,(Sat) 21 Nov 1981 (46),Brighton & Hove Albion (16),2-2,?,Notts County FC (4)
+?,(Sat) 3 Apr 1982 (13),Brighton & Hove Albion (17),1-1,?,Southampton FC (4)
+?,(Sat) 31 Oct 1981 (43),Brighton & Hove Albion (18),0-0,?,Stoke City (4)
+?,(Sat) 5 Dec 1981 (48),Brighton & Hove Albion (19),2-1,?,Sunderland AFC (4)
+?,(Tue) 1 Sep 1981 (35),Brighton & Hove Albion (20),1-2,?,Swansea City (4)
+?,(Tue) 9 Mar 1982 (10),Brighton & Hove Albion (21),1-3,?,Tottenham Hotspur (4)
+?,(Sat) 27 Feb 1982 (8),Brighton & Hove Albion (22),2-2,?,West Bromwich Albion (4)
+?,(Sat) 16 Jan 1982 (2),Brighton & Hove Albion (23),1-0,?,West Ham United (4)
+?,(Tue) 4 May 1982 (18),Brighton & Hove Albion (24),2-0,?,Wolverhampton Wanderers (4)
+?,(Sat) 20 Mar 1982 (11),Coventry City (5),1-0,?,Arsenal FC (25)
+?,(Sat) 10 Oct 1981 (40),Coventry City (6),1-1,?,Aston Villa FC (25)
+?,(Sat) 15 May 1982 (19),Coventry City (7),0-1,?,Birmingham City (25)
+?,(Sat) 30 Jan 1982 (4),Coventry City (8),0-1,?,Brighton & Hove Albion (25)
+?,(Tue) 13 Apr 1982 (15),Coventry City (9),1-0,?,Everton FC (5)
+?,(Sat) 16 Jan 1982 (2),Coventry City (10),2-4,?,Ipswich Town (5)
+?,(Sat) 12 Sep 1981 (36),Coventry City (11),4-0,?,Leeds United (5)
+?,(Tue) 22 Sep 1981 (38),Coventry City (12),1-2,?,Liverpool FC (5)
+?,(Sat) 12 Dec 1981 (49),Coventry City (13),0-1,?,Manchester City (5)
+?,(Sat) 29 Aug 1981 (34),Coventry City (14),2-1,?,Manchester United (5)
+?,(Sat) 28 Nov 1981 (47),Coventry City (15),1-1,?,Middlesbrough FC (5)
+?,(Tue) 9 Mar 1982 (10),Coventry City (16),0-1,?,Nottingham Forest (5)
+?,(Tue) 16 Feb 1982 (7),Coventry City (17),1-5,?,Notts County FC (5)
+?,(Sat) 26 Sep 1981 (38),Coventry City (18),4-2,?,Southampton FC (5)
+?,(Tue) 24 Nov 1981 (47),Coventry City (19),3-0,?,Stoke City (5)
+?,(Tue) 27 Apr 1982 (17),Coventry City (20),6-1,?,Sunderland AFC (5)
+?,(Sat) 24 Oct 1981 (42),Coventry City (21),3-1,?,Swansea City (5)
+?,(Sat) 1 May 1982 (17),Coventry City (22),0-0,?,Tottenham Hotspur (5)
+?,(Sat) 26 Dec 1981 (51),Coventry City (23),0-2,?,West Bromwich Albion (5)
+?,(Sat) 17 Apr 1982 (15),Coventry City (24),1-0,?,West Ham United (5)
+?,(Sat) 27 Mar 1982 (12),Coventry City (25),0-0,?,Wolverhampton Wanderers (5)
+?,(Sat) 24 Apr 1982 (16),Everton FC (6),2-1,?,Arsenal FC (26)
+?,(Sat) 19 Dec 1981 (50),Everton FC (7),2-0,?,Aston Villa FC (26)
+?,(Sat) 29 Aug 1981 (34),Everton FC (8),3-1,?,Birmingham City (26)
+?,(Sat) 12 Sep 1981 (36),Everton FC (9),1-1,?,Brighton & Hove Albion (26)
+?,(Mon) 28 Dec 1981 (52),Everton FC (10),3-2,?,Coventry City (26)
+?,(Sat) 17 Oct 1981 (41),Everton FC (11),2-1,?,Ipswich Town (6)
+?,(Tue) 4 May 1982 (18),Everton FC (12),1-0,?,Leeds United (6)
+?,(Sat) 27 Mar 1982 (12),Everton FC (13),1-3,?,Liverpool FC (6)
+?,(Sat) 31 Oct 1981 (43),Everton FC (14),0-1,?,Manchester City (6)
+?,(Sat) 10 Apr 1982 (14),Everton FC (15),3-3,?,Manchester United (6)
+?,(Sat) 13 Mar 1982 (10),Everton FC (16),2-0,?,Middlesbrough FC (6)
+?,(Tue) 20 Apr 1982 (16),Everton FC (17),2-1,?,Nottingham Forest (6)
+?,(Tue) 22 Sep 1981 (38),Everton FC (18),3-1,?,Notts County FC (6)
+?,(Tue) 19 Jan 1982 (3),Everton FC (19),1-1,?,Southampton FC (6)
+?,(Sat) 13 Feb 1982 (6),Everton FC (20),0-0,?,Stoke City (6)
+?,(Sat) 21 Nov 1981 (46),Everton FC (21),1-2,?,Sunderland AFC (6)
+?,(Sat) 5 Dec 1981 (48),Everton FC (22),3-1,?,Swansea City (6)
+?,(Sat) 30 Jan 1982 (4),Everton FC (23),1-1,?,Tottenham Hotspur (6)
+?,(Sat) 26 Sep 1981 (38),Everton FC (24),1-0,?,West Bromwich Albion (6)
+?,(Sat) 27 Feb 1982 (8),Everton FC (25),0-0,?,West Ham United (6)
+?,(Sat) 8 May 1982 (18),Everton FC (26),1-1,?,Wolverhampton Wanderers (6)
+?,(Sat) 24 Oct 1981 (42),Ipswich Town (7),2-1,?,Arsenal FC (27)
+?,(Sat) 20 Mar 1982 (11),Ipswich Town (8),3-1,?,Aston Villa FC (27)
+?,(Tue) 5 Jan 1982 (1),Ipswich Town (9),3-2,?,Birmingham City (27)
+?,(Tue) 30 Mar 1982 (13),Ipswich Town (10),3-1,?,Brighton & Hove Albion (27)
+?,(Sat) 3 Apr 1982 (13),Ipswich Town (11),1-0,?,Coventry City (27)
+?,(Sat) 6 Mar 1982 (9),Ipswich Town (12),3-0,?,Everton FC (27)
+?,(Sat) 26 Sep 1981 (38),Ipswich Town (13),2-1,?,Leeds United (7)
+?,(Sat) 12 Sep 1981 (36),Ipswich Town (14),2-0,?,Liverpool FC (7)
+?,(Sat) 28 Nov 1981 (47),Ipswich Town (15),2-0,?,Manchester City (7)
+?,(Tue) 20 Apr 1982 (16),Ipswich Town (16),2-1,?,Manchester United (7)
+?,(Sat) 1 May 1982 (17),Ipswich Town (17),3-1,?,Middlesbrough FC (7)
+?,(Sat) 15 May 1982 (19),Ipswich Town (18),1-3,?,Nottingham Forest (7)
+?,(Sat) 30 Jan 1982 (4),Ipswich Town (19),1-3,?,Notts County FC (7)
+?,(Tue) 16 Feb 1982 (7),Ipswich Town (20),5-2,?,Southampton FC (7)
+?,(Sat) 17 Apr 1982 (15),Ipswich Town (21),2-0,?,Stoke City (7)
+?,(Sat) 29 Aug 1981 (34),Ipswich Town (22),3-3,?,Sunderland AFC (7)
+?,(Sat) 7 Nov 1981 (44),Ipswich Town (23),2-3,?,Swansea City (7)
+?,(Mon) 17 May 1982 (20),Ipswich Town (24),2-1,?,Tottenham Hotspur (7)
+?,(Tue) 22 Sep 1981 (38),Ipswich Town (25),1-0,?,West Bromwich Albion (7)
+?,(Tue) 13 Apr 1982 (15),Ipswich Town (26),3-2,?,West Ham United (7)
+?,(Sat) 10 Oct 1981 (40),Ipswich Town (27),1-0,?,Wolverhampton Wanderers (7)
+?,(Sat) 19 Sep 1981 (37),Leeds United (8),0-0,?,Arsenal FC (28)
+?,(Sat) 3 Oct 1981 (39),Leeds United (9),1-1,?,Aston Villa FC (28)
+?,(Wed) 12 May 1982 (19),Leeds United (10),3-3,?,Birmingham City (28)
+?,(Sat) 15 May 1982 (19),Leeds United (11),2-1,?,Brighton & Hove Albion (28)
+?,(Sat) 6 Feb 1982 (5),Leeds United (12),0-0,?,Coventry City (28)
+?,(Wed) 2 Sep 1981 (35),Leeds United (13),1-1,?,Everton FC (28)
+?,(Sat) 20 Feb 1982 (7),Leeds United (14),0-2,?,Ipswich Town (28)
+?,(Sat) 27 Feb 1982 (8),Leeds United (15),0-2,?,Liverpool FC (8)
+?,(Wed) 10 Mar 1982 (10),Leeds United (16),0-1,?,Manchester City (8)
+?,(Sat) 3 Apr 1982 (13),Leeds United (17),0-0,?,Manchester United (8)
+?,(Tue) 13 Apr 1982 (15),Leeds United (18),1-1,?,Middlesbrough FC (8)
+?,(Sat) 20 Mar 1982 (11),Leeds United (19),1-1,?,Nottingham Forest (8)
+?,(Sat) 7 Nov 1981 (44),Leeds United (20),1-0,?,Notts County FC (8)
+?,(Sat) 17 Apr 1982 (15),Leeds United (21),1-3,?,Southampton FC (8)
+?,(Sat) 1 May 1982 (17),Leeds United (22),0-0,?,Stoke City (8)
+?,(Sat) 24 Oct 1981 (42),Leeds United (23),1-0,?,Sunderland AFC (8)
+?,(Sat) 16 Jan 1982 (2),Leeds United (24),2-0,?,Swansea City (8)
+?,(Sat) 12 Dec 1981 (49),Leeds United (25),0-0,?,Tottenham Hotspur (8)
+?,(Sat) 17 Oct 1981 (41),Leeds United (26),3-1,?,West Bromwich Albion (8)
+?,(Sat) 28 Nov 1981 (47),Leeds United (27),3-3,?,West Ham United (8)
+?,(Sat) 5 Sep 1981 (35),Leeds United (28),3-0,?,Wolverhampton Wanderers (8)
+?,(Sat) 5 Sep 1981 (35),Liverpool FC (9),2-0,?,Arsenal FC (29)
+?,(Sat) 19 Sep 1981 (37),Liverpool FC (10),0-0,?,Aston Villa FC (29)
+?,(Tue) 30 Mar 1982 (13),Liverpool FC (11),3-1,?,Birmingham City (29)
+?,(Sat) 6 Mar 1982 (9),Liverpool FC (12),0-1,?,Brighton & Hove Albion (29)
+?,(Sat) 20 Feb 1982 (7),Liverpool FC (13),4-0,?,Coventry City (29)
+?,(Sat) 7 Nov 1981 (44),Liverpool FC (14),3-1,?,Everton FC (29)
+?,(Sat) 6 Feb 1982 (5),Liverpool FC (15),4-0,?,Ipswich Town (29)
+?,(Sat) 10 Oct 1981 (40),Liverpool FC (16),3-0,?,Leeds United (29)
+?,(Sat) 26 Dec 1981 (51),Liverpool FC (17),1-3,?,Manchester City (9)
+?,(Sat) 24 Oct 1981 (42),Liverpool FC (18),1-2,?,Manchester United (9)
+?,(Tue) 1 Sep 1981 (35),Liverpool FC (19),1-1,?,Middlesbrough FC (9)
+?,(Sat) 1 May 1982 (17),Liverpool FC (20),2-0,?,Nottingham Forest (9)
+?,(Fri) 2 Apr 1982 (13),Liverpool FC (21),1-0,?,Notts County FC (9)
+?,(Sat) 28 Nov 1981 (47),Liverpool FC (22),0-1,?,Southampton FC (9)
+?,(Tue) 13 Apr 1982 (15),Liverpool FC (23),2-0,?,Stoke City (9)
+?,(Sat) 20 Mar 1982 (11),Liverpool FC (24),1-0,?,Sunderland AFC (9)
+?,(Sat) 3 Oct 1981 (39),Liverpool FC (25),2-2,?,Swansea City (9)
+?,(Sat) 15 May 1982 (19),Liverpool FC (26),3-1,?,Tottenham Hotspur (9)
+?,(Sat) 17 Apr 1982 (15),Liverpool FC (27),1-0,?,West Bromwich Albion (9)
+?,(Tue) 5 Jan 1982 (1),Liverpool FC (28),3-0,?,West Ham United (9)
+?,(Sat) 16 Jan 1982 (2),Liverpool FC (29),2-1,?,Wolverhampton Wanderers (9)
+?,(Sat) 6 Mar 1982 (9),Manchester City (10),0-0,?,Arsenal FC (30)
+?,(Sat) 5 Dec 1981 (48),Manchester City (11),1-0,?,Aston Villa FC (30)
+?,(Sat) 30 Jan 1982 (4),Manchester City (12),4-2,?,Birmingham City (30)
+?,(Sat) 13 Feb 1982 (6),Manchester City (13),4-0,?,Brighton & Hove Albion (30)
+?,(Sat) 8 May 1982 (18),Manchester City (14),1-3,?,Coventry City (30)
+?,(Sat) 20 Mar 1982 (11),Manchester City (15),1-1,?,Everton FC (30)
+?,(Sat) 24 Apr 1982 (16),Manchester City (16),1-1,?,Ipswich Town (30)
+?,(Wed) 23 Sep 1981 (38),Manchester City (17),4-0,?,Leeds United (30)
+?,(Sat) 10 Apr 1982 (14),Manchester City (18),0-5,?,Liverpool FC (30)
+?,(Sat) 10 Oct 1981 (40),Manchester City (19),0-0,?,Manchester United (10)
+?,(Sat) 7 Nov 1981 (44),Manchester City (20),3-2,?,Middlesbrough FC (10)
+?,(Sat) 24 Oct 1981 (42),Manchester City (21),0-0,?,Nottingham Forest (10)
+?,(Wed) 5 May 1982 (18),Manchester City (22),1-0,?,Notts County FC (10)
+?,(Sat) 12 Sep 1981 (36),Manchester City (23),1-1,?,Southampton FC (10)
+?,(Sat) 9 Jan 1982 (1),Manchester City (24),1-1,?,Stoke City (10)
+?,(Sat) 19 Dec 1981 (50),Manchester City (25),2-3,?,Sunderland AFC (10)
+?,(Sat) 21 Nov 1981 (46),Manchester City (26),4-0,?,Swansea City (10)
+?,(Sat) 26 Sep 1981 (38),Manchester City (27),0-1,?,Tottenham Hotspur (10)
+?,(Sat) 29 Aug 1981 (34),Manchester City (28),2-1,?,West Bromwich Albion (10)
+?,(Sat) 3 Apr 1982 (13),Manchester City (29),0-1,?,West Ham United (10)
+?,(Mon) 28 Dec 1981 (52),Manchester City (30),2-1,?,Wolverhampton Wanderers (10)
+?,(Sat) 20 Feb 1982 (7),Manchester United (11),0-0,?,Arsenal FC (31)
+?,(Sat) 6 Feb 1982 (5),Manchester United (12),4-1,?,Aston Villa FC (31)
+?,(Sat) 17 Oct 1981 (41),Manchester United (13),1-1,?,Birmingham City (31)
+?,(Sat) 28 Nov 1981 (47),Manchester United (14),2-0,?,Brighton & Hove Albion (31)
+?,(Wed) 17 Mar 1982 (11),Manchester United (15),0-1,?,Coventry City (31)
+?,(Wed) 6 Jan 1982 (1),Manchester United (16),1-1,?,Everton FC (31)
+?,(Sat) 5 Sep 1981 (35),Manchester United (17),1-2,?,Ipswich Town (31)
+?,(Wed) 30 Sep 1981 (39),Manchester United (18),1-0,?,Leeds United (31)
+?,(Wed) 7 Apr 1982 (14),Manchester United (19),0-1,?,Liverpool FC (31)
+?,(Sat) 27 Feb 1982 (8),Manchester United (20),1-1,?,Manchester City (31)
+?,(Wed) 21 Oct 1981 (42),Manchester United (21),1-0,?,Middlesbrough FC (11)
+?,(Mon) 31 Aug 1981 (35),Manchester United (22),0-0,?,Nottingham Forest (11)
+?,(Sat) 31 Oct 1981 (43),Manchester United (23),2-1,?,Notts County FC (11)
+?,(Sat) 1 May 1982 (17),Manchester United (24),1-0,?,Southampton FC (11)
+?,(Sat) 15 May 1982 (19),Manchester United (25),2-0,?,Stoke City (11)
+?,(Sat) 27 Mar 1982 (12),Manchester United (26),0-0,?,Sunderland AFC (11)
+?,(Sat) 19 Sep 1981 (37),Manchester United (27),1-0,?,Swansea City (11)
+?,(Sat) 17 Apr 1982 (15),Manchester United (28),2-0,?,Tottenham Hotspur (11)
+?,(Mon) 12 Apr 1982 (15),Manchester United (29),1-0,?,West Bromwich Albion (11)
+?,(Wed) 27 Jan 1982 (4),Manchester United (30),1-0,?,West Ham United (11)
+?,(Sat) 3 Oct 1981 (39),Manchester United (31),5-0,?,Wolverhampton Wanderers (11)
+?,(Sat) 8 May 1982 (18),Middlesbrough FC (12),1-3,?,Arsenal FC (32)
+?,(Sat) 21 Nov 1981 (46),Middlesbrough FC (13),3-3,?,Aston Villa FC (32)
+?,(Sat) 12 Sep 1981 (36),Middlesbrough FC (14),2-1,?,Birmingham City (32)
+?,(Tue) 20 Apr 1982 (16),Middlesbrough FC (15),2-1,?,Brighton & Hove Albion (32)
+?,(Sat) 24 Apr 1982 (16),Middlesbrough FC (16),0-0,?,Coventry City (32)
+?,(Sat) 24 Oct 1981 (42),Middlesbrough FC (17),0-2,?,Everton FC (32)
+?,(Sat) 5 Dec 1981 (48),Middlesbrough FC (18),0-1,?,Ipswich Town (32)
+?,(Tue) 6 Apr 1982 (14),Middlesbrough FC (19),0-0,?,Leeds United (32)
+?,(Tue) 18 May 1982 (20),Middlesbrough FC (20),0-0,?,Liverpool FC (32)
+?,(Sat) 27 Mar 1982 (12),Middlesbrough FC (21),0-0,?,Manchester City (32)
+?,(Tue) 22 Sep 1981 (38),Middlesbrough FC (22),0-2,?,Manchester United (32)
+?,(Sat) 10 Oct 1981 (40),Middlesbrough FC (23),1-1,?,Nottingham Forest (12)
+?,(Sat) 10 Apr 1982 (14),Middlesbrough FC (24),3-0,?,Notts County FC (12)
+?,(Sat) 30 Jan 1982 (4),Middlesbrough FC (25),0-1,?,Southampton FC (12)
+?,(Sat) 26 Sep 1981 (38),Middlesbrough FC (26),3-2,?,Stoke City (12)
+?,(Sat) 14 Nov 1981 (45),Middlesbrough FC (27),0-0,?,Sunderland AFC (12)
+?,(Sat) 13 Feb 1982 (6),Middlesbrough FC (28),1-1,?,Swansea City (12)
+?,(Sat) 29 Aug 1981 (34),Middlesbrough FC (29),1-3,?,Tottenham Hotspur (12)
+?,(Tue) 9 Mar 1982 (10),Middlesbrough FC (30),1-0,?,West Bromwich Albion (12)
+?,(Sat) 20 Mar 1982 (11),Middlesbrough FC (31),2-3,?,West Ham United (12)
+?,(Sat) 6 Mar 1982 (9),Middlesbrough FC (32),0-0,?,Wolverhampton Wanderers (12)
+?,(Sat) 21 Nov 1981 (46),Nottingham Forest (13),1-2,?,Arsenal FC (33)
+?,(Sat) 24 Apr 1982 (16),Nottingham Forest (14),1-1,?,Aston Villa FC (33)
+?,(Sat) 9 Jan 1982 (1),Nottingham Forest (15),2-1,?,Birmingham City (33)
+?,(Sat) 26 Sep 1981 (38),Nottingham Forest (16),2-1,?,Brighton & Hove Albion (33)
+?,(Sat) 17 Oct 1981 (41),Nottingham Forest (17),2-1,?,Coventry City (33)
+?,(Sat) 3 Apr 1982 (13),Nottingham Forest (18),0-1,?,Everton FC (33)
+?,(Wed) 17 Mar 1982 (11),Nottingham Forest (19),1-1,?,Ipswich Town (33)
+?,(Sat) 31 Oct 1981 (43),Nottingham Forest (20),2-1,?,Leeds United (33)
+?,(Sat) 5 Dec 1981 (48),Nottingham Forest (21),0-2,?,Liverpool FC (33)
+?,(Sat) 13 Mar 1982 (10),Nottingham Forest (22),1-1,?,Manchester City (33)
+?,(Wed) 5 May 1982 (18),Nottingham Forest (23),0-1,?,Manchester United (33)
+?,(Sat) 27 Feb 1982 (8),Nottingham Forest (24),1-1,?,Middlesbrough FC (33)
+?,(Sat) 23 Jan 1982 (3),Nottingham Forest (25),0-2,?,Notts County FC (13)
+?,(Sat) 29 Aug 1981 (34),Nottingham Forest (26),2-1,?,Southampton FC (13)
+?,(Sat) 30 Jan 1982 (4),Nottingham Forest (27),0-0,?,Stoke City (13)
+?,(Wed) 23 Sep 1981 (38),Nottingham Forest (28),2-0,?,Sunderland AFC (13)
+?,(Sat) 8 May 1982 (18),Nottingham Forest (29),0-2,?,Swansea City (13)
+?,(Wed) 12 May 1982 (19),Nottingham Forest (30),2-0,?,Tottenham Hotspur (13)
+?,(Sat) 12 Sep 1981 (36),Nottingham Forest (31),0-0,?,West Bromwich Albion (13)
+?,(Sat) 7 Nov 1981 (44),Nottingham Forest (32),0-0,?,West Ham United (13)
+?,(Sat) 10 Apr 1982 (14),Nottingham Forest (33),0-1,?,Wolverhampton Wanderers (13)
+?,(Sat) 3 Oct 1981 (39),Notts County FC (14),2-1,?,Arsenal FC (34)
+?,(Sat) 16 Jan 1982 (2),Notts County FC (15),1-0,?,Aston Villa FC (34)
+?,(Sat) 1 May 1982 (17),Notts County FC (16),1-4,?,Birmingham City (34)
+?,(Sat) 17 Apr 1982 (15),Notts County FC (17),4-1,?,Brighton & Hove Albion (34)
+?,(Sat) 5 Sep 1981 (35),Notts County FC (18),2-1,?,Coventry City (34)
+?,(Tue) 24 Nov 1981 (47),Notts County FC (19),2-2,?,Everton FC (34)
+?,(Sat) 19 Sep 1981 (37),Notts County FC (20),1-4,?,Ipswich Town (34)
+?,(Sat) 27 Mar 1982 (12),Notts County FC (21),2-1,?,Leeds United (34)
+?,(Tue) 26 Jan 1982 (4),Notts County FC (22),0-4,?,Liverpool FC (34)
+?,(Tue) 1 Sep 1981 (35),Notts County FC (23),1-1,?,Manchester City (34)
+?,(Sat) 20 Mar 1982 (11),Notts County FC (24),1-3,?,Manchester United (34)
+?,(Tue) 11 May 1982 (19),Notts County FC (25),0-1,?,Middlesbrough FC (34)
+?,(Mon) 12 Apr 1982 (15),Notts County FC (26),1-2,?,Nottingham Forest (34)
+?,(Sat) 6 Mar 1982 (9),Notts County FC (27),1-1,?,Southampton FC (14)
+?,(Mon) 26 Apr 1982 (17),Notts County FC (28),3-1,?,Stoke City (14)
+?,(Sat) 10 Oct 1981 (40),Notts County FC (29),2-0,?,Sunderland AFC (14)
+?,(Sat) 6 Feb 1982 (5),Notts County FC (30),0-1,?,Swansea City (14)
+?,(Sat) 28 Nov 1981 (47),Notts County FC (31),2-2,?,Tottenham Hotspur (14)
+?,(Sat) 15 May 1982 (19),Notts County FC (32),1-2,?,West Bromwich Albion (14)
+?,(Sat) 24 Oct 1981 (42),Notts County FC (33),1-1,?,West Ham United (14)
+?,(Sat) 20 Feb 1982 (7),Notts County FC (34),4-0,?,Wolverhampton Wanderers (14)
+?,(Sat) 23 Jan 1982 (3),Southampton FC (15),3-1,?,Arsenal FC (35)
+?,(Sat) 10 Apr 1982 (14),Southampton FC (16),0-3,?,Aston Villa FC (35)
+?,(Sat) 27 Feb 1982 (8),Southampton FC (17),3-1,?,Birmingham City (35)
+?,(Tue) 8 Dec 1981 (49),Southampton FC (18),0-2,?,Brighton & Hove Albion (35)
+?,(Tue) 4 May 1982 (18),Southampton FC (19),5-5,?,Coventry City (35)
+?,(Sat) 5 Sep 1981 (35),Southampton FC (20),1-0,?,Everton FC (35)
+?,(Sat) 3 Oct 1981 (39),Southampton FC (21),4-3,?,Ipswich Town (35)
+?,(Sat) 21 Nov 1981 (46),Southampton FC (22),4-0,?,Leeds United (35)
+?,(Sat) 24 Apr 1982 (16),Southampton FC (23),2-3,?,Liverpool FC (35)
+?,(Sat) 6 Feb 1982 (5),Southampton FC (24),2-1,?,Manchester City (35)
+?,(Sat) 5 Dec 1981 (48),Southampton FC (25),3-2,?,Manchester United (35)
+?,(Sat) 19 Sep 1981 (37),Southampton FC (26),2-0,?,Middlesbrough FC (35)
+?,(Sat) 13 Feb 1982 (6),Southampton FC (27),2-0,?,Nottingham Forest (35)
+?,(Sat) 17 Oct 1981 (41),Southampton FC (28),3-1,?,Notts County FC (35)
+?,(Sat) 27 Mar 1982 (12),Southampton FC (29),4-3,?,Stoke City (15)
+?,(Sat) 8 May 1982 (18),Southampton FC (30),1-0,?,Sunderland AFC (15)
+?,(Mon) 28 Dec 1981 (52),Southampton FC (31),3-1,?,Swansea City (15)
+?,(Sat) 31 Oct 1981 (43),Southampton FC (32),1-2,?,Tottenham Hotspur (15)
+?,(Sat) 13 Mar 1982 (10),Southampton FC (33),0-0,?,West Bromwich Albion (15)
+?,(Sat) 20 Feb 1982 (7),Southampton FC (34),2-1,?,West Ham United (15)
+?,(Tue) 1 Sep 1981 (35),Southampton FC (35),4-1,?,Wolverhampton Wanderers (15)
+?,(Wed) 20 Jan 1982 (3),Stoke City (16),0-1,?,Arsenal FC (36)
+?,(Wed) 5 May 1982 (18),Stoke City (17),1-0,?,Aston Villa FC (36)
+?,(Sat) 24 Oct 1981 (42),Stoke City (18),1-0,?,Birmingham City (36)
+?,(Sat) 20 Mar 1982 (11),Stoke City (19),0-0,?,Brighton & Hove Albion (36)
+?,(Wed) 2 Sep 1981 (35),Stoke City (20),4-0,?,Coventry City (36)
+?,(Sat) 3 Oct 1981 (39),Stoke City (21),3-1,?,Everton FC (36)
+?,(Sat) 21 Nov 1981 (46),Stoke City (22),2-0,?,Ipswich Town (36)
+?,(Sat) 5 Dec 1981 (48),Stoke City (23),1-2,?,Leeds United (36)
+?,(Tue) 9 Mar 1982 (10),Stoke City (24),1-5,?,Liverpool FC (36)
+?,(Sat) 5 Sep 1981 (35),Stoke City (25),1-3,?,Manchester City (36)
+?,(Sat) 23 Jan 1982 (3),Stoke City (26),0-3,?,Manchester United (36)
+?,(Sat) 20 Feb 1982 (7),Stoke City (27),2-0,?,Middlesbrough FC (36)
+?,(Sat) 19 Sep 1981 (37),Stoke City (28),1-2,?,Nottingham Forest (36)
+?,(Sat) 8 May 1982 (18),Stoke City (29),2-2,?,Notts County FC (36)
+?,(Sat) 7 Nov 1981 (44),Stoke City (30),0-2,?,Southampton FC (36)
+?,(Sat) 10 Apr 1982 (14),Stoke City (31),0-1,?,Sunderland AFC (16)
+?,(Sat) 17 Oct 1981 (41),Stoke City (32),1-2,?,Swansea City (16)
+?,(Sat) 27 Feb 1982 (8),Stoke City (33),0-2,?,Tottenham Hotspur (16)
+?,(Thu) 20 May 1982 (20),Stoke City (34),3-0,?,West Bromwich Albion (16)
+?,(Sat) 6 Feb 1982 (5),Stoke City (35),2-1,?,West Ham United (16)
+?,(Sat) 24 Apr 1982 (16),Stoke City (36),2-1,?,Wolverhampton Wanderers (16)
+?,(Sat) 6 Feb 1982 (5),Sunderland AFC (17),0-0,?,Arsenal FC (37)
+?,(Wed) 2 Sep 1981 (35),Sunderland AFC (18),2-1,?,Aston Villa FC (37)
+?,(Mon) 12 Apr 1982 (15),Sunderland AFC (19),2-0,?,Birmingham City (37)
+?,(Sat) 1 May 1982 (17),Sunderland AFC (20),3-0,?,Brighton & Hove Albion (37)
+?,(Sat) 3 Oct 1981 (39),Sunderland AFC (21),0-0,?,Coventry City (37)
+?,(Sat) 17 Apr 1982 (15),Sunderland AFC (22),3-1,?,Everton FC (37)
+?,(Wed) 7 Apr 1982 (14),Sunderland AFC (23),1-1,?,Ipswich Town (37)
+?,(Sat) 13 Mar 1982 (10),Sunderland AFC (24),0-1,?,Leeds United (37)
+?,(Sat) 31 Oct 1981 (43),Sunderland AFC (25),0-2,?,Liverpool FC (37)
+?,(Sat) 15 May 1982 (19),Sunderland AFC (26),1-0,?,Manchester City (37)
+?,(Sat) 7 Nov 1981 (44),Sunderland AFC (27),1-5,?,Manchester United (37)
+?,(Sat) 3 Apr 1982 (13),Sunderland AFC (28),0-2,?,Middlesbrough FC (37)
+?,(Wed) 25 Nov 1981 (47),Sunderland AFC (29),2-3,?,Nottingham Forest (37)
+?,(Sat) 27 Feb 1982 (8),Sunderland AFC (30),1-1,?,Notts County FC (37)
+?,(Wed) 10 Mar 1982 (10),Sunderland AFC (31),2-0,?,Southampton FC (37)
+?,(Wed) 10 Feb 1982 (6),Sunderland AFC (32),0-2,?,Stoke City (37)
+?,(Sat) 20 Feb 1982 (7),Sunderland AFC (33),0-1,?,Swansea City (17)
+?,(Sat) 17 Oct 1981 (41),Sunderland AFC (34),0-2,?,Tottenham Hotspur (17)
+?,(Sat) 28 Nov 1981 (47),Sunderland AFC (35),1-2,?,West Bromwich Albion (17)
+?,(Sat) 5 Sep 1981 (35),Sunderland AFC (36),0-2,?,West Ham United (17)
+?,(Sat) 19 Sep 1981 (37),Sunderland AFC (37),0-0,?,Wolverhampton Wanderers (17)
+?,(Sat) 10 Oct 1981 (40),Swansea City (18),2-0,?,Arsenal FC (38)
+?,(Tue) 15 Dec 1981 (50),Swansea City (19),2-1,?,Aston Villa FC (38)
+?,(Sat) 28 Nov 1981 (47),Swansea City (20),1-0,?,Birmingham City (38)
+?,(Tue) 24 Nov 1981 (47),Swansea City (21),0-0,?,Brighton & Hove Albion (38)
+?,(Sat) 13 Mar 1982 (10),Swansea City (22),0-0,?,Coventry City (38)
+?,(Sat) 1 May 1982 (17),Swansea City (23),1-3,?,Everton FC (38)
+?,(Sat) 27 Mar 1982 (12),Swansea City (24),1-2,?,Ipswich Town (38)
+?,(Sat) 29 Aug 1981 (34),Swansea City (25),5-1,?,Leeds United (38)
+?,(Tue) 16 Feb 1982 (7),Swansea City (26),2-0,?,Liverpool FC (38)
+?,(Sat) 17 Apr 1982 (15),Swansea City (27),2-0,?,Manchester City (38)
+?,(Sat) 30 Jan 1982 (4),Swansea City (28),2-0,?,Manchester United (38)
+?,(Sat) 15 May 1982 (19),Swansea City (29),1-2,?,Middlesbrough FC (38)
+?,(Sat) 12 Dec 1981 (49),Swansea City (30),1-2,?,Nottingham Forest (38)
+?,(Sat) 12 Sep 1981 (36),Swansea City (31),3-2,?,Notts County FC (38)
+?,(Tue) 13 Apr 1982 (15),Swansea City (32),1-0,?,Southampton FC (38)
+?,(Sat) 6 Mar 1982 (9),Swansea City (33),3-0,?,Stoke City (38)
+?,(Sat) 26 Sep 1981 (38),Swansea City (34),2-0,?,Sunderland AFC (38)
+?,(Tue) 22 Sep 1981 (38),Swansea City (35),2-1,?,Tottenham Hotspur (18)
+?,(Tue) 6 Apr 1982 (14),Swansea City (36),3-1,?,West Bromwich Albion (18)
+?,(Tue) 30 Mar 1982 (13),Swansea City (37),0-1,?,West Ham United (18)
+?,(Sat) 31 Oct 1981 (43),Swansea City (38),0-0,?,Wolverhampton Wanderers (18)
+?,(Mon) 29 Mar 1982 (13),Tottenham Hotspur (19),2-2,?,Arsenal FC (39)
+?,(Sat) 5 Sep 1981 (35),Tottenham Hotspur (20),1-3,?,Aston Villa FC (39)
+?,(Wed) 28 Apr 1982 (17),Tottenham Hotspur (21),1-1,?,Birmingham City (39)
+?,(Sat) 24 Oct 1981 (42),Tottenham Hotspur (22),0-1,?,Brighton & Hove Albion (39)
+?,(Sat) 5 Dec 1981 (48),Tottenham Hotspur (23),1-2,?,Coventry City (39)
+?,(Sat) 19 Sep 1981 (37),Tottenham Hotspur (24),3-0,?,Everton FC (39)
+?,(Sat) 10 Apr 1982 (14),Tottenham Hotspur (25),1-0,?,Ipswich Town (39)
+?,(Sat) 8 May 1982 (18),Tottenham Hotspur (26),2-1,?,Leeds United (39)
+?,(Mon) 3 May 1982 (18),Tottenham Hotspur (27),2-2,?,Liverpool FC (39)
+?,(Sat) 20 Feb 1982 (7),Tottenham Hotspur (28),2-0,?,Manchester City (39)
+?,(Sat) 21 Nov 1981 (46),Tottenham Hotspur (29),3-1,?,Manchester United (39)
+?,(Wed) 27 Jan 1982 (4),Tottenham Hotspur (30),1-0,?,Middlesbrough FC (39)
+?,(Sat) 3 Oct 1981 (39),Tottenham Hotspur (31),3-0,?,Nottingham Forest (39)
+?,(Sat) 24 Apr 1982 (16),Tottenham Hotspur (32),3-1,?,Notts County FC (39)
+?,(Sat) 20 Mar 1982 (11),Tottenham Hotspur (33),3-2,?,Southampton FC (39)
+?,(Sat) 10 Oct 1981 (40),Tottenham Hotspur (34),2-0,?,Stoke City (39)
+?,(Wed) 14 Apr 1982 (15),Tottenham Hotspur (35),2-2,?,Sunderland AFC (39)
+?,(Wed) 5 May 1982 (18),Tottenham Hotspur (36),2-1,?,Swansea City (39)
+?,(Sat) 7 Nov 1981 (44),Tottenham Hotspur (37),1-2,?,West Bromwich Albion (19)
+?,(Wed) 2 Sep 1981 (35),Tottenham Hotspur (38),0-4,?,West Ham United (19)
+?,(Sat) 6 Feb 1982 (5),Tottenham Hotspur (39),6-1,?,Wolverhampton Wanderers (19)
+?,(Wed) 2 Sep 1981 (35),West Bromwich Albion (20),0-2,?,Arsenal FC (40)
+?,(Sat) 8 May 1982 (18),West Bromwich Albion (21),0-1,?,Aston Villa FC (40)
+?,(Sat) 20 Mar 1982 (11),West Bromwich Albion (22),1-1,?,Birmingham City (40)
+?,(Sat) 10 Oct 1981 (40),West Bromwich Albion (23),0-0,?,Brighton & Hove Albion (40)
+?,(Sat) 10 Apr 1982 (14),West Bromwich Albion (24),1-2,?,Coventry City (40)
+?,(Sat) 20 Feb 1982 (7),West Bromwich Albion (25),0-0,?,Everton FC (40)
+?,(Wed) 5 May 1982 (18),West Bromwich Albion (26),1-2,?,Ipswich Town (40)
+?,(Tue) 18 May 1982 (20),West Bromwich Albion (27),2-0,?,Leeds United (40)
+?,(Sat) 21 Nov 1981 (46),West Bromwich Albion (28),1-1,?,Liverpool FC (40)
+?,(Wed) 21 Apr 1982 (16),West Bromwich Albion (29),0-1,?,Manchester City (40)
+?,(Wed) 12 May 1982 (19),West Bromwich Albion (30),0-3,?,Manchester United (40)
+?,(Sat) 3 Oct 1981 (39),West Bromwich Albion (31),2-0,?,Middlesbrough FC (40)
+?,(Sat) 6 Feb 1982 (5),West Bromwich Albion (32),2-1,?,Nottingham Forest (40)
+?,(Wed) 24 Mar 1982 (12),West Bromwich Albion (33),2-4,?,Notts County FC (40)
+?,(Sat) 24 Oct 1981 (42),West Bromwich Albion (34),1-1,?,Southampton FC (40)
+?,(Sat) 14 Nov 1981 (45),West Bromwich Albion (35),1-2,?,Stoke City (40)
+?,(Sat) 24 Apr 1982 (16),West Bromwich Albion (36),2-3,?,Sunderland AFC (40)
+?,(Sat) 5 Sep 1981 (35),West Bromwich Albion (37),4-1,?,Swansea City (40)
+?,(Sat) 27 Mar 1982 (12),West Bromwich Albion (38),1-0,?,Tottenham Hotspur (40)
+?,(Sat) 19 Sep 1981 (37),West Bromwich Albion (39),0-0,?,West Ham United (20)
+?,(Sat) 5 Dec 1981 (48),West Bromwich Albion (40),3-0,?,Wolverhampton Wanderers (20)
+?,(Sat) 5 Dec 1981 (48),West Ham United (21),1-2,?,Arsenal FC (41)
+?,(Sat) 6 Mar 1982 (9),West Ham United (22),2-2,?,Aston Villa FC (41)
+?,(Sat) 13 Feb 1982 (6),West Ham United (23),2-2,?,Birmingham City (41)
+?,(Sat) 29 Aug 1981 (34),West Ham United (24),1-1,?,Brighton & Hove Albion (41)
+?,(Sat) 21 Nov 1981 (46),West Ham United (25),5-2,?,Coventry City (41)
+?,(Sat) 10 Oct 1981 (40),West Ham United (26),1-1,?,Everton FC (41)
+?,(Tue) 2 Mar 1982 (9),West Ham United (27),2-0,?,Ipswich Town (41)
+?,(Sat) 24 Apr 1982 (16),West Ham United (28),4-3,?,Leeds United (41)
+?,(Sat) 26 Sep 1981 (38),West Ham United (29),1-1,?,Liverpool FC (41)
+?,(Tue) 2 Feb 1982 (5),West Ham United (30),1-1,?,Manchester City (41)
+?,(Sat) 8 May 1982 (18),West Ham United (31),1-1,?,Manchester United (41)
+?,(Sat) 31 Oct 1981 (43),West Ham United (32),3-2,?,Middlesbrough FC (41)
+?,(Sat) 27 Mar 1982 (12),West Ham United (33),0-1,?,Nottingham Forest (41)
+?,(Sat) 13 Mar 1982 (10),West Ham United (34),1-0,?,Notts County FC (41)
+?,(Tue) 22 Sep 1981 (38),West Ham United (35),4-2,?,Southampton FC (41)
+?,(Sat) 12 Sep 1981 (36),West Ham United (36),3-2,?,Stoke City (41)
+?,(Tue) 4 May 1982 (18),West Ham United (37),1-1,?,Sunderland AFC (41)
+?,(Sat) 10 Apr 1982 (14),West Ham United (38),1-1,?,Swansea City (41)
+?,(Mon) 10 May 1982 (19),West Ham United (39),2-2,?,Tottenham Hotspur (41)
+?,(Sat) 30 Jan 1982 (4),West Ham United (40),3-1,?,West Bromwich Albion (41)
+?,(Tue) 6 Apr 1982 (14),West Ham United (41),3-1,?,Wolverhampton Wanderers (21)
+?,(Sat) 3 Apr 1982 (13),Wolverhampton Wanderers (22),1-1,?,Arsenal FC (42)
+?,(Sat) 24 Oct 1981 (42),Wolverhampton Wanderers (23),0-3,?,Aston Villa FC (42)
+?,(Sat) 17 Apr 1982 (15),Wolverhampton Wanderers (24),1-1,?,Birmingham City (42)
+?,(Tue) 22 Sep 1981 (38),Wolverhampton Wanderers (25),0-1,?,Brighton & Hove Albion (42)
+?,(Sat) 7 Nov 1981 (44),Wolverhampton Wanderers (26),1-0,?,Coventry City (42)
+?,(Sat) 23 Jan 1982 (3),Wolverhampton Wanderers (27),0-3,?,Everton FC (42)
+?,(Sat) 27 Feb 1982 (8),Wolverhampton Wanderers (28),2-1,?,Ipswich Town (42)
+?,(Tue) 16 Mar 1982 (11),Wolverhampton Wanderers (29),1-0,?,Leeds United (42)
+?,(Sat) 29 Aug 1981 (34),Wolverhampton Wanderers (30),1-0,?,Liverpool FC (42)
+?,(Mon) 12 Apr 1982 (15),Wolverhampton Wanderers (31),4-1,?,Manchester City (42)
+?,(Sat) 13 Feb 1982 (6),Wolverhampton Wanderers (32),0-1,?,Manchester United (42)
+?,(Sat) 17 Oct 1981 (41),Wolverhampton Wanderers (33),0-0,?,Middlesbrough FC (42)
+?,(Tue) 16 Feb 1982 (7),Wolverhampton Wanderers (34),0-0,?,Nottingham Forest (42)
+?,(Sat) 26 Sep 1981 (38),Wolverhampton Wanderers (35),3-2,?,Notts County FC (42)
+?,(Tue) 24 Nov 1981 (47),Wolverhampton Wanderers (36),0-0,?,Southampton FC (42)
+?,(Sat) 28 Nov 1981 (47),Wolverhampton Wanderers (37),2-0,?,Stoke City (42)
+?,(Sat) 30 Jan 1982 (4),Wolverhampton Wanderers (38),0-1,?,Sunderland AFC (42)
+?,(Sat) 20 Mar 1982 (11),Wolverhampton Wanderers (39),0-1,?,Swansea City (42)
+?,(Sat) 12 Sep 1981 (36),Wolverhampton Wanderers (40),0-1,?,Tottenham Hotspur (42)
+?,(Sat) 1 May 1982 (17),Wolverhampton Wanderers (41),1-2,?,West Bromwich Albion (42)
+?,(Sat) 15 May 1982 (19),Wolverhampton Wanderers (42),2-1,?,West Ham United (42)

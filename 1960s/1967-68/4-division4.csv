@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barnsley,Aldershot,1-0,-
--,-,Bradford City,Aldershot,1-3,-
--,-,Bradford Park Avenue,Aldershot,1-1,-
--,-,Brentford,Aldershot,1-1,-
--,-,Chester,Aldershot,2-5,-
--,-,Chesterfield,Aldershot,1-2,-
--,-,Crewe Alexandra,Aldershot,1-1,-
--,-,Darlington,Aldershot,6-2,-
--,-,Doncaster Rovers,Aldershot,3-0,-
--,-,Exeter City,Aldershot,3-0,-
--,-,Halifax Town,Aldershot,2-2,-
--,-,Hartlepool United,Aldershot,1-0,-
--,-,Lincoln City,Aldershot,1-1,-
--,-,Luton Town,Aldershot,3-1,-
--,-,Newport County,Aldershot,0-2,-
--,-,Notts County,Aldershot,0-1,-
--,-,Port Vale,Aldershot,0-3,-
--,-,Rochdale,Aldershot,0-2,-
--,-,Southend United,Aldershot,1-1,-
--,-,Swansea City,Aldershot,1-0,-
--,-,Workington,Aldershot,3-2,-
--,-,Wrexham,Aldershot,2-1,-
--,-,York City,Aldershot,2-3,-
--,-,Aldershot,Barnsley,1-1,-
--,-,Bradford City,Barnsley,1-0,-
--,-,Bradford Park Avenue,Barnsley,1-1,-
--,-,Brentford,Barnsley,0-1,-
--,-,Chester,Barnsley,1-1,-
--,-,Chesterfield,Barnsley,2-3,-
--,-,Crewe Alexandra,Barnsley,3-3,-
--,-,Darlington,Barnsley,0-2,-
--,-,Doncaster Rovers,Barnsley,1-2,-
--,-,Exeter City,Barnsley,2-0,-
--,-,Halifax Town,Barnsley,1-1,-
--,-,Hartlepool United,Barnsley,2-1,-
--,-,Lincoln City,Barnsley,0-1,-
--,-,Luton Town,Barnsley,2-0,-
--,-,Newport County,Barnsley,3-0,-
--,-,Notts County,Barnsley,1-4,-
--,-,Port Vale,Barnsley,2-0,-
--,-,Rochdale,Barnsley,1-0,-
--,-,Southend United,Barnsley,4-1,-
--,-,Swansea City,Barnsley,1-1,-
--,-,Workington,Barnsley,0-1,-
--,-,Wrexham,Barnsley,2-0,-
--,-,York City,Barnsley,1-1,-
--,-,Aldershot,Bradford City,3-3,-
--,-,Barnsley,Bradford City,1-0,-
--,-,Bradford Park Avenue,Bradford City,1-2,-
--,-,Brentford,Bradford City,0-1,-
--,-,Chester,Bradford City,2-3,-
--,-,Chesterfield,Bradford City,2-1,-
--,-,Crewe Alexandra,Bradford City,1-1,-
--,-,Darlington,Bradford City,2-2,-
--,-,Doncaster Rovers,Bradford City,2-2,-
--,-,Exeter City,Bradford City,4-1,-
--,-,Halifax Town,Bradford City,1-0,-
--,-,Hartlepool United,Bradford City,1-0,-
--,-,Lincoln City,Bradford City,2-0,-
--,-,Luton Town,Bradford City,1-3,-
--,-,Newport County,Bradford City,0-3,-
--,-,Notts County,Bradford City,1-0,-
--,-,Port Vale,Bradford City,1-2,-
--,-,Rochdale,Bradford City,3-2,-
--,-,Southend United,Bradford City,1-1,-
--,-,Swansea City,Bradford City,0-0,-
--,-,Workington,Bradford City,0-1,-
--,-,Wrexham,Bradford City,0-2,-
--,-,York City,Bradford City,0-1,-
--,-,Aldershot,Bradford Park Avenue,1-1,-
--,-,Barnsley,Bradford Park Avenue,2-0,-
--,-,Bradford City,Bradford Park Avenue,1-2,-
--,-,Brentford,Bradford Park Avenue,2-1,-
--,-,Chester,Bradford Park Avenue,0-0,-
--,-,Chesterfield,Bradford Park Avenue,2-0,-
--,-,Crewe Alexandra,Bradford Park Avenue,4-0,-
--,-,Darlington,Bradford Park Avenue,0-0,-
--,-,Doncaster Rovers,Bradford Park Avenue,2-0,-
--,-,Exeter City,Bradford Park Avenue,0-0,-
--,-,Halifax Town,Bradford Park Avenue,1-0,-
--,-,Hartlepool United,Bradford Park Avenue,2-0,-
--,-,Lincoln City,Bradford Park Avenue,5-1,-
--,-,Luton Town,Bradford Park Avenue,2-0,-
--,-,Newport County,Bradford Park Avenue,4-0,-
--,-,Notts County,Bradford Park Avenue,0-0,-
--,-,Port Vale,Bradford Park Avenue,4-0,-
--,-,Rochdale,Bradford Park Avenue,1-1,-
--,-,Southend United,Bradford Park Avenue,2-1,-
--,-,Swansea City,Bradford Park Avenue,1-1,-
--,-,Workington,Bradford Park Avenue,2-2,-
--,-,Wrexham,Bradford Park Avenue,3-0,-
--,-,York City,Bradford Park Avenue,6-2,-
--,-,Aldershot,Brentford,0-0,-
--,-,Barnsley,Brentford,3-0,-
--,-,Bradford City,Brentford,2-3,-
--,-,Bradford Park Avenue,Brentford,1-0,-
--,-,Chester,Brentford,3-0,-
--,-,Chesterfield,Brentford,2-1,-
--,-,Crewe Alexandra,Brentford,2-0,-
--,-,Darlington,Brentford,2-3,-
--,-,Doncaster Rovers,Brentford,2-0,-
--,-,Exeter City,Brentford,0-3,-
--,-,Halifax Town,Brentford,3-0,-
--,-,Hartlepool United,Brentford,2-0,-
--,-,Lincoln City,Brentford,1-0,-
--,-,Luton Town,Brentford,2-1,-
--,-,Newport County,Brentford,2-2,-
--,-,Notts County,Brentford,2-1,-
--,-,Port Vale,Brentford,4-1,-
--,-,Rochdale,Brentford,1-1,-
--,-,Southend United,Brentford,1-0,-
--,-,Swansea City,Brentford,2-1,-
--,-,Workington,Brentford,2-0,-
--,-,Wrexham,Brentford,1-2,-
--,-,York City,Brentford,0-1,-
--,-,Aldershot,Chester,2-1,-
--,-,Barnsley,Chester,2-1,-
--,-,Bradford City,Chester,2-2,-
--,-,Bradford Park Avenue,Chester,0-2,-
--,-,Brentford,Chester,3-1,-
--,-,Chesterfield,Chester,3-1,-
--,-,Crewe Alexandra,Chester,2-0,-
--,-,Darlington,Chester,0-2,-
--,-,Doncaster Rovers,Chester,0-0,-
--,-,Exeter City,Chester,1-0,-
--,-,Halifax Town,Chester,2-2,-
--,-,Hartlepool United,Chester,0-0,-
--,-,Lincoln City,Chester,3-0,-
--,-,Luton Town,Chester,0-0,-
--,-,Newport County,Chester,1-1,-
--,-,Notts County,Chester,1-2,-
--,-,Port Vale,Chester,4-4,-
--,-,Rochdale,Chester,1-1,-
--,-,Southend United,Chester,5-1,-
--,-,Swansea City,Chester,1-0,-
--,-,Workington,Chester,1-0,-
--,-,Wrexham,Chester,2-0,-
--,-,York City,Chester,4-1,-
--,-,Aldershot,Chesterfield,3-0,-
--,-,Barnsley,Chesterfield,0-0,-
--,-,Bradford City,Chesterfield,3-1,-
--,-,Bradford Park Avenue,Chesterfield,2-1,-
--,-,Brentford,Chesterfield,1-1,-
--,-,Chester,Chesterfield,3-0,-
--,-,Crewe Alexandra,Chesterfield,1-1,-
--,-,Darlington,Chesterfield,1-1,-
--,-,Doncaster Rovers,Chesterfield,1-0,-
--,-,Exeter City,Chesterfield,1-1,-
--,-,Halifax Town,Chesterfield,0-2,-
--,-,Hartlepool United,Chesterfield,2-1,-
--,-,Lincoln City,Chesterfield,2-2,-
--,-,Luton Town,Chesterfield,1-0,-
--,-,Newport County,Chesterfield,0-3,-
--,-,Notts County,Chesterfield,1-0,-
--,-,Port Vale,Chesterfield,0-1,-
--,-,Rochdale,Chesterfield,1-4,-
--,-,Southend United,Chesterfield,1-1,-
--,-,Swansea City,Chesterfield,0-1,-
--,-,Workington,Chesterfield,3-1,-
--,-,Wrexham,Chesterfield,3-0,-
--,-,York City,Chesterfield,0-2,-
--,-,Aldershot,Crewe Alexandra,2-0,-
--,-,Barnsley,Crewe Alexandra,3-1,-
--,-,Bradford City,Crewe Alexandra,2-1,-
--,-,Bradford Park Avenue,Crewe Alexandra,1-2,-
--,-,Brentford,Crewe Alexandra,2-1,-
--,-,Chester,Crewe Alexandra,0-4,-
--,-,Chesterfield,Crewe Alexandra,4-1,-
--,-,Darlington,Crewe Alexandra,0-0,-
--,-,Doncaster Rovers,Crewe Alexandra,2-2,-
--,-,Exeter City,Crewe Alexandra,1-4,-
--,-,Halifax Town,Crewe Alexandra,0-1,-
--,-,Hartlepool United,Crewe Alexandra,1-1,-
--,-,Lincoln City,Crewe Alexandra,2-4,-
--,-,Luton Town,Crewe Alexandra,4-0,-
--,-,Newport County,Crewe Alexandra,0-0,-
--,-,Notts County,Crewe Alexandra,1-0,-
--,-,Port Vale,Crewe Alexandra,0-2,-
--,-,Rochdale,Crewe Alexandra,1-1,-
--,-,Southend United,Crewe Alexandra,0-0,-
--,-,Swansea City,Crewe Alexandra,1-2,-
--,-,Workington,Crewe Alexandra,2-2,-
--,-,Wrexham,Crewe Alexandra,1-0,-
--,-,York City,Crewe Alexandra,1-1,-
--,-,Aldershot,Darlington,0-0,-
--,-,Barnsley,Darlington,1-0,-
--,-,Bradford City,Darlington,1-0,-
--,-,Bradford Park Avenue,Darlington,1-2,-
--,-,Brentford,Darlington,2-0,-
--,-,Chester,Darlington,0-1,-
--,-,Chesterfield,Darlington,3-1,-
--,-,Crewe Alexandra,Darlington,1-1,-
--,-,Doncaster Rovers,Darlington,2-1,-
--,-,Exeter City,Darlington,0-0,-
--,-,Halifax Town,Darlington,2-0,-
--,-,Hartlepool United,Darlington,1-0,-
--,-,Lincoln City,Darlington,1-2,-
--,-,Luton Town,Darlington,3-1,-
--,-,Newport County,Darlington,1-0,-
--,-,Notts County,Darlington,0-0,-
--,-,Port Vale,Darlington,0-1,-
--,-,Rochdale,Darlington,1-0,-
--,-,Southend United,Darlington,2-2,-
--,-,Swansea City,Darlington,0-1,-
--,-,Workington,Darlington,0-1,-
--,-,Wrexham,Darlington,3-1,-
--,-,York City,Darlington,1-1,-
--,-,Aldershot,Doncaster Rovers,2-1,-
--,-,Barnsley,Doncaster Rovers,1-0,-
--,-,Bradford City,Doncaster Rovers,1-1,-
--,-,Bradford Park Avenue,Doncaster Rovers,1-1,-
--,-,Brentford,Doncaster Rovers,4-2,-
--,-,Chester,Doncaster Rovers,2-3,-
--,-,Chesterfield,Doncaster Rovers,2-0,-
--,-,Crewe Alexandra,Doncaster Rovers,2-2,-
--,-,Darlington,Doncaster Rovers,1-1,-
--,-,Exeter City,Doncaster Rovers,0-1,-
--,-,Halifax Town,Doncaster Rovers,2-3,-
--,-,Hartlepool United,Doncaster Rovers,0-0,-
--,-,Lincoln City,Doncaster Rovers,2-0,-
--,-,Luton Town,Doncaster Rovers,5-3,-
--,-,Newport County,Doncaster Rovers,2-1,-
--,-,Notts County,Doncaster Rovers,0-2,-
--,-,Port Vale,Doncaster Rovers,4-2,-
--,-,Rochdale,Doncaster Rovers,2-0,-
--,-,Southend United,Doncaster Rovers,1-2,-
--,-,Swansea City,Doncaster Rovers,3-1,-
--,-,Workington,Doncaster Rovers,2-2,-
--,-,Wrexham,Doncaster Rovers,0-0,-
--,-,York City,Doncaster Rovers,1-2,-
--,-,Aldershot,Exeter City,0-0,-
--,-,Barnsley,Exeter City,2-1,-
--,-,Bradford City,Exeter City,2-1,-
--,-,Bradford Park Avenue,Exeter City,0-1,-
--,-,Brentford,Exeter City,5-1,-
--,-,Chester,Exeter City,3-1,-
--,-,Chesterfield,Exeter City,1-1,-
--,-,Crewe Alexandra,Exeter City,2-0,-
--,-,Darlington,Exeter City,0-1,-
--,-,Doncaster Rovers,Exeter City,3-1,-
--,-,Halifax Town,Exeter City,1-1,-
--,-,Hartlepool United,Exeter City,3-1,-
--,-,Lincoln City,Exeter City,1-1,-
--,-,Luton Town,Exeter City,0-0,-
--,-,Newport County,Exeter City,1-1,-
--,-,Notts County,Exeter City,1-0,-
--,-,Port Vale,Exeter City,1-0,-
--,-,Rochdale,Exeter City,2-2,-
--,-,Southend United,Exeter City,1-0,-
--,-,Swansea City,Exeter City,1-1,-
--,-,Workington,Exeter City,1-0,-
--,-,Wrexham,Exeter City,0-0,-
--,-,York City,Exeter City,4-0,-
--,-,Aldershot,Halifax Town,1-1,-
--,-,Barnsley,Halifax Town,0-0,-
--,-,Bradford City,Halifax Town,0-1,-
--,-,Bradford Park Avenue,Halifax Town,0-1,-
--,-,Brentford,Halifax Town,0-0,-
--,-,Chester,Halifax Town,3-2,-
--,-,Chesterfield,Halifax Town,0-0,-
--,-,Crewe Alexandra,Halifax Town,5-1,-
--,-,Darlington,Halifax Town,0-0,-
--,-,Doncaster Rovers,Halifax Town,0-0,-
--,-,Exeter City,Halifax Town,0-0,-
--,-,Hartlepool United,Halifax Town,0-0,-
--,-,Lincoln City,Halifax Town,1-0,-
--,-,Luton Town,Halifax Town,2-0,-
--,-,Newport County,Halifax Town,0-1,-
--,-,Notts County,Halifax Town,1-3,-
--,-,Port Vale,Halifax Town,2-1,-
--,-,Rochdale,Halifax Town,2-1,-
--,-,Southend United,Halifax Town,2-2,-
--,-,Swansea City,Halifax Town,2-1,-
--,-,Workington,Halifax Town,1-1,-
--,-,Wrexham,Halifax Town,2-0,-
--,-,York City,Halifax Town,1-2,-
--,-,Aldershot,Hartlepool United,2-0,-
--,-,Barnsley,Hartlepool United,4-0,-
--,-,Bradford City,Hartlepool United,1-1,-
--,-,Bradford Park Avenue,Hartlepool United,0-1,-
--,-,Brentford,Hartlepool United,0-1,-
--,-,Chester,Hartlepool United,0-2,-
--,-,Chesterfield,Hartlepool United,3-1,-
--,-,Crewe Alexandra,Hartlepool United,2-1,-
--,-,Darlington,Hartlepool United,2-3,-
--,-,Doncaster Rovers,Hartlepool United,0-1,-
--,-,Exeter City,Hartlepool United,0-0,-
--,-,Halifax Town,Hartlepool United,3-0,-
--,-,Lincoln City,Hartlepool United,1-2,-
--,-,Luton Town,Hartlepool United,1-0,-
--,-,Newport County,Hartlepool United,2-0,-
--,-,Notts County,Hartlepool United,0-3,-
--,-,Port Vale,Hartlepool United,2-3,-
--,-,Rochdale,Hartlepool United,1-1,-
--,-,Southend United,Hartlepool United,2-1,-
--,-,Swansea City,Hartlepool United,0-2,-
--,-,Workington,Hartlepool United,2-1,-
--,-,Wrexham,Hartlepool United,6-0,-
--,-,York City,Hartlepool United,0-2,-
--,-,Aldershot,Lincoln City,3-2,-
--,-,Barnsley,Lincoln City,2-1,-
--,-,Bradford City,Lincoln City,2-1,-
--,-,Bradford Park Avenue,Lincoln City,1-5,-
--,-,Brentford,Lincoln City,1-3,-
--,-,Chester,Lincoln City,6-0,-
--,-,Chesterfield,Lincoln City,2-0,-
--,-,Crewe Alexandra,Lincoln City,2-1,-
--,-,Darlington,Lincoln City,1-1,-
--,-,Doncaster Rovers,Lincoln City,0-0,-
--,-,Exeter City,Lincoln City,0-1,-
--,-,Halifax Town,Lincoln City,1-0,-
--,-,Hartlepool United,Lincoln City,1-1,-
--,-,Luton Town,Lincoln City,4-2,-
--,-,Newport County,Lincoln City,0-1,-
--,-,Notts County,Lincoln City,0-0,-
--,-,Port Vale,Lincoln City,1-1,-
--,-,Rochdale,Lincoln City,1-2,-
--,-,Southend United,Lincoln City,2-1,-
--,-,Swansea City,Lincoln City,2-2,-
--,-,Workington,Lincoln City,2-4,-
--,-,Wrexham,Lincoln City,2-1,-
--,-,York City,Lincoln City,1-0,-
--,-,Aldershot,Luton Town,0-1,-
--,-,Barnsley,Luton Town,2-2,-
--,-,Bradford City,Luton Town,2-0,-
--,-,Bradford Park Avenue,Luton Town,2-1,-
--,-,Brentford,Luton Town,0-2,-
--,-,Chester,Luton Town,1-3,-
--,-,Chesterfield,Luton Town,0-0,-
--,-,Crewe Alexandra,Luton Town,2-1,-
--,-,Darlington,Luton Town,1-2,-
--,-,Doncaster Rovers,Luton Town,2-0,-
--,-,Exeter City,Luton Town,0-5,-
--,-,Halifax Town,Luton Town,0-1,-
--,-,Hartlepool United,Luton Town,2-1,-
--,-,Lincoln City,Luton Town,2-3,-
--,-,Newport County,Luton Town,1-1,-
--,-,Notts County,Luton Town,2-2,-
--,-,Port Vale,Luton Town,0-0,-
--,-,Rochdale,Luton Town,2-2,-
--,-,Southend United,Luton Town,3-0,-
--,-,Swansea City,Luton Town,2-2,-
--,-,Workington,Luton Town,0-1,-
--,-,Wrexham,Luton Town,1-1,-
--,-,York City,Luton Town,1-1,-
--,-,Aldershot,Newport County,0-0,-
--,-,Barnsley,Newport County,4-2,-
--,-,Bradford City,Newport County,3-0,-
--,-,Bradford Park Avenue,Newport County,0-2,-
--,-,Brentford,Newport County,2-1,-
--,-,Chester,Newport County,2-1,-
--,-,Chesterfield,Newport County,1-2,-
--,-,Crewe Alexandra,Newport County,1-1,-
--,-,Darlington,Newport County,1-0,-
--,-,Doncaster Rovers,Newport County,1-1,-
--,-,Exeter City,Newport County,2-1,-
--,-,Halifax Town,Newport County,4-1,-
--,-,Hartlepool United,Newport County,2-0,-
--,-,Lincoln City,Newport County,2-1,-
--,-,Luton Town,Newport County,1-1,-
--,-,Notts County,Newport County,3-1,-
--,-,Port Vale,Newport County,0-1,-
--,-,Rochdale,Newport County,4-3,-
--,-,Southend United,Newport County,2-2,-
--,-,Swansea City,Newport County,4-2,-
--,-,Workington,Newport County,1-1,-
--,-,Wrexham,Newport County,0-1,-
--,-,York City,Newport County,0-1,-
--,-,Aldershot,Notts County,0-0,-
--,-,Barnsley,Notts County,3-1,-
--,-,Bradford City,Notts County,5-1,-
--,-,Bradford Park Avenue,Notts County,1-4,-
--,-,Brentford,Notts County,2-1,-
--,-,Chester,Notts County,1-3,-
--,-,Chesterfield,Notts County,4-0,-
--,-,Crewe Alexandra,Notts County,4-0,-
--,-,Darlington,Notts County,2-2,-
--,-,Doncaster Rovers,Notts County,3-1,-
--,-,Exeter City,Notts County,3-3,-
--,-,Halifax Town,Notts County,0-1,-
--,-,Hartlepool United,Notts County,3-1,-
--,-,Lincoln City,Notts County,1-3,-
--,-,Luton Town,Notts County,2-0,-
--,-,Newport County,Notts County,1-0,-
--,-,Port Vale,Notts County,4-1,-
--,-,Rochdale,Notts County,0-0,-
--,-,Southend United,Notts County,0-1,-
--,-,Swansea City,Notts County,2-0,-
--,-,Workington,Notts County,5-1,-
--,-,Wrexham,Notts County,2-0,-
--,-,York City,Notts County,4-2,-
--,-,Aldershot,Port Vale,2-0,-
--,-,Barnsley,Port Vale,2-0,-
--,-,Bradford City,Port Vale,2-1,-
--,-,Bradford Park Avenue,Port Vale,2-2,-
--,-,Brentford,Port Vale,3-1,-
--,-,Chester,Port Vale,1-1,-
--,-,Chesterfield,Port Vale,3-0,-
--,-,Crewe Alexandra,Port Vale,1-1,-
--,-,Darlington,Port Vale,2-2,-
--,-,Doncaster Rovers,Port Vale,0-0,-
--,-,Exeter City,Port Vale,3-1,-
--,-,Halifax Town,Port Vale,0-1,-
--,-,Hartlepool United,Port Vale,2-2,-
--,-,Lincoln City,Port Vale,0-1,-
--,-,Luton Town,Port Vale,2-0,-
--,-,Newport County,Port Vale,1-1,-
--,-,Notts County,Port Vale,0-0,-
--,-,Rochdale,Port Vale,3-1,-
--,-,Southend United,Port Vale,1-1,-
--,-,Swansea City,Port Vale,4-2,-
--,-,Workington,Port Vale,1-1,-
--,-,Wrexham,Port Vale,1-0,-
--,-,York City,Port Vale,5-1,-
--,-,Aldershot,Rochdale,2-1,-
--,-,Barnsley,Rochdale,1-1,-
--,-,Bradford City,Rochdale,0-0,-
--,-,Bradford Park Avenue,Rochdale,0-0,-
--,-,Brentford,Rochdale,4-0,-
--,-,Chester,Rochdale,0-1,-
--,-,Chesterfield,Rochdale,0-2,-
--,-,Crewe Alexandra,Rochdale,2-1,-
--,-,Darlington,Rochdale,2-0,-
--,-,Doncaster Rovers,Rochdale,2-0,-
--,-,Exeter City,Rochdale,3-1,-
--,-,Halifax Town,Rochdale,2-0,-
--,-,Hartlepool United,Rochdale,1-1,-
--,-,Lincoln City,Rochdale,3-2,-
--,-,Luton Town,Rochdale,4-1,-
--,-,Newport County,Rochdale,1-1,-
--,-,Notts County,Rochdale,2-0,-
--,-,Port Vale,Rochdale,1-1,-
--,-,Southend United,Rochdale,3-1,-
--,-,Swansea City,Rochdale,1-0,-
--,-,Workington,Rochdale,0-1,-
--,-,Wrexham,Rochdale,2-0,-
--,-,York City,Rochdale,4-1,-
--,-,Aldershot,Southend United,1-3,-
--,-,Barnsley,Southend United,1-1,-
--,-,Bradford City,Southend United,2-1,-
--,-,Bradford Park Avenue,Southend United,0-1,-
--,-,Brentford,Southend United,1-2,-
--,-,Chester,Southend United,0-0,-
--,-,Chesterfield,Southend United,3-1,-
--,-,Crewe Alexandra,Southend United,1-0,-
--,-,Darlington,Southend United,1-1,-
--,-,Doncaster Rovers,Southend United,2-1,-
--,-,Exeter City,Southend United,0-2,-
--,-,Halifax Town,Southend United,1-2,-
--,-,Hartlepool United,Southend United,0-1,-
--,-,Lincoln City,Southend United,4-2,-
--,-,Luton Town,Southend United,3-1,-
--,-,Newport County,Southend United,2-0,-
--,-,Notts County,Southend United,4-3,-
--,-,Port Vale,Southend United,1-2,-
--,-,Rochdale,Southend United,0-1,-
--,-,Swansea City,Southend United,2-2,-
--,-,Workington,Southend United,2-2,-
--,-,Wrexham,Southend United,4-1,-
--,-,York City,Southend United,2-2,-
--,-,Aldershot,Swansea City,1-1,-
--,-,Barnsley,Swansea City,3-0,-
--,-,Bradford City,Swansea City,4-1,-
--,-,Bradford Park Avenue,Swansea City,1-2,-
--,-,Brentford,Swansea City,2-1,-
--,-,Chester,Swansea City,2-3,-
--,-,Chesterfield,Swansea City,3-1,-
--,-,Crewe Alexandra,Swansea City,2-0,-
--,-,Darlington,Swansea City,2-0,-
--,-,Doncaster Rovers,Swansea City,1-2,-
--,-,Exeter City,Swansea City,1-3,-
--,-,Halifax Town,Swansea City,2-2,-
--,-,Hartlepool United,Swansea City,2-0,-
--,-,Lincoln City,Swansea City,3-0,-
--,-,Luton Town,Swansea City,4-0,-
--,-,Newport County,Swansea City,3-0,-
--,-,Notts County,Swansea City,3-2,-
--,-,Port Vale,Swansea City,4-2,-
--,-,Rochdale,Swansea City,1-2,-
--,-,Southend United,Swansea City,1-0,-
--,-,Workington,Swansea City,3-1,-
--,-,Wrexham,Swansea City,2-1,-
--,-,York City,Swansea City,2-1,-
--,-,Aldershot,Workington,5-0,-
--,-,Barnsley,Workington,2-1,-
--,-,Bradford City,Workington,1-0,-
--,-,Bradford Park Avenue,Workington,1-1,-
--,-,Brentford,Workington,2-1,-
--,-,Chester,Workington,1-2,-
--,-,Chesterfield,Workington,0-0,-
--,-,Crewe Alexandra,Workington,3-2,-
--,-,Darlington,Workington,1-0,-
--,-,Doncaster Rovers,Workington,3-0,-
--,-,Exeter City,Workington,1-0,-
--,-,Halifax Town,Workington,2-1,-
--,-,Hartlepool United,Workington,2-1,-
--,-,Lincoln City,Workington,3-0,-
--,-,Luton Town,Workington,4-0,-
--,-,Newport County,Workington,2-1,-
--,-,Notts County,Workington,2-1,-
--,-,Port Vale,Workington,4-2,-
--,-,Rochdale,Workington,1-3,-
--,-,Southend United,Workington,7-0,-
--,-,Swansea City,Workington,5-2,-
--,-,Wrexham,Workington,5-0,-
--,-,York City,Workington,1-1,-
--,-,Aldershot,Wrexham,3-1,-
--,-,Barnsley,Wrexham,2-2,-
--,-,Bradford City,Wrexham,3-1,-
--,-,Bradford Park Avenue,Wrexham,0-1,-
--,-,Brentford,Wrexham,0-0,-
--,-,Chester,Wrexham,1-1,-
--,-,Chesterfield,Wrexham,3-1,-
--,-,Crewe Alexandra,Wrexham,0-0,-
--,-,Darlington,Wrexham,1-1,-
--,-,Doncaster Rovers,Wrexham,2-2,-
--,-,Exeter City,Wrexham,2-2,-
--,-,Halifax Town,Wrexham,2-2,-
--,-,Hartlepool United,Wrexham,3-0,-
--,-,Lincoln City,Wrexham,0-2,-
--,-,Luton Town,Wrexham,2-1,-
--,-,Newport County,Wrexham,3-2,-
--,-,Notts County,Wrexham,1-1,-
--,-,Port Vale,Wrexham,1-1,-
--,-,Rochdale,Wrexham,3-0,-
--,-,Southend United,Wrexham,3-1,-
--,-,Swansea City,Wrexham,2-0,-
--,-,Workington,Wrexham,1-2,-
--,-,York City,Wrexham,3-1,-
--,-,Aldershot,York City,2-2,-
--,-,Barnsley,York City,1-0,-
--,-,Bradford City,York City,0-0,-
--,-,Bradford Park Avenue,York City,1-1,-
--,-,Brentford,York City,3-1,-
--,-,Chester,York City,1-1,-
--,-,Chesterfield,York City,3-1,-
--,-,Crewe Alexandra,York City,0-0,-
--,-,Darlington,York City,3-1,-
--,-,Doncaster Rovers,York City,2-0,-
--,-,Exeter City,York City,3-1,-
--,-,Halifax Town,York City,2-1,-
--,-,Hartlepool United,York City,1-0,-
--,-,Lincoln City,York City,1-3,-
--,-,Luton Town,York City,3-1,-
--,-,Newport County,York City,2-1,-
--,-,Notts County,York City,1-1,-
--,-,Port Vale,York City,1-0,-
--,-,Rochdale,York City,3-2,-
--,-,Southend United,York City,0-1,-
--,-,Swansea City,York City,1-1,-
--,-,Workington,York City,1-1,-
--,-,Wrexham,York City,3-1,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 2 Mar 1968 (9),Aldershot Town FC (1),1-1,?,Barnsley FC (1)
+?,(Wed) 15 Nov 1967 (46),Aldershot Town FC (2),3-3,?,Bradford City (1)
+?,(Sat) 18 Nov 1967 (46),Aldershot Town FC (3),1-1,?,Bradford Park Avenue (1)
+?,(Sat) 20 Apr 1968 (16),Aldershot Town FC (4),0-0,?,Brentford FC (1)
+?,(Sat) 10 Feb 1968 (6),Aldershot Town FC (5),2-1,?,Chester FC (1)
+?,(Wed) 13 Mar 1968 (11),Aldershot Town FC (6),3-0,?,Chesterfield FC (1)
+?,(Sat) 9 Sep 1967 (36),Aldershot Town FC (7),2-0,?,Crewe Alexandra (1)
+?,(Wed) 4 Oct 1967 (40),Aldershot Town FC (8),0-0,?,Darlington FC (1)
+?,(Sat) 6 Apr 1968 (14),Aldershot Town FC (9),2-1,?,Doncaster Rovers (1)
+?,(Tue) 26 Dec 1967 (52),Aldershot Town FC (10),0-0,?,Exeter City (1)
+?,(Sat) 26 Aug 1967 (34),Aldershot Town FC (11),1-1,?,Halifax Town (1)
+?,(Sat) 27 Jan 1968 (4),Aldershot Town FC (12),2-0,?,Hartlepool United (1)
+?,(Sat) 16 Dec 1967 (50),Aldershot Town FC (13),3-2,?,Lincoln City (1)
+?,(Wed) 20 Mar 1968 (12),Aldershot Town FC (14),0-1,?,Luton Town (1)
+?,(Fri) 12 Apr 1968 (15),Aldershot Town FC (15),0-0,?,Newport County AFC (1)
+?,(Sat) 20 Jan 1968 (3),Aldershot Town FC (16),0-0,?,Notts County FC (1)
+?,(Sat) 23 Sep 1967 (38),Aldershot Town FC (17),2-0,?,Port Vale FC (1)
+?,(Sat) 2 Dec 1967 (48),Aldershot Town FC (18),2-1,?,Rochdale AFC (1)
+?,(Sat) 23 Mar 1968 (12),Aldershot Town FC (19),1-3,?,Southend United (1)
+?,(Sat) 7 Oct 1967 (40),Aldershot Town FC (20),1-1,?,Swansea City (1)
+?,(Wed) 6 Sep 1967 (36),Aldershot Town FC (21),5-0,?,Workington (1)
+?,(Sat) 21 Oct 1967 (42),Aldershot Town FC (22),3-1,?,Wrexham AFC (1)
+?,(Sat) 4 May 1968 (18),Aldershot Town FC (23),2-2,?,York City (1)
+?,(Sat) 14 Oct 1967 (41),Barnsley FC (2),1-0,?,Aldershot Town FC (24)
+?,(Sat) 11 Nov 1967 (45),Barnsley FC (3),1-0,?,Bradford City (2)
+?,(Tue) 26 Sep 1967 (39),Barnsley FC (4),2-0,?,Bradford Park Avenue (2)
+?,(Mon) 15 Apr 1968 (16),Barnsley FC (5),3-0,?,Brentford FC (2)
+?,(Tue) 23 Apr 1968 (17),Barnsley FC (6),2-1,?,Chester FC (2)
+?,(Fri) 15 Sep 1967 (37),Barnsley FC (7),0-0,?,Chesterfield FC (2)
+?,(Sat) 24 Feb 1968 (8),Barnsley FC (8),3-1,?,Crewe Alexandra (2)
+?,(Sat) 13 Apr 1968 (15),Barnsley FC (9),1-0,?,Darlington FC (2)
+?,(Sat) 19 Aug 1967 (33),Barnsley FC (10),1-0,?,Doncaster Rovers (2)
+?,(Sat) 27 Jan 1968 (4),Barnsley FC (11),2-1,?,Exeter City (2)
+?,(Sat) 30 Mar 1968 (13),Barnsley FC (12),0-0,?,Halifax Town (2)
+?,(Sat) 10 Feb 1968 (6),Barnsley FC (13),4-0,?,Hartlepool United (2)
+?,(Sat) 28 Oct 1967 (43),Barnsley FC (14),2-1,?,Lincoln City (2)
+?,(Sat) 23 Dec 1967 (51),Barnsley FC (15),2-2,?,Luton Town (2)
+?,(Sat) 11 May 1968 (19),Barnsley FC (16),4-2,?,Newport County AFC (2)
+?,(Sat) 25 Nov 1967 (47),Barnsley FC (17),3-1,?,Notts County FC (2)
+?,(Fri) 26 Apr 1968 (17),Barnsley FC (18),2-0,?,Port Vale FC (2)
+?,(Tue) 3 Oct 1967 (40),Barnsley FC (19),1-1,?,Rochdale AFC (2)
+?,(Sat) 2 Sep 1967 (35),Barnsley FC (20),1-1,?,Southend United (2)
+?,(Sat) 23 Sep 1967 (38),Barnsley FC (21),3-0,?,Swansea City (2)
+?,(Sat) 16 Mar 1968 (11),Barnsley FC (22),2-1,?,Workington (2)
+?,(Tue) 5 Mar 1968 (10),Barnsley FC (23),2-2,?,Wrexham AFC (2)
+?,(Sat) 30 Dec 1967 (52),Barnsley FC (24),1-0,?,York City (2)
+?,(Sat) 2 Sep 1967 (35),Bradford City (3),1-3,?,Aldershot Town FC (25)
+?,(Sat) 6 Apr 1968 (14),Bradford City (4),1-0,?,Barnsley FC (25)
+?,(Sat) 10 Feb 1968 (6),Bradford City (5),1-2,?,Bradford Park Avenue (3)
+?,(Sat) 9 Mar 1968 (10),Bradford City (6),2-3,?,Brentford FC (3)
+?,(Mon) 15 Apr 1968 (16),Bradford City (7),2-2,?,Chester FC (3)
+?,(Wed) 27 Sep 1967 (39),Bradford City (8),3-1,?,Chesterfield FC (3)
+?,(Wed) 18 Oct 1967 (42),Bradford City (9),2-1,?,Crewe Alexandra (3)
+?,(Sat) 23 Dec 1967 (51),Bradford City (10),1-0,?,Darlington FC (3)
+?,(Sat) 4 May 1968 (18),Bradford City (11),1-1,?,Doncaster Rovers (3)
+?,(Sat) 19 Aug 1967 (33),Bradford City (12),2-1,?,Exeter City (3)
+?,(Sat) 3 Feb 1968 (5),Bradford City (13),0-1,?,Halifax Town (3)
+?,(Sat) 23 Mar 1968 (12),Bradford City (14),1-1,?,Hartlepool United (3)
+?,(Sat) 16 Sep 1967 (37),Bradford City (15),2-1,?,Lincoln City (3)
+?,(Sat) 2 Dec 1967 (48),Bradford City (16),2-0,?,Luton Town (3)
+?,(Sat) 21 Oct 1967 (42),Bradford City (17),3-0,?,Newport County AFC (3)
+?,(Tue) 26 Dec 1967 (52),Bradford City (18),5-1,?,Notts County FC (3)
+?,(Wed) 4 Oct 1967 (40),Bradford City (19),2-1,?,Port Vale FC (3)
+?,(Sat) 7 Oct 1967 (40),Bradford City (20),0-0,?,Rochdale AFC (3)
+?,(Sat) 20 Apr 1968 (16),Bradford City (21),2-1,?,Southend United (3)
+?,(Sat) 4 Nov 1967 (44),Bradford City (22),4-1,?,Swansea City (3)
+?,(Wed) 24 Jan 1968 (4),Bradford City (23),1-0,?,Workington (3)
+?,(Sat) 18 Nov 1967 (46),Bradford City (24),3-1,?,Wrexham AFC (3)
+?,(Sat) 2 Mar 1968 (9),Bradford City (25),0-0,?,York City (3)
+?,(Sat) 24 Feb 1968 (8),Bradford Park Avenue (4),1-1,?,Aldershot Town FC (26)
+?,(Mon) 4 Sep 1967 (36),Bradford Park Avenue (5),1-1,?,Barnsley FC (26)
+?,(Sat) 30 Sep 1967 (39),Bradford Park Avenue (6),1-2,?,Bradford City (26)
+?,(Sat) 23 Sep 1967 (38),Bradford Park Avenue (7),1-0,?,Brentford FC (4)
+?,(Sat) 16 Mar 1968 (11),Bradford Park Avenue (8),0-2,?,Chester FC (4)
+?,(Sat) 28 Oct 1967 (43),Bradford Park Avenue (9),2-1,?,Chesterfield FC (4)
+?,(Sat) 27 Jan 1968 (4),Bradford Park Avenue (10),1-2,?,Crewe Alexandra (4)
+?,(Sat) 11 Nov 1967 (45),Bradford Park Avenue (11),1-2,?,Darlington FC (4)
+?,(Sat) 17 Feb 1968 (7),Bradford Park Avenue (12),1-1,?,Doncaster Rovers (4)
+?,(Sat) 30 Mar 1968 (13),Bradford Park Avenue (13),0-1,?,Exeter City (4)
+?,(Mon) 22 Apr 1968 (17),Bradford Park Avenue (14),0-1,?,Halifax Town (4)
+?,(Sat) 26 Aug 1967 (34),Bradford Park Avenue (15),0-1,?,Hartlepool United (4)
+?,(Sat) 27 Apr 1968 (17),Bradford Park Avenue (16),1-5,?,Lincoln City (4)
+?,(Sat) 30 Dec 1967 (52),Bradford Park Avenue (17),2-1,?,Luton Town (4)
+?,(Mon) 13 Nov 1967 (46),Bradford Park Avenue (18),0-2,?,Newport County AFC (4)
+?,(Sat) 13 Apr 1968 (15),Bradford Park Avenue (19),1-4,?,Notts County FC (4)
+?,(Sat) 14 Oct 1967 (41),Bradford Park Avenue (20),2-2,?,Port Vale FC (4)
+?,(Sat) 20 Jan 1968 (3),Bradford Park Avenue (21),0-0,?,Rochdale AFC (4)
+?,(Mon) 23 Oct 1967 (43),Bradford Park Avenue (22),0-1,?,Southend United (4)
+?,(Sat) 16 Dec 1967 (50),Bradford Park Avenue (23),1-2,?,Swansea City (4)
+?,(Sat) 25 Nov 1967 (47),Bradford Park Avenue (24),1-1,?,Workington (4)
+?,(Tue) 16 Apr 1968 (16),Bradford Park Avenue (25),0-1,?,Wrexham AFC (4)
+?,(Sat) 9 Sep 1967 (36),Bradford Park Avenue (26),1-1,?,York City (4)
+?,(Sat) 25 Nov 1967 (47),Brentford FC (5),1-1,?,Aldershot Town FC (27)
+?,(Sat) 6 Jan 1968 (1),Brentford FC (6),0-1,?,Barnsley FC (27)
+?,(Sat) 27 Jan 1968 (4),Brentford FC (7),0-1,?,Bradford City (27)
+?,(Sat) 3 Feb 1968 (5),Brentford FC (8),2-1,?,Bradford Park Avenue (27)
+?,(Sat) 28 Oct 1967 (43),Brentford FC (9),3-1,?,Chester FC (5)
+?,(Sat) 30 Mar 1968 (13),Brentford FC (10),1-1,?,Chesterfield FC (5)
+?,(Sat) 13 Apr 1968 (15),Brentford FC (11),2-1,?,Crewe Alexandra (5)
+?,(Sat) 24 Feb 1968 (8),Brentford FC (12),2-0,?,Darlington FC (5)
+?,(Sat) 30 Sep 1967 (39),Brentford FC (13),4-2,?,Doncaster Rovers (5)
+?,(Sat) 11 Nov 1967 (45),Brentford FC (14),5-1,?,Exeter City (5)
+?,(Sat) 16 Sep 1967 (37),Brentford FC (15),0-0,?,Halifax Town (5)
+?,(Sat) 16 Dec 1967 (50),Brentford FC (16),0-1,?,Hartlepool United (5)
+?,(Tue) 23 Apr 1968 (17),Brentford FC (17),1-3,?,Lincoln City (5)
+?,(Sat) 17 Feb 1968 (7),Brentford FC (18),0-2,?,Luton Town (5)
+?,(Sat) 26 Aug 1967 (34),Brentford FC (19),3-1,?,Newport County AFC (5)
+?,(Sat) 14 Oct 1967 (41),Brentford FC (20),2-1,?,Notts County FC (5)
+?,(Sat) 16 Mar 1968 (11),Brentford FC (21),3-1,?,Port Vale FC (5)
+?,(Sat) 9 Sep 1967 (36),Brentford FC (22),4-0,?,Rochdale AFC (5)
+?,(Tue) 26 Dec 1967 (52),Brentford FC (23),1-2,?,Southend United (5)
+?,(Tue) 26 Sep 1967 (39),Brentford FC (24),2-1,?,Swansea City (5)
+?,(Sat) 27 Apr 1968 (17),Brentford FC (25),2-1,?,Workington (5)
+?,(Tue) 24 Oct 1967 (43),Brentford FC (26),0-0,?,Wrexham AFC (5)
+?,(Tue) 14 Nov 1967 (46),Brentford FC (27),3-1,?,York City (5)
+?,(Sat) 30 Sep 1967 (39),Chester FC (6),2-5,?,Aldershot Town FC (28)
+?,(Sat) 4 May 1968 (18),Chester FC (7),1-1,?,Barnsley FC (28)
+?,(Tue) 16 Apr 1968 (16),Chester FC (8),2-3,?,Bradford City (28)
+?,(Sat) 21 Oct 1967 (42),Chester FC (9),0-0,?,Bradford Park Avenue (28)
+?,(Sat) 23 Mar 1968 (12),Chester FC (10),3-0,?,Brentford FC (28)
+?,(Wed) 3 Apr 1968 (14),Chester FC (11),3-0,?,Chesterfield FC (6)
+?,(Wed) 6 Sep 1967 (36),Chester FC (12),0-4,?,Crewe Alexandra (6)
+?,(Sat) 3 Feb 1968 (5),Chester FC (13),0-1,?,Darlington FC (6)
+?,(Sat) 2 Mar 1968 (9),Chester FC (14),2-3,?,Doncaster Rovers (6)
+?,(Sat) 16 Sep 1967 (37),Chester FC (15),3-1,?,Exeter City (6)
+?,(Wed) 25 Oct 1967 (43),Chester FC (16),3-2,?,Halifax Town (6)
+?,(Sat) 20 Apr 1968 (16),Chester FC (17),0-2,?,Hartlepool United (6)
+?,(Sat) 30 Dec 1967 (52),Chester FC (18),6-0,?,Lincoln City (6)
+?,(Sat) 7 Oct 1967 (40),Chester FC (19),1-3,?,Luton Town (6)
+?,(Sat) 18 Nov 1967 (46),Chester FC (20),2-1,?,Newport County AFC (6)
+?,(Sat) 16 Dec 1967 (50),Chester FC (21),1-3,?,Notts County FC (6)
+?,(Sat) 26 Aug 1967 (34),Chester FC (22),1-1,?,Port Vale FC (6)
+?,(Sat) 4 Nov 1967 (44),Chester FC (23),0-1,?,Rochdale AFC (6)
+?,(Sat) 27 Jan 1968 (4),Chester FC (24),0-0,?,Southend United (6)
+?,(Sat) 2 Dec 1967 (48),Chester FC (25),2-3,?,Swansea City (6)
+?,(Sat) 17 Feb 1968 (7),Chester FC (26),1-2,?,Workington (6)
+?,(Wed) 15 Nov 1967 (46),Chester FC (27),1-1,?,Wrexham AFC (6)
+?,(Sat) 6 Apr 1968 (14),Chester FC (28),1-1,?,York City (6)
+?,(Sat) 17 Feb 1968 (7),Chesterfield FC (7),1-2,?,Aldershot Town FC (29)
+?,(Sat) 20 Jan 1968 (3),Chesterfield FC (8),2-3,?,Barnsley FC (29)
+?,(Mon) 4 Sep 1967 (36),Chesterfield FC (9),2-1,?,Bradford City (29)
+?,(Sat) 23 Mar 1968 (12),Chesterfield FC (10),2-0,?,Bradford Park Avenue (29)
+?,(Sat) 4 Nov 1967 (44),Chesterfield FC (11),2-1,?,Brentford FC (29)
+?,(Sat) 9 Sep 1967 (36),Chesterfield FC (12),3-1,?,Chester FC (29)
+?,(Sat) 16 Dec 1967 (50),Chesterfield FC (13),4-1,?,Crewe Alexandra (7)
+?,(Sat) 30 Sep 1967 (39),Chesterfield FC (14),3-1,?,Darlington FC (7)
+?,(Sat) 21 Oct 1967 (42),Chesterfield FC (15),2-0,?,Doncaster Rovers (7)
+?,(Sat) 3 Feb 1968 (5),Chesterfield FC (16),1-1,?,Exeter City (7)
+?,(Tue) 16 Apr 1968 (16),Chesterfield FC (17),0-0,?,Halifax Town (7)
+?,(Sat) 2 Dec 1967 (48),Chesterfield FC (18),3-1,?,Hartlepool United (7)
+?,(Mon) 23 Oct 1967 (43),Chesterfield FC (19),2-0,?,Lincoln City (7)
+?,(Sat) 2 Mar 1968 (9),Chesterfield FC (20),0-0,?,Luton Town (7)
+?,(Sat) 20 Apr 1968 (16),Chesterfield FC (21),1-2,?,Newport County AFC (7)
+?,(Sat) 26 Aug 1967 (34),Chesterfield FC (22),4-0,?,Notts County FC (7)
+?,(Mon) 13 Nov 1967 (46),Chesterfield FC (23),3-0,?,Port Vale FC (7)
+?,(Sat) 6 Apr 1968 (14),Chesterfield FC (24),0-2,?,Rochdale AFC (7)
+?,(Sat) 7 Oct 1967 (40),Chesterfield FC (25),3-1,?,Southend United (7)
+?,(Sat) 4 May 1968 (18),Chesterfield FC (26),3-1,?,Swansea City (7)
+?,(Tue) 26 Dec 1967 (52),Chesterfield FC (27),0-0,?,Workington (7)
+?,(Sat) 9 Mar 1968 (10),Chesterfield FC (28),3-1,?,Wrexham AFC (7)
+?,(Sat) 18 Nov 1967 (46),Chesterfield FC (29),3-1,?,York City (7)
+?,(Wed) 27 Mar 1968 (13),Crewe Alexandra (8),1-1,?,Aldershot Town FC (30)
+?,(Sat) 18 Nov 1967 (46),Crewe Alexandra (9),3-3,?,Barnsley FC (30)
+?,(Sat) 17 Feb 1968 (7),Crewe Alexandra (10),1-1,?,Bradford City (30)
+?,(Sat) 9 Mar 1968 (10),Crewe Alexandra (11),4-0,?,Bradford Park Avenue (30)
+?,(Sat) 7 Oct 1967 (40),Crewe Alexandra (12),2-0,?,Brentford FC (30)
+?,(Wed) 27 Sep 1967 (39),Crewe Alexandra (13),2-0,?,Chester FC (30)
+?,(Sat) 19 Aug 1967 (33),Crewe Alexandra (14),1-1,?,Chesterfield FC (30)
+?,(Sat) 2 Sep 1967 (35),Crewe Alexandra (15),1-1,?,Darlington FC (8)
+?,(Sat) 30 Dec 1967 (52),Crewe Alexandra (16),2-2,?,Doncaster Rovers (8)
+?,(Sat) 23 Dec 1967 (51),Crewe Alexandra (17),2-0,?,Exeter City (8)
+?,(Sat) 30 Sep 1967 (39),Crewe Alexandra (18),5-1,?,Halifax Town (8)
+?,(Sat) 4 Nov 1967 (44),Crewe Alexandra (19),2-1,?,Hartlepool United (8)
+?,(Sat) 3 Feb 1968 (5),Crewe Alexandra (20),2-1,?,Lincoln City (8)
+?,(Sat) 4 May 1968 (18),Crewe Alexandra (21),2-1,?,Luton Town (8)
+?,(Sat) 23 Mar 1968 (12),Crewe Alexandra (22),1-1,?,Newport County AFC (8)
+?,(Wed) 25 Oct 1967 (43),Crewe Alexandra (23),4-0,?,Notts County FC (8)
+?,(Fri) 12 Apr 1968 (15),Crewe Alexandra (24),1-1,?,Port Vale FC (8)
+?,(Sat) 2 Mar 1968 (9),Crewe Alexandra (25),2-1,?,Rochdale AFC (8)
+?,(Sat) 2 Dec 1967 (48),Crewe Alexandra (26),1-0,?,Southend United (8)
+?,(Sat) 6 Apr 1968 (14),Crewe Alexandra (27),2-0,?,Swansea City (8)
+?,(Sat) 16 Sep 1967 (37),Crewe Alexandra (28),3-2,?,Workington (8)
+?,(Sat) 20 Apr 1968 (16),Crewe Alexandra (29),0-0,?,Wrexham AFC (8)
+?,(Sat) 21 Oct 1967 (42),Crewe Alexandra (30),0-0,?,York City (8)
+?,(Mon) 23 Oct 1967 (43),Darlington FC (9),6-2,?,Aldershot Town FC (31)
+?,(Sat) 7 Oct 1967 (40),Darlington FC (10),0-2,?,Barnsley FC (31)
+?,(Sat) 26 Aug 1967 (34),Darlington FC (11),2-2,?,Bradford City (31)
+?,(Sat) 6 Apr 1968 (14),Darlington FC (12),0-0,?,Bradford Park Avenue (31)
+?,(Sat) 18 Nov 1967 (46),Darlington FC (13),2-3,?,Brentford FC (31)
+?,(Sat) 23 Sep 1967 (38),Darlington FC (14),0-2,?,Chester FC (31)
+?,(Sat) 10 Feb 1968 (6),Darlington FC (15),1-1,?,Chesterfield FC (31)
+?,(Mon) 1 Apr 1968 (14),Darlington FC (16),0-0,?,Crewe Alexandra (31)
+?,(Sat) 4 Nov 1967 (44),Darlington FC (17),1-1,?,Doncaster Rovers (9)
+?,(Sat) 17 Feb 1968 (7),Darlington FC (18),0-1,?,Exeter City (9)
+?,(Sat) 16 Dec 1967 (50),Darlington FC (19),0-0,?,Halifax Town (9)
+?,(Sat) 30 Dec 1967 (52),Darlington FC (20),2-3,?,Hartlepool United (9)
+?,(Mon) 25 Sep 1967 (39),Darlington FC (21),1-1,?,Lincoln City (9)
+?,(Sat) 23 Mar 1968 (12),Darlington FC (22),1-2,?,Luton Town (9)
+?,(Sat) 4 May 1968 (18),Darlington FC (23),1-0,?,Newport County AFC (9)
+?,(Sat) 9 Sep 1967 (36),Darlington FC (24),2-2,?,Notts County FC (9)
+?,(Sat) 20 Jan 1968 (3),Darlington FC (25),2-2,?,Port Vale FC (9)
+?,(Sat) 20 Apr 1968 (16),Darlington FC (26),2-0,?,Rochdale AFC (9)
+?,(Sat) 21 Oct 1967 (42),Darlington FC (27),1-1,?,Southend United (9)
+?,(Mon) 4 Mar 1968 (10),Darlington FC (28),2-0,?,Swansea City (9)
+?,(Fri) 12 Apr 1968 (15),Darlington FC (29),1-0,?,Workington (9)
+?,(Sat) 2 Mar 1968 (9),Darlington FC (30),1-1,?,Wrexham AFC (9)
+?,(Sat) 2 Dec 1967 (48),Darlington FC (31),3-1,?,York City (9)
+?,(Sat) 11 Nov 1967 (45),Doncaster Rovers (10),3-0,?,Aldershot Town FC (32)
+?,(Fri) 15 Dec 1967 (50),Doncaster Rovers (11),1-2,?,Barnsley FC (32)
+?,(Tue) 23 Apr 1968 (17),Doncaster Rovers (12),2-2,?,Bradford City (32)
+?,(Fri) 10 May 1968 (19),Doncaster Rovers (13),2-0,?,Bradford Park Avenue (32)
+?,(Sat) 10 Feb 1968 (6),Doncaster Rovers (14),2-0,?,Brentford FC (32)
+?,(Sat) 14 Oct 1967 (41),Doncaster Rovers (15),0-0,?,Chester FC (32)
+?,(Fri) 15 Mar 1968 (11),Doncaster Rovers (16),1-0,?,Chesterfield FC (32)
+?,(Tue) 26 Dec 1967 (52),Doncaster Rovers (17),2-2,?,Crewe Alexandra (32)
+?,(Fri) 29 Mar 1968 (13),Doncaster Rovers (18),2-1,?,Darlington FC (32)
+?,(Sat) 28 Oct 1967 (43),Doncaster Rovers (19),3-1,?,Exeter City (10)
+?,(Fri) 26 Apr 1968 (17),Doncaster Rovers (20),0-0,?,Halifax Town (10)
+?,(Tue) 14 Nov 1967 (46),Doncaster Rovers (21),0-1,?,Hartlepool United (10)
+?,(Sat) 25 Nov 1967 (47),Doncaster Rovers (22),0-0,?,Lincoln City (10)
+?,(Tue) 3 Oct 1967 (40),Doncaster Rovers (23),2-0,?,Luton Town (10)
+?,(Sat) 9 Sep 1967 (36),Doncaster Rovers (24),1-1,?,Newport County AFC (10)
+?,(Fri) 8 Mar 1968 (10),Doncaster Rovers (25),3-1,?,Notts County FC (10)
+?,(Sat) 13 Apr 1968 (15),Doncaster Rovers (26),0-0,?,Port Vale FC (10)
+?,(Sat) 23 Sep 1967 (38),Doncaster Rovers (27),2-0,?,Rochdale AFC (10)
+?,(Tue) 16 Apr 1968 (16),Doncaster Rovers (28),2-1,?,Southend United (10)
+?,(Sat) 26 Aug 1967 (34),Doncaster Rovers (29),1-2,?,Swansea City (10)
+?,(Sat) 24 Feb 1968 (8),Doncaster Rovers (30),3-0,?,Workington (10)
+?,(Tue) 5 Sep 1967 (36),Doncaster Rovers (31),2-2,?,Wrexham AFC (10)
+?,(Fri) 19 Jan 1968 (3),Doncaster Rovers (32),2-0,?,York City (10)
+?,(Sat) 30 Dec 1967 (52),Exeter City (11),3-0,?,Aldershot Town FC (33)
+?,(Sat) 9 Mar 1968 (10),Exeter City (12),2-0,?,Barnsley FC (33)
+?,(Sat) 16 Dec 1967 (50),Exeter City (13),4-1,?,Bradford City (33)
+?,(Wed) 1 May 1968 (18),Exeter City (14),0-0,?,Bradford Park Avenue (33)
+?,(Sat) 6 Apr 1968 (14),Exeter City (15),0-3,?,Brentford FC (33)
+?,(Sat) 20 Jan 1968 (3),Exeter City (16),1-0,?,Chester FC (33)
+?,(Sat) 23 Sep 1967 (38),Exeter City (17),1-1,?,Chesterfield FC (33)
+?,(Sat) 26 Aug 1967 (34),Exeter City (18),1-4,?,Crewe Alexandra (33)
+?,(Sat) 11 May 1968 (19),Exeter City (19),0-0,?,Darlington FC (33)
+?,(Sat) 23 Mar 1968 (12),Exeter City (20),0-1,?,Doncaster Rovers (33)
+?,(Wed) 27 Sep 1967 (39),Exeter City (21),0-0,?,Halifax Town (11)
+?,(Sat) 4 May 1968 (18),Exeter City (22),0-0,?,Hartlepool United (11)
+?,(Fri) 12 Apr 1968 (15),Exeter City (23),0-1,?,Lincoln City (11)
+?,(Sat) 21 Oct 1967 (42),Exeter City (24),0-5,?,Luton Town (11)
+?,(Sat) 2 Dec 1967 (48),Exeter City (25),2-1,?,Newport County AFC (11)
+?,(Wed) 15 Nov 1967 (46),Exeter City (26),3-3,?,Notts County FC (11)
+?,(Sat) 9 Sep 1967 (36),Exeter City (27),3-1,?,Port Vale FC (11)
+?,(Sat) 18 Nov 1967 (46),Exeter City (28),3-1,?,Rochdale AFC (11)
+?,(Sat) 2 Mar 1968 (9),Exeter City (29),0-2,?,Southend United (11)
+?,(Sat) 10 Feb 1968 (6),Exeter City (30),1-3,?,Swansea City (11)
+?,(Wed) 25 Oct 1967 (43),Exeter City (31),1-0,?,Workington (11)
+?,(Sat) 7 Oct 1967 (40),Exeter City (32),2-2,?,Wrexham AFC (11)
+?,(Sat) 20 Apr 1968 (16),Exeter City (33),3-1,?,York City (11)
+?,(Sat) 23 Dec 1967 (51),Halifax Town (12),2-2,?,Aldershot Town FC (34)
+?,(Sat) 4 Nov 1967 (44),Halifax Town (13),1-1,?,Barnsley FC (34)
+?,(Sat) 23 Sep 1967 (38),Halifax Town (14),1-0,?,Bradford City (34)
+?,(Sat) 4 May 1968 (18),Halifax Town (15),1-0,?,Bradford Park Avenue (34)
+?,(Sat) 20 Jan 1968 (3),Halifax Town (16),3-0,?,Brentford FC (34)
+?,(Tue) 31 Oct 1967 (44),Halifax Town (17),2-2,?,Chester FC (34)
+?,(Mon) 15 Apr 1968 (16),Halifax Town (18),0-2,?,Chesterfield FC (34)
+?,(Tue) 5 Mar 1968 (10),Halifax Town (19),0-1,?,Crewe Alexandra (34)
+?,(Sat) 19 Aug 1967 (33),Halifax Town (20),2-0,?,Darlington FC (34)
+?,(Sat) 2 Dec 1967 (48),Halifax Town (21),2-3,?,Doncaster Rovers (34)
+?,(Mon) 4 Sep 1967 (36),Halifax Town (22),1-1,?,Exeter City (34)
+?,(Sat) 21 Oct 1967 (42),Halifax Town (23),3-0,?,Hartlepool United (12)
+?,(Sat) 13 Jan 1968 (2),Halifax Town (24),1-0,?,Lincoln City (12)
+?,(Sat) 20 Apr 1968 (16),Halifax Town (25),0-1,?,Luton Town (12)
+?,(Sat) 2 Mar 1968 (9),Halifax Town (26),4-1,?,Newport County AFC (12)
+?,(Fri) 10 May 1968 (19),Halifax Town (27),0-1,?,Notts County FC (12)
+?,(Sat) 30 Dec 1967 (52),Halifax Town (28),0-1,?,Port Vale FC (12)
+?,(Sat) 9 Mar 1968 (10),Halifax Town (29),2-0,?,Rochdale AFC (12)
+?,(Sat) 18 Nov 1967 (46),Halifax Town (30),1-2,?,Southend United (12)
+?,(Tue) 2 Apr 1968 (14),Halifax Town (31),2-2,?,Swansea City (12)
+?,(Sat) 2 Sep 1967 (35),Halifax Town (32),2-1,?,Workington (12)
+?,(Sat) 6 Apr 1968 (14),Halifax Town (33),2-2,?,Wrexham AFC (12)
+?,(Sat) 7 Oct 1967 (40),Halifax Town (34),2-1,?,York City (12)
+?,(Sat) 9 Mar 1968 (10),Hartlepool United (13),1-0,?,Aldershot Town FC (35)
+?,(Fri) 29 Sep 1967 (39),Hartlepool United (14),2-1,?,Barnsley FC (35)
+?,(Fri) 27 Oct 1967 (43),Hartlepool United (15),1-0,?,Bradford City (35)
+?,(Fri) 22 Dec 1967 (51),Hartlepool United (16),2-0,?,Bradford Park Avenue (35)
+?,(Sat) 19 Aug 1967 (33),Hartlepool United (17),2-0,?,Brentford FC (35)
+?,(Fri) 24 Nov 1967 (47),Hartlepool United (18),0-0,?,Chester FC (35)
+?,(Fri) 26 Apr 1968 (17),Hartlepool United (19),2-1,?,Chesterfield FC (35)
+?,(Sat) 30 Mar 1968 (13),Hartlepool United (20),1-1,?,Crewe Alexandra (35)
+?,(Tue) 26 Dec 1967 (52),Hartlepool United (21),1-0,?,Darlington FC (35)
+?,(Fri) 1 Sep 1967 (35),Hartlepool United (22),0-0,?,Doncaster Rovers (35)
+?,(Mon) 1 Apr 1968 (14),Hartlepool United (23),3-1,?,Exeter City (35)
+?,(Fri) 15 Mar 1968 (11),Hartlepool United (24),0-0,?,Halifax Town (35)
+?,(Fri) 13 Oct 1967 (41),Hartlepool United (25),1-1,?,Lincoln City (13)
+?,(Sat) 13 Jan 1968 (2),Hartlepool United (26),2-1,?,Luton Town (13)
+?,(Mon) 23 Oct 1967 (43),Hartlepool United (27),2-0,?,Newport County AFC (13)
+?,(Fri) 10 Nov 1967 (45),Hartlepool United (28),3-1,?,Notts County FC (13)
+?,(Sat) 24 Feb 1968 (8),Hartlepool United (29),2-2,?,Port Vale FC (13)
+?,(Mon) 4 Sep 1967 (36),Hartlepool United (30),1-1,?,Rochdale AFC (13)
+?,(Sat) 16 Sep 1967 (37),Hartlepool United (31),0-1,?,Southend United (13)
+?,(Sat) 11 May 1968 (19),Hartlepool United (32),2-0,?,Swansea City (13)
+?,(Sat) 13 Apr 1968 (15),Hartlepool United (33),2-1,?,Workington (13)
+?,(Sat) 3 Feb 1968 (5),Hartlepool United (34),3-0,?,Wrexham AFC (13)
+?,(Fri) 12 Apr 1968 (15),Hartlepool United (35),1-0,?,York City (13)
+?,(Sat) 19 Aug 1967 (33),Lincoln City (14),1-1,?,Aldershot Town FC (36)
+?,(Sat) 23 Mar 1968 (12),Lincoln City (15),0-1,?,Barnsley FC (36)
+?,(Sat) 20 Jan 1968 (3),Lincoln City (16),2-0,?,Bradford City (36)
+?,(Sat) 2 Dec 1967 (48),Lincoln City (17),5-1,?,Bradford Park Avenue (36)
+?,(Sat) 4 May 1968 (18),Lincoln City (18),1-0,?,Brentford FC (36)
+?,(Tue) 26 Dec 1967 (52),Lincoln City (19),3-0,?,Chester FC (36)
+?,(Wed) 4 Oct 1967 (40),Lincoln City (20),2-2,?,Chesterfield FC (36)
+?,(Sat) 23 Sep 1967 (38),Lincoln City (21),2-4,?,Crewe Alexandra (36)
+?,(Wed) 6 Sep 1967 (36),Lincoln City (22),1-2,?,Darlington FC (36)
+?,(Sat) 20 Apr 1968 (16),Lincoln City (23),2-0,?,Doncaster Rovers (36)
+?,(Mon) 15 Apr 1968 (16),Lincoln City (24),1-1,?,Exeter City (36)
+?,(Sat) 9 Sep 1967 (36),Lincoln City (25),1-0,?,Halifax Town (36)
+?,(Sat) 2 Mar 1968 (9),Lincoln City (26),1-2,?,Hartlepool United (36)
+?,(Sat) 18 Nov 1967 (46),Lincoln City (27),2-3,?,Luton Town (14)
+?,(Sat) 7 Oct 1967 (40),Lincoln City (28),2-1,?,Newport County AFC (14)
+?,(Sat) 10 Feb 1968 (6),Lincoln City (29),1-3,?,Notts County FC (14)
+?,(Sat) 11 May 1968 (19),Lincoln City (30),0-1,?,Port Vale FC (14)
+?,(Sat) 6 Jan 1968 (1),Lincoln City (31),3-2,?,Rochdale AFC (14)
+?,(Sat) 6 Apr 1968 (14),Lincoln City (32),4-2,?,Southend United (14)
+?,(Sat) 21 Oct 1967 (42),Lincoln City (33),3-0,?,Swansea City (14)
+?,(Sat) 23 Dec 1967 (51),Lincoln City (34),3-0,?,Workington (14)
+?,(Sat) 4 Nov 1967 (44),Lincoln City (35),0-2,?,Wrexham AFC (14)
+?,(Sat) 27 Jan 1968 (4),Lincoln City (36),1-3,?,York City (14)
+?,(Sat) 30 Mar 1968 (13),Luton Town (15),3-1,?,Aldershot Town FC (37)
+?,(Sat) 26 Aug 1967 (34),Luton Town (16),2-0,?,Barnsley FC (37)
+?,(Sat) 27 Apr 1968 (17),Luton Town (17),1-3,?,Bradford City (37)
+?,(Tue) 26 Dec 1967 (52),Luton Town (18),2-0,?,Bradford Park Avenue (37)
+?,(Sat) 11 May 1968 (19),Luton Town (19),2-1,?,Brentford FC (37)
+?,(Sat) 13 Apr 1968 (15),Luton Town (20),0-0,?,Chester FC (37)
+?,(Sat) 14 Oct 1967 (41),Luton Town (21),1-0,?,Chesterfield FC (37)
+?,(Wed) 24 Apr 1968 (17),Luton Town (22),4-0,?,Crewe Alexandra (37)
+?,(Mon) 26 Feb 1968 (9),Luton Town (23),3-1,?,Darlington FC (37)
+?,(Wed) 25 Oct 1967 (43),Luton Town (24),5-3,?,Doncaster Rovers (37)
+?,(Sat) 16 Mar 1968 (11),Luton Town (25),0-0,?,Exeter City (37)
+?,(Sat) 25 Nov 1967 (47),Luton Town (26),2-0,?,Halifax Town (37)
+?,(Sat) 9 Sep 1967 (36),Luton Town (27),1-0,?,Hartlepool United (37)
+?,(Sat) 24 Feb 1968 (8),Luton Town (28),4-2,?,Lincoln City (37)
+?,(Sat) 20 Jan 1968 (3),Luton Town (29),1-1,?,Newport County AFC (15)
+?,(Fri) 12 Apr 1968 (15),Luton Town (30),2-0,?,Notts County FC (15)
+?,(Sat) 9 Mar 1968 (10),Luton Town (31),2-0,?,Port Vale FC (15)
+?,(Sat) 10 Feb 1968 (6),Luton Town (32),4-1,?,Rochdale AFC (15)
+?,(Wed) 27 Sep 1967 (39),Luton Town (33),3-1,?,Southend United (15)
+?,(Wed) 15 Nov 1967 (46),Luton Town (34),4-0,?,Swansea City (15)
+?,(Sat) 11 Nov 1967 (45),Luton Town (35),4-0,?,Workington (15)
+?,(Sat) 16 Dec 1967 (50),Luton Town (36),2-1,?,Wrexham AFC (15)
+?,(Sat) 23 Sep 1967 (38),Luton Town (37),3-1,?,York City (15)
+?,(Mon) 15 Apr 1968 (16),Newport County AFC (16),0-2,?,Aldershot Town FC (38)
+?,(Sat) 17 Feb 1968 (7),Newport County AFC (17),3-0,?,Barnsley FC (38)
+?,(Sat) 16 Mar 1968 (11),Newport County AFC (18),0-3,?,Bradford City (38)
+?,(Sat) 2 Sep 1967 (35),Newport County AFC (19),4-0,?,Bradford Park Avenue (38)
+?,(Sat) 23 Dec 1967 (51),Newport County AFC (20),2-2,?,Brentford FC (38)
+?,(Sat) 24 Feb 1968 (8),Newport County AFC (21),1-1,?,Chester FC (38)
+?,(Sat) 25 Nov 1967 (47),Newport County AFC (22),0-3,?,Chesterfield FC (38)
+?,(Tue) 31 Oct 1967 (44),Newport County AFC (23),0-0,?,Crewe Alexandra (38)
+?,(Tue) 23 Apr 1968 (17),Newport County AFC (24),1-0,?,Darlington FC (38)
+?,(Tue) 27 Feb 1968 (9),Newport County AFC (25),2-1,?,Doncaster Rovers (38)
+?,(Sat) 27 Apr 1968 (17),Newport County AFC (26),1-1,?,Exeter City (38)
+?,(Sat) 14 Oct 1967 (41),Newport County AFC (27),0-1,?,Halifax Town (38)
+?,(Tue) 3 Oct 1967 (40),Newport County AFC (28),2-0,?,Hartlepool United (38)
+?,(Sat) 13 Apr 1968 (15),Newport County AFC (29),0-1,?,Lincoln City (38)
+?,(Sat) 16 Sep 1967 (37),Newport County AFC (30),1-1,?,Luton Town (38)
+?,(Sat) 30 Mar 1968 (13),Newport County AFC (31),1-0,?,Notts County FC (16)
+?,(Tue) 21 Nov 1967 (47),Newport County AFC (32),1-1,?,Port Vale FC (16)
+?,(Sat) 19 Aug 1967 (33),Newport County AFC (33),1-1,?,Rochdale AFC (16)
+?,(Tue) 6 Feb 1968 (6),Newport County AFC (34),2-0,?,Southend United (16)
+?,(Sat) 30 Dec 1967 (52),Newport County AFC (35),3-0,?,Swansea City (16)
+?,(Mon) 29 Apr 1968 (18),Newport County AFC (36),2-1,?,Workington (16)
+?,(Sat) 30 Sep 1967 (39),Newport County AFC (37),3-2,?,Wrexham AFC (16)
+?,(Tue) 5 Sep 1967 (36),Newport County AFC (38),2-1,?,York City (16)
+?,(Sat) 16 Sep 1967 (37),Notts County FC (17),0-1,?,Aldershot Town FC (39)
+?,(Sat) 20 Apr 1968 (16),Notts County FC (18),1-4,?,Barnsley FC (39)
+?,(Sat) 30 Dec 1967 (52),Notts County FC (19),1-0,?,Bradford City (39)
+?,(Sat) 7 Oct 1967 (40),Notts County FC (20),0-0,?,Bradford Park Avenue (39)
+?,(Sat) 2 Mar 1968 (9),Notts County FC (21),2-1,?,Brentford FC (39)
+?,(Sat) 19 Aug 1967 (33),Notts County FC (22),1-2,?,Chester FC (39)
+?,(Sat) 23 Dec 1967 (51),Notts County FC (23),1-0,?,Chesterfield FC (39)
+?,(Wed) 4 Oct 1967 (40),Notts County FC (24),1-0,?,Crewe Alexandra (39)
+?,(Sat) 13 Jan 1968 (2),Notts County FC (25),0-0,?,Darlington FC (39)
+?,(Wed) 1 May 1968 (18),Notts County FC (26),0-2,?,Doncaster Rovers (39)
+?,(Sat) 2 Sep 1967 (35),Notts County FC (27),1-0,?,Exeter City (39)
+?,(Sat) 17 Feb 1968 (7),Notts County FC (28),1-3,?,Halifax Town (39)
+?,(Sat) 6 Apr 1968 (14),Notts County FC (29),0-3,?,Hartlepool United (39)
+?,(Sat) 30 Sep 1967 (39),Notts County FC (30),0-0,?,Lincoln City (39)
+?,(Mon) 15 Apr 1968 (16),Notts County FC (31),2-2,?,Luton Town (39)
+?,(Sat) 4 Nov 1967 (44),Notts County FC (32),3-1,?,Newport County AFC (39)
+?,(Wed) 6 Sep 1967 (36),Notts County FC (33),0-0,?,Port Vale FC (17)
+?,(Sat) 21 Oct 1967 (42),Notts County FC (34),2-0,?,Rochdale AFC (17)
+?,(Sat) 4 May 1968 (18),Notts County FC (35),4-3,?,Southend United (17)
+?,(Sat) 18 Nov 1967 (46),Notts County FC (36),3-2,?,Swansea City (17)
+?,(Sat) 3 Feb 1968 (5),Notts County FC (37),2-1,?,Workington (17)
+?,(Sat) 2 Dec 1967 (48),Notts County FC (38),1-1,?,Wrexham AFC (17)
+?,(Sat) 23 Mar 1968 (12),Notts County FC (39),1-1,?,York City (17)
+?,(Sat) 3 Feb 1968 (5),Port Vale FC (18),0-3,?,Aldershot Town FC (40)
+?,(Sat) 2 Dec 1967 (48),Port Vale FC (19),2-0,?,Barnsley FC (40)
+?,(Mon) 23 Oct 1967 (43),Port Vale FC (20),1-2,?,Bradford City (40)
+?,(Sat) 2 Mar 1968 (9),Port Vale FC (21),4-0,?,Bradford Park Avenue (40)
+?,(Sat) 21 Oct 1967 (42),Port Vale FC (22),4-1,?,Brentford FC (40)
+?,(Sat) 23 Dec 1967 (51),Port Vale FC (23),4-4,?,Chester FC (40)
+?,(Sat) 2 Sep 1967 (35),Port Vale FC (24),0-1,?,Chesterfield FC (40)
+?,(Mon) 15 Apr 1968 (16),Port Vale FC (25),0-2,?,Crewe Alexandra (40)
+?,(Sat) 16 Sep 1967 (37),Port Vale FC (26),0-1,?,Darlington FC (40)
+?,(Sat) 7 Oct 1967 (40),Port Vale FC (27),4-2,?,Doncaster Rovers (40)
+?,(Mon) 25 Mar 1968 (13),Port Vale FC (28),1-0,?,Exeter City (40)
+?,(Tue) 26 Dec 1967 (52),Port Vale FC (29),2-1,?,Halifax Town (40)
+?,(Sat) 18 Nov 1967 (46),Port Vale FC (30),2-3,?,Hartlepool United (40)
+?,(Fri) 16 Feb 1968 (7),Port Vale FC (31),1-1,?,Lincoln City (40)
+?,(Fri) 26 Jan 1968 (4),Port Vale FC (32),0-0,?,Luton Town (40)
+?,(Sat) 6 Apr 1968 (14),Port Vale FC (33),0-1,?,Newport County AFC (40)
+?,(Mon) 25 Sep 1967 (39),Port Vale FC (34),4-1,?,Notts County FC (40)
+?,(Sat) 23 Mar 1968 (12),Port Vale FC (35),1-1,?,Rochdale AFC (18)
+?,(Sat) 19 Aug 1967 (33),Port Vale FC (36),1-2,?,Southend United (18)
+?,(Sat) 20 Apr 1968 (16),Port Vale FC (37),4-2,?,Swansea City (18)
+?,(Sat) 30 Sep 1967 (39),Port Vale FC (38),4-2,?,Workington (18)
+?,(Sat) 4 May 1968 (18),Port Vale FC (39),1-1,?,Wrexham AFC (18)
+?,(Sat) 4 Nov 1967 (44),Port Vale FC (40),1-0,?,York City (18)
+?,(Sat) 27 Apr 1968 (17),Rochdale AFC (19),0-2,?,Aldershot Town FC (41)
+?,(Mon) 23 Oct 1967 (43),Rochdale AFC (20),1-0,?,Barnsley FC (41)
+?,(Sat) 13 Apr 1968 (15),Rochdale AFC (21),3-2,?,Bradford City (41)
+?,(Sat) 16 Sep 1967 (37),Rochdale AFC (22),1-1,?,Bradford Park Avenue (41)
+?,(Mon) 18 Mar 1968 (12),Rochdale AFC (23),1-1,?,Brentford FC (41)
+?,(Sat) 30 Mar 1968 (13),Rochdale AFC (24),1-1,?,Chester FC (41)
+?,(Sat) 11 Nov 1967 (45),Rochdale AFC (25),1-4,?,Chesterfield FC (41)
+?,(Sat) 14 Oct 1967 (41),Rochdale AFC (26),1-1,?,Crewe Alexandra (41)
+?,(Sat) 25 Nov 1967 (47),Rochdale AFC (27),1-0,?,Darlington FC (41)
+?,(Sat) 3 Feb 1968 (5),Rochdale AFC (28),2-0,?,Doncaster Rovers (41)
+?,(Sat) 24 Feb 1968 (8),Rochdale AFC (29),2-2,?,Exeter City (41)
+?,(Mon) 29 Apr 1968 (18),Rochdale AFC (30),2-1,?,Halifax Town (41)
+?,(Mon) 25 Sep 1967 (39),Rochdale AFC (31),1-1,?,Hartlepool United (41)
+?,(Sat) 2 Sep 1967 (35),Rochdale AFC (32),1-2,?,Lincoln City (41)
+?,(Sat) 30 Sep 1967 (39),Rochdale AFC (33),2-2,?,Luton Town (41)
+?,(Sat) 16 Dec 1967 (50),Rochdale AFC (34),4-3,?,Newport County AFC (41)
+?,(Sat) 16 Mar 1968 (11),Rochdale AFC (35),0-0,?,Notts County FC (41)
+?,(Sat) 28 Oct 1967 (43),Rochdale AFC (36),3-1,?,Port Vale FC (41)
+?,(Sat) 17 Feb 1968 (7),Rochdale AFC (37),0-1,?,Southend United (19)
+?,(Mon) 15 Apr 1968 (16),Rochdale AFC (38),1-2,?,Swansea City (19)
+?,(Sat) 27 Jan 1968 (4),Rochdale AFC (39),1-3,?,Workington (19)
+?,(Sat) 30 Dec 1967 (52),Rochdale AFC (40),3-0,?,Wrexham AFC (19)
+?,(Sat) 26 Aug 1967 (34),Rochdale AFC (41),3-2,?,York City (19)
+?,(Fri) 27 Oct 1967 (43),Southend United (20),1-1,?,Aldershot Town FC (42)
+?,(Mon) 13 Nov 1967 (46),Southend United (21),4-1,?,Barnsley FC (42)
+?,(Sat) 25 Nov 1967 (47),Southend United (22),1-1,?,Bradford City (42)
+?,(Mon) 2 Oct 1967 (40),Southend United (23),2-1,?,Bradford Park Avenue (42)
+?,(Sat) 30 Dec 1967 (52),Southend United (24),1-0,?,Brentford FC (42)
+?,(Fri) 8 Mar 1968 (10),Southend United (25),5-1,?,Chester FC (42)
+?,(Sat) 13 Apr 1968 (15),Southend United (26),1-1,?,Chesterfield FC (42)
+?,(Fri) 26 Apr 1968 (17),Southend United (27),0-0,?,Crewe Alexandra (42)
+?,(Fri) 15 Mar 1968 (11),Southend United (28),2-2,?,Darlington FC (42)
+?,(Mon) 8 Apr 1968 (15),Southend United (29),1-2,?,Doncaster Rovers (42)
+?,(Sat) 14 Oct 1967 (41),Southend United (30),1-0,?,Exeter City (42)
+?,(Sat) 24 Feb 1968 (8),Southend United (31),2-2,?,Halifax Town (42)
+?,(Sat) 20 Jan 1968 (3),Southend United (32),2-1,?,Hartlepool United (42)
+?,(Sat) 11 Nov 1967 (45),Southend United (33),2-1,?,Lincoln City (42)
+?,(Mon) 4 Sep 1967 (36),Southend United (34),3-0,?,Luton Town (42)
+?,(Fri) 22 Sep 1967 (38),Southend United (35),2-2,?,Newport County AFC (42)
+?,(Mon) 22 Apr 1968 (17),Southend United (36),0-1,?,Notts County FC (42)
+?,(Fri) 15 Dec 1967 (50),Southend United (37),1-1,?,Port Vale FC (42)
+?,(Fri) 10 May 1968 (19),Southend United (38),3-1,?,Rochdale AFC (42)
+?,(Fri) 8 Sep 1967 (36),Southend United (39),1-0,?,Swansea City (20)
+?,(Fri) 29 Mar 1968 (13),Southend United (40),7-0,?,Workington (20)
+?,(Fri) 25 Aug 1967 (34),Southend United (41),3-1,?,Wrexham AFC (20)
+?,(Sat) 10 Feb 1968 (6),Southend United (42),0-1,?,York City (20)
+?,(Sat) 13 Apr 1968 (15),Swansea City (21),1-0,?,Aldershot Town FC (43)
+?,(Sat) 3 Feb 1968 (5),Swansea City (22),1-1,?,Barnsley FC (43)
+?,(Sat) 30 Mar 1968 (13),Swansea City (23),0-0,?,Bradford City (43)
+?,(Sat) 19 Aug 1967 (33),Swansea City (24),1-1,?,Bradford Park Avenue (43)
+?,(Tue) 5 Sep 1967 (36),Swansea City (25),2-1,?,Brentford FC (43)
+?,(Sat) 27 Apr 1968 (17),Swansea City (26),1-0,?,Chester FC (43)
+?,(Tue) 23 Apr 1968 (17),Swansea City (27),0-1,?,Chesterfield FC (43)
+?,(Sat) 11 Nov 1967 (45),Swansea City (28),1-2,?,Crewe Alexandra (43)
+?,(Sat) 9 Mar 1968 (10),Swansea City (29),0-1,?,Darlington FC (43)
+?,(Sat) 23 Dec 1967 (51),Swansea City (30),3-1,?,Doncaster Rovers (43)
+?,(Sat) 30 Sep 1967 (39),Swansea City (31),1-1,?,Exeter City (43)
+?,(Sat) 28 Oct 1967 (43),Swansea City (32),2-1,?,Halifax Town (43)
+?,(Mon) 6 May 1968 (19),Swansea City (33),0-2,?,Hartlepool United (43)
+?,(Sat) 16 Mar 1968 (11),Swansea City (34),2-2,?,Lincoln City (43)
+?,(Sat) 2 Sep 1967 (35),Swansea City (35),2-2,?,Luton Town (43)
+?,(Tue) 26 Dec 1967 (52),Swansea City (36),4-2,?,Newport County AFC (43)
+?,(Sat) 24 Feb 1968 (8),Swansea City (37),2-0,?,Notts County FC (43)
+?,(Sat) 25 Nov 1967 (47),Swansea City (38),4-2,?,Port Vale FC (43)
+?,(Tue) 16 Apr 1968 (16),Swansea City (39),1-0,?,Rochdale AFC (43)
+?,(Tue) 19 Mar 1968 (12),Swansea City (40),2-2,?,Southend United (43)
+?,(Sat) 14 Oct 1967 (41),Swansea City (41),5-2,?,Workington (21)
+?,(Sat) 16 Sep 1967 (37),Swansea City (42),2-0,?,Wrexham AFC (21)
+?,(Tue) 3 Oct 1967 (40),Swansea City (43),1-1,?,York City (21)
+?,(Thu) 28 Sep 1967 (39),Workington (22),3-2,?,Aldershot Town FC (44)
+?,(Sat) 21 Oct 1967 (42),Workington (23),0-1,?,Barnsley FC (44)
+?,(Sat) 9 Sep 1967 (36),Workington (24),0-1,?,Bradford City (44)
+?,(Sat) 20 Apr 1968 (16),Workington (25),2-2,?,Bradford Park Avenue (44)
+?,(Sat) 2 Dec 1967 (48),Workington (26),2-0,?,Brentford FC (44)
+?,(Sat) 11 May 1968 (19),Workington (27),1-0,?,Chester FC (44)
+?,(Sat) 30 Dec 1967 (52),Workington (28),3-1,?,Chesterfield FC (44)
+?,(Sat) 20 Jan 1968 (3),Workington (29),2-2,?,Crewe Alexandra (44)
+?,(Mon) 15 Apr 1968 (16),Workington (30),0-1,?,Darlington FC (44)
+?,(Fri) 17 Nov 1967 (46),Workington (31),2-2,?,Doncaster Rovers (44)
+?,(Wed) 4 Oct 1967 (40),Workington (32),1-0,?,Exeter City (44)
+?,(Wed) 15 Nov 1967 (46),Workington (33),1-1,?,Halifax Town (44)
+?,(Sat) 7 Oct 1967 (40),Workington (34),2-1,?,Hartlepool United (44)
+?,(Sat) 26 Aug 1967 (34),Workington (35),2-4,?,Lincoln City (44)
+?,(Sat) 6 Apr 1968 (14),Workington (36),0-1,?,Luton Town (44)
+?,(Sat) 9 Mar 1968 (10),Workington (37),1-1,?,Newport County AFC (44)
+?,(Sat) 23 Sep 1967 (38),Workington (38),5-1,?,Notts County FC (44)
+?,(Sat) 10 Feb 1968 (6),Workington (39),1-1,?,Port Vale FC (44)
+?,(Sat) 4 May 1968 (18),Workington (40),0-1,?,Rochdale AFC (44)
+?,(Sat) 4 Nov 1967 (44),Workington (41),2-2,?,Southend United (44)
+?,(Sat) 2 Mar 1968 (9),Workington (42),3-1,?,Swansea City (44)
+?,(Sat) 23 Mar 1968 (12),Workington (43),1-2,?,Wrexham AFC (22)
+?,(Sat) 16 Dec 1967 (50),Workington (44),1-1,?,York City (22)
+?,(Sat) 16 Mar 1968 (11),Wrexham AFC (23),2-1,?,Aldershot Town FC (45)
+?,(Sat) 9 Sep 1967 (36),Wrexham AFC (24),2-0,?,Barnsley FC (45)
+?,(Sat) 24 Feb 1968 (8),Wrexham AFC (25),0-2,?,Bradford City (45)
+?,(Fri) 12 Apr 1968 (15),Wrexham AFC (26),3-0,?,Bradford Park Avenue (45)
+?,(Mon) 2 Oct 1967 (40),Wrexham AFC (27),1-2,?,Brentford FC (45)
+?,(Sat) 2 Sep 1967 (35),Wrexham AFC (28),2-0,?,Chester FC (45)
+?,(Mon) 18 Mar 1968 (12),Wrexham AFC (29),3-0,?,Chesterfield FC (45)
+?,(Sat) 25 Nov 1967 (47),Wrexham AFC (30),1-0,?,Crewe Alexandra (45)
+?,(Sat) 14 Oct 1967 (41),Wrexham AFC (31),3-1,?,Darlington FC (45)
+?,(Mon) 25 Sep 1967 (39),Wrexham AFC (32),0-0,?,Doncaster Rovers (45)
+?,(Sat) 13 Apr 1968 (15),Wrexham AFC (33),0-0,?,Exeter City (45)
+?,(Sat) 11 Nov 1967 (45),Wrexham AFC (34),2-0,?,Halifax Town (45)
+?,(Sat) 23 Sep 1967 (38),Wrexham AFC (35),6-0,?,Hartlepool United (45)
+?,(Sat) 30 Mar 1968 (13),Wrexham AFC (36),2-1,?,Lincoln City (45)
+?,(Sat) 19 Aug 1967 (33),Wrexham AFC (37),1-1,?,Luton Town (45)
+?,(Sat) 10 Feb 1968 (6),Wrexham AFC (38),0-1,?,Newport County AFC (45)
+?,(Sat) 27 Apr 1968 (17),Wrexham AFC (39),2-0,?,Notts County FC (45)
+?,(Mon) 22 Apr 1968 (17),Wrexham AFC (40),1-0,?,Port Vale FC (45)
+?,(Tue) 26 Dec 1967 (52),Wrexham AFC (41),2-0,?,Rochdale AFC (45)
+?,(Mon) 16 Oct 1967 (42),Wrexham AFC (42),4-1,?,Southend United (45)
+?,(Sat) 20 Jan 1968 (3),Wrexham AFC (43),2-1,?,Swansea City (45)
+?,(Sat) 28 Oct 1967 (43),Wrexham AFC (44),5-0,?,Workington (45)
+?,(Sat) 11 May 1968 (19),Wrexham AFC (45),3-1,?,York City (23)
+?,(Mon) 22 Apr 1968 (17),York City (24),2-3,?,Aldershot Town FC (46)
+?,(Tue) 26 Dec 1967 (52),York City (25),1-1,?,Barnsley FC (46)
+?,(Sat) 14 Oct 1967 (41),York City (26),0-1,?,Bradford City (46)
+?,(Mon) 25 Mar 1968 (13),York City (27),6-2,?,Bradford Park Avenue (46)
+?,(Sat) 2 Sep 1967 (35),York City (28),0-1,?,Brentford FC (46)
+?,(Sat) 11 Nov 1967 (45),York City (29),4-1,?,Chester FC (46)
+?,(Sat) 24 Feb 1968 (8),York City (30),0-2,?,Chesterfield FC (46)
+?,(Sat) 16 Mar 1968 (11),York City (31),1-1,?,Crewe Alexandra (46)
+?,(Sat) 27 Apr 1968 (17),York City (32),1-1,?,Darlington FC (46)
+?,(Sat) 16 Sep 1967 (37),York City (33),1-2,?,Doncaster Rovers (46)
+?,(Sat) 25 Nov 1967 (47),York City (34),4-0,?,Exeter City (46)
+?,(Sat) 13 Apr 1968 (15),York City (35),1-2,?,Halifax Town (46)
+?,(Mon) 15 Apr 1968 (16),York City (36),0-2,?,Hartlepool United (46)
+?,(Sat) 9 Mar 1968 (10),York City (37),1-0,?,Lincoln City (46)
+?,(Sat) 3 Feb 1968 (5),York City (38),1-1,?,Luton Town (46)
+?,(Mon) 25 Sep 1967 (39),York City (39),0-1,?,Newport County AFC (46)
+?,(Sat) 28 Oct 1967 (43),York City (40),4-2,?,Notts County FC (46)
+?,(Sat) 30 Mar 1968 (13),York City (41),5-1,?,Port Vale FC (46)
+?,(Sat) 23 Dec 1967 (51),York City (42),4-1,?,Rochdale AFC (46)
+?,(Sat) 30 Sep 1967 (39),York City (43),2-2,?,Southend United (46)
+?,(Mon) 23 Oct 1967 (43),York City (44),2-1,?,Swansea City (46)
+?,(Sat) 19 Aug 1967 (33),York City (45),1-1,?,Workington (46)
+?,(Sat) 17 Feb 1968 (7),York City (46),3-1,?,Wrexham AFC (46)

@@ -1,552 +1,552 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Bradford City,Barnsley,3-0,-
--,-,Brentford,Barnsley,5-1,-
--,-,Bury,Barnsley,2-0,-
--,-,Chester,Barnsley,3-1,-
--,-,Colchester United,Barnsley,2-0,-
--,-,Crewe Alexandra,Barnsley,0-1,-
--,-,Darlington,Barnsley,4-2,-
--,-,Doncaster Rovers,Barnsley,1-0,-
--,-,Exeter City,Barnsley,6-1,-
--,-,Gillingham,Barnsley,1-1,-
--,-,Hartlepool United,Barnsley,1-2,-
--,-,Lincoln City,Barnsley,1-1,-
--,-,Mansfield Town,Barnsley,2-2,-
--,-,Newport County,Barnsley,1-0,-
--,-,Northampton Town,Barnsley,2-1,-
--,-,Peterborough United,Barnsley,3-0,-
--,-,Reading,Barnsley,1-0,-
--,-,Rotherham United,Barnsley,2-1,-
--,-,Scunthorpe United,Barnsley,3-0,-
--,-,Stockport County,Barnsley,1-1,-
--,-,Swansea City,Barnsley,2-0,-
--,-,Torquay United,Barnsley,1-1,-
--,-,Workington,Barnsley,1-0,-
--,-,Barnsley,Bradford City,2-2,-
--,-,Brentford,Bradford City,2-0,-
--,-,Bury,Bradford City,3-0,-
--,-,Chester,Bradford City,1-0,-
--,-,Colchester United,Bradford City,4-0,-
--,-,Crewe Alexandra,Bradford City,1-0,-
--,-,Darlington,Bradford City,2-1,-
--,-,Doncaster Rovers,Bradford City,2-2,-
--,-,Exeter City,Bradford City,0-0,-
--,-,Gillingham,Bradford City,2-0,-
--,-,Hartlepool United,Bradford City,1-0,-
--,-,Lincoln City,Bradford City,0-1,-
--,-,Mansfield Town,Bradford City,0-0,-
--,-,Newport County,Bradford City,2-2,-
--,-,Northampton Town,Bradford City,3-0,-
--,-,Peterborough United,Bradford City,1-1,-
--,-,Reading,Bradford City,0-0,-
--,-,Rotherham United,Bradford City,2-1,-
--,-,Scunthorpe United,Bradford City,2-1,-
--,-,Stockport County,Bradford City,0-1,-
--,-,Swansea City,Bradford City,0-1,-
--,-,Torquay United,Bradford City,1-0,-
--,-,Workington,Bradford City,1-0,-
--,-,Barnsley,Brentford,2-1,-
--,-,Bradford City,Brentford,1-1,-
--,-,Bury,Brentford,3-0,-
--,-,Chester,Brentford,0-0,-
--,-,Colchester United,Brentford,2-1,-
--,-,Crewe Alexandra,Brentford,0-0,-
--,-,Darlington,Brentford,1-2,-
--,-,Doncaster Rovers,Brentford,1-2,-
--,-,Exeter City,Brentford,2-1,-
--,-,Gillingham,Brentford,1-0,-
--,-,Hartlepool United,Brentford,1-0,-
--,-,Lincoln City,Brentford,3-2,-
--,-,Mansfield Town,Brentford,1-1,-
--,-,Newport County,Brentford,1-1,-
--,-,Northampton Town,Brentford,0-0,-
--,-,Peterborough United,Brentford,1-0,-
--,-,Reading,Brentford,1-0,-
--,-,Rotherham United,Brentford,1-1,-
--,-,Scunthorpe United,Brentford,4-1,-
--,-,Stockport County,Brentford,1-1,-
--,-,Swansea City,Brentford,0-0,-
--,-,Torquay United,Brentford,3-0,-
--,-,Workington,Brentford,0-2,-
--,-,Barnsley,Bury,3-2,-
--,-,Bradford City,Bury,4-2,-
--,-,Brentford,Bury,1-2,-
--,-,Chester,Bury,1-1,-
--,-,Colchester United,Bury,1-1,-
--,-,Crewe Alexandra,Bury,1-0,-
--,-,Darlington,Bury,0-0,-
--,-,Doncaster Rovers,Bury,1-1,-
--,-,Exeter City,Bury,0-3,-
--,-,Gillingham,Bury,3-0,-
--,-,Hartlepool United,Bury,1-1,-
--,-,Lincoln City,Bury,4-3,-
--,-,Mansfield Town,Bury,1-2,-
--,-,Newport County,Bury,1-0,-
--,-,Northampton Town,Bury,3-1,-
--,-,Peterborough United,Bury,2-2,-
--,-,Reading,Bury,2-2,-
--,-,Rotherham United,Bury,1-0,-
--,-,Scunthorpe United,Bury,1-2,-
--,-,Stockport County,Bury,3-2,-
--,-,Swansea City,Bury,0-1,-
--,-,Torquay United,Bury,1-2,-
--,-,Workington,Bury,0-0,-
--,-,Barnsley,Chester,1-1,-
--,-,Bradford City,Chester,1-1,-
--,-,Brentford,Chester,3-0,-
--,-,Bury,Chester,3-1,-
--,-,Colchester United,Chester,1-1,-
--,-,Crewe Alexandra,Chester,1-0,-
--,-,Darlington,Chester,1-2,-
--,-,Doncaster Rovers,Chester,1-2,-
--,-,Exeter City,Chester,2-1,-
--,-,Gillingham,Chester,1-0,-
--,-,Hartlepool United,Chester,0-0,-
--,-,Lincoln City,Chester,2-2,-
--,-,Mansfield Town,Chester,3-0,-
--,-,Newport County,Chester,0-2,-
--,-,Northampton Town,Chester,3-3,-
--,-,Peterborough United,Chester,0-0,-
--,-,Reading,Chester,3-0,-
--,-,Rotherham United,Chester,3-2,-
--,-,Scunthorpe United,Chester,2-1,-
--,-,Stockport County,Chester,0-1,-
--,-,Swansea City,Chester,2-0,-
--,-,Torquay United,Chester,2-2,-
--,-,Workington,Chester,1-1,-
--,-,Barnsley,Colchester United,0-1,-
--,-,Bradford City,Colchester United,1-1,-
--,-,Brentford,Colchester United,0-0,-
--,-,Bury,Colchester United,2-0,-
--,-,Chester,Colchester United,0-4,-
--,-,Crewe Alexandra,Colchester United,1-2,-
--,-,Darlington,Colchester United,1-0,-
--,-,Doncaster Rovers,Colchester United,2-0,-
--,-,Exeter City,Colchester United,1-0,-
--,-,Gillingham,Colchester United,4-1,-
--,-,Hartlepool United,Colchester United,0-0,-
--,-,Lincoln City,Colchester United,0-1,-
--,-,Mansfield Town,Colchester United,2-2,-
--,-,Newport County,Colchester United,1-3,-
--,-,Northampton Town,Colchester United,0-0,-
--,-,Peterborough United,Colchester United,2-0,-
--,-,Reading,Colchester United,1-1,-
--,-,Rotherham United,Colchester United,0-0,-
--,-,Scunthorpe United,Colchester United,1-0,-
--,-,Stockport County,Colchester United,0-3,-
--,-,Swansea City,Colchester United,2-0,-
--,-,Torquay United,Colchester United,0-4,-
--,-,Workington,Colchester United,1-4,-
--,-,Barnsley,Crewe Alexandra,2-1,-
--,-,Bradford City,Crewe Alexandra,0-1,-
--,-,Brentford,Crewe Alexandra,3-0,-
--,-,Bury,Crewe Alexandra,2-0,-
--,-,Chester,Crewe Alexandra,1-0,-
--,-,Colchester United,Crewe Alexandra,3-2,-
--,-,Darlington,Crewe Alexandra,3-0,-
--,-,Doncaster Rovers,Crewe Alexandra,0-2,-
--,-,Exeter City,Crewe Alexandra,2-0,-
--,-,Gillingham,Crewe Alexandra,3-0,-
--,-,Hartlepool United,Crewe Alexandra,1-0,-
--,-,Lincoln City,Crewe Alexandra,4-2,-
--,-,Mansfield Town,Crewe Alexandra,1-2,-
--,-,Newport County,Crewe Alexandra,4-2,-
--,-,Northampton Town,Crewe Alexandra,1-1,-
--,-,Peterborough United,Crewe Alexandra,4-0,-
--,-,Reading,Crewe Alexandra,2-0,-
--,-,Rotherham United,Crewe Alexandra,1-1,-
--,-,Scunthorpe United,Crewe Alexandra,0-0,-
--,-,Stockport County,Crewe Alexandra,0-0,-
--,-,Swansea City,Crewe Alexandra,2-0,-
--,-,Torquay United,Crewe Alexandra,2-1,-
--,-,Workington,Crewe Alexandra,0-0,-
--,-,Barnsley,Darlington,1-0,-
--,-,Bradford City,Darlington,3-0,-
--,-,Brentford,Darlington,0-0,-
--,-,Bury,Darlington,5-1,-
--,-,Chester,Darlington,1-0,-
--,-,Colchester United,Darlington,3-0,-
--,-,Crewe Alexandra,Darlington,1-1,-
--,-,Doncaster Rovers,Darlington,0-0,-
--,-,Exeter City,Darlington,3-0,-
--,-,Gillingham,Darlington,0-1,-
--,-,Hartlepool United,Darlington,1-2,-
--,-,Lincoln City,Darlington,2-1,-
--,-,Mansfield Town,Darlington,1-0,-
--,-,Newport County,Darlington,2-0,-
--,-,Northampton Town,Darlington,5-0,-
--,-,Peterborough United,Darlington,1-0,-
--,-,Reading,Darlington,2-0,-
--,-,Rotherham United,Darlington,0-1,-
--,-,Scunthorpe United,Darlington,1-0,-
--,-,Stockport County,Darlington,1-2,-
--,-,Swansea City,Darlington,0-0,-
--,-,Torquay United,Darlington,0-0,-
--,-,Workington,Darlington,5-2,-
--,-,Barnsley,Doncaster Rovers,2-0,-
--,-,Bradford City,Doncaster Rovers,1-1,-
--,-,Brentford,Doncaster Rovers,2-0,-
--,-,Bury,Doncaster Rovers,3-1,-
--,-,Chester,Doncaster Rovers,3-0,-
--,-,Colchester United,Doncaster Rovers,3-0,-
--,-,Crewe Alexandra,Doncaster Rovers,4-0,-
--,-,Darlington,Doncaster Rovers,1-0,-
--,-,Exeter City,Doncaster Rovers,1-2,-
--,-,Gillingham,Doncaster Rovers,5-1,-
--,-,Hartlepool United,Doncaster Rovers,3-0,-
--,-,Lincoln City,Doncaster Rovers,3-3,-
--,-,Mansfield Town,Doncaster Rovers,2-0,-
--,-,Newport County,Doncaster Rovers,3-1,-
--,-,Northampton Town,Doncaster Rovers,3-1,-
--,-,Peterborough United,Doncaster Rovers,5-1,-
--,-,Reading,Doncaster Rovers,5-0,-
--,-,Rotherham United,Doncaster Rovers,1-2,-
--,-,Scunthorpe United,Doncaster Rovers,2-1,-
--,-,Stockport County,Doncaster Rovers,0-0,-
--,-,Swansea City,Doncaster Rovers,0-0,-
--,-,Torquay United,Doncaster Rovers,3-0,-
--,-,Workington,Doncaster Rovers,3-1,-
--,-,Barnsley,Exeter City,3-0,-
--,-,Bradford City,Exeter City,1-0,-
--,-,Brentford,Exeter City,0-1,-
--,-,Bury,Exeter City,0-0,-
--,-,Chester,Exeter City,0-1,-
--,-,Colchester United,Exeter City,1-0,-
--,-,Crewe Alexandra,Exeter City,2-5,-
--,-,Darlington,Exeter City,1-0,-
--,-,Doncaster Rovers,Exeter City,1-0,-
--,-,Gillingham,Exeter City,2-1,-
--,-,Hartlepool United,Exeter City,1-3,-
--,-,Lincoln City,Exeter City,2-1,-
--,-,Mansfield Town,Exeter City,3-3,-
--,-,Newport County,Exeter City,2-1,-
--,-,Northampton Town,Exeter City,1-2,-
--,-,Peterborough United,Exeter City,2-0,-
--,-,Reading,Exeter City,4-1,-
--,-,Rotherham United,Exeter City,4-0,-
--,-,Stockport County,Exeter City,0-1,-
--,-,Swansea City,Exeter City,2-0,-
--,-,Torquay United,Exeter City,0-0,-
--,-,Workington,Exeter City,3-1,-
--,-,Barnsley,Gillingham,3-1,-
--,-,Bradford City,Gillingham,0-0,-
--,-,Brentford,Gillingham,0-3,-
--,-,Bury,Gillingham,3-2,-
--,-,Chester,Gillingham,2-4,-
--,-,Colchester United,Gillingham,0-2,-
--,-,Crewe Alexandra,Gillingham,1-0,-
--,-,Darlington,Gillingham,1-3,-
--,-,Doncaster Rovers,Gillingham,1-2,-
--,-,Exeter City,Gillingham,2-1,-
--,-,Hartlepool United,Gillingham,2-1,-
--,-,Lincoln City,Gillingham,2-3,-
--,-,Mansfield Town,Gillingham,2-2,-
--,-,Newport County,Gillingham,3-3,-
--,-,Northampton Town,Gillingham,0-0,-
--,-,Peterborough United,Gillingham,4-2,-
--,-,Reading,Gillingham,0-1,-
--,-,Rotherham United,Gillingham,1-1,-
--,-,Scunthorpe United,Gillingham,1-1,-
--,-,Stockport County,Gillingham,2-0,-
--,-,Swansea City,Gillingham,0-3,-
--,-,Torquay United,Gillingham,0-1,-
--,-,Workington,Gillingham,3-3,-
--,-,Barnsley,Hartlepool United,2-0,-
--,-,Bradford City,Hartlepool United,2-0,-
--,-,Brentford,Hartlepool United,1-2,-
--,-,Bury,Hartlepool United,1-0,-
--,-,Chester,Hartlepool United,3-1,-
--,-,Colchester United,Hartlepool United,3-0,-
--,-,Crewe Alexandra,Hartlepool United,1-3,-
--,-,Darlington,Hartlepool United,1-1,-
--,-,Doncaster Rovers,Hartlepool United,2-2,-
--,-,Exeter City,Hartlepool United,2-0,-
--,-,Gillingham,Hartlepool United,3-0,-
--,-,Lincoln City,Hartlepool United,0-1,-
--,-,Mansfield Town,Hartlepool United,2-0,-
--,-,Newport County,Hartlepool United,0-0,-
--,-,Northampton Town,Hartlepool United,1-0,-
--,-,Peterborough United,Hartlepool United,2-0,-
--,-,Reading,Hartlepool United,1-1,-
--,-,Rotherham United,Hartlepool United,2-2,-
--,-,Scunthorpe United,Hartlepool United,1-1,-
--,-,Stockport County,Hartlepool United,1-1,-
--,-,Swansea City,Hartlepool United,0-0,-
--,-,Torquay United,Hartlepool United,0-2,-
--,-,Workington,Hartlepool United,0-2,-
--,-,Barnsley,Lincoln City,0-1,-
--,-,Bradford City,Lincoln City,4-0,-
--,-,Brentford,Lincoln City,2-1,-
--,-,Bury,Lincoln City,2-1,-
--,-,Chester,Lincoln City,2-3,-
--,-,Colchester United,Lincoln City,4-1,-
--,-,Crewe Alexandra,Lincoln City,2-1,-
--,-,Darlington,Lincoln City,0-3,-
--,-,Doncaster Rovers,Lincoln City,2-0,-
--,-,Exeter City,Lincoln City,0-1,-
--,-,Gillingham,Lincoln City,2-0,-
--,-,Hartlepool United,Lincoln City,0-2,-
--,-,Mansfield Town,Lincoln City,4-3,-
--,-,Newport County,Lincoln City,0-1,-
--,-,Northampton Town,Lincoln City,1-0,-
--,-,Peterborough United,Lincoln City,1-0,-
--,-,Reading,Lincoln City,0-0,-
--,-,Rotherham United,Lincoln City,2-0,-
--,-,Scunthorpe United,Lincoln City,1-1,-
--,-,Stockport County,Lincoln City,2-2,-
--,-,Swansea City,Lincoln City,3-0,-
--,-,Torquay United,Lincoln City,2-1,-
--,-,Workington,Lincoln City,1-1,-
--,-,Barnsley,Mansfield Town,1-1,-
--,-,Bradford City,Mansfield Town,3-1,-
--,-,Brentford,Mansfield Town,4-1,-
--,-,Bury,Mansfield Town,2-0,-
--,-,Chester,Mansfield Town,1-1,-
--,-,Colchester United,Mansfield Town,1-0,-
--,-,Crewe Alexandra,Mansfield Town,1-1,-
--,-,Darlington,Mansfield Town,1-0,-
--,-,Doncaster Rovers,Mansfield Town,0-0,-
--,-,Exeter City,Mansfield Town,1-1,-
--,-,Gillingham,Mansfield Town,2-2,-
--,-,Hartlepool United,Mansfield Town,4-0,-
--,-,Lincoln City,Mansfield Town,1-1,-
--,-,Newport County,Mansfield Town,2-0,-
--,-,Northampton Town,Mansfield Town,2-0,-
--,-,Peterborough United,Mansfield Town,2-1,-
--,-,Reading,Mansfield Town,3-0,-
--,-,Rotherham United,Mansfield Town,2-1,-
--,-,Scunthorpe United,Mansfield Town,5-3,-
--,-,Stockport County,Mansfield Town,1-1,-
--,-,Swansea City,Mansfield Town,2-0,-
--,-,Torquay United,Mansfield Town,4-0,-
--,-,Workington,Mansfield Town,0-0,-
--,-,Barnsley,Newport County,1-1,-
--,-,Bradford City,Newport County,3-0,-
--,-,Brentford,Newport County,1-1,-
--,-,Bury,Newport County,5-0,-
--,-,Chester,Newport County,3-0,-
--,-,Colchester United,Newport County,4-1,-
--,-,Crewe Alexandra,Newport County,4-1,-
--,-,Darlington,Newport County,0-1,-
--,-,Doncaster Rovers,Newport County,2-0,-
--,-,Exeter City,Newport County,0-1,-
--,-,Gillingham,Newport County,1-1,-
--,-,Hartlepool United,Newport County,0-1,-
--,-,Lincoln City,Newport County,3-0,-
--,-,Mansfield Town,Newport County,2-1,-
--,-,Northampton Town,Newport County,1-0,-
--,-,Peterborough United,Newport County,2-0,-
--,-,Reading,Newport County,1-1,-
--,-,Rotherham United,Newport County,1-1,-
--,-,Scunthorpe United,Newport County,0-0,-
--,-,Stockport County,Newport County,1-1,-
--,-,Swansea City,Newport County,1-1,-
--,-,Torquay United,Newport County,3-2,-
--,-,Workington,Newport County,3-2,-
--,-,Barnsley,Northampton Town,0-2,-
--,-,Bradford City,Northampton Town,1-1,-
--,-,Brentford,Northampton Town,3-1,-
--,-,Bury,Northampton Town,3-1,-
--,-,Chester,Northampton Town,0-0,-
--,-,Colchester United,Northampton Town,1-0,-
--,-,Crewe Alexandra,Northampton Town,0-2,-
--,-,Darlington,Northampton Town,2-3,-
--,-,Doncaster Rovers,Northampton Town,2-1,-
--,-,Exeter City,Northampton Town,1-1,-
--,-,Gillingham,Northampton Town,3-1,-
--,-,Hartlepool United,Northampton Town,1-0,-
--,-,Lincoln City,Northampton Town,1-1,-
--,-,Mansfield Town,Northampton Town,2-0,-
--,-,Newport County,Northampton Town,3-1,-
--,-,Peterborough United,Northampton Town,3-0,-
--,-,Reading,Northampton Town,1-2,-
--,-,Rotherham United,Northampton Town,1-2,-
--,-,Scunthorpe United,Northampton Town,1-2,-
--,-,Stockport County,Northampton Town,2-2,-
--,-,Swansea City,Northampton Town,1-1,-
--,-,Torquay United,Northampton Town,1-0,-
--,-,Workington,Northampton Town,1-0,-
--,-,Barnsley,Peterborough United,0-0,-
--,-,Bradford City,Peterborough United,1-1,-
--,-,Brentford,Peterborough United,0-1,-
--,-,Bury,Peterborough United,0-2,-
--,-,Chester,Peterborough United,2-1,-
--,-,Colchester United,Peterborough United,1-1,-
--,-,Crewe Alexandra,Peterborough United,2-1,-
--,-,Darlington,Peterborough United,2-2,-
--,-,Doncaster Rovers,Peterborough United,3-1,-
--,-,Exeter City,Peterborough United,1-2,-
--,-,Gillingham,Peterborough United,1-0,-
--,-,Hartlepool United,Peterborough United,0-1,-
--,-,Lincoln City,Peterborough United,1-1,-
--,-,Mansfield Town,Peterborough United,2-1,-
--,-,Newport County,Peterborough United,0-1,-
--,-,Northampton Town,Peterborough United,0-1,-
--,-,Reading,Peterborough United,1-1,-
--,-,Rotherham United,Peterborough United,3-1,-
--,-,Scunthorpe United,Peterborough United,2-1,-
--,-,Stockport County,Peterborough United,1-1,-
--,-,Swansea City,Peterborough United,0-2,-
--,-,Torquay United,Peterborough United,1-2,-
--,-,Workington,Peterborough United,4-1,-
--,-,Barnsley,Reading,3-2,-
--,-,Bradford City,Reading,4-3,-
--,-,Brentford,Reading,0-1,-
--,-,Bury,Reading,1-0,-
--,-,Chester,Reading,0-0,-
--,-,Colchester United,Reading,0-0,-
--,-,Crewe Alexandra,Reading,2-1,-
--,-,Darlington,Reading,2-1,-
--,-,Doncaster Rovers,Reading,0-0,-
--,-,Exeter City,Reading,0-1,-
--,-,Gillingham,Reading,0-1,-
--,-,Hartlepool United,Reading,1-2,-
--,-,Lincoln City,Reading,0-2,-
--,-,Mansfield Town,Reading,1-1,-
--,-,Newport County,Reading,0-0,-
--,-,Northampton Town,Reading,3-3,-
--,-,Peterborough United,Reading,2-0,-
--,-,Rotherham United,Reading,1-1,-
--,-,Scunthorpe United,Reading,1-0,-
--,-,Stockport County,Reading,0-0,-
--,-,Swansea City,Reading,2-1,-
--,-,Torquay United,Reading,1-1,-
--,-,Workington,Reading,0-0,-
--,-,Barnsley,Rotherham United,1-0,-
--,-,Bradford City,Rotherham United,2-1,-
--,-,Brentford,Rotherham United,1-1,-
--,-,Bury,Rotherham United,3-1,-
--,-,Chester,Rotherham United,1-0,-
--,-,Colchester United,Rotherham United,0-1,-
--,-,Crewe Alexandra,Rotherham United,1-8,-
--,-,Darlington,Rotherham United,1-1,-
--,-,Doncaster Rovers,Rotherham United,1-2,-
--,-,Exeter City,Rotherham United,0-0,-
--,-,Gillingham,Rotherham United,1-1,-
--,-,Hartlepool United,Rotherham United,2-0,-
--,-,Lincoln City,Rotherham United,2-1,-
--,-,Mansfield Town,Rotherham United,3-0,-
--,-,Newport County,Rotherham United,1-0,-
--,-,Northampton Town,Rotherham United,3-1,-
--,-,Peterborough United,Rotherham United,2-0,-
--,-,Reading,Rotherham United,1-0,-
--,-,Scunthorpe United,Rotherham United,3-0,-
--,-,Stockport County,Rotherham United,0-1,-
--,-,Swansea City,Rotherham United,4-2,-
--,-,Torquay United,Rotherham United,3-0,-
--,-,Workington,Rotherham United,0-2,-
--,-,Barnsley,Scunthorpe United,5-0,-
--,-,Bradford City,Scunthorpe United,2-1,-
--,-,Brentford,Scunthorpe United,2-1,-
--,-,Bury,Scunthorpe United,0-0,-
--,-,Chester,Scunthorpe United,2-0,-
--,-,Colchester United,Scunthorpe United,2-0,-
--,-,Crewe Alexandra,Scunthorpe United,1-0,-
--,-,Darlington,Scunthorpe United,3-0,-
--,-,Doncaster Rovers,Scunthorpe United,1-0,-
--,-,Exeter City,Scunthorpe United,4-0,-
--,-,Gillingham,Scunthorpe United,7-2,-
--,-,Hartlepool United,Scunthorpe United,3-0,-
--,-,Lincoln City,Scunthorpe United,1-0,-
--,-,Mansfield Town,Scunthorpe United,2-2,-
--,-,Newport County,Scunthorpe United,2-1,-
--,-,Northampton Town,Scunthorpe United,2-0,-
--,-,Peterborough United,Scunthorpe United,1-0,-
--,-,Reading,Scunthorpe United,0-0,-
--,-,Rotherham United,Scunthorpe United,1-1,-
--,-,Stockport County,Scunthorpe United,3-1,-
--,-,Swansea City,Scunthorpe United,1-2,-
--,-,Torquay United,Scunthorpe United,1-1,-
--,-,Workington,Scunthorpe United,1-2,-
--,-,Barnsley,Stockport County,4-0,-
--,-,Bradford City,Stockport County,0-1,-
--,-,Brentford,Stockport County,0-0,-
--,-,Bury,Stockport County,1-1,-
--,-,Chester,Stockport County,2-1,-
--,-,Colchester United,Stockport County,3-1,-
--,-,Crewe Alexandra,Stockport County,1-3,-
--,-,Darlington,Stockport County,1-1,-
--,-,Doncaster Rovers,Stockport County,1-1,-
--,-,Exeter City,Stockport County,2-1,-
--,-,Gillingham,Stockport County,2-1,-
--,-,Hartlepool United,Stockport County,3-0,-
--,-,Lincoln City,Stockport County,1-1,-
--,-,Mansfield Town,Stockport County,5-0,-
--,-,Newport County,Stockport County,3-1,-
--,-,Northampton Town,Stockport County,2-0,-
--,-,Peterborough United,Stockport County,3-2,-
--,-,Reading,Stockport County,1-1,-
--,-,Rotherham United,Stockport County,1-2,-
--,-,Scunthorpe United,Stockport County,2-1,-
--,-,Swansea City,Stockport County,3-0,-
--,-,Torquay United,Stockport County,2-2,-
--,-,Workington,Stockport County,1-1,-
--,-,Barnsley,Swansea City,1-0,-
--,-,Bradford City,Swansea City,3-1,-
--,-,Brentford,Swansea City,0-2,-
--,-,Bury,Swansea City,0-2,-
--,-,Chester,Swansea City,1-0,-
--,-,Colchester United,Swansea City,2-0,-
--,-,Crewe Alexandra,Swansea City,0-0,-
--,-,Darlington,Swansea City,1-1,-
--,-,Doncaster Rovers,Swansea City,3-1,-
--,-,Exeter City,Swansea City,2-0,-
--,-,Gillingham,Swansea City,1-1,-
--,-,Hartlepool United,Swansea City,0-1,-
--,-,Lincoln City,Swansea City,2-2,-
--,-,Mansfield Town,Swansea City,2-1,-
--,-,Newport County,Swansea City,2-1,-
--,-,Northampton Town,Swansea City,2-0,-
--,-,Peterborough United,Swansea City,3-0,-
--,-,Reading,Swansea City,1-2,-
--,-,Rotherham United,Swansea City,1-0,-
--,-,Scunthorpe United,Swansea City,0-0,-
--,-,Stockport County,Swansea City,0-1,-
--,-,Torquay United,Swansea City,3-1,-
--,-,Workington,Swansea City,1-0,-
--,-,Barnsley,Torquay United,1-0,-
--,-,Bradford City,Torquay United,2-1,-
--,-,Brentford,Torquay United,0-0,-
--,-,Bury,Torquay United,4-0,-
--,-,Chester,Torquay United,1-1,-
--,-,Colchester United,Torquay United,2-2,-
--,-,Crewe Alexandra,Torquay United,0-0,-
--,-,Darlington,Torquay United,0-0,-
--,-,Doncaster Rovers,Torquay United,0-1,-
--,-,Exeter City,Torquay United,4-2,-
--,-,Gillingham,Torquay United,2-1,-
--,-,Hartlepool United,Torquay United,0-0,-
--,-,Lincoln City,Torquay United,3-0,-
--,-,Mansfield Town,Torquay United,2-1,-
--,-,Newport County,Torquay United,2-2,-
--,-,Northampton Town,Torquay United,0-0,-
--,-,Peterborough United,Torquay United,1-1,-
--,-,Reading,Torquay United,4-0,-
--,-,Rotherham United,Torquay United,1-0,-
--,-,Scunthorpe United,Torquay United,0-0,-
--,-,Stockport County,Torquay United,2-1,-
--,-,Swansea City,Torquay United,0-1,-
--,-,Workington,Torquay United,3-1,-
--,-,Barnsley,Workington,4-0,-
--,-,Bradford City,Workington,3-2,-
--,-,Brentford,Workington,1-1,-
--,-,Bury,Workington,3-1,-
--,-,Chester,Workington,1-0,-
--,-,Colchester United,Workington,3-0,-
--,-,Crewe Alexandra,Workington,1-0,-
--,-,Darlington,Workington,0-0,-
--,-,Doncaster Rovers,Workington,5-2,-
--,-,Exeter City,Workington,1-1,-
--,-,Gillingham,Workington,4-0,-
--,-,Hartlepool United,Workington,3-0,-
--,-,Lincoln City,Workington,2-0,-
--,-,Mansfield Town,Workington,2-0,-
--,-,Newport County,Workington,4-0,-
--,-,Northampton Town,Workington,1-0,-
--,-,Peterborough United,Workington,2-0,-
--,-,Reading,Workington,2-0,-
--,-,Rotherham United,Workington,1-1,-
--,-,Scunthorpe United,Workington,0-1,-
--,-,Stockport County,Workington,1-1,-
--,-,Swansea City,Workington,1-0,-
--,-,Torquay United,Workington,3-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 6 Oct 1973 (40),Barnsley FC (1),2-2,?,Bradford City (1)
+?,(Sat) 22 Dec 1973 (51),Barnsley FC (2),2-1,?,Brentford FC (1)
+?,(Sat) 3 Nov 1973 (44),Barnsley FC (3),3-2,?,Bury FC (1)
+?,(Sun) 27 Jan 1974 (3),Barnsley FC (4),1-1,?,Chester FC (1)
+?,(Sat) 25 Aug 1973 (34),Barnsley FC (5),0-1,?,Colchester United (1)
+?,(Sat) 17 Nov 1973 (46),Barnsley FC (6),2-1,?,Crewe Alexandra (1)
+?,(Sun) 24 Feb 1974 (7),Barnsley FC (7),1-0,?,Darlington FC (1)
+?,(Tue) 23 Oct 1973 (43),Barnsley FC (8),2-0,?,Doncaster Rovers (1)
+?,(Sat) 23 Mar 1974 (11),Barnsley FC (9),3-0,?,Exeter City (1)
+?,(Tue) 26 Mar 1974 (12),Barnsley FC (10),3-1,?,Gillingham FC (1)
+?,(Sat) 20 Apr 1974 (15),Barnsley FC (11),2-0,?,Hartlepool United (1)
+?,(Tue) 18 Sep 1973 (38),Barnsley FC (12),0-1,?,Lincoln City (1)
+?,(Sat) 8 Sep 1973 (36),Barnsley FC (13),1-1,?,Mansfield Town (1)
+?,(Sat) 20 Oct 1973 (42),Barnsley FC (14),1-1,?,Newport County AFC (1)
+?,(Sat) 6 Apr 1974 (13),Barnsley FC (15),0-2,?,Northampton Town (1)
+?,(Tue) 16 Apr 1974 (15),Barnsley FC (16),0-0,?,Peterborough United (1)
+?,(Sun) 3 Feb 1974 (4),Barnsley FC (17),3-2,?,Reading FC (1)
+?,(Sun) 3 Mar 1974 (8),Barnsley FC (18),1-0,?,Rotherham United (1)
+?,(Tue) 1 Jan 1974 (0),Barnsley FC (19),5-0,?,Scunthorpe United (1)
+?,(Sat) 22 Sep 1973 (38),Barnsley FC (20),4-0,?,Stockport County (1)
+?,(Sun) 10 Mar 1974 (9),Barnsley FC (21),1-0,?,Swansea City (1)
+?,(Sat) 12 Jan 1974 (1),Barnsley FC (22),1-0,?,Torquay United (1)
+?,(Sun) 17 Feb 1974 (6),Barnsley FC (23),4-0,?,Workington (1)
+?,(Sat) 23 Feb 1974 (7),Bradford City (2),3-0,?,Barnsley FC (24)
+?,(Sat) 8 Dec 1973 (49),Bradford City (3),1-1,?,Brentford FC (2)
+?,(Sat) 29 Dec 1973 (52),Bradford City (4),4-2,?,Bury FC (2)
+?,(Sat) 27 Oct 1973 (43),Bradford City (5),1-1,?,Chester FC (2)
+?,(Sat) 27 Apr 1974 (16),Bradford City (6),1-1,?,Colchester United (2)
+?,(Sat) 29 Sep 1973 (39),Bradford City (7),0-1,?,Crewe Alexandra (2)
+?,(Wed) 26 Dec 1973 (52),Bradford City (8),3-0,?,Darlington FC (2)
+?,(Sat) 1 Sep 1973 (35),Bradford City (9),1-1,?,Doncaster Rovers (2)
+?,(Sun) 20 Jan 1974 (2),Bradford City (10),1-0,?,Exeter City (2)
+?,(Wed) 31 Oct 1973 (44),Bradford City (11),0-0,?,Gillingham FC (2)
+?,(Wed) 6 Mar 1974 (9),Bradford City (12),2-0,?,Hartlepool United (2)
+?,(Sun) 10 Feb 1974 (5),Bradford City (13),4-0,?,Lincoln City (2)
+?,(Wed) 14 Nov 1973 (46),Bradford City (14),3-1,?,Mansfield Town (2)
+?,(Wed) 3 Apr 1974 (13),Bradford City (15),3-0,?,Newport County AFC (2)
+?,(Sat) 13 Oct 1973 (41),Bradford City (16),1-1,?,Northampton Town (2)
+?,(Sat) 15 Sep 1973 (37),Bradford City (17),1-1,?,Peterborough United (2)
+?,(Sat) 10 Nov 1973 (45),Bradford City (18),4-3,?,Reading FC (2)
+?,(Wed) 12 Sep 1973 (37),Bradford City (19),2-1,?,Rotherham United (2)
+?,(Wed) 3 Oct 1973 (40),Bradford City (20),2-1,?,Scunthorpe United (2)
+?,(Sun) 17 Mar 1974 (10),Bradford City (21),0-1,?,Stockport County (2)
+?,(Wed) 20 Mar 1974 (11),Bradford City (22),3-1,?,Swansea City (2)
+?,(Sat) 30 Mar 1974 (12),Bradford City (23),2-1,?,Torquay United (2)
+?,(Sat) 13 Apr 1974 (14),Bradford City (24),3-2,?,Workington (2)
+?,(Sat) 29 Sep 1973 (39),Brentford FC (3),5-1,?,Barnsley FC (25)
+?,(Sat) 20 Apr 1974 (15),Brentford FC (4),2-0,?,Bradford City (25)
+?,(Sat) 9 Feb 1974 (5),Brentford FC (5),1-2,?,Bury FC (3)
+?,(Sat) 17 Nov 1973 (46),Brentford FC (6),3-0,?,Chester FC (3)
+?,(Tue) 16 Apr 1974 (15),Brentford FC (7),0-0,?,Colchester United (3)
+?,(Mon) 1 Apr 1974 (13),Brentford FC (8),3-0,?,Crewe Alexandra (3)
+?,(Sat) 15 Dec 1973 (50),Brentford FC (9),0-0,?,Darlington FC (3)
+?,(Sat) 15 Sep 1973 (37),Brentford FC (10),2-0,?,Doncaster Rovers (3)
+?,(Sat) 1 Sep 1973 (35),Brentford FC (11),0-1,?,Exeter City (3)
+?,(Sat) 1 Dec 1973 (48),Brentford FC (12),0-3,?,Gillingham FC (3)
+?,(Sat) 19 Jan 1974 (2),Brentford FC (13),1-2,?,Hartlepool United (3)
+?,(Sat) 23 Feb 1974 (7),Brentford FC (14),2-1,?,Lincoln City (3)
+?,(Sat) 3 Nov 1973 (44),Brentford FC (15),4-1,?,Mansfield Town (3)
+?,(Wed) 26 Dec 1973 (52),Brentford FC (16),1-1,?,Newport County AFC (3)
+?,(Mon) 18 Mar 1974 (11),Brentford FC (17),3-1,?,Northampton Town (3)
+?,(Sat) 13 Oct 1973 (41),Brentford FC (18),0-1,?,Peterborough United (3)
+?,(Mon) 17 Sep 1973 (38),Brentford FC (19),0-1,?,Reading FC (3)
+?,(Sat) 20 Oct 1973 (42),Brentford FC (20),1-1,?,Rotherham United (3)
+?,(Sat) 9 Mar 1974 (9),Brentford FC (21),2-1,?,Scunthorpe United (3)
+?,(Sat) 6 Apr 1974 (13),Brentford FC (22),0-0,?,Stockport County (3)
+?,(Sat) 5 Jan 1974 (0),Brentford FC (23),0-2,?,Swansea City (3)
+?,(Mon) 10 Sep 1973 (37),Brentford FC (24),0-0,?,Torquay United (3)
+?,(Sat) 23 Mar 1974 (11),Brentford FC (25),1-1,?,Workington (3)
+?,(Sat) 30 Mar 1974 (12),Bury FC (4),2-0,?,Barnsley FC (26)
+?,(Sat) 8 Sep 1973 (36),Bury FC (5),3-0,?,Bradford City (26)
+?,(Sat) 22 Sep 1973 (38),Bury FC (6),3-0,?,Brentford FC (26)
+?,(Sat) 6 Oct 1973 (40),Bury FC (7),3-1,?,Chester FC (4)
+?,(Sun) 3 Feb 1974 (4),Bury FC (8),2-0,?,Colchester United (4)
+?,(Sun) 17 Mar 1974 (10),Bury FC (9),2-0,?,Crewe Alexandra (4)
+?,(Tue) 2 Oct 1973 (40),Bury FC (10),5-1,?,Darlington FC (4)
+?,(Sat) 13 Apr 1974 (14),Bury FC (11),3-1,?,Doncaster Rovers (4)
+?,(Fri) 12 Apr 1974 (14),Bury FC (12),0-0,?,Exeter City (4)
+?,(Sun) 17 Feb 1974 (6),Bury FC (13),3-2,?,Gillingham FC (4)
+?,(Tue) 11 Sep 1973 (37),Bury FC (14),1-0,?,Hartlepool United (4)
+?,(Tue) 13 Nov 1973 (46),Bury FC (15),2-1,?,Lincoln City (4)
+?,(Sun) 27 Jan 1974 (3),Bury FC (16),2-0,?,Mansfield Town (4)
+?,(Sat) 27 Apr 1974 (16),Bury FC (17),5-0,?,Newport County AFC (4)
+?,(Sat) 27 Oct 1973 (43),Bury FC (18),3-1,?,Northampton Town (4)
+?,(Sat) 10 Nov 1973 (45),Bury FC (19),0-2,?,Peterborough United (4)
+?,(Sat) 12 Jan 1974 (1),Bury FC (20),1-0,?,Reading FC (4)
+?,(Sat) 22 Dec 1973 (51),Bury FC (21),3-1,?,Rotherham United (4)
+?,(Tue) 26 Mar 1974 (12),Bury FC (22),0-0,?,Scunthorpe United (4)
+?,(Sun) 3 Mar 1974 (8),Bury FC (23),1-1,?,Stockport County (4)
+?,(Sat) 8 Dec 1973 (49),Bury FC (24),0-2,?,Swansea City (4)
+?,(Sat) 25 Aug 1973 (34),Bury FC (25),4-0,?,Torquay United (4)
+?,(Tue) 1 Jan 1974 (0),Bury FC (26),3-1,?,Workington (4)
+?,(Wed) 3 Apr 1974 (13),Chester FC (5),3-1,?,Barnsley FC (27)
+?,(Sun) 10 Mar 1974 (9),Chester FC (6),1-0,?,Bradford City (27)
+?,(Sat) 13 Apr 1974 (14),Chester FC (7),0-0,?,Brentford FC (27)
+?,(Sun) 24 Feb 1974 (7),Chester FC (8),1-1,?,Bury FC (27)
+?,(Wed) 14 Nov 1973 (46),Chester FC (9),0-4,?,Colchester United (5)
+?,(Wed) 26 Dec 1973 (52),Chester FC (10),1-0,?,Crewe Alexandra (5)
+?,(Sun) 10 Feb 1974 (5),Chester FC (11),1-0,?,Darlington FC (5)
+?,(Sat) 13 Oct 1973 (41),Chester FC (12),3-0,?,Doncaster Rovers (5)
+?,(Sat) 15 Sep 1973 (37),Chester FC (13),0-1,?,Exeter City (5)
+?,(Sat) 20 Oct 1973 (42),Chester FC (14),2-4,?,Gillingham FC (5)
+?,(Fri) 31 Aug 1973 (35),Chester FC (15),3-1,?,Hartlepool United (5)
+?,(Sat) 29 Sep 1973 (39),Chester FC (16),2-3,?,Lincoln City (5)
+?,(Wed) 3 Oct 1973 (40),Chester FC (17),1-1,?,Mansfield Town (5)
+?,(Sat) 29 Dec 1973 (52),Chester FC (18),3-0,?,Newport County AFC (5)
+?,(Wed) 1 May 1974 (17),Chester FC (19),0-0,?,Northampton Town (5)
+?,(Wed) 20 Mar 1974 (11),Chester FC (20),2-1,?,Peterborough United (5)
+?,(Sat) 27 Apr 1974 (16),Chester FC (21),0-0,?,Reading FC (5)
+?,(Sat) 3 Nov 1973 (44),Chester FC (22),1-0,?,Rotherham United (5)
+?,(Sat) 23 Mar 1974 (11),Chester FC (23),2-0,?,Scunthorpe United (5)
+?,(Tue) 16 Apr 1974 (15),Chester FC (24),2-1,?,Stockport County (5)
+?,(Sat) 19 Jan 1974 (2),Chester FC (25),1-0,?,Swansea City (5)
+?,(Sat) 8 Dec 1973 (49),Chester FC (26),1-1,?,Torquay United (5)
+?,(Wed) 12 Sep 1973 (37),Chester FC (27),1-0,?,Workington (5)
+?,(Sat) 19 Jan 1974 (2),Colchester United (6),2-0,?,Barnsley FC (28)
+?,(Sat) 1 Dec 1973 (48),Colchester United (7),4-0,?,Bradford City (28)
+?,(Fri) 12 Apr 1974 (14),Colchester United (8),2-1,?,Brentford FC (28)
+?,(Tue) 19 Mar 1974 (11),Colchester United (9),1-1,?,Bury FC (28)
+?,(Fri) 5 Apr 1974 (13),Colchester United (10),1-1,?,Chester FC (28)
+?,(Sat) 1 Sep 1973 (35),Colchester United (11),3-2,?,Crewe Alexandra (6)
+?,(Fri) 12 Oct 1973 (41),Colchester United (12),3-0,?,Darlington FC (6)
+?,(Tue) 2 Apr 1974 (13),Colchester United (13),3-0,?,Doncaster Rovers (6)
+?,(Fri) 28 Sep 1973 (39),Colchester United (14),1-0,?,Exeter City (6)
+?,(Sat) 20 Apr 1974 (15),Colchester United (15),0-2,?,Gillingham FC (6)
+?,(Fri) 22 Feb 1974 (7),Colchester United (16),3-0,?,Hartlepool United (6)
+?,(Sat) 5 Jan 1974 (0),Colchester United (17),4-1,?,Lincoln City (6)
+?,(Fri) 22 Mar 1974 (11),Colchester United (18),1-0,?,Mansfield Town (6)
+?,(Sat) 15 Sep 1973 (37),Colchester United (19),4-1,?,Newport County AFC (6)
+?,(Sat) 29 Dec 1973 (52),Colchester United (20),1-0,?,Northampton Town (6)
+?,(Wed) 26 Dec 1973 (52),Colchester United (21),1-1,?,Peterborough United (6)
+?,(Tue) 11 Sep 1973 (37),Colchester United (22),0-0,?,Reading FC (6)
+?,(Fri) 8 Mar 1974 (9),Colchester United (23),0-1,?,Rotherham United (6)
+?,(Fri) 19 Oct 1973 (42),Colchester United (24),2-0,?,Scunthorpe United (6)
+?,(Sat) 17 Nov 1973 (46),Colchester United (25),3-1,?,Stockport County (6)
+?,(Fri) 8 Feb 1974 (5),Colchester United (26),2-0,?,Swansea City (6)
+?,(Tue) 2 Oct 1973 (40),Colchester United (27),2-2,?,Torquay United (6)
+?,(Fri) 2 Nov 1973 (44),Colchester United (28),3-0,?,Workington (6)
+?,(Sat) 13 Apr 1974 (14),Crewe Alexandra (7),0-1,?,Barnsley FC (29)
+?,(Sat) 22 Dec 1973 (51),Crewe Alexandra (8),1-0,?,Bradford City (29)
+?,(Sat) 26 Jan 1974 (3),Crewe Alexandra (9),0-0,?,Brentford FC (29)
+?,(Sat) 20 Oct 1973 (42),Crewe Alexandra (10),1-0,?,Bury FC (29)
+?,(Sun) 3 Mar 1974 (8),Crewe Alexandra (11),1-0,?,Chester FC (29)
+?,(Tue) 1 Jan 1974 (0),Crewe Alexandra (12),1-2,?,Colchester United (29)
+?,(Sat) 3 Nov 1973 (44),Crewe Alexandra (13),1-1,?,Darlington FC (7)
+?,(Sat) 8 Dec 1973 (49),Crewe Alexandra (14),4-0,?,Doncaster Rovers (7)
+?,(Sun) 10 Mar 1974 (9),Crewe Alexandra (15),2-5,?,Exeter City (7)
+?,(Sat) 25 Aug 1973 (34),Crewe Alexandra (16),1-0,?,Gillingham FC (7)
+?,(Sat) 23 Mar 1974 (11),Crewe Alexandra (17),1-3,?,Hartlepool United (7)
+?,(Sat) 27 Apr 1974 (16),Crewe Alexandra (18),2-1,?,Lincoln City (7)
+?,(Sat) 22 Sep 1973 (38),Crewe Alexandra (19),1-1,?,Mansfield Town (7)
+?,(Wed) 3 Oct 1973 (40),Crewe Alexandra (20),4-1,?,Newport County AFC (7)
+?,(Tue) 16 Apr 1974 (15),Crewe Alexandra (21),0-2,?,Northampton Town (7)
+?,(Wed) 14 Nov 1973 (46),Crewe Alexandra (22),2-1,?,Peterborough United (7)
+?,(Wed) 27 Mar 1974 (12),Crewe Alexandra (23),2-1,?,Reading FC (7)
+?,(Sat) 8 Sep 1973 (36),Crewe Alexandra (24),1-8,?,Rotherham United (7)
+?,(Sat) 12 Jan 1974 (1),Crewe Alexandra (25),1-0,?,Scunthorpe United (7)
+?,(Sat) 6 Oct 1973 (40),Crewe Alexandra (26),1-3,?,Stockport County (7)
+?,(Wed) 12 Sep 1973 (37),Crewe Alexandra (27),0-0,?,Swansea City (7)
+?,(Sun) 17 Feb 1974 (6),Crewe Alexandra (28),0-0,?,Torquay United (7)
+?,(Sun) 3 Feb 1974 (4),Crewe Alexandra (29),1-0,?,Workington (7)
+?,(Sat) 27 Apr 1974 (16),Darlington FC (8),4-2,?,Barnsley FC (30)
+?,(Sun) 3 Mar 1974 (8),Darlington FC (9),2-1,?,Bradford City (30)
+?,(Sat) 8 Sep 1973 (36),Darlington FC (10),1-2,?,Brentford FC (30)
+?,(Mon) 17 Sep 1973 (38),Darlington FC (11),0-0,?,Bury FC (30)
+?,(Sat) 22 Sep 1973 (38),Darlington FC (12),1-2,?,Chester FC (30)
+?,(Sat) 16 Feb 1974 (6),Darlington FC (13),1-0,?,Colchester United (30)
+?,(Sat) 30 Mar 1974 (12),Darlington FC (14),3-0,?,Crewe Alexandra (30)
+?,(Sat) 27 Oct 1973 (43),Darlington FC (15),1-0,?,Doncaster Rovers (8)
+?,(Mon) 22 Oct 1973 (43),Darlington FC (16),1-0,?,Exeter City (8)
+?,(Sat) 12 Jan 1974 (1),Darlington FC (17),1-3,?,Gillingham FC (8)
+?,(Tue) 16 Apr 1974 (15),Darlington FC (18),1-1,?,Hartlepool United (8)
+?,(Sun) 17 Mar 1974 (10),Darlington FC (19),0-3,?,Lincoln City (8)
+?,(Sat) 22 Dec 1973 (51),Darlington FC (20),1-0,?,Mansfield Town (8)
+?,(Sat) 13 Apr 1974 (14),Darlington FC (21),0-1,?,Newport County AFC (8)
+?,(Sat) 10 Nov 1973 (45),Darlington FC (22),2-3,?,Northampton Town (8)
+?,(Sat) 8 Dec 1973 (49),Darlington FC (23),2-2,?,Peterborough United (8)
+?,(Tue) 1 Jan 1974 (0),Darlington FC (24),2-1,?,Reading FC (8)
+?,(Sat) 6 Oct 1973 (40),Darlington FC (25),1-1,?,Rotherham United (8)
+?,(Sun) 3 Feb 1974 (4),Darlington FC (26),3-0,?,Scunthorpe United (8)
+?,(Sat) 26 Jan 1974 (3),Darlington FC (27),1-1,?,Stockport County (8)
+?,(Mon) 12 Nov 1973 (46),Darlington FC (28),1-1,?,Swansea City (8)
+?,(Sun) 27 Jan 1974 (3),Darlington FC (29),0-0,?,Torquay United (8)
+?,(Sat) 25 Aug 1973 (34),Darlington FC (30),0-0,?,Workington (8)
+?,(Tue) 11 Sep 1973 (37),Doncaster Rovers (9),1-0,?,Barnsley FC (31)
+?,(Tue) 1 Jan 1974 (0),Doncaster Rovers (10),2-2,?,Bradford City (31)
+?,(Sat) 12 Jan 1974 (1),Doncaster Rovers (11),1-2,?,Brentford FC (31)
+?,(Sat) 17 Nov 1973 (46),Doncaster Rovers (12),1-1,?,Bury FC (31)
+?,(Sun) 17 Feb 1974 (6),Doncaster Rovers (13),1-2,?,Chester FC (31)
+?,(Sun) 27 Jan 1974 (3),Doncaster Rovers (14),2-0,?,Colchester United (31)
+?,(Sat) 20 Apr 1974 (15),Doncaster Rovers (15),0-2,?,Crewe Alexandra (31)
+?,(Sun) 10 Mar 1974 (9),Doncaster Rovers (16),0-0,?,Darlington FC (31)
+?,(Sat) 6 Apr 1974 (13),Doncaster Rovers (17),1-0,?,Exeter City (9)
+?,(Sat) 22 Dec 1973 (51),Doncaster Rovers (18),1-2,?,Gillingham FC (9)
+?,(Sat) 20 Oct 1973 (42),Doncaster Rovers (19),2-2,?,Hartlepool United (9)
+?,(Tue) 16 Apr 1974 (15),Doncaster Rovers (20),2-0,?,Lincoln City (9)
+?,(Tue) 26 Mar 1974 (12),Doncaster Rovers (21),0-0,?,Mansfield Town (9)
+?,(Fri) 22 Mar 1974 (11),Doncaster Rovers (22),2-0,?,Newport County AFC (9)
+?,(Tue) 23 Apr 1974 (16),Doncaster Rovers (23),2-1,?,Northampton Town (9)
+?,(Tue) 2 Oct 1973 (40),Doncaster Rovers (24),3-1,?,Peterborough United (9)
+?,(Sat) 6 Oct 1973 (40),Doncaster Rovers (25),0-0,?,Reading FC (9)
+?,(Sun) 3 Feb 1974 (4),Doncaster Rovers (26),1-2,?,Rotherham United (9)
+?,(Sat) 2 Mar 1974 (8),Doncaster Rovers (27),1-0,?,Scunthorpe United (9)
+?,(Sat) 25 Aug 1973 (34),Doncaster Rovers (28),1-1,?,Stockport County (9)
+?,(Sat) 3 Nov 1973 (44),Doncaster Rovers (29),3-1,?,Swansea City (9)
+?,(Fri) 7 Sep 1973 (36),Doncaster Rovers (30),0-1,?,Torquay United (9)
+?,(Sat) 22 Sep 1973 (38),Doncaster Rovers (31),5-2,?,Workington (9)
+?,(Sat) 10 Nov 1973 (45),Exeter City (10),6-1,?,Barnsley FC (32)
+?,(Sat) 25 Aug 1973 (34),Exeter City (11),0-0,?,Bradford City (32)
+?,(Tue) 1 Jan 1974 (0),Exeter City (12),2-1,?,Brentford FC (32)
+?,(Mon) 15 Apr 1974 (15),Exeter City (13),0-3,?,Bury FC (32)
+?,(Sat) 12 Jan 1974 (1),Exeter City (14),2-1,?,Chester FC (32)
+?,(Sat) 22 Dec 1973 (51),Exeter City (15),1-0,?,Colchester United (32)
+?,(Sat) 27 Oct 1973 (43),Exeter City (16),2-0,?,Crewe Alexandra (32)
+?,(Wed) 12 Sep 1973 (37),Exeter City (17),3-0,?,Darlington FC (32)
+?,(Wed) 14 Nov 1973 (46),Exeter City (18),1-2,?,Doncaster Rovers (32)
+?,(Sat) 6 Oct 1973 (40),Exeter City (19),2-1,?,Gillingham FC (10)
+?,(Wed) 3 Oct 1973 (40),Exeter City (20),2-0,?,Hartlepool United (10)
+?,(Sat) 13 Apr 1974 (14),Exeter City (21),0-1,?,Lincoln City (10)
+?,(Sat) 9 Mar 1974 (9),Exeter City (22),1-1,?,Mansfield Town (10)
+?,(Sat) 8 Dec 1973 (49),Exeter City (23),0-1,?,Newport County AFC (10)
+?,(Sat) 16 Mar 1974 (10),Exeter City (24),1-1,?,Northampton Town (10)
+?,(Sat) 30 Mar 1974 (12),Exeter City (25),1-2,?,Peterborough United (10)
+?,(Sat) 22 Sep 1973 (38),Exeter City (26),0-1,?,Reading FC (10)
+?,(Tue) 30 Apr 1974 (17),Exeter City (27),0-0,?,Rotherham United (10)
+?,(Mon) 22 Apr 1974 (16),Exeter City (28),4-0,?,Scunthorpe United (10)
+?,(Wed) 27 Mar 1974 (12),Exeter City (29),2-1,?,Stockport County (10)
+?,(Sat) 27 Apr 1974 (16),Exeter City (30),2-0,?,Swansea City (10)
+?,(Sat) 2 Mar 1974 (8),Exeter City (31),4-2,?,Torquay United (10)
+?,(Sat) 8 Sep 1973 (36),Exeter City (32),1-1,?,Workington (10)
+?,(Sat) 5 Jan 1974 (0),Gillingham FC (11),1-1,?,Barnsley FC (33)
+?,(Mon) 15 Apr 1974 (15),Gillingham FC (12),2-0,?,Bradford City (33)
+?,(Sat) 27 Apr 1974 (16),Gillingham FC (13),1-0,?,Brentford FC (33)
+?,(Sat) 13 Oct 1973 (41),Gillingham FC (14),3-0,?,Bury FC (33)
+?,(Sun) 17 Mar 1974 (10),Gillingham FC (15),1-0,?,Chester FC (33)
+?,(Sat) 8 Dec 1973 (49),Gillingham FC (16),4-1,?,Colchester United (33)
+?,(Sun) 20 Jan 1974 (2),Gillingham FC (17),3-0,?,Crewe Alexandra (33)
+?,(Sat) 15 Sep 1973 (37),Gillingham FC (18),0-1,?,Darlington FC (33)
+?,(Sat) 29 Sep 1973 (39),Gillingham FC (19),5-1,?,Doncaster Rovers (33)
+?,(Sat) 23 Feb 1974 (7),Gillingham FC (20),2-1,?,Exeter City (33)
+?,(Sun) 10 Feb 1974 (5),Gillingham FC (21),3-0,?,Hartlepool United (11)
+?,(Wed) 24 Apr 1974 (16),Gillingham FC (22),2-0,?,Lincoln City (11)
+?,(Sat) 13 Apr 1974 (14),Gillingham FC (23),2-2,?,Mansfield Town (11)
+?,(Sat) 1 Sep 1973 (35),Gillingham FC (24),1-1,?,Newport County AFC (11)
+?,(Wed) 26 Dec 1973 (52),Gillingham FC (25),3-1,?,Northampton Town (11)
+?,(Wed) 3 Apr 1974 (13),Gillingham FC (26),1-0,?,Peterborough United (11)
+?,(Sat) 30 Mar 1974 (12),Gillingham FC (27),0-1,?,Reading FC (11)
+?,(Wed) 3 Oct 1973 (40),Gillingham FC (28),1-1,?,Rotherham United (11)
+?,(Wed) 12 Sep 1973 (37),Gillingham FC (29),7-2,?,Scunthorpe United (11)
+?,(Sat) 27 Oct 1973 (43),Gillingham FC (30),2-1,?,Stockport County (11)
+?,(Sat) 29 Dec 1973 (52),Gillingham FC (31),1-1,?,Swansea City (11)
+?,(Sat) 10 Nov 1973 (45),Gillingham FC (32),2-1,?,Torquay United (11)
+?,(Wed) 14 Nov 1973 (46),Gillingham FC (33),4-0,?,Workington (11)
+?,(Sat) 8 Dec 1973 (49),Hartlepool United (12),1-2,?,Barnsley FC (34)
+?,(Wed) 27 Mar 1974 (12),Hartlepool United (13),1-0,?,Bradford City (34)
+?,(Sat) 25 Aug 1973 (34),Hartlepool United (14),1-0,?,Brentford FC (34)
+?,(Mon) 22 Oct 1973 (43),Hartlepool United (15),1-1,?,Bury FC (34)
+?,(Tue) 1 Jan 1974 (0),Hartlepool United (16),0-0,?,Chester FC (34)
+?,(Sat) 6 Oct 1973 (40),Hartlepool United (17),0-0,?,Colchester United (34)
+?,(Sat) 10 Nov 1973 (45),Hartlepool United (18),1-0,?,Crewe Alexandra (34)
+?,(Fri) 12 Apr 1974 (14),Hartlepool United (19),1-2,?,Darlington FC (34)
+?,(Sun) 17 Mar 1974 (10),Hartlepool United (20),3-0,?,Doncaster Rovers (34)
+?,(Mon) 17 Sep 1973 (38),Hartlepool United (21),1-3,?,Exeter City (34)
+?,(Sat) 22 Sep 1973 (38),Hartlepool United (22),2-1,?,Gillingham FC (34)
+?,(Sat) 27 Oct 1973 (43),Hartlepool United (23),0-2,?,Lincoln City (12)
+?,(Sun) 17 Feb 1974 (6),Hartlepool United (24),4-0,?,Mansfield Town (12)
+?,(Mon) 12 Nov 1973 (46),Hartlepool United (25),0-1,?,Newport County AFC (12)
+?,(Sat) 5 Jan 1974 (0),Hartlepool United (26),1-0,?,Northampton Town (12)
+?,(Sat) 27 Apr 1974 (16),Hartlepool United (27),0-1,?,Peterborough United (12)
+?,(Sat) 8 Sep 1973 (36),Hartlepool United (28),1-2,?,Reading FC (12)
+?,(Sat) 12 Jan 1974 (1),Hartlepool United (29),2-0,?,Rotherham United (12)
+?,(Sat) 22 Dec 1973 (51),Hartlepool United (30),3-0,?,Scunthorpe United (12)
+?,(Sun) 3 Feb 1974 (4),Hartlepool United (31),3-0,?,Stockport County (12)
+?,(Sat) 13 Apr 1974 (14),Hartlepool United (32),0-1,?,Swansea City (12)
+?,(Sat) 26 Jan 1974 (3),Hartlepool United (33),0-0,?,Torquay United (12)
+?,(Sun) 3 Mar 1974 (8),Hartlepool United (34),3-0,?,Workington (12)
+?,(Wed) 3 Oct 1973 (40),Lincoln City (13),1-1,?,Barnsley FC (35)
+?,(Sat) 22 Sep 1973 (38),Lincoln City (14),0-1,?,Bradford City (35)
+?,(Sat) 6 Oct 1973 (40),Lincoln City (15),3-2,?,Brentford FC (35)
+?,(Sat) 6 Apr 1974 (13),Lincoln City (16),4-3,?,Bury FC (35)
+?,(Sat) 22 Dec 1973 (51),Lincoln City (17),2-2,?,Chester FC (35)
+?,(Wed) 27 Mar 1974 (12),Lincoln City (18),0-1,?,Colchester United (35)
+?,(Sat) 1 Dec 1973 (48),Lincoln City (19),4-2,?,Crewe Alexandra (35)
+?,(Sat) 20 Oct 1973 (42),Lincoln City (20),2-1,?,Darlington FC (35)
+?,(Mon) 15 Apr 1974 (15),Lincoln City (21),3-3,?,Doncaster Rovers (35)
+?,(Sat) 17 Nov 1973 (46),Lincoln City (22),2-1,?,Exeter City (35)
+?,(Sun) 3 Feb 1974 (4),Lincoln City (23),2-3,?,Gillingham FC (35)
+?,(Sat) 9 Mar 1974 (9),Lincoln City (24),0-1,?,Hartlepool United (35)
+?,(Sun) 3 Mar 1974 (8),Lincoln City (25),1-1,?,Mansfield Town (13)
+?,(Sat) 3 Nov 1973 (44),Lincoln City (26),3-0,?,Newport County AFC (13)
+?,(Sat) 20 Apr 1974 (15),Lincoln City (27),1-1,?,Northampton Town (13)
+?,(Wed) 12 Sep 1973 (37),Lincoln City (28),1-1,?,Peterborough United (13)
+?,(Sun) 17 Feb 1974 (6),Lincoln City (29),0-2,?,Reading FC (13)
+?,(Sun) 27 Jan 1974 (3),Lincoln City (30),2-1,?,Rotherham United (13)
+?,(Sat) 25 Aug 1973 (34),Lincoln City (31),1-0,?,Scunthorpe United (13)
+?,(Sat) 8 Sep 1973 (36),Lincoln City (32),1-1,?,Stockport County (13)
+?,(Sat) 23 Mar 1974 (11),Lincoln City (33),2-2,?,Swansea City (13)
+?,(Tue) 1 Jan 1974 (0),Lincoln City (34),3-0,?,Torquay United (13)
+?,(Sat) 12 Jan 1974 (1),Lincoln City (35),2-0,?,Workington (13)
+?,(Sat) 29 Dec 1973 (52),Mansfield Town (14),2-2,?,Barnsley FC (36)
+?,(Sat) 6 Apr 1974 (13),Mansfield Town (15),0-0,?,Bradford City (36)
+?,(Sat) 30 Mar 1974 (12),Mansfield Town (16),1-1,?,Brentford FC (36)
+?,(Mon) 1 Apr 1974 (13),Mansfield Town (17),1-2,?,Bury FC (36)
+?,(Mon) 17 Sep 1973 (38),Mansfield Town (18),3-0,?,Chester FC (36)
+?,(Sat) 10 Nov 1973 (45),Mansfield Town (19),2-2,?,Colchester United (36)
+?,(Sun) 10 Feb 1974 (5),Mansfield Town (20),1-2,?,Crewe Alexandra (36)
+?,(Sat) 29 Sep 1973 (39),Mansfield Town (21),1-0,?,Darlington FC (36)
+?,(Mon) 29 Apr 1974 (17),Mansfield Town (22),2-0,?,Doncaster Rovers (36)
+?,(Mon) 18 Mar 1974 (11),Mansfield Town (23),3-3,?,Exeter City (36)
+?,(Sat) 17 Nov 1973 (46),Mansfield Town (24),2-2,?,Gillingham FC (36)
+?,(Sat) 13 Oct 1973 (41),Mansfield Town (25),2-0,?,Hartlepool United (36)
+?,(Wed) 26 Dec 1973 (52),Mansfield Town (26),4-3,?,Lincoln City (36)
+?,(Sun) 24 Feb 1974 (7),Mansfield Town (27),2-1,?,Newport County AFC (14)
+?,(Sat) 1 Sep 1973 (35),Mansfield Town (28),2-0,?,Northampton Town (14)
+?,(Sun) 20 Jan 1974 (2),Mansfield Town (29),2-1,?,Peterborough United (14)
+?,(Sat) 16 Mar 1974 (10),Mansfield Town (30),1-1,?,Reading FC (14)
+?,(Sat) 1 Dec 1973 (48),Mansfield Town (31),3-0,?,Rotherham United (14)
+?,(Sat) 20 Apr 1974 (15),Mansfield Town (32),2-2,?,Scunthorpe United (14)
+?,(Mon) 22 Oct 1973 (43),Mansfield Town (33),5-0,?,Stockport County (14)
+?,(Sat) 15 Sep 1973 (37),Mansfield Town (34),2-1,?,Swansea City (14)
+?,(Sat) 27 Oct 1973 (43),Mansfield Town (35),2-1,?,Torquay United (14)
+?,(Wed) 17 Apr 1974 (15),Mansfield Town (36),2-0,?,Workington (14)
+?,(Sun) 17 Mar 1974 (10),Newport County AFC (15),1-0,?,Barnsley FC (37)
+?,(Mon) 22 Apr 1974 (16),Newport County AFC (16),2-2,?,Bradford City (37)
+?,(Sat) 2 Mar 1974 (8),Newport County AFC (17),1-1,?,Brentford FC (37)
+?,(Sat) 1 Dec 1973 (48),Newport County AFC (18),1-0,?,Bury FC (37)
+?,(Sat) 8 Sep 1973 (36),Newport County AFC (19),0-2,?,Chester FC (37)
+?,(Sat) 12 Jan 1974 (1),Newport County AFC (20),1-3,?,Colchester United (37)
+?,(Tue) 18 Sep 1973 (38),Newport County AFC (21),4-2,?,Crewe Alexandra (37)
+?,(Sat) 17 Nov 1973 (46),Newport County AFC (22),2-0,?,Darlington FC (37)
+?,(Fri) 9 Nov 1973 (45),Newport County AFC (23),3-1,?,Doncaster Rovers (37)
+?,(Sun) 27 Jan 1974 (3),Newport County AFC (24),2-1,?,Exeter City (37)
+?,(Tue) 1 Jan 1974 (0),Newport County AFC (25),3-3,?,Gillingham FC (37)
+?,(Sat) 6 Apr 1974 (13),Newport County AFC (26),0-0,?,Hartlepool United (37)
+?,(Sat) 30 Mar 1974 (12),Newport County AFC (27),0-1,?,Lincoln City (37)
+?,(Tue) 9 Oct 1973 (41),Newport County AFC (28),2-0,?,Mansfield Town (37)
+?,(Tue) 23 Oct 1973 (43),Newport County AFC (29),3-1,?,Northampton Town (15)
+?,(Sat) 27 Oct 1973 (43),Newport County AFC (30),0-1,?,Peterborough United (15)
+?,(Sat) 25 Aug 1973 (34),Newport County AFC (31),0-0,?,Reading FC (15)
+?,(Sat) 22 Sep 1973 (38),Newport County AFC (32),1-0,?,Rotherham United (15)
+?,(Sun) 17 Feb 1974 (6),Newport County AFC (33),2-1,?,Scunthorpe United (15)
+?,(Sat) 22 Dec 1973 (51),Newport County AFC (34),3-1,?,Stockport County (15)
+?,(Tue) 16 Apr 1974 (15),Newport County AFC (35),2-1,?,Swansea City (15)
+?,(Sun) 3 Feb 1974 (4),Newport County AFC (36),2-2,?,Torquay United (15)
+?,(Mon) 25 Mar 1974 (12),Newport County AFC (37),4-0,?,Workington (15)
+?,(Tue) 13 Nov 1973 (46),Northampton Town (16),2-1,?,Barnsley FC (38)
+?,(Sun) 17 Feb 1974 (6),Northampton Town (17),3-0,?,Bradford City (38)
+?,(Sat) 2 Feb 1974 (4),Northampton Town (18),0-0,?,Brentford FC (38)
+?,(Sat) 9 Mar 1974 (9),Northampton Town (19),3-1,?,Bury FC (38)
+?,(Tue) 26 Mar 1974 (12),Northampton Town (20),3-3,?,Chester FC (38)
+?,(Fri) 7 Sep 1973 (36),Northampton Town (21),0-0,?,Colchester United (38)
+?,(Mon) 15 Apr 1974 (15),Northampton Town (22),1-1,?,Crewe Alexandra (38)
+?,(Sun) 24 Mar 1974 (11),Northampton Town (23),5-0,?,Darlington FC (38)
+?,(Sat) 27 Apr 1974 (16),Northampton Town (24),3-1,?,Doncaster Rovers (38)
+?,(Sat) 20 Oct 1973 (42),Northampton Town (25),1-2,?,Exeter City (38)
+?,(Sun) 3 Mar 1974 (8),Northampton Town (26),0-0,?,Gillingham FC (38)
+?,(Sat) 3 Nov 1973 (44),Northampton Town (27),1-0,?,Hartlepool United (38)
+?,(Sat) 8 Dec 1973 (49),Northampton Town (28),1-0,?,Lincoln City (38)
+?,(Tue) 1 Jan 1974 (0),Northampton Town (29),2-0,?,Mansfield Town (38)
+?,(Tue) 11 Sep 1973 (37),Northampton Town (30),1-0,?,Newport County AFC (38)
+?,(Sat) 13 Apr 1974 (14),Northampton Town (31),0-1,?,Peterborough United (16)
+?,(Sun) 27 Jan 1974 (3),Northampton Town (32),3-3,?,Reading FC (16)
+?,(Sat) 25 Aug 1973 (34),Northampton Town (33),3-1,?,Rotherham United (16)
+?,(Fri) 21 Sep 1973 (38),Northampton Town (34),2-0,?,Scunthorpe United (16)
+?,(Sat) 12 Jan 1974 (1),Northampton Town (35),2-0,?,Stockport County (16)
+?,(Tue) 2 Oct 1973 (40),Northampton Town (36),2-0,?,Swansea City (16)
+?,(Fri) 5 Oct 1973 (40),Northampton Town (37),0-0,?,Torquay United (16)
+?,(Sat) 22 Dec 1973 (51),Northampton Town (38),1-0,?,Workington (16)
+?,(Mon) 15 Apr 1974 (15),Peterborough United (17),3-0,?,Barnsley FC (39)
+?,(Sat) 12 Jan 1974 (1),Peterborough United (18),1-1,?,Bradford City (39)
+?,(Sat) 16 Feb 1974 (6),Peterborough United (19),1-0,?,Brentford FC (39)
+?,(Sat) 23 Mar 1974 (11),Peterborough United (20),2-2,?,Bury FC (39)
+?,(Sat) 2 Feb 1974 (4),Peterborough United (21),0-0,?,Chester FC (39)
+?,(Sat) 2 Mar 1974 (8),Peterborough United (22),2-0,?,Colchester United (39)
+?,(Sat) 6 Apr 1974 (13),Peterborough United (23),4-0,?,Crewe Alexandra (39)
+?,(Sat) 20 Apr 1974 (15),Peterborough United (24),1-0,?,Darlington FC (39)
+?,(Mon) 17 Sep 1973 (38),Peterborough United (25),5-1,?,Doncaster Rovers (39)
+?,(Sat) 3 Nov 1973 (44),Peterborough United (26),2-0,?,Exeter City (39)
+?,(Wed) 1 May 1974 (17),Peterborough United (27),4-2,?,Gillingham FC (39)
+?,(Sat) 1 Dec 1973 (48),Peterborough United (28),2-0,?,Hartlepool United (39)
+?,(Mon) 22 Oct 1973 (43),Peterborough United (29),1-0,?,Lincoln City (39)
+?,(Sat) 25 Aug 1973 (34),Peterborough United (30),2-1,?,Mansfield Town (39)
+?,(Sat) 9 Mar 1974 (9),Peterborough United (31),2-0,?,Newport County AFC (39)
+?,(Sat) 17 Nov 1973 (46),Peterborough United (32),3-0,?,Northampton Town (39)
+?,(Sat) 22 Dec 1973 (51),Peterborough United (33),2-0,?,Reading FC (17)
+?,(Mon) 25 Mar 1974 (12),Peterborough United (34),2-0,?,Rotherham United (17)
+?,(Sat) 8 Sep 1973 (36),Peterborough United (35),1-0,?,Scunthorpe United (17)
+?,(Tue) 1 Jan 1974 (0),Peterborough United (36),3-2,?,Stockport County (17)
+?,(Sat) 20 Oct 1973 (42),Peterborough United (37),3-0,?,Swansea City (17)
+?,(Sat) 22 Sep 1973 (38),Peterborough United (38),1-1,?,Torquay United (17)
+?,(Sat) 6 Oct 1973 (40),Peterborough United (39),2-0,?,Workington (17)
+?,(Wed) 20 Mar 1974 (11),Reading FC (18),1-0,?,Barnsley FC (40)
+?,(Sun) 24 Mar 1974 (11),Reading FC (19),0-0,?,Bradford City (40)
+?,(Wed) 3 Oct 1973 (40),Reading FC (20),1-0,?,Brentford FC (40)
+?,(Sat) 15 Sep 1973 (37),Reading FC (21),2-2,?,Bury FC (40)
+?,(Mon) 22 Apr 1974 (16),Reading FC (22),3-0,?,Chester FC (40)
+?,(Wed) 24 Oct 1973 (43),Reading FC (23),1-1,?,Colchester United (40)
+?,(Sat) 5 Jan 1974 (0),Reading FC (24),2-0,?,Crewe Alexandra (40)
+?,(Sat) 1 Sep 1973 (35),Reading FC (25),2-0,?,Darlington FC (40)
+?,(Sun) 24 Feb 1974 (7),Reading FC (26),5-0,?,Doncaster Rovers (40)
+?,(Sun) 10 Feb 1974 (5),Reading FC (27),4-1,?,Exeter City (40)
+?,(Sat) 3 Nov 1973 (44),Reading FC (28),0-1,?,Gillingham FC (40)
+?,(Sat) 29 Dec 1973 (52),Reading FC (29),1-1,?,Hartlepool United (40)
+?,(Sat) 13 Oct 1973 (41),Reading FC (30),0-0,?,Lincoln City (40)
+?,(Sat) 20 Oct 1973 (42),Reading FC (31),3-0,?,Mansfield Town (40)
+?,(Sat) 19 Jan 1974 (2),Reading FC (32),1-1,?,Newport County AFC (40)
+?,(Wed) 3 Apr 1974 (13),Reading FC (33),1-2,?,Northampton Town (40)
+?,(Sat) 29 Sep 1973 (39),Reading FC (34),1-1,?,Peterborough United (40)
+?,(Sat) 17 Nov 1973 (46),Reading FC (35),1-0,?,Rotherham United (18)
+?,(Sat) 6 Apr 1974 (13),Reading FC (36),0-0,?,Scunthorpe United (18)
+?,(Sat) 20 Apr 1974 (15),Reading FC (37),1-1,?,Stockport County (18)
+?,(Wed) 26 Dec 1973 (52),Reading FC (38),1-2,?,Swansea City (18)
+?,(Fri) 12 Apr 1974 (14),Reading FC (39),4-0,?,Torquay United (18)
+?,(Sun) 10 Mar 1974 (9),Reading FC (40),2-0,?,Workington (18)
+?,(Wed) 26 Dec 1973 (52),Rotherham United (19),2-1,?,Barnsley FC (41)
+?,(Tue) 23 Oct 1973 (43),Rotherham United (20),2-1,?,Bradford City (41)
+?,(Sat) 16 Mar 1974 (10),Rotherham United (21),1-1,?,Brentford FC (41)
+?,(Sat) 29 Sep 1973 (39),Rotherham United (22),1-0,?,Bury FC (41)
+?,(Sat) 30 Mar 1974 (12),Rotherham United (23),3-2,?,Chester FC (41)
+?,(Sat) 27 Oct 1973 (43),Rotherham United (24),0-0,?,Colchester United (41)
+?,(Sat) 29 Dec 1973 (52),Rotherham United (25),1-1,?,Crewe Alexandra (41)
+?,(Sat) 23 Feb 1974 (7),Rotherham United (26),0-1,?,Darlington FC (41)
+?,(Tue) 19 Mar 1974 (11),Rotherham United (27),1-2,?,Doncaster Rovers (41)
+?,(Sat) 13 Oct 1973 (41),Rotherham United (28),4-0,?,Exeter City (41)
+?,(Tue) 18 Sep 1973 (38),Rotherham United (29),1-1,?,Gillingham FC (41)
+?,(Sat) 15 Sep 1973 (37),Rotherham United (30),2-2,?,Hartlepool United (41)
+?,(Tue) 2 Apr 1974 (13),Rotherham United (31),2-0,?,Lincoln City (41)
+?,(Sat) 27 Apr 1974 (16),Rotherham United (32),2-1,?,Mansfield Town (41)
+?,(Sun) 10 Feb 1974 (5),Rotherham United (33),1-1,?,Newport County AFC (41)
+?,(Sun) 20 Jan 1974 (2),Rotherham United (34),1-2,?,Northampton Town (41)
+?,(Sat) 11 May 1974 (18),Rotherham United (35),3-1,?,Peterborough United (41)
+?,(Sat) 13 Apr 1974 (14),Rotherham United (36),1-1,?,Reading FC (41)
+?,(Mon) 15 Apr 1974 (15),Rotherham United (37),1-1,?,Scunthorpe United (19)
+?,(Sat) 10 Nov 1973 (45),Rotherham United (38),1-2,?,Stockport County (19)
+?,(Sat) 1 Sep 1973 (35),Rotherham United (39),1-0,?,Swansea City (19)
+?,(Tue) 13 Nov 1973 (46),Rotherham United (40),1-0,?,Torquay United (19)
+?,(Sat) 8 Dec 1973 (49),Rotherham United (41),1-1,?,Workington (19)
+?,(Sat) 1 Sep 1973 (35),Scunthorpe United (20),3-0,?,Barnsley FC (42)
+?,(Tue) 18 Sep 1973 (38),Scunthorpe United (21),2-1,?,Bradford City (42)
+?,(Sat) 27 Oct 1973 (43),Scunthorpe United (22),4-1,?,Brentford FC (42)
+?,(Tue) 30 Apr 1974 (17),Scunthorpe United (23),1-2,?,Bury FC (42)
+?,(Sat) 10 Nov 1973 (45),Scunthorpe United (24),2-1,?,Chester FC (42)
+?,(Sat) 16 Mar 1974 (10),Scunthorpe United (25),1-0,?,Colchester United (42)
+?,(Fri) 14 Sep 1973 (37),Scunthorpe United (26),0-0,?,Crewe Alexandra (42)
+?,(Tue) 19 Mar 1974 (11),Scunthorpe United (27),1-0,?,Darlington FC (42)
+?,(Wed) 26 Dec 1973 (52),Scunthorpe United (28),2-1,?,Doncaster Rovers (42)
+?,(Tue) 23 Oct 1973 (43),Scunthorpe United (29),1-1,?,Gillingham FC (42)
+?,(Sat) 29 Sep 1973 (39),Scunthorpe United (30),1-1,?,Hartlepool United (42)
+?,(Sat) 19 Jan 1974 (2),Scunthorpe United (31),1-1,?,Lincoln City (42)
+?,(Sat) 8 Dec 1973 (49),Scunthorpe United (32),5-3,?,Mansfield Town (42)
+?,(Sat) 13 Oct 1973 (41),Scunthorpe United (33),0-0,?,Newport County AFC (42)
+?,(Sun) 10 Feb 1974 (5),Scunthorpe United (34),1-2,?,Northampton Town (42)
+?,(Sat) 29 Dec 1973 (52),Scunthorpe United (35),2-1,?,Peterborough United (42)
+?,(Tue) 13 Nov 1973 (46),Scunthorpe United (36),1-0,?,Reading FC (42)
+?,(Tue) 16 Apr 1974 (15),Scunthorpe United (37),3-0,?,Rotherham United (42)
+?,(Sat) 30 Mar 1974 (12),Scunthorpe United (38),2-1,?,Stockport County (20)
+?,(Sat) 23 Feb 1974 (7),Scunthorpe United (39),0-0,?,Swansea City (20)
+?,(Sat) 13 Apr 1974 (14),Scunthorpe United (40),0-0,?,Torquay United (20)
+?,(Sat) 27 Apr 1974 (16),Scunthorpe United (41),0-1,?,Workington (20)
+?,(Sun) 10 Feb 1974 (5),Stockport County (21),1-1,?,Barnsley FC (43)
+?,(Sat) 20 Oct 1973 (42),Stockport County (22),0-1,?,Bradford City (43)
+?,(Mon) 12 Nov 1973 (46),Stockport County (23),1-1,?,Brentford FC (43)
+?,(Wed) 26 Dec 1973 (52),Stockport County (24),3-2,?,Bury FC (43)
+?,(Mon) 15 Apr 1974 (15),Stockport County (25),0-1,?,Chester FC (43)
+?,(Sat) 15 Dec 1973 (50),Stockport County (26),0-3,?,Colchester United (43)
+?,(Sun) 24 Feb 1974 (7),Stockport County (27),0-0,?,Crewe Alexandra (43)
+?,(Mon) 1 Apr 1974 (13),Stockport County (28),1-2,?,Darlington FC (43)
+?,(Sun) 20 Jan 1974 (2),Stockport County (29),0-0,?,Doncaster Rovers (43)
+?,(Sat) 5 Jan 1974 (0),Stockport County (30),0-1,?,Exeter City (42)
+?,(Sun) 10 Mar 1974 (9),Stockport County (31),2-0,?,Gillingham FC (43)
+?,(Mon) 22 Apr 1974 (16),Stockport County (32),1-1,?,Hartlepool United (43)
+?,(Sat) 29 Dec 1973 (52),Stockport County (33),2-2,?,Lincoln City (43)
+?,(Mon) 10 Sep 1973 (37),Stockport County (34),1-1,?,Mansfield Town (43)
+?,(Fri) 28 Sep 1973 (39),Stockport County (35),1-1,?,Newport County AFC (43)
+?,(Fri) 14 Sep 1973 (37),Stockport County (36),2-2,?,Northampton Town (43)
+?,(Sat) 1 Sep 1973 (35),Stockport County (37),1-1,?,Peterborough United (43)
+?,(Sat) 8 Dec 1973 (49),Stockport County (38),0-0,?,Reading FC (43)
+?,(Sat) 23 Mar 1974 (11),Stockport County (39),0-1,?,Rotherham United (43)
+?,(Fri) 2 Nov 1973 (44),Stockport County (40),3-1,?,Scunthorpe United (42)
+?,(Sat) 13 Oct 1973 (41),Stockport County (41),0-1,?,Swansea City (21)
+?,(Fri) 26 Apr 1974 (16),Stockport County (42),2-1,?,Torquay United (21)
+?,(Mon) 1 Oct 1973 (40),Stockport County (43),1-1,?,Workington (21)
+?,(Sat) 27 Oct 1973 (43),Swansea City (22),2-0,?,Barnsley FC (44)
+?,(Sun) 3 Feb 1974 (4),Swansea City (23),0-1,?,Bradford City (44)
+?,(Tue) 26 Mar 1974 (12),Swansea City (24),0-0,?,Brentford FC (44)
+?,(Sat) 20 Apr 1974 (15),Swansea City (25),0-1,?,Bury FC (44)
+?,(Sat) 25 Aug 1973 (34),Swansea City (26),2-0,?,Chester FC (44)
+?,(Sat) 22 Sep 1973 (38),Swansea City (27),2-0,?,Colchester United (44)
+?,(Tue) 23 Oct 1973 (43),Swansea City (28),2-0,?,Crewe Alexandra (44)
+?,(Sat) 6 Apr 1974 (13),Swansea City (29),0-0,?,Darlington FC (44)
+?,(Sat) 30 Mar 1974 (12),Swansea City (30),0-0,?,Doncaster Rovers (44)
+?,(Sat) 1 Dec 1973 (48),Swansea City (31),2-0,?,Exeter City (43)
+?,(Sat) 8 Sep 1973 (36),Swansea City (32),0-3,?,Gillingham FC (44)
+?,(Sat) 17 Nov 1973 (46),Swansea City (33),0-0,?,Hartlepool United (44)
+?,(Sat) 10 Nov 1973 (45),Swansea City (34),3-0,?,Lincoln City (44)
+?,(Sat) 12 Jan 1974 (1),Swansea City (35),2-0,?,Mansfield Town (44)
+?,(Mon) 15 Apr 1974 (15),Swansea City (36),1-1,?,Newport County AFC (44)
+?,(Tue) 18 Sep 1973 (38),Swansea City (37),1-1,?,Northampton Town (44)
+?,(Sat) 16 Mar 1974 (10),Swansea City (38),0-2,?,Peterborough United (44)
+?,(Sun) 3 Mar 1974 (8),Swansea City (39),2-1,?,Reading FC (44)
+?,(Tue) 1 Jan 1974 (0),Swansea City (40),4-2,?,Rotherham United (44)
+?,(Sat) 6 Oct 1973 (40),Swansea City (41),1-2,?,Scunthorpe United (43)
+?,(Sun) 17 Feb 1974 (6),Swansea City (42),3-0,?,Stockport County (44)
+?,(Sat) 22 Dec 1973 (51),Swansea City (43),0-1,?,Torquay United (22)
+?,(Sun) 27 Jan 1974 (3),Swansea City (44),1-0,?,Workington (22)
+?,(Sat) 15 Sep 1973 (37),Torquay United (23),1-1,?,Barnsley FC (45)
+?,(Sat) 3 Nov 1973 (44),Torquay United (24),1-0,?,Bradford City (45)
+?,(Wed) 24 Oct 1973 (43),Torquay United (25),3-0,?,Brentford FC (45)
+?,(Sat) 19 Jan 1974 (2),Torquay United (26),1-2,?,Bury FC (45)
+?,(Sat) 20 Apr 1974 (15),Torquay United (27),2-2,?,Chester FC (45)
+?,(Wed) 19 Sep 1973 (38),Torquay United (28),0-4,?,Colchester United (45)
+?,(Sat) 13 Oct 1973 (41),Torquay United (29),2-1,?,Crewe Alexandra (45)
+?,(Sat) 5 Jan 1974 (0),Torquay United (30),0-0,?,Darlington FC (45)
+?,(Sat) 29 Dec 1973 (52),Torquay United (31),3-0,?,Doncaster Rovers (45)
+?,(Wed) 26 Dec 1973 (52),Torquay United (32),0-0,?,Exeter City (44)
+?,(Sat) 23 Mar 1974 (11),Torquay United (33),0-1,?,Gillingham FC (45)
+?,(Wed) 3 Apr 1974 (13),Torquay United (34),0-2,?,Hartlepool United (45)
+?,(Sat) 1 Sep 1973 (35),Torquay United (35),2-1,?,Lincoln City (45)
+?,(Sun) 10 Mar 1974 (9),Torquay United (36),4-0,?,Mansfield Town (45)
+?,(Sat) 15 Dec 1973 (50),Torquay United (37),3-2,?,Newport County AFC (45)
+?,(Sun) 24 Feb 1974 (7),Torquay United (38),1-0,?,Northampton Town (45)
+?,(Tue) 7 May 1974 (18),Torquay United (39),1-2,?,Peterborough United (45)
+?,(Mon) 15 Apr 1974 (15),Torquay United (40),1-1,?,Reading FC (45)
+?,(Sat) 6 Apr 1974 (13),Torquay United (41),3-0,?,Rotherham United (45)
+?,(Sat) 17 Nov 1973 (46),Torquay United (42),1-1,?,Scunthorpe United (44)
+?,(Sat) 1 Dec 1973 (48),Torquay United (43),2-2,?,Stockport County (45)
+?,(Sat) 29 Sep 1973 (39),Torquay United (44),3-1,?,Swansea City (45)
+?,(Sat) 20 Oct 1973 (42),Torquay United (45),3-0,?,Workington (23)
+?,(Sat) 13 Oct 1973 (41),Workington (24),1-0,?,Barnsley FC (46)
+?,(Sat) 17 Nov 1973 (46),Workington (25),1-0,?,Bradford City (46)
+?,(Sat) 10 Nov 1973 (45),Workington (26),0-2,?,Brentford FC (46)
+?,(Sat) 1 Sep 1973 (35),Workington (27),0-0,?,Bury FC (46)
+?,(Wed) 24 Oct 1973 (43),Workington (28),1-1,?,Chester FC (46)
+?,(Sat) 30 Mar 1974 (12),Workington (29),1-4,?,Colchester United (46)
+?,(Wed) 24 Apr 1974 (16),Workington (30),0-0,?,Crewe Alexandra (46)
+?,(Sun) 20 Jan 1974 (2),Workington (31),5-2,?,Darlington FC (46)
+?,(Sun) 10 Feb 1974 (5),Workington (32),3-1,?,Doncaster Rovers (46)
+?,(Sat) 15 Dec 1973 (50),Workington (33),3-1,?,Exeter City (45)
+?,(Sat) 6 Apr 1974 (13),Workington (34),3-3,?,Gillingham FC (46)
+?,(Wed) 26 Dec 1973 (52),Workington (35),0-2,?,Hartlepool United (46)
+?,(Sat) 15 Sep 1973 (37),Workington (36),1-1,?,Lincoln City (46)
+?,(Mon) 15 Apr 1974 (15),Workington (37),0-0,?,Mansfield Town (46)
+?,(Sat) 5 Jan 1974 (0),Workington (38),3-2,?,Newport County AFC (46)
+?,(Sat) 29 Sep 1973 (39),Workington (39),1-0,?,Northampton Town (46)
+?,(Sun) 24 Feb 1974 (7),Workington (40),4-1,?,Peterborough United (46)
+?,(Sat) 27 Oct 1973 (43),Workington (41),0-0,?,Reading FC (46)
+?,(Sat) 20 Apr 1974 (15),Workington (42),0-2,?,Rotherham United (46)
+?,(Wed) 10 Apr 1974 (14),Workington (43),1-2,?,Scunthorpe United (45)
+?,(Wed) 19 Sep 1973 (38),Workington (44),1-1,?,Stockport County (46)
+?,(Wed) 3 Apr 1974 (13),Workington (45),1-0,?,Swansea City (46)
+?,(Sun) 17 Mar 1974 (10),Workington (46),3-1,?,Torquay United (46)

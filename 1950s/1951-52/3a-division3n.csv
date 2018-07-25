@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barrow,Accrington Stanley,3-1,-
--,-,Bradford City,Accrington Stanley,1-3,-
--,-,Bradford Park Avenue,Accrington Stanley,1-1,-
--,-,Carlisle United,Accrington Stanley,4-1,-
--,-,Chester,Accrington Stanley,3-1,-
--,-,Chesterfield,Accrington Stanley,2-0,-
--,-,Crewe Alexandra,Accrington Stanley,3-3,-
--,-,Darlington,Accrington Stanley,4-5,-
--,-,Gateshead,Accrington Stanley,1-0,-
--,-,Grimsby Town,Accrington Stanley,2-1,-
--,-,Halifax Town,Accrington Stanley,0-4,-
--,-,Hartlepool United,Accrington Stanley,4-2,-
--,-,Lincoln City,Accrington Stanley,2-2,-
--,-,Mansfield Town,Accrington Stanley,3-0,-
--,-,Oldham Athletic,Accrington Stanley,3-1,-
--,-,Rochdale,Accrington Stanley,3-1,-
--,-,Scunthorpe United,Accrington Stanley,3-1,-
--,-,Southport,Accrington Stanley,0-0,-
--,-,Stockport County,Accrington Stanley,6-0,-
--,-,Tranmere Rovers,Accrington Stanley,3-1,-
--,-,Workington,Accrington Stanley,0-2,-
--,-,Wrexham,Accrington Stanley,1-0,-
--,-,York City,Accrington Stanley,6-1,-
--,-,Accrington Stanley,Barrow,1-1,-
--,-,Bradford City,Barrow,2-2,-
--,-,Bradford Park Avenue,Barrow,3-1,-
--,-,Carlisle United,Barrow,0-1,-
--,-,Chester,Barrow,0-0,-
--,-,Chesterfield,Barrow,2-0,-
--,-,Crewe Alexandra,Barrow,1-1,-
--,-,Darlington,Barrow,1-2,-
--,-,Gateshead,Barrow,2-0,-
--,-,Grimsby Town,Barrow,1-0,-
--,-,Halifax Town,Barrow,0-1,-
--,-,Hartlepool United,Barrow,3-1,-
--,-,Lincoln City,Barrow,3-0,-
--,-,Mansfield Town,Barrow,2-1,-
--,-,Oldham Athletic,Barrow,3-1,-
--,-,Rochdale,Barrow,4-1,-
--,-,Scunthorpe United,Barrow,0-0,-
--,-,Southport,Barrow,2-2,-
--,-,Stockport County,Barrow,2-2,-
--,-,Tranmere Rovers,Barrow,3-1,-
--,-,Workington,Barrow,3-1,-
--,-,Wrexham,Barrow,2-4,-
--,-,York City,Barrow,2-1,-
--,-,Accrington Stanley,Bradford City,0-1,-
--,-,Barrow,Bradford City,1-0,-
--,-,Bradford Park Avenue,Bradford City,2-1,-
--,-,Carlisle United,Bradford City,1-0,-
--,-,Chester,Bradford City,1-0,-
--,-,Chesterfield,Bradford City,2-2,-
--,-,Crewe Alexandra,Bradford City,0-1,-
--,-,Darlington,Bradford City,3-1,-
--,-,Gateshead,Bradford City,2-2,-
--,-,Grimsby Town,Bradford City,2-1,-
--,-,Halifax Town,Bradford City,1-1,-
--,-,Hartlepool United,Bradford City,2-1,-
--,-,Lincoln City,Bradford City,2-1,-
--,-,Mansfield Town,Bradford City,2-1,-
--,-,Oldham Athletic,Bradford City,2-1,-
--,-,Rochdale,Bradford City,1-1,-
--,-,Scunthorpe United,Bradford City,1-0,-
--,-,Southport,Bradford City,1-1,-
--,-,Stockport County,Bradford City,1-2,-
--,-,Tranmere Rovers,Bradford City,3-1,-
--,-,Workington,Bradford City,0-1,-
--,-,Wrexham,Bradford City,3-0,-
--,-,York City,Bradford City,3-1,-
--,-,Accrington Stanley,Bradford Park Avenue,5-1,-
--,-,Barrow,Bradford Park Avenue,0-2,-
--,-,Bradford City,Bradford Park Avenue,2-2,-
--,-,Carlisle United,Bradford Park Avenue,1-0,-
--,-,Chester,Bradford Park Avenue,4-2,-
--,-,Chesterfield,Bradford Park Avenue,0-0,-
--,-,Crewe Alexandra,Bradford Park Avenue,3-4,-
--,-,Darlington,Bradford Park Avenue,3-0,-
--,-,Gateshead,Bradford Park Avenue,0-1,-
--,-,Grimsby Town,Bradford Park Avenue,3-0,-
--,-,Halifax Town,Bradford Park Avenue,0-0,-
--,-,Hartlepool United,Bradford Park Avenue,2-1,-
--,-,Lincoln City,Bradford Park Avenue,2-0,-
--,-,Mansfield Town,Bradford Park Avenue,1-0,-
--,-,Oldham Athletic,Bradford Park Avenue,1-2,-
--,-,Rochdale,Bradford Park Avenue,1-1,-
--,-,Scunthorpe United,Bradford Park Avenue,0-0,-
--,-,Southport,Bradford Park Avenue,0-0,-
--,-,Stockport County,Bradford Park Avenue,1-0,-
--,-,Tranmere Rovers,Bradford Park Avenue,1-2,-
--,-,Workington,Bradford Park Avenue,2-3,-
--,-,Wrexham,Bradford Park Avenue,3-2,-
--,-,York City,Bradford Park Avenue,1-0,-
--,-,Accrington Stanley,Carlisle United,0-2,-
--,-,Barrow,Carlisle United,0-1,-
--,-,Bradford City,Carlisle United,1-2,-
--,-,Bradford Park Avenue,Carlisle United,0-1,-
--,-,Chester,Carlisle United,4-2,-
--,-,Chesterfield,Carlisle United,3-0,-
--,-,Crewe Alexandra,Carlisle United,1-1,-
--,-,Darlington,Carlisle United,1-2,-
--,-,Gateshead,Carlisle United,1-1,-
--,-,Grimsby Town,Carlisle United,4-1,-
--,-,Halifax Town,Carlisle United,1-2,-
--,-,Hartlepool United,Carlisle United,1-0,-
--,-,Lincoln City,Carlisle United,2-2,-
--,-,Mansfield Town,Carlisle United,1-2,-
--,-,Oldham Athletic,Carlisle United,2-0,-
--,-,Rochdale,Carlisle United,0-4,-
--,-,Scunthorpe United,Carlisle United,1-1,-
--,-,Southport,Carlisle United,2-1,-
--,-,Stockport County,Carlisle United,1-1,-
--,-,Tranmere Rovers,Carlisle United,3-2,-
--,-,Workington,Carlisle United,1-2,-
--,-,Wrexham,Carlisle United,3-1,-
--,-,York City,Carlisle United,0-0,-
--,-,Accrington Stanley,Chester,4-2,-
--,-,Barrow,Chester,1-0,-
--,-,Bradford City,Chester,1-0,-
--,-,Bradford Park Avenue,Chester,3-0,-
--,-,Carlisle United,Chester,0-0,-
--,-,Chesterfield,Chester,2-0,-
--,-,Crewe Alexandra,Chester,1-2,-
--,-,Darlington,Chester,1-1,-
--,-,Gateshead,Chester,1-0,-
--,-,Grimsby Town,Chester,2-1,-
--,-,Halifax Town,Chester,4-1,-
--,-,Hartlepool United,Chester,2-1,-
--,-,Lincoln City,Chester,4-1,-
--,-,Mansfield Town,Chester,3-1,-
--,-,Oldham Athletic,Chester,11-2,-
--,-,Rochdale,Chester,0-5,-
--,-,Scunthorpe United,Chester,2-2,-
--,-,Southport,Chester,1-0,-
--,-,Stockport County,Chester,0-0,-
--,-,Tranmere Rovers,Chester,3-1,-
--,-,Workington,Chester,2-2,-
--,-,Wrexham,Chester,3-2,-
--,-,York City,Chester,4-2,-
--,-,Accrington Stanley,Chesterfield,2-0,-
--,-,Barrow,Chesterfield,2-0,-
--,-,Bradford City,Chesterfield,1-0,-
--,-,Bradford Park Avenue,Chesterfield,3-3,-
--,-,Carlisle United,Chesterfield,2-3,-
--,-,Chester,Chesterfield,3-0,-
--,-,Crewe Alexandra,Chesterfield,2-1,-
--,-,Darlington,Chesterfield,3-0,-
--,-,Gateshead,Chesterfield,1-1,-
--,-,Grimsby Town,Chesterfield,2-0,-
--,-,Halifax Town,Chesterfield,0-0,-
--,-,Hartlepool United,Chesterfield,4-1,-
--,-,Lincoln City,Chesterfield,5-1,-
--,-,Mansfield Town,Chesterfield,2-1,-
--,-,Oldham Athletic,Chesterfield,3-0,-
--,-,Rochdale,Chesterfield,2-0,-
--,-,Scunthorpe United,Chesterfield,1-1,-
--,-,Southport,Chesterfield,4-1,-
--,-,Stockport County,Chesterfield,2-1,-
--,-,Tranmere Rovers,Chesterfield,2-0,-
--,-,Workington,Chesterfield,3-1,-
--,-,Wrexham,Chesterfield,0-3,-
--,-,York City,Chesterfield,1-0,-
--,-,Accrington Stanley,Crewe Alexandra,2-3,-
--,-,Barrow,Crewe Alexandra,2-1,-
--,-,Bradford City,Crewe Alexandra,0-2,-
--,-,Bradford Park Avenue,Crewe Alexandra,3-2,-
--,-,Carlisle United,Crewe Alexandra,2-0,-
--,-,Chester,Crewe Alexandra,2-0,-
--,-,Chesterfield,Crewe Alexandra,0-0,-
--,-,Darlington,Crewe Alexandra,0-1,-
--,-,Gateshead,Crewe Alexandra,1-0,-
--,-,Grimsby Town,Crewe Alexandra,0-1,-
--,-,Halifax Town,Crewe Alexandra,2-3,-
--,-,Hartlepool United,Crewe Alexandra,3-0,-
--,-,Lincoln City,Crewe Alexandra,11-1,-
--,-,Mansfield Town,Crewe Alexandra,2-1,-
--,-,Oldham Athletic,Crewe Alexandra,5-2,-
--,-,Rochdale,Crewe Alexandra,1-0,-
--,-,Scunthorpe United,Crewe Alexandra,2-0,-
--,-,Southport,Crewe Alexandra,1-1,-
--,-,Stockport County,Crewe Alexandra,4-2,-
--,-,Tranmere Rovers,Crewe Alexandra,1-0,-
--,-,Workington,Crewe Alexandra,3-1,-
--,-,Wrexham,Crewe Alexandra,4-0,-
--,-,York City,Crewe Alexandra,3-0,-
--,-,Accrington Stanley,Darlington,1-3,-
--,-,Barrow,Darlington,2-2,-
--,-,Bradford City,Darlington,3-1,-
--,-,Bradford Park Avenue,Darlington,2-0,-
--,-,Carlisle United,Darlington,1-1,-
--,-,Chester,Darlington,2-0,-
--,-,Chesterfield,Darlington,4-2,-
--,-,Crewe Alexandra,Darlington,3-0,-
--,-,Gateshead,Darlington,2-2,-
--,-,Grimsby Town,Darlington,3-0,-
--,-,Halifax Town,Darlington,4-1,-
--,-,Hartlepool United,Darlington,2-0,-
--,-,Lincoln City,Darlington,7-2,-
--,-,Mansfield Town,Darlington,3-2,-
--,-,Oldham Athletic,Darlington,3-2,-
--,-,Rochdale,Darlington,6-2,-
--,-,Scunthorpe United,Darlington,5-2,-
--,-,Southport,Darlington,3-0,-
--,-,Stockport County,Darlington,5-0,-
--,-,Tranmere Rovers,Darlington,3-0,-
--,-,Workington,Darlington,2-1,-
--,-,Wrexham,Darlington,1-1,-
--,-,York City,Darlington,2-1,-
--,-,Accrington Stanley,Gateshead,1-2,-
--,-,Barrow,Gateshead,2-1,-
--,-,Bradford City,Gateshead,1-1,-
--,-,Bradford Park Avenue,Gateshead,2-0,-
--,-,Carlisle United,Gateshead,0-0,-
--,-,Chester,Gateshead,0-3,-
--,-,Chesterfield,Gateshead,1-0,-
--,-,Crewe Alexandra,Gateshead,4-2,-
--,-,Darlington,Gateshead,3-2,-
--,-,Grimsby Town,Gateshead,2-0,-
--,-,Halifax Town,Gateshead,0-1,-
--,-,Hartlepool United,Gateshead,1-0,-
--,-,Lincoln City,Gateshead,1-0,-
--,-,Mansfield Town,Gateshead,2-3,-
--,-,Oldham Athletic,Gateshead,2-0,-
--,-,Rochdale,Gateshead,0-3,-
--,-,Scunthorpe United,Gateshead,1-1,-
--,-,Southport,Gateshead,0-2,-
--,-,Stockport County,Gateshead,0-0,-
--,-,Tranmere Rovers,Gateshead,5-1,-
--,-,Workington,Gateshead,1-2,-
--,-,Wrexham,Gateshead,2-1,-
--,-,York City,Gateshead,1-0,-
--,-,Accrington Stanley,Grimsby Town,0-3,-
--,-,Barrow,Grimsby Town,3-1,-
--,-,Bradford City,Grimsby Town,0-2,-
--,-,Bradford Park Avenue,Grimsby Town,3-2,-
--,-,Carlisle United,Grimsby Town,1-2,-
--,-,Chester,Grimsby Town,0-3,-
--,-,Chesterfield,Grimsby Town,3-1,-
--,-,Crewe Alexandra,Grimsby Town,1-2,-
--,-,Darlington,Grimsby Town,0-2,-
--,-,Gateshead,Grimsby Town,1-1,-
--,-,Halifax Town,Grimsby Town,3-0,-
--,-,Hartlepool United,Grimsby Town,2-1,-
--,-,Lincoln City,Grimsby Town,0-2,-
--,-,Mansfield Town,Grimsby Town,2-2,-
--,-,Oldham Athletic,Grimsby Town,1-1,-
--,-,Rochdale,Grimsby Town,0-0,-
--,-,Scunthorpe United,Grimsby Town,1-3,-
--,-,Southport,Grimsby Town,2-0,-
--,-,Stockport County,Grimsby Town,1-1,-
--,-,Tranmere Rovers,Grimsby Town,2-3,-
--,-,Workington,Grimsby Town,2-4,-
--,-,Wrexham,Grimsby Town,2-0,-
--,-,York City,Grimsby Town,1-1,-
--,-,Accrington Stanley,Halifax Town,2-2,-
--,-,Barrow,Halifax Town,0-0,-
--,-,Bradford City,Halifax Town,3-2,-
--,-,Bradford Park Avenue,Halifax Town,6-1,-
--,-,Carlisle United,Halifax Town,2-2,-
--,-,Chester,Halifax Town,5-1,-
--,-,Chesterfield,Halifax Town,3-1,-
--,-,Crewe Alexandra,Halifax Town,4-1,-
--,-,Darlington,Halifax Town,0-2,-
--,-,Gateshead,Halifax Town,3-0,-
--,-,Grimsby Town,Halifax Town,8-1,-
--,-,Hartlepool United,Halifax Town,6-1,-
--,-,Lincoln City,Halifax Town,4-1,-
--,-,Mansfield Town,Halifax Town,4-2,-
--,-,Oldham Athletic,Halifax Town,2-0,-
--,-,Rochdale,Halifax Town,0-2,-
--,-,Scunthorpe United,Halifax Town,2-1,-
--,-,Southport,Halifax Town,3-2,-
--,-,Stockport County,Halifax Town,6-2,-
--,-,Tranmere Rovers,Halifax Town,1-2,-
--,-,Workington,Halifax Town,2-1,-
--,-,Wrexham,Halifax Town,2-1,-
--,-,York City,Halifax Town,6-2,-
--,-,Accrington Stanley,Hartlepool United,0-0,-
--,-,Barrow,Hartlepool United,2-1,-
--,-,Bradford City,Hartlepool United,0-2,-
--,-,Bradford Park Avenue,Hartlepool United,1-2,-
--,-,Carlisle United,Hartlepool United,2-1,-
--,-,Chester,Hartlepool United,3-3,-
--,-,Chesterfield,Hartlepool United,2-2,-
--,-,Crewe Alexandra,Hartlepool United,4-2,-
--,-,Darlington,Hartlepool United,2-1,-
--,-,Gateshead,Hartlepool United,2-0,-
--,-,Grimsby Town,Hartlepool United,2-0,-
--,-,Halifax Town,Hartlepool United,2-0,-
--,-,Lincoln City,Hartlepool United,4-3,-
--,-,Mansfield Town,Hartlepool United,0-1,-
--,-,Oldham Athletic,Hartlepool United,5-2,-
--,-,Rochdale,Hartlepool United,3-0,-
--,-,Scunthorpe United,Hartlepool United,2-0,-
--,-,Southport,Hartlepool United,2-0,-
--,-,Stockport County,Hartlepool United,0-1,-
--,-,Tranmere Rovers,Hartlepool United,4-1,-
--,-,Workington,Hartlepool United,1-1,-
--,-,Wrexham,Hartlepool United,0-0,-
--,-,York City,Hartlepool United,3-1,-
--,-,Accrington Stanley,Lincoln City,1-3,-
--,-,Barrow,Lincoln City,1-2,-
--,-,Bradford City,Lincoln City,1-1,-
--,-,Bradford Park Avenue,Lincoln City,1-1,-
--,-,Carlisle United,Lincoln City,1-4,-
--,-,Chester,Lincoln City,0-1,-
--,-,Chesterfield,Lincoln City,2-2,-
--,-,Crewe Alexandra,Lincoln City,0-2,-
--,-,Darlington,Lincoln City,1-1,-
--,-,Gateshead,Lincoln City,3-1,-
--,-,Grimsby Town,Lincoln City,2-3,-
--,-,Halifax Town,Lincoln City,1-3,-
--,-,Hartlepool United,Lincoln City,1-1,-
--,-,Mansfield Town,Lincoln City,1-0,-
--,-,Oldham Athletic,Lincoln City,4-1,-
--,-,Rochdale,Lincoln City,0-1,-
--,-,Scunthorpe United,Lincoln City,1-3,-
--,-,Southport,Lincoln City,0-3,-
--,-,Stockport County,Lincoln City,1-1,-
--,-,Tranmere Rovers,Lincoln City,2-2,-
--,-,Workington,Lincoln City,0-3,-
--,-,Wrexham,Lincoln City,4-2,-
--,-,York City,Lincoln City,1-0,-
--,-,Accrington Stanley,Mansfield Town,1-0,-
--,-,Barrow,Mansfield Town,1-1,-
--,-,Bradford City,Mansfield Town,2-1,-
--,-,Bradford Park Avenue,Mansfield Town,0-1,-
--,-,Carlisle United,Mansfield Town,0-0,-
--,-,Chester,Mansfield Town,1-5,-
--,-,Chesterfield,Mansfield Town,1-1,-
--,-,Crewe Alexandra,Mansfield Town,1-0,-
--,-,Darlington,Mansfield Town,2-1,-
--,-,Gateshead,Mansfield Town,4-1,-
--,-,Grimsby Town,Mansfield Town,1-1,-
--,-,Halifax Town,Mansfield Town,1-0,-
--,-,Hartlepool United,Mansfield Town,2-0,-
--,-,Lincoln City,Mansfield Town,1-2,-
--,-,Oldham Athletic,Mansfield Town,5-3,-
--,-,Rochdale,Mansfield Town,1-0,-
--,-,Scunthorpe United,Mansfield Town,4-1,-
--,-,Southport,Mansfield Town,0-1,-
--,-,Stockport County,Mansfield Town,2-1,-
--,-,Tranmere Rovers,Mansfield Town,1-1,-
--,-,Workington,Mansfield Town,0-1,-
--,-,Wrexham,Mansfield Town,3-1,-
--,-,York City,Mansfield Town,3-0,-
--,-,Accrington Stanley,Oldham Athletic,1-2,-
--,-,Barrow,Oldham Athletic,0-1,-
--,-,Bradford City,Oldham Athletic,5-2,-
--,-,Bradford Park Avenue,Oldham Athletic,1-0,-
--,-,Carlisle United,Oldham Athletic,3-3,-
--,-,Chester,Oldham Athletic,1-2,-
--,-,Chesterfield,Oldham Athletic,1-0,-
--,-,Crewe Alexandra,Oldham Athletic,3-1,-
--,-,Darlington,Oldham Athletic,2-2,-
--,-,Gateshead,Oldham Athletic,1-0,-
--,-,Grimsby Town,Oldham Athletic,3-1,-
--,-,Halifax Town,Oldham Athletic,1-0,-
--,-,Hartlepool United,Oldham Athletic,1-1,-
--,-,Lincoln City,Oldham Athletic,4-0,-
--,-,Mansfield Town,Oldham Athletic,2-1,-
--,-,Rochdale,Oldham Athletic,2-2,-
--,-,Scunthorpe United,Oldham Athletic,2-2,-
--,-,Southport,Oldham Athletic,0-0,-
--,-,Stockport County,Oldham Athletic,0-0,-
--,-,Tranmere Rovers,Oldham Athletic,0-4,-
--,-,Workington,Oldham Athletic,0-1,-
--,-,Wrexham,Oldham Athletic,1-0,-
--,-,York City,Oldham Athletic,5-0,-
--,-,Accrington Stanley,Rochdale,0-0,-
--,-,Barrow,Rochdale,4-0,-
--,-,Bradford City,Rochdale,3-0,-
--,-,Bradford Park Avenue,Rochdale,1-1,-
--,-,Carlisle United,Rochdale,1-1,-
--,-,Chester,Rochdale,4-0,-
--,-,Chesterfield,Rochdale,5-1,-
--,-,Crewe Alexandra,Rochdale,1-0,-
--,-,Darlington,Rochdale,2-1,-
--,-,Gateshead,Rochdale,1-0,-
--,-,Grimsby Town,Rochdale,4-0,-
--,-,Halifax Town,Rochdale,1-0,-
--,-,Hartlepool United,Rochdale,1-1,-
--,-,Lincoln City,Rochdale,2-0,-
--,-,Mansfield Town,Rochdale,1-1,-
--,-,Oldham Athletic,Rochdale,1-1,-
--,-,Scunthorpe United,Rochdale,3-1,-
--,-,Southport,Rochdale,1-2,-
--,-,Stockport County,Rochdale,1-0,-
--,-,Tranmere Rovers,Rochdale,4-3,-
--,-,Workington,Rochdale,1-1,-
--,-,Wrexham,Rochdale,2-0,-
--,-,York City,Rochdale,1-1,-
--,-,Accrington Stanley,Scunthorpe United,2-2,-
--,-,Barrow,Scunthorpe United,2-1,-
--,-,Bradford City,Scunthorpe United,1-0,-
--,-,Bradford Park Avenue,Scunthorpe United,2-2,-
--,-,Carlisle United,Scunthorpe United,3-0,-
--,-,Chester,Scunthorpe United,3-1,-
--,-,Chesterfield,Scunthorpe United,3-0,-
--,-,Crewe Alexandra,Scunthorpe United,2-2,-
--,-,Darlington,Scunthorpe United,2-3,-
--,-,Gateshead,Scunthorpe United,2-1,-
--,-,Grimsby Town,Scunthorpe United,3-2,-
--,-,Halifax Town,Scunthorpe United,2-1,-
--,-,Hartlepool United,Scunthorpe United,3-1,-
--,-,Lincoln City,Scunthorpe United,4-1,-
--,-,Mansfield Town,Scunthorpe United,4-1,-
--,-,Oldham Athletic,Scunthorpe United,2-0,-
--,-,Rochdale,Scunthorpe United,1-2,-
--,-,Southport,Scunthorpe United,5-1,-
--,-,Stockport County,Scunthorpe United,1-1,-
--,-,Tranmere Rovers,Scunthorpe United,3-1,-
--,-,Workington,Scunthorpe United,0-0,-
--,-,Wrexham,Scunthorpe United,1-2,-
--,-,York City,Scunthorpe United,0-1,-
--,-,Accrington Stanley,Southport,0-0,-
--,-,Barrow,Southport,0-0,-
--,-,Bradford City,Southport,2-1,-
--,-,Bradford Park Avenue,Southport,2-2,-
--,-,Carlisle United,Southport,0-2,-
--,-,Chester,Southport,2-1,-
--,-,Chesterfield,Southport,2-0,-
--,-,Crewe Alexandra,Southport,1-0,-
--,-,Darlington,Southport,1-1,-
--,-,Gateshead,Southport,3-0,-
--,-,Grimsby Town,Southport,4-1,-
--,-,Halifax Town,Southport,0-1,-
--,-,Hartlepool United,Southport,3-1,-
--,-,Lincoln City,Southport,4-0,-
--,-,Mansfield Town,Southport,4-0,-
--,-,Oldham Athletic,Southport,2-1,-
--,-,Rochdale,Southport,1-0,-
--,-,Scunthorpe United,Southport,1-1,-
--,-,Stockport County,Southport,3-1,-
--,-,Tranmere Rovers,Southport,5-1,-
--,-,Workington,Southport,6-1,-
--,-,Wrexham,Southport,3-0,-
--,-,York City,Southport,0-2,-
--,-,Accrington Stanley,Stockport County,0-3,-
--,-,Barrow,Stockport County,1-3,-
--,-,Bradford City,Stockport County,2-3,-
--,-,Bradford Park Avenue,Stockport County,4-2,-
--,-,Carlisle United,Stockport County,2-1,-
--,-,Chester,Stockport County,0-0,-
--,-,Chesterfield,Stockport County,0-1,-
--,-,Crewe Alexandra,Stockport County,1-0,-
--,-,Darlington,Stockport County,1-2,-
--,-,Gateshead,Stockport County,0-2,-
--,-,Grimsby Town,Stockport County,4-0,-
--,-,Halifax Town,Stockport County,1-2,-
--,-,Hartlepool United,Stockport County,0-1,-
--,-,Lincoln City,Stockport County,2-1,-
--,-,Mansfield Town,Stockport County,1-0,-
--,-,Oldham Athletic,Stockport County,1-0,-
--,-,Rochdale,Stockport County,0-0,-
--,-,Scunthorpe United,Stockport County,1-1,-
--,-,Southport,Stockport County,0-1,-
--,-,Tranmere Rovers,Stockport County,2-0,-
--,-,Workington,Stockport County,0-3,-
--,-,Wrexham,Stockport County,0-0,-
--,-,York City,Stockport County,0-1,-
--,-,Accrington Stanley,Tranmere Rovers,1-1,-
--,-,Barrow,Tranmere Rovers,2-0,-
--,-,Bradford City,Tranmere Rovers,2-0,-
--,-,Bradford Park Avenue,Tranmere Rovers,2-3,-
--,-,Carlisle United,Tranmere Rovers,1-0,-
--,-,Chester,Tranmere Rovers,4-1,-
--,-,Chesterfield,Tranmere Rovers,1-1,-
--,-,Crewe Alexandra,Tranmere Rovers,2-1,-
--,-,Darlington,Tranmere Rovers,2-2,-
--,-,Gateshead,Tranmere Rovers,4-1,-
--,-,Grimsby Town,Tranmere Rovers,1-0,-
--,-,Halifax Town,Tranmere Rovers,1-0,-
--,-,Hartlepool United,Tranmere Rovers,0-1,-
--,-,Lincoln City,Tranmere Rovers,3-0,-
--,-,Mansfield Town,Tranmere Rovers,3-0,-
--,-,Oldham Athletic,Tranmere Rovers,3-0,-
--,-,Rochdale,Tranmere Rovers,3-2,-
--,-,Scunthorpe United,Tranmere Rovers,2-0,-
--,-,Southport,Tranmere Rovers,1-0,-
--,-,Stockport County,Tranmere Rovers,2-0,-
--,-,Workington,Tranmere Rovers,1-2,-
--,-,Wrexham,Tranmere Rovers,0-1,-
--,-,York City,Tranmere Rovers,1-1,-
--,-,Accrington Stanley,Workington,0-0,-
--,-,Barrow,Workington,1-0,-
--,-,Bradford City,Workington,1-0,-
--,-,Bradford Park Avenue,Workington,2-1,-
--,-,Carlisle United,Workington,0-1,-
--,-,Chester,Workington,2-2,-
--,-,Chesterfield,Workington,3-1,-
--,-,Crewe Alexandra,Workington,2-0,-
--,-,Darlington,Workington,2-1,-
--,-,Gateshead,Workington,4-1,-
--,-,Grimsby Town,Workington,5-0,-
--,-,Halifax Town,Workington,3-1,-
--,-,Hartlepool United,Workington,0-1,-
--,-,Lincoln City,Workington,7-0,-
--,-,Mansfield Town,Workington,3-2,-
--,-,Oldham Athletic,Workington,0-1,-
--,-,Rochdale,Workington,2-0,-
--,-,Scunthorpe United,Workington,3-1,-
--,-,Southport,Workington,4-2,-
--,-,Stockport County,Workington,5-0,-
--,-,Tranmere Rovers,Workington,3-1,-
--,-,Wrexham,Workington,0-0,-
--,-,York City,Workington,5-1,-
--,-,Accrington Stanley,Wrexham,4-2,-
--,-,Barrow,Wrexham,3-1,-
--,-,Bradford City,Wrexham,3-2,-
--,-,Bradford Park Avenue,Wrexham,5-0,-
--,-,Carlisle United,Wrexham,2-0,-
--,-,Chester,Wrexham,2-1,-
--,-,Chesterfield,Wrexham,3-0,-
--,-,Crewe Alexandra,Wrexham,2-2,-
--,-,Darlington,Wrexham,2-1,-
--,-,Gateshead,Wrexham,1-1,-
--,-,Grimsby Town,Wrexham,1-0,-
--,-,Halifax Town,Wrexham,2-0,-
--,-,Hartlepool United,Wrexham,1-0,-
--,-,Lincoln City,Wrexham,3-2,-
--,-,Mansfield Town,Wrexham,3-0,-
--,-,Oldham Athletic,Wrexham,2-1,-
--,-,Rochdale,Wrexham,1-5,-
--,-,Scunthorpe United,Wrexham,0-0,-
--,-,Southport,Wrexham,2-1,-
--,-,Stockport County,Wrexham,0-0,-
--,-,Tranmere Rovers,Wrexham,3-1,-
--,-,Workington,Wrexham,2-0,-
--,-,York City,Wrexham,4-2,-
--,-,Accrington Stanley,York City,2-1,-
--,-,Barrow,York City,0-0,-
--,-,Bradford City,York City,3-3,-
--,-,Bradford Park Avenue,York City,2-1,-
--,-,Carlisle United,York City,2-1,-
--,-,Chester,York City,0-1,-
--,-,Chesterfield,York City,2-1,-
--,-,Crewe Alexandra,York City,0-0,-
--,-,Darlington,York City,1-0,-
--,-,Gateshead,York City,1-1,-
--,-,Grimsby Town,York City,0-0,-
--,-,Halifax Town,York City,1-1,-
--,-,Hartlepool United,York City,3-2,-
--,-,Lincoln City,York City,3-1,-
--,-,Mansfield Town,York City,1-1,-
--,-,Oldham Athletic,York City,2-0,-
--,-,Rochdale,York City,0-2,-
--,-,Scunthorpe United,York City,1-1,-
--,-,Southport,York City,2-1,-
--,-,Stockport County,York City,3-1,-
--,-,Tranmere Rovers,York City,2-0,-
--,-,Workington,York City,1-0,-
--,-,Wrexham,York City,1-1,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 15 Sep 1951 (37),Accrington Stanley (1),1-1,?,Barrow AFC (1)
+?,(Sat) 20 Oct 1951 (42),Accrington Stanley (2),0-1,?,Bradford City (1)
+?,(Wed) 30 Apr 1952 (17),Accrington Stanley (3),5-1,?,Bradford Park Avenue (1)
+?,(Sat) 22 Dec 1951 (51),Accrington Stanley (4),0-2,?,Carlisle United (1)
+?,(Sat) 3 Nov 1951 (44),Accrington Stanley (5),4-2,?,Chester FC (1)
+?,(Fri) 11 Apr 1952 (14),Accrington Stanley (6),2-0,?,Chesterfield FC (1)
+?,(Sat) 26 Apr 1952 (16),Accrington Stanley (7),2-3,?,Crewe Alexandra (1)
+?,(Wed) 26 Dec 1951 (52),Accrington Stanley (8),1-3,?,Darlington FC (1)
+?,(Sat) 18 Aug 1951 (33),Accrington Stanley (9),1-2,?,Gateshead FC (1)
+?,(Sat) 26 Jan 1952 (3),Accrington Stanley (10),0-3,?,Grimsby Town (1)
+?,(Tue) 25 Sep 1951 (39),Accrington Stanley (11),2-2,?,Halifax Town (1)
+?,(Sat) 1 Mar 1952 (8),Accrington Stanley (12),0-0,?,Hartlepool United (1)
+?,(Sat) 29 Mar 1952 (12),Accrington Stanley (13),1-3,?,Lincoln City (1)
+?,(Wed) 22 Aug 1951 (34),Accrington Stanley (14),1-0,?,Mansfield Town (1)
+?,(Sat) 6 Oct 1951 (40),Accrington Stanley (15),1-2,?,Oldham Athletic (1)
+?,(Wed) 2 Apr 1952 (13),Accrington Stanley (16),0-0,?,Rochdale AFC (1)
+?,(Sat) 17 Nov 1951 (46),Accrington Stanley (17),2-2,?,Scunthorpe United (1)
+?,(Sat) 1 Dec 1951 (48),Accrington Stanley (18),0-0,?,Southport FC (1)
+?,(Sat) 1 Sep 1951 (35),Accrington Stanley (19),0-3,?,Stockport County (1)
+?,(Sat) 12 Apr 1952 (14),Accrington Stanley (20),1-1,?,Tranmere Rovers (1)
+?,(Sat) 5 Jan 1952 (0),Accrington Stanley (21),0-0,?,Workington (1)
+?,(Sat) 29 Sep 1951 (39),Accrington Stanley (22),4-2,?,Wrexham AFC (1)
+?,(Sat) 15 Mar 1952 (10),Accrington Stanley (23),2-1,?,York City (1)
+?,(Sat) 19 Jan 1952 (2),Barrow AFC (2),3-1,?,Accrington Stanley (24)
+?,(Sat) 17 Nov 1951 (46),Barrow AFC (3),1-0,?,Bradford City (2)
+?,(Thu) 27 Mar 1952 (12),Barrow AFC (4),0-2,?,Bradford Park Avenue (2)
+?,(Sat) 22 Sep 1951 (38),Barrow AFC (5),0-1,?,Carlisle United (2)
+?,(Sat) 1 Dec 1951 (48),Barrow AFC (6),1-0,?,Chester FC (2)
+?,(Sat) 12 Jan 1952 (1),Barrow AFC (7),2-0,?,Chesterfield FC (2)
+?,(Sat) 1 Mar 1952 (8),Barrow AFC (8),2-1,?,Crewe Alexandra (2)
+?,(Sat) 15 Mar 1952 (10),Barrow AFC (9),2-2,?,Darlington FC (2)
+?,(Sat) 20 Oct 1951 (42),Barrow AFC (10),2-1,?,Gateshead FC (2)
+?,(Thu) 13 Sep 1951 (37),Barrow AFC (11),3-1,?,Grimsby Town (2)
+?,(Sat) 25 Aug 1951 (34),Barrow AFC (12),0-0,?,Halifax Town (2)
+?,(Sat) 29 Mar 1952 (12),Barrow AFC (13),2-1,?,Hartlepool United (2)
+?,(Sat) 26 Apr 1952 (16),Barrow AFC (14),1-2,?,Lincoln City (2)
+?,(Sat) 29 Dec 1951 (52),Barrow AFC (15),1-1,?,Mansfield Town (2)
+?,(Sat) 3 Nov 1951 (44),Barrow AFC (16),0-1,?,Oldham Athletic (2)
+?,(Sat) 8 Sep 1951 (36),Barrow AFC (17),4-0,?,Rochdale AFC (2)
+?,(Sat) 23 Feb 1952 (7),Barrow AFC (18),2-1,?,Scunthorpe United (2)
+?,(Sat) 6 Oct 1951 (40),Barrow AFC (19),0-0,?,Southport FC (2)
+?,(Sat) 9 Feb 1952 (5),Barrow AFC (20),1-3,?,Stockport County (2)
+?,(Wed) 26 Dec 1951 (52),Barrow AFC (21),2-0,?,Tranmere Rovers (2)
+?,(Fri) 11 Apr 1952 (14),Barrow AFC (22),1-0,?,Workington (2)
+?,(Thu) 23 Aug 1951 (34),Barrow AFC (23),3-1,?,Wrexham AFC (2)
+?,(Sat) 12 Apr 1952 (14),Barrow AFC (24),0-0,?,York City (2)
+?,(Sat) 8 Mar 1952 (9),Bradford City (3),1-3,?,Accrington Stanley (25)
+?,(Sat) 5 Apr 1952 (13),Bradford City (4),2-2,?,Barrow AFC (25)
+?,(Sat) 15 Sep 1951 (37),Bradford City (5),2-2,?,Bradford Park Avenue (3)
+?,(Sat) 27 Oct 1951 (43),Bradford City (6),1-2,?,Carlisle United (3)
+?,(Sat) 29 Dec 1951 (52),Bradford City (7),1-0,?,Chester FC (3)
+?,(Sat) 8 Dec 1951 (49),Bradford City (8),1-0,?,Chesterfield FC (3)
+?,(Wed) 12 Sep 1951 (37),Bradford City (9),0-2,?,Crewe Alexandra (3)
+?,(Mon) 14 Apr 1952 (15),Bradford City (10),3-1,?,Darlington FC (3)
+?,(Sat) 3 May 1952 (17),Bradford City (11),1-1,?,Gateshead FC (3)
+?,(Wed) 23 Apr 1952 (16),Bradford City (12),0-2,?,Grimsby Town (3)
+?,(Tue) 25 Dec 1951 (52),Bradford City (13),3-2,?,Halifax Town (3)
+?,(Sat) 26 Jan 1952 (3),Bradford City (14),0-2,?,Hartlepool United (3)
+?,(Sat) 25 Aug 1951 (34),Bradford City (15),1-1,?,Lincoln City (3)
+?,(Sat) 16 Feb 1952 (6),Bradford City (16),2-1,?,Mansfield Town (3)
+?,(Sat) 29 Sep 1951 (39),Bradford City (17),5-2,?,Oldham Athletic (3)
+?,(Sat) 13 Oct 1951 (41),Bradford City (18),3-0,?,Rochdale AFC (3)
+?,(Wed) 26 Mar 1952 (12),Bradford City (19),1-0,?,Scunthorpe United (3)
+?,(Wed) 22 Aug 1951 (34),Bradford City (20),2-1,?,Southport FC (3)
+?,(Sat) 22 Mar 1952 (11),Bradford City (21),2-3,?,Stockport County (3)
+?,(Wed) 23 Jan 1952 (3),Bradford City (22),2-0,?,Tranmere Rovers (3)
+?,(Sat) 10 Nov 1951 (45),Bradford City (23),1-0,?,Workington (3)
+?,(Sat) 19 Apr 1952 (15),Bradford City (24),3-2,?,Wrexham AFC (3)
+?,(Sat) 8 Sep 1951 (36),Bradford City (25),3-3,?,York City (3)
+?,(Sat) 23 Feb 1952 (7),Bradford Park Avenue (4),1-1,?,Accrington Stanley (26)
+?,(Sat) 18 Aug 1951 (33),Bradford Park Avenue (5),3-1,?,Barrow AFC (26)
+?,(Sat) 19 Jan 1952 (2),Bradford Park Avenue (6),2-1,?,Bradford City (26)
+?,(Mon) 17 Sep 1951 (38),Bradford Park Avenue (7),0-1,?,Carlisle United (4)
+?,(Sat) 6 Oct 1951 (40),Bradford Park Avenue (8),3-0,?,Chester FC (4)
+?,(Sat) 5 Jan 1952 (0),Bradford Park Avenue (9),3-3,?,Chesterfield FC (4)
+?,(Sat) 29 Mar 1952 (12),Bradford Park Avenue (10),3-2,?,Crewe Alexandra (4)
+?,(Sat) 12 Apr 1952 (14),Bradford Park Avenue (11),2-0,?,Darlington FC (4)
+?,(Sat) 17 Nov 1951 (46),Bradford Park Avenue (12),2-0,?,Gateshead FC (4)
+?,(Sat) 22 Dec 1951 (51),Bradford Park Avenue (13),3-2,?,Grimsby Town (4)
+?,(Sat) 22 Sep 1951 (38),Bradford Park Avenue (14),6-1,?,Halifax Town (4)
+?,(Sat) 26 Apr 1952 (16),Bradford Park Avenue (15),1-2,?,Hartlepool United (4)
+?,(Sat) 1 Mar 1952 (8),Bradford Park Avenue (16),1-1,?,Lincoln City (4)
+?,(Sat) 9 Feb 1952 (5),Bradford Park Avenue (17),0-1,?,Mansfield Town (4)
+?,(Sat) 1 Dec 1951 (48),Bradford Park Avenue (18),1-0,?,Oldham Athletic (4)
+?,(Tue) 15 Apr 1952 (15),Bradford Park Avenue (19),1-1,?,Rochdale AFC (4)
+?,(Sat) 20 Oct 1951 (42),Bradford Park Avenue (20),2-2,?,Scunthorpe United (4)
+?,(Sat) 3 Nov 1951 (44),Bradford Park Avenue (21),2-2,?,Southport FC (4)
+?,(Mon) 27 Aug 1951 (35),Bradford Park Avenue (22),4-2,?,Stockport County (4)
+?,(Sat) 15 Mar 1952 (10),Bradford Park Avenue (23),2-3,?,Tranmere Rovers (4)
+?,(Wed) 13 Feb 1952 (6),Bradford Park Avenue (24),2-1,?,Workington (4)
+?,(Sat) 1 Sep 1951 (35),Bradford Park Avenue (25),5-0,?,Wrexham AFC (4)
+?,(Wed) 26 Dec 1951 (52),Bradford Park Avenue (26),2-1,?,York City (4)
+?,(Sat) 25 Aug 1951 (34),Carlisle United (5),4-1,?,Accrington Stanley (27)
+?,(Sat) 26 Jan 1952 (3),Carlisle United (6),0-1,?,Barrow AFC (27)
+?,(Sat) 15 Mar 1952 (10),Carlisle United (7),1-0,?,Bradford City (27)
+?,(Thu) 6 Sep 1951 (36),Carlisle United (8),1-0,?,Bradford Park Avenue (27)
+?,(Sat) 29 Mar 1952 (12),Carlisle United (9),0-0,?,Chester FC (5)
+?,(Tue) 1 Jan 1952 (0),Carlisle United (10),2-3,?,Chesterfield FC (5)
+?,(Sat) 29 Dec 1951 (52),Carlisle United (11),2-0,?,Crewe Alexandra (5)
+?,(Sat) 6 Oct 1951 (40),Carlisle United (12),1-1,?,Darlington FC (5)
+?,(Wed) 26 Dec 1951 (52),Carlisle United (13),0-0,?,Gateshead FC (5)
+?,(Sat) 29 Sep 1951 (39),Carlisle United (14),1-2,?,Grimsby Town (5)
+?,(Thu) 23 Aug 1951 (34),Carlisle United (15),2-2,?,Halifax Town (5)
+?,(Sat) 20 Oct 1951 (42),Carlisle United (16),2-1,?,Hartlepool United (5)
+?,(Sat) 17 Nov 1951 (46),Carlisle United (17),1-4,?,Lincoln City (5)
+?,(Sat) 2 Feb 1952 (4),Carlisle United (18),0-0,?,Mansfield Town (5)
+?,(Sat) 1 Mar 1952 (8),Carlisle United (19),3-3,?,Oldham Athletic (5)
+?,(Thu) 6 Mar 1952 (9),Carlisle United (20),1-1,?,Rochdale AFC (5)
+?,(Sat) 12 Apr 1952 (14),Carlisle United (21),3-0,?,Scunthorpe United (5)
+?,(Sat) 26 Apr 1952 (16),Carlisle United (22),0-2,?,Southport FC (5)
+?,(Sat) 5 Jan 1952 (0),Carlisle United (23),2-1,?,Stockport County (5)
+?,(Sat) 1 Dec 1951 (48),Carlisle United (24),1-0,?,Tranmere Rovers (5)
+?,(Sat) 15 Sep 1951 (37),Carlisle United (25),0-1,?,Workington (5)
+?,(Fri) 11 Apr 1952 (14),Carlisle United (26),2-0,?,Wrexham AFC (5)
+?,(Sat) 3 Nov 1951 (44),Carlisle United (27),2-1,?,York City (5)
+?,(Sat) 22 Mar 1952 (11),Chester FC (6),3-1,?,Accrington Stanley (28)
+?,(Sat) 19 Apr 1952 (15),Chester FC (7),0-0,?,Barrow AFC (28)
+?,(Sat) 1 Sep 1951 (35),Chester FC (8),1-0,?,Bradford City (28)
+?,(Sat) 16 Feb 1952 (6),Chester FC (9),4-2,?,Bradford Park Avenue (28)
+?,(Sat) 10 Nov 1951 (45),Chester FC (10),4-2,?,Carlisle United (28)
+?,(Wed) 26 Dec 1951 (52),Chester FC (11),3-0,?,Chesterfield FC (6)
+?,(Mon) 14 Apr 1952 (15),Chester FC (12),2-0,?,Crewe Alexandra (6)
+?,(Wed) 2 Apr 1952 (13),Chester FC (13),2-0,?,Darlington FC (6)
+?,(Sat) 29 Sep 1951 (39),Chester FC (14),0-3,?,Gateshead FC (6)
+?,(Sat) 8 Dec 1951 (49),Chester FC (15),0-3,?,Grimsby Town (6)
+?,(Sat) 13 Oct 1951 (41),Chester FC (16),5-1,?,Halifax Town (6)
+?,(Sat) 5 Jan 1952 (0),Chester FC (17),3-3,?,Hartlepool United (6)
+?,(Sat) 2 Feb 1952 (4),Chester FC (18),0-1,?,Lincoln City (6)
+?,(Sat) 8 Mar 1952 (9),Chester FC (19),1-5,?,Mansfield Town (6)
+?,(Sat) 15 Sep 1951 (37),Chester FC (20),1-2,?,Oldham Athletic (6)
+?,(Sat) 27 Oct 1951 (43),Chester FC (21),4-0,?,Rochdale AFC (6)
+?,(Wed) 22 Aug 1951 (34),Chester FC (22),3-1,?,Scunthorpe United (6)
+?,(Sat) 23 Feb 1952 (7),Chester FC (23),2-1,?,Southport FC (6)
+?,(Sat) 5 Apr 1952 (13),Chester FC (24),0-0,?,Stockport County (6)
+?,(Wed) 5 Sep 1951 (36),Chester FC (25),4-1,?,Tranmere Rovers (6)
+?,(Wed) 23 Apr 1952 (16),Chester FC (26),2-2,?,Workington (6)
+?,(Sat) 18 Aug 1951 (33),Chester FC (27),2-1,?,Wrexham AFC (6)
+?,(Sat) 22 Dec 1951 (51),Chester FC (28),0-1,?,York City (6)
+?,(Mon) 14 Apr 1952 (15),Chesterfield FC (7),2-0,?,Accrington Stanley (29)
+?,(Sat) 2 Feb 1952 (4),Chesterfield FC (8),2-0,?,Barrow AFC (29)
+?,(Sat) 26 Apr 1952 (16),Chesterfield FC (9),2-2,?,Bradford City (29)
+?,(Sat) 8 Sep 1951 (36),Chesterfield FC (10),0-0,?,Bradford Park Avenue (29)
+?,(Sat) 23 Feb 1952 (7),Chesterfield FC (11),3-0,?,Carlisle United (29)
+?,(Tue) 25 Dec 1951 (52),Chesterfield FC (12),2-0,?,Chester FC (29)
+?,(Sat) 3 Nov 1951 (44),Chesterfield FC (13),0-0,?,Crewe Alexandra (7)
+?,(Sat) 17 Nov 1951 (46),Chesterfield FC (14),4-2,?,Darlington FC (7)
+?,(Sat) 29 Mar 1952 (12),Chesterfield FC (15),1-0,?,Gateshead FC (7)
+?,(Sat) 18 Aug 1951 (33),Chesterfield FC (16),3-1,?,Grimsby Town (7)
+?,(Sat) 19 Jan 1952 (2),Chesterfield FC (17),3-1,?,Halifax Town (7)
+?,(Sat) 1 Dec 1951 (48),Chesterfield FC (18),2-2,?,Hartlepool United (7)
+?,(Sat) 6 Oct 1951 (40),Chesterfield FC (19),2-2,?,Lincoln City (7)
+?,(Sat) 22 Sep 1951 (38),Chesterfield FC (20),1-1,?,Mansfield Town (7)
+?,(Sat) 12 Apr 1952 (14),Chesterfield FC (21),1-0,?,Oldham Athletic (7)
+?,(Sat) 9 Feb 1952 (5),Chesterfield FC (22),5-1,?,Rochdale AFC (7)
+?,(Sat) 1 Mar 1952 (8),Chesterfield FC (23),3-0,?,Scunthorpe United (7)
+?,(Sat) 15 Mar 1952 (10),Chesterfield FC (24),2-0,?,Southport FC (7)
+?,(Mon) 10 Sep 1951 (37),Chesterfield FC (25),0-1,?,Stockport County (7)
+?,(Sat) 20 Oct 1951 (42),Chesterfield FC (26),1-1,?,Tranmere Rovers (7)
+?,(Mon) 27 Aug 1951 (35),Chesterfield FC (27),3-1,?,Workington (7)
+?,(Sat) 22 Dec 1951 (51),Chesterfield FC (28),3-0,?,Wrexham AFC (7)
+?,(Sat) 29 Dec 1951 (52),Chesterfield FC (29),2-1,?,York City (7)
+?,(Sat) 8 Dec 1951 (49),Crewe Alexandra (8),3-3,?,Accrington Stanley (30)
+?,(Sat) 13 Oct 1951 (41),Crewe Alexandra (9),1-1,?,Barrow AFC (30)
+?,(Mon) 3 Sep 1951 (36),Crewe Alexandra (10),0-1,?,Bradford City (30)
+?,(Sat) 10 Nov 1951 (45),Crewe Alexandra (11),3-4,?,Bradford Park Avenue (30)
+?,(Sat) 1 Sep 1951 (35),Crewe Alexandra (12),1-1,?,Carlisle United (30)
+?,(Fri) 11 Apr 1952 (14),Crewe Alexandra (13),1-2,?,Chester FC (30)
+?,(Sat) 22 Mar 1952 (11),Crewe Alexandra (14),2-1,?,Chesterfield FC (30)
+?,(Sat) 18 Aug 1951 (33),Crewe Alexandra (15),3-0,?,Darlington FC (8)
+?,(Sat) 22 Dec 1951 (51),Crewe Alexandra (16),4-2,?,Gateshead FC (8)
+?,(Sat) 8 Mar 1952 (9),Crewe Alexandra (17),1-2,?,Grimsby Town (8)
+?,(Sat) 5 Apr 1952 (13),Crewe Alexandra (18),4-1,?,Halifax Town (8)
+?,(Wed) 29 Aug 1951 (35),Crewe Alexandra (19),4-2,?,Hartlepool United (8)
+?,(Sat) 9 Feb 1952 (5),Crewe Alexandra (20),0-2,?,Lincoln City (8)
+?,(Wed) 23 Apr 1952 (16),Crewe Alexandra (21),1-0,?,Mansfield Town (8)
+?,(Sat) 12 Jan 1952 (1),Crewe Alexandra (22),3-1,?,Oldham Athletic (8)
+?,(Sat) 19 Apr 1952 (15),Crewe Alexandra (23),1-0,?,Rochdale AFC (8)
+?,(Sat) 22 Sep 1951 (38),Crewe Alexandra (24),2-2,?,Scunthorpe United (8)
+?,(Sat) 8 Sep 1951 (36),Crewe Alexandra (25),1-0,?,Southport FC (8)
+?,(Wed) 26 Dec 1951 (52),Crewe Alexandra (26),1-0,?,Stockport County (8)
+?,(Sat) 19 Jan 1952 (2),Crewe Alexandra (27),2-1,?,Tranmere Rovers (8)
+?,(Sat) 16 Feb 1952 (6),Crewe Alexandra (28),2-0,?,Workington (8)
+?,(Sat) 27 Oct 1951 (43),Crewe Alexandra (29),2-2,?,Wrexham AFC (8)
+?,(Sat) 23 Feb 1952 (7),Crewe Alexandra (30),0-0,?,York City (8)
+?,(Tue) 25 Dec 1951 (52),Darlington FC (9),4-5,?,Accrington Stanley (31)
+?,(Sat) 27 Oct 1951 (43),Darlington FC (10),1-2,?,Barrow AFC (31)
+?,(Fri) 11 Apr 1952 (14),Darlington FC (11),3-1,?,Bradford City (31)
+?,(Sat) 3 May 1952 (17),Darlington FC (12),3-0,?,Bradford Park Avenue (31)
+?,(Sat) 16 Feb 1952 (6),Darlington FC (13),1-2,?,Carlisle United (31)
+?,(Sat) 22 Sep 1951 (38),Darlington FC (14),1-1,?,Chester FC (31)
+?,(Sat) 5 Apr 1952 (13),Darlington FC (15),3-0,?,Chesterfield FC (31)
+?,(Sat) 15 Dec 1951 (50),Darlington FC (16),0-1,?,Crewe Alexandra (31)
+?,(Wed) 13 Feb 1952 (6),Darlington FC (17),3-2,?,Gateshead FC (9)
+?,(Sat) 22 Mar 1952 (11),Darlington FC (18),0-2,?,Grimsby Town (9)
+?,(Sat) 19 Apr 1952 (15),Darlington FC (19),0-2,?,Halifax Town (9)
+?,(Wed) 19 Sep 1951 (38),Darlington FC (20),2-1,?,Hartlepool United (9)
+?,(Sat) 19 Jan 1952 (2),Darlington FC (21),1-1,?,Lincoln City (9)
+?,(Sat) 8 Dec 1951 (49),Darlington FC (22),2-1,?,Mansfield Town (9)
+?,(Wed) 5 Sep 1951 (36),Darlington FC (23),2-2,?,Oldham Athletic (9)
+?,(Wed) 22 Aug 1951 (34),Darlington FC (24),2-1,?,Rochdale AFC (9)
+?,(Sat) 8 Sep 1951 (36),Darlington FC (25),2-3,?,Scunthorpe United (9)
+?,(Sat) 25 Aug 1951 (34),Darlington FC (26),1-1,?,Southport FC (9)
+?,(Sat) 13 Oct 1951 (41),Darlington FC (27),1-2,?,Stockport County (9)
+?,(Sat) 29 Dec 1951 (52),Darlington FC (28),2-2,?,Tranmere Rovers (9)
+?,(Sat) 8 Mar 1952 (9),Darlington FC (29),2-1,?,Workington (9)
+?,(Sat) 10 Nov 1951 (45),Darlington FC (30),2-1,?,Wrexham AFC (9)
+?,(Sat) 9 Feb 1952 (5),Darlington FC (31),1-0,?,York City (9)
+?,(Wed) 26 Mar 1952 (12),Gateshead FC (10),1-0,?,Accrington Stanley (32)
+?,(Sat) 8 Mar 1952 (9),Gateshead FC (11),2-0,?,Barrow AFC (32)
+?,(Sat) 23 Feb 1952 (7),Gateshead FC (12),2-2,?,Bradford City (32)
+?,(Sat) 5 Apr 1952 (13),Gateshead FC (13),0-1,?,Bradford Park Avenue (32)
+?,(Tue) 25 Dec 1951 (52),Gateshead FC (14),1-1,?,Carlisle United (32)
+?,(Sat) 9 Feb 1952 (5),Gateshead FC (15),1-0,?,Chester FC (32)
+?,(Sat) 10 Nov 1951 (45),Gateshead FC (16),1-1,?,Chesterfield FC (32)
+?,(Sat) 25 Aug 1951 (34),Gateshead FC (17),1-0,?,Crewe Alexandra (32)
+?,(Wed) 23 Jan 1952 (3),Gateshead FC (18),2-2,?,Darlington FC (32)
+?,(Sat) 27 Oct 1951 (43),Gateshead FC (19),1-1,?,Grimsby Town (10)
+?,(Mon) 27 Aug 1951 (35),Gateshead FC (20),3-0,?,Halifax Town (10)
+?,(Mon) 10 Sep 1951 (37),Gateshead FC (21),2-0,?,Hartlepool United (10)
+?,(Sat) 22 Sep 1951 (38),Gateshead FC (22),3-1,?,Lincoln City (10)
+?,(Sat) 19 Apr 1952 (15),Gateshead FC (23),4-1,?,Mansfield Town (10)
+?,(Wed) 2 Apr 1952 (13),Gateshead FC (24),1-0,?,Oldham Athletic (10)
+?,(Sat) 8 Dec 1951 (49),Gateshead FC (25),1-0,?,Rochdale AFC (10)
+?,(Sat) 19 Jan 1952 (2),Gateshead FC (26),2-1,?,Scunthorpe United (10)
+?,(Sat) 29 Dec 1951 (52),Gateshead FC (27),3-0,?,Southport FC (10)
+?,(Sat) 16 Feb 1952 (6),Gateshead FC (28),0-2,?,Stockport County (10)
+?,(Sat) 8 Sep 1951 (36),Gateshead FC (29),4-1,?,Tranmere Rovers (10)
+?,(Sat) 13 Oct 1951 (41),Gateshead FC (30),4-1,?,Workington (10)
+?,(Sat) 22 Mar 1952 (11),Gateshead FC (31),1-1,?,Wrexham AFC (10)
+?,(Mon) 14 Apr 1952 (15),Gateshead FC (32),1-1,?,York City (10)
+?,(Sat) 22 Sep 1951 (38),Grimsby Town (11),2-1,?,Accrington Stanley (33)
+?,(Wed) 5 Sep 1951 (36),Grimsby Town (12),1-0,?,Barrow AFC (33)
+?,(Sat) 12 Apr 1952 (14),Grimsby Town (13),2-1,?,Bradford City (33)
+?,(Sat) 25 Aug 1951 (34),Grimsby Town (14),3-0,?,Bradford Park Avenue (33)
+?,(Sat) 9 Feb 1952 (5),Grimsby Town (15),4-1,?,Carlisle United (33)
+?,(Sat) 26 Apr 1952 (16),Grimsby Town (16),2-1,?,Chester FC (33)
+?,(Wed) 30 Apr 1952 (17),Grimsby Town (17),2-0,?,Chesterfield FC (33)
+?,(Sat) 20 Oct 1951 (42),Grimsby Town (18),0-1,?,Crewe Alexandra (33)
+?,(Sat) 3 Nov 1951 (44),Grimsby Town (19),3-0,?,Darlington FC (33)
+?,(Sat) 15 Mar 1952 (10),Grimsby Town (20),2-0,?,Gateshead FC (33)
+?,(Sat) 29 Dec 1951 (52),Grimsby Town (21),8-1,?,Halifax Town (11)
+?,(Sat) 17 Nov 1951 (46),Grimsby Town (22),2-0,?,Hartlepool United (11)
+?,(Wed) 22 Aug 1951 (34),Grimsby Town (23),2-3,?,Lincoln City (11)
+?,(Sat) 8 Sep 1951 (36),Grimsby Town (24),1-1,?,Mansfield Town (11)
+?,(Sat) 29 Mar 1952 (12),Grimsby Town (25),3-1,?,Oldham Athletic (11)
+?,(Sat) 19 Jan 1952 (2),Grimsby Town (26),4-0,?,Rochdale AFC (11)
+?,(Tue) 25 Dec 1951 (52),Grimsby Town (27),3-2,?,Scunthorpe United (11)
+?,(Sat) 1 Mar 1952 (8),Grimsby Town (28),4-1,?,Southport FC (11)
+?,(Fri) 11 Apr 1952 (14),Grimsby Town (29),4-0,?,Stockport County (11)
+?,(Sat) 6 Oct 1951 (40),Grimsby Town (30),1-0,?,Tranmere Rovers (11)
+?,(Sat) 3 May 1952 (17),Grimsby Town (31),5-0,?,Workington (11)
+?,(Sat) 2 Feb 1952 (4),Grimsby Town (32),1-0,?,Wrexham AFC (11)
+?,(Sat) 1 Dec 1951 (48),Grimsby Town (33),0-0,?,York City (11)
+?,(Mon) 3 Sep 1951 (36),Halifax Town (12),0-4,?,Accrington Stanley (34)
+?,(Sat) 22 Dec 1951 (51),Halifax Town (13),0-1,?,Barrow AFC (34)
+?,(Wed) 26 Dec 1951 (52),Halifax Town (14),1-1,?,Bradford City (34)
+?,(Mon) 10 Mar 1952 (10),Halifax Town (15),0-0,?,Bradford Park Avenue (34)
+?,(Mon) 10 Sep 1951 (37),Halifax Town (16),1-2,?,Carlisle United (34)
+?,(Sat) 1 Mar 1952 (8),Halifax Town (17),4-1,?,Chester FC (34)
+?,(Sat) 15 Sep 1951 (37),Halifax Town (18),0-0,?,Chesterfield FC (34)
+?,(Sat) 17 Nov 1951 (46),Halifax Town (19),2-3,?,Crewe Alexandra (34)
+?,(Sat) 1 Dec 1951 (48),Halifax Town (20),4-1,?,Darlington FC (34)
+?,(Sat) 12 Apr 1952 (14),Halifax Town (21),0-1,?,Gateshead FC (34)
+?,(Sat) 1 Sep 1951 (35),Halifax Town (22),3-0,?,Grimsby Town (34)
+?,(Sat) 9 Feb 1952 (5),Halifax Town (23),2-0,?,Hartlepool United (12)
+?,(Sat) 20 Oct 1951 (42),Halifax Town (24),1-3,?,Lincoln City (12)
+?,(Mon) 14 Apr 1952 (15),Halifax Town (25),1-0,?,Mansfield Town (12)
+?,(Sat) 26 Apr 1952 (16),Halifax Town (26),1-0,?,Oldham Athletic (12)
+?,(Mon) 28 Apr 1952 (17),Halifax Town (27),1-0,?,Rochdale AFC (12)
+?,(Sat) 15 Mar 1952 (10),Halifax Town (28),2-1,?,Scunthorpe United (12)
+?,(Sat) 29 Mar 1952 (12),Halifax Town (29),0-1,?,Southport FC (12)
+?,(Mon) 24 Mar 1952 (12),Halifax Town (30),1-2,?,Stockport County (12)
+?,(Sat) 3 Nov 1951 (44),Halifax Town (31),1-0,?,Tranmere Rovers (12)
+?,(Sat) 18 Aug 1951 (33),Halifax Town (32),3-1,?,Workington (12)
+?,(Sat) 5 Jan 1952 (0),Halifax Town (33),2-0,?,Wrexham AFC (12)
+?,(Sat) 6 Oct 1951 (40),Halifax Town (34),1-1,?,York City (12)
+?,(Sat) 13 Oct 1951 (41),Hartlepool United (13),4-2,?,Accrington Stanley (35)
+?,(Sat) 10 Nov 1951 (45),Hartlepool United (14),3-1,?,Barrow AFC (35)
+?,(Sat) 22 Sep 1951 (38),Hartlepool United (15),2-1,?,Bradford City (35)
+?,(Sat) 8 Dec 1951 (49),Hartlepool United (16),2-1,?,Bradford Park Avenue (35)
+?,(Sat) 8 Mar 1952 (9),Hartlepool United (17),1-0,?,Carlisle United (35)
+?,(Sat) 8 Sep 1951 (36),Hartlepool United (18),2-1,?,Chester FC (35)
+?,(Sat) 19 Apr 1952 (15),Hartlepool United (19),4-1,?,Chesterfield FC (35)
+?,(Mon) 20 Aug 1951 (34),Hartlepool United (20),3-0,?,Crewe Alexandra (35)
+?,(Sat) 23 Feb 1952 (7),Hartlepool United (21),2-0,?,Darlington FC (35)
+?,(Mon) 3 Sep 1951 (36),Hartlepool United (22),1-0,?,Gateshead FC (35)
+?,(Sat) 5 Apr 1952 (13),Hartlepool United (23),2-1,?,Grimsby Town (35)
+?,(Sat) 29 Sep 1951 (39),Hartlepool United (24),6-1,?,Halifax Town (35)
+?,(Sat) 29 Dec 1951 (52),Hartlepool United (25),1-1,?,Lincoln City (13)
+?,(Tue) 25 Dec 1951 (52),Hartlepool United (26),2-0,?,Mansfield Town (13)
+?,(Mon) 14 Apr 1952 (15),Hartlepool United (27),1-1,?,Oldham Athletic (13)
+?,(Sat) 16 Feb 1952 (6),Hartlepool United (28),1-1,?,Rochdale AFC (13)
+?,(Sat) 25 Aug 1951 (34),Hartlepool United (29),3-1,?,Scunthorpe United (13)
+?,(Wed) 16 Jan 1952 (2),Hartlepool United (30),3-1,?,Southport FC (13)
+?,(Sat) 27 Oct 1951 (43),Hartlepool United (31),0-1,?,Stockport County (13)
+?,(Wed) 30 Apr 1952 (17),Hartlepool United (32),0-1,?,Tranmere Rovers (13)
+?,(Sat) 22 Mar 1952 (11),Hartlepool United (33),0-1,?,Workington (13)
+?,(Tue) 1 Jan 1952 (0),Hartlepool United (34),1-0,?,Wrexham AFC (13)
+?,(Sat) 19 Jan 1952 (2),Hartlepool United (35),3-2,?,York City (13)
+?,(Sat) 10 Nov 1951 (45),Lincoln City (14),2-2,?,Accrington Stanley (36)
+?,(Sat) 8 Dec 1951 (49),Lincoln City (15),3-0,?,Barrow AFC (36)
+?,(Sat) 22 Dec 1951 (51),Lincoln City (16),2-1,?,Bradford City (36)
+?,(Sat) 13 Oct 1951 (41),Lincoln City (17),2-0,?,Bradford Park Avenue (36)
+?,(Sat) 5 Apr 1952 (13),Lincoln City (18),2-2,?,Carlisle United (36)
+?,(Wed) 23 Jan 1952 (3),Lincoln City (19),4-1,?,Chester FC (36)
+?,(Sat) 16 Feb 1952 (6),Lincoln City (20),5-1,?,Chesterfield FC (36)
+?,(Sat) 29 Sep 1951 (39),Lincoln City (21),11-1,?,Crewe Alexandra (36)
+?,(Sat) 15 Sep 1951 (37),Lincoln City (22),7-2,?,Darlington FC (36)
+?,(Sat) 26 Jan 1952 (3),Lincoln City (23),1-0,?,Gateshead FC (36)
+?,(Wed) 29 Aug 1951 (35),Lincoln City (24),0-2,?,Grimsby Town (36)
+?,(Sat) 8 Mar 1952 (9),Lincoln City (25),4-1,?,Halifax Town (36)
+?,(Sat) 1 Sep 1951 (35),Lincoln City (26),4-3,?,Hartlepool United (36)
+?,(Sat) 27 Oct 1951 (43),Lincoln City (27),1-2,?,Mansfield Town (14)
+?,(Sat) 5 Jan 1952 (0),Lincoln City (28),4-0,?,Oldham Athletic (14)
+?,(Sat) 22 Mar 1952 (11),Lincoln City (29),2-0,?,Rochdale AFC (14)
+?,(Wed) 12 Sep 1951 (37),Lincoln City (30),4-1,?,Scunthorpe United (14)
+?,(Mon) 14 Apr 1952 (15),Lincoln City (31),4-0,?,Southport FC (14)
+?,(Wed) 23 Apr 1952 (16),Lincoln City (32),2-1,?,Stockport County (14)
+?,(Sat) 23 Feb 1952 (7),Lincoln City (33),3-0,?,Tranmere Rovers (14)
+?,(Sat) 19 Apr 1952 (15),Lincoln City (34),7-0,?,Workington (14)
+?,(Wed) 26 Dec 1951 (52),Lincoln City (35),3-2,?,Wrexham AFC (14)
+?,(Sat) 18 Aug 1951 (33),Lincoln City (36),3-1,?,York City (14)
+?,(Mon) 27 Aug 1951 (35),Mansfield Town (15),3-0,?,Accrington Stanley (37)
+?,(Sat) 1 Sep 1951 (35),Mansfield Town (16),2-1,?,Barrow AFC (37)
+?,(Sat) 6 Oct 1951 (40),Mansfield Town (17),2-1,?,Bradford City (37)
+?,(Sat) 29 Sep 1951 (39),Mansfield Town (18),1-0,?,Bradford Park Avenue (37)
+?,(Sat) 12 Jan 1952 (1),Mansfield Town (19),1-2,?,Carlisle United (37)
+?,(Sat) 20 Oct 1951 (42),Mansfield Town (20),3-1,?,Chester FC (37)
+?,(Sat) 26 Jan 1952 (3),Mansfield Town (21),2-1,?,Chesterfield FC (37)
+?,(Sat) 12 Apr 1952 (14),Mansfield Town (22),2-1,?,Crewe Alexandra (37)
+?,(Sat) 26 Apr 1952 (16),Mansfield Town (23),3-2,?,Darlington FC (37)
+?,(Sat) 1 Dec 1951 (48),Mansfield Town (24),2-3,?,Gateshead FC (37)
+?,(Sat) 5 Jan 1952 (0),Mansfield Town (25),2-2,?,Grimsby Town (37)
+?,(Tue) 15 Apr 1952 (15),Mansfield Town (26),4-2,?,Halifax Town (37)
+?,(Wed) 26 Dec 1951 (52),Mansfield Town (27),0-1,?,Hartlepool United (37)
+?,(Sat) 15 Mar 1952 (10),Mansfield Town (28),1-0,?,Lincoln City (37)
+?,(Sat) 23 Feb 1952 (7),Mansfield Town (29),2-1,?,Oldham Athletic (15)
+?,(Mon) 17 Sep 1951 (38),Mansfield Town (30),1-1,?,Rochdale AFC (15)
+?,(Sat) 3 Nov 1951 (44),Mansfield Town (31),4-1,?,Scunthorpe United (15)
+?,(Sat) 17 Nov 1951 (46),Mansfield Town (32),4-0,?,Southport FC (15)
+?,(Sat) 18 Aug 1951 (33),Mansfield Town (33),1-0,?,Stockport County (15)
+?,(Sat) 29 Mar 1952 (12),Mansfield Town (34),3-0,?,Tranmere Rovers (15)
+?,(Sat) 22 Dec 1951 (51),Mansfield Town (35),3-2,?,Workington (15)
+?,(Sat) 15 Sep 1951 (37),Mansfield Town (36),3-0,?,Wrexham AFC (15)
+?,(Sat) 1 Mar 1952 (8),Mansfield Town (37),1-1,?,York City (15)
+?,(Sat) 16 Feb 1952 (6),Oldham Athletic (16),3-1,?,Accrington Stanley (38)
+?,(Sat) 22 Mar 1952 (11),Oldham Athletic (17),3-1,?,Barrow AFC (38)
+?,(Sat) 9 Feb 1952 (5),Oldham Athletic (18),2-1,?,Bradford City (38)
+?,(Sat) 19 Apr 1952 (15),Oldham Athletic (19),1-2,?,Bradford Park Avenue (38)
+?,(Sat) 13 Oct 1951 (41),Oldham Athletic (20),2-0,?,Carlisle United (38)
+?,(Sat) 19 Jan 1952 (2),Oldham Athletic (21),11-2,?,Chester FC (38)
+?,(Tue) 22 Apr 1952 (16),Oldham Athletic (22),3-0,?,Chesterfield FC (38)
+?,(Sat) 2 Feb 1952 (4),Oldham Athletic (23),5-2,?,Crewe Alexandra (38)
+?,(Tue) 11 Sep 1951 (37),Oldham Athletic (24),3-2,?,Darlington FC (38)
+?,(Tue) 21 Aug 1951 (34),Oldham Athletic (25),2-0,?,Gateshead FC (38)
+?,(Sat) 10 Nov 1951 (45),Oldham Athletic (26),1-1,?,Grimsby Town (38)
+?,(Sat) 8 Dec 1951 (49),Oldham Athletic (27),2-0,?,Halifax Town (38)
+?,(Fri) 11 Apr 1952 (14),Oldham Athletic (28),5-2,?,Hartlepool United (38)
+?,(Sat) 8 Sep 1951 (36),Oldham Athletic (29),4-1,?,Lincoln City (38)
+?,(Sat) 3 May 1952 (17),Oldham Athletic (30),5-3,?,Mansfield Town (38)
+?,(Tue) 25 Dec 1951 (52),Oldham Athletic (31),1-1,?,Rochdale AFC (16)
+?,(Sat) 29 Dec 1951 (52),Oldham Athletic (32),2-0,?,Scunthorpe United (16)
+?,(Tue) 29 Apr 1952 (17),Oldham Athletic (33),2-1,?,Southport FC (16)
+?,(Sat) 8 Mar 1952 (9),Oldham Athletic (34),1-0,?,Stockport County (16)
+?,(Sat) 25 Aug 1951 (34),Oldham Athletic (35),3-0,?,Tranmere Rovers (16)
+?,(Sat) 27 Oct 1951 (43),Oldham Athletic (36),0-1,?,Workington (16)
+?,(Sat) 5 Apr 1952 (13),Oldham Athletic (37),2-1,?,Wrexham AFC (16)
+?,(Sat) 22 Sep 1951 (38),Oldham Athletic (38),2-0,?,York City (16)
+?,(Tue) 15 Jan 1952 (2),Rochdale AFC (17),3-1,?,Accrington Stanley (39)
+?,(Sat) 5 Jan 1952 (0),Rochdale AFC (18),4-1,?,Barrow AFC (39)
+?,(Sat) 1 Mar 1952 (8),Rochdale AFC (19),1-1,?,Bradford City (39)
+?,(Mon) 14 Apr 1952 (15),Rochdale AFC (20),1-1,?,Bradford Park Avenue (39)
+?,(Sat) 18 Aug 1951 (33),Rochdale AFC (21),0-4,?,Carlisle United (39)
+?,(Sat) 15 Mar 1952 (10),Rochdale AFC (22),0-5,?,Chester FC (39)
+?,(Sat) 29 Sep 1951 (39),Rochdale AFC (23),2-0,?,Chesterfield FC (39)
+?,(Sat) 1 Dec 1951 (48),Rochdale AFC (24),1-0,?,Crewe Alexandra (39)
+?,(Tue) 28 Aug 1951 (35),Rochdale AFC (25),6-2,?,Darlington FC (39)
+?,(Sat) 26 Apr 1952 (16),Rochdale AFC (26),0-3,?,Gateshead FC (39)
+?,(Sat) 15 Sep 1951 (37),Rochdale AFC (27),0-0,?,Grimsby Town (39)
+?,(Sat) 23 Feb 1952 (7),Rochdale AFC (28),0-2,?,Halifax Town (39)
+?,(Sat) 6 Oct 1951 (40),Rochdale AFC (29),3-0,?,Hartlepool United (39)
+?,(Sat) 3 Nov 1951 (44),Rochdale AFC (30),0-1,?,Lincoln City (39)
+?,(Tue) 4 Sep 1951 (36),Rochdale AFC (31),1-0,?,Mansfield Town (39)
+?,(Wed) 26 Dec 1951 (52),Rochdale AFC (32),2-2,?,Oldham Athletic (39)
+?,(Sat) 29 Mar 1952 (12),Rochdale AFC (33),1-2,?,Scunthorpe United (17)
+?,(Sat) 12 Apr 1952 (14),Rochdale AFC (34),1-0,?,Southport FC (17)
+?,(Sat) 22 Dec 1951 (51),Rochdale AFC (35),0-0,?,Stockport County (17)
+?,(Sat) 17 Nov 1951 (46),Rochdale AFC (36),3-2,?,Tranmere Rovers (17)
+?,(Sat) 1 Sep 1951 (35),Rochdale AFC (37),2-0,?,Workington (17)
+?,(Sat) 26 Jan 1952 (3),Rochdale AFC (38),1-5,?,Wrexham AFC (17)
+?,(Sat) 20 Oct 1951 (42),Rochdale AFC (39),0-2,?,York City (17)
+?,(Sat) 5 Apr 1952 (13),Scunthorpe United (18),3-1,?,Accrington Stanley (40)
+?,(Thu) 1 May 1952 (17),Scunthorpe United (19),0-0,?,Barrow AFC (40)
+?,(Sat) 18 Aug 1951 (33),Scunthorpe United (20),1-0,?,Bradford City (40)
+?,(Sat) 8 Mar 1952 (9),Scunthorpe United (21),0-0,?,Bradford Park Avenue (40)
+?,(Thu) 24 Apr 1952 (16),Scunthorpe United (22),1-1,?,Carlisle United (40)
+?,(Thu) 30 Aug 1951 (35),Scunthorpe United (23),2-2,?,Chester FC (40)
+?,(Sat) 13 Oct 1951 (41),Scunthorpe United (24),1-1,?,Chesterfield FC (40)
+?,(Sat) 26 Jan 1952 (3),Scunthorpe United (25),2-0,?,Crewe Alexandra (40)
+?,(Sat) 5 Jan 1952 (0),Scunthorpe United (26),5-2,?,Darlington FC (40)
+?,(Sat) 15 Sep 1951 (37),Scunthorpe United (27),1-1,?,Gateshead FC (40)
+?,(Wed) 26 Dec 1951 (52),Scunthorpe United (28),1-3,?,Grimsby Town (40)
+?,(Sat) 27 Oct 1951 (43),Scunthorpe United (29),2-1,?,Halifax Town (40)
+?,(Sat) 22 Dec 1951 (51),Scunthorpe United (30),2-0,?,Hartlepool United (40)
+?,(Thu) 6 Sep 1951 (36),Scunthorpe United (31),1-3,?,Lincoln City (40)
+?,(Sat) 22 Mar 1952 (11),Scunthorpe United (32),4-1,?,Mansfield Town (40)
+?,(Sat) 1 Sep 1951 (35),Scunthorpe United (33),2-2,?,Oldham Athletic (40)
+?,(Sat) 10 Nov 1951 (45),Scunthorpe United (34),3-1,?,Rochdale AFC (40)
+?,(Sat) 29 Sep 1951 (39),Scunthorpe United (35),1-1,?,Southport FC (18)
+?,(Sat) 19 Apr 1952 (15),Scunthorpe United (36),1-1,?,Stockport County (18)
+?,(Mon) 14 Apr 1952 (15),Scunthorpe United (37),2-0,?,Tranmere Rovers (18)
+?,(Sat) 8 Dec 1951 (49),Scunthorpe United (38),3-1,?,Workington (18)
+?,(Sat) 16 Feb 1952 (6),Scunthorpe United (39),0-0,?,Wrexham AFC (18)
+?,(Thu) 17 Jan 1952 (2),Scunthorpe United (40),1-1,?,York City (18)
+?,(Sat) 19 Apr 1952 (15),Southport FC (19),0-0,?,Accrington Stanley (41)
+?,(Sat) 16 Feb 1952 (6),Southport FC (20),2-2,?,Barrow AFC (41)
+?,(Tue) 28 Aug 1951 (35),Southport FC (21),1-1,?,Bradford City (41)
+?,(Sat) 22 Mar 1952 (11),Southport FC (22),0-0,?,Bradford Park Avenue (41)
+?,(Sat) 8 Dec 1951 (49),Southport FC (23),2-1,?,Carlisle United (41)
+?,(Sat) 3 May 1952 (17),Southport FC (24),1-0,?,Chester FC (41)
+?,(Sat) 27 Oct 1951 (43),Southport FC (25),4-1,?,Chesterfield FC (41)
+?,(Sat) 5 Jan 1952 (0),Southport FC (26),1-1,?,Crewe Alexandra (41)
+?,(Sat) 22 Dec 1951 (51),Southport FC (27),3-0,?,Darlington FC (41)
+?,(Sat) 1 Sep 1951 (35),Southport FC (28),0-2,?,Gateshead FC (41)
+?,(Sat) 13 Oct 1951 (41),Southport FC (29),2-0,?,Grimsby Town (41)
+?,(Sat) 10 Nov 1951 (45),Southport FC (30),3-2,?,Halifax Town (41)
+?,(Sat) 2 Feb 1952 (4),Southport FC (31),2-0,?,Hartlepool United (41)
+?,(Fri) 11 Apr 1952 (14),Southport FC (32),0-3,?,Lincoln City (41)
+?,(Sat) 5 Apr 1952 (13),Southport FC (33),0-1,?,Mansfield Town (41)
+?,(Sat) 18 Aug 1951 (33),Southport FC (34),0-0,?,Oldham Athletic (41)
+?,(Tue) 22 Apr 1952 (16),Southport FC (35),1-2,?,Rochdale AFC (41)
+?,(Sat) 9 Feb 1952 (5),Southport FC (36),5-1,?,Scunthorpe United (41)
+?,(Sat) 15 Sep 1951 (37),Southport FC (37),0-1,?,Stockport County (19)
+?,(Sat) 22 Sep 1951 (38),Southport FC (38),1-0,?,Tranmere Rovers (19)
+?,(Tue) 25 Dec 1951 (52),Southport FC (39),4-2,?,Workington (19)
+?,(Sat) 8 Mar 1952 (9),Southport FC (40),2-1,?,Wrexham AFC (19)
+?,(Tue) 11 Sep 1951 (37),Southport FC (41),2-1,?,York City (19)
+?,(Sat) 29 Dec 1951 (52),Stockport County (20),6-0,?,Accrington Stanley (42)
+?,(Sat) 29 Sep 1951 (39),Stockport County (21),2-2,?,Barrow AFC (42)
+?,(Sat) 3 Nov 1951 (44),Stockport County (22),1-2,?,Bradford City (42)
+?,(Mon) 20 Aug 1951 (34),Stockport County (23),1-0,?,Bradford Park Avenue (42)
+?,(Sat) 8 Sep 1951 (36),Stockport County (24),1-1,?,Carlisle United (42)
+?,(Sat) 17 Nov 1951 (46),Stockport County (25),0-0,?,Chester FC (42)
+?,(Mon) 3 Sep 1951 (36),Stockport County (26),2-1,?,Chesterfield FC (42)
+?,(Tue) 25 Dec 1951 (52),Stockport County (27),4-2,?,Crewe Alexandra (42)
+?,(Sat) 1 Mar 1952 (8),Stockport County (28),5-0,?,Darlington FC (42)
+?,(Sat) 6 Oct 1951 (40),Stockport County (29),0-0,?,Gateshead FC (42)
+?,(Mon) 14 Apr 1952 (15),Stockport County (30),1-1,?,Grimsby Town (42)
+?,(Sat) 12 Jan 1952 (1),Stockport County (31),6-2,?,Halifax Town (42)
+?,(Sat) 15 Mar 1952 (10),Stockport County (32),0-1,?,Hartlepool United (42)
+?,(Sat) 12 Apr 1952 (14),Stockport County (33),1-1,?,Lincoln City (42)
+?,(Sat) 15 Dec 1951 (50),Stockport County (34),2-1,?,Mansfield Town (42)
+?,(Sat) 20 Oct 1951 (42),Stockport County (35),0-0,?,Oldham Athletic (42)
+?,(Sat) 25 Aug 1951 (34),Stockport County (36),1-0,?,Rochdale AFC (42)
+?,(Sat) 1 Dec 1951 (48),Stockport County (37),1-1,?,Scunthorpe United (42)
+?,(Sat) 19 Jan 1952 (2),Stockport County (38),3-1,?,Southport FC (42)
+?,(Sat) 26 Apr 1952 (16),Stockport County (39),2-0,?,Tranmere Rovers (20)
+?,(Sat) 26 Jan 1952 (3),Stockport County (40),5-0,?,Workington (20)
+?,(Sat) 23 Feb 1952 (7),Stockport County (41),0-0,?,Wrexham AFC (20)
+?,(Sat) 29 Mar 1952 (12),Stockport County (42),3-1,?,York City (20)
+?,(Tue) 22 Apr 1952 (16),Tranmere Rovers (21),3-1,?,Accrington Stanley (43)
+?,(Tue) 25 Dec 1951 (52),Tranmere Rovers (22),3-1,?,Barrow AFC (43)
+?,(Wed) 6 Feb 1952 (5),Tranmere Rovers (23),3-1,?,Bradford City (43)
+?,(Sat) 27 Oct 1951 (43),Tranmere Rovers (24),1-2,?,Bradford Park Avenue (43)
+?,(Sat) 19 Apr 1952 (15),Tranmere Rovers (25),3-2,?,Carlisle United (43)
+?,(Tue) 11 Sep 1951 (37),Tranmere Rovers (26),3-1,?,Chester FC (43)
+?,(Sat) 8 Mar 1952 (9),Tranmere Rovers (27),2-0,?,Chesterfield FC (43)
+?,(Sat) 15 Sep 1951 (37),Tranmere Rovers (28),1-0,?,Crewe Alexandra (43)
+?,(Sat) 1 Sep 1951 (35),Tranmere Rovers (29),3-0,?,Darlington FC (43)
+?,(Sat) 5 Jan 1952 (0),Tranmere Rovers (30),5-1,?,Gateshead FC (43)
+?,(Sat) 16 Feb 1952 (6),Tranmere Rovers (31),2-3,?,Grimsby Town (43)
+?,(Sat) 22 Mar 1952 (11),Tranmere Rovers (32),1-2,?,Halifax Town (43)
+?,(Sat) 18 Aug 1951 (33),Tranmere Rovers (33),4-1,?,Hartlepool United (43)
+?,(Tue) 1 Jan 1952 (0),Tranmere Rovers (34),2-2,?,Lincoln City (43)
+?,(Sat) 10 Nov 1951 (45),Tranmere Rovers (35),1-1,?,Mansfield Town (43)
+?,(Sat) 22 Dec 1951 (51),Tranmere Rovers (36),0-4,?,Oldham Athletic (43)
+?,(Sat) 5 Apr 1952 (13),Tranmere Rovers (37),4-3,?,Rochdale AFC (43)
+?,(Fri) 11 Apr 1952 (14),Tranmere Rovers (38),3-1,?,Scunthorpe United (43)
+?,(Sat) 26 Jan 1952 (3),Tranmere Rovers (39),5-1,?,Southport FC (43)
+?,(Sat) 8 Dec 1951 (49),Tranmere Rovers (40),2-0,?,Stockport County (43)
+?,(Sat) 29 Sep 1951 (39),Tranmere Rovers (41),3-1,?,Workington (21)
+?,(Sat) 13 Oct 1951 (41),Tranmere Rovers (42),3-1,?,Wrexham AFC (21)
+?,(Tue) 28 Aug 1951 (35),Tranmere Rovers (43),2-0,?,York City (21)
+?,(Sat) 8 Sep 1951 (36),Workington (22),0-2,?,Accrington Stanley (44)
+?,(Mon) 14 Apr 1952 (15),Workington (23),3-1,?,Barrow AFC (44)
+?,(Sat) 29 Mar 1952 (12),Workington (24),0-1,?,Bradford City (44)
+?,(Thu) 24 Jan 1952 (3),Workington (25),2-3,?,Bradford Park Avenue (44)
+?,(Sat) 19 Jan 1952 (2),Workington (26),1-2,?,Carlisle United (44)
+?,(Sat) 12 Apr 1952 (14),Workington (27),2-2,?,Chester FC (44)
+?,(Wed) 22 Aug 1951 (34),Workington (28),3-1,?,Chesterfield FC (44)
+?,(Sat) 6 Oct 1951 (40),Workington (29),3-1,?,Crewe Alexandra (44)
+?,(Sat) 20 Oct 1951 (42),Workington (30),2-1,?,Darlington FC (44)
+?,(Sat) 1 Mar 1952 (8),Workington (31),1-2,?,Gateshead FC (44)
+?,(Sat) 23 Feb 1952 (7),Workington (32),2-4,?,Grimsby Town (44)
+?,(Tue) 1 Jan 1952 (0),Workington (33),2-1,?,Halifax Town (44)
+?,(Sat) 3 Nov 1951 (44),Workington (34),1-1,?,Hartlepool United (44)
+?,(Sat) 1 Dec 1951 (48),Workington (35),0-3,?,Lincoln City (44)
+?,(Sat) 25 Aug 1951 (34),Workington (36),0-1,?,Mansfield Town (44)
+?,(Sat) 15 Mar 1952 (10),Workington (37),0-1,?,Oldham Athletic (44)
+?,(Sat) 29 Dec 1951 (52),Workington (38),1-1,?,Rochdale AFC (44)
+?,(Sat) 26 Apr 1952 (16),Workington (39),0-0,?,Scunthorpe United (44)
+?,(Wed) 26 Dec 1951 (52),Workington (40),6-1,?,Southport FC (44)
+?,(Sat) 22 Sep 1951 (38),Workington (41),0-3,?,Stockport County (44)
+?,(Sat) 9 Feb 1952 (5),Workington (42),1-2,?,Tranmere Rovers (44)
+?,(Wed) 5 Sep 1951 (36),Workington (43),2-0,?,Wrexham AFC (22)
+?,(Sat) 17 Nov 1951 (46),Workington (44),1-0,?,York City (22)
+?,(Sat) 9 Feb 1952 (5),Wrexham AFC (23),1-0,?,Accrington Stanley (45)
+?,(Wed) 29 Aug 1951 (35),Wrexham AFC (24),2-4,?,Barrow AFC (45)
+?,(Sat) 1 Dec 1951 (48),Wrexham AFC (25),3-0,?,Bradford City (45)
+?,(Sat) 29 Dec 1951 (52),Wrexham AFC (26),3-2,?,Bradford Park Avenue (45)
+?,(Mon) 14 Apr 1952 (15),Wrexham AFC (27),3-1,?,Carlisle United (45)
+?,(Wed) 26 Sep 1951 (39),Wrexham AFC (28),3-2,?,Chester FC (45)
+?,(Sat) 25 Aug 1951 (34),Wrexham AFC (29),0-3,?,Chesterfield FC (45)
+?,(Sat) 15 Mar 1952 (10),Wrexham AFC (30),4-0,?,Crewe Alexandra (45)
+?,(Sat) 29 Mar 1952 (12),Wrexham AFC (31),1-1,?,Darlington FC (45)
+?,(Sat) 3 Nov 1951 (44),Wrexham AFC (32),2-1,?,Gateshead FC (45)
+?,(Sat) 12 Jan 1952 (1),Wrexham AFC (33),2-0,?,Grimsby Town (45)
+?,(Sat) 8 Sep 1951 (36),Wrexham AFC (34),2-1,?,Halifax Town (45)
+?,(Sat) 12 Apr 1952 (14),Wrexham AFC (35),0-0,?,Hartlepool United (45)
+?,(Tue) 25 Dec 1951 (52),Wrexham AFC (36),4-2,?,Lincoln City (45)
+?,(Sat) 19 Jan 1952 (2),Wrexham AFC (37),3-1,?,Mansfield Town (45)
+?,(Sat) 17 Nov 1951 (46),Wrexham AFC (38),1-0,?,Oldham Athletic (45)
+?,(Sat) 22 Sep 1951 (38),Wrexham AFC (39),2-0,?,Rochdale AFC (45)
+?,(Sat) 6 Oct 1951 (40),Wrexham AFC (40),1-2,?,Scunthorpe United (45)
+?,(Sat) 20 Oct 1951 (42),Wrexham AFC (41),3-0,?,Southport FC (45)
+?,(Wed) 30 Apr 1952 (17),Wrexham AFC (42),0-0,?,Stockport County (45)
+?,(Sat) 1 Mar 1952 (8),Wrexham AFC (43),0-1,?,Tranmere Rovers (45)
+?,(Wed) 12 Sep 1951 (37),Wrexham AFC (44),0-0,?,Workington (45)
+?,(Sat) 26 Apr 1952 (16),Wrexham AFC (45),1-1,?,York City (23)
+?,(Sat) 27 Oct 1951 (43),York City (24),6-1,?,Accrington Stanley (46)
+?,(Mon) 21 Apr 1952 (16),York City (25),2-1,?,Barrow AFC (46)
+?,(Sat) 5 Jan 1952 (0),York City (26),3-1,?,Bradford City (46)
+?,(Tue) 25 Dec 1951 (52),York City (27),1-0,?,Bradford Park Avenue (46)
+?,(Sat) 22 Mar 1952 (11),York City (28),0-0,?,Carlisle United (46)
+?,(Sat) 25 Aug 1951 (34),York City (29),4-2,?,Chester FC (46)
+?,(Sat) 1 Sep 1951 (35),York City (30),1-0,?,Chesterfield FC (46)
+?,(Sat) 3 May 1952 (17),York City (31),3-0,?,Crewe Alexandra (46)
+?,(Sat) 29 Sep 1951 (39),York City (32),2-1,?,Darlington FC (46)
+?,(Fri) 11 Apr 1952 (14),York City (33),1-0,?,Gateshead FC (46)
+?,(Sat) 19 Apr 1952 (15),York City (34),1-1,?,Grimsby Town (46)
+?,(Sat) 16 Feb 1952 (6),York City (35),6-2,?,Halifax Town (46)
+?,(Sat) 15 Sep 1951 (37),York City (36),3-1,?,Hartlepool United (46)
+?,(Mon) 31 Mar 1952 (13),York City (37),1-0,?,Lincoln City (46)
+?,(Sat) 13 Oct 1951 (41),York City (38),3-0,?,Mansfield Town (46)
+?,(Sat) 26 Jan 1952 (3),York City (39),5-0,?,Oldham Athletic (46)
+?,(Sat) 8 Mar 1952 (9),York City (40),1-1,?,Rochdale AFC (46)
+?,(Mon) 28 Apr 1952 (17),York City (41),0-1,?,Scunthorpe United (46)
+?,(Mon) 3 Sep 1951 (36),York City (42),0-2,?,Southport FC (46)
+?,(Sat) 10 Nov 1951 (45),York City (43),0-1,?,Stockport County (46)
+?,(Mon) 20 Aug 1951 (34),York City (44),1-1,?,Tranmere Rovers (46)
+?,(Sat) 5 Apr 1952 (13),York City (45),5-1,?,Workington (46)
+?,(Sat) 8 Dec 1951 (49),York City (46),4-2,?,Wrexham AFC (46)

@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Blackpool,Barnsley,4-0,-
--,-,Bradford City,Barnsley,4-1,-
--,-,Chelsea,Barnsley,3-2,-
--,-,Darlington,Barnsley,2-2,-
--,-,Derby County,Barnsley,4-0,-
--,-,Fulham,Barnsley,2-2,-
--,-,Hull City,Barnsley,2-2,-
--,-,Leyton Orient,Barnsley,4-0,-
--,-,Middlesbrough,Barnsley,5-0,-
--,-,Nottingham Forest,Barnsley,4-2,-
--,-,Oldham Athletic,Barnsley,2-1,-
--,-,Port Vale,Barnsley,3-0,-
--,-,Portsmouth,Barnsley,1-2,-
--,-,Preston North End,Barnsley,4-2,-
--,-,Sheffield Wednesday,Barnsley,3-0,-
--,-,South Shields,Barnsley,3-0,-
--,-,Southampton,Barnsley,0-0,-
--,-,Stockport County,Barnsley,1-1,-
--,-,Stoke City,Barnsley,1-2,-
--,-,Swansea City,Barnsley,3-0,-
--,-,Wolverhampton Wanderers,Barnsley,7-1,-
--,-,Barnsley,Blackpool,2-0,-
--,-,Bradford City,Blackpool,1-0,-
--,-,Chelsea,Blackpool,2-3,-
--,-,Darlington,Blackpool,1-3,-
--,-,Derby County,Blackpool,5-2,-
--,-,Fulham,Blackpool,1-1,-
--,-,Hull City,Blackpool,1-2,-
--,-,Leyton Orient,Blackpool,2-2,-
--,-,Middlesbrough,Blackpool,3-2,-
--,-,Nottingham Forest,Blackpool,1-1,-
--,-,Oldham Athletic,Blackpool,3-2,-
--,-,Port Vale,Blackpool,5-0,-
--,-,Portsmouth,Blackpool,2-0,-
--,-,Preston North End,Blackpool,6-4,-
--,-,Sheffield Wednesday,Blackpool,2-0,-
--,-,South Shields,Blackpool,3-4,-
--,-,Southampton,Blackpool,2-2,-
--,-,Stockport County,Blackpool,4-3,-
--,-,Stoke City,Blackpool,1-3,-
--,-,Swansea City,Blackpool,6-1,-
--,-,Wolverhampton Wanderers,Blackpool,0-0,-
--,-,Barnsley,Bradford City,0-0,-
--,-,Blackpool,Bradford City,3-0,-
--,-,Chelsea,Bradford City,2-0,-
--,-,Darlington,Bradford City,1-3,-
--,-,Derby County,Bradford City,0-0,-
--,-,Fulham,Bradford City,2-0,-
--,-,Hull City,Bradford City,5-0,-
--,-,Leyton Orient,Bradford City,3-1,-
--,-,Middlesbrough,Bradford City,2-5,-
--,-,Nottingham Forest,Bradford City,0-0,-
--,-,Oldham Athletic,Bradford City,3-0,-
--,-,Port Vale,Bradford City,2-0,-
--,-,Portsmouth,Bradford City,3-1,-
--,-,Preston North End,Bradford City,3-1,-
--,-,Sheffield Wednesday,Bradford City,5-1,-
--,-,South Shields,Bradford City,1-3,-
--,-,Southampton,Bradford City,1-2,-
--,-,Stockport County,Bradford City,1-1,-
--,-,Stoke City,Bradford City,1-0,-
--,-,Swansea City,Bradford City,1-0,-
--,-,Wolverhampton Wanderers,Bradford City,1-1,-
--,-,Barnsley,Chelsea,2-3,-
--,-,Blackpool,Chelsea,0-0,-
--,-,Bradford City,Chelsea,4-2,-
--,-,Darlington,Chelsea,1-1,-
--,-,Derby County,Chelsea,4-2,-
--,-,Fulham,Chelsea,0-3,-
--,-,Hull City,Chelsea,0-1,-
--,-,Leyton Orient,Chelsea,1-2,-
--,-,Middlesbrough,Chelsea,1-2,-
--,-,Nottingham Forest,Chelsea,1-5,-
--,-,Oldham Athletic,Chelsea,1-1,-
--,-,Port Vale,Chelsea,0-6,-
--,-,Portsmouth,Chelsea,4-0,-
--,-,Preston North End,Chelsea,3-1,-
--,-,Sheffield Wednesday,Chelsea,4-1,-
--,-,South Shields,Chelsea,0-0,-
--,-,Southampton,Chelsea,0-1,-
--,-,Stockport County,Chelsea,0-0,-
--,-,Stoke City,Chelsea,1-3,-
--,-,Swansea City,Chelsea,0-0,-
--,-,Wolverhampton Wanderers,Chelsea,0-0,-
--,-,Barnsley,Darlington,1-1,-
--,-,Blackpool,Darlington,0-1,-
--,-,Bradford City,Darlington,2-0,-
--,-,Chelsea,Darlington,5-2,-
--,-,Derby County,Darlington,0-2,-
--,-,Fulham,Darlington,4-0,-
--,-,Hull City,Darlington,1-1,-
--,-,Leyton Orient,Darlington,1-2,-
--,-,Middlesbrough,Darlington,3-2,-
--,-,Nottingham Forest,Darlington,2-0,-
--,-,Oldham Athletic,Darlington,0-1,-
--,-,Port Vale,Darlington,6-1,-
--,-,Portsmouth,Darlington,2-0,-
--,-,Preston North End,Darlington,0-0,-
--,-,Sheffield Wednesday,Darlington,4-0,-
--,-,South Shields,Darlington,2-4,-
--,-,Southampton,Darlington,4-1,-
--,-,Stockport County,Darlington,1-1,-
--,-,Stoke City,Darlington,6-1,-
--,-,Swansea City,Darlington,1-1,-
--,-,Wolverhampton Wanderers,Darlington,1-0,-
--,-,Barnsley,Derby County,0-1,-
--,-,Blackpool,Derby County,1-2,-
--,-,Bradford City,Derby County,0-0,-
--,-,Chelsea,Derby County,2-1,-
--,-,Darlington,Derby County,3-0,-
--,-,Fulham,Derby County,1-1,-
--,-,Hull City,Derby County,0-0,-
--,-,Leyton Orient,Derby County,0-1,-
--,-,Middlesbrough,Derby County,1-2,-
--,-,Nottingham Forest,Derby County,1-2,-
--,-,Oldham Athletic,Derby County,2-0,-
--,-,Port Vale,Derby County,0-1,-
--,-,Portsmouth,Derby County,2-2,-
--,-,Preston North End,Derby County,2-1,-
--,-,Sheffield Wednesday,Derby County,1-4,-
--,-,South Shields,Derby County,0-0,-
--,-,Southampton,Derby County,2-1,-
--,-,Stockport County,Derby County,3-0,-
--,-,Stoke City,Derby County,0-1,-
--,-,Swansea City,Derby County,2-0,-
--,-,Wolverhampton Wanderers,Derby County,2-0,-
--,-,Barnsley,Fulham,2-2,-
--,-,Blackpool,Fulham,2-0,-
--,-,Bradford City,Fulham,0-0,-
--,-,Chelsea,Fulham,4-0,-
--,-,Darlington,Fulham,1-2,-
--,-,Derby County,Fulham,3-1,-
--,-,Hull City,Fulham,1-0,-
--,-,Leyton Orient,Fulham,1-1,-
--,-,Middlesbrough,Fulham,4-0,-
--,-,Nottingham Forest,Fulham,2-2,-
--,-,Oldham Athletic,Fulham,4-0,-
--,-,Port Vale,Fulham,0-1,-
--,-,Portsmouth,Fulham,0-0,-
--,-,Preston North End,Fulham,2-1,-
--,-,Sheffield Wednesday,Fulham,3-0,-
--,-,South Shields,Fulham,5-2,-
--,-,Southampton,Fulham,2-0,-
--,-,Stockport County,Fulham,1-2,-
--,-,Stoke City,Fulham,5-0,-
--,-,Swansea City,Fulham,6-0,-
--,-,Wolverhampton Wanderers,Fulham,0-0,-
--,-,Barnsley,Hull City,2-1,-
--,-,Blackpool,Hull City,2-2,-
--,-,Bradford City,Hull City,0-1,-
--,-,Chelsea,Hull City,4-0,-
--,-,Darlington,Hull City,1-2,-
--,-,Derby County,Hull City,3-1,-
--,-,Fulham,Hull City,1-1,-
--,-,Leyton Orient,Hull City,0-0,-
--,-,Middlesbrough,Hull City,3-3,-
--,-,Nottingham Forest,Hull City,4-0,-
--,-,Oldham Athletic,Hull City,2-1,-
--,-,Port Vale,Hull City,3-1,-
--,-,Portsmouth,Hull City,2-2,-
--,-,Preston North End,Hull City,4-0,-
--,-,Sheffield Wednesday,Hull City,2-0,-
--,-,South Shields,Hull City,1-3,-
--,-,Southampton,Hull City,0-2,-
--,-,Stockport County,Hull City,0-1,-
--,-,Stoke City,Hull City,3-1,-
--,-,Swansea City,Hull City,2-0,-
--,-,Wolverhampton Wanderers,Hull City,3-1,-
--,-,Barnsley,Leyton Orient,3-1,-
--,-,Blackpool,Leyton Orient,3-0,-
--,-,Bradford City,Leyton Orient,0-3,-
--,-,Chelsea,Leyton Orient,1-3,-
--,-,Darlington,Leyton Orient,6-0,-
--,-,Derby County,Leyton Orient,3-1,-
--,-,Fulham,Leyton Orient,0-2,-
--,-,Hull City,Leyton Orient,2-0,-
--,-,Middlesbrough,Leyton Orient,1-2,-
--,-,Nottingham Forest,Leyton Orient,1-0,-
--,-,Oldham Athletic,Leyton Orient,1-1,-
--,-,Port Vale,Leyton Orient,4-2,-
--,-,Portsmouth,Leyton Orient,3-2,-
--,-,Preston North End,Leyton Orient,4-1,-
--,-,Sheffield Wednesday,Leyton Orient,3-0,-
--,-,South Shields,Leyton Orient,1-0,-
--,-,Southampton,Leyton Orient,2-0,-
--,-,Stockport County,Leyton Orient,3-2,-
--,-,Stoke City,Leyton Orient,0-0,-
--,-,Swansea City,Leyton Orient,0-0,-
--,-,Wolverhampton Wanderers,Leyton Orient,3-0,-
--,-,Barnsley,Middlesbrough,0-1,-
--,-,Blackpool,Middlesbrough,2-3,-
--,-,Bradford City,Middlesbrough,2-0,-
--,-,Chelsea,Middlesbrough,0-1,-
--,-,Darlington,Middlesbrough,0-2,-
--,-,Derby County,Middlesbrough,2-0,-
--,-,Fulham,Middlesbrough,2-0,-
--,-,Hull City,Middlesbrough,1-2,-
--,-,Leyton Orient,Middlesbrough,1-0,-
--,-,Nottingham Forest,Middlesbrough,1-0,-
--,-,Oldham Athletic,Middlesbrough,4-1,-
--,-,Port Vale,Middlesbrough,4-0,-
--,-,Portsmouth,Middlesbrough,1-5,-
--,-,Preston North End,Middlesbrough,1-0,-
--,-,Sheffield Wednesday,Middlesbrough,2-0,-
--,-,South Shields,Middlesbrough,2-2,-
--,-,Southampton,Middlesbrough,3-1,-
--,-,Stockport County,Middlesbrough,1-2,-
--,-,Stoke City,Middlesbrough,4-0,-
--,-,Swansea City,Middlesbrough,4-0,-
--,-,Wolverhampton Wanderers,Middlesbrough,3-1,-
--,-,Barnsley,Nottingham Forest,4-1,-
--,-,Blackpool,Nottingham Forest,3-0,-
--,-,Bradford City,Nottingham Forest,0-1,-
--,-,Chelsea,Nottingham Forest,0-0,-
--,-,Darlington,Nottingham Forest,0-0,-
--,-,Derby County,Nottingham Forest,2-0,-
--,-,Fulham,Nottingham Forest,0-2,-
--,-,Hull City,Nottingham Forest,4-1,-
--,-,Leyton Orient,Nottingham Forest,0-1,-
--,-,Middlesbrough,Nottingham Forest,1-0,-
--,-,Oldham Athletic,Nottingham Forest,8-3,-
--,-,Port Vale,Nottingham Forest,1-1,-
--,-,Portsmouth,Nottingham Forest,5-1,-
--,-,Preston North End,Nottingham Forest,2-0,-
--,-,Sheffield Wednesday,Nottingham Forest,2-0,-
--,-,South Shields,Nottingham Forest,3-1,-
--,-,Southampton,Nottingham Forest,2-0,-
--,-,Stockport County,Nottingham Forest,3-0,-
--,-,Stoke City,Nottingham Forest,1-1,-
--,-,Swansea City,Nottingham Forest,3-0,-
--,-,Wolverhampton Wanderers,Nottingham Forest,4-0,-
--,-,Barnsley,Oldham Athletic,3-4,-
--,-,Blackpool,Oldham Athletic,2-1,-
--,-,Bradford City,Oldham Athletic,1-1,-
--,-,Chelsea,Oldham Athletic,3-0,-
--,-,Darlington,Oldham Athletic,1-0,-
--,-,Derby County,Oldham Athletic,1-0,-
--,-,Fulham,Oldham Athletic,2-1,-
--,-,Hull City,Oldham Athletic,1-2,-
--,-,Leyton Orient,Oldham Athletic,1-2,-
--,-,Middlesbrough,Oldham Athletic,2-1,-
--,-,Nottingham Forest,Oldham Athletic,1-1,-
--,-,Port Vale,Oldham Athletic,3-0,-
--,-,Portsmouth,Oldham Athletic,0-2,-
--,-,Preston North End,Oldham Athletic,2-1,-
--,-,Sheffield Wednesday,Oldham Athletic,5-1,-
--,-,South Shields,Oldham Athletic,0-0,-
--,-,Southampton,Oldham Athletic,3-1,-
--,-,Stockport County,Oldham Athletic,1-0,-
--,-,Stoke City,Oldham Athletic,1-0,-
--,-,Swansea City,Oldham Athletic,3-3,-
--,-,Wolverhampton Wanderers,Oldham Athletic,2-1,-
--,-,Barnsley,Port Vale,3-0,-
--,-,Blackpool,Port Vale,2-2,-
--,-,Bradford City,Port Vale,2-0,-
--,-,Chelsea,Port Vale,3-1,-
--,-,Darlington,Port Vale,4-0,-
--,-,Derby County,Port Vale,2-0,-
--,-,Fulham,Port Vale,3-3,-
--,-,Hull City,Port Vale,3-0,-
--,-,Leyton Orient,Port Vale,1-2,-
--,-,Middlesbrough,Port Vale,3-1,-
--,-,Nottingham Forest,Port Vale,2-0,-
--,-,Oldham Athletic,Port Vale,3-2,-
--,-,Portsmouth,Port Vale,3-2,-
--,-,Preston North End,Port Vale,4-0,-
--,-,Sheffield Wednesday,Port Vale,0-2,-
--,-,South Shields,Port Vale,5-2,-
--,-,Southampton,Port Vale,2-3,-
--,-,Stockport County,Port Vale,2-2,-
--,-,Stoke City,Port Vale,0-3,-
--,-,Swansea City,Port Vale,1-0,-
--,-,Wolverhampton Wanderers,Port Vale,3-1,-
--,-,Barnsley,Portsmouth,2-2,-
--,-,Blackpool,Portsmouth,2-2,-
--,-,Bradford City,Portsmouth,0-1,-
--,-,Chelsea,Portsmouth,0-0,-
--,-,Darlington,Portsmouth,7-1,-
--,-,Derby County,Portsmouth,0-2,-
--,-,Fulham,Portsmouth,2-3,-
--,-,Hull City,Portsmouth,1-0,-
--,-,Leyton Orient,Portsmouth,1-1,-
--,-,Middlesbrough,Portsmouth,4-1,-
--,-,Nottingham Forest,Portsmouth,3-1,-
--,-,Oldham Athletic,Portsmouth,1-3,-
--,-,Port Vale,Portsmouth,1-1,-
--,-,Preston North End,Portsmouth,3-2,-
--,-,Sheffield Wednesday,Portsmouth,4-2,-
--,-,South Shields,Portsmouth,5-1,-
--,-,Southampton,Portsmouth,1-3,-
--,-,Stockport County,Portsmouth,3-3,-
--,-,Stoke City,Portsmouth,2-1,-
--,-,Swansea City,Portsmouth,1-0,-
--,-,Wolverhampton Wanderers,Portsmouth,4-1,-
--,-,Barnsley,Preston North End,2-0,-
--,-,Blackpool,Preston North End,3-1,-
--,-,Bradford City,Preston North End,2-0,-
--,-,Chelsea,Preston North End,5-0,-
--,-,Darlington,Preston North End,1-1,-
--,-,Derby County,Preston North End,2-0,-
--,-,Fulham,Preston North End,2-1,-
--,-,Hull City,Preston North End,1-1,-
--,-,Leyton Orient,Preston North End,1-1,-
--,-,Middlesbrough,Preston North End,5-1,-
--,-,Nottingham Forest,Preston North End,4-0,-
--,-,Oldham Athletic,Preston North End,3-2,-
--,-,Port Vale,Preston North End,3-0,-
--,-,Portsmouth,Preston North End,5-2,-
--,-,Sheffield Wednesday,Preston North End,5-1,-
--,-,South Shields,Preston North End,1-1,-
--,-,Southampton,Preston North End,2-0,-
--,-,Stockport County,Preston North End,1-1,-
--,-,Stoke City,Preston North End,1-3,-
--,-,Swansea City,Preston North End,4-1,-
--,-,Wolverhampton Wanderers,Preston North End,3-0,-
--,-,Barnsley,Sheffield Wednesday,1-1,-
--,-,Blackpool,Sheffield Wednesday,1-0,-
--,-,Bradford City,Sheffield Wednesday,1-4,-
--,-,Chelsea,Sheffield Wednesday,0-0,-
--,-,Darlington,Sheffield Wednesday,5-1,-
--,-,Derby County,Sheffield Wednesday,4-1,-
--,-,Fulham,Sheffield Wednesday,3-0,-
--,-,Hull City,Sheffield Wednesday,0-1,-
--,-,Leyton Orient,Sheffield Wednesday,0-0,-
--,-,Middlesbrough,Sheffield Wednesday,3-0,-
--,-,Nottingham Forest,Sheffield Wednesday,2-0,-
--,-,Oldham Athletic,Sheffield Wednesday,1-1,-
--,-,Port Vale,Sheffield Wednesday,4-3,-
--,-,Portsmouth,Sheffield Wednesday,1-2,-
--,-,Preston North End,Sheffield Wednesday,0-3,-
--,-,South Shields,Sheffield Wednesday,1-1,-
--,-,Southampton,Sheffield Wednesday,1-2,-
--,-,Stockport County,Sheffield Wednesday,0-2,-
--,-,Stoke City,Sheffield Wednesday,0-1,-
--,-,Swansea City,Sheffield Wednesday,2-2,-
--,-,Wolverhampton Wanderers,Sheffield Wednesday,1-2,-
--,-,Barnsley,South Shields,3-1,-
--,-,Blackpool,South Shields,1-0,-
--,-,Bradford City,South Shields,1-1,-
--,-,Chelsea,South Shields,0-0,-
--,-,Darlington,South Shields,4-1,-
--,-,Derby County,South Shields,2-0,-
--,-,Fulham,South Shields,2-1,-
--,-,Hull City,South Shields,1-3,-
--,-,Leyton Orient,South Shields,1-2,-
--,-,Middlesbrough,South Shields,1-2,-
--,-,Nottingham Forest,South Shields,4-1,-
--,-,Oldham Athletic,South Shields,2-1,-
--,-,Port Vale,South Shields,2-0,-
--,-,Portsmouth,South Shields,4-2,-
--,-,Preston North End,South Shields,0-4,-
--,-,Sheffield Wednesday,South Shields,1-0,-
--,-,Southampton,South Shields,0-1,-
--,-,Stockport County,South Shields,4-1,-
--,-,Stoke City,South Shields,0-1,-
--,-,Swansea City,South Shields,1-2,-
--,-,Wolverhampton Wanderers,South Shields,2-0,-
--,-,Barnsley,Southampton,2-0,-
--,-,Blackpool,Southampton,2-1,-
--,-,Bradford City,Southampton,0-5,-
--,-,Chelsea,Southampton,0-0,-
--,-,Darlington,Southampton,3-1,-
--,-,Derby County,Southampton,2-2,-
--,-,Fulham,Southampton,1-1,-
--,-,Hull City,Southampton,4-0,-
--,-,Leyton Orient,Southampton,2-1,-
--,-,Middlesbrough,Southampton,3-0,-
--,-,Nottingham Forest,Southampton,1-2,-
--,-,Oldham Athletic,Southampton,1-0,-
--,-,Port Vale,Southampton,1-1,-
--,-,Portsmouth,Southampton,1-2,-
--,-,Preston North End,Southampton,2-2,-
--,-,Sheffield Wednesday,Southampton,2-1,-
--,-,South Shields,Southampton,2-0,-
--,-,Stockport County,Southampton,1-2,-
--,-,Stoke City,Southampton,1-1,-
--,-,Swansea City,Southampton,3-1,-
--,-,Wolverhampton Wanderers,Southampton,4-1,-
--,-,Barnsley,Stockport County,1-1,-
--,-,Blackpool,Stockport County,4-1,-
--,-,Bradford City,Stockport County,2-2,-
--,-,Chelsea,Stockport County,3-2,-
--,-,Darlington,Stockport County,3-2,-
--,-,Derby County,Stockport County,4-0,-
--,-,Fulham,Stockport County,1-0,-
--,-,Hull City,Stockport County,4-0,-
--,-,Leyton Orient,Stockport County,2-1,-
--,-,Middlesbrough,Stockport County,4-0,-
--,-,Nottingham Forest,Stockport County,2-0,-
--,-,Oldham Athletic,Stockport County,3-0,-
--,-,Port Vale,Stockport County,2-0,-
--,-,Portsmouth,Stockport County,4-0,-
--,-,Preston North End,Stockport County,5-3,-
--,-,Sheffield Wednesday,Stockport County,6-2,-
--,-,South Shields,Stockport County,4-2,-
--,-,Southampton,Stockport County,3-0,-
--,-,Stoke City,Stockport County,3-0,-
--,-,Swansea City,Stockport County,4-0,-
--,-,Wolverhampton Wanderers,Stockport County,5-1,-
--,-,Barnsley,Stoke City,2-1,-
--,-,Blackpool,Stoke City,0-0,-
--,-,Bradford City,Stoke City,2-1,-
--,-,Chelsea,Stoke City,1-1,-
--,-,Darlington,Stoke City,1-2,-
--,-,Derby County,Stoke City,7-3,-
--,-,Fulham,Stoke City,2-4,-
--,-,Hull City,Stoke City,1-0,-
--,-,Leyton Orient,Stoke City,4-0,-
--,-,Middlesbrough,Stoke City,3-0,-
--,-,Nottingham Forest,Stoke City,1-2,-
--,-,Oldham Athletic,Stoke City,7-2,-
--,-,Port Vale,Stoke City,3-0,-
--,-,Portsmouth,Stoke City,2-0,-
--,-,Preston North End,Stoke City,2-0,-
--,-,Sheffield Wednesday,Stoke City,2-0,-
--,-,South Shields,Stoke City,5-1,-
--,-,Southampton,Stoke City,1-2,-
--,-,Stockport County,Stoke City,2-1,-
--,-,Swansea City,Stoke City,1-1,-
--,-,Wolverhampton Wanderers,Stoke City,5-1,-
--,-,Barnsley,Swansea City,2-0,-
--,-,Blackpool,Swansea City,0-0,-
--,-,Bradford City,Swansea City,3-1,-
--,-,Chelsea,Swansea City,1-3,-
--,-,Darlington,Swansea City,3-3,-
--,-,Derby County,Swansea City,5-0,-
--,-,Fulham,Swansea City,0-1,-
--,-,Hull City,Swansea City,4-2,-
--,-,Leyton Orient,Swansea City,2-0,-
--,-,Middlesbrough,Swansea City,0-3,-
--,-,Nottingham Forest,Swansea City,0-2,-
--,-,Oldham Athletic,Swansea City,0-0,-
--,-,Port Vale,Swansea City,3-0,-
--,-,Portsmouth,Swansea City,0-0,-
--,-,Preston North End,Swansea City,4-2,-
--,-,Sheffield Wednesday,Swansea City,3-1,-
--,-,South Shields,Swansea City,3-1,-
--,-,Southampton,Swansea City,4-1,-
--,-,Stockport County,Swansea City,1-3,-
--,-,Stoke City,Swansea City,1-1,-
--,-,Wolverhampton Wanderers,Swansea City,2-3,-
--,-,Barnsley,Wolverhampton Wanderers,1-1,-
--,-,Blackpool,Wolverhampton Wanderers,4-0,-
--,-,Bradford City,Wolverhampton Wanderers,1-2,-
--,-,Chelsea,Wolverhampton Wanderers,3-3,-
--,-,Darlington,Wolverhampton Wanderers,3-4,-
--,-,Derby County,Wolverhampton Wanderers,2-0,-
--,-,Fulham,Wolverhampton Wanderers,1-2,-
--,-,Hull City,Wolverhampton Wanderers,3-1,-
--,-,Leyton Orient,Wolverhampton Wanderers,2-1,-
--,-,Middlesbrough,Wolverhampton Wanderers,4-1,-
--,-,Nottingham Forest,Wolverhampton Wanderers,1-4,-
--,-,Oldham Athletic,Wolverhampton Wanderers,1-2,-
--,-,Port Vale,Wolverhampton Wanderers,3-0,-
--,-,Portsmouth,Wolverhampton Wanderers,3-0,-
--,-,Preston North End,Wolverhampton Wanderers,1-0,-
--,-,Sheffield Wednesday,Wolverhampton Wanderers,2-1,-
--,-,South Shields,Wolverhampton Wanderers,3-1,-
--,-,Southampton,Wolverhampton Wanderers,4-2,-
--,-,Stockport County,Wolverhampton Wanderers,1-0,-
--,-,Stoke City,Wolverhampton Wanderers,0-0,-
--,-,Swansea City,Wolverhampton Wanderers,2-4,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 3 Oct 1925 (39),Barnsley FC (1),2-0,?,Blackpool FC (1)
+?,(Mon) 31 Aug 1925 (35),Barnsley FC (2),0-0,?,Bradford City (1)
+?,(Sat) 23 Jan 1926 (3),Barnsley FC (3),2-3,?,Chelsea FC (1)
+?,(Sat) 6 Feb 1926 (5),Barnsley FC (4),1-1,?,Darlington FC (1)
+?,(Mon) 5 Apr 1926 (14),Barnsley FC (5),0-1,?,Derby County (1)
+?,(Sat) 24 Oct 1925 (42),Barnsley FC (6),2-2,?,Fulham FC (1)
+?,(Sat) 19 Sep 1925 (37),Barnsley FC (7),2-1,?,Hull City (1)
+?,(Sat) 5 Sep 1925 (35),Barnsley FC (8),3-1,?,Leyton Orient FC (1)
+?,(Sat) 27 Mar 1926 (12),Barnsley FC (9),0-1,?,Middlesbrough FC (1)
+?,(Mon) 28 Dec 1925 (52),Barnsley FC (10),4-1,?,Nottingham Forest (1)
+?,(Sat) 2 Jan 1926 (0),Barnsley FC (11),3-4,?,Oldham Athletic (1)
+?,(Fri) 1 Jan 1926 (0),Barnsley FC (12),3-0,?,Port Vale FC (1)
+?,(Sat) 21 Nov 1925 (46),Barnsley FC (13),2-2,?,Portsmouth FC (1)
+?,(Sat) 19 Dec 1925 (50),Barnsley FC (14),2-0,?,Preston North End (1)
+?,(Sat) 13 Mar 1926 (10),Barnsley FC (15),1-1,?,Sheffield Wednesday (1)
+?,(Sat) 24 Apr 1926 (16),Barnsley FC (16),3-1,?,South Shields (1)
+?,(Sat) 20 Feb 1926 (7),Barnsley FC (17),2-0,?,Southampton FC (1)
+?,(Sat) 27 Feb 1926 (8),Barnsley FC (18),1-1,?,Stockport County (1)
+?,(Sat) 7 Nov 1925 (44),Barnsley FC (19),2-1,?,Stoke City (1)
+?,(Sat) 5 Dec 1925 (48),Barnsley FC (20),2-0,?,Swansea City (1)
+?,(Sat) 6 Mar 1926 (9),Barnsley FC (21),1-1,?,Wolverhampton Wanderers (1)
+?,(Sat) 13 Feb 1926 (6),Blackpool FC (2),4-0,?,Barnsley FC (22)
+?,(Sat) 30 Jan 1926 (4),Blackpool FC (3),3-0,?,Bradford City (2)
+?,(Fri) 25 Dec 1925 (51),Blackpool FC (4),0-0,?,Chelsea FC (2)
+?,(Mon) 14 Sep 1925 (37),Blackpool FC (5),0-1,?,Darlington FC (2)
+?,(Sat) 12 Sep 1925 (36),Blackpool FC (6),1-2,?,Derby County (2)
+?,(Sat) 5 Dec 1925 (48),Blackpool FC (7),2-0,?,Fulham FC (2)
+?,(Fri) 2 Apr 1926 (13),Blackpool FC (8),2-2,?,Hull City (2)
+?,(Sat) 10 Oct 1925 (40),Blackpool FC (9),3-0,?,Leyton Orient FC (2)
+?,(Mon) 7 Sep 1925 (36),Blackpool FC (10),2-3,?,Middlesbrough FC (2)
+?,(Sat) 16 Jan 1926 (2),Blackpool FC (11),3-0,?,Nottingham Forest (2)
+?,(Sat) 3 Apr 1926 (13),Blackpool FC (12),2-1,?,Oldham Athletic (2)
+?,(Sat) 26 Sep 1925 (38),Blackpool FC (13),2-2,?,Port Vale FC (2)
+?,(Sat) 27 Feb 1926 (8),Blackpool FC (14),2-2,?,Portsmouth FC (2)
+?,(Sat) 7 Nov 1925 (44),Blackpool FC (15),3-1,?,Preston North End (2)
+?,(Sat) 19 Dec 1925 (50),Blackpool FC (16),1-0,?,Sheffield Wednesday (2)
+?,(Sat) 13 Mar 1926 (10),Blackpool FC (17),1-0,?,South Shields (2)
+?,(Sat) 29 Aug 1925 (34),Blackpool FC (18),2-1,?,Southampton FC (2)
+?,(Sat) 10 Apr 1926 (14),Blackpool FC (19),4-1,?,Stockport County (2)
+?,(Sat) 27 Mar 1926 (12),Blackpool FC (20),0-0,?,Stoke City (2)
+?,(Sat) 24 Apr 1926 (16),Blackpool FC (21),0-0,?,Swansea City (2)
+?,(Sat) 24 Oct 1925 (42),Blackpool FC (22),4-0,?,Wolverhampton Wanderers (2)
+?,(Mon) 7 Sep 1925 (36),Bradford City (3),4-1,?,Barnsley FC (23)
+?,(Sat) 19 Sep 1925 (37),Bradford City (4),1-0,?,Blackpool FC (23)
+?,(Sat) 2 Jan 1926 (0),Bradford City (5),4-2,?,Chelsea FC (3)
+?,(Sat) 23 Jan 1926 (3),Bradford City (6),2-0,?,Darlington FC (3)
+?,(Sat) 20 Feb 1926 (7),Bradford City (7),0-0,?,Derby County (3)
+?,(Sat) 19 Dec 1925 (50),Bradford City (8),0-0,?,Fulham FC (3)
+?,(Sat) 5 Sep 1925 (35),Bradford City (9),0-1,?,Hull City (3)
+?,(Wed) 7 Oct 1925 (40),Bradford City (10),0-3,?,Leyton Orient FC (3)
+?,(Sat) 10 Apr 1926 (14),Bradford City (11),2-0,?,Middlesbrough FC (3)
+?,(Sat) 3 Oct 1925 (39),Bradford City (12),0-1,?,Nottingham Forest (3)
+?,(Sat) 24 Oct 1925 (42),Bradford City (13),1-1,?,Oldham Athletic (3)
+?,(Mon) 5 Apr 1926 (14),Bradford City (14),2-0,?,Port Vale FC (3)
+?,(Sat) 5 Dec 1925 (48),Bradford City (15),0-1,?,Portsmouth FC (3)
+?,(Sat) 21 Nov 1925 (46),Bradford City (16),2-0,?,Preston North End (3)
+?,(Fri) 25 Dec 1925 (51),Bradford City (17),1-4,?,Sheffield Wednesday (3)
+?,(Sat) 27 Mar 1926 (12),Bradford City (18),1-1,?,South Shields (3)
+?,(Sat) 6 Feb 1926 (5),Bradford City (19),0-5,?,Southampton FC (3)
+?,(Sat) 24 Apr 1926 (16),Bradford City (20),2-2,?,Stockport County (3)
+?,(Sat) 27 Feb 1926 (8),Bradford City (21),2-1,?,Stoke City (3)
+?,(Wed) 20 Jan 1926 (3),Bradford City (22),3-1,?,Swansea City (3)
+?,(Sat) 13 Mar 1926 (10),Bradford City (23),1-2,?,Wolverhampton Wanderers (3)
+?,(Sat) 12 Sep 1925 (36),Chelsea FC (4),3-2,?,Barnsley FC (24)
+?,(Sat) 26 Dec 1925 (51),Chelsea FC (5),2-3,?,Blackpool FC (24)
+?,(Sat) 29 Aug 1925 (34),Chelsea FC (6),2-0,?,Bradford City (24)
+?,(Sat) 20 Feb 1926 (7),Chelsea FC (7),5-2,?,Darlington FC (4)
+?,(Mon) 26 Apr 1926 (17),Chelsea FC (8),2-1,?,Derby County (4)
+?,(Sat) 26 Sep 1925 (38),Chelsea FC (9),4-0,?,Fulham FC (4)
+?,(Sat) 3 Oct 1925 (39),Chelsea FC (10),4-0,?,Hull City (4)
+?,(Wed) 10 Feb 1926 (6),Chelsea FC (11),1-3,?,Leyton Orient FC (4)
+?,(Sat) 24 Apr 1926 (16),Chelsea FC (12),0-1,?,Middlesbrough FC (4)
+?,(Mon) 7 Sep 1925 (36),Chelsea FC (13),0-0,?,Nottingham Forest (4)
+?,(Sat) 13 Mar 1926 (10),Chelsea FC (14),3-0,?,Oldham Athletic (4)
+?,(Sat) 16 Jan 1926 (2),Chelsea FC (15),3-1,?,Port Vale FC (4)
+?,(Sat) 19 Dec 1925 (50),Chelsea FC (16),0-0,?,Portsmouth FC (4)
+?,(Sat) 24 Oct 1925 (42),Chelsea FC (17),5-0,?,Preston North End (4)
+?,(Sat) 10 Apr 1926 (14),Chelsea FC (18),0-0,?,Sheffield Wednesday (4)
+?,(Sat) 27 Feb 1926 (8),Chelsea FC (19),0-0,?,South Shields (4)
+?,(Fri) 2 Apr 1926 (13),Chelsea FC (20),0-0,?,Southampton FC (4)
+?,(Sat) 7 Nov 1925 (44),Chelsea FC (21),3-2,?,Stockport County (4)
+?,(Sat) 5 Dec 1925 (48),Chelsea FC (22),1-1,?,Stoke City (4)
+?,(Sat) 21 Nov 1925 (46),Chelsea FC (23),1-3,?,Swansea City (4)
+?,(Sat) 27 Mar 1926 (12),Chelsea FC (24),3-3,?,Wolverhampton Wanderers (4)
+?,(Sat) 26 Sep 1925 (38),Darlington FC (5),2-2,?,Barnsley FC (25)
+?,(Wed) 23 Sep 1925 (38),Darlington FC (6),1-3,?,Blackpool FC (25)
+?,(Sat) 12 Sep 1925 (36),Darlington FC (7),1-3,?,Bradford City (25)
+?,(Sat) 10 Oct 1925 (40),Darlington FC (8),1-1,?,Chelsea FC (25)
+?,(Sat) 16 Jan 1926 (2),Darlington FC (9),3-0,?,Derby County (5)
+?,(Sat) 13 Mar 1926 (10),Darlington FC (10),1-2,?,Fulham FC (5)
+?,(Fri) 25 Dec 1925 (51),Darlington FC (11),1-2,?,Hull City (5)
+?,(Sat) 13 Feb 1926 (6),Darlington FC (12),6-0,?,Leyton Orient FC (5)
+?,(Sat) 27 Feb 1926 (8),Darlington FC (13),0-2,?,Middlesbrough FC (5)
+?,(Sat) 29 Aug 1925 (34),Darlington FC (14),0-0,?,Nottingham Forest (5)
+?,(Sat) 10 Apr 1926 (14),Darlington FC (15),1-0,?,Oldham Athletic (5)
+?,(Sat) 30 Jan 1926 (4),Darlington FC (16),4-0,?,Port Vale FC (5)
+?,(Sat) 24 Oct 1925 (42),Darlington FC (17),7-1,?,Portsmouth FC (5)
+?,(Wed) 9 Sep 1925 (36),Darlington FC (18),1-1,?,Preston North End (5)
+?,(Sat) 27 Mar 1926 (12),Darlington FC (19),5-1,?,Sheffield Wednesday (5)
+?,(Sat) 7 Nov 1925 (44),Darlington FC (20),4-1,?,South Shields (5)
+?,(Wed) 30 Sep 1925 (39),Darlington FC (21),3-1,?,Southampton FC (5)
+?,(Sat) 17 Apr 1926 (15),Darlington FC (22),3-2,?,Stockport County (5)
+?,(Sat) 21 Nov 1925 (46),Darlington FC (23),1-2,?,Stoke City (5)
+?,(Sat) 19 Dec 1925 (50),Darlington FC (24),3-3,?,Swansea City (5)
+?,(Sat) 24 Apr 1926 (16),Darlington FC (25),3-4,?,Wolverhampton Wanderers (5)
+?,(Tue) 6 Apr 1926 (14),Derby County (6),4-0,?,Barnsley FC (26)
+?,(Sat) 23 Jan 1926 (3),Derby County (7),5-2,?,Blackpool FC (26)
+?,(Sat) 10 Oct 1925 (40),Derby County (8),0-0,?,Bradford City (26)
+?,(Mon) 28 Dec 1925 (52),Derby County (9),4-2,?,Chelsea FC (26)
+?,(Sat) 5 Sep 1925 (35),Derby County (10),0-2,?,Darlington FC (26)
+?,(Sat) 27 Mar 1926 (12),Derby County (11),3-1,?,Fulham FC (6)
+?,(Sat) 2 Jan 1926 (0),Derby County (12),3-1,?,Hull City (6)
+?,(Mon) 31 Aug 1925 (35),Derby County (13),3-1,?,Leyton Orient FC (6)
+?,(Sat) 5 Dec 1925 (48),Derby County (14),2-0,?,Middlesbrough FC (6)
+?,(Sat) 6 Feb 1926 (5),Derby County (15),2-0,?,Nottingham Forest (6)
+?,(Sat) 24 Apr 1926 (16),Derby County (16),1-0,?,Oldham Athletic (6)
+?,(Sat) 26 Dec 1925 (51),Derby County (17),2-0,?,Port Vale FC (6)
+?,(Sat) 13 Mar 1926 (10),Derby County (18),0-2,?,Portsmouth FC (6)
+?,(Sat) 10 Apr 1926 (14),Derby County (19),2-0,?,Preston North End (6)
+?,(Sat) 27 Feb 1926 (8),Derby County (20),4-1,?,Sheffield Wednesday (6)
+?,(Sat) 21 Nov 1925 (46),Derby County (21),2-0,?,South Shields (6)
+?,(Sat) 19 Sep 1925 (37),Derby County (22),2-2,?,Southampton FC (6)
+?,(Sat) 19 Dec 1925 (50),Derby County (23),4-0,?,Stockport County (6)
+?,(Sat) 24 Oct 1925 (42),Derby County (24),7-3,?,Stoke City (6)
+?,(Sat) 3 Oct 1925 (39),Derby County (25),5-0,?,Swansea City (6)
+?,(Sat) 7 Nov 1925 (44),Derby County (26),2-0,?,Wolverhampton Wanderers (6)
+?,(Mon) 19 Apr 1926 (16),Fulham FC (7),2-2,?,Barnsley FC (27)
+?,(Sat) 17 Apr 1926 (15),Fulham FC (8),1-1,?,Blackpool FC (27)
+?,(Sat) 1 May 1926 (17),Fulham FC (9),2-0,?,Bradford City (27)
+?,(Sat) 6 Feb 1926 (5),Fulham FC (10),0-3,?,Chelsea FC (27)
+?,(Sat) 31 Oct 1925 (43),Fulham FC (11),4-0,?,Darlington FC (27)
+?,(Sat) 14 Nov 1925 (45),Fulham FC (12),1-1,?,Derby County (27)
+?,(Sat) 20 Mar 1926 (11),Fulham FC (13),1-1,?,Hull City (7)
+?,(Sat) 17 Oct 1925 (41),Fulham FC (14),0-2,?,Leyton Orient FC (7)
+?,(Fri) 25 Dec 1925 (51),Fulham FC (15),2-0,?,Middlesbrough FC (7)
+?,(Sat) 3 Apr 1926 (13),Fulham FC (16),0-2,?,Nottingham Forest (7)
+?,(Sat) 23 Jan 1926 (3),Fulham FC (17),2-1,?,Oldham Athletic (7)
+?,(Sat) 12 Dec 1925 (49),Fulham FC (18),3-3,?,Port Vale FC (7)
+?,(Mon) 5 Apr 1926 (14),Fulham FC (19),2-3,?,Portsmouth FC (7)
+?,(Sat) 10 Oct 1925 (40),Fulham FC (20),2-1,?,Preston North End (7)
+?,(Sat) 2 Jan 1926 (0),Fulham FC (21),3-0,?,Sheffield Wednesday (7)
+?,(Sat) 13 Feb 1926 (6),Fulham FC (22),2-1,?,South Shields (7)
+?,(Sat) 28 Nov 1925 (47),Fulham FC (23),1-1,?,Southampton FC (7)
+?,(Sat) 19 Sep 1925 (37),Fulham FC (24),1-0,?,Stockport County (7)
+?,(Sat) 5 Sep 1925 (35),Fulham FC (25),2-4,?,Stoke City (7)
+?,(Mon) 31 Aug 1925 (35),Fulham FC (26),0-1,?,Swansea City (7)
+?,(Mon) 5 Oct 1925 (40),Fulham FC (27),1-2,?,Wolverhampton Wanderers (7)
+?,(Sat) 30 Jan 1926 (4),Hull City (8),2-2,?,Barnsley FC (28)
+?,(Mon) 5 Apr 1926 (14),Hull City (9),1-2,?,Blackpool FC (28)
+?,(Sat) 16 Jan 1926 (2),Hull City (10),5-0,?,Bradford City (28)
+?,(Sat) 13 Feb 1926 (6),Hull City (11),0-1,?,Chelsea FC (28)
+?,(Sat) 26 Dec 1925 (51),Hull City (12),1-1,?,Darlington FC (28)
+?,(Sat) 29 Aug 1925 (34),Hull City (13),0-0,?,Derby County (28)
+?,(Sat) 7 Nov 1925 (44),Hull City (14),1-0,?,Fulham FC (28)
+?,(Sat) 26 Sep 1925 (38),Hull City (15),2-0,?,Leyton Orient FC (8)
+?,(Sat) 24 Oct 1925 (42),Hull City (16),1-2,?,Middlesbrough FC (8)
+?,(Mon) 12 Oct 1925 (41),Hull City (17),4-1,?,Nottingham Forest (8)
+?,(Sat) 5 Dec 1925 (48),Hull City (18),1-2,?,Oldham Athletic (8)
+?,(Sat) 12 Sep 1925 (36),Hull City (19),3-0,?,Port Vale FC (8)
+?,(Sat) 24 Apr 1926 (16),Hull City (20),1-0,?,Portsmouth FC (8)
+?,(Sat) 27 Feb 1926 (8),Hull City (21),1-1,?,Preston North End (8)
+?,(Sat) 21 Nov 1925 (46),Hull City (22),0-1,?,Sheffield Wednesday (8)
+?,(Sat) 10 Oct 1925 (40),Hull City (23),1-3,?,South Shields (8)
+?,(Mon) 7 Sep 1925 (36),Hull City (24),4-0,?,Southampton FC (8)
+?,(Sat) 13 Mar 1926 (10),Hull City (25),4-0,?,Stockport County (8)
+?,(Sat) 10 Apr 1926 (14),Hull City (26),1-0,?,Stoke City (8)
+?,(Mon) 26 Apr 1926 (17),Hull City (27),4-2,?,Swansea City (8)
+?,(Sat) 19 Dec 1925 (50),Hull City (28),3-1,?,Wolverhampton Wanderers (8)
+?,(Sat) 16 Jan 1926 (2),Leyton Orient FC (9),4-0,?,Barnsley FC (29)
+?,(Mon) 8 Mar 1926 (10),Leyton Orient FC (10),2-2,?,Blackpool FC (29)
+?,(Mon) 19 Apr 1926 (16),Leyton Orient FC (11),3-1,?,Bradford City (29)
+?,(Sat) 19 Sep 1925 (37),Leyton Orient FC (12),1-2,?,Chelsea FC (29)
+?,(Sat) 3 Oct 1925 (39),Leyton Orient FC (13),1-2,?,Darlington FC (29)
+?,(Thu) 24 Sep 1925 (38),Leyton Orient FC (14),0-1,?,Derby County (29)
+?,(Sat) 27 Feb 1926 (8),Leyton Orient FC (15),1-1,?,Fulham FC (29)
+?,(Sat) 6 Feb 1926 (5),Leyton Orient FC (16),0-0,?,Hull City (29)
+?,(Sat) 19 Dec 1925 (50),Leyton Orient FC (17),1-0,?,Middlesbrough FC (9)
+?,(Fri) 2 Apr 1926 (13),Leyton Orient FC (18),0-1,?,Nottingham Forest (9)
+?,(Sat) 7 Nov 1925 (44),Leyton Orient FC (19),1-2,?,Oldham Athletic (9)
+?,(Sat) 29 Aug 1925 (34),Leyton Orient FC (20),1-2,?,Port Vale FC (9)
+?,(Sat) 27 Mar 1926 (12),Leyton Orient FC (21),1-1,?,Portsmouth FC (9)
+?,(Sat) 24 Apr 1926 (16),Leyton Orient FC (22),1-1,?,Preston North End (9)
+?,(Sat) 5 Dec 1925 (48),Leyton Orient FC (23),0-0,?,Sheffield Wednesday (9)
+?,(Sat) 24 Oct 1925 (42),Leyton Orient FC (24),1-2,?,South Shields (9)
+?,(Fri) 25 Dec 1925 (51),Leyton Orient FC (25),2-1,?,Southampton FC (9)
+?,(Sat) 12 Sep 1925 (36),Leyton Orient FC (26),2-1,?,Stockport County (9)
+?,(Sat) 13 Mar 1926 (10),Leyton Orient FC (27),4-0,?,Stoke City (9)
+?,(Sat) 10 Apr 1926 (14),Leyton Orient FC (28),2-0,?,Swansea City (9)
+?,(Sat) 21 Nov 1925 (46),Leyton Orient FC (29),2-1,?,Wolverhampton Wanderers (9)
+?,(Sat) 14 Nov 1925 (45),Middlesbrough FC (10),5-0,?,Barnsley FC (30)
+?,(Wed) 2 Sep 1925 (35),Middlesbrough FC (11),3-2,?,Blackpool FC (30)
+?,(Sat) 28 Nov 1925 (47),Middlesbrough FC (12),2-5,?,Bradford City (30)
+?,(Sat) 12 Dec 1925 (49),Middlesbrough FC (13),1-2,?,Chelsea FC (30)
+?,(Sat) 17 Oct 1925 (41),Middlesbrough FC (14),3-2,?,Darlington FC (30)
+?,(Sat) 17 Apr 1926 (15),Middlesbrough FC (15),1-2,?,Derby County (30)
+?,(Sat) 26 Dec 1925 (51),Middlesbrough FC (16),4-0,?,Fulham FC (30)
+?,(Sat) 6 Mar 1926 (9),Middlesbrough FC (17),3-3,?,Hull City (30)
+?,(Sat) 1 May 1926 (17),Middlesbrough FC (18),1-2,?,Leyton Orient FC (30)
+?,(Sat) 31 Oct 1925 (43),Middlesbrough FC (19),1-0,?,Nottingham Forest (10)
+?,(Sat) 3 Oct 1925 (39),Middlesbrough FC (20),2-1,?,Oldham Athletic (10)
+?,(Sat) 3 Apr 1926 (13),Middlesbrough FC (21),3-1,?,Port Vale FC (10)
+?,(Sat) 2 Jan 1926 (0),Middlesbrough FC (22),4-1,?,Portsmouth FC (10)
+?,(Wed) 23 Sep 1925 (38),Middlesbrough FC (23),5-1,?,Preston North End (10)
+?,(Sat) 19 Sep 1925 (37),Middlesbrough FC (24),3-0,?,Sheffield Wednesday (10)
+?,(Fri) 1 Jan 1926 (0),Middlesbrough FC (25),1-2,?,South Shields (10)
+?,(Sat) 20 Mar 1926 (11),Middlesbrough FC (26),3-0,?,Southampton FC (10)
+?,(Sat) 20 Feb 1926 (7),Middlesbrough FC (27),4-0,?,Stockport County (10)
+?,(Sat) 6 Feb 1926 (5),Middlesbrough FC (28),3-0,?,Stoke City (10)
+?,(Sat) 23 Jan 1926 (3),Middlesbrough FC (29),0-3,?,Swansea City (10)
+?,(Sat) 5 Sep 1925 (35),Middlesbrough FC (30),4-1,?,Wolverhampton Wanderers (10)
+?,(Fri) 25 Dec 1925 (51),Nottingham Forest (11),4-2,?,Barnsley FC (31)
+?,(Sat) 5 Sep 1925 (35),Nottingham Forest (12),1-1,?,Blackpool FC (31)
+?,(Sat) 13 Feb 1926 (6),Nottingham Forest (13),0-0,?,Bradford City (31)
+?,(Mon) 31 Aug 1925 (35),Nottingham Forest (14),1-5,?,Chelsea FC (31)
+?,(Sat) 2 Jan 1926 (0),Nottingham Forest (15),2-0,?,Darlington FC (31)
+?,(Sat) 26 Sep 1925 (38),Nottingham Forest (16),1-2,?,Derby County (31)
+?,(Sat) 21 Nov 1925 (46),Nottingham Forest (17),2-2,?,Fulham FC (31)
+?,(Wed) 21 Apr 1926 (16),Nottingham Forest (18),4-0,?,Hull City (31)
+?,(Mon) 5 Apr 1926 (14),Nottingham Forest (19),1-0,?,Leyton Orient FC (31)
+?,(Sat) 13 Mar 1926 (10),Nottingham Forest (20),1-0,?,Middlesbrough FC (31)
+?,(Sat) 19 Dec 1925 (50),Nottingham Forest (21),1-1,?,Oldham Athletic (11)
+?,(Sat) 10 Oct 1925 (40),Nottingham Forest (22),2-0,?,Port Vale FC (11)
+?,(Sat) 7 Nov 1925 (44),Nottingham Forest (23),3-1,?,Portsmouth FC (11)
+?,(Sat) 5 Dec 1925 (48),Nottingham Forest (24),4-0,?,Preston North End (11)
+?,(Sat) 24 Oct 1925 (42),Nottingham Forest (25),2-0,?,Sheffield Wednesday (11)
+?,(Sat) 10 Apr 1926 (14),Nottingham Forest (26),4-1,?,South Shields (11)
+?,(Sat) 23 Jan 1926 (3),Nottingham Forest (27),1-2,?,Southampton FC (11)
+?,(Sat) 27 Mar 1926 (12),Nottingham Forest (28),2-0,?,Stockport County (11)
+?,(Sat) 24 Apr 1926 (16),Nottingham Forest (29),1-2,?,Stoke City (11)
+?,(Sat) 27 Feb 1926 (8),Nottingham Forest (30),0-2,?,Swansea City (11)
+?,(Sat) 19 Sep 1925 (37),Nottingham Forest (31),1-4,?,Wolverhampton Wanderers (11)
+?,(Sat) 29 Aug 1925 (34),Oldham Athletic (12),2-1,?,Barnsley FC (32)
+?,(Sat) 21 Nov 1925 (46),Oldham Athletic (13),3-2,?,Blackpool FC (32)
+?,(Sat) 6 Mar 1926 (9),Oldham Athletic (14),3-0,?,Bradford City (32)
+?,(Sat) 31 Oct 1925 (43),Oldham Athletic (15),1-1,?,Chelsea FC (32)
+?,(Mon) 8 Feb 1926 (6),Oldham Athletic (16),0-1,?,Darlington FC (32)
+?,(Mon) 14 Dec 1925 (50),Oldham Athletic (17),2-0,?,Derby County (32)
+?,(Sat) 12 Sep 1925 (36),Oldham Athletic (18),4-0,?,Fulham FC (32)
+?,(Sat) 17 Apr 1926 (15),Oldham Athletic (19),2-1,?,Hull City (32)
+?,(Sat) 20 Mar 1926 (11),Oldham Athletic (20),1-1,?,Leyton Orient FC (32)
+?,(Sat) 13 Feb 1926 (6),Oldham Athletic (21),4-1,?,Middlesbrough FC (32)
+?,(Sat) 1 May 1926 (17),Oldham Athletic (22),8-3,?,Nottingham Forest (32)
+?,(Sat) 17 Oct 1925 (41),Oldham Athletic (23),3-2,?,Port Vale FC (12)
+?,(Sat) 10 Oct 1925 (40),Oldham Athletic (24),1-3,?,Portsmouth FC (12)
+?,(Sat) 26 Sep 1925 (38),Oldham Athletic (25),3-2,?,Preston North End (12)
+?,(Mon) 7 Sep 1925 (36),Oldham Athletic (26),1-1,?,Sheffield Wednesday (12)
+?,(Tue) 16 Mar 1926 (11),Oldham Athletic (27),2-1,?,South Shields (12)
+?,(Sat) 14 Nov 1925 (45),Oldham Athletic (28),1-0,?,Southampton FC (12)
+?,(Sat) 30 Jan 1926 (4),Oldham Athletic (29),3-0,?,Stockport County (12)
+?,(Mon) 14 Sep 1925 (37),Oldham Athletic (30),7-2,?,Stoke City (12)
+?,(Fri) 2 Apr 1926 (13),Oldham Athletic (31),0-0,?,Swansea City (12)
+?,(Fri) 25 Dec 1925 (51),Oldham Athletic (32),1-2,?,Wolverhampton Wanderers (12)
+?,(Mon) 14 Sep 1925 (37),Port Vale FC (13),3-0,?,Barnsley FC (33)
+?,(Sat) 6 Feb 1926 (5),Port Vale FC (14),5-0,?,Blackpool FC (33)
+?,(Fri) 2 Apr 1926 (13),Port Vale FC (15),2-0,?,Bradford City (33)
+?,(Sat) 5 Sep 1925 (35),Port Vale FC (16),0-6,?,Chelsea FC (33)
+?,(Sat) 19 Sep 1925 (37),Port Vale FC (17),6-1,?,Darlington FC (33)
+?,(Fri) 25 Dec 1925 (51),Port Vale FC (18),0-1,?,Derby County (33)
+?,(Sat) 24 Apr 1926 (16),Port Vale FC (19),0-1,?,Fulham FC (33)
+?,(Sat) 23 Jan 1926 (3),Port Vale FC (20),3-1,?,Hull City (33)
+?,(Sat) 2 Jan 1926 (0),Port Vale FC (21),4-2,?,Leyton Orient FC (33)
+?,(Sat) 21 Nov 1925 (46),Port Vale FC (22),4-0,?,Middlesbrough FC (33)
+?,(Mon) 12 Apr 1926 (15),Port Vale FC (23),1-1,?,Nottingham Forest (33)
+?,(Sat) 27 Feb 1926 (8),Port Vale FC (24),3-0,?,Oldham Athletic (33)
+?,(Sat) 10 Apr 1926 (14),Port Vale FC (25),1-1,?,Portsmouth FC (13)
+?,(Sat) 27 Mar 1926 (12),Port Vale FC (26),3-0,?,Preston North End (13)
+?,(Sat) 7 Nov 1925 (44),Port Vale FC (27),4-3,?,Sheffield Wednesday (13)
+?,(Sat) 19 Dec 1925 (50),Port Vale FC (28),2-0,?,South Shields (13)
+?,(Sat) 3 Oct 1925 (39),Port Vale FC (29),1-1,?,Southampton FC (13)
+?,(Sat) 24 Oct 1925 (42),Port Vale FC (30),2-0,?,Stockport County (13)
+?,(Mon) 31 Aug 1925 (35),Port Vale FC (31),3-0,?,Stoke City (13)
+?,(Sat) 13 Mar 1926 (10),Port Vale FC (32),3-0,?,Swansea City (13)
+?,(Sat) 5 Dec 1925 (48),Port Vale FC (33),3-0,?,Wolverhampton Wanderers (13)
+?,(Sat) 3 Apr 1926 (13),Portsmouth FC (14),1-2,?,Barnsley FC (34)
+?,(Sat) 17 Oct 1925 (41),Portsmouth FC (15),2-0,?,Blackpool FC (34)
+?,(Sat) 17 Apr 1926 (15),Portsmouth FC (16),3-1,?,Bradford City (34)
+?,(Sat) 1 May 1926 (17),Portsmouth FC (17),4-0,?,Chelsea FC (34)
+?,(Sat) 6 Mar 1926 (9),Portsmouth FC (18),2-0,?,Darlington FC (34)
+?,(Sat) 31 Oct 1925 (43),Portsmouth FC (19),2-2,?,Derby County (34)
+?,(Fri) 2 Apr 1926 (13),Portsmouth FC (20),0-0,?,Fulham FC (34)
+?,(Sat) 12 Dec 1925 (49),Portsmouth FC (21),2-2,?,Hull City (34)
+?,(Sat) 14 Nov 1925 (45),Portsmouth FC (22),3-2,?,Leyton Orient FC (34)
+?,(Sat) 29 Aug 1925 (34),Portsmouth FC (23),1-5,?,Middlesbrough FC (34)
+?,(Sat) 20 Mar 1926 (11),Portsmouth FC (24),5-1,?,Nottingham Forest (34)
+?,(Sat) 20 Feb 1926 (7),Portsmouth FC (25),0-2,?,Oldham Athletic (34)
+?,(Sat) 28 Nov 1925 (47),Portsmouth FC (26),3-2,?,Port Vale FC (34)
+?,(Wed) 30 Sep 1925 (39),Portsmouth FC (27),5-2,?,Preston North End (14)
+?,(Sat) 6 Feb 1926 (5),Portsmouth FC (28),1-2,?,Sheffield Wednesday (14)
+?,(Mon) 7 Dec 1925 (49),Portsmouth FC (29),4-2,?,South Shields (14)
+?,(Sat) 16 Jan 1926 (2),Portsmouth FC (30),1-2,?,Southampton FC (14)
+?,(Sat) 26 Dec 1925 (51),Portsmouth FC (31),4-0,?,Stockport County (14)
+?,(Sat) 3 Oct 1925 (39),Portsmouth FC (32),2-0,?,Stoke City (14)
+?,(Sat) 19 Sep 1925 (37),Portsmouth FC (33),0-0,?,Swansea City (14)
+?,(Sat) 23 Jan 1926 (3),Portsmouth FC (34),3-0,?,Wolverhampton Wanderers (14)
+?,(Sat) 1 May 1926 (17),Preston North End (15),4-2,?,Barnsley FC (35)
+?,(Sat) 20 Mar 1926 (11),Preston North End (16),6-4,?,Blackpool FC (35)
+?,(Sat) 3 Apr 1926 (13),Preston North End (17),3-1,?,Bradford City (35)
+?,(Sat) 6 Mar 1926 (9),Preston North End (18),3-1,?,Chelsea FC (35)
+?,(Fri) 2 Apr 1926 (13),Preston North End (19),0-0,?,Darlington FC (35)
+?,(Sat) 28 Nov 1925 (47),Preston North End (20),2-1,?,Derby County (35)
+?,(Thu) 25 Mar 1926 (12),Preston North End (21),2-1,?,Fulham FC (35)
+?,(Sat) 17 Oct 1925 (41),Preston North End (22),4-0,?,Hull City (35)
+?,(Sat) 12 Dec 1925 (49),Preston North End (23),4-1,?,Leyton Orient FC (35)
+?,(Mon) 14 Sep 1925 (37),Preston North End (24),1-0,?,Middlesbrough FC (35)
+?,(Sat) 17 Apr 1926 (15),Preston North End (25),2-0,?,Nottingham Forest (35)
+?,(Sat) 6 Feb 1926 (5),Preston North End (26),2-1,?,Oldham Athletic (35)
+?,(Sat) 14 Nov 1925 (45),Preston North End (27),4-0,?,Port Vale FC (35)
+?,(Mon) 31 Aug 1925 (35),Preston North End (28),3-2,?,Portsmouth FC (35)
+?,(Sat) 23 Jan 1926 (3),Preston North End (29),0-3,?,Sheffield Wednesday (15)
+?,(Sat) 26 Dec 1925 (51),Preston North End (30),0-4,?,South Shields (15)
+?,(Sat) 31 Oct 1925 (43),Preston North End (31),2-2,?,Southampton FC (15)
+?,(Sat) 3 Oct 1925 (39),Preston North End (32),5-3,?,Stockport County (15)
+?,(Sat) 19 Sep 1925 (37),Preston North End (33),2-0,?,Stoke City (15)
+?,(Sat) 5 Sep 1925 (35),Preston North End (34),4-2,?,Swansea City (15)
+?,(Sat) 2 Jan 1926 (0),Preston North End (35),1-0,?,Wolverhampton Wanderers (15)
+?,(Sat) 31 Oct 1925 (43),Sheffield Wednesday (16),3-0,?,Barnsley FC (36)
+?,(Sat) 1 May 1926 (17),Sheffield Wednesday (17),2-0,?,Blackpool FC (36)
+?,(Sat) 26 Dec 1925 (51),Sheffield Wednesday (18),5-1,?,Bradford City (36)
+?,(Sat) 28 Nov 1925 (47),Sheffield Wednesday (19),4-1,?,Chelsea FC (36)
+?,(Sat) 14 Nov 1925 (45),Sheffield Wednesday (20),4-0,?,Darlington FC (36)
+?,(Sat) 17 Oct 1925 (41),Sheffield Wednesday (21),1-4,?,Derby County (36)
+?,(Sat) 29 Aug 1925 (34),Sheffield Wednesday (22),3-0,?,Fulham FC (36)
+?,(Sat) 3 Apr 1926 (13),Sheffield Wednesday (23),2-0,?,Hull City (36)
+?,(Sat) 17 Apr 1926 (15),Sheffield Wednesday (24),3-0,?,Leyton Orient FC (36)
+?,(Mon) 22 Feb 1926 (8),Sheffield Wednesday (25),2-0,?,Middlesbrough FC (36)
+?,(Mon) 22 Mar 1926 (12),Sheffield Wednesday (26),2-0,?,Nottingham Forest (36)
+?,(Mon) 28 Dec 1925 (52),Sheffield Wednesday (27),5-1,?,Oldham Athletic (36)
+?,(Sat) 20 Mar 1926 (11),Sheffield Wednesday (28),0-2,?,Port Vale FC (36)
+?,(Sat) 26 Sep 1925 (38),Sheffield Wednesday (29),4-2,?,Portsmouth FC (36)
+?,(Sat) 12 Sep 1925 (36),Sheffield Wednesday (30),5-1,?,Preston North End (36)
+?,(Sat) 16 Jan 1926 (2),Sheffield Wednesday (31),1-0,?,South Shields (16)
+?,(Sat) 12 Dec 1925 (49),Sheffield Wednesday (32),2-1,?,Southampton FC (16)
+?,(Mon) 21 Sep 1925 (38),Sheffield Wednesday (33),6-2,?,Stockport County (16)
+?,(Tue) 6 Apr 1926 (14),Sheffield Wednesday (34),2-0,?,Stoke City (16)
+?,(Sat) 10 Oct 1925 (40),Sheffield Wednesday (35),3-1,?,Swansea City (16)
+?,(Sat) 13 Feb 1926 (6),Sheffield Wednesday (36),2-1,?,Wolverhampton Wanderers (16)
+?,(Sat) 12 Dec 1925 (49),South Shields (17),3-0,?,Barnsley FC (37)
+?,(Sat) 31 Oct 1925 (43),South Shields (18),3-4,?,Blackpool FC (37)
+?,(Sat) 14 Nov 1925 (45),South Shields (19),1-3,?,Bradford City (37)
+?,(Sat) 17 Oct 1925 (41),South Shields (20),0-0,?,Chelsea FC (37)
+?,(Sat) 20 Mar 1926 (11),South Shields (21),2-4,?,Darlington FC (37)
+?,(Sat) 3 Apr 1926 (13),South Shields (22),0-0,?,Derby County (37)
+?,(Sat) 3 Oct 1925 (39),South Shields (23),5-2,?,Fulham FC (37)
+?,(Wed) 3 Mar 1926 (9),South Shields (24),1-3,?,Hull City (37)
+?,(Wed) 24 Mar 1926 (12),South Shields (25),1-0,?,Leyton Orient FC (37)
+?,(Fri) 2 Apr 1926 (13),South Shields (26),2-2,?,Middlesbrough FC (37)
+?,(Sat) 28 Nov 1925 (47),South Shields (27),3-1,?,Nottingham Forest (37)
+?,(Sat) 19 Sep 1925 (37),South Shields (28),0-0,?,Oldham Athletic (37)
+?,(Sat) 1 May 1926 (17),South Shields (29),5-2,?,Port Vale FC (37)
+?,(Mon) 26 Oct 1925 (43),South Shields (30),5-1,?,Portsmouth FC (37)
+?,(Mon) 5 Apr 1926 (14),South Shields (31),1-1,?,Preston North End (37)
+?,(Sat) 5 Sep 1925 (35),South Shields (32),1-1,?,Sheffield Wednesday (37)
+?,(Sat) 6 Mar 1926 (9),South Shields (33),2-0,?,Southampton FC (17)
+?,(Sat) 6 Feb 1926 (5),South Shields (34),4-2,?,Stockport County (17)
+?,(Sat) 23 Jan 1926 (3),South Shields (35),5-1,?,Stoke City (17)
+?,(Sat) 2 Jan 1926 (0),South Shields (36),3-1,?,Swansea City (17)
+?,(Mon) 7 Sep 1925 (36),South Shields (37),3-1,?,Wolverhampton Wanderers (17)
+?,(Sat) 10 Oct 1925 (40),Southampton FC (18),0-0,?,Barnsley FC (38)
+?,(Sat) 2 Jan 1926 (0),Southampton FC (19),2-2,?,Blackpool FC (38)
+?,(Sat) 26 Sep 1925 (38),Southampton FC (20),1-2,?,Bradford City (38)
+?,(Mon) 5 Apr 1926 (14),Southampton FC (21),0-1,?,Chelsea FC (38)
+?,(Mon) 5 Oct 1925 (40),Southampton FC (22),4-1,?,Darlington FC (38)
+?,(Wed) 10 Feb 1926 (6),Southampton FC (23),2-1,?,Derby County (38)
+?,(Sat) 10 Apr 1926 (14),Southampton FC (24),2-0,?,Fulham FC (38)
+?,(Mon) 31 Aug 1925 (35),Southampton FC (25),0-2,?,Hull City (38)
+?,(Sat) 26 Dec 1925 (51),Southampton FC (26),2-0,?,Leyton Orient FC (38)
+?,(Sat) 7 Nov 1925 (44),Southampton FC (27),3-1,?,Middlesbrough FC (38)
+?,(Sat) 12 Sep 1925 (36),Southampton FC (28),2-0,?,Nottingham Forest (38)
+?,(Sat) 27 Mar 1926 (12),Southampton FC (29),3-1,?,Oldham Athletic (38)
+?,(Sat) 13 Feb 1926 (6),Southampton FC (30),2-3,?,Port Vale FC (38)
+?,(Sat) 5 Sep 1925 (35),Southampton FC (31),1-3,?,Portsmouth FC (38)
+?,(Sat) 13 Mar 1926 (10),Southampton FC (32),2-0,?,Preston North End (38)
+?,(Sat) 24 Apr 1926 (16),Southampton FC (33),1-2,?,Sheffield Wednesday (38)
+?,(Sat) 5 Dec 1925 (48),Southampton FC (34),0-1,?,South Shields (38)
+?,(Sat) 21 Nov 1925 (46),Southampton FC (35),3-0,?,Stockport County (18)
+?,(Sat) 19 Dec 1925 (50),Southampton FC (36),1-2,?,Stoke City (18)
+?,(Sat) 24 Oct 1925 (42),Southampton FC (37),4-1,?,Swansea City (18)
+?,(Sat) 27 Feb 1926 (8),Southampton FC (38),4-2,?,Wolverhampton Wanderers (18)
+?,(Sat) 17 Oct 1925 (41),Stockport County (19),1-1,?,Barnsley FC (39)
+?,(Sat) 28 Nov 1925 (47),Stockport County (20),4-3,?,Blackpool FC (39)
+?,(Sat) 12 Dec 1925 (49),Stockport County (21),1-1,?,Bradford City (39)
+?,(Sat) 20 Mar 1926 (11),Stockport County (22),0-0,?,Chelsea FC (39)
+?,(Sat) 5 Dec 1925 (48),Stockport County (23),1-1,?,Darlington FC (39)
+?,(Sat) 1 May 1926 (17),Stockport County (24),3-0,?,Derby County (39)
+?,(Tue) 9 Feb 1926 (6),Stockport County (25),1-2,?,Fulham FC (39)
+?,(Sat) 31 Oct 1925 (43),Stockport County (26),0-1,?,Hull City (39)
+?,(Sat) 23 Jan 1926 (3),Stockport County (27),3-2,?,Leyton Orient FC (39)
+?,(Sat) 10 Oct 1925 (40),Stockport County (28),1-2,?,Middlesbrough FC (39)
+?,(Sat) 14 Nov 1925 (45),Stockport County (29),3-0,?,Nottingham Forest (39)
+?,(Sat) 5 Sep 1925 (35),Stockport County (30),1-0,?,Oldham Athletic (39)
+?,(Sat) 6 Mar 1926 (9),Stockport County (31),2-2,?,Port Vale FC (39)
+?,(Fri) 25 Dec 1925 (51),Stockport County (32),3-3,?,Portsmouth FC (39)
+?,(Sat) 13 Feb 1926 (6),Stockport County (33),1-1,?,Preston North End (39)
+?,(Mon) 31 Aug 1925 (35),Stockport County (34),0-2,?,Sheffield Wednesday (39)
+?,(Sat) 26 Sep 1925 (38),Stockport County (35),4-1,?,South Shields (39)
+?,(Sat) 3 Apr 1926 (13),Stockport County (36),1-2,?,Southampton FC (39)
+?,(Sat) 2 Jan 1926 (0),Stockport County (37),2-1,?,Stoke City (19)
+?,(Fri) 1 Jan 1926 (0),Stockport County (38),1-3,?,Swansea City (19)
+?,(Fri) 2 Apr 1926 (13),Stockport County (39),1-0,?,Wolverhampton Wanderers (19)
+?,(Sat) 20 Mar 1926 (11),Stoke City (20),1-2,?,Barnsley FC (40)
+?,(Sat) 14 Nov 1925 (45),Stoke City (21),1-3,?,Blackpool FC (40)
+?,(Sat) 17 Oct 1925 (41),Stoke City (22),1-0,?,Bradford City (40)
+?,(Sat) 17 Apr 1926 (15),Stoke City (23),1-3,?,Chelsea FC (40)
+?,(Sat) 3 Apr 1926 (13),Stoke City (24),6-1,?,Darlington FC (40)
+?,(Sat) 6 Mar 1926 (9),Stoke City (25),0-1,?,Derby County (40)
+?,(Sat) 16 Jan 1926 (2),Stoke City (26),5-0,?,Fulham FC (40)
+?,(Sat) 28 Nov 1925 (47),Stoke City (27),3-1,?,Hull City (40)
+?,(Sat) 31 Oct 1925 (43),Stoke City (28),0-0,?,Leyton Orient FC (40)
+?,(Sat) 26 Sep 1925 (38),Stoke City (29),4-0,?,Middlesbrough FC (40)
+?,(Sat) 12 Dec 1925 (49),Stoke City (30),1-1,?,Nottingham Forest (40)
+?,(Mon) 26 Apr 1926 (17),Stoke City (31),1-0,?,Oldham Athletic (40)
+?,(Mon) 7 Sep 1925 (36),Stoke City (32),0-3,?,Port Vale FC (40)
+?,(Sat) 13 Feb 1926 (6),Stoke City (33),2-1,?,Portsmouth FC (40)
+?,(Mon) 22 Feb 1926 (8),Stoke City (34),1-3,?,Preston North End (40)
+?,(Mon) 5 Apr 1926 (14),Stoke City (35),0-1,?,Sheffield Wednesday (40)
+?,(Sat) 12 Sep 1925 (36),Stoke City (36),0-1,?,South Shields (40)
+?,(Sat) 1 May 1926 (17),Stoke City (37),1-1,?,Southampton FC (40)
+?,(Sat) 29 Aug 1925 (34),Stoke City (38),3-0,?,Stockport County (40)
+?,(Sat) 26 Dec 1925 (51),Stoke City (39),1-1,?,Swansea City (20)
+?,(Sat) 10 Oct 1925 (40),Stoke City (40),0-0,?,Wolverhampton Wanderers (20)
+?,(Sat) 17 Apr 1926 (15),Swansea City (21),3-0,?,Barnsley FC (41)
+?,(Thu) 25 Feb 1926 (8),Swansea City (22),6-1,?,Blackpool FC (41)
+?,(Sat) 20 Mar 1926 (11),Swansea City (23),1-0,?,Bradford City (41)
+?,(Sat) 3 Apr 1926 (13),Swansea City (24),0-0,?,Chelsea FC (41)
+?,(Sat) 1 May 1926 (17),Swansea City (25),1-1,?,Darlington FC (41)
+?,(Sat) 13 Feb 1926 (6),Swansea City (26),2-0,?,Derby County (41)
+?,(Mon) 21 Sep 1925 (38),Swansea City (27),6-0,?,Fulham FC (41)
+?,(Sat) 14 Nov 1925 (45),Swansea City (28),2-0,?,Hull City (41)
+?,(Mon) 12 Apr 1926 (15),Swansea City (29),0-0,?,Leyton Orient FC (41)
+?,(Sat) 12 Sep 1925 (36),Swansea City (30),4-0,?,Middlesbrough FC (41)
+?,(Sat) 17 Oct 1925 (41),Swansea City (31),3-0,?,Nottingham Forest (41)
+?,(Mon) 5 Apr 1926 (14),Swansea City (32),3-3,?,Oldham Athletic (41)
+?,(Sat) 31 Oct 1925 (43),Swansea City (33),1-0,?,Port Vale FC (41)
+?,(Thu) 18 Mar 1926 (11),Swansea City (34),1-0,?,Portsmouth FC (41)
+?,(Sat) 16 Jan 1926 (2),Swansea City (35),4-1,?,Preston North End (41)
+?,(Thu) 11 Mar 1926 (10),Swansea City (36),2-2,?,Sheffield Wednesday (41)
+?,(Sat) 29 Aug 1925 (34),Swansea City (37),1-2,?,South Shields (41)
+?,(Mon) 29 Mar 1926 (13),Swansea City (38),3-1,?,Southampton FC (41)
+?,(Mon) 14 Sep 1925 (37),Swansea City (39),4-0,?,Stockport County (41)
+?,(Fri) 25 Dec 1925 (51),Swansea City (40),1-1,?,Stoke City (41)
+?,(Sat) 26 Sep 1925 (38),Swansea City (41),2-4,?,Wolverhampton Wanderers (21)
+?,(Mon) 26 Apr 1926 (17),Wolverhampton Wanderers (22),7-1,?,Barnsley FC (42)
+?,(Sat) 12 Dec 1925 (49),Wolverhampton Wanderers (23),0-0,?,Blackpool FC (42)
+?,(Sat) 31 Oct 1925 (43),Wolverhampton Wanderers (24),1-1,?,Bradford City (42)
+?,(Sat) 14 Nov 1925 (45),Wolverhampton Wanderers (25),0-0,?,Chelsea FC (42)
+?,(Mon) 1 Mar 1926 (9),Wolverhampton Wanderers (26),1-0,?,Darlington FC (42)
+?,(Sat) 20 Mar 1926 (11),Wolverhampton Wanderers (27),2-0,?,Derby County (42)
+?,(Mon) 12 Apr 1926 (15),Wolverhampton Wanderers (28),0-0,?,Fulham FC (42)
+?,(Sat) 1 May 1926 (17),Wolverhampton Wanderers (29),3-1,?,Hull City (42)
+?,(Sat) 3 Apr 1926 (13),Wolverhampton Wanderers (30),3-0,?,Leyton Orient FC (42)
+?,(Sat) 16 Jan 1926 (2),Wolverhampton Wanderers (31),3-1,?,Middlesbrough FC (42)
+?,(Mon) 8 Feb 1926 (6),Wolverhampton Wanderers (32),4-0,?,Nottingham Forest (42)
+?,(Sat) 26 Dec 1925 (51),Wolverhampton Wanderers (33),2-1,?,Oldham Athletic (42)
+?,(Sat) 17 Apr 1926 (15),Wolverhampton Wanderers (34),3-1,?,Port Vale FC (42)
+?,(Sat) 12 Sep 1925 (36),Wolverhampton Wanderers (35),4-1,?,Portsmouth FC (42)
+?,(Sat) 29 Aug 1925 (34),Wolverhampton Wanderers (36),3-0,?,Preston North End (42)
+?,(Sat) 3 Oct 1925 (39),Wolverhampton Wanderers (37),1-2,?,Sheffield Wednesday (42)
+?,(Mon) 14 Sep 1925 (37),Wolverhampton Wanderers (38),2-0,?,South Shields (42)
+?,(Sat) 17 Oct 1925 (41),Wolverhampton Wanderers (39),4-1,?,Southampton FC (42)
+?,(Mon) 5 Apr 1926 (14),Wolverhampton Wanderers (40),5-1,?,Stockport County (42)
+?,(Sat) 20 Feb 1926 (7),Wolverhampton Wanderers (41),5-1,?,Stoke City (42)
+?,(Sat) 6 Feb 1926 (5),Wolverhampton Wanderers (42),2-3,?,Swansea City (42)

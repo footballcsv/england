@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barrow,Aldershot,3-0,-
--,-,Bradford Park Avenue,Aldershot,3-2,-
--,-,Carlisle United,Aldershot,0-0,-
--,-,Chester,Aldershot,5-1,-
--,-,Crewe Alexandra,Aldershot,3-2,-
--,-,Crystal Palace,Aldershot,1-1,-
--,-,Darlington,Aldershot,4-0,-
--,-,Doncaster Rovers,Aldershot,1-2,-
--,-,Exeter City,Aldershot,3-1,-
--,-,Gateshead,Aldershot,4-1,-
--,-,Gillingham,Aldershot,3-1,-
--,-,Hartlepool United,Aldershot,3-0,-
--,-,Millwall,Aldershot,2-0,-
--,-,Northampton Town,Aldershot,2-0,-
--,-,Notts County,Aldershot,5-3,-
--,-,Oldham Athletic,Aldershot,0-1,-
--,-,Rochdale,Aldershot,2-0,-
--,-,Southport,Aldershot,0-4,-
--,-,Stockport County,Aldershot,1-1,-
--,-,Torquay United,Aldershot,2-1,-
--,-,Walsall,Aldershot,1-0,-
--,-,Watford,Aldershot,1-3,-
--,-,Workington,Aldershot,3-3,-
--,-,Aldershot,Barrow,6-1,-
--,-,Bradford Park Avenue,Barrow,2-0,-
--,-,Carlisle United,Barrow,0-1,-
--,-,Chester,Barrow,3-2,-
--,-,Crewe Alexandra,Barrow,3-2,-
--,-,Crystal Palace,Barrow,9-0,-
--,-,Darlington,Barrow,3-1,-
--,-,Doncaster Rovers,Barrow,1-4,-
--,-,Exeter City,Barrow,2-2,-
--,-,Gateshead,Barrow,3-1,-
--,-,Gillingham,Barrow,1-0,-
--,-,Hartlepool United,Barrow,0-1,-
--,-,Millwall,Barrow,3-3,-
--,-,Northampton Town,Barrow,6-0,-
--,-,Notts County,Barrow,1-2,-
--,-,Oldham Athletic,Barrow,1-0,-
--,-,Rochdale,Barrow,4-1,-
--,-,Southport,Barrow,1-0,-
--,-,Stockport County,Barrow,1-0,-
--,-,Torquay United,Barrow,3-2,-
--,-,Walsall,Barrow,2-1,-
--,-,Watford,Barrow,2-0,-
--,-,Workington,Barrow,1-1,-
--,-,Aldershot,Bradford Park Avenue,6-1,-
--,-,Barrow,Bradford Park Avenue,3-3,-
--,-,Carlisle United,Bradford Park Avenue,1-3,-
--,-,Chester,Bradford Park Avenue,1-1,-
--,-,Crewe Alexandra,Bradford Park Avenue,4-1,-
--,-,Crystal Palace,Bradford Park Avenue,1-0,-
--,-,Darlington,Bradford Park Avenue,4-3,-
--,-,Doncaster Rovers,Bradford Park Avenue,2-0,-
--,-,Exeter City,Bradford Park Avenue,3-1,-
--,-,Gateshead,Bradford Park Avenue,1-2,-
--,-,Gillingham,Bradford Park Avenue,2-0,-
--,-,Hartlepool United,Bradford Park Avenue,3-0,-
--,-,Millwall,Bradford Park Avenue,2-0,-
--,-,Northampton Town,Bradford Park Avenue,3-1,-
--,-,Notts County,Bradford Park Avenue,0-1,-
--,-,Oldham Athletic,Bradford Park Avenue,2-0,-
--,-,Rochdale,Bradford Park Avenue,0-1,-
--,-,Southport,Bradford Park Avenue,1-1,-
--,-,Stockport County,Bradford Park Avenue,0-0,-
--,-,Torquay United,Bradford Park Avenue,1-1,-
--,-,Walsall,Bradford Park Avenue,2-1,-
--,-,Watford,Bradford Park Avenue,1-0,-
--,-,Workington,Bradford Park Avenue,0-1,-
--,-,Aldershot,Carlisle United,0-2,-
--,-,Barrow,Carlisle United,5-1,-
--,-,Bradford Park Avenue,Carlisle United,1-1,-
--,-,Chester,Carlisle United,0-1,-
--,-,Crewe Alexandra,Carlisle United,3-0,-
--,-,Crystal Palace,Carlisle United,2-1,-
--,-,Darlington,Carlisle United,2-1,-
--,-,Doncaster Rovers,Carlisle United,4-1,-
--,-,Exeter City,Carlisle United,1-3,-
--,-,Gateshead,Carlisle United,1-0,-
--,-,Gillingham,Carlisle United,3-1,-
--,-,Hartlepool United,Carlisle United,1-2,-
--,-,Millwall,Carlisle United,1-1,-
--,-,Northampton Town,Carlisle United,2-2,-
--,-,Notts County,Carlisle United,2-1,-
--,-,Oldham Athletic,Carlisle United,0-1,-
--,-,Rochdale,Carlisle United,3-0,-
--,-,Southport,Carlisle United,1-1,-
--,-,Stockport County,Carlisle United,0-0,-
--,-,Torquay United,Carlisle United,2-1,-
--,-,Walsall,Carlisle United,0-1,-
--,-,Watford,Carlisle United,3-1,-
--,-,Workington,Carlisle United,1-0,-
--,-,Aldershot,Chester,3-2,-
--,-,Barrow,Chester,3-0,-
--,-,Bradford Park Avenue,Chester,1-1,-
--,-,Carlisle United,Chester,2-1,-
--,-,Crewe Alexandra,Chester,2-1,-
--,-,Crystal Palace,Chester,3-4,-
--,-,Darlington,Chester,0-0,-
--,-,Doncaster Rovers,Chester,2-0,-
--,-,Exeter City,Chester,2-0,-
--,-,Gateshead,Chester,0-1,-
--,-,Gillingham,Chester,3-1,-
--,-,Hartlepool United,Chester,2-3,-
--,-,Millwall,Chester,7-1,-
--,-,Northampton Town,Chester,1-0,-
--,-,Notts County,Chester,2-1,-
--,-,Oldham Athletic,Chester,0-0,-
--,-,Rochdale,Chester,0-0,-
--,-,Southport,Chester,3-1,-
--,-,Stockport County,Chester,3-0,-
--,-,Torquay United,Chester,1-2,-
--,-,Walsall,Chester,2-1,-
--,-,Watford,Chester,4-2,-
--,-,Workington,Chester,5-0,-
--,-,Aldershot,Crewe Alexandra,6-1,-
--,-,Barrow,Crewe Alexandra,0-0,-
--,-,Bradford Park Avenue,Crewe Alexandra,2-2,-
--,-,Carlisle United,Crewe Alexandra,4-2,-
--,-,Chester,Crewe Alexandra,0-0,-
--,-,Crystal Palace,Crewe Alexandra,4-0,-
--,-,Darlington,Crewe Alexandra,1-1,-
--,-,Doncaster Rovers,Crewe Alexandra,4-0,-
--,-,Exeter City,Crewe Alexandra,2-4,-
--,-,Gateshead,Crewe Alexandra,4-2,-
--,-,Gillingham,Crewe Alexandra,1-1,-
--,-,Hartlepool United,Crewe Alexandra,2-0,-
--,-,Millwall,Crewe Alexandra,1-4,-
--,-,Northampton Town,Crewe Alexandra,0-0,-
--,-,Notts County,Crewe Alexandra,4-1,-
--,-,Oldham Athletic,Crewe Alexandra,2-4,-
--,-,Rochdale,Crewe Alexandra,4-2,-
--,-,Southport,Crewe Alexandra,0-1,-
--,-,Stockport County,Crewe Alexandra,1-0,-
--,-,Torquay United,Crewe Alexandra,5-2,-
--,-,Walsall,Crewe Alexandra,3-1,-
--,-,Watford,Crewe Alexandra,2-0,-
--,-,Workington,Crewe Alexandra,5-0,-
--,-,Aldershot,Crystal Palace,1-0,-
--,-,Barrow,Crystal Palace,0-1,-
--,-,Bradford Park Avenue,Crystal Palace,3-1,-
--,-,Carlisle United,Crystal Palace,2-2,-
--,-,Chester,Crystal Palace,0-1,-
--,-,Crewe Alexandra,Crystal Palace,1-1,-
--,-,Darlington,Crystal Palace,1-1,-
--,-,Doncaster Rovers,Crystal Palace,1-2,-
--,-,Exeter City,Crystal Palace,2-2,-
--,-,Gateshead,Crystal Palace,0-2,-
--,-,Gillingham,Crystal Palace,0-0,-
--,-,Hartlepool United,Crystal Palace,0-1,-
--,-,Millwall,Crystal Palace,1-0,-
--,-,Northampton Town,Crystal Palace,0-2,-
--,-,Notts County,Crystal Palace,7-1,-
--,-,Oldham Athletic,Crystal Palace,1-0,-
--,-,Rochdale,Crystal Palace,4-0,-
--,-,Southport,Crystal Palace,3-1,-
--,-,Stockport County,Crystal Palace,0-1,-
--,-,Torquay United,Crystal Palace,2-1,-
--,-,Walsall,Crystal Palace,3-0,-
--,-,Watford,Crystal Palace,4-2,-
--,-,Workington,Crystal Palace,1-1,-
--,-,Aldershot,Darlington,3-0,-
--,-,Barrow,Darlington,4-1,-
--,-,Bradford Park Avenue,Darlington,1-0,-
--,-,Carlisle United,Darlington,1-0,-
--,-,Chester,Darlington,1-1,-
--,-,Crewe Alexandra,Darlington,5-0,-
--,-,Crystal Palace,Darlington,2-0,-
--,-,Doncaster Rovers,Darlington,0-1,-
--,-,Exeter City,Darlington,0-0,-
--,-,Gateshead,Darlington,1-3,-
--,-,Gillingham,Darlington,2-0,-
--,-,Hartlepool United,Darlington,1-2,-
--,-,Millwall,Darlington,5-2,-
--,-,Northampton Town,Darlington,3-1,-
--,-,Notts County,Darlington,5-4,-
--,-,Oldham Athletic,Darlington,1-3,-
--,-,Rochdale,Darlington,2-0,-
--,-,Southport,Darlington,0-1,-
--,-,Stockport County,Darlington,1-0,-
--,-,Torquay United,Darlington,1-2,-
--,-,Walsall,Darlington,1-0,-
--,-,Watford,Darlington,2-1,-
--,-,Workington,Darlington,1-1,-
--,-,Aldershot,Doncaster Rovers,1-1,-
--,-,Barrow,Doncaster Rovers,1-1,-
--,-,Bradford Park Avenue,Doncaster Rovers,3-3,-
--,-,Carlisle United,Doncaster Rovers,2-0,-
--,-,Chester,Doncaster Rovers,2-0,-
--,-,Crewe Alexandra,Doncaster Rovers,2-0,-
--,-,Crystal Palace,Doncaster Rovers,4-0,-
--,-,Darlington,Doncaster Rovers,2-2,-
--,-,Exeter City,Doncaster Rovers,4-2,-
--,-,Gateshead,Doncaster Rovers,5-0,-
--,-,Gillingham,Doncaster Rovers,2-1,-
--,-,Hartlepool United,Doncaster Rovers,2-6,-
--,-,Millwall,Doncaster Rovers,1-1,-
--,-,Northampton Town,Doncaster Rovers,3-1,-
--,-,Notts County,Doncaster Rovers,3-4,-
--,-,Oldham Athletic,Doncaster Rovers,1-1,-
--,-,Rochdale,Doncaster Rovers,2-0,-
--,-,Southport,Doncaster Rovers,1-1,-
--,-,Stockport County,Doncaster Rovers,2-0,-
--,-,Torquay United,Doncaster Rovers,2-1,-
--,-,Walsall,Doncaster Rovers,5-2,-
--,-,Watford,Doncaster Rovers,1-2,-
--,-,Workington,Doncaster Rovers,2-0,-
--,-,Aldershot,Exeter City,1-0,-
--,-,Barrow,Exeter City,3-3,-
--,-,Bradford Park Avenue,Exeter City,1-0,-
--,-,Carlisle United,Exeter City,0-4,-
--,-,Chester,Exeter City,1-0,-
--,-,Crewe Alexandra,Exeter City,1-1,-
--,-,Crystal Palace,Exeter City,1-0,-
--,-,Darlington,Exeter City,0-1,-
--,-,Doncaster Rovers,Exeter City,0-1,-
--,-,Gateshead,Exeter City,1-0,-
--,-,Gillingham,Exeter City,2-1,-
--,-,Hartlepool United,Exeter City,4-3,-
--,-,Millwall,Exeter City,2-3,-
--,-,Northampton Town,Exeter City,1-1,-
--,-,Notts County,Exeter City,3-0,-
--,-,Oldham Athletic,Exeter City,1-2,-
--,-,Rochdale,Exeter City,3-0,-
--,-,Southport,Exeter City,3-2,-
--,-,Stockport County,Exeter City,1-0,-
--,-,Torquay United,Exeter City,2-3,-
--,-,Walsall,Exeter City,2-2,-
--,-,Watford,Exeter City,5-2,-
--,-,Workington,Exeter City,2-1,-
--,-,Aldershot,Gateshead,3-2,-
--,-,Barrow,Gateshead,2-2,-
--,-,Bradford Park Avenue,Gateshead,4-2,-
--,-,Carlisle United,Gateshead,4-0,-
--,-,Chester,Gateshead,4-2,-
--,-,Crewe Alexandra,Gateshead,4-1,-
--,-,Crystal Palace,Gateshead,2-2,-
--,-,Darlington,Gateshead,2-1,-
--,-,Doncaster Rovers,Gateshead,1-0,-
--,-,Exeter City,Gateshead,2-1,-
--,-,Gillingham,Gateshead,5-4,-
--,-,Hartlepool United,Gateshead,3-0,-
--,-,Millwall,Gateshead,4-0,-
--,-,Northampton Town,Gateshead,2-0,-
--,-,Notts County,Gateshead,4-0,-
--,-,Oldham Athletic,Gateshead,1-1,-
--,-,Rochdale,Gateshead,2-0,-
--,-,Southport,Gateshead,1-0,-
--,-,Stockport County,Gateshead,0-0,-
--,-,Torquay United,Gateshead,1-0,-
--,-,Walsall,Gateshead,2-2,-
--,-,Watford,Gateshead,5-0,-
--,-,Workington,Gateshead,1-1,-
--,-,Aldershot,Gillingham,3-1,-
--,-,Barrow,Gillingham,0-1,-
--,-,Bradford Park Avenue,Gillingham,3-0,-
--,-,Carlisle United,Gillingham,0-1,-
--,-,Chester,Gillingham,4-2,-
--,-,Crewe Alexandra,Gillingham,1-2,-
--,-,Crystal Palace,Gillingham,3-3,-
--,-,Darlington,Gillingham,2-1,-
--,-,Doncaster Rovers,Gillingham,3-0,-
--,-,Exeter City,Gillingham,2-0,-
--,-,Gateshead,Gillingham,2-2,-
--,-,Hartlepool United,Gillingham,3-1,-
--,-,Millwall,Gillingham,3-3,-
--,-,Northampton Town,Gillingham,2-1,-
--,-,Notts County,Gillingham,3-1,-
--,-,Oldham Athletic,Gillingham,3-1,-
--,-,Rochdale,Gillingham,1-0,-
--,-,Southport,Gillingham,1-1,-
--,-,Stockport County,Gillingham,1-1,-
--,-,Torquay United,Gillingham,2-0,-
--,-,Walsall,Gillingham,2-3,-
--,-,Watford,Gillingham,3-1,-
--,-,Workington,Gillingham,1-1,-
--,-,Aldershot,Hartlepool United,3-0,-
--,-,Barrow,Hartlepool United,2-2,-
--,-,Bradford Park Avenue,Hartlepool United,6-2,-
--,-,Carlisle United,Hartlepool United,1-1,-
--,-,Chester,Hartlepool United,1-1,-
--,-,Crewe Alexandra,Hartlepool United,1-0,-
--,-,Crystal Palace,Hartlepool United,5-2,-
--,-,Darlington,Hartlepool United,2-0,-
--,-,Doncaster Rovers,Hartlepool United,5-1,-
--,-,Exeter City,Hartlepool United,5-0,-
--,-,Gateshead,Hartlepool United,1-1,-
--,-,Gillingham,Hartlepool United,3-1,-
--,-,Millwall,Hartlepool United,4-0,-
--,-,Northampton Town,Hartlepool United,3-0,-
--,-,Notts County,Hartlepool United,4-0,-
--,-,Oldham Athletic,Hartlepool United,1-2,-
--,-,Rochdale,Hartlepool United,2-0,-
--,-,Southport,Hartlepool United,1-1,-
--,-,Stockport County,Hartlepool United,2-1,-
--,-,Torquay United,Hartlepool United,3-0,-
--,-,Walsall,Hartlepool United,2-2,-
--,-,Watford,Hartlepool United,7-2,-
--,-,Workington,Hartlepool United,3-0,-
--,-,Aldershot,Millwall,1-2,-
--,-,Barrow,Millwall,2-2,-
--,-,Bradford Park Avenue,Millwall,1-1,-
--,-,Carlisle United,Millwall,3-3,-
--,-,Chester,Millwall,2-1,-
--,-,Crewe Alexandra,Millwall,2-0,-
--,-,Crystal Palace,Millwall,1-2,-
--,-,Darlington,Millwall,1-1,-
--,-,Doncaster Rovers,Millwall,0-0,-
--,-,Exeter City,Millwall,2-2,-
--,-,Gateshead,Millwall,1-0,-
--,-,Gillingham,Millwall,3-1,-
--,-,Hartlepool United,Millwall,0-2,-
--,-,Northampton Town,Millwall,0-3,-
--,-,Notts County,Millwall,2-1,-
--,-,Oldham Athletic,Millwall,1-1,-
--,-,Rochdale,Millwall,0-1,-
--,-,Southport,Millwall,2-1,-
--,-,Stockport County,Millwall,2-2,-
--,-,Torquay United,Millwall,2-2,-
--,-,Walsall,Millwall,2-1,-
--,-,Watford,Millwall,0-2,-
--,-,Workington,Millwall,4-0,-
--,-,Aldershot,Northampton Town,3-0,-
--,-,Barrow,Northampton Town,0-1,-
--,-,Bradford Park Avenue,Northampton Town,3-0,-
--,-,Carlisle United,Northampton Town,0-2,-
--,-,Chester,Northampton Town,1-1,-
--,-,Crewe Alexandra,Northampton Town,0-1,-
--,-,Crystal Palace,Northampton Town,0-1,-
--,-,Darlington,Northampton Town,3-2,-
--,-,Doncaster Rovers,Northampton Town,3-2,-
--,-,Exeter City,Northampton Town,1-1,-
--,-,Gateshead,Northampton Town,1-3,-
--,-,Gillingham,Northampton Town,2-1,-
--,-,Hartlepool United,Northampton Town,1-4,-
--,-,Millwall,Northampton Town,2-1,-
--,-,Notts County,Northampton Town,2-1,-
--,-,Oldham Athletic,Northampton Town,0-1,-
--,-,Rochdale,Northampton Town,2-2,-
--,-,Southport,Northampton Town,1-0,-
--,-,Stockport County,Northampton Town,3-0,-
--,-,Torquay United,Northampton Town,5-3,-
--,-,Walsall,Northampton Town,1-2,-
--,-,Watford,Northampton Town,3-1,-
--,-,Workington,Northampton Town,5-1,-
--,-,Aldershot,Notts County,1-1,-
--,-,Barrow,Notts County,4-3,-
--,-,Bradford Park Avenue,Notts County,1-1,-
--,-,Carlisle United,Notts County,2-0,-
--,-,Chester,Notts County,2-1,-
--,-,Crewe Alexandra,Notts County,2-1,-
--,-,Crystal Palace,Notts County,1-1,-
--,-,Darlington,Notts County,5-2,-
--,-,Doncaster Rovers,Notts County,0-4,-
--,-,Exeter City,Notts County,3-3,-
--,-,Gateshead,Notts County,0-0,-
--,-,Gillingham,Notts County,0-1,-
--,-,Hartlepool United,Notts County,2-4,-
--,-,Millwall,Notts County,1-1,-
--,-,Northampton Town,Notts County,4-2,-
--,-,Oldham Athletic,Notts County,0-3,-
--,-,Rochdale,Notts County,1-4,-
--,-,Southport,Notts County,0-4,-
--,-,Stockport County,Notts County,3-1,-
--,-,Torquay United,Notts County,3-1,-
--,-,Walsall,Notts County,2-2,-
--,-,Watford,Notts County,4-2,-
--,-,Workington,Notts County,0-1,-
--,-,Aldershot,Oldham Athletic,2-0,-
--,-,Barrow,Oldham Athletic,2-0,-
--,-,Bradford Park Avenue,Oldham Athletic,2-0,-
--,-,Carlisle United,Oldham Athletic,0-1,-
--,-,Chester,Oldham Athletic,0-0,-
--,-,Crewe Alexandra,Oldham Athletic,2-2,-
--,-,Crystal Palace,Oldham Athletic,3-2,-
--,-,Darlington,Oldham Athletic,1-3,-
--,-,Doncaster Rovers,Oldham Athletic,0-0,-
--,-,Exeter City,Oldham Athletic,4-3,-
--,-,Gateshead,Oldham Athletic,2-0,-
--,-,Gillingham,Oldham Athletic,2-2,-
--,-,Hartlepool United,Oldham Athletic,2-2,-
--,-,Millwall,Oldham Athletic,0-1,-
--,-,Northampton Town,Oldham Athletic,8-1,-
--,-,Notts County,Oldham Athletic,3-1,-
--,-,Rochdale,Oldham Athletic,2-0,-
--,-,Southport,Oldham Athletic,1-0,-
--,-,Stockport County,Oldham Athletic,3-1,-
--,-,Torquay United,Oldham Athletic,4-1,-
--,-,Walsall,Oldham Athletic,2-1,-
--,-,Watford,Oldham Athletic,6-0,-
--,-,Workington,Oldham Athletic,2-0,-
--,-,Aldershot,Rochdale,0-0,-
--,-,Barrow,Rochdale,3-0,-
--,-,Bradford Park Avenue,Rochdale,0-0,-
--,-,Carlisle United,Rochdale,1-1,-
--,-,Chester,Rochdale,2-1,-
--,-,Crewe Alexandra,Rochdale,1-3,-
--,-,Crystal Palace,Rochdale,4-0,-
--,-,Darlington,Rochdale,0-0,-
--,-,Doncaster Rovers,Rochdale,2-1,-
--,-,Exeter City,Rochdale,4-1,-
--,-,Gateshead,Rochdale,1-2,-
--,-,Gillingham,Rochdale,2-0,-
--,-,Hartlepool United,Rochdale,0-1,-
--,-,Millwall,Rochdale,2-0,-
--,-,Northampton Town,Rochdale,3-1,-
--,-,Notts County,Rochdale,2-1,-
--,-,Oldham Athletic,Rochdale,1-0,-
--,-,Southport,Rochdale,2-2,-
--,-,Stockport County,Rochdale,2-1,-
--,-,Torquay United,Rochdale,1-1,-
--,-,Walsall,Rochdale,4-2,-
--,-,Watford,Rochdale,2-1,-
--,-,Workington,Rochdale,2-0,-
--,-,Aldershot,Southport,0-0,-
--,-,Barrow,Southport,3-1,-
--,-,Bradford Park Avenue,Southport,3-0,-
--,-,Carlisle United,Southport,1-0,-
--,-,Chester,Southport,2-2,-
--,-,Crewe Alexandra,Southport,5-1,-
--,-,Crystal Palace,Southport,2-2,-
--,-,Darlington,Southport,5-0,-
--,-,Doncaster Rovers,Southport,5-0,-
--,-,Exeter City,Southport,1-1,-
--,-,Gateshead,Southport,1-0,-
--,-,Gillingham,Southport,4-1,-
--,-,Hartlepool United,Southport,3-2,-
--,-,Millwall,Southport,2-2,-
--,-,Northampton Town,Southport,2-2,-
--,-,Notts County,Southport,4-1,-
--,-,Oldham Athletic,Southport,0-1,-
--,-,Rochdale,Southport,1-0,-
--,-,Stockport County,Southport,1-0,-
--,-,Torquay United,Southport,4-0,-
--,-,Walsall,Southport,8-0,-
--,-,Watford,Southport,2-1,-
--,-,Workington,Southport,1-1,-
--,-,Aldershot,Stockport County,1-0,-
--,-,Barrow,Stockport County,5-1,-
--,-,Bradford Park Avenue,Stockport County,1-1,-
--,-,Carlisle United,Stockport County,0-4,-
--,-,Chester,Stockport County,1-2,-
--,-,Crewe Alexandra,Stockport County,4-2,-
--,-,Crystal Palace,Stockport County,3-1,-
--,-,Darlington,Stockport County,1-2,-
--,-,Doncaster Rovers,Stockport County,1-0,-
--,-,Exeter City,Stockport County,2-1,-
--,-,Gateshead,Stockport County,2-1,-
--,-,Gillingham,Stockport County,0-2,-
--,-,Hartlepool United,Stockport County,2-1,-
--,-,Millwall,Stockport County,3-2,-
--,-,Northampton Town,Stockport County,1-1,-
--,-,Notts County,Stockport County,3-0,-
--,-,Oldham Athletic,Stockport County,0-0,-
--,-,Rochdale,Stockport County,3-0,-
--,-,Southport,Stockport County,3-0,-
--,-,Torquay United,Stockport County,4-0,-
--,-,Walsall,Stockport County,3-1,-
--,-,Watford,Stockport County,0-0,-
--,-,Workington,Stockport County,1-1,-
--,-,Aldershot,Torquay United,1-3,-
--,-,Barrow,Torquay United,1-1,-
--,-,Bradford Park Avenue,Torquay United,2-2,-
--,-,Carlisle United,Torquay United,2-0,-
--,-,Chester,Torquay United,1-1,-
--,-,Crewe Alexandra,Torquay United,1-2,-
--,-,Crystal Palace,Torquay United,1-1,-
--,-,Darlington,Torquay United,1-0,-
--,-,Doncaster Rovers,Torquay United,1-3,-
--,-,Exeter City,Torquay United,1-0,-
--,-,Gateshead,Torquay United,0-2,-
--,-,Gillingham,Torquay United,1-0,-
--,-,Hartlepool United,Torquay United,4-0,-
--,-,Millwall,Torquay United,2-0,-
--,-,Northampton Town,Torquay United,3-0,-
--,-,Notts County,Torquay United,1-1,-
--,-,Oldham Athletic,Torquay United,0-2,-
--,-,Rochdale,Torquay United,4-2,-
--,-,Southport,Torquay United,1-2,-
--,-,Stockport County,Torquay United,0-1,-
--,-,Walsall,Torquay United,3-2,-
--,-,Watford,Torquay United,0-1,-
--,-,Workington,Torquay United,0-2,-
--,-,Aldershot,Walsall,0-2,-
--,-,Barrow,Walsall,2-3,-
--,-,Bradford Park Avenue,Walsall,1-3,-
--,-,Carlisle United,Walsall,1-1,-
--,-,Chester,Walsall,1-3,-
--,-,Crewe Alexandra,Walsall,1-5,-
--,-,Crystal Palace,Walsall,1-2,-
--,-,Darlington,Walsall,0-2,-
--,-,Doncaster Rovers,Walsall,1-1,-
--,-,Exeter City,Walsall,1-2,-
--,-,Gateshead,Walsall,3-0,-
--,-,Gillingham,Walsall,2-0,-
--,-,Hartlepool United,Walsall,1-2,-
--,-,Millwall,Walsall,1-1,-
--,-,Northampton Town,Walsall,0-1,-
--,-,Notts County,Walsall,2-1,-
--,-,Oldham Athletic,Walsall,2-4,-
--,-,Rochdale,Walsall,0-2,-
--,-,Southport,Walsall,1-4,-
--,-,Stockport County,Walsall,2-0,-
--,-,Torquay United,Walsall,2-1,-
--,-,Watford,Walsall,2-2,-
--,-,Workington,Walsall,0-3,-
--,-,Aldershot,Watford,2-2,-
--,-,Barrow,Watford,2-1,-
--,-,Bradford Park Avenue,Watford,1-1,-
--,-,Carlisle United,Watford,1-0,-
--,-,Chester,Watford,0-1,-
--,-,Crewe Alexandra,Watford,1-3,-
--,-,Crystal Palace,Watford,8-1,-
--,-,Darlington,Watford,0-3,-
--,-,Doncaster Rovers,Watford,1-0,-
--,-,Exeter City,Watford,2-0,-
--,-,Gateshead,Watford,1-3,-
--,-,Gillingham,Watford,2-0,-
--,-,Hartlepool United,Watford,0-0,-
--,-,Millwall,Watford,2-2,-
--,-,Northampton Town,Watford,1-2,-
--,-,Notts County,Watford,2-1,-
--,-,Oldham Athletic,Watford,0-0,-
--,-,Rochdale,Watford,3-3,-
--,-,Southport,Watford,1-1,-
--,-,Stockport County,Watford,4-0,-
--,-,Torquay United,Watford,2-1,-
--,-,Walsall,Watford,3-4,-
--,-,Workington,Watford,0-1,-
--,-,Aldershot,Workington,3-1,-
--,-,Barrow,Workington,2-1,-
--,-,Bradford Park Avenue,Workington,3-2,-
--,-,Carlisle United,Workington,0-1,-
--,-,Chester,Workington,3-1,-
--,-,Crewe Alexandra,Workington,2-0,-
--,-,Crystal Palace,Workington,0-1,-
--,-,Darlington,Workington,0-3,-
--,-,Doncaster Rovers,Workington,2-0,-
--,-,Exeter City,Workington,1-0,-
--,-,Gateshead,Workington,2-1,-
--,-,Gillingham,Workington,2-2,-
--,-,Hartlepool United,Workington,1-4,-
--,-,Millwall,Workington,3-0,-
--,-,Northampton Town,Workington,0-0,-
--,-,Notts County,Workington,2-0,-
--,-,Oldham Athletic,Workington,2-2,-
--,-,Rochdale,Workington,1-1,-
--,-,Southport,Workington,2-2,-
--,-,Stockport County,Workington,2-0,-
--,-,Torquay United,Workington,2-1,-
--,-,Walsall,Workington,2-2,-
--,-,Watford,Workington,3-2,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 29 Aug 1959 (34),Aldershot Town FC (1),6-1,?,Barrow AFC (1)
+?,(Sat) 12 Mar 1960 (10),Aldershot Town FC (2),6-1,?,Bradford Park Avenue (1)
+?,(Sat) 28 Nov 1959 (47),Aldershot Town FC (3),0-2,?,Carlisle United (1)
+?,(Sat) 27 Feb 1960 (8),Aldershot Town FC (4),3-2,?,Chester FC (1)
+?,(Mon) 28 Dec 1959 (52),Aldershot Town FC (5),6-1,?,Crewe Alexandra (1)
+?,(Sat) 17 Oct 1959 (41),Aldershot Town FC (6),1-0,?,Crystal Palace FC (1)
+?,(Wed) 2 Sep 1959 (35),Aldershot Town FC (7),3-0,?,Darlington FC (1)
+?,(Wed) 7 Oct 1959 (40),Aldershot Town FC (8),1-1,?,Doncaster Rovers (1)
+?,(Sat) 26 Mar 1960 (12),Aldershot Town FC (9),1-0,?,Exeter City (1)
+?,(Mon) 21 Sep 1959 (38),Aldershot Town FC (10),3-2,?,Gateshead FC (1)
+?,(Sat) 16 Jan 1960 (2),Aldershot Town FC (11),3-1,?,Gillingham FC (1)
+?,(Sat) 19 Dec 1959 (50),Aldershot Town FC (12),3-0,?,Hartlepool United (1)
+?,(Sat) 6 Feb 1960 (5),Aldershot Town FC (13),1-2,?,Millwall FC (1)
+?,(Sat) 20 Feb 1960 (7),Aldershot Town FC (14),3-0,?,Northampton Town (1)
+?,(Sat) 23 Apr 1960 (16),Aldershot Town FC (15),1-1,?,Notts County FC (1)
+?,(Sat) 9 Apr 1960 (14),Aldershot Town FC (16),2-0,?,Oldham Athletic (1)
+?,(Sat) 9 Jan 1960 (1),Aldershot Town FC (17),0-0,?,Rochdale AFC (1)
+?,(Sat) 12 Sep 1959 (36),Aldershot Town FC (18),0-0,?,Southport FC (1)
+?,(Sat) 31 Oct 1959 (43),Aldershot Town FC (19),1-0,?,Stockport County (1)
+?,(Sat) 26 Sep 1959 (38),Aldershot Town FC (20),1-3,?,Torquay United (1)
+?,(Sat) 30 Apr 1960 (17),Aldershot Town FC (21),0-2,?,Walsall FC (1)
+?,(Wed) 16 Mar 1960 (11),Aldershot Town FC (22),2-2,?,Watford FC (1)
+?,(Wed) 16 Sep 1959 (37),Aldershot Town FC (23),3-1,?,Workington (1)
+?,(Sat) 2 Jan 1960 (0),Barrow AFC (2),3-0,?,Aldershot Town FC (24)
+?,(Sat) 17 Oct 1959 (41),Barrow AFC (3),3-3,?,Bradford Park Avenue (2)
+?,(Sat) 9 Apr 1960 (14),Barrow AFC (4),5-1,?,Carlisle United (2)
+?,(Sat) 26 Dec 1959 (51),Barrow AFC (5),3-0,?,Chester FC (2)
+?,(Sat) 5 Sep 1959 (35),Barrow AFC (6),0-0,?,Crewe Alexandra (2)
+?,(Sat) 27 Feb 1960 (8),Barrow AFC (7),0-1,?,Crystal Palace FC (2)
+?,(Sat) 22 Aug 1959 (33),Barrow AFC (8),4-1,?,Darlington FC (2)
+?,(Mon) 14 Sep 1959 (37),Barrow AFC (9),1-1,?,Doncaster Rovers (2)
+?,(Sat) 31 Oct 1959 (43),Barrow AFC (10),3-3,?,Exeter City (2)
+?,(Mon) 31 Aug 1959 (35),Barrow AFC (11),2-2,?,Gateshead FC (2)
+?,(Sat) 12 Sep 1959 (36),Barrow AFC (12),0-1,?,Gillingham FC (2)
+?,(Sat) 12 Dec 1959 (49),Barrow AFC (13),2-2,?,Hartlepool United (2)
+?,(Sat) 26 Sep 1959 (38),Barrow AFC (14),2-2,?,Millwall FC (2)
+?,(Mon) 25 Apr 1960 (17),Barrow AFC (15),0-1,?,Northampton Town (2)
+?,(Sat) 28 Nov 1959 (47),Barrow AFC (16),4-3,?,Notts County FC (2)
+?,(Sat) 9 Jan 1960 (1),Barrow AFC (17),2-0,?,Oldham Athletic (2)
+?,(Mon) 28 Sep 1959 (39),Barrow AFC (18),3-0,?,Rochdale AFC (2)
+?,(Sat) 6 Feb 1960 (5),Barrow AFC (19),3-1,?,Southport FC (2)
+?,(Sat) 12 Mar 1960 (10),Barrow AFC (20),5-1,?,Stockport County (2)
+?,(Mon) 2 May 1960 (18),Barrow AFC (21),1-1,?,Torquay United (2)
+?,(Sat) 23 Apr 1960 (16),Barrow AFC (22),2-3,?,Walsall FC (2)
+?,(Sat) 26 Mar 1960 (12),Barrow AFC (23),2-1,?,Watford FC (2)
+?,(Mon) 18 Apr 1960 (16),Barrow AFC (24),2-1,?,Workington (2)
+?,(Sat) 24 Oct 1959 (42),Bradford Park Avenue (3),3-2,?,Aldershot Town FC (25)
+?,(Sat) 5 Mar 1960 (9),Bradford Park Avenue (4),2-0,?,Barrow AFC (25)
+?,(Sat) 29 Aug 1959 (34),Bradford Park Avenue (5),1-1,?,Carlisle United (3)
+?,(Sat) 20 Feb 1960 (7),Bradford Park Avenue (6),1-1,?,Chester FC (3)
+?,(Sat) 26 Sep 1959 (38),Bradford Park Avenue (7),2-2,?,Crewe Alexandra (3)
+?,(Wed) 7 Oct 1959 (40),Bradford Park Avenue (8),3-1,?,Crystal Palace FC (3)
+?,(Sat) 19 Mar 1960 (11),Bradford Park Avenue (9),1-0,?,Darlington FC (3)
+?,(Sat) 16 Apr 1960 (15),Bradford Park Avenue (10),3-3,?,Doncaster Rovers (3)
+?,(Mon) 21 Sep 1959 (38),Bradford Park Avenue (11),1-0,?,Exeter City (3)
+?,(Sat) 7 Nov 1959 (44),Bradford Park Avenue (12),4-2,?,Gateshead FC (3)
+?,(Sat) 10 Oct 1959 (40),Bradford Park Avenue (13),3-0,?,Gillingham FC (3)
+?,(Sat) 6 Feb 1960 (5),Bradford Park Avenue (14),6-2,?,Hartlepool United (3)
+?,(Mon) 7 Sep 1959 (36),Bradford Park Avenue (15),1-1,?,Millwall FC (3)
+?,(Thu) 7 Apr 1960 (14),Bradford Park Avenue (16),3-0,?,Northampton Town (3)
+?,(Sat) 16 Jan 1960 (2),Bradford Park Avenue (17),1-1,?,Notts County FC (3)
+?,(Sat) 19 Dec 1959 (50),Bradford Park Avenue (18),2-0,?,Oldham Athletic (3)
+?,(Sat) 2 Apr 1960 (13),Bradford Park Avenue (19),0-0,?,Rochdale AFC (3)
+?,(Sat) 26 Dec 1959 (51),Bradford Park Avenue (20),3-0,?,Southport FC (3)
+?,(Tue) 19 Apr 1960 (16),Bradford Park Avenue (21),1-1,?,Stockport County (3)
+?,(Sat) 30 Apr 1960 (17),Bradford Park Avenue (22),2-2,?,Torquay United (3)
+?,(Sat) 12 Sep 1959 (36),Bradford Park Avenue (23),1-3,?,Walsall FC (3)
+?,(Mon) 24 Aug 1959 (34),Bradford Park Avenue (24),1-1,?,Watford FC (3)
+?,(Sat) 21 Nov 1959 (46),Bradford Park Avenue (25),3-2,?,Workington (3)
+?,(Tue) 19 Apr 1960 (16),Carlisle United (4),0-0,?,Aldershot Town FC (26)
+?,(Sat) 21 Nov 1959 (46),Carlisle United (5),0-1,?,Barrow AFC (26)
+?,(Sat) 2 Jan 1960 (0),Carlisle United (6),1-3,?,Bradford Park Avenue (26)
+?,(Tue) 1 Sep 1959 (35),Carlisle United (7),2-1,?,Chester FC (4)
+?,(Tue) 29 Sep 1959 (39),Carlisle United (8),4-2,?,Crewe Alexandra (4)
+?,(Sat) 22 Aug 1959 (33),Carlisle United (9),2-2,?,Crystal Palace FC (4)
+?,(Sat) 30 Jan 1960 (4),Carlisle United (10),1-0,?,Darlington FC (4)
+?,(Sat) 10 Oct 1959 (40),Carlisle United (11),2-0,?,Doncaster Rovers (4)
+?,(Sat) 23 Jan 1960 (3),Carlisle United (12),0-4,?,Exeter City (4)
+?,(Sat) 30 Apr 1960 (17),Carlisle United (13),4-0,?,Gateshead FC (4)
+?,(Sat) 2 Apr 1960 (13),Carlisle United (14),0-1,?,Gillingham FC (4)
+?,(Fri) 15 Apr 1960 (15),Carlisle United (15),1-1,?,Hartlepool United (4)
+?,(Sat) 19 Mar 1960 (11),Carlisle United (16),3-3,?,Millwall FC (4)
+?,(Sat) 5 Mar 1960 (9),Carlisle United (17),0-2,?,Northampton Town (4)
+?,(Tue) 6 Oct 1959 (40),Carlisle United (18),2-0,?,Notts County FC (4)
+?,(Sat) 13 Feb 1960 (6),Carlisle United (19),0-1,?,Oldham Athletic (4)
+?,(Tue) 29 Mar 1960 (13),Carlisle United (20),1-1,?,Rochdale AFC (4)
+?,(Sat) 7 Nov 1959 (44),Carlisle United (21),1-0,?,Southport FC (4)
+?,(Sat) 5 Sep 1959 (35),Carlisle United (22),0-4,?,Stockport County (4)
+?,(Sat) 24 Oct 1959 (42),Carlisle United (23),2-0,?,Torquay United (4)
+?,(Tue) 15 Sep 1959 (37),Carlisle United (24),1-1,?,Walsall FC (4)
+?,(Sat) 19 Sep 1959 (37),Carlisle United (25),1-0,?,Watford FC (4)
+?,(Sat) 26 Dec 1959 (51),Carlisle United (26),0-1,?,Workington (4)
+?,(Sat) 10 Oct 1959 (40),Chester FC (5),5-1,?,Aldershot Town FC (27)
+?,(Mon) 28 Dec 1959 (52),Chester FC (6),3-2,?,Barrow AFC (27)
+?,(Sat) 3 Oct 1959 (39),Chester FC (7),1-1,?,Bradford Park Avenue (27)
+?,(Wed) 26 Aug 1959 (34),Chester FC (8),0-1,?,Carlisle United (27)
+?,(Sat) 12 Sep 1959 (36),Chester FC (9),0-0,?,Crewe Alexandra (5)
+?,(Sat) 13 Feb 1960 (6),Chester FC (10),0-1,?,Crystal Palace FC (5)
+?,(Sat) 5 Mar 1960 (9),Chester FC (11),1-1,?,Darlington FC (5)
+?,(Sat) 2 Apr 1960 (13),Chester FC (12),2-0,?,Doncaster Rovers (5)
+?,(Mon) 7 Sep 1959 (36),Chester FC (13),1-0,?,Exeter City (5)
+?,(Sat) 24 Oct 1959 (42),Chester FC (14),4-2,?,Gateshead FC (5)
+?,(Sat) 6 Feb 1960 (5),Chester FC (15),4-2,?,Gillingham FC (5)
+?,(Sat) 16 Jan 1960 (2),Chester FC (16),1-1,?,Hartlepool United (5)
+?,(Sat) 30 Jan 1960 (4),Chester FC (17),2-1,?,Millwall FC (5)
+?,(Sat) 21 Nov 1959 (46),Chester FC (18),1-1,?,Northampton Town (5)
+?,(Sat) 19 Dec 1959 (50),Chester FC (19),2-1,?,Notts County FC (5)
+?,(Wed) 23 Sep 1959 (38),Chester FC (20),0-0,?,Oldham Athletic (5)
+?,(Sat) 19 Mar 1960 (11),Chester FC (21),2-1,?,Rochdale AFC (5)
+?,(Sat) 30 Apr 1960 (17),Chester FC (22),2-2,?,Southport FC (5)
+?,(Wed) 14 Oct 1959 (41),Chester FC (23),1-2,?,Stockport County (5)
+?,(Sat) 16 Apr 1960 (15),Chester FC (24),1-1,?,Torquay United (5)
+?,(Sat) 29 Aug 1959 (34),Chester FC (25),1-3,?,Walsall FC (5)
+?,(Mon) 18 Apr 1960 (16),Chester FC (26),0-1,?,Watford FC (5)
+?,(Sat) 7 Nov 1959 (44),Chester FC (27),3-1,?,Workington (5)
+?,(Sat) 26 Dec 1959 (51),Crewe Alexandra (6),3-2,?,Aldershot Town FC (28)
+?,(Sat) 16 Jan 1960 (2),Crewe Alexandra (7),3-2,?,Barrow AFC (28)
+?,(Sat) 13 Feb 1960 (6),Crewe Alexandra (8),4-1,?,Bradford Park Avenue (28)
+?,(Wed) 23 Sep 1959 (38),Crewe Alexandra (9),3-0,?,Carlisle United (28)
+?,(Sat) 23 Jan 1960 (3),Crewe Alexandra (10),2-1,?,Chester FC (28)
+?,(Sat) 19 Sep 1959 (37),Crewe Alexandra (11),1-1,?,Crystal Palace FC (6)
+?,(Sat) 10 Oct 1959 (40),Crewe Alexandra (12),5-0,?,Darlington FC (6)
+?,(Sat) 7 Nov 1959 (44),Crewe Alexandra (13),2-0,?,Doncaster Rovers (6)
+?,(Wed) 14 Oct 1959 (41),Crewe Alexandra (14),1-1,?,Exeter City (6)
+?,(Sat) 5 Mar 1960 (9),Crewe Alexandra (15),4-1,?,Gateshead FC (6)
+?,(Sat) 30 Apr 1960 (17),Crewe Alexandra (16),1-2,?,Gillingham FC (6)
+?,(Sat) 29 Aug 1959 (34),Crewe Alexandra (17),1-0,?,Hartlepool United (6)
+?,(Sat) 16 Apr 1960 (15),Crewe Alexandra (18),2-0,?,Millwall FC (6)
+?,(Sat) 2 Apr 1960 (13),Crewe Alexandra (19),0-1,?,Northampton Town (6)
+?,(Wed) 26 Aug 1959 (34),Crewe Alexandra (20),2-1,?,Notts County FC (6)
+?,(Mon) 18 Apr 1960 (16),Crewe Alexandra (21),2-2,?,Oldham Athletic (6)
+?,(Sat) 24 Oct 1959 (42),Crewe Alexandra (22),1-3,?,Rochdale AFC (6)
+?,(Wed) 16 Mar 1960 (11),Crewe Alexandra (23),5-1,?,Southport FC (6)
+?,(Sat) 3 Oct 1959 (39),Crewe Alexandra (24),4-2,?,Stockport County (6)
+?,(Sat) 21 Nov 1959 (46),Crewe Alexandra (25),1-2,?,Torquay United (6)
+?,(Sat) 19 Dec 1959 (50),Crewe Alexandra (26),1-5,?,Walsall FC (6)
+?,(Wed) 9 Sep 1959 (36),Crewe Alexandra (27),1-3,?,Watford FC (6)
+?,(Sat) 19 Mar 1960 (11),Crewe Alexandra (28),2-0,?,Workington (6)
+?,(Sat) 5 Mar 1960 (9),Crystal Palace FC (7),1-1,?,Aldershot Town FC (29)
+?,(Sat) 10 Oct 1959 (40),Crystal Palace FC (8),9-0,?,Barrow AFC (29)
+?,(Wed) 27 Apr 1960 (17),Crystal Palace FC (9),1-0,?,Bradford Park Avenue (29)
+?,(Sat) 19 Dec 1959 (50),Crystal Palace FC (10),2-1,?,Carlisle United (29)
+?,(Sat) 26 Sep 1959 (38),Crystal Palace FC (11),3-4,?,Chester FC (29)
+?,(Sat) 6 Feb 1960 (5),Crystal Palace FC (12),4-0,?,Crewe Alexandra (29)
+?,(Sat) 24 Oct 1959 (42),Crystal Palace FC (13),2-0,?,Darlington FC (7)
+?,(Sat) 21 Nov 1959 (46),Crystal Palace FC (14),4-0,?,Doncaster Rovers (7)
+?,(Fri) 15 Apr 1960 (15),Crystal Palace FC (15),1-0,?,Exeter City (7)
+?,(Sat) 19 Mar 1960 (11),Crystal Palace FC (16),2-2,?,Gateshead FC (7)
+?,(Mon) 28 Dec 1959 (52),Crystal Palace FC (17),3-3,?,Gillingham FC (7)
+?,(Sat) 12 Sep 1959 (36),Crystal Palace FC (18),5-2,?,Hartlepool United (7)
+?,(Wed) 28 Oct 1959 (43),Crystal Palace FC (19),1-2,?,Millwall FC (7)
+?,(Sat) 16 Apr 1960 (15),Crystal Palace FC (20),0-1,?,Northampton Town (7)
+?,(Sat) 29 Aug 1959 (34),Crystal Palace FC (21),1-1,?,Notts County FC (7)
+?,(Wed) 2 Sep 1959 (35),Crystal Palace FC (22),3-2,?,Oldham Athletic (7)
+?,(Sat) 7 Nov 1959 (44),Crystal Palace FC (23),4-0,?,Rochdale AFC (7)
+?,(Sat) 20 Feb 1960 (7),Crystal Palace FC (24),2-2,?,Southport FC (7)
+?,(Wed) 16 Sep 1959 (37),Crystal Palace FC (25),3-1,?,Stockport County (7)
+?,(Sat) 30 Jan 1960 (4),Crystal Palace FC (26),1-1,?,Torquay United (7)
+?,(Sat) 16 Jan 1960 (2),Crystal Palace FC (27),1-2,?,Walsall FC (7)
+?,(Wed) 23 Sep 1959 (38),Crystal Palace FC (28),8-1,?,Watford FC (7)
+?,(Sat) 2 Apr 1960 (13),Crystal Palace FC (29),0-1,?,Workington (7)
+?,(Mon) 24 Aug 1959 (34),Darlington FC (8),4-0,?,Aldershot Town FC (30)
+?,(Sat) 19 Dec 1959 (50),Darlington FC (9),3-1,?,Barrow AFC (30)
+?,(Sat) 31 Oct 1959 (43),Darlington FC (10),4-3,?,Bradford Park Avenue (30)
+?,(Sat) 23 Apr 1960 (16),Darlington FC (11),2-1,?,Carlisle United (30)
+?,(Sat) 17 Oct 1959 (41),Darlington FC (12),0-0,?,Chester FC (30)
+?,(Sat) 27 Feb 1960 (8),Darlington FC (13),1-1,?,Crewe Alexandra (30)
+?,(Sat) 12 Mar 1960 (10),Darlington FC (14),1-1,?,Crystal Palace FC (30)
+?,(Wed) 4 May 1960 (18),Darlington FC (15),2-2,?,Doncaster Rovers (8)
+?,(Mon) 25 Apr 1960 (17),Darlington FC (16),0-1,?,Exeter City (8)
+?,(Fri) 15 Apr 1960 (15),Darlington FC (17),2-1,?,Gateshead FC (8)
+?,(Sat) 29 Aug 1959 (34),Darlington FC (18),2-1,?,Gillingham FC (8)
+?,(Mon) 28 Dec 1959 (52),Darlington FC (19),2-0,?,Hartlepool United (8)
+?,(Sat) 12 Sep 1959 (36),Darlington FC (20),1-1,?,Millwall FC (8)
+?,(Sat) 26 Sep 1959 (38),Darlington FC (21),3-2,?,Northampton Town (8)
+?,(Sat) 12 Dec 1959 (49),Darlington FC (22),5-2,?,Notts County FC (8)
+?,(Sat) 28 Nov 1959 (47),Darlington FC (23),1-3,?,Oldham Athletic (8)
+?,(Wed) 16 Sep 1959 (37),Darlington FC (24),0-0,?,Rochdale AFC (8)
+?,(Sat) 16 Jan 1960 (2),Darlington FC (25),5-0,?,Southport FC (8)
+?,(Sat) 26 Mar 1960 (12),Darlington FC (26),1-2,?,Stockport County (8)
+?,(Sat) 6 Feb 1960 (5),Darlington FC (27),1-0,?,Torquay United (8)
+?,(Wed) 30 Sep 1959 (39),Darlington FC (28),0-2,?,Walsall FC (8)
+?,(Sat) 9 Apr 1960 (14),Darlington FC (29),0-3,?,Watford FC (8)
+?,(Wed) 7 Oct 1959 (40),Darlington FC (30),0-3,?,Workington (8)
+?,(Thu) 15 Oct 1959 (41),Doncaster Rovers (9),1-2,?,Aldershot Town FC (31)
+?,(Tue) 8 Sep 1959 (36),Doncaster Rovers (10),1-4,?,Barrow AFC (31)
+?,(Sat) 28 Nov 1959 (47),Doncaster Rovers (11),2-0,?,Bradford Park Avenue (31)
+?,(Sat) 27 Feb 1960 (8),Doncaster Rovers (12),4-1,?,Carlisle United (31)
+?,(Tue) 8 Mar 1960 (10),Doncaster Rovers (13),2-0,?,Chester FC (31)
+?,(Sat) 26 Mar 1960 (12),Doncaster Rovers (14),4-0,?,Crewe Alexandra (31)
+?,(Sat) 9 Apr 1960 (14),Doncaster Rovers (15),1-2,?,Crystal Palace FC (31)
+?,(Sat) 3 Oct 1959 (39),Doncaster Rovers (16),0-1,?,Darlington FC (31)
+?,(Sat) 12 Dec 1959 (49),Doncaster Rovers (17),0-1,?,Exeter City (9)
+?,(Sat) 13 Feb 1960 (6),Doncaster Rovers (18),1-0,?,Gateshead FC (9)
+?,(Fri) 15 Apr 1960 (15),Doncaster Rovers (19),3-0,?,Gillingham FC (9)
+?,(Sat) 31 Oct 1959 (43),Doncaster Rovers (20),5-1,?,Hartlepool United (9)
+?,(Thu) 27 Aug 1959 (34),Doncaster Rovers (21),0-0,?,Millwall FC (9)
+?,(Sat) 29 Aug 1959 (34),Doncaster Rovers (22),3-2,?,Northampton Town (9)
+?,(Sat) 17 Oct 1959 (41),Doncaster Rovers (23),0-4,?,Notts County FC (9)
+?,(Mon) 28 Dec 1959 (52),Doncaster Rovers (24),0-0,?,Oldham Athletic (9)
+?,(Sat) 19 Sep 1959 (37),Doncaster Rovers (25),2-1,?,Rochdale AFC (9)
+?,(Thu) 24 Sep 1959 (38),Doncaster Rovers (26),5-0,?,Southport FC (9)
+?,(Sat) 23 Apr 1960 (16),Doncaster Rovers (27),1-0,?,Stockport County (9)
+?,(Sat) 19 Dec 1959 (50),Doncaster Rovers (28),1-3,?,Torquay United (9)
+?,(Sat) 12 Mar 1960 (10),Doncaster Rovers (29),1-1,?,Walsall FC (9)
+?,(Sat) 5 Sep 1959 (35),Doncaster Rovers (30),1-0,?,Watford FC (9)
+?,(Sat) 23 Jan 1960 (3),Doncaster Rovers (31),2-0,?,Workington (9)
+?,(Sat) 7 Nov 1959 (44),Exeter City (10),3-1,?,Aldershot Town FC (32)
+?,(Sat) 19 Mar 1960 (11),Exeter City (11),2-2,?,Barrow AFC (32)
+?,(Wed) 30 Sep 1959 (39),Exeter City (12),3-1,?,Bradford Park Avenue (32)
+?,(Sat) 12 Sep 1959 (36),Exeter City (13),1-3,?,Carlisle United (32)
+?,(Thu) 17 Sep 1959 (37),Exeter City (14),2-0,?,Chester FC (32)
+?,(Wed) 7 Oct 1959 (40),Exeter City (15),2-4,?,Crewe Alexandra (32)
+?,(Mon) 18 Apr 1960 (16),Exeter City (16),2-2,?,Crystal Palace FC (32)
+?,(Sat) 2 Apr 1960 (13),Exeter City (17),0-0,?,Darlington FC (32)
+?,(Sat) 30 Apr 1960 (17),Exeter City (18),4-2,?,Doncaster Rovers (32)
+?,(Sat) 21 Nov 1959 (46),Exeter City (19),2-1,?,Gateshead FC (10)
+?,(Sat) 24 Oct 1959 (42),Exeter City (20),2-0,?,Gillingham FC (10)
+?,(Sat) 20 Feb 1960 (7),Exeter City (21),5-0,?,Hartlepool United (10)
+?,(Sat) 10 Oct 1959 (40),Exeter City (22),2-2,?,Millwall FC (10)
+?,(Sat) 22 Aug 1959 (33),Exeter City (23),1-1,?,Northampton Town (10)
+?,(Sat) 6 Feb 1960 (5),Exeter City (24),3-3,?,Notts County FC (10)
+?,(Sat) 16 Jan 1960 (2),Exeter City (25),4-3,?,Oldham Athletic (10)
+?,(Sat) 16 Apr 1960 (15),Exeter City (26),4-1,?,Rochdale AFC (10)
+?,(Sat) 5 Mar 1960 (9),Exeter City (27),1-1,?,Southport FC (10)
+?,(Wed) 2 Sep 1959 (35),Exeter City (28),2-1,?,Stockport County (10)
+?,(Mon) 28 Dec 1959 (52),Exeter City (29),1-0,?,Torquay United (10)
+?,(Sat) 26 Sep 1959 (38),Exeter City (30),1-2,?,Walsall FC (10)
+?,(Sat) 29 Aug 1959 (34),Exeter City (31),2-0,?,Watford FC (10)
+?,(Sat) 30 Jan 1960 (4),Exeter City (32),1-0,?,Workington (10)
+?,(Mon) 28 Sep 1959 (39),Gateshead FC (11),4-1,?,Aldershot Town FC (33)
+?,(Mon) 24 Aug 1959 (34),Gateshead FC (12),3-1,?,Barrow AFC (33)
+?,(Sat) 26 Mar 1960 (12),Gateshead FC (13),1-2,?,Bradford Park Avenue (33)
+?,(Sat) 12 Dec 1959 (49),Gateshead FC (14),1-0,?,Carlisle United (33)
+?,(Sat) 12 Mar 1960 (10),Gateshead FC (15),0-1,?,Chester FC (33)
+?,(Sat) 17 Oct 1959 (41),Gateshead FC (16),4-2,?,Crewe Alexandra (33)
+?,(Sat) 31 Oct 1959 (43),Gateshead FC (17),0-2,?,Crystal Palace FC (33)
+?,(Mon) 18 Apr 1960 (16),Gateshead FC (18),1-3,?,Darlington FC (33)
+?,(Sat) 26 Sep 1959 (38),Gateshead FC (19),5-0,?,Doncaster Rovers (33)
+?,(Sat) 9 Apr 1960 (14),Gateshead FC (20),1-0,?,Exeter City (33)
+?,(Sat) 19 Dec 1959 (50),Gateshead FC (21),2-2,?,Gillingham FC (11)
+?,(Sat) 27 Feb 1960 (8),Gateshead FC (22),1-1,?,Hartlepool United (11)
+?,(Sat) 16 Jan 1960 (2),Gateshead FC (23),1-0,?,Millwall FC (11)
+?,(Sat) 6 Feb 1960 (5),Gateshead FC (24),1-3,?,Northampton Town (11)
+?,(Mon) 7 Sep 1959 (36),Gateshead FC (25),0-0,?,Notts County FC (11)
+?,(Sat) 23 Apr 1960 (16),Gateshead FC (26),2-0,?,Oldham Athletic (11)
+?,(Mon) 5 Oct 1959 (40),Gateshead FC (27),1-2,?,Rochdale AFC (11)
+?,(Sat) 29 Aug 1959 (34),Gateshead FC (28),1-0,?,Southport FC (11)
+?,(Sat) 9 Jan 1960 (1),Gateshead FC (29),2-1,?,Stockport County (11)
+?,(Sat) 12 Sep 1959 (36),Gateshead FC (30),0-2,?,Torquay United (11)
+?,(Mon) 25 Apr 1960 (17),Gateshead FC (31),3-0,?,Walsall FC (11)
+?,(Sat) 28 Nov 1959 (47),Gateshead FC (32),1-3,?,Watford FC (11)
+?,(Mon) 28 Mar 1960 (13),Gateshead FC (33),2-1,?,Workington (11)
+?,(Sat) 5 Sep 1959 (35),Gillingham FC (12),3-1,?,Aldershot Town FC (34)
+?,(Sat) 23 Jan 1960 (3),Gillingham FC (13),1-0,?,Barrow AFC (34)
+?,(Sat) 27 Feb 1960 (8),Gillingham FC (14),2-0,?,Bradford Park Avenue (34)
+?,(Fri) 6 May 1960 (18),Gillingham FC (15),3-1,?,Carlisle United (34)
+?,(Sat) 19 Sep 1959 (37),Gillingham FC (16),3-1,?,Chester FC (34)
+?,(Sat) 12 Dec 1959 (49),Gillingham FC (17),1-1,?,Crewe Alexandra (34)
+?,(Wed) 4 May 1960 (18),Gillingham FC (18),0-0,?,Crystal Palace FC (34)
+?,(Sat) 2 Jan 1960 (0),Gillingham FC (19),2-0,?,Darlington FC (34)
+?,(Mon) 18 Apr 1960 (16),Gillingham FC (20),2-1,?,Doncaster Rovers (34)
+?,(Sat) 12 Mar 1960 (10),Gillingham FC (21),2-1,?,Exeter City (34)
+?,(Sat) 22 Aug 1959 (33),Gillingham FC (22),5-4,?,Gateshead FC (34)
+?,(Sat) 23 Apr 1960 (16),Gillingham FC (23),3-1,?,Hartlepool United (12)
+?,(Sat) 20 Feb 1960 (7),Gillingham FC (24),3-1,?,Millwall FC (12)
+?,(Wed) 16 Sep 1959 (37),Gillingham FC (25),2-1,?,Northampton Town (12)
+?,(Sat) 9 Apr 1960 (14),Gillingham FC (26),0-1,?,Notts County FC (12)
+?,(Sat) 26 Mar 1960 (12),Gillingham FC (27),2-2,?,Oldham Athletic (12)
+?,(Thu) 3 Sep 1959 (35),Gillingham FC (28),2-0,?,Rochdale AFC (12)
+?,(Sat) 26 Sep 1959 (38),Gillingham FC (29),4-1,?,Southport FC (12)
+?,(Sat) 17 Oct 1959 (41),Gillingham FC (30),0-2,?,Stockport County (12)
+?,(Wed) 7 Oct 1959 (40),Gillingham FC (31),1-0,?,Torquay United (12)
+?,(Sat) 28 Nov 1959 (47),Gillingham FC (32),2-0,?,Walsall FC (12)
+?,(Sat) 31 Oct 1959 (43),Gillingham FC (33),2-0,?,Watford FC (12)
+?,(Wed) 30 Sep 1959 (39),Gillingham FC (34),2-2,?,Workington (12)
+?,(Sat) 22 Aug 1959 (33),Hartlepool United (13),3-0,?,Aldershot Town FC (35)
+?,(Sat) 30 Apr 1960 (17),Hartlepool United (14),0-1,?,Barrow AFC (35)
+?,(Sat) 19 Sep 1959 (37),Hartlepool United (15),3-0,?,Bradford Park Avenue (35)
+?,(Mon) 18 Apr 1960 (16),Hartlepool United (16),1-2,?,Carlisle United (35)
+?,(Sat) 5 Sep 1959 (35),Hartlepool United (17),2-3,?,Chester FC (35)
+?,(Sat) 2 Jan 1960 (0),Hartlepool United (18),2-0,?,Crewe Alexandra (35)
+?,(Sat) 23 Jan 1960 (3),Hartlepool United (19),0-1,?,Crystal Palace FC (35)
+?,(Sat) 26 Dec 1959 (51),Hartlepool United (20),1-2,?,Darlington FC (35)
+?,(Sat) 19 Mar 1960 (11),Hartlepool United (21),2-6,?,Doncaster Rovers (35)
+?,(Sat) 3 Oct 1959 (39),Hartlepool United (22),4-3,?,Exeter City (35)
+?,(Sat) 10 Oct 1959 (40),Hartlepool United (23),3-0,?,Gateshead FC (35)
+?,(Sat) 30 Jan 1960 (4),Hartlepool United (24),3-1,?,Gillingham FC (35)
+?,(Sat) 21 Nov 1959 (46),Hartlepool United (25),0-2,?,Millwall FC (13)
+?,(Sat) 7 Nov 1959 (44),Hartlepool United (26),1-4,?,Northampton Town (13)
+?,(Mon) 21 Sep 1959 (38),Hartlepool United (27),2-4,?,Notts County FC (13)
+?,(Mon) 7 Sep 1959 (36),Hartlepool United (28),2-2,?,Oldham Athletic (13)
+?,(Sat) 5 Mar 1960 (9),Hartlepool United (29),0-1,?,Rochdale AFC (13)
+?,(Sat) 16 Apr 1960 (15),Hartlepool United (30),3-2,?,Southport FC (13)
+?,(Sat) 13 Feb 1960 (6),Hartlepool United (31),2-1,?,Stockport County (13)
+?,(Sat) 2 Apr 1960 (13),Hartlepool United (32),4-0,?,Torquay United (13)
+?,(Mon) 31 Aug 1959 (35),Hartlepool United (33),1-2,?,Walsall FC (13)
+?,(Wed) 23 Mar 1960 (12),Hartlepool United (34),0-0,?,Watford FC (13)
+?,(Sat) 24 Oct 1959 (42),Hartlepool United (35),1-4,?,Workington (13)
+?,(Sat) 19 Sep 1959 (37),Millwall FC (14),2-0,?,Aldershot Town FC (36)
+?,(Sat) 13 Feb 1960 (6),Millwall FC (15),3-3,?,Barrow AFC (36)
+?,(Mon) 14 Sep 1959 (37),Millwall FC (16),2-0,?,Bradford Park Avenue (36)
+?,(Sat) 31 Oct 1959 (43),Millwall FC (17),1-1,?,Carlisle United (36)
+?,(Sat) 23 Apr 1960 (16),Millwall FC (18),7-1,?,Chester FC (36)
+?,(Sat) 28 Nov 1959 (47),Millwall FC (19),1-4,?,Crewe Alexandra (36)
+?,(Sat) 12 Dec 1959 (49),Millwall FC (20),1-0,?,Crystal Palace FC (36)
+?,(Sat) 23 Jan 1960 (3),Millwall FC (21),5-2,?,Darlington FC (36)
+?,(Mon) 31 Aug 1959 (35),Millwall FC (22),1-1,?,Doncaster Rovers (36)
+?,(Sat) 27 Feb 1960 (8),Millwall FC (23),2-3,?,Exeter City (36)
+?,(Sat) 5 Sep 1959 (35),Millwall FC (24),4-0,?,Gateshead FC (36)
+?,(Sat) 3 Oct 1959 (39),Millwall FC (25),3-3,?,Gillingham FC (36)
+?,(Sat) 9 Apr 1960 (14),Millwall FC (26),4-0,?,Hartlepool United (36)
+?,(Mon) 28 Sep 1959 (39),Millwall FC (27),2-1,?,Northampton Town (14)
+?,(Sat) 26 Mar 1960 (12),Millwall FC (28),1-1,?,Notts County FC (14)
+?,(Sat) 12 Mar 1960 (10),Millwall FC (29),0-1,?,Oldham Athletic (14)
+?,(Sat) 2 Jan 1960 (0),Millwall FC (30),2-0,?,Rochdale AFC (14)
+?,(Mon) 5 Oct 1959 (40),Millwall FC (31),2-2,?,Southport FC (14)
+?,(Mon) 7 Mar 1960 (10),Millwall FC (32),3-2,?,Stockport County (14)
+?,(Fri) 15 Apr 1960 (15),Millwall FC (33),2-0,?,Torquay United (14)
+?,(Sat) 9 Jan 1960 (1),Millwall FC (34),1-1,?,Walsall FC (14)
+?,(Sat) 17 Oct 1959 (41),Millwall FC (35),2-2,?,Watford FC (14)
+?,(Sat) 22 Aug 1959 (33),Millwall FC (36),3-0,?,Workington (14)
+?,(Sat) 3 Oct 1959 (39),Northampton Town (15),2-0,?,Aldershot Town FC (37)
+?,(Mon) 11 Apr 1960 (15),Northampton Town (16),6-0,?,Barrow AFC (37)
+?,(Sat) 23 Apr 1960 (16),Northampton Town (17),3-1,?,Bradford Park Avenue (37)
+?,(Sat) 17 Oct 1959 (41),Northampton Town (18),2-2,?,Carlisle United (37)
+?,(Sat) 9 Apr 1960 (14),Northampton Town (19),1-0,?,Chester FC (37)
+?,(Thu) 28 Apr 1960 (17),Northampton Town (20),0-0,?,Crewe Alexandra (37)
+?,(Sat) 28 Nov 1959 (47),Northampton Town (21),0-2,?,Crystal Palace FC (37)
+?,(Sat) 13 Feb 1960 (6),Northampton Town (22),3-1,?,Darlington FC (37)
+?,(Sat) 2 Jan 1960 (0),Northampton Town (23),3-1,?,Doncaster Rovers (37)
+?,(Sat) 19 Dec 1959 (50),Northampton Town (24),1-1,?,Exeter City (37)
+?,(Sat) 19 Sep 1959 (37),Northampton Town (25),2-0,?,Gateshead FC (37)
+?,(Thu) 10 Sep 1959 (36),Northampton Town (26),2-1,?,Gillingham FC (37)
+?,(Sat) 26 Mar 1960 (12),Northampton Town (27),3-0,?,Hartlepool United (37)
+?,(Mon) 21 Sep 1959 (38),Northampton Town (28),0-3,?,Millwall FC (37)
+?,(Sat) 12 Mar 1960 (10),Northampton Town (29),4-2,?,Notts County FC (15)
+?,(Sat) 27 Feb 1960 (8),Northampton Town (30),8-1,?,Oldham Athletic (15)
+?,(Sat) 23 Jan 1960 (3),Northampton Town (31),3-1,?,Rochdale AFC (15)
+?,(Tue) 19 Apr 1960 (16),Northampton Town (32),2-2,?,Southport FC (15)
+?,(Sat) 12 Dec 1959 (49),Northampton Town (33),1-1,?,Stockport County (15)
+?,(Thu) 27 Aug 1959 (34),Northampton Town (34),3-0,?,Torquay United (15)
+?,(Sat) 31 Oct 1959 (43),Northampton Town (35),0-1,?,Walsall FC (15)
+?,(Mon) 28 Dec 1959 (52),Northampton Town (36),1-2,?,Watford FC (15)
+?,(Sat) 5 Sep 1959 (35),Northampton Town (37),0-0,?,Workington (15)
+?,(Sat) 30 Jan 1960 (4),Notts County FC (16),5-3,?,Aldershot Town FC (38)
+?,(Sat) 16 Apr 1960 (15),Notts County FC (17),1-2,?,Barrow AFC (38)
+?,(Sat) 5 Sep 1959 (35),Notts County FC (18),0-1,?,Bradford Park Avenue (38)
+?,(Thu) 15 Oct 1959 (41),Notts County FC (19),2-1,?,Carlisle United (38)
+?,(Sat) 22 Aug 1959 (33),Notts County FC (20),2-1,?,Chester FC (38)
+?,(Thu) 3 Sep 1959 (35),Notts County FC (21),4-1,?,Crewe Alexandra (38)
+?,(Sat) 2 Jan 1960 (0),Notts County FC (22),7-1,?,Crystal Palace FC (38)
+?,(Sat) 30 Apr 1960 (17),Notts County FC (23),5-4,?,Darlington FC (38)
+?,(Sat) 5 Mar 1960 (9),Notts County FC (24),3-4,?,Doncaster Rovers (38)
+?,(Sat) 19 Sep 1959 (37),Notts County FC (25),3-0,?,Exeter City (38)
+?,(Thu) 17 Sep 1959 (37),Notts County FC (26),4-0,?,Gateshead FC (38)
+?,(Sat) 21 Nov 1959 (46),Notts County FC (27),3-1,?,Gillingham FC (38)
+?,(Thu) 1 Oct 1959 (39),Notts County FC (28),4-0,?,Hartlepool United (38)
+?,(Sat) 7 Nov 1959 (44),Notts County FC (29),2-1,?,Millwall FC (38)
+?,(Sat) 24 Oct 1959 (42),Notts County FC (30),2-1,?,Northampton Town (38)
+?,(Sat) 3 Oct 1959 (39),Notts County FC (31),3-1,?,Oldham Athletic (16)
+?,(Sat) 26 Dec 1959 (51),Notts County FC (32),2-1,?,Rochdale AFC (16)
+?,(Sat) 2 Apr 1960 (13),Notts County FC (33),4-1,?,Southport FC (16)
+?,(Sat) 23 Jan 1960 (3),Notts County FC (34),3-0,?,Stockport County (16)
+?,(Sat) 19 Mar 1960 (11),Notts County FC (35),1-1,?,Torquay United (16)
+?,(Mon) 18 Apr 1960 (16),Notts County FC (36),2-1,?,Walsall FC (16)
+?,(Sat) 13 Feb 1960 (6),Notts County FC (37),2-1,?,Watford FC (16)
+?,(Sat) 10 Oct 1959 (40),Notts County FC (38),2-0,?,Workington (16)
+?,(Sat) 21 Nov 1959 (46),Oldham Athletic (17),0-1,?,Aldershot Town FC (39)
+?,(Sat) 2 Apr 1960 (13),Oldham Athletic (18),1-0,?,Barrow AFC (39)
+?,(Sat) 22 Aug 1959 (33),Oldham Athletic (19),2-0,?,Bradford Park Avenue (39)
+?,(Sat) 26 Sep 1959 (38),Oldham Athletic (20),0-1,?,Carlisle United (39)
+?,(Tue) 29 Sep 1959 (39),Oldham Athletic (21),0-0,?,Chester FC (39)
+?,(Fri) 15 Apr 1960 (15),Oldham Athletic (22),2-4,?,Crewe Alexandra (39)
+?,(Mon) 24 Aug 1959 (34),Oldham Athletic (23),1-0,?,Crystal Palace FC (39)
+?,(Sat) 16 Apr 1960 (15),Oldham Athletic (24),1-3,?,Darlington FC (39)
+?,(Sat) 26 Dec 1959 (51),Oldham Athletic (25),1-1,?,Doncaster Rovers (39)
+?,(Sat) 5 Sep 1959 (35),Oldham Athletic (26),1-2,?,Exeter City (39)
+?,(Sat) 30 Jan 1960 (4),Oldham Athletic (27),1-1,?,Gateshead FC (39)
+?,(Sat) 7 Nov 1959 (44),Oldham Athletic (28),3-1,?,Gillingham FC (39)
+?,(Tue) 15 Sep 1959 (37),Oldham Athletic (29),1-2,?,Hartlepool United (39)
+?,(Sat) 24 Oct 1959 (42),Oldham Athletic (30),1-1,?,Millwall FC (39)
+?,(Sat) 10 Oct 1959 (40),Oldham Athletic (31),0-1,?,Northampton Town (39)
+?,(Tue) 3 May 1960 (18),Oldham Athletic (32),0-3,?,Notts County FC (39)
+?,(Sat) 30 Apr 1960 (17),Oldham Athletic (33),1-0,?,Rochdale AFC (17)
+?,(Sat) 19 Mar 1960 (11),Oldham Athletic (34),0-1,?,Southport FC (17)
+?,(Sat) 2 Jan 1960 (0),Oldham Athletic (35),0-0,?,Stockport County (17)
+?,(Sat) 5 Mar 1960 (9),Oldham Athletic (36),0-2,?,Torquay United (17)
+?,(Tue) 12 Apr 1960 (15),Oldham Athletic (37),2-4,?,Walsall FC (17)
+?,(Sat) 23 Jan 1960 (3),Oldham Athletic (38),0-0,?,Watford FC (17)
+?,(Sat) 6 Feb 1960 (5),Oldham Athletic (39),2-2,?,Workington (17)
+?,(Mon) 18 Apr 1960 (16),Rochdale AFC (18),2-0,?,Aldershot Town FC (40)
+?,(Tue) 22 Sep 1959 (38),Rochdale AFC (19),4-1,?,Barrow AFC (40)
+?,(Tue) 15 Mar 1960 (11),Rochdale AFC (20),0-1,?,Bradford Park Avenue (40)
+?,(Sat) 3 Oct 1959 (39),Rochdale AFC (21),3-0,?,Carlisle United (40)
+?,(Sat) 31 Oct 1959 (43),Rochdale AFC (22),0-0,?,Chester FC (40)
+?,(Sat) 12 Mar 1960 (10),Rochdale AFC (23),4-2,?,Crewe Alexandra (40)
+?,(Sat) 26 Mar 1960 (12),Rochdale AFC (24),4-0,?,Crystal Palace FC (40)
+?,(Tue) 8 Sep 1959 (36),Rochdale AFC (25),2-0,?,Darlington FC (40)
+?,(Sat) 6 Feb 1960 (5),Rochdale AFC (26),2-0,?,Doncaster Rovers (40)
+?,(Sat) 28 Nov 1959 (47),Rochdale AFC (27),3-0,?,Exeter City (40)
+?,(Tue) 13 Oct 1959 (41),Rochdale AFC (28),2-0,?,Gateshead FC (40)
+?,(Thu) 27 Aug 1959 (34),Rochdale AFC (29),1-0,?,Gillingham FC (40)
+?,(Sat) 17 Oct 1959 (41),Rochdale AFC (30),2-0,?,Hartlepool United (40)
+?,(Sat) 29 Aug 1959 (34),Rochdale AFC (31),0-1,?,Millwall FC (40)
+?,(Sat) 12 Sep 1959 (36),Rochdale AFC (32),2-2,?,Northampton Town (40)
+?,(Mon) 28 Dec 1959 (52),Rochdale AFC (33),1-4,?,Notts County FC (40)
+?,(Sat) 12 Dec 1959 (49),Rochdale AFC (34),2-0,?,Oldham Athletic (40)
+?,(Sat) 19 Dec 1959 (50),Rochdale AFC (35),1-0,?,Southport FC (18)
+?,(Sat) 9 Apr 1960 (14),Rochdale AFC (36),3-0,?,Stockport County (18)
+?,(Sat) 16 Jan 1960 (2),Rochdale AFC (37),4-2,?,Torquay United (18)
+?,(Sat) 27 Feb 1960 (8),Rochdale AFC (38),0-2,?,Walsall FC (18)
+?,(Sat) 23 Apr 1960 (16),Rochdale AFC (39),3-3,?,Watford FC (18)
+?,(Sat) 26 Sep 1959 (38),Rochdale AFC (40),1-1,?,Workington (18)
+?,(Sat) 23 Jan 1960 (3),Southport FC (19),0-4,?,Aldershot Town FC (41)
+?,(Sat) 19 Sep 1959 (37),Southport FC (20),1-0,?,Barrow AFC (41)
+?,(Mon) 28 Dec 1959 (52),Southport FC (21),1-1,?,Bradford Park Avenue (41)
+?,(Sat) 26 Mar 1960 (12),Southport FC (22),1-1,?,Carlisle United (41)
+?,(Sat) 12 Dec 1959 (49),Southport FC (23),3-1,?,Chester FC (41)
+?,(Sat) 23 Apr 1960 (16),Southport FC (24),0-1,?,Crewe Alexandra (41)
+?,(Sat) 3 Oct 1959 (39),Southport FC (25),3-1,?,Crystal Palace FC (41)
+?,(Sat) 5 Sep 1959 (35),Southport FC (26),0-1,?,Darlington FC (41)
+?,(Mon) 2 May 1960 (18),Southport FC (27),1-1,?,Doncaster Rovers (41)
+?,(Sat) 17 Oct 1959 (41),Southport FC (28),3-2,?,Exeter City (41)
+?,(Sat) 2 Jan 1960 (0),Southport FC (29),1-0,?,Gateshead FC (41)
+?,(Sat) 13 Feb 1960 (6),Southport FC (30),1-1,?,Gillingham FC (41)
+?,(Sat) 28 Nov 1959 (47),Southport FC (31),2-1,?,Hartlepool United (41)
+?,(Mon) 25 Apr 1960 (17),Southport FC (32),1-0,?,Millwall FC (41)
+?,(Fri) 15 Apr 1960 (15),Southport FC (33),0-4,?,Northampton Town (41)
+?,(Sat) 9 Jan 1960 (1),Southport FC (34),1-2,?,Notts County FC (41)
+?,(Sat) 31 Oct 1959 (43),Southport FC (35),1-0,?,Oldham Athletic (41)
+?,(Sat) 22 Aug 1959 (33),Southport FC (36),2-2,?,Rochdale AFC (41)
+?,(Sat) 27 Feb 1960 (8),Southport FC (37),3-0,?,Stockport County (19)
+?,(Tue) 15 Sep 1959 (37),Southport FC (38),1-2,?,Torquay United (19)
+?,(Sat) 9 Apr 1960 (14),Southport FC (39),1-4,?,Walsall FC (19)
+?,(Sat) 12 Mar 1960 (10),Southport FC (40),1-1,?,Watford FC (19)
+?,(Tue) 1 Sep 1959 (35),Southport FC (41),2-2,?,Workington (19)
+?,(Sat) 19 Mar 1960 (11),Stockport County (20),1-1,?,Aldershot Town FC (42)
+?,(Sat) 24 Oct 1959 (42),Stockport County (21),1-0,?,Barrow AFC (42)
+?,(Fri) 15 Apr 1960 (15),Stockport County (22),0-0,?,Bradford Park Avenue (42)
+?,(Sat) 16 Jan 1960 (2),Stockport County (23),0-0,?,Carlisle United (42)
+?,(Mon) 5 Oct 1959 (40),Stockport County (24),3-0,?,Chester FC (42)
+?,(Mon) 29 Feb 1960 (9),Stockport County (25),1-0,?,Crewe Alexandra (42)
+?,(Mon) 7 Sep 1959 (36),Stockport County (26),0-1,?,Crystal Palace FC (42)
+?,(Sat) 7 Nov 1959 (44),Stockport County (27),1-0,?,Darlington FC (42)
+?,(Sat) 30 Jan 1960 (4),Stockport County (28),2-0,?,Doncaster Rovers (42)
+?,(Mon) 24 Aug 1959 (34),Stockport County (29),1-0,?,Exeter City (42)
+?,(Sat) 2 Apr 1960 (13),Stockport County (30),0-0,?,Gateshead FC (42)
+?,(Sat) 5 Mar 1960 (9),Stockport County (31),1-1,?,Gillingham FC (42)
+?,(Sat) 26 Sep 1959 (38),Stockport County (32),2-1,?,Hartlepool United (42)
+?,(Mon) 28 Dec 1959 (52),Stockport County (33),2-2,?,Millwall FC (42)
+?,(Sat) 30 Apr 1960 (17),Stockport County (34),3-0,?,Northampton Town (42)
+?,(Sat) 12 Sep 1959 (36),Stockport County (35),3-1,?,Notts County FC (42)
+?,(Sat) 29 Aug 1959 (34),Stockport County (36),3-1,?,Oldham Athletic (42)
+?,(Sat) 21 Nov 1959 (46),Stockport County (37),2-1,?,Rochdale AFC (42)
+?,(Sat) 10 Oct 1959 (40),Stockport County (38),1-0,?,Southport FC (42)
+?,(Mon) 21 Sep 1959 (38),Stockport County (39),0-1,?,Torquay United (20)
+?,(Sat) 6 Feb 1960 (5),Stockport County (40),2-0,?,Walsall FC (20)
+?,(Sat) 19 Dec 1959 (50),Stockport County (41),4-0,?,Watford FC (20)
+?,(Sat) 16 Apr 1960 (15),Stockport County (42),2-0,?,Workington (20)
+?,(Sat) 13 Feb 1960 (6),Torquay United (21),2-1,?,Aldershot Town FC (43)
+?,(Sat) 3 Oct 1959 (39),Torquay United (22),3-2,?,Barrow AFC (43)
+?,(Sat) 12 Dec 1959 (49),Torquay United (23),1-1,?,Bradford Park Avenue (43)
+?,(Sat) 12 Mar 1960 (10),Torquay United (24),2-1,?,Carlisle United (43)
+?,(Sat) 28 Nov 1959 (47),Torquay United (25),1-2,?,Chester FC (43)
+?,(Sat) 9 Apr 1960 (14),Torquay United (26),5-2,?,Crewe Alexandra (43)
+?,(Sat) 23 Apr 1960 (16),Torquay United (27),2-1,?,Crystal Palace FC (43)
+?,(Sat) 19 Sep 1959 (37),Torquay United (28),1-2,?,Darlington FC (43)
+?,(Sat) 22 Aug 1959 (33),Torquay United (29),2-1,?,Doncaster Rovers (43)
+?,(Sat) 26 Dec 1959 (51),Torquay United (30),2-3,?,Exeter City (43)
+?,(Sat) 23 Jan 1960 (3),Torquay United (31),1-0,?,Gateshead FC (43)
+?,(Wed) 27 Apr 1960 (17),Torquay United (32),2-0,?,Gillingham FC (43)
+?,(Sat) 9 Jan 1960 (1),Torquay United (33),3-0,?,Hartlepool United (43)
+?,(Mon) 18 Apr 1960 (16),Torquay United (34),2-2,?,Millwall FC (43)
+?,(Wed) 2 Sep 1959 (35),Torquay United (35),5-3,?,Northampton Town (43)
+?,(Sat) 31 Oct 1959 (43),Torquay United (36),3-1,?,Notts County FC (43)
+?,(Sat) 17 Oct 1959 (41),Torquay United (37),4-1,?,Oldham Athletic (43)
+?,(Sat) 5 Sep 1959 (35),Torquay United (38),1-1,?,Rochdale AFC (43)
+?,(Wed) 9 Sep 1959 (36),Torquay United (39),4-0,?,Southport FC (43)
+?,(Wed) 30 Sep 1959 (39),Torquay United (40),4-0,?,Stockport County (43)
+?,(Sat) 26 Mar 1960 (12),Torquay United (41),2-1,?,Walsall FC (21)
+?,(Sat) 27 Feb 1960 (8),Torquay United (42),2-1,?,Watford FC (21)
+?,(Sat) 2 Jan 1960 (0),Torquay United (43),2-1,?,Workington (21)
+?,(Sat) 12 Dec 1959 (49),Walsall FC (22),1-0,?,Aldershot Town FC (44)
+?,(Fri) 29 Jan 1960 (4),Walsall FC (23),2-1,?,Barrow AFC (44)
+?,(Sat) 23 Jan 1960 (3),Walsall FC (24),2-1,?,Bradford Park Avenue (44)
+?,(Thu) 10 Sep 1959 (36),Walsall FC (25),0-1,?,Carlisle United (44)
+?,(Sat) 2 Jan 1960 (0),Walsall FC (26),2-1,?,Chester FC (44)
+?,(Sat) 22 Aug 1959 (33),Walsall FC (27),3-1,?,Crewe Alexandra (44)
+?,(Sat) 5 Sep 1959 (35),Walsall FC (28),3-0,?,Crystal Palace FC (44)
+?,(Tue) 22 Sep 1959 (38),Walsall FC (29),1-0,?,Darlington FC (44)
+?,(Sat) 24 Oct 1959 (42),Walsall FC (30),5-2,?,Doncaster Rovers (44)
+?,(Tue) 22 Mar 1960 (12),Walsall FC (31),2-2,?,Exeter City (44)
+?,(Sat) 26 Dec 1959 (51),Walsall FC (32),2-2,?,Gateshead FC (44)
+?,(Sat) 16 Apr 1960 (15),Walsall FC (33),2-3,?,Gillingham FC (44)
+?,(Tue) 25 Aug 1959 (34),Walsall FC (34),2-2,?,Hartlepool United (44)
+?,(Sat) 2 Apr 1960 (13),Walsall FC (35),2-1,?,Millwall FC (44)
+?,(Sat) 19 Mar 1960 (11),Walsall FC (36),1-2,?,Northampton Town (44)
+?,(Tue) 19 Apr 1960 (16),Walsall FC (37),2-2,?,Notts County FC (44)
+?,(Tue) 13 Oct 1959 (41),Walsall FC (38),2-1,?,Oldham Athletic (44)
+?,(Sat) 10 Oct 1959 (40),Walsall FC (39),4-2,?,Rochdale AFC (44)
+?,(Sat) 21 Nov 1959 (46),Walsall FC (40),8-0,?,Southport FC (44)
+?,(Sat) 19 Sep 1959 (37),Walsall FC (41),3-1,?,Stockport County (44)
+?,(Sat) 7 Nov 1959 (44),Walsall FC (42),3-2,?,Torquay United (44)
+?,(Sat) 3 Oct 1959 (39),Walsall FC (43),3-4,?,Watford FC (22)
+?,(Sat) 5 Mar 1960 (9),Walsall FC (44),2-2,?,Workington (22)
+?,(Sat) 2 Apr 1960 (13),Watford FC (23),1-3,?,Aldershot Town FC (45)
+?,(Sat) 7 Nov 1959 (44),Watford FC (24),2-0,?,Barrow AFC (45)
+?,(Tue) 1 Sep 1959 (35),Watford FC (25),1-0,?,Bradford Park Avenue (45)
+?,(Sat) 6 Feb 1960 (5),Watford FC (26),3-1,?,Carlisle United (45)
+?,(Fri) 15 Apr 1960 (15),Watford FC (27),4-2,?,Chester FC (45)
+?,(Tue) 15 Sep 1959 (37),Watford FC (28),2-0,?,Crewe Alexandra (45)
+?,(Tue) 29 Sep 1959 (39),Watford FC (29),4-2,?,Crystal Palace FC (45)
+?,(Sat) 21 Nov 1959 (46),Watford FC (30),2-1,?,Darlington FC (45)
+?,(Sat) 16 Jan 1960 (2),Watford FC (31),1-2,?,Doncaster Rovers (45)
+?,(Sat) 2 Jan 1960 (0),Watford FC (32),5-2,?,Exeter City (45)
+?,(Sat) 16 Apr 1960 (15),Watford FC (33),5-0,?,Gateshead FC (45)
+?,(Sat) 19 Mar 1960 (11),Watford FC (34),3-1,?,Gillingham FC (45)
+?,(Tue) 13 Oct 1959 (41),Watford FC (35),7-2,?,Hartlepool United (45)
+?,(Sat) 5 Mar 1960 (9),Watford FC (36),0-2,?,Millwall FC (45)
+?,(Tue) 1 Mar 1960 (9),Watford FC (37),3-1,?,Northampton Town (45)
+?,(Sat) 26 Sep 1959 (38),Watford FC (38),4-2,?,Notts County FC (45)
+?,(Sat) 12 Sep 1959 (36),Watford FC (39),6-0,?,Oldham Athletic (45)
+?,(Tue) 26 Apr 1960 (17),Watford FC (40),2-1,?,Rochdale AFC (45)
+?,(Sat) 24 Oct 1959 (42),Watford FC (41),2-1,?,Southport FC (45)
+?,(Sat) 22 Aug 1959 (33),Watford FC (42),0-0,?,Stockport County (45)
+?,(Sat) 10 Oct 1959 (40),Watford FC (43),0-1,?,Torquay United (45)
+?,(Tue) 3 May 1960 (18),Watford FC (44),2-2,?,Walsall FC (45)
+?,(Sat) 12 Dec 1959 (49),Watford FC (45),3-2,?,Workington (23)
+?,(Thu) 10 Sep 1959 (36),Workington (24),3-3,?,Aldershot Town FC (46)
+?,(Fri) 15 Apr 1960 (15),Workington (25),1-1,?,Barrow AFC (46)
+?,(Sat) 9 Apr 1960 (14),Workington (26),0-1,?,Bradford Park Avenue (46)
+?,(Tue) 29 Dec 1959 (52),Workington (27),1-0,?,Carlisle United (46)
+?,(Sat) 26 Mar 1960 (12),Workington (28),5-0,?,Chester FC (46)
+?,(Sat) 31 Oct 1959 (43),Workington (29),5-0,?,Crewe Alexandra (46)
+?,(Thu) 25 Feb 1960 (8),Workington (30),1-1,?,Crystal Palace FC (46)
+?,(Thu) 15 Oct 1959 (41),Workington (31),1-1,?,Darlington FC (46)
+?,(Sat) 12 Sep 1959 (36),Workington (32),2-0,?,Doncaster Rovers (46)
+?,(Sat) 23 Apr 1960 (16),Workington (33),2-1,?,Exeter City (46)
+?,(Sat) 3 Oct 1959 (39),Workington (34),1-1,?,Gateshead FC (46)
+?,(Thu) 24 Sep 1959 (38),Workington (35),1-1,?,Gillingham FC (46)
+?,(Sat) 12 Mar 1960 (10),Workington (36),3-0,?,Hartlepool United (46)
+?,(Sat) 19 Dec 1959 (50),Workington (37),4-0,?,Millwall FC (46)
+?,(Sat) 16 Jan 1960 (2),Workington (38),5-1,?,Northampton Town (46)
+?,(Sat) 27 Feb 1960 (8),Workington (39),0-1,?,Notts County FC (46)
+?,(Sat) 19 Sep 1959 (37),Workington (40),2-0,?,Oldham Athletic (46)
+?,(Sat) 13 Feb 1960 (6),Workington (41),2-0,?,Rochdale AFC (46)
+?,(Thu) 27 Aug 1959 (34),Workington (42),1-1,?,Southport FC (46)
+?,(Sat) 28 Nov 1959 (47),Workington (43),1-1,?,Stockport County (46)
+?,(Sat) 29 Aug 1959 (34),Workington (44),0-2,?,Torquay United (46)
+?,(Sat) 17 Oct 1959 (41),Workington (45),0-3,?,Walsall FC (46)
+?,(Sat) 30 Apr 1960 (17),Workington (46),0-1,?,Watford FC (46)

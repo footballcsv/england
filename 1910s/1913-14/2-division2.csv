@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barnsley,Arsenal,1-0,-
--,-,Birmingham City,Arsenal,2-0,-
--,-,Blackpool,Arsenal,1-1,-
--,-,Bradford Park Avenue,Arsenal,2-3,-
--,-,Bristol City,Arsenal,1-1,-
--,-,Bury,Arsenal,1-1,-
--,-,Fulham,Arsenal,6-1,-
--,-,Glossop North End,Arsenal,0-2,-
--,-,Grimsby Town,Arsenal,1-1,-
--,-,Huddersfield Town,Arsenal,1-2,-
--,-,Hull City,Arsenal,1-2,-
--,-,Leeds City,Arsenal,0-0,-
--,-,Leicester City,Arsenal,1-2,-
--,-,Leyton Orient,Arsenal,1-0,-
--,-,Lincoln City,Arsenal,5-2,-
--,-,Nottingham Forest,Arsenal,0-0,-
--,-,Notts County,Arsenal,1-0,-
--,-,Stockport County,Arsenal,2-0,-
--,-,Wolverhampton Wanderers,Arsenal,1-2,-
--,-,Arsenal,Barnsley,1-0,-
--,-,Birmingham City,Barnsley,0-0,-
--,-,Blackpool,Barnsley,3-1,-
--,-,Bradford Park Avenue,Barnsley,1-1,-
--,-,Bristol City,Barnsley,1-1,-
--,-,Bury,Barnsley,4-0,-
--,-,Fulham,Barnsley,1-2,-
--,-,Glossop North End,Barnsley,5-1,-
--,-,Grimsby Town,Barnsley,1-1,-
--,-,Huddersfield Town,Barnsley,3-1,-
--,-,Hull City,Barnsley,0-1,-
--,-,Leeds City,Barnsley,3-0,-
--,-,Leicester City,Barnsley,0-2,-
--,-,Leyton Orient,Barnsley,1-0,-
--,-,Lincoln City,Barnsley,2-2,-
--,-,Nottingham Forest,Barnsley,0-2,-
--,-,Notts County,Barnsley,3-1,-
--,-,Stockport County,Barnsley,1-1,-
--,-,Wolverhampton Wanderers,Barnsley,0-1,-
--,-,Arsenal,Birmingham City,1-0,-
--,-,Barnsley,Birmingham City,1-1,-
--,-,Blackpool,Birmingham City,2-2,-
--,-,Bradford Park Avenue,Birmingham City,5-1,-
--,-,Bristol City,Birmingham City,1-2,-
--,-,Bury,Birmingham City,3-1,-
--,-,Fulham,Birmingham City,1-0,-
--,-,Glossop North End,Birmingham City,4-1,-
--,-,Grimsby Town,Birmingham City,0-2,-
--,-,Huddersfield Town,Birmingham City,7-0,-
--,-,Hull City,Birmingham City,0-0,-
--,-,Leeds City,Birmingham City,3-2,-
--,-,Leicester City,Birmingham City,0-0,-
--,-,Leyton Orient,Birmingham City,2-2,-
--,-,Lincoln City,Birmingham City,1-1,-
--,-,Nottingham Forest,Birmingham City,3-1,-
--,-,Notts County,Birmingham City,5-1,-
--,-,Stockport County,Birmingham City,2-0,-
--,-,Wolverhampton Wanderers,Birmingham City,1-0,-
--,-,Arsenal,Blackpool,2-1,-
--,-,Barnsley,Blackpool,2-1,-
--,-,Birmingham City,Blackpool,0-0,-
--,-,Bradford Park Avenue,Blackpool,4-1,-
--,-,Bristol City,Blackpool,1-0,-
--,-,Bury,Blackpool,1-0,-
--,-,Fulham,Blackpool,0-0,-
--,-,Glossop North End,Blackpool,1-2,-
--,-,Grimsby Town,Blackpool,2-0,-
--,-,Huddersfield Town,Blackpool,1-0,-
--,-,Hull City,Blackpool,0-0,-
--,-,Leeds City,Blackpool,2-1,-
--,-,Leicester City,Blackpool,0-1,-
--,-,Leyton Orient,Blackpool,2-0,-
--,-,Lincoln City,Blackpool,1-2,-
--,-,Nottingham Forest,Blackpool,3-0,-
--,-,Notts County,Blackpool,2-0,-
--,-,Stockport County,Blackpool,0-0,-
--,-,Wolverhampton Wanderers,Blackpool,1-0,-
--,-,Arsenal,Bradford Park Avenue,2-0,-
--,-,Barnsley,Bradford Park Avenue,1-2,-
--,-,Birmingham City,Bradford Park Avenue,1-2,-
--,-,Blackpool,Bradford Park Avenue,2-1,-
--,-,Bristol City,Bradford Park Avenue,2-0,-
--,-,Bury,Bradford Park Avenue,0-0,-
--,-,Fulham,Bradford Park Avenue,1-6,-
--,-,Glossop North End,Bradford Park Avenue,2-1,-
--,-,Grimsby Town,Bradford Park Avenue,0-0,-
--,-,Huddersfield Town,Bradford Park Avenue,0-1,-
--,-,Hull City,Bradford Park Avenue,1-3,-
--,-,Leeds City,Bradford Park Avenue,5-1,-
--,-,Leicester City,Bradford Park Avenue,2-3,-
--,-,Leyton Orient,Bradford Park Avenue,1-0,-
--,-,Lincoln City,Bradford Park Avenue,0-3,-
--,-,Nottingham Forest,Bradford Park Avenue,1-0,-
--,-,Notts County,Bradford Park Avenue,2-3,-
--,-,Stockport County,Bradford Park Avenue,3-1,-
--,-,Wolverhampton Wanderers,Bradford Park Avenue,1-0,-
--,-,Arsenal,Bristol City,1-1,-
--,-,Barnsley,Bristol City,3-0,-
--,-,Birmingham City,Bristol City,2-2,-
--,-,Blackpool,Bristol City,0-1,-
--,-,Bradford Park Avenue,Bristol City,4-3,-
--,-,Bury,Bristol City,3-1,-
--,-,Fulham,Bristol City,3-1,-
--,-,Glossop North End,Bristol City,1-1,-
--,-,Grimsby Town,Bristol City,1-0,-
--,-,Huddersfield Town,Bristol City,1-2,-
--,-,Hull City,Bristol City,0-1,-
--,-,Leeds City,Bristol City,1-0,-
--,-,Leicester City,Bristol City,3-0,-
--,-,Leyton Orient,Bristol City,5-2,-
--,-,Lincoln City,Bristol City,2-1,-
--,-,Nottingham Forest,Bristol City,1-1,-
--,-,Notts County,Bristol City,4-0,-
--,-,Stockport County,Bristol City,5-1,-
--,-,Wolverhampton Wanderers,Bristol City,0-2,-
--,-,Arsenal,Bury,0-1,-
--,-,Barnsley,Bury,2-0,-
--,-,Birmingham City,Bury,1-0,-
--,-,Blackpool,Bury,0-1,-
--,-,Bradford Park Avenue,Bury,3-1,-
--,-,Bristol City,Bury,2-0,-
--,-,Fulham,Bury,1-1,-
--,-,Glossop North End,Bury,2-1,-
--,-,Grimsby Town,Bury,1-0,-
--,-,Huddersfield Town,Bury,1-1,-
--,-,Hull City,Bury,0-1,-
--,-,Leeds City,Bury,2-1,-
--,-,Leicester City,Bury,0-0,-
--,-,Leyton Orient,Bury,1-0,-
--,-,Lincoln City,Bury,1-0,-
--,-,Nottingham Forest,Bury,1-1,-
--,-,Notts County,Bury,2-0,-
--,-,Stockport County,Bury,3-0,-
--,-,Wolverhampton Wanderers,Bury,3-0,-
--,-,Arsenal,Fulham,2-0,-
--,-,Barnsley,Fulham,1-0,-
--,-,Birmingham City,Fulham,0-1,-
--,-,Blackpool,Fulham,1-1,-
--,-,Bradford Park Avenue,Fulham,1-0,-
--,-,Bristol City,Fulham,0-1,-
--,-,Bury,Fulham,1-0,-
--,-,Glossop North End,Fulham,0-1,-
--,-,Grimsby Town,Fulham,0-3,-
--,-,Huddersfield Town,Fulham,3-1,-
--,-,Hull City,Fulham,1-1,-
--,-,Leeds City,Fulham,2-1,-
--,-,Leicester City,Fulham,3-0,-
--,-,Leyton Orient,Fulham,1-0,-
--,-,Lincoln City,Fulham,0-1,-
--,-,Nottingham Forest,Fulham,1-1,-
--,-,Notts County,Fulham,4-0,-
--,-,Stockport County,Fulham,1-3,-
--,-,Wolverhampton Wanderers,Fulham,1-0,-
--,-,Arsenal,Glossop North End,2-0,-
--,-,Barnsley,Glossop North End,2-0,-
--,-,Birmingham City,Glossop North End,6-0,-
--,-,Blackpool,Glossop North End,1-1,-
--,-,Bradford Park Avenue,Glossop North End,2-1,-
--,-,Bristol City,Glossop North End,4-1,-
--,-,Bury,Glossop North End,1-0,-
--,-,Fulham,Glossop North End,2-1,-
--,-,Grimsby Town,Glossop North End,3-0,-
--,-,Huddersfield Town,Glossop North End,2-1,-
--,-,Hull City,Glossop North End,3-0,-
--,-,Leeds City,Glossop North End,3-0,-
--,-,Leicester City,Glossop North End,1-3,-
--,-,Leyton Orient,Glossop North End,5-1,-
--,-,Lincoln City,Glossop North End,1-5,-
--,-,Nottingham Forest,Glossop North End,1-2,-
--,-,Notts County,Glossop North End,2-2,-
--,-,Stockport County,Glossop North End,1-1,-
--,-,Wolverhampton Wanderers,Glossop North End,1-0,-
--,-,Arsenal,Grimsby Town,2-0,-
--,-,Barnsley,Grimsby Town,3-1,-
--,-,Birmingham City,Grimsby Town,1-2,-
--,-,Blackpool,Grimsby Town,1-1,-
--,-,Bradford Park Avenue,Grimsby Town,3-0,-
--,-,Bristol City,Grimsby Town,1-0,-
--,-,Bury,Grimsby Town,3-1,-
--,-,Fulham,Grimsby Town,2-2,-
--,-,Glossop North End,Grimsby Town,3-0,-
--,-,Huddersfield Town,Grimsby Town,1-2,-
--,-,Hull City,Grimsby Town,2-1,-
--,-,Leeds City,Grimsby Town,4-1,-
--,-,Leicester City,Grimsby Town,2-0,-
--,-,Leyton Orient,Grimsby Town,0-0,-
--,-,Lincoln City,Grimsby Town,1-3,-
--,-,Nottingham Forest,Grimsby Town,4-1,-
--,-,Notts County,Grimsby Town,4-0,-
--,-,Stockport County,Grimsby Town,2-2,-
--,-,Wolverhampton Wanderers,Grimsby Town,4-1,-
--,-,Arsenal,Huddersfield Town,0-1,-
--,-,Barnsley,Huddersfield Town,2-1,-
--,-,Birmingham City,Huddersfield Town,1-4,-
--,-,Blackpool,Huddersfield Town,0-1,-
--,-,Bradford Park Avenue,Huddersfield Town,2-1,-
--,-,Bristol City,Huddersfield Town,1-0,-
--,-,Bury,Huddersfield Town,2-1,-
--,-,Fulham,Huddersfield Town,1-0,-
--,-,Glossop North End,Huddersfield Town,2-3,-
--,-,Grimsby Town,Huddersfield Town,2-1,-
--,-,Hull City,Huddersfield Town,4-1,-
--,-,Leeds City,Huddersfield Town,5-1,-
--,-,Leicester City,Huddersfield Town,0-1,-
--,-,Leyton Orient,Huddersfield Town,0-0,-
--,-,Lincoln City,Huddersfield Town,3-0,-
--,-,Nottingham Forest,Huddersfield Town,1-1,-
--,-,Notts County,Huddersfield Town,3-0,-
--,-,Stockport County,Huddersfield Town,0-0,-
--,-,Wolverhampton Wanderers,Huddersfield Town,2-2,-
--,-,Arsenal,Hull City,0-0,-
--,-,Barnsley,Hull City,0-2,-
--,-,Birmingham City,Hull City,1-1,-
--,-,Blackpool,Hull City,2-2,-
--,-,Bradford Park Avenue,Hull City,2-0,-
--,-,Bristol City,Hull City,2-1,-
--,-,Bury,Hull City,2-0,-
--,-,Fulham,Hull City,0-1,-
--,-,Glossop North End,Hull City,2-1,-
--,-,Grimsby Town,Hull City,1-3,-
--,-,Huddersfield Town,Hull City,0-3,-
--,-,Leeds City,Hull City,1-2,-
--,-,Leicester City,Hull City,0-4,-
--,-,Leyton Orient,Hull City,3-0,-
--,-,Lincoln City,Hull City,0-0,-
--,-,Nottingham Forest,Hull City,1-2,-
--,-,Notts County,Hull City,4-1,-
--,-,Stockport County,Hull City,2-1,-
--,-,Wolverhampton Wanderers,Hull City,1-0,-
--,-,Arsenal,Leeds City,1-0,-
--,-,Barnsley,Leeds City,1-4,-
--,-,Birmingham City,Leeds City,0-2,-
--,-,Blackpool,Leeds City,2-2,-
--,-,Bradford Park Avenue,Leeds City,3-1,-
--,-,Bristol City,Leeds City,1-1,-
--,-,Bury,Leeds City,1-1,-
--,-,Fulham,Leeds City,0-1,-
--,-,Glossop North End,Leeds City,1-1,-
--,-,Grimsby Town,Leeds City,0-1,-
--,-,Huddersfield Town,Leeds City,1-1,-
--,-,Hull City,Leeds City,1-0,-
--,-,Leicester City,Leeds City,5-1,-
--,-,Leyton Orient,Leeds City,3-1,-
--,-,Lincoln City,Leeds City,1-0,-
--,-,Nottingham Forest,Leeds City,2-1,-
--,-,Notts County,Leeds City,4-0,-
--,-,Stockport County,Leeds City,2-1,-
--,-,Wolverhampton Wanderers,Leeds City,1-3,-
--,-,Arsenal,Leicester City,2-1,-
--,-,Barnsley,Leicester City,3-0,-
--,-,Birmingham City,Leicester City,1-0,-
--,-,Blackpool,Leicester City,1-0,-
--,-,Bradford Park Avenue,Leicester City,3-2,-
--,-,Bristol City,Leicester City,1-0,-
--,-,Bury,Leicester City,1-1,-
--,-,Fulham,Leicester City,1-2,-
--,-,Glossop North End,Leicester City,0-2,-
--,-,Grimsby Town,Leicester City,3-0,-
--,-,Huddersfield Town,Leicester City,1-2,-
--,-,Hull City,Leicester City,0-0,-
--,-,Leeds City,Leicester City,2-1,-
--,-,Leyton Orient,Leicester City,1-0,-
--,-,Lincoln City,Leicester City,3-0,-
--,-,Nottingham Forest,Leicester City,1-3,-
--,-,Notts County,Leicester City,4-1,-
--,-,Stockport County,Leicester City,3-0,-
--,-,Wolverhampton Wanderers,Leicester City,2-1,-
--,-,Arsenal,Leyton Orient,2-2,-
--,-,Barnsley,Leyton Orient,2-1,-
--,-,Birmingham City,Leyton Orient,2-0,-
--,-,Blackpool,Leyton Orient,0-0,-
--,-,Bradford Park Avenue,Leyton Orient,1-0,-
--,-,Bristol City,Leyton Orient,3-0,-
--,-,Bury,Leyton Orient,0-0,-
--,-,Fulham,Leyton Orient,2-0,-
--,-,Glossop North End,Leyton Orient,0-3,-
--,-,Grimsby Town,Leyton Orient,2-0,-
--,-,Huddersfield Town,Leyton Orient,1-0,-
--,-,Hull City,Leyton Orient,2-0,-
--,-,Leeds City,Leyton Orient,0-0,-
--,-,Leicester City,Leyton Orient,1-0,-
--,-,Lincoln City,Leyton Orient,0-0,-
--,-,Nottingham Forest,Leyton Orient,1-1,-
--,-,Notts County,Leyton Orient,3-0,-
--,-,Stockport County,Leyton Orient,0-1,-
--,-,Wolverhampton Wanderers,Leyton Orient,2-1,-
--,-,Arsenal,Lincoln City,3-0,-
--,-,Barnsley,Lincoln City,1-0,-
--,-,Birmingham City,Lincoln City,2-0,-
--,-,Blackpool,Lincoln City,2-1,-
--,-,Bradford Park Avenue,Lincoln City,3-0,-
--,-,Bristol City,Lincoln City,4-1,-
--,-,Bury,Lincoln City,1-0,-
--,-,Fulham,Lincoln City,4-0,-
--,-,Glossop North End,Lincoln City,4-0,-
--,-,Grimsby Town,Lincoln City,1-3,-
--,-,Huddersfield Town,Lincoln City,2-1,-
--,-,Hull City,Lincoln City,1-1,-
--,-,Leeds City,Lincoln City,1-0,-
--,-,Leicester City,Lincoln City,2-0,-
--,-,Leyton Orient,Lincoln City,5-1,-
--,-,Nottingham Forest,Lincoln City,2-1,-
--,-,Notts County,Lincoln City,2-1,-
--,-,Stockport County,Lincoln City,2-3,-
--,-,Wolverhampton Wanderers,Lincoln City,1-0,-
--,-,Arsenal,Nottingham Forest,3-2,-
--,-,Barnsley,Nottingham Forest,5-0,-
--,-,Birmingham City,Nottingham Forest,2-0,-
--,-,Blackpool,Nottingham Forest,2-1,-
--,-,Bradford Park Avenue,Nottingham Forest,4-0,-
--,-,Bristol City,Nottingham Forest,1-0,-
--,-,Bury,Nottingham Forest,1-0,-
--,-,Fulham,Nottingham Forest,2-0,-
--,-,Glossop North End,Nottingham Forest,3-0,-
--,-,Grimsby Town,Nottingham Forest,3-0,-
--,-,Huddersfield Town,Nottingham Forest,1-1,-
--,-,Hull City,Nottingham Forest,1-0,-
--,-,Leeds City,Nottingham Forest,8-0,-
--,-,Leicester City,Nottingham Forest,5-1,-
--,-,Leyton Orient,Nottingham Forest,3-1,-
--,-,Lincoln City,Nottingham Forest,1-0,-
--,-,Notts County,Nottingham Forest,2-2,-
--,-,Stockport County,Nottingham Forest,2-1,-
--,-,Wolverhampton Wanderers,Nottingham Forest,4-1,-
--,-,Arsenal,Notts County,3-0,-
--,-,Barnsley,Notts County,0-1,-
--,-,Birmingham City,Notts County,2-1,-
--,-,Blackpool,Notts County,0-0,-
--,-,Bradford Park Avenue,Notts County,0-3,-
--,-,Bristol City,Notts County,1-1,-
--,-,Bury,Notts County,3-3,-
--,-,Fulham,Notts County,1-2,-
--,-,Glossop North End,Notts County,0-1,-
--,-,Grimsby Town,Notts County,0-0,-
--,-,Huddersfield Town,Notts County,2-1,-
--,-,Hull City,Notts County,2-0,-
--,-,Leeds City,Notts County,2-4,-
--,-,Leicester City,Notts County,0-2,-
--,-,Leyton Orient,Notts County,1-0,-
--,-,Lincoln City,Notts County,0-0,-
--,-,Nottingham Forest,Notts County,1-0,-
--,-,Stockport County,Notts County,1-2,-
--,-,Wolverhampton Wanderers,Notts County,4-1,-
--,-,Arsenal,Stockport County,4-0,-
--,-,Barnsley,Stockport County,1-0,-
--,-,Birmingham City,Stockport County,3-2,-
--,-,Blackpool,Stockport County,2-2,-
--,-,Bradford Park Avenue,Stockport County,0-2,-
--,-,Bristol City,Stockport County,5-0,-
--,-,Bury,Stockport County,1-0,-
--,-,Fulham,Stockport County,2-0,-
--,-,Glossop North End,Stockport County,1-1,-
--,-,Grimsby Town,Stockport County,2-0,-
--,-,Huddersfield Town,Stockport County,0-2,-
--,-,Hull City,Stockport County,3-0,-
--,-,Leeds City,Stockport County,5-1,-
--,-,Leicester City,Stockport County,2-5,-
--,-,Leyton Orient,Stockport County,1-1,-
--,-,Lincoln City,Stockport County,0-3,-
--,-,Nottingham Forest,Stockport County,2-2,-
--,-,Notts County,Stockport County,2-1,-
--,-,Wolverhampton Wanderers,Stockport County,3-1,-
--,-,Arsenal,Wolverhampton Wanderers,3-1,-
--,-,Barnsley,Wolverhampton Wanderers,2-1,-
--,-,Birmingham City,Wolverhampton Wanderers,4-1,-
--,-,Blackpool,Wolverhampton Wanderers,2-0,-
--,-,Bradford Park Avenue,Wolverhampton Wanderers,1-0,-
--,-,Bristol City,Wolverhampton Wanderers,0-0,-
--,-,Bury,Wolverhampton Wanderers,1-4,-
--,-,Fulham,Wolverhampton Wanderers,1-0,-
--,-,Glossop North End,Wolverhampton Wanderers,1-2,-
--,-,Grimsby Town,Wolverhampton Wanderers,1-0,-
--,-,Huddersfield Town,Wolverhampton Wanderers,0-0,-
--,-,Hull City,Wolverhampton Wanderers,7-1,-
--,-,Leeds City,Wolverhampton Wanderers,5-0,-
--,-,Leicester City,Wolverhampton Wanderers,2-3,-
--,-,Leyton Orient,Wolverhampton Wanderers,2-2,-
--,-,Lincoln City,Wolverhampton Wanderers,1-0,-
--,-,Nottingham Forest,Wolverhampton Wanderers,1-3,-
--,-,Notts County,Wolverhampton Wanderers,2-0,-
--,-,Stockport County,Wolverhampton Wanderers,0-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 24 Jan 1914 (3),Arsenal FC (1),1-0,?,Barnsley FC (1)
+?,(Sat) 22 Nov 1913 (46),Arsenal FC (2),1-0,?,Birmingham City (1)
+?,(Sat) 28 Feb 1914 (8),Arsenal FC (3),2-1,?,Blackpool FC (1)
+?,(Fri) 26 Dec 1913 (51),Arsenal FC (4),2-0,?,Bradford Park Avenue (1)
+?,(Sat) 4 Apr 1914 (13),Arsenal FC (5),1-1,?,Bristol City FC (1)
+?,(Sat) 4 Oct 1913 (39),Arsenal FC (6),0-1,?,Bury FC (1)
+?,(Sat) 14 Mar 1914 (10),Arsenal FC (7),2-0,?,Fulham FC (1)
+?,(Sat) 20 Dec 1913 (50),Arsenal FC (8),2-0,?,Glossop North End (1)
+?,(Thu) 23 Apr 1914 (16),Arsenal FC (9),2-0,?,Grimsby Town (1)
+?,(Sat) 14 Feb 1914 (6),Arsenal FC (10),0-1,?,Huddersfield Town (1)
+?,(Sat) 20 Sep 1913 (37),Arsenal FC (11),0-0,?,Hull City (1)
+?,(Sat) 6 Dec 1913 (48),Arsenal FC (12),1-0,?,Leeds City (1)
+?,(Sat) 6 Sep 1913 (35),Arsenal FC (13),2-1,?,Leicester City (1)
+?,(Sat) 18 Apr 1914 (15),Arsenal FC (14),2-2,?,Leyton Orient FC (1)
+?,(Sat) 18 Oct 1913 (41),Arsenal FC (15),3-0,?,Lincoln City (1)
+?,(Sat) 1 Nov 1913 (43),Arsenal FC (16),3-2,?,Nottingham Forest (1)
+?,(Mon) 15 Sep 1913 (37),Arsenal FC (17),3-0,?,Notts County FC (1)
+?,(Mon) 13 Apr 1914 (15),Arsenal FC (18),4-0,?,Stockport County (1)
+?,(Sat) 3 Jan 1914 (0),Arsenal FC (19),3-1,?,Wolverhampton Wanderers (1)
+?,(Sat) 27 Sep 1913 (38),Barnsley FC (2),1-0,?,Arsenal FC (20)
+?,(Sat) 11 Oct 1913 (40),Barnsley FC (3),1-1,?,Birmingham City (2)
+?,(Sat) 13 Sep 1913 (36),Barnsley FC (4),2-1,?,Blackpool FC (2)
+?,(Sat) 22 Nov 1913 (46),Barnsley FC (5),1-2,?,Bradford Park Avenue (2)
+?,(Sat) 21 Feb 1914 (7),Barnsley FC (6),3-0,?,Bristol City FC (2)
+?,(Fri) 26 Dec 1913 (51),Barnsley FC (7),2-0,?,Bury FC (2)
+?,(Mon) 13 Apr 1914 (15),Barnsley FC (8),1-0,?,Fulham FC (2)
+?,(Sat) 8 Nov 1913 (44),Barnsley FC (9),2-0,?,Glossop North End (2)
+?,(Sat) 7 Feb 1914 (5),Barnsley FC (10),3-1,?,Grimsby Town (2)
+?,(Thu) 1 Jan 1914 (0),Barnsley FC (11),2-1,?,Huddersfield Town (2)
+?,(Sat) 20 Dec 1913 (50),Barnsley FC (12),0-2,?,Hull City (2)
+?,(Sat) 25 Oct 1913 (42),Barnsley FC (13),1-4,?,Leeds City (2)
+?,(Sat) 6 Dec 1913 (48),Barnsley FC (14),3-0,?,Leicester City (2)
+?,(Sat) 7 Mar 1914 (9),Barnsley FC (15),2-1,?,Leyton Orient FC (2)
+?,(Sat) 27 Dec 1913 (51),Barnsley FC (16),1-0,?,Lincoln City (2)
+?,(Sat) 17 Jan 1914 (2),Barnsley FC (17),5-0,?,Nottingham Forest (2)
+?,(Sat) 4 Apr 1914 (13),Barnsley FC (18),0-1,?,Notts County FC (2)
+?,(Sat) 21 Mar 1914 (11),Barnsley FC (19),1-0,?,Stockport County (2)
+?,(Sat) 18 Apr 1914 (15),Barnsley FC (20),2-1,?,Wolverhampton Wanderers (2)
+?,(Sat) 28 Mar 1914 (12),Birmingham City (3),2-0,?,Arsenal FC (21)
+?,(Sat) 14 Feb 1914 (6),Birmingham City (4),0-0,?,Barnsley FC (21)
+?,(Sat) 14 Mar 1914 (10),Birmingham City (5),0-0,?,Blackpool FC (3)
+?,(Sat) 6 Sep 1913 (35),Birmingham City (6),1-2,?,Bradford Park Avenue (3)
+?,(Sat) 18 Apr 1914 (15),Birmingham City (7),2-2,?,Bristol City FC (3)
+?,(Sat) 18 Oct 1913 (41),Birmingham City (8),1-0,?,Bury FC (3)
+?,(Sat) 11 Apr 1914 (14),Birmingham City (9),0-1,?,Fulham FC (3)
+?,(Thu) 25 Dec 1913 (51),Birmingham City (10),6-0,?,Glossop North End (3)
+?,(Sat) 29 Nov 1913 (47),Birmingham City (11),1-2,?,Grimsby Town (3)
+?,(Sat) 28 Feb 1914 (8),Birmingham City (12),1-4,?,Huddersfield Town (3)
+?,(Sat) 4 Oct 1913 (39),Birmingham City (13),1-1,?,Hull City (3)
+?,(Sat) 20 Dec 1913 (50),Birmingham City (14),0-2,?,Leeds City (3)
+?,(Sat) 20 Sep 1913 (37),Birmingham City (15),1-0,?,Leicester City (3)
+?,(Fri) 10 Apr 1914 (14),Birmingham City (16),2-0,?,Leyton Orient FC (3)
+?,(Sat) 1 Nov 1913 (43),Birmingham City (17),2-0,?,Lincoln City (3)
+?,(Sat) 15 Nov 1913 (45),Birmingham City (18),2-0,?,Nottingham Forest (3)
+?,(Sat) 3 Jan 1914 (0),Birmingham City (19),2-1,?,Notts County FC (3)
+?,(Wed) 3 Sep 1913 (35),Birmingham City (20),3-2,?,Stockport County (3)
+?,(Sat) 24 Jan 1914 (3),Birmingham City (21),4-1,?,Wolverhampton Wanderers (3)
+?,(Sat) 25 Oct 1913 (42),Blackpool FC (4),1-1,?,Arsenal FC (22)
+?,(Sat) 3 Jan 1914 (0),Blackpool FC (5),3-1,?,Barnsley FC (22)
+?,(Sat) 8 Nov 1913 (44),Blackpool FC (6),2-2,?,Birmingham City (22)
+?,(Sat) 20 Dec 1913 (50),Blackpool FC (7),2-1,?,Bradford Park Avenue (4)
+?,(Sat) 21 Mar 1914 (11),Blackpool FC (8),0-1,?,Bristol City FC (4)
+?,(Sat) 20 Sep 1913 (37),Blackpool FC (9),0-1,?,Bury FC (4)
+?,(Sat) 14 Feb 1914 (6),Blackpool FC (10),1-1,?,Fulham FC (4)
+?,(Sat) 11 Apr 1914 (14),Blackpool FC (11),1-1,?,Glossop North End (4)
+?,(Sat) 7 Mar 1914 (9),Blackpool FC (12),1-1,?,Grimsby Town (4)
+?,(Sat) 24 Jan 1914 (3),Blackpool FC (13),0-1,?,Huddersfield Town (4)
+?,(Sat) 6 Sep 1913 (35),Blackpool FC (14),2-2,?,Hull City (4)
+?,(Sat) 22 Nov 1913 (46),Blackpool FC (15),2-2,?,Leeds City (4)
+?,(Fri) 10 Apr 1914 (14),Blackpool FC (16),1-0,?,Leicester City (4)
+?,(Sat) 4 Apr 1914 (13),Blackpool FC (17),0-0,?,Leyton Orient FC (4)
+?,(Sat) 4 Oct 1913 (39),Blackpool FC (18),2-1,?,Lincoln City (4)
+?,(Sat) 21 Feb 1914 (7),Blackpool FC (19),2-1,?,Nottingham Forest (4)
+?,(Mon) 13 Apr 1914 (15),Blackpool FC (20),0-0,?,Notts County FC (4)
+?,(Sat) 18 Apr 1914 (15),Blackpool FC (21),2-2,?,Stockport County (4)
+?,(Thu) 1 Jan 1914 (0),Blackpool FC (22),2-0,?,Wolverhampton Wanderers (4)
+?,(Thu) 25 Dec 1913 (51),Bradford Park Avenue (5),2-3,?,Arsenal FC (23)
+?,(Sat) 28 Mar 1914 (12),Bradford Park Avenue (6),1-1,?,Barnsley FC (23)
+?,(Sat) 27 Dec 1913 (51),Bradford Park Avenue (7),5-1,?,Birmingham City (23)
+?,(Sat) 25 Apr 1914 (16),Bradford Park Avenue (8),4-1,?,Blackpool FC (23)
+?,(Sat) 13 Sep 1913 (36),Bradford Park Avenue (9),4-3,?,Bristol City FC (5)
+?,(Sat) 29 Nov 1913 (47),Bradford Park Avenue (10),3-1,?,Bury FC (5)
+?,(Sat) 18 Oct 1913 (41),Bradford Park Avenue (11),1-0,?,Fulham FC (5)
+?,(Sat) 7 Feb 1914 (5),Bradford Park Avenue (12),2-1,?,Glossop North End (5)
+?,(Wed) 10 Sep 1913 (36),Bradford Park Avenue (13),3-0,?,Grimsby Town (5)
+?,(Sat) 11 Apr 1914 (14),Bradford Park Avenue (14),2-1,?,Huddersfield Town (5)
+?,(Sat) 15 Nov 1913 (45),Bradford Park Avenue (15),2-0,?,Hull City (5)
+?,(Sat) 17 Jan 1914 (2),Bradford Park Avenue (16),3-1,?,Leeds City (5)
+?,(Sat) 1 Nov 1913 (43),Bradford Park Avenue (17),3-2,?,Leicester City (5)
+?,(Sat) 27 Sep 1913 (38),Bradford Park Avenue (18),1-0,?,Leyton Orient FC (5)
+?,(Sat) 13 Dec 1913 (49),Bradford Park Avenue (19),3-0,?,Lincoln City (5)
+?,(Fri) 10 Apr 1914 (14),Bradford Park Avenue (20),4-0,?,Nottingham Forest (5)
+?,(Sat) 28 Feb 1914 (8),Bradford Park Avenue (21),0-3,?,Notts County FC (5)
+?,(Sat) 11 Oct 1913 (40),Bradford Park Avenue (22),0-2,?,Stockport County (5)
+?,(Sat) 14 Mar 1914 (10),Bradford Park Avenue (23),1-0,?,Wolverhampton Wanderers (5)
+?,(Sat) 29 Nov 1913 (47),Bristol City FC (6),1-1,?,Arsenal FC (24)
+?,(Sat) 18 Oct 1913 (41),Bristol City FC (7),1-1,?,Barnsley FC (24)
+?,(Sat) 13 Dec 1913 (49),Bristol City FC (8),1-2,?,Birmingham City (24)
+?,(Sat) 15 Nov 1913 (45),Bristol City FC (9),1-0,?,Blackpool FC (24)
+?,(Sat) 3 Jan 1914 (0),Bristol City FC (10),2-0,?,Bradford Park Avenue (24)
+?,(Sat) 28 Feb 1914 (8),Bristol City FC (11),2-0,?,Bury FC (6)
+?,(Sat) 25 Apr 1914 (16),Bristol City FC (12),0-1,?,Fulham FC (6)
+?,(Wed) 3 Sep 1913 (35),Bristol City FC (13),4-1,?,Glossop North End (6)
+?,(Sat) 11 Apr 1914 (14),Bristol City FC (14),1-0,?,Grimsby Town (6)
+?,(Sat) 1 Nov 1913 (43),Bristol City FC (15),1-0,?,Huddersfield Town (6)
+?,(Sat) 14 Feb 1914 (6),Bristol City FC (16),2-1,?,Hull City (6)
+?,(Fri) 10 Apr 1914 (14),Bristol City FC (17),1-1,?,Leeds City (6)
+?,(Sat) 24 Jan 1914 (3),Bristol City FC (18),1-0,?,Leicester City (6)
+?,(Fri) 26 Dec 1913 (51),Bristol City FC (19),3-0,?,Leyton Orient FC (6)
+?,(Sat) 14 Mar 1914 (10),Bristol City FC (20),4-1,?,Lincoln City (6)
+?,(Sat) 28 Mar 1914 (12),Bristol City FC (21),1-0,?,Nottingham Forest (6)
+?,(Sat) 20 Sep 1913 (37),Bristol City FC (22),1-1,?,Notts County FC (6)
+?,(Sat) 6 Sep 1913 (35),Bristol City FC (23),5-0,?,Stockport County (6)
+?,(Sat) 4 Oct 1913 (39),Bristol City FC (24),0-0,?,Wolverhampton Wanderers (6)
+?,(Sat) 7 Feb 1914 (5),Bury FC (7),1-1,?,Arsenal FC (25)
+?,(Thu) 25 Dec 1913 (51),Bury FC (8),4-0,?,Barnsley FC (25)
+?,(Tue) 24 Feb 1914 (8),Bury FC (9),3-1,?,Birmingham City (25)
+?,(Sat) 17 Jan 1914 (2),Bury FC (10),1-0,?,Blackpool FC (25)
+?,(Sat) 4 Apr 1914 (13),Bury FC (11),0-0,?,Bradford Park Avenue (25)
+?,(Sat) 25 Oct 1913 (42),Bury FC (12),3-1,?,Bristol City FC (25)
+?,(Thu) 1 Jan 1914 (0),Bury FC (13),1-0,?,Fulham FC (7)
+?,(Sat) 21 Mar 1914 (11),Bury FC (14),1-0,?,Glossop North End (7)
+?,(Sat) 11 Oct 1913 (40),Bury FC (15),3-1,?,Grimsby Town (7)
+?,(Sat) 27 Dec 1913 (51),Bury FC (16),2-1,?,Huddersfield Town (7)
+?,(Fri) 10 Apr 1914 (14),Bury FC (17),2-0,?,Hull City (7)
+?,(Sat) 7 Mar 1914 (9),Bury FC (18),1-1,?,Leeds City (7)
+?,(Sat) 18 Apr 1914 (15),Bury FC (19),1-1,?,Leicester City (7)
+?,(Sat) 8 Nov 1913 (44),Bury FC (20),0-0,?,Leyton Orient FC (7)
+?,(Sat) 13 Sep 1913 (36),Bury FC (21),1-0,?,Lincoln City (7)
+?,(Sat) 27 Sep 1913 (38),Bury FC (22),1-0,?,Nottingham Forest (7)
+?,(Sat) 6 Dec 1913 (48),Bury FC (23),3-3,?,Notts County FC (7)
+?,(Mon) 24 Nov 1913 (47),Bury FC (24),1-0,?,Stockport County (7)
+?,(Sat) 20 Dec 1913 (50),Bury FC (25),1-4,?,Wolverhampton Wanderers (7)
+?,(Sat) 8 Nov 1913 (44),Fulham FC (8),6-1,?,Arsenal FC (26)
+?,(Fri) 10 Apr 1914 (14),Fulham FC (9),1-2,?,Barnsley FC (26)
+?,(Sat) 6 Dec 1913 (48),Fulham FC (10),1-0,?,Birmingham City (26)
+?,(Sat) 11 Oct 1913 (40),Fulham FC (11),0-0,?,Blackpool FC (26)
+?,(Sat) 21 Feb 1914 (7),Fulham FC (12),1-6,?,Bradford Park Avenue (26)
+?,(Sat) 20 Dec 1913 (50),Fulham FC (13),3-1,?,Bristol City FC (26)
+?,(Mon) 1 Sep 1913 (35),Fulham FC (14),1-1,?,Bury FC (26)
+?,(Sat) 17 Jan 1914 (2),Fulham FC (15),2-1,?,Glossop North End (8)
+?,(Sat) 22 Nov 1913 (46),Fulham FC (16),2-2,?,Grimsby Town (8)
+?,(Sat) 13 Sep 1913 (36),Fulham FC (17),1-0,?,Huddersfield Town (8)
+?,(Sat) 18 Apr 1914 (15),Fulham FC (18),0-1,?,Hull City (8)
+?,(Fri) 26 Dec 1913 (51),Fulham FC (19),0-1,?,Leeds City (8)
+?,(Sat) 21 Mar 1914 (11),Fulham FC (20),1-2,?,Leicester City (8)
+?,(Sat) 27 Dec 1913 (51),Fulham FC (21),2-0,?,Leyton Orient FC (8)
+?,(Sat) 27 Sep 1913 (38),Fulham FC (22),4-0,?,Lincoln City (8)
+?,(Sat) 25 Oct 1913 (42),Fulham FC (23),2-0,?,Nottingham Forest (8)
+?,(Sat) 7 Mar 1914 (9),Fulham FC (24),1-2,?,Notts County FC (8)
+?,(Sat) 7 Feb 1914 (5),Fulham FC (25),2-0,?,Stockport County (8)
+?,(Sat) 4 Apr 1914 (13),Fulham FC (26),1-0,?,Wolverhampton Wanderers (8)
+?,(Sat) 25 Apr 1914 (16),Glossop North End (9),0-2,?,Arsenal FC (27)
+?,(Sat) 14 Mar 1914 (10),Glossop North End (10),5-1,?,Barnsley FC (27)
+?,(Fri) 26 Dec 1913 (51),Glossop North End (11),4-1,?,Birmingham City (27)
+?,(Sat) 6 Dec 1913 (48),Glossop North End (12),1-2,?,Blackpool FC (27)
+?,(Sat) 4 Oct 1913 (39),Glossop North End (13),2-1,?,Bradford Park Avenue (27)
+?,(Tue) 10 Mar 1914 (10),Glossop North End (14),1-1,?,Bristol City FC (27)
+?,(Sat) 15 Nov 1913 (45),Glossop North End (15),2-1,?,Bury FC (27)
+?,(Sat) 20 Sep 1913 (37),Glossop North End (16),0-1,?,Fulham FC (27)
+?,(Fri) 10 Apr 1914 (14),Glossop North End (17),3-0,?,Grimsby Town (9)
+?,(Sat) 28 Mar 1914 (12),Glossop North End (18),2-3,?,Huddersfield Town (9)
+?,(Sat) 1 Nov 1913 (43),Glossop North End (19),2-1,?,Hull City (9)
+?,(Sat) 27 Dec 1913 (51),Glossop North End (20),1-1,?,Leeds City (9)
+?,(Sat) 18 Oct 1913 (41),Glossop North End (21),0-2,?,Leicester City (9)
+?,(Sat) 13 Sep 1913 (36),Glossop North End (22),0-3,?,Leyton Orient FC (9)
+?,(Tue) 10 Feb 1914 (6),Glossop North End (23),4-0,?,Lincoln City (9)
+?,(Tue) 16 Dec 1913 (50),Glossop North End (24),3-0,?,Nottingham Forest (9)
+?,(Sat) 14 Feb 1914 (6),Glossop North End (25),0-1,?,Notts County FC (9)
+?,(Sat) 24 Jan 1914 (3),Glossop North End (26),1-1,?,Stockport County (9)
+?,(Sat) 28 Feb 1914 (8),Glossop North End (27),1-2,?,Wolverhampton Wanderers (9)
+?,(Sat) 15 Nov 1913 (45),Grimsby Town (10),1-1,?,Arsenal FC (28)
+?,(Sat) 4 Oct 1913 (39),Grimsby Town (11),1-1,?,Barnsley FC (28)
+?,(Sat) 4 Apr 1914 (13),Grimsby Town (12),0-2,?,Birmingham City (28)
+?,(Sat) 1 Nov 1913 (43),Grimsby Town (13),2-0,?,Blackpool FC (28)
+?,(Tue) 24 Feb 1914 (8),Grimsby Town (14),0-0,?,Bradford Park Avenue (28)
+?,(Sat) 6 Dec 1913 (48),Grimsby Town (15),1-0,?,Bristol City FC (28)
+?,(Sat) 14 Feb 1914 (6),Grimsby Town (16),1-0,?,Bury FC (28)
+?,(Sat) 28 Mar 1914 (12),Grimsby Town (17),0-3,?,Fulham FC (28)
+?,(Mon) 13 Apr 1914 (15),Grimsby Town (18),3-0,?,Glossop North End (28)
+?,(Sat) 18 Oct 1913 (41),Grimsby Town (19),2-1,?,Huddersfield Town (10)
+?,(Sat) 24 Jan 1914 (3),Grimsby Town (20),1-3,?,Hull City (10)
+?,(Sat) 18 Apr 1914 (15),Grimsby Town (21),0-1,?,Leeds City (10)
+?,(Sat) 3 Jan 1914 (0),Grimsby Town (22),3-0,?,Leicester City (10)
+?,(Sat) 20 Dec 1913 (50),Grimsby Town (23),2-0,?,Leyton Orient FC (10)
+?,(Sat) 28 Feb 1914 (8),Grimsby Town (24),1-3,?,Lincoln City (10)
+?,(Sat) 14 Mar 1914 (10),Grimsby Town (25),3-0,?,Nottingham Forest (10)
+?,(Sat) 6 Sep 1913 (35),Grimsby Town (26),0-0,?,Notts County FC (10)
+?,(Thu) 25 Dec 1913 (51),Grimsby Town (27),2-0,?,Stockport County (10)
+?,(Sat) 20 Sep 1913 (37),Grimsby Town (28),1-0,?,Wolverhampton Wanderers (10)
+?,(Sat) 11 Oct 1913 (40),Huddersfield Town (11),1-2,?,Arsenal FC (29)
+?,(Tue) 14 Apr 1914 (15),Huddersfield Town (12),3-1,?,Barnsley FC (29)
+?,(Sat) 25 Oct 1913 (42),Huddersfield Town (13),7-0,?,Birmingham City (29)
+?,(Sat) 27 Sep 1913 (38),Huddersfield Town (14),1-0,?,Blackpool FC (29)
+?,(Sat) 6 Dec 1913 (48),Huddersfield Town (15),0-1,?,Bradford Park Avenue (29)
+?,(Sat) 7 Mar 1914 (9),Huddersfield Town (16),1-2,?,Bristol City FC (29)
+?,(Sat) 6 Sep 1913 (35),Huddersfield Town (17),1-1,?,Bury FC (29)
+?,(Sat) 3 Jan 1914 (0),Huddersfield Town (18),3-1,?,Fulham FC (29)
+?,(Sat) 22 Nov 1913 (46),Huddersfield Town (19),2-1,?,Glossop North End (29)
+?,(Sat) 21 Feb 1914 (7),Huddersfield Town (20),1-2,?,Grimsby Town (29)
+?,(Thu) 25 Dec 1913 (51),Huddersfield Town (21),0-3,?,Hull City (11)
+?,(Sat) 8 Nov 1913 (44),Huddersfield Town (22),1-1,?,Leeds City (11)
+?,(Sat) 20 Dec 1913 (50),Huddersfield Town (23),1-2,?,Leicester City (11)
+?,(Sat) 21 Mar 1914 (11),Huddersfield Town (24),1-0,?,Leyton Orient FC (11)
+?,(Sat) 17 Jan 1914 (2),Huddersfield Town (25),2-1,?,Lincoln City (11)
+?,(Sat) 7 Feb 1914 (5),Huddersfield Town (26),1-1,?,Nottingham Forest (11)
+?,(Sat) 18 Apr 1914 (15),Huddersfield Town (27),2-1,?,Notts County FC (11)
+?,(Sat) 4 Apr 1914 (13),Huddersfield Town (28),0-2,?,Stockport County (11)
+?,(Tue) 9 Sep 1913 (36),Huddersfield Town (29),0-0,?,Wolverhampton Wanderers (11)
+?,(Sat) 17 Jan 1914 (2),Hull City (12),1-2,?,Arsenal FC (30)
+?,(Sat) 25 Apr 1914 (16),Hull City (13),0-1,?,Barnsley FC (30)
+?,(Sat) 7 Feb 1914 (5),Hull City (14),0-0,?,Birmingham City (30)
+?,(Sat) 27 Dec 1913 (51),Hull City (15),0-0,?,Blackpool FC (30)
+?,(Sat) 21 Mar 1914 (11),Hull City (16),1-3,?,Bradford Park Avenue (30)
+?,(Sat) 11 Oct 1913 (40),Hull City (17),0-1,?,Bristol City FC (30)
+?,(Mon) 13 Apr 1914 (15),Hull City (18),0-1,?,Bury FC (30)
+?,(Sat) 13 Dec 1913 (49),Hull City (19),1-1,?,Fulham FC (30)
+?,(Sat) 7 Mar 1914 (9),Hull City (20),3-0,?,Glossop North End (30)
+?,(Sat) 27 Sep 1913 (38),Hull City (21),2-1,?,Grimsby Town (30)
+?,(Fri) 26 Dec 1913 (51),Hull City (22),4-1,?,Huddersfield Town (30)
+?,(Sat) 21 Feb 1914 (7),Hull City (23),1-0,?,Leeds City (12)
+?,(Sat) 4 Apr 1914 (13),Hull City (24),0-0,?,Leicester City (12)
+?,(Sat) 25 Oct 1913 (42),Hull City (25),2-0,?,Leyton Orient FC (12)
+?,(Mon) 13 Oct 1913 (41),Hull City (26),1-1,?,Lincoln City (12)
+?,(Sat) 13 Sep 1913 (36),Hull City (27),1-0,?,Nottingham Forest (12)
+?,(Sat) 22 Nov 1913 (46),Hull City (28),2-0,?,Notts County FC (12)
+?,(Sat) 8 Nov 1913 (44),Hull City (29),3-0,?,Stockport County (12)
+?,(Sat) 6 Dec 1913 (48),Hull City (30),7-1,?,Wolverhampton Wanderers (12)
+?,(Sat) 11 Apr 1914 (14),Leeds City (13),0-0,?,Arsenal FC (31)
+?,(Sat) 28 Feb 1914 (8),Leeds City (14),3-0,?,Barnsley FC (31)
+?,(Sat) 25 Apr 1914 (16),Leeds City (15),3-2,?,Birmingham City (31)
+?,(Sat) 28 Mar 1914 (12),Leeds City (16),2-1,?,Blackpool FC (31)
+?,(Sat) 20 Sep 1913 (37),Leeds City (17),5-1,?,Bradford Park Avenue (31)
+?,(Mon) 13 Apr 1914 (15),Leeds City (18),1-0,?,Bristol City FC (31)
+?,(Sat) 1 Nov 1913 (43),Leeds City (19),2-1,?,Bury FC (31)
+?,(Thu) 25 Dec 1913 (51),Leeds City (20),2-1,?,Fulham FC (31)
+?,(Sat) 6 Sep 1913 (35),Leeds City (21),3-0,?,Glossop North End (31)
+?,(Sat) 13 Dec 1913 (49),Leeds City (22),4-1,?,Grimsby Town (31)
+?,(Sat) 14 Mar 1914 (10),Leeds City (23),5-1,?,Huddersfield Town (31)
+?,(Sat) 18 Oct 1913 (41),Leeds City (24),1-2,?,Hull City (31)
+?,(Sat) 4 Oct 1913 (39),Leeds City (25),2-1,?,Leicester City (13)
+?,(Tue) 14 Apr 1914 (15),Leeds City (26),0-0,?,Leyton Orient FC (13)
+?,(Sat) 15 Nov 1913 (45),Leeds City (27),1-0,?,Lincoln City (13)
+?,(Sat) 29 Nov 1913 (47),Leeds City (28),8-0,?,Nottingham Forest (13)
+?,(Sat) 24 Jan 1914 (3),Leeds City (29),2-4,?,Notts County FC (13)
+?,(Sat) 3 Jan 1914 (0),Leeds City (30),5-1,?,Stockport County (13)
+?,(Sat) 14 Feb 1914 (6),Leeds City (31),5-0,?,Wolverhampton Wanderers (13)
+?,(Sat) 27 Dec 1913 (51),Leicester City (14),1-2,?,Arsenal FC (32)
+?,(Sat) 11 Apr 1914 (14),Leicester City (15),0-2,?,Barnsley FC (32)
+?,(Sat) 17 Jan 1914 (2),Leicester City (16),0-0,?,Birmingham City (32)
+?,(Thu) 25 Dec 1913 (51),Leicester City (17),0-1,?,Blackpool FC (32)
+?,(Sat) 7 Mar 1914 (9),Leicester City (18),2-3,?,Bradford Park Avenue (32)
+?,(Sat) 27 Sep 1913 (38),Leicester City (19),3-0,?,Bristol City FC (32)
+?,(Sat) 13 Dec 1913 (49),Leicester City (20),0-0,?,Bury FC (32)
+?,(Sat) 15 Nov 1913 (45),Leicester City (21),3-0,?,Fulham FC (32)
+?,(Sat) 21 Feb 1914 (7),Leicester City (22),1-3,?,Glossop North End (32)
+?,(Sat) 13 Sep 1913 (36),Leicester City (23),2-0,?,Grimsby Town (32)
+?,(Sat) 25 Apr 1914 (16),Leicester City (24),0-1,?,Huddersfield Town (32)
+?,(Sat) 29 Nov 1913 (47),Leicester City (25),0-4,?,Hull City (32)
+?,(Sat) 7 Feb 1914 (5),Leicester City (26),5-1,?,Leeds City (32)
+?,(Sat) 11 Oct 1913 (40),Leicester City (27),1-0,?,Leyton Orient FC (14)
+?,(Mon) 13 Apr 1914 (15),Leicester City (28),2-0,?,Lincoln City (14)
+?,(Thu) 11 Sep 1913 (36),Leicester City (29),5-1,?,Nottingham Forest (14)
+?,(Sat) 8 Nov 1913 (44),Leicester City (30),0-2,?,Notts County FC (14)
+?,(Sat) 25 Oct 1913 (42),Leicester City (31),2-5,?,Stockport County (14)
+?,(Sat) 28 Mar 1914 (12),Leicester City (32),2-3,?,Wolverhampton Wanderers (14)
+?,(Sat) 13 Dec 1913 (49),Leyton Orient FC (15),1-0,?,Arsenal FC (33)
+?,(Sat) 1 Nov 1913 (43),Leyton Orient FC (16),1-0,?,Barnsley FC (33)
+?,(Mon) 13 Apr 1914 (15),Leyton Orient FC (17),2-2,?,Birmingham City (33)
+?,(Sat) 29 Nov 1913 (47),Leyton Orient FC (18),2-0,?,Blackpool FC (33)
+?,(Sat) 24 Jan 1914 (3),Leyton Orient FC (19),1-0,?,Bradford Park Avenue (33)
+?,(Thu) 25 Dec 1913 (51),Leyton Orient FC (20),5-2,?,Bristol City FC (33)
+?,(Sat) 14 Mar 1914 (10),Leyton Orient FC (21),1-0,?,Bury FC (33)
+?,(Sat) 6 Sep 1913 (35),Leyton Orient FC (22),1-0,?,Fulham FC (33)
+?,(Sat) 3 Jan 1914 (0),Leyton Orient FC (23),5-1,?,Glossop North End (33)
+?,(Sat) 25 Apr 1914 (16),Leyton Orient FC (24),0-0,?,Grimsby Town (33)
+?,(Sat) 15 Nov 1913 (45),Leyton Orient FC (25),0-0,?,Huddersfield Town (33)
+?,(Sat) 28 Feb 1914 (8),Leyton Orient FC (26),3-0,?,Hull City (33)
+?,(Mon) 2 Mar 1914 (9),Leyton Orient FC (27),3-1,?,Leeds City (33)
+?,(Sat) 14 Feb 1914 (6),Leyton Orient FC (28),1-0,?,Leicester City (33)
+?,(Sat) 28 Mar 1914 (12),Leyton Orient FC (29),5-1,?,Lincoln City (15)
+?,(Sat) 11 Apr 1914 (14),Leyton Orient FC (30),3-1,?,Nottingham Forest (15)
+?,(Sat) 4 Oct 1913 (39),Leyton Orient FC (31),1-0,?,Notts County FC (15)
+?,(Sat) 20 Sep 1913 (37),Leyton Orient FC (32),1-1,?,Stockport County (15)
+?,(Sat) 18 Oct 1913 (41),Leyton Orient FC (33),2-2,?,Wolverhampton Wanderers (15)
+?,(Sat) 21 Feb 1914 (7),Lincoln City (16),5-2,?,Arsenal FC (34)
+?,(Sat) 6 Sep 1913 (35),Lincoln City (17),2-2,?,Barnsley FC (34)
+?,(Sat) 7 Mar 1914 (9),Lincoln City (18),1-1,?,Birmingham City (34)
+?,(Sat) 7 Feb 1914 (5),Lincoln City (19),1-2,?,Blackpool FC (34)
+?,(Sat) 18 Apr 1914 (15),Lincoln City (20),0-3,?,Bradford Park Avenue (34)
+?,(Sat) 8 Nov 1913 (44),Lincoln City (21),2-1,?,Bristol City FC (34)
+?,(Sat) 3 Jan 1914 (0),Lincoln City (22),1-0,?,Bury FC (34)
+?,(Sat) 24 Jan 1914 (3),Lincoln City (23),0-1,?,Fulham FC (34)
+?,(Sat) 4 Apr 1914 (13),Lincoln City (24),1-5,?,Glossop North End (34)
+?,(Sat) 25 Oct 1913 (42),Lincoln City (25),1-3,?,Grimsby Town (34)
+?,(Sat) 20 Sep 1913 (37),Lincoln City (26),3-0,?,Huddersfield Town (34)
+?,(Wed) 11 Mar 1914 (10),Lincoln City (27),0-0,?,Hull City (34)
+?,(Sat) 21 Mar 1914 (11),Lincoln City (28),1-0,?,Leeds City (34)
+?,(Fri) 26 Dec 1913 (51),Lincoln City (29),3-0,?,Leicester City (34)
+?,(Sat) 22 Nov 1913 (46),Lincoln City (30),0-0,?,Leyton Orient FC (34)
+?,(Sat) 11 Oct 1913 (40),Lincoln City (31),1-0,?,Nottingham Forest (16)
+?,(Sat) 20 Dec 1913 (50),Lincoln City (32),0-0,?,Notts County FC (16)
+?,(Sat) 6 Dec 1913 (48),Lincoln City (33),0-3,?,Stockport County (16)
+?,(Fri) 10 Apr 1914 (14),Lincoln City (34),1-0,?,Wolverhampton Wanderers (16)
+?,(Sat) 7 Mar 1914 (9),Nottingham Forest (17),0-0,?,Arsenal FC (35)
+?,(Sat) 20 Sep 1913 (37),Nottingham Forest (18),0-2,?,Barnsley FC (35)
+?,(Sat) 21 Mar 1914 (11),Nottingham Forest (19),3-1,?,Birmingham City (35)
+?,(Sat) 18 Oct 1913 (41),Nottingham Forest (20),3-0,?,Blackpool FC (35)
+?,(Mon) 13 Apr 1914 (15),Nottingham Forest (21),1-0,?,Bradford Park Avenue (35)
+?,(Sat) 22 Nov 1913 (46),Nottingham Forest (22),1-1,?,Bristol City FC (35)
+?,(Sat) 24 Jan 1914 (3),Nottingham Forest (23),1-1,?,Bury FC (35)
+?,(Sat) 28 Feb 1914 (8),Nottingham Forest (24),1-1,?,Fulham FC (35)
+?,(Sat) 18 Apr 1914 (15),Nottingham Forest (25),1-2,?,Glossop North End (35)
+?,(Sat) 8 Nov 1913 (44),Nottingham Forest (26),4-1,?,Grimsby Town (35)
+?,(Sat) 4 Oct 1913 (39),Nottingham Forest (27),1-1,?,Huddersfield Town (35)
+?,(Sat) 3 Jan 1914 (0),Nottingham Forest (28),1-2,?,Hull City (35)
+?,(Sat) 4 Apr 1914 (13),Nottingham Forest (29),2-1,?,Leeds City (35)
+?,(Wed) 3 Sep 1913 (35),Nottingham Forest (30),1-3,?,Leicester City (35)
+?,(Sat) 6 Dec 1913 (48),Nottingham Forest (31),1-1,?,Leyton Orient FC (35)
+?,(Sat) 14 Feb 1914 (6),Nottingham Forest (32),2-1,?,Lincoln City (35)
+?,(Fri) 26 Dec 1913 (51),Nottingham Forest (33),1-0,?,Notts County FC (17)
+?,(Sat) 20 Dec 1913 (50),Nottingham Forest (34),2-2,?,Stockport County (17)
+?,(Sat) 6 Sep 1913 (35),Nottingham Forest (35),1-3,?,Wolverhampton Wanderers (17)
+?,(Thu) 1 Jan 1914 (0),Notts County FC (18),1-0,?,Arsenal FC (36)
+?,(Sat) 29 Nov 1913 (47),Notts County FC (19),3-1,?,Barnsley FC (36)
+?,(Sat) 13 Sep 1913 (36),Notts County FC (20),5-1,?,Birmingham City (36)
+?,(Wed) 24 Sep 1913 (38),Notts County FC (21),2-0,?,Blackpool FC (36)
+?,(Sat) 25 Oct 1913 (42),Notts County FC (22),2-3,?,Bradford Park Avenue (36)
+?,(Sat) 17 Jan 1914 (2),Notts County FC (23),4-0,?,Bristol City FC (36)
+?,(Sat) 11 Apr 1914 (14),Notts County FC (24),2-0,?,Bury FC (36)
+?,(Sat) 1 Nov 1913 (43),Notts County FC (25),4-0,?,Fulham FC (36)
+?,(Sat) 11 Oct 1913 (40),Notts County FC (26),2-2,?,Glossop North End (36)
+?,(Sat) 27 Dec 1913 (51),Notts County FC (27),4-0,?,Grimsby Town (36)
+?,(Sat) 13 Dec 1913 (49),Notts County FC (28),3-0,?,Huddersfield Town (36)
+?,(Sat) 28 Mar 1914 (12),Notts County FC (29),4-1,?,Hull City (36)
+?,(Sat) 27 Sep 1913 (38),Notts County FC (30),4-0,?,Leeds City (36)
+?,(Sat) 14 Mar 1914 (10),Notts County FC (31),4-1,?,Leicester City (36)
+?,(Sat) 7 Feb 1914 (5),Notts County FC (32),3-0,?,Leyton Orient FC (36)
+?,(Thu) 2 Oct 1913 (39),Notts County FC (33),2-1,?,Lincoln City (36)
+?,(Thu) 25 Dec 1913 (51),Notts County FC (34),2-2,?,Nottingham Forest (36)
+?,(Sat) 21 Feb 1914 (7),Notts County FC (35),2-1,?,Stockport County (18)
+?,(Sat) 15 Nov 1913 (45),Notts County FC (36),2-0,?,Wolverhampton Wanderers (18)
+?,(Fri) 10 Apr 1914 (14),Stockport County (19),2-0,?,Arsenal FC (37)
+?,(Sat) 15 Nov 1913 (45),Stockport County (20),1-1,?,Barnsley FC (37)
+?,(Thu) 1 Jan 1914 (0),Stockport County (21),2-0,?,Birmingham City (37)
+?,(Sat) 13 Dec 1913 (49),Stockport County (22),0-0,?,Blackpool FC (37)
+?,(Sat) 14 Feb 1914 (6),Stockport County (23),3-1,?,Bradford Park Avenue (37)
+?,(Sat) 27 Dec 1913 (51),Stockport County (24),5-1,?,Bristol City FC (37)
+?,(Sat) 28 Mar 1914 (12),Stockport County (25),3-0,?,Bury FC (37)
+?,(Sat) 4 Oct 1913 (39),Stockport County (26),1-3,?,Fulham FC (37)
+?,(Sat) 27 Sep 1913 (38),Stockport County (27),1-1,?,Glossop North End (37)
+?,(Fri) 26 Dec 1913 (51),Stockport County (28),2-2,?,Grimsby Town (37)
+?,(Mon) 1 Dec 1913 (48),Stockport County (29),0-0,?,Huddersfield Town (37)
+?,(Sat) 14 Mar 1914 (10),Stockport County (30),2-1,?,Hull City (37)
+?,(Sat) 13 Sep 1913 (36),Stockport County (31),2-1,?,Leeds City (37)
+?,(Sat) 28 Feb 1914 (8),Stockport County (32),3-0,?,Leicester City (37)
+?,(Sat) 17 Jan 1914 (2),Stockport County (33),0-1,?,Leyton Orient FC (37)
+?,(Sat) 11 Apr 1914 (14),Stockport County (34),2-3,?,Lincoln City (37)
+?,(Sat) 25 Apr 1914 (16),Stockport County (35),2-1,?,Nottingham Forest (37)
+?,(Sat) 18 Oct 1913 (41),Stockport County (36),1-2,?,Notts County FC (37)
+?,(Sat) 1 Nov 1913 (43),Stockport County (37),0-0,?,Wolverhampton Wanderers (19)
+?,(Sat) 13 Sep 1913 (36),Wolverhampton Wanderers (20),1-2,?,Arsenal FC (38)
+?,(Sat) 13 Dec 1913 (49),Wolverhampton Wanderers (21),0-1,?,Barnsley FC (38)
+?,(Sat) 27 Sep 1913 (38),Wolverhampton Wanderers (22),1-0,?,Birmingham City (38)
+?,(Fri) 26 Dec 1913 (51),Wolverhampton Wanderers (23),1-0,?,Blackpool FC (38)
+?,(Sat) 8 Nov 1913 (44),Wolverhampton Wanderers (24),1-0,?,Bradford Park Avenue (38)
+?,(Sat) 7 Feb 1914 (5),Wolverhampton Wanderers (25),0-2,?,Bristol City FC (38)
+?,(Sat) 25 Apr 1914 (16),Wolverhampton Wanderers (26),3-0,?,Bury FC (38)
+?,(Sat) 29 Nov 1913 (47),Wolverhampton Wanderers (27),1-0,?,Fulham FC (38)
+?,(Sat) 25 Oct 1913 (42),Wolverhampton Wanderers (28),1-0,?,Glossop North End (38)
+?,(Sat) 17 Jan 1914 (2),Wolverhampton Wanderers (29),4-1,?,Grimsby Town (38)
+?,(Mon) 13 Apr 1914 (15),Wolverhampton Wanderers (30),2-2,?,Huddersfield Town (38)
+?,(Sat) 11 Apr 1914 (14),Wolverhampton Wanderers (31),1-0,?,Hull City (38)
+?,(Sat) 11 Oct 1913 (40),Wolverhampton Wanderers (32),1-3,?,Leeds City (38)
+?,(Sat) 22 Nov 1913 (46),Wolverhampton Wanderers (33),2-1,?,Leicester City (38)
+?,(Sat) 21 Feb 1914 (7),Wolverhampton Wanderers (34),2-1,?,Leyton Orient FC (38)
+?,(Mon) 1 Sep 1913 (35),Wolverhampton Wanderers (35),1-0,?,Lincoln City (38)
+?,(Sat) 27 Dec 1913 (51),Wolverhampton Wanderers (36),4-1,?,Nottingham Forest (38)
+?,(Sat) 21 Mar 1914 (11),Wolverhampton Wanderers (37),4-1,?,Notts County FC (38)
+?,(Sat) 7 Mar 1914 (9),Wolverhampton Wanderers (38),3-1,?,Stockport County (38)

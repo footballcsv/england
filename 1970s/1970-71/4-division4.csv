@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aldershot,AFC Bournemouth,2-0,-
--,-,Barrow,AFC Bournemouth,1-2,-
--,-,Brentford,AFC Bournemouth,1-2,-
--,-,Cambridge United,AFC Bournemouth,0-2,-
--,-,Chester,AFC Bournemouth,4-2,-
--,-,Colchester United,AFC Bournemouth,1-1,-
--,-,Crewe Alexandra,AFC Bournemouth,3-3,-
--,-,Darlington,AFC Bournemouth,1-0,-
--,-,Exeter City,AFC Bournemouth,0-0,-
--,-,Grimsby Town,AFC Bournemouth,1-0,-
--,-,Hartlepool United,AFC Bournemouth,2-1,-
--,-,Lincoln City,AFC Bournemouth,1-2,-
--,-,Newport County,AFC Bournemouth,0-2,-
--,-,Northampton Town,AFC Bournemouth,2-3,-
--,-,Notts County,AFC Bournemouth,2-1,-
--,-,Oldham Athletic,AFC Bournemouth,2-2,-
--,-,Peterborough United,AFC Bournemouth,3-1,-
--,-,Scunthorpe United,AFC Bournemouth,1-1,-
--,-,Southend United,AFC Bournemouth,1-2,-
--,-,Southport,AFC Bournemouth,0-1,-
--,-,Stockport County,AFC Bournemouth,1-1,-
--,-,Workington,AFC Bournemouth,1-0,-
--,-,York City,AFC Bournemouth,1-1,-
--,-,AFC Bournemouth,Aldershot,1-1,-
--,-,Barrow,Aldershot,1-1,-
--,-,Brentford,Aldershot,2-3,-
--,-,Cambridge United,Aldershot,1-1,-
--,-,Chester,Aldershot,1-2,-
--,-,Colchester United,Aldershot,5-2,-
--,-,Crewe Alexandra,Aldershot,0-3,-
--,-,Darlington,Aldershot,1-2,-
--,-,Exeter City,Aldershot,4-1,-
--,-,Grimsby Town,Aldershot,0-2,-
--,-,Hartlepool United,Aldershot,1-1,-
--,-,Lincoln City,Aldershot,4-4,-
--,-,Newport County,Aldershot,1-2,-
--,-,Northampton Town,Aldershot,2-0,-
--,-,Notts County,Aldershot,3-0,-
--,-,Oldham Athletic,Aldershot,5-2,-
--,-,Peterborough United,Aldershot,1-0,-
--,-,Scunthorpe United,Aldershot,2-1,-
--,-,Southend United,Aldershot,2-2,-
--,-,Southport,Aldershot,3-3,-
--,-,Stockport County,Aldershot,1-0,-
--,-,Workington,Aldershot,4-0,-
--,-,York City,Aldershot,3-1,-
--,-,AFC Bournemouth,Barrow,0-0,-
--,-,Aldershot,Barrow,3-0,-
--,-,Brentford,Barrow,2-1,-
--,-,Cambridge United,Barrow,3-3,-
--,-,Chester,Barrow,2-1,-
--,-,Colchester United,Barrow,4-1,-
--,-,Crewe Alexandra,Barrow,1-0,-
--,-,Darlington,Barrow,3-1,-
--,-,Exeter City,Barrow,4-2,-
--,-,Grimsby Town,Barrow,3-1,-
--,-,Hartlepool United,Barrow,2-1,-
--,-,Lincoln City,Barrow,0-3,-
--,-,Newport County,Barrow,3-2,-
--,-,Northampton Town,Barrow,1-0,-
--,-,Notts County,Barrow,3-1,-
--,-,Oldham Athletic,Barrow,2-1,-
--,-,Peterborough United,Barrow,4-0,-
--,-,Scunthorpe United,Barrow,1-1,-
--,-,Southend United,Barrow,2-3,-
--,-,Southport,Barrow,1-0,-
--,-,Stockport County,Barrow,2-0,-
--,-,Workington,Barrow,2-1,-
--,-,York City,Barrow,4-3,-
--,-,AFC Bournemouth,Brentford,1-0,-
--,-,Aldershot,Brentford,1-0,-
--,-,Barrow,Brentford,0-1,-
--,-,Cambridge United,Brentford,1-0,-
--,-,Chester,Brentford,1-2,-
--,-,Colchester United,Brentford,4-0,-
--,-,Crewe Alexandra,Brentford,5-3,-
--,-,Darlington,Brentford,2-1,-
--,-,Exeter City,Brentford,1-0,-
--,-,Grimsby Town,Brentford,1-5,-
--,-,Hartlepool United,Brentford,0-0,-
--,-,Lincoln City,Brentford,2-0,-
--,-,Newport County,Brentford,0-1,-
--,-,Northampton Town,Brentford,1-0,-
--,-,Notts County,Brentford,0-0,-
--,-,Oldham Athletic,Brentford,5-1,-
--,-,Peterborough United,Brentford,1-2,-
--,-,Scunthorpe United,Brentford,1-1,-
--,-,Southend United,Brentford,4-3,-
--,-,Southport,Brentford,2-0,-
--,-,Stockport County,Brentford,1-0,-
--,-,Workington,Brentford,1-1,-
--,-,York City,Brentford,0-0,-
--,-,AFC Bournemouth,Cambridge United,3-0,-
--,-,Aldershot,Cambridge United,2-2,-
--,-,Barrow,Cambridge United,2-1,-
--,-,Brentford,Cambridge United,1-2,-
--,-,Chester,Cambridge United,2-1,-
--,-,Colchester United,Cambridge United,2-1,-
--,-,Crewe Alexandra,Cambridge United,1-2,-
--,-,Darlington,Cambridge United,2-0,-
--,-,Exeter City,Cambridge United,1-0,-
--,-,Grimsby Town,Cambridge United,2-0,-
--,-,Hartlepool United,Cambridge United,0-0,-
--,-,Lincoln City,Cambridge United,0-1,-
--,-,Newport County,Cambridge United,2-0,-
--,-,Northampton Town,Cambridge United,2-1,-
--,-,Notts County,Cambridge United,4-1,-
--,-,Oldham Athletic,Cambridge United,4-1,-
--,-,Peterborough United,Cambridge United,2-3,-
--,-,Scunthorpe United,Cambridge United,0-0,-
--,-,Southend United,Cambridge United,1-1,-
--,-,Southport,Cambridge United,0-1,-
--,-,Stockport County,Cambridge United,0-1,-
--,-,Workington,Cambridge United,3-1,-
--,-,York City,Cambridge United,3-0,-
--,-,AFC Bournemouth,Chester,3-1,-
--,-,Aldershot,Chester,1-0,-
--,-,Barrow,Chester,1-4,-
--,-,Brentford,Chester,1-2,-
--,-,Cambridge United,Chester,1-1,-
--,-,Colchester United,Chester,0-1,-
--,-,Crewe Alexandra,Chester,6-3,-
--,-,Darlington,Chester,5-1,-
--,-,Exeter City,Chester,3-1,-
--,-,Grimsby Town,Chester,2-2,-
--,-,Hartlepool United,Chester,0-2,-
--,-,Lincoln City,Chester,2-0,-
--,-,Newport County,Chester,0-1,-
--,-,Northampton Town,Chester,3-1,-
--,-,Notts County,Chester,2-1,-
--,-,Oldham Athletic,Chester,1-1,-
--,-,Peterborough United,Chester,1-0,-
--,-,Scunthorpe United,Chester,0-2,-
--,-,Southend United,Chester,1-1,-
--,-,Southport,Chester,2-0,-
--,-,Stockport County,Chester,0-1,-
--,-,Workington,Chester,1-0,-
--,-,York City,Chester,1-1,-
--,-,AFC Bournemouth,Colchester United,4-1,-
--,-,Aldershot,Colchester United,0-1,-
--,-,Barrow,Colchester United,0-2,-
--,-,Brentford,Colchester United,1-0,-
--,-,Cambridge United,Colchester United,2-1,-
--,-,Chester,Colchester United,2-1,-
--,-,Crewe Alexandra,Colchester United,0-3,-
--,-,Darlington,Colchester United,0-0,-
--,-,Exeter City,Colchester United,2-2,-
--,-,Grimsby Town,Colchester United,3-1,-
--,-,Hartlepool United,Colchester United,1-2,-
--,-,Lincoln City,Colchester United,1-2,-
--,-,Newport County,Colchester United,1-3,-
--,-,Northampton Town,Colchester United,2-1,-
--,-,Notts County,Colchester United,4-0,-
--,-,Oldham Athletic,Colchester United,4-0,-
--,-,Peterborough United,Colchester United,1-2,-
--,-,Scunthorpe United,Colchester United,2-0,-
--,-,Southend United,Colchester United,1-1,-
--,-,Southport,Colchester United,2-1,-
--,-,Stockport County,Colchester United,0-0,-
--,-,Workington,Colchester United,1-1,-
--,-,York City,Colchester United,1-1,-
--,-,AFC Bournemouth,Crewe Alexandra,2-2,-
--,-,Aldershot,Crewe Alexandra,0-0,-
--,-,Barrow,Crewe Alexandra,0-1,-
--,-,Brentford,Crewe Alexandra,3-1,-
--,-,Cambridge United,Crewe Alexandra,1-0,-
--,-,Chester,Crewe Alexandra,1-0,-
--,-,Colchester United,Crewe Alexandra,3-0,-
--,-,Darlington,Crewe Alexandra,0-1,-
--,-,Exeter City,Crewe Alexandra,6-2,-
--,-,Grimsby Town,Crewe Alexandra,2-0,-
--,-,Hartlepool United,Crewe Alexandra,0-2,-
--,-,Lincoln City,Crewe Alexandra,2-2,-
--,-,Newport County,Crewe Alexandra,1-3,-
--,-,Northampton Town,Crewe Alexandra,1-1,-
--,-,Notts County,Crewe Alexandra,5-1,-
--,-,Oldham Athletic,Crewe Alexandra,5-3,-
--,-,Peterborough United,Crewe Alexandra,3-1,-
--,-,Scunthorpe United,Crewe Alexandra,1-1,-
--,-,Southend United,Crewe Alexandra,0-2,-
--,-,Southport,Crewe Alexandra,1-0,-
--,-,Stockport County,Crewe Alexandra,2-2,-
--,-,Workington,Crewe Alexandra,1-1,-
--,-,York City,Crewe Alexandra,1-0,-
--,-,AFC Bournemouth,Darlington,1-0,-
--,-,Aldershot,Darlington,2-2,-
--,-,Barrow,Darlington,1-1,-
--,-,Brentford,Darlington,1-0,-
--,-,Cambridge United,Darlington,2-0,-
--,-,Chester,Darlington,2-1,-
--,-,Colchester United,Darlington,2-0,-
--,-,Crewe Alexandra,Darlington,3-0,-
--,-,Exeter City,Darlington,2-1,-
--,-,Grimsby Town,Darlington,1-1,-
--,-,Hartlepool United,Darlington,2-2,-
--,-,Lincoln City,Darlington,2-1,-
--,-,Newport County,Darlington,3-1,-
--,-,Northampton Town,Darlington,2-0,-
--,-,Notts County,Darlington,3-0,-
--,-,Oldham Athletic,Darlington,3-1,-
--,-,Peterborough United,Darlington,0-1,-
--,-,Scunthorpe United,Darlington,0-0,-
--,-,Southend United,Darlington,0-0,-
--,-,Southport,Darlington,0-3,-
--,-,Stockport County,Darlington,1-1,-
--,-,Workington,Darlington,0-0,-
--,-,York City,Darlington,2-0,-
--,-,AFC Bournemouth,Exeter City,4-1,-
--,-,Aldershot,Exeter City,2-2,-
--,-,Barrow,Exeter City,1-1,-
--,-,Brentford,Exeter City,5-0,-
--,-,Cambridge United,Exeter City,2-0,-
--,-,Chester,Exeter City,3-1,-
--,-,Colchester United,Exeter City,1-1,-
--,-,Crewe Alexandra,Exeter City,4-1,-
--,-,Darlington,Exeter City,3-2,-
--,-,Grimsby Town,Exeter City,1-2,-
--,-,Hartlepool United,Exeter City,3-0,-
--,-,Lincoln City,Exeter City,4-1,-
--,-,Newport County,Exeter City,0-1,-
--,-,Northampton Town,Exeter City,2-2,-
--,-,Notts County,Exeter City,1-1,-
--,-,Oldham Athletic,Exeter City,2-1,-
--,-,Peterborough United,Exeter City,1-3,-
--,-,Scunthorpe United,Exeter City,3-0,-
--,-,Southend United,Exeter City,0-0,-
--,-,Southport,Exeter City,0-2,-
--,-,Stockport County,Exeter City,0-3,-
--,-,Workington,Exeter City,1-0,-
--,-,York City,Exeter City,2-2,-
--,-,AFC Bournemouth,Grimsby Town,2-1,-
--,-,Aldershot,Grimsby Town,3-2,-
--,-,Barrow,Grimsby Town,0-1,-
--,-,Brentford,Grimsby Town,2-0,-
--,-,Cambridge United,Grimsby Town,2-3,-
--,-,Chester,Grimsby Town,5-0,-
--,-,Colchester United,Grimsby Town,1-0,-
--,-,Crewe Alexandra,Grimsby Town,4-0,-
--,-,Darlington,Grimsby Town,5-1,-
--,-,Exeter City,Grimsby Town,4-0,-
--,-,Hartlepool United,Grimsby Town,2-2,-
--,-,Lincoln City,Grimsby Town,3-0,-
--,-,Newport County,Grimsby Town,0-1,-
--,-,Northampton Town,Grimsby Town,0-4,-
--,-,Notts County,Grimsby Town,1-0,-
--,-,Oldham Athletic,Grimsby Town,1-0,-
--,-,Peterborough United,Grimsby Town,1-1,-
--,-,Scunthorpe United,Grimsby Town,1-2,-
--,-,Southend United,Grimsby Town,1-1,-
--,-,Southport,Grimsby Town,1-0,-
--,-,Stockport County,Grimsby Town,1-0,-
--,-,Workington,Grimsby Town,1-0,-
--,-,York City,Grimsby Town,4-1,-
--,-,AFC Bournemouth,Hartlepool United,3-0,-
--,-,Aldershot,Hartlepool United,1-0,-
--,-,Barrow,Hartlepool United,3-0,-
--,-,Brentford,Hartlepool United,1-0,-
--,-,Cambridge United,Hartlepool United,2-0,-
--,-,Chester,Hartlepool United,0-1,-
--,-,Colchester United,Hartlepool United,1-0,-
--,-,Crewe Alexandra,Hartlepool United,1-0,-
--,-,Darlington,Hartlepool United,2-0,-
--,-,Exeter City,Hartlepool United,1-1,-
--,-,Grimsby Town,Hartlepool United,1-1,-
--,-,Lincoln City,Hartlepool United,2-0,-
--,-,Newport County,Hartlepool United,2-0,-
--,-,Northampton Town,Hartlepool United,2-0,-
--,-,Notts County,Hartlepool United,3-0,-
--,-,Oldham Athletic,Hartlepool United,2-0,-
--,-,Peterborough United,Hartlepool United,5-0,-
--,-,Scunthorpe United,Hartlepool United,2-1,-
--,-,Southend United,Hartlepool United,2-0,-
--,-,Southport,Hartlepool United,5-0,-
--,-,Stockport County,Hartlepool United,2-1,-
--,-,Workington,Hartlepool United,0-1,-
--,-,York City,Hartlepool United,4-0,-
--,-,AFC Bournemouth,Lincoln City,3-0,-
--,-,Aldershot,Lincoln City,0-2,-
--,-,Barrow,Lincoln City,1-4,-
--,-,Brentford,Lincoln City,2-1,-
--,-,Cambridge United,Lincoln City,1-1,-
--,-,Chester,Lincoln City,1-0,-
--,-,Colchester United,Lincoln City,1-1,-
--,-,Crewe Alexandra,Lincoln City,3-1,-
--,-,Darlington,Lincoln City,3-2,-
--,-,Exeter City,Lincoln City,0-0,-
--,-,Grimsby Town,Lincoln City,1-1,-
--,-,Hartlepool United,Lincoln City,0-0,-
--,-,Newport County,Lincoln City,2-2,-
--,-,Northampton Town,Lincoln City,2-1,-
--,-,Notts County,Lincoln City,0-0,-
--,-,Oldham Athletic,Lincoln City,4-2,-
--,-,Peterborough United,Lincoln City,1-1,-
--,-,Scunthorpe United,Lincoln City,3-1,-
--,-,Southend United,Lincoln City,1-1,-
--,-,Southport,Lincoln City,1-0,-
--,-,Stockport County,Lincoln City,4-3,-
--,-,Workington,Lincoln City,2-1,-
--,-,York City,Lincoln City,2-0,-
--,-,AFC Bournemouth,Newport County,2-2,-
--,-,Aldershot,Newport County,1-1,-
--,-,Barrow,Newport County,3-1,-
--,-,Brentford,Newport County,0-3,-
--,-,Cambridge United,Newport County,3-2,-
--,-,Chester,Newport County,2-1,-
--,-,Colchester United,Newport County,4-2,-
--,-,Crewe Alexandra,Newport County,2-0,-
--,-,Darlington,Newport County,2-1,-
--,-,Exeter City,Newport County,1-1,-
--,-,Grimsby Town,Newport County,2-0,-
--,-,Hartlepool United,Newport County,2-2,-
--,-,Lincoln City,Newport County,1-1,-
--,-,Northampton Town,Newport County,1-0,-
--,-,Notts County,Newport County,2-0,-
--,-,Oldham Athletic,Newport County,4-0,-
--,-,Peterborough United,Newport County,2-1,-
--,-,Scunthorpe United,Newport County,0-1,-
--,-,Southend United,Newport County,3-0,-
--,-,Southport,Newport County,6-1,-
--,-,Stockport County,Newport County,3-2,-
--,-,Workington,Newport County,2-1,-
--,-,York City,Newport County,1-0,-
--,-,AFC Bournemouth,Northampton Town,4-2,-
--,-,Aldershot,Northampton Town,1-1,-
--,-,Barrow,Northampton Town,2-1,-
--,-,Brentford,Northampton Town,3-0,-
--,-,Cambridge United,Northampton Town,0-2,-
--,-,Chester,Northampton Town,2-2,-
--,-,Colchester United,Northampton Town,1-1,-
--,-,Crewe Alexandra,Northampton Town,3-0,-
--,-,Darlington,Northampton Town,0-0,-
--,-,Exeter City,Northampton Town,1-1,-
--,-,Grimsby Town,Northampton Town,0-2,-
--,-,Hartlepool United,Northampton Town,2-2,-
--,-,Lincoln City,Northampton Town,1-3,-
--,-,Newport County,Northampton Town,0-1,-
--,-,Notts County,Northampton Town,1-0,-
--,-,Oldham Athletic,Northampton Town,1-1,-
--,-,Peterborough United,Northampton Town,1-0,-
--,-,Scunthorpe United,Northampton Town,2-2,-
--,-,Southend United,Northampton Town,1-0,-
--,-,Southport,Northampton Town,2-1,-
--,-,Stockport County,Northampton Town,1-1,-
--,-,Workington,Northampton Town,2-0,-
--,-,York City,Northampton Town,4-1,-
--,-,AFC Bournemouth,Notts County,1-1,-
--,-,Aldershot,Notts County,0-1,-
--,-,Barrow,Notts County,1-2,-
--,-,Brentford,Notts County,2-2,-
--,-,Cambridge United,Notts County,2-1,-
--,-,Chester,Notts County,2-1,-
--,-,Colchester United,Notts County,2-3,-
--,-,Crewe Alexandra,Notts County,1-2,-
--,-,Darlington,Notts County,2-3,-
--,-,Exeter City,Notts County,0-1,-
--,-,Grimsby Town,Notts County,2-1,-
--,-,Hartlepool United,Notts County,2-1,-
--,-,Lincoln City,Notts County,0-1,-
--,-,Newport County,Notts County,2-1,-
--,-,Northampton Town,Notts County,1-1,-
--,-,Oldham Athletic,Notts County,1-3,-
--,-,Peterborough United,Notts County,1-1,-
--,-,Scunthorpe United,Notts County,0-1,-
--,-,Southend United,Notts County,1-0,-
--,-,Southport,Notts County,0-2,-
--,-,Stockport County,Notts County,1-0,-
--,-,Workington,Notts County,0-1,-
--,-,York City,Notts County,0-0,-
--,-,AFC Bournemouth,Oldham Athletic,5-0,-
--,-,Aldershot,Oldham Athletic,1-1,-
--,-,Barrow,Oldham Athletic,1-1,-
--,-,Brentford,Oldham Athletic,1-1,-
--,-,Cambridge United,Oldham Athletic,3-1,-
--,-,Chester,Oldham Athletic,0-1,-
--,-,Colchester United,Oldham Athletic,1-2,-
--,-,Crewe Alexandra,Oldham Athletic,0-1,-
--,-,Darlington,Oldham Athletic,3-1,-
--,-,Exeter City,Oldham Athletic,0-2,-
--,-,Grimsby Town,Oldham Athletic,4-1,-
--,-,Hartlepool United,Oldham Athletic,0-1,-
--,-,Lincoln City,Oldham Athletic,2-1,-
--,-,Newport County,Oldham Athletic,1-4,-
--,-,Northampton Town,Oldham Athletic,1-3,-
--,-,Notts County,Oldham Athletic,2-0,-
--,-,Peterborough United,Oldham Athletic,2-1,-
--,-,Scunthorpe United,Oldham Athletic,2-3,-
--,-,Southend United,Oldham Athletic,3-0,-
--,-,Southport,Oldham Athletic,1-4,-
--,-,Stockport County,Oldham Athletic,1-1,-
--,-,Workington,Oldham Athletic,0-0,-
--,-,York City,Oldham Athletic,0-1,-
--,-,AFC Bournemouth,Peterborough United,1-0,-
--,-,Aldershot,Peterborough United,2-2,-
--,-,Barrow,Peterborough United,2-3,-
--,-,Brentford,Peterborough United,1-1,-
--,-,Cambridge United,Peterborough United,1-1,-
--,-,Chester,Peterborough United,2-0,-
--,-,Colchester United,Peterborough United,3-0,-
--,-,Crewe Alexandra,Peterborough United,1-3,-
--,-,Darlington,Peterborough United,1-0,-
--,-,Exeter City,Peterborough United,3-2,-
--,-,Grimsby Town,Peterborough United,2-1,-
--,-,Hartlepool United,Peterborough United,1-2,-
--,-,Lincoln City,Peterborough United,2-1,-
--,-,Newport County,Peterborough United,2-0,-
--,-,Northampton Town,Peterborough United,2-0,-
--,-,Notts County,Peterborough United,6-0,-
--,-,Oldham Athletic,Peterborough United,3-0,-
--,-,Scunthorpe United,Peterborough United,5-2,-
--,-,Southend United,Peterborough United,1-2,-
--,-,Southport,Peterborough United,3-2,-
--,-,Stockport County,Peterborough United,0-0,-
--,-,Workington,Peterborough United,2-1,-
--,-,York City,Peterborough United,2-1,-
--,-,AFC Bournemouth,Scunthorpe United,0-2,-
--,-,Aldershot,Scunthorpe United,0-1,-
--,-,Barrow,Scunthorpe United,1-2,-
--,-,Brentford,Scunthorpe United,0-1,-
--,-,Cambridge United,Scunthorpe United,1-1,-
--,-,Chester,Scunthorpe United,2-0,-
--,-,Colchester United,Scunthorpe United,2-0,-
--,-,Crewe Alexandra,Scunthorpe United,3-1,-
--,-,Darlington,Scunthorpe United,3-0,-
--,-,Exeter City,Scunthorpe United,1-1,-
--,-,Grimsby Town,Scunthorpe United,1-0,-
--,-,Hartlepool United,Scunthorpe United,1-1,-
--,-,Lincoln City,Scunthorpe United,4-1,-
--,-,Newport County,Scunthorpe United,2-3,-
--,-,Northampton Town,Scunthorpe United,1-0,-
--,-,Notts County,Scunthorpe United,3-0,-
--,-,Oldham Athletic,Scunthorpe United,1-1,-
--,-,Peterborough United,Scunthorpe United,1-2,-
--,-,Southend United,Scunthorpe United,2-2,-
--,-,Southport,Scunthorpe United,5-1,-
--,-,Stockport County,Scunthorpe United,2-0,-
--,-,Workington,Scunthorpe United,0-0,-
--,-,York City,Scunthorpe United,2-0,-
--,-,AFC Bournemouth,Southend United,4-0,-
--,-,Aldershot,Southend United,2-2,-
--,-,Barrow,Southend United,2-0,-
--,-,Brentford,Southend United,4-2,-
--,-,Cambridge United,Southend United,0-3,-
--,-,Chester,Southend United,2-0,-
--,-,Colchester United,Southend United,1-1,-
--,-,Crewe Alexandra,Southend United,1-2,-
--,-,Darlington,Southend United,0-4,-
--,-,Exeter City,Southend United,2-0,-
--,-,Grimsby Town,Southend United,2-0,-
--,-,Hartlepool United,Southend United,0-1,-
--,-,Lincoln City,Southend United,1-2,-
--,-,Newport County,Southend United,3-0,-
--,-,Northampton Town,Southend United,0-2,-
--,-,Notts County,Southend United,2-1,-
--,-,Oldham Athletic,Southend United,2-0,-
--,-,Peterborough United,Southend United,4-0,-
--,-,Scunthorpe United,Southend United,3-0,-
--,-,Southport,Southend United,3-0,-
--,-,Stockport County,Southend United,0-0,-
--,-,Workington,Southend United,1-1,-
--,-,York City,Southend United,3-0,-
--,-,AFC Bournemouth,Southport,0-1,-
--,-,Aldershot,Southport,2-1,-
--,-,Barrow,Southport,0-2,-
--,-,Brentford,Southport,0-1,-
--,-,Cambridge United,Southport,0-0,-
--,-,Chester,Southport,1-0,-
--,-,Colchester United,Southport,1-0,-
--,-,Crewe Alexandra,Southport,1-0,-
--,-,Darlington,Southport,1-1,-
--,-,Exeter City,Southport,2-1,-
--,-,Grimsby Town,Southport,1-2,-
--,-,Hartlepool United,Southport,1-2,-
--,-,Lincoln City,Southport,3-0,-
--,-,Newport County,Southport,2-2,-
--,-,Northampton Town,Southport,2-1,-
--,-,Notts County,Southport,3-1,-
--,-,Oldham Athletic,Southport,2-4,-
--,-,Peterborough United,Southport,1-0,-
--,-,Scunthorpe United,Southport,2-0,-
--,-,Southend United,Southport,1-1,-
--,-,Stockport County,Southport,3-0,-
--,-,Workington,Southport,2-1,-
--,-,York City,Southport,2-0,-
--,-,AFC Bournemouth,Stockport County,2-0,-
--,-,Aldershot,Stockport County,5-0,-
--,-,Barrow,Stockport County,2-2,-
--,-,Brentford,Stockport County,3-0,-
--,-,Cambridge United,Stockport County,1-1,-
--,-,Chester,Stockport County,3-0,-
--,-,Colchester United,Stockport County,1-1,-
--,-,Crewe Alexandra,Stockport County,2-3,-
--,-,Darlington,Stockport County,1-0,-
--,-,Exeter City,Stockport County,2-1,-
--,-,Grimsby Town,Stockport County,1-2,-
--,-,Hartlepool United,Stockport County,3-0,-
--,-,Lincoln City,Stockport County,1-1,-
--,-,Newport County,Stockport County,3-1,-
--,-,Northampton Town,Stockport County,1-1,-
--,-,Notts County,Stockport County,5-1,-
--,-,Oldham Athletic,Stockport County,1-1,-
--,-,Peterborough United,Stockport County,5-1,-
--,-,Scunthorpe United,Stockport County,1-2,-
--,-,Southend United,Stockport County,2-1,-
--,-,Southport,Stockport County,1-0,-
--,-,Workington,Stockport County,0-1,-
--,-,York City,Stockport County,2-1,-
--,-,AFC Bournemouth,Workington,1-0,-
--,-,Aldershot,Workington,1-1,-
--,-,Barrow,Workington,0-3,-
--,-,Brentford,Workington,3-0,-
--,-,Cambridge United,Workington,1-2,-
--,-,Chester,Workington,1-0,-
--,-,Colchester United,Workington,2-1,-
--,-,Crewe Alexandra,Workington,1-0,-
--,-,Darlington,Workington,0-1,-
--,-,Exeter City,Workington,0-1,-
--,-,Grimsby Town,Workington,1-0,-
--,-,Hartlepool United,Workington,1-1,-
--,-,Lincoln City,Workington,3-1,-
--,-,Newport County,Workington,2-2,-
--,-,Northampton Town,Workington,5-0,-
--,-,Notts County,Workington,2-2,-
--,-,Oldham Athletic,Workington,1-3,-
--,-,Peterborough United,Workington,3-1,-
--,-,Scunthorpe United,Workington,4-0,-
--,-,Southend United,Workington,1-1,-
--,-,Southport,Workington,1-0,-
--,-,Stockport County,Workington,1-0,-
--,-,York City,Workington,1-0,-
--,-,AFC Bournemouth,York City,4-0,-
--,-,Aldershot,York City,0-1,-
--,-,Barrow,York City,0-2,-
--,-,Brentford,York City,6-4,-
--,-,Cambridge United,York City,1-1,-
--,-,Chester,York City,1-1,-
--,-,Colchester United,York City,1-0,-
--,-,Crewe Alexandra,York City,3-4,-
--,-,Darlington,York City,2-0,-
--,-,Exeter City,York City,0-2,-
--,-,Grimsby Town,York City,3-1,-
--,-,Hartlepool United,York City,2-1,-
--,-,Lincoln City,York City,4-5,-
--,-,Newport County,York City,0-3,-
--,-,Northampton Town,York City,3-2,-
--,-,Notts County,York City,2-1,-
--,-,Oldham Athletic,York City,1-1,-
--,-,Peterborough United,York City,2-1,-
--,-,Scunthorpe United,York City,0-1,-
--,-,Southend United,York City,1-0,-
--,-,Southport,York City,2-2,-
--,-,Stockport County,York City,1-0,-
--,-,Workington,York City,1-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 17 Oct 1970 (41),AFC Bournemouth (1),1-1,?,Aldershot Town FC (1)
+?,(Wed) 17 Mar 1971 (11),AFC Bournemouth (2),0-0,?,Barrow AFC (1)
+?,(Sat) 17 Apr 1971 (15),AFC Bournemouth (3),1-0,?,Brentford FC (1)
+?,(Sat) 3 Oct 1970 (39),AFC Bournemouth (4),3-0,?,Cambridge United (1)
+?,(Sat) 6 Mar 1971 (9),AFC Bournemouth (5),3-1,?,Chester FC (1)
+?,(Fri) 18 Sep 1970 (37),AFC Bournemouth (6),4-1,?,Colchester United (1)
+?,(Sat) 28 Nov 1970 (47),AFC Bournemouth (7),2-2,?,Crewe Alexandra (1)
+?,(Sat) 20 Mar 1971 (11),AFC Bournemouth (8),1-0,?,Darlington FC (1)
+?,(Wed) 27 Jan 1971 (4),AFC Bournemouth (9),4-1,?,Exeter City (1)
+?,(Sat) 22 Aug 1970 (33),AFC Bournemouth (10),2-1,?,Grimsby Town (1)
+?,(Sat) 14 Nov 1970 (45),AFC Bournemouth (11),3-0,?,Hartlepool United (1)
+?,(Sat) 31 Oct 1970 (43),AFC Bournemouth (12),3-0,?,Lincoln City (1)
+?,(Sat) 3 Apr 1971 (13),AFC Bournemouth (13),2-2,?,Newport County AFC (1)
+?,(Sat) 23 Jan 1971 (3),AFC Bournemouth (14),4-2,?,Northampton Town (1)
+?,(Sat) 6 Feb 1971 (5),AFC Bournemouth (15),1-1,?,Notts County FC (1)
+?,(Sat) 16 Jan 1971 (2),AFC Bournemouth (16),5-0,?,Oldham Athletic (1)
+?,(Mon) 31 Aug 1970 (35),AFC Bournemouth (17),1-0,?,Peterborough United (1)
+?,(Wed) 30 Sep 1970 (39),AFC Bournemouth (18),0-2,?,Scunthorpe United (1)
+?,(Fri) 9 Apr 1971 (14),AFC Bournemouth (19),4-0,?,Southend United (1)
+?,(Sat) 20 Feb 1971 (7),AFC Bournemouth (20),0-1,?,Southport FC (1)
+?,(Sat) 5 Sep 1970 (35),AFC Bournemouth (21),2-0,?,Stockport County (1)
+?,(Wed) 23 Sep 1970 (38),AFC Bournemouth (22),1-0,?,Workington (1)
+?,(Sat) 1 May 1971 (17),AFC Bournemouth (23),4-0,?,York City (1)
+?,(Sat) 15 Aug 1970 (32),Aldershot Town FC (2),2-0,?,AFC Bournemouth (24)
+?,(Sat) 24 Oct 1970 (42),Aldershot Town FC (3),3-0,?,Barrow AFC (2)
+?,(Sat) 16 Jan 1971 (2),Aldershot Town FC (4),1-0,?,Brentford FC (2)
+?,(Wed) 30 Sep 1970 (39),Aldershot Town FC (5),2-2,?,Cambridge United (2)
+?,(Fri) 9 Apr 1971 (14),Aldershot Town FC (6),1-0,?,Chester FC (2)
+?,(Fri) 26 Feb 1971 (8),Aldershot Town FC (7),0-1,?,Colchester United (2)
+?,(Sat) 27 Mar 1971 (12),Aldershot Town FC (8),0-0,?,Crewe Alexandra (2)
+?,(Sat) 10 Oct 1970 (40),Aldershot Town FC (9),2-2,?,Darlington FC (2)
+?,(Sat) 20 Feb 1971 (7),Aldershot Town FC (10),2-2,?,Exeter City (2)
+?,(Sat) 28 Nov 1970 (47),Aldershot Town FC (11),3-2,?,Grimsby Town (2)
+?,(Sat) 24 Apr 1971 (16),Aldershot Town FC (12),1-0,?,Hartlepool United (2)
+?,(Sat) 26 Sep 1970 (38),Aldershot Town FC (13),0-2,?,Lincoln City (2)
+?,(Sat) 6 Feb 1971 (5),Aldershot Town FC (14),1-1,?,Newport County AFC (2)
+?,(Sat) 10 Apr 1971 (14),Aldershot Town FC (15),1-1,?,Northampton Town (2)
+?,(Sat) 29 Aug 1970 (34),Aldershot Town FC (16),0-1,?,Notts County FC (2)
+?,(Wed) 10 Mar 1971 (10),Aldershot Town FC (17),1-1,?,Oldham Athletic (2)
+?,(Sat) 19 Dec 1970 (50),Aldershot Town FC (18),2-2,?,Peterborough United (2)
+?,(Fri) 11 Sep 1970 (36),Aldershot Town FC (19),0-1,?,Scunthorpe United (2)
+?,(Mon) 29 Mar 1971 (13),Aldershot Town FC (20),2-2,?,Southend United (2)
+?,(Mon) 22 Feb 1971 (8),Aldershot Town FC (21),2-1,?,Southport FC (2)
+?,(Wed) 28 Apr 1971 (17),Aldershot Town FC (22),5-0,?,Stockport County (2)
+?,(Sat) 7 Nov 1970 (44),Aldershot Town FC (23),1-1,?,Workington (2)
+?,(Sat) 13 Mar 1971 (10),Aldershot Town FC (24),0-1,?,York City (2)
+?,(Sat) 2 Jan 1971 (0),Barrow AFC (3),1-2,?,AFC Bournemouth (25)
+?,(Sat) 6 Mar 1971 (9),Barrow AFC (4),1-1,?,Aldershot Town FC (25)
+?,(Sat) 6 Feb 1971 (5),Barrow AFC (5),0-1,?,Brentford FC (3)
+?,(Sat) 28 Nov 1970 (47),Barrow AFC (6),2-1,?,Cambridge United (3)
+?,(Sat) 10 Oct 1970 (40),Barrow AFC (7),1-4,?,Chester FC (3)
+?,(Mon) 31 Aug 1970 (35),Barrow AFC (8),0-2,?,Colchester United (3)
+?,(Sat) 29 Aug 1970 (34),Barrow AFC (9),0-1,?,Crewe Alexandra (3)
+?,(Sat) 15 Aug 1970 (32),Barrow AFC (10),1-1,?,Darlington FC (3)
+?,(Sat) 14 Nov 1970 (45),Barrow AFC (11),1-1,?,Exeter City (3)
+?,(Sat) 20 Feb 1971 (7),Barrow AFC (12),0-1,?,Grimsby Town (3)
+?,(Sat) 27 Mar 1971 (12),Barrow AFC (13),3-0,?,Hartlepool United (3)
+?,(Sat) 12 Sep 1970 (36),Barrow AFC (14),1-4,?,Lincoln City (3)
+?,(Sat) 23 Jan 1971 (3),Barrow AFC (15),3-1,?,Newport County AFC (3)
+?,(Sat) 24 Apr 1971 (16),Barrow AFC (16),2-1,?,Northampton Town (3)
+?,(Sat) 19 Dec 1970 (50),Barrow AFC (17),1-2,?,Notts County FC (3)
+?,(Sat) 10 Apr 1971 (14),Barrow AFC (18),1-1,?,Oldham Athletic (3)
+?,(Sat) 26 Sep 1970 (38),Barrow AFC (19),2-3,?,Peterborough United (3)
+?,(Mon) 8 Mar 1971 (10),Barrow AFC (20),1-2,?,Scunthorpe United (3)
+?,(Sat) 20 Mar 1971 (11),Barrow AFC (21),2-0,?,Southend United (3)
+?,(Mon) 12 Apr 1971 (15),Barrow AFC (22),0-2,?,Southport FC (3)
+?,(Sat) 31 Oct 1970 (43),Barrow AFC (23),2-2,?,Stockport County (3)
+?,(Mon) 19 Oct 1970 (42),Barrow AFC (24),0-3,?,Workington (3)
+?,(Sat) 9 Jan 1971 (1),Barrow AFC (25),0-2,?,York City (3)
+?,(Sat) 10 Oct 1970 (40),Brentford FC (4),1-2,?,AFC Bournemouth (26)
+?,(Mon) 19 Oct 1970 (42),Brentford FC (5),2-3,?,Aldershot Town FC (26)
+?,(Sat) 5 Dec 1970 (48),Brentford FC (6),2-1,?,Barrow AFC (26)
+?,(Mon) 26 Apr 1971 (17),Brentford FC (7),1-2,?,Cambridge United (4)
+?,(Sat) 15 Aug 1970 (32),Brentford FC (8),1-2,?,Chester FC (4)
+?,(Mon) 29 Mar 1971 (13),Brentford FC (9),1-0,?,Colchester United (4)
+?,(Mon) 8 Mar 1971 (10),Brentford FC (10),3-1,?,Crewe Alexandra (4)
+?,(Sat) 26 Sep 1970 (38),Brentford FC (11),1-0,?,Darlington FC (4)
+?,(Sat) 31 Oct 1970 (43),Brentford FC (12),5-0,?,Exeter City (4)
+?,(Sat) 14 Nov 1970 (45),Brentford FC (13),2-0,?,Grimsby Town (4)
+?,(Wed) 24 Feb 1971 (8),Brentford FC (14),1-0,?,Hartlepool United (4)
+?,(Sat) 19 Dec 1970 (50),Brentford FC (15),2-1,?,Lincoln City (4)
+?,(Sat) 20 Mar 1971 (11),Brentford FC (16),0-3,?,Newport County AFC (4)
+?,(Fri) 9 Apr 1971 (14),Brentford FC (17),3-0,?,Northampton Town (4)
+?,(Sat) 24 Apr 1971 (16),Brentford FC (18),2-2,?,Notts County FC (4)
+?,(Sat) 27 Mar 1971 (12),Brentford FC (19),1-1,?,Oldham Athletic (4)
+?,(Sat) 12 Sep 1970 (36),Brentford FC (20),1-1,?,Peterborough United (4)
+?,(Sat) 10 Apr 1971 (14),Brentford FC (21),0-1,?,Scunthorpe United (4)
+?,(Sat) 6 Mar 1971 (9),Brentford FC (22),4-2,?,Southend United (4)
+?,(Sat) 29 Aug 1970 (34),Brentford FC (23),0-1,?,Southport FC (4)
+?,(Sat) 9 Jan 1971 (1),Brentford FC (24),3-0,?,Stockport County (4)
+?,(Fri) 7 May 1971 (18),Brentford FC (25),3-0,?,Workington (4)
+?,(Mon) 9 Nov 1970 (45),Brentford FC (26),6-4,?,York City (4)
+?,(Tue) 13 Apr 1971 (15),Cambridge United (5),0-2,?,AFC Bournemouth (27)
+?,(Sat) 9 Jan 1971 (1),Cambridge United (6),1-1,?,Aldershot Town FC (27)
+?,(Sat) 30 Jan 1971 (4),Cambridge United (7),3-3,?,Barrow AFC (27)
+?,(Mon) 31 Aug 1970 (35),Cambridge United (8),1-0,?,Brentford FC (27)
+?,(Mon) 8 Mar 1971 (10),Cambridge United (9),1-1,?,Chester FC (5)
+?,(Sat) 5 Dec 1970 (48),Cambridge United (10),2-1,?,Colchester United (5)
+?,(Sat) 24 Apr 1971 (16),Cambridge United (11),1-0,?,Crewe Alexandra (5)
+?,(Sat) 2 Jan 1971 (0),Cambridge United (12),2-0,?,Darlington FC (5)
+?,(Sat) 6 Mar 1971 (9),Cambridge United (13),2-0,?,Exeter City (5)
+?,(Sat) 20 Mar 1971 (11),Cambridge United (14),2-3,?,Grimsby Town (5)
+?,(Sat) 26 Sep 1970 (38),Cambridge United (15),2-0,?,Hartlepool United (5)
+?,(Sat) 15 Aug 1970 (32),Cambridge United (16),1-1,?,Lincoln City (5)
+?,(Sat) 14 Nov 1970 (45),Cambridge United (17),3-2,?,Newport County AFC (5)
+?,(Sat) 19 Dec 1970 (50),Cambridge United (18),0-2,?,Northampton Town (5)
+?,(Sat) 10 Apr 1971 (14),Cambridge United (19),2-1,?,Notts County FC (5)
+?,(Sat) 29 Aug 1970 (34),Cambridge United (20),3-1,?,Oldham Athletic (5)
+?,(Sat) 10 Oct 1970 (40),Cambridge United (21),1-1,?,Peterborough United (5)
+?,(Sat) 27 Mar 1971 (12),Cambridge United (22),1-1,?,Scunthorpe United (5)
+?,(Sat) 31 Oct 1970 (43),Cambridge United (23),0-3,?,Southend United (5)
+?,(Sat) 12 Sep 1970 (36),Cambridge United (24),0-0,?,Southport FC (5)
+?,(Mon) 19 Oct 1970 (42),Cambridge United (25),1-1,?,Stockport County (5)
+?,(Mon) 9 Nov 1970 (45),Cambridge United (26),1-2,?,Workington (5)
+?,(Sat) 13 Feb 1971 (6),Cambridge United (27),1-1,?,York City (5)
+?,(Sat) 24 Oct 1970 (42),Chester FC (6),4-2,?,AFC Bournemouth (28)
+?,(Sat) 3 Oct 1970 (39),Chester FC (7),1-2,?,Aldershot Town FC (28)
+?,(Sat) 17 Apr 1971 (15),Chester FC (8),2-1,?,Barrow AFC (28)
+?,(Sat) 17 Oct 1970 (41),Chester FC (9),1-2,?,Brentford FC (28)
+?,(Wed) 23 Sep 1970 (38),Chester FC (10),2-1,?,Cambridge United (28)
+?,(Sat) 22 Aug 1970 (33),Chester FC (11),2-1,?,Colchester United (6)
+?,(Sat) 20 Feb 1971 (7),Chester FC (12),1-0,?,Crewe Alexandra (6)
+?,(Sat) 6 Feb 1971 (5),Chester FC (13),2-1,?,Darlington FC (6)
+?,(Sat) 19 Sep 1970 (37),Chester FC (14),3-1,?,Exeter City (6)
+?,(Wed) 7 Oct 1970 (40),Chester FC (15),5-0,?,Grimsby Town (6)
+?,(Sat) 28 Nov 1970 (47),Chester FC (16),0-1,?,Hartlepool United (6)
+?,(Wed) 2 Sep 1970 (35),Chester FC (17),1-0,?,Lincoln City (6)
+?,(Sat) 1 May 1971 (17),Chester FC (18),2-1,?,Newport County AFC (6)
+?,(Sat) 16 Jan 1971 (2),Chester FC (19),2-2,?,Northampton Town (6)
+?,(Sat) 23 Jan 1971 (3),Chester FC (20),2-1,?,Notts County FC (6)
+?,(Sat) 7 Nov 1970 (44),Chester FC (21),0-1,?,Oldham Athletic (6)
+?,(Sat) 27 Feb 1971 (8),Chester FC (22),2-0,?,Peterborough United (6)
+?,(Sat) 13 Mar 1971 (10),Chester FC (23),2-0,?,Scunthorpe United (6)
+?,(Wed) 17 Mar 1971 (11),Chester FC (24),2-0,?,Southend United (6)
+?,(Wed) 30 Sep 1970 (39),Chester FC (25),1-0,?,Southport FC (6)
+?,(Sat) 26 Dec 1970 (51),Chester FC (26),3-0,?,Stockport County (6)
+?,(Sat) 3 Apr 1971 (13),Chester FC (27),1-0,?,Workington (6)
+?,(Mon) 12 Apr 1971 (15),Chester FC (28),1-1,?,York City (6)
+?,(Fri) 23 Apr 1971 (16),Colchester United (7),1-1,?,AFC Bournemouth (29)
+?,(Fri) 30 Oct 1970 (43),Colchester United (8),5-2,?,Aldershot Town FC (29)
+?,(Mon) 26 Apr 1971 (17),Colchester United (9),4-1,?,Barrow AFC (29)
+?,(Sat) 28 Nov 1970 (47),Colchester United (10),4-0,?,Brentford FC (29)
+?,(Fri) 5 Feb 1971 (5),Colchester United (11),2-1,?,Cambridge United (29)
+?,(Fri) 18 Dec 1970 (50),Colchester United (12),0-1,?,Chester FC (29)
+?,(Fri) 25 Sep 1970 (38),Colchester United (13),3-0,?,Crewe Alexandra (7)
+?,(Mon) 8 Mar 1971 (10),Colchester United (14),2-0,?,Darlington FC (7)
+?,(Sat) 20 Mar 1971 (11),Colchester United (15),1-1,?,Exeter City (7)
+?,(Mon) 22 Feb 1971 (8),Colchester United (16),1-0,?,Grimsby Town (7)
+?,(Sat) 15 Aug 1970 (32),Colchester United (17),1-0,?,Hartlepool United (7)
+?,(Sat) 10 Apr 1971 (14),Colchester United (18),1-1,?,Lincoln City (7)
+?,(Sat) 20 Feb 1971 (7),Colchester United (19),4-2,?,Newport County AFC (7)
+?,(Sat) 29 Aug 1970 (34),Colchester United (20),1-1,?,Northampton Town (7)
+?,(Sat) 12 Sep 1970 (36),Colchester United (21),2-3,?,Notts County FC (7)
+?,(Fri) 9 Oct 1970 (40),Colchester United (22),1-2,?,Oldham Athletic (7)
+?,(Fri) 9 Apr 1971 (14),Colchester United (23),3-0,?,Peterborough United (7)
+?,(Mon) 22 Mar 1971 (12),Colchester United (24),2-0,?,Scunthorpe United (7)
+?,(Fri) 13 Nov 1970 (45),Colchester United (25),1-1,?,Southend United (7)
+?,(Sat) 27 Mar 1971 (12),Colchester United (26),1-0,?,Southport FC (7)
+?,(Fri) 7 May 1971 (18),Colchester United (27),1-1,?,Stockport County (7)
+?,(Fri) 8 Jan 1971 (1),Colchester United (28),2-1,?,Workington (7)
+?,(Mon) 19 Oct 1970 (42),Colchester United (29),1-0,?,York City (7)
+?,(Sat) 30 Jan 1971 (4),Crewe Alexandra (8),3-3,?,AFC Bournemouth (30)
+?,(Sat) 5 Sep 1970 (35),Crewe Alexandra (9),0-3,?,Aldershot Town FC (30)
+?,(Sat) 3 Apr 1971 (13),Crewe Alexandra (10),1-0,?,Barrow AFC (30)
+?,(Wed) 23 Sep 1970 (38),Crewe Alexandra (11),5-3,?,Brentford FC (30)
+?,(Sat) 19 Sep 1970 (37),Crewe Alexandra (12),1-2,?,Cambridge United (30)
+?,(Wed) 11 Nov 1970 (45),Crewe Alexandra (13),6-3,?,Chester FC (30)
+?,(Sat) 1 May 1971 (17),Crewe Alexandra (14),0-3,?,Colchester United (30)
+?,(Sat) 9 Jan 1971 (1),Crewe Alexandra (15),3-0,?,Darlington FC (8)
+?,(Fri) 9 Apr 1971 (14),Crewe Alexandra (16),4-1,?,Exeter City (8)
+?,(Wed) 17 Mar 1971 (11),Crewe Alexandra (17),4-0,?,Grimsby Town (8)
+?,(Wed) 21 Oct 1970 (42),Crewe Alexandra (18),1-0,?,Hartlepool United (8)
+?,(Sat) 13 Feb 1971 (6),Crewe Alexandra (19),3-1,?,Lincoln City (8)
+?,(Sat) 26 Dec 1970 (51),Crewe Alexandra (20),2-0,?,Newport County AFC (8)
+?,(Sat) 13 Mar 1971 (10),Crewe Alexandra (21),3-0,?,Northampton Town (8)
+?,(Wed) 28 Apr 1971 (17),Crewe Alexandra (22),1-2,?,Notts County FC (8)
+?,(Sat) 27 Feb 1971 (8),Crewe Alexandra (23),0-1,?,Oldham Athletic (8)
+?,(Sat) 5 Dec 1970 (48),Crewe Alexandra (24),1-3,?,Peterborough United (8)
+?,(Sat) 24 Oct 1970 (42),Crewe Alexandra (25),3-1,?,Scunthorpe United (8)
+?,(Sat) 17 Apr 1971 (15),Crewe Alexandra (26),1-2,?,Southend United (8)
+?,(Sat) 7 Nov 1970 (44),Crewe Alexandra (27),1-0,?,Southport FC (8)
+?,(Sat) 3 Oct 1970 (39),Crewe Alexandra (28),2-3,?,Stockport County (8)
+?,(Sat) 17 Oct 1970 (41),Crewe Alexandra (29),1-0,?,Workington (8)
+?,(Sat) 22 Aug 1970 (33),Crewe Alexandra (30),3-4,?,York City (8)
+?,(Sat) 7 Nov 1970 (44),Darlington FC (9),1-0,?,AFC Bournemouth (31)
+?,(Sat) 17 Apr 1971 (15),Darlington FC (10),1-2,?,Aldershot Town FC (31)
+?,(Sat) 17 Oct 1970 (41),Darlington FC (11),3-1,?,Barrow AFC (31)
+?,(Sat) 1 May 1971 (17),Darlington FC (12),2-1,?,Brentford FC (31)
+?,(Mon) 15 Mar 1971 (11),Darlington FC (13),2-0,?,Cambridge United (31)
+?,(Sat) 5 Dec 1970 (48),Darlington FC (14),5-1,?,Chester FC (31)
+?,(Mon) 21 Sep 1970 (38),Darlington FC (15),0-0,?,Colchester United (31)
+?,(Mon) 28 Sep 1970 (39),Darlington FC (16),0-1,?,Crewe Alexandra (31)
+?,(Sat) 5 Sep 1970 (35),Darlington FC (17),3-2,?,Exeter City (9)
+?,(Sat) 26 Dec 1970 (51),Darlington FC (18),5-1,?,Grimsby Town (9)
+?,(Mon) 26 Apr 1971 (17),Darlington FC (19),2-0,?,Hartlepool United (9)
+?,(Sat) 30 Jan 1971 (4),Darlington FC (20),3-2,?,Lincoln City (9)
+?,(Sat) 19 Sep 1970 (37),Darlington FC (21),2-1,?,Newport County AFC (9)
+?,(Sat) 24 Oct 1970 (42),Darlington FC (22),0-0,?,Northampton Town (9)
+?,(Sat) 16 Jan 1971 (2),Darlington FC (23),2-3,?,Notts County FC (9)
+?,(Sat) 13 Feb 1971 (6),Darlington FC (24),3-1,?,Oldham Athletic (9)
+?,(Sat) 13 Mar 1971 (10),Darlington FC (25),1-0,?,Peterborough United (9)
+?,(Mon) 9 Nov 1970 (45),Darlington FC (26),3-0,?,Scunthorpe United (9)
+?,(Sat) 3 Apr 1971 (13),Darlington FC (27),0-4,?,Southend United (9)
+?,(Sat) 27 Feb 1971 (8),Darlington FC (28),1-1,?,Southport FC (9)
+?,(Sat) 22 Aug 1970 (33),Darlington FC (29),1-0,?,Stockport County (9)
+?,(Mon) 12 Apr 1971 (15),Darlington FC (30),0-1,?,Workington (9)
+?,(Sat) 3 Oct 1970 (39),Darlington FC (31),2-0,?,York City (9)
+?,(Sat) 10 Apr 1971 (14),Exeter City (10),0-0,?,AFC Bournemouth (32)
+?,(Wed) 11 Nov 1970 (45),Exeter City (11),4-1,?,Aldershot Town FC (32)
+?,(Sat) 13 Mar 1971 (10),Exeter City (12),4-2,?,Barrow AFC (32)
+?,(Sat) 27 Feb 1971 (8),Exeter City (13),1-0,?,Brentford FC (32)
+?,(Sat) 24 Oct 1970 (42),Exeter City (14),1-0,?,Cambridge United (32)
+?,(Sat) 24 Apr 1971 (16),Exeter City (15),3-1,?,Chester FC (32)
+?,(Sat) 7 Nov 1970 (44),Exeter City (16),2-2,?,Colchester United (32)
+?,(Sat) 12 Sep 1970 (36),Exeter City (17),6-2,?,Crewe Alexandra (32)
+?,(Sat) 27 Mar 1971 (12),Exeter City (18),2-1,?,Darlington FC (32)
+?,(Wed) 21 Oct 1970 (42),Exeter City (19),4-0,?,Grimsby Town (10)
+?,(Sat) 10 Oct 1970 (40),Exeter City (20),1-1,?,Hartlepool United (10)
+?,(Mon) 12 Apr 1971 (15),Exeter City (21),0-0,?,Lincoln City (10)
+?,(Sat) 9 Jan 1971 (1),Exeter City (22),1-1,?,Newport County AFC (10)
+?,(Tue) 9 Feb 1971 (6),Exeter City (23),1-1,?,Northampton Town (10)
+?,(Sat) 26 Sep 1970 (38),Exeter City (24),0-1,?,Notts County FC (10)
+?,(Sat) 19 Dec 1970 (50),Exeter City (25),0-2,?,Oldham Athletic (10)
+?,(Sat) 29 Aug 1970 (34),Exeter City (26),3-2,?,Peterborough United (10)
+?,(Sat) 15 Aug 1970 (32),Exeter City (27),1-1,?,Scunthorpe United (10)
+?,(Wed) 2 Sep 1970 (35),Exeter City (28),2-0,?,Southend United (10)
+?,(Sat) 12 Dec 1970 (49),Exeter City (29),2-1,?,Southport FC (10)
+?,(Sat) 13 Feb 1971 (6),Exeter City (30),2-1,?,Stockport County (10)
+?,(Tue) 16 Feb 1971 (7),Exeter City (31),0-1,?,Workington (10)
+?,(Sat) 5 Dec 1970 (48),Exeter City (32),0-2,?,York City (10)
+?,(Sat) 19 Dec 1970 (50),Grimsby Town (11),1-0,?,AFC Bournemouth (33)
+?,(Sat) 30 Jan 1971 (4),Grimsby Town (12),0-2,?,Aldershot Town FC (33)
+?,(Tue) 10 Nov 1970 (45),Grimsby Town (13),3-1,?,Barrow AFC (33)
+?,(Sat) 13 Mar 1971 (10),Grimsby Town (14),1-5,?,Brentford FC (33)
+?,(Sat) 7 Nov 1970 (44),Grimsby Town (15),2-0,?,Cambridge United (33)
+?,(Sat) 27 Mar 1971 (12),Grimsby Town (16),2-2,?,Chester FC (33)
+?,(Tue) 20 Apr 1971 (16),Grimsby Town (17),3-1,?,Colchester United (33)
+?,(Tue) 4 May 1971 (18),Grimsby Town (18),2-0,?,Crewe Alexandra (33)
+?,(Sat) 10 Apr 1971 (14),Grimsby Town (19),1-1,?,Darlington FC (33)
+?,(Sat) 16 Jan 1971 (2),Grimsby Town (20),1-2,?,Exeter City (33)
+?,(Sat) 29 Aug 1970 (34),Grimsby Town (21),1-1,?,Hartlepool United (11)
+?,(Tue) 9 Mar 1971 (10),Grimsby Town (22),1-1,?,Lincoln City (11)
+?,(Tue) 27 Apr 1971 (17),Grimsby Town (23),2-0,?,Newport County AFC (11)
+?,(Sat) 12 Sep 1970 (36),Grimsby Town (24),0-2,?,Northampton Town (11)
+?,(Sat) 10 Oct 1970 (40),Grimsby Town (25),2-1,?,Notts County FC (11)
+?,(Sat) 15 Aug 1970 (32),Grimsby Town (26),4-1,?,Oldham Athletic (11)
+?,(Sat) 24 Apr 1971 (16),Grimsby Town (27),2-1,?,Peterborough United (11)
+?,(Fri) 9 Apr 1971 (14),Grimsby Town (28),1-0,?,Scunthorpe United (11)
+?,(Tue) 29 Sep 1970 (39),Grimsby Town (29),2-0,?,Southend United (11)
+?,(Sat) 26 Sep 1970 (38),Grimsby Town (30),1-2,?,Southport FC (11)
+?,(Sat) 5 Dec 1970 (48),Grimsby Town (31),1-2,?,Stockport County (11)
+?,(Sat) 27 Feb 1971 (8),Grimsby Town (32),1-0,?,Workington (11)
+?,(Sat) 24 Oct 1970 (42),Grimsby Town (33),3-1,?,York City (11)
+?,(Sat) 13 Mar 1971 (10),Hartlepool United (12),2-1,?,AFC Bournemouth (34)
+?,(Sat) 19 Sep 1970 (37),Hartlepool United (13),1-1,?,Aldershot Town FC (34)
+?,(Sat) 5 Sep 1970 (35),Hartlepool United (14),2-1,?,Barrow AFC (34)
+?,(Mon) 15 Mar 1971 (11),Hartlepool United (15),0-0,?,Brentford FC (34)
+?,(Sat) 1 May 1971 (17),Hartlepool United (16),0-0,?,Cambridge United (34)
+?,(Sat) 30 Jan 1971 (4),Hartlepool United (17),0-2,?,Chester FC (34)
+?,(Sat) 17 Oct 1970 (41),Hartlepool United (18),1-2,?,Colchester United (34)
+?,(Sat) 16 Jan 1971 (2),Hartlepool United (19),0-2,?,Crewe Alexandra (34)
+?,(Mon) 31 Aug 1970 (35),Hartlepool United (20),2-2,?,Darlington FC (34)
+?,(Sat) 17 Apr 1971 (15),Hartlepool United (21),3-0,?,Exeter City (34)
+?,(Sat) 3 Apr 1971 (13),Hartlepool United (22),2-2,?,Grimsby Town (34)
+?,(Sat) 5 Dec 1970 (48),Hartlepool United (23),0-0,?,Lincoln City (12)
+?,(Sat) 3 Oct 1970 (39),Hartlepool United (24),2-2,?,Newport County AFC (12)
+?,(Sat) 27 Feb 1971 (8),Hartlepool United (25),2-2,?,Northampton Town (12)
+?,(Wed) 30 Sep 1970 (39),Hartlepool United (26),2-1,?,Notts County FC (12)
+?,(Mon) 9 Nov 1970 (45),Hartlepool United (27),0-1,?,Oldham Athletic (12)
+?,(Sat) 7 Nov 1970 (44),Hartlepool United (28),1-2,?,Peterborough United (12)
+?,(Sat) 13 Feb 1971 (6),Hartlepool United (29),1-1,?,Scunthorpe United (12)
+?,(Mon) 21 Sep 1970 (38),Hartlepool United (30),0-1,?,Southend United (12)
+?,(Sat) 24 Oct 1970 (42),Hartlepool United (31),1-2,?,Southport FC (12)
+?,(Fri) 9 Apr 1971 (14),Hartlepool United (32),3-0,?,Stockport County (12)
+?,(Sat) 22 Aug 1970 (33),Hartlepool United (33),1-1,?,Workington (12)
+?,(Sat) 26 Dec 1970 (51),Hartlepool United (34),2-1,?,York City (12)
+?,(Sat) 27 Feb 1971 (8),Lincoln City (13),1-2,?,AFC Bournemouth (35)
+?,(Sat) 1 May 1971 (17),Lincoln City (14),4-4,?,Aldershot Town FC (35)
+?,(Fri) 9 Apr 1971 (14),Lincoln City (15),0-3,?,Barrow AFC (35)
+?,(Sat) 22 Aug 1970 (33),Lincoln City (16),2-0,?,Brentford FC (35)
+?,(Sat) 17 Oct 1970 (41),Lincoln City (17),0-1,?,Cambridge United (35)
+?,(Wed) 28 Apr 1971 (17),Lincoln City (18),2-0,?,Chester FC (35)
+?,(Sat) 26 Dec 1970 (51),Lincoln City (19),1-2,?,Colchester United (35)
+?,(Sat) 23 Jan 1971 (3),Lincoln City (20),2-2,?,Crewe Alexandra (35)
+?,(Sat) 28 Nov 1970 (47),Lincoln City (21),2-1,?,Darlington FC (35)
+?,(Sat) 3 Oct 1970 (39),Lincoln City (22),4-1,?,Exeter City (35)
+?,(Wed) 23 Sep 1970 (38),Lincoln City (23),3-0,?,Grimsby Town (35)
+?,(Sat) 6 Feb 1971 (5),Lincoln City (24),2-0,?,Hartlepool United (35)
+?,(Wed) 17 Mar 1971 (11),Lincoln City (25),1-1,?,Newport County AFC (13)
+?,(Wed) 18 Nov 1970 (46),Lincoln City (26),1-3,?,Northampton Town (13)
+?,(Sat) 20 Feb 1971 (7),Lincoln City (27),0-1,?,Notts County FC (13)
+?,(Sat) 13 Mar 1971 (10),Lincoln City (28),2-1,?,Oldham Athletic (13)
+?,(Sat) 24 Oct 1970 (42),Lincoln City (29),2-1,?,Peterborough United (13)
+?,(Sat) 7 Nov 1970 (44),Lincoln City (30),4-1,?,Scunthorpe United (13)
+?,(Sat) 19 Sep 1970 (37),Lincoln City (31),1-2,?,Southend United (13)
+?,(Sat) 16 Jan 1971 (2),Lincoln City (32),3-0,?,Southport FC (13)
+?,(Sat) 17 Apr 1971 (15),Lincoln City (33),1-1,?,Stockport County (13)
+?,(Sat) 5 Sep 1970 (35),Lincoln City (34),3-1,?,Workington (13)
+?,(Sat) 3 Apr 1971 (13),Lincoln City (35),4-5,?,York City (13)
+?,(Sat) 29 Aug 1970 (34),Newport County AFC (14),0-2,?,AFC Bournemouth (36)
+?,(Sat) 5 Dec 1970 (48),Newport County AFC (15),1-2,?,Aldershot Town FC (36)
+?,(Fri) 12 Feb 1971 (6),Newport County AFC (16),3-2,?,Barrow AFC (36)
+?,(Sat) 7 Nov 1970 (44),Newport County AFC (17),0-1,?,Brentford FC (36)
+?,(Fri) 12 Mar 1971 (10),Newport County AFC (18),2-0,?,Cambridge United (36)
+?,(Sat) 26 Sep 1970 (38),Newport County AFC (19),0-1,?,Chester FC (36)
+?,(Tue) 10 Nov 1970 (45),Newport County AFC (20),1-3,?,Colchester United (36)
+?,(Sat) 10 Apr 1971 (14),Newport County AFC (21),1-3,?,Crewe Alexandra (36)
+?,(Sat) 24 Apr 1971 (16),Newport County AFC (22),3-1,?,Darlington FC (36)
+?,(Tue) 29 Sep 1970 (39),Newport County AFC (23),0-1,?,Exeter City (36)
+?,(Tue) 1 Sep 1970 (35),Newport County AFC (24),0-1,?,Grimsby Town (36)
+?,(Tue) 13 Apr 1971 (15),Newport County AFC (25),2-0,?,Hartlepool United (36)
+?,(Tue) 20 Apr 1971 (16),Newport County AFC (26),2-2,?,Lincoln City (36)
+?,(Sat) 15 Aug 1970 (32),Newport County AFC (27),0-1,?,Northampton Town (14)
+?,(Tue) 9 Mar 1971 (10),Newport County AFC (28),2-1,?,Notts County FC (14)
+?,(Sat) 12 Sep 1970 (36),Newport County AFC (29),1-4,?,Oldham Athletic (14)
+?,(Sat) 27 Mar 1971 (12),Newport County AFC (30),2-0,?,Peterborough United (14)
+?,(Sat) 10 Oct 1970 (40),Newport County AFC (31),2-3,?,Scunthorpe United (14)
+?,(Fri) 15 Jan 1971 (2),Newport County AFC (32),3-0,?,Southend United (14)
+?,(Sat) 19 Dec 1970 (50),Newport County AFC (33),2-2,?,Southport FC (14)
+?,(Tue) 2 Mar 1971 (9),Newport County AFC (34),3-1,?,Stockport County (14)
+?,(Sat) 24 Oct 1970 (42),Newport County AFC (35),2-2,?,Workington (14)
+?,(Fri) 26 Feb 1971 (8),Newport County AFC (36),0-3,?,York City (14)
+?,(Sat) 13 Feb 1971 (6),Northampton Town (15),2-3,?,AFC Bournemouth (37)
+?,(Sat) 26 Dec 1970 (51),Northampton Town (16),2-0,?,Aldershot Town FC (37)
+?,(Sat) 19 Sep 1970 (37),Northampton Town (17),1-0,?,Barrow AFC (37)
+?,(Sat) 3 Oct 1970 (39),Northampton Town (18),1-0,?,Brentford FC (37)
+?,(Sat) 22 Aug 1970 (33),Northampton Town (19),2-1,?,Cambridge United (37)
+?,(Tue) 20 Oct 1970 (42),Northampton Town (20),3-1,?,Chester FC (37)
+?,(Sat) 3 Apr 1971 (13),Northampton Town (21),2-1,?,Colchester United (37)
+?,(Sat) 14 Nov 1970 (45),Northampton Town (22),1-1,?,Crewe Alexandra (37)
+?,(Fri) 5 Mar 1971 (9),Northampton Town (23),2-0,?,Darlington FC (37)
+?,(Tue) 16 Mar 1971 (11),Northampton Town (24),2-2,?,Exeter City (37)
+?,(Tue) 13 Apr 1971 (15),Northampton Town (25),0-4,?,Grimsby Town (37)
+?,(Sat) 31 Oct 1970 (43),Northampton Town (26),2-0,?,Hartlepool United (37)
+?,(Sat) 9 Jan 1971 (1),Northampton Town (27),2-1,?,Lincoln City (37)
+?,(Sat) 17 Oct 1970 (41),Northampton Town (28),1-0,?,Newport County AFC (37)
+?,(Sat) 20 Mar 1971 (11),Northampton Town (29),1-1,?,Notts County FC (15)
+?,(Sat) 5 Dec 1970 (48),Northampton Town (30),1-3,?,Oldham Athletic (15)
+?,(Tue) 10 Nov 1970 (45),Northampton Town (31),2-0,?,Peterborough United (15)
+?,(Sat) 30 Jan 1971 (4),Northampton Town (32),1-0,?,Scunthorpe United (15)
+?,(Sat) 1 May 1971 (17),Northampton Town (33),0-2,?,Southend United (15)
+?,(Tue) 1 Sep 1970 (35),Northampton Town (34),2-1,?,Southport FC (15)
+?,(Tue) 22 Sep 1970 (38),Northampton Town (35),1-1,?,Stockport County (15)
+?,(Sat) 17 Apr 1971 (15),Northampton Town (36),5-0,?,Workington (15)
+?,(Sat) 5 Sep 1970 (35),Northampton Town (37),3-2,?,York City (15)
+?,(Sat) 5 Dec 1970 (48),Notts County FC (16),2-1,?,AFC Bournemouth (38)
+?,(Sat) 3 Apr 1971 (13),Notts County FC (17),3-0,?,Aldershot Town FC (38)
+?,(Sat) 22 Aug 1970 (33),Notts County FC (18),3-1,?,Barrow AFC (38)
+?,(Sat) 19 Sep 1970 (37),Notts County FC (19),0-0,?,Brentford FC (38)
+?,(Sat) 26 Dec 1970 (51),Notts County FC (20),4-1,?,Cambridge United (38)
+?,(Sat) 13 Feb 1971 (6),Notts County FC (21),2-1,?,Chester FC (38)
+?,(Mon) 12 Apr 1971 (15),Notts County FC (22),4-0,?,Colchester United (38)
+?,(Wed) 2 Sep 1970 (35),Notts County FC (23),5-1,?,Crewe Alexandra (38)
+?,(Wed) 21 Oct 1970 (42),Notts County FC (24),3-0,?,Darlington FC (38)
+?,(Sat) 1 May 1971 (17),Notts County FC (25),1-1,?,Exeter City (38)
+?,(Sat) 17 Apr 1971 (15),Notts County FC (26),1-0,?,Grimsby Town (38)
+?,(Sat) 9 Jan 1971 (1),Notts County FC (27),3-0,?,Hartlepool United (38)
+?,(Wed) 11 Nov 1970 (45),Notts County FC (28),0-0,?,Lincoln City (38)
+?,(Wed) 23 Sep 1970 (38),Notts County FC (29),2-0,?,Newport County AFC (38)
+?,(Sat) 7 Nov 1970 (44),Notts County FC (30),1-0,?,Northampton Town (38)
+?,(Sat) 24 Oct 1970 (42),Notts County FC (31),2-0,?,Oldham Athletic (16)
+?,(Sat) 30 Jan 1971 (4),Notts County FC (32),6-0,?,Peterborough United (16)
+?,(Sat) 27 Feb 1971 (8),Notts County FC (33),3-0,?,Scunthorpe United (16)
+?,(Sat) 5 Sep 1970 (35),Notts County FC (34),2-1,?,Southend United (16)
+?,(Sat) 13 Mar 1971 (10),Notts County FC (35),3-1,?,Southport FC (16)
+?,(Wed) 17 Mar 1971 (11),Notts County FC (36),5-1,?,Stockport County (16)
+?,(Sat) 3 Oct 1970 (39),Notts County FC (37),2-2,?,Workington (16)
+?,(Sat) 17 Oct 1970 (41),Notts County FC (38),2-1,?,York City (16)
+?,(Tue) 20 Oct 1970 (42),Oldham Athletic (17),2-2,?,AFC Bournemouth (39)
+?,(Tue) 22 Sep 1970 (38),Oldham Athletic (18),5-2,?,Aldershot Town FC (39)
+?,(Sat) 26 Dec 1970 (51),Oldham Athletic (19),2-1,?,Barrow AFC (39)
+?,(Sat) 5 Sep 1970 (35),Oldham Athletic (20),5-1,?,Brentford FC (39)
+?,(Sat) 3 Apr 1971 (13),Oldham Athletic (21),4-1,?,Cambridge United (39)
+?,(Sat) 20 Mar 1971 (11),Oldham Athletic (22),1-1,?,Chester FC (39)
+?,(Sat) 17 Apr 1971 (15),Oldham Athletic (23),4-0,?,Colchester United (39)
+?,(Sat) 31 Oct 1970 (43),Oldham Athletic (24),5-3,?,Crewe Alexandra (39)
+?,(Sat) 23 Jan 1971 (3),Oldham Athletic (25),3-1,?,Darlington FC (39)
+?,(Sat) 22 Aug 1970 (33),Oldham Athletic (26),2-1,?,Exeter City (39)
+?,(Sat) 17 Oct 1970 (41),Oldham Athletic (27),1-0,?,Grimsby Town (39)
+?,(Tue) 30 Mar 1971 (13),Oldham Athletic (28),2-0,?,Hartlepool United (39)
+?,(Sat) 14 Nov 1970 (45),Oldham Athletic (29),4-2,?,Lincoln City (39)
+?,(Sat) 12 Dec 1970 (49),Oldham Athletic (30),4-0,?,Newport County AFC (39)
+?,(Sat) 6 Feb 1971 (5),Oldham Athletic (31),1-1,?,Northampton Town (39)
+?,(Sat) 6 Mar 1971 (9),Oldham Athletic (32),1-3,?,Notts County FC (39)
+?,(Sat) 9 Jan 1971 (1),Oldham Athletic (33),3-0,?,Peterborough United (17)
+?,(Tue) 6 Oct 1970 (40),Oldham Athletic (34),1-1,?,Scunthorpe United (17)
+?,(Sat) 3 Oct 1970 (39),Oldham Athletic (35),2-0,?,Southend United (17)
+?,(Sat) 28 Nov 1970 (47),Oldham Athletic (36),2-4,?,Southport FC (17)
+?,(Sat) 1 May 1971 (17),Oldham Athletic (37),1-1,?,Stockport County (17)
+?,(Sat) 19 Sep 1970 (37),Oldham Athletic (38),1-3,?,Workington (17)
+?,(Mon) 15 Mar 1971 (11),Oldham Athletic (39),1-1,?,York City (17)
+?,(Wed) 28 Apr 1971 (17),Peterborough United (18),3-1,?,AFC Bournemouth (40)
+?,(Sat) 22 Aug 1970 (33),Peterborough United (19),1-0,?,Aldershot Town FC (40)
+?,(Sat) 1 May 1971 (17),Peterborough United (20),4-0,?,Barrow AFC (40)
+?,(Mon) 12 Apr 1971 (15),Peterborough United (21),1-2,?,Brentford FC (40)
+?,(Sat) 17 Apr 1971 (15),Peterborough United (22),2-3,?,Cambridge United (40)
+?,(Sat) 31 Oct 1970 (43),Peterborough United (23),1-0,?,Chester FC (40)
+?,(Sat) 3 Oct 1970 (39),Peterborough United (24),1-2,?,Colchester United (40)
+?,(Sat) 6 Feb 1971 (5),Peterborough United (25),3-1,?,Crewe Alexandra (40)
+?,(Sat) 14 Nov 1970 (45),Peterborough United (26),0-1,?,Darlington FC (40)
+?,(Sat) 3 Apr 1971 (13),Peterborough United (27),1-3,?,Exeter City (40)
+?,(Sat) 19 Sep 1970 (37),Peterborough United (28),1-1,?,Grimsby Town (40)
+?,(Sat) 20 Mar 1971 (11),Peterborough United (29),5-0,?,Hartlepool United (40)
+?,(Sat) 6 Mar 1971 (9),Peterborough United (30),1-1,?,Lincoln City (40)
+?,(Sat) 5 Sep 1970 (35),Peterborough United (31),2-1,?,Newport County AFC (40)
+?,(Sat) 20 Feb 1971 (7),Peterborough United (32),1-0,?,Northampton Town (40)
+?,(Sat) 28 Nov 1970 (47),Peterborough United (33),1-1,?,Notts County FC (40)
+?,(Wed) 30 Sep 1970 (39),Peterborough United (34),2-1,?,Oldham Athletic (40)
+?,(Sat) 16 Jan 1971 (2),Peterborough United (35),1-2,?,Scunthorpe United (18)
+?,(Sat) 26 Dec 1970 (51),Peterborough United (36),4-0,?,Southend United (18)
+?,(Sat) 23 Jan 1971 (3),Peterborough United (37),1-0,?,Southport FC (18)
+?,(Sat) 17 Oct 1970 (41),Peterborough United (38),5-1,?,Stockport County (18)
+?,(Wed) 17 Mar 1971 (11),Peterborough United (39),3-1,?,Workington (18)
+?,(Wed) 23 Sep 1970 (38),Peterborough United (40),2-1,?,York City (18)
+?,(Sat) 9 Jan 1971 (1),Scunthorpe United (19),1-1,?,AFC Bournemouth (41)
+?,(Tue) 13 Apr 1971 (15),Scunthorpe United (20),2-1,?,Aldershot Town FC (41)
+?,(Tue) 22 Sep 1970 (38),Scunthorpe United (21),1-1,?,Barrow AFC (41)
+?,(Sat) 26 Dec 1970 (51),Scunthorpe United (22),1-1,?,Brentford FC (41)
+?,(Sat) 5 Sep 1970 (35),Scunthorpe United (23),0-0,?,Cambridge United (41)
+?,(Sat) 14 Nov 1970 (45),Scunthorpe United (24),0-2,?,Chester FC (41)
+?,(Tue) 16 Mar 1971 (11),Scunthorpe United (25),2-0,?,Colchester United (41)
+?,(Sat) 6 Mar 1971 (9),Scunthorpe United (26),1-1,?,Crewe Alexandra (41)
+?,(Sat) 20 Feb 1971 (7),Scunthorpe United (27),0-0,?,Darlington FC (41)
+?,(Sat) 17 Oct 1970 (41),Scunthorpe United (28),3-0,?,Exeter City (41)
+?,(Sat) 3 Oct 1970 (39),Scunthorpe United (29),1-2,?,Grimsby Town (41)
+?,(Sat) 23 Jan 1971 (3),Scunthorpe United (30),2-1,?,Hartlepool United (41)
+?,(Sat) 20 Mar 1971 (11),Scunthorpe United (31),3-1,?,Lincoln City (41)
+?,(Sat) 17 Apr 1971 (15),Scunthorpe United (32),0-1,?,Newport County AFC (41)
+?,(Sat) 28 Nov 1970 (47),Scunthorpe United (33),2-2,?,Northampton Town (41)
+?,(Sat) 31 Oct 1970 (43),Scunthorpe United (34),0-1,?,Notts County FC (41)
+?,(Tue) 1 Sep 1970 (35),Scunthorpe United (35),2-3,?,Oldham Athletic (41)
+?,(Tue) 20 Oct 1970 (42),Scunthorpe United (36),5-2,?,Peterborough United (41)
+?,(Sat) 22 Aug 1970 (33),Scunthorpe United (37),3-0,?,Southend United (19)
+?,(Sat) 6 Feb 1971 (5),Scunthorpe United (38),2-0,?,Southport FC (19)
+?,(Sat) 3 Apr 1971 (13),Scunthorpe United (39),1-2,?,Stockport County (19)
+?,(Sat) 1 May 1971 (17),Scunthorpe United (40),4-0,?,Workington (19)
+?,(Sat) 19 Sep 1970 (37),Scunthorpe United (41),0-1,?,York City (19)
+?,(Fri) 11 Sep 1970 (36),Southend United (20),1-2,?,AFC Bournemouth (42)
+?,(Fri) 12 Feb 1971 (6),Southend United (21),2-2,?,Aldershot Town FC (42)
+?,(Fri) 6 Nov 1970 (44),Southend United (22),2-3,?,Barrow AFC (42)
+?,(Sat) 24 Oct 1970 (42),Southend United (23),4-3,?,Brentford FC (42)
+?,(Fri) 26 Feb 1971 (8),Southend United (24),1-1,?,Cambridge United (42)
+?,(Mon) 22 Feb 1971 (8),Southend United (25),1-1,?,Chester FC (42)
+?,(Fri) 12 Mar 1971 (10),Southend United (26),1-1,?,Colchester United (42)
+?,(Fri) 9 Oct 1970 (40),Southend United (27),0-2,?,Crewe Alexandra (42)
+?,(Fri) 28 Aug 1970 (34),Southend United (28),0-0,?,Darlington FC (42)
+?,(Wed) 28 Apr 1971 (17),Southend United (29),0-0,?,Exeter City (42)
+?,(Fri) 8 Jan 1971 (1),Southend United (30),1-1,?,Grimsby Town (42)
+?,(Wed) 10 Mar 1971 (10),Southend United (31),2-0,?,Hartlepool United (42)
+?,(Mon) 3 May 1971 (18),Southend United (32),1-1,?,Lincoln City (42)
+?,(Wed) 21 Oct 1970 (42),Southend United (33),3-0,?,Newport County AFC (42)
+?,(Fri) 25 Sep 1970 (38),Southend United (34),1-0,?,Northampton Town (42)
+?,(Fri) 26 Mar 1971 (12),Southend United (35),1-0,?,Notts County FC (42)
+?,(Mon) 12 Apr 1971 (15),Southend United (36),3-0,?,Oldham Athletic (42)
+?,(Mon) 5 Apr 1971 (14),Southend United (37),1-2,?,Peterborough United (42)
+?,(Fri) 18 Dec 1970 (50),Southend United (38),2-2,?,Scunthorpe United (42)
+?,(Sat) 15 Aug 1970 (32),Southend United (39),1-1,?,Southport FC (20)
+?,(Mon) 9 Nov 1970 (45),Southend United (40),2-1,?,Stockport County (20)
+?,(Fri) 4 Dec 1970 (48),Southend United (41),1-1,?,Workington (20)
+?,(Fri) 29 Jan 1971 (4),Southend United (42),1-0,?,York City (20)
+?,(Tue) 10 Nov 1970 (45),Southport FC (21),0-1,?,AFC Bournemouth (43)
+?,(Wed) 17 Mar 1971 (11),Southport FC (22),3-3,?,Aldershot Town FC (43)
+?,(Fri) 2 Oct 1970 (39),Southport FC (23),1-0,?,Barrow AFC (43)
+?,(Sat) 3 Apr 1971 (13),Southport FC (24),2-0,?,Brentford FC (43)
+?,(Fri) 9 Apr 1971 (14),Southport FC (25),0-1,?,Cambridge United (43)
+?,(Sat) 9 Jan 1971 (1),Southport FC (26),2-0,?,Chester FC (43)
+?,(Fri) 4 Sep 1970 (35),Southport FC (27),2-1,?,Colchester United (43)
+?,(Fri) 19 Mar 1971 (11),Southport FC (28),1-0,?,Crewe Alexandra (43)
+?,(Fri) 30 Oct 1970 (43),Southport FC (29),0-3,?,Darlington FC (43)
+?,(Mon) 21 Sep 1970 (38),Southport FC (30),0-2,?,Exeter City (43)
+?,(Tue) 8 Sep 1970 (36),Southport FC (31),1-0,?,Grimsby Town (43)
+?,(Fri) 5 Mar 1971 (9),Southport FC (32),5-0,?,Hartlepool United (43)
+?,(Tue) 20 Oct 1970 (42),Southport FC (33),1-0,?,Lincoln City (43)
+?,(Fri) 21 Aug 1970 (33),Southport FC (34),6-1,?,Newport County AFC (43)
+?,(Mon) 26 Apr 1971 (17),Southport FC (35),2-1,?,Northampton Town (43)
+?,(Sat) 14 Nov 1970 (45),Southport FC (36),0-2,?,Notts County FC (43)
+?,(Fri) 29 Jan 1971 (4),Southport FC (37),1-4,?,Oldham Athletic (43)
+?,(Fri) 12 Feb 1971 (6),Southport FC (38),3-2,?,Peterborough United (43)
+?,(Fri) 4 Dec 1970 (48),Southport FC (39),5-1,?,Scunthorpe United (43)
+?,(Fri) 16 Oct 1970 (41),Southport FC (40),3-0,?,Southend United (43)
+?,(Fri) 18 Sep 1970 (37),Southport FC (41),1-0,?,Stockport County (21)
+?,(Sat) 26 Dec 1970 (51),Southport FC (42),1-0,?,Workington (21)
+?,(Fri) 16 Apr 1971 (15),Southport FC (43),2-2,?,York City (21)
+?,(Fri) 26 Mar 1971 (12),Stockport County (22),1-1,?,AFC Bournemouth (44)
+?,(Mon) 31 Aug 1970 (35),Stockport County (23),1-0,?,Aldershot Town FC (44)
+?,(Fri) 26 Feb 1971 (8),Stockport County (24),2-0,?,Barrow AFC (44)
+?,(Mon) 28 Sep 1970 (39),Stockport County (25),1-0,?,Brentford FC (44)
+?,(Fri) 15 Jan 1971 (2),Stockport County (26),0-1,?,Cambridge United (44)
+?,(Sat) 10 Apr 1971 (14),Stockport County (27),0-1,?,Chester FC (44)
+?,(Fri) 23 Oct 1970 (42),Stockport County (28),0-0,?,Colchester United (44)
+?,(Mon) 12 Apr 1971 (15),Stockport County (29),2-2,?,Crewe Alexandra (44)
+?,(Fri) 18 Dec 1970 (50),Stockport County (30),1-1,?,Darlington FC (44)
+?,(Fri) 22 Jan 1971 (3),Stockport County (31),0-3,?,Exeter City (44)
+?,(Fri) 5 Feb 1971 (5),Stockport County (32),1-0,?,Grimsby Town (44)
+?,(Fri) 11 Sep 1970 (36),Stockport County (33),2-1,?,Hartlepool United (44)
+?,(Fri) 9 Oct 1970 (40),Stockport County (34),4-3,?,Lincoln City (44)
+?,(Fri) 27 Nov 1970 (47),Stockport County (35),3-2,?,Newport County AFC (44)
+?,(Sat) 12 Dec 1970 (49),Stockport County (36),1-1,?,Northampton Town (44)
+?,(Mon) 22 Feb 1971 (8),Stockport County (37),1-0,?,Notts County FC (44)
+?,(Fri) 25 Sep 1970 (38),Stockport County (38),1-1,?,Oldham Athletic (44)
+?,(Sat) 15 Aug 1970 (32),Stockport County (39),0-0,?,Peterborough United (44)
+?,(Fri) 28 Aug 1970 (34),Stockport County (40),2-0,?,Scunthorpe United (44)
+?,(Fri) 19 Feb 1971 (7),Stockport County (41),0-0,?,Southend United (44)
+?,(Fri) 23 Apr 1971 (16),Stockport County (42),3-0,?,Southport FC (44)
+?,(Fri) 12 Mar 1971 (10),Stockport County (43),1-0,?,Workington (22)
+?,(Fri) 6 Nov 1970 (44),Stockport County (44),1-0,?,York City (22)
+?,(Wed) 10 Mar 1971 (10),Workington (23),1-0,?,AFC Bournemouth (45)
+?,(Sat) 20 Mar 1971 (11),Workington (24),4-0,?,Aldershot Town FC (45)
+?,(Sat) 16 Jan 1971 (2),Workington (25),2-1,?,Barrow AFC (45)
+?,(Wed) 24 Mar 1971 (12),Workington (26),1-1,?,Brentford FC (45)
+?,(Sat) 20 Feb 1971 (7),Workington (27),3-1,?,Cambridge United (45)
+?,(Sat) 29 Aug 1970 (34),Workington (28),1-0,?,Chester FC (45)
+?,(Wed) 30 Sep 1970 (39),Workington (29),1-1,?,Colchester United (45)
+?,(Sat) 15 Aug 1970 (32),Workington (30),1-1,?,Crewe Alexandra (45)
+?,(Sat) 12 Sep 1970 (36),Workington (31),0-0,?,Darlington FC (45)
+?,(Sat) 28 Nov 1970 (47),Workington (32),1-0,?,Exeter City (45)
+?,(Sat) 31 Oct 1970 (43),Workington (33),1-0,?,Grimsby Town (45)
+?,(Sat) 19 Dec 1970 (50),Workington (34),0-1,?,Hartlepool United (45)
+?,(Sat) 27 Mar 1971 (12),Workington (35),2-1,?,Lincoln City (45)
+?,(Sat) 6 Mar 1971 (9),Workington (36),2-1,?,Newport County AFC (45)
+?,(Sat) 10 Oct 1970 (40),Workington (37),2-0,?,Northampton Town (45)
+?,(Thu) 8 Apr 1971 (14),Workington (38),0-1,?,Notts County FC (45)
+?,(Sat) 24 Apr 1971 (16),Workington (39),0-0,?,Oldham Athletic (45)
+?,(Wed) 31 Mar 1971 (13),Workington (40),2-1,?,Peterborough United (45)
+?,(Sat) 26 Sep 1970 (38),Workington (41),0-0,?,Scunthorpe United (45)
+?,(Sat) 6 Feb 1971 (5),Workington (42),1-1,?,Southend United (45)
+?,(Sat) 10 Apr 1971 (14),Workington (43),2-1,?,Southport FC (45)
+?,(Fri) 13 Nov 1970 (45),Workington (44),0-1,?,Stockport County (45)
+?,(Tue) 27 Apr 1971 (17),Workington (45),1-0,?,York City (23)
+?,(Sat) 26 Sep 1970 (38),York City (24),1-1,?,AFC Bournemouth (46)
+?,(Fri) 13 Nov 1970 (45),York City (25),3-1,?,Aldershot Town FC (46)
+?,(Mon) 12 Oct 1970 (41),York City (26),4-3,?,Barrow AFC (46)
+?,(Sat) 20 Feb 1971 (7),York City (27),0-0,?,Brentford FC (46)
+?,(Mon) 1 Mar 1971 (9),York City (28),3-0,?,Cambridge United (46)
+?,(Sat) 12 Sep 1970 (36),York City (29),1-1,?,Chester FC (46)
+?,(Sat) 16 Jan 1971 (2),York City (30),1-1,?,Colchester United (46)
+?,(Sat) 19 Dec 1970 (50),York City (31),1-0,?,Crewe Alexandra (46)
+?,(Fri) 9 Apr 1971 (14),York City (32),2-0,?,Darlington FC (46)
+?,(Sat) 6 Feb 1971 (5),York City (33),2-2,?,Exeter City (46)
+?,(Fri) 5 Mar 1971 (9),York City (34),4-1,?,Grimsby Town (46)
+?,(Sat) 10 Apr 1971 (14),York City (35),4-0,?,Hartlepool United (46)
+?,(Sat) 29 Aug 1970 (34),York City (36),2-0,?,Lincoln City (46)
+?,(Fri) 30 Oct 1970 (43),York City (37),1-0,?,Newport County AFC (46)
+?,(Sat) 27 Mar 1971 (12),York City (38),4-1,?,Northampton Town (46)
+?,(Sat) 15 Aug 1970 (32),York City (39),0-0,?,Notts County FC (46)
+?,(Mon) 19 Apr 1971 (16),York City (40),0-1,?,Oldham Athletic (46)
+?,(Mon) 8 Mar 1971 (10),York City (41),2-1,?,Peterborough United (46)
+?,(Sat) 24 Apr 1971 (16),York City (42),2-0,?,Scunthorpe United (46)
+?,(Fri) 27 Nov 1970 (47),York City (43),3-0,?,Southend United (46)
+?,(Fri) 9 Oct 1970 (40),York City (44),2-0,?,Southport FC (46)
+?,(Fri) 19 Mar 1971 (11),York City (45),2-1,?,Stockport County (46)
+?,(Mon) 31 Aug 1970 (35),York City (46),1-0,?,Workington (46)

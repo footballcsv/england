@@ -1,381 +1,381 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aston Villa,Arsenal,0-1,-
--,-,Birmingham City,Arsenal,1-2,-
--,-,Blackburn Rovers,Arsenal,1-1,-
--,-,Bolton Wanderers,Arsenal,3-1,-
--,-,Bristol City,Arsenal,1-2,-
--,-,Bury,Arsenal,3-2,-
--,-,Chelsea,Arsenal,2-1,-
--,-,Everton,Arsenal,1-1,-
--,-,Liverpool,Arsenal,4-1,-
--,-,Manchester City,Arsenal,4-0,-
--,-,Manchester United,Arsenal,4-2,-
--,-,Middlesbrough,Arsenal,0-0,-
--,-,Newcastle United,Arsenal,2-1,-
--,-,Nottingham Forest,Arsenal,1-0,-
--,-,Notts County,Arsenal,2-0,-
--,-,Preston North End,Arsenal,3-0,-
--,-,Sheffield United,Arsenal,2-2,-
--,-,Sheffield Wednesday,Arsenal,6-0,-
--,-,Sunderland,Arsenal,5-2,-
--,-,Arsenal,Aston Villa,0-1,-
--,-,Birmingham City,Aston Villa,2-3,-
--,-,Blackburn Rovers,Aston Villa,2-0,-
--,-,Bolton Wanderers,Aston Villa,3-1,-
--,-,Bristol City,Aston Villa,2-2,-
--,-,Bury,Aston Villa,2-1,-
--,-,Chelsea,Aston Villa,1-3,-
--,-,Everton,Aston Villa,1-0,-
--,-,Liverpool,Aston Villa,5-0,-
--,-,Manchester City,Aston Villa,3-2,-
--,-,Manchester United,Aston Villa,1-2,-
--,-,Middlesbrough,Aston Villa,0-1,-
--,-,Newcastle United,Aston Villa,2-5,-
--,-,Nottingham Forest,Aston Villa,2-2,-
--,-,Notts County,Aston Villa,0-3,-
--,-,Preston North End,Aston Villa,3-0,-
--,-,Sheffield United,Aston Villa,1-1,-
--,-,Sheffield Wednesday,Aston Villa,2-3,-
--,-,Sunderland,Aston Villa,3-0,-
--,-,Arsenal,Birmingham City,1-1,-
--,-,Aston Villa,Birmingham City,2-3,-
--,-,Blackburn Rovers,Birmingham City,1-0,-
--,-,Bolton Wanderers,Birmingham City,1-0,-
--,-,Bristol City,Birmingham City,0-0,-
--,-,Bury,Birmingham City,1-0,-
--,-,Chelsea,Birmingham City,2-2,-
--,-,Everton,Birmingham City,4-1,-
--,-,Liverpool,Birmingham City,3-4,-
--,-,Manchester City,Birmingham City,2-1,-
--,-,Manchester United,Birmingham City,1-0,-
--,-,Middlesbrough,Birmingham City,1-0,-
--,-,Newcastle United,Birmingham City,8-0,-
--,-,Nottingham Forest,Birmingham City,1-1,-
--,-,Notts County,Birmingham City,0-0,-
--,-,Preston North End,Birmingham City,1-1,-
--,-,Sheffield United,Birmingham City,1-0,-
--,-,Sheffield Wednesday,Birmingham City,1-4,-
--,-,Sunderland,Birmingham City,1-0,-
--,-,Arsenal,Blackburn Rovers,2-0,-
--,-,Aston Villa,Blackburn Rovers,1-1,-
--,-,Birmingham City,Blackburn Rovers,1-1,-
--,-,Bolton Wanderers,Blackburn Rovers,3-1,-
--,-,Bristol City,Blackburn Rovers,2-2,-
--,-,Bury,Blackburn Rovers,1-1,-
--,-,Chelsea,Blackburn Rovers,1-0,-
--,-,Everton,Blackburn Rovers,4-1,-
--,-,Liverpool,Blackburn Rovers,2-0,-
--,-,Manchester City,Blackburn Rovers,2-0,-
--,-,Manchester United,Blackburn Rovers,1-2,-
--,-,Middlesbrough,Blackburn Rovers,3-0,-
--,-,Newcastle United,Blackburn Rovers,3-0,-
--,-,Nottingham Forest,Blackburn Rovers,3-2,-
--,-,Notts County,Blackburn Rovers,0-2,-
--,-,Preston North End,Blackburn Rovers,1-1,-
--,-,Sheffield United,Blackburn Rovers,4-2,-
--,-,Sheffield Wednesday,Blackburn Rovers,2-0,-
--,-,Sunderland,Blackburn Rovers,4-0,-
--,-,Arsenal,Bolton Wanderers,1-1,-
--,-,Aston Villa,Bolton Wanderers,2-0,-
--,-,Birmingham City,Bolton Wanderers,2-1,-
--,-,Blackburn Rovers,Bolton Wanderers,3-2,-
--,-,Bristol City,Bolton Wanderers,2-0,-
--,-,Bury,Bolton Wanderers,2-2,-
--,-,Chelsea,Bolton Wanderers,1-3,-
--,-,Everton,Bolton Wanderers,2-1,-
--,-,Liverpool,Bolton Wanderers,1-0,-
--,-,Manchester City,Bolton Wanderers,1-0,-
--,-,Manchester United,Bolton Wanderers,2-1,-
--,-,Middlesbrough,Bolton Wanderers,0-1,-
--,-,Newcastle United,Bolton Wanderers,3-0,-
--,-,Nottingham Forest,Bolton Wanderers,1-0,-
--,-,Notts County,Bolton Wanderers,0-1,-
--,-,Preston North End,Bolton Wanderers,2-0,-
--,-,Sheffield United,Bolton Wanderers,1-0,-
--,-,Sheffield Wednesday,Bolton Wanderers,5-2,-
--,-,Sunderland,Bolton Wanderers,1-2,-
--,-,Arsenal,Bristol City,0-4,-
--,-,Aston Villa,Bristol City,4-4,-
--,-,Birmingham City,Bristol City,0-4,-
--,-,Blackburn Rovers,Bristol City,4-1,-
--,-,Bolton Wanderers,Bristol City,1-2,-
--,-,Bury,Bristol City,1-1,-
--,-,Chelsea,Bristol City,4-1,-
--,-,Everton,Bristol City,0-0,-
--,-,Liverpool,Bristol City,3-1,-
--,-,Manchester City,Bristol City,0-0,-
--,-,Manchester United,Bristol City,2-1,-
--,-,Middlesbrough,Bristol City,0-2,-
--,-,Newcastle United,Bristol City,2-0,-
--,-,Nottingham Forest,Bristol City,3-1,-
--,-,Notts County,Bristol City,3-1,-
--,-,Preston North End,Bristol City,3-0,-
--,-,Sheffield United,Bristol City,2-0,-
--,-,Sheffield Wednesday,Bristol City,5-3,-
--,-,Sunderland,Bristol City,3-3,-
--,-,Arsenal,Bury,0-0,-
--,-,Aston Villa,Bury,2-2,-
--,-,Birmingham City,Bury,0-1,-
--,-,Blackburn Rovers,Bury,1-0,-
--,-,Bolton Wanderers,Bury,3-6,-
--,-,Bristol City,Bury,1-1,-
--,-,Chelsea,Bury,3-4,-
--,-,Everton,Bury,6-1,-
--,-,Liverpool,Bury,2-1,-
--,-,Manchester City,Bury,2-2,-
--,-,Manchester United,Bury,2-1,-
--,-,Middlesbrough,Bury,0-2,-
--,-,Newcastle United,Bury,3-0,-
--,-,Nottingham Forest,Bury,1-2,-
--,-,Notts County,Bury,2-1,-
--,-,Preston North End,Bury,3-1,-
--,-,Sheffield United,Bury,0-2,-
--,-,Sheffield Wednesday,Bury,2-0,-
--,-,Sunderland,Bury,6-2,-
--,-,Arsenal,Chelsea,0-0,-
--,-,Aston Villa,Chelsea,0-0,-
--,-,Birmingham City,Chelsea,1-1,-
--,-,Blackburn Rovers,Chelsea,2-0,-
--,-,Bolton Wanderers,Chelsea,1-2,-
--,-,Bristol City,Chelsea,0-0,-
--,-,Bury,Chelsea,1-1,-
--,-,Everton,Chelsea,0-3,-
--,-,Liverpool,Chelsea,1-4,-
--,-,Manchester City,Chelsea,0-3,-
--,-,Manchester United,Chelsea,1-0,-
--,-,Middlesbrough,Chelsea,3-1,-
--,-,Newcastle United,Chelsea,1-0,-
--,-,Nottingham Forest,Chelsea,6-0,-
--,-,Notts County,Chelsea,2-0,-
--,-,Preston North End,Chelsea,2-4,-
--,-,Sheffield United,Chelsea,0-3,-
--,-,Sheffield Wednesday,Chelsea,3-1,-
--,-,Sunderland,Chelsea,3-0,-
--,-,Arsenal,Everton,2-1,-
--,-,Aston Villa,Everton,0-2,-
--,-,Birmingham City,Everton,2-1,-
--,-,Blackburn Rovers,Everton,2-0,-
--,-,Bolton Wanderers,Everton,3-0,-
--,-,Bristol City,Everton,3-2,-
--,-,Bury,Everton,3-0,-
--,-,Chelsea,Everton,2-1,-
--,-,Liverpool,Everton,0-0,-
--,-,Manchester City,Everton,4-2,-
--,-,Manchester United,Everton,4-3,-
--,-,Middlesbrough,Everton,0-2,-
--,-,Newcastle United,Everton,2-1,-
--,-,Nottingham Forest,Everton,5-2,-
--,-,Notts County,Everton,2-1,-
--,-,Preston North End,Everton,2-2,-
--,-,Sheffield United,Everton,2-0,-
--,-,Sheffield Wednesday,Everton,1-2,-
--,-,Sunderland,Everton,1-2,-
--,-,Arsenal,Liverpool,2-1,-
--,-,Aston Villa,Liverpool,5-1,-
--,-,Birmingham City,Liverpool,1-1,-
--,-,Blackburn Rovers,Liverpool,1-3,-
--,-,Bolton Wanderers,Liverpool,0-4,-
--,-,Bristol City,Liverpool,2-0,-
--,-,Bury,Liverpool,3-1,-
--,-,Chelsea,Liverpool,0-2,-
--,-,Everton,Liverpool,2-4,-
--,-,Manchester City,Liverpool,1-1,-
--,-,Manchester United,Liverpool,4-0,-
--,-,Middlesbrough,Liverpool,3-1,-
--,-,Newcastle United,Liverpool,3-1,-
--,-,Nottingham Forest,Liverpool,3-1,-
--,-,Notts County,Liverpool,2-2,-
--,-,Preston North End,Liverpool,3-0,-
--,-,Sheffield United,Liverpool,0-0,-
--,-,Sheffield Wednesday,Liverpool,1-2,-
--,-,Sunderland,Liverpool,1-0,-
--,-,Arsenal,Manchester City,2-1,-
--,-,Aston Villa,Manchester City,2-2,-
--,-,Birmingham City,Manchester City,2-1,-
--,-,Blackburn Rovers,Manchester City,0-0,-
--,-,Bolton Wanderers,Manchester City,2-0,-
--,-,Bristol City,Manchester City,2-1,-
--,-,Bury,Manchester City,0-0,-
--,-,Chelsea,Manchester City,2-2,-
--,-,Everton,Manchester City,3-3,-
--,-,Liverpool,Manchester City,0-1,-
--,-,Manchester United,Manchester City,3-1,-
--,-,Middlesbrough,Manchester City,2-0,-
--,-,Newcastle United,Manchester City,1-1,-
--,-,Nottingham Forest,Manchester City,3-1,-
--,-,Notts County,Manchester City,1-0,-
--,-,Preston North End,Manchester City,2-4,-
--,-,Sheffield United,Manchester City,1-2,-
--,-,Sheffield Wednesday,Manchester City,5-1,-
--,-,Sunderland,Manchester City,2-5,-
--,-,Arsenal,Manchester United,1-0,-
--,-,Aston Villa,Manchester United,1-4,-
--,-,Birmingham City,Manchester United,3-4,-
--,-,Blackburn Rovers,Manchester United,1-5,-
--,-,Bolton Wanderers,Manchester United,2-2,-
--,-,Bristol City,Manchester United,1-1,-
--,-,Bury,Manchester United,0-1,-
--,-,Chelsea,Manchester United,1-4,-
--,-,Everton,Manchester United,1-3,-
--,-,Liverpool,Manchester United,7-4,-
--,-,Manchester City,Manchester United,0-0,-
--,-,Middlesbrough,Manchester United,2-1,-
--,-,Newcastle United,Manchester United,1-6,-
--,-,Nottingham Forest,Manchester United,2-0,-
--,-,Notts County,Manchester United,1-1,-
--,-,Preston North End,Manchester United,0-0,-
--,-,Sheffield United,Manchester United,2-0,-
--,-,Sheffield Wednesday,Manchester United,2-0,-
--,-,Sunderland,Manchester United,1-2,-
--,-,Arsenal,Middlesbrough,4-1,-
--,-,Aston Villa,Middlesbrough,6-0,-
--,-,Birmingham City,Middlesbrough,1-4,-
--,-,Blackburn Rovers,Middlesbrough,2-0,-
--,-,Bolton Wanderers,Middlesbrough,1-1,-
--,-,Bristol City,Middlesbrough,0-1,-
--,-,Bury,Middlesbrough,1-4,-
--,-,Chelsea,Middlesbrough,1-0,-
--,-,Everton,Middlesbrough,2-1,-
--,-,Liverpool,Middlesbrough,0-1,-
--,-,Manchester City,Middlesbrough,2-1,-
--,-,Manchester United,Middlesbrough,2-1,-
--,-,Newcastle United,Middlesbrough,1-1,-
--,-,Nottingham Forest,Middlesbrough,0-3,-
--,-,Notts County,Middlesbrough,2-0,-
--,-,Preston North End,Middlesbrough,1-1,-
--,-,Sheffield United,Middlesbrough,0-0,-
--,-,Sheffield Wednesday,Middlesbrough,3-2,-
--,-,Sunderland,Middlesbrough,0-0,-
--,-,Arsenal,Newcastle United,2-2,-
--,-,Aston Villa,Newcastle United,3-3,-
--,-,Birmingham City,Newcastle United,1-1,-
--,-,Blackburn Rovers,Newcastle United,1-1,-
--,-,Bolton Wanderers,Newcastle United,4-0,-
--,-,Bristol City,Newcastle United,1-1,-
--,-,Bury,Newcastle United,1-2,-
--,-,Chelsea,Newcastle United,2-0,-
--,-,Everton,Newcastle United,2-0,-
--,-,Liverpool,Newcastle United,1-5,-
--,-,Manchester City,Newcastle United,1-0,-
--,-,Manchester United,Newcastle United,1-1,-
--,-,Middlesbrough,Newcastle United,2-1,-
--,-,Nottingham Forest,Newcastle United,0-0,-
--,-,Notts County,Newcastle United,0-1,-
--,-,Preston North End,Newcastle United,2-0,-
--,-,Sheffield United,Newcastle United,1-1,-
--,-,Sheffield Wednesday,Newcastle United,3-1,-
--,-,Sunderland,Newcastle United,2-4,-
--,-,Arsenal,Nottingham Forest,3-1,-
--,-,Aston Villa,Nottingham Forest,4-0,-
--,-,Birmingham City,Nottingham Forest,1-0,-
--,-,Blackburn Rovers,Nottingham Forest,3-3,-
--,-,Bolton Wanderers,Nottingham Forest,1-0,-
--,-,Bristol City,Nottingham Forest,3-0,-
--,-,Bury,Nottingham Forest,0-0,-
--,-,Chelsea,Nottingham Forest,0-4,-
--,-,Everton,Nottingham Forest,1-0,-
--,-,Liverpool,Nottingham Forest,0-0,-
--,-,Manchester City,Nottingham Forest,4-2,-
--,-,Manchester United,Nottingham Forest,4-0,-
--,-,Middlesbrough,Nottingham Forest,1-1,-
--,-,Newcastle United,Nottingham Forest,3-0,-
--,-,Notts County,Nottingham Forest,2-0,-
--,-,Preston North End,Nottingham Forest,0-1,-
--,-,Sheffield United,Nottingham Forest,2-2,-
--,-,Sheffield Wednesday,Nottingham Forest,2-1,-
--,-,Sunderland,Nottingham Forest,7-2,-
--,-,Arsenal,Notts County,1-1,-
--,-,Aston Villa,Notts County,5-1,-
--,-,Birmingham City,Notts County,0-0,-
--,-,Blackburn Rovers,Notts County,1-1,-
--,-,Bolton Wanderers,Notts County,0-1,-
--,-,Bristol City,Notts County,2-1,-
--,-,Bury,Notts County,0-0,-
--,-,Chelsea,Notts County,1-2,-
--,-,Everton,Notts County,1-0,-
--,-,Liverpool,Notts County,6-0,-
--,-,Manchester City,Notts County,2-1,-
--,-,Manchester United,Notts County,0-1,-
--,-,Middlesbrough,Notts County,3-1,-
--,-,Newcastle United,Notts County,1-1,-
--,-,Nottingham Forest,Notts County,2-0,-
--,-,Preston North End,Notts County,1-0,-
--,-,Sheffield United,Notts County,0-1,-
--,-,Sheffield Wednesday,Notts County,2-0,-
--,-,Sunderland,Notts County,4-3,-
--,-,Arsenal,Preston North End,1-1,-
--,-,Aston Villa,Preston North End,3-0,-
--,-,Birmingham City,Preston North End,2-0,-
--,-,Blackburn Rovers,Preston North End,1-1,-
--,-,Bolton Wanderers,Preston North End,2-0,-
--,-,Bristol City,Preston North End,1-3,-
--,-,Bury,Preston North End,5-1,-
--,-,Chelsea,Preston North End,0-0,-
--,-,Everton,Preston North End,2-1,-
--,-,Liverpool,Preston North End,1-2,-
--,-,Manchester City,Preston North End,5-0,-
--,-,Manchester United,Preston North End,2-1,-
--,-,Middlesbrough,Preston North End,1-0,-
--,-,Newcastle United,Preston North End,0-0,-
--,-,Nottingham Forest,Preston North End,2-2,-
--,-,Notts County,Preston North End,0-1,-
--,-,Sheffield United,Preston North End,2-0,-
--,-,Sheffield Wednesday,Preston North End,1-0,-
--,-,Sunderland,Preston North End,4-1,-
--,-,Arsenal,Sheffield United,5-1,-
--,-,Aston Villa,Sheffield United,1-0,-
--,-,Birmingham City,Sheffield United,0-0,-
--,-,Blackburn Rovers,Sheffield United,3-3,-
--,-,Bolton Wanderers,Sheffield United,1-1,-
--,-,Bristol City,Sheffield United,3-2,-
--,-,Bury,Sheffield United,3-2,-
--,-,Chelsea,Sheffield United,2-4,-
--,-,Everton,Sheffield United,2-1,-
--,-,Liverpool,Sheffield United,3-0,-
--,-,Manchester City,Sheffield United,0-2,-
--,-,Manchester United,Sheffield United,2-1,-
--,-,Middlesbrough,Sheffield United,2-0,-
--,-,Newcastle United,Sheffield United,2-3,-
--,-,Nottingham Forest,Sheffield United,1-1,-
--,-,Notts County,Sheffield United,0-3,-
--,-,Preston North End,Sheffield United,0-0,-
--,-,Sheffield Wednesday,Sheffield United,2-0,-
--,-,Sunderland,Sheffield United,4-1,-
--,-,Arsenal,Sheffield Wednesday,1-1,-
--,-,Aston Villa,Sheffield Wednesday,5-0,-
--,-,Birmingham City,Sheffield Wednesday,2-1,-
--,-,Blackburn Rovers,Sheffield Wednesday,2-0,-
--,-,Bolton Wanderers,Sheffield Wednesday,2-1,-
--,-,Bristol City,Sheffield Wednesday,0-2,-
--,-,Bury,Sheffield Wednesday,0-2,-
--,-,Chelsea,Sheffield Wednesday,3-1,-
--,-,Everton,Sheffield Wednesday,0-0,-
--,-,Liverpool,Sheffield Wednesday,3-0,-
--,-,Manchester City,Sheffield Wednesday,3-2,-
--,-,Manchester United,Sheffield Wednesday,4-1,-
--,-,Middlesbrough,Sheffield Wednesday,6-1,-
--,-,Newcastle United,Sheffield Wednesday,2-1,-
--,-,Nottingham Forest,Sheffield Wednesday,2-2,-
--,-,Notts County,Sheffield Wednesday,1-2,-
--,-,Preston North End,Sheffield Wednesday,1-1,-
--,-,Sheffield United,Sheffield Wednesday,1-3,-
--,-,Sunderland,Sheffield Wednesday,1-2,-
--,-,Arsenal,Sunderland,4-0,-
--,-,Aston Villa,Sunderland,1-0,-
--,-,Birmingham City,Sunderland,0-2,-
--,-,Blackburn Rovers,Sunderland,4-2,-
--,-,Bolton Wanderers,Sunderland,2-3,-
--,-,Bristol City,Sunderland,3-0,-
--,-,Bury,Sunderland,2-1,-
--,-,Chelsea,Sunderland,2-1,-
--,-,Everton,Sunderland,0-3,-
--,-,Liverpool,Sunderland,1-0,-
--,-,Manchester City,Sunderland,0-0,-
--,-,Manchester United,Sunderland,3-0,-
--,-,Middlesbrough,Sunderland,3-1,-
--,-,Newcastle United,Sunderland,1-3,-
--,-,Nottingham Forest,Sunderland,4-1,-
--,-,Notts County,Sunderland,4-0,-
--,-,Preston North End,Sunderland,3-2,-
--,-,Sheffield United,Sunderland,5-3,-
--,-,Sheffield Wednesday,Sunderland,2-3,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 8 Feb 1908 (5),Arsenal FC (1),0-1,?,Aston Villa FC (1)
+?,(Sat) 14 Dec 1907 (49),Arsenal FC (2),1-1,?,Birmingham City (1)
+?,(Sat) 30 Nov 1907 (47),Arsenal FC (3),2-0,?,Blackburn Rovers (1)
+?,(Sat) 4 Apr 1908 (13),Arsenal FC (4),1-1,?,Bolton Wanderers (1)
+?,(Sat) 7 Sep 1907 (35),Arsenal FC (5),0-4,?,Bristol City FC (1)
+?,(Sat) 5 Oct 1907 (39),Arsenal FC (6),0-0,?,Bury FC (1)
+?,(Sat) 7 Mar 1908 (9),Arsenal FC (7),0-0,?,Chelsea FC (1)
+?,(Sat) 18 Apr 1908 (15),Arsenal FC (8),2-1,?,Everton FC (1)
+?,(Sat) 19 Oct 1907 (41),Arsenal FC (9),2-1,?,Liverpool FC (1)
+?,(Sat) 21 Sep 1907 (37),Arsenal FC (10),2-1,?,Manchester City (1)
+?,(Sat) 21 Mar 1908 (11),Arsenal FC (11),1-0,?,Manchester United (1)
+?,(Sat) 22 Feb 1908 (7),Arsenal FC (12),4-1,?,Middlesbrough FC (1)
+?,(Wed) 25 Dec 1907 (51),Arsenal FC (13),2-2,?,Newcastle United (1)
+?,(Sat) 16 Nov 1907 (45),Arsenal FC (14),3-1,?,Nottingham Forest (1)
+?,(Mon) 2 Sep 1907 (35),Arsenal FC (15),1-1,?,Notts County FC (1)
+?,(Sat) 25 Jan 1908 (3),Arsenal FC (16),1-1,?,Preston North End (1)
+?,(Sat) 2 Nov 1907 (43),Arsenal FC (17),5-1,?,Sheffield United FC (1)
+?,(Mon) 20 Apr 1908 (16),Arsenal FC (18),1-1,?,Sheffield Wednesday (1)
+?,(Sat) 28 Dec 1907 (51),Arsenal FC (19),4-0,?,Sunderland AFC (1)
+?,(Sat) 12 Oct 1907 (40),Aston Villa FC (2),0-1,?,Arsenal FC (20)
+?,(Sat) 18 Jan 1908 (2),Aston Villa FC (3),2-3,?,Birmingham City (2)
+?,(Sat) 4 Jan 1908 (0),Aston Villa FC (4),1-1,?,Blackburn Rovers (2)
+?,(Sat) 14 Sep 1907 (36),Aston Villa FC (5),2-0,?,Bolton Wanderers (2)
+?,(Sat) 26 Oct 1907 (42),Aston Villa FC (6),4-4,?,Bristol City FC (2)
+?,(Sat) 23 Nov 1907 (46),Aston Villa FC (7),2-2,?,Bury FC (2)
+?,(Sat) 28 Dec 1907 (51),Aston Villa FC (8),0-0,?,Chelsea FC (2)
+?,(Sat) 28 Sep 1907 (38),Aston Villa FC (9),0-2,?,Everton FC (2)
+?,(Sat) 4 Apr 1908 (13),Aston Villa FC (10),5-1,?,Liverpool FC (2)
+?,(Sat) 9 Nov 1907 (44),Aston Villa FC (11),2-2,?,Manchester City (2)
+?,(Mon) 2 Sep 1907 (35),Aston Villa FC (12),1-4,?,Manchester United (2)
+?,(Sat) 14 Dec 1907 (49),Aston Villa FC (13),6-0,?,Middlesbrough FC (2)
+?,(Sat) 30 Nov 1907 (47),Aston Villa FC (14),3-3,?,Newcastle United (2)
+?,(Wed) 25 Dec 1907 (51),Aston Villa FC (15),4-0,?,Nottingham Forest (2)
+?,(Mon) 2 Mar 1908 (9),Aston Villa FC (16),5-1,?,Notts County FC (2)
+?,(Sat) 14 Mar 1908 (10),Aston Villa FC (17),3-0,?,Preston North End (2)
+?,(Sat) 18 Apr 1908 (15),Aston Villa FC (18),1-0,?,Sheffield United FC (2)
+?,(Sat) 15 Feb 1908 (6),Aston Villa FC (19),5-0,?,Sheffield Wednesday (2)
+?,(Mon) 9 Sep 1907 (36),Aston Villa FC (20),1-0,?,Sunderland AFC (2)
+?,(Sat) 11 Apr 1908 (14),Birmingham City (3),1-2,?,Arsenal FC (21)
+?,(Sat) 21 Sep 1907 (37),Birmingham City (4),2-3,?,Aston Villa FC (21)
+?,(Sat) 7 Mar 1908 (9),Birmingham City (5),1-1,?,Blackburn Rovers (3)
+?,(Sat) 16 Nov 1907 (45),Birmingham City (6),2-1,?,Bolton Wanderers (3)
+?,(Sat) 25 Apr 1908 (16),Birmingham City (7),0-4,?,Bristol City FC (3)
+?,(Mon) 16 Sep 1907 (37),Birmingham City (8),0-1,?,Bury FC (3)
+?,(Sat) 19 Oct 1907 (41),Birmingham City (9),1-1,?,Chelsea FC (3)
+?,(Sat) 28 Mar 1908 (12),Birmingham City (10),2-1,?,Everton FC (3)
+?,(Sat) 25 Jan 1908 (3),Birmingham City (11),1-1,?,Liverpool FC (3)
+?,(Wed) 25 Dec 1907 (51),Birmingham City (12),2-1,?,Manchester City (3)
+?,(Sat) 2 Nov 1907 (43),Birmingham City (13),3-4,?,Manchester United (3)
+?,(Sat) 5 Oct 1907 (39),Birmingham City (14),1-4,?,Middlesbrough FC (3)
+?,(Sat) 21 Mar 1908 (11),Birmingham City (15),1-1,?,Newcastle United (3)
+?,(Mon) 30 Mar 1908 (13),Birmingham City (16),1-0,?,Nottingham Forest (3)
+?,(Thu) 26 Dec 1907 (51),Birmingham City (17),0-0,?,Notts County FC (3)
+?,(Sat) 7 Sep 1907 (35),Birmingham City (18),2-0,?,Preston North End (3)
+?,(Sat) 8 Feb 1908 (5),Birmingham City (19),0-0,?,Sheffield United FC (3)
+?,(Sat) 21 Dec 1907 (50),Birmingham City (20),2-1,?,Sheffield Wednesday (3)
+?,(Sat) 7 Dec 1907 (48),Birmingham City (21),0-2,?,Sunderland AFC (3)
+?,(Sat) 28 Mar 1908 (12),Blackburn Rovers (4),1-1,?,Arsenal FC (22)
+?,(Sat) 7 Sep 1907 (35),Blackburn Rovers (5),2-0,?,Aston Villa FC (22)
+?,(Sat) 9 Nov 1907 (44),Blackburn Rovers (6),1-0,?,Birmingham City (22)
+?,(Sat) 29 Feb 1908 (8),Blackburn Rovers (7),3-2,?,Bolton Wanderers (4)
+?,(Sat) 11 Apr 1908 (14),Blackburn Rovers (8),4-1,?,Bristol City FC (4)
+?,(Mon) 2 Sep 1907 (35),Blackburn Rovers (9),1-0,?,Bury FC (4)
+?,(Sat) 5 Oct 1907 (39),Blackburn Rovers (10),2-0,?,Chelsea FC (4)
+?,(Sat) 14 Mar 1908 (10),Blackburn Rovers (11),2-0,?,Everton FC (4)
+?,(Mon) 6 Apr 1908 (14),Blackburn Rovers (12),1-3,?,Liverpool FC (4)
+?,(Sat) 25 Apr 1908 (16),Blackburn Rovers (13),0-0,?,Manchester City (4)
+?,(Sat) 19 Oct 1907 (41),Blackburn Rovers (14),1-5,?,Manchester United (4)
+?,(Sat) 21 Sep 1907 (37),Blackburn Rovers (15),2-0,?,Middlesbrough FC (4)
+?,(Mon) 23 Mar 1908 (12),Blackburn Rovers (16),1-1,?,Newcastle United (4)
+?,(Sat) 8 Feb 1908 (5),Blackburn Rovers (17),3-3,?,Nottingham Forest (4)
+?,(Sat) 21 Dec 1907 (50),Blackburn Rovers (18),1-1,?,Notts County FC (4)
+?,(Wed) 1 Jan 1908 (0),Blackburn Rovers (19),1-1,?,Preston North End (4)
+?,(Sat) 25 Jan 1908 (3),Blackburn Rovers (20),3-3,?,Sheffield United FC (4)
+?,(Sat) 7 Dec 1907 (48),Blackburn Rovers (21),2-0,?,Sheffield Wednesday (4)
+?,(Sat) 23 Nov 1907 (46),Blackburn Rovers (22),4-2,?,Sunderland AFC (4)
+?,(Sat) 7 Dec 1907 (48),Bolton Wanderers (5),3-1,?,Arsenal FC (23)
+?,(Fri) 17 Apr 1908 (15),Bolton Wanderers (6),3-1,?,Aston Villa FC (23)
+?,(Sat) 14 Mar 1908 (10),Bolton Wanderers (7),1-0,?,Birmingham City (23)
+?,(Sat) 2 Nov 1907 (43),Bolton Wanderers (8),3-1,?,Blackburn Rovers (23)
+?,(Sat) 21 Dec 1907 (50),Bolton Wanderers (9),1-2,?,Bristol City FC (5)
+?,(Sat) 7 Sep 1907 (35),Bolton Wanderers (10),3-6,?,Bury FC (5)
+?,(Sat) 8 Feb 1908 (5),Bolton Wanderers (11),1-2,?,Chelsea FC (5)
+?,(Sat) 23 Nov 1907 (46),Bolton Wanderers (12),3-0,?,Everton FC (5)
+?,(Sat) 21 Sep 1907 (37),Bolton Wanderers (13),0-4,?,Liverpool FC (5)
+?,(Wed) 1 Jan 1908 (0),Bolton Wanderers (14),2-0,?,Manchester City (5)
+?,(Wed) 22 Apr 1908 (16),Bolton Wanderers (15),2-2,?,Manchester United (5)
+?,(Sat) 25 Jan 1908 (3),Bolton Wanderers (16),1-1,?,Middlesbrough FC (5)
+?,(Wed) 1 Apr 1908 (13),Bolton Wanderers (17),4-0,?,Newcastle United (5)
+?,(Sat) 19 Oct 1907 (41),Bolton Wanderers (18),1-0,?,Nottingham Forest (5)
+?,(Sat) 25 Apr 1908 (16),Bolton Wanderers (19),0-1,?,Notts County FC (5)
+?,(Thu) 2 Jan 1908 (0),Bolton Wanderers (20),2-0,?,Preston North End (5)
+?,(Sat) 5 Oct 1907 (39),Bolton Wanderers (21),1-1,?,Sheffield United FC (5)
+?,(Sat) 11 Apr 1908 (14),Bolton Wanderers (22),2-1,?,Sheffield Wednesday (5)
+?,(Sat) 28 Mar 1908 (12),Bolton Wanderers (23),2-3,?,Sunderland AFC (5)
+?,(Sat) 4 Jan 1908 (0),Bristol City FC (6),1-2,?,Arsenal FC (24)
+?,(Wed) 11 Mar 1908 (10),Bristol City FC (7),2-2,?,Aston Villa FC (24)
+?,(Sat) 28 Dec 1907 (51),Bristol City FC (8),0-0,?,Birmingham City (24)
+?,(Sat) 14 Dec 1907 (49),Bristol City FC (9),2-2,?,Blackburn Rovers (24)
+?,(Sat) 18 Apr 1908 (15),Bristol City FC (10),2-0,?,Bolton Wanderers (24)
+?,(Sat) 19 Oct 1907 (41),Bristol City FC (11),1-1,?,Bury FC (6)
+?,(Sat) 21 Mar 1908 (11),Bristol City FC (12),0-0,?,Chelsea FC (6)
+?,(Mon) 2 Sep 1907 (35),Bristol City FC (13),3-2,?,Everton FC (6)
+?,(Sat) 2 Nov 1907 (43),Bristol City FC (14),2-0,?,Liverpool FC (6)
+?,(Sat) 5 Oct 1907 (39),Bristol City FC (15),2-1,?,Manchester City (6)
+?,(Sat) 4 Apr 1908 (13),Bristol City FC (16),1-1,?,Manchester United (6)
+?,(Sat) 7 Mar 1908 (9),Bristol City FC (17),0-1,?,Middlesbrough FC (6)
+?,(Sat) 21 Sep 1907 (37),Bristol City FC (18),1-1,?,Newcastle United (6)
+?,(Sat) 30 Nov 1907 (47),Bristol City FC (19),3-0,?,Nottingham Forest (6)
+?,(Sat) 25 Jan 1908 (3),Bristol City FC (20),2-1,?,Notts County FC (6)
+?,(Sat) 8 Feb 1908 (5),Bristol City FC (21),1-3,?,Preston North End (6)
+?,(Sat) 16 Nov 1907 (45),Bristol City FC (22),3-2,?,Sheffield United FC (6)
+?,(Sat) 14 Sep 1907 (36),Bristol City FC (23),0-2,?,Sheffield Wednesday (6)
+?,(Mon) 20 Apr 1908 (16),Bristol City FC (24),3-0,?,Sunderland AFC (6)
+?,(Mon) 9 Sep 1907 (36),Bury FC (7),3-2,?,Arsenal FC (25)
+?,(Sat) 21 Mar 1908 (11),Bury FC (8),2-1,?,Aston Villa FC (25)
+?,(Sat) 14 Sep 1907 (36),Bury FC (9),1-0,?,Birmingham City (25)
+?,(Fri) 17 Apr 1908 (15),Bury FC (10),1-1,?,Blackburn Rovers (25)
+?,(Sat) 4 Jan 1908 (0),Bury FC (11),2-2,?,Bolton Wanderers (25)
+?,(Sat) 15 Feb 1908 (6),Bury FC (12),1-1,?,Bristol City FC (25)
+?,(Sat) 18 Apr 1908 (15),Bury FC (13),1-1,?,Chelsea FC (7)
+?,(Sat) 18 Jan 1908 (2),Bury FC (14),3-0,?,Everton FC (7)
+?,(Sat) 28 Mar 1908 (12),Bury FC (15),3-1,?,Liverpool FC (7)
+?,(Sat) 29 Feb 1908 (8),Bury FC (16),0-0,?,Manchester City (7)
+?,(Wed) 1 Jan 1908 (0),Bury FC (17),0-1,?,Manchester United (7)
+?,(Sat) 4 Apr 1908 (13),Bury FC (18),1-4,?,Middlesbrough FC (7)
+?,(Sat) 16 Nov 1907 (45),Bury FC (19),1-2,?,Newcastle United (7)
+?,(Sat) 28 Dec 1907 (51),Bury FC (20),0-0,?,Nottingham Forest (7)
+?,(Sat) 26 Oct 1907 (42),Bury FC (21),0-0,?,Notts County FC (7)
+?,(Sat) 9 Nov 1907 (44),Bury FC (22),5-1,?,Preston North End (7)
+?,(Sat) 14 Dec 1907 (49),Bury FC (23),3-2,?,Sheffield United FC (7)
+?,(Sat) 12 Oct 1907 (40),Bury FC (24),0-2,?,Sheffield Wednesday (7)
+?,(Sat) 28 Sep 1907 (38),Bury FC (25),2-1,?,Sunderland AFC (7)
+?,(Sat) 9 Nov 1907 (44),Chelsea FC (8),2-1,?,Arsenal FC (26)
+?,(Sat) 25 Apr 1908 (16),Chelsea FC (9),1-3,?,Aston Villa FC (26)
+?,(Sat) 15 Feb 1908 (6),Chelsea FC (10),2-2,?,Birmingham City (26)
+?,(Mon) 2 Dec 1907 (48),Chelsea FC (11),1-0,?,Blackburn Rovers (26)
+?,(Sat) 12 Oct 1907 (40),Chelsea FC (12),1-3,?,Bolton Wanderers (26)
+?,(Sat) 23 Nov 1907 (46),Chelsea FC (13),4-1,?,Bristol City FC (26)
+?,(Sat) 21 Dec 1907 (50),Chelsea FC (14),3-4,?,Bury FC (26)
+?,(Sat) 26 Oct 1907 (42),Chelsea FC (15),2-1,?,Everton FC (8)
+?,(Mon) 20 Apr 1908 (16),Chelsea FC (16),0-2,?,Liverpool FC (8)
+?,(Sat) 7 Dec 1907 (48),Chelsea FC (17),2-2,?,Manchester City (8)
+?,(Sat) 28 Sep 1907 (38),Chelsea FC (18),1-4,?,Manchester United (8)
+?,(Thu) 26 Dec 1907 (51),Chelsea FC (19),1-0,?,Middlesbrough FC (8)
+?,(Mon) 23 Sep 1907 (38),Chelsea FC (20),2-0,?,Newcastle United (8)
+?,(Sat) 18 Jan 1908 (2),Chelsea FC (21),0-4,?,Nottingham Forest (8)
+?,(Wed) 29 Apr 1908 (17),Chelsea FC (22),1-2,?,Notts County FC (8)
+?,(Sat) 11 Apr 1908 (14),Chelsea FC (23),0-0,?,Preston North End (8)
+?,(Sat) 7 Sep 1907 (35),Chelsea FC (24),2-4,?,Sheffield United FC (8)
+?,(Sat) 14 Mar 1908 (10),Chelsea FC (25),3-1,?,Sheffield Wednesday (8)
+?,(Sat) 29 Feb 1908 (8),Chelsea FC (26),2-1,?,Sunderland AFC (8)
+?,(Sat) 21 Dec 1907 (50),Everton FC (9),1-1,?,Arsenal FC (27)
+?,(Sat) 25 Jan 1908 (3),Everton FC (10),1-0,?,Aston Villa FC (27)
+?,(Wed) 18 Mar 1908 (11),Everton FC (11),4-1,?,Birmingham City (27)
+?,(Sat) 16 Nov 1907 (45),Everton FC (12),4-1,?,Blackburn Rovers (27)
+?,(Sat) 21 Mar 1908 (11),Everton FC (13),2-1,?,Bolton Wanderers (27)
+?,(Thu) 26 Dec 1907 (51),Everton FC (14),0-0,?,Bristol City FC (27)
+?,(Sat) 21 Sep 1907 (37),Everton FC (15),6-1,?,Bury FC (27)
+?,(Wed) 1 Apr 1908 (13),Everton FC (16),0-3,?,Chelsea FC (27)
+?,(Sat) 5 Oct 1907 (39),Everton FC (17),2-4,?,Liverpool FC (9)
+?,(Sat) 7 Sep 1907 (35),Everton FC (18),3-3,?,Manchester City (9)
+?,(Wed) 8 Apr 1908 (14),Everton FC (19),1-3,?,Manchester United (9)
+?,(Sat) 8 Feb 1908 (5),Everton FC (20),2-1,?,Middlesbrough FC (9)
+?,(Sat) 4 Apr 1908 (13),Everton FC (21),2-0,?,Newcastle United (9)
+?,(Sat) 2 Nov 1907 (43),Everton FC (22),1-0,?,Nottingham Forest (9)
+?,(Mon) 20 Apr 1908 (16),Everton FC (23),1-0,?,Notts County FC (9)
+?,(Mon) 9 Sep 1907 (36),Everton FC (24),2-1,?,Preston North End (9)
+?,(Sat) 19 Oct 1907 (41),Everton FC (25),2-1,?,Sheffield United FC (9)
+?,(Sat) 25 Apr 1908 (16),Everton FC (26),0-0,?,Sheffield Wednesday (9)
+?,(Sat) 11 Apr 1908 (14),Everton FC (27),0-3,?,Sunderland AFC (9)
+?,(Sat) 15 Feb 1908 (6),Liverpool FC (10),4-1,?,Arsenal FC (28)
+?,(Sat) 7 Dec 1907 (48),Liverpool FC (11),5-0,?,Aston Villa FC (28)
+?,(Sat) 28 Sep 1907 (38),Liverpool FC (12),3-4,?,Birmingham City (28)
+?,(Sat) 14 Sep 1907 (36),Liverpool FC (13),2-0,?,Blackburn Rovers (28)
+?,(Sat) 18 Jan 1908 (2),Liverpool FC (14),1-0,?,Bolton Wanderers (28)
+?,(Sat) 29 Feb 1908 (8),Liverpool FC (15),3-1,?,Bristol City FC (28)
+?,(Mon) 27 Apr 1908 (17),Liverpool FC (16),2-1,?,Bury FC (28)
+?,(Wed) 25 Dec 1907 (51),Liverpool FC (17),1-4,?,Chelsea FC (28)
+?,(Fri) 17 Apr 1908 (15),Liverpool FC (18),0-0,?,Everton FC (28)
+?,(Sat) 14 Mar 1908 (10),Liverpool FC (19),0-1,?,Manchester City (10)
+?,(Wed) 25 Mar 1908 (12),Liverpool FC (20),7-4,?,Manchester United (10)
+?,(Sat) 18 Apr 1908 (15),Liverpool FC (21),0-1,?,Middlesbrough FC (10)
+?,(Sat) 14 Dec 1907 (49),Liverpool FC (22),1-5,?,Newcastle United (10)
+?,(Wed) 1 Jan 1908 (0),Liverpool FC (23),0-0,?,Nottingham Forest (10)
+?,(Sat) 9 Nov 1907 (44),Liverpool FC (24),6-0,?,Notts County FC (10)
+?,(Sat) 23 Nov 1907 (46),Liverpool FC (25),1-2,?,Preston North End (10)
+?,(Sat) 28 Dec 1907 (51),Liverpool FC (26),3-0,?,Sheffield United FC (10)
+?,(Sat) 26 Oct 1907 (42),Liverpool FC (27),3-0,?,Sheffield Wednesday (10)
+?,(Sat) 12 Oct 1907 (40),Liverpool FC (28),1-0,?,Sunderland AFC (10)
+?,(Sat) 18 Jan 1908 (2),Manchester City (11),4-0,?,Arsenal FC (29)
+?,(Sat) 7 Mar 1908 (9),Manchester City (12),3-2,?,Aston Villa FC (29)
+?,(Fri) 17 Apr 1908 (15),Manchester City (13),2-1,?,Birmingham City (29)
+?,(Sat) 28 Dec 1907 (51),Manchester City (14),2-0,?,Blackburn Rovers (29)
+?,(Thu) 26 Dec 1907 (51),Manchester City (15),1-0,?,Bolton Wanderers (29)
+?,(Tue) 21 Apr 1908 (16),Manchester City (16),0-0,?,Bristol City FC (29)
+?,(Sat) 2 Nov 1907 (43),Manchester City (17),2-2,?,Bury FC (29)
+?,(Sat) 4 Apr 1908 (13),Manchester City (18),0-3,?,Chelsea FC (29)
+?,(Sat) 4 Jan 1908 (0),Manchester City (19),4-2,?,Everton FC (29)
+?,(Sat) 16 Nov 1907 (45),Manchester City (20),1-1,?,Liverpool FC (29)
+?,(Sat) 18 Apr 1908 (15),Manchester City (21),0-0,?,Manchester United (11)
+?,(Sat) 21 Mar 1908 (11),Manchester City (22),2-1,?,Middlesbrough FC (11)
+?,(Sat) 19 Oct 1907 (41),Manchester City (23),1-0,?,Newcastle United (11)
+?,(Sat) 14 Dec 1907 (49),Manchester City (24),4-2,?,Nottingham Forest (11)
+?,(Sat) 12 Oct 1907 (40),Manchester City (25),2-1,?,Notts County FC (11)
+?,(Mon) 6 Apr 1908 (14),Manchester City (26),5-0,?,Preston North End (11)
+?,(Wed) 11 Mar 1908 (10),Manchester City (27),0-2,?,Sheffield United FC (11)
+?,(Sat) 28 Sep 1907 (38),Manchester City (28),3-2,?,Sheffield Wednesday (11)
+?,(Sat) 14 Sep 1907 (36),Manchester City (29),0-0,?,Sunderland AFC (11)
+?,(Sat) 23 Nov 1907 (46),Manchester United (12),4-2,?,Arsenal FC (30)
+?,(Mon) 20 Apr 1908 (16),Manchester United (13),1-2,?,Aston Villa FC (30)
+?,(Sat) 29 Feb 1908 (8),Manchester United (14),1-0,?,Birmingham City (30)
+?,(Sat) 15 Feb 1908 (6),Manchester United (15),1-2,?,Blackburn Rovers (30)
+?,(Sat) 26 Oct 1907 (42),Manchester United (16),2-1,?,Bolton Wanderers (30)
+?,(Sat) 7 Dec 1907 (48),Manchester United (17),2-1,?,Bristol City FC (30)
+?,(Wed) 25 Dec 1907 (51),Manchester United (18),2-1,?,Bury FC (30)
+?,(Sat) 25 Jan 1908 (3),Manchester United (19),1-0,?,Chelsea FC (30)
+?,(Sat) 9 Nov 1907 (44),Manchester United (20),4-3,?,Everton FC (30)
+?,(Sat) 7 Sep 1907 (35),Manchester United (21),4-0,?,Liverpool FC (30)
+?,(Sat) 21 Dec 1907 (50),Manchester United (22),3-1,?,Manchester City (30)
+?,(Mon) 9 Sep 1907 (36),Manchester United (23),2-1,?,Middlesbrough FC (12)
+?,(Sat) 8 Feb 1908 (5),Manchester United (24),1-1,?,Newcastle United (12)
+?,(Sat) 5 Oct 1907 (39),Manchester United (25),4-0,?,Nottingham Forest (12)
+?,(Sat) 11 Apr 1908 (14),Manchester United (26),0-1,?,Notts County FC (12)
+?,(Sat) 25 Apr 1908 (16),Manchester United (27),2-1,?,Preston North End (12)
+?,(Sat) 21 Sep 1907 (37),Manchester United (28),2-1,?,Sheffield United FC (12)
+?,(Sat) 28 Mar 1908 (12),Manchester United (29),4-1,?,Sheffield Wednesday (12)
+?,(Sat) 14 Mar 1908 (10),Manchester United (30),3-0,?,Sunderland AFC (12)
+?,(Sat) 26 Oct 1907 (42),Middlesbrough FC (13),0-0,?,Arsenal FC (31)
+?,(Sat) 11 Apr 1908 (14),Middlesbrough FC (14),0-1,?,Aston Villa FC (31)
+?,(Wed) 4 Sep 1907 (35),Middlesbrough FC (15),1-0,?,Birmingham City (31)
+?,(Sat) 18 Jan 1908 (2),Middlesbrough FC (16),3-0,?,Blackburn Rovers (31)
+?,(Sat) 28 Sep 1907 (38),Middlesbrough FC (17),0-1,?,Bolton Wanderers (31)
+?,(Sat) 9 Nov 1907 (44),Middlesbrough FC (18),0-2,?,Bristol City FC (31)
+?,(Sat) 7 Dec 1907 (48),Middlesbrough FC (19),0-2,?,Bury FC (31)
+?,(Wed) 1 Jan 1908 (0),Middlesbrough FC (20),3-1,?,Chelsea FC (31)
+?,(Sat) 12 Oct 1907 (40),Middlesbrough FC (21),0-2,?,Everton FC (31)
+?,(Sat) 21 Dec 1907 (50),Middlesbrough FC (22),3-1,?,Liverpool FC (31)
+?,(Sat) 23 Nov 1907 (46),Middlesbrough FC (23),2-0,?,Manchester City (31)
+?,(Sat) 14 Sep 1907 (36),Middlesbrough FC (24),2-1,?,Manchester United (31)
+?,(Mon) 20 Apr 1908 (16),Middlesbrough FC (25),2-1,?,Newcastle United (13)
+?,(Sat) 4 Jan 1908 (0),Middlesbrough FC (26),1-1,?,Nottingham Forest (13)
+?,(Sat) 14 Mar 1908 (10),Middlesbrough FC (27),3-1,?,Notts County FC (13)
+?,(Sat) 28 Mar 1908 (12),Middlesbrough FC (28),1-0,?,Preston North End (13)
+?,(Sat) 1 Feb 1908 (4),Middlesbrough FC (29),2-0,?,Sheffield United FC (13)
+?,(Wed) 8 Apr 1908 (14),Middlesbrough FC (30),6-1,?,Sheffield Wednesday (13)
+?,(Sat) 15 Feb 1908 (6),Middlesbrough FC (31),3-1,?,Sunderland AFC (13)
+?,(Fri) 17 Apr 1908 (15),Newcastle United (14),2-1,?,Arsenal FC (32)
+?,(Wed) 8 Apr 1908 (14),Newcastle United (15),2-5,?,Aston Villa FC (32)
+?,(Sat) 23 Nov 1907 (46),Newcastle United (16),8-0,?,Birmingham City (32)
+?,(Sat) 26 Oct 1907 (42),Newcastle United (17),3-0,?,Blackburn Rovers (32)
+?,(Sat) 9 Nov 1907 (44),Newcastle United (18),3-0,?,Bolton Wanderers (32)
+?,(Sat) 18 Jan 1908 (2),Newcastle United (19),2-0,?,Bristol City FC (32)
+?,(Sat) 14 Mar 1908 (10),Newcastle United (20),3-0,?,Bury FC (32)
+?,(Sat) 14 Sep 1907 (36),Newcastle United (21),1-0,?,Chelsea FC (32)
+?,(Sat) 7 Dec 1907 (48),Newcastle United (22),2-1,?,Everton FC (32)
+?,(Sat) 11 Apr 1908 (14),Newcastle United (23),3-1,?,Liverpool FC (32)
+?,(Sat) 15 Feb 1908 (6),Newcastle United (24),1-1,?,Manchester City (32)
+?,(Sat) 12 Oct 1907 (40),Newcastle United (25),1-6,?,Manchester United (32)
+?,(Sat) 28 Dec 1907 (51),Newcastle United (26),1-1,?,Middlesbrough FC (32)
+?,(Sat) 28 Sep 1907 (38),Newcastle United (27),3-0,?,Nottingham Forest (14)
+?,(Wed) 4 Sep 1907 (35),Newcastle United (28),1-1,?,Notts County FC (14)
+?,(Wed) 11 Mar 1908 (10),Newcastle United (29),0-0,?,Preston North End (14)
+?,(Thu) 26 Dec 1907 (51),Newcastle United (30),2-3,?,Sheffield United FC (14)
+?,(Sat) 4 Jan 1908 (0),Newcastle United (31),2-1,?,Sheffield Wednesday (14)
+?,(Sat) 18 Apr 1908 (15),Newcastle United (32),1-3,?,Sunderland AFC (14)
+?,(Sat) 14 Mar 1908 (10),Nottingham Forest (15),1-0,?,Arsenal FC (33)
+?,(Thu) 26 Dec 1907 (51),Nottingham Forest (16),2-2,?,Aston Villa FC (33)
+?,(Sat) 26 Oct 1907 (42),Nottingham Forest (17),1-1,?,Birmingham City (33)
+?,(Sat) 12 Oct 1907 (40),Nottingham Forest (18),3-2,?,Blackburn Rovers (33)
+?,(Sat) 15 Feb 1908 (6),Nottingham Forest (19),1-0,?,Bolton Wanderers (33)
+?,(Sat) 28 Mar 1908 (12),Nottingham Forest (20),3-1,?,Bristol City FC (33)
+?,(Sat) 25 Apr 1908 (16),Nottingham Forest (21),1-2,?,Bury FC (33)
+?,(Sat) 21 Sep 1907 (37),Nottingham Forest (22),6-0,?,Chelsea FC (33)
+?,(Sat) 29 Feb 1908 (8),Nottingham Forest (23),5-2,?,Everton FC (33)
+?,(Mon) 2 Sep 1907 (35),Nottingham Forest (24),3-1,?,Liverpool FC (33)
+?,(Sat) 11 Apr 1908 (14),Nottingham Forest (25),3-1,?,Manchester City (33)
+?,(Fri) 17 Apr 1908 (15),Nottingham Forest (26),2-0,?,Manchester United (33)
+?,(Sat) 7 Sep 1907 (35),Nottingham Forest (27),0-3,?,Middlesbrough FC (33)
+?,(Sat) 25 Jan 1908 (3),Nottingham Forest (28),0-0,?,Newcastle United (33)
+?,(Sat) 7 Dec 1907 (48),Nottingham Forest (29),2-0,?,Notts County FC (15)
+?,(Sat) 21 Dec 1907 (50),Nottingham Forest (30),2-2,?,Preston North End (15)
+?,(Mon) 20 Apr 1908 (16),Nottingham Forest (31),1-1,?,Sheffield United FC (15)
+?,(Sat) 23 Nov 1907 (46),Nottingham Forest (32),2-2,?,Sheffield Wednesday (15)
+?,(Sat) 9 Nov 1907 (44),Nottingham Forest (33),4-1,?,Sunderland AFC (15)
+?,(Sat) 14 Sep 1907 (36),Notts County FC (16),2-0,?,Arsenal FC (34)
+?,(Sat) 2 Nov 1907 (43),Notts County FC (17),0-3,?,Aston Villa FC (34)
+?,(Fri) 27 Dec 1907 (51),Notts County FC (18),0-0,?,Birmingham City (34)
+?,(Sat) 18 Apr 1908 (15),Notts County FC (19),0-2,?,Blackburn Rovers (34)
+?,(Sat) 28 Dec 1907 (51),Notts County FC (20),0-1,?,Bolton Wanderers (34)
+?,(Sat) 28 Sep 1907 (38),Notts County FC (21),3-1,?,Bristol City FC (34)
+?,(Thu) 3 Oct 1907 (39),Notts County FC (22),2-1,?,Bury FC (34)
+?,(Sat) 30 Nov 1907 (47),Notts County FC (23),2-0,?,Chelsea FC (34)
+?,(Wed) 25 Dec 1907 (51),Notts County FC (24),2-1,?,Everton FC (34)
+?,(Sat) 7 Mar 1908 (9),Notts County FC (25),2-2,?,Liverpool FC (34)
+?,(Sat) 8 Feb 1908 (5),Notts County FC (26),1-0,?,Manchester City (34)
+?,(Sat) 14 Dec 1907 (49),Notts County FC (27),1-1,?,Manchester United (34)
+?,(Sat) 16 Nov 1907 (45),Notts County FC (28),2-0,?,Middlesbrough FC (34)
+?,(Sat) 5 Oct 1907 (39),Notts County FC (29),0-1,?,Newcastle United (34)
+?,(Sat) 4 Apr 1908 (13),Notts County FC (30),2-0,?,Nottingham Forest (34)
+?,(Sat) 19 Oct 1907 (41),Notts County FC (31),0-1,?,Preston North End (16)
+?,(Sat) 21 Mar 1908 (11),Notts County FC (32),0-3,?,Sheffield United FC (16)
+?,(Sat) 18 Jan 1908 (2),Notts County FC (33),1-2,?,Sheffield Wednesday (16)
+?,(Sat) 4 Jan 1908 (0),Notts County FC (34),4-0,?,Sunderland AFC (16)
+?,(Sat) 28 Sep 1907 (38),Preston North End (17),3-0,?,Arsenal FC (35)
+?,(Sat) 16 Nov 1907 (45),Preston North End (18),3-0,?,Aston Villa FC (35)
+?,(Sat) 4 Jan 1908 (0),Preston North End (19),1-1,?,Birmingham City (35)
+?,(Thu) 26 Dec 1907 (51),Preston North End (20),1-1,?,Blackburn Rovers (35)
+?,(Wed) 25 Dec 1907 (51),Preston North End (21),2-0,?,Bolton Wanderers (35)
+?,(Sat) 12 Oct 1907 (40),Preston North End (22),3-0,?,Bristol City FC (35)
+?,(Sat) 7 Mar 1908 (9),Preston North End (23),3-1,?,Bury FC (35)
+?,(Sat) 14 Dec 1907 (49),Preston North End (24),2-4,?,Chelsea FC (35)
+?,(Sat) 14 Sep 1907 (36),Preston North End (25),2-2,?,Everton FC (35)
+?,(Sat) 21 Mar 1908 (11),Preston North End (26),3-0,?,Liverpool FC (35)
+?,(Sat) 26 Oct 1907 (42),Preston North End (27),2-4,?,Manchester City (35)
+?,(Sat) 28 Dec 1907 (51),Preston North End (28),0-0,?,Manchester United (35)
+?,(Sat) 30 Nov 1907 (47),Preston North End (29),1-1,?,Middlesbrough FC (35)
+?,(Sat) 2 Nov 1907 (43),Preston North End (30),2-0,?,Newcastle United (35)
+?,(Sat) 18 Apr 1908 (15),Preston North End (31),0-1,?,Nottingham Forest (35)
+?,(Sat) 15 Feb 1908 (6),Preston North End (32),1-0,?,Notts County FC (35)
+?,(Sat) 4 Apr 1908 (13),Preston North End (33),0-0,?,Sheffield United FC (17)
+?,(Mon) 2 Sep 1907 (35),Preston North End (34),1-1,?,Sheffield Wednesday (17)
+?,(Sat) 18 Jan 1908 (2),Preston North End (35),3-2,?,Sunderland AFC (17)
+?,(Sat) 29 Feb 1908 (8),Sheffield United FC (18),2-2,?,Arsenal FC (36)
+?,(Sat) 21 Dec 1907 (50),Sheffield United FC (19),1-1,?,Aston Villa FC (36)
+?,(Sat) 12 Oct 1907 (40),Sheffield United FC (20),1-0,?,Birmingham City (36)
+?,(Sat) 28 Sep 1907 (38),Sheffield United FC (21),4-2,?,Blackburn Rovers (36)
+?,(Mon) 30 Dec 1907 (52),Sheffield United FC (22),1-0,?,Bolton Wanderers (36)
+?,(Sat) 14 Mar 1908 (10),Sheffield United FC (23),2-0,?,Bristol City FC (36)
+?,(Sat) 11 Apr 1908 (14),Sheffield United FC (24),0-2,?,Bury FC (36)
+?,(Sat) 4 Jan 1908 (0),Sheffield United FC (25),0-3,?,Chelsea FC (36)
+?,(Sat) 15 Feb 1908 (6),Sheffield United FC (26),2-0,?,Everton FC (36)
+?,(Mon) 16 Sep 1907 (37),Sheffield United FC (27),0-0,?,Liverpool FC (36)
+?,(Sat) 28 Mar 1908 (12),Sheffield United FC (28),1-2,?,Manchester City (36)
+?,(Sat) 18 Jan 1908 (2),Sheffield United FC (29),2-0,?,Manchester United (36)
+?,(Wed) 25 Dec 1907 (51),Sheffield United FC (30),0-0,?,Middlesbrough FC (36)
+?,(Wed) 1 Jan 1908 (0),Sheffield United FC (31),1-1,?,Newcastle United (36)
+?,(Sat) 14 Sep 1907 (36),Sheffield United FC (32),2-2,?,Nottingham Forest (36)
+?,(Sat) 23 Nov 1907 (46),Sheffield United FC (33),0-1,?,Notts County FC (36)
+?,(Sat) 7 Dec 1907 (48),Sheffield United FC (34),2-0,?,Preston North End (36)
+?,(Sat) 9 Nov 1907 (44),Sheffield United FC (35),1-3,?,Sheffield Wednesday (18)
+?,(Sat) 26 Oct 1907 (42),Sheffield United FC (36),5-3,?,Sunderland AFC (18)
+?,(Tue) 31 Dec 1907 (52),Sheffield Wednesday (19),6-0,?,Arsenal FC (37)
+?,(Sat) 19 Oct 1907 (41),Sheffield Wednesday (20),2-3,?,Aston Villa FC (37)
+?,(Sat) 18 Apr 1908 (15),Sheffield Wednesday (21),1-4,?,Birmingham City (37)
+?,(Sat) 4 Apr 1908 (13),Sheffield Wednesday (22),2-0,?,Blackburn Rovers (37)
+?,(Sat) 14 Dec 1907 (49),Sheffield Wednesday (23),5-2,?,Bolton Wanderers (37)
+?,(Mon) 23 Sep 1907 (38),Sheffield Wednesday (24),5-3,?,Bristol City FC (37)
+?,(Sat) 8 Feb 1908 (5),Sheffield Wednesday (25),2-0,?,Bury FC (37)
+?,(Sat) 16 Nov 1907 (45),Sheffield Wednesday (26),3-1,?,Chelsea FC (37)
+?,(Sat) 28 Dec 1907 (51),Sheffield Wednesday (27),1-2,?,Everton FC (37)
+?,(Mon) 9 Mar 1908 (10),Sheffield Wednesday (28),1-2,?,Liverpool FC (37)
+?,(Sat) 25 Jan 1908 (3),Sheffield Wednesday (29),5-1,?,Manchester City (37)
+?,(Sat) 30 Nov 1907 (47),Sheffield Wednesday (30),2-0,?,Manchester United (37)
+?,(Sat) 2 Nov 1907 (43),Sheffield Wednesday (31),3-2,?,Middlesbrough FC (37)
+?,(Sat) 7 Sep 1907 (35),Sheffield Wednesday (32),3-1,?,Newcastle United (37)
+?,(Sat) 21 Mar 1908 (11),Sheffield Wednesday (33),2-1,?,Nottingham Forest (37)
+?,(Sat) 21 Sep 1907 (37),Sheffield Wednesday (34),2-0,?,Notts County FC (37)
+?,(Sat) 5 Oct 1907 (39),Sheffield Wednesday (35),1-0,?,Preston North End (37)
+?,(Sat) 7 Mar 1908 (9),Sheffield Wednesday (36),2-0,?,Sheffield United FC (37)
+?,(Thu) 26 Dec 1907 (51),Sheffield Wednesday (37),2-3,?,Sunderland AFC (19)
+?,(Wed) 1 Jan 1908 (0),Sunderland AFC (20),5-2,?,Arsenal FC (38)
+?,(Sat) 5 Oct 1907 (39),Sunderland AFC (21),3-0,?,Aston Villa FC (38)
+?,(Sat) 4 Apr 1908 (13),Sunderland AFC (22),1-0,?,Birmingham City (38)
+?,(Sat) 21 Mar 1908 (11),Sunderland AFC (23),4-0,?,Blackburn Rovers (38)
+?,(Sat) 30 Nov 1907 (47),Sunderland AFC (24),1-2,?,Bolton Wanderers (38)
+?,(Wed) 25 Dec 1907 (51),Sunderland AFC (25),3-3,?,Bristol City FC (38)
+?,(Sat) 25 Jan 1908 (3),Sunderland AFC (26),6-2,?,Bury FC (38)
+?,(Sat) 2 Nov 1907 (43),Sunderland AFC (27),3-0,?,Chelsea FC (38)
+?,(Sat) 14 Dec 1907 (49),Sunderland AFC (28),1-2,?,Everton FC (38)
+?,(Sat) 8 Feb 1908 (5),Sunderland AFC (29),1-0,?,Liverpool FC (38)
+?,(Mon) 2 Sep 1907 (35),Sunderland AFC (30),2-5,?,Manchester City (38)
+?,(Sat) 16 Nov 1907 (45),Sunderland AFC (31),1-2,?,Manchester United (38)
+?,(Sat) 19 Oct 1907 (41),Sunderland AFC (32),0-0,?,Middlesbrough FC (38)
+?,(Sat) 21 Dec 1907 (50),Sunderland AFC (33),2-4,?,Newcastle United (38)
+?,(Sat) 7 Mar 1908 (9),Sunderland AFC (34),7-2,?,Nottingham Forest (38)
+?,(Sat) 7 Sep 1907 (35),Sunderland AFC (35),4-3,?,Notts County FC (38)
+?,(Sat) 21 Sep 1907 (37),Sunderland AFC (36),4-1,?,Preston North End (38)
+?,(Sat) 22 Feb 1908 (7),Sunderland AFC (37),4-1,?,Sheffield United FC (38)
+?,(Fri) 17 Apr 1908 (15),Sunderland AFC (38),1-2,?,Sheffield Wednesday (38)

@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Bristol City,Brentford,0-1,-
--,-,Bristol Rovers,Brentford,1-2,-
--,-,Burnley,Brentford,0-0,-
--,-,Carlisle United,Brentford,1-0,-
--,-,Chester,Brentford,1-2,-
--,-,Chesterfield,Brentford,0-2,-
--,-,Doncaster Rovers,Brentford,1-0,-
--,-,Exeter City,Brentford,3-1,-
--,-,Fulham,Brentford,1-2,-
--,-,Gillingham,Brentford,1-1,-
--,-,Huddersfield Town,Brentford,1-1,-
--,-,Lincoln City,Brentford,1-0,-
--,-,Millwall,Brentford,0-1,-
--,-,Newport County,Brentford,2-0,-
--,-,Oxford United,Brentford,1-2,-
--,-,Plymouth Argyle,Brentford,1-0,-
--,-,Portsmouth,Brentford,2-2,-
--,-,Preston North End,Brentford,1-3,-
--,-,Reading,Brentford,4-1,-
--,-,Southend United,Brentford,1-1,-
--,-,Swindon Town,Brentford,0-3,-
--,-,Walsall,Brentford,3-0,-
--,-,Wimbledon,Brentford,1-2,-
--,-,Brentford,Bristol City,0-1,-
--,-,Bristol Rovers,Bristol City,1-0,-
--,-,Burnley,Bristol City,2-0,-
--,-,Carlisle United,Bristol City,2-2,-
--,-,Chester,Bristol City,0-0,-
--,-,Chesterfield,Bristol City,1-0,-
--,-,Doncaster Rovers,Bristol City,2-2,-
--,-,Exeter City,Bristol City,4-0,-
--,-,Fulham,Bristol City,2-1,-
--,-,Gillingham,Bristol City,1-1,-
--,-,Huddersfield Town,Bristol City,5-0,-
--,-,Lincoln City,Bristol City,1-2,-
--,-,Millwall,Bristol City,2-0,-
--,-,Newport County,Bristol City,1-1,-
--,-,Oxford United,Bristol City,1-0,-
--,-,Plymouth Argyle,Bristol City,2-1,-
--,-,Portsmouth,Bristol City,2-0,-
--,-,Preston North End,Bristol City,1-3,-
--,-,Reading,Bristol City,3-1,-
--,-,Southend United,Bristol City,3-0,-
--,-,Swindon Town,Bristol City,0-0,-
--,-,Walsall,Bristol City,0-1,-
--,-,Wimbledon,Bristol City,0-0,-
--,-,Brentford,Bristol Rovers,1-0,-
--,-,Bristol City,Bristol Rovers,1-2,-
--,-,Burnley,Bristol Rovers,4-0,-
--,-,Carlisle United,Bristol Rovers,1-2,-
--,-,Chester,Bristol Rovers,1-1,-
--,-,Chesterfield,Bristol Rovers,2-0,-
--,-,Doncaster Rovers,Bristol Rovers,4-2,-
--,-,Exeter City,Bristol Rovers,1-3,-
--,-,Fulham,Bristol Rovers,4-2,-
--,-,Gillingham,Bristol Rovers,2-0,-
--,-,Huddersfield Town,Bristol Rovers,0-2,-
--,-,Lincoln City,Bristol Rovers,1-0,-
--,-,Millwall,Bristol Rovers,0-0,-
--,-,Newport County,Bristol Rovers,1-1,-
--,-,Oxford United,Bristol Rovers,1-1,-
--,-,Plymouth Argyle,Bristol Rovers,4-0,-
--,-,Portsmouth,Bristol Rovers,0-0,-
--,-,Preston North End,Bristol Rovers,0-1,-
--,-,Reading,Bristol Rovers,0-3,-
--,-,Southend United,Bristol Rovers,1-0,-
--,-,Swindon Town,Bristol Rovers,5-2,-
--,-,Walsall,Bristol Rovers,2-1,-
--,-,Wimbledon,Bristol Rovers,1-0,-
--,-,Brentford,Burnley,0-0,-
--,-,Bristol City,Burnley,2-3,-
--,-,Bristol Rovers,Burnley,2-1,-
--,-,Carlisle United,Burnley,1-0,-
--,-,Chester,Burnley,0-1,-
--,-,Chesterfield,Burnley,1-2,-
--,-,Doncaster Rovers,Burnley,0-1,-
--,-,Exeter City,Burnley,2-1,-
--,-,Fulham,Burnley,1-1,-
--,-,Gillingham,Burnley,3-1,-
--,-,Huddersfield Town,Burnley,1-2,-
--,-,Lincoln City,Burnley,1-1,-
--,-,Millwall,Burnley,4-3,-
--,-,Newport County,Burnley,0-0,-
--,-,Oxford United,Burnley,0-0,-
--,-,Plymouth Argyle,Burnley,1-1,-
--,-,Portsmouth,Burnley,1-2,-
--,-,Preston North End,Burnley,1-1,-
--,-,Reading,Burnley,1-1,-
--,-,Southend United,Burnley,1-4,-
--,-,Swindon Town,Burnley,1-2,-
--,-,Walsall,Burnley,1-1,-
--,-,Wimbledon,Burnley,0-0,-
--,-,Brentford,Carlisle United,1-2,-
--,-,Bristol City,Carlisle United,1-1,-
--,-,Bristol Rovers,Carlisle United,0-1,-
--,-,Burnley,Carlisle United,1-0,-
--,-,Chester,Carlisle United,0-1,-
--,-,Chesterfield,Carlisle United,1-0,-
--,-,Doncaster Rovers,Carlisle United,1-1,-
--,-,Exeter City,Carlisle United,2-1,-
--,-,Fulham,Carlisle United,4-1,-
--,-,Gillingham,Carlisle United,0-0,-
--,-,Huddersfield Town,Carlisle United,2-1,-
--,-,Lincoln City,Carlisle United,0-0,-
--,-,Millwall,Carlisle United,1-2,-
--,-,Newport County,Carlisle United,2-0,-
--,-,Oxford United,Carlisle United,2-1,-
--,-,Plymouth Argyle,Carlisle United,1-0,-
--,-,Portsmouth,Carlisle United,1-2,-
--,-,Preston North End,Carlisle United,0-1,-
--,-,Reading,Carlisle United,2-2,-
--,-,Southend United,Carlisle United,1-1,-
--,-,Swindon Town,Carlisle United,2-1,-
--,-,Walsall,Carlisle United,1-1,-
--,-,Wimbledon,Carlisle United,3-1,-
--,-,Brentford,Chester,1-0,-
--,-,Bristol City,Chester,1-0,-
--,-,Bristol Rovers,Chester,2-2,-
--,-,Burnley,Chester,1-0,-
--,-,Carlisle United,Chester,3-0,-
--,-,Chesterfield,Chester,3-5,-
--,-,Doncaster Rovers,Chester,4-3,-
--,-,Exeter City,Chester,3-0,-
--,-,Fulham,Chester,2-0,-
--,-,Gillingham,Chester,0-1,-
--,-,Huddersfield Town,Chester,1-2,-
--,-,Lincoln City,Chester,3-0,-
--,-,Millwall,Chester,2-1,-
--,-,Newport County,Chester,0-1,-
--,-,Oxford United,Chester,3-1,-
--,-,Plymouth Argyle,Chester,5-1,-
--,-,Portsmouth,Chester,2-0,-
--,-,Preston North End,Chester,0-1,-
--,-,Reading,Chester,4-1,-
--,-,Southend United,Chester,2-0,-
--,-,Swindon Town,Chester,3-0,-
--,-,Walsall,Chester,2-1,-
--,-,Wimbledon,Chester,1-0,-
--,-,Brentford,Chesterfield,2-0,-
--,-,Bristol City,Chesterfield,0-0,-
--,-,Bristol Rovers,Chesterfield,1-0,-
--,-,Burnley,Chesterfield,1-1,-
--,-,Carlisle United,Chesterfield,3-0,-
--,-,Chester,Chesterfield,0-2,-
--,-,Doncaster Rovers,Chesterfield,0-0,-
--,-,Exeter City,Chesterfield,0-3,-
--,-,Fulham,Chesterfield,1-0,-
--,-,Gillingham,Chesterfield,3-2,-
--,-,Huddersfield Town,Chesterfield,1-1,-
--,-,Lincoln City,Chesterfield,2-1,-
--,-,Millwall,Chesterfield,3-2,-
--,-,Newport County,Chesterfield,1-0,-
--,-,Oxford United,Chesterfield,1-1,-
--,-,Plymouth Argyle,Chesterfield,0-2,-
--,-,Portsmouth,Chesterfield,5-1,-
--,-,Preston North End,Chesterfield,2-0,-
--,-,Reading,Chesterfield,0-2,-
--,-,Southend United,Chesterfield,0-2,-
--,-,Swindon Town,Chesterfield,1-2,-
--,-,Walsall,Chesterfield,1-1,-
--,-,Wimbledon,Chesterfield,3-1,-
--,-,Brentford,Doncaster Rovers,2-2,-
--,-,Bristol City,Doncaster Rovers,2-2,-
--,-,Bristol Rovers,Doncaster Rovers,3-0,-
--,-,Burnley,Doncaster Rovers,0-1,-
--,-,Carlisle United,Doncaster Rovers,2-0,-
--,-,Chester,Doncaster Rovers,1-1,-
--,-,Chesterfield,Doncaster Rovers,3-1,-
--,-,Exeter City,Doncaster Rovers,2-1,-
--,-,Fulham,Doncaster Rovers,3-1,-
--,-,Gillingham,Doncaster Rovers,3-0,-
--,-,Huddersfield Town,Doncaster Rovers,1-2,-
--,-,Lincoln City,Doncaster Rovers,5-0,-
--,-,Millwall,Doncaster Rovers,0-2,-
--,-,Newport County,Doncaster Rovers,1-0,-
--,-,Oxford United,Doncaster Rovers,3-1,-
--,-,Plymouth Argyle,Doncaster Rovers,4-2,-
--,-,Portsmouth,Doncaster Rovers,0-0,-
--,-,Preston North End,Doncaster Rovers,3-1,-
--,-,Reading,Doncaster Rovers,3-3,-
--,-,Southend United,Doncaster Rovers,1-1,-
--,-,Swindon Town,Doncaster Rovers,2-2,-
--,-,Walsall,Doncaster Rovers,0-0,-
--,-,Wimbledon,Doncaster Rovers,0-1,-
--,-,Brentford,Exeter City,2-0,-
--,-,Bristol City,Exeter City,3-2,-
--,-,Bristol Rovers,Exeter City,3-2,-
--,-,Burnley,Exeter City,3-3,-
--,-,Carlisle United,Exeter City,3-2,-
--,-,Chester,Exeter City,0-2,-
--,-,Chesterfield,Exeter City,2-1,-
--,-,Doncaster Rovers,Exeter City,3-0,-
--,-,Fulham,Exeter City,4-1,-
--,-,Gillingham,Exeter City,2-3,-
--,-,Huddersfield Town,Exeter City,1-1,-
--,-,Lincoln City,Exeter City,2-0,-
--,-,Millwall,Exeter City,5-1,-
--,-,Newport County,Exeter City,1-1,-
--,-,Oxford United,Exeter City,0-0,-
--,-,Plymouth Argyle,Exeter City,2-1,-
--,-,Portsmouth,Exeter City,2-0,-
--,-,Preston North End,Exeter City,1-0,-
--,-,Reading,Exeter City,4-0,-
--,-,Southend United,Exeter City,2-1,-
--,-,Swindon Town,Exeter City,3-2,-
--,-,Walsall,Exeter City,2-1,-
--,-,Wimbledon,Exeter City,1-1,-
--,-,Brentford,Fulham,0-1,-
--,-,Bristol City,Fulham,0-0,-
--,-,Bristol Rovers,Fulham,1-2,-
--,-,Burnley,Fulham,2-2,-
--,-,Carlisle United,Fulham,1-2,-
--,-,Chester,Fulham,0-2,-
--,-,Chesterfield,Fulham,3-0,-
--,-,Doncaster Rovers,Fulham,2-1,-
--,-,Exeter City,Fulham,1-0,-
--,-,Gillingham,Fulham,2-0,-
--,-,Huddersfield Town,Fulham,1-0,-
--,-,Lincoln City,Fulham,1-1,-
--,-,Millwall,Fulham,4-3,-
--,-,Newport County,Fulham,1-3,-
--,-,Oxford United,Fulham,2-0,-
--,-,Plymouth Argyle,Fulham,3-1,-
--,-,Portsmouth,Fulham,1-1,-
--,-,Preston North End,Fulham,1-3,-
--,-,Reading,Fulham,0-3,-
--,-,Southend United,Fulham,0-0,-
--,-,Swindon Town,Fulham,1-4,-
--,-,Walsall,Fulham,1-1,-
--,-,Wimbledon,Fulham,1-3,-
--,-,Brentford,Gillingham,0-1,-
--,-,Bristol City,Gillingham,2-1,-
--,-,Bristol Rovers,Gillingham,2-0,-
--,-,Burnley,Gillingham,1-0,-
--,-,Carlisle United,Gillingham,2-0,-
--,-,Chester,Gillingham,0-0,-
--,-,Chesterfield,Gillingham,1-3,-
--,-,Doncaster Rovers,Gillingham,1-1,-
--,-,Exeter City,Gillingham,1-1,-
--,-,Fulham,Gillingham,0-0,-
--,-,Huddersfield Town,Gillingham,2-0,-
--,-,Lincoln City,Gillingham,2-0,-
--,-,Millwall,Gillingham,1-2,-
--,-,Newport County,Gillingham,4-2,-
--,-,Oxford United,Gillingham,1-1,-
--,-,Plymouth Argyle,Gillingham,1-2,-
--,-,Portsmouth,Gillingham,1-0,-
--,-,Preston North End,Gillingham,1-1,-
--,-,Reading,Gillingham,3-2,-
--,-,Southend United,Gillingham,3-0,-
--,-,Swindon Town,Gillingham,0-1,-
--,-,Walsall,Gillingham,1-0,-
--,-,Wimbledon,Gillingham,0-2,-
--,-,Brentford,Huddersfield Town,0-1,-
--,-,Bristol City,Huddersfield Town,0-0,-
--,-,Bristol Rovers,Huddersfield Town,3-2,-
--,-,Burnley,Huddersfield Town,0-0,-
--,-,Carlisle United,Huddersfield Town,2-2,-
--,-,Chester,Huddersfield Town,3-1,-
--,-,Chesterfield,Huddersfield Town,1-0,-
--,-,Doncaster Rovers,Huddersfield Town,1-2,-
--,-,Exeter City,Huddersfield Town,1-0,-
--,-,Fulham,Huddersfield Town,2-2,-
--,-,Gillingham,Huddersfield Town,3-2,-
--,-,Lincoln City,Huddersfield Town,2-0,-
--,-,Millwall,Huddersfield Town,1-3,-
--,-,Newport County,Huddersfield Town,1-0,-
--,-,Oxford United,Huddersfield Town,1-0,-
--,-,Plymouth Argyle,Huddersfield Town,1-1,-
--,-,Portsmouth,Huddersfield Town,2-1,-
--,-,Preston North End,Huddersfield Town,1-1,-
--,-,Reading,Huddersfield Town,1-2,-
--,-,Southend United,Huddersfield Town,4-0,-
--,-,Swindon Town,Huddersfield Town,1-5,-
--,-,Walsall,Huddersfield Town,1-1,-
--,-,Wimbledon,Huddersfield Town,2-0,-
--,-,Brentford,Lincoln City,3-1,-
--,-,Bristol City,Lincoln City,0-1,-
--,-,Bristol Rovers,Lincoln City,0-2,-
--,-,Burnley,Lincoln City,1-0,-
--,-,Carlisle United,Lincoln City,1-0,-
--,-,Chester,Lincoln City,1-2,-
--,-,Chesterfield,Lincoln City,0-2,-
--,-,Doncaster Rovers,Lincoln City,4-1,-
--,-,Exeter City,Lincoln City,1-2,-
--,-,Fulham,Lincoln City,1-1,-
--,-,Gillingham,Lincoln City,1-0,-
--,-,Huddersfield Town,Lincoln City,0-2,-
--,-,Millwall,Lincoln City,1-1,-
--,-,Newport County,Lincoln City,0-0,-
--,-,Oxford United,Lincoln City,1-1,-
--,-,Plymouth Argyle,Lincoln City,0-2,-
--,-,Portsmouth,Lincoln City,1-1,-
--,-,Preston North End,Lincoln City,1-1,-
--,-,Reading,Lincoln City,3-2,-
--,-,Southend United,Lincoln City,0-2,-
--,-,Swindon Town,Lincoln City,1-0,-
--,-,Walsall,Lincoln City,2-1,-
--,-,Wimbledon,Lincoln City,1-1,-
--,-,Brentford,Millwall,4-1,-
--,-,Bristol City,Millwall,4-1,-
--,-,Bristol Rovers,Millwall,0-1,-
--,-,Burnley,Millwall,1-1,-
--,-,Carlisle United,Millwall,2-1,-
--,-,Chester,Millwall,0-0,-
--,-,Chesterfield,Millwall,0-1,-
--,-,Doncaster Rovers,Millwall,1-0,-
--,-,Exeter City,Millwall,5-4,-
--,-,Fulham,Millwall,0-0,-
--,-,Gillingham,Millwall,1-1,-
--,-,Huddersfield Town,Millwall,1-2,-
--,-,Lincoln City,Millwall,0-1,-
--,-,Newport County,Millwall,1-1,-
--,-,Oxford United,Millwall,0-0,-
--,-,Plymouth Argyle,Millwall,2-1,-
--,-,Portsmouth,Millwall,2-2,-
--,-,Preston North End,Millwall,1-0,-
--,-,Reading,Millwall,4-0,-
--,-,Southend United,Millwall,2-2,-
--,-,Swindon Town,Millwall,1-2,-
--,-,Walsall,Millwall,1-1,-
--,-,Wimbledon,Millwall,1-3,-
--,-,Brentford,Newport County,2-0,-
--,-,Bristol City,Newport County,2-1,-
--,-,Bristol Rovers,Newport County,2-0,-
--,-,Burnley,Newport County,2-1,-
--,-,Carlisle United,Newport County,2-2,-
--,-,Chester,Newport County,0-2,-
--,-,Chesterfield,Newport County,1-0,-
--,-,Doncaster Rovers,Newport County,0-2,-
--,-,Exeter City,Newport County,1-0,-
--,-,Fulham,Newport County,3-1,-
--,-,Gillingham,Newport County,1-1,-
--,-,Huddersfield Town,Newport County,2-0,-
--,-,Lincoln City,Newport County,2-2,-
--,-,Millwall,Newport County,1-0,-
--,-,Oxford United,Newport County,1-1,-
--,-,Plymouth Argyle,Newport County,1-2,-
--,-,Portsmouth,Newport County,0-0,-
--,-,Preston North End,Newport County,2-1,-
--,-,Reading,Newport County,2-1,-
--,-,Southend United,Newport County,0-4,-
--,-,Swindon Town,Newport County,1-1,-
--,-,Walsall,Newport County,3-1,-
--,-,Wimbledon,Newport County,2-3,-
--,-,Brentford,Oxford United,1-2,-
--,-,Bristol City,Oxford United,0-2,-
--,-,Bristol Rovers,Oxford United,1-0,-
--,-,Burnley,Oxford United,2-1,-
--,-,Carlisle United,Oxford United,2-1,-
--,-,Chester,Oxford United,2-2,-
--,-,Chesterfield,Oxford United,2-2,-
--,-,Doncaster Rovers,Oxford United,1-1,-
--,-,Exeter City,Oxford United,1-2,-
--,-,Fulham,Oxford United,0-0,-
--,-,Gillingham,Oxford United,2-1,-
--,-,Huddersfield Town,Oxford United,2-0,-
--,-,Lincoln City,Oxford United,2-1,-
--,-,Millwall,Oxford United,1-2,-
--,-,Newport County,Oxford United,3-2,-
--,-,Plymouth Argyle,Oxford United,0-1,-
--,-,Portsmouth,Oxford United,1-1,-
--,-,Preston North End,Oxford United,2-2,-
--,-,Reading,Oxford United,0-3,-
--,-,Southend United,Oxford United,0-1,-
--,-,Swindon Town,Oxford United,3-2,-
--,-,Walsall,Oxford United,1-3,-
--,-,Wimbledon,Oxford United,2-3,-
--,-,Brentford,Plymouth Argyle,0-0,-
--,-,Bristol City,Plymouth Argyle,3-2,-
--,-,Bristol Rovers,Plymouth Argyle,2-3,-
--,-,Burnley,Plymouth Argyle,1-0,-
--,-,Carlisle United,Plymouth Argyle,3-1,-
--,-,Chester,Plymouth Argyle,0-3,-
--,-,Chesterfield,Plymouth Argyle,2-2,-
--,-,Doncaster Rovers,Plymouth Argyle,2-2,-
--,-,Exeter City,Plymouth Argyle,1-1,-
--,-,Fulham,Plymouth Argyle,1-3,-
--,-,Gillingham,Plymouth Argyle,3-2,-
--,-,Huddersfield Town,Plymouth Argyle,0-0,-
--,-,Lincoln City,Plymouth Argyle,2-0,-
--,-,Millwall,Plymouth Argyle,2-1,-
--,-,Newport County,Plymouth Argyle,0-1,-
--,-,Oxford United,Plymouth Argyle,1-0,-
--,-,Portsmouth,Plymouth Argyle,1-0,-
--,-,Preston North End,Plymouth Argyle,1-0,-
--,-,Reading,Plymouth Argyle,2-2,-
--,-,Southend United,Plymouth Argyle,3-0,-
--,-,Swindon Town,Plymouth Argyle,0-2,-
--,-,Walsall,Plymouth Argyle,0-1,-
--,-,Wimbledon,Plymouth Argyle,2-1,-
--,-,Brentford,Portsmouth,2-2,-
--,-,Bristol City,Portsmouth,0-1,-
--,-,Bristol Rovers,Portsmouth,1-1,-
--,-,Burnley,Portsmouth,3-0,-
--,-,Carlisle United,Portsmouth,2-0,-
--,-,Chester,Portsmouth,3-2,-
--,-,Chesterfield,Portsmouth,2-2,-
--,-,Doncaster Rovers,Portsmouth,0-0,-
--,-,Exeter City,Portsmouth,3-3,-
--,-,Fulham,Portsmouth,1-1,-
--,-,Gillingham,Portsmouth,4-2,-
--,-,Huddersfield Town,Portsmouth,0-1,-
--,-,Lincoln City,Portsmouth,1-1,-
--,-,Millwall,Portsmouth,1-0,-
--,-,Newport County,Portsmouth,1-1,-
--,-,Oxford United,Portsmouth,0-2,-
--,-,Plymouth Argyle,Portsmouth,0-0,-
--,-,Preston North End,Portsmouth,1-0,-
--,-,Reading,Portsmouth,2-1,-
--,-,Southend United,Portsmouth,2-0,-
--,-,Swindon Town,Portsmouth,2-0,-
--,-,Walsall,Portsmouth,3-1,-
--,-,Wimbledon,Portsmouth,3-2,-
--,-,Brentford,Preston North End,0-0,-
--,-,Bristol City,Preston North End,0-0,-
--,-,Bristol Rovers,Preston North End,2-0,-
--,-,Burnley,Preston North End,2-0,-
--,-,Carlisle United,Preston North End,1-0,-
--,-,Chester,Preston North End,0-1,-
--,-,Chesterfield,Preston North End,0-0,-
--,-,Doncaster Rovers,Preston North End,1-0,-
--,-,Exeter City,Preston North End,4-3,-
--,-,Fulham,Preston North End,3-0,-
--,-,Gillingham,Preston North End,0-2,-
--,-,Huddersfield Town,Preston North End,2-3,-
--,-,Lincoln City,Preston North End,1-2,-
--,-,Millwall,Preston North End,2-1,-
--,-,Newport County,Preston North End,1-1,-
--,-,Oxford United,Preston North End,3-0,-
--,-,Plymouth Argyle,Preston North End,0-3,-
--,-,Portsmouth,Preston North End,1-1,-
--,-,Reading,Preston North End,2-1,-
--,-,Southend United,Preston North End,2-2,-
--,-,Swindon Town,Preston North End,4-0,-
--,-,Walsall,Preston North End,0-3,-
--,-,Wimbledon,Preston North End,3-2,-
--,-,Brentford,Reading,1-2,-
--,-,Bristol City,Reading,2-0,-
--,-,Bristol Rovers,Reading,1-1,-
--,-,Burnley,Reading,3-0,-
--,-,Carlisle United,Reading,2-1,-
--,-,Chester,Reading,2-3,-
--,-,Chesterfield,Reading,2-1,-
--,-,Doncaster Rovers,Reading,0-1,-
--,-,Exeter City,Reading,4-3,-
--,-,Fulham,Reading,2-2,-
--,-,Gillingham,Reading,2-1,-
--,-,Huddersfield Town,Reading,6-1,-
--,-,Lincoln City,Reading,2-1,-
--,-,Millwall,Reading,0-1,-
--,-,Newport County,Reading,3-1,-
--,-,Oxford United,Reading,1-0,-
--,-,Plymouth Argyle,Reading,1-1,-
--,-,Portsmouth,Reading,3-0,-
--,-,Preston North End,Reading,0-0,-
--,-,Southend United,Reading,2-0,-
--,-,Swindon Town,Reading,0-2,-
--,-,Walsall,Reading,1-2,-
--,-,Wimbledon,Reading,0-0,-
--,-,Brentford,Southend United,0-1,-
--,-,Bristol City,Southend United,0-2,-
--,-,Bristol Rovers,Southend United,2-1,-
--,-,Burnley,Southend United,3-5,-
--,-,Carlisle United,Southend United,3-2,-
--,-,Chester,Southend United,1-1,-
--,-,Chesterfield,Southend United,1-2,-
--,-,Doncaster Rovers,Southend United,1-1,-
--,-,Exeter City,Southend United,1-1,-
--,-,Fulham,Southend United,2-1,-
--,-,Gillingham,Southend United,2-0,-
--,-,Huddersfield Town,Southend United,3-2,-
--,-,Lincoln City,Southend United,1-1,-
--,-,Millwall,Southend United,1-1,-
--,-,Newport County,Southend United,3-2,-
--,-,Oxford United,Southend United,0-2,-
--,-,Plymouth Argyle,Southend United,0-0,-
--,-,Portsmouth,Southend United,0-0,-
--,-,Preston North End,Southend United,1-0,-
--,-,Reading,Southend United,0-2,-
--,-,Swindon Town,Southend United,0-0,-
--,-,Walsall,Southend United,0-1,-
--,-,Wimbledon,Southend United,3-0,-
--,-,Brentford,Swindon Town,4-2,-
--,-,Bristol City,Swindon Town,0-3,-
--,-,Bristol Rovers,Swindon Town,1-4,-
--,-,Burnley,Swindon Town,0-2,-
--,-,Carlisle United,Swindon Town,1-1,-
--,-,Chester,Swindon Town,0-0,-
--,-,Chesterfield,Swindon Town,2-1,-
--,-,Doncaster Rovers,Swindon Town,0-0,-
--,-,Exeter City,Swindon Town,1-2,-
--,-,Fulham,Swindon Town,2-0,-
--,-,Gillingham,Swindon Town,1-0,-
--,-,Huddersfield Town,Swindon Town,3-0,-
--,-,Lincoln City,Swindon Town,2-0,-
--,-,Millwall,Swindon Town,0-0,-
--,-,Newport County,Swindon Town,1-0,-
--,-,Oxford United,Swindon Town,5-0,-
--,-,Plymouth Argyle,Swindon Town,2-1,-
--,-,Portsmouth,Swindon Town,3-0,-
--,-,Preston North End,Swindon Town,0-0,-
--,-,Reading,Swindon Town,1-1,-
--,-,Southend United,Swindon Town,0-0,-
--,-,Walsall,Swindon Town,5-0,-
--,-,Wimbledon,Swindon Town,1-1,-
--,-,Brentford,Walsall,0-0,-
--,-,Bristol City,Walsall,0-1,-
--,-,Bristol Rovers,Walsall,2-1,-
--,-,Burnley,Walsall,2-1,-
--,-,Carlisle United,Walsall,2-1,-
--,-,Chester,Walsall,0-0,-
--,-,Chesterfield,Walsall,1-0,-
--,-,Doncaster Rovers,Walsall,1-0,-
--,-,Exeter City,Walsall,2-0,-
--,-,Fulham,Walsall,1-1,-
--,-,Gillingham,Walsall,1-4,-
--,-,Huddersfield Town,Walsall,2-1,-
--,-,Lincoln City,Walsall,1-1,-
--,-,Millwall,Walsall,2-0,-
--,-,Newport County,Walsall,2-2,-
--,-,Oxford United,Walsall,0-1,-
--,-,Plymouth Argyle,Walsall,4-1,-
--,-,Portsmouth,Walsall,1-0,-
--,-,Preston North End,Walsall,1-0,-
--,-,Reading,Walsall,0-0,-
--,-,Southend United,Walsall,3-2,-
--,-,Swindon Town,Walsall,2-2,-
--,-,Wimbledon,Walsall,2-0,-
--,-,Brentford,Wimbledon,2-3,-
--,-,Bristol City,Wimbledon,1-3,-
--,-,Bristol Rovers,Wimbledon,2-2,-
--,-,Burnley,Wimbledon,2-2,-
--,-,Carlisle United,Wimbledon,2-1,-
--,-,Chester,Wimbledon,1-1,-
--,-,Chesterfield,Wimbledon,2-0,-
--,-,Doncaster Rovers,Wimbledon,1-3,-
--,-,Exeter City,Wimbledon,2-1,-
--,-,Fulham,Wimbledon,4-1,-
--,-,Gillingham,Wimbledon,6-1,-
--,-,Huddersfield Town,Wimbledon,1-1,-
--,-,Lincoln City,Wimbledon,5-1,-
--,-,Millwall,Wimbledon,2-1,-
--,-,Newport County,Wimbledon,0-0,-
--,-,Oxford United,Wimbledon,0-3,-
--,-,Plymouth Argyle,Wimbledon,2-0,-
--,-,Portsmouth,Wimbledon,1-0,-
--,-,Preston North End,Wimbledon,3-2,-
--,-,Reading,Wimbledon,2-1,-
--,-,Southend United,Wimbledon,2-0,-
--,-,Swindon Town,Wimbledon,4-1,-
--,-,Walsall,Wimbledon,1-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 7 Nov 1981 (44),Brentford FC (1),0-1,?,Bristol City FC (1)
+?,(Mon) 22 Mar 1982 (12),Brentford FC (2),1-0,?,Bristol Rovers (1)
+?,(Sat) 31 Oct 1981 (43),Brentford FC (3),0-0,?,Burnley FC (1)
+?,(Sat) 3 Oct 1981 (39),Brentford FC (4),1-2,?,Carlisle United (1)
+?,(Sat) 28 Nov 1981 (47),Brentford FC (5),1-0,?,Chester FC (1)
+?,(Sat) 13 Mar 1982 (10),Brentford FC (6),2-0,?,Chesterfield FC (1)
+?,(Sat) 1 May 1982 (17),Brentford FC (7),2-2,?,Doncaster Rovers (1)
+?,(Sat) 27 Feb 1982 (8),Brentford FC (8),2-0,?,Exeter City (1)
+?,(Sat) 23 Jan 1982 (3),Brentford FC (9),0-1,?,Fulham FC (1)
+?,(Mon) 21 Sep 1981 (38),Brentford FC (10),0-1,?,Gillingham FC (1)
+?,(Sat) 2 Jan 1982 (0),Brentford FC (11),0-1,?,Huddersfield Town (1)
+?,(Sat) 17 Oct 1981 (41),Brentford FC (12),3-1,?,Lincoln City (1)
+?,(Fri) 9 Apr 1982 (14),Brentford FC (13),4-1,?,Millwall FC (1)
+?,(Sat) 20 Feb 1982 (7),Brentford FC (14),2-0,?,Newport County AFC (1)
+?,(Sat) 3 Apr 1982 (13),Brentford FC (15),1-2,?,Oxford United (1)
+?,(Sat) 19 Sep 1981 (37),Brentford FC (16),0-0,?,Plymouth Argyle (1)
+?,(Sat) 6 Feb 1982 (5),Brentford FC (17),2-2,?,Portsmouth FC (1)
+?,(Sat) 17 Apr 1982 (15),Brentford FC (18),0-0,?,Preston North End (1)
+?,(Sat) 15 May 1982 (19),Brentford FC (19),1-2,?,Reading FC (1)
+?,(Mon) 19 Oct 1981 (42),Brentford FC (20),0-1,?,Southend United (1)
+?,(Mon) 19 Apr 1982 (16),Brentford FC (21),4-2,?,Swindon Town (1)
+?,(Sat) 5 Sep 1981 (35),Brentford FC (22),0-0,?,Walsall FC (1)
+?,(Mon) 26 Apr 1982 (17),Brentford FC (23),2-3,?,Wimbledon FC (1)
+?,(Sat) 27 Mar 1982 (12),Bristol City FC (2),0-1,?,Brentford FC (24)
+?,(Mon) 12 Apr 1982 (15),Bristol City FC (3),1-2,?,Bristol Rovers (2)
+?,(Sat) 28 Nov 1981 (47),Bristol City FC (4),2-3,?,Burnley FC (2)
+?,(Tue) 6 Apr 1982 (14),Bristol City FC (5),1-1,?,Carlisle United (2)
+?,(Sat) 15 May 1982 (19),Bristol City FC (6),1-0,?,Chester FC (2)
+?,(Sat) 31 Oct 1981 (43),Bristol City FC (7),0-0,?,Chesterfield FC (2)
+?,(Sat) 5 Sep 1981 (35),Bristol City FC (8),2-2,?,Doncaster Rovers (2)
+?,(Tue) 23 Feb 1982 (8),Bristol City FC (9),3-2,?,Exeter City (2)
+?,(Sat) 6 Feb 1982 (5),Bristol City FC (10),0-0,?,Fulham FC (2)
+?,(Sat) 1 May 1982 (17),Bristol City FC (11),2-1,?,Gillingham FC (2)
+?,(Sat) 16 Jan 1982 (2),Bristol City FC (12),0-0,?,Huddersfield Town (2)
+?,(Sat) 13 Mar 1982 (10),Bristol City FC (13),0-1,?,Lincoln City (2)
+?,(Wed) 12 May 1982 (19),Bristol City FC (14),4-1,?,Millwall FC (2)
+?,(Sat) 19 Sep 1981 (37),Bristol City FC (15),2-1,?,Newport County AFC (2)
+?,(Sat) 6 Mar 1982 (9),Bristol City FC (16),0-2,?,Oxford United (2)
+?,(Tue) 22 Sep 1981 (38),Bristol City FC (17),3-2,?,Plymouth Argyle (2)
+?,(Sat) 20 Feb 1982 (7),Bristol City FC (18),0-1,?,Portsmouth FC (2)
+?,(Sat) 10 Oct 1981 (40),Bristol City FC (19),0-0,?,Preston North End (2)
+?,(Tue) 20 Oct 1981 (42),Bristol City FC (20),2-0,?,Reading FC (2)
+?,(Sat) 14 Nov 1981 (45),Bristol City FC (21),0-2,?,Southend United (2)
+?,(Sat) 17 Apr 1982 (15),Bristol City FC (22),0-3,?,Swindon Town (2)
+?,(Sat) 3 Oct 1981 (39),Bristol City FC (23),0-1,?,Walsall FC (2)
+?,(Sat) 2 Jan 1982 (0),Bristol City FC (24),1-3,?,Wimbledon FC (2)
+?,(Mon) 3 May 1982 (18),Bristol Rovers (3),1-2,?,Brentford FC (25)
+?,(Tue) 29 Dec 1981 (52),Bristol Rovers (4),1-0,?,Bristol City FC (25)
+?,(Sat) 12 Sep 1981 (36),Bristol Rovers (5),2-1,?,Burnley FC (3)
+?,(Sat) 19 Dec 1981 (50),Bristol Rovers (6),0-1,?,Carlisle United (3)
+?,(Sat) 29 Aug 1981 (34),Bristol Rovers (7),2-2,?,Chester FC (3)
+?,(Tue) 19 Jan 1982 (3),Bristol Rovers (8),1-0,?,Chesterfield FC (3)
+?,(Sat) 20 Mar 1982 (11),Bristol Rovers (9),3-0,?,Doncaster Rovers (3)
+?,(Tue) 9 Feb 1982 (6),Bristol Rovers (10),3-2,?,Exeter City (3)
+?,(Sat) 5 Dec 1981 (48),Bristol Rovers (11),1-2,?,Fulham FC (3)
+?,(Sat) 7 Nov 1981 (44),Bristol Rovers (12),2-0,?,Gillingham FC (3)
+?,(Sat) 24 Oct 1981 (42),Bristol Rovers (13),3-2,?,Huddersfield Town (3)
+?,(Sat) 26 Sep 1981 (38),Bristol Rovers (14),0-2,?,Lincoln City (3)
+?,(Sat) 3 Apr 1982 (13),Bristol Rovers (15),0-1,?,Millwall FC (3)
+?,(Tue) 3 Nov 1981 (44),Bristol Rovers (16),2-0,?,Newport County AFC (3)
+?,(Tue) 11 May 1982 (19),Bristol Rovers (17),1-0,?,Oxford United (3)
+?,(Sat) 8 May 1982 (18),Bristol Rovers (18),2-3,?,Plymouth Argyle (3)
+?,(Sat) 10 Apr 1982 (14),Bristol Rovers (19),1-1,?,Portsmouth FC (3)
+?,(Sat) 13 Feb 1982 (6),Bristol Rovers (20),2-0,?,Preston North End (3)
+?,(Sat) 30 Jan 1982 (4),Bristol Rovers (21),1-1,?,Reading FC (3)
+?,(Sat) 27 Feb 1982 (8),Bristol Rovers (22),2-1,?,Southend United (3)
+?,(Sat) 17 Oct 1981 (41),Bristol Rovers (23),1-4,?,Swindon Town (3)
+?,(Sat) 24 Apr 1982 (16),Bristol Rovers (24),2-1,?,Walsall FC (3)
+?,(Tue) 29 Sep 1981 (39),Bristol Rovers (25),2-2,?,Wimbledon FC (3)
+?,(Sat) 20 Mar 1982 (11),Burnley FC (4),0-0,?,Brentford FC (26)
+?,(Sat) 24 Apr 1982 (16),Burnley FC (5),2-0,?,Bristol City FC (26)
+?,(Sat) 6 Feb 1982 (5),Burnley FC (6),4-0,?,Bristol Rovers (26)
+?,(Tue) 4 May 1982 (18),Burnley FC (7),1-0,?,Carlisle United (4)
+?,(Tue) 3 Nov 1981 (44),Burnley FC (8),1-0,?,Chester FC (4)
+?,(Tue) 18 May 1982 (20),Burnley FC (9),1-1,?,Chesterfield FC (4)
+?,(Tue) 22 Sep 1981 (38),Burnley FC (10),0-1,?,Doncaster Rovers (4)
+?,(Sat) 17 Oct 1981 (41),Burnley FC (11),3-3,?,Exeter City (4)
+?,(Sat) 24 Oct 1981 (42),Burnley FC (12),2-2,?,Fulham FC (4)
+?,(Tue) 2 Feb 1982 (5),Burnley FC (13),1-0,?,Gillingham FC (4)
+?,(Sat) 19 Sep 1981 (37),Burnley FC (14),0-0,?,Huddersfield Town (4)
+?,(Sat) 10 Apr 1982 (14),Burnley FC (15),1-0,?,Lincoln City (4)
+?,(Sat) 20 Feb 1982 (7),Burnley FC (16),1-1,?,Millwall FC (4)
+?,(Sat) 16 Jan 1982 (2),Burnley FC (17),2-1,?,Newport County AFC (4)
+?,(Sat) 5 Dec 1981 (48),Burnley FC (18),2-1,?,Oxford United (4)
+?,(Sat) 5 Sep 1981 (35),Burnley FC (19),1-0,?,Plymouth Argyle (4)
+?,(Sat) 27 Feb 1982 (8),Burnley FC (20),3-0,?,Portsmouth FC (4)
+?,(Tue) 11 May 1982 (19),Burnley FC (21),2-0,?,Preston North End (4)
+?,(Sat) 3 Apr 1982 (13),Burnley FC (22),3-0,?,Reading FC (4)
+?,(Tue) 20 Apr 1982 (16),Burnley FC (23),3-5,?,Southend United (4)
+?,(Sat) 3 Oct 1981 (39),Burnley FC (24),0-2,?,Swindon Town (4)
+?,(Sat) 8 May 1982 (18),Burnley FC (25),2-1,?,Walsall FC (4)
+?,(Sat) 7 Nov 1981 (44),Burnley FC (26),2-2,?,Wimbledon FC (4)
+?,(Sat) 13 Feb 1982 (6),Carlisle United (5),1-0,?,Brentford FC (27)
+?,(Sat) 29 Aug 1981 (34),Carlisle United (6),2-2,?,Bristol City FC (27)
+?,(Sat) 15 May 1982 (19),Carlisle United (7),1-2,?,Bristol Rovers (27)
+?,(Tue) 29 Sep 1981 (39),Carlisle United (8),1-0,?,Burnley FC (27)
+?,(Tue) 13 Apr 1982 (15),Carlisle United (9),3-0,?,Chester FC (5)
+?,(Tue) 9 Feb 1982 (6),Carlisle United (10),3-0,?,Chesterfield FC (5)
+?,(Tue) 3 Nov 1981 (44),Carlisle United (11),2-0,?,Doncaster Rovers (5)
+?,(Tue) 20 Apr 1982 (16),Carlisle United (12),3-2,?,Exeter City (5)
+?,(Sat) 7 Nov 1981 (44),Carlisle United (13),1-2,?,Fulham FC (5)
+?,(Sat) 28 Nov 1981 (47),Carlisle United (14),2-0,?,Gillingham FC (5)
+?,(Tue) 9 Mar 1982 (10),Carlisle United (15),2-2,?,Huddersfield Town (5)
+?,(Sat) 30 Jan 1982 (4),Carlisle United (16),1-0,?,Lincoln City (5)
+?,(Sat) 17 Apr 1982 (15),Carlisle United (17),2-1,?,Millwall FC (5)
+?,(Sat) 20 Mar 1982 (11),Carlisle United (18),2-2,?,Newport County AFC (5)
+?,(Sat) 26 Sep 1981 (38),Carlisle United (19),2-1,?,Oxford United (5)
+?,(Sat) 17 Oct 1981 (41),Carlisle United (20),3-1,?,Plymouth Argyle (5)
+?,(Sat) 3 Apr 1982 (13),Carlisle United (21),2-0,?,Portsmouth FC (5)
+?,(Tue) 2 Feb 1982 (5),Carlisle United (22),1-0,?,Preston North End (5)
+?,(Tue) 23 Mar 1982 (12),Carlisle United (23),2-1,?,Reading FC (5)
+?,(Sat) 12 Sep 1981 (36),Carlisle United (24),3-2,?,Southend United (5)
+?,(Sat) 27 Feb 1982 (8),Carlisle United (25),1-1,?,Swindon Town (5)
+?,(Sat) 24 Oct 1981 (42),Carlisle United (26),2-1,?,Walsall FC (5)
+?,(Sat) 1 May 1982 (17),Carlisle United (27),2-1,?,Wimbledon FC (5)
+?,(Sat) 24 Apr 1982 (16),Chester FC (6),1-2,?,Brentford FC (28)
+?,(Wed) 21 Apr 1982 (16),Chester FC (7),0-0,?,Bristol City FC (28)
+?,(Sat) 23 Jan 1982 (3),Chester FC (8),1-1,?,Bristol Rovers (28)
+?,(Wed) 17 Mar 1982 (11),Chester FC (9),0-1,?,Burnley FC (28)
+?,(Wed) 19 May 1982 (20),Chester FC (10),0-1,?,Carlisle United (28)
+?,(Wed) 21 Oct 1981 (42),Chester FC (11),0-2,?,Chesterfield FC (6)
+?,(Wed) 2 Dec 1981 (48),Chester FC (12),1-1,?,Doncaster Rovers (6)
+?,(Sat) 14 Nov 1981 (45),Chester FC (13),0-2,?,Exeter City (6)
+?,(Wed) 5 May 1982 (18),Chester FC (14),0-2,?,Fulham FC (6)
+?,(Sat) 6 Feb 1982 (5),Chester FC (15),0-0,?,Gillingham FC (6)
+?,(Sat) 20 Feb 1982 (7),Chester FC (16),3-1,?,Huddersfield Town (6)
+?,(Sat) 8 May 1982 (18),Chester FC (17),1-2,?,Lincoln City (6)
+?,(Sat) 19 Sep 1981 (37),Chester FC (18),0-0,?,Millwall FC (6)
+?,(Sat) 10 Apr 1982 (14),Chester FC (19),0-2,?,Newport County AFC (6)
+?,(Sat) 10 Oct 1981 (40),Chester FC (20),2-2,?,Oxford United (6)
+?,(Sat) 13 Mar 1982 (10),Chester FC (21),0-3,?,Plymouth Argyle (6)
+?,(Tue) 19 Jan 1982 (3),Chester FC (22),3-2,?,Portsmouth FC (6)
+?,(Sat) 27 Mar 1982 (12),Chester FC (23),0-1,?,Preston North End (6)
+?,(Sat) 31 Oct 1981 (43),Chester FC (24),2-3,?,Reading FC (6)
+?,(Sat) 5 Dec 1981 (48),Chester FC (25),1-1,?,Southend United (6)
+?,(Sat) 5 Sep 1981 (35),Chester FC (26),0-0,?,Swindon Town (6)
+?,(Wed) 23 Sep 1981 (38),Chester FC (27),0-0,?,Walsall FC (6)
+?,(Wed) 31 Mar 1982 (13),Chester FC (28),1-1,?,Wimbledon FC (6)
+?,(Sat) 24 Oct 1981 (42),Chesterfield FC (7),0-2,?,Brentford FC (29)
+?,(Sat) 20 Mar 1982 (11),Chesterfield FC (8),1-0,?,Bristol City FC (29)
+?,(Sat) 5 Sep 1981 (35),Chesterfield FC (9),2-0,?,Bristol Rovers (29)
+?,(Mon) 12 Apr 1982 (15),Chesterfield FC (10),1-2,?,Burnley FC (29)
+?,(Tue) 22 Sep 1981 (38),Chesterfield FC (11),1-0,?,Carlisle United (29)
+?,(Tue) 9 Mar 1982 (10),Chesterfield FC (12),3-5,?,Chester FC (29)
+?,(Tue) 2 Feb 1982 (5),Chesterfield FC (13),3-1,?,Doncaster Rovers (7)
+?,(Sat) 17 Apr 1982 (15),Chesterfield FC (14),2-1,?,Exeter City (7)
+?,(Sat) 19 Sep 1981 (37),Chesterfield FC (15),3-0,?,Fulham FC (7)
+?,(Sat) 15 May 1982 (19),Chesterfield FC (16),1-3,?,Gillingham FC (7)
+?,(Tue) 3 Nov 1981 (44),Chesterfield FC (17),1-0,?,Huddersfield Town (7)
+?,(Sat) 3 Apr 1982 (13),Chesterfield FC (18),0-2,?,Lincoln City (7)
+?,(Tue) 27 Apr 1982 (17),Chesterfield FC (19),0-1,?,Millwall FC (7)
+?,(Sat) 23 Jan 1982 (3),Chesterfield FC (20),1-0,?,Newport County AFC (7)
+?,(Sat) 7 Nov 1981 (44),Chesterfield FC (21),2-2,?,Oxford United (7)
+?,(Sat) 20 Feb 1982 (7),Chesterfield FC (22),2-2,?,Plymouth Argyle (7)
+?,(Sat) 3 Oct 1981 (39),Chesterfield FC (23),2-2,?,Portsmouth FC (7)
+?,(Tue) 5 Jan 1982 (1),Chesterfield FC (24),0-0,?,Preston North End (7)
+?,(Sat) 27 Feb 1982 (8),Chesterfield FC (25),2-1,?,Reading FC (7)
+?,(Sat) 17 Oct 1981 (41),Chesterfield FC (26),1-2,?,Southend United (7)
+?,(Sat) 1 May 1982 (17),Chesterfield FC (27),2-1,?,Swindon Town (7)
+?,(Sat) 6 Feb 1982 (5),Chesterfield FC (28),1-0,?,Walsall FC (7)
+?,(Sat) 28 Nov 1981 (47),Chesterfield FC (29),2-0,?,Wimbledon FC (7)
+?,(Sat) 26 Sep 1981 (38),Doncaster Rovers (8),1-0,?,Brentford FC (30)
+?,(Tue) 18 May 1982 (20),Doncaster Rovers (9),2-2,?,Bristol City FC (30)
+?,(Sat) 31 Oct 1981 (43),Doncaster Rovers (10),4-2,?,Bristol Rovers (30)
+?,(Tue) 9 Feb 1982 (6),Doncaster Rovers (11),0-1,?,Burnley FC (30)
+?,(Tue) 16 Mar 1982 (11),Doncaster Rovers (12),1-1,?,Carlisle United (30)
+?,(Sat) 13 Feb 1982 (6),Doncaster Rovers (13),4-3,?,Chester FC (30)
+?,(Sat) 10 Apr 1982 (14),Doncaster Rovers (14),0-0,?,Chesterfield FC (30)
+?,(Fri) 11 Sep 1981 (36),Doncaster Rovers (15),3-0,?,Exeter City (8)
+?,(Sat) 8 May 1982 (18),Doncaster Rovers (16),2-1,?,Fulham FC (8)
+?,(Sat) 3 Apr 1982 (13),Doncaster Rovers (17),1-1,?,Gillingham FC (8)
+?,(Fri) 6 Nov 1981 (44),Doncaster Rovers (18),1-2,?,Huddersfield Town (8)
+?,(Tue) 20 Oct 1981 (42),Doncaster Rovers (19),4-1,?,Lincoln City (8)
+?,(Wed) 7 Oct 1981 (40),Doncaster Rovers (20),1-0,?,Millwall FC (8)
+?,(Sat) 27 Feb 1982 (8),Doncaster Rovers (21),0-2,?,Newport County AFC (8)
+?,(Tue) 23 Mar 1982 (12),Doncaster Rovers (22),1-1,?,Oxford United (8)
+?,(Sat) 24 Apr 1982 (16),Doncaster Rovers (23),2-2,?,Plymouth Argyle (8)
+?,(Sat) 5 Dec 1981 (48),Doncaster Rovers (24),0-0,?,Portsmouth FC (8)
+?,(Tue) 29 Sep 1981 (39),Doncaster Rovers (25),1-0,?,Preston North End (8)
+?,(Sat) 29 Aug 1981 (34),Doncaster Rovers (26),0-1,?,Reading FC (8)
+?,(Tue) 4 May 1982 (18),Doncaster Rovers (27),1-1,?,Southend United (8)
+?,(Fri) 12 Mar 1982 (10),Doncaster Rovers (28),0-0,?,Swindon Town (8)
+?,(Tue) 20 Apr 1982 (16),Doncaster Rovers (29),1-0,?,Walsall FC (8)
+?,(Fri) 29 Jan 1982 (4),Doncaster Rovers (30),1-3,?,Wimbledon FC (8)
+?,(Sat) 10 Oct 1981 (40),Exeter City (9),3-1,?,Brentford FC (31)
+?,(Sat) 10 Apr 1982 (14),Exeter City (10),4-0,?,Bristol City FC (31)
+?,(Wed) 23 Sep 1981 (38),Exeter City (11),1-3,?,Bristol Rovers (31)
+?,(Sat) 6 Mar 1982 (9),Exeter City (12),2-1,?,Burnley FC (31)
+?,(Sat) 5 Sep 1981 (35),Exeter City (13),2-1,?,Carlisle United (31)
+?,(Sat) 3 Apr 1982 (13),Exeter City (14),3-0,?,Chester FC (31)
+?,(Sat) 5 Dec 1981 (48),Exeter City (15),0-3,?,Chesterfield FC (31)
+?,(Sat) 6 Feb 1982 (5),Exeter City (16),2-1,?,Doncaster Rovers (31)
+?,(Wed) 10 Mar 1982 (10),Exeter City (17),1-0,?,Fulham FC (9)
+?,(Sat) 20 Feb 1982 (7),Exeter City (18),1-1,?,Gillingham FC (9)
+?,(Wed) 12 May 1982 (19),Exeter City (19),1-0,?,Huddersfield Town (9)
+?,(Wed) 24 Mar 1982 (12),Exeter City (20),1-2,?,Lincoln City (9)
+?,(Sat) 3 Oct 1981 (39),Exeter City (21),5-4,?,Millwall FC (9)
+?,(Sat) 24 Apr 1982 (16),Exeter City (22),1-0,?,Newport County AFC (9)
+?,(Wed) 4 Nov 1981 (44),Exeter City (23),1-2,?,Oxford United (9)
+?,(Mon) 28 Dec 1981 (52),Exeter City (24),1-1,?,Plymouth Argyle (9)
+?,(Wed) 5 May 1982 (18),Exeter City (25),3-3,?,Portsmouth FC (9)
+?,(Sat) 24 Oct 1981 (42),Exeter City (26),4-3,?,Preston North End (9)
+?,(Sat) 7 Nov 1981 (44),Exeter City (27),4-3,?,Reading FC (9)
+?,(Sat) 8 May 1982 (18),Exeter City (28),1-1,?,Southend United (9)
+?,(Sat) 19 Sep 1981 (37),Exeter City (29),1-2,?,Swindon Town (9)
+?,(Sat) 16 Jan 1982 (2),Exeter City (30),2-0,?,Walsall FC (9)
+?,(Sat) 20 Mar 1982 (11),Exeter City (31),2-1,?,Wimbledon FC (9)
+?,(Sat) 29 Aug 1981 (34),Fulham FC (10),1-2,?,Brentford FC (32)
+?,(Sat) 12 Sep 1981 (36),Fulham FC (11),2-1,?,Bristol City FC (32)
+?,(Sat) 17 Apr 1982 (15),Fulham FC (12),4-2,?,Bristol Rovers (32)
+?,(Sat) 13 Mar 1982 (10),Fulham FC (13),1-1,?,Burnley FC (32)
+?,(Sat) 27 Mar 1982 (12),Fulham FC (14),4-1,?,Carlisle United (32)
+?,(Sat) 26 Sep 1981 (38),Fulham FC (15),2-0,?,Chester FC (32)
+?,(Sat) 30 Jan 1982 (4),Fulham FC (16),1-0,?,Chesterfield FC (32)
+?,(Tue) 6 Apr 1982 (14),Fulham FC (17),3-1,?,Doncaster Rovers (32)
+?,(Tue) 20 Oct 1981 (42),Fulham FC (18),4-1,?,Exeter City (32)
+?,(Tue) 11 May 1982 (19),Fulham FC (19),0-0,?,Gillingham FC (10)
+?,(Sat) 27 Feb 1982 (8),Fulham FC (20),2-2,?,Huddersfield Town (10)
+?,(Tue) 18 May 1982 (20),Fulham FC (21),1-1,?,Lincoln City (10)
+?,(Sat) 28 Nov 1981 (47),Fulham FC (22),0-0,?,Millwall FC (10)
+?,(Sat) 17 Oct 1981 (41),Fulham FC (23),3-1,?,Newport County AFC (10)
+?,(Tue) 23 Feb 1982 (8),Fulham FC (24),0-0,?,Oxford United (10)
+?,(Tue) 16 Mar 1982 (11),Fulham FC (25),1-3,?,Plymouth Argyle (10)
+?,(Sat) 31 Oct 1981 (43),Fulham FC (26),1-1,?,Portsmouth FC (10)
+?,(Sat) 15 May 1982 (19),Fulham FC (27),3-0,?,Preston North End (10)
+?,(Sat) 1 May 1982 (17),Fulham FC (28),2-2,?,Reading FC (10)
+?,(Tue) 29 Sep 1981 (39),Fulham FC (29),2-1,?,Southend United (10)
+?,(Tue) 13 Apr 1982 (15),Fulham FC (30),2-0,?,Swindon Town (10)
+?,(Sat) 14 Nov 1981 (45),Fulham FC (31),1-1,?,Walsall FC (10)
+?,(Tue) 9 Feb 1982 (6),Fulham FC (32),4-1,?,Wimbledon FC (10)
+?,(Tue) 9 Feb 1982 (6),Gillingham FC (11),1-1,?,Brentford FC (33)
+?,(Tue) 29 Sep 1981 (39),Gillingham FC (12),1-1,?,Bristol City FC (33)
+?,(Sat) 27 Mar 1982 (12),Gillingham FC (13),2-0,?,Bristol Rovers (33)
+?,(Sat) 29 Aug 1981 (34),Gillingham FC (14),3-1,?,Burnley FC (33)
+?,(Sat) 24 Apr 1982 (16),Gillingham FC (15),0-0,?,Carlisle United (33)
+?,(Sat) 12 Sep 1981 (36),Gillingham FC (16),0-1,?,Chester FC (33)
+?,(Tue) 6 Apr 1982 (14),Gillingham FC (17),3-2,?,Chesterfield FC (33)
+?,(Sat) 14 Nov 1981 (45),Gillingham FC (18),3-0,?,Doncaster Rovers (33)
+?,(Sat) 26 Sep 1981 (38),Gillingham FC (19),2-3,?,Exeter City (33)
+?,(Sat) 10 Apr 1982 (14),Gillingham FC (20),2-0,?,Fulham FC (33)
+?,(Sat) 17 Oct 1981 (41),Gillingham FC (21),3-2,?,Huddersfield Town (11)
+?,(Tue) 4 May 1982 (18),Gillingham FC (22),1-0,?,Lincoln City (11)
+?,(Fri) 12 Mar 1982 (10),Gillingham FC (23),1-1,?,Millwall FC (11)
+?,(Mon) 28 Dec 1981 (52),Gillingham FC (24),1-1,?,Newport County AFC (11)
+?,(Sat) 8 May 1982 (18),Gillingham FC (25),2-1,?,Oxford United (11)
+?,(Sat) 27 Feb 1982 (8),Gillingham FC (26),3-2,?,Plymouth Argyle (11)
+?,(Tue) 20 Oct 1981 (42),Gillingham FC (27),4-2,?,Portsmouth FC (11)
+?,(Sat) 30 Jan 1982 (4),Gillingham FC (28),0-2,?,Preston North End (11)
+?,(Tue) 18 May 1982 (20),Gillingham FC (29),2-1,?,Reading FC (11)
+?,(Tue) 16 Mar 1982 (11),Gillingham FC (30),2-0,?,Southend United (11)
+?,(Sat) 31 Oct 1981 (43),Gillingham FC (31),1-0,?,Swindon Town (11)
+?,(Sat) 5 Dec 1981 (48),Gillingham FC (32),1-4,?,Walsall FC (11)
+?,(Sat) 13 Feb 1982 (6),Gillingham FC (33),6-1,?,Wimbledon FC (11)
+?,(Sat) 8 May 1982 (18),Huddersfield Town (12),1-1,?,Brentford FC (34)
+?,(Tue) 4 May 1982 (18),Huddersfield Town (13),5-0,?,Bristol City FC (34)
+?,(Sat) 13 Mar 1982 (10),Huddersfield Town (14),0-2,?,Bristol Rovers (34)
+?,(Sat) 30 Jan 1982 (4),Huddersfield Town (15),1-2,?,Burnley FC (34)
+?,(Tue) 20 Oct 1981 (42),Huddersfield Town (16),2-1,?,Carlisle United (34)
+?,(Tue) 29 Sep 1981 (39),Huddersfield Town (17),1-2,?,Chester FC (34)
+?,(Tue) 23 Mar 1982 (12),Huddersfield Town (18),1-1,?,Chesterfield FC (34)
+?,(Sat) 27 Mar 1982 (12),Huddersfield Town (19),1-2,?,Doncaster Rovers (34)
+?,(Sat) 29 Aug 1981 (34),Huddersfield Town (20),1-1,?,Exeter City (34)
+?,(Sat) 10 Oct 1981 (40),Huddersfield Town (21),1-0,?,Fulham FC (34)
+?,(Sat) 6 Mar 1982 (9),Huddersfield Town (22),2-0,?,Gillingham FC (34)
+?,(Tue) 2 Mar 1982 (9),Huddersfield Town (23),0-2,?,Lincoln City (12)
+?,(Sat) 31 Oct 1981 (43),Huddersfield Town (24),1-2,?,Millwall FC (12)
+?,(Tue) 30 Mar 1982 (13),Huddersfield Town (25),2-0,?,Newport County AFC (12)
+?,(Sat) 9 Jan 1982 (1),Huddersfield Town (26),2-0,?,Oxford United (12)
+?,(Sat) 5 Dec 1981 (48),Huddersfield Town (27),0-0,?,Plymouth Argyle (12)
+?,(Sat) 24 Apr 1982 (16),Huddersfield Town (28),0-1,?,Portsmouth FC (12)
+?,(Tue) 9 Feb 1982 (6),Huddersfield Town (29),2-3,?,Preston North End (12)
+?,(Sat) 13 Feb 1982 (6),Huddersfield Town (30),6-1,?,Reading FC (12)
+?,(Sat) 26 Sep 1981 (38),Huddersfield Town (31),3-2,?,Southend United (12)
+?,(Sat) 14 Nov 1981 (45),Huddersfield Town (32),3-0,?,Swindon Town (12)
+?,(Sat) 10 Apr 1982 (14),Huddersfield Town (33),2-1,?,Walsall FC (12)
+?,(Sat) 12 Sep 1981 (36),Huddersfield Town (34),1-1,?,Wimbledon FC (12)
+?,(Sat) 6 Mar 1982 (9),Lincoln City (13),1-0,?,Brentford FC (35)
+?,(Sat) 24 Oct 1981 (42),Lincoln City (14),1-2,?,Bristol City FC (35)
+?,(Sat) 1 May 1982 (17),Lincoln City (15),1-0,?,Bristol Rovers (35)
+?,(Wed) 31 Mar 1982 (13),Lincoln City (16),1-1,?,Burnley FC (35)
+?,(Sat) 19 Sep 1981 (37),Lincoln City (17),0-0,?,Carlisle United (35)
+?,(Wed) 3 Feb 1982 (5),Lincoln City (18),3-0,?,Chester FC (35)
+?,(Sat) 14 Nov 1981 (45),Lincoln City (19),2-1,?,Chesterfield FC (35)
+?,(Wed) 10 Mar 1982 (10),Lincoln City (20),5-0,?,Doncaster Rovers (35)
+?,(Sat) 15 May 1982 (19),Lincoln City (21),2-0,?,Exeter City (35)
+?,(Sat) 5 Sep 1981 (35),Lincoln City (22),1-1,?,Fulham FC (35)
+?,(Sat) 16 Jan 1982 (2),Lincoln City (23),2-0,?,Gillingham FC (35)
+?,(Mon) 12 Apr 1982 (15),Lincoln City (24),2-0,?,Huddersfield Town (35)
+?,(Wed) 23 Sep 1981 (38),Lincoln City (25),0-1,?,Millwall FC (13)
+?,(Sat) 3 Oct 1981 (39),Lincoln City (26),2-2,?,Newport County AFC (13)
+?,(Sat) 20 Mar 1982 (11),Lincoln City (27),2-1,?,Oxford United (13)
+?,(Sat) 6 Feb 1982 (5),Lincoln City (28),2-0,?,Plymouth Argyle (13)
+?,(Sat) 23 Jan 1982 (3),Lincoln City (29),1-1,?,Portsmouth FC (13)
+?,(Wed) 4 Nov 1981 (44),Lincoln City (30),1-2,?,Preston North End (13)
+?,(Sat) 17 Apr 1982 (15),Lincoln City (31),2-1,?,Reading FC (13)
+?,(Sat) 27 Mar 1982 (12),Lincoln City (32),1-1,?,Southend United (13)
+?,(Sat) 28 Nov 1981 (47),Lincoln City (33),2-0,?,Swindon Town (13)
+?,(Sat) 20 Feb 1982 (7),Lincoln City (34),1-1,?,Walsall FC (13)
+?,(Sat) 10 Oct 1981 (40),Lincoln City (35),5-1,?,Wimbledon FC (13)
+?,(Mon) 28 Dec 1981 (52),Millwall FC (14),0-1,?,Brentford FC (36)
+?,(Tue) 3 Nov 1981 (44),Millwall FC (15),2-0,?,Bristol City FC (36)
+?,(Sat) 14 Nov 1981 (45),Millwall FC (16),0-0,?,Bristol Rovers (36)
+?,(Sat) 26 Sep 1981 (38),Millwall FC (17),4-3,?,Burnley FC (36)
+?,(Sat) 5 Dec 1981 (48),Millwall FC (18),1-2,?,Carlisle United (36)
+?,(Sat) 30 Jan 1982 (4),Millwall FC (19),2-1,?,Chester FC (36)
+?,(Tue) 4 May 1982 (18),Millwall FC (20),3-2,?,Chesterfield FC (36)
+?,(Sat) 6 Mar 1982 (9),Millwall FC (21),0-2,?,Doncaster Rovers (36)
+?,(Sun) 14 Feb 1982 (6),Millwall FC (22),5-1,?,Exeter City (36)
+?,(Sun) 25 Apr 1982 (16),Millwall FC (23),4-3,?,Fulham FC (36)
+?,(Sat) 24 Oct 1981 (42),Millwall FC (24),1-2,?,Gillingham FC (36)
+?,(Tue) 6 Apr 1982 (14),Millwall FC (25),1-3,?,Huddersfield Town (36)
+?,(Tue) 9 Feb 1982 (6),Millwall FC (26),1-1,?,Lincoln City (36)
+?,(Tue) 9 Mar 1982 (10),Millwall FC (27),1-0,?,Newport County AFC (14)
+?,(Tue) 29 Sep 1981 (39),Millwall FC (28),1-2,?,Oxford United (14)
+?,(Tue) 20 Apr 1982 (16),Millwall FC (29),2-1,?,Plymouth Argyle (14)
+?,(Sat) 8 May 1982 (18),Millwall FC (30),1-0,?,Portsmouth FC (14)
+?,(Sat) 29 Aug 1981 (34),Millwall FC (31),2-1,?,Preston North End (14)
+?,(Sun) 13 Sep 1981 (36),Millwall FC (32),0-1,?,Reading FC (14)
+?,(Mon) 12 Apr 1982 (15),Millwall FC (33),1-1,?,Southend United (14)
+?,(Sun) 28 Mar 1982 (12),Millwall FC (34),0-0,?,Swindon Town (14)
+?,(Sun) 11 Oct 1981 (40),Millwall FC (35),2-0,?,Walsall FC (14)
+?,(Wed) 24 Feb 1982 (8),Millwall FC (36),2-1,?,Wimbledon FC (14)
+?,(Tue) 29 Sep 1981 (39),Newport County AFC (15),0-1,?,Brentford FC (37)
+?,(Sat) 30 Jan 1982 (4),Newport County AFC (16),1-1,?,Bristol City FC (37)
+?,(Tue) 16 Mar 1982 (11),Newport County AFC (17),1-1,?,Bristol Rovers (37)
+?,(Sat) 1 May 1982 (17),Newport County AFC (18),0-0,?,Burnley FC (37)
+?,(Sat) 31 Oct 1981 (43),Newport County AFC (19),2-0,?,Carlisle United (37)
+?,(Sat) 26 Dec 1981 (51),Newport County AFC (20),0-1,?,Chester FC (37)
+?,(Sat) 29 Aug 1981 (34),Newport County AFC (21),1-0,?,Chesterfield FC (37)
+?,(Sat) 10 Oct 1981 (40),Newport County AFC (22),1-0,?,Doncaster Rovers (37)
+?,(Sat) 28 Nov 1981 (47),Newport County AFC (23),1-1,?,Exeter City (37)
+?,(Sun) 7 Mar 1982 (9),Newport County AFC (24),1-3,?,Fulham FC (37)
+?,(Mon) 12 Apr 1982 (15),Newport County AFC (25),4-2,?,Gillingham FC (37)
+?,(Sat) 15 May 1982 (19),Newport County AFC (26),1-0,?,Huddersfield Town (37)
+?,(Sat) 13 Feb 1982 (6),Newport County AFC (27),0-0,?,Lincoln City (37)
+?,(Tue) 20 Oct 1981 (42),Newport County AFC (28),1-1,?,Millwall FC (37)
+?,(Sat) 12 Sep 1981 (36),Newport County AFC (29),3-2,?,Oxford United (15)
+?,(Sat) 14 Nov 1981 (45),Newport County AFC (30),0-1,?,Plymouth Argyle (15)
+?,(Sat) 13 Mar 1982 (10),Newport County AFC (31),1-1,?,Portsmouth FC (15)
+?,(Sat) 26 Sep 1981 (38),Newport County AFC (32),1-1,?,Preston North End (15)
+?,(Sat) 2 Jan 1982 (0),Newport County AFC (33),3-1,?,Reading FC (15)
+?,(Tue) 11 May 1982 (19),Newport County AFC (34),3-2,?,Southend United (15)
+?,(Tue) 18 May 1982 (20),Newport County AFC (35),1-0,?,Swindon Town (15)
+?,(Sat) 27 Mar 1982 (12),Newport County AFC (36),2-2,?,Walsall FC (15)
+?,(Sat) 17 Apr 1982 (15),Newport County AFC (37),0-0,?,Wimbledon FC (15)
+?,(Sat) 14 Nov 1981 (45),Oxford United (16),1-2,?,Brentford FC (38)
+?,(Sat) 17 Oct 1981 (41),Oxford United (17),1-0,?,Bristol City FC (38)
+?,(Wed) 21 Oct 1981 (42),Oxford United (18),1-1,?,Bristol Rovers (38)
+?,(Sat) 17 Apr 1982 (15),Oxford United (19),0-0,?,Burnley FC (38)
+?,(Sat) 20 Feb 1982 (7),Oxford United (20),2-1,?,Carlisle United (38)
+?,(Sat) 27 Feb 1982 (8),Oxford United (21),3-1,?,Chester FC (38)
+?,(Sat) 27 Mar 1982 (12),Oxford United (22),1-1,?,Chesterfield FC (38)
+?,(Mon) 12 Apr 1982 (15),Oxford United (23),3-1,?,Doncaster Rovers (38)
+?,(Wed) 17 Mar 1982 (11),Oxford United (24),0-0,?,Exeter City (38)
+?,(Sat) 3 Oct 1981 (39),Oxford United (25),2-0,?,Fulham FC (38)
+?,(Wed) 31 Mar 1982 (13),Oxford United (26),1-1,?,Gillingham FC (38)
+?,(Sat) 5 Sep 1981 (35),Oxford United (27),1-0,?,Huddersfield Town (38)
+?,(Sat) 31 Oct 1981 (43),Oxford United (28),1-1,?,Lincoln City (38)
+?,(Sat) 1 May 1982 (17),Oxford United (29),0-0,?,Millwall FC (38)
+?,(Sat) 6 Feb 1982 (5),Oxford United (30),1-1,?,Newport County AFC (38)
+?,(Wed) 28 Apr 1982 (17),Oxford United (31),1-0,?,Plymouth Argyle (16)
+?,(Wed) 23 Sep 1981 (38),Oxford United (32),0-2,?,Portsmouth FC (16)
+?,(Sat) 28 Nov 1981 (47),Oxford United (33),3-0,?,Preston North End (16)
+?,(Wed) 3 Feb 1982 (5),Oxford United (34),1-0,?,Reading FC (16)
+?,(Sat) 13 Mar 1982 (10),Oxford United (35),0-2,?,Southend United (16)
+?,(Wed) 7 Apr 1982 (14),Oxford United (36),5-0,?,Swindon Town (16)
+?,(Sat) 19 Sep 1981 (37),Oxford United (37),0-1,?,Walsall FC (16)
+?,(Sat) 15 May 1982 (19),Oxford United (38),0-3,?,Wimbledon FC (16)
+?,(Sat) 30 Jan 1982 (4),Plymouth Argyle (17),1-0,?,Brentford FC (39)
+?,(Tue) 9 Feb 1982 (6),Plymouth Argyle (18),2-1,?,Bristol City FC (39)
+?,(Sat) 2 Jan 1982 (0),Plymouth Argyle (19),4-0,?,Bristol Rovers (39)
+?,(Sat) 9 Jan 1982 (1),Plymouth Argyle (20),1-1,?,Burnley FC (39)
+?,(Sat) 6 Mar 1982 (9),Plymouth Argyle (21),1-0,?,Carlisle United (39)
+?,(Sat) 24 Oct 1981 (42),Plymouth Argyle (22),5-1,?,Chester FC (39)
+?,(Sat) 26 Sep 1981 (38),Plymouth Argyle (23),0-2,?,Chesterfield FC (39)
+?,(Sat) 28 Nov 1981 (47),Plymouth Argyle (24),4-2,?,Doncaster Rovers (39)
+?,(Fri) 9 Apr 1982 (14),Plymouth Argyle (25),2-1,?,Exeter City (39)
+?,(Tue) 3 Nov 1981 (44),Plymouth Argyle (26),3-1,?,Fulham FC (39)
+?,(Sat) 10 Oct 1981 (40),Plymouth Argyle (27),1-2,?,Gillingham FC (39)
+?,(Sat) 17 Apr 1982 (15),Plymouth Argyle (28),1-1,?,Huddersfield Town (39)
+?,(Sat) 12 Sep 1981 (36),Plymouth Argyle (29),0-2,?,Lincoln City (39)
+?,(Sat) 15 May 1982 (19),Plymouth Argyle (30),2-1,?,Millwall FC (39)
+?,(Fri) 2 Apr 1982 (13),Plymouth Argyle (31),1-2,?,Newport County AFC (39)
+?,(Sat) 29 Aug 1981 (34),Plymouth Argyle (32),0-1,?,Oxford United (39)
+?,(Sat) 7 Nov 1981 (44),Plymouth Argyle (33),0-0,?,Portsmouth FC (17)
+?,(Sat) 1 May 1982 (17),Plymouth Argyle (34),0-3,?,Preston North End (17)
+?,(Tue) 29 Sep 1981 (39),Plymouth Argyle (35),1-1,?,Reading FC (17)
+?,(Sat) 13 Feb 1982 (6),Plymouth Argyle (36),0-0,?,Southend United (17)
+?,(Sat) 26 Dec 1981 (51),Plymouth Argyle (37),2-1,?,Swindon Town (17)
+?,(Sat) 20 Mar 1982 (11),Plymouth Argyle (38),4-1,?,Walsall FC (17)
+?,(Wed) 14 Apr 1982 (15),Plymouth Argyle (39),2-0,?,Wimbledon FC (17)
+?,(Sat) 12 Sep 1981 (36),Portsmouth FC (18),2-2,?,Brentford FC (40)
+?,(Sat) 26 Sep 1981 (38),Portsmouth FC (19),2-0,?,Bristol City FC (40)
+?,(Sat) 26 Dec 1981 (51),Portsmouth FC (20),0-0,?,Bristol Rovers (40)
+?,(Sat) 10 Oct 1981 (40),Portsmouth FC (21),1-2,?,Burnley FC (40)
+?,(Sat) 14 Nov 1981 (45),Portsmouth FC (22),1-2,?,Carlisle United (40)
+?,(Sat) 1 May 1982 (17),Portsmouth FC (23),2-0,?,Chester FC (40)
+?,(Sat) 13 Feb 1982 (6),Portsmouth FC (24),5-1,?,Chesterfield FC (40)
+?,(Sat) 17 Apr 1982 (15),Portsmouth FC (25),0-0,?,Doncaster Rovers (40)
+?,(Tue) 29 Sep 1981 (39),Portsmouth FC (26),2-0,?,Exeter City (40)
+?,(Sat) 20 Mar 1982 (11),Portsmouth FC (27),1-1,?,Fulham FC (40)
+?,(Tue) 9 Mar 1982 (10),Portsmouth FC (28),1-0,?,Gillingham FC (40)
+?,(Sat) 28 Nov 1981 (47),Portsmouth FC (29),2-1,?,Huddersfield Town (40)
+?,(Sat) 29 Aug 1981 (34),Portsmouth FC (30),1-1,?,Lincoln City (40)
+?,(Fri) 21 May 1982 (20),Portsmouth FC (31),2-2,?,Millwall FC (40)
+?,(Sat) 24 Oct 1981 (42),Portsmouth FC (32),0-0,?,Newport County AFC (40)
+?,(Tue) 9 Feb 1982 (6),Portsmouth FC (33),1-1,?,Oxford United (40)
+?,(Sat) 27 Mar 1982 (12),Portsmouth FC (34),1-0,?,Plymouth Argyle (40)
+?,(Tue) 6 Apr 1982 (14),Portsmouth FC (35),1-1,?,Preston North End (18)
+?,(Mon) 12 Apr 1982 (15),Portsmouth FC (36),3-0,?,Reading FC (18)
+?,(Sat) 30 Jan 1982 (4),Portsmouth FC (37),0-0,?,Southend United (18)
+?,(Sat) 15 May 1982 (19),Portsmouth FC (38),3-0,?,Swindon Town (18)
+?,(Sat) 6 Mar 1982 (9),Portsmouth FC (39),1-0,?,Walsall FC (18)
+?,(Tue) 3 Nov 1981 (44),Portsmouth FC (40),1-0,?,Wimbledon FC (18)
+?,(Sat) 5 Dec 1981 (48),Preston North End (19),1-3,?,Brentford FC (41)
+?,(Sat) 27 Feb 1982 (8),Preston North End (20),1-3,?,Bristol City FC (41)
+?,(Sat) 3 Oct 1981 (39),Preston North End (21),0-1,?,Bristol Rovers (41)
+?,(Tue) 20 Oct 1981 (42),Preston North End (22),1-1,?,Burnley FC (41)
+?,(Sat) 10 Apr 1982 (14),Preston North End (23),0-1,?,Carlisle United (41)
+?,(Sat) 7 Nov 1981 (44),Preston North End (24),0-1,?,Chester FC (41)
+?,(Sat) 8 May 1982 (18),Preston North End (25),2-0,?,Chesterfield FC (41)
+?,(Sat) 20 Feb 1982 (7),Preston North End (26),3-1,?,Doncaster Rovers (41)
+?,(Sat) 13 Mar 1982 (10),Preston North End (27),1-0,?,Exeter City (41)
+?,(Tue) 20 Apr 1982 (16),Preston North End (28),1-3,?,Fulham FC (41)
+?,(Sat) 19 Sep 1981 (37),Preston North End (29),1-1,?,Gillingham FC (41)
+?,(Tue) 22 Sep 1981 (38),Preston North End (30),1-1,?,Huddersfield Town (41)
+?,(Tue) 16 Mar 1982 (11),Preston North End (31),1-1,?,Lincoln City (41)
+?,(Sat) 23 Jan 1982 (3),Preston North End (32),1-0,?,Millwall FC (41)
+?,(Tue) 4 May 1982 (18),Preston North End (33),2-1,?,Newport County AFC (41)
+?,(Sat) 24 Apr 1982 (16),Preston North End (34),2-2,?,Oxford United (41)
+?,(Sat) 16 Jan 1982 (2),Preston North End (35),1-0,?,Plymouth Argyle (41)
+?,(Sat) 5 Sep 1981 (35),Preston North End (36),1-0,?,Portsmouth FC (41)
+?,(Sat) 17 Oct 1981 (41),Preston North End (37),0-0,?,Reading FC (19)
+?,(Sat) 31 Oct 1981 (43),Preston North End (38),1-0,?,Southend United (19)
+?,(Sat) 6 Feb 1982 (5),Preston North End (39),0-0,?,Swindon Town (19)
+?,(Tue) 27 Apr 1982 (17),Preston North End (40),1-0,?,Walsall FC (19)
+?,(Sat) 3 Apr 1982 (13),Preston North End (41),3-2,?,Wimbledon FC (19)
+?,(Wed) 27 Jan 1982 (4),Reading FC (20),4-1,?,Brentford FC (42)
+?,(Wed) 10 Mar 1982 (10),Reading FC (21),3-1,?,Bristol City FC (42)
+?,(Sat) 19 Sep 1981 (37),Reading FC (22),0-3,?,Bristol Rovers (42)
+?,(Sat) 14 Nov 1981 (45),Reading FC (23),1-1,?,Burnley FC (42)
+?,(Sat) 8 May 1982 (18),Reading FC (24),2-2,?,Carlisle United (42)
+?,(Sat) 20 Mar 1982 (11),Reading FC (25),4-1,?,Chester FC (42)
+?,(Sat) 10 Oct 1981 (40),Reading FC (26),0-2,?,Chesterfield FC (42)
+?,(Wed) 17 Feb 1982 (7),Reading FC (27),3-3,?,Doncaster Rovers (42)
+?,(Sat) 27 Mar 1982 (12),Reading FC (28),4-0,?,Exeter City (42)
+?,(Wed) 20 Jan 1982 (3),Reading FC (29),0-3,?,Fulham FC (42)
+?,(Sat) 5 Sep 1981 (35),Reading FC (30),3-2,?,Gillingham FC (42)
+?,(Sat) 3 Oct 1981 (39),Reading FC (31),1-2,?,Huddersfield Town (42)
+?,(Sat) 5 Dec 1981 (48),Reading FC (32),3-2,?,Lincoln City (42)
+?,(Sat) 6 Feb 1982 (5),Reading FC (33),4-0,?,Millwall FC (42)
+?,(Wed) 23 Sep 1981 (38),Reading FC (34),2-1,?,Newport County AFC (42)
+?,(Sat) 10 Apr 1982 (14),Reading FC (35),0-3,?,Oxford United (42)
+?,(Sat) 23 Jan 1982 (3),Reading FC (36),2-2,?,Plymouth Argyle (42)
+?,(Wed) 6 Jan 1982 (1),Reading FC (37),2-1,?,Portsmouth FC (42)
+?,(Sat) 6 Mar 1982 (9),Reading FC (38),2-1,?,Preston North End (42)
+?,(Sat) 24 Apr 1982 (16),Reading FC (39),0-2,?,Southend United (20)
+?,(Sat) 20 Feb 1982 (7),Reading FC (40),1-1,?,Swindon Town (20)
+?,(Wed) 4 Nov 1981 (44),Reading FC (41),0-0,?,Walsall FC (20)
+?,(Sat) 24 Oct 1981 (42),Reading FC (42),2-1,?,Wimbledon FC (20)
+?,(Mon) 8 Mar 1982 (10),Southend United (21),1-1,?,Brentford FC (43)
+?,(Sat) 3 Apr 1982 (13),Southend United (22),3-0,?,Bristol City FC (43)
+?,(Fri) 9 Oct 1981 (40),Southend United (23),1-0,?,Bristol Rovers (43)
+?,(Fri) 14 May 1982 (19),Southend United (24),1-4,?,Burnley FC (43)
+?,(Sat) 6 Feb 1982 (5),Southend United (25),1-1,?,Carlisle United (43)
+?,(Sat) 17 Apr 1982 (15),Southend United (26),2-0,?,Chester FC (43)
+?,(Fri) 5 Mar 1982 (9),Southend United (27),0-2,?,Chesterfield FC (43)
+?,(Sat) 16 Jan 1982 (2),Southend United (28),1-1,?,Doncaster Rovers (43)
+?,(Fri) 1 Jan 1982 (0),Southend United (29),2-1,?,Exeter City (43)
+?,(Fri) 19 Feb 1982 (7),Southend United (30),0-0,?,Fulham FC (43)
+?,(Mon) 2 Nov 1981 (44),Southend United (31),3-0,?,Gillingham FC (43)
+?,(Sat) 1 May 1982 (17),Southend United (32),4-0,?,Huddersfield Town (43)
+?,(Sat) 7 Nov 1981 (44),Southend United (33),0-2,?,Lincoln City (43)
+?,(Mon) 1 Feb 1982 (5),Southend United (34),2-2,?,Millwall FC (43)
+?,(Fri) 4 Sep 1981 (35),Southend United (35),0-4,?,Newport County AFC (43)
+?,(Sat) 24 Oct 1981 (42),Southend United (36),0-1,?,Oxford United (43)
+?,(Sat) 3 Oct 1981 (39),Southend United (37),3-0,?,Plymouth Argyle (43)
+?,(Sat) 19 Sep 1981 (37),Southend United (38),2-0,?,Portsmouth FC (43)
+?,(Fri) 19 Mar 1982 (11),Southend United (39),2-2,?,Preston North End (43)
+?,(Fri) 27 Nov 1981 (47),Southend United (40),2-0,?,Reading FC (43)
+?,(Mon) 21 Sep 1981 (38),Southend United (41),0-0,?,Swindon Town (21)
+?,(Sat) 23 Jan 1982 (3),Southend United (42),3-2,?,Walsall FC (21)
+?,(Fri) 9 Apr 1982 (14),Southend United (43),2-0,?,Wimbledon FC (21)
+?,(Tue) 3 Nov 1981 (44),Swindon Town (22),0-3,?,Brentford FC (44)
+?,(Sat) 5 Dec 1981 (48),Swindon Town (23),0-0,?,Bristol City FC (44)
+?,(Sat) 6 Mar 1982 (9),Swindon Town (24),5-2,?,Bristol Rovers (44)
+?,(Sat) 13 Feb 1982 (6),Swindon Town (25),1-2,?,Burnley FC (44)
+?,(Sat) 10 Oct 1981 (40),Swindon Town (26),2-1,?,Carlisle United (44)
+?,(Tue) 27 Apr 1982 (17),Swindon Town (27),3-0,?,Chester FC (44)
+?,(Tue) 29 Sep 1981 (39),Swindon Town (28),1-2,?,Chesterfield FC (44)
+?,(Sat) 24 Oct 1981 (42),Swindon Town (29),2-2,?,Doncaster Rovers (44)
+?,(Sun) 31 Jan 1982 (4),Swindon Town (30),3-2,?,Exeter City (44)
+?,(Wed) 30 Dec 1981 (52),Swindon Town (31),1-4,?,Fulham FC (44)
+?,(Sat) 20 Mar 1982 (11),Swindon Town (32),0-1,?,Gillingham FC (44)
+?,(Sat) 3 Apr 1982 (13),Swindon Town (33),1-5,?,Huddersfield Town (44)
+?,(Sat) 24 Apr 1982 (16),Swindon Town (34),1-0,?,Lincoln City (44)
+?,(Sat) 7 Nov 1981 (44),Swindon Town (35),1-2,?,Millwall FC (44)
+?,(Sat) 8 May 1982 (18),Swindon Town (36),1-1,?,Newport County AFC (44)
+?,(Tue) 4 May 1982 (18),Swindon Town (37),3-2,?,Oxford United (44)
+?,(Sat) 10 Apr 1982 (14),Swindon Town (38),0-2,?,Plymouth Argyle (44)
+?,(Tue) 23 Feb 1982 (8),Swindon Town (39),2-0,?,Portsmouth FC (44)
+?,(Sat) 12 Sep 1981 (36),Swindon Town (40),4-0,?,Preston North End (44)
+?,(Sat) 26 Sep 1981 (38),Swindon Town (41),0-2,?,Reading FC (44)
+?,(Tue) 9 Feb 1982 (6),Swindon Town (42),0-0,?,Southend United (44)
+?,(Tue) 9 Mar 1982 (10),Swindon Town (43),2-2,?,Walsall FC (22)
+?,(Sat) 29 Aug 1981 (34),Swindon Town (44),4-1,?,Wimbledon FC (22)
+?,(Tue) 19 Jan 1982 (3),Walsall FC (23),3-0,?,Brentford FC (45)
+?,(Sat) 13 Feb 1982 (6),Walsall FC (24),0-1,?,Bristol City FC (45)
+?,(Sat) 28 Nov 1981 (47),Walsall FC (25),2-1,?,Bristol Rovers (45)
+?,(Tue) 2 Mar 1982 (9),Walsall FC (26),1-1,?,Burnley FC (45)
+?,(Sat) 13 Mar 1982 (10),Walsall FC (27),1-1,?,Carlisle United (45)
+?,(Tue) 9 Feb 1982 (6),Walsall FC (28),2-1,?,Chester FC (45)
+?,(Sat) 12 Sep 1981 (36),Walsall FC (29),1-1,?,Chesterfield FC (45)
+?,(Sat) 15 May 1982 (19),Walsall FC (30),0-0,?,Doncaster Rovers (45)
+?,(Sat) 1 May 1982 (17),Walsall FC (31),2-1,?,Exeter City (45)
+?,(Sat) 3 Apr 1982 (13),Walsall FC (32),1-1,?,Fulham FC (45)
+?,(Sat) 17 Apr 1982 (15),Walsall FC (33),1-0,?,Gillingham FC (45)
+?,(Tue) 16 Feb 1982 (7),Walsall FC (34),1-1,?,Huddersfield Town (45)
+?,(Tue) 29 Sep 1981 (39),Walsall FC (35),2-1,?,Lincoln City (45)
+?,(Sat) 27 Feb 1982 (8),Walsall FC (36),1-1,?,Millwall FC (45)
+?,(Sat) 7 Nov 1981 (44),Walsall FC (37),3-1,?,Newport County AFC (45)
+?,(Sat) 30 Jan 1982 (4),Walsall FC (38),1-3,?,Oxford United (45)
+?,(Sat) 31 Oct 1981 (43),Walsall FC (39),0-1,?,Plymouth Argyle (45)
+?,(Sat) 17 Oct 1981 (41),Walsall FC (40),3-1,?,Portsmouth FC (45)
+?,(Tue) 13 Apr 1982 (15),Walsall FC (41),0-3,?,Preston North End (45)
+?,(Tue) 16 Mar 1982 (11),Walsall FC (42),1-2,?,Reading FC (45)
+?,(Sat) 29 Aug 1981 (34),Walsall FC (43),0-1,?,Southend United (45)
+?,(Tue) 20 Oct 1981 (42),Walsall FC (44),5-0,?,Swindon Town (45)
+?,(Sat) 26 Sep 1981 (38),Walsall FC (45),1-0,?,Wimbledon FC (23)
+?,(Mon) 12 Apr 1982 (15),Wimbledon FC (24),1-2,?,Brentford FC (46)
+?,(Sat) 8 May 1982 (18),Wimbledon FC (25),0-0,?,Bristol City FC (46)
+?,(Sat) 20 Feb 1982 (7),Wimbledon FC (26),1-0,?,Bristol Rovers (46)
+?,(Sat) 27 Mar 1982 (12),Wimbledon FC (27),0-0,?,Burnley FC (46)
+?,(Tue) 11 May 1982 (19),Wimbledon FC (28),3-1,?,Carlisle United (46)
+?,(Sat) 17 Oct 1981 (41),Wimbledon FC (29),1-0,?,Chester FC (46)
+?,(Sat) 24 Apr 1982 (16),Wimbledon FC (30),3-1,?,Chesterfield FC (46)
+?,(Sat) 19 Sep 1981 (37),Wimbledon FC (31),0-1,?,Doncaster Rovers (46)
+?,(Sat) 31 Oct 1981 (43),Wimbledon FC (32),1-1,?,Exeter City (46)
+?,(Tue) 22 Sep 1981 (38),Wimbledon FC (33),1-3,?,Fulham FC (46)
+?,(Sat) 3 Oct 1981 (39),Wimbledon FC (34),0-2,?,Gillingham FC (46)
+?,(Sat) 6 Feb 1982 (5),Wimbledon FC (35),2-0,?,Huddersfield Town (46)
+?,(Sat) 27 Feb 1982 (8),Wimbledon FC (36),1-1,?,Lincoln City (46)
+?,(Sat) 5 Sep 1981 (35),Wimbledon FC (37),1-3,?,Millwall FC (46)
+?,(Sat) 5 Dec 1981 (48),Wimbledon FC (38),2-3,?,Newport County AFC (46)
+?,(Tue) 20 Apr 1982 (16),Wimbledon FC (39),2-3,?,Oxford United (46)
+?,(Tue) 20 Oct 1981 (42),Wimbledon FC (40),2-1,?,Plymouth Argyle (46)
+?,(Tue) 18 May 1982 (20),Wimbledon FC (41),3-2,?,Portsmouth FC (46)
+?,(Sat) 14 Nov 1981 (45),Wimbledon FC (42),3-2,?,Preston North End (46)
+?,(Sat) 13 Mar 1982 (10),Wimbledon FC (43),0-0,?,Reading FC (46)
+?,(Tue) 23 Mar 1982 (12),Wimbledon FC (44),3-0,?,Southend United (46)
+?,(Sat) 23 Jan 1982 (3),Wimbledon FC (45),1-1,?,Swindon Town (46)
+?,(Tue) 4 May 1982 (18),Wimbledon FC (46),2-0,?,Walsall FC (46)

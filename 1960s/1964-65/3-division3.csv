@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barnsley,AFC Bournemouth,2-2,-
--,-,Brentford,AFC Bournemouth,2-1,-
--,-,Bristol City,AFC Bournemouth,0-0,-
--,-,Bristol Rovers,AFC Bournemouth,4-2,-
--,-,Carlisle United,AFC Bournemouth,3-4,-
--,-,Colchester United,AFC Bournemouth,4-3,-
--,-,Exeter City,AFC Bournemouth,1-3,-
--,-,Gillingham,AFC Bournemouth,1-1,-
--,-,Grimsby Town,AFC Bournemouth,2-2,-
--,-,Hull City,AFC Bournemouth,2-1,-
--,-,Luton Town,AFC Bournemouth,0-1,-
--,-,Mansfield Town,AFC Bournemouth,0-0,-
--,-,Oldham Athletic,AFC Bournemouth,1-1,-
--,-,Peterborough United,AFC Bournemouth,4-3,-
--,-,Port Vale,AFC Bournemouth,1-2,-
--,-,Queens Park Rangers,AFC Bournemouth,1-1,-
--,-,Reading,AFC Bournemouth,1-0,-
--,-,Scunthorpe United,AFC Bournemouth,3-1,-
--,-,Shrewsbury Town,AFC Bournemouth,1-2,-
--,-,Southend United,AFC Bournemouth,2-1,-
--,-,Walsall,AFC Bournemouth,0-1,-
--,-,Watford,AFC Bournemouth,2-0,-
--,-,Workington,AFC Bournemouth,2-0,-
--,-,AFC Bournemouth,Barnsley,1-0,-
--,-,Brentford,Barnsley,1-0,-
--,-,Bristol City,Barnsley,5-1,-
--,-,Bristol Rovers,Barnsley,1-0,-
--,-,Carlisle United,Barnsley,4-0,-
--,-,Colchester United,Barnsley,4-1,-
--,-,Exeter City,Barnsley,3-0,-
--,-,Gillingham,Barnsley,1-0,-
--,-,Grimsby Town,Barnsley,3-2,-
--,-,Hull City,Barnsley,7-0,-
--,-,Luton Town,Barnsley,5-1,-
--,-,Mansfield Town,Barnsley,4-3,-
--,-,Oldham Athletic,Barnsley,1-1,-
--,-,Peterborough United,Barnsley,4-1,-
--,-,Port Vale,Barnsley,2-0,-
--,-,Queens Park Rangers,Barnsley,3-2,-
--,-,Reading,Barnsley,1-1,-
--,-,Scunthorpe United,Barnsley,2-3,-
--,-,Shrewsbury Town,Barnsley,3-3,-
--,-,Southend United,Barnsley,2-0,-
--,-,Walsall,Barnsley,1-1,-
--,-,Watford,Barnsley,1-1,-
--,-,Workington,Barnsley,0-0,-
--,-,AFC Bournemouth,Brentford,0-1,-
--,-,Barnsley,Brentford,3-1,-
--,-,Bristol City,Brentford,3-2,-
--,-,Bristol Rovers,Brentford,1-2,-
--,-,Carlisle United,Brentford,0-1,-
--,-,Colchester United,Brentford,0-3,-
--,-,Exeter City,Brentford,0-0,-
--,-,Gillingham,Brentford,1-0,-
--,-,Grimsby Town,Brentford,2-1,-
--,-,Hull City,Brentford,2-1,-
--,-,Luton Town,Brentford,4-2,-
--,-,Mansfield Town,Brentford,4-1,-
--,-,Oldham Athletic,Brentford,1-1,-
--,-,Peterborough United,Brentford,3-1,-
--,-,Port Vale,Brentford,2-1,-
--,-,Queens Park Rangers,Brentford,1-3,-
--,-,Reading,Brentford,1-1,-
--,-,Scunthorpe United,Brentford,2-0,-
--,-,Shrewsbury Town,Brentford,1-0,-
--,-,Southend United,Brentford,0-1,-
--,-,Walsall,Brentford,4-3,-
--,-,Watford,Brentford,1-1,-
--,-,Workington,Brentford,1-1,-
--,-,AFC Bournemouth,Bristol City,1-2,-
--,-,Barnsley,Bristol City,1-2,-
--,-,Brentford,Bristol City,2-1,-
--,-,Bristol Rovers,Bristol City,1-1,-
--,-,Carlisle United,Bristol City,1-1,-
--,-,Colchester United,Bristol City,2-3,-
--,-,Exeter City,Bristol City,0-1,-
--,-,Gillingham,Bristol City,2-0,-
--,-,Grimsby Town,Bristol City,0-2,-
--,-,Hull City,Bristol City,3-2,-
--,-,Luton Town,Bristol City,0-0,-
--,-,Mansfield Town,Bristol City,3-0,-
--,-,Oldham Athletic,Bristol City,7-3,-
--,-,Peterborough United,Bristol City,0-1,-
--,-,Port Vale,Bristol City,1-2,-
--,-,Queens Park Rangers,Bristol City,1-0,-
--,-,Reading,Bristol City,1-1,-
--,-,Scunthorpe United,Bristol City,5-2,-
--,-,Shrewsbury Town,Bristol City,1-5,-
--,-,Southend United,Bristol City,0-4,-
--,-,Walsall,Bristol City,2-4,-
--,-,Watford,Bristol City,2-2,-
--,-,Workington,Bristol City,1-0,-
--,-,AFC Bournemouth,Bristol Rovers,1-1,-
--,-,Barnsley,Bristol Rovers,0-2,-
--,-,Brentford,Bristol Rovers,1-1,-
--,-,Bristol City,Bristol Rovers,2-1,-
--,-,Carlisle United,Bristol Rovers,1-2,-
--,-,Colchester United,Bristol Rovers,1-1,-
--,-,Exeter City,Bristol Rovers,0-1,-
--,-,Gillingham,Bristol Rovers,1-3,-
--,-,Grimsby Town,Bristol Rovers,1-1,-
--,-,Hull City,Bristol Rovers,3-2,-
--,-,Luton Town,Bristol Rovers,0-2,-
--,-,Mansfield Town,Bristol Rovers,3-0,-
--,-,Oldham Athletic,Bristol Rovers,1-2,-
--,-,Peterborough United,Bristol Rovers,3-1,-
--,-,Port Vale,Bristol Rovers,1-1,-
--,-,Queens Park Rangers,Bristol Rovers,3-1,-
--,-,Reading,Bristol Rovers,1-1,-
--,-,Scunthorpe United,Bristol Rovers,1-1,-
--,-,Shrewsbury Town,Bristol Rovers,2-1,-
--,-,Southend United,Bristol Rovers,6-3,-
--,-,Walsall,Bristol Rovers,2-0,-
--,-,Watford,Bristol Rovers,1-1,-
--,-,Workington,Bristol Rovers,2-1,-
--,-,AFC Bournemouth,Carlisle United,0-4,-
--,-,Barnsley,Carlisle United,1-2,-
--,-,Brentford,Carlisle United,6-1,-
--,-,Bristol City,Carlisle United,1-2,-
--,-,Bristol Rovers,Carlisle United,5-2,-
--,-,Colchester United,Carlisle United,0-1,-
--,-,Exeter City,Carlisle United,0-0,-
--,-,Gillingham,Carlisle United,1-0,-
--,-,Grimsby Town,Carlisle United,1-1,-
--,-,Hull City,Carlisle United,1-0,-
--,-,Luton Town,Carlisle United,1-1,-
--,-,Mansfield Town,Carlisle United,2-0,-
--,-,Oldham Athletic,Carlisle United,2-3,-
--,-,Peterborough United,Carlisle United,1-2,-
--,-,Port Vale,Carlisle United,1-3,-
--,-,Queens Park Rangers,Carlisle United,1-2,-
--,-,Reading,Carlisle United,1-2,-
--,-,Scunthorpe United,Carlisle United,0-1,-
--,-,Shrewsbury Town,Carlisle United,2-2,-
--,-,Southend United,Carlisle United,1-0,-
--,-,Walsall,Carlisle United,1-0,-
--,-,Watford,Carlisle United,0-0,-
--,-,Workington,Carlisle United,0-1,-
--,-,AFC Bournemouth,Colchester United,3-1,-
--,-,Barnsley,Colchester United,1-2,-
--,-,Brentford,Colchester United,1-0,-
--,-,Bristol City,Colchester United,1-1,-
--,-,Bristol Rovers,Colchester United,2-2,-
--,-,Carlisle United,Colchester United,4-1,-
--,-,Exeter City,Colchester United,2-0,-
--,-,Gillingham,Colchester United,2-1,-
--,-,Grimsby Town,Colchester United,2-0,-
--,-,Hull City,Colchester United,5-1,-
--,-,Luton Town,Colchester United,3-1,-
--,-,Mansfield Town,Colchester United,0-1,-
--,-,Oldham Athletic,Colchester United,3-1,-
--,-,Peterborough United,Colchester United,4-1,-
--,-,Port Vale,Colchester United,1-2,-
--,-,Queens Park Rangers,Colchester United,5-0,-
--,-,Reading,Colchester United,1-1,-
--,-,Scunthorpe United,Colchester United,0-0,-
--,-,Shrewsbury Town,Colchester United,3-0,-
--,-,Southend United,Colchester United,6-3,-
--,-,Walsall,Colchester United,2-1,-
--,-,Watford,Colchester United,3-0,-
--,-,Workington,Colchester United,1-0,-
--,-,AFC Bournemouth,Exeter City,2-2,-
--,-,Barnsley,Exeter City,0-0,-
--,-,Brentford,Exeter City,2-1,-
--,-,Bristol City,Exeter City,1-1,-
--,-,Bristol Rovers,Exeter City,1-1,-
--,-,Carlisle United,Exeter City,2-1,-
--,-,Colchester United,Exeter City,1-1,-
--,-,Gillingham,Exeter City,0-1,-
--,-,Grimsby Town,Exeter City,2-1,-
--,-,Hull City,Exeter City,3-1,-
--,-,Luton Town,Exeter City,1-2,-
--,-,Mansfield Town,Exeter City,2-1,-
--,-,Oldham Athletic,Exeter City,2-0,-
--,-,Peterborough United,Exeter City,0-0,-
--,-,Port Vale,Exeter City,0-1,-
--,-,Queens Park Rangers,Exeter City,0-0,-
--,-,Reading,Exeter City,2-2,-
--,-,Scunthorpe United,Exeter City,0-0,-
--,-,Shrewsbury Town,Exeter City,1-0,-
--,-,Southend United,Exeter City,0-0,-
--,-,Walsall,Exeter City,2-1,-
--,-,Watford,Exeter City,1-0,-
--,-,Workington,Exeter City,0-1,-
--,-,AFC Bournemouth,Gillingham,1-2,-
--,-,Barnsley,Gillingham,1-0,-
--,-,Brentford,Gillingham,2-0,-
--,-,Bristol City,Gillingham,1-2,-
--,-,Bristol Rovers,Gillingham,3-0,-
--,-,Carlisle United,Gillingham,3-1,-
--,-,Colchester United,Gillingham,2-1,-
--,-,Exeter City,Gillingham,1-1,-
--,-,Grimsby Town,Gillingham,1-1,-
--,-,Hull City,Gillingham,1-1,-
--,-,Luton Town,Gillingham,0-2,-
--,-,Mansfield Town,Gillingham,3-1,-
--,-,Oldham Athletic,Gillingham,2-0,-
--,-,Peterborough United,Gillingham,1-0,-
--,-,Port Vale,Gillingham,0-4,-
--,-,Queens Park Rangers,Gillingham,3-1,-
--,-,Reading,Gillingham,3-0,-
--,-,Scunthorpe United,Gillingham,2-3,-
--,-,Shrewsbury Town,Gillingham,2-0,-
--,-,Southend United,Gillingham,3-1,-
--,-,Walsall,Gillingham,0-1,-
--,-,Watford,Gillingham,1-2,-
--,-,Workington,Gillingham,1-1,-
--,-,AFC Bournemouth,Grimsby Town,1-2,-
--,-,Barnsley,Grimsby Town,1-0,-
--,-,Brentford,Grimsby Town,2-0,-
--,-,Bristol City,Grimsby Town,4-0,-
--,-,Bristol Rovers,Grimsby Town,5-3,-
--,-,Carlisle United,Grimsby Town,3-1,-
--,-,Colchester United,Grimsby Town,0-1,-
--,-,Exeter City,Grimsby Town,4-1,-
--,-,Gillingham,Grimsby Town,0-0,-
--,-,Hull City,Grimsby Town,3-3,-
--,-,Luton Town,Grimsby Town,1-1,-
--,-,Mansfield Town,Grimsby Town,2-2,-
--,-,Oldham Athletic,Grimsby Town,1-5,-
--,-,Peterborough United,Grimsby Town,3-1,-
--,-,Port Vale,Grimsby Town,2-3,-
--,-,Queens Park Rangers,Grimsby Town,1-1,-
--,-,Reading,Grimsby Town,2-0,-
--,-,Scunthorpe United,Grimsby Town,2-1,-
--,-,Shrewsbury Town,Grimsby Town,1-3,-
--,-,Southend United,Grimsby Town,4-0,-
--,-,Walsall,Grimsby Town,1-0,-
--,-,Watford,Grimsby Town,1-1,-
--,-,Workington,Grimsby Town,2-2,-
--,-,AFC Bournemouth,Hull City,2-3,-
--,-,Barnsley,Hull City,1-1,-
--,-,Brentford,Hull City,1-3,-
--,-,Bristol City,Hull City,1-2,-
--,-,Bristol Rovers,Hull City,1-1,-
--,-,Carlisle United,Hull City,0-0,-
--,-,Colchester United,Hull City,1-2,-
--,-,Exeter City,Hull City,0-2,-
--,-,Gillingham,Hull City,1-0,-
--,-,Grimsby Town,Hull City,3-0,-
--,-,Luton Town,Hull City,1-3,-
--,-,Mansfield Town,Hull City,2-1,-
--,-,Oldham Athletic,Hull City,2-1,-
--,-,Peterborough United,Hull City,2-1,-
--,-,Port Vale,Hull City,0-3,-
--,-,Queens Park Rangers,Hull City,2-1,-
--,-,Reading,Hull City,3-3,-
--,-,Scunthorpe United,Hull City,1-1,-
--,-,Shrewsbury Town,Hull City,0-4,-
--,-,Southend United,Hull City,2-1,-
--,-,Walsall,Hull City,3-3,-
--,-,Watford,Hull City,2-1,-
--,-,Workington,Hull City,1-3,-
--,-,AFC Bournemouth,Luton Town,4-0,-
--,-,Barnsley,Luton Town,3-0,-
--,-,Brentford,Luton Town,2-2,-
--,-,Bristol City,Luton Town,1-0,-
--,-,Bristol Rovers,Luton Town,3-2,-
--,-,Carlisle United,Luton Town,1-1,-
--,-,Colchester United,Luton Town,0-1,-
--,-,Exeter City,Luton Town,5-1,-
--,-,Gillingham,Luton Town,5-0,-
--,-,Grimsby Town,Luton Town,2-2,-
--,-,Hull City,Luton Town,3-1,-
--,-,Mansfield Town,Luton Town,2-0,-
--,-,Oldham Athletic,Luton Town,0-2,-
--,-,Peterborough United,Luton Town,2-0,-
--,-,Port Vale,Luton Town,1-0,-
--,-,Queens Park Rangers,Luton Town,7-1,-
--,-,Reading,Luton Town,1-2,-
--,-,Scunthorpe United,Luton Town,8-1,-
--,-,Shrewsbury Town,Luton Town,0-2,-
--,-,Southend United,Luton Town,5-0,-
--,-,Walsall,Luton Town,0-1,-
--,-,Watford,Luton Town,2-0,-
--,-,Workington,Luton Town,1-0,-
--,-,AFC Bournemouth,Mansfield Town,2-0,-
--,-,Barnsley,Mansfield Town,2-3,-
--,-,Brentford,Mansfield Town,1-0,-
--,-,Bristol City,Mansfield Town,1-1,-
--,-,Bristol Rovers,Mansfield Town,4-1,-
--,-,Carlisle United,Mansfield Town,3-0,-
--,-,Colchester United,Mansfield Town,0-1,-
--,-,Exeter City,Mansfield Town,2-3,-
--,-,Gillingham,Mansfield Town,0-0,-
--,-,Grimsby Town,Mansfield Town,1-1,-
--,-,Hull City,Mansfield Town,1-1,-
--,-,Luton Town,Mansfield Town,1-1,-
--,-,Oldham Athletic,Mansfield Town,2-1,-
--,-,Peterborough United,Mansfield Town,4-5,-
--,-,Port Vale,Mansfield Town,2-2,-
--,-,Queens Park Rangers,Mansfield Town,2-0,-
--,-,Reading,Mansfield Town,2-1,-
--,-,Scunthorpe United,Mansfield Town,0-1,-
--,-,Shrewsbury Town,Mansfield Town,1-1,-
--,-,Southend United,Mansfield Town,1-4,-
--,-,Walsall,Mansfield Town,2-1,-
--,-,Watford,Mansfield Town,3-1,-
--,-,Workington,Mansfield Town,1-5,-
--,-,AFC Bournemouth,Oldham Athletic,0-0,-
--,-,Barnsley,Oldham Athletic,0-1,-
--,-,Brentford,Oldham Athletic,2-2,-
--,-,Bristol City,Oldham Athletic,2-0,-
--,-,Bristol Rovers,Oldham Athletic,0-0,-
--,-,Carlisle United,Oldham Athletic,2-0,-
--,-,Colchester United,Oldham Athletic,2-2,-
--,-,Exeter City,Oldham Athletic,2-1,-
--,-,Gillingham,Oldham Athletic,2-1,-
--,-,Grimsby Town,Oldham Athletic,3-1,-
--,-,Hull City,Oldham Athletic,2-1,-
--,-,Luton Town,Oldham Athletic,2-0,-
--,-,Mansfield Town,Oldham Athletic,4-1,-
--,-,Peterborough United,Oldham Athletic,5-0,-
--,-,Port Vale,Oldham Athletic,2-1,-
--,-,Queens Park Rangers,Oldham Athletic,1-1,-
--,-,Reading,Oldham Athletic,1-0,-
--,-,Scunthorpe United,Oldham Athletic,1-1,-
--,-,Shrewsbury Town,Oldham Athletic,1-3,-
--,-,Southend United,Oldham Athletic,6-1,-
--,-,Walsall,Oldham Athletic,1-2,-
--,-,Watford,Oldham Athletic,3-2,-
--,-,Workington,Oldham Athletic,0-0,-
--,-,AFC Bournemouth,Peterborough United,0-1,-
--,-,Barnsley,Peterborough United,3-2,-
--,-,Brentford,Peterborough United,3-1,-
--,-,Bristol City,Peterborough United,3-1,-
--,-,Bristol Rovers,Peterborough United,4-0,-
--,-,Carlisle United,Peterborough United,2-1,-
--,-,Colchester United,Peterborough United,0-1,-
--,-,Exeter City,Peterborough United,4-2,-
--,-,Gillingham,Peterborough United,2-0,-
--,-,Grimsby Town,Peterborough United,2-0,-
--,-,Hull City,Peterborough United,0-2,-
--,-,Luton Town,Peterborough United,1-1,-
--,-,Mansfield Town,Peterborough United,0-0,-
--,-,Oldham Athletic,Peterborough United,3-1,-
--,-,Port Vale,Peterborough United,0-1,-
--,-,Queens Park Rangers,Peterborough United,3-2,-
--,-,Reading,Peterborough United,4-2,-
--,-,Scunthorpe United,Peterborough United,2-3,-
--,-,Shrewsbury Town,Peterborough United,1-1,-
--,-,Southend United,Peterborough United,2-0,-
--,-,Walsall,Peterborough United,0-1,-
--,-,Watford,Peterborough United,1-1,-
--,-,Workington,Peterborough United,1-0,-
--,-,AFC Bournemouth,Port Vale,3-0,-
--,-,Barnsley,Port Vale,0-2,-
--,-,Brentford,Port Vale,4-0,-
--,-,Bristol City,Port Vale,3-0,-
--,-,Bristol Rovers,Port Vale,4-0,-
--,-,Carlisle United,Port Vale,1-1,-
--,-,Colchester United,Port Vale,2-0,-
--,-,Exeter City,Port Vale,2-1,-
--,-,Gillingham,Port Vale,2-0,-
--,-,Grimsby Town,Port Vale,2-0,-
--,-,Hull City,Port Vale,4-0,-
--,-,Luton Town,Port Vale,1-1,-
--,-,Mansfield Town,Port Vale,2-2,-
--,-,Oldham Athletic,Port Vale,0-1,-
--,-,Peterborough United,Port Vale,2-2,-
--,-,Queens Park Rangers,Port Vale,3-1,-
--,-,Reading,Port Vale,1-1,-
--,-,Scunthorpe United,Port Vale,0-0,-
--,-,Shrewsbury Town,Port Vale,0-0,-
--,-,Southend United,Port Vale,2-1,-
--,-,Walsall,Port Vale,0-0,-
--,-,Watford,Port Vale,1-0,-
--,-,Workington,Port Vale,4-1,-
--,-,AFC Bournemouth,Queens Park Rangers,2-0,-
--,-,Barnsley,Queens Park Rangers,0-0,-
--,-,Brentford,Queens Park Rangers,5-2,-
--,-,Bristol City,Queens Park Rangers,2-0,-
--,-,Bristol Rovers,Queens Park Rangers,3-1,-
--,-,Carlisle United,Queens Park Rangers,2-0,-
--,-,Colchester United,Queens Park Rangers,1-2,-
--,-,Exeter City,Queens Park Rangers,2-2,-
--,-,Gillingham,Queens Park Rangers,2-2,-
--,-,Grimsby Town,Queens Park Rangers,0-0,-
--,-,Hull City,Queens Park Rangers,3-1,-
--,-,Luton Town,Queens Park Rangers,2-0,-
--,-,Mansfield Town,Queens Park Rangers,8-1,-
--,-,Oldham Athletic,Queens Park Rangers,5-3,-
--,-,Peterborough United,Queens Park Rangers,6-1,-
--,-,Port Vale,Queens Park Rangers,0-0,-
--,-,Reading,Queens Park Rangers,5-3,-
--,-,Scunthorpe United,Queens Park Rangers,2-1,-
--,-,Shrewsbury Town,Queens Park Rangers,3-2,-
--,-,Southend United,Queens Park Rangers,0-0,-
--,-,Walsall,Queens Park Rangers,4-1,-
--,-,Watford,Queens Park Rangers,0-2,-
--,-,Workington,Queens Park Rangers,0-0,-
--,-,AFC Bournemouth,Reading,3-2,-
--,-,Barnsley,Reading,1-1,-
--,-,Brentford,Reading,2-1,-
--,-,Bristol City,Reading,2-0,-
--,-,Bristol Rovers,Reading,1-0,-
--,-,Carlisle United,Reading,1-2,-
--,-,Colchester United,Reading,2-2,-
--,-,Exeter City,Reading,2-2,-
--,-,Gillingham,Reading,2-1,-
--,-,Grimsby Town,Reading,1-1,-
--,-,Hull City,Reading,1-0,-
--,-,Luton Town,Reading,3-1,-
--,-,Mansfield Town,Reading,2-1,-
--,-,Oldham Athletic,Reading,1-2,-
--,-,Peterborough United,Reading,2-1,-
--,-,Port Vale,Reading,2-0,-
--,-,Queens Park Rangers,Reading,0-1,-
--,-,Scunthorpe United,Reading,1-1,-
--,-,Shrewsbury Town,Reading,4-0,-
--,-,Southend United,Reading,2-2,-
--,-,Walsall,Reading,4-1,-
--,-,Watford,Reading,5-1,-
--,-,Workington,Reading,0-2,-
--,-,AFC Bournemouth,Scunthorpe United,2-1,-
--,-,Barnsley,Scunthorpe United,2-0,-
--,-,Brentford,Scunthorpe United,4-0,-
--,-,Bristol City,Scunthorpe United,2-2,-
--,-,Bristol Rovers,Scunthorpe United,2-0,-
--,-,Carlisle United,Scunthorpe United,3-1,-
--,-,Colchester United,Scunthorpe United,2-1,-
--,-,Exeter City,Scunthorpe United,1-3,-
--,-,Gillingham,Scunthorpe United,0-0,-
--,-,Grimsby Town,Scunthorpe United,3-0,-
--,-,Hull City,Scunthorpe United,1-2,-
--,-,Luton Town,Scunthorpe United,1-1,-
--,-,Mansfield Town,Scunthorpe United,3-2,-
--,-,Oldham Athletic,Scunthorpe United,2-1,-
--,-,Peterborough United,Scunthorpe United,2-2,-
--,-,Port Vale,Scunthorpe United,0-1,-
--,-,Queens Park Rangers,Scunthorpe United,2-1,-
--,-,Reading,Scunthorpe United,2-0,-
--,-,Shrewsbury Town,Scunthorpe United,3-2,-
--,-,Southend United,Scunthorpe United,0-1,-
--,-,Walsall,Scunthorpe United,1-2,-
--,-,Watford,Scunthorpe United,5-0,-
--,-,Workington,Scunthorpe United,2-0,-
--,-,AFC Bournemouth,Shrewsbury Town,2-1,-
--,-,Barnsley,Shrewsbury Town,6-2,-
--,-,Brentford,Shrewsbury Town,2-0,-
--,-,Bristol City,Shrewsbury Town,3-0,-
--,-,Bristol Rovers,Shrewsbury Town,0-0,-
--,-,Carlisle United,Shrewsbury Town,2-1,-
--,-,Colchester United,Shrewsbury Town,0-4,-
--,-,Exeter City,Shrewsbury Town,0-1,-
--,-,Gillingham,Shrewsbury Town,5-0,-
--,-,Grimsby Town,Shrewsbury Town,2-2,-
--,-,Hull City,Shrewsbury Town,1-2,-
--,-,Luton Town,Shrewsbury Town,2-7,-
--,-,Mansfield Town,Shrewsbury Town,1-0,-
--,-,Oldham Athletic,Shrewsbury Town,1-3,-
--,-,Peterborough United,Shrewsbury Town,4-1,-
--,-,Port Vale,Shrewsbury Town,1-1,-
--,-,Queens Park Rangers,Shrewsbury Town,2-1,-
--,-,Reading,Shrewsbury Town,3-1,-
--,-,Scunthorpe United,Shrewsbury Town,3-2,-
--,-,Southend United,Shrewsbury Town,1-0,-
--,-,Walsall,Shrewsbury Town,1-1,-
--,-,Watford,Shrewsbury Town,2-2,-
--,-,Workington,Shrewsbury Town,2-2,-
--,-,AFC Bournemouth,Southend United,2-1,-
--,-,Barnsley,Southend United,1-4,-
--,-,Brentford,Southend United,2-1,-
--,-,Bristol City,Southend United,4-0,-
--,-,Bristol Rovers,Southend United,2-2,-
--,-,Carlisle United,Southend United,4-3,-
--,-,Colchester United,Southend United,3-1,-
--,-,Exeter City,Southend United,1-1,-
--,-,Gillingham,Southend United,1-0,-
--,-,Grimsby Town,Southend United,1-0,-
--,-,Hull City,Southend United,0-0,-
--,-,Luton Town,Southend United,0-1,-
--,-,Mansfield Town,Southend United,6-1,-
--,-,Oldham Athletic,Southend United,0-2,-
--,-,Peterborough United,Southend United,4-2,-
--,-,Port Vale,Southend United,2-2,-
--,-,Queens Park Rangers,Southend United,2-0,-
--,-,Reading,Southend United,2-0,-
--,-,Scunthorpe United,Southend United,2-1,-
--,-,Shrewsbury Town,Southend United,1-3,-
--,-,Walsall,Southend United,2-3,-
--,-,Watford,Southend United,2-1,-
--,-,Workington,Southend United,3-1,-
--,-,AFC Bournemouth,Walsall,4-0,-
--,-,Barnsley,Walsall,0-1,-
--,-,Brentford,Walsall,0-0,-
--,-,Bristol City,Walsall,5-1,-
--,-,Bristol Rovers,Walsall,0-1,-
--,-,Carlisle United,Walsall,2-1,-
--,-,Colchester United,Walsall,2-1,-
--,-,Exeter City,Walsall,0-1,-
--,-,Gillingham,Walsall,4-0,-
--,-,Grimsby Town,Walsall,2-2,-
--,-,Hull City,Walsall,2-0,-
--,-,Luton Town,Walsall,1-3,-
--,-,Mansfield Town,Walsall,2-0,-
--,-,Oldham Athletic,Walsall,1-3,-
--,-,Peterborough United,Walsall,3-2,-
--,-,Port Vale,Walsall,2-1,-
--,-,Queens Park Rangers,Walsall,1-0,-
--,-,Reading,Walsall,0-2,-
--,-,Scunthorpe United,Walsall,4-0,-
--,-,Shrewsbury Town,Walsall,3-1,-
--,-,Southend United,Walsall,0-0,-
--,-,Watford,Walsall,3-0,-
--,-,Workington,Walsall,3-1,-
--,-,AFC Bournemouth,Watford,0-0,-
--,-,Barnsley,Watford,4-0,-
--,-,Brentford,Watford,5-1,-
--,-,Bristol City,Watford,1-1,-
--,-,Bristol Rovers,Watford,1-0,-
--,-,Carlisle United,Watford,1-1,-
--,-,Colchester United,Watford,0-0,-
--,-,Exeter City,Watford,1-0,-
--,-,Gillingham,Watford,5-2,-
--,-,Grimsby Town,Watford,1-0,-
--,-,Hull City,Watford,1-1,-
--,-,Luton Town,Watford,2-4,-
--,-,Mansfield Town,Watford,3-0,-
--,-,Oldham Athletic,Watford,2-0,-
--,-,Peterborough United,Watford,2-1,-
--,-,Port Vale,Watford,2-2,-
--,-,Queens Park Rangers,Watford,2-2,-
--,-,Reading,Watford,6-2,-
--,-,Scunthorpe United,Watford,0-2,-
--,-,Shrewsbury Town,Watford,2-2,-
--,-,Southend United,Watford,0-1,-
--,-,Walsall,Watford,0-4,-
--,-,Workington,Watford,2-0,-
--,-,AFC Bournemouth,Workington,4-0,-
--,-,Barnsley,Workington,0-3,-
--,-,Brentford,Workington,3-0,-
--,-,Bristol City,Workington,5-0,-
--,-,Bristol Rovers,Workington,4-0,-
--,-,Carlisle United,Workington,1-0,-
--,-,Colchester United,Workington,1-1,-
--,-,Exeter City,Workington,0-0,-
--,-,Gillingham,Workington,5-1,-
--,-,Grimsby Town,Workington,0-1,-
--,-,Hull City,Workington,2-2,-
--,-,Luton Town,Workington,0-0,-
--,-,Mansfield Town,Workington,3-5,-
--,-,Oldham Athletic,Workington,0-2,-
--,-,Peterborough United,Workington,0-4,-
--,-,Port Vale,Workington,2-0,-
--,-,Queens Park Rangers,Workington,2-1,-
--,-,Reading,Workington,1-0,-
--,-,Scunthorpe United,Workington,1-1,-
--,-,Shrewsbury Town,Workington,6-1,-
--,-,Southend United,Workington,3-0,-
--,-,Walsall,Workington,1-4,-
--,-,Watford,Workington,3-2,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 20 Feb 1965 (7),AFC Bournemouth (1),1-0,?,Barnsley FC (1)
+?,(Mon) 19 Apr 1965 (16),AFC Bournemouth (2),0-1,?,Brentford FC (1)
+?,(Sat) 28 Nov 1964 (47),AFC Bournemouth (3),1-2,?,Bristol City FC (1)
+?,(Wed) 30 Sep 1964 (39),AFC Bournemouth (4),1-1,?,Bristol Rovers (1)
+?,(Sat) 6 Feb 1965 (5),AFC Bournemouth (5),0-4,?,Carlisle United (1)
+?,(Wed) 14 Oct 1964 (41),AFC Bournemouth (6),3-1,?,Colchester United (1)
+?,(Wed) 26 Aug 1964 (34),AFC Bournemouth (7),2-2,?,Exeter City (1)
+?,(Sat) 3 Apr 1965 (13),AFC Bournemouth (8),1-2,?,Gillingham FC (1)
+?,(Sat) 5 Sep 1964 (35),AFC Bournemouth (9),1-2,?,Grimsby Town (1)
+?,(Sat) 9 Jan 1965 (1),AFC Bournemouth (10),2-3,?,Hull City (1)
+?,(Sat) 19 Sep 1964 (37),AFC Bournemouth (11),4-0,?,Luton Town (1)
+?,(Sat) 16 Jan 1965 (2),AFC Bournemouth (12),2-0,?,Mansfield Town (1)
+?,(Wed) 9 Sep 1964 (36),AFC Bournemouth (13),0-0,?,Oldham Athletic (1)
+?,(Sat) 19 Dec 1964 (50),AFC Bournemouth (14),0-1,?,Peterborough United (1)
+?,(Sat) 3 Oct 1964 (39),AFC Bournemouth (15),3-0,?,Port Vale FC (1)
+?,(Sat) 6 Mar 1965 (9),AFC Bournemouth (16),2-0,?,Queens Park Rangers (1)
+?,(Sat) 22 Aug 1964 (33),AFC Bournemouth (17),3-2,?,Reading FC (1)
+?,(Sat) 17 Oct 1964 (41),AFC Bournemouth (18),2-1,?,Scunthorpe United (1)
+?,(Wed) 28 Oct 1964 (43),AFC Bournemouth (19),2-1,?,Shrewsbury Town (1)
+?,(Sat) 26 Dec 1964 (51),AFC Bournemouth (20),2-1,?,Southend United (1)
+?,(Sat) 17 Apr 1965 (15),AFC Bournemouth (21),4-0,?,Walsall FC (1)
+?,(Sat) 31 Oct 1964 (43),AFC Bournemouth (22),0-0,?,Watford FC (1)
+?,(Sat) 20 Mar 1965 (11),AFC Bournemouth (23),4-0,?,Workington (1)
+?,(Sat) 10 Oct 1964 (40),Barnsley FC (2),2-2,?,AFC Bournemouth (24)
+?,(Sat) 7 Nov 1964 (44),Barnsley FC (3),3-1,?,Brentford FC (2)
+?,(Tue) 3 Nov 1964 (44),Barnsley FC (4),1-2,?,Bristol City FC (2)
+?,(Sat) 13 Mar 1965 (10),Barnsley FC (5),0-2,?,Bristol Rovers (2)
+?,(Sat) 10 Apr 1965 (14),Barnsley FC (6),1-2,?,Carlisle United (2)
+?,(Fri) 26 Mar 1965 (12),Barnsley FC (7),1-2,?,Colchester United (2)
+?,(Sat) 27 Feb 1965 (8),Barnsley FC (8),0-0,?,Exeter City (2)
+?,(Tue) 15 Sep 1964 (37),Barnsley FC (9),1-0,?,Gillingham FC (2)
+?,(Tue) 30 Mar 1965 (13),Barnsley FC (10),1-0,?,Grimsby Town (2)
+?,(Wed) 30 Sep 1964 (39),Barnsley FC (11),1-1,?,Hull City (2)
+?,(Sat) 30 Jan 1965 (4),Barnsley FC (12),3-0,?,Luton Town (2)
+?,(Sat) 24 Apr 1965 (16),Barnsley FC (13),2-3,?,Mansfield Town (2)
+?,(Sat) 24 Oct 1964 (42),Barnsley FC (14),0-1,?,Oldham Athletic (2)
+?,(Mon) 28 Dec 1964 (52),Barnsley FC (15),3-2,?,Peterborough United (2)
+?,(Sat) 21 Nov 1964 (46),Barnsley FC (16),0-2,?,Port Vale FC (2)
+?,(Sat) 22 Aug 1964 (33),Barnsley FC (17),0-0,?,Queens Park Rangers (2)
+?,(Fri) 4 Sep 1964 (35),Barnsley FC (18),1-1,?,Reading FC (2)
+?,(Fri) 25 Sep 1964 (38),Barnsley FC (19),2-0,?,Scunthorpe United (2)
+?,(Fri) 18 Dec 1964 (50),Barnsley FC (20),6-2,?,Shrewsbury Town (2)
+?,(Sat) 16 Jan 1965 (2),Barnsley FC (21),1-4,?,Southend United (2)
+?,(Sat) 13 Feb 1965 (6),Barnsley FC (22),0-1,?,Walsall FC (2)
+?,(Tue) 20 Oct 1964 (42),Barnsley FC (23),4-0,?,Watford FC (2)
+?,(Tue) 20 Apr 1965 (16),Barnsley FC (24),0-3,?,Workington (2)
+?,(Fri) 16 Apr 1965 (15),Brentford FC (3),2-1,?,AFC Bournemouth (25)
+?,(Sat) 20 Mar 1965 (11),Brentford FC (4),1-0,?,Barnsley FC (25)
+?,(Sat) 26 Dec 1964 (51),Brentford FC (5),2-1,?,Bristol City FC (3)
+?,(Sat) 26 Sep 1964 (38),Brentford FC (6),1-1,?,Bristol Rovers (3)
+?,(Sat) 19 Dec 1964 (50),Brentford FC (7),6-1,?,Carlisle United (3)
+?,(Sat) 16 Jan 1965 (2),Brentford FC (8),1-0,?,Colchester United (3)
+?,(Tue) 20 Oct 1964 (42),Brentford FC (9),2-1,?,Exeter City (3)
+?,(Sat) 19 Sep 1964 (37),Brentford FC (10),2-0,?,Gillingham FC (3)
+?,(Tue) 15 Sep 1964 (37),Brentford FC (11),2-0,?,Grimsby Town (3)
+?,(Tue) 27 Oct 1964 (43),Brentford FC (12),1-3,?,Hull City (3)
+?,(Sat) 22 Aug 1964 (33),Brentford FC (13),2-2,?,Luton Town (3)
+?,(Mon) 31 Aug 1964 (35),Brentford FC (14),1-0,?,Mansfield Town (3)
+?,(Sat) 13 Feb 1965 (6),Brentford FC (15),2-2,?,Oldham Athletic (3)
+?,(Tue) 6 Oct 1964 (40),Brentford FC (16),3-1,?,Peterborough United (3)
+?,(Sat) 5 Sep 1964 (35),Brentford FC (17),4-0,?,Port Vale FC (3)
+?,(Sat) 20 Feb 1965 (7),Brentford FC (18),5-2,?,Queens Park Rangers (3)
+?,(Sat) 17 Apr 1965 (15),Brentford FC (19),2-1,?,Reading FC (3)
+?,(Tue) 27 Apr 1965 (17),Brentford FC (20),4-0,?,Scunthorpe United (3)
+?,(Sat) 17 Oct 1964 (41),Brentford FC (21),2-0,?,Shrewsbury Town (3)
+?,(Sat) 31 Oct 1964 (43),Brentford FC (22),2-1,?,Southend United (3)
+?,(Sat) 3 Apr 1965 (13),Brentford FC (23),0-0,?,Walsall FC (3)
+?,(Sat) 28 Nov 1964 (47),Brentford FC (24),5-1,?,Watford FC (3)
+?,(Wed) 7 Apr 1965 (14),Brentford FC (25),3-0,?,Workington (3)
+?,(Fri) 9 Apr 1965 (14),Bristol City FC (4),0-0,?,AFC Bournemouth (26)
+?,(Tue) 25 Aug 1964 (34),Bristol City FC (5),5-1,?,Barnsley FC (26)
+?,(Tue) 2 Mar 1965 (9),Bristol City FC (6),3-2,?,Brentford FC (26)
+?,(Sat) 13 Feb 1965 (6),Bristol City FC (7),2-1,?,Bristol Rovers (4)
+?,(Fri) 23 Oct 1964 (42),Bristol City FC (8),1-2,?,Carlisle United (4)
+?,(Sat) 10 Oct 1964 (40),Bristol City FC (9),1-1,?,Colchester United (4)
+?,(Sat) 30 Jan 1965 (4),Bristol City FC (10),1-1,?,Exeter City (4)
+?,(Sat) 26 Sep 1964 (38),Bristol City FC (11),1-2,?,Gillingham FC (4)
+?,(Fri) 26 Mar 1965 (12),Bristol City FC (12),4-0,?,Grimsby Town (4)
+?,(Sat) 23 Jan 1965 (3),Bristol City FC (13),1-2,?,Hull City (4)
+?,(Sat) 13 Mar 1965 (10),Bristol City FC (14),1-0,?,Luton Town (4)
+?,(Sat) 7 Nov 1964 (44),Bristol City FC (15),1-1,?,Mansfield Town (4)
+?,(Sat) 24 Apr 1965 (16),Bristol City FC (16),2-0,?,Oldham Athletic (4)
+?,(Sat) 21 Nov 1964 (46),Bristol City FC (17),3-1,?,Peterborough United (4)
+?,(Sat) 27 Feb 1965 (8),Bristol City FC (18),3-0,?,Port Vale FC (4)
+?,(Tue) 13 Oct 1964 (41),Bristol City FC (19),2-0,?,Queens Park Rangers (4)
+?,(Tue) 29 Sep 1964 (39),Bristol City FC (20),2-0,?,Reading FC (4)
+?,(Sat) 12 Dec 1964 (49),Bristol City FC (21),2-2,?,Scunthorpe United (4)
+?,(Tue) 20 Apr 1965 (16),Bristol City FC (22),3-0,?,Shrewsbury Town (4)
+?,(Tue) 8 Sep 1964 (36),Bristol City FC (23),4-0,?,Southend United (4)
+?,(Sat) 29 Aug 1964 (34),Bristol City FC (24),5-1,?,Walsall FC (4)
+?,(Sat) 2 Jan 1965 (0),Bristol City FC (25),1-1,?,Watford FC (4)
+?,(Sat) 12 Sep 1964 (36),Bristol City FC (26),5-0,?,Workington (4)
+?,(Tue) 6 Oct 1964 (40),Bristol Rovers (5),4-2,?,AFC Bournemouth (27)
+?,(Sat) 31 Oct 1964 (43),Bristol Rovers (6),1-0,?,Barnsley FC (27)
+?,(Sat) 6 Feb 1965 (5),Bristol Rovers (7),1-2,?,Brentford FC (27)
+?,(Sat) 3 Oct 1964 (39),Bristol Rovers (8),1-1,?,Bristol City FC (27)
+?,(Sat) 5 Sep 1964 (35),Bristol Rovers (9),5-2,?,Carlisle United (5)
+?,(Sat) 19 Sep 1964 (37),Bristol Rovers (10),2-2,?,Colchester United (5)
+?,(Fri) 16 Apr 1965 (15),Bristol Rovers (11),1-1,?,Exeter City (5)
+?,(Tue) 27 Oct 1964 (43),Bristol Rovers (12),3-0,?,Gillingham FC (5)
+?,(Tue) 1 Sep 1964 (35),Bristol Rovers (13),5-3,?,Grimsby Town (5)
+?,(Sat) 6 Mar 1965 (9),Bristol Rovers (14),1-1,?,Hull City (5)
+?,(Sat) 19 Dec 1964 (50),Bristol Rovers (15),3-2,?,Luton Town (5)
+?,(Sat) 22 Aug 1964 (33),Bristol Rovers (16),4-1,?,Mansfield Town (5)
+?,(Tue) 20 Oct 1964 (42),Bristol Rovers (17),0-0,?,Oldham Athletic (5)
+?,(Tue) 15 Sep 1964 (37),Bristol Rovers (18),4-0,?,Peterborough United (5)
+?,(Sat) 16 Jan 1965 (2),Bristol Rovers (19),4-0,?,Port Vale FC (5)
+?,(Sat) 26 Dec 1964 (51),Bristol Rovers (20),3-1,?,Queens Park Rangers (5)
+?,(Sat) 17 Oct 1964 (41),Bristol Rovers (21),1-0,?,Reading FC (5)
+?,(Sat) 20 Mar 1965 (11),Bristol Rovers (22),2-0,?,Scunthorpe United (5)
+?,(Tue) 23 Feb 1965 (8),Bristol Rovers (23),0-0,?,Shrewsbury Town (5)
+?,(Sat) 17 Apr 1965 (15),Bristol Rovers (24),2-2,?,Southend United (5)
+?,(Tue) 16 Mar 1965 (11),Bristol Rovers (25),0-1,?,Walsall FC (5)
+?,(Sat) 3 Apr 1965 (13),Bristol Rovers (26),1-0,?,Watford FC (5)
+?,(Sat) 28 Nov 1964 (47),Bristol Rovers (27),4-0,?,Workington (5)
+?,(Sat) 26 Sep 1964 (38),Carlisle United (6),3-4,?,AFC Bournemouth (28)
+?,(Sat) 28 Nov 1964 (47),Carlisle United (7),4-0,?,Barnsley FC (28)
+?,(Fri) 28 Aug 1964 (34),Carlisle United (8),0-1,?,Brentford FC (28)
+?,(Fri) 16 Apr 1965 (15),Carlisle United (9),1-1,?,Bristol City FC (28)
+?,(Sat) 2 Jan 1965 (0),Carlisle United (10),1-2,?,Bristol Rovers (28)
+?,(Sat) 12 Dec 1964 (49),Carlisle United (11),4-1,?,Colchester United (6)
+?,(Tue) 9 Mar 1965 (10),Carlisle United (12),2-1,?,Exeter City (6)
+?,(Sat) 17 Oct 1964 (41),Carlisle United (13),3-1,?,Gillingham FC (6)
+?,(Sat) 9 Jan 1965 (1),Carlisle United (14),3-1,?,Grimsby Town (6)
+?,(Sat) 20 Feb 1965 (7),Carlisle United (15),0-0,?,Hull City (6)
+?,(Wed) 7 Oct 1964 (40),Carlisle United (16),1-1,?,Luton Town (6)
+?,(Tue) 20 Apr 1965 (16),Carlisle United (17),3-0,?,Mansfield Town (6)
+?,(Sat) 12 Sep 1964 (36),Carlisle United (18),2-0,?,Oldham Athletic (6)
+?,(Sat) 13 Feb 1965 (6),Carlisle United (19),2-1,?,Peterborough United (6)
+?,(Mon) 24 Aug 1964 (34),Carlisle United (20),1-1,?,Port Vale FC (6)
+?,(Fri) 30 Oct 1964 (43),Carlisle United (21),2-0,?,Queens Park Rangers (6)
+?,(Tue) 16 Mar 1965 (11),Carlisle United (22),1-2,?,Reading FC (6)
+?,(Sat) 6 Mar 1965 (9),Carlisle United (23),3-1,?,Scunthorpe United (6)
+?,(Fri) 19 Mar 1965 (11),Carlisle United (24),2-1,?,Shrewsbury Town (6)
+?,(Fri) 2 Apr 1965 (13),Carlisle United (25),4-3,?,Southend United (6)
+?,(Tue) 27 Oct 1964 (43),Carlisle United (26),2-1,?,Walsall FC (6)
+?,(Tue) 8 Sep 1964 (36),Carlisle United (27),1-1,?,Watford FC (6)
+?,(Sat) 26 Dec 1964 (51),Carlisle United (28),1-0,?,Workington (6)
+?,(Mon) 19 Oct 1964 (42),Colchester United (7),4-3,?,AFC Bournemouth (29)
+?,(Sat) 9 Jan 1965 (1),Colchester United (8),4-1,?,Barnsley FC (29)
+?,(Sat) 12 Sep 1964 (36),Colchester United (9),0-3,?,Brentford FC (29)
+?,(Sat) 20 Feb 1965 (7),Colchester United (10),2-3,?,Bristol City FC (29)
+?,(Sat) 23 Jan 1965 (3),Colchester United (11),1-1,?,Bristol Rovers (29)
+?,(Sat) 22 Aug 1964 (33),Colchester United (12),0-1,?,Carlisle United (29)
+?,(Sat) 13 Feb 1965 (6),Colchester United (13),1-1,?,Exeter City (7)
+?,(Mon) 28 Dec 1964 (52),Colchester United (14),2-1,?,Gillingham FC (7)
+?,(Mon) 5 Oct 1964 (40),Colchester United (15),0-1,?,Grimsby Town (7)
+?,(Sat) 5 Sep 1964 (35),Colchester United (16),1-2,?,Hull City (7)
+?,(Mon) 31 Aug 1964 (35),Colchester United (17),0-1,?,Luton Town (7)
+?,(Mon) 14 Sep 1964 (37),Colchester United (18),0-1,?,Mansfield Town (7)
+?,(Sat) 26 Sep 1964 (38),Colchester United (19),2-2,?,Oldham Athletic (7)
+?,(Fri) 16 Apr 1965 (15),Colchester United (20),0-1,?,Peterborough United (7)
+?,(Sat) 19 Dec 1964 (50),Colchester United (21),2-0,?,Port Vale FC (7)
+?,(Sat) 17 Oct 1964 (41),Colchester United (22),1-2,?,Queens Park Rangers (7)
+?,(Sat) 31 Oct 1964 (43),Colchester United (23),2-2,?,Reading FC (7)
+?,(Sat) 3 Apr 1965 (13),Colchester United (24),2-1,?,Scunthorpe United (7)
+?,(Sat) 17 Apr 1965 (15),Colchester United (25),0-4,?,Shrewsbury Town (7)
+?,(Sat) 20 Mar 1965 (11),Colchester United (26),3-1,?,Southend United (7)
+?,(Sat) 28 Nov 1964 (47),Colchester United (27),2-1,?,Walsall FC (7)
+?,(Sat) 6 Mar 1965 (9),Colchester United (28),0-0,?,Watford FC (7)
+?,(Mon) 26 Oct 1964 (43),Colchester United (29),1-1,?,Workington (7)
+?,(Wed) 28 Apr 1965 (17),Exeter City (8),1-3,?,AFC Bournemouth (30)
+?,(Sat) 17 Oct 1964 (41),Exeter City (9),3-0,?,Barnsley FC (30)
+?,(Wed) 14 Oct 1964 (41),Exeter City (10),0-0,?,Brentford FC (30)
+?,(Sat) 6 Mar 1965 (9),Exeter City (11),0-1,?,Bristol City FC (30)
+?,(Mon) 19 Apr 1965 (16),Exeter City (12),0-1,?,Bristol Rovers (30)
+?,(Sat) 19 Sep 1964 (37),Exeter City (13),0-0,?,Carlisle United (30)
+?,(Sat) 3 Oct 1964 (39),Exeter City (14),2-0,?,Colchester United (30)
+?,(Sat) 28 Nov 1964 (47),Exeter City (15),1-1,?,Gillingham FC (8)
+?,(Sat) 19 Dec 1964 (50),Exeter City (16),4-1,?,Grimsby Town (8)
+?,(Sat) 3 Apr 1965 (13),Exeter City (17),0-2,?,Hull City (8)
+?,(Sat) 16 Jan 1965 (2),Exeter City (18),5-1,?,Luton Town (8)
+?,(Sat) 5 Sep 1964 (35),Exeter City (19),2-3,?,Mansfield Town (8)
+?,(Thu) 8 Oct 1964 (40),Exeter City (20),2-1,?,Oldham Athletic (8)
+?,(Sat) 22 Aug 1964 (33),Exeter City (21),4-2,?,Peterborough United (8)
+?,(Sat) 6 Feb 1965 (5),Exeter City (22),2-1,?,Port Vale FC (8)
+?,(Wed) 31 Mar 1965 (13),Exeter City (23),2-2,?,Queens Park Rangers (8)
+?,(Sat) 26 Dec 1964 (51),Exeter City (24),2-2,?,Reading FC (8)
+?,(Fri) 8 Jan 1965 (1),Exeter City (25),1-3,?,Scunthorpe United (8)
+?,(Wed) 16 Sep 1964 (37),Exeter City (26),0-1,?,Shrewsbury Town (8)
+?,(Sat) 20 Feb 1965 (7),Exeter City (27),1-1,?,Southend United (8)
+?,(Sat) 31 Oct 1964 (43),Exeter City (28),0-1,?,Walsall FC (8)
+?,(Sat) 20 Mar 1965 (11),Exeter City (29),1-0,?,Watford FC (8)
+?,(Mon) 22 Mar 1965 (12),Exeter City (30),0-0,?,Workington (8)
+?,(Sat) 21 Nov 1964 (46),Gillingham FC (9),1-1,?,AFC Bournemouth (31)
+?,(Wed) 9 Sep 1964 (36),Gillingham FC (10),1-0,?,Barnsley FC (31)
+?,(Sat) 23 Jan 1965 (3),Gillingham FC (11),1-0,?,Brentford FC (31)
+?,(Sat) 6 Feb 1965 (5),Gillingham FC (12),2-0,?,Bristol City FC (31)
+?,(Sat) 24 Apr 1965 (16),Gillingham FC (13),1-3,?,Bristol Rovers (31)
+?,(Sat) 27 Feb 1965 (8),Gillingham FC (14),1-0,?,Carlisle United (31)
+?,(Sat) 26 Dec 1964 (51),Gillingham FC (15),2-1,?,Colchester United (31)
+?,(Sat) 10 Apr 1965 (14),Gillingham FC (16),0-1,?,Exeter City (31)
+?,(Sat) 7 Nov 1964 (44),Gillingham FC (17),0-0,?,Grimsby Town (9)
+?,(Sat) 12 Sep 1964 (36),Gillingham FC (18),1-0,?,Hull City (9)
+?,(Sat) 24 Oct 1964 (42),Gillingham FC (19),5-0,?,Luton Town (9)
+?,(Sat) 13 Mar 1965 (10),Gillingham FC (20),0-0,?,Mansfield Town (9)
+?,(Sat) 30 Jan 1965 (4),Gillingham FC (21),2-1,?,Oldham Athletic (9)
+?,(Fri) 26 Mar 1965 (12),Gillingham FC (22),2-0,?,Peterborough United (9)
+?,(Sat) 10 Oct 1964 (40),Gillingham FC (23),2-0,?,Port Vale FC (9)
+?,(Sat) 3 Oct 1964 (39),Gillingham FC (24),2-2,?,Queens Park Rangers (9)
+?,(Fri) 16 Apr 1965 (15),Gillingham FC (25),2-1,?,Reading FC (9)
+?,(Wed) 26 Aug 1964 (34),Gillingham FC (26),0-0,?,Scunthorpe United (9)
+?,(Wed) 21 Oct 1964 (42),Gillingham FC (27),5-0,?,Shrewsbury Town (9)
+?,(Wed) 30 Sep 1964 (39),Gillingham FC (28),1-0,?,Southend United (9)
+?,(Sat) 12 Dec 1964 (49),Gillingham FC (29),4-0,?,Walsall FC (9)
+?,(Sat) 29 Aug 1964 (34),Gillingham FC (30),5-2,?,Watford FC (9)
+?,(Sat) 2 Jan 1965 (0),Gillingham FC (31),5-1,?,Workington (9)
+?,(Sat) 2 Jan 1965 (0),Grimsby Town (10),2-2,?,AFC Bournemouth (32)
+?,(Sat) 19 Sep 1964 (37),Grimsby Town (11),3-2,?,Barnsley FC (32)
+?,(Wed) 9 Sep 1964 (36),Grimsby Town (12),2-1,?,Brentford FC (32)
+?,(Tue) 9 Mar 1965 (10),Grimsby Town (13),0-2,?,Bristol City FC (32)
+?,(Tue) 25 Aug 1964 (34),Grimsby Town (14),1-1,?,Bristol Rovers (32)
+?,(Wed) 21 Oct 1964 (42),Grimsby Town (15),1-1,?,Carlisle United (32)
+?,(Wed) 30 Sep 1964 (39),Grimsby Town (16),2-0,?,Colchester United (32)
+?,(Sat) 29 Aug 1964 (34),Grimsby Town (17),2-1,?,Exeter City (32)
+?,(Sat) 20 Mar 1965 (11),Grimsby Town (18),1-1,?,Gillingham FC (32)
+?,(Sat) 31 Oct 1964 (43),Grimsby Town (19),3-0,?,Hull City (10)
+?,(Sat) 3 Oct 1964 (39),Grimsby Town (20),2-2,?,Luton Town (10)
+?,(Sat) 6 Feb 1965 (5),Grimsby Town (21),1-1,?,Mansfield Town (10)
+?,(Sat) 12 Dec 1964 (49),Grimsby Town (22),3-1,?,Oldham Athletic (10)
+?,(Sat) 12 Sep 1964 (36),Grimsby Town (23),2-0,?,Peterborough United (10)
+?,(Fri) 16 Apr 1965 (15),Grimsby Town (24),2-0,?,Port Vale FC (10)
+?,(Sat) 3 Apr 1965 (13),Grimsby Town (25),0-0,?,Queens Park Rangers (10)
+?,(Sat) 6 Mar 1965 (9),Grimsby Town (26),1-1,?,Reading FC (10)
+?,(Tue) 6 Apr 1965 (14),Grimsby Town (27),3-0,?,Scunthorpe United (10)
+?,(Sat) 28 Nov 1964 (47),Grimsby Town (28),2-2,?,Shrewsbury Town (10)
+?,(Wed) 28 Oct 1964 (43),Grimsby Town (29),1-0,?,Southend United (10)
+?,(Sat) 20 Feb 1965 (7),Grimsby Town (30),2-2,?,Walsall FC (10)
+?,(Sat) 17 Oct 1964 (41),Grimsby Town (31),1-0,?,Watford FC (10)
+?,(Sat) 17 Apr 1965 (15),Grimsby Town (32),0-1,?,Workington (10)
+?,(Sat) 27 Mar 1965 (12),Hull City (11),2-1,?,AFC Bournemouth (33)
+?,(Wed) 7 Oct 1964 (40),Hull City (12),7-0,?,Barnsley FC (33)
+?,(Sat) 24 Apr 1965 (16),Hull City (13),2-1,?,Brentford FC (33)
+?,(Sat) 19 Sep 1964 (37),Hull City (14),3-2,?,Bristol City FC (33)
+?,(Sat) 30 Jan 1965 (4),Hull City (15),3-2,?,Bristol Rovers (33)
+?,(Fri) 9 Oct 1964 (40),Hull City (16),1-0,?,Carlisle United (33)
+?,(Sat) 2 Jan 1965 (0),Hull City (17),5-1,?,Colchester United (33)
+?,(Sat) 21 Nov 1964 (46),Hull City (18),3-1,?,Exeter City (33)
+?,(Sat) 16 Jan 1965 (2),Hull City (19),1-1,?,Gillingham FC (33)
+?,(Sat) 13 Mar 1965 (10),Hull City (20),3-3,?,Grimsby Town (33)
+?,(Sat) 27 Feb 1965 (8),Hull City (21),3-1,?,Luton Town (11)
+?,(Sat) 24 Oct 1964 (42),Hull City (22),1-1,?,Mansfield Town (11)
+?,(Sat) 10 Apr 1965 (14),Hull City (23),2-1,?,Oldham Athletic (11)
+?,(Sat) 7 Nov 1964 (44),Hull City (24),0-2,?,Peterborough United (11)
+?,(Mon) 28 Dec 1964 (52),Hull City (25),4-0,?,Port Vale FC (11)
+?,(Sat) 6 Feb 1965 (5),Hull City (26),3-1,?,Queens Park Rangers (11)
+?,(Mon) 12 Oct 1964 (41),Hull City (27),1-0,?,Reading FC (11)
+?,(Wed) 9 Sep 1964 (36),Hull City (28),1-2,?,Scunthorpe United (11)
+?,(Sat) 3 Oct 1964 (39),Hull City (29),1-2,?,Shrewsbury Town (11)
+?,(Mon) 19 Apr 1965 (16),Hull City (30),0-0,?,Southend United (11)
+?,(Wed) 26 Aug 1964 (34),Hull City (31),2-0,?,Walsall FC (11)
+?,(Sat) 12 Dec 1964 (49),Hull City (32),1-1,?,Watford FC (11)
+?,(Sat) 29 Aug 1964 (34),Hull City (33),2-2,?,Workington (11)
+?,(Wed) 17 Feb 1965 (7),Luton Town (12),0-1,?,AFC Bournemouth (34)
+?,(Wed) 7 Apr 1965 (14),Luton Town (13),5-1,?,Barnsley FC (34)
+?,(Sat) 12 Dec 1964 (49),Luton Town (14),4-2,?,Brentford FC (34)
+?,(Sat) 31 Oct 1964 (43),Luton Town (15),0-0,?,Bristol City FC (34)
+?,(Sat) 29 Aug 1964 (34),Luton Town (16),0-2,?,Bristol Rovers (34)
+?,(Thu) 1 Oct 1964 (39),Luton Town (17),1-1,?,Carlisle United (34)
+?,(Wed) 26 Aug 1964 (34),Luton Town (18),3-1,?,Colchester United (34)
+?,(Sat) 12 Sep 1964 (36),Luton Town (19),1-2,?,Exeter City (34)
+?,(Sat) 17 Apr 1965 (15),Luton Town (20),0-2,?,Gillingham FC (34)
+?,(Sat) 13 Feb 1965 (6),Luton Town (21),1-1,?,Grimsby Town (34)
+?,(Sat) 17 Oct 1964 (41),Luton Town (22),1-3,?,Hull City (34)
+?,(Wed) 21 Oct 1964 (42),Luton Town (23),1-1,?,Mansfield Town (12)
+?,(Sat) 2 Jan 1965 (0),Luton Town (24),2-0,?,Oldham Athletic (12)
+?,(Sat) 26 Sep 1964 (38),Luton Town (25),1-1,?,Peterborough United (12)
+?,(Wed) 9 Sep 1964 (36),Luton Town (26),1-1,?,Port Vale FC (12)
+?,(Sat) 20 Mar 1965 (11),Luton Town (27),2-0,?,Queens Park Rangers (12)
+?,(Sat) 3 Apr 1965 (13),Luton Town (28),3-1,?,Reading FC (12)
+?,(Wed) 28 Oct 1964 (43),Luton Town (29),1-1,?,Scunthorpe United (12)
+?,(Wed) 10 Mar 1965 (10),Luton Town (30),2-7,?,Shrewsbury Town (12)
+?,(Sat) 28 Nov 1964 (47),Luton Town (31),0-1,?,Southend United (12)
+?,(Fri) 16 Apr 1965 (15),Luton Town (32),1-3,?,Walsall FC (12)
+?,(Sat) 26 Dec 1964 (51),Luton Town (33),2-4,?,Watford FC (12)
+?,(Thu) 29 Apr 1965 (17),Luton Town (34),0-0,?,Workington (12)
+?,(Sat) 12 Sep 1964 (36),Mansfield Town (13),0-0,?,AFC Bournemouth (35)
+?,(Mon) 26 Oct 1964 (43),Mansfield Town (14),4-3,?,Barnsley FC (35)
+?,(Mon) 24 Aug 1964 (34),Mansfield Town (15),4-1,?,Brentford FC (35)
+?,(Sat) 20 Mar 1965 (11),Mansfield Town (16),3-0,?,Bristol City FC (35)
+?,(Sat) 12 Dec 1964 (49),Mansfield Town (17),3-0,?,Bristol Rovers (35)
+?,(Mon) 19 Apr 1965 (16),Mansfield Town (18),2-0,?,Carlisle United (35)
+?,(Mon) 7 Sep 1964 (36),Mansfield Town (19),0-1,?,Colchester United (35)
+?,(Sat) 2 Jan 1965 (0),Mansfield Town (20),2-1,?,Exeter City (35)
+?,(Sat) 31 Oct 1964 (43),Mansfield Town (21),3-1,?,Gillingham FC (35)
+?,(Sat) 26 Sep 1964 (38),Mansfield Town (22),2-2,?,Grimsby Town (35)
+?,(Sat) 17 Apr 1965 (15),Mansfield Town (23),2-1,?,Hull City (35)
+?,(Mon) 12 Oct 1964 (41),Mansfield Town (24),2-0,?,Luton Town (35)
+?,(Sat) 29 Aug 1964 (34),Mansfield Town (25),4-1,?,Oldham Athletic (13)
+?,(Mon) 29 Mar 1965 (13),Mansfield Town (26),0-0,?,Peterborough United (13)
+?,(Mon) 28 Sep 1964 (39),Mansfield Town (27),2-2,?,Port Vale FC (13)
+?,(Mon) 15 Mar 1965 (11),Mansfield Town (28),8-1,?,Queens Park Rangers (13)
+?,(Sat) 28 Nov 1964 (47),Mansfield Town (29),2-1,?,Reading FC (13)
+?,(Sat) 3 Oct 1964 (39),Mansfield Town (30),3-2,?,Scunthorpe United (13)
+?,(Sat) 3 Apr 1965 (13),Mansfield Town (31),1-0,?,Shrewsbury Town (13)
+?,(Mon) 5 Apr 1965 (14),Mansfield Town (32),6-1,?,Southend United (13)
+?,(Mon) 28 Dec 1964 (52),Mansfield Town (33),2-0,?,Walsall FC (13)
+?,(Sat) 20 Feb 1965 (7),Mansfield Town (34),3-0,?,Watford FC (13)
+?,(Sat) 17 Oct 1964 (41),Mansfield Town (35),3-5,?,Workington (13)
+?,(Tue) 15 Sep 1964 (37),Oldham Athletic (14),1-1,?,AFC Bournemouth (36)
+?,(Sat) 17 Apr 1965 (15),Oldham Athletic (15),1-1,?,Barnsley FC (36)
+?,(Sat) 3 Oct 1964 (39),Oldham Athletic (16),1-1,?,Brentford FC (36)
+?,(Wed) 28 Oct 1964 (43),Oldham Athletic (17),7-3,?,Bristol City FC (36)
+?,(Wed) 14 Oct 1964 (41),Oldham Athletic (18),1-2,?,Bristol Rovers (36)
+?,(Sat) 16 Jan 1965 (2),Oldham Athletic (19),2-3,?,Carlisle United (36)
+?,(Sat) 6 Feb 1965 (5),Oldham Athletic (20),3-1,?,Colchester United (36)
+?,(Mon) 28 Sep 1964 (39),Oldham Athletic (21),2-0,?,Exeter City (36)
+?,(Sat) 6 Mar 1965 (9),Oldham Athletic (22),2-0,?,Gillingham FC (36)
+?,(Sat) 22 Aug 1964 (33),Oldham Athletic (23),1-5,?,Grimsby Town (36)
+?,(Sat) 28 Nov 1964 (47),Oldham Athletic (24),2-1,?,Hull City (36)
+?,(Sat) 5 Sep 1964 (35),Oldham Athletic (25),0-2,?,Luton Town (36)
+?,(Sat) 19 Dec 1964 (50),Oldham Athletic (26),2-1,?,Mansfield Town (36)
+?,(Tue) 1 Sep 1964 (35),Oldham Athletic (27),3-1,?,Peterborough United (14)
+?,(Sat) 19 Sep 1964 (37),Oldham Athletic (28),0-1,?,Port Vale FC (14)
+?,(Fri) 16 Apr 1965 (15),Oldham Athletic (29),5-3,?,Queens Park Rangers (14)
+?,(Sat) 20 Feb 1965 (7),Oldham Athletic (30),1-2,?,Reading FC (14)
+?,(Sat) 31 Oct 1964 (43),Oldham Athletic (31),2-1,?,Scunthorpe United (14)
+?,(Mon) 28 Dec 1964 (52),Oldham Athletic (32),1-3,?,Shrewsbury Town (14)
+?,(Sat) 17 Oct 1964 (41),Oldham Athletic (33),0-2,?,Southend United (14)
+?,(Sat) 20 Mar 1965 (11),Oldham Athletic (34),1-3,?,Walsall FC (14)
+?,(Wed) 27 Jan 1965 (4),Oldham Athletic (35),2-0,?,Watford FC (14)
+?,(Sat) 3 Apr 1965 (13),Oldham Athletic (36),0-2,?,Workington (14)
+?,(Sat) 29 Aug 1964 (34),Peterborough United (15),4-3,?,AFC Bournemouth (37)
+?,(Sat) 26 Dec 1964 (51),Peterborough United (16),4-1,?,Barnsley FC (37)
+?,(Mon) 28 Sep 1964 (39),Peterborough United (17),3-1,?,Brentford FC (37)
+?,(Sat) 3 Apr 1965 (13),Peterborough United (18),0-1,?,Bristol City FC (37)
+?,(Mon) 7 Sep 1964 (36),Peterborough United (19),3-1,?,Bristol Rovers (37)
+?,(Sat) 3 Oct 1964 (39),Peterborough United (20),1-2,?,Carlisle United (37)
+?,(Mon) 19 Apr 1965 (16),Peterborough United (21),4-1,?,Colchester United (37)
+?,(Sat) 12 Dec 1964 (49),Peterborough United (22),0-0,?,Exeter City (37)
+?,(Wed) 28 Apr 1965 (17),Peterborough United (23),1-0,?,Gillingham FC (37)
+?,(Sat) 16 Jan 1965 (2),Peterborough United (24),3-1,?,Grimsby Town (37)
+?,(Sat) 20 Mar 1965 (11),Peterborough United (25),2-1,?,Hull City (37)
+?,(Sat) 6 Feb 1965 (5),Peterborough United (26),2-0,?,Luton Town (37)
+?,(Sat) 19 Sep 1964 (37),Peterborough United (27),4-5,?,Mansfield Town (37)
+?,(Mon) 24 Aug 1964 (34),Peterborough United (28),5-0,?,Oldham Athletic (37)
+?,(Mon) 12 Oct 1964 (41),Peterborough United (29),2-2,?,Port Vale FC (15)
+?,(Sat) 28 Nov 1964 (47),Peterborough United (30),6-1,?,Queens Park Rangers (15)
+?,(Mon) 26 Oct 1964 (43),Peterborough United (31),2-1,?,Reading FC (15)
+?,(Mon) 8 Mar 1965 (10),Peterborough United (32),2-2,?,Scunthorpe United (15)
+?,(Mon) 15 Mar 1965 (11),Peterborough United (33),4-1,?,Shrewsbury Town (15)
+?,(Sat) 5 Sep 1964 (35),Peterborough United (34),4-2,?,Southend United (15)
+?,(Sat) 17 Oct 1964 (41),Peterborough United (35),3-2,?,Walsall FC (15)
+?,(Sat) 17 Apr 1965 (15),Peterborough United (36),2-1,?,Watford FC (15)
+?,(Sat) 31 Oct 1964 (43),Peterborough United (37),0-4,?,Workington (15)
+?,(Sat) 13 Feb 1965 (6),Port Vale FC (16),1-2,?,AFC Bournemouth (38)
+?,(Sat) 3 Apr 1965 (13),Port Vale FC (17),2-0,?,Barnsley FC (38)
+?,(Sat) 2 Jan 1965 (0),Port Vale FC (18),2-1,?,Brentford FC (38)
+?,(Sat) 17 Oct 1964 (41),Port Vale FC (19),1-2,?,Bristol City FC (38)
+?,(Sat) 12 Sep 1964 (36),Port Vale FC (20),1-1,?,Bristol Rovers (38)
+?,(Mon) 31 Aug 1964 (35),Port Vale FC (21),1-3,?,Carlisle United (38)
+?,(Sat) 29 Aug 1964 (34),Port Vale FC (22),1-2,?,Colchester United (38)
+?,(Sat) 26 Sep 1964 (38),Port Vale FC (23),0-1,?,Exeter City (38)
+?,(Sat) 20 Feb 1965 (7),Port Vale FC (24),0-4,?,Gillingham FC (38)
+?,(Tue) 20 Apr 1965 (16),Port Vale FC (25),2-3,?,Grimsby Town (38)
+?,(Sat) 26 Dec 1964 (51),Port Vale FC (26),0-3,?,Hull City (38)
+?,(Mon) 14 Sep 1964 (37),Port Vale FC (27),1-0,?,Luton Town (38)
+?,(Mon) 5 Oct 1964 (40),Port Vale FC (28),2-2,?,Mansfield Town (38)
+?,(Mon) 15 Mar 1965 (11),Port Vale FC (29),2-1,?,Oldham Athletic (38)
+?,(Mon) 19 Oct 1964 (42),Port Vale FC (30),0-1,?,Peterborough United (38)
+?,(Sat) 17 Apr 1965 (15),Port Vale FC (31),0-0,?,Queens Park Rangers (16)
+?,(Sat) 20 Mar 1965 (11),Port Vale FC (32),2-0,?,Reading FC (16)
+?,(Sat) 28 Nov 1964 (47),Port Vale FC (33),0-1,?,Scunthorpe United (16)
+?,(Sat) 31 Oct 1964 (43),Port Vale FC (34),1-1,?,Shrewsbury Town (16)
+?,(Fri) 8 Jan 1965 (1),Port Vale FC (35),2-2,?,Southend United (16)
+?,(Mon) 26 Apr 1965 (17),Port Vale FC (36),2-1,?,Walsall FC (16)
+?,(Mon) 26 Oct 1964 (43),Port Vale FC (37),2-2,?,Watford FC (16)
+?,(Mon) 29 Mar 1965 (13),Port Vale FC (38),2-0,?,Workington (16)
+?,(Fri) 29 Jan 1965 (4),Queens Park Rangers (17),1-1,?,AFC Bournemouth (39)
+?,(Fri) 11 Dec 1964 (49),Queens Park Rangers (18),3-2,?,Barnsley FC (39)
+?,(Fri) 9 Oct 1964 (40),Queens Park Rangers (19),1-3,?,Brentford FC (39)
+?,(Mon) 19 Oct 1964 (42),Queens Park Rangers (20),1-0,?,Bristol City FC (39)
+?,(Mon) 28 Dec 1964 (52),Queens Park Rangers (21),3-1,?,Bristol Rovers (39)
+?,(Fri) 12 Mar 1965 (10),Queens Park Rangers (22),1-2,?,Carlisle United (39)
+?,(Fri) 26 Feb 1965 (8),Queens Park Rangers (23),5-0,?,Colchester United (39)
+?,(Fri) 23 Apr 1965 (16),Queens Park Rangers (24),0-0,?,Exeter City (39)
+?,(Sat) 13 Feb 1965 (6),Queens Park Rangers (25),3-1,?,Gillingham FC (39)
+?,(Sat) 21 Nov 1964 (46),Queens Park Rangers (26),1-1,?,Grimsby Town (39)
+?,(Fri) 25 Sep 1964 (38),Queens Park Rangers (27),2-1,?,Hull City (39)
+?,(Fri) 6 Nov 1964 (44),Queens Park Rangers (28),7-1,?,Luton Town (39)
+?,(Fri) 26 Mar 1965 (12),Queens Park Rangers (29),2-0,?,Mansfield Town (39)
+?,(Mon) 19 Apr 1965 (16),Queens Park Rangers (30),1-1,?,Oldham Athletic (39)
+?,(Sat) 10 Apr 1965 (14),Queens Park Rangers (31),3-2,?,Peterborough United (39)
+?,(Fri) 23 Oct 1964 (42),Queens Park Rangers (32),3-1,?,Port Vale FC (39)
+?,(Mon) 7 Sep 1964 (36),Queens Park Rangers (33),0-1,?,Reading FC (17)
+?,(Fri) 28 Aug 1964 (34),Queens Park Rangers (34),2-1,?,Scunthorpe United (17)
+?,(Mon) 5 Oct 1964 (40),Queens Park Rangers (35),2-1,?,Shrewsbury Town (17)
+?,(Mon) 24 Aug 1964 (34),Queens Park Rangers (36),2-0,?,Southend United (17)
+?,(Fri) 1 Jan 1965 (0),Queens Park Rangers (37),1-0,?,Walsall FC (17)
+?,(Fri) 11 Sep 1964 (36),Queens Park Rangers (38),2-2,?,Watford FC (17)
+?,(Mon) 5 Apr 1965 (14),Queens Park Rangers (39),2-1,?,Workington (17)
+?,(Sat) 12 Dec 1964 (49),Reading FC (18),1-0,?,AFC Bournemouth (40)
+?,(Sat) 2 Jan 1965 (0),Reading FC (19),1-1,?,Barnsley FC (40)
+?,(Sat) 24 Oct 1964 (42),Reading FC (20),1-1,?,Brentford FC (40)
+?,(Wed) 7 Oct 1964 (40),Reading FC (21),1-1,?,Bristol City FC (40)
+?,(Sat) 27 Feb 1965 (8),Reading FC (22),1-1,?,Bristol Rovers (40)
+?,(Sat) 27 Mar 1965 (12),Reading FC (23),1-2,?,Carlisle United (40)
+?,(Sat) 13 Mar 1965 (10),Reading FC (24),1-1,?,Colchester United (40)
+?,(Wed) 7 Apr 1965 (14),Reading FC (25),2-2,?,Exeter City (40)
+?,(Mon) 19 Apr 1965 (16),Reading FC (26),3-0,?,Gillingham FC (40)
+?,(Wed) 24 Mar 1965 (12),Reading FC (27),2-0,?,Grimsby Town (40)
+?,(Wed) 21 Oct 1964 (42),Reading FC (28),3-3,?,Hull City (40)
+?,(Sat) 21 Nov 1964 (46),Reading FC (29),1-2,?,Luton Town (40)
+?,(Sat) 10 Apr 1965 (14),Reading FC (30),2-1,?,Mansfield Town (40)
+?,(Sat) 10 Oct 1964 (40),Reading FC (31),1-0,?,Oldham Athletic (40)
+?,(Sat) 24 Apr 1965 (16),Reading FC (32),4-2,?,Peterborough United (40)
+?,(Sat) 7 Nov 1964 (44),Reading FC (33),1-1,?,Port Vale FC (40)
+?,(Wed) 16 Sep 1964 (37),Reading FC (34),5-3,?,Queens Park Rangers (40)
+?,(Sat) 12 Sep 1964 (36),Reading FC (35),2-0,?,Scunthorpe United (18)
+?,(Wed) 26 Aug 1964 (34),Reading FC (36),3-1,?,Shrewsbury Town (18)
+?,(Sat) 29 Aug 1964 (34),Reading FC (37),2-0,?,Southend United (18)
+?,(Sat) 23 Jan 1965 (3),Reading FC (38),0-2,?,Walsall FC (18)
+?,(Sat) 26 Sep 1964 (38),Reading FC (39),6-2,?,Watford FC (18)
+?,(Sat) 13 Feb 1965 (6),Reading FC (40),1-0,?,Workington (18)
+?,(Fri) 26 Feb 1965 (8),Scunthorpe United (19),3-1,?,AFC Bournemouth (41)
+?,(Fri) 5 Feb 1965 (5),Scunthorpe United (20),2-3,?,Barnsley FC (41)
+?,(Fri) 26 Mar 1965 (12),Scunthorpe United (21),2-0,?,Brentford FC (41)
+?,(Sat) 22 Aug 1964 (33),Scunthorpe United (22),5-2,?,Bristol City FC (41)
+?,(Sat) 7 Nov 1964 (44),Scunthorpe United (23),1-1,?,Bristol Rovers (41)
+?,(Fri) 29 Jan 1965 (4),Scunthorpe United (24),0-1,?,Carlisle United (41)
+?,(Fri) 20 Nov 1964 (46),Scunthorpe United (25),0-0,?,Colchester United (41)
+?,(Sat) 24 Oct 1964 (42),Scunthorpe United (26),0-0,?,Exeter City (41)
+?,(Tue) 3 Nov 1964 (44),Scunthorpe United (27),2-3,?,Gillingham FC (41)
+?,(Sat) 26 Dec 1964 (51),Scunthorpe United (28),2-1,?,Grimsby Town (41)
+?,(Tue) 15 Sep 1964 (37),Scunthorpe United (29),1-1,?,Hull City (41)
+?,(Sat) 24 Apr 1965 (16),Scunthorpe United (30),8-1,?,Luton Town (41)
+?,(Fri) 12 Feb 1965 (6),Scunthorpe United (31),0-1,?,Mansfield Town (41)
+?,(Fri) 12 Mar 1965 (10),Scunthorpe United (32),1-1,?,Oldham Athletic (41)
+?,(Sat) 10 Oct 1964 (40),Scunthorpe United (33),2-3,?,Peterborough United (41)
+?,(Fri) 9 Apr 1965 (14),Scunthorpe United (34),0-0,?,Port Vale FC (41)
+?,(Fri) 18 Dec 1964 (50),Scunthorpe United (35),2-1,?,Queens Park Rangers (41)
+?,(Fri) 15 Jan 1965 (2),Scunthorpe United (36),1-1,?,Reading FC (41)
+?,(Fri) 4 Sep 1964 (35),Scunthorpe United (37),3-2,?,Shrewsbury Town (19)
+?,(Fri) 18 Sep 1964 (37),Scunthorpe United (38),2-1,?,Southend United (19)
+?,(Tue) 13 Oct 1964 (41),Scunthorpe United (39),4-0,?,Walsall FC (19)
+?,(Tue) 20 Apr 1965 (16),Scunthorpe United (40),0-2,?,Watford FC (19)
+?,(Tue) 29 Sep 1964 (39),Scunthorpe United (41),1-1,?,Workington (19)
+?,(Sat) 24 Apr 1965 (16),Shrewsbury Town (20),1-2,?,AFC Bournemouth (42)
+?,(Sat) 29 Aug 1964 (34),Shrewsbury Town (21),3-3,?,Barnsley FC (42)
+?,(Sat) 27 Feb 1965 (8),Shrewsbury Town (22),1-0,?,Brentford FC (42)
+?,(Mon) 19 Apr 1965 (16),Shrewsbury Town (23),1-5,?,Bristol City FC (42)
+?,(Sat) 10 Oct 1964 (40),Shrewsbury Town (24),2-1,?,Bristol Rovers (42)
+?,(Sat) 7 Nov 1964 (44),Shrewsbury Town (25),2-2,?,Carlisle United (42)
+?,(Sat) 24 Oct 1964 (42),Shrewsbury Town (26),3-0,?,Colchester United (42)
+?,(Tue) 8 Sep 1964 (36),Shrewsbury Town (27),1-0,?,Exeter City (42)
+?,(Tue) 13 Oct 1964 (41),Shrewsbury Town (28),2-0,?,Gillingham FC (42)
+?,(Sat) 10 Apr 1965 (14),Shrewsbury Town (29),1-3,?,Grimsby Town (42)
+?,(Sat) 13 Feb 1965 (6),Shrewsbury Town (30),0-4,?,Hull City (42)
+?,(Fri) 26 Mar 1965 (12),Shrewsbury Town (31),0-2,?,Luton Town (42)
+?,(Tue) 3 Nov 1964 (44),Shrewsbury Town (32),1-1,?,Mansfield Town (42)
+?,(Sat) 26 Dec 1964 (51),Shrewsbury Town (33),1-3,?,Oldham Athletic (42)
+?,(Wed) 7 Apr 1965 (14),Shrewsbury Town (34),1-1,?,Peterborough United (42)
+?,(Sat) 13 Mar 1965 (10),Shrewsbury Town (35),0-0,?,Port Vale FC (42)
+?,(Mon) 12 Apr 1965 (15),Shrewsbury Town (36),3-2,?,Queens Park Rangers (42)
+?,(Tue) 1 Sep 1964 (35),Shrewsbury Town (37),4-0,?,Reading FC (42)
+?,(Sat) 2 Jan 1965 (0),Shrewsbury Town (38),3-2,?,Scunthorpe United (42)
+?,(Sat) 12 Dec 1964 (49),Shrewsbury Town (39),1-3,?,Southend United (20)
+?,(Fri) 11 Sep 1964 (36),Shrewsbury Town (40),3-1,?,Walsall FC (20)
+?,(Sat) 23 Jan 1965 (3),Shrewsbury Town (41),2-2,?,Watford FC (20)
+?,(Sat) 26 Sep 1964 (38),Shrewsbury Town (42),6-1,?,Workington (20)
+?,(Mon) 28 Dec 1964 (52),Southend United (21),2-1,?,AFC Bournemouth (43)
+?,(Sat) 12 Sep 1964 (36),Southend United (22),2-0,?,Barnsley FC (43)
+?,(Sat) 13 Mar 1965 (10),Southend United (23),0-1,?,Brentford FC (43)
+?,(Mon) 14 Sep 1964 (37),Southend United (24),0-4,?,Bristol City FC (43)
+?,(Sat) 24 Oct 1964 (42),Southend United (25),6-3,?,Bristol Rovers (43)
+?,(Sat) 21 Nov 1964 (46),Southend United (26),1-0,?,Carlisle United (43)
+?,(Sat) 7 Nov 1964 (44),Southend United (27),6-3,?,Colchester United (43)
+?,(Sat) 10 Oct 1964 (40),Southend United (28),0-0,?,Exeter City (43)
+?,(Mon) 5 Oct 1964 (40),Southend United (29),3-1,?,Gillingham FC (43)
+?,(Sat) 24 Apr 1965 (16),Southend United (30),4-0,?,Grimsby Town (43)
+?,(Fri) 16 Apr 1965 (15),Southend United (31),2-1,?,Hull City (43)
+?,(Sat) 10 Apr 1965 (14),Southend United (32),5-0,?,Luton Town (43)
+?,(Sat) 30 Jan 1965 (4),Southend United (33),1-4,?,Mansfield Town (43)
+?,(Sat) 27 Feb 1965 (8),Southend United (34),6-1,?,Oldham Athletic (43)
+?,(Sat) 2 Jan 1965 (0),Southend United (35),2-0,?,Peterborough United (43)
+?,(Fri) 26 Mar 1965 (12),Southend United (36),2-1,?,Port Vale FC (43)
+?,(Mon) 31 Aug 1964 (35),Southend United (37),0-0,?,Queens Park Rangers (43)
+?,(Sat) 19 Dec 1964 (50),Southend United (38),2-2,?,Reading FC (43)
+?,(Sat) 23 Jan 1965 (3),Southend United (39),0-1,?,Scunthorpe United (43)
+?,(Sat) 22 Aug 1964 (33),Southend United (40),1-0,?,Shrewsbury Town (43)
+?,(Sat) 26 Sep 1964 (38),Southend United (41),0-0,?,Walsall FC (21)
+?,(Sat) 13 Feb 1965 (6),Southend United (42),0-1,?,Watford FC (21)
+?,(Mon) 12 Oct 1964 (41),Southend United (43),3-0,?,Workington (21)
+?,(Sat) 24 Oct 1964 (42),Walsall FC (22),0-1,?,AFC Bournemouth (44)
+?,(Sat) 3 Oct 1964 (39),Walsall FC (23),1-1,?,Barnsley FC (44)
+?,(Sat) 21 Nov 1964 (46),Walsall FC (24),4-3,?,Brentford FC (44)
+?,(Sat) 19 Dec 1964 (50),Walsall FC (25),2-4,?,Bristol City FC (44)
+?,(Sat) 27 Mar 1965 (12),Walsall FC (26),2-0,?,Bristol Rovers (44)
+?,(Sat) 5 Dec 1964 (48),Walsall FC (27),1-0,?,Carlisle United (44)
+?,(Sat) 10 Apr 1965 (14),Walsall FC (28),2-1,?,Colchester United (44)
+?,(Sat) 13 Mar 1965 (10),Walsall FC (29),2-1,?,Exeter City (44)
+?,(Sat) 22 Aug 1964 (33),Walsall FC (30),0-1,?,Gillingham FC (44)
+?,(Sat) 10 Oct 1964 (40),Walsall FC (31),1-0,?,Grimsby Town (44)
+?,(Tue) 6 Apr 1965 (14),Walsall FC (32),3-3,?,Hull City (44)
+?,(Mon) 19 Apr 1965 (16),Walsall FC (33),0-1,?,Luton Town (44)
+?,(Sat) 26 Dec 1964 (51),Walsall FC (34),2-1,?,Mansfield Town (44)
+?,(Sat) 7 Nov 1964 (44),Walsall FC (35),1-2,?,Oldham Athletic (44)
+?,(Sat) 27 Feb 1965 (8),Walsall FC (36),0-1,?,Peterborough United (44)
+?,(Sat) 30 Jan 1965 (4),Walsall FC (37),0-0,?,Port Vale FC (44)
+?,(Sat) 5 Sep 1964 (35),Walsall FC (38),4-1,?,Queens Park Rangers (44)
+?,(Sat) 19 Sep 1964 (37),Walsall FC (39),4-1,?,Reading FC (44)
+?,(Tue) 20 Oct 1964 (42),Walsall FC (40),1-2,?,Scunthorpe United (44)
+?,(Sat) 16 Jan 1965 (2),Walsall FC (41),1-1,?,Shrewsbury Town (44)
+?,(Sat) 6 Feb 1965 (5),Walsall FC (42),2-3,?,Southend United (44)
+?,(Tue) 6 Oct 1964 (40),Walsall FC (43),0-4,?,Watford FC (22)
+?,(Tue) 15 Sep 1964 (37),Walsall FC (44),1-4,?,Workington (22)
+?,(Sat) 13 Mar 1965 (10),Watford FC (23),2-0,?,AFC Bournemouth (45)
+?,(Tue) 16 Mar 1965 (11),Watford FC (24),1-1,?,Barnsley FC (45)
+?,(Sat) 10 Apr 1965 (14),Watford FC (25),1-1,?,Brentford FC (45)
+?,(Sat) 5 Sep 1964 (35),Watford FC (26),2-2,?,Bristol City FC (45)
+?,(Sat) 21 Nov 1964 (46),Watford FC (27),1-1,?,Bristol Rovers (45)
+?,(Thu) 17 Sep 1964 (37),Watford FC (28),0-0,?,Carlisle United (45)
+?,(Sat) 30 Jan 1965 (4),Watford FC (29),3-0,?,Colchester United (45)
+?,(Sat) 7 Nov 1964 (44),Watford FC (30),1-0,?,Exeter City (45)
+?,(Sat) 19 Dec 1964 (50),Watford FC (31),1-2,?,Gillingham FC (45)
+?,(Sat) 27 Feb 1965 (8),Watford FC (32),1-1,?,Grimsby Town (45)
+?,(Sat) 22 Aug 1964 (33),Watford FC (33),2-1,?,Hull City (45)
+?,(Mon) 28 Dec 1964 (52),Watford FC (34),2-0,?,Luton Town (45)
+?,(Sat) 10 Oct 1964 (40),Watford FC (35),3-1,?,Mansfield Town (45)
+?,(Sat) 27 Mar 1965 (12),Watford FC (36),3-2,?,Oldham Athletic (45)
+?,(Sat) 24 Oct 1964 (42),Watford FC (37),1-1,?,Peterborough United (45)
+?,(Sat) 24 Apr 1965 (16),Watford FC (38),1-0,?,Port Vale FC (45)
+?,(Sat) 16 Jan 1965 (2),Watford FC (39),0-2,?,Queens Park Rangers (45)
+?,(Sat) 6 Feb 1965 (5),Watford FC (40),5-1,?,Reading FC (45)
+?,(Fri) 16 Apr 1965 (15),Watford FC (41),5-0,?,Scunthorpe United (45)
+?,(Sat) 19 Sep 1964 (37),Watford FC (42),2-2,?,Shrewsbury Town (45)
+?,(Sat) 3 Oct 1964 (39),Watford FC (43),2-1,?,Southend United (45)
+?,(Tue) 29 Sep 1964 (39),Watford FC (44),3-0,?,Walsall FC (45)
+?,(Mon) 8 Mar 1965 (10),Watford FC (45),3-2,?,Workington (23)
+?,(Sat) 7 Nov 1964 (44),Workington (24),2-0,?,AFC Bournemouth (46)
+?,(Fri) 16 Apr 1965 (15),Workington (25),0-0,?,Barnsley FC (46)
+?,(Wed) 17 Mar 1965 (11),Workington (26),1-1,?,Brentford FC (46)
+?,(Fri) 15 Jan 1965 (2),Workington (27),1-0,?,Bristol City FC (46)
+?,(Fri) 9 Apr 1965 (14),Workington (28),2-1,?,Bristol Rovers (46)
+?,(Mon) 28 Dec 1964 (52),Workington (29),0-1,?,Carlisle United (46)
+?,(Fri) 23 Apr 1965 (16),Workington (30),1-0,?,Colchester United (46)
+?,(Fri) 26 Mar 1965 (12),Workington (31),0-1,?,Exeter City (46)
+?,(Sat) 5 Sep 1964 (35),Workington (32),1-1,?,Gillingham FC (46)
+?,(Sat) 24 Oct 1964 (42),Workington (33),2-2,?,Grimsby Town (46)
+?,(Sat) 19 Dec 1964 (50),Workington (34),1-3,?,Hull City (46)
+?,(Fri) 9 Oct 1964 (40),Workington (35),1-0,?,Luton Town (46)
+?,(Fri) 26 Feb 1965 (8),Workington (36),1-5,?,Mansfield Town (46)
+?,(Sat) 21 Nov 1964 (46),Workington (37),0-0,?,Oldham Athletic (46)
+?,(Fri) 12 Mar 1965 (10),Workington (38),1-0,?,Peterborough United (46)
+?,(Sat) 22 Aug 1964 (33),Workington (39),4-1,?,Port Vale FC (46)
+?,(Fri) 18 Sep 1964 (37),Workington (40),0-0,?,Queens Park Rangers (46)
+?,(Fri) 2 Oct 1964 (39),Workington (41),0-2,?,Reading FC (46)
+?,(Tue) 6 Oct 1964 (40),Workington (42),2-0,?,Scunthorpe United (46)
+?,(Fri) 5 Feb 1965 (5),Workington (43),2-2,?,Shrewsbury Town (46)
+?,(Mon) 19 Oct 1964 (42),Workington (44),3-1,?,Southend United (46)
+?,(Wed) 28 Oct 1964 (43),Workington (45),3-1,?,Walsall FC (46)
+?,(Tue) 25 Aug 1964 (34),Workington (46),2-0,?,Watford FC (46)

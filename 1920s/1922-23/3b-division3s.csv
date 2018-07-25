@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Brentford,Aberdare Athletic,0-1,-
--,-,Brighton & Hove Albion,Aberdare Athletic,3-1,-
--,-,Bristol City,Aberdare Athletic,0-0,-
--,-,Bristol Rovers,Aberdare Athletic,1-0,-
--,-,Charlton Athletic,Aberdare Athletic,1-1,-
--,-,Exeter City,Aberdare Athletic,1-0,-
--,-,Gillingham,Aberdare Athletic,4-0,-
--,-,Luton Town,Aberdare Athletic,4-1,-
--,-,Merthyr Town,Aberdare Athletic,0-2,-
--,-,Millwall,Aberdare Athletic,1-0,-
--,-,Newport County,Aberdare Athletic,0-0,-
--,-,Northampton Town,Aberdare Athletic,3-1,-
--,-,Norwich City,Aberdare Athletic,1-4,-
--,-,Plymouth Argyle,Aberdare Athletic,2-0,-
--,-,Portsmouth,Aberdare Athletic,1-0,-
--,-,Queens Park Rangers,Aberdare Athletic,4-1,-
--,-,Reading,Aberdare Athletic,1-0,-
--,-,Southend United,Aberdare Athletic,4-0,-
--,-,Swansea City,Aberdare Athletic,5-1,-
--,-,Swindon Town,Aberdare Athletic,5-4,-
--,-,Watford,Aberdare Athletic,6-0,-
--,-,Aberdare Athletic,Brentford,0-0,-
--,-,Brighton & Hove Albion,Brentford,2-1,-
--,-,Bristol City,Brentford,1-1,-
--,-,Bristol Rovers,Brentford,1-1,-
--,-,Charlton Athletic,Brentford,1-1,-
--,-,Exeter City,Brentford,0-2,-
--,-,Gillingham,Brentford,2-0,-
--,-,Luton Town,Brentford,4-0,-
--,-,Merthyr Town,Brentford,1-0,-
--,-,Millwall,Brentford,1-1,-
--,-,Newport County,Brentford,0-1,-
--,-,Northampton Town,Brentford,1-1,-
--,-,Norwich City,Brentford,0-2,-
--,-,Plymouth Argyle,Brentford,3-0,-
--,-,Portsmouth,Brentford,3-0,-
--,-,Queens Park Rangers,Brentford,1-1,-
--,-,Reading,Brentford,1-0,-
--,-,Southend United,Brentford,1-2,-
--,-,Swansea City,Brentford,0-0,-
--,-,Swindon Town,Brentford,3-0,-
--,-,Watford,Brentford,2-0,-
--,-,Aberdare Athletic,Brighton & Hove Albion,0-1,-
--,-,Brentford,Brighton & Hove Albion,1-2,-
--,-,Bristol City,Brighton & Hove Albion,3-1,-
--,-,Bristol Rovers,Brighton & Hove Albion,0-0,-
--,-,Charlton Athletic,Brighton & Hove Albion,0-1,-
--,-,Exeter City,Brighton & Hove Albion,1-0,-
--,-,Gillingham,Brighton & Hove Albion,2-0,-
--,-,Luton Town,Brighton & Hove Albion,1-1,-
--,-,Merthyr Town,Brighton & Hove Albion,2-0,-
--,-,Millwall,Brighton & Hove Albion,2-1,-
--,-,Newport County,Brighton & Hove Albion,1-0,-
--,-,Northampton Town,Brighton & Hove Albion,0-0,-
--,-,Norwich City,Brighton & Hove Albion,1-0,-
--,-,Plymouth Argyle,Brighton & Hove Albion,2-2,-
--,-,Portsmouth,Brighton & Hove Albion,1-2,-
--,-,Queens Park Rangers,Brighton & Hove Albion,0-0,-
--,-,Reading,Brighton & Hove Albion,0-0,-
--,-,Southend United,Brighton & Hove Albion,0-0,-
--,-,Swansea City,Brighton & Hove Albion,0-0,-
--,-,Swindon Town,Brighton & Hove Albion,3-0,-
--,-,Watford,Brighton & Hove Albion,1-2,-
--,-,Aberdare Athletic,Bristol City,0-1,-
--,-,Brentford,Bristol City,4-0,-
--,-,Brighton & Hove Albion,Bristol City,2-1,-
--,-,Bristol Rovers,Bristol City,1-2,-
--,-,Charlton Athletic,Bristol City,1-0,-
--,-,Exeter City,Bristol City,0-0,-
--,-,Gillingham,Bristol City,1-1,-
--,-,Luton Town,Bristol City,1-1,-
--,-,Merthyr Town,Bristol City,0-1,-
--,-,Millwall,Bristol City,1-1,-
--,-,Newport County,Bristol City,0-1,-
--,-,Northampton Town,Bristol City,2-1,-
--,-,Norwich City,Bristol City,2-2,-
--,-,Plymouth Argyle,Bristol City,5-1,-
--,-,Portsmouth,Bristol City,1-2,-
--,-,Queens Park Rangers,Bristol City,1-2,-
--,-,Reading,Bristol City,0-0,-
--,-,Southend United,Bristol City,0-3,-
--,-,Swansea City,Bristol City,4-1,-
--,-,Swindon Town,Bristol City,0-1,-
--,-,Watford,Bristol City,1-1,-
--,-,Aberdare Athletic,Bristol Rovers,0-0,-
--,-,Brentford,Bristol Rovers,0-1,-
--,-,Brighton & Hove Albion,Bristol Rovers,2-1,-
--,-,Bristol City,Bristol Rovers,0-1,-
--,-,Charlton Athletic,Bristol Rovers,0-0,-
--,-,Exeter City,Bristol Rovers,0-0,-
--,-,Gillingham,Bristol Rovers,0-1,-
--,-,Luton Town,Bristol Rovers,1-0,-
--,-,Merthyr Town,Bristol Rovers,1-1,-
--,-,Millwall,Bristol Rovers,1-0,-
--,-,Newport County,Bristol Rovers,4-1,-
--,-,Northampton Town,Bristol Rovers,1-0,-
--,-,Norwich City,Bristol Rovers,0-0,-
--,-,Plymouth Argyle,Bristol Rovers,3-0,-
--,-,Portsmouth,Bristol Rovers,0-0,-
--,-,Queens Park Rangers,Bristol Rovers,3-1,-
--,-,Reading,Bristol Rovers,0-1,-
--,-,Southend United,Bristol Rovers,0-0,-
--,-,Swansea City,Bristol Rovers,0-1,-
--,-,Swindon Town,Bristol Rovers,1-0,-
--,-,Watford,Bristol Rovers,0-1,-
--,-,Aberdare Athletic,Charlton Athletic,3-1,-
--,-,Brentford,Charlton Athletic,0-3,-
--,-,Brighton & Hove Albion,Charlton Athletic,1-0,-
--,-,Bristol City,Charlton Athletic,3-1,-
--,-,Bristol Rovers,Charlton Athletic,1-1,-
--,-,Exeter City,Charlton Athletic,0-0,-
--,-,Gillingham,Charlton Athletic,2-2,-
--,-,Luton Town,Charlton Athletic,2-2,-
--,-,Merthyr Town,Charlton Athletic,3-0,-
--,-,Millwall,Charlton Athletic,1-1,-
--,-,Newport County,Charlton Athletic,4-0,-
--,-,Northampton Town,Charlton Athletic,0-0,-
--,-,Norwich City,Charlton Athletic,2-3,-
--,-,Plymouth Argyle,Charlton Athletic,2-0,-
--,-,Portsmouth,Charlton Athletic,3-0,-
--,-,Queens Park Rangers,Charlton Athletic,1-2,-
--,-,Reading,Charlton Athletic,2-1,-
--,-,Southend United,Charlton Athletic,0-0,-
--,-,Swansea City,Charlton Athletic,3-2,-
--,-,Swindon Town,Charlton Athletic,2-1,-
--,-,Watford,Charlton Athletic,2-2,-
--,-,Aberdare Athletic,Exeter City,3-1,-
--,-,Brentford,Exeter City,0-1,-
--,-,Brighton & Hove Albion,Exeter City,3-0,-
--,-,Bristol City,Exeter City,1-1,-
--,-,Bristol Rovers,Exeter City,3-3,-
--,-,Charlton Athletic,Exeter City,0-0,-
--,-,Gillingham,Exeter City,2-1,-
--,-,Luton Town,Exeter City,6-0,-
--,-,Merthyr Town,Exeter City,3-1,-
--,-,Millwall,Exeter City,3-0,-
--,-,Newport County,Exeter City,6-2,-
--,-,Northampton Town,Exeter City,3-0,-
--,-,Norwich City,Exeter City,6-0,-
--,-,Plymouth Argyle,Exeter City,5-1,-
--,-,Portsmouth,Exeter City,3-4,-
--,-,Queens Park Rangers,Exeter City,2-0,-
--,-,Reading,Exeter City,1-3,-
--,-,Southend United,Exeter City,5-0,-
--,-,Swansea City,Exeter City,5-1,-
--,-,Swindon Town,Exeter City,2-1,-
--,-,Watford,Exeter City,4-0,-
--,-,Aberdare Athletic,Gillingham,2-0,-
--,-,Brentford,Gillingham,2-0,-
--,-,Brighton & Hove Albion,Gillingham,3-0,-
--,-,Bristol City,Gillingham,2-1,-
--,-,Bristol Rovers,Gillingham,1-0,-
--,-,Charlton Athletic,Gillingham,3-1,-
--,-,Exeter City,Gillingham,0-1,-
--,-,Luton Town,Gillingham,2-0,-
--,-,Merthyr Town,Gillingham,1-0,-
--,-,Millwall,Gillingham,3-1,-
--,-,Newport County,Gillingham,2-1,-
--,-,Northampton Town,Gillingham,1-0,-
--,-,Norwich City,Gillingham,1-1,-
--,-,Plymouth Argyle,Gillingham,2-0,-
--,-,Portsmouth,Gillingham,6-1,-
--,-,Queens Park Rangers,Gillingham,2-1,-
--,-,Reading,Gillingham,1-1,-
--,-,Southend United,Gillingham,1-1,-
--,-,Swansea City,Gillingham,1-0,-
--,-,Swindon Town,Gillingham,0-1,-
--,-,Watford,Gillingham,5-2,-
--,-,Aberdare Athletic,Luton Town,2-1,-
--,-,Brentford,Luton Town,3-2,-
--,-,Brighton & Hove Albion,Luton Town,0-1,-
--,-,Bristol City,Luton Town,1-0,-
--,-,Bristol Rovers,Luton Town,1-1,-
--,-,Charlton Athletic,Luton Town,2-1,-
--,-,Exeter City,Luton Town,1-2,-
--,-,Gillingham,Luton Town,1-0,-
--,-,Merthyr Town,Luton Town,0-1,-
--,-,Millwall,Luton Town,0-0,-
--,-,Newport County,Luton Town,0-3,-
--,-,Northampton Town,Luton Town,2-0,-
--,-,Norwich City,Luton Town,1-2,-
--,-,Plymouth Argyle,Luton Town,4-0,-
--,-,Portsmouth,Luton Town,1-2,-
--,-,Queens Park Rangers,Luton Town,4-0,-
--,-,Reading,Luton Town,3-0,-
--,-,Southend United,Luton Town,1-3,-
--,-,Swansea City,Luton Town,1-0,-
--,-,Swindon Town,Luton Town,1-1,-
--,-,Watford,Luton Town,2-1,-
--,-,Aberdare Athletic,Merthyr Town,0-0,-
--,-,Brentford,Merthyr Town,3-1,-
--,-,Brighton & Hove Albion,Merthyr Town,0-0,-
--,-,Bristol City,Merthyr Town,3-0,-
--,-,Bristol Rovers,Merthyr Town,3-0,-
--,-,Charlton Athletic,Merthyr Town,0-1,-
--,-,Exeter City,Merthyr Town,2-1,-
--,-,Gillingham,Merthyr Town,2-0,-
--,-,Luton Town,Merthyr Town,2-1,-
--,-,Millwall,Merthyr Town,1-0,-
--,-,Newport County,Merthyr Town,1-1,-
--,-,Northampton Town,Merthyr Town,1-1,-
--,-,Norwich City,Merthyr Town,1-1,-
--,-,Plymouth Argyle,Merthyr Town,2-0,-
--,-,Portsmouth,Merthyr Town,1-1,-
--,-,Queens Park Rangers,Merthyr Town,1-1,-
--,-,Reading,Merthyr Town,1-0,-
--,-,Southend United,Merthyr Town,1-1,-
--,-,Swansea City,Merthyr Town,1-1,-
--,-,Swindon Town,Merthyr Town,4-0,-
--,-,Watford,Merthyr Town,1-1,-
--,-,Aberdare Athletic,Millwall,0-1,-
--,-,Brentford,Millwall,1-1,-
--,-,Brighton & Hove Albion,Millwall,2-0,-
--,-,Bristol City,Millwall,1-1,-
--,-,Bristol Rovers,Millwall,0-0,-
--,-,Charlton Athletic,Millwall,0-2,-
--,-,Exeter City,Millwall,2-1,-
--,-,Gillingham,Millwall,3-0,-
--,-,Luton Town,Millwall,2-2,-
--,-,Merthyr Town,Millwall,1-1,-
--,-,Newport County,Millwall,0-0,-
--,-,Northampton Town,Millwall,2-1,-
--,-,Norwich City,Millwall,3-2,-
--,-,Plymouth Argyle,Millwall,1-0,-
--,-,Portsmouth,Millwall,2-0,-
--,-,Queens Park Rangers,Millwall,2-3,-
--,-,Reading,Millwall,1-2,-
--,-,Southend United,Millwall,4-0,-
--,-,Swansea City,Millwall,0-1,-
--,-,Swindon Town,Millwall,0-0,-
--,-,Watford,Millwall,0-0,-
--,-,Aberdare Athletic,Newport County,6-2,-
--,-,Brentford,Newport County,0-0,-
--,-,Brighton & Hove Albion,Newport County,2-1,-
--,-,Bristol City,Newport County,2-0,-
--,-,Bristol Rovers,Newport County,3-1,-
--,-,Charlton Athletic,Newport County,6-0,-
--,-,Exeter City,Newport County,4-0,-
--,-,Gillingham,Newport County,3-0,-
--,-,Luton Town,Newport County,1-0,-
--,-,Merthyr Town,Newport County,1-0,-
--,-,Millwall,Newport County,0-0,-
--,-,Northampton Town,Newport County,2-1,-
--,-,Norwich City,Newport County,1-1,-
--,-,Plymouth Argyle,Newport County,1-0,-
--,-,Portsmouth,Newport County,2-0,-
--,-,Queens Park Rangers,Newport County,1-1,-
--,-,Reading,Newport County,2-0,-
--,-,Southend United,Newport County,3-1,-
--,-,Swansea City,Newport County,5-1,-
--,-,Swindon Town,Newport County,2-2,-
--,-,Watford,Newport County,2-1,-
--,-,Aberdare Athletic,Northampton Town,0-2,-
--,-,Brentford,Northampton Town,2-1,-
--,-,Brighton & Hove Albion,Northampton Town,1-0,-
--,-,Bristol City,Northampton Town,1-0,-
--,-,Bristol Rovers,Northampton Town,0-0,-
--,-,Charlton Athletic,Northampton Town,2-0,-
--,-,Exeter City,Northampton Town,1-2,-
--,-,Gillingham,Northampton Town,0-3,-
--,-,Luton Town,Northampton Town,2-1,-
--,-,Merthyr Town,Northampton Town,3-0,-
--,-,Millwall,Northampton Town,2-0,-
--,-,Newport County,Northampton Town,1-1,-
--,-,Norwich City,Northampton Town,1-0,-
--,-,Plymouth Argyle,Northampton Town,1-0,-
--,-,Portsmouth,Northampton Town,0-0,-
--,-,Queens Park Rangers,Northampton Town,3-2,-
--,-,Reading,Northampton Town,0-0,-
--,-,Southend United,Northampton Town,1-2,-
--,-,Swansea City,Northampton Town,4-0,-
--,-,Swindon Town,Northampton Town,2-0,-
--,-,Watford,Northampton Town,0-0,-
--,-,Aberdare Athletic,Norwich City,0-3,-
--,-,Brentford,Norwich City,1-4,-
--,-,Brighton & Hove Albion,Norwich City,0-0,-
--,-,Bristol City,Norwich City,4-0,-
--,-,Bristol Rovers,Norwich City,3-2,-
--,-,Charlton Athletic,Norwich City,3-0,-
--,-,Exeter City,Norwich City,2-0,-
--,-,Gillingham,Norwich City,5-0,-
--,-,Luton Town,Norwich City,4-0,-
--,-,Merthyr Town,Norwich City,0-1,-
--,-,Millwall,Norwich City,3-0,-
--,-,Newport County,Norwich City,1-3,-
--,-,Northampton Town,Norwich City,1-1,-
--,-,Plymouth Argyle,Norwich City,1-1,-
--,-,Portsmouth,Norwich City,2-1,-
--,-,Queens Park Rangers,Norwich City,2-0,-
--,-,Reading,Norwich City,4-1,-
--,-,Southend United,Norwich City,3-1,-
--,-,Swansea City,Norwich City,3-1,-
--,-,Swindon Town,Norwich City,1-2,-
--,-,Watford,Norwich City,2-1,-
--,-,Aberdare Athletic,Plymouth Argyle,2-2,-
--,-,Brentford,Plymouth Argyle,2-0,-
--,-,Brighton & Hove Albion,Plymouth Argyle,1-0,-
--,-,Bristol City,Plymouth Argyle,2-0,-
--,-,Bristol Rovers,Plymouth Argyle,0-1,-
--,-,Charlton Athletic,Plymouth Argyle,1-0,-
--,-,Exeter City,Plymouth Argyle,0-0,-
--,-,Gillingham,Plymouth Argyle,1-0,-
--,-,Luton Town,Plymouth Argyle,2-1,-
--,-,Merthyr Town,Plymouth Argyle,0-1,-
--,-,Millwall,Plymouth Argyle,0-0,-
--,-,Newport County,Plymouth Argyle,1-0,-
--,-,Northampton Town,Plymouth Argyle,1-0,-
--,-,Norwich City,Plymouth Argyle,1-0,-
--,-,Portsmouth,Plymouth Argyle,1-2,-
--,-,Queens Park Rangers,Plymouth Argyle,2-3,-
--,-,Reading,Plymouth Argyle,0-1,-
--,-,Southend United,Plymouth Argyle,2-1,-
--,-,Swansea City,Plymouth Argyle,1-1,-
--,-,Swindon Town,Plymouth Argyle,2-1,-
--,-,Watford,Plymouth Argyle,1-0,-
--,-,Aberdare Athletic,Portsmouth,0-2,-
--,-,Brentford,Portsmouth,1-0,-
--,-,Brighton & Hove Albion,Portsmouth,7-1,-
--,-,Bristol City,Portsmouth,2-1,-
--,-,Bristol Rovers,Portsmouth,0-1,-
--,-,Charlton Athletic,Portsmouth,0-2,-
--,-,Exeter City,Portsmouth,2-3,-
--,-,Gillingham,Portsmouth,4-2,-
--,-,Luton Town,Portsmouth,0-2,-
--,-,Merthyr Town,Portsmouth,3-0,-
--,-,Millwall,Portsmouth,1-3,-
--,-,Newport County,Portsmouth,0-0,-
--,-,Northampton Town,Portsmouth,3-0,-
--,-,Norwich City,Portsmouth,0-2,-
--,-,Plymouth Argyle,Portsmouth,2-0,-
--,-,Queens Park Rangers,Portsmouth,0-1,-
--,-,Reading,Portsmouth,0-0,-
--,-,Southend United,Portsmouth,0-0,-
--,-,Swansea City,Portsmouth,2-1,-
--,-,Swindon Town,Portsmouth,3-0,-
--,-,Watford,Portsmouth,2-3,-
--,-,Aberdare Athletic,Queens Park Rangers,0-0,-
--,-,Brentford,Queens Park Rangers,1-3,-
--,-,Brighton & Hove Albion,Queens Park Rangers,2-0,-
--,-,Bristol City,Queens Park Rangers,3-2,-
--,-,Bristol Rovers,Queens Park Rangers,1-3,-
--,-,Charlton Athletic,Queens Park Rangers,1-1,-
--,-,Exeter City,Queens Park Rangers,1-2,-
--,-,Gillingham,Queens Park Rangers,0-1,-
--,-,Luton Town,Queens Park Rangers,1-0,-
--,-,Merthyr Town,Queens Park Rangers,0-1,-
--,-,Millwall,Queens Park Rangers,0-0,-
--,-,Newport County,Queens Park Rangers,1-0,-
--,-,Northampton Town,Queens Park Rangers,4-2,-
--,-,Norwich City,Queens Park Rangers,1-1,-
--,-,Plymouth Argyle,Queens Park Rangers,2-0,-
--,-,Portsmouth,Queens Park Rangers,1-1,-
--,-,Reading,Queens Park Rangers,0-0,-
--,-,Southend United,Queens Park Rangers,2-0,-
--,-,Swansea City,Queens Park Rangers,3-0,-
--,-,Swindon Town,Queens Park Rangers,1-0,-
--,-,Watford,Queens Park Rangers,0-3,-
--,-,Aberdare Athletic,Reading,0-0,-
--,-,Brentford,Reading,1-1,-
--,-,Brighton & Hove Albion,Reading,3-1,-
--,-,Bristol City,Reading,2-1,-
--,-,Bristol Rovers,Reading,1-1,-
--,-,Charlton Athletic,Reading,1-0,-
--,-,Exeter City,Reading,4-0,-
--,-,Gillingham,Reading,2-1,-
--,-,Luton Town,Reading,1-2,-
--,-,Merthyr Town,Reading,1-1,-
--,-,Millwall,Reading,0-0,-
--,-,Newport County,Reading,3-0,-
--,-,Northampton Town,Reading,5-0,-
--,-,Norwich City,Reading,2-0,-
--,-,Plymouth Argyle,Reading,3-0,-
--,-,Portsmouth,Reading,1-0,-
--,-,Queens Park Rangers,Reading,1-0,-
--,-,Southend United,Reading,3-1,-
--,-,Swansea City,Reading,2-2,-
--,-,Swindon Town,Reading,3-1,-
--,-,Watford,Reading,1-0,-
--,-,Aberdare Athletic,Southend United,1-1,-
--,-,Brentford,Southend United,0-0,-
--,-,Brighton & Hove Albion,Southend United,0-1,-
--,-,Bristol City,Southend United,5-0,-
--,-,Bristol Rovers,Southend United,2-0,-
--,-,Charlton Athletic,Southend United,5-1,-
--,-,Exeter City,Southend United,2-1,-
--,-,Gillingham,Southend United,1-0,-
--,-,Luton Town,Southend United,2-0,-
--,-,Merthyr Town,Southend United,2-1,-
--,-,Millwall,Southend United,1-1,-
--,-,Newport County,Southend United,0-2,-
--,-,Northampton Town,Southend United,5-2,-
--,-,Norwich City,Southend United,2-1,-
--,-,Plymouth Argyle,Southend United,1-1,-
--,-,Portsmouth,Southend United,0-0,-
--,-,Queens Park Rangers,Southend United,1-0,-
--,-,Reading,Southend United,1-1,-
--,-,Swansea City,Southend United,1-0,-
--,-,Swindon Town,Southend United,3-0,-
--,-,Watford,Southend United,1-1,-
--,-,Aberdare Athletic,Swansea City,0-1,-
--,-,Brentford,Swansea City,0-1,-
--,-,Brighton & Hove Albion,Swansea City,1-3,-
--,-,Bristol City,Swansea City,1-0,-
--,-,Bristol Rovers,Swansea City,0-0,-
--,-,Charlton Athletic,Swansea City,3-1,-
--,-,Exeter City,Swansea City,1-0,-
--,-,Gillingham,Swansea City,2-2,-
--,-,Luton Town,Swansea City,6-1,-
--,-,Merthyr Town,Swansea City,2-1,-
--,-,Millwall,Swansea City,0-2,-
--,-,Newport County,Swansea City,1-2,-
--,-,Northampton Town,Swansea City,1-3,-
--,-,Norwich City,Swansea City,1-4,-
--,-,Plymouth Argyle,Swansea City,2-0,-
--,-,Portsmouth,Swansea City,0-3,-
--,-,Queens Park Rangers,Swansea City,2-1,-
--,-,Reading,Swansea City,4-4,-
--,-,Southend United,Swansea City,0-1,-
--,-,Swindon Town,Swansea City,2-1,-
--,-,Watford,Swansea City,2-1,-
--,-,Aberdare Athletic,Swindon Town,3-3,-
--,-,Brentford,Swindon Town,3-0,-
--,-,Brighton & Hove Albion,Swindon Town,1-1,-
--,-,Bristol City,Swindon Town,3-1,-
--,-,Bristol Rovers,Swindon Town,2-0,-
--,-,Charlton Athletic,Swindon Town,3-1,-
--,-,Exeter City,Swindon Town,2-1,-
--,-,Gillingham,Swindon Town,0-0,-
--,-,Luton Town,Swindon Town,3-2,-
--,-,Merthyr Town,Swindon Town,1-1,-
--,-,Millwall,Swindon Town,1-1,-
--,-,Newport County,Swindon Town,2-2,-
--,-,Northampton Town,Swindon Town,1-2,-
--,-,Norwich City,Swindon Town,0-0,-
--,-,Plymouth Argyle,Swindon Town,2-0,-
--,-,Portsmouth,Swindon Town,4-1,-
--,-,Queens Park Rangers,Swindon Town,0-2,-
--,-,Reading,Swindon Town,1-0,-
--,-,Southend United,Swindon Town,2-0,-
--,-,Swansea City,Swindon Town,5-0,-
--,-,Watford,Swindon Town,0-3,-
--,-,Aberdare Athletic,Watford,3-1,-
--,-,Brentford,Watford,2-1,-
--,-,Brighton & Hove Albion,Watford,3-0,-
--,-,Bristol City,Watford,3-1,-
--,-,Bristol Rovers,Watford,1-2,-
--,-,Charlton Athletic,Watford,0-0,-
--,-,Exeter City,Watford,1-2,-
--,-,Gillingham,Watford,1-4,-
--,-,Luton Town,Watford,0-1,-
--,-,Merthyr Town,Watford,2-3,-
--,-,Millwall,Watford,5-1,-
--,-,Newport County,Watford,0-1,-
--,-,Northampton Town,Watford,1-1,-
--,-,Norwich City,Watford,2-0,-
--,-,Plymouth Argyle,Watford,1-0,-
--,-,Portsmouth,Watford,1-0,-
--,-,Queens Park Rangers,Watford,1-2,-
--,-,Reading,Watford,1-0,-
--,-,Southend United,Watford,2-1,-
--,-,Swansea City,Watford,0-0,-
--,-,Swindon Town,Watford,1-1,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 17 Feb 1923 (7),Aberdare Athletic (1),0-0,?,Brentford FC (1)
+?,(Tue) 1 May 1923 (18),Aberdare Athletic (2),0-1,?,Brighton & Hove Albion (1)
+?,(Mon) 2 Apr 1923 (14),Aberdare Athletic (3),0-1,?,Bristol City FC (1)
+?,(Sat) 21 Apr 1923 (16),Aberdare Athletic (4),0-0,?,Bristol Rovers (1)
+?,(Sat) 24 Mar 1923 (12),Aberdare Athletic (5),3-1,?,Charlton Athletic (1)
+?,(Sat) 26 Aug 1922 (34),Aberdare Athletic (6),3-1,?,Exeter City (1)
+?,(Sat) 25 Nov 1922 (47),Aberdare Athletic (7),2-0,?,Gillingham FC (1)
+?,(Sat) 14 Oct 1922 (41),Aberdare Athletic (8),2-1,?,Luton Town (1)
+?,(Mon) 25 Dec 1922 (52),Aberdare Athletic (9),0-0,?,Merthyr Town (1)
+?,(Sat) 30 Sep 1922 (39),Aberdare Athletic (10),0-1,?,Millwall FC (1)
+?,(Sat) 27 Jan 1923 (4),Aberdare Athletic (11),6-2,?,Newport County AFC (1)
+?,(Sat) 21 Oct 1922 (42),Aberdare Athletic (12),0-2,?,Northampton Town (1)
+?,(Sat) 3 Feb 1923 (5),Aberdare Athletic (13),0-3,?,Norwich City (1)
+?,(Sat) 7 Apr 1923 (14),Aberdare Athletic (14),2-2,?,Plymouth Argyle (1)
+?,(Sat) 9 Sep 1922 (36),Aberdare Athletic (15),0-2,?,Portsmouth FC (1)
+?,(Sat) 4 Nov 1922 (44),Aberdare Athletic (16),0-0,?,Queens Park Rangers (1)
+?,(Sat) 5 May 1923 (18),Aberdare Athletic (17),0-0,?,Reading FC (1)
+?,(Mon) 11 Sep 1922 (37),Aberdare Athletic (18),1-1,?,Southend United (1)
+?,(Sat) 6 Jan 1923 (1),Aberdare Athletic (19),0-1,?,Swansea City (1)
+?,(Thu) 1 Mar 1923 (9),Aberdare Athletic (20),3-3,?,Swindon Town (1)
+?,(Sat) 3 Mar 1923 (9),Aberdare Athletic (21),3-1,?,Watford FC (1)
+?,(Sat) 24 Feb 1923 (8),Brentford FC (2),0-1,?,Aberdare Athletic (22)
+?,(Sat) 28 Oct 1922 (43),Brentford FC (3),1-2,?,Brighton & Hove Albion (2)
+?,(Sat) 31 Mar 1923 (13),Brentford FC (4),4-0,?,Bristol City FC (2)
+?,(Sat) 23 Dec 1922 (51),Brentford FC (5),0-1,?,Bristol Rovers (2)
+?,(Sat) 27 Jan 1923 (4),Brentford FC (6),0-3,?,Charlton Athletic (2)
+?,(Sat) 14 Oct 1922 (41),Brentford FC (7),0-1,?,Exeter City (2)
+?,(Sat) 2 Sep 1922 (35),Brentford FC (8),2-0,?,Gillingham FC (2)
+?,(Mon) 28 Aug 1922 (35),Brentford FC (9),3-2,?,Luton Town (2)
+?,(Sat) 4 Nov 1922 (44),Brentford FC (10),3-1,?,Merthyr Town (2)
+?,(Sat) 28 Apr 1923 (17),Brentford FC (11),1-1,?,Millwall FC (2)
+?,(Sat) 17 Mar 1923 (11),Brentford FC (12),0-0,?,Newport County AFC (2)
+?,(Sat) 30 Sep 1922 (39),Brentford FC (13),2-1,?,Northampton Town (2)
+?,(Sat) 16 Sep 1922 (37),Brentford FC (14),1-4,?,Norwich City (2)
+?,(Sat) 6 Jan 1923 (1),Brentford FC (15),2-0,?,Plymouth Argyle (2)
+?,(Sat) 14 Apr 1923 (15),Brentford FC (16),1-0,?,Portsmouth FC (2)
+?,(Mon) 11 Sep 1922 (37),Brentford FC (17),1-3,?,Queens Park Rangers (2)
+?,(Sat) 18 Nov 1922 (46),Brentford FC (18),1-1,?,Reading FC (2)
+?,(Fri) 30 Mar 1923 (13),Brentford FC (19),0-0,?,Southend United (2)
+?,(Sat) 10 Mar 1923 (10),Brentford FC (20),0-1,?,Swansea City (2)
+?,(Sat) 10 Feb 1923 (6),Brentford FC (21),3-0,?,Swindon Town (2)
+?,(Tue) 26 Dec 1922 (52),Brentford FC (22),2-1,?,Watford FC (2)
+?,(Sat) 9 Dec 1922 (49),Brighton & Hove Albion (3),3-1,?,Aberdare Athletic (23)
+?,(Sat) 21 Oct 1922 (42),Brighton & Hove Albion (4),2-1,?,Brentford FC (23)
+?,(Sat) 20 Jan 1923 (3),Brighton & Hove Albion (5),2-1,?,Bristol City FC (3)
+?,(Sat) 24 Mar 1923 (12),Brighton & Hove Albion (6),2-1,?,Bristol Rovers (3)
+?,(Sat) 17 Feb 1923 (7),Brighton & Hove Albion (7),1-0,?,Charlton Athletic (3)
+?,(Wed) 6 Sep 1922 (36),Brighton & Hove Albion (8),3-0,?,Exeter City (3)
+?,(Sat) 7 Oct 1922 (40),Brighton & Hove Albion (9),3-0,?,Gillingham FC (3)
+?,(Sat) 16 Sep 1922 (37),Brighton & Hove Albion (10),0-1,?,Luton Town (3)
+?,(Sat) 5 May 1923 (18),Brighton & Hove Albion (11),0-0,?,Merthyr Town (3)
+?,(Mon) 2 Apr 1923 (14),Brighton & Hove Albion (12),2-0,?,Millwall FC (3)
+?,(Sat) 23 Dec 1922 (51),Brighton & Hove Albion (13),2-1,?,Newport County AFC (3)
+?,(Sat) 6 Jan 1923 (1),Brighton & Hove Albion (14),1-0,?,Northampton Town (3)
+?,(Sat) 26 Aug 1922 (34),Brighton & Hove Albion (15),0-0,?,Norwich City (3)
+?,(Sat) 3 Mar 1923 (9),Brighton & Hove Albion (16),1-0,?,Plymouth Argyle (3)
+?,(Mon) 25 Dec 1922 (52),Brighton & Hove Albion (17),7-1,?,Portsmouth FC (3)
+?,(Sat) 30 Sep 1922 (39),Brighton & Hove Albion (18),2-0,?,Queens Park Rangers (3)
+?,(Sat) 7 Apr 1923 (14),Brighton & Hove Albion (19),3-1,?,Reading FC (3)
+?,(Sat) 21 Apr 1923 (16),Brighton & Hove Albion (20),0-1,?,Southend United (3)
+?,(Sat) 4 Nov 1922 (44),Brighton & Hove Albion (21),1-3,?,Swansea City (3)
+?,(Sat) 25 Nov 1922 (47),Brighton & Hove Albion (22),1-1,?,Swindon Town (3)
+?,(Wed) 21 Feb 1923 (8),Brighton & Hove Albion (23),3-0,?,Watford FC (3)
+?,(Fri) 30 Mar 1923 (13),Bristol City FC (4),0-0,?,Aberdare Athletic (24)
+?,(Sat) 7 Apr 1923 (14),Bristol City FC (5),1-1,?,Brentford FC (24)
+?,(Sat) 27 Jan 1923 (4),Bristol City FC (6),3-1,?,Brighton & Hove Albion (24)
+?,(Sat) 23 Sep 1922 (38),Bristol City FC (7),0-1,?,Bristol Rovers (4)
+?,(Sat) 5 May 1923 (18),Bristol City FC (8),3-1,?,Charlton Athletic (4)
+?,(Sat) 17 Feb 1923 (7),Bristol City FC (9),1-1,?,Exeter City (4)
+?,(Sat) 6 Jan 1923 (1),Bristol City FC (10),2-1,?,Gillingham FC (4)
+?,(Sat) 9 Dec 1922 (49),Bristol City FC (11),1-0,?,Luton Town (4)
+?,(Wed) 14 Feb 1923 (7),Bristol City FC (12),3-0,?,Merthyr Town (4)
+?,(Sat) 18 Nov 1922 (46),Bristol City FC (13),1-1,?,Millwall FC (4)
+?,(Sat) 9 Sep 1922 (36),Bristol City FC (14),2-0,?,Newport County AFC (4)
+?,(Sat) 3 Mar 1923 (9),Bristol City FC (15),1-0,?,Northampton Town (4)
+?,(Sat) 24 Mar 1923 (12),Bristol City FC (16),4-0,?,Norwich City (4)
+?,(Mon) 4 Sep 1922 (36),Bristol City FC (17),2-0,?,Plymouth Argyle (4)
+?,(Sat) 4 Nov 1922 (44),Bristol City FC (18),2-1,?,Portsmouth FC (4)
+?,(Sat) 23 Dec 1922 (51),Bristol City FC (19),3-2,?,Queens Park Rangers (4)
+?,(Sat) 26 Aug 1922 (34),Bristol City FC (20),2-1,?,Reading FC (4)
+?,(Sat) 21 Oct 1922 (42),Bristol City FC (21),5-0,?,Southend United (4)
+?,(Sat) 14 Oct 1922 (41),Bristol City FC (22),1-0,?,Swansea City (4)
+?,(Tue) 26 Dec 1922 (52),Bristol City FC (23),3-1,?,Swindon Town (4)
+?,(Sat) 21 Apr 1923 (16),Bristol City FC (24),3-1,?,Watford FC (4)
+?,(Sat) 14 Apr 1923 (15),Bristol Rovers (5),1-0,?,Aberdare Athletic (25)
+?,(Mon) 30 Apr 1923 (18),Bristol Rovers (6),1-1,?,Brentford FC (25)
+?,(Sat) 17 Mar 1923 (11),Bristol Rovers (7),0-0,?,Brighton & Hove Albion (25)
+?,(Sat) 30 Sep 1922 (39),Bristol Rovers (8),1-2,?,Bristol City FC (25)
+?,(Sat) 25 Nov 1922 (47),Bristol Rovers (9),1-1,?,Charlton Athletic (5)
+?,(Mon) 25 Dec 1922 (52),Bristol Rovers (10),3-3,?,Exeter City (5)
+?,(Sat) 10 Mar 1923 (10),Bristol Rovers (11),1-0,?,Gillingham FC (5)
+?,(Sat) 10 Feb 1923 (6),Bristol Rovers (12),1-1,?,Luton Town (5)
+?,(Mon) 2 Apr 1923 (14),Bristol Rovers (13),3-0,?,Merthyr Town (5)
+?,(Sat) 28 Oct 1922 (43),Bristol Rovers (14),0-0,?,Millwall FC (5)
+?,(Mon) 28 Aug 1922 (35),Bristol Rovers (15),3-1,?,Newport County AFC (5)
+?,(Sat) 20 Jan 1923 (3),Bristol Rovers (16),0-0,?,Northampton Town (5)
+?,(Mon) 23 Apr 1923 (17),Bristol Rovers (17),3-2,?,Norwich City (5)
+?,(Sat) 11 Nov 1922 (45),Bristol Rovers (18),0-1,?,Plymouth Argyle (5)
+?,(Sat) 2 Sep 1922 (35),Bristol Rovers (19),0-1,?,Portsmouth FC (5)
+?,(Mon) 26 Mar 1923 (13),Bristol Rovers (20),1-3,?,Queens Park Rangers (5)
+?,(Sat) 16 Sep 1922 (37),Bristol Rovers (21),1-1,?,Reading FC (5)
+?,(Sat) 7 Oct 1922 (40),Bristol Rovers (22),2-0,?,Southend United (5)
+?,(Sat) 28 Apr 1923 (17),Bristol Rovers (23),0-0,?,Swansea City (5)
+?,(Sat) 31 Mar 1923 (13),Bristol Rovers (24),2-0,?,Swindon Town (5)
+?,(Wed) 13 Sep 1922 (37),Bristol Rovers (25),1-2,?,Watford FC (5)
+?,(Sat) 17 Mar 1923 (11),Charlton Athletic (6),1-1,?,Aberdare Athletic (26)
+?,(Sat) 20 Jan 1923 (3),Charlton Athletic (7),1-1,?,Brentford FC (26)
+?,(Mon) 16 Apr 1923 (16),Charlton Athletic (8),0-1,?,Brighton & Hove Albion (26)
+?,(Sat) 28 Apr 1923 (17),Charlton Athletic (9),1-0,?,Bristol City FC (26)
+?,(Sat) 18 Nov 1922 (46),Charlton Athletic (10),0-0,?,Bristol Rovers (26)
+?,(Sat) 16 Sep 1922 (37),Charlton Athletic (11),0-0,?,Exeter City (6)
+?,(Sat) 10 Feb 1923 (6),Charlton Athletic (12),3-1,?,Gillingham FC (6)
+?,(Sat) 2 Sep 1922 (35),Charlton Athletic (13),2-1,?,Luton Town (6)
+?,(Sat) 30 Sep 1922 (39),Charlton Athletic (14),0-1,?,Merthyr Town (6)
+?,(Sat) 11 Nov 1922 (45),Charlton Athletic (15),0-2,?,Millwall FC (6)
+?,(Sat) 14 Apr 1923 (15),Charlton Athletic (16),6-0,?,Newport County AFC (6)
+?,(Mon) 2 Apr 1923 (14),Charlton Athletic (17),2-0,?,Northampton Town (6)
+?,(Mon) 25 Dec 1922 (52),Charlton Athletic (18),3-0,?,Norwich City (6)
+?,(Mon) 23 Oct 1922 (43),Charlton Athletic (19),1-0,?,Plymouth Argyle (6)
+?,(Mon) 28 Aug 1922 (35),Charlton Athletic (20),0-2,?,Portsmouth FC (6)
+?,(Sat) 28 Oct 1922 (43),Charlton Athletic (21),1-1,?,Queens Park Rangers (6)
+?,(Sat) 14 Oct 1922 (41),Charlton Athletic (22),1-0,?,Reading FC (6)
+?,(Mon) 12 Mar 1923 (11),Charlton Athletic (23),5-1,?,Southend United (6)
+?,(Sat) 31 Mar 1923 (13),Charlton Athletic (24),3-1,?,Swansea City (6)
+?,(Thu) 3 May 1923 (18),Charlton Athletic (25),3-1,?,Swindon Town (6)
+?,(Sat) 30 Dec 1922 (52),Charlton Athletic (26),0-0,?,Watford FC (6)
+?,(Sat) 2 Sep 1922 (35),Exeter City (7),1-0,?,Aberdare Athletic (27)
+?,(Sat) 7 Oct 1922 (40),Exeter City (8),0-2,?,Brentford FC (27)
+?,(Wed) 30 Aug 1922 (35),Exeter City (9),1-0,?,Brighton & Hove Albion (27)
+?,(Sat) 24 Feb 1923 (8),Exeter City (10),0-0,?,Bristol City FC (27)
+?,(Tue) 26 Dec 1922 (52),Exeter City (11),0-0,?,Bristol Rovers (27)
+?,(Sat) 9 Sep 1922 (36),Exeter City (12),0-0,?,Charlton Athletic (27)
+?,(Sat) 28 Apr 1923 (17),Exeter City (13),0-1,?,Gillingham FC (7)
+?,(Sat) 31 Mar 1923 (13),Exeter City (14),1-2,?,Luton Town (7)
+?,(Sat) 23 Dec 1922 (51),Exeter City (15),2-1,?,Merthyr Town (7)
+?,(Sat) 17 Mar 1923 (11),Exeter City (16),2-1,?,Millwall FC (7)
+?,(Sat) 10 Feb 1923 (6),Exeter City (17),4-0,?,Newport County AFC (7)
+?,(Sat) 13 Jan 1923 (2),Exeter City (18),1-2,?,Northampton Town (7)
+?,(Sat) 4 Nov 1922 (44),Exeter City (19),2-0,?,Norwich City (7)
+?,(Mon) 2 Apr 1923 (14),Exeter City (20),0-0,?,Plymouth Argyle (7)
+?,(Sat) 10 Mar 1923 (10),Exeter City (21),2-3,?,Portsmouth FC (7)
+?,(Sat) 14 Apr 1923 (15),Exeter City (22),1-2,?,Queens Park Rangers (7)
+?,(Sat) 6 Jan 1923 (1),Exeter City (23),4-0,?,Reading FC (7)
+?,(Sat) 9 Dec 1922 (49),Exeter City (24),2-1,?,Southend United (7)
+?,(Sat) 28 Oct 1922 (43),Exeter City (25),1-0,?,Swansea City (7)
+?,(Sat) 20 Jan 1923 (3),Exeter City (26),2-1,?,Swindon Town (7)
+?,(Sat) 23 Sep 1922 (38),Exeter City (27),1-2,?,Watford FC (7)
+?,(Sat) 18 Nov 1922 (46),Gillingham FC (8),4-0,?,Aberdare Athletic (28)
+?,(Sat) 26 Aug 1922 (34),Gillingham FC (9),2-0,?,Brentford FC (28)
+?,(Sat) 14 Oct 1922 (41),Gillingham FC (10),2-0,?,Brighton & Hove Albion (28)
+?,(Sat) 30 Dec 1922 (52),Gillingham FC (11),1-1,?,Bristol City FC (28)
+?,(Sat) 3 Mar 1923 (9),Gillingham FC (12),0-1,?,Bristol Rovers (28)
+?,(Wed) 14 Feb 1923 (7),Gillingham FC (13),2-2,?,Charlton Athletic (28)
+?,(Sat) 5 May 1923 (18),Gillingham FC (14),2-1,?,Exeter City (28)
+?,(Fri) 30 Mar 1923 (13),Gillingham FC (15),1-0,?,Luton Town (8)
+?,(Sat) 21 Apr 1923 (16),Gillingham FC (16),2-0,?,Merthyr Town (8)
+?,(Mon) 25 Dec 1922 (52),Gillingham FC (17),3-0,?,Millwall FC (8)
+?,(Sat) 13 Jan 1923 (2),Gillingham FC (18),3-0,?,Newport County AFC (8)
+?,(Wed) 6 Sep 1922 (36),Gillingham FC (19),0-3,?,Northampton Town (8)
+?,(Wed) 25 Apr 1923 (17),Gillingham FC (20),5-0,?,Norwich City (8)
+?,(Sat) 17 Feb 1923 (7),Gillingham FC (21),1-0,?,Plymouth Argyle (8)
+?,(Sat) 20 Jan 1923 (3),Gillingham FC (22),4-2,?,Portsmouth FC (8)
+?,(Sat) 16 Sep 1922 (37),Gillingham FC (23),0-1,?,Queens Park Rangers (8)
+?,(Sat) 24 Mar 1923 (12),Gillingham FC (24),2-1,?,Reading FC (8)
+?,(Sat) 7 Apr 1923 (14),Gillingham FC (25),1-0,?,Southend United (8)
+?,(Sat) 30 Sep 1922 (39),Gillingham FC (26),2-2,?,Swansea City (8)
+?,(Sat) 4 Nov 1922 (44),Gillingham FC (27),0-0,?,Swindon Town (8)
+?,(Sat) 21 Oct 1922 (42),Gillingham FC (28),1-4,?,Watford FC (8)
+?,(Sat) 7 Oct 1922 (40),Luton Town (9),4-1,?,Aberdare Athletic (29)
+?,(Mon) 4 Sep 1922 (36),Luton Town (10),4-0,?,Brentford FC (29)
+?,(Sat) 9 Sep 1922 (36),Luton Town (11),1-1,?,Brighton & Hove Albion (29)
+?,(Sat) 2 Dec 1922 (48),Luton Town (12),1-1,?,Bristol City FC (29)
+?,(Sat) 3 Feb 1923 (5),Luton Town (13),1-0,?,Bristol Rovers (29)
+?,(Sat) 26 Aug 1922 (34),Luton Town (14),2-2,?,Charlton Athletic (29)
+?,(Sat) 7 Apr 1923 (14),Luton Town (15),6-0,?,Exeter City (29)
+?,(Mon) 2 Apr 1923 (14),Luton Town (16),2-0,?,Gillingham FC (29)
+?,(Sat) 24 Mar 1923 (12),Luton Town (17),2-1,?,Merthyr Town (9)
+?,(Sat) 30 Dec 1922 (52),Luton Town (18),2-2,?,Millwall FC (9)
+?,(Sat) 11 Nov 1922 (45),Luton Town (19),1-0,?,Newport County AFC (9)
+?,(Sat) 21 Apr 1923 (16),Luton Town (20),2-1,?,Northampton Town (9)
+?,(Sat) 5 May 1923 (18),Luton Town (21),4-0,?,Norwich City (9)
+?,(Sat) 21 Oct 1922 (42),Luton Town (22),2-1,?,Plymouth Argyle (9)
+?,(Sat) 23 Dec 1922 (51),Luton Town (23),0-2,?,Portsmouth FC (9)
+?,(Tue) 26 Dec 1922 (52),Luton Town (24),1-0,?,Queens Park Rangers (9)
+?,(Sat) 17 Feb 1923 (7),Luton Town (25),1-2,?,Reading FC (9)
+?,(Sat) 3 Mar 1923 (9),Luton Town (26),2-0,?,Southend United (9)
+?,(Sat) 20 Jan 1923 (3),Luton Town (27),6-1,?,Swansea City (9)
+?,(Sat) 23 Sep 1922 (38),Luton Town (28),3-2,?,Swindon Town (9)
+?,(Sat) 25 Nov 1922 (47),Luton Town (29),0-1,?,Watford FC (9)
+?,(Tue) 26 Dec 1922 (52),Merthyr Town (10),0-2,?,Aberdare Athletic (30)
+?,(Sat) 11 Nov 1922 (45),Merthyr Town (11),1-0,?,Brentford FC (30)
+?,(Sat) 28 Apr 1923 (17),Merthyr Town (12),2-0,?,Brighton & Hove Albion (30)
+?,(Sat) 10 Feb 1923 (6),Merthyr Town (13),0-1,?,Bristol City FC (30)
+?,(Tue) 3 Apr 1923 (14),Merthyr Town (14),1-1,?,Bristol Rovers (30)
+?,(Sat) 23 Sep 1922 (38),Merthyr Town (15),3-0,?,Charlton Athletic (30)
+?,(Thu) 12 Apr 1923 (15),Merthyr Town (16),3-1,?,Exeter City (30)
+?,(Sat) 14 Apr 1923 (15),Merthyr Town (17),1-0,?,Gillingham FC (30)
+?,(Sat) 17 Mar 1923 (11),Merthyr Town (18),0-1,?,Luton Town (30)
+?,(Sat) 10 Mar 1923 (10),Merthyr Town (19),1-1,?,Millwall FC (10)
+?,(Sat) 28 Oct 1922 (43),Merthyr Town (20),1-0,?,Newport County AFC (10)
+?,(Mon) 5 Mar 1923 (10),Merthyr Town (21),3-0,?,Northampton Town (10)
+?,(Sat) 18 Nov 1922 (46),Merthyr Town (22),0-1,?,Norwich City (10)
+?,(Sat) 16 Sep 1922 (37),Merthyr Town (23),0-1,?,Plymouth Argyle (10)
+?,(Sat) 24 Feb 1923 (8),Merthyr Town (24),3-0,?,Portsmouth FC (10)
+?,(Sat) 31 Mar 1923 (13),Merthyr Town (25),0-1,?,Queens Park Rangers (10)
+?,(Sat) 20 Jan 1923 (3),Merthyr Town (26),1-1,?,Reading FC (10)
+?,(Sat) 30 Dec 1922 (52),Merthyr Town (27),2-1,?,Southend United (10)
+?,(Sat) 2 Sep 1922 (35),Merthyr Town (28),2-1,?,Swansea City (10)
+?,(Mon) 28 Aug 1922 (35),Merthyr Town (29),1-1,?,Swindon Town (10)
+?,(Sat) 7 Oct 1922 (40),Merthyr Town (30),2-3,?,Watford FC (10)
+?,(Sat) 23 Sep 1922 (38),Millwall FC (11),1-0,?,Aberdare Athletic (31)
+?,(Sat) 5 May 1923 (18),Millwall FC (12),1-1,?,Brentford FC (31)
+?,(Fri) 30 Mar 1923 (13),Millwall FC (13),2-1,?,Brighton & Hove Albion (31)
+?,(Sat) 25 Nov 1922 (47),Millwall FC (14),1-1,?,Bristol City FC (31)
+?,(Sat) 21 Oct 1922 (42),Millwall FC (15),1-0,?,Bristol Rovers (31)
+?,(Sat) 4 Nov 1922 (44),Millwall FC (16),1-1,?,Charlton Athletic (31)
+?,(Sat) 24 Mar 1923 (12),Millwall FC (17),3-0,?,Exeter City (31)
+?,(Tue) 26 Dec 1922 (52),Millwall FC (18),3-1,?,Gillingham FC (31)
+?,(Sat) 6 Jan 1923 (1),Millwall FC (19),0-0,?,Luton Town (31)
+?,(Sat) 3 Mar 1923 (9),Millwall FC (20),1-0,?,Merthyr Town (31)
+?,(Sat) 7 Oct 1922 (40),Millwall FC (21),0-0,?,Newport County AFC (11)
+?,(Sat) 7 Apr 1923 (14),Millwall FC (22),2-0,?,Northampton Town (11)
+?,(Sat) 21 Apr 1923 (16),Millwall FC (23),3-0,?,Norwich City (11)
+?,(Sat) 26 Aug 1922 (34),Millwall FC (24),0-0,?,Plymouth Argyle (11)
+?,(Mon) 1 Jan 1923 (1),Millwall FC (25),1-3,?,Portsmouth FC (11)
+?,(Sat) 27 Jan 1923 (4),Millwall FC (26),0-0,?,Queens Park Rangers (11)
+?,(Sat) 10 Feb 1923 (6),Millwall FC (27),0-0,?,Reading FC (11)
+?,(Sat) 17 Feb 1923 (7),Millwall FC (28),1-1,?,Southend United (11)
+?,(Sat) 23 Dec 1922 (51),Millwall FC (29),0-2,?,Swansea City (11)
+?,(Sat) 9 Sep 1922 (36),Millwall FC (30),1-1,?,Swindon Town (11)
+?,(Mon) 4 Sep 1922 (36),Millwall FC (31),5-1,?,Watford FC (11)
+?,(Sat) 20 Jan 1923 (3),Newport County AFC (12),0-0,?,Aberdare Athletic (32)
+?,(Sat) 24 Mar 1923 (12),Newport County AFC (13),0-1,?,Brentford FC (32)
+?,(Sat) 16 Dec 1922 (50),Newport County AFC (14),1-0,?,Brighton & Hove Albion (32)
+?,(Sat) 16 Sep 1922 (37),Newport County AFC (15),0-1,?,Bristol City FC (32)
+?,(Thu) 7 Sep 1922 (36),Newport County AFC (16),4-1,?,Bristol Rovers (32)
+?,(Sat) 21 Apr 1923 (16),Newport County AFC (17),4-0,?,Charlton Athletic (32)
+?,(Sat) 3 Feb 1923 (5),Newport County AFC (18),6-2,?,Exeter City (32)
+?,(Sat) 9 Dec 1922 (49),Newport County AFC (19),2-1,?,Gillingham FC (32)
+?,(Sat) 4 Nov 1922 (44),Newport County AFC (20),0-3,?,Luton Town (32)
+?,(Sat) 21 Oct 1922 (42),Newport County AFC (21),1-1,?,Merthyr Town (32)
+?,(Sat) 14 Oct 1922 (41),Newport County AFC (22),0-0,?,Millwall FC (32)
+?,(Sat) 24 Feb 1923 (8),Newport County AFC (23),1-1,?,Northampton Town (12)
+?,(Sat) 10 Mar 1923 (10),Newport County AFC (24),1-3,?,Norwich City (12)
+?,(Sat) 5 May 1923 (18),Newport County AFC (25),1-0,?,Plymouth Argyle (12)
+?,(Sat) 30 Sep 1922 (39),Newport County AFC (26),0-0,?,Portsmouth FC (12)
+?,(Sat) 18 Nov 1922 (46),Newport County AFC (27),1-0,?,Queens Park Rangers (12)
+?,(Mon) 2 Apr 1923 (14),Newport County AFC (28),3-0,?,Reading FC (12)
+?,(Sat) 26 Aug 1922 (34),Newport County AFC (29),0-2,?,Southend United (12)
+?,(Wed) 27 Dec 1922 (52),Newport County AFC (30),1-2,?,Swansea City (12)
+?,(Sat) 6 Jan 1923 (1),Newport County AFC (31),2-2,?,Swindon Town (12)
+?,(Sat) 7 Apr 1923 (14),Newport County AFC (32),0-1,?,Watford FC (12)
+?,(Sat) 28 Oct 1922 (43),Northampton Town (13),3-1,?,Aberdare Athletic (33)
+?,(Sat) 23 Sep 1922 (38),Northampton Town (14),1-1,?,Brentford FC (33)
+?,(Sat) 30 Dec 1922 (52),Northampton Town (15),0-0,?,Brighton & Hove Albion (33)
+?,(Sat) 10 Mar 1923 (10),Northampton Town (16),2-1,?,Bristol City FC (33)
+?,(Sat) 27 Jan 1923 (4),Northampton Town (17),1-0,?,Bristol Rovers (33)
+?,(Tue) 3 Apr 1923 (14),Northampton Town (18),0-0,?,Charlton Athletic (33)
+?,(Sat) 25 Nov 1922 (47),Northampton Town (19),3-0,?,Exeter City (33)
+?,(Mon) 28 Aug 1922 (35),Northampton Town (20),1-0,?,Gillingham FC (33)
+?,(Sat) 14 Apr 1923 (15),Northampton Town (21),2-0,?,Luton Town (33)
+?,(Sat) 9 Dec 1922 (49),Northampton Town (22),1-1,?,Merthyr Town (33)
+?,(Sat) 31 Mar 1923 (13),Northampton Town (23),2-1,?,Millwall FC (33)
+?,(Sat) 17 Feb 1923 (7),Northampton Town (24),2-1,?,Newport County AFC (33)
+?,(Sat) 14 Oct 1922 (41),Northampton Town (25),1-1,?,Norwich City (13)
+?,(Tue) 26 Dec 1922 (52),Northampton Town (26),1-0,?,Plymouth Argyle (13)
+?,(Sat) 17 Mar 1923 (11),Northampton Town (27),3-0,?,Portsmouth FC (13)
+?,(Sat) 28 Apr 1923 (17),Northampton Town (28),4-2,?,Queens Park Rangers (13)
+?,(Sat) 23 Dec 1922 (51),Northampton Town (29),5-0,?,Reading FC (13)
+?,(Sat) 11 Nov 1922 (45),Northampton Town (30),5-2,?,Southend United (13)
+?,(Sat) 10 Feb 1923 (6),Northampton Town (31),1-3,?,Swansea City (13)
+?,(Sat) 2 Sep 1922 (35),Northampton Town (32),1-2,?,Swindon Town (13)
+?,(Sat) 9 Sep 1922 (36),Northampton Town (33),1-1,?,Watford FC (13)
+?,(Sat) 10 Feb 1923 (6),Norwich City (14),1-4,?,Aberdare Athletic (34)
+?,(Sat) 9 Sep 1922 (36),Norwich City (15),0-2,?,Brentford FC (34)
+?,(Sat) 2 Sep 1922 (35),Norwich City (16),1-0,?,Brighton & Hove Albion (34)
+?,(Sat) 17 Mar 1923 (11),Norwich City (17),2-2,?,Bristol City FC (34)
+?,(Sat) 6 Jan 1923 (1),Norwich City (18),0-0,?,Bristol Rovers (34)
+?,(Tue) 26 Dec 1922 (52),Norwich City (19),2-3,?,Charlton Athletic (34)
+?,(Sat) 11 Nov 1922 (45),Norwich City (20),6-0,?,Exeter City (34)
+?,(Sat) 23 Dec 1922 (51),Norwich City (21),1-1,?,Gillingham FC (34)
+?,(Sat) 28 Apr 1923 (17),Norwich City (22),1-2,?,Luton Town (34)
+?,(Sat) 25 Nov 1922 (47),Norwich City (23),1-1,?,Merthyr Town (34)
+?,(Sat) 14 Apr 1923 (15),Norwich City (24),3-2,?,Millwall FC (34)
+?,(Sat) 3 Mar 1923 (9),Norwich City (25),1-1,?,Newport County AFC (34)
+?,(Sat) 7 Oct 1922 (40),Norwich City (26),1-0,?,Northampton Town (34)
+?,(Sat) 27 Jan 1923 (4),Norwich City (27),1-0,?,Plymouth Argyle (14)
+?,(Sat) 7 Apr 1923 (14),Norwich City (28),0-2,?,Portsmouth FC (14)
+?,(Mon) 28 Aug 1922 (35),Norwich City (29),1-1,?,Queens Park Rangers (14)
+?,(Wed) 27 Dec 1922 (52),Norwich City (30),2-0,?,Reading FC (14)
+?,(Sat) 23 Sep 1922 (38),Norwich City (31),2-1,?,Southend United (14)
+?,(Sat) 24 Feb 1923 (8),Norwich City (32),1-4,?,Swansea City (14)
+?,(Sat) 28 Oct 1922 (43),Norwich City (33),0-0,?,Swindon Town (14)
+?,(Mon) 2 Apr 1923 (14),Norwich City (34),2-0,?,Watford FC (14)
+?,(Sat) 31 Mar 1923 (13),Plymouth Argyle (15),2-0,?,Aberdare Athletic (35)
+?,(Wed) 2 May 1923 (18),Plymouth Argyle (16),3-0,?,Brentford FC (35)
+?,(Sat) 10 Mar 1923 (10),Plymouth Argyle (17),2-2,?,Brighton & Hove Albion (35)
+?,(Mon) 28 Aug 1922 (35),Plymouth Argyle (18),5-1,?,Bristol City FC (35)
+?,(Sat) 4 Nov 1922 (44),Plymouth Argyle (19),3-0,?,Bristol Rovers (35)
+?,(Sat) 9 Dec 1922 (49),Plymouth Argyle (20),2-0,?,Charlton Athletic (35)
+?,(Fri) 30 Mar 1923 (13),Plymouth Argyle (21),5-1,?,Exeter City (35)
+?,(Wed) 18 Apr 1923 (16),Plymouth Argyle (22),2-0,?,Gillingham FC (35)
+?,(Sat) 28 Oct 1922 (43),Plymouth Argyle (23),4-0,?,Luton Town (35)
+?,(Sat) 9 Sep 1922 (36),Plymouth Argyle (24),2-0,?,Merthyr Town (35)
+?,(Sat) 2 Sep 1922 (35),Plymouth Argyle (25),1-0,?,Millwall FC (35)
+?,(Sat) 28 Apr 1923 (17),Plymouth Argyle (26),1-0,?,Newport County AFC (35)
+?,(Mon) 25 Dec 1922 (52),Plymouth Argyle (27),1-0,?,Northampton Town (35)
+?,(Sat) 20 Jan 1923 (3),Plymouth Argyle (28),1-1,?,Norwich City (35)
+?,(Sat) 14 Oct 1922 (41),Plymouth Argyle (29),2-0,?,Portsmouth FC (15)
+?,(Sat) 10 Feb 1923 (6),Plymouth Argyle (30),2-0,?,Queens Park Rangers (15)
+?,(Sat) 30 Sep 1922 (39),Plymouth Argyle (31),3-0,?,Reading FC (15)
+?,(Sat) 25 Nov 1922 (47),Plymouth Argyle (32),1-1,?,Southend United (15)
+?,(Sat) 14 Apr 1923 (15),Plymouth Argyle (33),2-0,?,Swansea City (15)
+?,(Sat) 17 Mar 1923 (11),Plymouth Argyle (34),2-0,?,Swindon Town (15)
+?,(Sat) 23 Dec 1922 (51),Plymouth Argyle (35),1-0,?,Watford FC (15)
+?,(Sat) 16 Sep 1922 (37),Portsmouth FC (16),1-0,?,Aberdare Athletic (36)
+?,(Sat) 21 Apr 1923 (16),Portsmouth FC (17),3-0,?,Brentford FC (36)
+?,(Tue) 26 Dec 1922 (52),Portsmouth FC (18),1-2,?,Brighton & Hove Albion (36)
+?,(Sat) 11 Nov 1922 (45),Portsmouth FC (19),1-2,?,Bristol City FC (36)
+?,(Sat) 26 Aug 1922 (34),Portsmouth FC (20),0-0,?,Bristol Rovers (36)
+?,(Wed) 6 Sep 1922 (36),Portsmouth FC (21),3-0,?,Charlton Athletic (36)
+?,(Sat) 3 Mar 1923 (9),Portsmouth FC (22),3-4,?,Exeter City (36)
+?,(Sat) 27 Jan 1923 (4),Portsmouth FC (23),6-1,?,Gillingham FC (36)
+?,(Sat) 16 Dec 1922 (50),Portsmouth FC (24),1-2,?,Luton Town (36)
+?,(Sat) 17 Feb 1923 (7),Portsmouth FC (25),1-1,?,Merthyr Town (36)
+?,(Sat) 2 Dec 1922 (48),Portsmouth FC (26),2-0,?,Millwall FC (36)
+?,(Sat) 23 Sep 1922 (38),Portsmouth FC (27),2-0,?,Newport County AFC (36)
+?,(Sat) 24 Mar 1923 (12),Portsmouth FC (28),0-0,?,Northampton Town (36)
+?,(Sat) 31 Mar 1923 (13),Portsmouth FC (29),2-1,?,Norwich City (36)
+?,(Sat) 7 Oct 1922 (40),Portsmouth FC (30),1-2,?,Plymouth Argyle (36)
+?,(Sat) 6 Jan 1923 (1),Portsmouth FC (31),1-1,?,Queens Park Rangers (16)
+?,(Sat) 21 Oct 1922 (42),Portsmouth FC (32),1-0,?,Reading FC (16)
+?,(Sat) 3 Feb 1923 (5),Portsmouth FC (33),0-0,?,Southend United (16)
+?,(Sat) 18 Nov 1922 (46),Portsmouth FC (34),0-3,?,Swansea City (16)
+?,(Fri) 30 Mar 1923 (13),Portsmouth FC (35),4-1,?,Swindon Town (16)
+?,(Sat) 5 May 1923 (18),Portsmouth FC (36),1-0,?,Watford FC (16)
+?,(Sat) 11 Nov 1922 (45),Queens Park Rangers (17),4-1,?,Aberdare Athletic (37)
+?,(Sat) 9 Dec 1922 (49),Queens Park Rangers (18),1-1,?,Brentford FC (37)
+?,(Sat) 23 Sep 1922 (38),Queens Park Rangers (19),0-0,?,Brighton & Hove Albion (37)
+?,(Sat) 16 Dec 1922 (50),Queens Park Rangers (20),1-2,?,Bristol City FC (37)
+?,(Sat) 17 Feb 1923 (7),Queens Park Rangers (21),3-1,?,Bristol Rovers (37)
+?,(Sat) 21 Oct 1922 (42),Queens Park Rangers (22),1-2,?,Charlton Athletic (37)
+?,(Sat) 21 Apr 1923 (16),Queens Park Rangers (23),2-0,?,Exeter City (37)
+?,(Sat) 9 Sep 1922 (36),Queens Park Rangers (24),2-1,?,Gillingham FC (37)
+?,(Mon) 25 Dec 1922 (52),Queens Park Rangers (25),4-0,?,Luton Town (37)
+?,(Sat) 7 Apr 1923 (14),Queens Park Rangers (26),1-1,?,Merthyr Town (37)
+?,(Sat) 20 Jan 1923 (3),Queens Park Rangers (27),2-3,?,Millwall FC (37)
+?,(Sat) 25 Nov 1922 (47),Queens Park Rangers (28),1-1,?,Newport County AFC (37)
+?,(Sat) 5 May 1923 (18),Queens Park Rangers (29),3-2,?,Northampton Town (37)
+?,(Mon) 4 Sep 1922 (36),Queens Park Rangers (30),2-0,?,Norwich City (37)
+?,(Thu) 15 Mar 1923 (11),Queens Park Rangers (31),2-3,?,Plymouth Argyle (37)
+?,(Sat) 30 Dec 1922 (52),Queens Park Rangers (32),0-1,?,Portsmouth FC (37)
+?,(Sat) 3 Mar 1923 (9),Queens Park Rangers (33),1-0,?,Reading FC (17)
+?,(Sat) 24 Mar 1923 (12),Queens Park Rangers (34),1-0,?,Southend United (17)
+?,(Fri) 30 Mar 1923 (13),Queens Park Rangers (35),2-1,?,Swansea City (17)
+?,(Sat) 7 Oct 1922 (40),Queens Park Rangers (36),0-2,?,Swindon Town (17)
+?,(Sat) 26 Aug 1922 (34),Queens Park Rangers (37),1-2,?,Watford FC (17)
+?,(Sat) 28 Apr 1923 (17),Reading FC (18),1-0,?,Aberdare Athletic (38)
+?,(Sat) 25 Nov 1922 (47),Reading FC (19),1-0,?,Brentford FC (38)
+?,(Sat) 31 Mar 1923 (13),Reading FC (20),0-0,?,Brighton & Hove Albion (38)
+?,(Sat) 2 Sep 1922 (35),Reading FC (21),0-0,?,Bristol City FC (38)
+?,(Sat) 9 Sep 1922 (36),Reading FC (22),0-1,?,Bristol Rovers (38)
+?,(Sat) 7 Oct 1922 (40),Reading FC (23),2-1,?,Charlton Athletic (38)
+?,(Sat) 30 Dec 1922 (52),Reading FC (24),1-3,?,Exeter City (38)
+?,(Sat) 17 Mar 1923 (11),Reading FC (25),1-1,?,Gillingham FC (38)
+?,(Sat) 24 Feb 1923 (8),Reading FC (26),3-0,?,Luton Town (38)
+?,(Sat) 27 Jan 1923 (4),Reading FC (27),1-0,?,Merthyr Town (38)
+?,(Wed) 14 Feb 1923 (7),Reading FC (28),1-2,?,Millwall FC (38)
+?,(Fri) 30 Mar 1923 (13),Reading FC (29),2-0,?,Newport County AFC (38)
+?,(Sat) 16 Dec 1922 (50),Reading FC (30),0-0,?,Northampton Town (38)
+?,(Sat) 9 Dec 1922 (49),Reading FC (31),4-1,?,Norwich City (38)
+?,(Sat) 23 Sep 1922 (38),Reading FC (32),0-1,?,Plymouth Argyle (38)
+?,(Sat) 28 Oct 1922 (43),Reading FC (33),0-0,?,Portsmouth FC (38)
+?,(Wed) 21 Mar 1923 (12),Reading FC (34),0-0,?,Queens Park Rangers (38)
+?,(Tue) 26 Dec 1922 (52),Reading FC (35),1-1,?,Southend United (18)
+?,(Wed) 30 Aug 1922 (35),Reading FC (36),4-4,?,Swansea City (18)
+?,(Sat) 14 Apr 1923 (15),Reading FC (37),1-0,?,Swindon Town (18)
+?,(Sat) 11 Nov 1922 (45),Reading FC (38),1-0,?,Watford FC (18)
+?,(Mon) 25 Sep 1922 (39),Southend United (19),4-0,?,Aberdare Athletic (39)
+?,(Mon) 2 Apr 1923 (14),Southend United (20),1-2,?,Brentford FC (39)
+?,(Sat) 14 Apr 1923 (15),Southend United (21),0-0,?,Brighton & Hove Albion (39)
+?,(Sat) 28 Oct 1922 (43),Southend United (22),0-3,?,Bristol City FC (39)
+?,(Sat) 14 Oct 1922 (41),Southend United (23),0-0,?,Bristol Rovers (39)
+?,(Sat) 23 Dec 1922 (51),Southend United (24),0-0,?,Charlton Athletic (39)
+?,(Sat) 16 Dec 1922 (50),Southend United (25),5-0,?,Exeter City (39)
+?,(Sat) 31 Mar 1923 (13),Southend United (26),1-1,?,Gillingham FC (39)
+?,(Sat) 10 Mar 1923 (10),Southend United (27),1-3,?,Luton Town (39)
+?,(Sat) 6 Jan 1923 (1),Southend United (28),1-1,?,Merthyr Town (39)
+?,(Sat) 24 Feb 1923 (8),Southend United (29),4-0,?,Millwall FC (39)
+?,(Sat) 2 Sep 1922 (35),Southend United (30),3-1,?,Newport County AFC (39)
+?,(Sat) 4 Nov 1922 (44),Southend United (31),1-2,?,Northampton Town (39)
+?,(Sat) 30 Sep 1922 (39),Southend United (32),3-1,?,Norwich City (39)
+?,(Mon) 9 Apr 1923 (15),Southend United (33),2-1,?,Plymouth Argyle (39)
+?,(Sat) 10 Feb 1923 (6),Southend United (34),0-0,?,Portsmouth FC (39)
+?,(Sat) 17 Mar 1923 (11),Southend United (35),2-0,?,Queens Park Rangers (39)
+?,(Mon) 25 Dec 1922 (52),Southend United (36),3-1,?,Reading FC (39)
+?,(Sat) 16 Sep 1922 (37),Southend United (37),0-1,?,Swansea City (19)
+?,(Sat) 28 Apr 1923 (17),Southend United (38),2-0,?,Swindon Town (19)
+?,(Sat) 20 Jan 1923 (3),Southend United (39),2-1,?,Watford FC (19)
+?,(Sat) 30 Dec 1922 (52),Swansea City (20),5-1,?,Aberdare Athletic (40)
+?,(Sat) 3 Mar 1923 (9),Swansea City (21),0-0,?,Brentford FC (40)
+?,(Sat) 11 Nov 1922 (45),Swansea City (22),0-0,?,Brighton & Hove Albion (40)
+?,(Sat) 7 Oct 1922 (40),Swansea City (23),4-1,?,Bristol City FC (40)
+?,(Sat) 5 May 1923 (18),Swansea City (24),0-1,?,Bristol Rovers (40)
+?,(Sat) 7 Apr 1923 (14),Swansea City (25),3-2,?,Charlton Athletic (40)
+?,(Sat) 21 Oct 1922 (42),Swansea City (26),5-1,?,Exeter City (40)
+?,(Sat) 23 Sep 1922 (38),Swansea City (27),1-0,?,Gillingham FC (40)
+?,(Sat) 27 Jan 1923 (4),Swansea City (28),1-0,?,Luton Town (40)
+?,(Sat) 26 Aug 1922 (34),Swansea City (29),1-1,?,Merthyr Town (40)
+?,(Sat) 16 Dec 1922 (50),Swansea City (30),0-1,?,Millwall FC (40)
+?,(Tue) 26 Dec 1922 (52),Swansea City (31),5-1,?,Newport County AFC (40)
+?,(Sat) 3 Feb 1923 (5),Swansea City (32),4-0,?,Northampton Town (40)
+?,(Sat) 17 Feb 1923 (7),Swansea City (33),3-1,?,Norwich City (40)
+?,(Sat) 21 Apr 1923 (16),Swansea City (34),1-1,?,Plymouth Argyle (40)
+?,(Sat) 25 Nov 1922 (47),Swansea City (35),2-1,?,Portsmouth FC (40)
+?,(Mon) 2 Apr 1923 (14),Swansea City (36),3-0,?,Queens Park Rangers (40)
+?,(Mon) 4 Sep 1922 (36),Swansea City (37),2-2,?,Reading FC (40)
+?,(Sat) 9 Sep 1922 (36),Swansea City (38),1-0,?,Southend United (40)
+?,(Mon) 2 Oct 1922 (40),Swansea City (39),5-0,?,Swindon Town (20)
+?,(Sat) 24 Mar 1923 (12),Swansea City (40),0-0,?,Watford FC (20)
+?,(Sat) 23 Dec 1922 (51),Swindon Town (21),5-4,?,Aberdare Athletic (41)
+?,(Sat) 3 Feb 1923 (5),Swindon Town (22),3-0,?,Brentford FC (41)
+?,(Sat) 18 Nov 1922 (46),Swindon Town (23),3-0,?,Brighton & Hove Albion (41)
+?,(Wed) 27 Dec 1922 (52),Swindon Town (24),0-1,?,Bristol City FC (41)
+?,(Sat) 7 Apr 1923 (14),Swindon Town (25),1-0,?,Bristol Rovers (41)
+?,(Sat) 3 Mar 1923 (9),Swindon Town (26),2-1,?,Charlton Athletic (41)
+?,(Sat) 27 Jan 1923 (4),Swindon Town (27),2-1,?,Exeter City (41)
+?,(Sat) 11 Nov 1922 (45),Swindon Town (28),0-1,?,Gillingham FC (41)
+?,(Sat) 30 Sep 1922 (39),Swindon Town (29),1-1,?,Luton Town (41)
+?,(Mon) 4 Sep 1922 (36),Swindon Town (30),4-0,?,Merthyr Town (41)
+?,(Sat) 16 Sep 1922 (37),Swindon Town (31),0-0,?,Millwall FC (41)
+?,(Sat) 30 Dec 1922 (52),Swindon Town (32),2-2,?,Newport County AFC (41)
+?,(Sat) 26 Aug 1922 (34),Swindon Town (33),2-0,?,Northampton Town (41)
+?,(Sat) 21 Oct 1922 (42),Swindon Town (34),1-2,?,Norwich City (41)
+?,(Sat) 24 Mar 1923 (12),Swindon Town (35),2-1,?,Plymouth Argyle (41)
+?,(Mon) 2 Apr 1923 (14),Swindon Town (36),3-0,?,Portsmouth FC (41)
+?,(Sat) 14 Oct 1922 (41),Swindon Town (37),1-0,?,Queens Park Rangers (41)
+?,(Sat) 21 Apr 1923 (16),Swindon Town (38),3-1,?,Reading FC (41)
+?,(Sat) 5 May 1923 (18),Swindon Town (39),3-0,?,Southend United (41)
+?,(Sat) 9 Dec 1922 (49),Swindon Town (40),2-1,?,Swansea City (41)
+?,(Sat) 17 Feb 1923 (7),Swindon Town (41),1-1,?,Watford FC (21)
+?,(Sat) 10 Mar 1923 (10),Watford FC (22),6-0,?,Aberdare Athletic (42)
+?,(Mon) 25 Dec 1922 (52),Watford FC (23),2-0,?,Brentford FC (42)
+?,(Sat) 10 Feb 1923 (6),Watford FC (24),1-2,?,Brighton & Hove Albion (42)
+?,(Sat) 14 Apr 1923 (15),Watford FC (25),1-1,?,Bristol City FC (42)
+?,(Sat) 9 Dec 1922 (49),Watford FC (26),0-1,?,Bristol Rovers (42)
+?,(Sat) 6 Jan 1923 (1),Watford FC (27),2-2,?,Charlton Athletic (42)
+?,(Sat) 30 Sep 1922 (39),Watford FC (28),4-0,?,Exeter City (42)
+?,(Sat) 28 Oct 1922 (43),Watford FC (29),5-2,?,Gillingham FC (42)
+?,(Sat) 18 Nov 1922 (46),Watford FC (30),2-1,?,Luton Town (42)
+?,(Sat) 14 Oct 1922 (41),Watford FC (31),1-1,?,Merthyr Town (42)
+?,(Wed) 30 Aug 1922 (35),Watford FC (32),0-0,?,Millwall FC (42)
+?,(Sat) 31 Mar 1923 (13),Watford FC (33),2-1,?,Newport County AFC (42)
+?,(Sat) 16 Sep 1922 (37),Watford FC (34),0-0,?,Northampton Town (42)
+?,(Fri) 30 Mar 1923 (13),Watford FC (35),2-1,?,Norwich City (42)
+?,(Sat) 16 Dec 1922 (50),Watford FC (36),1-0,?,Plymouth Argyle (42)
+?,(Sat) 28 Apr 1923 (17),Watford FC (37),2-3,?,Portsmouth FC (42)
+?,(Sat) 2 Sep 1922 (35),Watford FC (38),0-3,?,Queens Park Rangers (42)
+?,(Sat) 4 Nov 1922 (44),Watford FC (39),1-0,?,Reading FC (42)
+?,(Sat) 27 Jan 1923 (4),Watford FC (40),1-1,?,Southend United (42)
+?,(Sat) 17 Mar 1923 (11),Watford FC (41),2-1,?,Swansea City (42)
+?,(Sat) 24 Feb 1923 (8),Watford FC (42),0-3,?,Swindon Town (42)

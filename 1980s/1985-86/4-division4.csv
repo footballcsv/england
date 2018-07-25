@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Burnley,Aldershot,1-2,-
--,-,Cambridge United,Aldershot,0-2,-
--,-,Chester,Aldershot,1-0,-
--,-,Colchester United,Aldershot,4-0,-
--,-,Crewe Alexandra,Aldershot,2-0,-
--,-,Exeter City,Aldershot,2-0,-
--,-,Halifax Town,Aldershot,1-1,-
--,-,Hartlepool United,Aldershot,2-1,-
--,-,Hereford United,Aldershot,4-1,-
--,-,Leyton Orient,Aldershot,1-1,-
--,-,Mansfield Town,Aldershot,2-0,-
--,-,Northampton Town,Aldershot,2-3,-
--,-,Peterborough United,Aldershot,3-0,-
--,-,Port Vale,Aldershot,3-1,-
--,-,Preston North End,Aldershot,1-3,-
--,-,Rochdale,Aldershot,2-0,-
--,-,Scunthorpe United,Aldershot,1-0,-
--,-,Southend United,Aldershot,2-0,-
--,-,Stockport County,Aldershot,3-2,-
--,-,Swindon Town,Aldershot,4-1,-
--,-,Torquay United,Aldershot,1-2,-
--,-,Tranmere Rovers,Aldershot,3-0,-
--,-,Wrexham,Aldershot,4-1,-
--,-,Aldershot,Burnley,0-2,-
--,-,Cambridge United,Burnley,0-4,-
--,-,Chester,Burnley,4-0,-
--,-,Colchester United,Burnley,2-2,-
--,-,Crewe Alexandra,Burnley,3-1,-
--,-,Exeter City,Burnley,0-2,-
--,-,Halifax Town,Burnley,2-2,-
--,-,Hartlepool United,Burnley,3-1,-
--,-,Hereford United,Burnley,2-2,-
--,-,Leyton Orient,Burnley,3-0,-
--,-,Mansfield Town,Burnley,0-0,-
--,-,Northampton Town,Burnley,2-0,-
--,-,Peterborough United,Burnley,0-0,-
--,-,Port Vale,Burnley,1-1,-
--,-,Preston North End,Burnley,1-0,-
--,-,Rochdale,Burnley,1-0,-
--,-,Scunthorpe United,Burnley,1-1,-
--,-,Southend United,Burnley,2-3,-
--,-,Stockport County,Burnley,1-1,-
--,-,Swindon Town,Burnley,3-1,-
--,-,Torquay United,Burnley,2-0,-
--,-,Tranmere Rovers,Burnley,2-1,-
--,-,Wrexham,Burnley,0-1,-
--,-,Aldershot,Cambridge United,2-1,-
--,-,Burnley,Cambridge United,1-1,-
--,-,Chester,Cambridge United,1-1,-
--,-,Colchester United,Cambridge United,4-1,-
--,-,Crewe Alexandra,Cambridge United,0-1,-
--,-,Exeter City,Cambridge United,0-0,-
--,-,Halifax Town,Cambridge United,1-1,-
--,-,Hartlepool United,Cambridge United,2-1,-
--,-,Hereford United,Cambridge United,1-0,-
--,-,Leyton Orient,Cambridge United,3-1,-
--,-,Mansfield Town,Cambridge United,2-0,-
--,-,Northampton Town,Cambridge United,0-2,-
--,-,Peterborough United,Cambridge United,0-0,-
--,-,Port Vale,Cambridge United,4-1,-
--,-,Preston North End,Cambridge United,1-2,-
--,-,Rochdale,Cambridge United,2-1,-
--,-,Scunthorpe United,Cambridge United,0-0,-
--,-,Southend United,Cambridge United,1-0,-
--,-,Stockport County,Cambridge United,3-1,-
--,-,Swindon Town,Cambridge United,1-0,-
--,-,Torquay United,Cambridge United,1-1,-
--,-,Tranmere Rovers,Cambridge United,6-2,-
--,-,Wrexham,Cambridge United,6-2,-
--,-,Aldershot,Chester,1-1,-
--,-,Burnley,Chester,1-0,-
--,-,Cambridge United,Chester,3-2,-
--,-,Colchester United,Chester,2-3,-
--,-,Crewe Alexandra,Chester,2-2,-
--,-,Exeter City,Chester,1-3,-
--,-,Halifax Town,Chester,1-2,-
--,-,Hartlepool United,Chester,1-1,-
--,-,Hereford United,Chester,0-2,-
--,-,Leyton Orient,Chester,0-0,-
--,-,Mansfield Town,Chester,0-0,-
--,-,Northampton Town,Chester,2-2,-
--,-,Peterborough United,Chester,3-0,-
--,-,Port Vale,Chester,1-1,-
--,-,Preston North End,Chester,3-6,-
--,-,Rochdale,Chester,1-2,-
--,-,Scunthorpe United,Chester,2-0,-
--,-,Southend United,Chester,1-1,-
--,-,Stockport County,Chester,2-2,-
--,-,Swindon Town,Chester,4-2,-
--,-,Torquay United,Chester,0-3,-
--,-,Tranmere Rovers,Chester,2-3,-
--,-,Wrexham,Chester,1-1,-
--,-,Aldershot,Colchester United,1-1,-
--,-,Burnley,Colchester United,0-2,-
--,-,Cambridge United,Colchester United,1-3,-
--,-,Chester,Colchester United,4-0,-
--,-,Crewe Alexandra,Colchester United,0-2,-
--,-,Exeter City,Colchester United,2-2,-
--,-,Halifax Town,Colchester United,2-2,-
--,-,Hartlepool United,Colchester United,4-1,-
--,-,Hereford United,Colchester United,2-0,-
--,-,Leyton Orient,Colchester United,1-2,-
--,-,Mansfield Town,Colchester United,2-1,-
--,-,Northampton Town,Colchester United,1-0,-
--,-,Peterborough United,Colchester United,1-2,-
--,-,Port Vale,Colchester United,1-1,-
--,-,Preston North End,Colchester United,3-2,-
--,-,Rochdale,Colchester United,3-3,-
--,-,Scunthorpe United,Colchester United,1-1,-
--,-,Southend United,Colchester United,2-4,-
--,-,Stockport County,Colchester United,1-1,-
--,-,Swindon Town,Colchester United,2-1,-
--,-,Torquay United,Colchester United,2-1,-
--,-,Tranmere Rovers,Colchester United,3-4,-
--,-,Wrexham,Colchester United,2-1,-
--,-,Aldershot,Crewe Alexandra,3-2,-
--,-,Burnley,Crewe Alexandra,0-1,-
--,-,Cambridge United,Crewe Alexandra,1-0,-
--,-,Chester,Crewe Alexandra,4-0,-
--,-,Colchester United,Crewe Alexandra,1-2,-
--,-,Exeter City,Crewe Alexandra,1-2,-
--,-,Halifax Town,Crewe Alexandra,1-0,-
--,-,Hartlepool United,Crewe Alexandra,4-1,-
--,-,Hereford United,Crewe Alexandra,4-1,-
--,-,Leyton Orient,Crewe Alexandra,0-1,-
--,-,Mansfield Town,Crewe Alexandra,2-2,-
--,-,Northampton Town,Crewe Alexandra,0-1,-
--,-,Peterborough United,Crewe Alexandra,0-0,-
--,-,Port Vale,Crewe Alexandra,3-0,-
--,-,Preston North End,Crewe Alexandra,1-2,-
--,-,Rochdale,Crewe Alexandra,1-0,-
--,-,Scunthorpe United,Crewe Alexandra,3-1,-
--,-,Southend United,Crewe Alexandra,0-1,-
--,-,Stockport County,Crewe Alexandra,3-0,-
--,-,Swindon Town,Crewe Alexandra,1-0,-
--,-,Torquay United,Crewe Alexandra,0-0,-
--,-,Tranmere Rovers,Crewe Alexandra,0-1,-
--,-,Wrexham,Crewe Alexandra,2-1,-
--,-,Aldershot,Exeter City,4-0,-
--,-,Burnley,Exeter City,3-1,-
--,-,Cambridge United,Exeter City,1-1,-
--,-,Chester,Exeter City,2-1,-
--,-,Colchester United,Exeter City,1-1,-
--,-,Crewe Alexandra,Exeter City,0-1,-
--,-,Halifax Town,Exeter City,1-0,-
--,-,Hartlepool United,Exeter City,0-0,-
--,-,Hereford United,Exeter City,4-1,-
--,-,Leyton Orient,Exeter City,2-2,-
--,-,Mansfield Town,Exeter City,2-1,-
--,-,Northampton Town,Exeter City,2-2,-
--,-,Peterborough United,Exeter City,1-1,-
--,-,Port Vale,Exeter City,0-0,-
--,-,Preston North End,Exeter City,2-2,-
--,-,Rochdale,Exeter City,1-1,-
--,-,Scunthorpe United,Exeter City,1-0,-
--,-,Southend United,Exeter City,2-0,-
--,-,Stockport County,Exeter City,1-1,-
--,-,Swindon Town,Exeter City,2-1,-
--,-,Torquay United,Exeter City,1-2,-
--,-,Tranmere Rovers,Exeter City,0-1,-
--,-,Wrexham,Exeter City,1-1,-
--,-,Aldershot,Halifax Town,1-2,-
--,-,Burnley,Halifax Town,1-3,-
--,-,Cambridge United,Halifax Town,4-0,-
--,-,Chester,Halifax Town,1-1,-
--,-,Colchester United,Halifax Town,3-1,-
--,-,Crewe Alexandra,Halifax Town,2-2,-
--,-,Exeter City,Halifax Town,1-0,-
--,-,Hartlepool United,Halifax Town,3-0,-
--,-,Hereford United,Halifax Town,2-1,-
--,-,Leyton Orient,Halifax Town,1-0,-
--,-,Mansfield Town,Halifax Town,2-0,-
--,-,Northampton Town,Halifax Town,4-0,-
--,-,Peterborough United,Halifax Town,1-1,-
--,-,Port Vale,Halifax Town,3-2,-
--,-,Preston North End,Halifax Town,0-1,-
--,-,Rochdale,Halifax Town,1-0,-
--,-,Scunthorpe United,Halifax Town,3-3,-
--,-,Southend United,Halifax Town,2-1,-
--,-,Stockport County,Halifax Town,2-1,-
--,-,Swindon Town,Halifax Town,3-2,-
--,-,Torquay United,Halifax Town,2-0,-
--,-,Tranmere Rovers,Halifax Town,0-3,-
--,-,Wrexham,Halifax Town,2-1,-
--,-,Aldershot,Hartlepool United,0-1,-
--,-,Burnley,Hartlepool United,2-0,-
--,-,Cambridge United,Hartlepool United,4-2,-
--,-,Chester,Hartlepool United,1-1,-
--,-,Colchester United,Hartlepool United,3-1,-
--,-,Crewe Alexandra,Hartlepool United,0-0,-
--,-,Exeter City,Hartlepool United,1-2,-
--,-,Halifax Town,Hartlepool United,3-2,-
--,-,Hereford United,Hartlepool United,2-2,-
--,-,Leyton Orient,Hartlepool United,1-1,-
--,-,Mansfield Town,Hartlepool United,4-0,-
--,-,Northampton Town,Hartlepool United,3-0,-
--,-,Peterborough United,Hartlepool United,3-1,-
--,-,Port Vale,Hartlepool United,4-0,-
--,-,Preston North End,Hartlepool United,2-1,-
--,-,Rochdale,Hartlepool United,0-2,-
--,-,Scunthorpe United,Hartlepool United,1-0,-
--,-,Southend United,Hartlepool United,3-2,-
--,-,Stockport County,Hartlepool United,1-3,-
--,-,Swindon Town,Hartlepool United,3-1,-
--,-,Torquay United,Hartlepool United,1-3,-
--,-,Tranmere Rovers,Hartlepool United,4-2,-
--,-,Wrexham,Hartlepool United,1-0,-
--,-,Aldershot,Hereford United,2-0,-
--,-,Burnley,Hereford United,3-2,-
--,-,Cambridge United,Hereford United,4-0,-
--,-,Chester,Hereford United,1-0,-
--,-,Colchester United,Hereford United,4-1,-
--,-,Crewe Alexandra,Hereford United,2-0,-
--,-,Exeter City,Hereford United,3-2,-
--,-,Halifax Town,Hereford United,1-0,-
--,-,Hartlepool United,Hereford United,2-1,-
--,-,Leyton Orient,Hereford United,2-2,-
--,-,Mansfield Town,Hereford United,4-0,-
--,-,Northampton Town,Hereford United,1-3,-
--,-,Peterborough United,Hereford United,0-0,-
--,-,Port Vale,Hereford United,1-0,-
--,-,Preston North End,Hereford United,2-0,-
--,-,Rochdale,Hereford United,1-1,-
--,-,Scunthorpe United,Hereford United,2-1,-
--,-,Southend United,Hereford United,3-1,-
--,-,Stockport County,Hereford United,1-1,-
--,-,Swindon Town,Hereford United,1-0,-
--,-,Torquay United,Hereford United,2-1,-
--,-,Tranmere Rovers,Hereford United,1-2,-
--,-,Wrexham,Hereford United,0-1,-
--,-,Aldershot,Leyton Orient,1-1,-
--,-,Burnley,Leyton Orient,1-0,-
--,-,Cambridge United,Leyton Orient,1-2,-
--,-,Chester,Leyton Orient,3-0,-
--,-,Colchester United,Leyton Orient,4-0,-
--,-,Crewe Alexandra,Leyton Orient,1-3,-
--,-,Exeter City,Leyton Orient,1-1,-
--,-,Halifax Town,Leyton Orient,2-1,-
--,-,Hartlepool United,Leyton Orient,1-2,-
--,-,Hereford United,Leyton Orient,3-2,-
--,-,Mansfield Town,Leyton Orient,1-1,-
--,-,Northampton Town,Leyton Orient,2-3,-
--,-,Peterborough United,Leyton Orient,2-2,-
--,-,Port Vale,Leyton Orient,2-0,-
--,-,Preston North End,Leyton Orient,1-3,-
--,-,Rochdale,Leyton Orient,1-4,-
--,-,Scunthorpe United,Leyton Orient,2-2,-
--,-,Southend United,Leyton Orient,5-1,-
--,-,Stockport County,Leyton Orient,2-3,-
--,-,Swindon Town,Leyton Orient,4-1,-
--,-,Torquay United,Leyton Orient,2-2,-
--,-,Tranmere Rovers,Leyton Orient,0-3,-
--,-,Wrexham,Leyton Orient,1-3,-
--,-,Aldershot,Mansfield Town,1-2,-
--,-,Burnley,Mansfield Town,2-1,-
--,-,Cambridge United,Mansfield Town,4-2,-
--,-,Chester,Mansfield Town,1-0,-
--,-,Colchester United,Mansfield Town,0-0,-
--,-,Crewe Alexandra,Mansfield Town,2-1,-
--,-,Exeter City,Mansfield Town,0-1,-
--,-,Halifax Town,Mansfield Town,1-2,-
--,-,Hartlepool United,Mansfield Town,1-1,-
--,-,Hereford United,Mansfield Town,4-2,-
--,-,Leyton Orient,Mansfield Town,0-1,-
--,-,Northampton Town,Mansfield Town,1-0,-
--,-,Peterborough United,Mansfield Town,4-2,-
--,-,Port Vale,Mansfield Town,0-0,-
--,-,Preston North End,Mansfield Town,0-2,-
--,-,Rochdale,Mansfield Town,1-1,-
--,-,Scunthorpe United,Mansfield Town,0-3,-
--,-,Southend United,Mansfield Town,3-1,-
--,-,Stockport County,Mansfield Town,0-2,-
--,-,Swindon Town,Mansfield Town,2-1,-
--,-,Torquay United,Mansfield Town,1-2,-
--,-,Tranmere Rovers,Mansfield Town,1-2,-
--,-,Wrexham,Mansfield Town,1-2,-
--,-,Aldershot,Northampton Town,1-0,-
--,-,Burnley,Northampton Town,3-2,-
--,-,Cambridge United,Northampton Town,2-5,-
--,-,Chester,Northampton Town,2-3,-
--,-,Colchester United,Northampton Town,0-2,-
--,-,Crewe Alexandra,Northampton Town,0-1,-
--,-,Exeter City,Northampton Town,1-2,-
--,-,Halifax Town,Northampton Town,2-0,-
--,-,Hartlepool United,Northampton Town,2-1,-
--,-,Hereford United,Northampton Town,3-0,-
--,-,Leyton Orient,Northampton Town,0-1,-
--,-,Mansfield Town,Northampton Town,1-0,-
--,-,Peterborough United,Northampton Town,0-5,-
--,-,Port Vale,Northampton Town,0-0,-
--,-,Preston North End,Northampton Town,1-1,-
--,-,Rochdale,Northampton Town,3-2,-
--,-,Scunthorpe United,Northampton Town,1-0,-
--,-,Southend United,Northampton Town,0-4,-
--,-,Stockport County,Northampton Town,1-0,-
--,-,Swindon Town,Northampton Town,3-2,-
--,-,Torquay United,Northampton Town,1-1,-
--,-,Tranmere Rovers,Northampton Town,1-3,-
--,-,Wrexham,Northampton Town,1-0,-
--,-,Aldershot,Peterborough United,1-0,-
--,-,Burnley,Peterborough United,1-1,-
--,-,Cambridge United,Peterborough United,3-1,-
--,-,Chester,Peterborough United,2-1,-
--,-,Colchester United,Peterborough United,5-0,-
--,-,Crewe Alexandra,Peterborough United,1-1,-
--,-,Exeter City,Peterborough United,1-0,-
--,-,Halifax Town,Peterborough United,1-1,-
--,-,Hartlepool United,Peterborough United,2-1,-
--,-,Hereford United,Peterborough United,2-1,-
--,-,Leyton Orient,Peterborough United,2-2,-
--,-,Mansfield Town,Peterborough United,0-1,-
--,-,Northampton Town,Peterborough United,2-2,-
--,-,Port Vale,Peterborough United,2-0,-
--,-,Preston North End,Peterborough United,2-4,-
--,-,Rochdale,Peterborough United,2-1,-
--,-,Scunthorpe United,Peterborough United,2-0,-
--,-,Southend United,Peterborough United,0-1,-
--,-,Stockport County,Peterborough United,2-2,-
--,-,Swindon Town,Peterborough United,3-0,-
--,-,Torquay United,Peterborough United,2-0,-
--,-,Tranmere Rovers,Peterborough United,7-0,-
--,-,Wrexham,Peterborough United,0-1,-
--,-,Aldershot,Port Vale,0-0,-
--,-,Burnley,Port Vale,1-2,-
--,-,Cambridge United,Port Vale,1-3,-
--,-,Chester,Port Vale,4-1,-
--,-,Colchester United,Port Vale,1-0,-
--,-,Crewe Alexandra,Port Vale,0-1,-
--,-,Exeter City,Port Vale,1-0,-
--,-,Halifax Town,Port Vale,2-0,-
--,-,Hartlepool United,Port Vale,1-1,-
--,-,Hereford United,Port Vale,1-1,-
--,-,Leyton Orient,Port Vale,1-0,-
--,-,Mansfield Town,Port Vale,2-1,-
--,-,Northampton Town,Port Vale,2-2,-
--,-,Peterborough United,Port Vale,1-0,-
--,-,Preston North End,Port Vale,0-1,-
--,-,Rochdale,Port Vale,3-3,-
--,-,Scunthorpe United,Port Vale,0-0,-
--,-,Southend United,Port Vale,2-1,-
--,-,Stockport County,Port Vale,1-2,-
--,-,Swindon Town,Port Vale,0-0,-
--,-,Torquay United,Port Vale,0-1,-
--,-,Tranmere Rovers,Port Vale,1-2,-
--,-,Wrexham,Port Vale,1-3,-
--,-,Aldershot,Preston North End,4-0,-
--,-,Burnley,Preston North End,1-1,-
--,-,Cambridge United,Preston North End,2-0,-
--,-,Chester,Preston North End,2-0,-
--,-,Colchester United,Preston North End,4-0,-
--,-,Crewe Alexandra,Preston North End,3-3,-
--,-,Exeter City,Preston North End,3-0,-
--,-,Halifax Town,Preston North End,2-1,-
--,-,Hartlepool United,Preston North End,1-0,-
--,-,Hereford United,Preston North End,1-1,-
--,-,Leyton Orient,Preston North End,2-0,-
--,-,Mansfield Town,Preston North End,2-3,-
--,-,Northampton Town,Preston North End,6-0,-
--,-,Peterborough United,Preston North End,1-1,-
--,-,Port Vale,Preston North End,0-1,-
--,-,Rochdale,Preston North End,1-1,-
--,-,Scunthorpe United,Preston North End,1-3,-
--,-,Southend United,Preston North End,2-1,-
--,-,Stockport County,Preston North End,2-1,-
--,-,Swindon Town,Preston North End,4-1,-
--,-,Torquay United,Preston North End,1-0,-
--,-,Tranmere Rovers,Preston North End,2-3,-
--,-,Wrexham,Preston North End,1-1,-
--,-,Aldershot,Rochdale,2-1,-
--,-,Burnley,Rochdale,1-0,-
--,-,Cambridge United,Rochdale,1-0,-
--,-,Chester,Rochdale,1-1,-
--,-,Colchester United,Rochdale,0-1,-
--,-,Crewe Alexandra,Rochdale,4-2,-
--,-,Exeter City,Rochdale,2-0,-
--,-,Halifax Town,Rochdale,1-1,-
--,-,Hartlepool United,Rochdale,2-0,-
--,-,Hereford United,Rochdale,2-2,-
--,-,Leyton Orient,Rochdale,5-0,-
--,-,Mansfield Town,Rochdale,3-2,-
--,-,Northampton Town,Rochdale,1-0,-
--,-,Peterborough United,Rochdale,1-1,-
--,-,Port Vale,Rochdale,1-1,-
--,-,Preston North End,Rochdale,1-1,-
--,-,Scunthorpe United,Rochdale,3-1,-
--,-,Southend United,Rochdale,5-0,-
--,-,Stockport County,Rochdale,3-0,-
--,-,Swindon Town,Rochdale,4-0,-
--,-,Torquay United,Rochdale,1-2,-
--,-,Tranmere Rovers,Rochdale,2-0,-
--,-,Wrexham,Rochdale,2-0,-
--,-,Aldershot,Scunthorpe United,2-1,-
--,-,Burnley,Scunthorpe United,1-2,-
--,-,Cambridge United,Scunthorpe United,0-1,-
--,-,Chester,Scunthorpe United,1-1,-
--,-,Colchester United,Scunthorpe United,1-1,-
--,-,Crewe Alexandra,Scunthorpe United,4-0,-
--,-,Exeter City,Scunthorpe United,2-0,-
--,-,Halifax Town,Scunthorpe United,2-1,-
--,-,Hartlepool United,Scunthorpe United,0-1,-
--,-,Hereford United,Scunthorpe United,1-1,-
--,-,Leyton Orient,Scunthorpe United,3-0,-
--,-,Mansfield Town,Scunthorpe United,1-1,-
--,-,Northampton Town,Scunthorpe United,2-2,-
--,-,Peterborough United,Scunthorpe United,1-0,-
--,-,Port Vale,Scunthorpe United,3-1,-
--,-,Preston North End,Scunthorpe United,0-1,-
--,-,Rochdale,Scunthorpe United,1-0,-
--,-,Southend United,Scunthorpe United,2-1,-
--,-,Stockport County,Scunthorpe United,0-0,-
--,-,Swindon Town,Scunthorpe United,1-1,-
--,-,Torquay United,Scunthorpe United,1-0,-
--,-,Tranmere Rovers,Scunthorpe United,2-1,-
--,-,Wrexham,Scunthorpe United,1-0,-
--,-,Aldershot,Southend United,1-3,-
--,-,Burnley,Southend United,1-3,-
--,-,Cambridge United,Southend United,1-2,-
--,-,Chester,Southend United,2-0,-
--,-,Colchester United,Southend United,2-0,-
--,-,Crewe Alexandra,Southend United,1-1,-
--,-,Exeter City,Southend United,0-2,-
--,-,Halifax Town,Southend United,2-3,-
--,-,Hartlepool United,Southend United,3-2,-
--,-,Hereford United,Southend United,2-1,-
--,-,Leyton Orient,Southend United,3-0,-
--,-,Mansfield Town,Southend United,3-0,-
--,-,Northampton Town,Southend United,0-0,-
--,-,Peterborough United,Southend United,1-1,-
--,-,Port Vale,Southend United,4-0,-
--,-,Preston North End,Southend United,3-2,-
--,-,Rochdale,Southend United,2-1,-
--,-,Scunthorpe United,Southend United,2-0,-
--,-,Stockport County,Southend United,2-1,-
--,-,Swindon Town,Southend United,2-1,-
--,-,Torquay United,Southend United,2-2,-
--,-,Tranmere Rovers,Southend United,1-1,-
--,-,Wrexham,Southend United,0-0,-
--,-,Aldershot,Stockport County,6-1,-
--,-,Burnley,Stockport County,0-1,-
--,-,Cambridge United,Stockport County,1-2,-
--,-,Chester,Stockport County,1-2,-
--,-,Colchester United,Stockport County,3-1,-
--,-,Crewe Alexandra,Stockport County,0-1,-
--,-,Exeter City,Stockport County,1-0,-
--,-,Halifax Town,Stockport County,0-0,-
--,-,Hartlepool United,Stockport County,1-1,-
--,-,Hereford United,Stockport County,3-2,-
--,-,Leyton Orient,Stockport County,0-1,-
--,-,Mansfield Town,Stockport County,4-2,-
--,-,Northampton Town,Stockport County,3-1,-
--,-,Peterborough United,Stockport County,2-0,-
--,-,Port Vale,Stockport County,1-1,-
--,-,Preston North End,Stockport County,1-2,-
--,-,Rochdale,Stockport County,4-1,-
--,-,Scunthorpe United,Stockport County,2-3,-
--,-,Southend United,Stockport County,0-0,-
--,-,Swindon Town,Stockport County,1-0,-
--,-,Torquay United,Stockport County,4-3,-
--,-,Tranmere Rovers,Stockport County,2-3,-
--,-,Wrexham,Stockport County,3-0,-
--,-,Aldershot,Swindon Town,2-4,-
--,-,Burnley,Swindon Town,0-2,-
--,-,Cambridge United,Swindon Town,1-1,-
--,-,Chester,Swindon Town,0-1,-
--,-,Colchester United,Swindon Town,1-1,-
--,-,Crewe Alexandra,Swindon Town,2-0,-
--,-,Exeter City,Swindon Town,0-3,-
--,-,Halifax Town,Swindon Town,1-3,-
--,-,Hartlepool United,Swindon Town,1-0,-
--,-,Hereford United,Swindon Town,4-1,-
--,-,Leyton Orient,Swindon Town,1-0,-
--,-,Mansfield Town,Swindon Town,1-1,-
--,-,Northampton Town,Swindon Town,0-1,-
--,-,Peterborough United,Swindon Town,3-0,-
--,-,Port Vale,Swindon Town,3-0,-
--,-,Preston North End,Swindon Town,0-3,-
--,-,Rochdale,Swindon Town,1-2,-
--,-,Scunthorpe United,Swindon Town,0-2,-
--,-,Southend United,Swindon Town,0-0,-
--,-,Stockport County,Swindon Town,0-2,-
--,-,Torquay United,Swindon Town,0-1,-
--,-,Tranmere Rovers,Swindon Town,3-1,-
--,-,Wrexham,Swindon Town,0-1,-
--,-,Aldershot,Torquay United,1-1,-
--,-,Burnley,Torquay United,3-0,-
--,-,Cambridge United,Torquay United,3-0,-
--,-,Chester,Torquay United,3-1,-
--,-,Colchester United,Torquay United,0-0,-
--,-,Crewe Alexandra,Torquay United,1-0,-
--,-,Exeter City,Torquay United,2-2,-
--,-,Halifax Town,Torquay United,0-0,-
--,-,Hartlepool United,Torquay United,1-0,-
--,-,Hereford United,Torquay United,4-1,-
--,-,Leyton Orient,Torquay United,4-2,-
--,-,Mansfield Town,Torquay United,4-0,-
--,-,Northampton Town,Torquay United,5-1,-
--,-,Peterborough United,Torquay United,2-0,-
--,-,Port Vale,Torquay United,1-0,-
--,-,Preston North End,Torquay United,4-0,-
--,-,Rochdale,Torquay United,5-0,-
--,-,Scunthorpe United,Torquay United,4-0,-
--,-,Southend United,Torquay United,1-2,-
--,-,Stockport County,Torquay United,1-1,-
--,-,Swindon Town,Torquay United,2-1,-
--,-,Tranmere Rovers,Torquay United,2-0,-
--,-,Wrexham,Torquay United,3-2,-
--,-,Aldershot,Tranmere Rovers,3-1,-
--,-,Burnley,Tranmere Rovers,3-1,-
--,-,Cambridge United,Tranmere Rovers,3-2,-
--,-,Chester,Tranmere Rovers,1-0,-
--,-,Colchester United,Tranmere Rovers,1-2,-
--,-,Crewe Alexandra,Tranmere Rovers,2-1,-
--,-,Exeter City,Tranmere Rovers,1-0,-
--,-,Halifax Town,Tranmere Rovers,1-2,-
--,-,Hartlepool United,Tranmere Rovers,1-0,-
--,-,Hereford United,Tranmere Rovers,1-4,-
--,-,Leyton Orient,Tranmere Rovers,3-1,-
--,-,Mansfield Town,Tranmere Rovers,0-0,-
--,-,Northampton Town,Tranmere Rovers,2-2,-
--,-,Peterborough United,Tranmere Rovers,0-1,-
--,-,Port Vale,Tranmere Rovers,0-0,-
--,-,Preston North End,Tranmere Rovers,2-2,-
--,-,Rochdale,Tranmere Rovers,1-1,-
--,-,Scunthorpe United,Tranmere Rovers,0-1,-
--,-,Southend United,Tranmere Rovers,2-2,-
--,-,Stockport County,Tranmere Rovers,1-1,-
--,-,Swindon Town,Tranmere Rovers,2-1,-
--,-,Torquay United,Tranmere Rovers,1-2,-
--,-,Wrexham,Tranmere Rovers,1-1,-
--,-,Aldershot,Wrexham,6-0,-
--,-,Burnley,Wrexham,5-2,-
--,-,Cambridge United,Wrexham,4-3,-
--,-,Chester,Wrexham,2-1,-
--,-,Colchester United,Wrexham,5-2,-
--,-,Crewe Alexandra,Wrexham,3-2,-
--,-,Exeter City,Wrexham,0-1,-
--,-,Halifax Town,Wrexham,5-2,-
--,-,Hartlepool United,Wrexham,3-3,-
--,-,Hereford United,Wrexham,3-1,-
--,-,Leyton Orient,Wrexham,1-3,-
--,-,Mansfield Town,Wrexham,1-1,-
--,-,Northampton Town,Wrexham,1-2,-
--,-,Peterborough United,Wrexham,1-1,-
--,-,Port Vale,Wrexham,4-0,-
--,-,Preston North End,Wrexham,1-0,-
--,-,Rochdale,Wrexham,3-2,-
--,-,Scunthorpe United,Wrexham,1-1,-
--,-,Southend United,Wrexham,3-0,-
--,-,Stockport County,Wrexham,2-0,-
--,-,Swindon Town,Wrexham,0-1,-
--,-,Torquay United,Wrexham,1-3,-
--,-,Tranmere Rovers,Wrexham,1-3,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 31 Aug 1985 (34),Aldershot Town FC (1),0-2,?,Burnley FC (1)
+?,(Sat) 1 Feb 1986 (4),Aldershot Town FC (2),2-1,?,Cambridge United (1)
+?,(Sat) 7 Dec 1985 (48),Aldershot Town FC (3),1-1,?,Chester FC (1)
+?,(Sat) 28 Dec 1985 (51),Aldershot Town FC (4),1-1,?,Colchester United (1)
+?,(Sat) 26 Oct 1985 (42),Aldershot Town FC (5),3-2,?,Crewe Alexandra (1)
+?,(Sat) 24 Aug 1985 (33),Aldershot Town FC (6),4-0,?,Exeter City (1)
+?,(Sat) 8 Mar 1986 (9),Aldershot Town FC (7),1-2,?,Halifax Town (1)
+?,(Sat) 5 Apr 1986 (13),Aldershot Town FC (8),0-1,?,Hartlepool United (1)
+?,(Tue) 29 Apr 1986 (17),Aldershot Town FC (9),2-0,?,Hereford United (1)
+?,(Tue) 4 Feb 1986 (5),Aldershot Town FC (10),1-1,?,Leyton Orient FC (1)
+?,(Sat) 14 Sep 1985 (36),Aldershot Town FC (11),1-2,?,Mansfield Town (1)
+?,(Sat) 9 Nov 1985 (44),Aldershot Town FC (12),1-0,?,Northampton Town (1)
+?,(Sat) 30 Nov 1985 (47),Aldershot Town FC (13),1-0,?,Peterborough United (1)
+?,(Tue) 17 Sep 1985 (37),Aldershot Town FC (14),0-0,?,Port Vale FC (1)
+?,(Sat) 3 May 1986 (17),Aldershot Town FC (15),4-0,?,Preston North End (1)
+?,(Sat) 18 Jan 1986 (2),Aldershot Town FC (16),2-1,?,Rochdale AFC (1)
+?,(Sat) 28 Sep 1985 (38),Aldershot Town FC (17),2-1,?,Scunthorpe United (1)
+?,(Sat) 12 Oct 1985 (40),Aldershot Town FC (18),1-3,?,Southend United (1)
+?,(Sat) 19 Apr 1986 (15),Aldershot Town FC (19),6-1,?,Stockport County (1)
+?,(Tue) 22 Apr 1986 (16),Aldershot Town FC (20),2-4,?,Swindon Town (1)
+?,(Sat) 29 Mar 1986 (12),Aldershot Town FC (21),1-1,?,Torquay United (1)
+?,(Tue) 15 Apr 1986 (15),Aldershot Town FC (22),3-1,?,Tranmere Rovers (1)
+?,(Sat) 19 Oct 1985 (41),Aldershot Town FC (23),6-0,?,Wrexham AFC (1)
+?,(Tue) 11 Mar 1986 (10),Burnley FC (2),1-2,?,Aldershot Town FC (24)
+?,(Sat) 12 Apr 1986 (14),Burnley FC (3),1-1,?,Cambridge United (2)
+?,(Sat) 8 Mar 1986 (9),Burnley FC (4),1-0,?,Chester FC (2)
+?,(Tue) 1 Oct 1985 (39),Burnley FC (5),0-2,?,Colchester United (2)
+?,(Tue) 15 Apr 1986 (15),Burnley FC (6),0-1,?,Crewe Alexandra (2)
+?,(Sat) 23 Nov 1985 (46),Burnley FC (7),3-1,?,Exeter City (2)
+?,(Sat) 22 Mar 1986 (11),Burnley FC (8),1-3,?,Halifax Town (2)
+?,(Sat) 7 Sep 1985 (35),Burnley FC (9),2-0,?,Hartlepool United (2)
+?,(Sat) 25 Jan 1986 (3),Burnley FC (10),3-2,?,Hereford United (2)
+?,(Sat) 14 Dec 1985 (49),Burnley FC (11),1-0,?,Leyton Orient FC (2)
+?,(Tue) 5 Nov 1985 (44),Burnley FC (12),2-1,?,Mansfield Town (2)
+?,(Sat) 17 Aug 1985 (32),Burnley FC (13),3-2,?,Northampton Town (2)
+?,(Sat) 1 Mar 1986 (8),Burnley FC (14),1-1,?,Peterborough United (2)
+?,(Mon) 26 Aug 1985 (34),Burnley FC (15),1-2,?,Port Vale FC (2)
+?,(Tue) 22 Apr 1986 (16),Burnley FC (16),1-1,?,Preston North End (2)
+?,(Sat) 21 Sep 1985 (37),Burnley FC (17),1-0,?,Rochdale AFC (2)
+?,(Sat) 26 Apr 1986 (16),Burnley FC (18),1-2,?,Scunthorpe United (2)
+?,(Sat) 2 Nov 1985 (43),Burnley FC (19),1-3,?,Southend United (2)
+?,(Fri) 23 Aug 1985 (33),Burnley FC (20),0-1,?,Stockport County (2)
+?,(Sat) 12 Oct 1985 (40),Burnley FC (21),0-2,?,Swindon Town (2)
+?,(Tue) 22 Oct 1985 (42),Burnley FC (22),3-0,?,Torquay United (2)
+?,(Mon) 31 Mar 1986 (13),Burnley FC (23),3-1,?,Tranmere Rovers (2)
+?,(Wed) 1 Jan 1986 (0),Burnley FC (24),5-2,?,Wrexham AFC (2)
+?,(Sat) 7 Sep 1985 (35),Cambridge United (3),0-2,?,Aldershot Town FC (25)
+?,(Sat) 9 Nov 1985 (44),Cambridge United (4),0-4,?,Burnley FC (25)
+?,(Thu) 26 Dec 1985 (51),Cambridge United (5),3-2,?,Chester FC (3)
+?,(Tue) 29 Apr 1986 (17),Cambridge United (6),1-3,?,Colchester United (3)
+?,(Sat) 19 Apr 1986 (15),Cambridge United (7),1-0,?,Crewe Alexandra (3)
+?,(Fri) 20 Sep 1985 (37),Cambridge United (8),1-1,?,Exeter City (3)
+?,(Tue) 8 Apr 1986 (14),Cambridge United (9),4-0,?,Halifax Town (3)
+?,(Sat) 17 Aug 1985 (32),Cambridge United (10),4-2,?,Hartlepool United (3)
+?,(Sat) 11 Jan 1986 (1),Cambridge United (11),4-0,?,Hereford United (3)
+?,(Sat) 19 Oct 1985 (41),Cambridge United (12),1-2,?,Leyton Orient FC (3)
+?,(Sat) 5 Oct 1985 (39),Cambridge United (13),4-2,?,Mansfield Town (3)
+?,(Sat) 30 Nov 1985 (47),Cambridge United (14),2-5,?,Northampton Town (3)
+?,(Sat) 26 Oct 1985 (42),Cambridge United (15),3-1,?,Peterborough United (3)
+?,(Sat) 25 Jan 1986 (3),Cambridge United (16),1-3,?,Port Vale FC (3)
+?,(Wed) 2 Oct 1985 (39),Cambridge United (17),2-0,?,Preston North End (3)
+?,(Fri) 28 Mar 1986 (12),Cambridge United (18),1-0,?,Rochdale AFC (3)
+?,(Sat) 15 Mar 1986 (10),Cambridge United (19),0-1,?,Scunthorpe United (3)
+?,(Tue) 27 Aug 1985 (34),Cambridge United (20),1-2,?,Southend United (3)
+?,(Fri) 6 Dec 1985 (48),Cambridge United (21),1-2,?,Stockport County (3)
+?,(Sat) 5 Apr 1986 (13),Cambridge United (22),1-1,?,Swindon Town (3)
+?,(Sat) 3 May 1986 (17),Cambridge United (23),3-0,?,Torquay United (3)
+?,(Fri) 20 Dec 1985 (50),Cambridge United (24),3-2,?,Tranmere Rovers (3)
+?,(Tue) 4 Feb 1986 (5),Cambridge United (25),4-3,?,Wrexham AFC (3)
+?,(Sat) 2 Nov 1985 (43),Chester FC (4),1-0,?,Aldershot Town FC (26)
+?,(Sat) 5 Oct 1985 (39),Chester FC (5),4-0,?,Burnley FC (26)
+?,(Mon) 31 Mar 1986 (13),Chester FC (6),1-1,?,Cambridge United (26)
+?,(Wed) 6 Nov 1985 (44),Chester FC (7),4-0,?,Colchester United (4)
+?,(Sat) 21 Sep 1985 (37),Chester FC (8),4-0,?,Crewe Alexandra (4)
+?,(Sat) 12 Apr 1986 (14),Chester FC (9),2-1,?,Exeter City (4)
+?,(Sat) 17 Aug 1985 (32),Chester FC (10),1-1,?,Halifax Town (4)
+?,(Mon) 26 Aug 1985 (34),Chester FC (11),1-1,?,Hartlepool United (4)
+?,(Sat) 7 Sep 1985 (35),Chester FC (12),1-0,?,Hereford United (4)
+?,(Sat) 23 Nov 1985 (46),Chester FC (13),3-0,?,Leyton Orient FC (4)
+?,(Wed) 2 Oct 1985 (39),Chester FC (14),1-0,?,Mansfield Town (4)
+?,(Wed) 5 Feb 1986 (5),Chester FC (15),2-3,?,Northampton Town (4)
+?,(Sat) 21 Dec 1985 (50),Chester FC (16),2-1,?,Peterborough United (4)
+?,(Wed) 1 Jan 1986 (0),Chester FC (17),4-1,?,Port Vale FC (4)
+?,(Sat) 15 Mar 1986 (10),Chester FC (18),2-0,?,Preston North End (4)
+?,(Sat) 15 Feb 1986 (6),Chester FC (19),1-1,?,Rochdale AFC (4)
+?,(Sat) 14 Dec 1985 (49),Chester FC (20),1-1,?,Scunthorpe United (4)
+?,(Sat) 26 Apr 1986 (16),Chester FC (21),2-0,?,Southend United (4)
+?,(Sat) 1 Mar 1986 (8),Chester FC (22),1-2,?,Stockport County (4)
+?,(Sat) 19 Oct 1985 (41),Chester FC (23),0-1,?,Swindon Town (4)
+?,(Sat) 25 Jan 1986 (3),Chester FC (24),3-1,?,Torquay United (4)
+?,(Sat) 11 Jan 1986 (1),Chester FC (25),1-0,?,Tranmere Rovers (4)
+?,(Sat) 22 Mar 1986 (11),Chester FC (26),2-1,?,Wrexham AFC (4)
+?,(Tue) 27 Aug 1985 (34),Colchester United (5),4-0,?,Aldershot Town FC (27)
+?,(Tue) 6 May 1986 (18),Colchester United (6),2-2,?,Burnley FC (27)
+?,(Tue) 17 Sep 1985 (37),Colchester United (7),4-1,?,Cambridge United (27)
+?,(Fri) 4 Apr 1986 (13),Colchester United (8),2-3,?,Chester FC (27)
+?,(Tue) 25 Mar 1986 (12),Colchester United (9),1-2,?,Crewe Alexandra (5)
+?,(Fri) 4 Oct 1985 (39),Colchester United (10),1-1,?,Exeter City (5)
+?,(Fri) 6 Sep 1985 (35),Colchester United (11),3-1,?,Halifax Town (5)
+?,(Fri) 2 May 1986 (17),Colchester United (12),3-1,?,Hartlepool United (5)
+?,(Fri) 3 Jan 1986 (0),Colchester United (13),4-1,?,Hereford United (5)
+?,(Tue) 8 Apr 1986 (14),Colchester United (14),4-0,?,Leyton Orient FC (5)
+?,(Fri) 14 Mar 1986 (10),Colchester United (15),0-0,?,Mansfield Town (5)
+?,(Sat) 26 Oct 1985 (42),Colchester United (16),0-2,?,Northampton Town (5)
+?,(Tue) 22 Apr 1986 (16),Colchester United (17),5-0,?,Peterborough United (5)
+?,(Fri) 27 Sep 1985 (38),Colchester United (18),1-0,?,Port Vale FC (5)
+?,(Fri) 18 Apr 1986 (15),Colchester United (19),4-0,?,Preston North End (5)
+?,(Fri) 8 Nov 1985 (44),Colchester United (20),0-1,?,Rochdale AFC (5)
+?,(Fri) 18 Oct 1985 (41),Colchester United (21),1-1,?,Scunthorpe United (5)
+?,(Tue) 4 Feb 1986 (5),Colchester United (22),2-0,?,Southend United (5)
+?,(Sat) 17 Aug 1985 (32),Colchester United (23),3-1,?,Stockport County (5)
+?,(Fri) 28 Mar 1986 (12),Colchester United (24),1-1,?,Swindon Town (5)
+?,(Sat) 11 Jan 1986 (1),Colchester United (25),0-0,?,Torquay United (5)
+?,(Fri) 24 Jan 1986 (3),Colchester United (26),1-2,?,Tranmere Rovers (5)
+?,(Fri) 20 Dec 1985 (50),Colchester United (27),5-2,?,Wrexham AFC (5)
+?,(Sat) 22 Mar 1986 (11),Crewe Alexandra (6),2-0,?,Aldershot Town FC (28)
+?,(Sat) 19 Oct 1985 (41),Crewe Alexandra (7),3-1,?,Burnley FC (28)
+?,(Sat) 23 Nov 1985 (46),Crewe Alexandra (8),0-1,?,Cambridge United (28)
+?,(Sat) 22 Feb 1986 (7),Crewe Alexandra (9),2-2,?,Chester FC (28)
+?,(Sat) 26 Apr 1986 (16),Crewe Alexandra (10),0-2,?,Colchester United (28)
+?,(Fri) 13 Dec 1985 (49),Crewe Alexandra (11),0-1,?,Exeter City (6)
+?,(Sat) 2 Nov 1985 (43),Crewe Alexandra (12),2-2,?,Halifax Town (6)
+?,(Fri) 20 Dec 1985 (50),Crewe Alexandra (13),0-0,?,Hartlepool United (6)
+?,(Tue) 27 Aug 1985 (34),Crewe Alexandra (14),2-0,?,Hereford United (6)
+?,(Tue) 5 Nov 1985 (44),Crewe Alexandra (15),1-3,?,Leyton Orient FC (6)
+?,(Fri) 11 Apr 1986 (14),Crewe Alexandra (16),2-1,?,Mansfield Town (6)
+?,(Sat) 25 Jan 1986 (3),Crewe Alexandra (17),0-1,?,Northampton Town (6)
+?,(Tue) 4 Feb 1986 (5),Crewe Alexandra (18),1-1,?,Peterborough United (6)
+?,(Mon) 31 Mar 1986 (13),Crewe Alexandra (19),0-1,?,Port Vale FC (6)
+?,(Sat) 5 Oct 1985 (39),Crewe Alexandra (20),3-3,?,Preston North End (6)
+?,(Sat) 15 Mar 1986 (10),Crewe Alexandra (21),4-2,?,Rochdale AFC (6)
+?,(Tue) 4 Mar 1986 (9),Crewe Alexandra (22),4-0,?,Scunthorpe United (6)
+?,(Sat) 17 Aug 1985 (32),Crewe Alexandra (23),1-1,?,Southend United (6)
+?,(Fri) 6 Sep 1985 (35),Crewe Alexandra (24),0-1,?,Stockport County (6)
+?,(Tue) 17 Sep 1985 (37),Crewe Alexandra (25),2-0,?,Swindon Town (6)
+?,(Sat) 28 Sep 1985 (38),Crewe Alexandra (26),1-0,?,Torquay United (6)
+?,(Tue) 18 Mar 1986 (11),Crewe Alexandra (27),2-1,?,Tranmere Rovers (6)
+?,(Sat) 11 Jan 1986 (1),Crewe Alexandra (28),3-2,?,Wrexham AFC (6)
+?,(Sat) 21 Dec 1985 (50),Exeter City (7),2-0,?,Aldershot Town FC (29)
+?,(Sat) 19 Apr 1986 (15),Exeter City (8),0-2,?,Burnley FC (29)
+?,(Fri) 21 Feb 1986 (7),Exeter City (9),0-0,?,Cambridge United (29)
+?,(Sat) 9 Nov 1985 (44),Exeter City (10),1-3,?,Chester FC (29)
+?,(Sat) 8 Mar 1986 (9),Exeter City (11),2-2,?,Colchester United (29)
+?,(Sat) 3 May 1986 (17),Exeter City (12),1-2,?,Crewe Alexandra (29)
+?,(Wed) 23 Oct 1985 (42),Exeter City (13),1-0,?,Halifax Town (7)
+?,(Sat) 26 Oct 1985 (42),Exeter City (14),1-2,?,Hartlepool United (7)
+?,(Sat) 29 Mar 1986 (12),Exeter City (15),3-2,?,Hereford United (7)
+?,(Sat) 12 Oct 1985 (40),Exeter City (16),1-1,?,Leyton Orient FC (7)
+?,(Sat) 8 Feb 1986 (5),Exeter City (17),0-1,?,Mansfield Town (7)
+?,(Mon) 26 Aug 1985 (34),Exeter City (18),1-2,?,Northampton Town (7)
+?,(Wed) 19 Mar 1986 (11),Exeter City (19),1-0,?,Peterborough United (7)
+?,(Sat) 17 Aug 1985 (32),Exeter City (20),1-0,?,Port Vale FC (7)
+?,(Sat) 30 Nov 1985 (47),Exeter City (21),3-0,?,Preston North End (7)
+?,(Fri) 4 Apr 1986 (13),Exeter City (22),2-0,?,Rochdale AFC (7)
+?,(Wed) 18 Sep 1985 (37),Exeter City (23),2-0,?,Scunthorpe United (7)
+?,(Sat) 7 Sep 1985 (35),Exeter City (24),0-2,?,Southend United (7)
+?,(Sat) 11 Jan 1986 (1),Exeter City (25),1-0,?,Stockport County (7)
+?,(Tue) 4 Mar 1986 (9),Exeter City (26),0-3,?,Swindon Town (7)
+?,(Wed) 26 Mar 1986 (12),Exeter City (27),2-2,?,Torquay United (7)
+?,(Sat) 28 Sep 1985 (38),Exeter City (28),1-0,?,Tranmere Rovers (7)
+?,(Sat) 25 Jan 1986 (3),Exeter City (29),0-1,?,Wrexham AFC (7)
+?,(Sat) 5 Oct 1985 (39),Halifax Town (8),1-1,?,Aldershot Town FC (30)
+?,(Sat) 26 Oct 1985 (42),Halifax Town (9),2-2,?,Burnley FC (30)
+?,(Fri) 27 Sep 1985 (38),Halifax Town (10),1-1,?,Cambridge United (30)
+?,(Fri) 17 Jan 1986 (2),Halifax Town (11),1-2,?,Chester FC (30)
+?,(Fri) 31 Jan 1986 (4),Halifax Town (12),2-2,?,Colchester United (30)
+?,(Sat) 4 Jan 1986 (0),Halifax Town (13),1-0,?,Crewe Alexandra (30)
+?,(Tue) 4 Feb 1986 (5),Halifax Town (14),1-0,?,Exeter City (30)
+?,(Fri) 28 Mar 1986 (12),Halifax Town (15),3-2,?,Hartlepool United (8)
+?,(Tue) 3 Dec 1985 (48),Halifax Town (16),1-0,?,Hereford United (8)
+?,(Fri) 13 Sep 1985 (36),Halifax Town (17),2-1,?,Leyton Orient FC (8)
+?,(Mon) 5 May 1986 (18),Halifax Town (18),1-2,?,Mansfield Town (8)
+?,(Fri) 18 Apr 1986 (15),Halifax Town (19),2-0,?,Northampton Town (8)
+?,(Sat) 9 Nov 1985 (44),Halifax Town (20),1-1,?,Peterborough United (8)
+?,(Tue) 29 Apr 1986 (17),Halifax Town (21),2-0,?,Port Vale FC (8)
+?,(Fri) 30 Aug 1985 (34),Halifax Town (22),2-1,?,Preston North End (8)
+?,(Thu) 26 Dec 1985 (51),Halifax Town (23),1-1,?,Rochdale AFC (8)
+?,(Fri) 23 Aug 1985 (33),Halifax Town (24),2-1,?,Scunthorpe United (8)
+?,(Tue) 17 Sep 1985 (37),Halifax Town (25),2-3,?,Southend United (8)
+?,(Fri) 4 Apr 1986 (13),Halifax Town (26),0-0,?,Stockport County (8)
+?,(Fri) 2 May 1986 (17),Halifax Town (27),1-3,?,Swindon Town (8)
+?,(Mon) 14 Apr 1986 (15),Halifax Town (28),0-0,?,Torquay United (8)
+?,(Fri) 18 Oct 1985 (41),Halifax Town (29),1-2,?,Tranmere Rovers (8)
+?,(Fri) 14 Mar 1986 (10),Halifax Town (30),5-2,?,Wrexham AFC (8)
+?,(Wed) 6 Nov 1985 (44),Hartlepool United (9),2-1,?,Aldershot Town FC (31)
+?,(Sat) 1 Feb 1986 (4),Hartlepool United (10),3-1,?,Burnley FC (31)
+?,(Sat) 18 Jan 1986 (2),Hartlepool United (11),2-1,?,Cambridge United (31)
+?,(Wed) 8 Jan 1986 (1),Hartlepool United (12),1-1,?,Chester FC (31)
+?,(Sat) 14 Dec 1985 (49),Hartlepool United (13),4-1,?,Colchester United (31)
+?,(Sat) 24 Aug 1985 (33),Hartlepool United (14),4-1,?,Crewe Alexandra (31)
+?,(Sat) 22 Mar 1986 (11),Hartlepool United (15),0-0,?,Exeter City (31)
+?,(Wed) 1 Jan 1986 (0),Hartlepool United (16),3-0,?,Halifax Town (31)
+?,(Sat) 19 Oct 1985 (41),Hartlepool United (17),2-1,?,Hereford United (9)
+?,(Sat) 31 Aug 1985 (34),Hartlepool United (18),1-2,?,Leyton Orient FC (9)
+?,(Sat) 2 Nov 1985 (43),Hartlepool United (19),1-1,?,Mansfield Town (9)
+?,(Wed) 18 Sep 1985 (37),Hartlepool United (20),2-1,?,Northampton Town (9)
+?,(Sat) 5 Oct 1985 (39),Hartlepool United (21),2-1,?,Peterborough United (9)
+?,(Wed) 5 Mar 1986 (9),Hartlepool United (22),1-1,?,Port Vale FC (9)
+?,(Wed) 5 Feb 1986 (5),Hartlepool United (23),1-0,?,Preston North End (9)
+?,(Fri) 13 Sep 1985 (36),Hartlepool United (24),2-0,?,Rochdale AFC (9)
+?,(Tue) 1 Apr 1986 (13),Hartlepool United (25),0-1,?,Scunthorpe United (9)
+?,(Sat) 12 Apr 1986 (14),Hartlepool United (26),3-2,?,Southend United (9)
+?,(Fri) 14 Mar 1986 (10),Hartlepool United (27),1-1,?,Stockport County (9)
+?,(Sat) 28 Sep 1985 (38),Hartlepool United (28),1-0,?,Swindon Town (9)
+?,(Tue) 15 Apr 1986 (15),Hartlepool United (29),1-0,?,Torquay United (9)
+?,(Sat) 23 Nov 1985 (46),Hartlepool United (30),1-0,?,Tranmere Rovers (9)
+?,(Sat) 26 Apr 1986 (16),Hartlepool United (31),3-3,?,Wrexham AFC (9)
+?,(Wed) 2 Oct 1985 (39),Hereford United (10),4-1,?,Aldershot Town FC (32)
+?,(Sat) 14 Sep 1985 (36),Hereford United (11),2-2,?,Burnley FC (32)
+?,(Sat) 31 Aug 1985 (34),Hereford United (12),1-0,?,Cambridge United (32)
+?,(Sat) 1 Feb 1986 (4),Hereford United (13),0-2,?,Chester FC (32)
+?,(Sat) 2 Nov 1985 (43),Hereford United (14),2-0,?,Colchester United (32)
+?,(Sat) 28 Dec 1985 (51),Hereford United (15),4-1,?,Crewe Alexandra (32)
+?,(Wed) 1 Jan 1986 (0),Hereford United (16),4-1,?,Exeter City (32)
+?,(Sat) 26 Apr 1986 (16),Hereford United (17),2-1,?,Halifax Town (32)
+?,(Wed) 9 Apr 1986 (14),Hereford United (18),2-2,?,Hartlepool United (32)
+?,(Mon) 31 Mar 1986 (13),Hereford United (19),3-2,?,Leyton Orient FC (10)
+?,(Sat) 18 Jan 1986 (2),Hereford United (20),4-2,?,Mansfield Town (10)
+?,(Sat) 8 Mar 1986 (9),Hereford United (21),3-0,?,Northampton Town (10)
+?,(Sat) 21 Sep 1985 (37),Hereford United (22),2-1,?,Peterborough United (10)
+?,(Wed) 6 Nov 1985 (44),Hereford United (23),1-1,?,Port Vale FC (10)
+?,(Sat) 1 Mar 1986 (8),Hereford United (24),1-1,?,Preston North End (10)
+?,(Wed) 23 Oct 1985 (42),Hereford United (25),2-2,?,Rochdale AFC (10)
+?,(Sat) 22 Mar 1986 (11),Hereford United (26),1-1,?,Scunthorpe United (10)
+?,(Wed) 19 Mar 1986 (11),Hereford United (27),2-1,?,Southend United (10)
+?,(Wed) 16 Apr 1986 (15),Hereford United (28),3-2,?,Stockport County (10)
+?,(Sat) 24 Aug 1985 (33),Hereford United (29),4-1,?,Swindon Town (10)
+?,(Sat) 12 Oct 1985 (40),Hereford United (30),4-1,?,Torquay United (10)
+?,(Sat) 14 Dec 1985 (49),Hereford United (31),1-4,?,Tranmere Rovers (10)
+?,(Sat) 12 Apr 1986 (14),Hereford United (32),3-1,?,Wrexham AFC (10)
+?,(Tue) 22 Oct 1985 (42),Leyton Orient FC (11),1-1,?,Aldershot Town FC (33)
+?,(Sat) 3 May 1986 (17),Leyton Orient FC (12),3-0,?,Burnley FC (33)
+?,(Sat) 8 Feb 1986 (5),Leyton Orient FC (13),3-1,?,Cambridge United (33)
+?,(Sat) 19 Apr 1986 (15),Leyton Orient FC (14),0-0,?,Chester FC (33)
+?,(Sat) 21 Sep 1985 (37),Leyton Orient FC (15),1-2,?,Colchester United (33)
+?,(Sat) 5 Apr 1986 (13),Leyton Orient FC (16),0-1,?,Crewe Alexandra (33)
+?,(Sat) 15 Mar 1986 (10),Leyton Orient FC (17),2-2,?,Exeter City (33)
+?,(Tue) 22 Apr 1986 (16),Leyton Orient FC (18),1-0,?,Halifax Town (33)
+?,(Sat) 11 Jan 1986 (1),Leyton Orient FC (19),1-1,?,Hartlepool United (33)
+?,(Thu) 26 Dec 1985 (51),Leyton Orient FC (20),2-2,?,Hereford United (33)
+?,(Sat) 15 Feb 1986 (6),Leyton Orient FC (21),0-1,?,Mansfield Town (11)
+?,(Sat) 29 Mar 1986 (12),Leyton Orient FC (22),0-1,?,Northampton Town (11)
+?,(Tue) 27 Aug 1985 (34),Leyton Orient FC (23),2-2,?,Peterborough United (11)
+?,(Sat) 7 Sep 1985 (35),Leyton Orient FC (24),1-0,?,Port Vale FC (11)
+?,(Sat) 9 Nov 1985 (44),Leyton Orient FC (25),2-0,?,Preston North End (11)
+?,(Tue) 1 Oct 1985 (39),Leyton Orient FC (26),5-0,?,Rochdale AFC (11)
+?,(Sat) 5 Oct 1985 (39),Leyton Orient FC (27),3-0,?,Scunthorpe United (11)
+?,(Sat) 21 Dec 1985 (50),Leyton Orient FC (28),3-0,?,Southend United (11)
+?,(Sat) 26 Oct 1985 (42),Leyton Orient FC (29),0-1,?,Stockport County (11)
+?,(Sat) 30 Nov 1985 (47),Leyton Orient FC (30),1-0,?,Swindon Town (11)
+?,(Tue) 18 Mar 1986 (11),Leyton Orient FC (31),4-2,?,Torquay United (11)
+?,(Sat) 17 Aug 1985 (32),Leyton Orient FC (32),3-1,?,Tranmere Rovers (11)
+?,(Sat) 1 Mar 1986 (8),Leyton Orient FC (33),1-3,?,Wrexham AFC (11)
+?,(Sat) 25 Jan 1986 (3),Mansfield Town (12),2-0,?,Aldershot Town FC (34)
+?,(Sat) 5 Apr 1986 (13),Mansfield Town (13),0-0,?,Burnley FC (34)
+?,(Sat) 8 Mar 1986 (9),Mansfield Town (14),2-0,?,Cambridge United (34)
+?,(Tue) 4 Mar 1986 (9),Mansfield Town (15),0-0,?,Chester FC (34)
+?,(Sat) 12 Oct 1985 (40),Mansfield Town (16),2-1,?,Colchester United (34)
+?,(Sat) 9 Nov 1985 (44),Mansfield Town (17),2-2,?,Crewe Alexandra (34)
+?,(Sat) 19 Oct 1985 (41),Mansfield Town (18),2-1,?,Exeter City (34)
+?,(Tue) 27 Aug 1985 (34),Mansfield Town (19),2-0,?,Halifax Town (34)
+?,(Tue) 22 Apr 1986 (16),Mansfield Town (20),4-0,?,Hartlepool United (34)
+?,(Sat) 17 Aug 1985 (32),Mansfield Town (21),4-0,?,Hereford United (34)
+?,(Wed) 18 Sep 1985 (37),Mansfield Town (22),1-1,?,Leyton Orient FC (34)
+?,(Sat) 11 Jan 1986 (1),Mansfield Town (23),1-0,?,Northampton Town (12)
+?,(Sat) 3 May 1986 (17),Mansfield Town (24),0-1,?,Peterborough United (12)
+?,(Sun) 22 Dec 1985 (50),Mansfield Town (25),2-1,?,Port Vale FC (12)
+?,(Sat) 29 Mar 1986 (12),Mansfield Town (26),2-3,?,Preston North End (12)
+?,(Sat) 30 Nov 1985 (47),Mansfield Town (27),3-2,?,Rochdale AFC (12)
+?,(Tue) 25 Mar 1986 (12),Mansfield Town (28),1-1,?,Scunthorpe United (12)
+?,(Sat) 28 Sep 1985 (38),Mansfield Town (29),3-0,?,Southend United (12)
+?,(Thu) 26 Dec 1985 (51),Mansfield Town (30),4-2,?,Stockport County (12)
+?,(Sat) 19 Apr 1986 (15),Mansfield Town (31),1-1,?,Swindon Town (12)
+?,(Sat) 26 Oct 1985 (42),Mansfield Town (32),4-0,?,Torquay United (12)
+?,(Tue) 29 Apr 1986 (17),Mansfield Town (33),0-0,?,Tranmere Rovers (12)
+?,(Sat) 7 Sep 1985 (35),Mansfield Town (34),1-1,?,Wrexham AFC (12)
+?,(Sat) 12 Apr 1986 (14),Northampton Town (13),2-3,?,Aldershot Town FC (35)
+?,(Sat) 18 Jan 1986 (2),Northampton Town (14),2-0,?,Burnley FC (35)
+?,(Sat) 26 Apr 1986 (16),Northampton Town (15),0-2,?,Cambridge United (35)
+?,(Tue) 22 Oct 1985 (42),Northampton Town (16),2-2,?,Chester FC (35)
+?,(Sat) 22 Mar 1986 (11),Northampton Town (17),1-0,?,Colchester United (35)
+?,(Sat) 14 Sep 1985 (36),Northampton Town (18),0-1,?,Crewe Alexandra (35)
+?,(Tue) 8 Apr 1986 (14),Northampton Town (19),2-2,?,Exeter City (35)
+?,(Sat) 23 Nov 1985 (46),Northampton Town (20),4-0,?,Halifax Town (35)
+?,(Tue) 11 Mar 1986 (10),Northampton Town (21),3-0,?,Hartlepool United (35)
+?,(Sat) 5 Oct 1985 (39),Northampton Town (22),1-3,?,Hereford United (35)
+?,(Tue) 15 Apr 1986 (15),Northampton Town (23),2-3,?,Leyton Orient FC (35)
+?,(Sat) 31 Aug 1985 (34),Northampton Town (24),1-0,?,Mansfield Town (35)
+?,(Sat) 15 Mar 1986 (10),Northampton Town (25),2-2,?,Peterborough United (13)
+?,(Sat) 14 Dec 1985 (49),Northampton Town (26),2-2,?,Port Vale FC (13)
+?,(Tue) 10 Sep 1985 (36),Northampton Town (27),6-0,?,Preston North End (13)
+?,(Sat) 1 Mar 1986 (8),Northampton Town (28),1-0,?,Rochdale AFC (13)
+?,(Sat) 2 Nov 1985 (43),Northampton Town (29),2-2,?,Scunthorpe United (13)
+?,(Mon) 31 Mar 1986 (13),Northampton Town (30),0-0,?,Southend United (13)
+?,(Sat) 21 Sep 1985 (37),Northampton Town (31),3-1,?,Stockport County (13)
+?,(Sat) 1 Feb 1986 (4),Northampton Town (32),0-1,?,Swindon Town (13)
+?,(Tue) 29 Apr 1986 (17),Northampton Town (33),5-1,?,Torquay United (13)
+?,(Tue) 5 Nov 1985 (44),Northampton Town (34),2-2,?,Tranmere Rovers (13)
+?,(Tue) 1 Oct 1985 (39),Northampton Town (35),1-2,?,Wrexham AFC (13)
+?,(Sat) 26 Apr 1986 (16),Peterborough United (14),3-0,?,Aldershot Town FC (36)
+?,(Sat) 28 Sep 1985 (38),Peterborough United (15),0-0,?,Burnley FC (36)
+?,(Sat) 22 Mar 1986 (11),Peterborough United (16),0-0,?,Cambridge United (36)
+?,(Sat) 24 Aug 1985 (33),Peterborough United (17),3-0,?,Chester FC (36)
+?,(Mon) 31 Mar 1986 (13),Peterborough United (18),1-2,?,Colchester United (36)
+?,(Wed) 23 Oct 1985 (42),Peterborough United (19),0-0,?,Crewe Alexandra (36)
+?,(Sat) 2 Nov 1985 (43),Peterborough United (20),1-1,?,Exeter City (36)
+?,(Sat) 12 Apr 1986 (14),Peterborough United (21),1-1,?,Halifax Town (36)
+?,(Sat) 8 Mar 1986 (9),Peterborough United (22),3-1,?,Hartlepool United (36)
+?,(Wed) 26 Mar 1986 (12),Peterborough United (23),0-0,?,Hereford United (36)
+?,(Sat) 28 Dec 1985 (51),Peterborough United (24),2-2,?,Leyton Orient FC (36)
+?,(Sat) 14 Dec 1985 (49),Peterborough United (25),4-2,?,Mansfield Town (36)
+?,(Sat) 12 Oct 1985 (40),Peterborough United (26),0-5,?,Northampton Town (36)
+?,(Sat) 23 Nov 1985 (46),Peterborough United (27),1-0,?,Port Vale FC (14)
+?,(Sat) 18 Jan 1986 (2),Peterborough United (28),1-1,?,Preston North End (14)
+?,(Wed) 7 May 1986 (18),Peterborough United (29),1-1,?,Rochdale AFC (14)
+?,(Sat) 31 Aug 1985 (34),Peterborough United (30),1-0,?,Scunthorpe United (14)
+?,(Wed) 1 Jan 1986 (0),Peterborough United (31),1-1,?,Southend United (14)
+?,(Tue) 8 Apr 1986 (14),Peterborough United (32),2-0,?,Stockport County (14)
+?,(Sat) 14 Sep 1985 (36),Peterborough United (33),3-0,?,Swindon Town (14)
+?,(Wed) 18 Sep 1985 (37),Peterborough United (34),2-0,?,Torquay United (14)
+?,(Wed) 5 Mar 1986 (9),Peterborough United (35),0-1,?,Tranmere Rovers (14)
+?,(Wed) 6 Nov 1985 (44),Peterborough United (36),1-1,?,Wrexham AFC (14)
+?,(Tue) 18 Mar 1986 (11),Port Vale FC (15),3-1,?,Aldershot Town FC (37)
+?,(Mon) 24 Feb 1986 (8),Port Vale FC (16),1-1,?,Burnley FC (37)
+?,(Sat) 14 Sep 1985 (36),Port Vale FC (17),4-1,?,Cambridge United (37)
+?,(Sat) 29 Mar 1986 (12),Port Vale FC (18),1-1,?,Chester FC (37)
+?,(Sat) 1 Mar 1986 (8),Port Vale FC (19),1-1,?,Colchester United (37)
+?,(Thu) 26 Dec 1985 (51),Port Vale FC (20),3-0,?,Crewe Alexandra (37)
+?,(Fri) 17 Jan 1986 (2),Port Vale FC (21),0-0,?,Exeter City (37)
+?,(Sat) 21 Sep 1985 (37),Port Vale FC (22),3-2,?,Halifax Town (37)
+?,(Mon) 30 Sep 1985 (39),Port Vale FC (23),4-0,?,Hartlepool United (37)
+?,(Sat) 5 Apr 1986 (13),Port Vale FC (24),1-0,?,Hereford United (37)
+?,(Sat) 1 Feb 1986 (4),Port Vale FC (25),2-0,?,Leyton Orient FC (37)
+?,(Sat) 24 Aug 1985 (33),Port Vale FC (26),0-0,?,Mansfield Town (37)
+?,(Sat) 3 May 1986 (17),Port Vale FC (27),0-0,?,Northampton Town (37)
+?,(Sat) 19 Apr 1986 (15),Port Vale FC (28),2-0,?,Peterborough United (37)
+?,(Sat) 4 Jan 1986 (0),Port Vale FC (29),0-1,?,Preston North End (15)
+?,(Sat) 31 Aug 1985 (34),Port Vale FC (30),1-1,?,Rochdale AFC (15)
+?,(Mon) 3 Feb 1986 (5),Port Vale FC (31),3-1,?,Scunthorpe United (15)
+?,(Sat) 19 Oct 1985 (41),Port Vale FC (32),4-0,?,Southend United (15)
+?,(Sat) 9 Nov 1985 (44),Port Vale FC (33),1-1,?,Stockport County (15)
+?,(Sat) 26 Oct 1985 (42),Port Vale FC (34),3-0,?,Swindon Town (15)
+?,(Tue) 17 Dec 1985 (50),Port Vale FC (35),1-0,?,Torquay United (15)
+?,(Sat) 15 Mar 1986 (10),Port Vale FC (36),0-0,?,Tranmere Rovers (15)
+?,(Sat) 5 Oct 1985 (39),Port Vale FC (37),4-0,?,Wrexham AFC (15)
+?,(Sat) 14 Dec 1985 (49),Preston North End (16),1-3,?,Aldershot Town FC (38)
+?,(Tue) 17 Sep 1985 (37),Preston North End (17),1-0,?,Burnley FC (38)
+?,(Tue) 18 Mar 1986 (11),Preston North End (18),1-2,?,Cambridge United (38)
+?,(Sat) 12 Oct 1985 (40),Preston North End (19),3-6,?,Chester FC (38)
+?,(Sat) 23 Nov 1985 (46),Preston North End (20),3-2,?,Colchester United (38)
+?,(Sat) 8 Mar 1986 (9),Preston North End (21),1-2,?,Crewe Alexandra (38)
+?,(Sat) 26 Apr 1986 (16),Preston North End (22),2-2,?,Exeter City (38)
+?,(Sat) 11 Jan 1986 (1),Preston North End (23),0-1,?,Halifax Town (38)
+?,(Tue) 22 Oct 1985 (42),Preston North End (24),2-1,?,Hartlepool United (38)
+?,(Sat) 28 Sep 1985 (38),Preston North End (25),2-0,?,Hereford United (38)
+?,(Sat) 12 Apr 1986 (14),Preston North End (26),1-3,?,Leyton Orient FC (38)
+?,(Wed) 1 Jan 1986 (0),Preston North End (27),0-2,?,Mansfield Town (38)
+?,(Sat) 21 Dec 1985 (50),Preston North End (28),1-1,?,Northampton Town (38)
+?,(Sat) 17 Aug 1985 (32),Preston North End (29),2-4,?,Peterborough United (38)
+?,(Sat) 2 Nov 1985 (43),Preston North End (30),0-1,?,Port Vale FC (38)
+?,(Sat) 8 Feb 1986 (5),Preston North End (31),1-1,?,Rochdale AFC (16)
+?,(Tue) 5 Nov 1985 (44),Preston North End (32),0-1,?,Scunthorpe United (16)
+?,(Sat) 22 Mar 1986 (11),Preston North End (33),3-2,?,Southend United (16)
+?,(Fri) 13 Sep 1985 (36),Preston North End (34),1-2,?,Stockport County (16)
+?,(Sat) 22 Feb 1986 (7),Preston North End (35),0-3,?,Swindon Town (16)
+?,(Sat) 7 Sep 1985 (35),Preston North End (36),4-0,?,Torquay United (16)
+?,(Mon) 26 Aug 1985 (34),Preston North End (37),2-2,?,Tranmere Rovers (16)
+?,(Mon) 31 Mar 1986 (13),Preston North End (38),1-0,?,Wrexham AFC (16)
+?,(Sat) 17 Aug 1985 (32),Rochdale AFC (17),2-0,?,Aldershot Town FC (39)
+?,(Tue) 18 Mar 1986 (11),Rochdale AFC (18),1-0,?,Burnley FC (39)
+?,(Wed) 1 Jan 1986 (0),Rochdale AFC (19),2-1,?,Cambridge United (39)
+?,(Tue) 29 Apr 1986 (17),Rochdale AFC (20),1-2,?,Chester FC (39)
+?,(Sat) 12 Apr 1986 (14),Rochdale AFC (21),3-3,?,Colchester United (39)
+?,(Sat) 12 Oct 1985 (40),Rochdale AFC (22),1-0,?,Crewe Alexandra (39)
+?,(Tue) 5 Nov 1985 (44),Rochdale AFC (23),1-1,?,Exeter City (39)
+?,(Mon) 31 Mar 1986 (13),Rochdale AFC (24),1-0,?,Halifax Town (39)
+?,(Sat) 25 Jan 1986 (3),Rochdale AFC (25),0-2,?,Hartlepool United (39)
+?,(Tue) 4 Feb 1986 (5),Rochdale AFC (26),1-1,?,Hereford United (39)
+?,(Mon) 5 May 1986 (18),Rochdale AFC (27),1-4,?,Leyton Orient FC (39)
+?,(Sat) 26 Apr 1986 (16),Rochdale AFC (28),1-1,?,Mansfield Town (39)
+?,(Sat) 28 Sep 1985 (38),Rochdale AFC (29),3-2,?,Northampton Town (39)
+?,(Sat) 7 Sep 1985 (35),Rochdale AFC (30),2-1,?,Peterborough United (39)
+?,(Sat) 11 Jan 1986 (1),Rochdale AFC (31),3-3,?,Port Vale FC (39)
+?,(Sat) 19 Oct 1985 (41),Rochdale AFC (32),1-1,?,Preston North End (39)
+?,(Sat) 23 Nov 1985 (46),Rochdale AFC (33),1-0,?,Scunthorpe United (17)
+?,(Mon) 21 Apr 1986 (16),Rochdale AFC (34),2-1,?,Southend United (17)
+?,(Mon) 26 Aug 1985 (34),Rochdale AFC (35),4-1,?,Stockport County (17)
+?,(Sat) 8 Mar 1986 (9),Rochdale AFC (36),1-2,?,Swindon Town (17)
+?,(Sat) 21 Dec 1985 (50),Rochdale AFC (37),5-0,?,Torquay United (17)
+?,(Sat) 22 Mar 1986 (11),Rochdale AFC (38),1-1,?,Tranmere Rovers (17)
+?,(Sat) 2 Nov 1985 (43),Rochdale AFC (39),3-2,?,Wrexham AFC (17)
+?,(Sat) 1 Mar 1986 (8),Scunthorpe United (18),1-0,?,Aldershot Town FC (40)
+?,(Sat) 30 Nov 1985 (47),Scunthorpe United (19),1-1,?,Burnley FC (40)
+?,(Fri) 11 Oct 1985 (40),Scunthorpe United (20),0-0,?,Cambridge United (40)
+?,(Sat) 3 May 1986 (17),Scunthorpe United (21),2-0,?,Chester FC (40)
+?,(Tue) 15 Apr 1986 (15),Scunthorpe United (22),1-1,?,Colchester United (40)
+?,(Tue) 1 Oct 1985 (39),Scunthorpe United (23),3-1,?,Crewe Alexandra (40)
+?,(Tue) 22 Apr 1986 (16),Scunthorpe United (24),1-0,?,Exeter City (40)
+?,(Sun) 22 Dec 1985 (50),Scunthorpe United (25),3-3,?,Halifax Town (40)
+?,(Thu) 26 Dec 1985 (51),Scunthorpe United (26),1-0,?,Hartlepool United (40)
+?,(Fri) 25 Oct 1985 (42),Scunthorpe United (27),2-1,?,Hereford United (40)
+?,(Sat) 8 Mar 1986 (9),Scunthorpe United (28),2-2,?,Leyton Orient FC (40)
+?,(Sat) 21 Sep 1985 (37),Scunthorpe United (29),0-3,?,Mansfield Town (40)
+?,(Tue) 18 Mar 1986 (11),Scunthorpe United (30),1-0,?,Northampton Town (40)
+?,(Sat) 11 Jan 1986 (1),Scunthorpe United (31),2-0,?,Peterborough United (40)
+?,(Tue) 22 Oct 1985 (42),Scunthorpe United (32),0-0,?,Port Vale FC (40)
+?,(Fri) 4 Apr 1986 (13),Scunthorpe United (33),1-3,?,Preston North End (40)
+?,(Fri) 18 Apr 1986 (15),Scunthorpe United (34),3-1,?,Rochdale AFC (40)
+?,(Fri) 24 Jan 1986 (3),Scunthorpe United (35),2-0,?,Southend United (18)
+?,(Fri) 28 Mar 1986 (12),Scunthorpe United (36),2-3,?,Stockport County (18)
+?,(Sat) 9 Nov 1985 (44),Scunthorpe United (37),0-2,?,Swindon Town (18)
+?,(Sat) 17 Aug 1985 (32),Scunthorpe United (38),4-0,?,Torquay United (18)
+?,(Fri) 6 Sep 1985 (35),Scunthorpe United (39),0-1,?,Tranmere Rovers (18)
+?,(Mon) 26 Aug 1985 (34),Scunthorpe United (40),1-1,?,Wrexham AFC (18)
+?,(Sat) 15 Mar 1986 (10),Southend United (19),2-0,?,Aldershot Town FC (41)
+?,(Fri) 3 Jan 1986 (0),Southend United (20),2-3,?,Burnley FC (41)
+?,(Sat) 28 Dec 1985 (51),Southend United (21),1-0,?,Cambridge United (41)
+?,(Fri) 29 Nov 1985 (47),Southend United (22),1-1,?,Chester FC (41)
+?,(Tue) 22 Oct 1985 (42),Southend United (23),2-4,?,Colchester United (41)
+?,(Sat) 18 Jan 1986 (2),Southend United (24),0-1,?,Crewe Alexandra (41)
+?,(Fri) 31 Jan 1986 (4),Southend United (25),2-0,?,Exeter City (41)
+?,(Wed) 5 Mar 1986 (9),Southend United (26),2-1,?,Halifax Town (41)
+?,(Sat) 9 Nov 1985 (44),Southend United (27),3-2,?,Hartlepool United (41)
+?,(Fri) 18 Apr 1986 (15),Southend United (28),3-1,?,Hereford United (41)
+?,(Fri) 23 Aug 1985 (33),Southend United (29),5-1,?,Leyton Orient FC (41)
+?,(Tue) 15 Apr 1986 (15),Southend United (30),3-1,?,Mansfield Town (41)
+?,(Fri) 6 Dec 1985 (48),Southend United (31),0-4,?,Northampton Town (41)
+?,(Sat) 29 Mar 1986 (12),Southend United (32),0-1,?,Peterborough United (41)
+?,(Mon) 5 May 1986 (18),Southend United (33),2-1,?,Port Vale FC (41)
+?,(Fri) 25 Oct 1985 (42),Southend United (34),2-1,?,Preston North End (41)
+?,(Fri) 2 May 1986 (17),Southend United (35),5-0,?,Rochdale AFC (41)
+?,(Sat) 14 Sep 1985 (36),Southend United (36),2-1,?,Scunthorpe United (41)
+?,(Tue) 1 Oct 1985 (39),Southend United (37),0-0,?,Stockport County (19)
+?,(Fri) 30 Aug 1985 (34),Southend United (38),0-0,?,Swindon Town (19)
+?,(Fri) 4 Apr 1986 (13),Southend United (39),1-2,?,Torquay United (19)
+?,(Fri) 4 Oct 1985 (39),Southend United (40),2-2,?,Tranmere Rovers (19)
+?,(Fri) 20 Sep 1985 (37),Southend United (41),3-0,?,Wrexham AFC (19)
+?,(Sat) 23 Nov 1985 (46),Stockport County (20),3-2,?,Aldershot Town FC (42)
+?,(Fri) 20 Dec 1985 (50),Stockport County (21),1-1,?,Burnley FC (42)
+?,(Fri) 1 Nov 1985 (43),Stockport County (22),3-1,?,Cambridge United (42)
+?,(Sat) 28 Sep 1985 (38),Stockport County (23),2-2,?,Chester FC (42)
+?,(Fri) 17 Jan 1986 (2),Stockport County (24),1-1,?,Colchester United (42)
+?,(Fri) 31 Jan 1986 (4),Stockport County (25),3-0,?,Crewe Alexandra (42)
+?,(Mon) 24 Feb 1986 (8),Stockport County (26),1-1,?,Exeter City (42)
+?,(Mon) 4 Nov 1985 (44),Stockport County (27),2-1,?,Halifax Town (42)
+?,(Fri) 11 Oct 1985 (40),Stockport County (28),1-3,?,Hartlepool United (42)
+?,(Mon) 16 Sep 1985 (37),Stockport County (29),1-1,?,Hereford United (42)
+?,(Fri) 21 Mar 1986 (11),Stockport County (30),2-3,?,Leyton Orient FC (42)
+?,(Mon) 31 Mar 1986 (13),Stockport County (31),0-2,?,Mansfield Town (42)
+?,(Fri) 21 Feb 1986 (7),Stockport County (32),1-0,?,Northampton Town (42)
+?,(Fri) 18 Oct 1985 (41),Stockport County (33),2-2,?,Peterborough United (42)
+?,(Fri) 11 Apr 1986 (14),Stockport County (34),1-2,?,Port Vale FC (42)
+?,(Fri) 24 Jan 1986 (3),Stockport County (35),2-1,?,Preston North End (42)
+?,(Sat) 28 Dec 1985 (51),Stockport County (36),3-0,?,Rochdale AFC (42)
+?,(Wed) 1 Jan 1986 (0),Stockport County (37),0-0,?,Scunthorpe United (42)
+?,(Mon) 3 Mar 1986 (9),Stockport County (38),2-1,?,Southend United (42)
+?,(Mon) 3 Feb 1986 (5),Stockport County (39),0-2,?,Swindon Town (20)
+?,(Fri) 7 Mar 1986 (9),Stockport County (40),1-1,?,Torquay United (20)
+?,(Fri) 25 Apr 1986 (16),Stockport County (41),1-1,?,Tranmere Rovers (20)
+?,(Fri) 13 Dec 1985 (49),Stockport County (42),2-0,?,Wrexham AFC (20)
+?,(Mon) 31 Mar 1986 (13),Swindon Town (21),4-1,?,Aldershot Town FC (43)
+?,(Sat) 15 Mar 1986 (10),Swindon Town (22),3-1,?,Burnley FC (43)
+?,(Wed) 6 Nov 1985 (44),Swindon Town (23),1-0,?,Cambridge United (43)
+?,(Tue) 8 Apr 1986 (14),Swindon Town (24),4-2,?,Chester FC (43)
+?,(Wed) 1 Jan 1986 (0),Swindon Town (25),2-1,?,Colchester United (43)
+?,(Mon) 5 May 1986 (18),Swindon Town (26),1-0,?,Crewe Alexandra (43)
+?,(Tue) 1 Oct 1985 (39),Swindon Town (27),2-1,?,Exeter City (43)
+?,(Sat) 14 Dec 1985 (49),Swindon Town (28),3-2,?,Halifax Town (43)
+?,(Tue) 25 Mar 1986 (12),Swindon Town (29),3-1,?,Hartlepool United (43)
+?,(Sun) 22 Dec 1985 (50),Swindon Town (30),1-0,?,Hereford United (43)
+?,(Sun) 27 Apr 1986 (16),Swindon Town (31),4-1,?,Leyton Orient FC (43)
+?,(Sat) 23 Nov 1985 (46),Swindon Town (32),2-1,?,Mansfield Town (43)
+?,(Fri) 6 Sep 1985 (35),Swindon Town (33),3-2,?,Northampton Town (43)
+?,(Tue) 15 Apr 1986 (15),Swindon Town (34),3-0,?,Peterborough United (43)
+?,(Sun) 23 Mar 1986 (11),Swindon Town (35),0-0,?,Port Vale FC (43)
+?,(Sat) 7 Dec 1985 (48),Swindon Town (36),4-1,?,Preston North End (43)
+?,(Sat) 5 Oct 1985 (39),Swindon Town (37),4-0,?,Rochdale AFC (43)
+?,(Sat) 12 Apr 1986 (14),Swindon Town (38),1-1,?,Scunthorpe United (43)
+?,(Sun) 12 Jan 1986 (1),Swindon Town (39),2-1,?,Southend United (43)
+?,(Tue) 22 Oct 1985 (42),Swindon Town (40),1-0,?,Stockport County (43)
+?,(Mon) 26 Aug 1985 (34),Swindon Town (41),2-1,?,Torquay United (21)
+?,(Sat) 2 Nov 1985 (43),Swindon Town (42),2-1,?,Tranmere Rovers (21)
+?,(Sat) 17 Aug 1985 (32),Swindon Town (43),0-1,?,Wrexham AFC (21)
+?,(Tue) 8 Apr 1986 (14),Torquay United (22),1-2,?,Aldershot Town FC (44)
+?,(Tue) 4 Feb 1986 (5),Torquay United (23),2-0,?,Burnley FC (44)
+?,(Sat) 14 Dec 1985 (49),Torquay United (24),1-1,?,Cambridge United (44)
+?,(Sat) 14 Sep 1985 (36),Torquay United (25),0-3,?,Chester FC (44)
+?,(Sat) 31 Aug 1985 (34),Torquay United (26),2-1,?,Colchester United (44)
+?,(Sat) 1 Mar 1986 (8),Torquay United (27),0-0,?,Crewe Alexandra (44)
+?,(Tue) 1 Apr 1986 (13),Torquay United (28),1-2,?,Exeter City (44)
+?,(Tue) 1 Oct 1985 (39),Torquay United (29),2-0,?,Halifax Town (44)
+?,(Sat) 21 Sep 1985 (37),Torquay United (30),1-3,?,Hartlepool United (44)
+?,(Sat) 15 Mar 1986 (10),Torquay United (31),2-1,?,Hereford United (44)
+?,(Sat) 2 Nov 1985 (43),Torquay United (32),2-2,?,Leyton Orient FC (44)
+?,(Sat) 22 Mar 1986 (11),Torquay United (33),1-2,?,Mansfield Town (44)
+?,(Sat) 19 Oct 1985 (41),Torquay United (34),1-1,?,Northampton Town (44)
+?,(Tue) 11 Mar 1986 (10),Torquay United (35),2-0,?,Peterborough United (44)
+?,(Sat) 26 Apr 1986 (16),Torquay United (36),0-1,?,Port Vale FC (44)
+?,(Sat) 1 Feb 1986 (4),Torquay United (37),1-0,?,Preston North End (44)
+?,(Sat) 24 Aug 1985 (33),Torquay United (38),1-2,?,Rochdale AFC (44)
+?,(Sat) 18 Jan 1986 (2),Torquay United (39),1-0,?,Scunthorpe United (44)
+?,(Wed) 6 Nov 1985 (44),Torquay United (40),2-2,?,Southend United (44)
+?,(Sat) 5 Oct 1985 (39),Torquay United (41),4-3,?,Stockport County (44)
+?,(Sat) 28 Dec 1985 (51),Torquay United (42),0-1,?,Swindon Town (44)
+?,(Sat) 12 Apr 1986 (14),Torquay United (43),1-2,?,Tranmere Rovers (22)
+?,(Sat) 23 Nov 1985 (46),Torquay United (44),1-3,?,Wrexham AFC (22)
+?,(Sat) 21 Sep 1985 (37),Tranmere Rovers (23),3-0,?,Aldershot Town FC (45)
+?,(Thu) 26 Dec 1985 (51),Tranmere Rovers (24),2-1,?,Burnley FC (45)
+?,(Fri) 23 Aug 1985 (33),Tranmere Rovers (25),6-2,?,Cambridge United (45)
+?,(Sat) 31 Aug 1985 (34),Tranmere Rovers (26),2-3,?,Chester FC (45)
+?,(Sat) 14 Sep 1985 (36),Tranmere Rovers (27),3-4,?,Colchester United (45)
+?,(Sat) 29 Mar 1986 (12),Tranmere Rovers (28),0-1,?,Crewe Alexandra (45)
+?,(Fri) 28 Feb 1986 (8),Tranmere Rovers (29),0-1,?,Exeter City (45)
+?,(Fri) 7 Feb 1986 (5),Tranmere Rovers (30),0-3,?,Halifax Town (45)
+?,(Fri) 18 Apr 1986 (15),Tranmere Rovers (31),4-2,?,Hartlepool United (45)
+?,(Fri) 2 May 1986 (17),Tranmere Rovers (32),1-2,?,Hereford United (45)
+?,(Fri) 17 Jan 1986 (2),Tranmere Rovers (33),0-3,?,Leyton Orient FC (45)
+?,(Tue) 22 Oct 1985 (42),Tranmere Rovers (34),1-2,?,Mansfield Town (45)
+?,(Fri) 4 Apr 1986 (13),Tranmere Rovers (35),1-3,?,Northampton Town (45)
+?,(Tue) 29 Oct 1985 (43),Tranmere Rovers (36),7-0,?,Peterborough United (45)
+?,(Sat) 12 Oct 1985 (40),Tranmere Rovers (37),1-2,?,Port Vale FC (45)
+?,(Tue) 25 Mar 1986 (12),Tranmere Rovers (38),2-3,?,Preston North End (45)
+?,(Sat) 26 Oct 1985 (42),Tranmere Rovers (39),2-0,?,Rochdale AFC (45)
+?,(Fri) 31 Jan 1986 (4),Tranmere Rovers (40),2-1,?,Scunthorpe United (45)
+?,(Fri) 7 Mar 1986 (9),Tranmere Rovers (41),1-1,?,Southend United (45)
+?,(Fri) 29 Nov 1985 (47),Tranmere Rovers (42),2-3,?,Stockport County (45)
+?,(Sat) 4 Jan 1986 (0),Tranmere Rovers (43),3-1,?,Swindon Town (45)
+?,(Sat) 9 Nov 1985 (44),Tranmere Rovers (44),2-0,?,Torquay United (45)
+?,(Sat) 15 Feb 1986 (6),Tranmere Rovers (45),1-3,?,Wrexham AFC (23)
+?,(Tue) 25 Mar 1986 (12),Wrexham AFC (24),4-1,?,Aldershot Town FC (46)
+?,(Sat) 29 Mar 1986 (12),Wrexham AFC (25),0-1,?,Burnley FC (46)
+?,(Tue) 15 Oct 1985 (41),Wrexham AFC (26),6-2,?,Cambridge United (46)
+?,(Sat) 26 Oct 1985 (42),Wrexham AFC (27),1-1,?,Chester FC (46)
+?,(Sat) 24 Aug 1985 (33),Wrexham AFC (28),2-1,?,Colchester United (46)
+?,(Sat) 31 Aug 1985 (34),Wrexham AFC (29),2-1,?,Crewe Alexandra (46)
+?,(Sat) 14 Sep 1985 (36),Wrexham AFC (30),1-1,?,Exeter City (46)
+?,(Sat) 12 Oct 1985 (40),Wrexham AFC (31),2-1,?,Halifax Town (46)
+?,(Tue) 25 Feb 1986 (8),Wrexham AFC (32),1-0,?,Hartlepool United (46)
+?,(Sat) 9 Nov 1985 (44),Wrexham AFC (33),0-1,?,Hereford United (46)
+?,(Sat) 28 Sep 1985 (38),Wrexham AFC (34),1-3,?,Leyton Orient FC (46)
+?,(Sat) 1 Feb 1986 (4),Wrexham AFC (35),1-2,?,Mansfield Town (46)
+?,(Tue) 4 Mar 1986 (9),Wrexham AFC (36),1-0,?,Northampton Town (46)
+?,(Sat) 5 Apr 1986 (13),Wrexham AFC (37),0-1,?,Peterborough United (46)
+?,(Sat) 8 Mar 1986 (9),Wrexham AFC (38),1-3,?,Port Vale FC (46)
+?,(Thu) 26 Dec 1985 (51),Wrexham AFC (39),1-1,?,Preston North End (46)
+?,(Tue) 11 Mar 1986 (10),Wrexham AFC (40),2-0,?,Rochdale AFC (46)
+?,(Tue) 29 Apr 1986 (17),Wrexham AFC (41),1-0,?,Scunthorpe United (46)
+?,(Tue) 8 Apr 1986 (14),Wrexham AFC (42),0-0,?,Southend United (46)
+?,(Sat) 3 May 1986 (17),Wrexham AFC (43),3-0,?,Stockport County (46)
+?,(Sat) 18 Jan 1986 (2),Wrexham AFC (44),0-1,?,Swindon Town (46)
+?,(Sat) 19 Apr 1986 (15),Wrexham AFC (45),3-2,?,Torquay United (46)
+?,(Tue) 17 Sep 1985 (37),Wrexham AFC (46),1-1,?,Tranmere Rovers (46)

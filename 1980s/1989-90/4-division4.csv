@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Burnley,Aldershot,0-0,-
--,-,Cambridge United,Aldershot,2-2,-
--,-,Carlisle United,Aldershot,1-3,-
--,-,Chesterfield,Aldershot,2-0,-
--,-,Colchester United,Aldershot,1-0,-
--,-,Doncaster Rovers,Aldershot,0-1,-
--,-,Exeter City,Aldershot,2-0,-
--,-,Gillingham,Aldershot,0-0,-
--,-,Grimsby Town,Aldershot,2-1,-
--,-,Halifax Town,Aldershot,4-2,-
--,-,Hartlepool United,Aldershot,2-0,-
--,-,Hereford United,Aldershot,4-1,-
--,-,Lincoln City,Aldershot,0-1,-
--,-,Maidstone United,Aldershot,5-1,-
--,-,Peterborough United,Aldershot,1-1,-
--,-,Rochdale,Aldershot,2-0,-
--,-,Scarborough,Aldershot,1-0,-
--,-,Scunthorpe United,Aldershot,3-2,-
--,-,Southend United,Aldershot,5-0,-
--,-,Stockport County,Aldershot,1-1,-
--,-,Torquay United,Aldershot,1-2,-
--,-,Wrexham,Aldershot,2-2,-
--,-,York City,Aldershot,2-2,-
--,-,Aldershot,Burnley,1-1,-
--,-,Cambridge United,Burnley,0-1,-
--,-,Carlisle United,Burnley,1-1,-
--,-,Chesterfield,Burnley,0-1,-
--,-,Colchester United,Burnley,1-2,-
--,-,Doncaster Rovers,Burnley,2-3,-
--,-,Exeter City,Burnley,2-1,-
--,-,Gillingham,Burnley,0-0,-
--,-,Grimsby Town,Burnley,4-2,-
--,-,Halifax Town,Burnley,0-0,-
--,-,Hartlepool United,Burnley,3-0,-
--,-,Hereford United,Burnley,0-1,-
--,-,Lincoln City,Burnley,1-0,-
--,-,Maidstone United,Burnley,1-2,-
--,-,Peterborough United,Burnley,4-1,-
--,-,Rochdale,Burnley,2-1,-
--,-,Scarborough,Burnley,4-2,-
--,-,Scunthorpe United,Burnley,3-0,-
--,-,Southend United,Burnley,3-2,-
--,-,Stockport County,Burnley,3-1,-
--,-,Torquay United,Burnley,0-1,-
--,-,Wrexham,Burnley,1-0,-
--,-,York City,Burnley,1-3,-
--,-,Aldershot,Cambridge United,0-2,-
--,-,Burnley,Cambridge United,1-3,-
--,-,Carlisle United,Cambridge United,3-1,-
--,-,Chesterfield,Cambridge United,1-1,-
--,-,Colchester United,Cambridge United,1-2,-
--,-,Doncaster Rovers,Cambridge United,2-1,-
--,-,Exeter City,Cambridge United,3-2,-
--,-,Gillingham,Cambridge United,1-0,-
--,-,Grimsby Town,Cambridge United,0-0,-
--,-,Halifax Town,Cambridge United,0-0,-
--,-,Hartlepool United,Cambridge United,1-2,-
--,-,Hereford United,Cambridge United,0-2,-
--,-,Lincoln City,Cambridge United,4-3,-
--,-,Maidstone United,Cambridge United,2-2,-
--,-,Peterborough United,Cambridge United,1-2,-
--,-,Rochdale,Cambridge United,2-0,-
--,-,Scarborough,Cambridge United,1-1,-
--,-,Scunthorpe United,Cambridge United,1-1,-
--,-,Southend United,Cambridge United,0-0,-
--,-,Stockport County,Cambridge United,3-1,-
--,-,Torquay United,Cambridge United,3-0,-
--,-,Wrexham,Cambridge United,2-3,-
--,-,York City,Cambridge United,4-2,-
--,-,Aldershot,Carlisle United,1-0,-
--,-,Burnley,Carlisle United,2-1,-
--,-,Cambridge United,Carlisle United,1-2,-
--,-,Chesterfield,Carlisle United,3-0,-
--,-,Colchester United,Carlisle United,4-0,-
--,-,Doncaster Rovers,Carlisle United,1-1,-
--,-,Exeter City,Carlisle United,0-0,-
--,-,Gillingham,Carlisle United,2-1,-
--,-,Grimsby Town,Carlisle United,1-0,-
--,-,Halifax Town,Carlisle United,1-1,-
--,-,Hartlepool United,Carlisle United,1-0,-
--,-,Hereford United,Carlisle United,2-2,-
--,-,Lincoln City,Carlisle United,1-3,-
--,-,Maidstone United,Carlisle United,5-2,-
--,-,Peterborough United,Carlisle United,3-0,-
--,-,Rochdale,Carlisle United,1-2,-
--,-,Scarborough,Carlisle United,2-1,-
--,-,Scunthorpe United,Carlisle United,2-3,-
--,-,Southend United,Carlisle United,2-0,-
--,-,Stockport County,Carlisle United,3-1,-
--,-,Torquay United,Carlisle United,1-2,-
--,-,Wrexham,Carlisle United,1-0,-
--,-,York City,Carlisle United,0-1,-
--,-,Aldershot,Chesterfield,0-0,-
--,-,Burnley,Chesterfield,0-0,-
--,-,Cambridge United,Chesterfield,0-1,-
--,-,Carlisle United,Chesterfield,4-3,-
--,-,Colchester United,Chesterfield,1-0,-
--,-,Doncaster Rovers,Chesterfield,1-0,-
--,-,Exeter City,Chesterfield,2-1,-
--,-,Gillingham,Chesterfield,3-0,-
--,-,Grimsby Town,Chesterfield,0-1,-
--,-,Halifax Town,Chesterfield,1-1,-
--,-,Hartlepool United,Chesterfield,3-1,-
--,-,Hereford United,Chesterfield,3-2,-
--,-,Lincoln City,Chesterfield,1-1,-
--,-,Maidstone United,Chesterfield,0-1,-
--,-,Peterborough United,Chesterfield,1-1,-
--,-,Rochdale,Chesterfield,1-0,-
--,-,Scarborough,Chesterfield,2-3,-
--,-,Scunthorpe United,Chesterfield,0-1,-
--,-,Southend United,Chesterfield,0-2,-
--,-,Stockport County,Chesterfield,3-1,-
--,-,Torquay United,Chesterfield,1-0,-
--,-,Wrexham,Chesterfield,0-2,-
--,-,York City,Chesterfield,4-0,-
--,-,Aldershot,Colchester United,4-0,-
--,-,Burnley,Colchester United,0-0,-
--,-,Cambridge United,Colchester United,4-0,-
--,-,Carlisle United,Colchester United,1-0,-
--,-,Chesterfield,Colchester United,1-1,-
--,-,Doncaster Rovers,Colchester United,2-0,-
--,-,Exeter City,Colchester United,2-1,-
--,-,Gillingham,Colchester United,3-3,-
--,-,Grimsby Town,Colchester United,4-1,-
--,-,Halifax Town,Colchester United,1-1,-
--,-,Hartlepool United,Colchester United,0-2,-
--,-,Hereford United,Colchester United,2-0,-
--,-,Lincoln City,Colchester United,2-1,-
--,-,Maidstone United,Colchester United,4-1,-
--,-,Peterborough United,Colchester United,1-0,-
--,-,Rochdale,Colchester United,2-2,-
--,-,Scarborough,Colchester United,2-2,-
--,-,Scunthorpe United,Colchester United,4-0,-
--,-,Southend United,Colchester United,0-2,-
--,-,Stockport County,Colchester United,1-1,-
--,-,Torquay United,Colchester United,4-1,-
--,-,Wrexham,Colchester United,3-2,-
--,-,York City,Colchester United,3-1,-
--,-,Aldershot,Doncaster Rovers,1-1,-
--,-,Burnley,Doncaster Rovers,0-1,-
--,-,Cambridge United,Doncaster Rovers,1-0,-
--,-,Carlisle United,Doncaster Rovers,1-0,-
--,-,Chesterfield,Doncaster Rovers,0-1,-
--,-,Colchester United,Doncaster Rovers,2-0,-
--,-,Exeter City,Doncaster Rovers,1-0,-
--,-,Gillingham,Doncaster Rovers,3-1,-
--,-,Grimsby Town,Doncaster Rovers,2-1,-
--,-,Halifax Town,Doncaster Rovers,0-2,-
--,-,Hartlepool United,Doncaster Rovers,0-6,-
--,-,Hereford United,Doncaster Rovers,0-1,-
--,-,Lincoln City,Doncaster Rovers,2-1,-
--,-,Maidstone United,Doncaster Rovers,1-0,-
--,-,Peterborough United,Doncaster Rovers,2-1,-
--,-,Rochdale,Doncaster Rovers,1-3,-
--,-,Scarborough,Doncaster Rovers,1-2,-
--,-,Scunthorpe United,Doncaster Rovers,4-1,-
--,-,Southend United,Doncaster Rovers,2-0,-
--,-,Stockport County,Doncaster Rovers,3-1,-
--,-,Torquay United,Doncaster Rovers,2-0,-
--,-,Wrexham,Doncaster Rovers,0-0,-
--,-,York City,Doncaster Rovers,2-1,-
--,-,Aldershot,Exeter City,0-1,-
--,-,Burnley,Exeter City,1-0,-
--,-,Cambridge United,Exeter City,3-2,-
--,-,Carlisle United,Exeter City,1-0,-
--,-,Chesterfield,Exeter City,2-1,-
--,-,Colchester United,Exeter City,0-1,-
--,-,Doncaster Rovers,Exeter City,2-1,-
--,-,Gillingham,Exeter City,1-1,-
--,-,Grimsby Town,Exeter City,1-0,-
--,-,Halifax Town,Exeter City,1-2,-
--,-,Hartlepool United,Exeter City,0-3,-
--,-,Hereford United,Exeter City,2-1,-
--,-,Lincoln City,Exeter City,1-5,-
--,-,Maidstone United,Exeter City,1-0,-
--,-,Peterborough United,Exeter City,4-3,-
--,-,Rochdale,Exeter City,1-0,-
--,-,Scarborough,Exeter City,1-2,-
--,-,Scunthorpe United,Exeter City,5-4,-
--,-,Southend United,Exeter City,1-2,-
--,-,Stockport County,Exeter City,2-1,-
--,-,Torquay United,Exeter City,0-2,-
--,-,Wrexham,Exeter City,1-1,-
--,-,York City,Exeter City,3-0,-
--,-,Aldershot,Gillingham,1-0,-
--,-,Burnley,Gillingham,1-2,-
--,-,Cambridge United,Gillingham,2-1,-
--,-,Carlisle United,Gillingham,3-0,-
--,-,Chesterfield,Gillingham,2-0,-
--,-,Colchester United,Gillingham,2-0,-
--,-,Doncaster Rovers,Gillingham,0-0,-
--,-,Exeter City,Gillingham,3-1,-
--,-,Grimsby Town,Gillingham,2-0,-
--,-,Halifax Town,Gillingham,0-1,-
--,-,Hartlepool United,Gillingham,1-2,-
--,-,Hereford United,Gillingham,1-2,-
--,-,Lincoln City,Gillingham,1-3,-
--,-,Maidstone United,Gillingham,0-1,-
--,-,Peterborough United,Gillingham,1-1,-
--,-,Rochdale,Gillingham,1-0,-
--,-,Scarborough,Gillingham,0-1,-
--,-,Scunthorpe United,Gillingham,0-0,-
--,-,Southend United,Gillingham,2-0,-
--,-,Stockport County,Gillingham,1-0,-
--,-,Torquay United,Gillingham,0-2,-
--,-,Wrexham,Gillingham,2-1,-
--,-,York City,Gillingham,1-0,-
--,-,Aldershot,Grimsby Town,0-0,-
--,-,Burnley,Grimsby Town,1-1,-
--,-,Cambridge United,Grimsby Town,2-0,-
--,-,Carlisle United,Grimsby Town,1-1,-
--,-,Chesterfield,Grimsby Town,2-0,-
--,-,Colchester United,Grimsby Town,1-0,-
--,-,Doncaster Rovers,Grimsby Town,0-0,-
--,-,Exeter City,Grimsby Town,2-1,-
--,-,Gillingham,Grimsby Town,1-2,-
--,-,Halifax Town,Grimsby Town,2-2,-
--,-,Hartlepool United,Grimsby Town,4-2,-
--,-,Hereford United,Grimsby Town,0-1,-
--,-,Lincoln City,Grimsby Town,1-1,-
--,-,Maidstone United,Grimsby Town,2-2,-
--,-,Peterborough United,Grimsby Town,1-1,-
--,-,Rochdale,Grimsby Town,0-1,-
--,-,Scarborough,Grimsby Town,3-1,-
--,-,Scunthorpe United,Grimsby Town,2-2,-
--,-,Southend United,Grimsby Town,0-2,-
--,-,Stockport County,Grimsby Town,2-4,-
--,-,Torquay United,Grimsby Town,0-3,-
--,-,Wrexham,Grimsby Town,0-1,-
--,-,York City,Grimsby Town,0-1,-
--,-,Aldershot,Halifax Town,2-0,-
--,-,Burnley,Halifax Town,1-0,-
--,-,Cambridge United,Halifax Town,1-0,-
--,-,Carlisle United,Halifax Town,1-1,-
--,-,Chesterfield,Halifax Town,4-3,-
--,-,Colchester United,Halifax Town,2-2,-
--,-,Doncaster Rovers,Halifax Town,3-4,-
--,-,Exeter City,Halifax Town,2-0,-
--,-,Gillingham,Halifax Town,3-1,-
--,-,Grimsby Town,Halifax Town,1-1,-
--,-,Hartlepool United,Halifax Town,2-0,-
--,-,Hereford United,Halifax Town,0-1,-
--,-,Lincoln City,Halifax Town,2-1,-
--,-,Maidstone United,Halifax Town,1-2,-
--,-,Peterborough United,Halifax Town,3-0,-
--,-,Rochdale,Halifax Town,0-2,-
--,-,Scarborough,Halifax Town,2-3,-
--,-,Scunthorpe United,Halifax Town,1-1,-
--,-,Southend United,Halifax Town,2-0,-
--,-,Stockport County,Halifax Town,0-1,-
--,-,Torquay United,Halifax Town,1-0,-
--,-,Wrexham,Halifax Town,2-1,-
--,-,York City,Halifax Town,0-2,-
--,-,Aldershot,Hartlepool United,6-1,-
--,-,Burnley,Hartlepool United,0-0,-
--,-,Cambridge United,Hartlepool United,2-1,-
--,-,Carlisle United,Hartlepool United,1-0,-
--,-,Chesterfield,Hartlepool United,3-1,-
--,-,Colchester United,Hartlepool United,3-1,-
--,-,Doncaster Rovers,Hartlepool United,2-2,-
--,-,Exeter City,Hartlepool United,3-1,-
--,-,Gillingham,Hartlepool United,0-0,-
--,-,Grimsby Town,Hartlepool United,0-0,-
--,-,Halifax Town,Hartlepool United,4-0,-
--,-,Hereford United,Hartlepool United,4-1,-
--,-,Lincoln City,Hartlepool United,4-1,-
--,-,Maidstone United,Hartlepool United,4-2,-
--,-,Peterborough United,Hartlepool United,0-2,-
--,-,Rochdale,Hartlepool United,0-0,-
--,-,Scarborough,Hartlepool United,4-1,-
--,-,Scunthorpe United,Hartlepool United,0-1,-
--,-,Southend United,Hartlepool United,3-0,-
--,-,Stockport County,Hartlepool United,6-0,-
--,-,Torquay United,Hartlepool United,4-3,-
--,-,Wrexham,Hartlepool United,1-2,-
--,-,York City,Hartlepool United,1-1,-
--,-,Aldershot,Hereford United,0-2,-
--,-,Burnley,Hereford United,3-1,-
--,-,Cambridge United,Hereford United,0-1,-
--,-,Carlisle United,Hereford United,2-1,-
--,-,Chesterfield,Hereford United,2-1,-
--,-,Colchester United,Hereford United,1-1,-
--,-,Doncaster Rovers,Hereford United,0-1,-
--,-,Exeter City,Hereford United,2-0,-
--,-,Gillingham,Hereford United,0-1,-
--,-,Grimsby Town,Hereford United,0-2,-
--,-,Halifax Town,Hereford United,1-1,-
--,-,Hartlepool United,Hereford United,1-2,-
--,-,Lincoln City,Hereford United,1-0,-
--,-,Maidstone United,Hereford United,2-0,-
--,-,Peterborough United,Hereford United,1-1,-
--,-,Rochdale,Hereford United,5-2,-
--,-,Scarborough,Hereford United,0-1,-
--,-,Scunthorpe United,Hereford United,3-3,-
--,-,Southend United,Hereford United,2-0,-
--,-,Stockport County,Hereford United,2-1,-
--,-,Torquay United,Hereford United,1-1,-
--,-,Wrexham,Hereford United,0-0,-
--,-,York City,Hereford United,1-2,-
--,-,Aldershot,Lincoln City,0-1,-
--,-,Burnley,Lincoln City,0-0,-
--,-,Cambridge United,Lincoln City,2-1,-
--,-,Carlisle United,Lincoln City,1-2,-
--,-,Chesterfield,Lincoln City,0-0,-
--,-,Colchester United,Lincoln City,0-1,-
--,-,Doncaster Rovers,Lincoln City,0-1,-
--,-,Exeter City,Lincoln City,3-0,-
--,-,Gillingham,Lincoln City,1-1,-
--,-,Grimsby Town,Lincoln City,1-0,-
--,-,Halifax Town,Lincoln City,0-1,-
--,-,Hartlepool United,Lincoln City,1-1,-
--,-,Hereford United,Lincoln City,2-2,-
--,-,Maidstone United,Lincoln City,2-0,-
--,-,Peterborough United,Lincoln City,1-0,-
--,-,Rochdale,Lincoln City,1-0,-
--,-,Scarborough,Lincoln City,2-0,-
--,-,Scunthorpe United,Lincoln City,1-1,-
--,-,Southend United,Lincoln City,2-0,-
--,-,Stockport County,Lincoln City,1-1,-
--,-,Torquay United,Lincoln City,0-3,-
--,-,Wrexham,Lincoln City,0-2,-
--,-,York City,Lincoln City,0-0,-
--,-,Aldershot,Maidstone United,0-2,-
--,-,Burnley,Maidstone United,1-1,-
--,-,Cambridge United,Maidstone United,2-0,-
--,-,Carlisle United,Maidstone United,3-2,-
--,-,Chesterfield,Maidstone United,3-1,-
--,-,Colchester United,Maidstone United,4-1,-
--,-,Doncaster Rovers,Maidstone United,1-1,-
--,-,Exeter City,Maidstone United,2-0,-
--,-,Gillingham,Maidstone United,1-2,-
--,-,Grimsby Town,Maidstone United,2-3,-
--,-,Halifax Town,Maidstone United,1-2,-
--,-,Hartlepool United,Maidstone United,4-2,-
--,-,Hereford United,Maidstone United,3-0,-
--,-,Lincoln City,Maidstone United,1-2,-
--,-,Peterborough United,Maidstone United,1-0,-
--,-,Rochdale,Maidstone United,3-2,-
--,-,Scarborough,Maidstone United,0-1,-
--,-,Scunthorpe United,Maidstone United,1-0,-
--,-,Southend United,Maidstone United,0-1,-
--,-,Stockport County,Maidstone United,1-2,-
--,-,Torquay United,Maidstone United,2-1,-
--,-,Wrexham,Maidstone United,4-2,-
--,-,York City,Maidstone United,0-0,-
--,-,Aldershot,Peterborough United,0-1,-
--,-,Burnley,Peterborough United,1-2,-
--,-,Cambridge United,Peterborough United,3-2,-
--,-,Carlisle United,Peterborough United,0-0,-
--,-,Chesterfield,Peterborough United,1-1,-
--,-,Colchester United,Peterborough United,0-1,-
--,-,Doncaster Rovers,Peterborough United,0-3,-
--,-,Exeter City,Peterborough United,2-0,-
--,-,Gillingham,Peterborough United,0-0,-
--,-,Grimsby Town,Peterborough United,1-2,-
--,-,Halifax Town,Peterborough United,2-2,-
--,-,Hartlepool United,Peterborough United,2-2,-
--,-,Hereford United,Peterborough United,1-2,-
--,-,Lincoln City,Peterborough United,1-0,-
--,-,Maidstone United,Peterborough United,1-1,-
--,-,Rochdale,Peterborough United,1-2,-
--,-,Scarborough,Peterborough United,2-1,-
--,-,Scunthorpe United,Peterborough United,0-0,-
--,-,Southend United,Peterborough United,0-0,-
--,-,Stockport County,Peterborough United,0-0,-
--,-,Torquay United,Peterborough United,2-1,-
--,-,Wrexham,Peterborough United,2-1,-
--,-,York City,Peterborough United,1-0,-
--,-,Aldershot,Rochdale,1-1,-
--,-,Burnley,Rochdale,0-1,-
--,-,Cambridge United,Rochdale,0-3,-
--,-,Carlisle United,Rochdale,0-1,-
--,-,Chesterfield,Rochdale,2-1,-
--,-,Colchester United,Rochdale,1-2,-
--,-,Doncaster Rovers,Rochdale,4-0,-
--,-,Exeter City,Rochdale,5-0,-
--,-,Gillingham,Rochdale,1-0,-
--,-,Grimsby Town,Rochdale,1-2,-
--,-,Halifax Town,Rochdale,1-0,-
--,-,Hartlepool United,Rochdale,2-1,-
--,-,Hereford United,Rochdale,1-3,-
--,-,Lincoln City,Rochdale,1-2,-
--,-,Maidstone United,Rochdale,2-0,-
--,-,Peterborough United,Rochdale,0-1,-
--,-,Scarborough,Rochdale,2-1,-
--,-,Scunthorpe United,Rochdale,0-1,-
--,-,Southend United,Rochdale,3-2,-
--,-,Stockport County,Rochdale,2-1,-
--,-,Torquay United,Rochdale,1-0,-
--,-,Wrexham,Rochdale,1-1,-
--,-,York City,Rochdale,1-0,-
--,-,Aldershot,Scarborough,1-1,-
--,-,Burnley,Scarborough,3-0,-
--,-,Cambridge United,Scarborough,5-2,-
--,-,Carlisle United,Scarborough,3-1,-
--,-,Chesterfield,Scarborough,2-2,-
--,-,Colchester United,Scarborough,0-0,-
--,-,Doncaster Rovers,Scarborough,1-1,-
--,-,Exeter City,Scarborough,3-2,-
--,-,Gillingham,Scarborough,2-0,-
--,-,Grimsby Town,Scarborough,3-0,-
--,-,Halifax Town,Scarborough,1-2,-
--,-,Hartlepool United,Scarborough,4-1,-
--,-,Hereford United,Scarborough,3-1,-
--,-,Lincoln City,Scarborough,0-0,-
--,-,Maidstone United,Scarborough,4-1,-
--,-,Peterborough United,Scarborough,1-2,-
--,-,Rochdale,Scarborough,1-0,-
--,-,Scunthorpe United,Scarborough,0-1,-
--,-,Southend United,Scarborough,1-0,-
--,-,Stockport County,Scarborough,3-2,-
--,-,Torquay United,Scarborough,3-2,-
--,-,Wrexham,Scarborough,0-2,-
--,-,York City,Scarborough,1-2,-
--,-,Aldershot,Scunthorpe United,4-2,-
--,-,Burnley,Scunthorpe United,0-1,-
--,-,Cambridge United,Scunthorpe United,5-3,-
--,-,Carlisle United,Scunthorpe United,0-1,-
--,-,Chesterfield,Scunthorpe United,1-1,-
--,-,Colchester United,Scunthorpe United,1-0,-
--,-,Doncaster Rovers,Scunthorpe United,1-2,-
--,-,Exeter City,Scunthorpe United,1-0,-
--,-,Gillingham,Scunthorpe United,0-3,-
--,-,Grimsby Town,Scunthorpe United,2-1,-
--,-,Halifax Town,Scunthorpe United,0-1,-
--,-,Hartlepool United,Scunthorpe United,3-2,-
--,-,Hereford United,Scunthorpe United,1-2,-
--,-,Lincoln City,Scunthorpe United,1-0,-
--,-,Maidstone United,Scunthorpe United,1-1,-
--,-,Peterborough United,Scunthorpe United,1-1,-
--,-,Rochdale,Scunthorpe United,3-0,-
--,-,Scarborough,Scunthorpe United,0-0,-
--,-,Southend United,Scunthorpe United,0-0,-
--,-,Stockport County,Scunthorpe United,4-2,-
--,-,Torquay United,Scunthorpe United,0-3,-
--,-,Wrexham,Scunthorpe United,0-0,-
--,-,York City,Scunthorpe United,0-1,-
--,-,Aldershot,Southend United,0-5,-
--,-,Burnley,Southend United,0-0,-
--,-,Cambridge United,Southend United,2-1,-
--,-,Carlisle United,Southend United,3-0,-
--,-,Chesterfield,Southend United,1-1,-
--,-,Colchester United,Southend United,0-2,-
--,-,Doncaster Rovers,Southend United,0-1,-
--,-,Exeter City,Southend United,2-1,-
--,-,Gillingham,Southend United,5-0,-
--,-,Grimsby Town,Southend United,2-0,-
--,-,Halifax Town,Southend United,1-2,-
--,-,Hartlepool United,Southend United,1-1,-
--,-,Hereford United,Southend United,0-3,-
--,-,Lincoln City,Southend United,2-0,-
--,-,Maidstone United,Southend United,3-0,-
--,-,Peterborough United,Southend United,1-2,-
--,-,Rochdale,Southend United,0-1,-
--,-,Scarborough,Southend United,1-1,-
--,-,Scunthorpe United,Southend United,1-1,-
--,-,Stockport County,Southend United,1-0,-
--,-,Torquay United,Southend United,3-0,-
--,-,Wrexham,Southend United,3-3,-
--,-,York City,Southend United,2-1,-
--,-,Aldershot,Stockport County,2-1,-
--,-,Burnley,Stockport County,0-0,-
--,-,Cambridge United,Stockport County,0-2,-
--,-,Carlisle United,Stockport County,3-1,-
--,-,Chesterfield,Stockport County,1-1,-
--,-,Colchester United,Stockport County,0-1,-
--,-,Doncaster Rovers,Stockport County,2-1,-
--,-,Exeter City,Stockport County,1-1,-
--,-,Gillingham,Stockport County,0-3,-
--,-,Grimsby Town,Stockport County,4-2,-
--,-,Halifax Town,Stockport County,1-2,-
--,-,Hartlepool United,Stockport County,5-0,-
--,-,Hereford United,Stockport County,1-2,-
--,-,Lincoln City,Stockport County,0-0,-
--,-,Maidstone United,Stockport County,0-1,-
--,-,Peterborough United,Stockport County,2-0,-
--,-,Rochdale,Stockport County,1-1,-
--,-,Scarborough,Stockport County,2-0,-
--,-,Scunthorpe United,Stockport County,5-0,-
--,-,Southend United,Stockport County,2-0,-
--,-,Torquay United,Stockport County,3-0,-
--,-,Wrexham,Stockport County,0-1,-
--,-,York City,Stockport County,0-3,-
--,-,Aldershot,Torquay United,1-2,-
--,-,Burnley,Torquay United,1-0,-
--,-,Cambridge United,Torquay United,5-2,-
--,-,Carlisle United,Torquay United,2-0,-
--,-,Chesterfield,Torquay United,5-1,-
--,-,Colchester United,Torquay United,0-3,-
--,-,Doncaster Rovers,Torquay United,2-1,-
--,-,Exeter City,Torquay United,3-0,-
--,-,Gillingham,Torquay United,0-2,-
--,-,Grimsby Town,Torquay United,0-0,-
--,-,Halifax Town,Torquay United,3-1,-
--,-,Hartlepool United,Torquay United,1-1,-
--,-,Hereford United,Torquay United,0-0,-
--,-,Lincoln City,Torquay United,2-2,-
--,-,Maidstone United,Torquay United,5-1,-
--,-,Peterborough United,Torquay United,1-1,-
--,-,Rochdale,Torquay United,0-0,-
--,-,Scarborough,Torquay United,0-0,-
--,-,Scunthorpe United,Torquay United,2-0,-
--,-,Southend United,Torquay United,1-0,-
--,-,Stockport County,Torquay United,1-1,-
--,-,Wrexham,Torquay United,1-1,-
--,-,York City,Torquay United,1-1,-
--,-,Aldershot,Wrexham,1-0,-
--,-,Burnley,Wrexham,2-3,-
--,-,Cambridge United,Wrexham,1-1,-
--,-,Carlisle United,Wrexham,1-0,-
--,-,Chesterfield,Wrexham,3-0,-
--,-,Colchester United,Wrexham,1-3,-
--,-,Doncaster Rovers,Wrexham,2-2,-
--,-,Exeter City,Wrexham,1-1,-
--,-,Gillingham,Wrexham,1-0,-
--,-,Grimsby Town,Wrexham,5-1,-
--,-,Halifax Town,Wrexham,4-2,-
--,-,Hartlepool United,Wrexham,3-0,-
--,-,Hereford United,Wrexham,0-0,-
--,-,Lincoln City,Wrexham,1-0,-
--,-,Maidstone United,Wrexham,2-0,-
--,-,Peterborough United,Wrexham,3-1,-
--,-,Rochdale,Wrexham,0-3,-
--,-,Scarborough,Wrexham,2-1,-
--,-,Scunthorpe United,Wrexham,3-1,-
--,-,Southend United,Wrexham,2-1,-
--,-,Stockport County,Wrexham,0-2,-
--,-,Torquay United,Wrexham,0-1,-
--,-,York City,Wrexham,1-0,-
--,-,Aldershot,York City,2-2,-
--,-,Burnley,York City,1-1,-
--,-,Cambridge United,York City,2-2,-
--,-,Carlisle United,York City,2-1,-
--,-,Chesterfield,York City,0-0,-
--,-,Colchester United,York City,0-2,-
--,-,Doncaster Rovers,York City,1-2,-
--,-,Exeter City,York City,3-1,-
--,-,Gillingham,York City,0-0,-
--,-,Grimsby Town,York City,3-0,-
--,-,Halifax Town,York City,2-2,-
--,-,Hartlepool United,York City,1-2,-
--,-,Hereford United,York City,1-2,-
--,-,Lincoln City,York City,0-0,-
--,-,Maidstone United,York City,1-0,-
--,-,Peterborough United,York City,1-1,-
--,-,Rochdale,York City,0-1,-
--,-,Scarborough,York City,1-3,-
--,-,Scunthorpe United,York City,1-1,-
--,-,Southend United,York City,2-0,-
--,-,Stockport County,York City,2-2,-
--,-,Torquay United,York City,1-1,-
--,-,Wrexham,York City,2-0,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 6 Apr 1990 (14),Aldershot Town FC (1),1-1,?,Burnley FC (1)
+?,(Sat) 5 May 1990 (18),Aldershot Town FC (2),0-2,?,Cambridge United (1)
+?,(Tue) 31 Oct 1989 (44),Aldershot Town FC (3),1-0,?,Carlisle United (1)
+?,(Sat) 10 Feb 1990 (6),Aldershot Town FC (4),0-0,?,Chesterfield FC (1)
+?,(Sat) 7 Oct 1989 (40),Aldershot Town FC (5),4-0,?,Colchester United (1)
+?,(Sat) 10 Mar 1990 (10),Aldershot Town FC (6),1-1,?,Doncaster Rovers (1)
+?,(Tue) 26 Dec 1989 (52),Aldershot Town FC (7),0-1,?,Exeter City (1)
+?,(Sat) 20 Jan 1990 (3),Aldershot Town FC (8),1-0,?,Gillingham FC (1)
+?,(Sat) 24 Feb 1990 (8),Aldershot Town FC (9),0-0,?,Grimsby Town (1)
+?,(Sat) 2 Dec 1989 (48),Aldershot Town FC (10),2-0,?,Halifax Town (1)
+?,(Sat) 11 Nov 1989 (45),Aldershot Town FC (11),6-1,?,Hartlepool United (1)
+?,(Tue) 1 May 1990 (18),Aldershot Town FC (12),0-2,?,Hereford United (1)
+?,(Sat) 26 Aug 1989 (34),Aldershot Town FC (13),0-1,?,Lincoln City (1)
+?,(Sat) 14 Apr 1990 (15),Aldershot Town FC (14),0-2,?,Maidstone United (1)
+?,(Tue) 27 Feb 1990 (9),Aldershot Town FC (15),0-1,?,Peterborough United (1)
+?,(Sat) 30 Dec 1989 (52),Aldershot Town FC (16),1-1,?,Rochdale AFC (1)
+?,(Sat) 21 Apr 1990 (16),Aldershot Town FC (17),1-1,?,Scarborough Athletic FC (1)
+?,(Sat) 30 Sep 1989 (39),Aldershot Town FC (18),4-2,?,Scunthorpe United (1)
+?,(Sat) 9 Sep 1989 (36),Aldershot Town FC (19),0-5,?,Southend United (1)
+?,(Sat) 23 Sep 1989 (38),Aldershot Town FC (20),2-1,?,Stockport County (1)
+?,(Sat) 21 Oct 1989 (42),Aldershot Town FC (21),1-2,?,Torquay United (1)
+?,(Tue) 27 Mar 1990 (13),Aldershot Town FC (22),1-0,?,Wrexham AFC (1)
+?,(Sat) 24 Mar 1990 (12),Aldershot Town FC (23),2-2,?,York City (1)
+?,(Sat) 28 Oct 1989 (43),Burnley FC (2),0-0,?,Aldershot Town FC (24)
+?,(Sat) 14 Apr 1990 (15),Burnley FC (3),1-3,?,Cambridge United (2)
+?,(Tue) 26 Dec 1989 (52),Burnley FC (4),2-1,?,Carlisle United (2)
+?,(Tue) 3 Apr 1990 (14),Burnley FC (5),0-0,?,Chesterfield FC (2)
+?,(Sat) 4 Nov 1989 (44),Burnley FC (6),0-0,?,Colchester United (2)
+?,(Sat) 31 Mar 1990 (13),Burnley FC (7),0-1,?,Doncaster Rovers (2)
+?,(Sat) 9 Sep 1989 (36),Burnley FC (8),1-0,?,Exeter City (2)
+?,(Sat) 10 Feb 1990 (6),Burnley FC (9),1-2,?,Gillingham FC (2)
+?,(Sat) 2 Dec 1989 (48),Burnley FC (10),1-1,?,Grimsby Town (2)
+?,(Sat) 30 Dec 1989 (52),Burnley FC (11),1-0,?,Halifax Town (2)
+?,(Sat) 14 Oct 1989 (41),Burnley FC (12),0-0,?,Hartlepool United (2)
+?,(Sat) 23 Sep 1989 (38),Burnley FC (13),3-1,?,Hereford United (2)
+?,(Sat) 24 Feb 1990 (8),Burnley FC (14),0-0,?,Lincoln City (2)
+?,(Sat) 17 Mar 1990 (11),Burnley FC (15),1-1,?,Maidstone United (2)
+?,(Tue) 17 Oct 1989 (42),Burnley FC (16),1-2,?,Peterborough United (2)
+?,(Sat) 20 Jan 1990 (3),Burnley FC (17),0-1,?,Rochdale AFC (2)
+?,(Tue) 9 Jan 1990 (2),Burnley FC (18),3-0,?,Scarborough Athletic FC (2)
+?,(Sat) 28 Apr 1990 (17),Burnley FC (19),0-1,?,Scunthorpe United (2)
+?,(Tue) 10 Apr 1990 (15),Burnley FC (20),0-0,?,Southend United (2)
+?,(Sat) 26 Aug 1989 (34),Burnley FC (21),0-0,?,Stockport County (2)
+?,(Tue) 6 Mar 1990 (10),Burnley FC (22),1-0,?,Torquay United (2)
+?,(Sat) 21 Apr 1990 (16),Burnley FC (23),2-3,?,Wrexham AFC (2)
+?,(Tue) 26 Sep 1989 (39),Burnley FC (24),1-1,?,York City (2)
+?,(Sat) 4 Nov 1989 (44),Cambridge United (3),2-2,?,Aldershot Town FC (25)
+?,(Mon) 1 Jan 1990 (1),Cambridge United (4),0-1,?,Burnley FC (25)
+?,(Tue) 26 Sep 1989 (39),Cambridge United (5),1-2,?,Carlisle United (3)
+?,(Sat) 9 Sep 1989 (36),Cambridge United (6),0-1,?,Chesterfield FC (3)
+?,(Sun) 29 Apr 1990 (17),Cambridge United (7),4-0,?,Colchester United (3)
+?,(Tue) 17 Oct 1989 (42),Cambridge United (8),1-0,?,Doncaster Rovers (3)
+?,(Sat) 10 Feb 1990 (6),Cambridge United (9),3-2,?,Exeter City (3)
+?,(Tue) 1 May 1990 (18),Cambridge United (10),2-1,?,Gillingham FC (3)
+?,(Sat) 20 Jan 1990 (3),Cambridge United (11),2-0,?,Grimsby Town (3)
+?,(Fri) 22 Sep 1989 (38),Cambridge United (12),1-0,?,Halifax Town (3)
+?,(Tue) 10 Apr 1990 (15),Cambridge United (13),2-1,?,Hartlepool United (3)
+?,(Sat) 26 Aug 1989 (34),Cambridge United (14),0-1,?,Hereford United (3)
+?,(Tue) 17 Apr 1990 (16),Cambridge United (15),2-1,?,Lincoln City (3)
+?,(Tue) 6 Mar 1990 (10),Cambridge United (16),2-0,?,Maidstone United (3)
+?,(Sun) 17 Dec 1989 (50),Cambridge United (17),3-2,?,Peterborough United (3)
+?,(Sat) 2 Dec 1989 (48),Cambridge United (18),0-3,?,Rochdale AFC (3)
+?,(Mon) 2 Apr 1990 (14),Cambridge United (19),5-2,?,Scarborough Athletic FC (3)
+?,(Sat) 28 Oct 1989 (43),Cambridge United (20),5-3,?,Scunthorpe United (3)
+?,(Sun) 25 Feb 1990 (8),Cambridge United (21),2-1,?,Southend United (3)
+?,(Mon) 23 Apr 1990 (17),Cambridge United (22),0-2,?,Stockport County (3)
+?,(Fri) 13 Oct 1989 (41),Cambridge United (23),5-2,?,Torquay United (3)
+?,(Fri) 30 Mar 1990 (13),Cambridge United (24),1-1,?,Wrexham AFC (3)
+?,(Fri) 16 Mar 1990 (11),Cambridge United (25),2-2,?,York City (3)
+?,(Tue) 10 Apr 1990 (15),Carlisle United (4),1-3,?,Aldershot Town FC (26)
+?,(Mon) 16 Apr 1990 (16),Carlisle United (5),1-1,?,Burnley FC (26)
+?,(Wed) 4 Apr 1990 (14),Carlisle United (6),3-1,?,Cambridge United (26)
+?,(Sat) 26 Aug 1989 (34),Carlisle United (7),4-3,?,Chesterfield FC (4)
+?,(Sat) 30 Sep 1989 (39),Carlisle United (8),1-0,?,Colchester United (4)
+?,(Tue) 20 Mar 1990 (12),Carlisle United (9),1-0,?,Doncaster Rovers (4)
+?,(Tue) 13 Feb 1990 (7),Carlisle United (10),1-0,?,Exeter City (4)
+?,(Sat) 23 Sep 1989 (38),Carlisle United (11),3-0,?,Gillingham FC (4)
+?,(Sat) 9 Sep 1989 (36),Carlisle United (12),1-1,?,Grimsby Town (4)
+?,(Sat) 10 Feb 1990 (6),Carlisle United (13),1-1,?,Halifax Town (4)
+?,(Sat) 28 Oct 1989 (43),Carlisle United (14),1-0,?,Hartlepool United (4)
+?,(Sat) 20 Jan 1990 (3),Carlisle United (15),2-1,?,Hereford United (4)
+?,(Tue) 24 Apr 1990 (17),Carlisle United (16),1-2,?,Lincoln City (4)
+?,(Sat) 4 Nov 1989 (44),Carlisle United (17),3-2,?,Maidstone United (4)
+?,(Sat) 2 Dec 1989 (48),Carlisle United (18),0-0,?,Peterborough United (4)
+?,(Sat) 24 Feb 1990 (8),Carlisle United (19),0-1,?,Rochdale AFC (4)
+?,(Sat) 31 Mar 1990 (13),Carlisle United (20),3-1,?,Scarborough Athletic FC (4)
+?,(Tue) 17 Oct 1989 (42),Carlisle United (21),0-1,?,Scunthorpe United (4)
+?,(Sat) 6 Jan 1990 (1),Carlisle United (22),3-0,?,Southend United (4)
+?,(Sun) 17 Dec 1989 (50),Carlisle United (23),3-1,?,Stockport County (4)
+?,(Sat) 28 Apr 1990 (17),Carlisle United (24),2-0,?,Torquay United (4)
+?,(Sat) 7 Oct 1989 (40),Carlisle United (25),1-0,?,Wrexham AFC (4)
+?,(Mon) 1 Jan 1990 (1),Carlisle United (26),2-1,?,York City (4)
+?,(Sat) 16 Sep 1989 (37),Chesterfield FC (5),2-0,?,Aldershot Town FC (27)
+?,(Sat) 2 Sep 1989 (35),Chesterfield FC (6),0-1,?,Burnley FC (27)
+?,(Wed) 25 Apr 1990 (17),Chesterfield FC (7),1-1,?,Cambridge United (27)
+?,(Sat) 13 Jan 1990 (2),Chesterfield FC (8),3-0,?,Carlisle United (27)
+?,(Sat) 19 Aug 1989 (33),Chesterfield FC (9),1-1,?,Colchester United (5)
+?,(Mon) 1 Jan 1990 (1),Chesterfield FC (10),0-1,?,Doncaster Rovers (5)
+?,(Tue) 20 Mar 1990 (12),Chesterfield FC (11),2-1,?,Exeter City (5)
+?,(Sat) 31 Mar 1990 (13),Chesterfield FC (12),2-0,?,Gillingham FC (5)
+?,(Sat) 5 May 1990 (18),Chesterfield FC (13),2-0,?,Grimsby Town (5)
+?,(Tue) 17 Oct 1989 (42),Chesterfield FC (14),4-3,?,Halifax Town (5)
+?,(Sat) 25 Nov 1989 (47),Chesterfield FC (15),3-1,?,Hartlepool United (5)
+?,(Sat) 10 Mar 1990 (10),Chesterfield FC (16),2-1,?,Hereford United (5)
+?,(Sat) 7 Oct 1989 (40),Chesterfield FC (17),0-0,?,Lincoln City (5)
+?,(Sat) 3 Feb 1990 (5),Chesterfield FC (18),3-1,?,Maidstone United (5)
+?,(Mon) 16 Apr 1990 (16),Chesterfield FC (19),1-1,?,Peterborough United (5)
+?,(Sat) 30 Sep 1989 (39),Chesterfield FC (20),2-1,?,Rochdale AFC (5)
+?,(Tue) 10 Apr 1990 (15),Chesterfield FC (21),2-2,?,Scarborough Athletic FC (5)
+?,(Tue) 1 May 1990 (18),Chesterfield FC (22),1-1,?,Scunthorpe United (5)
+?,(Sat) 28 Oct 1989 (43),Chesterfield FC (23),1-1,?,Southend United (5)
+?,(Sat) 11 Nov 1989 (45),Chesterfield FC (24),1-1,?,Stockport County (5)
+?,(Sat) 3 Mar 1990 (9),Chesterfield FC (25),5-1,?,Torquay United (5)
+?,(Sat) 17 Feb 1990 (7),Chesterfield FC (26),3-0,?,Wrexham AFC (5)
+?,(Sat) 16 Dec 1989 (50),Chesterfield FC (27),0-0,?,York City (5)
+?,(Sat) 17 Mar 1990 (11),Colchester United (6),1-0,?,Aldershot Town FC (28)
+?,(Sat) 5 May 1990 (18),Colchester United (7),1-2,?,Burnley FC (28)
+?,(Fri) 10 Nov 1989 (45),Colchester United (8),1-2,?,Cambridge United (28)
+?,(Tue) 6 Mar 1990 (10),Colchester United (9),4-0,?,Carlisle United (28)
+?,(Sat) 20 Jan 1990 (3),Colchester United (10),1-0,?,Chesterfield FC (28)
+?,(Tue) 24 Apr 1990 (17),Colchester United (11),2-0,?,Doncaster Rovers (6)
+?,(Tue) 10 Apr 1990 (15),Colchester United (12),0-1,?,Exeter City (6)
+?,(Fri) 23 Feb 1990 (8),Colchester United (13),2-0,?,Gillingham FC (6)
+?,(Tue) 20 Feb 1990 (8),Colchester United (14),1-0,?,Grimsby Town (6)
+?,(Sat) 26 Aug 1989 (34),Colchester United (15),2-2,?,Halifax Town (6)
+?,(Mon) 1 Jan 1990 (1),Colchester United (16),3-1,?,Hartlepool United (6)
+?,(Fri) 8 Sep 1989 (36),Colchester United (17),1-1,?,Hereford United (6)
+?,(Sat) 2 Dec 1989 (48),Colchester United (18),0-1,?,Lincoln City (6)
+?,(Tue) 26 Sep 1989 (39),Colchester United (19),4-1,?,Maidstone United (6)
+?,(Sat) 28 Oct 1989 (43),Colchester United (20),0-1,?,Peterborough United (6)
+?,(Sat) 10 Feb 1990 (6),Colchester United (21),1-2,?,Rochdale AFC (6)
+?,(Sat) 23 Sep 1989 (38),Colchester United (22),0-0,?,Scarborough Athletic FC (6)
+?,(Sat) 31 Mar 1990 (13),Colchester United (23),1-0,?,Scunthorpe United (6)
+?,(Mon) 16 Apr 1990 (16),Colchester United (24),0-2,?,Southend United (6)
+?,(Fri) 5 Jan 1990 (1),Colchester United (25),0-1,?,Stockport County (6)
+?,(Sat) 16 Dec 1989 (50),Colchester United (26),0-3,?,Torquay United (6)
+?,(Tue) 17 Oct 1989 (42),Colchester United (27),1-3,?,Wrexham AFC (6)
+?,(Fri) 13 Oct 1989 (41),Colchester United (28),0-2,?,York City (6)
+?,(Tue) 26 Sep 1989 (39),Doncaster Rovers (7),0-1,?,Aldershot Town FC (29)
+?,(Sat) 21 Oct 1989 (42),Doncaster Rovers (8),2-3,?,Burnley FC (29)
+?,(Sun) 25 Mar 1990 (12),Doncaster Rovers (9),2-1,?,Cambridge United (29)
+?,(Sat) 14 Oct 1989 (41),Doncaster Rovers (10),1-1,?,Carlisle United (29)
+?,(Sat) 14 Apr 1990 (15),Doncaster Rovers (11),1-0,?,Chesterfield FC (29)
+?,(Sat) 30 Dec 1989 (52),Doncaster Rovers (12),2-0,?,Colchester United (29)
+?,(Sat) 20 Jan 1990 (3),Doncaster Rovers (13),2-1,?,Exeter City (7)
+?,(Sat) 26 Aug 1989 (34),Doncaster Rovers (14),0-0,?,Gillingham FC (7)
+?,(Tue) 16 Jan 1990 (3),Doncaster Rovers (15),0-0,?,Grimsby Town (7)
+?,(Sat) 21 Apr 1990 (16),Doncaster Rovers (16),3-4,?,Halifax Town (7)
+?,(Tue) 6 Mar 1990 (10),Doncaster Rovers (17),2-2,?,Hartlepool United (7)
+?,(Sun) 25 Feb 1990 (8),Doncaster Rovers (18),0-1,?,Hereford United (7)
+?,(Tue) 13 Feb 1990 (7),Doncaster Rovers (19),0-1,?,Lincoln City (7)
+?,(Tue) 31 Oct 1989 (44),Doncaster Rovers (20),1-1,?,Maidstone United (7)
+?,(Sat) 9 Sep 1989 (36),Doncaster Rovers (21),0-3,?,Peterborough United (7)
+?,(Sat) 28 Apr 1990 (17),Doncaster Rovers (22),4-0,?,Rochdale AFC (7)
+?,(Sat) 10 Feb 1990 (6),Doncaster Rovers (23),1-1,?,Scarborough Athletic FC (7)
+?,(Sat) 4 Nov 1989 (44),Doncaster Rovers (24),1-2,?,Scunthorpe United (7)
+?,(Fri) 22 Sep 1989 (38),Doncaster Rovers (25),0-1,?,Southend United (7)
+?,(Sat) 2 Dec 1989 (48),Doncaster Rovers (26),2-1,?,Stockport County (7)
+?,(Sat) 17 Mar 1990 (11),Doncaster Rovers (27),2-1,?,Torquay United (7)
+?,(Tue) 26 Dec 1989 (52),Doncaster Rovers (28),2-2,?,Wrexham AFC (7)
+?,(Sat) 7 Apr 1990 (14),Doncaster Rovers (29),1-2,?,York City (7)
+?,(Mon) 16 Apr 1990 (16),Exeter City (8),2-0,?,Aldershot Town FC (30)
+?,(Tue) 1 May 1990 (18),Exeter City (9),2-1,?,Burnley FC (30)
+?,(Sat) 16 Sep 1989 (37),Exeter City (10),3-2,?,Cambridge United (30)
+?,(Sat) 2 Sep 1989 (35),Exeter City (11),0-0,?,Carlisle United (30)
+?,(Sat) 14 Oct 1989 (41),Exeter City (12),2-1,?,Chesterfield FC (30)
+?,(Wed) 1 Nov 1989 (44),Exeter City (13),2-1,?,Colchester United (30)
+?,(Sat) 19 Aug 1989 (33),Exeter City (14),1-0,?,Doncaster Rovers (30)
+?,(Sat) 16 Dec 1989 (50),Exeter City (15),3-1,?,Gillingham FC (8)
+?,(Wed) 27 Sep 1989 (39),Exeter City (16),2-1,?,Grimsby Town (8)
+?,(Wed) 7 Mar 1990 (10),Exeter City (17),2-0,?,Halifax Town (8)
+?,(Sat) 13 Jan 1990 (2),Exeter City (18),3-1,?,Hartlepool United (8)
+?,(Sat) 21 Oct 1989 (42),Exeter City (19),2-0,?,Hereford United (8)
+?,(Sat) 4 Nov 1989 (44),Exeter City (20),3-0,?,Lincoln City (8)
+?,(Sat) 17 Feb 1990 (7),Exeter City (21),2-0,?,Maidstone United (8)
+?,(Sat) 17 Mar 1990 (11),Exeter City (22),2-0,?,Peterborough United (8)
+?,(Sat) 24 Mar 1990 (12),Exeter City (23),5-0,?,Rochdale AFC (8)
+?,(Sat) 28 Apr 1990 (17),Exeter City (24),3-2,?,Scarborough Athletic FC (8)
+?,(Wed) 28 Mar 1990 (13),Exeter City (25),1-0,?,Scunthorpe United (8)
+?,(Wed) 25 Apr 1990 (17),Exeter City (26),2-1,?,Southend United (8)
+?,(Sat) 7 Apr 1990 (14),Exeter City (27),1-1,?,Stockport County (8)
+?,(Mon) 1 Jan 1990 (1),Exeter City (28),3-0,?,Torquay United (8)
+?,(Sat) 25 Nov 1989 (47),Exeter City (29),1-1,?,Wrexham AFC (8)
+?,(Sat) 3 Mar 1990 (9),Exeter City (30),3-1,?,York City (8)
+?,(Sat) 19 Aug 1989 (33),Gillingham FC (9),0-0,?,Aldershot Town FC (31)
+?,(Sat) 16 Sep 1989 (37),Gillingham FC (10),0-0,?,Burnley FC (31)
+?,(Sat) 3 Mar 1990 (9),Gillingham FC (11),1-0,?,Cambridge United (31)
+?,(Tue) 27 Feb 1990 (9),Gillingham FC (12),2-1,?,Carlisle United (31)
+?,(Sat) 21 Oct 1989 (42),Gillingham FC (13),3-0,?,Chesterfield FC (31)
+?,(Fri) 24 Nov 1989 (47),Gillingham FC (14),3-3,?,Colchester United (31)
+?,(Sat) 13 Jan 1990 (2),Gillingham FC (15),3-1,?,Doncaster Rovers (31)
+?,(Sat) 21 Apr 1990 (16),Gillingham FC (16),1-1,?,Exeter City (31)
+?,(Sat) 24 Mar 1990 (12),Gillingham FC (17),1-2,?,Grimsby Town (9)
+?,(Fri) 16 Mar 1990 (11),Gillingham FC (18),3-1,?,Halifax Town (9)
+?,(Sat) 27 Jan 1990 (4),Gillingham FC (19),0-0,?,Hartlepool United (9)
+?,(Sat) 14 Apr 1990 (15),Gillingham FC (20),0-1,?,Hereford United (9)
+?,(Sat) 28 Apr 1990 (17),Gillingham FC (21),1-1,?,Lincoln City (9)
+?,(Tue) 26 Dec 1989 (52),Gillingham FC (22),1-2,?,Maidstone United (9)
+?,(Tue) 6 Mar 1990 (10),Gillingham FC (23),0-0,?,Peterborough United (9)
+?,(Tue) 31 Oct 1989 (44),Gillingham FC (24),1-0,?,Rochdale AFC (9)
+?,(Sat) 4 Nov 1989 (44),Gillingham FC (25),2-0,?,Scarborough Athletic FC (9)
+?,(Sat) 2 Sep 1989 (35),Gillingham FC (26),0-3,?,Scunthorpe United (9)
+?,(Tue) 26 Sep 1989 (39),Gillingham FC (27),5-0,?,Southend United (9)
+?,(Sat) 14 Oct 1989 (41),Gillingham FC (28),0-3,?,Stockport County (9)
+?,(Sat) 7 Apr 1990 (14),Gillingham FC (29),0-2,?,Torquay United (9)
+?,(Sat) 30 Dec 1989 (52),Gillingham FC (30),1-0,?,Wrexham AFC (9)
+?,(Sat) 17 Feb 1990 (7),Gillingham FC (31),0-0,?,York City (9)
+?,(Sat) 25 Nov 1989 (47),Grimsby Town (10),2-1,?,Aldershot Town FC (32)
+?,(Sat) 17 Feb 1990 (7),Grimsby Town (11),4-2,?,Burnley FC (32)
+?,(Sat) 19 Aug 1989 (33),Grimsby Town (12),0-0,?,Cambridge United (32)
+?,(Sat) 27 Jan 1990 (4),Grimsby Town (13),1-0,?,Carlisle United (32)
+?,(Sat) 4 Nov 1989 (44),Grimsby Town (14),0-1,?,Chesterfield FC (32)
+?,(Sat) 2 Sep 1989 (35),Grimsby Town (15),4-1,?,Colchester United (32)
+?,(Sat) 3 Mar 1990 (9),Grimsby Town (16),2-1,?,Doncaster Rovers (32)
+?,(Sat) 10 Mar 1990 (10),Grimsby Town (17),1-0,?,Exeter City (32)
+?,(Tue) 17 Oct 1989 (42),Grimsby Town (18),2-0,?,Gillingham FC (32)
+?,(Sat) 28 Oct 1989 (43),Grimsby Town (19),1-1,?,Halifax Town (10)
+?,(Tue) 24 Apr 1990 (17),Grimsby Town (20),0-0,?,Hartlepool United (10)
+?,(Sat) 30 Sep 1989 (39),Grimsby Town (21),0-2,?,Hereford United (10)
+?,(Sat) 31 Mar 1990 (13),Grimsby Town (22),1-0,?,Lincoln City (10)
+?,(Sat) 16 Sep 1989 (37),Grimsby Town (23),2-3,?,Maidstone United (10)
+?,(Tue) 10 Apr 1990 (15),Grimsby Town (24),1-2,?,Peterborough United (10)
+?,(Sat) 7 Oct 1989 (40),Grimsby Town (25),1-2,?,Rochdale AFC (10)
+?,(Tue) 20 Mar 1990 (12),Grimsby Town (26),3-0,?,Scarborough Athletic FC (10)
+?,(Tue) 17 Apr 1990 (16),Grimsby Town (27),2-1,?,Scunthorpe United (10)
+?,(Tue) 19 Dec 1989 (51),Grimsby Town (28),2-0,?,Southend United (10)
+?,(Mon) 1 Jan 1990 (1),Grimsby Town (29),4-2,?,Stockport County (10)
+?,(Sat) 13 Jan 1990 (2),Grimsby Town (30),0-0,?,Torquay United (10)
+?,(Sat) 28 Apr 1990 (17),Grimsby Town (31),5-1,?,Wrexham AFC (10)
+?,(Sat) 3 Feb 1990 (5),Grimsby Town (32),3-0,?,York City (10)
+?,(Sat) 17 Feb 1990 (7),Halifax Town (11),4-1,?,Aldershot Town FC (33)
+?,(Tue) 24 Apr 1990 (17),Halifax Town (12),0-0,?,Burnley FC (33)
+?,(Fri) 2 Feb 1990 (5),Halifax Town (13),0-0,?,Cambridge United (33)
+?,(Fri) 15 Sep 1989 (37),Halifax Town (14),1-1,?,Carlisle United (33)
+?,(Sat) 24 Mar 1990 (12),Halifax Town (15),1-1,?,Chesterfield FC (33)
+?,(Fri) 12 Jan 1990 (2),Halifax Town (16),1-1,?,Colchester United (33)
+?,(Fri) 15 Dec 1989 (50),Halifax Town (17),0-2,?,Doncaster Rovers (33)
+?,(Sat) 30 Sep 1989 (39),Halifax Town (18),1-2,?,Exeter City (33)
+?,(Fri) 6 Oct 1989 (40),Halifax Town (19),0-1,?,Gillingham FC (33)
+?,(Sat) 7 Apr 1990 (14),Halifax Town (20),2-2,?,Grimsby Town (33)
+?,(Sat) 19 Aug 1989 (33),Halifax Town (21),4-0,?,Hartlepool United (11)
+?,(Tue) 31 Oct 1989 (44),Halifax Town (22),1-1,?,Hereford United (11)
+?,(Tue) 20 Mar 1990 (12),Halifax Town (23),0-1,?,Lincoln City (11)
+?,(Sat) 25 Nov 1989 (47),Halifax Town (24),1-2,?,Maidstone United (11)
+?,(Mon) 1 Jan 1990 (1),Halifax Town (25),2-2,?,Peterborough United (11)
+?,(Sat) 21 Oct 1989 (42),Halifax Town (26),1-0,?,Rochdale AFC (11)
+?,(Sat) 10 Mar 1990 (10),Halifax Town (27),1-2,?,Scarborough Athletic FC (11)
+?,(Sat) 3 Mar 1990 (9),Halifax Town (28),0-1,?,Scunthorpe United (11)
+?,(Fri) 10 Nov 1989 (45),Halifax Town (29),1-2,?,Southend United (11)
+?,(Sat) 5 May 1990 (18),Halifax Town (30),1-2,?,Stockport County (11)
+?,(Sat) 2 Sep 1989 (35),Halifax Town (31),3-1,?,Torquay United (11)
+?,(Fri) 26 Jan 1990 (4),Halifax Town (32),4-2,?,Wrexham AFC (11)
+?,(Mon) 16 Apr 1990 (16),Halifax Town (33),2-2,?,York City (11)
+?,(Sat) 28 Apr 1990 (17),Hartlepool United (12),2-0,?,Aldershot Town FC (34)
+?,(Tue) 20 Mar 1990 (12),Hartlepool United (13),3-0,?,Burnley FC (34)
+?,(Tue) 31 Oct 1989 (44),Hartlepool United (14),1-2,?,Cambridge United (34)
+?,(Sat) 7 Apr 1990 (14),Hartlepool United (15),1-0,?,Carlisle United (34)
+?,(Sat) 24 Feb 1990 (8),Hartlepool United (16),3-1,?,Chesterfield FC (34)
+?,(Sat) 14 Apr 1990 (15),Hartlepool United (17),0-2,?,Colchester United (34)
+?,(Sat) 30 Sep 1989 (39),Hartlepool United (18),0-6,?,Doncaster Rovers (34)
+?,(Sat) 26 Aug 1989 (34),Hartlepool United (19),0-3,?,Exeter City (34)
+?,(Sat) 9 Sep 1989 (36),Hartlepool United (20),1-2,?,Gillingham FC (34)
+?,(Sat) 30 Dec 1989 (52),Hartlepool United (21),4-2,?,Grimsby Town (34)
+?,(Sat) 20 Jan 1990 (3),Hartlepool United (22),2-0,?,Halifax Town (34)
+?,(Sat) 2 Dec 1989 (48),Hartlepool United (23),1-2,?,Hereford United (12)
+?,(Sat) 6 Jan 1990 (1),Hartlepool United (24),1-1,?,Lincoln City (12)
+?,(Sat) 21 Apr 1990 (16),Hartlepool United (25),4-2,?,Maidstone United (12)
+?,(Sat) 23 Sep 1989 (38),Hartlepool United (26),2-2,?,Peterborough United (12)
+?,(Sat) 10 Mar 1990 (10),Hartlepool United (27),2-1,?,Rochdale AFC (12)
+?,(Tue) 26 Dec 1989 (52),Hartlepool United (28),4-1,?,Scarborough Athletic FC (12)
+?,(Sat) 7 Oct 1989 (40),Hartlepool United (29),3-2,?,Scunthorpe United (12)
+?,(Tue) 13 Feb 1990 (7),Hartlepool United (30),1-1,?,Southend United (12)
+?,(Sat) 10 Feb 1990 (6),Hartlepool United (31),5-0,?,Stockport County (12)
+?,(Sat) 24 Mar 1990 (12),Hartlepool United (32),1-1,?,Torquay United (12)
+?,(Sat) 4 Nov 1989 (44),Hartlepool United (33),3-0,?,Wrexham AFC (12)
+?,(Sat) 21 Oct 1989 (42),Hartlepool United (34),1-2,?,York City (12)
+?,(Sat) 3 Mar 1990 (9),Hereford United (13),4-1,?,Aldershot Town FC (35)
+?,(Wed) 28 Mar 1990 (13),Hereford United (14),0-1,?,Burnley FC (35)
+?,(Sat) 13 Jan 1990 (2),Hereford United (15),0-2,?,Cambridge United (35)
+?,(Sat) 19 Aug 1989 (33),Hereford United (16),2-2,?,Carlisle United (35)
+?,(Wed) 27 Sep 1989 (39),Hereford United (17),3-2,?,Chesterfield FC (35)
+?,(Wed) 14 Mar 1990 (11),Hereford United (18),2-0,?,Colchester United (35)
+?,(Sat) 25 Nov 1989 (47),Hereford United (19),0-1,?,Doncaster Rovers (35)
+?,(Sat) 31 Mar 1990 (13),Hereford United (20),2-1,?,Exeter City (35)
+?,(Mon) 1 Jan 1990 (1),Hereford United (21),1-2,?,Gillingham FC (35)
+?,(Wed) 7 Mar 1990 (10),Hereford United (22),0-1,?,Grimsby Town (35)
+?,(Wed) 11 Apr 1990 (15),Hereford United (23),0-1,?,Halifax Town (35)
+?,(Sat) 17 Feb 1990 (7),Hereford United (24),4-1,?,Hartlepool United (35)
+?,(Sat) 28 Oct 1989 (43),Hereford United (25),2-2,?,Lincoln City (13)
+?,(Sat) 2 Sep 1989 (35),Hereford United (26),3-0,?,Maidstone United (13)
+?,(Sat) 28 Apr 1990 (17),Hereford United (27),1-2,?,Peterborough United (13)
+?,(Sat) 4 Nov 1989 (44),Hereford United (28),1-3,?,Rochdale AFC (13)
+?,(Wed) 18 Oct 1989 (42),Hereford United (29),3-1,?,Scarborough Athletic FC (13)
+?,(Sat) 16 Dec 1989 (50),Hereford United (30),1-2,?,Scunthorpe United (13)
+?,(Sat) 14 Oct 1989 (41),Hereford United (31),0-3,?,Southend United (13)
+?,(Sat) 17 Mar 1990 (11),Hereford United (32),1-2,?,Stockport County (13)
+?,(Mon) 16 Apr 1990 (16),Hereford United (33),0-0,?,Torquay United (13)
+?,(Sat) 16 Sep 1989 (37),Hereford United (34),0-0,?,Wrexham AFC (13)
+?,(Wed) 25 Apr 1990 (17),Hereford United (35),1-2,?,York City (13)
+?,(Sat) 13 Jan 1990 (2),Lincoln City (14),0-1,?,Aldershot Town FC (36)
+?,(Sat) 25 Nov 1989 (47),Lincoln City (15),1-0,?,Burnley FC (36)
+?,(Tue) 26 Dec 1989 (52),Lincoln City (16),4-3,?,Cambridge United (36)
+?,(Sat) 30 Dec 1989 (52),Lincoln City (17),1-3,?,Carlisle United (36)
+?,(Sat) 17 Mar 1990 (11),Lincoln City (18),1-1,?,Chesterfield FC (36)
+?,(Sat) 17 Feb 1990 (7),Lincoln City (19),2-1,?,Colchester United (36)
+?,(Sat) 2 Sep 1989 (35),Lincoln City (20),2-1,?,Doncaster Rovers (36)
+?,(Sat) 5 May 1990 (18),Lincoln City (21),1-5,?,Exeter City (36)
+?,(Sat) 11 Nov 1989 (45),Lincoln City (22),1-3,?,Gillingham FC (36)
+?,(Sat) 21 Oct 1989 (42),Lincoln City (23),1-1,?,Grimsby Town (36)
+?,(Sat) 14 Oct 1989 (41),Lincoln City (24),2-1,?,Halifax Town (36)
+?,(Sat) 3 Mar 1990 (9),Lincoln City (25),4-1,?,Hartlepool United (36)
+?,(Sat) 7 Apr 1990 (14),Lincoln City (26),1-0,?,Hereford United (36)
+?,(Sun) 25 Mar 1990 (12),Lincoln City (27),1-2,?,Maidstone United (14)
+?,(Wed) 27 Sep 1989 (39),Lincoln City (28),1-0,?,Peterborough United (14)
+?,(Sat) 21 Apr 1990 (16),Lincoln City (29),1-2,?,Rochdale AFC (14)
+?,(Sat) 14 Apr 1990 (15),Lincoln City (30),0-0,?,Scarborough Athletic FC (14)
+?,(Sat) 19 Aug 1989 (33),Lincoln City (31),1-0,?,Scunthorpe United (14)
+?,(Wed) 7 Mar 1990 (10),Lincoln City (32),2-0,?,Southend United (14)
+?,(Wed) 1 Nov 1989 (44),Lincoln City (33),0-0,?,Stockport County (14)
+?,(Wed) 4 Apr 1990 (14),Lincoln City (34),2-2,?,Torquay United (14)
+?,(Sat) 3 Feb 1990 (5),Lincoln City (35),1-0,?,Wrexham AFC (14)
+?,(Sat) 16 Sep 1989 (37),Lincoln City (36),0-0,?,York City (14)
+?,(Mon) 1 Jan 1990 (1),Maidstone United (15),5-1,?,Aldershot Town FC (37)
+?,(Sat) 7 Oct 1989 (40),Maidstone United (16),1-2,?,Burnley FC (37)
+?,(Sat) 30 Sep 1989 (39),Maidstone United (17),2-2,?,Cambridge United (37)
+?,(Sat) 5 May 1990 (18),Maidstone United (18),5-2,?,Carlisle United (37)
+?,(Sat) 23 Sep 1989 (38),Maidstone United (19),0-1,?,Chesterfield FC (37)
+?,(Sat) 10 Mar 1990 (10),Maidstone United (20),4-1,?,Colchester United (37)
+?,(Wed) 11 Apr 1990 (15),Maidstone United (21),1-0,?,Doncaster Rovers (37)
+?,(Sat) 2 Dec 1989 (48),Maidstone United (22),1-0,?,Exeter City (37)
+?,(Mon) 16 Apr 1990 (16),Maidstone United (23),0-1,?,Gillingham FC (37)
+?,(Sat) 10 Feb 1990 (6),Maidstone United (24),2-2,?,Grimsby Town (37)
+?,(Sat) 24 Feb 1990 (8),Maidstone United (25),1-2,?,Halifax Town (37)
+?,(Sat) 16 Dec 1989 (50),Maidstone United (26),4-2,?,Hartlepool United (37)
+?,(Wed) 14 Feb 1990 (7),Maidstone United (27),2-0,?,Hereford United (37)
+?,(Wed) 18 Oct 1989 (42),Maidstone United (28),2-0,?,Lincoln City (37)
+?,(Sat) 20 Jan 1990 (3),Maidstone United (29),1-1,?,Peterborough United (15)
+?,(Wed) 4 Apr 1990 (14),Maidstone United (30),2-0,?,Rochdale AFC (15)
+?,(Sat) 26 Aug 1989 (34),Maidstone United (31),4-1,?,Scarborough Athletic FC (15)
+?,(Wed) 21 Mar 1990 (12),Maidstone United (32),1-1,?,Scunthorpe United (15)
+?,(Sat) 31 Mar 1990 (13),Maidstone United (33),3-0,?,Southend United (15)
+?,(Sat) 9 Sep 1989 (36),Maidstone United (34),0-1,?,Stockport County (15)
+?,(Wed) 25 Apr 1990 (17),Maidstone United (35),5-1,?,Torquay United (15)
+?,(Sat) 28 Oct 1989 (43),Maidstone United (36),2-0,?,Wrexham AFC (15)
+?,(Sat) 11 Nov 1989 (45),Maidstone United (37),1-0,?,York City (15)
+?,(Sat) 2 Sep 1989 (35),Peterborough United (16),1-1,?,Aldershot Town FC (38)
+?,(Sat) 24 Mar 1990 (12),Peterborough United (17),4-1,?,Burnley FC (38)
+?,(Sat) 21 Apr 1990 (16),Peterborough United (18),1-2,?,Cambridge United (38)
+?,(Sat) 17 Feb 1990 (7),Peterborough United (19),3-0,?,Carlisle United (38)
+?,(Tue) 26 Dec 1989 (52),Peterborough United (20),1-1,?,Chesterfield FC (38)
+?,(Sat) 7 Apr 1990 (14),Peterborough United (21),1-0,?,Colchester United (38)
+?,(Sat) 27 Jan 1990 (4),Peterborough United (22),2-1,?,Doncaster Rovers (38)
+?,(Sat) 7 Oct 1989 (40),Peterborough United (23),4-3,?,Exeter City (38)
+?,(Sat) 30 Sep 1989 (39),Peterborough United (24),1-1,?,Gillingham FC (38)
+?,(Wed) 1 Nov 1989 (44),Peterborough United (25),1-1,?,Grimsby Town (38)
+?,(Sat) 14 Apr 1990 (15),Peterborough United (26),3-0,?,Halifax Town (38)
+?,(Wed) 7 Feb 1990 (6),Peterborough United (27),0-2,?,Hartlepool United (38)
+?,(Sat) 11 Nov 1989 (45),Peterborough United (28),1-1,?,Hereford United (38)
+?,(Tue) 13 Mar 1990 (11),Peterborough United (29),1-0,?,Lincoln City (38)
+?,(Sat) 19 Aug 1989 (33),Peterborough United (30),1-0,?,Maidstone United (38)
+?,(Wed) 21 Mar 1990 (12),Peterborough United (31),0-1,?,Rochdale AFC (16)
+?,(Sat) 30 Dec 1989 (52),Peterborough United (32),1-2,?,Scarborough Athletic FC (16)
+?,(Sat) 16 Sep 1989 (37),Peterborough United (33),1-1,?,Scunthorpe United (16)
+?,(Sat) 5 May 1990 (18),Peterborough United (34),1-2,?,Southend United (16)
+?,(Sat) 21 Oct 1989 (42),Peterborough United (35),2-0,?,Stockport County (16)
+?,(Sat) 25 Nov 1989 (47),Peterborough United (36),1-1,?,Torquay United (16)
+?,(Sat) 3 Mar 1990 (9),Peterborough United (37),3-1,?,Wrexham AFC (16)
+?,(Sat) 13 Jan 1990 (2),Peterborough United (38),1-1,?,York City (16)
+?,(Tue) 24 Apr 1990 (17),Rochdale AFC (17),2-0,?,Aldershot Town FC (39)
+?,(Sat) 19 Aug 1989 (33),Rochdale AFC (18),2-1,?,Burnley FC (39)
+?,(Tue) 27 Mar 1990 (13),Rochdale AFC (19),2-0,?,Cambridge United (39)
+?,(Sat) 25 Nov 1989 (47),Rochdale AFC (20),1-2,?,Carlisle United (39)
+?,(Tue) 6 Mar 1990 (10),Rochdale AFC (21),1-0,?,Chesterfield FC (39)
+?,(Sat) 16 Sep 1989 (37),Rochdale AFC (22),2-2,?,Colchester United (39)
+?,(Sat) 11 Nov 1989 (45),Rochdale AFC (23),1-3,?,Doncaster Rovers (39)
+?,(Tue) 17 Oct 1989 (42),Rochdale AFC (24),1-0,?,Exeter City (39)
+?,(Tue) 10 Apr 1990 (15),Rochdale AFC (25),1-0,?,Gillingham FC (39)
+?,(Sat) 17 Mar 1990 (11),Rochdale AFC (26),0-1,?,Grimsby Town (39)
+?,(Sat) 31 Mar 1990 (13),Rochdale AFC (27),0-2,?,Halifax Town (39)
+?,(Tue) 26 Sep 1989 (39),Rochdale AFC (28),0-0,?,Hartlepool United (39)
+?,(Sat) 5 May 1990 (18),Rochdale AFC (29),5-2,?,Hereford United (39)
+?,(Sat) 16 Dec 1989 (50),Rochdale AFC (30),1-0,?,Lincoln City (39)
+?,(Sat) 3 Mar 1990 (9),Rochdale AFC (31),3-2,?,Maidstone United (39)
+?,(Sat) 14 Oct 1989 (41),Rochdale AFC (32),1-2,?,Peterborough United (39)
+?,(Sat) 28 Oct 1989 (43),Rochdale AFC (33),1-0,?,Scarborough Athletic FC (17)
+?,(Sat) 13 Jan 1990 (2),Rochdale AFC (34),3-0,?,Scunthorpe United (17)
+?,(Mon) 1 Jan 1990 (1),Rochdale AFC (35),0-1,?,Southend United (17)
+?,(Mon) 16 Apr 1990 (16),Rochdale AFC (36),1-1,?,Stockport County (17)
+?,(Sat) 3 Feb 1990 (5),Rochdale AFC (37),0-0,?,Torquay United (17)
+?,(Sat) 2 Sep 1989 (35),Rochdale AFC (38),0-3,?,Wrexham AFC (17)
+?,(Tue) 6 Feb 1990 (6),Rochdale AFC (39),0-1,?,York City (17)
+?,(Sat) 6 Jan 1990 (1),Scarborough Athletic FC (18),1-0,?,Aldershot Town FC (40)
+?,(Sat) 3 Mar 1990 (9),Scarborough Athletic FC (19),4-2,?,Burnley FC (40)
+?,(Sat) 2 Sep 1989 (35),Scarborough Athletic FC (20),1-1,?,Cambridge United (40)
+?,(Sat) 21 Oct 1989 (42),Scarborough Athletic FC (21),2-1,?,Carlisle United (40)
+?,(Wed) 1 Nov 1989 (44),Scarborough Athletic FC (22),2-3,?,Chesterfield FC (40)
+?,(Sat) 3 Feb 1990 (5),Scarborough Athletic FC (23),2-2,?,Colchester United (40)
+?,(Sat) 16 Sep 1989 (37),Scarborough Athletic FC (24),1-2,?,Doncaster Rovers (40)
+?,(Sat) 11 Nov 1989 (45),Scarborough Athletic FC (25),1-2,?,Exeter City (40)
+?,(Sat) 5 May 1990 (18),Scarborough Athletic FC (26),0-1,?,Gillingham FC (40)
+?,(Sat) 14 Oct 1989 (41),Scarborough Athletic FC (27),3-1,?,Grimsby Town (40)
+?,(Wed) 27 Sep 1989 (39),Scarborough Athletic FC (28),2-3,?,Halifax Town (40)
+?,(Mon) 16 Apr 1990 (16),Scarborough Athletic FC (29),4-1,?,Hartlepool United (40)
+?,(Sat) 24 Mar 1990 (12),Scarborough Athletic FC (30),0-1,?,Hereford United (40)
+?,(Mon) 1 Jan 1990 (1),Scarborough Athletic FC (31),2-0,?,Lincoln City (40)
+?,(Sat) 13 Jan 1990 (2),Scarborough Athletic FC (32),0-1,?,Maidstone United (40)
+?,(Wed) 25 Apr 1990 (17),Scarborough Athletic FC (33),2-1,?,Peterborough United (40)
+?,(Sat) 7 Apr 1990 (14),Scarborough Athletic FC (34),2-1,?,Rochdale AFC (40)
+?,(Sat) 27 Jan 1990 (4),Scarborough Athletic FC (35),0-0,?,Scunthorpe United (18)
+?,(Sat) 17 Mar 1990 (11),Scarborough Athletic FC (36),1-1,?,Southend United (18)
+?,(Sat) 9 Dec 1989 (49),Scarborough Athletic FC (37),2-0,?,Stockport County (18)
+?,(Sat) 17 Feb 1990 (7),Scarborough Athletic FC (38),0-0,?,Torquay United (18)
+?,(Sat) 19 Aug 1989 (33),Scarborough Athletic FC (39),2-1,?,Wrexham AFC (18)
+?,(Fri) 24 Nov 1989 (47),Scarborough Athletic FC (40),1-3,?,York City (18)
+?,(Tue) 6 Mar 1990 (10),Scunthorpe United (19),3-2,?,Aldershot Town FC (41)
+?,(Sat) 11 Nov 1989 (45),Scunthorpe United (20),3-0,?,Burnley FC (41)
+?,(Sat) 7 Apr 1990 (14),Scunthorpe United (21),1-1,?,Cambridge United (41)
+?,(Sat) 24 Mar 1990 (12),Scunthorpe United (22),2-3,?,Carlisle United (41)
+?,(Sat) 30 Dec 1989 (52),Scunthorpe United (23),0-1,?,Chesterfield FC (41)
+?,(Sat) 21 Oct 1989 (42),Scunthorpe United (24),4-0,?,Colchester United (41)
+?,(Sat) 5 May 1990 (18),Scunthorpe United (25),4-1,?,Doncaster Rovers (41)
+?,(Sat) 23 Sep 1989 (38),Scunthorpe United (26),5-4,?,Exeter City (41)
+?,(Tue) 13 Feb 1990 (7),Scunthorpe United (27),0-0,?,Gillingham FC (41)
+?,(Tue) 26 Dec 1989 (52),Scunthorpe United (28),2-2,?,Grimsby Town (41)
+?,(Sat) 6 Jan 1990 (1),Scunthorpe United (29),1-1,?,Halifax Town (41)
+?,(Sat) 17 Mar 1990 (11),Scunthorpe United (30),0-1,?,Hartlepool United (41)
+?,(Sat) 21 Apr 1990 (16),Scunthorpe United (31),3-3,?,Hereford United (41)
+?,(Sat) 20 Jan 1990 (3),Scunthorpe United (32),1-1,?,Lincoln City (41)
+?,(Sat) 14 Oct 1989 (41),Scunthorpe United (33),1-0,?,Maidstone United (41)
+?,(Sat) 10 Feb 1990 (6),Scunthorpe United (34),0-0,?,Peterborough United (41)
+?,(Sat) 26 Aug 1989 (34),Scunthorpe United (35),0-1,?,Rochdale AFC (41)
+?,(Sat) 9 Sep 1989 (36),Scunthorpe United (36),0-1,?,Scarborough Athletic FC (41)
+?,(Sat) 2 Dec 1989 (48),Scunthorpe United (37),1-1,?,Southend United (19)
+?,(Sat) 24 Feb 1990 (8),Scunthorpe United (38),5-0,?,Stockport County (19)
+?,(Tue) 26 Sep 1989 (39),Scunthorpe United (39),2-0,?,Torquay United (19)
+?,(Sat) 14 Apr 1990 (15),Scunthorpe United (40),3-1,?,Wrexham AFC (19)
+?,(Tue) 31 Oct 1989 (44),Scunthorpe United (41),1-1,?,York City (19)
+?,(Sat) 27 Jan 1990 (4),Southend United (20),5-0,?,Aldershot Town FC (42)
+?,(Tue) 31 Oct 1989 (44),Southend United (21),3-2,?,Burnley FC (42)
+?,(Fri) 24 Nov 1989 (47),Southend United (22),0-0,?,Cambridge United (42)
+?,(Sat) 3 Mar 1990 (9),Southend United (23),2-0,?,Carlisle United (42)
+?,(Sat) 7 Apr 1990 (14),Southend United (24),0-2,?,Chesterfield FC (42)
+?,(Tue) 26 Dec 1989 (52),Southend United (25),0-2,?,Colchester United (42)
+?,(Fri) 2 Feb 1990 (5),Southend United (26),2-0,?,Doncaster Rovers (42)
+?,(Sat) 30 Dec 1989 (52),Southend United (27),1-2,?,Exeter City (42)
+?,(Fri) 9 Mar 1990 (10),Southend United (28),2-0,?,Gillingham FC (42)
+?,(Fri) 20 Apr 1990 (16),Southend United (29),0-2,?,Grimsby Town (42)
+?,(Fri) 27 Apr 1990 (17),Southend United (30),2-0,?,Halifax Town (42)
+?,(Fri) 1 Sep 1989 (35),Southend United (31),3-0,?,Hartlepool United (42)
+?,(Tue) 20 Mar 1990 (12),Southend United (32),2-0,?,Hereford United (42)
+?,(Sat) 30 Sep 1989 (39),Southend United (33),2-0,?,Lincoln City (42)
+?,(Sat) 21 Oct 1989 (42),Southend United (34),0-1,?,Maidstone United (42)
+?,(Sat) 4 Nov 1989 (44),Southend United (35),0-0,?,Peterborough United (42)
+?,(Sat) 14 Apr 1990 (15),Southend United (36),3-2,?,Rochdale AFC (42)
+?,(Sat) 7 Oct 1989 (40),Southend United (37),1-0,?,Scarborough Athletic FC (42)
+?,(Fri) 16 Feb 1990 (7),Southend United (38),0-0,?,Scunthorpe United (42)
+?,(Fri) 23 Mar 1990 (12),Southend United (39),2-0,?,Stockport County (20)
+?,(Fri) 15 Sep 1989 (37),Southend United (40),1-0,?,Torquay United (20)
+?,(Fri) 12 Jan 1990 (2),Southend United (41),2-1,?,Wrexham AFC (20)
+?,(Sat) 19 Aug 1989 (33),Southend United (42),2-0,?,York City (20)
+?,(Sat) 3 Feb 1990 (5),Stockport County (21),1-1,?,Aldershot Town FC (43)
+?,(Sat) 13 Jan 1990 (2),Stockport County (22),3-1,?,Burnley FC (43)
+?,(Fri) 29 Dec 1989 (52),Stockport County (23),3-1,?,Cambridge United (43)
+?,(Fri) 20 Apr 1990 (16),Stockport County (24),3-1,?,Carlisle United (43)
+?,(Sat) 28 Apr 1990 (17),Stockport County (25),3-1,?,Chesterfield FC (43)
+?,(Fri) 2 Mar 1990 (9),Stockport County (26),1-1,?,Colchester United (43)
+?,(Fri) 16 Feb 1990 (7),Stockport County (27),3-1,?,Doncaster Rovers (43)
+?,(Sat) 28 Oct 1989 (43),Stockport County (28),2-1,?,Exeter City (43)
+?,(Mon) 19 Mar 1990 (12),Stockport County (29),1-0,?,Gillingham FC (43)
+?,(Sat) 14 Apr 1990 (15),Stockport County (30),2-4,?,Grimsby Town (43)
+?,(Fri) 3 Nov 1989 (44),Stockport County (31),0-1,?,Halifax Town (43)
+?,(Fri) 15 Sep 1989 (37),Stockport County (32),6-0,?,Hartlepool United (43)
+?,(Sat) 7 Oct 1989 (40),Stockport County (33),2-1,?,Hereford United (43)
+?,(Mon) 9 Apr 1990 (15),Stockport County (34),1-1,?,Lincoln City (43)
+?,(Sat) 27 Jan 1990 (4),Stockport County (35),1-2,?,Maidstone United (43)
+?,(Fri) 30 Mar 1990 (13),Stockport County (36),0-0,?,Peterborough United (43)
+?,(Tue) 26 Dec 1989 (52),Stockport County (37),2-1,?,Rochdale AFC (43)
+?,(Sat) 30 Sep 1989 (39),Stockport County (38),3-2,?,Scarborough Athletic FC (43)
+?,(Sat) 25 Nov 1989 (47),Stockport County (39),4-2,?,Scunthorpe United (43)
+?,(Mon) 16 Oct 1989 (42),Stockport County (40),1-0,?,Southend United (43)
+?,(Sat) 19 Aug 1989 (33),Stockport County (41),1-1,?,Torquay United (21)
+?,(Fri) 9 Mar 1990 (10),Stockport County (42),0-2,?,Wrexham AFC (21)
+?,(Fri) 1 Sep 1989 (35),Stockport County (43),2-2,?,York City (21)
+?,(Sat) 31 Mar 1990 (13),Torquay United (22),1-2,?,Aldershot Town FC (44)
+?,(Sat) 30 Sep 1989 (39),Torquay United (23),0-1,?,Burnley FC (44)
+?,(Tue) 20 Mar 1990 (12),Torquay United (24),3-0,?,Cambridge United (44)
+?,(Sat) 11 Nov 1989 (45),Torquay United (25),1-2,?,Carlisle United (44)
+?,(Tue) 13 Mar 1990 (11),Torquay United (26),1-0,?,Chesterfield FC (44)
+?,(Sat) 21 Apr 1990 (16),Torquay United (27),4-1,?,Colchester United (44)
+?,(Sat) 7 Oct 1989 (40),Torquay United (28),2-0,?,Doncaster Rovers (44)
+?,(Sat) 14 Apr 1990 (15),Torquay United (29),0-2,?,Exeter City (44)
+?,(Tue) 14 Nov 1989 (46),Torquay United (30),0-2,?,Gillingham FC (44)
+?,(Sat) 26 Aug 1989 (34),Torquay United (31),0-3,?,Grimsby Town (44)
+?,(Tue) 27 Mar 1990 (13),Torquay United (32),1-0,?,Halifax Town (44)
+?,(Tue) 17 Oct 1989 (42),Torquay United (33),4-3,?,Hartlepool United (44)
+?,(Tue) 26 Dec 1989 (52),Torquay United (34),1-1,?,Hereford United (44)
+?,(Sat) 9 Sep 1989 (36),Torquay United (35),0-3,?,Lincoln City (44)
+?,(Sat) 30 Dec 1989 (52),Torquay United (36),2-1,?,Maidstone United (44)
+?,(Sat) 24 Feb 1990 (8),Torquay United (37),2-1,?,Peterborough United (44)
+?,(Sat) 23 Sep 1989 (38),Torquay United (38),1-0,?,Rochdale AFC (44)
+?,(Sat) 2 Dec 1989 (48),Torquay United (39),3-2,?,Scarborough Athletic FC (44)
+?,(Sat) 10 Mar 1990 (10),Torquay United (40),0-3,?,Scunthorpe United (44)
+?,(Tue) 6 Feb 1990 (6),Torquay United (41),3-0,?,Southend United (44)
+?,(Sat) 20 Jan 1990 (3),Torquay United (42),3-0,?,Stockport County (44)
+?,(Tue) 10 Apr 1990 (15),Torquay United (43),0-1,?,Wrexham AFC (22)
+?,(Sat) 5 May 1990 (18),Torquay United (44),1-1,?,York City (22)
+?,(Sat) 14 Oct 1989 (41),Wrexham AFC (23),2-2,?,Aldershot Town FC (45)
+?,(Tue) 13 Mar 1990 (11),Wrexham AFC (24),1-0,?,Burnley FC (45)
+?,(Sat) 21 Oct 1989 (42),Wrexham AFC (25),2-3,?,Cambridge United (45)
+?,(Sat) 17 Mar 1990 (11),Wrexham AFC (26),1-0,?,Carlisle United (45)
+?,(Sat) 2 Dec 1989 (48),Wrexham AFC (27),0-2,?,Chesterfield FC (45)
+?,(Sat) 24 Mar 1990 (12),Wrexham AFC (28),3-2,?,Colchester United (45)
+?,(Mon) 16 Apr 1990 (16),Wrexham AFC (29),0-0,?,Doncaster Rovers (45)
+?,(Sat) 24 Feb 1990 (8),Wrexham AFC (30),1-1,?,Exeter City (45)
+?,(Tue) 24 Apr 1990 (17),Wrexham AFC (31),2-1,?,Gillingham FC (45)
+?,(Sat) 11 Nov 1989 (45),Wrexham AFC (32),0-1,?,Grimsby Town (45)
+?,(Sat) 9 Sep 1989 (36),Wrexham AFC (33),2-1,?,Halifax Town (45)
+?,(Sat) 5 May 1990 (18),Wrexham AFC (34),1-2,?,Hartlepool United (45)
+?,(Sat) 10 Feb 1990 (6),Wrexham AFC (35),0-0,?,Hereford United (45)
+?,(Sat) 23 Sep 1989 (38),Wrexham AFC (36),0-2,?,Lincoln City (45)
+?,(Sat) 7 Apr 1990 (14),Wrexham AFC (37),4-2,?,Maidstone United (45)
+?,(Sat) 6 Jan 1990 (1),Wrexham AFC (38),2-1,?,Peterborough United (45)
+?,(Tue) 13 Feb 1990 (7),Wrexham AFC (39),1-1,?,Rochdale AFC (45)
+?,(Sat) 20 Jan 1990 (3),Wrexham AFC (40),0-2,?,Scarborough Athletic FC (45)
+?,(Mon) 1 Jan 1990 (1),Wrexham AFC (41),0-0,?,Scunthorpe United (45)
+?,(Sat) 26 Aug 1989 (34),Wrexham AFC (42),3-3,?,Southend United (45)
+?,(Tue) 5 Sep 1989 (36),Wrexham AFC (43),0-1,?,Stockport County (45)
+?,(Tue) 31 Oct 1989 (44),Wrexham AFC (44),1-1,?,Torquay United (45)
+?,(Tue) 6 Mar 1990 (10),Wrexham AFC (45),2-0,?,York City (23)
+?,(Tue) 17 Oct 1989 (42),York City (24),2-2,?,Aldershot Town FC (46)
+?,(Sat) 10 Mar 1990 (10),York City (25),1-3,?,Burnley FC (46)
+?,(Sat) 7 Oct 1989 (40),York City (26),4-2,?,Cambridge United (46)
+?,(Sat) 14 Apr 1990 (15),York City (27),0-1,?,Carlisle United (46)
+?,(Sat) 21 Apr 1990 (16),York City (28),4-0,?,Chesterfield FC (46)
+?,(Sat) 27 Jan 1990 (4),York City (29),3-1,?,Colchester United (46)
+?,(Sat) 28 Oct 1989 (43),York City (30),2-1,?,Doncaster Rovers (46)
+?,(Mon) 2 Apr 1990 (14),York City (31),3-0,?,Exeter City (46)
+?,(Sat) 9 Dec 1989 (49),York City (32),1-0,?,Gillingham FC (46)
+?,(Sat) 23 Sep 1989 (38),York City (33),0-1,?,Grimsby Town (46)
+?,(Tue) 26 Dec 1989 (52),York City (34),0-2,?,Halifax Town (46)
+?,(Sat) 31 Mar 1990 (13),York City (35),1-1,?,Hartlepool United (46)
+?,(Sat) 30 Dec 1989 (52),York City (36),1-2,?,Hereford United (46)
+?,(Sat) 10 Feb 1990 (6),York City (37),0-0,?,Lincoln City (46)
+?,(Sat) 28 Apr 1990 (17),York City (38),0-0,?,Maidstone United (46)
+?,(Sat) 26 Aug 1989 (34),York City (39),1-0,?,Peterborough United (46)
+?,(Sat) 9 Sep 1989 (36),York City (40),1-0,?,Rochdale AFC (46)
+?,(Sat) 24 Feb 1990 (8),York City (41),1-2,?,Scarborough Athletic FC (46)
+?,(Tue) 10 Apr 1990 (15),York City (42),0-1,?,Scunthorpe United (46)
+?,(Sat) 20 Jan 1990 (3),York City (43),2-1,?,Southend United (46)
+?,(Tue) 13 Feb 1990 (7),York City (44),0-3,?,Stockport County (46)
+?,(Sat) 4 Nov 1989 (44),York City (45),1-1,?,Torquay United (46)
+?,(Sat) 30 Sep 1989 (39),York City (46),1-0,?,Wrexham AFC (46)

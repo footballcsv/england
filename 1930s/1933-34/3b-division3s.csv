@@ -1,463 +1,463 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Aldershot,AFC Bournemouth,0-0,-
--,-,Brighton & Hove Albion,AFC Bournemouth,6-0,-
--,-,Bristol City,AFC Bournemouth,3-1,-
--,-,Bristol Rovers,AFC Bournemouth,3-0,-
--,-,Cardiff City,AFC Bournemouth,4-2,-
--,-,Charlton Athletic,AFC Bournemouth,4-3,-
--,-,Coventry City,AFC Bournemouth,4-1,-
--,-,Crystal Palace,AFC Bournemouth,4-1,-
--,-,Exeter City,AFC Bournemouth,4-0,-
--,-,Gillingham,AFC Bournemouth,5-1,-
--,-,Leyton Orient,AFC Bournemouth,4-1,-
--,-,Luton Town,AFC Bournemouth,2-0,-
--,-,Newport County,AFC Bournemouth,1-1,-
--,-,Northampton Town,AFC Bournemouth,4-1,-
--,-,Norwich City,AFC Bournemouth,6-1,-
--,-,Queens Park Rangers,AFC Bournemouth,1-0,-
--,-,Reading,AFC Bournemouth,4-0,-
--,-,Southend United,AFC Bournemouth,1-2,-
--,-,Swindon Town,AFC Bournemouth,3-2,-
--,-,Torquay United,AFC Bournemouth,1-0,-
--,-,Watford,AFC Bournemouth,1-2,-
--,-,AFC Bournemouth,Aldershot,1-2,-
--,-,Brighton & Hove Albion,Aldershot,3-1,-
--,-,Bristol City,Aldershot,1-1,-
--,-,Bristol Rovers,Aldershot,4-1,-
--,-,Cardiff City,Aldershot,1-2,-
--,-,Charlton Athletic,Aldershot,1-0,-
--,-,Coventry City,Aldershot,5-1,-
--,-,Crystal Palace,Aldershot,4-1,-
--,-,Exeter City,Aldershot,0-0,-
--,-,Gillingham,Aldershot,1-2,-
--,-,Leyton Orient,Aldershot,9-2,-
--,-,Luton Town,Aldershot,1-1,-
--,-,Newport County,Aldershot,1-2,-
--,-,Northampton Town,Aldershot,0-0,-
--,-,Norwich City,Aldershot,2-2,-
--,-,Queens Park Rangers,Aldershot,2-4,-
--,-,Reading,Aldershot,3-2,-
--,-,Southend United,Aldershot,1-0,-
--,-,Swindon Town,Aldershot,1-0,-
--,-,Torquay United,Aldershot,0-0,-
--,-,Watford,Aldershot,3-0,-
--,-,AFC Bournemouth,Brighton & Hove Albion,1-1,-
--,-,Aldershot,Brighton & Hove Albion,0-1,-
--,-,Bristol City,Brighton & Hove Albion,5-0,-
--,-,Bristol Rovers,Brighton & Hove Albion,1-1,-
--,-,Cardiff City,Brighton & Hove Albion,1-4,-
--,-,Charlton Athletic,Brighton & Hove Albion,4-3,-
--,-,Coventry City,Brighton & Hove Albion,2-0,-
--,-,Crystal Palace,Brighton & Hove Albion,2-1,-
--,-,Exeter City,Brighton & Hove Albion,3-0,-
--,-,Gillingham,Brighton & Hove Albion,3-0,-
--,-,Leyton Orient,Brighton & Hove Albion,2-1,-
--,-,Luton Town,Brighton & Hove Albion,1-2,-
--,-,Newport County,Brighton & Hove Albion,2-2,-
--,-,Northampton Town,Brighton & Hove Albion,1-1,-
--,-,Norwich City,Brighton & Hove Albion,4-3,-
--,-,Queens Park Rangers,Brighton & Hove Albion,2-0,-
--,-,Reading,Brighton & Hove Albion,2-0,-
--,-,Southend United,Brighton & Hove Albion,0-0,-
--,-,Swindon Town,Brighton & Hove Albion,1-1,-
--,-,Torquay United,Brighton & Hove Albion,3-0,-
--,-,Watford,Brighton & Hove Albion,2-0,-
--,-,AFC Bournemouth,Bristol City,5-0,-
--,-,Aldershot,Bristol City,2-2,-
--,-,Brighton & Hove Albion,Bristol City,5-1,-
--,-,Bristol Rovers,Bristol City,5-1,-
--,-,Cardiff City,Bristol City,1-5,-
--,-,Charlton Athletic,Bristol City,2-1,-
--,-,Coventry City,Bristol City,9-0,-
--,-,Crystal Palace,Bristol City,0-1,-
--,-,Exeter City,Bristol City,2-0,-
--,-,Gillingham,Bristol City,2-1,-
--,-,Leyton Orient,Bristol City,4-0,-
--,-,Luton Town,Bristol City,3-0,-
--,-,Newport County,Bristol City,2-2,-
--,-,Northampton Town,Bristol City,2-3,-
--,-,Norwich City,Bristol City,7-2,-
--,-,Queens Park Rangers,Bristol City,1-0,-
--,-,Reading,Bristol City,1-1,-
--,-,Southend United,Bristol City,3-0,-
--,-,Swindon Town,Bristol City,4-2,-
--,-,Torquay United,Bristol City,2-2,-
--,-,Watford,Bristol City,1-1,-
--,-,AFC Bournemouth,Bristol Rovers,2-0,-
--,-,Aldershot,Bristol Rovers,0-1,-
--,-,Brighton & Hove Albion,Bristol Rovers,0-2,-
--,-,Bristol City,Bristol Rovers,0-3,-
--,-,Cardiff City,Bristol Rovers,1-5,-
--,-,Charlton Athletic,Bristol Rovers,2-1,-
--,-,Coventry City,Bristol Rovers,5-3,-
--,-,Crystal Palace,Bristol Rovers,1-2,-
--,-,Exeter City,Bristol Rovers,0-0,-
--,-,Gillingham,Bristol Rovers,3-2,-
--,-,Leyton Orient,Bristol Rovers,0-0,-
--,-,Luton Town,Bristol Rovers,2-2,-
--,-,Newport County,Bristol Rovers,1-0,-
--,-,Northampton Town,Bristol Rovers,1-2,-
--,-,Norwich City,Bristol Rovers,0-0,-
--,-,Queens Park Rangers,Bristol Rovers,1-0,-
--,-,Reading,Bristol Rovers,2-2,-
--,-,Southend United,Bristol Rovers,2-2,-
--,-,Swindon Town,Bristol Rovers,1-0,-
--,-,Torquay United,Bristol Rovers,2-1,-
--,-,Watford,Bristol Rovers,0-0,-
--,-,AFC Bournemouth,Cardiff City,1-3,-
--,-,Aldershot,Cardiff City,1-3,-
--,-,Brighton & Hove Albion,Cardiff City,4-0,-
--,-,Bristol City,Cardiff City,3-0,-
--,-,Bristol Rovers,Cardiff City,3-1,-
--,-,Charlton Athletic,Cardiff City,2-0,-
--,-,Coventry City,Cardiff City,4-1,-
--,-,Crystal Palace,Cardiff City,3-2,-
--,-,Exeter City,Cardiff City,4-0,-
--,-,Gillingham,Cardiff City,6-2,-
--,-,Leyton Orient,Cardiff City,4-2,-
--,-,Luton Town,Cardiff City,3-1,-
--,-,Newport County,Cardiff City,2-2,-
--,-,Northampton Town,Cardiff City,2-0,-
--,-,Norwich City,Cardiff City,2-0,-
--,-,Queens Park Rangers,Cardiff City,4-0,-
--,-,Reading,Cardiff City,3-1,-
--,-,Southend United,Cardiff City,1-1,-
--,-,Swindon Town,Cardiff City,6-3,-
--,-,Torquay United,Cardiff City,3-1,-
--,-,Watford,Cardiff City,1-2,-
--,-,AFC Bournemouth,Charlton Athletic,1-2,-
--,-,Aldershot,Charlton Athletic,3-2,-
--,-,Brighton & Hove Albion,Charlton Athletic,1-0,-
--,-,Bristol City,Charlton Athletic,0-1,-
--,-,Bristol Rovers,Charlton Athletic,2-5,-
--,-,Cardiff City,Charlton Athletic,1-1,-
--,-,Coventry City,Charlton Athletic,3-2,-
--,-,Crystal Palace,Charlton Athletic,1-0,-
--,-,Exeter City,Charlton Athletic,2-0,-
--,-,Gillingham,Charlton Athletic,1-1,-
--,-,Leyton Orient,Charlton Athletic,1-3,-
--,-,Luton Town,Charlton Athletic,2-1,-
--,-,Newport County,Charlton Athletic,1-1,-
--,-,Northampton Town,Charlton Athletic,1-2,-
--,-,Norwich City,Charlton Athletic,3-0,-
--,-,Queens Park Rangers,Charlton Athletic,2-1,-
--,-,Reading,Charlton Athletic,1-0,-
--,-,Southend United,Charlton Athletic,1-0,-
--,-,Swindon Town,Charlton Athletic,1-3,-
--,-,Torquay United,Charlton Athletic,1-4,-
--,-,Watford,Charlton Athletic,0-1,-
--,-,AFC Bournemouth,Coventry City,3-3,-
--,-,Aldershot,Coventry City,1-1,-
--,-,Brighton & Hove Albion,Coventry City,1-1,-
--,-,Bristol City,Coventry City,0-0,-
--,-,Bristol Rovers,Coventry City,4-1,-
--,-,Cardiff City,Coventry City,3-3,-
--,-,Charlton Athletic,Coventry City,2-0,-
--,-,Crystal Palace,Coventry City,2-1,-
--,-,Exeter City,Coventry City,1-0,-
--,-,Gillingham,Coventry City,3-7,-
--,-,Leyton Orient,Coventry City,0-0,-
--,-,Luton Town,Coventry City,0-1,-
--,-,Newport County,Coventry City,0-0,-
--,-,Northampton Town,Coventry City,2-2,-
--,-,Norwich City,Coventry City,3-1,-
--,-,Queens Park Rangers,Coventry City,0-1,-
--,-,Reading,Coventry City,1-0,-
--,-,Southend United,Coventry City,2-1,-
--,-,Swindon Town,Coventry City,0-1,-
--,-,Torquay United,Coventry City,1-3,-
--,-,Watford,Coventry City,3-3,-
--,-,AFC Bournemouth,Crystal Palace,1-1,-
--,-,Aldershot,Crystal Palace,0-4,-
--,-,Brighton & Hove Albion,Crystal Palace,4-1,-
--,-,Bristol City,Crystal Palace,2-2,-
--,-,Bristol Rovers,Crystal Palace,0-1,-
--,-,Cardiff City,Crystal Palace,4-0,-
--,-,Charlton Athletic,Crystal Palace,4-2,-
--,-,Coventry City,Crystal Palace,5-1,-
--,-,Exeter City,Crystal Palace,1-2,-
--,-,Gillingham,Crystal Palace,0-5,-
--,-,Leyton Orient,Crystal Palace,2-0,-
--,-,Luton Town,Crystal Palace,2-1,-
--,-,Newport County,Crystal Palace,1-0,-
--,-,Northampton Town,Crystal Palace,4-2,-
--,-,Norwich City,Crystal Palace,2-0,-
--,-,Queens Park Rangers,Crystal Palace,2-1,-
--,-,Reading,Crystal Palace,0-0,-
--,-,Southend United,Crystal Palace,0-4,-
--,-,Swindon Town,Crystal Palace,3-2,-
--,-,Torquay United,Crystal Palace,2-1,-
--,-,Watford,Crystal Palace,3-1,-
--,-,AFC Bournemouth,Exeter City,1-3,-
--,-,Aldershot,Exeter City,0-2,-
--,-,Brighton & Hove Albion,Exeter City,2-1,-
--,-,Bristol City,Exeter City,1-1,-
--,-,Bristol Rovers,Exeter City,1-1,-
--,-,Cardiff City,Exeter City,2-1,-
--,-,Charlton Athletic,Exeter City,4-1,-
--,-,Coventry City,Exeter City,1-3,-
--,-,Crystal Palace,Exeter City,0-0,-
--,-,Gillingham,Exeter City,1-1,-
--,-,Leyton Orient,Exeter City,4-0,-
--,-,Luton Town,Exeter City,3-2,-
--,-,Newport County,Exeter City,1-0,-
--,-,Northampton Town,Exeter City,5-3,-
--,-,Norwich City,Exeter City,1-1,-
--,-,Queens Park Rangers,Exeter City,2-0,-
--,-,Reading,Exeter City,3-1,-
--,-,Southend United,Exeter City,3-1,-
--,-,Swindon Town,Exeter City,1-1,-
--,-,Torquay United,Exeter City,0-2,-
--,-,Watford,Exeter City,2-0,-
--,-,AFC Bournemouth,Gillingham,1-1,-
--,-,Aldershot,Gillingham,0-2,-
--,-,Brighton & Hove Albion,Gillingham,5-2,-
--,-,Bristol City,Gillingham,1-1,-
--,-,Bristol Rovers,Gillingham,4-2,-
--,-,Cardiff City,Gillingham,1-3,-
--,-,Charlton Athletic,Gillingham,2-2,-
--,-,Coventry City,Gillingham,7-1,-
--,-,Crystal Palace,Gillingham,3-2,-
--,-,Exeter City,Gillingham,2-0,-
--,-,Leyton Orient,Gillingham,2-1,-
--,-,Luton Town,Gillingham,4-2,-
--,-,Newport County,Gillingham,3-1,-
--,-,Northampton Town,Gillingham,1-0,-
--,-,Norwich City,Gillingham,4-1,-
--,-,Queens Park Rangers,Gillingham,5-0,-
--,-,Reading,Gillingham,2-0,-
--,-,Southend United,Gillingham,1-2,-
--,-,Swindon Town,Gillingham,3-1,-
--,-,Torquay United,Gillingham,2-1,-
--,-,Watford,Gillingham,2-1,-
--,-,AFC Bournemouth,Leyton Orient,2-0,-
--,-,Aldershot,Leyton Orient,0-0,-
--,-,Brighton & Hove Albion,Leyton Orient,0-0,-
--,-,Bristol City,Leyton Orient,3-0,-
--,-,Bristol Rovers,Leyton Orient,2-2,-
--,-,Cardiff City,Leyton Orient,1-2,-
--,-,Charlton Athletic,Leyton Orient,1-1,-
--,-,Coventry City,Leyton Orient,3-1,-
--,-,Crystal Palace,Leyton Orient,3-2,-
--,-,Exeter City,Leyton Orient,0-3,-
--,-,Gillingham,Leyton Orient,1-1,-
--,-,Luton Town,Leyton Orient,2-0,-
--,-,Newport County,Leyton Orient,1-1,-
--,-,Northampton Town,Leyton Orient,3-0,-
--,-,Norwich City,Leyton Orient,3-0,-
--,-,Queens Park Rangers,Leyton Orient,2-0,-
--,-,Reading,Leyton Orient,4-0,-
--,-,Southend United,Leyton Orient,2-1,-
--,-,Swindon Town,Leyton Orient,3-0,-
--,-,Torquay United,Leyton Orient,2-1,-
--,-,Watford,Leyton Orient,6-0,-
--,-,AFC Bournemouth,Luton Town,4-3,-
--,-,Aldershot,Luton Town,0-0,-
--,-,Brighton & Hove Albion,Luton Town,1-1,-
--,-,Bristol City,Luton Town,0-0,-
--,-,Bristol Rovers,Luton Town,0-1,-
--,-,Cardiff City,Luton Town,0-4,-
--,-,Charlton Athletic,Luton Town,2-0,-
--,-,Coventry City,Luton Town,2-2,-
--,-,Crystal Palace,Luton Town,2-2,-
--,-,Exeter City,Luton Town,4-2,-
--,-,Gillingham,Luton Town,1-1,-
--,-,Leyton Orient,Luton Town,1-1,-
--,-,Newport County,Luton Town,1-2,-
--,-,Northampton Town,Luton Town,2-3,-
--,-,Norwich City,Luton Town,4-0,-
--,-,Queens Park Rangers,Luton Town,2-1,-
--,-,Reading,Luton Town,4-1,-
--,-,Southend United,Luton Town,0-1,-
--,-,Swindon Town,Luton Town,3-1,-
--,-,Torquay United,Luton Town,0-1,-
--,-,Watford,Luton Town,0-1,-
--,-,AFC Bournemouth,Newport County,0-0,-
--,-,Aldershot,Newport County,3-2,-
--,-,Brighton & Hove Albion,Newport County,1-1,-
--,-,Bristol City,Newport County,1-1,-
--,-,Bristol Rovers,Newport County,2-0,-
--,-,Cardiff City,Newport County,1-1,-
--,-,Charlton Athletic,Newport County,6-1,-
--,-,Coventry City,Newport County,5-2,-
--,-,Crystal Palace,Newport County,1-1,-
--,-,Exeter City,Newport County,1-1,-
--,-,Gillingham,Newport County,1-0,-
--,-,Leyton Orient,Newport County,3-0,-
--,-,Luton Town,Newport County,1-1,-
--,-,Northampton Town,Newport County,5-3,-
--,-,Norwich City,Newport County,2-1,-
--,-,Queens Park Rangers,Newport County,2-1,-
--,-,Reading,Newport County,4-0,-
--,-,Southend United,Newport County,3-5,-
--,-,Swindon Town,Newport County,1-1,-
--,-,Torquay United,Newport County,1-2,-
--,-,Watford,Newport County,3-0,-
--,-,AFC Bournemouth,Northampton Town,4-0,-
--,-,Aldershot,Northampton Town,1-1,-
--,-,Brighton & Hove Albion,Northampton Town,3-3,-
--,-,Bristol City,Northampton Town,2-3,-
--,-,Bristol Rovers,Northampton Town,1-1,-
--,-,Cardiff City,Northampton Town,1-3,-
--,-,Charlton Athletic,Northampton Town,1-1,-
--,-,Coventry City,Northampton Town,3-1,-
--,-,Crystal Palace,Northampton Town,1-2,-
--,-,Exeter City,Northampton Town,0-2,-
--,-,Gillingham,Northampton Town,5-1,-
--,-,Leyton Orient,Northampton Town,5-1,-
--,-,Luton Town,Northampton Town,3-1,-
--,-,Newport County,Northampton Town,2-0,-
--,-,Norwich City,Northampton Town,2-0,-
--,-,Queens Park Rangers,Northampton Town,2-1,-
--,-,Reading,Northampton Town,2-2,-
--,-,Southend United,Northampton Town,2-0,-
--,-,Swindon Town,Northampton Town,1-1,-
--,-,Torquay United,Northampton Town,3-2,-
--,-,Watford,Northampton Town,2-0,-
--,-,AFC Bournemouth,Norwich City,2-4,-
--,-,Aldershot,Norwich City,2-1,-
--,-,Brighton & Hove Albion,Norwich City,1-1,-
--,-,Bristol City,Norwich City,0-1,-
--,-,Bristol Rovers,Norwich City,3-0,-
--,-,Cardiff City,Norwich City,0-2,-
--,-,Charlton Athletic,Norwich City,3-3,-
--,-,Coventry City,Norwich City,0-0,-
--,-,Crystal Palace,Norwich City,0-1,-
--,-,Exeter City,Norwich City,3-4,-
--,-,Gillingham,Norwich City,1-2,-
--,-,Leyton Orient,Norwich City,3-2,-
--,-,Luton Town,Norwich City,2-3,-
--,-,Newport County,Norwich City,0-0,-
--,-,Northampton Town,Norwich City,2-2,-
--,-,Queens Park Rangers,Norwich City,5-2,-
--,-,Reading,Norwich City,1-0,-
--,-,Southend United,Norwich City,0-0,-
--,-,Swindon Town,Norwich City,0-0,-
--,-,Torquay United,Norwich City,1-2,-
--,-,Watford,Norwich City,1-3,-
--,-,AFC Bournemouth,Queens Park Rangers,3-2,-
--,-,Aldershot,Queens Park Rangers,3-1,-
--,-,Brighton & Hove Albion,Queens Park Rangers,0-1,-
--,-,Bristol City,Queens Park Rangers,0-2,-
--,-,Bristol Rovers,Queens Park Rangers,4-1,-
--,-,Cardiff City,Queens Park Rangers,3-1,-
--,-,Charlton Athletic,Queens Park Rangers,1-2,-
--,-,Coventry City,Queens Park Rangers,0-1,-
--,-,Crystal Palace,Queens Park Rangers,4-1,-
--,-,Exeter City,Queens Park Rangers,1-1,-
--,-,Gillingham,Queens Park Rangers,1-4,-
--,-,Leyton Orient,Queens Park Rangers,2-2,-
--,-,Luton Town,Queens Park Rangers,4-2,-
--,-,Newport County,Queens Park Rangers,1-2,-
--,-,Northampton Town,Queens Park Rangers,2-1,-
--,-,Norwich City,Queens Park Rangers,1-0,-
--,-,Reading,Queens Park Rangers,5-0,-
--,-,Southend United,Queens Park Rangers,0-2,-
--,-,Swindon Town,Queens Park Rangers,3-1,-
--,-,Torquay United,Queens Park Rangers,1-1,-
--,-,Watford,Queens Park Rangers,0-0,-
--,-,AFC Bournemouth,Reading,1-1,-
--,-,Aldershot,Reading,3-0,-
--,-,Brighton & Hove Albion,Reading,1-1,-
--,-,Bristol City,Reading,1-2,-
--,-,Bristol Rovers,Reading,1-0,-
--,-,Cardiff City,Reading,2-0,-
--,-,Charlton Athletic,Reading,0-0,-
--,-,Coventry City,Reading,0-0,-
--,-,Crystal Palace,Reading,0-0,-
--,-,Exeter City,Reading,4-1,-
--,-,Gillingham,Reading,5-1,-
--,-,Leyton Orient,Reading,2-3,-
--,-,Luton Town,Reading,3-1,-
--,-,Newport County,Reading,1-2,-
--,-,Northampton Town,Reading,2-4,-
--,-,Norwich City,Reading,3-2,-
--,-,Queens Park Rangers,Reading,0-0,-
--,-,Southend United,Reading,2-2,-
--,-,Swindon Town,Reading,3-1,-
--,-,Torquay United,Reading,1-1,-
--,-,Watford,Reading,2-0,-
--,-,AFC Bournemouth,Southend United,1-4,-
--,-,Aldershot,Southend United,2-0,-
--,-,Brighton & Hove Albion,Southend United,1-0,-
--,-,Bristol City,Southend United,5-1,-
--,-,Bristol Rovers,Southend United,3-1,-
--,-,Cardiff City,Southend United,1-1,-
--,-,Charlton Athletic,Southend United,1-3,-
--,-,Coventry City,Southend United,2-0,-
--,-,Crystal Palace,Southend United,1-1,-
--,-,Exeter City,Southend United,2-0,-
--,-,Gillingham,Southend United,0-0,-
--,-,Leyton Orient,Southend United,5-2,-
--,-,Luton Town,Southend United,3-1,-
--,-,Newport County,Southend United,3-0,-
--,-,Northampton Town,Southend United,2-0,-
--,-,Norwich City,Southend United,0-0,-
--,-,Queens Park Rangers,Southend United,4-0,-
--,-,Reading,Southend United,5-0,-
--,-,Swindon Town,Southend United,1-4,-
--,-,Torquay United,Southend United,3-0,-
--,-,Watford,Southend United,2-1,-
--,-,AFC Bournemouth,Swindon Town,1-1,-
--,-,Aldershot,Swindon Town,1-2,-
--,-,Brighton & Hove Albion,Swindon Town,3-0,-
--,-,Bristol City,Swindon Town,2-2,-
--,-,Bristol Rovers,Swindon Town,3-0,-
--,-,Cardiff City,Swindon Town,0-1,-
--,-,Charlton Athletic,Swindon Town,1-0,-
--,-,Coventry City,Swindon Town,5-1,-
--,-,Crystal Palace,Swindon Town,0-0,-
--,-,Exeter City,Swindon Town,2-2,-
--,-,Gillingham,Swindon Town,3-3,-
--,-,Leyton Orient,Swindon Town,1-0,-
--,-,Luton Town,Swindon Town,2-3,-
--,-,Newport County,Swindon Town,1-2,-
--,-,Northampton Town,Swindon Town,2-2,-
--,-,Norwich City,Swindon Town,3-2,-
--,-,Queens Park Rangers,Swindon Town,1-0,-
--,-,Reading,Swindon Town,2-0,-
--,-,Southend United,Swindon Town,4-1,-
--,-,Torquay United,Swindon Town,2-0,-
--,-,Watford,Swindon Town,4-0,-
--,-,AFC Bournemouth,Torquay United,3-4,-
--,-,Aldershot,Torquay United,3-0,-
--,-,Brighton & Hove Albion,Torquay United,3-1,-
--,-,Bristol City,Torquay United,2-0,-
--,-,Bristol Rovers,Torquay United,2-1,-
--,-,Cardiff City,Torquay United,0-1,-
--,-,Charlton Athletic,Torquay United,6-0,-
--,-,Coventry City,Torquay United,3-1,-
--,-,Crystal Palace,Torquay United,4-1,-
--,-,Exeter City,Torquay United,4-0,-
--,-,Gillingham,Torquay United,3-3,-
--,-,Leyton Orient,Torquay United,4-1,-
--,-,Luton Town,Torquay United,10-2,-
--,-,Newport County,Torquay United,0-0,-
--,-,Northampton Town,Torquay United,1-1,-
--,-,Norwich City,Torquay United,0-2,-
--,-,Queens Park Rangers,Torquay United,2-0,-
--,-,Reading,Torquay United,5-2,-
--,-,Southend United,Torquay United,3-1,-
--,-,Swindon Town,Torquay United,2-0,-
--,-,Watford,Torquay United,5-0,-
--,-,AFC Bournemouth,Watford,3-2,-
--,-,Aldershot,Watford,3-2,-
--,-,Brighton & Hove Albion,Watford,2-0,-
--,-,Bristol City,Watford,1-0,-
--,-,Bristol Rovers,Watford,1-0,-
--,-,Cardiff City,Watford,4-1,-
--,-,Charlton Athletic,Watford,4-3,-
--,-,Coventry City,Watford,2-0,-
--,-,Crystal Palace,Watford,4-3,-
--,-,Exeter City,Watford,3-1,-
--,-,Gillingham,Watford,3-3,-
--,-,Leyton Orient,Watford,2-3,-
--,-,Luton Town,Watford,2-1,-
--,-,Newport County,Watford,0-3,-
--,-,Northampton Town,Watford,1-0,-
--,-,Norwich City,Watford,3-1,-
--,-,Queens Park Rangers,Watford,0-0,-
--,-,Reading,Watford,6-1,-
--,-,Southend United,Watford,1-1,-
--,-,Swindon Town,Watford,1-0,-
--,-,Torquay United,Watford,1-3,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 28 Apr 1934 (17),AFC Bournemouth (1),1-2,?,Aldershot Town FC (1)
+?,(Wed) 18 Apr 1934 (16),AFC Bournemouth (2),1-1,?,Brighton & Hove Albion (1)
+?,(Sat) 31 Mar 1934 (13),AFC Bournemouth (3),5-0,?,Bristol City FC (1)
+?,(Sat) 7 Oct 1933 (40),AFC Bournemouth (4),2-0,?,Bristol Rovers (1)
+?,(Sat) 9 Sep 1933 (36),AFC Bournemouth (5),1-3,?,Cardiff City (1)
+?,(Sat) 30 Dec 1933 (52),AFC Bournemouth (6),1-2,?,Charlton Athletic (1)
+?,(Mon) 2 Apr 1934 (14),AFC Bournemouth (7),3-3,?,Coventry City (1)
+?,(Sat) 10 Feb 1934 (6),AFC Bournemouth (8),1-1,?,Crystal Palace FC (1)
+?,(Sat) 27 Jan 1934 (4),AFC Bournemouth (9),1-3,?,Exeter City (1)
+?,(Sat) 23 Sep 1933 (38),AFC Bournemouth (10),1-1,?,Gillingham FC (1)
+?,(Wed) 17 Jan 1934 (3),AFC Bournemouth (11),2-0,?,Leyton Orient FC (1)
+?,(Sat) 23 Dec 1933 (51),AFC Bournemouth (12),4-3,?,Luton Town (1)
+?,(Sat) 17 Mar 1934 (11),AFC Bournemouth (13),0-0,?,Newport County AFC (1)
+?,(Sat) 2 Sep 1933 (35),AFC Bournemouth (14),4-0,?,Northampton Town (1)
+?,(Sat) 11 Nov 1933 (45),AFC Bournemouth (15),2-4,?,Norwich City (1)
+?,(Sat) 28 Oct 1933 (43),AFC Bournemouth (16),3-2,?,Queens Park Rangers (1)
+?,(Mon) 25 Dec 1933 (52),AFC Bournemouth (17),1-1,?,Reading FC (1)
+?,(Sat) 24 Feb 1934 (8),AFC Bournemouth (18),1-4,?,Southend United (1)
+?,(Sat) 14 Apr 1934 (15),AFC Bournemouth (19),1-1,?,Swindon Town (1)
+?,(Sat) 3 Mar 1934 (9),AFC Bournemouth (20),3-4,?,Torquay United (1)
+?,(Wed) 30 Aug 1933 (35),AFC Bournemouth (21),3-2,?,Watford FC (1)
+?,(Sat) 16 Dec 1933 (50),Aldershot Town FC (2),0-0,?,AFC Bournemouth (22)
+?,(Sat) 14 Oct 1933 (41),Aldershot Town FC (3),0-1,?,Brighton & Hove Albion (2)
+?,(Sat) 3 Feb 1934 (5),Aldershot Town FC (4),2-2,?,Bristol City FC (2)
+?,(Sat) 24 Mar 1934 (12),Aldershot Town FC (5),0-1,?,Bristol Rovers (2)
+?,(Sat) 21 Apr 1934 (16),Aldershot Town FC (6),1-3,?,Cardiff City (2)
+?,(Sat) 5 May 1934 (18),Aldershot Town FC (7),3-2,?,Charlton Athletic (2)
+?,(Sat) 10 Mar 1934 (10),Aldershot Town FC (8),1-1,?,Coventry City (2)
+?,(Sat) 18 Nov 1933 (46),Aldershot Town FC (9),0-4,?,Crystal Palace FC (2)
+?,(Sat) 2 Dec 1933 (48),Aldershot Town FC (10),0-2,?,Exeter City (2)
+?,(Sat) 7 Apr 1934 (14),Aldershot Town FC (11),0-2,?,Gillingham FC (2)
+?,(Sat) 30 Sep 1933 (39),Aldershot Town FC (12),0-0,?,Leyton Orient FC (2)
+?,(Mon) 25 Dec 1933 (52),Aldershot Town FC (13),0-0,?,Luton Town (2)
+?,(Sat) 20 Jan 1934 (3),Aldershot Town FC (14),3-2,?,Newport County AFC (2)
+?,(Wed) 30 Aug 1933 (35),Aldershot Town FC (15),1-1,?,Northampton Town (2)
+?,(Sat) 16 Sep 1933 (37),Aldershot Town FC (16),2-1,?,Norwich City (2)
+?,(Sat) 2 Sep 1933 (35),Aldershot Town FC (17),3-1,?,Queens Park Rangers (2)
+?,(Sat) 21 Oct 1933 (42),Aldershot Town FC (18),3-0,?,Reading FC (2)
+?,(Sat) 4 Nov 1933 (44),Aldershot Town FC (19),2-0,?,Southend United (2)
+?,(Sat) 17 Feb 1934 (7),Aldershot Town FC (20),1-2,?,Swindon Town (2)
+?,(Sat) 30 Dec 1933 (52),Aldershot Town FC (21),3-0,?,Torquay United (2)
+?,(Fri) 30 Mar 1934 (13),Aldershot Town FC (22),3-2,?,Watford FC (2)
+?,(Sat) 21 Apr 1934 (16),Brighton & Hove Albion (3),6-0,?,AFC Bournemouth (23)
+?,(Sat) 24 Feb 1934 (8),Brighton & Hove Albion (4),3-1,?,Aldershot Town FC (23)
+?,(Sat) 16 Sep 1933 (37),Brighton & Hove Albion (5),5-1,?,Bristol City FC (3)
+?,(Sat) 4 Nov 1933 (44),Brighton & Hove Albion (6),0-2,?,Bristol Rovers (3)
+?,(Sat) 2 Dec 1933 (48),Brighton & Hove Albion (7),4-0,?,Cardiff City (3)
+?,(Sat) 16 Dec 1933 (50),Brighton & Hove Albion (8),1-0,?,Charlton Athletic (3)
+?,(Sat) 21 Oct 1933 (42),Brighton & Hove Albion (9),1-1,?,Coventry City (3)
+?,(Sat) 24 Mar 1934 (12),Brighton & Hove Albion (10),4-1,?,Crystal Palace FC (3)
+?,(Sat) 7 Apr 1934 (14),Brighton & Hove Albion (11),2-1,?,Exeter City (3)
+?,(Sat) 18 Nov 1933 (46),Brighton & Hove Albion (12),5-2,?,Gillingham FC (3)
+?,(Sat) 3 Feb 1934 (5),Brighton & Hove Albion (13),0-0,?,Leyton Orient FC (3)
+?,(Fri) 30 Mar 1934 (13),Brighton & Hove Albion (14),1-1,?,Luton Town (3)
+?,(Sat) 2 Sep 1933 (35),Brighton & Hove Albion (15),1-1,?,Newport County AFC (3)
+?,(Tue) 26 Dec 1933 (52),Brighton & Hove Albion (16),3-3,?,Northampton Town (3)
+?,(Sat) 20 Jan 1934 (3),Brighton & Hove Albion (17),1-1,?,Norwich City (3)
+?,(Sat) 30 Dec 1933 (52),Brighton & Hove Albion (18),0-1,?,Queens Park Rangers (3)
+?,(Sat) 17 Feb 1934 (7),Brighton & Hove Albion (19),1-1,?,Reading FC (3)
+?,(Sat) 10 Mar 1934 (10),Brighton & Hove Albion (20),1-0,?,Southend United (3)
+?,(Sat) 30 Sep 1933 (39),Brighton & Hove Albion (21),3-0,?,Swindon Town (3)
+?,(Wed) 30 Aug 1933 (35),Brighton & Hove Albion (22),3-1,?,Torquay United (3)
+?,(Sat) 5 May 1934 (18),Brighton & Hove Albion (23),2-0,?,Watford FC (3)
+?,(Sat) 18 Nov 1933 (46),Bristol City FC (4),3-1,?,AFC Bournemouth (24)
+?,(Sat) 23 Sep 1933 (38),Bristol City FC (5),1-1,?,Aldershot Town FC (24)
+?,(Wed) 7 Feb 1934 (6),Bristol City FC (6),5-0,?,Brighton & Hove Albion (24)
+?,(Sat) 26 Aug 1933 (34),Bristol City FC (7),0-3,?,Bristol Rovers (4)
+?,(Sat) 24 Mar 1934 (12),Bristol City FC (8),3-0,?,Cardiff City (4)
+?,(Sat) 7 Apr 1934 (14),Bristol City FC (9),0-1,?,Charlton Athletic (4)
+?,(Sat) 16 Dec 1933 (50),Bristol City FC (10),0-0,?,Coventry City (4)
+?,(Sat) 21 Oct 1933 (42),Bristol City FC (11),2-2,?,Crystal Palace FC (4)
+?,(Sat) 4 Nov 1933 (44),Bristol City FC (12),1-1,?,Exeter City (4)
+?,(Sat) 10 Mar 1934 (10),Bristol City FC (13),1-1,?,Gillingham FC (4)
+?,(Sat) 6 Jan 1934 (1),Bristol City FC (14),3-0,?,Leyton Orient FC (4)
+?,(Sat) 10 Feb 1934 (6),Bristol City FC (15),0-0,?,Luton Town (4)
+?,(Tue) 26 Dec 1933 (52),Bristol City FC (16),1-1,?,Newport County AFC (4)
+?,(Sat) 7 Oct 1933 (40),Bristol City FC (17),2-3,?,Northampton Town (4)
+?,(Wed) 6 Sep 1933 (36),Bristol City FC (18),0-1,?,Norwich City (4)
+?,(Mon) 2 Apr 1934 (14),Bristol City FC (19),0-2,?,Queens Park Rangers (4)
+?,(Sat) 21 Apr 1934 (16),Bristol City FC (20),1-2,?,Reading FC (4)
+?,(Sat) 5 May 1934 (18),Bristol City FC (21),5-1,?,Southend United (4)
+?,(Sat) 9 Sep 1933 (36),Bristol City FC (22),2-2,?,Swindon Town (4)
+?,(Sat) 24 Feb 1934 (8),Bristol City FC (23),2-0,?,Torquay United (4)
+?,(Sat) 2 Dec 1933 (48),Bristol City FC (24),1-0,?,Watford FC (4)
+?,(Sat) 17 Feb 1934 (7),Bristol Rovers (5),3-0,?,AFC Bournemouth (25)
+?,(Sat) 11 Nov 1933 (45),Bristol Rovers (6),4-1,?,Aldershot Town FC (25)
+?,(Sat) 17 Mar 1934 (11),Bristol Rovers (7),1-1,?,Brighton & Hove Albion (25)
+?,(Sat) 30 Dec 1933 (52),Bristol Rovers (8),5-1,?,Bristol City FC (25)
+?,(Sat) 14 Oct 1933 (41),Bristol Rovers (9),3-1,?,Cardiff City (5)
+?,(Sat) 30 Sep 1933 (39),Bristol Rovers (10),2-5,?,Charlton Athletic (5)
+?,(Sat) 20 Jan 1934 (3),Bristol Rovers (11),4-1,?,Coventry City (5)
+?,(Wed) 30 Aug 1933 (35),Bristol Rovers (12),0-1,?,Crystal Palace FC (5)
+?,(Fri) 30 Mar 1934 (13),Bristol Rovers (13),1-1,?,Exeter City (5)
+?,(Mon) 25 Dec 1933 (52),Bristol Rovers (14),4-2,?,Gillingham FC (5)
+?,(Sat) 3 Mar 1934 (9),Bristol Rovers (15),2-2,?,Leyton Orient FC (5)
+?,(Sat) 31 Mar 1934 (13),Bristol Rovers (16),0-1,?,Luton Town (5)
+?,(Sat) 28 Apr 1934 (17),Bristol Rovers (17),2-0,?,Newport County AFC (5)
+?,(Wed) 28 Feb 1934 (9),Bristol Rovers (18),1-1,?,Northampton Town (5)
+?,(Sat) 23 Dec 1933 (51),Bristol Rovers (19),3-0,?,Norwich City (5)
+?,(Wed) 18 Apr 1934 (16),Bristol Rovers (20),4-1,?,Queens Park Rangers (5)
+?,(Sat) 16 Sep 1933 (37),Bristol Rovers (21),1-0,?,Reading FC (5)
+?,(Sat) 2 Sep 1933 (35),Bristol Rovers (22),3-1,?,Southend United (5)
+?,(Sat) 28 Oct 1933 (43),Bristol Rovers (23),3-0,?,Swindon Town (5)
+?,(Sat) 14 Apr 1934 (15),Bristol Rovers (24),2-1,?,Torquay United (5)
+?,(Sat) 3 Feb 1934 (5),Bristol Rovers (25),1-0,?,Watford FC (5)
+?,(Sat) 20 Jan 1934 (3),Cardiff City (6),4-2,?,AFC Bournemouth (26)
+?,(Wed) 25 Apr 1934 (17),Cardiff City (7),1-2,?,Aldershot Town FC (26)
+?,(Sat) 14 Apr 1934 (15),Cardiff City (8),1-4,?,Brighton & Hove Albion (26)
+?,(Sat) 11 Nov 1933 (45),Cardiff City (9),1-5,?,Bristol City FC (26)
+?,(Sat) 24 Feb 1934 (8),Cardiff City (10),1-5,?,Bristol Rovers (26)
+?,(Sat) 2 Sep 1933 (35),Cardiff City (11),1-1,?,Charlton Athletic (6)
+?,(Tue) 26 Dec 1933 (52),Cardiff City (12),3-3,?,Coventry City (6)
+?,(Sat) 7 Oct 1933 (40),Cardiff City (13),4-0,?,Crystal Palace FC (6)
+?,(Sat) 23 Sep 1933 (38),Cardiff City (14),2-1,?,Exeter City (6)
+?,(Sat) 10 Feb 1934 (6),Cardiff City (15),1-3,?,Gillingham FC (6)
+?,(Sat) 31 Mar 1934 (13),Cardiff City (16),1-2,?,Leyton Orient FC (6)
+?,(Sat) 28 Apr 1934 (17),Cardiff City (17),0-4,?,Luton Town (6)
+?,(Sat) 28 Oct 1933 (43),Cardiff City (18),1-1,?,Newport County AFC (6)
+?,(Sat) 23 Dec 1933 (51),Cardiff City (19),1-3,?,Northampton Town (6)
+?,(Sat) 17 Mar 1934 (11),Cardiff City (20),0-2,?,Norwich City (6)
+?,(Sat) 3 Mar 1934 (9),Cardiff City (21),3-1,?,Queens Park Rangers (6)
+?,(Mon) 28 Aug 1933 (35),Cardiff City (22),2-0,?,Reading FC (6)
+?,(Fri) 30 Mar 1934 (13),Cardiff City (23),1-1,?,Southend United (6)
+?,(Wed) 17 Jan 1934 (3),Cardiff City (24),0-1,?,Swindon Town (6)
+?,(Sat) 16 Sep 1933 (37),Cardiff City (25),0-1,?,Torquay United (6)
+?,(Sat) 30 Dec 1933 (52),Cardiff City (26),4-1,?,Watford FC (6)
+?,(Sat) 26 Aug 1933 (34),Charlton Athletic (7),4-3,?,AFC Bournemouth (27)
+?,(Sat) 23 Dec 1933 (51),Charlton Athletic (8),1-0,?,Aldershot Town FC (27)
+?,(Sat) 28 Apr 1934 (17),Charlton Athletic (9),4-3,?,Brighton & Hove Albion (27)
+?,(Mon) 23 Apr 1934 (17),Charlton Athletic (10),2-1,?,Bristol City FC (27)
+?,(Sat) 10 Feb 1934 (6),Charlton Athletic (11),2-1,?,Bristol Rovers (27)
+?,(Sat) 6 Jan 1934 (1),Charlton Athletic (12),2-0,?,Cardiff City (27)
+?,(Sat) 24 Feb 1934 (8),Charlton Athletic (13),2-0,?,Coventry City (7)
+?,(Sat) 23 Sep 1933 (38),Charlton Athletic (14),4-2,?,Crystal Palace FC (7)
+?,(Sat) 9 Sep 1933 (36),Charlton Athletic (15),4-1,?,Exeter City (7)
+?,(Mon) 29 Jan 1934 (5),Charlton Athletic (16),2-2,?,Gillingham FC (7)
+?,(Sat) 14 Apr 1934 (15),Charlton Athletic (17),1-1,?,Leyton Orient FC (7)
+?,(Mon) 4 Sep 1933 (36),Charlton Athletic (18),2-0,?,Luton Town (7)
+?,(Sat) 11 Nov 1933 (45),Charlton Athletic (19),6-1,?,Newport County AFC (7)
+?,(Sat) 3 Mar 1934 (9),Charlton Athletic (20),1-1,?,Northampton Town (7)
+?,(Sat) 31 Mar 1934 (13),Charlton Athletic (21),3-3,?,Norwich City (7)
+?,(Sat) 17 Mar 1934 (11),Charlton Athletic (22),1-2,?,Queens Park Rangers (7)
+?,(Fri) 30 Mar 1934 (13),Charlton Athletic (23),0-0,?,Reading FC (7)
+?,(Sat) 7 Oct 1933 (40),Charlton Athletic (24),1-3,?,Southend United (7)
+?,(Wed) 2 May 1934 (18),Charlton Athletic (25),1-0,?,Swindon Town (7)
+?,(Sat) 28 Oct 1933 (43),Charlton Athletic (26),6-0,?,Torquay United (7)
+?,(Tue) 26 Dec 1933 (52),Charlton Athletic (27),4-3,?,Watford FC (7)
+?,(Tue) 3 Apr 1934 (14),Coventry City (8),4-1,?,AFC Bournemouth (28)
+?,(Sat) 28 Oct 1933 (43),Coventry City (9),5-1,?,Aldershot Town FC (28)
+?,(Sat) 3 Mar 1934 (9),Coventry City (10),2-0,?,Brighton & Hove Albion (28)
+?,(Sat) 28 Apr 1934 (17),Coventry City (11),9-0,?,Bristol City FC (28)
+?,(Sat) 9 Sep 1933 (36),Coventry City (12),5-3,?,Bristol Rovers (28)
+?,(Mon) 25 Dec 1933 (52),Coventry City (13),4-1,?,Cardiff City (28)
+?,(Sat) 14 Oct 1933 (41),Coventry City (14),3-2,?,Charlton Athletic (28)
+?,(Sat) 6 Jan 1934 (1),Coventry City (15),5-1,?,Crystal Palace FC (8)
+?,(Mon) 4 Sep 1933 (36),Coventry City (16),1-3,?,Exeter City (8)
+?,(Sat) 26 Aug 1933 (34),Coventry City (17),7-1,?,Gillingham FC (8)
+?,(Sat) 23 Dec 1933 (51),Coventry City (18),3-1,?,Leyton Orient FC (8)
+?,(Sat) 17 Mar 1934 (11),Coventry City (19),2-2,?,Luton Town (8)
+?,(Sat) 14 Apr 1934 (15),Coventry City (20),5-2,?,Newport County AFC (8)
+?,(Sat) 11 Nov 1933 (45),Coventry City (21),3-1,?,Northampton Town (8)
+?,(Thu) 14 Dec 1933 (50),Coventry City (22),0-0,?,Norwich City (8)
+?,(Thu) 18 Jan 1934 (3),Coventry City (23),0-1,?,Queens Park Rangers (8)
+?,(Sat) 30 Sep 1933 (39),Coventry City (24),0-0,?,Reading FC (8)
+?,(Sat) 27 Jan 1934 (4),Coventry City (25),2-0,?,Southend United (8)
+?,(Sat) 23 Sep 1933 (38),Coventry City (26),5-1,?,Swindon Town (8)
+?,(Sat) 31 Mar 1934 (13),Coventry City (27),3-1,?,Torquay United (8)
+?,(Sat) 17 Feb 1934 (7),Coventry City (28),2-0,?,Watford FC (8)
+?,(Sat) 30 Sep 1933 (39),Crystal Palace FC (9),4-1,?,AFC Bournemouth (29)
+?,(Sat) 31 Mar 1934 (13),Crystal Palace FC (10),4-1,?,Aldershot Town FC (29)
+?,(Sat) 11 Nov 1933 (45),Crystal Palace FC (11),2-1,?,Brighton & Hove Albion (29)
+?,(Sat) 3 Mar 1934 (9),Crystal Palace FC (12),0-1,?,Bristol City FC (29)
+?,(Wed) 6 Sep 1933 (36),Crystal Palace FC (13),1-2,?,Bristol Rovers (29)
+?,(Sat) 17 Feb 1934 (7),Crystal Palace FC (14),3-2,?,Cardiff City (29)
+?,(Sat) 3 Feb 1934 (5),Crystal Palace FC (15),1-0,?,Charlton Athletic (29)
+?,(Sat) 2 Sep 1933 (35),Crystal Palace FC (16),2-1,?,Coventry City (29)
+?,(Sat) 14 Oct 1933 (41),Crystal Palace FC (17),0-0,?,Exeter City (9)
+?,(Fri) 30 Mar 1934 (13),Crystal Palace FC (18),3-2,?,Gillingham FC (9)
+?,(Sat) 28 Oct 1933 (43),Crystal Palace FC (19),3-2,?,Leyton Orient FC (9)
+?,(Wed) 13 Sep 1933 (37),Crystal Palace FC (20),2-2,?,Luton Town (9)
+?,(Sat) 23 Dec 1933 (51),Crystal Palace FC (21),1-1,?,Newport County AFC (9)
+?,(Sat) 14 Apr 1934 (15),Crystal Palace FC (22),1-2,?,Northampton Town (9)
+?,(Mon) 25 Dec 1933 (52),Crystal Palace FC (23),0-1,?,Norwich City (9)
+?,(Sat) 28 Apr 1934 (17),Crystal Palace FC (24),4-1,?,Queens Park Rangers (9)
+?,(Sat) 20 Jan 1934 (3),Crystal Palace FC (25),0-0,?,Reading FC (9)
+?,(Sat) 30 Dec 1933 (52),Crystal Palace FC (26),1-1,?,Southend United (9)
+?,(Sat) 17 Mar 1934 (11),Crystal Palace FC (27),0-0,?,Swindon Town (9)
+?,(Wed) 25 Apr 1934 (17),Crystal Palace FC (28),4-1,?,Torquay United (9)
+?,(Sat) 16 Sep 1933 (37),Crystal Palace FC (29),4-3,?,Watford FC (9)
+?,(Sat) 16 Sep 1933 (37),Exeter City (10),4-0,?,AFC Bournemouth (30)
+?,(Sat) 14 Apr 1934 (15),Exeter City (11),0-0,?,Aldershot Town FC (30)
+?,(Wed) 13 Sep 1933 (37),Exeter City (12),3-0,?,Brighton & Hove Albion (30)
+?,(Sat) 17 Mar 1934 (11),Exeter City (13),2-0,?,Bristol City FC (30)
+?,(Mon) 2 Apr 1934 (14),Exeter City (14),0-0,?,Bristol Rovers (30)
+?,(Sat) 3 Feb 1934 (5),Exeter City (15),4-0,?,Cardiff City (30)
+?,(Sat) 20 Jan 1934 (3),Exeter City (16),2-0,?,Charlton Athletic (30)
+?,(Wed) 30 Aug 1933 (35),Exeter City (17),1-0,?,Coventry City (30)
+?,(Sat) 24 Feb 1934 (8),Exeter City (18),1-2,?,Crystal Palace FC (30)
+?,(Sat) 7 Oct 1933 (40),Exeter City (19),2-0,?,Gillingham FC (10)
+?,(Sat) 11 Nov 1933 (45),Exeter City (20),0-3,?,Leyton Orient FC (10)
+?,(Sat) 9 Dec 1933 (49),Exeter City (21),4-2,?,Luton Town (10)
+?,(Sat) 3 Mar 1934 (9),Exeter City (22),1-1,?,Newport County AFC (10)
+?,(Sat) 28 Apr 1934 (17),Exeter City (23),0-2,?,Northampton Town (10)
+?,(Sat) 28 Oct 1933 (43),Exeter City (24),3-4,?,Norwich City (10)
+?,(Sat) 30 Sep 1933 (39),Exeter City (25),1-1,?,Queens Park Rangers (10)
+?,(Sat) 30 Dec 1933 (52),Exeter City (26),4-1,?,Reading FC (10)
+?,(Mon) 25 Dec 1933 (52),Exeter City (27),2-0,?,Southend United (10)
+?,(Sat) 31 Mar 1934 (13),Exeter City (28),2-2,?,Swindon Town (10)
+?,(Sat) 23 Dec 1933 (51),Exeter City (29),4-0,?,Torquay United (10)
+?,(Sat) 2 Sep 1933 (35),Exeter City (30),3-1,?,Watford FC (10)
+?,(Sat) 3 Feb 1934 (5),Gillingham FC (11),5-1,?,AFC Bournemouth (31)
+?,(Wed) 17 Jan 1934 (3),Gillingham FC (12),1-2,?,Aldershot Town FC (31)
+?,(Sat) 31 Mar 1934 (13),Gillingham FC (13),3-0,?,Brighton & Hove Albion (31)
+?,(Sat) 28 Oct 1933 (43),Gillingham FC (14),2-1,?,Bristol City FC (31)
+?,(Tue) 26 Dec 1933 (52),Gillingham FC (15),3-2,?,Bristol Rovers (31)
+?,(Sat) 30 Sep 1933 (39),Gillingham FC (16),6-2,?,Cardiff City (31)
+?,(Sat) 16 Sep 1933 (37),Gillingham FC (17),1-1,?,Charlton Athletic (31)
+?,(Sat) 30 Dec 1933 (52),Gillingham FC (18),3-7,?,Coventry City (31)
+?,(Mon) 2 Apr 1934 (14),Gillingham FC (19),0-5,?,Crystal Palace FC (31)
+?,(Sat) 17 Feb 1934 (7),Gillingham FC (20),1-1,?,Exeter City (31)
+?,(Sat) 17 Mar 1934 (11),Gillingham FC (21),1-1,?,Leyton Orient FC (11)
+?,(Sat) 14 Apr 1934 (15),Gillingham FC (22),1-1,?,Luton Town (11)
+?,(Sat) 14 Oct 1933 (41),Gillingham FC (23),1-0,?,Newport County AFC (11)
+?,(Wed) 11 Apr 1934 (15),Gillingham FC (24),5-1,?,Northampton Town (11)
+?,(Sat) 3 Mar 1934 (9),Gillingham FC (25),1-2,?,Norwich City (11)
+?,(Sat) 23 Dec 1933 (51),Gillingham FC (26),1-4,?,Queens Park Rangers (11)
+?,(Sat) 2 Sep 1933 (35),Gillingham FC (27),5-1,?,Reading FC (11)
+?,(Wed) 30 Aug 1933 (35),Gillingham FC (28),0-0,?,Southend United (11)
+?,(Sat) 11 Nov 1933 (45),Gillingham FC (29),3-3,?,Swindon Town (11)
+?,(Sat) 28 Apr 1934 (17),Gillingham FC (30),3-3,?,Torquay United (11)
+?,(Sat) 20 Jan 1934 (3),Gillingham FC (31),3-3,?,Watford FC (11)
+?,(Sat) 7 Apr 1934 (14),Leyton Orient FC (12),4-1,?,AFC Bournemouth (32)
+?,(Sat) 10 Feb 1934 (6),Leyton Orient FC (13),9-2,?,Aldershot Town FC (32)
+?,(Sat) 23 Sep 1933 (38),Leyton Orient FC (14),2-1,?,Brighton & Hove Albion (32)
+?,(Sat) 2 Sep 1933 (35),Leyton Orient FC (15),4-0,?,Bristol City FC (32)
+?,(Sat) 21 Oct 1933 (42),Leyton Orient FC (16),0-0,?,Bristol Rovers (32)
+?,(Sat) 18 Nov 1933 (46),Leyton Orient FC (17),4-2,?,Cardiff City (32)
+?,(Sat) 2 Dec 1933 (48),Leyton Orient FC (18),1-3,?,Charlton Athletic (32)
+?,(Sat) 5 May 1934 (18),Leyton Orient FC (19),0-0,?,Coventry City (32)
+?,(Sat) 10 Mar 1934 (10),Leyton Orient FC (20),2-0,?,Crystal Palace FC (32)
+?,(Sat) 24 Mar 1934 (12),Leyton Orient FC (21),4-0,?,Exeter City (32)
+?,(Sat) 4 Nov 1933 (44),Leyton Orient FC (22),2-1,?,Gillingham FC (32)
+?,(Sat) 7 Oct 1933 (40),Leyton Orient FC (23),1-1,?,Luton Town (12)
+?,(Mon) 28 Aug 1933 (35),Leyton Orient FC (24),3-0,?,Newport County AFC (12)
+?,(Sat) 24 Feb 1934 (8),Leyton Orient FC (25),5-1,?,Northampton Town (12)
+?,(Sat) 30 Dec 1933 (52),Leyton Orient FC (26),3-2,?,Norwich City (12)
+?,(Tue) 26 Dec 1933 (52),Leyton Orient FC (27),2-2,?,Queens Park Rangers (12)
+?,(Sat) 16 Dec 1933 (50),Leyton Orient FC (28),2-3,?,Reading FC (12)
+?,(Sat) 20 Jan 1934 (3),Leyton Orient FC (29),5-2,?,Southend United (12)
+?,(Sat) 27 Jan 1934 (4),Leyton Orient FC (30),1-0,?,Swindon Town (12)
+?,(Fri) 30 Mar 1934 (13),Leyton Orient FC (31),4-1,?,Torquay United (12)
+?,(Sat) 21 Apr 1934 (16),Leyton Orient FC (32),2-3,?,Watford FC (12)
+?,(Sat) 5 May 1934 (18),Luton Town (13),2-0,?,AFC Bournemouth (33)
+?,(Tue) 26 Dec 1933 (52),Luton Town (14),1-1,?,Aldershot Town FC (33)
+?,(Mon) 2 Apr 1934 (14),Luton Town (15),1-2,?,Brighton & Hove Albion (33)
+?,(Sat) 30 Sep 1933 (39),Luton Town (16),3-0,?,Bristol City FC (33)
+?,(Sat) 18 Nov 1933 (46),Luton Town (17),2-2,?,Bristol Rovers (33)
+?,(Sat) 16 Dec 1933 (50),Luton Town (18),3-1,?,Cardiff City (33)
+?,(Mon) 28 Aug 1933 (35),Luton Town (19),2-1,?,Charlton Athletic (33)
+?,(Sat) 4 Nov 1933 (44),Luton Town (20),0-1,?,Coventry City (33)
+?,(Sat) 7 Apr 1934 (14),Luton Town (21),2-1,?,Crystal Palace FC (33)
+?,(Sat) 21 Apr 1934 (16),Luton Town (22),3-2,?,Exeter City (33)
+?,(Sat) 2 Dec 1933 (48),Luton Town (23),4-2,?,Gillingham FC (33)
+?,(Sat) 17 Feb 1934 (7),Luton Town (24),2-0,?,Leyton Orient FC (33)
+?,(Sat) 16 Sep 1933 (37),Luton Town (25),1-1,?,Newport County AFC (13)
+?,(Sat) 30 Dec 1933 (52),Luton Town (26),3-1,?,Northampton Town (13)
+?,(Sat) 3 Feb 1934 (5),Luton Town (27),2-3,?,Norwich City (13)
+?,(Sat) 20 Jan 1934 (3),Luton Town (28),4-2,?,Queens Park Rangers (13)
+?,(Sat) 10 Mar 1934 (10),Luton Town (29),3-1,?,Reading FC (13)
+?,(Sat) 24 Mar 1934 (12),Luton Town (30),3-1,?,Southend United (13)
+?,(Sat) 14 Oct 1933 (41),Luton Town (31),2-3,?,Swindon Town (13)
+?,(Sat) 2 Sep 1933 (35),Luton Town (32),10-2,?,Torquay United (13)
+?,(Sat) 21 Oct 1933 (42),Luton Town (33),2-1,?,Watford FC (13)
+?,(Sat) 4 Nov 1933 (44),Newport County AFC (14),1-1,?,AFC Bournemouth (34)
+?,(Sat) 9 Sep 1933 (36),Newport County AFC (15),1-2,?,Aldershot Town FC (34)
+?,(Sat) 6 Jan 1934 (1),Newport County AFC (16),2-2,?,Brighton & Hove Albion (34)
+?,(Mon) 25 Dec 1933 (52),Newport County AFC (17),2-2,?,Bristol City FC (34)
+?,(Sat) 16 Dec 1933 (50),Newport County AFC (18),1-0,?,Bristol Rovers (34)
+?,(Sat) 10 Mar 1934 (10),Newport County AFC (19),2-2,?,Cardiff City (34)
+?,(Sat) 24 Mar 1934 (12),Newport County AFC (20),1-1,?,Charlton Athletic (34)
+?,(Sat) 2 Dec 1933 (48),Newport County AFC (21),0-0,?,Coventry City (34)
+?,(Sat) 5 May 1934 (18),Newport County AFC (22),1-0,?,Crystal Palace FC (34)
+?,(Sat) 21 Oct 1933 (42),Newport County AFC (23),1-0,?,Exeter City (34)
+?,(Sat) 24 Feb 1934 (8),Newport County AFC (24),3-1,?,Gillingham FC (34)
+?,(Mon) 4 Sep 1933 (36),Newport County AFC (25),1-1,?,Leyton Orient FC (34)
+?,(Sat) 27 Jan 1934 (4),Newport County AFC (26),1-2,?,Luton Town (34)
+?,(Sat) 23 Sep 1933 (38),Newport County AFC (27),2-0,?,Northampton Town (14)
+?,(Fri) 30 Mar 1934 (13),Newport County AFC (28),0-0,?,Norwich City (14)
+?,(Sat) 7 Oct 1933 (40),Newport County AFC (29),1-2,?,Queens Park Rangers (14)
+?,(Sat) 7 Apr 1934 (14),Newport County AFC (30),1-2,?,Reading FC (14)
+?,(Sat) 21 Apr 1934 (16),Newport County AFC (31),3-0,?,Southend United (14)
+?,(Sat) 26 Aug 1933 (34),Newport County AFC (32),1-2,?,Swindon Town (14)
+?,(Sat) 10 Feb 1934 (6),Newport County AFC (33),0-0,?,Torquay United (14)
+?,(Sat) 18 Nov 1933 (46),Newport County AFC (34),0-3,?,Watford FC (14)
+?,(Sat) 6 Jan 1934 (1),Northampton Town (15),4-1,?,AFC Bournemouth (35)
+?,(Mon) 4 Sep 1933 (36),Northampton Town (16),0-0,?,Aldershot Town FC (35)
+?,(Mon) 25 Dec 1933 (52),Northampton Town (17),1-1,?,Brighton & Hove Albion (35)
+?,(Thu) 22 Feb 1934 (8),Northampton Town (18),2-3,?,Bristol City FC (35)
+?,(Sat) 7 Apr 1934 (14),Northampton Town (19),1-2,?,Bristol Rovers (35)
+?,(Sat) 5 May 1934 (18),Northampton Town (20),2-0,?,Cardiff City (35)
+?,(Sat) 21 Oct 1933 (42),Northampton Town (21),1-2,?,Charlton Athletic (35)
+?,(Sat) 24 Mar 1934 (12),Northampton Town (22),2-2,?,Coventry City (35)
+?,(Sat) 2 Dec 1933 (48),Northampton Town (23),4-2,?,Crystal Palace FC (35)
+?,(Sat) 16 Dec 1933 (50),Northampton Town (24),5-3,?,Exeter City (35)
+?,(Sat) 21 Apr 1934 (16),Northampton Town (25),1-0,?,Gillingham FC (35)
+?,(Sat) 14 Oct 1933 (41),Northampton Town (26),3-0,?,Leyton Orient FC (35)
+?,(Sat) 26 Aug 1933 (34),Northampton Town (27),2-3,?,Luton Town (35)
+?,(Sat) 3 Feb 1934 (5),Northampton Town (28),5-3,?,Newport County AFC (35)
+?,(Sat) 30 Sep 1933 (39),Northampton Town (29),2-2,?,Norwich City (15)
+?,(Sat) 16 Sep 1933 (37),Northampton Town (30),2-1,?,Queens Park Rangers (15)
+?,(Sat) 4 Nov 1933 (44),Northampton Town (31),2-4,?,Reading FC (15)
+?,(Sat) 18 Nov 1933 (46),Northampton Town (32),2-0,?,Southend United (15)
+?,(Mon) 2 Apr 1934 (14),Northampton Town (33),2-2,?,Swindon Town (15)
+?,(Sat) 20 Jan 1934 (3),Northampton Town (34),1-1,?,Torquay United (15)
+?,(Sat) 10 Mar 1934 (10),Northampton Town (35),1-0,?,Watford FC (15)
+?,(Sat) 24 Mar 1934 (12),Norwich City (16),6-1,?,AFC Bournemouth (36)
+?,(Sat) 27 Jan 1934 (4),Norwich City (17),2-2,?,Aldershot Town FC (36)
+?,(Sat) 9 Sep 1933 (36),Norwich City (18),4-3,?,Brighton & Hove Albion (36)
+?,(Mon) 28 Aug 1933 (35),Norwich City (19),7-2,?,Bristol City FC (36)
+?,(Sat) 5 May 1934 (18),Norwich City (20),0-0,?,Bristol Rovers (36)
+?,(Sat) 4 Nov 1933 (44),Norwich City (21),2-0,?,Cardiff City (36)
+?,(Sat) 18 Nov 1933 (46),Norwich City (22),3-0,?,Charlton Athletic (36)
+?,(Sat) 21 Apr 1934 (16),Norwich City (23),3-1,?,Coventry City (36)
+?,(Tue) 26 Dec 1933 (52),Norwich City (24),2-0,?,Crystal Palace FC (36)
+?,(Sat) 10 Mar 1934 (10),Norwich City (25),1-1,?,Exeter City (36)
+?,(Sat) 21 Oct 1933 (42),Norwich City (26),4-1,?,Gillingham FC (36)
+?,(Sat) 26 Aug 1933 (34),Norwich City (27),3-0,?,Leyton Orient FC (36)
+?,(Sat) 23 Sep 1933 (38),Norwich City (28),4-0,?,Luton Town (36)
+?,(Mon) 2 Apr 1934 (14),Norwich City (29),2-1,?,Newport County AFC (36)
+?,(Sat) 10 Feb 1934 (6),Norwich City (30),2-0,?,Northampton Town (36)
+?,(Sat) 24 Feb 1934 (8),Norwich City (31),1-0,?,Queens Park Rangers (16)
+?,(Sat) 2 Dec 1933 (48),Norwich City (32),3-2,?,Reading FC (16)
+?,(Sat) 16 Dec 1933 (50),Norwich City (33),0-0,?,Southend United (16)
+?,(Sat) 6 Jan 1934 (1),Norwich City (34),3-2,?,Swindon Town (16)
+?,(Sat) 7 Oct 1933 (40),Norwich City (35),0-2,?,Torquay United (16)
+?,(Sat) 7 Apr 1934 (14),Norwich City (36),3-1,?,Watford FC (16)
+?,(Sat) 10 Mar 1934 (10),Queens Park Rangers (17),1-0,?,AFC Bournemouth (37)
+?,(Sat) 6 Jan 1934 (1),Queens Park Rangers (18),2-4,?,Aldershot Town FC (37)
+?,(Sat) 26 Aug 1933 (34),Queens Park Rangers (19),2-0,?,Brighton & Hove Albion (37)
+?,(Fri) 30 Mar 1934 (13),Queens Park Rangers (20),1-0,?,Bristol City FC (37)
+?,(Sat) 21 Apr 1934 (16),Queens Park Rangers (21),1-0,?,Bristol Rovers (37)
+?,(Sat) 21 Oct 1933 (42),Queens Park Rangers (22),4-0,?,Cardiff City (37)
+?,(Sat) 4 Nov 1933 (44),Queens Park Rangers (23),2-1,?,Charlton Athletic (37)
+?,(Sat) 7 Apr 1934 (14),Queens Park Rangers (24),0-1,?,Coventry City (37)
+?,(Sat) 16 Dec 1933 (50),Queens Park Rangers (25),2-1,?,Crystal Palace FC (37)
+?,(Sat) 10 Feb 1934 (6),Queens Park Rangers (26),2-0,?,Exeter City (37)
+?,(Sat) 5 May 1934 (18),Queens Park Rangers (27),5-0,?,Gillingham FC (37)
+?,(Mon) 25 Dec 1933 (52),Queens Park Rangers (28),2-0,?,Leyton Orient FC (37)
+?,(Sat) 9 Sep 1933 (36),Queens Park Rangers (29),2-1,?,Luton Town (37)
+?,(Sat) 17 Feb 1934 (7),Queens Park Rangers (30),2-1,?,Newport County AFC (37)
+?,(Wed) 31 Jan 1934 (5),Queens Park Rangers (31),2-1,?,Northampton Town (37)
+?,(Sat) 14 Oct 1933 (41),Queens Park Rangers (32),5-2,?,Norwich City (37)
+?,(Sat) 18 Nov 1933 (46),Queens Park Rangers (33),0-0,?,Reading FC (17)
+?,(Sat) 2 Dec 1933 (48),Queens Park Rangers (34),4-0,?,Southend United (17)
+?,(Thu) 7 Sep 1933 (36),Queens Park Rangers (35),1-0,?,Swindon Town (17)
+?,(Sat) 23 Sep 1933 (38),Queens Park Rangers (36),2-0,?,Torquay United (17)
+?,(Sat) 24 Mar 1934 (12),Queens Park Rangers (37),0-0,?,Watford FC (17)
+?,(Tue) 26 Dec 1933 (52),Reading FC (18),4-0,?,AFC Bournemouth (38)
+?,(Sat) 3 Mar 1934 (9),Reading FC (19),3-2,?,Aldershot Town FC (38)
+?,(Sat) 7 Oct 1933 (40),Reading FC (20),2-0,?,Brighton & Hove Albion (38)
+?,(Wed) 18 Apr 1934 (16),Reading FC (21),1-1,?,Bristol City FC (38)
+?,(Sat) 27 Jan 1934 (4),Reading FC (22),2-2,?,Bristol Rovers (38)
+?,(Wed) 6 Sep 1933 (36),Reading FC (23),3-1,?,Cardiff City (38)
+?,(Mon) 2 Apr 1934 (14),Reading FC (24),1-0,?,Charlton Athletic (38)
+?,(Sat) 10 Feb 1934 (6),Reading FC (25),1-0,?,Coventry City (38)
+?,(Sat) 9 Sep 1933 (36),Reading FC (26),0-0,?,Crystal Palace FC (38)
+?,(Sat) 26 Aug 1933 (34),Reading FC (27),3-1,?,Exeter City (38)
+?,(Sat) 6 Jan 1934 (1),Reading FC (28),2-0,?,Gillingham FC (38)
+?,(Sat) 28 Apr 1934 (17),Reading FC (29),4-0,?,Leyton Orient FC (38)
+?,(Sat) 28 Oct 1933 (43),Reading FC (30),4-1,?,Luton Town (38)
+?,(Wed) 17 Jan 1934 (3),Reading FC (31),4-0,?,Newport County AFC (38)
+?,(Sat) 17 Mar 1934 (11),Reading FC (32),2-2,?,Northampton Town (38)
+?,(Sat) 14 Apr 1934 (15),Reading FC (33),1-0,?,Norwich City (38)
+?,(Sat) 31 Mar 1934 (13),Reading FC (34),5-0,?,Queens Park Rangers (38)
+?,(Sat) 23 Sep 1933 (38),Reading FC (35),5-0,?,Southend United (18)
+?,(Sat) 23 Dec 1933 (51),Reading FC (36),2-0,?,Swindon Town (18)
+?,(Sat) 11 Nov 1933 (45),Reading FC (37),5-2,?,Torquay United (18)
+?,(Sat) 14 Oct 1933 (41),Reading FC (38),6-1,?,Watford FC (18)
+?,(Sat) 14 Oct 1933 (41),Southend United (19),1-2,?,AFC Bournemouth (39)
+?,(Sat) 17 Mar 1934 (11),Southend United (20),1-0,?,Aldershot Town FC (39)
+?,(Sat) 28 Oct 1933 (43),Southend United (21),0-0,?,Brighton & Hove Albion (39)
+?,(Sat) 23 Dec 1933 (51),Southend United (22),3-0,?,Bristol City FC (39)
+?,(Sat) 6 Jan 1934 (1),Southend United (23),2-2,?,Bristol Rovers (39)
+?,(Mon) 2 Apr 1934 (14),Southend United (24),1-1,?,Cardiff City (39)
+?,(Sat) 17 Feb 1934 (7),Southend United (25),1-0,?,Charlton Athletic (39)
+?,(Sat) 16 Sep 1933 (37),Southend United (26),2-1,?,Coventry City (39)
+?,(Sat) 26 Aug 1933 (34),Southend United (27),0-4,?,Crystal Palace FC (39)
+?,(Tue) 26 Dec 1933 (52),Southend United (28),3-1,?,Exeter City (39)
+?,(Wed) 6 Sep 1933 (36),Southend United (29),1-2,?,Gillingham FC (39)
+?,(Sat) 9 Sep 1933 (36),Southend United (30),2-1,?,Leyton Orient FC (39)
+?,(Sat) 11 Nov 1933 (45),Southend United (31),0-1,?,Luton Town (39)
+?,(Wed) 14 Mar 1934 (11),Southend United (32),3-5,?,Newport County AFC (39)
+?,(Sat) 31 Mar 1934 (13),Southend United (33),2-0,?,Northampton Town (39)
+?,(Sat) 28 Apr 1934 (17),Southend United (34),0-0,?,Norwich City (39)
+?,(Sat) 14 Apr 1934 (15),Southend United (35),0-2,?,Queens Park Rangers (39)
+?,(Sat) 3 Feb 1934 (5),Southend United (36),2-2,?,Reading FC (39)
+?,(Sat) 3 Mar 1934 (9),Southend United (37),4-1,?,Swindon Town (19)
+?,(Wed) 17 Jan 1934 (3),Southend United (38),3-1,?,Torquay United (19)
+?,(Sat) 30 Sep 1933 (39),Southend United (39),1-1,?,Watford FC (19)
+?,(Sat) 2 Dec 1933 (48),Swindon Town (20),3-2,?,AFC Bournemouth (40)
+?,(Sat) 7 Oct 1933 (40),Swindon Town (21),1-0,?,Aldershot Town FC (40)
+?,(Sat) 10 Feb 1934 (6),Swindon Town (22),1-1,?,Brighton & Hove Albion (40)
+?,(Sat) 20 Jan 1934 (3),Swindon Town (23),4-2,?,Bristol City FC (40)
+?,(Sat) 10 Mar 1934 (10),Swindon Town (24),1-0,?,Bristol Rovers (40)
+?,(Sat) 7 Apr 1934 (14),Swindon Town (25),6-3,?,Cardiff City (40)
+?,(Sat) 21 Apr 1934 (16),Swindon Town (26),1-3,?,Charlton Athletic (40)
+?,(Sat) 3 Feb 1934 (5),Swindon Town (27),0-1,?,Coventry City (40)
+?,(Sat) 4 Nov 1933 (44),Swindon Town (28),3-2,?,Crystal Palace FC (40)
+?,(Sat) 18 Nov 1933 (46),Swindon Town (29),1-1,?,Exeter City (40)
+?,(Sat) 24 Mar 1934 (12),Swindon Town (30),3-1,?,Gillingham FC (40)
+?,(Sat) 16 Sep 1933 (37),Swindon Town (31),3-0,?,Leyton Orient FC (40)
+?,(Sat) 24 Feb 1934 (8),Swindon Town (32),3-1,?,Luton Town (40)
+?,(Sat) 30 Dec 1933 (52),Swindon Town (33),1-1,?,Newport County AFC (40)
+?,(Fri) 30 Mar 1934 (13),Swindon Town (34),1-1,?,Northampton Town (40)
+?,(Sat) 2 Sep 1933 (35),Swindon Town (35),0-0,?,Norwich City (40)
+?,(Wed) 30 Aug 1933 (35),Swindon Town (36),3-1,?,Queens Park Rangers (40)
+?,(Sat) 5 May 1934 (18),Swindon Town (37),3-1,?,Reading FC (40)
+?,(Sat) 21 Oct 1933 (42),Swindon Town (38),1-4,?,Southend United (40)
+?,(Tue) 26 Dec 1933 (52),Swindon Town (39),2-0,?,Torquay United (20)
+?,(Sat) 16 Dec 1933 (50),Swindon Town (40),1-0,?,Watford FC (20)
+?,(Sat) 21 Oct 1933 (42),Torquay United (21),1-0,?,AFC Bournemouth (41)
+?,(Sat) 26 Aug 1933 (34),Torquay United (22),0-0,?,Aldershot Town FC (41)
+?,(Wed) 6 Sep 1933 (36),Torquay United (23),3-0,?,Brighton & Hove Albion (41)
+?,(Sat) 14 Oct 1933 (41),Torquay United (24),2-2,?,Bristol City FC (41)
+?,(Sat) 2 Dec 1933 (48),Torquay United (25),2-1,?,Bristol Rovers (41)
+?,(Sat) 27 Jan 1934 (4),Torquay United (26),3-1,?,Cardiff City (41)
+?,(Sat) 10 Mar 1934 (10),Torquay United (27),1-4,?,Charlton Athletic (41)
+?,(Sat) 18 Nov 1933 (46),Torquay United (28),1-3,?,Coventry City (41)
+?,(Sat) 21 Apr 1934 (16),Torquay United (29),2-1,?,Crystal Palace FC (41)
+?,(Sat) 5 May 1934 (18),Torquay United (30),0-2,?,Exeter City (41)
+?,(Sat) 16 Dec 1933 (50),Torquay United (31),2-1,?,Gillingham FC (41)
+?,(Mon) 2 Apr 1934 (14),Torquay United (32),2-1,?,Leyton Orient FC (41)
+?,(Sat) 6 Jan 1934 (1),Torquay United (33),0-1,?,Luton Town (41)
+?,(Sat) 30 Sep 1933 (39),Torquay United (34),1-2,?,Newport County AFC (41)
+?,(Sat) 9 Sep 1933 (36),Torquay United (35),3-2,?,Northampton Town (41)
+?,(Sat) 17 Feb 1934 (7),Torquay United (36),1-2,?,Norwich City (41)
+?,(Sat) 3 Feb 1934 (5),Torquay United (37),1-1,?,Queens Park Rangers (41)
+?,(Sat) 24 Mar 1934 (12),Torquay United (38),1-1,?,Reading FC (41)
+?,(Sat) 7 Apr 1934 (14),Torquay United (39),3-0,?,Southend United (41)
+?,(Mon) 25 Dec 1933 (52),Torquay United (40),2-0,?,Swindon Town (41)
+?,(Sat) 4 Nov 1933 (44),Torquay United (41),1-3,?,Watford FC (21)
+?,(Wed) 6 Sep 1933 (36),Watford FC (22),1-2,?,AFC Bournemouth (42)
+?,(Mon) 2 Apr 1934 (14),Watford FC (23),3-0,?,Aldershot Town FC (42)
+?,(Sat) 23 Dec 1933 (51),Watford FC (24),2-0,?,Brighton & Hove Albion (42)
+?,(Sat) 14 Apr 1934 (15),Watford FC (25),1-1,?,Bristol City FC (42)
+?,(Sat) 23 Sep 1933 (38),Watford FC (26),0-0,?,Bristol Rovers (42)
+?,(Sat) 26 Aug 1933 (34),Watford FC (27),1-2,?,Cardiff City (42)
+?,(Mon) 25 Dec 1933 (52),Watford FC (28),0-1,?,Charlton Athletic (42)
+?,(Sat) 7 Oct 1933 (40),Watford FC (29),3-3,?,Coventry City (42)
+?,(Wed) 31 Jan 1934 (5),Watford FC (30),3-1,?,Crystal Palace FC (42)
+?,(Sat) 6 Jan 1934 (1),Watford FC (31),2-0,?,Exeter City (42)
+?,(Sat) 9 Sep 1933 (36),Watford FC (32),2-1,?,Gillingham FC (42)
+?,(Wed) 20 Dec 1933 (51),Watford FC (33),6-0,?,Leyton Orient FC (42)
+?,(Sat) 3 Mar 1934 (9),Watford FC (34),0-1,?,Luton Town (42)
+?,(Sat) 31 Mar 1934 (13),Watford FC (35),3-0,?,Newport County AFC (42)
+?,(Sat) 28 Oct 1933 (43),Watford FC (36),2-0,?,Northampton Town (42)
+?,(Sat) 13 Jan 1934 (2),Watford FC (37),1-3,?,Norwich City (42)
+?,(Sat) 11 Nov 1933 (45),Watford FC (38),0-0,?,Queens Park Rangers (42)
+?,(Sat) 24 Feb 1934 (8),Watford FC (39),2-0,?,Reading FC (42)
+?,(Sat) 10 Feb 1934 (6),Watford FC (40),2-1,?,Southend United (42)
+?,(Sat) 28 Apr 1934 (17),Watford FC (41),4-0,?,Swindon Town (42)
+?,(Sat) 17 Mar 1934 (11),Watford FC (42),5-0,?,Torquay United (42)

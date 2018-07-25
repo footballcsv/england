@@ -1,553 +1,553 @@
-Round,Date,Team 1,Team 2,FT,HT
--,-,Barnsley,AFC Bournemouth,2-3,-
--,-,Bradford City,AFC Bournemouth,3-1,-
--,-,Brentford,AFC Bournemouth,2-2,-
--,-,Bristol City,AFC Bournemouth,1-0,-
--,-,Bury,AFC Bournemouth,1-1,-
--,-,Chesterfield,AFC Bournemouth,0-1,-
--,-,Colchester United,AFC Bournemouth,0-1,-
--,-,Coventry City,AFC Bournemouth,1-0,-
--,-,Grimsby Town,AFC Bournemouth,0-1,-
--,-,Halifax Town,AFC Bournemouth,2-1,-
--,-,Hull City,AFC Bournemouth,2-0,-
--,-,Newport County,AFC Bournemouth,2-0,-
--,-,Notts County,AFC Bournemouth,3-2,-
--,-,Port Vale,AFC Bournemouth,3-0,-
--,-,Queens Park Rangers,AFC Bournemouth,3-1,-
--,-,Reading,AFC Bournemouth,4-3,-
--,-,Shrewsbury Town,AFC Bournemouth,2-1,-
--,-,Southend United,AFC Bournemouth,0-0,-
--,-,Swindon Town,AFC Bournemouth,0-1,-
--,-,Torquay United,AFC Bournemouth,0-1,-
--,-,Tranmere Rovers,AFC Bournemouth,4-3,-
--,-,Walsall,AFC Bournemouth,2-0,-
--,-,Watford,AFC Bournemouth,0-1,-
--,-,AFC Bournemouth,Barnsley,1-2,-
--,-,Bradford City,Barnsley,1-4,-
--,-,Brentford,Barnsley,0-0,-
--,-,Bristol City,Barnsley,4-0,-
--,-,Bury,Barnsley,2-1,-
--,-,Chesterfield,Barnsley,5-1,-
--,-,Colchester United,Barnsley,4-2,-
--,-,Coventry City,Barnsley,5-2,-
--,-,Grimsby Town,Barnsley,3-2,-
--,-,Halifax Town,Barnsley,1-0,-
--,-,Hull City,Barnsley,2-0,-
--,-,Newport County,Barnsley,2-3,-
--,-,Notts County,Barnsley,5-1,-
--,-,Port Vale,Barnsley,2-0,-
--,-,Queens Park Rangers,Barnsley,4-2,-
--,-,Reading,Barnsley,0-1,-
--,-,Shrewsbury Town,Barnsley,1-2,-
--,-,Southend United,Barnsley,2-0,-
--,-,Swindon Town,Barnsley,1-0,-
--,-,Torquay United,Barnsley,1-1,-
--,-,Tranmere Rovers,Barnsley,2-1,-
--,-,Walsall,Barnsley,1-0,-
--,-,Watford,Barnsley,1-2,-
--,-,AFC Bournemouth,Bradford City,2-2,-
--,-,Barnsley,Bradford City,5-2,-
--,-,Brentford,Bradford City,2-2,-
--,-,Bristol City,Bradford City,1-2,-
--,-,Bury,Bradford City,2-2,-
--,-,Chesterfield,Bradford City,4-1,-
--,-,Colchester United,Bradford City,2-4,-
--,-,Coventry City,Bradford City,2-2,-
--,-,Grimsby Town,Bradford City,1-0,-
--,-,Halifax Town,Bradford City,3-2,-
--,-,Hull City,Bradford City,3-0,-
--,-,Newport County,Bradford City,1-0,-
--,-,Notts County,Bradford City,2-1,-
--,-,Port Vale,Bradford City,2-4,-
--,-,Queens Park Rangers,Bradford City,1-0,-
--,-,Reading,Bradford City,3-1,-
--,-,Shrewsbury Town,Bradford City,2-0,-
--,-,Southend United,Bradford City,0-0,-
--,-,Swindon Town,Bradford City,4-0,-
--,-,Torquay United,Bradford City,2-1,-
--,-,Tranmere Rovers,Bradford City,1-0,-
--,-,Walsall,Bradford City,4-0,-
--,-,Watford,Bradford City,2-2,-
--,-,AFC Bournemouth,Brentford,0-1,-
--,-,Barnsley,Brentford,1-1,-
--,-,Bradford City,Brentford,3-1,-
--,-,Bristol City,Brentford,3-0,-
--,-,Bury,Brentford,1-0,-
--,-,Chesterfield,Brentford,1-1,-
--,-,Colchester United,Brentford,2-4,-
--,-,Coventry City,Brentford,2-0,-
--,-,Grimsby Town,Brentford,0-0,-
--,-,Halifax Town,Brentford,1-0,-
--,-,Hull City,Brentford,3-0,-
--,-,Newport County,Brentford,0-1,-
--,-,Notts County,Brentford,0-0,-
--,-,Port Vale,Brentford,3-2,-
--,-,Queens Park Rangers,Brentford,0-0,-
--,-,Reading,Brentford,4-0,-
--,-,Shrewsbury Town,Brentford,3-0,-
--,-,Southend United,Brentford,1-1,-
--,-,Swindon Town,Brentford,1-1,-
--,-,Torquay United,Brentford,1-1,-
--,-,Tranmere Rovers,Brentford,2-0,-
--,-,Walsall,Brentford,4-0,-
--,-,Watford,Brentford,6-1,-
--,-,AFC Bournemouth,Bristol City,2-2,-
--,-,Barnsley,Bristol City,2-0,-
--,-,Bradford City,Bristol City,2-0,-
--,-,Brentford,Bristol City,2-0,-
--,-,Bury,Bristol City,1-0,-
--,-,Chesterfield,Bristol City,3-0,-
--,-,Colchester United,Bristol City,0-1,-
--,-,Coventry City,Bristol City,2-1,-
--,-,Grimsby Town,Bristol City,5-2,-
--,-,Halifax Town,Bristol City,2-1,-
--,-,Hull City,Bristol City,3-3,-
--,-,Newport County,Bristol City,4-1,-
--,-,Notts County,Bristol City,3-0,-
--,-,Port Vale,Bristol City,1-1,-
--,-,Queens Park Rangers,Bristol City,1-1,-
--,-,Reading,Bristol City,1-1,-
--,-,Shrewsbury Town,Bristol City,4-2,-
--,-,Southend United,Bristol City,1-0,-
--,-,Swindon Town,Bristol City,3-1,-
--,-,Torquay United,Bristol City,0-0,-
--,-,Tranmere Rovers,Bristol City,3-2,-
--,-,Walsall,Bristol City,4-0,-
--,-,Watford,Bristol City,0-1,-
--,-,AFC Bournemouth,Bury,0-3,-
--,-,Barnsley,Bury,3-1,-
--,-,Bradford City,Bury,0-1,-
--,-,Brentford,Bury,1-5,-
--,-,Bristol City,Bury,1-2,-
--,-,Chesterfield,Bury,2-2,-
--,-,Colchester United,Bury,0-2,-
--,-,Coventry City,Bury,1-2,-
--,-,Grimsby Town,Bury,2-2,-
--,-,Halifax Town,Bury,0-2,-
--,-,Hull City,Bury,0-1,-
--,-,Newport County,Bury,0-0,-
--,-,Notts County,Bury,0-3,-
--,-,Port Vale,Bury,4-3,-
--,-,Queens Park Rangers,Bury,3-1,-
--,-,Reading,Bury,1-3,-
--,-,Shrewsbury Town,Bury,2-1,-
--,-,Southend United,Bury,0-3,-
--,-,Swindon Town,Bury,4-0,-
--,-,Torquay United,Bury,1-1,-
--,-,Tranmere Rovers,Bury,1-7,-
--,-,Walsall,Bury,1-0,-
--,-,Watford,Bury,1-1,-
--,-,AFC Bournemouth,Chesterfield,1-0,-
--,-,Barnsley,Chesterfield,3-1,-
--,-,Bradford City,Chesterfield,3-2,-
--,-,Brentford,Chesterfield,2-2,-
--,-,Bristol City,Chesterfield,3-0,-
--,-,Bury,Chesterfield,3-3,-
--,-,Colchester United,Chesterfield,4-3,-
--,-,Coventry City,Chesterfield,3-1,-
--,-,Grimsby Town,Chesterfield,0-0,-
--,-,Halifax Town,Chesterfield,2-1,-
--,-,Hull City,Chesterfield,2-2,-
--,-,Newport County,Chesterfield,5-1,-
--,-,Notts County,Chesterfield,1-0,-
--,-,Port Vale,Chesterfield,7-1,-
--,-,Queens Park Rangers,Chesterfield,1-2,-
--,-,Reading,Chesterfield,2-0,-
--,-,Shrewsbury Town,Chesterfield,4-2,-
--,-,Southend United,Chesterfield,1-1,-
--,-,Swindon Town,Chesterfield,2-0,-
--,-,Torquay United,Chesterfield,3-0,-
--,-,Tranmere Rovers,Chesterfield,1-1,-
--,-,Walsall,Chesterfield,2-1,-
--,-,Watford,Chesterfield,3-1,-
--,-,AFC Bournemouth,Colchester United,4-4,-
--,-,Barnsley,Colchester United,3-0,-
--,-,Bradford City,Colchester United,0-1,-
--,-,Brentford,Colchester United,0-0,-
--,-,Bristol City,Colchester United,5-0,-
--,-,Bury,Colchester United,4-0,-
--,-,Chesterfield,Colchester United,2-3,-
--,-,Coventry City,Colchester United,2-0,-
--,-,Grimsby Town,Colchester United,2-1,-
--,-,Halifax Town,Colchester United,2-1,-
--,-,Hull City,Colchester United,1-1,-
--,-,Newport County,Colchester United,3-2,-
--,-,Notts County,Colchester United,4-2,-
--,-,Port Vale,Colchester United,3-0,-
--,-,Queens Park Rangers,Colchester United,3-2,-
--,-,Reading,Colchester United,2-1,-
--,-,Shrewsbury Town,Colchester United,2-2,-
--,-,Southend United,Colchester United,2-1,-
--,-,Swindon Town,Colchester United,0-2,-
--,-,Torquay United,Colchester United,1-1,-
--,-,Tranmere Rovers,Colchester United,7-2,-
--,-,Walsall,Colchester United,3-0,-
--,-,Watford,Colchester United,2-2,-
--,-,AFC Bournemouth,Coventry City,2-1,-
--,-,Barnsley,Coventry City,4-1,-
--,-,Bradford City,Coventry City,4-1,-
--,-,Brentford,Coventry City,1-1,-
--,-,Bristol City,Coventry City,2-0,-
--,-,Bury,Coventry City,1-0,-
--,-,Chesterfield,Coventry City,4-1,-
--,-,Colchester United,Coventry City,4-3,-
--,-,Grimsby Town,Coventry City,2-3,-
--,-,Halifax Town,Coventry City,2-2,-
--,-,Hull City,Coventry City,1-1,-
--,-,Newport County,Coventry City,3-3,-
--,-,Notts County,Coventry City,3-0,-
--,-,Port Vale,Coventry City,3-1,-
--,-,Queens Park Rangers,Coventry City,2-1,-
--,-,Reading,Coventry City,0-0,-
--,-,Shrewsbury Town,Coventry City,2-1,-
--,-,Southend United,Coventry City,4-1,-
--,-,Swindon Town,Coventry City,1-2,-
--,-,Torquay United,Coventry City,3-0,-
--,-,Tranmere Rovers,Coventry City,2-0,-
--,-,Walsall,Coventry City,1-1,-
--,-,Watford,Coventry City,7-2,-
--,-,AFC Bournemouth,Grimsby Town,2-1,-
--,-,Barnsley,Grimsby Town,3-2,-
--,-,Bradford City,Grimsby Town,1-3,-
--,-,Brentford,Grimsby Town,0-1,-
--,-,Bristol City,Grimsby Town,2-1,-
--,-,Bury,Grimsby Town,2-0,-
--,-,Chesterfield,Grimsby Town,2-3,-
--,-,Colchester United,Grimsby Town,1-1,-
--,-,Coventry City,Grimsby Town,0-0,-
--,-,Halifax Town,Grimsby Town,0-0,-
--,-,Hull City,Grimsby Town,2-3,-
--,-,Newport County,Grimsby Town,1-1,-
--,-,Notts County,Grimsby Town,0-1,-
--,-,Port Vale,Grimsby Town,3-2,-
--,-,Queens Park Rangers,Grimsby Town,2-0,-
--,-,Reading,Grimsby Town,3-1,-
--,-,Shrewsbury Town,Grimsby Town,2-1,-
--,-,Southend United,Grimsby Town,1-1,-
--,-,Swindon Town,Grimsby Town,3-0,-
--,-,Torquay United,Grimsby Town,0-0,-
--,-,Tranmere Rovers,Grimsby Town,3-6,-
--,-,Walsall,Grimsby Town,2-1,-
--,-,Watford,Grimsby Town,2-0,-
--,-,AFC Bournemouth,Halifax Town,1-2,-
--,-,Barnsley,Halifax Town,1-1,-
--,-,Bradford City,Halifax Town,2-2,-
--,-,Brentford,Halifax Town,2-0,-
--,-,Bristol City,Halifax Town,3-2,-
--,-,Bury,Halifax Town,4-1,-
--,-,Chesterfield,Halifax Town,3-0,-
--,-,Colchester United,Halifax Town,3-1,-
--,-,Coventry City,Halifax Town,2-0,-
--,-,Grimsby Town,Halifax Town,6-1,-
--,-,Hull City,Halifax Town,4-2,-
--,-,Newport County,Halifax Town,1-1,-
--,-,Notts County,Halifax Town,1-1,-
--,-,Port Vale,Halifax Town,2-3,-
--,-,Queens Park Rangers,Halifax Town,5-1,-
--,-,Reading,Halifax Town,1-1,-
--,-,Shrewsbury Town,Halifax Town,1-1,-
--,-,Southend United,Halifax Town,2-2,-
--,-,Swindon Town,Halifax Town,1-1,-
--,-,Torquay United,Halifax Town,1-1,-
--,-,Tranmere Rovers,Halifax Town,6-2,-
--,-,Walsall,Halifax Town,0-0,-
--,-,Watford,Halifax Town,4-3,-
--,-,AFC Bournemouth,Hull City,2-2,-
--,-,Barnsley,Hull City,1-0,-
--,-,Bradford City,Hull City,0-0,-
--,-,Brentford,Hull City,2-2,-
--,-,Bristol City,Hull City,1-2,-
--,-,Bury,Hull City,3-0,-
--,-,Chesterfield,Hull City,1-2,-
--,-,Colchester United,Hull City,4-0,-
--,-,Coventry City,Hull City,4-0,-
--,-,Grimsby Town,Hull City,2-0,-
--,-,Halifax Town,Hull City,3-0,-
--,-,Newport County,Hull City,3-1,-
--,-,Notts County,Hull City,2-1,-
--,-,Port Vale,Hull City,4-1,-
--,-,Queens Park Rangers,Hull City,2-1,-
--,-,Reading,Hull City,2-4,-
--,-,Shrewsbury Town,Hull City,0-0,-
--,-,Southend United,Hull City,3-1,-
--,-,Swindon Town,Hull City,1-1,-
--,-,Torquay United,Hull City,1-2,-
--,-,Tranmere Rovers,Hull City,1-0,-
--,-,Walsall,Hull City,1-0,-
--,-,Watford,Hull City,2-2,-
--,-,AFC Bournemouth,Newport County,2-2,-
--,-,Barnsley,Newport County,1-3,-
--,-,Bradford City,Newport County,1-2,-
--,-,Brentford,Newport County,2-4,-
--,-,Bristol City,Newport County,3-0,-
--,-,Bury,Newport County,4-1,-
--,-,Chesterfield,Newport County,1-0,-
--,-,Colchester United,Newport County,1-1,-
--,-,Coventry City,Newport County,4-1,-
--,-,Grimsby Town,Newport County,2-1,-
--,-,Halifax Town,Newport County,2-1,-
--,-,Hull City,Newport County,5-1,-
--,-,Notts County,Newport County,6-0,-
--,-,Port Vale,Newport County,3-1,-
--,-,Queens Park Rangers,Newport County,2-0,-
--,-,Reading,Newport County,2-3,-
--,-,Shrewsbury Town,Newport County,5-0,-
--,-,Southend United,Newport County,4-2,-
--,-,Swindon Town,Newport County,2-0,-
--,-,Torquay United,Newport County,0-0,-
--,-,Tranmere Rovers,Newport County,2-4,-
--,-,Walsall,Newport County,2-2,-
--,-,Watford,Newport County,4-1,-
--,-,AFC Bournemouth,Notts County,1-3,-
--,-,Barnsley,Notts County,5-2,-
--,-,Bradford City,Notts County,2-2,-
--,-,Brentford,Notts County,3-0,-
--,-,Bristol City,Notts County,2-1,-
--,-,Bury,Notts County,7-0,-
--,-,Chesterfield,Notts County,3-1,-
--,-,Colchester United,Notts County,1-2,-
--,-,Coventry City,Notts County,2-2,-
--,-,Grimsby Town,Notts County,1-1,-
--,-,Halifax Town,Notts County,0-1,-
--,-,Hull City,Notts County,3-1,-
--,-,Newport County,Notts County,2-2,-
--,-,Port Vale,Notts County,1-3,-
--,-,Queens Park Rangers,Notts County,2-0,-
--,-,Reading,Notts County,2-0,-
--,-,Shrewsbury Town,Notts County,4-0,-
--,-,Southend United,Notts County,3-1,-
--,-,Swindon Town,Notts County,1-0,-
--,-,Torquay United,Notts County,2-2,-
--,-,Tranmere Rovers,Notts County,2-3,-
--,-,Walsall,Notts County,2-1,-
--,-,Watford,Notts County,2-2,-
--,-,AFC Bournemouth,Port Vale,1-1,-
--,-,Barnsley,Port Vale,5-1,-
--,-,Bradford City,Port Vale,3-3,-
--,-,Brentford,Port Vale,0-0,-
--,-,Bristol City,Port Vale,3-4,-
--,-,Bury,Port Vale,3-1,-
--,-,Chesterfield,Port Vale,0-0,-
--,-,Colchester United,Port Vale,2-0,-
--,-,Coventry City,Port Vale,1-1,-
--,-,Grimsby Town,Port Vale,0-5,-
--,-,Halifax Town,Port Vale,3-3,-
--,-,Hull City,Port Vale,2-2,-
--,-,Newport County,Port Vale,2-1,-
--,-,Notts County,Port Vale,2-2,-
--,-,Queens Park Rangers,Port Vale,1-0,-
--,-,Reading,Port Vale,2-1,-
--,-,Shrewsbury Town,Port Vale,1-1,-
--,-,Southend United,Port Vale,2-1,-
--,-,Swindon Town,Port Vale,6-0,-
--,-,Torquay United,Port Vale,1-1,-
--,-,Tranmere Rovers,Port Vale,3-3,-
--,-,Walsall,Port Vale,6-2,-
--,-,Watford,Port Vale,0-0,-
--,-,AFC Bournemouth,Queens Park Rangers,1-0,-
--,-,Barnsley,Queens Park Rangers,3-3,-
--,-,Bradford City,Queens Park Rangers,1-1,-
--,-,Brentford,Queens Park Rangers,2-0,-
--,-,Bristol City,Queens Park Rangers,1-1,-
--,-,Bury,Queens Park Rangers,1-0,-
--,-,Chesterfield,Queens Park Rangers,0-1,-
--,-,Colchester United,Queens Park Rangers,0-1,-
--,-,Coventry City,Queens Park Rangers,4-4,-
--,-,Grimsby Town,Queens Park Rangers,3-1,-
--,-,Halifax Town,Queens Park Rangers,1-1,-
--,-,Hull City,Queens Park Rangers,3-1,-
--,-,Newport County,Queens Park Rangers,1-3,-
--,-,Notts County,Queens Park Rangers,2-1,-
--,-,Port Vale,Queens Park Rangers,0-1,-
--,-,Reading,Queens Park Rangers,3-1,-
--,-,Shrewsbury Town,Queens Park Rangers,4-1,-
--,-,Southend United,Queens Park Rangers,0-0,-
--,-,Swindon Town,Queens Park Rangers,1-0,-
--,-,Torquay United,Queens Park Rangers,1-6,-
--,-,Tranmere Rovers,Queens Park Rangers,1-2,-
--,-,Walsall,Queens Park Rangers,4-3,-
--,-,Watford,Queens Park Rangers,0-3,-
--,-,AFC Bournemouth,Reading,2-0,-
--,-,Barnsley,Reading,1-1,-
--,-,Bradford City,Reading,2-1,-
--,-,Brentford,Reading,2-1,-
--,-,Bristol City,Reading,2-0,-
--,-,Bury,Reading,3-0,-
--,-,Chesterfield,Reading,2-2,-
--,-,Colchester United,Reading,2-2,-
--,-,Coventry City,Reading,2-1,-
--,-,Grimsby Town,Reading,3-1,-
--,-,Halifax Town,Reading,1-0,-
--,-,Hull City,Reading,1-0,-
--,-,Newport County,Reading,5-2,-
--,-,Notts County,Reading,4-2,-
--,-,Port Vale,Reading,1-1,-
--,-,Queens Park Rangers,Reading,5-2,-
--,-,Shrewsbury Town,Reading,6-1,-
--,-,Southend United,Reading,0-1,-
--,-,Swindon Town,Reading,1-1,-
--,-,Torquay United,Reading,4-2,-
--,-,Tranmere Rovers,Reading,1-1,-
--,-,Walsall,Reading,2-2,-
--,-,Watford,Reading,2-0,-
--,-,AFC Bournemouth,Shrewsbury Town,2-2,-
--,-,Barnsley,Shrewsbury Town,4-2,-
--,-,Bradford City,Shrewsbury Town,1-1,-
--,-,Brentford,Shrewsbury Town,4-0,-
--,-,Bristol City,Shrewsbury Town,0-0,-
--,-,Bury,Shrewsbury Town,3-1,-
--,-,Chesterfield,Shrewsbury Town,2-3,-
--,-,Colchester United,Shrewsbury Town,1-1,-
--,-,Coventry City,Shrewsbury Town,3-2,-
--,-,Grimsby Town,Shrewsbury Town,0-2,-
--,-,Halifax Town,Shrewsbury Town,1-1,-
--,-,Hull City,Shrewsbury Town,3-1,-
--,-,Newport County,Shrewsbury Town,1-1,-
--,-,Notts County,Shrewsbury Town,2-1,-
--,-,Port Vale,Shrewsbury Town,4-1,-
--,-,Queens Park Rangers,Shrewsbury Town,1-1,-
--,-,Reading,Shrewsbury Town,2-1,-
--,-,Southend United,Shrewsbury Town,1-1,-
--,-,Swindon Town,Shrewsbury Town,2-2,-
--,-,Torquay United,Shrewsbury Town,2-0,-
--,-,Tranmere Rovers,Shrewsbury Town,4-2,-
--,-,Walsall,Shrewsbury Town,3-2,-
--,-,Watford,Shrewsbury Town,3-1,-
--,-,AFC Bournemouth,Southend United,3-2,-
--,-,Barnsley,Southend United,2-1,-
--,-,Bradford City,Southend United,2-1,-
--,-,Brentford,Southend United,1-1,-
--,-,Bristol City,Southend United,2-0,-
--,-,Bury,Southend United,2-0,-
--,-,Chesterfield,Southend United,0-3,-
--,-,Colchester United,Southend United,2-0,-
--,-,Coventry City,Southend United,3-0,-
--,-,Grimsby Town,Southend United,1-0,-
--,-,Halifax Town,Southend United,6-2,-
--,-,Hull City,Southend United,0-1,-
--,-,Newport County,Southend United,1-2,-
--,-,Notts County,Southend United,1-2,-
--,-,Port Vale,Southend United,4-0,-
--,-,Queens Park Rangers,Southend United,2-1,-
--,-,Reading,Southend United,3-0,-
--,-,Shrewsbury Town,Southend United,2-2,-
--,-,Swindon Town,Southend United,1-1,-
--,-,Torquay United,Southend United,2-1,-
--,-,Tranmere Rovers,Southend United,2-1,-
--,-,Walsall,Southend United,5-1,-
--,-,Watford,Southend United,3-0,-
--,-,AFC Bournemouth,Swindon Town,2-1,-
--,-,Barnsley,Swindon Town,2-1,-
--,-,Bradford City,Swindon Town,2-1,-
--,-,Brentford,Swindon Town,2-1,-
--,-,Bristol City,Swindon Town,1-1,-
--,-,Bury,Swindon Town,3-0,-
--,-,Chesterfield,Swindon Town,1-1,-
--,-,Colchester United,Swindon Town,3-1,-
--,-,Coventry City,Swindon Town,1-1,-
--,-,Grimsby Town,Swindon Town,3-2,-
--,-,Halifax Town,Swindon Town,1-1,-
--,-,Hull City,Swindon Town,0-0,-
--,-,Newport County,Swindon Town,2-0,-
--,-,Notts County,Swindon Town,1-0,-
--,-,Port Vale,Swindon Town,4-1,-
--,-,Queens Park Rangers,Swindon Town,3-1,-
--,-,Reading,Swindon Town,1-1,-
--,-,Shrewsbury Town,Swindon Town,1-1,-
--,-,Southend United,Swindon Town,0-2,-
--,-,Torquay United,Swindon Town,1-1,-
--,-,Tranmere Rovers,Swindon Town,2-2,-
--,-,Walsall,Swindon Town,2-1,-
--,-,Watford,Swindon Town,1-0,-
--,-,AFC Bournemouth,Torquay United,1-3,-
--,-,Barnsley,Torquay United,1-0,-
--,-,Bradford City,Torquay United,0-3,-
--,-,Brentford,Torquay United,2-3,-
--,-,Bristol City,Torquay United,2-2,-
--,-,Bury,Torquay United,6-0,-
--,-,Chesterfield,Torquay United,2-0,-
--,-,Colchester United,Torquay United,3-3,-
--,-,Coventry City,Torquay United,5-1,-
--,-,Grimsby Town,Torquay United,4-2,-
--,-,Halifax Town,Torquay United,3-2,-
--,-,Hull City,Torquay United,2-3,-
--,-,Newport County,Torquay United,2-2,-
--,-,Notts County,Torquay United,0-1,-
--,-,Port Vale,Torquay United,0-3,-
--,-,Queens Park Rangers,Torquay United,3-3,-
--,-,Reading,Torquay United,5-1,-
--,-,Shrewsbury Town,Torquay United,2-1,-
--,-,Southend United,Torquay United,3-2,-
--,-,Swindon Town,Torquay United,3-1,-
--,-,Tranmere Rovers,Torquay United,2-2,-
--,-,Walsall,Torquay United,3-0,-
--,-,Watford,Torquay United,3-0,-
--,-,AFC Bournemouth,Tranmere Rovers,2-1,-
--,-,Barnsley,Tranmere Rovers,2-1,-
--,-,Bradford City,Tranmere Rovers,1-1,-
--,-,Brentford,Tranmere Rovers,4-1,-
--,-,Bristol City,Tranmere Rovers,2-0,-
--,-,Bury,Tranmere Rovers,3-0,-
--,-,Chesterfield,Tranmere Rovers,1-1,-
--,-,Colchester United,Tranmere Rovers,0-3,-
--,-,Coventry City,Tranmere Rovers,4-1,-
--,-,Grimsby Town,Tranmere Rovers,4-1,-
--,-,Halifax Town,Tranmere Rovers,5-0,-
--,-,Hull City,Tranmere Rovers,4-2,-
--,-,Newport County,Tranmere Rovers,1-0,-
--,-,Notts County,Tranmere Rovers,4-1,-
--,-,Port Vale,Tranmere Rovers,5-0,-
--,-,Queens Park Rangers,Tranmere Rovers,9-2,-
--,-,Reading,Tranmere Rovers,1-2,-
--,-,Shrewsbury Town,Tranmere Rovers,1-2,-
--,-,Southend United,Tranmere Rovers,1-2,-
--,-,Swindon Town,Tranmere Rovers,1-0,-
--,-,Torquay United,Tranmere Rovers,5-2,-
--,-,Walsall,Tranmere Rovers,3-1,-
--,-,Watford,Tranmere Rovers,2-2,-
--,-,AFC Bournemouth,Walsall,0-3,-
--,-,Barnsley,Walsall,2-2,-
--,-,Bradford City,Walsall,1-2,-
--,-,Brentford,Walsall,3-1,-
--,-,Bristol City,Walsall,2-0,-
--,-,Bury,Walsall,3-4,-
--,-,Chesterfield,Walsall,1-2,-
--,-,Colchester United,Walsall,0-4,-
--,-,Coventry City,Walsall,1-2,-
--,-,Grimsby Town,Walsall,3-1,-
--,-,Halifax Town,Walsall,1-0,-
--,-,Hull City,Walsall,2-1,-
--,-,Newport County,Walsall,4-2,-
--,-,Notts County,Walsall,3-1,-
--,-,Port Vale,Walsall,1-1,-
--,-,Queens Park Rangers,Walsall,1-0,-
--,-,Reading,Walsall,3-2,-
--,-,Shrewsbury Town,Walsall,1-2,-
--,-,Southend United,Walsall,1-2,-
--,-,Swindon Town,Walsall,1-0,-
--,-,Torquay United,Walsall,3-0,-
--,-,Tranmere Rovers,Walsall,1-4,-
--,-,Watford,Walsall,2-0,-
--,-,AFC Bournemouth,Watford,0-1,-
--,-,Barnsley,Watford,0-1,-
--,-,Bradford City,Watford,2-2,-
--,-,Brentford,Watford,2-1,-
--,-,Bristol City,Watford,4-1,-
--,-,Bury,Watford,0-2,-
--,-,Chesterfield,Watford,2-0,-
--,-,Colchester United,Watford,1-4,-
--,-,Coventry City,Watford,0-1,-
--,-,Grimsby Town,Watford,1-3,-
--,-,Halifax Town,Watford,0-0,-
--,-,Hull City,Watford,3-2,-
--,-,Newport County,Watford,5-1,-
--,-,Notts County,Watford,3-1,-
--,-,Port Vale,Watford,3-0,-
--,-,Queens Park Rangers,Watford,2-1,-
--,-,Reading,Watford,1-1,-
--,-,Shrewsbury Town,Watford,2-2,-
--,-,Southend United,Watford,6-1,-
--,-,Swindon Town,Watford,1-2,-
--,-,Torquay United,Watford,2-2,-
--,-,Tranmere Rovers,Watford,0-2,-
--,-,Walsall,Watford,5-2,-
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 4 Feb 1961 (5),AFC Bournemouth (1),1-2,?,Barnsley FC (1)
+?,(Sat) 10 Sep 1960 (36),AFC Bournemouth (2),2-2,?,Bradford City (1)
+?,(Sat) 8 Oct 1960 (40),AFC Bournemouth (3),0-1,?,Brentford FC (1)
+?,(Wed) 31 Aug 1960 (35),AFC Bournemouth (4),2-2,?,Bristol City FC (1)
+?,(Sat) 19 Nov 1960 (46),AFC Bournemouth (5),0-3,?,Bury FC (1)
+?,(Sat) 1 Apr 1961 (13),AFC Bournemouth (6),1-0,?,Chesterfield FC (1)
+?,(Sat) 18 Feb 1961 (7),AFC Bournemouth (7),4-4,?,Colchester United (1)
+?,(Wed) 28 Sep 1960 (39),AFC Bournemouth (8),2-1,?,Coventry City (1)
+?,(Wed) 5 Oct 1960 (40),AFC Bournemouth (9),2-1,?,Grimsby Town (1)
+?,(Sat) 29 Apr 1961 (17),AFC Bournemouth (10),1-2,?,Halifax Town (1)
+?,(Mon) 12 Sep 1960 (37),AFC Bournemouth (11),2-2,?,Hull City (1)
+?,(Sat) 24 Sep 1960 (38),AFC Bournemouth (12),2-2,?,Newport County AFC (1)
+?,(Sat) 31 Dec 1960 (52),AFC Bournemouth (13),1-3,?,Notts County FC (1)
+?,(Sat) 18 Mar 1961 (11),AFC Bournemouth (14),1-1,?,Port Vale FC (1)
+?,(Sat) 20 Aug 1960 (33),AFC Bournemouth (15),1-0,?,Queens Park Rangers (1)
+?,(Tue) 27 Dec 1960 (52),AFC Bournemouth (16),2-0,?,Reading FC (1)
+?,(Sat) 3 Dec 1960 (48),AFC Bournemouth (17),2-2,?,Shrewsbury Town (1)
+?,(Sat) 28 Jan 1961 (4),AFC Bournemouth (18),3-2,?,Southend United (1)
+?,(Sat) 4 Mar 1961 (9),AFC Bournemouth (19),2-1,?,Swindon Town (1)
+?,(Sat) 22 Oct 1960 (42),AFC Bournemouth (20),1-3,?,Torquay United (1)
+?,(Sat) 14 Jan 1961 (2),AFC Bournemouth (21),2-1,?,Tranmere Rovers (1)
+?,(Sat) 15 Apr 1961 (15),AFC Bournemouth (22),0-3,?,Walsall FC (1)
+?,(Fri) 31 Mar 1961 (13),AFC Bournemouth (23),0-1,?,Watford FC (1)
+?,(Sat) 17 Sep 1960 (37),Barnsley FC (2),2-3,?,AFC Bournemouth (24)
+?,(Sat) 11 Feb 1961 (6),Barnsley FC (3),5-2,?,Bradford City (2)
+?,(Sat) 22 Oct 1960 (42),Barnsley FC (4),1-1,?,Brentford FC (2)
+?,(Sat) 31 Dec 1960 (52),Barnsley FC (5),2-0,?,Bristol City FC (2)
+?,(Sat) 3 Dec 1960 (48),Barnsley FC (6),3-1,?,Bury FC (2)
+?,(Sat) 15 Apr 1961 (15),Barnsley FC (7),3-1,?,Chesterfield FC (2)
+?,(Wed) 14 Sep 1960 (37),Barnsley FC (8),3-0,?,Colchester United (2)
+?,(Sat) 20 Aug 1960 (33),Barnsley FC (9),4-1,?,Coventry City (2)
+?,(Mon) 26 Dec 1960 (52),Barnsley FC (10),3-2,?,Grimsby Town (2)
+?,(Mon) 3 Apr 1961 (14),Barnsley FC (11),1-1,?,Halifax Town (2)
+?,(Wed) 28 Sep 1960 (39),Barnsley FC (12),1-0,?,Hull City (2)
+?,(Mon) 24 Apr 1961 (17),Barnsley FC (13),1-3,?,Newport County AFC (2)
+?,(Sat) 21 Jan 1961 (3),Barnsley FC (14),5-2,?,Notts County FC (2)
+?,(Sat) 1 Apr 1961 (13),Barnsley FC (15),5-1,?,Port Vale FC (2)
+?,(Sat) 3 Sep 1960 (35),Barnsley FC (16),3-3,?,Queens Park Rangers (2)
+?,(Wed) 31 Aug 1960 (35),Barnsley FC (17),1-1,?,Reading FC (2)
+?,(Wed) 3 May 1961 (18),Barnsley FC (18),4-2,?,Shrewsbury Town (2)
+?,(Sat) 19 Nov 1960 (46),Barnsley FC (19),2-1,?,Southend United (2)
+?,(Sat) 18 Mar 1961 (11),Barnsley FC (20),2-1,?,Swindon Town (2)
+?,(Wed) 12 Apr 1961 (15),Barnsley FC (21),1-0,?,Torquay United (2)
+?,(Sat) 8 Oct 1960 (40),Barnsley FC (22),2-1,?,Tranmere Rovers (2)
+?,(Sat) 29 Apr 1961 (17),Barnsley FC (23),2-2,?,Walsall FC (2)
+?,(Wed) 22 Mar 1961 (12),Barnsley FC (24),0-1,?,Watford FC (2)
+?,(Tue) 14 Feb 1961 (7),Bradford City (3),3-1,?,AFC Bournemouth (25)
+?,(Sat) 24 Sep 1960 (38),Bradford City (4),1-4,?,Barnsley FC (25)
+?,(Sat) 4 Mar 1961 (9),Bradford City (5),3-1,?,Brentford FC (3)
+?,(Sat) 20 Aug 1960 (33),Bradford City (6),2-0,?,Bristol City FC (3)
+?,(Sat) 15 Apr 1961 (15),Bradford City (7),0-1,?,Bury FC (3)
+?,(Sat) 19 Nov 1960 (46),Bradford City (8),3-2,?,Chesterfield FC (3)
+?,(Tue) 7 Mar 1961 (10),Bradford City (9),0-1,?,Colchester United (3)
+?,(Tue) 30 Aug 1960 (35),Bradford City (10),4-1,?,Coventry City (3)
+?,(Tue) 13 Sep 1960 (37),Bradford City (11),1-3,?,Grimsby Town (3)
+?,(Sat) 4 Feb 1961 (5),Bradford City (12),2-2,?,Halifax Town (3)
+?,(Mon) 26 Dec 1960 (52),Bradford City (13),0-0,?,Hull City (3)
+?,(Sat) 18 Feb 1961 (7),Bradford City (14),1-2,?,Newport County AFC (3)
+?,(Sat) 3 Sep 1960 (35),Bradford City (15),2-2,?,Notts County FC (3)
+?,(Tue) 28 Feb 1961 (9),Bradford City (16),3-3,?,Port Vale FC (3)
+?,(Sat) 31 Dec 1960 (52),Bradford City (17),1-1,?,Queens Park Rangers (3)
+?,(Thu) 23 Mar 1961 (12),Bradford City (18),2-1,?,Reading FC (3)
+?,(Sat) 29 Apr 1961 (17),Bradford City (19),1-1,?,Shrewsbury Town (3)
+?,(Sat) 1 Apr 1961 (13),Bradford City (20),2-1,?,Southend United (3)
+?,(Sat) 22 Oct 1960 (42),Bradford City (21),2-1,?,Swindon Town (3)
+?,(Sat) 18 Mar 1961 (11),Bradford City (22),0-3,?,Torquay United (3)
+?,(Mon) 3 Apr 1961 (14),Bradford City (23),1-1,?,Tranmere Rovers (3)
+?,(Tue) 14 Mar 1961 (11),Bradford City (24),1-2,?,Walsall FC (3)
+?,(Sat) 8 Oct 1960 (40),Bradford City (25),2-2,?,Watford FC (3)
+?,(Sat) 22 Apr 1961 (16),Brentford FC (4),2-2,?,AFC Bournemouth (26)
+?,(Sat) 11 Mar 1961 (10),Brentford FC (5),0-0,?,Barnsley FC (26)
+?,(Sat) 15 Oct 1960 (41),Brentford FC (6),2-2,?,Bradford City (26)
+?,(Sat) 10 Dec 1960 (49),Brentford FC (7),2-0,?,Bristol City FC (4)
+?,(Sat) 17 Sep 1960 (37),Brentford FC (8),1-5,?,Bury FC (4)
+?,(Sat) 11 Feb 1961 (6),Brentford FC (9),2-2,?,Chesterfield FC (4)
+?,(Sat) 25 Mar 1961 (12),Brentford FC (10),0-0,?,Colchester United (4)
+?,(Sat) 25 Feb 1961 (8),Brentford FC (11),1-1,?,Coventry City (4)
+?,(Sat) 12 Nov 1960 (45),Brentford FC (12),0-1,?,Grimsby Town (4)
+?,(Sat) 31 Dec 1960 (52),Brentford FC (13),2-0,?,Halifax Town (4)
+?,(Sat) 8 Apr 1961 (14),Brentford FC (14),2-2,?,Hull City (4)
+?,(Sat) 29 Oct 1960 (43),Brentford FC (15),2-4,?,Newport County AFC (4)
+?,(Mon) 3 Apr 1961 (14),Brentford FC (16),3-0,?,Notts County FC (4)
+?,(Tue) 25 Apr 1961 (17),Brentford FC (17),0-0,?,Port Vale FC (4)
+?,(Tue) 27 Sep 1960 (39),Brentford FC (18),2-0,?,Queens Park Rangers (4)
+?,(Tue) 2 May 1961 (18),Brentford FC (19),2-1,?,Reading FC (4)
+?,(Sat) 3 Sep 1960 (35),Brentford FC (20),4-0,?,Shrewsbury Town (4)
+?,(Sat) 1 Oct 1960 (39),Brentford FC (21),1-1,?,Southend United (4)
+?,(Fri) 23 Dec 1960 (51),Brentford FC (22),2-1,?,Swindon Town (4)
+?,(Tue) 6 Sep 1960 (36),Brentford FC (23),2-3,?,Torquay United (4)
+?,(Sat) 20 Aug 1960 (33),Brentford FC (24),4-1,?,Tranmere Rovers (4)
+?,(Sat) 21 Jan 1961 (3),Brentford FC (25),3-1,?,Walsall FC (4)
+?,(Tue) 23 Aug 1960 (34),Brentford FC (26),2-1,?,Watford FC (4)
+?,(Tue) 23 Aug 1960 (34),Bristol City FC (5),1-0,?,AFC Bournemouth (27)
+?,(Sat) 27 Aug 1960 (34),Bristol City FC (6),4-0,?,Barnsley FC (27)
+?,(Sat) 17 Dec 1960 (50),Bristol City FC (7),1-2,?,Bradford City (27)
+?,(Sat) 29 Apr 1961 (17),Bristol City FC (8),3-0,?,Brentford FC (27)
+?,(Sat) 18 Mar 1961 (11),Bristol City FC (9),1-2,?,Bury FC (5)
+?,(Sat) 22 Oct 1960 (42),Bristol City FC (10),3-0,?,Chesterfield FC (5)
+?,(Sat) 10 Sep 1960 (36),Bristol City FC (11),5-0,?,Colchester United (5)
+?,(Tue) 4 Oct 1960 (40),Bristol City FC (12),2-0,?,Coventry City (5)
+?,(Sat) 4 Feb 1961 (5),Bristol City FC (13),2-1,?,Grimsby Town (5)
+?,(Sat) 19 Nov 1960 (46),Bristol City FC (14),3-2,?,Halifax Town (5)
+?,(Sat) 24 Sep 1960 (38),Bristol City FC (15),1-2,?,Hull City (5)
+?,(Sat) 14 Jan 1961 (2),Bristol City FC (16),3-0,?,Newport County AFC (5)
+?,(Tue) 20 Sep 1960 (38),Bristol City FC (17),2-1,?,Notts County FC (5)
+?,(Sat) 8 Oct 1960 (40),Bristol City FC (18),3-4,?,Port Vale FC (5)
+?,(Mon) 26 Dec 1960 (52),Bristol City FC (19),1-1,?,Queens Park Rangers (5)
+?,(Sat) 18 Feb 1961 (7),Bristol City FC (20),2-0,?,Reading FC (5)
+?,(Sat) 1 Apr 1961 (13),Bristol City FC (21),0-0,?,Shrewsbury Town (5)
+?,(Sat) 4 Mar 1961 (9),Bristol City FC (22),2-0,?,Southend United (5)
+?,(Tue) 6 Sep 1960 (36),Bristol City FC (23),1-1,?,Swindon Town (5)
+?,(Fri) 31 Mar 1961 (13),Bristol City FC (24),2-2,?,Torquay United (5)
+?,(Sat) 15 Apr 1961 (15),Bristol City FC (25),2-0,?,Tranmere Rovers (5)
+?,(Tue) 21 Feb 1961 (8),Bristol City FC (26),2-0,?,Walsall FC (5)
+?,(Tue) 14 Mar 1961 (11),Bristol City FC (27),4-1,?,Watford FC (5)
+?,(Sat) 8 Apr 1961 (14),Bury FC (6),1-1,?,AFC Bournemouth (28)
+?,(Sat) 25 Feb 1961 (8),Bury FC (7),2-1,?,Barnsley FC (28)
+?,(Sat) 7 Jan 1961 (1),Bury FC (8),2-2,?,Bradford City (28)
+?,(Sat) 4 Feb 1961 (5),Bury FC (9),1-0,?,Brentford FC (28)
+?,(Sat) 29 Oct 1960 (43),Bury FC (10),1-0,?,Bristol City FC (28)
+?,(Tue) 30 Aug 1960 (35),Bury FC (11),3-3,?,Chesterfield FC (6)
+?,(Tue) 20 Sep 1960 (38),Bury FC (12),4-0,?,Colchester United (6)
+?,(Sat) 11 Mar 1961 (10),Bury FC (13),1-0,?,Coventry City (6)
+?,(Tue) 4 Apr 1961 (14),Bury FC (14),2-0,?,Grimsby Town (6)
+?,(Tue) 4 Oct 1960 (40),Bury FC (15),4-1,?,Halifax Town (6)
+?,(Sat) 22 Apr 1961 (16),Bury FC (16),3-0,?,Hull City (6)
+?,(Sat) 10 Dec 1960 (49),Bury FC (17),4-1,?,Newport County AFC (6)
+?,(Sat) 12 Nov 1960 (45),Bury FC (18),7-0,?,Notts County FC (6)
+?,(Sat) 27 Aug 1960 (34),Bury FC (19),3-1,?,Port Vale FC (6)
+?,(Sat) 25 Mar 1961 (12),Bury FC (20),1-0,?,Queens Park Rangers (6)
+?,(Sat) 15 Oct 1960 (41),Bury FC (21),3-0,?,Reading FC (6)
+?,(Mon) 2 Jan 1961 (1),Bury FC (22),3-1,?,Shrewsbury Town (6)
+?,(Tue) 21 Mar 1961 (12),Bury FC (23),2-0,?,Southend United (6)
+?,(Sat) 10 Sep 1960 (36),Bury FC (24),3-0,?,Swindon Town (6)
+?,(Tue) 14 Feb 1961 (7),Bury FC (25),6-0,?,Torquay United (6)
+?,(Sat) 18 Feb 1961 (7),Bury FC (26),3-0,?,Tranmere Rovers (6)
+?,(Mon) 26 Dec 1960 (52),Bury FC (27),3-4,?,Walsall FC (6)
+?,(Sat) 24 Sep 1960 (38),Bury FC (28),0-2,?,Watford FC (6)
+?,(Sat) 12 Nov 1960 (45),Chesterfield FC (7),0-1,?,AFC Bournemouth (29)
+?,(Mon) 27 Mar 1961 (13),Chesterfield FC (8),5-1,?,Barnsley FC (29)
+?,(Sat) 8 Apr 1961 (14),Chesterfield FC (9),4-1,?,Bradford City (29)
+?,(Sat) 24 Sep 1960 (38),Chesterfield FC (10),1-1,?,Brentford FC (29)
+?,(Sat) 11 Mar 1961 (10),Chesterfield FC (11),3-0,?,Bristol City FC (29)
+?,(Mon) 22 Aug 1960 (34),Chesterfield FC (12),2-2,?,Bury FC (29)
+?,(Sat) 10 Dec 1960 (49),Chesterfield FC (13),2-3,?,Colchester United (7)
+?,(Sat) 15 Oct 1960 (41),Chesterfield FC (14),4-1,?,Coventry City (7)
+?,(Sat) 17 Dec 1960 (50),Chesterfield FC (15),2-3,?,Grimsby Town (7)
+?,(Mon) 5 Sep 1960 (36),Chesterfield FC (16),3-0,?,Halifax Town (7)
+?,(Fri) 31 Mar 1961 (13),Chesterfield FC (17),1-2,?,Hull City (7)
+?,(Sat) 25 Feb 1961 (8),Chesterfield FC (18),1-0,?,Newport County AFC (7)
+?,(Sat) 25 Mar 1961 (12),Chesterfield FC (19),3-1,?,Notts County FC (7)
+?,(Sat) 14 Jan 1961 (2),Chesterfield FC (20),0-0,?,Port Vale FC (7)
+?,(Sat) 29 Oct 1960 (43),Chesterfield FC (21),0-1,?,Queens Park Rangers (7)
+?,(Sat) 22 Apr 1961 (16),Chesterfield FC (22),2-2,?,Reading FC (7)
+?,(Mon) 26 Dec 1960 (52),Chesterfield FC (23),2-3,?,Shrewsbury Town (7)
+?,(Sat) 27 Aug 1960 (34),Chesterfield FC (24),0-3,?,Southend United (7)
+?,(Sat) 4 Feb 1961 (5),Chesterfield FC (25),1-1,?,Swindon Town (7)
+?,(Sat) 10 Sep 1960 (36),Chesterfield FC (26),2-0,?,Torquay United (7)
+?,(Mon) 2 Jan 1961 (1),Chesterfield FC (27),1-1,?,Tranmere Rovers (7)
+?,(Mon) 26 Sep 1960 (39),Chesterfield FC (28),1-2,?,Walsall FC (7)
+?,(Sat) 18 Feb 1961 (7),Chesterfield FC (29),2-0,?,Watford FC (7)
+?,(Sat) 1 Oct 1960 (39),Colchester United (8),0-1,?,AFC Bournemouth (30)
+?,(Mon) 5 Sep 1960 (36),Colchester United (9),4-2,?,Barnsley FC (30)
+?,(Mon) 24 Apr 1961 (17),Colchester United (10),2-4,?,Bradford City (30)
+?,(Sat) 28 Jan 1961 (4),Colchester United (11),2-4,?,Brentford FC (30)
+?,(Sat) 21 Jan 1961 (3),Colchester United (12),0-1,?,Bristol City FC (30)
+?,(Mon) 26 Sep 1960 (39),Colchester United (13),0-2,?,Bury FC (30)
+?,(Sat) 29 Apr 1961 (17),Colchester United (14),4-3,?,Chesterfield FC (30)
+?,(Sat) 3 Sep 1960 (35),Colchester United (15),4-3,?,Coventry City (8)
+?,(Mon) 22 Aug 1960 (34),Colchester United (16),1-1,?,Grimsby Town (8)
+?,(Sat) 4 Mar 1961 (9),Colchester United (17),3-1,?,Halifax Town (8)
+?,(Sat) 20 Aug 1960 (33),Colchester United (18),4-0,?,Hull City (8)
+?,(Mon) 26 Dec 1960 (52),Colchester United (19),1-1,?,Newport County AFC (8)
+?,(Sat) 11 Feb 1961 (6),Colchester United (20),1-2,?,Notts County FC (8)
+?,(Sat) 15 Apr 1961 (15),Colchester United (21),2-0,?,Port Vale FC (8)
+?,(Sat) 17 Sep 1960 (37),Colchester United (22),0-1,?,Queens Park Rangers (8)
+?,(Sat) 31 Dec 1960 (52),Colchester United (23),2-2,?,Reading FC (8)
+?,(Sat) 8 Oct 1960 (40),Colchester United (24),1-1,?,Shrewsbury Town (8)
+?,(Sat) 3 Dec 1960 (48),Colchester United (25),2-0,?,Southend United (8)
+?,(Sat) 1 Apr 1961 (13),Colchester United (26),3-1,?,Swindon Town (8)
+?,(Sat) 19 Nov 1960 (46),Colchester United (27),3-3,?,Torquay United (8)
+?,(Sat) 22 Oct 1960 (42),Colchester United (28),0-3,?,Tranmere Rovers (8)
+?,(Fri) 31 Mar 1961 (13),Colchester United (29),0-4,?,Walsall FC (8)
+?,(Sat) 18 Mar 1961 (11),Colchester United (30),1-4,?,Watford FC (8)
+?,(Mon) 19 Sep 1960 (38),Coventry City (9),1-0,?,AFC Bournemouth (31)
+?,(Sat) 17 Dec 1960 (50),Coventry City (10),5-2,?,Barnsley FC (31)
+?,(Mon) 22 Aug 1960 (34),Coventry City (11),2-2,?,Bradford City (31)
+?,(Fri) 2 Dec 1960 (48),Coventry City (12),2-0,?,Brentford FC (31)
+?,(Mon) 24 Apr 1961 (17),Coventry City (13),2-1,?,Bristol City FC (31)
+?,(Sat) 22 Oct 1960 (42),Coventry City (14),1-2,?,Bury FC (31)
+?,(Fri) 3 Mar 1961 (9),Coventry City (15),3-1,?,Chesterfield FC (31)
+?,(Sat) 14 Jan 1961 (2),Coventry City (16),2-0,?,Colchester United (31)
+?,(Sat) 10 Sep 1960 (36),Coventry City (17),0-0,?,Grimsby Town (9)
+?,(Sat) 1 Apr 1961 (13),Coventry City (18),2-0,?,Halifax Town (9)
+?,(Sat) 4 Feb 1961 (5),Coventry City (19),4-0,?,Hull City (9)
+?,(Sat) 27 Aug 1960 (34),Coventry City (20),4-1,?,Newport County AFC (9)
+?,(Mon) 26 Dec 1960 (52),Coventry City (21),2-2,?,Notts County FC (9)
+?,(Tue) 4 Apr 1961 (14),Coventry City (22),1-1,?,Port Vale FC (9)
+?,(Mon) 5 Sep 1960 (36),Coventry City (23),4-4,?,Queens Park Rangers (9)
+?,(Sat) 24 Sep 1960 (38),Coventry City (24),2-1,?,Reading FC (9)
+?,(Mon) 30 Jan 1961 (5),Coventry City (25),3-2,?,Shrewsbury Town (9)
+?,(Sat) 8 Oct 1960 (40),Coventry City (26),3-0,?,Southend United (9)
+?,(Fri) 28 Apr 1961 (17),Coventry City (27),1-1,?,Swindon Town (9)
+?,(Mon) 20 Feb 1961 (8),Coventry City (28),5-1,?,Torquay United (9)
+?,(Sat) 19 Nov 1960 (46),Coventry City (29),4-1,?,Tranmere Rovers (9)
+?,(Sat) 18 Mar 1961 (11),Coventry City (30),1-2,?,Walsall FC (9)
+?,(Fri) 14 Apr 1961 (15),Coventry City (31),0-1,?,Watford FC (9)
+?,(Tue) 25 Apr 1961 (17),Grimsby Town (10),0-1,?,AFC Bournemouth (32)
+?,(Tue) 20 Dec 1960 (51),Grimsby Town (11),3-2,?,Barnsley FC (32)
+?,(Tue) 6 Sep 1960 (36),Grimsby Town (12),1-0,?,Bradford City (32)
+?,(Sat) 1 Apr 1961 (13),Grimsby Town (13),0-0,?,Brentford FC (32)
+?,(Sat) 17 Sep 1960 (37),Grimsby Town (14),5-2,?,Bristol City FC (32)
+?,(Fri) 31 Mar 1961 (13),Grimsby Town (15),2-2,?,Bury FC (32)
+?,(Sat) 20 Aug 1960 (33),Grimsby Town (16),0-0,?,Chesterfield FC (32)
+?,(Tue) 30 Aug 1960 (35),Grimsby Town (17),2-1,?,Colchester United (32)
+?,(Tue) 18 Apr 1961 (16),Grimsby Town (18),2-3,?,Coventry City (32)
+?,(Sat) 22 Oct 1960 (42),Grimsby Town (19),6-1,?,Halifax Town (10)
+?,(Sat) 31 Dec 1960 (52),Grimsby Town (20),2-0,?,Hull City (10)
+?,(Tue) 20 Sep 1960 (38),Grimsby Town (21),2-1,?,Newport County AFC (10)
+?,(Sat) 1 Oct 1960 (39),Grimsby Town (22),1-1,?,Notts County FC (10)
+?,(Sat) 3 Dec 1960 (48),Grimsby Town (23),0-5,?,Port Vale FC (10)
+?,(Sat) 11 Feb 1961 (6),Grimsby Town (24),3-1,?,Queens Park Rangers (10)
+?,(Sat) 3 Sep 1960 (35),Grimsby Town (25),3-1,?,Reading FC (10)
+?,(Sat) 4 Mar 1961 (9),Grimsby Town (26),0-2,?,Shrewsbury Town (10)
+?,(Sat) 29 Apr 1961 (17),Grimsby Town (27),1-0,?,Southend United (10)
+?,(Mon) 28 Nov 1960 (48),Grimsby Town (28),3-2,?,Swindon Town (10)
+?,(Sat) 15 Apr 1961 (15),Grimsby Town (29),4-2,?,Torquay United (10)
+?,(Sat) 18 Mar 1961 (11),Grimsby Town (30),4-1,?,Tranmere Rovers (10)
+?,(Sat) 8 Oct 1960 (40),Grimsby Town (31),3-1,?,Walsall FC (10)
+?,(Sat) 28 Jan 1961 (4),Grimsby Town (32),1-3,?,Watford FC (10)
+?,(Sat) 10 Dec 1960 (49),Halifax Town (11),2-1,?,AFC Bournemouth (33)
+?,(Mon) 10 Apr 1961 (15),Halifax Town (12),1-0,?,Barnsley FC (33)
+?,(Sat) 17 Sep 1960 (37),Halifax Town (13),3-2,?,Bradford City (33)
+?,(Sat) 27 Aug 1960 (34),Halifax Town (14),1-0,?,Brentford FC (33)
+?,(Sat) 8 Apr 1961 (14),Halifax Town (15),2-1,?,Bristol City FC (33)
+?,(Mon) 24 Apr 1961 (17),Halifax Town (16),0-2,?,Bury FC (33)
+?,(Mon) 12 Sep 1960 (37),Halifax Town (17),2-1,?,Chesterfield FC (33)
+?,(Sat) 15 Oct 1960 (41),Halifax Town (18),2-1,?,Colchester United (33)
+?,(Sat) 12 Nov 1960 (45),Halifax Town (19),2-2,?,Coventry City (33)
+?,(Sat) 11 Mar 1961 (10),Halifax Town (20),0-0,?,Grimsby Town (33)
+?,(Sat) 29 Oct 1960 (43),Halifax Town (21),3-0,?,Hull City (11)
+?,(Sat) 22 Apr 1961 (16),Halifax Town (22),2-1,?,Newport County AFC (11)
+?,(Sat) 25 Feb 1961 (8),Halifax Town (23),0-1,?,Notts County FC (11)
+?,(Mon) 26 Sep 1960 (39),Halifax Town (24),3-3,?,Port Vale FC (11)
+?,(Mon) 17 Apr 1961 (16),Halifax Town (25),1-1,?,Queens Park Rangers (11)
+?,(Sat) 25 Mar 1961 (12),Halifax Town (26),1-0,?,Reading FC (11)
+?,(Sat) 11 Feb 1961 (6),Halifax Town (27),1-1,?,Shrewsbury Town (11)
+?,(Sat) 24 Dec 1960 (51),Halifax Town (28),6-2,?,Southend United (11)
+?,(Sat) 17 Dec 1960 (50),Halifax Town (29),1-1,?,Swindon Town (11)
+?,(Mon) 22 Aug 1960 (34),Halifax Town (30),3-2,?,Torquay United (11)
+?,(Sat) 10 Sep 1960 (36),Halifax Town (31),5-0,?,Tranmere Rovers (11)
+?,(Sat) 1 Oct 1960 (39),Halifax Town (32),1-0,?,Walsall FC (11)
+?,(Sat) 14 Jan 1961 (2),Halifax Town (33),0-0,?,Watford FC (11)
+?,(Mon) 5 Sep 1960 (36),Hull City (12),2-0,?,AFC Bournemouth (34)
+?,(Mon) 19 Sep 1960 (38),Hull City (13),2-0,?,Barnsley FC (34)
+?,(Tue) 27 Dec 1960 (52),Hull City (14),3-0,?,Bradford City (34)
+?,(Sat) 19 Nov 1960 (46),Hull City (15),3-0,?,Brentford FC (34)
+?,(Mon) 13 Feb 1961 (7),Hull City (16),3-3,?,Bristol City FC (34)
+?,(Sat) 8 Oct 1960 (40),Hull City (17),0-1,?,Bury FC (34)
+?,(Mon) 3 Apr 1961 (14),Hull City (18),2-2,?,Chesterfield FC (34)
+?,(Sat) 17 Dec 1960 (50),Hull City (19),1-1,?,Colchester United (34)
+?,(Sat) 17 Sep 1960 (37),Hull City (20),1-1,?,Coventry City (34)
+?,(Sat) 27 Aug 1960 (34),Hull City (21),2-3,?,Grimsby Town (34)
+?,(Sat) 18 Mar 1961 (11),Hull City (22),4-2,?,Halifax Town (34)
+?,(Mon) 22 Aug 1960 (34),Hull City (23),5-1,?,Newport County AFC (12)
+?,(Mon) 3 Oct 1960 (40),Hull City (24),3-1,?,Notts County FC (12)
+?,(Sat) 29 Apr 1961 (17),Hull City (25),2-2,?,Port Vale FC (12)
+?,(Sat) 1 Oct 1960 (39),Hull City (26),3-1,?,Queens Park Rangers (12)
+?,(Thu) 20 Apr 1961 (16),Hull City (27),1-0,?,Reading FC (12)
+?,(Sat) 22 Oct 1960 (42),Hull City (28),3-1,?,Shrewsbury Town (12)
+?,(Sat) 14 Jan 1961 (2),Hull City (29),0-1,?,Southend United (12)
+?,(Sat) 15 Apr 1961 (15),Hull City (30),0-0,?,Swindon Town (12)
+?,(Sat) 3 Dec 1960 (48),Hull City (31),2-3,?,Torquay United (12)
+?,(Sat) 28 Jan 1961 (4),Hull City (32),4-2,?,Tranmere Rovers (12)
+?,(Sat) 4 Mar 1961 (9),Hull City (33),2-1,?,Walsall FC (12)
+?,(Sat) 1 Apr 1961 (13),Hull City (34),3-2,?,Watford FC (12)
+?,(Sat) 11 Feb 1961 (6),Newport County AFC (13),2-0,?,AFC Bournemouth (35)
+?,(Mon) 13 Mar 1961 (11),Newport County AFC (14),2-3,?,Barnsley FC (35)
+?,(Sat) 1 Oct 1960 (39),Newport County AFC (15),1-0,?,Bradford City (35)
+?,(Sat) 18 Mar 1961 (11),Newport County AFC (16),0-1,?,Brentford FC (35)
+?,(Sat) 3 Sep 1960 (35),Newport County AFC (17),4-1,?,Bristol City FC (35)
+?,(Sat) 29 Apr 1961 (17),Newport County AFC (18),0-0,?,Bury FC (35)
+?,(Mon) 5 Dec 1960 (49),Newport County AFC (19),5-1,?,Chesterfield FC (35)
+?,(Thu) 22 Dec 1960 (51),Newport County AFC (20),3-2,?,Colchester United (35)
+?,(Mon) 20 Mar 1961 (12),Newport County AFC (21),3-3,?,Coventry City (35)
+?,(Mon) 26 Sep 1960 (39),Newport County AFC (22),1-1,?,Grimsby Town (35)
+?,(Sat) 8 Oct 1960 (40),Newport County AFC (23),1-1,?,Halifax Town (35)
+?,(Mon) 29 Aug 1960 (35),Newport County AFC (24),3-1,?,Hull City (35)
+?,(Sat) 17 Sep 1960 (37),Newport County AFC (25),2-2,?,Notts County FC (13)
+?,(Mon) 13 Feb 1961 (7),Newport County AFC (26),2-1,?,Port Vale FC (13)
+?,(Mon) 23 Jan 1961 (4),Newport County AFC (27),1-3,?,Queens Park Rangers (13)
+?,(Sat) 20 Aug 1960 (33),Newport County AFC (28),5-2,?,Reading FC (13)
+?,(Mon) 3 Apr 1961 (14),Newport County AFC (29),1-1,?,Shrewsbury Town (13)
+?,(Sat) 15 Apr 1961 (15),Newport County AFC (30),1-2,?,Southend United (13)
+?,(Sat) 28 Jan 1961 (4),Newport County AFC (31),2-0,?,Swindon Town (13)
+?,(Sat) 1 Apr 1961 (13),Newport County AFC (32),2-2,?,Torquay United (13)
+?,(Sat) 4 Mar 1961 (9),Newport County AFC (33),1-0,?,Tranmere Rovers (13)
+?,(Thu) 15 Sep 1960 (37),Newport County AFC (34),4-2,?,Walsall FC (13)
+?,(Mon) 6 Mar 1961 (10),Newport County AFC (35),5-1,?,Watford FC (13)
+?,(Sat) 27 Aug 1960 (34),Notts County FC (14),3-2,?,AFC Bournemouth (36)
+?,(Sat) 10 Sep 1960 (36),Notts County FC (15),5-1,?,Barnsley FC (36)
+?,(Sat) 14 Jan 1961 (2),Notts County FC (16),2-1,?,Bradford City (36)
+?,(Tue) 4 Apr 1961 (14),Notts County FC (17),0-0,?,Brentford FC (36)
+?,(Thu) 29 Sep 1960 (39),Notts County FC (18),3-0,?,Bristol City FC (36)
+?,(Sat) 1 Apr 1961 (13),Notts County FC (19),0-3,?,Bury FC (36)
+?,(Sat) 28 Jan 1961 (4),Notts County FC (20),1-0,?,Chesterfield FC (36)
+?,(Sat) 24 Sep 1960 (38),Notts County FC (21),4-2,?,Colchester United (36)
+?,(Tue) 27 Dec 1960 (52),Notts County FC (22),3-0,?,Coventry City (36)
+?,(Sat) 18 Feb 1961 (7),Notts County FC (23),0-1,?,Grimsby Town (36)
+?,(Thu) 23 Mar 1961 (12),Notts County FC (24),1-1,?,Halifax Town (36)
+?,(Thu) 27 Apr 1961 (17),Notts County FC (25),2-1,?,Hull City (36)
+?,(Sat) 4 Feb 1961 (5),Notts County FC (26),6-0,?,Newport County AFC (36)
+?,(Sat) 22 Oct 1960 (42),Notts County FC (27),2-2,?,Port Vale FC (14)
+?,(Thu) 25 Aug 1960 (34),Notts County FC (28),2-1,?,Queens Park Rangers (14)
+?,(Thu) 8 Sep 1960 (36),Notts County FC (29),4-2,?,Reading FC (14)
+?,(Sat) 15 Apr 1961 (15),Notts County FC (30),2-1,?,Shrewsbury Town (14)
+?,(Sat) 18 Mar 1961 (11),Notts County FC (31),1-2,?,Southend United (14)
+?,(Sat) 8 Oct 1960 (40),Notts County FC (32),1-0,?,Swindon Town (14)
+?,(Sat) 4 Mar 1961 (9),Notts County FC (33),0-1,?,Torquay United (14)
+?,(Sat) 29 Apr 1961 (17),Notts County FC (34),4-1,?,Tranmere Rovers (14)
+?,(Sat) 19 Nov 1960 (46),Notts County FC (35),3-1,?,Walsall FC (14)
+?,(Sat) 17 Dec 1960 (50),Notts County FC (36),3-1,?,Watford FC (14)
+?,(Sat) 29 Oct 1960 (43),Port Vale FC (15),3-0,?,AFC Bournemouth (37)
+?,(Sat) 12 Nov 1960 (45),Port Vale FC (16),2-0,?,Barnsley FC (37)
+?,(Sat) 25 Mar 1961 (12),Port Vale FC (17),2-4,?,Bradford City (37)
+?,(Mon) 3 Oct 1960 (40),Port Vale FC (18),3-2,?,Brentford FC (37)
+?,(Sat) 22 Apr 1961 (16),Port Vale FC (19),1-1,?,Bristol City FC (37)
+?,(Sat) 31 Dec 1960 (52),Port Vale FC (20),4-3,?,Bury FC (37)
+?,(Sat) 3 Sep 1960 (35),Port Vale FC (21),7-1,?,Chesterfield FC (37)
+?,(Mon) 6 Feb 1961 (6),Port Vale FC (22),3-0,?,Colchester United (37)
+?,(Fri) 31 Mar 1961 (13),Port Vale FC (23),3-1,?,Coventry City (37)
+?,(Sat) 25 Feb 1961 (8),Port Vale FC (24),3-2,?,Grimsby Town (37)
+?,(Mon) 19 Sep 1960 (38),Port Vale FC (25),2-3,?,Halifax Town (37)
+?,(Sat) 10 Dec 1960 (49),Port Vale FC (26),4-1,?,Hull City (37)
+?,(Sat) 8 Apr 1961 (14),Port Vale FC (27),3-1,?,Newport County AFC (37)
+?,(Sat) 11 Mar 1961 (10),Port Vale FC (28),1-3,?,Notts County FC (37)
+?,(Sat) 15 Oct 1960 (41),Port Vale FC (29),0-1,?,Queens Park Rangers (15)
+?,(Sat) 17 Sep 1960 (37),Port Vale FC (30),1-1,?,Reading FC (15)
+?,(Mon) 29 Aug 1960 (35),Port Vale FC (31),4-1,?,Shrewsbury Town (15)
+?,(Sat) 21 Jan 1961 (3),Port Vale FC (32),4-0,?,Southend United (15)
+?,(Sat) 18 Feb 1961 (7),Port Vale FC (33),4-1,?,Swindon Town (15)
+?,(Sat) 24 Sep 1960 (38),Port Vale FC (34),0-3,?,Torquay United (15)
+?,(Mon) 26 Dec 1960 (52),Port Vale FC (35),5-0,?,Tranmere Rovers (15)
+?,(Sat) 20 Aug 1960 (33),Port Vale FC (36),1-1,?,Walsall FC (15)
+?,(Mon) 5 Sep 1960 (36),Port Vale FC (37),3-0,?,Watford FC (15)
+?,(Sat) 17 Dec 1960 (50),Queens Park Rangers (16),3-1,?,AFC Bournemouth (38)
+?,(Sat) 14 Jan 1961 (2),Queens Park Rangers (17),4-2,?,Barnsley FC (38)
+?,(Sat) 27 Aug 1960 (34),Queens Park Rangers (18),1-0,?,Bradford City (38)
+?,(Mon) 19 Sep 1960 (38),Queens Park Rangers (19),0-0,?,Brentford FC (38)
+?,(Tue) 27 Dec 1960 (52),Queens Park Rangers (20),1-1,?,Bristol City FC (38)
+?,(Sat) 28 Jan 1961 (4),Queens Park Rangers (21),3-1,?,Bury FC (38)
+?,(Sat) 18 Mar 1961 (11),Queens Park Rangers (22),1-2,?,Chesterfield FC (38)
+?,(Sat) 4 Feb 1961 (5),Queens Park Rangers (23),3-2,?,Colchester United (38)
+?,(Mon) 12 Sep 1960 (37),Queens Park Rangers (24),2-1,?,Coventry City (38)
+?,(Sat) 24 Sep 1960 (38),Queens Park Rangers (25),2-0,?,Grimsby Town (38)
+?,(Sat) 15 Apr 1961 (15),Queens Park Rangers (26),5-1,?,Halifax Town (38)
+?,(Sat) 18 Feb 1961 (7),Queens Park Rangers (27),2-1,?,Hull City (38)
+?,(Sat) 10 Sep 1960 (36),Queens Park Rangers (28),2-0,?,Newport County AFC (38)
+?,(Mon) 29 Aug 1960 (35),Queens Park Rangers (29),2-0,?,Notts County FC (38)
+?,(Sat) 4 Mar 1961 (9),Queens Park Rangers (30),1-0,?,Port Vale FC (38)
+?,(Mon) 3 Oct 1960 (40),Queens Park Rangers (31),5-2,?,Reading FC (16)
+?,(Sat) 19 Nov 1960 (46),Queens Park Rangers (32),1-1,?,Shrewsbury Town (16)
+?,(Sat) 22 Oct 1960 (42),Queens Park Rangers (33),2-1,?,Southend United (16)
+?,(Fri) 31 Mar 1961 (13),Queens Park Rangers (34),3-1,?,Swindon Town (16)
+?,(Sat) 8 Oct 1960 (40),Queens Park Rangers (35),3-3,?,Torquay United (16)
+?,(Sat) 3 Dec 1960 (48),Queens Park Rangers (36),9-2,?,Tranmere Rovers (16)
+?,(Sat) 1 Apr 1961 (13),Queens Park Rangers (37),1-0,?,Walsall FC (16)
+?,(Sat) 29 Apr 1961 (17),Queens Park Rangers (38),2-1,?,Watford FC (16)
+?,(Mon) 26 Dec 1960 (52),Reading FC (17),4-3,?,AFC Bournemouth (39)
+?,(Wed) 24 Aug 1960 (34),Reading FC (18),0-1,?,Barnsley FC (39)
+?,(Wed) 21 Sep 1960 (38),Reading FC (19),3-1,?,Bradford City (39)
+?,(Fri) 14 Apr 1961 (15),Reading FC (20),4-0,?,Brentford FC (39)
+?,(Sat) 1 Oct 1960 (39),Reading FC (21),1-1,?,Bristol City FC (39)
+?,(Sat) 4 Mar 1961 (9),Reading FC (22),1-3,?,Bury FC (39)
+?,(Sat) 8 Oct 1960 (40),Reading FC (23),2-0,?,Chesterfield FC (39)
+?,(Sat) 27 Aug 1960 (34),Reading FC (24),2-1,?,Colchester United (39)
+?,(Sat) 11 Feb 1961 (6),Reading FC (25),0-0,?,Coventry City (39)
+?,(Sat) 14 Jan 1961 (2),Reading FC (26),3-1,?,Grimsby Town (39)
+?,(Sat) 28 Jan 1961 (4),Reading FC (27),1-1,?,Halifax Town (39)
+?,(Sat) 10 Sep 1960 (36),Reading FC (28),2-4,?,Hull City (39)
+?,(Sat) 17 Dec 1960 (50),Reading FC (29),2-3,?,Newport County AFC (39)
+?,(Wed) 14 Sep 1960 (37),Reading FC (30),2-0,?,Notts County FC (39)
+?,(Sat) 4 Feb 1961 (5),Reading FC (31),2-1,?,Port Vale FC (39)
+?,(Wed) 26 Apr 1961 (17),Reading FC (32),3-1,?,Queens Park Rangers (39)
+?,(Sat) 18 Mar 1961 (11),Reading FC (33),2-1,?,Shrewsbury Town (17)
+?,(Mon) 3 Apr 1961 (14),Reading FC (34),3-0,?,Southend United (17)
+?,(Sat) 3 Dec 1960 (48),Reading FC (35),1-1,?,Swindon Town (17)
+?,(Sat) 29 Apr 1961 (17),Reading FC (36),5-1,?,Torquay United (17)
+?,(Sat) 1 Apr 1961 (13),Reading FC (37),1-2,?,Tranmere Rovers (17)
+?,(Sat) 22 Oct 1960 (42),Reading FC (38),3-2,?,Walsall FC (17)
+?,(Sat) 19 Nov 1960 (46),Reading FC (39),1-1,?,Watford FC (17)
+?,(Sat) 25 Feb 1961 (8),Shrewsbury Town (18),2-1,?,AFC Bournemouth (40)
+?,(Sat) 1 Oct 1960 (39),Shrewsbury Town (19),1-2,?,Barnsley FC (40)
+?,(Wed) 12 Apr 1961 (15),Shrewsbury Town (20),2-0,?,Bradford City (40)
+?,(Sat) 14 Jan 1961 (2),Shrewsbury Town (21),3-0,?,Brentford FC (40)
+?,(Sat) 12 Nov 1960 (45),Shrewsbury Town (22),4-2,?,Bristol City FC (40)
+?,(Wed) 7 Sep 1960 (36),Shrewsbury Town (23),2-1,?,Bury FC (40)
+?,(Tue) 27 Dec 1960 (52),Shrewsbury Town (24),4-2,?,Chesterfield FC (40)
+?,(Sat) 22 Apr 1961 (16),Shrewsbury Town (25),2-2,?,Colchester United (40)
+?,(Sat) 25 Mar 1961 (12),Shrewsbury Town (26),2-1,?,Coventry City (40)
+?,(Sat) 15 Oct 1960 (41),Shrewsbury Town (27),2-1,?,Grimsby Town (40)
+?,(Sat) 24 Sep 1960 (38),Shrewsbury Town (28),1-1,?,Halifax Town (40)
+?,(Sat) 11 Mar 1961 (10),Shrewsbury Town (29),0-0,?,Hull City (40)
+?,(Mon) 17 Apr 1961 (16),Shrewsbury Town (30),5-0,?,Newport County AFC (40)
+?,(Wed) 8 Mar 1961 (10),Shrewsbury Town (31),4-0,?,Notts County FC (40)
+?,(Wed) 24 Aug 1960 (34),Shrewsbury Town (32),1-1,?,Port Vale FC (40)
+?,(Sat) 8 Apr 1961 (14),Shrewsbury Town (33),4-1,?,Queens Park Rangers (40)
+?,(Sat) 29 Oct 1960 (43),Shrewsbury Town (34),6-1,?,Reading FC (40)
+?,(Wed) 21 Sep 1960 (38),Shrewsbury Town (35),2-2,?,Southend United (18)
+?,(Sat) 27 Aug 1960 (34),Shrewsbury Town (36),1-1,?,Swindon Town (18)
+?,(Sat) 17 Dec 1960 (50),Shrewsbury Town (37),2-1,?,Torquay United (18)
+?,(Sat) 4 Feb 1961 (5),Shrewsbury Town (38),1-2,?,Tranmere Rovers (18)
+?,(Wed) 26 Apr 1961 (17),Shrewsbury Town (39),1-2,?,Walsall FC (18)
+?,(Sat) 10 Sep 1960 (36),Shrewsbury Town (40),2-2,?,Watford FC (18)
+?,(Sat) 25 Mar 1961 (12),Southend United (19),0-0,?,AFC Bournemouth (41)
+?,(Sat) 8 Apr 1961 (14),Southend United (20),2-0,?,Barnsley FC (41)
+?,(Sat) 12 Nov 1960 (45),Southend United (21),0-0,?,Bradford City (41)
+?,(Sat) 18 Feb 1961 (7),Southend United (22),1-1,?,Brentford FC (41)
+?,(Sat) 15 Oct 1960 (41),Southend United (23),1-0,?,Bristol City FC (41)
+?,(Sat) 20 Aug 1960 (33),Southend United (24),0-3,?,Bury FC (41)
+?,(Sat) 31 Dec 1960 (52),Southend United (25),1-1,?,Chesterfield FC (41)
+?,(Sat) 25 Feb 1961 (8),Southend United (26),2-1,?,Colchester United (41)
+?,(Sat) 22 Apr 1961 (16),Southend United (27),4-1,?,Coventry City (41)
+?,(Sat) 10 Dec 1960 (49),Southend United (28),1-1,?,Grimsby Town (41)
+?,(Mon) 26 Dec 1960 (52),Southend United (29),2-2,?,Halifax Town (41)
+?,(Sat) 3 Sep 1960 (35),Southend United (30),3-1,?,Hull City (41)
+?,(Sat) 7 Jan 1961 (1),Southend United (31),4-2,?,Newport County AFC (41)
+?,(Sat) 29 Oct 1960 (43),Southend United (32),3-1,?,Notts County FC (41)
+?,(Sat) 10 Sep 1960 (36),Southend United (33),2-1,?,Port Vale FC (41)
+?,(Sat) 11 Mar 1961 (10),Southend United (34),0-0,?,Queens Park Rangers (41)
+?,(Tue) 4 Apr 1961 (14),Southend United (35),0-1,?,Reading FC (41)
+?,(Mon) 26 Sep 1960 (39),Southend United (36),1-1,?,Shrewsbury Town (41)
+?,(Sat) 24 Sep 1960 (38),Southend United (37),0-2,?,Swindon Town (19)
+?,(Sat) 4 Feb 1961 (5),Southend United (38),3-2,?,Torquay United (19)
+?,(Mon) 12 Sep 1960 (37),Southend United (39),1-2,?,Tranmere Rovers (19)
+?,(Mon) 29 Aug 1960 (35),Southend United (40),1-2,?,Walsall FC (19)
+?,(Mon) 3 Oct 1960 (40),Southend United (41),6-1,?,Watford FC (19)
+?,(Sat) 15 Oct 1960 (41),Swindon Town (20),0-1,?,AFC Bournemouth (42)
+?,(Wed) 19 Apr 1961 (16),Swindon Town (21),1-0,?,Barnsley FC (42)
+?,(Sat) 11 Mar 1961 (10),Swindon Town (22),4-0,?,Bradford City (42)
+?,(Sat) 7 Jan 1961 (1),Swindon Town (23),1-1,?,Brentford FC (42)
+?,(Wed) 19 Oct 1960 (42),Swindon Town (24),3-1,?,Bristol City FC (42)
+?,(Sat) 21 Jan 1961 (3),Swindon Town (25),4-0,?,Bury FC (42)
+?,(Sat) 17 Sep 1960 (37),Swindon Town (26),2-0,?,Chesterfield FC (42)
+?,(Sat) 12 Nov 1960 (45),Swindon Town (27),0-2,?,Colchester United (42)
+?,(Sat) 10 Dec 1960 (49),Swindon Town (28),1-2,?,Coventry City (42)
+?,(Sat) 8 Apr 1961 (14),Swindon Town (29),3-0,?,Grimsby Town (42)
+?,(Sat) 20 Aug 1960 (33),Swindon Town (30),1-1,?,Halifax Town (42)
+?,(Wed) 12 Apr 1961 (15),Swindon Town (31),1-1,?,Hull City (42)
+?,(Sat) 25 Mar 1961 (12),Swindon Town (32),2-0,?,Newport County AFC (42)
+?,(Sat) 22 Apr 1961 (16),Swindon Town (33),1-0,?,Notts County FC (42)
+?,(Sat) 1 Oct 1960 (39),Swindon Town (34),6-0,?,Port Vale FC (42)
+?,(Mon) 3 Apr 1961 (14),Swindon Town (35),1-0,?,Queens Park Rangers (42)
+?,(Sat) 25 Feb 1961 (8),Swindon Town (36),1-1,?,Reading FC (42)
+?,(Sat) 31 Dec 1960 (52),Swindon Town (37),2-2,?,Shrewsbury Town (42)
+?,(Sat) 11 Feb 1961 (6),Swindon Town (38),1-1,?,Southend United (42)
+?,(Wed) 26 Apr 1961 (17),Swindon Town (39),3-1,?,Torquay United (20)
+?,(Wed) 31 Aug 1960 (35),Swindon Town (40),1-0,?,Tranmere Rovers (20)
+?,(Sat) 3 Sep 1960 (35),Swindon Town (41),1-0,?,Walsall FC (20)
+?,(Wed) 28 Sep 1960 (39),Swindon Town (42),1-2,?,Watford FC (20)
+?,(Sat) 11 Mar 1961 (10),Torquay United (21),0-1,?,AFC Bournemouth (43)
+?,(Sat) 25 Mar 1961 (12),Torquay United (22),1-1,?,Barnsley FC (43)
+?,(Sat) 29 Oct 1960 (43),Torquay United (23),2-1,?,Bradford City (43)
+?,(Wed) 14 Sep 1960 (37),Torquay United (24),1-1,?,Brentford FC (43)
+?,(Mon) 3 Apr 1961 (14),Torquay United (25),0-0,?,Bristol City FC (43)
+?,(Sat) 3 Sep 1960 (35),Torquay United (26),1-1,?,Bury FC (43)
+?,(Sat) 21 Jan 1961 (3),Torquay United (27),3-0,?,Chesterfield FC (43)
+?,(Sat) 8 Apr 1961 (14),Torquay United (28),1-1,?,Colchester United (43)
+?,(Sat) 1 Oct 1960 (39),Torquay United (29),3-0,?,Coventry City (43)
+?,(Mon) 6 Feb 1961 (6),Torquay United (30),0-0,?,Grimsby Town (43)
+?,(Thu) 1 Sep 1960 (35),Torquay United (31),1-1,?,Halifax Town (43)
+?,(Sat) 25 Feb 1961 (8),Torquay United (32),1-2,?,Hull City (43)
+?,(Sat) 12 Nov 1960 (45),Torquay United (33),0-0,?,Newport County AFC (43)
+?,(Sat) 15 Oct 1960 (41),Torquay United (34),2-2,?,Notts County FC (43)
+?,(Sat) 11 Feb 1961 (6),Torquay United (35),1-1,?,Port Vale FC (43)
+?,(Sat) 22 Apr 1961 (16),Torquay United (36),1-6,?,Queens Park Rangers (43)
+?,(Sat) 10 Dec 1960 (49),Torquay United (37),4-2,?,Reading FC (43)
+?,(Sat) 20 Aug 1960 (33),Torquay United (38),2-0,?,Shrewsbury Town (43)
+?,(Sat) 17 Sep 1960 (37),Torquay United (39),2-1,?,Southend United (43)
+?,(Wed) 5 Oct 1960 (40),Torquay United (40),1-1,?,Swindon Town (43)
+?,(Thu) 22 Sep 1960 (38),Torquay United (41),5-2,?,Tranmere Rovers (21)
+?,(Sat) 31 Dec 1960 (52),Torquay United (42),3-0,?,Walsall FC (21)
+?,(Fri) 23 Dec 1960 (51),Torquay United (43),2-2,?,Watford FC (21)
+?,(Sat) 3 Sep 1960 (35),Tranmere Rovers (22),4-3,?,AFC Bournemouth (44)
+?,(Sat) 22 Apr 1961 (16),Tranmere Rovers (23),2-1,?,Barnsley FC (44)
+?,(Fri) 31 Mar 1961 (13),Tranmere Rovers (24),1-0,?,Bradford City (44)
+?,(Mon) 19 Dec 1960 (51),Tranmere Rovers (25),2-0,?,Brentford FC (44)
+?,(Mon) 27 Feb 1961 (9),Tranmere Rovers (26),3-2,?,Bristol City FC (44)
+?,(Sat) 1 Oct 1960 (39),Tranmere Rovers (27),1-7,?,Bury FC (44)
+?,(Mon) 24 Apr 1961 (17),Tranmere Rovers (28),1-1,?,Chesterfield FC (44)
+?,(Sat) 11 Mar 1961 (10),Tranmere Rovers (29),7-2,?,Colchester United (44)
+?,(Sat) 8 Apr 1961 (14),Tranmere Rovers (30),2-0,?,Coventry City (44)
+?,(Sat) 29 Oct 1960 (43),Tranmere Rovers (31),3-6,?,Grimsby Town (44)
+?,(Sat) 21 Jan 1961 (3),Tranmere Rovers (32),6-2,?,Halifax Town (44)
+?,(Fri) 24 Mar 1961 (12),Tranmere Rovers (33),1-0,?,Hull City (44)
+?,(Sat) 15 Oct 1960 (41),Tranmere Rovers (34),2-4,?,Newport County AFC (44)
+?,(Sat) 10 Dec 1960 (49),Tranmere Rovers (35),2-3,?,Notts County FC (44)
+?,(Tue) 27 Dec 1960 (52),Tranmere Rovers (36),3-3,?,Port Vale FC (44)
+?,(Sat) 25 Feb 1961 (8),Tranmere Rovers (37),1-2,?,Queens Park Rangers (44)
+?,(Sat) 12 Nov 1960 (45),Tranmere Rovers (38),1-1,?,Reading FC (44)
+?,(Sat) 17 Sep 1960 (37),Tranmere Rovers (39),4-2,?,Shrewsbury Town (44)
+?,(Mon) 5 Sep 1960 (36),Tranmere Rovers (40),2-1,?,Southend United (44)
+?,(Mon) 22 Aug 1960 (34),Tranmere Rovers (41),2-2,?,Swindon Town (44)
+?,(Mon) 26 Sep 1960 (39),Tranmere Rovers (42),2-2,?,Torquay United (44)
+?,(Sat) 11 Feb 1961 (6),Tranmere Rovers (43),1-4,?,Walsall FC (22)
+?,(Sat) 27 Aug 1960 (34),Tranmere Rovers (44),0-2,?,Watford FC (22)
+?,(Mon) 9 Jan 1961 (2),Walsall FC (23),2-0,?,AFC Bournemouth (45)
+?,(Sat) 10 Dec 1960 (49),Walsall FC (24),1-0,?,Barnsley FC (45)
+?,(Sat) 25 Feb 1961 (8),Walsall FC (25),4-0,?,Bradford City (45)
+?,(Sat) 10 Sep 1960 (36),Walsall FC (26),4-0,?,Brentford FC (45)
+?,(Sat) 25 Mar 1961 (12),Walsall FC (27),4-0,?,Bristol City FC (45)
+?,(Fri) 23 Dec 1960 (51),Walsall FC (28),1-0,?,Bury FC (45)
+?,(Tue) 20 Sep 1960 (38),Walsall FC (29),2-1,?,Chesterfield FC (45)
+?,(Mon) 3 Apr 1961 (14),Walsall FC (30),3-0,?,Colchester United (45)
+?,(Fri) 28 Oct 1960 (43),Walsall FC (31),1-1,?,Coventry City (45)
+?,(Sat) 22 Apr 1961 (16),Walsall FC (32),2-1,?,Grimsby Town (45)
+?,(Sat) 18 Feb 1961 (7),Walsall FC (33),0-0,?,Halifax Town (45)
+?,(Sat) 15 Oct 1960 (41),Walsall FC (34),1-0,?,Hull City (45)
+?,(Tue) 6 Sep 1960 (36),Walsall FC (35),2-2,?,Newport County AFC (45)
+?,(Sat) 8 Apr 1961 (14),Walsall FC (36),2-1,?,Notts County FC (45)
+?,(Sat) 17 Dec 1960 (50),Walsall FC (37),6-2,?,Port Vale FC (45)
+?,(Sat) 12 Nov 1960 (45),Walsall FC (38),4-3,?,Queens Park Rangers (45)
+?,(Sat) 11 Mar 1961 (10),Walsall FC (39),2-2,?,Reading FC (45)
+?,(Mon) 3 Oct 1960 (40),Walsall FC (40),3-2,?,Shrewsbury Town (45)
+?,(Tue) 23 Aug 1960 (34),Walsall FC (41),5-1,?,Southend United (45)
+?,(Tue) 21 Mar 1961 (12),Walsall FC (42),2-1,?,Swindon Town (45)
+?,(Sat) 27 Aug 1960 (34),Walsall FC (43),3-0,?,Torquay United (45)
+?,(Sat) 24 Sep 1960 (38),Walsall FC (44),3-1,?,Tranmere Rovers (45)
+?,(Sat) 4 Feb 1961 (5),Walsall FC (45),5-2,?,Watford FC (23)
+?,(Mon) 3 Apr 1961 (14),Watford FC (24),0-1,?,AFC Bournemouth (46)
+?,(Sat) 15 Oct 1960 (41),Watford FC (25),1-2,?,Barnsley FC (46)
+?,(Sat) 22 Apr 1961 (16),Watford FC (26),2-2,?,Bradford City (46)
+?,(Tue) 30 Aug 1960 (35),Watford FC (27),6-1,?,Brentford FC (46)
+?,(Sat) 25 Feb 1961 (8),Watford FC (28),0-1,?,Bristol City FC (46)
+?,(Sat) 11 Feb 1961 (6),Watford FC (29),1-1,?,Bury FC (46)
+?,(Sat) 1 Oct 1960 (39),Watford FC (30),3-1,?,Chesterfield FC (46)
+?,(Sat) 29 Oct 1960 (43),Watford FC (31),2-2,?,Colchester United (46)
+?,(Tue) 11 Apr 1961 (15),Watford FC (32),7-2,?,Coventry City (46)
+?,(Sat) 25 Mar 1961 (12),Watford FC (33),2-0,?,Grimsby Town (46)
+?,(Sat) 3 Sep 1960 (35),Watford FC (34),4-3,?,Halifax Town (46)
+?,(Sat) 12 Nov 1960 (45),Watford FC (35),2-2,?,Hull City (46)
+?,(Sat) 11 Mar 1961 (10),Watford FC (36),4-1,?,Newport County AFC (46)
+?,(Sat) 20 Aug 1960 (33),Watford FC (37),2-2,?,Notts County FC (46)
+?,(Tue) 13 Sep 1960 (37),Watford FC (38),0-0,?,Port Vale FC (46)
+?,(Sat) 10 Dec 1960 (49),Watford FC (39),0-3,?,Queens Park Rangers (46)
+?,(Sat) 8 Apr 1961 (14),Watford FC (40),2-0,?,Reading FC (46)
+?,(Sat) 21 Jan 1961 (3),Watford FC (41),3-1,?,Shrewsbury Town (46)
+?,(Tue) 25 Apr 1961 (17),Watford FC (42),3-0,?,Southend United (46)
+?,(Tue) 20 Sep 1960 (38),Watford FC (43),1-0,?,Swindon Town (46)
+?,(Tue) 27 Dec 1960 (52),Watford FC (44),3-0,?,Torquay United (46)
+?,(Sat) 31 Dec 1960 (52),Watford FC (45),2-2,?,Tranmere Rovers (46)
+?,(Sat) 17 Sep 1960 (37),Watford FC (46),2-0,?,Walsall FC (46)
