@@ -1,215 +1,227 @@
 # Summary
 
-117 seasons, 5 levels (1 2 3 4 5), 167 teams in 412 datafiles
+120 seasons, 5 levels (1 2 3 4 5), 178 teams in 431 datafiles
 
 level 1
-- 117 seasons: 2017-18 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 1992-93 1991-92 1990-91 1989-90 1988-89 1987-88 1986-87 1985-86 1984-85 1983-84 1982-83 1981-82 1980-81 1979-80 1978-79 1977-78 1976-77 1975-76 1974-75 1973-74 1972-73 1971-72 1970-71 1969-70 1968-69 1967-68 1966-67 1965-66 1964-65 1963-64 1962-63 1961-62 1960-61 1959-60 1958-59 1957-58 1956-57 1955-56 1954-55 1953-54 1952-53 1951-52 1950-51 1949-50 1948-49 1947-48 1946-47 1939-40 1938-39 1937-38 1936-37 1935-36 1934-35 1933-34 1932-33 1931-32 1930-31 1929-30 1928-29 1927-28 1926-27 1925-26 1924-25 1923-24 1922-23 1921-22 1920-21 1919-20 1914-15 1913-14 1912-13 1911-12 1910-11 1909-10 1908-09 1907-08 1906-07 1905-06 1904-05 1903-04 1902-03 1901-02 1900-01 1899-00 1898-99 1897-98 1896-97 1895-96 1894-95 1893-94 1892-93 1891-92 1890-91 1889-90 1888-89 
-- 65 teams: AFC Bournemouth (1) Accrington FC (1878-1896) (5) Arsenal FC (99) Aston Villa FC (104) Barnsley FC (1) Birmingham City FC (57) Blackburn Rovers FC (73) Blackpool FC (29) Bolton Wanderers FC (74) Bradford City AFC (12) Bradford Park Avenue AFC (3) Brentford FC (6) Brighton & Hove Albion FC (5) Bristol City FC (9) Burnley FC (53) Bury FC (22) Cardiff City FC (16) Carlisle United FC (1) Charlton Athletic FC (27) Chelsea FC (81) Coventry City FC (34) Crystal Palace FC (15) Darwen FC (1870-2009) (2) Derby County FC (66) Everton FC (113) Fulham FC (25) Glossop North End AFC (1) Grimsby Town FC (13) Huddersfield Town AFC (32) Hull City AFC (3) Ipswich Town FC (26) Leeds United FC (51) Leicester City FC (47) Leyton Orient FC (1) Liverpool FC (101) Luton Town FC (16) Manchester City FC (86) Manchester United FC (91) Middlesbrough FC (61) Millwall FC (2) Newcastle United FC (84) Northampton Town FC (1) Norwich City FC (24) Nottingham Forest FC (56) Notts County FC (30) Oldham Athletic AFC (12) Oxford United FC (3) Portsmouth FC (34) Preston North End FC (47) Queens Park Rangers FC (22) Reading FC (3) Sheffield United FC (61) Sheffield Wednesday FC (66) Southampton FC (38) Stoke City FC (60) Sunderland AFC (84) Swansea City AFC (6) Swindon Town FC (1) Tottenham Hotspur FC (80) Watford FC (9) West Bromwich Albion FC (77) West Ham United FC (57) Wigan Athletic FC (8) Wimbledon FC (14) Wolverhampton Wanderers FC (64) 
-  - 113 seasons: **Everton FC**
-  - 104 seasons: **Aston Villa FC**
-  - 101 seasons: **Liverpool FC**
-  - 99 seasons: **Arsenal FC**
-  - 91 seasons: **Manchester United FC**
-  - 86 seasons: **Manchester City FC**
-  - 84 seasons: **Newcastle United FC**, **Sunderland AFC**
-  - 81 seasons: **Chelsea FC**
-  - 80 seasons: **Tottenham Hotspur FC**
-  - 77 seasons: **West Bromwich Albion FC**
+- 120 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 1992-93 1991-92 1990-91 1989-90 1988-89 1987-88 1986-87 1985-86 1984-85 1983-84 1982-83 1981-82 1980-81 1979-80 1978-79 1977-78 1976-77 1975-76 1974-75 1973-74 1972-73 1971-72 1970-71 1969-70 1968-69 1967-68 1966-67 1965-66 1964-65 1963-64 1962-63 1961-62 1960-61 1959-60 1958-59 1957-58 1956-57 1955-56 1954-55 1953-54 1952-53 1951-52 1950-51 1949-50 1948-49 1947-48 1946-47 1939-40 1938-39 1937-38 1936-37 1935-36 1934-35 1933-34 1932-33 1931-32 1930-31 1929-30 1928-29 1927-28 1926-27 1925-26 1924-25 1923-24 1922-23 1921-22 1920-21 1919-20 1914-15 1913-14 1912-13 1911-12 1910-11 1909-10 1908-09 1907-08 1906-07 1905-06 1904-05 1903-04 1902-03 1901-02 1900-01 1899-00 1898-99 1897-98 1896-97 1895-96 1894-95 1893-94 1892-93 1891-92 1890-91 1889-90 1888-89 
+- 65 teams: AFC Bournemouth (3) Accrington FC (1878-1896) (5) Arsenal FC (102) Aston Villa FC (106) Barnsley FC (1) Birmingham City FC (57) Blackburn Rovers FC (73) Blackpool FC (29) Bolton Wanderers FC (74) Bradford City AFC (12) Bradford Park Avenue AFC (3) Brentford FC (6) Brighton & Hove Albion FC (5) Bristol City FC (9) Burnley FC (55) Bury FC (22) Cardiff City FC (16) Carlisle United FC (1) Charlton Athletic FC (27) Chelsea FC (84) Coventry City FC (34) Crystal Palace FC (18) Darwen FC (1870-2009) (2) Derby County FC (66) Everton FC (116) Fulham FC (25) Glossop North End AFC (1) Grimsby Town FC (13) Huddersfield Town AFC (32) Hull City AFC (5) Ipswich Town FC (26) Leeds United FC (51) Leicester City FC (50) Leyton Orient FC (1) Liverpool FC (104) Luton Town FC (16) Manchester City FC (89) Manchester United FC (94) Middlesbrough FC (62) Millwall FC (2) Newcastle United FC (86) Northampton Town FC (1) Norwich City FC (25) Nottingham Forest FC (56) Notts County FC (30) Oldham Athletic AFC (12) Oxford United FC (3) Portsmouth FC (34) Preston North End FC (47) Queens Park Rangers FC (23) Reading FC (3) Sheffield United FC (61) Sheffield Wednesday FC (66) Southampton FC (41) Stoke City FC (63) Sunderland AFC (87) Swansea City AFC (9) Swindon Town FC (1) Tottenham Hotspur FC (83) Watford FC (11) West Bromwich Albion FC (80) West Ham United FC (60) Wigan Athletic FC (8) Wimbledon FC (14) Wolverhampton Wanderers FC (64) 
+  - 116 seasons: **Everton FC**
+  - 106 seasons: **Aston Villa FC**
+  - 104 seasons: **Liverpool FC**
+  - 102 seasons: **Arsenal FC**
+  - 94 seasons: **Manchester United FC**
+  - 89 seasons: **Manchester City FC**
+  - 87 seasons: **Sunderland AFC**
+  - 86 seasons: **Newcastle United FC**
+  - 84 seasons: **Chelsea FC**
+  - 83 seasons: **Tottenham Hotspur FC**
+  - 80 seasons: **West Bromwich Albion FC**
   - 74 seasons: **Bolton Wanderers FC**
   - 73 seasons: **Blackburn Rovers FC**
   - 66 seasons: **Derby County FC**, **Sheffield Wednesday FC**
   - 64 seasons: **Wolverhampton Wanderers FC**
-  - 61 seasons: **Middlesbrough FC**, **Sheffield United FC**
-  - 60 seasons: **Stoke City FC**
-  - 57 seasons: **Birmingham City FC**, **West Ham United FC**
+  - 63 seasons: **Stoke City FC**
+  - 62 seasons: **Middlesbrough FC**
+  - 61 seasons: **Sheffield United FC**
+  - 60 seasons: **West Ham United FC**
+  - 57 seasons: **Birmingham City FC**
   - 56 seasons: **Nottingham Forest FC**
-  - 53 seasons: **Burnley FC**
+  - 55 seasons: **Burnley FC**
   - 51 seasons: **Leeds United FC**
-  - 47 seasons: **Leicester City FC**, **Preston North End FC**
-  - 38 seasons: **Southampton FC**
+  - 50 seasons: **Leicester City FC**
+  - 47 seasons: **Preston North End FC**
+  - 41 seasons: **Southampton FC**
   - 34 seasons: **Coventry City FC**, **Portsmouth FC**
   - 32 seasons: **Huddersfield Town AFC**
   - 30 seasons: **Notts County FC**
   - 29 seasons: **Blackpool FC**
   - 27 seasons: **Charlton Athletic FC**
   - 26 seasons: **Ipswich Town FC**
-  - 25 seasons: **Fulham FC**
-  - 24 seasons: **Norwich City FC**
-  - 22 seasons: **Bury FC**, **Queens Park Rangers FC**
+  - 25 seasons: **Fulham FC**, **Norwich City FC**
+  - 23 seasons: **Queens Park Rangers FC**
+  - 22 seasons: **Bury FC**
+  - 18 seasons: **Crystal Palace FC**
   - 16 seasons: **Cardiff City FC**, **Luton Town FC**
-  - 15 seasons: **Crystal Palace FC**
   - 14 seasons: **Wimbledon FC**
   - 13 seasons: **Grimsby Town FC**
   - 12 seasons: **Bradford City AFC**, **Oldham Athletic AFC**
-  - 9 seasons: **Bristol City FC**, **Watford FC**
+  - 11 seasons: **Watford FC**
+  - 9 seasons: **Bristol City FC**, **Swansea City AFC**
   - 8 seasons: **Wigan Athletic FC**
-  - 6 seasons: **Brentford FC**, **Swansea City AFC**
-  - 5 seasons: **Accrington FC (1878-1896)**, **Brighton & Hove Albion FC**
-  - 3 seasons: **Bradford Park Avenue AFC**, **Hull City AFC**, **Oxford United FC**, **Reading FC**
+  - 6 seasons: **Brentford FC**
+  - 5 seasons: **Accrington FC (1878-1896)**, **Brighton & Hove Albion FC**, **Hull City AFC**
+  - 3 seasons: **AFC Bournemouth**, **Bradford Park Avenue AFC**, **Oxford United FC**, **Reading FC**
   - 2 seasons: **Darwen FC (1870-2009)**, **Millwall FC**
-  - 1 seasons: **AFC Bournemouth**, **Barnsley FC**, **Carlisle United FC**, **Glossop North End AFC**, **Leyton Orient FC**, **Northampton Town FC**, **Swindon Town FC**
+  - 1 seasons: **Barnsley FC**, **Carlisle United FC**, **Glossop North End AFC**, **Leyton Orient FC**, **Northampton Town FC**, **Swindon Town FC**
 
 
 level 2
-- 112 seasons: 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 1992-93 1991-92 1990-91 1989-90 1988-89 1987-88 1986-87 1985-86 1984-85 1983-84 1982-83 1981-82 1980-81 1979-80 1978-79 1977-78 1976-77 1975-76 1974-75 1973-74 1972-73 1971-72 1970-71 1969-70 1968-69 1967-68 1966-67 1965-66 1964-65 1963-64 1962-63 1961-62 1960-61 1959-60 1958-59 1957-58 1956-57 1955-56 1954-55 1953-54 1952-53 1951-52 1950-51 1949-50 1948-49 1947-48 1946-47 1939-40 1938-39 1937-38 1936-37 1935-36 1934-35 1933-34 1932-33 1931-32 1930-31 1929-30 1928-29 1927-28 1926-27 1925-26 1924-25 1923-24 1922-23 1921-22 1920-21 1919-20 1914-15 1913-14 1912-13 1911-12 1910-11 1909-10 1908-09 1907-08 1906-07 1905-06 1904-05 1903-04 1902-03 1901-02 1900-01 1899-00 1898-99 1897-98 1896-97 1895-96 1894-95 1893-94 1892-93 
-- 103 teams: AFC Bournemouth (4) Arsenal FC (13) Aston Villa FC (10) Barnsley FC (74) Birmingham City FC (51) Blackburn Rovers FC (38) Blackpool FC (49) Bolton Wanderers FC (30) Bootle FC (1879-1893) (1) Bradford City AFC (29) Bradford Park Avenue AFC (23) Brentford FC (10) Brighton & Hove Albion FC (21) Bristol City FC (47) Bristol Rovers FC (19) Burnley FC (46) Burton Swifts FC (1871-1901) (9) Burton United FC (1901-1910) (6) Burton Wanderers FC (1871-1901) (3) Bury FC (40) Cambridge United FC (8) Cardiff City FC (42) Carlisle United FC (15) Charlton Athletic FC (43) Chelsea FC (19) Chesterfield FC (21) Colchester United FC (2) Coventry City FC (30) Crewe Alexandra FC (12) Crystal Palace FC (37) Darlington FC (2) Darwen FC (1870-2009) (6) Derby County FC (46) Doncaster Rovers FC (19) Everton FC (4) Fulham FC (51) Gainsborough Trinity FC (16) Gillingham FC (5) Glossop North End AFC (16) Grimsby Town FC (52) Hereford United FC (1924-2014) (1) Huddersfield Town AFC (35) Hull City AFC (56) Ipswich Town FC (32) Leeds City FC (1904-1919) (11) Leeds United FC (34) Leicester City FC (63) Leyton Orient FC (41) Lincoln City FC (34) Liverpool FC (11) Loughborough FC (1886-1900) (5) Luton Town FC (35) Manchester City FC (26) Manchester United FC (22) Mansfield Town FC (1) Middlesbrough FC (42) Middlesbrough Ironopolis FC (1889-1894) (1) Millwall FC (40) Nelson FC (1) New Brighton Tower FC (1898-1901) (3) Newcastle United FC (28) Newport County AFC (2) Northampton Town FC (3) Northwich Victoria FC (2) Norwich City FC (34) Nottingham Forest FC (51) Notts County FC (37) Oldham Athletic AFC (36) Oxford United FC (18) Peterborough United FC (5) Plymouth Argyle FC (41) Port Vale FC (41) Portsmouth FC (40) Preston North End FC (42) Queens Park Rangers FC (26) Reading FC (20) Rotherham County FC (1870-1925) (4) Rotherham Town FC (1899-1925) (3) Rotherham United FC (23) Scunthorpe United FC (9) Sheffield United FC (42) Sheffield Wednesday FC (37) Shrewsbury Town FC (10) South Shields FC (9) Southampton FC (40) Southend United FC (7) Stockport County FC (26) Stoke City FC (41) Sunderland AFC (29) Swansea City AFC (38) Swindon Town FC (18) Tottenham Hotspur FC (17) Tranmere Rovers FC (11) Walsall FC (15) Watford FC (28) West Bromwich Albion FC (38) West Ham United FC (33) Wigan Athletic FC (3) Wimbledon FC (6) Wolverhampton Wanderers FC (46) Wrexham AFC (4) Yeovil Town FC (1) York City FC (2) 
-  - 74 seasons: **Barnsley FC**
+- 116 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 1992-93 1991-92 1990-91 1989-90 1988-89 1987-88 1986-87 1985-86 1984-85 1983-84 1982-83 1981-82 1980-81 1979-80 1978-79 1977-78 1976-77 1975-76 1974-75 1973-74 1972-73 1971-72 1970-71 1969-70 1968-69 1967-68 1966-67 1965-66 1964-65 1963-64 1962-63 1961-62 1960-61 1959-60 1958-59 1957-58 1956-57 1955-56 1954-55 1953-54 1952-53 1951-52 1950-51 1949-50 1948-49 1947-48 1946-47 1939-40 1938-39 1937-38 1936-37 1935-36 1934-35 1933-34 1932-33 1931-32 1930-31 1929-30 1928-29 1927-28 1926-27 1925-26 1924-25 1923-24 1922-23 1921-22 1920-21 1919-20 1914-15 1913-14 1912-13 1911-12 1910-11 1909-10 1908-09 1907-08 1906-07 1905-06 1904-05 1903-04 1902-03 1901-02 1900-01 1899-00 1898-99 1897-98 1896-97 1895-96 1894-95 1893-94 1892-93 
+- 105 teams: AFC Bournemouth (5) Arsenal FC (13) Aston Villa FC (12) Barnsley FC (76) Birmingham City FC (55) Blackburn Rovers FC (41) Blackpool FC (50) Bolton Wanderers FC (33) Bootle FC (1879-1893) (1) Bradford City AFC (29) Bradford Park Avenue AFC (23) Brentford FC (14) Brighton & Hove Albion FC (24) Bristol City FC (50) Bristol Rovers FC (19) Burnley FC (47) Burton Albion FC (2) Burton Swifts FC (1871-1901) (9) Burton United FC (1901-1910) (6) Burton Wanderers FC (1871-1901) (3) Bury FC (40) Cambridge United FC (8) Cardiff City FC (46) Carlisle United FC (15) Charlton Athletic FC (45) Chelsea FC (19) Chesterfield FC (21) Colchester United FC (2) Coventry City FC (30) Crewe Alexandra FC (12) Crystal Palace FC (37) Darlington FC (2) Darwen FC (1870-2009) (6) Derby County FC (50) Doncaster Rovers FC (19) Everton FC (4) Fulham FC (55) Gainsborough Trinity FC (16) Gillingham FC (5) Glossop North End AFC (16) Grimsby Town FC (52) Hereford United FC (1924-2014) (1) Huddersfield Town AFC (38) Hull City AFC (58) Ipswich Town FC (36) Leeds City FC (1904-1919) (11) Leeds United FC (38) Leicester City FC (63) Leyton Orient FC (41) Lincoln City FC (34) Liverpool FC (11) Loughborough FC (1886-1900) (5) Luton Town FC (35) Manchester City FC (26) Manchester United FC (22) Mansfield Town FC (1) Middlesbrough FC (45) Middlesbrough Ironopolis FC (1889-1894) (1) Millwall FC (42) Milton Keynes Dons FC (1) Nelson FC (1) New Brighton Tower FC (1898-1901) (3) Newcastle United FC (29) Newport County AFC (2) Northampton Town FC (3) Northwich Victoria FC (2) Norwich City FC (37) Nottingham Forest FC (55) Notts County FC (37) Oldham Athletic AFC (36) Oxford United FC (18) Peterborough United FC (5) Plymouth Argyle FC (41) Port Vale FC (41) Portsmouth FC (40) Preston North End FC (45) Queens Park Rangers FC (29) Reading FC (24) Rotherham County FC (1870-1925) (4) Rotherham Town FC (1899-1925) (3) Rotherham United FC (26) Scunthorpe United FC (9) Sheffield United FC (43) Sheffield Wednesday FC (41) Shrewsbury Town FC (10) South Shields FC (9) Southampton FC (40) Southend United FC (7) Stockport County FC (26) Stoke City FC (41) Sunderland AFC (30) Swansea City AFC (38) Swindon Town FC (18) Tottenham Hotspur FC (17) Tranmere Rovers FC (11) Walsall FC (15) Watford FC (29) West Bromwich Albion FC (38) West Ham United FC (33) Wigan Athletic FC (5) Wimbledon FC (6) Wolverhampton Wanderers FC (50) Wrexham AFC (4) Yeovil Town FC (1) York City FC (2) 
+  - 76 seasons: **Barnsley FC**
   - 63 seasons: **Leicester City FC**
-  - 56 seasons: **Hull City AFC**
+  - 58 seasons: **Hull City AFC**
+  - 55 seasons: **Birmingham City FC**, **Fulham FC**, **Nottingham Forest FC**
   - 52 seasons: **Grimsby Town FC**
-  - 51 seasons: **Birmingham City FC**, **Fulham FC**, **Nottingham Forest FC**
-  - 49 seasons: **Blackpool FC**
-  - 47 seasons: **Bristol City FC**
-  - 46 seasons: **Burnley FC**, **Derby County FC**, **Wolverhampton Wanderers FC**
-  - 43 seasons: **Charlton Athletic FC**
-  - 42 seasons: **Cardiff City FC**, **Middlesbrough FC**, **Preston North End FC**, **Sheffield United FC**
-  - 41 seasons: **Leyton Orient FC**, **Plymouth Argyle FC**, **Port Vale FC**, **Stoke City FC**
-  - 40 seasons: **Bury FC**, **Millwall FC**, **Portsmouth FC**, **Southampton FC**
-  - 38 seasons: **Blackburn Rovers FC**, **Swansea City AFC**, **West Bromwich Albion FC**
-  - 37 seasons: **Crystal Palace FC**, **Notts County FC**, **Sheffield Wednesday FC**
-  - 36 seasons: **Oldham Athletic AFC**
-  - 35 seasons: **Huddersfield Town AFC**, **Luton Town FC**
-  - 34 seasons: **Leeds United FC**, **Lincoln City FC**, **Norwich City FC**
-  - 33 seasons: **West Ham United FC**
-  - 32 seasons: **Ipswich Town FC**
-  - 30 seasons: **Bolton Wanderers FC**, **Coventry City FC**
-  - 29 seasons: **Bradford City AFC**, **Sunderland AFC**
-  - 28 seasons: **Newcastle United FC**, **Watford FC**
-  - 26 seasons: **Manchester City FC**, **Queens Park Rangers FC**, **Stockport County FC**
-  - 23 seasons: **Bradford Park Avenue AFC**, **Rotherham United FC**
+  - 50 seasons: **Blackpool FC**, **Bristol City FC**, **Derby County FC**, **Wolverhampton Wanderers FC**
+  - 47 seasons: **Burnley FC**
+  - 46 seasons: **Cardiff City FC**
+  - 45 seasons: **Charlton Athletic FC**, **Middlesbrough FC**, **Preston North End FC**
+  - 43 seasons: **Sheffield United FC**
+  - 42 seasons: **Millwall FC**
+  - 41 seasons: **Blackburn Rovers FC**, **Leyton Orient FC**, **Plymouth Argyle FC**, **Port Vale FC**, **Sheffield Wednesday FC**, **Stoke City FC**
+  - 40 seasons: **Bury FC**, **Portsmouth FC**, **Southampton FC**
+  - 38 seasons: **Huddersfield Town AFC**, **Leeds United FC**, **Swansea City AFC**, **West Bromwich Albion FC**
+  - 37 seasons: **Crystal Palace FC**, **Norwich City FC**, **Notts County FC**
+  - 36 seasons: **Ipswich Town FC**, **Oldham Athletic AFC**
+  - 35 seasons: **Luton Town FC**
+  - 34 seasons: **Lincoln City FC**
+  - 33 seasons: **Bolton Wanderers FC**, **West Ham United FC**
+  - 30 seasons: **Coventry City FC**, **Sunderland AFC**
+  - 29 seasons: **Bradford City AFC**, **Newcastle United FC**, **Queens Park Rangers FC**, **Watford FC**
+  - 26 seasons: **Manchester City FC**, **Rotherham United FC**, **Stockport County FC**
+  - 24 seasons: **Brighton & Hove Albion FC**, **Reading FC**
+  - 23 seasons: **Bradford Park Avenue AFC**
   - 22 seasons: **Manchester United FC**
-  - 21 seasons: **Brighton & Hove Albion FC**, **Chesterfield FC**
-  - 20 seasons: **Reading FC**
+  - 21 seasons: **Chesterfield FC**
   - 19 seasons: **Bristol Rovers FC**, **Chelsea FC**, **Doncaster Rovers FC**
   - 18 seasons: **Oxford United FC**, **Swindon Town FC**
   - 17 seasons: **Tottenham Hotspur FC**
   - 16 seasons: **Gainsborough Trinity FC**, **Glossop North End AFC**
   - 15 seasons: **Carlisle United FC**, **Walsall FC**
+  - 14 seasons: **Brentford FC**
   - 13 seasons: **Arsenal FC**
-  - 12 seasons: **Crewe Alexandra FC**
+  - 12 seasons: **Aston Villa FC**, **Crewe Alexandra FC**
   - 11 seasons: **Leeds City FC (1904-1919)**, **Liverpool FC**, **Tranmere Rovers FC**
-  - 10 seasons: **Aston Villa FC**, **Brentford FC**, **Shrewsbury Town FC**
+  - 10 seasons: **Shrewsbury Town FC**
   - 9 seasons: **Burton Swifts FC (1871-1901)**, **Scunthorpe United FC**, **South Shields FC**
   - 8 seasons: **Cambridge United FC**
   - 7 seasons: **Southend United FC**
   - 6 seasons: **Burton United FC (1901-1910)**, **Darwen FC (1870-2009)**, **Wimbledon FC**
-  - 5 seasons: **Gillingham FC**, **Loughborough FC (1886-1900)**, **Peterborough United FC**
-  - 4 seasons: **AFC Bournemouth**, **Everton FC**, **Rotherham County FC (1870-1925)**, **Wrexham AFC**
-  - 3 seasons: **Burton Wanderers FC (1871-1901)**, **New Brighton Tower FC (1898-1901)**, **Northampton Town FC**, **Rotherham Town FC (1899-1925)**, **Wigan Athletic FC**
-  - 2 seasons: **Colchester United FC**, **Darlington FC**, **Newport County AFC**, **Northwich Victoria FC**, **York City FC**
-  - 1 seasons: **Bootle FC (1879-1893)**, **Hereford United FC (1924-2014)**, **Mansfield Town FC**, **Middlesbrough Ironopolis FC (1889-1894)**, **Nelson FC**, **Yeovil Town FC**
+  - 5 seasons: **AFC Bournemouth**, **Gillingham FC**, **Loughborough FC (1886-1900)**, **Peterborough United FC**, **Wigan Athletic FC**
+  - 4 seasons: **Everton FC**, **Rotherham County FC (1870-1925)**, **Wrexham AFC**
+  - 3 seasons: **Burton Wanderers FC (1871-1901)**, **New Brighton Tower FC (1898-1901)**, **Northampton Town FC**, **Rotherham Town FC (1899-1925)**
+  - 2 seasons: **Burton Albion FC**, **Colchester United FC**, **Darlington FC**, **Newport County AFC**, **Northwich Victoria FC**, **York City FC**
+  - 1 seasons: **Bootle FC (1879-1893)**, **Hereford United FC (1924-2014)**, **Mansfield Town FC**, **Middlesbrough Ironopolis FC (1889-1894)**, **Milton Keynes Dons FC**, **Nelson FC**, **Yeovil Town FC**
 
 
 level 3
-- 88 seasons: 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 1992-93 1991-92 1990-91 1989-90 1988-89 1987-88 1986-87 1985-86 1984-85 1983-84 1982-83 1981-82 1980-81 1979-80 1978-79 1977-78 1976-77 1975-76 1974-75 1973-74 1972-73 1971-72 1970-71 1969-70 1968-69 1967-68 1966-67 1965-66 1964-65 1963-64 1962-63 1961-62 1960-61 1959-60 1958-59 1957-58  (2) 1956-57  (2) 1955-56  (2) 1954-55  (2) 1953-54  (2) 1952-53  (2) 1951-52  (2) 1950-51  (2) 1949-50  (2) 1948-49  (2) 1947-48  (2) 1946-47  (2) 1939-40  (2) 1938-39  (2) 1937-38  (2) 1936-37  (2) 1935-36  (2) 1934-35  (2) 1933-34  (2) 1932-33  (2) 1931-32  (2) 1930-31  (2) 1929-30  (2) 1928-29  (2) 1927-28  (2) 1926-27  (2) 1925-26  (2) 1924-25  (2) 1923-24  (2) 1922-23  (2) 1921-22  (2) 1920-21 
-- 112 teams: AFC Bournemouth (70) AFC Rushden & Diamonds (1) Aberdare Athletic FC (1893-1928) (6) Accrington Stanley FC (33) Aldershot Town FC (25) Ashington AFC (8) Aston Villa FC (2) Barnet FC (1) Barnsley FC (21) Barrow AFC (34) Birmingham City FC (4) Blackburn Rovers FC (5) Blackpool FC (22) Bolton Wanderers FC (11) Bradford City AFC (37) Bradford Park Avenue AFC (16) Brentford FC (57) Brighton & Hove Albion FC (56) Bristol City FC (45) Bristol Rovers FC (60) Burnley FC (11) Bury FC (26) Cambridge United FC (9) Cardiff City FC (20) Carlisle United FC (42) Charlton Athletic FC (17) Cheltenham Town FC (4) Chester FC (36) Chesterfield FC (52) Colchester United FC (36) Coventry City FC (24) Crawley Town FC (2) Crewe Alexandra FC (44) Crystal Palace FC (34) Dagenham & Redbridge FC (1) Darlington FC (33) Derby County FC (4) Doncaster Rovers FC (33) Durham City AFC (7) Exeter City FC (48) FC Halifax Town (43) Fulham FC (18) Gateshead FC (22) Gillingham FC (57) Grimsby Town FC (28) Hartlepool United FC (44) Hereford FC (2014-) (1) Hereford United FC (1924-2014) (4) Huddersfield Town AFC (22) Hull City AFC (30) Ipswich Town FC (12) Leeds United FC (3) Leicester City FC (1) Leyton Orient FC (42) Lincoln City FC (32) Luton Town FC (30) Macclesfield Town FC (1) Manchester City FC (1) Mansfield Town FC (43) Merthyr Town FC (10) Middlesbrough FC (2) Millwall FC (41) Milton Keynes Dons FC (8) Nelson FC (9) New Brighton Tower FC (1898-1901) (22) Newport County AFC (40) Northampton Town FC (48) Norwich City FC (30) Nottingham Forest FC (5) Notts County FC (34) Oldham Athletic AFC (42) Oxford United FC (15) Peterborough United FC (24) Plymouth Argyle FC (39) Port Vale FC (43) Portsmouth FC (11) Preston North End FC (22) Queens Park Rangers FC (40) Reading FC (57) Rochdale AFC (39) Rotherham County FC (1870-1925) (2) Rotherham United FC (47) Scunthorpe United FC (20) Sheffield United FC (8) Sheffield Wednesday FC (9) Shrewsbury Town FC (35) South Shields FC (2) Southampton FC (11) Southend United FC (57) Southport FC (35) Stalybridge Celtic FC (2) Stevenage FC (3) Stockport County FC (41) Stoke City FC (8) Sunderland AFC (1) Swansea City AFC (27) Swindon Town FC (63) Thames AFC (1928-1932) (2) Torquay United FC (35) Tranmere Rovers FC (59) Walsall FC (71) Watford FC (47) West Bromwich Albion FC (2) Wigan Athletic FC (17) Wigan Borough FC (1920-1931) (11) Wimbledon FC (3) Wolverhampton Wanderers FC (4) Workington AFC (10) Wrexham AFC (55) Wycombe Wanderers FC (12) Yeovil Town FC (8) York City FC (39) 
-  - 71 seasons: **Walsall FC**
+- 92 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 1992-93 1991-92 1990-91 1989-90 1988-89 1987-88 1986-87 1985-86 1984-85 1983-84 1982-83 1981-82 1980-81 1979-80 1978-79 1977-78 1976-77 1975-76 1974-75 1973-74 1972-73 1971-72 1970-71 1969-70 1968-69 1967-68 1966-67 1965-66 1964-65 1963-64 1962-63 1961-62 1960-61 1959-60 1958-59 1957-58  (2) 1956-57  (2) 1955-56  (2) 1954-55  (2) 1953-54  (2) 1952-53  (2) 1951-52  (2) 1950-51  (2) 1949-50  (2) 1948-49  (2) 1947-48  (2) 1946-47  (2) 1939-40  (2) 1938-39  (2) 1937-38  (2) 1936-37  (2) 1935-36  (2) 1934-35  (2) 1933-34  (2) 1932-33  (2) 1931-32  (2) 1930-31  (2) 1929-30  (2) 1928-29  (2) 1927-28  (2) 1926-27  (2) 1925-26  (2) 1924-25  (2) 1923-24  (2) 1922-23  (2) 1921-22  (2) 1920-21 
+- 115 teams: AFC Bournemouth (70) AFC Rushden & Diamonds (1) AFC Wimbledon (2) Aberdare Athletic FC (1893-1928) (6) Accrington Stanley FC (33) Aldershot Town FC (25) Ashington AFC (8) Aston Villa FC (2) Barnet FC (1) Barnsley FC (23) Barrow AFC (34) Birmingham City FC (4) Blackburn Rovers FC (6) Blackpool FC (24) Bolton Wanderers FC (12) Bradford City AFC (41) Bradford Park Avenue AFC (16) Brentford FC (57) Brighton & Hove Albion FC (56) Bristol City FC (46) Bristol Rovers FC (62) Burnley FC (11) Burton Albion FC (1) Bury FC (29) Cambridge United FC (9) Cardiff City FC (20) Carlisle United FC (42) Charlton Athletic FC (19) Cheltenham Town FC (4) Chester FC (36) Chesterfield FC (55) Colchester United FC (38) Coventry City FC (27) Crawley Town FC (3) Crewe Alexandra FC (46) Crystal Palace FC (34) Dagenham & Redbridge FC (1) Darlington FC (33) Derby County FC (4) Doncaster Rovers FC (36) Durham City AFC (7) Exeter City FC (48) FC Halifax Town (43) Fleetwood Town FC (4) Fulham FC (18) Gateshead FC (22) Gillingham FC (61) Grimsby Town FC (28) Hartlepool United FC (44) Hereford FC (2014-) (1) Hereford United FC (1924-2014) (4) Huddersfield Town AFC (22) Hull City AFC (30) Ipswich Town FC (12) Leeds United FC (3) Leicester City FC (1) Leyton Orient FC (43) Lincoln City FC (32) Luton Town FC (30) Macclesfield Town FC (1) Manchester City FC (1) Mansfield Town FC (43) Merthyr Town FC (10) Middlesbrough FC (2) Millwall FC (43) Milton Keynes Dons FC (11) Nelson FC (9) New Brighton Tower FC (1898-1901) (22) Newport County AFC (40) Northampton Town FC (50) Norwich City FC (30) Nottingham Forest FC (5) Notts County FC (35) Oldham Athletic AFC (46) Oxford United FC (17) Peterborough United FC (28) Plymouth Argyle FC (40) Port Vale FC (46) Portsmouth FC (12) Preston North End FC (23) Queens Park Rangers FC (40) Reading FC (57) Rochdale AFC (43) Rotherham County FC (1870-1925) (2) Rotherham United FC (48) Scunthorpe United FC (24) Sheffield United FC (11) Sheffield Wednesday FC (9) Shrewsbury Town FC (38) South Shields FC (2) Southampton FC (11) Southend United FC (60) Southport FC (35) Stalybridge Celtic FC (2) Stevenage FC (3) Stockport County FC (41) Stoke City FC (8) Sunderland AFC (1) Swansea City AFC (27) Swindon Town FC (66) Thames AFC (1928-1932) (2) Torquay United FC (35) Tranmere Rovers FC (59) Walsall FC (75) Watford FC (47) West Bromwich Albion FC (2) Wigan Athletic FC (19) Wigan Borough FC (1920-1931) (11) Wimbledon FC (3) Wolverhampton Wanderers FC (4) Workington AFC (10) Wrexham AFC (55) Wycombe Wanderers FC (12) Yeovil Town FC (9) York City FC (39) 
+  - 75 seasons: **Walsall FC**
   - 70 seasons: **AFC Bournemouth**
-  - 63 seasons: **Swindon Town FC**
-  - 60 seasons: **Bristol Rovers FC**
+  - 66 seasons: **Swindon Town FC**
+  - 62 seasons: **Bristol Rovers FC**
+  - 61 seasons: **Gillingham FC**
+  - 60 seasons: **Southend United FC**
   - 59 seasons: **Tranmere Rovers FC**
-  - 57 seasons: **Brentford FC**, **Gillingham FC**, **Reading FC**, **Southend United FC**
+  - 57 seasons: **Brentford FC**, **Reading FC**
   - 56 seasons: **Brighton & Hove Albion FC**
-  - 55 seasons: **Wrexham AFC**
-  - 52 seasons: **Chesterfield FC**
-  - 48 seasons: **Exeter City FC**, **Northampton Town FC**
-  - 47 seasons: **Rotherham United FC**, **Watford FC**
-  - 45 seasons: **Bristol City FC**
-  - 44 seasons: **Crewe Alexandra FC**, **Hartlepool United FC**
-  - 43 seasons: **FC Halifax Town**, **Mansfield Town FC**, **Port Vale FC**
-  - 42 seasons: **Carlisle United FC**, **Leyton Orient FC**, **Oldham Athletic AFC**
-  - 41 seasons: **Millwall FC**, **Stockport County FC**
-  - 40 seasons: **Newport County AFC**, **Queens Park Rangers FC**
-  - 39 seasons: **Plymouth Argyle FC**, **Rochdale AFC**, **York City FC**
-  - 37 seasons: **Bradford City AFC**
-  - 36 seasons: **Chester FC**, **Colchester United FC**
-  - 35 seasons: **Shrewsbury Town FC**, **Southport FC**, **Torquay United FC**
-  - 34 seasons: **Barrow AFC**, **Crystal Palace FC**, **Notts County FC**
-  - 33 seasons: **Accrington Stanley FC**, **Darlington FC**, **Doncaster Rovers FC**
+  - 55 seasons: **Chesterfield FC**, **Wrexham AFC**
+  - 50 seasons: **Northampton Town FC**
+  - 48 seasons: **Exeter City FC**, **Rotherham United FC**
+  - 47 seasons: **Watford FC**
+  - 46 seasons: **Bristol City FC**, **Crewe Alexandra FC**, **Oldham Athletic AFC**, **Port Vale FC**
+  - 44 seasons: **Hartlepool United FC**
+  - 43 seasons: **FC Halifax Town**, **Leyton Orient FC**, **Mansfield Town FC**, **Millwall FC**, **Rochdale AFC**
+  - 42 seasons: **Carlisle United FC**
+  - 41 seasons: **Bradford City AFC**, **Stockport County FC**
+  - 40 seasons: **Newport County AFC**, **Plymouth Argyle FC**, **Queens Park Rangers FC**
+  - 39 seasons: **York City FC**
+  - 38 seasons: **Colchester United FC**, **Shrewsbury Town FC**
+  - 36 seasons: **Chester FC**, **Doncaster Rovers FC**
+  - 35 seasons: **Notts County FC**, **Southport FC**, **Torquay United FC**
+  - 34 seasons: **Barrow AFC**, **Crystal Palace FC**
+  - 33 seasons: **Accrington Stanley FC**, **Darlington FC**
   - 32 seasons: **Lincoln City FC**
   - 30 seasons: **Hull City AFC**, **Luton Town FC**, **Norwich City FC**
-  - 28 seasons: **Grimsby Town FC**
-  - 27 seasons: **Swansea City AFC**
-  - 26 seasons: **Bury FC**
+  - 29 seasons: **Bury FC**
+  - 28 seasons: **Grimsby Town FC**, **Peterborough United FC**
+  - 27 seasons: **Coventry City FC**, **Swansea City AFC**
   - 25 seasons: **Aldershot Town FC**
-  - 24 seasons: **Coventry City FC**, **Peterborough United FC**
-  - 22 seasons: **Blackpool FC**, **Gateshead FC**, **Huddersfield Town AFC**, **New Brighton Tower FC (1898-1901)**, **Preston North End FC**
-  - 21 seasons: **Barnsley FC**
-  - 20 seasons: **Cardiff City FC**, **Scunthorpe United FC**
+  - 24 seasons: **Blackpool FC**, **Scunthorpe United FC**
+  - 23 seasons: **Barnsley FC**, **Preston North End FC**
+  - 22 seasons: **Gateshead FC**, **Huddersfield Town AFC**, **New Brighton Tower FC (1898-1901)**
+  - 20 seasons: **Cardiff City FC**
+  - 19 seasons: **Charlton Athletic FC**, **Wigan Athletic FC**
   - 18 seasons: **Fulham FC**
-  - 17 seasons: **Charlton Athletic FC**, **Wigan Athletic FC**
+  - 17 seasons: **Oxford United FC**
   - 16 seasons: **Bradford Park Avenue AFC**
-  - 15 seasons: **Oxford United FC**
-  - 12 seasons: **Ipswich Town FC**, **Wycombe Wanderers FC**
-  - 11 seasons: **Bolton Wanderers FC**, **Burnley FC**, **Portsmouth FC**, **Southampton FC**, **Wigan Borough FC (1920-1931)**
+  - 12 seasons: **Bolton Wanderers FC**, **Ipswich Town FC**, **Portsmouth FC**, **Wycombe Wanderers FC**
+  - 11 seasons: **Burnley FC**, **Milton Keynes Dons FC**, **Sheffield United FC**, **Southampton FC**, **Wigan Borough FC (1920-1931)**
   - 10 seasons: **Merthyr Town FC**, **Workington AFC**
-  - 9 seasons: **Cambridge United FC**, **Nelson FC**, **Sheffield Wednesday FC**
-  - 8 seasons: **Ashington AFC**, **Milton Keynes Dons FC**, **Sheffield United FC**, **Stoke City FC**, **Yeovil Town FC**
+  - 9 seasons: **Cambridge United FC**, **Nelson FC**, **Sheffield Wednesday FC**, **Yeovil Town FC**
+  - 8 seasons: **Ashington AFC**, **Stoke City FC**
   - 7 seasons: **Durham City AFC**
-  - 6 seasons: **Aberdare Athletic FC (1893-1928)**
-  - 5 seasons: **Blackburn Rovers FC**, **Nottingham Forest FC**
-  - 4 seasons: **Birmingham City FC**, **Cheltenham Town FC**, **Derby County FC**, **Hereford United FC (1924-2014)**, **Wolverhampton Wanderers FC**
-  - 3 seasons: **Leeds United FC**, **Stevenage FC**, **Wimbledon FC**
-  - 2 seasons: **Aston Villa FC**, **Crawley Town FC**, **Middlesbrough FC**, **Rotherham County FC (1870-1925)**, **South Shields FC**, **Stalybridge Celtic FC**, **Thames AFC (1928-1932)**, **West Bromwich Albion FC**
-  - 1 seasons: **AFC Rushden & Diamonds**, **Barnet FC**, **Dagenham & Redbridge FC**, **Hereford FC (2014-)**, **Leicester City FC**, **Macclesfield Town FC**, **Manchester City FC**, **Sunderland AFC**
+  - 6 seasons: **Aberdare Athletic FC (1893-1928)**, **Blackburn Rovers FC**
+  - 5 seasons: **Nottingham Forest FC**
+  - 4 seasons: **Birmingham City FC**, **Cheltenham Town FC**, **Derby County FC**, **Fleetwood Town FC**, **Hereford United FC (1924-2014)**, **Wolverhampton Wanderers FC**
+  - 3 seasons: **Crawley Town FC**, **Leeds United FC**, **Stevenage FC**, **Wimbledon FC**
+  - 2 seasons: **AFC Wimbledon**, **Aston Villa FC**, **Middlesbrough FC**, **Rotherham County FC (1870-1925)**, **South Shields FC**, **Stalybridge Celtic FC**, **Thames AFC (1928-1932)**, **West Bromwich Albion FC**
+  - 1 seasons: **AFC Rushden & Diamonds**, **Barnet FC**, **Burton Albion FC**, **Dagenham & Redbridge FC**, **Hereford FC (2014-)**, **Leicester City FC**, **Macclesfield Town FC**, **Manchester City FC**, **Sunderland AFC**
 
 
 level 4
-- 55 seasons: 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 1991-92 1990-91 1989-90 1988-89 1987-88 1986-87 1985-86 1984-85 1983-84 1982-83 1981-82 1980-81 1979-80 1978-79 1977-78 1976-77 1975-76 1974-75 1973-74 1972-73 1971-72 1970-71 1969-70 1968-69 1967-68 1966-67 1965-66 1964-65 1963-64 1962-63 1961-62 1960-61 1959-60 1958-59 
-- 91 teams: AFC Bournemouth (11) AFC Rushden & Diamonds (4) AFC Wimbledon (3) Accrington Stanley FC (10) Aldershot Town FC (33) Barnet FC (16) Barnsley FC (10) Barrow AFC (11) Blackpool FC (7) Bolton Wanderers FC (1) Boston United FC (5) Bradford City AFC (23) Bradford Park Avenue AFC (10) Brentford FC (15) Brighton & Hove Albion FC (7) Bristol City FC (2) Bristol Rovers FC (9) Burnley FC (7) Burton Albion FC (5) Bury FC (21) Cambridge United FC (18) Cardiff City FC (9) Carlisle United FC (20) Cheltenham Town FC (11) Chester FC (32) Chesterfield FC (23) Colchester United FC (23) Coventry City FC (1) Crawley Town FC (1) Crewe Alexandra FC (34) Crystal Palace FC (3) Dagenham & Redbridge FC (6) Darlington FC (46) Doncaster Rovers FC (30) Exeter City FC (35) FC Halifax Town (26) Fleetwood Town FC (2) Fulham FC (3) Gateshead FC (2) Gillingham FC (19) Grimsby Town FC (14) Hartlepool United FC (43) Hereford FC (2014-) (9) Hereford United FC (1924-2014) (15) Huddersfield Town AFC (6) Hull City AFC (10) Kidderminster Harriers FC (5) Leyton Orient FC (15) Lincoln City FC (38) Luton Town FC (5) Macclesfield Town FC (14) Maidstone United FC (3) Mansfield Town FC (28) Millwall FC (5) Milton Keynes Dons FC (2) Morecambe FC (7) Newport County AFC (20) Northampton Town FC (35) Notts County FC (15) Oldham Athletic AFC (7) Oxford United FC (12) Peterborough United FC (25) Plymouth Argyle FC (8) Port Vale FC (18) Portsmouth FC (3) Preston North End FC (5) Reading FC (8) Rochdale AFC (47) Rotherham United FC (13) Scarborough Athletic FC (11) Scunthorpe United FC (34) Sheffield United FC (1) Shrewsbury Town FC (17) Southend United FC (24) Southport FC (16) Stevenage FC (1) Stockport County FC (33) Swansea City AFC (18) Swindon Town FC (6) Torquay United FC (43) Tranmere Rovers FC (17) Walsall FC (8) Watford FC (5) Wigan Athletic FC (8) Wimbledon FC (4) Wolverhampton Wanderers FC (2) Workington AFC (16) Wrexham AFC (21) Wycombe Wanderers FC (9) Yeovil Town FC (2) York City FC (29) 
+- 59 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 1991-92 1990-91 1989-90 1988-89 1987-88 1986-87 1985-86 1984-85 1983-84 1982-83 1981-82 1980-81 1979-80 1978-79 1977-78 1976-77 1975-76 1974-75 1973-74 1972-73 1971-72 1970-71 1969-70 1968-69 1967-68 1966-67 1965-66 1964-65 1963-64 1962-63 1961-62 1960-61 1959-60 1958-59 
+- 92 teams: AFC Bournemouth (11) AFC Rushden & Diamonds (4) AFC Wimbledon (5) Accrington Stanley FC (14) Aldershot Town FC (33) Barnet FC (19) Barnsley FC (10) Barrow AFC (11) Blackpool FC (8) Bolton Wanderers FC (1) Boston United FC (5) Bradford City AFC (23) Bradford Park Avenue AFC (10) Brentford FC (15) Brighton & Hove Albion FC (7) Bristol City FC (2) Bristol Rovers FC (10) Burnley FC (7) Burton Albion FC (6) Bury FC (22) Cambridge United FC (22) Cardiff City FC (9) Carlisle United FC (24) Cheltenham Town FC (14) Chester FC (32) Chesterfield FC (24) Colchester United FC (25) Coventry City FC (2) Crawley Town FC (4) Crewe Alexandra FC (36) Crystal Palace FC (3) Dagenham & Redbridge FC (8) Darlington FC (46) Doncaster Rovers FC (31) Exeter City FC (39) FC Halifax Town (26) Fleetwood Town FC (2) Forest Green Rovers FC (1) Fulham FC (3) Gateshead FC (2) Gillingham FC (19) Grimsby Town FC (16) Hartlepool United FC (46) Hereford FC (2014-) (9) Hereford United FC (1924-2014) (15) Huddersfield Town AFC (6) Hull City AFC (10) Kidderminster Harriers FC (5) Leyton Orient FC (17) Lincoln City FC (39) Luton Town FC (9) Macclesfield Town FC (14) Maidstone United FC (3) Mansfield Town FC (32) Millwall FC (5) Milton Keynes Dons FC (2) Morecambe FC (11) Newport County AFC (24) Northampton Town FC (37) Notts County FC (18) Oldham Athletic AFC (7) Oxford United FC (14) Peterborough United FC (25) Plymouth Argyle FC (11) Port Vale FC (19) Portsmouth FC (6) Preston North End FC (5) Reading FC (8) Rochdale AFC (47) Rotherham United FC (13) Scarborough Athletic FC (11) Scunthorpe United FC (34) Sheffield United FC (1) Shrewsbury Town FC (18) Southend United FC (25) Southport FC (16) Stevenage FC (5) Stockport County FC (33) Swansea City AFC (18) Swindon Town FC (7) Torquay United FC (43) Tranmere Rovers FC (18) Walsall FC (8) Watford FC (5) Wigan Athletic FC (8) Wimbledon FC (4) Wolverhampton Wanderers FC (2) Workington AFC (16) Wrexham AFC (21) Wycombe Wanderers FC (13) Yeovil Town FC (5) York City FC (31) 
   - 47 seasons: **Rochdale AFC**
-  - 46 seasons: **Darlington FC**
-  - 43 seasons: **Hartlepool United FC**, **Torquay United FC**
-  - 38 seasons: **Lincoln City FC**
-  - 35 seasons: **Exeter City FC**, **Northampton Town FC**
-  - 34 seasons: **Crewe Alexandra FC**, **Scunthorpe United FC**
+  - 46 seasons: **Darlington FC**, **Hartlepool United FC**
+  - 43 seasons: **Torquay United FC**
+  - 39 seasons: **Exeter City FC**, **Lincoln City FC**
+  - 37 seasons: **Northampton Town FC**
+  - 36 seasons: **Crewe Alexandra FC**
+  - 34 seasons: **Scunthorpe United FC**
   - 33 seasons: **Aldershot Town FC**, **Stockport County FC**
-  - 32 seasons: **Chester FC**
-  - 30 seasons: **Doncaster Rovers FC**
-  - 29 seasons: **York City FC**
-  - 28 seasons: **Mansfield Town FC**
+  - 32 seasons: **Chester FC**, **Mansfield Town FC**
+  - 31 seasons: **Doncaster Rovers FC**, **York City FC**
   - 26 seasons: **FC Halifax Town**
-  - 25 seasons: **Peterborough United FC**
-  - 24 seasons: **Southend United FC**
-  - 23 seasons: **Bradford City AFC**, **Chesterfield FC**, **Colchester United FC**
-  - 21 seasons: **Bury FC**, **Wrexham AFC**
-  - 20 seasons: **Carlisle United FC**, **Newport County AFC**
-  - 19 seasons: **Gillingham FC**
-  - 18 seasons: **Cambridge United FC**, **Port Vale FC**, **Swansea City AFC**
-  - 17 seasons: **Shrewsbury Town FC**, **Tranmere Rovers FC**
-  - 16 seasons: **Barnet FC**, **Southport FC**, **Workington AFC**
-  - 15 seasons: **Brentford FC**, **Hereford United FC (1924-2014)**, **Leyton Orient FC**, **Notts County FC**
-  - 14 seasons: **Grimsby Town FC**, **Macclesfield Town FC**
-  - 13 seasons: **Rotherham United FC**
-  - 12 seasons: **Oxford United FC**
-  - 11 seasons: **AFC Bournemouth**, **Barrow AFC**, **Cheltenham Town FC**, **Scarborough Athletic FC**
-  - 10 seasons: **Accrington Stanley FC**, **Barnsley FC**, **Bradford Park Avenue AFC**, **Hull City AFC**
-  - 9 seasons: **Bristol Rovers FC**, **Cardiff City FC**, **Hereford FC (2014-)**, **Wycombe Wanderers FC**
-  - 8 seasons: **Plymouth Argyle FC**, **Reading FC**, **Walsall FC**, **Wigan Athletic FC**
-  - 7 seasons: **Blackpool FC**, **Brighton & Hove Albion FC**, **Burnley FC**, **Morecambe FC**, **Oldham Athletic AFC**
-  - 6 seasons: **Dagenham & Redbridge FC**, **Huddersfield Town AFC**, **Swindon Town FC**
-  - 5 seasons: **Boston United FC**, **Burton Albion FC**, **Kidderminster Harriers FC**, **Luton Town FC**, **Millwall FC**, **Preston North End FC**, **Watford FC**
-  - 4 seasons: **AFC Rushden & Diamonds**, **Wimbledon FC**
-  - 3 seasons: **AFC Wimbledon**, **Crystal Palace FC**, **Fulham FC**, **Maidstone United FC**, **Portsmouth FC**
-  - 2 seasons: **Bristol City FC**, **Fleetwood Town FC**, **Gateshead FC**, **Milton Keynes Dons FC**, **Wolverhampton Wanderers FC**, **Yeovil Town FC**
-  - 1 seasons: **Bolton Wanderers FC**, **Coventry City FC**, **Crawley Town FC**, **Sheffield United FC**, **Stevenage FC**
+  - 25 seasons: **Colchester United FC**, **Peterborough United FC**, **Southend United FC**
+  - 24 seasons: **Carlisle United FC**, **Chesterfield FC**, **Newport County AFC**
+  - 23 seasons: **Bradford City AFC**
+  - 22 seasons: **Bury FC**, **Cambridge United FC**
+  - 21 seasons: **Wrexham AFC**
+  - 19 seasons: **Barnet FC**, **Gillingham FC**, **Port Vale FC**
+  - 18 seasons: **Notts County FC**, **Shrewsbury Town FC**, **Swansea City AFC**, **Tranmere Rovers FC**
+  - 17 seasons: **Leyton Orient FC**
+  - 16 seasons: **Grimsby Town FC**, **Southport FC**, **Workington AFC**
+  - 15 seasons: **Brentford FC**, **Hereford United FC (1924-2014)**
+  - 14 seasons: **Accrington Stanley FC**, **Cheltenham Town FC**, **Macclesfield Town FC**, **Oxford United FC**
+  - 13 seasons: **Rotherham United FC**, **Wycombe Wanderers FC**
+  - 11 seasons: **AFC Bournemouth**, **Barrow AFC**, **Morecambe FC**, **Plymouth Argyle FC**, **Scarborough Athletic FC**
+  - 10 seasons: **Barnsley FC**, **Bradford Park Avenue AFC**, **Bristol Rovers FC**, **Hull City AFC**
+  - 9 seasons: **Cardiff City FC**, **Hereford FC (2014-)**, **Luton Town FC**
+  - 8 seasons: **Blackpool FC**, **Dagenham & Redbridge FC**, **Reading FC**, **Walsall FC**, **Wigan Athletic FC**
+  - 7 seasons: **Brighton & Hove Albion FC**, **Burnley FC**, **Oldham Athletic AFC**, **Swindon Town FC**
+  - 6 seasons: **Burton Albion FC**, **Huddersfield Town AFC**, **Portsmouth FC**
+  - 5 seasons: **AFC Wimbledon**, **Boston United FC**, **Kidderminster Harriers FC**, **Millwall FC**, **Preston North End FC**, **Stevenage FC**, **Watford FC**, **Yeovil Town FC**
+  - 4 seasons: **AFC Rushden & Diamonds**, **Crawley Town FC**, **Wimbledon FC**
+  - 3 seasons: **Crystal Palace FC**, **Fulham FC**, **Maidstone United FC**
+  - 2 seasons: **Bristol City FC**, **Coventry City FC**, **Fleetwood Town FC**, **Gateshead FC**, **Milton Keynes Dons FC**, **Wolverhampton Wanderers FC**
+  - 1 seasons: **Bolton Wanderers FC**, **Forest Green Rovers FC**, **Sheffield United FC**
 
 
 level 5
-- 9 seasons: 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 
-- 60 teams: AFC Rushden & Diamonds (5) AFC Telford United (2004-) (2) AFC Wimbledon (2) Accrington Stanley FC (1) Aldershot Town FC (4) Alfreton Town FC (3) Altrincham FC (6) Barnet FC (1) Barrow AFC (5) Bath City FC (2) Braintree Town FC (3) Burton Albion FC (4) Cambridge United FC (9) Canvey Island FC (1) Chester FC (1) Crawley Town FC (6) Dagenham & Redbridge FC (2) Darlington FC (2) Dartford FC (2) Droylsden FC (1) Eastbourne Borough FC (3) Ebbsfleet United FC (7) Exeter City FC (3) FC Halifax Town (4) Farsley Celtic FC (1) Fleetwood Town FC (2) Forest Green Rovers FC (9) Gateshead FC (5) Grays Athletic FC (5) Grimsby Town FC (4) Hayes & Yeading United FC (3) Hereford FC (2014-) (3) Histon FC (4) Hyde United FC (2) Kettering Town FC (4) Kidderminster Harriers FC (9) Lewes FC (1) Lincoln City FC (3) Luton Town FC (5) Macclesfield Town FC (2) Mansfield Town FC (5) Morecambe FC (2) Newport County AFC (3) Northwich Victoria FC (3) Nuneaton Borough FC (2) Oxford United FC (4) Salisbury City FC (1947-2014) (4) Scarborough Athletic FC (1) Southport FC (6) St. Albans City FC (1) Stafford Rangers FC (2) Stevenage FC (5) Stockport County FC (2) Tamworth FC (7) Torquay United FC (2) Welling United FC (1) Weymouth FC (3) Woking FC (6) Wrexham AFC (6) York City FC (7) 
-  - 9 seasons: **Cambridge United FC**, **Forest Green Rovers FC**, **Kidderminster Harriers FC**
-  - 7 seasons: **Ebbsfleet United FC**, **Tamworth FC**, **York City FC**
-  - 6 seasons: **Altrincham FC**, **Crawley Town FC**, **Southport FC**, **Woking FC**, **Wrexham AFC**
-  - 5 seasons: **AFC Rushden & Diamonds**, **Barrow AFC**, **Gateshead FC**, **Grays Athletic FC**, **Luton Town FC**, **Mansfield Town FC**, **Stevenage FC**
-  - 4 seasons: **Aldershot Town FC**, **Burton Albion FC**, **FC Halifax Town**, **Grimsby Town FC**, **Histon FC**, **Kettering Town FC**, **Oxford United FC**, **Salisbury City FC (1947-2014)**
-  - 3 seasons: **Alfreton Town FC**, **Braintree Town FC**, **Eastbourne Borough FC**, **Exeter City FC**, **Hayes & Yeading United FC**, **Hereford FC (2014-)**, **Lincoln City FC**, **Newport County AFC**, **Northwich Victoria FC**, **Weymouth FC**
-  - 2 seasons: **AFC Telford United (2004-)**, **AFC Wimbledon**, **Bath City FC**, **Dagenham & Redbridge FC**, **Darlington FC**, **Dartford FC**, **Fleetwood Town FC**, **Hyde United FC**, **Macclesfield Town FC**, **Morecambe FC**, **Nuneaton Borough FC**, **Stafford Rangers FC**, **Stockport County FC**, **Torquay United FC**
-  - 1 seasons: **Accrington Stanley FC**, **Barnet FC**, **Canvey Island FC**, **Chester FC**, **Droylsden FC**, **Farsley Celtic FC**, **Lewes FC**, **Scarborough Athletic FC**, **St. Albans City FC**, **Welling United FC**
+- 13 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 
+- 77 teams: AFC Fylde (1) AFC Rushden & Diamonds (5) AFC Telford United (2004-) (1) AFC Wimbledon (2) Accrington Stanley FC (1) Aldershot Town FC (8) Alfreton Town FC (4) Altrincham FC (8) Barnet FC (2) Barrow AFC (8) Bath City FC (2) Boreham Wood FC (3) Braintree Town FC (6) Bristol Rovers FC (1) Bromley FC (3) Burton Albion FC (4) Cambridge United FC (9) Canvey Island FC (1) Cheltenham Town FC (1) Chester FC (5) Crawley Town FC (6) Dagenham & Redbridge FC (4) Darlington FC (2) Dartford FC (3) Dover Athletic FC (4) Droylsden FC (1) Eastbourne Borough FC (3) Eastleigh FC (4) Ebbsfleet United FC (8) Exeter City FC (3) FC Halifax Town (7) Farsley Celtic FC (1) Fleetwood Town FC (2) Forest Green Rovers FC (12) Gateshead FC (9) Grays Athletic FC (5) Grimsby Town FC (6) Guiseley AFC (3) Hartlepool United FC (1) Hayes & Yeading United FC (3) Hereford FC (2014-) (3) Histon FC (4) Hyde United FC (2) Kettering Town FC (4) Kidderminster Harriers FC (11) Lewes FC (1) Leyton Orient FC (1) Lincoln City FC (6) Luton Town FC (5) Macclesfield Town FC (6) Maidenhead United FC (1) Maidstone United FC (2) Mansfield Town FC (5) Morecambe FC (2) Newport County AFC (3) North Ferriby United AFC (1) Northwich Victoria FC (3) Nuneaton Borough FC (3) Oxford United FC (4) Salisbury City FC (1947-2014) (4) Scarborough Athletic FC (1) Solihull Moors FC (2) Southport FC (9) St. Albans City FC (1) Stafford Rangers FC (2) Stevenage FC (5) Stockport County FC (2) Sutton United FC (2) Tamworth FC (7) Telford United FC (1872-2004) (2) Torquay United FC (6) Tranmere Rovers FC (3) Welling United FC (3) Weymouth FC (3) Woking FC (10) Wrexham AFC (10) York City FC (8) 
+  - 12 seasons: **Forest Green Rovers FC**
+  - 11 seasons: **Kidderminster Harriers FC**
+  - 10 seasons: **Woking FC**, **Wrexham AFC**
+  - 9 seasons: **Cambridge United FC**, **Gateshead FC**, **Southport FC**
+  - 8 seasons: **Aldershot Town FC**, **Altrincham FC**, **Barrow AFC**, **Ebbsfleet United FC**, **York City FC**
+  - 7 seasons: **FC Halifax Town**, **Tamworth FC**
+  - 6 seasons: **Braintree Town FC**, **Crawley Town FC**, **Grimsby Town FC**, **Lincoln City FC**, **Macclesfield Town FC**, **Torquay United FC**
+  - 5 seasons: **AFC Rushden & Diamonds**, **Chester FC**, **Grays Athletic FC**, **Luton Town FC**, **Mansfield Town FC**, **Stevenage FC**
+  - 4 seasons: **Alfreton Town FC**, **Burton Albion FC**, **Dagenham & Redbridge FC**, **Dover Athletic FC**, **Eastleigh FC**, **Histon FC**, **Kettering Town FC**, **Oxford United FC**, **Salisbury City FC (1947-2014)**
+  - 3 seasons: **Boreham Wood FC**, **Bromley FC**, **Dartford FC**, **Eastbourne Borough FC**, **Exeter City FC**, **Guiseley AFC**, **Hayes & Yeading United FC**, **Hereford FC (2014-)**, **Newport County AFC**, **Northwich Victoria FC**, **Nuneaton Borough FC**, **Tranmere Rovers FC**, **Welling United FC**, **Weymouth FC**
+  - 2 seasons: **AFC Wimbledon**, **Barnet FC**, **Bath City FC**, **Darlington FC**, **Fleetwood Town FC**, **Hyde United FC**, **Maidstone United FC**, **Morecambe FC**, **Solihull Moors FC**, **Stafford Rangers FC**, **Stockport County FC**, **Sutton United FC**, **Telford United FC (1872-2004)**
+  - 1 seasons: **AFC Fylde**, **AFC Telford United (2004-)**, **Accrington Stanley FC**, **Bristol Rovers FC**, **Canvey Island FC**, **Cheltenham Town FC**, **Droylsden FC**, **Farsley Celtic FC**, **Hartlepool United FC**, **Lewes FC**, **Leyton Orient FC**, **Maidenhead United FC**, **North Ferriby United AFC**, **Scarborough Athletic FC**, **St. Albans City FC**
 
 
-level 1 - 117 seasons:
+level 1 - 120 seasons:
 - [`2010s/2017-18/1-premierleague.csv`](2010s/2017-18/1-premierleague.csv) =>  20 teams,  380 matches,  1018 goals,  38 rounds,  Fri 11 Aug 2017 - Sun 13 May 2018
+- [`2010s/2016-17/1-premierleague.csv`](2010s/2016-17/1-premierleague.csv) =>  20 teams,  380 matches,  1064 goals,  38 rounds,  Sat 13 Aug 2016 - Sun 21 May 2017
+- [`2010s/2015-16/1-premierleague.csv`](2010s/2015-16/1-premierleague.csv) =>  20 teams,  380 matches,  1026 goals,  38 rounds,  Sat 08 Aug 2015 - Tue 17 May 2016
+- [`2010s/2014-15/1-premierleague.csv`](2010s/2014-15/1-premierleague.csv) =>  20 teams,  380 matches,  975 goals,  38 rounds,  Sat 16 Aug 2014 - Sun 24 May 2015
 - [`2010s/2013-14/1-premierleague.csv`](2010s/2013-14/1-premierleague.csv) =>  20 teams,  380 matches,  1052 goals,  38 rounds,  Sat 17 Aug 2013 - Sun 11 May 2014
 - [`2010s/2012-13/1-premierleague.csv`](2010s/2012-13/1-premierleague.csv) =>  20 teams,  380 matches,  1063 goals,  38 rounds,  Sat 18 Aug 2012 - Sun 19 May 2013
 - [`2010s/2011-12/1-premierleague.csv`](2010s/2011-12/1-premierleague.csv) =>  20 teams,  380 matches,  1066 goals,  38 rounds,  Sat 13 Aug 2011 - Sun 13 May 2012
@@ -328,7 +340,11 @@ level 1 - 117 seasons:
 - [`1880s/1888-89/1-division1.csv`](1880s/1888-89/1-division1.csv) =>  12 teams,  132 matches,  586 goals,  22 rounds,  Sat 08 Sep 1888 - Sat 20 Apr 1889
 
 
-level 2 - 112 seasons:
+level 2 - 116 seasons:
+- [`2010s/2017-18/2-championship.csv`](2010s/2017-18/2-championship.csv) =>  24 teams,  552 matches,  1409 goals,  46 rounds,  Fri 04 Aug 2017 - Sun 06 May 2018
+- [`2010s/2016-17/2-championship.csv`](2010s/2016-17/2-championship.csv) =>  24 teams,  552 matches,  1441 goals,  46 rounds,  Fri 05 Aug 2016 - Sun 07 May 2017
+- [`2010s/2015-16/2-championship.csv`](2010s/2015-16/2-championship.csv) =>  24 teams,  552 matches,  1337 goals,  46 rounds,  Fri 07 Aug 2015 - Sat 07 May 2016
+- [`2010s/2014-15/2-championship.csv`](2010s/2014-15/2-championship.csv) =>  24 teams,  552 matches,  1474 goals,  46 rounds,  Fri 08 Aug 2014 - Sat 02 May 2015
 - [`2010s/2013-14/2-championship.csv`](2010s/2013-14/2-championship.csv) =>  24 teams,  552 matches,  1434 goals,  46 rounds,  Sat 03 Aug 2013 - Sat 03 May 2014
 - [`2010s/2012-13/2-championship.csv`](2010s/2012-13/2-championship.csv) =>  24 teams,  552 matches,  1494 goals,  46 rounds,  Fri 17 Aug 2012 - Sat 04 May 2013
 - [`2010s/2011-12/2-championship.csv`](2010s/2011-12/2-championship.csv) =>  24 teams,  552 matches,  1419 goals,  46 rounds,  Fri 05 Aug 2011 - Sat 28 Apr 2012
@@ -443,9 +459,13 @@ level 2 - 112 seasons:
 - [`1890s/1892-93/2-division2.csv`](1890s/1892-93/2-division2.csv) =>  12 teams,  132 matches,  591 goals,  22 rounds,  Sat 03 Sep 1892 - Sat 15 Apr 1893
 
 
-level 3 - 88 seasons:
+level 3 - 92 seasons:
+- [`2010s/2017-18/3-league1.csv`](2010s/2017-18/3-league1.csv) =>  24 teams,  552 matches,  1401 goals,  46 rounds,  Sat 05 Aug 2017 - Sat 05 May 2018
+- [`2010s/2016-17/3-league1.csv`](2010s/2016-17/3-league1.csv) =>  24 teams,  552 matches,  1417 goals,  46 rounds,  Sat 06 Aug 2016 - Sun 30 Apr 2017
+- [`2010s/2015-16/3-league1.csv`](2010s/2015-16/3-league1.csv) =>  24 teams,  552 matches,  1457 goals,  46 rounds,  Sat 08 Aug 2015 - Sun 08 May 2016
+- [`2010s/2014-15/3-league1.csv`](2010s/2014-15/3-league1.csv) =>  24 teams,  552 matches,  1464 goals,  46 rounds,  Sat 09 Aug 2014 - Sun 03 May 2015
 - [`2010s/2013-14/3-league1.csv`](2010s/2013-14/3-league1.csv) =>  24 teams,  552 matches,  1473 goals,  46 rounds,  Fri 02 Aug 2013 - Sat 03 May 2014
-- [`2010s/2012-13/3-league1.csv`](2010s/2012-13/3-league1.csv) =>  24 teams,  552 matches,  1367 goals,  46 rounds,  Sat 18 Aug 2012 - Sat 27 Apr 2013
+- [`2010s/2012-13/3-league1.csv`](2010s/2012-13/3-league1.csv) =>  24 teams,  552 matches,  1366 goals,  46 rounds,  Sat 18 Aug 2012 - Sat 27 Apr 2013
 - [`2010s/2011-12/3-league1.csv`](2010s/2011-12/3-league1.csv) =>  24 teams,  552 matches,  1489 goals,  46 rounds,  Sat 06 Aug 2011 - Sat 05 May 2012
 - [`2010s/2010-11/3-league1.csv`](2010s/2010-11/3-league1.csv) =>  24 teams,  552 matches,  1509 goals,  46 rounds,  Sat 07 Aug 2010 - Sat 07 May 2011
 - [`2000s/2009-10/3-league1.csv`](2000s/2009-10/3-league1.csv) =>  24 teams,  552 matches,  1459 goals,  46 rounds,  Sat 08 Aug 2009 - Sat 08 May 2010
@@ -596,7 +616,11 @@ level 3 - 88 seasons:
 - [`1920s/1920-21/3-division3.csv`](1920s/1920-21/3-division3.csv) =>  22 teams,  462 matches,  1133 goals,  42 rounds,  Sat 28 Aug 1920 - Sat 07 May 1921
 
 
-level 4 - 55 seasons:
+level 4 - 59 seasons:
+- [`2010s/2017-18/4-league2.csv`](2010s/2017-18/4-league2.csv) =>  24 teams,  552 matches,  1458 goals,  46 rounds,  Sat 05 Aug 2017 - Sat 05 May 2018
+- [`2010s/2016-17/4-league2.csv`](2010s/2016-17/4-league2.csv) =>  24 teams,  552 matches,  1465 goals,  46 rounds,  Sat 06 Aug 2016 - Sat 06 May 2017
+- [`2010s/2015-16/4-league2.csv`](2010s/2015-16/4-league2.csv) =>  24 teams,  552 matches,  1472 goals,  46 rounds,  Sat 08 Aug 2015 - Sat 07 May 2016
+- [`2010s/2014-15/4-league2.csv`](2010s/2014-15/4-league2.csv) =>  24 teams,  552 matches,  1317 goals,  46 rounds,  Sat 09 Aug 2014 - Sat 02 May 2015
 - [`2010s/2013-14/4-league2.csv`](2010s/2013-14/4-league2.csv) =>  24 teams,  552 matches,  1291 goals,  46 rounds,  Sat 03 Aug 2013 - Sat 03 May 2014
 - [`2010s/2012-13/4-league2.csv`](2010s/2012-13/4-league2.csv) =>  24 teams,  552 matches,  1415 goals,  46 rounds,  Sat 18 Aug 2012 - Sat 27 Apr 2013
 - [`2010s/2011-12/4-league2.csv`](2010s/2011-12/4-league2.csv) =>  24 teams,  552 matches,  1458 goals,  46 rounds,  Sat 06 Aug 2011 - Sat 05 May 2012
@@ -654,7 +678,11 @@ level 4 - 55 seasons:
 - [`1950s/1958-59/4-division4.csv`](1950s/1958-59/4-division4.csv) =>  24 teams,  552 matches,  1794 goals,  46 rounds,  Sat 23 Aug 1958 - Thu 07 May 1959
 
 
-level 5 - 9 seasons:
+level 5 - 13 seasons:
+- [`2010s/2017-18/5-conference.csv`](2010s/2017-18/5-conference.csv) =>  24 teams,  552 matches,  1430 goals,  46 rounds,  Sat 05 Aug 2017 - Sat 28 Apr 2018
+- [`2010s/2016-17/5-conference.csv`](2010s/2016-17/5-conference.csv) =>  24 teams,  552 matches,  1504 goals,  46 rounds,  Sat 06 Aug 2016 - Sat 29 Apr 2017
+- [`2010s/2015-16/5-conference.csv`](2010s/2015-16/5-conference.csv) =>  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 08 Aug 2015 - Sat 30 Apr 2016
+- [`2010s/2014-15/5-conference.csv`](2010s/2014-15/5-conference.csv) =>  24 teams,  552 matches,  1486 goals,  46 rounds,  Sat 09 Aug 2014 - Sat 25 Apr 2015
 - [`2010s/2013-14/5-conference.csv`](2010s/2013-14/5-conference.csv) =>  24 teams,  552 matches,  1491 goals,  46 rounds,  Sat 10 Aug 2013 - Sat 26 Apr 2014
 - [`2010s/2012-13/5-conference.csv`](2010s/2012-13/5-conference.csv) =>  24 teams,  552 matches,  1592 goals,  46 rounds,  Fri 10 Aug 2012 - Sat 20 Apr 2013
 - [`2010s/2011-12/5-conference.csv`](2010s/2011-12/5-conference.csv) =>  24 teams,  552 matches,  1574 goals,  46 rounds,  Fri 12 Aug 2011 - Sat 28 Apr 2012
@@ -666,9 +694,116 @@ level 5 - 9 seasons:
 - [`2000s/2005-06/5-conference.csv`](2000s/2005-06/5-conference.csv) =>  22 teams,  462 matches,  1201 goals,  42 rounds,  Sat 13 Aug 2005 - Sat 29 Apr 2006
 
 
-2017-18 - 1 levels (1)
+2017-18 - 5 levels (1 2 3 4 5)
   - 1: [`2010s/2017-18/1-premierleague.csv`](2010s/2017-18/1-premierleague.csv) -  20 teams,  380 matches,  1018 goals,  38 rounds,  Fri 11 Aug 2017 - Sun 13 May 2018
     - AFC Bournemouth, Arsenal FC, Brighton & Hove Albion FC, Burnley FC, Chelsea FC, Crystal Palace FC, Everton FC, Huddersfield Town AFC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Southampton FC, Stoke City FC, Swansea City AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2017-18: (3) Brighton & Hove Albion FC, Huddersfield Town AFC, Newcastle United FC
+      - (--) out down: (3) Hull City AFC, Middlesbrough FC, Sunderland AFC
+
+  - 2: [`2010s/2017-18/2-championship.csv`](2010s/2017-18/2-championship.csv) -  24 teams,  552 matches,  1409 goals,  46 rounds,  Fri 4 Aug 2017 - Sun 6 May 2018
+    - Aston Villa FC, Barnsley FC, Birmingham City FC, Bolton Wanderers FC, Brentford FC, Bristol City FC, Burton Albion FC, Cardiff City FC, Derby County FC, Fulham FC, Hull City AFC, Ipswich Town FC, Leeds United FC, Middlesbrough FC, Millwall FC, Norwich City FC, Nottingham Forest FC, Preston North End FC, Queens Park Rangers FC, Reading FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 2017-18: (6) Bolton Wanderers FC, Hull City AFC, Middlesbrough FC, Millwall FC, Sheffield United FC, Sunderland AFC
+      - (--) out up/down: (6) Blackburn Rovers FC, Brighton & Hove Albion FC, Huddersfield Town AFC, Newcastle United FC, Rotherham United FC, Wigan Athletic FC
+
+  - 3: [`2010s/2017-18/3-league1.csv`](2010s/2017-18/3-league1.csv) -  24 teams,  552 matches,  1401 goals,  46 rounds,  Sat 5 Aug 2017 - Sat 5 May 2018
+    - AFC Wimbledon, Blackburn Rovers FC, Blackpool FC, Bradford City AFC, Bristol Rovers FC, Bury FC, Charlton Athletic FC, Doncaster Rovers FC, Fleetwood Town FC, Gillingham FC, Milton Keynes Dons FC, Northampton Town FC, Oldham Athletic AFC, Oxford United FC, Peterborough United FC, Plymouth Argyle FC, Portsmouth FC, Rochdale AFC, Rotherham United FC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Walsall FC, Wigan Athletic FC
+      - (++) new in season 2017-18: (7) Blackburn Rovers FC, Blackpool FC, Doncaster Rovers FC, Plymouth Argyle FC, Portsmouth FC, Rotherham United FC, Wigan Athletic FC
+      - (--) out up/down: (7) Bolton Wanderers FC, Chesterfield FC, Coventry City FC, Millwall FC, Port Vale FC, Sheffield United FC, Swindon Town FC
+
+  - 4: [`2010s/2017-18/4-league2.csv`](2010s/2017-18/4-league2.csv) -  24 teams,  552 matches,  1458 goals,  46 rounds,  Sat 5 Aug 2017 - Sat 5 May 2018
+    - Accrington Stanley FC, Barnet FC, Cambridge United FC, Carlisle United FC, Cheltenham Town FC, Chesterfield FC, Colchester United FC, Coventry City FC, Crawley Town FC, Crewe Alexandra FC, Exeter City FC, Forest Green Rovers FC, Grimsby Town FC, Lincoln City FC, Luton Town FC, Mansfield Town FC, Morecambe FC, Newport County AFC, Notts County FC, Port Vale FC, Stevenage FC, Swindon Town FC, Wycombe Wanderers FC, Yeovil Town FC
+      - (++) new in season 2017-18: (6) Chesterfield FC, Coventry City FC, Forest Green Rovers FC, Lincoln City FC, Port Vale FC, Swindon Town FC
+      - (--) out up/down: (6) Blackpool FC, Doncaster Rovers FC, Hartlepool United FC, Leyton Orient FC, Plymouth Argyle FC, Portsmouth FC
+
+  - 5: [`2010s/2017-18/5-conference.csv`](2010s/2017-18/5-conference.csv) -  24 teams,  552 matches,  1430 goals,  46 rounds,  Sat 5 Aug 2017 - Sat 28 Apr 2018
+    - AFC Fylde, Aldershot Town FC, Barrow AFC, Boreham Wood FC, Bromley FC, Chester FC, Dagenham & Redbridge FC, Dover Athletic FC, Eastleigh FC, Ebbsfleet United FC, FC Halifax Town, Gateshead FC, Guiseley AFC, Hartlepool United FC, Leyton Orient FC, Macclesfield Town FC, Maidenhead United FC, Maidstone United FC, Solihull Moors FC, Sutton United FC, Torquay United FC, Tranmere Rovers FC, Woking FC, Wrexham AFC
+      - (++) new in season 2017-18: (6) AFC Fylde, Ebbsfleet United FC, FC Halifax Town, Hartlepool United FC, Leyton Orient FC, Maidenhead United FC
+      - (--) out up/down: (6) Braintree Town FC, Forest Green Rovers FC, Lincoln City FC, North Ferriby United AFC, Southport FC, York City FC
+
+
+
+2016-17 - 5 levels (1 2 3 4 5)
+  - 1: [`2010s/2016-17/1-premierleague.csv`](2010s/2016-17/1-premierleague.csv) -  20 teams,  380 matches,  1064 goals,  38 rounds,  Sat 13 Aug 2016 - Sun 21 May 2017
+    - AFC Bournemouth, Arsenal FC, Burnley FC, Chelsea FC, Crystal Palace FC, Everton FC, Hull City AFC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2016-17: (3) Burnley FC, Hull City AFC, Middlesbrough FC
+      - (--) out down: (3) Aston Villa FC, Newcastle United FC, Norwich City FC
+
+  - 2: [`2010s/2016-17/2-championship.csv`](2010s/2016-17/2-championship.csv) -  24 teams,  552 matches,  1441 goals,  46 rounds,  Fri 5 Aug 2016 - Sun 7 May 2017
+    - Aston Villa FC, Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Burton Albion FC, Cardiff City FC, Derby County FC, Fulham FC, Huddersfield Town AFC, Ipswich Town FC, Leeds United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Preston North End FC, Queens Park Rangers FC, Reading FC, Rotherham United FC, Sheffield Wednesday FC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 2016-17: (6) Aston Villa FC, Barnsley FC, Burton Albion FC, Newcastle United FC, Norwich City FC, Wigan Athletic FC
+      - (--) out up/down: (6) Bolton Wanderers FC, Burnley FC, Charlton Athletic FC, Hull City AFC, Middlesbrough FC, Milton Keynes Dons FC
+
+  - 3: [`2010s/2016-17/3-league1.csv`](2010s/2016-17/3-league1.csv) -  24 teams,  552 matches,  1417 goals,  46 rounds,  Sat 6 Aug 2016 - Sun 30 Apr 2017
+    - AFC Wimbledon, Bolton Wanderers FC, Bradford City AFC, Bristol Rovers FC, Bury FC, Charlton Athletic FC, Chesterfield FC, Coventry City FC, Fleetwood Town FC, Gillingham FC, Millwall FC, Milton Keynes Dons FC, Northampton Town FC, Oldham Athletic AFC, Oxford United FC, Peterborough United FC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Sheffield United FC, Shrewsbury Town FC, Southend United FC, Swindon Town FC, Walsall FC
+      - (++) new in season 2016-17: (7) AFC Wimbledon, Bolton Wanderers FC, Bristol Rovers FC, Charlton Athletic FC, Milton Keynes Dons FC, Northampton Town FC, Oxford United FC
+      - (--) out up/down: (7) Barnsley FC, Blackpool FC, Burton Albion FC, Colchester United FC, Crewe Alexandra FC, Doncaster Rovers FC, Wigan Athletic FC
+
+  - 4: [`2010s/2016-17/4-league2.csv`](2010s/2016-17/4-league2.csv) -  24 teams,  552 matches,  1465 goals,  46 rounds,  Sat 6 Aug 2016 - Sat 6 May 2017
+    - Accrington Stanley FC, Barnet FC, Blackpool FC, Cambridge United FC, Carlisle United FC, Cheltenham Town FC, Colchester United FC, Crawley Town FC, Crewe Alexandra FC, Doncaster Rovers FC, Exeter City FC, Grimsby Town FC, Hartlepool United FC, Leyton Orient FC, Luton Town FC, Mansfield Town FC, Morecambe FC, Newport County AFC, Notts County FC, Plymouth Argyle FC, Portsmouth FC, Stevenage FC, Wycombe Wanderers FC, Yeovil Town FC
+      - (++) new in season 2016-17: (6) Blackpool FC, Cheltenham Town FC, Colchester United FC, Crewe Alexandra FC, Doncaster Rovers FC, Grimsby Town FC
+      - (--) out up/down: (6) AFC Wimbledon, Bristol Rovers FC, Dagenham & Redbridge FC, Northampton Town FC, Oxford United FC, York City FC
+
+  - 5: [`2010s/2016-17/5-conference.csv`](2010s/2016-17/5-conference.csv) -  24 teams,  552 matches,  1504 goals,  46 rounds,  Sat 6 Aug 2016 - Sat 29 Apr 2017
+    - Aldershot Town FC, Barrow AFC, Boreham Wood FC, Braintree Town FC, Bromley FC, Chester FC, Dagenham & Redbridge FC, Dover Athletic FC, Eastleigh FC, Forest Green Rovers FC, Gateshead FC, Guiseley AFC, Lincoln City FC, Macclesfield Town FC, Maidstone United FC, North Ferriby United AFC, Solihull Moors FC, Southport FC, Sutton United FC, Torquay United FC, Tranmere Rovers FC, Woking FC, Wrexham AFC, York City FC
+      - (++) new in season 2016-17: (6) Dagenham & Redbridge FC, Maidstone United FC, North Ferriby United AFC, Solihull Moors FC, Sutton United FC, York City FC
+      - (--) out up/down: (6) Altrincham FC, Cheltenham Town FC, FC Halifax Town, Grimsby Town FC, Kidderminster Harriers FC, Welling United FC
+
+
+
+2015-16 - 5 levels (1 2 3 4 5)
+  - 1: [`2010s/2015-16/1-premierleague.csv`](2010s/2015-16/1-premierleague.csv) -  20 teams,  380 matches,  1026 goals,  38 rounds,  Sat 8 Aug 2015 - Tue 17 May 2016
+    - AFC Bournemouth, Arsenal FC, Aston Villa FC, Chelsea FC, Crystal Palace FC, Everton FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2015-16: (3) AFC Bournemouth, Norwich City FC, Watford FC
+      - (--) out down: (3) Burnley FC, Hull City AFC, Queens Park Rangers FC
+
+  - 2: [`2010s/2015-16/2-championship.csv`](2010s/2015-16/2-championship.csv) -  24 teams,  552 matches,  1337 goals,  46 rounds,  Fri 7 Aug 2015 - Sat 7 May 2016
+    - Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Burnley FC, Cardiff City FC, Charlton Athletic FC, Derby County FC, Fulham FC, Huddersfield Town AFC, Hull City AFC, Ipswich Town FC, Leeds United FC, Middlesbrough FC, Milton Keynes Dons FC, Nottingham Forest FC, Preston North End FC, Queens Park Rangers FC, Reading FC, Rotherham United FC, Sheffield Wednesday FC, Wolverhampton Wanderers FC
+      - (++) new in season 2015-16: (6) Bristol City FC, Burnley FC, Hull City AFC, Milton Keynes Dons FC, Preston North End FC, Queens Park Rangers FC
+      - (--) out up/down: (6) AFC Bournemouth, Blackpool FC, Millwall FC, Norwich City FC, Watford FC, Wigan Athletic FC
+
+  - 3: [`2010s/2015-16/3-league1.csv`](2010s/2015-16/3-league1.csv) -  24 teams,  552 matches,  1457 goals,  46 rounds,  Sat 8 Aug 2015 - Sun 8 May 2016
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Burton Albion FC, Bury FC, Chesterfield FC, Colchester United FC, Coventry City FC, Crewe Alexandra FC, Doncaster Rovers FC, Fleetwood Town FC, Gillingham FC, Millwall FC, Oldham Athletic AFC, Peterborough United FC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Sheffield United FC, Shrewsbury Town FC, Southend United FC, Swindon Town FC, Walsall FC, Wigan Athletic FC
+      - (++) new in season 2015-16: (7) Blackpool FC, Burton Albion FC, Bury FC, Millwall FC, Shrewsbury Town FC, Southend United FC, Wigan Athletic FC
+      - (--) out up/down: (7) Bristol City FC, Crawley Town FC, Leyton Orient FC, Milton Keynes Dons FC, Notts County FC, Preston North End FC, Yeovil Town FC
+
+  - 4: [`2010s/2015-16/4-league2.csv`](2010s/2015-16/4-league2.csv) -  24 teams,  552 matches,  1472 goals,  46 rounds,  Sat 8 Aug 2015 - Sat 7 May 2016
+    - AFC Wimbledon, Accrington Stanley FC, Barnet FC, Bristol Rovers FC, Cambridge United FC, Carlisle United FC, Crawley Town FC, Dagenham & Redbridge FC, Exeter City FC, Hartlepool United FC, Leyton Orient FC, Luton Town FC, Mansfield Town FC, Morecambe FC, Newport County AFC, Northampton Town FC, Notts County FC, Oxford United FC, Plymouth Argyle FC, Portsmouth FC, Stevenage FC, Wycombe Wanderers FC, Yeovil Town FC, York City FC
+      - (++) new in season 2015-16: (6) Barnet FC, Bristol Rovers FC, Crawley Town FC, Leyton Orient FC, Notts County FC, Yeovil Town FC
+      - (--) out up/down: (6) Burton Albion FC, Bury FC, Cheltenham Town FC, Shrewsbury Town FC, Southend United FC, Tranmere Rovers FC
+
+  - 5: [`2010s/2015-16/5-conference.csv`](2010s/2015-16/5-conference.csv) -  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 8 Aug 2015 - Sat 30 Apr 2016
+    - Aldershot Town FC, Altrincham FC, Barrow AFC, Boreham Wood FC, Braintree Town FC, Bromley FC, Cheltenham Town FC, Chester FC, Dover Athletic FC, Eastleigh FC, FC Halifax Town, Forest Green Rovers FC, Gateshead FC, Grimsby Town FC, Guiseley AFC, Kidderminster Harriers FC, Lincoln City FC, Macclesfield Town FC, Southport FC, Torquay United FC, Tranmere Rovers FC, Welling United FC, Woking FC, Wrexham AFC
+      - (++) new in season 2015-16: (6) Barrow AFC, Boreham Wood FC, Bromley FC, Cheltenham Town FC, Guiseley AFC, Tranmere Rovers FC
+      - (--) out up/down: (6) Alfreton Town FC, Barnet FC, Bristol Rovers FC, Dartford FC, Nuneaton Borough FC, Telford United FC (1872-2004)
+
+
+
+2014-15 - 5 levels (1 2 3 4 5)
+  - 1: [`2010s/2014-15/1-premierleague.csv`](2010s/2014-15/1-premierleague.csv) -  20 teams,  380 matches,  975 goals,  38 rounds,  Sat 16 Aug 2014 - Sun 24 May 2015
+    - Arsenal FC, Aston Villa FC, Burnley FC, Chelsea FC, Crystal Palace FC, Everton FC, Hull City AFC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Queens Park Rangers FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2014-15: (3) Burnley FC, Leicester City FC, Queens Park Rangers FC
+      - (--) out down: (3) Cardiff City FC, Fulham FC, Norwich City FC
+
+  - 2: [`2010s/2014-15/2-championship.csv`](2010s/2014-15/2-championship.csv) -  24 teams,  552 matches,  1474 goals,  46 rounds,  Fri 8 Aug 2014 - Sat 2 May 2015
+    - AFC Bournemouth, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Brentford FC, Brighton & Hove Albion FC, Cardiff City FC, Charlton Athletic FC, Derby County FC, Fulham FC, Huddersfield Town AFC, Ipswich Town FC, Leeds United FC, Middlesbrough FC, Millwall FC, Norwich City FC, Nottingham Forest FC, Reading FC, Rotherham United FC, Sheffield Wednesday FC, Watford FC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 2014-15: (6) Brentford FC, Cardiff City FC, Fulham FC, Norwich City FC, Rotherham United FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (6) Barnsley FC, Burnley FC, Doncaster Rovers FC, Leicester City FC, Queens Park Rangers FC, Yeovil Town FC
+
+  - 3: [`2010s/2014-15/3-league1.csv`](2010s/2014-15/3-league1.csv) -  24 teams,  552 matches,  1464 goals,  46 rounds,  Sat 9 Aug 2014 - Sun 3 May 2015
+    - Barnsley FC, Bradford City AFC, Bristol City FC, Chesterfield FC, Colchester United FC, Coventry City FC, Crawley Town FC, Crewe Alexandra FC, Doncaster Rovers FC, Fleetwood Town FC, Gillingham FC, Leyton Orient FC, Milton Keynes Dons FC, Notts County FC, Oldham Athletic AFC, Peterborough United FC, Port Vale FC, Preston North End FC, Rochdale AFC, Scunthorpe United FC, Sheffield United FC, Swindon Town FC, Walsall FC, Yeovil Town FC
+      - (++) new in season 2014-15: (7) Barnsley FC, Chesterfield FC, Doncaster Rovers FC, Fleetwood Town FC, Rochdale AFC, Scunthorpe United FC, Yeovil Town FC
+      - (--) out up/down: (7) Brentford FC, Carlisle United FC, Rotherham United FC, Shrewsbury Town FC, Stevenage FC, Tranmere Rovers FC, Wolverhampton Wanderers FC
+
+  - 4: [`2010s/2014-15/4-league2.csv`](2010s/2014-15/4-league2.csv) -  24 teams,  552 matches,  1317 goals,  46 rounds,  Sat 9 Aug 2014 - Sat 2 May 2015
+    - AFC Wimbledon, Accrington Stanley FC, Burton Albion FC, Bury FC, Cambridge United FC, Carlisle United FC, Cheltenham Town FC, Dagenham & Redbridge FC, Exeter City FC, Hartlepool United FC, Luton Town FC, Mansfield Town FC, Morecambe FC, Newport County AFC, Northampton Town FC, Oxford United FC, Plymouth Argyle FC, Portsmouth FC, Shrewsbury Town FC, Southend United FC, Stevenage FC, Tranmere Rovers FC, Wycombe Wanderers FC, York City FC
+      - (++) new in season 2014-15: (6) Cambridge United FC, Carlisle United FC, Luton Town FC, Shrewsbury Town FC, Stevenage FC, Tranmere Rovers FC
+      - (--) out up/down: (6) Bristol Rovers FC, Chesterfield FC, Fleetwood Town FC, Rochdale AFC, Scunthorpe United FC, Torquay United FC
+
+  - 5: [`2010s/2014-15/5-conference.csv`](2010s/2014-15/5-conference.csv) -  24 teams,  552 matches,  1486 goals,  46 rounds,  Sat 9 Aug 2014 - Sat 25 Apr 2015
+    - Aldershot Town FC, Alfreton Town FC, Altrincham FC, Barnet FC, Braintree Town FC, Bristol Rovers FC, Chester FC, Dartford FC, Dover Athletic FC, Eastleigh FC, FC Halifax Town, Forest Green Rovers FC, Gateshead FC, Grimsby Town FC, Kidderminster Harriers FC, Lincoln City FC, Macclesfield Town FC, Nuneaton Borough FC, Southport FC, Telford United FC (1872-2004), Torquay United FC, Welling United FC, Woking FC, Wrexham AFC
+      - (++) new in season 2014-15: (6) Altrincham FC, Bristol Rovers FC, Dover Athletic FC, Eastleigh FC, Telford United FC (1872-2004), Torquay United FC
+      - (--) out up/down: (6) Cambridge United FC, Hereford FC (2014-), Hyde United FC, Luton Town FC, Salisbury City FC (1947-2014), Tamworth FC
+
 
 
 2013-14 - 5 levels (1 2 3 4 5)
@@ -695,7 +830,7 @@ level 5 - 9 seasons:
   - 5: [`2010s/2013-14/5-conference.csv`](2010s/2013-14/5-conference.csv) -  24 teams,  552 matches,  1491 goals,  46 rounds,  Sat 10 Aug 2013 - Sat 26 Apr 2014
     - Aldershot Town FC, Alfreton Town FC, Barnet FC, Braintree Town FC, Cambridge United FC, Chester FC, Dartford FC, FC Halifax Town, Forest Green Rovers FC, Gateshead FC, Grimsby Town FC, Hereford FC (2014-), Hyde United FC, Kidderminster Harriers FC, Lincoln City FC, Luton Town FC, Macclesfield Town FC, Nuneaton Borough FC, Salisbury City FC (1947-2014), Southport FC, Tamworth FC, Welling United FC, Woking FC, Wrexham AFC
       - (++) new in season 2013-14: (6) Aldershot Town FC, Barnet FC, Chester FC, FC Halifax Town, Salisbury City FC (1947-2014), Welling United FC
-      - (--) out up/down: (6) AFC Telford United (2004-), Barrow AFC, Ebbsfleet United FC, Mansfield Town FC, Newport County AFC, Stockport County FC
+      - (--) out up/down: (6) Barrow AFC, Ebbsfleet United FC, Mansfield Town FC, Newport County AFC, Stockport County FC, Telford United FC (1872-2004)
 
 
 
@@ -710,7 +845,7 @@ level 5 - 9 seasons:
       - (++) new in season 2012-13: (6) Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Huddersfield Town AFC, Sheffield Wednesday FC, Wolverhampton Wanderers FC
       - (--) out up/down: (6) Coventry City FC, Doncaster Rovers FC, Portsmouth FC, Reading FC, Southampton FC, West Ham United FC
 
-  - 3: [`2010s/2012-13/3-league1.csv`](2010s/2012-13/3-league1.csv) -  24 teams,  552 matches,  1367 goals,  46 rounds,  Sat 18 Aug 2012 - Sat 27 Apr 2013
+  - 3: [`2010s/2012-13/3-league1.csv`](2010s/2012-13/3-league1.csv) -  24 teams,  552 matches,  1366 goals,  46 rounds,  Sat 18 Aug 2012 - Sat 27 Apr 2013
     - AFC Bournemouth, Brentford FC, Bury FC, Carlisle United FC, Colchester United FC, Coventry City FC, Crawley Town FC, Crewe Alexandra FC, Doncaster Rovers FC, Hartlepool United FC, Leyton Orient FC, Milton Keynes Dons FC, Notts County FC, Oldham Athletic AFC, Portsmouth FC, Preston North End FC, Scunthorpe United FC, Sheffield United FC, Shrewsbury Town FC, Stevenage FC, Swindon Town FC, Tranmere Rovers FC, Walsall FC, Yeovil Town FC
       - (++) new in season 2012-13: (7) Coventry City FC, Crawley Town FC, Crewe Alexandra FC, Doncaster Rovers FC, Portsmouth FC, Shrewsbury Town FC, Swindon Town FC
       - (--) out up/down: (7) Charlton Athletic FC, Chesterfield FC, Exeter City FC, Huddersfield Town AFC, Rochdale AFC, Sheffield Wednesday FC, Wycombe Wanderers FC
@@ -721,9 +856,9 @@ level 5 - 9 seasons:
       - (--) out up/down: (6) Crawley Town FC, Crewe Alexandra FC, Hereford FC (2014-), Macclesfield Town FC, Shrewsbury Town FC, Swindon Town FC
 
   - 5: [`2010s/2012-13/5-conference.csv`](2010s/2012-13/5-conference.csv) -  24 teams,  552 matches,  1592 goals,  46 rounds,  Fri 10 Aug 2012 - Sat 20 Apr 2013
-    - AFC Telford United (2004-), Alfreton Town FC, Barrow AFC, Braintree Town FC, Cambridge United FC, Dartford FC, Ebbsfleet United FC, Forest Green Rovers FC, Gateshead FC, Grimsby Town FC, Hereford FC (2014-), Hyde United FC, Kidderminster Harriers FC, Lincoln City FC, Luton Town FC, Macclesfield Town FC, Mansfield Town FC, Newport County AFC, Nuneaton Borough FC, Southport FC, Stockport County FC, Tamworth FC, Woking FC, Wrexham AFC
-      - (++) new in season 2012-13: (6) Dartford FC, Hereford FC (2014-), Hyde United FC, Macclesfield Town FC, Nuneaton Borough FC, Woking FC
-      - (--) out up/down: (6) Bath City FC, Darlington FC, Fleetwood Town FC, Hayes & Yeading United FC, Kettering Town FC, York City FC
+    - Alfreton Town FC, Barrow AFC, Braintree Town FC, Cambridge United FC, Dartford FC, Ebbsfleet United FC, Forest Green Rovers FC, Gateshead FC, Grimsby Town FC, Hereford FC (2014-), Hyde United FC, Kidderminster Harriers FC, Lincoln City FC, Luton Town FC, Macclesfield Town FC, Mansfield Town FC, Newport County AFC, Nuneaton Borough FC, Southport FC, Stockport County FC, Tamworth FC, Telford United FC (1872-2004), Woking FC, Wrexham AFC
+      - (++) new in season 2012-13: (7) Dartford FC, Hereford FC (2014-), Hyde United FC, Macclesfield Town FC, Nuneaton Borough FC, Telford United FC (1872-2004), Woking FC
+      - (--) out up/down: (7) AFC Telford United (2004-), Bath City FC, Darlington FC, Fleetwood Town FC, Hayes & Yeading United FC, Kettering Town FC, York City FC
 
 
 
@@ -2894,174 +3029,185 @@ level 5 - 9 seasons:
 ## Teams
 
 ```
-  167 teams:
-    [1]  AFC Bournemouth                 :: 3823 matches in  86 seasons / 4 levels - 1 (1)     2 (4)     3 (70)    4 (11)       x      
-    [2]  AFC Rushden & Diamonds          ::  458 matches in  10 seasons / 3 levels -    x         x      3 (1)     4 (4)     5 (5)     
-    [3]  AFC Telford United (2004-)      ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-    [4]  AFC Wimbledon                   ::  228 matches in   5 seasons / 2 levels -    x         x         x      4 (3)     5 (2)     
-    [5]  Aberdare Athletic FC (1893-1928)  ::  252 matches in   6 seasons / 1 levels -    x         x      3 (6)        x         x      
-    [6]  Accrington FC (1878-1896)       ::  122 matches in   5 seasons / 1 levels - 1 (5)        x         x         x         x      
-    [7]  Accrington Stanley FC           :: 1866 matches in  44 seasons / 3 levels -    x         x      3 (33)    4 (10)    5 (1)     
-    [8]  Aldershot Town FC               :: 2761 matches in  62 seasons / 3 levels -    x         x      3 (25)    4 (33)    5 (4)     
-    [9]  Alfreton Town FC                ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-   [10]  Altrincham FC                   ::  270 matches in   6 seasons / 1 levels -    x         x         x         x      5 (6)     
-   [11]  Arsenal FC                      :: 4413 matches in 112 seasons / 2 levels - 1 (99)    2 (13)       x         x         x      
-   [12]  Ashington AFC                   ::  328 matches in   8 seasons / 1 levels -    x         x      3 (8)        x         x      
-   [13]  Aston Villa FC                  :: 4511 matches in 116 seasons / 3 levels - 1 (104)   2 (10)    3 (2)        x         x      
-   [14]  Barnet FC                       ::  820 matches in  18 seasons / 3 levels -    x         x      3 (1)     4 (16)    5 (1)     
-   [15]  Barnsley FC                     :: 4511 matches in 106 seasons / 4 levels - 1 (1)     2 (74)    3 (21)    4 (10)       x      
-   [16]  Barrow AFC                      :: 2157 matches in  50 seasons / 3 levels -    x         x      3 (34)    4 (11)    5 (5)     
-   [17]  Bath City FC                    ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-   [18]  Birmingham City FC              :: 4537 matches in 112 seasons / 3 levels - 1 (57)    2 (51)    3 (4)        x         x      
-   [19]  Blackburn Rovers FC             :: 4583 matches in 116 seasons / 3 levels - 1 (73)    2 (38)    3 (5)        x         x      
-   [20]  Blackpool FC                    :: 4475 matches in 107 seasons / 4 levels - 1 (29)    2 (49)    3 (22)    4 (7)        x      
-   [21]  Bolton Wanderers FC             :: 4617 matches in 116 seasons / 4 levels - 1 (74)    2 (30)    3 (11)    4 (1)        x      
-   [22]  Bootle FC (1879-1893)           ::   22 matches in   1 seasons / 1 levels -    x      2 (1)        x         x         x      
-   [23]  Boston United FC                ::  230 matches in   5 seasons / 1 levels -    x         x         x      4 (5)        x      
-   [24]  Bradford City AFC               :: 4377 matches in 101 seasons / 4 levels - 1 (12)    2 (29)    3 (37)    4 (23)       x      
-   [25]  Bradford Park Avenue AFC        :: 2193 matches in  52 seasons / 4 levels - 1 (3)     2 (23)    3 (16)    4 (10)       x      
-   [26]  Braintree Town FC               ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-   [27]  Brentford FC                    :: 3897 matches in  88 seasons / 4 levels - 1 (6)     2 (10)    3 (57)    4 (15)       x      
-   [28]  Brighton & Hove Albion FC       :: 3891 matches in  89 seasons / 4 levels - 1 (5)     2 (21)    3 (56)    4 (7)        x      
-   [29]  Bristol City FC                 :: 4387 matches in 103 seasons / 4 levels - 1 (9)     2 (47)    3 (45)    4 (2)        x      
-   [30]  Bristol Rovers FC               :: 3849 matches in  88 seasons / 3 levels -    x      2 (19)    3 (60)    4 (9)        x      
-   [31]  Burnley FC                      :: 4746 matches in 117 seasons / 4 levels - 1 (53)    2 (46)    3 (11)    4 (7)        x      
-   [32]  Burton Albion FC                ::  410 matches in   9 seasons / 2 levels -    x         x         x      4 (5)     5 (4)     
-   [33]  Burton Swifts FC (1871-1901)    ::  272 matches in   9 seasons / 1 levels -    x      2 (9)        x         x         x      
-   [34]  Burton United FC (1901-1910)    ::  212 matches in   6 seasons / 1 levels -    x      2 (6)        x         x         x      
-   [35]  Burton Wanderers FC (1871-1901)  ::   90 matches in   3 seasons / 1 levels -    x      2 (3)        x         x         x      
-   [36]  Bury FC                         :: 4583 matches in 109 seasons / 4 levels - 1 (22)    2 (40)    3 (26)    4 (21)       x      
-   [37]  Cambridge United FC             :: 1994 matches in  44 seasons / 4 levels -    x      2 (8)     3 (9)     4 (18)    5 (9)     
-   [38]  Canvey Island FC                ::   42 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-   [39]  Cardiff City FC                 :: 3723 matches in  87 seasons / 4 levels - 1 (16)    2 (42)    3 (20)    4 (9)        x      
-   [40]  Carlisle United FC              :: 3407 matches in  78 seasons / 4 levels - 1 (1)     2 (15)    3 (42)    4 (20)       x      
-   [41]  Charlton Athletic FC            :: 3653 matches in  87 seasons / 3 levels - 1 (27)    2 (43)    3 (17)       x         x      
-   [42]  Chelsea FC                      :: 4035 matches in 100 seasons / 2 levels - 1 (81)    2 (19)       x         x         x      
-   [43]  Cheltenham Town FC              ::  690 matches in  15 seasons / 2 levels -    x         x      3 (4)     4 (11)       x      
-   [44]  Chester FC                      :: 3078 matches in  69 seasons / 3 levels -    x         x      3 (36)    4 (32)    5 (1)     
-   [45]  Chesterfield FC                 :: 4155 matches in  96 seasons / 3 levels -    x      2 (21)    3 (52)    4 (23)       x      
-   [46]  Colchester United FC            :: 2798 matches in  61 seasons / 3 levels -    x      2 (2)     3 (36)    4 (23)       x      
-   [47]  Coventry City FC                :: 3761 matches in  89 seasons / 4 levels - 1 (34)    2 (30)    3 (24)    4 (1)        x      
-   [48]  Crawley Town FC                 ::  408 matches in   9 seasons / 3 levels -    x         x      3 (2)     4 (1)     5 (6)     
-   [49]  Crewe Alexandra FC              :: 3917 matches in  90 seasons / 3 levels -    x      2 (12)    3 (44)    4 (34)       x      
-   [50]  Crystal Palace FC               :: 3817 matches in  89 seasons / 4 levels - 1 (15)    2 (37)    3 (34)    4 (3)        x      
-   [51]  Dagenham & Redbridge FC         ::  410 matches in   9 seasons / 3 levels -    x         x      3 (1)     4 (6)     5 (2)     
-   [52]  Darlington FC                   :: 3670 matches in  83 seasons / 4 levels -    x      2 (2)     3 (33)    4 (46)    5 (2)     
-   [53]  Dartford FC                     ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-   [54]  Darwen FC (1870-2009)           ::  232 matches in   8 seasons / 2 levels - 1 (2)     2 (6)        x         x         x      
-   [55]  Derby County FC                 :: 4627 matches in 116 seasons / 3 levels - 1 (66)    2 (46)    3 (4)        x         x      
-   [56]  Doncaster Rovers FC             :: 3566 matches in  82 seasons / 3 levels -    x      2 (19)    3 (33)    4 (30)       x      
-   [57]  Droylsden FC                    ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-   [58]  Durham City AFC                 ::  286 matches in   7 seasons / 1 levels -    x         x      3 (7)        x         x      
-   [59]  Eastbourne Borough FC           ::  136 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-   [60]  Ebbsfleet United FC             ::  316 matches in   7 seasons / 1 levels -    x         x         x         x      5 (7)     
-   [61]  Everton FC                      :: 4537 matches in 117 seasons / 2 levels - 1 (113)   2 (4)        x         x         x      
-   [62]  Exeter City FC                  :: 3811 matches in  86 seasons / 3 levels -    x         x      3 (48)    4 (35)    5 (3)     
-   [63]  FC Halifax Town                 :: 3210 matches in  73 seasons / 3 levels -    x         x      3 (43)    4 (26)    5 (4)     
-   [64]  Farsley Celtic FC               ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-   [65]  Fleetwood Town FC               ::  184 matches in   4 seasons / 2 levels -    x         x         x      4 (2)     5 (2)     
-   [66]  Forest Green Rovers FC          ::  408 matches in   9 seasons / 1 levels -    x         x         x         x      5 (9)     
-   [67]  Fulham FC                       :: 4023 matches in  97 seasons / 4 levels - 1 (25)    2 (51)    3 (18)    4 (3)        x      
-   [68]  Gainsborough Trinity FC         ::  564 matches in  16 seasons / 1 levels -    x      2 (16)       x         x         x      
-   [69]  Gateshead FC                    :: 1236 matches in  29 seasons / 3 levels -    x         x      3 (22)    4 (2)     5 (5)     
-   [70]  Gillingham FC                   :: 3641 matches in  81 seasons / 3 levels -    x      2 (5)     3 (57)    4 (19)       x      
-   [71]  Glossop North End AFC           ::  618 matches in  17 seasons / 2 levels - 1 (1)     2 (16)       x         x         x      
-   [72]  Grays Athletic FC               ::  224 matches in   5 seasons / 1 levels -    x         x         x         x      5 (5)     
-   [73]  Grimsby Town FC                 :: 4645 matches in 111 seasons / 5 levels - 1 (13)    2 (52)    3 (28)    4 (14)    5 (4)     
-   [74]  Hartlepool United FC            :: 3856 matches in  87 seasons / 2 levels -    x         x      3 (44)    4 (43)       x      
-   [75]  Hayes & Yeading United FC       ::  136 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-   [76]  Hereford FC (2014-)             ::  586 matches in  13 seasons / 3 levels -    x         x      3 (1)     4 (9)     5 (3)     
-   [77]  Hereford United FC (1924-2014)  ::  912 matches in  20 seasons / 3 levels -    x      2 (1)     3 (4)     4 (15)       x      
-   [78]  Histon FC                       ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
-   [79]  Huddersfield Town AFC           :: 4073 matches in  95 seasons / 4 levels - 1 (32)    2 (35)    3 (22)    4 (6)        x      
-   [80]  Hull City AFC                   :: 4223 matches in  99 seasons / 4 levels - 1 (3)     2 (56)    3 (30)    4 (10)       x      
-   [81]  Hyde United FC                  ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-   [82]  Ipswich Town FC                 :: 3003 matches in  70 seasons / 3 levels - 1 (26)    2 (32)    3 (12)       x         x      
-   [83]  Kettering Town FC               ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
-   [84]  Kidderminster Harriers FC       ::  638 matches in  14 seasons / 2 levels -    x         x         x      4 (5)     5 (9)     
-   [85]  Leeds City FC (1904-1919)       ::  388 matches in  11 seasons / 1 levels -    x      2 (11)       x         x         x      
-   [86]  Leeds United FC                 :: 3667 matches in  88 seasons / 3 levels - 1 (51)    2 (34)    3 (3)        x         x      
-   [87]  Leicester City FC               :: 4521 matches in 111 seasons / 3 levels - 1 (47)    2 (63)    3 (1)        x         x      
-   [88]  Lewes FC                        ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-   [89]  Leyton Orient FC                :: 4247 matches in  99 seasons / 4 levels - 1 (1)     2 (41)    3 (42)    4 (15)       x      
-   [90]  Lincoln City FC                 :: 4477 matches in 107 seasons / 4 levels -    x      2 (34)    3 (32)    4 (38)    5 (3)     
-   [91]  Liverpool FC                    :: 4413 matches in 112 seasons / 2 levels - 1 (101)   2 (11)       x         x         x      
-   [92]  Loughborough FC (1886-1900)     ::  158 matches in   5 seasons / 1 levels -    x      2 (5)        x         x         x      
-   [93]  Luton Town FC                   :: 3855 matches in  91 seasons / 5 levels - 1 (16)    2 (35)    3 (30)    4 (5)     5 (5)     
-   [94]  Macclesfield Town FC            ::  782 matches in  17 seasons / 3 levels -    x         x      3 (1)     4 (14)    5 (2)     
-   [95]  Maidstone United FC             ::  134 matches in   3 seasons / 1 levels -    x         x         x      4 (3)        x      
-   [96]  Manchester City FC              :: 4487 matches in 113 seasons / 3 levels - 1 (86)    2 (26)    3 (1)        x         x      
-   [97]  Manchester United FC            :: 4445 matches in 113 seasons / 2 levels - 1 (91)    2 (22)       x         x         x      
-   [98]  Mansfield Town FC               :: 3432 matches in  77 seasons / 4 levels -    x      2 (1)     3 (43)    4 (28)    5 (5)     
-   [99]  Merthyr Town FC                 ::  420 matches in  10 seasons / 1 levels -    x         x      3 (10)       x         x      
-  [100]  Middlesbrough FC                :: 4281 matches in 105 seasons / 3 levels - 1 (61)    2 (42)    3 (2)        x         x      
-  [101]  Middlesbrough Ironopolis FC (1889-1894)  ::   28 matches in   1 seasons / 1 levels -    x      2 (1)        x         x         x      
-  [102]  Millwall FC                     :: 3838 matches in  88 seasons / 4 levels - 1 (2)     2 (40)    3 (41)    4 (5)        x      
-  [103]  Milton Keynes Dons FC           ::  460 matches in  10 seasons / 2 levels -    x         x      3 (8)     4 (2)        x      
-  [104]  Morecambe FC                    ::  410 matches in   9 seasons / 2 levels -    x         x         x      4 (7)     5 (2)     
-  [105]  Nelson FC                       ::  412 matches in  10 seasons / 2 levels -    x      2 (1)     3 (9)        x         x      
-  [106]  New Brighton Tower FC (1898-1901)  ::  989 matches in  25 seasons / 2 levels -    x      2 (3)     3 (22)       x         x      
-  [107]  Newcastle United FC             :: 4445 matches in 112 seasons / 2 levels - 1 (84)    2 (28)       x         x         x      
-  [108]  Newport County AFC              :: 2859 matches in  65 seasons / 4 levels -    x      2 (2)     3 (40)    4 (20)    5 (3)     
-  [109]  Northampton Town FC             :: 3839 matches in  87 seasons / 4 levels - 1 (1)     2 (3)     3 (48)    4 (35)       x      
-  [110]  Northwich Victoria FC           ::  188 matches in   5 seasons / 2 levels -    x      2 (2)        x         x      5 (3)     
-  [111]  Norwich City FC                 :: 3727 matches in  88 seasons / 3 levels - 1 (24)    2 (34)    3 (30)       x         x      
-  [112]  Nottingham Forest FC            :: 4543 matches in 112 seasons / 3 levels - 1 (56)    2 (51)    3 (5)        x         x      
-  [113]  Notts County FC                 :: 4758 matches in 116 seasons / 4 levels - 1 (30)    2 (37)    3 (34)    4 (15)       x      
-  [114]  Nuneaton Borough FC             ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-  [115]  Oldham Athletic AFC             :: 4189 matches in  97 seasons / 4 levels - 1 (12)    2 (36)    3 (42)    4 (7)        x      
-  [116]  Oxford United FC                :: 2340 matches in  52 seasons / 5 levels - 1 (3)     2 (18)    3 (15)    4 (12)    5 (4)     
-  [117]  Peterborough United FC          :: 2484 matches in  54 seasons / 3 levels -    x      2 (5)     3 (24)    4 (25)       x      
-  [118]  Plymouth Argyle FC              :: 3847 matches in  88 seasons / 3 levels -    x      2 (41)    3 (39)    4 (8)        x      
-  [119]  Port Vale FC                    :: 4358 matches in 102 seasons / 3 levels -    x      2 (41)    3 (43)    4 (18)       x      
-  [120]  Portsmouth FC                   :: 3735 matches in  88 seasons / 4 levels - 1 (34)    2 (40)    3 (11)    4 (3)        x      
-  [121]  Preston North End FC            :: 4733 matches in 116 seasons / 4 levels - 1 (47)    2 (42)    3 (22)    4 (5)        x      
-  [122]  Queens Park Rangers FC          :: 3755 matches in  88 seasons / 3 levels - 1 (22)    2 (26)    3 (40)       x         x      
-  [123]  Reading FC                      :: 3883 matches in  88 seasons / 4 levels - 1 (3)     2 (20)    3 (57)    4 (8)        x      
-  [124]  Rochdale AFC                    :: 3803 matches in  86 seasons / 2 levels -    x         x      3 (39)    4 (47)       x      
-  [125]  Rotherham County FC (1870-1925)  ::  252 matches in   6 seasons / 2 levels -    x      2 (4)     3 (2)        x         x      
-  [126]  Rotherham Town FC (1899-1925)   ::   88 matches in   3 seasons / 1 levels -    x      2 (3)        x         x         x      
-  [127]  Rotherham United FC             :: 3621 matches in  83 seasons / 3 levels -    x      2 (23)    3 (47)    4 (13)       x      
-  [128]  Salisbury City FC (1947-2014)   ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
-  [129]  Scarborough Athletic FC         ::  536 matches in  12 seasons / 2 levels -    x         x         x      4 (11)    5 (1)     
-  [130]  Scunthorpe United FC            :: 2861 matches in  63 seasons / 3 levels -    x      2 (9)     3 (20)    4 (34)       x      
-  [131]  Sheffield United FC             :: 4587 matches in 112 seasons / 4 levels - 1 (61)    2 (42)    3 (8)     4 (1)        x      
-  [132]  Sheffield Wednesday FC          :: 4547 matches in 112 seasons / 3 levels - 1 (66)    2 (37)    3 (9)        x         x      
-  [133]  Shrewsbury Town FC              :: 2814 matches in  62 seasons / 3 levels -    x      2 (10)    3 (35)    4 (17)       x      
-  [134]  South Shields FC                ::  462 matches in  11 seasons / 2 levels -    x      2 (9)     3 (2)        x         x      
-  [135]  Southampton FC                  :: 3689 matches in  89 seasons / 3 levels - 1 (38)    2 (40)    3 (11)       x         x      
-  [136]  Southend United FC              :: 3913 matches in  88 seasons / 3 levels -    x      2 (7)     3 (57)    4 (24)       x      
-  [137]  Southport FC                    :: 2475 matches in  57 seasons / 3 levels -    x         x      3 (35)    4 (16)    5 (6)     
-  [138]  St. Albans City FC              ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-  [139]  Stafford Rangers FC             ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
-  [140]  Stalybridge Celtic FC           ::   76 matches in   2 seasons / 1 levels -    x         x      3 (2)        x         x      
-  [141]  Stevenage FC                    ::  408 matches in   9 seasons / 3 levels -    x         x      3 (3)     4 (1)     5 (5)     
-  [142]  Stockport County FC             :: 4418 matches in 102 seasons / 4 levels -    x      2 (26)    3 (41)    4 (33)    5 (2)     
-  [143]  Stoke City FC                   :: 4397 matches in 109 seasons / 3 levels - 1 (60)    2 (41)    3 (8)        x         x      
-  [144]  Sunderland AFC                  :: 4541 matches in 114 seasons / 3 levels - 1 (84)    2 (29)    3 (1)        x         x      
-  [145]  Swansea City AFC                :: 3847 matches in  89 seasons / 4 levels - 1 (6)     2 (38)    3 (27)    4 (18)       x      
-  [146]  Swindon Town FC                 :: 3879 matches in  88 seasons / 4 levels - 1 (1)     2 (18)    3 (63)    4 (6)        x      
-  [147]  Tamworth FC                     ::  316 matches in   7 seasons / 1 levels -    x         x         x         x      5 (7)     
-  [148]  Thames AFC (1928-1932)          ::   84 matches in   2 seasons / 1 levels -    x         x      3 (2)        x         x      
-  [149]  Torquay United FC               :: 3565 matches in  80 seasons / 3 levels -    x         x      3 (35)    4 (43)    5 (2)     
-  [150]  Tottenham Hotspur FC            :: 3913 matches in  97 seasons / 2 levels - 1 (80)    2 (17)       x         x         x      
-  [151]  Tranmere Rovers FC              :: 3861 matches in  87 seasons / 3 levels -    x      2 (11)    3 (59)    4 (17)       x      
-  [152]  Walsall FC                      :: 4038 matches in  94 seasons / 3 levels -    x      2 (15)    3 (71)    4 (8)        x      
-  [153]  Watford FC                      :: 3885 matches in  89 seasons / 4 levels - 1 (9)     2 (28)    3 (47)    4 (5)        x      
-  [154]  Welling United FC               ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
-  [155]  West Bromwich Albion FC         :: 4669 matches in 117 seasons / 3 levels - 1 (77)    2 (38)    3 (2)        x         x      
-  [156]  West Ham United FC              :: 3691 matches in  90 seasons / 2 levels - 1 (57)    2 (33)       x         x         x      
-  [157]  Weymouth FC                     ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
-  [158]  Wigan Athletic FC               :: 1584 matches in  36 seasons / 4 levels - 1 (8)     2 (3)     3 (17)    4 (8)        x      
-  [159]  Wigan Borough FC (1920-1931)    ::  424 matches in  11 seasons / 1 levels -    x         x      3 (11)       x         x      
-  [160]  Wimbledon FC                    :: 1144 matches in  27 seasons / 4 levels - 1 (14)    2 (6)     3 (3)     4 (4)        x      
-  [161]  Woking FC                       ::  272 matches in   6 seasons / 1 levels -    x         x         x         x      5 (6)     
-  [162]  Wolverhampton Wanderers FC      :: 4673 matches in 116 seasons / 4 levels - 1 (64)    2 (46)    3 (4)     4 (2)        x      
-  [163]  Workington AFC                  :: 1195 matches in  26 seasons / 2 levels -    x         x      3 (10)    4 (16)       x      
-  [164]  Wrexham AFC                     :: 3793 matches in  86 seasons / 4 levels -    x      2 (4)     3 (55)    4 (21)    5 (6)     
-  [165]  Wycombe Wanderers FC            ::  962 matches in  21 seasons / 2 levels -    x         x      3 (12)    4 (9)        x      
-  [166]  Yeovil Town FC                  ::  506 matches in  11 seasons / 3 levels -    x      2 (1)     3 (8)     4 (2)        x      
-  [167]  York City FC                    :: 3422 matches in  77 seasons / 4 levels -    x      2 (2)     3 (39)    4 (29)    5 (7)     
+  178 teams:
+    [1]  AFC Bournemouth                 :: 3945 matches in  89 seasons / 4 levels - 1 (3)     2 (5)     3 (70)    4 (11)       x      
+    [2]  AFC Fylde                       ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+    [3]  AFC Rushden & Diamonds          ::  458 matches in  10 seasons / 3 levels -    x         x      3 (1)     4 (4)     5 (5)     
+    [4]  AFC Telford United (2004-)      ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+    [5]  AFC Wimbledon                   ::  412 matches in   9 seasons / 3 levels -    x         x      3 (2)     4 (5)     5 (2)     
+    [6]  Aberdare Athletic FC (1893-1928)  ::  252 matches in   6 seasons / 1 levels -    x         x      3 (6)        x         x      
+    [7]  Accrington FC (1878-1896)       ::  122 matches in   5 seasons / 1 levels - 1 (5)        x         x         x         x      
+    [8]  Accrington Stanley FC           :: 2050 matches in  48 seasons / 3 levels -    x         x      3 (33)    4 (14)    5 (1)     
+    [9]  Aldershot Town FC               :: 2945 matches in  66 seasons / 3 levels -    x         x      3 (25)    4 (33)    5 (8)     
+   [10]  Alfreton Town FC                ::  184 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
+   [11]  Altrincham FC                   ::  362 matches in   8 seasons / 1 levels -    x         x         x         x      5 (8)     
+   [12]  Arsenal FC                      :: 4527 matches in 115 seasons / 2 levels - 1 (102)   2 (13)       x         x         x      
+   [13]  Ashington AFC                   ::  328 matches in   8 seasons / 1 levels -    x         x      3 (8)        x         x      
+   [14]  Aston Villa FC                  :: 4679 matches in 120 seasons / 3 levels - 1 (106)   2 (12)    3 (2)        x         x      
+   [15]  Barnet FC                       :: 1004 matches in  22 seasons / 3 levels -    x         x      3 (1)     4 (19)    5 (2)     
+   [16]  Barnsley FC                     :: 4695 matches in 110 seasons / 4 levels - 1 (1)     2 (76)    3 (23)    4 (10)       x      
+   [17]  Barrow AFC                      :: 2295 matches in  53 seasons / 3 levels -    x         x      3 (34)    4 (11)    5 (8)     
+   [18]  Bath City FC                    ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+   [19]  Birmingham City FC              :: 4721 matches in 116 seasons / 3 levels - 1 (57)    2 (55)    3 (4)        x         x      
+   [20]  Blackburn Rovers FC             :: 4767 matches in 120 seasons / 3 levels - 1 (73)    2 (41)    3 (6)        x         x      
+   [21]  Blackpool FC                    :: 4659 matches in 111 seasons / 4 levels - 1 (29)    2 (50)    3 (24)    4 (8)        x      
+   [22]  Bolton Wanderers FC             :: 4801 matches in 120 seasons / 4 levels - 1 (74)    2 (33)    3 (12)    4 (1)        x      
+   [23]  Bootle FC (1879-1893)           ::   22 matches in   1 seasons / 1 levels -    x      2 (1)        x         x         x      
+   [24]  Boreham Wood FC                 ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+   [25]  Boston United FC                ::  230 matches in   5 seasons / 1 levels -    x         x         x      4 (5)        x      
+   [26]  Bradford City AFC               :: 4561 matches in 105 seasons / 4 levels - 1 (12)    2 (29)    3 (41)    4 (23)       x      
+   [27]  Bradford Park Avenue AFC        :: 2193 matches in  52 seasons / 4 levels - 1 (3)     2 (23)    3 (16)    4 (10)       x      
+   [28]  Braintree Town FC               ::  276 matches in   6 seasons / 1 levels -    x         x         x         x      5 (6)     
+   [29]  Brentford FC                    :: 4081 matches in  92 seasons / 4 levels - 1 (6)     2 (14)    3 (57)    4 (15)       x      
+   [30]  Brighton & Hove Albion FC       :: 4029 matches in  92 seasons / 4 levels - 1 (5)     2 (24)    3 (56)    4 (7)        x      
+   [31]  Bristol City FC                 :: 4571 matches in 107 seasons / 4 levels - 1 (9)     2 (50)    3 (46)    4 (2)        x      
+   [32]  Bristol Rovers FC               :: 4033 matches in  92 seasons / 4 levels -    x      2 (19)    3 (62)    4 (10)    5 (1)     
+   [33]  Bromley FC                      ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+   [34]  Burnley FC                      :: 4868 matches in 120 seasons / 4 levels - 1 (55)    2 (47)    3 (11)    4 (7)        x      
+   [35]  Burton Albion FC                ::  594 matches in  13 seasons / 4 levels -    x      2 (2)     3 (1)     4 (6)     5 (4)     
+   [36]  Burton Swifts FC (1871-1901)    ::  272 matches in   9 seasons / 1 levels -    x      2 (9)        x         x         x      
+   [37]  Burton United FC (1901-1910)    ::  212 matches in   6 seasons / 1 levels -    x      2 (6)        x         x         x      
+   [38]  Burton Wanderers FC (1871-1901)  ::   90 matches in   3 seasons / 1 levels -    x      2 (3)        x         x         x      
+   [39]  Bury FC                         :: 4767 matches in 113 seasons / 4 levels - 1 (22)    2 (40)    3 (29)    4 (22)       x      
+   [40]  Cambridge United FC             :: 2178 matches in  48 seasons / 4 levels -    x      2 (8)     3 (9)     4 (22)    5 (9)     
+   [41]  Canvey Island FC                ::   42 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+   [42]  Cardiff City FC                 :: 3907 matches in  91 seasons / 4 levels - 1 (16)    2 (46)    3 (20)    4 (9)        x      
+   [43]  Carlisle United FC              :: 3591 matches in  82 seasons / 4 levels - 1 (1)     2 (15)    3 (42)    4 (24)       x      
+   [44]  Charlton Athletic FC            :: 3837 matches in  91 seasons / 3 levels - 1 (27)    2 (45)    3 (19)       x         x      
+   [45]  Chelsea FC                      :: 4149 matches in 103 seasons / 2 levels - 1 (84)    2 (19)       x         x         x      
+   [46]  Cheltenham Town FC              ::  874 matches in  19 seasons / 3 levels -    x         x      3 (4)     4 (14)    5 (1)     
+   [47]  Chester FC                      :: 3262 matches in  73 seasons / 3 levels -    x         x      3 (36)    4 (32)    5 (5)     
+   [48]  Chesterfield FC                 :: 4339 matches in 100 seasons / 3 levels -    x      2 (21)    3 (55)    4 (24)       x      
+   [49]  Colchester United FC            :: 2982 matches in  65 seasons / 3 levels -    x      2 (2)     3 (38)    4 (25)       x      
+   [50]  Coventry City FC                :: 3945 matches in  93 seasons / 4 levels - 1 (34)    2 (30)    3 (27)    4 (2)        x      
+   [51]  Crawley Town FC                 ::  592 matches in  13 seasons / 3 levels -    x         x      3 (3)     4 (4)     5 (6)     
+   [52]  Crewe Alexandra FC              :: 4101 matches in  94 seasons / 3 levels -    x      2 (12)    3 (46)    4 (36)       x      
+   [53]  Crystal Palace FC               :: 3931 matches in  92 seasons / 4 levels - 1 (18)    2 (37)    3 (34)    4 (3)        x      
+   [54]  Dagenham & Redbridge FC         ::  594 matches in  13 seasons / 3 levels -    x         x      3 (1)     4 (8)     5 (4)     
+   [55]  Darlington FC                   :: 3670 matches in  83 seasons / 4 levels -    x      2 (2)     3 (33)    4 (46)    5 (2)     
+   [56]  Dartford FC                     ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+   [57]  Darwen FC (1870-2009)           ::  232 matches in   8 seasons / 2 levels - 1 (2)     2 (6)        x         x         x      
+   [58]  Derby County FC                 :: 4811 matches in 120 seasons / 3 levels - 1 (66)    2 (50)    3 (4)        x         x      
+   [59]  Doncaster Rovers FC             :: 3750 matches in  86 seasons / 3 levels -    x      2 (19)    3 (36)    4 (31)       x      
+   [60]  Dover Athletic FC               ::  184 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
+   [61]  Droylsden FC                    ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+   [62]  Durham City AFC                 ::  286 matches in   7 seasons / 1 levels -    x         x      3 (7)        x         x      
+   [63]  Eastbourne Borough FC           ::  136 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+   [64]  Eastleigh FC                    ::  184 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
+   [65]  Ebbsfleet United FC             ::  362 matches in   8 seasons / 1 levels -    x         x         x         x      5 (8)     
+   [66]  Everton FC                      :: 4651 matches in 120 seasons / 2 levels - 1 (116)   2 (4)        x         x         x      
+   [67]  Exeter City FC                  :: 3995 matches in  90 seasons / 3 levels -    x         x      3 (48)    4 (39)    5 (3)     
+   [68]  FC Halifax Town                 :: 3348 matches in  76 seasons / 3 levels -    x         x      3 (43)    4 (26)    5 (7)     
+   [69]  Farsley Celtic FC               ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+   [70]  Fleetwood Town FC               ::  368 matches in   8 seasons / 3 levels -    x         x      3 (4)     4 (2)     5 (2)     
+   [71]  Forest Green Rovers FC          ::  592 matches in  13 seasons / 2 levels -    x         x         x      4 (1)     5 (12)    
+   [72]  Fulham FC                       :: 4207 matches in 101 seasons / 4 levels - 1 (25)    2 (55)    3 (18)    4 (3)        x      
+   [73]  Gainsborough Trinity FC         ::  564 matches in  16 seasons / 1 levels -    x      2 (16)       x         x         x      
+   [74]  Gateshead FC                    :: 1420 matches in  33 seasons / 3 levels -    x         x      3 (22)    4 (2)     5 (9)     
+   [75]  Gillingham FC                   :: 3825 matches in  85 seasons / 3 levels -    x      2 (5)     3 (61)    4 (19)       x      
+   [76]  Glossop North End AFC           ::  618 matches in  17 seasons / 2 levels - 1 (1)     2 (16)       x         x         x      
+   [77]  Grays Athletic FC               ::  224 matches in   5 seasons / 1 levels -    x         x         x         x      5 (5)     
+   [78]  Grimsby Town FC                 :: 4829 matches in 115 seasons / 5 levels - 1 (13)    2 (52)    3 (28)    4 (16)    5 (6)     
+   [79]  Guiseley AFC                    ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+   [80]  Hartlepool United FC            :: 4040 matches in  91 seasons / 3 levels -    x         x      3 (44)    4 (46)    5 (1)     
+   [81]  Hayes & Yeading United FC       ::  136 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+   [82]  Hereford FC (2014-)             ::  586 matches in  13 seasons / 3 levels -    x         x      3 (1)     4 (9)     5 (3)     
+   [83]  Hereford United FC (1924-2014)  ::  912 matches in  20 seasons / 3 levels -    x      2 (1)     3 (4)     4 (15)       x      
+   [84]  Histon FC                       ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
+   [85]  Huddersfield Town AFC           :: 4211 matches in  98 seasons / 4 levels - 1 (32)    2 (38)    3 (22)    4 (6)        x      
+   [86]  Hull City AFC                   :: 4391 matches in 103 seasons / 4 levels - 1 (5)     2 (58)    3 (30)    4 (10)       x      
+   [87]  Hyde United FC                  ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+   [88]  Ipswich Town FC                 :: 3187 matches in  74 seasons / 3 levels - 1 (26)    2 (36)    3 (12)       x         x      
+   [89]  Kettering Town FC               ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
+   [90]  Kidderminster Harriers FC       ::  730 matches in  16 seasons / 2 levels -    x         x         x      4 (5)     5 (11)    
+   [91]  Leeds City FC (1904-1919)       ::  388 matches in  11 seasons / 1 levels -    x      2 (11)       x         x         x      
+   [92]  Leeds United FC                 :: 3851 matches in  92 seasons / 3 levels - 1 (51)    2 (38)    3 (3)        x         x      
+   [93]  Leicester City FC               :: 4635 matches in 114 seasons / 3 levels - 1 (50)    2 (63)    3 (1)        x         x      
+   [94]  Lewes FC                        ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+   [95]  Leyton Orient FC                :: 4431 matches in 103 seasons / 5 levels - 1 (1)     2 (41)    3 (43)    4 (17)    5 (1)     
+   [96]  Lincoln City FC                 :: 4661 matches in 111 seasons / 4 levels -    x      2 (34)    3 (32)    4 (39)    5 (6)     
+   [97]  Liverpool FC                    :: 4527 matches in 115 seasons / 2 levels - 1 (104)   2 (11)       x         x         x      
+   [98]  Loughborough FC (1886-1900)     ::  158 matches in   5 seasons / 1 levels -    x      2 (5)        x         x         x      
+   [99]  Luton Town FC                   :: 4039 matches in  95 seasons / 5 levels - 1 (16)    2 (35)    3 (30)    4 (9)     5 (5)     
+  [100]  Macclesfield Town FC            ::  966 matches in  21 seasons / 3 levels -    x         x      3 (1)     4 (14)    5 (6)     
+  [101]  Maidenhead United FC            ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+  [102]  Maidstone United FC             ::  226 matches in   5 seasons / 2 levels -    x         x         x      4 (3)     5 (2)     
+  [103]  Manchester City FC              :: 4601 matches in 116 seasons / 3 levels - 1 (89)    2 (26)    3 (1)        x         x      
+  [104]  Manchester United FC            :: 4559 matches in 116 seasons / 2 levels - 1 (94)    2 (22)       x         x         x      
+  [105]  Mansfield Town FC               :: 3616 matches in  81 seasons / 4 levels -    x      2 (1)     3 (43)    4 (32)    5 (5)     
+  [106]  Merthyr Town FC                 ::  420 matches in  10 seasons / 1 levels -    x         x      3 (10)       x         x      
+  [107]  Middlesbrough FC                :: 4457 matches in 109 seasons / 3 levels - 1 (62)    2 (45)    3 (2)        x         x      
+  [108]  Middlesbrough Ironopolis FC (1889-1894)  ::   28 matches in   1 seasons / 1 levels -    x      2 (1)        x         x         x      
+  [109]  Millwall FC                     :: 4022 matches in  92 seasons / 4 levels - 1 (2)     2 (42)    3 (43)    4 (5)        x      
+  [110]  Milton Keynes Dons FC           ::  644 matches in  14 seasons / 3 levels -    x      2 (1)     3 (11)    4 (2)        x      
+  [111]  Morecambe FC                    ::  594 matches in  13 seasons / 2 levels -    x         x         x      4 (11)    5 (2)     
+  [112]  Nelson FC                       ::  412 matches in  10 seasons / 2 levels -    x      2 (1)     3 (9)        x         x      
+  [113]  New Brighton Tower FC (1898-1901)  ::  989 matches in  25 seasons / 2 levels -    x      2 (3)     3 (22)       x         x      
+  [114]  Newcastle United FC             :: 4567 matches in 115 seasons / 2 levels - 1 (86)    2 (29)       x         x         x      
+  [115]  Newport County AFC              :: 3043 matches in  69 seasons / 4 levels -    x      2 (2)     3 (40)    4 (24)    5 (3)     
+  [116]  North Ferriby United AFC        ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+  [117]  Northampton Town FC             :: 4023 matches in  91 seasons / 4 levels - 1 (1)     2 (3)     3 (50)    4 (37)       x      
+  [118]  Northwich Victoria FC           ::  188 matches in   5 seasons / 2 levels -    x      2 (2)        x         x      5 (3)     
+  [119]  Norwich City FC                 :: 3903 matches in  92 seasons / 3 levels - 1 (25)    2 (37)    3 (30)       x         x      
+  [120]  Nottingham Forest FC            :: 4727 matches in 116 seasons / 3 levels - 1 (56)    2 (55)    3 (5)        x         x      
+  [121]  Notts County FC                 :: 4942 matches in 120 seasons / 4 levels - 1 (30)    2 (37)    3 (35)    4 (18)       x      
+  [122]  Nuneaton Borough FC             ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+  [123]  Oldham Athletic AFC             :: 4373 matches in 101 seasons / 4 levels - 1 (12)    2 (36)    3 (46)    4 (7)        x      
+  [124]  Oxford United FC                :: 2524 matches in  56 seasons / 5 levels - 1 (3)     2 (18)    3 (17)    4 (14)    5 (4)     
+  [125]  Peterborough United FC          :: 2668 matches in  58 seasons / 3 levels -    x      2 (5)     3 (28)    4 (25)       x      
+  [126]  Plymouth Argyle FC              :: 4031 matches in  92 seasons / 3 levels -    x      2 (41)    3 (40)    4 (11)       x      
+  [127]  Port Vale FC                    :: 4542 matches in 106 seasons / 3 levels -    x      2 (41)    3 (46)    4 (19)       x      
+  [128]  Portsmouth FC                   :: 3919 matches in  92 seasons / 4 levels - 1 (34)    2 (40)    3 (12)    4 (6)        x      
+  [129]  Preston North End FC            :: 4917 matches in 120 seasons / 4 levels - 1 (47)    2 (45)    3 (23)    4 (5)        x      
+  [130]  Queens Park Rangers FC          :: 3931 matches in  92 seasons / 3 levels - 1 (23)    2 (29)    3 (40)       x         x      
+  [131]  Reading FC                      :: 4067 matches in  92 seasons / 4 levels - 1 (3)     2 (24)    3 (57)    4 (8)        x      
+  [132]  Rochdale AFC                    :: 3987 matches in  90 seasons / 2 levels -    x         x      3 (43)    4 (47)       x      
+  [133]  Rotherham County FC (1870-1925)  ::  252 matches in   6 seasons / 2 levels -    x      2 (4)     3 (2)        x         x      
+  [134]  Rotherham Town FC (1899-1925)   ::   88 matches in   3 seasons / 1 levels -    x      2 (3)        x         x         x      
+  [135]  Rotherham United FC             :: 3805 matches in  87 seasons / 3 levels -    x      2 (26)    3 (48)    4 (13)       x      
+  [136]  Salisbury City FC (1947-2014)   ::  182 matches in   4 seasons / 1 levels -    x         x         x         x      5 (4)     
+  [137]  Scarborough Athletic FC         ::  536 matches in  12 seasons / 2 levels -    x         x         x      4 (11)    5 (1)     
+  [138]  Scunthorpe United FC            :: 3045 matches in  67 seasons / 3 levels -    x      2 (9)     3 (24)    4 (34)       x      
+  [139]  Sheffield United FC             :: 4771 matches in 116 seasons / 4 levels - 1 (61)    2 (43)    3 (11)    4 (1)        x      
+  [140]  Sheffield Wednesday FC          :: 4731 matches in 116 seasons / 3 levels - 1 (66)    2 (41)    3 (9)        x         x      
+  [141]  Shrewsbury Town FC              :: 2998 matches in  66 seasons / 3 levels -    x      2 (10)    3 (38)    4 (18)       x      
+  [142]  Solihull Moors FC               ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+  [143]  South Shields FC                ::  462 matches in  11 seasons / 2 levels -    x      2 (9)     3 (2)        x         x      
+  [144]  Southampton FC                  :: 3803 matches in  92 seasons / 3 levels - 1 (41)    2 (40)    3 (11)       x         x      
+  [145]  Southend United FC              :: 4097 matches in  92 seasons / 3 levels -    x      2 (7)     3 (60)    4 (25)       x      
+  [146]  Southport FC                    :: 2613 matches in  60 seasons / 3 levels -    x         x      3 (35)    4 (16)    5 (9)     
+  [147]  St. Albans City FC              ::   46 matches in   1 seasons / 1 levels -    x         x         x         x      5 (1)     
+  [148]  Stafford Rangers FC             ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+  [149]  Stalybridge Celtic FC           ::   76 matches in   2 seasons / 1 levels -    x         x      3 (2)        x         x      
+  [150]  Stevenage FC                    ::  592 matches in  13 seasons / 3 levels -    x         x      3 (3)     4 (5)     5 (5)     
+  [151]  Stockport County FC             :: 4418 matches in 102 seasons / 4 levels -    x      2 (26)    3 (41)    4 (33)    5 (2)     
+  [152]  Stoke City FC                   :: 4511 matches in 112 seasons / 3 levels - 1 (63)    2 (41)    3 (8)        x         x      
+  [153]  Sunderland AFC                  :: 4701 matches in 118 seasons / 3 levels - 1 (87)    2 (30)    3 (1)        x         x      
+  [154]  Sutton United FC                ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+  [155]  Swansea City AFC                :: 3961 matches in  92 seasons / 4 levels - 1 (9)     2 (38)    3 (27)    4 (18)       x      
+  [156]  Swindon Town FC                 :: 4063 matches in  92 seasons / 4 levels - 1 (1)     2 (18)    3 (66)    4 (7)        x      
+  [157]  Tamworth FC                     ::  316 matches in   7 seasons / 1 levels -    x         x         x         x      5 (7)     
+  [158]  Telford United FC (1872-2004)   ::   92 matches in   2 seasons / 1 levels -    x         x         x         x      5 (2)     
+  [159]  Thames AFC (1928-1932)          ::   84 matches in   2 seasons / 1 levels -    x         x      3 (2)        x         x      
+  [160]  Torquay United FC               :: 3749 matches in  84 seasons / 3 levels -    x         x      3 (35)    4 (43)    5 (6)     
+  [161]  Tottenham Hotspur FC            :: 4027 matches in 100 seasons / 2 levels - 1 (83)    2 (17)       x         x         x      
+  [162]  Tranmere Rovers FC              :: 4045 matches in  91 seasons / 4 levels -    x      2 (11)    3 (59)    4 (18)    5 (3)     
+  [163]  Walsall FC                      :: 4222 matches in  98 seasons / 3 levels -    x      2 (15)    3 (75)    4 (8)        x      
+  [164]  Watford FC                      :: 4007 matches in  92 seasons / 4 levels - 1 (11)    2 (29)    3 (47)    4 (5)        x      
+  [165]  Welling United FC               ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+  [166]  West Bromwich Albion FC         :: 4783 matches in 120 seasons / 3 levels - 1 (80)    2 (38)    3 (2)        x         x      
+  [167]  West Ham United FC              :: 3805 matches in  93 seasons / 2 levels - 1 (60)    2 (33)       x         x         x      
+  [168]  Weymouth FC                     ::  138 matches in   3 seasons / 1 levels -    x         x         x         x      5 (3)     
+  [169]  Wigan Athletic FC               :: 1768 matches in  40 seasons / 4 levels - 1 (8)     2 (5)     3 (19)    4 (8)        x      
+  [170]  Wigan Borough FC (1920-1931)    ::  424 matches in  11 seasons / 1 levels -    x         x      3 (11)       x         x      
+  [171]  Wimbledon FC                    :: 1144 matches in  27 seasons / 4 levels - 1 (14)    2 (6)     3 (3)     4 (4)        x      
+  [172]  Woking FC                       ::  456 matches in  10 seasons / 1 levels -    x         x         x         x      5 (10)    
+  [173]  Wolverhampton Wanderers FC      :: 4857 matches in 120 seasons / 4 levels - 1 (64)    2 (50)    3 (4)     4 (2)        x      
+  [174]  Workington AFC                  :: 1195 matches in  26 seasons / 2 levels -    x         x      3 (10)    4 (16)       x      
+  [175]  Wrexham AFC                     :: 3977 matches in  90 seasons / 4 levels -    x      2 (4)     3 (55)    4 (21)    5 (10)    
+  [176]  Wycombe Wanderers FC            :: 1146 matches in  25 seasons / 2 levels -    x         x      3 (12)    4 (13)       x      
+  [177]  Yeovil Town FC                  ::  690 matches in  15 seasons / 3 levels -    x      2 (1)     3 (9)     4 (5)        x      
+  [178]  York City FC                    :: 3560 matches in  80 seasons / 4 levels -    x      2 (2)     3 (39)    4 (31)    5 (8)     
 ```
 
 
@@ -3071,6 +3217,7 @@ level 5 - 9 seasons:
 
 ```
 AFC Bournemouth             => Bournemouth
+AFC Fylde                   => Fylde
 AFC Rushden & Diamonds      => (2) Rushden & D • Rushden & Diamonds
 AFC Telford United (2004-)  => AFC Telford United
 AFC Wimbledon               
@@ -3092,6 +3239,7 @@ Blackburn Rovers FC         => (2) Blackburn • Blackburn Rovers
 Blackpool FC                => Blackpool
 Bolton Wanderers FC         => (2) Bolton • Bolton Wanderers
 Bootle FC (1879-1893)       => (2) Bootle • Bootle FC
+Boreham Wood FC             => Boreham Wood
 Boston United FC            => (2) Boston • Boston United
 Bradford City AFC           => (2) Bradford • Bradford City
 Bradford Park Avenue AFC    => Bradford Park Avenue
@@ -3100,6 +3248,7 @@ Brentford FC                => Brentford
 Brighton & Hove Albion FC   => (2) Brighton • Brighton & Hove Albion
 Bristol City FC             => Bristol City
 Bristol Rovers FC           => (2) Bristol Rvs • Bristol Rovers
+Bromley FC                  => Bromley
 Burnley FC                  => Burnley
 Burton Albion FC            => (2) Burton • Burton Albion
 Burton Swifts FC (1871-1901)  => (2) Burton Swifts • Burton Swifts FC
@@ -3126,9 +3275,11 @@ Dartford FC                 => Dartford
 Darwen FC (1870-2009)       => (2) Darwen • Darwen FC
 Derby County FC             => (2) Derby • Derby County
 Doncaster Rovers FC         => (2) Doncaster • Doncaster Rovers
+Dover Athletic FC           => Dover Athletic
 Droylsden FC                => Droylsden
 Durham City AFC             => Durham City
 Eastbourne Borough FC       => Eastbourne Borough
+Eastleigh FC                => Eastleigh
 Ebbsfleet United FC         => (2) Ebbsfleet • Gravesend
 Everton FC                  => Everton
 Exeter City FC              => (2) Exeter • Exeter City
@@ -3143,6 +3294,7 @@ Gillingham FC               => Gillingham
 Glossop North End AFC       => Glossop North End
 Grays Athletic FC           => Grays
 Grimsby Town FC             => (2) Grimsby • Grimsby Town
+Guiseley AFC                => Guiseley
 Hartlepool United FC        => (2) Hartlepool • Hartlepool United
 Hayes & Yeading United FC   => Hayes & Yeading
 Hereford FC (2014-)         => (2) Hereford • Hereford FC
@@ -3164,6 +3316,7 @@ Liverpool FC                => Liverpool
 Loughborough FC (1886-1900)  => (2) Loughborough • Loughborough FC
 Luton Town FC               => (2) Luton • Luton Town
 Macclesfield Town FC        => Macclesfield
+Maidenhead United FC        => Maidenhead
 Maidstone United FC         => (2) Maidstone • Maidstone United
 Manchester City FC          => (2) Man City • Manchester City
 Manchester United FC        => (2) Man United • Manchester United
@@ -3178,6 +3331,7 @@ Nelson FC                   => Nelson
 New Brighton Tower FC (1898-1901)  => (3) New Brighton • New Brighton Tower • New Brighton Tower FC
 Newcastle United FC         => (2) Newcastle • Newcastle United
 Newport County AFC          => Newport County
+North Ferriby United AFC    => North Ferriby
 Northampton Town FC         => (2) Northampton • Northampton Town
 Northwich Victoria FC       => (2) Northwich • Northwich Victoria
 Norwich City FC             => (2) Norwich • Norwich City
@@ -3203,6 +3357,7 @@ Scunthorpe United FC        => (2) Scunthorpe • Scunthorpe United
 Sheffield United FC         => Sheffield United
 Sheffield Wednesday FC      => (2) Sheffield Weds • Sheffield Wednesday
 Shrewsbury Town FC          => (2) Shrewsbury • Shrewsbury Town
+Solihull Moors FC           => Solihull
 South Shields FC            => South Shields
 Southampton FC              => Southampton
 Southend United FC          => (2) Southend • Southend United
@@ -3214,9 +3369,11 @@ Stevenage FC                => (2) Stevenage • Stevenage Borough
 Stockport County FC         => (2) Stockport • Stockport County
 Stoke City FC               => (2) Stoke • Stoke City
 Sunderland AFC              => Sunderland
+Sutton United FC            => Sutton
 Swansea City AFC            => (2) Swansea • Swansea City
 Swindon Town FC             => (2) Swindon • Swindon Town
 Tamworth FC                 => Tamworth
+Telford United FC (1872-2004)  => (2) Telford United • Telford United FC
 Thames AFC (1928-1932)      => (2) Thames • Thames AFC
 Torquay United FC           => (2) Torquay • Torquay United
 Tottenham Hotspur FC        => (2) Tottenham • Tottenham Hotspur
@@ -3243,11 +3400,12 @@ York City FC                => (2) York • York City
 
 ### Teams by City
 
-- **London** (18): 
+- **London** (20): 
   - AFC Wimbledon 
   - Arsenal FC  (1) Arsenal
   - Barnet FC  (1) Barnet
   - Brentford FC  (1) Brentford
+  - Bromley FC  (1) Bromley
   - Charlton Athletic FC  (2) Charlton • Charlton Athletic
   - Chelsea FC  (1) Chelsea
   - Crystal Palace FC  (1) Crystal Palace
@@ -3257,6 +3415,7 @@ York City FC                => (2) York • York City
   - Leyton Orient FC  (1) Leyton Orient
   - Millwall FC  (1) Millwall
   - Queens Park Rangers FC  (2) QPR • Queens Park Rangers
+  - Sutton United FC  (1) Sutton
   - Thames AFC (1928-1932)  (2) Thames • Thames AFC
   - Tottenham Hotspur FC  (2) Tottenham • Tottenham Hotspur
   - Welling United FC  (1) Welling United
@@ -3304,6 +3463,9 @@ York City FC                => (2) York • York City
 - **Stoke-on-Trent › Staffordshire** (2): 
   - Port Vale FC  (1) Port Vale
   - Stoke City FC  (2) Stoke • Stoke City
+- **Telford › Shropshire** (2): 
+  - AFC Telford United (2004-)  (1) AFC Telford United
+  - Telford United FC (1872-2004)  (2) Telford United • Telford United FC
 - **Wigan › Greater Manchester** (2): 
   - Wigan Athletic FC  (2) Wigan • Wigan Athletic
   - Wigan Borough FC (1920-1931)  (2) Wigan Borough • Wigan Borough FC
@@ -3320,6 +3482,7 @@ York City FC                => (2) York • York City
 - **Blackpool › Lancashire** (1): Blackpool FC  (1) Blackpool
 - **Bolton › Greater Manchester** (1): Bolton Wanderers FC  (2) Bolton • Bolton Wanderers
 - **Bootle › Lancashire** (1): Bootle FC (1879-1893)  (2) Bootle • Bootle FC
+- **Borehamwood › Hertfordshire** (1): Boreham Wood FC  (1) Boreham Wood
 - **Boston › Lincolnshire** (1): Boston United FC  (2) Boston • Boston United
 - **Bournemouth › Dorset** (1): AFC Bournemouth  (1) Bournemouth
 - **Braintree › Essex** (1): Braintree Town FC  (1) Braintree Town
@@ -3342,9 +3505,11 @@ York City FC                => (2) York • York City
 - **Darwen › Lancashire** (1): Darwen FC (1870-2009)  (2) Darwen • Darwen FC
 - **Derby › Derbyshire** (1): Derby County FC  (2) Derby • Derby County
 - **Doncaster › South Yorkshire** (1): Doncaster Rovers FC  (2) Doncaster • Doncaster Rovers
+- **Dover › Kent** (1): Dover Athletic FC  (1) Dover Athletic
 - **Droylsden › Greater Manchester** (1): Droylsden FC  (1) Droylsden
 - **Durham › Durham** (1): Durham City AFC  (1) Durham City
 - **Eastbourne › East Sussex** (1): Eastbourne Borough FC  (1) Eastbourne Borough
+- **Eastleigh › Hampshire** (1): Eastleigh FC  (1) Eastleigh
 - **Exeter › Devon** (1): Exeter City FC  (2) Exeter • Exeter City
 - **Falmer › East Sussex** (1): Brighton & Hove Albion FC  (2) Brighton • Brighton & Hove Albion
 - **Farsley › West Yorkshire** (1): Farsley Celtic FC  (1) Farsley
@@ -3354,6 +3519,7 @@ York City FC                => (2) York • York City
 - **Gillingham › Kent** (1): Gillingham FC  (1) Gillingham
 - **Glossop › Derbyshire** (1): Glossop North End AFC  (1) Glossop North End
 - **Grays › Essex** (1): Grays Athletic FC  (1) Grays
+- **Guiseley › West Yorkshire** (1): Guiseley AFC  (1) Guiseley
 - **Halifax › West Yorkshire** (1): FC Halifax Town  (2) Halifax • Halifax Town
 - **Hartlepool › Durham** (1): Hartlepool United FC  (2) Hartlepool • Hartlepool United
 - **High Wycombe › Buckinghamshire** (1): Wycombe Wanderers FC  (2) Wycombe • Wycombe Wanderers
@@ -3370,6 +3536,7 @@ York City FC                => (2) York • York City
 - **Loughborough › Leicestershire** (1): Loughborough FC (1886-1900)  (2) Loughborough • Loughborough FC
 - **Luton › Bedfordshire** (1): Luton Town FC  (2) Luton • Luton Town
 - **Macclesfield › Cheshire** (1): Macclesfield Town FC  (1) Macclesfield
+- **Maidenhead › Berkshire** (1): Maidenhead United FC  (1) Maidenhead
 - **Maidstone › Kent** (1): Maidstone United FC  (2) Maidstone • Maidstone United
 - **Mansfield › Nottinghamshire** (1): Mansfield Town FC  (2) Mansfield • Mansfield Town
 - **Merthyr Tydfil** (1): Merthyr Town FC  (1) Merthyr Town
@@ -3380,6 +3547,7 @@ York City FC                => (2) York • York City
 - **New Brighton › Merseyside** (1): New Brighton Tower FC (1898-1901)  (3) New Brighton • New Brighton Tower • New Brighton Tower FC
 - **Newcastle upon Tyne › Northumberland** (1): Newcastle United FC  (2) Newcastle • Newcastle United
 - **Newport** (1): Newport County AFC  (1) Newport County
+- **North Ferriby › East Yorkshire** (1): North Ferriby United AFC  (1) North Ferriby
 - **Northampton › Northamptonshire** (1): Northampton Town FC  (2) Northampton • Northampton Town
 - **Northfleet › Kent** (1): Ebbsfleet United FC  (2) Ebbsfleet • Gravesend
 - **Northwich › Cheshire** (1): Northwich Victoria FC  (2) Northwich • Northwich Victoria
@@ -3399,6 +3567,7 @@ York City FC                => (2) York • York City
 - **Scarborough › North Yorkshire** (1): Scarborough Athletic FC  (1) Scarborough
 - **Scunthorpe › Lincolnshire** (1): Scunthorpe United FC  (2) Scunthorpe • Scunthorpe United
 - **Shrewsbury › Shropshire** (1): Shrewsbury Town FC  (2) Shrewsbury • Shrewsbury Town
+- **Solihull › West Midlands** (1): Solihull Moors FC  (1) Solihull
 - **South Shields › Tyne and Wear** (1): South Shields FC  (1) South Shields
 - **Southampton › Hampshire** (1): Southampton FC  (1) Southampton
 - **Southend-on-Sea › Essex** (1): Southend United FC  (2) Southend • Southend United
@@ -3412,10 +3581,10 @@ York City FC                => (2) York • York City
 - **Swansea** (1): Swansea City AFC  (2) Swansea • Swansea City
 - **Swindon › Wiltshire** (1): Swindon Town FC  (2) Swindon • Swindon Town
 - **Tamworth › Staffordshire** (1): Tamworth FC  (1) Tamworth
-- **Telford › Shropshire** (1): AFC Telford United (2004-)  (1) AFC Telford United
 - **Torquay › Devon** (1): Torquay United FC  (2) Torquay • Torquay United
 - **Walsall › West Midlands** (1): Walsall FC  (1) Walsall
 - **Watford › Hertfordshire** (1): Watford FC  (1) Watford
+- **Wesham › Lancashire** (1): AFC Fylde  (1) Fylde
 - **West Bridgford › Nottinghamshire** (1): Nottingham Forest FC  (2) Nott'm Forest • Nottingham Forest
 - **West Bromwich › West Midlands** (1): West Bromwich Albion FC  (2) West Brom • West Bromwich Albion
 - **Weymouth › Dorset** (1): Weymouth FC  (1) Weymouth
@@ -3431,317 +3600,338 @@ York City FC                => (2) York • York City
 
 ### Season
 
-- **AFC Bournemouth** - 86 seasons in 4 levels
-  - 1 (1): 2017-18
-  - 2 (4): 2013-14 1990...1987 (3)
+- **AFC Bournemouth** - 89 seasons in 4 levels
+  - 1 (3): 2018...2015 (3)
+  - 2 (5): 2015..2013 (2) 1990...1987 (3)
   - 3 (70): 2013...2010 (3) 2008.....2003 (5) 2002............1990 (12) 1987.....1982 (5) 1975....1971 (4) 1970........................1946 (24) 1940.................1923 (17)
   - 4 (11): 2010..2008 (2) 2002-03 1982.......1975 (7) 1970-71
-  - ⇑ (7) / ⇓ (5): 1  **?? 2016-17 ??** ⇑2 ⇑3 3 3 ⇑4 4 ⇓3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 ⇑3 3 3 3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - ⇑ (7) / ⇓ (5): 1 1 1 ⇑2 2 ⇑3 3 3 ⇑4 4 ⇓3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 ⇑3 3 3 3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **AFC Fylde** - 1 season in 1 level
+  - 5 (1): 2017-18
 - **AFC Rushden & Diamonds** - 10 seasons in 3 levels
   - 3 (1): 2003-04
   - 4 (4): 2006..2004 (2) 2003..2001 (2)
   - 5 (5): 2011.....2006 (5)
   - ⇑ (1) / ⇓ (2): 5 5 5 5 5 ⇓4 4 ⇓3 ⇑4 4 
-- **AFC Telford United (2004-)** - 2 seasons in 1 level
-  - 5 (2): 2013..2011 (2)
-- **AFC Wimbledon** - 5 seasons in 2 levels
-  - 4 (3): 2014...2011 (3)
+- **AFC Telford United (2004-)** - 1 season in 1 level
+  - 5 (1): 2011-12
+- **AFC Wimbledon** - 9 seasons in 3 levels
+  - 3 (2): 2018..2016 (2)
+  - 4 (5): 2016.....2011 (5)
   - 5 (2): 2011..2009 (2)
-  - ⇑ (1): 4 4 4 ⇑5 5 
+  - ⇑ (2): 3 3 ⇑4 4 4 4 4 ⇑5 5 
 - **Aberdare Athletic FC (1893-1928)** - 6 seasons in 1 level
   - 3 (6): 1927......1921 (6)
 - **Accrington FC (1878-1896)** - 5 seasons in 1 level
   - 1 (5): 1893.....1888 (5)
-- **Accrington Stanley FC** - 44 seasons in 3 levels
+- **Accrington Stanley FC** - 48 seasons in 3 levels
   - 3 (33): 1960..............1946 (14) 1940...................1921 (19)
-  - 4 (10): 2014........2006 (8) 1962..1960 (2)
+  - 4 (14): 2018............2006 (12) 1962..1960 (2)
   - 5 (1): 2005-06
-  - ⇑ (1) / ⇓ (2): 4 4 4 4 4 4 4 4 ⇑5  **?? 2004-05 ??** ⇓4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Aldershot Town FC** - 62 seasons in 3 levels
+  - ⇑ (1) / ⇓ (2): 4 4 4 4 4 4 4 4 4 4 4 4 ⇑5  **?? 2004-05 ??** ⇓4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Aldershot Town FC** - 66 seasons in 3 levels
   - 3 (25): 1989..1987 (2) 1976...1973 (3) 1958............1946 (12) 1940........1932 (8)
   - 4 (33): 2013.....2008 (5) 1991..1989 (2) 1987...........1976 (11) 1973...............1958 (15)
-  - 5 (4): 2013-14 2008...2005 (3)
-  - ⇑ (3) / ⇓ (5): 5 ⇓4 4 4 4 4 ⇑5 5 5  **?? 2004-05 ??** ⇓4 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 
-- **Alfreton Town FC** - 3 seasons in 1 level
-  - 5 (3): 2014...2011 (3)
-- **Altrincham FC** - 6 seasons in 1 level
-  - 5 (6): 2011......2005 (6)
-- **Arsenal FC** - 112 seasons in 2 levels
-  - 1 (99): 2017-18 2014....................................................................1946 (68) 1940.....................1919 (21) 1913.........1904 (9)
+  - 5 (8): 2018.....2013 (5) 2008...2005 (3)
+  - ⇑ (3) / ⇓ (5): 5 5 5 5 5 ⇓4 4 4 4 4 ⇑5 5 5  **?? 2004-05 ??** ⇓4 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 
+- **Alfreton Town FC** - 4 seasons in 1 level
+  - 5 (4): 2015....2011 (4)
+- **Altrincham FC** - 8 seasons in 1 level
+  - 5 (8): 2016..2014 (2) 2011......2005 (6)
+- **Arsenal FC** - 115 seasons in 2 levels
+  - 1 (102): 2018........................................................................1946 (72) 1940.....................1919 (21) 1913.........1904 (9)
   - 2 (13): 1915..1913 (2) 1904...........1893 (11)
-  - ⇑ (2) / ⇓ (1): 1  **?? 2016-17 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 
+  - ⇑ (2) / ⇓ (1): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 
 - **Ashington AFC** - 8 seasons in 1 level
   - 3 (8): 1929........1921 (8)
-- **Aston Villa FC** - 116 seasons in 3 levels
-  - 1 (104): 2014..........................1988 (26) 1987............1975 (12) 1967.......1960 (7) 1959.............1946 (13) 1940..1938 (2) 1936.................1919 (17) 1915...........................1888 (27)
-  - 2 (10): 1987-88 1975...1972 (3) 1970...1967 (3) 1959-60 1938..1936 (2)
+- **Aston Villa FC** - 120 seasons in 3 levels
+  - 1 (106): 2016............................1988 (28) 1987............1975 (12) 1967.......1960 (7) 1959.............1946 (13) 1940..1938 (2) 1936.................1919 (17) 1915...........................1888 (27)
+  - 2 (12): 2018..2016 (2) 1987-88 1975...1972 (3) 1970...1967 (3) 1959-60 1938..1936 (2)
   - 3 (2): 1972..1970 (2)
-  - ⇑ (5) / ⇓ (5): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇑3 3 ⇓2 2 2 ⇓1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-- **Barnet FC** - 18 seasons in 3 levels
+  - ⇑ (5) / ⇓ (6): 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇑3 3 ⇓2 2 2 ⇓1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+- **Barnet FC** - 22 seasons in 3 levels
   - 3 (1): 1993-94
-  - 4 (16): 2013........2005 (8) 2001.......1994 (7) 1991-92
-  - 5 (1): 2013-14
-  - ⇑ (1) / ⇓ (2): 5 ⇓4 4 4 4 4 4 4 4  **?? 2004-05 ??** 4 4 4 4 4 4 4 ⇓3  **?? 1992-93 ??** ⇑4 
-- **Barnsley FC** - 106 seasons in 4 levels
+  - 4 (19): 2018...2015 (3) 2013........2005 (8) 2001.......1994 (7) 1991-92
+  - 5 (2): 2015..2013 (2)
+  - ⇑ (2) / ⇓ (2): 4 4 4 ⇑5 5 ⇓4 4 4 4 4 4 4 4  **?? 2004-05 ??** 4 4 4 4 4 4 4 ⇓3  **?? 1992-93 ??** ⇑4 
+- **Barnsley FC** - 110 seasons in 4 levels
   - 1 (1): 1997-98
-  - 2 (74): 2014........2006 (8) 2002....1998 (4) 1997................1981 (16) 1959....1955 (4) 1953.......1946 (7) 1939-40 1938....1934 (4) 1932.............1919 (13) 1915.................1898 (17)
-  - 3 (21): 2006....2002 (4) 1981..1979 (2) 1972....1968 (4) 1965......1959 (6) 1955..1953 (2) 1938-39 1934..1932 (2)
+  - 2 (76): 2018..2016 (2) 2014........2006 (8) 2002....1998 (4) 1997................1981 (16) 1959....1955 (4) 1953.......1946 (7) 1939-40 1938....1934 (4) 1932.............1919 (13) 1915.................1898 (17)
+  - 3 (23): 2016..2014 (2) 2006....2002 (4) 1981..1979 (2) 1972....1968 (4) 1965......1959 (6) 1955..1953 (2) 1938-39 1934..1932 (2)
   - 4 (10): 1979.......1972 (7) 1968...1965 (3)
-  - ⇑ (8) / ⇓ (8): 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2  **?? 1945-46 ??** 2 ⇑3 ⇓2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
-- **Barrow AFC** - 50 seasons in 3 levels
+  - ⇑ (9) / ⇓ (9): 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2  **?? 1945-46 ??** 2 ⇑3 ⇓2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+- **Barrow AFC** - 53 seasons in 3 levels
   - 3 (34): 1970...1967 (3) 1958............1946 (12) 1940...................1921 (19)
   - 4 (11): 1972..1970 (2) 1967.........1958 (9)
-  - 5 (5): 2013.....2008 (5)
-  - ⇑ (1) / ⇓ (3): 5 5 5 5 5  **?? 2007-08 ??** ⇓4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - 5 (8): 2018...2015 (3) 2013.....2008 (5)
+  - ⇑ (1) / ⇓ (3): 5 5 5  **?? 2014-15 ??** 5 5 5 5 5  **?? 2007-08 ??** ⇓4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **Bath City FC** - 2 seasons in 1 level
   - 5 (2): 2012..2010 (2)
-- **Birmingham City FC** - 112 seasons in 3 levels
+- **Birmingham City FC** - 116 seasons in 3 levels
   - 1 (57): 2011..2009 (2) 2007-08 2006....2002 (4) 1985-86 1984....1980 (4) 1979.......1972 (7) 1965..........1955 (10) 1950..1948 (2) 1939..................1921 (18) 1908.....1903 (5) 1901-02 1896..1894 (2)
-  - 2 (51): 2014...2011 (3) 2008-09 2006-07 2002.......1995 (7) 1994..1992 (2) 1989...1986 (3) 1984-85 1979-80 1972.......1965 (7) 1955.....1950 (5) 1948..1946 (2) 1939-40 1921..1919 (2) 1915.......1908 (7) 1902-03 1901.....1896 (5) 1894..1892 (2)
+  - 2 (55): 2018.......2011 (7) 2008-09 2006-07 2002.......1995 (7) 1994..1992 (2) 1989...1986 (3) 1984-85 1979-80 1972.......1965 (7) 1955.....1950 (5) 1948..1946 (2) 1939-40 1921..1919 (2) 1915.......1908 (7) 1902-03 1901.....1896 (5) 1894..1892 (2)
   - 3 (4): 1994-95 1992...1989 (3)
-  - ⇑ (14) / ⇓ (14): 2 2 2 ⇓1 1 ⇑2 ⇓1 ⇑2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 ⇑3 ⇓2 2 ⇑3 3 3 ⇓2 2 2 ⇓1 ⇑2 ⇓1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 ⇑2 2  **?? 1945-46 ??** 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 ⇓1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 ⇓1 1 ⇑2 2 
-- **Blackburn Rovers FC** - 116 seasons in 3 levels
+  - ⇑ (14) / ⇓ (14): 2 2 2 2 2 2 2 ⇓1 1 ⇑2 ⇓1 ⇑2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 ⇑3 ⇓2 2 ⇑3 3 3 ⇓2 2 2 ⇓1 ⇑2 ⇓1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 ⇑2 2  **?? 1945-46 ??** 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 ⇓1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 ⇓1 1 ⇑2 2 
+- **Blackburn Rovers FC** - 120 seasons in 3 levels
   - 1 (73): 2012...........2001 (11) 1999.......1992 (7) 1966........1958 (8) 1948..1946 (2) 1939-40 1936.................1919 (17) 1915...........................1888 (27)
-  - 2 (38): 2014..2012 (2) 2001..1999 (2) 1992............1980 (12) 1979....1975 (4) 1971.....1966 (5) 1958..........1948 (10) 1939...1936 (3)
-  - 3 (5): 1979-80 1975....1971 (4)
-  - ⇑ (6) / ⇓ (7): 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 ⇓2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 ⇓1 1  **?? 1945-46 ??** 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-- **Blackpool FC** - 107 seasons in 4 levels
+  - 2 (41): 2017.....2012 (5) 2001..1999 (2) 1992............1980 (12) 1979....1975 (4) 1971.....1966 (5) 1958..........1948 (10) 1939...1936 (3)
+  - 3 (6): 2017-18 1979-80 1975....1971 (4)
+  - ⇑ (6) / ⇓ (8): 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 ⇓2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 ⇓1 1  **?? 1945-46 ??** 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+- **Blackpool FC** - 111 seasons in 4 levels
   - 1 (29): 2010-11 1970-71 1967.....................1946 (21) 1940...1937 (3) 1933...1930 (3)
-  - 2 (49): 2014...2011 (3) 2010...2007 (3) 1978.......1971 (7) 1970...1967 (3) 1937....1933 (4) 1930...........1919 (11) 1915...............1900 (15) 1899...1896 (3)
-  - 3 (22): 2007......2001 (6) 2000........1992 (8) 1990.....1985 (5) 1981...1978 (3)
-  - 4 (7): 2000-01 1992..1990 (2) 1985....1981 (4)
-  - ⇑ (8) / ⇓ (8): 2 2 2 ⇓1 ⇑2 2 2 ⇑3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 ⇓2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 ⇑2 2 2 2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2  **?? 1899-00 ??** 2 2 2 
-- **Bolton Wanderers FC** - 116 seasons in 4 levels
+  - 2 (50): 2015....2011 (4) 2010...2007 (3) 1978.......1971 (7) 1970...1967 (3) 1937....1933 (4) 1930...........1919 (11) 1915...............1900 (15) 1899...1896 (3)
+  - 3 (24): 2017-18 2015-16 2007......2001 (6) 2000........1992 (8) 1990.....1985 (5) 1981...1978 (3)
+  - 4 (8): 2016-17 2000-01 1992..1990 (2) 1985....1981 (4)
+  - ⇑ (9) / ⇓ (10): 3 ⇑4 ⇓3 ⇓2 2 2 2 ⇓1 ⇑2 2 2 ⇑3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 ⇓2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 ⇑2 2 2 2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2  **?? 1899-00 ??** 2 2 2 
+- **Bolton Wanderers FC** - 120 seasons in 4 levels
   - 1 (74): 2012...........2001 (11) 1997-98 1995-96 1980..1978 (2) 1964..................1946 (18) 1940.....1935 (5) 1933..............1919 (14) 1915....1911 (4) 1909-10 1908...1905 (3) 1903...1900 (3) 1899...........1888 (11)
-  - 2 (30): 2014..2012 (2) 2001...1998 (3) 1996-97 1995..1993 (2) 1983...1980 (3) 1978.....1973 (5) 1971.......1964 (7) 1935..1933 (2) 1910-11 1908-09 1905..1903 (2) 1899-00
-  - 3 (11): 1993.....1988 (5) 1987....1983 (4) 1973..1971 (2)
+  - 2 (33): 2017-18 2016....2012 (4) 2001...1998 (3) 1996-97 1995..1993 (2) 1983...1980 (3) 1978.....1973 (5) 1971.......1964 (7) 1935..1933 (2) 1910-11 1908-09 1905..1903 (2) 1899-00
+  - 3 (12): 2016-17 1993.....1988 (5) 1987....1983 (4) 1973..1971 (2)
   - 4 (1): 1987-88
-  - ⇑ (12) / ⇓ (13): 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 ⇑2 ⇓1 ⇑2 2 ⇑3 3 3 3 3 ⇑4 ⇓3 3 3 3 ⇓2 2 2 ⇓1 1 ⇑2 2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 ⇑2 ⇓1 ⇑2 ⇓1 1 1 ⇑2 2 ⇓1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 
+  - ⇑ (13) / ⇓ (14): 2 ⇑3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 ⇑2 ⇓1 ⇑2 2 ⇑3 3 3 3 3 ⇑4 ⇓3 3 3 3 ⇓2 2 2 ⇓1 1 ⇑2 2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 ⇑2 ⇓1 ⇑2 ⇓1 1 1 ⇑2 2 ⇓1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 
 - **Bootle FC (1879-1893)** - 1 season in 1 level
   - 2 (1): 1892-93
+- **Boreham Wood FC** - 3 seasons in 1 level
+  - 5 (3): 2018...2015 (3)
 - **Boston United FC** - 5 seasons in 1 level
   - 4 (5): 2007.....2002 (5)
-- **Bradford City AFC** - 101 seasons in 4 levels
+- **Bradford City AFC** - 105 seasons in 4 levels
   - 1 (12): 2001..1999 (2) 1922...1919 (3) 1915.......1908 (7)
   - 2 (29): 2004...2001 (3) 1999...1996 (3) 1990.....1985 (5) 1937........1929 (8) 1927.....1922 (5) 1908.....1903 (5)
-  - 3 (37): 2013-14 2007...2004 (3) 1996......1990 (6) 1985...1982 (3) 1977-78 1972...1969 (3) 1961...............1946 (15) 1940...1937 (3) 1929..1927 (2)
+  - 3 (41): 2018.....2013 (5) 2007...2004 (3) 1996......1990 (6) 1985...1982 (3) 1977-78 1972...1969 (3) 1961...............1946 (15) 1940...1937 (3) 1929..1927 (2)
   - 4 (23): 2013......2007 (6) 1982....1978 (4) 1977.....1972 (5) 1969........1961 (8)
-  - ⇑ (9) / ⇓ (10): 3 ⇑4 4 4 4 4 4 ⇓3 3 3 ⇓2 2 2 ⇓1 1 ⇑2 2 2 ⇑3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 ⇑4 4 4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 ⇓1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 ⇑2 2 2 2 2 
+  - ⇑ (9) / ⇓ (10): 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 ⇓2 2 2 ⇓1 1 ⇑2 2 2 ⇑3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 ⇑4 4 4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 ⇓1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 ⇑2 2 2 2 2 
 - **Bradford Park Avenue AFC** - 52 seasons in 4 levels
   - 1 (3): 1921..1919 (2) 1914-15
   - 2 (23): 1950....1946 (4) 1940............1928 (12) 1921-22 1914......1908 (6)
   - 3 (16): 1963..1961 (2) 1958........1950 (8) 1928......1922 (6)
   - 4 (10): 1970.......1963 (7) 1961...1958 (3)
   - ⇑ (3) / ⇓ (5): 4 4 4 4 4 4 4 ⇓3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 ⇓2 ⇓1 1  **?? 1918-19 ??** 1 ⇑2 2 2 2 2 2 
-- **Braintree Town FC** - 3 seasons in 1 level
-  - 5 (3): 2014...2011 (3)
-- **Brentford FC** - 88 seasons in 4 levels
+- **Braintree Town FC** - 6 seasons in 1 level
+  - 5 (6): 2017......2011 (6)
+- **Brentford FC** - 92 seasons in 4 levels
   - 1 (6): 1946-47 1940.....1935 (5)
-  - 2 (10): 1992-93 1954.......1947 (7) 1935..1933 (2)
+  - 2 (14): 2018....2014 (4) 1992-93 1954.......1947 (7) 1935..1933 (2)
   - 3 (57): 2014.....2009 (5) 2007........1999 (8) 1998.....1993 (5) 1992..............1978 (14) 1972-73 1966...1963 (3) 1962........1954 (8) 1933.............1920 (13)
   - 4 (15): 2009..2007 (2) 1998-99 1978.....1973 (5) 1972......1966 (6) 1962-63
-  - ⇑ (8) / ⇓ (8): 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 ⇓2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 ⇓3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 ⇓1  **?? 1945-46 ??** 1 1 1 1 1 ⇑2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Brighton & Hove Albion FC** - 89 seasons in 4 levels
+  - ⇑ (9) / ⇓ (8): 2 2 2 2 ⇑3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 ⇓2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 ⇓3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 ⇓1  **?? 1945-46 ??** 1 1 1 1 1 ⇑2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Brighton & Hove Albion FC** - 92 seasons in 4 levels
   - 1 (5): 2017-18 1983....1979 (4)
-  - 2 (21): 2014...2011 (3) 2006..2004 (2) 2002-03 1992....1988 (4) 1987....1983 (4) 1979..1977 (2) 1972-73 1962....1958 (4)
+  - 2 (24): 2017......2011 (6) 2006..2004 (2) 2002-03 1992....1988 (4) 1987....1983 (4) 1979..1977 (2) 1972-73 1962....1958 (4)
   - 3 (56): 2011.....2006 (5) 2003-04 2001-02 1996....1992 (4) 1987-88 1977....1973 (4) 1972.......1965 (7) 1962-63 1958............1946 (12) 1940....................1920 (20)
   - 4 (7): 2001.....1996 (5) 1965..1963 (2)
-  - ⇑ (11) / ⇓ (9): 1  **?? 2016-17 ??** ⇑2 2 2 ⇑3 3 3 3 3 ⇓2 2 ⇑3 ⇓2 ⇑3 ⇑4 4 4 4 4 ⇓3 3 3 3 ⇓2 2 2 2 ⇑3 ⇓2 2 2 2 ⇓1 1 1 1 ⇑2 2 ⇑3 3 3 3 ⇓2 ⇑3 3 3 3 3 3 3 ⇑4 4 ⇓3 ⇓2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Bristol City FC** - 103 seasons in 4 levels
+  - ⇑ (11) / ⇓ (9): 1 ⇑2 2 2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 ⇑3 ⇓2 ⇑3 ⇑4 4 4 4 4 ⇓3 3 3 3 ⇓2 2 2 2 ⇑3 ⇓2 2 2 2 ⇓1 1 1 1 ⇑2 2 ⇑3 3 3 3 ⇓2 ⇑3 3 3 3 3 3 3 ⇑4 4 ⇓3 ⇓2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Bristol City FC** - 107 seasons in 4 levels
   - 1 (9): 1980....1976 (4) 1911.....1906 (5)
-  - 2 (47): 2013......2007 (6) 1998-99 1995.....1990 (5) 1980-81 1976...........1965 (11) 1960.....1955 (5) 1932.....1927 (5) 1923-24 1922...1919 (3) 1915....1911 (4) 1906.....1901 (5)
-  - 3 (45): 2013-14 2007........1999 (8) 1998...1995 (3) 1990......1984 (6) 1981-82 1965.....1960 (5) 1955.........1946 (9) 1940........1932 (8) 1927...1924 (3) 1922-23
+  - 2 (50): 2018...2015 (3) 2013......2007 (6) 1998-99 1995.....1990 (5) 1980-81 1976...........1965 (11) 1960.....1955 (5) 1932.....1927 (5) 1923-24 1922...1919 (3) 1915....1911 (4) 1906.....1901 (5)
+  - 3 (46): 2015..2013 (2) 2007........1999 (8) 1998...1995 (3) 1990......1984 (6) 1981-82 1965.....1960 (5) 1955.........1946 (9) 1940........1932 (8) 1927...1924 (3) 1922-23
   - 4 (2): 1984..1982 (2)
-  - ⇑ (10) / ⇓ (11): 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 ⇓2 ⇑3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 ⇑4 4 ⇓3 ⇓2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 ⇓2 ⇑3 ⇓2 2 2  **?? 1918-19 ??** 2 2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2 
-- **Bristol Rovers FC** - 88 seasons in 3 levels
+  - ⇑ (11) / ⇓ (11): 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 ⇓2 ⇑3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 ⇑4 4 ⇓3 ⇓2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 ⇓2 ⇑3 ⇓2 2 2  **?? 1918-19 ??** 2 2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2 
+- **Bristol Rovers FC** - 92 seasons in 4 levels
   - 2 (19): 1993...1990 (3) 1981.......1974 (7) 1962.........1953 (9)
-  - 3 (60): 2011....2007 (4) 2001........1993 (8) 1990.........1981 (9) 1974............1962 (12) 1953.......1946 (7) 1940....................1920 (20)
-  - 4 (9): 2014...2011 (3) 2007......2001 (6)
-  - ⇑ (4) / ⇓ (5): 4 4 4 ⇓3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 ⇑3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Burnley FC** - 117 seasons in 4 levels
-  - 1 (53): 2017-18 2009-10 1976...1973 (3) 1971........................1947 (24) 1930...........1919 (11) 1915..1913 (2) 1900..1898 (2) 1897.........1888 (9)
-  - 2 (46): 2014....2010 (4) 2009.........2000 (9) 1994-95 1982-83 1980....1976 (4) 1973..1971 (2) 1946-47 1940..........1930 (10) 1913.............1900 (13) 1897-98
+  - 3 (62): 2018..2016 (2) 2011....2007 (4) 2001........1993 (8) 1990.........1981 (9) 1974............1962 (12) 1953.......1946 (7) 1940....................1920 (20)
+  - 4 (10): 2015-16 2014...2011 (3) 2007......2001 (6)
+  - 5 (1): 2014-15
+  - ⇑ (6) / ⇓ (6): 3 3 ⇑4 ⇑5 ⇓4 4 4 ⇓3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 ⇑3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Bromley FC** - 3 seasons in 1 level
+  - 5 (3): 2018...2015 (3)
+- **Burnley FC** - 120 seasons in 4 levels
+  - 1 (55): 2018..2016 (2) 2014-15 2009-10 1976...1973 (3) 1971........................1947 (24) 1930...........1919 (11) 1915..1913 (2) 1900..1898 (2) 1897.........1888 (9)
+  - 2 (47): 2015-16 2014....2010 (4) 2009.........2000 (9) 1994-95 1982-83 1980....1976 (4) 1973..1971 (2) 1946-47 1940..........1930 (10) 1913.............1900 (13) 1897-98
   - 3 (11): 2000.....1995 (5) 1994..1992 (2) 1985..1983 (2) 1982..1980 (2)
   - 4 (7): 1992.......1985 (7)
-  - ⇑ (10) / ⇓ (10): 1  **?? 2016-17 ??** ⇑2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 ⇓2 ⇑3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 ⇓2 ⇑3 3 ⇓2 2 2 2 ⇓1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 
-- **Burton Albion FC** - 9 seasons in 2 levels
-  - 4 (5): 2014.....2009 (5)
+  - ⇑ (11) / ⇓ (11): 1 1 ⇑2 ⇓1 ⇑2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 ⇓2 ⇑3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 ⇓2 ⇑3 3 ⇓2 2 2 2 ⇓1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 
+- **Burton Albion FC** - 13 seasons in 4 levels
+  - 2 (2): 2018..2016 (2)
+  - 3 (1): 2015-16
+  - 4 (6): 2015......2009 (6)
   - 5 (4): 2009....2005 (4)
-  - ⇑ (1): 4 4 4 4 4 ⇑5 5 5 5 
+  - ⇑ (3): 2 2 ⇑3 ⇑4 4 4 4 4 4 ⇑5 5 5 5 
 - **Burton Swifts FC (1871-1901)** - 9 seasons in 1 level
   - 2 (9): 1901.........1892 (9)
 - **Burton United FC (1901-1910)** - 6 seasons in 1 level
   - 2 (6): 1907......1901 (6)
 - **Burton Wanderers FC (1871-1901)** - 3 seasons in 1 level
   - 2 (3): 1897...1894 (3)
-- **Bury FC** - 109 seasons in 4 levels
+- **Bury FC** - 113 seasons in 4 levels
   - 1 (22): 1929.....1924 (5) 1912.................1895 (17)
   - 2 (40): 1999..1997 (2) 1968-69 1967......1961 (6) 1957...........1946 (11) 1940...........1929 (11) 1924.....1919 (5) 1915...1912 (3) 1894-95
-  - 3 (26): 2013..2011 (2) 2002...1999 (3) 1996-97 1992.......1985 (7) 1980......1974 (6) 1971..1969 (2) 1967-68 1961....1957 (4)
-  - 4 (21): 2013-14 2011.........2002 (9) 1996...1993 (3) 1985.....1980 (5) 1974...1971 (3)
-  - ⇑ (9) / ⇓ (11): 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇓2 2 ⇑3 ⇑4 4 4  **?? 1992-93 ??** ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 4 4 ⇓3 3 ⇓2 ⇑3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2  **?? 1918-19 ??** 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 
-- **Cambridge United FC** - 44 seasons in 4 levels
+  - 3 (29): 2018...2015 (3) 2013..2011 (2) 2002...1999 (3) 1996-97 1992.......1985 (7) 1980......1974 (6) 1971..1969 (2) 1967-68 1961....1957 (4)
+  - 4 (22): 2015..2013 (2) 2011.........2002 (9) 1996...1993 (3) 1985.....1980 (5) 1974...1971 (3)
+  - ⇑ (10) / ⇓ (11): 3 3 3 ⇑4 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇓2 2 ⇑3 ⇑4 4 4  **?? 1992-93 ??** ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 4 4 ⇓3 3 ⇓2 ⇑3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2  **?? 1918-19 ??** 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 
+- **Cambridge United FC** - 48 seasons in 4 levels
   - 2 (8): 1993..1991 (2) 1984......1978 (6)
   - 3 (9): 2002...1999 (3) 1995..1993 (2) 1990-91 1984-85 1977-78 1973-74
-  - 4 (18): 2005...2002 (3) 1999....1995 (4) 1990.....1985 (5) 1977...1974 (3) 1973...1970 (3)
+  - 4 (22): 2018....2014 (4) 2005...2002 (3) 1999....1995 (4) 1990.....1985 (5) 1977...1974 (3) 1973...1970 (3)
   - 5 (9): 2014.........2005 (9)
-  - ⇑ (6) / ⇓ (7): 5 5 5 5 5 5 5 5 5 ⇓4 4 4 ⇓3 3 3 ⇑4 4 4 4 ⇓3 3 ⇓2 2 ⇑3 ⇑4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 ⇑3 ⇑4 4 4 ⇓3 ⇑4 4 4 
+  - ⇑ (7) / ⇓ (7): 4 4 4 4 ⇑5 5 5 5 5 5 5 5 5 ⇓4 4 4 ⇓3 3 3 ⇑4 4 4 4 ⇓3 3 ⇓2 2 ⇑3 ⇑4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 ⇑3 ⇑4 4 4 ⇓3 ⇑4 4 4 
 - **Canvey Island FC** - 1 season in 1 level
   - 5 (1): 2005-06
-- **Cardiff City FC** - 87 seasons in 4 levels
+- **Cardiff City FC** - 91 seasons in 4 levels
   - 1 (16): 2013-14 1962..1960 (2) 1957.....1952 (5) 1929........1921 (8)
-  - 2 (42): 2013..........2003 (10) 1985..1983 (2) 1982......1976 (6) 1975.............1962 (13) 1960...1957 (3) 1952.....1947 (5) 1931..1929 (2) 1920-21
+  - 2 (46): 2018....2014 (4) 2013..........2003 (10) 1985..1983 (2) 1982......1976 (6) 1975.............1962 (13) 1960...1957 (3) 1952.....1947 (5) 1931..1929 (2) 1920-21
   - 3 (20): 2003..2001 (2) 1999-00 1995..1993 (2) 1990..1988 (2) 1985-86 1982-83 1975-76 1946-47 1940.........1931 (9)
   - 4 (9): 2000-01 1999....1995 (4) 1992..1990 (2) 1988..1986 (2)
-  - ⇑ (12) / ⇓ (11): 1 ⇑2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇑4 ⇓3 ⇑4 4 4 4 ⇓3 3  **?? 1992-93 ??** ⇑4 4 ⇓3 3 ⇑4 4 ⇓3 ⇓2 2 ⇑3 ⇓2 2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2 ⇑3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 ⇓2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 
-- **Carlisle United FC** - 78 seasons in 4 levels
+  - ⇑ (12) / ⇓ (12): 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇑4 ⇓3 ⇑4 4 4 4 ⇓3 3  **?? 1992-93 ??** ⇑4 4 ⇓3 3 ⇑4 4 ⇓3 ⇓2 2 ⇑3 ⇓2 2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2 ⇑3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 ⇓2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 
+- **Carlisle United FC** - 82 seasons in 4 levels
   - 1 (1): 1974-75
   - 2 (15): 1986....1982 (4) 1977..1975 (2) 1974.........1965 (9)
   - 3 (42): 2014........2006 (8) 1997-98 1995-96 1986-87 1982.....1977 (5) 1964-65 1962-63 1958............1946 (12) 1940............1928 (12)
-  - 4 (20): 2005-06 2004......1998 (6) 1996-97 1995..1993 (2) 1992.....1987 (5) 1963-64 1962....1958 (4)
-  - ⇑ (8) / ⇓ (8): 3 3 3 3 3 3 3 3 ⇑4  **?? 2004-05 ??** 4 4 4 4 4 4 ⇓3 ⇑4 ⇓3 ⇑4 4  **?? 1992-93 ??** 4 4 4 4 4 ⇓3 ⇓2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 ⇑3 ⇑4 ⇓3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Charlton Athletic FC** - 87 seasons in 3 levels
+  - 4 (24): 2018....2014 (4) 2005-06 2004......1998 (6) 1996-97 1995..1993 (2) 1992.....1987 (5) 1963-64 1962....1958 (4)
+  - ⇑ (8) / ⇓ (9): 4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇑4  **?? 2004-05 ??** 4 4 4 4 4 4 ⇓3 ⇑4 ⇓3 ⇑4 4  **?? 1992-93 ??** 4 4 4 4 4 ⇓3 ⇓2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 ⇑3 ⇑4 ⇓3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Charlton Athletic FC** - 91 seasons in 3 levels
   - 1 (27): 2007.......2000 (7) 1998-99 1990....1986 (4) 1957...........1946 (11) 1940....1936 (4)
-  - 2 (43): 2014..2012 (2) 2009..2007 (2) 1999-00 1998........1990 (8) 1986.....1981 (5) 1980.....1975 (5) 1972...............1957 (15) 1935-36 1933....1929 (4)
-  - 3 (17): 2012...2009 (3) 1980-81 1975...1972 (3) 1935..1933 (2) 1929........1921 (8)
-  - ⇑ (9) / ⇓ (8): 2 2 ⇑3 3 3 ⇓2 2 ⇓1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 1 1 ⇑2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 ⇑2 ⇑3 3 ⇓2 2 2 2 ⇑3 3 3 3 3 3 3 3 
-- **Chelsea FC** - 100 seasons in 2 levels
-  - 1 (81): 2017-18 2014.........................1989 (25) 1988....1984 (4) 1979..1977 (2) 1975............1963 (12) 1962................1946 (16) 1940..........1930 (10) 1924.....1919 (5) 1915...1912 (3) 1910...1907 (3)
+  - 2 (45): 2016....2012 (4) 2009..2007 (2) 1999-00 1998........1990 (8) 1986.....1981 (5) 1980.....1975 (5) 1972...............1957 (15) 1935-36 1933....1929 (4)
+  - 3 (19): 2018..2016 (2) 2012...2009 (3) 1980-81 1975...1972 (3) 1935..1933 (2) 1929........1921 (8)
+  - ⇑ (9) / ⇓ (9): 3 3 ⇓2 2 2 2 ⇑3 3 3 ⇓2 2 ⇓1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 1 1 ⇑2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 ⇑2 ⇑3 3 ⇓2 2 2 2 ⇑3 3 3 3 3 3 3 3 
+- **Chelsea FC** - 103 seasons in 2 levels
+  - 1 (84): 2018.............................1989 (29) 1988....1984 (4) 1979..1977 (2) 1975............1963 (12) 1962................1946 (16) 1940..........1930 (10) 1924.....1919 (5) 1915...1912 (3) 1910...1907 (3)
   - 2 (19): 1988-89 1984.....1979 (5) 1977..1975 (2) 1962-63 1930......1924 (6) 1912..1910 (2) 1907..1905 (2)
-  - ⇑ (7) / ⇓ (6): 1  **?? 2016-17 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1  **?? 1918-19 ??** 1 1 1 ⇑2 2 ⇓1 1 1 ⇑2 2 
-- **Cheltenham Town FC** - 15 seasons in 2 levels
+  - ⇑ (7) / ⇓ (6): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1  **?? 1918-19 ??** 1 1 1 ⇑2 2 ⇓1 1 1 ⇑2 2 
+- **Cheltenham Town FC** - 19 seasons in 3 levels
   - 3 (4): 2009...2006 (3) 2002-03
-  - 4 (11): 2014.....2009 (5) 2006...2003 (3) 2002...1999 (3)
-  - ⇑ (2) / ⇓ (2): 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 ⇓3 ⇑4 4 4 
-- **Chester FC** - 69 seasons in 3 levels
+  - 4 (14): 2018..2016 (2) 2015......2009 (6) 2006...2003 (3) 2002...1999 (3)
+  - 5 (1): 2015-16
+  - ⇑ (3) / ⇓ (3): 4 4 ⇑5 ⇓4 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 ⇓3 ⇑4 4 4 
+- **Chester FC** - 73 seasons in 3 levels
   - 3 (36): 1994-95 1993.......1986 (7) 1982.......1975 (7) 1958............1946 (12) 1940.........1931 (9)
   - 4 (32): 2009.....2004 (5) 2000.....1995 (5) 1993-94 1986....1982 (4) 1975.................1958 (17)
-  - 5 (1): 2013-14
-  - ⇑ (3) / ⇓ (5): 5  **?? 2012-13 ??** ⇓4 4 4 4 4  **?? 2003-04 ??** 4 4 4 4 4 ⇓3 ⇑4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 
-- **Chesterfield FC** - 96 seasons in 3 levels
+  - 5 (5): 2018.....2013 (5)
+  - ⇑ (3) / ⇓ (5): 5 5 5 5 5  **?? 2012-13 ??** ⇓4 4 4 4 4  **?? 2003-04 ??** 4 4 4 4 4 ⇓3 ⇑4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 
+- **Chesterfield FC** - 100 seasons in 3 levels
   - 2 (21): 1951.....1946 (5) 1940....1936 (4) 1933..1931 (2) 1909..........1899 (10)
-  - 3 (52): 2011-12 2007......2001 (6) 2000.....1995 (5) 1989....1985 (4) 1983.............1970 (13) 1961..........1951 (10) 1936...1933 (3) 1931..........1921 (10)
-  - 4 (23): 2014..2012 (2) 2011....2007 (4) 2000-01 1995..1993 (2) 1992...1989 (3) 1985..1983 (2) 1970.........1961 (9)
-  - ⇑ (7) / ⇓ (9): 4 4 ⇓3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 ⇑4 4  **?? 1992-93 ??** 4 4 4 ⇓3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 ⇑3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 3 3  **?? 1920-21 ??** ⇓2 2 2 2 2 2 2 2 2 2 
-- **Colchester United FC** - 61 seasons in 3 levels
+  - 3 (55): 2017...2014 (3) 2011-12 2007......2001 (6) 2000.....1995 (5) 1989....1985 (4) 1983.............1970 (13) 1961..........1951 (10) 1936...1933 (3) 1931..........1921 (10)
+  - 4 (24): 2017-18 2014..2012 (2) 2011....2007 (4) 2000-01 1995..1993 (2) 1992...1989 (3) 1985..1983 (2) 1970.........1961 (9)
+  - ⇑ (8) / ⇓ (10): 4 ⇓3 3 3 ⇑4 4 ⇓3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 ⇑4 4  **?? 1992-93 ??** 4 4 4 ⇓3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 ⇑3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 3 3  **?? 1920-21 ??** ⇓2 2 2 2 2 2 2 2 2 2 
+- **Colchester United FC** - 65 seasons in 3 levels
   - 2 (2): 2008..2006 (2)
-  - 3 (36): 2014......2008 (6) 2006........1998 (8) 1981....1977 (4) 1976..1974 (2) 1968..1966 (2) 1965...1962 (3) 1961...........1950 (11)
-  - 4 (23): 1998.....1993 (5) 1990.........1981 (9) 1976-77 1974......1968 (6) 1965-66 1961-62
-  - ⇑ (6) / ⇓ (6): 3 3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 ⇑4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 ⇓3 3 ⇑4 4 4 4 4 4 ⇓3 3 ⇑4 ⇓3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 
-- **Coventry City FC** - 89 seasons in 4 levels
+  - 3 (38): 2016........2008 (8) 2006........1998 (8) 1981....1977 (4) 1976..1974 (2) 1968..1966 (2) 1965...1962 (3) 1961...........1950 (11)
+  - 4 (25): 2018..2016 (2) 1998.....1993 (5) 1990.........1981 (9) 1976-77 1974......1968 (6) 1965-66 1961-62
+  - ⇑ (6) / ⇓ (7): 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 ⇑4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 ⇓3 3 ⇑4 4 4 4 4 4 ⇓3 3 ⇑4 ⇓3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 
+- **Coventry City FC** - 93 seasons in 4 levels
   - 1 (34): 2001..................................1967 (34)
   - 2 (30): 2012...........2001 (11) 1967...1964 (3) 1952......1946 (6) 1940....1936 (4) 1925......1919 (6)
-  - 3 (24): 2014..2012 (2) 1964.....1959 (5) 1958......1952 (6) 1936...........1925 (11)
-  - 4 (1): 1958-59
-  - ⇑ (4) / ⇓ (5): 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇑3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 ⇓2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 
-- **Crawley Town FC** - 9 seasons in 3 levels
-  - 3 (2): 2014..2012 (2)
-  - 4 (1): 2011-12
+  - 3 (27): 2017.....2012 (5) 1964.....1959 (5) 1958......1952 (6) 1936...........1925 (11)
+  - 4 (2): 2017-18 1958-59
+  - ⇑ (4) / ⇓ (6): 4 ⇓3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇑3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 ⇓2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 
+- **Crawley Town FC** - 13 seasons in 3 levels
+  - 3 (3): 2015...2012 (3)
+  - 4 (4): 2018...2015 (3) 2011-12
   - 5 (6): 2011......2005 (6)
-  - ⇑ (2): 3 3 ⇑4 ⇑5 5 5 5 5 5 
-- **Crewe Alexandra FC** - 90 seasons in 3 levels
+  - ⇑ (2) / ⇓ (1): 4 4 4 ⇓3 3 3 ⇑4 ⇑5 5 5 5 5 5 
+- **Crewe Alexandra FC** - 94 seasons in 3 levels
   - 2 (12): 2006...2003 (3) 2002.....1997 (5) 1896....1892 (4)
-  - 3 (44): 2014..2012 (2) 2009...2006 (3) 2002-03 1997...1994 (3) 1991..1989 (2) 1968-69 1963-64 1958............1946 (12) 1940...................1921 (19)
-  - 4 (34): 2012...2009 (3) 1993-94 1991-92 1989....................1969 (20) 1968....1964 (4) 1963.....1958 (5)
-  - ⇑ (7) / ⇓ (8): 3 3 ⇑4 4 4 ⇓3 3 3 ⇓2 2 2 ⇑3 ⇓2 2 2 2 2 ⇑3 3 3 ⇑4  **?? 1992-93 ??** 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1920-21 ??** ⇓2 2 2 2 
-- **Crystal Palace FC** - 89 seasons in 4 levels
-  - 1 (15): 2017-18 2013-14 2004-05 1997-98 1994-95 1993....1989 (4) 1981..1979 (2) 1973....1969 (4)
+  - 3 (46): 2016....2012 (4) 2009...2006 (3) 2002-03 1997...1994 (3) 1991..1989 (2) 1968-69 1963-64 1958............1946 (12) 1940...................1921 (19)
+  - 4 (36): 2018..2016 (2) 2012...2009 (3) 1993-94 1991-92 1989....................1969 (20) 1968....1964 (4) 1963.....1958 (5)
+  - ⇑ (7) / ⇓ (9): 4 4 ⇓3 3 3 3 ⇑4 4 4 ⇓3 3 3 ⇓2 2 2 ⇑3 ⇓2 2 2 2 2 ⇑3 3 3 ⇑4  **?? 1992-93 ??** 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1920-21 ??** ⇓2 2 2 2 
+- **Crystal Palace FC** - 92 seasons in 4 levels
+  - 1 (18): 2018.....2013 (5) 2004-05 1997-98 1994-95 1993....1989 (4) 1981..1979 (2) 1973....1969 (4)
   - 2 (37): 2013........2005 (8) 2004......1998 (6) 1997..1995 (2) 1993-94 1989........1981 (8) 1979..1977 (2) 1973-74 1969.....1964 (5) 1925....1921 (4)
   - 3 (34): 1977...1974 (3) 1964...1961 (3) 1958............1946 (12) 1940...............1925 (15) 1920-21
   - 4 (3): 1961...1958 (3)
-  - ⇑ (11) / ⇓ (9): 1  **?? 2016-17 ??** 1 ⇑2 2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 ⇓1 ⇑2 2 ⇓1 ⇑2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 ⇑3 3 3 ⇓2 ⇓1 1 1 1 ⇑2 2 2 2 2 ⇑3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 
-- **Dagenham & Redbridge FC** - 9 seasons in 3 levels
+  - ⇑ (11) / ⇓ (9): 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 ⇓1 ⇑2 2 ⇓1 ⇑2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 ⇑3 3 3 ⇓2 ⇓1 1 1 1 ⇑2 2 2 2 2 ⇑3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 
+- **Dagenham & Redbridge FC** - 13 seasons in 3 levels
   - 3 (1): 2010-11
-  - 4 (6): 2014...2011 (3) 2010...2007 (3)
-  - 5 (2): 2007..2005 (2)
-  - ⇑ (2) / ⇓ (1): 4 4 4 ⇓3 ⇑4 4 4 ⇑5 5 
+  - 4 (8): 2016.....2011 (5) 2010...2007 (3)
+  - 5 (4): 2018..2016 (2) 2007..2005 (2)
+  - ⇑ (2) / ⇓ (2): 5 5 ⇓4 4 4 4 4 ⇓3 ⇑4 4 4 ⇑5 5 
 - **Darlington FC** - 83 seasons in 4 levels
   - 2 (2): 1927..1925 (2)
   - 3 (33): 1991-92 1987..1985 (2) 1966-67 1958............1946 (12) 1940.............1927 (13) 1925....1921 (4)
   - 4 (46): 2010.................1993 (17) 1990-91 1989..1987 (2) 1985..................1967 (18) 1966........1958 (8)
   - 5 (2): 2012..2010 (2)
   - ⇑ (4) / ⇓ (6): 5 5 ⇓4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4  **?? 1992-93 ??** ⇓3 ⇑4  **?? 1989-90 ??** 4 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 
-- **Dartford FC** - 2 seasons in 1 level
-  - 5 (2): 2014..2012 (2)
+- **Dartford FC** - 3 seasons in 1 level
+  - 5 (3): 2015...2012 (3)
 - **Darwen FC (1870-2009)** - 8 seasons in 2 levels
   - 1 (2): 1893-94 1891-92
   - 2 (6): 1899.....1894 (5) 1892-93
   - ⇑ (1) / ⇓ (2): 2 2 2 2 2 ⇓1 ⇑2 ⇓1 
-- **Derby County FC** - 116 seasons in 3 levels
+- **Derby County FC** - 120 seasons in 3 levels
   - 1 (66): 2007-08 2002......1996 (6) 1991....1987 (4) 1980...........1969 (11) 1953.......1946 (7) 1940..............1926 (14) 1921..1919 (2) 1914..1912 (2) 1907...................1888 (19)
-  - 2 (46): 2014......2008 (6) 2007.....2002 (5) 1996.....1991 (5) 1986-87 1984....1980 (4) 1969............1957 (12) 1955..1953 (2) 1926.....1921 (5) 1914-15 1912.....1907 (5)
+  - 2 (50): 2018..........2008 (10) 2007.....2002 (5) 1996.....1991 (5) 1986-87 1984....1980 (4) 1969............1957 (12) 1955..1953 (2) 1926.....1921 (5) 1914-15 1912.....1907 (5)
   - 3 (4): 1986..1984 (2) 1957..1955 (2)
-  - ⇑ (9) / ⇓ (10): 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇑3 3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 2 ⇓1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1  **?? 1918-19 ??** ⇑2 ⇓1 1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-- **Doncaster Rovers FC** - 82 seasons in 3 levels
+  - ⇑ (9) / ⇓ (10): 2 2 2 2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇑3 3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 2 ⇓1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1  **?? 1918-19 ??** ⇑2 ⇓1 1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+- **Doncaster Rovers FC** - 86 seasons in 3 levels
   - 2 (19): 2013-14 2012....2008 (4) 1958........1950 (8) 1947-48 1937..1935 (2) 1904-05 1903..1901 (2)
-  - 3 (33): 2012-13 2008....2004 (4) 1988....1984 (4) 1983..1981 (2) 1971..1969 (2) 1966-67 1958-59 1950..1948 (2) 1946-47 1940...1937 (3) 1935............1923 (12)
-  - 4 (30): 2003-04 1998.....1993 (5) 1992....1988 (4) 1983-84 1981..........1971 (10) 1969..1967 (2) 1966.......1959 (7)
-  - ⇑ (10) / ⇓ (10): 2 ⇑3 ⇓2 2 2 2 ⇑3 3 3 3 ⇑4  **?? 2002-03 ??** 4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 ⇓3 3 3 3 ⇑4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 3 ⇑4 4 ⇓3 ⇑4 4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 ⇑3  **?? 1945-46 ??** 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3  **?? 1922-23 ??** ⇓2  **?? 1903-04 ??** 2 2 
+  - 3 (36): 2017-18 2016..2014 (2) 2012-13 2008....2004 (4) 1988....1984 (4) 1983..1981 (2) 1971..1969 (2) 1966-67 1958-59 1950..1948 (2) 1946-47 1940...1937 (3) 1935............1923 (12)
+  - 4 (31): 2016-17 2003-04 1998.....1993 (5) 1992....1988 (4) 1983-84 1981..........1971 (10) 1969..1967 (2) 1966.......1959 (7)
+  - ⇑ (11) / ⇓ (12): 3 ⇑4 ⇓3 3 ⇓2 ⇑3 ⇓2 2 2 2 ⇑3 3 3 3 ⇑4  **?? 2002-03 ??** 4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 ⇓3 3 3 3 ⇑4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 3 ⇑4 4 ⇓3 ⇑4 4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 ⇑3  **?? 1945-46 ??** 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3  **?? 1922-23 ??** ⇓2  **?? 1903-04 ??** 2 2 
+- **Dover Athletic FC** - 4 seasons in 1 level
+  - 5 (4): 2018....2014 (4)
 - **Droylsden FC** - 1 season in 1 level
   - 5 (1): 2007-08
 - **Durham City AFC** - 7 seasons in 1 level
   - 3 (7): 1928.......1921 (7)
 - **Eastbourne Borough FC** - 3 seasons in 1 level
   - 5 (3): 2011...2008 (3)
-- **Ebbsfleet United FC** - 7 seasons in 1 level
-  - 5 (7): 2013..2011 (2) 2010.....2005 (5)
-- **Everton FC** - 117 seasons in 2 levels
-  - 1 (113): 2017-18 2014............................................................1954 (60) 1951.....1946 (5) 1940.........1931 (9) 1930...........1919 (11) 1915...........................1888 (27)
+- **Eastleigh FC** - 4 seasons in 1 level
+  - 5 (4): 2018....2014 (4)
+- **Ebbsfleet United FC** - 8 seasons in 1 level
+  - 5 (8): 2017-18 2013..2011 (2) 2010.....2005 (5)
+- **Everton FC** - 120 seasons in 2 levels
+  - 1 (116): 2018................................................................1954 (64) 1951.....1946 (5) 1940.........1931 (9) 1930...........1919 (11) 1915...........................1888 (27)
   - 2 (4): 1954...1951 (3) 1930-31
-  - ⇑ (2) / ⇓ (2): 1  **?? 2016-17 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-- **Exeter City FC** - 86 seasons in 3 levels
+  - ⇑ (2) / ⇓ (2): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+- **Exeter City FC** - 90 seasons in 3 levels
   - 3 (48): 2012...2009 (3) 1994....1990 (4) 1984.......1977 (7) 1966..1964 (2) 1958............1946 (12) 1940....................1920 (20)
-  - 4 (35): 2014..2012 (2) 2008-09 2003.........1994 (9) 1990......1984 (6) 1977...........1966 (11) 1964......1958 (6)
+  - 4 (39): 2018......2012 (6) 2008-09 2003.........1994 (9) 1990......1984 (6) 1977...........1966 (11) 1964......1958 (6)
   - 5 (3): 2008...2005 (3)
-  - ⇑ (5) / ⇓ (6): 4 4 ⇓3 3 3 ⇑4 ⇑5 5 5  **?? 2004-05 ??** ⇓4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **FC Halifax Town** - 73 seasons in 3 levels
+  - ⇑ (5) / ⇓ (6): 4 4 4 4 4 4 ⇓3 3 3 ⇑4 ⇑5 5 5  **?? 2004-05 ??** ⇓4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **FC Halifax Town** - 76 seasons in 3 levels
   - 3 (43): 1976.......1969 (7) 1963.................1946 (17) 1940...................1921 (19)
   - 4 (26): 2002....1998 (4) 1992................1976 (16) 1969......1963 (6)
-  - 5 (4): 2013-14 2008...2005 (3)
-  - ⇑ (1) / ⇓ (3): 5  **?? 2012-13 ??** 5 5 5  **?? 2004-05 ??** ⇓4 4 4 4  **?? 1997-98 ??** 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - 5 (7): 2017-18 2016...2013 (3) 2008...2005 (3)
+  - ⇑ (1) / ⇓ (3): 5  **?? 2016-17 ??** 5 5 5  **?? 2012-13 ??** 5 5 5  **?? 2004-05 ??** ⇓4 4 4 4  **?? 1997-98 ??** 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **Farsley Celtic FC** - 1 season in 1 level
   - 5 (1): 2007-08
-- **Fleetwood Town FC** - 4 seasons in 2 levels
+- **Fleetwood Town FC** - 8 seasons in 3 levels
+  - 3 (4): 2018....2014 (4)
   - 4 (2): 2014..2012 (2)
   - 5 (2): 2012..2010 (2)
-  - ⇑ (1): 4 4 ⇑5 5 
-- **Forest Green Rovers FC** - 9 seasons in 1 level
-  - 5 (9): 2014.........2005 (9)
-- **Fulham FC** - 97 seasons in 4 levels
+  - ⇑ (2): 3 3 3 3 ⇑4 4 ⇑5 5 
+- **Forest Green Rovers FC** - 13 seasons in 2 levels
+  - 4 (1): 2017-18
+  - 5 (12): 2017............2005 (12)
+  - ⇑ (1): 4 ⇑5 5 5 5 5 5 5 5 5 5 5 5 
+- **Fulham FC** - 101 seasons in 4 levels
   - 1 (25): 2014.............2001 (13) 1968.........1959 (9) 1952...1949 (3)
-  - 2 (51): 2001..1999 (2) 1986....1982 (4) 1980.........1971 (9) 1968-69 1959.......1952 (7) 1949...1946 (3) 1940........1932 (8) 1928.........1919 (9) 1915........1907 (8)
+  - 2 (55): 2018....2014 (4) 2001..1999 (2) 1986....1982 (4) 1980.........1971 (9) 1968-69 1959.......1952 (7) 1949...1946 (3) 1940........1932 (8) 1928.........1919 (9) 1915........1907 (8)
   - 3 (18): 1999..1997 (2) 1994........1986 (8) 1982..1980 (2) 1971..1969 (2) 1932....1928 (4)
   - 4 (3): 1997...1994 (3)
-  - ⇑ (8) / ⇓ (7): 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇑3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇓1 1 1 ⇑2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 
+  - ⇑ (8) / ⇓ (8): 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇑3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇓1 1 1 ⇑2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 
 - **Gainsborough Trinity FC** - 16 seasons in 1 level
   - 2 (16): 1912................1896 (16)
-- **Gateshead FC** - 29 seasons in 3 levels
+- **Gateshead FC** - 33 seasons in 3 levels
   - 3 (22): 1958............1946 (12) 1940..........1930 (10)
   - 4 (2): 1960..1958 (2)
-  - 5 (5): 2014.....2009 (5)
-  - ⇓ (2): 5 5 5 5 5  **?? 2008-09 ??** ⇓4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 
-- **Gillingham FC** - 81 seasons in 3 levels
+  - 5 (9): 2018.........2009 (9)
+  - ⇓ (2): 5 5 5 5 5 5 5 5 5  **?? 2008-09 ??** ⇓4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 
+- **Gillingham FC** - 85 seasons in 3 levels
   - 2 (5): 2005.....2000 (5)
-  - 3 (57): 2013-14 2009-10 2008...2005 (3) 2000....1996 (4) 1989...............1974 (15) 1971.......1964 (7) 1958........1950 (8) 1938..................1920 (18)
+  - 3 (61): 2018.....2013 (5) 2009-10 2008...2005 (3) 2000....1996 (4) 1989...............1974 (15) 1971.......1964 (7) 1958........1950 (8) 1938..................1920 (18)
   - 4 (19): 2013...2010 (3) 2008-09 1996...1993 (3) 1992...1989 (3) 1974...1971 (3) 1964......1958 (6)
-  - ⇑ (6) / ⇓ (6): 3 ⇑4 4 4 ⇓3 ⇑4 ⇓3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 ⇑4 4 4  **?? 1992-93 ??** 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3  **?? 1949-50 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - ⇑ (6) / ⇓ (6): 3 3 3 3 3 ⇑4 4 4 ⇓3 ⇑4 ⇓3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 ⇑4 4 4  **?? 1992-93 ??** 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3  **?? 1949-50 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **Glossop North End AFC** - 17 seasons in 2 levels
   - 1 (1): 1899-00
   - 2 (16): 1915...............1900 (15) 1898-99
   - ⇑ (1) / ⇓ (1): 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 ⇑2 
 - **Grays Athletic FC** - 5 seasons in 1 level
   - 5 (5): 2010.....2005 (5)
-- **Grimsby Town FC** - 111 seasons in 5 levels
+- **Grimsby Town FC** - 115 seasons in 5 levels
   - 1 (13): 1948..1946 (2) 1940......1934 (6) 1932...1929 (3) 1903..1901 (2)
   - 2 (52): 2003.....1998 (5) 1997......1991 (6) 1987.......1980 (7) 1964..1962 (2) 1959...1956 (3) 1951...1948 (3) 1934..1932 (2) 1929...1926 (3) 1919-20 1915....1911 (4) 1910.......1903 (7) 1901.........1892 (9)
   - 3 (28): 2003-04 1997-98 1990-91 1987-88 1979-80 1977.....1972 (5) 1968....1964 (4) 1962...1959 (3) 1956.....1951 (5) 1926......1920 (6)
-  - 4 (14): 2010......2004 (6) 1990..1988 (2) 1979..1977 (2) 1972....1968 (4)
-  - 5 (4): 2014....2010 (4)
-  - ⇑ (12) / ⇓ (15): 5 5 5 5 ⇓4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 2 ⇑3 ⇑4 4 ⇓3 ⇓2 2 2 2 2 2 2 ⇑3 ⇑4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 3 ⇓2 2 ⇑3 3 3 ⇓2 2 2 ⇑3 3 3 3 3 ⇓2 2 2 ⇓1 1  **?? 1945-46 ??** 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 ⇑2 2 2 ⇑3 3 3 3 3 3 ⇓2  **?? 1918-19 ??** 2 2 2 2  **?? 1910-11 ??** 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 2 2 2 2 2 
-- **Hartlepool United FC** - 87 seasons in 2 levels
+  - 4 (16): 2018..2016 (2) 2010......2004 (6) 1990..1988 (2) 1979..1977 (2) 1972....1968 (4)
+  - 5 (6): 2016......2010 (6)
+  - ⇑ (13) / ⇓ (15): 4 4 ⇑5 5 5 5 5 5 ⇓4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 2 ⇑3 ⇑4 4 ⇓3 ⇓2 2 2 2 2 2 2 ⇑3 ⇑4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 3 ⇓2 2 ⇑3 3 3 ⇓2 2 2 ⇑3 3 3 3 3 ⇓2 2 2 ⇓1 1  **?? 1945-46 ??** 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 ⇑2 2 2 ⇑3 3 3 3 3 3 ⇓2  **?? 1918-19 ??** 2 2 2 2  **?? 1910-11 ??** 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 2 2 2 2 2 
+- **Guiseley AFC** - 3 seasons in 1 level
+  - 5 (3): 2018...2015 (3)
+- **Hartlepool United FC** - 91 seasons in 3 levels
   - 3 (44): 2013......2007 (6) 2006...2003 (3) 1994...1991 (3) 1968-69 1958............1946 (12) 1940...................1921 (19)
-  - 4 (43): 2013-14 2006-07 2003.........1994 (9) 1991......................1969 (22) 1968..........1958 (10)
-  - ⇑ (4) / ⇓ (5): 4 ⇓3 3 3 3 3 3 ⇑4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - 4 (46): 2017....2013 (4) 2006-07 2003.........1994 (9) 1991......................1969 (22) 1968..........1958 (10)
+  - 5 (1): 2017-18
+  - ⇑ (4) / ⇓ (6): 5 ⇓4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **Hayes & Yeading United FC** - 3 seasons in 1 level
   - 5 (3): 2012...2009 (3)
 - **Hereford FC (2014-)** - 13 seasons in 3 levels
@@ -3756,115 +3946,121 @@ York City FC                => (2) York • York City
   - ⇑ (2) / ⇓ (2): 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇓2 ⇑3 3 3 ⇑4 
 - **Histon FC** - 4 seasons in 1 level
   - 5 (4): 2011....2007 (4)
-- **Huddersfield Town AFC** - 95 seasons in 4 levels
+- **Huddersfield Town AFC** - 98 seasons in 4 levels
   - 1 (32): 2017-18 1972..1970 (2) 1956...1953 (3) 1952......1946 (6) 1940....................1920 (20)
-  - 2 (35): 2014..2012 (2) 2001......1995 (6) 1988.....1983 (5) 1972-73 1970..............1956 (14) 1952-53 1919-20 1915.....1910 (5)
+  - 2 (38): 2017.....2012 (5) 2001......1995 (6) 1988.....1983 (5) 1972-73 1970..............1956 (14) 1952-53 1919-20 1915.....1910 (5)
   - 3 (22): 2012........2004 (8) 2003..2001 (2) 1995.......1988 (7) 1983...1980 (3) 1975..1973 (2)
   - 4 (6): 2003-04 1980.....1975 (5)
-  - ⇑ (9) / ⇓ (8): 1  **?? 2016-17 ??** ⇑2 2 ⇑3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 ⇑4 4 4 4 4 ⇓3 3 ⇓2 ⇓1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 ⇑2 ⇓1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2  **?? 1918-19 ??** 2 2 2 2 2 
-- **Hull City AFC** - 99 seasons in 4 levels
-  - 1 (3): 2013-14 2010..2008 (2)
-  - 2 (56): 2013...2010 (3) 2008...2005 (3) 1991......1985 (6) 1978............1966 (12) 1959-60 1956.......1949 (7) 1936...1933 (3) 1930...........1919 (11) 1915..........1905 (10)
+  - ⇑ (9) / ⇓ (8): 1 ⇑2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 ⇑4 4 4 4 4 ⇓3 3 ⇓2 ⇓1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 ⇑2 ⇓1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2  **?? 1918-19 ??** 2 2 2 2 2 
+- **Hull City AFC** - 103 seasons in 4 levels
+  - 1 (5): 2016-17 2015..2013 (2) 2010..2008 (2)
+  - 2 (58): 2017-18 2015-16 2013...2010 (3) 2008...2005 (3) 1991......1985 (6) 1978............1966 (12) 1959-60 1956.......1949 (7) 1936...1933 (3) 1930...........1919 (11) 1915..........1905 (10)
   - 3 (30): 2004-05 1996.....1991 (5) 1985..1983 (2) 1981...1978 (3) 1966......1960 (6) 1959...1956 (3) 1949...1946 (3) 1940....1936 (4) 1933...1930 (3)
   - 4 (10): 2004........1996 (8) 1983..1981 (2)
-  - ⇑ (10) / ⇓ (9): 1 ⇑2 2 2 ⇓1 1 ⇑2 2 2 ⇑3 ⇑4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 ⇑4 4 ⇓3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 ⇓2 ⇑3 3 3 ⇓2 2 2 2 2 2 2 ⇑3 3 3  **?? 1945-46 ??** 3 3 3 3 ⇓2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2 
+  - ⇑ (11) / ⇓ (11): 2 ⇓1 ⇑2 ⇓1 1 ⇑2 2 2 ⇓1 1 ⇑2 2 2 ⇑3 ⇑4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 ⇑4 4 ⇓3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 ⇓2 ⇑3 3 3 ⇓2 2 2 2 2 2 2 ⇑3 3 3  **?? 1945-46 ??** 3 3 3 3 ⇓2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2 
 - **Hyde United FC** - 2 seasons in 1 level
   - 5 (2): 2014..2012 (2)
-- **Ipswich Town FC** - 70 seasons in 3 levels
+- **Ipswich Town FC** - 74 seasons in 3 levels
   - 1 (26): 2002..2000 (2) 1995...1992 (3) 1986..................1968 (18) 1964...1961 (3)
-  - 2 (32): 2014............2002 (12) 2000.....1995 (5) 1992......1986 (6) 1968....1964 (4) 1961....1957 (4) 1954-55
+  - 2 (36): 2018................2002 (16) 2000.....1995 (5) 1992......1986 (6) 1968....1964 (4) 1961....1957 (4) 1954-55
   - 3 (12): 1957..1955 (2) 1954........1946 (8) 1940..1938 (2)
-  - ⇑ (6) / ⇓ (5): 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 2 ⇓1 1 1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 ⇑2 2 2 2 ⇑3 3 ⇓2 ⇑3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 
+  - ⇑ (6) / ⇓ (5): 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 2 ⇓1 1 1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 ⇑2 2 2 2 ⇑3 3 ⇓2 ⇑3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 
 - **Kettering Town FC** - 4 seasons in 1 level
   - 5 (4): 2012....2008 (4)
-- **Kidderminster Harriers FC** - 14 seasons in 2 levels
+- **Kidderminster Harriers FC** - 16 seasons in 2 levels
   - 4 (5): 2005.....2000 (5)
-  - 5 (9): 2014.........2005 (9)
-  - ⇓ (1): 5 5 5 5 5 5 5 5 5 ⇓4 4 4 4 4 
+  - 5 (11): 2016...........2005 (11)
+  - ⇓ (1): 5 5 5 5 5 5 5 5 5 5 5 ⇓4 4 4 4 4 
 - **Leeds City FC (1904-1919)** - 11 seasons in 1 level
   - 2 (11): 1919-20 1915..........1905 (10)
-- **Leeds United FC** - 88 seasons in 3 levels
+- **Leeds United FC** - 92 seasons in 3 levels
   - 1 (51): 2004..............1990 (14) 1982..................1964 (18) 1960....1956 (4) 1946-47 1940........1932 (8) 1931...1928 (3) 1927...1924 (3)
-  - 2 (34): 2014....2010 (4) 2007...2004 (3) 1990........1982 (8) 1964....1960 (4) 1956.........1947 (9) 1931-32 1927-28 1924....1920 (4)
+  - 2 (38): 2018........2010 (8) 2007...2004 (3) 1990........1982 (8) 1964....1960 (4) 1956.........1947 (9) 1931-32 1927-28 1924....1920 (4)
   - 3 (3): 2010...2007 (3)
-  - ⇑ (7) / ⇓ (7): 2 2 2 2 ⇑3 3 3 ⇓2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 ⇓1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 1 1 ⇑2 2 2 2 
-- **Leicester City FC** - 111 seasons in 3 levels
-  - 1 (47): 2017-18 2003-04 2002......1996 (6) 1994-95 1987....1983 (4) 1980-81 1978.......1971 (7) 1969............1957 (12) 1954-55 1939..1937 (2) 1935..........1925 (10) 1908-09
+  - ⇑ (7) / ⇓ (7): 2 2 2 2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 ⇓1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 1 1 ⇑2 2 2 2 
+- **Leicester City FC** - 114 seasons in 3 levels
+  - 1 (50): 2018....2014 (4) 2003-04 2002......1996 (6) 1994-95 1987....1983 (4) 1980-81 1978.......1971 (7) 1969............1957 (12) 1954-55 1939..1937 (2) 1935..........1925 (10) 1908-09
   - 2 (63): 2014.....2009 (5) 2008....2004 (4) 2002-03 1995-96 1994.......1987 (7) 1983..1981 (2) 1980..1978 (2) 1971..1969 (2) 1957..1955 (2) 1954........1946 (8) 1939-40 1937..1935 (2) 1925......1919 (6) 1915......1909 (6) 1908..............1894 (14)
   - 3 (1): 2008-09
-  - ⇑ (13) / ⇓ (12): 1  **?? 2016-17 ??** ⇑2 2 2 2 2 ⇑3 ⇓2 2 2 2 ⇓1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 2 2 ⇓1 1 1 1 ⇑2 2 ⇓1 ⇑2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 ⇑2 2 2 2 2 2 2 2  **?? 1945-46 ??** 2 ⇓1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+  - ⇑ (13) / ⇓ (12): 1 1 1 1 ⇑2 2 2 2 2 ⇑3 ⇓2 2 2 2 ⇓1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 2 2 ⇓1 1 1 1 ⇑2 2 ⇓1 ⇑2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 ⇑2 2 2 2 2 2 2 2  **?? 1945-46 ??** 2 ⇓1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 
 - **Lewes FC** - 1 season in 1 level
   - 5 (1): 2008-09
-- **Leyton Orient FC** - 99 seasons in 4 levels
+- **Leyton Orient FC** - 103 seasons in 5 levels
   - 1 (1): 1962-63
   - 2 (41): 1982............1970 (12) 1966...1963 (3) 1962......1956 (6) 1929..........1919 (10) 1915..........1905 (10)
-  - 3 (42): 2014........2006 (8) 1995......1989 (6) 1985...1982 (3) 1970....1966 (4) 1956..........1946 (10) 1940...........1929 (11)
-  - 4 (15): 2006...........1995 (11) 1989....1985 (4)
-  - ⇑ (5) / ⇓ (6): 3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 ⇓1 ⇑2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2 
-- **Lincoln City FC** - 107 seasons in 4 levels
+  - 3 (43): 2015.........2006 (9) 1995......1989 (6) 1985...1982 (3) 1970....1966 (4) 1956..........1946 (10) 1940...........1929 (11)
+  - 4 (17): 2017..2015 (2) 2006...........1995 (11) 1989....1985 (4)
+  - 5 (1): 2017-18
+  - ⇑ (5) / ⇓ (8): 5 ⇓4 4 ⇓3 3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 ⇓1 ⇑2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2 
+- **Lincoln City FC** - 111 seasons in 4 levels
   - 2 (34): 1961.........1952 (9) 1948-49 1934..1932 (2) 1919-20 1915...1912 (3) 1911..1909 (2) 1908................1892 (16)
   - 3 (32): 1998-99 1986.....1981 (5) 1979...1976 (3) 1961-62 1952...1949 (3) 1948..1946 (2) 1940......1934 (6) 1932...........1921 (11)
-  - 4 (38): 2011............1999 (12) 1998.....1993 (5) 1992....1988 (4) 1986-87 1981..1979 (2) 1976..............1962 (14)
-  - 5 (3): 2014...2011 (3)
-  - ⇑ (6) / ⇓ (9): 5 5 5 ⇓4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4  **?? 1987-88 ??** 4 ⇓3 3 3 3 3 ⇑4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 3 3 ⇓2 ⇑3 3  **?? 1945-46 ??** 3 3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 3 3 3  **?? 1920-21 ??** ⇓2  **?? 1918-19 ??** 2 2 2  **?? 1911-12 ??** 2 2  **?? 1908-09 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
-- **Liverpool FC** - 112 seasons in 2 levels
-  - 1 (101): 2017-18 2014....................................................1962 (52) 1954........1946 (8) 1940.....................1919 (21) 1915..........1905 (10) 1904........1896 (8) 1894-95
+  - 4 (39): 2017-18 2011............1999 (12) 1998.....1993 (5) 1992....1988 (4) 1986-87 1981..1979 (2) 1976..............1962 (14)
+  - 5 (6): 2017......2011 (6)
+  - ⇑ (7) / ⇓ (9): 4 ⇑5 5 5 5 5 5 ⇓4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4  **?? 1987-88 ??** 4 ⇓3 3 3 3 3 ⇑4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 3 3 ⇓2 ⇑3 3  **?? 1945-46 ??** 3 3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 3 3 3  **?? 1920-21 ??** ⇓2  **?? 1918-19 ??** 2 2 2  **?? 1911-12 ??** 2 2  **?? 1908-09 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+- **Liverpool FC** - 115 seasons in 2 levels
+  - 1 (104): 2018........................................................1962 (56) 1954........1946 (8) 1940.....................1919 (21) 1915..........1905 (10) 1904........1896 (8) 1894-95
   - 2 (11): 1962........1954 (8) 1904-05 1895-96 1893-94
-  - ⇑ (4) / ⇓ (3): 1  **?? 2016-17 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 
+  - ⇑ (4) / ⇓ (3): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 
 - **Loughborough FC (1886-1900)** - 5 seasons in 1 level
   - 2 (5): 1900.....1895 (5)
-- **Luton Town FC** - 91 seasons in 5 levels
+- **Luton Town FC** - 95 seasons in 5 levels
   - 1 (16): 1992..........1982 (10) 1974-75 1960.....1955 (5)
   - 2 (35): 2007..2005 (2) 1996....1992 (4) 1982.......1975 (7) 1974....1970 (4) 1963...1960 (3) 1955.........1946 (9) 1940...1937 (3) 1900...1897 (3)
   - 3 (30): 2007-08 2005...2002 (3) 2001.....1996 (5) 1970..1968 (2) 1965..1963 (2) 1937.................1920 (17)
-  - 4 (5): 2008-09 2001-02 1968...1965 (3)
+  - 4 (9): 2018....2014 (4) 2008-09 2001-02 1968...1965 (3)
   - 5 (5): 2014.....2009 (5)
-  - ⇑ (8) / ⇓ (11): 5 5 5 5 5 ⇓4 ⇓3 ⇓2 2 ⇑3 3 3 ⇑4 ⇓3 3 3 3 3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 ⇑3 3 ⇑4 4 4 ⇓3 3 ⇓2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1919-20 ??** ⇓2 2 2 
-- **Macclesfield Town FC** - 17 seasons in 3 levels
+  - ⇑ (9) / ⇓ (11): 4 4 4 4 ⇑5 5 5 5 5 ⇓4 ⇓3 ⇓2 2 ⇑3 3 3 ⇑4 ⇓3 3 3 3 3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 ⇑3 3 ⇑4 4 4 ⇓3 3 ⇓2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1919-20 ??** ⇓2 2 2 
+- **Macclesfield Town FC** - 21 seasons in 3 levels
   - 3 (1): 1998-99
   - 4 (14): 2012.............1999 (13) 1997-98
-  - 5 (2): 2014..2012 (2)
-  - ⇑ (1) / ⇓ (2): 5 5 ⇓4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 
-- **Maidstone United FC** - 3 seasons in 1 level
+  - 5 (6): 2018......2012 (6)
+  - ⇑ (1) / ⇓ (2): 5 5 5 5 5 5 ⇓4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 
+- **Maidenhead United FC** - 1 season in 1 level
+  - 5 (1): 2017-18
+- **Maidstone United FC** - 5 seasons in 2 levels
   - 4 (3): 1992...1989 (3)
-- **Manchester City FC** - 113 seasons in 3 levels
-  - 1 (86): 2017-18 2014............2002 (12) 2000-01 1996.......1989 (7) 1987..1985 (2) 1983.................1966 (17) 1963............1951 (12) 1950...1947 (3) 1938..........1928 (10) 1926.......1919 (7) 1915.....1910 (5) 1909......1903 (6) 1902...1899 (3)
+  - 5 (2): 2018..2016 (2)
+  - ⇓ (1): 5 5  **?? 2015-16 ??** ⇓4 4 4 
+- **Manchester City FC** - 116 seasons in 3 levels
+  - 1 (89): 2018................2002 (16) 2000-01 1996.......1989 (7) 1987..1985 (2) 1983.................1966 (17) 1963............1951 (12) 1950...1947 (3) 1938..........1928 (10) 1926.......1919 (7) 1915.....1910 (5) 1909......1903 (6) 1902...1899 (3)
   - 2 (26): 2001-02 1999-00 1998..1996 (2) 1989..1987 (2) 1985..1983 (2) 1966...1963 (3) 1950-51 1946-47 1940..1938 (2) 1928..1926 (2) 1909-10 1902-03 1899.......1892 (7)
   - 3 (1): 1998-99
-  - ⇑ (12) / ⇓ (11): 1  **?? 2016-17 ??** 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 ⇑3 ⇓2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 ⇑2  **?? 1945-46 ??** 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 
-- **Manchester United FC** - 113 seasons in 2 levels
-  - 1 (91): 2017-18 2014.......................................1975 (39) 1974............................1946 (28) 1940..1938 (2) 1936-37 1931......1925 (6) 1922...1919 (3) 1915.........1906 (9) 1894..1892 (2)
+  - ⇑ (12) / ⇓ (11): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 ⇑3 ⇓2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 ⇑2  **?? 1945-46 ??** 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 
+- **Manchester United FC** - 116 seasons in 2 levels
+  - 1 (94): 2018...........................................1975 (43) 1974............................1946 (28) 1940..1938 (2) 1936-37 1931......1925 (6) 1922...1919 (3) 1915.........1906 (9) 1894..1892 (2)
   - 2 (22): 1974-75 1937-38 1936.....1931 (5) 1925...1922 (3) 1906............1894 (12)
-  - ⇑ (5) / ⇓ (5): 1  **?? 2016-17 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 
-- **Mansfield Town FC** - 77 seasons in 4 levels
+  - ⇑ (5) / ⇓ (5): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 
+- **Mansfield Town FC** - 81 seasons in 4 levels
   - 2 (1): 1977-78
   - 3 (43): 2002-03 1992-93 1991.....1986 (5) 1980..1978 (2) 1977..1975 (2) 1972.........1963 (9) 1960..............1946 (14) 1940.........1931 (9)
-  - 4 (28): 2013-14 2008.....2003 (5) 2002.........1993 (9) 1991-92 1986......1980 (6) 1975...1972 (3) 1963...1960 (3)
+  - 4 (32): 2018.....2013 (5) 2008.....2003 (5) 2002.........1993 (9) 1991-92 1986......1980 (6) 1975...1972 (3) 1963...1960 (3)
   - 5 (5): 2013.....2008 (5)
-  - ⇑ (7) / ⇓ (8): 4 ⇑5 5 5 5 5 ⇓4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 ⇓3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 ⇓2 ⇑3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 
+  - ⇑ (7) / ⇓ (8): 4 4 4 4 4 ⇑5 5 5 5 5 ⇓4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 ⇓3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 ⇓2 ⇑3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 
 - **Merthyr Town FC** - 10 seasons in 1 level
   - 3 (10): 1930..........1920 (10)
-- **Middlesbrough FC** - 105 seasons in 3 levels
-  - 1 (61): 2009...........1998 (11) 1997..1995 (2) 1992-93 1988-89 1982........1974 (8) 1954........1946 (8) 1940...........1929 (11) 1927-28 1924.....1919 (5) 1915.............1902 (13)
-  - 2 (42): 2014.....2009 (5) 1997-98 1995..1993 (2) 1992...1989 (3) 1987-88 1986....1982 (4) 1974.......1967 (7) 1966............1954 (12) 1928-29 1927...1924 (3) 1902...1899 (3)
+- **Middlesbrough FC** - 109 seasons in 3 levels
+  - 1 (62): 2016-17 2009...........1998 (11) 1997..1995 (2) 1992-93 1988-89 1982........1974 (8) 1954........1946 (8) 1940...........1929 (11) 1927-28 1924.....1919 (5) 1915.............1902 (13)
+  - 2 (45): 2017-18 2016.......2009 (7) 1997-98 1995..1993 (2) 1992...1989 (3) 1987-88 1986....1982 (4) 1974.......1967 (7) 1966............1954 (12) 1928-29 1927...1924 (3) 1902...1899 (3)
   - 3 (2): 1986-87 1966-67
-  - ⇑ (10) / ⇓ (10): 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 ⇑2 2 ⇓1 ⇑2 2 2 ⇓1 ⇑2 ⇑3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 2 ⇓1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 
+  - ⇑ (11) / ⇓ (11): 2 ⇓1 ⇑2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 ⇑2 2 ⇓1 ⇑2 2 2 ⇓1 ⇑2 ⇑3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 2 ⇓1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 
 - **Middlesbrough Ironopolis FC (1889-1894)** - 1 season in 1 level
   - 2 (1): 1893-94
-- **Millwall FC** - 88 seasons in 4 levels
+- **Millwall FC** - 92 seasons in 4 levels
   - 1 (2): 1990..1988 (2)
-  - 2 (40): 2014....2010 (4) 2006.....2001 (5) 1996......1990 (6) 1988...1985 (3) 1979...1976 (3) 1975.........1966 (9) 1948..1946 (2) 1940..1938 (2) 1934......1928 (6)
-  - 3 (41): 2010....2006 (4) 2001.....1996 (5) 1985......1979 (6) 1975-76 1965-66 1964..1962 (2) 1958..........1948 (10) 1938....1934 (4) 1928........1920 (8)
+  - 2 (42): 2017-18 2015.....2010 (5) 2006.....2001 (5) 1996......1990 (6) 1988...1985 (3) 1979...1976 (3) 1975.........1966 (9) 1948..1946 (2) 1940..1938 (2) 1934......1928 (6)
+  - 3 (43): 2017..2015 (2) 2010....2006 (4) 2001.....1996 (5) 1985......1979 (6) 1975-76 1965-66 1964..1962 (2) 1958..........1948 (10) 1938....1934 (4) 1928........1920 (8)
   - 4 (5): 1964-65 1962....1958 (4)
-  - ⇑ (10) / ⇓ (9): 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 ⇑3 3 3 3 3 3 ⇓2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 ⇑4 ⇓3 3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 ⇓2 2  **?? 1945-46 ??** 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 
-- **Milton Keynes Dons FC** - 10 seasons in 2 levels
-  - 3 (8): 2014......2008 (6) 2006..2004 (2)
+  - ⇑ (11) / ⇓ (10): 2 ⇑3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 ⇑3 3 3 3 3 3 ⇓2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 ⇑4 ⇓3 3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 ⇓2 2  **?? 1945-46 ??** 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 
+- **Milton Keynes Dons FC** - 14 seasons in 3 levels
+  - 2 (1): 2015-16
+  - 3 (11): 2018..2016 (2) 2015.......2008 (7) 2006..2004 (2)
   - 4 (2): 2008..2006 (2)
-  - ⇑ (1) / ⇓ (1): 3 3 3 3 3 3 ⇑4 4 ⇓3 3 
-- **Morecambe FC** - 9 seasons in 2 levels
-  - 4 (7): 2014.......2007 (7)
+  - ⇑ (2) / ⇓ (2): 3 3 ⇓2 ⇑3 3 3 3 3 3 3 ⇑4 4 ⇓3 3 
+- **Morecambe FC** - 13 seasons in 2 levels
+  - 4 (11): 2018...........2007 (11)
   - 5 (2): 2007..2005 (2)
-  - ⇑ (1): 4 4 4 4 4 4 4 ⇑5 5 
+  - ⇑ (1): 4 4 4 4 4 4 4 4 4 4 4 ⇑5 5 
 - **Nelson FC** - 10 seasons in 2 levels
   - 2 (1): 1923-24
   - 3 (9): 1931.......1924 (7) 1923..1921 (2)
@@ -3873,243 +4069,252 @@ York City FC                => (2) York • York City
   - 2 (3): 1901...1898 (3)
   - 3 (22): 1951.....1946 (5) 1940.................1923 (17)
   - ⇓ (1): 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1922-23 ??** ⇓2 2 2 
-- **Newcastle United FC** - 112 seasons in 2 levels
-  - 1 (84): 2017-18 2014....2010 (4) 2009................1993 (16) 1989.....1984 (5) 1978.............1965 (13) 1961.............1948 (13) 1934...............1919 (15) 1915.................1898 (17)
-  - 2 (28): 2009-10 1993....1989 (4) 1984......1978 (6) 1965....1961 (4) 1948..1946 (2) 1940......1934 (6) 1898.....1893 (5)
-  - ⇑ (6) / ⇓ (5): 1  **?? 2016-17 ??** 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2  **?? 1945-46 ??** 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 
-- **Newport County AFC** - 65 seasons in 4 levels
+- **Newcastle United FC** - 115 seasons in 2 levels
+  - 1 (86): 2017-18 2016......2010 (6) 2009................1993 (16) 1989.....1984 (5) 1978.............1965 (13) 1961.............1948 (13) 1934...............1919 (15) 1915.................1898 (17)
+  - 2 (29): 2016-17 2009-10 1993....1989 (4) 1984......1978 (6) 1965....1961 (4) 1948..1946 (2) 1940......1934 (6) 1898.....1893 (5)
+  - ⇑ (7) / ⇓ (6): 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2  **?? 1945-46 ??** 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 
+- **Newport County AFC** - 69 seasons in 4 levels
   - 2 (2): 1946-47 1939-40
   - 3 (40): 1987.......1980 (7) 1962...............1947 (15) 1939.......1932 (7) 1931...........1920 (11)
-  - 4 (20): 2013-14 1987-88 1980..................1962 (18)
+  - 4 (24): 2018.....2013 (5) 1987-88 1980..................1962 (18)
   - 5 (3): 2013...2010 (3)
-  - ⇑ (3) / ⇓ (4): 4 ⇑5 5 5  **?? 2009-10 ??** ⇓4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2  **?? 1945-46 ??** 2 ⇑3 3 3 3 3 3 3  **?? 1931-32 ??** 3 3 3 3 3 3 3 3 3 3 3 
-- **Northampton Town FC** - 87 seasons in 4 levels
+  - ⇑ (3) / ⇓ (4): 4 4 4 4 4 ⇑5 5 5  **?? 2009-10 ??** ⇓4 ⇓3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2  **?? 1945-46 ??** 2 ⇑3 3 3 3 3 3 3  **?? 1931-32 ??** 3 3 3 3 3 3 3 3 3 3 3 
+- **North Ferriby United AFC** - 1 season in 1 level
+  - 5 (1): 2016-17
+- **Northampton Town FC** - 91 seasons in 4 levels
   - 1 (1): 1965-66
   - 2 (3): 1966-67 1965..1963 (2)
-  - 3 (48): 2009...2006 (3) 2003...2000 (3) 1999..1997 (2) 1990...1987 (3) 1976-77 1969..1967 (2) 1963..1961 (2) 1958............1946 (12) 1940....................1920 (20)
-  - 4 (35): 2014.....2009 (5) 2006...2003 (3) 1999-00 1997....1993 (4) 1992..1990 (2) 1987..........1977 (10) 1976.......1969 (7) 1961...1958 (3)
-  - ⇑ (8) / ⇓ (9): 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 ⇓3 3 3 ⇑4 ⇓3 3 ⇑4 4 4 4  **?? 1992-93 ??** 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 ⇓3 3 ⇓2 ⇓1 ⇑2 2 ⇑3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - 3 (50): 2018..2016 (2) 2009...2006 (3) 2003...2000 (3) 1999..1997 (2) 1990...1987 (3) 1976-77 1969..1967 (2) 1963..1961 (2) 1958............1946 (12) 1940....................1920 (20)
+  - 4 (37): 2016.......2009 (7) 2006...2003 (3) 1999-00 1997....1993 (4) 1992..1990 (2) 1987..........1977 (10) 1976.......1969 (7) 1961...1958 (3)
+  - ⇑ (9) / ⇓ (9): 3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 ⇓3 3 3 ⇑4 ⇓3 3 ⇑4 4 4 4  **?? 1992-93 ??** 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 ⇓3 3 ⇓2 ⇓1 ⇑2 2 ⇑3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **Northwich Victoria FC** - 5 seasons in 2 levels
   - 2 (2): 1894..1892 (2)
   - 5 (3): 2009...2006 (3)
   - ⇓ (1): 5 5 5  **?? 2005-06 ??** ⇓2 2 
-- **Norwich City FC** - 88 seasons in 3 levels
-  - 1 (24): 2014...2011 (3) 2004-05 1995.........1986 (9) 1985...1982 (3) 1981......1975 (6) 1974..1972 (2)
-  - 2 (34): 2010-11 2009....2005 (4) 2004.........1995 (9) 1985-86 1981-82 1974-75 1972............1960 (12) 1939.....1934 (5)
+- **Norwich City FC** - 92 seasons in 3 levels
+  - 1 (25): 2015-16 2014...2011 (3) 2004-05 1995.........1986 (9) 1985...1982 (3) 1981......1975 (6) 1974..1972 (2)
+  - 2 (37): 2018..2016 (2) 2014-15 2010-11 2009....2005 (4) 2004.........1995 (9) 1985-86 1981-82 1974-75 1972............1960 (12) 1939.....1934 (5)
   - 3 (30): 2009-10 1960..............1946 (14) 1939-40 1934..............1920 (14)
-  - ⇑ (9) / ⇓ (7): 1 1 1 ⇑2 ⇑3 ⇓2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 ⇓1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Nottingham Forest FC** - 112 seasons in 3 levels
+  - ⇑ (10) / ⇓ (9): 2 2 ⇓1 ⇑2 ⇓1 1 1 ⇑2 ⇑3 ⇓2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 ⇓1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Nottingham Forest FC** - 116 seasons in 3 levels
   - 1 (56): 1998-99 1997...1994 (3) 1993................1977 (16) 1972...............1957 (15) 1925...1922 (3) 1911....1907 (4) 1906..............1892 (14)
-  - 2 (51): 2014......2008 (6) 2005......1999 (6) 1997-98 1993-94 1977.....1972 (5) 1957......1951 (6) 1949...1946 (3) 1940...............1925 (15) 1922...1919 (3) 1915....1911 (4) 1906-07
+  - 2 (55): 2018..........2008 (10) 2005......1999 (6) 1997-98 1993-94 1977.....1972 (5) 1957......1951 (6) 1949...1946 (3) 1940...............1925 (15) 1922...1919 (3) 1915....1911 (4) 1906-07
   - 3 (5): 2008...2005 (3) 1951..1949 (2)
-  - ⇑ (8) / ⇓ (9): 2 2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 2 ⇓1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇑3 3 ⇓2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 ⇑2 2 2  **?? 1918-19 ??** 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-- **Notts County FC** - 116 seasons in 4 levels
+  - ⇑ (8) / ⇓ (9): 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 2 ⇓1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇑3 3 ⇓2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 ⇑2 2 2  **?? 1918-19 ??** 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+- **Notts County FC** - 120 seasons in 4 levels
   - 1 (30): 1991-92 1984...1981 (3) 1926...1923 (3) 1919-20 1914-15 1913................1897 (16) 1893.....1888 (5)
   - 2 (37): 1995...1992 (3) 1990-91 1984-85 1981........1973 (8) 1958........1950 (8) 1935....1931 (4) 1930....1926 (4) 1923...1920 (3) 1913-14 1897....1893 (4)
-  - 3 (34): 2014....2010 (4) 2004......1998 (6) 1997..1995 (2) 1990.....1985 (5) 1973..1971 (2) 1964....1960 (4) 1958-59 1950....1946 (4) 1940.....1935 (5) 1930-31
-  - 4 (15): 2010......2004 (6) 1997-98 1971.......1964 (7) 1959-60
-  - ⇑ (13) / ⇓ (15): 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 ⇓3 3 ⇓2 2 2 ⇓1 ⇑2 ⇑3 3 3 3 3 ⇓2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 2 ⇑3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 ⇓3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 ⇓2 2 2 2 ⇑3 ⇓2 2 2 2 ⇓1 1 1 ⇑2 2 2 ⇓1  **?? 1918-19 ??** 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 
-- **Nuneaton Borough FC** - 2 seasons in 1 level
-  - 5 (2): 2014..2012 (2)
-- **Oldham Athletic AFC** - 97 seasons in 4 levels
+  - 3 (35): 2015.....2010 (5) 2004......1998 (6) 1997..1995 (2) 1990.....1985 (5) 1973..1971 (2) 1964....1960 (4) 1958-59 1950....1946 (4) 1940.....1935 (5) 1930-31
+  - 4 (18): 2018...2015 (3) 2010......2004 (6) 1997-98 1971.......1964 (7) 1959-60
+  - ⇑ (13) / ⇓ (16): 4 4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 ⇓3 3 ⇓2 2 2 ⇓1 ⇑2 ⇑3 3 3 3 3 ⇓2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 2 ⇑3 3 ⇑4 4 4 4 4 4 4 ⇓3 3 3 3 ⇑4 ⇓3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 ⇓2 2 2 2 ⇑3 ⇓2 2 2 2 ⇓1 1 1 ⇑2 2 2 ⇓1  **?? 1918-19 ??** 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 
+- **Nuneaton Borough FC** - 3 seasons in 1 level
+  - 5 (3): 2015...2012 (3)
+- **Oldham Athletic AFC** - 101 seasons in 4 levels
   - 1 (12): 1994...1991 (3) 1923....1919 (4) 1915.....1910 (5)
   - 2 (36): 1997...1994 (3) 1991.................1974 (17) 1953-54 1935............1923 (12) 1910...1907 (3)
-  - 3 (42): 2014.................1997 (17) 1974...1971 (3) 1969......1963 (6) 1958....1954 (4) 1953.......1946 (7) 1940.....1935 (5)
+  - 3 (46): 2018.....................1997 (21) 1974...1971 (3) 1969......1963 (6) 1958....1954 (4) 1953.......1946 (7) 1940.....1935 (5)
   - 4 (7): 1971..1969 (2) 1963.....1958 (5)
-  - ⇑ (6) / ⇓ (7): 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 ⇑4 4 ⇓3 3 3 3 3 3 ⇑4 4 4 4 4 ⇓3 3 3 3 ⇓2 ⇑3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 ⇑2 2 2 
-- **Oxford United FC** - 52 seasons in 5 levels
+  - ⇑ (6) / ⇓ (7): 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 ⇑4 4 ⇓3 3 3 3 3 3 ⇑4 4 4 4 4 ⇓3 3 3 3 ⇓2 ⇑3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 ⇑2 2 2 
+- **Oxford United FC** - 56 seasons in 5 levels
   - 1 (3): 1988...1985 (3)
   - 2 (18): 1999...1996 (3) 1994......1988 (6) 1984-85 1976........1968 (8)
-  - 3 (15): 2001..1999 (2) 1996..1994 (2) 1984........1976 (8) 1968...1965 (3)
-  - 4 (12): 2014....2010 (4) 2006.....2001 (5) 1965...1962 (3)
+  - 3 (17): 2018..2016 (2) 2001..1999 (2) 1996..1994 (2) 1984........1976 (8) 1968...1965 (3)
+  - 4 (14): 2016......2010 (6) 2006.....2001 (5) 1965...1962 (3)
   - 5 (4): 2010....2006 (4)
-  - ⇑ (6) / ⇓ (6): 4 4 4 4 ⇑5 5 5 5 ⇓4 4 4 4 4 ⇓3 3 ⇓2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 ⇓1 1 1 ⇑2 ⇑3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 3 ⇑4 4 4 
-- **Peterborough United FC** - 54 seasons in 3 levels
+  - ⇑ (7) / ⇓ (6): 3 3 ⇑4 4 4 4 4 4 ⇑5 5 5 5 ⇓4 4 4 4 4 ⇓3 3 ⇓2 2 2 ⇑3 3 ⇓2 2 2 2 2 2 ⇓1 1 1 ⇑2 ⇑3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 ⇑3 3 3 ⇑4 4 4 
+- **Peterborough United FC** - 58 seasons in 3 levels
   - 2 (5): 2013..2011 (2) 2009-10 1994..1992 (2)
-  - 3 (24): 2013-14 2010-11 2008-09 2005.....2000 (5) 1997...1994 (3) 1991-92 1979.....1974 (5) 1968.......1961 (7)
+  - 3 (28): 2018.....2013 (5) 2010-11 2008-09 2005.....2000 (5) 1997...1994 (3) 1991-92 1979.....1974 (5) 1968.......1961 (7)
   - 4 (25): 2008...2005 (3) 2000...1997 (3) 1991............1979 (12) 1974......1968 (6) 1960-61
-  - ⇑ (8) / ⇓ (7): 3 ⇓2 2 ⇑3 ⇓2 ⇑3 ⇑4 4 4 ⇓3 3 3 3 3 ⇑4 4 4 ⇓3 3 3 ⇓2 2 ⇑3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 
-- **Plymouth Argyle FC** - 88 seasons in 3 levels
+  - ⇑ (8) / ⇓ (7): 3 3 3 3 3 ⇓2 2 ⇑3 ⇓2 ⇑3 ⇑4 4 4 ⇓3 3 3 3 3 ⇑4 4 4 ⇓3 3 3 ⇓2 2 ⇑3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 ⇑4 
+- **Plymouth Argyle FC** - 92 seasons in 3 levels
   - 2 (41): 2010......2004 (6) 1992......1986 (6) 1977..1975 (2) 1968.........1959 (9) 1956....1952 (4) 1950....1946 (4) 1940..........1930 (10)
-  - 3 (39): 2010-11 2004..2002 (2) 1998..1996 (2) 1995...1992 (3) 1986.........1977 (9) 1975.......1968 (7) 1959...1956 (3) 1952..1950 (2) 1930..........1920 (10)
-  - 4 (8): 2014...2011 (3) 2002....1998 (4) 1995-96
-  - ⇑ (8) / ⇓ (9): 4 4 4 ⇓3 ⇓2 2 2 2 2 2 ⇑3 3 ⇑4 4 4 4 ⇓3 3 ⇑4 ⇓3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 ⇑3 3 ⇓2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 
-- **Port Vale FC** - 102 seasons in 3 levels
+  - 3 (40): 2017-18 2010-11 2004..2002 (2) 1998..1996 (2) 1995...1992 (3) 1986.........1977 (9) 1975.......1968 (7) 1959...1956 (3) 1952..1950 (2) 1930..........1920 (10)
+  - 4 (11): 2017......2011 (6) 2002....1998 (4) 1995-96
+  - ⇑ (9) / ⇓ (9): 3 ⇑4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 ⇑3 3 ⇑4 4 4 4 ⇓3 3 ⇑4 ⇓3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 ⇑3 3 ⇓2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 3 3 
+- **Port Vale FC** - 106 seasons in 3 levels
   - 2 (41): 2000......1994 (6) 1992...1989 (3) 1957...1954 (3) 1936......1930 (6) 1929..........1919 (10) 1907.........1898 (9) 1896....1892 (4)
-  - 3 (43): 2013-14 2008........2000 (8) 1994..1992 (2) 1989...1986 (3) 1983-84 1978........1970 (8) 1965......1959 (6) 1957-58 1954........1946 (8) 1940....1936 (4) 1929-30
-  - 4 (18): 2013.....2008 (5) 1986..1984 (2) 1983.....1978 (5) 1970.....1965 (5) 1958-59
-  - ⇑ (9) / ⇓ (10): 3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 ⇓2 2 2 ⇑3 3 3 ⇑4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 ⇓3 ⇓2 2 2 ⇑3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2  **?? 1897-98 ??** 2 2 2 2 
-- **Portsmouth FC** - 88 seasons in 4 levels
+  - 3 (46): 2017....2013 (4) 2008........2000 (8) 1994..1992 (2) 1989...1986 (3) 1983-84 1978........1970 (8) 1965......1959 (6) 1957-58 1954........1946 (8) 1940....1936 (4) 1929-30
+  - 4 (19): 2017-18 2013.....2008 (5) 1986..1984 (2) 1983.....1978 (5) 1970.....1965 (5) 1958-59
+  - ⇑ (9) / ⇓ (11): 4 ⇓3 3 3 3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 ⇓2 2 2 ⇑3 3 3 ⇑4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 ⇓3 ⇓2 2 2 ⇑3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2  **?? 1897-98 ??** 2 2 2 2 
+- **Portsmouth FC** - 92 seasons in 4 levels
   - 1 (34): 2010.......2003 (7) 1987-88 1959.............1946 (13) 1940.............1927 (13)
   - 2 (40): 2012..2010 (2) 2003...............1988 (15) 1987....1983 (4) 1976..............1962 (14) 1961..1959 (2) 1927...1924 (3)
-  - 3 (11): 2012-13 1983...1980 (3) 1978..1976 (2) 1961-62 1924....1920 (4)
-  - 4 (3): 2013-14 1980..1978 (2)
-  - ⇑ (7) / ⇓ (8): 4 ⇓3 ⇓2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 ⇑3 3 3 ⇑4 4 ⇓3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 ⇓2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇑3 3 3 3 
-- **Preston North End FC** - 116 seasons in 4 levels
+  - 3 (12): 2017-18 2012-13 1983...1980 (3) 1978..1976 (2) 1961-62 1924....1920 (4)
+  - 4 (6): 2017....2013 (4) 1980..1978 (2)
+  - ⇑ (8) / ⇓ (8): 3 ⇑4 4 4 4 ⇓3 ⇓2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 ⇑3 3 3 ⇑4 4 ⇓3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 ⇓2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇑3 3 3 3 
+- **Preston North End FC** - 120 seasons in 4 levels
   - 1 (47): 1961..........1951 (10) 1949...1946 (3) 1940......1934 (6) 1925......1919 (6) 1913-14 1912........1904 (8) 1901.............1888 (13)
-  - 2 (42): 2011...........2000 (11) 1981...1978 (3) 1974...1971 (3) 1970.........1961 (9) 1951..1949 (2) 1934.........1925 (9) 1914-15 1912-13 1904...1901 (3)
-  - 3 (22): 2014...2011 (3) 2000....1996 (4) 1993......1987 (6) 1985....1981 (4) 1978....1974 (4) 1970-71
+  - 2 (45): 2018...2015 (3) 2011...........2000 (11) 1981...1978 (3) 1974...1971 (3) 1970.........1961 (9) 1951..1949 (2) 1934.........1925 (9) 1914-15 1912-13 1904...1901 (3)
+  - 3 (23): 2015....2011 (4) 2000....1996 (4) 1993......1987 (6) 1985....1981 (4) 1978....1974 (4) 1970-71
   - 4 (5): 1996...1993 (3) 1987..1985 (2)
-  - ⇑ (10) / ⇓ (12): 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 ⇓2 2 2 ⇑3 3 3 3 ⇓2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1  **?? 1918-19 ??** ⇑2 ⇓1 ⇑2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 
-- **Queens Park Rangers FC** - 88 seasons in 3 levels
-  - 1 (22): 2013..2011 (2) 1996.............1983 (13) 1979......1973 (6) 1968-69
-  - 2 (26): 2013-14 2011.......2004 (7) 2001.....1996 (5) 1983....1979 (4) 1973....1969 (4) 1967-68 1952....1948 (4)
+  - ⇑ (11) / ⇓ (12): 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇑4 4 4 ⇓3 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 ⇓2 2 2 ⇑3 3 3 3 ⇓2 2 2 ⇑3 ⇓2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1  **?? 1918-19 ??** ⇑2 ⇓1 ⇑2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 
+- **Queens Park Rangers FC** - 92 seasons in 3 levels
+  - 1 (23): 2014-15 2013..2011 (2) 1996.............1983 (13) 1979......1973 (6) 1968-69
+  - 2 (29): 2018...2015 (3) 2013-14 2011.......2004 (7) 2001.....1996 (5) 1983....1979 (4) 1973....1969 (4) 1967-68 1952....1948 (4)
   - 3 (40): 2004...2001 (3) 1967...............1952 (15) 1948..1946 (2) 1940....................1920 (20)
-  - ⇑ (7) / ⇓ (6): 2 ⇓1 1 ⇑2 2 2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 ⇑2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Reading FC** - 88 seasons in 4 levels
+  - ⇑ (8) / ⇓ (7): 2 2 2 ⇓1 ⇑2 ⇓1 1 ⇑2 2 2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 ⇑2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Reading FC** - 92 seasons in 4 levels
   - 1 (3): 2012-13 2008..2006 (2)
-  - 2 (20): 2013-14 2012....2008 (4) 2006....2002 (4) 1998....1994 (4) 1988..1986 (2) 1931.....1926 (5)
+  - 2 (24): 2018.....2013 (5) 2012....2008 (4) 2006....2002 (4) 1998....1994 (4) 1988..1986 (2) 1931.....1926 (5)
   - 3 (57): 2002....1998 (4) 1994......1988 (6) 1986..1984 (2) 1983....1979 (4) 1976-77 1971.........................1946 (25) 1940.........1931 (9) 1926......1920 (6)
   - 4 (8): 1983-84 1979..1977 (2) 1976.....1971 (5)
-  - ⇑ (9) / ⇓ (8): 2 ⇓1 ⇑2 2 2 2 ⇓1 1 ⇑2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 ⇑3 3 3 3 3 3 ⇓2 2 ⇑3 3 ⇑4 ⇓3 3 3 3 ⇑4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 
-- **Rochdale AFC** - 86 seasons in 2 levels
-  - 3 (39): 2012..2010 (2) 1974.....1969 (5) 1959.............1946 (13) 1940...................1921 (19)
+  - ⇑ (9) / ⇓ (8): 2 2 2 2 2 ⇓1 ⇑2 2 2 2 ⇓1 1 ⇑2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 ⇑3 3 3 3 3 3 ⇓2 2 ⇑3 3 ⇑4 ⇓3 3 3 3 ⇑4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 
+- **Rochdale AFC** - 90 seasons in 2 levels
+  - 3 (43): 2018....2014 (4) 2012..2010 (2) 1974.....1969 (5) 1959.............1946 (13) 1940...................1921 (19)
   - 4 (47): 2014..2012 (2) 2010.................1993 (17) 1992..................1974 (18) 1969..........1959 (10)
-  - ⇑ (2) / ⇓ (3): 4 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - ⇑ (3) / ⇓ (3): 3 3 3 3 ⇑4 4 ⇓3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **Rotherham County FC (1870-1925)** - 6 seasons in 2 levels
   - 2 (4): 1923....1919 (4)
   - 3 (2): 1925..1923 (2)
   - ⇓ (1): 3 3 ⇓2 2 2 2 
 - **Rotherham Town FC (1899-1925)** - 3 seasons in 1 level
   - 2 (3): 1896...1893 (3)
-- **Rotherham United FC** - 83 seasons in 3 levels
-  - 2 (23): 2005....2001 (4) 1983..1981 (2) 1968.................1951 (17)
-  - 3 (47): 2013-14 2007..2005 (2) 2000-01 1997.....1992 (5) 1991..1989 (2) 1988.....1983 (5) 1981......1975 (6) 1973.....1968 (5) 1951.....1946 (5) 1940...............1925 (15)
+- **Rotherham United FC** - 87 seasons in 3 levels
+  - 2 (26): 2017...2014 (3) 2005....2001 (4) 1983..1981 (2) 1968.................1951 (17)
+  - 3 (48): 2017-18 2013-14 2007..2005 (2) 2000-01 1997.....1992 (5) 1991..1989 (2) 1988.....1983 (5) 1981......1975 (6) 1973.....1968 (5) 1951.....1946 (5) 1940...............1925 (15)
   - 4 (13): 2013......2007 (6) 2000...1997 (3) 1991-92 1988-89 1975..1973 (2)
-  - ⇑ (8) / ⇓ (8): 3 ⇑4 4 4 4 4 4 ⇓3 3 ⇓2 2 2 2 ⇑3 ⇑4 4 4 ⇓3 3 3 3 3 ⇑4 ⇓3 3 ⇑4 ⇓3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - ⇑ (9) / ⇓ (9): 3 ⇓2 2 2 ⇑3 ⇑4 4 4 4 4 4 ⇓3 3 ⇓2 2 2 2 ⇑3 ⇑4 4 4 ⇓3 3 3 3 3 ⇑4 ⇓3 3 ⇑4 ⇓3 3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **Salisbury City FC (1947-2014)** - 4 seasons in 1 level
   - 5 (4): 2013-14 2010...2007 (3)
 - **Scarborough Athletic FC** - 12 seasons in 2 levels
   - 4 (11): 1999......1993 (6) 1992.....1987 (5)
   - 5 (1): 2005-06
   - ⇓ (1): 5  **?? 2004-05 ??** ⇓4 4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 4 
-- **Scunthorpe United FC** - 63 seasons in 3 levels
+- **Scunthorpe United FC** - 67 seasons in 3 levels
   - 2 (9): 2011..2009 (2) 2007-08 1964......1958 (6)
-  - 3 (20): 2013..2011 (2) 2008-09 2007..2005 (2) 1999-00 1983-84 1972-73 1968....1964 (4) 1958........1950 (8)
+  - 3 (24): 2018....2014 (4) 2013..2011 (2) 2008-09 2007..2005 (2) 1999-00 1983-84 1972-73 1968....1964 (4) 1958........1950 (8)
   - 4 (34): 2013-14 2005.....2000 (5) 1999......1993 (6) 1992........1984 (8) 1983..........1973 (10) 1972....1968 (4)
-  - ⇑ (7) / ⇓ (8): 4 ⇓3 3 ⇓2 2 ⇑3 ⇓2 ⇑3 3 ⇑4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 ⇓3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 
-- **Sheffield United FC** - 112 seasons in 4 levels
+  - ⇑ (8) / ⇓ (8): 3 3 3 3 ⇑4 ⇓3 3 ⇓2 2 ⇑3 ⇓2 ⇑3 3 ⇑4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4  **?? 1992-93 ??** 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 ⇑4 4 4 4 ⇓3 3 3 3 ⇓2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 3 
+- **Sheffield United FC** - 116 seasons in 4 levels
   - 1 (61): 2006-07 1994....1990 (4) 1976.....1971 (5) 1968.......1961 (7) 1956...1953 (3) 1949...1946 (3) 1939-40 1934...............1919 (15) 1915......................1893 (22)
-  - 2 (42): 2011....2007 (4) 2006............1994 (12) 1989-90 1988....1984 (4) 1979...1976 (3) 1971...1968 (3) 1961.....1956 (5) 1953....1949 (4) 1939.....1934 (5) 1892-93
-  - 3 (8): 2014...2011 (3) 1988-89 1984..1982 (2) 1981..1979 (2)
+  - 2 (43): 2017-18 2011....2007 (4) 2006............1994 (12) 1989-90 1988....1984 (4) 1979...1976 (3) 1971...1968 (3) 1961.....1956 (5) 1953....1949 (4) 1939.....1934 (5) 1892-93
+  - 3 (11): 2017......2011 (6) 1988-89 1984..1982 (2) 1981..1979 (2)
   - 4 (1): 1981-82
-  - ⇑ (10) / ⇓ (11): 3 3 3 ⇓2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇑3 ⇓2 2 2 2 ⇑3 3 ⇑4 ⇓3 3 ⇓2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 1 ⇑2 2 2 2 ⇓1 1 1  **?? 1945-46 ??** 1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 
-- **Sheffield Wednesday FC** - 112 seasons in 3 levels
+  - ⇑ (11) / ⇓ (11): 2 ⇑3 3 3 3 3 3 ⇓2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇑3 ⇓2 2 2 2 ⇑3 3 ⇑4 ⇓3 3 ⇓2 2 2 ⇓1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 2 ⇓1 1 1 ⇑2 2 2 2 ⇓1 1 1  **?? 1945-46 ??** 1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 
+- **Sheffield Wednesday FC** - 116 seasons in 3 levels
   - 1 (66): 2000.........1991 (9) 1990......1984 (6) 1970...........1959 (11) 1958..1956 (2) 1955...1952 (3) 1950-51 1937...........1926 (11) 1919-20 1915...............1900 (15) 1899.......1892 (7)
-  - 2 (37): 2014..2012 (2) 2010.....2005 (5) 2003...2000 (3) 1990-91 1984....1980 (4) 1975.....1970 (5) 1958-59 1955-56 1951-52 1950....1946 (4) 1940...1937 (3) 1926......1920 (6) 1899-00
+  - 2 (41): 2018......2012 (6) 2010.....2005 (5) 2003...2000 (3) 1990-91 1984....1980 (4) 1975.....1970 (5) 1958-59 1955-56 1951-52 1950....1946 (4) 1940...1937 (3) 1926......1920 (6) 1899-00
   - 3 (9): 2012..2010 (2) 2005..2003 (2) 1980.....1975 (5)
-  - ⇑ (11) / ⇓ (12): 2 2 ⇑3 3 ⇓2 2 2 2 2 ⇑3 3 ⇓2 2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 ⇑2 2 2 2  **?? 1945-46 ??** 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇓1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 
-- **Shrewsbury Town FC** - 62 seasons in 3 levels
+  - ⇑ (11) / ⇓ (12): 2 2 2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 ⇑3 3 ⇓2 2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 ⇑3 3 3 3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 ⇑2 2 2 2  **?? 1945-46 ??** 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇓1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 
+- **Shrewsbury Town FC** - 66 seasons in 3 levels
   - 2 (10): 1989..........1979 (10)
-  - 3 (35): 2014..2012 (2) 1997...1994 (3) 1992...1989 (3) 1979....1975 (4) 1974...............1959 (15) 1958........1950 (8)
-  - 4 (17): 2012........2004 (8) 2003......1997 (6) 1993-94 1974-75 1958-59
-  - ⇑ (5) / ⇓ (5): 3 3 ⇑4 4 4 4 4 4 4 4  **?? 2003-04 ??** 4 4 4 4 4 4 ⇓3 3 3 ⇑4  **?? 1992-93 ??** ⇓3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 
+  - 3 (38): 2018...2015 (3) 2014..2012 (2) 1997...1994 (3) 1992...1989 (3) 1979....1975 (4) 1974...............1959 (15) 1958........1950 (8)
+  - 4 (18): 2014-15 2012........2004 (8) 2003......1997 (6) 1993-94 1974-75 1958-59
+  - ⇑ (6) / ⇓ (6): 3 3 3 ⇑4 ⇓3 3 ⇑4 4 4 4 4 4 4 4  **?? 2003-04 ??** 4 4 4 4 4 4 ⇓3 3 3 ⇑4  **?? 1992-93 ??** ⇓3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 
+- **Solihull Moors FC** - 2 seasons in 1 level
+  - 5 (2): 2018..2016 (2)
 - **South Shields FC** - 11 seasons in 2 levels
   - 2 (9): 1928.........1919 (9)
   - 3 (2): 1930..1928 (2)
   - ⇓ (1): 3 3 ⇓2 2 2 2 2 2 2 2 2 
-- **Southampton FC** - 89 seasons in 3 levels
-  - 1 (38): 2017-18 2014..2012 (2) 2005...........................1978 (27) 1974........1966 (8)
+- **Southampton FC** - 92 seasons in 3 levels
+  - 1 (41): 2018......2012 (6) 2005...........................1978 (27) 1974........1966 (8)
   - 2 (40): 2011-12 2009....2005 (4) 1978....1974 (4) 1966......1960 (6) 1953.......1946 (7) 1940..................1922 (18)
   - 3 (11): 2011..2009 (2) 1960.......1953 (7) 1922..1920 (2)
-  - ⇑ (6) / ⇓ (4): 1  **?? 2016-17 ??** 1 1 ⇑2 ⇑3 3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 
-- **Southend United FC** - 88 seasons in 3 levels
+  - ⇑ (6) / ⇓ (4): 1 1 1 1 1 1 ⇑2 ⇑3 3 ⇓2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇑3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 
+- **Southend United FC** - 92 seasons in 3 levels
   - 2 (7): 2006-07 1997......1991 (6)
-  - 3 (57): 2010...2007 (3) 2005-06 1997-98 1990-91 1989..1987 (2) 1984...1981 (3) 1980..1978 (2) 1976....1972 (4) 1966....................1946 (20) 1940....................1920 (20)
-  - 4 (24): 2014....2010 (4) 2005.......1998 (7) 1989-90 1987...1984 (3) 1980-81 1978..1976 (2) 1972......1966 (6)
-  - ⇑ (8) / ⇓ (9): 4 4 4 4 ⇓3 3 3 ⇓2 ⇑3 ⇑4 4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 ⇑3 ⇑4 ⇓3 3 ⇑4 4 4 ⇓3 3 3 ⇑4 ⇓3 3 ⇑4 4 ⇓3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Southport FC** - 57 seasons in 3 levels
+  - 3 (60): 2018...2015 (3) 2010...2007 (3) 2005-06 1997-98 1990-91 1989..1987 (2) 1984...1981 (3) 1980..1978 (2) 1976....1972 (4) 1966....................1946 (20) 1940....................1920 (20)
+  - 4 (25): 2015.....2010 (5) 2005.......1998 (7) 1989-90 1987...1984 (3) 1980-81 1978..1976 (2) 1972......1966 (6)
+  - ⇑ (9) / ⇓ (9): 3 3 3 ⇑4 4 4 4 4 ⇓3 3 3 ⇓2 ⇑3 ⇑4 4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 2 2 ⇑3 ⇑4 ⇓3 3 ⇑4 4 4 ⇓3 3 3 ⇑4 ⇓3 3 ⇑4 4 ⇓3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Southport FC** - 60 seasons in 3 levels
   - 3 (35): 1973-74 1970...1967 (3) 1958............1946 (12) 1940...................1921 (19)
   - 4 (16): 1978....1974 (4) 1973...1970 (3) 1967.........1958 (9)
-  - 5 (6): 2014....2010 (4) 2007..2005 (2)
-  - ⇑ (2) / ⇓ (4): 5 5 5 5  **?? 2009-10 ??** 5 5  **?? 2004-05 ??** ⇓4 4 4 4 ⇓3 ⇑4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - 5 (9): 2017.......2010 (7) 2007..2005 (2)
+  - ⇑ (2) / ⇓ (4): 5 5 5 5 5 5 5  **?? 2009-10 ??** 5 5  **?? 2004-05 ??** ⇓4 4 4 4 ⇓3 ⇑4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **St. Albans City FC** - 1 season in 1 level
   - 5 (1): 2006-07
 - **Stafford Rangers FC** - 2 seasons in 1 level
   - 5 (2): 2008..2006 (2)
 - **Stalybridge Celtic FC** - 2 seasons in 1 level
   - 3 (2): 1923..1921 (2)
-- **Stevenage FC** - 9 seasons in 3 levels
+- **Stevenage FC** - 13 seasons in 3 levels
   - 3 (3): 2014...2011 (3)
-  - 4 (1): 2010-11
+  - 4 (5): 2018....2014 (4) 2010-11
   - 5 (5): 2010.....2005 (5)
-  - ⇑ (2): 3 3 3 ⇑4 ⇑5 5 5 5 5 
+  - ⇑ (2) / ⇓ (1): 4 4 4 4 ⇓3 3 3 ⇑4 ⇑5 5 5 5 5 
 - **Stockport County FC** - 102 seasons in 4 levels
   - 2 (26): 2002.....1997 (5) 1937-38 1926....1922 (4) 1921..1919 (2) 1915..........1905 (10) 1904....1900 (4)
   - 3 (41): 2010..2008 (2) 2005...2002 (3) 1997......1991 (6) 1970...1967 (3) 1959.............1946 (13) 1940..1938 (2) 1937...........1926 (11) 1921-22
   - 4 (33): 2010-11 2008...2005 (3) 1991.....................1970 (21) 1967........1959 (8)
   - 5 (2): 2013..2011 (2)
   - ⇑ (6) / ⇓ (9): 5 5 ⇓4 ⇓3 3 ⇑4 4 4 ⇓3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 3 3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 ⇓2 ⇑3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 ⇓2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 2  **?? 1904-05 ??** 2 2 2 2 
-- **Stoke City FC** - 109 seasons in 3 levels
-  - 1 (60): 2017-18 2014......2008 (6) 1985......1979 (6) 1977..............1963 (14) 1953.......1946 (7) 1940.......1933 (7) 1922-23 1907................1891 (16) 1890..1888 (2)
+- **Stoke City FC** - 112 seasons in 3 levels
+  - 1 (63): 2018..........2008 (10) 1985......1979 (6) 1977..............1963 (14) 1953.......1946 (7) 1940.......1933 (7) 1922-23 1907................1891 (16) 1890..1888 (2)
   - 2 (41): 2008......2002 (6) 1998.....1993 (5) 1990.....1985 (5) 1979..1977 (2) 1963..........1953 (10) 1933......1927 (6) 1926...1923 (3) 1922...1919 (3) 1907-08
   - 3 (8): 2002....1998 (4) 1993...1990 (3) 1926-27
-  - ⇑ (8) / ⇓ (8): 1  **?? 2016-17 ??** 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇑3 ⇓2 2 2 ⇓1 ⇑2 2 2  **?? 1918-19 ??** 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1890-91 ??** 1 1 
-- **Sunderland AFC** - 114 seasons in 3 levels
-  - 1 (84): 2014.......2007 (7) 2005-06 2003....1999 (4) 1996-97 1990-91 1985.....1980 (5) 1976-77 1970......1964 (6) 1958............1946 (12) 1940.....................1919 (21) 1915.........................1890 (25)
-  - 2 (29): 2006-07 2005..2003 (2) 1999..1997 (2) 1996.....1991 (5) 1990..1988 (2) 1987..1985 (2) 1980...1977 (3) 1976......1970 (6) 1964......1958 (6)
+  - ⇑ (8) / ⇓ (8): 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇑3 ⇓2 2 2 ⇓1 ⇑2 2 2  **?? 1918-19 ??** 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1890-91 ??** 1 1 
+- **Sunderland AFC** - 118 seasons in 3 levels
+  - 1 (87): 2017..........2007 (10) 2005-06 2003....1999 (4) 1996-97 1990-91 1985.....1980 (5) 1976-77 1970......1964 (6) 1958............1946 (12) 1940.....................1919 (21) 1915.........................1890 (25)
+  - 2 (30): 2017-18 2006-07 2005..2003 (2) 1999..1997 (2) 1996.....1991 (5) 1990..1988 (2) 1987..1985 (2) 1980...1977 (3) 1976......1970 (6) 1964......1958 (6)
   - 3 (1): 1987-88
-  - ⇑ (9) / ⇓ (9): 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 1 1 1 ⇑2 2 ⇓1 ⇑2 2 2 2 2 ⇓1 ⇑2 2 ⇑3 ⇓2 2 ⇓1 1 1 1 1 ⇑2 2 2 ⇓1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-- **Swansea City AFC** - 89 seasons in 4 levels
-  - 1 (6): 2017-18 2014...2011 (3) 1983..1981 (2)
+  - ⇑ (9) / ⇓ (10): 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 1 1 1 ⇑2 2 ⇓1 ⇑2 2 2 2 2 ⇓1 ⇑2 2 ⇑3 ⇓2 2 ⇓1 1 1 1 1 ⇑2 2 2 ⇓1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+- **Sutton United FC** - 2 seasons in 1 level
+  - 5 (2): 2018..2016 (2)
+- **Swansea City AFC** - 92 seasons in 4 levels
+  - 1 (9): 2018.......2011 (7) 1983..1981 (2)
   - 2 (38): 2011...2008 (3) 1983-84 1981..1979 (2) 1965................1949 (16) 1946-47 1940...............1925 (15)
   - 3 (27): 2008...2005 (3) 2000-01 1996........1988 (8) 1986..1984 (2) 1978-79 1973...1970 (3) 1967..1965 (2) 1949..1947 (2) 1925.....1920 (5)
   - 4 (18): 2005....2001 (4) 2000....1996 (4) 1988..1986 (2) 1978.....1973 (5) 1970...1967 (3)
-  - ⇑ (11) / ⇓ (9): 1  **?? 2016-17 ??** 1 1 1 ⇑2 2 2 ⇑3 3 3 ⇑4 4 4 4 ⇓3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇑4 4 ⇓3 3 ⇓2 ⇓1 1 ⇑2 2 ⇑3 ⇑4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 ⇓3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇓2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 
-- **Swindon Town FC** - 88 seasons in 4 levels
+  - ⇑ (11) / ⇓ (9): 1 1 1 1 1 1 1 ⇑2 2 2 ⇑3 3 3 ⇑4 4 4 4 ⇓3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇑4 4 ⇓3 3 ⇓2 ⇓1 1 ⇑2 2 ⇑3 ⇑4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 ⇓3 3 ⇓2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇓2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 3 3 3 3 
+- **Swindon Town FC** - 92 seasons in 4 levels
   - 1 (1): 1993-94
   - 2 (18): 2000....1996 (4) 1994-95 1993......1987 (6) 1974.....1969 (5) 1965..1963 (2)
-  - 3 (63): 2014..2012 (2) 2011....2007 (4) 2006......2000 (6) 1995-96 1986-87 1982........1974 (8) 1969....1965 (4) 1963.................1946 (17) 1940....................1920 (20)
-  - 4 (6): 2011-12 2006-07 1986....1982 (4)
-  - ⇑ (8) / ⇓ (8): 3 3 ⇑4 ⇓3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 ⇓2 ⇓1 ⇑2 2 2 2 2 2 ⇑3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+  - 3 (66): 2017.....2012 (5) 2011....2007 (4) 2006......2000 (6) 1995-96 1986-87 1982........1974 (8) 1969....1965 (4) 1963.................1946 (17) 1940....................1920 (20)
+  - 4 (7): 2017-18 2011-12 2006-07 1986....1982 (4)
+  - ⇑ (8) / ⇓ (9): 4 ⇓3 3 3 3 3 ⇑4 ⇓3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 ⇓2 2 2 2 ⇑3 ⇓2 ⇓1 ⇑2 2 2 2 2 2 ⇑3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 ⇑3 3 3 3 ⇓2 2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
 - **Tamworth FC** - 7 seasons in 1 level
   - 5 (7): 2014.....2009 (5) 2007..2005 (2)
+- **Telford United FC (1872-2004)** - 2 seasons in 1 level
+  - 5 (2): 2014-15 2012-13
 - **Thames AFC (1928-1932)** - 2 seasons in 1 level
   - 3 (2): 1932..1930 (2)
-- **Torquay United FC** - 80 seasons in 3 levels
+- **Torquay United FC** - 84 seasons in 3 levels
   - 3 (35): 2004-05 1991-92 1972......1966 (6) 1962..1960 (2) 1958............1946 (12) 1940.............1927 (13)
   - 4 (43): 2014.....2009 (5) 2007..2005 (2) 2004...........1993 (11) 1991...................1972 (19) 1966....1962 (4) 1960..1958 (2)
-  - 5 (2): 2009..2007 (2)
-  - ⇑ (5) / ⇓ (6): 4 4 4 4 4 ⇑5 5 ⇓4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 4 4 4  **?? 1992-93 ??** ⇓3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Tottenham Hotspur FC** - 97 seasons in 2 levels
-  - 1 (80): 2017-18 2014....................................1978 (36) 1977...........................1950 (27) 1935..1933 (2) 1928........1920 (8) 1915......1909 (6)
+  - 5 (6): 2018....2014 (4) 2009..2007 (2)
+  - ⇑ (5) / ⇓ (7): 5 5 5 5 ⇓4 4 4 4 4 ⇑5 5 ⇓4 4 ⇓3 ⇑4 4 4 4 4 4 4 4 4 4 4  **?? 1992-93 ??** ⇓3 ⇑4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Tottenham Hotspur FC** - 100 seasons in 2 levels
+  - 1 (83): 2018........................................1978 (40) 1977...........................1950 (27) 1935..1933 (2) 1928........1920 (8) 1915......1909 (6)
   - 2 (17): 1977-78 1950....1946 (4) 1940.....1935 (5) 1933.....1928 (5) 1919-20 1908-09
-  - ⇑ (5) / ⇓ (4): 1  **?? 2016-17 ??** 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 ⇑2  **?? 1918-19 ??** ⇓1 1 1 1 1 1 ⇑2 
-- **Tranmere Rovers FC** - 87 seasons in 3 levels
+  - ⇑ (5) / ⇓ (4): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 ⇑2  **?? 1918-19 ??** ⇓1 1 1 1 1 1 ⇑2 
+- **Tranmere Rovers FC** - 91 seasons in 4 levels
   - 2 (11): 2001..........1991 (10) 1938-39
   - 3 (59): 2014.............2001 (13) 1991..1989 (2) 1979...1976 (3) 1975........1967 (8) 1961...............1946 (15) 1939-40 1938.................1921 (17)
-  - 4 (17): 1989..........1979 (10) 1975-76 1967......1961 (6)
-  - ⇑ (5) / ⇓ (5): 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 ⇓2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Walsall FC** - 94 seasons in 3 levels
+  - 4 (18): 2014-15 1989..........1979 (10) 1975-76 1967......1961 (6)
+  - 5 (3): 2018...2015 (3)
+  - ⇑ (5) / ⇓ (7): 5 5 5 ⇓4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 2 2 2 2 2 2 2 2 ⇑3 3 ⇑4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 ⇓2 ⇑3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Walsall FC** - 98 seasons in 3 levels
   - 2 (15): 2004...2001 (3) 1999-00 1988-89 1963..1961 (2) 1901.....1896 (5) 1895...1892 (3)
-  - 3 (71): 2014.......2007 (7) 2006..2004 (2) 2000-01 1999....1995 (4) 1989-90 1988........1980 (8) 1979................1963 (16) 1960-61 1958............1946 (12) 1940...................1921 (19)
+  - 3 (75): 2018...........2007 (11) 2006..2004 (2) 2000-01 1999....1995 (4) 1989-90 1988........1980 (8) 1979................1963 (16) 1960-61 1958............1946 (12) 1940...................1921 (19)
   - 4 (8): 2006-07 1995..1993 (2) 1992..1990 (2) 1979-80 1960..1958 (2)
-  - ⇑ (8) / ⇓ (9): 3 3 3 3 3 3 3 ⇑4 ⇓3 3 ⇓2 2 2 ⇑3 ⇓2 ⇑3 3 3 3 ⇑4 4  **?? 1992-93 ??** 4 4 ⇓3 ⇓2 ⇑3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 ⇑3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1920-21 ??** ⇓2 2 2 2 2  **?? 1895-96 ??** 2 2 2 
-- **Watford FC** - 89 seasons in 4 levels
-  - 1 (9): 2017-18 2006-07 1999-00 1988......1982 (6)
-  - 2 (28): 2014.......2007 (7) 2006......2000 (6) 1998-99 1996........1988 (8) 1982...1979 (3) 1972...1969 (3)
+  - ⇑ (8) / ⇓ (9): 3 3 3 3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 ⇓2 2 2 ⇑3 ⇓2 ⇑3 3 3 3 ⇑4 4  **?? 1992-93 ??** 4 4 ⇓3 ⇓2 ⇑3 3 3 3 3 3 3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 ⇓2 2 ⇑3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1920-21 ??** ⇓2 2 2 2 2  **?? 1895-96 ??** 2 2 2 
+- **Watford FC** - 92 seasons in 4 levels
+  - 1 (11): 2018...2015 (3) 2006-07 1999-00 1988......1982 (6)
+  - 2 (29): 2015........2007 (8) 2006......2000 (6) 1998-99 1996........1988 (8) 1982...1979 (3) 1972...1969 (3)
   - 3 (47): 1998..1996 (2) 1978-79 1975...1972 (3) 1969.........1960 (9) 1958............1946 (12) 1940....................1920 (20)
   - 4 (5): 1978...1975 (3) 1960..1958 (2)
-  - ⇑ (9) / ⇓ (7): 1  **?? 2016-17 ??** ⇑2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 ⇓1 ⇑2 ⇑3 3 ⇓2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 ⇑3 ⇑4 4 4 ⇓3 3 3 ⇓2 2 2 ⇑3 3 3 3 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Welling United FC** - 1 season in 1 level
-  - 5 (1): 2013-14
-- **West Bromwich Albion FC** - 117 seasons in 3 levels
-  - 1 (77): 2017-18 2014....2010 (4) 2008-09 2006..2004 (2) 2002-03 1986..........1976 (10) 1973........................1949 (24) 1938.......1931 (7) 1927........1919 (8) 1915....1911 (4) 1904..1902 (2) 1901.............1888 (13)
+  - ⇑ (9) / ⇓ (7): 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 ⇓1 ⇑2 ⇑3 3 ⇓2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 ⇑2 2 2 ⇑3 ⇑4 4 4 ⇓3 3 3 ⇓2 2 2 ⇑3 3 3 3 3 3 3 3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Welling United FC** - 3 seasons in 1 level
+  - 5 (3): 2016...2013 (3)
+- **West Bromwich Albion FC** - 120 seasons in 3 levels
+  - 1 (80): 2018........2010 (8) 2008-09 2006..2004 (2) 2002-03 1986..........1976 (10) 1973........................1949 (24) 1938.......1931 (7) 1927........1919 (8) 1915....1911 (4) 1904..1902 (2) 1901.............1888 (13)
   - 2 (38): 2009-10 2008..2006 (2) 2003-04 2002.........1993 (9) 1991.....1986 (5) 1976...1973 (3) 1949...1946 (3) 1940..1938 (2) 1931....1927 (4) 1911.......1904 (7) 1901-02
   - 3 (2): 1993..1991 (2)
-  - ⇑ (10) / ⇓ (10): 1  **?? 2016-17 ??** 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2  **?? 1945-46 ??** 2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇓1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 
-- **West Ham United FC** - 90 seasons in 2 levels
-  - 1 (57): 2017-18 2014..2012 (2) 2011......2005 (6) 2003..........1993 (10) 1991-92 1989........1981 (8) 1978....................1958 (20) 1932.........1923 (9)
+  - ⇑ (10) / ⇓ (10): 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 1 ⇑2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 ⇑3 3 ⇓2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2  **?? 1945-46 ??** 2 2 ⇓1 1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 1 1  **?? 1918-19 ??** 1 1 1 1 ⇑2 2 2 2 2 2 2 ⇓1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 
+- **West Ham United FC** - 93 seasons in 2 levels
+  - 1 (60): 2018......2012 (6) 2011......2005 (6) 2003..........1993 (10) 1991-92 1989........1981 (8) 1978....................1958 (20) 1932.........1923 (9)
   - 2 (33): 2011-12 2005..2003 (2) 1992-93 1991..1989 (2) 1981...1978 (3) 1958............1946 (12) 1940........1932 (8) 1923....1919 (4)
-  - ⇑ (7) / ⇓ (6): 1  **?? 2016-17 ??** 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 
+  - ⇑ (7) / ⇓ (6): 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 2  **?? 1945-46 ??** 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 
 - **Weymouth FC** - 3 seasons in 1 level
   - 5 (3): 2009...2006 (3)
-- **Wigan Athletic FC** - 36 seasons in 4 levels
+- **Wigan Athletic FC** - 40 seasons in 4 levels
   - 1 (8): 2013........2005 (8)
-  - 2 (3): 2013-14 2005..2003 (2)
-  - 3 (17): 2003......1997 (6) 1993...........1982 (11)
+  - 2 (5): 2016-17 2015..2013 (2) 2005..2003 (2)
+  - 3 (19): 2017-18 2015-16 2003......1997 (6) 1993...........1982 (11)
   - 4 (8): 1997....1993 (4) 1982....1978 (4)
-  - ⇑ (4) / ⇓ (2): 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 ⇑3 3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 ⇑4 4 4 4 
+  - ⇑ (5) / ⇓ (4): 3 ⇓2 ⇑3 ⇓2 2 ⇓1 1 1 1 1 1 1 1 ⇑2 2 ⇑3 3 3 3 3 3 ⇑4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 ⇑4 4 4 4 
 - **Wigan Borough FC (1920-1931)** - 11 seasons in 1 level
   - 3 (11): 1932...........1921 (11)
 - **Wimbledon FC** - 27 seasons in 4 levels
@@ -4118,39 +4323,39 @@ York City FC                => (2) York • York City
   - 3 (3): 1983-84 1981-82 1979-80
   - 4 (4): 1982-83 1980-81 1979..1977 (2)
   - ⇑ (5) / ⇓ (3): 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇑3 ⇑4 ⇓3 ⇑4 ⇓3 ⇑4 4 
-- **Woking FC** - 6 seasons in 1 level
-  - 5 (6): 2014..2012 (2) 2009....2005 (4)
-- **Wolverhampton Wanderers FC** - 116 seasons in 4 levels
+- **Woking FC** - 10 seasons in 1 level
+  - 5 (10): 2018......2012 (6) 2009....2005 (4)
+- **Wolverhampton Wanderers FC** - 120 seasons in 4 levels
   - 1 (64): 2012...2009 (3) 2003-04 1983-84 1982.....1977 (5) 1976.........1967 (9) 1965...................1946 (19) 1940........1932 (8) 1906..................1888 (18)
-  - 2 (46): 2012-13 2009.....2004 (5) 2003..............1989 (14) 1984-85 1982-83 1976-77 1967..1965 (2) 1932........1924 (8) 1923....1919 (4) 1915.........1906 (9)
+  - 2 (50): 2018....2014 (4) 2012-13 2009.....2004 (5) 2003..............1989 (14) 1984-85 1982-83 1976-77 1967..1965 (2) 1932........1924 (8) 1923....1919 (4) 1915.........1906 (9)
   - 3 (4): 2013-14 1988-89 1985-86 1923-24
   - 4 (2): 1988..1986 (2)
-  - ⇑ (9) / ⇓ (11): 3 ⇓2 ⇓1 1 1 ⇑2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 ⇑4 4 ⇓3 ⇓2 ⇓1 ⇑2 ⇓1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇑3 ⇓2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+  - ⇑ (10) / ⇓ (11): 2 2 2 2 ⇑3 ⇓2 ⇓1 1 1 ⇑2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇑3 ⇑4 4 ⇓3 ⇓2 ⇓1 ⇑2 ⇓1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  **?? 1945-46 ??** 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 2 ⇑3 ⇓2 2 2 2  **?? 1918-19 ??** 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
 - **Workington AFC** - 26 seasons in 2 levels
   - 3 (10): 1967...1964 (3) 1958.......1951 (7)
   - 4 (16): 1977..........1967 (10) 1964......1958 (6)
   - ⇑ (1) / ⇓ (2): 4 4 4 4 4 4 4 4 4 4 ⇓3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 3 3 3 3 3 
-- **Wrexham AFC** - 86 seasons in 4 levels
+- **Wrexham AFC** - 90 seasons in 4 levels
   - 2 (4): 1982....1978 (4)
   - 3 (55): 2005..2003 (2) 2002.........1993 (9) 1982-83 1978........1970 (8) 1964..1962 (2) 1960..............1946 (14) 1940...................1921 (19)
   - 4 (21): 2008...2005 (3) 2002-03 1992.........1983 (9) 1970......1964 (6) 1962..1960 (2)
-  - 5 (6): 2014......2008 (6)
-  - ⇑ (5) / ⇓ (7): 5 5 5 5 5 5 ⇓4 4 4 ⇓3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3  **?? 1992-93 ??** ⇑4 4 4 4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 ⇑3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
-- **Wycombe Wanderers FC** - 21 seasons in 2 levels
+  - 5 (10): 2018..........2008 (10)
+  - ⇑ (5) / ⇓ (7): 5 5 5 5 5 5 5 5 5 5 ⇓4 4 4 ⇓3 3 ⇑4 ⇓3 3 3 3 3 3 3 3 3  **?? 1992-93 ??** ⇑4 4 4 4 4 4 4 4 4 ⇓3 ⇓2 2 2 2 ⇑3 3 3 3 3 3 3 3 ⇑4 4 4 4 4 4 ⇓3 3 ⇑4 4 ⇓3 3 3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+- **Wycombe Wanderers FC** - 25 seasons in 2 levels
   - 3 (12): 2011-12 2009-10 2004..........1994 (10)
-  - 4 (9): 2014..2012 (2) 2010-11 2009.....2004 (5) 1993-94
-  - ⇑ (3) / ⇓ (3): 4 4 ⇓3 ⇑4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 ⇑4 
-- **Yeovil Town FC** - 11 seasons in 3 levels
+  - 4 (13): 2018......2012 (6) 2010-11 2009.....2004 (5) 1993-94
+  - ⇑ (3) / ⇓ (3): 4 4 4 4 4 4 ⇓3 ⇑4 ⇓3 ⇑4 4 4 4 4 ⇓3 3 3 3 3 3 3 3 3 3 ⇑4 
+- **Yeovil Town FC** - 15 seasons in 3 levels
   - 2 (1): 2013-14
-  - 3 (8): 2013........2005 (8)
-  - 4 (2): 2005..2003 (2)
-  - ⇑ (2): 2 ⇑3 3 3 3 3 3 3 3 ⇑4 4 
-- **York City FC** - 77 seasons in 4 levels
+  - 3 (9): 2014-15 2013........2005 (8)
+  - 4 (5): 2018...2015 (3) 2005..2003 (2)
+  - ⇑ (2) / ⇓ (2): 4 4 4 ⇓3 ⇓2 ⇑3 3 3 3 3 3 3 3 ⇑4 4 
+- **York City FC** - 80 seasons in 4 levels
   - 2 (2): 1976..1974 (2)
   - 3 (39): 1999......1993 (6) 1988....1984 (4) 1976-77 1974...1971 (3) 1965-66 1959-60 1958............1946 (12) 1940...........1929 (11)
-  - 4 (29): 2014..2012 (2) 2004.....1999 (5) 1992....1988 (4) 1984.......1977 (7) 1971.....1966 (5) 1965.....1960 (5) 1958-59
-  - 5 (7): 2012.......2005 (7)
-  - ⇑ (7) / ⇓ (8): 4 4 ⇑5 5 5 5 5 5 5  **?? 2004-05 ??** ⇓4 4 4 4 4 ⇓3 3 3 3 3 3  **?? 1992-93 ??** ⇑4 4 4 4 ⇓3 3 3 3 ⇑4 4 4 4 4 4 4 ⇓3 ⇓2 2 ⇑3 3 3 ⇑4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 
+  - 4 (31): 2016....2012 (4) 2004.....1999 (5) 1992....1988 (4) 1984.......1977 (7) 1971.....1966 (5) 1965.....1960 (5) 1958-59
+  - 5 (8): 2016-17 2012.......2005 (7)
+  - ⇑ (7) / ⇓ (9): 5 ⇓4 4 4 4 ⇑5 5 5 5 5 5 5  **?? 2004-05 ??** ⇓4 4 4 4 4 ⇓3 3 3 3 3 3  **?? 1992-93 ??** ⇑4 4 4 4 ⇓3 3 3 3 ⇑4 4 4 4 4 4 4 ⇓3 ⇓2 2 ⇑3 3 3 ⇑4 4 4 4 4 ⇓3 ⇑4 4 4 4 4 ⇓3 ⇑4 ⇓3 3 3 3 3 3 3 3 3 3 3 3  **?? 1945-46 ??** 3 3 3 3 3 3 3 3 3 3 3 
 
 
 
