@@ -231,101 +231,101 @@ level 1 - 117 seasons:
 - [`1990s/1995-96/1-premierleague.csv`](1990s/1995-96/1-premierleague.csv) =>  20 teams,  380 matches,  988 goals,  38 rounds,  Sat 19 Aug 1995 - Sat 04 May 1996
 - [`1990s/1994-95/1-premierleague.csv`](1990s/1994-95/1-premierleague.csv) =>  22 teams,  462 matches,  1195 goals,  42 rounds,  Sat 20 Aug 1994 - Sun 14 May 1995
 - [`1990s/1993-94/1-premierleague.csv`](1990s/1993-94/1-premierleague.csv) =>  22 teams,  462 matches,  1195 goals,  42 rounds,  Sat 14 Aug 1993 - Sun 08 May 1994
-- [`1990s/1992-93/1-premierleague.csv`](1990s/1992-93/1-premierleague.csv) =>  22 teams,  462 matches,  1222 goals,  42 rounds,  Mon 12 Apr 1993 - Sun 25 Oct 1992
-- [`1990s/1991-92/1-division1.csv`](1990s/1991-92/1-division1.csv) =>  22 teams,  462 matches,  1174 goals,  42 rounds,  Sat 11 Jan 1992 - Sat 24 Aug 1991
-- [`1990s/1990-91/1-division1.csv`](1990s/1990-91/1-division1.csv) =>  20 teams,  380 matches,  1049 goals,  38 rounds,  Wed 03 Apr 1991 - Sat 23 Feb 1991
-- [`1980s/1989-90/1-division1.csv`](1980s/1989-90/1-division1.csv) =>  20 teams,  380 matches,  986 goals,  38 rounds,  Wed 11 Apr 1990 - Sat 28 Apr 1990
-- [`1980s/1988-89/1-division1.csv`](1980s/1988-89/1-division1.csv) =>  20 teams,  380 matches,  962 goals,  38 rounds,  Sat 03 Sep 1988 - Sat 10 Sep 1988
-- [`1980s/1987-88/1-division1.csv`](1980s/1987-88/1-division1.csv) =>  21 teams,  420 matches,  1049 goals,  40 rounds,  Sat 27 Feb 1988 - Sat 12 Sep 1987
-- [`1980s/1986-87/1-division1.csv`](1980s/1986-87/1-division1.csv) =>  22 teams,  462 matches,  1215 goals,  42 rounds,  Sat 02 May 1987 - Sat 15 Nov 1986
-- [`1980s/1985-86/1-division1.csv`](1980s/1985-86/1-division1.csv) =>  22 teams,  462 matches,  1288 goals,  42 rounds,  Sat 05 Oct 1985 - Sat 30 Nov 1985
-- [`1980s/1984-85/1-division1.csv`](1980s/1984-85/1-division1.csv) =>  22 teams,  462 matches,  1288 goals,  42 rounds,  Sat 10 Nov 1984 - Sat 01 Dec 1984
-- [`1980s/1983-84/1-division1.csv`](1980s/1983-84/1-division1.csv) =>  22 teams,  462 matches,  1250 goals,  42 rounds,  Sat 18 Feb 1984 - Sat 12 Nov 1983
-- [`1980s/1982-83/1-division1.csv`](1980s/1982-83/1-division1.csv) =>  22 teams,  462 matches,  1264 goals,  42 rounds,  Tue 07 Dec 1982 - Sat 22 Jan 1983
-- [`1980s/1981-82/1-division1.csv`](1980s/1981-82/1-division1.csv) =>  22 teams,  462 matches,  1173 goals,  42 rounds,  Sat 27 Mar 1982 - Sat 15 May 1982
-- [`1980s/1980-81/1-division1.csv`](1980s/1980-81/1-division1.csv) =>  22 teams,  462 matches,  1228 goals,  42 rounds,  Sat 02 May 1981 - Sat 31 Jan 1981
-- [`1970s/1979-80/1-division1.csv`](1970s/1979-80/1-division1.csv) =>  22 teams,  462 matches,  1159 goals,  42 rounds,  Sat 09 Feb 1980 - Sat 24 Nov 1979
-- [`1970s/1978-79/1-division1.csv`](1970s/1978-79/1-division1.csv) =>  22 teams,  462 matches,  1217 goals,  42 rounds,  Sat 07 Oct 1978 - Sat 16 Dec 1978
-- [`1970s/1977-78/1-division1.csv`](1970s/1977-78/1-division1.csv) =>  22 teams,  462 matches,  1231 goals,  42 rounds,  Sat 04 Feb 1978 - Sat 15 Oct 1977
-- [`1970s/1976-77/1-division1.csv`](1970s/1976-77/1-division1.csv) =>  22 teams,  462 matches,  1183 goals,  42 rounds,  Mon 25 Apr 1977 - Mon 03 Jan 1977
-- [`1970s/1975-76/1-division1.csv`](1970s/1975-76/1-division1.csv) =>  22 teams,  462 matches,  1230 goals,  42 rounds,  Sat 10 Jan 1976 - Sat 27 Sep 1975
-- [`1970s/1974-75/1-division1.csv`](1970s/1974-75/1-division1.csv) =>  22 teams,  462 matches,  1213 goals,  42 rounds,  Sat 15 Mar 1975 - Sat 22 Feb 1975
-- [`1970s/1973-74/1-division1.csv`](1970s/1973-74/1-division1.csv) =>  22 teams,  462 matches,  1107 goals,  42 rounds,  Sat 06 Oct 1973 - Sat 17 Nov 1973
-- [`1970s/1972-73/1-division1.csv`](1970s/1972-73/1-division1.csv) =>  22 teams,  462 matches,  1160 goals,  42 rounds,  Tue 26 Sep 1972 - Tue 22 Aug 1972
-- [`1970s/1971-72/1-division1.csv`](1970s/1971-72/1-division1.csv) =>  22 teams,  462 matches,  1160 goals,  42 rounds,  Sat 14 Aug 1971 - Sat 12 Feb 1972
-- [`1970s/1970-71/1-division1.csv`](1970s/1970-71/1-division1.csv) =>  22 teams,  462 matches,  1089 goals,  42 rounds,  Sat 20 Mar 1971 - Sat 13 Mar 1971
-- [`1960s/1969-70/1-division1.csv`](1960s/1969-70/1-division1.csv) =>  22 teams,  462 matches,  1212 goals,  42 rounds,  Sat 13 Dec 1969 - Sat 18 Oct 1969
-- [`1960s/1968-69/1-division1.csv`](1960s/1968-69/1-division1.csv) =>  22 teams,  462 matches,  1213 goals,  42 rounds,  Sat 15 Feb 1969 - Sat 09 Nov 1968
-- [`1960s/1967-68/1-division1.csv`](1960s/1967-68/1-division1.csv) =>  22 teams,  462 matches,  1398 goals,  42 rounds,  Sat 27 Apr 1968 - Sat 20 Jan 1968
-- [`1960s/1966-67/1-division1.csv`](1960s/1966-67/1-division1.csv) =>  22 teams,  462 matches,  1387 goals,  42 rounds,  Sat 27 Aug 1966 - Sat 03 Dec 1966
-- [`1960s/1965-66/1-division1.csv`](1960s/1965-66/1-division1.csv) =>  22 teams,  462 matches,  1457 goals,  42 rounds,  Sat 04 Dec 1965 - Sat 29 Jan 1966
-- [`1960s/1964-65/1-division1.csv`](1960s/1964-65/1-division1.csv) =>  22 teams,  462 matches,  1543 goals,  42 rounds,  Sat 29 Aug 1964 - Mon 14 Sep 1964
-- [`1960s/1963-64/1-division1.csv`](1960s/1963-64/1-division1.csv) =>  22 teams,  462 matches,  1571 goals,  42 rounds,  Tue 10 Sep 1963 - Mon 17 Feb 1964
-- [`1960s/1962-63/1-division1.csv`](1960s/1962-63/1-division1.csv) =>  22 teams,  462 matches,  1536 goals,  42 rounds,  Tue 04 Sep 1962 - Wed 29 Aug 1962
-- [`1960s/1961-62/1-division1.csv`](1960s/1961-62/1-division1.csv) =>  22 teams,  462 matches,  1582 goals,  42 rounds,  Sat 31 Mar 1962 - Sat 26 Aug 1961
-- [`1960s/1960-61/1-division1.csv`](1960s/1960-61/1-division1.csv) =>  22 teams,  462 matches,  1724 goals,  42 rounds,  Sat 15 Oct 1960 - Sat 20 Aug 1960
-- [`1950s/1959-60/1-division1.csv`](1950s/1959-60/1-division1.csv) =>  22 teams,  462 matches,  1618 goals,  42 rounds,  Sat 31 Oct 1959 - Mon 11 Apr 1960
-- [`1950s/1958-59/1-division1.csv`](1950s/1958-59/1-division1.csv) =>  22 teams,  462 matches,  1692 goals,  42 rounds,  Sat 13 Dec 1958 - Wed 03 Sep 1958
-- [`1950s/1957-58/1-division1.csv`](1950s/1957-58/1-division1.csv) =>  22 teams,  462 matches,  1721 goals,  42 rounds,  Wed 02 Oct 1957 - Sat 16 Nov 1957
-- [`1950s/1956-57/1-division1.csv`](1950s/1956-57/1-division1.csv) =>  22 teams,  462 matches,  1612 goals,  42 rounds,  Sat 03 Nov 1956 - Mon 15 Apr 1957
-- [`1950s/1955-56/1-division1.csv`](1950s/1955-56/1-division1.csv) =>  22 teams,  462 matches,  1529 goals,  42 rounds,  Sat 01 Oct 1955 - Sat 17 Dec 1955
-- [`1950s/1954-55/1-division1.csv`](1950s/1954-55/1-division1.csv) =>  22 teams,  462 matches,  1572 goals,  42 rounds,  Sat 12 Mar 1955 - Sat 23 Oct 1954
-- [`1950s/1953-54/1-division1.csv`](1950s/1953-54/1-division1.csv) =>  22 teams,  462 matches,  1626 goals,  42 rounds,  Tue 06 Apr 1954 - Sat 14 Nov 1953
-- [`1950s/1952-53/1-division1.csv`](1950s/1952-53/1-division1.csv) =>  22 teams,  462 matches,  1508 goals,  42 rounds,  Sat 20 Dec 1952 - Sat 07 Mar 1953
-- [`1950s/1951-52/1-division1.csv`](1950s/1951-52/1-division1.csv) =>  22 teams,  462 matches,  1490 goals,  42 rounds,  Sat 05 Jan 1952 - Tue 15 Apr 1952
-- [`1950s/1950-51/1-division1.csv`](1950s/1950-51/1-division1.csv) =>  22 teams,  462 matches,  1413 goals,  42 rounds,  Sat 10 Mar 1951 - Sat 02 Dec 1950
-- [`1940s/1949-50/1-division1.csv`](1940s/1949-50/1-division1.csv) =>  22 teams,  462 matches,  1247 goals,  42 rounds,  Wed 29 Mar 1950 - Sat 15 Oct 1949
-- [`1940s/1948-49/1-division1.csv`](1940s/1948-49/1-division1.csv) =>  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 11 Sep 1948 - Wed 25 Aug 1948
-- [`1940s/1947-48/1-division1.csv`](1940s/1947-48/1-division1.csv) =>  22 teams,  462 matches,  1343 goals,  42 rounds,  Sat 11 Oct 1947 - Mon 29 Mar 1948
-- [`1940s/1946-47/1-division1.csv`](1940s/1946-47/1-division1.csv) =>  22 teams,  462 matches,  1513 goals,  42 rounds,  Sat 18 Jan 1947 - Thu 26 Dec 1946
+- [`1990s/1992-93/1-premierleague.csv`](1990s/1992-93/1-premierleague.csv) =>  22 teams,  462 matches,  1222 goals,  42 rounds,  Sat 15 Aug 1992 - Tue 11 May 1993
+- [`1990s/1991-92/1-division1.csv`](1990s/1991-92/1-division1.csv) =>  22 teams,  462 matches,  1174 goals,  42 rounds,  Sat 17 Aug 1991 - Sat 02 May 1992
+- [`1990s/1990-91/1-division1.csv`](1990s/1990-91/1-division1.csv) =>  20 teams,  380 matches,  1049 goals,  38 rounds,  Sat 25 Aug 1990 - Mon 20 May 1991
+- [`1980s/1989-90/1-division1.csv`](1980s/1989-90/1-division1.csv) =>  20 teams,  380 matches,  986 goals,  38 rounds,  Sat 19 Aug 1989 - Sat 05 May 1990
+- [`1980s/1988-89/1-division1.csv`](1980s/1988-89/1-division1.csv) =>  20 teams,  380 matches,  962 goals,  38 rounds,  Sat 27 Aug 1988 - Fri 26 May 1989
+- [`1980s/1987-88/1-division1.csv`](1980s/1987-88/1-division1.csv) =>  21 teams,  420 matches,  1049 goals,  40 rounds,  Sat 15 Aug 1987 - Sun 15 May 1988
+- [`1980s/1986-87/1-division1.csv`](1980s/1986-87/1-division1.csv) =>  22 teams,  462 matches,  1215 goals,  42 rounds,  Sat 23 Aug 1986 - Mon 11 May 1987
+- [`1980s/1985-86/1-division1.csv`](1980s/1985-86/1-division1.csv) =>  22 teams,  462 matches,  1288 goals,  42 rounds,  Sat 17 Aug 1985 - Mon 05 May 1986
+- [`1980s/1984-85/1-division1.csv`](1980s/1984-85/1-division1.csv) =>  22 teams,  462 matches,  1288 goals,  42 rounds,  Sat 25 Aug 1984 - Tue 28 May 1985
+- [`1980s/1983-84/1-division1.csv`](1980s/1983-84/1-division1.csv) =>  22 teams,  462 matches,  1250 goals,  42 rounds,  Sat 27 Aug 1983 - Thu 17 May 1984
+- [`1980s/1982-83/1-division1.csv`](1980s/1982-83/1-division1.csv) =>  22 teams,  462 matches,  1264 goals,  42 rounds,  Sat 28 Aug 1982 - Sat 14 May 1983
+- [`1980s/1981-82/1-division1.csv`](1980s/1981-82/1-division1.csv) =>  22 teams,  462 matches,  1173 goals,  42 rounds,  Sat 29 Aug 1981 - Fri 21 May 1982
+- [`1980s/1980-81/1-division1.csv`](1980s/1980-81/1-division1.csv) =>  22 teams,  462 matches,  1228 goals,  42 rounds,  Sat 16 Aug 1980 - Tue 19 May 1981
+- [`1970s/1979-80/1-division1.csv`](1970s/1979-80/1-division1.csv) =>  22 teams,  462 matches,  1159 goals,  42 rounds,  Sat 18 Aug 1979 - Mon 19 May 1980
+- [`1970s/1978-79/1-division1.csv`](1970s/1978-79/1-division1.csv) =>  22 teams,  462 matches,  1217 goals,  42 rounds,  Sat 19 Aug 1978 - Fri 18 May 1979
+- [`1970s/1977-78/1-division1.csv`](1970s/1977-78/1-division1.csv) =>  22 teams,  462 matches,  1231 goals,  42 rounds,  Sat 20 Aug 1977 - Tue 09 May 1978
+- [`1970s/1976-77/1-division1.csv`](1970s/1976-77/1-division1.csv) =>  22 teams,  462 matches,  1183 goals,  42 rounds,  Sat 21 Aug 1976 - Tue 24 May 1977
+- [`1970s/1975-76/1-division1.csv`](1970s/1975-76/1-division1.csv) =>  22 teams,  462 matches,  1230 goals,  42 rounds,  Sat 16 Aug 1975 - Tue 04 May 1976
+- [`1970s/1974-75/1-division1.csv`](1970s/1974-75/1-division1.csv) =>  22 teams,  462 matches,  1213 goals,  42 rounds,  Sat 17 Aug 1974 - Tue 29 Apr 1975
+- [`1970s/1973-74/1-division1.csv`](1970s/1973-74/1-division1.csv) =>  22 teams,  462 matches,  1107 goals,  42 rounds,  Sat 25 Aug 1973 - Sat 11 May 1974
+- [`1970s/1972-73/1-division1.csv`](1970s/1972-73/1-division1.csv) =>  22 teams,  462 matches,  1160 goals,  42 rounds,  Sat 12 Aug 1972 - Wed 09 May 1973
+- [`1970s/1971-72/1-division1.csv`](1970s/1971-72/1-division1.csv) =>  22 teams,  462 matches,  1160 goals,  42 rounds,  Sat 14 Aug 1971 - Thu 11 May 1972
+- [`1970s/1970-71/1-division1.csv`](1970s/1970-71/1-division1.csv) =>  22 teams,  462 matches,  1089 goals,  42 rounds,  Sat 15 Aug 1970 - Wed 05 May 1971
+- [`1960s/1969-70/1-division1.csv`](1960s/1969-70/1-division1.csv) =>  22 teams,  462 matches,  1212 goals,  42 rounds,  Sat 09 Aug 1969 - Sat 02 May 1970
+- [`1960s/1968-69/1-division1.csv`](1960s/1968-69/1-division1.csv) =>  22 teams,  462 matches,  1213 goals,  42 rounds,  Sat 10 Aug 1968 - Sat 17 May 1969
+- [`1960s/1967-68/1-division1.csv`](1960s/1967-68/1-division1.csv) =>  22 teams,  462 matches,  1398 goals,  42 rounds,  Sat 19 Aug 1967 - Tue 21 May 1968
+- [`1960s/1966-67/1-division1.csv`](1960s/1966-67/1-division1.csv) =>  22 teams,  462 matches,  1387 goals,  42 rounds,  Sat 20 Aug 1966 - Tue 16 May 1967
+- [`1960s/1965-66/1-division1.csv`](1960s/1965-66/1-division1.csv) =>  22 teams,  462 matches,  1457 goals,  42 rounds,  Sat 21 Aug 1965 - Thu 19 May 1966
+- [`1960s/1964-65/1-division1.csv`](1960s/1964-65/1-division1.csv) =>  22 teams,  462 matches,  1543 goals,  42 rounds,  Sat 22 Aug 1964 - Wed 28 Apr 1965
+- [`1960s/1963-64/1-division1.csv`](1960s/1963-64/1-division1.csv) =>  22 teams,  462 matches,  1571 goals,  42 rounds,  Sat 24 Aug 1963 - Wed 29 Apr 1964
+- [`1960s/1962-63/1-division1.csv`](1960s/1962-63/1-division1.csv) =>  22 teams,  462 matches,  1536 goals,  42 rounds,  Sat 18 Aug 1962 - Tue 21 May 1963
+- [`1960s/1961-62/1-division1.csv`](1960s/1961-62/1-division1.csv) =>  22 teams,  462 matches,  1582 goals,  42 rounds,  Sat 19 Aug 1961 - Tue 01 May 1962
+- [`1960s/1960-61/1-division1.csv`](1960s/1960-61/1-division1.csv) =>  22 teams,  462 matches,  1724 goals,  42 rounds,  Sat 20 Aug 1960 - Sat 29 Apr 1961
+- [`1950s/1959-60/1-division1.csv`](1950s/1959-60/1-division1.csv) =>  22 teams,  462 matches,  1618 goals,  42 rounds,  Sat 22 Aug 1959 - Mon 02 May 1960
+- [`1950s/1958-59/1-division1.csv`](1950s/1958-59/1-division1.csv) =>  22 teams,  462 matches,  1692 goals,  42 rounds,  Sat 23 Aug 1958 - Mon 04 May 1959
+- [`1950s/1957-58/1-division1.csv`](1950s/1957-58/1-division1.csv) =>  22 teams,  462 matches,  1721 goals,  42 rounds,  Sat 24 Aug 1957 - Wed 30 Apr 1958
+- [`1950s/1956-57/1-division1.csv`](1950s/1956-57/1-division1.csv) =>  22 teams,  462 matches,  1612 goals,  42 rounds,  Sat 18 Aug 1956 - Wed 01 May 1957
+- [`1950s/1955-56/1-division1.csv`](1950s/1955-56/1-division1.csv) =>  22 teams,  462 matches,  1529 goals,  42 rounds,  Sat 20 Aug 1955 - Wed 02 May 1956
+- [`1950s/1954-55/1-division1.csv`](1950s/1954-55/1-division1.csv) =>  22 teams,  462 matches,  1572 goals,  42 rounds,  Sat 21 Aug 1954 - Thu 05 May 1955
+- [`1950s/1953-54/1-division1.csv`](1950s/1953-54/1-division1.csv) =>  22 teams,  462 matches,  1626 goals,  42 rounds,  Wed 19 Aug 1953 - Mon 26 Apr 1954
+- [`1950s/1952-53/1-division1.csv`](1950s/1952-53/1-division1.csv) =>  22 teams,  462 matches,  1508 goals,  42 rounds,  Sat 23 Aug 1952 - Sat 02 May 1953
+- [`1950s/1951-52/1-division1.csv`](1950s/1951-52/1-division1.csv) =>  22 teams,  462 matches,  1490 goals,  42 rounds,  Sat 18 Aug 1951 - Sat 03 May 1952
+- [`1950s/1950-51/1-division1.csv`](1950s/1950-51/1-division1.csv) =>  22 teams,  462 matches,  1413 goals,  42 rounds,  Sat 19 Aug 1950 - Sat 05 May 1951
+- [`1940s/1949-50/1-division1.csv`](1940s/1949-50/1-division1.csv) =>  22 teams,  462 matches,  1247 goals,  42 rounds,  Sat 20 Aug 1949 - Sat 06 May 1950
+- [`1940s/1948-49/1-division1.csv`](1940s/1948-49/1-division1.csv) =>  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 21 Aug 1948 - Sat 07 May 1949
+- [`1940s/1947-48/1-division1.csv`](1940s/1947-48/1-division1.csv) =>  22 teams,  462 matches,  1343 goals,  42 rounds,  Sat 23 Aug 1947 - Sat 01 May 1948
+- [`1940s/1946-47/1-division1.csv`](1940s/1946-47/1-division1.csv) =>  22 teams,  462 matches,  1513 goals,  42 rounds,  Sat 31 Aug 1946 - Sat 14 Jun 1947
 - [`1930s/1939-40/1-division1.csv`](1930s/1939-40/1-division1.csv) =>  22 teams,  33 matches,  83 goals,  3 rounds, **WARN - start: ???, end: ???**
-- [`1930s/1938-39/1-division1.csv`](1930s/1938-39/1-division1.csv) =>  22 teams,  462 matches,  1418 goals,  42 rounds,  Sat 24 Sep 1938 - Sat 06 May 1939
-- [`1930s/1937-38/1-division1.csv`](1930s/1937-38/1-division1.csv) =>  22 teams,  462 matches,  1430 goals,  42 rounds,  Sat 16 Apr 1938 - Mon 02 May 1938
-- [`1930s/1936-37/1-division1.csv`](1930s/1936-37/1-division1.csv) =>  22 teams,  462 matches,  1555 goals,  42 rounds,  Sat 20 Mar 1937 - Wed 14 Apr 1937
-- [`1930s/1935-36/1-division1.csv`](1930s/1935-36/1-division1.csv) =>  22 teams,  462 matches,  1556 goals,  42 rounds,  Sat 18 Apr 1936 - Sat 14 Mar 1936
-- [`1930s/1934-35/1-division1.csv`](1930s/1934-35/1-division1.csv) =>  22 teams,  462 matches,  1677 goals,  42 rounds,  Sat 17 Nov 1934 - Sat 13 Oct 1934
-- [`1930s/1933-34/1-division1.csv`](1930s/1933-34/1-division1.csv) =>  22 teams,  462 matches,  1524 goals,  42 rounds,  Sat 10 Mar 1934 - Sat 07 Oct 1933
-- [`1930s/1932-33/1-division1.csv`](1930s/1932-33/1-division1.csv) =>  22 teams,  462 matches,  1645 goals,  42 rounds,  Sat 01 Apr 1933 - Sat 18 Feb 1933
-- [`1930s/1931-32/1-division1.csv`](1930s/1931-32/1-division1.csv) =>  22 teams,  462 matches,  1727 goals,  42 rounds,  Sat 31 Oct 1931 - Sat 07 Nov 1931
-- [`1930s/1930-31/1-division1.csv`](1930s/1930-31/1-division1.csv) =>  22 teams,  462 matches,  1823 goals,  42 rounds,  Sat 08 Nov 1930 - Sat 25 Apr 1931
-- [`1920s/1929-30/1-division1.csv`](1920s/1929-30/1-division1.csv) =>  22 teams,  462 matches,  1758 goals,  42 rounds,  Sat 03 May 1930 - Sat 07 Dec 1929
-- [`1920s/1928-29/1-division1.csv`](1920s/1928-29/1-division1.csv) =>  22 teams,  462 matches,  1688 goals,  42 rounds,  Sat 24 Nov 1928 - Sat 15 Dec 1928
-- [`1920s/1927-28/1-division1.csv`](1920s/1927-28/1-division1.csv) =>  22 teams,  462 matches,  1765 goals,  42 rounds,  Sat 21 Jan 1928 - Sat 17 Mar 1928
-- [`1920s/1926-27/1-division1.csv`](1920s/1926-27/1-division1.csv) =>  22 teams,  462 matches,  1668 goals,  42 rounds,  Fri 15 Apr 1927 - Sat 19 Feb 1927
-- [`1920s/1925-26/1-division1.csv`](1920s/1925-26/1-division1.csv) =>  22 teams,  462 matches,  1703 goals,  42 rounds,  Mon 05 Apr 1926 - Sat 06 Mar 1926
-- [`1920s/1924-25/1-division1.csv`](1920s/1924-25/1-division1.csv) =>  22 teams,  462 matches,  1192 goals,  42 rounds,  Sat 18 Oct 1924 - Sat 21 Mar 1925
-- [`1920s/1923-24/1-division1.csv`](1920s/1923-24/1-division1.csv) =>  22 teams,  462 matches,  1143 goals,  42 rounds,  Sat 16 Feb 1924 - Sat 29 Mar 1924
-- [`1920s/1922-23/1-division1.csv`](1920s/1922-23/1-division1.csv) =>  22 teams,  462 matches,  1215 goals,  42 rounds,  Sat 31 Mar 1923 - Sat 28 Oct 1922
-- [`1920s/1921-22/1-division1.csv`](1920s/1921-22/1-division1.csv) =>  22 teams,  462 matches,  1244 goals,  42 rounds,  Sat 25 Mar 1922 - Sat 21 Jan 1922
-- [`1920s/1920-21/1-division1.csv`](1920s/1920-21/1-division1.csv) =>  22 teams,  462 matches,  1276 goals,  42 rounds,  Sat 04 Sep 1920 - Wed 23 Feb 1921
-- [`1910s/1919-20/1-division1.csv`](1910s/1919-20/1-division1.csv) =>  22 teams,  462 matches,  1332 goals,  42 rounds,  Sat 24 Jan 1920 - Fri 26 Dec 1919
-- [`1910s/1914-15/1-division1.csv`](1910s/1914-15/1-division1.csv) =>  20 teams,  380 matches,  1201 goals,  38 rounds,  Fri 02 Apr 1915 - Tue 06 Apr 1915
-- [`1910s/1913-14/1-division1.csv`](1910s/1913-14/1-division1.csv) =>  20 teams,  380 matches,  1103 goals,  38 rounds,  Sat 13 Sep 1913 - Sat 11 Apr 1914
-- [`1910s/1912-13/1-division1.csv`](1910s/1912-13/1-division1.csv) =>  20 teams,  380 matches,  1153 goals,  38 rounds,  Mon 16 Sep 1912 - Mon 24 Mar 1913
-- [`1910s/1911-12/1-division1.csv`](1910s/1911-12/1-division1.csv) =>  20 teams,  380 matches,  1057 goals,  38 rounds,  Sat 06 Jan 1912 - Wed 13 Mar 1912
-- [`1910s/1910-11/1-division1.csv`](1910s/1910-11/1-division1.csv) =>  20 teams,  380 matches,  1028 goals,  38 rounds,  Wed 15 Mar 1911 - Sat 01 Apr 1911
-- [`1900s/1909-10/1-division1.csv`](1900s/1909-10/1-division1.csv) =>  20 teams,  380 matches,  1194 goals,  38 rounds,  Mon 11 Apr 1910 - Fri 25 Mar 1910
-- [`1900s/1908-09/1-division1.csv`](1900s/1908-09/1-division1.csv) =>  20 teams,  380 matches,  1185 goals,  38 rounds,  Sat 07 Nov 1908 - Sat 03 Oct 1908
-- [`1900s/1907-08/1-division1.csv`](1900s/1907-08/1-division1.csv) =>  20 teams,  380 matches,  1176 goals,  38 rounds,  Sat 08 Feb 1908 - Fri 17 Apr 1908
-- [`1900s/1906-07/1-division1.csv`](1900s/1906-07/1-division1.csv) =>  20 teams,  380 matches,  1148 goals,  38 rounds,  Mon 01 Apr 1907 - Sat 02 Mar 1907
-- [`1900s/1905-06/1-division1.csv`](1900s/1905-06/1-division1.csv) =>  20 teams,  380 matches,  1242 goals,  38 rounds,  Fri 13 Apr 1906 - Sat 04 Nov 1905
-- [`1900s/1904-05/1-division1.csv`](1900s/1904-05/1-division1.csv) =>  18 teams,  306 matches,  904 goals,  34 rounds,  Sat 08 Oct 1904 - Sat 17 Sep 1904
-- [`1900s/1903-04/1-division1.csv`](1900s/1903-04/1-division1.csv) =>  18 teams,  306 matches,  939 goals,  34 rounds,  Sat 16 Jan 1904 - Sat 07 Nov 1903
-- [`1900s/1902-03/1-division1.csv`](1900s/1902-03/1-division1.csv) =>  18 teams,  306 matches,  885 goals,  34 rounds,  Sat 24 Jan 1903 - Sat 04 Oct 1902
-- [`1900s/1901-02/1-division1.csv`](1900s/1901-02/1-division1.csv) =>  18 teams,  306 matches,  840 goals,  34 rounds,  Thu 26 Dec 1901 - Sat 14 Sep 1901
-- [`1900s/1900-01/1-division1.csv`](1900s/1900-01/1-division1.csv) =>  18 teams,  306 matches,  855 goals,  34 rounds,  Mon 29 Oct 1900 - Sat 01 Sep 1900
-- [`1890s/1899-00/1-division1.csv`](1890s/1899-00/1-division1.csv) =>  18 teams,  306 matches,  856 goals,  34 rounds,  Sat 23 Sep 1899 - Sat 04 Nov 1899
-- [`1890s/1898-99/1-division1.csv`](1890s/1898-99/1-division1.csv) =>  18 teams,  306 matches,  868 goals,  34 rounds,  Sat 19 Nov 1898 - Tue 27 Dec 1898
-- [`1890s/1897-98/1-division1.csv`](1890s/1897-98/1-division1.csv) =>  16 teams,  240 matches,  724 goals,  30 rounds,  Sat 11 Dec 1897 - Tue 28 Dec 1897
-- [`1890s/1896-97/1-division1.csv`](1890s/1896-97/1-division1.csv) =>  16 teams,  240 matches,  751 goals,  30 rounds,  Sat 17 Apr 1897 - Mon 28 Dec 1896
-- [`1890s/1895-96/1-division1.csv`](1890s/1895-96/1-division1.csv) =>  16 teams,  240 matches,  807 goals,  30 rounds,  Sat 07 Sep 1895 - Sat 07 Mar 1896
-- [`1890s/1894-95/1-division1.csv`](1890s/1894-95/1-division1.csv) =>  16 teams,  240 matches,  917 goals,  30 rounds,  Sat 01 Sep 1894 - Thu 27 Dec 1894
-- [`1890s/1893-94/1-division1.csv`](1890s/1893-94/1-division1.csv) =>  16 teams,  240 matches,  939 goals,  30 rounds,  Sat 24 Mar 1894 - Wed 27 Dec 1893
-- [`1890s/1892-93/1-division1.csv`](1890s/1892-93/1-division1.csv) =>  16 teams,  240 matches,  936 goals,  30 rounds,  Sat 15 Apr 1893 - Tue 27 Dec 1892
-- [`1890s/1891-92/1-division1.csv`](1890s/1891-92/1-division1.csv) =>  14 teams,  182 matches,  777 goals,  26 rounds,  Mon 04 Jan 1892 - Mon 28 Dec 1891
-- [`1890s/1890-91/1-division1.csv`](1890s/1890-91/1-division1.csv) =>  12 teams,  132 matches,  554 goals,  22 rounds,  Sat 21 Mar 1891 - Sat 03 Jan 1891
-- [`1880s/1889-90/1-division1.csv`](1880s/1889-90/1-division1.csv) =>  12 teams,  132 matches,  611 goals,  22 rounds,  Sat 30 Nov 1889 - Sat 28 Dec 1889
-- [`1880s/1888-89/1-division1.csv`](1880s/1888-89/1-division1.csv) =>  12 teams,  132 matches,  586 goals,  22 rounds,  Sat 15 Dec 1888 - Sat 15 Dec 1888
+- [`1930s/1938-39/1-division1.csv`](1930s/1938-39/1-division1.csv) =>  22 teams,  462 matches,  1418 goals,  42 rounds,  Sat 27 Aug 1938 - Sat 06 May 1939
+- [`1930s/1937-38/1-division1.csv`](1930s/1937-38/1-division1.csv) =>  22 teams,  462 matches,  1430 goals,  42 rounds,  Sat 28 Aug 1937 - Sat 07 May 1938
+- [`1930s/1936-37/1-division1.csv`](1930s/1936-37/1-division1.csv) =>  22 teams,  462 matches,  1555 goals,  42 rounds,  Sat 29 Aug 1936 - Sat 01 May 1937
+- [`1930s/1935-36/1-division1.csv`](1930s/1935-36/1-division1.csv) =>  22 teams,  462 matches,  1556 goals,  42 rounds,  Sat 31 Aug 1935 - Sat 02 May 1936
+- [`1930s/1934-35/1-division1.csv`](1930s/1934-35/1-division1.csv) =>  22 teams,  462 matches,  1677 goals,  42 rounds,  Sat 25 Aug 1934 - Sat 04 May 1935
+- [`1930s/1933-34/1-division1.csv`](1930s/1933-34/1-division1.csv) =>  22 teams,  462 matches,  1524 goals,  42 rounds,  Sat 26 Aug 1933 - Sat 05 May 1934
+- [`1930s/1932-33/1-division1.csv`](1930s/1932-33/1-division1.csv) =>  22 teams,  462 matches,  1645 goals,  42 rounds,  Sat 27 Aug 1932 - Sat 06 May 1933
+- [`1930s/1931-32/1-division1.csv`](1930s/1931-32/1-division1.csv) =>  22 teams,  462 matches,  1727 goals,  42 rounds,  Sat 29 Aug 1931 - Sat 07 May 1932
+- [`1930s/1930-31/1-division1.csv`](1930s/1930-31/1-division1.csv) =>  22 teams,  462 matches,  1823 goals,  42 rounds,  Sat 30 Aug 1930 - Sat 02 May 1931
+- [`1920s/1929-30/1-division1.csv`](1920s/1929-30/1-division1.csv) =>  22 teams,  462 matches,  1758 goals,  42 rounds,  Sat 31 Aug 1929 - Sat 03 May 1930
+- [`1920s/1928-29/1-division1.csv`](1920s/1928-29/1-division1.csv) =>  22 teams,  462 matches,  1688 goals,  42 rounds,  Sat 25 Aug 1928 - Sat 04 May 1929
+- [`1920s/1927-28/1-division1.csv`](1920s/1927-28/1-division1.csv) =>  22 teams,  462 matches,  1765 goals,  42 rounds,  Sat 27 Aug 1927 - Sat 05 May 1928
+- [`1920s/1926-27/1-division1.csv`](1920s/1926-27/1-division1.csv) =>  22 teams,  462 matches,  1668 goals,  42 rounds,  Sat 28 Aug 1926 - Sat 07 May 1927
+- [`1920s/1925-26/1-division1.csv`](1920s/1925-26/1-division1.csv) =>  22 teams,  462 matches,  1703 goals,  42 rounds,  Sat 29 Aug 1925 - Sat 01 May 1926
+- [`1920s/1924-25/1-division1.csv`](1920s/1924-25/1-division1.csv) =>  22 teams,  462 matches,  1192 goals,  42 rounds,  Sat 30 Aug 1924 - Sat 02 May 1925
+- [`1920s/1923-24/1-division1.csv`](1920s/1923-24/1-division1.csv) =>  22 teams,  462 matches,  1143 goals,  42 rounds,  Sat 25 Aug 1923 - Sat 03 May 1924
+- [`1920s/1922-23/1-division1.csv`](1920s/1922-23/1-division1.csv) =>  22 teams,  462 matches,  1215 goals,  42 rounds,  Sat 26 Aug 1922 - Sat 05 May 1923
+- [`1920s/1921-22/1-division1.csv`](1920s/1921-22/1-division1.csv) =>  22 teams,  462 matches,  1244 goals,  42 rounds,  Sat 27 Aug 1921 - Sat 06 May 1922
+- [`1920s/1920-21/1-division1.csv`](1920s/1920-21/1-division1.csv) =>  22 teams,  462 matches,  1276 goals,  42 rounds,  Sat 28 Aug 1920 - Sat 07 May 1921
+- [`1910s/1919-20/1-division1.csv`](1910s/1919-20/1-division1.csv) =>  22 teams,  462 matches,  1332 goals,  42 rounds,  Sat 30 Aug 1919 - Sat 01 May 1920
+- [`1910s/1914-15/1-division1.csv`](1910s/1914-15/1-division1.csv) =>  20 teams,  380 matches,  1201 goals,  38 rounds,  Tue 01 Sep 1914 - Wed 28 Apr 1915
+- [`1910s/1913-14/1-division1.csv`](1910s/1913-14/1-division1.csv) =>  20 teams,  380 matches,  1103 goals,  38 rounds,  Mon 01 Sep 1913 - Mon 27 Apr 1914
+- [`1910s/1912-13/1-division1.csv`](1910s/1912-13/1-division1.csv) =>  20 teams,  380 matches,  1153 goals,  38 rounds,  Mon 02 Sep 1912 - Wed 30 Apr 1913
+- [`1910s/1911-12/1-division1.csv`](1910s/1911-12/1-division1.csv) =>  20 teams,  380 matches,  1057 goals,  38 rounds,  Sat 02 Sep 1911 - Mon 29 Apr 1912
+- [`1910s/1910-11/1-division1.csv`](1910s/1910-11/1-division1.csv) =>  20 teams,  380 matches,  1028 goals,  38 rounds,  Thu 01 Sep 1910 - Sat 29 Apr 1911
+- [`1900s/1909-10/1-division1.csv`](1900s/1909-10/1-division1.csv) =>  20 teams,  380 matches,  1194 goals,  38 rounds,  Wed 01 Sep 1909 - Sat 30 Apr 1910
+- [`1900s/1908-09/1-division1.csv`](1900s/1908-09/1-division1.csv) =>  20 teams,  380 matches,  1185 goals,  38 rounds,  Tue 01 Sep 1908 - Fri 30 Apr 1909
+- [`1900s/1907-08/1-division1.csv`](1900s/1907-08/1-division1.csv) =>  20 teams,  380 matches,  1176 goals,  38 rounds,  Mon 02 Sep 1907 - Wed 29 Apr 1908
+- [`1900s/1906-07/1-division1.csv`](1900s/1906-07/1-division1.csv) =>  20 teams,  380 matches,  1148 goals,  38 rounds,  Sat 01 Sep 1906 - Sat 27 Apr 1907
+- [`1900s/1905-06/1-division1.csv`](1900s/1905-06/1-division1.csv) =>  20 teams,  380 matches,  1242 goals,  38 rounds,  Sat 02 Sep 1905 - Mon 30 Apr 1906
+- [`1900s/1904-05/1-division1.csv`](1900s/1904-05/1-division1.csv) =>  18 teams,  306 matches,  904 goals,  34 rounds,  Thu 01 Sep 1904 - Sat 29 Apr 1905
+- [`1900s/1903-04/1-division1.csv`](1900s/1903-04/1-division1.csv) =>  18 teams,  306 matches,  939 goals,  34 rounds,  Tue 01 Sep 1903 - Sat 30 Apr 1904
+- [`1900s/1902-03/1-division1.csv`](1900s/1902-03/1-division1.csv) =>  18 teams,  306 matches,  885 goals,  34 rounds,  Mon 01 Sep 1902 - Mon 27 Apr 1903
+- [`1900s/1901-02/1-division1.csv`](1900s/1901-02/1-division1.csv) =>  18 teams,  306 matches,  840 goals,  34 rounds,  Mon 02 Sep 1901 - Mon 28 Apr 1902
+- [`1900s/1900-01/1-division1.csv`](1900s/1900-01/1-division1.csv) =>  18 teams,  306 matches,  855 goals,  34 rounds,  Sat 01 Sep 1900 - Tue 30 Apr 1901
+- [`1890s/1899-00/1-division1.csv`](1890s/1899-00/1-division1.csv) =>  18 teams,  306 matches,  856 goals,  34 rounds,  Sat 02 Sep 1899 - Mon 30 Apr 1900
+- [`1890s/1898-99/1-division1.csv`](1890s/1898-99/1-division1.csv) =>  18 teams,  306 matches,  868 goals,  34 rounds,  Thu 01 Sep 1898 - Sat 29 Apr 1899
+- [`1890s/1897-98/1-division1.csv`](1890s/1897-98/1-division1.csv) =>  16 teams,  240 matches,  724 goals,  30 rounds,  Wed 01 Sep 1897 - Sat 30 Apr 1898
+- [`1890s/1896-97/1-division1.csv`](1890s/1896-97/1-division1.csv) =>  16 teams,  240 matches,  751 goals,  30 rounds,  Tue 01 Sep 1896 - Mon 26 Apr 1897
+- [`1890s/1895-96/1-division1.csv`](1890s/1895-96/1-division1.csv) =>  16 teams,  240 matches,  807 goals,  30 rounds,  Mon 02 Sep 1895 - Wed 29 Apr 1896
+- [`1890s/1894-95/1-division1.csv`](1890s/1894-95/1-division1.csv) =>  16 teams,  240 matches,  917 goals,  30 rounds,  Sat 01 Sep 1894 - Wed 24 Apr 1895
+- [`1890s/1893-94/1-division1.csv`](1890s/1893-94/1-division1.csv) =>  16 teams,  240 matches,  939 goals,  30 rounds,  Sat 02 Sep 1893 - Mon 23 Apr 1894
+- [`1890s/1892-93/1-division1.csv`](1890s/1892-93/1-division1.csv) =>  16 teams,  240 matches,  936 goals,  30 rounds,  Sat 03 Sep 1892 - Mon 17 Apr 1893
+- [`1890s/1891-92/1-division1.csv`](1890s/1891-92/1-division1.csv) =>  14 teams,  182 matches,  777 goals,  26 rounds,  Sat 05 Sep 1891 - Sat 30 Apr 1892
+- [`1890s/1890-91/1-division1.csv`](1890s/1890-91/1-division1.csv) =>  12 teams,  132 matches,  554 goals,  22 rounds,  Sat 06 Sep 1890 - Sat 18 Apr 1891
+- [`1880s/1889-90/1-division1.csv`](1880s/1889-90/1-division1.csv) =>  12 teams,  132 matches,  611 goals,  22 rounds,  Sat 07 Sep 1889 - Mon 31 Mar 1890
+- [`1880s/1888-89/1-division1.csv`](1880s/1888-89/1-division1.csv) =>  12 teams,  132 matches,  586 goals,  22 rounds,  Sat 08 Sep 1888 - Sat 20 Apr 1889
 
 
 level 2 - 112 seasons:
@@ -350,97 +350,97 @@ level 2 - 112 seasons:
 - [`1990s/1995-96/2-division1.csv`](1990s/1995-96/2-division1.csv) =>  24 teams,  552 matches,  1416 goals,  46 rounds,  Sat 12 Aug 1995 - Sun 05 May 1996
 - [`1990s/1994-95/2-division1.csv`](1990s/1994-95/2-division1.csv) =>  24 teams,  552 matches,  1389 goals,  46 rounds,  Sat 13 Aug 1994 - Sun 07 May 1995
 - [`1990s/1993-94/2-division1.csv`](1990s/1993-94/2-division1.csv) =>  24 teams,  552 matches,  1450 goals,  46 rounds,  Sat 14 Aug 1993 - Sun 08 May 1994
-- [`1990s/1992-93/2-division1.csv`](1990s/1992-93/2-division1.csv) =>  24 teams,  552 matches,  1449 goals,  46 rounds,  Sat 21 Nov 1992 - Sun 04 Oct 1992
-- [`1990s/1991-92/2-division2.csv`](1990s/1991-92/2-division2.csv) =>  24 teams,  552 matches,  1418 goals,  46 rounds,  Sat 28 Mar 1992 - Sat 18 Jan 1992
-- [`1990s/1990-91/2-division2.csv`](1990s/1990-91/2-division2.csv) =>  24 teams,  552 matches,  1481 goals,  46 rounds,  Tue 23 Apr 1991 - Sat 02 Feb 1991
-- [`1980s/1989-90/2-division2.csv`](1980s/1989-90/2-division2.csv) =>  24 teams,  552 matches,  1526 goals,  46 rounds,  Sat 16 Dec 1989 - Sat 04 Nov 1989
-- [`1980s/1988-89/2-division2.csv`](1980s/1988-89/2-division2.csv) =>  24 teams,  552 matches,  1465 goals,  46 rounds,  Sat 29 Apr 1989 - Mon 29 Aug 1988
-- [`1980s/1987-88/2-division2.csv`](1980s/1987-88/2-division2.csv) =>  23 teams,  506 matches,  1389 goals,  44 rounds,  Sat 05 Mar 1988 - Sat 29 Aug 1987
-- [`1980s/1986-87/2-division2.csv`](1980s/1986-87/2-division2.csv) =>  22 teams,  462 matches,  1131 goals,  42 rounds,  Sat 28 Mar 1987 - Sat 04 Apr 1987
-- [`1980s/1985-86/2-division2.csv`](1980s/1985-86/2-division2.csv) =>  22 teams,  462 matches,  1264 goals,  42 rounds,  Sat 12 Apr 1986 - Sat 12 Apr 1986
-- [`1980s/1984-85/2-division2.csv`](1980s/1984-85/2-division2.csv) =>  22 teams,  462 matches,  1255 goals,  42 rounds,  Sat 27 Apr 1985 - Sat 17 Nov 1984
-- [`1980s/1983-84/2-division2.csv`](1980s/1983-84/2-division2.csv) =>  22 teams,  462 matches,  1233 goals,  42 rounds,  Mon 23 Apr 1984 - Tue 27 Dec 1983
-- [`1980s/1982-83/2-division2.csv`](1980s/1982-83/2-division2.csv) =>  22 teams,  462 matches,  1244 goals,  42 rounds,  Sat 23 Apr 1983 - Mon 04 Apr 1983
-- [`1980s/1981-82/2-division2.csv`](1980s/1981-82/2-division2.csv) =>  22 teams,  462 matches,  1171 goals,  42 rounds,  Sat 27 Feb 1982 - Tue 22 Sep 1981
-- [`1980s/1980-81/2-division2.csv`](1980s/1980-81/2-division2.csv) =>  22 teams,  462 matches,  1073 goals,  42 rounds,  Sat 18 Apr 1981 - Sat 29 Nov 1980
-- [`1970s/1979-80/2-division2.csv`](1970s/1979-80/2-division2.csv) =>  22 teams,  462 matches,  1162 goals,  42 rounds,  Sat 01 Sep 1979 - Sat 18 Aug 1979
-- [`1970s/1978-79/2-division2.csv`](1970s/1978-79/2-division2.csv) =>  22 teams,  462 matches,  1174 goals,  42 rounds,  Sat 09 Dec 1978 - Sat 09 Dec 1978
-- [`1970s/1977-78/2-division2.csv`](1970s/1977-78/2-division2.csv) =>  22 teams,  462 matches,  1235 goals,  42 rounds,  Sat 10 Sep 1977 - Sat 22 Apr 1978
-- [`1970s/1976-77/2-division2.csv`](1970s/1976-77/2-division2.csv) =>  22 teams,  462 matches,  1290 goals,  42 rounds,  Sat 04 Sep 1976 - Tue 05 Oct 1976
-- [`1970s/1975-76/2-division2.csv`](1970s/1975-76/2-division2.csv) =>  22 teams,  462 matches,  1106 goals,  42 rounds,  Wed 24 Sep 1975 - Sat 17 Jan 1976
-- [`1970s/1974-75/2-division2.csv`](1970s/1974-75/2-division2.csv) =>  22 teams,  462 matches,  1036 goals,  42 rounds,  Sat 12 Oct 1974 - Sat 12 Apr 1975
-- [`1970s/1973-74/2-division2.csv`](1970s/1973-74/2-division2.csv) =>  22 teams,  462 matches,  1106 goals,  42 rounds,  Mon 15 Apr 1974 - Sat 29 Dec 1973
-- [`1970s/1972-73/2-division2.csv`](1970s/1972-73/2-division2.csv) =>  22 teams,  462 matches,  1156 goals,  42 rounds,  Sat 11 Nov 1972 - Sat 20 Jan 1973
-- [`1970s/1971-72/2-division2.csv`](1970s/1971-72/2-division2.csv) =>  22 teams,  462 matches,  1194 goals,  42 rounds,  Tue 04 Apr 1972 - Wed 01 Sep 1971
-- [`1970s/1970-71/2-division2.csv`](1970s/1970-71/2-division2.csv) =>  22 teams,  462 matches,  1141 goals,  42 rounds,  Sat 10 Apr 1971 - Wed 28 Apr 1971
-- [`1960s/1969-70/2-division2.csv`](1960s/1969-70/2-division2.csv) =>  22 teams,  462 matches,  1207 goals,  42 rounds,  Sat 18 Oct 1969 - Sat 15 Nov 1969
-- [`1960s/1968-69/2-division2.csv`](1960s/1968-69/2-division2.csv) =>  22 teams,  462 matches,  1185 goals,  42 rounds,  Sat 12 Apr 1969 - Sat 23 Nov 1968
-- [`1960s/1967-68/2-division2.csv`](1960s/1967-68/2-division2.csv) =>  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 07 Oct 1967 - Sat 02 Sep 1967
-- [`1960s/1966-67/2-division2.csv`](1960s/1966-67/2-division2.csv) =>  22 teams,  462 matches,  1361 goals,  42 rounds,  Sat 29 Oct 1966 - Sat 08 Apr 1967
-- [`1960s/1965-66/2-division2.csv`](1960s/1965-66/2-division2.csv) =>  22 teams,  462 matches,  1421 goals,  42 rounds,  Sat 19 Mar 1966 - Sat 12 Mar 1966
-- [`1960s/1964-65/2-division2.csv`](1960s/1964-65/2-division2.csv) =>  22 teams,  462 matches,  1470 goals,  42 rounds,  Sat 13 Feb 1965 - Tue 08 Sep 1964
-- [`1960s/1963-64/2-division2.csv`](1960s/1963-64/2-division2.csv) =>  22 teams,  462 matches,  1467 goals,  42 rounds,  Tue 17 Sep 1963 - Sat 18 Apr 1964
-- [`1960s/1962-63/2-division2.csv`](1960s/1962-63/2-division2.csv) =>  22 teams,  462 matches,  1496 goals,  42 rounds,  Sat 03 Nov 1962 - Sat 23 Mar 1963
-- [`1960s/1961-62/2-division2.csv`](1960s/1961-62/2-division2.csv) =>  22 teams,  462 matches,  1473 goals,  42 rounds,  Sat 30 Dec 1961 - Sat 30 Sep 1961
-- [`1960s/1960-61/2-division2.csv`](1960s/1960-61/2-division2.csv) =>  22 teams,  462 matches,  1609 goals,  42 rounds,  Sat 27 Aug 1960 - Sat 17 Dec 1960
-- [`1950s/1959-60/2-division2.csv`](1950s/1959-60/2-division2.csv) =>  22 teams,  462 matches,  1565 goals,  42 rounds,  Sat 19 Dec 1959 - Sat 05 Sep 1959
-- [`1950s/1958-59/2-division2.csv`](1950s/1958-59/2-division2.csv) =>  22 teams,  462 matches,  1604 goals,  42 rounds,  Sat 14 Feb 1959 - Sat 13 Sep 1958
-- [`1950s/1957-58/2-division2.csv`](1950s/1957-58/2-division2.csv) =>  22 teams,  462 matches,  1637 goals,  42 rounds,  Wed 18 Sep 1957 - Sat 18 Jan 1958
-- [`1950s/1956-57/2-division2.csv`](1950s/1956-57/2-division2.csv) =>  22 teams,  462 matches,  1644 goals,  42 rounds,  Sat 15 Sep 1956 - Sat 25 Aug 1956
-- [`1950s/1955-56/2-division2.csv`](1950s/1955-56/2-division2.csv) =>  22 teams,  462 matches,  1628 goals,  42 rounds,  Sat 25 Feb 1956 - Sat 24 Dec 1955
-- [`1950s/1954-55/2-division2.csv`](1950s/1954-55/2-division2.csv) =>  22 teams,  462 matches,  1597 goals,  42 rounds,  Sat 13 Nov 1954 - Sat 18 Dec 1954
-- [`1950s/1953-54/2-division2.csv`](1950s/1953-54/2-division2.csv) =>  22 teams,  462 matches,  1535 goals,  42 rounds,  Sat 07 Nov 1953 - Mon 14 Sep 1953
-- [`1950s/1952-53/2-division2.csv`](1950s/1952-53/2-division2.csv) =>  22 teams,  462 matches,  1535 goals,  42 rounds,  Sat 21 Mar 1953 - Sat 15 Nov 1952
-- [`1950s/1951-52/2-division2.csv`](1950s/1951-52/2-division2.csv) =>  22 teams,  462 matches,  1488 goals,  42 rounds,  Sat 22 Mar 1952 - Thu 06 Sep 1951
-- [`1950s/1950-51/2-division2.csv`](1950s/1950-51/2-division2.csv) =>  22 teams,  462 matches,  1469 goals,  42 rounds,  Sat 03 Mar 1951 - Fri 23 Mar 1951
-- [`1940s/1949-50/2-division2.csv`](1940s/1949-50/2-division2.csv) =>  22 teams,  462 matches,  1231 goals,  42 rounds,  Sat 15 Apr 1950 - Sat 05 Nov 1949
-- [`1940s/1948-49/2-division2.csv`](1940s/1948-49/2-division2.csv) =>  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 01 Jan 1949 - Sat 04 Sep 1948
-- [`1940s/1947-48/2-division2.csv`](1940s/1947-48/2-division2.csv) =>  22 teams,  462 matches,  1247 goals,  42 rounds,  Sat 20 Dec 1947 - Sat 13 Mar 1948
-- [`1940s/1946-47/2-division2.csv`](1940s/1946-47/2-division2.csv) =>  22 teams,  462 matches,  1547 goals,  42 rounds,  Sat 14 Sep 1946 - Sat 15 Mar 1947
+- [`1990s/1992-93/2-division1.csv`](1990s/1992-93/2-division1.csv) =>  24 teams,  552 matches,  1449 goals,  46 rounds,  Sat 15 Aug 1992 - Sun 09 May 1993
+- [`1990s/1991-92/2-division2.csv`](1990s/1991-92/2-division2.csv) =>  24 teams,  552 matches,  1418 goals,  46 rounds,  Sat 17 Aug 1991 - Sat 02 May 1992
+- [`1990s/1990-91/2-division2.csv`](1990s/1990-91/2-division2.csv) =>  24 teams,  552 matches,  1481 goals,  46 rounds,  Sat 25 Aug 1990 - Sat 11 May 1991
+- [`1980s/1989-90/2-division2.csv`](1980s/1989-90/2-division2.csv) =>  24 teams,  552 matches,  1526 goals,  46 rounds,  Sat 19 Aug 1989 - Mon 07 May 1990
+- [`1980s/1988-89/2-division2.csv`](1980s/1988-89/2-division2.csv) =>  24 teams,  552 matches,  1465 goals,  46 rounds,  Sat 27 Aug 1988 - Sat 13 May 1989
+- [`1980s/1987-88/2-division2.csv`](1980s/1987-88/2-division2.csv) =>  23 teams,  506 matches,  1389 goals,  44 rounds,  Sat 15 Aug 1987 - Sat 07 May 1988
+- [`1980s/1986-87/2-division2.csv`](1980s/1986-87/2-division2.csv) =>  22 teams,  462 matches,  1131 goals,  42 rounds,  Sat 23 Aug 1986 - Sat 09 May 1987
+- [`1980s/1985-86/2-division2.csv`](1980s/1985-86/2-division2.csv) =>  22 teams,  462 matches,  1264 goals,  42 rounds,  Sat 17 Aug 1985 - Thu 08 May 1986
+- [`1980s/1984-85/2-division2.csv`](1980s/1984-85/2-division2.csv) =>  22 teams,  462 matches,  1255 goals,  42 rounds,  Sat 25 Aug 1984 - Mon 13 May 1985
+- [`1980s/1983-84/2-division2.csv`](1980s/1983-84/2-division2.csv) =>  22 teams,  462 matches,  1233 goals,  42 rounds,  Sat 27 Aug 1983 - Sat 12 May 1984
+- [`1980s/1982-83/2-division2.csv`](1980s/1982-83/2-division2.csv) =>  22 teams,  462 matches,  1244 goals,  42 rounds,  Sat 28 Aug 1982 - Tue 17 May 1983
+- [`1980s/1981-82/2-division2.csv`](1980s/1981-82/2-division2.csv) =>  22 teams,  462 matches,  1171 goals,  42 rounds,  Sat 29 Aug 1981 - Tue 18 May 1982
+- [`1980s/1980-81/2-division2.csv`](1980s/1980-81/2-division2.csv) =>  22 teams,  462 matches,  1073 goals,  42 rounds,  Sat 16 Aug 1980 - Fri 08 May 1981
+- [`1970s/1979-80/2-division2.csv`](1970s/1979-80/2-division2.csv) =>  22 teams,  462 matches,  1162 goals,  42 rounds,  Sat 18 Aug 1979 - Mon 12 May 1980
+- [`1970s/1978-79/2-division2.csv`](1970s/1978-79/2-division2.csv) =>  22 teams,  462 matches,  1174 goals,  42 rounds,  Sat 19 Aug 1978 - Tue 22 May 1979
+- [`1970s/1977-78/2-division2.csv`](1970s/1977-78/2-division2.csv) =>  22 teams,  462 matches,  1235 goals,  42 rounds,  Sat 20 Aug 1977 - Tue 09 May 1978
+- [`1970s/1976-77/2-division2.csv`](1970s/1976-77/2-division2.csv) =>  22 teams,  462 matches,  1290 goals,  42 rounds,  Sat 21 Aug 1976 - Tue 17 May 1977
+- [`1970s/1975-76/2-division2.csv`](1970s/1975-76/2-division2.csv) =>  22 teams,  462 matches,  1106 goals,  42 rounds,  Sat 16 Aug 1975 - Wed 28 Apr 1976
+- [`1970s/1974-75/2-division2.csv`](1970s/1974-75/2-division2.csv) =>  22 teams,  462 matches,  1036 goals,  42 rounds,  Sat 17 Aug 1974 - Wed 30 Apr 1975
+- [`1970s/1973-74/2-division2.csv`](1970s/1973-74/2-division2.csv) =>  22 teams,  462 matches,  1106 goals,  42 rounds,  Sat 25 Aug 1973 - Fri 03 May 1974
+- [`1970s/1972-73/2-division2.csv`](1970s/1972-73/2-division2.csv) =>  22 teams,  462 matches,  1156 goals,  42 rounds,  Sat 12 Aug 1972 - Wed 09 May 1973
+- [`1970s/1971-72/2-division2.csv`](1970s/1971-72/2-division2.csv) =>  22 teams,  462 matches,  1194 goals,  42 rounds,  Sat 14 Aug 1971 - Tue 02 May 1972
+- [`1970s/1970-71/2-division2.csv`](1970s/1970-71/2-division2.csv) =>  22 teams,  462 matches,  1141 goals,  42 rounds,  Sat 15 Aug 1970 - Tue 04 May 1971
+- [`1960s/1969-70/2-division2.csv`](1960s/1969-70/2-division2.csv) =>  22 teams,  462 matches,  1207 goals,  42 rounds,  Sat 09 Aug 1969 - Mon 20 Apr 1970
+- [`1960s/1968-69/2-division2.csv`](1960s/1968-69/2-division2.csv) =>  22 teams,  462 matches,  1185 goals,  42 rounds,  Sat 10 Aug 1968 - Wed 30 Apr 1969
+- [`1960s/1967-68/2-division2.csv`](1960s/1967-68/2-division2.csv) =>  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 19 Aug 1967 - Wed 15 May 1968
+- [`1960s/1966-67/2-division2.csv`](1960s/1966-67/2-division2.csv) =>  22 teams,  462 matches,  1361 goals,  42 rounds,  Sat 20 Aug 1966 - Sat 13 May 1967
+- [`1960s/1965-66/2-division2.csv`](1960s/1965-66/2-division2.csv) =>  22 teams,  462 matches,  1421 goals,  42 rounds,  Sat 21 Aug 1965 - Wed 18 May 1966
+- [`1960s/1964-65/2-division2.csv`](1960s/1964-65/2-division2.csv) =>  22 teams,  462 matches,  1470 goals,  42 rounds,  Sat 22 Aug 1964 - Wed 28 Apr 1965
+- [`1960s/1963-64/2-division2.csv`](1960s/1963-64/2-division2.csv) =>  22 teams,  462 matches,  1467 goals,  42 rounds,  Sat 24 Aug 1963 - Mon 27 Apr 1964
+- [`1960s/1962-63/2-division2.csv`](1960s/1962-63/2-division2.csv) =>  22 teams,  462 matches,  1496 goals,  42 rounds,  Sat 18 Aug 1962 - Fri 24 May 1963
+- [`1960s/1961-62/2-division2.csv`](1960s/1961-62/2-division2.csv) =>  22 teams,  462 matches,  1473 goals,  42 rounds,  Sat 19 Aug 1961 - Fri 04 May 1962
+- [`1960s/1960-61/2-division2.csv`](1960s/1960-61/2-division2.csv) =>  22 teams,  462 matches,  1609 goals,  42 rounds,  Sat 20 Aug 1960 - Wed 03 May 1961
+- [`1950s/1959-60/2-division2.csv`](1950s/1959-60/2-division2.csv) =>  22 teams,  462 matches,  1565 goals,  42 rounds,  Sat 22 Aug 1959 - Sat 30 Apr 1960
+- [`1950s/1958-59/2-division2.csv`](1950s/1958-59/2-division2.csv) =>  22 teams,  462 matches,  1604 goals,  42 rounds,  Sat 23 Aug 1958 - Thu 30 Apr 1959
+- [`1950s/1957-58/2-division2.csv`](1950s/1957-58/2-division2.csv) =>  22 teams,  462 matches,  1637 goals,  42 rounds,  Sat 24 Aug 1957 - Thu 01 May 1958
+- [`1950s/1956-57/2-division2.csv`](1950s/1956-57/2-division2.csv) =>  22 teams,  462 matches,  1644 goals,  42 rounds,  Sat 18 Aug 1956 - Wed 01 May 1957
+- [`1950s/1955-56/2-division2.csv`](1950s/1955-56/2-division2.csv) =>  22 teams,  462 matches,  1628 goals,  42 rounds,  Sat 20 Aug 1955 - Thu 03 May 1956
+- [`1950s/1954-55/2-division2.csv`](1950s/1954-55/2-division2.csv) =>  22 teams,  462 matches,  1597 goals,  42 rounds,  Sat 21 Aug 1954 - Wed 04 May 1955
+- [`1950s/1953-54/2-division2.csv`](1950s/1953-54/2-division2.csv) =>  22 teams,  462 matches,  1535 goals,  42 rounds,  Wed 19 Aug 1953 - Thu 29 Apr 1954
+- [`1950s/1952-53/2-division2.csv`](1950s/1952-53/2-division2.csv) =>  22 teams,  462 matches,  1535 goals,  42 rounds,  Sat 23 Aug 1952 - Fri 01 May 1953
+- [`1950s/1951-52/2-division2.csv`](1950s/1951-52/2-division2.csv) =>  22 teams,  462 matches,  1488 goals,  42 rounds,  Sat 18 Aug 1951 - Sat 03 May 1952
+- [`1950s/1950-51/2-division2.csv`](1950s/1950-51/2-division2.csv) =>  22 teams,  462 matches,  1469 goals,  42 rounds,  Sat 19 Aug 1950 - Sat 05 May 1951
+- [`1940s/1949-50/2-division2.csv`](1940s/1949-50/2-division2.csv) =>  22 teams,  462 matches,  1231 goals,  42 rounds,  Sat 20 Aug 1949 - Sat 06 May 1950
+- [`1940s/1948-49/2-division2.csv`](1940s/1948-49/2-division2.csv) =>  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 21 Aug 1948 - Sat 07 May 1949
+- [`1940s/1947-48/2-division2.csv`](1940s/1947-48/2-division2.csv) =>  22 teams,  462 matches,  1247 goals,  42 rounds,  Sat 23 Aug 1947 - Sat 01 May 1948
+- [`1940s/1946-47/2-division2.csv`](1940s/1946-47/2-division2.csv) =>  22 teams,  462 matches,  1547 goals,  42 rounds,  Sat 31 Aug 1946 - Sat 14 Jun 1947
 - [`1930s/1939-40/2-division2.csv`](1930s/1939-40/2-division2.csv) =>  22 teams,  32 matches,  110 goals,  **WARN - unbalanced rounds - fix/double check?!****WARN - start: ???, end: ???**
-- [`1930s/1938-39/2-division2.csv`](1930s/1938-39/2-division2.csv) =>  22 teams,  462 matches,  1441 goals,  42 rounds,  Mon 23 Jan 1939 - Sat 15 Apr 1939
-- [`1930s/1937-38/2-division2.csv`](1930s/1937-38/2-division2.csv) =>  22 teams,  462 matches,  1346 goals,  42 rounds,  Tue 28 Dec 1937 - Sat 02 Apr 1938
-- [`1930s/1936-37/2-division2.csv`](1930s/1936-37/2-division2.csv) =>  22 teams,  462 matches,  1479 goals,  42 rounds,  Sat 24 Oct 1936 - Sat 29 Aug 1936
-- [`1930s/1935-36/2-division2.csv`](1930s/1935-36/2-division2.csv) =>  22 teams,  462 matches,  1533 goals,  42 rounds,  Sat 02 Nov 1935 - Sat 09 Nov 1935
-- [`1930s/1934-35/2-division2.csv`](1930s/1934-35/2-division2.csv) =>  22 teams,  462 matches,  1502 goals,  42 rounds,  Sat 30 Mar 1935 - Sat 20 Oct 1934
-- [`1930s/1933-34/2-division2.csv`](1930s/1933-34/2-division2.csv) =>  22 teams,  462 matches,  1441 goals,  42 rounds,  Sat 24 Mar 1934 - Mon 25 Dec 1933
-- [`1930s/1932-33/2-division2.csv`](1930s/1932-33/2-division2.csv) =>  22 teams,  462 matches,  1542 goals,  42 rounds,  Sat 10 Sep 1932 - Sat 29 Apr 1933
-- [`1930s/1931-32/2-division2.csv`](1930s/1931-32/2-division2.csv) =>  22 teams,  462 matches,  1567 goals,  42 rounds,  Sat 29 Aug 1931 - Sat 29 Aug 1931
-- [`1930s/1930-31/2-division2.csv`](1930s/1930-31/2-division2.csv) =>  22 teams,  462 matches,  1608 goals,  42 rounds,  Sat 06 Sep 1930 - Wed 18 Feb 1931
-- [`1920s/1929-30/2-division2.csv`](1920s/1929-30/2-division2.csv) =>  22 teams,  462 matches,  1513 goals,  42 rounds,  Sat 05 Oct 1929 - Sat 31 Aug 1929
-- [`1920s/1928-29/2-division2.csv`](1920s/1928-29/2-division2.csv) =>  22 teams,  462 matches,  1576 goals,  42 rounds,  Sat 08 Sep 1928 - Sat 23 Mar 1929
-- [`1920s/1927-28/2-division2.csv`](1920s/1927-28/2-division2.csv) =>  22 teams,  462 matches,  1607 goals,  42 rounds,  Sat 28 Apr 1928 - Sat 08 Oct 1927
-- [`1920s/1926-27/2-division2.csv`](1920s/1926-27/2-division2.csv) =>  22 teams,  462 matches,  1668 goals,  42 rounds,  Sat 22 Jan 1927 - Sat 04 Sep 1926
-- [`1920s/1925-26/2-division2.csv`](1920s/1925-26/2-division2.csv) =>  22 teams,  462 matches,  1487 goals,  42 rounds,  Sat 03 Oct 1925 - Sat 06 Feb 1926
-- [`1920s/1924-25/2-division2.csv`](1920s/1924-25/2-division2.csv) =>  22 teams,  462 matches,  1068 goals,  42 rounds,  Sat 04 Oct 1924 - Sat 08 Nov 1924
-- [`1920s/1923-24/2-division2.csv`](1920s/1923-24/2-division2.csv) =>  22 teams,  462 matches,  1125 goals,  42 rounds,  Sat 23 Feb 1924 - Sat 02 Feb 1924
-- [`1920s/1922-23/2-division2.csv`](1920s/1922-23/2-division2.csv) =>  22 teams,  462 matches,  1055 goals,  42 rounds,  Sat 20 Jan 1923 - Sat 16 Dec 1922
-- [`1920s/1921-22/2-division2.csv`](1920s/1921-22/2-division2.csv) =>  22 teams,  462 matches,  1061 goals,  42 rounds,  Sat 11 Feb 1922 - Sat 12 Nov 1921
-- [`1920s/1920-21/2-division2.csv`](1920s/1920-21/2-division2.csv) =>  22 teams,  462 matches,  1061 goals,  42 rounds,  Sat 02 Apr 1921 - Mon 30 Aug 1920
-- [`1910s/1919-20/2-division2.csv`](1910s/1919-20/2-division2.csv) =>  23 teams,  462 matches,  1285 goals,  **WARN - unbalanced rounds - fix/double check?!** Sat 14 Feb 1920 - Sat 03 Apr 1920
-- [`1910s/1914-15/2-division2.csv`](1910s/1914-15/2-division2.csv) =>  20 teams,  380 matches,  1135 goals,  38 rounds,  Mon 05 Apr 1915 - Sat 19 Dec 1914
-- [`1910s/1913-14/2-division2.csv`](1910s/1913-14/2-division2.csv) =>  20 teams,  380 matches,  1011 goals,  38 rounds,  Sat 24 Jan 1914 - Sat 07 Mar 1914
-- [`1910s/1912-13/2-division2.csv`](1910s/1912-13/2-division2.csv) =>  20 teams,  380 matches,  1122 goals,  38 rounds,  Tue 25 Mar 1913 - Sat 23 Nov 1912
-- [`1910s/1911-12/2-division2.csv`](1910s/1911-12/2-division2.csv) =>  20 teams,  380 matches,  1032 goals,  38 rounds,  Mon 08 Apr 1912 - Sat 13 Apr 1912
-- [`1910s/1910-11/2-division2.csv`](1910s/1910-11/2-division2.csv) =>  20 teams,  380 matches,  1050 goals,  38 rounds,  Sat 25 Feb 1911 - Sat 12 Nov 1910
-- [`1900s/1909-10/2-division2.csv`](1900s/1909-10/2-division2.csv) =>  20 teams,  380 matches,  1166 goals,  38 rounds,  Sat 11 Sep 1909 - Sat 16 Oct 1909
-- [`1900s/1908-09/2-division2.csv`](1900s/1908-09/2-division2.csv) =>  20 teams,  380 matches,  1026 goals,  38 rounds,  Sat 13 Mar 1909 - Sat 03 Oct 1908
-- [`1900s/1907-08/2-division2.csv`](1900s/1907-08/2-division2.csv) =>  20 teams,  380 matches,  1187 goals,  38 rounds,  Sat 18 Apr 1908 - Mon 02 Sep 1907
-- [`1900s/1906-07/2-division2.csv`](1900s/1906-07/2-division2.csv) =>  20 teams,  380 matches,  1155 goals,  38 rounds,  Sat 01 Sep 1906 - Sat 29 Sep 1906
-- [`1900s/1905-06/2-division2.csv`](1900s/1905-06/2-division2.csv) =>  20 teams,  380 matches,  1116 goals,  38 rounds,  Sat 21 Apr 1906 - Sat 28 Oct 1905
-- [`1900s/1904-05/2-division2.csv`](1900s/1904-05/2-division2.csv) =>  18 teams,  306 matches,  902 goals,  34 rounds,  Sat 10 Sep 1904 - Mon 26 Dec 1904
-- [`1900s/1903-04/2-division2.csv`](1900s/1903-04/2-division2.csv) =>  18 teams,  306 matches,  942 goals,  34 rounds,  Sat 27 Feb 1904 - Sat 05 Sep 1903
-- [`1900s/1902-03/2-division2.csv`](1900s/1902-03/2-division2.csv) =>  18 teams,  306 matches,  939 goals,  34 rounds,  Sat 17 Jan 1903 - Sat 18 Apr 1903
-- [`1900s/1901-02/2-division2.csv`](1900s/1901-02/2-division2.csv) =>  18 teams,  306 matches,  885 goals,  34 rounds,  Mon 02 Sep 1901 - Thu 26 Dec 1901
-- [`1900s/1900-01/2-division2.csv`](1900s/1900-01/2-division2.csv) =>  18 teams,  306 matches,  819 goals,  34 rounds,  Sat 22 Sep 1900 - Sat 19 Jan 1901
-- [`1890s/1899-00/2-division2.csv`](1890s/1899-00/2-division2.csv) =>  18 teams,  306 matches,  984 goals,  34 rounds,  Sat 28 Apr 1900 - Sat 21 Apr 1900
-- [`1890s/1898-99/2-division2.csv`](1890s/1898-99/2-division2.csv) =>  18 teams,  306 matches,  1103 goals,  34 rounds,  Sat 22 Apr 1899 - Sat 17 Dec 1898
-- [`1890s/1897-98/2-division2.csv`](1890s/1897-98/2-division2.csv) =>  16 teams,  240 matches,  860 goals,  30 rounds,  Sat 05 Mar 1898 - Sat 11 Sep 1897
-- [`1890s/1896-97/2-division2.csv`](1890s/1896-97/2-division2.csv) =>  16 teams,  240 matches,  908 goals,  30 rounds,  Mon 29 Mar 1897 - Sat 16 Jan 1897
-- [`1890s/1895-96/2-division2.csv`](1890s/1895-96/2-division2.csv) =>  16 teams,  240 matches,  942 goals,  30 rounds,  Sat 19 Oct 1895 - Sat 07 Sep 1895
-- [`1890s/1894-95/2-division2.csv`](1890s/1894-95/2-division2.csv) =>  16 teams,  240 matches,  1023 goals,  30 rounds,  Sat 23 Feb 1895 - Mon 24 Sep 1894
-- [`1890s/1893-94/2-division2.csv`](1890s/1893-94/2-division2.csv) =>  15 teams,  210 matches,  894 goals,  28 rounds,  Sat 31 Mar 1894 - Tue 26 Sep 1893
-- [`1890s/1892-93/2-division2.csv`](1890s/1892-93/2-division2.csv) =>  12 teams,  132 matches,  591 goals,  22 rounds,  Sat 18 Feb 1893 - Sat 15 Apr 1893
+- [`1930s/1938-39/2-division2.csv`](1930s/1938-39/2-division2.csv) =>  22 teams,  462 matches,  1441 goals,  42 rounds,  Sat 27 Aug 1938 - Sat 06 May 1939
+- [`1930s/1937-38/2-division2.csv`](1930s/1937-38/2-division2.csv) =>  22 teams,  462 matches,  1346 goals,  42 rounds,  Sat 28 Aug 1937 - Sat 07 May 1938
+- [`1930s/1936-37/2-division2.csv`](1930s/1936-37/2-division2.csv) =>  22 teams,  462 matches,  1479 goals,  42 rounds,  Sat 29 Aug 1936 - Sat 01 May 1937
+- [`1930s/1935-36/2-division2.csv`](1930s/1935-36/2-division2.csv) =>  22 teams,  462 matches,  1533 goals,  42 rounds,  Sat 31 Aug 1935 - Sat 02 May 1936
+- [`1930s/1934-35/2-division2.csv`](1930s/1934-35/2-division2.csv) =>  22 teams,  462 matches,  1502 goals,  42 rounds,  Sat 25 Aug 1934 - Sat 04 May 1935
+- [`1930s/1933-34/2-division2.csv`](1930s/1933-34/2-division2.csv) =>  22 teams,  462 matches,  1441 goals,  42 rounds,  Sat 26 Aug 1933 - Sat 05 May 1934
+- [`1930s/1932-33/2-division2.csv`](1930s/1932-33/2-division2.csv) =>  22 teams,  462 matches,  1542 goals,  42 rounds,  Sat 27 Aug 1932 - Sat 06 May 1933
+- [`1930s/1931-32/2-division2.csv`](1930s/1931-32/2-division2.csv) =>  22 teams,  462 matches,  1567 goals,  42 rounds,  Sat 29 Aug 1931 - Sat 07 May 1932
+- [`1930s/1930-31/2-division2.csv`](1930s/1930-31/2-division2.csv) =>  22 teams,  462 matches,  1608 goals,  42 rounds,  Sat 30 Aug 1930 - Sat 02 May 1931
+- [`1920s/1929-30/2-division2.csv`](1920s/1929-30/2-division2.csv) =>  22 teams,  462 matches,  1513 goals,  42 rounds,  Sat 31 Aug 1929 - Sat 03 May 1930
+- [`1920s/1928-29/2-division2.csv`](1920s/1928-29/2-division2.csv) =>  22 teams,  462 matches,  1576 goals,  42 rounds,  Sat 25 Aug 1928 - Sat 04 May 1929
+- [`1920s/1927-28/2-division2.csv`](1920s/1927-28/2-division2.csv) =>  22 teams,  462 matches,  1607 goals,  42 rounds,  Sat 27 Aug 1927 - Sat 05 May 1928
+- [`1920s/1926-27/2-division2.csv`](1920s/1926-27/2-division2.csv) =>  22 teams,  462 matches,  1668 goals,  42 rounds,  Sat 28 Aug 1926 - Sat 07 May 1927
+- [`1920s/1925-26/2-division2.csv`](1920s/1925-26/2-division2.csv) =>  22 teams,  462 matches,  1487 goals,  42 rounds,  Sat 29 Aug 1925 - Sat 01 May 1926
+- [`1920s/1924-25/2-division2.csv`](1920s/1924-25/2-division2.csv) =>  22 teams,  462 matches,  1068 goals,  42 rounds,  Sat 30 Aug 1924 - Sat 02 May 1925
+- [`1920s/1923-24/2-division2.csv`](1920s/1923-24/2-division2.csv) =>  22 teams,  462 matches,  1125 goals,  42 rounds,  Sat 25 Aug 1923 - Sat 03 May 1924
+- [`1920s/1922-23/2-division2.csv`](1920s/1922-23/2-division2.csv) =>  22 teams,  462 matches,  1055 goals,  42 rounds,  Sat 26 Aug 1922 - Sat 05 May 1923
+- [`1920s/1921-22/2-division2.csv`](1920s/1921-22/2-division2.csv) =>  22 teams,  462 matches,  1061 goals,  42 rounds,  Sat 27 Aug 1921 - Sat 06 May 1922
+- [`1920s/1920-21/2-division2.csv`](1920s/1920-21/2-division2.csv) =>  22 teams,  462 matches,  1061 goals,  42 rounds,  Sat 28 Aug 1920 - Sat 07 May 1921
+- [`1910s/1919-20/2-division2.csv`](1910s/1919-20/2-division2.csv) =>  23 teams,  462 matches,  1285 goals,  **WARN - unbalanced rounds - fix/double check?!** Sat 30 Aug 1919 - Sat 01 May 1920
+- [`1910s/1914-15/2-division2.csv`](1910s/1914-15/2-division2.csv) =>  20 teams,  380 matches,  1135 goals,  38 rounds,  Tue 01 Sep 1914 - Thu 29 Apr 1915
+- [`1910s/1913-14/2-division2.csv`](1910s/1913-14/2-division2.csv) =>  20 teams,  380 matches,  1011 goals,  38 rounds,  Mon 01 Sep 1913 - Sat 25 Apr 1914
+- [`1910s/1912-13/2-division2.csv`](1910s/1912-13/2-division2.csv) =>  20 teams,  380 matches,  1122 goals,  38 rounds,  Mon 02 Sep 1912 - Sat 26 Apr 1913
+- [`1910s/1911-12/2-division2.csv`](1910s/1911-12/2-division2.csv) =>  20 teams,  380 matches,  1032 goals,  38 rounds,  Sat 02 Sep 1911 - Mon 29 Apr 1912
+- [`1910s/1910-11/2-division2.csv`](1910s/1910-11/2-division2.csv) =>  20 teams,  380 matches,  1050 goals,  38 rounds,  Thu 01 Sep 1910 - Sat 29 Apr 1911
+- [`1900s/1909-10/2-division2.csv`](1900s/1909-10/2-division2.csv) =>  20 teams,  380 matches,  1166 goals,  38 rounds,  Wed 01 Sep 1909 - Sat 30 Apr 1910
+- [`1900s/1908-09/2-division2.csv`](1900s/1908-09/2-division2.csv) =>  20 teams,  380 matches,  1026 goals,  38 rounds,  Tue 01 Sep 1908 - Fri 30 Apr 1909
+- [`1900s/1907-08/2-division2.csv`](1900s/1907-08/2-division2.csv) =>  20 teams,  380 matches,  1187 goals,  38 rounds,  Mon 02 Sep 1907 - Wed 29 Apr 1908
+- [`1900s/1906-07/2-division2.csv`](1900s/1906-07/2-division2.csv) =>  20 teams,  380 matches,  1155 goals,  38 rounds,  Sat 01 Sep 1906 - Sat 27 Apr 1907
+- [`1900s/1905-06/2-division2.csv`](1900s/1905-06/2-division2.csv) =>  20 teams,  380 matches,  1116 goals,  38 rounds,  Sat 02 Sep 1905 - Sat 28 Apr 1906
+- [`1900s/1904-05/2-division2.csv`](1900s/1904-05/2-division2.csv) =>  18 teams,  306 matches,  902 goals,  34 rounds,  Thu 01 Sep 1904 - Sat 29 Apr 1905
+- [`1900s/1903-04/2-division2.csv`](1900s/1903-04/2-division2.csv) =>  18 teams,  306 matches,  942 goals,  34 rounds,  Tue 01 Sep 1903 - Sat 30 Apr 1904
+- [`1900s/1902-03/2-division2.csv`](1900s/1902-03/2-division2.csv) =>  18 teams,  306 matches,  939 goals,  34 rounds,  Mon 01 Sep 1902 - Sat 25 Apr 1903
+- [`1900s/1901-02/2-division2.csv`](1900s/1901-02/2-division2.csv) =>  18 teams,  306 matches,  885 goals,  34 rounds,  Mon 02 Sep 1901 - Sat 26 Apr 1902
+- [`1900s/1900-01/2-division2.csv`](1900s/1900-01/2-division2.csv) =>  18 teams,  306 matches,  819 goals,  34 rounds,  Sat 01 Sep 1900 - Sat 27 Apr 1901
+- [`1890s/1899-00/2-division2.csv`](1890s/1899-00/2-division2.csv) =>  18 teams,  306 matches,  984 goals,  34 rounds,  Sat 02 Sep 1899 - Mon 30 Apr 1900
+- [`1890s/1898-99/2-division2.csv`](1890s/1898-99/2-division2.csv) =>  18 teams,  306 matches,  1103 goals,  34 rounds,  Thu 01 Sep 1898 - Sat 29 Apr 1899
+- [`1890s/1897-98/2-division2.csv`](1890s/1897-98/2-division2.csv) =>  16 teams,  240 matches,  860 goals,  30 rounds,  Wed 01 Sep 1897 - Sat 30 Apr 1898
+- [`1890s/1896-97/2-division2.csv`](1890s/1896-97/2-division2.csv) =>  16 teams,  240 matches,  908 goals,  30 rounds,  Tue 01 Sep 1896 - Wed 28 Apr 1897
+- [`1890s/1895-96/2-division2.csv`](1890s/1895-96/2-division2.csv) =>  16 teams,  240 matches,  942 goals,  30 rounds,  Mon 02 Sep 1895 - Mon 20 Apr 1896
+- [`1890s/1894-95/2-division2.csv`](1890s/1894-95/2-division2.csv) =>  16 teams,  240 matches,  1023 goals,  30 rounds,  Sat 01 Sep 1894 - Sat 20 Apr 1895
+- [`1890s/1893-94/2-division2.csv`](1890s/1893-94/2-division2.csv) =>  15 teams,  210 matches,  894 goals,  28 rounds,  Sat 02 Sep 1893 - Sat 14 Apr 1894
+- [`1890s/1892-93/2-division2.csv`](1890s/1892-93/2-division2.csv) =>  12 teams,  132 matches,  591 goals,  22 rounds,  Sat 03 Sep 1892 - Sat 15 Apr 1893
 
 
 level 3 - 88 seasons:
@@ -465,42 +465,135 @@ level 3 - 88 seasons:
 - [`1990s/1995-96/3-division2.csv`](1990s/1995-96/3-division2.csv) =>  24 teams,  552 matches,  1414 goals,  46 rounds,  Sat 12 Aug 1995 - Thu 09 May 1996
 - [`1990s/1994-95/3-division2.csv`](1990s/1994-95/3-division2.csv) =>  24 teams,  552 matches,  1440 goals,  46 rounds,  Sat 13 Aug 1994 - Sat 06 May 1995
 - [`1990s/1993-94/3-division2.csv`](1990s/1993-94/3-division2.csv) =>  24 teams,  552 matches,  1508 goals,  46 rounds,  Sat 14 Aug 1993 - Sat 07 May 1994
-- [`1990s/1992-93/3-division2.csv`](1990s/1992-93/3-division2.csv) =>  24 teams,  552 matches,  1479 goals,  46 rounds,  Sat 09 Jan 1993 - Sat 17 Oct 1992
-- [`1990s/1991-92/3-division3.csv`](1990s/1991-92/3-division3.csv) =>  24 teams,  552 matches,  1435 goals,  46 rounds,  Sat 14 Dec 1991 - Thu 26 Dec 1991
-- [`1990s/1990-91/3-division3.csv`](1990s/1990-91/3-division3.csv) =>  24 teams,  552 matches,  1381 goals,  46 rounds,  Sat 16 Feb 1991 - Tue 12 Mar 1991
-- [`1980s/1989-90/3-division3.csv`](1980s/1989-90/3-division3.csv) =>  24 teams,  552 matches,  1414 goals,  46 rounds,  Tue 06 Mar 1990 - Sat 21 Oct 1989
-- [`1980s/1988-89/3-division3.csv`](1980s/1988-89/3-division3.csv) =>  24 teams,  552 matches,  1495 goals,  46 rounds,  Sat 29 Apr 1989 - Sat 15 Oct 1988
-- [`1980s/1987-88/3-division3.csv`](1980s/1987-88/3-division3.csv) =>  24 teams,  552 matches,  1485 goals,  46 rounds,  Tue 29 Mar 1988 - Sat 27 Feb 1988
-- [`1980s/1986-87/3-division3.csv`](1980s/1986-87/3-division3.csv) =>  24 teams,  552 matches,  1471 goals,  46 rounds,  Tue 03 Feb 1987 - Sat 27 Dec 1986
-- [`1980s/1985-86/3-division3.csv`](1980s/1985-86/3-division3.csv) =>  24 teams,  552 matches,  1550 goals,  46 rounds,  Tue 17 Sep 1985 - Sat 11 Jan 1986
-- [`1980s/1984-85/3-division3.csv`](1980s/1984-85/3-division3.csv) =>  24 teams,  552 matches,  1503 goals,  46 rounds,  Sat 16 Mar 1985 - Sat 02 Feb 1985
-- [`1980s/1983-84/3-division3.csv`](1980s/1983-84/3-division3.csv) =>  24 teams,  552 matches,  1586 goals,  46 rounds,  Sat 26 Nov 1983 - Sat 10 Mar 1984
-- [`1980s/1982-83/3-division3.csv`](1980s/1982-83/3-division3.csv) =>  24 teams,  552 matches,  1617 goals,  46 rounds,  Sat 27 Nov 1982 - Mon 27 Dec 1982
-- [`1980s/1981-82/3-division3.csv`](1980s/1981-82/3-division3.csv) =>  24 teams,  552 matches,  1421 goals,  46 rounds,  Sat 07 Nov 1981 - Tue 04 May 1982
-- [`1980s/1980-81/3-division3.csv`](1980s/1980-81/3-division3.csv) =>  24 teams,  552 matches,  1337 goals,  46 rounds,  Sat 20 Dec 1980 - Sat 25 Apr 1981
-- [`1970s/1979-80/3-division3.csv`](1970s/1979-80/3-division3.csv) =>  24 teams,  552 matches,  1423 goals,  46 rounds,  Tue 02 Oct 1979 - Sat 13 Oct 1979
-- [`1970s/1978-79/3-division3.csv`](1970s/1978-79/3-division3.csv) =>  24 teams,  552 matches,  1388 goals,  46 rounds,  Sat 05 May 1979 - Tue 27 Mar 1979
-- [`1970s/1977-78/3-division3.csv`](1970s/1977-78/3-division3.csv) =>  24 teams,  552 matches,  1373 goals,  46 rounds,  Sat 12 Nov 1977 - Sat 18 Mar 1978
-- [`1970s/1976-77/3-division3.csv`](1970s/1976-77/3-division3.csv) =>  24 teams,  552 matches,  1462 goals,  46 rounds,  Sat 19 Mar 1977 - Tue 12 Apr 1977
-- [`1970s/1975-76/3-division3.csv`](1970s/1975-76/3-division3.csv) =>  24 teams,  552 matches,  1440 goals,  46 rounds,  Sat 17 Apr 1976 - Mon 19 Apr 1976
-- [`1970s/1974-75/3-division3.csv`](1970s/1974-75/3-division3.csv) =>  24 teams,  552 matches,  1427 goals,  46 rounds,  Sat 30 Nov 1974 - Sat 21 Dec 1974
-- [`1970s/1973-74/3-division3.csv`](1970s/1973-74/3-division3.csv) =>  24 teams,  552 matches,  1362 goals,  46 rounds,  Wed 12 Sep 1973 - Fri 12 Oct 1973
-- [`1970s/1972-73/3-division3.csv`](1970s/1972-73/3-division3.csv) =>  24 teams,  552 matches,  1371 goals,  46 rounds,  Tue 20 Mar 1973 - Fri 20 Apr 1973
-- [`1970s/1971-72/3-division3.csv`](1970s/1971-72/3-division3.csv) =>  24 teams,  552 matches,  1407 goals,  46 rounds,  Sat 23 Oct 1971 - Sat 11 Sep 1971
-- [`1970s/1970-71/3-division3.csv`](1970s/1970-71/3-division3.csv) =>  24 teams,  552 matches,  1372 goals,  46 rounds,  Mon 12 Apr 1971 - Mon 09 Nov 1970
-- [`1960s/1969-70/3-division3.csv`](1960s/1969-70/3-division3.csv) =>  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 14 Feb 1970 - Sat 27 Sep 1969
-- [`1960s/1968-69/3-division3.csv`](1960s/1968-69/3-division3.csv) =>  24 teams,  552 matches,  1426 goals,  46 rounds,  Sat 02 Nov 1968 - Tue 27 Aug 1968
-- [`1960s/1967-68/3-division3.csv`](1960s/1967-68/3-division3.csv) =>  24 teams,  552 matches,  1531 goals,  46 rounds,  Sat 23 Dec 1967 - Sat 19 Aug 1967
-- [`1960s/1966-67/3-division3.csv`](1960s/1966-67/3-division3.csv) =>  24 teams,  552 matches,  1646 goals,  46 rounds,  Wed 28 Sep 1966 - Sat 12 Nov 1966
-- [`1960s/1965-66/3-division3.csv`](1960s/1965-66/3-division3.csv) =>  24 teams,  552 matches,  1628 goals,  46 rounds,  Tue 26 Apr 1966 - Mon 27 Dec 1965
-- [`1960s/1964-65/3-division3.csv`](1960s/1964-65/3-division3.csv) =>  24 teams,  552 matches,  1667 goals,  46 rounds,  Sat 20 Feb 1965 - Tue 25 Aug 1964
-- [`1960s/1963-64/3-division3.csv`](1960s/1963-64/3-division3.csv) =>  24 teams,  552 matches,  1730 goals,  46 rounds,  Sat 01 Feb 1964 - Sat 11 Jan 1964
-- [`1960s/1962-63/3-division3.csv`](1960s/1962-63/3-division3.csv) =>  24 teams,  552 matches,  1855 goals,  46 rounds,  Wed 20 Mar 1963 - Sat 13 Apr 1963
-- [`1960s/1961-62/3-division3.csv`](1960s/1961-62/3-division3.csv) =>  24 teams,  552 matches,  1772 goals,  46 rounds,  Sat 23 Sep 1961 - Sat 13 Jan 1962
-- [`1960s/1960-61/3-division3.csv`](1960s/1960-61/3-division3.csv) =>  24 teams,  552 matches,  1842 goals,  46 rounds,  Sat 04 Feb 1961 - Sat 17 Sep 1960
-- [`1950s/1959-60/3-division3.csv`](1950s/1959-60/3-division3.csv) =>  24 teams,  552 matches,  1816 goals,  46 rounds,  Mon 07 Sep 1959 - Fri 15 Apr 1960
-- [`1950s/1958-59/3-division3.csv`](1950s/1958-59/3-division3.csv) =>  24 teams,  552 matches,  1733 goals,  46 rounds,  Thu 26 Mar 1959 - Sat 13 Dec 1958
-   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!   - todo/fix more than one dafile per season!!!- [`1920s/1920-21/3-division3.csv`](1920s/1920-21/3-division3.csv) =>  22 teams,  462 matches,  1133 goals,  42 rounds,  Sat 11 Sep 1920 - Sat 05 Feb 1921
+- [`1990s/1992-93/3-division2.csv`](1990s/1992-93/3-division2.csv) =>  24 teams,  552 matches,  1479 goals,  46 rounds,  Sat 15 Aug 1992 - Sat 08 May 1993
+- [`1990s/1991-92/3-division3.csv`](1990s/1991-92/3-division3.csv) =>  24 teams,  552 matches,  1435 goals,  46 rounds,  Sat 17 Aug 1991 - Sat 02 May 1992
+- [`1990s/1990-91/3-division3.csv`](1990s/1990-91/3-division3.csv) =>  24 teams,  552 matches,  1381 goals,  46 rounds,  Sat 25 Aug 1990 - Sat 11 May 1991
+- [`1980s/1989-90/3-division3.csv`](1980s/1989-90/3-division3.csv) =>  24 teams,  552 matches,  1414 goals,  46 rounds,  Sat 19 Aug 1989 - Sat 05 May 1990
+- [`1980s/1988-89/3-division3.csv`](1980s/1988-89/3-division3.csv) =>  24 teams,  552 matches,  1495 goals,  46 rounds,  Sat 27 Aug 1988 - Tue 16 May 1989
+- [`1980s/1987-88/3-division3.csv`](1980s/1987-88/3-division3.csv) =>  24 teams,  552 matches,  1485 goals,  46 rounds,  Sat 15 Aug 1987 - Sat 07 May 1988
+- [`1980s/1986-87/3-division3.csv`](1980s/1986-87/3-division3.csv) =>  24 teams,  552 matches,  1471 goals,  46 rounds,  Sat 23 Aug 1986 - Sat 09 May 1987
+- [`1980s/1985-86/3-division3.csv`](1980s/1985-86/3-division3.csv) =>  24 teams,  552 matches,  1550 goals,  46 rounds,  Sat 17 Aug 1985 - Thu 15 May 1986
+- [`1980s/1984-85/3-division3.csv`](1980s/1984-85/3-division3.csv) =>  24 teams,  552 matches,  1503 goals,  46 rounds,  Sat 25 Aug 1984 - Sun 19 May 1985
+- [`1980s/1983-84/3-division3.csv`](1980s/1983-84/3-division3.csv) =>  24 teams,  552 matches,  1586 goals,  46 rounds,  Sat 27 Aug 1983 - Tue 15 May 1984
+- [`1980s/1982-83/3-division3.csv`](1980s/1982-83/3-division3.csv) =>  24 teams,  552 matches,  1617 goals,  46 rounds,  Sat 28 Aug 1982 - Sat 14 May 1983
+- [`1980s/1981-82/3-division3.csv`](1980s/1981-82/3-division3.csv) =>  24 teams,  552 matches,  1421 goals,  46 rounds,  Sat 29 Aug 1981 - Fri 21 May 1982
+- [`1980s/1980-81/3-division3.csv`](1980s/1980-81/3-division3.csv) =>  24 teams,  552 matches,  1337 goals,  46 rounds,  Sat 16 Aug 1980 - Fri 08 May 1981
+- [`1970s/1979-80/3-division3.csv`](1970s/1979-80/3-division3.csv) =>  24 teams,  552 matches,  1423 goals,  46 rounds,  Sat 18 Aug 1979 - Tue 06 May 1980
+- [`1970s/1978-79/3-division3.csv`](1970s/1978-79/3-division3.csv) =>  24 teams,  552 matches,  1388 goals,  46 rounds,  Sat 19 Aug 1978 - Mon 21 May 1979
+- [`1970s/1977-78/3-division3.csv`](1970s/1977-78/3-division3.csv) =>  24 teams,  552 matches,  1373 goals,  46 rounds,  Sat 20 Aug 1977 - Wed 03 May 1978
+- [`1970s/1976-77/3-division3.csv`](1970s/1976-77/3-division3.csv) =>  24 teams,  552 matches,  1462 goals,  46 rounds,  Sat 21 Aug 1976 - Tue 17 May 1977
+- [`1970s/1975-76/3-division3.csv`](1970s/1975-76/3-division3.csv) =>  24 teams,  552 matches,  1440 goals,  46 rounds,  Sat 16 Aug 1975 - Tue 04 May 1976
+- [`1970s/1974-75/3-division3.csv`](1970s/1974-75/3-division3.csv) =>  24 teams,  552 matches,  1427 goals,  46 rounds,  Sat 17 Aug 1974 - Wed 07 May 1975
+- [`1970s/1973-74/3-division3.csv`](1970s/1973-74/3-division3.csv) =>  24 teams,  552 matches,  1362 goals,  46 rounds,  Sat 25 Aug 1973 - Mon 06 May 1974
+- [`1970s/1972-73/3-division3.csv`](1970s/1972-73/3-division3.csv) =>  24 teams,  552 matches,  1371 goals,  46 rounds,  Sat 12 Aug 1972 - Tue 01 May 1973
+- [`1970s/1971-72/3-division3.csv`](1970s/1971-72/3-division3.csv) =>  24 teams,  552 matches,  1407 goals,  46 rounds,  Sat 14 Aug 1971 - Mon 15 May 1972
+- [`1970s/1970-71/3-division3.csv`](1970s/1970-71/3-division3.csv) =>  24 teams,  552 matches,  1372 goals,  46 rounds,  Sat 15 Aug 1970 - Fri 07 May 1971
+- [`1960s/1969-70/3-division3.csv`](1960s/1969-70/3-division3.csv) =>  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 09 Aug 1969 - Mon 27 Apr 1970
+- [`1960s/1968-69/3-division3.csv`](1960s/1968-69/3-division3.csv) =>  24 teams,  552 matches,  1426 goals,  46 rounds,  Sat 10 Aug 1968 - Fri 09 May 1969
+- [`1960s/1967-68/3-division3.csv`](1960s/1967-68/3-division3.csv) =>  24 teams,  552 matches,  1531 goals,  46 rounds,  Sat 19 Aug 1967 - Sat 11 May 1968
+- [`1960s/1966-67/3-division3.csv`](1960s/1966-67/3-division3.csv) =>  24 teams,  552 matches,  1646 goals,  46 rounds,  Sat 20 Aug 1966 - Sat 27 May 1967
+- [`1960s/1965-66/3-division3.csv`](1960s/1965-66/3-division3.csv) =>  24 teams,  552 matches,  1628 goals,  46 rounds,  Sat 21 Aug 1965 - Sat 28 May 1966
+- [`1960s/1964-65/3-division3.csv`](1960s/1964-65/3-division3.csv) =>  24 teams,  552 matches,  1667 goals,  46 rounds,  Sat 22 Aug 1964 - Thu 29 Apr 1965
+- [`1960s/1963-64/3-division3.csv`](1960s/1963-64/3-division3.csv) =>  24 teams,  552 matches,  1730 goals,  46 rounds,  Sat 24 Aug 1963 - Fri 01 May 1964
+- [`1960s/1962-63/3-division3.csv`](1960s/1962-63/3-division3.csv) =>  24 teams,  552 matches,  1855 goals,  46 rounds,  Sat 18 Aug 1962 - Fri 24 May 1963
+- [`1960s/1961-62/3-division3.csv`](1960s/1961-62/3-division3.csv) =>  24 teams,  552 matches,  1772 goals,  46 rounds,  Sat 19 Aug 1961 - Thu 03 May 1962
+- [`1960s/1960-61/3-division3.csv`](1960s/1960-61/3-division3.csv) =>  24 teams,  552 matches,  1842 goals,  46 rounds,  Sat 20 Aug 1960 - Wed 03 May 1961
+- [`1950s/1959-60/3-division3.csv`](1950s/1959-60/3-division3.csv) =>  24 teams,  552 matches,  1816 goals,  46 rounds,  Sat 22 Aug 1959 - Wed 04 May 1960
+- [`1950s/1958-59/3-division3.csv`](1950s/1958-59/3-division3.csv) =>  24 teams,  552 matches,  1733 goals,  46 rounds,  Sat 23 Aug 1958 - Mon 04 May 1959
+- [`1950s/1957-58/3a-division3n.csv`](1950s/1957-58/3a-division3n.csv), [`1950s/1957-58/3b-division3s.csv`](1950s/1957-58/3b-division3s.csv) (2)
+   - [`1950s/1957-58/3a-division3n.csv`](1950s/1957-58/3a-division3n.csv) =>  24 teams,  552 matches,  1783 goals,  46 rounds,  Sat 24 Aug 1957 - Thu 01 May 1958
+   - [`1950s/1957-58/3b-division3s.csv`](1950s/1957-58/3b-division3s.csv) =>  24 teams,  552 matches,  1701 goals,  46 rounds,  Sat 24 Aug 1957 - Fri 02 May 1958
+- [`1950s/1956-57/3a-division3n.csv`](1950s/1956-57/3a-division3n.csv), [`1950s/1956-57/3b-division3s.csv`](1950s/1956-57/3b-division3s.csv) (2)
+   - [`1950s/1956-57/3a-division3n.csv`](1950s/1956-57/3a-division3n.csv) =>  24 teams,  552 matches,  1841 goals,  46 rounds,  Sat 18 Aug 1956 - Wed 01 May 1957
+   - [`1950s/1956-57/3b-division3s.csv`](1950s/1956-57/3b-division3s.csv) =>  24 teams,  552 matches,  1760 goals,  46 rounds,  Sat 18 Aug 1956 - Sat 04 May 1957
+- [`1950s/1955-56/3a-division3n.csv`](1950s/1955-56/3a-division3n.csv), [`1950s/1955-56/3b-division3s.csv`](1950s/1955-56/3b-division3s.csv) (2)
+   - [`1950s/1955-56/3a-division3n.csv`](1950s/1955-56/3a-division3n.csv) =>  24 teams,  552 matches,  1771 goals,  46 rounds,  Sat 20 Aug 1955 - Thu 03 May 1956
+   - [`1950s/1955-56/3b-division3s.csv`](1950s/1955-56/3b-division3s.csv) =>  24 teams,  552 matches,  1772 goals,  46 rounds,  Sat 20 Aug 1955 - Fri 04 May 1956
+- [`1950s/1954-55/3a-division3n.csv`](1950s/1954-55/3a-division3n.csv), [`1950s/1954-55/3b-division3s.csv`](1950s/1954-55/3b-division3s.csv) (2)
+   - [`1950s/1954-55/3a-division3n.csv`](1950s/1954-55/3a-division3n.csv) =>  24 teams,  552 matches,  1627 goals,  46 rounds,  Sat 21 Aug 1954 - Sat 07 May 1955
+   - [`1950s/1954-55/3b-division3s.csv`](1950s/1954-55/3b-division3s.csv) =>  24 teams,  552 matches,  1677 goals,  46 rounds,  Sat 21 Aug 1954 - Sat 07 May 1955
+- [`1950s/1953-54/3a-division3n.csv`](1950s/1953-54/3a-division3n.csv), [`1950s/1953-54/3b-division3s.csv`](1950s/1953-54/3b-division3s.csv) (2)
+   - [`1950s/1953-54/3a-division3n.csv`](1950s/1953-54/3a-division3n.csv) =>  24 teams,  552 matches,  1587 goals,  46 rounds,  Wed 19 Aug 1953 - Thu 29 Apr 1954
+   - [`1950s/1953-54/3b-division3s.csv`](1950s/1953-54/3b-division3s.csv) =>  24 teams,  552 matches,  1695 goals,  46 rounds,  Wed 19 Aug 1953 - Sat 01 May 1954
+- [`1950s/1952-53/3a-division3n.csv`](1950s/1952-53/3a-division3n.csv), [`1950s/1952-53/3b-division3s.csv`](1950s/1952-53/3b-division3s.csv) (2)
+   - [`1950s/1952-53/3a-division3n.csv`](1950s/1952-53/3a-division3n.csv) =>  24 teams,  552 matches,  1604 goals,  46 rounds,  Sat 23 Aug 1952 - Thu 30 Apr 1953
+   - [`1950s/1952-53/3b-division3s.csv`](1950s/1952-53/3b-division3s.csv) =>  24 teams,  552 matches,  1745 goals,  46 rounds,  Sat 23 Aug 1952 - Sat 02 May 1953
+- [`1950s/1951-52/3a-division3n.csv`](1950s/1951-52/3a-division3n.csv), [`1950s/1951-52/3b-division3s.csv`](1950s/1951-52/3b-division3s.csv) (2)
+   - [`1950s/1951-52/3a-division3n.csv`](1950s/1951-52/3a-division3n.csv) =>  24 teams,  552 matches,  1658 goals,  46 rounds,  Sat 18 Aug 1951 - Sat 03 May 1952
+   - [`1950s/1951-52/3b-division3s.csv`](1950s/1951-52/3b-division3s.csv) =>  24 teams,  552 matches,  1740 goals,  46 rounds,  Sat 18 Aug 1951 - Sat 03 May 1952
+- [`1950s/1950-51/3a-division3n.csv`](1950s/1950-51/3a-division3n.csv), [`1950s/1950-51/3b-division3s.csv`](1950s/1950-51/3b-division3s.csv) (2)
+   - [`1950s/1950-51/3a-division3n.csv`](1950s/1950-51/3a-division3n.csv) =>  24 teams,  552 matches,  1608 goals,  46 rounds,  Sat 19 Aug 1950 - Sat 05 May 1951
+   - [`1950s/1950-51/3b-division3s.csv`](1950s/1950-51/3b-division3s.csv) =>  24 teams,  552 matches,  1623 goals,  46 rounds,  Sat 19 Aug 1950 - Sat 05 May 1951
+- [`1940s/1949-50/3a-division3n.csv`](1940s/1949-50/3a-division3n.csv), [`1940s/1949-50/3b-division3s.csv`](1940s/1949-50/3b-division3s.csv) (2)
+   - [`1940s/1949-50/3a-division3n.csv`](1940s/1949-50/3a-division3n.csv) =>  22 teams,  462 matches,  1315 goals,  42 rounds,  Sat 20 Aug 1949 - Sat 06 May 1950
+   - [`1940s/1949-50/3b-division3s.csv`](1940s/1949-50/3b-division3s.csv) =>  22 teams,  462 matches,  1336 goals,  42 rounds,  Sat 20 Aug 1949 - Sat 06 May 1950
+- [`1940s/1948-49/3a-division3n.csv`](1940s/1948-49/3a-division3n.csv), [`1940s/1948-49/3b-division3s.csv`](1940s/1948-49/3b-division3s.csv) (2)
+   - [`1940s/1948-49/3a-division3n.csv`](1940s/1948-49/3a-division3n.csv) =>  22 teams,  462 matches,  1301 goals,  42 rounds,  Sat 21 Aug 1948 - Sat 07 May 1949
+   - [`1940s/1948-49/3b-division3s.csv`](1940s/1948-49/3b-division3s.csv) =>  22 teams,  462 matches,  1347 goals,  42 rounds,  Sat 21 Aug 1948 - Sat 07 May 1949
+- [`1940s/1947-48/3a-division3n.csv`](1940s/1947-48/3a-division3n.csv), [`1940s/1947-48/3b-division3s.csv`](1940s/1947-48/3b-division3s.csv) (2)
+   - [`1940s/1947-48/3a-division3n.csv`](1940s/1947-48/3a-division3n.csv) =>  22 teams,  462 matches,  1369 goals,  42 rounds,  Sat 23 Aug 1947 - Sat 01 May 1948
+   - [`1940s/1947-48/3b-division3s.csv`](1940s/1947-48/3b-division3s.csv) =>  22 teams,  462 matches,  1327 goals,  42 rounds,  Sat 23 Aug 1947 - Sat 01 May 1948
+- [`1940s/1946-47/3a-division3n.csv`](1940s/1946-47/3a-division3n.csv), [`1940s/1946-47/3b-division3s.csv`](1940s/1946-47/3b-division3s.csv) (2)
+   - [`1940s/1946-47/3a-division3n.csv`](1940s/1946-47/3a-division3n.csv) =>  22 teams,  462 matches,  1537 goals,  42 rounds,  Sat 31 Aug 1946 - Sat 14 Jun 1947
+   - [`1940s/1946-47/3b-division3s.csv`](1940s/1946-47/3b-division3s.csv) =>  22 teams,  462 matches,  1458 goals,  42 rounds,  Sat 31 Aug 1946 - Sat 07 Jun 1947
+- [`1930s/1939-40/3a-division3n.csv`](1930s/1939-40/3a-division3n.csv), [`1930s/1939-40/3b-division3s.csv`](1930s/1939-40/3b-division3s.csv) (2)
+   - [`1930s/1939-40/3a-division3n.csv`](1930s/1939-40/3a-division3n.csv) =>  22 teams,  31 matches,  87 goals,  **WARN - unbalanced rounds - fix/double check?!****WARN - start: ???, end: ???**
+   - [`1930s/1939-40/3b-division3s.csv`](1930s/1939-40/3b-division3s.csv) =>  22 teams,  32 matches,  102 goals,  **WARN - unbalanced rounds - fix/double check?!****WARN - start: ???, end: ???**
+- [`1930s/1938-39/3a-division3n.csv`](1930s/1938-39/3a-division3n.csv), [`1930s/1938-39/3b-division3s.csv`](1930s/1938-39/3b-division3s.csv) (2)
+   - [`1930s/1938-39/3a-division3n.csv`](1930s/1938-39/3a-division3n.csv) =>  22 teams,  462 matches,  1609 goals,  42 rounds,  Sat 27 Aug 1938 - Sat 06 May 1939
+   - [`1930s/1938-39/3b-division3s.csv`](1930s/1938-39/3b-division3s.csv) =>  22 teams,  462 matches,  1319 goals,  42 rounds,  Sat 27 Aug 1938 - Sat 06 May 1939
+- [`1930s/1937-38/3a-division3n.csv`](1930s/1937-38/3a-division3n.csv), [`1930s/1937-38/3b-division3s.csv`](1930s/1937-38/3b-division3s.csv) (2)
+   - [`1930s/1937-38/3a-division3n.csv`](1930s/1937-38/3a-division3n.csv) =>  22 teams,  462 matches,  1401 goals,  42 rounds,  Sat 28 Aug 1937 - Sat 07 May 1938
+   - [`1930s/1937-38/3b-division3s.csv`](1930s/1937-38/3b-division3s.csv) =>  22 teams,  462 matches,  1264 goals,  42 rounds,  Sat 28 Aug 1937 - Sat 07 May 1938
+- [`1930s/1936-37/3a-division3n.csv`](1930s/1936-37/3a-division3n.csv), [`1930s/1936-37/3b-division3s.csv`](1930s/1936-37/3b-division3s.csv) (2)
+   - [`1930s/1936-37/3a-division3n.csv`](1930s/1936-37/3a-division3n.csv) =>  22 teams,  462 matches,  1602 goals,  42 rounds,  Sat 29 Aug 1936 - Sat 01 May 1937
+   - [`1930s/1936-37/3b-division3s.csv`](1930s/1936-37/3b-division3s.csv) =>  22 teams,  462 matches,  1497 goals,  42 rounds,  Sat 29 Aug 1936 - Sat 01 May 1937
+- [`1930s/1935-36/3a-division3n.csv`](1930s/1935-36/3a-division3n.csv), [`1930s/1935-36/3b-division3s.csv`](1930s/1935-36/3b-division3s.csv) (2)
+   - [`1930s/1935-36/3a-division3n.csv`](1930s/1935-36/3a-division3n.csv) =>  22 teams,  462 matches,  1533 goals,  42 rounds,  Sat 31 Aug 1935 - Sat 02 May 1936
+   - [`1930s/1935-36/3b-division3s.csv`](1930s/1935-36/3b-division3s.csv) =>  22 teams,  462 matches,  1497 goals,  42 rounds,  Sat 31 Aug 1935 - Sat 02 May 1936
+- [`1930s/1934-35/3a-division3n.csv`](1930s/1934-35/3a-division3n.csv), [`1930s/1934-35/3b-division3s.csv`](1930s/1934-35/3b-division3s.csv) (2)
+   - [`1930s/1934-35/3a-division3n.csv`](1930s/1934-35/3a-division3n.csv) =>  22 teams,  462 matches,  1593 goals,  42 rounds,  Sat 25 Aug 1934 - Sat 04 May 1935
+   - [`1930s/1934-35/3b-division3s.csv`](1930s/1934-35/3b-division3s.csv) =>  22 teams,  462 matches,  1534 goals,  42 rounds,  Sat 25 Aug 1934 - Sat 04 May 1935
+- [`1930s/1933-34/3a-division3n.csv`](1930s/1933-34/3a-division3n.csv), [`1930s/1933-34/3b-division3s.csv`](1930s/1933-34/3b-division3s.csv) (2)
+   - [`1930s/1933-34/3a-division3n.csv`](1930s/1933-34/3a-division3n.csv) =>  22 teams,  462 matches,  1800 goals,  42 rounds,  Sat 26 Aug 1933 - Sat 05 May 1934
+   - [`1930s/1933-34/3b-division3s.csv`](1930s/1933-34/3b-division3s.csv) =>  22 teams,  462 matches,  1526 goals,  42 rounds,  Sat 26 Aug 1933 - Sat 05 May 1934
+- [`1930s/1932-33/3a-division3n.csv`](1930s/1932-33/3a-division3n.csv), [`1930s/1932-33/3b-division3s.csv`](1930s/1932-33/3b-division3s.csv) (2)
+   - [`1930s/1932-33/3a-division3n.csv`](1930s/1932-33/3a-division3n.csv) =>  22 teams,  462 matches,  1691 goals,  42 rounds,  Sat 27 Aug 1932 - Sat 06 May 1933
+   - [`1930s/1932-33/3b-division3s.csv`](1930s/1932-33/3b-division3s.csv) =>  22 teams,  462 matches,  1634 goals,  42 rounds,  Sat 27 Aug 1932 - Sat 06 May 1933
+- [`1930s/1931-32/3a-division3n.csv`](1930s/1931-32/3a-division3n.csv), [`1930s/1931-32/3b-division3s.csv`](1930s/1931-32/3b-division3s.csv) (2)
+   - [`1930s/1931-32/3a-division3n.csv`](1930s/1931-32/3a-division3n.csv) =>  22 teams,  432 matches,  1555 goals,  **WARN - unbalanced rounds - fix/double check?!** Sat 29 Aug 1931 - Sat 07 May 1932
+   - [`1930s/1931-32/3b-division3s.csv`](1930s/1931-32/3b-division3s.csv) =>  22 teams,  462 matches,  1694 goals,  42 rounds,  Sat 29 Aug 1931 - Sat 07 May 1932
+- [`1930s/1930-31/3a-division3n.csv`](1930s/1930-31/3a-division3n.csv), [`1930s/1930-31/3b-division3s.csv`](1930s/1930-31/3b-division3s.csv) (2)
+   - [`1930s/1930-31/3a-division3n.csv`](1930s/1930-31/3a-division3n.csv) =>  22 teams,  462 matches,  1714 goals,  42 rounds,  Sat 30 Aug 1930 - Sat 02 May 1931
+   - [`1930s/1930-31/3b-division3s.csv`](1930s/1930-31/3b-division3s.csv) =>  22 teams,  462 matches,  1669 goals,  42 rounds,  Sat 30 Aug 1930 - Sat 02 May 1931
+- [`1920s/1929-30/3a-division3n.csv`](1920s/1929-30/3a-division3n.csv), [`1920s/1929-30/3b-division3s.csv`](1920s/1929-30/3b-division3s.csv) (2)
+   - [`1920s/1929-30/3a-division3n.csv`](1920s/1929-30/3a-division3n.csv) =>  22 teams,  462 matches,  1681 goals,  42 rounds,  Sat 31 Aug 1929 - Sat 03 May 1930
+   - [`1920s/1929-30/3b-division3s.csv`](1920s/1929-30/3b-division3s.csv) =>  22 teams,  462 matches,  1632 goals,  42 rounds,  Sat 31 Aug 1929 - Sat 03 May 1930
+- [`1920s/1928-29/3a-division3n.csv`](1920s/1928-29/3a-division3n.csv), [`1920s/1928-29/3b-division3s.csv`](1920s/1928-29/3b-division3s.csv) (2)
+   - [`1920s/1928-29/3a-division3n.csv`](1920s/1928-29/3a-division3n.csv) =>  22 teams,  462 matches,  1696 goals,  42 rounds,  Sat 25 Aug 1928 - Sat 04 May 1929
+   - [`1920s/1928-29/3b-division3s.csv`](1920s/1928-29/3b-division3s.csv) =>  22 teams,  462 matches,  1614 goals,  42 rounds,  Sat 25 Aug 1928 - Sat 04 May 1929
+- [`1920s/1927-28/3a-division3n.csv`](1920s/1927-28/3a-division3n.csv), [`1920s/1927-28/3b-division3s.csv`](1920s/1927-28/3b-division3s.csv) (2)
+   - [`1920s/1927-28/3a-division3n.csv`](1920s/1927-28/3a-division3n.csv) =>  22 teams,  462 matches,  1676 goals,  42 rounds,  Sat 27 Aug 1927 - Sat 05 May 1928
+   - [`1920s/1927-28/3b-division3s.csv`](1920s/1927-28/3b-division3s.csv) =>  22 teams,  462 matches,  1680 goals,  42 rounds,  Sat 27 Aug 1927 - Sat 05 May 1928
+- [`1920s/1926-27/3a-division3n.csv`](1920s/1926-27/3a-division3n.csv), [`1920s/1926-27/3b-division3s.csv`](1920s/1926-27/3b-division3s.csv) (2)
+   - [`1920s/1926-27/3a-division3n.csv`](1920s/1926-27/3a-division3n.csv) =>  22 teams,  462 matches,  1692 goals,  42 rounds,  Sat 28 Aug 1926 - Sat 07 May 1927
+   - [`1920s/1926-27/3b-division3s.csv`](1920s/1926-27/3b-division3s.csv) =>  22 teams,  462 matches,  1592 goals,  42 rounds,  Sat 28 Aug 1926 - Sat 07 May 1927
+- [`1920s/1925-26/3a-division3n.csv`](1920s/1925-26/3a-division3n.csv), [`1920s/1925-26/3b-division3s.csv`](1920s/1925-26/3b-division3s.csv) (2)
+   - [`1920s/1925-26/3a-division3n.csv`](1920s/1925-26/3a-division3n.csv) =>  22 teams,  462 matches,  1628 goals,  42 rounds,  Sat 29 Aug 1925 - Sat 01 May 1926
+   - [`1920s/1925-26/3b-division3s.csv`](1920s/1925-26/3b-division3s.csv) =>  22 teams,  462 matches,  1555 goals,  42 rounds,  Sat 29 Aug 1925 - Sat 01 May 1926
+- [`1920s/1924-25/3a-division3n.csv`](1920s/1924-25/3a-division3n.csv), [`1920s/1924-25/3b-division3s.csv`](1920s/1924-25/3b-division3s.csv) (2)
+   - [`1920s/1924-25/3a-division3n.csv`](1920s/1924-25/3a-division3n.csv) =>  22 teams,  462 matches,  1320 goals,  42 rounds,  Sat 30 Aug 1924 - Sat 02 May 1925
+   - [`1920s/1924-25/3b-division3s.csv`](1920s/1924-25/3b-division3s.csv) =>  22 teams,  462 matches,  1120 goals,  42 rounds,  Sat 30 Aug 1924 - Sat 02 May 1925
+- [`1920s/1923-24/3a-division3n.csv`](1920s/1923-24/3a-division3n.csv), [`1920s/1923-24/3b-division3s.csv`](1920s/1923-24/3b-division3s.csv) (2)
+   - [`1920s/1923-24/3a-division3n.csv`](1920s/1923-24/3a-division3n.csv) =>  22 teams,  462 matches,  1150 goals,  42 rounds,  Sat 25 Aug 1923 - Sat 03 May 1924
+   - [`1920s/1923-24/3b-division3s.csv`](1920s/1923-24/3b-division3s.csv) =>  22 teams,  462 matches,  1177 goals,  42 rounds,  Sat 25 Aug 1923 - Sat 03 May 1924
+- [`1920s/1922-23/3a-division3n.csv`](1920s/1922-23/3a-division3n.csv), [`1920s/1922-23/3b-division3s.csv`](1920s/1922-23/3b-division3s.csv) (2)
+   - [`1920s/1922-23/3a-division3n.csv`](1920s/1922-23/3a-division3n.csv) =>  20 teams,  380 matches,  1019 goals,  38 rounds,  Sat 26 Aug 1922 - Sat 05 May 1923
+   - [`1920s/1922-23/3b-division3s.csv`](1920s/1922-23/3b-division3s.csv) =>  22 teams,  462 matches,  1141 goals,  42 rounds,  Sat 26 Aug 1922 - Sat 05 May 1923
+- [`1920s/1921-22/3a-division3n.csv`](1920s/1921-22/3a-division3n.csv), [`1920s/1921-22/3b-division3s.csv`](1920s/1921-22/3b-division3s.csv) (2)
+   - [`1920s/1921-22/3a-division3n.csv`](1920s/1921-22/3a-division3n.csv) =>  20 teams,  380 matches,  1150 goals,  38 rounds,  Sat 27 Aug 1921 - Sat 06 May 1922
+   - [`1920s/1921-22/3b-division3s.csv`](1920s/1921-22/3b-division3s.csv) =>  22 teams,  462 matches,  1118 goals,  42 rounds,  Sat 27 Aug 1921 - Sat 06 May 1922
+- [`1920s/1920-21/3-division3.csv`](1920s/1920-21/3-division3.csv) =>  22 teams,  462 matches,  1133 goals,  42 rounds,  Sat 28 Aug 1920 - Sat 07 May 1921
 
 
 level 4 - 55 seasons:
@@ -525,40 +618,40 @@ level 4 - 55 seasons:
 - [`1990s/1995-96/4-division3.csv`](1990s/1995-96/4-division3.csv) =>  24 teams,  552 matches,  1342 goals,  46 rounds,  Sat 12 Aug 1995 - Sat 04 May 1996
 - [`1990s/1994-95/4-division3.csv`](1990s/1994-95/4-division3.csv) =>  22 teams,  462 matches,  1232 goals,  42 rounds,  Sat 13 Aug 1994 - Sat 06 May 1995
 - [`1990s/1993-94/4-division3.csv`](1990s/1993-94/4-division3.csv) =>  22 teams,  462 matches,  1265 goals,  42 rounds,  Sat 14 Aug 1993 - Sat 07 May 1994
-- [`1990s/1991-92/4-division4.csv`](1990s/1991-92/4-division4.csv) =>  22 teams,  462 matches,  1247 goals,  42 rounds,  Sat 19 Oct 1991 - Sat 21 Sep 1991
-- [`1990s/1990-91/4-division4.csv`](1990s/1990-91/4-division4.csv) =>  24 teams,  552 matches,  1415 goals,  46 rounds,  Sat 23 Feb 1991 - Sat 06 Apr 1991
-- [`1980s/1989-90/4-division4.csv`](1980s/1989-90/4-division4.csv) =>  24 teams,  552 matches,  1426 goals,  46 rounds,  Fri 06 Apr 1990 - Sat 30 Sep 1989
-- [`1980s/1988-89/4-division4.csv`](1980s/1988-89/4-division4.csv) =>  24 teams,  552 matches,  1498 goals,  46 rounds,  Sat 29 Oct 1988 - Tue 14 Mar 1989
-- [`1980s/1987-88/4-division4.csv`](1980s/1987-88/4-division4.csv) =>  24 teams,  552 matches,  1404 goals,  46 rounds,  Mon 04 Apr 1988 - Sat 30 Apr 1988
-- [`1980s/1986-87/4-division4.csv`](1980s/1986-87/4-division4.csv) =>  24 teams,  552 matches,  1456 goals,  46 rounds,  Sat 11 Oct 1986 - Sat 03 Jan 1987
-- [`1980s/1985-86/4-division4.csv`](1980s/1985-86/4-division4.csv) =>  24 teams,  552 matches,  1576 goals,  46 rounds,  Sat 31 Aug 1985 - Tue 17 Sep 1985
-- [`1980s/1984-85/4-division4.csv`](1980s/1984-85/4-division4.csv) =>  24 teams,  552 matches,  1478 goals,  46 rounds,  Sat 23 Mar 1985 - Sat 13 Oct 1984
-- [`1980s/1983-84/4-division4.csv`](1980s/1983-84/4-division4.csv) =>  24 teams,  552 matches,  1505 goals,  46 rounds,  Sat 05 May 1984 - Tue 01 Nov 1983
-- [`1980s/1982-83/4-division4.csv`](1980s/1982-83/4-division4.csv) =>  24 teams,  552 matches,  1502 goals,  46 rounds,  Sat 27 Nov 1982 - Sat 16 Oct 1982
-- [`1980s/1981-82/4-division4.csv`](1980s/1981-82/4-division4.csv) =>  24 teams,  552 matches,  1512 goals,  46 rounds,  Tue 09 Mar 1982 - Sat 14 Nov 1981
-- [`1980s/1980-81/4-division4.csv`](1980s/1980-81/4-division4.csv) =>  24 teams,  552 matches,  1364 goals,  46 rounds,  Tue 04 Nov 1980 - Sat 28 Mar 1981
-- [`1970s/1979-80/4-division4.csv`](1970s/1979-80/4-division4.csv) =>  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 05 Apr 1980 - Sat 02 Feb 1980
-- [`1970s/1978-79/4-division4.csv`](1970s/1978-79/4-division4.csv) =>  24 teams,  552 matches,  1409 goals,  46 rounds,  Sat 07 Oct 1978 - Sat 07 Oct 1978
-- [`1970s/1977-78/4-division4.csv`](1970s/1977-78/4-division4.csv) =>  24 teams,  552 matches,  1427 goals,  46 rounds,  Fri 24 Mar 1978 - Sat 15 Apr 1978
-- [`1970s/1976-77/4-division4.csv`](1970s/1976-77/4-division4.csv) =>  24 teams,  552 matches,  1423 goals,  46 rounds,  Sat 30 Oct 1976 - Sat 23 Oct 1976
-- [`1970s/1975-76/4-division4.csv`](1970s/1975-76/4-division4.csv) =>  24 teams,  552 matches,  1442 goals,  46 rounds,  Sat 04 Oct 1975 - Sat 13 Mar 1976
-- [`1970s/1974-75/4-division4.csv`](1970s/1974-75/4-division4.csv) =>  24 teams,  552 matches,  1407 goals,  46 rounds,  Sat 01 Feb 1975 - Sat 25 Jan 1975
-- [`1970s/1973-74/4-division4.csv`](1970s/1973-74/4-division4.csv) =>  24 teams,  551 matches,  1362 goals,  **WARN - unbalanced rounds - fix/double check?!** Sat 06 Oct 1973 - Sun 17 Mar 1974
-- [`1970s/1972-73/4-division4.csv`](1970s/1972-73/4-division4.csv) =>  24 teams,  552 matches,  1347 goals,  46 rounds,  Sat 28 Oct 1972 - Sat 11 Nov 1972
-- [`1970s/1971-72/4-division4.csv`](1970s/1971-72/4-division4.csv) =>  24 teams,  552 matches,  1496 goals,  46 rounds,  Sat 15 Jan 1972 - Sat 19 Feb 1972
-- [`1970s/1970-71/4-division4.csv`](1970s/1970-71/4-division4.csv) =>  24 teams,  552 matches,  1527 goals,  46 rounds,  Sat 17 Oct 1970 - Mon 31 Aug 1970
-- [`1960s/1969-70/4-division4.csv`](1960s/1969-70/4-division4.csv) =>  24 teams,  552 matches,  1464 goals,  46 rounds,  Mon 20 Apr 1970 - Fri 24 Apr 1970
-- [`1960s/1968-69/4-division4.csv`](1960s/1968-69/4-division4.csv) =>  24 teams,  552 matches,  1372 goals,  46 rounds,  Sat 12 Oct 1968 - Mon 24 Feb 1969
-- [`1960s/1967-68/4-division4.csv`](1960s/1967-68/4-division4.csv) =>  24 teams,  552 matches,  1485 goals,  46 rounds,  Sat 02 Mar 1968 - Sat 17 Feb 1968
-- [`1960s/1966-67/4-division4.csv`](1960s/1966-67/4-division4.csv) =>  24 teams,  552 matches,  1500 goals,  46 rounds,  Sat 17 Sep 1966 - Fri 07 Apr 1967
-- [`1960s/1965-66/4-division4.csv`](1960s/1965-66/4-division4.csv) =>  24 teams,  552 matches,  1723 goals,  46 rounds,  Sat 23 Apr 1966 - Wed 29 Sep 1965
-- [`1960s/1964-65/4-division4.csv`](1960s/1964-65/4-division4.csv) =>  24 teams,  552 matches,  1820 goals,  46 rounds,  Sat 30 Jan 1965 - Sat 07 Nov 1964
-- [`1960s/1963-64/4-division4.csv`](1960s/1963-64/4-division4.csv) =>  24 teams,  552 matches,  1631 goals,  46 rounds,  Sat 30 Nov 1963 - Sat 07 Sep 1963
-- [`1960s/1962-63/4-division4.csv`](1960s/1962-63/4-division4.csv) =>  24 teams,  552 matches,  1755 goals,  46 rounds,  Wed 22 Aug 1962 - Sat 08 Sep 1962
-- [`1960s/1961-62/4-division4.csv`](1960s/1961-62/4-division4.csv) =>  24 teams,  539 matches,  1769 goals,  **WARN - unbalanced rounds - fix/double check?!** Sat 23 Sep 1961 - Mon 21 Aug 1961
-- [`1960s/1960-61/4-division4.csv`](1960s/1960-61/4-division4.csv) =>  24 teams,  552 matches,  1810 goals,  46 rounds,  Sat 18 Feb 1961 - Sat 25 Feb 1961
-- [`1950s/1959-60/4-division4.csv`](1950s/1959-60/4-division4.csv) =>  24 teams,  552 matches,  1734 goals,  46 rounds,  Sat 29 Aug 1959 - Sat 30 Apr 1960
-- [`1950s/1958-59/4-division4.csv`](1950s/1958-59/4-division4.csv) =>  24 teams,  552 matches,  1794 goals,  46 rounds,  Sat 30 Aug 1958 - Fri 27 Mar 1959
+- [`1990s/1991-92/4-division4.csv`](1990s/1991-92/4-division4.csv) =>  22 teams,  462 matches,  1247 goals,  42 rounds,  Sat 17 Aug 1991 - Tue 05 May 1992
+- [`1990s/1990-91/4-division4.csv`](1990s/1990-91/4-division4.csv) =>  24 teams,  552 matches,  1415 goals,  46 rounds,  Sat 25 Aug 1990 - Sat 11 May 1991
+- [`1980s/1989-90/4-division4.csv`](1980s/1989-90/4-division4.csv) =>  24 teams,  552 matches,  1426 goals,  46 rounds,  Sat 19 Aug 1989 - Sat 05 May 1990
+- [`1980s/1988-89/4-division4.csv`](1980s/1988-89/4-division4.csv) =>  24 teams,  552 matches,  1498 goals,  46 rounds,  Sat 27 Aug 1988 - Sat 13 May 1989
+- [`1980s/1987-88/4-division4.csv`](1980s/1987-88/4-division4.csv) =>  24 teams,  552 matches,  1404 goals,  46 rounds,  Sat 15 Aug 1987 - Sat 07 May 1988
+- [`1980s/1986-87/4-division4.csv`](1980s/1986-87/4-division4.csv) =>  24 teams,  552 matches,  1456 goals,  46 rounds,  Sat 23 Aug 1986 - Sat 09 May 1987
+- [`1980s/1985-86/4-division4.csv`](1980s/1985-86/4-division4.csv) =>  24 teams,  552 matches,  1576 goals,  46 rounds,  Sat 17 Aug 1985 - Wed 07 May 1986
+- [`1980s/1984-85/4-division4.csv`](1980s/1984-85/4-division4.csv) =>  24 teams,  552 matches,  1478 goals,  46 rounds,  Sat 25 Aug 1984 - Fri 17 May 1985
+- [`1980s/1983-84/4-division4.csv`](1980s/1983-84/4-division4.csv) =>  24 teams,  552 matches,  1505 goals,  46 rounds,  Sat 27 Aug 1983 - Mon 21 May 1984
+- [`1980s/1982-83/4-division4.csv`](1980s/1982-83/4-division4.csv) =>  24 teams,  552 matches,  1502 goals,  46 rounds,  Sat 28 Aug 1982 - Tue 17 May 1983
+- [`1980s/1981-82/4-division4.csv`](1980s/1981-82/4-division4.csv) =>  24 teams,  552 matches,  1512 goals,  46 rounds,  Sat 29 Aug 1981 - Tue 18 May 1982
+- [`1980s/1980-81/4-division4.csv`](1980s/1980-81/4-division4.csv) =>  24 teams,  552 matches,  1364 goals,  46 rounds,  Sat 16 Aug 1980 - Fri 15 May 1981
+- [`1970s/1979-80/4-division4.csv`](1970s/1979-80/4-division4.csv) =>  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 18 Aug 1979 - Tue 06 May 1980
+- [`1970s/1978-79/4-division4.csv`](1970s/1978-79/4-division4.csv) =>  24 teams,  552 matches,  1409 goals,  46 rounds,  Sat 19 Aug 1978 - Sat 19 May 1979
+- [`1970s/1977-78/4-division4.csv`](1970s/1977-78/4-division4.csv) =>  24 teams,  552 matches,  1427 goals,  46 rounds,  Sat 20 Aug 1977 - Mon 01 May 1978
+- [`1970s/1976-77/4-division4.csv`](1970s/1976-77/4-division4.csv) =>  24 teams,  552 matches,  1423 goals,  46 rounds,  Sat 21 Aug 1976 - Wed 18 May 1977
+- [`1970s/1975-76/4-division4.csv`](1970s/1975-76/4-division4.csv) =>  24 teams,  552 matches,  1442 goals,  46 rounds,  Sat 16 Aug 1975 - Mon 03 May 1976
+- [`1970s/1974-75/4-division4.csv`](1970s/1974-75/4-division4.csv) =>  24 teams,  552 matches,  1407 goals,  46 rounds,  Sat 17 Aug 1974 - Mon 28 Apr 1975
+- [`1970s/1973-74/4-division4.csv`](1970s/1973-74/4-division4.csv) =>  24 teams,  551 matches,  1362 goals,  **WARN - unbalanced rounds - fix/double check?!** Sat 25 Aug 1973 - Sat 11 May 1974
+- [`1970s/1972-73/4-division4.csv`](1970s/1972-73/4-division4.csv) =>  24 teams,  552 matches,  1347 goals,  46 rounds,  Sat 12 Aug 1972 - Fri 04 May 1973
+- [`1970s/1971-72/4-division4.csv`](1970s/1971-72/4-division4.csv) =>  24 teams,  552 matches,  1496 goals,  46 rounds,  Sat 14 Aug 1971 - Thu 04 May 1972
+- [`1970s/1970-71/4-division4.csv`](1970s/1970-71/4-division4.csv) =>  24 teams,  552 matches,  1527 goals,  46 rounds,  Sat 15 Aug 1970 - Fri 07 May 1971
+- [`1960s/1969-70/4-division4.csv`](1960s/1969-70/4-division4.csv) =>  24 teams,  552 matches,  1464 goals,  46 rounds,  Sat 09 Aug 1969 - Fri 01 May 1970
+- [`1960s/1968-69/4-division4.csv`](1960s/1968-69/4-division4.csv) =>  24 teams,  552 matches,  1372 goals,  46 rounds,  Sat 10 Aug 1968 - Mon 12 May 1969
+- [`1960s/1967-68/4-division4.csv`](1960s/1967-68/4-division4.csv) =>  24 teams,  552 matches,  1485 goals,  46 rounds,  Sat 19 Aug 1967 - Sat 11 May 1968
+- [`1960s/1966-67/4-division4.csv`](1960s/1966-67/4-division4.csv) =>  24 teams,  552 matches,  1500 goals,  46 rounds,  Sat 20 Aug 1966 - Fri 26 May 1967
+- [`1960s/1965-66/4-division4.csv`](1960s/1965-66/4-division4.csv) =>  24 teams,  552 matches,  1723 goals,  46 rounds,  Sat 21 Aug 1965 - Sat 28 May 1966
+- [`1960s/1964-65/4-division4.csv`](1960s/1964-65/4-division4.csv) =>  24 teams,  552 matches,  1820 goals,  46 rounds,  Sat 22 Aug 1964 - Thu 29 Apr 1965
+- [`1960s/1963-64/4-division4.csv`](1960s/1963-64/4-division4.csv) =>  24 teams,  552 matches,  1631 goals,  46 rounds,  Sat 24 Aug 1963 - Thu 30 Apr 1964
+- [`1960s/1962-63/4-division4.csv`](1960s/1962-63/4-division4.csv) =>  24 teams,  552 matches,  1755 goals,  46 rounds,  Sat 18 Aug 1962 - Thu 23 May 1963
+- [`1960s/1961-62/4-division4.csv`](1960s/1961-62/4-division4.csv) =>  24 teams,  539 matches,  1769 goals,  **WARN - unbalanced rounds - fix/double check?!** Sat 19 Aug 1961 - Thu 03 May 1962
+- [`1960s/1960-61/4-division4.csv`](1960s/1960-61/4-division4.csv) =>  24 teams,  552 matches,  1810 goals,  46 rounds,  Sat 20 Aug 1960 - Wed 03 May 1961
+- [`1950s/1959-60/4-division4.csv`](1950s/1959-60/4-division4.csv) =>  24 teams,  552 matches,  1734 goals,  46 rounds,  Sat 22 Aug 1959 - Fri 06 May 1960
+- [`1950s/1958-59/4-division4.csv`](1950s/1958-59/4-division4.csv) =>  24 teams,  552 matches,  1794 goals,  46 rounds,  Sat 23 Aug 1958 - Thu 07 May 1959
 
 
 level 5 - 9 seasons:
@@ -571,6 +664,11 @@ level 5 - 9 seasons:
 - [`2000s/2007-08/5-conference.csv`](2000s/2007-08/5-conference.csv) =>  24 teams,  552 matches,  1562 goals,  46 rounds,  Sat 11 Aug 2007 - Sat 26 Apr 2008
 - [`2000s/2006-07/5-conference.csv`](2000s/2006-07/5-conference.csv) =>  24 teams,  552 matches,  1413 goals,  46 rounds,  Sat 12 Aug 2006 - Sat 28 Apr 2007
 - [`2000s/2005-06/5-conference.csv`](2000s/2005-06/5-conference.csv) =>  22 teams,  462 matches,  1201 goals,  42 rounds,  Sat 13 Aug 2005 - Sat 29 Apr 2006
+
+
+2017-18 - 1 levels (1)
+  - 1: [`2010s/2017-18/1-premierleague.csv`](2010s/2017-18/1-premierleague.csv) -  20 teams,  380 matches,  1018 goals,  38 rounds,  Fri 11 Aug 2017 - Sun 13 May 2018
+    - AFC Bournemouth, Arsenal FC, Brighton & Hove Albion FC, Burnley FC, Chelsea FC, Crystal Palace FC, Everton FC, Huddersfield Town AFC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Southampton FC, Stoke City FC, Swansea City AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
 
 
 2013-14 - 5 levels (1 2 3 4 5)
@@ -599,6 +697,8 @@ level 5 - 9 seasons:
       - (++) new in season 2013-14: (6) Aldershot Town FC, Barnet FC, Chester FC, FC Halifax Town, Salisbury City FC (1947-2014), Welling United FC
       - (--) out up/down: (6) AFC Telford United (2004-), Barrow AFC, Ebbsfleet United FC, Mansfield Town FC, Newport County AFC, Stockport County FC
 
+
+
 2012-13 - 5 levels (1 2 3 4 5)
   - 1: [`2010s/2012-13/1-premierleague.csv`](2010s/2012-13/1-premierleague.csv) -  20 teams,  380 matches,  1063 goals,  38 rounds,  Sat 18 Aug 2012 - Sun 19 May 2013
     - Arsenal FC, Aston Villa FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC
@@ -624,6 +724,8 @@ level 5 - 9 seasons:
     - AFC Telford United (2004-), Alfreton Town FC, Barrow AFC, Braintree Town FC, Cambridge United FC, Dartford FC, Ebbsfleet United FC, Forest Green Rovers FC, Gateshead FC, Grimsby Town FC, Hereford FC (2014-), Hyde United FC, Kidderminster Harriers FC, Lincoln City FC, Luton Town FC, Macclesfield Town FC, Mansfield Town FC, Newport County AFC, Nuneaton Borough FC, Southport FC, Stockport County FC, Tamworth FC, Woking FC, Wrexham AFC
       - (++) new in season 2012-13: (6) Dartford FC, Hereford FC (2014-), Hyde United FC, Macclesfield Town FC, Nuneaton Borough FC, Woking FC
       - (--) out up/down: (6) Bath City FC, Darlington FC, Fleetwood Town FC, Hayes & Yeading United FC, Kettering Town FC, York City FC
+
+
 
 2011-12 - 5 levels (1 2 3 4 5)
   - 1: [`2010s/2011-12/1-premierleague.csv`](2010s/2011-12/1-premierleague.csv) -  20 teams,  380 matches,  1066 goals,  38 rounds,  Sat 13 Aug 2011 - Sun 13 May 2012
@@ -651,6 +753,8 @@ level 5 - 9 seasons:
       - (++) new in season 2011-12: (6) AFC Telford United (2004-), Alfreton Town FC, Braintree Town FC, Ebbsfleet United FC, Lincoln City FC, Stockport County FC
       - (--) out up/down: (6) AFC Rushden & Diamonds, AFC Wimbledon, Altrincham FC, Crawley Town FC, Eastbourne Borough FC, Histon FC
 
+
+
 2010-11 - 5 levels (1 2 3 4 5)
   - 1: [`2010s/2010-11/1-premierleague.csv`](2010s/2010-11/1-premierleague.csv) -  20 teams,  380 matches,  1063 goals,  38 rounds,  Sat 14 Aug 2010 - Sun 22 May 2011
     - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC, Wolverhampton Wanderers FC
@@ -676,6 +780,8 @@ level 5 - 9 seasons:
     - AFC Rushden & Diamonds, AFC Wimbledon, Altrincham FC, Barrow AFC, Bath City FC, Cambridge United FC, Crawley Town FC, Darlington FC, Eastbourne Borough FC, Fleetwood Town FC, Forest Green Rovers FC, Gateshead FC, Grimsby Town FC, Hayes & Yeading United FC, Histon FC, Kettering Town FC, Kidderminster Harriers FC, Luton Town FC, Mansfield Town FC, Newport County AFC, Southport FC, Tamworth FC, Wrexham AFC, York City FC
       - (++) new in season 2010-11: (6) Bath City FC, Darlington FC, Fleetwood Town FC, Grimsby Town FC, Newport County AFC, Southport FC
       - (--) out up/down: (5) Ebbsfleet United FC, Grays Athletic FC, Oxford United FC, Salisbury City FC (1947-2014), Stevenage FC
+
+
 
 2009-10 - 5 levels (1 2 3 4 5)
   - 1: [`2000s/2009-10/1-premierleague.csv`](2000s/2009-10/1-premierleague.csv) -  20 teams,  380 matches,  1053 goals,  38 rounds,  Sat 15 Aug 2009 - Sun 9 May 2010
@@ -703,6 +809,8 @@ level 5 - 9 seasons:
       - (++) new in season 2009-10: (5) AFC Wimbledon, Gateshead FC, Hayes & Yeading United FC, Luton Town FC, Tamworth FC
       - (--) out up/down: (6) Burton Albion FC, Lewes FC, Northwich Victoria FC, Torquay United FC, Weymouth FC, Woking FC
 
+
+
 2008-09 - 5 levels (1 2 3 4 5)
   - 1: [`2000s/2008-09/1-premierleague.csv`](2000s/2008-09/1-premierleague.csv) -  20 teams,  380 matches,  942 goals,  38 rounds,  Sat 16 Aug 2008 - Sun 24 May 2009
     - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Chelsea FC, Everton FC, Fulham FC, Hull City AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC
@@ -728,6 +836,8 @@ level 5 - 9 seasons:
     - AFC Rushden & Diamonds, Altrincham FC, Barrow AFC, Burton Albion FC, Cambridge United FC, Crawley Town FC, Eastbourne Borough FC, Ebbsfleet United FC, Forest Green Rovers FC, Grays Athletic FC, Histon FC, Kettering Town FC, Kidderminster Harriers FC, Lewes FC, Mansfield Town FC, Northwich Victoria FC, Oxford United FC, Salisbury City FC (1947-2014), Stevenage FC, Torquay United FC, Weymouth FC, Woking FC, Wrexham AFC, York City FC
       - (++) new in season 2008-09: (6) Barrow AFC, Eastbourne Borough FC, Kettering Town FC, Lewes FC, Mansfield Town FC, Wrexham AFC
       - (--) out up/down: (6) Aldershot Town FC, Droylsden FC, Exeter City FC, FC Halifax Town, Farsley Celtic FC, Stafford Rangers FC
+
+
 
 2007-08 - 5 levels (1 2 3 4 5)
   - 1: [`2000s/2007-08/1-premierleague.csv`](2000s/2007-08/1-premierleague.csv) -  20 teams,  380 matches,  1002 goals,  38 rounds,  Sat 11 Aug 2007 - Sun 11 May 2008
@@ -755,6 +865,8 @@ level 5 - 9 seasons:
       - (++) new in season 2007-08: (5) Droylsden FC, Farsley Celtic FC, Histon FC, Salisbury City FC (1947-2014), Torquay United FC
       - (--) out up/down: (5) Dagenham & Redbridge FC, Morecambe FC, Southport FC, St. Albans City FC, Tamworth FC
 
+
+
 2006-07 - 5 levels (1 2 3 4 5)
   - 1: [`2000s/2006-07/1-premierleague.csv`](2000s/2006-07/1-premierleague.csv) -  20 teams,  380 matches,  931 goals,  38 rounds,  Sat 19 Aug 2006 - Sun 13 May 2007
     - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Reading FC, Sheffield United FC, Tottenham Hotspur FC, Watford FC, West Ham United FC, Wigan Athletic FC
@@ -781,6 +893,8 @@ level 5 - 9 seasons:
       - (++) new in season 2006-07: (6) AFC Rushden & Diamonds, Northwich Victoria FC, Oxford United FC, St. Albans City FC, Stafford Rangers FC, Weymouth FC
       - (--) out up/down: (4) Accrington Stanley FC, Canvey Island FC, Hereford FC (2014-), Scarborough Athletic FC
 
+
+
 2005-06 - 5 levels (1 2 3 4 5)
   - 1: [`2000s/2005-06/1-premierleague.csv`](2000s/2005-06/1-premierleague.csv) -  20 teams,  380 matches,  944 goals,  38 rounds,  Sat 13 Aug 2005 - Sun 7 May 2006
     - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Chelsea FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC
@@ -804,6 +918,1975 @@ level 5 - 9 seasons:
 
   - 5: [`2000s/2005-06/5-conference.csv`](2000s/2005-06/5-conference.csv) -  22 teams,  462 matches,  1201 goals,  42 rounds,  Sat 13 Aug 2005 - Sat 29 Apr 2006
     - Accrington Stanley FC, Aldershot Town FC, Altrincham FC, Burton Albion FC, Cambridge United FC, Canvey Island FC, Crawley Town FC, Dagenham & Redbridge FC, Ebbsfleet United FC, Exeter City FC, FC Halifax Town, Forest Green Rovers FC, Grays Athletic FC, Hereford FC (2014-), Kidderminster Harriers FC, Morecambe FC, Scarborough Athletic FC, Southport FC, Stevenage FC, Tamworth FC, Woking FC, York City FC
+
+
+2004-05 - 4 levels (1 2 3 4)
+  - 1: [`2000s/2004-05/1-premierleague.csv`](2000s/2004-05/1-premierleague.csv) -  20 teams,  380 matches,  975 goals,  38 rounds,  Sat 14 Aug 2004 - Sun 15 May 2005
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Chelsea FC, Crystal Palace FC, Everton FC, Fulham FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Norwich City FC, Portsmouth FC, Southampton FC, Tottenham Hotspur FC, West Bromwich Albion FC
+      - (++) new in season 2004-05: (3) Crystal Palace FC, Norwich City FC, West Bromwich Albion FC
+      - (--) out down: (3) Leeds United FC, Leicester City FC, Wolverhampton Wanderers FC
+
+  - 2: [`2000s/2004-05/2-championship.csv`](2000s/2004-05/2-championship.csv) -  24 teams,  552 matches,  1342 goals,  46 rounds,  Sat 7 Aug 2004 - Sun 8 May 2005
+    - Brighton & Hove Albion FC, Burnley FC, Cardiff City FC, Coventry City FC, Crewe Alexandra FC, Derby County FC, Gillingham FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Millwall FC, Nottingham Forest FC, Plymouth Argyle FC, Preston North End FC, Queens Park Rangers FC, Reading FC, Rotherham United FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Watford FC, West Ham United FC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 2004-05: (6) Brighton & Hove Albion FC, Leeds United FC, Leicester City FC, Plymouth Argyle FC, Queens Park Rangers FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (6) Bradford City AFC, Crystal Palace FC, Norwich City FC, Walsall FC, West Bromwich Albion FC, Wimbledon FC
+
+  - 3: [`2000s/2004-05/3-league1.csv`](2000s/2004-05/3-league1.csv) -  24 teams,  552 matches,  1551 goals,  46 rounds,  Sat 7 Aug 2004 - Sat 7 May 2005
+    - AFC Bournemouth, Barnsley FC, Blackpool FC, Bradford City AFC, Brentford FC, Bristol City FC, Chesterfield FC, Colchester United FC, Doncaster Rovers FC, Hartlepool United FC, Huddersfield Town AFC, Hull City AFC, Luton Town FC, Milton Keynes Dons FC, Oldham Athletic AFC, Peterborough United FC, Port Vale FC, Sheffield Wednesday FC, Stockport County FC, Swindon Town FC, Torquay United FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC
+      - (++) new in season 2004-05: (7) Bradford City AFC, Doncaster Rovers FC, Huddersfield Town AFC, Hull City AFC, Milton Keynes Dons FC, Torquay United FC, Walsall FC
+      - (--) out up/down: (7) AFC Rushden & Diamonds, Brighton & Hove Albion FC, Grimsby Town FC, Notts County FC, Plymouth Argyle FC, Queens Park Rangers FC, Wycombe Wanderers FC
+
+  - 4: [`2000s/2004-05/4-league2.csv`](2000s/2004-05/4-league2.csv) -  24 teams,  552 matches,  1347 goals,  46 rounds,  Sat 7 Aug 2004 - Sat 7 May 2005
+    - AFC Rushden & Diamonds, Boston United FC, Bristol Rovers FC, Bury FC, Cambridge United FC, Cheltenham Town FC, Chester FC, Darlington FC, Grimsby Town FC, Kidderminster Harriers FC, Leyton Orient FC, Lincoln City FC, Macclesfield Town FC, Mansfield Town FC, Northampton Town FC, Notts County FC, Oxford United FC, Rochdale AFC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Swansea City AFC, Wycombe Wanderers FC, Yeovil Town FC
+      - (++) new in season 2004-05: (6) AFC Rushden & Diamonds, Chester FC, Grimsby Town FC, Notts County FC, Shrewsbury Town FC, Wycombe Wanderers FC
+      - (--) out up/down: (6) Carlisle United FC, Doncaster Rovers FC, Huddersfield Town AFC, Hull City AFC, Torquay United FC, York City FC
+
+
+
+2003-04 - 4 levels (1 2 3 4)
+  - 1: [`2000s/2003-04/1-premierleague.csv`](2000s/2003-04/1-premierleague.csv) -  20 teams,  380 matches,  1012 goals,  38 rounds,  Sat 16 Aug 2003 - Sat 15 May 2004
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Chelsea FC, Everton FC, Fulham FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Southampton FC, Tottenham Hotspur FC, Wolverhampton Wanderers FC
+      - (++) new in season 2003-04: (3) Leicester City FC, Portsmouth FC, Wolverhampton Wanderers FC
+      - (--) out down: (3) Sunderland AFC, West Bromwich Albion FC, West Ham United FC
+
+  - 2: [`2000s/2003-04/2-division1.csv`](2000s/2003-04/2-division1.csv) -  24 teams,  552 matches,  1435 goals,  46 rounds,  Sat 9 Aug 2003 - Sun 9 May 2004
+    - Bradford City AFC, Burnley FC, Cardiff City FC, Coventry City FC, Crewe Alexandra FC, Crystal Palace FC, Derby County FC, Gillingham FC, Ipswich Town FC, Millwall FC, Norwich City FC, Nottingham Forest FC, Preston North End FC, Reading FC, Rotherham United FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Walsall FC, Watford FC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC, Wimbledon FC
+      - (++) new in season 2003-04: (6) Cardiff City FC, Crewe Alexandra FC, Sunderland AFC, West Bromwich Albion FC, West Ham United FC, Wigan Athletic FC
+      - (--) out up/down: (6) Brighton & Hove Albion FC, Grimsby Town FC, Leicester City FC, Portsmouth FC, Sheffield Wednesday FC, Wolverhampton Wanderers FC
+
+  - 3: [`2000s/2003-04/3-division2.csv`](2000s/2003-04/3-division2.csv) -  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 9 Aug 2003 - Sat 8 May 2004
+    - AFC Bournemouth, AFC Rushden & Diamonds, Barnsley FC, Blackpool FC, Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Chesterfield FC, Colchester United FC, Grimsby Town FC, Hartlepool United FC, Luton Town FC, Notts County FC, Oldham Athletic AFC, Peterborough United FC, Plymouth Argyle FC, Port Vale FC, Queens Park Rangers FC, Sheffield Wednesday FC, Stockport County FC, Swindon Town FC, Tranmere Rovers FC, Wrexham AFC, Wycombe Wanderers FC
+      - (++) new in season 2003-04: (7) AFC Bournemouth, AFC Rushden & Diamonds, Brighton & Hove Albion FC, Grimsby Town FC, Hartlepool United FC, Sheffield Wednesday FC, Wrexham AFC
+      - (--) out up/down: (7) Cardiff City FC, Cheltenham Town FC, Crewe Alexandra FC, Huddersfield Town AFC, Mansfield Town FC, Northampton Town FC, Wigan Athletic FC
+
+  - 4: [`2000s/2003-04/4-division3.csv`](2000s/2003-04/4-division3.csv) -  24 teams,  552 matches,  1398 goals,  46 rounds,  Sat 9 Aug 2003 - Sat 8 May 2004
+    - Boston United FC, Bristol Rovers FC, Bury FC, Cambridge United FC, Carlisle United FC, Cheltenham Town FC, Darlington FC, Doncaster Rovers FC, Huddersfield Town AFC, Hull City AFC, Kidderminster Harriers FC, Leyton Orient FC, Lincoln City FC, Macclesfield Town FC, Mansfield Town FC, Northampton Town FC, Oxford United FC, Rochdale AFC, Scunthorpe United FC, Southend United FC, Swansea City AFC, Torquay United FC, Yeovil Town FC, York City FC
+      - (++) new in season 2003-04: (6) Cheltenham Town FC, Doncaster Rovers FC, Huddersfield Town AFC, Mansfield Town FC, Northampton Town FC, Yeovil Town FC
+      - (--) out up/down: (6) AFC Bournemouth, AFC Rushden & Diamonds, Exeter City FC, Hartlepool United FC, Shrewsbury Town FC, Wrexham AFC
+
+
+
+2002-03 - 4 levels (1 2 3 4)
+  - 1: [`2000s/2002-03/1-premierleague.csv`](2000s/2002-03/1-premierleague.csv) -  20 teams,  380 matches,  1000 goals,  38 rounds,  Sat 17 Aug 2002 - Sun 11 May 2003
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Chelsea FC, Everton FC, Fulham FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Southampton FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 2002-03: (3) Birmingham City FC, Manchester City FC, West Bromwich Albion FC
+      - (--) out down: (3) Derby County FC, Ipswich Town FC, Leicester City FC
+
+  - 2: [`2000s/2002-03/2-division1.csv`](2000s/2002-03/2-division1.csv) -  24 teams,  552 matches,  1512 goals,  46 rounds,  Sat 10 Aug 2002 - Sun 4 May 2003
+    - Bradford City AFC, Brighton & Hove Albion FC, Burnley FC, Coventry City FC, Crystal Palace FC, Derby County FC, Gillingham FC, Grimsby Town FC, Ipswich Town FC, Leicester City FC, Millwall FC, Norwich City FC, Nottingham Forest FC, Portsmouth FC, Preston North End FC, Reading FC, Rotherham United FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Walsall FC, Watford FC, Wimbledon FC, Wolverhampton Wanderers FC
+      - (++) new in season 2002-03: (6) Brighton & Hove Albion FC, Derby County FC, Ipswich Town FC, Leicester City FC, Reading FC, Stoke City FC
+      - (--) out up/down: (6) Barnsley FC, Birmingham City FC, Crewe Alexandra FC, Manchester City FC, Stockport County FC, West Bromwich Albion FC
+
+  - 3: [`2000s/2002-03/3-division2.csv`](2000s/2002-03/3-division2.csv) -  24 teams,  552 matches,  1421 goals,  46 rounds,  Sat 10 Aug 2002 - Sat 3 May 2003
+    - Barnsley FC, Blackpool FC, Brentford FC, Bristol City FC, Cardiff City FC, Cheltenham Town FC, Chesterfield FC, Colchester United FC, Crewe Alexandra FC, Huddersfield Town AFC, Luton Town FC, Mansfield Town FC, Northampton Town FC, Notts County FC, Oldham Athletic AFC, Peterborough United FC, Plymouth Argyle FC, Port Vale FC, Queens Park Rangers FC, Stockport County FC, Swindon Town FC, Tranmere Rovers FC, Wigan Athletic FC, Wycombe Wanderers FC
+      - (++) new in season 2002-03: (7) Barnsley FC, Cheltenham Town FC, Crewe Alexandra FC, Luton Town FC, Mansfield Town FC, Plymouth Argyle FC, Stockport County FC
+      - (--) out up/down: (7) AFC Bournemouth, Brighton & Hove Albion FC, Bury FC, Cambridge United FC, Reading FC, Stoke City FC, Wrexham AFC
+
+  - 4: [`2000s/2002-03/4-division3.csv`](2000s/2002-03/4-division3.csv) -  24 teams,  552 matches,  1419 goals,  46 rounds,  Sat 10 Aug 2002 - Sat 3 May 2003
+    - AFC Bournemouth, AFC Rushden & Diamonds, Boston United FC, Bristol Rovers FC, Bury FC, Cambridge United FC, Carlisle United FC, Darlington FC, Exeter City FC, Hartlepool United FC, Hull City AFC, Kidderminster Harriers FC, Leyton Orient FC, Lincoln City FC, Macclesfield Town FC, Oxford United FC, Rochdale AFC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Swansea City AFC, Torquay United FC, Wrexham AFC, York City FC
+      - (++) new in season 2002-03: (5) AFC Bournemouth, Boston United FC, Bury FC, Cambridge United FC, Wrexham AFC
+      - (--) out up/down: (5) Cheltenham Town FC, FC Halifax Town, Luton Town FC, Mansfield Town FC, Plymouth Argyle FC
+
+
+
+2001-02 - 4 levels (1 2 3 4)
+  - 1: [`2000s/2001-02/1-premierleague.csv`](2000s/2001-02/1-premierleague.csv) -  20 teams,  380 matches,  1001 goals,  38 rounds,  Sat 18 Aug 2001 - Sat 11 May 2002
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Fulham FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Southampton FC, Sunderland AFC, Tottenham Hotspur FC, West Ham United FC
+      - (++) new in season 2001-02: (3) Blackburn Rovers FC, Bolton Wanderers FC, Fulham FC
+      - (--) out down: (3) Bradford City AFC, Coventry City FC, Manchester City FC
+
+  - 2: [`2000s/2001-02/2-division1.csv`](2000s/2001-02/2-division1.csv) -  24 teams,  552 matches,  1485 goals,  46 rounds,  Sat 11 Aug 2001 - Sun 21 Apr 2002
+    - Barnsley FC, Birmingham City FC, Bradford City AFC, Burnley FC, Coventry City FC, Crewe Alexandra FC, Crystal Palace FC, Gillingham FC, Grimsby Town FC, Manchester City FC, Millwall FC, Norwich City FC, Nottingham Forest FC, Portsmouth FC, Preston North End FC, Rotherham United FC, Sheffield United FC, Sheffield Wednesday FC, Stockport County FC, Walsall FC, Watford FC, West Bromwich Albion FC, Wimbledon FC, Wolverhampton Wanderers FC
+      - (++) new in season 2001-02: (6) Bradford City AFC, Coventry City FC, Manchester City FC, Millwall FC, Rotherham United FC, Walsall FC
+      - (--) out up/down: (6) Blackburn Rovers FC, Bolton Wanderers FC, Fulham FC, Huddersfield Town AFC, Queens Park Rangers FC, Tranmere Rovers FC
+
+  - 3: [`2000s/2001-02/3-division2.csv`](2000s/2001-02/3-division2.csv) -  24 teams,  552 matches,  1472 goals,  46 rounds,  Sat 11 Aug 2001 - Sat 20 Apr 2002
+    - AFC Bournemouth, Blackpool FC, Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Bury FC, Cambridge United FC, Cardiff City FC, Chesterfield FC, Colchester United FC, Huddersfield Town AFC, Northampton Town FC, Notts County FC, Oldham Athletic AFC, Peterborough United FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Stoke City FC, Swindon Town FC, Tranmere Rovers FC, Wigan Athletic FC, Wrexham AFC, Wycombe Wanderers FC
+      - (++) new in season 2001-02: (7) Blackpool FC, Brighton & Hove Albion FC, Cardiff City FC, Chesterfield FC, Huddersfield Town AFC, Queens Park Rangers FC, Tranmere Rovers FC
+      - (--) out up/down: (7) Bristol Rovers FC, Luton Town FC, Millwall FC, Oxford United FC, Rotherham United FC, Swansea City AFC, Walsall FC
+
+  - 4: [`2000s/2001-02/4-division3.csv`](2000s/2001-02/4-division3.csv) -  24 teams,  552 matches,  1397 goals,  46 rounds,  Sat 11 Aug 2001 - Sat 20 Apr 2002
+    - AFC Rushden & Diamonds, Bristol Rovers FC, Carlisle United FC, Cheltenham Town FC, Darlington FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Hull City AFC, Kidderminster Harriers FC, Leyton Orient FC, Lincoln City FC, Luton Town FC, Macclesfield Town FC, Mansfield Town FC, Oxford United FC, Plymouth Argyle FC, Rochdale AFC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Swansea City AFC, Torquay United FC, York City FC
+      - (++) new in season 2001-02: (5) AFC Rushden & Diamonds, Bristol Rovers FC, Luton Town FC, Oxford United FC, Swansea City AFC
+      - (--) out up/down: (5) Barnet FC, Blackpool FC, Brighton & Hove Albion FC, Cardiff City FC, Chesterfield FC
+
+
+
+2000-01 - 4 levels (1 2 3 4)
+  - 1: [`2000s/2000-01/1-premierleague.csv`](2000s/2000-01/1-premierleague.csv) -  20 teams,  380 matches,  992 goals,  38 rounds,  Sat 19 Aug 2000 - Sat 19 May 2001
+    - Arsenal FC, Aston Villa FC, Bradford City AFC, Charlton Athletic FC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Southampton FC, Sunderland AFC, Tottenham Hotspur FC, West Ham United FC
+      - (++) new in season 2000-01: (3) Charlton Athletic FC, Ipswich Town FC, Manchester City FC
+      - (--) out down: (3) Sheffield Wednesday FC, Watford FC, Wimbledon FC
+
+  - 2: [`2000s/2000-01/2-division1.csv`](2000s/2000-01/2-division1.csv) -  24 teams,  552 matches,  1373 goals,  46 rounds,  Sat 12 Aug 2000 - Sun 6 May 2001
+    - Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Crewe Alexandra FC, Crystal Palace FC, Fulham FC, Gillingham FC, Grimsby Town FC, Huddersfield Town AFC, Norwich City FC, Nottingham Forest FC, Portsmouth FC, Preston North End FC, Queens Park Rangers FC, Sheffield United FC, Sheffield Wednesday FC, Stockport County FC, Tranmere Rovers FC, Watford FC, West Bromwich Albion FC, Wimbledon FC, Wolverhampton Wanderers FC
+      - (++) new in season 2000-01: (6) Burnley FC, Gillingham FC, Preston North End FC, Sheffield Wednesday FC, Watford FC, Wimbledon FC
+      - (--) out up/down: (6) Charlton Athletic FC, Ipswich Town FC, Manchester City FC, Port Vale FC, Swindon Town FC, Walsall FC
+
+  - 3: [`2000s/2000-01/3-division2.csv`](2000s/2000-01/3-division2.csv) -  24 teams,  552 matches,  1466 goals,  46 rounds,  Sat 12 Aug 2000 - Sat 5 May 2001
+    - AFC Bournemouth, Brentford FC, Bristol City FC, Bristol Rovers FC, Bury FC, Cambridge United FC, Colchester United FC, Luton Town FC, Millwall FC, Northampton Town FC, Notts County FC, Oldham Athletic AFC, Oxford United FC, Peterborough United FC, Port Vale FC, Reading FC, Rotherham United FC, Stoke City FC, Swansea City AFC, Swindon Town FC, Walsall FC, Wigan Athletic FC, Wrexham AFC, Wycombe Wanderers FC
+      - (++) new in season 2000-01: (7) Northampton Town FC, Peterborough United FC, Port Vale FC, Rotherham United FC, Swansea City AFC, Swindon Town FC, Walsall FC
+      - (--) out up/down: (7) Blackpool FC, Burnley FC, Cardiff City FC, Chesterfield FC, Gillingham FC, Preston North End FC, Scunthorpe United FC
+
+  - 4: [`2000s/2000-01/4-division3.csv`](2000s/2000-01/4-division3.csv) -  24 teams,  552 matches,  1397 goals,  46 rounds,  Sat 12 Aug 2000 - Tue 8 May 2001
+    - Barnet FC, Blackpool FC, Brighton & Hove Albion FC, Cardiff City FC, Carlisle United FC, Cheltenham Town FC, Chesterfield FC, Darlington FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Hull City AFC, Kidderminster Harriers FC, Leyton Orient FC, Lincoln City FC, Macclesfield Town FC, Mansfield Town FC, Plymouth Argyle FC, Rochdale AFC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Torquay United FC, York City FC
+      - (++) new in season 2000-01: (5) Blackpool FC, Cardiff City FC, Chesterfield FC, Kidderminster Harriers FC, Scunthorpe United FC
+      - (--) out up/down: (5) Chester FC, Northampton Town FC, Peterborough United FC, Rotherham United FC, Swansea City AFC
+
+
+
+1999-00 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1999-00/1-premierleague.csv`](1990s/1999-00/1-premierleague.csv) -  20 teams,  380 matches,  1060 goals,  38 rounds,  Sat 7 Aug 1999 - Sun 14 May 2000
+    - Arsenal FC, Aston Villa FC, Bradford City AFC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Sheffield Wednesday FC, Southampton FC, Sunderland AFC, Tottenham Hotspur FC, Watford FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1999-00: (3) Bradford City AFC, Sunderland AFC, Watford FC
+      - (--) out down: (3) Blackburn Rovers FC, Charlton Athletic FC, Nottingham Forest FC
+
+  - 2: [`1990s/1999-00/2-division1.csv`](1990s/1999-00/2-division1.csv) -  24 teams,  552 matches,  1391 goals,  46 rounds,  Sat 7 Aug 1999 - Sun 7 May 2000
+    - Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Charlton Athletic FC, Crewe Alexandra FC, Crystal Palace FC, Fulham FC, Grimsby Town FC, Huddersfield Town AFC, Ipswich Town FC, Manchester City FC, Norwich City FC, Nottingham Forest FC, Port Vale FC, Portsmouth FC, Queens Park Rangers FC, Sheffield United FC, Stockport County FC, Swindon Town FC, Tranmere Rovers FC, Walsall FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1999-00: (6) Blackburn Rovers FC, Charlton Athletic FC, Fulham FC, Manchester City FC, Nottingham Forest FC, Walsall FC
+      - (--) out up/down: (6) Bradford City AFC, Bristol City FC, Bury FC, Oxford United FC, Sunderland AFC, Watford FC
+
+  - 3: [`1990s/1999-00/3-division2.csv`](1990s/1999-00/3-division2.csv) -  24 teams,  552 matches,  1404 goals,  46 rounds,  Sat 7 Aug 1999 - Sat 6 May 2000
+    - AFC Bournemouth, Blackpool FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Burnley FC, Bury FC, Cambridge United FC, Cardiff City FC, Chesterfield FC, Colchester United FC, Gillingham FC, Luton Town FC, Millwall FC, Notts County FC, Oldham Athletic AFC, Oxford United FC, Preston North End FC, Reading FC, Scunthorpe United FC, Stoke City FC, Wigan Athletic FC, Wrexham AFC, Wycombe Wanderers FC
+      - (++) new in season 1999-00: (7) Brentford FC, Bristol City FC, Bury FC, Cambridge United FC, Cardiff City FC, Oxford United FC, Scunthorpe United FC
+      - (--) out up/down: (7) Fulham FC, Lincoln City FC, Macclesfield Town FC, Manchester City FC, Northampton Town FC, Walsall FC, York City FC
+
+  - 4: [`1990s/1999-00/4-division3.csv`](1990s/1999-00/4-division3.csv) -  24 teams,  552 matches,  1301 goals,  46 rounds,  Sat 7 Aug 1999 - Sat 6 May 2000
+    - Barnet FC, Brighton & Hove Albion FC, Carlisle United FC, Cheltenham Town FC, Chester FC, Darlington FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Hull City AFC, Leyton Orient FC, Lincoln City FC, Macclesfield Town FC, Mansfield Town FC, Northampton Town FC, Peterborough United FC, Plymouth Argyle FC, Rochdale AFC, Rotherham United FC, Shrewsbury Town FC, Southend United FC, Swansea City AFC, Torquay United FC, York City FC
+      - (++) new in season 1999-00: (5) Cheltenham Town FC, Lincoln City FC, Macclesfield Town FC, Northampton Town FC, York City FC
+      - (--) out up/down: (5) Brentford FC, Cambridge United FC, Cardiff City FC, Scarborough Athletic FC, Scunthorpe United FC
+
+
+
+1998-99 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1998-99/1-premierleague.csv`](1990s/1998-99/1-premierleague.csv) -  20 teams,  380 matches,  959 goals,  38 rounds,  Sat 15 Aug 1998 - Sun 16 May 1999
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Charlton Athletic FC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1998-99: (3) Charlton Athletic FC, Middlesbrough FC, Nottingham Forest FC
+      - (--) out down: (3) Barnsley FC, Bolton Wanderers FC, Crystal Palace FC
+
+  - 2: [`1990s/1998-99/2-division1.csv`](1990s/1998-99/2-division1.csv) -  24 teams,  552 matches,  1455 goals,  46 rounds,  Sat 8 Aug 1998 - Sun 9 May 1999
+    - Barnsley FC, Birmingham City FC, Bolton Wanderers FC, Bradford City AFC, Bristol City FC, Bury FC, Crewe Alexandra FC, Crystal Palace FC, Grimsby Town FC, Huddersfield Town AFC, Ipswich Town FC, Norwich City FC, Oxford United FC, Port Vale FC, Portsmouth FC, Queens Park Rangers FC, Sheffield United FC, Stockport County FC, Sunderland AFC, Swindon Town FC, Tranmere Rovers FC, Watford FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1998-99: (6) Barnsley FC, Bolton Wanderers FC, Bristol City FC, Crystal Palace FC, Grimsby Town FC, Watford FC
+      - (--) out up/down: (6) Charlton Athletic FC, Manchester City FC, Middlesbrough FC, Nottingham Forest FC, Reading FC, Stoke City FC
+
+  - 3: [`1990s/1998-99/3-division2.csv`](1990s/1998-99/3-division2.csv) -  24 teams,  552 matches,  1358 goals,  46 rounds,  Sat 8 Aug 1998 - Sat 8 May 1999
+    - AFC Bournemouth, Blackpool FC, Bristol Rovers FC, Burnley FC, Chesterfield FC, Colchester United FC, Fulham FC, Gillingham FC, Lincoln City FC, Luton Town FC, Macclesfield Town FC, Manchester City FC, Millwall FC, Northampton Town FC, Notts County FC, Oldham Athletic AFC, Preston North End FC, Reading FC, Stoke City FC, Walsall FC, Wigan Athletic FC, Wrexham AFC, Wycombe Wanderers FC, York City FC
+      - (++) new in season 1998-99: (7) Colchester United FC, Lincoln City FC, Macclesfield Town FC, Manchester City FC, Notts County FC, Reading FC, Stoke City FC
+      - (--) out up/down: (7) Brentford FC, Bristol City FC, Carlisle United FC, Grimsby Town FC, Plymouth Argyle FC, Southend United FC, Watford FC
+
+  - 4: [`1990s/1998-99/4-division3.csv`](1990s/1998-99/4-division3.csv) -  24 teams,  552 matches,  1395 goals,  46 rounds,  Sat 8 Aug 1998 - Sat 8 May 1999
+    - Barnet FC, Brentford FC, Brighton & Hove Albion FC, Cambridge United FC, Cardiff City FC, Carlisle United FC, Chester FC, Darlington FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Hull City AFC, Leyton Orient FC, Mansfield Town FC, Peterborough United FC, Plymouth Argyle FC, Rochdale AFC, Rotherham United FC, Scarborough Athletic FC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Swansea City AFC, Torquay United FC
+      - (++) new in season 1998-99: (5) Brentford FC, Carlisle United FC, FC Halifax Town, Plymouth Argyle FC, Southend United FC
+      - (--) out up/down: (5) Colchester United FC, Doncaster Rovers FC, Lincoln City FC, Macclesfield Town FC, Notts County FC
+
+
+
+1997-98 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1997-98/1-premierleague.csv`](1990s/1997-98/1-premierleague.csv) -  20 teams,  380 matches,  1019 goals,  38 rounds,  Sat 9 Aug 1997 - Sun 10 May 1998
+    - Arsenal FC, Aston Villa FC, Barnsley FC, Blackburn Rovers FC, Bolton Wanderers FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Derby County FC, Everton FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Newcastle United FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1997-98: (3) Barnsley FC, Bolton Wanderers FC, Crystal Palace FC
+      - (--) out down: (3) Middlesbrough FC, Nottingham Forest FC, Sunderland AFC
+
+  - 2: [`1990s/1997-98/2-division1.csv`](1990s/1997-98/2-division1.csv) -  24 teams,  552 matches,  1410 goals,  46 rounds,  Sat 9 Aug 1997 - Sun 3 May 1998
+    - Birmingham City FC, Bradford City AFC, Bury FC, Charlton Athletic FC, Crewe Alexandra FC, Huddersfield Town AFC, Ipswich Town FC, Manchester City FC, Middlesbrough FC, Norwich City FC, Nottingham Forest FC, Oxford United FC, Port Vale FC, Portsmouth FC, Queens Park Rangers FC, Reading FC, Sheffield United FC, Stockport County FC, Stoke City FC, Sunderland AFC, Swindon Town FC, Tranmere Rovers FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1997-98: (6) Bury FC, Crewe Alexandra FC, Middlesbrough FC, Nottingham Forest FC, Stockport County FC, Sunderland AFC
+      - (--) out up/down: (6) Barnsley FC, Bolton Wanderers FC, Crystal Palace FC, Grimsby Town FC, Oldham Athletic AFC, Southend United FC
+
+  - 3: [`1990s/1997-98/3-division2.csv`](1990s/1997-98/3-division2.csv) -  24 teams,  552 matches,  1337 goals,  46 rounds,  Sat 9 Aug 1997 - Sat 2 May 1998
+    - AFC Bournemouth, Blackpool FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Burnley FC, Carlisle United FC, Chesterfield FC, Fulham FC, Gillingham FC, Grimsby Town FC, Luton Town FC, Millwall FC, Northampton Town FC, Oldham Athletic AFC, Plymouth Argyle FC, Preston North End FC, Southend United FC, Walsall FC, Watford FC, Wigan Athletic FC, Wrexham AFC, Wycombe Wanderers FC, York City FC
+      - (++) new in season 1997-98: (7) Carlisle United FC, Fulham FC, Grimsby Town FC, Northampton Town FC, Oldham Athletic AFC, Southend United FC, Wigan Athletic FC
+      - (--) out up/down: (7) Bury FC, Crewe Alexandra FC, Notts County FC, Peterborough United FC, Rotherham United FC, Shrewsbury Town FC, Stockport County FC
+
+  - 4: [`1990s/1997-98/4-division3.csv`](1990s/1997-98/4-division3.csv) -  24 teams,  552 matches,  1431 goals,  46 rounds,  Sat 9 Aug 1997 - Sat 2 May 1998
+    - Barnet FC, Brighton & Hove Albion FC, Cambridge United FC, Cardiff City FC, Chester FC, Colchester United FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Hartlepool United FC, Hull City AFC, Leyton Orient FC, Lincoln City FC, Macclesfield Town FC, Mansfield Town FC, Notts County FC, Peterborough United FC, Rochdale AFC, Rotherham United FC, Scarborough Athletic FC, Scunthorpe United FC, Shrewsbury Town FC, Swansea City AFC, Torquay United FC
+      - (++) new in season 1997-98: (5) Macclesfield Town FC, Notts County FC, Peterborough United FC, Rotherham United FC, Shrewsbury Town FC
+      - (--) out up/down: (5) Carlisle United FC, Fulham FC, Hereford FC (2014-), Northampton Town FC, Wigan Athletic FC
+
+
+
+1996-97 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1996-97/1-premierleague.csv`](1990s/1996-97/1-premierleague.csv) -  20 teams,  380 matches,  970 goals,  38 rounds,  Sat 17 Aug 1996 - Sun 11 May 1997
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Sheffield Wednesday FC, Southampton FC, Sunderland AFC, Tottenham Hotspur FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1996-97: (3) Derby County FC, Leicester City FC, Sunderland AFC
+      - (--) out down: (3) Bolton Wanderers FC, Manchester City FC, Queens Park Rangers FC
+
+  - 2: [`1990s/1996-97/2-division1.csv`](1990s/1996-97/2-division1.csv) -  24 teams,  552 matches,  1474 goals,  46 rounds,  Fri 16 Aug 1996 - Sun 4 May 1997
+    - Barnsley FC, Birmingham City FC, Bolton Wanderers FC, Bradford City AFC, Charlton Athletic FC, Crystal Palace FC, Grimsby Town FC, Huddersfield Town AFC, Ipswich Town FC, Manchester City FC, Norwich City FC, Oldham Athletic AFC, Oxford United FC, Port Vale FC, Portsmouth FC, Queens Park Rangers FC, Reading FC, Sheffield United FC, Southend United FC, Stoke City FC, Swindon Town FC, Tranmere Rovers FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1996-97: (6) Bolton Wanderers FC, Bradford City AFC, Manchester City FC, Oxford United FC, Queens Park Rangers FC, Swindon Town FC
+      - (--) out up/down: (6) Derby County FC, Leicester City FC, Luton Town FC, Millwall FC, Sunderland AFC, Watford FC
+
+  - 3: [`1990s/1996-97/3-division2.csv`](1990s/1996-97/3-division2.csv) -  24 teams,  552 matches,  1270 goals,  46 rounds,  Sat 17 Aug 1996 - Sat 3 May 1997
+    - AFC Bournemouth, Blackpool FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Burnley FC, Bury FC, Chesterfield FC, Crewe Alexandra FC, Gillingham FC, Luton Town FC, Millwall FC, Notts County FC, Peterborough United FC, Plymouth Argyle FC, Preston North End FC, Rotherham United FC, Shrewsbury Town FC, Stockport County FC, Walsall FC, Watford FC, Wrexham AFC, Wycombe Wanderers FC, York City FC
+      - (++) new in season 1996-97: (7) Bury FC, Gillingham FC, Luton Town FC, Millwall FC, Plymouth Argyle FC, Preston North End FC, Watford FC
+      - (--) out up/down: (7) Bradford City AFC, Brighton & Hove Albion FC, Carlisle United FC, Hull City AFC, Oxford United FC, Swansea City AFC, Swindon Town FC
+
+  - 4: [`1990s/1996-97/4-division3.csv`](1990s/1996-97/4-division3.csv) -  24 teams,  552 matches,  1385 goals,  46 rounds,  Sat 17 Aug 1996 - Sat 3 May 1997
+    - Barnet FC, Brighton & Hove Albion FC, Cambridge United FC, Cardiff City FC, Carlisle United FC, Chester FC, Colchester United FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Fulham FC, Hartlepool United FC, Hereford FC (2014-), Hull City AFC, Leyton Orient FC, Lincoln City FC, Mansfield Town FC, Northampton Town FC, Rochdale AFC, Scarborough Athletic FC, Scunthorpe United FC, Swansea City AFC, Torquay United FC, Wigan Athletic FC
+      - (++) new in season 1996-97: (4) Brighton & Hove Albion FC, Carlisle United FC, Hull City AFC, Swansea City AFC
+      - (--) out up/down: (4) Bury FC, Gillingham FC, Plymouth Argyle FC, Preston North End FC
+
+
+
+1995-96 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1995-96/1-premierleague.csv`](1990s/1995-96/1-premierleague.csv) -  20 teams,  380 matches,  988 goals,  38 rounds,  Sat 19 Aug 1995 - Sat 4 May 1996
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Chelsea FC, Coventry City FC, Everton FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1995-96: (2) Bolton Wanderers FC, Middlesbrough FC
+      - (--) out down: (4) Crystal Palace FC, Ipswich Town FC, Leicester City FC, Norwich City FC
+
+  - 2: [`1990s/1995-96/2-division1.csv`](1990s/1995-96/2-division1.csv) -  24 teams,  552 matches,  1416 goals,  46 rounds,  Sat 12 Aug 1995 - Sun 5 May 1996
+    - Barnsley FC, Birmingham City FC, Charlton Athletic FC, Crystal Palace FC, Derby County FC, Grimsby Town FC, Huddersfield Town AFC, Ipswich Town FC, Leicester City FC, Luton Town FC, Millwall FC, Norwich City FC, Oldham Athletic AFC, Port Vale FC, Portsmouth FC, Reading FC, Sheffield United FC, Southend United FC, Stoke City FC, Sunderland AFC, Tranmere Rovers FC, Watford FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1995-96: (6) Birmingham City FC, Crystal Palace FC, Huddersfield Town AFC, Ipswich Town FC, Leicester City FC, Norwich City FC
+      - (--) out up/down: (6) Bolton Wanderers FC, Bristol City FC, Burnley FC, Middlesbrough FC, Notts County FC, Swindon Town FC
+
+  - 3: [`1990s/1995-96/3-division2.csv`](1990s/1995-96/3-division2.csv) -  24 teams,  552 matches,  1414 goals,  46 rounds,  Sat 12 Aug 1995 - Thu 9 May 1996
+    - AFC Bournemouth, Blackpool FC, Bradford City AFC, Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Burnley FC, Carlisle United FC, Chesterfield FC, Crewe Alexandra FC, Hull City AFC, Notts County FC, Oxford United FC, Peterborough United FC, Rotherham United FC, Shrewsbury Town FC, Stockport County FC, Swansea City AFC, Swindon Town FC, Walsall FC, Wrexham AFC, Wycombe Wanderers FC, York City FC
+      - (++) new in season 1995-96: (7) Bristol City FC, Burnley FC, Carlisle United FC, Chesterfield FC, Notts County FC, Swindon Town FC, Walsall FC
+      - (--) out up/down: (7) Birmingham City FC, Cambridge United FC, Cardiff City FC, Chester FC, Huddersfield Town AFC, Leyton Orient FC, Plymouth Argyle FC
+
+  - 4: [`1990s/1995-96/4-division3.csv`](1990s/1995-96/4-division3.csv) -  24 teams,  552 matches,  1342 goals,  46 rounds,  Sat 12 Aug 1995 - Sat 4 May 1996
+    - Barnet FC, Bury FC, Cambridge United FC, Cardiff City FC, Chester FC, Colchester United FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Fulham FC, Gillingham FC, Hartlepool United FC, Hereford FC (2014-), Leyton Orient FC, Lincoln City FC, Mansfield Town FC, Northampton Town FC, Plymouth Argyle FC, Preston North End FC, Rochdale AFC, Scarborough Athletic FC, Scunthorpe United FC, Torquay United FC, Wigan Athletic FC
+      - (++) new in season 1995-96: (5) Cambridge United FC, Cardiff City FC, Chester FC, Leyton Orient FC, Plymouth Argyle FC
+      - (--) out up/down: (3) Carlisle United FC, Chesterfield FC, Walsall FC
+
+
+
+1994-95 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1994-95/1-premierleague.csv`](1990s/1994-95/1-premierleague.csv) -  22 teams,  462 matches,  1195 goals,  42 rounds,  Sat 20 Aug 1994 - Sun 14 May 1995
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1994-95: (3) Crystal Palace FC, Leicester City FC, Nottingham Forest FC
+      - (--) out down: (3) Oldham Athletic AFC, Sheffield United FC, Swindon Town FC
+
+  - 2: [`1990s/1994-95/2-division1.csv`](1990s/1994-95/2-division1.csv) -  24 teams,  552 matches,  1389 goals,  46 rounds,  Sat 13 Aug 1994 - Sun 7 May 1995
+    - Barnsley FC, Bolton Wanderers FC, Bristol City FC, Burnley FC, Charlton Athletic FC, Derby County FC, Grimsby Town FC, Luton Town FC, Middlesbrough FC, Millwall FC, Notts County FC, Oldham Athletic AFC, Port Vale FC, Portsmouth FC, Reading FC, Sheffield United FC, Southend United FC, Stoke City FC, Sunderland AFC, Swindon Town FC, Tranmere Rovers FC, Watford FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1994-95: (6) Burnley FC, Oldham Athletic AFC, Port Vale FC, Reading FC, Sheffield United FC, Swindon Town FC
+      - (--) out up/down: (6) Birmingham City FC, Crystal Palace FC, Leicester City FC, Nottingham Forest FC, Oxford United FC, Peterborough United FC
+
+  - 3: [`1990s/1994-95/3-division2.csv`](1990s/1994-95/3-division2.csv) -  24 teams,  552 matches,  1440 goals,  46 rounds,  Sat 13 Aug 1994 - Sat 6 May 1995
+    - AFC Bournemouth, Birmingham City FC, Blackpool FC, Bradford City AFC, Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Cambridge United FC, Cardiff City FC, Chester FC, Crewe Alexandra FC, Huddersfield Town AFC, Hull City AFC, Leyton Orient FC, Oxford United FC, Peterborough United FC, Plymouth Argyle FC, Rotherham United FC, Shrewsbury Town FC, Stockport County FC, Swansea City AFC, Wrexham AFC, Wycombe Wanderers FC, York City FC
+      - (++) new in season 1994-95: (7) Birmingham City FC, Chester FC, Crewe Alexandra FC, Oxford United FC, Peterborough United FC, Shrewsbury Town FC, Wycombe Wanderers FC
+      - (--) out up/down: (7) Barnet FC, Burnley FC, Exeter City FC, Fulham FC, Hartlepool United FC, Port Vale FC, Reading FC
+
+  - 4: [`1990s/1994-95/4-division3.csv`](1990s/1994-95/4-division3.csv) -  22 teams,  462 matches,  1232 goals,  42 rounds,  Sat 13 Aug 1994 - Sat 6 May 1995
+    - Barnet FC, Bury FC, Carlisle United FC, Chesterfield FC, Colchester United FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Fulham FC, Gillingham FC, Hartlepool United FC, Hereford FC (2014-), Lincoln City FC, Mansfield Town FC, Northampton Town FC, Preston North End FC, Rochdale AFC, Scarborough Athletic FC, Scunthorpe United FC, Torquay United FC, Walsall FC, Wigan Athletic FC
+      - (++) new in season 1994-95: (4) Barnet FC, Exeter City FC, Fulham FC, Hartlepool United FC
+      - (--) out up/down: (4) Chester FC, Crewe Alexandra FC, Shrewsbury Town FC, Wycombe Wanderers FC
+
+
+
+1993-94 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1993-94/1-premierleague.csv`](1990s/1993-94/1-premierleague.csv) -  22 teams,  462 matches,  1195 goals,  42 rounds,  Sat 14 Aug 1993 - Sun 8 May 1994
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Chelsea FC, Coventry City FC, Everton FC, Ipswich Town FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Oldham Athletic AFC, Queens Park Rangers FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Swindon Town FC, Tottenham Hotspur FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1993-94: (3) Newcastle United FC, Swindon Town FC, West Ham United FC
+      - (--) out down: (3) Crystal Palace FC, Middlesbrough FC, Nottingham Forest FC
+
+  - 2: [`1990s/1993-94/2-division1.csv`](1990s/1993-94/2-division1.csv) -  24 teams,  552 matches,  1450 goals,  46 rounds,  Sat 14 Aug 1993 - Sun 8 May 1994
+    - Barnsley FC, Birmingham City FC, Bolton Wanderers FC, Bristol City FC, Charlton Athletic FC, Crystal Palace FC, Derby County FC, Grimsby Town FC, Leicester City FC, Luton Town FC, Middlesbrough FC, Millwall FC, Nottingham Forest FC, Notts County FC, Oxford United FC, Peterborough United FC, Portsmouth FC, Southend United FC, Stoke City FC, Sunderland AFC, Tranmere Rovers FC, Watford FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1993-94: (6) Bolton Wanderers FC, Crystal Palace FC, Middlesbrough FC, Nottingham Forest FC, Stoke City FC, West Bromwich Albion FC
+      - (--) out up/down: (6) Brentford FC, Bristol Rovers FC, Cambridge United FC, Newcastle United FC, Swindon Town FC, West Ham United FC
+
+  - 3: [`1990s/1993-94/3-division2.csv`](1990s/1993-94/3-division2.csv) -  24 teams,  552 matches,  1508 goals,  46 rounds,  Sat 14 Aug 1993 - Sat 7 May 1994
+    - AFC Bournemouth, Barnet FC, Blackpool FC, Bradford City AFC, Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Burnley FC, Cambridge United FC, Cardiff City FC, Exeter City FC, Fulham FC, Hartlepool United FC, Huddersfield Town AFC, Hull City AFC, Leyton Orient FC, Plymouth Argyle FC, Port Vale FC, Reading FC, Rotherham United FC, Stockport County FC, Swansea City AFC, Wrexham AFC, York City FC
+      - (++) new in season 1993-94: (7) Barnet FC, Brentford FC, Bristol Rovers FC, Cambridge United FC, Cardiff City FC, Wrexham AFC, York City FC
+      - (--) out up/down: (7) Bolton Wanderers FC, Chester FC, Mansfield Town FC, Preston North End FC, Stoke City FC, West Bromwich Albion FC, Wigan Athletic FC
+
+  - 4: [`1990s/1993-94/4-division3.csv`](1990s/1993-94/4-division3.csv) -  22 teams,  462 matches,  1265 goals,  42 rounds,  Sat 14 Aug 1993 - Sat 7 May 1994
+    - Bury FC, Carlisle United FC, Chester FC, Chesterfield FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Gillingham FC, Hereford FC (2014-), Lincoln City FC, Mansfield Town FC, Northampton Town FC, Preston North End FC, Rochdale AFC, Scarborough Athletic FC, Scunthorpe United FC, Shrewsbury Town FC, Torquay United FC, Walsall FC, Wigan Athletic FC, Wycombe Wanderers FC
+
+
+1992-93 - 3 levels (1 2 3)
+  - 1: [`1990s/1992-93/1-premierleague.csv`](1990s/1992-93/1-premierleague.csv) -  22 teams,  462 matches,  1222 goals,  42 rounds,  Sat 15 Aug 1992 - Tue 11 May 1993
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Everton FC, Ipswich Town FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Norwich City FC, Nottingham Forest FC, Oldham Athletic AFC, Queens Park Rangers FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, Wimbledon FC
+      - (++) new in season 1992-93: (3) Blackburn Rovers FC, Ipswich Town FC, Middlesbrough FC
+      - (--) out down: (3) Luton Town FC, Notts County FC, West Ham United FC
+
+  - 2: [`1990s/1992-93/2-division1.csv`](1990s/1992-93/2-division1.csv) -  24 teams,  552 matches,  1449 goals,  46 rounds,  Sat 15 Aug 1992 - Sun 9 May 1993
+    - Barnsley FC, Birmingham City FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Cambridge United FC, Charlton Athletic FC, Derby County FC, Grimsby Town FC, Leicester City FC, Luton Town FC, Millwall FC, Newcastle United FC, Notts County FC, Oxford United FC, Peterborough United FC, Portsmouth FC, Southend United FC, Sunderland AFC, Swindon Town FC, Tranmere Rovers FC, Watford FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1992-93: (6) Birmingham City FC, Brentford FC, Luton Town FC, Notts County FC, Peterborough United FC, West Ham United FC
+      - (--) out up/down: (6) Blackburn Rovers FC, Brighton & Hove Albion FC, Ipswich Town FC, Middlesbrough FC, Plymouth Argyle FC, Port Vale FC
+
+  - 3: [`1990s/1992-93/3-division2.csv`](1990s/1992-93/3-division2.csv) -  24 teams,  552 matches,  1479 goals,  46 rounds,  Sat 15 Aug 1992 - Sat 8 May 1993
+    - AFC Bournemouth, Blackpool FC, Bolton Wanderers FC, Bradford City AFC, Brighton & Hove Albion FC, Burnley FC, Chester FC, Exeter City FC, Fulham FC, Hartlepool United FC, Huddersfield Town AFC, Hull City AFC, Leyton Orient FC, Mansfield Town FC, Plymouth Argyle FC, Port Vale FC, Preston North End FC, Reading FC, Rotherham United FC, Stockport County FC, Stoke City FC, Swansea City AFC, West Bromwich Albion FC, Wigan Athletic FC
+      - (++) new in season 1992-93: (7) Blackpool FC, Brighton & Hove Albion FC, Burnley FC, Mansfield Town FC, Plymouth Argyle FC, Port Vale FC, Rotherham United FC
+      - (--) out up/down: (7) Birmingham City FC, Brentford FC, Bury FC, Darlington FC, Peterborough United FC, Shrewsbury Town FC, Torquay United FC
+
+
+
+1991-92 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1991-92/1-division1.csv`](1990s/1991-92/1-division1.csv) -  22 teams,  462 matches,  1174 goals,  42 rounds,  Sat 17 Aug 1991 - Sat 2 May 1992
+    - Arsenal FC, Aston Villa FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Everton FC, Leeds United FC, Liverpool FC, Luton Town FC, Manchester City FC, Manchester United FC, Norwich City FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Queens Park Rangers FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1991-92: (4) Notts County FC, Oldham Athletic AFC, Sheffield Wednesday FC, West Ham United FC
+      - (--) out down: (2) Derby County FC, Sunderland AFC
+
+  - 2: [`1990s/1991-92/2-division2.csv`](1990s/1991-92/2-division2.csv) -  24 teams,  552 matches,  1418 goals,  46 rounds,  Sat 17 Aug 1991 - Sat 2 May 1992
+    - Barnsley FC, Blackburn Rovers FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cambridge United FC, Charlton Athletic FC, Derby County FC, Grimsby Town FC, Ipswich Town FC, Leicester City FC, Middlesbrough FC, Millwall FC, Newcastle United FC, Oxford United FC, Plymouth Argyle FC, Port Vale FC, Portsmouth FC, Southend United FC, Sunderland AFC, Swindon Town FC, Tranmere Rovers FC, Watford FC, Wolverhampton Wanderers FC
+      - (++) new in season 1991-92: (6) Cambridge United FC, Derby County FC, Grimsby Town FC, Southend United FC, Sunderland AFC, Tranmere Rovers FC
+      - (--) out up/down: (6) Hull City AFC, Notts County FC, Oldham Athletic AFC, Sheffield Wednesday FC, West Bromwich Albion FC, West Ham United FC
+
+  - 3: [`1990s/1991-92/3-division3.csv`](1990s/1991-92/3-division3.csv) -  24 teams,  552 matches,  1435 goals,  46 rounds,  Sat 17 Aug 1991 - Sat 2 May 1992
+    - AFC Bournemouth, Birmingham City FC, Bolton Wanderers FC, Bradford City AFC, Brentford FC, Bury FC, Chester FC, Darlington FC, Exeter City FC, Fulham FC, Hartlepool United FC, Huddersfield Town AFC, Hull City AFC, Leyton Orient FC, Peterborough United FC, Preston North End FC, Reading FC, Shrewsbury Town FC, Stockport County FC, Stoke City FC, Swansea City AFC, Torquay United FC, West Bromwich Albion FC, Wigan Athletic FC
+      - (++) new in season 1991-92: (7) Darlington FC, Hartlepool United FC, Hull City AFC, Peterborough United FC, Stockport County FC, Torquay United FC, West Bromwich Albion FC
+      - (--) out up/down: (7) Cambridge United FC, Crewe Alexandra FC, Grimsby Town FC, Mansfield Town FC, Rotherham United FC, Southend United FC, Tranmere Rovers FC
+
+  - 4: [`1990s/1991-92/4-division4.csv`](1990s/1991-92/4-division4.csv) -  22 teams,  462 matches,  1247 goals,  42 rounds,  Sat 17 Aug 1991 - Tue 5 May 1992
+    - Barnet FC, Blackpool FC, Burnley FC, Cardiff City FC, Carlisle United FC, Chesterfield FC, Crewe Alexandra FC, Doncaster Rovers FC, FC Halifax Town, Gillingham FC, Hereford United FC (1924-2014), Lincoln City FC, Maidstone United FC, Mansfield Town FC, Northampton Town FC, Rochdale AFC, Rotherham United FC, Scarborough Athletic FC, Scunthorpe United FC, Walsall FC, Wrexham AFC, York City FC
+      - (++) new in season 1991-92: (4) Barnet FC, Crewe Alexandra FC, Mansfield Town FC, Rotherham United FC
+      - (--) out up/down: (6) Aldershot Town FC, Darlington FC, Hartlepool United FC, Peterborough United FC, Stockport County FC, Torquay United FC
+
+
+
+1990-91 - 4 levels (1 2 3 4)
+  - 1: [`1990s/1990-91/1-division1.csv`](1990s/1990-91/1-division1.csv) -  20 teams,  380 matches,  1049 goals,  38 rounds,  Sat 25 Aug 1990 - Mon 20 May 1991
+    - Arsenal FC, Aston Villa FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Derby County FC, Everton FC, Leeds United FC, Liverpool FC, Luton Town FC, Manchester City FC, Manchester United FC, Norwich City FC, Nottingham Forest FC, Queens Park Rangers FC, Sheffield United FC, Southampton FC, Sunderland AFC, Tottenham Hotspur FC, Wimbledon FC
+      - (++) new in season 1990-91: (3) Leeds United FC, Sheffield United FC, Sunderland AFC
+      - (--) out down: (3) Charlton Athletic FC, Millwall FC, Sheffield Wednesday FC
+
+  - 2: [`1990s/1990-91/2-division2.csv`](1990s/1990-91/2-division2.csv) -  24 teams,  552 matches,  1481 goals,  46 rounds,  Sat 25 Aug 1990 - Sat 11 May 1991
+    - Barnsley FC, Blackburn Rovers FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Charlton Athletic FC, Hull City AFC, Ipswich Town FC, Leicester City FC, Middlesbrough FC, Millwall FC, Newcastle United FC, Notts County FC, Oldham Athletic AFC, Oxford United FC, Plymouth Argyle FC, Port Vale FC, Portsmouth FC, Sheffield Wednesday FC, Swindon Town FC, Watford FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1990-91: (6) Bristol City FC, Bristol Rovers FC, Charlton Athletic FC, Millwall FC, Notts County FC, Sheffield Wednesday FC
+      - (--) out up/down: (6) AFC Bournemouth, Bradford City AFC, Leeds United FC, Sheffield United FC, Stoke City FC, Sunderland AFC
+
+  - 3: [`1990s/1990-91/3-division3.csv`](1990s/1990-91/3-division3.csv) -  24 teams,  552 matches,  1381 goals,  46 rounds,  Sat 25 Aug 1990 - Sat 11 May 1991
+    - AFC Bournemouth, Birmingham City FC, Bolton Wanderers FC, Bradford City AFC, Brentford FC, Bury FC, Cambridge United FC, Chester FC, Crewe Alexandra FC, Exeter City FC, Fulham FC, Grimsby Town FC, Huddersfield Town AFC, Leyton Orient FC, Mansfield Town FC, Preston North End FC, Reading FC, Rotherham United FC, Shrewsbury Town FC, Southend United FC, Stoke City FC, Swansea City AFC, Tranmere Rovers FC, Wigan Athletic FC
+      - (++) new in season 1990-91: (7) AFC Bournemouth, Bradford City AFC, Cambridge United FC, Exeter City FC, Grimsby Town FC, Southend United FC, Stoke City FC
+      - (--) out up/down: (7) Blackpool FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Northampton Town FC, Notts County FC, Walsall FC
+
+  - 4: [`1990s/1990-91/4-division4.csv`](1990s/1990-91/4-division4.csv) -  24 teams,  552 matches,  1415 goals,  46 rounds,  Sat 25 Aug 1990 - Sat 11 May 1991
+    - Aldershot Town FC, Blackpool FC, Burnley FC, Cardiff City FC, Carlisle United FC, Chesterfield FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gillingham FC, Hartlepool United FC, Hereford United FC (1924-2014), Lincoln City FC, Maidstone United FC, Northampton Town FC, Peterborough United FC, Rochdale AFC, Scarborough Athletic FC, Scunthorpe United FC, Stockport County FC, Torquay United FC, Walsall FC, Wrexham AFC, York City FC
+      - (++) new in season 1990-91: (5) Blackpool FC, Cardiff City FC, Darlington FC, Northampton Town FC, Walsall FC
+      - (--) out up/down: (5) Cambridge United FC, Colchester United FC, Exeter City FC, Grimsby Town FC, Southend United FC
+
+
+
+1989-90 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1989-90/1-division1.csv`](1980s/1989-90/1-division1.csv) -  20 teams,  380 matches,  986 goals,  38 rounds,  Sat 19 Aug 1989 - Sat 5 May 1990
+    - Arsenal FC, Aston Villa FC, Charlton Athletic FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Derby County FC, Everton FC, Liverpool FC, Luton Town FC, Manchester City FC, Manchester United FC, Millwall FC, Norwich City FC, Nottingham Forest FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, Wimbledon FC
+      - (++) new in season 1989-90: (3) Chelsea FC, Crystal Palace FC, Manchester City FC
+      - (--) out down: (3) Middlesbrough FC, Newcastle United FC, West Ham United FC
+
+  - 2: [`1980s/1989-90/2-division2.csv`](1980s/1989-90/2-division2.csv) -  24 teams,  552 matches,  1526 goals,  46 rounds,  Sat 19 Aug 1989 - Mon 7 May 1990
+    - AFC Bournemouth, Barnsley FC, Blackburn Rovers FC, Bradford City AFC, Brighton & Hove Albion FC, Hull City AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Middlesbrough FC, Newcastle United FC, Oldham Athletic AFC, Oxford United FC, Plymouth Argyle FC, Port Vale FC, Portsmouth FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Swindon Town FC, Watford FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1989-90: (6) Middlesbrough FC, Newcastle United FC, Port Vale FC, Sheffield United FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (6) Birmingham City FC, Chelsea FC, Crystal Palace FC, Manchester City FC, Shrewsbury Town FC, Walsall FC
+
+  - 3: [`1980s/1989-90/3-division3.csv`](1980s/1989-90/3-division3.csv) -  24 teams,  552 matches,  1414 goals,  46 rounds,  Sat 19 Aug 1989 - Sat 5 May 1990
+    - Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Bury FC, Cardiff City FC, Chester FC, Crewe Alexandra FC, Fulham FC, Huddersfield Town AFC, Leyton Orient FC, Mansfield Town FC, Northampton Town FC, Notts County FC, Preston North End FC, Reading FC, Rotherham United FC, Shrewsbury Town FC, Swansea City AFC, Tranmere Rovers FC, Walsall FC, Wigan Athletic FC
+      - (++) new in season 1989-90: (7) Birmingham City FC, Crewe Alexandra FC, Leyton Orient FC, Rotherham United FC, Shrewsbury Town FC, Tranmere Rovers FC, Walsall FC
+      - (--) out up/down: (7) Aldershot Town FC, Chesterfield FC, Gillingham FC, Port Vale FC, Sheffield United FC, Southend United FC, Wolverhampton Wanderers FC
+
+  - 4: [`1980s/1989-90/4-division4.csv`](1980s/1989-90/4-division4.csv) -  24 teams,  552 matches,  1426 goals,  46 rounds,  Sat 19 Aug 1989 - Sat 5 May 1990
+    - Aldershot Town FC, Burnley FC, Cambridge United FC, Carlisle United FC, Chesterfield FC, Colchester United FC, Doncaster Rovers FC, Exeter City FC, FC Halifax Town, Gillingham FC, Grimsby Town FC, Hartlepool United FC, Hereford United FC (1924-2014), Lincoln City FC, Maidstone United FC, Peterborough United FC, Rochdale AFC, Scarborough Athletic FC, Scunthorpe United FC, Southend United FC, Stockport County FC, Torquay United FC, Wrexham AFC, York City FC
+      - (++) new in season 1989-90: (5) Aldershot Town FC, Chesterfield FC, Gillingham FC, Maidstone United FC, Southend United FC
+      - (--) out up/down: (5) Crewe Alexandra FC, Darlington FC, Leyton Orient FC, Rotherham United FC, Tranmere Rovers FC
+
+
+
+1988-89 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1988-89/1-division1.csv`](1980s/1988-89/1-division1.csv) -  20 teams,  380 matches,  962 goals,  38 rounds,  Sat 27 Aug 1988 - Fri 26 May 1989
+    - Arsenal FC, Aston Villa FC, Charlton Athletic FC, Coventry City FC, Derby County FC, Everton FC, Liverpool FC, Luton Town FC, Manchester United FC, Middlesbrough FC, Millwall FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1988-89: (3) Aston Villa FC, Middlesbrough FC, Millwall FC
+      - (--) out down: (4) Chelsea FC, Oxford United FC, Portsmouth FC, Watford FC
+
+  - 2: [`1980s/1988-89/2-division2.csv`](1980s/1988-89/2-division2.csv) -  24 teams,  552 matches,  1465 goals,  46 rounds,  Sat 27 Aug 1988 - Sat 13 May 1989
+    - AFC Bournemouth, Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Bradford City AFC, Brighton & Hove Albion FC, Chelsea FC, Crystal Palace FC, Hull City AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Manchester City FC, Oldham Athletic AFC, Oxford United FC, Plymouth Argyle FC, Portsmouth FC, Shrewsbury Town FC, Stoke City FC, Sunderland AFC, Swindon Town FC, Walsall FC, Watford FC, West Bromwich Albion FC
+      - (++) new in season 1988-89: (7) Brighton & Hove Albion FC, Chelsea FC, Oxford United FC, Portsmouth FC, Sunderland AFC, Walsall FC, Watford FC
+      - (--) out up/down: (6) Aston Villa FC, Huddersfield Town AFC, Middlesbrough FC, Millwall FC, Reading FC, Sheffield United FC
+
+  - 3: [`1980s/1988-89/3-division3.csv`](1980s/1988-89/3-division3.csv) -  24 teams,  552 matches,  1495 goals,  46 rounds,  Sat 27 Aug 1988 - Tue 16 May 1989
+    - Aldershot Town FC, Blackpool FC, Bolton Wanderers FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Bury FC, Cardiff City FC, Chester FC, Chesterfield FC, Fulham FC, Gillingham FC, Huddersfield Town AFC, Mansfield Town FC, Northampton Town FC, Notts County FC, Port Vale FC, Preston North End FC, Reading FC, Sheffield United FC, Southend United FC, Swansea City AFC, Wigan Athletic FC, Wolverhampton Wanderers FC
+      - (++) new in season 1988-89: (7) Bolton Wanderers FC, Cardiff City FC, Huddersfield Town AFC, Reading FC, Sheffield United FC, Swansea City AFC, Wolverhampton Wanderers FC
+      - (--) out up/down: (7) Brighton & Hove Albion FC, Doncaster Rovers FC, Grimsby Town FC, Rotherham United FC, Sunderland AFC, Walsall FC, York City FC
+
+  - 4: [`1980s/1988-89/4-division4.csv`](1980s/1988-89/4-division4.csv) -  24 teams,  552 matches,  1498 goals,  46 rounds,  Sat 27 Aug 1988 - Sat 13 May 1989
+    - Burnley FC, Cambridge United FC, Carlisle United FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, FC Halifax Town, Grimsby Town FC, Hartlepool United FC, Hereford United FC (1924-2014), Leyton Orient FC, Lincoln City FC, Peterborough United FC, Rochdale AFC, Rotherham United FC, Scarborough Athletic FC, Scunthorpe United FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+      - (++) new in season 1988-89: (5) Doncaster Rovers FC, Grimsby Town FC, Lincoln City FC, Rotherham United FC, York City FC
+      - (--) out up/down: (5) Bolton Wanderers FC, Cardiff City FC, Newport County AFC, Swansea City AFC, Wolverhampton Wanderers FC
+
+
+
+1987-88 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1987-88/1-division1.csv`](1980s/1987-88/1-division1.csv) -  21 teams,  420 matches,  1049 goals,  40 rounds,  Sat 15 Aug 1987 - Sun 15 May 1988
+    - Arsenal FC, Charlton Athletic FC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Liverpool FC, Luton Town FC, Manchester United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Oxford United FC, Portsmouth FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, Watford FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1987-88: (2) Derby County FC, Portsmouth FC
+      - (--) out down: (3) Aston Villa FC, Leicester City FC, Manchester City FC
+
+  - 2: [`1980s/1987-88/2-division2.csv`](1980s/1987-88/2-division2.csv) -  23 teams,  506 matches,  1389 goals,  44 rounds,  Sat 15 Aug 1987 - Sat 7 May 1988
+    - AFC Bournemouth, Aston Villa FC, Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Bradford City AFC, Crystal Palace FC, Huddersfield Town AFC, Hull City AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Manchester City FC, Middlesbrough FC, Millwall FC, Oldham Athletic AFC, Plymouth Argyle FC, Reading FC, Sheffield United FC, Shrewsbury Town FC, Stoke City FC, Swindon Town FC, West Bromwich Albion FC
+      - (++) new in season 1987-88: (6) AFC Bournemouth, Aston Villa FC, Leicester City FC, Manchester City FC, Middlesbrough FC, Swindon Town FC
+      - (--) out up/down: (5) Brighton & Hove Albion FC, Derby County FC, Grimsby Town FC, Portsmouth FC, Sunderland AFC
+
+  - 3: [`1980s/1987-88/3-division3.csv`](1980s/1987-88/3-division3.csv) -  24 teams,  552 matches,  1485 goals,  46 rounds,  Sat 15 Aug 1987 - Sat 7 May 1988
+    - Aldershot Town FC, Blackpool FC, Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Bury FC, Chester FC, Chesterfield FC, Doncaster Rovers FC, Fulham FC, Gillingham FC, Grimsby Town FC, Mansfield Town FC, Northampton Town FC, Notts County FC, Port Vale FC, Preston North End FC, Rotherham United FC, Southend United FC, Sunderland AFC, Walsall FC, Wigan Athletic FC, York City FC
+      - (++) new in season 1987-88: (7) Aldershot Town FC, Brighton & Hove Albion FC, Grimsby Town FC, Northampton Town FC, Preston North End FC, Southend United FC, Sunderland AFC
+      - (--) out up/down: (7) AFC Bournemouth, Bolton Wanderers FC, Carlisle United FC, Darlington FC, Middlesbrough FC, Newport County AFC, Swindon Town FC
+
+  - 4: [`1980s/1987-88/4-division4.csv`](1980s/1987-88/4-division4.csv) -  24 teams,  552 matches,  1404 goals,  46 rounds,  Sat 15 Aug 1987 - Sat 7 May 1988
+    - Bolton Wanderers FC, Burnley FC, Cambridge United FC, Cardiff City FC, Carlisle United FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Leyton Orient FC, Newport County AFC, Peterborough United FC, Rochdale AFC, Scarborough Athletic FC, Scunthorpe United FC, Stockport County FC, Swansea City AFC, Torquay United FC, Tranmere Rovers FC, Wolverhampton Wanderers FC, Wrexham AFC
+      - (++) new in season 1987-88: (5) Bolton Wanderers FC, Carlisle United FC, Darlington FC, Newport County AFC, Scarborough Athletic FC
+      - (--) out up/down: (5) Aldershot Town FC, Lincoln City FC, Northampton Town FC, Preston North End FC, Southend United FC
+
+
+
+1986-87 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1986-87/1-division1.csv`](1980s/1986-87/1-division1.csv) -  22 teams,  462 matches,  1215 goals,  42 rounds,  Sat 23 Aug 1986 - Mon 11 May 1987
+    - Arsenal FC, Aston Villa FC, Charlton Athletic FC, Chelsea FC, Coventry City FC, Everton FC, Leicester City FC, Liverpool FC, Luton Town FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Oxford United FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, Watford FC, West Ham United FC, Wimbledon FC
+      - (++) new in season 1986-87: (3) Charlton Athletic FC, Norwich City FC, Wimbledon FC
+      - (--) out down: (3) Birmingham City FC, Ipswich Town FC, West Bromwich Albion FC
+
+  - 2: [`1980s/1986-87/2-division2.csv`](1980s/1986-87/2-division2.csv) -  22 teams,  462 matches,  1131 goals,  42 rounds,  Sat 23 Aug 1986 - Sat 9 May 1987
+    - Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Bradford City AFC, Brighton & Hove Albion FC, Crystal Palace FC, Derby County FC, Grimsby Town FC, Huddersfield Town AFC, Hull City AFC, Ipswich Town FC, Leeds United FC, Millwall FC, Oldham Athletic AFC, Plymouth Argyle FC, Portsmouth FC, Reading FC, Sheffield United FC, Shrewsbury Town FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC
+      - (++) new in season 1986-87: (6) Birmingham City FC, Derby County FC, Ipswich Town FC, Plymouth Argyle FC, Reading FC, West Bromwich Albion FC
+      - (--) out up/down: (6) Carlisle United FC, Charlton Athletic FC, Fulham FC, Middlesbrough FC, Norwich City FC, Wimbledon FC
+
+  - 3: [`1980s/1986-87/3-division3.csv`](1980s/1986-87/3-division3.csv) -  24 teams,  552 matches,  1471 goals,  46 rounds,  Sat 23 Aug 1986 - Sat 9 May 1987
+    - AFC Bournemouth, Blackpool FC, Bolton Wanderers FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Bury FC, Carlisle United FC, Chester FC, Chesterfield FC, Darlington FC, Doncaster Rovers FC, Fulham FC, Gillingham FC, Mansfield Town FC, Middlesbrough FC, Newport County AFC, Notts County FC, Port Vale FC, Rotherham United FC, Swindon Town FC, Walsall FC, Wigan Athletic FC, York City FC
+      - (++) new in season 1986-87: (7) Carlisle United FC, Chester FC, Fulham FC, Mansfield Town FC, Middlesbrough FC, Port Vale FC, Swindon Town FC
+      - (--) out up/down: (7) Cardiff City FC, Derby County FC, Lincoln City FC, Plymouth Argyle FC, Reading FC, Swansea City AFC, Wolverhampton Wanderers FC
+
+  - 4: [`1980s/1986-87/4-division4.csv`](1980s/1986-87/4-division4.csv) -  24 teams,  552 matches,  1456 goals,  46 rounds,  Sat 23 Aug 1986 - Sat 9 May 1987
+    - Aldershot Town FC, Burnley FC, Cambridge United FC, Cardiff City FC, Colchester United FC, Crewe Alexandra FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Leyton Orient FC, Lincoln City FC, Northampton Town FC, Peterborough United FC, Preston North End FC, Rochdale AFC, Scunthorpe United FC, Southend United FC, Stockport County FC, Swansea City AFC, Torquay United FC, Tranmere Rovers FC, Wolverhampton Wanderers FC, Wrexham AFC
+      - (++) new in season 1986-87: (4) Cardiff City FC, Lincoln City FC, Swansea City AFC, Wolverhampton Wanderers FC
+      - (--) out up/down: (4) Chester FC, Mansfield Town FC, Port Vale FC, Swindon Town FC
+
+
+
+1985-86 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1985-86/1-division1.csv`](1980s/1985-86/1-division1.csv) -  22 teams,  462 matches,  1288 goals,  42 rounds,  Sat 17 Aug 1985 - Mon 5 May 1986
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Chelsea FC, Coventry City FC, Everton FC, Ipswich Town FC, Leicester City FC, Liverpool FC, Luton Town FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Oxford United FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1985-86: (3) Birmingham City FC, Manchester City FC, Oxford United FC
+      - (--) out down: (3) Norwich City FC, Stoke City FC, Sunderland AFC
+
+  - 2: [`1980s/1985-86/2-division2.csv`](1980s/1985-86/2-division2.csv) -  22 teams,  462 matches,  1264 goals,  42 rounds,  Sat 17 Aug 1985 - Thu 8 May 1986
+    - Barnsley FC, Blackburn Rovers FC, Bradford City AFC, Brighton & Hove Albion FC, Carlisle United FC, Charlton Athletic FC, Crystal Palace FC, Fulham FC, Grimsby Town FC, Huddersfield Town AFC, Hull City AFC, Leeds United FC, Middlesbrough FC, Millwall FC, Norwich City FC, Oldham Athletic AFC, Portsmouth FC, Sheffield United FC, Shrewsbury Town FC, Stoke City FC, Sunderland AFC, Wimbledon FC
+      - (++) new in season 1985-86: (6) Bradford City AFC, Hull City AFC, Millwall FC, Norwich City FC, Stoke City FC, Sunderland AFC
+      - (--) out up/down: (6) Birmingham City FC, Cardiff City FC, Manchester City FC, Notts County FC, Oxford United FC, Wolverhampton Wanderers FC
+
+  - 3: [`1980s/1985-86/3-division3.csv`](1980s/1985-86/3-division3.csv) -  24 teams,  552 matches,  1550 goals,  46 rounds,  Sat 17 Aug 1985 - Thu 15 May 1986
+    - AFC Bournemouth, Blackpool FC, Bolton Wanderers FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Bury FC, Cardiff City FC, Chesterfield FC, Darlington FC, Derby County FC, Doncaster Rovers FC, Gillingham FC, Lincoln City FC, Newport County AFC, Notts County FC, Plymouth Argyle FC, Reading FC, Rotherham United FC, Swansea City AFC, Walsall FC, Wigan Athletic FC, Wolverhampton Wanderers FC, York City FC
+      - (++) new in season 1985-86: (7) Blackpool FC, Bury FC, Cardiff City FC, Chesterfield FC, Darlington FC, Notts County FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (7) Bradford City AFC, Burnley FC, Cambridge United FC, Hull City AFC, Leyton Orient FC, Millwall FC, Preston North End FC
+
+  - 4: [`1980s/1985-86/4-division4.csv`](1980s/1985-86/4-division4.csv) -  24 teams,  552 matches,  1576 goals,  46 rounds,  Sat 17 Aug 1985 - Wed 7 May 1986
+    - Aldershot Town FC, Burnley FC, Cambridge United FC, Chester FC, Colchester United FC, Crewe Alexandra FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Leyton Orient FC, Mansfield Town FC, Northampton Town FC, Peterborough United FC, Port Vale FC, Preston North End FC, Rochdale AFC, Scunthorpe United FC, Southend United FC, Stockport County FC, Swindon Town FC, Torquay United FC, Tranmere Rovers FC, Wrexham AFC
+      - (++) new in season 1985-86: (4) Burnley FC, Cambridge United FC, Leyton Orient FC, Preston North End FC
+      - (--) out up/down: (4) Blackpool FC, Bury FC, Chesterfield FC, Darlington FC
+
+
+
+1984-85 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1984-85/1-division1.csv`](1980s/1984-85/1-division1.csv) -  22 teams,  462 matches,  1288 goals,  42 rounds,  Sat 25 Aug 1984 - Tue 28 May 1985
+    - Arsenal FC, Aston Villa FC, Chelsea FC, Coventry City FC, Everton FC, Ipswich Town FC, Leicester City FC, Liverpool FC, Luton Town FC, Manchester United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1984-85: (3) Chelsea FC, Newcastle United FC, Sheffield Wednesday FC
+      - (--) out down: (3) Birmingham City FC, Notts County FC, Wolverhampton Wanderers FC
+
+  - 2: [`1980s/1984-85/2-division2.csv`](1980s/1984-85/2-division2.csv) -  22 teams,  462 matches,  1255 goals,  42 rounds,  Sat 25 Aug 1984 - Mon 13 May 1985
+    - Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Brighton & Hove Albion FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Crystal Palace FC, Fulham FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Manchester City FC, Middlesbrough FC, Notts County FC, Oldham Athletic AFC, Oxford United FC, Portsmouth FC, Sheffield United FC, Shrewsbury Town FC, Wimbledon FC, Wolverhampton Wanderers FC
+      - (++) new in season 1984-85: (6) Birmingham City FC, Notts County FC, Oxford United FC, Sheffield United FC, Wimbledon FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (6) Cambridge United FC, Chelsea FC, Derby County FC, Newcastle United FC, Sheffield Wednesday FC, Swansea City AFC
+
+  - 3: [`1980s/1984-85/3-division3.csv`](1980s/1984-85/3-division3.csv) -  24 teams,  552 matches,  1503 goals,  46 rounds,  Sat 25 Aug 1984 - Sun 19 May 1985
+    - AFC Bournemouth, Bolton Wanderers FC, Bradford City AFC, Brentford FC, Bristol City FC, Bristol Rovers FC, Burnley FC, Cambridge United FC, Derby County FC, Doncaster Rovers FC, Gillingham FC, Hull City AFC, Leyton Orient FC, Lincoln City FC, Millwall FC, Newport County AFC, Plymouth Argyle FC, Preston North End FC, Reading FC, Rotherham United FC, Swansea City AFC, Walsall FC, Wigan Athletic FC, York City FC
+      - (++) new in season 1984-85: (7) Bristol City FC, Cambridge United FC, Derby County FC, Doncaster Rovers FC, Reading FC, Swansea City AFC, York City FC
+      - (--) out up/down: (7) Exeter City FC, Oxford United FC, Port Vale FC, Scunthorpe United FC, Sheffield United FC, Southend United FC, Wimbledon FC
+
+  - 4: [`1980s/1984-85/4-division4.csv`](1980s/1984-85/4-division4.csv) -  24 teams,  552 matches,  1478 goals,  46 rounds,  Sat 25 Aug 1984 - Fri 17 May 1985
+    - Aldershot Town FC, Blackpool FC, Bury FC, Chester FC, Chesterfield FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Mansfield Town FC, Northampton Town FC, Peterborough United FC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Southend United FC, Stockport County FC, Swindon Town FC, Torquay United FC, Tranmere Rovers FC, Wrexham AFC
+      - (++) new in season 1984-85: (4) Exeter City FC, Port Vale FC, Scunthorpe United FC, Southend United FC
+      - (--) out up/down: (4) Bristol City FC, Doncaster Rovers FC, Reading FC, York City FC
+
+
+
+1983-84 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1983-84/1-division1.csv`](1980s/1983-84/1-division1.csv) -  22 teams,  462 matches,  1250 goals,  42 rounds,  Sat 27 Aug 1983 - Thu 17 May 1984
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Coventry City FC, Everton FC, Ipswich Town FC, Leicester City FC, Liverpool FC, Luton Town FC, Manchester United FC, Norwich City FC, Nottingham Forest FC, Notts County FC, Queens Park Rangers FC, Southampton FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1983-84: (3) Leicester City FC, Queens Park Rangers FC, Wolverhampton Wanderers FC
+      - (--) out down: (3) Brighton & Hove Albion FC, Manchester City FC, Swansea City AFC
+
+  - 2: [`1980s/1983-84/2-division2.csv`](1980s/1983-84/2-division2.csv) -  22 teams,  462 matches,  1233 goals,  42 rounds,  Sat 27 Aug 1983 - Sat 12 May 1984
+    - Barnsley FC, Blackburn Rovers FC, Brighton & Hove Albion FC, Cambridge United FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Chelsea FC, Crystal Palace FC, Derby County FC, Fulham FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Oldham Athletic AFC, Portsmouth FC, Sheffield Wednesday FC, Shrewsbury Town FC, Swansea City AFC
+      - (++) new in season 1983-84: (6) Brighton & Hove Albion FC, Cardiff City FC, Huddersfield Town AFC, Manchester City FC, Portsmouth FC, Swansea City AFC
+      - (--) out up/down: (6) Bolton Wanderers FC, Burnley FC, Leicester City FC, Queens Park Rangers FC, Rotherham United FC, Wolverhampton Wanderers FC
+
+  - 3: [`1980s/1983-84/3-division3.csv`](1980s/1983-84/3-division3.csv) -  24 teams,  552 matches,  1586 goals,  46 rounds,  Sat 27 Aug 1983 - Tue 15 May 1984
+    - AFC Bournemouth, Bolton Wanderers FC, Bradford City AFC, Brentford FC, Bristol Rovers FC, Burnley FC, Exeter City FC, Gillingham FC, Hull City AFC, Leyton Orient FC, Lincoln City FC, Millwall FC, Newport County AFC, Oxford United FC, Plymouth Argyle FC, Port Vale FC, Preston North End FC, Rotherham United FC, Scunthorpe United FC, Sheffield United FC, Southend United FC, Walsall FC, Wigan Athletic FC, Wimbledon FC
+      - (++) new in season 1983-84: (7) Bolton Wanderers FC, Burnley FC, Hull City AFC, Port Vale FC, Rotherham United FC, Scunthorpe United FC, Wimbledon FC
+      - (--) out up/down: (7) Cardiff City FC, Chesterfield FC, Doncaster Rovers FC, Huddersfield Town AFC, Portsmouth FC, Reading FC, Wrexham AFC
+
+  - 4: [`1980s/1983-84/4-division4.csv`](1980s/1983-84/4-division4.csv) -  24 teams,  552 matches,  1505 goals,  46 rounds,  Sat 27 Aug 1983 - Mon 21 May 1984
+    - Aldershot Town FC, Blackpool FC, Bristol City FC, Bury FC, Chester FC, Chesterfield FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Mansfield Town FC, Northampton Town FC, Peterborough United FC, Reading FC, Rochdale AFC, Stockport County FC, Swindon Town FC, Torquay United FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+      - (++) new in season 1983-84: (4) Chesterfield FC, Doncaster Rovers FC, Reading FC, Wrexham AFC
+      - (--) out up/down: (4) Hull City AFC, Port Vale FC, Scunthorpe United FC, Wimbledon FC
+
+
+
+1982-83 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1982-83/1-division1.csv`](1980s/1982-83/1-division1.csv) -  22 teams,  462 matches,  1264 goals,  42 rounds,  Sat 28 Aug 1982 - Sat 14 May 1983
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Brighton & Hove Albion FC, Coventry City FC, Everton FC, Ipswich Town FC, Liverpool FC, Luton Town FC, Manchester City FC, Manchester United FC, Norwich City FC, Nottingham Forest FC, Notts County FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, Watford FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1982-83: (3) Luton Town FC, Norwich City FC, Watford FC
+      - (--) out down: (3) Leeds United FC, Middlesbrough FC, Wolverhampton Wanderers FC
+
+  - 2: [`1980s/1982-83/2-division2.csv`](1980s/1982-83/2-division2.csv) -  22 teams,  462 matches,  1244 goals,  42 rounds,  Sat 28 Aug 1982 - Tue 17 May 1983
+    - Barnsley FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Cambridge United FC, Carlisle United FC, Charlton Athletic FC, Chelsea FC, Crystal Palace FC, Derby County FC, Fulham FC, Grimsby Town FC, Leeds United FC, Leicester City FC, Middlesbrough FC, Newcastle United FC, Oldham Athletic AFC, Queens Park Rangers FC, Rotherham United FC, Sheffield Wednesday FC, Shrewsbury Town FC, Wolverhampton Wanderers FC
+      - (++) new in season 1982-83: (6) Burnley FC, Carlisle United FC, Fulham FC, Leeds United FC, Middlesbrough FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (6) Cardiff City FC, Leyton Orient FC, Luton Town FC, Norwich City FC, Watford FC, Wrexham AFC
+
+  - 3: [`1980s/1982-83/3-division3.csv`](1980s/1982-83/3-division3.csv) -  24 teams,  552 matches,  1617 goals,  46 rounds,  Sat 28 Aug 1982 - Sat 14 May 1983
+    - AFC Bournemouth, Bradford City AFC, Brentford FC, Bristol Rovers FC, Cardiff City FC, Chesterfield FC, Doncaster Rovers FC, Exeter City FC, Gillingham FC, Huddersfield Town AFC, Leyton Orient FC, Lincoln City FC, Millwall FC, Newport County AFC, Oxford United FC, Plymouth Argyle FC, Portsmouth FC, Preston North End FC, Reading FC, Sheffield United FC, Southend United FC, Walsall FC, Wigan Athletic FC, Wrexham AFC
+      - (++) new in season 1982-83: (7) AFC Bournemouth, Bradford City AFC, Cardiff City FC, Leyton Orient FC, Sheffield United FC, Wigan Athletic FC, Wrexham AFC
+      - (--) out up/down: (7) Bristol City FC, Burnley FC, Carlisle United FC, Chester FC, Fulham FC, Swindon Town FC, Wimbledon FC
+
+  - 4: [`1980s/1982-83/4-division4.csv`](1980s/1982-83/4-division4.csv) -  24 teams,  552 matches,  1502 goals,  46 rounds,  Sat 28 Aug 1982 - Tue 17 May 1983
+    - Aldershot Town FC, Blackpool FC, Bristol City FC, Bury FC, Chester FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Hull City AFC, Mansfield Town FC, Northampton Town FC, Peterborough United FC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Stockport County FC, Swindon Town FC, Torquay United FC, Tranmere Rovers FC, Wimbledon FC, York City FC
+      - (++) new in season 1982-83: (4) Bristol City FC, Chester FC, Swindon Town FC, Wimbledon FC
+      - (--) out up/down: (4) AFC Bournemouth, Bradford City AFC, Sheffield United FC, Wigan Athletic FC
+
+
+
+1981-82 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1981-82/1-division1.csv`](1980s/1981-82/1-division1.csv) -  22 teams,  462 matches,  1173 goals,  42 rounds,  Sat 29 Aug 1981 - Fri 21 May 1982
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Brighton & Hove Albion FC, Coventry City FC, Everton FC, Ipswich Town FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Nottingham Forest FC, Notts County FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1981-82: (3) Notts County FC, Swansea City AFC, West Ham United FC
+      - (--) out down: (3) Crystal Palace FC, Leicester City FC, Norwich City FC
+
+  - 2: [`1980s/1981-82/2-division2.csv`](1980s/1981-82/2-division2.csv) -  22 teams,  462 matches,  1171 goals,  42 rounds,  Sat 29 Aug 1981 - Tue 18 May 1982
+    - Barnsley FC, Blackburn Rovers FC, Bolton Wanderers FC, Cambridge United FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Crystal Palace FC, Derby County FC, Grimsby Town FC, Leicester City FC, Leyton Orient FC, Luton Town FC, Newcastle United FC, Norwich City FC, Oldham Athletic AFC, Queens Park Rangers FC, Rotherham United FC, Sheffield Wednesday FC, Shrewsbury Town FC, Watford FC, Wrexham AFC
+      - (++) new in season 1981-82: (6) Barnsley FC, Charlton Athletic FC, Crystal Palace FC, Leicester City FC, Norwich City FC, Rotherham United FC
+      - (--) out up/down: (6) Bristol City FC, Bristol Rovers FC, Notts County FC, Preston North End FC, Swansea City AFC, West Ham United FC
+
+  - 3: [`1980s/1981-82/3-division3.csv`](1980s/1981-82/3-division3.csv) -  24 teams,  552 matches,  1421 goals,  46 rounds,  Sat 29 Aug 1981 - Fri 21 May 1982
+    - Brentford FC, Bristol City FC, Bristol Rovers FC, Burnley FC, Carlisle United FC, Chester FC, Chesterfield FC, Doncaster Rovers FC, Exeter City FC, Fulham FC, Gillingham FC, Huddersfield Town AFC, Lincoln City FC, Millwall FC, Newport County AFC, Oxford United FC, Plymouth Argyle FC, Portsmouth FC, Preston North End FC, Reading FC, Southend United FC, Swindon Town FC, Walsall FC, Wimbledon FC
+      - (++) new in season 1981-82: (7) Bristol City FC, Bristol Rovers FC, Doncaster Rovers FC, Lincoln City FC, Preston North End FC, Southend United FC, Wimbledon FC
+      - (--) out up/down: (7) Barnsley FC, Blackpool FC, Charlton Athletic FC, Colchester United FC, Hull City AFC, Rotherham United FC, Sheffield United FC
+
+  - 4: [`1980s/1981-82/4-division4.csv`](1980s/1981-82/4-division4.csv) -  24 teams,  552 matches,  1512 goals,  46 rounds,  Sat 29 Aug 1981 - Tue 18 May 1982
+    - AFC Bournemouth, Aldershot Town FC, Blackpool FC, Bradford City AFC, Bury FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Hull City AFC, Mansfield Town FC, Northampton Town FC, Peterborough United FC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Sheffield United FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Wigan Athletic FC, York City FC
+      - (++) new in season 1981-82: (4) Blackpool FC, Colchester United FC, Hull City AFC, Sheffield United FC
+      - (--) out up/down: (4) Doncaster Rovers FC, Lincoln City FC, Southend United FC, Wimbledon FC
+
+
+
+1980-81 - 4 levels (1 2 3 4)
+  - 1: [`1980s/1980-81/1-division1.csv`](1980s/1980-81/1-division1.csv) -  22 teams,  462 matches,  1228 goals,  42 rounds,  Sat 16 Aug 1980 - Tue 19 May 1981
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Brighton & Hove Albion FC, Coventry City FC, Crystal Palace FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Norwich City FC, Nottingham Forest FC, Southampton FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1980-81: (3) Birmingham City FC, Leicester City FC, Sunderland AFC
+      - (--) out down: (3) Bolton Wanderers FC, Bristol City FC, Derby County FC
+
+  - 2: [`1980s/1980-81/2-division2.csv`](1980s/1980-81/2-division2.csv) -  22 teams,  462 matches,  1073 goals,  42 rounds,  Sat 16 Aug 1980 - Fri 8 May 1981
+    - Blackburn Rovers FC, Bolton Wanderers FC, Bristol City FC, Bristol Rovers FC, Cambridge United FC, Cardiff City FC, Chelsea FC, Derby County FC, Grimsby Town FC, Leyton Orient FC, Luton Town FC, Newcastle United FC, Notts County FC, Oldham Athletic AFC, Preston North End FC, Queens Park Rangers FC, Sheffield Wednesday FC, Shrewsbury Town FC, Swansea City AFC, Watford FC, West Ham United FC, Wrexham AFC
+      - (++) new in season 1980-81: (6) Blackburn Rovers FC, Bolton Wanderers FC, Bristol City FC, Derby County FC, Grimsby Town FC, Sheffield Wednesday FC
+      - (--) out up/down: (6) Birmingham City FC, Burnley FC, Charlton Athletic FC, Fulham FC, Leicester City FC, Sunderland AFC
+
+  - 3: [`1980s/1980-81/3-division3.csv`](1980s/1980-81/3-division3.csv) -  24 teams,  552 matches,  1337 goals,  46 rounds,  Sat 16 Aug 1980 - Fri 8 May 1981
+    - Barnsley FC, Blackpool FC, Brentford FC, Burnley FC, Carlisle United FC, Charlton Athletic FC, Chester FC, Chesterfield FC, Colchester United FC, Exeter City FC, Fulham FC, Gillingham FC, Huddersfield Town AFC, Hull City AFC, Millwall FC, Newport County AFC, Oxford United FC, Plymouth Argyle FC, Portsmouth FC, Reading FC, Rotherham United FC, Sheffield United FC, Swindon Town FC, Walsall FC
+      - (++) new in season 1980-81: (7) Burnley FC, Charlton Athletic FC, Fulham FC, Huddersfield Town AFC, Newport County AFC, Portsmouth FC, Walsall FC
+      - (--) out up/down: (7) Blackburn Rovers FC, Bury FC, Grimsby Town FC, Mansfield Town FC, Sheffield Wednesday FC, Southend United FC, Wimbledon FC
+
+  - 4: [`1980s/1980-81/4-division4.csv`](1980s/1980-81/4-division4.csv) -  24 teams,  552 matches,  1364 goals,  46 rounds,  Sat 16 Aug 1980 - Fri 15 May 1981
+    - AFC Bournemouth, Aldershot Town FC, Bradford City AFC, Bury FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Lincoln City FC, Mansfield Town FC, Northampton Town FC, Peterborough United FC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Southend United FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Wigan Athletic FC, Wimbledon FC, York City FC
+      - (++) new in season 1980-81: (4) Bury FC, Mansfield Town FC, Southend United FC, Wimbledon FC
+      - (--) out up/down: (4) Huddersfield Town AFC, Newport County AFC, Portsmouth FC, Walsall FC
+
+
+
+1979-80 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1979-80/1-division1.csv`](1970s/1979-80/1-division1.csv) -  22 teams,  462 matches,  1159 goals,  42 rounds,  Sat 18 Aug 1979 - Mon 19 May 1980
+    - Arsenal FC, Aston Villa FC, Bolton Wanderers FC, Brighton & Hove Albion FC, Bristol City FC, Coventry City FC, Crystal Palace FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Norwich City FC, Nottingham Forest FC, Southampton FC, Stoke City FC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1979-80: (3) Brighton & Hove Albion FC, Crystal Palace FC, Stoke City FC
+      - (--) out down: (3) Birmingham City FC, Chelsea FC, Queens Park Rangers FC
+
+  - 2: [`1970s/1979-80/2-division2.csv`](1970s/1979-80/2-division2.csv) -  22 teams,  462 matches,  1162 goals,  42 rounds,  Sat 18 Aug 1979 - Mon 12 May 1980
+    - Birmingham City FC, Bristol Rovers FC, Burnley FC, Cambridge United FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Fulham FC, Leicester City FC, Leyton Orient FC, Luton Town FC, Newcastle United FC, Notts County FC, Oldham Athletic AFC, Preston North End FC, Queens Park Rangers FC, Shrewsbury Town FC, Sunderland AFC, Swansea City AFC, Watford FC, West Ham United FC, Wrexham AFC
+      - (++) new in season 1979-80: (6) Birmingham City FC, Chelsea FC, Queens Park Rangers FC, Shrewsbury Town FC, Swansea City AFC, Watford FC
+      - (--) out up/down: (6) Blackburn Rovers FC, Brighton & Hove Albion FC, Crystal Palace FC, Millwall FC, Sheffield United FC, Stoke City FC
+
+  - 3: [`1970s/1979-80/3-division3.csv`](1970s/1979-80/3-division3.csv) -  24 teams,  552 matches,  1423 goals,  46 rounds,  Sat 18 Aug 1979 - Tue 6 May 1980
+    - Barnsley FC, Blackburn Rovers FC, Blackpool FC, Brentford FC, Bury FC, Carlisle United FC, Chester FC, Chesterfield FC, Colchester United FC, Exeter City FC, Gillingham FC, Grimsby Town FC, Hull City AFC, Mansfield Town FC, Millwall FC, Oxford United FC, Plymouth Argyle FC, Reading FC, Rotherham United FC, Sheffield United FC, Sheffield Wednesday FC, Southend United FC, Swindon Town FC, Wimbledon FC
+      - (++) new in season 1979-80: (7) Barnsley FC, Blackburn Rovers FC, Grimsby Town FC, Millwall FC, Reading FC, Sheffield United FC, Wimbledon FC
+      - (--) out up/down: (7) Lincoln City FC, Peterborough United FC, Shrewsbury Town FC, Swansea City AFC, Tranmere Rovers FC, Walsall FC, Watford FC
+
+  - 4: [`1970s/1979-80/4-division4.csv`](1970s/1979-80/4-division4.csv) -  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 18 Aug 1979 - Tue 6 May 1980
+    - AFC Bournemouth, Aldershot Town FC, Bradford City AFC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Hartlepool United FC, Hereford United FC (1924-2014), Huddersfield Town AFC, Lincoln City FC, Newport County AFC, Northampton Town FC, Peterborough United FC, Port Vale FC, Portsmouth FC, Rochdale AFC, Scunthorpe United FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Walsall FC, Wigan Athletic FC, York City FC
+      - (++) new in season 1979-80: (4) Lincoln City FC, Peterborough United FC, Tranmere Rovers FC, Walsall FC
+      - (--) out up/down: (4) Barnsley FC, Grimsby Town FC, Reading FC, Wimbledon FC
+
+
+
+1978-79 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1978-79/1-division1.csv`](1970s/1978-79/1-division1.csv) -  22 teams,  462 matches,  1217 goals,  42 rounds,  Sat 19 Aug 1978 - Fri 18 May 1979
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Bolton Wanderers FC, Bristol City FC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Norwich City FC, Nottingham Forest FC, Queens Park Rangers FC, Southampton FC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1978-79: (3) Bolton Wanderers FC, Southampton FC, Tottenham Hotspur FC
+      - (--) out down: (3) Leicester City FC, Newcastle United FC, West Ham United FC
+
+  - 2: [`1970s/1978-79/2-division2.csv`](1970s/1978-79/2-division2.csv) -  22 teams,  462 matches,  1174 goals,  42 rounds,  Sat 19 Aug 1978 - Tue 22 May 1979
+    - Blackburn Rovers FC, Brighton & Hove Albion FC, Bristol Rovers FC, Burnley FC, Cambridge United FC, Cardiff City FC, Charlton Athletic FC, Crystal Palace FC, Fulham FC, Leicester City FC, Leyton Orient FC, Luton Town FC, Millwall FC, Newcastle United FC, Notts County FC, Oldham Athletic AFC, Preston North End FC, Sheffield United FC, Stoke City FC, Sunderland AFC, West Ham United FC, Wrexham AFC
+      - (++) new in season 1978-79: (6) Cambridge United FC, Leicester City FC, Newcastle United FC, Preston North End FC, West Ham United FC, Wrexham AFC
+      - (--) out up/down: (6) Blackpool FC, Bolton Wanderers FC, Hull City AFC, Mansfield Town FC, Southampton FC, Tottenham Hotspur FC
+
+  - 3: [`1970s/1978-79/3-division3.csv`](1970s/1978-79/3-division3.csv) -  24 teams,  552 matches,  1388 goals,  46 rounds,  Sat 19 Aug 1978 - Mon 21 May 1979
+    - Blackpool FC, Brentford FC, Bury FC, Carlisle United FC, Chester FC, Chesterfield FC, Colchester United FC, Exeter City FC, Gillingham FC, Hull City AFC, Lincoln City FC, Mansfield Town FC, Oxford United FC, Peterborough United FC, Plymouth Argyle FC, Rotherham United FC, Sheffield Wednesday FC, Shrewsbury Town FC, Southend United FC, Swansea City AFC, Swindon Town FC, Tranmere Rovers FC, Walsall FC, Watford FC
+      - (++) new in season 1978-79: (7) Blackpool FC, Brentford FC, Hull City AFC, Mansfield Town FC, Southend United FC, Swansea City AFC, Watford FC
+      - (--) out up/down: (7) Bradford City AFC, Cambridge United FC, Hereford United FC (1924-2014), Port Vale FC, Portsmouth FC, Preston North End FC, Wrexham AFC
+
+  - 4: [`1970s/1978-79/4-division4.csv`](1970s/1978-79/4-division4.csv) -  24 teams,  552 matches,  1409 goals,  46 rounds,  Sat 19 Aug 1978 - Sat 19 May 1979
+    - AFC Bournemouth, Aldershot Town FC, Barnsley FC, Bradford City AFC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Grimsby Town FC, Hartlepool United FC, Hereford United FC (1924-2014), Huddersfield Town AFC, Newport County AFC, Northampton Town FC, Port Vale FC, Portsmouth FC, Reading FC, Rochdale AFC, Scunthorpe United FC, Stockport County FC, Torquay United FC, Wigan Athletic FC, Wimbledon FC, York City FC
+      - (++) new in season 1978-79: (5) Bradford City AFC, Hereford United FC (1924-2014), Port Vale FC, Portsmouth FC, Wigan Athletic FC
+      - (--) out up/down: (5) Brentford FC, Southend United FC, Southport FC, Swansea City AFC, Watford FC
+
+
+
+1977-78 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1977-78/1-division1.csv`](1970s/1977-78/1-division1.csv) -  22 teams,  462 matches,  1231 goals,  42 rounds,  Sat 20 Aug 1977 - Tue 9 May 1978
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Bristol City FC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Queens Park Rangers FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1977-78: (3) Chelsea FC, Nottingham Forest FC, Wolverhampton Wanderers FC
+      - (--) out down: (3) Stoke City FC, Sunderland AFC, Tottenham Hotspur FC
+
+  - 2: [`1970s/1977-78/2-division2.csv`](1970s/1977-78/2-division2.csv) -  22 teams,  462 matches,  1235 goals,  42 rounds,  Sat 20 Aug 1977 - Tue 9 May 1978
+    - Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Brighton & Hove Albion FC, Bristol Rovers FC, Burnley FC, Cardiff City FC, Charlton Athletic FC, Crystal Palace FC, Fulham FC, Hull City AFC, Leyton Orient FC, Luton Town FC, Mansfield Town FC, Millwall FC, Notts County FC, Oldham Athletic AFC, Sheffield United FC, Southampton FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC
+      - (++) new in season 1977-78: (6) Brighton & Hove Albion FC, Crystal Palace FC, Mansfield Town FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC
+      - (--) out up/down: (6) Carlisle United FC, Chelsea FC, Hereford United FC (1924-2014), Nottingham Forest FC, Plymouth Argyle FC, Wolverhampton Wanderers FC
+
+  - 3: [`1970s/1977-78/3-division3.csv`](1970s/1977-78/3-division3.csv) -  24 teams,  552 matches,  1373 goals,  46 rounds,  Sat 20 Aug 1977 - Wed 3 May 1978
+    - Bradford City AFC, Bury FC, Cambridge United FC, Carlisle United FC, Chester FC, Chesterfield FC, Colchester United FC, Exeter City FC, Gillingham FC, Hereford United FC (1924-2014), Lincoln City FC, Oxford United FC, Peterborough United FC, Plymouth Argyle FC, Port Vale FC, Portsmouth FC, Preston North End FC, Rotherham United FC, Sheffield Wednesday FC, Shrewsbury Town FC, Swindon Town FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC
+      - (++) new in season 1977-78: (7) Bradford City AFC, Cambridge United FC, Carlisle United FC, Colchester United FC, Exeter City FC, Hereford United FC (1924-2014), Plymouth Argyle FC
+      - (--) out up/down: (7) Brighton & Hove Albion FC, Crystal Palace FC, Grimsby Town FC, Mansfield Town FC, Northampton Town FC, Reading FC, York City FC
+
+  - 4: [`1970s/1977-78/4-division4.csv`](1970s/1977-78/4-division4.csv) -  24 teams,  552 matches,  1427 goals,  46 rounds,  Sat 20 Aug 1977 - Mon 1 May 1978
+    - AFC Bournemouth, Aldershot Town FC, Barnsley FC, Brentford FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Grimsby Town FC, Hartlepool United FC, Huddersfield Town AFC, Newport County AFC, Northampton Town FC, Reading FC, Rochdale AFC, Scunthorpe United FC, Southend United FC, Southport FC, Stockport County FC, Swansea City AFC, Torquay United FC, Watford FC, Wimbledon FC, York City FC
+      - (++) new in season 1977-78: (5) Grimsby Town FC, Northampton Town FC, Reading FC, Wimbledon FC, York City FC
+      - (--) out up/down: (5) Bradford City AFC, Cambridge United FC, Colchester United FC, Exeter City FC, Workington AFC
+
+
+
+1976-77 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1976-77/1-division1.csv`](1970s/1976-77/1-division1.csv) -  22 teams,  462 matches,  1183 goals,  42 rounds,  Sat 21 Aug 1976 - Tue 24 May 1977
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Bristol City FC, Coventry City FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Norwich City FC, Queens Park Rangers FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1976-77: (3) Bristol City FC, Sunderland AFC, West Bromwich Albion FC
+      - (--) out down: (3) Burnley FC, Sheffield United FC, Wolverhampton Wanderers FC
+
+  - 2: [`1970s/1976-77/2-division2.csv`](1970s/1976-77/2-division2.csv) -  22 teams,  462 matches,  1290 goals,  42 rounds,  Sat 21 Aug 1976 - Tue 17 May 1977
+    - Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Bristol Rovers FC, Burnley FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Chelsea FC, Fulham FC, Hereford United FC (1924-2014), Hull City AFC, Leyton Orient FC, Luton Town FC, Millwall FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Plymouth Argyle FC, Sheffield United FC, Southampton FC, Wolverhampton Wanderers FC
+      - (++) new in season 1976-77: (6) Burnley FC, Cardiff City FC, Hereford United FC (1924-2014), Millwall FC, Sheffield United FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (6) Bristol City FC, Oxford United FC, Portsmouth FC, Sunderland AFC, West Bromwich Albion FC, York City FC
+
+  - 3: [`1970s/1976-77/3-division3.csv`](1970s/1976-77/3-division3.csv) -  24 teams,  552 matches,  1462 goals,  46 rounds,  Sat 21 Aug 1976 - Tue 17 May 1977
+    - Brighton & Hove Albion FC, Bury FC, Chester FC, Chesterfield FC, Crystal Palace FC, Gillingham FC, Grimsby Town FC, Lincoln City FC, Mansfield Town FC, Northampton Town FC, Oxford United FC, Peterborough United FC, Port Vale FC, Portsmouth FC, Preston North End FC, Reading FC, Rotherham United FC, Sheffield Wednesday FC, Shrewsbury Town FC, Swindon Town FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC, York City FC
+      - (++) new in season 1976-77: (7) Lincoln City FC, Northampton Town FC, Oxford United FC, Portsmouth FC, Reading FC, Tranmere Rovers FC, York City FC
+      - (--) out up/down: (7) Aldershot Town FC, Cardiff City FC, Colchester United FC, FC Halifax Town, Hereford United FC (1924-2014), Millwall FC, Southend United FC
+
+  - 4: [`1970s/1976-77/4-division4.csv`](1970s/1976-77/4-division4.csv) -  24 teams,  552 matches,  1423 goals,  46 rounds,  Sat 21 Aug 1976 - Wed 18 May 1977
+    - AFC Bournemouth, Aldershot Town FC, Barnsley FC, Bradford City AFC, Brentford FC, Cambridge United FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Huddersfield Town AFC, Newport County AFC, Rochdale AFC, Scunthorpe United FC, Southend United FC, Southport FC, Stockport County FC, Swansea City AFC, Torquay United FC, Watford FC, Workington AFC
+      - (++) new in season 1976-77: (4) Aldershot Town FC, Colchester United FC, FC Halifax Town, Southend United FC
+      - (--) out up/down: (4) Lincoln City FC, Northampton Town FC, Reading FC, Tranmere Rovers FC
+
+
+
+1975-76 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1975-76/1-division1.csv`](1970s/1975-76/1-division1.csv) -  22 teams,  462 matches,  1230 goals,  42 rounds,  Sat 16 Aug 1975 - Tue 4 May 1976
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Burnley FC, Coventry City FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Norwich City FC, Queens Park Rangers FC, Sheffield United FC, Stoke City FC, Tottenham Hotspur FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1975-76: (3) Aston Villa FC, Manchester United FC, Norwich City FC
+      - (--) out down: (3) Carlisle United FC, Chelsea FC, Luton Town FC
+
+  - 2: [`1970s/1975-76/2-division2.csv`](1970s/1975-76/2-division2.csv) -  22 teams,  462 matches,  1106 goals,  42 rounds,  Sat 16 Aug 1975 - Wed 28 Apr 1976
+    - Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Bristol City FC, Bristol Rovers FC, Carlisle United FC, Charlton Athletic FC, Chelsea FC, Fulham FC, Hull City AFC, Leyton Orient FC, Luton Town FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Oxford United FC, Plymouth Argyle FC, Portsmouth FC, Southampton FC, Sunderland AFC, West Bromwich Albion FC, York City FC
+      - (++) new in season 1975-76: (6) Blackburn Rovers FC, Carlisle United FC, Charlton Athletic FC, Chelsea FC, Luton Town FC, Plymouth Argyle FC
+      - (--) out up/down: (6) Aston Villa FC, Cardiff City FC, Manchester United FC, Millwall FC, Norwich City FC, Sheffield Wednesday FC
+
+  - 3: [`1970s/1975-76/3-division3.csv`](1970s/1975-76/3-division3.csv) -  24 teams,  552 matches,  1440 goals,  46 rounds,  Sat 16 Aug 1975 - Tue 4 May 1976
+    - Aldershot Town FC, Brighton & Hove Albion FC, Bury FC, Cardiff City FC, Chester FC, Chesterfield FC, Colchester United FC, Crystal Palace FC, FC Halifax Town, Gillingham FC, Grimsby Town FC, Hereford United FC (1924-2014), Mansfield Town FC, Millwall FC, Peterborough United FC, Port Vale FC, Preston North End FC, Rotherham United FC, Sheffield Wednesday FC, Shrewsbury Town FC, Southend United FC, Swindon Town FC, Walsall FC, Wrexham AFC
+      - (++) new in season 1975-76: (7) Cardiff City FC, Chester FC, Mansfield Town FC, Millwall FC, Rotherham United FC, Sheffield Wednesday FC, Shrewsbury Town FC
+      - (--) out up/down: (7) AFC Bournemouth, Blackburn Rovers FC, Charlton Athletic FC, Huddersfield Town AFC, Plymouth Argyle FC, Tranmere Rovers FC, Watford FC
+
+  - 4: [`1970s/1975-76/4-division4.csv`](1970s/1975-76/4-division4.csv) -  24 teams,  552 matches,  1442 goals,  46 rounds,  Sat 16 Aug 1975 - Mon 3 May 1976
+    - AFC Bournemouth, Barnsley FC, Bradford City AFC, Brentford FC, Cambridge United FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Hartlepool United FC, Huddersfield Town AFC, Lincoln City FC, Newport County AFC, Northampton Town FC, Reading FC, Rochdale AFC, Scunthorpe United FC, Southport FC, Stockport County FC, Swansea City AFC, Torquay United FC, Tranmere Rovers FC, Watford FC, Workington AFC
+      - (++) new in season 1975-76: (4) AFC Bournemouth, Huddersfield Town AFC, Tranmere Rovers FC, Watford FC
+      - (--) out up/down: (4) Chester FC, Mansfield Town FC, Rotherham United FC, Shrewsbury Town FC
+
+
+
+1974-75 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1974-75/1-division1.csv`](1970s/1974-75/1-division1.csv) -  22 teams,  462 matches,  1213 goals,  42 rounds,  Sat 17 Aug 1974 - Tue 29 Apr 1975
+    - Arsenal FC, Birmingham City FC, Burnley FC, Carlisle United FC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Luton Town FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Queens Park Rangers FC, Sheffield United FC, Stoke City FC, Tottenham Hotspur FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1974-75: (3) Carlisle United FC, Luton Town FC, Middlesbrough FC
+      - (--) out down: (3) Manchester United FC, Norwich City FC, Southampton FC
+
+  - 2: [`1970s/1974-75/2-division2.csv`](1970s/1974-75/2-division2.csv) -  22 teams,  462 matches,  1036 goals,  42 rounds,  Sat 17 Aug 1974 - Wed 30 Apr 1975
+    - Aston Villa FC, Blackpool FC, Bolton Wanderers FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Fulham FC, Hull City AFC, Leyton Orient FC, Manchester United FC, Millwall FC, Norwich City FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Oxford United FC, Portsmouth FC, Sheffield Wednesday FC, Southampton FC, Sunderland AFC, West Bromwich Albion FC, York City FC
+      - (++) new in season 1974-75: (6) Bristol Rovers FC, Manchester United FC, Norwich City FC, Oldham Athletic AFC, Southampton FC, York City FC
+      - (--) out up/down: (6) Carlisle United FC, Crystal Palace FC, Luton Town FC, Middlesbrough FC, Preston North End FC, Swindon Town FC
+
+  - 3: [`1970s/1974-75/3-division3.csv`](1970s/1974-75/3-division3.csv) -  24 teams,  552 matches,  1427 goals,  46 rounds,  Sat 17 Aug 1974 - Wed 7 May 1975
+    - AFC Bournemouth, Aldershot Town FC, Blackburn Rovers FC, Brighton & Hove Albion FC, Bury FC, Charlton Athletic FC, Chesterfield FC, Colchester United FC, Crystal Palace FC, FC Halifax Town, Gillingham FC, Grimsby Town FC, Hereford United FC (1924-2014), Huddersfield Town AFC, Peterborough United FC, Plymouth Argyle FC, Port Vale FC, Preston North End FC, Southend United FC, Swindon Town FC, Tranmere Rovers FC, Walsall FC, Watford FC, Wrexham AFC
+      - (++) new in season 1974-75: (7) Bury FC, Colchester United FC, Crystal Palace FC, Gillingham FC, Peterborough United FC, Preston North End FC, Swindon Town FC
+      - (--) out up/down: (7) Bristol Rovers FC, Cambridge United FC, Oldham Athletic AFC, Rochdale AFC, Shrewsbury Town FC, Southport FC, York City FC
+
+  - 4: [`1970s/1974-75/4-division4.csv`](1970s/1974-75/4-division4.csv) -  24 teams,  552 matches,  1407 goals,  46 rounds,  Sat 17 Aug 1974 - Mon 28 Apr 1975
+    - Barnsley FC, Bradford City AFC, Brentford FC, Cambridge United FC, Chester FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Hartlepool United FC, Lincoln City FC, Mansfield Town FC, Newport County AFC, Northampton Town FC, Reading FC, Rochdale AFC, Rotherham United FC, Scunthorpe United FC, Shrewsbury Town FC, Southport FC, Stockport County FC, Swansea City AFC, Torquay United FC, Workington AFC
+      - (++) new in season 1974-75: (4) Cambridge United FC, Rochdale AFC, Shrewsbury Town FC, Southport FC
+      - (--) out up/down: (4) Bury FC, Colchester United FC, Gillingham FC, Peterborough United FC
+
+
+
+1973-74 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1973-74/1-division1.csv`](1970s/1973-74/1-division1.csv) -  22 teams,  462 matches,  1107 goals,  42 rounds,  Sat 25 Aug 1973 - Sat 11 May 1974
+    - Arsenal FC, Birmingham City FC, Burnley FC, Chelsea FC, Coventry City FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Queens Park Rangers FC, Sheffield United FC, Southampton FC, Stoke City FC, Tottenham Hotspur FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1973-74: (2) Burnley FC, Queens Park Rangers FC
+      - (--) out down: (2) Crystal Palace FC, West Bromwich Albion FC
+
+  - 2: [`1970s/1973-74/2-division2.csv`](1970s/1973-74/2-division2.csv) -  22 teams,  462 matches,  1106 goals,  42 rounds,  Sat 25 Aug 1973 - Fri 3 May 1974
+    - Aston Villa FC, Blackpool FC, Bolton Wanderers FC, Bristol City FC, Cardiff City FC, Carlisle United FC, Crystal Palace FC, Fulham FC, Hull City AFC, Leyton Orient FC, Luton Town FC, Middlesbrough FC, Millwall FC, Nottingham Forest FC, Notts County FC, Oxford United FC, Portsmouth FC, Preston North End FC, Sheffield Wednesday FC, Sunderland AFC, Swindon Town FC, West Bromwich Albion FC
+      - (++) new in season 1973-74: (4) Bolton Wanderers FC, Crystal Palace FC, Notts County FC, West Bromwich Albion FC
+      - (--) out up/down: (4) Brighton & Hove Albion FC, Burnley FC, Huddersfield Town AFC, Queens Park Rangers FC
+
+  - 3: [`1970s/1973-74/3-division3.csv`](1970s/1973-74/3-division3.csv) -  24 teams,  552 matches,  1362 goals,  46 rounds,  Sat 25 Aug 1973 - Mon 6 May 1974
+    - AFC Bournemouth, Aldershot Town FC, Blackburn Rovers FC, Brighton & Hove Albion FC, Bristol Rovers FC, Cambridge United FC, Charlton Athletic FC, Chesterfield FC, FC Halifax Town, Grimsby Town FC, Hereford United FC (1924-2014), Huddersfield Town AFC, Oldham Athletic AFC, Plymouth Argyle FC, Port Vale FC, Rochdale AFC, Shrewsbury Town FC, Southend United FC, Southport FC, Tranmere Rovers FC, Walsall FC, Watford FC, Wrexham AFC, York City FC
+      - (++) new in season 1973-74: (6) Aldershot Town FC, Brighton & Hove Albion FC, Cambridge United FC, Hereford United FC (1924-2014), Huddersfield Town AFC, Southport FC
+      - (--) out up/down: (6) Bolton Wanderers FC, Brentford FC, Notts County FC, Rotherham United FC, Scunthorpe United FC, Swansea City AFC
+
+  - 4: [`1970s/1973-74/4-division4.csv`](1970s/1973-74/4-division4.csv) -  24 teams,  551 matches,  1362 goals,  Sat 25 Aug 1973 - Sat 11 May 1974
+    - **unbalanced rounds - add teams with matches played here**
+      - (++) new in season 1973-74: (4) Brentford FC, Rotherham United FC, Scunthorpe United FC, Swansea City AFC
+      - (--) out up/down: (4) Aldershot Town FC, Cambridge United FC, Hereford United FC (1924-2014), Southport FC
+
+
+
+1972-73 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1972-73/1-division1.csv`](1970s/1972-73/1-division1.csv) -  22 teams,  462 matches,  1160 goals,  42 rounds,  Sat 12 Aug 1972 - Wed 9 May 1973
+    - Arsenal FC, Birmingham City FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Sheffield United FC, Southampton FC, Stoke City FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1972-73: (2) Birmingham City FC, Norwich City FC
+      - (--) out down: (2) Huddersfield Town AFC, Nottingham Forest FC
+
+  - 2: [`1970s/1972-73/2-division2.csv`](1970s/1972-73/2-division2.csv) -  22 teams,  462 matches,  1156 goals,  42 rounds,  Sat 12 Aug 1972 - Wed 9 May 1973
+    - Aston Villa FC, Blackpool FC, Brighton & Hove Albion FC, Bristol City FC, Burnley FC, Cardiff City FC, Carlisle United FC, Fulham FC, Huddersfield Town AFC, Hull City AFC, Leyton Orient FC, Luton Town FC, Middlesbrough FC, Millwall FC, Nottingham Forest FC, Oxford United FC, Portsmouth FC, Preston North End FC, Queens Park Rangers FC, Sheffield Wednesday FC, Sunderland AFC, Swindon Town FC
+      - (++) new in season 1972-73: (4) Aston Villa FC, Brighton & Hove Albion FC, Huddersfield Town AFC, Nottingham Forest FC
+      - (--) out up/down: (4) Birmingham City FC, Charlton Athletic FC, Norwich City FC, Watford FC
+
+  - 3: [`1970s/1972-73/3-division3.csv`](1970s/1972-73/3-division3.csv) -  24 teams,  552 matches,  1371 goals,  46 rounds,  Sat 12 Aug 1972 - Tue 1 May 1973
+    - AFC Bournemouth, Blackburn Rovers FC, Bolton Wanderers FC, Brentford FC, Bristol Rovers FC, Charlton Athletic FC, Chesterfield FC, FC Halifax Town, Grimsby Town FC, Notts County FC, Oldham Athletic AFC, Plymouth Argyle FC, Port Vale FC, Rochdale AFC, Rotherham United FC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Swansea City AFC, Tranmere Rovers FC, Walsall FC, Watford FC, Wrexham AFC, York City FC
+      - (++) new in season 1972-73: (6) Brentford FC, Charlton Athletic FC, Grimsby Town FC, Scunthorpe United FC, Southend United FC, Watford FC
+      - (--) out up/down: (6) Aston Villa FC, Barnsley FC, Bradford City AFC, Brighton & Hove Albion FC, Mansfield Town FC, Torquay United FC
+
+  - 4: [`1970s/1972-73/4-division4.csv`](1970s/1972-73/4-division4.csv) -  24 teams,  552 matches,  1347 goals,  46 rounds,  Sat 12 Aug 1972 - Fri 4 May 1973
+    - Aldershot Town FC, Barnsley FC, Bradford City AFC, Bury FC, Cambridge United FC, Chester FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Gillingham FC, Hartlepool United FC, Hereford United FC (1924-2014), Lincoln City FC, Mansfield Town FC, Newport County AFC, Northampton Town FC, Peterborough United FC, Reading FC, Southport FC, Stockport County FC, Torquay United FC, Workington AFC
+      - (++) new in season 1972-73: (5) Barnsley FC, Bradford City AFC, Hereford United FC (1924-2014), Mansfield Town FC, Torquay United FC
+      - (--) out up/down: (5) Barrow AFC, Brentford FC, Grimsby Town FC, Scunthorpe United FC, Southend United FC
+
+
+
+1971-72 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1971-72/1-division1.csv`](1970s/1971-72/1-division1.csv) -  22 teams,  462 matches,  1160 goals,  42 rounds,  Sat 14 Aug 1971 - Thu 11 May 1972
+    - Arsenal FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Derby County FC, Everton FC, Huddersfield Town AFC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Sheffield United FC, Southampton FC, Stoke City FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1971-72: (2) Leicester City FC, Sheffield United FC
+      - (--) out down: (2) Blackpool FC, Burnley FC
+
+  - 2: [`1970s/1971-72/2-division2.csv`](1970s/1971-72/2-division2.csv) -  22 teams,  462 matches,  1194 goals,  42 rounds,  Sat 14 Aug 1971 - Tue 2 May 1972
+    - Birmingham City FC, Blackpool FC, Bristol City FC, Burnley FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Fulham FC, Hull City AFC, Leyton Orient FC, Luton Town FC, Middlesbrough FC, Millwall FC, Norwich City FC, Oxford United FC, Portsmouth FC, Preston North End FC, Queens Park Rangers FC, Sheffield Wednesday FC, Sunderland AFC, Swindon Town FC, Watford FC
+      - (++) new in season 1971-72: (4) Blackpool FC, Burnley FC, Fulham FC, Preston North End FC
+      - (--) out up/down: (4) Blackburn Rovers FC, Bolton Wanderers FC, Leicester City FC, Sheffield United FC
+
+  - 3: [`1970s/1971-72/3-division3.csv`](1970s/1971-72/3-division3.csv) -  24 teams,  552 matches,  1407 goals,  46 rounds,  Sat 14 Aug 1971 - Mon 15 May 1972
+    - AFC Bournemouth, Aston Villa FC, Barnsley FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Brighton & Hove Albion FC, Bristol Rovers FC, Chesterfield FC, FC Halifax Town, Mansfield Town FC, Notts County FC, Oldham Athletic AFC, Plymouth Argyle FC, Port Vale FC, Rochdale AFC, Rotherham United FC, Shrewsbury Town FC, Swansea City AFC, Torquay United FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC, York City FC
+      - (++) new in season 1971-72: (6) AFC Bournemouth, Blackburn Rovers FC, Bolton Wanderers FC, Notts County FC, Oldham Athletic AFC, York City FC
+      - (--) out up/down: (6) Bury FC, Doncaster Rovers FC, Fulham FC, Gillingham FC, Preston North End FC, Reading FC
+
+  - 4: [`1970s/1971-72/4-division4.csv`](1970s/1971-72/4-division4.csv) -  24 teams,  552 matches,  1496 goals,  46 rounds,  Sat 14 Aug 1971 - Thu 4 May 1972
+    - Aldershot Town FC, Barrow AFC, Brentford FC, Bury FC, Cambridge United FC, Chester FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Gillingham FC, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, Newport County AFC, Northampton Town FC, Peterborough United FC, Reading FC, Scunthorpe United FC, Southend United FC, Southport FC, Stockport County FC, Workington AFC
+      - (++) new in season 1971-72: (4) Bury FC, Doncaster Rovers FC, Gillingham FC, Reading FC
+      - (--) out up/down: (4) AFC Bournemouth, Notts County FC, Oldham Athletic AFC, York City FC
+
+
+
+1970-71 - 4 levels (1 2 3 4)
+  - 1: [`1970s/1970-71/1-division1.csv`](1970s/1970-71/1-division1.csv) -  22 teams,  462 matches,  1089 goals,  42 rounds,  Sat 15 Aug 1970 - Wed 5 May 1971
+    - Arsenal FC, Blackpool FC, Burnley FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Derby County FC, Everton FC, Huddersfield Town AFC, Ipswich Town FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Southampton FC, Stoke City FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1970-71: (2) Blackpool FC, Huddersfield Town AFC
+      - (--) out down: (2) Sheffield Wednesday FC, Sunderland AFC
+
+  - 2: [`1970s/1970-71/2-division2.csv`](1970s/1970-71/2-division2.csv) -  22 teams,  462 matches,  1141 goals,  42 rounds,  Sat 15 Aug 1970 - Tue 4 May 1971
+    - Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Bristol City FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Hull City AFC, Leicester City FC, Leyton Orient FC, Luton Town FC, Middlesbrough FC, Millwall FC, Norwich City FC, Oxford United FC, Portsmouth FC, Queens Park Rangers FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Swindon Town FC, Watford FC
+      - (++) new in season 1970-71: (4) Leyton Orient FC, Luton Town FC, Sheffield Wednesday FC, Sunderland AFC
+      - (--) out up/down: (4) Aston Villa FC, Blackpool FC, Huddersfield Town AFC, Preston North End FC
+
+  - 3: [`1970s/1970-71/3-division3.csv`](1970s/1970-71/3-division3.csv) -  24 teams,  552 matches,  1372 goals,  46 rounds,  Sat 15 Aug 1970 - Fri 7 May 1971
+    - Aston Villa FC, Barnsley FC, Bradford City AFC, Brighton & Hove Albion FC, Bristol Rovers FC, Bury FC, Chesterfield FC, Doncaster Rovers FC, FC Halifax Town, Fulham FC, Gillingham FC, Mansfield Town FC, Plymouth Argyle FC, Port Vale FC, Preston North End FC, Reading FC, Rochdale AFC, Rotherham United FC, Shrewsbury Town FC, Swansea City AFC, Torquay United FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC
+      - (++) new in season 1970-71: (6) Aston Villa FC, Chesterfield FC, Port Vale FC, Preston North End FC, Swansea City AFC, Wrexham AFC
+      - (--) out up/down: (6) AFC Bournemouth, Barrow AFC, Leyton Orient FC, Luton Town FC, Southport FC, Stockport County FC
+
+  - 4: [`1970s/1970-71/4-division4.csv`](1970s/1970-71/4-division4.csv) -  24 teams,  552 matches,  1527 goals,  46 rounds,  Sat 15 Aug 1970 - Fri 7 May 1971
+    - AFC Bournemouth, Aldershot Town FC, Barrow AFC, Brentford FC, Cambridge United FC, Chester FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Exeter City FC, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, Newport County AFC, Northampton Town FC, Notts County FC, Oldham Athletic AFC, Peterborough United FC, Scunthorpe United FC, Southend United FC, Southport FC, Stockport County FC, Workington AFC, York City FC
+      - (++) new in season 1970-71: (5) AFC Bournemouth, Barrow AFC, Cambridge United FC, Southport FC, Stockport County FC
+      - (--) out up/down: (5) Bradford Park Avenue AFC, Chesterfield FC, Port Vale FC, Swansea City AFC, Wrexham AFC
+
+
+
+1969-70 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1969-70/1-division1.csv`](1960s/1969-70/1-division1.csv) -  22 teams,  462 matches,  1212 goals,  42 rounds,  Sat 9 Aug 1969 - Sat 2 May 1970
+    - Arsenal FC, Burnley FC, Chelsea FC, Coventry City FC, Crystal Palace FC, Derby County FC, Everton FC, Ipswich Town FC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Sheffield Wednesday FC, Southampton FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1969-70: (2) Crystal Palace FC, Derby County FC
+      - (--) out down: (2) Leicester City FC, Queens Park Rangers FC
+
+  - 2: [`1960s/1969-70/2-division2.csv`](1960s/1969-70/2-division2.csv) -  22 teams,  462 matches,  1207 goals,  42 rounds,  Sat 9 Aug 1969 - Mon 20 Apr 1970
+    - Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Bristol City FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Huddersfield Town AFC, Hull City AFC, Leicester City FC, Middlesbrough FC, Millwall FC, Norwich City FC, Oxford United FC, Portsmouth FC, Preston North End FC, Queens Park Rangers FC, Sheffield United FC, Swindon Town FC, Watford FC
+      - (++) new in season 1969-70: (4) Leicester City FC, Queens Park Rangers FC, Swindon Town FC, Watford FC
+      - (--) out up/down: (4) Bury FC, Crystal Palace FC, Derby County FC, Fulham FC
+
+  - 3: [`1960s/1969-70/3-division3.csv`](1960s/1969-70/3-division3.csv) -  24 teams,  552 matches,  1460 goals,  46 rounds,  Sat 9 Aug 1969 - Mon 27 Apr 1970
+    - AFC Bournemouth, Barnsley FC, Barrow AFC, Bradford City AFC, Brighton & Hove Albion FC, Bristol Rovers FC, Bury FC, Doncaster Rovers FC, FC Halifax Town, Fulham FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Mansfield Town FC, Plymouth Argyle FC, Reading FC, Rochdale AFC, Rotherham United FC, Shrewsbury Town FC, Southport FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Walsall FC
+      - (++) new in season 1969-70: (6) Bradford City AFC, Bury FC, Doncaster Rovers FC, FC Halifax Town, Fulham FC, Rochdale AFC
+      - (--) out up/down: (6) Crewe Alexandra FC, Hartlepool United FC, Northampton Town FC, Oldham Athletic AFC, Swindon Town FC, Watford FC
+
+  - 4: [`1960s/1969-70/4-division4.csv`](1960s/1969-70/4-division4.csv) -  24 teams,  552 matches,  1464 goals,  46 rounds,  Sat 9 Aug 1969 - Fri 1 May 1970
+    - Aldershot Town FC, Bradford Park Avenue AFC, Brentford FC, Chester FC, Chesterfield FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Exeter City FC, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, Newport County AFC, Northampton Town FC, Notts County FC, Oldham Athletic AFC, Peterborough United FC, Port Vale FC, Scunthorpe United FC, Southend United FC, Swansea City AFC, Workington AFC, Wrexham AFC, York City FC
+      - (++) new in season 1969-70: (4) Crewe Alexandra FC, Hartlepool United FC, Northampton Town FC, Oldham Athletic AFC
+      - (--) out up/down: (4) Bradford City AFC, Doncaster Rovers FC, FC Halifax Town, Rochdale AFC
+
+
+
+1968-69 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1968-69/1-division1.csv`](1960s/1968-69/1-division1.csv) -  22 teams,  462 matches,  1213 goals,  42 rounds,  Sat 10 Aug 1968 - Sat 17 May 1969
+    - Arsenal FC, Burnley FC, Chelsea FC, Coventry City FC, Everton FC, Ipswich Town FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1968-69: (2) Ipswich Town FC, Queens Park Rangers FC
+      - (--) out down: (2) Fulham FC, Sheffield United FC
+
+  - 2: [`1960s/1968-69/2-division2.csv`](1960s/1968-69/2-division2.csv) -  22 teams,  462 matches,  1185 goals,  42 rounds,  Sat 10 Aug 1968 - Wed 30 Apr 1969
+    - Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Bristol City FC, Bury FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Crystal Palace FC, Derby County FC, Fulham FC, Huddersfield Town AFC, Hull City AFC, Middlesbrough FC, Millwall FC, Norwich City FC, Oxford United FC, Portsmouth FC, Preston North End FC, Sheffield United FC
+      - (++) new in season 1968-69: (4) Bury FC, Fulham FC, Oxford United FC, Sheffield United FC
+      - (--) out up/down: (4) Ipswich Town FC, Plymouth Argyle FC, Queens Park Rangers FC, Rotherham United FC
+
+  - 3: [`1960s/1968-69/3-division3.csv`](1960s/1968-69/3-division3.csv) -  24 teams,  552 matches,  1426 goals,  46 rounds,  Sat 10 Aug 1968 - Fri 9 May 1969
+    - AFC Bournemouth, Barnsley FC, Barrow AFC, Brighton & Hove Albion FC, Bristol Rovers FC, Crewe Alexandra FC, Gillingham FC, Hartlepool United FC, Leyton Orient FC, Luton Town FC, Mansfield Town FC, Northampton Town FC, Oldham Athletic AFC, Plymouth Argyle FC, Reading FC, Rotherham United FC, Shrewsbury Town FC, Southport FC, Stockport County FC, Swindon Town FC, Torquay United FC, Tranmere Rovers FC, Walsall FC, Watford FC
+      - (++) new in season 1968-69: (6) Barnsley FC, Crewe Alexandra FC, Hartlepool United FC, Luton Town FC, Plymouth Argyle FC, Rotherham United FC
+      - (--) out up/down: (6) Bury FC, Colchester United FC, Grimsby Town FC, Oxford United FC, Peterborough United FC, Scunthorpe United FC
+
+  - 4: [`1960s/1968-69/4-division4.csv`](1960s/1968-69/4-division4.csv) -  24 teams,  552 matches,  1372 goals,  46 rounds,  Sat 10 Aug 1968 - Mon 12 May 1969
+    - Aldershot Town FC, Bradford City AFC, Bradford Park Avenue AFC, Brentford FC, Chester FC, Chesterfield FC, Colchester United FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, FC Halifax Town, Grimsby Town FC, Lincoln City FC, Newport County AFC, Notts County FC, Peterborough United FC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Southend United FC, Swansea City AFC, Workington AFC, Wrexham AFC, York City FC
+      - (++) new in season 1968-69: (4) Colchester United FC, Grimsby Town FC, Peterborough United FC, Scunthorpe United FC
+      - (--) out up/down: (4) Barnsley FC, Crewe Alexandra FC, Hartlepool United FC, Luton Town FC
+
+
+
+1967-68 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1967-68/1-division1.csv`](1960s/1967-68/1-division1.csv) -  22 teams,  462 matches,  1398 goals,  42 rounds,  Sat 19 Aug 1967 - Tue 21 May 1968
+    - Arsenal FC, Burnley FC, Chelsea FC, Coventry City FC, Everton FC, Fulham FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1967-68: (2) Coventry City FC, Wolverhampton Wanderers FC
+      - (--) out down: (2) Aston Villa FC, Blackpool FC
+
+  - 2: [`1960s/1967-68/2-division2.csv`](1960s/1967-68/2-division2.csv) -  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 19 Aug 1967 - Wed 15 May 1968
+    - Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Bristol City FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Crystal Palace FC, Derby County FC, Huddersfield Town AFC, Hull City AFC, Ipswich Town FC, Middlesbrough FC, Millwall FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Preston North End FC, Queens Park Rangers FC, Rotherham United FC
+      - (++) new in season 1967-68: (4) Aston Villa FC, Blackpool FC, Middlesbrough FC, Queens Park Rangers FC
+      - (--) out up/down: (4) Bury FC, Coventry City FC, Northampton Town FC, Wolverhampton Wanderers FC
+
+  - 3: [`1960s/1967-68/3-division3.csv`](1960s/1967-68/3-division3.csv) -  24 teams,  552 matches,  1531 goals,  46 rounds,  Sat 19 Aug 1967 - Sat 11 May 1968
+    - AFC Bournemouth, Barrow AFC, Brighton & Hove Albion FC, Bristol Rovers FC, Bury FC, Colchester United FC, Gillingham FC, Grimsby Town FC, Leyton Orient FC, Mansfield Town FC, Northampton Town FC, Oldham Athletic AFC, Oxford United FC, Peterborough United FC, Reading FC, Scunthorpe United FC, Shrewsbury Town FC, Southport FC, Stockport County FC, Swindon Town FC, Torquay United FC, Tranmere Rovers FC, Walsall FC, Watford FC
+      - (++) new in season 1967-68: (6) Barrow AFC, Bury FC, Northampton Town FC, Southport FC, Stockport County FC, Tranmere Rovers FC
+      - (--) out up/down: (6) Darlington FC, Doncaster Rovers FC, Middlesbrough FC, Queens Park Rangers FC, Swansea City AFC, Workington AFC
+
+  - 4: [`1960s/1967-68/4-division4.csv`](1960s/1967-68/4-division4.csv) -  24 teams,  552 matches,  1485 goals,  46 rounds,  Sat 19 Aug 1967 - Sat 11 May 1968
+    - Aldershot Town FC, Barnsley FC, Bradford City AFC, Bradford Park Avenue AFC, Brentford FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Lincoln City FC, Luton Town FC, Newport County AFC, Notts County FC, Port Vale FC, Rochdale AFC, Southend United FC, Swansea City AFC, Workington AFC, Wrexham AFC, York City FC
+      - (++) new in season 1967-68: (4) Darlington FC, Doncaster Rovers FC, Swansea City AFC, Workington AFC
+      - (--) out up/down: (4) Barrow AFC, Southport FC, Stockport County FC, Tranmere Rovers FC
+
+
+
+1966-67 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1966-67/1-division1.csv`](1960s/1966-67/1-division1.csv) -  22 teams,  462 matches,  1387 goals,  42 rounds,  Sat 20 Aug 1966 - Tue 16 May 1967
+    - Arsenal FC, Aston Villa FC, Blackpool FC, Burnley FC, Chelsea FC, Everton FC, Fulham FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1966-67: (2) Manchester City FC, Southampton FC
+      - (--) out down: (2) Blackburn Rovers FC, Northampton Town FC
+
+  - 2: [`1960s/1966-67/2-division2.csv`](1960s/1966-67/2-division2.csv) -  22 teams,  462 matches,  1361 goals,  42 rounds,  Sat 20 Aug 1966 - Sat 13 May 1967
+    - Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Bristol City FC, Bury FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Derby County FC, Huddersfield Town AFC, Hull City AFC, Ipswich Town FC, Millwall FC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Preston North End FC, Rotherham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1966-67: (4) Blackburn Rovers FC, Hull City AFC, Millwall FC, Northampton Town FC
+      - (--) out up/down: (4) Leyton Orient FC, Manchester City FC, Middlesbrough FC, Southampton FC
+
+  - 3: [`1960s/1966-67/3-division3.csv`](1960s/1966-67/3-division3.csv) -  24 teams,  552 matches,  1646 goals,  46 rounds,  Sat 20 Aug 1966 - Sat 27 May 1967
+    - AFC Bournemouth, Brighton & Hove Albion FC, Bristol Rovers FC, Colchester United FC, Darlington FC, Doncaster Rovers FC, Gillingham FC, Grimsby Town FC, Leyton Orient FC, Mansfield Town FC, Middlesbrough FC, Oldham Athletic AFC, Oxford United FC, Peterborough United FC, Queens Park Rangers FC, Reading FC, Scunthorpe United FC, Shrewsbury Town FC, Swansea City AFC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC, Workington AFC
+      - (++) new in season 1966-67: (6) Colchester United FC, Darlington FC, Doncaster Rovers FC, Leyton Orient FC, Middlesbrough FC, Torquay United FC
+      - (--) out up/down: (6) Brentford FC, Exeter City FC, Hull City AFC, Millwall FC, Southend United FC, York City FC
+
+  - 4: [`1960s/1966-67/4-division4.csv`](1960s/1966-67/4-division4.csv) -  24 teams,  552 matches,  1500 goals,  46 rounds,  Sat 20 Aug 1966 - Fri 26 May 1967
+    - Aldershot Town FC, Barnsley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Brentford FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Exeter City FC, FC Halifax Town, Hartlepool United FC, Lincoln City FC, Luton Town FC, Newport County AFC, Notts County FC, Port Vale FC, Rochdale AFC, Southend United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+      - (++) new in season 1966-67: (4) Brentford FC, Exeter City FC, Southend United FC, York City FC
+      - (--) out up/down: (4) Colchester United FC, Darlington FC, Doncaster Rovers FC, Torquay United FC
+
+
+
+1965-66 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1965-66/1-division1.csv`](1960s/1965-66/1-division1.csv) -  22 teams,  462 matches,  1457 goals,  42 rounds,  Sat 21 Aug 1965 - Thu 19 May 1966
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Blackpool FC, Burnley FC, Chelsea FC, Everton FC, Fulham FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Newcastle United FC, Northampton Town FC, Nottingham Forest FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1965-66: (2) Newcastle United FC, Northampton Town FC
+      - (--) out down: (2) Birmingham City FC, Wolverhampton Wanderers FC
+
+  - 2: [`1960s/1965-66/2-division2.csv`](1960s/1965-66/2-division2.csv) -  22 teams,  462 matches,  1421 goals,  42 rounds,  Sat 21 Aug 1965 - Wed 18 May 1966
+    - Birmingham City FC, Bolton Wanderers FC, Bristol City FC, Bury FC, Cardiff City FC, Carlisle United FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Derby County FC, Huddersfield Town AFC, Ipswich Town FC, Leyton Orient FC, Manchester City FC, Middlesbrough FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Preston North End FC, Rotherham United FC, Southampton FC, Wolverhampton Wanderers FC
+      - (++) new in season 1965-66: (4) Birmingham City FC, Bristol City FC, Carlisle United FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (4) Newcastle United FC, Northampton Town FC, Swansea City AFC, Swindon Town FC
+
+  - 3: [`1960s/1965-66/3-division3.csv`](1960s/1965-66/3-division3.csv) -  24 teams,  552 matches,  1628 goals,  46 rounds,  Sat 21 Aug 1965 - Sat 28 May 1966
+    - AFC Bournemouth, Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Exeter City FC, Gillingham FC, Grimsby Town FC, Hull City AFC, Mansfield Town FC, Millwall FC, Oldham Athletic AFC, Oxford United FC, Peterborough United FC, Queens Park Rangers FC, Reading FC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Swansea City AFC, Swindon Town FC, Walsall FC, Watford FC, Workington AFC, York City FC
+      - (++) new in season 1965-66: (6) Brighton & Hove Albion FC, Millwall FC, Oxford United FC, Swansea City AFC, Swindon Town FC, York City FC
+      - (--) out up/down: (6) Barnsley FC, Bristol City FC, Carlisle United FC, Colchester United FC, Luton Town FC, Port Vale FC
+
+  - 4: [`1960s/1965-66/4-division4.csv`](1960s/1965-66/4-division4.csv) -  24 teams,  552 matches,  1723 goals,  46 rounds,  Sat 21 Aug 1965 - Sat 28 May 1966
+    - Aldershot Town FC, Barnsley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Chester FC, Chesterfield FC, Colchester United FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Hartlepool United FC, Lincoln City FC, Luton Town FC, Newport County AFC, Notts County FC, Port Vale FC, Rochdale AFC, Southport FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Wrexham AFC
+      - (++) new in season 1965-66: (4) Barnsley FC, Colchester United FC, Luton Town FC, Port Vale FC
+      - (--) out up/down: (4) Brighton & Hove Albion FC, Millwall FC, Oxford United FC, York City FC
+
+
+
+1964-65 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1964-65/1-division1.csv`](1960s/1964-65/1-division1.csv) -  22 teams,  462 matches,  1543 goals,  42 rounds,  Sat 22 Aug 1964 - Wed 28 Apr 1965
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Burnley FC, Chelsea FC, Everton FC, Fulham FC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Nottingham Forest FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1964-65: (2) Leeds United FC, Sunderland AFC
+      - (--) out down: (2) Bolton Wanderers FC, Ipswich Town FC
+
+  - 2: [`1960s/1964-65/2-division2.csv`](1960s/1964-65/2-division2.csv) -  22 teams,  462 matches,  1470 goals,  42 rounds,  Sat 22 Aug 1964 - Wed 28 Apr 1965
+    - Bolton Wanderers FC, Bury FC, Cardiff City FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Derby County FC, Huddersfield Town AFC, Ipswich Town FC, Leyton Orient FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Preston North End FC, Rotherham United FC, Southampton FC, Swansea City AFC, Swindon Town FC
+      - (++) new in season 1964-65: (4) Bolton Wanderers FC, Coventry City FC, Crystal Palace FC, Ipswich Town FC
+      - (--) out up/down: (4) Grimsby Town FC, Leeds United FC, Scunthorpe United FC, Sunderland AFC
+
+  - 3: [`1960s/1964-65/3-division3.csv`](1960s/1964-65/3-division3.csv) -  24 teams,  552 matches,  1667 goals,  46 rounds,  Sat 22 Aug 1964 - Thu 29 Apr 1965
+    - AFC Bournemouth, Barnsley FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Carlisle United FC, Colchester United FC, Exeter City FC, Gillingham FC, Grimsby Town FC, Hull City AFC, Luton Town FC, Mansfield Town FC, Oldham Athletic AFC, Peterborough United FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Scunthorpe United FC, Shrewsbury Town FC, Southend United FC, Walsall FC, Watford FC, Workington AFC
+      - (++) new in season 1964-65: (6) Carlisle United FC, Exeter City FC, Gillingham FC, Grimsby Town FC, Scunthorpe United FC, Workington AFC
+      - (--) out up/down: (6) Coventry City FC, Crewe Alexandra FC, Crystal Palace FC, Millwall FC, Notts County FC, Wrexham AFC
+
+  - 4: [`1960s/1964-65/4-division4.csv`](1960s/1964-65/4-division4.csv) -  24 teams,  552 matches,  1820 goals,  46 rounds,  Sat 22 Aug 1964 - Thu 29 Apr 1965
+    - Aldershot Town FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Brighton & Hove Albion FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Hartlepool United FC, Lincoln City FC, Millwall FC, Newport County AFC, Notts County FC, Oxford United FC, Rochdale AFC, Southport FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+      - (++) new in season 1964-65: (4) Crewe Alexandra FC, Millwall FC, Notts County FC, Wrexham AFC
+      - (--) out up/down: (4) Carlisle United FC, Exeter City FC, Gillingham FC, Workington AFC
+
+
+
+1963-64 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1963-64/1-division1.csv`](1960s/1963-64/1-division1.csv) -  22 teams,  462 matches,  1571 goals,  42 rounds,  Sat 24 Aug 1963 - Wed 29 Apr 1964
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Chelsea FC, Everton FC, Fulham FC, Ipswich Town FC, Leicester City FC, Liverpool FC, Manchester United FC, Nottingham Forest FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1963-64: (2) Chelsea FC, Stoke City FC
+      - (--) out down: (2) Leyton Orient FC, Manchester City FC
+
+  - 2: [`1960s/1963-64/2-division2.csv`](1960s/1963-64/2-division2.csv) -  22 teams,  462 matches,  1467 goals,  42 rounds,  Sat 24 Aug 1963 - Mon 27 Apr 1964
+    - Bury FC, Cardiff City FC, Charlton Athletic FC, Derby County FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Leyton Orient FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Preston North End FC, Rotherham United FC, Scunthorpe United FC, Southampton FC, Sunderland AFC, Swansea City AFC, Swindon Town FC
+      - (++) new in season 1963-64: (4) Leyton Orient FC, Manchester City FC, Northampton Town FC, Swindon Town FC
+      - (--) out up/down: (4) Chelsea FC, Luton Town FC, Stoke City FC, Walsall FC
+
+  - 3: [`1960s/1963-64/3-division3.csv`](1960s/1963-64/3-division3.csv) -  24 teams,  552 matches,  1730 goals,  46 rounds,  Sat 24 Aug 1963 - Fri 1 May 1964
+    - AFC Bournemouth, Barnsley FC, Brentford FC, Bristol City FC, Bristol Rovers FC, Colchester United FC, Coventry City FC, Crewe Alexandra FC, Crystal Palace FC, Hull City AFC, Luton Town FC, Mansfield Town FC, Millwall FC, Notts County FC, Oldham Athletic AFC, Peterborough United FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southend United FC, Walsall FC, Watford FC, Wrexham AFC
+      - (++) new in season 1963-64: (6) Brentford FC, Crewe Alexandra FC, Luton Town FC, Mansfield Town FC, Oldham Athletic AFC, Walsall FC
+      - (--) out up/down: (6) Bradford Park Avenue AFC, Brighton & Hove Albion FC, Carlisle United FC, FC Halifax Town, Northampton Town FC, Swindon Town FC
+
+  - 4: [`1960s/1963-64/4-division4.csv`](1960s/1963-64/4-division4.csv) -  24 teams,  552 matches,  1631 goals,  46 rounds,  Sat 24 Aug 1963 - Thu 30 Apr 1964
+    - Aldershot Town FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Brighton & Hove Albion FC, Carlisle United FC, Chester FC, Chesterfield FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, FC Halifax Town, Gillingham FC, Hartlepool United FC, Lincoln City FC, Newport County AFC, Oxford United FC, Rochdale AFC, Southport FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Workington AFC, York City FC
+      - (++) new in season 1963-64: (4) Bradford Park Avenue AFC, Brighton & Hove Albion FC, Carlisle United FC, FC Halifax Town
+      - (--) out up/down: (4) Brentford FC, Crewe Alexandra FC, Mansfield Town FC, Oldham Athletic AFC
+
+
+
+1962-63 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1962-63/1-division1.csv`](1960s/1962-63/1-division1.csv) -  22 teams,  462 matches,  1536 goals,  42 rounds,  Sat 18 Aug 1962 - Tue 21 May 1963
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Everton FC, Fulham FC, Ipswich Town FC, Leicester City FC, Leyton Orient FC, Liverpool FC, Manchester City FC, Manchester United FC, Nottingham Forest FC, Sheffield United FC, Sheffield Wednesday FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1962-63: (2) Leyton Orient FC, Liverpool FC
+      - (--) out down: (2) Cardiff City FC, Chelsea FC
+
+  - 2: [`1960s/1962-63/2-division2.csv`](1960s/1962-63/2-division2.csv) -  22 teams,  462 matches,  1496 goals,  42 rounds,  Sat 18 Aug 1962 - Fri 24 May 1963
+    - Bury FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Luton Town FC, Middlesbrough FC, Newcastle United FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Preston North End FC, Rotherham United FC, Scunthorpe United FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Walsall FC
+      - (++) new in season 1962-63: (4) Cardiff City FC, Chelsea FC, Grimsby Town FC, Portsmouth FC
+      - (--) out up/down: (4) Brighton & Hove Albion FC, Bristol Rovers FC, Leyton Orient FC, Liverpool FC
+
+  - 3: [`1960s/1962-63/3-division3.csv`](1960s/1962-63/3-division3.csv) -  24 teams,  552 matches,  1855 goals,  46 rounds,  Sat 18 Aug 1962 - Fri 24 May 1963
+    - AFC Bournemouth, Barnsley FC, Bradford Park Avenue AFC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Carlisle United FC, Colchester United FC, Coventry City FC, Crystal Palace FC, FC Halifax Town, Hull City AFC, Millwall FC, Northampton Town FC, Notts County FC, Peterborough United FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southend United FC, Swindon Town FC, Watford FC, Wrexham AFC
+      - (++) new in season 1962-63: (6) Brighton & Hove Albion FC, Bristol Rovers FC, Carlisle United FC, Colchester United FC, Millwall FC, Wrexham AFC
+      - (--) out up/down: (6) Brentford FC, Grimsby Town FC, Lincoln City FC, Newport County AFC, Portsmouth FC, Torquay United FC
+
+  - 4: [`1960s/1962-63/4-division4.csv`](1960s/1962-63/4-division4.csv) -  24 teams,  552 matches,  1755 goals,  46 rounds,  Sat 18 Aug 1962 - Thu 23 May 1963
+    - Aldershot Town FC, Barrow AFC, Bradford City AFC, Brentford FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Gillingham FC, Hartlepool United FC, Lincoln City FC, Mansfield Town FC, Newport County AFC, Oldham Athletic AFC, Oxford United FC, Rochdale AFC, Southport FC, Stockport County FC, Torquay United FC, Tranmere Rovers FC, Workington AFC, York City FC
+      - (++) new in season 1962-63: (5) Brentford FC, Lincoln City FC, Newport County AFC, Oxford United FC, Torquay United FC
+      - (--) out up/down: (5) Accrington Stanley FC, Carlisle United FC, Colchester United FC, Millwall FC, Wrexham AFC
+
+
+
+1961-62 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1961-62/1-division1.csv`](1960s/1961-62/1-division1.csv) -  22 teams,  462 matches,  1582 goals,  42 rounds,  Sat 19 Aug 1961 - Tue 1 May 1962
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Chelsea FC, Everton FC, Fulham FC, Ipswich Town FC, Leicester City FC, Manchester City FC, Manchester United FC, Nottingham Forest FC, Sheffield United FC, Sheffield Wednesday FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1961-62: (2) Ipswich Town FC, Sheffield United FC
+      - (--) out down: (2) Newcastle United FC, Preston North End FC
+
+  - 2: [`1960s/1961-62/2-division2.csv`](1960s/1961-62/2-division2.csv) -  22 teams,  462 matches,  1473 goals,  42 rounds,  Sat 19 Aug 1961 - Fri 4 May 1962
+    - Brighton & Hove Albion FC, Bristol Rovers FC, Bury FC, Charlton Athletic FC, Derby County FC, Huddersfield Town AFC, Leeds United FC, Leyton Orient FC, Liverpool FC, Luton Town FC, Middlesbrough FC, Newcastle United FC, Norwich City FC, Plymouth Argyle FC, Preston North End FC, Rotherham United FC, Scunthorpe United FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC, Walsall FC
+      - (++) new in season 1961-62: (4) Bury FC, Newcastle United FC, Preston North End FC, Walsall FC
+      - (--) out up/down: (4) Ipswich Town FC, Lincoln City FC, Portsmouth FC, Sheffield United FC
+
+  - 3: [`1960s/1961-62/3-division3.csv`](1960s/1961-62/3-division3.csv) -  24 teams,  552 matches,  1772 goals,  46 rounds,  Sat 19 Aug 1961 - Thu 3 May 1962
+    - AFC Bournemouth, Barnsley FC, Bradford Park Avenue AFC, Brentford FC, Bristol City FC, Coventry City FC, Crystal Palace FC, FC Halifax Town, Grimsby Town FC, Hull City AFC, Lincoln City FC, Newport County AFC, Northampton Town FC, Notts County FC, Peterborough United FC, Port Vale FC, Portsmouth FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southend United FC, Swindon Town FC, Torquay United FC, Watford FC
+      - (++) new in season 1961-62: (6) Bradford Park Avenue AFC, Crystal Palace FC, Lincoln City FC, Northampton Town FC, Peterborough United FC, Portsmouth FC
+      - (--) out up/down: (6) Bradford City AFC, Bury FC, Chesterfield FC, Colchester United FC, Tranmere Rovers FC, Walsall FC
+
+  - 4: [`1960s/1961-62/4-division4.csv`](1960s/1961-62/4-division4.csv) -  24 teams,  539 matches,  1769 goals,  Sat 19 Aug 1961 - Thu 3 May 1962
+    - **unbalanced rounds - add teams with matches played here**
+      - (++) new in season 1961-62: (4) Bradford City AFC, Chesterfield FC, Colchester United FC, Tranmere Rovers FC
+      - (--) out up/down: (4) Bradford Park Avenue AFC, Crystal Palace FC, Northampton Town FC, Peterborough United FC
+
+
+
+1960-61 - 4 levels (1 2 3 4)
+  - 1: [`1960s/1960-61/1-division1.csv`](1960s/1960-61/1-division1.csv) -  22 teams,  462 matches,  1724 goals,  42 rounds,  Sat 20 Aug 1960 - Sat 29 Apr 1961
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Chelsea FC, Everton FC, Fulham FC, Leicester City FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Preston North End FC, Sheffield Wednesday FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1960-61: (2) Aston Villa FC, Cardiff City FC
+      - (--) out down: (2) Leeds United FC, Luton Town FC
+
+  - 2: [`1960s/1960-61/2-division2.csv`](1960s/1960-61/2-division2.csv) -  22 teams,  462 matches,  1609 goals,  42 rounds,  Sat 20 Aug 1960 - Wed 3 May 1961
+    - Brighton & Hove Albion FC, Bristol Rovers FC, Charlton Athletic FC, Derby County FC, Huddersfield Town AFC, Ipswich Town FC, Leeds United FC, Leyton Orient FC, Lincoln City FC, Liverpool FC, Luton Town FC, Middlesbrough FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Rotherham United FC, Scunthorpe United FC, Sheffield United FC, Southampton FC, Stoke City FC, Sunderland AFC, Swansea City AFC
+      - (++) new in season 1960-61: (4) Leeds United FC, Luton Town FC, Norwich City FC, Southampton FC
+      - (--) out up/down: (4) Aston Villa FC, Bristol City FC, Cardiff City FC, Hull City AFC
+
+  - 3: [`1960s/1960-61/3-division3.csv`](1960s/1960-61/3-division3.csv) -  24 teams,  552 matches,  1842 goals,  46 rounds,  Sat 20 Aug 1960 - Wed 3 May 1961
+    - AFC Bournemouth, Barnsley FC, Bradford City AFC, Brentford FC, Bristol City FC, Bury FC, Chesterfield FC, Colchester United FC, Coventry City FC, FC Halifax Town, Grimsby Town FC, Hull City AFC, Newport County AFC, Notts County FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southend United FC, Swindon Town FC, Torquay United FC, Tranmere Rovers FC, Walsall FC, Watford FC
+      - (++) new in season 1960-61: (6) Bristol City FC, Hull City AFC, Notts County FC, Torquay United FC, Walsall FC, Watford FC
+      - (--) out up/down: (6) Accrington Stanley FC, Mansfield Town FC, Norwich City FC, Southampton FC, Wrexham AFC, York City FC
+
+  - 4: [`1960s/1960-61/4-division4.csv`](1960s/1960-61/4-division4.csv) -  24 teams,  552 matches,  1810 goals,  46 rounds,  Sat 20 Aug 1960 - Wed 3 May 1961
+    - Accrington Stanley FC, Aldershot Town FC, Barrow AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Crystal Palace FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Gillingham FC, Hartlepool United FC, Mansfield Town FC, Millwall FC, Northampton Town FC, Oldham Athletic AFC, Peterborough United FC, Rochdale AFC, Southport FC, Stockport County FC, Workington AFC, Wrexham AFC, York City FC
+      - (++) new in season 1960-61: (5) Accrington Stanley FC, Mansfield Town FC, Peterborough United FC, Wrexham AFC, York City FC
+      - (--) out up/down: (5) Gateshead FC, Notts County FC, Torquay United FC, Walsall FC, Watford FC
+
+
+
+1959-60 - 4 levels (1 2 3 4)
+  - 1: [`1950s/1959-60/1-division1.csv`](1950s/1959-60/1-division1.csv) -  22 teams,  462 matches,  1618 goals,  42 rounds,  Sat 22 Aug 1959 - Mon 2 May 1960
+    - Arsenal FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Chelsea FC, Everton FC, Fulham FC, Leeds United FC, Leicester City FC, Luton Town FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Preston North End FC, Sheffield Wednesday FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1959-60: (2) Fulham FC, Sheffield Wednesday FC
+      - (--) out down: (2) Aston Villa FC, Portsmouth FC
+
+  - 2: [`1950s/1959-60/2-division2.csv`](1950s/1959-60/2-division2.csv) -  22 teams,  462 matches,  1565 goals,  42 rounds,  Sat 22 Aug 1959 - Sat 30 Apr 1960
+    - Aston Villa FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Charlton Athletic FC, Derby County FC, Huddersfield Town AFC, Hull City AFC, Ipswich Town FC, Leyton Orient FC, Lincoln City FC, Liverpool FC, Middlesbrough FC, Plymouth Argyle FC, Portsmouth FC, Rotherham United FC, Scunthorpe United FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Swansea City AFC
+      - (++) new in season 1959-60: (4) Aston Villa FC, Hull City AFC, Plymouth Argyle FC, Portsmouth FC
+      - (--) out up/down: (4) Barnsley FC, Fulham FC, Grimsby Town FC, Sheffield Wednesday FC
+
+  - 3: [`1950s/1959-60/3-division3.csv`](1950s/1959-60/3-division3.csv) -  24 teams,  552 matches,  1816 goals,  46 rounds,  Sat 22 Aug 1959 - Wed 4 May 1960
+    - AFC Bournemouth, Accrington Stanley FC, Barnsley FC, Bradford City AFC, Brentford FC, Bury FC, Chesterfield FC, Colchester United FC, Coventry City FC, FC Halifax Town, Grimsby Town FC, Mansfield Town FC, Newport County AFC, Norwich City FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southampton FC, Southend United FC, Swindon Town FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+      - (++) new in season 1959-60: (6) Barnsley FC, Coventry City FC, Grimsby Town FC, Port Vale FC, Shrewsbury Town FC, York City FC
+      - (--) out up/down: (6) Doncaster Rovers FC, Hull City AFC, Notts County FC, Plymouth Argyle FC, Rochdale AFC, Stockport County FC
+
+  - 4: [`1950s/1959-60/4-division4.csv`](1950s/1959-60/4-division4.csv) -  24 teams,  552 matches,  1734 goals,  46 rounds,  Sat 22 Aug 1959 - Fri 6 May 1960
+    - Aldershot Town FC, Barrow AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Crystal Palace FC, Darlington FC, Doncaster Rovers FC, Exeter City FC, Gateshead FC, Gillingham FC, Hartlepool United FC, Millwall FC, Northampton Town FC, Notts County FC, Oldham Athletic AFC, Rochdale AFC, Southport FC, Stockport County FC, Torquay United FC, Walsall FC, Watford FC, Workington AFC
+      - (++) new in season 1959-60: (4) Doncaster Rovers FC, Notts County FC, Rochdale AFC, Stockport County FC
+      - (--) out up/down: (4) Coventry City FC, Port Vale FC, Shrewsbury Town FC, York City FC
+
+
+
+1958-59 - 4 levels (1 2 3 4)
+  - 1: [`1950s/1958-59/1-division1.csv`](1950s/1958-59/1-division1.csv) -  22 teams,  462 matches,  1692 goals,  42 rounds,  Sat 23 Aug 1958 - Mon 4 May 1959
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Chelsea FC, Everton FC, Leeds United FC, Leicester City FC, Luton Town FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Portsmouth FC, Preston North End FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1958-59: (2) Blackburn Rovers FC, West Ham United FC
+      - (--) out down: (2) Sheffield Wednesday FC, Sunderland AFC
+
+  - 2: [`1950s/1958-59/2-division2.csv`](1950s/1958-59/2-division2.csv) -  22 teams,  462 matches,  1604 goals,  42 rounds,  Sat 23 Aug 1958 - Thu 30 Apr 1959
+    - Barnsley FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Charlton Athletic FC, Derby County FC, Fulham FC, Grimsby Town FC, Huddersfield Town AFC, Ipswich Town FC, Leyton Orient FC, Lincoln City FC, Liverpool FC, Middlesbrough FC, Rotherham United FC, Scunthorpe United FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Swansea City AFC
+      - (++) new in season 1958-59: (4) Brighton & Hove Albion FC, Scunthorpe United FC, Sheffield Wednesday FC, Sunderland AFC
+      - (--) out up/down: (4) Blackburn Rovers FC, Doncaster Rovers FC, Notts County FC, West Ham United FC
+
+  - 3: [`1950s/1958-59/3-division3.csv`](1950s/1958-59/3-division3.csv) -  24 teams,  552 matches,  1733 goals,  46 rounds,  Sat 23 Aug 1958 - Mon 4 May 1959
+    - AFC Bournemouth, Accrington Stanley FC, Bradford City AFC, Brentford FC, Bury FC, Chesterfield FC, Colchester United FC, Doncaster Rovers FC, FC Halifax Town, Hull City AFC, Mansfield Town FC, Newport County AFC, Norwich City FC, Notts County FC, Plymouth Argyle FC, Queens Park Rangers FC, Reading FC, Rochdale AFC, Southampton FC, Southend United FC, Stockport County FC, Swindon Town FC, Tranmere Rovers FC, Wrexham AFC
+      - (++) new in season 1958-59: (13) AFC Bournemouth, Brentford FC, Colchester United FC, Doncaster Rovers FC, Newport County AFC, Norwich City FC, Notts County FC, Plymouth Argyle FC, Queens Park Rangers FC, Reading FC, Southampton FC, Southend United FC, Swindon Town FC
+      - (--) out up/down: (13) Barrow AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, Gateshead FC, Hartlepool United FC, Oldham Athletic AFC, Scunthorpe United FC, Southport FC, Workington AFC, York City FC
+
+  - 4: [`1950s/1958-59/4-division4.csv`](1950s/1958-59/4-division4.csv) -  24 teams,  552 matches,  1794 goals,  46 rounds,  Sat 23 Aug 1958 - Thu 7 May 1959
+    - Aldershot Town FC, Barrow AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Coventry City FC, Crewe Alexandra FC, Crystal Palace FC, Darlington FC, Exeter City FC, Gateshead FC, Gillingham FC, Hartlepool United FC, Millwall FC, Northampton Town FC, Oldham Athletic AFC, Port Vale FC, Shrewsbury Town FC, Southport FC, Torquay United FC, Walsall FC, Watford FC, Workington AFC, York City FC
+
+
+1957-58 - 3 levels (1 2 3)
+  - 1: [`1950s/1957-58/1-division1.csv`](1950s/1957-58/1-division1.csv) -  22 teams,  462 matches,  1721 goals,  42 rounds,  Sat 24 Aug 1957 - Wed 30 Apr 1958
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Chelsea FC, Everton FC, Leeds United FC, Leicester City FC, Luton Town FC, Manchester City FC, Manchester United FC, Newcastle United FC, Nottingham Forest FC, Portsmouth FC, Preston North End FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1957-58: (2) Leicester City FC, Nottingham Forest FC
+      - (--) out down: (2) Cardiff City FC, Charlton Athletic FC
+
+  - 2: [`1950s/1957-58/2-division2.csv`](1950s/1957-58/2-division2.csv) -  22 teams,  462 matches,  1637 goals,  42 rounds,  Sat 24 Aug 1957 - Thu 1 May 1958
+    - Barnsley FC, Blackburn Rovers FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Charlton Athletic FC, Derby County FC, Doncaster Rovers FC, Fulham FC, Grimsby Town FC, Huddersfield Town AFC, Ipswich Town FC, Leyton Orient FC, Lincoln City FC, Liverpool FC, Middlesbrough FC, Notts County FC, Rotherham United FC, Sheffield United FC, Stoke City FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1957-58: (4) Cardiff City FC, Charlton Athletic FC, Derby County FC, Ipswich Town FC
+      - (--) out up/down: (4) Bury FC, Leicester City FC, Nottingham Forest FC, Port Vale FC
+
+  - 3: [`1950s/1957-58/3a-division3n.csv`](1950s/1957-58/3a-division3n.csv), [`1950s/1957-58/3b-division3s.csv`](1950s/1957-58/3b-division3s.csv) (2)
+    - [`1950s/1957-58/3a-division3n.csv`](1950s/1957-58/3a-division3n.csv) -  24 teams,  552 matches,  1783 goals,  46 rounds,  Sat 24 Aug 1957 - Thu 1 May 1958
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Bury FC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Mansfield Town FC, Oldham Athletic AFC, Rochdale AFC, Scunthorpe United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Workington AFC, Wrexham AFC, York City FC
+    - [`1950s/1957-58/3b-division3s.csv`](1950s/1957-58/3b-division3s.csv) -  24 teams,  552 matches,  1701 goals,  46 rounds,  Sat 24 Aug 1957 - Fri 2 May 1958
+      - AFC Bournemouth, Aldershot Town FC, Brentford FC, Brighton & Hove Albion FC, Colchester United FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southampton FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1956-57 - 3 levels (1 2 3)
+  - 1: [`1950s/1956-57/1-division1.csv`](1950s/1956-57/1-division1.csv) -  22 teams,  462 matches,  1612 goals,  42 rounds,  Sat 18 Aug 1956 - Wed 1 May 1957
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Everton FC, Leeds United FC, Luton Town FC, Manchester City FC, Manchester United FC, Newcastle United FC, Portsmouth FC, Preston North End FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1956-57: (2) Leeds United FC, Sheffield Wednesday FC
+      - (--) out down: (2) Huddersfield Town AFC, Sheffield United FC
+
+  - 2: [`1950s/1956-57/2-division2.csv`](1950s/1956-57/2-division2.csv) -  22 teams,  462 matches,  1644 goals,  42 rounds,  Sat 18 Aug 1956 - Wed 1 May 1957
+    - Barnsley FC, Blackburn Rovers FC, Bristol City FC, Bristol Rovers FC, Bury FC, Doncaster Rovers FC, Fulham FC, Grimsby Town FC, Huddersfield Town AFC, Leicester City FC, Leyton Orient FC, Lincoln City FC, Liverpool FC, Middlesbrough FC, Nottingham Forest FC, Notts County FC, Port Vale FC, Rotherham United FC, Sheffield United FC, Stoke City FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1956-57: (4) Grimsby Town FC, Huddersfield Town AFC, Leyton Orient FC, Sheffield United FC
+      - (--) out up/down: (4) Hull City AFC, Leeds United FC, Plymouth Argyle FC, Sheffield Wednesday FC
+
+  - 3: [`1950s/1956-57/3a-division3n.csv`](1950s/1956-57/3a-division3n.csv), [`1950s/1956-57/3b-division3s.csv`](1950s/1956-57/3b-division3s.csv) (2)
+    - [`1950s/1956-57/3a-division3n.csv`](1950s/1956-57/3a-division3n.csv) -  24 teams,  552 matches,  1841 goals,  46 rounds,  Sat 18 Aug 1956 - Wed 1 May 1957
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Derby County FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Mansfield Town FC, Oldham Athletic AFC, Rochdale AFC, Scunthorpe United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Workington AFC, Wrexham AFC, York City FC
+    - [`1950s/1956-57/3b-division3s.csv`](1950s/1956-57/3b-division3s.csv) -  24 teams,  552 matches,  1760 goals,  46 rounds,  Sat 18 Aug 1956 - Sat 4 May 1957
+      - AFC Bournemouth, Aldershot Town FC, Brentford FC, Brighton & Hove Albion FC, Colchester United FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Ipswich Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southampton FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1955-56 - 3 levels (1 2 3)
+  - 1: [`1950s/1955-56/1-division1.csv`](1950s/1955-56/1-division1.csv) -  22 teams,  462 matches,  1529 goals,  42 rounds,  Sat 20 Aug 1955 - Wed 2 May 1956
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Everton FC, Huddersfield Town AFC, Luton Town FC, Manchester City FC, Manchester United FC, Newcastle United FC, Portsmouth FC, Preston North End FC, Sheffield United FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1955-56: (2) Birmingham City FC, Luton Town FC
+      - (--) out down: (2) Leicester City FC, Sheffield Wednesday FC
+
+  - 2: [`1950s/1955-56/2-division2.csv`](1950s/1955-56/2-division2.csv) -  22 teams,  462 matches,  1628 goals,  42 rounds,  Sat 20 Aug 1955 - Thu 3 May 1956
+    - Barnsley FC, Blackburn Rovers FC, Bristol City FC, Bristol Rovers FC, Bury FC, Doncaster Rovers FC, Fulham FC, Hull City AFC, Leeds United FC, Leicester City FC, Lincoln City FC, Liverpool FC, Middlesbrough FC, Nottingham Forest FC, Notts County FC, Plymouth Argyle FC, Port Vale FC, Rotherham United FC, Sheffield Wednesday FC, Stoke City FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1955-56: (4) Barnsley FC, Bristol City FC, Leicester City FC, Sheffield Wednesday FC
+      - (--) out up/down: (4) Birmingham City FC, Derby County FC, Ipswich Town FC, Luton Town FC
+
+  - 3: [`1950s/1955-56/3a-division3n.csv`](1950s/1955-56/3a-division3n.csv), [`1950s/1955-56/3b-division3s.csv`](1950s/1955-56/3b-division3s.csv) (2)
+    - [`1950s/1955-56/3a-division3n.csv`](1950s/1955-56/3a-division3n.csv) -  24 teams,  552 matches,  1771 goals,  46 rounds,  Sat 20 Aug 1955 - Thu 3 May 1956
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Derby County FC, FC Halifax Town, Gateshead FC, Grimsby Town FC, Hartlepool United FC, Mansfield Town FC, Oldham Athletic AFC, Rochdale AFC, Scunthorpe United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Workington AFC, Wrexham AFC, York City FC
+    - [`1950s/1955-56/3b-division3s.csv`](1950s/1955-56/3b-division3s.csv) -  24 teams,  552 matches,  1772 goals,  46 rounds,  Sat 20 Aug 1955 - Fri 4 May 1956
+      - AFC Bournemouth, Aldershot Town FC, Brentford FC, Brighton & Hove Albion FC, Colchester United FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Ipswich Town FC, Leyton Orient FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southampton FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1954-55 - 3 levels (1 2 3)
+  - 1: [`1950s/1954-55/1-division1.csv`](1950s/1954-55/1-division1.csv) -  22 teams,  462 matches,  1572 goals,  42 rounds,  Sat 21 Aug 1954 - Thu 5 May 1955
+    - Arsenal FC, Aston Villa FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Everton FC, Huddersfield Town AFC, Leicester City FC, Manchester City FC, Manchester United FC, Newcastle United FC, Portsmouth FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1954-55: (2) Everton FC, Leicester City FC
+      - (--) out down: (2) Liverpool FC, Middlesbrough FC
+
+  - 2: [`1950s/1954-55/2-division2.csv`](1950s/1954-55/2-division2.csv) -  22 teams,  462 matches,  1597 goals,  42 rounds,  Sat 21 Aug 1954 - Wed 4 May 1955
+    - Birmingham City FC, Blackburn Rovers FC, Bristol Rovers FC, Bury FC, Derby County FC, Doncaster Rovers FC, Fulham FC, Hull City AFC, Ipswich Town FC, Leeds United FC, Lincoln City FC, Liverpool FC, Luton Town FC, Middlesbrough FC, Nottingham Forest FC, Notts County FC, Plymouth Argyle FC, Port Vale FC, Rotherham United FC, Stoke City FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1954-55: (4) Ipswich Town FC, Liverpool FC, Middlesbrough FC, Port Vale FC
+      - (--) out up/down: (4) Brentford FC, Everton FC, Leicester City FC, Oldham Athletic AFC
+
+  - 3: [`1950s/1954-55/3a-division3n.csv`](1950s/1954-55/3a-division3n.csv), [`1950s/1954-55/3b-division3s.csv`](1950s/1954-55/3b-division3s.csv) (2)
+    - [`1950s/1954-55/3a-division3n.csv`](1950s/1954-55/3a-division3n.csv) -  24 teams,  552 matches,  1627 goals,  46 rounds,  Sat 21 Aug 1954 - Sat 7 May 1955
+      - Accrington Stanley FC, Barnsley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Grimsby Town FC, Hartlepool United FC, Mansfield Town FC, Oldham Athletic AFC, Rochdale AFC, Scunthorpe United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Workington AFC, Wrexham AFC, York City FC
+    - [`1950s/1954-55/3b-division3s.csv`](1950s/1954-55/3b-division3s.csv) -  24 teams,  552 matches,  1677 goals,  46 rounds,  Sat 21 Aug 1954 - Sat 7 May 1955
+      - AFC Bournemouth, Aldershot Town FC, Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Colchester United FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Leyton Orient FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southampton FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1953-54 - 3 levels (1 2 3)
+  - 1: [`1950s/1953-54/1-division1.csv`](1950s/1953-54/1-division1.csv) -  22 teams,  462 matches,  1626 goals,  42 rounds,  Wed 19 Aug 1953 - Mon 26 Apr 1954
+    - Arsenal FC, Aston Villa FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1953-54: (2) Huddersfield Town AFC, Sheffield United FC
+      - (--) out down: (2) Derby County FC, Stoke City FC
+
+  - 2: [`1950s/1953-54/2-division2.csv`](1950s/1953-54/2-division2.csv) -  22 teams,  462 matches,  1535 goals,  42 rounds,  Wed 19 Aug 1953 - Thu 29 Apr 1954
+    - Birmingham City FC, Blackburn Rovers FC, Brentford FC, Bristol Rovers FC, Bury FC, Derby County FC, Doncaster Rovers FC, Everton FC, Fulham FC, Hull City AFC, Leeds United FC, Leicester City FC, Lincoln City FC, Luton Town FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Plymouth Argyle FC, Rotherham United FC, Stoke City FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1953-54: (4) Bristol Rovers FC, Derby County FC, Oldham Athletic AFC, Stoke City FC
+      - (--) out up/down: (4) Barnsley FC, Huddersfield Town AFC, Sheffield United FC, Southampton FC
+
+  - 3: [`1950s/1953-54/3a-division3n.csv`](1950s/1953-54/3a-division3n.csv), [`1950s/1953-54/3b-division3s.csv`](1950s/1953-54/3b-division3s.csv) (2)
+    - [`1950s/1953-54/3a-division3n.csv`](1950s/1953-54/3a-division3n.csv) -  24 teams,  552 matches,  1587 goals,  46 rounds,  Wed 19 Aug 1953 - Thu 29 Apr 1954
+      - Accrington Stanley FC, Barnsley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Grimsby Town FC, Hartlepool United FC, Mansfield Town FC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Workington AFC, Wrexham AFC, York City FC
+    - [`1950s/1953-54/3b-division3s.csv`](1950s/1953-54/3b-division3s.csv) -  24 teams,  552 matches,  1695 goals,  46 rounds,  Wed 19 Aug 1953 - Sat 1 May 1954
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Colchester United FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Ipswich Town FC, Leyton Orient FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southampton FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1952-53 - 3 levels (1 2 3)
+  - 1: [`1950s/1952-53/1-division1.csv`](1950s/1952-53/1-division1.csv) -  22 teams,  462 matches,  1508 goals,  42 rounds,  Sat 23 Aug 1952 - Sat 2 May 1953
+    - Arsenal FC, Aston Villa FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Preston North End FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1952-53: (2) Cardiff City FC, Sheffield Wednesday FC
+      - (--) out down: (2) Fulham FC, Huddersfield Town AFC
+
+  - 2: [`1950s/1952-53/2-division2.csv`](1950s/1952-53/2-division2.csv) -  22 teams,  462 matches,  1535 goals,  42 rounds,  Sat 23 Aug 1952 - Fri 1 May 1953
+    - Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Brentford FC, Bury FC, Doncaster Rovers FC, Everton FC, Fulham FC, Huddersfield Town AFC, Hull City AFC, Leeds United FC, Leicester City FC, Lincoln City FC, Luton Town FC, Nottingham Forest FC, Notts County FC, Plymouth Argyle FC, Rotherham United FC, Sheffield United FC, Southampton FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1952-53: (4) Fulham FC, Huddersfield Town AFC, Lincoln City FC, Plymouth Argyle FC
+      - (--) out up/down: (4) Cardiff City FC, Coventry City FC, Queens Park Rangers FC, Sheffield Wednesday FC
+
+  - 3: [`1950s/1952-53/3a-division3n.csv`](1950s/1952-53/3a-division3n.csv), [`1950s/1952-53/3b-division3s.csv`](1950s/1952-53/3b-division3s.csv) (2)
+    - [`1950s/1952-53/3a-division3n.csv`](1950s/1952-53/3a-division3n.csv) -  24 teams,  552 matches,  1604 goals,  46 rounds,  Sat 23 Aug 1952 - Thu 30 Apr 1953
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Grimsby Town FC, Hartlepool United FC, Mansfield Town FC, Oldham Athletic AFC, Port Vale FC, Rochdale AFC, Scunthorpe United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Workington AFC, Wrexham AFC, York City FC
+    - [`1950s/1952-53/3b-division3s.csv`](1950s/1952-53/3b-division3s.csv) -  24 teams,  552 matches,  1745 goals,  46 rounds,  Sat 23 Aug 1952 - Sat 2 May 1953
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Colchester United FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Ipswich Town FC, Leyton Orient FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Shrewsbury Town FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1951-52 - 3 levels (1 2 3)
+  - 1: [`1950s/1951-52/1-division1.csv`](1950s/1951-52/1-division1.csv) -  22 teams,  462 matches,  1490 goals,  42 rounds,  Sat 18 Aug 1951 - Sat 3 May 1952
+    - Arsenal FC, Aston Villa FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Fulham FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Preston North End FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1951-52: (2) Manchester City FC, Preston North End FC
+      - (--) out down: (2) Everton FC, Sheffield Wednesday FC
+
+  - 2: [`1950s/1951-52/2-division2.csv`](1950s/1951-52/2-division2.csv) -  22 teams,  462 matches,  1488 goals,  42 rounds,  Sat 18 Aug 1951 - Sat 3 May 1952
+    - Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Brentford FC, Bury FC, Cardiff City FC, Coventry City FC, Doncaster Rovers FC, Everton FC, Hull City AFC, Leeds United FC, Leicester City FC, Luton Town FC, Nottingham Forest FC, Notts County FC, Queens Park Rangers FC, Rotherham United FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1951-52: (4) Everton FC, Nottingham Forest FC, Rotherham United FC, Sheffield Wednesday FC
+      - (--) out up/down: (4) Chesterfield FC, Grimsby Town FC, Manchester City FC, Preston North End FC
+
+  - 3: [`1950s/1951-52/3a-division3n.csv`](1950s/1951-52/3a-division3n.csv), [`1950s/1951-52/3b-division3s.csv`](1950s/1951-52/3b-division3s.csv) (2)
+    - [`1950s/1951-52/3a-division3n.csv`](1950s/1951-52/3a-division3n.csv) -  24 teams,  552 matches,  1658 goals,  46 rounds,  Sat 18 Aug 1951 - Sat 3 May 1952
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, Mansfield Town FC, Oldham Athletic AFC, Rochdale AFC, Scunthorpe United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Workington AFC, Wrexham AFC, York City FC
+    - [`1950s/1951-52/3b-division3s.csv`](1950s/1951-52/3b-division3s.csv) -  24 teams,  552 matches,  1740 goals,  46 rounds,  Sat 18 Aug 1951 - Sat 3 May 1952
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Colchester United FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Ipswich Town FC, Leyton Orient FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Port Vale FC, Reading FC, Shrewsbury Town FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1950-51 - 3 levels (1 2 3)
+  - 1: [`1950s/1950-51/1-division1.csv`](1950s/1950-51/1-division1.csv) -  22 teams,  462 matches,  1413 goals,  42 rounds,  Sat 19 Aug 1950 - Sat 5 May 1951
+    - Arsenal FC, Aston Villa FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Fulham FC, Huddersfield Town AFC, Liverpool FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1950-51: (2) Sheffield Wednesday FC, Tottenham Hotspur FC
+      - (--) out down: (2) Birmingham City FC, Manchester City FC
+
+  - 2: [`1950s/1950-51/2-division2.csv`](1950s/1950-51/2-division2.csv) -  22 teams,  462 matches,  1469 goals,  42 rounds,  Sat 19 Aug 1950 - Sat 5 May 1951
+    - Barnsley FC, Birmingham City FC, Blackburn Rovers FC, Brentford FC, Bury FC, Cardiff City FC, Chesterfield FC, Coventry City FC, Doncaster Rovers FC, Grimsby Town FC, Hull City AFC, Leeds United FC, Leicester City FC, Luton Town FC, Manchester City FC, Notts County FC, Preston North End FC, Queens Park Rangers FC, Sheffield United FC, Southampton FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1950-51: (4) Birmingham City FC, Doncaster Rovers FC, Manchester City FC, Notts County FC
+      - (--) out up/down: (4) Bradford Park Avenue AFC, Plymouth Argyle FC, Sheffield Wednesday FC, Tottenham Hotspur FC
+
+  - 3: [`1950s/1950-51/3a-division3n.csv`](1950s/1950-51/3a-division3n.csv), [`1950s/1950-51/3b-division3s.csv`](1950s/1950-51/3b-division3s.csv) (2)
+    - [`1950s/1950-51/3a-division3n.csv`](1950s/1950-51/3a-division3n.csv) -  24 teams,  552 matches,  1608 goals,  46 rounds,  Sat 19 Aug 1950 - Sat 5 May 1951
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Lincoln City FC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Rochdale AFC, Rotherham United FC, Scunthorpe United FC, Shrewsbury Town FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+    - [`1950s/1950-51/3b-division3s.csv`](1950s/1950-51/3b-division3s.csv) -  24 teams,  552 matches,  1623 goals,  46 rounds,  Sat 19 Aug 1950 - Sat 5 May 1951
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Colchester United FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Ipswich Town FC, Leyton Orient FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Nottingham Forest FC, Plymouth Argyle FC, Port Vale FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1949-50 - 3 levels (1 2 3)
+  - 1: [`1940s/1949-50/1-division1.csv`](1940s/1949-50/1-division1.csv) -  22 teams,  462 matches,  1247 goals,  42 rounds,  Sat 20 Aug 1949 - Sat 6 May 1950
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Fulham FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1949-50: (2) Fulham FC, West Bromwich Albion FC
+      - (--) out down: (2) Preston North End FC, Sheffield United FC
+
+  - 2: [`1940s/1949-50/2-division2.csv`](1940s/1949-50/2-division2.csv) -  22 teams,  462 matches,  1231 goals,  42 rounds,  Sat 20 Aug 1949 - Sat 6 May 1950
+    - Barnsley FC, Blackburn Rovers FC, Bradford Park Avenue AFC, Brentford FC, Bury FC, Cardiff City FC, Chesterfield FC, Coventry City FC, Grimsby Town FC, Hull City AFC, Leeds United FC, Leicester City FC, Luton Town FC, Plymouth Argyle FC, Preston North End FC, Queens Park Rangers FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Swansea City AFC, Tottenham Hotspur FC, West Ham United FC
+      - (++) new in season 1949-50: (4) Hull City AFC, Preston North End FC, Sheffield United FC, Swansea City AFC
+      - (--) out up/down: (4) Fulham FC, Lincoln City FC, Nottingham Forest FC, West Bromwich Albion FC
+
+  - 3: [`1940s/1949-50/3a-division3n.csv`](1940s/1949-50/3a-division3n.csv), [`1940s/1949-50/3b-division3s.csv`](1940s/1949-50/3b-division3s.csv) (2)
+    - [`1940s/1949-50/3a-division3n.csv`](1940s/1949-50/3a-division3n.csv) -  22 teams,  462 matches,  1315 goals,  42 rounds,  Sat 20 Aug 1949 - Sat 6 May 1950
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Lincoln City FC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+    - [`1940s/1949-50/3b-division3s.csv`](1940s/1949-50/3b-division3s.csv) -  22 teams,  462 matches,  1336 goals,  42 rounds,  Sat 20 Aug 1949 - Sat 6 May 1950
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Crystal Palace FC, Exeter City FC, Ipswich Town FC, Leyton Orient FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Nottingham Forest FC, Notts County FC, Port Vale FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1948-49 - 3 levels (1 2 3)
+  - 1: [`1940s/1948-49/1-division1.csv`](1940s/1948-49/1-division1.csv) -  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 21 Aug 1948 - Sat 7 May 1949
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Preston North End FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1948-49: (2) Birmingham City FC, Newcastle United FC
+      - (--) out down: (2) Blackburn Rovers FC, Grimsby Town FC
+
+  - 2: [`1940s/1948-49/2-division2.csv`](1940s/1948-49/2-division2.csv) -  22 teams,  462 matches,  1303 goals,  42 rounds,  Sat 21 Aug 1948 - Sat 7 May 1949
+    - Barnsley FC, Blackburn Rovers FC, Bradford Park Avenue AFC, Brentford FC, Bury FC, Cardiff City FC, Chesterfield FC, Coventry City FC, Fulham FC, Grimsby Town FC, Leeds United FC, Leicester City FC, Lincoln City FC, Luton Town FC, Nottingham Forest FC, Plymouth Argyle FC, Queens Park Rangers FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1948-49: (4) Blackburn Rovers FC, Grimsby Town FC, Lincoln City FC, Queens Park Rangers FC
+      - (--) out up/down: (4) Birmingham City FC, Doncaster Rovers FC, Millwall FC, Newcastle United FC
+
+  - 3: [`1940s/1948-49/3a-division3n.csv`](1940s/1948-49/3a-division3n.csv), [`1940s/1948-49/3b-division3s.csv`](1940s/1948-49/3b-division3s.csv) (2)
+    - [`1940s/1948-49/3a-division3n.csv`](1940s/1948-49/3a-division3n.csv) -  22 teams,  462 matches,  1301 goals,  42 rounds,  Sat 21 Aug 1948 - Sat 7 May 1949
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+    - [`1940s/1948-49/3b-division3s.csv`](1940s/1948-49/3b-division3s.csv) -  22 teams,  462 matches,  1347 goals,  42 rounds,  Sat 21 Aug 1948 - Sat 7 May 1949
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Crystal Palace FC, Exeter City FC, Ipswich Town FC, Leyton Orient FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Notts County FC, Port Vale FC, Reading FC, Southend United FC, Swansea City AFC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1947-48 - 3 levels (1 2 3)
+  - 1: [`1940s/1947-48/1-division1.csv`](1940s/1947-48/1-division1.csv) -  22 teams,  462 matches,  1343 goals,  42 rounds,  Sat 23 Aug 1947 - Sat 1 May 1948
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Burnley FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Portsmouth FC, Preston North End FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1947-48: (2) Burnley FC, Manchester City FC
+      - (--) out down: (2) Brentford FC, Leeds United FC
+
+  - 2: [`1940s/1947-48/2-division2.csv`](1940s/1947-48/2-division2.csv) -  22 teams,  462 matches,  1247 goals,  42 rounds,  Sat 23 Aug 1947 - Sat 1 May 1948
+    - Barnsley FC, Birmingham City FC, Bradford Park Avenue AFC, Brentford FC, Bury FC, Cardiff City FC, Chesterfield FC, Coventry City FC, Doncaster Rovers FC, Fulham FC, Leeds United FC, Leicester City FC, Luton Town FC, Millwall FC, Newcastle United FC, Nottingham Forest FC, Plymouth Argyle FC, Sheffield Wednesday FC, Southampton FC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1947-48: (4) Brentford FC, Cardiff City FC, Doncaster Rovers FC, Leeds United FC
+      - (--) out up/down: (4) Burnley FC, Manchester City FC, Newport County AFC, Swansea City AFC
+
+  - 3: [`1940s/1947-48/3a-division3n.csv`](1940s/1947-48/3a-division3n.csv), [`1940s/1947-48/3b-division3s.csv`](1940s/1947-48/3b-division3s.csv) (2)
+    - [`1940s/1947-48/3a-division3n.csv`](1940s/1947-48/3a-division3n.csv) -  22 teams,  462 matches,  1369 goals,  42 rounds,  Sat 23 Aug 1947 - Sat 1 May 1948
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Lincoln City FC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+    - [`1940s/1947-48/3b-division3s.csv`](1940s/1947-48/3b-division3s.csv) -  22 teams,  462 matches,  1327 goals,  42 rounds,  Sat 23 Aug 1947 - Sat 1 May 1948
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Crystal Palace FC, Exeter City FC, Ipswich Town FC, Leyton Orient FC, Newport County AFC, Northampton Town FC, Norwich City FC, Notts County FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swansea City AFC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1946-47 - 3 levels (1 2 3)
+  - 1: [`1940s/1946-47/1-division1.csv`](1940s/1946-47/1-division1.csv) -  22 teams,  462 matches,  1513 goals,  42 rounds,  Sat 31 Aug 1946 - Sat 14 Jun 1947
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Brentford FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Portsmouth FC, Preston North End FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Wolverhampton Wanderers FC
+  - 2: [`1940s/1946-47/2-division2.csv`](1940s/1946-47/2-division2.csv) -  22 teams,  462 matches,  1547 goals,  42 rounds,  Sat 31 Aug 1946 - Sat 14 Jun 1947
+    - Barnsley FC, Birmingham City FC, Bradford Park Avenue AFC, Burnley FC, Bury FC, Chesterfield FC, Coventry City FC, Fulham FC, Leicester City FC, Luton Town FC, Manchester City FC, Millwall FC, Newcastle United FC, Newport County AFC, Nottingham Forest FC, Plymouth Argyle FC, Sheffield Wednesday FC, Southampton FC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+  - 3: [`1940s/1946-47/3a-division3n.csv`](1940s/1946-47/3a-division3n.csv), [`1940s/1946-47/3b-division3s.csv`](1940s/1946-47/3b-division3s.csv) (2)
+    - [`1940s/1946-47/3a-division3n.csv`](1940s/1946-47/3a-division3n.csv) -  22 teams,  462 matches,  1537 goals,  42 rounds,  Sat 31 Aug 1946 - Sat 14 Jun 1947
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Lincoln City FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+    - [`1940s/1946-47/3b-division3s.csv`](1940s/1946-47/3b-division3s.csv) -  22 teams,  462 matches,  1458 goals,  42 rounds,  Sat 31 Aug 1946 - Sat 7 Jun 1947
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Crystal Palace FC, Exeter City FC, Ipswich Town FC, Leyton Orient FC, Mansfield Town FC, Northampton Town FC, Norwich City FC, Notts County FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1939-40 - 3 levels (1 2 3)
+  - 1: [`1930s/1939-40/1-division1.csv`](1930s/1939-40/1-division1.csv) -  22 teams,  33 matches,  83 goals,  3 rounds,  start: ???, end: ???
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Brentford FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Portsmouth FC, Preston North End FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1939-40: (2) Blackburn Rovers FC, Sheffield United FC
+      - (--) out down: (2) Birmingham City FC, Leicester City FC
+
+  - 2: [`1930s/1939-40/2-division2.csv`](1930s/1939-40/2-division2.csv) -  22 teams,  32 matches,  110 goals,  start: ???, end: ???
+    - **unbalanced rounds - add teams with matches played here**
+      - (++) new in season 1939-40: (4) Barnsley FC, Birmingham City FC, Leicester City FC, Newport County AFC
+      - (--) out up/down: (4) Blackburn Rovers FC, Norwich City FC, Sheffield United FC, Tranmere Rovers FC
+
+  - 3: [`1930s/1939-40/3a-division3n.csv`](1930s/1939-40/3a-division3n.csv), [`1930s/1939-40/3b-division3s.csv`](1930s/1939-40/3b-division3s.csv) (2)
+    - [`1930s/1939-40/3a-division3n.csv`](1930s/1939-40/3a-division3n.csv) -  22 teams,  31 matches,  87 goals,  start: ???, end: ???
+      - **unbalanced rounds - add teams with matches played here**
+    - [`1930s/1939-40/3b-division3s.csv`](1930s/1939-40/3b-division3s.csv) -  22 teams,  32 matches,  102 goals,  start: ???, end: ???
+      - **unbalanced rounds - add teams with matches played here**
+
+
+1938-39 - 3 levels (1 2 3)
+  - 1: [`1930s/1938-39/1-division1.csv`](1930s/1938-39/1-division1.csv) -  22 teams,  462 matches,  1418 goals,  42 rounds,  Sat 27 Aug 1938 - Sat 6 May 1939
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Brentford FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Portsmouth FC, Preston North End FC, Stoke City FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1938-39: (2) Aston Villa FC, Manchester United FC
+      - (--) out down: (2) Manchester City FC, West Bromwich Albion FC
+
+  - 2: [`1930s/1938-39/2-division2.csv`](1930s/1938-39/2-division2.csv) -  22 teams,  462 matches,  1441 goals,  42 rounds,  Sat 27 Aug 1938 - Sat 6 May 1939
+    - Blackburn Rovers FC, Bradford Park Avenue AFC, Burnley FC, Bury FC, Chesterfield FC, Coventry City FC, Fulham FC, Luton Town FC, Manchester City FC, Millwall FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Plymouth Argyle FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Swansea City AFC, Tottenham Hotspur FC, Tranmere Rovers FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1938-39: (4) Manchester City FC, Millwall FC, Tranmere Rovers FC, West Bromwich Albion FC
+      - (--) out up/down: (4) Aston Villa FC, Barnsley FC, Manchester United FC, Stockport County FC
+
+  - 3: [`1930s/1938-39/3a-division3n.csv`](1930s/1938-39/3a-division3n.csv), [`1930s/1938-39/3b-division3s.csv`](1930s/1938-39/3b-division3s.csv) (2)
+    - [`1930s/1938-39/3a-division3n.csv`](1930s/1938-39/3a-division3n.csv) -  22 teams,  462 matches,  1609 goals,  42 rounds,  Sat 27 Aug 1938 - Sat 6 May 1939
+      - Accrington Stanley FC, Barnsley FC, Barrow AFC, Bradford City AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Lincoln City FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Wrexham AFC, York City FC
+    - [`1930s/1938-39/3b-division3s.csv`](1930s/1938-39/3b-division3s.csv) -  22 teams,  462 matches,  1319 goals,  42 rounds,  Sat 27 Aug 1938 - Sat 6 May 1939
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Crystal Palace FC, Exeter City FC, Ipswich Town FC, Leyton Orient FC, Mansfield Town FC, Newport County AFC, Northampton Town FC, Notts County FC, Port Vale FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1937-38 - 3 levels (1 2 3)
+  - 1: [`1930s/1937-38/1-division1.csv`](1930s/1937-38/1-division1.csv) -  22 teams,  462 matches,  1430 goals,  42 rounds,  Sat 28 Aug 1937 - Sat 7 May 1938
+    - Arsenal FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Brentford FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Middlesbrough FC, Portsmouth FC, Preston North End FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1937-38: (2) Blackpool FC, Leicester City FC
+      - (--) out down: (2) Manchester United FC, Sheffield Wednesday FC
+
+  - 2: [`1930s/1937-38/2-division2.csv`](1930s/1937-38/2-division2.csv) -  22 teams,  462 matches,  1346 goals,  42 rounds,  Sat 28 Aug 1937 - Sat 7 May 1938
+    - Aston Villa FC, Barnsley FC, Blackburn Rovers FC, Bradford Park Avenue AFC, Burnley FC, Bury FC, Chesterfield FC, Coventry City FC, Fulham FC, Luton Town FC, Manchester United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Plymouth Argyle FC, Sheffield United FC, Sheffield Wednesday FC, Southampton FC, Stockport County FC, Swansea City AFC, Tottenham Hotspur FC, West Ham United FC
+      - (++) new in season 1937-38: (4) Luton Town FC, Manchester United FC, Sheffield Wednesday FC, Stockport County FC
+      - (--) out up/down: (4) Blackpool FC, Bradford City AFC, Doncaster Rovers FC, Leicester City FC
+
+  - 3: [`1930s/1937-38/3a-division3n.csv`](1930s/1937-38/3a-division3n.csv), [`1930s/1937-38/3b-division3s.csv`](1930s/1937-38/3b-division3s.csv) (2)
+    - [`1930s/1937-38/3a-division3n.csv`](1930s/1937-38/3a-division3n.csv) -  22 teams,  462 matches,  1401 goals,  42 rounds,  Sat 28 Aug 1937 - Sat 7 May 1938
+      - Accrington Stanley FC, Barrow AFC, Bradford City AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Lincoln City FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Port Vale FC, Rochdale AFC, Rotherham United FC, Southport FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+    - [`1930s/1937-38/3b-division3s.csv`](1930s/1937-38/3b-division3s.csv) -  22 teams,  462 matches,  1264 goals,  42 rounds,  Sat 28 Aug 1937 - Sat 7 May 1938
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Leyton Orient FC, Mansfield Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Notts County FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1936-37 - 3 levels (1 2 3)
+  - 1: [`1930s/1936-37/1-division1.csv`](1930s/1936-37/1-division1.csv) -  22 teams,  462 matches,  1555 goals,  42 rounds,  Sat 29 Aug 1936 - Sat 1 May 1937
+    - Arsenal FC, Birmingham City FC, Bolton Wanderers FC, Brentford FC, Charlton Athletic FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Portsmouth FC, Preston North End FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1936-37: (2) Charlton Athletic FC, Manchester United FC
+      - (--) out down: (2) Aston Villa FC, Blackburn Rovers FC
+
+  - 2: [`1930s/1936-37/2-division2.csv`](1930s/1936-37/2-division2.csv) -  22 teams,  462 matches,  1479 goals,  42 rounds,  Sat 29 Aug 1936 - Sat 1 May 1937
+    - Aston Villa FC, Barnsley FC, Blackburn Rovers FC, Blackpool FC, Bradford City AFC, Bradford Park Avenue AFC, Burnley FC, Bury FC, Chesterfield FC, Coventry City FC, Doncaster Rovers FC, Fulham FC, Leicester City FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Plymouth Argyle FC, Sheffield United FC, Southampton FC, Swansea City AFC, Tottenham Hotspur FC, West Ham United FC
+      - (++) new in season 1936-37: (4) Aston Villa FC, Blackburn Rovers FC, Chesterfield FC, Coventry City FC
+      - (--) out up/down: (4) Charlton Athletic FC, Hull City AFC, Manchester United FC, Port Vale FC
+
+  - 3: [`1930s/1936-37/3a-division3n.csv`](1930s/1936-37/3a-division3n.csv), [`1930s/1936-37/3b-division3s.csv`](1930s/1936-37/3b-division3s.csv) (2)
+    - [`1930s/1936-37/3a-division3n.csv`](1930s/1936-37/3a-division3n.csv) -  22 teams,  462 matches,  1602 goals,  42 rounds,  Sat 29 Aug 1936 - Sat 1 May 1937
+      - Accrington Stanley FC, Barrow AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Lincoln City FC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Port Vale FC, Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wrexham AFC, York City FC
+    - [`1930s/1936-37/3b-division3s.csv`](1930s/1936-37/3b-division3s.csv) -  22 teams,  462 matches,  1497 goals,  42 rounds,  Sat 29 Aug 1936 - Sat 1 May 1937
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Notts County FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1935-36 - 3 levels (1 2 3)
+  - 1: [`1930s/1935-36/1-division1.csv`](1930s/1935-36/1-division1.csv) -  22 teams,  462 matches,  1556 goals,  42 rounds,  Sat 31 Aug 1935 - Sat 2 May 1936
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Brentford FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Liverpool FC, Manchester City FC, Middlesbrough FC, Portsmouth FC, Preston North End FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1935-36: (2) Bolton Wanderers FC, Brentford FC
+      - (--) out down: (2) Leicester City FC, Tottenham Hotspur FC
+
+  - 2: [`1930s/1935-36/2-division2.csv`](1930s/1935-36/2-division2.csv) -  22 teams,  462 matches,  1533 goals,  42 rounds,  Sat 31 Aug 1935 - Sat 2 May 1936
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Bradford Park Avenue AFC, Burnley FC, Bury FC, Charlton Athletic FC, Doncaster Rovers FC, Fulham FC, Hull City AFC, Leicester City FC, Manchester United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Plymouth Argyle FC, Port Vale FC, Sheffield United FC, Southampton FC, Swansea City AFC, Tottenham Hotspur FC, West Ham United FC
+      - (++) new in season 1935-36: (4) Charlton Athletic FC, Doncaster Rovers FC, Leicester City FC, Tottenham Hotspur FC
+      - (--) out up/down: (4) Bolton Wanderers FC, Brentford FC, Notts County FC, Oldham Athletic AFC
+
+  - 3: [`1930s/1935-36/3a-division3n.csv`](1930s/1935-36/3a-division3n.csv), [`1930s/1935-36/3b-division3s.csv`](1930s/1935-36/3b-division3s.csv) (2)
+    - [`1930s/1935-36/3a-division3n.csv`](1930s/1935-36/3a-division3n.csv) -  22 teams,  462 matches,  1533 goals,  42 rounds,  Sat 31 Aug 1935 - Sat 2 May 1936
+      - Accrington Stanley FC, Barrow AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Lincoln City FC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Oldham Athletic AFC, Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC, York City FC
+    - [`1930s/1935-36/3b-division3s.csv`](1930s/1935-36/3b-division3s.csv) -  22 teams,  462 matches,  1497 goals,  42 rounds,  Sat 31 Aug 1935 - Sat 2 May 1936
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Notts County FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Watford FC
+
+
+1934-35 - 3 levels (1 2 3)
+  - 1: [`1930s/1934-35/1-division1.csv`](1930s/1934-35/1-division1.csv) -  22 teams,  462 matches,  1677 goals,  42 rounds,  Sat 25 Aug 1934 - Sat 4 May 1935
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Middlesbrough FC, Portsmouth FC, Preston North End FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1934-35: (2) Grimsby Town FC, Preston North End FC
+      - (--) out down: (2) Newcastle United FC, Sheffield United FC
+
+  - 2: [`1930s/1934-35/2-division2.csv`](1930s/1934-35/2-division2.csv) -  22 teams,  462 matches,  1502 goals,  42 rounds,  Sat 25 Aug 1934 - Sat 4 May 1935
+    - Barnsley FC, Blackpool FC, Bolton Wanderers FC, Bradford City AFC, Bradford Park Avenue AFC, Brentford FC, Burnley FC, Bury FC, Fulham FC, Hull City AFC, Manchester United FC, Newcastle United FC, Norwich City FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Plymouth Argyle FC, Port Vale FC, Sheffield United FC, Southampton FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1934-35: (4) Barnsley FC, Newcastle United FC, Norwich City FC, Sheffield United FC
+      - (--) out up/down: (4) Grimsby Town FC, Lincoln City FC, Millwall FC, Preston North End FC
+
+  - 3: [`1930s/1934-35/3a-division3n.csv`](1930s/1934-35/3a-division3n.csv), [`1930s/1934-35/3b-division3s.csv`](1930s/1934-35/3b-division3s.csv) (2)
+    - [`1930s/1934-35/3a-division3n.csv`](1930s/1934-35/3a-division3n.csv) -  22 teams,  462 matches,  1593 goals,  42 rounds,  Sat 25 Aug 1934 - Sat 4 May 1935
+      - Accrington Stanley FC, Barrow AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Lincoln City FC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC, York City FC
+    - [`1930s/1934-35/3b-division3s.csv`](1930s/1934-35/3b-division3s.csv) -  22 teams,  462 matches,  1534 goals,  42 rounds,  Sat 25 Aug 1934 - Sat 4 May 1935
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Watford FC
+
+
+1933-34 - 3 levels (1 2 3)
+  - 1: [`1930s/1933-34/1-division1.csv`](1930s/1933-34/1-division1.csv) -  22 teams,  462 matches,  1524 goals,  42 rounds,  Sat 26 Aug 1933 - Sat 5 May 1934
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Chelsea FC, Derby County FC, Everton FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1933-34: (2) Stoke City FC, Tottenham Hotspur FC
+      - (--) out down: (2) Blackpool FC, Bolton Wanderers FC
+
+  - 2: [`1930s/1933-34/2-division2.csv`](1930s/1933-34/2-division2.csv) -  22 teams,  462 matches,  1441 goals,  42 rounds,  Sat 26 Aug 1933 - Sat 5 May 1934
+    - Blackpool FC, Bolton Wanderers FC, Bradford City AFC, Bradford Park Avenue AFC, Brentford FC, Burnley FC, Bury FC, Fulham FC, Grimsby Town FC, Hull City AFC, Lincoln City FC, Manchester United FC, Millwall FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Plymouth Argyle FC, Port Vale FC, Preston North End FC, Southampton FC, Swansea City AFC, West Ham United FC
+      - (++) new in season 1933-34: (4) Blackpool FC, Bolton Wanderers FC, Brentford FC, Hull City AFC
+      - (--) out up/down: (4) Charlton Athletic FC, Chesterfield FC, Stoke City FC, Tottenham Hotspur FC
+
+  - 3: [`1930s/1933-34/3a-division3n.csv`](1930s/1933-34/3a-division3n.csv), [`1930s/1933-34/3b-division3s.csv`](1930s/1933-34/3b-division3s.csv) (2)
+    - [`1930s/1933-34/3a-division3n.csv`](1930s/1933-34/3a-division3n.csv) -  22 teams,  462 matches,  1800 goals,  42 rounds,  Sat 26 Aug 1933 - Sat 5 May 1934
+      - Accrington Stanley FC, Barnsley FC, Barrow AFC, Carlisle United FC, Chester FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC, York City FC
+    - [`1930s/1933-34/3b-division3s.csv`](1930s/1933-34/3b-division3s.csv) -  22 teams,  462 matches,  1526 goals,  42 rounds,  Sat 26 Aug 1933 - Sat 5 May 1934
+      - AFC Bournemouth, Aldershot Town FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Newport County AFC, Northampton Town FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Watford FC
+
+
+1932-33 - 3 levels (1 2 3)
+  - 1: [`1930s/1932-33/1-division1.csv`](1930s/1932-33/1-division1.csv) -  22 teams,  462 matches,  1645 goals,  42 rounds,  Sat 27 Aug 1932 - Sat 6 May 1933
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Chelsea FC, Derby County FC, Everton FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1932-33: (2) Leeds United FC, Wolverhampton Wanderers FC
+      - (--) out down: (2) Grimsby Town FC, West Ham United FC
+
+  - 2: [`1930s/1932-33/2-division2.csv`](1930s/1932-33/2-division2.csv) -  22 teams,  462 matches,  1542 goals,  42 rounds,  Sat 27 Aug 1932 - Sat 6 May 1933
+    - Bradford City AFC, Bradford Park Avenue AFC, Burnley FC, Bury FC, Charlton Athletic FC, Chesterfield FC, Fulham FC, Grimsby Town FC, Lincoln City FC, Manchester United FC, Millwall FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Plymouth Argyle FC, Port Vale FC, Preston North End FC, Southampton FC, Stoke City FC, Swansea City AFC, Tottenham Hotspur FC, West Ham United FC
+      - (++) new in season 1932-33: (4) Fulham FC, Grimsby Town FC, Lincoln City FC, West Ham United FC
+      - (--) out up/down: (4) Barnsley FC, Bristol City FC, Leeds United FC, Wolverhampton Wanderers FC
+
+  - 3: [`1930s/1932-33/3a-division3n.csv`](1930s/1932-33/3a-division3n.csv), [`1930s/1932-33/3b-division3s.csv`](1930s/1932-33/3b-division3s.csv) (2)
+    - [`1930s/1932-33/3a-division3n.csv`](1930s/1932-33/3a-division3n.csv) -  22 teams,  462 matches,  1691 goals,  42 rounds,  Sat 27 Aug 1932 - Sat 6 May 1933
+      - Accrington Stanley FC, Barnsley FC, Barrow AFC, Carlisle United FC, Chester FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Mansfield Town FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Walsall FC, Wrexham AFC, York City FC
+    - [`1930s/1932-33/3b-division3s.csv`](1930s/1932-33/3b-division3s.csv) -  22 teams,  462 matches,  1634 goals,  42 rounds,  Sat 27 Aug 1932 - Sat 6 May 1933
+      - AFC Bournemouth, Aldershot Town FC, Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Cardiff City FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Newport County AFC, Northampton Town FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Torquay United FC, Watford FC
+
+
+1931-32 - 3 levels (1 2 3)
+  - 1: [`1930s/1931-32/1-division1.csv`](1930s/1931-32/1-division1.csv) -  22 teams,  462 matches,  1727 goals,  42 rounds,  Sat 29 Aug 1931 - Sat 7 May 1932
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Chelsea FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leicester City FC, Liverpool FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1931-32: (2) Everton FC, West Bromwich Albion FC
+      - (--) out down: (2) Leeds United FC, Manchester United FC
+
+  - 2: [`1930s/1931-32/2-division2.csv`](1930s/1931-32/2-division2.csv) -  22 teams,  462 matches,  1567 goals,  42 rounds,  Sat 29 Aug 1931 - Sat 7 May 1932
+    - Barnsley FC, Bradford City AFC, Bradford Park Avenue AFC, Bristol City FC, Burnley FC, Bury FC, Charlton Athletic FC, Chesterfield FC, Leeds United FC, Manchester United FC, Millwall FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Plymouth Argyle FC, Port Vale FC, Preston North End FC, Southampton FC, Stoke City FC, Swansea City AFC, Tottenham Hotspur FC, Wolverhampton Wanderers FC
+      - (++) new in season 1931-32: (4) Chesterfield FC, Leeds United FC, Manchester United FC, Notts County FC
+      - (--) out up/down: (4) Cardiff City FC, Everton FC, Reading FC, West Bromwich Albion FC
+
+  - 3: [`1930s/1931-32/3a-division3n.csv`](1930s/1931-32/3a-division3n.csv), [`1930s/1931-32/3b-division3s.csv`](1930s/1931-32/3b-division3s.csv) (2)
+    - [`1930s/1931-32/3a-division3n.csv`](1930s/1931-32/3a-division3n.csv) -  22 teams,  432 matches,  1555 goals,  Sat 29 Aug 1931 - Sat 7 May 1932
+      - **unbalanced rounds - add teams with matches played here**
+    - [`1930s/1931-32/3b-division3s.csv`](1930s/1931-32/3b-division3s.csv) -  22 teams,  462 matches,  1694 goals,  42 rounds,  Sat 29 Aug 1931 - Sat 7 May 1932
+      - AFC Bournemouth, Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Cardiff City FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Fulham FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Mansfield Town FC, Northampton Town FC, Norwich City FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Thames AFC (1928-1932), Torquay United FC, Watford FC
+
+
+1930-31 - 3 levels (1 2 3)
+  - 1: [`1930s/1930-31/1-division1.csv`](1930s/1930-31/1-division1.csv) -  22 teams,  462 matches,  1823 goals,  42 rounds,  Sat 30 Aug 1930 - Sat 2 May 1931
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Blackpool FC, Bolton Wanderers FC, Chelsea FC, Derby County FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, West Ham United FC
+      - (++) new in season 1930-31: (2) Blackpool FC, Chelsea FC
+      - (--) out down: (2) Burnley FC, Everton FC
+
+  - 2: [`1930s/1930-31/2-division2.csv`](1930s/1930-31/2-division2.csv) -  22 teams,  462 matches,  1608 goals,  42 rounds,  Sat 30 Aug 1930 - Sat 2 May 1931
+    - Barnsley FC, Bradford City AFC, Bradford Park Avenue AFC, Bristol City FC, Burnley FC, Bury FC, Cardiff City FC, Charlton Athletic FC, Everton FC, Millwall FC, Nottingham Forest FC, Oldham Athletic AFC, Plymouth Argyle FC, Port Vale FC, Preston North End FC, Reading FC, Southampton FC, Stoke City FC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1930-31: (4) Burnley FC, Everton FC, Plymouth Argyle FC, Port Vale FC
+      - (--) out up/down: (4) Blackpool FC, Chelsea FC, Hull City AFC, Notts County FC
+
+  - 3: [`1930s/1930-31/3a-division3n.csv`](1930s/1930-31/3a-division3n.csv), [`1930s/1930-31/3b-division3s.csv`](1930s/1930-31/3b-division3s.csv) (2)
+    - [`1930s/1930-31/3a-division3n.csv`](1930s/1930-31/3a-division3n.csv) -  22 teams,  462 matches,  1714 goals,  42 rounds,  Sat 30 Aug 1930 - Sat 2 May 1931
+      - Accrington Stanley FC, Barrow AFC, Carlisle United FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Gateshead FC, Hartlepool United FC, Hull City AFC, Lincoln City FC, Nelson FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wigan Borough FC (1920-1931), Wrexham AFC, York City FC
+    - [`1930s/1930-31/3b-division3s.csv`](1930s/1930-31/3b-division3s.csv) -  22 teams,  462 matches,  1669 goals,  42 rounds,  Sat 30 Aug 1930 - Sat 2 May 1931
+      - AFC Bournemouth, Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Fulham FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Newport County AFC, Northampton Town FC, Norwich City FC, Notts County FC, Queens Park Rangers FC, Southend United FC, Swindon Town FC, Thames AFC (1928-1932), Torquay United FC, Walsall FC, Watford FC
+
+
+1929-30 - 3 levels (1 2 3)
+  - 1: [`1920s/1929-30/1-division1.csv`](1920s/1929-30/1-division1.csv) -  22 teams,  462 matches,  1758 goals,  42 rounds,  Sat 31 Aug 1929 - Sat 3 May 1930
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Derby County FC, Everton FC, Grimsby Town FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, West Ham United FC
+      - (++) new in season 1929-30: (2) Grimsby Town FC, Middlesbrough FC
+      - (--) out down: (2) Bury FC, Cardiff City FC
+
+  - 2: [`1920s/1929-30/2-division2.csv`](1920s/1929-30/2-division2.csv) -  22 teams,  462 matches,  1513 goals,  42 rounds,  Sat 31 Aug 1929 - Sat 3 May 1930
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Bradford Park Avenue AFC, Bristol City FC, Bury FC, Cardiff City FC, Charlton Athletic FC, Chelsea FC, Hull City AFC, Millwall FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Preston North End FC, Reading FC, Southampton FC, Stoke City FC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1929-30: (4) Bradford City AFC, Bury FC, Cardiff City FC, Charlton Athletic FC
+      - (--) out up/down: (4) Grimsby Town FC, Leyton Orient FC, Middlesbrough FC, Port Vale FC
+
+  - 3: [`1920s/1929-30/3a-division3n.csv`](1920s/1929-30/3a-division3n.csv), [`1920s/1929-30/3b-division3s.csv`](1920s/1929-30/3b-division3s.csv) (2)
+    - [`1920s/1929-30/3a-division3n.csv`](1920s/1929-30/3a-division3n.csv) -  22 teams,  462 matches,  1681 goals,  42 rounds,  Sat 31 Aug 1929 - Sat 3 May 1930
+      - Accrington Stanley FC, Barrow AFC, Carlisle United FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Hartlepool United FC, Lincoln City FC, Nelson FC, New Brighton Tower FC (1898-1901), Port Vale FC, Rochdale AFC, Rotherham United FC, South Shields FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wigan Borough FC (1920-1931), Wrexham AFC, York City FC
+    - [`1920s/1929-30/3b-division3s.csv`](1920s/1929-30/3b-division3s.csv) -  22 teams,  462 matches,  1632 goals,  42 rounds,  Sat 31 Aug 1929 - Sat 3 May 1930
+      - AFC Bournemouth, Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Fulham FC, Gillingham FC, Leyton Orient FC, Luton Town FC, Merthyr Town FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Queens Park Rangers FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1928-29 - 3 levels (1 2 3)
+  - 1: [`1920s/1928-29/1-division1.csv`](1920s/1928-29/1-division1.csv) -  22 teams,  462 matches,  1688 goals,  42 rounds,  Sat 25 Aug 1928 - Sat 4 May 1929
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Bury FC, Cardiff City FC, Derby County FC, Everton FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Portsmouth FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, West Ham United FC
+      - (++) new in season 1928-29: (2) Leeds United FC, Manchester City FC
+      - (--) out down: (2) Middlesbrough FC, Tottenham Hotspur FC
+
+  - 2: [`1920s/1928-29/2-division2.csv`](1920s/1928-29/2-division2.csv) -  22 teams,  462 matches,  1576 goals,  42 rounds,  Sat 25 Aug 1928 - Sat 4 May 1929
+    - Barnsley FC, Blackpool FC, Bradford Park Avenue AFC, Bristol City FC, Chelsea FC, Grimsby Town FC, Hull City AFC, Leyton Orient FC, Middlesbrough FC, Millwall FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Port Vale FC, Preston North End FC, Reading FC, Southampton FC, Stoke City FC, Swansea City AFC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1928-29: (4) Bradford Park Avenue AFC, Middlesbrough FC, Millwall FC, Tottenham Hotspur FC
+      - (--) out up/down: (4) Fulham FC, Leeds United FC, Manchester City FC, South Shields FC
+
+  - 3: [`1920s/1928-29/3a-division3n.csv`](1920s/1928-29/3a-division3n.csv), [`1920s/1928-29/3b-division3s.csv`](1920s/1928-29/3b-division3s.csv) (2)
+    - [`1920s/1928-29/3a-division3n.csv`](1920s/1928-29/3a-division3n.csv) -  22 teams,  462 matches,  1696 goals,  42 rounds,  Sat 25 Aug 1928 - Sat 4 May 1929
+      - Accrington Stanley FC, Ashington AFC, Barrow AFC, Bradford City AFC, Carlisle United FC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, FC Halifax Town, Hartlepool United FC, Lincoln City FC, Nelson FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham United FC, South Shields FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wigan Borough FC (1920-1931), Wrexham AFC
+    - [`1920s/1928-29/3b-division3s.csv`](1920s/1928-29/3b-division3s.csv) -  22 teams,  462 matches,  1614 goals,  42 rounds,  Sat 25 Aug 1928 - Sat 4 May 1929
+      - AFC Bournemouth, Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Fulham FC, Gillingham FC, Luton Town FC, Merthyr Town FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Queens Park Rangers FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1927-28 - 3 levels (1 2 3)
+  - 1: [`1920s/1927-28/1-division1.csv`](1920s/1927-28/1-division1.csv) -  22 teams,  462 matches,  1765 goals,  42 rounds,  Sat 27 Aug 1927 - Sat 5 May 1928
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Bury FC, Cardiff City FC, Derby County FC, Everton FC, Huddersfield Town AFC, Leicester City FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Portsmouth FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Ham United FC
+      - (++) new in season 1927-28: (2) Middlesbrough FC, Portsmouth FC
+      - (--) out down: (2) Leeds United FC, West Bromwich Albion FC
+
+  - 2: [`1920s/1927-28/2-division2.csv`](1920s/1927-28/2-division2.csv) -  22 teams,  462 matches,  1607 goals,  42 rounds,  Sat 27 Aug 1927 - Sat 5 May 1928
+    - Barnsley FC, Blackpool FC, Bristol City FC, Chelsea FC, Fulham FC, Grimsby Town FC, Hull City AFC, Leeds United FC, Leyton Orient FC, Manchester City FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Port Vale FC, Preston North End FC, Reading FC, South Shields FC, Southampton FC, Stoke City FC, Swansea City AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1927-28: (4) Bristol City FC, Leeds United FC, Stoke City FC, West Bromwich Albion FC
+      - (--) out up/down: (4) Bradford City AFC, Darlington FC, Middlesbrough FC, Portsmouth FC
+
+  - 3: [`1920s/1927-28/3a-division3n.csv`](1920s/1927-28/3a-division3n.csv), [`1920s/1927-28/3b-division3s.csv`](1920s/1927-28/3b-division3s.csv) (2)
+    - [`1920s/1927-28/3a-division3n.csv`](1920s/1927-28/3a-division3n.csv) -  22 teams,  462 matches,  1676 goals,  42 rounds,  Sat 27 Aug 1927 - Sat 5 May 1928
+      - Accrington Stanley FC, Ashington AFC, Barrow AFC, Bradford City AFC, Bradford Park Avenue AFC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Durham City AFC, FC Halifax Town, Hartlepool United FC, Lincoln City FC, Nelson FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Tranmere Rovers FC, Wigan Borough FC (1920-1931), Wrexham AFC
+    - [`1920s/1927-28/3b-division3s.csv`](1920s/1927-28/3b-division3s.csv) -  22 teams,  462 matches,  1680 goals,  42 rounds,  Sat 27 Aug 1927 - Sat 5 May 1928
+      - AFC Bournemouth, Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Luton Town FC, Merthyr Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Queens Park Rangers FC, Southend United FC, Swindon Town FC, Torquay United FC, Walsall FC, Watford FC
+
+
+1926-27 - 3 levels (1 2 3)
+  - 1: [`1920s/1926-27/1-division1.csv`](1920s/1926-27/1-division1.csv) -  22 teams,  462 matches,  1668 goals,  42 rounds,  Sat 28 Aug 1926 - Sat 7 May 1927
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Bury FC, Cardiff City FC, Derby County FC, Everton FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester United FC, Newcastle United FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1926-27: (2) Derby County FC, Sheffield Wednesday FC
+      - (--) out down: (2) Manchester City FC, Notts County FC
+
+  - 2: [`1920s/1926-27/2-division2.csv`](1920s/1926-27/2-division2.csv) -  22 teams,  462 matches,  1668 goals,  42 rounds,  Sat 28 Aug 1926 - Sat 7 May 1927
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Chelsea FC, Darlington FC, Fulham FC, Grimsby Town FC, Hull City AFC, Leyton Orient FC, Manchester City FC, Middlesbrough FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Port Vale FC, Portsmouth FC, Preston North End FC, Reading FC, South Shields FC, Southampton FC, Swansea City AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1926-27: (4) Grimsby Town FC, Manchester City FC, Notts County FC, Reading FC
+      - (--) out up/down: (4) Derby County FC, Sheffield Wednesday FC, Stockport County FC, Stoke City FC
+
+  - 3: [`1920s/1926-27/3a-division3n.csv`](1920s/1926-27/3a-division3n.csv), [`1920s/1926-27/3b-division3s.csv`](1920s/1926-27/3b-division3s.csv) (2)
+    - [`1920s/1926-27/3a-division3n.csv`](1920s/1926-27/3a-division3n.csv) -  22 teams,  462 matches,  1692 goals,  42 rounds,  Sat 28 Aug 1926 - Sat 7 May 1927
+      - Accrington Stanley FC, Ashington AFC, Barrow AFC, Bradford Park Avenue AFC, Chesterfield FC, Crewe Alexandra FC, Doncaster Rovers FC, Durham City AFC, FC Halifax Town, Hartlepool United FC, Lincoln City FC, Nelson FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham United FC, Southport FC, Stockport County FC, Stoke City FC, Tranmere Rovers FC, Walsall FC, Wigan Borough FC (1920-1931), Wrexham AFC
+    - [`1920s/1926-27/3b-division3s.csv`](1920s/1926-27/3b-division3s.csv) -  22 teams,  462 matches,  1592 goals,  42 rounds,  Sat 28 Aug 1926 - Sat 7 May 1927
+      - AFC Bournemouth, Aberdare Athletic FC (1893-1928), Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Charlton Athletic FC, Coventry City FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Luton Town FC, Merthyr Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Queens Park Rangers FC, Southend United FC, Swindon Town FC, Watford FC
+
+
+1925-26 - 3 levels (1 2 3)
+  - 1: [`1920s/1925-26/1-division1.csv`](1920s/1925-26/1-division1.csv) -  22 teams,  462 matches,  1703 goals,  42 rounds,  Sat 29 Aug 1925 - Sat 1 May 1926
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Bury FC, Cardiff City FC, Everton FC, Huddersfield Town AFC, Leeds United FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Newcastle United FC, Notts County FC, Sheffield United FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1925-26: (2) Leicester City FC, Manchester United FC
+      - (--) out down: (2) Nottingham Forest FC, Preston North End FC
+
+  - 2: [`1920s/1925-26/2-division2.csv`](1920s/1925-26/2-division2.csv) -  22 teams,  462 matches,  1487 goals,  42 rounds,  Sat 29 Aug 1925 - Sat 1 May 1926
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Chelsea FC, Darlington FC, Derby County FC, Fulham FC, Hull City AFC, Leyton Orient FC, Middlesbrough FC, Nottingham Forest FC, Oldham Athletic AFC, Port Vale FC, Portsmouth FC, Preston North End FC, Sheffield Wednesday FC, South Shields FC, Southampton FC, Stockport County FC, Stoke City FC, Swansea City AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1925-26: (4) Darlington FC, Nottingham Forest FC, Preston North End FC, Swansea City AFC
+      - (--) out up/down: (4) Coventry City FC, Crystal Palace FC, Leicester City FC, Manchester United FC
+
+  - 3: [`1920s/1925-26/3a-division3n.csv`](1920s/1925-26/3a-division3n.csv), [`1920s/1925-26/3b-division3s.csv`](1920s/1925-26/3b-division3s.csv) (2)
+    - [`1920s/1925-26/3a-division3n.csv`](1920s/1925-26/3a-division3n.csv) -  22 teams,  462 matches,  1628 goals,  42 rounds,  Sat 29 Aug 1925 - Sat 1 May 1926
+      - Accrington Stanley FC, Ashington AFC, Barrow AFC, Bradford Park Avenue AFC, Chesterfield FC, Coventry City FC, Crewe Alexandra FC, Doncaster Rovers FC, Durham City AFC, FC Halifax Town, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, Nelson FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham United FC, Southport FC, Tranmere Rovers FC, Walsall FC, Wigan Borough FC (1920-1931), Wrexham AFC
+    - [`1920s/1925-26/3b-division3s.csv`](1920s/1925-26/3b-division3s.csv) -  22 teams,  462 matches,  1555 goals,  42 rounds,  Sat 29 Aug 1925 - Sat 1 May 1926
+      - AFC Bournemouth, Aberdare Athletic FC (1893-1928), Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Charlton Athletic FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Luton Town FC, Merthyr Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swindon Town FC, Watford FC
+
+
+1924-25 - 3 levels (1 2 3)
+  - 1: [`1920s/1924-25/1-division1.csv`](1920s/1924-25/1-division1.csv) -  22 teams,  462 matches,  1192 goals,  42 rounds,  Sat 30 Aug 1924 - Sat 2 May 1925
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Bury FC, Cardiff City FC, Everton FC, Huddersfield Town AFC, Leeds United FC, Liverpool FC, Manchester City FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1924-25: (2) Bury FC, Leeds United FC
+      - (--) out down: (2) Chelsea FC, Middlesbrough FC
+
+  - 2: [`1920s/1924-25/2-division2.csv`](1920s/1924-25/2-division2.csv) -  22 teams,  462 matches,  1068 goals,  42 rounds,  Sat 30 Aug 1924 - Sat 2 May 1925
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Chelsea FC, Coventry City FC, Crystal Palace FC, Derby County FC, Fulham FC, Hull City AFC, Leicester City FC, Leyton Orient FC, Manchester United FC, Middlesbrough FC, Oldham Athletic AFC, Port Vale FC, Portsmouth FC, Sheffield Wednesday FC, South Shields FC, Southampton FC, Stockport County FC, Stoke City FC, Wolverhampton Wanderers FC
+      - (++) new in season 1924-25: (4) Chelsea FC, Middlesbrough FC, Portsmouth FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (4) Bristol City FC, Bury FC, Leeds United FC, Nelson FC
+
+  - 3: [`1920s/1924-25/3a-division3n.csv`](1920s/1924-25/3a-division3n.csv), [`1920s/1924-25/3b-division3s.csv`](1920s/1924-25/3b-division3s.csv) (2)
+    - [`1920s/1924-25/3a-division3n.csv`](1920s/1924-25/3a-division3n.csv) -  22 teams,  462 matches,  1320 goals,  42 rounds,  Sat 30 Aug 1924 - Sat 2 May 1925
+      - Accrington Stanley FC, Ashington AFC, Barrow AFC, Bradford Park Avenue AFC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Durham City AFC, FC Halifax Town, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, Nelson FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham County FC (1870-1925), Southport FC, Tranmere Rovers FC, Walsall FC, Wigan Borough FC (1920-1931), Wrexham AFC
+    - [`1920s/1924-25/3b-division3s.csv`](1920s/1924-25/3b-division3s.csv) -  22 teams,  462 matches,  1120 goals,  42 rounds,  Sat 30 Aug 1924 - Sat 2 May 1925
+      - AFC Bournemouth, Aberdare Athletic FC (1893-1928), Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Charlton Athletic FC, Exeter City FC, Gillingham FC, Luton Town FC, Merthyr Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swansea City AFC, Swindon Town FC, Watford FC
+
+
+1923-24 - 3 levels (1 2 3)
+  - 1: [`1920s/1923-24/1-division1.csv`](1920s/1923-24/1-division1.csv) -  22 teams,  462 matches,  1143 goals,  42 rounds,  Sat 25 Aug 1923 - Sat 3 May 1924
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Chelsea FC, Everton FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC, West Ham United FC
+      - (++) new in season 1923-24: (2) Notts County FC, West Ham United FC
+      - (--) out down: (2) Oldham Athletic AFC, Stoke City FC
+
+  - 2: [`1920s/1923-24/2-division2.csv`](1920s/1923-24/2-division2.csv) -  22 teams,  462 matches,  1125 goals,  42 rounds,  Sat 25 Aug 1923 - Sat 3 May 1924
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Bristol City FC, Bury FC, Coventry City FC, Crystal Palace FC, Derby County FC, Fulham FC, Hull City AFC, Leeds United FC, Leicester City FC, Leyton Orient FC, Manchester United FC, Nelson FC, Oldham Athletic AFC, Port Vale FC, Sheffield Wednesday FC, South Shields FC, Southampton FC, Stockport County FC, Stoke City FC
+      - (++) new in season 1923-24: (4) Bristol City FC, Nelson FC, Oldham Athletic AFC, Stoke City FC
+      - (--) out up/down: (4) Notts County FC, Rotherham County FC (1870-1925), West Ham United FC, Wolverhampton Wanderers FC
+
+  - 3: [`1920s/1923-24/3a-division3n.csv`](1920s/1923-24/3a-division3n.csv), [`1920s/1923-24/3b-division3s.csv`](1920s/1923-24/3b-division3s.csv) (2)
+    - [`1920s/1923-24/3a-division3n.csv`](1920s/1923-24/3a-division3n.csv) -  22 teams,  462 matches,  1150 goals,  42 rounds,  Sat 25 Aug 1923 - Sat 3 May 1924
+      - Accrington Stanley FC, Ashington AFC, Barrow AFC, Bradford Park Avenue AFC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Doncaster Rovers FC, Durham City AFC, FC Halifax Town, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, New Brighton Tower FC (1898-1901), Rochdale AFC, Rotherham County FC (1870-1925), Southport FC, Tranmere Rovers FC, Walsall FC, Wigan Borough FC (1920-1931), Wolverhampton Wanderers FC, Wrexham AFC
+    - [`1920s/1923-24/3b-division3s.csv`](1920s/1923-24/3b-division3s.csv) -  22 teams,  462 matches,  1177 goals,  42 rounds,  Sat 25 Aug 1923 - Sat 3 May 1924
+      - AFC Bournemouth, Aberdare Athletic FC (1893-1928), Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Charlton Athletic FC, Exeter City FC, Gillingham FC, Luton Town FC, Merthyr Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swansea City AFC, Swindon Town FC, Watford FC
+
+
+1922-23 - 3 levels (1 2 3)
+  - 1: [`1920s/1922-23/1-division1.csv`](1920s/1922-23/1-division1.csv) -  22 teams,  462 matches,  1215 goals,  42 rounds,  Sat 26 Aug 1922 - Sat 5 May 1923
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Cardiff City FC, Chelsea FC, Everton FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Oldham Athletic AFC, Preston North End FC, Sheffield United FC, Stoke City FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC
+      - (++) new in season 1922-23: (2) Nottingham Forest FC, Stoke City FC
+      - (--) out down: (2) Bradford City AFC, Manchester United FC
+
+  - 2: [`1920s/1922-23/2-division2.csv`](1920s/1922-23/2-division2.csv) -  22 teams,  462 matches,  1055 goals,  42 rounds,  Sat 26 Aug 1922 - Sat 5 May 1923
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Bury FC, Coventry City FC, Crystal Palace FC, Derby County FC, Fulham FC, Hull City AFC, Leeds United FC, Leicester City FC, Leyton Orient FC, Manchester United FC, Notts County FC, Port Vale FC, Rotherham County FC (1870-1925), Sheffield Wednesday FC, South Shields FC, Southampton FC, Stockport County FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1922-23: (4) Bradford City AFC, Manchester United FC, Southampton FC, Stockport County FC
+      - (--) out up/down: (4) Bradford Park Avenue AFC, Bristol City FC, Nottingham Forest FC, Stoke City FC
+
+  - 3: [`1920s/1922-23/3a-division3n.csv`](1920s/1922-23/3a-division3n.csv), [`1920s/1922-23/3b-division3s.csv`](1920s/1922-23/3b-division3s.csv) (2)
+    - [`1920s/1922-23/3a-division3n.csv`](1920s/1922-23/3a-division3n.csv) -  20 teams,  380 matches,  1019 goals,  38 rounds,  Sat 26 Aug 1922 - Sat 5 May 1923
+      - Accrington Stanley FC, Ashington AFC, Barrow AFC, Bradford Park Avenue AFC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Durham City AFC, FC Halifax Town, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, Nelson FC, Rochdale AFC, Southport FC, Stalybridge Celtic FC, Tranmere Rovers FC, Walsall FC, Wigan Borough FC (1920-1931), Wrexham AFC
+    - [`1920s/1922-23/3b-division3s.csv`](1920s/1922-23/3b-division3s.csv) -  22 teams,  462 matches,  1141 goals,  42 rounds,  Sat 26 Aug 1922 - Sat 5 May 1923
+      - Aberdare Athletic FC (1893-1928), Brentford FC, Brighton & Hove Albion FC, Bristol City FC, Bristol Rovers FC, Charlton Athletic FC, Exeter City FC, Gillingham FC, Luton Town FC, Merthyr Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Queens Park Rangers FC, Reading FC, Southend United FC, Swansea City AFC, Swindon Town FC, Watford FC
+
+
+1921-22 - 3 levels (1 2 3)
+  - 1: [`1920s/1921-22/1-division1.csv`](1920s/1921-22/1-division1.csv) -  22 teams,  462 matches,  1244 goals,  42 rounds,  Sat 27 Aug 1921 - Sat 6 May 1922
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Burnley FC, Cardiff City FC, Chelsea FC, Everton FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Oldham Athletic AFC, Preston North End FC, Sheffield United FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC
+      - (++) new in season 1921-22: (2) Birmingham City FC, Cardiff City FC
+      - (--) out down: (2) Bradford Park Avenue AFC, Derby County FC
+
+  - 2: [`1920s/1921-22/2-division2.csv`](1920s/1921-22/2-division2.csv) -  22 teams,  462 matches,  1061 goals,  42 rounds,  Sat 27 Aug 1921 - Sat 6 May 1922
+    - Barnsley FC, Blackpool FC, Bradford Park Avenue AFC, Bristol City FC, Bury FC, Coventry City FC, Crystal Palace FC, Derby County FC, Fulham FC, Hull City AFC, Leeds United FC, Leicester City FC, Leyton Orient FC, Nottingham Forest FC, Notts County FC, Port Vale FC, Rotherham County FC (1870-1925), Sheffield Wednesday FC, South Shields FC, Stoke City FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1921-22: (3) Bradford Park Avenue AFC, Crystal Palace FC, Derby County FC
+      - (--) out up/down: (3) Birmingham City FC, Cardiff City FC, Stockport County FC
+
+  - 3: [`1920s/1921-22/3a-division3n.csv`](1920s/1921-22/3a-division3n.csv), [`1920s/1921-22/3b-division3s.csv`](1920s/1921-22/3b-division3s.csv) (2)
+    - [`1920s/1921-22/3a-division3n.csv`](1920s/1921-22/3a-division3n.csv) -  20 teams,  380 matches,  1150 goals,  38 rounds,  Sat 27 Aug 1921 - Sat 6 May 1922
+      - Accrington Stanley FC, Ashington AFC, Barrow AFC, Chesterfield FC, Crewe Alexandra FC, Darlington FC, Durham City AFC, FC Halifax Town, Grimsby Town FC, Hartlepool United FC, Lincoln City FC, Nelson FC, Rochdale AFC, Southport FC, Stalybridge Celtic FC, Stockport County FC, Tranmere Rovers FC, Walsall FC, Wigan Borough FC (1920-1931), Wrexham AFC
+    - [`1920s/1921-22/3b-division3s.csv`](1920s/1921-22/3b-division3s.csv) -  22 teams,  462 matches,  1118 goals,  42 rounds,  Sat 27 Aug 1921 - Sat 6 May 1922
+      - Aberdare Athletic FC (1893-1928), Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Charlton Athletic FC, Exeter City FC, Gillingham FC, Luton Town FC, Merthyr Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Queens Park Rangers FC, Reading FC, Southampton FC, Southend United FC, Swansea City AFC, Swindon Town FC, Watford FC
+
+
+1920-21 - 3 levels (1 2 3)
+  - 1: [`1920s/1920-21/1-division1.csv`](1920s/1920-21/1-division1.csv) -  22 teams,  462 matches,  1276 goals,  42 rounds,  Sat 28 Aug 1920 - Sat 7 May 1921
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Bradford Park Avenue AFC, Burnley FC, Chelsea FC, Derby County FC, Everton FC, Huddersfield Town AFC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Oldham Athletic AFC, Preston North End FC, Sheffield United FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC
+      - (++) new in season 1920-21: (2) Huddersfield Town AFC, Tottenham Hotspur FC
+      - (--) out down: (2) Notts County FC, Sheffield Wednesday FC
+
+  - 2: [`1920s/1920-21/2-division2.csv`](1920s/1920-21/2-division2.csv) -  22 teams,  462 matches,  1061 goals,  42 rounds,  Sat 28 Aug 1920 - Sat 7 May 1921
+    - Barnsley FC, Birmingham City FC, Blackpool FC, Bristol City FC, Bury FC, Cardiff City FC, Coventry City FC, Fulham FC, Hull City AFC, Leeds United FC, Leicester City FC, Leyton Orient FC, Nottingham Forest FC, Notts County FC, Port Vale FC, Rotherham County FC (1870-1925), Sheffield Wednesday FC, South Shields FC, Stockport County FC, Stoke City FC, West Ham United FC, Wolverhampton Wanderers FC
+      - (++) new in season 1920-21: (4) Cardiff City FC, Leeds United FC, Notts County FC, Sheffield Wednesday FC
+      - (--) out up/down: (5) Grimsby Town FC, Huddersfield Town AFC, Leeds City FC (1904-1919), Lincoln City FC, Tottenham Hotspur FC
+
+  - 3: [`1920s/1920-21/3-division3.csv`](1920s/1920-21/3-division3.csv) -  22 teams,  462 matches,  1133 goals,  42 rounds,  Sat 28 Aug 1920 - Sat 7 May 1921
+    - Brentford FC, Brighton & Hove Albion FC, Bristol Rovers FC, Crystal Palace FC, Exeter City FC, Gillingham FC, Grimsby Town FC, Luton Town FC, Merthyr Town FC, Millwall FC, Newport County AFC, Northampton Town FC, Norwich City FC, Plymouth Argyle FC, Portsmouth FC, Queens Park Rangers FC, Reading FC, Southampton FC, Southend United FC, Swansea City AFC, Swindon Town FC, Watford FC
+
+
+1919-20 - 2 levels (1 2)
+  - 1: [`1910s/1919-20/1-division1.csv`](1910s/1919-20/1-division1.csv) -  22 teams,  462 matches,  1332 goals,  42 rounds,  Sat 30 Aug 1919 - Sat 1 May 1920
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Bradford Park Avenue AFC, Burnley FC, Chelsea FC, Derby County FC, Everton FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Notts County FC, Oldham Athletic AFC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, West Bromwich Albion FC
+  - 2: [`1910s/1919-20/2-division2.csv`](1910s/1919-20/2-division2.csv) -  23 teams,  462 matches,  1285 goals,  Sat 30 Aug 1919 - Sat 1 May 1920
+    - **unbalanced rounds - add teams with matches played here**
+
+
+1914-15 - 2 levels (1 2)
+  - 1: [`1910s/1914-15/1-division1.csv`](1910s/1914-15/1-division1.csv) -  20 teams,  380 matches,  1201 goals,  38 rounds,  Tue 1 Sep 1914 - Wed 28 Apr 1915
+    - Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Bradford Park Avenue AFC, Burnley FC, Chelsea FC, Everton FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Notts County FC, Oldham Athletic AFC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC
+      - (++) new in season 1914-15: (2) Bradford Park Avenue AFC, Notts County FC
+      - (--) out down: (2) Derby County FC, Preston North End FC
+
+  - 2: [`1910s/1914-15/2-division2.csv`](1910s/1914-15/2-division2.csv) -  20 teams,  380 matches,  1135 goals,  38 rounds,  Tue 1 Sep 1914 - Thu 29 Apr 1915
+    - Arsenal FC, Barnsley FC, Birmingham City FC, Blackpool FC, Bristol City FC, Bury FC, Derby County FC, Fulham FC, Glossop North End AFC, Grimsby Town FC, Huddersfield Town AFC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Lincoln City FC, Nottingham Forest FC, Preston North End FC, Stockport County FC, Wolverhampton Wanderers FC
+      - (++) new in season 1914-15: (2) Derby County FC, Preston North End FC
+      - (--) out up/down: (2) Bradford Park Avenue AFC, Notts County FC
+
+
+
+1913-14 - 2 levels (1 2)
+  - 1: [`1910s/1913-14/1-division1.csv`](1910s/1913-14/1-division1.csv) -  20 teams,  380 matches,  1103 goals,  38 rounds,  Mon 1 Sep 1913 - Mon 27 Apr 1914
+    - Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Burnley FC, Chelsea FC, Derby County FC, Everton FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Oldham Athletic AFC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC
+      - (++) new in season 1913-14: (2) Burnley FC, Preston North End FC
+      - (--) out down: (2) Arsenal FC, Notts County FC
+
+  - 2: [`1910s/1913-14/2-division2.csv`](1910s/1913-14/2-division2.csv) -  20 teams,  380 matches,  1011 goals,  38 rounds,  Mon 1 Sep 1913 - Sat 25 Apr 1914
+    - Arsenal FC, Barnsley FC, Birmingham City FC, Blackpool FC, Bradford Park Avenue AFC, Bristol City FC, Bury FC, Fulham FC, Glossop North End AFC, Grimsby Town FC, Huddersfield Town AFC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Lincoln City FC, Nottingham Forest FC, Notts County FC, Stockport County FC, Wolverhampton Wanderers FC
+      - (++) new in season 1913-14: (2) Arsenal FC, Notts County FC
+      - (--) out up/down: (2) Burnley FC, Preston North End FC
+
+
+
+1912-13 - 2 levels (1 2)
+  - 1: [`1910s/1912-13/1-division1.csv`](1910s/1912-13/1-division1.csv) -  20 teams,  380 matches,  1153 goals,  38 rounds,  Mon 2 Sep 1912 - Wed 30 Apr 1913
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Chelsea FC, Derby County FC, Everton FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Notts County FC, Oldham Athletic AFC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC
+      - (++) new in season 1912-13: (2) Chelsea FC, Derby County FC
+      - (--) out down: (2) Bury FC, Preston North End FC
+
+  - 2: [`1910s/1912-13/2-division2.csv`](1910s/1912-13/2-division2.csv) -  20 teams,  380 matches,  1122 goals,  38 rounds,  Mon 2 Sep 1912 - Sat 26 Apr 1913
+    - Barnsley FC, Birmingham City FC, Blackpool FC, Bradford Park Avenue AFC, Bristol City FC, Burnley FC, Bury FC, Fulham FC, Glossop North End AFC, Grimsby Town FC, Huddersfield Town AFC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Lincoln City FC, Nottingham Forest FC, Preston North End FC, Stockport County FC, Wolverhampton Wanderers FC
+      - (++) new in season 1912-13: (3) Bury FC, Lincoln City FC, Preston North End FC
+      - (--) out up/down: (3) Chelsea FC, Derby County FC, Gainsborough Trinity FC
+
+
+
+1911-12 - 2 levels (1 2)
+  - 1: [`1910s/1911-12/1-division1.csv`](1910s/1911-12/1-division1.csv) -  20 teams,  380 matches,  1057 goals,  38 rounds,  Sat 2 Sep 1911 - Mon 29 Apr 1912
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Bury FC, Everton FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Notts County FC, Oldham Athletic AFC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC, West Bromwich Albion FC
+      - (++) new in season 1911-12: (2) Bolton Wanderers FC, West Bromwich Albion FC
+      - (--) out down: (2) Bristol City FC, Nottingham Forest FC
+
+  - 2: [`1910s/1911-12/2-division2.csv`](1910s/1911-12/2-division2.csv) -  20 teams,  380 matches,  1032 goals,  38 rounds,  Sat 2 Sep 1911 - Mon 29 Apr 1912
+    - Barnsley FC, Birmingham City FC, Blackpool FC, Bradford Park Avenue AFC, Bristol City FC, Burnley FC, Chelsea FC, Derby County FC, Fulham FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Huddersfield Town AFC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Nottingham Forest FC, Stockport County FC, Wolverhampton Wanderers FC
+      - (++) new in season 1911-12: (3) Bristol City FC, Grimsby Town FC, Nottingham Forest FC
+      - (--) out up/down: (3) Bolton Wanderers FC, Lincoln City FC, West Bromwich Albion FC
+
+
+
+1910-11 - 2 levels (1 2)
+  - 1: [`1910s/1910-11/1-division1.csv`](1910s/1910-11/1-division1.csv) -  20 teams,  380 matches,  1028 goals,  38 rounds,  Thu 1 Sep 1910 - Sat 29 Apr 1911
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bradford City AFC, Bristol City FC, Bury FC, Everton FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Oldham Athletic AFC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC
+      - (++) new in season 1910-11: (2) Manchester City FC, Oldham Athletic AFC
+      - (--) out down: (2) Bolton Wanderers FC, Chelsea FC
+
+  - 2: [`1910s/1910-11/2-division2.csv`](1910s/1910-11/2-division2.csv) -  20 teams,  380 matches,  1050 goals,  38 rounds,  Thu 1 Sep 1910 - Sat 29 Apr 1911
+    - Barnsley FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Bradford Park Avenue AFC, Burnley FC, Chelsea FC, Derby County FC, Fulham FC, Gainsborough Trinity FC, Glossop North End AFC, Huddersfield Town AFC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Lincoln City FC, Stockport County FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1910-11: (3) Bolton Wanderers FC, Chelsea FC, Huddersfield Town AFC
+      - (--) out up/down: (3) Grimsby Town FC, Manchester City FC, Oldham Athletic AFC
+
+
+
+1909-10 - 2 levels (1 2)
+  - 1: [`1900s/1909-10/1-division1.csv`](1900s/1909-10/1-division1.csv) -  20 teams,  380 matches,  1194 goals,  38 rounds,  Wed 1 Sep 1909 - Sat 30 Apr 1910
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bradford City AFC, Bristol City FC, Bury FC, Chelsea FC, Everton FC, Liverpool FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC, Tottenham Hotspur FC
+      - (++) new in season 1909-10: (2) Bolton Wanderers FC, Tottenham Hotspur FC
+      - (--) out down: (2) Leicester City FC, Manchester City FC
+
+  - 2: [`1900s/1909-10/2-division2.csv`](1900s/1909-10/2-division2.csv) -  20 teams,  380 matches,  1166 goals,  38 rounds,  Wed 1 Sep 1909 - Sat 30 Apr 1910
+    - Barnsley FC, Birmingham City FC, Blackpool FC, Bradford Park Avenue AFC, Burnley FC, Derby County FC, Fulham FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Lincoln City FC, Manchester City FC, Oldham Athletic AFC, Stockport County FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1909-10: (3) Leicester City FC, Lincoln City FC, Manchester City FC
+      - (--) out up/down: (3) Bolton Wanderers FC, Chesterfield FC, Tottenham Hotspur FC
+
+
+
+1908-09 - 2 levels (1 2)
+  - 1: [`1900s/1908-09/1-division1.csv`](1900s/1908-09/1-division1.csv) -  20 teams,  380 matches,  1185 goals,  38 rounds,  Tue 1 Sep 1908 - Fri 30 Apr 1909
+    - Arsenal FC, Aston Villa FC, Blackburn Rovers FC, Bradford City AFC, Bristol City FC, Bury FC, Chelsea FC, Everton FC, Leicester City FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC
+      - (++) new in season 1908-09: (2) Bradford City AFC, Leicester City FC
+      - (--) out down: (2) Birmingham City FC, Bolton Wanderers FC
+
+  - 2: [`1900s/1908-09/2-division2.csv`](1900s/1908-09/2-division2.csv) -  20 teams,  380 matches,  1026 goals,  38 rounds,  Tue 1 Sep 1908 - Fri 30 Apr 1909
+    - Barnsley FC, Birmingham City FC, Blackpool FC, Bolton Wanderers FC, Bradford Park Avenue AFC, Burnley FC, Chesterfield FC, Derby County FC, Fulham FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Hull City AFC, Leeds City FC (1904-1919), Leyton Orient FC, Oldham Athletic AFC, Stockport County FC, Tottenham Hotspur FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1908-09: (4) Birmingham City FC, Bolton Wanderers FC, Bradford Park Avenue AFC, Tottenham Hotspur FC
+      - (--) out up/down: (4) Bradford City AFC, Leicester City FC, Lincoln City FC, Stoke City FC
+
+
+
+1907-08 - 2 levels (1 2)
+  - 1: [`1900s/1907-08/1-division1.csv`](1900s/1907-08/1-division1.csv) -  20 teams,  380 matches,  1176 goals,  38 rounds,  Mon 2 Sep 1907 - Wed 29 Apr 1908
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Bristol City FC, Bury FC, Chelsea FC, Everton FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Sunderland AFC
+      - (++) new in season 1907-08: (2) Chelsea FC, Nottingham Forest FC
+      - (--) out down: (2) Derby County FC, Stoke City FC
+
+  - 2: [`1900s/1907-08/2-division2.csv`](1900s/1907-08/2-division2.csv) -  20 teams,  380 matches,  1187 goals,  38 rounds,  Mon 2 Sep 1907 - Wed 29 Apr 1908
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Burnley FC, Chesterfield FC, Derby County FC, Fulham FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Lincoln City FC, Oldham Athletic AFC, Stockport County FC, Stoke City FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1907-08: (4) Derby County FC, Fulham FC, Oldham Athletic AFC, Stoke City FC
+      - (--) out up/down: (4) Burton United FC (1901-1910), Chelsea FC, Nottingham Forest FC, Port Vale FC
+
+
+
+1906-07 - 2 levels (1 2)
+  - 1: [`1900s/1906-07/1-division1.csv`](1900s/1906-07/1-division1.csv) -  20 teams,  380 matches,  1148 goals,  38 rounds,  Sat 1 Sep 1906 - Sat 27 Apr 1907
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Bristol City FC, Bury FC, Derby County FC, Everton FC, Liverpool FC, Manchester City FC, Manchester United FC, Middlesbrough FC, Newcastle United FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC
+      - (++) new in season 1906-07: (2) Bristol City FC, Manchester United FC
+      - (--) out down: (2) Nottingham Forest FC, Wolverhampton Wanderers FC
+
+  - 2: [`1900s/1906-07/2-division2.csv`](1900s/1906-07/2-division2.csv) -  20 teams,  380 matches,  1155 goals,  38 rounds,  Sat 1 Sep 1906 - Sat 27 Apr 1907
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Burnley FC, Burton United FC (1901-1910), Chelsea FC, Chesterfield FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Lincoln City FC, Nottingham Forest FC, Port Vale FC, Stockport County FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1906-07: (2) Nottingham Forest FC, Wolverhampton Wanderers FC
+      - (--) out up/down: (2) Bristol City FC, Manchester United FC
+
+
+
+1905-06 - 2 levels (1 2)
+  - 1: [`1900s/1905-06/1-division1.csv`](1900s/1905-06/1-division1.csv) -  20 teams,  380 matches,  1242 goals,  38 rounds,  Sat 2 Sep 1905 - Mon 30 Apr 1906
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Bury FC, Derby County FC, Everton FC, Liverpool FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1905-06: (2) Bolton Wanderers FC, Liverpool FC
+      - (--) out down: (0) 
+
+  - 2: [`1900s/1905-06/2-division2.csv`](1900s/1905-06/2-division2.csv) -  20 teams,  380 matches,  1116 goals,  38 rounds,  Sat 2 Sep 1905 - Sat 28 Apr 1906
+    - Barnsley FC, Blackpool FC, Bradford City AFC, Bristol City FC, Burnley FC, Burton United FC (1901-1910), Chelsea FC, Chesterfield FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Hull City AFC, Leeds City FC (1904-1919), Leicester City FC, Leyton Orient FC, Lincoln City FC, Manchester United FC, Port Vale FC, Stockport County FC, West Bromwich Albion FC
+      - (++) new in season 1905-06: (5) Chelsea FC, Hull City AFC, Leeds City FC (1904-1919), Leyton Orient FC, Stockport County FC
+      - (--) out up/down: (3) Bolton Wanderers FC, Doncaster Rovers FC, Liverpool FC
+
+
+
+1904-05 - 2 levels (1 2)
+  - 1: [`1900s/1904-05/1-division1.csv`](1900s/1904-05/1-division1.csv) -  18 teams,  306 matches,  904 goals,  34 rounds,  Thu 1 Sep 1904 - Sat 29 Apr 1905
+    - Arsenal FC, Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bury FC, Derby County FC, Everton FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1904-05: (2) Arsenal FC, Preston North End FC
+      - (--) out down: (2) Liverpool FC, West Bromwich Albion FC
+
+  - 2: [`1900s/1904-05/2-division2.csv`](1900s/1904-05/2-division2.csv) -  18 teams,  306 matches,  902 goals,  34 rounds,  Thu 1 Sep 1904 - Sat 29 Apr 1905
+    - Barnsley FC, Blackpool FC, Bolton Wanderers FC, Bradford City AFC, Bristol City FC, Burnley FC, Burton United FC (1901-1910), Chesterfield FC, Doncaster Rovers FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Leicester City FC, Lincoln City FC, Liverpool FC, Manchester United FC, Port Vale FC, West Bromwich Albion FC
+      - (++) new in season 1904-05: (3) Doncaster Rovers FC, Liverpool FC, West Bromwich Albion FC
+      - (--) out up/down: (3) Arsenal FC, Preston North End FC, Stockport County FC
+
+
+
+1903-04 - 2 levels (1 2)
+  - 1: [`1900s/1903-04/1-division1.csv`](1900s/1903-04/1-division1.csv) -  18 teams,  306 matches,  939 goals,  34 rounds,  Tue 1 Sep 1903 - Sat 30 Apr 1904
+    - Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bury FC, Derby County FC, Everton FC, Liverpool FC, Manchester City FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1903-04: (2) Birmingham City FC, Manchester City FC
+      - (--) out down: (2) Bolton Wanderers FC, Grimsby Town FC
+
+  - 2: [`1900s/1903-04/2-division2.csv`](1900s/1903-04/2-division2.csv) -  18 teams,  306 matches,  942 goals,  34 rounds,  Tue 1 Sep 1903 - Sat 30 Apr 1904
+    - Arsenal FC, Barnsley FC, Blackpool FC, Bolton Wanderers FC, Bradford City AFC, Bristol City FC, Burnley FC, Burton United FC (1901-1910), Chesterfield FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Leicester City FC, Lincoln City FC, Manchester United FC, Port Vale FC, Preston North End FC, Stockport County FC
+      - (++) new in season 1903-04: (3) Bolton Wanderers FC, Bradford City AFC, Grimsby Town FC
+      - (--) out up/down: (3) Birmingham City FC, Doncaster Rovers FC, Manchester City FC
+
+
+
+1902-03 - 2 levels (1 2)
+  - 1: [`1900s/1902-03/1-division1.csv`](1900s/1902-03/1-division1.csv) -  18 teams,  306 matches,  885 goals,  34 rounds,  Mon 1 Sep 1902 - Mon 27 Apr 1903
+    - Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bury FC, Derby County FC, Everton FC, Grimsby Town FC, Liverpool FC, Middlesbrough FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1902-03: (2) Middlesbrough FC, West Bromwich Albion FC
+      - (--) out down: (2) Birmingham City FC, Manchester City FC
+
+  - 2: [`1900s/1902-03/2-division2.csv`](1900s/1902-03/2-division2.csv) -  18 teams,  306 matches,  939 goals,  34 rounds,  Mon 1 Sep 1902 - Sat 25 Apr 1903
+    - Arsenal FC, Barnsley FC, Birmingham City FC, Blackpool FC, Bristol City FC, Burnley FC, Burton United FC (1901-1910), Chesterfield FC, Doncaster Rovers FC, Gainsborough Trinity FC, Glossop North End AFC, Leicester City FC, Lincoln City FC, Manchester City FC, Manchester United FC, Port Vale FC, Preston North End FC, Stockport County FC
+      - (++) new in season 1902-03: (2) Birmingham City FC, Manchester City FC
+      - (--) out up/down: (2) Middlesbrough FC, West Bromwich Albion FC
+
+
+
+1901-02 - 2 levels (1 2)
+  - 1: [`1900s/1901-02/1-division1.csv`](1900s/1901-02/1-division1.csv) -  18 teams,  306 matches,  840 goals,  34 rounds,  Mon 2 Sep 1901 - Mon 28 Apr 1902
+    - Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Bury FC, Derby County FC, Everton FC, Grimsby Town FC, Liverpool FC, Manchester City FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, Wolverhampton Wanderers FC
+      - (++) new in season 1901-02: (2) Birmingham City FC, Grimsby Town FC
+      - (--) out down: (2) Preston North End FC, West Bromwich Albion FC
+
+  - 2: [`1900s/1901-02/2-division2.csv`](1900s/1901-02/2-division2.csv) -  18 teams,  306 matches,  885 goals,  34 rounds,  Mon 2 Sep 1901 - Sat 26 Apr 1902
+    - Arsenal FC, Barnsley FC, Blackpool FC, Bristol City FC, Burnley FC, Burton United FC (1901-1910), Chesterfield FC, Doncaster Rovers FC, Gainsborough Trinity FC, Glossop North End AFC, Leicester City FC, Lincoln City FC, Manchester United FC, Middlesbrough FC, Port Vale FC, Preston North End FC, Stockport County FC, West Bromwich Albion FC
+      - (++) new in season 1901-02: (5) Bristol City FC, Burton United FC (1901-1910), Doncaster Rovers FC, Preston North End FC, West Bromwich Albion FC
+      - (--) out up/down: (5) Birmingham City FC, Burton Swifts FC (1871-1901), Grimsby Town FC, New Brighton Tower FC (1898-1901), Walsall FC
+
+
+
+1900-01 - 2 levels (1 2)
+  - 1: [`1900s/1900-01/1-division1.csv`](1900s/1900-01/1-division1.csv) -  18 teams,  306 matches,  855 goals,  34 rounds,  Sat 1 Sep 1900 - Tue 30 Apr 1901
+    - Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bury FC, Derby County FC, Everton FC, Liverpool FC, Manchester City FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1900-01: (2) Bolton Wanderers FC, Sheffield Wednesday FC
+      - (--) out down: (2) Burnley FC, Glossop North End AFC
+
+  - 2: [`1900s/1900-01/2-division2.csv`](1900s/1900-01/2-division2.csv) -  18 teams,  306 matches,  819 goals,  34 rounds,  Sat 1 Sep 1900 - Sat 27 Apr 1901
+    - Arsenal FC, Barnsley FC, Birmingham City FC, Blackpool FC, Burnley FC, Burton Swifts FC (1871-1901), Chesterfield FC, Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Leicester City FC, Lincoln City FC, Manchester United FC, Middlesbrough FC, New Brighton Tower FC (1898-1901), Port Vale FC, Stockport County FC, Walsall FC
+      - (++) new in season 1900-01: (4) Blackpool FC, Burnley FC, Glossop North End AFC, Stockport County FC
+      - (--) out up/down: (4) Bolton Wanderers FC, Loughborough FC (1886-1900), Luton Town FC, Sheffield Wednesday FC
+
+
+
+1899-00 - 2 levels (1 2)
+  - 1: [`1890s/1899-00/1-division1.csv`](1890s/1899-00/1-division1.csv) -  18 teams,  306 matches,  856 goals,  34 rounds,  Sat 2 Sep 1899 - Mon 30 Apr 1900
+    - Aston Villa FC, Blackburn Rovers FC, Burnley FC, Bury FC, Derby County FC, Everton FC, Glossop North End AFC, Liverpool FC, Manchester City FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1899-00: (2) Glossop North End AFC, Manchester City FC
+      - (--) out down: (2) Bolton Wanderers FC, Sheffield Wednesday FC
+
+  - 2: [`1890s/1899-00/2-division2.csv`](1890s/1899-00/2-division2.csv) -  18 teams,  306 matches,  984 goals,  34 rounds,  Sat 2 Sep 1899 - Mon 30 Apr 1900
+    - Arsenal FC, Barnsley FC, Birmingham City FC, Bolton Wanderers FC, Burton Swifts FC (1871-1901), Chesterfield FC, Gainsborough Trinity FC, Grimsby Town FC, Leicester City FC, Lincoln City FC, Loughborough FC (1886-1900), Luton Town FC, Manchester United FC, Middlesbrough FC, New Brighton Tower FC (1898-1901), Port Vale FC, Sheffield Wednesday FC, Walsall FC
+      - (++) new in season 1899-00: (4) Bolton Wanderers FC, Chesterfield FC, Middlesbrough FC, Sheffield Wednesday FC
+      - (--) out up/down: (4) Blackpool FC, Darwen FC (1870-2009), Glossop North End AFC, Manchester City FC
+
+
+
+1898-99 - 2 levels (1 2)
+  - 1: [`1890s/1898-99/1-division1.csv`](1890s/1898-99/1-division1.csv) -  18 teams,  306 matches,  868 goals,  34 rounds,  Thu 1 Sep 1898 - Sat 29 Apr 1899
+    - Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Bury FC, Derby County FC, Everton FC, Liverpool FC, Newcastle United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1898-99: (2) Burnley FC, Newcastle United FC
+      - (--) out down: (0) 
+
+  - 2: [`1890s/1898-99/2-division2.csv`](1890s/1898-99/2-division2.csv) -  18 teams,  306 matches,  1103 goals,  34 rounds,  Thu 1 Sep 1898 - Sat 29 Apr 1899
+    - Arsenal FC, Barnsley FC, Birmingham City FC, Blackpool FC, Burton Swifts FC (1871-1901), Darwen FC (1870-2009), Gainsborough Trinity FC, Glossop North End AFC, Grimsby Town FC, Leicester City FC, Lincoln City FC, Loughborough FC (1886-1900), Luton Town FC, Manchester City FC, Manchester United FC, New Brighton Tower FC (1898-1901), Port Vale FC, Walsall FC
+      - (++) new in season 1898-99: (4) Barnsley FC, Glossop North End AFC, New Brighton Tower FC (1898-1901), Port Vale FC
+      - (--) out up/down: (2) Burnley FC, Newcastle United FC
+
+
+
+1897-98 - 2 levels (1 2)
+  - 1: [`1890s/1897-98/1-division1.csv`](1890s/1897-98/1-division1.csv) -  16 teams,  240 matches,  724 goals,  30 rounds,  Wed 1 Sep 1897 - Sat 30 Apr 1898
+    - Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Bury FC, Derby County FC, Everton FC, Liverpool FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1897-98: (1) Notts County FC
+      - (--) out down: (1) Burnley FC
+
+  - 2: [`1890s/1897-98/2-division2.csv`](1890s/1897-98/2-division2.csv) -  16 teams,  240 matches,  860 goals,  30 rounds,  Wed 1 Sep 1897 - Sat 30 Apr 1898
+    - Arsenal FC, Birmingham City FC, Blackpool FC, Burnley FC, Burton Swifts FC (1871-1901), Darwen FC (1870-2009), Gainsborough Trinity FC, Grimsby Town FC, Leicester City FC, Lincoln City FC, Loughborough FC (1886-1900), Luton Town FC, Manchester City FC, Manchester United FC, Newcastle United FC, Walsall FC
+      - (++) new in season 1897-98: (2) Burnley FC, Luton Town FC
+      - (--) out up/down: (2) Burton Wanderers FC (1871-1901), Notts County FC
+
+
+
+1896-97 - 2 levels (1 2)
+  - 1: [`1890s/1896-97/1-division1.csv`](1890s/1896-97/1-division1.csv) -  16 teams,  240 matches,  751 goals,  30 rounds,  Tue 1 Sep 1896 - Mon 26 Apr 1897
+    - Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Bury FC, Derby County FC, Everton FC, Liverpool FC, Nottingham Forest FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1896-97: (1) Liverpool FC
+      - (--) out down: (1) Birmingham City FC
+
+  - 2: [`1890s/1896-97/2-division2.csv`](1890s/1896-97/2-division2.csv) -  16 teams,  240 matches,  908 goals,  30 rounds,  Tue 1 Sep 1896 - Wed 28 Apr 1897
+    - Arsenal FC, Birmingham City FC, Blackpool FC, Burton Swifts FC (1871-1901), Burton Wanderers FC (1871-1901), Darwen FC (1870-2009), Gainsborough Trinity FC, Grimsby Town FC, Leicester City FC, Lincoln City FC, Loughborough FC (1886-1900), Manchester City FC, Manchester United FC, Newcastle United FC, Notts County FC, Walsall FC
+      - (++) new in season 1896-97: (4) Birmingham City FC, Blackpool FC, Gainsborough Trinity FC, Walsall FC
+      - (--) out up/down: (4) Crewe Alexandra FC, Liverpool FC, Port Vale FC, Rotherham Town FC (1899-1925)
+
+
+
+1895-96 - 2 levels (1 2)
+  - 1: [`1890s/1895-96/1-division1.csv`](1890s/1895-96/1-division1.csv) -  16 teams,  240 matches,  807 goals,  30 rounds,  Mon 2 Sep 1895 - Wed 29 Apr 1896
+    - Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Bury FC, Derby County FC, Everton FC, Nottingham Forest FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1895-96: (1) Bury FC
+      - (--) out down: (1) Liverpool FC
+
+  - 2: [`1890s/1895-96/2-division2.csv`](1890s/1895-96/2-division2.csv) -  16 teams,  240 matches,  942 goals,  30 rounds,  Mon 2 Sep 1895 - Mon 20 Apr 1896
+    - Arsenal FC, Burton Swifts FC (1871-1901), Burton Wanderers FC (1871-1901), Crewe Alexandra FC, Darwen FC (1870-2009), Grimsby Town FC, Leicester City FC, Lincoln City FC, Liverpool FC, Loughborough FC (1886-1900), Manchester City FC, Manchester United FC, Newcastle United FC, Notts County FC, Port Vale FC, Rotherham Town FC (1899-1925)
+      - (++) new in season 1895-96: (2) Liverpool FC, Loughborough FC (1886-1900)
+      - (--) out up/down: (2) Bury FC, Walsall FC
+
+
+
+1894-95 - 2 levels (1 2)
+  - 1: [`1890s/1894-95/1-division1.csv`](1890s/1894-95/1-division1.csv) -  16 teams,  240 matches,  917 goals,  30 rounds,  Sat 1 Sep 1894 - Wed 24 Apr 1895
+    - Aston Villa FC, Birmingham City FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Derby County FC, Everton FC, Liverpool FC, Nottingham Forest FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1894-95: (2) Birmingham City FC, Liverpool FC
+      - (--) out down: (2) Darwen FC (1870-2009), Manchester United FC
+
+  - 2: [`1890s/1894-95/2-division2.csv`](1890s/1894-95/2-division2.csv) -  16 teams,  240 matches,  1023 goals,  30 rounds,  Sat 1 Sep 1894 - Sat 20 Apr 1895
+    - Arsenal FC, Burton Swifts FC (1871-1901), Burton Wanderers FC (1871-1901), Bury FC, Crewe Alexandra FC, Darwen FC (1870-2009), Grimsby Town FC, Leicester City FC, Lincoln City FC, Manchester City FC, Manchester United FC, Newcastle United FC, Notts County FC, Port Vale FC, Rotherham Town FC (1899-1925), Walsall FC
+      - (++) new in season 1894-95: (5) Burton Wanderers FC (1871-1901), Bury FC, Darwen FC (1870-2009), Leicester City FC, Manchester United FC
+      - (--) out up/down: (4) Birmingham City FC, Liverpool FC, Middlesbrough Ironopolis FC (1889-1894), Northwich Victoria FC
+
+
+
+1893-94 - 2 levels (1 2)
+  - 1: [`1890s/1893-94/1-division1.csv`](1890s/1893-94/1-division1.csv) -  16 teams,  240 matches,  939 goals,  30 rounds,  Sat 2 Sep 1893 - Mon 23 Apr 1894
+    - Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Darwen FC (1870-2009), Derby County FC, Everton FC, Manchester United FC, Nottingham Forest FC, Preston North End FC, Sheffield United FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1893-94: (2) Darwen FC (1870-2009), Sheffield United FC
+      - (--) out down: (2) Accrington FC (1878-1896), Notts County FC
+
+  - 2: [`1890s/1893-94/2-division2.csv`](1890s/1893-94/2-division2.csv) -  15 teams,  210 matches,  894 goals,  28 rounds,  Sat 2 Sep 1893 - Sat 14 Apr 1894
+    - Arsenal FC, Birmingham City FC, Burton Swifts FC (1871-1901), Crewe Alexandra FC, Grimsby Town FC, Lincoln City FC, Liverpool FC, Manchester City FC, Middlesbrough Ironopolis FC (1889-1894), Newcastle United FC, Northwich Victoria FC, Notts County FC, Port Vale FC, Rotherham Town FC (1899-1925), Walsall FC
+      - (++) new in season 1893-94: (6) Arsenal FC, Liverpool FC, Middlesbrough Ironopolis FC (1889-1894), Newcastle United FC, Notts County FC, Rotherham Town FC (1899-1925)
+      - (--) out up/down: (3) Bootle FC (1879-1893), Darwen FC (1870-2009), Sheffield United FC
+
+
+
+1892-93 - 2 levels (1 2)
+  - 1: [`1890s/1892-93/1-division1.csv`](1890s/1892-93/1-division1.csv) -  16 teams,  240 matches,  936 goals,  30 rounds,  Sat 3 Sep 1892 - Mon 17 Apr 1893
+    - Accrington FC (1878-1896), Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Derby County FC, Everton FC, Manchester United FC, Nottingham Forest FC, Notts County FC, Preston North End FC, Sheffield Wednesday FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1892-93: (3) Manchester United FC, Nottingham Forest FC, Sheffield Wednesday FC
+      - (--) out down: (1) Darwen FC (1870-2009)
+
+  - 2: [`1890s/1892-93/2-division2.csv`](1890s/1892-93/2-division2.csv) -  12 teams,  132 matches,  591 goals,  22 rounds,  Sat 3 Sep 1892 - Sat 15 Apr 1893
+    - Birmingham City FC, Bootle FC (1879-1893), Burton Swifts FC (1871-1901), Crewe Alexandra FC, Darwen FC (1870-2009), Grimsby Town FC, Lincoln City FC, Manchester City FC, Northwich Victoria FC, Port Vale FC, Sheffield United FC, Walsall FC
+
+
+1891-92 - 1 levels (1)
+  - 1: [`1890s/1891-92/1-division1.csv`](1890s/1891-92/1-division1.csv) -  14 teams,  182 matches,  777 goals,  26 rounds,  Sat 5 Sep 1891 - Sat 30 Apr 1892
+    - Accrington FC (1878-1896), Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Darwen FC (1870-2009), Derby County FC, Everton FC, Notts County FC, Preston North End FC, Stoke City FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1891-92: (2) Darwen FC (1870-2009), Stoke City FC
+      - (--) out down: (0) 
+
+
+
+1890-91 - 1 levels (1)
+  - 1: [`1890s/1890-91/1-division1.csv`](1890s/1890-91/1-division1.csv) -  12 teams,  132 matches,  554 goals,  22 rounds,  Sat 6 Sep 1890 - Sat 18 Apr 1891
+    - Accrington FC (1878-1896), Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Derby County FC, Everton FC, Notts County FC, Preston North End FC, Sunderland AFC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1890-91: (1) Sunderland AFC
+      - (--) out down: (1) Stoke City FC
+
+
+
+1889-90 - 1 levels (1)
+  - 1: [`1880s/1889-90/1-division1.csv`](1880s/1889-90/1-division1.csv) -  12 teams,  132 matches,  611 goals,  22 rounds,  Sat 7 Sep 1889 - Mon 31 Mar 1890
+    - Accrington FC (1878-1896), Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Derby County FC, Everton FC, Notts County FC, Preston North End FC, Stoke City FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
+      - (++) new in season 1889-90: (0) 
+      - (--) out down: (0) 
+
+
+
+1888-89 - 1 levels (1)
+  - 1: [`1880s/1888-89/1-division1.csv`](1880s/1888-89/1-division1.csv) -  12 teams,  132 matches,  586 goals,  22 rounds,  Sat 8 Sep 1888 - Sat 20 Apr 1889
+    - Accrington FC (1878-1896), Aston Villa FC, Blackburn Rovers FC, Bolton Wanderers FC, Burnley FC, Derby County FC, Everton FC, Notts County FC, Preston North End FC, Stoke City FC, West Bromwich Albion FC, Wolverhampton Wanderers FC
 
 
 
@@ -991,8 +3074,8 @@ AFC Bournemouth             => Bournemouth
 AFC Rushden & Diamonds      => (2) Rushden & D • Rushden & Diamonds
 AFC Telford United (2004-)  => AFC Telford United
 AFC Wimbledon               
-Aberdare Athletic FC (1893-1928)  => Aberdare Athletic
-Accrington FC (1878-1896)   => Accrington F.C.
+Aberdare Athletic FC (1893-1928)  => (2) Aberdare Athletic • Aberdare Athletic FC
+Accrington FC (1878-1896)   => (2) Accrington FC • Accrington F.C.
 Accrington Stanley FC       => (2) Accrington • Accrington Stanley
 Aldershot Town FC           => Aldershot
 Alfreton Town FC            => Alfreton Town
@@ -1008,7 +3091,7 @@ Birmingham City FC          => (2) Birmingham • Birmingham City
 Blackburn Rovers FC         => (2) Blackburn • Blackburn Rovers
 Blackpool FC                => Blackpool
 Bolton Wanderers FC         => (2) Bolton • Bolton Wanderers
-Bootle FC (1879-1893)       => Bootle
+Bootle FC (1879-1893)       => (2) Bootle • Bootle FC
 Boston United FC            => (2) Boston • Boston United
 Bradford City AFC           => (2) Bradford • Bradford City
 Bradford Park Avenue AFC    => Bradford Park Avenue
@@ -1019,9 +3102,9 @@ Bristol City FC             => Bristol City
 Bristol Rovers FC           => (2) Bristol Rvs • Bristol Rovers
 Burnley FC                  => Burnley
 Burton Albion FC            => (2) Burton • Burton Albion
-Burton Swifts FC (1871-1901)  => Burton Swifts
-Burton United FC (1901-1910)  => Burton United
-Burton Wanderers FC (1871-1901)  => Burton Wanderers
+Burton Swifts FC (1871-1901)  => (2) Burton Swifts • Burton Swifts FC
+Burton United FC (1901-1910)  => (2) Burton United • Burton United FC
+Burton Wanderers FC (1871-1901)  => (2) Burton Wanderers • Burton Wanderers FC
 Bury FC                     => Bury
 Cambridge United FC         => (2) Cambridge • Cambridge United
 Canvey Island FC            => Canvey Island
@@ -1040,7 +3123,7 @@ Crystal Palace FC           => Crystal Palace
 Dagenham & Redbridge FC     => (2) Dag and Red • Dagenham and Redbridge
 Darlington FC               => Darlington
 Dartford FC                 => Dartford
-Darwen FC (1870-2009)       => Darwen
+Darwen FC (1870-2009)       => (2) Darwen • Darwen FC
 Derby County FC             => (2) Derby • Derby County
 Doncaster Rovers FC         => (2) Doncaster • Doncaster Rovers
 Droylsden FC                => Droylsden
@@ -1062,8 +3145,8 @@ Grays Athletic FC           => Grays
 Grimsby Town FC             => (2) Grimsby • Grimsby Town
 Hartlepool United FC        => (2) Hartlepool • Hartlepool United
 Hayes & Yeading United FC   => Hayes & Yeading
-Hereford FC (2014-)         => Hereford
-Hereford United FC (1924-2014)  => Hereford United
+Hereford FC (2014-)         => (2) Hereford • Hereford FC
+Hereford United FC (1924-2014)  => (2) Hereford United • Hereford United FC
 Histon FC                   => Histon
 Huddersfield Town AFC       => (2) Huddersfield • Huddersfield Town
 Hull City AFC               => (2) Hull • Hull City
@@ -1071,14 +3154,14 @@ Hyde United FC              => Hyde United
 Ipswich Town FC             => (2) Ipswich • Ipswich Town
 Kettering Town FC           => Kettering Town
 Kidderminster Harriers FC   => (2) Kidderminster • Kidderminster Harriers
-Leeds City FC (1904-1919)   => Leeds City
+Leeds City FC (1904-1919)   => (2) Leeds City • Leeds City FC
 Leeds United FC             => (2) Leeds • Leeds United
 Leicester City FC           => (2) Leicester • Leicester City
 Lewes FC                    => Lewes
 Leyton Orient FC            => Leyton Orient
 Lincoln City FC             => (2) Lincoln • Lincoln City
 Liverpool FC                => Liverpool
-Loughborough FC (1886-1900)  => Loughborough
+Loughborough FC (1886-1900)  => (2) Loughborough • Loughborough FC
 Luton Town FC               => (2) Luton • Luton Town
 Macclesfield Town FC        => Macclesfield
 Maidstone United FC         => (2) Maidstone • Maidstone United
@@ -1087,12 +3170,12 @@ Manchester United FC        => (2) Man United • Manchester United
 Mansfield Town FC           => (2) Mansfield • Mansfield Town
 Merthyr Town FC             => Merthyr Town
 Middlesbrough FC            => (2) Middlesboro • Middlesbrough
-Middlesbrough Ironopolis FC (1889-1894)  => Middlesbrough Ironopolis
+Middlesbrough Ironopolis FC (1889-1894)  => (2) Middlesbrough Ironopolis • Middlesbrough Ironopolis FC
 Millwall FC                 => Millwall
 Milton Keynes Dons FC       => Milton Keynes Dons
 Morecambe FC                => Morecambe
 Nelson FC                   => Nelson
-New Brighton Tower FC (1898-1901)  => (2) New Brighton • New Brighton Tower
+New Brighton Tower FC (1898-1901)  => (3) New Brighton • New Brighton Tower • New Brighton Tower FC
 Newcastle United FC         => (2) Newcastle • Newcastle United
 Newport County AFC          => Newport County
 Northampton Town FC         => (2) Northampton • Northampton Town
@@ -1111,10 +3194,10 @@ Preston North End FC        => (2) Preston • Preston North End
 Queens Park Rangers FC      => (2) QPR • Queens Park Rangers
 Reading FC                  => Reading
 Rochdale AFC                => Rochdale
-Rotherham County FC (1870-1925)  => Rotherham County
-Rotherham Town FC (1899-1925)  => Rotherham Town
+Rotherham County FC (1870-1925)  => (2) Rotherham County • Rotherham County FC
+Rotherham Town FC (1899-1925)  => (2) Rotherham Town • Rotherham Town FC
 Rotherham United FC         => (2) Rotherham • Rotherham United
-Salisbury City FC (1947-2014)  => Salisbury
+Salisbury City FC (1947-2014)  => (2) Salisbury • Salisbury City FC
 Scarborough Athletic FC     => Scarborough
 Scunthorpe United FC        => (2) Scunthorpe • Scunthorpe United
 Sheffield United FC         => Sheffield United
@@ -1134,7 +3217,7 @@ Sunderland AFC              => Sunderland
 Swansea City AFC            => (2) Swansea • Swansea City
 Swindon Town FC             => (2) Swindon • Swindon Town
 Tamworth FC                 => Tamworth
-Thames AFC (1928-1932)      => Thames
+Thames AFC (1928-1932)      => (2) Thames • Thames AFC
 Torquay United FC           => (2) Torquay • Torquay United
 Tottenham Hotspur FC        => (2) Tottenham • Tottenham Hotspur
 Tranmere Rovers FC          => (2) Tranmere • Tranmere Rovers
@@ -1145,7 +3228,7 @@ West Bromwich Albion FC     => (2) West Brom • West Bromwich Albion
 West Ham United FC          => (2) West Ham • West Ham United
 Weymouth FC                 => Weymouth
 Wigan Athletic FC           => (2) Wigan • Wigan Athletic
-Wigan Borough FC (1920-1931)  => Wigan Borough
+Wigan Borough FC (1920-1931)  => (2) Wigan Borough • Wigan Borough FC
 Wimbledon FC                => Wimbledon
 Woking FC                   => Woking
 Wolverhampton Wanderers FC  => (2) Wolves • Wolverhampton Wanderers
@@ -1174,22 +3257,22 @@ York City FC                => (2) York • York City
   - Leyton Orient FC  (1) Leyton Orient
   - Millwall FC  (1) Millwall
   - Queens Park Rangers FC  (2) QPR • Queens Park Rangers
-  - Thames AFC (1928-1932)  (1) Thames
+  - Thames AFC (1928-1932)  (2) Thames • Thames AFC
   - Tottenham Hotspur FC  (2) Tottenham • Tottenham Hotspur
   - Welling United FC  (1) Welling United
   - West Ham United FC  (2) West Ham • West Ham United
   - Wimbledon FC  (1) Wimbledon
 - **Burton upon Trent › Staffordshire** (4): 
   - Burton Albion FC  (2) Burton • Burton Albion
-  - Burton Swifts FC (1871-1901)  (1) Burton Swifts
-  - Burton United FC (1901-1910)  (1) Burton United
-  - Burton Wanderers FC (1871-1901)  (1) Burton Wanderers
+  - Burton Swifts FC (1871-1901)  (2) Burton Swifts • Burton Swifts FC
+  - Burton United FC (1901-1910)  (2) Burton United • Burton United FC
+  - Burton Wanderers FC (1871-1901)  (2) Burton Wanderers • Burton Wanderers FC
 - **Rotherham › South Yorkshire** (3): 
-  - Rotherham County FC (1870-1925)  (1) Rotherham County
-  - Rotherham Town FC (1899-1925)  (1) Rotherham Town
+  - Rotherham County FC (1870-1925)  (2) Rotherham County • Rotherham County FC
+  - Rotherham Town FC (1899-1925)  (2) Rotherham Town • Rotherham Town FC
   - Rotherham United FC  (2) Rotherham • Rotherham United
 - **Accrington › Lancashire** (2): 
-  - Accrington FC (1878-1896)  (1) Accrington F.C.
+  - Accrington FC (1878-1896)  (2) Accrington F.C. • Accrington FC
   - Accrington Stanley FC  (2) Accrington • Accrington Stanley
 - **Birmingham › Warwickshire** (2): 
   - Aston Villa FC  (1) Aston Villa
@@ -1201,10 +3284,10 @@ York City FC                => (2) York • York City
   - Bristol City FC  (1) Bristol City
   - Bristol Rovers FC  (2) Bristol Rvs • Bristol Rovers
 - **Hereford › Herefordshire** (2): 
-  - Hereford FC (2014-)  (1) Hereford
-  - Hereford United FC (1924-2014)  (1) Hereford United
+  - Hereford FC (2014-)  (2) Hereford • Hereford FC
+  - Hereford United FC (1924-2014)  (2) Hereford United • Hereford United FC
 - **Leeds › West Yorkshire** (2): 
-  - Leeds City FC (1904-1919)  (1) Leeds City
+  - Leeds City FC (1904-1919)  (2) Leeds City • Leeds City FC
   - Leeds United FC  (2) Leeds • Leeds United
 - **Liverpool › Lancashire** (2): 
   - Everton FC  (1) Everton
@@ -1214,7 +3297,7 @@ York City FC                => (2) York • York City
   - Manchester United FC  (2) Man United • Manchester United
 - **Middlesbrough › North Yorkshire** (2): 
   - Middlesbrough FC  (2) Middlesbrough • Middlesboro
-  - Middlesbrough Ironopolis FC (1889-1894)  (1) Middlesbrough Ironopolis
+  - Middlesbrough Ironopolis FC (1889-1894)  (2) Middlesbrough Ironopolis • Middlesbrough Ironopolis FC
 - **Sheffield › South Yorkshire** (2): 
   - Sheffield United FC  (1) Sheffield United
   - Sheffield Wednesday FC  (2) Sheffield Weds • Sheffield Wednesday
@@ -1223,8 +3306,8 @@ York City FC                => (2) York • York City
   - Stoke City FC  (2) Stoke • Stoke City
 - **Wigan › Greater Manchester** (2): 
   - Wigan Athletic FC  (2) Wigan • Wigan Athletic
-  - Wigan Borough FC (1920-1931)  (1) Wigan Borough
-- **Aberdare** (1): Aberdare Athletic FC (1893-1928)  (1) Aberdare Athletic
+  - Wigan Borough FC (1920-1931)  (2) Wigan Borough • Wigan Borough FC
+- **Aberdare** (1): Aberdare Athletic FC (1893-1928)  (2) Aberdare Athletic • Aberdare Athletic FC
 - **Aldershot › Hampshire** (1): Aldershot Town FC  (1) Aldershot
 - **Alfreton › Derbyshire** (1): Alfreton Town FC  (1) Alfreton Town
 - **Altrincham › Greater Manchester** (1): Altrincham FC  (1) Altrincham
@@ -1236,7 +3319,7 @@ York City FC                => (2) York • York City
 - **Blackburn › Lancashire** (1): Blackburn Rovers FC  (2) Blackburn • Blackburn Rovers
 - **Blackpool › Lancashire** (1): Blackpool FC  (1) Blackpool
 - **Bolton › Greater Manchester** (1): Bolton Wanderers FC  (2) Bolton • Bolton Wanderers
-- **Bootle › Lancashire** (1): Bootle FC (1879-1893)  (1) Bootle
+- **Bootle › Lancashire** (1): Bootle FC (1879-1893)  (2) Bootle • Bootle FC
 - **Boston › Lincolnshire** (1): Boston United FC  (2) Boston • Boston United
 - **Bournemouth › Dorset** (1): AFC Bournemouth  (1) Bournemouth
 - **Braintree › Essex** (1): Braintree Town FC  (1) Braintree Town
@@ -1256,7 +3339,7 @@ York City FC                => (2) York • York City
 - **Crewe › Cheshire** (1): Crewe Alexandra FC  (2) Crewe • Crewe Alexandra
 - **Darlington › Durham** (1): Darlington FC  (1) Darlington
 - **Dartford › Kent** (1): Dartford FC  (1) Dartford
-- **Darwen › Lancashire** (1): Darwen FC (1870-2009)  (1) Darwen
+- **Darwen › Lancashire** (1): Darwen FC (1870-2009)  (2) Darwen • Darwen FC
 - **Derby › Derbyshire** (1): Derby County FC  (2) Derby • Derby County
 - **Doncaster › South Yorkshire** (1): Doncaster Rovers FC  (2) Doncaster • Doncaster Rovers
 - **Droylsden › Greater Manchester** (1): Droylsden FC  (1) Droylsden
@@ -1284,7 +3367,7 @@ York City FC                => (2) York • York City
 - **Leicester** (1): Leicester City FC  (2) Leicester • Leicester City
 - **Lewes › East Sussex** (1): Lewes FC  (1) Lewes
 - **Lincoln › Lincolnshire** (1): Lincoln City FC  (2) Lincoln • Lincoln City
-- **Loughborough › Leicestershire** (1): Loughborough FC (1886-1900)  (1) Loughborough
+- **Loughborough › Leicestershire** (1): Loughborough FC (1886-1900)  (2) Loughborough • Loughborough FC
 - **Luton › Bedfordshire** (1): Luton Town FC  (2) Luton • Luton Town
 - **Macclesfield › Cheshire** (1): Macclesfield Town FC  (1) Macclesfield
 - **Maidstone › Kent** (1): Maidstone United FC  (2) Maidstone • Maidstone United
@@ -1294,7 +3377,7 @@ York City FC                => (2) York • York City
 - **Morecambe › Lancashire** (1): Morecambe FC  (1) Morecambe
 - **Nailsworth › Gloucestershire** (1): Forest Green Rovers FC  (1) Forest Green
 - **Nelson** (1): Nelson FC  (1) Nelson
-- **New Brighton › Merseyside** (1): New Brighton Tower FC (1898-1901)  (2) New Brighton • New Brighton Tower
+- **New Brighton › Merseyside** (1): New Brighton Tower FC (1898-1901)  (3) New Brighton • New Brighton Tower • New Brighton Tower FC
 - **Newcastle upon Tyne › Northumberland** (1): Newcastle United FC  (2) Newcastle • Newcastle United
 - **Newport** (1): Newport County AFC  (1) Newport County
 - **Northampton › Northamptonshire** (1): Northampton Town FC  (2) Northampton • Northampton Town
@@ -1312,7 +3395,7 @@ York City FC                => (2) York • York City
 - **Reading › Berkshire** (1): Reading FC  (1) Reading
 - **Rochdale › Greater Manchester** (1): Rochdale AFC  (1) Rochdale
 - **Rushden › Northamptonshire** (1): AFC Rushden & Diamonds  (2) Rushden & D • Rushden & Diamonds
-- **Salisbury › Wiltshire** (1): Salisbury City FC (1947-2014)  (1) Salisbury
+- **Salisbury › Wiltshire** (1): Salisbury City FC (1947-2014)  (2) Salisbury • Salisbury City FC
 - **Scarborough › North Yorkshire** (1): Scarborough Athletic FC  (1) Scarborough
 - **Scunthorpe › Lincolnshire** (1): Scunthorpe United FC  (2) Scunthorpe • Scunthorpe United
 - **Shrewsbury › Shropshire** (1): Shrewsbury Town FC  (2) Shrewsbury • Shrewsbury Town
