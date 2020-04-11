@@ -2,10 +2,10 @@
 
 ## Leagues
 
-all top 4 tier games ever played 1888-2016
+all top 4 tier matches ever played 1888-2016
 
-- FL = Football League
-- PL = Premier League
+Keys: FL = Football League; PL = Premier League
+
 
 - 1888/9-1891/2   FL Division 1
 - 1892/3-1914/5   FL Divisions 1 & 2
