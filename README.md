@@ -33,13 +33,6 @@ Football data for England (and Wales) includes:
 - Football Conference
 
 
-Notes:
-
-- Starting with the 2004/05 season the Football League's Division 1, Division 2 and Division 3 changed to Championship, League One and League Two.
-
-
-
-
 ## Sources
 
 These datasets are a 1:1 mirror, that is, an export in the comma-separated values (CSV) format from the [open football.db /england datasets](https://github.com/openfootball/england).
