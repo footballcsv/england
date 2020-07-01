@@ -1,463 +1,463 @@
-Round,Date,Team 1,FT,HT,Team 2
-?,(Sat) 14 Aug 1993 (W32),Arsenal FC (1),0-3,?,Coventry City FC (1)
-?,(Sat) 14 Aug 1993 (W32),Aston Villa FC (1),4-1,?,Queens Park Rangers FC (1)
-?,(Sat) 14 Aug 1993 (W32),Chelsea FC (1),1-2,?,Blackburn Rovers FC (1)
-?,(Sat) 14 Aug 1993 (W32),Liverpool FC (1),2-0,?,Sheffield Wednesday FC (1)
-?,(Sat) 14 Aug 1993 (W32),Manchester City FC (1),1-1,?,Leeds United FC (1)
-?,(Sat) 14 Aug 1993 (W32),Newcastle United FC (1),0-1,?,Tottenham Hotspur FC (1)
-?,(Sat) 14 Aug 1993 (W32),Oldham Athletic AFC (1),0-3,?,Ipswich Town FC (1)
-?,(Sat) 14 Aug 1993 (W32),Sheffield United FC (1),3-1,?,Swindon Town FC (1)
-?,(Sat) 14 Aug 1993 (W32),Southampton FC (1),0-2,?,Everton FC (1)
-?,(Sat) 14 Aug 1993 (W32),West Ham United FC (1),0-2,?,Wimbledon FC (1)
-?,(Sun) 15 Aug 1993 (W32),Norwich City FC (1),0-2,?,Manchester United FC (1)
-?,(Mon) 16 Aug 1993 (W33),Tottenham Hotspur FC (2),0-1,?,Arsenal FC (2)
-?,(Tue) 17 Aug 1993 (W33),Everton FC (2),1-0,?,Manchester City FC (2)
-?,(Tue) 17 Aug 1993 (W33),Ipswich Town FC (2),1-0,?,Southampton FC (2)
-?,(Tue) 17 Aug 1993 (W33),Leeds United FC (2),1-0,?,West Ham United FC (2)
-?,(Tue) 17 Aug 1993 (W33),Wimbledon FC (2),1-1,?,Chelsea FC (2)
-?,(Wed) 18 Aug 1993 (W33),Blackburn Rovers FC (2),2-3,?,Norwich City FC (2)
-?,(Wed) 18 Aug 1993 (W33),Coventry City FC (2),2-1,?,Newcastle United FC (2)
-?,(Wed) 18 Aug 1993 (W33),Manchester United FC (2),3-0,?,Sheffield United FC (2)
-?,(Wed) 18 Aug 1993 (W33),Queens Park Rangers FC (2),1-3,?,Liverpool FC (2)
-?,(Wed) 18 Aug 1993 (W33),Sheffield Wednesday FC (2),0-0,?,Aston Villa FC (2)
-?,(Wed) 18 Aug 1993 (W33),Swindon Town FC (2),0-1,?,Oldham Athletic AFC (2)
-?,(Sat) 21 Aug 1993 (W33),Blackburn Rovers FC (3),1-0,?,Oldham Athletic AFC (3)
-?,(Sat) 21 Aug 1993 (W33),Coventry City FC (3),1-1,?,West Ham United FC (3)
-?,(Sat) 21 Aug 1993 (W33),Everton FC (3),4-2,?,Sheffield United FC (3)
-?,(Sat) 21 Aug 1993 (W33),Ipswich Town FC (3),1-0,?,Chelsea FC (3)
-?,(Sat) 21 Aug 1993 (W33),Leeds United FC (3),0-4,?,Norwich City FC (3)
-?,(Sat) 21 Aug 1993 (W33),Manchester United FC (3),1-1,?,Newcastle United FC (3)
-?,(Sat) 21 Aug 1993 (W33),Queens Park Rangers FC (3),2-1,?,Southampton FC (3)
-?,(Sat) 21 Aug 1993 (W33),Sheffield Wednesday FC (3),0-1,?,Arsenal FC (3)
-?,(Sat) 21 Aug 1993 (W33),Tottenham Hotspur FC (3),1-0,?,Manchester City FC (3)
-?,(Sat) 21 Aug 1993 (W33),Wimbledon FC (3),2-2,?,Aston Villa FC (3)
-?,(Sun) 22 Aug 1993 (W33),Swindon Town FC (3),0-5,?,Liverpool FC (3)
-?,(Mon) 23 Aug 1993 (W34),Aston Villa FC (4),1-2,?,Manchester United FC (4)
-?,(Tue) 24 Aug 1993 (W34),Arsenal FC (4),2-1,?,Leeds United FC (4)
-?,(Tue) 24 Aug 1993 (W34),Manchester City FC (4),0-2,?,Blackburn Rovers FC (4)
-?,(Tue) 24 Aug 1993 (W34),Oldham Athletic AFC (4),3-3,?,Coventry City FC (4)
-?,(Tue) 24 Aug 1993 (W34),Sheffield United FC (4),2-1,?,Wimbledon FC (4)
-?,(Wed) 25 Aug 1993 (W34),Chelsea FC (4),2-0,?,Queens Park Rangers FC (4)
-?,(Wed) 25 Aug 1993 (W34),Liverpool FC (4),1-2,?,Tottenham Hotspur FC (4)
-?,(Wed) 25 Aug 1993 (W34),Newcastle United FC (4),1-0,?,Everton FC (4)
-?,(Wed) 25 Aug 1993 (W34),Norwich City FC (4),1-0,?,Ipswich Town FC (4)
-?,(Wed) 25 Aug 1993 (W34),Southampton FC (4),5-1,?,Swindon Town FC (4)
-?,(Wed) 25 Aug 1993 (W34),West Ham United FC (4),2-0,?,Sheffield Wednesday FC (4)
-?,(Fri) 27 Aug 1993 (W34),Manchester City FC (5),1-1,?,Coventry City FC (5)
-?,(Sat) 28 Aug 1993 (W34),Arsenal FC (5),2-0,?,Everton FC (5)
-?,(Sat) 28 Aug 1993 (W34),Aston Villa FC (5),1-0,?,Tottenham Hotspur FC (5)
-?,(Sat) 28 Aug 1993 (W34),Chelsea FC (5),1-1,?,Sheffield Wednesday FC (5)
-?,(Sat) 28 Aug 1993 (W34),Liverpool FC (5),2-0,?,Leeds United FC (5)
-?,(Sat) 28 Aug 1993 (W34),Norwich City FC (5),0-0,?,Swindon Town FC (5)
-?,(Sat) 28 Aug 1993 (W34),Oldham Athletic AFC (5),1-1,?,Wimbledon FC (5)
-?,(Sat) 28 Aug 1993 (W34),Sheffield United FC (5),1-1,?,Ipswich Town FC (5)
-?,(Sat) 28 Aug 1993 (W34),Southampton FC (5),1-3,?,Manchester United FC (5)
-?,(Sat) 28 Aug 1993 (W34),West Ham United FC (5),0-4,?,Queens Park Rangers FC (5)
-?,(Sun) 29 Aug 1993 (W34),Newcastle United FC (5),1-1,?,Blackburn Rovers FC (5)
-?,(Mon) 30 Aug 1993 (W35),Leeds United FC (6),1-0,?,Oldham Athletic AFC (6)
-?,(Tue) 31 Aug 1993 (W35),Everton FC (6),0-1,?,Aston Villa FC (6)
-?,(Tue) 31 Aug 1993 (W35),Ipswich Town FC (6),1-1,?,Newcastle United FC (6)
-?,(Tue) 31 Aug 1993 (W35),Wimbledon FC (6),1-0,?,Southampton FC (6)
-?,(Wed) 1 Sep 1993 (W35),Blackburn Rovers FC (6),1-1,?,Arsenal FC (6)
-?,(Wed) 1 Sep 1993 (W35),Coventry City FC (6),1-0,?,Liverpool FC (6)
-?,(Wed) 1 Sep 1993 (W35),Manchester United FC (6),3-0,?,West Ham United FC (6)
-?,(Wed) 1 Sep 1993 (W35),Queens Park Rangers FC (6),2-1,?,Sheffield United FC (6)
-?,(Wed) 1 Sep 1993 (W35),Sheffield Wednesday FC (6),3-3,?,Norwich City FC (6)
-?,(Wed) 1 Sep 1993 (W35),Swindon Town FC (6),1-3,?,Manchester City FC (6)
-?,(Wed) 1 Sep 1993 (W35),Tottenham Hotspur FC (6),1-1,?,Chelsea FC (6)
-?,(Sat) 11 Sep 1993 (W36),Arsenal FC (7),4-0,?,Ipswich Town FC (7)
-?,(Sat) 11 Sep 1993 (W36),Aston Villa FC (7),0-0,?,Coventry City FC (7)
-?,(Sat) 11 Sep 1993 (W36),Chelsea FC (7),1-0,?,Manchester United FC (7)
-?,(Sat) 11 Sep 1993 (W36),Manchester City FC (7),3-0,?,Queens Park Rangers FC (7)
-?,(Sat) 11 Sep 1993 (W36),Norwich City FC (7),0-1,?,Wimbledon FC (7)
-?,(Sat) 11 Sep 1993 (W36),Oldham Athletic AFC (7),0-1,?,Everton FC (7)
-?,(Sat) 11 Sep 1993 (W36),Sheffield United FC (7),2-2,?,Tottenham Hotspur FC (7)
-?,(Sat) 11 Sep 1993 (W36),Southampton FC (7),0-2,?,Leeds United FC (7)
-?,(Sat) 11 Sep 1993 (W36),West Ham United FC (7),0-0,?,Swindon Town FC (7)
-?,(Sun) 12 Sep 1993 (W36),Liverpool FC (7),0-1,?,Blackburn Rovers FC (7)
-?,(Mon) 13 Sep 1993 (W37),Newcastle United FC (7),4-2,?,Sheffield Wednesday FC (7)
-?,(Sat) 18 Sep 1993 (W37),Blackburn Rovers FC (8),0-2,?,West Ham United FC (8)
-?,(Sat) 18 Sep 1993 (W37),Coventry City FC (8),1-1,?,Chelsea FC (8)
-?,(Sat) 18 Sep 1993 (W37),Everton FC (8),2-0,?,Liverpool FC (8)
-?,(Sat) 18 Sep 1993 (W37),Ipswich Town FC (8),1-2,?,Aston Villa FC (8)
-?,(Sat) 18 Sep 1993 (W37),Leeds United FC (8),2-1,?,Sheffield United FC (8)
-?,(Sat) 18 Sep 1993 (W37),Queens Park Rangers FC (8),2-2,?,Norwich City FC (8)
-?,(Sat) 18 Sep 1993 (W37),Sheffield Wednesday FC (8),2-0,?,Southampton FC (8)
-?,(Sat) 18 Sep 1993 (W37),Swindon Town FC (8),2-2,?,Newcastle United FC (8)
-?,(Sat) 18 Sep 1993 (W37),Tottenham Hotspur FC (8),5-0,?,Oldham Athletic AFC (8)
-?,(Sun) 19 Sep 1993 (W37),Manchester United FC (8),1-0,?,Arsenal FC (8)
-?,(Mon) 20 Sep 1993 (W38),Wimbledon FC (8),1-0,?,Manchester City FC (8)
-?,(Sat) 25 Sep 1993 (W38),Arsenal FC (9),1-0,?,Southampton FC (9)
-?,(Sat) 25 Sep 1993 (W38),Blackburn Rovers FC (9),1-1,?,Sheffield Wednesday FC (9)
-?,(Sat) 25 Sep 1993 (W38),Chelsea FC (9),1-0,?,Liverpool FC (9)
-?,(Sat) 25 Sep 1993 (W38),Coventry City FC (9),0-2,?,Leeds United FC (9)
-?,(Sat) 25 Sep 1993 (W38),Everton FC (9),1-5,?,Norwich City FC (9)
-?,(Sat) 25 Sep 1993 (W38),Manchester United FC (9),4-2,?,Swindon Town FC (9)
-?,(Sat) 25 Sep 1993 (W38),Newcastle United FC (9),2-0,?,West Ham United FC (9)
-?,(Sat) 25 Sep 1993 (W38),Oldham Athletic AFC (9),1-1,?,Aston Villa FC (9)
-?,(Sat) 25 Sep 1993 (W38),Sheffield United FC (9),0-1,?,Manchester City FC (9)
-?,(Sun) 26 Sep 1993 (W38),Ipswich Town FC (9),2-2,?,Tottenham Hotspur FC (9)
-?,(Mon) 27 Sep 1993 (W39),Wimbledon FC (9),1-1,?,Queens Park Rangers FC (9)
-?,(Sat) 2 Oct 1993 (W39),Aston Villa FC (10),0-2,?,Newcastle United FC (10)
-?,(Sat) 2 Oct 1993 (W39),Leeds United FC (10),4-0,?,Wimbledon FC (10)
-?,(Sat) 2 Oct 1993 (W39),Liverpool FC (10),0-0,?,Arsenal FC (10)
-?,(Sat) 2 Oct 1993 (W39),Norwich City FC (10),1-0,?,Coventry City FC (10)
-?,(Sat) 2 Oct 1993 (W39),Queens Park Rangers FC (10),3-0,?,Ipswich Town FC (10)
-?,(Sat) 2 Oct 1993 (W39),Sheffield Wednesday FC (10),2-3,?,Manchester United FC (10)
-?,(Sat) 2 Oct 1993 (W39),Southampton FC (10),3-3,?,Sheffield United FC (10)
-?,(Sat) 2 Oct 1993 (W39),Swindon Town FC (10),1-3,?,Blackburn Rovers FC (10)
-?,(Sat) 2 Oct 1993 (W39),West Ham United FC (10),1-0,?,Chelsea FC (10)
-?,(Sun) 3 Oct 1993 (W39),Tottenham Hotspur FC (10),3-2,?,Everton FC (10)
-?,(Mon) 4 Oct 1993 (W40),Manchester City FC (10),1-1,?,Oldham Athletic AFC (10)
-?,(Sat) 16 Oct 1993 (W41),Arsenal FC (11),0-0,?,Manchester City FC (11)
-?,(Sat) 16 Oct 1993 (W41),Chelsea FC (11),1-2,?,Norwich City FC (11)
-?,(Sat) 16 Oct 1993 (W41),Coventry City FC (11),1-1,?,Southampton FC (11)
-?,(Sat) 16 Oct 1993 (W41),Liverpool FC (11),2-1,?,Oldham Athletic AFC (11)
-?,(Sat) 16 Oct 1993 (W41),Manchester United FC (11),2-1,?,Tottenham Hotspur FC (11)
-?,(Sat) 16 Oct 1993 (W41),Newcastle United FC (11),1-2,?,Queens Park Rangers FC (11)
-?,(Sat) 16 Oct 1993 (W41),Sheffield Wednesday FC (11),2-2,?,Wimbledon FC (11)
-?,(Sat) 16 Oct 1993 (W41),Swindon Town FC (11),1-1,?,Everton FC (11)
-?,(Sat) 16 Oct 1993 (W41),West Ham United FC (11),0-0,?,Aston Villa FC (11)
-?,(Sun) 17 Oct 1993 (W41),Ipswich Town FC (11),0-0,?,Leeds United FC (11)
-?,(Mon) 18 Oct 1993 (W42),Blackburn Rovers FC (11),0-0,?,Sheffield United FC (11)
-?,(Sat) 23 Oct 1993 (W42),Aston Villa FC (12),1-0,?,Chelsea FC (12)
-?,(Sat) 23 Oct 1993 (W42),Everton FC (12),0-1,?,Manchester United FC (12)
-?,(Sat) 23 Oct 1993 (W42),Leeds United FC (12),3-3,?,Blackburn Rovers FC (12)
-?,(Sat) 23 Oct 1993 (W42),Manchester City FC (12),1-1,?,Liverpool FC (12)
-?,(Sat) 23 Oct 1993 (W42),Norwich City FC (12),0-0,?,West Ham United FC (12)
-?,(Sat) 23 Oct 1993 (W42),Oldham Athletic AFC (12),0-0,?,Arsenal FC (12)
-?,(Sat) 23 Oct 1993 (W42),Queens Park Rangers FC (12),5-1,?,Coventry City FC (12)
-?,(Sat) 23 Oct 1993 (W42),Sheffield United FC (12),1-1,?,Sheffield Wednesday FC (12)
-?,(Sat) 23 Oct 1993 (W42),Tottenham Hotspur FC (12),1-1,?,Swindon Town FC (12)
-?,(Sun) 24 Oct 1993 (W42),Southampton FC (12),2-1,?,Newcastle United FC (12)
-?,(Mon) 25 Oct 1993 (W43),Wimbledon FC (12),0-2,?,Ipswich Town FC (12)
-?,(Sat) 30 Oct 1993 (W43),Arsenal FC (13),0-0,?,Norwich City FC (13)
-?,(Sat) 30 Oct 1993 (W43),Blackburn Rovers FC (13),1-0,?,Tottenham Hotspur FC (13)
-?,(Sat) 30 Oct 1993 (W43),Chelsea FC (13),0-1,?,Oldham Athletic AFC (13)
-?,(Sat) 30 Oct 1993 (W43),Ipswich Town FC (13),0-2,?,Everton FC (13)
-?,(Sat) 30 Oct 1993 (W43),Liverpool FC (13),4-2,?,Southampton FC (13)
-?,(Sat) 30 Oct 1993 (W43),Manchester United FC (13),2-1,?,Queens Park Rangers FC (13)
-?,(Sat) 30 Oct 1993 (W43),Newcastle United FC (13),4-0,?,Wimbledon FC (13)
-?,(Sat) 30 Oct 1993 (W43),Sheffield Wednesday FC (13),3-3,?,Leeds United FC (13)
-?,(Sat) 30 Oct 1993 (W43),Swindon Town FC (13),1-2,?,Aston Villa FC (13)
-?,(Sun) 31 Oct 1993 (W43),Coventry City FC (13),0-0,?,Sheffield United FC (13)
-?,(Mon) 1 Nov 1993 (W44),West Ham United FC (13),3-1,?,Manchester City FC (13)
-?,(Sat) 6 Nov 1993 (W44),Arsenal FC (14),1-2,?,Aston Villa FC (14)
-?,(Sat) 6 Nov 1993 (W44),Coventry City FC (14),2-1,?,Everton FC (14)
-?,(Sat) 6 Nov 1993 (W44),Ipswich Town FC (14),1-4,?,Sheffield Wednesday FC (14)
-?,(Sat) 6 Nov 1993 (W44),Leeds United FC (14),4-1,?,Chelsea FC (14)
-?,(Sat) 6 Nov 1993 (W44),Liverpool FC (14),2-0,?,West Ham United FC (14)
-?,(Sat) 6 Nov 1993 (W44),Queens Park Rangers FC (14),1-0,?,Blackburn Rovers FC (14)
-?,(Sat) 6 Nov 1993 (W44),Sheffield United FC (14),1-2,?,Norwich City FC (14)
-?,(Sat) 6 Nov 1993 (W44),Southampton FC (14),1-0,?,Tottenham Hotspur FC (14)
-?,(Sat) 6 Nov 1993 (W44),Wimbledon FC (14),3-0,?,Swindon Town FC (14)
-?,(Sun) 7 Nov 1993 (W44),Manchester City FC (14),2-3,?,Manchester United FC (14)
-?,(Mon) 8 Nov 1993 (W45),Oldham Athletic AFC (14),1-3,?,Newcastle United FC (14)
-?,(Sat) 20 Nov 1993 (W46),Aston Villa FC (15),1-0,?,Sheffield United FC (15)
-?,(Sat) 20 Nov 1993 (W46),Blackburn Rovers FC (15),2-0,?,Southampton FC (15)
-?,(Sat) 20 Nov 1993 (W46),Chelsea FC (15),0-2,?,Arsenal FC (15)
-?,(Sat) 20 Nov 1993 (W46),Everton FC (15),0-3,?,Queens Park Rangers FC (15)
-?,(Sat) 20 Nov 1993 (W46),Manchester United FC (15),3-1,?,Wimbledon FC (15)
-?,(Sat) 20 Nov 1993 (W46),Norwich City FC (15),1-1,?,Manchester City FC (15)
-?,(Sat) 20 Nov 1993 (W46),Sheffield Wednesday FC (15),0-0,?,Coventry City FC (15)
-?,(Sat) 20 Nov 1993 (W46),Swindon Town FC (15),2-2,?,Ipswich Town FC (15)
-?,(Sat) 20 Nov 1993 (W46),Tottenham Hotspur FC (15),1-1,?,Leeds United FC (15)
-?,(Sat) 20 Nov 1993 (W46),West Ham United FC (15),2-0,?,Oldham Athletic AFC (15)
-?,(Sun) 21 Nov 1993 (W46),Newcastle United FC (15),3-0,?,Liverpool FC (15)
-?,(Mon) 22 Nov 1993 (W47),Chelsea FC (16),0-0,?,Manchester City FC (16)
-?,(Tue) 23 Nov 1993 (W47),Blackburn Rovers FC (16),2-1,?,Coventry City FC (16)
-?,(Tue) 23 Nov 1993 (W47),Everton FC (16),1-1,?,Leeds United FC (16)
-?,(Wed) 24 Nov 1993 (W47),Aston Villa FC (16),0-2,?,Southampton FC (16)
-?,(Wed) 24 Nov 1993 (W47),Manchester United FC (16),0-0,?,Ipswich Town FC (16)
-?,(Wed) 24 Nov 1993 (W47),Newcastle United FC (16),4-0,?,Sheffield United FC (16)
-?,(Wed) 24 Nov 1993 (W47),Sheffield Wednesday FC (16),3-0,?,Oldham Athletic AFC (16)
-?,(Wed) 24 Nov 1993 (W47),Swindon Town FC (16),1-0,?,Queens Park Rangers FC (16)
-?,(Wed) 24 Nov 1993 (W47),Tottenham Hotspur FC (16),1-1,?,Wimbledon FC (16)
-?,(Wed) 24 Nov 1993 (W47),West Ham United FC (16),0-0,?,Arsenal FC (16)
-?,(Sat) 27 Nov 1993 (W47),Arsenal FC (17),2-1,?,Newcastle United FC (17)
-?,(Sat) 27 Nov 1993 (W47),Coventry City FC (17),0-1,?,Manchester United FC (17)
-?,(Sat) 27 Nov 1993 (W47),Ipswich Town FC (17),1-0,?,Blackburn Rovers FC (17)
-?,(Sat) 27 Nov 1993 (W47),Leeds United FC (17),3-0,?,Swindon Town FC (17)
-?,(Sat) 27 Nov 1993 (W47),Manchester City FC (17),1-3,?,Sheffield Wednesday FC (17)
-?,(Sat) 27 Nov 1993 (W47),Oldham Athletic AFC (17),2-1,?,Norwich City FC (16)
-?,(Sat) 27 Nov 1993 (W47),Queens Park Rangers FC (17),1-1,?,Tottenham Hotspur FC (17)
-?,(Sat) 27 Nov 1993 (W47),Sheffield United FC (17),1-0,?,Chelsea FC (17)
-?,(Sat) 27 Nov 1993 (W47),Wimbledon FC (17),1-1,?,Everton FC (17)
-?,(Sun) 28 Nov 1993 (W47),Liverpool FC (16),2-1,?,Aston Villa FC (17)
-?,(Mon) 29 Nov 1993 (W48),Southampton FC (17),0-2,?,West Ham United FC (17)
-?,(Sat) 4 Dec 1993 (W48),Coventry City FC (18),1-0,?,Arsenal FC (18)
-?,(Sat) 4 Dec 1993 (W48),Everton FC (18),1-0,?,Southampton FC (18)
-?,(Sat) 4 Dec 1993 (W48),Ipswich Town FC (18),0-0,?,Oldham Athletic AFC (18)
-?,(Sat) 4 Dec 1993 (W48),Leeds United FC (18),3-2,?,Manchester City FC (18)
-?,(Sat) 4 Dec 1993 (W48),Manchester United FC (18),2-2,?,Norwich City FC (17)
-?,(Sat) 4 Dec 1993 (W48),Queens Park Rangers FC (18),2-2,?,Aston Villa FC (18)
-?,(Sat) 4 Dec 1993 (W48),Sheffield Wednesday FC (18),3-1,?,Liverpool FC (17)
-?,(Sat) 4 Dec 1993 (W48),Swindon Town FC (18),0-0,?,Sheffield United FC (18)
-?,(Sat) 4 Dec 1993 (W48),Tottenham Hotspur FC (18),1-2,?,Newcastle United FC (18)
-?,(Sat) 4 Dec 1993 (W48),Wimbledon FC (18),1-2,?,West Ham United FC (18)
-?,(Sun) 5 Dec 1993 (W48),Blackburn Rovers FC (18),2-0,?,Chelsea FC (18)
-?,(Mon) 6 Dec 1993 (W49),Arsenal FC (19),1-1,?,Tottenham Hotspur FC (19)
-?,(Tue) 7 Dec 1993 (W49),Oldham Athletic AFC (19),2-1,?,Swindon Town FC (19)
-?,(Tue) 7 Dec 1993 (W49),Sheffield United FC (19),0-3,?,Manchester United FC (19)
-?,(Wed) 8 Dec 1993 (W49),Aston Villa FC (19),2-2,?,Sheffield Wednesday FC (19)
-?,(Wed) 8 Dec 1993 (W49),Liverpool FC (18),3-2,?,Queens Park Rangers FC (19)
-?,(Wed) 8 Dec 1993 (W49),Manchester City FC (19),1-0,?,Everton FC (19)
-?,(Wed) 8 Dec 1993 (W49),Southampton FC (19),0-1,?,Ipswich Town FC (19)
-?,(Wed) 8 Dec 1993 (W49),West Ham United FC (19),0-1,?,Leeds United FC (19)
-?,(Sat) 11 Dec 1993 (W49),Aston Villa FC (20),0-1,?,Wimbledon FC (19)
-?,(Sat) 11 Dec 1993 (W49),Chelsea FC (19),1-1,?,Ipswich Town FC (20)
-?,(Sat) 11 Dec 1993 (W49),Liverpool FC (19),2-2,?,Swindon Town FC (20)
-?,(Sat) 11 Dec 1993 (W49),Manchester City FC (20),0-2,?,Tottenham Hotspur FC (20)
-?,(Sat) 11 Dec 1993 (W49),Newcastle United FC (19),1-1,?,Manchester United FC (20)
-?,(Sat) 11 Dec 1993 (W49),Oldham Athletic AFC (20),1-2,?,Blackburn Rovers FC (19)
-?,(Sat) 11 Dec 1993 (W49),Sheffield United FC (20),0-0,?,Everton FC (20)
-?,(Sat) 11 Dec 1993 (W49),Southampton FC (20),0-1,?,Queens Park Rangers FC (20)
-?,(Sat) 11 Dec 1993 (W49),West Ham United FC (20),3-2,?,Coventry City FC (19)
-?,(Sun) 12 Dec 1993 (W49),Arsenal FC (20),1-0,?,Sheffield Wednesday FC (20)
-?,(Mon) 13 Dec 1993 (W50),Norwich City FC (18),2-1,?,Leeds United FC (20)
-?,(Sat) 18 Dec 1993 (W50),Blackburn Rovers FC (20),2-0,?,Manchester City FC (21)
-?,(Sat) 18 Dec 1993 (W50),Coventry City FC (20),1-1,?,Oldham Athletic AFC (21)
-?,(Sat) 18 Dec 1993 (W50),Everton FC (21),0-2,?,Newcastle United FC (20)
-?,(Sat) 18 Dec 1993 (W50),Ipswich Town FC (21),2-1,?,Norwich City FC (19)
-?,(Sat) 18 Dec 1993 (W50),Leeds United FC (21),2-1,?,Arsenal FC (21)
-?,(Sat) 18 Dec 1993 (W50),Sheffield Wednesday FC (21),5-0,?,West Ham United FC (21)
-?,(Sat) 18 Dec 1993 (W50),Swindon Town FC (21),2-1,?,Southampton FC (21)
-?,(Sat) 18 Dec 1993 (W50),Tottenham Hotspur FC (21),3-3,?,Liverpool FC (20)
-?,(Sat) 18 Dec 1993 (W50),Wimbledon FC (20),2-0,?,Sheffield United FC (21)
-?,(Sun) 19 Dec 1993 (W50),Manchester United FC (21),3-1,?,Aston Villa FC (21)
-?,(Wed) 22 Dec 1993 (W51),Newcastle United FC (21),1-1,?,Leeds United FC (22)
-?,(Sun) 26 Dec 1993 (W51),Manchester United FC (22),1-1,?,Blackburn Rovers FC (21)
-?,(Sun) 26 Dec 1993 (W51),Sheffield United FC (22),0-0,?,Liverpool FC (21)
-?,(Sun) 26 Dec 1993 (W51),Wimbledon FC (21),1-2,?,Coventry City FC (21)
-?,(Mon) 27 Dec 1993 (W52),Everton FC (22),0-2,?,Sheffield Wednesday FC (22)
-?,(Mon) 27 Dec 1993 (W52),Ipswich Town FC (22),1-1,?,West Ham United FC (22)
-?,(Mon) 27 Dec 1993 (W52),Queens Park Rangers FC (21),2-0,?,Oldham Athletic AFC (22)
-?,(Mon) 27 Dec 1993 (W52),Southampton FC (22),3-1,?,Chelsea FC (20)
-?,(Mon) 27 Dec 1993 (W52),Swindon Town FC (22),0-4,?,Arsenal FC (22)
-?,(Mon) 27 Dec 1993 (W52),Tottenham Hotspur FC (22),1-3,?,Norwich City FC (20)
-?,(Tue) 28 Dec 1993 (W52),Chelsea FC (21),1-0,?,Newcastle United FC (22)
-?,(Tue) 28 Dec 1993 (W52),Liverpool FC (22),1-1,?,Wimbledon FC (22)
-?,(Tue) 28 Dec 1993 (W52),Manchester City FC (22),1-1,?,Southampton FC (23)
-?,(Tue) 28 Dec 1993 (W52),West Ham United FC (23),1-3,?,Tottenham Hotspur FC (23)
-?,(Wed) 29 Dec 1993 (W52),Arsenal FC (23),3-0,?,Sheffield United FC (23)
-?,(Wed) 29 Dec 1993 (W52),Blackburn Rovers FC (22),2-0,?,Everton FC (23)
-?,(Wed) 29 Dec 1993 (W52),Leeds United FC (23),1-1,?,Queens Park Rangers FC (22)
-?,(Wed) 29 Dec 1993 (W52),Norwich City FC (21),1-2,?,Aston Villa FC (22)
-?,(Wed) 29 Dec 1993 (W52),Oldham Athletic AFC (23),2-5,?,Manchester United FC (23)
-?,(Wed) 29 Dec 1993 (W52),Sheffield Wednesday FC (23),3-3,?,Swindon Town FC (23)
-?,(Sat) 1 Jan 1994 (W52),Aston Villa FC (23),0-1,?,Blackburn Rovers FC (23)
-?,(Sat) 1 Jan 1994 (W52),Everton FC (24),0-1,?,West Ham United FC (24)
-?,(Sat) 1 Jan 1994 (W52),Ipswich Town FC (23),1-2,?,Liverpool FC (23)
-?,(Sat) 1 Jan 1994 (W52),Manchester United FC (24),0-0,?,Leeds United FC (24)
-?,(Sat) 1 Jan 1994 (W52),Newcastle United FC (23),2-0,?,Manchester City FC (23)
-?,(Sat) 1 Jan 1994 (W52),Queens Park Rangers FC (23),1-2,?,Sheffield Wednesday FC (24)
-?,(Sat) 1 Jan 1994 (W52),Sheffield United FC (24),2-1,?,Oldham Athletic AFC (24)
-?,(Sat) 1 Jan 1994 (W52),Southampton FC (24),0-1,?,Norwich City FC (22)
-?,(Sat) 1 Jan 1994 (W52),Swindon Town FC (24),1-3,?,Chelsea FC (22)
-?,(Sat) 1 Jan 1994 (W52),Tottenham Hotspur FC (24),1-2,?,Coventry City FC (22)
-?,(Sat) 1 Jan 1994 (W52),Wimbledon FC (23),0-3,?,Arsenal FC (24)
-?,(Mon) 3 Jan 1994 (W1),Arsenal FC (25),0-0,?,Queens Park Rangers FC (24)
-?,(Mon) 3 Jan 1994 (W1),Chelsea FC (23),4-2,?,Everton FC (25)
-?,(Mon) 3 Jan 1994 (W1),Coventry City FC (23),1-1,?,Swindon Town FC (25)
-?,(Mon) 3 Jan 1994 (W1),Sheffield Wednesday FC (25),1-0,?,Tottenham Hotspur FC (25)
-?,(Mon) 3 Jan 1994 (W1),West Ham United FC (25),0-0,?,Sheffield United FC (25)
-?,(Tue) 4 Jan 1994 (W1),Liverpool FC (24),3-3,?,Manchester United FC (25)
-?,(Tue) 4 Jan 1994 (W1),Norwich City FC (23),1-2,?,Newcastle United FC (24)
-?,(Sat) 15 Jan 1994 (W2),Aston Villa FC (24),3-1,?,West Ham United FC (26)
-?,(Sat) 15 Jan 1994 (W2),Everton FC (26),6-2,?,Swindon Town FC (26)
-?,(Sat) 15 Jan 1994 (W2),Leeds United FC (25),0-0,?,Ipswich Town FC (24)
-?,(Sat) 15 Jan 1994 (W2),Manchester City FC (24),0-0,?,Arsenal FC (26)
-?,(Sat) 15 Jan 1994 (W2),Norwich City FC (24),1-1,?,Chelsea FC (24)
-?,(Sat) 15 Jan 1994 (W2),Oldham Athletic AFC (25),0-3,?,Liverpool FC (25)
-?,(Sat) 15 Jan 1994 (W2),Sheffield United FC (26),1-2,?,Blackburn Rovers FC (24)
-?,(Sat) 15 Jan 1994 (W2),Southampton FC (25),1-0,?,Coventry City FC (24)
-?,(Sat) 15 Jan 1994 (W2),Tottenham Hotspur FC (26),0-1,?,Manchester United FC (26)
-?,(Sat) 15 Jan 1994 (W2),Wimbledon FC (24),2-1,?,Sheffield Wednesday FC (26)
-?,(Sun) 16 Jan 1994 (W2),Queens Park Rangers FC (25),1-2,?,Newcastle United FC (25)
-?,(Sat) 22 Jan 1994 (W3),Arsenal FC (27),1-1,?,Oldham Athletic AFC (26)
-?,(Sat) 22 Jan 1994 (W3),Chelsea FC (25),1-1,?,Aston Villa FC (25)
-?,(Sat) 22 Jan 1994 (W3),Coventry City FC (25),0-1,?,Queens Park Rangers FC (26)
-?,(Sat) 22 Jan 1994 (W3),Ipswich Town FC (25),0-0,?,Wimbledon FC (25)
-?,(Sat) 22 Jan 1994 (W3),Liverpool FC (26),2-1,?,Manchester City FC (25)
-?,(Sat) 22 Jan 1994 (W3),Manchester United FC (27),1-0,?,Everton FC (27)
-?,(Sat) 22 Jan 1994 (W3),Newcastle United FC (26),1-2,?,Southampton FC (26)
-?,(Sat) 22 Jan 1994 (W3),Sheffield Wednesday FC (27),3-1,?,Sheffield United FC (27)
-?,(Sat) 22 Jan 1994 (W3),Swindon Town FC (27),2-1,?,Tottenham Hotspur FC (27)
-?,(Sun) 23 Jan 1994 (W3),Blackburn Rovers FC (25),2-1,?,Leeds United FC (26)
-?,(Mon) 24 Jan 1994 (W4),West Ham United FC (27),3-3,?,Norwich City FC (25)
-?,(Wed) 2 Feb 1994 (W5),Coventry City FC (26),1-0,?,Ipswich Town FC (26)
-?,(Sat) 5 Feb 1994 (W5),Blackburn Rovers FC (26),3-0,?,Wimbledon FC (26)
-?,(Sat) 5 Feb 1994 (W5),Everton FC (28),4-2,?,Chelsea FC (26)
-?,(Sat) 5 Feb 1994 (W5),Manchester City FC (26),2-1,?,Ipswich Town FC (27)
-?,(Sat) 5 Feb 1994 (W5),Norwich City FC (26),2-2,?,Liverpool FC (27)
-?,(Sat) 5 Feb 1994 (W5),Oldham Athletic AFC (27),2-1,?,Southampton FC (27)
-?,(Sat) 5 Feb 1994 (W5),Queens Park Rangers FC (27),2-3,?,Manchester United FC (28)
-?,(Sat) 5 Feb 1994 (W5),Swindon Town FC (28),3-1,?,Coventry City FC (27)
-?,(Sat) 5 Feb 1994 (W5),Tottenham Hotspur FC (28),1-3,?,Sheffield Wednesday FC (28)
-?,(Sun) 6 Feb 1994 (W5),Aston Villa FC (26),1-0,?,Leeds United FC (27)
-?,(Sat) 12 Feb 1994 (W6),Aston Villa FC (27),5-0,?,Swindon Town FC (29)
-?,(Sat) 12 Feb 1994 (W6),Everton FC (29),0-0,?,Ipswich Town FC (28)
-?,(Sat) 12 Feb 1994 (W6),Manchester City FC (27),0-0,?,West Ham United FC (28)
-?,(Sat) 12 Feb 1994 (W6),Oldham Athletic AFC (28),2-1,?,Chelsea FC (27)
-?,(Sat) 12 Feb 1994 (W6),Sheffield United FC (28),0-0,?,Coventry City FC (28)
-?,(Sat) 12 Feb 1994 (W6),Tottenham Hotspur FC (29),0-2,?,Blackburn Rovers FC (27)
-?,(Sat) 12 Feb 1994 (W6),Wimbledon FC (27),4-2,?,Newcastle United FC (27)
-?,(Sun) 13 Feb 1994 (W6),Norwich City FC (27),1-1,?,Arsenal FC (28)
-?,(Mon) 14 Feb 1994 (W7),Southampton FC (28),4-2,?,Liverpool FC (28)
-?,(Sat) 19 Feb 1994 (W7),Blackburn Rovers FC (28),1-0,?,Newcastle United FC (28)
-?,(Sat) 19 Feb 1994 (W7),Coventry City FC (29),4-0,?,Manchester City FC (28)
-?,(Sat) 19 Feb 1994 (W7),Everton FC (30),1-1,?,Arsenal FC (29)
-?,(Sat) 19 Feb 1994 (W7),Leeds United FC (28),2-0,?,Liverpool FC (29)
-?,(Sat) 19 Feb 1994 (W7),Swindon Town FC (30),3-3,?,Norwich City FC (28)
-?,(Tue) 22 Feb 1994 (W8),Aston Villa FC (28),0-0,?,Manchester City FC (29)
-?,(Tue) 22 Feb 1994 (W8),Norwich City FC (29),2-2,?,Blackburn Rovers FC (29)
-?,(Wed) 23 Feb 1994 (W8),Newcastle United FC (29),4-0,?,Coventry City FC (30)
-?,(Sat) 26 Feb 1994 (W8),Arsenal FC (30),1-0,?,Blackburn Rovers FC (30)
-?,(Sat) 26 Feb 1994 (W8),Ipswich Town FC (29),3-2,?,Sheffield United FC (29)
-?,(Sat) 26 Feb 1994 (W8),Liverpool FC (30),1-0,?,Coventry City FC (31)
-?,(Sat) 26 Feb 1994 (W8),Manchester City FC (30),2-1,?,Swindon Town FC (31)
-?,(Sat) 26 Feb 1994 (W8),Norwich City FC (30),1-1,?,Sheffield Wednesday FC (29)
-?,(Sat) 26 Feb 1994 (W8),Southampton FC (29),1-0,?,Wimbledon FC (28)
-?,(Sat) 26 Feb 1994 (W8),West Ham United FC (29),2-2,?,Manchester United FC (29)
-?,(Sun) 27 Feb 1994 (W8),Chelsea FC (28),4-3,?,Tottenham Hotspur FC (30)
-?,(Mon) 28 Feb 1994 (W9),Oldham Athletic AFC (29),1-1,?,Leeds United FC (29)
-?,(Wed) 2 Mar 1994 (W9),Tottenham Hotspur FC (31),1-1,?,Aston Villa FC (29)
-?,(Sat) 5 Mar 1994 (W9),Blackburn Rovers FC (31),2-0,?,Liverpool FC (31)
-?,(Sat) 5 Mar 1994 (W9),Everton FC (31),2-1,?,Oldham Athletic AFC (30)
-?,(Sat) 5 Mar 1994 (W9),Ipswich Town FC (30),1-5,?,Arsenal FC (31)
-?,(Sat) 5 Mar 1994 (W9),Leeds United FC (30),0-0,?,Southampton FC (30)
-?,(Sat) 5 Mar 1994 (W9),Manchester United FC (30),0-1,?,Chelsea FC (29)
-?,(Sat) 5 Mar 1994 (W9),Queens Park Rangers FC (28),1-1,?,Manchester City FC (31)
-?,(Sat) 5 Mar 1994 (W9),Sheffield Wednesday FC (30),0-1,?,Newcastle United FC (30)
-?,(Sat) 5 Mar 1994 (W9),Swindon Town FC (32),1-1,?,West Ham United FC (30)
-?,(Sat) 5 Mar 1994 (W9),Tottenham Hotspur FC (32),2-2,?,Sheffield United FC (30)
-?,(Sat) 5 Mar 1994 (W9),Wimbledon FC (29),3-1,?,Norwich City FC (31)
-?,(Sun) 6 Mar 1994 (W9),Coventry City FC (32),0-1,?,Aston Villa FC (30)
-?,(Sat) 12 Mar 1994 (W10),Aston Villa FC (31),0-1,?,Ipswich Town FC (31)
-?,(Sat) 12 Mar 1994 (W10),Manchester City FC (32),0-1,?,Wimbledon FC (30)
-?,(Sat) 12 Mar 1994 (W10),Newcastle United FC (31),7-1,?,Swindon Town FC (33)
-?,(Sat) 12 Mar 1994 (W10),Norwich City FC (32),3-4,?,Queens Park Rangers FC (29)
-?,(Sat) 12 Mar 1994 (W10),Southampton FC (31),1-1,?,Sheffield Wednesday FC (31)
-?,(Sun) 13 Mar 1994 (W10),Liverpool FC (32),2-1,?,Everton FC (32)
-?,(Sun) 13 Mar 1994 (W10),Sheffield United FC (31),2-2,?,Leeds United FC (31)
-?,(Wed) 16 Mar 1994 (W11),Chelsea FC (30),2-0,?,Wimbledon FC (31)
-?,(Wed) 16 Mar 1994 (W11),Leeds United FC (32),2-0,?,Aston Villa FC (32)
-?,(Wed) 16 Mar 1994 (W11),Manchester United FC (31),5-0,?,Sheffield Wednesday FC (32)
-?,(Wed) 16 Mar 1994 (W11),Sheffield United FC (32),1-1,?,Queens Park Rangers FC (30)
-?,(Sat) 19 Mar 1994 (W11),Aston Villa FC (33),1-2,?,Oldham Athletic AFC (31)
-?,(Sat) 19 Mar 1994 (W11),Leeds United FC (33),1-0,?,Coventry City FC (33)
-?,(Sat) 19 Mar 1994 (W11),Liverpool FC (33),2-1,?,Chelsea FC (31)
-?,(Sat) 19 Mar 1994 (W11),Manchester City FC (33),0-0,?,Sheffield United FC (33)
-?,(Sat) 19 Mar 1994 (W11),Queens Park Rangers FC (31),1-0,?,Wimbledon FC (32)
-?,(Sat) 19 Mar 1994 (W11),Southampton FC (32),0-4,?,Arsenal FC (32)
-?,(Sat) 19 Mar 1994 (W11),Swindon Town FC (34),2-2,?,Manchester United FC (32)
-?,(Sat) 19 Mar 1994 (W11),Tottenham Hotspur FC (33),1-1,?,Ipswich Town FC (32)
-?,(Sat) 19 Mar 1994 (W11),West Ham United FC (31),2-4,?,Newcastle United FC (32)
-?,(Sun) 20 Mar 1994 (W11),Sheffield Wednesday FC (33),1-2,?,Blackburn Rovers FC (32)
-?,(Mon) 21 Mar 1994 (W12),Norwich City FC (33),3-0,?,Everton FC (33)
-?,(Tue) 22 Mar 1994 (W12),Arsenal FC (33),2-2,?,Manchester United FC (33)
-?,(Tue) 22 Mar 1994 (W12),Newcastle United FC (33),2-0,?,Ipswich Town FC (33)
-?,(Sat) 26 Mar 1994 (W12),Arsenal FC (34),1-0,?,Liverpool FC (34)
-?,(Sat) 26 Mar 1994 (W12),Blackburn Rovers FC (33),3-1,?,Swindon Town FC (35)
-?,(Sat) 26 Mar 1994 (W12),Chelsea FC (32),2-0,?,West Ham United FC (32)
-?,(Sat) 26 Mar 1994 (W12),Coventry City FC (34),2-1,?,Norwich City FC (34)
-?,(Sat) 26 Mar 1994 (W12),Everton FC (34),0-1,?,Tottenham Hotspur FC (34)
-?,(Sat) 26 Mar 1994 (W12),Ipswich Town FC (34),1-3,?,Queens Park Rangers FC (32)
-?,(Sat) 26 Mar 1994 (W12),Oldham Athletic AFC (32),0-0,?,Manchester City FC (34)
-?,(Sat) 26 Mar 1994 (W12),Sheffield United FC (34),0-0,?,Southampton FC (33)
-?,(Sun) 27 Mar 1994 (W12),Wimbledon FC (33),1-0,?,Leeds United FC (34)
-?,(Mon) 28 Mar 1994 (W13),Sheffield United FC (35),3-2,?,West Ham United FC (33)
-?,(Tue) 29 Mar 1994 (W13),Ipswich Town FC (35),2-2,?,Manchester City FC (35)
-?,(Tue) 29 Mar 1994 (W13),Newcastle United FC (34),3-0,?,Norwich City FC (35)
-?,(Tue) 29 Mar 1994 (W13),Wimbledon FC (34),4-1,?,Blackburn Rovers FC (34)
-?,(Wed) 30 Mar 1994 (W13),Aston Villa FC (34),0-0,?,Everton FC (35)
-?,(Wed) 30 Mar 1994 (W13),Manchester United FC (34),1-0,?,Liverpool FC (35)
-?,(Wed) 30 Mar 1994 (W13),Sheffield Wednesday FC (34),3-1,?,Chelsea FC (33)
-?,(Wed) 30 Mar 1994 (W13),Southampton FC (34),1-3,?,Oldham Athletic AFC (33)
-?,(Fri) 1 Apr 1994 (W13),Leeds United FC (35),1-1,?,Newcastle United FC (35)
-?,(Sat) 2 Apr 1994 (W13),Arsenal FC (35),1-1,?,Swindon Town FC (36)
-?,(Sat) 2 Apr 1994 (W13),Blackburn Rovers FC (35),2-0,?,Manchester United FC (35)
-?,(Sat) 2 Apr 1994 (W13),Chelsea FC (34),2-0,?,Southampton FC (35)
-?,(Sat) 2 Apr 1994 (W13),Coventry City FC (35),1-2,?,Wimbledon FC (35)
-?,(Sat) 2 Apr 1994 (W13),Liverpool FC (36),1-2,?,Sheffield United FC (36)
-?,(Sat) 2 Apr 1994 (W13),Manchester City FC (36),3-0,?,Aston Villa FC (35)
-?,(Sat) 2 Apr 1994 (W13),Norwich City FC (36),1-2,?,Tottenham Hotspur FC (35)
-?,(Sat) 2 Apr 1994 (W13),Oldham Athletic AFC (34),4-1,?,Queens Park Rangers FC (33)
-?,(Sat) 2 Apr 1994 (W13),Sheffield Wednesday FC (35),5-1,?,Everton FC (36)
-?,(Sat) 2 Apr 1994 (W13),West Ham United FC (34),2-1,?,Ipswich Town FC (36)
-?,(Mon) 4 Apr 1994 (W14),Aston Villa FC (36),0-0,?,Norwich City FC (37)
-?,(Mon) 4 Apr 1994 (W14),Everton FC (37),0-3,?,Blackburn Rovers FC (36)
-?,(Mon) 4 Apr 1994 (W14),Ipswich Town FC (37),0-2,?,Coventry City FC (36)
-?,(Mon) 4 Apr 1994 (W14),Manchester United FC (36),3-2,?,Oldham Athletic AFC (35)
-?,(Mon) 4 Apr 1994 (W14),Newcastle United FC (36),0-0,?,Chelsea FC (35)
-?,(Mon) 4 Apr 1994 (W14),Queens Park Rangers FC (34),0-4,?,Leeds United FC (36)
-?,(Mon) 4 Apr 1994 (W14),Sheffield United FC (37),1-1,?,Arsenal FC (36)
-?,(Mon) 4 Apr 1994 (W14),Southampton FC (36),0-1,?,Manchester City FC (37)
-?,(Mon) 4 Apr 1994 (W14),Swindon Town FC (37),0-1,?,Sheffield Wednesday FC (36)
-?,(Mon) 4 Apr 1994 (W14),Tottenham Hotspur FC (36),1-4,?,West Ham United FC (35)
-?,(Mon) 4 Apr 1994 (W14),Wimbledon FC (36),1-1,?,Liverpool FC (37)
-?,(Sat) 9 Apr 1994 (W14),Coventry City FC (37),1-0,?,Tottenham Hotspur FC (37)
-?,(Sat) 9 Apr 1994 (W14),Liverpool FC (38),1-0,?,Ipswich Town FC (38)
-?,(Sat) 9 Apr 1994 (W14),Manchester City FC (38),2-1,?,Newcastle United FC (37)
-?,(Sat) 9 Apr 1994 (W14),Norwich City FC (38),4-5,?,Southampton FC (37)
-?,(Sat) 9 Apr 1994 (W14),Sheffield Wednesday FC (37),3-1,?,Queens Park Rangers FC (35)
-?,(Sat) 9 Apr 1994 (W14),West Ham United FC (36),0-1,?,Everton FC (38)
-?,(Mon) 11 Apr 1994 (W15),Blackburn Rovers FC (37),1-0,?,Aston Villa FC (37)
-?,(Wed) 13 Apr 1994 (W15),Queens Park Rangers FC (36),1-1,?,Chelsea FC (36)
-?,(Sat) 16 Apr 1994 (W15),Arsenal FC (37),1-0,?,Chelsea FC (37)
-?,(Sat) 16 Apr 1994 (W15),Coventry City FC (38),1-1,?,Sheffield Wednesday FC (38)
-?,(Sat) 16 Apr 1994 (W15),Ipswich Town FC (39),1-1,?,Swindon Town FC (38)
-?,(Sat) 16 Apr 1994 (W15),Liverpool FC (39),0-2,?,Newcastle United FC (38)
-?,(Sat) 16 Apr 1994 (W15),Manchester City FC (39),1-1,?,Norwich City FC (39)
-?,(Sat) 16 Apr 1994 (W15),Oldham Athletic AFC (36),1-2,?,West Ham United FC (37)
-?,(Sat) 16 Apr 1994 (W15),Queens Park Rangers FC (37),2-1,?,Everton FC (39)
-?,(Sat) 16 Apr 1994 (W15),Sheffield United FC (38),1-2,?,Aston Villa FC (38)
-?,(Sat) 16 Apr 1994 (W15),Southampton FC (38),3-1,?,Blackburn Rovers FC (38)
-?,(Sat) 16 Apr 1994 (W15),Wimbledon FC (37),1-0,?,Manchester United FC (37)
-?,(Sun) 17 Apr 1994 (W15),Leeds United FC (37),2-0,?,Tottenham Hotspur FC (38)
-?,(Tue) 19 Apr 1994 (W16),Arsenal FC (38),1-1,?,Wimbledon FC (38)
-?,(Sat) 23 Apr 1994 (W16),Aston Villa FC (39),1-2,?,Arsenal FC (39)
-?,(Sat) 23 Apr 1994 (W16),Chelsea FC (38),1-1,?,Leeds United FC (38)
-?,(Sat) 23 Apr 1994 (W16),Everton FC (40),0-0,?,Coventry City FC (39)
-?,(Sat) 23 Apr 1994 (W16),Manchester United FC (38),2-0,?,Manchester City FC (40)
-?,(Sat) 23 Apr 1994 (W16),Newcastle United FC (39),3-2,?,Oldham Athletic AFC (37)
-?,(Sat) 23 Apr 1994 (W16),Norwich City FC (40),0-1,?,Sheffield United FC (39)
-?,(Sat) 23 Apr 1994 (W16),Sheffield Wednesday FC (39),5-0,?,Ipswich Town FC (40)
-?,(Sat) 23 Apr 1994 (W16),Swindon Town FC (39),2-4,?,Wimbledon FC (39)
-?,(Sat) 23 Apr 1994 (W16),Tottenham Hotspur FC (39),3-0,?,Southampton FC (39)
-?,(Sat) 23 Apr 1994 (W16),West Ham United FC (38),1-2,?,Liverpool FC (40)
-?,(Sun) 24 Apr 1994 (W16),Blackburn Rovers FC (39),1-1,?,Queens Park Rangers FC (38)
-?,(Tue) 26 Apr 1994 (W17),Wimbledon FC (40),3-0,?,Oldham Athletic AFC (38)
-?,(Wed) 27 Apr 1994 (W17),Chelsea FC (39),2-0,?,Swindon Town FC (40)
-?,(Wed) 27 Apr 1994 (W17),Leeds United FC (39),0-2,?,Manchester United FC (39)
-?,(Wed) 27 Apr 1994 (W17),Newcastle United FC (40),5-1,?,Aston Villa FC (40)
-?,(Wed) 27 Apr 1994 (W17),Queens Park Rangers FC (39),1-1,?,Arsenal FC (40)
-?,(Wed) 27 Apr 1994 (W17),West Ham United FC (39),1-2,?,Blackburn Rovers FC (40)
-?,(Sat) 30 Apr 1994 (W17),Arsenal FC (41),0-2,?,West Ham United FC (40)
-?,(Sat) 30 Apr 1994 (W17),Leeds United FC (40),3-0,?,Everton FC (41)
-?,(Sat) 30 Apr 1994 (W17),Liverpool FC (41),0-1,?,Norwich City FC (41)
-?,(Sat) 30 Apr 1994 (W17),Manchester City FC (41),2-2,?,Chelsea FC (40)
-?,(Sat) 30 Apr 1994 (W17),Oldham Athletic AFC (39),0-0,?,Sheffield Wednesday FC (40)
-?,(Sat) 30 Apr 1994 (W17),Queens Park Rangers FC (40),1-3,?,Swindon Town FC (41)
-?,(Sat) 30 Apr 1994 (W17),Sheffield United FC (40),2-0,?,Newcastle United FC (41)
-?,(Sat) 30 Apr 1994 (W17),Southampton FC (40),4-1,?,Aston Villa FC (41)
-?,(Sat) 30 Apr 1994 (W17),Wimbledon FC (41),2-1,?,Tottenham Hotspur FC (40)
-?,(Sun) 1 May 1994 (W17),Ipswich Town FC (41),1-2,?,Manchester United FC (40)
-?,(Mon) 2 May 1994 (W18),Coventry City FC (40),2-1,?,Blackburn Rovers FC (41)
-?,(Tue) 3 May 1994 (W18),Leeds United FC (41),2-2,?,Sheffield Wednesday FC (41)
-?,(Tue) 3 May 1994 (W18),Oldham Athletic AFC (40),1-1,?,Sheffield United FC (41)
-?,(Tue) 3 May 1994 (W18),Queens Park Rangers FC (41),0-0,?,West Ham United FC (41)
-?,(Wed) 4 May 1994 (W18),Chelsea FC (41),1-2,?,Coventry City FC (41)
-?,(Wed) 4 May 1994 (W18),Manchester United FC (41),2-0,?,Southampton FC (41)
-?,(Thu) 5 May 1994 (W18),Oldham Athletic AFC (41),0-2,?,Tottenham Hotspur FC (41)
-?,(Sat) 7 May 1994 (W18),Aston Villa FC (42),2-1,?,Liverpool FC (42)
-?,(Sat) 7 May 1994 (W18),Blackburn Rovers FC (42),0-0,?,Ipswich Town FC (42)
-?,(Sat) 7 May 1994 (W18),Chelsea FC (42),3-2,?,Sheffield United FC (42)
-?,(Sat) 7 May 1994 (W18),Everton FC (42),3-2,?,Wimbledon FC (42)
-?,(Sat) 7 May 1994 (W18),Newcastle United FC (42),2-0,?,Arsenal FC (42)
-?,(Sat) 7 May 1994 (W18),Norwich City FC (42),1-1,?,Oldham Athletic AFC (42)
-?,(Sat) 7 May 1994 (W18),Sheffield Wednesday FC (42),1-1,?,Manchester City FC (42)
-?,(Sat) 7 May 1994 (W18),Swindon Town FC (42),0-5,?,Leeds United FC (42)
-?,(Sat) 7 May 1994 (W18),Tottenham Hotspur FC (42),1-2,?,Queens Park Rangers FC (42)
-?,(Sat) 7 May 1994 (W18),West Ham United FC (42),3-3,?,Southampton FC (42)
-?,(Sun) 8 May 1994 (W18),Manchester United FC (42),0-0,?,Coventry City FC (42)
+Matchday,Date,Team 1,FT,Team 2
+1,Sat Aug 14 1993,Manchester City FC,1-1,Leeds United FC
+1,Sat Aug 14 1993,Aston Villa FC,4-1,Queens Park Rangers FC
+1,Sat Aug 14 1993,Liverpool FC,2-0,Sheffield Wednesday FC
+1,Sat Aug 14 1993,Oldham Athletic AFC,0-3,Ipswich Town FC
+1,Sat Aug 14 1993,Newcastle United FC,0-1,Tottenham Hotspur FC
+1,Sat Aug 14 1993,Southampton FC,0-2,Everton FC
+1,Sat Aug 14 1993,Sheffield United FC,3-1,Swindon Town FC
+1,Sat Aug 14 1993,West Ham United FC,0-2,Wimbledon FC
+1,Sat Aug 14 1993,Chelsea FC,1-2,Blackburn Rovers FC
+1,Sat Aug 14 1993,Arsenal FC,0-3,Coventry City FC
+1,Sun Aug 15 1993,Norwich City FC,0-2,Manchester United FC
+2,Mon Aug 16 1993,Tottenham Hotspur FC,0-1,Arsenal FC
+2,Tue Aug 17 1993,Wimbledon FC,1-1,Chelsea FC
+2,Tue Aug 17 1993,Everton FC,1-0,Manchester City FC
+2,Tue Aug 17 1993,Leeds United FC,1-0,West Ham United FC
+2,Tue Aug 17 1993,Ipswich Town FC,1-0,Southampton FC
+2,Wed Aug 18 1993,Sheffield Wednesday FC,0-0,Aston Villa FC
+2,Wed Aug 18 1993,Swindon Town FC,0-1,Oldham Athletic AFC
+2,Wed Aug 18 1993,Blackburn Rovers FC,2-3,Norwich City FC
+2,Wed Aug 18 1993,Manchester United FC,3-0,Sheffield United FC
+2,Wed Aug 18 1993,Queens Park Rangers FC,1-3,Liverpool FC
+2,Wed Aug 18 1993,Coventry City FC,2-1,Newcastle United FC
+3,Sat Aug 21 1993,Sheffield Wednesday FC,0-1,Arsenal FC
+3,Sat Aug 21 1993,Queens Park Rangers FC,2-1,Southampton FC
+3,Sat Aug 21 1993,Ipswich Town FC,1-0,Chelsea FC
+3,Sat Aug 21 1993,Wimbledon FC,2-2,Aston Villa FC
+3,Sat Aug 21 1993,Manchester United FC,1-1,Newcastle United FC
+3,Sat Aug 21 1993,Leeds United FC,0-4,Norwich City FC
+3,Sat Aug 21 1993,Tottenham Hotspur FC,1-0,Manchester City FC
+3,Sat Aug 21 1993,Coventry City FC,1-1,West Ham United FC
+3,Sat Aug 21 1993,Everton FC,4-2,Sheffield United FC
+3,Sat Aug 21 1993,Blackburn Rovers FC,1-0,Oldham Athletic AFC
+3,Sun Aug 22 1993,Swindon Town FC,0-5,Liverpool FC
+4,Mon Aug 23 1993,Aston Villa FC,1-2,Manchester United FC
+4,Tue Aug 24 1993,Manchester City FC,0-2,Blackburn Rovers FC
+4,Tue Aug 24 1993,Oldham Athletic AFC,3-3,Coventry City FC
+4,Tue Aug 24 1993,Sheffield United FC,2-1,Wimbledon FC
+4,Tue Aug 24 1993,Arsenal FC,2-1,Leeds United FC
+4,Wed Aug 25 1993,Chelsea FC,2-0,Queens Park Rangers FC
+4,Wed Aug 25 1993,West Ham United FC,2-0,Sheffield Wednesday FC
+4,Wed Aug 25 1993,Southampton FC,5-1,Swindon Town FC
+4,Wed Aug 25 1993,Norwich City FC,1-0,Ipswich Town FC
+4,Wed Aug 25 1993,Newcastle United FC,1-0,Everton FC
+4,Wed Aug 25 1993,Liverpool FC,1-2,Tottenham Hotspur FC
+5,Fri Aug 27 1993,Manchester City FC,1-1,Coventry City FC
+5,Sat Aug 28 1993,Sheffield United FC,1-1,Ipswich Town FC
+5,Sat Aug 28 1993,Liverpool FC,2-0,Leeds United FC
+5,Sat Aug 28 1993,Chelsea FC,1-1,Sheffield Wednesday FC
+5,Sat Aug 28 1993,Norwich City FC,0-0,Swindon Town FC
+5,Sat Aug 28 1993,Aston Villa FC,1-0,Tottenham Hotspur FC
+5,Sat Aug 28 1993,West Ham United FC,0-4,Queens Park Rangers FC
+5,Sat Aug 28 1993,Oldham Athletic AFC,1-1,Wimbledon FC
+5,Sat Aug 28 1993,Southampton FC,1-3,Manchester United FC
+5,Sat Aug 28 1993,Arsenal FC,2-0,Everton FC
+5,Sun Aug 29 1993,Newcastle United FC,1-1,Blackburn Rovers FC
+6,Tue Aug 31 1993,Wimbledon FC,1-0,Southampton FC
+6,Tue Aug 31 1993,Ipswich Town FC,1-1,Newcastle United FC
+6,Tue Aug 31 1993,Everton FC,0-1,Aston Villa FC
+6,Tue Aug 31 1993,Leeds United FC,1-0,Oldham Athletic AFC
+6,Wed Sep 1 1993,Swindon Town FC,1-3,Manchester City FC
+6,Wed Sep 1 1993,Coventry City FC,1-0,Liverpool FC
+6,Wed Sep 1 1993,Blackburn Rovers FC,1-1,Arsenal FC
+6,Wed Sep 1 1993,Tottenham Hotspur FC,1-1,Chelsea FC
+6,Wed Sep 1 1993,Manchester United FC,3-0,West Ham United FC
+6,Wed Sep 1 1993,Queens Park Rangers FC,2-1,Sheffield United FC
+6,Wed Sep 1 1993,Sheffield Wednesday FC,3-3,Norwich City FC
+7,Sat Sep 11 1993,Manchester City FC,3-0,Queens Park Rangers FC
+7,Sat Sep 11 1993,West Ham United FC,0-0,Swindon Town FC
+7,Sat Sep 11 1993,Sheffield United FC,2-2,Tottenham Hotspur FC
+7,Sat Sep 11 1993,Arsenal FC,4-0,Ipswich Town FC
+7,Sat Sep 11 1993,Southampton FC,0-2,Leeds United FC
+7,Sat Sep 11 1993,Oldham Athletic AFC,0-1,Everton FC
+7,Sat Sep 11 1993,Aston Villa FC,0-0,Coventry City FC
+7,Sat Sep 11 1993,Chelsea FC,1-0,Manchester United FC
+7,Sat Sep 11 1993,Norwich City FC,0-1,Wimbledon FC
+7,Sun Sep 12 1993,Liverpool FC,0-1,Blackburn Rovers FC
+7,Mon Sep 13 1993,Newcastle United FC,4-2,Sheffield Wednesday FC
+8,Sat Sep 18 1993,Ipswich Town FC,1-2,Aston Villa FC
+8,Sat Sep 18 1993,Blackburn Rovers FC,0-2,West Ham United FC
+8,Sat Sep 18 1993,Sheffield Wednesday FC,2-0,Southampton FC
+8,Sat Sep 18 1993,Leeds United FC,2-1,Sheffield United FC
+8,Sat Sep 18 1993,Swindon Town FC,2-2,Newcastle United FC
+8,Sat Sep 18 1993,Queens Park Rangers FC,2-2,Norwich City FC
+8,Sat Sep 18 1993,Everton FC,2-0,Liverpool FC
+8,Sat Sep 18 1993,Coventry City FC,1-1,Chelsea FC
+8,Sat Sep 18 1993,Tottenham Hotspur FC,5-0,Oldham Athletic AFC
+8,Sun Sep 19 1993,Manchester United FC,1-0,Arsenal FC
+8,Mon Sep 20 1993,Wimbledon FC,1-0,Manchester City FC
+9,Sat Sep 25 1993,Oldham Athletic AFC,1-1,Aston Villa FC
+9,Sat Sep 25 1993,Sheffield United FC,0-1,Manchester City FC
+9,Sat Sep 25 1993,Chelsea FC,1-0,Liverpool FC
+9,Sat Sep 25 1993,Blackburn Rovers FC,1-1,Sheffield Wednesday FC
+9,Sat Sep 25 1993,Arsenal FC,1-0,Southampton FC
+9,Sat Sep 25 1993,Everton FC,1-5,Norwich City FC
+9,Sat Sep 25 1993,Manchester United FC,4-2,Swindon Town FC
+9,Sat Sep 25 1993,Newcastle United FC,2-0,West Ham United FC
+9,Sat Sep 25 1993,Coventry City FC,0-2,Leeds United FC
+9,Sun Sep 26 1993,Ipswich Town FC,2-2,Tottenham Hotspur FC
+9,Mon Sep 27 1993,Wimbledon FC,1-1,Queens Park Rangers FC
+10,Sat Oct 2 1993,Sheffield Wednesday FC,2-3,Manchester United FC
+10,Sat Oct 2 1993,Swindon Town FC,1-3,Blackburn Rovers FC
+10,Sat Oct 2 1993,Leeds United FC,4-0,Wimbledon FC
+10,Sat Oct 2 1993,Southampton FC,3-3,Sheffield United FC
+10,Sat Oct 2 1993,Norwich City FC,1-0,Coventry City FC
+10,Sat Oct 2 1993,Liverpool FC,0-0,Arsenal FC
+10,Sat Oct 2 1993,Aston Villa FC,0-2,Newcastle United FC
+10,Sat Oct 2 1993,West Ham United FC,1-0,Chelsea FC
+10,Sat Oct 2 1993,Queens Park Rangers FC,3-0,Ipswich Town FC
+10,Sun Oct 3 1993,Tottenham Hotspur FC,3-2,Everton FC
+10,Mon Oct 4 1993,Manchester City FC,1-1,Oldham Athletic AFC
+11,Sat Oct 16 1993,Liverpool FC,2-1,Oldham Athletic AFC
+11,Sat Oct 16 1993,West Ham United FC,0-0,Aston Villa FC
+11,Sat Oct 16 1993,Chelsea FC,1-2,Norwich City FC
+11,Sat Oct 16 1993,Arsenal FC,0-0,Manchester City FC
+11,Sat Oct 16 1993,Sheffield Wednesday FC,2-2,Wimbledon FC
+11,Sat Oct 16 1993,Manchester United FC,2-1,Tottenham Hotspur FC
+11,Sat Oct 16 1993,Swindon Town FC,1-1,Everton FC
+11,Sat Oct 16 1993,Coventry City FC,1-1,Southampton FC
+11,Sat Oct 16 1993,Newcastle United FC,1-2,Queens Park Rangers FC
+11,Sun Oct 17 1993,Ipswich Town FC,0-0,Leeds United FC
+11,Mon Oct 18 1993,Blackburn Rovers FC,0-0,Sheffield United FC
+12,Sat Oct 23 1993,Sheffield United FC,1-1,Sheffield Wednesday FC
+12,Sat Oct 23 1993,Norwich City FC,0-0,West Ham United FC
+12,Sat Oct 23 1993,Leeds United FC,3-3,Blackburn Rovers FC
+12,Sat Oct 23 1993,Everton FC,0-1,Manchester United FC
+12,Sat Oct 23 1993,Oldham Athletic AFC,0-0,Arsenal FC
+12,Sat Oct 23 1993,Tottenham Hotspur FC,1-1,Swindon Town FC
+12,Sat Oct 23 1993,Aston Villa FC,1-0,Chelsea FC
+12,Sat Oct 23 1993,Queens Park Rangers FC,5-1,Coventry City FC
+12,Sat Oct 23 1993,Manchester City FC,1-1,Liverpool FC
+12,Sun Oct 24 1993,Southampton FC,2-1,Newcastle United FC
+12,Mon Oct 25 1993,Wimbledon FC,0-2,Ipswich Town FC
+13,Sat Oct 30 1993,Arsenal FC,0-0,Norwich City FC
+13,Sat Oct 30 1993,Blackburn Rovers FC,1-0,Tottenham Hotspur FC
+13,Sat Oct 30 1993,Chelsea FC,0-1,Oldham Athletic AFC
+13,Sat Oct 30 1993,Manchester United FC,2-1,Queens Park Rangers FC
+13,Sat Oct 30 1993,Newcastle United FC,4-0,Wimbledon FC
+13,Sat Oct 30 1993,Swindon Town FC,1-2,Aston Villa FC
+13,Sat Oct 30 1993,Ipswich Town FC,0-2,Everton FC
+13,Sat Oct 30 1993,Liverpool FC,4-2,Southampton FC
+13,Sat Oct 30 1993,Sheffield Wednesday FC,3-3,Leeds United FC
+13,Sun Oct 31 1993,Coventry City FC,0-0,Sheffield United FC
+13,Mon Nov 1 1993,West Ham United FC,3-1,Manchester City FC
+14,Sat Nov 6 1993,Coventry City FC,2-1,Everton FC
+14,Sat Nov 6 1993,Sheffield United FC,1-2,Norwich City FC
+14,Sat Nov 6 1993,Arsenal FC,1-2,Aston Villa FC
+14,Sat Nov 6 1993,Leeds United FC,4-1,Chelsea FC
+14,Sat Nov 6 1993,Liverpool FC,2-0,West Ham United FC
+14,Sat Nov 6 1993,Southampton FC,1-0,Tottenham Hotspur FC
+14,Sat Nov 6 1993,Wimbledon FC,3-0,Swindon Town FC
+14,Sat Nov 6 1993,Ipswich Town FC,1-4,Sheffield Wednesday FC
+14,Sat Nov 6 1993,Queens Park Rangers FC,1-0,Blackburn Rovers FC
+14,Sun Nov 7 1993,Manchester City FC,2-3,Manchester United FC
+14,Mon Nov 8 1993,Oldham Athletic AFC,1-3,Newcastle United FC
+15,Sat Nov 20 1993,Aston Villa FC,1-0,Sheffield United FC
+15,Sat Nov 20 1993,Swindon Town FC,2-2,Ipswich Town FC
+15,Sat Nov 20 1993,West Ham United FC,2-0,Oldham Athletic AFC
+15,Sat Nov 20 1993,Blackburn Rovers FC,2-0,Southampton FC
+15,Sat Nov 20 1993,Manchester United FC,3-1,Wimbledon FC
+15,Sat Nov 20 1993,Tottenham Hotspur FC,1-1,Leeds United FC
+15,Sat Nov 20 1993,Chelsea FC,0-2,Arsenal FC
+15,Sat Nov 20 1993,Everton FC,0-3,Queens Park Rangers FC
+15,Sat Nov 20 1993,Norwich City FC,1-1,Manchester City FC
+15,Sat Nov 20 1993,Sheffield Wednesday FC,0-0,Coventry City FC
+15,Sun Nov 21 1993,Newcastle United FC,3-0,Liverpool FC
+16,Mon Nov 22 1993,Chelsea FC,0-0,Manchester City FC
+16,Tue Nov 23 1993,Everton FC,1-1,Leeds United FC
+16,Tue Nov 23 1993,Blackburn Rovers FC,2-1,Coventry City FC
+16,Wed Nov 24 1993,West Ham United FC,0-0,Arsenal FC
+16,Wed Nov 24 1993,Newcastle United FC,4-0,Sheffield United FC
+16,Wed Nov 24 1993,Aston Villa FC,0-2,Southampton FC
+16,Wed Nov 24 1993,Manchester United FC,0-0,Ipswich Town FC
+16,Wed Nov 24 1993,Swindon Town FC,1-0,Queens Park Rangers FC
+16,Wed Nov 24 1993,Sheffield Wednesday FC,3-0,Oldham Athletic AFC
+16,Wed Nov 24 1993,Tottenham Hotspur FC,1-1,Wimbledon FC
+17,Sat Nov 27 1993,Oldham Athletic AFC,2-1,Norwich City FC
+17,Sat Nov 27 1993,Sheffield United FC,1-0,Chelsea FC
+17,Sat Nov 27 1993,Wimbledon FC,1-1,Everton FC
+17,Sat Nov 27 1993,Leeds United FC,3-0,Swindon Town FC
+17,Sat Nov 27 1993,Arsenal FC,2-1,Newcastle United FC
+17,Sat Nov 27 1993,Ipswich Town FC,1-0,Blackburn Rovers FC
+17,Sat Nov 27 1993,Queens Park Rangers FC,1-1,Tottenham Hotspur FC
+17,Sat Nov 27 1993,Manchester City FC,1-3,Sheffield Wednesday FC
+17,Sat Nov 27 1993,Coventry City FC,0-1,Manchester United FC
+17,Sun Nov 28 1993,Liverpool FC,2-1,Aston Villa FC
+17,Mon Nov 29 1993,Southampton FC,0-2,West Ham United FC
+18,Sat Dec 4 1993,Queens Park Rangers FC,2-2,Aston Villa FC
+18,Sat Dec 4 1993,Manchester United FC,2-2,Norwich City FC
+18,Sat Dec 4 1993,Coventry City FC,1-0,Arsenal FC
+18,Sat Dec 4 1993,Ipswich Town FC,0-0,Oldham Athletic AFC
+18,Sat Dec 4 1993,Sheffield Wednesday FC,3-1,Liverpool FC
+18,Sat Dec 4 1993,Leeds United FC,3-2,Manchester City FC
+18,Sat Dec 4 1993,Swindon Town FC,0-0,Sheffield United FC
+18,Sat Dec 4 1993,Tottenham Hotspur FC,1-2,Newcastle United FC
+18,Sat Dec 4 1993,Wimbledon FC,1-2,West Ham United FC
+18,Sat Dec 4 1993,Everton FC,1-0,Southampton FC
+18,Sun Dec 5 1993,Blackburn Rovers FC,2-0,Chelsea FC
+19,Mon Dec 6 1993,Arsenal FC,1-1,Tottenham Hotspur FC
+19,Tue Dec 7 1993,Sheffield United FC,0-3,Manchester United FC
+19,Tue Dec 7 1993,Oldham Athletic AFC,2-1,Swindon Town FC
+19,Wed Dec 8 1993,Liverpool FC,3-2,Queens Park Rangers FC
+19,Wed Dec 8 1993,Manchester City FC,1-0,Everton FC
+19,Wed Dec 8 1993,Aston Villa FC,2-2,Sheffield Wednesday FC
+19,Wed Dec 8 1993,West Ham United FC,0-1,Leeds United FC
+19,Wed Dec 8 1993,Southampton FC,0-1,Ipswich Town FC
+20,Sat Dec 11 1993,Liverpool FC,2-2,Swindon Town FC
+20,Sat Dec 11 1993,West Ham United FC,3-2,Coventry City FC
+20,Sat Dec 11 1993,Chelsea FC,1-1,Ipswich Town FC
+20,Sat Dec 11 1993,Sheffield United FC,0-0,Everton FC
+20,Sat Dec 11 1993,Aston Villa FC,0-1,Wimbledon FC
+20,Sat Dec 11 1993,Southampton FC,0-1,Queens Park Rangers FC
+20,Sat Dec 11 1993,Oldham Athletic AFC,1-2,Blackburn Rovers FC
+20,Sat Dec 11 1993,Newcastle United FC,1-1,Manchester United FC
+20,Sat Dec 11 1993,Manchester City FC,0-2,Tottenham Hotspur FC
+20,Sun Dec 12 1993,Arsenal FC,1-0,Sheffield Wednesday FC
+20,Mon Dec 13 1993,Norwich City FC,2-1,Leeds United FC
+21,Sat Dec 18 1993,Everton FC,0-2,Newcastle United FC
+21,Sat Dec 18 1993,Wimbledon FC,2-0,Sheffield United FC
+21,Sat Dec 18 1993,Swindon Town FC,2-1,Southampton FC
+21,Sat Dec 18 1993,Leeds United FC,2-1,Arsenal FC
+21,Sat Dec 18 1993,Sheffield Wednesday FC,5-0,West Ham United FC
+21,Sat Dec 18 1993,Coventry City FC,1-1,Oldham Athletic AFC
+21,Sat Dec 18 1993,Tottenham Hotspur FC,3-3,Liverpool FC
+21,Sat Dec 18 1993,Blackburn Rovers FC,2-0,Manchester City FC
+21,Sat Dec 18 1993,Ipswich Town FC,2-1,Norwich City FC
+21,Sun Dec 19 1993,Manchester United FC,3-1,Aston Villa FC
+22,Wed Dec 22 1993,Newcastle United FC,1-1,Leeds United FC
+22,Sun Dec 26 1993,Wimbledon FC,1-2,Coventry City FC
+22,Sun Dec 26 1993,Sheffield United FC,0-0,Liverpool FC
+22,Sun Dec 26 1993,Manchester United FC,1-1,Blackburn Rovers FC
+22,Mon Dec 27 1993,Ipswich Town FC,1-1,West Ham United FC
+22,Mon Dec 27 1993,Swindon Town FC,0-4,Arsenal FC
+22,Mon Dec 27 1993,Queens Park Rangers FC,2-0,Oldham Athletic AFC
+22,Mon Dec 27 1993,Southampton FC,3-1,Chelsea FC
+22,Mon Dec 27 1993,Tottenham Hotspur FC,1-3,Norwich City FC
+22,Mon Dec 27 1993,Everton FC,0-2,Sheffield Wednesday FC
+23,Tue Dec 28 1993,Liverpool FC,1-1,Wimbledon FC
+23,Tue Dec 28 1993,Chelsea FC,1-0,Newcastle United FC
+23,Tue Dec 28 1993,West Ham United FC,1-3,Tottenham Hotspur FC
+23,Tue Dec 28 1993,Manchester City FC,1-1,Southampton FC
+23,Wed Dec 29 1993,Leeds United FC,1-1,Queens Park Rangers FC
+23,Wed Dec 29 1993,Blackburn Rovers FC,2-0,Everton FC
+23,Wed Dec 29 1993,Sheffield Wednesday FC,3-3,Swindon Town FC
+23,Wed Dec 29 1993,Norwich City FC,1-2,Aston Villa FC
+23,Wed Dec 29 1993,Oldham Athletic AFC,2-5,Manchester United FC
+23,Wed Dec 29 1993,Arsenal FC,3-0,Sheffield United FC
+24,Sat Jan 1 1994,Ipswich Town FC,1-2,Liverpool FC
+24,Sat Jan 1 1994,Southampton FC,0-1,Norwich City FC
+24,Sat Jan 1 1994,Swindon Town FC,1-3,Chelsea FC
+24,Sat Jan 1 1994,Aston Villa FC,0-1,Blackburn Rovers FC
+24,Sat Jan 1 1994,Queens Park Rangers FC,1-2,Sheffield Wednesday FC
+24,Sat Jan 1 1994,Tottenham Hotspur FC,1-2,Coventry City FC
+24,Sat Jan 1 1994,Manchester United FC,0-0,Leeds United FC
+24,Sat Jan 1 1994,Everton FC,0-1,West Ham United FC
+24,Sat Jan 1 1994,Sheffield United FC,2-1,Oldham Athletic AFC
+24,Sat Jan 1 1994,Newcastle United FC,2-0,Manchester City FC
+24,Sat Jan 1 1994,Wimbledon FC,0-3,Arsenal FC
+25,Mon Jan 3 1994,Coventry City FC,1-1,Swindon Town FC
+25,Mon Jan 3 1994,Arsenal FC,0-0,Queens Park Rangers FC
+25,Mon Jan 3 1994,Sheffield Wednesday FC,1-0,Tottenham Hotspur FC
+25,Mon Jan 3 1994,Chelsea FC,4-2,Everton FC
+25,Mon Jan 3 1994,West Ham United FC,0-0,Sheffield United FC
+25,Tue Jan 4 1994,Liverpool FC,3-3,Manchester United FC
+25,Tue Jan 4 1994,Norwich City FC,1-2,Newcastle United FC
+26,Sat Jan 15 1994,Oldham Athletic AFC,0-3,Liverpool FC
+26,Sat Jan 15 1994,Manchester City FC,0-0,Arsenal FC
+26,Sat Jan 15 1994,Everton FC,6-2,Swindon Town FC
+26,Sat Jan 15 1994,Aston Villa FC,3-1,West Ham United FC
+26,Sat Jan 15 1994,Southampton FC,1-0,Coventry City FC
+26,Sat Jan 15 1994,Leeds United FC,0-0,Ipswich Town FC
+26,Sat Jan 15 1994,Wimbledon FC,2-1,Sheffield Wednesday FC
+26,Sat Jan 15 1994,Norwich City FC,1-1,Chelsea FC
+26,Sat Jan 15 1994,Sheffield United FC,1-2,Blackburn Rovers FC
+26,Sat Jan 15 1994,Tottenham Hotspur FC,0-1,Manchester United FC
+26,Sun Jan 16 1994,Queens Park Rangers FC,1-2,Newcastle United FC
+27,Sat Jan 22 1994,Chelsea FC,1-1,Aston Villa FC
+27,Sat Jan 22 1994,Arsenal FC,1-1,Oldham Athletic AFC
+27,Sat Jan 22 1994,Ipswich Town FC,0-0,Wimbledon FC
+27,Sat Jan 22 1994,Liverpool FC,2-1,Manchester City FC
+27,Sat Jan 22 1994,Manchester United FC,1-0,Everton FC
+27,Sat Jan 22 1994,Newcastle United FC,1-2,Southampton FC
+27,Sat Jan 22 1994,Sheffield Wednesday FC,3-1,Sheffield United FC
+27,Sat Jan 22 1994,Swindon Town FC,2-1,Tottenham Hotspur FC
+27,Sat Jan 22 1994,Coventry City FC,0-1,Queens Park Rangers FC
+27,Sun Jan 23 1994,Blackburn Rovers FC,2-1,Leeds United FC
+27,Mon Jan 24 1994,West Ham United FC,3-3,Norwich City FC
+23,Wed Feb 2 1994,Coventry City FC,1-0,Ipswich Town FC
+28,Sat Feb 5 1994,Swindon Town FC,3-1,Coventry City FC
+29,Sat Feb 5 1994,Queens Park Rangers FC,2-3,Manchester United FC
+28,Sat Feb 5 1994,Tottenham Hotspur FC,1-3,Sheffield Wednesday FC
+28,Sat Feb 5 1994,Blackburn Rovers FC,3-0,Wimbledon FC
+28,Sat Feb 5 1994,Manchester City FC,2-1,Ipswich Town FC
+28,Sat Feb 5 1994,Oldham Athletic AFC,2-1,Southampton FC
+28,Sat Feb 5 1994,Everton FC,4-2,Chelsea FC
+16,Sat Feb 5 1994,Norwich City FC,2-2,Liverpool FC
+28,Sun Feb 6 1994,Aston Villa FC,1-0,Leeds United FC
+29,Sat Feb 12 1994,Everton FC,0-0,Ipswich Town FC
+29,Sat Feb 12 1994,Oldham Athletic AFC,2-1,Chelsea FC
+29,Sat Feb 12 1994,Sheffield United FC,0-0,Coventry City FC
+29,Sat Feb 12 1994,Aston Villa FC,5-0,Swindon Town FC
+29,Sat Feb 12 1994,Wimbledon FC,4-2,Newcastle United FC
+29,Sat Feb 12 1994,Manchester City FC,0-0,West Ham United FC
+29,Sat Feb 12 1994,Tottenham Hotspur FC,0-2,Blackburn Rovers FC
+29,Sun Feb 13 1994,Norwich City FC,1-1,Arsenal FC
+29,Mon Feb 14 1994,Southampton FC,4-2,Liverpool FC
+30,Sat Feb 19 1994,Blackburn Rovers FC,1-0,Newcastle United FC
+30,Sat Feb 19 1994,Coventry City FC,4-0,Manchester City FC
+30,Sat Feb 19 1994,Swindon Town FC,3-3,Norwich City FC
+30,Sat Feb 19 1994,Everton FC,1-1,Arsenal FC
+30,Sat Feb 19 1994,Leeds United FC,2-0,Liverpool FC
+30,Tue Feb 22 1994,Ipswich Town FC,3-2,Sheffield United FC
+22,Tue Feb 22 1994,Aston Villa FC,0-0,Manchester City FC
+19,Tue Feb 22 1994,Norwich City FC,2-2,Blackburn Rovers FC
+19,Wed Feb 23 1994,Newcastle United FC,4-0,Coventry City FC
+31,Sat Feb 26 1994,Southampton FC,1-0,Wimbledon FC
+31,Sat Feb 26 1994,Manchester City FC,2-1,Swindon Town FC
+31,Sat Feb 26 1994,Liverpool FC,1-0,Coventry City FC
+31,Sat Feb 26 1994,Arsenal FC,1-0,Blackburn Rovers FC
+31,Sat Feb 26 1994,Norwich City FC,1-1,Sheffield Wednesday FC
+31,Sat Feb 26 1994,West Ham United FC,2-2,Manchester United FC
+31,Sun Feb 27 1994,Chelsea FC,4-3,Tottenham Hotspur FC
+31,Mon Feb 28 1994,Oldham Athletic AFC,1-1,Leeds United FC
+30,Wed Mar 2 1994,Tottenham Hotspur FC,1-1,Aston Villa FC
+32,Sat Mar 5 1994,Manchester United FC,0-1,Chelsea FC
+32,Sat Mar 5 1994,Wimbledon FC,3-1,Norwich City FC
+32,Sat Mar 5 1994,Swindon Town FC,1-1,West Ham United FC
+32,Sat Mar 5 1994,Sheffield Wednesday FC,0-1,Newcastle United FC
+32,Sat Mar 5 1994,Ipswich Town FC,1-5,Arsenal FC
+32,Sat Mar 5 1994,Everton FC,2-1,Oldham Athletic AFC
+32,Sat Mar 5 1994,Queens Park Rangers FC,1-1,Manchester City FC
+32,Sat Mar 5 1994,Blackburn Rovers FC,2-0,Liverpool FC
+32,Sat Mar 5 1994,Leeds United FC,0-0,Southampton FC
+32,Sat Mar 5 1994,Tottenham Hotspur FC,2-2,Sheffield United FC
+32,Sun Mar 6 1994,Coventry City FC,0-1,Aston Villa FC
+33,Sat Mar 12 1994,Newcastle United FC,7-1,Swindon Town FC
+33,Sat Mar 12 1994,Norwich City FC,3-4,Queens Park Rangers FC
+33,Sat Mar 12 1994,Aston Villa FC,0-1,Ipswich Town FC
+33,Sat Mar 12 1994,Manchester City FC,0-1,Wimbledon FC
+33,Sat Mar 12 1994,Southampton FC,1-1,Sheffield Wednesday FC
+33,Sun Mar 13 1994,Sheffield United FC,2-2,Leeds United FC
+33,Sun Mar 13 1994,Liverpool FC,2-1,Everton FC
+19,Wed Mar 16 1994,Chelsea FC,2-0,Wimbledon FC
+25,Wed Mar 16 1994,Leeds United FC,2-0,Aston Villa FC
+31,Wed Mar 16 1994,Sheffield United FC,1-1,Queens Park Rangers FC
+35,Wed Mar 16 1994,Manchester United FC,5-0,Sheffield Wednesday FC
+34,Sat Mar 19 1994,Queens Park Rangers FC,1-0,Wimbledon FC
+34,Sat Mar 19 1994,Southampton FC,0-4,Arsenal FC
+34,Sat Mar 19 1994,Tottenham Hotspur FC,1-1,Ipswich Town FC
+34,Sat Mar 19 1994,Aston Villa FC,1-2,Oldham Athletic AFC
+34,Sat Mar 19 1994,Manchester City FC,0-0,Sheffield United FC
+34,Sat Mar 19 1994,Leeds United FC,1-0,Coventry City FC
+34,Sat Mar 19 1994,Liverpool FC,2-1,Chelsea FC
+34,Sat Mar 19 1994,West Ham United FC,2-4,Newcastle United FC
+34,Sat Mar 19 1994,Swindon Town FC,2-2,Manchester United FC
+34,Sun Mar 20 1994,Sheffield Wednesday FC,1-2,Blackburn Rovers FC
+34,Mon Mar 21 1994,Norwich City FC,3-0,Everton FC
+33,Tue Mar 22 1994,Arsenal FC,2-2,Manchester United FC
+31,Wed Mar 23 1994,Newcastle United FC,2-0,Ipswich Town FC
+35,Sat Mar 26 1994,Chelsea FC,2-0,West Ham United FC
+35,Sat Mar 26 1994,Ipswich Town FC,1-3,Queens Park Rangers FC
+35,Sat Mar 26 1994,Coventry City FC,2-1,Norwich City FC
+35,Sat Mar 26 1994,Wimbledon FC,1-0,Leeds United FC
+35,Sat Mar 26 1994,Sheffield United FC,0-0,Southampton FC
+35,Sat Mar 26 1994,Oldham Athletic AFC,0-0,Manchester City FC
+35,Sat Mar 26 1994,Blackburn Rovers FC,3-1,Swindon Town FC
+35,Sat Mar 26 1994,Everton FC,0-1,Tottenham Hotspur FC
+35,Sat Mar 26 1994,Arsenal FC,1-0,Liverpool FC
+28,Mon Mar 28 1994,Sheffield United FC,3-2,West Ham United FC
+28,Tue Mar 29 1994,Newcastle United FC,3-0,Norwich City FC
+25,Tue Mar 29 1994,Ipswich Town FC,2-2,Manchester City FC
+25,Tue Mar 29 1994,Wimbledon FC,4-1,Blackburn Rovers FC
+28,Wed Mar 30 1994,Manchester United FC,1-0,Liverpool FC
+30,Wed Mar 30 1994,Sheffield Wednesday FC,3-1,Chelsea FC
+31,Wed Mar 30 1994,Aston Villa FC,0-0,Everton FC
+25,Wed Mar 30 1994,Southampton FC,1-3,Oldham Athletic AFC
+36,Fri Apr 1 1994,Leeds United FC,1-1,Newcastle United FC
+36,Sat Apr 2 1994,Sheffield Wednesday FC,5-1,Everton FC
+36,Sat Apr 2 1994,Norwich City FC,1-2,Tottenham Hotspur FC
+36,Sat Apr 2 1994,West Ham United FC,2-1,Ipswich Town FC
+36,Sat Apr 2 1994,Liverpool FC,1-2,Sheffield United FC
+36,Sat Apr 2 1994,Chelsea FC,2-0,Southampton FC
+36,Sat Apr 2 1994,Manchester City FC,3-0,Aston Villa FC
+36,Sat Apr 2 1994,Coventry City FC,1-2,Wimbledon FC
+36,Sat Apr 2 1994,Oldham Athletic AFC,4-1,Queens Park Rangers FC
+36,Sat Apr 2 1994,Arsenal FC,1-1,Swindon Town FC
+36,Sat Apr 2 1994,Blackburn Rovers FC,2-0,Manchester United FC
+37,Mon Apr 4 1994,Tottenham Hotspur FC,1-4,West Ham United FC
+37,Mon Apr 4 1994,Queens Park Rangers FC,0-4,Leeds United FC
+37,Mon Apr 4 1994,Swindon Town FC,0-1,Sheffield Wednesday FC
+37,Mon Apr 4 1994,Sheffield United FC,1-1,Arsenal FC
+37,Mon Apr 4 1994,Manchester United FC,3-2,Oldham Athletic AFC
+37,Mon Apr 4 1994,Ipswich Town FC,0-2,Coventry City FC
+37,Mon Apr 4 1994,Newcastle United FC,0-0,Chelsea FC
+37,Mon Apr 4 1994,Everton FC,0-3,Blackburn Rovers FC
+37,Mon Apr 4 1994,Southampton FC,0-1,Manchester City FC
+37,Mon Apr 4 1994,Wimbledon FC,1-1,Liverpool FC
+37,Mon Apr 4 1994,Aston Villa FC,0-0,Norwich City FC
+38,Sat Apr 9 1994,Manchester City FC,2-1,Newcastle United FC
+38,Sat Apr 9 1994,Liverpool FC,1-0,Ipswich Town FC
+38,Sat Apr 9 1994,West Ham United FC,0-1,Everton FC
+38,Sat Apr 9 1994,Norwich City FC,4-5,Southampton FC
+38,Sat Apr 9 1994,Coventry City FC,1-0,Tottenham Hotspur FC
+38,Sat Apr 9 1994,Sheffield Wednesday FC,3-1,Queens Park Rangers FC
+38,Mon Apr 11 1994,Blackburn Rovers FC,1-0,Aston Villa FC
+21,Wed Apr 13 1994,Queens Park Rangers FC,1-1,Chelsea FC
+39,Sat Apr 16 1994,Manchester City FC,1-1,Norwich City FC
+39,Sat Apr 16 1994,Liverpool FC,0-2,Newcastle United FC
+39,Sat Apr 16 1994,Oldham Athletic AFC,1-2,West Ham United FC
+39,Sat Apr 16 1994,Southampton FC,3-1,Blackburn Rovers FC
+39,Sat Apr 16 1994,Ipswich Town FC,1-1,Swindon Town FC
+39,Sat Apr 16 1994,Sheffield United FC,1-2,Aston Villa FC
+39,Sat Apr 16 1994,Wimbledon FC,1-0,Manchester United FC
+39,Sat Apr 16 1994,Queens Park Rangers FC,2-1,Everton FC
+39,Sat Apr 16 1994,Coventry City FC,1-1,Sheffield Wednesday FC
+39,Sat Apr 16 1994,Arsenal FC,1-0,Chelsea FC
+39,Sun Apr 17 1994,Leeds United FC,2-0,Tottenham Hotspur FC
+38,Tue Apr 19 1994,Arsenal FC,1-1,Wimbledon FC
+40,Sat Apr 23 1994,Swindon Town FC,2-4,Wimbledon FC
+40,Sat Apr 23 1994,Sheffield Wednesday FC,5-0,Ipswich Town FC
+40,Sat Apr 23 1994,Newcastle United FC,3-2,Oldham Athletic AFC
+40,Sat Apr 23 1994,Aston Villa FC,1-2,Arsenal FC
+40,Sat Apr 23 1994,West Ham United FC,1-2,Liverpool FC
+40,Sat Apr 23 1994,Chelsea FC,1-1,Leeds United FC
+40,Sat Apr 23 1994,Norwich City FC,0-1,Sheffield United FC
+40,Sat Apr 23 1994,Manchester United FC,2-0,Manchester City FC
+40,Sat Apr 23 1994,Tottenham Hotspur FC,3-0,Southampton FC
+40,Sat Apr 23 1994,Everton FC,0-0,Coventry City FC
+40,Sun Apr 24 1994,Blackburn Rovers FC,1-1,Queens Park Rangers FC
+30,Tue Apr 26 1994,Wimbledon FC,3-0,Oldham Athletic AFC
+35,Wed Apr 27 1994,Newcastle United FC,5-1,Aston Villa FC
+33,Wed Apr 27 1994,West Ham United FC,1-2,Blackburn Rovers FC
+38,Wed Apr 27 1994,Chelsea FC,2-0,Swindon Town FC
+38,Wed Apr 27 1994,Leeds United FC,0-2,Manchester United FC
+28,Wed Apr 27 1994,Queens Park Rangers FC,1-1,Arsenal FC
+41,Sat Apr 30 1994,Manchester City FC,2-2,Chelsea FC
+41,Sat Apr 30 1994,Liverpool FC,0-1,Norwich City FC
+41,Sat Apr 30 1994,Southampton FC,4-1,Aston Villa FC
+41,Sat Apr 30 1994,Oldham Athletic AFC,0-0,Sheffield Wednesday FC
+41,Sat Apr 30 1994,Queens Park Rangers FC,1-3,Swindon Town FC
+41,Sat Apr 30 1994,Leeds United FC,3-0,Everton FC
+41,Sat Apr 30 1994,Sheffield United FC,2-0,Newcastle United FC
+41,Sat Apr 30 1994,Wimbledon FC,2-1,Tottenham Hotspur FC
+41,Sat Apr 30 1994,Arsenal FC,0-2,West Ham United FC
+41,Sun May 1 1994,Ipswich Town FC,1-2,Manchester United FC
+41,Mon May 2 1994,Coventry City FC,2-1,Blackburn Rovers FC
+38,Tue May 3 1994,Oldham Athletic AFC,1-1,Sheffield United FC
+29,Tue May 3 1994,Leeds United FC,2-2,Sheffield Wednesday FC
+30,Tue May 3 1994,Queens Park Rangers FC,0-0,West Ham United FC
+33,Wed May 4 1994,Chelsea FC,1-2,Coventry City FC
+30,Wed May 4 1994,Manchester United FC,2-0,Southampton FC
+33,Thu May 5 1994,Oldham Athletic AFC,0-2,Tottenham Hotspur FC
+42,Sat May 7 1994,Sheffield Wednesday FC,1-1,Manchester City FC
+42,Sat May 7 1994,Blackburn Rovers FC,0-0,Ipswich Town FC
+42,Sat May 7 1994,Tottenham Hotspur FC,1-2,Queens Park Rangers FC
+42,Sat May 7 1994,Aston Villa FC,2-1,Liverpool FC
+42,Sat May 7 1994,Chelsea FC,3-2,Sheffield United FC
+42,Sat May 7 1994,Newcastle United FC,2-0,Arsenal FC
+42,Sat May 7 1994,Everton FC,3-2,Wimbledon FC
+42,Sat May 7 1994,Swindon Town FC,0-5,Leeds United FC
+42,Sat May 7 1994,Norwich City FC,1-1,Oldham Athletic AFC
+42,Sat May 7 1994,West Ham United FC,3-3,Southampton FC
+42,Sun May 8 1994,Manchester United FC,0-0,Coventry City FC

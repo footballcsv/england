@@ -1,289 +1,381 @@
-Round,Date,Team 1,FT,HT,Team 2
-?,(Fri) 9 Aug 2019 (W32),Liverpool FC (1),4-1,4-0,Norwich City FC (1)
-?,(Sat) 10 Aug 2019 (W32),West Ham United FC (1),0-5,0-1,Manchester City FC (1)
-?,(Sat) 10 Aug 2019 (W32),AFC Bournemouth (1),1-1,0-0,Sheffield United FC (1)
-?,(Sat) 10 Aug 2019 (W32),Burnley FC (1),3-0,0-0,Southampton FC (1)
-?,(Sat) 10 Aug 2019 (W32),Crystal Palace FC (1),0-0,0-0,Everton FC (1)
-?,(Sat) 10 Aug 2019 (W32),Watford FC (1),0-3,0-1,Brighton & Hove Albion FC (1)
-?,(Sat) 10 Aug 2019 (W32),Tottenham Hotspur FC (1),3-1,0-1,Aston Villa FC (1)
-?,(Sun) 11 Aug 2019 (W32),Leicester City FC (1),0-0,0-0,Wolverhampton Wanderers FC (1)
-?,(Sun) 11 Aug 2019 (W32),Newcastle United FC (1),0-1,0-0,Arsenal FC (1)
-?,(Sun) 11 Aug 2019 (W32),Manchester United FC (1),4-0,1-0,Chelsea FC (1)
-?,(Sat) 17 Aug 2019 (W33),Arsenal FC (2),2-1,1-1,Burnley FC (2)
-?,(Sat) 17 Aug 2019 (W33),Aston Villa FC (2),1-2,0-2,AFC Bournemouth (2)
-?,(Sat) 17 Aug 2019 (W33),Brighton & Hove Albion FC (2),1-1,0-0,West Ham United FC (2)
-?,(Sat) 17 Aug 2019 (W33),Everton FC (2),1-0,1-0,Watford FC (2)
-?,(Sat) 17 Aug 2019 (W33),Norwich City FC (2),3-1,1-0,Newcastle United FC (2)
-?,(Sat) 17 Aug 2019 (W33),Southampton FC (2),1-2,0-1,Liverpool FC (2)
-?,(Sat) 17 Aug 2019 (W33),Manchester City FC (2),2-2,2-1,Tottenham Hotspur FC (2)
-?,(Sun) 18 Aug 2019 (W33),Sheffield United FC (2),1-0,0-0,Crystal Palace FC (2)
-?,(Sun) 18 Aug 2019 (W33),Chelsea FC (2),1-1,1-0,Leicester City FC (2)
-?,(Mon) 19 Aug 2019 (W34),Wolverhampton Wanderers FC (2),1-1,0-1,Manchester United FC (2)
-?,(Fri) 23 Aug 2019 (W34),Aston Villa FC (3),2-0,1-0,Everton FC (3)
-?,(Sat) 24 Aug 2019 (W34),Norwich City FC (3),2-3,2-2,Chelsea FC (3)
-?,(Sat) 24 Aug 2019 (W34),Brighton & Hove Albion FC (3),0-2,0-0,Southampton FC (3)
-?,(Sat) 24 Aug 2019 (W34),Manchester United FC (3),1-2,0-1,Crystal Palace FC (3)
-?,(Sat) 24 Aug 2019 (W34),Sheffield United FC (3),1-2,0-1,Leicester City FC (3)
-?,(Sat) 24 Aug 2019 (W34),Watford FC (3),1-3,1-1,West Ham United FC (3)
-?,(Sat) 24 Aug 2019 (W34),Liverpool FC (3),3-1,1-0,Arsenal FC (3)
-?,(Sun) 25 Aug 2019 (W34),AFC Bournemouth (3),1-3,1-2,Manchester City FC (3)
-?,(Sun) 25 Aug 2019 (W34),Tottenham Hotspur FC (3),0-1,0-1,Newcastle United FC (3)
-?,(Sun) 25 Aug 2019 (W34),Wolverhampton Wanderers FC (3),1-1,0-1,Burnley FC (3)
-?,(Sat) 31 Aug 2019 (W35),Southampton FC (4),1-1,0-1,Manchester United FC (4)
-?,(Sat) 31 Aug 2019 (W35),Chelsea FC (4),2-2,2-0,Sheffield United FC (4)
-?,(Sat) 31 Aug 2019 (W35),Crystal Palace FC (4),1-0,0-0,Aston Villa FC (4)
-?,(Sat) 31 Aug 2019 (W35),Leicester City FC (4),3-1,2-1,AFC Bournemouth (4)
-?,(Sat) 31 Aug 2019 (W35),Manchester City FC (4),4-0,2-0,Brighton & Hove Albion FC (4)
-?,(Sat) 31 Aug 2019 (W35),Newcastle United FC (4),1-1,1-1,Watford FC (4)
-?,(Sat) 31 Aug 2019 (W35),West Ham United FC (4),2-0,1-0,Norwich City FC (4)
-?,(Sat) 31 Aug 2019 (W35),Burnley FC (4),0-3,0-2,Liverpool FC (4)
-?,(Sun) 1 Sep 2019 (W35),Everton FC (4),3-2,2-1,Wolverhampton Wanderers FC (4)
-?,(Sun) 1 Sep 2019 (W35),Arsenal FC (4),2-2,1-2,Tottenham Hotspur FC (4)
-?,(Sat) 14 Sep 2019 (W37),Liverpool FC (5),3-1,2-1,Newcastle United FC (5)
-?,(Sat) 14 Sep 2019 (W37),Brighton & Hove Albion FC (5),1-1,0-0,Burnley FC (5)
-?,(Sat) 14 Sep 2019 (W37),Manchester United FC (5),1-0,1-0,Leicester City FC (5)
-?,(Sat) 14 Sep 2019 (W37),Sheffield United FC (5),0-1,0-0,Southampton FC (5)
-?,(Sat) 14 Sep 2019 (W37),Tottenham Hotspur FC (5),4-0,4-0,Crystal Palace FC (5)
-?,(Sat) 14 Sep 2019 (W37),Wolverhampton Wanderers FC (5),2-5,0-3,Chelsea FC (5)
-?,(Sat) 14 Sep 2019 (W37),Norwich City FC (5),3-2,2-1,Manchester City FC (5)
-?,(Sun) 15 Sep 2019 (W37),AFC Bournemouth (5),3-1,1-1,Everton FC (5)
-?,(Sun) 15 Sep 2019 (W37),Watford FC (5),2-2,0-2,Arsenal FC (5)
-?,(Mon) 16 Sep 2019 (W38),Aston Villa FC (5),0-0,0-0,West Ham United FC (5)
-?,(Fri) 20 Sep 2019 (W38),Southampton FC (6),1-3,0-2,AFC Bournemouth (6)
-?,(Sat) 21 Sep 2019 (W38),Leicester City FC (6),2-1,0-1,Tottenham Hotspur FC (6)
-?,(Sat) 21 Sep 2019 (W38),Burnley FC (6),2-0,2-0,Norwich City FC (6)
-?,(Sat) 21 Sep 2019 (W38),Everton FC (6),0-2,0-1,Sheffield United FC (6)
-?,(Sat) 21 Sep 2019 (W38),Manchester City FC (6),8-0,5-0,Watford FC (6)
-?,(Sat) 21 Sep 2019 (W38),Newcastle United FC (6),0-0,0-0,Brighton & Hove Albion FC (6)
-?,(Sun) 22 Sep 2019 (W38),Crystal Palace FC (6),1-1,0-0,Wolverhampton Wanderers FC (6)
-?,(Sun) 22 Sep 2019 (W38),West Ham United FC (6),2-0,1-0,Manchester United FC (6)
-?,(Sun) 22 Sep 2019 (W38),Arsenal FC (6),3-2,0-1,Aston Villa FC (6)
-?,(Sun) 22 Sep 2019 (W38),Chelsea FC (6),1-2,0-2,Liverpool FC (6)
-?,(Sat) 28 Sep 2019 (W39),Sheffield United FC (7),0-1,0-0,Liverpool FC (7)
-?,(Sat) 28 Sep 2019 (W39),Aston Villa FC (7),2-2,1-0,Burnley FC (7)
-?,(Sat) 28 Sep 2019 (W39),AFC Bournemouth (7),2-2,1-1,West Ham United FC (7)
-?,(Sat) 28 Sep 2019 (W39),Chelsea FC (7),2-0,0-0,Brighton & Hove Albion FC (7)
-?,(Sat) 28 Sep 2019 (W39),Crystal Palace FC (7),2-0,1-0,Norwich City FC (7)
-?,(Sat) 28 Sep 2019 (W39),Tottenham Hotspur FC (7),2-1,2-1,Southampton FC (7)
-?,(Sat) 28 Sep 2019 (W39),Wolverhampton Wanderers FC (7),2-0,1-0,Watford FC (7)
-?,(Sat) 28 Sep 2019 (W39),Everton FC (7),1-3,1-1,Manchester City FC (7)
-?,(Sun) 29 Sep 2019 (W39),Leicester City FC (7),5-0,1-0,Newcastle United FC (7)
-?,(Mon) 30 Sep 2019 (W40),Manchester United FC (7),1-1,1-0,Arsenal FC (7)
-?,(Sat) 5 Oct 2019 (W40),Brighton & Hove Albion FC (8),3-0,2-0,Tottenham Hotspur FC (8)
-?,(Sat) 5 Oct 2019 (W40),Burnley FC (8),1-0,0-0,Everton FC (8)
-?,(Sat) 5 Oct 2019 (W40),Liverpool FC (8),2-1,1-0,Leicester City FC (8)
-?,(Sat) 5 Oct 2019 (W40),Norwich City FC (8),1-5,0-2,Aston Villa FC (8)
-?,(Sat) 5 Oct 2019 (W40),Watford FC (8),0-0,0-0,Sheffield United FC (8)
-?,(Sat) 5 Oct 2019 (W40),West Ham United FC (8),1-2,0-0,Crystal Palace FC (8)
-?,(Sun) 6 Oct 2019 (W40),Arsenal FC (8),1-0,1-0,AFC Bournemouth (8)
-?,(Sun) 6 Oct 2019 (W40),Manchester City FC (8),0-2,0-0,Wolverhampton Wanderers FC (8)
-?,(Sun) 6 Oct 2019 (W40),Southampton FC (8),1-4,1-3,Chelsea FC (8)
-?,(Sun) 6 Oct 2019 (W40),Newcastle United FC (8),1-0,0-0,Manchester United FC (8)
-?,(Sat) 19 Oct 2019 (W42),Everton FC (9),2-0,1-0,West Ham United FC (9)
-?,(Sat) 19 Oct 2019 (W42),Aston Villa FC (9),2-1,1-1,Brighton & Hove Albion FC (9)
-?,(Sat) 19 Oct 2019 (W42),AFC Bournemouth (9),0-0,0-0,Norwich City FC (9)
-?,(Sat) 19 Oct 2019 (W42),Chelsea FC (9),1-0,0-0,Newcastle United FC (9)
-?,(Sat) 19 Oct 2019 (W42),Leicester City FC (9),2-1,1-1,Burnley FC (9)
-?,(Sat) 19 Oct 2019 (W42),Tottenham Hotspur FC (9),1-1,0-1,Watford FC (9)
-?,(Sat) 19 Oct 2019 (W42),Wolverhampton Wanderers FC (9),1-1,0-0,Southampton FC (9)
-?,(Sat) 19 Oct 2019 (W42),Crystal Palace FC (9),0-2,0-2,Manchester City FC (9)
-?,(Sun) 20 Oct 2019 (W42),Manchester United FC (9),1-1,1-0,Liverpool FC (9)
-?,(Mon) 21 Oct 2019 (W43),Sheffield United FC (9),1-0,1-0,Arsenal FC (9)
-?,(Fri) 25 Oct 2019 (W43),Southampton FC (10),0-9,0-5,Leicester City FC (10)
-?,(Sat) 26 Oct 2019 (W43),Manchester City FC (10),3-0,0-0,Aston Villa FC (10)
-?,(Sat) 26 Oct 2019 (W43),Brighton & Hove Albion FC (10),3-2,1-1,Everton FC (10)
-?,(Sat) 26 Oct 2019 (W43),Watford FC (10),0-0,0-0,AFC Bournemouth (10)
-?,(Sat) 26 Oct 2019 (W43),West Ham United FC (10),1-1,1-0,Sheffield United FC (10)
-?,(Sat) 26 Oct 2019 (W43),Burnley FC (10),2-4,0-2,Chelsea FC (10)
-?,(Sun) 27 Oct 2019 (W43),Newcastle United FC (10),1-1,1-0,Wolverhampton Wanderers FC (10)
-?,(Sun) 27 Oct 2019 (W43),Arsenal FC (10),2-2,2-1,Crystal Palace FC (10)
-?,(Sun) 27 Oct 2019 (W43),Liverpool FC (10),2-1,0-1,Tottenham Hotspur FC (10)
-?,(Sun) 27 Oct 2019 (W43),Norwich City FC (10),1-3,0-2,Manchester United FC (10)
-?,(Sat) 2 Nov 2019 (W44),AFC Bournemouth (11),1-0,1-0,Manchester United FC (11)
-?,(Sat) 2 Nov 2019 (W44),Arsenal FC (11),1-1,1-0,Wolverhampton Wanderers FC (11)
-?,(Sat) 2 Nov 2019 (W44),Aston Villa FC (11),1-2,1-0,Liverpool FC (11)
-?,(Sat) 2 Nov 2019 (W44),Brighton & Hove Albion FC (11),2-0,0-0,Norwich City FC (11)
-?,(Sat) 2 Nov 2019 (W44),Manchester City FC (11),2-1,0-1,Southampton FC (11)
-?,(Sat) 2 Nov 2019 (W44),Sheffield United FC (11),3-0,3-0,Burnley FC (11)
-?,(Sat) 2 Nov 2019 (W44),West Ham United FC (11),2-3,0-2,Newcastle United FC (11)
-?,(Sat) 2 Nov 2019 (W44),Watford FC (11),1-2,0-1,Chelsea FC (11)
-?,(Sun) 3 Nov 2019 (W44),Crystal Palace FC (11),0-2,0-0,Leicester City FC (11)
-?,(Sun) 3 Nov 2019 (W44),Everton FC (11),1-1,0-0,Tottenham Hotspur FC (11)
-?,(Fri) 8 Nov 2019 (W45),Norwich City FC (12),0-2,0-1,Watford FC (12)
-?,(Sat) 9 Nov 2019 (W45),Chelsea FC (12),2-0,0-0,Crystal Palace FC (12)
-?,(Sat) 9 Nov 2019 (W45),Burnley FC (12),3-0,2-0,West Ham United FC (12)
-?,(Sat) 9 Nov 2019 (W45),Newcastle United FC (12),2-1,1-1,AFC Bournemouth (12)
-?,(Sat) 9 Nov 2019 (W45),Southampton FC (12),1-2,0-1,Everton FC (12)
-?,(Sat) 9 Nov 2019 (W45),Tottenham Hotspur FC (12),1-1,0-0,Sheffield United FC (12)
-?,(Sat) 9 Nov 2019 (W45),Leicester City FC (12),2-0,0-0,Arsenal FC (12)
-?,(Sun) 10 Nov 2019 (W45),Manchester United FC (12),3-1,2-0,Brighton & Hove Albion FC (12)
-?,(Sun) 10 Nov 2019 (W45),Wolverhampton Wanderers FC (12),2-1,1-0,Aston Villa FC (12)
-?,(Sun) 10 Nov 2019 (W45),Liverpool FC (12),3-1,2-0,Manchester City FC (12)
-?,(Sat) 23 Nov 2019 (W47),West Ham United FC (13),2-3,0-2,Tottenham Hotspur FC (13)
-?,(Sat) 23 Nov 2019 (W47),Arsenal FC (13),2-2,1-1,Southampton FC (13)
-?,(Sat) 23 Nov 2019 (W47),AFC Bournemouth (13),1-2,0-2,Wolverhampton Wanderers FC (13)
-?,(Sat) 23 Nov 2019 (W47),Brighton & Hove Albion FC (13),0-2,0-0,Leicester City FC (13)
-?,(Sat) 23 Nov 2019 (W47),Crystal Palace FC (13),1-2,0-0,Liverpool FC (13)
-?,(Sat) 23 Nov 2019 (W47),Everton FC (13),0-2,0-0,Norwich City FC (13)
-?,(Sat) 23 Nov 2019 (W47),Watford FC (13),0-3,0-0,Burnley FC (13)
-?,(Sat) 23 Nov 2019 (W47),Manchester City FC (13),2-1,2-1,Chelsea FC (13)
-?,(Sun) 24 Nov 2019 (W47),Sheffield United FC (13),3-3,1-0,Manchester United FC (13)
-?,(Mon) 25 Nov 2019 (W48),Aston Villa FC (13),2-0,2-0,Newcastle United FC (13)
-?,(Sat) 30 Nov 2019 (W48),Newcastle United FC (14),2-2,1-1,Manchester City FC (14)
-?,(Sat) 30 Nov 2019 (W48),Burnley FC (14),0-2,0-1,Crystal Palace FC (14)
-?,(Sat) 30 Nov 2019 (W48),Chelsea FC (14),0-1,0-0,West Ham United FC (14)
-?,(Sat) 30 Nov 2019 (W48),Liverpool FC (14),2-1,2-0,Brighton & Hove Albion FC (14)
-?,(Sat) 30 Nov 2019 (W48),Tottenham Hotspur FC (14),3-2,1-0,AFC Bournemouth (14)
-?,(Sat) 30 Nov 2019 (W48),Southampton FC (14),2-1,0-1,Watford FC (14)
-?,(Sun) 1 Dec 2019 (W48),Norwich City FC (14),2-2,2-1,Arsenal FC (14)
-?,(Sun) 1 Dec 2019 (W48),Wolverhampton Wanderers FC (14),1-1,0-1,Sheffield United FC (14)
-?,(Sun) 1 Dec 2019 (W48),Leicester City FC (14),2-1,0-1,Everton FC (14)
-?,(Sun) 1 Dec 2019 (W48),Manchester United FC (14),2-2,1-1,Aston Villa FC (14)
-?,(Tue) 3 Dec 2019 (W49),Crystal Palace FC (15),1-0,0-0,AFC Bournemouth (15)
-?,(Tue) 3 Dec 2019 (W49),Burnley FC (15),1-4,0-1,Manchester City FC (15)
-?,(Wed) 4 Dec 2019 (W49),Chelsea FC (15),2-1,1-1,Aston Villa FC (15)
-?,(Wed) 4 Dec 2019 (W49),Leicester City FC (15),2-0,0-0,Watford FC (15)
-?,(Wed) 4 Dec 2019 (W49),Manchester United FC (15),2-1,1-1,Tottenham Hotspur FC (15)
-?,(Wed) 4 Dec 2019 (W49),Southampton FC (15),2-1,2-0,Norwich City FC (15)
-?,(Wed) 4 Dec 2019 (W49),Wolverhampton Wanderers FC (15),2-0,1-0,West Ham United FC (15)
-?,(Wed) 4 Dec 2019 (W49),Liverpool FC (15),5-2,4-2,Everton FC (15)
-?,(Thu) 5 Dec 2019 (W49),Sheffield United FC (15),0-2,0-1,Newcastle United FC (15)
-?,(Thu) 5 Dec 2019 (W49),Arsenal FC (15),1-2,0-1,Brighton & Hove Albion FC (15)
-?,(Sat) 7 Dec 2019 (W49),Everton FC (16),3-1,1-0,Chelsea FC (16)
-?,(Sat) 7 Dec 2019 (W49),AFC Bournemouth (16),0-3,0-2,Liverpool FC (16)
-?,(Sat) 7 Dec 2019 (W49),Tottenham Hotspur FC (16),5-0,3-0,Burnley FC (16)
-?,(Sat) 7 Dec 2019 (W49),Watford FC (16),0-0,0-0,Crystal Palace FC (16)
-?,(Sat) 7 Dec 2019 (W49),Manchester City FC (16),1-2,0-2,Manchester United FC (16)
-?,(Sun) 8 Dec 2019 (W49),Aston Villa FC (16),1-4,1-2,Leicester City FC (16)
-?,(Sun) 8 Dec 2019 (W49),Newcastle United FC (16),2-1,0-0,Southampton FC (16)
-?,(Sun) 8 Dec 2019 (W49),Norwich City FC (16),1-2,1-0,Sheffield United FC (16)
-?,(Sun) 8 Dec 2019 (W49),Brighton & Hove Albion FC (16),2-2,2-2,Wolverhampton Wanderers FC (16)
-?,(Mon) 9 Dec 2019 (W50),West Ham United FC (16),1-3,1-0,Arsenal FC (16)
-?,(Sat) 14 Dec 2019 (W50),Liverpool FC (17),2-0,1-0,Watford FC (17)
-?,(Sat) 14 Dec 2019 (W50),Burnley FC (17),1-0,0-0,Newcastle United FC (17)
-?,(Sat) 14 Dec 2019 (W50),Chelsea FC (17),0-1,0-0,AFC Bournemouth (17)
-?,(Sat) 14 Dec 2019 (W50),Leicester City FC (17),1-1,1-1,Norwich City FC (17)
-?,(Sat) 14 Dec 2019 (W50),Sheffield United FC (17),2-0,0-0,Aston Villa FC (17)
-?,(Sat) 14 Dec 2019 (W50),Southampton FC (17),0-1,0-1,West Ham United FC (17)
-?,(Sun) 15 Dec 2019 (W50),Manchester United FC (17),1-1,0-1,Everton FC (17)
-?,(Sun) 15 Dec 2019 (W50),Wolverhampton Wanderers FC (17),1-2,0-1,Tottenham Hotspur FC (17)
-?,(Sun) 15 Dec 2019 (W50),Arsenal FC (17),0-3,0-3,Manchester City FC (17)
-?,(Mon) 16 Dec 2019 (W51),Crystal Palace FC (17),1-1,0-0,Brighton & Hove Albion FC (17)
-?,(Sat) 21 Dec 2019 (W51),Everton FC (18),0-0,0-0,Arsenal FC (18)
-?,(Sat) 21 Dec 2019 (W51),Aston Villa FC (18),1-3,0-2,Southampton FC (18)
-?,(Sat) 21 Dec 2019 (W51),AFC Bournemouth (18),0-1,0-0,Burnley FC (18)
-?,(Sat) 21 Dec 2019 (W51),Brighton & Hove Albion FC (18),0-1,0-1,Sheffield United FC (18)
-?,(Sat) 21 Dec 2019 (W51),Newcastle United FC (18),1-0,0-0,Crystal Palace FC (18)
-?,(Sat) 21 Dec 2019 (W51),Norwich City FC (18),1-2,1-0,Wolverhampton Wanderers FC (18)
-?,(Sat) 21 Dec 2019 (W51),Manchester City FC (18),3-1,2-1,Leicester City FC (18)
-?,(Sun) 22 Dec 2019 (W51),Watford FC (18),2-0,0-0,Manchester United FC (18)
-?,(Sun) 22 Dec 2019 (W51),Tottenham Hotspur FC (18),0-2,0-2,Chelsea FC (18)
-?,(Thu) 26 Dec 2019 (W52),Tottenham Hotspur FC (19),2-1,0-1,Brighton & Hove Albion FC (19)
-?,(Thu) 26 Dec 2019 (W52),Aston Villa FC (19),1-0,0-0,Norwich City FC (19)
-?,(Thu) 26 Dec 2019 (W52),AFC Bournemouth (19),1-1,1-0,Arsenal FC (19)
-?,(Thu) 26 Dec 2019 (W52),Chelsea FC (19),0-2,0-1,Southampton FC (19)
-?,(Thu) 26 Dec 2019 (W52),Crystal Palace FC (19),2-1,0-0,West Ham United FC (18)
-?,(Thu) 26 Dec 2019 (W52),Everton FC (19),1-0,0-0,Burnley FC (19)
-?,(Thu) 26 Dec 2019 (W52),Sheffield United FC (19),1-1,1-1,Watford FC (19)
-?,(Thu) 26 Dec 2019 (W52),Manchester United FC (19),4-1,3-1,Newcastle United FC (19)
-?,(Thu) 26 Dec 2019 (W52),Leicester City FC (19),0-4,0-1,Liverpool FC (18)
-?,(Fri) 27 Dec 2019 (W52),Wolverhampton Wanderers FC (19),3-2,0-1,Manchester City FC (19)
-?,(Sat) 28 Dec 2019 (W52),Brighton & Hove Albion FC (20),2-0,1-0,AFC Bournemouth (20)
-?,(Sat) 28 Dec 2019 (W52),Newcastle United FC (20),1-2,0-1,Everton FC (20)
-?,(Sat) 28 Dec 2019 (W52),Southampton FC (20),1-1,0-0,Crystal Palace FC (20)
-?,(Sat) 28 Dec 2019 (W52),Watford FC (20),3-0,1-0,Aston Villa FC (20)
-?,(Sat) 28 Dec 2019 (W52),Norwich City FC (20),2-2,1-0,Tottenham Hotspur FC (20)
-?,(Sat) 28 Dec 2019 (W52),West Ham United FC (19),1-2,1-1,Leicester City FC (20)
-?,(Sat) 28 Dec 2019 (W52),Burnley FC (20),0-2,0-1,Manchester United FC (20)
-?,(Sun) 29 Dec 2019 (W52),Arsenal FC (20),1-2,1-0,Chelsea FC (20)
-?,(Sun) 29 Dec 2019 (W52),Liverpool FC (19),1-0,1-0,Wolverhampton Wanderers FC (20)
-?,(Sun) 29 Dec 2019 (W52),Manchester City FC (20),2-0,0-0,Sheffield United FC (20)
-?,(Wed) 1 Jan 2020 (W1),Brighton & Hove Albion FC (21),1-1,0-1,Chelsea FC (21)
-?,(Wed) 1 Jan 2020 (W1),Burnley FC (21),1-2,0-2,Aston Villa FC (21)
-?,(Wed) 1 Jan 2020 (W1),Newcastle United FC (21),0-3,0-2,Leicester City FC (21)
-?,(Wed) 1 Jan 2020 (W1),Southampton FC (21),1-0,1-0,Tottenham Hotspur FC (21)
-?,(Wed) 1 Jan 2020 (W1),Watford FC (21),2-1,1-0,Wolverhampton Wanderers FC (21)
-?,(Wed) 1 Jan 2020 (W1),Manchester City FC (21),2-1,0-0,Everton FC (21)
-?,(Wed) 1 Jan 2020 (W1),Norwich City FC (21),1-1,1-0,Crystal Palace FC (21)
-?,(Wed) 1 Jan 2020 (W1),West Ham United FC (20),4-0,3-0,AFC Bournemouth (21)
-?,(Wed) 1 Jan 2020 (W1),Arsenal FC (21),2-0,2-0,Manchester United FC (21)
-?,(Thu) 2 Jan 2020 (W1),Liverpool FC (20),2-0,1-0,Sheffield United FC (21)
-?,(Fri) 10 Jan 2020 (W2),Sheffield United FC (22),1-0,0-0,West Ham United FC (21)
-?,(Sat) 11 Jan 2020 (W2),Crystal Palace FC (22),1-1,0-1,Arsenal FC (22)
-?,(Sat) 11 Jan 2020 (W2),Chelsea FC (22),3-0,2-0,Burnley FC (22)
-?,(Sat) 11 Jan 2020 (W2),Everton FC (22),1-0,1-0,Brighton & Hove Albion FC (22)
-?,(Sat) 11 Jan 2020 (W2),Leicester City FC (22),1-2,1-1,Southampton FC (22)
-?,(Sat) 11 Jan 2020 (W2),Manchester United FC (22),4-0,1-0,Norwich City FC (22)
-?,(Sat) 11 Jan 2020 (W2),Wolverhampton Wanderers FC (22),1-1,1-1,Newcastle United FC (22)
-?,(Sat) 11 Jan 2020 (W2),Tottenham Hotspur FC (22),0-1,0-1,Liverpool FC (21)
-?,(Sun) 12 Jan 2020 (W2),AFC Bournemouth (22),0-3,0-1,Watford FC (22)
-?,(Sun) 12 Jan 2020 (W2),Aston Villa FC (22),1-6,0-4,Manchester City FC (22)
-?,(Sat) 18 Jan 2020 (W3),Watford FC (23),0-0,0-0,Tottenham Hotspur FC (23)
-?,(Sat) 18 Jan 2020 (W3),Arsenal FC (23),1-1,1-0,Sheffield United FC (23)
-?,(Sat) 18 Jan 2020 (W3),Brighton & Hove Albion FC (23),1-1,1-0,Aston Villa FC (23)
-?,(Sat) 18 Jan 2020 (W3),Manchester City FC (23),2-2,0-1,Crystal Palace FC (23)
-?,(Sat) 18 Jan 2020 (W3),Norwich City FC (23),1-0,1-0,AFC Bournemouth (23)
-?,(Sat) 18 Jan 2020 (W3),Southampton FC (23),2-3,2-0,Wolverhampton Wanderers FC (23)
-?,(Sat) 18 Jan 2020 (W3),West Ham United FC (22),1-1,1-1,Everton FC (23)
-?,(Sat) 18 Jan 2020 (W3),Newcastle United FC (23),1-0,0-0,Chelsea FC (23)
-?,(Sun) 19 Jan 2020 (W3),Burnley FC (23),2-1,0-1,Leicester City FC (23)
-?,(Sun) 19 Jan 2020 (W3),Liverpool FC (22),2-0,1-0,Manchester United FC (23)
-?,(Tue) 21 Jan 2020 (W4),Aston Villa FC (24),2-1,0-1,Watford FC (24)
-?,(Tue) 21 Jan 2020 (W4),AFC Bournemouth (24),3-1,2-0,Brighton & Hove Albion FC (24)
-?,(Tue) 21 Jan 2020 (W4),Crystal Palace FC (24),0-2,0-1,Southampton FC (24)
-?,(Tue) 21 Jan 2020 (W4),Everton FC (24),2-2,1-0,Newcastle United FC (24)
-?,(Tue) 21 Jan 2020 (W4),Sheffield United FC (24),0-1,0-0,Manchester City FC (24)
-?,(Tue) 21 Jan 2020 (W4),Chelsea FC (24),2-2,1-0,Arsenal FC (24)
-?,(Wed) 22 Jan 2020 (W4),Leicester City FC (24),4-1,2-0,West Ham United FC (23)
-?,(Wed) 22 Jan 2020 (W4),Tottenham Hotspur FC (24),2-1,1-0,Norwich City FC (24)
-?,(Wed) 22 Jan 2020 (W4),Manchester United FC (24),0-2,0-1,Burnley FC (24)
-?,(Thu) 23 Jan 2020 (W4),Wolverhampton Wanderers FC (24),1-2,0-1,Liverpool FC (23)
-?,(Wed) 29 Jan 2020 (W5),West Ham United FC (24),0-2,0-1,Liverpool FC (24)
-?,(Sat) 1 Feb 2020 (W5),Leicester City FC (25),2-2,0-0,Chelsea FC (25)
-?,(Sat) 1 Feb 2020 (W5),AFC Bournemouth (25),2-1,2-0,Aston Villa FC (25)
-?,(Sat) 1 Feb 2020 (W5),Crystal Palace FC (25),0-1,0-0,Sheffield United FC (25)
-?,(Sat) 1 Feb 2020 (W5),Liverpool FC (25),4-0,0-0,Southampton FC (25)
-?,(Sat) 1 Feb 2020 (W5),Newcastle United FC (25),0-0,0-0,Norwich City FC (25)
-?,(Sat) 1 Feb 2020 (W5),Watford FC (25),2-3,2-2,Everton FC (25)
-?,(Sat) 1 Feb 2020 (W5),West Ham United FC (25),3-3,2-0,Brighton & Hove Albion FC (25)
-?,(Sat) 1 Feb 2020 (W5),Manchester United FC (25),0-0,0-0,Wolverhampton Wanderers FC (25)
-?,(Sun) 2 Feb 2020 (W5),Burnley FC (25),0-0,0-0,Arsenal FC (25)
-?,(Sun) 2 Feb 2020 (W5),Tottenham Hotspur FC (25),2-0,0-0,Manchester City FC (25)
-?,(Sat) 8 Feb 2020 (W6),Everton FC (26),3-1,1-0,Crystal Palace FC (26)
-?,(Sat) 8 Feb 2020 (W6),Brighton & Hove Albion FC (26),1-1,0-1,Watford FC (26)
-?,(Sun) 9 Feb 2020 (W6),Sheffield United FC (26),2-1,1-1,AFC Bournemouth (26)
-?,(Fri) 14 Feb 2020 (W7),Wolverhampton Wanderers FC (26),0-0,0-0,Leicester City FC (26)
-?,(Sat) 15 Feb 2020 (W7),Southampton FC (26),1-2,1-1,Burnley FC (26)
-?,(Sat) 15 Feb 2020 (W7),Norwich City FC (26),0-1,0-0,Liverpool FC (26)
-?,(Sun) 16 Feb 2020 (W7),Aston Villa FC (26),2-3,1-2,Tottenham Hotspur FC (26)
-?,(Sun) 16 Feb 2020 (W7),Arsenal FC (26),4-0,0-0,Newcastle United FC (26)
-?,(Mon) 17 Feb 2020 (W8),Chelsea FC (26),0-2,0-1,Manchester United FC (26)
-?,(Wed) 19 Feb 2020 (W8),Manchester City FC (26),2-0,1-0,West Ham United FC (26)
-?,(Sat) 22 Feb 2020 (W8),Chelsea FC (27),2-1,1-0,Tottenham Hotspur FC (27)
-?,(Sat) 22 Feb 2020 (W8),Burnley FC (27),3-0,0-0,AFC Bournemouth (27)
-?,(Sat) 22 Feb 2020 (W8),Crystal Palace FC (27),1-0,1-0,Newcastle United FC (27)
-?,(Sat) 22 Feb 2020 (W8),Sheffield United FC (27),1-1,1-1,Brighton & Hove Albion FC (27)
-?,(Sat) 22 Feb 2020 (W8),Southampton FC (27),2-0,1-0,Aston Villa FC (27)
-?,(Sat) 22 Feb 2020 (W8),Leicester City FC (27),0-1,0-0,Manchester City FC (27)
-?,(Sun) 23 Feb 2020 (W8),Manchester United FC (27),3-0,1-0,Watford FC (27)
-?,(Sun) 23 Feb 2020 (W8),Wolverhampton Wanderers FC (27),3-0,2-0,Norwich City FC (27)
-?,(Sun) 23 Feb 2020 (W8),Arsenal FC (27),3-2,2-2,Everton FC (27)
-?,(Mon) 24 Feb 2020 (W9),Liverpool FC (27),3-2,1-1,West Ham United FC (27)
-?,(Fri) 28 Feb 2020 (W9),Norwich City FC (28),1-0,0-0,Leicester City FC (28)
-?,(Sat) 29 Feb 2020 (W9),Brighton & Hove Albion FC (28),0-1,0-0,Crystal Palace FC (28)
-?,(Sat) 29 Feb 2020 (W9),AFC Bournemouth (28),2-2,0-1,Chelsea FC (28)
-?,(Sat) 29 Feb 2020 (W9),Newcastle United FC (28),0-0,0-0,Burnley FC (28)
-?,(Sat) 29 Feb 2020 (W9),West Ham United FC (28),3-1,2-1,Southampton FC (28)
-?,(Sat) 29 Feb 2020 (W9),Watford FC (28),3-0,0-0,Liverpool FC (28)
-?,(Sun) 1 Mar 2020 (W9),Everton FC (28),1-1,1-1,Manchester United FC (28)
-?,(Sun) 1 Mar 2020 (W9),Tottenham Hotspur FC (28),2-3,2-1,Wolverhampton Wanderers FC (28)
-?,(Sat) 7 Mar 2020 (W10),Liverpool FC (29),2-1,2-1,AFC Bournemouth (29)
-?,(Sat) 7 Mar 2020 (W10),Arsenal FC (28),1-0,0-0,West Ham United FC (29)
-?,(Sat) 7 Mar 2020 (W10),Crystal Palace FC (29),1-0,1-0,Watford FC (29)
-?,(Sat) 7 Mar 2020 (W10),Sheffield United FC (28),1-0,1-0,Norwich City FC (29)
-?,(Sat) 7 Mar 2020 (W10),Southampton FC (29),0-1,0-0,Newcastle United FC (29)
-?,(Sat) 7 Mar 2020 (W10),Wolverhampton Wanderers FC (29),0-0,0-0,Brighton & Hove Albion FC (29)
-?,(Sat) 7 Mar 2020 (W10),Burnley FC (29),1-1,1-0,Tottenham Hotspur FC (29)
-?,(Sun) 8 Mar 2020 (W10),Chelsea FC (29),4-0,2-0,Everton FC (29)
-?,(Sun) 8 Mar 2020 (W10),Manchester United FC (29),2-0,1-0,Manchester City FC (28)
-?,(Mon) 9 Mar 2020 (W11),Leicester City FC (29),4-0,1-0,Aston Villa FC (28)
+Matchday,Date,Team 1,FT,Team 2
+32,Mon Jul 1 2019,Arsenal FC,,Norwich City FC
+32,Mon Jul 1 2019,Everton FC,,Leicester City FC
+32,Mon Jul 1 2019,AFC Bournemouth,,Newcastle United FC
+32,Mon Jul 1 2019,West Ham United FC,,Chelsea FC
+32,Tue Jul 2 2019,Sheffield United FC,,Tottenham Hotspur FC
+32,Tue Jul 2 2019,Manchester City FC,,Liverpool FC
+33,Thu Jul 4 2019,Norwich City FC,,Brighton & Hove Albion FC
+33,Thu Jul 4 2019,Manchester United FC,,AFC Bournemouth
+33,Thu Jul 4 2019,Leicester City FC,,Crystal Palace FC
+33,Thu Jul 4 2019,Wolverhampton Wanderers FC,,Arsenal FC
+33,Thu Jul 4 2019,Chelsea FC,,Watford FC
+33,Fri Jul 5 2019,Burnley FC,,Sheffield United FC
+33,Fri Jul 5 2019,Newcastle United FC,,West Ham United FC
+33,Fri Jul 5 2019,Liverpool FC,,Aston Villa FC
+33,Fri Jul 5 2019,Southampton FC,,Manchester City FC
+33,Sat Jul 6 2019,Tottenham Hotspur FC,,Everton FC
+34,Sun Jul 7 2019,Crystal Palace FC,,Chelsea FC
+34,Sun Jul 7 2019,Watford FC,,Norwich City FC
+34,Sun Jul 7 2019,Arsenal FC,,Leicester City FC
+34,Mon Jul 8 2019,Manchester City FC,,Newcastle United FC
+34,Mon Jul 8 2019,Sheffield United FC,,Wolverhampton Wanderers FC
+34,Mon Jul 8 2019,West Ham United FC,,Burnley FC
+34,Mon Jul 8 2019,Brighton & Hove Albion FC,,Liverpool FC
+34,Tue Jul 9 2019,Everton FC,,Southampton FC
+34,Tue Jul 9 2019,AFC Bournemouth,,Tottenham Hotspur FC
+34,Tue Jul 9 2019,Aston Villa FC,,Manchester United FC
+35,Thu Jul 11 2019,Norwich City FC,,West Ham United FC
+35,Thu Jul 11 2019,Watford FC,,Newcastle United FC
+35,Thu Jul 11 2019,Liverpool FC,,Burnley FC
+35,Thu Jul 11 2019,Sheffield United FC,,Chelsea FC
+35,Thu Jul 11 2019,Brighton & Hove Albion FC,,Manchester City FC
+35,Fri Jul 12 2019,Wolverhampton Wanderers FC,,Everton FC
+35,Fri Jul 12 2019,Aston Villa FC,,Crystal Palace FC
+35,Fri Jul 12 2019,Tottenham Hotspur FC,,Arsenal FC
+35,Fri Jul 12 2019,AFC Bournemouth,,Leicester City FC
+35,Sat Jul 13 2019,Manchester United FC,,Southampton FC
+36,Mon Jul 15 2019,Manchester City FC,,AFC Bournemouth
+36,Mon Jul 15 2019,Newcastle United FC,,Tottenham Hotspur FC
+36,Mon Jul 15 2019,Arsenal FC,,Liverpool FC
+36,Mon Jul 15 2019,Chelsea FC,,Norwich City FC
+36,Mon Jul 15 2019,Everton FC,,Aston Villa FC
+36,Mon Jul 15 2019,Leicester City FC,,Sheffield United FC
+36,Mon Jul 15 2019,Burnley FC,,Wolverhampton Wanderers FC
+36,Mon Jul 15 2019,West Ham United FC,,Watford FC
+36,Mon Jul 15 2019,Southampton FC,,Brighton & Hove Albion FC
+36,Mon Jul 15 2019,Crystal Palace FC,,Manchester United FC
+37,Thu Jul 18 2019,Tottenham Hotspur FC,,Leicester City FC
+37,Thu Jul 18 2019,Manchester United FC,,West Ham United FC
+37,Thu Jul 18 2019,Norwich City FC,,Burnley FC
+37,Thu Jul 18 2019,Sheffield United FC,,Everton FC
+37,Thu Jul 18 2019,Brighton & Hove Albion FC,,Newcastle United FC
+37,Thu Jul 18 2019,Watford FC,,Manchester City FC
+37,Thu Jul 18 2019,AFC Bournemouth,,Southampton FC
+37,Thu Jul 18 2019,Wolverhampton Wanderers FC,,Crystal Palace FC
+37,Thu Jul 18 2019,Aston Villa FC,,Arsenal FC
+37,Thu Jul 18 2019,Liverpool FC,,Chelsea FC
+38,Thu Jul 25 2019,Manchester City FC,,Norwich City FC
+38,Thu Jul 25 2019,Newcastle United FC,,Liverpool FC
+38,Thu Jul 25 2019,Arsenal FC,,Watford FC
+38,Thu Jul 25 2019,Chelsea FC,,Wolverhampton Wanderers FC
+38,Thu Jul 25 2019,Everton FC,,AFC Bournemouth
+38,Thu Jul 25 2019,Leicester City FC,,Manchester United FC
+38,Thu Jul 25 2019,Burnley FC,,Brighton & Hove Albion FC
+38,Thu Jul 25 2019,West Ham United FC,,Aston Villa FC
+38,Thu Jul 25 2019,Southampton FC,,Sheffield United FC
+38,Thu Jul 25 2019,Crystal Palace FC,,Tottenham Hotspur FC
+1,Fri Aug 9 2019,Liverpool FC,4-1,Norwich City FC
+1,Sat Aug 10 2019,Tottenham Hotspur FC,3-1,Aston Villa FC
+1,Sat Aug 10 2019,Burnley FC,3-0,Southampton FC
+1,Sat Aug 10 2019,Crystal Palace FC,0-0,Everton FC
+1,Sat Aug 10 2019,Watford FC,0-3,Brighton & Hove Albion FC
+1,Sat Aug 10 2019,AFC Bournemouth,1-1,Sheffield United FC
+1,Sat Aug 10 2019,West Ham United FC,0-5,Manchester City FC
+1,Sun Aug 11 2019,Newcastle United FC,0-1,Arsenal FC
+1,Sun Aug 11 2019,Leicester City FC,0-0,Wolverhampton Wanderers FC
+1,Sun Aug 11 2019,Manchester United FC,4-0,Chelsea FC
+2,Sat Aug 17 2019,Norwich City FC,3-1,Newcastle United FC
+2,Sat Aug 17 2019,Everton FC,1-0,Watford FC
+2,Sat Aug 17 2019,Brighton & Hove Albion FC,1-1,West Ham United FC
+2,Sat Aug 17 2019,Manchester City FC,2-2,Tottenham Hotspur FC
+2,Sat Aug 17 2019,Aston Villa FC,1-2,AFC Bournemouth
+2,Sat Aug 17 2019,Southampton FC,1-2,Liverpool FC
+2,Sat Aug 17 2019,Arsenal FC,2-1,Burnley FC
+2,Sun Aug 18 2019,Sheffield United FC,1-0,Crystal Palace FC
+2,Sun Aug 18 2019,Chelsea FC,1-1,Leicester City FC
+2,Mon Aug 19 2019,Wolverhampton Wanderers FC,1-1,Manchester United FC
+3,Fri Aug 23 2019,Aston Villa FC,2-0,Everton FC
+3,Sat Aug 24 2019,Sheffield United FC,1-2,Leicester City FC
+3,Sat Aug 24 2019,Brighton & Hove Albion FC,0-2,Southampton FC
+3,Sat Aug 24 2019,Manchester United FC,1-2,Crystal Palace FC
+3,Sat Aug 24 2019,Liverpool FC,3-1,Arsenal FC
+3,Sat Aug 24 2019,Norwich City FC,2-3,Chelsea FC
+3,Sat Aug 24 2019,Watford FC,1-3,West Ham United FC
+3,Sun Aug 25 2019,Wolverhampton Wanderers FC,1-1,Burnley FC
+3,Sun Aug 25 2019,Tottenham Hotspur FC,0-1,Newcastle United FC
+3,Sun Aug 25 2019,AFC Bournemouth,1-3,Manchester City FC
+4,Sat Aug 31 2019,West Ham United FC,2-0,Norwich City FC
+4,Sat Aug 31 2019,Leicester City FC,3-1,AFC Bournemouth
+4,Sat Aug 31 2019,Chelsea FC,2-2,Sheffield United FC
+4,Sat Aug 31 2019,Newcastle United FC,1-1,Watford FC
+4,Sat Aug 31 2019,Crystal Palace FC,1-0,Aston Villa FC
+4,Sat Aug 31 2019,Southampton FC,1-1,Manchester United FC
+4,Sat Aug 31 2019,Burnley FC,0-3,Liverpool FC
+4,Sat Aug 31 2019,Manchester City FC,4-0,Brighton & Hove Albion FC
+4,Sun Sep 1 2019,Arsenal FC,2-2,Tottenham Hotspur FC
+4,Sun Sep 1 2019,Everton FC,3-2,Wolverhampton Wanderers FC
+5,Sat Sep 14 2019,Wolverhampton Wanderers FC,2-5,Chelsea FC
+5,Sat Sep 14 2019,Tottenham Hotspur FC,4-0,Crystal Palace FC
+5,Sat Sep 14 2019,Liverpool FC,3-1,Newcastle United FC
+5,Sat Sep 14 2019,Sheffield United FC,0-1,Southampton FC
+5,Sat Sep 14 2019,Brighton & Hove Albion FC,1-1,Burnley FC
+5,Sat Sep 14 2019,Manchester United FC,1-0,Leicester City FC
+5,Sat Sep 14 2019,Norwich City FC,3-2,Manchester City FC
+5,Sun Sep 15 2019,Watford FC,2-2,Arsenal FC
+5,Sun Sep 15 2019,AFC Bournemouth,3-1,Everton FC
+5,Mon Sep 16 2019,Aston Villa FC,0-0,West Ham United FC
+6,Fri Sep 20 2019,Southampton FC,1-3,AFC Bournemouth
+6,Sat Sep 21 2019,Manchester City FC,8-0,Watford FC
+6,Sat Sep 21 2019,Everton FC,0-2,Sheffield United FC
+6,Sat Sep 21 2019,Leicester City FC,2-1,Tottenham Hotspur FC
+6,Sat Sep 21 2019,Newcastle United FC,0-0,Brighton & Hove Albion FC
+6,Sat Sep 21 2019,Burnley FC,2-0,Norwich City FC
+6,Sun Sep 22 2019,Crystal Palace FC,1-1,Wolverhampton Wanderers FC
+6,Sun Sep 22 2019,Arsenal FC,3-2,Aston Villa FC
+6,Sun Sep 22 2019,Chelsea FC,1-2,Liverpool FC
+6,Sun Sep 22 2019,West Ham United FC,2-0,Manchester United FC
+7,Sat Sep 28 2019,Everton FC,1-3,Manchester City FC
+7,Sat Sep 28 2019,Crystal Palace FC,2-0,Norwich City FC
+7,Sat Sep 28 2019,Sheffield United FC,0-1,Liverpool FC
+7,Sat Sep 28 2019,Wolverhampton Wanderers FC,2-0,Watford FC
+7,Sat Sep 28 2019,Aston Villa FC,2-2,Burnley FC
+7,Sat Sep 28 2019,Chelsea FC,2-0,Brighton & Hove Albion FC
+7,Sat Sep 28 2019,AFC Bournemouth,2-2,West Ham United FC
+7,Sat Sep 28 2019,Tottenham Hotspur FC,2-1,Southampton FC
+7,Sun Sep 29 2019,Leicester City FC,5-0,Newcastle United FC
+7,Mon Sep 30 2019,Manchester United FC,1-1,Arsenal FC
+8,Sat Oct 5 2019,Liverpool FC,2-1,Leicester City FC
+8,Sat Oct 5 2019,Brighton & Hove Albion FC,3-0,Tottenham Hotspur FC
+8,Sat Oct 5 2019,Burnley FC,1-0,Everton FC
+8,Sat Oct 5 2019,Norwich City FC,1-5,Aston Villa FC
+8,Sat Oct 5 2019,West Ham United FC,1-2,Crystal Palace FC
+8,Sat Oct 5 2019,Watford FC,0-0,Sheffield United FC
+8,Sun Oct 6 2019,Arsenal FC,1-0,AFC Bournemouth
+8,Sun Oct 6 2019,Manchester City FC,0-2,Wolverhampton Wanderers FC
+8,Sun Oct 6 2019,Newcastle United FC,1-0,Manchester United FC
+8,Sun Oct 6 2019,Southampton FC,1-4,Chelsea FC
+9,Sat Oct 19 2019,Wolverhampton Wanderers FC,1-1,Southampton FC
+9,Sat Oct 19 2019,Everton FC,2-0,West Ham United FC
+9,Sat Oct 19 2019,Crystal Palace FC,0-2,Manchester City FC
+9,Sat Oct 19 2019,Aston Villa FC,2-1,Brighton & Hove Albion FC
+9,Sat Oct 19 2019,Chelsea FC,1-0,Newcastle United FC
+9,Sat Oct 19 2019,Tottenham Hotspur FC,1-1,Watford FC
+9,Sat Oct 19 2019,Leicester City FC,2-1,Burnley FC
+9,Sat Oct 19 2019,AFC Bournemouth,0-0,Norwich City FC
+9,Sun Oct 20 2019,Manchester United FC,1-1,Liverpool FC
+9,Mon Oct 21 2019,Sheffield United FC,1-0,Arsenal FC
+10,Fri Oct 25 2019,Southampton FC,0-9,Leicester City FC
+10,Sat Oct 26 2019,Manchester City FC,3-0,Aston Villa FC
+10,Sat Oct 26 2019,Burnley FC,2-4,Chelsea FC
+10,Sat Oct 26 2019,West Ham United FC,1-1,Sheffield United FC
+10,Sat Oct 26 2019,Brighton & Hove Albion FC,3-2,Everton FC
+10,Sat Oct 26 2019,Watford FC,0-0,AFC Bournemouth
+10,Sun Oct 27 2019,Arsenal FC,2-2,Crystal Palace FC
+10,Sun Oct 27 2019,Newcastle United FC,1-1,Wolverhampton Wanderers FC
+10,Sun Oct 27 2019,Liverpool FC,2-1,Tottenham Hotspur FC
+10,Sun Oct 27 2019,Norwich City FC,1-3,Manchester United FC
+11,Sat Nov 2 2019,Brighton & Hove Albion FC,2-0,Norwich City FC
+11,Sat Nov 2 2019,AFC Bournemouth,1-0,Manchester United FC
+11,Sat Nov 2 2019,Watford FC,1-2,Chelsea FC
+11,Sat Nov 2 2019,Aston Villa FC,1-2,Liverpool FC
+11,Sat Nov 2 2019,West Ham United FC,2-3,Newcastle United FC
+11,Sat Nov 2 2019,Arsenal FC,1-1,Wolverhampton Wanderers FC
+11,Sat Nov 2 2019,Sheffield United FC,3-0,Burnley FC
+11,Sat Nov 2 2019,Manchester City FC,2-1,Southampton FC
+11,Sun Nov 3 2019,Everton FC,1-1,Tottenham Hotspur FC
+11,Sun Nov 3 2019,Crystal Palace FC,0-2,Leicester City FC
+12,Fri Nov 8 2019,Norwich City FC,0-2,Watford FC
+12,Sat Nov 9 2019,Southampton FC,1-2,Everton FC
+12,Sat Nov 9 2019,Chelsea FC,2-0,Crystal Palace FC
+12,Sat Nov 9 2019,Newcastle United FC,2-1,AFC Bournemouth
+12,Sat Nov 9 2019,Tottenham Hotspur FC,1-1,Sheffield United FC
+12,Sat Nov 9 2019,Leicester City FC,2-0,Arsenal FC
+12,Sat Nov 9 2019,Burnley FC,3-0,West Ham United FC
+12,Sun Nov 10 2019,Wolverhampton Wanderers FC,2-1,Aston Villa FC
+12,Sun Nov 10 2019,Manchester United FC,3-1,Brighton & Hove Albion FC
+12,Sun Nov 10 2019,Liverpool FC,3-1,Manchester City FC
+13,Sat Nov 23 2019,West Ham United FC,2-3,Tottenham Hotspur FC
+13,Sat Nov 23 2019,Manchester City FC,2-1,Chelsea FC
+13,Sat Nov 23 2019,Everton FC,0-2,Norwich City FC
+13,Sat Nov 23 2019,Crystal Palace FC,1-2,Liverpool FC
+13,Sat Nov 23 2019,Brighton & Hove Albion FC,0-2,Leicester City FC
+13,Sat Nov 23 2019,Watford FC,0-3,Burnley FC
+13,Sat Nov 23 2019,AFC Bournemouth,1-2,Wolverhampton Wanderers FC
+13,Sat Nov 23 2019,Arsenal FC,2-2,Southampton FC
+13,Sun Nov 24 2019,Sheffield United FC,3-3,Manchester United FC
+13,Mon Nov 25 2019,Aston Villa FC,2-0,Newcastle United FC
+14,Sat Nov 30 2019,Liverpool FC,2-1,Brighton & Hove Albion FC
+14,Sat Nov 30 2019,Burnley FC,0-2,Crystal Palace FC
+14,Sat Nov 30 2019,Newcastle United FC,2-2,Manchester City FC
+14,Sat Nov 30 2019,Southampton FC,2-1,Watford FC
+14,Sat Nov 30 2019,Chelsea FC,0-1,West Ham United FC
+14,Sat Nov 30 2019,Tottenham Hotspur FC,3-2,AFC Bournemouth
+14,Sun Dec 1 2019,Manchester United FC,2-2,Aston Villa FC
+14,Sun Dec 1 2019,Leicester City FC,2-1,Everton FC
+14,Sun Dec 1 2019,Wolverhampton Wanderers FC,1-1,Sheffield United FC
+14,Sun Dec 1 2019,Norwich City FC,2-2,Arsenal FC
+15,Tue Dec 3 2019,Crystal Palace FC,1-0,AFC Bournemouth
+15,Tue Dec 3 2019,Burnley FC,1-4,Manchester City FC
+15,Wed Dec 4 2019,Wolverhampton Wanderers FC,2-0,West Ham United FC
+15,Wed Dec 4 2019,Leicester City FC,2-0,Watford FC
+15,Wed Dec 4 2019,Chelsea FC,2-1,Aston Villa FC
+15,Wed Dec 4 2019,Manchester United FC,2-1,Tottenham Hotspur FC
+15,Wed Dec 4 2019,Liverpool FC,5-2,Everton FC
+15,Wed Dec 4 2019,Southampton FC,2-1,Norwich City FC
+15,Thu Dec 5 2019,Sheffield United FC,0-2,Newcastle United FC
+15,Thu Dec 5 2019,Arsenal FC,1-2,Brighton & Hove Albion FC
+16,Sat Dec 7 2019,Everton FC,3-1,Chelsea FC
+16,Sat Dec 7 2019,Tottenham Hotspur FC,5-0,Burnley FC
+16,Sat Dec 7 2019,Watford FC,0-0,Crystal Palace FC
+16,Sat Dec 7 2019,AFC Bournemouth,0-3,Liverpool FC
+16,Sat Dec 7 2019,Manchester City FC,1-2,Manchester United FC
+16,Sun Dec 8 2019,Aston Villa FC,1-4,Leicester City FC
+16,Sun Dec 8 2019,Newcastle United FC,2-1,Southampton FC
+16,Sun Dec 8 2019,Brighton & Hove Albion FC,2-2,Wolverhampton Wanderers FC
+16,Sun Dec 8 2019,Norwich City FC,1-2,Sheffield United FC
+16,Mon Dec 9 2019,West Ham United FC,1-3,Arsenal FC
+17,Sat Dec 14 2019,Sheffield United FC,2-0,Aston Villa FC
+17,Sat Dec 14 2019,Chelsea FC,0-1,AFC Bournemouth
+17,Sat Dec 14 2019,Liverpool FC,2-0,Watford FC
+17,Sat Dec 14 2019,Leicester City FC,1-1,Norwich City FC
+17,Sat Dec 14 2019,Burnley FC,1-0,Newcastle United FC
+17,Sat Dec 14 2019,Southampton FC,0-1,West Ham United FC
+17,Sun Dec 15 2019,Wolverhampton Wanderers FC,1-2,Tottenham Hotspur FC
+17,Sun Dec 15 2019,Manchester United FC,1-1,Everton FC
+17,Sun Dec 15 2019,Arsenal FC,0-3,Manchester City FC
+17,Mon Dec 16 2019,Crystal Palace FC,1-1,Brighton & Hove Albion FC
+18,Sat Dec 21 2019,Aston Villa FC,1-3,Southampton FC
+18,Sat Dec 21 2019,Everton FC,0-0,Arsenal FC
+18,Sat Dec 21 2019,Newcastle United FC,1-0,Crystal Palace FC
+18,Sat Dec 21 2019,Norwich City FC,1-2,Wolverhampton Wanderers FC
+18,Sat Dec 21 2019,Brighton & Hove Albion FC,0-1,Sheffield United FC
+18,Sat Dec 21 2019,AFC Bournemouth,0-1,Burnley FC
+18,Sat Dec 21 2019,Manchester City FC,3-1,Leicester City FC
+18,Sun Dec 22 2019,Watford FC,2-0,Manchester United FC
+18,Sun Dec 22 2019,Tottenham Hotspur FC,0-2,Chelsea FC
+19,Thu Dec 26 2019,Everton FC,1-0,Burnley FC
+19,Thu Dec 26 2019,Leicester City FC,0-4,Liverpool FC
+19,Thu Dec 26 2019,Chelsea FC,0-2,Southampton FC
+19,Thu Dec 26 2019,Tottenham Hotspur FC,2-1,Brighton & Hove Albion FC
+19,Thu Dec 26 2019,Sheffield United FC,1-1,Watford FC
+19,Thu Dec 26 2019,Crystal Palace FC,2-1,West Ham United FC
+19,Thu Dec 26 2019,AFC Bournemouth,1-1,Arsenal FC
+19,Thu Dec 26 2019,Manchester United FC,4-1,Newcastle United FC
+19,Thu Dec 26 2019,Aston Villa FC,1-0,Norwich City FC
+19,Fri Dec 27 2019,Wolverhampton Wanderers FC,3-2,Manchester City FC
+20,Sat Dec 28 2019,Watford FC,3-0,Aston Villa FC
+20,Sat Dec 28 2019,Southampton FC,1-1,Crystal Palace FC
+20,Sat Dec 28 2019,Newcastle United FC,1-2,Everton FC
+20,Sat Dec 28 2019,Norwich City FC,2-2,Tottenham Hotspur FC
+20,Sat Dec 28 2019,West Ham United FC,1-2,Leicester City FC
+20,Sat Dec 28 2019,Burnley FC,0-2,Manchester United FC
+20,Sat Dec 28 2019,Brighton & Hove Albion FC,2-0,AFC Bournemouth
+20,Sun Dec 29 2019,Arsenal FC,1-2,Chelsea FC
+20,Sun Dec 29 2019,Manchester City FC,2-0,Sheffield United FC
+20,Sun Dec 29 2019,Liverpool FC,1-0,Wolverhampton Wanderers FC
+21,Wed Jan 1 2020,Burnley FC,1-2,Aston Villa FC
+21,Wed Jan 1 2020,West Ham United FC,4-0,AFC Bournemouth
+21,Wed Jan 1 2020,Norwich City FC,1-1,Crystal Palace FC
+21,Wed Jan 1 2020,Arsenal FC,2-0,Manchester United FC
+21,Wed Jan 1 2020,Newcastle United FC,0-3,Leicester City FC
+21,Wed Jan 1 2020,Southampton FC,1-0,Tottenham Hotspur FC
+21,Wed Jan 1 2020,Watford FC,2-1,Wolverhampton Wanderers FC
+21,Wed Jan 1 2020,Manchester City FC,2-1,Everton FC
+21,Wed Jan 1 2020,Brighton & Hove Albion FC,1-1,Chelsea FC
+21,Thu Jan 2 2020,Liverpool FC,2-0,Sheffield United FC
+22,Fri Jan 10 2020,Sheffield United FC,1-0,West Ham United FC
+22,Sat Jan 11 2020,Tottenham Hotspur FC,0-1,Liverpool FC
+22,Sat Jan 11 2020,Leicester City FC,1-2,Southampton FC
+22,Sat Jan 11 2020,Crystal Palace FC,1-1,Arsenal FC
+22,Sat Jan 11 2020,Wolverhampton Wanderers FC,1-1,Newcastle United FC
+22,Sat Jan 11 2020,Manchester United FC,4-0,Norwich City FC
+22,Sat Jan 11 2020,Everton FC,1-0,Brighton & Hove Albion FC
+22,Sat Jan 11 2020,Chelsea FC,3-0,Burnley FC
+22,Sun Jan 12 2020,AFC Bournemouth,0-3,Watford FC
+22,Sun Jan 12 2020,Aston Villa FC,1-6,Manchester City FC
+23,Sat Jan 18 2020,Norwich City FC,1-0,AFC Bournemouth
+23,Sat Jan 18 2020,Newcastle United FC,1-0,Chelsea FC
+23,Sat Jan 18 2020,Watford FC,0-0,Tottenham Hotspur FC
+23,Sat Jan 18 2020,Manchester City FC,2-2,Crystal Palace FC
+23,Sat Jan 18 2020,Arsenal FC,1-1,Sheffield United FC
+23,Sat Jan 18 2020,West Ham United FC,1-1,Everton FC
+23,Sat Jan 18 2020,Brighton & Hove Albion FC,1-1,Aston Villa FC
+23,Sat Jan 18 2020,Southampton FC,2-3,Wolverhampton Wanderers FC
+23,Sun Jan 19 2020,Burnley FC,2-1,Leicester City FC
+23,Sun Jan 19 2020,Liverpool FC,2-0,Manchester United FC
+24,Tue Jan 21 2020,Everton FC,2-2,Newcastle United FC
+24,Tue Jan 21 2020,Aston Villa FC,2-1,Watford FC
+24,Tue Jan 21 2020,AFC Bournemouth,3-1,Brighton & Hove Albion FC
+24,Tue Jan 21 2020,Sheffield United FC,0-1,Manchester City FC
+24,Tue Jan 21 2020,Chelsea FC,2-2,Arsenal FC
+24,Tue Jan 21 2020,Crystal Palace FC,0-2,Southampton FC
+24,Wed Jan 22 2020,Tottenham Hotspur FC,2-1,Norwich City FC
+24,Wed Jan 22 2020,Leicester City FC,4-1,West Ham United FC
+24,Wed Jan 22 2020,Manchester United FC,0-2,Burnley FC
+24,Thu Jan 23 2020,Wolverhampton Wanderers FC,1-2,Liverpool FC
+18,Wed Jan 29 2020,West Ham United FC,0-2,Liverpool FC
+25,Sat Feb 1 2020,Leicester City FC,2-2,Chelsea FC
+25,Sat Feb 1 2020,Manchester United FC,0-0,Wolverhampton Wanderers FC
+25,Sat Feb 1 2020,Newcastle United FC,0-0,Norwich City FC
+25,Sat Feb 1 2020,West Ham United FC,3-3,Brighton & Hove Albion FC
+25,Sat Feb 1 2020,Crystal Palace FC,0-1,Sheffield United FC
+25,Sat Feb 1 2020,Watford FC,2-3,Everton FC
+25,Sat Feb 1 2020,AFC Bournemouth,2-1,Aston Villa FC
+25,Sat Feb 1 2020,Liverpool FC,4-0,Southampton FC
+25,Sun Feb 2 2020,Burnley FC,0-0,Arsenal FC
+25,Sun Feb 2 2020,Tottenham Hotspur FC,2-0,Manchester City FC
+26,Sat Feb 8 2020,Everton FC,3-1,Crystal Palace FC
+26,Sat Feb 8 2020,Brighton & Hove Albion FC,1-1,Watford FC
+26,Sun Feb 9 2020,Sheffield United FC,2-1,AFC Bournemouth
+26,Fri Feb 14 2020,Wolverhampton Wanderers FC,0-0,Leicester City FC
+26,Sat Feb 15 2020,Norwich City FC,0-1,Liverpool FC
+26,Sat Feb 15 2020,Southampton FC,1-2,Burnley FC
+26,Sun Feb 16 2020,Aston Villa FC,2-3,Tottenham Hotspur FC
+26,Sun Feb 16 2020,Arsenal FC,4-0,Newcastle United FC
+26,Mon Feb 17 2020,Chelsea FC,0-2,Manchester United FC
+26,Wed Feb 19 2020,Manchester City FC,2-0,West Ham United FC
+27,Sat Feb 22 2020,Chelsea FC,2-1,Tottenham Hotspur FC
+27,Sat Feb 22 2020,Sheffield United FC,1-1,Brighton & Hove Albion FC
+27,Sat Feb 22 2020,Southampton FC,2-0,Aston Villa FC
+27,Sat Feb 22 2020,Crystal Palace FC,1-0,Newcastle United FC
+27,Sat Feb 22 2020,Leicester City FC,0-1,Manchester City FC
+27,Sat Feb 22 2020,Burnley FC,3-0,AFC Bournemouth
+27,Sun Feb 23 2020,Manchester United FC,3-0,Watford FC
+27,Sun Feb 23 2020,Wolverhampton Wanderers FC,3-0,Norwich City FC
+27,Sun Feb 23 2020,Arsenal FC,3-2,Everton FC
+27,Mon Feb 24 2020,Liverpool FC,3-2,West Ham United FC
+28,Fri Feb 28 2020,Norwich City FC,1-0,Leicester City FC
+28,Sat Feb 29 2020,Brighton & Hove Albion FC,0-1,Crystal Palace FC
+28,Sat Feb 29 2020,Watford FC,3-0,Liverpool FC
+28,Sat Feb 29 2020,Newcastle United FC,0-0,Burnley FC
+28,Sat Feb 29 2020,West Ham United FC,3-1,Southampton FC
+28,Sat Feb 29 2020,AFC Bournemouth,2-2,Chelsea FC
+28,Sun Mar 1 2020,Everton FC,1-1,Manchester United FC
+28,Sun Mar 1 2020,Tottenham Hotspur FC,2-3,Wolverhampton Wanderers FC
+29,Sat Mar 7 2020,Crystal Palace FC,1-0,Watford FC
+29,Sat Mar 7 2020,Southampton FC,0-1,Newcastle United FC
+29,Sat Mar 7 2020,Burnley FC,1-1,Tottenham Hotspur FC
+29,Sat Mar 7 2020,Liverpool FC,2-1,AFC Bournemouth
+29,Sat Mar 7 2020,Wolverhampton Wanderers FC,0-0,Brighton & Hove Albion FC
+29,Sat Mar 7 2020,Arsenal FC,1-0,West Ham United FC
+29,Sat Mar 7 2020,Sheffield United FC,1-0,Norwich City FC
+29,Sun Mar 8 2020,Chelsea FC,4-0,Everton FC
+29,Sun Mar 8 2020,Manchester United FC,2-0,Manchester City FC
+29,Mon Mar 9 2020,Leicester City FC,4-0,Aston Villa FC
+28,Wed Jun 17 2020,Manchester City FC,3-0,Arsenal FC
+28,Wed Jun 17 2020,Aston Villa FC,0-0,Sheffield United FC
+30,Fri Jun 19 2020,Tottenham Hotspur FC,1-1,Manchester United FC
+30,Fri Jun 19 2020,Norwich City FC,0-3,Southampton FC
+30,Sat Jun 20 2020,West Ham United FC,0-2,Wolverhampton Wanderers FC
+30,Sat Jun 20 2020,Watford FC,1-1,Leicester City FC
+30,Sat Jun 20 2020,Brighton & Hove Albion FC,2-1,Arsenal FC
+30,Sat Jun 20 2020,AFC Bournemouth,0-2,Crystal Palace FC
+30,Sun Jun 21 2020,Newcastle United FC,3-0,Sheffield United FC
+30,Sun Jun 21 2020,Everton FC,0-0,Liverpool FC
+30,Sun Jun 21 2020,Aston Villa FC,1-2,Chelsea FC
+30,Mon Jun 22 2020,Manchester City FC,5-0,Burnley FC
+31,Tue Jun 23 2020,Tottenham Hotspur FC,2-0,West Ham United FC
+31,Tue Jun 23 2020,Leicester City FC,0-0,Brighton & Hove Albion FC
+31,Wed Jun 24 2020,Wolverhampton Wanderers FC,,AFC Bournemouth
+31,Wed Jun 24 2020,Norwich City FC,,Everton FC
+31,Wed Jun 24 2020,Newcastle United FC,,Aston Villa FC
+31,Wed Jun 24 2020,Manchester United FC,,Sheffield United FC
+31,Wed Jun 24 2020,Liverpool FC,,Crystal Palace FC
+31,Thu Jun 25 2020,Southampton FC,,Arsenal FC
+31,Thu Jun 25 2020,Burnley FC,,Watford FC
+31,Thu Jun 25 2020,Chelsea FC,,Manchester City FC
+32,Sat Jun 27 2020,Aston Villa FC,,Wolverhampton Wanderers FC
+32,Sun Jun 28 2020,Watford FC,,Southampton FC
+32,Mon Jun 29 2020,Crystal Palace FC,,Burnley FC
+32,Tue Jun 30 2020,Brighton & Hove Albion FC,,Manchester United FC
