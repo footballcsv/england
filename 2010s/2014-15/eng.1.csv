@@ -1,37 +1,37 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 16 2014,Manchester United FC,1-2,Swansea City FC
 1,Sat Aug 16 2014,West Bromwich Albion FC,2-2,Sunderland AFC
 1,Sat Aug 16 2014,Leicester City FC,2-2,Everton FC
 1,Sat Aug 16 2014,Stoke City FC,0-1,Aston Villa FC
-1,Sat Aug 16 2014,Arsenal FC,2-1,Crystal Palace FC
-1,Sat Aug 16 2014,West Ham United FC,0-1,Tottenham Hotspur FC
 1,Sat Aug 16 2014,Queens Park Rangers FC,0-1,Hull City AFC
-1,Sun Aug 17 2014,Newcastle United FC,0-2,Manchester City FC
+1,Sat Aug 16 2014,West Ham United FC,0-1,Tottenham Hotspur FC
+1,Sat Aug 16 2014,Arsenal FC,2-1,Crystal Palace FC
 1,Sun Aug 17 2014,Liverpool FC,2-1,Southampton FC
+1,Sun Aug 17 2014,Newcastle United FC,0-2,Manchester City FC
 1,Mon Aug 18 2014,Burnley FC,1-3,Chelsea FC
-2,Sat Aug 23 2014,Swansea City FC,1-0,Burnley FC
-2,Sat Aug 23 2014,Crystal Palace FC,1-3,West Ham United FC
 2,Sat Aug 23 2014,Aston Villa FC,0-0,Newcastle United FC
-2,Sat Aug 23 2014,Everton FC,2-2,Arsenal FC
-2,Sat Aug 23 2014,Southampton FC,0-0,West Bromwich Albion FC
+2,Sat Aug 23 2014,Crystal Palace FC,1-3,West Ham United FC
+2,Sat Aug 23 2014,Swansea City FC,1-0,Burnley FC
 2,Sat Aug 23 2014,Chelsea FC,2-0,Leicester City FC
+2,Sat Aug 23 2014,Southampton FC,0-0,West Bromwich Albion FC
+2,Sat Aug 23 2014,Everton FC,2-2,Arsenal FC
 2,Sun Aug 24 2014,Tottenham Hotspur FC,4-0,Queens Park Rangers FC
 2,Sun Aug 24 2014,Hull City AFC,1-1,Stoke City FC
 2,Sun Aug 24 2014,Sunderland AFC,1-1,Manchester United FC
 2,Mon Aug 25 2014,Manchester City FC,3-1,Liverpool FC
-3,Sat Aug 30 2014,Queens Park Rangers FC,1-0,Sunderland AFC
 3,Sat Aug 30 2014,Burnley FC,0-0,Manchester United FC
+3,Sat Aug 30 2014,Queens Park Rangers FC,1-0,Sunderland AFC
 3,Sat Aug 30 2014,Swansea City FC,3-0,West Bromwich Albion FC
 3,Sat Aug 30 2014,Manchester City FC,0-1,Stoke City FC
-3,Sat Aug 30 2014,Everton FC,3-6,Chelsea FC
-3,Sat Aug 30 2014,West Ham United FC,1-3,Southampton FC
 3,Sat Aug 30 2014,Newcastle United FC,3-3,Crystal Palace FC
+3,Sat Aug 30 2014,West Ham United FC,1-3,Southampton FC
+3,Sat Aug 30 2014,Everton FC,3-6,Chelsea FC
 3,Sun Aug 31 2014,Tottenham Hotspur FC,0-3,Liverpool FC
 3,Sun Aug 31 2014,Aston Villa FC,2-1,Hull City AFC
 3,Sun Aug 31 2014,Leicester City FC,1-1,Arsenal FC
-4,Sat Sep 13 2014,Southampton FC,4-0,Newcastle United FC
-4,Sat Sep 13 2014,Sunderland AFC,2-2,Tottenham Hotspur FC
 4,Sat Sep 13 2014,Arsenal FC,2-2,Manchester City FC
+4,Sat Sep 13 2014,Sunderland AFC,2-2,Tottenham Hotspur FC
+4,Sat Sep 13 2014,Southampton FC,4-0,Newcastle United FC
 4,Sat Sep 13 2014,Stoke City FC,0-1,Leicester City FC
 4,Sat Sep 13 2014,Chelsea FC,4-2,Swansea City FC
 4,Sat Sep 13 2014,West Bromwich Albion FC,0-2,Everton FC
@@ -43,8 +43,8 @@ Matchday,Date,Team 1,FT,Team 2
 5,Sat Sep 20 2014,Swansea City FC,0-1,Southampton FC
 5,Sat Sep 20 2014,Burnley FC,0-0,Sunderland AFC
 5,Sat Sep 20 2014,Aston Villa FC,0-3,Arsenal FC
-5,Sat Sep 20 2014,West Ham United FC,3-1,Liverpool FC
 5,Sat Sep 20 2014,Newcastle United FC,2-2,Hull City AFC
+5,Sat Sep 20 2014,West Ham United FC,3-1,Liverpool FC
 5,Sun Sep 21 2014,Leicester City FC,5-3,Manchester United FC
 5,Sun Sep 21 2014,Tottenham Hotspur FC,0-1,West Bromwich Albion FC
 5,Sun Sep 21 2014,Manchester City FC,1-1,Chelsea FC
@@ -59,32 +59,32 @@ Matchday,Date,Team 1,FT,Team 2
 6,Sat Sep 27 2014,Arsenal FC,1-1,Tottenham Hotspur FC
 6,Sun Sep 28 2014,West Bromwich Albion FC,4-0,Burnley FC
 6,Mon Sep 29 2014,Stoke City FC,1-0,Newcastle United FC
-7,Sat Oct 4 2014,Swansea City FC,2-2,Newcastle United FC
 7,Sat Oct 4 2014,Hull City AFC,2-0,Crystal Palace FC
+7,Sat Oct 4 2014,Swansea City FC,2-2,Newcastle United FC
 7,Sat Oct 4 2014,Liverpool FC,2-1,West Bromwich Albion FC
-7,Sat Oct 4 2014,Aston Villa FC,0-2,Manchester City FC
-7,Sat Oct 4 2014,Leicester City FC,2-2,Burnley FC
 7,Sat Oct 4 2014,Sunderland AFC,3-1,Stoke City FC
+7,Sat Oct 4 2014,Leicester City FC,2-2,Burnley FC
+7,Sat Oct 4 2014,Aston Villa FC,0-2,Manchester City FC
 7,Sun Oct 5 2014,Manchester United FC,2-1,Everton FC
 7,Sun Oct 5 2014,Tottenham Hotspur FC,1-0,Southampton FC
 7,Sun Oct 5 2014,Chelsea FC,2-0,Arsenal FC
 7,Sun Oct 5 2014,West Ham United FC,2-0,Queens Park Rangers FC
-8,Sat Oct 18 2014,Arsenal FC,2-2,Hull City AFC
 8,Sat Oct 18 2014,Manchester City FC,4-1,Tottenham Hotspur FC
+8,Sat Oct 18 2014,Arsenal FC,2-2,Hull City AFC
 8,Sat Oct 18 2014,Burnley FC,1-3,West Ham United FC
 8,Sat Oct 18 2014,Everton FC,3-0,Aston Villa FC
-8,Sat Oct 18 2014,Newcastle United FC,1-0,Leicester City FC
-8,Sat Oct 18 2014,Southampton FC,8-0,Sunderland AFC
 8,Sat Oct 18 2014,Crystal Palace FC,1-2,Chelsea FC
+8,Sat Oct 18 2014,Southampton FC,8-0,Sunderland AFC
+8,Sat Oct 18 2014,Newcastle United FC,1-0,Leicester City FC
 8,Sun Oct 19 2014,Queens Park Rangers FC,2-3,Liverpool FC
 8,Sun Oct 19 2014,Stoke City FC,2-1,Swansea City FC
 8,Mon Oct 20 2014,West Bromwich Albion FC,2-2,Manchester United FC
-9,Sat Oct 25 2014,Southampton FC,1-0,Stoke City FC
 9,Sat Oct 25 2014,West Ham United FC,2-1,Manchester City FC
-9,Sat Oct 25 2014,Swansea City FC,2-0,Leicester City FC
+9,Sat Oct 25 2014,Southampton FC,1-0,Stoke City FC
+9,Sat Oct 25 2014,Liverpool FC,0-0,Hull City AFC
 9,Sat Oct 25 2014,Sunderland AFC,0-2,Arsenal FC
 9,Sat Oct 25 2014,West Bromwich Albion FC,2-2,Crystal Palace FC
-9,Sat Oct 25 2014,Liverpool FC,0-0,Hull City AFC
+9,Sat Oct 25 2014,Swansea City FC,2-0,Leicester City FC
 9,Sun Oct 26 2014,Burnley FC,1-3,Everton FC
 9,Sun Oct 26 2014,Tottenham Hotspur FC,1-2,Newcastle United FC
 9,Sun Oct 26 2014,Manchester United FC,1-1,Chelsea FC
@@ -93,9 +93,9 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Nov 1 2014,Leicester City FC,0-1,West Bromwich Albion FC
 10,Sat Nov 1 2014,Everton FC,0-0,Swansea City FC
 10,Sat Nov 1 2014,Chelsea FC,2-1,Queens Park Rangers FC
-10,Sat Nov 1 2014,Stoke City FC,2-2,West Ham United FC
-10,Sat Nov 1 2014,Hull City AFC,0-1,Southampton FC
 10,Sat Nov 1 2014,Arsenal FC,3-0,Burnley FC
+10,Sat Nov 1 2014,Hull City AFC,0-1,Southampton FC
+10,Sat Nov 1 2014,Stoke City FC,2-2,West Ham United FC
 10,Sun Nov 2 2014,Manchester City FC,1-0,Manchester United FC
 10,Sun Nov 2 2014,Aston Villa FC,1-2,Tottenham Hotspur FC
 10,Mon Nov 3 2014,Crystal Palace FC,1-3,Sunderland AFC
@@ -103,49 +103,49 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sat Nov 8 2014,Southampton FC,2-0,Leicester City FC
 11,Sat Nov 8 2014,Manchester United FC,1-0,Crystal Palace FC
 11,Sat Nov 8 2014,West Ham United FC,0-0,Aston Villa FC
-11,Sat Nov 8 2014,Queens Park Rangers FC,2-2,Manchester City FC
 11,Sat Nov 8 2014,Burnley FC,1-0,Hull City AFC
+11,Sat Nov 8 2014,Queens Park Rangers FC,2-2,Manchester City FC
 11,Sun Nov 9 2014,Sunderland AFC,1-1,Everton FC
 11,Sun Nov 9 2014,Tottenham Hotspur FC,1-2,Stoke City FC
-11,Sun Nov 9 2014,Swansea City FC,2-1,Arsenal FC
 11,Sun Nov 9 2014,West Bromwich Albion FC,0-2,Newcastle United FC
+11,Sun Nov 9 2014,Swansea City FC,2-1,Arsenal FC
 12,Sat Nov 22 2014,Manchester City FC,2-1,Swansea City FC
 12,Sat Nov 22 2014,Everton FC,2-1,West Ham United FC
 12,Sat Nov 22 2014,Stoke City FC,1-2,Burnley FC
-12,Sat Nov 22 2014,Arsenal FC,1-2,Manchester United FC
+12,Sat Nov 22 2014,Leicester City FC,0-0,Sunderland AFC
 12,Sat Nov 22 2014,Newcastle United FC,1-0,Queens Park Rangers FC
 12,Sat Nov 22 2014,Chelsea FC,2-0,West Bromwich Albion FC
-12,Sat Nov 22 2014,Leicester City FC,0-0,Sunderland AFC
+12,Sat Nov 22 2014,Arsenal FC,1-2,Manchester United FC
 12,Sun Nov 23 2014,Crystal Palace FC,3-1,Liverpool FC
 12,Sun Nov 23 2014,Hull City AFC,1-2,Tottenham Hotspur FC
 12,Mon Nov 24 2014,Aston Villa FC,1-1,Southampton FC
-13,Sat Nov 29 2014,Burnley FC,1-1,Aston Villa FC
-13,Sat Nov 29 2014,Liverpool FC,1-0,Stoke City FC
 13,Sat Nov 29 2014,West Bromwich Albion FC,0-1,Arsenal FC
+13,Sat Nov 29 2014,Liverpool FC,1-0,Stoke City FC
+13,Sat Nov 29 2014,Burnley FC,1-1,Aston Villa FC
 13,Sat Nov 29 2014,Swansea City FC,1-1,Crystal Palace FC
-13,Sat Nov 29 2014,Sunderland AFC,0-0,Chelsea FC
+13,Sat Nov 29 2014,Manchester United FC,3-0,Hull City AFC
 13,Sat Nov 29 2014,Queens Park Rangers FC,3-2,Leicester City FC
 13,Sat Nov 29 2014,West Ham United FC,1-0,Newcastle United FC
-13,Sat Nov 29 2014,Manchester United FC,3-0,Hull City AFC
+13,Sat Nov 29 2014,Sunderland AFC,0-0,Chelsea FC
 13,Sun Nov 30 2014,Southampton FC,0-3,Manchester City FC
 13,Sun Nov 30 2014,Tottenham Hotspur FC,2-1,Everton FC
-14,Tue Dec 2 2014,Burnley FC,1-1,Newcastle United FC
 14,Tue Dec 2 2014,Leicester City FC,1-3,Liverpool FC
+14,Tue Dec 2 2014,Burnley FC,1-1,Newcastle United FC
 14,Tue Dec 2 2014,Manchester United FC,2-1,Stoke City FC
-14,Tue Dec 2 2014,Crystal Palace FC,0-1,Aston Villa FC
-14,Tue Dec 2 2014,West Bromwich Albion FC,1-2,West Ham United FC
 14,Tue Dec 2 2014,Swansea City FC,2-0,Queens Park Rangers FC
+14,Tue Dec 2 2014,West Bromwich Albion FC,1-2,West Ham United FC
+14,Tue Dec 2 2014,Crystal Palace FC,0-1,Aston Villa FC
 14,Wed Dec 3 2014,Everton FC,1-1,Hull City AFC
 14,Wed Dec 3 2014,Sunderland AFC,1-4,Manchester City FC
-14,Wed Dec 3 2014,Arsenal FC,1-0,Southampton FC
 14,Wed Dec 3 2014,Chelsea FC,3-0,Tottenham Hotspur FC
+14,Wed Dec 3 2014,Arsenal FC,1-0,Southampton FC
 15,Sat Dec 6 2014,Newcastle United FC,2-1,Chelsea FC
 15,Sat Dec 6 2014,Hull City AFC,0-0,West Bromwich Albion FC
 15,Sat Dec 6 2014,Tottenham Hotspur FC,0-0,Crystal Palace FC
 15,Sat Dec 6 2014,Liverpool FC,0-0,Sunderland AFC
-15,Sat Dec 6 2014,Manchester City FC,1-0,Everton FC
-15,Sat Dec 6 2014,Queens Park Rangers FC,2-0,Burnley FC
 15,Sat Dec 6 2014,Stoke City FC,3-2,Arsenal FC
+15,Sat Dec 6 2014,Queens Park Rangers FC,2-0,Burnley FC
+15,Sat Dec 6 2014,Manchester City FC,1-0,Everton FC
 15,Sun Dec 7 2014,West Ham United FC,3-1,Swansea City FC
 15,Sun Dec 7 2014,Aston Villa FC,2-1,Leicester City FC
 15,Mon Dec 8 2014,Southampton FC,1-2,Manchester United FC
@@ -153,32 +153,32 @@ Matchday,Date,Team 1,FT,Team 2
 16,Sat Dec 13 2014,West Bromwich Albion FC,1-0,Aston Villa FC
 16,Sat Dec 13 2014,Chelsea FC,2-0,Hull City AFC
 16,Sat Dec 13 2014,Leicester City FC,0-1,Manchester City FC
-16,Sat Dec 13 2014,Arsenal FC,4-1,Newcastle United FC
-16,Sat Dec 13 2014,Sunderland AFC,1-1,West Ham United FC
 16,Sat Dec 13 2014,Crystal Palace FC,1-1,Stoke City FC
+16,Sat Dec 13 2014,Sunderland AFC,1-1,West Ham United FC
+16,Sat Dec 13 2014,Arsenal FC,4-1,Newcastle United FC
 16,Sun Dec 14 2014,Manchester United FC,3-0,Liverpool FC
 16,Sun Dec 14 2014,Swansea City FC,1-2,Tottenham Hotspur FC
 16,Mon Dec 15 2014,Everton FC,3-1,Queens Park Rangers FC
-17,Sat Dec 20 2014,Southampton FC,3-0,Everton FC
-17,Sat Dec 20 2014,Aston Villa FC,1-1,Manchester United FC
 17,Sat Dec 20 2014,Manchester City FC,3-0,Crystal Palace FC
+17,Sat Dec 20 2014,Aston Villa FC,1-1,Manchester United FC
+17,Sat Dec 20 2014,Southampton FC,3-0,Everton FC
 17,Sat Dec 20 2014,Hull City AFC,0-1,Swansea City FC
-17,Sat Dec 20 2014,Tottenham Hotspur FC,2-1,Burnley FC
-17,Sat Dec 20 2014,Queens Park Rangers FC,3-2,West Bromwich Albion FC
 17,Sat Dec 20 2014,West Ham United FC,2-0,Leicester City FC
+17,Sat Dec 20 2014,Queens Park Rangers FC,3-2,West Bromwich Albion FC
+17,Sat Dec 20 2014,Tottenham Hotspur FC,2-1,Burnley FC
 17,Sun Dec 21 2014,Newcastle United FC,0-1,Sunderland AFC
 17,Sun Dec 21 2014,Liverpool FC,2-2,Arsenal FC
 17,Mon Dec 22 2014,Stoke City FC,0-2,Chelsea FC
-18,Fri Dec 26 2014,Manchester United FC,3-1,Newcastle United FC
+18,Fri Dec 26 2014,Chelsea FC,2-0,West Ham United FC
 18,Fri Dec 26 2014,Burnley FC,0-1,Liverpool FC
 18,Fri Dec 26 2014,Leicester City FC,1-2,Tottenham Hotspur FC
-18,Fri Dec 26 2014,Chelsea FC,2-0,West Ham United FC
-18,Fri Dec 26 2014,Arsenal FC,2-1,Queens Park Rangers FC
+18,Fri Dec 26 2014,Manchester United FC,3-1,Newcastle United FC
+18,Fri Dec 26 2014,Swansea City FC,1-0,Aston Villa FC
 18,Fri Dec 26 2014,West Bromwich Albion FC,1-3,Manchester City FC
 18,Fri Dec 26 2014,Crystal Palace FC,1-3,Southampton FC
 18,Fri Dec 26 2014,Everton FC,0-1,Stoke City FC
 18,Fri Dec 26 2014,Sunderland AFC,1-3,Hull City AFC
-18,Fri Dec 26 2014,Swansea City FC,1-0,Aston Villa FC
+18,Fri Dec 26 2014,Arsenal FC,2-1,Queens Park Rangers FC
 19,Sun Dec 28 2014,Tottenham Hotspur FC,0-0,Manchester United FC
 19,Sun Dec 28 2014,Southampton FC,1-1,Chelsea FC
 19,Sun Dec 28 2014,West Ham United FC,1-2,Arsenal FC
@@ -189,7 +189,7 @@ Matchday,Date,Team 1,FT,Team 2
 19,Sun Dec 28 2014,Stoke City FC,2-0,West Bromwich Albion FC
 19,Sun Dec 28 2014,Newcastle United FC,3-2,Everton FC
 19,Mon Dec 29 2014,Liverpool FC,4-1,Swansea City FC
-20,Thu Jan 1 2015,Tottenham Hotspur FC,5-3,Chelsea FC
+20,Thu Jan 1 2015,Stoke City FC,1-1,Manchester United FC
 20,Thu Jan 1 2015,West Ham United FC,1-1,West Bromwich Albion FC
 20,Thu Jan 1 2015,Newcastle United FC,3-3,Burnley FC
 20,Thu Jan 1 2015,Aston Villa FC,0-0,Crystal Palace FC
@@ -198,47 +198,47 @@ Matchday,Date,Team 1,FT,Team 2
 20,Thu Jan 1 2015,Southampton FC,2-0,Arsenal FC
 20,Thu Jan 1 2015,Hull City AFC,2-0,Everton FC
 20,Thu Jan 1 2015,Manchester City FC,3-2,Sunderland AFC
-20,Thu Jan 1 2015,Stoke City FC,1-1,Manchester United FC
+20,Thu Jan 1 2015,Tottenham Hotspur FC,5-3,Chelsea FC
 21,Sat Jan 10 2015,Sunderland AFC,0-1,Liverpool FC
 21,Sat Jan 10 2015,Chelsea FC,2-0,Newcastle United FC
 21,Sat Jan 10 2015,Everton FC,1-1,Manchester City FC
 21,Sat Jan 10 2015,Swansea City FC,1-1,West Ham United FC
-21,Sat Jan 10 2015,Crystal Palace FC,2-1,Tottenham Hotspur FC
+21,Sat Jan 10 2015,West Bromwich Albion FC,1-0,Hull City AFC
 21,Sat Jan 10 2015,Burnley FC,2-1,Queens Park Rangers FC
 21,Sat Jan 10 2015,Leicester City FC,1-0,Aston Villa FC
-21,Sat Jan 10 2015,West Bromwich Albion FC,1-0,Hull City AFC
-21,Sun Jan 11 2015,Manchester United FC,0-1,Southampton FC
+21,Sat Jan 10 2015,Crystal Palace FC,2-1,Tottenham Hotspur FC
 21,Sun Jan 11 2015,Arsenal FC,3-0,Stoke City FC
+21,Sun Jan 11 2015,Manchester United FC,0-1,Southampton FC
 22,Sat Jan 17 2015,Leicester City FC,0-1,Stoke City FC
 22,Sat Jan 17 2015,Queens Park Rangers FC,0-2,Manchester United FC
 22,Sat Jan 17 2015,Tottenham Hotspur FC,2-1,Sunderland AFC
-22,Sat Jan 17 2015,Newcastle United FC,1-2,Southampton FC
+22,Sat Jan 17 2015,Burnley FC,2-3,Crystal Palace FC
 22,Sat Jan 17 2015,Swansea City FC,0-5,Chelsea FC
 22,Sat Jan 17 2015,Aston Villa FC,0-2,Liverpool FC
-22,Sat Jan 17 2015,Burnley FC,2-3,Crystal Palace FC
+22,Sat Jan 17 2015,Newcastle United FC,1-2,Southampton FC
 22,Sun Jan 18 2015,West Ham United FC,3-0,Hull City AFC
 22,Sun Jan 18 2015,Manchester City FC,0-2,Arsenal FC
 22,Mon Jan 19 2015,Everton FC,0-0,West Bromwich Albion FC
-23,Sat Jan 31 2015,Stoke City FC,3-1,Queens Park Rangers FC
-23,Sat Jan 31 2015,West Bromwich Albion FC,0-3,Tottenham Hotspur FC
 23,Sat Jan 31 2015,Hull City AFC,0-3,Newcastle United FC
+23,Sat Jan 31 2015,West Bromwich Albion FC,0-3,Tottenham Hotspur FC
+23,Sat Jan 31 2015,Stoke City FC,3-1,Queens Park Rangers FC
 23,Sat Jan 31 2015,Sunderland AFC,2-0,Burnley FC
-23,Sat Jan 31 2015,Chelsea FC,1-1,Manchester City FC
+23,Sat Jan 31 2015,Crystal Palace FC,0-1,Everton FC
 23,Sat Jan 31 2015,Manchester United FC,3-1,Leicester City FC
 23,Sat Jan 31 2015,Liverpool FC,2-0,West Ham United FC
-23,Sat Jan 31 2015,Crystal Palace FC,0-1,Everton FC
+23,Sat Jan 31 2015,Chelsea FC,1-1,Manchester City FC
 23,Sun Feb 1 2015,Arsenal FC,5-0,Aston Villa FC
 23,Sun Feb 1 2015,Southampton FC,0-1,Swansea City FC
-24,Sat Feb 7 2015,Queens Park Rangers FC,0-1,Southampton FC
-24,Sat Feb 7 2015,Aston Villa FC,1-2,Chelsea FC
 24,Sat Feb 7 2015,Tottenham Hotspur FC,2-1,Arsenal FC
-24,Sat Feb 7 2015,Everton FC,0-0,Liverpool FC
+24,Sat Feb 7 2015,Aston Villa FC,1-2,Chelsea FC
+24,Sat Feb 7 2015,Queens Park Rangers FC,0-1,Southampton FC
+24,Sat Feb 7 2015,Leicester City FC,0-1,Crystal Palace FC
 24,Sat Feb 7 2015,Swansea City FC,1-1,Sunderland AFC
 24,Sat Feb 7 2015,Manchester City FC,1-1,Hull City AFC
-24,Sat Feb 7 2015,Leicester City FC,0-1,Crystal Palace FC
+24,Sat Feb 7 2015,Everton FC,0-0,Liverpool FC
 24,Sun Feb 8 2015,Burnley FC,2-2,West Bromwich Albion FC
-24,Sun Feb 8 2015,West Ham United FC,1-1,Manchester United FC
 24,Sun Feb 8 2015,Newcastle United FC,1-1,Stoke City FC
+24,Sun Feb 8 2015,West Ham United FC,1-1,Manchester United FC
 25,Tue Feb 10 2015,Arsenal FC,2-1,Leicester City FC
 25,Tue Feb 10 2015,Sunderland AFC,0-2,Queens Park Rangers FC
 25,Tue Feb 10 2015,Hull City AFC,2-0,Aston Villa FC
@@ -246,125 +246,125 @@ Matchday,Date,Team 1,FT,Team 2
 25,Wed Feb 11 2015,Stoke City FC,1-4,Manchester City FC
 25,Wed Feb 11 2015,Chelsea FC,1-0,Everton FC
 25,Wed Feb 11 2015,Southampton FC,0-0,West Ham United FC
-25,Wed Feb 11 2015,Crystal Palace FC,1-1,Newcastle United FC
-25,Wed Feb 11 2015,West Bromwich Albion FC,2-0,Swansea City FC
 25,Wed Feb 11 2015,Manchester United FC,3-1,Burnley FC
+25,Wed Feb 11 2015,West Bromwich Albion FC,2-0,Swansea City FC
+25,Wed Feb 11 2015,Crystal Palace FC,1-1,Newcastle United FC
 26,Sat Feb 21 2015,Aston Villa FC,1-2,Stoke City FC
 26,Sat Feb 21 2015,Hull City AFC,2-1,Queens Park Rangers FC
 26,Sat Feb 21 2015,Chelsea FC,1-1,Burnley FC
 26,Sat Feb 21 2015,Crystal Palace FC,1-2,Arsenal FC
-26,Sat Feb 21 2015,Manchester City FC,5-0,Newcastle United FC
-26,Sat Feb 21 2015,Swansea City FC,2-1,Manchester United FC
 26,Sat Feb 21 2015,Sunderland AFC,0-0,West Bromwich Albion FC
-26,Sun Feb 22 2015,Southampton FC,0-2,Liverpool FC
-26,Sun Feb 22 2015,Everton FC,2-2,Leicester City FC
+26,Sat Feb 21 2015,Swansea City FC,2-1,Manchester United FC
+26,Sat Feb 21 2015,Manchester City FC,5-0,Newcastle United FC
 26,Sun Feb 22 2015,Tottenham Hotspur FC,2-2,West Ham United FC
-27,Sat Feb 28 2015,Burnley FC,0-1,Swansea City FC
+26,Sun Feb 22 2015,Everton FC,2-2,Leicester City FC
+26,Sun Feb 22 2015,Southampton FC,0-2,Liverpool FC
+27,Sat Feb 28 2015,West Ham United FC,1-3,Crystal Palace FC
 27,Sat Feb 28 2015,Newcastle United FC,1-0,Aston Villa FC
 27,Sat Feb 28 2015,West Bromwich Albion FC,1-0,Southampton FC
 27,Sat Feb 28 2015,Stoke City FC,1-0,Hull City AFC
 27,Sat Feb 28 2015,Manchester United FC,2-0,Sunderland AFC
-27,Sat Feb 28 2015,West Ham United FC,1-3,Crystal Palace FC
+27,Sat Feb 28 2015,Burnley FC,0-1,Swansea City FC
 27,Sun Mar 1 2015,Liverpool FC,2-1,Manchester City FC
 27,Sun Mar 1 2015,Arsenal FC,2-0,Everton FC
 28,Tue Mar 3 2015,Southampton FC,1-0,Crystal Palace FC
 28,Tue Mar 3 2015,Aston Villa FC,2-1,West Bromwich Albion FC
 28,Tue Mar 3 2015,Hull City AFC,1-1,Sunderland AFC
-28,Wed Mar 4 2015,Manchester City FC,2-0,Leicester City FC
-28,Wed Mar 4 2015,Queens Park Rangers FC,1-2,Arsenal FC
 28,Wed Mar 4 2015,Stoke City FC,2-0,Everton FC
 28,Wed Mar 4 2015,West Ham United FC,0-1,Chelsea FC
-28,Wed Mar 4 2015,Liverpool FC,2-0,Burnley FC
-28,Wed Mar 4 2015,Newcastle United FC,0-1,Manchester United FC
 28,Wed Mar 4 2015,Tottenham Hotspur FC,3-2,Swansea City FC
+28,Wed Mar 4 2015,Newcastle United FC,0-1,Manchester United FC
+28,Wed Mar 4 2015,Manchester City FC,2-0,Leicester City FC
+28,Wed Mar 4 2015,Queens Park Rangers FC,1-2,Arsenal FC
+28,Wed Mar 4 2015,Liverpool FC,2-0,Burnley FC
 27,Sat Mar 7 2015,Queens Park Rangers FC,1-2,Tottenham Hotspur FC
-29,Sat Mar 14 2015,West Bromwich Albion FC,1-0,Stoke City FC
-29,Sat Mar 14 2015,Sunderland AFC,0-4,Aston Villa FC
+29,Sat Mar 14 2015,Crystal Palace FC,3-1,Queens Park Rangers FC
 29,Sat Mar 14 2015,Leicester City FC,0-0,Hull City AFC
 29,Sat Mar 14 2015,Arsenal FC,3-0,West Ham United FC
+29,Sat Mar 14 2015,West Bromwich Albion FC,1-0,Stoke City FC
+29,Sat Mar 14 2015,Sunderland AFC,0-4,Aston Villa FC
 29,Sat Mar 14 2015,Burnley FC,1-0,Manchester City FC
-29,Sat Mar 14 2015,Crystal Palace FC,3-1,Queens Park Rangers FC
-29,Sun Mar 15 2015,Everton FC,3-0,Newcastle United FC
 29,Sun Mar 15 2015,Chelsea FC,1-1,Southampton FC
 29,Sun Mar 15 2015,Manchester United FC,3-0,Tottenham Hotspur FC
+29,Sun Mar 15 2015,Everton FC,3-0,Newcastle United FC
 29,Mon Mar 16 2015,Swansea City FC,0-1,Liverpool FC
-30,Sat Mar 21 2015,West Ham United FC,1-0,Sunderland AFC
-30,Sat Mar 21 2015,Aston Villa FC,0-1,Swansea City FC
+30,Sat Mar 21 2015,Manchester City FC,3-0,West Bromwich Albion FC
 30,Sat Mar 21 2015,Newcastle United FC,1-2,Arsenal FC
 30,Sat Mar 21 2015,Southampton FC,2-0,Burnley FC
 30,Sat Mar 21 2015,Tottenham Hotspur FC,4-3,Leicester City FC
 30,Sat Mar 21 2015,Stoke City FC,1-2,Crystal Palace FC
-30,Sat Mar 21 2015,Manchester City FC,3-0,West Bromwich Albion FC
+30,Sat Mar 21 2015,Aston Villa FC,0-1,Swansea City FC
+30,Sat Mar 21 2015,West Ham United FC,1-0,Sunderland AFC
 30,Sun Mar 22 2015,Liverpool FC,1-2,Manchester United FC
-30,Sun Mar 22 2015,Hull City AFC,2-3,Chelsea FC
 30,Sun Mar 22 2015,Queens Park Rangers FC,1-2,Everton FC
+30,Sun Mar 22 2015,Hull City AFC,2-3,Chelsea FC
 31,Sat Apr 4 2015,Arsenal FC,4-1,Liverpool FC
-31,Sat Apr 4 2015,Chelsea FC,2-1,Stoke City FC
 31,Sat Apr 4 2015,West Bromwich Albion FC,1-4,Queens Park Rangers FC
-31,Sat Apr 4 2015,Leicester City FC,2-1,West Ham United FC
+31,Sat Apr 4 2015,Everton FC,1-0,Southampton FC
 31,Sat Apr 4 2015,Swansea City FC,3-1,Hull City AFC
 31,Sat Apr 4 2015,Manchester United FC,3-1,Aston Villa FC
-31,Sat Apr 4 2015,Everton FC,1-0,Southampton FC
-31,Sun Apr 5 2015,Sunderland AFC,1-0,Newcastle United FC
+31,Sat Apr 4 2015,Leicester City FC,2-1,West Ham United FC
+31,Sat Apr 4 2015,Chelsea FC,2-1,Stoke City FC
 31,Sun Apr 5 2015,Burnley FC,0-0,Tottenham Hotspur FC
+31,Sun Apr 5 2015,Sunderland AFC,1-0,Newcastle United FC
 31,Mon Apr 6 2015,Crystal Palace FC,2-1,Manchester City FC
 33,Tue Apr 7 2015,Aston Villa FC,3-3,Queens Park Rangers FC
-32,Sat Apr 11 2015,Burnley FC,0-1,Arsenal FC
-32,Sat Apr 11 2015,West Bromwich Albion FC,2-3,Leicester City FC
-32,Sat Apr 11 2015,Sunderland AFC,1-4,Crystal Palace FC
-32,Sat Apr 11 2015,West Ham United FC,1-1,Stoke City FC
 32,Sat Apr 11 2015,Swansea City FC,1-1,Everton FC
-32,Sat Apr 11 2015,Southampton FC,2-0,Hull City AFC
+32,Sat Apr 11 2015,West Ham United FC,1-1,Stoke City FC
+32,Sat Apr 11 2015,Sunderland AFC,1-4,Crystal Palace FC
+32,Sat Apr 11 2015,West Bromwich Albion FC,2-3,Leicester City FC
 32,Sat Apr 11 2015,Tottenham Hotspur FC,0-1,Aston Villa FC
+32,Sat Apr 11 2015,Southampton FC,2-0,Hull City AFC
+32,Sat Apr 11 2015,Burnley FC,0-1,Arsenal FC
 32,Sun Apr 12 2015,Queens Park Rangers FC,0-1,Chelsea FC
 32,Sun Apr 12 2015,Manchester United FC,4-2,Manchester City FC
 32,Mon Apr 13 2015,Liverpool FC,2-0,Newcastle United FC
+33,Sat Apr 18 2015,Crystal Palace FC,0-2,West Bromwich Albion FC
+33,Sat Apr 18 2015,Stoke City FC,2-1,Southampton FC
 33,Sat Apr 18 2015,Everton FC,1-0,Burnley FC
 33,Sat Apr 18 2015,Leicester City FC,2-0,Swansea City FC
-33,Sat Apr 18 2015,Stoke City FC,2-1,Southampton FC
-33,Sat Apr 18 2015,Crystal Palace FC,0-2,West Bromwich Albion FC
 33,Sat Apr 18 2015,Chelsea FC,1-0,Manchester United FC
-33,Sun Apr 19 2015,Newcastle United FC,1-3,Tottenham Hotspur FC
 33,Sun Apr 19 2015,Manchester City FC,2-0,West Ham United FC
+33,Sun Apr 19 2015,Newcastle United FC,1-3,Tottenham Hotspur FC
 34,Sat Apr 25 2015,Southampton FC,2-2,Tottenham Hotspur FC
-34,Sat Apr 25 2015,West Bromwich Albion FC,0-0,Liverpool FC
-34,Sat Apr 25 2015,Newcastle United FC,2-3,Swansea City FC
-34,Sat Apr 25 2015,Queens Park Rangers FC,0-0,West Ham United FC
 34,Sat Apr 25 2015,Stoke City FC,1-1,Sunderland AFC
 34,Sat Apr 25 2015,Burnley FC,0-1,Leicester City FC
 34,Sat Apr 25 2015,Crystal Palace FC,0-2,Hull City AFC
+34,Sat Apr 25 2015,Queens Park Rangers FC,0-0,West Ham United FC
+34,Sat Apr 25 2015,Newcastle United FC,2-3,Swansea City FC
+34,Sat Apr 25 2015,West Bromwich Albion FC,0-0,Liverpool FC
 34,Sat Apr 25 2015,Manchester City FC,3-2,Aston Villa FC
-34,Sun Apr 26 2015,Arsenal FC,0-0,Chelsea FC
 34,Sun Apr 26 2015,Everton FC,3-0,Manchester United FC
+34,Sun Apr 26 2015,Arsenal FC,0-0,Chelsea FC
 33,Tue Apr 28 2015,Hull City AFC,1-0,Liverpool FC
 27,Wed Apr 29 2015,Leicester City FC,1-3,Chelsea FC
-35,Sat May 2 2015,Liverpool FC,2-1,Queens Park Rangers FC
 35,Sat May 2 2015,Leicester City FC,3-0,Newcastle United FC
 35,Sat May 2 2015,West Ham United FC,1-0,Burnley FC
 35,Sat May 2 2015,Aston Villa FC,3-2,Everton FC
 35,Sat May 2 2015,Swansea City FC,2-0,Stoke City FC
-35,Sat May 2 2015,Manchester United FC,0-1,West Bromwich Albion FC
+35,Sat May 2 2015,Liverpool FC,2-1,Queens Park Rangers FC
 35,Sat May 2 2015,Sunderland AFC,2-1,Southampton FC
-35,Sun May 3 2015,Tottenham Hotspur FC,0-1,Manchester City FC
+35,Sat May 2 2015,Manchester United FC,0-1,West Bromwich Albion FC
 35,Sun May 3 2015,Chelsea FC,1-0,Crystal Palace FC
+35,Sun May 3 2015,Tottenham Hotspur FC,0-1,Manchester City FC
 35,Mon May 4 2015,Hull City AFC,1-3,Arsenal FC
-36,Sat May 9 2015,Hull City AFC,0-1,Burnley FC
 36,Sat May 9 2015,Everton FC,0-2,Sunderland AFC
 36,Sat May 9 2015,Leicester City FC,2-0,Southampton FC
 36,Sat May 9 2015,Stoke City FC,3-0,Tottenham Hotspur FC
 36,Sat May 9 2015,Newcastle United FC,1-1,West Bromwich Albion FC
-36,Sat May 9 2015,Crystal Palace FC,1-2,Manchester United FC
+36,Sat May 9 2015,Hull City AFC,0-1,Burnley FC
 36,Sat May 9 2015,Aston Villa FC,1-0,West Ham United FC
-36,Sun May 10 2015,Chelsea FC,1-1,Liverpool FC
+36,Sat May 9 2015,Crystal Palace FC,1-2,Manchester United FC
 36,Sun May 10 2015,Manchester City FC,6-0,Queens Park Rangers FC
+36,Sun May 10 2015,Chelsea FC,1-1,Liverpool FC
 36,Mon May 11 2015,Arsenal FC,0-1,Swansea City FC
-37,Sat May 16 2015,Queens Park Rangers FC,2-1,Newcastle United FC
 37,Sat May 16 2015,Southampton FC,6-1,Aston Villa FC
 37,Sat May 16 2015,Sunderland AFC,0-0,Leicester City FC
 37,Sat May 16 2015,Tottenham Hotspur FC,2-0,Hull City AFC
+37,Sat May 16 2015,Burnley FC,0-0,Stoke City FC
+37,Sat May 16 2015,Queens Park Rangers FC,2-1,Newcastle United FC
 37,Sat May 16 2015,West Ham United FC,1-2,Everton FC
 37,Sat May 16 2015,Liverpool FC,1-3,Crystal Palace FC
-37,Sat May 16 2015,Burnley FC,0-0,Stoke City FC
 37,Sun May 17 2015,Swansea City FC,2-4,Manchester City FC
 37,Sun May 17 2015,Manchester United FC,1-1,Arsenal FC
 37,Mon May 18 2015,West Bromwich Albion FC,3-0,Chelsea FC

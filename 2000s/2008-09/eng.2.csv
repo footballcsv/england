@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 9 2008,Birmingham City FC,1-0,Sheffield United FC
 1,Sat Aug 9 2008,Sheffield Wednesday FC,4-1,Burnley FC
 1,Sat Aug 9 2008,Queens Park Rangers FC,2-1,Barnsley FC
@@ -16,13 +16,13 @@ Matchday,Date,Team 1,FT,Team 2
 2,Sat Aug 16 2008,Swansea City FC,3-1,Nottingham Forest FC
 2,Sat Aug 16 2008,Southampton FC,1-2,Birmingham City FC
 2,Sat Aug 16 2008,Sheffield United FC,3-0,Queens Park Rangers FC
-2,Sat Aug 16 2008,Reading FC,2-0,Plymouth Argyle FC
+2,Sat Aug 16 2008,Bristol City FC,1-1,Derby County FC
 2,Sat Aug 16 2008,Preston North End FC,2-0,Crystal Palace FC
 2,Sat Aug 16 2008,Norwich City FC,1-1,Blackpool FC
 2,Sat Aug 16 2008,Doncaster Rovers FC,1-1,Cardiff City FC
 2,Sat Aug 16 2008,Barnsley FC,1-2,Coventry City FC
 2,Sat Aug 16 2008,Burnley FC,0-3,Ipswich Town FC
-2,Sat Aug 16 2008,Bristol City FC,1-1,Derby County FC
+2,Sat Aug 16 2008,Reading FC,2-0,Plymouth Argyle FC
 3,Sat Aug 23 2008,Charlton Athletic FC,4-2,Reading FC
 3,Sat Aug 23 2008,Sheffield Wednesday FC,1-1,Preston North End FC
 3,Sat Aug 23 2008,Queens Park Rangers FC,2-0,Doncaster Rovers FC
@@ -52,23 +52,23 @@ Matchday,Date,Team 1,FT,Team 2
 5,Sat Sep 13 2008,Nottingham Forest FC,1-2,Burnley FC
 5,Sat Sep 13 2008,Ipswich Town FC,2-0,Reading FC
 5,Sat Sep 13 2008,Crystal Palace FC,2-0,Swansea City FC
-5,Sat Sep 13 2008,Coventry City FC,0-0,Preston North End FC
+5,Sat Sep 13 2008,Derby County FC,2-1,Sheffield United FC
 5,Sat Sep 13 2008,Charlton Athletic FC,1-3,Wolverhampton Wanderers FC
 5,Sat Sep 13 2008,Cardiff City FC,0-0,Bristol City FC
 5,Sat Sep 13 2008,Blackpool FC,1-0,Barnsley FC
 5,Sat Sep 13 2008,Birmingham City FC,1-0,Doncaster Rovers FC
-5,Sat Sep 13 2008,Derby County FC,2-1,Sheffield United FC
+5,Sat Sep 13 2008,Coventry City FC,0-0,Preston North End FC
 5,Sun Sep 14 2008,Queens Park Rangers FC,4-1,Southampton FC
 6,Tue Sep 16 2008,Wolverhampton Wanderers FC,2-1,Crystal Palace FC
 6,Tue Sep 16 2008,Watford FC,1-2,Plymouth Argyle FC
 6,Tue Sep 16 2008,Swansea City FC,1-1,Derby County FC
 6,Tue Sep 16 2008,Sheffield United FC,1-1,Coventry City FC
 6,Tue Sep 16 2008,Preston North End FC,2-1,Nottingham Forest FC
-6,Tue Sep 16 2008,Doncaster Rovers FC,0-1,Charlton Athletic FC
+6,Tue Sep 16 2008,Reading FC,6-0,Sheffield Wednesday FC
 6,Tue Sep 16 2008,Burnley FC,2-0,Blackpool FC
 6,Tue Sep 16 2008,Bristol City FC,1-2,Birmingham City FC
 6,Tue Sep 16 2008,Barnsley FC,0-1,Cardiff City FC
-6,Tue Sep 16 2008,Reading FC,6-0,Sheffield Wednesday FC
+6,Tue Sep 16 2008,Doncaster Rovers FC,0-1,Charlton Athletic FC
 6,Wed Sep 17 2008,Southampton FC,2-2,Ipswich Town FC
 6,Wed Sep 17 2008,Norwich City FC,0-1,Queens Park Rangers FC
 7,Sat Sep 20 2008,Watford FC,2-2,Reading FC
@@ -88,13 +88,13 @@ Matchday,Date,Team 1,FT,Team 2
 8,Sat Sep 27 2008,Reading FC,4-0,Swansea City FC
 8,Sat Sep 27 2008,Queens Park Rangers FC,0-2,Derby County FC
 8,Sat Sep 27 2008,Plymouth Argyle FC,1-0,Nottingham Forest FC
-8,Sat Sep 27 2008,Doncaster Rovers FC,0-2,Southampton FC
+8,Sat Sep 27 2008,Ipswich Town FC,1-1,Crystal Palace FC
 8,Sat Sep 27 2008,Charlton Athletic FC,1-2,Sheffield Wednesday FC
 8,Sat Sep 27 2008,Cardiff City FC,1-2,Birmingham City FC
 8,Sat Sep 27 2008,Burnley FC,3-1,Preston North End FC
 8,Sat Sep 27 2008,Blackpool FC,1-1,Coventry City FC
 8,Sat Sep 27 2008,Barnsley FC,0-0,Norwich City FC
-8,Sat Sep 27 2008,Ipswich Town FC,1-1,Crystal Palace FC
+8,Sat Sep 27 2008,Doncaster Rovers FC,0-2,Southampton FC
 9,Tue Sep 30 2008,Wolverhampton Wanderers FC,0-3,Reading FC
 9,Tue Sep 30 2008,Southampton FC,2-0,Norwich City FC
 9,Tue Sep 30 2008,Sheffield Wednesday FC,1-0,Nottingham Forest FC
@@ -124,19 +124,19 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sat Oct 18 2008,Queens Park Rangers FC,2-1,Nottingham Forest FC
 11,Sat Oct 18 2008,Preston North End FC,2-1,Reading FC
 11,Sat Oct 18 2008,Ipswich Town FC,2-2,Swansea City FC
-11,Sat Oct 18 2008,Doncaster Rovers FC,0-0,Blackpool FC
+11,Sat Oct 18 2008,Crystal Palace FC,3-0,Barnsley FC
 11,Sat Oct 18 2008,Derby County FC,2-1,Plymouth Argyle FC
 11,Sat Oct 18 2008,Cardiff City FC,2-0,Charlton Athletic FC
 11,Sat Oct 18 2008,Burnley FC,1-1,Birmingham City FC
 11,Sat Oct 18 2008,Bristol City FC,1-0,Norwich City FC
-11,Sat Oct 18 2008,Crystal Palace FC,3-0,Barnsley FC
+11,Sat Oct 18 2008,Doncaster Rovers FC,0-0,Blackpool FC
 11,Sun Oct 19 2008,Sheffield Wednesday FC,1-0,Sheffield United FC
-12,Tue Oct 21 2008,Watford FC,2-2,Cardiff City FC
+12,Tue Oct 21 2008,Reading FC,2-1,Doncaster Rovers FC
 12,Tue Oct 21 2008,Swansea City FC,0-0,Queens Park Rangers FC
 12,Tue Oct 21 2008,Sheffield United FC,0-0,Southampton FC
 12,Tue Oct 21 2008,Plymouth Argyle FC,1-0,Preston North End FC
 12,Tue Oct 21 2008,Nottingham Forest FC,1-1,Ipswich Town FC
-12,Tue Oct 21 2008,Reading FC,2-1,Doncaster Rovers FC
+12,Tue Oct 21 2008,Watford FC,2-2,Cardiff City FC
 12,Tue Oct 21 2008,Coventry City FC,1-3,Burnley FC
 12,Tue Oct 21 2008,Charlton Athletic FC,0-2,Bristol City FC
 12,Tue Oct 21 2008,Blackpool FC,3-2,Derby County FC
@@ -160,23 +160,23 @@ Matchday,Date,Team 1,FT,Team 2
 14,Tue Oct 28 2008,Sheffield Wednesday FC,0-1,Plymouth Argyle FC
 14,Tue Oct 28 2008,Preston North End FC,2-0,Watford FC
 14,Tue Oct 28 2008,Ipswich Town FC,1-1,Charlton Athletic FC
-14,Tue Oct 28 2008,Doncaster Rovers FC,0-1,Barnsley FC
+14,Tue Oct 28 2008,Crystal Palace FC,1-2,Nottingham Forest FC
 14,Tue Oct 28 2008,Derby County FC,3-1,Norwich City FC
 14,Tue Oct 28 2008,Cardiff City FC,2-0,Blackpool FC
 14,Tue Oct 28 2008,Burnley FC,1-0,Reading FC
 14,Tue Oct 28 2008,Bristol City FC,0-0,Sheffield United FC
 14,Tue Oct 28 2008,Queens Park Rangers FC,1-0,Birmingham City FC
-14,Tue Oct 28 2008,Crystal Palace FC,1-2,Nottingham Forest FC
+14,Tue Oct 28 2008,Doncaster Rovers FC,0-1,Barnsley FC
 15,Sat Nov 1 2008,Watford FC,3-4,Blackpool FC
 15,Sat Nov 1 2008,Sheffield United FC,2-0,Plymouth Argyle FC
 15,Sat Nov 1 2008,Preston North End FC,2-3,Southampton FC
 15,Sat Nov 1 2008,Ipswich Town FC,2-0,Queens Park Rangers FC
 15,Sat Nov 1 2008,Doncaster Rovers FC,0-0,Swansea City FC
-15,Sat Nov 1 2008,Crystal Palace FC,1-1,Sheffield Wednesday FC
+15,Sat Nov 1 2008,Cardiff City FC,1-2,Wolverhampton Wanderers FC
 15,Sat Nov 1 2008,Charlton Athletic FC,1-3,Barnsley FC
 15,Sat Nov 1 2008,Burnley FC,2-0,Norwich City FC
 15,Sat Nov 1 2008,Bristol City FC,1-4,Reading FC
-15,Sat Nov 1 2008,Cardiff City FC,1-2,Wolverhampton Wanderers FC
+15,Sat Nov 1 2008,Crystal Palace FC,1-1,Sheffield Wednesday FC
 15,Sun Nov 2 2008,Derby County FC,1-1,Nottingham Forest FC
 15,Mon Nov 3 2008,Birmingham City FC,0-1,Coventry City FC
 16,Sat Nov 8 2008,Wolverhampton Wanderers FC,2-0,Burnley FC
@@ -196,19 +196,19 @@ Matchday,Date,Team 1,FT,Team 2
 17,Sat Nov 15 2008,Queens Park Rangers FC,1-2,Burnley FC
 17,Sat Nov 15 2008,Norwich City FC,2-3,Swansea City FC
 17,Sat Nov 15 2008,Derby County FC,3-0,Sheffield Wednesday FC
-17,Sat Nov 15 2008,Coventry City FC,0-1,Plymouth Argyle FC
+17,Sat Nov 15 2008,Doncaster Rovers FC,1-0,Ipswich Town FC
 17,Sat Nov 15 2008,Cardiff City FC,2-1,Crystal Palace FC
 17,Sat Nov 15 2008,Bristol City FC,2-2,Nottingham Forest FC
 17,Sat Nov 15 2008,Birmingham City FC,3-2,Charlton Athletic FC
 17,Sat Nov 15 2008,Barnsley FC,2-1,Watford FC
-17,Sat Nov 15 2008,Doncaster Rovers FC,1-0,Ipswich Town FC
+17,Sat Nov 15 2008,Coventry City FC,0-1,Plymouth Argyle FC
 17,Sun Nov 16 2008,Blackpool FC,1-3,Preston North End FC
 18,Fri Nov 21 2008,Swansea City FC,2-3,Birmingham City FC
-18,Sat Nov 22 2008,Plymouth Argyle FC,2-1,Cardiff City FC
+18,Sat Nov 22 2008,Nottingham Forest FC,1-2,Norwich City FC
 18,Sat Nov 22 2008,Wolverhampton Wanderers FC,2-0,Blackpool FC
 18,Sat Nov 22 2008,Watford FC,3-0,Queens Park Rangers FC
 18,Sat Nov 22 2008,Sheffield Wednesday FC,0-1,Coventry City FC
-18,Sat Nov 22 2008,Nottingham Forest FC,1-2,Norwich City FC
+18,Sat Nov 22 2008,Plymouth Argyle FC,2-1,Cardiff City FC
 18,Sat Nov 22 2008,Preston North End FC,2-1,Barnsley FC
 18,Sat Nov 22 2008,Ipswich Town FC,2-0,Derby County FC
 18,Sat Nov 22 2008,Crystal Palace FC,4-2,Bristol City FC
@@ -225,25 +225,25 @@ Matchday,Date,Team 1,FT,Team 2
 19,Tue Nov 25 2008,Cardiff City FC,2-2,Reading FC
 19,Tue Nov 25 2008,Bristol City FC,1-1,Watford FC
 19,Tue Nov 25 2008,Blackpool FC,0-2,Sheffield Wednesday FC
-19,Tue Nov 25 2008,Birmingham City FC,2-1,Ipswich Town FC
 19,Tue Nov 25 2008,Queens Park Rangers FC,2-1,Charlton Athletic FC
+19,Tue Nov 25 2008,Birmingham City FC,2-1,Ipswich Town FC
 20,Sat Nov 29 2008,Wolverhampton Wanderers FC,1-1,Birmingham City FC
 20,Sat Nov 29 2008,Watford FC,1-1,Doncaster Rovers FC
 20,Sat Nov 29 2008,Sheffield Wednesday FC,3-2,Norwich City FC
 20,Sat Nov 29 2008,Plymouth Argyle FC,1-2,Blackpool FC
 20,Sat Nov 29 2008,Nottingham Forest FC,1-0,Barnsley FC
-20,Sat Nov 29 2008,Ipswich Town FC,1-1,Sheffield United FC
+20,Sat Nov 29 2008,Preston North End FC,2-0,Bristol City FC
 20,Sat Nov 29 2008,Crystal Palace FC,0-0,Queens Park Rangers FC
 20,Sat Nov 29 2008,Charlton Athletic FC,0-0,Southampton FC
 20,Sat Nov 29 2008,Burnley FC,3-0,Derby County FC
-20,Sat Nov 29 2008,Preston North End FC,2-0,Bristol City FC
+20,Sat Nov 29 2008,Ipswich Town FC,1-1,Sheffield United FC
 20,Sun Nov 30 2008,Swansea City FC,2-2,Cardiff City FC
 20,Mon Dec 1 2008,Reading FC,3-1,Coventry City FC
-21,Sat Dec 6 2008,Southampton FC,1-1,Sheffield Wednesday FC
+21,Sat Dec 6 2008,Coventry City FC,2-2,Nottingham Forest FC
 21,Sat Dec 6 2008,Sheffield United FC,2-3,Burnley FC
 21,Sat Dec 6 2008,Doncaster Rovers FC,1-0,Plymouth Argyle FC
 21,Sat Dec 6 2008,Derby County FC,1-2,Crystal Palace FC
-21,Sat Dec 6 2008,Coventry City FC,2-2,Nottingham Forest FC
+21,Sat Dec 6 2008,Southampton FC,1-1,Sheffield Wednesday FC
 21,Sat Dec 6 2008,Queens Park Rangers FC,1-0,Wolverhampton Wanderers FC
 21,Sat Dec 6 2008,Bristol City FC,0-0,Swansea City FC
 21,Sat Dec 6 2008,Blackpool FC,2-0,Charlton Athletic FC
@@ -256,11 +256,11 @@ Matchday,Date,Team 1,FT,Team 2
 22,Tue Dec 9 2008,Swansea City FC,2-2,Barnsley FC
 22,Tue Dec 9 2008,Sheffield Wednesday FC,1-0,Queens Park Rangers FC
 22,Tue Dec 9 2008,Wolverhampton Wanderers FC,3-0,Derby County FC
-22,Tue Dec 9 2008,Plymouth Argyle FC,0-1,Birmingham City FC
+22,Tue Dec 9 2008,Reading FC,1-0,Blackpool FC
 22,Tue Dec 9 2008,Nottingham Forest FC,0-1,Sheffield United FC
 22,Tue Dec 9 2008,Charlton Athletic FC,1-2,Coventry City FC
 22,Tue Dec 9 2008,Burnley FC,2-2,Cardiff City FC
-22,Tue Dec 9 2008,Reading FC,1-0,Blackpool FC
+22,Tue Dec 9 2008,Plymouth Argyle FC,0-1,Birmingham City FC
 22,Wed Dec 10 2008,Watford FC,2-1,Norwich City FC
 22,Wed Dec 10 2008,Ipswich Town FC,3-1,Bristol City FC
 23,Sat Dec 13 2008,Wolverhampton Wanderers FC,2-0,Barnsley FC
@@ -268,25 +268,25 @@ Matchday,Date,Team 1,FT,Team 2
 23,Sat Dec 13 2008,Swansea City FC,1-1,Sheffield United FC
 23,Sat Dec 13 2008,Sheffield Wednesday FC,0-0,Bristol City FC
 23,Sat Dec 13 2008,Reading FC,2-0,Norwich City FC
-23,Sat Dec 13 2008,Preston North End FC,1-0,Birmingham City FC
+23,Sat Dec 13 2008,Plymouth Argyle FC,1-1,Queens Park Rangers FC
 23,Sat Dec 13 2008,Nottingham Forest FC,0-0,Blackpool FC
 23,Sat Dec 13 2008,Ipswich Town FC,1-2,Cardiff City FC
 23,Sat Dec 13 2008,Crystal Palace FC,2-1,Doncaster Rovers FC
 23,Sat Dec 13 2008,Burnley FC,3-2,Southampton FC
-23,Sat Dec 13 2008,Plymouth Argyle FC,1-1,Queens Park Rangers FC
+23,Sat Dec 13 2008,Preston North End FC,1-0,Birmingham City FC
 23,Mon Dec 15 2008,Charlton Athletic FC,2-2,Derby County FC
-24,Sat Dec 20 2008,Derby County FC,1-0,Watford FC
+24,Sat Dec 20 2008,Birmingham City FC,1-3,Reading FC
 24,Sat Dec 20 2008,Southampton FC,0-2,Nottingham Forest FC
 24,Sat Dec 20 2008,Queens Park Rangers FC,3-2,Preston North End FC
 24,Sat Dec 20 2008,Norwich City FC,1-0,Charlton Athletic FC
 24,Sat Dec 20 2008,Doncaster Rovers FC,0-1,Wolverhampton Wanderers FC
-24,Sat Dec 20 2008,Sheffield United FC,2-2,Crystal Palace FC
+24,Sat Dec 20 2008,Derby County FC,1-0,Watford FC
 24,Sat Dec 20 2008,Coventry City FC,2-2,Ipswich Town FC
 24,Sat Dec 20 2008,Cardiff City FC,2-0,Sheffield Wednesday FC
 24,Sat Dec 20 2008,Bristol City FC,1-2,Burnley FC
 24,Sat Dec 20 2008,Blackpool FC,1-1,Swansea City FC
 24,Sat Dec 20 2008,Barnsley FC,2-0,Plymouth Argyle FC
-24,Sat Dec 20 2008,Birmingham City FC,1-3,Reading FC
+24,Sat Dec 20 2008,Sheffield United FC,2-2,Crystal Palace FC
 25,Fri Dec 26 2008,Watford FC,2-4,Bristol City FC
 25,Fri Dec 26 2008,Crystal Palace FC,3-1,Norwich City FC
 25,Fri Dec 26 2008,Charlton Athletic FC,2-2,Queens Park Rangers FC
@@ -302,27 +302,23 @@ Matchday,Date,Team 1,FT,Team 2
 26,Sun Dec 28 2008,Southampton FC,1-1,Reading FC
 26,Sun Dec 28 2008,Sheffield United FC,3-1,Charlton Athletic FC
 26,Sun Dec 28 2008,Queens Park Rangers FC,0-0,Watford FC
-26,Sun Dec 28 2008,Birmingham City FC,0-0,Swansea City FC
+26,Sun Dec 28 2008,Norwich City FC,2-3,Nottingham Forest FC
 26,Sun Dec 28 2008,Doncaster Rovers FC,2-1,Burnley FC
 26,Sun Dec 28 2008,Derby County FC,0-1,Ipswich Town FC
 26,Sun Dec 28 2008,Coventry City FC,2-0,Sheffield Wednesday FC
 26,Sun Dec 28 2008,Cardiff City FC,1-0,Plymouth Argyle FC
 26,Sun Dec 28 2008,Bristol City FC,1-0,Crystal Palace FC
 26,Sun Dec 28 2008,Barnsley FC,1-1,Preston North End FC
-26,Sun Dec 28 2008,Norwich City FC,2-3,Nottingham Forest FC
+26,Sun Dec 28 2008,Birmingham City FC,0-0,Swansea City FC
 26,Mon Dec 29 2008,Blackpool FC,2-2,Wolverhampton Wanderers FC
 27,Fri Jan 9 2009,Reading FC,4-0,Watford FC
-27,Sat Jan 10 2009,Ipswich Town FC,1-1,Sheffield Wednesday FC
-27,Sat Jan 10 2009,Sheffield United FC,1-0,Norwich City FC
 27,Sat Jan 10 2009,Queens Park Rangers FC,1-1,Coventry City FC
+27,Sat Jan 10 2009,Sheffield United FC,1-0,Norwich City FC
+27,Sat Jan 10 2009,Wolverhampton Wanderers FC,1-3,Preston North End FC
 27,Sat Jan 10 2009,Burnley FC,0-2,Swansea City FC
 27,Sat Jan 10 2009,Charlton Athletic FC,0-2,Nottingham Forest FC
 27,Sat Jan 10 2009,Barnsley FC,0-1,Southampton FC
-27,Sat Jan 10 2009,Wolverhampton Wanderers FC,1-3,Preston North End FC
-28,Sat Jan 17 2009,Derby County FC,0-2,Queens Park Rangers FC
-28,Sat Jan 17 2009,Bristol City FC,2-2,Wolverhampton Wanderers FC
-28,Sat Jan 17 2009,Birmingham City FC,1-1,Cardiff City FC
-28,Sat Jan 17 2009,Coventry City FC,2-1,Blackpool FC
+27,Sat Jan 10 2009,Ipswich Town FC,1-1,Sheffield Wednesday FC
 28,Sat Jan 17 2009,Preston North End FC,2-1,Burnley FC
 28,Sat Jan 17 2009,Watford FC,0-2,Sheffield United FC
 28,Sat Jan 17 2009,Swansea City FC,2-0,Reading FC
@@ -330,179 +326,180 @@ Matchday,Date,Team 1,FT,Team 2
 28,Sat Jan 17 2009,Sheffield Wednesday FC,4-1,Charlton Athletic FC
 28,Sat Jan 17 2009,Nottingham Forest FC,2-0,Plymouth Argyle FC
 28,Sat Jan 17 2009,Norwich City FC,4-0,Barnsley FC
+28,Sat Jan 17 2009,Derby County FC,0-2,Queens Park Rangers FC
 28,Sat Jan 17 2009,Crystal Palace FC,1-4,Ipswich Town FC
+28,Sat Jan 17 2009,Coventry City FC,2-1,Blackpool FC
+28,Sat Jan 17 2009,Birmingham City FC,1-1,Cardiff City FC
+28,Sat Jan 17 2009,Bristol City FC,2-2,Wolverhampton Wanderers FC
 27,Sat Jan 24 2009,Blackpool FC,2-0,Birmingham City FC
-29,Tue Jan 27 2009,Birmingham City FC,1-0,Derby County FC
-29,Tue Jan 27 2009,Barnsley FC,1-2,Ipswich Town FC
-29,Tue Jan 27 2009,Norwich City FC,2-2,Southampton FC
 29,Tue Jan 27 2009,Nottingham Forest FC,2-1,Sheffield Wednesday FC
 29,Tue Jan 27 2009,Swansea City FC,4-1,Preston North End FC
 29,Tue Jan 27 2009,Sheffield United FC,0-1,Doncaster Rovers FC
-29,Tue Jan 27 2009,Blackpool FC,0-3,Queens Park Rangers FC
+29,Tue Jan 27 2009,Plymouth Argyle FC,0-2,Bristol City FC
 29,Tue Jan 27 2009,Watford FC,3-0,Burnley FC
 29,Tue Jan 27 2009,Reading FC,1-0,Wolverhampton Wanderers FC
 29,Tue Jan 27 2009,Charlton Athletic FC,1-0,Crystal Palace FC
-29,Tue Jan 27 2009,Plymouth Argyle FC,0-2,Bristol City FC
+29,Tue Jan 27 2009,Blackpool FC,0-3,Queens Park Rangers FC
+29,Tue Jan 27 2009,Birmingham City FC,1-0,Derby County FC
+29,Tue Jan 27 2009,Barnsley FC,1-2,Ipswich Town FC
+29,Tue Jan 27 2009,Norwich City FC,2-2,Southampton FC
 29,Wed Jan 28 2009,Coventry City FC,0-2,Cardiff City FC
 30,Fri Jan 30 2009,Doncaster Rovers FC,1-1,Norwich City FC
-30,Sat Jan 31 2009,Sheffield Wednesday FC,1-1,Birmingham City FC
-30,Sat Jan 31 2009,Burnley FC,2-1,Charlton Athletic FC
-30,Sat Jan 31 2009,Bristol City FC,2-0,Barnsley FC
 30,Sat Jan 31 2009,Ipswich Town FC,0-0,Plymouth Argyle FC
-30,Sat Jan 31 2009,Southampton FC,2-2,Swansea City FC
+30,Sat Jan 31 2009,Sheffield Wednesday FC,1-1,Birmingham City FC
 30,Sat Jan 31 2009,Queens Park Rangers FC,0-0,Reading FC
 30,Sat Jan 31 2009,Preston North End FC,0-0,Sheffield United FC
-30,Sat Jan 31 2009,Cardiff City FC,2-0,Nottingham Forest FC
+30,Sat Jan 31 2009,Wolverhampton Wanderers FC,3-1,Watford FC
 30,Sat Jan 31 2009,Derby County FC,2-1,Coventry City FC
 30,Sat Jan 31 2009,Crystal Palace FC,0-1,Blackpool FC
-30,Sat Jan 31 2009,Wolverhampton Wanderers FC,3-1,Watford FC
-31,Tue Feb 3 2009,Bristol City FC,2-1,Charlton Athletic FC
-31,Tue Feb 3 2009,Preston North End FC,1-1,Plymouth Argyle FC
-31,Tue Feb 3 2009,Southampton FC,1-2,Sheffield United FC
+30,Sat Jan 31 2009,Cardiff City FC,2-0,Nottingham Forest FC
+30,Sat Jan 31 2009,Burnley FC,2-1,Charlton Athletic FC
+30,Sat Jan 31 2009,Bristol City FC,2-0,Barnsley FC
+30,Sat Jan 31 2009,Southampton FC,2-2,Swansea City FC
 31,Tue Feb 3 2009,Wolverhampton Wanderers FC,3-3,Norwich City FC
-32,Sat Feb 7 2009,Nottingham Forest FC,2-2,Queens Park Rangers FC
-32,Sat Feb 7 2009,Norwich City FC,1-2,Bristol City FC
-32,Sat Feb 7 2009,Blackpool FC,2-3,Doncaster Rovers FC
-32,Sat Feb 7 2009,Coventry City FC,2-1,Wolverhampton Wanderers FC
-32,Sat Feb 7 2009,Birmingham City FC,1-1,Burnley FC
-32,Sat Feb 7 2009,Plymouth Argyle FC,0-3,Derby County FC
-32,Sat Feb 7 2009,Sheffield United FC,1-2,Sheffield Wednesday FC
-32,Sat Feb 7 2009,Swansea City FC,3-0,Ipswich Town FC
+31,Tue Feb 3 2009,Southampton FC,1-2,Sheffield United FC
+31,Tue Feb 3 2009,Preston North End FC,1-1,Plymouth Argyle FC
+31,Tue Feb 3 2009,Bristol City FC,2-1,Charlton Athletic FC
 32,Sat Feb 7 2009,Reading FC,0-0,Preston North End FC
-33,Sat Feb 14 2009,Burnley FC,1-0,Wolverhampton Wanderers FC
+32,Sat Feb 7 2009,Swansea City FC,3-0,Ipswich Town FC
+32,Sat Feb 7 2009,Sheffield United FC,1-2,Sheffield Wednesday FC
+32,Sat Feb 7 2009,Plymouth Argyle FC,0-3,Derby County FC
+32,Sat Feb 7 2009,Nottingham Forest FC,2-2,Queens Park Rangers FC
+32,Sat Feb 7 2009,Birmingham City FC,1-1,Burnley FC
+32,Sat Feb 7 2009,Coventry City FC,2-1,Wolverhampton Wanderers FC
+32,Sat Feb 7 2009,Blackpool FC,2-3,Doncaster Rovers FC
+32,Sat Feb 7 2009,Norwich City FC,1-2,Bristol City FC
 33,Sat Feb 14 2009,Preston North End FC,1-0,Norwich City FC
-33,Sat Feb 14 2009,Doncaster Rovers FC,1-0,Sheffield Wednesday FC
-33,Sat Feb 14 2009,Bristol City FC,2-0,Southampton FC
-33,Sat Feb 14 2009,Birmingham City FC,2-0,Nottingham Forest FC
 33,Sat Feb 14 2009,Ipswich Town FC,1-1,Blackpool FC
+33,Sat Feb 14 2009,Doncaster Rovers FC,1-0,Sheffield Wednesday FC
 33,Sat Feb 14 2009,Charlton Athletic FC,2-0,Plymouth Argyle FC
-33,Tue Feb 17 2009,Watford FC,2-0,Swansea City FC
-31,Tue Feb 17 2009,Sheffield Wednesday FC,0-1,Barnsley FC
+33,Sat Feb 14 2009,Burnley FC,1-0,Wolverhampton Wanderers FC
+33,Sat Feb 14 2009,Birmingham City FC,2-0,Nottingham Forest FC
+33,Sat Feb 14 2009,Bristol City FC,2-0,Southampton FC
 27,Tue Feb 17 2009,Doncaster Rovers FC,1-0,Bristol City FC
 27,Tue Feb 17 2009,Plymouth Argyle FC,1-3,Crystal Palace FC
+31,Tue Feb 17 2009,Sheffield Wednesday FC,0-1,Barnsley FC
 31,Tue Feb 17 2009,Burnley FC,1-1,Coventry City FC
+33,Tue Feb 17 2009,Watford FC,2-0,Swansea City FC
 31,Wed Feb 18 2009,Ipswich Town FC,2-1,Nottingham Forest FC
 31,Wed Feb 18 2009,Derby County FC,4-1,Blackpool FC
-34,Sat Feb 21 2009,Plymouth Argyle FC,2-2,Sheffield United FC
 34,Sat Feb 21 2009,Swansea City FC,3-1,Doncaster Rovers FC
-34,Sat Feb 21 2009,Norwich City FC,1-1,Burnley FC
-34,Sat Feb 21 2009,Blackpool FC,0-2,Watford FC
-34,Sat Feb 21 2009,Queens Park Rangers FC,1-3,Ipswich Town FC
-34,Sat Feb 21 2009,Coventry City FC,1-0,Birmingham City FC
-34,Sat Feb 21 2009,Reading FC,0-2,Bristol City FC
-34,Sat Feb 21 2009,Barnsley FC,0-0,Charlton Athletic FC
-34,Sat Feb 21 2009,Sheffield Wednesday FC,2-0,Crystal Palace FC
-34,Sat Feb 21 2009,Southampton FC,3-1,Preston North End FC
 34,Sat Feb 21 2009,Nottingham Forest FC,1-3,Derby County FC
+34,Sat Feb 21 2009,Southampton FC,3-1,Preston North End FC
+34,Sat Feb 21 2009,Sheffield Wednesday FC,2-0,Crystal Palace FC
+34,Sat Feb 21 2009,Queens Park Rangers FC,1-3,Ipswich Town FC
+34,Sat Feb 21 2009,Plymouth Argyle FC,2-2,Sheffield United FC
+34,Sat Feb 21 2009,Norwich City FC,1-1,Burnley FC
+34,Sat Feb 21 2009,Coventry City FC,1-0,Birmingham City FC
+34,Sat Feb 21 2009,Blackpool FC,0-2,Watford FC
+34,Sat Feb 21 2009,Barnsley FC,0-0,Charlton Athletic FC
+34,Sat Feb 21 2009,Reading FC,0-2,Bristol City FC
 34,Sun Feb 22 2009,Wolverhampton Wanderers FC,2-2,Cardiff City FC
 31,Tue Feb 24 2009,Crystal Palace FC,0-0,Birmingham City FC
 33,Wed Feb 25 2009,Cardiff City FC,0-0,Queens Park Rangers FC
 35,Fri Feb 27 2009,Doncaster Rovers FC,2-1,Derby County FC
-35,Sat Feb 28 2009,Preston North End FC,3-2,Ipswich Town FC
+35,Sat Feb 28 2009,Swansea City FC,1-1,Charlton Athletic FC
+35,Sat Feb 28 2009,Watford FC,2-0,Crystal Palace FC
 35,Sat Feb 28 2009,Wolverhampton Wanderers FC,0-1,Plymouth Argyle FC
 35,Sat Feb 28 2009,Southampton FC,1-0,Cardiff City FC
-35,Sat Feb 28 2009,Swansea City FC,1-1,Charlton Athletic FC
+35,Sat Feb 28 2009,Reading FC,0-1,Nottingham Forest FC
+35,Sat Feb 28 2009,Preston North End FC,3-2,Ipswich Town FC
 35,Sat Feb 28 2009,Norwich City FC,1-2,Coventry City FC
 35,Sat Feb 28 2009,Burnley FC,2-4,Sheffield Wednesday FC
 35,Sat Feb 28 2009,Barnsley FC,2-1,Queens Park Rangers FC
-35,Sat Feb 28 2009,Watford FC,2-0,Crystal Palace FC
-35,Sat Feb 28 2009,Reading FC,0-1,Nottingham Forest FC
 35,Sat Feb 28 2009,Bristol City FC,0-0,Blackpool FC
 35,Sun Mar 1 2009,Sheffield United FC,2-1,Birmingham City FC
-36,Tue Mar 3 2009,Charlton Athletic FC,1-2,Doncaster Rovers FC
+36,Tue Mar 3 2009,Crystal Palace FC,0-1,Wolverhampton Wanderers FC
+36,Tue Mar 3 2009,Plymouth Argyle FC,2-1,Watford FC
 36,Tue Mar 3 2009,Nottingham Forest FC,2-1,Preston North End FC
 36,Tue Mar 3 2009,Ipswich Town FC,0-3,Southampton FC
 36,Tue Mar 3 2009,Sheffield Wednesday FC,1-2,Reading FC
-36,Tue Mar 3 2009,Plymouth Argyle FC,2-1,Watford FC
+36,Tue Mar 3 2009,Charlton Athletic FC,1-2,Doncaster Rovers FC
 36,Tue Mar 3 2009,Cardiff City FC,3-1,Barnsley FC
 36,Tue Mar 3 2009,Blackpool FC,0-1,Burnley FC
 36,Tue Mar 3 2009,Queens Park Rangers FC,0-1,Norwich City FC
 36,Tue Mar 3 2009,Derby County FC,2-2,Swansea City FC
-36,Tue Mar 3 2009,Crystal Palace FC,0-1,Wolverhampton Wanderers FC
-36,Wed Mar 4 2009,Birmingham City FC,1-0,Bristol City FC
 36,Wed Mar 4 2009,Coventry City FC,1-2,Sheffield United FC
-37,Sat Mar 7 2009,Derby County FC,2-1,Bristol City FC
-37,Sat Mar 7 2009,Charlton Athletic FC,2-3,Watford FC
-37,Sat Mar 7 2009,Crystal Palace FC,2-1,Preston North End FC
-37,Sat Mar 7 2009,Nottingham Forest FC,1-1,Swansea City FC
-37,Sat Mar 7 2009,Cardiff City FC,3-0,Doncaster Rovers FC
-37,Sat Mar 7 2009,Queens Park Rangers FC,0-0,Sheffield United FC
-37,Sat Mar 7 2009,Sheffield Wednesday FC,0-1,Wolverhampton Wanderers FC
+36,Wed Mar 4 2009,Birmingham City FC,1-0,Bristol City FC
 37,Sat Mar 7 2009,Plymouth Argyle FC,2-2,Reading FC
-37,Sat Mar 7 2009,Birmingham City FC,1-0,Southampton FC
+37,Sat Mar 7 2009,Sheffield Wednesday FC,0-1,Wolverhampton Wanderers FC
+37,Sat Mar 7 2009,Queens Park Rangers FC,0-0,Sheffield United FC
+37,Sat Mar 7 2009,Derby County FC,2-1,Bristol City FC
+37,Sat Mar 7 2009,Nottingham Forest FC,1-1,Swansea City FC
+37,Sat Mar 7 2009,Crystal Palace FC,2-1,Preston North End FC
+37,Sat Mar 7 2009,Charlton Athletic FC,2-3,Watford FC
+37,Sat Mar 7 2009,Cardiff City FC,3-0,Doncaster Rovers FC
 37,Sat Mar 7 2009,Blackpool FC,2-0,Norwich City FC
+37,Sat Mar 7 2009,Birmingham City FC,1-0,Southampton FC
+38,Tue Mar 10 2009,Wolverhampton Wanderers FC,0-0,Ipswich Town FC
+38,Tue Mar 10 2009,Watford FC,2-1,Nottingham Forest FC
 38,Tue Mar 10 2009,Swansea City FC,1-0,Plymouth Argyle FC
 38,Tue Mar 10 2009,Southampton FC,1-1,Derby County FC
-38,Tue Mar 10 2009,Bristol City FC,2-0,Coventry City FC
-38,Tue Mar 10 2009,Doncaster Rovers FC,2-0,Queens Park Rangers FC
-38,Tue Mar 10 2009,Norwich City FC,2-0,Cardiff City FC
-38,Tue Mar 10 2009,Reading FC,2-2,Charlton Athletic FC
 38,Tue Mar 10 2009,Sheffield United FC,2-2,Blackpool FC
-38,Tue Mar 10 2009,Preston North End FC,1-1,Sheffield Wednesday FC
-38,Tue Mar 10 2009,Watford FC,2-1,Nottingham Forest FC
-38,Tue Mar 10 2009,Wolverhampton Wanderers FC,0-0,Ipswich Town FC
+38,Tue Mar 10 2009,Reading FC,2-2,Charlton Athletic FC
+38,Tue Mar 10 2009,Norwich City FC,2-0,Cardiff City FC
+38,Tue Mar 10 2009,Doncaster Rovers FC,2-0,Queens Park Rangers FC
+38,Tue Mar 10 2009,Bristol City FC,2-0,Coventry City FC
 38,Tue Mar 10 2009,Barnsley FC,1-1,Birmingham City FC
+38,Tue Mar 10 2009,Preston North End FC,1-1,Sheffield Wednesday FC
 38,Wed Mar 11 2009,Burnley FC,4-2,Crystal Palace FC
-39,Sat Mar 14 2009,Doncaster Rovers FC,0-2,Birmingham City FC
-39,Sat Mar 14 2009,Norwich City FC,1-0,Plymouth Argyle FC
-39,Sat Mar 14 2009,Reading FC,0-1,Ipswich Town FC
-39,Sat Mar 14 2009,Barnsley FC,0-1,Blackpool FC
 39,Sat Mar 14 2009,Sheffield United FC,4-2,Derby County FC
-39,Sat Mar 14 2009,Burnley FC,5-0,Nottingham Forest FC
 39,Sat Mar 14 2009,Watford FC,2-2,Sheffield Wednesday FC
 39,Sat Mar 14 2009,Swansea City FC,1-3,Crystal Palace FC
 39,Sat Mar 14 2009,Southampton FC,0-0,Queens Park Rangers FC
-39,Sat Mar 14 2009,Preston North End FC,2-1,Coventry City FC
 39,Sat Mar 14 2009,Wolverhampton Wanderers FC,2-1,Charlton Athletic FC
+39,Sat Mar 14 2009,Reading FC,0-1,Ipswich Town FC
+39,Sat Mar 14 2009,Preston North End FC,2-1,Coventry City FC
+39,Sat Mar 14 2009,Norwich City FC,1-0,Plymouth Argyle FC
+39,Sat Mar 14 2009,Burnley FC,5-0,Nottingham Forest FC
+39,Sat Mar 14 2009,Doncaster Rovers FC,0-2,Birmingham City FC
+39,Sat Mar 14 2009,Barnsley FC,0-1,Blackpool FC
 39,Sun Mar 15 2009,Bristol City FC,1-1,Cardiff City FC
+31,Tue Mar 17 2009,Queens Park Rangers FC,1-0,Swansea City FC
+31,Tue Mar 17 2009,Doncaster Rovers FC,0-1,Reading FC
 32,Tue Mar 17 2009,Barnsley FC,3-1,Crystal Palace FC
 37,Tue Mar 17 2009,Ipswich Town FC,1-1,Burnley FC
-31,Tue Mar 17 2009,Doncaster Rovers FC,0-1,Reading FC
-31,Tue Mar 17 2009,Queens Park Rangers FC,1-0,Swansea City FC
 31,Wed Mar 18 2009,Cardiff City FC,2-1,Watford FC
+40,Sat Mar 21 2009,Plymouth Argyle FC,1-2,Burnley FC
+40,Sat Mar 21 2009,Queens Park Rangers FC,2-1,Bristol City FC
+40,Sat Mar 21 2009,Sheffield Wednesday FC,0-0,Swansea City FC
+40,Sat Mar 21 2009,Nottingham Forest FC,0-1,Wolverhampton Wanderers FC
 40,Sat Mar 21 2009,Ipswich Town FC,0-0,Watford FC
+40,Sat Mar 21 2009,Derby County FC,0-0,Barnsley FC
 40,Sat Mar 21 2009,Coventry City FC,1-0,Doncaster Rovers FC
 40,Sat Mar 21 2009,Charlton Athletic FC,0-0,Preston North End FC
 40,Sat Mar 21 2009,Blackpool FC,1-1,Southampton FC
 40,Sat Mar 21 2009,Birmingham City FC,1-1,Norwich City FC
 40,Sat Mar 21 2009,Crystal Palace FC,0-0,Reading FC
-40,Sat Mar 21 2009,Nottingham Forest FC,0-1,Wolverhampton Wanderers FC
-40,Sat Mar 21 2009,Plymouth Argyle FC,1-2,Burnley FC
-40,Sat Mar 21 2009,Queens Park Rangers FC,2-1,Bristol City FC
-40,Sat Mar 21 2009,Sheffield Wednesday FC,0-0,Swansea City FC
-40,Sat Mar 21 2009,Derby County FC,0-0,Barnsley FC
 40,Sun Mar 22 2009,Cardiff City FC,0-3,Sheffield United FC
-41,Sat Apr 4 2009,Bristol City FC,1-1,Preston North End FC
-41,Sat Apr 4 2009,Blackpool FC,0-1,Plymouth Argyle FC
-41,Sat Apr 4 2009,Coventry City FC,0-0,Reading FC
-41,Sat Apr 4 2009,Barnsley FC,1-1,Nottingham Forest FC
-41,Sat Apr 4 2009,Derby County FC,1-1,Burnley FC
-41,Sat Apr 4 2009,Doncaster Rovers FC,1-2,Watford FC
-41,Sat Apr 4 2009,Norwich City FC,0-1,Sheffield Wednesday FC
 41,Sat Apr 4 2009,Southampton FC,2-3,Charlton Athletic FC
 41,Sat Apr 4 2009,Sheffield United FC,2-0,Ipswich Town FC
 41,Sat Apr 4 2009,Queens Park Rangers FC,0-0,Crystal Palace FC
+41,Sat Apr 4 2009,Norwich City FC,0-1,Sheffield Wednesday FC
+41,Sat Apr 4 2009,Doncaster Rovers FC,1-2,Watford FC
+41,Sat Apr 4 2009,Derby County FC,1-1,Burnley FC
+41,Sat Apr 4 2009,Bristol City FC,1-1,Preston North End FC
+41,Sat Apr 4 2009,Blackpool FC,0-1,Plymouth Argyle FC
+41,Sat Apr 4 2009,Barnsley FC,1-1,Nottingham Forest FC
+41,Sat Apr 4 2009,Coventry City FC,0-0,Reading FC
 41,Sun Apr 5 2009,Cardiff City FC,2-2,Swansea City FC
 41,Mon Apr 6 2009,Birmingham City FC,2-0,Wolverhampton Wanderers FC
-33,Tue Apr 7 2009,Sheffield United FC,2-1,Barnsley FC
-33,Tue Apr 7 2009,Crystal Palace FC,1-1,Coventry City FC
 32,Tue Apr 7 2009,Watford FC,2-2,Southampton FC
+33,Tue Apr 7 2009,Crystal Palace FC,1-1,Coventry City FC
+33,Tue Apr 7 2009,Sheffield United FC,2-1,Barnsley FC
 27,Wed Apr 8 2009,Cardiff City FC,4-1,Derby County FC
 42,Fri Apr 10 2009,Wolverhampton Wanderers FC,3-0,Southampton FC
 42,Fri Apr 10 2009,Reading FC,0-1,Sheffield United FC
-42,Sat Apr 11 2009,Nottingham Forest FC,3-2,Bristol City FC
-42,Sat Apr 11 2009,Charlton Athletic FC,0-0,Birmingham City FC
-42,Sat Apr 11 2009,Burnley FC,1-0,Queens Park Rangers FC
 42,Sat Apr 11 2009,Sheffield Wednesday FC,0-1,Derby County FC
 42,Sat Apr 11 2009,Watford FC,1-1,Barnsley FC
 42,Sat Apr 11 2009,Swansea City FC,2-1,Norwich City FC
 42,Sat Apr 11 2009,Preston North End FC,0-1,Blackpool FC
+42,Sat Apr 11 2009,Plymouth Argyle FC,4-0,Coventry City FC
+42,Sat Apr 11 2009,Nottingham Forest FC,3-2,Bristol City FC
 42,Sat Apr 11 2009,Ipswich Town FC,1-3,Doncaster Rovers FC
 42,Sat Apr 11 2009,Crystal Palace FC,0-2,Cardiff City FC
-42,Sat Apr 11 2009,Plymouth Argyle FC,4-0,Coventry City FC
-43,Mon Apr 13 2009,Cardiff City FC,3-1,Burnley FC
-43,Mon Apr 13 2009,Doncaster Rovers FC,0-2,Preston North End FC
-43,Mon Apr 13 2009,Birmingham City FC,1-1,Plymouth Argyle FC
+42,Sat Apr 11 2009,Charlton Athletic FC,0-0,Birmingham City FC
+42,Sat Apr 11 2009,Burnley FC,1-0,Queens Park Rangers FC
 43,Mon Apr 13 2009,Southampton FC,1-0,Crystal Palace FC
 43,Mon Apr 13 2009,Sheffield United FC,0-0,Nottingham Forest FC
 43,Mon Apr 13 2009,Queens Park Rangers FC,3-2,Sheffield Wednesday FC
@@ -510,28 +507,31 @@ Matchday,Date,Team 1,FT,Team 2
 43,Mon Apr 13 2009,Barnsley FC,1-3,Swansea City FC
 43,Mon Apr 13 2009,Derby County FC,2-3,Wolverhampton Wanderers FC
 43,Mon Apr 13 2009,Coventry City FC,0-0,Charlton Athletic FC
-43,Mon Apr 13 2009,Blackpool FC,2-2,Reading FC
+43,Mon Apr 13 2009,Cardiff City FC,3-1,Burnley FC
 43,Mon Apr 13 2009,Bristol City FC,1-1,Ipswich Town FC
-44,Sat Apr 18 2009,Plymouth Argyle FC,0-3,Doncaster Rovers FC
-44,Sat Apr 18 2009,Charlton Athletic FC,2-2,Blackpool FC
-44,Sat Apr 18 2009,Nottingham Forest FC,1-0,Coventry City FC
+43,Mon Apr 13 2009,Blackpool FC,2-2,Reading FC
+43,Mon Apr 13 2009,Birmingham City FC,1-1,Plymouth Argyle FC
+43,Mon Apr 13 2009,Doncaster Rovers FC,0-2,Preston North End FC
 44,Sat Apr 18 2009,Wolverhampton Wanderers FC,1-0,Queens Park Rangers FC
 44,Sat Apr 18 2009,Watford FC,0-1,Birmingham City FC
 44,Sat Apr 18 2009,Swansea City FC,1-0,Bristol City FC
 44,Sat Apr 18 2009,Sheffield Wednesday FC,2-0,Southampton FC
 44,Sat Apr 18 2009,Reading FC,0-0,Barnsley FC
 44,Sat Apr 18 2009,Preston North End FC,6-0,Cardiff City FC
+44,Sat Apr 18 2009,Plymouth Argyle FC,0-3,Doncaster Rovers FC
+44,Sat Apr 18 2009,Charlton Athletic FC,2-2,Blackpool FC
 44,Sat Apr 18 2009,Crystal Palace FC,1-0,Derby County FC
+44,Sat Apr 18 2009,Nottingham Forest FC,1-0,Coventry City FC
 44,Sun Apr 19 2009,Ipswich Town FC,3-2,Norwich City FC
 44,Mon Apr 20 2009,Burnley FC,1-0,Sheffield United FC
+32,Tue Apr 21 2009,Charlton Athletic FC,2-2,Cardiff City FC
 33,Tue Apr 21 2009,Derby County FC,0-2,Reading FC
 37,Tue Apr 21 2009,Coventry City FC,1-1,Barnsley FC
-32,Tue Apr 21 2009,Charlton Athletic FC,2-2,Cardiff City FC
-45,Sat Apr 25 2009,Doncaster Rovers FC,2-0,Crystal Palace FC
+45,Sat Apr 25 2009,Sheffield United FC,1-0,Swansea City FC
 45,Sat Apr 25 2009,Southampton FC,2-2,Burnley FC
 45,Sat Apr 25 2009,Blackpool FC,1-1,Nottingham Forest FC
 45,Sat Apr 25 2009,Queens Park Rangers FC,0-0,Plymouth Argyle FC
-45,Sat Apr 25 2009,Sheffield United FC,1-0,Swansea City FC
+45,Sat Apr 25 2009,Doncaster Rovers FC,2-0,Crystal Palace FC
 45,Sat Apr 25 2009,Derby County FC,1-0,Charlton Athletic FC
 45,Sat Apr 25 2009,Coventry City FC,2-3,Watford FC
 45,Sat Apr 25 2009,Cardiff City FC,0-3,Ipswich Town FC

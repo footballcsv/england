@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 10 2002,Swindon Town FC,3-1,Barnsley FC
 1,Sat Aug 10 2002,Queens Park Rangers FC,3-1,Chesterfield FC
 1,Sat Aug 10 2002,Port Vale FC,1-4,Tranmere Rovers FC
@@ -16,13 +16,13 @@ Matchday,Date,Team 1,FT,Team 2
 2,Tue Aug 13 2002,Tranmere Rovers FC,1-1,Colchester United FC
 2,Tue Aug 13 2002,Stockport County FC,1-1,Queens Park Rangers FC
 2,Tue Aug 13 2002,Plymouth Argyle FC,2-1,Huddersfield Town AFC
-2,Tue Aug 13 2002,Peterborough United FC,0-1,Oldham Athletic AFC
+2,Tue Aug 13 2002,Barnsley FC,1-1,Cheltenham Town FC
 2,Tue Aug 13 2002,Crewe Alexandra FC,0-3,Notts County FC
 2,Tue Aug 13 2002,Chesterfield FC,2-4,Swindon Town FC
 2,Tue Aug 13 2002,Cardiff City FC,3-1,Port Vale FC
 2,Tue Aug 13 2002,Brentford FC,1-0,Bristol City FC
 2,Tue Aug 13 2002,Blackpool FC,5-2,Luton Town FC
-2,Tue Aug 13 2002,Barnsley FC,1-1,Cheltenham Town FC
+2,Tue Aug 13 2002,Peterborough United FC,0-1,Oldham Athletic AFC
 3,Sat Aug 17 2002,Wycombe Wanderers FC,3-3,Mansfield Town FC
 3,Sat Aug 17 2002,Wigan Athletic FC,2-0,Bristol City FC
 3,Sat Aug 17 2002,Tranmere Rovers FC,1-0,Cheltenham Town FC
@@ -45,25 +45,25 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sat Aug 24 2002,Luton Town FC,2-3,Barnsley FC
 4,Sat Aug 24 2002,Huddersfield Town AFC,1-1,Crewe Alexandra FC
 4,Sat Aug 24 2002,Colchester United FC,0-1,Brentford FC
-4,Sat Aug 24 2002,Cheltenham Town FC,1-2,Plymouth Argyle FC
 4,Sat Aug 24 2002,Bristol City FC,3-0,Wycombe Wanderers FC
+4,Sat Aug 24 2002,Cheltenham Town FC,1-2,Plymouth Argyle FC
 5,Mon Aug 26 2002,Plymouth Argyle FC,2-0,Bristol City FC
 5,Mon Aug 26 2002,Wycombe Wanderers FC,4-1,Queens Park Rangers FC
 5,Mon Aug 26 2002,Wigan Athletic FC,0-1,Port Vale FC
 5,Mon Aug 26 2002,Tranmere Rovers FC,2-1,Huddersfield Town AFC
 5,Mon Aug 26 2002,Stockport County FC,2-0,Mansfield Town FC
-5,Mon Aug 26 2002,Peterborough United FC,0-1,Colchester United FC
+5,Mon Aug 26 2002,Barnsley FC,0-0,Notts County FC
 5,Mon Aug 26 2002,Cardiff City FC,0-0,Luton Town FC
 5,Mon Aug 26 2002,Brentford FC,3-1,Swindon Town FC
 5,Mon Aug 26 2002,Blackpool FC,0-0,Oldham Athletic AFC
-5,Mon Aug 26 2002,Barnsley FC,0-0,Notts County FC
+5,Mon Aug 26 2002,Peterborough United FC,0-1,Colchester United FC
 5,Tue Aug 27 2002,Crewe Alexandra FC,1-0,Cheltenham Town FC
 5,Tue Aug 27 2002,Chesterfield FC,4-0,Northampton Town FC
-6,Sat Aug 31 2002,Swindon Town FC,0-1,Stockport County FC
+6,Sat Aug 31 2002,Notts County FC,2-2,Brentford FC
 6,Sat Aug 31 2002,Queens Park Rangers FC,2-2,Plymouth Argyle FC
 6,Sat Aug 31 2002,Port Vale FC,1-0,Peterborough United FC
 6,Sat Aug 31 2002,Oldham Athletic AFC,0-2,Wycombe Wanderers FC
-6,Sat Aug 31 2002,Notts County FC,2-2,Brentford FC
+6,Sat Aug 31 2002,Swindon Town FC,0-1,Stockport County FC
 6,Sat Aug 31 2002,Northampton Town FC,1-0,Barnsley FC
 6,Sat Aug 31 2002,Mansfield Town FC,0-5,Crewe Alexandra FC
 6,Sat Aug 31 2002,Luton Town FC,3-0,Chesterfield FC
@@ -72,29 +72,27 @@ Matchday,Date,Team 1,FT,Team 2
 6,Sat Aug 31 2002,Cheltenham Town FC,1-1,Cardiff City FC
 6,Sat Aug 31 2002,Bristol City FC,2-0,Tranmere Rovers FC
 7,Fri Sep 6 2002,Bristol City FC,3-0,Northampton Town FC
-7,Sat Sep 7 2002,Mansfield Town FC,0-4,Queens Park Rangers FC
+7,Sat Sep 7 2002,Notts County FC,1-3,Oldham Athletic AFC
 7,Sat Sep 7 2002,Swindon Town FC,1-2,Port Vale FC
 7,Sat Sep 7 2002,Wigan Athletic FC,3-0,Wycombe Wanderers FC
 7,Sat Sep 7 2002,Colchester United FC,1-1,Cheltenham Town FC
-7,Sat Sep 7 2002,Notts County FC,1-3,Oldham Athletic AFC
+7,Sat Sep 7 2002,Mansfield Town FC,0-4,Queens Park Rangers FC
 7,Sat Sep 7 2002,Huddersfield Town AFC,1-0,Barnsley FC
 7,Sat Sep 7 2002,Crewe Alexandra FC,0-0,Chesterfield FC
 7,Sat Sep 7 2002,Brentford FC,0-0,Luton Town FC
 7,Sat Sep 7 2002,Blackpool FC,3-0,Tranmere Rovers FC
-8,Sat Sep 14 2002,Northampton Town FC,0-0,Huddersfield Town AFC
-8,Sat Sep 14 2002,Cardiff City FC,2-1,Stockport County FC
 8,Sat Sep 14 2002,Wycombe Wanderers FC,1-2,Blackpool FC
 8,Sat Sep 14 2002,Tranmere Rovers FC,3-1,Brentford FC
 8,Sat Sep 14 2002,Queens Park Rangers FC,2-0,Swindon Town FC
 8,Sat Sep 14 2002,Port Vale FC,1-0,Colchester United FC
-8,Sat Sep 14 2002,Cheltenham Town FC,2-3,Bristol City FC
+8,Sat Sep 14 2002,Peterborough United FC,0-0,Crewe Alexandra FC
 8,Sat Sep 14 2002,Oldham Athletic AFC,6-1,Mansfield Town FC
 8,Sat Sep 14 2002,Barnsley FC,1-1,Plymouth Argyle FC
 8,Sat Sep 14 2002,Luton Town FC,2-2,Notts County FC
 8,Sat Sep 14 2002,Chesterfield FC,0-0,Wigan Athletic FC
-8,Sat Sep 14 2002,Peterborough United FC,0-0,Crewe Alexandra FC
-9,Tue Sep 17 2002,Cardiff City FC,2-0,Brentford FC
-9,Tue Sep 17 2002,Cheltenham Town FC,2-0,Swindon Town FC
+8,Sat Sep 14 2002,Cheltenham Town FC,2-3,Bristol City FC
+8,Sat Sep 14 2002,Cardiff City FC,2-1,Stockport County FC
+8,Sat Sep 14 2002,Northampton Town FC,0-0,Huddersfield Town AFC
 9,Tue Sep 17 2002,Barnsley FC,2-1,Blackpool FC
 9,Tue Sep 17 2002,Tranmere Rovers FC,0-2,Wigan Athletic FC
 9,Tue Sep 17 2002,Queens Park Rangers FC,3-0,Huddersfield Town AFC
@@ -104,33 +102,34 @@ Matchday,Date,Team 1,FT,Team 2
 9,Tue Sep 17 2002,Northampton Town FC,4-1,Colchester United FC
 9,Tue Sep 17 2002,Luton Town FC,2-3,Mansfield Town FC
 9,Tue Sep 17 2002,Chesterfield FC,1-0,Stockport County FC
+9,Tue Sep 17 2002,Cheltenham Town FC,2-0,Swindon Town FC
+9,Tue Sep 17 2002,Cardiff City FC,2-0,Brentford FC
 9,Tue Sep 17 2002,Wycombe Wanderers FC,1-2,Crewe Alexandra FC
-10,Sat Sep 21 2002,Brentford FC,1-0,Wycombe Wanderers FC
-10,Sat Sep 21 2002,Swindon Town FC,2-0,Northampton Town FC
 10,Sat Sep 21 2002,Wigan Athletic FC,2-2,Peterborough United FC
 10,Sat Sep 21 2002,Blackpool FC,3-2,Port Vale FC
 10,Sat Sep 21 2002,Stockport County FC,4-1,Barnsley FC
 10,Sat Sep 21 2002,Plymouth Argyle FC,0-1,Chesterfield FC
-10,Sat Sep 21 2002,Bristol City FC,1-3,Queens Park Rangers FC
+10,Sat Sep 21 2002,Notts County FC,0-1,Cardiff City FC
 10,Sat Sep 21 2002,Mansfield Town FC,0-2,Cheltenham Town FC
 10,Sat Sep 21 2002,Huddersfield Town AFC,0-1,Luton Town FC
 10,Sat Sep 21 2002,Crewe Alexandra FC,2-0,Tranmere Rovers FC
 10,Sat Sep 21 2002,Colchester United FC,0-1,Oldham Athletic AFC
-10,Sat Sep 21 2002,Notts County FC,0-1,Cardiff City FC
+10,Sat Sep 21 2002,Bristol City FC,1-3,Queens Park Rangers FC
+10,Sat Sep 21 2002,Brentford FC,1-0,Wycombe Wanderers FC
+10,Sat Sep 21 2002,Swindon Town FC,2-0,Northampton Town FC
 7,Tue Sep 24 2002,Plymouth Argyle FC,2-2,Cardiff City FC
-11,Sat Sep 28 2002,Peterborough United FC,5-1,Brentford FC
 11,Sat Sep 28 2002,Wycombe Wanderers FC,2-1,Plymouth Argyle FC
 11,Sat Sep 28 2002,Tranmere Rovers FC,1-0,Stockport County FC
 11,Sat Sep 28 2002,Queens Park Rangers FC,2-0,Colchester United FC
 11,Sat Sep 28 2002,Port Vale FC,2-3,Bristol City FC
-11,Sat Sep 28 2002,Barnsley FC,1-3,Wigan Athletic FC
+11,Sat Sep 28 2002,Peterborough United FC,5-1,Brentford FC
 11,Sat Sep 28 2002,Oldham Athletic AFC,4-0,Huddersfield Town AFC
 11,Sat Sep 28 2002,Northampton Town FC,2-0,Mansfield Town FC
 11,Sat Sep 28 2002,Luton Town FC,3-0,Swindon Town FC
 11,Sat Sep 28 2002,Chesterfield FC,1-0,Blackpool FC
 11,Sat Sep 28 2002,Cheltenham Town FC,1-4,Notts County FC
 11,Sat Sep 28 2002,Cardiff City FC,2-1,Crewe Alexandra FC
-12,Sat Oct 5 2002,Huddersfield Town AFC,2-2,Port Vale FC
+11,Sat Sep 28 2002,Barnsley FC,1-3,Wigan Athletic FC
 12,Sat Oct 5 2002,Wigan Athletic FC,2-2,Cardiff City FC
 12,Sat Oct 5 2002,Swindon Town FC,0-1,Oldham Athletic AFC
 12,Sat Oct 5 2002,Stockport County FC,2-3,Luton Town FC
@@ -142,13 +141,14 @@ Matchday,Date,Team 1,FT,Team 2
 12,Sat Oct 5 2002,Colchester United FC,0-1,Wycombe Wanderers FC
 12,Sat Oct 5 2002,Bristol City FC,4-0,Chesterfield FC
 12,Sat Oct 5 2002,Brentford FC,1-2,Barnsley FC
+12,Sat Oct 5 2002,Huddersfield Town AFC,2-2,Port Vale FC
 7,Tue Oct 8 2002,Stockport County FC,2-1,Peterborough United FC
-13,Sat Oct 12 2002,Peterborough United FC,0-0,Mansfield Town FC
+13,Sat Oct 12 2002,Northampton Town FC,1-2,Brentford FC
 13,Sat Oct 12 2002,Swindon Town FC,2-2,Colchester United FC
 13,Sat Oct 12 2002,Stockport County FC,1-4,Crewe Alexandra FC
 13,Sat Oct 12 2002,Port Vale FC,1-1,Oldham Athletic AFC
 13,Sat Oct 12 2002,Plymouth Argyle FC,1-3,Wigan Athletic FC
-13,Sat Oct 12 2002,Northampton Town FC,1-2,Brentford FC
+13,Sat Oct 12 2002,Peterborough United FC,0-0,Mansfield Town FC
 13,Sat Oct 12 2002,Luton Town FC,2-1,Cheltenham Town FC
 13,Sat Oct 12 2002,Huddersfield Town AFC,3-0,Notts County FC
 13,Sat Oct 12 2002,Chesterfield FC,1-0,Tranmere Rovers FC
@@ -156,17 +156,17 @@ Matchday,Date,Team 1,FT,Team 2
 13,Sat Oct 12 2002,Barnsley FC,1-4,Bristol City FC
 13,Mon Oct 14 2002,Queens Park Rangers FC,2-1,Blackpool FC
 14,Fri Oct 18 2002,Colchester United FC,2-0,Chesterfield FC
-14,Sat Oct 19 2002,Notts County FC,2-1,Northampton Town FC
+14,Sat Oct 19 2002,Blackpool FC,1-0,Cardiff City FC
 14,Sat Oct 19 2002,Wigan Athletic FC,2-1,Stockport County FC
 14,Sat Oct 19 2002,Tranmere Rovers FC,1-0,Barnsley FC
 14,Sat Oct 19 2002,Oldham Athletic AFC,1-2,Luton Town FC
-14,Sat Oct 19 2002,Blackpool FC,1-0,Cardiff City FC
+14,Sat Oct 19 2002,Wycombe Wanderers FC,3-2,Peterborough United FC
 14,Sat Oct 19 2002,Mansfield Town FC,0-2,Huddersfield Town AFC
 14,Sat Oct 19 2002,Crewe Alexandra FC,0-1,Plymouth Argyle FC
 14,Sat Oct 19 2002,Cheltenham Town FC,1-1,Queens Park Rangers FC
 14,Sat Oct 19 2002,Bristol City FC,2-0,Swindon Town FC
 14,Sat Oct 19 2002,Brentford FC,1-1,Port Vale FC
-14,Sat Oct 19 2002,Wycombe Wanderers FC,3-2,Peterborough United FC
+14,Sat Oct 19 2002,Notts County FC,2-1,Northampton Town FC
 15,Sat Oct 26 2002,Swindon Town FC,2-1,Mansfield Town FC
 15,Sat Oct 26 2002,Stockport County FC,2-3,Brentford FC
 15,Sat Oct 26 2002,Queens Park Rangers FC,1-2,Oldham Athletic AFC
@@ -177,8 +177,8 @@ Matchday,Date,Team 1,FT,Team 2
 15,Sat Oct 26 2002,Luton Town FC,1-1,Wigan Athletic FC
 15,Sat Oct 26 2002,Huddersfield Town AFC,1-1,Colchester United FC
 15,Sat Oct 26 2002,Chesterfield FC,0-0,Notts County FC
-15,Sat Oct 26 2002,Barnsley FC,1-1,Wycombe Wanderers FC
 15,Sat Oct 26 2002,Cardiff City FC,4-0,Tranmere Rovers FC
+15,Sat Oct 26 2002,Barnsley FC,1-1,Wycombe Wanderers FC
 16,Tue Oct 29 2002,Wycombe Wanderers FC,2-0,Chesterfield FC
 16,Tue Oct 29 2002,Wigan Athletic FC,1-1,Queens Park Rangers FC
 16,Tue Oct 29 2002,Tranmere Rovers FC,1-1,Peterborough United FC
@@ -192,17 +192,16 @@ Matchday,Date,Team 1,FT,Team 2
 16,Tue Oct 29 2002,Brentford FC,0-0,Plymouth Argyle FC
 16,Tue Oct 29 2002,Blackpool FC,1-3,Stockport County FC
 17,Fri Nov 1 2002,Mansfield Town FC,4-2,Colchester United FC
-17,Sat Nov 2 2002,Port Vale FC,0-0,Queens Park Rangers FC
+17,Sat Nov 2 2002,Brentford FC,5-0,Blackpool FC
 17,Sat Nov 2 2002,Wycombe Wanderers FC,2-3,Swindon Town FC
 17,Sat Nov 2 2002,Wigan Athletic FC,2-0,Crewe Alexandra FC
 17,Sat Nov 2 2002,Tranmere Rovers FC,2-1,Plymouth Argyle FC
-17,Sat Nov 2 2002,Brentford FC,5-0,Blackpool FC
+17,Sat Nov 2 2002,Chesterfield FC,1-0,Barnsley FC
 17,Sat Nov 2 2002,Oldham Athletic AFC,2-0,Stockport County FC
 17,Sat Nov 2 2002,Northampton Town FC,3-0,Luton Town FC
 17,Sat Nov 2 2002,Cheltenham Town FC,1-0,Huddersfield Town AFC
 17,Sat Nov 2 2002,Cardiff City FC,3-0,Peterborough United FC
-17,Sat Nov 2 2002,Chesterfield FC,1-0,Barnsley FC
-18,Sat Nov 9 2002,Luton Town FC,0-0,Port Vale FC
+17,Sat Nov 2 2002,Port Vale FC,0-0,Queens Park Rangers FC
 18,Sat Nov 9 2002,Swindon Town FC,1-1,Tranmere Rovers FC
 18,Sat Nov 9 2002,Stockport County FC,1-1,Cheltenham Town FC
 18,Sat Nov 9 2002,Queens Park Rangers FC,0-1,Northampton Town FC
@@ -214,30 +213,31 @@ Matchday,Date,Team 1,FT,Team 2
 18,Sat Nov 9 2002,Crewe Alexandra FC,2-1,Brentford FC
 18,Sat Nov 9 2002,Colchester United FC,2-2,Bristol City FC
 18,Sat Nov 9 2002,Barnsley FC,3-2,Cardiff City FC
-19,Sat Nov 23 2002,Northampton Town FC,3-0,Port Vale FC
+18,Sat Nov 9 2002,Luton Town FC,0-0,Port Vale FC
 19,Sat Nov 23 2002,Wycombe Wanderers FC,1-3,Tranmere Rovers FC
 19,Sat Nov 23 2002,Plymouth Argyle FC,4-1,Stockport County FC
 19,Sat Nov 23 2002,Peterborough United FC,1-3,Barnsley FC
 19,Sat Nov 23 2002,Oldham Athletic AFC,0-0,Cheltenham Town FC
 19,Sat Nov 23 2002,Notts County FC,2-3,Colchester United FC
-19,Sat Nov 23 2002,Brentford FC,0-1,Wigan Athletic FC
+19,Sat Nov 23 2002,Northampton Town FC,3-0,Port Vale FC
 19,Sat Nov 23 2002,Mansfield Town FC,4-5,Bristol City FC
 19,Sat Nov 23 2002,Luton Town FC,0-0,Queens Park Rangers FC
 19,Sat Nov 23 2002,Huddersfield Town AFC,2-3,Swindon Town FC
 19,Sat Nov 23 2002,Crewe Alexandra FC,3-0,Blackpool FC
+19,Sat Nov 23 2002,Brentford FC,0-1,Wigan Athletic FC
 19,Sun Nov 24 2002,Cardiff City FC,1-0,Chesterfield FC
 20,Fri Nov 29 2002,Queens Park Rangers FC,0-4,Cardiff City FC
-20,Sat Nov 30 2002,Wigan Athletic FC,1-0,Northampton Town FC
 20,Sat Nov 30 2002,Port Vale FC,4-2,Mansfield Town FC
 20,Sat Nov 30 2002,Tranmere Rovers FC,1-3,Luton Town FC
 20,Sat Nov 30 2002,Swindon Town FC,1-1,Peterborough United FC
 20,Sat Nov 30 2002,Stockport County FC,2-1,Wycombe Wanderers FC
-20,Sat Nov 30 2002,Colchester United FC,0-0,Plymouth Argyle FC
+20,Sat Nov 30 2002,Wigan Athletic FC,1-0,Northampton Town FC
 20,Sat Nov 30 2002,Barnsley FC,2-2,Oldham Athletic AFC
 20,Sat Nov 30 2002,Chesterfield FC,1-0,Huddersfield Town AFC
 20,Sat Nov 30 2002,Cheltenham Town FC,1-0,Brentford FC
 20,Sat Nov 30 2002,Bristol City FC,2-2,Crewe Alexandra FC
 20,Sat Nov 30 2002,Blackpool FC,1-1,Notts County FC
+20,Sat Nov 30 2002,Colchester United FC,0-0,Plymouth Argyle FC
 17,Tue Dec 3 2002,Bristol City FC,3-2,Notts County FC
 21,Sat Dec 14 2002,Cardiff City FC,0-2,Bristol City FC
 21,Sat Dec 14 2002,Plymouth Argyle FC,1-1,Swindon Town FC
@@ -249,14 +249,14 @@ Matchday,Date,Team 1,FT,Team 2
 21,Sat Dec 14 2002,Luton Town FC,1-2,Colchester United FC
 21,Sat Dec 14 2002,Huddersfield Town AFC,2-1,Stockport County FC
 21,Sat Dec 14 2002,Crewe Alexandra FC,2-0,Barnsley FC
-21,Sat Dec 14 2002,Northampton Town FC,0-4,Tranmere Rovers FC
 21,Sat Dec 14 2002,Brentford FC,2-1,Chesterfield FC
+21,Sat Dec 14 2002,Northampton Town FC,0-4,Tranmere Rovers FC
 22,Fri Dec 20 2002,Stockport County FC,4-0,Northampton Town FC
 22,Fri Dec 20 2002,Colchester United FC,1-2,Cardiff City FC
-22,Sat Dec 21 2002,Wigan Athletic FC,1-0,Huddersfield Town AFC
+22,Sat Dec 21 2002,Queens Park Rangers FC,1-1,Brentford FC
 22,Sat Dec 21 2002,Tranmere Rovers FC,2-2,Notts County FC
 22,Sat Dec 21 2002,Swindon Town FC,1-3,Crewe Alexandra FC
-22,Sat Dec 21 2002,Queens Park Rangers FC,1-1,Brentford FC
+22,Sat Dec 21 2002,Wigan Athletic FC,1-0,Huddersfield Town AFC
 22,Sat Dec 21 2002,Port Vale FC,1-2,Plymouth Argyle FC
 22,Sat Dec 21 2002,Chesterfield FC,0-1,Oldham Athletic AFC
 22,Sat Dec 21 2002,Cheltenham Town FC,0-0,Wycombe Wanderers FC
@@ -267,15 +267,15 @@ Matchday,Date,Team 1,FT,Team 2
 23,Thu Dec 26 2002,Luton Town FC,2-0,Cardiff City FC
 23,Thu Dec 26 2002,Bristol City FC,0-0,Plymouth Argyle FC
 23,Thu Dec 26 2002,Oldham Athletic AFC,1-1,Blackpool FC
-23,Thu Dec 26 2002,Cheltenham Town FC,0-4,Crewe Alexandra FC
+23,Thu Dec 26 2002,Mansfield Town FC,4-2,Stockport County FC
 23,Thu Dec 26 2002,Swindon Town FC,2-1,Brentford FC
 23,Thu Dec 26 2002,Port Vale FC,0-1,Wigan Athletic FC
 23,Thu Dec 26 2002,Notts County FC,3-2,Barnsley FC
 23,Thu Dec 26 2002,Northampton Town FC,0-1,Chesterfield FC
 23,Thu Dec 26 2002,Huddersfield Town AFC,1-2,Tranmere Rovers FC
 23,Thu Dec 26 2002,Colchester United FC,1-1,Peterborough United FC
-23,Thu Dec 26 2002,Mansfield Town FC,4-2,Stockport County FC
-24,Sat Dec 28 2002,Plymouth Argyle FC,1-0,Notts County FC
+23,Thu Dec 26 2002,Cheltenham Town FC,0-4,Crewe Alexandra FC
+24,Sat Dec 28 2002,Peterborough United FC,0-0,Northampton Town FC
 24,Sat Dec 28 2002,Wycombe Wanderers FC,1-2,Luton Town FC
 24,Sat Dec 28 2002,Wigan Athletic FC,2-0,Swindon Town FC
 24,Sat Dec 28 2002,Tranmere Rovers FC,3-0,Queens Park Rangers FC
@@ -284,129 +284,127 @@ Matchday,Date,Team 1,FT,Team 2
 24,Sat Dec 28 2002,Chesterfield FC,2-2,Cheltenham Town FC
 24,Sat Dec 28 2002,Brentford FC,1-0,Mansfield Town FC
 24,Sat Dec 28 2002,Blackpool FC,3-1,Colchester United FC
-24,Sat Dec 28 2002,Peterborough United FC,0-0,Northampton Town FC
+24,Sat Dec 28 2002,Plymouth Argyle FC,1-0,Notts County FC
 24,Sun Dec 29 2002,Crewe Alexandra FC,1-2,Oldham Athletic AFC
 24,Sun Dec 29 2002,Cardiff City FC,4-0,Huddersfield Town AFC
-25,Wed Jan 1 2003,Stockport County FC,1-1,Port Vale FC
+25,Wed Jan 1 2003,Blackpool FC,1-1,Huddersfield Town AFC
 25,Wed Jan 1 2003,Wycombe Wanderers FC,2-1,Bristol City FC
 25,Wed Jan 1 2003,Wigan Athletic FC,3-1,Notts County FC
 25,Wed Jan 1 2003,Tranmere Rovers FC,1-2,Oldham Athletic AFC
-25,Wed Jan 1 2003,Blackpool FC,1-1,Huddersfield Town AFC
+25,Wed Jan 1 2003,Stockport County FC,1-1,Port Vale FC
 25,Wed Jan 1 2003,Plymouth Argyle FC,3-1,Cheltenham Town FC
-25,Wed Jan 1 2003,Barnsley FC,1-2,Northampton Town FC
+25,Wed Jan 1 2003,Peterborough United FC,0-2,Queens Park Rangers FC
 25,Wed Jan 1 2003,Crewe Alexandra FC,2-0,Mansfield Town FC
 25,Wed Jan 1 2003,Chesterfield FC,2-1,Luton Town FC
 25,Wed Jan 1 2003,Cardiff City FC,1-1,Swindon Town FC
-25,Wed Jan 1 2003,Peterborough United FC,0-2,Queens Park Rangers FC
-26,Sat Jan 4 2003,Colchester United FC,2-2,Tranmere Rovers FC
+25,Wed Jan 1 2003,Barnsley FC,1-2,Northampton Town FC
 26,Sat Jan 4 2003,Swindon Town FC,3-0,Chesterfield FC
 26,Sat Jan 4 2003,Queens Park Rangers FC,1-0,Stockport County FC
 26,Sat Jan 4 2003,Oldham Athletic AFC,0-0,Peterborough United FC
 26,Sat Jan 4 2003,Northampton Town FC,0-5,Wycombe Wanderers FC
+26,Sat Jan 4 2003,Colchester United FC,2-2,Tranmere Rovers FC
 27,Fri Jan 10 2003,Bristol City FC,0-1,Wigan Athletic FC
-27,Sat Jan 11 2003,Colchester United FC,1-2,Crewe Alexandra FC
-27,Sat Jan 11 2003,Huddersfield Town AFC,0-1,Peterborough United FC
 27,Sat Jan 11 2003,Queens Park Rangers FC,1-0,Barnsley FC
 27,Sat Jan 11 2003,Mansfield Town FC,0-0,Wycombe Wanderers FC
+27,Sat Jan 11 2003,Colchester United FC,1-2,Crewe Alexandra FC
+27,Sat Jan 11 2003,Huddersfield Town AFC,0-1,Peterborough United FC
 27,Tue Jan 14 2003,Oldham Athletic AFC,2-1,Brentford FC
-28,Sat Jan 18 2003,Blackpool FC,2-1,Northampton Town FC
+28,Sat Jan 18 2003,Chesterfield FC,1-2,Mansfield Town FC
+28,Sat Jan 18 2003,Barnsley FC,2-3,Luton Town FC
+28,Sat Jan 18 2003,Wigan Athletic FC,2-1,Colchester United FC
 28,Sat Jan 18 2003,Tranmere Rovers FC,1-1,Bristol City FC
-28,Sat Jan 18 2003,Wycombe Wanderers FC,2-2,Oldham Athletic AFC
 28,Sat Jan 18 2003,Stockport County FC,2-5,Swindon Town FC
 28,Sat Jan 18 2003,Plymouth Argyle FC,0-1,Queens Park Rangers FC
 28,Sat Jan 18 2003,Peterborough United FC,1-2,Port Vale FC
 28,Sat Jan 18 2003,Crewe Alexandra FC,1-0,Huddersfield Town AFC
 28,Sat Jan 18 2003,Cardiff City FC,2-1,Cheltenham Town FC
-28,Sat Jan 18 2003,Wigan Athletic FC,2-1,Colchester United FC
-28,Sat Jan 18 2003,Barnsley FC,2-3,Luton Town FC
-28,Sat Jan 18 2003,Chesterfield FC,1-2,Mansfield Town FC
 28,Sat Jan 18 2003,Brentford FC,1-1,Notts County FC
+28,Sat Jan 18 2003,Blackpool FC,2-1,Northampton Town FC
+28,Sat Jan 18 2003,Wycombe Wanderers FC,2-2,Oldham Athletic AFC
 27,Tue Jan 21 2003,Notts County FC,3-2,Stockport County FC
 27,Wed Jan 22 2003,Swindon Town FC,1-1,Blackpool FC
-29,Sat Jan 25 2003,Notts County FC,0-2,Plymouth Argyle FC
 29,Sat Jan 25 2003,Oldham Athletic AFC,1-3,Crewe Alexandra FC
 29,Sat Jan 25 2003,Swindon Town FC,2-1,Wigan Athletic FC
-29,Sat Jan 25 2003,Port Vale FC,0-0,Barnsley FC
 29,Sat Jan 25 2003,Queens Park Rangers FC,1-2,Tranmere Rovers FC
+29,Sat Jan 25 2003,Port Vale FC,0-0,Barnsley FC
+29,Sat Jan 25 2003,Northampton Town FC,0-1,Peterborough United FC
+29,Sat Jan 25 2003,Notts County FC,0-2,Plymouth Argyle FC
 29,Sat Jan 25 2003,Luton Town FC,1-0,Wycombe Wanderers FC
 29,Sat Jan 25 2003,Huddersfield Town AFC,1-0,Cardiff City FC
 29,Sat Jan 25 2003,Colchester United FC,0-2,Blackpool FC
 29,Sat Jan 25 2003,Cheltenham Town FC,0-0,Chesterfield FC
-29,Sat Jan 25 2003,Northampton Town FC,0-1,Peterborough United FC
 29,Sat Jan 25 2003,Bristol City FC,1-1,Stockport County FC
 26,Tue Jan 28 2003,Mansfield Town FC,1-2,Wigan Athletic FC
 30,Fri Jan 31 2003,Cardiff City FC,1-1,Oldham Athletic AFC
-30,Sat Feb 1 2003,Blackpool FC,0-0,Bristol City FC
-30,Sat Feb 1 2003,Wycombe Wanderers FC,3-1,Notts County FC
-30,Sat Feb 1 2003,Barnsley FC,1-1,Swindon Town FC
 30,Sat Feb 1 2003,Tranmere Rovers FC,1-0,Port Vale FC
-30,Sat Feb 1 2003,Crewe Alexandra FC,3-3,Northampton Town FC
-30,Sat Feb 1 2003,Plymouth Argyle FC,3-1,Mansfield Town FC
+30,Sat Feb 1 2003,Wycombe Wanderers FC,3-1,Notts County FC
+30,Sat Feb 1 2003,Wigan Athletic FC,0-0,Cheltenham Town FC
 30,Sat Feb 1 2003,Peterborough United FC,1-1,Luton Town FC
 30,Sat Feb 1 2003,Stockport County FC,1-1,Colchester United FC
-30,Sat Feb 1 2003,Wigan Athletic FC,0-0,Cheltenham Town FC
+30,Sat Feb 1 2003,Plymouth Argyle FC,3-1,Mansfield Town FC
+30,Sat Feb 1 2003,Crewe Alexandra FC,3-3,Northampton Town FC
+30,Sat Feb 1 2003,Blackpool FC,0-0,Bristol City FC
+30,Sat Feb 1 2003,Barnsley FC,1-1,Swindon Town FC
 30,Sun Feb 2 2003,Chesterfield FC,2-4,Queens Park Rangers FC
-27,Tue Feb 4 2003,Cheltenham Town FC,3-1,Tranmere Rovers FC
-27,Tue Feb 4 2003,Northampton Town FC,0-1,Cardiff City FC
-29,Tue Feb 4 2003,Mansfield Town FC,0-0,Brentford FC
 26,Tue Feb 4 2003,Notts County FC,2-2,Crewe Alexandra FC
 26,Tue Feb 4 2003,Huddersfield Town AFC,1-0,Plymouth Argyle FC
-31,Sat Feb 8 2003,Cheltenham Town FC,0-2,Stockport County FC
-31,Sat Feb 8 2003,Cardiff City FC,1-1,Barnsley FC
-31,Sat Feb 8 2003,Northampton Town FC,1-1,Queens Park Rangers FC
-31,Sat Feb 8 2003,Oldham Athletic AFC,0-1,Plymouth Argyle FC
-31,Sat Feb 8 2003,Bristol City FC,1-2,Colchester United FC
-31,Sat Feb 8 2003,Brentford FC,1-2,Crewe Alexandra FC
-31,Sat Feb 8 2003,Mansfield Town FC,3-2,Notts County FC
-31,Sat Feb 8 2003,Wycombe Wanderers FC,0-0,Huddersfield Town AFC
+27,Tue Feb 4 2003,Northampton Town FC,0-1,Cardiff City FC
+27,Tue Feb 4 2003,Cheltenham Town FC,3-1,Tranmere Rovers FC
+29,Tue Feb 4 2003,Mansfield Town FC,0-0,Brentford FC
 31,Sat Feb 8 2003,Port Vale FC,1-2,Luton Town FC
 31,Sat Feb 8 2003,Wigan Athletic FC,1-1,Blackpool FC
 31,Sat Feb 8 2003,Tranmere Rovers FC,0-1,Swindon Town FC
+31,Sat Feb 8 2003,Wycombe Wanderers FC,0-0,Huddersfield Town AFC
+31,Sat Feb 8 2003,Oldham Athletic AFC,0-1,Plymouth Argyle FC
+31,Sat Feb 8 2003,Northampton Town FC,1-1,Queens Park Rangers FC
+31,Sat Feb 8 2003,Mansfield Town FC,3-2,Notts County FC
 31,Sat Feb 8 2003,Chesterfield FC,0-0,Peterborough United FC
-26,Tue Feb 11 2003,Luton Town FC,1-3,Blackpool FC
+31,Sat Feb 8 2003,Cheltenham Town FC,0-2,Stockport County FC
+31,Sat Feb 8 2003,Brentford FC,1-2,Crewe Alexandra FC
+31,Sat Feb 8 2003,Bristol City FC,1-2,Colchester United FC
+31,Sat Feb 8 2003,Cardiff City FC,1-1,Barnsley FC
 26,Tue Feb 11 2003,Bristol City FC,0-0,Brentford FC
+26,Tue Feb 11 2003,Luton Town FC,1-3,Blackpool FC
 27,Tue Feb 11 2003,Port Vale FC,5-2,Chesterfield FC
 32,Fri Feb 14 2003,Colchester United FC,1-0,Mansfield Town FC
-32,Sat Feb 15 2003,Blackpool FC,1-0,Brentford FC
-32,Sat Feb 15 2003,Swindon Town FC,0-3,Wycombe Wanderers FC
-32,Sat Feb 15 2003,Notts County FC,2-0,Bristol City FC
-32,Sat Feb 15 2003,Huddersfield Town AFC,3-3,Cheltenham Town FC
-32,Sat Feb 15 2003,Luton Town FC,3-2,Northampton Town FC
-32,Sat Feb 15 2003,Plymouth Argyle FC,0-1,Tranmere Rovers FC
+32,Sat Feb 15 2003,Queens Park Rangers FC,4-0,Port Vale FC
 32,Sat Feb 15 2003,Stockport County FC,1-2,Oldham Athletic AFC
 32,Sat Feb 15 2003,Barnsley FC,2-1,Chesterfield FC
-32,Sat Feb 15 2003,Queens Park Rangers FC,4-0,Port Vale FC
+32,Sat Feb 15 2003,Plymouth Argyle FC,0-1,Tranmere Rovers FC
+32,Sat Feb 15 2003,Notts County FC,2-0,Bristol City FC
+32,Sat Feb 15 2003,Luton Town FC,3-2,Northampton Town FC
+32,Sat Feb 15 2003,Huddersfield Town AFC,3-3,Cheltenham Town FC
+32,Sat Feb 15 2003,Blackpool FC,1-0,Brentford FC
+32,Sat Feb 15 2003,Swindon Town FC,0-3,Wycombe Wanderers FC
 26,Tue Feb 18 2003,Cheltenham Town FC,1-3,Barnsley FC
 33,Fri Feb 21 2003,Cardiff City FC,1-1,Plymouth Argyle FC
-33,Sat Feb 22 2003,Tranmere Rovers FC,2-1,Blackpool FC
-33,Sat Feb 22 2003,Chesterfield FC,0-2,Crewe Alexandra FC
-33,Sat Feb 22 2003,Cheltenham Town FC,1-1,Colchester United FC
-33,Sat Feb 22 2003,Luton Town FC,0-1,Brentford FC
-33,Sat Feb 22 2003,Northampton Town FC,1-2,Bristol City FC
-33,Sat Feb 22 2003,Queens Park Rangers FC,2-2,Mansfield Town FC
 33,Sat Feb 22 2003,Peterborough United FC,2-0,Stockport County FC
-33,Sat Feb 22 2003,Oldham Athletic AFC,1-1,Notts County FC
+33,Sat Feb 22 2003,Tranmere Rovers FC,2-1,Blackpool FC
 33,Sat Feb 22 2003,Barnsley FC,0-1,Huddersfield Town AFC
 33,Sat Feb 22 2003,Port Vale FC,1-1,Swindon Town FC
 33,Sat Feb 22 2003,Wycombe Wanderers FC,0-2,Wigan Athletic FC
+33,Sat Feb 22 2003,Oldham Athletic AFC,1-1,Notts County FC
+33,Sat Feb 22 2003,Northampton Town FC,1-2,Bristol City FC
+33,Sat Feb 22 2003,Luton Town FC,0-1,Brentford FC
+33,Sat Feb 22 2003,Chesterfield FC,0-2,Crewe Alexandra FC
+33,Sat Feb 22 2003,Cheltenham Town FC,1-1,Colchester United FC
+33,Sat Feb 22 2003,Queens Park Rangers FC,2-2,Mansfield Town FC
+26,Tue Feb 25 2003,Port Vale FC,0-2,Cardiff City FC
+27,Tue Feb 25 2003,Luton Town FC,1-0,Plymouth Argyle FC
 30,Tue Feb 25 2003,Brentford FC,1-0,Huddersfield Town AFC
 32,Tue Feb 25 2003,Crewe Alexandra FC,0-1,Wigan Athletic FC
-27,Tue Feb 25 2003,Luton Town FC,1-0,Plymouth Argyle FC
-26,Tue Feb 25 2003,Port Vale FC,0-2,Cardiff City FC
-34,Sat Mar 1 2003,Blackpool FC,1-0,Wycombe Wanderers FC
-34,Sat Mar 1 2003,Brentford FC,1-2,Tranmere Rovers FC
 34,Sat Mar 1 2003,Plymouth Argyle FC,1-1,Barnsley FC
 34,Sat Mar 1 2003,Wigan Athletic FC,3-1,Chesterfield FC
-34,Sat Mar 1 2003,Bristol City FC,3-1,Cheltenham Town FC
+34,Sat Mar 1 2003,Swindon Town FC,3-1,Queens Park Rangers FC
 34,Sat Mar 1 2003,Stockport County FC,1-1,Cardiff City FC
 34,Sat Mar 1 2003,Notts County FC,2-1,Luton Town FC
 34,Sat Mar 1 2003,Mansfield Town FC,0-1,Oldham Athletic AFC
 34,Sat Mar 1 2003,Huddersfield Town AFC,2-0,Northampton Town FC
 34,Sat Mar 1 2003,Crewe Alexandra FC,0-1,Peterborough United FC
 34,Sat Mar 1 2003,Colchester United FC,4-1,Port Vale FC
-34,Sat Mar 1 2003,Swindon Town FC,3-1,Queens Park Rangers FC
-35,Tue Mar 4 2003,Bristol City FC,2-0,Oldham Athletic AFC
-35,Tue Mar 4 2003,Brentford FC,0-2,Cardiff City FC
+34,Sat Mar 1 2003,Blackpool FC,1-0,Wycombe Wanderers FC
+34,Sat Mar 1 2003,Brentford FC,1-2,Tranmere Rovers FC
+34,Sat Mar 1 2003,Bristol City FC,3-1,Cheltenham Town FC
 35,Tue Mar 4 2003,Wigan Athletic FC,0-0,Tranmere Rovers FC
 35,Tue Mar 4 2003,Stockport County FC,2-1,Chesterfield FC
 35,Tue Mar 4 2003,Plymouth Argyle FC,6-1,Peterborough United FC
@@ -416,46 +414,47 @@ Matchday,Date,Team 1,FT,Team 2
 35,Tue Mar 4 2003,Crewe Alexandra FC,4-2,Wycombe Wanderers FC
 35,Tue Mar 4 2003,Colchester United FC,2-0,Northampton Town FC
 35,Tue Mar 4 2003,Blackpool FC,1-2,Barnsley FC
-36,Sat Mar 8 2003,Barnsley FC,1-0,Stockport County FC
-36,Sat Mar 8 2003,Cheltenham Town FC,3-1,Mansfield Town FC
-36,Sat Mar 8 2003,Cardiff City FC,0-2,Notts County FC
+35,Tue Mar 4 2003,Brentford FC,0-2,Cardiff City FC
+35,Tue Mar 4 2003,Bristol City FC,2-0,Oldham Athletic AFC
 36,Sat Mar 8 2003,Wycombe Wanderers FC,4-0,Brentford FC
 36,Sat Mar 8 2003,Tranmere Rovers FC,2-1,Crewe Alexandra FC
 36,Sat Mar 8 2003,Queens Park Rangers FC,1-0,Bristol City FC
 36,Sat Mar 8 2003,Port Vale FC,1-0,Blackpool FC
-36,Sat Mar 8 2003,Chesterfield FC,3-2,Plymouth Argyle FC
+36,Sat Mar 8 2003,Peterborough United FC,1-1,Wigan Athletic FC
 36,Sat Mar 8 2003,Oldham Athletic AFC,2-0,Colchester United FC
 36,Sat Mar 8 2003,Northampton Town FC,1-0,Swindon Town FC
 36,Sat Mar 8 2003,Luton Town FC,3-0,Huddersfield Town AFC
-36,Sat Mar 8 2003,Peterborough United FC,1-1,Wigan Athletic FC
+36,Sat Mar 8 2003,Chesterfield FC,3-2,Plymouth Argyle FC
+36,Sat Mar 8 2003,Cheltenham Town FC,3-1,Mansfield Town FC
+36,Sat Mar 8 2003,Cardiff City FC,0-2,Notts County FC
+36,Sat Mar 8 2003,Barnsley FC,1-0,Stockport County FC
 25,Tue Mar 11 2003,Brentford FC,1-1,Colchester United FC
 35,Wed Mar 12 2003,Swindon Town FC,0-3,Cheltenham Town FC
 37,Fri Mar 14 2003,Tranmere Rovers FC,3-3,Cardiff City FC
-37,Sat Mar 15 2003,Wycombe Wanderers FC,2-2,Barnsley FC
 37,Sat Mar 15 2003,Mansfield Town FC,2-1,Swindon Town FC
 37,Sat Mar 15 2003,Wigan Athletic FC,1-1,Luton Town FC
 37,Sat Mar 15 2003,Oldham Athletic AFC,0-0,Queens Park Rangers FC
 37,Sat Mar 15 2003,Blackpool FC,1-1,Plymouth Argyle FC
-37,Sat Mar 15 2003,Notts County FC,1-1,Chesterfield FC
+37,Sat Mar 15 2003,Wycombe Wanderers FC,2-2,Barnsley FC
 37,Sat Mar 15 2003,Crewe Alexandra FC,1-1,Port Vale FC
 37,Sat Mar 15 2003,Colchester United FC,2-0,Huddersfield Town AFC
 37,Sat Mar 15 2003,Cheltenham Town FC,1-1,Northampton Town FC
 37,Sat Mar 15 2003,Bristol City FC,1-0,Peterborough United FC
 37,Sat Mar 15 2003,Brentford FC,1-2,Stockport County FC
-38,Tue Mar 18 2003,Peterborough United FC,1-2,Wycombe Wanderers FC
+37,Sat Mar 15 2003,Notts County FC,1-1,Chesterfield FC
 38,Tue Mar 18 2003,Stockport County FC,1-1,Wigan Athletic FC
 38,Tue Mar 18 2003,Queens Park Rangers FC,4-1,Cheltenham Town FC
 38,Tue Mar 18 2003,Port Vale FC,1-0,Brentford FC
 38,Tue Mar 18 2003,Plymouth Argyle FC,1-3,Crewe Alexandra FC
-38,Tue Mar 18 2003,Cardiff City FC,2-1,Blackpool FC
+38,Tue Mar 18 2003,Peterborough United FC,1-2,Wycombe Wanderers FC
 38,Tue Mar 18 2003,Northampton Town FC,2-0,Notts County FC
-38,Tue Mar 18 2003,Barnsley FC,1-1,Tranmere Rovers FC
+38,Tue Mar 18 2003,Luton Town FC,0-0,Oldham Athletic AFC
 38,Tue Mar 18 2003,Huddersfield Town AFC,1-1,Mansfield Town FC
 38,Tue Mar 18 2003,Chesterfield FC,0-4,Colchester United FC
-38,Tue Mar 18 2003,Luton Town FC,0-0,Oldham Athletic AFC
+38,Tue Mar 18 2003,Barnsley FC,1-1,Tranmere Rovers FC
+38,Tue Mar 18 2003,Cardiff City FC,2-1,Blackpool FC
 38,Wed Mar 19 2003,Swindon Town FC,1-1,Bristol City FC
 39,Fri Mar 21 2003,Cardiff City FC,1-0,Mansfield Town FC
-39,Sat Mar 22 2003,Chesterfield FC,4-0,Wycombe Wanderers FC
 39,Sat Mar 22 2003,Plymouth Argyle FC,3-0,Brentford FC
 39,Sat Mar 22 2003,Stockport County FC,2-2,Blackpool FC
 39,Sat Mar 22 2003,Queens Park Rangers FC,0-1,Wigan Athletic FC
@@ -464,33 +463,32 @@ Matchday,Date,Team 1,FT,Team 2
 39,Sat Mar 22 2003,Peterborough United FC,0-0,Tranmere Rovers FC
 39,Sat Mar 22 2003,Northampton Town FC,0-2,Oldham Athletic AFC
 39,Sat Mar 22 2003,Luton Town FC,0-4,Crewe Alexandra FC
-39,Sat Mar 22 2003,Barnsley FC,1-1,Colchester United FC
 39,Sat Mar 22 2003,Huddersfield Town AFC,1-2,Bristol City FC
-40,Sat Mar 29 2003,Notts County FC,3-2,Huddersfield Town AFC
+39,Sat Mar 22 2003,Barnsley FC,1-1,Colchester United FC
+39,Sat Mar 22 2003,Chesterfield FC,4-0,Wycombe Wanderers FC
 40,Sat Mar 29 2003,Wigan Athletic FC,0-1,Plymouth Argyle FC
 40,Sat Mar 29 2003,Tranmere Rovers FC,2-1,Chesterfield FC
 40,Sat Mar 29 2003,Oldham Athletic AFC,1-1,Port Vale FC
 40,Sat Mar 29 2003,Blackpool FC,1-3,Queens Park Rangers FC
-40,Sat Mar 29 2003,Brentford FC,3-0,Northampton Town FC
+40,Sat Mar 29 2003,Mansfield Town FC,1-5,Peterborough United FC
 40,Sat Mar 29 2003,Crewe Alexandra FC,1-0,Stockport County FC
 40,Sat Mar 29 2003,Colchester United FC,1-0,Swindon Town FC
 40,Sat Mar 29 2003,Bristol City FC,2-0,Barnsley FC
-40,Sat Mar 29 2003,Mansfield Town FC,1-5,Peterborough United FC
+40,Sat Mar 29 2003,Brentford FC,3-0,Northampton Town FC
+40,Sat Mar 29 2003,Notts County FC,3-2,Huddersfield Town AFC
 41,Fri Apr 4 2003,Northampton Town FC,0-2,Wigan Athletic FC
-41,Sat Apr 5 2003,Peterborough United FC,1-1,Swindon Town FC
-41,Sat Apr 5 2003,Huddersfield Town AFC,4-0,Chesterfield FC
-41,Sat Apr 5 2003,Brentford FC,2-2,Cheltenham Town FC
 41,Sat Apr 5 2003,Notts County FC,3-1,Blackpool FC
 41,Sat Apr 5 2003,Plymouth Argyle FC,0-0,Colchester United FC
-41,Sat Apr 5 2003,Luton Town FC,0-0,Tranmere Rovers FC
+41,Sat Apr 5 2003,Peterborough United FC,1-1,Swindon Town FC
 41,Sat Apr 5 2003,Oldham Athletic AFC,2-1,Barnsley FC
 41,Sat Apr 5 2003,Wycombe Wanderers FC,1-4,Stockport County FC
 41,Sat Apr 5 2003,Mansfield Town FC,0-1,Port Vale FC
+41,Sat Apr 5 2003,Brentford FC,2-2,Cheltenham Town FC
+41,Sat Apr 5 2003,Huddersfield Town AFC,4-0,Chesterfield FC
 41,Sat Apr 5 2003,Cardiff City FC,1-2,Queens Park Rangers FC
-40,Tue Apr 8 2003,Cheltenham Town FC,2-2,Luton Town FC
+41,Sat Apr 5 2003,Luton Town FC,0-0,Tranmere Rovers FC
 40,Tue Apr 8 2003,Wycombe Wanderers FC,0-4,Cardiff City FC
-42,Sat Apr 12 2003,Bristol City FC,5-2,Mansfield Town FC
-42,Sat Apr 12 2003,Blackpool FC,0-1,Crewe Alexandra FC
+40,Tue Apr 8 2003,Cheltenham Town FC,2-2,Luton Town FC
 42,Sat Apr 12 2003,Queens Park Rangers FC,2-0,Luton Town FC
 42,Sat Apr 12 2003,Tranmere Rovers FC,1-0,Wycombe Wanderers FC
 42,Sat Apr 12 2003,Swindon Town FC,0-1,Huddersfield Town AFC
@@ -499,6 +497,8 @@ Matchday,Date,Team 1,FT,Team 2
 42,Sat Apr 12 2003,Port Vale FC,3-2,Northampton Town FC
 42,Sat Apr 12 2003,Colchester United FC,1-1,Notts County FC
 42,Sat Apr 12 2003,Cheltenham Town FC,1-1,Oldham Athletic AFC
+42,Sat Apr 12 2003,Bristol City FC,5-2,Mansfield Town FC
+42,Sat Apr 12 2003,Blackpool FC,0-1,Crewe Alexandra FC
 42,Sat Apr 12 2003,Barnsley FC,1-2,Peterborough United FC
 42,Sun Apr 13 2003,Chesterfield FC,0-3,Cardiff City FC
 41,Tue Apr 15 2003,Crewe Alexandra FC,1-1,Bristol City FC
@@ -513,38 +513,38 @@ Matchday,Date,Team 1,FT,Team 2
 43,Sat Apr 19 2003,Luton Town FC,2-2,Bristol City FC
 43,Sat Apr 19 2003,Huddersfield Town AFC,0-0,Wigan Athletic FC
 43,Sat Apr 19 2003,Crewe Alexandra FC,0-1,Swindon Town FC
-43,Sat Apr 19 2003,Plymouth Argyle FC,3-0,Port Vale FC
 43,Sat Apr 19 2003,Cardiff City FC,0-3,Colchester United FC
+43,Sat Apr 19 2003,Plymouth Argyle FC,3-0,Port Vale FC
 44,Mon Apr 21 2003,Wigan Athletic FC,3-1,Oldham Athletic AFC
 44,Mon Apr 21 2003,Tranmere Rovers FC,4-0,Northampton Town FC
 44,Mon Apr 21 2003,Stockport County FC,2-1,Huddersfield Town AFC
 44,Mon Apr 21 2003,Queens Park Rangers FC,2-0,Notts County FC
 44,Mon Apr 21 2003,Barnsley FC,1-2,Crewe Alexandra FC
-44,Mon Apr 21 2003,Port Vale FC,1-1,Wycombe Wanderers FC
+44,Mon Apr 21 2003,Colchester United FC,0-5,Luton Town FC
 44,Mon Apr 21 2003,Chesterfield FC,0-2,Brentford FC
 44,Mon Apr 21 2003,Cheltenham Town FC,1-1,Peterborough United FC
 44,Mon Apr 21 2003,Blackpool FC,3-3,Mansfield Town FC
-44,Mon Apr 21 2003,Colchester United FC,0-5,Luton Town FC
+44,Mon Apr 21 2003,Port Vale FC,1-1,Wycombe Wanderers FC
 44,Tue Apr 22 2003,Bristol City FC,2-0,Cardiff City FC
 44,Wed Apr 23 2003,Swindon Town FC,2-0,Plymouth Argyle FC
-45,Sat Apr 26 2003,Wycombe Wanderers FC,0-0,Colchester United FC
+45,Sat Apr 26 2003,Oldham Athletic AFC,4-0,Swindon Town FC
 45,Sat Apr 26 2003,Queens Park Rangers FC,0-0,Crewe Alexandra FC
 45,Sat Apr 26 2003,Port Vale FC,5-1,Huddersfield Town AFC
 45,Sat Apr 26 2003,Peterborough United FC,1-0,Notts County FC
-45,Sat Apr 26 2003,Barnsley FC,1-0,Brentford FC
+45,Sat Apr 26 2003,Wycombe Wanderers FC,0-0,Colchester United FC
 45,Sat Apr 26 2003,Northampton Town FC,2-2,Plymouth Argyle FC
 45,Sat Apr 26 2003,Luton Town FC,1-1,Stockport County FC
 45,Sat Apr 26 2003,Chesterfield FC,2-0,Bristol City FC
 45,Sat Apr 26 2003,Cheltenham Town FC,3-0,Blackpool FC
 45,Sat Apr 26 2003,Cardiff City FC,0-0,Wigan Athletic FC
-45,Sat Apr 26 2003,Oldham Athletic AFC,4-0,Swindon Town FC
+45,Sat Apr 26 2003,Barnsley FC,1-0,Brentford FC
 45,Tue Apr 29 2003,Tranmere Rovers FC,3-1,Mansfield Town FC
-46,Sat May 3 2003,Mansfield Town FC,2-1,Northampton Town FC
+46,Sat May 3 2003,Wigan Athletic FC,1-0,Barnsley FC
 46,Sat May 3 2003,Swindon Town FC,2-1,Luton Town FC
 46,Sat May 3 2003,Stockport County FC,2-3,Tranmere Rovers FC
 46,Sat May 3 2003,Plymouth Argyle FC,1-0,Wycombe Wanderers FC
 46,Sat May 3 2003,Notts County FC,1-0,Cheltenham Town FC
-46,Sat May 3 2003,Wigan Athletic FC,1-0,Barnsley FC
+46,Sat May 3 2003,Mansfield Town FC,2-1,Northampton Town FC
 46,Sat May 3 2003,Huddersfield Town AFC,1-1,Oldham Athletic AFC
 46,Sat May 3 2003,Crewe Alexandra FC,1-1,Cardiff City FC
 46,Sat May 3 2003,Colchester United FC,0-1,Queens Park Rangers FC

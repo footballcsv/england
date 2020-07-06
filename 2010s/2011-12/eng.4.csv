@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 6 2011,AFC Wimbledon,2-3,Bristol Rovers FC
 1,Sat Aug 6 2011,Torquay United FC,2-2,Burton Albion FC
 1,Sat Aug 6 2011,Swindon Town FC,3-0,Crewe Alexandra FC
@@ -16,13 +16,13 @@ Matchday,Date,Team 1,FT,Team 2
 2,Sat Aug 13 2011,Hereford FC (2014-),0-3,Morecambe FC
 2,Sat Aug 13 2011,Dagenham & Redbridge FC,0-2,AFC Wimbledon
 2,Sat Aug 13 2011,Crewe Alexandra FC,1-2,Gillingham FC
-2,Sat Aug 13 2011,Crawley Town FC,2-0,Macclesfield Town FC
+2,Sat Aug 13 2011,Accrington Stanley FC,1-2,Southend United FC
 2,Sat Aug 13 2011,Cheltenham Town FC,1-0,Swindon Town FC
 2,Sat Aug 13 2011,Burton Albion FC,1-1,Shrewsbury Town FC
 2,Sat Aug 13 2011,Bristol Rovers FC,1-2,Torquay United FC
 2,Sat Aug 13 2011,Barnet FC,1-3,Port Vale FC
 2,Sat Aug 13 2011,Aldershot Town FC,0-1,Northampton Town FC
-2,Sat Aug 13 2011,Accrington Stanley FC,1-2,Southend United FC
+2,Sat Aug 13 2011,Crawley Town FC,2-0,Macclesfield Town FC
 3,Tue Aug 16 2011,Plymouth Argyle FC,0-2,AFC Wimbledon
 3,Tue Aug 16 2011,Oxford United FC,2-0,Shrewsbury Town FC
 3,Tue Aug 16 2011,Hereford FC (2014-),0-4,Macclesfield Town FC
@@ -52,13 +52,13 @@ Matchday,Date,Team 1,FT,Team 2
 5,Sat Aug 27 2011,Port Vale FC,2-3,Southend United FC
 5,Sat Aug 27 2011,Plymouth Argyle FC,0-1,Crewe Alexandra FC
 5,Sat Aug 27 2011,Oxford United FC,1-1,Aldershot Town FC
-5,Sat Aug 27 2011,Northampton Town FC,0-2,Morecambe FC
+5,Sat Aug 27 2011,Accrington Stanley FC,2-1,Burton Albion FC
 5,Sat Aug 27 2011,Macclesfield Town FC,4-0,AFC Wimbledon
 5,Sat Aug 27 2011,Dagenham & Redbridge FC,1-1,Torquay United FC
 5,Sat Aug 27 2011,Cheltenham Town FC,3-1,Crawley Town FC
 5,Sat Aug 27 2011,Bristol Rovers FC,0-0,Hereford FC (2014-)
 5,Sat Aug 27 2011,Bradford City AFC,4-2,Barnet FC
-5,Sat Aug 27 2011,Accrington Stanley FC,2-1,Burton Albion FC
+5,Sat Aug 27 2011,Northampton Town FC,0-2,Morecambe FC
 6,Sat Sep 3 2011,Swindon Town FC,3-2,Rotherham United FC
 6,Sat Sep 3 2011,Torquay United FC,3-0,Macclesfield Town FC
 6,Sat Sep 3 2011,Southend United FC,2-2,Northampton Town FC
@@ -88,13 +88,13 @@ Matchday,Date,Team 1,FT,Team 2
 8,Tue Sep 13 2011,Port Vale FC,3-2,Bradford City AFC
 8,Tue Sep 13 2011,Macclesfield Town FC,1-1,Morecambe FC
 8,Tue Sep 13 2011,Hereford FC (2014-),0-2,Aldershot Town FC
-8,Tue Sep 13 2011,Dagenham & Redbridge FC,0-1,Oxford United FC
+8,Tue Sep 13 2011,Accrington Stanley FC,1-1,Rotherham United FC
 8,Tue Sep 13 2011,Crawley Town FC,0-3,Swindon Town FC
 8,Tue Sep 13 2011,Burton Albion FC,1-0,Crewe Alexandra FC
 8,Tue Sep 13 2011,Bristol Rovers FC,1-0,Shrewsbury Town FC
 8,Tue Sep 13 2011,Barnet FC,2-0,Plymouth Argyle FC
 8,Tue Sep 13 2011,AFC Wimbledon,0-3,Northampton Town FC
-8,Tue Sep 13 2011,Accrington Stanley FC,1-1,Rotherham United FC
+8,Tue Sep 13 2011,Dagenham & Redbridge FC,0-1,Oxford United FC
 9,Sat Sep 17 2011,Port Vale FC,2-3,Shrewsbury Town FC
 9,Sat Sep 17 2011,Torquay United FC,3-3,Rotherham United FC
 9,Sat Sep 17 2011,Southend United FC,2-0,Plymouth Argyle FC
@@ -121,16 +121,16 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Sep 24 2011,Aldershot Town FC,0-1,Crawley Town FC
 11,Fri Sep 30 2011,Southend United FC,3-0,Shrewsbury Town FC
 11,Fri Sep 30 2011,Macclesfield Town FC,2-0,Swindon Town FC
-11,Sat Oct 1 2011,Dagenham & Redbridge FC,2-1,Crewe Alexandra FC
+11,Sat Oct 1 2011,Accrington Stanley FC,3-2,Aldershot Town FC
 11,Sat Oct 1 2011,Port Vale FC,2-0,Rotherham United FC
 11,Sat Oct 1 2011,Hereford FC (2014-),0-1,Oxford United FC
-11,Sat Oct 1 2011,Accrington Stanley FC,3-2,Aldershot Town FC
+11,Sat Oct 1 2011,Torquay United FC,1-1,Morecambe FC
 11,Sat Oct 1 2011,Crawley Town FC,2-0,Plymouth Argyle FC
 11,Sat Oct 1 2011,Burton Albion FC,2-2,Bradford City AFC
 11,Sat Oct 1 2011,Bristol Rovers FC,1-3,Cheltenham Town FC
 11,Sat Oct 1 2011,Barnet FC,1-2,Northampton Town FC
 11,Sat Oct 1 2011,AFC Wimbledon,3-1,Gillingham FC
-11,Sat Oct 1 2011,Torquay United FC,1-1,Morecambe FC
+11,Sat Oct 1 2011,Dagenham & Redbridge FC,2-1,Crewe Alexandra FC
 12,Sat Oct 8 2011,Northampton Town FC,0-1,Crawley Town FC
 12,Sat Oct 8 2011,Swindon Town FC,3-3,Hereford FC (2014-)
 12,Sat Oct 8 2011,Shrewsbury Town FC,3-2,Barnet FC
@@ -146,9 +146,9 @@ Matchday,Date,Team 1,FT,Team 2
 13,Fri Oct 14 2011,Port Vale FC,3-0,Northampton Town FC
 13,Fri Oct 14 2011,Burton Albion FC,0-2,Cheltenham Town FC
 13,Fri Oct 14 2011,Bristol Rovers FC,5-2,Rotherham United FC
-13,Sat Oct 15 2011,Torquay United FC,2-5,Gillingham FC
-13,Sat Oct 15 2011,Southend United FC,1-1,Morecambe FC
 13,Sat Oct 15 2011,Macclesfield Town FC,1-1,Oxford United FC
+13,Sat Oct 15 2011,Southend United FC,1-1,Morecambe FC
+13,Sat Oct 15 2011,Torquay United FC,2-5,Gillingham FC
 13,Sat Oct 15 2011,Hereford FC (2014-),2-0,Bradford City AFC
 13,Sat Oct 15 2011,Dagenham & Redbridge FC,2-3,Plymouth Argyle FC
 13,Sat Oct 15 2011,Crawley Town FC,2-1,Shrewsbury Town FC
@@ -156,11 +156,11 @@ Matchday,Date,Team 1,FT,Team 2
 13,Sat Oct 15 2011,AFC Wimbledon,1-3,Crewe Alexandra FC
 13,Sat Oct 15 2011,Accrington Stanley FC,0-2,Swindon Town FC
 14,Fri Oct 21 2011,Accrington Stanley FC,0-1,Cheltenham Town FC
-14,Sat Oct 22 2011,Southend United FC,4-1,Torquay United FC
+14,Sat Oct 22 2011,Hereford FC (2014-),1-0,Barnet FC
 14,Sat Oct 22 2011,Rotherham United FC,1-1,Shrewsbury Town FC
 14,Sat Oct 22 2011,Port Vale FC,0-4,Morecambe FC
 14,Sat Oct 22 2011,Plymouth Argyle FC,0-1,Swindon Town FC
-14,Sat Oct 22 2011,Hereford FC (2014-),1-0,Barnet FC
+14,Sat Oct 22 2011,Southend United FC,4-1,Torquay United FC
 14,Sat Oct 22 2011,Gillingham FC,1-0,Oxford United FC
 14,Sat Oct 22 2011,Dagenham & Redbridge FC,2-5,Aldershot Town FC
 14,Sat Oct 22 2011,Crewe Alexandra FC,0-1,Macclesfield Town FC
@@ -178,7 +178,6 @@ Matchday,Date,Team 1,FT,Team 2
 15,Tue Oct 25 2011,Cheltenham Town FC,0-1,Crewe Alexandra FC
 15,Tue Oct 25 2011,Bristol Rovers FC,0-3,Port Vale FC
 15,Tue Oct 25 2011,Barnet FC,0-3,Southend United FC
-16,Sat Oct 29 2011,Torquay United FC,2-0,Hereford FC (2014-)
 16,Sat Oct 29 2011,Aldershot Town FC,3-1,Crewe Alexandra FC
 16,Sat Oct 29 2011,Swindon Town FC,0-0,Bradford City AFC
 16,Sat Oct 29 2011,Shrewsbury Town FC,0-0,AFC Wimbledon
@@ -190,6 +189,7 @@ Matchday,Date,Team 1,FT,Team 2
 16,Sat Oct 29 2011,Cheltenham Town FC,2-1,Plymouth Argyle FC
 16,Sat Oct 29 2011,Bristol Rovers FC,2-0,Dagenham & Redbridge FC
 16,Sat Oct 29 2011,Barnet FC,3-6,Burton Albion FC
+16,Sat Oct 29 2011,Torquay United FC,2-0,Hereford FC (2014-)
 15,Tue Nov 1 2011,Aldershot Town FC,2-0,Burton Albion FC
 17,Sat Nov 5 2011,Southend United FC,2-1,Oxford United FC
 17,Sat Nov 5 2011,Rotherham United FC,2-0,Aldershot Town FC
@@ -217,10 +217,10 @@ Matchday,Date,Team 1,FT,Team 2
 18,Sat Nov 19 2011,AFC Wimbledon,1-1,Swindon Town FC
 19,Fri Nov 25 2011,Port Vale FC,0-0,Torquay United FC
 19,Fri Nov 25 2011,Barnet FC,2-1,Macclesfield Town FC
-19,Sat Nov 26 2011,Swindon Town FC,2-0,Aldershot Town FC
+19,Sat Nov 26 2011,Rotherham United FC,1-2,Crawley Town FC
 19,Sat Nov 26 2011,Southend United FC,1-1,Bristol Rovers FC
 19,Sat Nov 26 2011,Shrewsbury Town FC,2-0,Morecambe FC
-19,Sat Nov 26 2011,Rotherham United FC,1-2,Crawley Town FC
+19,Sat Nov 26 2011,Swindon Town FC,2-0,Aldershot Town FC
 19,Sat Nov 26 2011,Plymouth Argyle FC,4-1,Northampton Town FC
 19,Sat Nov 26 2011,Oxford United FC,1-3,Cheltenham Town FC
 19,Sat Nov 26 2011,Gillingham FC,0-0,Bradford City AFC
@@ -228,23 +228,23 @@ Matchday,Date,Team 1,FT,Team 2
 19,Sat Nov 26 2011,Burton Albion FC,3-2,AFC Wimbledon
 19,Sat Nov 26 2011,Accrington Stanley FC,3-0,Dagenham & Redbridge FC
 20,Fri Dec 9 2011,Torquay United FC,1-0,Barnet FC
-20,Sat Dec 10 2011,Dagenham & Redbridge FC,1-2,Port Vale FC
+20,Sat Dec 10 2011,AFC Wimbledon,0-2,Accrington Stanley FC
 20,Sat Dec 10 2011,Morecambe FC,0-0,Oxford United FC
 20,Sat Dec 10 2011,Macclesfield Town FC,0-0,Gillingham FC
 20,Sat Dec 10 2011,Hereford FC (2014-),2-3,Rotherham United FC
-20,Sat Dec 10 2011,AFC Wimbledon,0-2,Accrington Stanley FC
+20,Sat Dec 10 2011,Northampton Town FC,1-1,Crewe Alexandra FC
 20,Sat Dec 10 2011,Crawley Town FC,3-0,Burton Albion FC
 20,Sat Dec 10 2011,Cheltenham Town FC,3-0,Southend United FC
 20,Sat Dec 10 2011,Bristol Rovers FC,1-1,Swindon Town FC
 20,Sat Dec 10 2011,Bradford City AFC,1-1,Plymouth Argyle FC
 20,Sat Dec 10 2011,Aldershot Town FC,1-0,Shrewsbury Town FC
-20,Sat Dec 10 2011,Northampton Town FC,1-1,Crewe Alexandra FC
+20,Sat Dec 10 2011,Dagenham & Redbridge FC,1-2,Port Vale FC
 21,Fri Dec 16 2011,Southend United FC,0-1,Bradford City AFC
 21,Fri Dec 16 2011,Barnet FC,2-2,Cheltenham Town FC
-21,Sat Dec 17 2011,Swindon Town FC,3-0,Morecambe FC
+21,Sat Dec 17 2011,Port Vale FC,4-0,Aldershot Town FC
 21,Sat Dec 17 2011,Shrewsbury Town FC,1-0,Macclesfield Town FC
 21,Sat Dec 17 2011,Rotherham United FC,1-0,AFC Wimbledon
-21,Sat Dec 17 2011,Port Vale FC,4-0,Aldershot Town FC
+21,Sat Dec 17 2011,Swindon Town FC,3-0,Morecambe FC
 21,Sat Dec 17 2011,Plymouth Argyle FC,1-1,Hereford FC (2014-)
 21,Sat Dec 17 2011,Oxford United FC,2-0,Northampton Town FC
 21,Sat Dec 17 2011,Gillingham FC,4-1,Bristol Rovers FC
@@ -258,24 +258,23 @@ Matchday,Date,Team 1,FT,Team 2
 22,Mon Dec 26 2011,Torquay United FC,1-0,Swindon Town FC
 22,Mon Dec 26 2011,Northampton Town FC,2-3,Burton Albion FC
 22,Mon Dec 26 2011,Morecambe FC,1-2,Accrington Stanley FC
-22,Mon Dec 26 2011,Macclesfield Town FC,0-0,Rotherham United FC
+22,Mon Dec 26 2011,Bradford City AFC,3-0,Crewe Alexandra FC
 22,Mon Dec 26 2011,Crawley Town FC,1-2,Gillingham FC
 22,Mon Dec 26 2011,Cheltenham Town FC,0-0,Shrewsbury Town FC
-22,Mon Dec 26 2011,Bradford City AFC,3-0,Crewe Alexandra FC
-23,Fri Dec 30 2011,Hereford FC (2014-),1-1,Accrington Stanley FC
+22,Mon Dec 26 2011,Macclesfield Town FC,0-0,Rotherham United FC
 23,Fri Dec 30 2011,Dagenham & Redbridge FC,2-1,Gillingham FC
 23,Fri Dec 30 2011,Crawley Town FC,1-0,Barnet FC
 23,Fri Dec 30 2011,Cheltenham Town FC,1-0,Rotherham United FC
-23,Sat Dec 31 2011,Bradford City AFC,3-1,Shrewsbury Town FC
+23,Fri Dec 30 2011,Hereford FC (2014-),1-1,Accrington Stanley FC
 23,Sat Dec 31 2011,AFC Wimbledon,1-4,Southend United FC
-23,Sat Dec 31 2011,Bristol Rovers FC,2-5,Crewe Alexandra FC
+23,Sat Dec 31 2011,Torquay United FC,0-0,Oxford United FC
 23,Sat Dec 31 2011,Morecambe FC,2-2,Burton Albion FC
 23,Sat Dec 31 2011,Macclesfield Town FC,2-1,Port Vale FC
 23,Sat Dec 31 2011,Aldershot Town FC,0-0,Plymouth Argyle FC
 23,Sat Dec 31 2011,Northampton Town FC,1-2,Swindon Town FC
-23,Sat Dec 31 2011,Torquay United FC,0-0,Oxford United FC
-24,Mon Jan 2 2012,Swindon Town FC,2-0,AFC Wimbledon
-24,Mon Jan 2 2012,Gillingham FC,1-0,Aldershot Town FC
+23,Sat Dec 31 2011,Bristol Rovers FC,2-5,Crewe Alexandra FC
+23,Sat Dec 31 2011,Bradford City AFC,3-1,Shrewsbury Town FC
+24,Mon Jan 2 2012,Accrington Stanley FC,4-0,Macclesfield Town FC
 24,Mon Jan 2 2012,Southend United FC,1-1,Dagenham & Redbridge FC
 24,Mon Jan 2 2012,Burton Albion FC,0-2,Hereford FC (2014-)
 24,Mon Jan 2 2012,Shrewsbury Town FC,1-1,Northampton Town FC
@@ -285,91 +284,90 @@ Matchday,Date,Team 1,FT,Team 2
 24,Mon Jan 2 2012,Oxford United FC,1-1,Crawley Town FC
 24,Mon Jan 2 2012,Barnet FC,2-0,Bristol Rovers FC
 24,Mon Jan 2 2012,Crewe Alexandra FC,0-1,Morecambe FC
-24,Mon Jan 2 2012,Accrington Stanley FC,4-0,Macclesfield Town FC
+24,Mon Jan 2 2012,Gillingham FC,1-0,Aldershot Town FC
+24,Mon Jan 2 2012,Swindon Town FC,2-0,AFC Wimbledon
 25,Fri Jan 6 2012,Burton Albion FC,0-2,Accrington Stanley FC
-25,Sat Jan 7 2012,Morecambe FC,1-2,Northampton Town FC
 25,Sat Jan 7 2012,Southend United FC,3-0,Port Vale FC
-25,Sat Jan 7 2012,Crewe Alexandra FC,3-2,Plymouth Argyle FC
+25,Sat Jan 7 2012,Morecambe FC,1-2,Northampton Town FC
 25,Sat Jan 7 2012,Aldershot Town FC,0-3,Oxford United FC
+25,Sat Jan 7 2012,Crewe Alexandra FC,3-2,Plymouth Argyle FC
 25,Tue Jan 10 2012,Hereford FC (2014-),1-2,Bristol Rovers FC
-26,Sat Jan 14 2012,Accrington Stanley FC,0-3,Barnet FC
-26,Sat Jan 14 2012,Bradford City AFC,2-2,Morecambe FC
-26,Sat Jan 14 2012,Bristol Rovers FC,0-0,Crawley Town FC
-26,Sat Jan 14 2012,Cheltenham Town FC,2-0,Aldershot Town FC
-26,Sat Jan 14 2012,Dagenham & Redbridge FC,0-1,Hereford FC (2014-)
-26,Sat Jan 14 2012,Macclesfield Town FC,1-2,Torquay United FC
-26,Sat Jan 14 2012,Northampton Town FC,2-5,Southend United FC
 26,Sat Jan 14 2012,Port Vale FC,1-2,AFC Wimbledon
 26,Sat Jan 14 2012,Rotherham United FC,1-2,Swindon Town FC
 26,Sat Jan 14 2012,Shrewsbury Town FC,2-0,Gillingham FC
 26,Sat Jan 14 2012,Plymouth Argyle FC,2-1,Burton Albion FC
 26,Sat Jan 14 2012,Oxford United FC,0-1,Crewe Alexandra FC
-27,Sat Jan 21 2012,Rotherham United FC,0-1,Port Vale FC
-27,Sat Jan 21 2012,Cheltenham Town FC,0-2,Bristol Rovers FC
-27,Sat Jan 21 2012,Bradford City AFC,1-1,Burton Albion FC
-27,Sat Jan 21 2012,Crewe Alexandra FC,4-1,Dagenham & Redbridge FC
-27,Sat Jan 21 2012,Oxford United FC,2-2,Hereford FC (2014-)
-27,Sat Jan 21 2012,Morecambe FC,1-2,Torquay United FC
-27,Sat Jan 21 2012,Northampton Town FC,1-2,Barnet FC
+26,Sat Jan 14 2012,Northampton Town FC,2-5,Southend United FC
+26,Sat Jan 14 2012,Macclesfield Town FC,1-2,Torquay United FC
+26,Sat Jan 14 2012,Dagenham & Redbridge FC,0-1,Hereford FC (2014-)
+26,Sat Jan 14 2012,Accrington Stanley FC,0-3,Barnet FC
+26,Sat Jan 14 2012,Bristol Rovers FC,0-0,Crawley Town FC
+26,Sat Jan 14 2012,Bradford City AFC,2-2,Morecambe FC
+26,Sat Jan 14 2012,Cheltenham Town FC,2-0,Aldershot Town FC
 27,Sat Jan 21 2012,Swindon Town FC,1-0,Macclesfield Town FC
 27,Sat Jan 21 2012,Shrewsbury Town FC,2-1,Southend United FC
 27,Sat Jan 21 2012,Aldershot Town FC,0-0,Accrington Stanley FC
 27,Sat Jan 21 2012,Plymouth Argyle FC,1-1,Crawley Town FC
+27,Sat Jan 21 2012,Oxford United FC,2-2,Hereford FC (2014-)
+27,Sat Jan 21 2012,Northampton Town FC,1-2,Barnet FC
+27,Sat Jan 21 2012,Morecambe FC,1-2,Torquay United FC
 27,Sat Jan 21 2012,Gillingham FC,3-4,AFC Wimbledon
+27,Sat Jan 21 2012,Crewe Alexandra FC,4-1,Dagenham & Redbridge FC
+27,Sat Jan 21 2012,Cheltenham Town FC,0-2,Bristol Rovers FC
+27,Sat Jan 21 2012,Bradford City AFC,1-1,Burton Albion FC
+27,Sat Jan 21 2012,Rotherham United FC,0-1,Port Vale FC
 25,Tue Jan 24 2012,Torquay United FC,1-0,Dagenham & Redbridge FC
 25,Tue Jan 24 2012,AFC Wimbledon,2-1,Macclesfield Town FC
-28,Sat Jan 28 2012,Bristol Rovers FC,2-1,Bradford City AFC
-28,Sat Jan 28 2012,Barnet FC,2-0,Crewe Alexandra FC
-28,Sat Jan 28 2012,Macclesfield Town FC,1-3,Cheltenham Town FC
-28,Sat Jan 28 2012,AFC Wimbledon,1-2,Aldershot Town FC
-28,Sat Jan 28 2012,Dagenham & Redbridge FC,3-2,Rotherham United FC
-28,Sat Jan 28 2012,Hereford FC (2014-),0-2,Shrewsbury Town FC
+28,Sat Jan 28 2012,Accrington Stanley FC,4-3,Gillingham FC
 28,Sat Jan 28 2012,Torquay United FC,1-0,Northampton Town FC
 28,Sat Jan 28 2012,Port Vale FC,1-0,Plymouth Argyle FC
-28,Sat Jan 28 2012,Accrington Stanley FC,4-3,Gillingham FC
+28,Sat Jan 28 2012,Hereford FC (2014-),0-2,Shrewsbury Town FC
+28,Sat Jan 28 2012,Dagenham & Redbridge FC,3-2,Rotherham United FC
+28,Sat Jan 28 2012,Bristol Rovers FC,2-1,Bradford City AFC
+28,Sat Jan 28 2012,Barnet FC,2-0,Crewe Alexandra FC
+28,Sat Jan 28 2012,AFC Wimbledon,1-2,Aldershot Town FC
+28,Sat Jan 28 2012,Macclesfield Town FC,1-3,Cheltenham Town FC
 28,Sun Jan 29 2012,Burton Albion FC,1-1,Oxford United FC
 28,Tue Jan 31 2012,Southend United FC,1-4,Swindon Town FC
 29,Sat Feb 4 2012,Plymouth Argyle FC,2-2,Southend United FC
 25,Tue Feb 7 2012,Crawley Town FC,4-2,Cheltenham Town FC
 30,Fri Feb 10 2012,Southend United FC,0-2,Rotherham United FC
 30,Sat Feb 11 2012,Torquay United FC,1-0,Shrewsbury Town FC
-30,Sat Feb 11 2012,Bristol Rovers FC,2-1,Morecambe FC
 30,Sat Feb 11 2012,Hereford FC (2014-),1-1,Cheltenham Town FC
+30,Sat Feb 11 2012,Bristol Rovers FC,2-1,Morecambe FC
 31,Mon Feb 13 2012,Gillingham FC,1-2,Southend United FC
-31,Tue Feb 14 2012,Morecambe FC,1-0,Macclesfield Town FC
 31,Tue Feb 14 2012,Swindon Town FC,3-0,Crawley Town FC
 31,Tue Feb 14 2012,Shrewsbury Town FC,1-0,Bristol Rovers FC
 31,Tue Feb 14 2012,Rotherham United FC,1-0,Accrington Stanley FC
 31,Tue Feb 14 2012,Plymouth Argyle FC,0-0,Barnet FC
 31,Tue Feb 14 2012,Oxford United FC,2-1,Dagenham & Redbridge FC
 31,Tue Feb 14 2012,Northampton Town FC,1-0,AFC Wimbledon
-31,Tue Feb 14 2012,Bradford City AFC,1-1,Port Vale FC
-31,Tue Feb 14 2012,Cheltenham Town FC,0-1,Torquay United FC
-31,Tue Feb 14 2012,Crewe Alexandra FC,3-2,Burton Albion FC
 31,Tue Feb 14 2012,Aldershot Town FC,1-0,Hereford FC (2014-)
-32,Sat Feb 18 2012,Bristol Rovers FC,0-0,Oxford United FC
-32,Sat Feb 18 2012,Barnet FC,1-2,Shrewsbury Town FC
-32,Sat Feb 18 2012,AFC Wimbledon,1-1,Morecambe FC
-32,Sat Feb 18 2012,Dagenham & Redbridge FC,0-5,Cheltenham Town FC
-32,Sat Feb 18 2012,Burton Albion FC,1-1,Rotherham United FC
+31,Tue Feb 14 2012,Crewe Alexandra FC,3-2,Burton Albion FC
+31,Tue Feb 14 2012,Cheltenham Town FC,0-1,Torquay United FC
+31,Tue Feb 14 2012,Bradford City AFC,1-1,Port Vale FC
+31,Tue Feb 14 2012,Morecambe FC,1-0,Macclesfield Town FC
 32,Sat Feb 18 2012,Torquay United FC,1-2,Bradford City AFC
 32,Sat Feb 18 2012,Southend United FC,1-0,Crewe Alexandra FC
 32,Sat Feb 18 2012,Port Vale FC,2-1,Gillingham FC
 32,Sat Feb 18 2012,Macclesfield Town FC,0-1,Aldershot Town FC
 32,Sat Feb 18 2012,Hereford FC (2014-),1-2,Swindon Town FC
 32,Sat Feb 18 2012,Accrington Stanley FC,0-4,Plymouth Argyle FC
+32,Sat Feb 18 2012,Burton Albion FC,1-1,Rotherham United FC
+32,Sat Feb 18 2012,Bristol Rovers FC,0-0,Oxford United FC
+32,Sat Feb 18 2012,Barnet FC,1-2,Shrewsbury Town FC
+32,Sat Feb 18 2012,AFC Wimbledon,1-1,Morecambe FC
+32,Sat Feb 18 2012,Dagenham & Redbridge FC,0-5,Cheltenham Town FC
 22,Tue Feb 21 2012,Aldershot Town FC,2-0,Southend United FC
-29,Tue Feb 21 2012,Northampton Town FC,3-2,Macclesfield Town FC
 25,Tue Feb 21 2012,Swindon Town FC,2-1,Shrewsbury Town FC
 25,Tue Feb 21 2012,Gillingham FC,0-0,Rotherham United FC
-29,Tue Feb 21 2012,Cheltenham Town FC,0-0,AFC Wimbledon
+29,Tue Feb 21 2012,Northampton Town FC,3-2,Macclesfield Town FC
 29,Tue Feb 21 2012,Oxford United FC,2-1,Barnet FC
+29,Tue Feb 21 2012,Cheltenham Town FC,0-0,AFC Wimbledon
 29,Tue Feb 21 2012,Crewe Alexandra FC,2-0,Accrington Stanley FC
 28,Wed Feb 22 2012,Crawley Town FC,1-1,Morecambe FC
 33,Sat Feb 25 2012,Rotherham United FC,0-1,Bristol Rovers FC
 33,Sat Feb 25 2012,Swindon Town FC,2-0,Accrington Stanley FC
-33,Sat Feb 25 2012,Aldershot Town FC,4-1,Barnet FC
-33,Sat Feb 25 2012,Bradford City AFC,1-1,Hereford FC (2014-)
 33,Sat Feb 25 2012,Plymouth Argyle FC,0-0,Dagenham & Redbridge FC
 33,Sat Feb 25 2012,Oxford United FC,1-1,Macclesfield Town FC
 33,Sat Feb 25 2012,Northampton Town FC,1-2,Port Vale FC
@@ -377,109 +375,108 @@ Matchday,Date,Team 1,FT,Team 2
 33,Sat Feb 25 2012,Gillingham FC,2-0,Torquay United FC
 33,Sat Feb 25 2012,Crewe Alexandra FC,3-3,AFC Wimbledon
 33,Sat Feb 25 2012,Cheltenham Town FC,2-0,Burton Albion FC
+33,Sat Feb 25 2012,Bradford City AFC,1-1,Hereford FC (2014-)
+33,Sat Feb 25 2012,Aldershot Town FC,4-1,Barnet FC
 33,Mon Feb 27 2012,Shrewsbury Town FC,2-1,Crawley Town FC
-29,Tue Feb 28 2012,Morecambe FC,1-2,Dagenham & Redbridge FC
 25,Tue Feb 28 2012,Barnet FC,0-4,Bradford City AFC
-30,Tue Feb 28 2012,Macclesfield Town FC,1-1,Plymouth Argyle FC
+29,Tue Feb 28 2012,Morecambe FC,1-2,Dagenham & Redbridge FC
 29,Tue Feb 28 2012,Swindon Town FC,2-0,Burton Albion FC
 29,Tue Feb 28 2012,Gillingham FC,5-4,Hereford FC (2014-)
+30,Tue Feb 28 2012,Macclesfield Town FC,1-1,Plymouth Argyle FC
 30,Tue Feb 28 2012,Port Vale FC,1-1,Crewe Alexandra FC
-34,Sat Mar 3 2012,Aldershot Town FC,1-0,Morecambe FC
-34,Sat Mar 3 2012,Plymouth Argyle FC,0-1,Gillingham FC
 34,Sat Mar 3 2012,Hereford FC (2014-),2-1,AFC Wimbledon
-34,Sat Mar 3 2012,Barnet FC,1-1,Rotherham United FC
-34,Sat Mar 3 2012,Bristol Rovers FC,0-0,Macclesfield Town FC
-34,Sat Mar 3 2012,Cheltenham Town FC,2-2,Northampton Town FC
+34,Sat Mar 3 2012,Plymouth Argyle FC,0-1,Gillingham FC
 34,Sat Mar 3 2012,Oxford United FC,2-0,Swindon Town FC
-34,Sat Mar 3 2012,Burton Albion FC,0-2,Southend United FC
 34,Sat Mar 3 2012,Dagenham & Redbridge FC,1-0,Bradford City AFC
 34,Sat Mar 3 2012,Accrington Stanley FC,2-2,Port Vale FC
 34,Sat Mar 3 2012,Crawley Town FC,0-1,Torquay United FC
+34,Sat Mar 3 2012,Cheltenham Town FC,2-2,Northampton Town FC
+34,Sat Mar 3 2012,Burton Albion FC,0-2,Southend United FC
+34,Sat Mar 3 2012,Bristol Rovers FC,0-0,Macclesfield Town FC
+34,Sat Mar 3 2012,Barnet FC,1-1,Rotherham United FC
+34,Sat Mar 3 2012,Aldershot Town FC,1-0,Morecambe FC
 34,Sat Mar 3 2012,Crewe Alexandra FC,1-1,Shrewsbury Town FC
 35,Mon Mar 5 2012,Southend United FC,0-0,Crawley Town FC
-35,Tue Mar 6 2012,Macclesfield Town FC,2-2,Hereford FC (2014-)
 35,Tue Mar 6 2012,Torquay United FC,1-0,Aldershot Town FC
-35,Tue Mar 6 2012,Bradford City AFC,1-1,Accrington Stanley FC
-35,Tue Mar 6 2012,Gillingham FC,3-1,Barnet FC
 35,Tue Mar 6 2012,Swindon Town FC,4-0,Dagenham & Redbridge FC
-35,Tue Mar 6 2012,Morecambe FC,3-1,Cheltenham Town FC
-35,Tue Mar 6 2012,Northampton Town FC,3-2,Bristol Rovers FC
-35,Tue Mar 6 2012,Port Vale FC,3-0,Burton Albion FC
-35,Tue Mar 6 2012,Rotherham United FC,1-1,Crewe Alexandra FC
 35,Tue Mar 6 2012,Shrewsbury Town FC,2-2,Oxford United FC
+35,Tue Mar 6 2012,Rotherham United FC,1-1,Crewe Alexandra FC
+35,Tue Mar 6 2012,Port Vale FC,3-0,Burton Albion FC
+35,Tue Mar 6 2012,Northampton Town FC,3-2,Bristol Rovers FC
+35,Tue Mar 6 2012,Morecambe FC,3-1,Cheltenham Town FC
+35,Tue Mar 6 2012,Macclesfield Town FC,2-2,Hereford FC (2014-)
+35,Tue Mar 6 2012,Gillingham FC,3-1,Barnet FC
+35,Tue Mar 6 2012,Bradford City AFC,1-1,Accrington Stanley FC
 35,Tue Mar 6 2012,AFC Wimbledon,1-2,Plymouth Argyle FC
-36,Sat Mar 10 2012,Gillingham FC,3-4,Crewe Alexandra FC
-36,Sat Mar 10 2012,Bradford City AFC,2-1,Oxford United FC
-36,Sat Mar 10 2012,AFC Wimbledon,2-1,Dagenham & Redbridge FC
-36,Sat Mar 10 2012,Macclesfield Town FC,2-2,Crawley Town FC
-36,Sat Mar 10 2012,Rotherham United FC,1-0,Plymouth Argyle FC
-36,Sat Mar 10 2012,Shrewsbury Town FC,1-0,Burton Albion FC
-36,Sat Mar 10 2012,Southend United FC,2-2,Accrington Stanley FC
-36,Sat Mar 10 2012,Morecambe FC,0-1,Hereford FC (2014-)
 36,Sat Mar 10 2012,Torquay United FC,2-2,Bristol Rovers FC
-36,Sat Mar 10 2012,Port Vale FC,1-2,Barnet FC
 36,Sat Mar 10 2012,Swindon Town FC,1-0,Cheltenham Town FC
+36,Sat Mar 10 2012,Southend United FC,2-2,Accrington Stanley FC
+36,Sat Mar 10 2012,Shrewsbury Town FC,1-0,Burton Albion FC
+36,Sat Mar 10 2012,Rotherham United FC,1-0,Plymouth Argyle FC
+36,Sat Mar 10 2012,Port Vale FC,1-2,Barnet FC
 36,Sat Mar 10 2012,Northampton Town FC,3-1,Aldershot Town FC
+36,Sat Mar 10 2012,Morecambe FC,0-1,Hereford FC (2014-)
+36,Sat Mar 10 2012,Macclesfield Town FC,2-2,Crawley Town FC
+36,Sat Mar 10 2012,Gillingham FC,3-4,Crewe Alexandra FC
+36,Sat Mar 10 2012,AFC Wimbledon,2-1,Dagenham & Redbridge FC
+36,Sat Mar 10 2012,Bradford City AFC,2-1,Oxford United FC
 29,Tue Mar 13 2012,Rotherham United FC,0-1,Torquay United FC
 30,Tue Mar 13 2012,Crawley Town FC,2-2,Aldershot Town FC
 30,Tue Mar 13 2012,Dagenham & Redbridge FC,0-1,Northampton Town FC
 30,Tue Mar 13 2012,AFC Wimbledon,3-1,Bradford City AFC
-37,Sat Mar 17 2012,Barnet FC,0-2,Morecambe FC
-37,Sat Mar 17 2012,Cheltenham Town FC,0-3,Gillingham FC
-37,Sat Mar 17 2012,Aldershot Town FC,1-0,Bradford City AFC
-37,Sat Mar 17 2012,Accrington Stanley FC,2-1,Northampton Town FC
-37,Sat Mar 17 2012,Bristol Rovers FC,1-0,AFC Wimbledon
-37,Sat Mar 17 2012,Burton Albion FC,1-4,Torquay United FC
-37,Sat Mar 17 2012,Crawley Town FC,3-2,Port Vale FC
 37,Sat Mar 17 2012,Dagenham & Redbridge FC,2-0,Macclesfield Town FC
 37,Sat Mar 17 2012,Oxford United FC,2-1,Rotherham United FC
 37,Sat Mar 17 2012,Hereford FC (2014-),2-3,Southend United FC
 37,Sat Mar 17 2012,Plymouth Argyle FC,1-0,Shrewsbury Town FC
 37,Sat Mar 17 2012,Crewe Alexandra FC,2-0,Swindon Town FC
-38,Tue Mar 20 2012,Crewe Alexandra FC,1-0,Bradford City AFC
-38,Tue Mar 20 2012,Plymouth Argyle FC,1-1,Bristol Rovers FC
-38,Tue Mar 20 2012,Rotherham United FC,4-2,Macclesfield Town FC
-38,Tue Mar 20 2012,Gillingham FC,0-1,Crawley Town FC
-38,Tue Mar 20 2012,Barnet FC,2-2,Dagenham & Redbridge FC
-38,Tue Mar 20 2012,Burton Albion FC,0-1,Northampton Town FC
-38,Tue Mar 20 2012,Oxford United FC,1-0,AFC Wimbledon
-38,Tue Mar 20 2012,Port Vale FC,1-0,Hereford FC (2014-)
+37,Sat Mar 17 2012,Crawley Town FC,3-2,Port Vale FC
+37,Sat Mar 17 2012,Cheltenham Town FC,0-3,Gillingham FC
+37,Sat Mar 17 2012,Burton Albion FC,1-4,Torquay United FC
+37,Sat Mar 17 2012,Bristol Rovers FC,1-0,AFC Wimbledon
+37,Sat Mar 17 2012,Accrington Stanley FC,2-1,Northampton Town FC
+37,Sat Mar 17 2012,Aldershot Town FC,1-0,Bradford City AFC
+37,Sat Mar 17 2012,Barnet FC,0-2,Morecambe FC
+38,Tue Mar 20 2012,Swindon Town FC,2-0,Torquay United FC
 38,Tue Mar 20 2012,Southend United FC,0-0,Aldershot Town FC
 38,Tue Mar 20 2012,Shrewsbury Town FC,2-0,Cheltenham Town FC
 38,Tue Mar 20 2012,Accrington Stanley FC,1-1,Morecambe FC
-38,Tue Mar 20 2012,Swindon Town FC,2-0,Torquay United FC
+38,Tue Mar 20 2012,Port Vale FC,1-0,Hereford FC (2014-)
+38,Tue Mar 20 2012,Plymouth Argyle FC,1-1,Bristol Rovers FC
+38,Tue Mar 20 2012,Oxford United FC,1-0,AFC Wimbledon
+38,Tue Mar 20 2012,Gillingham FC,0-1,Crawley Town FC
+38,Tue Mar 20 2012,Crewe Alexandra FC,1-0,Bradford City AFC
+38,Tue Mar 20 2012,Burton Albion FC,0-1,Northampton Town FC
+38,Tue Mar 20 2012,Barnet FC,2-2,Dagenham & Redbridge FC
+38,Tue Mar 20 2012,Rotherham United FC,4-2,Macclesfield Town FC
 39,Fri Mar 23 2012,Macclesfield Town FC,0-0,Barnet FC
-39,Sat Mar 24 2012,Torquay United FC,2-1,Port Vale FC
-39,Sat Mar 24 2012,Bristol Rovers FC,1-0,Southend United FC
-39,Sat Mar 24 2012,Dagenham & Redbridge FC,2-1,Accrington Stanley FC
-39,Sat Mar 24 2012,Bradford City AFC,2-2,Gillingham FC
-39,Sat Mar 24 2012,Cheltenham Town FC,0-0,Oxford United FC
-39,Sat Mar 24 2012,Crawley Town FC,3-0,Rotherham United FC
-39,Sat Mar 24 2012,Hereford FC (2014-),0-1,Crewe Alexandra FC
 39,Sat Mar 24 2012,AFC Wimbledon,4-0,Burton Albion FC
 39,Sat Mar 24 2012,Northampton Town FC,0-0,Plymouth Argyle FC
 39,Sat Mar 24 2012,Morecambe FC,0-1,Shrewsbury Town FC
+39,Sat Mar 24 2012,Hereford FC (2014-),0-1,Crewe Alexandra FC
+39,Sat Mar 24 2012,Torquay United FC,2-1,Port Vale FC
+39,Sat Mar 24 2012,Crawley Town FC,3-0,Rotherham United FC
+39,Sat Mar 24 2012,Cheltenham Town FC,0-0,Oxford United FC
+39,Sat Mar 24 2012,Bristol Rovers FC,1-0,Southend United FC
+39,Sat Mar 24 2012,Bradford City AFC,2-2,Gillingham FC
+39,Sat Mar 24 2012,Dagenham & Redbridge FC,2-1,Accrington Stanley FC
 29,Tue Mar 27 2012,Aldershot Town FC,1-0,Bristol Rovers FC
 29,Tue Mar 27 2012,Bradford City AFC,1-2,Crawley Town FC
-30,Tue Mar 27 2012,Accrington Stanley FC,0-2,Oxford United FC
 30,Tue Mar 27 2012,Burton Albion FC,1-0,Gillingham FC
+30,Tue Mar 27 2012,Accrington Stanley FC,0-2,Oxford United FC
 40,Fri Mar 30 2012,Southend United FC,4-0,Cheltenham Town FC
 40,Fri Mar 30 2012,Barnet FC,0-1,Torquay United FC
-40,Sat Mar 31 2012,Accrington Stanley FC,2-1,AFC Wimbledon
-40,Sat Mar 31 2012,Crewe Alexandra FC,1-1,Northampton Town FC
-40,Sat Mar 31 2012,Gillingham FC,2-0,Macclesfield Town FC
-40,Sat Mar 31 2012,Burton Albion FC,0-0,Crawley Town FC
 40,Sat Mar 31 2012,Shrewsbury Town FC,1-1,Aldershot Town FC
 40,Sat Mar 31 2012,Swindon Town FC,0-0,Bristol Rovers FC
-40,Sat Mar 31 2012,Oxford United FC,1-2,Morecambe FC
+40,Sat Mar 31 2012,Rotherham United FC,1-0,Hereford FC (2014-)
 40,Sat Mar 31 2012,Port Vale FC,0-1,Dagenham & Redbridge FC
 40,Sat Mar 31 2012,Plymouth Argyle FC,1-0,Bradford City AFC
-40,Sat Mar 31 2012,Rotherham United FC,1-0,Hereford FC (2014-)
+40,Sat Mar 31 2012,Oxford United FC,1-2,Morecambe FC
+40,Sat Mar 31 2012,Gillingham FC,2-0,Macclesfield Town FC
+40,Sat Mar 31 2012,Crewe Alexandra FC,1-1,Northampton Town FC
+40,Sat Mar 31 2012,Accrington Stanley FC,2-1,AFC Wimbledon
+40,Sat Mar 31 2012,Burton Albion FC,0-0,Crawley Town FC
 30,Tue Apr 3 2012,Barnet FC,0-2,Swindon Town FC
 41,Fri Apr 6 2012,Cheltenham Town FC,2-0,Barnet FC
-41,Fri Apr 6 2012,Northampton Town FC,2-1,Oxford United FC
-41,Fri Apr 6 2012,AFC Wimbledon,1-2,Rotherham United FC
-41,Fri Apr 6 2012,Macclesfield Town FC,1-3,Shrewsbury Town FC
 41,Fri Apr 6 2012,Morecambe FC,0-1,Swindon Town FC
 41,Fri Apr 6 2012,Hereford FC (2014-),1-1,Plymouth Argyle FC
 41,Fri Apr 6 2012,Dagenham & Redbridge FC,1-1,Burton Albion FC
@@ -488,22 +485,22 @@ Matchday,Date,Team 1,FT,Team 2
 41,Fri Apr 6 2012,Bristol Rovers FC,2-2,Gillingham FC
 41,Fri Apr 6 2012,Bradford City AFC,2-0,Southend United FC
 41,Fri Apr 6 2012,Aldershot Town FC,1-2,Port Vale FC
-42,Mon Apr 9 2012,Rotherham United FC,1-0,Cheltenham Town FC
-42,Mon Apr 9 2012,Accrington Stanley FC,2-1,Hereford FC (2014-)
-42,Mon Apr 9 2012,Burton Albion FC,3-2,Morecambe FC
+41,Fri Apr 6 2012,Macclesfield Town FC,1-3,Shrewsbury Town FC
+41,Fri Apr 6 2012,Northampton Town FC,2-1,Oxford United FC
+41,Fri Apr 6 2012,AFC Wimbledon,1-2,Rotherham United FC
 42,Mon Apr 9 2012,Swindon Town FC,1-0,Northampton Town FC
 42,Mon Apr 9 2012,Southend United FC,2-0,AFC Wimbledon
 42,Mon Apr 9 2012,Shrewsbury Town FC,1-0,Bradford City AFC
-42,Mon Apr 9 2012,Barnet FC,1-2,Crawley Town FC
-42,Mon Apr 9 2012,Crewe Alexandra FC,3-0,Bristol Rovers FC
+42,Mon Apr 9 2012,Rotherham United FC,1-0,Cheltenham Town FC
+42,Mon Apr 9 2012,Port Vale FC,1-0,Macclesfield Town FC
 42,Mon Apr 9 2012,Plymouth Argyle FC,1-0,Aldershot Town FC
 42,Mon Apr 9 2012,Oxford United FC,2-2,Torquay United FC
 42,Mon Apr 9 2012,Gillingham FC,1-2,Dagenham & Redbridge FC
-42,Mon Apr 9 2012,Port Vale FC,1-0,Macclesfield Town FC
+42,Mon Apr 9 2012,Crewe Alexandra FC,3-0,Bristol Rovers FC
+42,Mon Apr 9 2012,Burton Albion FC,3-2,Morecambe FC
+42,Mon Apr 9 2012,Barnet FC,1-2,Crawley Town FC
+42,Mon Apr 9 2012,Accrington Stanley FC,2-1,Hereford FC (2014-)
 43,Fri Apr 13 2012,Barnet FC,1-1,Hereford FC (2014-)
-43,Sat Apr 14 2012,Bristol Rovers FC,7-1,Burton Albion FC
-43,Sat Apr 14 2012,Cheltenham Town FC,1-1,Accrington Stanley FC
-43,Sat Apr 14 2012,Macclesfield Town FC,2-2,Crewe Alexandra FC
 43,Sat Apr 14 2012,Northampton Town FC,1-3,Bradford City AFC
 43,Sat Apr 14 2012,Swindon Town FC,1-0,Plymouth Argyle FC
 43,Sat Apr 14 2012,Shrewsbury Town FC,3-1,Rotherham United FC
@@ -512,33 +509,36 @@ Matchday,Date,Team 1,FT,Team 2
 43,Sat Apr 14 2012,Morecambe FC,0-0,Port Vale FC
 43,Sat Apr 14 2012,Aldershot Town FC,1-1,Dagenham & Redbridge FC
 43,Sat Apr 14 2012,Crawley Town FC,4-1,AFC Wimbledon
+43,Sat Apr 14 2012,Cheltenham Town FC,1-1,Accrington Stanley FC
+43,Sat Apr 14 2012,Bristol Rovers FC,7-1,Burton Albion FC
+43,Sat Apr 14 2012,Macclesfield Town FC,2-2,Crewe Alexandra FC
+29,Tue Apr 17 2012,Shrewsbury Town FC,1-0,Port Vale FC
 32,Tue Apr 17 2012,Crawley Town FC,3-1,Northampton Town FC
 39,Tue Apr 17 2012,Aldershot Town FC,2-1,Swindon Town FC
-29,Tue Apr 17 2012,Shrewsbury Town FC,1-0,Port Vale FC
 44,Fri Apr 20 2012,Southend United FC,3-0,Barnet FC
-44,Sat Apr 21 2012,Rotherham United FC,3-2,Morecambe FC
+44,Sat Apr 21 2012,Accrington Stanley FC,1-1,Shrewsbury Town FC
 44,Sat Apr 21 2012,Port Vale FC,1-0,Bristol Rovers FC
 44,Sat Apr 21 2012,Plymouth Argyle FC,1-1,Oxford United FC
-44,Sat Apr 21 2012,Accrington Stanley FC,1-1,Shrewsbury Town FC
+44,Sat Apr 21 2012,Rotherham United FC,3-2,Morecambe FC
 44,Sat Apr 21 2012,Gillingham FC,3-1,Swindon Town FC
 44,Sat Apr 21 2012,Dagenham & Redbridge FC,1-1,Crawley Town FC
 44,Sat Apr 21 2012,Crewe Alexandra FC,1-0,Cheltenham Town FC
 44,Sat Apr 21 2012,Burton Albion FC,0-4,Aldershot Town FC
 44,Sat Apr 21 2012,Bradford City AFC,1-0,Macclesfield Town FC
-44,Sat Apr 21 2012,Hereford FC (2014-),0-0,Northampton Town FC
 44,Sat Apr 21 2012,AFC Wimbledon,2-0,Torquay United FC
+44,Sat Apr 21 2012,Hereford FC (2014-),0-0,Northampton Town FC
 45,Sat Apr 28 2012,Torquay United FC,1-1,Crewe Alexandra FC
 45,Sat Apr 28 2012,Swindon Town FC,5-0,Port Vale FC
 45,Sat Apr 28 2012,Shrewsbury Town FC,1-0,Dagenham & Redbridge FC
 45,Sat Apr 28 2012,Oxford United FC,0-2,Southend United FC
 45,Sat Apr 28 2012,Northampton Town FC,1-1,Gillingham FC
-45,Sat Apr 28 2012,Aldershot Town FC,2-2,Rotherham United FC
+45,Sat Apr 28 2012,Morecambe FC,2-2,Plymouth Argyle FC
 45,Sat Apr 28 2012,Macclesfield Town FC,0-2,Burton Albion FC
 45,Sat Apr 28 2012,Crawley Town FC,0-3,Hereford FC (2014-)
 45,Sat Apr 28 2012,Cheltenham Town FC,3-1,Bradford City AFC
 45,Sat Apr 28 2012,Bristol Rovers FC,5-1,Accrington Stanley FC
 45,Sat Apr 28 2012,Barnet FC,4-0,AFC Wimbledon
-45,Sat Apr 28 2012,Morecambe FC,2-2,Plymouth Argyle FC
+45,Sat Apr 28 2012,Aldershot Town FC,2-2,Rotherham United FC
 46,Sat May 5 2012,Southend United FC,2-0,Macclesfield Town FC
 46,Sat May 5 2012,Rotherham United FC,1-0,Northampton Town FC
 46,Sat May 5 2012,Port Vale FC,3-0,Oxford United FC

@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 5 2006,Tranmere Rovers FC,1-0,Oldham Athletic AFC
 1,Sat Aug 5 2006,Swansea City FC,1-2,Cheltenham Town FC
 1,Sat Aug 5 2006,Rotherham United FC,0-1,Brighton & Hove Albion FC
@@ -16,19 +16,19 @@ Matchday,Date,Team 1,FT,Team 2
 2,Tue Aug 8 2006,Oldham Athletic AFC,0-1,Port Vale FC
 2,Tue Aug 8 2006,Northampton Town FC,0-1,Brentford FC
 2,Tue Aug 8 2006,Leyton Orient FC,2-0,Millwall FC
-2,Tue Aug 8 2006,Huddersfield Town AFC,3-0,Rotherham United FC
+2,Tue Aug 8 2006,Blackpool FC,0-2,Nottingham Forest FC
 2,Tue Aug 8 2006,Doncaster Rovers FC,3-1,Crewe Alexandra FC
 2,Tue Aug 8 2006,Cheltenham Town FC,1-0,Tranmere Rovers FC
 2,Tue Aug 8 2006,Brighton & Hove Albion FC,1-0,Gillingham FC
 2,Tue Aug 8 2006,Bradford City AFC,2-1,Bristol City FC
-2,Tue Aug 8 2006,Blackpool FC,0-2,Nottingham Forest FC
+2,Tue Aug 8 2006,Huddersfield Town AFC,3-0,Rotherham United FC
 2,Wed Aug 9 2006,Chesterfield FC,0-0,Carlisle United FC
-3,Sat Aug 12 2006,Yeovil Town FC,2-1,Carlisle United FC
+3,Sat Aug 12 2006,Huddersfield Town AFC,2-1,Bristol City FC
 3,Sat Aug 12 2006,Scunthorpe United FC,2-2,Crewe Alexandra FC
 3,Sat Aug 12 2006,Oldham Athletic AFC,1-0,Swansea City FC
 3,Sat Aug 12 2006,Northampton Town FC,0-1,Nottingham Forest FC
 3,Sat Aug 12 2006,Leyton Orient FC,3-2,AFC Bournemouth
-3,Sat Aug 12 2006,Huddersfield Town AFC,2-1,Bristol City FC
+3,Sat Aug 12 2006,Yeovil Town FC,2-1,Carlisle United FC
 3,Sat Aug 12 2006,Doncaster Rovers FC,0-0,Tranmere Rovers FC
 3,Sat Aug 12 2006,Chesterfield FC,5-1,Millwall FC
 3,Sat Aug 12 2006,Cheltenham Town FC,0-1,Port Vale FC
@@ -45,17 +45,17 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sat Aug 19 2006,Crewe Alexandra FC,0-3,Bradford City AFC
 4,Sat Aug 19 2006,Carlisle United FC,3-1,Leyton Orient FC
 4,Sat Aug 19 2006,Bristol City FC,2-4,Blackpool FC
-4,Sat Aug 19 2006,Brentford FC,2-2,Huddersfield Town AFC
 4,Sat Aug 19 2006,AFC Bournemouth,2-1,Cheltenham Town FC
+4,Sat Aug 19 2006,Brentford FC,2-2,Huddersfield Town AFC
 5,Sat Aug 26 2006,Huddersfield Town AFC,1-1,Nottingham Forest FC
 5,Sat Aug 26 2006,Yeovil Town FC,1-0,Port Vale FC
 5,Sat Aug 26 2006,Scunthorpe United FC,1-1,Brentford FC
 5,Sat Aug 26 2006,Leyton Orient FC,0-1,Swansea City FC
 5,Sat Aug 26 2006,Doncaster Rovers FC,1-1,AFC Bournemouth
-5,Sat Aug 26 2006,Chesterfield FC,0-2,Tranmere Rovers FC
+5,Sat Aug 26 2006,Blackpool FC,1-1,Gillingham FC
 5,Sat Aug 26 2006,Cheltenham Town FC,3-2,Millwall FC
 5,Sat Aug 26 2006,Bradford City AFC,1-1,Rotherham United FC
-5,Sat Aug 26 2006,Blackpool FC,1-1,Gillingham FC
+5,Sat Aug 26 2006,Chesterfield FC,0-2,Tranmere Rovers FC
 5,Sun Aug 27 2006,Oldham Athletic AFC,0-0,Carlisle United FC
 5,Sun Aug 27 2006,Brighton & Hove Albion FC,1-4,Crewe Alexandra FC
 5,Tue Aug 29 2006,Northampton Town FC,1-3,Bristol City FC
@@ -63,12 +63,12 @@ Matchday,Date,Team 1,FT,Team 2
 6,Fri Sep 1 2006,Rotherham United FC,1-2,Northampton Town FC
 6,Fri Sep 1 2006,Gillingham FC,0-2,Scunthorpe United FC
 6,Sat Sep 2 2006,Crewe Alexandra FC,2-0,Huddersfield Town AFC
-6,Sat Sep 2 2006,Tranmere Rovers FC,3-0,Leyton Orient FC
+6,Sat Sep 2 2006,AFC Bournemouth,3-2,Oldham Athletic AFC
 6,Sat Sep 2 2006,Nottingham Forest FC,4-0,Chesterfield FC
 6,Sat Sep 2 2006,Millwall FC,0-0,Blackpool FC
 6,Sat Sep 2 2006,Bristol City FC,1-0,Brighton & Hove Albion FC
 6,Sat Sep 2 2006,Brentford FC,2-1,Bradford City AFC
-6,Sat Sep 2 2006,AFC Bournemouth,3-2,Oldham Athletic AFC
+6,Sat Sep 2 2006,Tranmere Rovers FC,3-0,Leyton Orient FC
 6,Sun Sep 3 2006,Port Vale FC,1-2,Doncaster Rovers FC
 6,Sun Sep 3 2006,Carlisle United FC,2-0,Cheltenham Town FC
 7,Fri Sep 8 2006,Tranmere Rovers FC,1-0,Bristol City FC
@@ -88,13 +88,13 @@ Matchday,Date,Team 1,FT,Team 2
 8,Tue Sep 12 2006,Nottingham Forest FC,0-2,Oldham Athletic AFC
 8,Tue Sep 12 2006,Northampton Town FC,1-1,Yeovil Town FC
 8,Tue Sep 12 2006,Huddersfield Town AFC,0-0,Doncaster Rovers FC
-8,Tue Sep 12 2006,Gillingham FC,2-1,Millwall FC
+8,Tue Sep 12 2006,Blackpool FC,1-1,Chesterfield FC
 8,Tue Sep 12 2006,Crewe Alexandra FC,3-1,Cheltenham Town FC
 8,Tue Sep 12 2006,Bristol City FC,2-1,Leyton Orient FC
 8,Tue Sep 12 2006,Brighton & Hove Albion FC,2-2,AFC Bournemouth
 8,Tue Sep 12 2006,Brentford FC,0-2,Swansea City FC
 8,Tue Sep 12 2006,Bradford City AFC,1-1,Carlisle United FC
-8,Tue Sep 12 2006,Blackpool FC,1-1,Chesterfield FC
+8,Tue Sep 12 2006,Gillingham FC,2-1,Millwall FC
 9,Sat Sep 16 2006,Scunthorpe United FC,1-0,Cheltenham Town FC
 9,Sat Sep 16 2006,Rotherham United FC,0-0,Doncaster Rovers FC
 9,Sat Sep 16 2006,Nottingham Forest FC,0-0,Carlisle United FC
@@ -124,49 +124,49 @@ Matchday,Date,Team 1,FT,Team 2
 11,Tue Sep 26 2006,Swansea City FC,2-1,Crewe Alexandra FC
 11,Tue Sep 26 2006,Port Vale FC,1-1,Nottingham Forest FC
 11,Tue Sep 26 2006,Oldham Athletic AFC,2-1,Rotherham United FC
-11,Tue Sep 26 2006,Millwall FC,1-1,Brentford FC
+11,Tue Sep 26 2006,AFC Bournemouth,0-1,Bristol City FC
 11,Tue Sep 26 2006,Leyton Orient FC,3-3,Gillingham FC
 11,Tue Sep 26 2006,Doncaster Rovers FC,3-3,Bradford City AFC
 11,Tue Sep 26 2006,Cheltenham Town FC,0-2,Northampton Town FC
 11,Tue Sep 26 2006,Carlisle United FC,2-0,Blackpool FC
-11,Tue Sep 26 2006,AFC Bournemouth,0-1,Bristol City FC
+11,Tue Sep 26 2006,Millwall FC,1-1,Brentford FC
 11,Wed Sep 27 2006,Chesterfield FC,0-1,Scunthorpe United FC
-12,Sat Sep 30 2006,Scunthorpe United FC,2-0,Doncaster Rovers FC
+12,Sat Sep 30 2006,Gillingham FC,2-1,Cheltenham Town FC
 12,Sat Sep 30 2006,Rotherham United FC,2-3,Millwall FC
 12,Sat Sep 30 2006,Nottingham Forest FC,3-1,Swansea City FC
 12,Sat Sep 30 2006,Northampton Town FC,0-2,Port Vale FC
 12,Sat Sep 30 2006,Huddersfield Town AFC,2-2,AFC Bournemouth
-12,Sat Sep 30 2006,Gillingham FC,2-1,Cheltenham Town FC
+12,Sat Sep 30 2006,Scunthorpe United FC,2-0,Doncaster Rovers FC
 12,Sat Sep 30 2006,Crewe Alexandra FC,5-1,Carlisle United FC
 12,Sat Sep 30 2006,Bristol City FC,0-0,Oldham Athletic AFC
 12,Sat Sep 30 2006,Brighton & Hove Albion FC,1-2,Chesterfield FC
 12,Sat Sep 30 2006,Brentford FC,1-2,Yeovil Town FC
-12,Sat Sep 30 2006,Bradford City AFC,2-0,Tranmere Rovers FC
 12,Sat Sep 30 2006,Blackpool FC,3-0,Leyton Orient FC
+12,Sat Sep 30 2006,Bradford City AFC,2-0,Tranmere Rovers FC
 13,Fri Oct 6 2006,Yeovil Town FC,0-1,Cheltenham Town FC
 13,Fri Oct 6 2006,Swansea City FC,0-0,Tranmere Rovers FC
 13,Fri Oct 6 2006,Doncaster Rovers FC,1-1,Oldham Athletic AFC
 13,Fri Oct 6 2006,AFC Bournemouth,0-0,Northampton Town FC
 13,Sat Oct 7 2006,Nottingham Forest FC,0-4,Scunthorpe United FC
-13,Sat Oct 7 2006,Bradford City AFC,0-1,Huddersfield Town AFC
+13,Sat Oct 7 2006,Brentford FC,1-1,Bristol City FC
 13,Sat Oct 7 2006,Carlisle United FC,1-2,Millwall FC
 13,Sat Oct 7 2006,Leyton Orient FC,0-0,Chesterfield FC
 13,Sat Oct 7 2006,Crewe Alexandra FC,4-3,Gillingham FC
-13,Sat Oct 7 2006,Brentford FC,1-1,Bristol City FC
+13,Sat Oct 7 2006,Bradford City AFC,0-1,Huddersfield Town AFC
 13,Sun Oct 8 2006,Brighton & Hove Albion FC,0-3,Blackpool FC
 13,Sun Oct 8 2006,Port Vale FC,1-3,Rotherham United FC
 14,Fri Oct 13 2006,Tranmere Rovers FC,1-2,Port Vale FC
 14,Fri Oct 13 2006,Northampton Town FC,0-0,Bradford City AFC
-14,Sat Oct 14 2006,Millwall FC,1-0,AFC Bournemouth
+14,Sat Oct 14 2006,Blackpool FC,1-1,Yeovil Town FC
 14,Sat Oct 14 2006,Rotherham United FC,2-0,Brentford FC
 14,Sat Oct 14 2006,Oldham Athletic AFC,3-3,Leyton Orient FC
-14,Sat Oct 14 2006,Blackpool FC,1-1,Yeovil Town FC
+14,Sat Oct 14 2006,Scunthorpe United FC,1-2,Brighton & Hove Albion FC
 14,Sat Oct 14 2006,Huddersfield Town AFC,2-1,Carlisle United FC
 14,Sat Oct 14 2006,Gillingham FC,0-1,Nottingham Forest FC
 14,Sat Oct 14 2006,Chesterfield FC,2-3,Swansea City FC
 14,Sat Oct 14 2006,Cheltenham Town FC,0-2,Doncaster Rovers FC
 14,Sat Oct 14 2006,Bristol City FC,2-1,Crewe Alexandra FC
-14,Sat Oct 14 2006,Scunthorpe United FC,1-2,Brighton & Hove Albion FC
+14,Sat Oct 14 2006,Millwall FC,1-0,AFC Bournemouth
 15,Sat Oct 21 2006,Yeovil Town FC,1-0,Oldham Athletic AFC
 15,Sat Oct 21 2006,Port Vale FC,1-2,Huddersfield Town AFC
 15,Sat Oct 21 2006,Nottingham Forest FC,1-0,Bristol City FC
@@ -193,16 +193,16 @@ Matchday,Date,Team 1,FT,Team 2
 16,Sat Oct 28 2006,Blackpool FC,4-1,Bradford City AFC
 17,Fri Nov 3 2006,Tranmere Rovers FC,3-1,Millwall FC
 17,Fri Nov 3 2006,Swansea City FC,4-2,AFC Bournemouth
-17,Sat Nov 4 2006,Huddersfield Town AFC,1-1,Scunthorpe United FC
+17,Sat Nov 4 2006,Bradford City AFC,2-3,Brighton & Hove Albion FC
 17,Sat Nov 4 2006,Nottingham Forest FC,2-0,Brentford FC
 17,Sat Nov 4 2006,Northampton Town FC,1-1,Blackpool FC
-17,Sat Nov 4 2006,Bradford City AFC,2-3,Brighton & Hove Albion FC
+17,Sat Nov 4 2006,Yeovil Town FC,2-1,Bristol City FC
 17,Sat Nov 4 2006,Gillingham FC,2-1,Chesterfield FC
 17,Sat Nov 4 2006,Doncaster Rovers FC,0-0,Leyton Orient FC
 17,Sat Nov 4 2006,Crewe Alexandra FC,2-1,Port Vale FC
 17,Sat Nov 4 2006,Cheltenham Town FC,1-2,Oldham Athletic AFC
 17,Sat Nov 4 2006,Carlisle United FC,1-1,Rotherham United FC
-17,Sat Nov 4 2006,Yeovil Town FC,2-1,Bristol City FC
+17,Sat Nov 4 2006,Huddersfield Town AFC,1-1,Scunthorpe United FC
 18,Sat Nov 18 2006,Scunthorpe United FC,1-0,Northampton Town FC
 18,Sat Nov 18 2006,Rotherham United FC,1-1,Nottingham Forest FC
 18,Sat Nov 18 2006,Port Vale FC,0-2,Swansea City FC
@@ -213,69 +213,67 @@ Matchday,Date,Team 1,FT,Team 2
 18,Sat Nov 18 2006,Bristol City FC,3-1,Gillingham FC
 18,Sat Nov 18 2006,Brighton & Hove Albion FC,0-1,Tranmere Rovers FC
 18,Sat Nov 18 2006,Brentford FC,0-4,Crewe Alexandra FC
-18,Sat Nov 18 2006,AFC Bournemouth,0-1,Carlisle United FC
 18,Sat Nov 18 2006,Blackpool FC,3-1,Huddersfield Town AFC
+18,Sat Nov 18 2006,AFC Bournemouth,0-1,Carlisle United FC
 19,Fri Nov 24 2006,Tranmere Rovers FC,2-0,Blackpool FC
 19,Fri Nov 24 2006,Cheltenham Town FC,2-0,Brentford FC
-19,Sat Nov 25 2006,Yeovil Town FC,0-2,Scunthorpe United FC
+19,Sat Nov 25 2006,Gillingham FC,1-0,Rotherham United FC
 19,Sat Nov 25 2006,Nottingham Forest FC,3-1,Millwall FC
 19,Sat Nov 25 2006,Huddersfield Town AFC,0-3,Oldham Athletic AFC
-19,Sat Nov 25 2006,Gillingham FC,1-0,Rotherham United FC
+19,Sat Nov 25 2006,Yeovil Town FC,0-2,Scunthorpe United FC
 19,Sat Nov 25 2006,Doncaster Rovers FC,1-0,Brighton & Hove Albion FC
 19,Sat Nov 25 2006,Crewe Alexandra FC,2-2,Chesterfield FC
 19,Sat Nov 25 2006,Carlisle United FC,3-2,Port Vale FC
 19,Sat Nov 25 2006,Bradford City AFC,0-0,AFC Bournemouth
 19,Sun Nov 26 2006,Swansea City FC,0-0,Bristol City FC
 20,Sat Dec 2 2006,Rotherham United FC,3-2,Yeovil Town FC
-20,Tue Dec 5 2006,Millwall FC,0-0,Huddersfield Town AFC
 20,Tue Dec 5 2006,Leyton Orient FC,1-2,Bradford City AFC
 20,Tue Dec 5 2006,Port Vale FC,2-0,Gillingham FC
 20,Tue Dec 5 2006,Oldham Athletic AFC,1-0,Crewe Alexandra FC
-20,Tue Dec 5 2006,Bristol City FC,1-0,Carlisle United FC
-20,Tue Dec 5 2006,AFC Bournemouth,2-0,Nottingham Forest FC
+20,Tue Dec 5 2006,Millwall FC,0-0,Huddersfield Town AFC
+20,Tue Dec 5 2006,Scunthorpe United FC,1-1,Tranmere Rovers FC
 20,Tue Dec 5 2006,Blackpool FC,2-1,Cheltenham Town FC
 20,Tue Dec 5 2006,Brighton & Hove Albion FC,3-2,Swansea City FC
 20,Tue Dec 5 2006,Brentford FC,0-4,Doncaster Rovers FC
-20,Tue Dec 5 2006,Scunthorpe United FC,1-1,Tranmere Rovers FC
+20,Tue Dec 5 2006,AFC Bournemouth,2-0,Nottingham Forest FC
+20,Tue Dec 5 2006,Bristol City FC,1-0,Carlisle United FC
 20,Wed Dec 6 2006,Chesterfield FC,0-0,Northampton Town FC
-21,Sat Dec 9 2006,Leyton Orient FC,1-0,Huddersfield Town AFC
 21,Sat Dec 9 2006,Crewe Alexandra FC,1-4,Nottingham Forest FC
 21,Sat Dec 9 2006,Rotherham United FC,1-1,Bristol City FC
 21,Sat Dec 9 2006,Northampton Town FC,0-2,Doncaster Rovers FC
 21,Sat Dec 9 2006,Millwall FC,2-0,Bradford City AFC
-21,Sat Dec 9 2006,Brighton & Hove Albion FC,2-1,Cheltenham Town FC
+21,Sat Dec 9 2006,Leyton Orient FC,1-0,Huddersfield Town AFC
 21,Sat Dec 9 2006,Yeovil Town FC,2-0,Gillingham FC
 21,Sat Dec 9 2006,Chesterfield FC,2-1,Oldham Athletic AFC
 21,Sat Dec 9 2006,Carlisle United FC,0-2,Scunthorpe United FC
 21,Sat Dec 9 2006,Brentford FC,1-1,Tranmere Rovers FC
 21,Sat Dec 9 2006,AFC Bournemouth,0-4,Port Vale FC
 21,Sat Dec 9 2006,Blackpool FC,1-1,Swansea City FC
+21,Sat Dec 9 2006,Brighton & Hove Albion FC,2-1,Cheltenham Town FC
 22,Fri Dec 15 2006,Scunthorpe United FC,1-3,Blackpool FC
-22,Sat Dec 16 2006,Oldham Athletic AFC,1-1,Brighton & Hove Albion FC
 22,Sat Dec 16 2006,Bristol City FC,1-0,Millwall FC
 22,Sat Dec 16 2006,Swansea City FC,5-0,Carlisle United FC
 22,Sat Dec 16 2006,Port Vale FC,1-0,Brentford FC
+22,Sat Dec 16 2006,Oldham Athletic AFC,1-1,Brighton & Hove Albion FC
 22,Sat Dec 16 2006,Bradford City AFC,1-0,Chesterfield FC
-22,Sat Dec 16 2006,Nottingham Forest FC,1-3,Leyton Orient FC
 22,Sat Dec 16 2006,Huddersfield Town AFC,1-1,Northampton Town FC
 22,Sat Dec 16 2006,Gillingham FC,1-1,AFC Bournemouth
 22,Sat Dec 16 2006,Cheltenham Town FC,2-0,Rotherham United FC
+22,Sat Dec 16 2006,Nottingham Forest FC,1-3,Leyton Orient FC
 19,Tue Dec 19 2006,Northampton Town FC,0-1,Leyton Orient FC
 23,Fri Dec 22 2006,Millwall FC,0-1,Scunthorpe United FC
-23,Sat Dec 23 2006,Oldham Athletic AFC,3-0,Northampton Town FC
-23,Sat Dec 23 2006,AFC Bournemouth,1-3,Blackpool FC
 23,Sat Dec 23 2006,Yeovil Town FC,0-0,Bradford City AFC
 23,Sat Dec 23 2006,Tranmere Rovers FC,2-3,Gillingham FC
 23,Sat Dec 23 2006,Swansea City FC,1-1,Rotherham United FC
-23,Sat Dec 23 2006,Carlisle United FC,2-0,Brentford FC
+23,Sat Dec 23 2006,Leyton Orient FC,1-1,Crewe Alexandra FC
 23,Sat Dec 23 2006,Doncaster Rovers FC,1-0,Nottingham Forest FC
 23,Sat Dec 23 2006,Port Vale FC,2-1,Brighton & Hove Albion FC
 23,Sat Dec 23 2006,Chesterfield FC,0-0,Huddersfield Town AFC
 23,Sat Dec 23 2006,Cheltenham Town FC,2-2,Bristol City FC
-23,Sat Dec 23 2006,Leyton Orient FC,1-1,Crewe Alexandra FC
-24,Tue Dec 26 2006,Bristol City FC,2-2,AFC Bournemouth
-24,Tue Dec 26 2006,Blackpool FC,2-1,Carlisle United FC
-24,Tue Dec 26 2006,Bradford City AFC,0-1,Doncaster Rovers FC
+23,Sat Dec 23 2006,Carlisle United FC,2-0,Brentford FC
+23,Sat Dec 23 2006,AFC Bournemouth,1-3,Blackpool FC
+23,Sat Dec 23 2006,Oldham Athletic AFC,3-0,Northampton Town FC
+24,Tue Dec 26 2006,Rotherham United FC,2-3,Oldham Athletic AFC
 24,Tue Dec 26 2006,Scunthorpe United FC,1-0,Chesterfield FC
 24,Tue Dec 26 2006,Nottingham Forest FC,3-0,Port Vale FC
 24,Tue Dec 26 2006,Brentford FC,1-4,Millwall FC
@@ -284,9 +282,9 @@ Matchday,Date,Team 1,FT,Team 2
 24,Tue Dec 26 2006,Gillingham FC,2-1,Leyton Orient FC
 24,Tue Dec 26 2006,Crewe Alexandra FC,1-3,Swansea City FC
 24,Tue Dec 26 2006,Brighton & Hove Albion FC,1-3,Yeovil Town FC
-24,Tue Dec 26 2006,Rotherham United FC,2-3,Oldham Athletic AFC
-25,Sat Dec 30 2006,Bradford City AFC,2-2,Cheltenham Town FC
-25,Sat Dec 30 2006,Blackpool FC,3-1,Doncaster Rovers FC
+24,Tue Dec 26 2006,Bradford City AFC,0-1,Doncaster Rovers FC
+24,Tue Dec 26 2006,Bristol City FC,2-2,AFC Bournemouth
+24,Tue Dec 26 2006,Blackpool FC,2-1,Carlisle United FC
 25,Sat Dec 30 2006,Scunthorpe United FC,3-2,AFC Bournemouth
 25,Sat Dec 30 2006,Rotherham United FC,2-2,Leyton Orient FC
 25,Sat Dec 30 2006,Nottingham Forest FC,1-1,Tranmere Rovers FC
@@ -296,191 +294,193 @@ Matchday,Date,Team 1,FT,Team 2
 25,Sat Dec 30 2006,Bristol City FC,2-1,Port Vale FC
 25,Sat Dec 30 2006,Brighton & Hove Albion FC,1-2,Carlisle United FC
 25,Sat Dec 30 2006,Brentford FC,2-1,Chesterfield FC
-26,Mon Jan 1 2007,Doncaster Rovers FC,3-0,Huddersfield Town AFC
-26,Mon Jan 1 2007,AFC Bournemouth,1-0,Brighton & Hove Albion FC
-26,Mon Jan 1 2007,Carlisle United FC,1-0,Bradford City AFC
+25,Sat Dec 30 2006,Bradford City AFC,2-2,Cheltenham Town FC
+25,Sat Dec 30 2006,Blackpool FC,3-1,Doncaster Rovers FC
 26,Mon Jan 1 2007,Yeovil Town FC,0-0,Northampton Town FC
 26,Mon Jan 1 2007,Tranmere Rovers FC,2-1,Rotherham United FC
 26,Mon Jan 1 2007,Swansea City FC,2-0,Brentford FC
-26,Mon Jan 1 2007,Chesterfield FC,2-0,Blackpool FC
+26,Mon Jan 1 2007,Port Vale FC,0-0,Scunthorpe United FC
 26,Mon Jan 1 2007,Oldham Athletic AFC,5-0,Nottingham Forest FC
 26,Mon Jan 1 2007,Millwall FC,4-1,Gillingham FC
 26,Mon Jan 1 2007,Leyton Orient FC,1-1,Bristol City FC
-26,Mon Jan 1 2007,Port Vale FC,0-0,Scunthorpe United FC
+26,Mon Jan 1 2007,Doncaster Rovers FC,3-0,Huddersfield Town AFC
+26,Mon Jan 1 2007,AFC Bournemouth,1-0,Brighton & Hove Albion FC
+26,Mon Jan 1 2007,Carlisle United FC,1-0,Bradford City AFC
+26,Mon Jan 1 2007,Chesterfield FC,2-0,Blackpool FC
 26,Tue Jan 2 2007,Cheltenham Town FC,1-1,Crewe Alexandra FC
 27,Fri Jan 5 2007,Yeovil Town FC,3-1,Huddersfield Town AFC
 27,Sat Jan 6 2007,Tranmere Rovers FC,1-1,Northampton Town FC
-27,Sat Jan 6 2007,AFC Bournemouth,1-0,Brentford FC
 27,Sat Jan 6 2007,Port Vale FC,0-1,Bradford City AFC
+27,Sat Jan 6 2007,AFC Bournemouth,1-0,Brentford FC
 28,Sat Jan 13 2007,Northampton Town FC,3-2,Carlisle United FC
-28,Sat Jan 13 2007,Scunthorpe United FC,1-1,Oldham Athletic AFC
-28,Sat Jan 13 2007,Nottingham Forest FC,1-0,Yeovil Town FC
 28,Sat Jan 13 2007,Rotherham United FC,0-1,Chesterfield FC
-28,Sat Jan 13 2007,Bradford City AFC,2-2,Swansea City FC
-28,Sat Jan 13 2007,Blackpool FC,2-1,Port Vale FC
-28,Sat Jan 13 2007,Brentford FC,2-2,Leyton Orient FC
-28,Sat Jan 13 2007,Brighton & Hove Albion FC,0-1,Millwall FC
+28,Sat Jan 13 2007,Nottingham Forest FC,1-0,Yeovil Town FC
+28,Sat Jan 13 2007,Scunthorpe United FC,1-1,Oldham Athletic AFC
 28,Sat Jan 13 2007,Huddersfield Town AFC,2-0,Cheltenham Town FC
-28,Sat Jan 13 2007,Crewe Alexandra FC,2-0,AFC Bournemouth
 28,Sat Jan 13 2007,Gillingham FC,0-2,Doncaster Rovers FC
+28,Sat Jan 13 2007,Crewe Alexandra FC,2-0,AFC Bournemouth
 28,Sat Jan 13 2007,Bristol City FC,3-2,Tranmere Rovers FC
-27,Tue Jan 16 2007,Cheltenham Town FC,1-1,Scunthorpe United FC
+28,Sat Jan 13 2007,Brighton & Hove Albion FC,0-1,Millwall FC
+28,Sat Jan 13 2007,Brentford FC,2-2,Leyton Orient FC
+28,Sat Jan 13 2007,Blackpool FC,2-1,Port Vale FC
+28,Sat Jan 13 2007,Bradford City AFC,2-2,Swansea City FC
 22,Tue Jan 16 2007,Tranmere Rovers FC,1-0,Crewe Alexandra FC
+27,Tue Jan 16 2007,Cheltenham Town FC,1-1,Scunthorpe United FC
 29,Fri Jan 19 2007,Tranmere Rovers FC,1-1,Bradford City AFC
-29,Sat Jan 20 2007,Leyton Orient FC,0-1,Blackpool FC
-29,Sat Jan 20 2007,Doncaster Rovers FC,2-2,Scunthorpe United FC
-29,Sat Jan 20 2007,Carlisle United FC,0-2,Crewe Alexandra FC
-29,Sat Jan 20 2007,Cheltenham Town FC,1-1,Gillingham FC
-29,Sat Jan 20 2007,Chesterfield FC,0-1,Brighton & Hove Albion FC
-29,Sat Jan 20 2007,AFC Bournemouth,1-2,Huddersfield Town AFC
 29,Sat Jan 20 2007,Millwall FC,4-0,Rotherham United FC
-29,Sat Jan 20 2007,Oldham Athletic AFC,0-3,Bristol City FC
 29,Sat Jan 20 2007,Swansea City FC,0-0,Nottingham Forest FC
+29,Sat Jan 20 2007,Oldham Athletic AFC,0-3,Bristol City FC
 29,Sat Jan 20 2007,Yeovil Town FC,1-0,Brentford FC
+29,Sat Jan 20 2007,Leyton Orient FC,0-1,Blackpool FC
+29,Sat Jan 20 2007,AFC Bournemouth,1-2,Huddersfield Town AFC
+29,Sat Jan 20 2007,Chesterfield FC,0-1,Brighton & Hove Albion FC
+29,Sat Jan 20 2007,Cheltenham Town FC,1-1,Gillingham FC
+29,Sat Jan 20 2007,Carlisle United FC,0-2,Crewe Alexandra FC
+29,Sat Jan 20 2007,Doncaster Rovers FC,2-2,Scunthorpe United FC
 25,Tue Jan 23 2007,Northampton Town FC,3-0,Millwall FC
 27,Tue Jan 23 2007,Swansea City FC,2-0,Gillingham FC
 30,Fri Jan 26 2007,Gillingham FC,2-0,Tranmere Rovers FC
+27,Sat Jan 27 2007,Doncaster Rovers FC,3-2,Rotherham United FC
 30,Sat Jan 27 2007,Huddersfield Town AFC,1-1,Chesterfield FC
+30,Sat Jan 27 2007,Scunthorpe United FC,3-0,Millwall FC
+30,Sat Jan 27 2007,Crewe Alexandra FC,0-4,Leyton Orient FC
+30,Sat Jan 27 2007,Brighton & Hove Albion FC,0-0,Port Vale FC
 30,Sat Jan 27 2007,Bradford City AFC,0-2,Yeovil Town FC
 30,Sat Jan 27 2007,Brentford FC,0-0,Carlisle United FC
-30,Sat Jan 27 2007,Crewe Alexandra FC,0-4,Leyton Orient FC
-27,Sat Jan 27 2007,Doncaster Rovers FC,3-2,Rotherham United FC
-30,Sat Jan 27 2007,Brighton & Hove Albion FC,0-0,Port Vale FC
-30,Sat Jan 27 2007,Scunthorpe United FC,3-0,Millwall FC
 30,Sun Jan 28 2007,Northampton Town FC,2-3,Oldham Athletic AFC
 27,Wed Jan 31 2007,Carlisle United FC,1-0,Nottingham Forest FC
 30,Wed Jan 31 2007,Bristol City FC,0-1,Cheltenham Town FC
-31,Sat Feb 3 2007,Brighton & Hove Albion FC,0-0,Rotherham United FC
+31,Sat Feb 3 2007,Yeovil Town FC,0-1,Millwall FC
+31,Sat Feb 3 2007,Oldham Athletic AFC,1-0,Tranmere Rovers FC
+31,Sat Feb 3 2007,Northampton Town FC,1-2,Crewe Alexandra FC
+31,Sat Feb 3 2007,Leyton Orient FC,2-1,Port Vale FC
+31,Sat Feb 3 2007,Blackpool FC,1-3,Brentford FC
+31,Sat Feb 3 2007,Doncaster Rovers FC,1-2,Carlisle United FC
 31,Sat Feb 3 2007,Chesterfield FC,0-1,AFC Bournemouth
 31,Sat Feb 3 2007,Cheltenham Town FC,2-1,Swansea City FC
-31,Sat Feb 3 2007,Northampton Town FC,1-2,Crewe Alexandra FC
-31,Sat Feb 3 2007,Huddersfield Town AFC,3-1,Gillingham FC
+31,Sat Feb 3 2007,Brighton & Hove Albion FC,0-0,Rotherham United FC
 31,Sat Feb 3 2007,Bradford City AFC,2-2,Nottingham Forest FC
-31,Sat Feb 3 2007,Oldham Athletic AFC,1-0,Tranmere Rovers FC
-31,Sat Feb 3 2007,Blackpool FC,1-3,Brentford FC
-31,Sat Feb 3 2007,Leyton Orient FC,2-1,Port Vale FC
-31,Sat Feb 3 2007,Yeovil Town FC,0-1,Millwall FC
-31,Sat Feb 3 2007,Doncaster Rovers FC,1-2,Carlisle United FC
+31,Sat Feb 3 2007,Huddersfield Town AFC,3-1,Gillingham FC
 31,Mon Feb 5 2007,Scunthorpe United FC,1-0,Bristol City FC
 29,Tue Feb 6 2007,Port Vale FC,1-0,Northampton Town FC
-32,Sat Feb 10 2007,AFC Bournemouth,5-0,Leyton Orient FC
-32,Sat Feb 10 2007,Brentford FC,1-0,Brighton & Hove Albion FC
-32,Sat Feb 10 2007,Bristol City FC,1-1,Huddersfield Town AFC
-32,Sat Feb 10 2007,Carlisle United FC,1-4,Yeovil Town FC
-32,Sat Feb 10 2007,Gillingham FC,1-0,Bradford City AFC
 32,Sat Feb 10 2007,Millwall FC,2-1,Chesterfield FC
-32,Sat Feb 10 2007,Nottingham Forest FC,1-0,Northampton Town FC
 32,Sat Feb 10 2007,Swansea City FC,0-1,Oldham Athletic AFC
+32,Sat Feb 10 2007,Nottingham Forest FC,1-0,Northampton Town FC
 32,Sat Feb 10 2007,Tranmere Rovers FC,1-0,Doncaster Rovers FC
+32,Sat Feb 10 2007,Gillingham FC,1-0,Bradford City AFC
+32,Sat Feb 10 2007,Carlisle United FC,1-4,Yeovil Town FC
+32,Sat Feb 10 2007,Bristol City FC,1-1,Huddersfield Town AFC
+32,Sat Feb 10 2007,Brentford FC,1-0,Brighton & Hove Albion FC
+32,Sat Feb 10 2007,AFC Bournemouth,5-0,Leyton Orient FC
 27,Tue Feb 13 2007,Leyton Orient FC,1-4,Brighton & Hove Albion FC
 33,Fri Feb 16 2007,Northampton Town FC,1-1,Gillingham FC
-33,Sat Feb 17 2007,Huddersfield Town AFC,0-2,Brentford FC
+33,Sat Feb 17 2007,Blackpool FC,0-1,Bristol City FC
+33,Sat Feb 17 2007,Scunthorpe United FC,1-0,Rotherham United FC
+33,Sat Feb 17 2007,Oldham Athletic AFC,1-2,Millwall FC
+33,Sat Feb 17 2007,Leyton Orient FC,1-1,Carlisle United FC
+33,Sat Feb 17 2007,Yeovil Town FC,0-2,Tranmere Rovers FC
+33,Sat Feb 17 2007,Doncaster Rovers FC,2-2,Swansea City FC
+33,Sat Feb 17 2007,Chesterfield FC,3-0,Port Vale FC
 33,Sat Feb 17 2007,Cheltenham Town FC,1-0,AFC Bournemouth
 33,Sat Feb 17 2007,Brighton & Hove Albion FC,2-1,Nottingham Forest FC
 33,Sat Feb 17 2007,Bradford City AFC,0-1,Crewe Alexandra FC
-33,Sat Feb 17 2007,Chesterfield FC,3-0,Port Vale FC
-33,Sat Feb 17 2007,Scunthorpe United FC,1-0,Rotherham United FC
-33,Sat Feb 17 2007,Yeovil Town FC,0-2,Tranmere Rovers FC
-33,Sat Feb 17 2007,Leyton Orient FC,1-1,Carlisle United FC
-33,Sat Feb 17 2007,Oldham Athletic AFC,1-2,Millwall FC
-33,Sat Feb 17 2007,Doncaster Rovers FC,2-2,Swansea City FC
-33,Sat Feb 17 2007,Blackpool FC,0-1,Bristol City FC
+33,Sat Feb 17 2007,Huddersfield Town AFC,0-2,Brentford FC
 34,Mon Feb 19 2007,Brentford FC,0-1,Northampton Town FC
 34,Tue Feb 20 2007,Nottingham Forest FC,1-1,Blackpool FC
 34,Tue Feb 20 2007,Swansea City FC,0-2,Scunthorpe United FC
 34,Tue Feb 20 2007,Rotherham United FC,2-3,Huddersfield Town AFC
-34,Tue Feb 20 2007,Gillingham FC,0-1,Brighton & Hove Albion FC
-34,Tue Feb 20 2007,Carlisle United FC,0-0,Chesterfield FC
-34,Tue Feb 20 2007,Crewe Alexandra FC,2-1,Doncaster Rovers FC
 34,Tue Feb 20 2007,Port Vale FC,3-0,Oldham Athletic AFC
-34,Tue Feb 20 2007,AFC Bournemouth,0-2,Yeovil Town FC
-34,Tue Feb 20 2007,Millwall FC,2-5,Leyton Orient FC
 34,Tue Feb 20 2007,Tranmere Rovers FC,2-2,Cheltenham Town FC
-35,Sat Feb 24 2007,Huddersfield Town AFC,1-2,Crewe Alexandra FC
+34,Tue Feb 20 2007,Millwall FC,2-5,Leyton Orient FC
+34,Tue Feb 20 2007,AFC Bournemouth,0-2,Yeovil Town FC
+34,Tue Feb 20 2007,Crewe Alexandra FC,2-1,Doncaster Rovers FC
+34,Tue Feb 20 2007,Carlisle United FC,0-0,Chesterfield FC
+34,Tue Feb 20 2007,Gillingham FC,0-1,Brighton & Hove Albion FC
+35,Sat Feb 24 2007,Chesterfield FC,1-2,Nottingham Forest FC
+35,Sat Feb 24 2007,Yeovil Town FC,1-0,Swansea City FC
+35,Sat Feb 24 2007,Scunthorpe United FC,3-1,Gillingham FC
 35,Sat Feb 24 2007,Oldham Athletic AFC,1-2,AFC Bournemouth
 35,Sat Feb 24 2007,Northampton Town FC,3-0,Rotherham United FC
 35,Sat Feb 24 2007,Leyton Orient FC,3-1,Tranmere Rovers FC
 35,Sat Feb 24 2007,Blackpool FC,0-1,Millwall FC
 35,Sat Feb 24 2007,Doncaster Rovers FC,1-0,Port Vale FC
-35,Sat Feb 24 2007,Scunthorpe United FC,3-1,Gillingham FC
 35,Sat Feb 24 2007,Cheltenham Town FC,0-1,Carlisle United FC
 35,Sat Feb 24 2007,Brighton & Hove Albion FC,0-2,Bristol City FC
 35,Sat Feb 24 2007,Bradford City AFC,1-1,Brentford FC
-35,Sat Feb 24 2007,Yeovil Town FC,1-0,Swansea City FC
-35,Sat Feb 24 2007,Chesterfield FC,1-2,Nottingham Forest FC
+35,Sat Feb 24 2007,Huddersfield Town AFC,1-2,Crewe Alexandra FC
 22,Tue Feb 27 2007,Doncaster Rovers FC,0-0,Yeovil Town FC
-32,Tue Feb 27 2007,Crewe Alexandra FC,1-3,Scunthorpe United FC
-30,Tue Feb 27 2007,Rotherham United FC,1-2,Swansea City FC
 27,Tue Feb 27 2007,Oldham Athletic AFC,0-1,Blackpool FC
+30,Tue Feb 27 2007,Rotherham United FC,1-2,Swansea City FC
+32,Tue Feb 27 2007,Crewe Alexandra FC,1-3,Scunthorpe United FC
 36,Fri Mar 2 2007,Tranmere Rovers FC,2-0,Chesterfield FC
-36,Sat Mar 3 2007,Millwall FC,2-0,Cheltenham Town FC
-36,Sat Mar 3 2007,Bristol City FC,1-0,Northampton Town FC
-36,Sat Mar 3 2007,Gillingham FC,2-2,Blackpool FC
-36,Sat Mar 3 2007,AFC Bournemouth,2-0,Doncaster Rovers FC
-36,Sat Mar 3 2007,Crewe Alexandra FC,1-1,Brighton & Hove Albion FC
-36,Sat Mar 3 2007,Swansea City FC,0-0,Leyton Orient FC
-36,Sat Mar 3 2007,Carlisle United FC,1-1,Oldham Athletic AFC
 36,Sat Mar 3 2007,Nottingham Forest FC,5-1,Huddersfield Town AFC
 36,Sat Mar 3 2007,Rotherham United FC,4-1,Bradford City AFC
 36,Sat Mar 3 2007,Port Vale FC,4-2,Yeovil Town FC
+36,Sat Mar 3 2007,Swansea City FC,0-0,Leyton Orient FC
+36,Sat Mar 3 2007,Millwall FC,2-0,Cheltenham Town FC
+36,Sat Mar 3 2007,AFC Bournemouth,2-0,Doncaster Rovers FC
+36,Sat Mar 3 2007,Crewe Alexandra FC,1-1,Brighton & Hove Albion FC
+36,Sat Mar 3 2007,Carlisle United FC,1-1,Oldham Athletic AFC
+36,Sat Mar 3 2007,Bristol City FC,1-0,Northampton Town FC
 36,Sat Mar 3 2007,Brentford FC,0-2,Scunthorpe United FC
-32,Tue Mar 6 2007,Port Vale FC,1-1,Cheltenham Town FC
+36,Sat Mar 3 2007,Gillingham FC,2-2,Blackpool FC
 30,Tue Mar 6 2007,Blackpool FC,2-0,AFC Bournemouth
 30,Tue Mar 6 2007,Nottingham Forest FC,0-1,Doncaster Rovers FC
+32,Tue Mar 6 2007,Port Vale FC,1-1,Cheltenham Town FC
 27,Wed Mar 7 2007,Chesterfield FC,1-3,Bristol City FC
-37,Sat Mar 10 2007,Chesterfield FC,0-1,Leyton Orient FC
-37,Sat Mar 10 2007,Millwall FC,2-0,Carlisle United FC
-37,Sat Mar 10 2007,Blackpool FC,0-0,Brighton & Hove Albion FC
 37,Sat Mar 10 2007,Rotherham United FC,1-5,Port Vale FC
 37,Sat Mar 10 2007,Tranmere Rovers FC,0-2,Swansea City FC
 37,Sat Mar 10 2007,Scunthorpe United FC,1-1,Nottingham Forest FC
 37,Sat Mar 10 2007,Huddersfield Town AFC,2-0,Bradford City AFC
 37,Sat Mar 10 2007,Northampton Town FC,3-1,AFC Bournemouth
-37,Sat Mar 10 2007,Cheltenham Town FC,1-2,Yeovil Town FC
+37,Sat Mar 10 2007,Millwall FC,2-0,Carlisle United FC
 37,Sat Mar 10 2007,Gillingham FC,1-0,Crewe Alexandra FC
+37,Sat Mar 10 2007,Chesterfield FC,0-1,Leyton Orient FC
+37,Sat Mar 10 2007,Cheltenham Town FC,1-2,Yeovil Town FC
 37,Sat Mar 10 2007,Bristol City FC,1-0,Brentford FC
+37,Sat Mar 10 2007,Blackpool FC,0-0,Brighton & Hove Albion FC
 37,Sun Mar 11 2007,Oldham Athletic AFC,4-0,Doncaster Rovers FC
-34,Tue Mar 13 2007,Bristol City FC,2-3,Bradford City AFC
 27,Tue Mar 13 2007,Millwall FC,2-2,Crewe Alexandra FC
+34,Tue Mar 13 2007,Bristol City FC,2-3,Bradford City AFC
 38,Fri Mar 16 2007,Swansea City FC,2-0,Chesterfield FC
-38,Sat Mar 17 2007,Crewe Alexandra FC,0-1,Bristol City FC
 38,Sat Mar 17 2007,Leyton Orient FC,2-2,Oldham Athletic AFC
 38,Sat Mar 17 2007,AFC Bournemouth,1-0,Millwall FC
 38,Sat Mar 17 2007,Nottingham Forest FC,1-0,Gillingham FC
 38,Sat Mar 17 2007,Yeovil Town FC,0-1,Blackpool FC
 38,Sat Mar 17 2007,Doncaster Rovers FC,0-2,Cheltenham Town FC
-38,Sat Mar 17 2007,Port Vale FC,2-3,Tranmere Rovers FC
+38,Sat Mar 17 2007,Crewe Alexandra FC,0-1,Bristol City FC
 38,Sat Mar 17 2007,Carlisle United FC,1-1,Huddersfield Town AFC
 38,Sat Mar 17 2007,Brighton & Hove Albion FC,1-1,Scunthorpe United FC
 38,Sat Mar 17 2007,Brentford FC,0-1,Rotherham United FC
 38,Sat Mar 17 2007,Bradford City AFC,1-2,Northampton Town FC
+38,Sat Mar 17 2007,Port Vale FC,2-3,Tranmere Rovers FC
 40,Wed Mar 21 2007,Chesterfield FC,1-1,Doncaster Rovers FC
 39,Sat Mar 24 2007,Leyton Orient FC,2-2,Scunthorpe United FC
-39,Sat Mar 24 2007,Port Vale FC,2-0,Millwall FC
-39,Sat Mar 24 2007,Bradford City AFC,1-3,Blackpool FC
-39,Sat Mar 24 2007,Brighton & Hove Albion FC,0-0,Huddersfield Town AFC
-39,Sat Mar 24 2007,Carlisle United FC,5-0,Gillingham FC
-39,Sat Mar 24 2007,Crewe Alexandra FC,1-0,Rotherham United FC
 39,Sat Mar 24 2007,Swansea City FC,2-1,Northampton Town FC
-39,Sat Mar 24 2007,Yeovil Town FC,1-0,Chesterfield FC
-39,Sat Mar 24 2007,Nottingham Forest FC,3-0,Cheltenham Town FC
 39,Sat Mar 24 2007,AFC Bournemouth,2-0,Tranmere Rovers FC
+39,Sat Mar 24 2007,Nottingham Forest FC,3-0,Cheltenham Town FC
+39,Sat Mar 24 2007,Yeovil Town FC,1-0,Chesterfield FC
 39,Sat Mar 24 2007,Doncaster Rovers FC,0-1,Bristol City FC
+39,Sat Mar 24 2007,Crewe Alexandra FC,1-0,Rotherham United FC
+39,Sat Mar 24 2007,Carlisle United FC,5-0,Gillingham FC
+39,Sat Mar 24 2007,Brighton & Hove Albion FC,0-0,Huddersfield Town AFC
+39,Sat Mar 24 2007,Bradford City AFC,1-3,Blackpool FC
+39,Sat Mar 24 2007,Port Vale FC,2-0,Millwall FC
 39,Sun Mar 25 2007,Brentford FC,2-2,Oldham Athletic AFC
 32,Tue Mar 27 2007,Rotherham United FC,1-0,Blackpool FC
 40,Fri Mar 30 2007,Tranmere Rovers FC,0-2,Carlisle United FC
-40,Sat Mar 31 2007,Scunthorpe United FC,2-0,Bradford City AFC
-40,Sat Mar 31 2007,Gillingham FC,2-1,Brentford FC
-40,Sat Mar 31 2007,Huddersfield Town AFC,2-2,Port Vale FC
-40,Sat Mar 31 2007,Millwall FC,2-0,Swansea City FC
-40,Sat Mar 31 2007,Cheltenham Town FC,2-1,Leyton Orient FC
-40,Sat Mar 31 2007,Oldham Athletic AFC,1-0,Yeovil Town FC
-40,Sat Mar 31 2007,Rotherham United FC,0-2,AFC Bournemouth
 40,Sat Mar 31 2007,Northampton Town FC,0-2,Brighton & Hove Albion FC
+40,Sat Mar 31 2007,Rotherham United FC,0-2,AFC Bournemouth
+40,Sat Mar 31 2007,Oldham Athletic AFC,1-0,Yeovil Town FC
+40,Sat Mar 31 2007,Scunthorpe United FC,2-0,Bradford City AFC
+40,Sat Mar 31 2007,Millwall FC,2-0,Swansea City FC
+40,Sat Mar 31 2007,Huddersfield Town AFC,2-2,Port Vale FC
+40,Sat Mar 31 2007,Gillingham FC,2-1,Brentford FC
+40,Sat Mar 31 2007,Cheltenham Town FC,2-1,Leyton Orient FC
 40,Sat Mar 31 2007,Bristol City FC,1-1,Nottingham Forest FC
 40,Sat Mar 31 2007,Blackpool FC,2-1,Crewe Alexandra FC
 41,Fri Apr 6 2007,Scunthorpe United FC,1-0,Yeovil Town FC
-41,Sat Apr 7 2007,Brighton & Hove Albion FC,0-2,Doncaster Rovers FC
+41,Sat Apr 7 2007,Leyton Orient FC,0-2,Northampton Town FC
 41,Sat Apr 7 2007,Port Vale FC,0-2,Carlisle United FC
 41,Sat Apr 7 2007,Oldham Athletic AFC,1-1,Huddersfield Town AFC
 41,Sat Apr 7 2007,Millwall FC,1-0,Nottingham Forest FC
@@ -490,7 +490,7 @@ Matchday,Date,Team 1,FT,Team 2
 41,Sat Apr 7 2007,Blackpool FC,3-2,Tranmere Rovers FC
 41,Sat Apr 7 2007,Brentford FC,0-2,Cheltenham Town FC
 41,Sat Apr 7 2007,AFC Bournemouth,1-1,Bradford City AFC
-41,Sat Apr 7 2007,Leyton Orient FC,0-2,Northampton Town FC
+41,Sat Apr 7 2007,Brighton & Hove Albion FC,0-2,Doncaster Rovers FC
 42,Mon Apr 9 2007,Yeovil Town FC,2-1,Leyton Orient FC
 42,Mon Apr 9 2007,Tranmere Rovers FC,2-1,Brighton & Hove Albion FC
 42,Mon Apr 9 2007,Swansea City FC,3-0,Port Vale FC
@@ -508,32 +508,32 @@ Matchday,Date,Team 1,FT,Team 2
 43,Sat Apr 14 2007,Port Vale FC,3-0,Crewe Alexandra FC
 43,Sat Apr 14 2007,Oldham Athletic AFC,0-2,Cheltenham Town FC
 43,Sat Apr 14 2007,Millwall FC,2-2,Tranmere Rovers FC
-43,Sat Apr 14 2007,Leyton Orient FC,1-1,Doncaster Rovers FC
+43,Sat Apr 14 2007,Blackpool FC,4-1,Northampton Town FC
 43,Sat Apr 14 2007,Chesterfield FC,0-1,Gillingham FC
 43,Sat Apr 14 2007,Bristol City FC,2-0,Yeovil Town FC
 43,Sat Apr 14 2007,Brighton & Hove Albion FC,0-1,Bradford City AFC
 43,Sat Apr 14 2007,Brentford FC,2-4,Nottingham Forest FC
 43,Sat Apr 14 2007,AFC Bournemouth,2-2,Swansea City FC
-43,Sat Apr 14 2007,Blackpool FC,4-1,Northampton Town FC
+43,Sat Apr 14 2007,Leyton Orient FC,1-1,Doncaster Rovers FC
 44,Sat Apr 21 2007,Yeovil Town FC,1-0,Rotherham United FC
 44,Sat Apr 21 2007,Tranmere Rovers FC,0-2,Scunthorpe United FC
 44,Sat Apr 21 2007,Swansea City FC,2-1,Brighton & Hove Albion FC
 44,Sat Apr 21 2007,Nottingham Forest FC,3-0,AFC Bournemouth
 44,Sat Apr 21 2007,Northampton Town FC,1-0,Chesterfield FC
 44,Sat Apr 21 2007,Huddersfield Town AFC,4-2,Millwall FC
-44,Sat Apr 21 2007,Gillingham FC,3-2,Port Vale FC
+44,Sat Apr 21 2007,Bradford City AFC,0-2,Leyton Orient FC
 44,Sat Apr 21 2007,Doncaster Rovers FC,3-0,Brentford FC
 44,Sat Apr 21 2007,Crewe Alexandra FC,2-1,Oldham Athletic AFC
 44,Sat Apr 21 2007,Cheltenham Town FC,1-2,Blackpool FC
 44,Sat Apr 21 2007,Carlisle United FC,1-3,Bristol City FC
-44,Sat Apr 21 2007,Bradford City AFC,0-2,Leyton Orient FC
+44,Sat Apr 21 2007,Gillingham FC,3-2,Port Vale FC
 45,Fri Apr 27 2007,Northampton Town FC,1-1,Huddersfield Town AFC
-45,Sat Apr 28 2007,Yeovil Town FC,1-0,Doncaster Rovers FC
+45,Sat Apr 28 2007,Chesterfield FC,3-0,Bradford City AFC
 45,Sat Apr 28 2007,Rotherham United FC,2-4,Cheltenham Town FC
 45,Sat Apr 28 2007,Millwall FC,1-0,Bristol City FC
 45,Sat Apr 28 2007,Leyton Orient FC,1-3,Nottingham Forest FC
 45,Sat Apr 28 2007,Crewe Alexandra FC,1-1,Tranmere Rovers FC
-45,Sat Apr 28 2007,Chesterfield FC,3-0,Bradford City AFC
+45,Sat Apr 28 2007,Yeovil Town FC,1-0,Doncaster Rovers FC
 45,Sat Apr 28 2007,Carlisle United FC,1-2,Swansea City FC
 45,Sat Apr 28 2007,Brighton & Hove Albion FC,1-2,Oldham Athletic AFC
 45,Sat Apr 28 2007,Brentford FC,4-3,Port Vale FC

@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 10 2002,Torquay United FC,2-1,Bristol Rovers FC
 1,Sat Aug 10 2002,Swansea City FC,2-2,Rushden & Diamonds (1992-2011)
 1,Sat Aug 10 2002,Shrewsbury Town FC,1-0,Exeter City FC
@@ -16,13 +16,13 @@ Matchday,Date,Team 1,FT,Team 2
 2,Tue Aug 13 2002,Wrexham AFC,1-0,Oxford United FC
 2,Tue Aug 13 2002,Southend United FC,0-1,Carlisle United FC
 2,Tue Aug 13 2002,Rushden & Diamonds (1992-2011),3-0,Torquay United FC
-2,Tue Aug 13 2002,Lincoln City FC,2-0,Rochdale AFC
+2,Tue Aug 13 2002,AFC Bournemouth,0-0,Kidderminster Harriers FC
 2,Tue Aug 13 2002,Leyton Orient FC,3-2,Macclesfield Town FC
 2,Tue Aug 13 2002,Hartlepool United FC,2-0,Boston United FC
 2,Tue Aug 13 2002,Exeter City FC,1-1,Scunthorpe United FC
 2,Tue Aug 13 2002,Bury FC,0-1,Cambridge United FC
 2,Tue Aug 13 2002,Bristol Rovers FC,1-1,Hull City AFC
-2,Tue Aug 13 2002,AFC Bournemouth,0-0,Kidderminster Harriers FC
+2,Tue Aug 13 2002,Lincoln City FC,2-0,Rochdale AFC
 3,Sat Aug 17 2002,York City FC,4-3,Torquay United FC
 3,Sat Aug 17 2002,Wrexham AFC,1-1,Boston United FC
 3,Sat Aug 17 2002,Southend United FC,2-3,Shrewsbury Town FC
@@ -45,25 +45,25 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sat Aug 24 2002,Kidderminster Harriers FC,4-3,Exeter City FC
 4,Sat Aug 24 2002,Hull City AFC,1-1,Bury FC
 4,Sat Aug 24 2002,Carlisle United FC,0-0,Bristol Rovers FC
-4,Sat Aug 24 2002,Cambridge United FC,2-1,Leyton Orient FC
 4,Sat Aug 24 2002,Boston United FC,2-0,Lincoln City FC
+4,Sat Aug 24 2002,Cambridge United FC,2-1,Leyton Orient FC
 5,Mon Aug 26 2002,York City FC,2-0,Boston United FC
 5,Mon Aug 26 2002,Wrexham AFC,2-5,Rochdale AFC
 5,Mon Aug 26 2002,Southend United FC,2-1,Cambridge United FC
 5,Mon Aug 26 2002,Rushden & Diamonds (1992-2011),2-0,Scunthorpe United FC
 5,Mon Aug 26 2002,Lincoln City FC,3-0,Macclesfield Town FC
-5,Mon Aug 26 2002,Leyton Orient FC,0-0,Kidderminster Harriers FC
+5,Mon Aug 26 2002,Bury FC,4-3,Shrewsbury Town FC
 5,Mon Aug 26 2002,Hartlepool United FC,2-0,Hull City AFC
 5,Mon Aug 26 2002,Exeter City FC,1-2,Torquay United FC
-5,Mon Aug 26 2002,Bury FC,4-3,Shrewsbury Town FC
+5,Mon Aug 26 2002,Leyton Orient FC,0-0,Kidderminster Harriers FC
 5,Tue Aug 27 2002,Darlington FC,2-0,Carlisle United FC
 5,Tue Aug 27 2002,Bristol Rovers FC,3-1,Swansea City FC
 5,Tue Aug 27 2002,AFC Bournemouth,1-1,Oxford United FC
-6,Sat Aug 31 2002,Torquay United FC,2-1,Wrexham AFC
+6,Sat Aug 31 2002,Rochdale AFC,1-2,Southend United FC
 6,Sat Aug 31 2002,Swansea City FC,1-2,York City FC
 6,Sat Aug 31 2002,Shrewsbury Town FC,1-2,Lincoln City FC
 6,Sat Aug 31 2002,Scunthorpe United FC,2-2,Bristol Rovers FC
-6,Sat Aug 31 2002,Rochdale AFC,1-2,Southend United FC
+6,Sat Aug 31 2002,Torquay United FC,2-1,Wrexham AFC
 6,Sat Aug 31 2002,Oxford United FC,0-1,Hartlepool United FC
 6,Sat Aug 31 2002,Macclesfield Town FC,0-1,AFC Bournemouth
 6,Sat Aug 31 2002,Kidderminster Harriers FC,1-1,Darlington FC
@@ -73,28 +73,27 @@ Matchday,Date,Team 1,FT,Team 2
 6,Sat Aug 31 2002,Boston United FC,1-1,Bury FC
 7,Fri Sep 6 2002,Carlisle United FC,0-2,Rochdale AFC
 7,Fri Sep 6 2002,Bury FC,2-1,York City FC
-7,Sat Sep 7 2002,Lincoln City FC,1-0,Scunthorpe United FC
-7,Sat Sep 7 2002,Kidderminster Harriers FC,0-0,Boston United FC
 7,Sat Sep 7 2002,Swansea City FC,2-2,Hartlepool United FC
-7,Sat Sep 7 2002,Shrewsbury Town FC,2-1,Leyton Orient FC
+7,Sat Sep 7 2002,Kidderminster Harriers FC,0-0,Boston United FC
+7,Sat Sep 7 2002,Lincoln City FC,1-0,Scunthorpe United FC
+7,Sat Sep 7 2002,Cambridge United FC,1-2,Hull City AFC
 7,Sat Sep 7 2002,Rushden & Diamonds (1992-2011),3-0,Southend United FC
 7,Sat Sep 7 2002,Oxford United FC,2-2,Torquay United FC
 7,Sat Sep 7 2002,Exeter City FC,1-3,AFC Bournemouth
-7,Sat Sep 7 2002,Cambridge United FC,1-2,Hull City AFC
+7,Sat Sep 7 2002,Shrewsbury Town FC,2-1,Leyton Orient FC
 7,Sun Sep 8 2002,Macclesfield Town FC,2-1,Bristol Rovers FC
-8,Sat Sep 14 2002,Rochdale AFC,1-1,Shrewsbury Town FC
 8,Sat Sep 14 2002,York City FC,0-0,Rushden & Diamonds (1992-2011)
 8,Sat Sep 14 2002,Wrexham AFC,4-0,Swansea City FC
 8,Sat Sep 14 2002,Torquay United FC,3-2,Cambridge United FC
 8,Sat Sep 14 2002,Southend United FC,1-0,Macclesfield Town FC
 8,Sat Sep 14 2002,Scunthorpe United FC,1-1,Kidderminster Harriers FC
-8,Sat Sep 14 2002,AFC Bournemouth,1-2,Bury FC
+8,Sat Sep 14 2002,Boston United FC,1-3,Oxford United FC
 8,Sat Sep 14 2002,Leyton Orient FC,1-1,Lincoln City FC
 8,Sat Sep 14 2002,Hull City AFC,4-0,Carlisle United FC
 8,Sat Sep 14 2002,Hartlepool United FC,4-1,Darlington FC
 8,Sat Sep 14 2002,Bristol Rovers FC,1-1,Exeter City FC
-8,Sat Sep 14 2002,Boston United FC,1-3,Oxford United FC
-9,Tue Sep 17 2002,York City FC,1-0,Darlington FC
+8,Sat Sep 14 2002,AFC Bournemouth,1-2,Bury FC
+8,Sat Sep 14 2002,Rochdale AFC,1-1,Shrewsbury Town FC
 9,Tue Sep 17 2002,AFC Bournemouth,3-1,Rushden & Diamonds (1992-2011)
 9,Tue Sep 17 2002,Wrexham AFC,4-0,Exeter City FC
 9,Tue Sep 17 2002,Torquay United FC,2-1,Shrewsbury Town FC
@@ -105,8 +104,8 @@ Matchday,Date,Team 1,FT,Team 2
 9,Tue Sep 17 2002,Hull City AFC,1-3,Macclesfield Town FC
 9,Tue Sep 17 2002,Hartlepool United FC,2-1,Lincoln City FC
 9,Tue Sep 17 2002,Bristol Rovers FC,2-1,Bury FC
+9,Tue Sep 17 2002,York City FC,1-0,Darlington FC
 9,Wed Sep 18 2002,Boston United FC,1-0,Swansea City FC
-10,Sat Sep 21 2002,Swansea City FC,0-1,Torquay United FC
 10,Sat Sep 21 2002,Lincoln City FC,2-1,Southend United FC
 10,Sat Sep 21 2002,Shrewsbury Town FC,2-5,Bristol Rovers FC
 10,Sat Sep 21 2002,Rushden & Diamonds (1992-2011),2-2,Wrexham AFC
@@ -118,19 +117,20 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Sep 21 2002,Darlington FC,2-2,AFC Bournemouth
 10,Sat Sep 21 2002,Carlisle United FC,4-2,Boston United FC
 10,Sat Sep 21 2002,Cambridge United FC,3-0,York City FC
+10,Sat Sep 21 2002,Swansea City FC,0-1,Torquay United FC
 7,Tue Sep 24 2002,Darlington FC,0-1,Wrexham AFC
 11,Sat Sep 28 2002,York City FC,0-1,Oxford United FC
 11,Sat Sep 28 2002,Wrexham AFC,2-2,Bury FC
 11,Sat Sep 28 2002,Torquay United FC,0-0,Lincoln City FC
 11,Sat Sep 28 2002,Southend United FC,1-0,Exeter City FC
 11,Sat Sep 28 2002,Scunthorpe United FC,1-1,Shrewsbury Town FC
-11,Sat Sep 28 2002,Boston United FC,1-3,Cambridge United FC
+11,Sat Sep 28 2002,Rochdale AFC,3-1,Macclesfield Town FC
 11,Sat Sep 28 2002,Leyton Orient FC,2-1,Darlington FC
 11,Sat Sep 28 2002,Hull City AFC,1-1,Swansea City FC
 11,Sat Sep 28 2002,Hartlepool United FC,1-2,Rushden & Diamonds (1992-2011)
 11,Sat Sep 28 2002,Bristol Rovers FC,1-2,Kidderminster Harriers FC
 11,Sat Sep 28 2002,AFC Bournemouth,3-1,Carlisle United FC
-11,Sat Sep 28 2002,Rochdale AFC,3-1,Macclesfield Town FC
+11,Sat Sep 28 2002,Boston United FC,1-3,Cambridge United FC
 12,Sat Oct 5 2002,Swansea City FC,1-1,Rochdale AFC
 12,Sat Oct 5 2002,Shrewsbury Town FC,0-1,Hartlepool United FC
 12,Sat Oct 5 2002,Rushden & Diamonds (1992-2011),2-0,Leyton Orient FC
@@ -140,9 +140,9 @@ Matchday,Date,Team 1,FT,Team 2
 12,Sat Oct 5 2002,Kidderminster Harriers FC,1-0,Hull City AFC
 12,Sat Oct 5 2002,Exeter City FC,0-1,York City FC
 12,Sat Oct 5 2002,Darlington FC,1-0,Bristol Rovers FC
-12,Sat Oct 5 2002,Carlisle United FC,1-2,Torquay United FC
-12,Sat Oct 5 2002,Cambridge United FC,2-2,Wrexham AFC
 12,Sat Oct 5 2002,Bury FC,1-3,Southend United FC
+12,Sat Oct 5 2002,Cambridge United FC,2-2,Wrexham AFC
+12,Sat Oct 5 2002,Carlisle United FC,1-2,Torquay United FC
 13,Sat Oct 12 2002,Wrexham AFC,0-0,Leyton Orient FC
 13,Sat Oct 12 2002,Southend United FC,1-0,York City FC
 13,Sat Oct 12 2002,Scunthorpe United FC,1-2,Cambridge United FC
@@ -160,19 +160,19 @@ Matchday,Date,Team 1,FT,Team 2
 14,Sat Oct 19 2002,Swansea City FC,1-0,Southend United FC
 14,Sat Oct 19 2002,Shrewsbury Town FC,2-3,Kidderminster Harriers FC
 14,Sat Oct 19 2002,Rushden & Diamonds (1992-2011),0-1,Bury FC
-14,Sat Oct 19 2002,Rochdale AFC,1-2,Scunthorpe United FC
+14,Sat Oct 19 2002,Cambridge United FC,1-1,Oxford United FC
 14,Sat Oct 19 2002,Macclesfield Town FC,2-2,Carlisle United FC
 14,Sat Oct 19 2002,Lincoln City FC,1-0,Exeter City FC
 14,Sat Oct 19 2002,Leyton Orient FC,0-0,AFC Bournemouth
 14,Sat Oct 19 2002,Hartlepool United FC,4-3,Wrexham AFC
 14,Sat Oct 19 2002,Darlington FC,2-3,Boston United FC
-14,Sat Oct 19 2002,Cambridge United FC,1-1,Oxford United FC
+14,Sat Oct 19 2002,Rochdale AFC,1-2,Scunthorpe United FC
 15,Fri Oct 25 2002,Southend United FC,0-1,Hartlepool United FC
-15,Sat Oct 26 2002,Wrexham AFC,0-2,Lincoln City FC
+15,Sat Oct 26 2002,Hull City AFC,1-1,Rushden & Diamonds (1992-2011)
 15,Sat Oct 26 2002,Scunthorpe United FC,5-1,Torquay United FC
 15,Sat Oct 26 2002,Oxford United FC,2-2,Shrewsbury Town FC
 15,Sat Oct 26 2002,Kidderminster Harriers FC,2-1,Cambridge United FC
-15,Sat Oct 26 2002,Hull City AFC,1-1,Rushden & Diamonds (1992-2011)
+15,Sat Oct 26 2002,Wrexham AFC,0-2,Lincoln City FC
 15,Sat Oct 26 2002,Exeter City FC,0-4,Darlington FC
 15,Sat Oct 26 2002,Carlisle United FC,2-2,Swansea City FC
 15,Sat Oct 26 2002,Bury FC,2-1,Macclesfield Town FC
@@ -192,17 +192,16 @@ Matchday,Date,Team 1,FT,Team 2
 16,Tue Oct 29 2002,Hartlepool United FC,2-0,Bristol Rovers FC
 16,Tue Oct 29 2002,Cambridge United FC,2-1,Carlisle United FC
 17,Fri Nov 1 2002,Hartlepool United FC,0-0,York City FC
-17,Sat Nov 2 2002,Hull City AFC,2-0,Scunthorpe United FC
+17,Sat Nov 2 2002,Boston United FC,0-3,Exeter City FC
 17,Sat Nov 2 2002,Rochdale AFC,0-1,Rushden & Diamonds (1992-2011)
 17,Sat Nov 2 2002,Macclesfield Town FC,1-2,Shrewsbury Town FC
 17,Sat Nov 2 2002,Leyton Orient FC,1-2,Bury FC
-17,Sat Nov 2 2002,Boston United FC,0-3,Exeter City FC
+17,Sat Nov 2 2002,Southend United FC,0-1,Wrexham AFC
 17,Sat Nov 2 2002,Darlington FC,0-0,Lincoln City FC
 17,Sat Nov 2 2002,Carlisle United FC,1-0,Oxford United FC
 17,Sat Nov 2 2002,Cambridge United FC,1-0,Swansea City FC
 17,Sat Nov 2 2002,AFC Bournemouth,1-0,Bristol Rovers FC
-17,Sat Nov 2 2002,Southend United FC,0-1,Wrexham AFC
-18,Sat Nov 9 2002,Bury FC,0-1,Torquay United FC
+17,Sat Nov 2 2002,Hull City AFC,2-0,Scunthorpe United FC
 18,Sat Nov 9 2002,York City FC,3-2,Leyton Orient FC
 18,Sat Nov 9 2002,Wrexham AFC,3-2,AFC Bournemouth
 18,Sat Nov 9 2002,Swansea City FC,1-0,Macclesfield Town FC
@@ -212,8 +211,9 @@ Matchday,Date,Team 1,FT,Team 2
 18,Sat Nov 9 2002,Oxford United FC,2-0,Rochdale AFC
 18,Sat Nov 9 2002,Lincoln City FC,1-1,Hull City AFC
 18,Sat Nov 9 2002,Kidderminster Harriers FC,1-2,Carlisle United FC
-18,Sat Nov 9 2002,Bristol Rovers FC,0-1,Southend United FC
 18,Sat Nov 9 2002,Exeter City FC,1-2,Hartlepool United FC
+18,Sat Nov 9 2002,Bristol Rovers FC,0-1,Southend United FC
+18,Sat Nov 9 2002,Bury FC,0-1,Torquay United FC
 17,Tue Nov 19 2002,Torquay United FC,2-2,Kidderminster Harriers FC
 19,Sat Nov 23 2002,Southend United FC,0-1,AFC Bournemouth
 19,Sat Nov 23 2002,Shrewsbury Town FC,2-2,Darlington FC
@@ -226,19 +226,18 @@ Matchday,Date,Team 1,FT,Team 2
 19,Sat Nov 23 2002,Exeter City FC,1-2,Cambridge United FC
 19,Sat Nov 23 2002,Carlisle United FC,1-2,Bury FC
 19,Sat Nov 23 2002,Bristol Rovers FC,0-3,Wrexham AFC
-20,Sat Nov 30 2002,Oxford United FC,1-0,Lincoln City FC
 20,Sat Nov 30 2002,York City FC,2-1,Carlisle United FC
 20,Sat Nov 30 2002,Wrexham AFC,0-0,Hull City AFC
 20,Sat Nov 30 2002,Torquay United FC,2-2,Rochdale AFC
 20,Sat Nov 30 2002,Swansea City FC,2-0,Shrewsbury Town FC
-20,Sat Nov 30 2002,AFC Bournemouth,2-1,Scunthorpe United FC
+20,Sat Nov 30 2002,Rushden & Diamonds (1992-2011),2-1,Bristol Rovers FC
 20,Sat Nov 30 2002,Boston United FC,0-1,Leyton Orient FC
 20,Sat Nov 30 2002,Hartlepool United FC,2-1,Kidderminster Harriers FC
 20,Sat Nov 30 2002,Darlington FC,2-1,Southend United FC
 20,Sat Nov 30 2002,Cambridge United FC,3-1,Macclesfield Town FC
 20,Sat Nov 30 2002,Bury FC,1-0,Exeter City FC
-20,Sat Nov 30 2002,Rushden & Diamonds (1992-2011),2-1,Bristol Rovers FC
-21,Sat Dec 14 2002,Exeter City FC,1-0,Swansea City FC
+20,Sat Nov 30 2002,AFC Bournemouth,2-1,Scunthorpe United FC
+20,Sat Nov 30 2002,Oxford United FC,1-0,Lincoln City FC
 21,Sat Dec 14 2002,Southend United FC,4-2,Boston United FC
 21,Sat Dec 14 2002,Shrewsbury Town FC,0-0,AFC Bournemouth
 21,Sat Dec 14 2002,Scunthorpe United FC,0-1,Bury FC
@@ -247,25 +246,25 @@ Matchday,Date,Team 1,FT,Team 2
 21,Sat Dec 14 2002,Lincoln City FC,2-2,Cambridge United FC
 21,Sat Dec 14 2002,Leyton Orient FC,2-0,Torquay United FC
 21,Sat Dec 14 2002,Kidderminster Harriers FC,1-2,York City FC
-21,Sat Dec 14 2002,Carlisle United FC,1-2,Wrexham AFC
-21,Sat Dec 14 2002,Bristol Rovers FC,0-2,Oxford United FC
 21,Sat Dec 14 2002,Hull City AFC,0-1,Darlington FC
+21,Sat Dec 14 2002,Bristol Rovers FC,0-2,Oxford United FC
+21,Sat Dec 14 2002,Carlisle United FC,1-2,Wrexham AFC
+21,Sat Dec 14 2002,Exeter City FC,1-0,Swansea City FC
 22,Fri Dec 20 2002,York City FC,1-1,Lincoln City FC
-22,Sat Dec 21 2002,Oxford United FC,2-2,Exeter City FC
 22,Sat Dec 21 2002,Hartlepool United FC,2-2,Scunthorpe United FC
 22,Sat Dec 21 2002,Torquay United FC,3-1,Southend United FC
 22,Sat Dec 21 2002,Swansea City FC,0-1,Leyton Orient FC
 22,Sat Dec 21 2002,Rushden & Diamonds (1992-2011),1-1,Carlisle United FC
-22,Sat Dec 21 2002,AFC Bournemouth,0-0,Hull City AFC
+22,Sat Dec 21 2002,Oxford United FC,2-2,Exeter City FC
 22,Sat Dec 21 2002,Wrexham AFC,0-2,Kidderminster Harriers FC
 22,Sat Dec 21 2002,Darlington FC,0-0,Macclesfield Town FC
 22,Sat Dec 21 2002,Cambridge United FC,3-1,Bristol Rovers FC
 22,Sat Dec 21 2002,Bury FC,1-1,Rochdale AFC
+22,Sat Dec 21 2002,AFC Bournemouth,0-0,Hull City AFC
 22,Sat Dec 21 2002,Boston United FC,6-0,Shrewsbury Town FC
-23,Thu Dec 26 2002,Cambridge United FC,1-1,Southend United FC
 23,Thu Dec 26 2002,Shrewsbury Town FC,4-1,Bury FC
 23,Thu Dec 26 2002,Carlisle United FC,2-2,Darlington FC
-23,Thu Dec 26 2002,Macclesfield Town FC,0-1,Lincoln City FC
+23,Thu Dec 26 2002,Cambridge United FC,1-1,Southend United FC
 23,Thu Dec 26 2002,Swansea City FC,0-1,Bristol Rovers FC
 23,Thu Dec 26 2002,Scunthorpe United FC,0-0,Rushden & Diamonds (1992-2011)
 23,Thu Dec 26 2002,Rochdale AFC,2-2,Wrexham AFC
@@ -273,153 +272,156 @@ Matchday,Date,Team 1,FT,Team 2
 23,Thu Dec 26 2002,Hull City AFC,2-0,Hartlepool United FC
 23,Thu Dec 26 2002,Boston United FC,3-0,York City FC
 23,Thu Dec 26 2002,Oxford United FC,3-0,AFC Bournemouth
-24,Sat Dec 28 2002,Rushden & Diamonds (1992-2011),0-2,Oxford United FC
-24,Sat Dec 28 2002,Hartlepool United FC,3-0,Cambridge United FC
-24,Sat Dec 28 2002,AFC Bournemouth,3-3,Rochdale AFC
+23,Thu Dec 26 2002,Macclesfield Town FC,0-1,Lincoln City FC
+24,Sat Dec 28 2002,Leyton Orient FC,2-1,Carlisle United FC
 24,Sat Dec 28 2002,Lincoln City FC,1-0,Swansea City FC
 24,Sat Dec 28 2002,Exeter City FC,1-1,Macclesfield Town FC
 24,Sat Dec 28 2002,York City FC,1-1,Hull City AFC
 24,Sat Dec 28 2002,Darlington FC,1-1,Torquay United FC
 24,Sat Dec 28 2002,Bristol Rovers FC,1-1,Boston United FC
-24,Sat Dec 28 2002,Leyton Orient FC,2-1,Carlisle United FC
+24,Sat Dec 28 2002,AFC Bournemouth,3-3,Rochdale AFC
+24,Sat Dec 28 2002,Hartlepool United FC,3-0,Cambridge United FC
+24,Sat Dec 28 2002,Rushden & Diamonds (1992-2011),0-2,Oxford United FC
 24,Sun Dec 29 2002,Southend United FC,1-2,Scunthorpe United FC
 24,Sun Dec 29 2002,Bury FC,1-1,Kidderminster Harriers FC
-25,Wed Jan 1 2003,Rushden & Diamonds (1992-2011),5-1,Shrewsbury Town FC
-25,Wed Jan 1 2003,Bury FC,1-0,Hull City AFC
-25,Wed Jan 1 2003,Lincoln City FC,1-1,Boston United FC
 25,Wed Jan 1 2003,York City FC,1-3,Scunthorpe United FC
 25,Wed Jan 1 2003,Hartlepool United FC,2-1,Carlisle United FC
 25,Wed Jan 1 2003,Wrexham AFC,1-3,Macclesfield Town FC
+25,Wed Jan 1 2003,Rushden & Diamonds (1992-2011),5-1,Shrewsbury Town FC
+25,Wed Jan 1 2003,Lincoln City FC,1-1,Boston United FC
+25,Wed Jan 1 2003,Bury FC,1-0,Hull City AFC
+26,Sat Jan 4 2003,Torquay United FC,1-1,Rushden & Diamonds (1992-2011)
 26,Sat Jan 4 2003,Hull City AFC,1-0,Bristol Rovers FC
 26,Sat Jan 4 2003,Carlisle United FC,1-0,Southend United FC
-26,Sat Jan 4 2003,Torquay United FC,1-1,Rushden & Diamonds (1992-2011)
 26,Sat Jan 4 2003,Boston United FC,0-1,Hartlepool United FC
-27,Sat Jan 11 2003,Hull City AFC,2-2,Exeter City FC
-27,Sat Jan 11 2003,Kidderminster Harriers FC,0-2,Rushden & Diamonds (1992-2011)
 27,Sat Jan 11 2003,Torquay United FC,3-1,York City FC
 27,Sat Jan 11 2003,Scunthorpe United FC,2-1,Leyton Orient FC
+27,Sat Jan 11 2003,Kidderminster Harriers FC,0-2,Rushden & Diamonds (1992-2011)
+27,Sat Jan 11 2003,Hull City AFC,2-2,Exeter City FC
 25,Tue Jan 14 2003,Bristol Rovers FC,1-1,Torquay United FC
-27,Tue Jan 14 2003,Shrewsbury Town FC,0-1,Southend United FC
 27,Tue Jan 14 2003,Oxford United FC,1-1,Darlington FC
+27,Tue Jan 14 2003,Shrewsbury Town FC,0-1,Southend United FC
 27,Tue Jan 14 2003,Swansea City FC,2-3,Bury FC
-28,Sat Jan 18 2003,Hartlepool United FC,3-1,Oxford United FC
-28,Sat Jan 18 2003,Southend United FC,1-0,Rochdale AFC
-28,Sat Jan 18 2003,Bristol Rovers FC,2-1,Scunthorpe United FC
-28,Sat Jan 18 2003,Leyton Orient FC,2-0,Hull City AFC
-28,Sat Jan 18 2003,Lincoln City FC,1-1,Shrewsbury Town FC
-28,Sat Jan 18 2003,York City FC,3-1,Swansea City FC
-28,Sat Jan 18 2003,AFC Bournemouth,2-2,Macclesfield Town FC
+28,Sat Jan 18 2003,Rushden & Diamonds (1992-2011),4-1,Cambridge United FC
 28,Sat Jan 18 2003,Wrexham AFC,2-1,Torquay United FC
-28,Sat Jan 18 2003,Bury FC,0-0,Boston United FC
+28,Sat Jan 18 2003,AFC Bournemouth,2-2,Macclesfield Town FC
+28,Sat Jan 18 2003,York City FC,3-1,Swansea City FC
+28,Sat Jan 18 2003,Lincoln City FC,1-1,Shrewsbury Town FC
+28,Sat Jan 18 2003,Leyton Orient FC,2-0,Hull City AFC
+28,Sat Jan 18 2003,Hartlepool United FC,3-1,Oxford United FC
 28,Sat Jan 18 2003,Exeter City FC,1-0,Carlisle United FC
 28,Sat Jan 18 2003,Darlington FC,2-1,Kidderminster Harriers FC
-28,Sat Jan 18 2003,Rushden & Diamonds (1992-2011),4-1,Cambridge United FC
+28,Sat Jan 18 2003,Bury FC,0-0,Boston United FC
+28,Sat Jan 18 2003,Bristol Rovers FC,2-1,Scunthorpe United FC
+28,Sat Jan 18 2003,Southend United FC,1-0,Rochdale AFC
 25,Tue Jan 21 2003,Southend United FC,2-1,Oxford United FC
-26,Tue Jan 21 2003,Rochdale AFC,0-1,Lincoln City FC
 26,Tue Jan 21 2003,Scunthorpe United FC,1-1,Exeter City FC
+26,Tue Jan 21 2003,Rochdale AFC,0-1,Lincoln City FC
 27,Tue Jan 21 2003,Macclesfield Town FC,0-1,Hartlepool United FC
-29,Sat Jan 25 2003,Carlisle United FC,3-0,Leyton Orient FC
-29,Sat Jan 25 2003,Boston United FC,0-0,Bristol Rovers FC
-29,Sat Jan 25 2003,Swansea City FC,2-0,Lincoln City FC
 29,Sat Jan 25 2003,Scunthorpe United FC,4-1,Southend United FC
+29,Sat Jan 25 2003,Swansea City FC,2-0,Lincoln City FC
+29,Sat Jan 25 2003,Boston United FC,0-0,Bristol Rovers FC
 29,Sat Jan 25 2003,Oxford United FC,3-0,Rushden & Diamonds (1992-2011)
 29,Sat Jan 25 2003,Macclesfield Town FC,1-1,Exeter City FC
 29,Sat Jan 25 2003,Kidderminster Harriers FC,3-2,Bury FC
 29,Sat Jan 25 2003,Hull City AFC,0-0,York City FC
-29,Sat Jan 25 2003,Torquay United FC,3-1,Darlington FC
+29,Sat Jan 25 2003,Carlisle United FC,3-0,Leyton Orient FC
 29,Sat Jan 25 2003,Cambridge United FC,0-0,Hartlepool United FC
-25,Tue Jan 28 2003,Leyton Orient FC,1-1,Cambridge United FC
+29,Sat Jan 25 2003,Torquay United FC,3-1,Darlington FC
 19,Tue Jan 28 2003,Kidderminster Harriers FC,1-3,Oxford United FC
+25,Tue Jan 28 2003,Leyton Orient FC,1-1,Cambridge United FC
 30,Sat Feb 1 2003,Hartlepool United FC,3-2,Torquay United FC
-30,Sat Feb 1 2003,Exeter City FC,1-1,Shrewsbury Town FC
-30,Sat Feb 1 2003,Wrexham AFC,2-1,Scunthorpe United FC
-30,Sat Feb 1 2003,Bristol Rovers FC,1-2,Carlisle United FC
 30,Sat Feb 1 2003,Southend United FC,3-0,Hull City AFC
+30,Sat Feb 1 2003,Wrexham AFC,2-1,Scunthorpe United FC
+30,Sat Feb 1 2003,Exeter City FC,1-1,Shrewsbury Town FC
+30,Sat Feb 1 2003,Bristol Rovers FC,1-2,Carlisle United FC
 30,Sat Feb 1 2003,Rushden & Diamonds (1992-2011),1-1,Swansea City FC
 30,Sat Feb 1 2003,AFC Bournemouth,2-1,Boston United FC
 30,Sun Feb 2 2003,York City FC,2-1,Macclesfield Town FC
-27,Tue Feb 4 2003,Carlisle United FC,1-4,Lincoln City FC
-26,Tue Feb 4 2003,Cambridge United FC,1-2,Bury FC
-26,Tue Feb 4 2003,Kidderminster Harriers FC,1-0,AFC Bournemouth
-26,Tue Feb 4 2003,Swansea City FC,1-0,Darlington FC
 26,Tue Feb 4 2003,Oxford United FC,0-2,Wrexham AFC
+26,Tue Feb 4 2003,Swansea City FC,1-0,Darlington FC
+26,Tue Feb 4 2003,Kidderminster Harriers FC,1-0,AFC Bournemouth
+26,Tue Feb 4 2003,Cambridge United FC,1-2,Bury FC
+27,Tue Feb 4 2003,Carlisle United FC,1-4,Lincoln City FC
 31,Sat Feb 8 2003,Torquay United FC,1-1,Bury FC
-31,Sat Feb 8 2003,Carlisle United FC,2-2,Kidderminster Harriers FC
 31,Sat Feb 8 2003,Southend United FC,2-2,Bristol Rovers FC
 31,Sat Feb 8 2003,Rochdale AFC,2-1,Oxford United FC
-31,Sat Feb 8 2003,Cambridge United FC,5-0,Shrewsbury Town FC
-31,Sat Feb 8 2003,AFC Bournemouth,2-0,Wrexham AFC
-31,Sat Feb 8 2003,Darlington FC,2-2,Rushden & Diamonds (1992-2011)
-31,Sat Feb 8 2003,Hartlepool United FC,2-1,Exeter City FC
 31,Sat Feb 8 2003,Macclesfield Town FC,1-3,Swansea City FC
 31,Sat Feb 8 2003,Leyton Orient FC,0-1,York City FC
 31,Sat Feb 8 2003,Boston United FC,1-0,Scunthorpe United FC
+31,Sat Feb 8 2003,Hartlepool United FC,2-1,Exeter City FC
+31,Sat Feb 8 2003,Darlington FC,2-2,Rushden & Diamonds (1992-2011)
+31,Sat Feb 8 2003,Carlisle United FC,2-2,Kidderminster Harriers FC
+31,Sat Feb 8 2003,Cambridge United FC,5-0,Shrewsbury Town FC
+31,Sat Feb 8 2003,AFC Bournemouth,2-0,Wrexham AFC
 31,Sat Feb 8 2003,Hull City AFC,0-1,Lincoln City FC
 23,Tue Feb 11 2003,Torquay United FC,1-0,Exeter City FC
-26,Tue Feb 11 2003,Shrewsbury Town FC,2-2,York City FC
 25,Tue Feb 11 2003,Darlington FC,0-1,Rochdale AFC
 25,Tue Feb 11 2003,AFC Bournemouth,3-0,Swansea City FC
-32,Sat Feb 15 2003,Exeter City FC,0-2,Boston United FC
-32,Sat Feb 15 2003,Kidderminster Harriers FC,2-0,Torquay United FC
-32,Sat Feb 15 2003,Bury FC,0-1,Leyton Orient FC
-32,Sat Feb 15 2003,Wrexham AFC,3-0,Southend United FC
-32,Sat Feb 15 2003,Swansea City FC,2-0,Cambridge United FC
+26,Tue Feb 11 2003,Shrewsbury Town FC,2-2,York City FC
 32,Sat Feb 15 2003,Scunthorpe United FC,3-1,Hull City AFC
+32,Sat Feb 15 2003,Swansea City FC,2-0,Cambridge United FC
+32,Sat Feb 15 2003,Wrexham AFC,3-0,Southend United FC
+32,Sat Feb 15 2003,Lincoln City FC,1-1,Darlington FC
+32,Sat Feb 15 2003,Kidderminster Harriers FC,2-0,Torquay United FC
+32,Sat Feb 15 2003,Exeter City FC,0-2,Boston United FC
+32,Sat Feb 15 2003,Bury FC,0-1,Leyton Orient FC
 32,Sat Feb 15 2003,Bristol Rovers FC,0-0,AFC Bournemouth
 32,Sat Feb 15 2003,York City FC,0-0,Hartlepool United FC
-32,Sat Feb 15 2003,Lincoln City FC,1-1,Darlington FC
 25,Tue Feb 18 2003,Exeter City FC,2-5,Kidderminster Harriers FC
-33,Sat Feb 22 2003,Bristol Rovers FC,1-1,Macclesfield Town FC
-33,Sat Feb 22 2003,Hartlepool United FC,4-0,Swansea City FC
-33,Sat Feb 22 2003,Hull City AFC,1-1,Cambridge United FC
-33,Sat Feb 22 2003,Boston United FC,3-0,Kidderminster Harriers FC
-33,Sat Feb 22 2003,York City FC,1-1,Bury FC
-33,Sat Feb 22 2003,Scunthorpe United FC,0-0,Lincoln City FC
-33,Sat Feb 22 2003,Southend United FC,2-1,Rushden & Diamonds (1992-2011)
-33,Sat Feb 22 2003,Torquay United FC,2-3,Oxford United FC
 33,Sat Feb 22 2003,Rochdale AFC,0-1,Carlisle United FC
-33,Sat Feb 22 2003,Leyton Orient FC,0-2,Shrewsbury Town FC
+33,Sat Feb 22 2003,Torquay United FC,2-3,Oxford United FC
+33,Sat Feb 22 2003,Southend United FC,2-1,Rushden & Diamonds (1992-2011)
+33,Sat Feb 22 2003,Scunthorpe United FC,0-0,Lincoln City FC
+33,Sat Feb 22 2003,York City FC,1-1,Bury FC
+33,Sat Feb 22 2003,Boston United FC,3-0,Kidderminster Harriers FC
+33,Sat Feb 22 2003,Hull City AFC,1-1,Cambridge United FC
+33,Sat Feb 22 2003,Hartlepool United FC,4-0,Swansea City FC
+33,Sat Feb 22 2003,Bristol Rovers FC,1-1,Macclesfield Town FC
 33,Sat Feb 22 2003,AFC Bournemouth,2-0,Exeter City FC
+33,Sat Feb 22 2003,Leyton Orient FC,0-2,Shrewsbury Town FC
 33,Sun Feb 23 2003,Wrexham AFC,0-0,Darlington FC
 30,Tue Feb 25 2003,Leyton Orient FC,0-1,Rochdale AFC
-34,Sat Mar 1 2003,Kidderminster Harriers FC,1-3,Scunthorpe United FC
-34,Sat Mar 1 2003,Lincoln City FC,1-1,Leyton Orient FC
-34,Sat Mar 1 2003,Swansea City FC,0-0,Wrexham AFC
-34,Sat Mar 1 2003,Bury FC,2-1,AFC Bournemouth
-34,Sat Mar 1 2003,Carlisle United FC,1-5,Hull City AFC
-34,Sat Mar 1 2003,Rushden & Diamonds (1992-2011),2-1,York City FC
-34,Sat Mar 1 2003,Shrewsbury Town FC,3-1,Rochdale AFC
 34,Sat Mar 1 2003,Macclesfield Town FC,2-1,Southend United FC
+34,Sat Mar 1 2003,Shrewsbury Town FC,3-1,Rochdale AFC
+34,Sat Mar 1 2003,Rushden & Diamonds (1992-2011),2-1,York City FC
+34,Sat Mar 1 2003,Bury FC,2-1,AFC Bournemouth
+34,Sat Mar 1 2003,Swansea City FC,0-0,Wrexham AFC
+34,Sat Mar 1 2003,Lincoln City FC,1-1,Leyton Orient FC
+34,Sat Mar 1 2003,Kidderminster Harriers FC,1-3,Scunthorpe United FC
+34,Sat Mar 1 2003,Exeter City FC,0-0,Bristol Rovers FC
 34,Sat Mar 1 2003,Darlington FC,2-2,Hartlepool United FC
+34,Sat Mar 1 2003,Carlisle United FC,1-5,Hull City AFC
 34,Sat Mar 1 2003,Cambridge United FC,0-1,Torquay United FC
 34,Sat Mar 1 2003,Oxford United FC,2-1,Boston United FC
-34,Sat Mar 1 2003,Exeter City FC,0-0,Bristol Rovers FC
-35,Tue Mar 4 2003,Cambridge United FC,2-2,Rochdale AFC
-35,Tue Mar 4 2003,Exeter City FC,1-0,Wrexham AFC
-35,Tue Mar 4 2003,Kidderminster Harriers FC,1-0,Southend United FC
-35,Tue Mar 4 2003,Lincoln City FC,3-0,Hartlepool United FC
-35,Tue Mar 4 2003,Macclesfield Town FC,0-1,Hull City AFC
-35,Tue Mar 4 2003,Oxford United FC,0-2,Leyton Orient FC
 35,Tue Mar 4 2003,Darlington FC,2-1,York City FC
 35,Tue Mar 4 2003,Swansea City FC,0-0,Boston United FC
 35,Tue Mar 4 2003,Rushden & Diamonds (1992-2011),2-1,AFC Bournemouth
+35,Tue Mar 4 2003,Oxford United FC,0-2,Leyton Orient FC
+35,Tue Mar 4 2003,Macclesfield Town FC,0-1,Hull City AFC
+35,Tue Mar 4 2003,Lincoln City FC,3-0,Hartlepool United FC
+35,Tue Mar 4 2003,Kidderminster Harriers FC,1-0,Southend United FC
+35,Tue Mar 4 2003,Exeter City FC,1-0,Wrexham AFC
+35,Tue Mar 4 2003,Cambridge United FC,2-2,Rochdale AFC
 35,Tue Mar 4 2003,Bury FC,0-1,Bristol Rovers FC
 36,Fri Mar 7 2003,Hartlepool United FC,0-0,Bury FC
-36,Sat Mar 8 2003,Boston United FC,0-0,Carlisle United FC
-36,Sat Mar 8 2003,AFC Bournemouth,2-0,Darlington FC
-36,Sat Mar 8 2003,Bristol Rovers FC,0-0,Shrewsbury Town FC
-36,Sat Mar 8 2003,Hull City AFC,0-0,Oxford United FC
-36,Sat Mar 8 2003,Leyton Orient FC,1-1,Exeter City FC
-36,Sat Mar 8 2003,Scunthorpe United FC,1-1,Macclesfield Town FC
 36,Sat Mar 8 2003,York City FC,3-1,Cambridge United FC
 36,Sat Mar 8 2003,Wrexham AFC,3-0,Rushden & Diamonds (1992-2011)
 36,Sat Mar 8 2003,Torquay United FC,0-0,Swansea City FC
 36,Sat Mar 8 2003,Southend United FC,0-1,Lincoln City FC
-26,Tue Mar 11 2003,Macclesfield Town FC,3-1,Leyton Orient FC
+36,Sat Mar 8 2003,Scunthorpe United FC,1-1,Macclesfield Town FC
+36,Sat Mar 8 2003,Leyton Orient FC,1-1,Exeter City FC
+36,Sat Mar 8 2003,Hull City AFC,0-0,Oxford United FC
+36,Sat Mar 8 2003,Bristol Rovers FC,0-0,Shrewsbury Town FC
+36,Sat Mar 8 2003,AFC Bournemouth,2-0,Darlington FC
+36,Sat Mar 8 2003,Boston United FC,0-0,Carlisle United FC
 24,Tue Mar 11 2003,Wrexham AFC,3-3,Shrewsbury Town FC
-35,Tue Mar 11 2003,Carlisle United FC,1-2,Scunthorpe United FC
+26,Tue Mar 11 2003,Macclesfield Town FC,3-1,Leyton Orient FC
 29,Tue Mar 11 2003,Rochdale AFC,1-1,AFC Bournemouth
 30,Tue Mar 11 2003,Darlington FC,1-2,Cambridge United FC
+35,Tue Mar 11 2003,Carlisle United FC,1-2,Scunthorpe United FC
+37,Sat Mar 15 2003,Rushden & Diamonds (1992-2011),4-2,Hull City AFC
+37,Sat Mar 15 2003,Swansea City FC,1-2,Carlisle United FC
 37,Sat Mar 15 2003,Shrewsbury Town FC,1-2,Oxford United FC
 37,Sat Mar 15 2003,Torquay United FC,1-1,Scunthorpe United FC
 37,Sat Mar 15 2003,Rochdale AFC,1-0,Boston United FC
@@ -430,121 +432,119 @@ Matchday,Date,Team 1,FT,Team 2
 37,Sat Mar 15 2003,York City FC,1-0,AFC Bournemouth
 37,Sat Mar 15 2003,Cambridge United FC,0-2,Kidderminster Harriers FC
 37,Sat Mar 15 2003,Darlington FC,2-2,Exeter City FC
-37,Sat Mar 15 2003,Swansea City FC,1-2,Carlisle United FC
-37,Sat Mar 15 2003,Rushden & Diamonds (1992-2011),4-2,Hull City AFC
-38,Tue Mar 18 2003,Carlisle United FC,1-0,Macclesfield Town FC
-38,Tue Mar 18 2003,Bristol Rovers FC,0-1,York City FC
-38,Tue Mar 18 2003,Oxford United FC,1-1,Cambridge United FC
-38,Tue Mar 18 2003,Bury FC,0-1,Rushden & Diamonds (1992-2011)
-38,Tue Mar 18 2003,Exeter City FC,2-0,Lincoln City FC
-38,Tue Mar 18 2003,Hull City AFC,1-1,Torquay United FC
-38,Tue Mar 18 2003,Kidderminster Harriers FC,2-2,Shrewsbury Town FC
-38,Tue Mar 18 2003,AFC Bournemouth,3-1,Leyton Orient FC
 38,Tue Mar 18 2003,Wrexham AFC,2-0,Hartlepool United FC
 38,Tue Mar 18 2003,Southend United FC,0-2,Swansea City FC
 38,Tue Mar 18 2003,Scunthorpe United FC,3-1,Rochdale AFC
+38,Tue Mar 18 2003,AFC Bournemouth,3-1,Leyton Orient FC
+38,Tue Mar 18 2003,Kidderminster Harriers FC,2-2,Shrewsbury Town FC
+38,Tue Mar 18 2003,Hull City AFC,1-1,Torquay United FC
+38,Tue Mar 18 2003,Exeter City FC,2-0,Lincoln City FC
+38,Tue Mar 18 2003,Carlisle United FC,1-0,Macclesfield Town FC
+38,Tue Mar 18 2003,Bury FC,0-1,Rushden & Diamonds (1992-2011)
+38,Tue Mar 18 2003,Bristol Rovers FC,0-1,York City FC
+38,Tue Mar 18 2003,Oxford United FC,1-1,Cambridge United FC
 38,Wed Mar 19 2003,Boston United FC,1-0,Darlington FC
-39,Sat Mar 22 2003,Bristol Rovers FC,1-0,Hartlepool United FC
+39,Sat Mar 22 2003,Boston United FC,1-1,Rushden & Diamonds (1992-2011)
+39,Sat Mar 22 2003,Southend United FC,1-0,Leyton Orient FC
+39,Sat Mar 22 2003,Scunthorpe United FC,0-1,Darlington FC
+39,Sat Mar 22 2003,Oxford United FC,0-1,Macclesfield Town FC
+39,Sat Mar 22 2003,Kidderminster Harriers FC,2-2,Swansea City FC
 39,Sat Mar 22 2003,Wrexham AFC,1-1,York City FC
 39,Sat Mar 22 2003,Exeter City FC,1-1,Rochdale AFC
 39,Sat Mar 22 2003,Carlisle United FC,0-1,Cambridge United FC
 39,Sat Mar 22 2003,Bury FC,2-0,Lincoln City FC
-39,Sat Mar 22 2003,Southend United FC,1-0,Leyton Orient FC
-39,Sat Mar 22 2003,Boston United FC,1-1,Rushden & Diamonds (1992-2011)
+39,Sat Mar 22 2003,Bristol Rovers FC,1-0,Hartlepool United FC
 39,Sat Mar 22 2003,AFC Bournemouth,1-1,Torquay United FC
-39,Sat Mar 22 2003,Scunthorpe United FC,0-1,Darlington FC
 39,Sat Mar 22 2003,Hull City AFC,2-0,Shrewsbury Town FC
-39,Sat Mar 22 2003,Kidderminster Harriers FC,2-2,Swansea City FC
-39,Sat Mar 22 2003,Oxford United FC,0-1,Macclesfield Town FC
 32,Mon Mar 24 2003,Rushden & Diamonds (1992-2011),3-3,Rochdale AFC
-35,Tue Mar 25 2003,Shrewsbury Town FC,2-3,Torquay United FC
-30,Tue Mar 25 2003,Bury FC,1-1,Oxford United FC
-30,Tue Mar 25 2003,Lincoln City FC,1-0,Kidderminster Harriers FC
 27,Tue Mar 25 2003,Cambridge United FC,2-1,AFC Bournemouth
+30,Tue Mar 25 2003,Lincoln City FC,1-0,Kidderminster Harriers FC
+30,Tue Mar 25 2003,Bury FC,1-1,Oxford United FC
+35,Tue Mar 25 2003,Shrewsbury Town FC,2-3,Torquay United FC
 40,Fri Mar 28 2003,Swansea City FC,3-2,Oxford United FC
-40,Sat Mar 29 2003,Cambridge United FC,1-1,Scunthorpe United FC
+40,Sat Mar 29 2003,York City FC,2-0,Southend United FC
+40,Sat Mar 29 2003,Torquay United FC,1-1,Boston United FC
+40,Sat Mar 29 2003,Rushden & Diamonds (1992-2011),1-0,Exeter City FC
+40,Sat Mar 29 2003,Macclesfield Town FC,2-0,Kidderminster Harriers FC
+40,Sat Mar 29 2003,Lincoln City FC,2-1,Bristol Rovers FC
 40,Sat Mar 29 2003,Hartlepool United FC,0-0,AFC Bournemouth
 40,Sat Mar 29 2003,Darlington FC,3-1,Bury FC
-40,Sat Mar 29 2003,Torquay United FC,1-1,Boston United FC
-40,Sat Mar 29 2003,Lincoln City FC,2-1,Bristol Rovers FC
-40,Sat Mar 29 2003,Rushden & Diamonds (1992-2011),1-0,Exeter City FC
-40,Sat Mar 29 2003,York City FC,2-0,Southend United FC
-40,Sat Mar 29 2003,Macclesfield Town FC,2-0,Kidderminster Harriers FC
+40,Sat Mar 29 2003,Cambridge United FC,1-1,Scunthorpe United FC
 32,Tue Apr 1 2003,Oxford United FC,0-0,Carlisle United FC
 27,Wed Apr 2 2003,Boston United FC,3-3,Wrexham AFC
-41,Sat Apr 5 2003,Southend United FC,2-0,Darlington FC
-41,Sat Apr 5 2003,Leyton Orient FC,3-2,Boston United FC
-41,Sat Apr 5 2003,Lincoln City FC,0-1,Oxford United FC
-41,Sat Apr 5 2003,Kidderminster Harriers FC,2-2,Hartlepool United FC
-41,Sat Apr 5 2003,Bristol Rovers FC,1-2,Rushden & Diamonds (1992-2011)
-41,Sat Apr 5 2003,Exeter City FC,1-2,Bury FC
-41,Sat Apr 5 2003,Hull City AFC,1-2,Wrexham AFC
-41,Sat Apr 5 2003,Rochdale AFC,0-2,Torquay United FC
+41,Sat Apr 5 2003,Macclesfield Town FC,1-1,Cambridge United FC
 41,Sat Apr 5 2003,Shrewsbury Town FC,0-0,Swansea City FC
 41,Sat Apr 5 2003,Scunthorpe United FC,0-2,AFC Bournemouth
-41,Sat Apr 5 2003,Macclesfield Town FC,1-1,Cambridge United FC
+41,Sat Apr 5 2003,Rochdale AFC,0-2,Torquay United FC
+41,Sat Apr 5 2003,Southend United FC,2-0,Darlington FC
+41,Sat Apr 5 2003,Lincoln City FC,0-1,Oxford United FC
+41,Sat Apr 5 2003,Leyton Orient FC,3-2,Boston United FC
+41,Sat Apr 5 2003,Kidderminster Harriers FC,2-2,Hartlepool United FC
+41,Sat Apr 5 2003,Hull City AFC,1-2,Wrexham AFC
+41,Sat Apr 5 2003,Exeter City FC,1-2,Bury FC
+41,Sat Apr 5 2003,Bristol Rovers FC,1-2,Rushden & Diamonds (1992-2011)
 27,Tue Apr 8 2003,Rochdale AFC,1-1,Bristol Rovers FC
 29,Wed Apr 9 2003,Shrewsbury Town FC,1-2,Wrexham AFC
-42,Sat Apr 12 2003,Boston United FC,0-1,Hull City AFC
-42,Sat Apr 12 2003,Darlington FC,5-1,Shrewsbury Town FC
-42,Sat Apr 12 2003,Cambridge United FC,2-1,Exeter City FC
-42,Sat Apr 12 2003,Bury FC,1-1,Carlisle United FC
-42,Sat Apr 12 2003,AFC Bournemouth,1-0,Southend United FC
-42,Sat Apr 12 2003,Hartlepool United FC,4-1,Leyton Orient FC
 42,Sat Apr 12 2003,Oxford United FC,2-1,Kidderminster Harriers FC
 42,Sat Apr 12 2003,Wrexham AFC,3-2,Bristol Rovers FC
 42,Sat Apr 12 2003,Torquay United FC,2-2,Macclesfield Town FC
 42,Sat Apr 12 2003,Swansea City FC,1-1,Scunthorpe United FC
 42,Sat Apr 12 2003,Rushden & Diamonds (1992-2011),1-0,Lincoln City FC
 42,Sat Apr 12 2003,York City FC,2-2,Rochdale AFC
+42,Sat Apr 12 2003,Hartlepool United FC,4-1,Leyton Orient FC
+42,Sat Apr 12 2003,Darlington FC,5-1,Shrewsbury Town FC
+42,Sat Apr 12 2003,Cambridge United FC,2-1,Exeter City FC
+42,Sat Apr 12 2003,Bury FC,1-1,Carlisle United FC
+42,Sat Apr 12 2003,AFC Bournemouth,1-0,Southend United FC
+42,Sat Apr 12 2003,Boston United FC,0-1,Hull City AFC
 32,Tue Apr 15 2003,Shrewsbury Town FC,2-3,Macclesfield Town FC
-41,Tue Apr 15 2003,Carlisle United FC,1-1,York City FC
 36,Tue Apr 15 2003,Rochdale AFC,0-1,Kidderminster Harriers FC
+41,Tue Apr 15 2003,Carlisle United FC,1-1,York City FC
 43,Fri Apr 18 2003,Rochdale AFC,1-2,Bury FC
 43,Sat Apr 19 2003,Macclesfield Town FC,1-0,Darlington FC
-43,Sat Apr 19 2003,Hull City AFC,3-1,AFC Bournemouth
-43,Sat Apr 19 2003,Exeter City FC,2-2,Oxford United FC
-43,Sat Apr 19 2003,Scunthorpe United FC,4-0,Hartlepool United FC
 43,Sat Apr 19 2003,Shrewsbury Town FC,1-2,Boston United FC
 43,Sat Apr 19 2003,Bristol Rovers FC,3-1,Cambridge United FC
 43,Sat Apr 19 2003,Southend United FC,3-0,Torquay United FC
 43,Sat Apr 19 2003,Lincoln City FC,1-0,York City FC
 43,Sat Apr 19 2003,Leyton Orient FC,3-1,Swansea City FC
 43,Sat Apr 19 2003,Kidderminster Harriers FC,0-2,Wrexham AFC
+43,Sat Apr 19 2003,Hull City AFC,3-1,AFC Bournemouth
+43,Sat Apr 19 2003,Exeter City FC,2-2,Oxford United FC
 43,Sat Apr 19 2003,Carlisle United FC,1-2,Rushden & Diamonds (1992-2011)
-44,Mon Apr 21 2003,AFC Bournemouth,2-1,Shrewsbury Town FC
-44,Mon Apr 21 2003,Bury FC,0-0,Scunthorpe United FC
-44,Mon Apr 21 2003,Oxford United FC,0-1,Bristol Rovers FC
+43,Sat Apr 19 2003,Scunthorpe United FC,4-0,Hartlepool United FC
 44,Mon Apr 21 2003,York City FC,0-0,Kidderminster Harriers FC
 44,Mon Apr 21 2003,Wrexham AFC,6-1,Carlisle United FC
 44,Mon Apr 21 2003,Torquay United FC,2-2,Leyton Orient FC
-44,Mon Apr 21 2003,Darlington FC,2-0,Hull City AFC
+44,Mon Apr 21 2003,Swansea City FC,0-1,Exeter City FC
 44,Mon Apr 21 2003,Rushden & Diamonds (1992-2011),3-0,Macclesfield Town FC
 44,Mon Apr 21 2003,Boston United FC,1-0,Southend United FC
 44,Mon Apr 21 2003,Hartlepool United FC,2-2,Rochdale AFC
-44,Mon Apr 21 2003,Swansea City FC,0-1,Exeter City FC
+44,Mon Apr 21 2003,Darlington FC,2-0,Hull City AFC
+44,Mon Apr 21 2003,Bury FC,0-0,Scunthorpe United FC
+44,Mon Apr 21 2003,AFC Bournemouth,2-1,Shrewsbury Town FC
+44,Mon Apr 21 2003,Oxford United FC,0-1,Bristol Rovers FC
 44,Tue Apr 22 2003,Cambridge United FC,0-0,Lincoln City FC
-45,Sat Apr 26 2003,Scunthorpe United FC,2-0,Oxford United FC
-45,Sat Apr 26 2003,AFC Bournemouth,0-1,Lincoln City FC
-45,Sat Apr 26 2003,Leyton Orient FC,0-0,Rushden & Diamonds (1992-2011)
 45,Sat Apr 26 2003,York City FC,0-2,Exeter City FC
 45,Sat Apr 26 2003,Wrexham AFC,5-0,Cambridge United FC
 45,Sat Apr 26 2003,Torquay United FC,2-3,Carlisle United FC
 45,Sat Apr 26 2003,Southend United FC,1-2,Bury FC
-45,Sat Apr 26 2003,Bristol Rovers FC,2-1,Darlington FC
+45,Sat Apr 26 2003,Scunthorpe United FC,2-0,Oxford United FC
 45,Sat Apr 26 2003,Rochdale AFC,1-2,Swansea City FC
 45,Sat Apr 26 2003,Boston United FC,2-1,Macclesfield Town FC
 45,Sat Apr 26 2003,Hull City AFC,4-1,Kidderminster Harriers FC
 45,Sat Apr 26 2003,Hartlepool United FC,3-0,Shrewsbury Town FC
-40,Tue Apr 29 2003,Rochdale AFC,2-1,Hull City AFC
+45,Sat Apr 26 2003,Bristol Rovers FC,2-1,Darlington FC
+45,Sat Apr 26 2003,AFC Bournemouth,0-1,Lincoln City FC
+45,Sat Apr 26 2003,Leyton Orient FC,0-0,Rushden & Diamonds (1992-2011)
 40,Tue Apr 29 2003,Shrewsbury Town FC,2-3,Carlisle United FC
 40,Tue Apr 29 2003,Leyton Orient FC,0-1,Wrexham AFC
-46,Sat May 3 2003,Lincoln City FC,1-1,Torquay United FC
+40,Tue Apr 29 2003,Rochdale AFC,2-1,Hull City AFC
+46,Sat May 3 2003,Swansea City FC,4-2,Hull City AFC
 46,Sat May 3 2003,Shrewsbury Town FC,1-2,Scunthorpe United FC
 46,Sat May 3 2003,Rushden & Diamonds (1992-2011),1-1,Hartlepool United FC
 46,Sat May 3 2003,Oxford United FC,2-0,York City FC
 46,Sat May 3 2003,Macclesfield Town FC,3-2,Rochdale AFC
-46,Sat May 3 2003,Swansea City FC,4-2,Hull City AFC
+46,Sat May 3 2003,Lincoln City FC,1-1,Torquay United FC
 46,Sat May 3 2003,Kidderminster Harriers FC,1-1,Bristol Rovers FC
 46,Sat May 3 2003,Exeter City FC,1-0,Southend United FC
 46,Sat May 3 2003,Darlington FC,2-2,Leyton Orient FC

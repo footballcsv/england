@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 6 2011,Wycombe Wanderers FC,1-1,Scunthorpe United FC
 1,Sat Aug 6 2011,Walsall FC,1-0,Leyton Orient FC
 1,Sat Aug 6 2011,Tranmere Rovers FC,1-0,Chesterfield FC
@@ -40,13 +40,13 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sat Aug 20 2011,Tranmere Rovers FC,1-1,Sheffield United FC
 4,Sat Aug 20 2011,Stevenage FC,2-2,Hartlepool United FC
 4,Sat Aug 20 2011,Sheffield Wednesday FC,2-1,Notts County FC
-4,Sat Aug 20 2011,Preston North End FC,1-0,Exeter City FC
+4,Sat Aug 20 2011,Brentford FC,5-0,Leyton Orient FC
 4,Sat Aug 20 2011,Oldham Athletic AFC,2-0,Rochdale AFC
 4,Sat Aug 20 2011,Milton Keynes Dons FC,6-2,Chesterfield FC
 4,Sat Aug 20 2011,Huddersfield Town AFC,3-2,Colchester United FC
 4,Sat Aug 20 2011,Charlton Athletic FC,2-2,Scunthorpe United FC
 4,Sat Aug 20 2011,Carlisle United FC,2-1,AFC Bournemouth
-4,Sat Aug 20 2011,Brentford FC,5-0,Leyton Orient FC
+4,Sat Aug 20 2011,Preston North End FC,1-0,Exeter City FC
 5,Sat Aug 27 2011,Yeovil Town FC,0-1,Sheffield United FC
 5,Sat Aug 27 2011,Sheffield Wednesday FC,3-2,Scunthorpe United FC
 5,Sat Aug 27 2011,Rochdale AFC,1-3,Hartlepool United FC
@@ -57,33 +57,32 @@ Matchday,Date,Team 1,FT,Team 2
 5,Sat Aug 27 2011,Exeter City FC,2-1,Chesterfield FC
 5,Sat Aug 27 2011,Colchester United FC,4-1,Oldham Athletic AFC
 5,Sat Aug 27 2011,Bury FC,1-2,Charlton Athletic FC
-5,Sat Aug 27 2011,Brentford FC,0-2,Tranmere Rovers FC
 5,Sat Aug 27 2011,AFC Bournemouth,0-2,Walsall FC
+5,Sat Aug 27 2011,Brentford FC,0-2,Tranmere Rovers FC
 6,Sat Sep 3 2011,Walsall FC,0-1,Brentford FC
 6,Sat Sep 3 2011,Tranmere Rovers FC,0-0,Yeovil Town FC
 6,Sat Sep 3 2011,Stevenage FC,4-2,Rochdale AFC
 6,Sat Sep 3 2011,Sheffield United FC,4-0,Bury FC
 6,Sat Sep 3 2011,Scunthorpe United FC,1-1,Colchester United FC
-6,Sat Sep 3 2011,Oldham Athletic AFC,1-1,Huddersfield Town AFC
+6,Sat Sep 3 2011,Carlisle United FC,1-3,Milton Keynes Dons FC
 6,Sat Sep 3 2011,Notts County FC,3-1,AFC Bournemouth
 6,Sat Sep 3 2011,Hartlepool United FC,2-0,Exeter City FC
 6,Sat Sep 3 2011,Chesterfield FC,0-0,Leyton Orient FC
-6,Sat Sep 3 2011,Carlisle United FC,1-3,Milton Keynes Dons FC
+6,Sat Sep 3 2011,Oldham Athletic AFC,1-1,Huddersfield Town AFC
 6,Mon Sep 5 2011,Charlton Athletic FC,1-1,Sheffield Wednesday FC
 7,Fri Sep 9 2011,Preston North End FC,4-3,Yeovil Town FC
-7,Sat Sep 10 2011,Oldham Athletic AFC,1-1,Stevenage FC
 7,Sat Sep 10 2011,AFC Bournemouth,0-3,Chesterfield FC
 7,Sat Sep 10 2011,Sheffield Wednesday FC,3-1,Milton Keynes Dons FC
 7,Sat Sep 10 2011,Scunthorpe United FC,1-1,Sheffield United FC
-7,Sat Sep 10 2011,Notts County FC,2-1,Walsall FC
-7,Sat Sep 10 2011,Bury FC,2-4,Rochdale AFC
+7,Sat Sep 10 2011,Oldham Athletic AFC,1-1,Stevenage FC
+7,Sat Sep 10 2011,Wycombe Wanderers FC,0-1,Brentford FC
 7,Sat Sep 10 2011,Huddersfield Town AFC,2-0,Tranmere Rovers FC
 7,Sat Sep 10 2011,Colchester United FC,1-1,Leyton Orient FC
 7,Sat Sep 10 2011,Charlton Athletic FC,2-0,Exeter City FC
 7,Sat Sep 10 2011,Carlisle United FC,1-2,Hartlepool United FC
-7,Sat Sep 10 2011,Wycombe Wanderers FC,0-1,Brentford FC
+7,Sat Sep 10 2011,Bury FC,2-4,Rochdale AFC
+7,Sat Sep 10 2011,Notts County FC,2-1,Walsall FC
 8,Tue Sep 13 2011,Yeovil Town FC,1-0,Wycombe Wanderers FC
-8,Tue Sep 13 2011,Brentford FC,1-1,Colchester United FC
 8,Tue Sep 13 2011,Walsall FC,0-1,Oldham Athletic AFC
 8,Tue Sep 13 2011,Tranmere Rovers FC,1-2,Carlisle United FC
 8,Tue Sep 13 2011,Stevenage FC,5-1,Sheffield Wednesday FC
@@ -92,21 +91,19 @@ Matchday,Date,Team 1,FT,Team 2
 8,Tue Sep 13 2011,Leyton Orient FC,1-3,AFC Bournemouth
 8,Tue Sep 13 2011,Exeter City FC,1-1,Notts County FC
 8,Tue Sep 13 2011,Chesterfield FC,1-0,Bury FC
-9,Sat Sep 17 2011,Leyton Orient FC,1-3,Oldham Athletic AFC
-9,Sat Sep 17 2011,Sheffield United FC,3-0,Colchester United FC
-9,Sat Sep 17 2011,Chesterfield FC,4-1,Carlisle United FC
+8,Tue Sep 13 2011,Brentford FC,1-1,Colchester United FC
 9,Sat Sep 17 2011,Yeovil Town FC,2-3,Sheffield Wednesday FC
 9,Sat Sep 17 2011,Walsall FC,2-2,Scunthorpe United FC
 9,Sat Sep 17 2011,Tranmere Rovers FC,2-0,Wycombe Wanderers FC
 9,Sat Sep 17 2011,Stevenage FC,0-2,Notts County FC
-9,Sat Sep 17 2011,Exeter City FC,0-2,AFC Bournemouth
+9,Sat Sep 17 2011,Sheffield United FC,3-0,Colchester United FC
 9,Sat Sep 17 2011,Rochdale AFC,2-3,Charlton Athletic FC
 9,Sat Sep 17 2011,Milton Keynes Dons FC,1-1,Huddersfield Town AFC
 9,Sat Sep 17 2011,Brentford FC,1-3,Preston North End FC
 9,Sat Sep 17 2011,Hartlepool United FC,3-0,Bury FC
-10,Sat Sep 24 2011,Bury FC,0-0,Milton Keynes Dons FC
-10,Sat Sep 24 2011,Carlisle United FC,1-0,Stevenage FC
-10,Sat Sep 24 2011,AFC Bournemouth,1-2,Hartlepool United FC
+9,Sat Sep 17 2011,Exeter City FC,0-2,AFC Bournemouth
+9,Sat Sep 17 2011,Chesterfield FC,4-1,Carlisle United FC
+9,Sat Sep 17 2011,Leyton Orient FC,1-3,Oldham Athletic AFC
 10,Sat Sep 24 2011,Wycombe Wanderers FC,1-0,Sheffield United FC
 10,Sat Sep 24 2011,Sheffield Wednesday FC,3-0,Exeter City FC
 10,Sat Sep 24 2011,Scunthorpe United FC,2-1,Yeovil Town FC
@@ -116,45 +113,47 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Sep 24 2011,Huddersfield Town AFC,2-2,Leyton Orient FC
 10,Sat Sep 24 2011,Colchester United FC,1-0,Walsall FC
 10,Sat Sep 24 2011,Charlton Athletic FC,3-1,Chesterfield FC
+10,Sat Sep 24 2011,Carlisle United FC,1-0,Stevenage FC
+10,Sat Sep 24 2011,Bury FC,0-0,Milton Keynes Dons FC
+10,Sat Sep 24 2011,AFC Bournemouth,1-2,Hartlepool United FC
 6,Tue Sep 27 2011,Wycombe Wanderers FC,3-4,Preston North End FC
 8,Tue Sep 27 2011,Milton Keynes Dons FC,1-1,Charlton Athletic FC
-11,Sat Oct 1 2011,Sheffield United FC,0-2,Charlton Athletic FC
 11,Sat Oct 1 2011,Yeovil Town FC,1-3,Bury FC
 11,Sat Oct 1 2011,Walsall FC,1-1,Carlisle United FC
 11,Sat Oct 1 2011,Tranmere Rovers FC,0-0,AFC Bournemouth
 11,Sat Oct 1 2011,Stevenage FC,1-2,Scunthorpe United FC
-11,Sat Oct 1 2011,Hartlepool United FC,0-1,Sheffield Wednesday FC
+11,Sat Oct 1 2011,Sheffield United FC,0-2,Charlton Athletic FC
 11,Sat Oct 1 2011,Rochdale AFC,2-1,Wycombe Wanderers FC
 11,Sat Oct 1 2011,Milton Keynes Dons FC,3-0,Notts County FC
 11,Sat Oct 1 2011,Leyton Orient FC,2-1,Preston North End FC
-11,Sat Oct 1 2011,Exeter City FC,2-0,Oldham Athletic AFC
+11,Sat Oct 1 2011,Hartlepool United FC,0-1,Sheffield Wednesday FC
 11,Sat Oct 1 2011,Brentford FC,0-4,Huddersfield Town AFC
 11,Sat Oct 1 2011,Chesterfield FC,0-1,Colchester United FC
-12,Sat Oct 8 2011,AFC Bournemouth,1-1,Rochdale AFC
+11,Sat Oct 1 2011,Exeter City FC,2-0,Oldham Athletic AFC
 12,Sat Oct 8 2011,Wycombe Wanderers FC,1-1,Walsall FC
 12,Sat Oct 8 2011,Sheffield Wednesday FC,3-1,Chesterfield FC
 12,Sat Oct 8 2011,Scunthorpe United FC,2-3,Leyton Orient FC
-12,Sat Oct 8 2011,Bury FC,2-0,Exeter City FC
-12,Sat Oct 8 2011,Colchester United FC,2-2,Yeovil Town FC
+12,Sat Oct 8 2011,Huddersfield Town AFC,2-1,Stevenage FC
+12,Sat Oct 8 2011,AFC Bournemouth,1-1,Rochdale AFC
 12,Sat Oct 8 2011,Charlton Athletic FC,1-1,Tranmere Rovers FC
 12,Sat Oct 8 2011,Carlisle United FC,2-2,Brentford FC
-12,Sat Oct 8 2011,Huddersfield Town AFC,2-1,Stevenage FC
+12,Sat Oct 8 2011,Bury FC,2-0,Exeter City FC
+12,Sat Oct 8 2011,Colchester United FC,2-2,Yeovil Town FC
 12,Sun Oct 9 2011,Notts County FC,3-0,Hartlepool United FC
 12,Mon Oct 10 2011,Oldham Athletic AFC,2-1,Milton Keynes Dons FC
-13,Sat Oct 15 2011,Tranmere Rovers FC,1-0,Oldham Athletic AFC
-13,Sat Oct 15 2011,Walsall FC,1-0,Preston North End FC
 13,Sat Oct 15 2011,Rochdale AFC,2-2,Colchester United FC
 13,Sat Oct 15 2011,Brentford FC,0-0,Scunthorpe United FC
-13,Sat Oct 15 2011,Exeter City FC,0-4,Huddersfield Town AFC
+13,Sat Oct 15 2011,Tranmere Rovers FC,1-0,Oldham Athletic AFC
 13,Sat Oct 15 2011,Stevenage FC,1-0,Charlton Athletic FC
 13,Sat Oct 15 2011,Yeovil Town FC,0-3,Carlisle United FC
 13,Sat Oct 15 2011,Milton Keynes Dons FC,2-2,AFC Bournemouth
 13,Sat Oct 15 2011,Leyton Orient FC,1-0,Bury FC
 13,Sat Oct 15 2011,Hartlepool United FC,1-3,Wycombe Wanderers FC
+13,Sat Oct 15 2011,Exeter City FC,0-4,Huddersfield Town AFC
 13,Sat Oct 15 2011,Chesterfield FC,1-3,Notts County FC
+13,Sat Oct 15 2011,Walsall FC,1-0,Preston North End FC
 13,Sun Oct 16 2011,Sheffield United FC,2-2,Sheffield Wednesday FC
 12,Wed Oct 19 2011,Preston North End FC,2-4,Sheffield United FC
-14,Sat Oct 22 2011,Charlton Athletic FC,4-0,Carlisle United FC
 14,Sat Oct 22 2011,Notts County FC,1-1,Brentford FC
 14,Sat Oct 22 2011,Stevenage FC,0-0,Yeovil Town FC
 14,Sat Oct 22 2011,Sheffield Wednesday FC,2-0,Colchester United FC
@@ -166,31 +165,31 @@ Matchday,Date,Team 1,FT,Team 2
 14,Sat Oct 22 2011,Exeter City FC,3-1,Rochdale AFC
 14,Sat Oct 22 2011,Chesterfield FC,2-3,Hartlepool United FC
 14,Sat Oct 22 2011,AFC Bournemouth,1-2,Bury FC
-15,Tue Oct 25 2011,Brentford FC,0-1,Stevenage FC
+14,Sat Oct 22 2011,Charlton Athletic FC,4-0,Carlisle United FC
 15,Tue Oct 25 2011,Yeovil Town FC,2-2,Leyton Orient FC
 15,Tue Oct 25 2011,Wycombe Wanderers FC,1-2,Charlton Athletic FC
 15,Tue Oct 25 2011,Walsall FC,1-2,Exeter City FC
 15,Tue Oct 25 2011,Sheffield United FC,2-1,Milton Keynes Dons FC
-15,Tue Oct 25 2011,Scunthorpe United FC,2-2,Huddersfield Town AFC
+15,Tue Oct 25 2011,Brentford FC,0-1,Stevenage FC
 15,Tue Oct 25 2011,Rochdale AFC,1-1,Chesterfield FC
 15,Tue Oct 25 2011,Preston North End FC,3-3,Oldham Athletic AFC
 15,Tue Oct 25 2011,Hartlepool United FC,0-2,Tranmere Rovers FC
 15,Tue Oct 25 2011,Colchester United FC,1-1,AFC Bournemouth
 15,Tue Oct 25 2011,Carlisle United FC,3-2,Sheffield Wednesday FC
 15,Tue Oct 25 2011,Bury FC,2-2,Notts County FC
-16,Sat Oct 29 2011,Bury FC,1-2,Stevenage FC
+15,Tue Oct 25 2011,Scunthorpe United FC,2-2,Huddersfield Town AFC
 16,Sat Oct 29 2011,Yeovil Town FC,0-1,Huddersfield Town AFC
 16,Sat Oct 29 2011,Wycombe Wanderers FC,1-2,Sheffield Wednesday FC
 16,Sat Oct 29 2011,Walsall FC,0-2,Milton Keynes Dons FC
 16,Sat Oct 29 2011,Sheffield United FC,4-4,Exeter City FC
 16,Sat Oct 29 2011,Scunthorpe United FC,4-2,Tranmere Rovers FC
-16,Sat Oct 29 2011,Brentford FC,2-1,Chesterfield FC
+16,Sat Oct 29 2011,Rochdale AFC,0-2,Leyton Orient FC
 16,Sat Oct 29 2011,Preston North End FC,1-3,AFC Bournemouth
 16,Sat Oct 29 2011,Hartlepool United FC,0-4,Charlton Athletic FC
 16,Sat Oct 29 2011,Colchester United FC,4-2,Notts County FC
 16,Sat Oct 29 2011,Carlisle United FC,3-3,Oldham Athletic AFC
-16,Sat Oct 29 2011,Rochdale AFC,0-2,Leyton Orient FC
-17,Sat Nov 5 2011,AFC Bournemouth,2-0,Scunthorpe United FC
+16,Sat Oct 29 2011,Brentford FC,2-1,Chesterfield FC
+16,Sat Oct 29 2011,Bury FC,1-2,Stevenage FC
 17,Sat Nov 5 2011,Tranmere Rovers FC,0-0,Colchester United FC
 17,Sat Nov 5 2011,Stevenage FC,2-1,Sheffield United FC
 17,Sat Nov 5 2011,Sheffield Wednesday FC,0-0,Brentford FC
@@ -202,7 +201,7 @@ Matchday,Date,Team 1,FT,Team 2
 17,Sat Nov 5 2011,Exeter City FC,0-0,Carlisle United FC
 17,Sat Nov 5 2011,Chesterfield FC,2-2,Yeovil Town FC
 17,Sat Nov 5 2011,Charlton Athletic FC,5-2,Preston North End FC
-18,Sat Nov 19 2011,Scunthorpe United FC,0-2,Hartlepool United FC
+17,Sat Nov 5 2011,AFC Bournemouth,2-0,Scunthorpe United FC
 18,Sat Nov 19 2011,Yeovil Town FC,2-2,Exeter City FC
 18,Sat Nov 19 2011,Wycombe Wanderers FC,0-1,AFC Bournemouth
 18,Sat Nov 19 2011,Walsall FC,2-4,Bury FC
@@ -214,17 +213,18 @@ Matchday,Date,Team 1,FT,Team 2
 18,Sat Nov 19 2011,Leyton Orient FC,0-0,Stevenage FC
 18,Sat Nov 19 2011,Huddersfield Town AFC,2-1,Notts County FC
 18,Sat Nov 19 2011,Colchester United FC,1-5,Milton Keynes Dons FC
-19,Sat Nov 26 2011,AFC Bournemouth,0-0,Oldham Athletic AFC
+18,Sat Nov 19 2011,Scunthorpe United FC,0-2,Hartlepool United FC
 19,Sat Nov 26 2011,Chesterfield FC,0-1,Sheffield United FC
 19,Sat Nov 26 2011,Stevenage FC,0-0,Walsall FC
 19,Sat Nov 26 2011,Sheffield Wednesday FC,1-0,Leyton Orient FC
 19,Sat Nov 26 2011,Rochdale AFC,1-2,Brentford FC
-19,Sat Nov 26 2011,Notts County FC,3-2,Scunthorpe United FC
-19,Sat Nov 26 2011,Bury FC,1-0,Preston North End FC
+19,Sat Nov 26 2011,AFC Bournemouth,0-0,Oldham Athletic AFC
+19,Sat Nov 26 2011,Milton Keynes Dons FC,4-3,Wycombe Wanderers FC
 19,Sat Nov 26 2011,Hartlepool United FC,0-1,Yeovil Town FC
 19,Sat Nov 26 2011,Exeter City FC,3-0,Tranmere Rovers FC
 19,Sat Nov 26 2011,Carlisle United FC,1-0,Colchester United FC
-19,Sat Nov 26 2011,Milton Keynes Dons FC,4-3,Wycombe Wanderers FC
+19,Sat Nov 26 2011,Bury FC,1-0,Preston North End FC
+19,Sat Nov 26 2011,Notts County FC,3-2,Scunthorpe United FC
 19,Mon Nov 28 2011,Charlton Athletic FC,2-0,Huddersfield Town AFC
 8,Tue Nov 29 2011,Hartlepool United FC,0-1,Preston North End FC
 20,Sat Dec 10 2011,Sheffield United FC,3-0,Rochdale AFC
@@ -243,39 +243,38 @@ Matchday,Date,Team 1,FT,Team 2
 21,Sat Dec 17 2011,Sheffield Wednesday FC,4-4,Huddersfield Town AFC
 21,Sat Dec 17 2011,Rochdale AFC,0-0,Yeovil Town FC
 21,Sat Dec 17 2011,Milton Keynes Dons FC,0-1,Preston North End FC
-21,Sat Dec 17 2011,Notts County FC,1-2,Leyton Orient FC
+21,Sat Dec 17 2011,Hartlepool United FC,0-1,Colchester United FC
 21,Sat Dec 17 2011,Exeter City FC,0-0,Scunthorpe United FC
 21,Sat Dec 17 2011,Chesterfield FC,1-1,Walsall FC
 21,Sat Dec 17 2011,Charlton Athletic FC,1-1,Oldham Athletic AFC
 21,Sat Dec 17 2011,Carlisle United FC,2-2,Wycombe Wanderers FC
 21,Sat Dec 17 2011,Bury FC,1-1,Brentford FC
 21,Sat Dec 17 2011,AFC Bournemouth,0-2,Sheffield United FC
-21,Sat Dec 17 2011,Hartlepool United FC,0-1,Colchester United FC
+21,Sat Dec 17 2011,Notts County FC,1-2,Leyton Orient FC
 22,Mon Dec 26 2011,Leyton Orient FC,0-3,Milton Keynes Dons FC
 22,Mon Dec 26 2011,Preston North End FC,3-3,Carlisle United FC
 22,Mon Dec 26 2011,Yeovil Town FC,2-3,Charlton Athletic FC
 22,Mon Dec 26 2011,Wycombe Wanderers FC,3-1,Exeter City FC
 22,Mon Dec 26 2011,Brentford FC,1-1,AFC Bournemouth
-22,Mon Dec 26 2011,Walsall FC,2-1,Sheffield Wednesday FC
+22,Mon Dec 26 2011,Scunthorpe United FC,1-3,Bury FC
 22,Mon Dec 26 2011,Oldham Athletic AFC,0-1,Hartlepool United FC
 22,Mon Dec 26 2011,Huddersfield Town AFC,1-0,Chesterfield FC
 22,Mon Dec 26 2011,Colchester United FC,1-6,Stevenage FC
-22,Mon Dec 26 2011,Scunthorpe United FC,1-3,Bury FC
+22,Mon Dec 26 2011,Walsall FC,2-1,Sheffield Wednesday FC
 22,Tue Dec 27 2011,Sheffield United FC,2-1,Notts County FC
-23,Fri Dec 30 2011,Huddersfield Town AFC,1-1,Carlisle United FC
 23,Fri Dec 30 2011,Tranmere Rovers FC,2-0,Bury FC
-23,Sat Dec 31 2011,Preston North End FC,0-2,Sheffield Wednesday FC
+23,Fri Dec 30 2011,Huddersfield Town AFC,1-1,Carlisle United FC
 23,Sat Dec 31 2011,Colchester United FC,2-0,Exeter City FC
 23,Sat Dec 31 2011,Scunthorpe United FC,2-2,Chesterfield FC
-23,Sat Dec 31 2011,Walsall FC,0-0,Rochdale AFC
+23,Sat Dec 31 2011,Preston North End FC,0-2,Sheffield Wednesday FC
 23,Sat Dec 31 2011,Sheffield United FC,3-1,Hartlepool United FC
 23,Sat Dec 31 2011,Wycombe Wanderers FC,0-1,Stevenage FC
 23,Sat Dec 31 2011,Oldham Athletic AFC,3-2,Notts County FC
 23,Sat Dec 31 2011,Brentford FC,3-3,Milton Keynes Dons FC
 23,Sat Dec 31 2011,Leyton Orient FC,1-0,Charlton Athletic FC
 23,Sat Dec 31 2011,Yeovil Town FC,1-3,AFC Bournemouth
-24,Mon Jan 2 2012,Rochdale AFC,1-1,Preston North End FC
-24,Mon Jan 2 2012,Sheffield Wednesday FC,2-1,Tranmere Rovers FC
+23,Sat Dec 31 2011,Walsall FC,0-0,Rochdale AFC
+24,Mon Jan 2 2012,Stevenage FC,0-1,Leyton Orient FC
 24,Mon Jan 2 2012,Notts County FC,2-2,Huddersfield Town AFC
 24,Mon Jan 2 2012,Milton Keynes Dons FC,1-0,Colchester United FC
 24,Mon Jan 2 2012,Hartlepool United FC,1-2,Scunthorpe United FC
@@ -285,106 +284,107 @@ Matchday,Date,Team 1,FT,Team 2
 24,Mon Jan 2 2012,Carlisle United FC,3-2,Sheffield United FC
 24,Mon Jan 2 2012,Bury FC,2-1,Walsall FC
 24,Mon Jan 2 2012,AFC Bournemouth,2-0,Wycombe Wanderers FC
-24,Mon Jan 2 2012,Stevenage FC,0-1,Leyton Orient FC
+24,Mon Jan 2 2012,Sheffield Wednesday FC,2-1,Tranmere Rovers FC
+24,Mon Jan 2 2012,Rochdale AFC,1-1,Preston North End FC
 25,Fri Jan 6 2012,Wycombe Wanderers FC,0-6,Huddersfield Town AFC
-25,Sat Jan 7 2012,Tranmere Rovers FC,2-2,Brentford FC
 25,Sat Jan 7 2012,Walsall FC,2-2,AFC Bournemouth
-25,Sat Jan 7 2012,Hartlepool United FC,2-0,Rochdale AFC
-25,Sat Jan 7 2012,Chesterfield FC,0-2,Exeter City FC
+25,Sat Jan 7 2012,Tranmere Rovers FC,2-2,Brentford FC
 25,Sat Jan 7 2012,Carlisle United FC,4-1,Leyton Orient FC
+25,Sat Jan 7 2012,Chesterfield FC,0-2,Exeter City FC
+25,Sat Jan 7 2012,Hartlepool United FC,2-0,Rochdale AFC
 25,Tue Jan 10 2012,Sheffield United FC,4-0,Yeovil Town FC
-26,Sat Jan 14 2012,Brentford FC,0-0,Walsall FC
-26,Sat Jan 14 2012,Bury FC,0-3,Sheffield United FC
-26,Sat Jan 14 2012,Leyton Orient FC,1-1,Chesterfield FC
-26,Sat Jan 14 2012,AFC Bournemouth,2-1,Notts County FC
-26,Sat Jan 14 2012,Colchester United FC,1-1,Scunthorpe United FC
-26,Sat Jan 14 2012,Exeter City FC,0-0,Hartlepool United FC
 26,Sat Jan 14 2012,Sheffield Wednesday FC,0-1,Charlton Athletic FC
 26,Sat Jan 14 2012,Yeovil Town FC,2-1,Tranmere Rovers FC
 26,Sat Jan 14 2012,Rochdale AFC,1-5,Stevenage FC
 26,Sat Jan 14 2012,Preston North End FC,3-2,Wycombe Wanderers FC
+26,Sat Jan 14 2012,Leyton Orient FC,1-1,Chesterfield FC
 26,Sat Jan 14 2012,Huddersfield Town AFC,1-0,Oldham Athletic AFC
+26,Sat Jan 14 2012,Exeter City FC,0-0,Hartlepool United FC
+26,Sat Jan 14 2012,Colchester United FC,1-1,Scunthorpe United FC
+26,Sat Jan 14 2012,AFC Bournemouth,2-1,Notts County FC
+26,Sat Jan 14 2012,Brentford FC,0-0,Walsall FC
+26,Sat Jan 14 2012,Bury FC,0-3,Sheffield United FC
 22,Tue Jan 17 2012,Tranmere Rovers FC,0-0,Rochdale AFC
-27,Sat Jan 21 2012,Sheffield Wednesday FC,2-2,Hartlepool United FC
-27,Sat Jan 21 2012,Bury FC,3-2,Yeovil Town FC
-27,Sat Jan 21 2012,Carlisle United FC,1-1,Walsall FC
-27,Sat Jan 21 2012,Charlton Athletic FC,1-0,Sheffield United FC
-27,Sat Jan 21 2012,Colchester United FC,1-2,Chesterfield FC
-27,Sat Jan 21 2012,AFC Bournemouth,2-1,Tranmere Rovers FC
 27,Sat Jan 21 2012,Notts County FC,1-1,Milton Keynes Dons FC
-27,Sat Jan 21 2012,Wycombe Wanderers FC,3-0,Rochdale AFC
+27,Sat Jan 21 2012,Huddersfield Town AFC,3-2,Brentford FC
 27,Sat Jan 21 2012,Scunthorpe United FC,1-1,Stevenage FC
 27,Sat Jan 21 2012,Preston North End FC,0-2,Leyton Orient FC
 27,Sat Jan 21 2012,Oldham Athletic AFC,0-0,Exeter City FC
-27,Sat Jan 21 2012,Huddersfield Town AFC,3-2,Brentford FC
+27,Sat Jan 21 2012,Wycombe Wanderers FC,3-0,Rochdale AFC
+27,Sat Jan 21 2012,Colchester United FC,1-2,Chesterfield FC
+27,Sat Jan 21 2012,Charlton Athletic FC,1-0,Sheffield United FC
+27,Sat Jan 21 2012,Carlisle United FC,1-1,Walsall FC
+27,Sat Jan 21 2012,Bury FC,3-2,Yeovil Town FC
+27,Sat Jan 21 2012,AFC Bournemouth,2-1,Tranmere Rovers FC
+27,Sat Jan 21 2012,Sheffield Wednesday FC,2-2,Hartlepool United FC
 25,Tue Jan 24 2012,Stevenage FC,4-2,Milton Keynes Dons FC
 25,Tue Jan 24 2012,Scunthorpe United FC,1-3,Sheffield Wednesday FC
 25,Tue Jan 24 2012,Notts County FC,0-0,Preston North End FC
 28,Fri Jan 27 2012,Chesterfield FC,1-0,AFC Bournemouth
-28,Sat Jan 28 2012,Rochdale AFC,3-0,Bury FC
-28,Sat Jan 28 2012,Exeter City FC,0-1,Charlton Athletic FC
-28,Sat Jan 28 2012,Hartlepool United FC,4-0,Carlisle United FC
 28,Sat Jan 28 2012,Tranmere Rovers FC,1-1,Huddersfield Town AFC
 28,Sat Jan 28 2012,Yeovil Town FC,2-1,Preston North End FC
-28,Sat Jan 28 2012,Leyton Orient FC,0-1,Colchester United FC
 28,Sat Jan 28 2012,Brentford FC,5-2,Wycombe Wanderers FC
+28,Sat Jan 28 2012,Leyton Orient FC,0-1,Colchester United FC
+28,Sat Jan 28 2012,Hartlepool United FC,4-0,Carlisle United FC
+28,Sat Jan 28 2012,Exeter City FC,0-1,Charlton Athletic FC
+28,Sat Jan 28 2012,Rochdale AFC,3-0,Bury FC
 25,Tue Jan 31 2012,Charlton Athletic FC,1-1,Bury FC
-28,Tue Jan 31 2012,Walsall FC,0-1,Notts County FC
 28,Tue Jan 31 2012,Milton Keynes Dons FC,1-1,Sheffield Wednesday FC
-29,Sat Feb 4 2012,Sheffield Wednesday FC,2-1,Yeovil Town FC
-29,Sat Feb 4 2012,Huddersfield Town AFC,1-1,Milton Keynes Dons FC
-29,Sat Feb 4 2012,Carlisle United FC,2-1,Chesterfield FC
+28,Tue Jan 31 2012,Walsall FC,0-1,Notts County FC
 29,Sat Feb 4 2012,Wycombe Wanderers FC,2-1,Tranmere Rovers FC
+29,Sat Feb 4 2012,Sheffield Wednesday FC,2-1,Yeovil Town FC
+29,Sat Feb 4 2012,Carlisle United FC,2-1,Chesterfield FC
+29,Sat Feb 4 2012,Huddersfield Town AFC,1-1,Milton Keynes Dons FC
 29,Tue Feb 7 2012,AFC Bournemouth,2-0,Exeter City FC
-30,Sat Feb 11 2012,Sheffield United FC,3-0,Wycombe Wanderers FC
 30,Sat Feb 11 2012,Hartlepool United FC,0-0,AFC Bournemouth
+30,Sat Feb 11 2012,Sheffield United FC,3-0,Wycombe Wanderers FC
 30,Sat Feb 11 2012,Exeter City FC,2-1,Sheffield Wednesday FC
 31,Tue Feb 14 2012,Wycombe Wanderers FC,2-3,Yeovil Town FC
+31,Tue Feb 14 2012,Sheffield Wednesday FC,0-1,Stevenage FC
+31,Tue Feb 14 2012,Scunthorpe United FC,1-0,Rochdale AFC
+31,Tue Feb 14 2012,Preston North End FC,1-0,Hartlepool United FC
+31,Tue Feb 14 2012,Oldham Athletic AFC,2-1,Walsall FC
 31,Tue Feb 14 2012,AFC Bournemouth,1-2,Leyton Orient FC
 31,Tue Feb 14 2012,Huddersfield Town AFC,0-1,Sheffield United FC
-31,Tue Feb 14 2012,Sheffield Wednesday FC,0-1,Stevenage FC
 31,Tue Feb 14 2012,Colchester United FC,2-1,Brentford FC
 31,Tue Feb 14 2012,Charlton Athletic FC,2-1,Milton Keynes Dons FC
 31,Tue Feb 14 2012,Carlisle United FC,0-0,Tranmere Rovers FC
-31,Tue Feb 14 2012,Notts County FC,2-1,Exeter City FC
-31,Tue Feb 14 2012,Oldham Athletic AFC,2-1,Walsall FC
-31,Tue Feb 14 2012,Preston North End FC,1-0,Hartlepool United FC
-31,Tue Feb 14 2012,Scunthorpe United FC,1-0,Rochdale AFC
 31,Tue Feb 14 2012,Bury FC,1-1,Chesterfield FC
-32,Sat Feb 18 2012,Rochdale AFC,1-0,AFC Bournemouth
+31,Tue Feb 14 2012,Notts County FC,2-1,Exeter City FC
+32,Sat Feb 18 2012,Chesterfield FC,1-0,Sheffield Wednesday FC
 32,Sat Feb 18 2012,Exeter City FC,3-2,Bury FC
 32,Sat Feb 18 2012,Walsall FC,2-0,Wycombe Wanderers FC
+32,Sat Feb 18 2012,Tranmere Rovers FC,1-1,Charlton Athletic FC
 32,Sat Feb 18 2012,Sheffield United FC,2-1,Preston North End FC
-32,Sat Feb 18 2012,Chesterfield FC,1-0,Sheffield Wednesday FC
+32,Sat Feb 18 2012,Rochdale AFC,1-0,AFC Bournemouth
 32,Sat Feb 18 2012,Milton Keynes Dons FC,5-0,Oldham Athletic AFC
 32,Sat Feb 18 2012,Leyton Orient FC,1-3,Scunthorpe United FC
-32,Sat Feb 18 2012,Yeovil Town FC,3-2,Colchester United FC
 32,Sat Feb 18 2012,Hartlepool United FC,3-0,Notts County FC
-32,Sat Feb 18 2012,Tranmere Rovers FC,1-1,Charlton Athletic FC
+32,Sat Feb 18 2012,Yeovil Town FC,3-2,Colchester United FC
 32,Mon Feb 20 2012,Brentford FC,4-0,Carlisle United FC
-29,Tue Feb 21 2012,Charlton Athletic FC,1-1,Rochdale AFC
 29,Tue Feb 21 2012,Scunthorpe United FC,0-1,Walsall FC
+29,Tue Feb 21 2012,Charlton Athletic FC,1-1,Rochdale AFC
 30,Tue Feb 21 2012,Milton Keynes Dons FC,2-1,Bury FC
 29,Wed Feb 22 2012,Notts County FC,1-0,Stevenage FC
-33,Sat Feb 25 2012,Wycombe Wanderers FC,5-0,Hartlepool United FC
+33,Sat Feb 25 2012,Preston North End FC,0-0,Walsall FC
 33,Sat Feb 25 2012,Scunthorpe United FC,0-0,Brentford FC
+33,Sat Feb 25 2012,Wycombe Wanderers FC,5-0,Hartlepool United FC
+33,Sat Feb 25 2012,Oldham Athletic AFC,1-0,Tranmere Rovers FC
+33,Sat Feb 25 2012,Notts County FC,1-0,Chesterfield FC
+33,Sat Feb 25 2012,AFC Bournemouth,0-1,Milton Keynes Dons FC
+33,Sat Feb 25 2012,Colchester United FC,0-0,Rochdale AFC
 33,Sat Feb 25 2012,Charlton Athletic FC,2-0,Stevenage FC
 33,Sat Feb 25 2012,Carlisle United FC,3-2,Yeovil Town FC
-33,Sat Feb 25 2012,Colchester United FC,0-0,Rochdale AFC
-33,Sat Feb 25 2012,AFC Bournemouth,0-1,Milton Keynes Dons FC
 33,Sat Feb 25 2012,Bury FC,1-1,Leyton Orient FC
-33,Sat Feb 25 2012,Oldham Athletic AFC,1-0,Tranmere Rovers FC
 33,Sat Feb 25 2012,Huddersfield Town AFC,2-0,Exeter City FC
-33,Sat Feb 25 2012,Preston North End FC,0-0,Walsall FC
-33,Sat Feb 25 2012,Notts County FC,1-0,Chesterfield FC
 33,Sun Feb 26 2012,Sheffield Wednesday FC,1-0,Sheffield United FC
-30,Tue Feb 28 2012,Chesterfield FC,0-4,Charlton Athletic FC
-30,Tue Feb 28 2012,Rochdale AFC,0-1,Notts County FC
-32,Tue Feb 28 2012,Stevenage FC,2-2,Huddersfield Town AFC
-29,Tue Feb 28 2012,Bury FC,1-2,Hartlepool United FC
 25,Tue Feb 28 2012,Oldham Athletic AFC,1-1,Colchester United FC
+29,Tue Feb 28 2012,Bury FC,1-2,Hartlepool United FC
+30,Tue Feb 28 2012,Rochdale AFC,0-1,Notts County FC
+30,Tue Feb 28 2012,Chesterfield FC,0-4,Charlton Athletic FC
+32,Tue Feb 28 2012,Stevenage FC,2-2,Huddersfield Town AFC
 28,Wed Feb 29 2012,Sheffield United FC,2-1,Scunthorpe United FC
-34,Sat Mar 3 2012,Chesterfield FC,1-0,Tranmere Rovers FC
+34,Sat Mar 3 2012,AFC Bournemouth,0-1,Charlton Athletic FC
 34,Sat Mar 3 2012,Sheffield United FC,2-3,Oldham Athletic AFC
 34,Sat Mar 3 2012,Scunthorpe United FC,4-1,Wycombe Wanderers FC
 34,Sat Mar 3 2012,Rochdale AFC,0-0,Sheffield Wednesday FC
@@ -393,127 +393,127 @@ Matchday,Date,Team 1,FT,Team 2
 34,Sat Mar 3 2012,Hartlepool United FC,1-1,Milton Keynes Dons FC
 34,Sat Mar 3 2012,Exeter City FC,1-1,Stevenage FC
 34,Sat Mar 3 2012,Colchester United FC,3-0,Preston North End FC
+34,Sat Mar 3 2012,Chesterfield FC,1-0,Tranmere Rovers FC
 34,Sat Mar 3 2012,Bury FC,3-3,Huddersfield Town AFC
 34,Sat Mar 3 2012,Leyton Orient FC,1-1,Walsall FC
-34,Sat Mar 3 2012,AFC Bournemouth,0-1,Charlton Athletic FC
-35,Tue Mar 6 2012,Preston North End FC,0-0,Chesterfield FC
-35,Tue Mar 6 2012,Walsall FC,3-2,Sheffield United FC
-35,Tue Mar 6 2012,Brentford FC,2-0,Exeter City FC
-35,Tue Mar 6 2012,Carlisle United FC,2-1,Rochdale AFC
-35,Tue Mar 6 2012,Charlton Athletic FC,0-2,Colchester United FC
-35,Tue Mar 6 2012,Huddersfield Town AFC,1-0,Hartlepool United FC
-35,Tue Mar 6 2012,Milton Keynes Dons FC,0-1,Yeovil Town FC
-35,Tue Mar 6 2012,Oldham Athletic AFC,1-2,Scunthorpe United FC
-35,Tue Mar 6 2012,Sheffield Wednesday FC,4-1,Bury FC
-35,Tue Mar 6 2012,Tranmere Rovers FC,1-1,Notts County FC
 35,Tue Mar 6 2012,Wycombe Wanderers FC,4-2,Leyton Orient FC
-36,Sat Mar 10 2012,Stevenage FC,2-2,Chesterfield FC
+35,Tue Mar 6 2012,Walsall FC,3-2,Sheffield United FC
+35,Tue Mar 6 2012,Tranmere Rovers FC,1-1,Notts County FC
+35,Tue Mar 6 2012,Sheffield Wednesday FC,4-1,Bury FC
+35,Tue Mar 6 2012,Preston North End FC,0-0,Chesterfield FC
+35,Tue Mar 6 2012,Oldham Athletic AFC,1-2,Scunthorpe United FC
+35,Tue Mar 6 2012,Milton Keynes Dons FC,0-1,Yeovil Town FC
+35,Tue Mar 6 2012,Huddersfield Town AFC,1-0,Hartlepool United FC
+35,Tue Mar 6 2012,Charlton Athletic FC,0-2,Colchester United FC
+35,Tue Mar 6 2012,Carlisle United FC,2-1,Rochdale AFC
+35,Tue Mar 6 2012,Brentford FC,2-0,Exeter City FC
+36,Sat Mar 10 2012,Wycombe Wanderers FC,0-0,Colchester United FC
+36,Sat Mar 10 2012,Walsall FC,0-0,Hartlepool United FC
 36,Sat Mar 10 2012,Tranmere Rovers FC,2-0,Leyton Orient FC
+36,Sat Mar 10 2012,Stevenage FC,2-2,Chesterfield FC
 36,Sat Mar 10 2012,Sheffield Wednesday FC,3-0,AFC Bournemouth
 36,Sat Mar 10 2012,Preston North End FC,0-0,Scunthorpe United FC
-36,Sat Mar 10 2012,Walsall FC,0-0,Hartlepool United FC
 36,Sat Mar 10 2012,Oldham Athletic AFC,1-2,Yeovil Town FC
 36,Sat Mar 10 2012,Milton Keynes Dons FC,3-0,Exeter City FC
 36,Sat Mar 10 2012,Huddersfield Town AFC,2-2,Rochdale AFC
 36,Sat Mar 10 2012,Charlton Athletic FC,2-4,Notts County FC
 36,Sat Mar 10 2012,Carlisle United FC,4-1,Bury FC
 36,Sat Mar 10 2012,Brentford FC,0-2,Sheffield United FC
-36,Sat Mar 10 2012,Wycombe Wanderers FC,0-0,Colchester United FC
 28,Tue Mar 13 2012,Stevenage FC,1-0,Oldham Athletic AFC
-30,Tue Mar 13 2012,Tranmere Rovers FC,2-1,Preston North End FC
 29,Tue Mar 13 2012,Colchester United FC,1-1,Sheffield United FC
+30,Tue Mar 13 2012,Tranmere Rovers FC,2-1,Preston North End FC
 30,Tue Mar 13 2012,Yeovil Town FC,2-2,Scunthorpe United FC
-37,Sat Mar 17 2012,Scunthorpe United FC,1-1,Charlton Athletic FC
-37,Sat Mar 17 2012,Colchester United FC,1-1,Huddersfield Town AFC
-37,Sat Mar 17 2012,Exeter City FC,1-2,Preston North End FC
-37,Sat Mar 17 2012,Bury FC,1-4,Wycombe Wanderers FC
-37,Sat Mar 17 2012,AFC Bournemouth,1-1,Carlisle United FC
-37,Sat Mar 17 2012,Hartlepool United FC,0-0,Stevenage FC
-37,Sat Mar 17 2012,Leyton Orient FC,2-0,Brentford FC
-37,Sat Mar 17 2012,Chesterfield FC,1-1,Milton Keynes Dons FC
 37,Sat Mar 17 2012,Rochdale AFC,3-2,Oldham Athletic AFC
 37,Sat Mar 17 2012,Sheffield United FC,1-1,Tranmere Rovers FC
-37,Sat Mar 17 2012,Notts County FC,1-2,Sheffield Wednesday FC
+37,Sat Mar 17 2012,Scunthorpe United FC,1-1,Charlton Athletic FC
 37,Sat Mar 17 2012,Yeovil Town FC,2-1,Walsall FC
-38,Tue Mar 20 2012,Hartlepool United FC,0-1,Oldham Athletic AFC
-38,Tue Mar 20 2012,Chesterfield FC,0-2,Huddersfield Town AFC
-38,Tue Mar 20 2012,Charlton Athletic FC,3-0,Yeovil Town FC
-38,Tue Mar 20 2012,Carlisle United FC,0-0,Preston North End FC
-38,Tue Mar 20 2012,Exeter City FC,1-3,Wycombe Wanderers FC
-38,Tue Mar 20 2012,Bury FC,0-0,Scunthorpe United FC
-38,Tue Mar 20 2012,Milton Keynes Dons FC,4-1,Leyton Orient FC
-38,Tue Mar 20 2012,Notts County FC,2-5,Sheffield United FC
+37,Sat Mar 17 2012,Notts County FC,1-2,Sheffield Wednesday FC
+37,Sat Mar 17 2012,Leyton Orient FC,2-0,Brentford FC
+37,Sat Mar 17 2012,Hartlepool United FC,0-0,Stevenage FC
+37,Sat Mar 17 2012,Exeter City FC,1-2,Preston North End FC
+37,Sat Mar 17 2012,Colchester United FC,1-1,Huddersfield Town AFC
+37,Sat Mar 17 2012,AFC Bournemouth,1-1,Carlisle United FC
+37,Sat Mar 17 2012,Bury FC,1-4,Wycombe Wanderers FC
+37,Sat Mar 17 2012,Chesterfield FC,1-1,Milton Keynes Dons FC
 38,Tue Mar 20 2012,Stevenage FC,0-0,Colchester United FC
 38,Tue Mar 20 2012,Sheffield Wednesday FC,2-2,Walsall FC
 38,Tue Mar 20 2012,Rochdale AFC,0-2,Tranmere Rovers FC
 38,Tue Mar 20 2012,AFC Bournemouth,1-0,Brentford FC
-39,Sat Mar 24 2012,Huddersfield Town AFC,1-0,Charlton Athletic FC
-39,Sat Mar 24 2012,Brentford FC,2-0,Rochdale AFC
-39,Sat Mar 24 2012,Oldham Athletic AFC,1-0,AFC Bournemouth
-39,Sat Mar 24 2012,Preston North End FC,1-1,Bury FC
-39,Sat Mar 24 2012,Scunthorpe United FC,0-0,Notts County FC
-39,Sat Mar 24 2012,Tranmere Rovers FC,2-0,Exeter City FC
-39,Sat Mar 24 2012,Leyton Orient FC,0-1,Sheffield Wednesday FC
-39,Sat Mar 24 2012,Colchester United FC,1-1,Carlisle United FC
-39,Sat Mar 24 2012,Walsall FC,1-1,Stevenage FC
-39,Sat Mar 24 2012,Wycombe Wanderers FC,1-1,Milton Keynes Dons FC
+38,Tue Mar 20 2012,Milton Keynes Dons FC,4-1,Leyton Orient FC
+38,Tue Mar 20 2012,Hartlepool United FC,0-1,Oldham Athletic AFC
+38,Tue Mar 20 2012,Exeter City FC,1-3,Wycombe Wanderers FC
+38,Tue Mar 20 2012,Chesterfield FC,0-2,Huddersfield Town AFC
+38,Tue Mar 20 2012,Charlton Athletic FC,3-0,Yeovil Town FC
+38,Tue Mar 20 2012,Carlisle United FC,0-0,Preston North End FC
+38,Tue Mar 20 2012,Bury FC,0-0,Scunthorpe United FC
+38,Tue Mar 20 2012,Notts County FC,2-5,Sheffield United FC
 39,Sat Mar 24 2012,Yeovil Town FC,0-1,Hartlepool United FC
-30,Tue Mar 27 2012,Walsall FC,3-1,Colchester United FC
-29,Tue Mar 27 2012,Preston North End FC,1-3,Brentford FC
-29,Tue Mar 27 2012,Oldham Athletic AFC,0-1,Leyton Orient FC
+39,Sat Mar 24 2012,Wycombe Wanderers FC,1-1,Milton Keynes Dons FC
+39,Sat Mar 24 2012,Walsall FC,1-1,Stevenage FC
+39,Sat Mar 24 2012,Tranmere Rovers FC,2-0,Exeter City FC
+39,Sat Mar 24 2012,Scunthorpe United FC,0-0,Notts County FC
+39,Sat Mar 24 2012,Preston North End FC,1-1,Bury FC
+39,Sat Mar 24 2012,Oldham Athletic AFC,1-0,AFC Bournemouth
+39,Sat Mar 24 2012,Brentford FC,2-0,Rochdale AFC
+39,Sat Mar 24 2012,Huddersfield Town AFC,1-0,Charlton Athletic FC
+39,Sat Mar 24 2012,Colchester United FC,1-1,Carlisle United FC
+39,Sat Mar 24 2012,Leyton Orient FC,0-1,Sheffield Wednesday FC
 26,Tue Mar 27 2012,Milton Keynes Dons FC,1-2,Carlisle United FC
+29,Tue Mar 27 2012,Oldham Athletic AFC,0-1,Leyton Orient FC
+29,Tue Mar 27 2012,Preston North End FC,1-3,Brentford FC
+30,Tue Mar 27 2012,Walsall FC,3-1,Colchester United FC
 35,Tue Mar 27 2012,Stevenage FC,2-2,AFC Bournemouth
 39,Wed Mar 28 2012,Sheffield United FC,4-1,Chesterfield FC
-40,Sat Mar 31 2012,Sheffield Wednesday FC,2-0,Preston North End FC
-40,Sat Mar 31 2012,AFC Bournemouth,0-0,Yeovil Town FC
-40,Sat Mar 31 2012,Exeter City FC,1-1,Colchester United FC
 40,Sat Mar 31 2012,Rochdale AFC,3-3,Walsall FC
 40,Sat Mar 31 2012,Stevenage FC,1-1,Wycombe Wanderers FC
-40,Sat Mar 31 2012,Bury FC,2-0,Tranmere Rovers FC
-40,Sat Mar 31 2012,Charlton Athletic FC,2-0,Leyton Orient FC
+40,Sat Mar 31 2012,Sheffield Wednesday FC,2-0,Preston North End FC
+40,Sat Mar 31 2012,Notts County FC,1-0,Oldham Athletic AFC
 40,Sat Mar 31 2012,Milton Keynes Dons FC,1-2,Brentford FC
 40,Sat Mar 31 2012,Hartlepool United FC,0-1,Sheffield United FC
-40,Sat Mar 31 2012,Carlisle United FC,2-1,Huddersfield Town AFC
+40,Sat Mar 31 2012,Exeter City FC,1-1,Colchester United FC
 40,Sat Mar 31 2012,Chesterfield FC,1-4,Scunthorpe United FC
-40,Sat Mar 31 2012,Notts County FC,1-0,Oldham Athletic AFC
+40,Sat Mar 31 2012,Charlton Athletic FC,2-0,Leyton Orient FC
+40,Sat Mar 31 2012,AFC Bournemouth,0-0,Yeovil Town FC
+40,Sat Mar 31 2012,Bury FC,2-0,Tranmere Rovers FC
+40,Sat Mar 31 2012,Carlisle United FC,2-1,Huddersfield Town AFC
 30,Tue Apr 3 2012,Leyton Orient FC,1-3,Huddersfield Town AFC
 30,Tue Apr 3 2012,Brentford FC,2-0,Oldham Athletic AFC
-41,Fri Apr 6 2012,Leyton Orient FC,0-3,Notts County FC
 41,Fri Apr 6 2012,Tranmere Rovers FC,3-0,Stevenage FC
 41,Fri Apr 6 2012,Wycombe Wanderers FC,1-1,Carlisle United FC
 41,Fri Apr 6 2012,Scunthorpe United FC,1-0,Exeter City FC
+41,Fri Apr 6 2012,Leyton Orient FC,0-3,Notts County FC
 41,Fri Apr 6 2012,Colchester United FC,1-1,Hartlepool United FC
-41,Sat Apr 7 2012,Preston North End FC,1-1,Milton Keynes Dons FC
 41,Sat Apr 7 2012,Huddersfield Town AFC,0-2,Sheffield Wednesday FC
 41,Sat Apr 7 2012,Yeovil Town FC,3-1,Rochdale AFC
 41,Sat Apr 7 2012,Brentford FC,3-0,Bury FC
 41,Sat Apr 7 2012,Sheffield United FC,2-1,AFC Bournemouth
-41,Sat Apr 7 2012,Walsall FC,3-2,Chesterfield FC
+41,Sat Apr 7 2012,Preston North End FC,1-1,Milton Keynes Dons FC
 41,Sat Apr 7 2012,Oldham Athletic AFC,0-1,Charlton Athletic FC
-42,Mon Apr 9 2012,Notts County FC,3-1,Yeovil Town FC
+41,Sat Apr 7 2012,Walsall FC,3-2,Chesterfield FC
 42,Mon Apr 9 2012,Sheffield Wednesday FC,3-0,Oldham Athletic AFC
 42,Mon Apr 9 2012,Stevenage FC,1-1,Preston North End FC
-42,Mon Apr 9 2012,AFC Bournemouth,2-0,Huddersfield Town AFC
+42,Mon Apr 9 2012,Notts County FC,3-1,Yeovil Town FC
 42,Mon Apr 9 2012,Milton Keynes Dons FC,3-0,Tranmere Rovers FC
 42,Mon Apr 9 2012,Hartlepool United FC,0-0,Brentford FC
-42,Mon Apr 9 2012,Bury FC,4-1,Colchester United FC
+42,Mon Apr 9 2012,Exeter City FC,3-0,Leyton Orient FC
 42,Mon Apr 9 2012,Chesterfield FC,4-0,Wycombe Wanderers FC
 42,Mon Apr 9 2012,Charlton Athletic FC,1-0,Walsall FC
 42,Mon Apr 9 2012,Carlisle United FC,0-0,Scunthorpe United FC
-42,Mon Apr 9 2012,Exeter City FC,3-0,Leyton Orient FC
+42,Mon Apr 9 2012,Bury FC,4-1,Colchester United FC
+42,Mon Apr 9 2012,AFC Bournemouth,2-0,Huddersfield Town AFC
 42,Tue Apr 10 2012,Rochdale AFC,2-5,Sheffield United FC
-43,Sat Apr 14 2012,Scunthorpe United FC,0-3,Milton Keynes Dons FC
 43,Sat Apr 14 2012,Yeovil Town FC,0-6,Stevenage FC
 43,Sat Apr 14 2012,Wycombe Wanderers FC,2-2,Oldham Athletic AFC
 43,Sat Apr 14 2012,Walsall FC,0-1,Tranmere Rovers FC
 43,Sat Apr 14 2012,Sheffield United FC,3-1,Leyton Orient FC
-43,Sat Apr 14 2012,Preston North End FC,1-0,Huddersfield Town AFC
+43,Sat Apr 14 2012,Scunthorpe United FC,0-3,Milton Keynes Dons FC
 43,Sat Apr 14 2012,Rochdale AFC,3-2,Exeter City FC
 43,Sat Apr 14 2012,Brentford FC,0-0,Notts County FC
 43,Sat Apr 14 2012,Hartlepool United FC,1-2,Chesterfield FC
 43,Sat Apr 14 2012,Colchester United FC,1-1,Sheffield Wednesday FC
 43,Sat Apr 14 2012,Carlisle United FC,0-1,Charlton Athletic FC
 43,Sat Apr 14 2012,Bury FC,1-0,AFC Bournemouth
+43,Sat Apr 14 2012,Preston North End FC,1-0,Huddersfield Town AFC
 30,Tue Apr 17 2012,Stevenage FC,1-0,Carlisle United FC
 44,Sat Apr 21 2012,AFC Bournemouth,1-1,Colchester United FC
 44,Sat Apr 21 2012,Tranmere Rovers FC,1-1,Hartlepool United FC
@@ -533,12 +533,12 @@ Matchday,Date,Team 1,FT,Team 2
 45,Sat Apr 28 2012,Scunthorpe United FC,1-1,AFC Bournemouth
 45,Sat Apr 28 2012,Rochdale AFC,1-2,Milton Keynes Dons FC
 45,Sat Apr 28 2012,Preston North End FC,2-2,Charlton Athletic FC
-45,Sat Apr 28 2012,Sheffield United FC,2-2,Stevenage FC
+45,Sat Apr 28 2012,Hartlepool United FC,2-1,Leyton Orient FC
 45,Sat Apr 28 2012,Colchester United FC,4-2,Tranmere Rovers FC
 45,Sat Apr 28 2012,Carlisle United FC,4-1,Exeter City FC
 45,Sat Apr 28 2012,Bury FC,0-0,Oldham Athletic AFC
 45,Sat Apr 28 2012,Brentford FC,1-2,Sheffield Wednesday FC
-45,Sat Apr 28 2012,Hartlepool United FC,2-1,Leyton Orient FC
+45,Sat Apr 28 2012,Sheffield United FC,2-2,Stevenage FC
 46,Sat May 5 2012,Tranmere Rovers FC,1-1,Scunthorpe United FC
 46,Sat May 5 2012,Stevenage FC,3-0,Bury FC
 46,Sat May 5 2012,Sheffield Wednesday FC,2-0,Wycombe Wanderers FC

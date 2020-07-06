@@ -1,52 +1,52 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Fri Aug 11 2017,Arsenal FC,4-3,Leicester City FC
 1,Sat Aug 12 2017,Watford FC,3-3,Liverpool FC
 1,Sat Aug 12 2017,West Bromwich Albion FC,1-0,AFC Bournemouth
 1,Sat Aug 12 2017,Chelsea FC,2-3,Burnley FC
-1,Sat Aug 12 2017,Crystal Palace FC,0-3,Huddersfield Town AFC
+1,Sat Aug 12 2017,Brighton & Hove Albion FC,0-2,Manchester City FC
 1,Sat Aug 12 2017,Southampton FC,0-0,Swansea City FC
 1,Sat Aug 12 2017,Everton FC,1-0,Stoke City FC
-1,Sat Aug 12 2017,Brighton & Hove Albion FC,0-2,Manchester City FC
-1,Sun Aug 13 2017,Newcastle United FC,0-2,Tottenham Hotspur FC
+1,Sat Aug 12 2017,Crystal Palace FC,0-3,Huddersfield Town AFC
 1,Sun Aug 13 2017,Manchester United FC,4-0,West Ham United FC
+1,Sun Aug 13 2017,Newcastle United FC,0-2,Tottenham Hotspur FC
 2,Sat Aug 19 2017,Swansea City FC,0-4,Manchester United FC
 2,Sat Aug 19 2017,Southampton FC,3-2,West Ham United FC
-2,Sat Aug 19 2017,Leicester City FC,2-0,Brighton & Hove Albion FC
+2,Sat Aug 19 2017,Stoke City FC,1-0,Arsenal FC
 2,Sat Aug 19 2017,Burnley FC,0-1,West Bromwich Albion FC
 2,Sat Aug 19 2017,AFC Bournemouth,0-2,Watford FC
 2,Sat Aug 19 2017,Liverpool FC,1-0,Crystal Palace FC
-2,Sat Aug 19 2017,Stoke City FC,1-0,Arsenal FC
+2,Sat Aug 19 2017,Leicester City FC,2-0,Brighton & Hove Albion FC
 2,Sun Aug 20 2017,Huddersfield Town AFC,1-0,Newcastle United FC
 2,Sun Aug 20 2017,Tottenham Hotspur FC,1-2,Chelsea FC
 2,Mon Aug 21 2017,Manchester City FC,1-1,Everton FC
-3,Sat Aug 26 2017,AFC Bournemouth,1-2,Manchester City FC
 3,Sat Aug 26 2017,Huddersfield Town AFC,0-0,Southampton FC
+3,Sat Aug 26 2017,AFC Bournemouth,1-2,Manchester City FC
 3,Sat Aug 26 2017,Crystal Palace FC,0-2,Swansea City FC
 3,Sat Aug 26 2017,Watford FC,0-0,Brighton & Hove Albion FC
-3,Sat Aug 26 2017,Newcastle United FC,3-0,West Ham United FC
 3,Sat Aug 26 2017,Manchester United FC,2-0,Leicester City FC
+3,Sat Aug 26 2017,Newcastle United FC,3-0,West Ham United FC
 3,Sun Aug 27 2017,West Bromwich Albion FC,1-1,Stoke City FC
 3,Sun Aug 27 2017,Chelsea FC,2-0,Everton FC
 3,Sun Aug 27 2017,Liverpool FC,4-0,Arsenal FC
 3,Sun Aug 27 2017,Tottenham Hotspur FC,1-1,Burnley FC
-4,Sat Sep 9 2017,Manchester City FC,5-0,Liverpool FC
 4,Sat Sep 9 2017,Brighton & Hove Albion FC,3-1,West Bromwich Albion FC
-4,Sat Sep 9 2017,Leicester City FC,1-2,Chelsea FC
+4,Sat Sep 9 2017,Manchester City FC,5-0,Liverpool FC
+4,Sat Sep 9 2017,Stoke City FC,2-2,Manchester United FC
 4,Sat Sep 9 2017,Arsenal FC,3-0,AFC Bournemouth
 4,Sat Sep 9 2017,Everton FC,0-3,Tottenham Hotspur FC
 4,Sat Sep 9 2017,Southampton FC,0-2,Watford FC
-4,Sat Sep 9 2017,Stoke City FC,2-2,Manchester United FC
-4,Sun Sep 10 2017,Burnley FC,1-0,Crystal Palace FC
+4,Sat Sep 9 2017,Leicester City FC,1-2,Chelsea FC
 4,Sun Sep 10 2017,Swansea City FC,0-1,Newcastle United FC
+4,Sun Sep 10 2017,Burnley FC,1-0,Crystal Palace FC
 4,Mon Sep 11 2017,West Ham United FC,2-0,Huddersfield Town AFC
 5,Fri Sep 15 2017,AFC Bournemouth,2-1,Brighton & Hove Albion FC
-5,Sat Sep 16 2017,Crystal Palace FC,0-1,Southampton FC
-5,Sat Sep 16 2017,Newcastle United FC,2-1,Stoke City FC
 5,Sat Sep 16 2017,Liverpool FC,1-1,Burnley FC
-5,Sat Sep 16 2017,Huddersfield Town AFC,1-1,Leicester City FC
+5,Sat Sep 16 2017,Newcastle United FC,2-1,Stoke City FC
+5,Sat Sep 16 2017,Crystal Palace FC,0-1,Southampton FC
+5,Sat Sep 16 2017,Tottenham Hotspur FC,0-0,Swansea City FC
 5,Sat Sep 16 2017,Watford FC,0-6,Manchester City FC
 5,Sat Sep 16 2017,West Bromwich Albion FC,0-0,West Ham United FC
-5,Sat Sep 16 2017,Tottenham Hotspur FC,0-0,Swansea City FC
+5,Sat Sep 16 2017,Huddersfield Town AFC,1-1,Leicester City FC
 5,Sun Sep 17 2017,Chelsea FC,0-0,Arsenal FC
 5,Sun Sep 17 2017,Manchester United FC,4-0,Everton FC
 6,Sat Sep 23 2017,West Ham United FC,2-3,Tottenham Hotspur FC
@@ -59,29 +59,29 @@ Matchday,Date,Team 1,FT,Team 2
 6,Sat Sep 23 2017,Leicester City FC,2-3,Liverpool FC
 6,Sun Sep 24 2017,Brighton & Hove Albion FC,1-0,Newcastle United FC
 6,Mon Sep 25 2017,Arsenal FC,2-0,West Bromwich Albion FC
-7,Sat Sep 30 2017,Huddersfield Town AFC,0-4,Tottenham Hotspur FC
-7,Sat Sep 30 2017,Manchester United FC,4-0,Crystal Palace FC
 7,Sat Sep 30 2017,West Bromwich Albion FC,2-2,Watford FC
-7,Sat Sep 30 2017,Stoke City FC,2-1,Southampton FC
+7,Sat Sep 30 2017,Manchester United FC,4-0,Crystal Palace FC
+7,Sat Sep 30 2017,Huddersfield Town AFC,0-4,Tottenham Hotspur FC
+7,Sat Sep 30 2017,Chelsea FC,0-1,Manchester City FC
 7,Sat Sep 30 2017,AFC Bournemouth,0-0,Leicester City FC
 7,Sat Sep 30 2017,West Ham United FC,1-0,Swansea City FC
-7,Sat Sep 30 2017,Chelsea FC,0-1,Manchester City FC
+7,Sat Sep 30 2017,Stoke City FC,2-1,Southampton FC
 7,Sun Oct 1 2017,Arsenal FC,2-0,Brighton & Hove Albion FC
 7,Sun Oct 1 2017,Everton FC,0-1,Burnley FC
 7,Sun Oct 1 2017,Newcastle United FC,1-1,Liverpool FC
-8,Sat Oct 14 2017,Liverpool FC,0-0,Manchester United FC
 8,Sat Oct 14 2017,Crystal Palace FC,2-1,Chelsea FC
+8,Sat Oct 14 2017,Liverpool FC,0-0,Manchester United FC
 8,Sat Oct 14 2017,Manchester City FC,7-2,Stoke City FC
 8,Sat Oct 14 2017,Tottenham Hotspur FC,1-0,AFC Bournemouth
-8,Sat Oct 14 2017,Burnley FC,1-1,West Ham United FC
-8,Sat Oct 14 2017,Swansea City FC,2-0,Huddersfield Town AFC
 8,Sat Oct 14 2017,Watford FC,2-1,Arsenal FC
+8,Sat Oct 14 2017,Swansea City FC,2-0,Huddersfield Town AFC
+8,Sat Oct 14 2017,Burnley FC,1-1,West Ham United FC
 8,Sun Oct 15 2017,Brighton & Hove Albion FC,1-1,Everton FC
 8,Sun Oct 15 2017,Southampton FC,2-2,Newcastle United FC
 8,Mon Oct 16 2017,Leicester City FC,1-1,West Bromwich Albion FC
 9,Fri Oct 20 2017,West Ham United FC,0-3,Brighton & Hove Albion FC
-9,Sat Oct 21 2017,Chelsea FC,4-2,Watford FC
 9,Sat Oct 21 2017,Manchester City FC,3-0,Burnley FC
+9,Sat Oct 21 2017,Chelsea FC,4-2,Watford FC
 9,Sat Oct 21 2017,Huddersfield Town AFC,2-1,Manchester United FC
 9,Sat Oct 21 2017,Newcastle United FC,1-0,Crystal Palace FC
 9,Sat Oct 21 2017,Swansea City FC,1-2,Leicester City FC
@@ -89,13 +89,13 @@ Matchday,Date,Team 1,FT,Team 2
 9,Sat Oct 21 2017,Southampton FC,1-0,West Bromwich Albion FC
 9,Sun Oct 22 2017,Everton FC,2-5,Arsenal FC
 9,Sun Oct 22 2017,Tottenham Hotspur FC,4-1,Liverpool FC
-10,Sat Oct 28 2017,Manchester United FC,1-0,Tottenham Hotspur FC
-10,Sat Oct 28 2017,Liverpool FC,3-0,Huddersfield Town AFC
 10,Sat Oct 28 2017,Arsenal FC,2-1,Swansea City FC
-10,Sat Oct 28 2017,Watford FC,0-1,Stoke City FC
+10,Sat Oct 28 2017,Liverpool FC,3-0,Huddersfield Town AFC
+10,Sat Oct 28 2017,Manchester United FC,1-0,Tottenham Hotspur FC
+10,Sat Oct 28 2017,AFC Bournemouth,0-1,Chelsea FC
 10,Sat Oct 28 2017,Crystal Palace FC,2-2,West Ham United FC
 10,Sat Oct 28 2017,West Bromwich Albion FC,2-3,Manchester City FC
-10,Sat Oct 28 2017,AFC Bournemouth,0-1,Chelsea FC
+10,Sat Oct 28 2017,Watford FC,0-1,Stoke City FC
 10,Sun Oct 29 2017,Brighton & Hove Albion FC,1-1,Southampton FC
 10,Sun Oct 29 2017,Leicester City FC,2-0,Everton FC
 10,Mon Oct 30 2017,Burnley FC,1-0,Newcastle United FC
@@ -103,29 +103,29 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sat Nov 4 2017,Newcastle United FC,0-1,AFC Bournemouth
 11,Sat Nov 4 2017,Swansea City FC,0-1,Brighton & Hove Albion FC
 11,Sat Nov 4 2017,Huddersfield Town AFC,1-0,West Bromwich Albion FC
-11,Sat Nov 4 2017,Southampton FC,0-1,Burnley FC
 11,Sat Nov 4 2017,West Ham United FC,1-4,Liverpool FC
+11,Sat Nov 4 2017,Southampton FC,0-1,Burnley FC
 11,Sun Nov 5 2017,Tottenham Hotspur FC,1-0,Crystal Palace FC
 11,Sun Nov 5 2017,Manchester City FC,3-1,Arsenal FC
-11,Sun Nov 5 2017,Everton FC,3-2,Watford FC
 11,Sun Nov 5 2017,Chelsea FC,1-0,Manchester United FC
+11,Sun Nov 5 2017,Everton FC,3-2,Watford FC
 12,Sat Nov 18 2017,Arsenal FC,2-0,Tottenham Hotspur FC
 12,Sat Nov 18 2017,Crystal Palace FC,2-2,Everton FC
-12,Sat Nov 18 2017,Liverpool FC,3-0,Southampton FC
+12,Sat Nov 18 2017,Manchester United FC,4-1,Newcastle United FC
 12,Sat Nov 18 2017,Leicester City FC,0-2,Manchester City FC
 12,Sat Nov 18 2017,Burnley FC,2-0,Swansea City FC
 12,Sat Nov 18 2017,AFC Bournemouth,4-0,Huddersfield Town AFC
 12,Sat Nov 18 2017,West Bromwich Albion FC,0-4,Chelsea FC
-12,Sat Nov 18 2017,Manchester United FC,4-1,Newcastle United FC
+12,Sat Nov 18 2017,Liverpool FC,3-0,Southampton FC
 12,Sun Nov 19 2017,Watford FC,2-0,West Ham United FC
 12,Mon Nov 20 2017,Brighton & Hove Albion FC,2-2,Stoke City FC
 13,Fri Nov 24 2017,West Ham United FC,1-1,Leicester City FC
-13,Sat Nov 25 2017,Newcastle United FC,0-3,Watford FC
 13,Sat Nov 25 2017,Tottenham Hotspur FC,1-1,West Bromwich Albion FC
+13,Sat Nov 25 2017,Newcastle United FC,0-3,Watford FC
 13,Sat Nov 25 2017,Crystal Palace FC,2-1,Stoke City FC
-13,Sat Nov 25 2017,Swansea City FC,0-0,AFC Bournemouth
-13,Sat Nov 25 2017,Manchester United FC,1-0,Brighton & Hove Albion FC
 13,Sat Nov 25 2017,Liverpool FC,1-1,Chelsea FC
+13,Sat Nov 25 2017,Manchester United FC,1-0,Brighton & Hove Albion FC
+13,Sat Nov 25 2017,Swansea City FC,0-0,AFC Bournemouth
 13,Sun Nov 26 2017,Southampton FC,4-1,Everton FC
 13,Sun Nov 26 2017,Burnley FC,0-1,Arsenal FC
 13,Sun Nov 26 2017,Huddersfield Town AFC,1-2,Manchester City FC
@@ -137,101 +137,101 @@ Matchday,Date,Team 1,FT,Team 2
 14,Wed Nov 29 2017,AFC Bournemouth,1-2,Burnley FC
 14,Wed Nov 29 2017,Arsenal FC,5-0,Huddersfield Town AFC
 14,Wed Nov 29 2017,Everton FC,4-0,West Ham United FC
-14,Wed Nov 29 2017,Stoke City FC,0-3,Liverpool FC
 14,Wed Nov 29 2017,Manchester City FC,2-1,Southampton FC
+14,Wed Nov 29 2017,Stoke City FC,0-3,Liverpool FC
 15,Sat Dec 2 2017,Chelsea FC,3-1,Newcastle United FC
 15,Sat Dec 2 2017,Stoke City FC,2-1,Swansea City FC
 15,Sat Dec 2 2017,West Bromwich Albion FC,0-0,Crystal Palace FC
 15,Sat Dec 2 2017,Brighton & Hove Albion FC,1-5,Liverpool FC
-15,Sat Dec 2 2017,Everton FC,2-0,Huddersfield Town AFC
+15,Sat Dec 2 2017,Arsenal FC,1-3,Manchester United FC
 15,Sat Dec 2 2017,Watford FC,1-1,Tottenham Hotspur FC
 15,Sat Dec 2 2017,Leicester City FC,1-0,Burnley FC
-15,Sat Dec 2 2017,Arsenal FC,1-3,Manchester United FC
-15,Sun Dec 3 2017,AFC Bournemouth,1-1,Southampton FC
+15,Sat Dec 2 2017,Everton FC,2-0,Huddersfield Town AFC
 15,Sun Dec 3 2017,Manchester City FC,2-1,West Ham United FC
+15,Sun Dec 3 2017,AFC Bournemouth,1-1,Southampton FC
 16,Sat Dec 9 2017,West Ham United FC,1-0,Chelsea FC
 16,Sat Dec 9 2017,Swansea City FC,1-0,West Bromwich Albion FC
 16,Sat Dec 9 2017,Crystal Palace FC,2-2,AFC Bournemouth
 16,Sat Dec 9 2017,Huddersfield Town AFC,2-0,Brighton & Hove Albion FC
-16,Sat Dec 9 2017,Burnley FC,1-0,Watford FC
-16,Sat Dec 9 2017,Tottenham Hotspur FC,5-1,Stoke City FC
 16,Sat Dec 9 2017,Newcastle United FC,2-3,Leicester City FC
+16,Sat Dec 9 2017,Tottenham Hotspur FC,5-1,Stoke City FC
+16,Sat Dec 9 2017,Burnley FC,1-0,Watford FC
 16,Sun Dec 10 2017,Southampton FC,1-1,Arsenal FC
 16,Sun Dec 10 2017,Liverpool FC,1-1,Everton FC
 16,Sun Dec 10 2017,Manchester United FC,1-2,Manchester City FC
 17,Tue Dec 12 2017,Burnley FC,1-0,Stoke City FC
 17,Tue Dec 12 2017,Crystal Palace FC,2-1,Watford FC
 17,Tue Dec 12 2017,Huddersfield Town AFC,1-3,Chelsea FC
+17,Wed Dec 13 2017,Southampton FC,1-4,Leicester City FC
 17,Wed Dec 13 2017,Manchester United FC,1-0,AFC Bournemouth
-17,Wed Dec 13 2017,Newcastle United FC,0-1,Everton FC
 17,Wed Dec 13 2017,Swansea City FC,0-4,Manchester City FC
 17,Wed Dec 13 2017,Liverpool FC,0-0,West Bromwich Albion FC
 17,Wed Dec 13 2017,West Ham United FC,0-0,Arsenal FC
 17,Wed Dec 13 2017,Tottenham Hotspur FC,2-0,Brighton & Hove Albion FC
-17,Wed Dec 13 2017,Southampton FC,1-4,Leicester City FC
+17,Wed Dec 13 2017,Newcastle United FC,0-1,Everton FC
 18,Sat Dec 16 2017,Leicester City FC,0-3,Crystal Palace FC
 18,Sat Dec 16 2017,Brighton & Hove Albion FC,0-0,Burnley FC
 18,Sat Dec 16 2017,Watford FC,1-4,Huddersfield Town AFC
-18,Sat Dec 16 2017,Chelsea FC,1-0,Southampton FC
+18,Sat Dec 16 2017,Manchester City FC,4-1,Tottenham Hotspur FC
 18,Sat Dec 16 2017,Arsenal FC,1-0,Newcastle United FC
 18,Sat Dec 16 2017,Stoke City FC,0-3,West Ham United FC
-18,Sat Dec 16 2017,Manchester City FC,4-1,Tottenham Hotspur FC
+18,Sat Dec 16 2017,Chelsea FC,1-0,Southampton FC
 18,Sun Dec 17 2017,West Bromwich Albion FC,1-2,Manchester United FC
 18,Sun Dec 17 2017,AFC Bournemouth,0-4,Liverpool FC
 18,Mon Dec 18 2017,Everton FC,3-1,Swansea City FC
 19,Fri Dec 22 2017,Arsenal FC,3-3,Liverpool FC
-19,Sat Dec 23 2017,Everton FC,0-0,Chelsea FC
-19,Sat Dec 23 2017,Stoke City FC,3-1,West Bromwich Albion FC
 19,Sat Dec 23 2017,West Ham United FC,2-3,Newcastle United FC
+19,Sat Dec 23 2017,Stoke City FC,3-1,West Bromwich Albion FC
+19,Sat Dec 23 2017,Everton FC,0-0,Chelsea FC
 19,Sat Dec 23 2017,Swansea City FC,1-1,Crystal Palace FC
 19,Sat Dec 23 2017,Brighton & Hove Albion FC,1-0,Watford FC
 19,Sat Dec 23 2017,Manchester City FC,4-0,AFC Bournemouth
-19,Sat Dec 23 2017,Southampton FC,1-1,Huddersfield Town AFC
-19,Sat Dec 23 2017,Burnley FC,0-3,Tottenham Hotspur FC
 19,Sat Dec 23 2017,Leicester City FC,2-2,Manchester United FC
-20,Tue Dec 26 2017,Tottenham Hotspur FC,5-2,Southampton FC
+19,Sat Dec 23 2017,Burnley FC,0-3,Tottenham Hotspur FC
+19,Sat Dec 23 2017,Southampton FC,1-1,Huddersfield Town AFC
+20,Tue Dec 26 2017,Liverpool FC,5-0,Swansea City FC
 20,Tue Dec 26 2017,Huddersfield Town AFC,1-1,Stoke City FC
 20,Tue Dec 26 2017,AFC Bournemouth,3-3,West Ham United FC
 20,Tue Dec 26 2017,Chelsea FC,2-0,Brighton & Hove Albion FC
 20,Tue Dec 26 2017,Manchester United FC,2-2,Burnley FC
 20,Tue Dec 26 2017,Watford FC,2-1,Leicester City FC
 20,Tue Dec 26 2017,West Bromwich Albion FC,0-0,Everton FC
-20,Tue Dec 26 2017,Liverpool FC,5-0,Swansea City FC
+20,Tue Dec 26 2017,Tottenham Hotspur FC,5-2,Southampton FC
 20,Wed Dec 27 2017,Newcastle United FC,0-1,Manchester City FC
 20,Thu Dec 28 2017,Crystal Palace FC,2-3,Arsenal FC
-21,Sat Dec 30 2017,AFC Bournemouth,2-1,Everton FC
-21,Sat Dec 30 2017,Chelsea FC,5-0,Stoke City FC
 21,Sat Dec 30 2017,Newcastle United FC,0-0,Brighton & Hove Albion FC
+21,Sat Dec 30 2017,Chelsea FC,5-0,Stoke City FC
+21,Sat Dec 30 2017,AFC Bournemouth,2-1,Everton FC
 21,Sat Dec 30 2017,Watford FC,1-2,Swansea City FC
 21,Sat Dec 30 2017,Huddersfield Town AFC,0-0,Burnley FC
-21,Sat Dec 30 2017,Liverpool FC,2-1,Leicester City FC
 21,Sat Dec 30 2017,Manchester United FC,0-0,Southampton FC
+21,Sat Dec 30 2017,Liverpool FC,2-1,Leicester City FC
 21,Sun Dec 31 2017,Crystal Palace FC,0-0,Manchester City FC
 21,Sun Dec 31 2017,West Bromwich Albion FC,1-1,Arsenal FC
 22,Mon Jan 1 2018,Burnley FC,1-2,Liverpool FC
-22,Mon Jan 1 2018,Stoke City FC,0-1,Newcastle United FC
 22,Mon Jan 1 2018,Brighton & Hove Albion FC,2-2,AFC Bournemouth
-22,Mon Jan 1 2018,Everton FC,0-2,Manchester United FC
 22,Mon Jan 1 2018,Leicester City FC,3-0,Huddersfield Town AFC
-22,Tue Jan 2 2018,Southampton FC,1-2,Crystal Palace FC
+22,Mon Jan 1 2018,Everton FC,0-2,Manchester United FC
+22,Mon Jan 1 2018,Stoke City FC,0-1,Newcastle United FC
 22,Tue Jan 2 2018,Swansea City FC,0-2,Tottenham Hotspur FC
 22,Tue Jan 2 2018,West Ham United FC,2-1,West Bromwich Albion FC
+22,Tue Jan 2 2018,Southampton FC,1-2,Crystal Palace FC
 22,Tue Jan 2 2018,Manchester City FC,3-1,Watford FC
 22,Wed Jan 3 2018,Arsenal FC,2-2,Chelsea FC
 21,Thu Jan 4 2018,Tottenham Hotspur FC,1-1,West Ham United FC
 23,Sat Jan 13 2018,West Bromwich Albion FC,2-0,Brighton & Hove Albion FC
 23,Sat Jan 13 2018,Crystal Palace FC,1-0,Burnley FC
 23,Sat Jan 13 2018,Huddersfield Town AFC,1-4,West Ham United FC
-23,Sat Jan 13 2018,Chelsea FC,0-0,Leicester City FC
+23,Sat Jan 13 2018,Tottenham Hotspur FC,4-0,Everton FC
 23,Sat Jan 13 2018,Newcastle United FC,1-1,Swansea City FC
 23,Sat Jan 13 2018,Watford FC,2-2,Southampton FC
-23,Sat Jan 13 2018,Tottenham Hotspur FC,4-0,Everton FC
+23,Sat Jan 13 2018,Chelsea FC,0-0,Leicester City FC
 23,Sun Jan 14 2018,AFC Bournemouth,2-1,Arsenal FC
 23,Sun Jan 14 2018,Liverpool FC,4-3,Manchester City FC
 23,Mon Jan 15 2018,Manchester United FC,3-0,Stoke City FC
-24,Sat Jan 20 2018,Brighton & Hove Albion FC,0-4,Chelsea FC
-24,Sat Jan 20 2018,Stoke City FC,2-0,Huddersfield Town AFC
 24,Sat Jan 20 2018,Leicester City FC,2-0,Watford FC
+24,Sat Jan 20 2018,Stoke City FC,2-0,Huddersfield Town AFC
+24,Sat Jan 20 2018,Brighton & Hove Albion FC,0-4,Chelsea FC
 24,Sat Jan 20 2018,Burnley FC,0-1,Manchester United FC
 24,Sat Jan 20 2018,West Ham United FC,1-1,AFC Bournemouth
 24,Sat Jan 20 2018,Everton FC,1-1,West Bromwich Albion FC
@@ -239,23 +239,23 @@ Matchday,Date,Team 1,FT,Team 2
 24,Sat Jan 20 2018,Manchester City FC,3-1,Newcastle United FC
 24,Sun Jan 21 2018,Southampton FC,1-1,Tottenham Hotspur FC
 24,Mon Jan 22 2018,Swansea City FC,1-0,Liverpool FC
-25,Tue Jan 30 2018,Swansea City FC,3-1,Arsenal FC
 25,Tue Jan 30 2018,West Ham United FC,1-1,Crystal Palace FC
+25,Tue Jan 30 2018,Swansea City FC,3-1,Arsenal FC
 25,Tue Jan 30 2018,Huddersfield Town AFC,0-3,Liverpool FC
+25,Wed Jan 31 2018,Newcastle United FC,1-1,Burnley FC
 25,Wed Jan 31 2018,Stoke City FC,0-0,Watford FC
-25,Wed Jan 31 2018,Southampton FC,1-1,Brighton & Hove Albion FC
 25,Wed Jan 31 2018,Everton FC,2-1,Leicester City FC
 25,Wed Jan 31 2018,Chelsea FC,0-3,AFC Bournemouth
 25,Wed Jan 31 2018,Tottenham Hotspur FC,2-0,Manchester United FC
 25,Wed Jan 31 2018,Manchester City FC,3-0,West Bromwich Albion FC
-25,Wed Jan 31 2018,Newcastle United FC,1-1,Burnley FC
+25,Wed Jan 31 2018,Southampton FC,1-1,Brighton & Hove Albion FC
 26,Sat Feb 3 2018,Burnley FC,1-1,Manchester City FC
 26,Sat Feb 3 2018,Leicester City FC,1-1,Swansea City FC
 26,Sat Feb 3 2018,Brighton & Hove Albion FC,3-1,West Ham United FC
 26,Sat Feb 3 2018,West Bromwich Albion FC,2-3,Southampton FC
-26,Sat Feb 3 2018,AFC Bournemouth,2-1,Stoke City FC
-26,Sat Feb 3 2018,Manchester United FC,2-0,Huddersfield Town AFC
 26,Sat Feb 3 2018,Arsenal FC,5-1,Everton FC
+26,Sat Feb 3 2018,Manchester United FC,2-0,Huddersfield Town AFC
+26,Sat Feb 3 2018,AFC Bournemouth,2-1,Stoke City FC
 26,Sun Feb 4 2018,Crystal Palace FC,1-1,Newcastle United FC
 26,Sun Feb 4 2018,Liverpool FC,2-2,Tottenham Hotspur FC
 26,Mon Feb 5 2018,Watford FC,4-1,Chelsea FC
@@ -263,8 +263,8 @@ Matchday,Date,Team 1,FT,Team 2
 27,Sat Feb 10 2018,Everton FC,3-1,Crystal Palace FC
 27,Sat Feb 10 2018,Stoke City FC,1-1,Brighton & Hove Albion FC
 27,Sat Feb 10 2018,Swansea City FC,1-0,Burnley FC
-27,Sat Feb 10 2018,West Ham United FC,2-0,Watford FC
 27,Sat Feb 10 2018,Manchester City FC,5-1,Leicester City FC
+27,Sat Feb 10 2018,West Ham United FC,2-0,Watford FC
 27,Sun Feb 11 2018,Huddersfield Town AFC,4-1,AFC Bournemouth
 27,Sun Feb 11 2018,Newcastle United FC,1-0,Manchester United FC
 27,Sun Feb 11 2018,Southampton FC,0-2,Liverpool FC
@@ -273,9 +273,9 @@ Matchday,Date,Team 1,FT,Team 2
 28,Sat Feb 24 2018,AFC Bournemouth,2-2,Newcastle United FC
 28,Sat Feb 24 2018,Brighton & Hove Albion FC,4-1,Swansea City FC
 28,Sat Feb 24 2018,West Bromwich Albion FC,1-2,Huddersfield Town AFC
-28,Sat Feb 24 2018,Liverpool FC,4-1,West Ham United FC
-28,Sat Feb 24 2018,Burnley FC,1-1,Southampton FC
 28,Sat Feb 24 2018,Watford FC,1-0,Everton FC
+28,Sat Feb 24 2018,Burnley FC,1-1,Southampton FC
+28,Sat Feb 24 2018,Liverpool FC,4-1,West Ham United FC
 28,Sun Feb 25 2018,Crystal Palace FC,0-1,Tottenham Hotspur FC
 28,Sun Feb 25 2018,Manchester United FC,2-1,Chelsea FC
 28,Thu Mar 1 2018,Arsenal FC,0-3,Manchester City FC
@@ -283,9 +283,9 @@ Matchday,Date,Team 1,FT,Team 2
 29,Sat Mar 3 2018,Watford FC,1-0,West Bromwich Albion FC
 29,Sat Mar 3 2018,Southampton FC,0-0,Stoke City FC
 29,Sat Mar 3 2018,Leicester City FC,1-1,AFC Bournemouth
-29,Sat Mar 3 2018,Tottenham Hotspur FC,2-0,Huddersfield Town AFC
-29,Sat Mar 3 2018,Swansea City FC,4-1,West Ham United FC
 29,Sat Mar 3 2018,Liverpool FC,2-0,Newcastle United FC
+29,Sat Mar 3 2018,Swansea City FC,4-1,West Ham United FC
+29,Sat Mar 3 2018,Tottenham Hotspur FC,2-0,Huddersfield Town AFC
 29,Sun Mar 4 2018,Brighton & Hove Albion FC,2-1,Arsenal FC
 29,Sun Mar 4 2018,Manchester City FC,1-0,Chelsea FC
 29,Mon Mar 5 2018,Crystal Palace FC,2-3,Manchester United FC
@@ -299,37 +299,37 @@ Matchday,Date,Team 1,FT,Team 2
 30,Sun Mar 11 2018,Arsenal FC,3-0,Watford FC
 30,Sun Mar 11 2018,AFC Bournemouth,1-4,Tottenham Hotspur FC
 30,Mon Mar 12 2018,Stoke City FC,0-2,Manchester City FC
-31,Sat Mar 17 2018,AFC Bournemouth,2-1,West Bromwich Albion FC
+31,Sat Mar 17 2018,Huddersfield Town AFC,0-2,Crystal Palace FC
 31,Sat Mar 17 2018,Liverpool FC,5-0,Watford FC
 31,Sat Mar 17 2018,Stoke City FC,1-2,Everton FC
-31,Sat Mar 17 2018,Huddersfield Town AFC,0-2,Crystal Palace FC
-32,Sat Mar 31 2018,West Bromwich Albion FC,1-2,Burnley FC
-32,Sat Mar 31 2018,Watford FC,2-2,AFC Bournemouth
-32,Sat Mar 31 2018,Brighton & Hove Albion FC,0-2,Leicester City FC
-32,Sat Mar 31 2018,Everton FC,1-3,Manchester City FC
-32,Sat Mar 31 2018,Manchester United FC,2-0,Swansea City FC
-32,Sat Mar 31 2018,Newcastle United FC,1-0,Huddersfield Town AFC
-32,Sat Mar 31 2018,West Ham United FC,3-0,Southampton FC
+31,Sat Mar 17 2018,AFC Bournemouth,2-1,West Bromwich Albion FC
 32,Sat Mar 31 2018,Crystal Palace FC,1-2,Liverpool FC
+32,Sat Mar 31 2018,West Ham United FC,3-0,Southampton FC
+32,Sat Mar 31 2018,Newcastle United FC,1-0,Huddersfield Town AFC
+32,Sat Mar 31 2018,Manchester United FC,2-0,Swansea City FC
+32,Sat Mar 31 2018,Everton FC,1-3,Manchester City FC
+32,Sat Mar 31 2018,Brighton & Hove Albion FC,0-2,Leicester City FC
+32,Sat Mar 31 2018,Watford FC,2-2,AFC Bournemouth
+32,Sat Mar 31 2018,West Bromwich Albion FC,1-2,Burnley FC
 32,Sun Apr 1 2018,Chelsea FC,1-3,Tottenham Hotspur FC
 32,Sun Apr 1 2018,Arsenal FC,3-0,Stoke City FC
+33,Sat Apr 7 2018,Everton FC,0-0,Liverpool FC
+33,Sat Apr 7 2018,Watford FC,1-2,Burnley FC
+33,Sat Apr 7 2018,Leicester City FC,1-2,Newcastle United FC
+33,Sat Apr 7 2018,West Bromwich Albion FC,1-1,Swansea City FC
+33,Sat Apr 7 2018,Manchester City FC,2-3,Manchester United FC
 33,Sat Apr 7 2018,Stoke City FC,1-2,Tottenham Hotspur FC
 33,Sat Apr 7 2018,Brighton & Hove Albion FC,1-1,Huddersfield Town AFC
 33,Sat Apr 7 2018,AFC Bournemouth,2-2,Crystal Palace FC
-33,Sat Apr 7 2018,West Bromwich Albion FC,1-1,Swansea City FC
-33,Sat Apr 7 2018,Watford FC,1-2,Burnley FC
-33,Sat Apr 7 2018,Leicester City FC,1-2,Newcastle United FC
-33,Sat Apr 7 2018,Everton FC,0-0,Liverpool FC
-33,Sat Apr 7 2018,Manchester City FC,2-3,Manchester United FC
 33,Sun Apr 8 2018,Chelsea FC,1-1,West Ham United FC
 33,Sun Apr 8 2018,Arsenal FC,3-2,Southampton FC
-34,Sat Apr 14 2018,Southampton FC,2-3,Chelsea FC
 34,Sat Apr 14 2018,Tottenham Hotspur FC,1-3,Manchester City FC
-34,Sat Apr 14 2018,Swansea City FC,1-1,Everton FC
-34,Sat Apr 14 2018,Huddersfield Town AFC,1-0,Watford FC
-34,Sat Apr 14 2018,Burnley FC,2-1,Leicester City FC
 34,Sat Apr 14 2018,Crystal Palace FC,3-2,Brighton & Hove Albion FC
+34,Sat Apr 14 2018,Burnley FC,2-1,Leicester City FC
+34,Sat Apr 14 2018,Huddersfield Town AFC,1-0,Watford FC
+34,Sat Apr 14 2018,Swansea City FC,1-1,Everton FC
 34,Sat Apr 14 2018,Liverpool FC,3-0,AFC Bournemouth
+34,Sat Apr 14 2018,Southampton FC,2-3,Chelsea FC
 34,Sun Apr 15 2018,Newcastle United FC,2-1,Arsenal FC
 34,Sun Apr 15 2018,Manchester United FC,0-1,West Bromwich Albion FC
 34,Mon Apr 16 2018,West Ham United FC,1-1,Stoke City FC
@@ -337,32 +337,32 @@ Matchday,Date,Team 1,FT,Team 2
 35,Wed Apr 18 2018,AFC Bournemouth,0-2,Manchester United FC
 31,Thu Apr 19 2018,Burnley FC,1-2,Chelsea FC
 35,Thu Apr 19 2018,Leicester City FC,0-0,Southampton FC
-35,Sat Apr 21 2018,Watford FC,0-0,Crystal Palace FC
 35,Sat Apr 21 2018,West Bromwich Albion FC,2-2,Liverpool FC
+35,Sat Apr 21 2018,Watford FC,0-0,Crystal Palace FC
+35,Sun Apr 22 2018,Arsenal FC,4-1,West Ham United FC
 35,Sun Apr 22 2018,Stoke City FC,1-1,Burnley FC
 35,Sun Apr 22 2018,Manchester City FC,5-0,Swansea City FC
-35,Sun Apr 22 2018,Arsenal FC,4-1,West Ham United FC
 35,Mon Apr 23 2018,Everton FC,1-0,Newcastle United FC
-36,Sat Apr 28 2018,Burnley FC,0-0,Brighton & Hove Albion FC
+36,Sat Apr 28 2018,Liverpool FC,0-0,Stoke City FC
+36,Sat Apr 28 2018,Crystal Palace FC,5-0,Leicester City FC
 36,Sat Apr 28 2018,Newcastle United FC,0-1,West Bromwich Albion FC
 36,Sat Apr 28 2018,Southampton FC,2-1,AFC Bournemouth
 36,Sat Apr 28 2018,Swansea City FC,0-1,Chelsea FC
+36,Sat Apr 28 2018,Burnley FC,0-0,Brighton & Hove Albion FC
 36,Sat Apr 28 2018,Huddersfield Town AFC,0-2,Everton FC
-36,Sat Apr 28 2018,Crystal Palace FC,5-0,Leicester City FC
-36,Sat Apr 28 2018,Liverpool FC,0-0,Stoke City FC
 36,Sun Apr 29 2018,West Ham United FC,1-4,Manchester City FC
 36,Sun Apr 29 2018,Manchester United FC,2-1,Arsenal FC
 36,Mon Apr 30 2018,Tottenham Hotspur FC,2-0,Watford FC
 37,Fri May 4 2018,Brighton & Hove Albion FC,1-0,Manchester United FC
+37,Sat May 5 2018,Stoke City FC,1-2,Crystal Palace FC
 37,Sat May 5 2018,Leicester City FC,0-2,West Ham United FC
+37,Sat May 5 2018,West Bromwich Albion FC,1-0,Tottenham Hotspur FC
 37,Sat May 5 2018,Everton FC,1-1,Southampton FC
 37,Sat May 5 2018,AFC Bournemouth,1-0,Swansea City FC
 37,Sat May 5 2018,Watford FC,2-1,Newcastle United FC
-37,Sat May 5 2018,Stoke City FC,1-2,Crystal Palace FC
-37,Sat May 5 2018,West Bromwich Albion FC,1-0,Tottenham Hotspur FC
 37,Sun May 6 2018,Manchester City FC,0-0,Huddersfield Town AFC
-37,Sun May 6 2018,Chelsea FC,1-0,Liverpool FC
 37,Sun May 6 2018,Arsenal FC,5-0,Burnley FC
+37,Sun May 6 2018,Chelsea FC,1-0,Liverpool FC
 31,Tue May 8 2018,Swansea City FC,0-1,Southampton FC
 31,Wed May 9 2018,Manchester City FC,3-1,Brighton & Hove Albion FC
 31,Wed May 9 2018,Tottenham Hotspur FC,1-0,Newcastle United FC

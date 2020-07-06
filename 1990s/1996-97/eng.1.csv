@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 17 1996,Derby County FC,3-3,Leeds United FC
 1,Sat Aug 17 1996,Wimbledon FC,0-3,Manchester United FC
 1,Sat Aug 17 1996,Sheffield Wednesday FC,2-1,Aston Villa FC
@@ -11,34 +11,34 @@ Matchday,Date,Team 1,FT,Team 2
 1,Sun Aug 18 1996,Southampton FC,0-0,Chelsea FC
 2,Mon Aug 19 1996,Liverpool FC,2-0,Arsenal FC
 2,Tue Aug 20 1996,Leeds United FC,0-2,Sheffield Wednesday FC
-2,Wed Aug 21 1996,Nottingham Forest FC,1-4,Sunderland AFC
-2,Wed Aug 21 1996,Leicester City FC,2-1,Southampton FC
 2,Wed Aug 21 1996,Aston Villa FC,1-0,Blackburn Rovers FC
+2,Wed Aug 21 1996,Newcastle United FC,2-0,Wimbledon FC
+2,Wed Aug 21 1996,Nottingham Forest FC,1-4,Sunderland AFC
 2,Wed Aug 21 1996,Chelsea FC,1-0,Middlesbrough FC
 2,Wed Aug 21 1996,Manchester United FC,2-2,Everton FC
 2,Wed Aug 21 1996,Tottenham Hotspur FC,1-1,Derby County FC
 2,Wed Aug 21 1996,West Ham United FC,1-1,Coventry City FC
-2,Wed Aug 21 1996,Newcastle United FC,2-0,Wimbledon FC
+2,Wed Aug 21 1996,Leicester City FC,2-1,Southampton FC
 3,Sat Aug 24 1996,Liverpool FC,0-0,Sunderland AFC
 3,Sat Aug 24 1996,Tottenham Hotspur FC,0-0,Everton FC
 3,Sat Aug 24 1996,Chelsea FC,2-0,Coventry City FC
 3,Sat Aug 24 1996,Leicester City FC,0-2,Arsenal FC
-3,Sat Aug 24 1996,Aston Villa FC,2-0,Derby County FC
+3,Sat Aug 24 1996,Newcastle United FC,1-2,Sheffield Wednesday FC
 3,Sat Aug 24 1996,Nottingham Forest FC,1-1,Middlesbrough FC
 3,Sat Aug 24 1996,West Ham United FC,2-1,Southampton FC
-3,Sat Aug 24 1996,Newcastle United FC,1-2,Sheffield Wednesday FC
+3,Sat Aug 24 1996,Aston Villa FC,2-0,Derby County FC
 3,Sun Aug 25 1996,Manchester United FC,2-2,Blackburn Rovers FC
 3,Mon Aug 26 1996,Leeds United FC,1-0,Wimbledon FC
 4,Mon Sep 2 1996,Sheffield Wednesday FC,2-1,Leicester City FC
-4,Wed Sep 4 1996,Everton FC,0-1,Aston Villa FC
-4,Wed Sep 4 1996,Sunderland AFC,1-2,Newcastle United FC
 4,Wed Sep 4 1996,Arsenal FC,3-3,Chelsea FC
+4,Wed Sep 4 1996,Sunderland AFC,1-2,Newcastle United FC
+4,Wed Sep 4 1996,Everton FC,0-1,Aston Villa FC
 4,Wed Sep 4 1996,Middlesbrough FC,4-1,West Ham United FC
 4,Wed Sep 4 1996,Blackburn Rovers FC,0-1,Leeds United FC
 4,Wed Sep 4 1996,Derby County FC,1-1,Manchester United FC
 4,Wed Sep 4 1996,Southampton FC,2-2,Nottingham Forest FC
-4,Wed Sep 4 1996,Wimbledon FC,1-0,Tottenham Hotspur FC
 4,Wed Sep 4 1996,Coventry City FC,0-1,Liverpool FC
+4,Wed Sep 4 1996,Wimbledon FC,1-0,Tottenham Hotspur FC
 5,Sat Sep 7 1996,Leeds United FC,0-4,Manchester United FC
 5,Sat Sep 7 1996,Middlesbrough FC,4-0,Coventry City FC
 5,Sat Sep 7 1996,Wimbledon FC,4-0,Everton FC
@@ -52,36 +52,36 @@ Matchday,Date,Team 1,FT,Team 2
 6,Sat Sep 14 1996,Manchester United FC,4-1,Nottingham Forest FC
 6,Sat Sep 14 1996,Coventry City FC,2-1,Leeds United FC
 6,Sat Sep 14 1996,Everton FC,1-2,Middlesbrough FC
-6,Sat Sep 14 1996,Derby County FC,1-0,Sunderland AFC
+6,Sat Sep 14 1996,Newcastle United FC,2-1,Blackburn Rovers FC
 6,Sat Sep 14 1996,West Ham United FC,0-2,Wimbledon FC
 6,Sat Sep 14 1996,Southampton FC,0-1,Tottenham Hotspur FC
-6,Sat Sep 14 1996,Newcastle United FC,2-1,Blackburn Rovers FC
+6,Sat Sep 14 1996,Derby County FC,1-0,Sunderland AFC
 6,Sun Sep 15 1996,Chelsea FC,1-1,Aston Villa FC
 6,Sun Sep 15 1996,Leicester City FC,0-3,Liverpool FC
 6,Mon Sep 16 1996,Arsenal FC,4-1,Sheffield Wednesday FC
-7,Sat Sep 21 1996,Middlesbrough FC,0-2,Arsenal FC
-7,Sat Sep 21 1996,Nottingham Forest FC,0-2,West Ham United FC
-7,Sat Sep 21 1996,Sunderland AFC,1-0,Coventry City FC
 7,Sat Sep 21 1996,Sheffield Wednesday FC,0-0,Derby County FC
+7,Sat Sep 21 1996,Nottingham Forest FC,0-2,West Ham United FC
+7,Sat Sep 21 1996,Aston Villa FC,0-0,Manchester United FC
+7,Sat Sep 21 1996,Middlesbrough FC,0-2,Arsenal FC
 7,Sat Sep 21 1996,Leeds United FC,0-1,Newcastle United FC
 7,Sat Sep 21 1996,Liverpool FC,5-1,Chelsea FC
 7,Sat Sep 21 1996,Blackburn Rovers FC,1-1,Everton FC
-7,Sat Sep 21 1996,Aston Villa FC,0-0,Manchester United FC
+7,Sat Sep 21 1996,Sunderland AFC,1-0,Coventry City FC
 7,Sun Sep 22 1996,Tottenham Hotspur FC,1-2,Leicester City FC
 7,Mon Sep 23 1996,Wimbledon FC,3-1,Southampton FC
-8,Sat Sep 28 1996,Southampton FC,4-0,Middlesbrough FC
-8,Sat Sep 28 1996,Leicester City FC,1-0,Leeds United FC
 8,Sat Sep 28 1996,Arsenal FC,2-0,Sunderland AFC
-8,Sat Sep 28 1996,Everton FC,2-0,Sheffield Wednesday FC
+8,Sat Sep 28 1996,Leicester City FC,1-0,Leeds United FC
+8,Sat Sep 28 1996,Southampton FC,4-0,Middlesbrough FC
+8,Sat Sep 28 1996,Chelsea FC,1-1,Nottingham Forest FC
 8,Sat Sep 28 1996,Derby County FC,0-2,Wimbledon FC
 8,Sat Sep 28 1996,Coventry City FC,0-0,Blackburn Rovers FC
-8,Sat Sep 28 1996,Chelsea FC,1-1,Nottingham Forest FC
+8,Sat Sep 28 1996,Everton FC,2-0,Sheffield Wednesday FC
 8,Sun Sep 29 1996,Manchester United FC,2-0,Tottenham Hotspur FC
 8,Sun Sep 29 1996,West Ham United FC,1-2,Liverpool FC
 8,Mon Sep 30 1996,Newcastle United FC,4-3,Aston Villa FC
-9,Sat Oct 12 1996,Wimbledon FC,4-2,Sheffield Wednesday FC
-9,Sat Oct 12 1996,Tottenham Hotspur FC,1-0,Aston Villa FC
 9,Sat Oct 12 1996,Leicester City FC,1-3,Chelsea FC
+9,Sat Oct 12 1996,Tottenham Hotspur FC,1-0,Aston Villa FC
+9,Sat Oct 12 1996,Wimbledon FC,4-2,Sheffield Wednesday FC
 9,Sat Oct 12 1996,Manchester United FC,1-0,Liverpool FC
 9,Sat Oct 12 1996,Blackburn Rovers FC,0-2,Arsenal FC
 9,Sat Oct 12 1996,Leeds United FC,2-0,Nottingham Forest FC
@@ -89,16 +89,15 @@ Matchday,Date,Team 1,FT,Team 2
 9,Sat Oct 12 1996,Everton FC,2-1,West Ham United FC
 9,Sun Oct 13 1996,Coventry City FC,1-1,Southampton FC
 9,Mon Oct 14 1996,Sunderland AFC,2-2,Middlesbrough FC
-10,Sat Oct 19 1996,Chelsea FC,2-4,Wimbledon FC
-10,Sat Oct 19 1996,Nottingham Forest FC,1-1,Derby County FC
 10,Sat Oct 19 1996,Arsenal FC,0-0,Coventry City FC
+10,Sat Oct 19 1996,Nottingham Forest FC,1-1,Derby County FC
+10,Sat Oct 19 1996,Chelsea FC,2-4,Wimbledon FC
 10,Sat Oct 19 1996,Middlesbrough FC,0-3,Tottenham Hotspur FC
-10,Sat Oct 19 1996,Sheffield Wednesday FC,1-1,Blackburn Rovers FC
+10,Sat Oct 19 1996,Southampton FC,3-0,Sunderland AFC
 10,Sat Oct 19 1996,Aston Villa FC,2-0,Leeds United FC
 10,Sat Oct 19 1996,West Ham United FC,1-0,Leicester City FC
-10,Sat Oct 19 1996,Southampton FC,3-0,Sunderland AFC
+10,Sat Oct 19 1996,Sheffield Wednesday FC,1-1,Blackburn Rovers FC
 10,Sun Oct 20 1996,Newcastle United FC,5-0,Manchester United FC
-11,Sat Oct 26 1996,Chelsea FC,3-1,Tottenham Hotspur FC
 11,Sat Oct 26 1996,Southampton FC,6-3,Manchester United FC
 11,Sat Oct 26 1996,Middlesbrough FC,0-0,Wimbledon FC
 11,Sat Oct 26 1996,Leicester City FC,2-0,Newcastle United FC
@@ -106,32 +105,33 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sat Oct 26 1996,Sunderland AFC,1-0,Aston Villa FC
 11,Sat Oct 26 1996,Coventry City FC,0-0,Sheffield Wednesday FC
 11,Sat Oct 26 1996,West Ham United FC,2-1,Blackburn Rovers FC
+11,Sat Oct 26 1996,Chelsea FC,3-1,Tottenham Hotspur FC
 11,Sun Oct 27 1996,Liverpool FC,2-1,Derby County FC
 11,Mon Oct 28 1996,Nottingham Forest FC,0-1,Everton FC
-12,Sat Nov 2 1996,Derby County FC,2-0,Leicester City FC
 12,Sat Nov 2 1996,Wimbledon FC,2-2,Arsenal FC
-12,Sat Nov 2 1996,Tottenham Hotspur FC,1-0,West Ham United FC
-12,Sat Nov 2 1996,Leeds United FC,3-0,Sunderland AFC
+12,Sat Nov 2 1996,Derby County FC,2-0,Leicester City FC
+12,Sat Nov 2 1996,Sheffield Wednesday FC,1-1,Southampton FC
 12,Sat Nov 2 1996,Aston Villa FC,2-0,Nottingham Forest FC
 12,Sat Nov 2 1996,Manchester United FC,1-2,Chelsea FC
-12,Sat Nov 2 1996,Sheffield Wednesday FC,1-1,Southampton FC
+12,Sat Nov 2 1996,Leeds United FC,3-0,Sunderland AFC
+12,Sat Nov 2 1996,Tottenham Hotspur FC,1-0,West Ham United FC
 12,Sun Nov 3 1996,Blackburn Rovers FC,3-0,Liverpool FC
 12,Sun Nov 3 1996,Newcastle United FC,3-1,Middlesbrough FC
 12,Mon Nov 4 1996,Everton FC,1-1,Coventry City FC
-13,Sat Nov 16 1996,Leeds United FC,0-2,Liverpool FC
 13,Sat Nov 16 1996,Newcastle United FC,1-1,West Ham United FC
-13,Sat Nov 16 1996,Manchester United FC,1-0,Arsenal FC
-13,Sat Nov 16 1996,Everton FC,7-1,Southampton FC
+13,Sat Nov 16 1996,Leeds United FC,0-2,Liverpool FC
+13,Sat Nov 16 1996,Wimbledon FC,2-2,Coventry City FC
 13,Sat Nov 16 1996,Blackburn Rovers FC,1-1,Chelsea FC
 13,Sat Nov 16 1996,Tottenham Hotspur FC,2-0,Sunderland AFC
 13,Sat Nov 16 1996,Aston Villa FC,1-3,Leicester City FC
-13,Sat Nov 16 1996,Wimbledon FC,2-2,Coventry City FC
+13,Sat Nov 16 1996,Everton FC,7-1,Southampton FC
+13,Sat Nov 16 1996,Manchester United FC,1-0,Arsenal FC
 13,Sun Nov 17 1996,Derby County FC,2-1,Middlesbrough FC
 13,Mon Nov 18 1996,Sheffield Wednesday FC,2-0,Nottingham Forest FC
 10,Wed Nov 20 1996,Liverpool FC,1-1,Everton FC
-14,Sat Nov 23 1996,West Ham United FC,1-1,Derby County FC
-14,Sat Nov 23 1996,Sunderland AFC,1-1,Sheffield Wednesday FC
 14,Sat Nov 23 1996,Middlesbrough FC,2-2,Manchester United FC
+14,Sat Nov 23 1996,Sunderland AFC,1-1,Sheffield Wednesday FC
+14,Sat Nov 23 1996,West Ham United FC,1-1,Derby County FC
 14,Sat Nov 23 1996,Leicester City FC,1-2,Everton FC
 14,Sat Nov 23 1996,Liverpool FC,1-1,Wimbledon FC
 14,Sat Nov 23 1996,Southampton FC,0-2,Leeds United FC
@@ -139,27 +139,27 @@ Matchday,Date,Team 1,FT,Team 2
 14,Sat Nov 23 1996,Coventry City FC,1-2,Aston Villa FC
 14,Sun Nov 24 1996,Arsenal FC,3-1,Tottenham Hotspur FC
 14,Mon Nov 25 1996,Nottingham Forest FC,2-2,Blackburn Rovers FC
-15,Sat Nov 30 1996,Aston Villa FC,1-0,Middlesbrough FC
-15,Sat Nov 30 1996,Sheffield Wednesday FC,0-0,West Ham United FC
 15,Sat Nov 30 1996,Wimbledon FC,1-0,Nottingham Forest FC
-15,Sat Nov 30 1996,Manchester United FC,3-1,Leicester City FC
+15,Sat Nov 30 1996,Sheffield Wednesday FC,0-0,West Ham United FC
+15,Sat Nov 30 1996,Aston Villa FC,1-0,Middlesbrough FC
+15,Sat Nov 30 1996,Newcastle United FC,1-2,Arsenal FC
 15,Sat Nov 30 1996,Everton FC,1-3,Sunderland AFC
 15,Sat Nov 30 1996,Derby County FC,2-1,Coventry City FC
 15,Sat Nov 30 1996,Blackburn Rovers FC,2-1,Southampton FC
-15,Sat Nov 30 1996,Newcastle United FC,1-2,Arsenal FC
+15,Sat Nov 30 1996,Manchester United FC,3-1,Leicester City FC
 15,Sun Dec 1 1996,Leeds United FC,2-0,Chelsea FC
 15,Mon Dec 2 1996,Tottenham Hotspur FC,0-2,Liverpool FC
 17,Tue Dec 3 1996,Middlesbrough FC,0-2,Leicester City FC
 17,Wed Dec 4 1996,West Ham United FC,0-2,Aston Villa FC
 17,Wed Dec 4 1996,Arsenal FC,3-1,Southampton FC
-16,Sat Dec 7 1996,Coventry City FC,1-2,Tottenham Hotspur FC
-16,Sat Dec 7 1996,Leicester City FC,1-1,Blackburn Rovers FC
-16,Sat Dec 7 1996,Middlesbrough FC,0-0,Leeds United FC
-16,Sat Dec 7 1996,Sunderland AFC,1-3,Wimbledon FC
-16,Sat Dec 7 1996,Chelsea FC,2-2,Everton FC
-16,Sat Dec 7 1996,Liverpool FC,0-1,Sheffield Wednesday FC
-16,Sat Dec 7 1996,Arsenal FC,2-2,Derby County FC
 16,Sat Dec 7 1996,Southampton FC,0-1,Aston Villa FC
+16,Sat Dec 7 1996,Leicester City FC,1-1,Blackburn Rovers FC
+16,Sat Dec 7 1996,Arsenal FC,2-2,Derby County FC
+16,Sat Dec 7 1996,Liverpool FC,0-1,Sheffield Wednesday FC
+16,Sat Dec 7 1996,Chelsea FC,2-2,Everton FC
+16,Sat Dec 7 1996,Sunderland AFC,1-3,Wimbledon FC
+16,Sat Dec 7 1996,Middlesbrough FC,0-0,Leeds United FC
+16,Sat Dec 7 1996,Coventry City FC,1-2,Tottenham Hotspur FC
 16,Sun Dec 8 1996,West Ham United FC,2-2,Manchester United FC
 16,Mon Dec 9 1996,Nottingham Forest FC,0-0,Newcastle United FC
 17,Sat Dec 14 1996,Wimbledon FC,1-0,Blackburn Rovers FC
@@ -170,210 +170,210 @@ Matchday,Date,Team 1,FT,Team 2
 17,Tue Dec 17 1996,Liverpool FC,4-2,Nottingham Forest FC
 17,Tue Dec 17 1996,Coventry City FC,2-1,Newcastle United FC
 17,Wed Dec 18 1996,Sheffield Wednesday FC,1-1,Manchester United FC
-18,Sat Dec 21 1996,Everton FC,0-0,Leeds United FC
-18,Sat Dec 21 1996,Leicester City FC,0-2,Coventry City FC
-18,Sat Dec 21 1996,Tottenham Hotspur FC,1-1,Sheffield Wednesday FC
-18,Sat Dec 21 1996,Nottingham Forest FC,2-1,Arsenal FC
 18,Sat Dec 21 1996,Manchester United FC,5-0,Sunderland AFC
-18,Sat Dec 21 1996,Southampton FC,3-1,Derby County FC
 18,Sat Dec 21 1996,Chelsea FC,3-1,West Ham United FC
+18,Sat Dec 21 1996,Southampton FC,3-1,Derby County FC
+18,Sat Dec 21 1996,Nottingham Forest FC,2-1,Arsenal FC
+18,Sat Dec 21 1996,Tottenham Hotspur FC,1-1,Sheffield Wednesday FC
+18,Sat Dec 21 1996,Leicester City FC,0-2,Coventry City FC
+18,Sat Dec 21 1996,Everton FC,0-0,Leeds United FC
 18,Sun Dec 22 1996,Aston Villa FC,5-0,Wimbledon FC
 18,Mon Dec 23 1996,Newcastle United FC,1-1,Liverpool FC
-19,Thu Dec 26 1996,Nottingham Forest FC,0-4,Manchester United FC
+19,Thu Dec 26 1996,Aston Villa FC,0-2,Chelsea FC
+19,Thu Dec 26 1996,Liverpool FC,1-1,Leicester City FC
 19,Thu Dec 26 1996,Tottenham Hotspur FC,3-1,Southampton FC
 19,Thu Dec 26 1996,Sheffield Wednesday FC,0-0,Arsenal FC
-19,Thu Dec 26 1996,Liverpool FC,1-1,Leicester City FC
+19,Thu Dec 26 1996,Blackburn Rovers FC,1-0,Newcastle United FC
+19,Thu Dec 26 1996,Nottingham Forest FC,0-4,Manchester United FC
 19,Thu Dec 26 1996,Sunderland AFC,2-0,Derby County FC
 19,Thu Dec 26 1996,Leeds United FC,1-3,Coventry City FC
 19,Thu Dec 26 1996,Middlesbrough FC,4-2,Everton FC
-19,Thu Dec 26 1996,Blackburn Rovers FC,1-0,Newcastle United FC
-19,Thu Dec 26 1996,Aston Villa FC,0-2,Chelsea FC
-20,Sat Dec 28 1996,Everton FC,1-3,Wimbledon FC
-20,Sat Dec 28 1996,Arsenal FC,2-2,Aston Villa FC
-20,Sat Dec 28 1996,Leicester City FC,2-2,Nottingham Forest FC
-20,Sat Dec 28 1996,Derby County FC,0-0,Blackburn Rovers FC
-20,Sat Dec 28 1996,Coventry City FC,3-0,Middlesbrough FC
 20,Sat Dec 28 1996,Newcastle United FC,7-1,Tottenham Hotspur FC
+20,Sat Dec 28 1996,Coventry City FC,3-0,Middlesbrough FC
+20,Sat Dec 28 1996,Derby County FC,0-0,Blackburn Rovers FC
+20,Sat Dec 28 1996,Leicester City FC,2-2,Nottingham Forest FC
+20,Sat Dec 28 1996,Arsenal FC,2-2,Aston Villa FC
+20,Sat Dec 28 1996,Everton FC,1-3,Wimbledon FC
+20,Sat Dec 28 1996,West Ham United FC,2-0,Sunderland AFC
 20,Sat Dec 28 1996,Manchester United FC,1-0,Leeds United FC
 20,Sat Dec 28 1996,Chelsea FC,2-2,Sheffield Wednesday FC
-20,Sat Dec 28 1996,West Ham United FC,2-0,Sunderland AFC
 20,Sun Dec 29 1996,Southampton FC,0-1,Liverpool FC
-21,Wed Jan 1 1997,West Ham United FC,0-1,Nottingham Forest FC
+21,Wed Jan 1 1997,Arsenal FC,2-0,Middlesbrough FC
+21,Wed Jan 1 1997,Coventry City FC,2-2,Sunderland AFC
 21,Wed Jan 1 1997,Newcastle United FC,3-0,Leeds United FC
 21,Wed Jan 1 1997,Chelsea FC,1-0,Liverpool FC
-21,Wed Jan 1 1997,Coventry City FC,2-2,Sunderland AFC
+21,Wed Jan 1 1997,West Ham United FC,0-1,Nottingham Forest FC
 21,Wed Jan 1 1997,Manchester United FC,0-0,Aston Villa FC
 21,Wed Jan 1 1997,Everton FC,0-2,Blackburn Rovers FC
-21,Wed Jan 1 1997,Arsenal FC,2-0,Middlesbrough FC
-22,Sat Jan 11 1997,Wimbledon FC,1-1,Derby County FC
-22,Sat Jan 11 1997,Sunderland AFC,1-0,Arsenal FC
-22,Sat Jan 11 1997,Blackburn Rovers FC,4-0,Coventry City FC
-22,Sat Jan 11 1997,Sheffield Wednesday FC,2-1,Everton FC
 22,Sat Jan 11 1997,Nottingham Forest FC,2-0,Chelsea FC
+22,Sat Jan 11 1997,Sheffield Wednesday FC,2-1,Everton FC
+22,Sat Jan 11 1997,Liverpool FC,0-0,West Ham United FC
 22,Sat Jan 11 1997,Middlesbrough FC,0-1,Southampton FC
 22,Sat Jan 11 1997,Aston Villa FC,2-2,Newcastle United FC
+22,Sat Jan 11 1997,Wimbledon FC,1-1,Derby County FC
 22,Sat Jan 11 1997,Leeds United FC,3-0,Leicester City FC
-22,Sat Jan 11 1997,Liverpool FC,0-0,West Ham United FC
+22,Sat Jan 11 1997,Sunderland AFC,1-0,Arsenal FC
+22,Sat Jan 11 1997,Blackburn Rovers FC,4-0,Coventry City FC
 22,Sun Jan 12 1997,Tottenham Hotspur FC,1-2,Manchester United FC
+23,Sat Jan 18 1997,Middlesbrough FC,4-2,Sheffield Wednesday FC
+23,Sat Jan 18 1997,Chelsea FC,3-1,Derby County FC
 23,Sat Jan 18 1997,Leicester City FC,1-0,Wimbledon FC
 23,Sat Jan 18 1997,Southampton FC,2-2,Newcastle United FC
-23,Sat Jan 18 1997,Coventry City FC,0-2,Manchester United FC
-23,Sat Jan 18 1997,Chelsea FC,3-1,Derby County FC
-23,Sat Jan 18 1997,Middlesbrough FC,4-2,Sheffield Wednesday FC
-23,Sat Jan 18 1997,Sunderland AFC,0-0,Blackburn Rovers FC
 23,Sat Jan 18 1997,Liverpool FC,3-0,Aston Villa FC
-23,Sun Jan 19 1997,Nottingham Forest FC,2-1,Tottenham Hotspur FC
+23,Sat Jan 18 1997,Sunderland AFC,0-0,Blackburn Rovers FC
+23,Sat Jan 18 1997,Coventry City FC,0-2,Manchester United FC
 23,Sun Jan 19 1997,Arsenal FC,3-1,Everton FC
+23,Sun Jan 19 1997,Nottingham Forest FC,2-1,Tottenham Hotspur FC
 23,Mon Jan 20 1997,West Ham United FC,0-2,Leeds United FC
 24,Wed Jan 29 1997,Manchester United FC,2-1,Wimbledon FC
-24,Wed Jan 29 1997,Tottenham Hotspur FC,2-1,Blackburn Rovers FC
-24,Wed Jan 29 1997,Aston Villa FC,0-1,Sheffield Wednesday FC
 24,Wed Jan 29 1997,Newcastle United FC,4-1,Everton FC
 24,Wed Jan 29 1997,Nottingham Forest FC,0-1,Coventry City FC
 24,Wed Jan 29 1997,Leeds United FC,0-0,Derby County FC
 24,Wed Jan 29 1997,Leicester City FC,1-1,Sunderland AFC
 24,Wed Jan 29 1997,West Ham United FC,1-2,Arsenal FC
-25,Sat Feb 1 1997,Leeds United FC,0-0,Arsenal FC
-25,Sat Feb 1 1997,Blackburn Rovers FC,2-1,West Ham United FC
-25,Sat Feb 1 1997,Manchester United FC,2-1,Southampton FC
-25,Sat Feb 1 1997,Wimbledon FC,1-1,Middlesbrough FC
-25,Sat Feb 1 1997,Tottenham Hotspur FC,1-2,Chelsea FC
-25,Sat Feb 1 1997,Sheffield Wednesday FC,0-0,Coventry City FC
-25,Sat Feb 1 1997,Aston Villa FC,1-0,Sunderland AFC
-25,Sat Feb 1 1997,Derby County FC,0-1,Liverpool FC
+24,Wed Jan 29 1997,Aston Villa FC,0-1,Sheffield Wednesday FC
+24,Wed Jan 29 1997,Tottenham Hotspur FC,2-1,Blackburn Rovers FC
 25,Sat Feb 1 1997,Everton FC,2-0,Nottingham Forest FC
+25,Sat Feb 1 1997,Derby County FC,0-1,Liverpool FC
+25,Sat Feb 1 1997,Aston Villa FC,1-0,Sunderland AFC
+25,Sat Feb 1 1997,Sheffield Wednesday FC,0-0,Coventry City FC
+25,Sat Feb 1 1997,Tottenham Hotspur FC,1-2,Chelsea FC
+25,Sat Feb 1 1997,Manchester United FC,2-1,Southampton FC
+25,Sat Feb 1 1997,Blackburn Rovers FC,2-1,West Ham United FC
+25,Sat Feb 1 1997,Wimbledon FC,1-1,Middlesbrough FC
+25,Sat Feb 1 1997,Leeds United FC,0-0,Arsenal FC
 25,Sun Feb 2 1997,Newcastle United FC,4-3,Leicester City FC
-26,Sat Feb 15 1997,Tottenham Hotspur FC,0-0,Arsenal FC
 26,Sat Feb 15 1997,Derby County FC,1-0,West Ham United FC
-26,Wed Feb 19 1997,Aston Villa FC,2-1,Coventry City FC
+26,Sat Feb 15 1997,Tottenham Hotspur FC,0-0,Arsenal FC
 21,Wed Feb 19 1997,Derby County FC,2-2,Sheffield Wednesday FC
-29,Wed Feb 19 1997,Liverpool FC,4-0,Leeds United FC
+26,Wed Feb 19 1997,Aston Villa FC,2-1,Coventry City FC
 29,Wed Feb 19 1997,Arsenal FC,1-2,Manchester United FC
-27,Sat Feb 22 1997,Coventry City FC,0-0,Everton FC
+29,Wed Feb 19 1997,Liverpool FC,4-0,Leeds United FC
 27,Sat Feb 22 1997,Nottingham Forest FC,0-0,Aston Villa FC
-27,Sat Feb 22 1997,Liverpool FC,0-0,Blackburn Rovers FC
-27,Sat Feb 22 1997,Leicester City FC,4-2,Derby County FC
-27,Sat Feb 22 1997,Middlesbrough FC,0-1,Newcastle United FC
 27,Sat Feb 22 1997,Sunderland AFC,0-1,Leeds United FC
 27,Sat Feb 22 1997,Chelsea FC,1-1,Manchester United FC
 27,Sat Feb 22 1997,Southampton FC,2-3,Sheffield Wednesday FC
+27,Sat Feb 22 1997,Middlesbrough FC,0-1,Newcastle United FC
+27,Sat Feb 22 1997,Leicester City FC,4-2,Derby County FC
+27,Sat Feb 22 1997,Coventry City FC,0-0,Everton FC
+27,Sat Feb 22 1997,Liverpool FC,0-0,Blackburn Rovers FC
 27,Sun Feb 23 1997,Arsenal FC,0-1,Wimbledon FC
 27,Mon Feb 24 1997,West Ham United FC,4-3,Tottenham Hotspur FC
 21,Wed Feb 26 1997,Southampton FC,0-0,Wimbledon FC
+28,Sat Mar 1 1997,Everton FC,0-2,Arsenal FC
+28,Sat Mar 1 1997,Sheffield Wednesday FC,3-1,Middlesbrough FC
+28,Sat Mar 1 1997,Newcastle United FC,0-1,Southampton FC
+28,Sat Mar 1 1997,Manchester United FC,3-1,Coventry City FC
 28,Sat Mar 1 1997,Tottenham Hotspur FC,0-1,Nottingham Forest FC
 28,Sat Mar 1 1997,Leeds United FC,1-0,West Ham United FC
-28,Sat Mar 1 1997,Everton FC,0-2,Arsenal FC
-28,Sat Mar 1 1997,Blackburn Rovers FC,1-0,Sunderland AFC
-28,Sat Mar 1 1997,Wimbledon FC,1-3,Leicester City FC
-28,Sat Mar 1 1997,Sheffield Wednesday FC,3-1,Middlesbrough FC
-28,Sat Mar 1 1997,Manchester United FC,3-1,Coventry City FC
-28,Sat Mar 1 1997,Newcastle United FC,0-1,Southampton FC
 28,Sat Mar 1 1997,Derby County FC,3-2,Chelsea FC
+28,Sat Mar 1 1997,Wimbledon FC,1-3,Leicester City FC
+28,Sat Mar 1 1997,Blackburn Rovers FC,1-0,Sunderland AFC
 28,Sun Mar 2 1997,Aston Villa FC,1-0,Liverpool FC
 29,Mon Mar 3 1997,Coventry City FC,1-1,Wimbledon FC
 29,Tue Mar 4 1997,Sunderland AFC,0-4,Tottenham Hotspur FC
-29,Wed Mar 5 1997,Leicester City FC,1-0,Aston Villa FC
 29,Wed Mar 5 1997,Middlesbrough FC,6-1,Derby County FC
-29,Wed Mar 5 1997,Nottingham Forest FC,0-3,Sheffield Wednesday FC
+29,Wed Mar 5 1997,Leicester City FC,1-0,Aston Villa FC
 29,Wed Mar 5 1997,Southampton FC,2-2,Everton FC
+29,Wed Mar 5 1997,Nottingham Forest FC,0-3,Sheffield Wednesday FC
 29,Wed Mar 5 1997,Chelsea FC,1-1,Blackburn Rovers FC
 30,Sat Mar 8 1997,Sunderland AFC,2-1,Manchester United FC
 30,Sat Mar 8 1997,Leeds United FC,1-0,Everton FC
-30,Sat Mar 8 1997,Coventry City FC,0-0,Leicester City FC
 30,Sat Mar 8 1997,Arsenal FC,2-0,Nottingham Forest FC
+30,Sat Mar 8 1997,Coventry City FC,0-0,Leicester City FC
 30,Mon Mar 10 1997,Liverpool FC,4-3,Newcastle United FC
 26,Tue Mar 11 1997,Blackburn Rovers FC,1-1,Nottingham Forest FC
+26,Wed Mar 12 1997,Sheffield Wednesday FC,2-1,Sunderland AFC
 26,Wed Mar 12 1997,Leeds United FC,0-0,Southampton FC
 30,Wed Mar 12 1997,West Ham United FC,3-2,Chelsea FC
-26,Wed Mar 12 1997,Sheffield Wednesday FC,2-1,Sunderland AFC
 31,Sat Mar 15 1997,Newcastle United FC,4-0,Coventry City FC
-31,Sat Mar 15 1997,Manchester United FC,2-0,Sheffield Wednesday FC
-31,Sat Mar 15 1997,Leicester City FC,1-3,Middlesbrough FC
-31,Sat Mar 15 1997,Nottingham Forest FC,1-1,Liverpool FC
-31,Sat Mar 15 1997,Everton FC,1-0,Derby County FC
 31,Sat Mar 15 1997,Blackburn Rovers FC,3-1,Wimbledon FC
 31,Sat Mar 15 1997,Tottenham Hotspur FC,1-0,Leeds United FC
 31,Sat Mar 15 1997,Aston Villa FC,0-0,West Ham United FC
+31,Sat Mar 15 1997,Leicester City FC,1-3,Middlesbrough FC
+31,Sat Mar 15 1997,Everton FC,1-0,Derby County FC
+31,Sat Mar 15 1997,Manchester United FC,2-0,Sheffield Wednesday FC
 31,Sat Mar 15 1997,Southampton FC,0-2,Arsenal FC
+31,Sat Mar 15 1997,Nottingham Forest FC,1-1,Liverpool FC
 31,Sun Mar 16 1997,Chelsea FC,6-2,Sunderland AFC
 19,Tue Mar 18 1997,Wimbledon FC,1-1,West Ham United FC
-30,Wed Mar 19 1997,Middlesbrough FC,2-1,Blackburn Rovers FC
 21,Wed Mar 19 1997,Leicester City FC,1-1,Tottenham Hotspur FC
 24,Wed Mar 19 1997,Chelsea FC,1-0,Southampton FC
-32,Sat Mar 22 1997,Derby County FC,4-2,Tottenham Hotspur FC
-32,Sat Mar 22 1997,Middlesbrough FC,1-0,Chelsea FC
-32,Sat Mar 22 1997,Coventry City FC,1-3,West Ham United FC
-32,Sat Mar 22 1997,Sunderland AFC,1-1,Nottingham Forest FC
+30,Wed Mar 19 1997,Middlesbrough FC,2-1,Blackburn Rovers FC
 32,Sat Mar 22 1997,Southampton FC,2-2,Leicester City FC
 32,Sat Mar 22 1997,Blackburn Rovers FC,0-2,Aston Villa FC
+32,Sat Mar 22 1997,Coventry City FC,1-3,West Ham United FC
+32,Sat Mar 22 1997,Sunderland AFC,1-1,Nottingham Forest FC
 32,Sat Mar 22 1997,Everton FC,0-2,Manchester United FC
 32,Sat Mar 22 1997,Sheffield Wednesday FC,2-2,Leeds United FC
+32,Sat Mar 22 1997,Derby County FC,4-2,Tottenham Hotspur FC
+32,Sat Mar 22 1997,Middlesbrough FC,1-0,Chelsea FC
 32,Sun Mar 23 1997,Wimbledon FC,1-1,Newcastle United FC
-34,Mon Mar 24 1997,Middlesbrough FC,1-1,Nottingham Forest FC
 32,Mon Mar 24 1997,Arsenal FC,1-2,Liverpool FC
-33,Sat Apr 5 1997,Chelsea FC,0-3,Arsenal FC
+34,Mon Mar 24 1997,Middlesbrough FC,1-1,Nottingham Forest FC
 33,Sat Apr 5 1997,Tottenham Hotspur FC,1-0,Wimbledon FC
-33,Sat Apr 5 1997,Newcastle United FC,1-1,Sunderland AFC
+33,Sat Apr 5 1997,Chelsea FC,0-3,Arsenal FC
 33,Sat Apr 5 1997,Manchester United FC,2-3,Derby County FC
-33,Sat Apr 5 1997,Nottingham Forest FC,1-3,Southampton FC
+33,Sat Apr 5 1997,Newcastle United FC,1-1,Sunderland AFC
 33,Sat Apr 5 1997,Aston Villa FC,3-1,Everton FC
+33,Sat Apr 5 1997,Nottingham Forest FC,1-3,Southampton FC
 33,Sun Apr 6 1997,Liverpool FC,1-2,Coventry City FC
 33,Mon Apr 7 1997,Leeds United FC,0-0,Blackburn Rovers FC
-34,Wed Apr 9 1997,Coventry City FC,3-1,Chelsea FC
 26,Wed Apr 9 1997,Everton FC,1-1,Leicester City FC
 30,Wed Apr 9 1997,Derby County FC,1-1,Southampton FC
 30,Wed Apr 9 1997,Wimbledon FC,0-2,Aston Villa FC
 30,Wed Apr 9 1997,Sheffield Wednesday FC,2-1,Tottenham Hotspur FC
 33,Wed Apr 9 1997,West Ham United FC,0-0,Middlesbrough FC
-34,Sat Apr 12 1997,Derby County FC,2-1,Aston Villa FC
+34,Wed Apr 9 1997,Coventry City FC,3-1,Chelsea FC
 34,Sat Apr 12 1997,Everton FC,1-0,Tottenham Hotspur FC
 34,Sat Apr 12 1997,Blackburn Rovers FC,2-3,Manchester United FC
-34,Sat Apr 12 1997,Arsenal FC,2-0,Leicester City FC
 34,Sat Apr 12 1997,Southampton FC,2-0,West Ham United FC
+34,Sat Apr 12 1997,Arsenal FC,2-0,Leicester City FC
+34,Sat Apr 12 1997,Derby County FC,2-1,Aston Villa FC
 34,Sun Apr 13 1997,Sheffield Wednesday FC,1-1,Newcastle United FC
 34,Sun Apr 13 1997,Sunderland AFC,1-2,Liverpool FC
+26,Wed Apr 16 1997,Newcastle United FC,3-1,Chelsea FC
 34,Wed Apr 16 1997,Wimbledon FC,2-0,Leeds United FC
 36,Wed Apr 16 1997,Everton FC,1-1,Liverpool FC
-26,Wed Apr 16 1997,Newcastle United FC,3-1,Chelsea FC
-35,Sat Apr 19 1997,Southampton FC,2-2,Coventry City FC
-35,Sat Apr 19 1997,Middlesbrough FC,0-1,Sunderland AFC
-35,Sat Apr 19 1997,West Ham United FC,2-2,Everton FC
-35,Sat Apr 19 1997,Chelsea FC,2-1,Leicester City FC
-35,Sat Apr 19 1997,Arsenal FC,1-1,Blackburn Rovers FC
 35,Sat Apr 19 1997,Aston Villa FC,1-1,Tottenham Hotspur FC
+35,Sat Apr 19 1997,Newcastle United FC,3-1,Derby County FC
+35,Sat Apr 19 1997,Liverpool FC,1-3,Manchester United FC
 35,Sat Apr 19 1997,Nottingham Forest FC,1-1,Leeds United FC
 35,Sat Apr 19 1997,Sheffield Wednesday FC,3-1,Wimbledon FC
-35,Sat Apr 19 1997,Liverpool FC,1-3,Manchester United FC
-35,Sat Apr 19 1997,Newcastle United FC,3-1,Derby County FC
+35,Sat Apr 19 1997,Southampton FC,2-2,Coventry City FC
+35,Sat Apr 19 1997,West Ham United FC,2-2,Everton FC
+35,Sat Apr 19 1997,Middlesbrough FC,0-1,Sunderland AFC
+35,Sat Apr 19 1997,Chelsea FC,2-1,Leicester City FC
+35,Sat Apr 19 1997,Arsenal FC,1-1,Blackburn Rovers FC
 36,Mon Apr 21 1997,Coventry City FC,1-1,Arsenal FC
-36,Tue Apr 22 1997,Leeds United FC,0-0,Aston Villa FC
-36,Tue Apr 22 1997,Sunderland AFC,0-1,Southampton FC
-36,Tue Apr 22 1997,Wimbledon FC,0-1,Chelsea FC
 36,Tue Apr 22 1997,Blackburn Rovers FC,4-1,Sheffield Wednesday FC
+36,Tue Apr 22 1997,Leeds United FC,0-0,Aston Villa FC
+36,Tue Apr 22 1997,Wimbledon FC,0-1,Chelsea FC
+36,Tue Apr 22 1997,Sunderland AFC,0-1,Southampton FC
 36,Wed Apr 23 1997,Leicester City FC,0-1,West Ham United FC
 36,Wed Apr 23 1997,Derby County FC,0-0,Nottingham Forest FC
 36,Thu Apr 24 1997,Tottenham Hotspur FC,1-0,Middlesbrough FC
 37,Sat May 3 1997,Nottingham Forest FC,1-1,Wimbledon FC
-37,Sat May 3 1997,Leicester City FC,2-2,Manchester United FC
-37,Sat May 3 1997,Coventry City FC,1-2,Derby County FC
-37,Sat May 3 1997,Sunderland AFC,3-0,Everton FC
-37,Sat May 3 1997,Middlesbrough FC,3-2,Aston Villa FC
-37,Sat May 3 1997,Arsenal FC,0-1,Newcastle United FC
-37,Sat May 3 1997,Southampton FC,2-0,Blackburn Rovers FC
-37,Sat May 3 1997,Liverpool FC,2-1,Tottenham Hotspur FC
-37,Sat May 3 1997,Chelsea FC,0-0,Leeds United FC
 37,Sat May 3 1997,West Ham United FC,5-1,Sheffield Wednesday FC
+37,Sat May 3 1997,Chelsea FC,0-0,Leeds United FC
+37,Sat May 3 1997,Liverpool FC,2-1,Tottenham Hotspur FC
+37,Sat May 3 1997,Arsenal FC,0-1,Newcastle United FC
+37,Sat May 3 1997,Middlesbrough FC,3-2,Aston Villa FC
+37,Sat May 3 1997,Sunderland AFC,3-0,Everton FC
+37,Sat May 3 1997,Leicester City FC,2-2,Manchester United FC
+37,Sat May 3 1997,Southampton FC,2-0,Blackburn Rovers FC
+37,Sat May 3 1997,Coventry City FC,1-2,Derby County FC
 26,Mon May 5 1997,Manchester United FC,3-3,Middlesbrough FC
-29,Tue May 6 1997,West Ham United FC,0-0,Newcastle United FC
 26,Tue May 6 1997,Wimbledon FC,2-1,Liverpool FC
+29,Tue May 6 1997,West Ham United FC,0-0,Newcastle United FC
 33,Wed May 7 1997,Leicester City FC,1-0,Sheffield Wednesday FC
 18,Thu May 8 1997,Blackburn Rovers FC,0-0,Middlesbrough FC
 36,Thu May 8 1997,Manchester United FC,0-0,Newcastle United FC
-38,Sun May 11 1997,Derby County FC,1-3,Arsenal FC
+38,Sun May 11 1997,Tottenham Hotspur FC,1-2,Coventry City FC
 38,Sun May 11 1997,Sheffield Wednesday FC,1-1,Liverpool FC
 38,Sun May 11 1997,Wimbledon FC,1-0,Sunderland AFC
 38,Sun May 11 1997,Aston Villa FC,1-0,Southampton FC
-38,Sun May 11 1997,Tottenham Hotspur FC,1-2,Coventry City FC
+38,Sun May 11 1997,Derby County FC,1-3,Arsenal FC
 38,Sun May 11 1997,Everton FC,1-2,Chelsea FC
 38,Sun May 11 1997,Manchester United FC,2-0,West Ham United FC
 38,Sun May 11 1997,Blackburn Rovers FC,2-4,Leicester City FC

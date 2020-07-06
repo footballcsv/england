@@ -1,0 +1,553 @@
+Round,Date,Team 1,FT,Team 2
+1,Fri Aug 2 2019,Luton Town FC,3-3,Middlesbrough FC
+1,Sat Aug 3 2019,Blackburn Rovers FC,1-2,Charlton Athletic FC
+1,Sat Aug 3 2019,Swansea City FC,2-1,Hull City AFC
+1,Sat Aug 3 2019,Stoke City FC,1-2,Queens Park Rangers FC
+1,Sat Aug 3 2019,Wigan Athletic FC,3-2,Cardiff City FC
+1,Sat Aug 3 2019,Brentford FC,0-1,Birmingham City FC
+1,Sat Aug 3 2019,Millwall FC,1-0,Preston North End FC
+1,Sat Aug 3 2019,Barnsley FC,1-0,Fulham FC
+1,Sat Aug 3 2019,Reading FC,1-3,Sheffield Wednesday FC
+1,Sat Aug 3 2019,Nottingham Forest FC,1-2,West Bromwich Albion FC
+1,Sun Aug 4 2019,Bristol City FC,1-3,Leeds United FC
+1,Mon Aug 5 2019,Huddersfield Town AFC,1-2,Derby County FC
+2,Sat Aug 10 2019,Leeds United FC,1-1,Nottingham Forest FC
+2,Sat Aug 10 2019,Fulham FC,2-0,Blackburn Rovers FC
+2,Sat Aug 10 2019,Queens Park Rangers FC,1-1,Huddersfield Town AFC
+2,Sat Aug 10 2019,West Bromwich Albion FC,1-1,Millwall FC
+2,Sat Aug 10 2019,Birmingham City FC,1-1,Bristol City FC
+2,Sat Aug 10 2019,Derby County FC,0-0,Swansea City FC
+2,Sat Aug 10 2019,Sheffield Wednesday FC,2-0,Barnsley FC
+2,Sat Aug 10 2019,Middlesbrough FC,0-1,Brentford FC
+2,Sat Aug 10 2019,Preston North End FC,3-0,Wigan Athletic FC
+2,Sat Aug 10 2019,Cardiff City FC,2-1,Luton Town FC
+2,Sat Aug 10 2019,Charlton Athletic FC,3-1,Stoke City FC
+2,Sat Aug 10 2019,Hull City AFC,2-1,Reading FC
+3,Fri Aug 16 2019,Huddersfield Town AFC,1-2,Fulham FC
+3,Sat Aug 17 2019,Blackburn Rovers FC,1-0,Middlesbrough FC
+3,Sat Aug 17 2019,Swansea City FC,3-2,Preston North End FC
+3,Sat Aug 17 2019,Stoke City FC,2-2,Derby County FC
+3,Sat Aug 17 2019,Wigan Athletic FC,0-2,Leeds United FC
+3,Sat Aug 17 2019,Nottingham Forest FC,3-0,Birmingham City FC
+3,Sat Aug 17 2019,Bristol City FC,2-0,Queens Park Rangers FC
+3,Sat Aug 17 2019,Brentford FC,1-1,Hull City AFC
+3,Sat Aug 17 2019,Luton Town FC,1-2,West Bromwich Albion FC
+3,Sat Aug 17 2019,Millwall FC,1-0,Sheffield Wednesday FC
+3,Sat Aug 17 2019,Barnsley FC,2-2,Charlton Athletic FC
+3,Sun Aug 18 2019,Reading FC,3-0,Cardiff City FC
+4,Tue Aug 20 2019,Birmingham City FC,2-0,Barnsley FC
+4,Tue Aug 20 2019,Derby County FC,1-2,Bristol City FC
+4,Tue Aug 20 2019,Sheffield Wednesday FC,1-0,Luton Town FC
+4,Tue Aug 20 2019,Middlesbrough FC,1-0,Wigan Athletic FC
+4,Tue Aug 20 2019,Hull City AFC,0-1,Blackburn Rovers FC
+4,Wed Aug 21 2019,Fulham FC,4-0,Millwall FC
+4,Wed Aug 21 2019,Queens Park Rangers FC,1-3,Swansea City FC
+4,Wed Aug 21 2019,Preston North End FC,3-1,Stoke City FC
+4,Wed Aug 21 2019,Cardiff City FC,2-1,Huddersfield Town AFC
+4,Wed Aug 21 2019,Leeds United FC,1-0,Brentford FC
+4,Wed Aug 21 2019,Charlton Athletic FC,1-1,Nottingham Forest FC
+4,Wed Aug 21 2019,West Bromwich Albion FC,1-1,Reading FC
+5,Sat Aug 24 2019,Derby County FC,1-1,West Bromwich Albion FC
+5,Sat Aug 24 2019,Blackburn Rovers FC,0-0,Cardiff City FC
+5,Sat Aug 24 2019,Fulham FC,1-2,Nottingham Forest FC
+5,Sat Aug 24 2019,Queens Park Rangers FC,3-1,Wigan Athletic FC
+5,Sat Aug 24 2019,Stoke City FC,0-3,Leeds United FC
+5,Sat Aug 24 2019,Middlesbrough FC,1-1,Millwall FC
+5,Sat Aug 24 2019,Preston North End FC,2-1,Sheffield Wednesday FC
+5,Sat Aug 24 2019,Huddersfield Town AFC,0-2,Reading FC
+5,Sat Aug 24 2019,Charlton Athletic FC,1-0,Brentford FC
+5,Sat Aug 24 2019,Barnsley FC,1-3,Luton Town FC
+5,Sat Aug 24 2019,Hull City AFC,1-3,Bristol City FC
+5,Sun Aug 25 2019,Swansea City FC,3-0,Birmingham City FC
+6,Fri Aug 30 2019,Cardiff City FC,1-1,Fulham FC
+6,Sat Aug 31 2019,Bristol City FC,2-2,Middlesbrough FC
+6,Sat Aug 31 2019,West Bromwich Albion FC,3-2,Blackburn Rovers FC
+6,Sat Aug 31 2019,Wigan Athletic FC,0-0,Barnsley FC
+6,Sat Aug 31 2019,Birmingham City FC,2-1,Stoke City FC
+6,Sat Aug 31 2019,Nottingham Forest FC,1-1,Preston North End FC
+6,Sat Aug 31 2019,Sheffield Wednesday FC,1-2,Queens Park Rangers FC
+6,Sat Aug 31 2019,Leeds United FC,0-1,Swansea City FC
+6,Sat Aug 31 2019,Brentford FC,3-0,Derby County FC
+6,Sat Aug 31 2019,Luton Town FC,2-1,Huddersfield Town AFC
+6,Sat Aug 31 2019,Millwall FC,1-1,Hull City AFC
+6,Sat Aug 31 2019,Reading FC,0-2,Charlton Athletic FC
+7,Fri Sep 13 2019,Derby County FC,1-1,Cardiff City FC
+7,Sat Sep 14 2019,Fulham FC,1-1,West Bromwich Albion FC
+7,Sat Sep 14 2019,Blackburn Rovers FC,2-0,Millwall FC
+7,Sat Sep 14 2019,Swansea City FC,0-1,Nottingham Forest FC
+7,Sat Sep 14 2019,Queens Park Rangers FC,3-2,Luton Town FC
+7,Sat Sep 14 2019,Stoke City FC,1-2,Bristol City FC
+7,Sat Sep 14 2019,Middlesbrough FC,1-0,Reading FC
+7,Sat Sep 14 2019,Preston North End FC,2-0,Brentford FC
+7,Sat Sep 14 2019,Charlton Athletic FC,0-1,Birmingham City FC
+7,Sat Sep 14 2019,Hull City AFC,2-2,Wigan Athletic FC
+7,Sun Sep 15 2019,Huddersfield Town AFC,0-2,Sheffield Wednesday FC
+7,Sun Sep 15 2019,Barnsley FC,0-2,Leeds United FC
+8,Sat Sep 21 2019,Leeds United FC,1-1,Derby County FC
+8,Sat Sep 21 2019,Wigan Athletic FC,2-0,Charlton Athletic FC
+8,Sat Sep 21 2019,Birmingham City FC,0-1,Preston North End FC
+8,Sat Sep 21 2019,Nottingham Forest FC,1-0,Barnsley FC
+8,Sat Sep 21 2019,Sheffield Wednesday FC,1-1,Fulham FC
+8,Sat Sep 21 2019,Bristol City FC,0-0,Swansea City FC
+8,Sat Sep 21 2019,Cardiff City FC,1-0,Middlesbrough FC
+8,Sat Sep 21 2019,Brentford FC,0-0,Stoke City FC
+8,Sat Sep 21 2019,Luton Town FC,0-3,Hull City AFC
+8,Sat Sep 21 2019,Millwall FC,1-2,Queens Park Rangers FC
+8,Sat Sep 21 2019,Reading FC,1-2,Blackburn Rovers FC
+8,Sun Sep 22 2019,West Bromwich Albion FC,4-2,Huddersfield Town AFC
+9,Fri Sep 27 2019,Fulham FC,2-0,Wigan Athletic FC
+9,Fri Sep 27 2019,Stoke City FC,2-3,Nottingham Forest FC
+9,Sat Sep 28 2019,Queens Park Rangers FC,0-2,West Bromwich Albion FC
+9,Sat Sep 28 2019,Blackburn Rovers FC,1-2,Luton Town FC
+9,Sat Sep 28 2019,Swansea City FC,1-1,Reading FC
+9,Sat Sep 28 2019,Derby County FC,3-2,Birmingham City FC
+9,Sat Sep 28 2019,Middlesbrough FC,1-4,Sheffield Wednesday FC
+9,Sat Sep 28 2019,Preston North End FC,3-3,Bristol City FC
+9,Sat Sep 28 2019,Huddersfield Town AFC,1-1,Millwall FC
+9,Sat Sep 28 2019,Charlton Athletic FC,1-0,Leeds United FC
+9,Sat Sep 28 2019,Hull City AFC,2-2,Cardiff City FC
+9,Sun Sep 29 2019,Barnsley FC,1-3,Brentford FC
+10,Tue Oct 1 2019,Blackburn Rovers FC,1-1,Nottingham Forest FC
+10,Tue Oct 1 2019,Wigan Athletic FC,1-0,Birmingham City FC
+10,Tue Oct 1 2019,Middlesbrough FC,1-1,Preston North End FC
+10,Tue Oct 1 2019,Leeds United FC,1-0,West Bromwich Albion FC
+10,Tue Oct 1 2019,Hull City AFC,1-0,Sheffield Wednesday FC
+10,Tue Oct 1 2019,Stoke City FC,0-1,Huddersfield Town AFC
+10,Tue Oct 1 2019,Reading FC,1-4,Fulham FC
+10,Wed Oct 2 2019,Cardiff City FC,3-0,Queens Park Rangers FC
+10,Wed Oct 2 2019,Brentford FC,1-1,Bristol City FC
+10,Wed Oct 2 2019,Charlton Athletic FC,1-2,Swansea City FC
+10,Wed Oct 2 2019,Luton Town FC,1-1,Millwall FC
+10,Wed Oct 2 2019,Barnsley FC,2-2,Derby County FC
+11,Fri Oct 4 2019,Birmingham City FC,2-1,Middlesbrough FC
+11,Sat Oct 5 2019,Fulham FC,2-2,Charlton Athletic FC
+11,Sat Oct 5 2019,Millwall FC,2-1,Leeds United FC
+11,Sat Oct 5 2019,Swansea City FC,1-2,Stoke City FC
+11,Sat Oct 5 2019,Queens Park Rangers FC,4-2,Blackburn Rovers FC
+11,Sat Oct 5 2019,West Bromwich Albion FC,4-2,Cardiff City FC
+11,Sat Oct 5 2019,Nottingham Forest FC,1-0,Brentford FC
+11,Sat Oct 5 2019,Derby County FC,2-0,Luton Town FC
+11,Sat Oct 5 2019,Sheffield Wednesday FC,1-0,Wigan Athletic FC
+11,Sat Oct 5 2019,Preston North End FC,5-1,Barnsley FC
+11,Sat Oct 5 2019,Bristol City FC,1-0,Reading FC
+11,Sat Oct 5 2019,Huddersfield Town AFC,3-0,Hull City AFC
+12,Fri Oct 18 2019,Cardiff City FC,1-1,Sheffield Wednesday FC
+12,Sat Oct 19 2019,Blackburn Rovers FC,2-2,Huddersfield Town AFC
+12,Sat Oct 19 2019,Stoke City FC,2-0,Fulham FC
+12,Sat Oct 19 2019,Middlesbrough FC,0-1,West Bromwich Albion FC
+12,Sat Oct 19 2019,Leeds United FC,1-0,Birmingham City FC
+12,Sat Oct 19 2019,Brentford FC,3-2,Millwall FC
+12,Sat Oct 19 2019,Charlton Athletic FC,3-0,Derby County FC
+12,Sat Oct 19 2019,Luton Town FC,3-0,Bristol City FC
+12,Sat Oct 19 2019,Barnsley FC,1-1,Swansea City FC
+12,Sat Oct 19 2019,Reading FC,1-0,Preston North End FC
+12,Sat Oct 19 2019,Hull City AFC,2-3,Queens Park Rangers FC
+12,Sun Oct 20 2019,Wigan Athletic FC,1-0,Nottingham Forest FC
+13,Tue Oct 22 2019,Swansea City FC,0-3,Brentford FC
+13,Tue Oct 22 2019,Queens Park Rangers FC,2-2,Reading FC
+13,Tue Oct 22 2019,Birmingham City FC,1-0,Blackburn Rovers FC
+13,Tue Oct 22 2019,Sheffield Wednesday FC,1-0,Stoke City FC
+13,Tue Oct 22 2019,Millwall FC,2-2,Cardiff City FC
+13,Tue Oct 22 2019,Preston North End FC,1-1,Leeds United FC
+13,Tue Oct 22 2019,West Bromwich Albion FC,2-2,Barnsley FC
+13,Wed Oct 23 2019,Fulham FC,3-2,Luton Town FC
+13,Wed Oct 23 2019,Nottingham Forest FC,1-2,Hull City AFC
+13,Wed Oct 23 2019,Derby County FC,1-0,Wigan Athletic FC
+13,Wed Oct 23 2019,Bristol City FC,2-1,Charlton Athletic FC
+13,Wed Oct 23 2019,Huddersfield Town AFC,0-0,Middlesbrough FC
+14,Sat Oct 26 2019,Sheffield Wednesday FC,0-0,Leeds United FC
+14,Sat Oct 26 2019,West Bromwich Albion FC,2-2,Charlton Athletic FC
+14,Sat Oct 26 2019,Birmingham City FC,2-1,Luton Town FC
+14,Sat Oct 26 2019,Middlesbrough FC,0-0,Fulham FC
+14,Sat Oct 26 2019,Preston North End FC,3-2,Blackburn Rovers FC
+14,Sat Oct 26 2019,Huddersfield Town AFC,2-1,Barnsley FC
+14,Sat Oct 26 2019,Millwall FC,2-0,Stoke City FC
+14,Sat Oct 26 2019,Hull City AFC,2-0,Derby County FC
+14,Sun Oct 27 2019,Swansea City FC,1-0,Cardiff City FC
+14,Sun Oct 27 2019,Bristol City FC,2-2,Wigan Athletic FC
+14,Mon Oct 28 2019,Queens Park Rangers FC,1-3,Brentford FC
+15,Fri Nov 1 2019,Barnsley FC,2-2,Bristol City FC
+15,Sat Nov 2 2019,Wigan Athletic FC,1-2,Swansea City FC
+15,Sat Nov 2 2019,Blackburn Rovers FC,2-1,Sheffield Wednesday FC
+15,Sat Nov 2 2019,Fulham FC,0-3,Hull City AFC
+15,Sat Nov 2 2019,Derby County FC,2-0,Middlesbrough FC
+15,Sat Nov 2 2019,Cardiff City FC,4-2,Birmingham City FC
+15,Sat Nov 2 2019,Leeds United FC,2-0,Queens Park Rangers FC
+15,Sat Nov 2 2019,Brentford FC,0-1,Huddersfield Town AFC
+15,Sat Nov 2 2019,Luton Town FC,1-2,Nottingham Forest FC
+15,Sat Nov 2 2019,Reading FC,2-1,Millwall FC
+15,Sun Nov 3 2019,Charlton Athletic FC,0-1,Preston North End FC
+15,Mon Nov 4 2019,Stoke City FC,0-2,West Bromwich Albion FC
+16,Sat Nov 9 2019,Nottingham Forest FC,1-0,Derby County FC
+16,Sat Nov 9 2019,Queens Park Rangers FC,2-2,Middlesbrough FC
+16,Sat Nov 9 2019,Wigan Athletic FC,0-3,Brentford FC
+16,Sat Nov 9 2019,Birmingham City FC,0-1,Fulham FC
+16,Sat Nov 9 2019,Sheffield Wednesday FC,2-2,Swansea City FC
+16,Sat Nov 9 2019,Preston North End FC,3-1,Huddersfield Town AFC
+16,Sat Nov 9 2019,Leeds United FC,2-1,Blackburn Rovers FC
+16,Sat Nov 9 2019,Millwall FC,2-1,Charlton Athletic FC
+16,Sat Nov 9 2019,Barnsley FC,2-4,Stoke City FC
+16,Sat Nov 9 2019,Reading FC,3-0,Luton Town FC
+16,Sat Nov 9 2019,Hull City AFC,0-1,West Bromwich Albion FC
+16,Sun Nov 10 2019,Cardiff City FC,0-1,Bristol City FC
+17,Fri Nov 22 2019,Fulham FC,2-1,Queens Park Rangers FC
+17,Sat Nov 23 2019,Charlton Athletic FC,2-2,Cardiff City FC
+17,Sat Nov 23 2019,Blackburn Rovers FC,3-2,Barnsley FC
+17,Sat Nov 23 2019,Swansea City FC,0-1,Millwall FC
+17,Sat Nov 23 2019,Stoke City FC,2-1,Wigan Athletic FC
+17,Sat Nov 23 2019,West Bromwich Albion FC,2-1,Sheffield Wednesday FC
+17,Sat Nov 23 2019,Derby County FC,1-0,Preston North End FC
+17,Sat Nov 23 2019,Bristol City FC,0-0,Nottingham Forest FC
+17,Sat Nov 23 2019,Huddersfield Town AFC,1-1,Birmingham City FC
+17,Sat Nov 23 2019,Brentford FC,1-0,Reading FC
+17,Sat Nov 23 2019,Luton Town FC,1-2,Leeds United FC
+17,Sun Nov 24 2019,Middlesbrough FC,2-2,Hull City AFC
+18,Tue Nov 26 2019,Fulham FC,3-0,Derby County FC
+18,Tue Nov 26 2019,Huddersfield Town AFC,1-1,Swansea City FC
+18,Tue Nov 26 2019,Cardiff City FC,1-0,Stoke City FC
+18,Tue Nov 26 2019,Luton Town FC,2-1,Charlton Athletic FC
+18,Tue Nov 26 2019,Millwall FC,2-2,Wigan Athletic FC
+18,Tue Nov 26 2019,Reading FC,0-1,Leeds United FC
+18,Wed Nov 27 2019,Blackburn Rovers FC,1-0,Brentford FC
+18,Wed Nov 27 2019,Queens Park Rangers FC,0-4,Nottingham Forest FC
+18,Wed Nov 27 2019,Sheffield Wednesday FC,1-1,Birmingham City FC
+18,Wed Nov 27 2019,Middlesbrough FC,1-0,Barnsley FC
+18,Wed Nov 27 2019,Hull City AFC,4-0,Preston North End FC
+18,Wed Nov 27 2019,West Bromwich Albion FC,4-1,Bristol City FC
+19,Fri Nov 29 2019,Swansea City FC,1-2,Fulham FC
+19,Sat Nov 30 2019,Charlton Athletic FC,1-3,Sheffield Wednesday FC
+19,Sat Nov 30 2019,Stoke City FC,1-2,Blackburn Rovers FC
+19,Sat Nov 30 2019,Wigan Athletic FC,1-3,Reading FC
+19,Sat Nov 30 2019,Birmingham City FC,1-1,Millwall FC
+19,Sat Nov 30 2019,Nottingham Forest FC,0-1,Cardiff City FC
+19,Sat Nov 30 2019,Derby County FC,1-1,Queens Park Rangers FC
+19,Sat Nov 30 2019,Bristol City FC,5-2,Huddersfield Town AFC
+19,Sat Nov 30 2019,Leeds United FC,4-0,Middlesbrough FC
+19,Sat Nov 30 2019,Brentford FC,7-0,Luton Town FC
+19,Sat Nov 30 2019,Barnsley FC,3-1,Hull City AFC
+19,Mon Dec 2 2019,Preston North End FC,0-1,West Bromwich Albion FC
+20,Fri Dec 6 2019,Millwall FC,2-2,Nottingham Forest FC
+20,Sat Dec 7 2019,Huddersfield Town AFC,0-2,Leeds United FC
+20,Sat Dec 7 2019,Blackburn Rovers FC,1-0,Derby County FC
+20,Sat Dec 7 2019,Fulham FC,1-2,Bristol City FC
+20,Sat Dec 7 2019,Queens Park Rangers FC,2-0,Preston North End FC
+20,Sat Dec 7 2019,Sheffield Wednesday FC,2-1,Brentford FC
+20,Sat Dec 7 2019,Middlesbrough FC,1-0,Charlton Athletic FC
+20,Sat Dec 7 2019,Cardiff City FC,3-2,Barnsley FC
+20,Sat Dec 7 2019,Luton Town FC,2-1,Wigan Athletic FC
+20,Sat Dec 7 2019,Reading FC,2-3,Birmingham City FC
+20,Sat Dec 7 2019,Hull City AFC,2-1,Stoke City FC
+20,Sun Dec 8 2019,West Bromwich Albion FC,5-1,Swansea City FC
+21,Tue Dec 10 2019,Nottingham Forest FC,1-1,Middlesbrough FC
+21,Tue Dec 10 2019,Preston North End FC,2-1,Fulham FC
+21,Tue Dec 10 2019,Bristol City FC,1-2,Millwall FC
+21,Tue Dec 10 2019,Leeds United FC,2-0,Hull City AFC
+21,Tue Dec 10 2019,Charlton Athletic FC,0-1,Huddersfield Town AFC
+21,Tue Dec 10 2019,Stoke City FC,3-0,Luton Town FC
+21,Wed Dec 11 2019,Swansea City FC,1-1,Blackburn Rovers FC
+21,Wed Dec 11 2019,Wigan Athletic FC,1-1,West Bromwich Albion FC
+21,Wed Dec 11 2019,Birmingham City FC,0-2,Queens Park Rangers FC
+21,Wed Dec 11 2019,Derby County FC,1-1,Sheffield Wednesday FC
+21,Wed Dec 11 2019,Brentford FC,2-1,Cardiff City FC
+21,Wed Dec 11 2019,Barnsley FC,1-1,Reading FC
+22,Fri Dec 13 2019,Charlton Athletic FC,2-2,Hull City AFC
+22,Sat Dec 14 2019,Birmingham City FC,2-3,West Bromwich Albion FC
+22,Sat Dec 14 2019,Swansea City FC,3-1,Middlesbrough FC
+22,Sat Dec 14 2019,Stoke City FC,0-0,Reading FC
+22,Sat Dec 14 2019,Wigan Athletic FC,1-1,Huddersfield Town AFC
+22,Sat Dec 14 2019,Nottingham Forest FC,0-4,Sheffield Wednesday FC
+22,Sat Dec 14 2019,Derby County FC,0-1,Millwall FC
+22,Sat Dec 14 2019,Preston North End FC,2-1,Luton Town FC
+22,Sat Dec 14 2019,Bristol City FC,0-2,Blackburn Rovers FC
+22,Sat Dec 14 2019,Leeds United FC,3-3,Cardiff City FC
+22,Sat Dec 14 2019,Brentford FC,1-0,Fulham FC
+22,Sat Dec 14 2019,Barnsley FC,5-3,Queens Park Rangers FC
+23,Fri Dec 20 2019,Middlesbrough FC,2-1,Stoke City FC
+23,Sat Dec 21 2019,Cardiff City FC,0-0,Preston North End FC
+23,Sat Dec 21 2019,Fulham FC,2-1,Leeds United FC
+23,Sat Dec 21 2019,Queens Park Rangers FC,2-2,Charlton Athletic FC
+23,Sat Dec 21 2019,West Bromwich Albion FC,1-1,Brentford FC
+23,Sat Dec 21 2019,Huddersfield Town AFC,2-1,Nottingham Forest FC
+23,Sat Dec 21 2019,Luton Town FC,0-1,Swansea City FC
+23,Sat Dec 21 2019,Millwall FC,1-2,Barnsley FC
+23,Sat Dec 21 2019,Reading FC,3-0,Derby County FC
+23,Sat Dec 21 2019,Hull City AFC,3-0,Birmingham City FC
+23,Sun Dec 22 2019,Sheffield Wednesday FC,1-0,Bristol City FC
+23,Mon Dec 23 2019,Blackburn Rovers FC,0-0,Wigan Athletic FC
+24,Thu Dec 26 2019,Blackburn Rovers FC,1-1,Birmingham City FC
+24,Thu Dec 26 2019,Stoke City FC,3-2,Sheffield Wednesday FC
+24,Thu Dec 26 2019,Wigan Athletic FC,1-1,Derby County FC
+24,Thu Dec 26 2019,Middlesbrough FC,1-0,Huddersfield Town AFC
+24,Thu Dec 26 2019,Cardiff City FC,1-1,Millwall FC
+24,Thu Dec 26 2019,Brentford FC,3-1,Swansea City FC
+24,Thu Dec 26 2019,Charlton Athletic FC,3-2,Bristol City FC
+24,Thu Dec 26 2019,Luton Town FC,3-3,Fulham FC
+24,Thu Dec 26 2019,Barnsley FC,1-1,West Bromwich Albion FC
+24,Thu Dec 26 2019,Hull City AFC,0-2,Nottingham Forest FC
+24,Thu Dec 26 2019,Leeds United FC,1-1,Preston North End FC
+24,Thu Dec 26 2019,Reading FC,1-0,Queens Park Rangers FC
+25,Sun Dec 29 2019,Fulham FC,1-0,Stoke City FC
+25,Sun Dec 29 2019,Swansea City FC,0-0,Barnsley FC
+25,Sun Dec 29 2019,Queens Park Rangers FC,1-2,Hull City AFC
+25,Sun Dec 29 2019,West Bromwich Albion FC,0-2,Middlesbrough FC
+25,Sun Dec 29 2019,Birmingham City FC,4-5,Leeds United FC
+25,Sun Dec 29 2019,Nottingham Forest FC,1-0,Wigan Athletic FC
+25,Sun Dec 29 2019,Sheffield Wednesday FC,1-2,Cardiff City FC
+25,Sun Dec 29 2019,Preston North End FC,0-2,Reading FC
+25,Sun Dec 29 2019,Bristol City FC,3-0,Luton Town FC
+25,Sun Dec 29 2019,Huddersfield Town AFC,2-1,Blackburn Rovers FC
+25,Sun Dec 29 2019,Millwall FC,1-0,Brentford FC
+25,Mon Dec 30 2019,Derby County FC,2-1,Charlton Athletic FC
+26,Wed Jan 1 2020,Millwall FC,3-1,Luton Town FC
+26,Wed Jan 1 2020,Fulham FC,1-2,Reading FC
+26,Wed Jan 1 2020,Queens Park Rangers FC,6-1,Cardiff City FC
+26,Wed Jan 1 2020,Birmingham City FC,2-3,Wigan Athletic FC
+26,Wed Jan 1 2020,Nottingham Forest FC,3-2,Blackburn Rovers FC
+26,Wed Jan 1 2020,Sheffield Wednesday FC,0-1,Hull City AFC
+26,Wed Jan 1 2020,Preston North End FC,0-2,Middlesbrough FC
+26,Wed Jan 1 2020,Bristol City FC,0-4,Brentford FC
+26,Wed Jan 1 2020,Huddersfield Town AFC,2-5,Stoke City FC
+26,Wed Jan 1 2020,West Bromwich Albion FC,1-1,Leeds United FC
+26,Thu Jan 2 2020,Swansea City FC,1-0,Charlton Athletic FC
+26,Thu Jan 2 2020,Derby County FC,2-1,Barnsley FC
+27,Sat Jan 11 2020,Brentford FC,3-1,Queens Park Rangers FC
+27,Sat Jan 11 2020,Blackburn Rovers FC,1-1,Preston North End FC
+27,Sat Jan 11 2020,Stoke City FC,0-0,Millwall FC
+27,Sat Jan 11 2020,Wigan Athletic FC,0-2,Bristol City FC
+27,Sat Jan 11 2020,Middlesbrough FC,2-2,Derby County FC
+27,Sat Jan 11 2020,Leeds United FC,0-2,Sheffield Wednesday FC
+27,Sat Jan 11 2020,Charlton Athletic FC,2-2,West Bromwich Albion FC
+27,Sat Jan 11 2020,Luton Town FC,1-2,Birmingham City FC
+27,Sat Jan 11 2020,Barnsley FC,2-1,Huddersfield Town AFC
+27,Sat Jan 11 2020,Reading FC,1-1,Nottingham Forest FC
+27,Sat Jan 11 2020,Hull City AFC,0-1,Fulham FC
+27,Sun Jan 12 2020,Cardiff City FC,0-0,Swansea City FC
+28,Fri Jan 17 2020,Fulham FC,1-0,Middlesbrough FC
+28,Sat Jan 18 2020,Queens Park Rangers FC,1-0,Leeds United FC
+28,Sat Jan 18 2020,Swansea City FC,2-1,Wigan Athletic FC
+28,Sat Jan 18 2020,Birmingham City FC,1-1,Cardiff City FC
+28,Sat Jan 18 2020,Derby County FC,1-0,Hull City AFC
+28,Sat Jan 18 2020,Sheffield Wednesday FC,0-5,Blackburn Rovers FC
+28,Sat Jan 18 2020,Preston North End FC,2-1,Charlton Athletic FC
+28,Sat Jan 18 2020,Bristol City FC,1-0,Barnsley FC
+28,Sat Jan 18 2020,Huddersfield Town AFC,0-0,Brentford FC
+28,Sat Jan 18 2020,Millwall FC,2-0,Reading FC
+28,Sun Jan 19 2020,Nottingham Forest FC,3-1,Luton Town FC
+28,Mon Jan 20 2020,West Bromwich Albion FC,0-1,Stoke City FC
+29,Tue Jan 21 2020,Middlesbrough FC,1-1,Birmingham City FC
+29,Tue Jan 21 2020,Barnsley FC,0-3,Preston North End FC
+14,Wed Jan 22 2020,Nottingham Forest FC,1-1,Reading FC
+29,Wed Jan 22 2020,Charlton Athletic FC,0-0,Fulham FC
+29,Sat Jan 25 2020,Stoke City FC,2-0,Swansea City FC
+29,Tue Jan 28 2020,Blackburn Rovers FC,2-1,Queens Park Rangers FC
+29,Tue Jan 28 2020,Wigan Athletic FC,2-1,Sheffield Wednesday FC
+29,Tue Jan 28 2020,Cardiff City FC,2-1,West Bromwich Albion FC
+29,Tue Jan 28 2020,Leeds United FC,3-2,Millwall FC
+29,Tue Jan 28 2020,Brentford FC,0-1,Nottingham Forest FC
+29,Tue Jan 28 2020,Luton Town FC,3-2,Derby County FC
+29,Tue Jan 28 2020,Hull City AFC,1-2,Huddersfield Town AFC
+29,Tue Jan 28 2020,Reading FC,0-1,Bristol City FC
+30,Fri Jan 31 2020,Derby County FC,4-0,Stoke City FC
+30,Fri Jan 31 2020,Cardiff City FC,1-1,Reading FC
+30,Sat Feb 1 2020,Hull City AFC,1-5,Brentford FC
+30,Sat Feb 1 2020,Fulham FC,3-2,Huddersfield Town AFC
+30,Sat Feb 1 2020,Queens Park Rangers FC,0-1,Bristol City FC
+30,Sat Feb 1 2020,West Bromwich Albion FC,2-0,Luton Town FC
+30,Sat Feb 1 2020,Birmingham City FC,2-1,Nottingham Forest FC
+30,Sat Feb 1 2020,Sheffield Wednesday FC,0-0,Millwall FC
+30,Sat Feb 1 2020,Middlesbrough FC,1-1,Blackburn Rovers FC
+30,Sat Feb 1 2020,Preston North End FC,1-1,Swansea City FC
+30,Sat Feb 1 2020,Leeds United FC,0-1,Wigan Athletic FC
+30,Sat Feb 1 2020,Charlton Athletic FC,2-1,Barnsley FC
+31,Fri Feb 7 2020,Bristol City FC,1-3,Birmingham City FC
+31,Sat Feb 8 2020,Wigan Athletic FC,1-2,Preston North End FC
+31,Sat Feb 8 2020,Barnsley FC,1-1,Sheffield Wednesday FC
+31,Sat Feb 8 2020,Blackburn Rovers FC,0-1,Fulham FC
+31,Sat Feb 8 2020,Swansea City FC,2-3,Derby County FC
+31,Sat Feb 8 2020,Stoke City FC,3-1,Charlton Athletic FC
+31,Sat Feb 8 2020,Huddersfield Town AFC,2-0,Queens Park Rangers FC
+31,Sat Feb 8 2020,Brentford FC,3-2,Middlesbrough FC
+31,Sat Feb 8 2020,Luton Town FC,0-1,Cardiff City FC
+31,Sat Feb 8 2020,Reading FC,1-1,Hull City AFC
+31,Sat Feb 8 2020,Nottingham Forest FC,2-0,Leeds United FC
+31,Sun Feb 9 2020,Millwall FC,0-2,West Bromwich Albion FC
+32,Tue Feb 11 2020,Blackburn Rovers FC,3-0,Hull City AFC
+32,Tue Feb 11 2020,Swansea City FC,0-0,Queens Park Rangers FC
+32,Tue Feb 11 2020,Wigan Athletic FC,2-2,Middlesbrough FC
+32,Tue Feb 11 2020,Nottingham Forest FC,0-1,Charlton Athletic FC
+32,Tue Feb 11 2020,Brentford FC,1-1,Leeds United FC
+32,Tue Feb 11 2020,Barnsley FC,0-1,Birmingham City FC
+32,Wed Feb 12 2020,Bristol City FC,3-2,Derby County FC
+32,Wed Feb 12 2020,Huddersfield Town AFC,0-3,Cardiff City FC
+32,Wed Feb 12 2020,Luton Town FC,1-0,Sheffield Wednesday FC
+32,Wed Feb 12 2020,Millwall FC,1-1,Fulham FC
+32,Wed Feb 12 2020,Stoke City FC,0-2,Preston North End FC
+32,Wed Feb 12 2020,Reading FC,1-2,West Bromwich Albion FC
+33,Fri Feb 14 2020,Hull City AFC,4-4,Swansea City FC
+33,Sat Feb 15 2020,West Bromwich Albion FC,2-2,Nottingham Forest FC
+33,Sat Feb 15 2020,Birmingham City FC,1-1,Brentford FC
+33,Sat Feb 15 2020,Derby County FC,1-1,Huddersfield Town AFC
+33,Sat Feb 15 2020,Sheffield Wednesday FC,0-3,Reading FC
+33,Sat Feb 15 2020,Middlesbrough FC,0-1,Luton Town FC
+33,Sat Feb 15 2020,Preston North End FC,0-1,Millwall FC
+33,Sat Feb 15 2020,Cardiff City FC,2-2,Wigan Athletic FC
+33,Sat Feb 15 2020,Leeds United FC,1-0,Bristol City FC
+33,Sat Feb 15 2020,Charlton Athletic FC,0-2,Blackburn Rovers FC
+33,Sat Feb 15 2020,Fulham FC,0-3,Barnsley FC
+33,Sat Feb 15 2020,Queens Park Rangers FC,4-2,Stoke City FC
+34,Fri Feb 21 2020,Derby County FC,1-1,Fulham FC
+34,Sat Feb 22 2020,Brentford FC,2-2,Blackburn Rovers FC
+34,Sat Feb 22 2020,Swansea City FC,3-1,Huddersfield Town AFC
+34,Sat Feb 22 2020,Stoke City FC,2-0,Cardiff City FC
+34,Sat Feb 22 2020,Wigan Athletic FC,1-0,Millwall FC
+34,Sat Feb 22 2020,Birmingham City FC,3-3,Sheffield Wednesday FC
+34,Sat Feb 22 2020,Nottingham Forest FC,0-0,Queens Park Rangers FC
+34,Sat Feb 22 2020,Preston North End FC,2-1,Hull City AFC
+34,Sat Feb 22 2020,Bristol City FC,0-3,West Bromwich Albion FC
+34,Sat Feb 22 2020,Leeds United FC,1-0,Reading FC
+34,Sat Feb 22 2020,Charlton Athletic FC,3-1,Luton Town FC
+34,Sat Feb 22 2020,Barnsley FC,1-0,Middlesbrough FC
+35,Tue Feb 25 2020,Queens Park Rangers FC,2-1,Derby County FC
+35,Tue Feb 25 2020,Huddersfield Town AFC,2-1,Bristol City FC
+35,Tue Feb 25 2020,Cardiff City FC,0-1,Nottingham Forest FC
+35,Tue Feb 25 2020,Luton Town FC,2-1,Brentford FC
+35,Tue Feb 25 2020,West Bromwich Albion FC,2-0,Preston North End FC
+35,Wed Feb 26 2020,Fulham FC,1-0,Swansea City FC
+35,Wed Feb 26 2020,Blackburn Rovers FC,0-0,Stoke City FC
+35,Wed Feb 26 2020,Sheffield Wednesday FC,1-0,Charlton Athletic FC
+35,Wed Feb 26 2020,Middlesbrough FC,0-1,Leeds United FC
+35,Wed Feb 26 2020,Millwall FC,0-0,Birmingham City FC
+35,Wed Feb 26 2020,Hull City AFC,0-1,Barnsley FC
+35,Wed Feb 26 2020,Reading FC,0-3,Wigan Athletic FC
+36,Sat Feb 29 2020,Hull City AFC,0-4,Leeds United FC
+36,Sat Feb 29 2020,Blackburn Rovers FC,2-2,Swansea City FC
+36,Sat Feb 29 2020,Fulham FC,2-0,Preston North End FC
+36,Sat Feb 29 2020,Queens Park Rangers FC,2-2,Birmingham City FC
+36,Sat Feb 29 2020,West Bromwich Albion FC,0-1,Wigan Athletic FC
+36,Sat Feb 29 2020,Sheffield Wednesday FC,1-3,Derby County FC
+36,Sat Feb 29 2020,Huddersfield Town AFC,4-0,Charlton Athletic FC
+36,Sat Feb 29 2020,Cardiff City FC,2-2,Brentford FC
+36,Sat Feb 29 2020,Luton Town FC,1-1,Stoke City FC
+36,Sat Feb 29 2020,Millwall FC,1-1,Bristol City FC
+36,Sat Feb 29 2020,Reading FC,2-0,Barnsley FC
+36,Mon Mar 2 2020,Middlesbrough FC,2-2,Nottingham Forest FC
+37,Fri Mar 6 2020,Nottingham Forest FC,0-3,Millwall FC
+37,Sat Mar 7 2020,Bristol City FC,1-1,Fulham FC
+37,Sat Mar 7 2020,Swansea City FC,0-0,West Bromwich Albion FC
+37,Sat Mar 7 2020,Stoke City FC,5-1,Hull City AFC
+37,Sat Mar 7 2020,Wigan Athletic FC,0-0,Luton Town FC
+37,Sat Mar 7 2020,Birmingham City FC,1-3,Reading FC
+37,Sat Mar 7 2020,Preston North End FC,1-3,Queens Park Rangers FC
+37,Sat Mar 7 2020,Leeds United FC,2-0,Huddersfield Town AFC
+37,Sat Mar 7 2020,Brentford FC,5-0,Sheffield Wednesday FC
+37,Sat Mar 7 2020,Charlton Athletic FC,0-1,Middlesbrough FC
+37,Sat Mar 7 2020,Barnsley FC,0-2,Cardiff City FC
+37,Sun Mar 8 2020,Derby County FC,3-0,Blackburn Rovers FC
+38,Sat Jun 20 2020,Fulham FC,0-2,Brentford FC
+38,Sat Jun 20 2020,Middlesbrough FC,0-3,Swansea City FC
+38,Sat Jun 20 2020,Millwall FC,2-3,Derby County FC
+38,Sat Jun 20 2020,Blackburn Rovers FC,3-1,Bristol City FC
+38,Sat Jun 20 2020,Queens Park Rangers FC,0-1,Barnsley FC
+38,Sat Jun 20 2020,West Bromwich Albion FC,0-0,Birmingham City FC
+38,Sat Jun 20 2020,Sheffield Wednesday FC,1-1,Nottingham Forest FC
+38,Sat Jun 20 2020,Huddersfield Town AFC,0-2,Wigan Athletic FC
+38,Sat Jun 20 2020,Luton Town FC,1-1,Preston North End FC
+38,Sat Jun 20 2020,Reading FC,1-1,Stoke City FC
+38,Sat Jun 20 2020,Hull City AFC,0-1,Charlton Athletic FC
+38,Sun Jun 21 2020,Cardiff City FC,2-0,Leeds United FC
+39,Fri Jun 26 2020,Brentford FC,1-0,West Bromwich Albion FC
+39,Sat Jun 27 2020,Preston North End FC,1-3,Cardiff City FC
+39,Sat Jun 27 2020,Charlton Athletic FC,1-0,Queens Park Rangers FC
+39,Sat Jun 27 2020,Swansea City FC,0-1,Luton Town FC
+39,Sat Jun 27 2020,Derby County FC,2-1,Reading FC
+39,Sat Jun 27 2020,Barnsley FC,0-0,Millwall FC
+39,Sat Jun 27 2020,Stoke City FC,0-2,Middlesbrough FC
+39,Sat Jun 27 2020,Wigan Athletic FC,2-0,Blackburn Rovers FC
+39,Sat Jun 27 2020,Birmingham City FC,3-3,Hull City AFC
+39,Sat Jun 27 2020,Leeds United FC,3-0,Fulham FC
+39,Sun Jun 28 2020,Bristol City FC,1-2,Sheffield Wednesday FC
+39,Sun Jun 28 2020,Nottingham Forest FC,3-1,Huddersfield Town AFC
+40,Tue Jun 30 2020,Millwall FC,1-1,Swansea City FC
+40,Tue Jun 30 2020,Cardiff City FC,0-0,Charlton Athletic FC
+40,Tue Jun 30 2020,Barnsley FC,2-0,Blackburn Rovers FC
+40,Tue Jun 30 2020,Reading FC,0-3,Brentford FC
+40,Tue Jun 30 2020,Queens Park Rangers FC,1-2,Fulham FC
+40,Tue Jun 30 2020,Wigan Athletic FC,3-0,Stoke City FC
+40,Tue Jun 30 2020,Leeds United FC,1-1,Luton Town FC
+40,Wed Jul 1 2020,Preston North End FC,0-1,Derby County FC
+40,Wed Jul 1 2020,Birmingham City FC,0-3,Huddersfield Town AFC
+40,Wed Jul 1 2020,Nottingham Forest FC,1-0,Bristol City FC
+40,Wed Jul 1 2020,Sheffield Wednesday FC,0-3,West Bromwich Albion FC
+40,Thu Jul 2 2020,Hull City AFC,2-1,Middlesbrough FC
+41,Fri Jul 3 2020,Charlton Athletic FC,0-1,Millwall FC
+41,Sat Jul 4 2020,Derby County FC,1-1,Nottingham Forest FC
+41,Sat Jul 4 2020,Blackburn Rovers FC,1-3,Leeds United FC
+41,Sat Jul 4 2020,Fulham FC,1-0,Birmingham City FC
+41,Sat Jul 4 2020,Stoke City FC,4-0,Barnsley FC
+41,Sat Jul 4 2020,Bristol City FC,0-1,Cardiff City FC
+41,Sat Jul 4 2020,Huddersfield Town AFC,0-0,Preston North End FC
+41,Sat Jul 4 2020,Brentford FC,3-0,Wigan Athletic FC
+41,Sat Jul 4 2020,Luton Town FC,0-5,Reading FC
+41,Sun Jul 5 2020,Swansea City FC,2-1,Sheffield Wednesday FC
+41,Sun Jul 5 2020,Middlesbrough FC,0-1,Queens Park Rangers FC
+41,Sun Jul 5 2020,West Bromwich Albion FC,4-2,Hull City AFC
+42,Tue Jul 7 2020,Nottingham Forest FC,,Fulham FC
+42,Tue Jul 7 2020,Cardiff City FC,,Blackburn Rovers FC
+42,Tue Jul 7 2020,Brentford FC,,Charlton Athletic FC
+42,Tue Jul 7 2020,Luton Town FC,,Barnsley FC
+42,Tue Jul 7 2020,Reading FC,,Huddersfield Town AFC
+42,Wed Jul 8 2020,West Bromwich Albion FC,,Derby County FC
+42,Wed Jul 8 2020,Wigan Athletic FC,,Queens Park Rangers FC
+42,Wed Jul 8 2020,Birmingham City FC,,Swansea City FC
+42,Wed Jul 8 2020,Sheffield Wednesday FC,,Preston North End FC
+42,Wed Jul 8 2020,Bristol City FC,,Hull City AFC
+42,Wed Jul 8 2020,Millwall FC,,Middlesbrough FC
+42,Thu Jul 9 2020,Leeds United FC,,Stoke City FC
+43,Sat Jul 11 2020,Blackburn Rovers FC,,West Bromwich Albion FC
+43,Sat Jul 11 2020,Fulham FC,,Cardiff City FC
+43,Sat Jul 11 2020,Queens Park Rangers FC,,Sheffield Wednesday FC
+43,Sat Jul 11 2020,Derby County FC,,Brentford FC
+43,Sat Jul 11 2020,Middlesbrough FC,,Bristol City FC
+43,Sat Jul 11 2020,Preston North End FC,,Nottingham Forest FC
+43,Sat Jul 11 2020,Huddersfield Town AFC,,Luton Town FC
+43,Sat Jul 11 2020,Charlton Athletic FC,,Reading FC
+43,Sat Jul 11 2020,Barnsley FC,,Wigan Athletic FC
+43,Sat Jul 11 2020,Hull City AFC,,Millwall FC
+43,Sun Jul 12 2020,Swansea City FC,,Leeds United FC
+43,Sun Jul 12 2020,Stoke City FC,,Birmingham City FC
+44,Tue Jul 14 2020,Wigan Athletic FC,,Hull City AFC
+44,Tue Jul 14 2020,Sheffield Wednesday FC,,Huddersfield Town AFC
+44,Tue Jul 14 2020,Cardiff City FC,,Derby County FC
+44,Tue Jul 14 2020,Brentford FC,,Preston North End FC
+44,Tue Jul 14 2020,Luton Town FC,,Queens Park Rangers FC
+44,Tue Jul 14 2020,Millwall FC,,Blackburn Rovers FC
+44,Tue Jul 14 2020,West Bromwich Albion FC,,Fulham FC
+44,Tue Jul 14 2020,Reading FC,,Middlesbrough FC
+44,Wed Jul 15 2020,Birmingham City FC,,Charlton Athletic FC
+44,Wed Jul 15 2020,Nottingham Forest FC,,Swansea City FC
+44,Wed Jul 15 2020,Bristol City FC,,Stoke City FC
+44,Wed Jul 15 2020,Leeds United FC,,Barnsley FC
+45,Sat Jul 18 2020,Blackburn Rovers FC,,Reading FC
+45,Sat Jul 18 2020,Fulham FC,,Sheffield Wednesday FC
+45,Sat Jul 18 2020,Swansea City FC,,Bristol City FC
+45,Sat Jul 18 2020,Queens Park Rangers FC,,Millwall FC
+45,Sat Jul 18 2020,Stoke City FC,,Brentford FC
+45,Sat Jul 18 2020,Derby County FC,,Leeds United FC
+45,Sat Jul 18 2020,Middlesbrough FC,,Cardiff City FC
+45,Sat Jul 18 2020,Preston North End FC,,Birmingham City FC
+45,Sat Jul 18 2020,Huddersfield Town AFC,,West Bromwich Albion FC
+45,Sat Jul 18 2020,Charlton Athletic FC,,Wigan Athletic FC
+45,Sat Jul 18 2020,Barnsley FC,,Nottingham Forest FC
+45,Sat Jul 18 2020,Hull City AFC,,Luton Town FC
+46,Wed Jul 22 2020,West Bromwich Albion FC,,Queens Park Rangers FC
+46,Wed Jul 22 2020,Wigan Athletic FC,,Fulham FC
+46,Wed Jul 22 2020,Birmingham City FC,,Derby County FC
+46,Wed Jul 22 2020,Nottingham Forest FC,,Stoke City FC
+46,Wed Jul 22 2020,Sheffield Wednesday FC,,Middlesbrough FC
+46,Wed Jul 22 2020,Bristol City FC,,Preston North End FC
+46,Wed Jul 22 2020,Cardiff City FC,,Hull City AFC
+46,Wed Jul 22 2020,Leeds United FC,,Charlton Athletic FC
+46,Wed Jul 22 2020,Brentford FC,,Barnsley FC
+46,Wed Jul 22 2020,Luton Town FC,,Blackburn Rovers FC
+46,Wed Jul 22 2020,Millwall FC,,Huddersfield Town AFC
+46,Wed Jul 22 2020,Reading FC,,Swansea City FC

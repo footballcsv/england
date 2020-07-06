@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 6 2005,Sheffield United FC,4-1,Leicester City FC
 1,Sat Aug 6 2005,Watford FC,1-2,Preston North End FC
 1,Sat Aug 6 2005,Stoke City FC,0-0,Sheffield Wednesday FC
@@ -12,29 +12,29 @@ Matchday,Date,Team 1,FT,Team 2
 1,Sat Aug 6 2005,Southampton FC,0-0,Wolverhampton Wanderers FC
 1,Sun Aug 7 2005,Leeds United FC,2-1,Millwall FC
 2,Mon Aug 8 2005,Preston North End FC,1-1,Derby County FC
-2,Tue Aug 9 2005,Brighton & Hove Albion FC,0-2,Reading FC
+2,Tue Aug 9 2005,Norwich City FC,1-1,Crewe Alexandra FC
 2,Tue Aug 9 2005,Sheffield Wednesday FC,1-1,Hull City AFC
 2,Tue Aug 9 2005,Queens Park Rangers FC,2-1,Ipswich Town FC
 2,Tue Aug 9 2005,Plymouth Argyle FC,3-3,Watford FC
-2,Tue Aug 9 2005,Norwich City FC,1-1,Crewe Alexandra FC
+2,Tue Aug 9 2005,Wolverhampton Wanderers FC,2-1,Crystal Palace FC
 2,Tue Aug 9 2005,Millwall FC,0-0,Coventry City FC
 2,Tue Aug 9 2005,Luton Town FC,3-2,Southampton FC
 2,Tue Aug 9 2005,Leicester City FC,4-2,Stoke City FC
 2,Tue Aug 9 2005,Cardiff City FC,2-1,Leeds United FC
 2,Tue Aug 9 2005,Burnley FC,1-2,Sheffield United FC
-2,Tue Aug 9 2005,Wolverhampton Wanderers FC,2-1,Crystal Palace FC
+2,Tue Aug 9 2005,Brighton & Hove Albion FC,0-2,Reading FC
 3,Fri Aug 12 2005,Cardiff City FC,1-3,Watford FC
-3,Sat Aug 13 2005,Brighton & Hove Albion FC,2-2,Crewe Alexandra FC
+3,Sat Aug 13 2005,Wolverhampton Wanderers FC,1-0,Hull City AFC
 3,Sat Aug 13 2005,Sheffield Wednesday FC,0-1,Southampton FC
 3,Sat Aug 13 2005,Queens Park Rangers FC,2-1,Sheffield United FC
 3,Sat Aug 13 2005,Preston North End FC,0-3,Reading FC
-3,Sat Aug 13 2005,Wolverhampton Wanderers FC,1-0,Hull City AFC
+3,Sat Aug 13 2005,Plymouth Argyle FC,0-2,Derby County FC
 3,Sat Aug 13 2005,Norwich City FC,1-1,Crystal Palace FC
 3,Sat Aug 13 2005,Millwall FC,0-1,Stoke City FC
 3,Sat Aug 13 2005,Luton Town FC,0-0,Leeds United FC
 3,Sat Aug 13 2005,Leicester City FC,0-0,Ipswich Town FC
 3,Sat Aug 13 2005,Burnley FC,4-0,Coventry City FC
-3,Sat Aug 13 2005,Plymouth Argyle FC,0-2,Derby County FC
+3,Sat Aug 13 2005,Brighton & Hove Albion FC,2-2,Crewe Alexandra FC
 4,Sat Aug 20 2005,Watford FC,3-1,Burnley FC
 4,Sat Aug 20 2005,Stoke City FC,2-1,Luton Town FC
 4,Sat Aug 20 2005,Southampton FC,1-0,Norwich City FC
@@ -48,29 +48,27 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sat Aug 20 2005,Crewe Alexandra FC,2-2,Leicester City FC
 4,Sat Aug 20 2005,Reading FC,5-0,Millwall FC
 5,Fri Aug 26 2005,Queens Park Rangers FC,0-0,Sheffield Wednesday FC
-5,Sat Aug 27 2005,Norwich City FC,0-1,Leeds United FC
-5,Sat Aug 27 2005,Sheffield United FC,2-1,Coventry City FC
-5,Sat Aug 27 2005,Burnley FC,2-2,Derby County FC
-5,Sat Aug 27 2005,Plymouth Argyle FC,0-1,Hull City AFC
 5,Sat Aug 27 2005,Southampton FC,2-0,Crewe Alexandra FC
+5,Sat Aug 27 2005,Sheffield United FC,2-1,Coventry City FC
+5,Sat Aug 27 2005,Preston North End FC,0-0,Brighton & Hove Albion FC
+5,Sat Aug 27 2005,Plymouth Argyle FC,0-1,Hull City AFC
+5,Sat Aug 27 2005,Norwich City FC,0-1,Leeds United FC
 5,Sat Aug 27 2005,Millwall FC,1-2,Ipswich Town FC
 5,Sat Aug 27 2005,Leicester City FC,0-2,Luton Town FC
 5,Sat Aug 27 2005,Crystal Palace FC,2-0,Stoke City FC
 5,Sat Aug 27 2005,Cardiff City FC,2-2,Wolverhampton Wanderers FC
 5,Sat Aug 27 2005,Watford FC,0-0,Reading FC
-5,Sat Aug 27 2005,Preston North End FC,0-0,Brighton & Hove Albion FC
+5,Sat Aug 27 2005,Burnley FC,2-2,Derby County FC
 6,Mon Aug 29 2005,Luton Town FC,2-1,Millwall FC
 6,Mon Aug 29 2005,Ipswich Town FC,0-4,Preston North End FC
 6,Mon Aug 29 2005,Reading FC,2-1,Burnley FC
 6,Mon Aug 29 2005,Hull City AFC,1-1,Leicester City FC
 6,Mon Aug 29 2005,Coventry City FC,1-1,Southampton FC
-6,Mon Aug 29 2005,Derby County FC,1-2,Watford FC
+6,Mon Aug 29 2005,Crewe Alexandra FC,1-3,Sheffield United FC
 6,Mon Aug 29 2005,Brighton & Hove Albion FC,2-0,Plymouth Argyle FC
 6,Mon Aug 29 2005,Stoke City FC,3-1,Norwich City FC
-6,Mon Aug 29 2005,Crewe Alexandra FC,1-3,Sheffield United FC
+6,Mon Aug 29 2005,Derby County FC,1-2,Watford FC
 6,Tue Aug 30 2005,Wolverhampton Wanderers FC,3-1,Queens Park Rangers FC
-7,Sat Sep 10 2005,Norwich City FC,2-0,Plymouth Argyle FC
-7,Sat Sep 10 2005,Crystal Palace FC,2-0,Hull City AFC
 7,Sat Sep 10 2005,Millwall FC,1-2,Preston North End FC
 7,Sat Sep 10 2005,Stoke City FC,0-3,Watford FC
 7,Sat Sep 10 2005,Southampton FC,1-1,Queens Park Rangers FC
@@ -79,154 +77,153 @@ Matchday,Date,Team 1,FT,Team 2
 7,Sat Sep 10 2005,Luton Town FC,1-1,Wolverhampton Wanderers FC
 7,Sat Sep 10 2005,Leicester City FC,2-0,Sheffield Wednesday FC
 7,Sat Sep 10 2005,Leeds United FC,3-3,Brighton & Hove Albion FC
+7,Sat Sep 10 2005,Crystal Palace FC,2-0,Hull City AFC
 7,Sat Sep 10 2005,Coventry City FC,1-1,Reading FC
+7,Sat Sep 10 2005,Norwich City FC,2-0,Plymouth Argyle FC
 7,Sun Sep 11 2005,Crewe Alexandra FC,1-1,Derby County FC
-8,Tue Sep 13 2005,Queens Park Rangers FC,1-0,Luton Town FC
-8,Tue Sep 13 2005,Sheffield Wednesday FC,1-0,Leeds United FC
 8,Tue Sep 13 2005,Wolverhampton Wanderers FC,1-2,Millwall FC
 8,Tue Sep 13 2005,Watford FC,2-1,Norwich City FC
-8,Tue Sep 13 2005,Ipswich Town FC,2-2,Southampton FC
+8,Tue Sep 13 2005,Queens Park Rangers FC,1-0,Luton Town FC
 8,Tue Sep 13 2005,Preston North End FC,0-0,Burnley FC
-8,Tue Sep 13 2005,Reading FC,3-2,Crystal Palace FC
+8,Tue Sep 13 2005,Plymouth Argyle FC,1-1,Crewe Alexandra FC
 8,Tue Sep 13 2005,Hull City AFC,0-1,Stoke City FC
 8,Tue Sep 13 2005,Cardiff City FC,1-0,Leicester City FC
 8,Tue Sep 13 2005,Brighton & Hove Albion FC,0-1,Sheffield United FC
-8,Tue Sep 13 2005,Plymouth Argyle FC,1-1,Crewe Alexandra FC
+8,Tue Sep 13 2005,Sheffield Wednesday FC,1-0,Leeds United FC
+8,Tue Sep 13 2005,Reading FC,3-2,Crystal Palace FC
+8,Tue Sep 13 2005,Ipswich Town FC,2-2,Southampton FC
 8,Wed Sep 14 2005,Derby County FC,1-1,Coventry City FC
 9,Fri Sep 16 2005,Preston North End FC,0-1,Stoke City FC
-9,Sat Sep 17 2005,Cardiff City FC,1-0,Crystal Palace FC
-9,Sat Sep 17 2005,Plymouth Argyle FC,1-0,Burnley FC
 9,Sat Sep 17 2005,Sheffield Wednesday FC,1-2,Millwall FC
 9,Sat Sep 17 2005,Wolverhampton Wanderers FC,0-0,Leicester City FC
 9,Sat Sep 17 2005,Watford FC,2-3,Sheffield United FC
 9,Sat Sep 17 2005,Hull City AFC,0-1,Luton Town FC
 9,Sat Sep 17 2005,Brighton & Hove Albion FC,2-2,Coventry City FC
 9,Sat Sep 17 2005,Queens Park Rangers FC,0-1,Leeds United FC
+9,Sat Sep 17 2005,Plymouth Argyle FC,1-0,Burnley FC
+9,Sat Sep 17 2005,Cardiff City FC,1-0,Crystal Palace FC
 9,Sat Sep 17 2005,Reading FC,1-0,Crewe Alexandra FC
 9,Sun Sep 18 2005,Ipswich Town FC,0-1,Norwich City FC
 9,Sun Sep 18 2005,Derby County FC,2-2,Southampton FC
 10,Fri Sep 23 2005,Luton Town FC,2-2,Sheffield Wednesday FC
-10,Sat Sep 24 2005,Sheffield United FC,2-1,Derby County FC
-10,Sat Sep 24 2005,Millwall FC,0-0,Cardiff City FC
 10,Sat Sep 24 2005,Norwich City FC,0-1,Reading FC
 10,Sat Sep 24 2005,Southampton FC,0-0,Plymouth Argyle FC
-10,Sat Sep 24 2005,Coventry City FC,0-2,Hull City AFC
+10,Sat Sep 24 2005,Sheffield United FC,2-1,Derby County FC
 10,Sat Sep 24 2005,Stoke City FC,1-3,Wolverhampton Wanderers FC
 10,Sat Sep 24 2005,Burnley FC,1-1,Brighton & Hove Albion FC
 10,Sat Sep 24 2005,Leicester City FC,1-2,Queens Park Rangers FC
 10,Sat Sep 24 2005,Leeds United FC,0-2,Ipswich Town FC
 10,Sat Sep 24 2005,Crystal Palace FC,1-1,Preston North End FC
 10,Sat Sep 24 2005,Crewe Alexandra FC,0-0,Watford FC
-11,Tue Sep 27 2005,Norwich City FC,2-1,Hull City AFC
-11,Tue Sep 27 2005,Crystal Palace FC,2-0,Sheffield Wednesday FC
+10,Sat Sep 24 2005,Coventry City FC,0-2,Hull City AFC
+10,Sat Sep 24 2005,Millwall FC,0-0,Cardiff City FC
 11,Tue Sep 27 2005,Stoke City FC,0-3,Cardiff City FC
 11,Tue Sep 27 2005,Sheffield United FC,2-0,Plymouth Argyle FC
-11,Tue Sep 27 2005,Leicester City FC,0-0,Brighton & Hove Albion FC
+11,Tue Sep 27 2005,Norwich City FC,2-1,Hull City AFC
 11,Tue Sep 27 2005,Millwall FC,1-1,Queens Park Rangers FC
+11,Tue Sep 27 2005,Luton Town FC,3-0,Preston North End FC
+11,Tue Sep 27 2005,Crystal Palace FC,2-0,Sheffield Wednesday FC
 11,Tue Sep 27 2005,Crewe Alexandra FC,0-4,Wolverhampton Wanderers FC
 11,Tue Sep 27 2005,Burnley FC,3-0,Ipswich Town FC
-11,Tue Sep 27 2005,Luton Town FC,3-0,Preston North End FC
+11,Tue Sep 27 2005,Leicester City FC,0-0,Brighton & Hove Albion FC
 11,Wed Sep 28 2005,Southampton FC,0-0,Reading FC
 11,Wed Sep 28 2005,Leeds United FC,3-1,Derby County FC
 11,Wed Sep 28 2005,Coventry City FC,3-1,Watford FC
 12,Fri Sep 30 2005,Wolverhampton Wanderers FC,0-1,Burnley FC
 12,Fri Sep 30 2005,Hull City AFC,1-1,Millwall FC
-12,Sat Oct 1 2005,Cardiff City FC,1-2,Luton Town FC
-12,Sat Oct 1 2005,Brighton & Hove Albion FC,1-3,Norwich City FC
 12,Sat Oct 1 2005,Preston North End FC,1-1,Southampton FC
 12,Sat Oct 1 2005,Sheffield Wednesday FC,3-2,Coventry City FC
 12,Sat Oct 1 2005,Reading FC,2-1,Sheffield United FC
-12,Sat Oct 1 2005,Derby County FC,1-1,Leicester City FC
+12,Sat Oct 1 2005,Watford FC,0-0,Leeds United FC
 12,Sat Oct 1 2005,Plymouth Argyle FC,2-1,Stoke City FC
 12,Sat Oct 1 2005,Ipswich Town FC,2-1,Crewe Alexandra FC
-12,Sat Oct 1 2005,Watford FC,0-0,Leeds United FC
+12,Sat Oct 1 2005,Derby County FC,1-1,Leicester City FC
+12,Sat Oct 1 2005,Cardiff City FC,1-2,Luton Town FC
+12,Sat Oct 1 2005,Brighton & Hove Albion FC,1-3,Norwich City FC
 12,Mon Oct 3 2005,Queens Park Rangers FC,1-3,Crystal Palace FC
-13,Sat Oct 15 2005,Southampton FC,1-1,Hull City AFC
-13,Sat Oct 15 2005,Brighton & Hove Albion FC,1-2,Cardiff City FC
 13,Sat Oct 15 2005,Burnley FC,1-2,Leeds United FC
 13,Sat Oct 15 2005,Watford FC,1-2,Leicester City FC
-13,Sat Oct 15 2005,Coventry City FC,1-4,Crystal Palace FC
-13,Sat Oct 15 2005,Crewe Alexandra FC,3-1,Luton Town FC
+13,Sat Oct 15 2005,Southampton FC,1-1,Hull City AFC
+13,Sat Oct 15 2005,Sheffield United FC,1-0,Wolverhampton Wanderers FC
 13,Sat Oct 15 2005,Preston North End FC,1-1,Queens Park Rangers FC
 13,Sat Oct 15 2005,Plymouth Argyle FC,1-1,Sheffield Wednesday FC
 13,Sat Oct 15 2005,Norwich City FC,1-1,Millwall FC
 13,Sat Oct 15 2005,Derby County FC,2-1,Stoke City FC
-13,Sat Oct 15 2005,Sheffield United FC,1-0,Wolverhampton Wanderers FC
+13,Sat Oct 15 2005,Crewe Alexandra FC,3-1,Luton Town FC
+13,Sat Oct 15 2005,Coventry City FC,1-4,Crystal Palace FC
+13,Sat Oct 15 2005,Brighton & Hove Albion FC,1-2,Cardiff City FC
 13,Sun Oct 16 2005,Reading FC,2-0,Ipswich Town FC
-14,Tue Oct 18 2005,Sheffield Wednesday FC,1-1,Watford FC
-14,Tue Oct 18 2005,Cardiff City FC,2-2,Preston North End FC
 14,Tue Oct 18 2005,Wolverhampton Wanderers FC,1-1,Derby County FC
 14,Tue Oct 18 2005,Stoke City FC,2-0,Crewe Alexandra FC
-14,Tue Oct 18 2005,Luton Town FC,4-2,Norwich City FC
+14,Tue Oct 18 2005,Sheffield Wednesday FC,1-1,Watford FC
 14,Tue Oct 18 2005,Queens Park Rangers FC,1-1,Plymouth Argyle FC
 14,Tue Oct 18 2005,Millwall FC,0-4,Sheffield United FC
-14,Tue Oct 18 2005,Hull City AFC,1-1,Reading FC
+14,Tue Oct 18 2005,Crystal Palace FC,0-1,Brighton & Hove Albion FC
 14,Tue Oct 18 2005,Leicester City FC,0-1,Burnley FC
 14,Tue Oct 18 2005,Leeds United FC,2-1,Southampton FC
 14,Tue Oct 18 2005,Ipswich Town FC,2-2,Coventry City FC
-14,Tue Oct 18 2005,Crystal Palace FC,0-1,Brighton & Hove Albion FC
+14,Tue Oct 18 2005,Hull City AFC,1-1,Reading FC
+14,Tue Oct 18 2005,Cardiff City FC,2-2,Preston North End FC
+14,Tue Oct 18 2005,Luton Town FC,4-2,Norwich City FC
 15,Fri Oct 21 2005,Leeds United FC,1-1,Sheffield United FC
-15,Sat Oct 22 2005,Hull City AFC,2-1,Derby County FC
-15,Sat Oct 22 2005,Luton Town FC,1-1,Plymouth Argyle FC
 15,Sat Oct 22 2005,Wolverhampton Wanderers FC,1-1,Preston North End FC
-15,Sat Oct 22 2005,Crystal Palace FC,2-0,Burnley FC
+15,Sat Oct 22 2005,Stoke City FC,0-1,Reading FC
 15,Sat Oct 22 2005,Queens Park Rangers FC,3-0,Norwich City FC
 15,Sat Oct 22 2005,Millwall FC,0-2,Southampton FC
 15,Sat Oct 22 2005,Cardiff City FC,6-1,Crewe Alexandra FC
 15,Sat Oct 22 2005,Ipswich Town FC,0-1,Watford FC
-15,Sat Oct 22 2005,Stoke City FC,0-1,Reading FC
+15,Sat Oct 22 2005,Hull City AFC,2-1,Derby County FC
+15,Sat Oct 22 2005,Crystal Palace FC,2-0,Burnley FC
+15,Sat Oct 22 2005,Luton Town FC,1-1,Plymouth Argyle FC
 15,Sun Oct 23 2005,Leicester City FC,2-1,Coventry City FC
 15,Mon Oct 24 2005,Sheffield Wednesday FC,1-1,Brighton & Hove Albion FC
 16,Fri Oct 28 2005,Burnley FC,1-0,Hull City AFC
-16,Sat Oct 29 2005,Southampton FC,2-0,Stoke City FC
-16,Sat Oct 29 2005,Coventry City FC,1-0,Luton Town FC
 16,Sat Oct 29 2005,Watford FC,3-1,Wolverhampton Wanderers FC
-16,Sat Oct 29 2005,Crewe Alexandra FC,2-2,Crystal Palace FC
+16,Sat Oct 29 2005,Southampton FC,2-0,Stoke City FC
 16,Sat Oct 29 2005,Sheffield United FC,0-0,Cardiff City FC
 16,Sat Oct 29 2005,Reading FC,1-1,Leeds United FC
 16,Sat Oct 29 2005,Preston North End FC,0-0,Leicester City FC
-16,Sat Oct 29 2005,Brighton & Hove Albion FC,1-1,Ipswich Town FC
-16,Sat Oct 29 2005,Derby County FC,1-2,Queens Park Rangers FC
 16,Sat Oct 29 2005,Norwich City FC,0-1,Sheffield Wednesday FC
+16,Sat Oct 29 2005,Derby County FC,1-2,Queens Park Rangers FC
+16,Sat Oct 29 2005,Crewe Alexandra FC,2-2,Crystal Palace FC
+16,Sat Oct 29 2005,Brighton & Hove Albion FC,1-1,Ipswich Town FC
+16,Sat Oct 29 2005,Coventry City FC,1-0,Luton Town FC
 16,Sun Oct 30 2005,Plymouth Argyle FC,0-0,Millwall FC
-17,Tue Nov 1 2005,Sheffield United FC,4-0,Luton Town FC
-17,Tue Nov 1 2005,Reading FC,2-0,Sheffield Wednesday FC
 17,Tue Nov 1 2005,Norwich City FC,1-0,Cardiff City FC
-17,Tue Nov 1 2005,Brighton & Hove Albion FC,1-1,Wolverhampton Wanderers FC
+17,Tue Nov 1 2005,Sheffield United FC,4-0,Luton Town FC
 17,Tue Nov 1 2005,Preston North End FC,3-0,Hull City AFC
 17,Tue Nov 1 2005,Watford FC,3-1,Queens Park Rangers FC
 17,Tue Nov 1 2005,Crewe Alexandra FC,1-0,Leeds United FC
+17,Tue Nov 1 2005,Reading FC,2-0,Sheffield Wednesday FC
+17,Tue Nov 1 2005,Brighton & Hove Albion FC,1-1,Wolverhampton Wanderers FC
 17,Tue Nov 1 2005,Burnley FC,2-1,Millwall FC
-17,Wed Nov 2 2005,Coventry City FC,1-2,Stoke City FC
 17,Wed Nov 2 2005,Derby County FC,3-3,Ipswich Town FC
-18,Sat Nov 5 2005,Queens Park Rangers FC,1-2,Reading FC
-18,Sat Nov 5 2005,Luton Town FC,2-3,Burnley FC
-18,Sat Nov 5 2005,Hull City AFC,1-2,Watford FC
-18,Sat Nov 5 2005,Ipswich Town FC,3-1,Plymouth Argyle FC
+17,Wed Nov 2 2005,Coventry City FC,1-2,Stoke City FC
 18,Sat Nov 5 2005,Millwall FC,1-3,Crewe Alexandra FC
 18,Sat Nov 5 2005,Stoke City FC,3-0,Brighton & Hove Albion FC
-18,Sat Nov 5 2005,Leicester City FC,0-0,Southampton FC
-18,Sat Nov 5 2005,Leeds United FC,0-0,Preston North End FC
+18,Sat Nov 5 2005,Sheffield Wednesday FC,2-1,Derby County FC
+18,Sat Nov 5 2005,Queens Park Rangers FC,1-2,Reading FC
 18,Sat Nov 5 2005,Wolverhampton Wanderers FC,2-0,Norwich City FC
 18,Sat Nov 5 2005,Crystal Palace FC,2-3,Sheffield United FC
-18,Sat Nov 5 2005,Sheffield Wednesday FC,2-1,Derby County FC
+18,Sat Nov 5 2005,Leicester City FC,0-0,Southampton FC
+18,Sat Nov 5 2005,Leeds United FC,0-0,Preston North End FC
+18,Sat Nov 5 2005,Ipswich Town FC,3-1,Plymouth Argyle FC
+18,Sat Nov 5 2005,Hull City AFC,1-2,Watford FC
+18,Sat Nov 5 2005,Luton Town FC,2-3,Burnley FC
 18,Sun Nov 6 2005,Cardiff City FC,0-0,Coventry City FC
 6,Wed Nov 9 2005,Sheffield Wednesday FC,1-3,Cardiff City FC
 19,Fri Nov 18 2005,Derby County FC,0-3,Wolverhampton Wanderers FC
 19,Sat Nov 19 2005,Preston North End FC,2-1,Cardiff City FC
-19,Sat Nov 19 2005,Burnley FC,1-0,Leicester City FC
-19,Sat Nov 19 2005,Coventry City FC,1-1,Ipswich Town FC
-19,Sat Nov 19 2005,Crewe Alexandra FC,1-2,Stoke City FC
-19,Sat Nov 19 2005,Norwich City FC,2-0,Luton Town FC
+19,Sat Nov 19 2005,Southampton FC,3-4,Leeds United FC
 19,Sat Nov 19 2005,Sheffield United FC,2-2,Millwall FC
 19,Sat Nov 19 2005,Reading FC,3-1,Hull City AFC
 19,Sat Nov 19 2005,Watford FC,2-1,Sheffield Wednesday FC
 19,Sat Nov 19 2005,Plymouth Argyle FC,3-1,Queens Park Rangers FC
-19,Sat Nov 19 2005,Southampton FC,3-4,Leeds United FC
+19,Sat Nov 19 2005,Norwich City FC,2-0,Luton Town FC
+19,Sat Nov 19 2005,Crewe Alexandra FC,1-2,Stoke City FC
+19,Sat Nov 19 2005,Coventry City FC,1-1,Ipswich Town FC
+19,Sat Nov 19 2005,Burnley FC,1-0,Leicester City FC
 19,Sun Nov 20 2005,Brighton & Hove Albion FC,2-3,Crystal Palace FC
-20,Tue Nov 22 2005,Ipswich Town FC,0-3,Reading FC
-20,Tue Nov 22 2005,Cardiff City FC,1-1,Brighton & Hove Albion FC
-20,Tue Nov 22 2005,Luton Town FC,4-1,Crewe Alexandra FC
 20,Tue Nov 22 2005,Wolverhampton Wanderers FC,0-0,Sheffield United FC
 20,Tue Nov 22 2005,Stoke City FC,1-2,Derby County FC
 20,Tue Nov 22 2005,Sheffield Wednesday FC,0-0,Plymouth Argyle FC
@@ -235,156 +232,156 @@ Matchday,Date,Team 1,FT,Team 2
 20,Tue Nov 22 2005,Crystal Palace FC,2-0,Coventry City FC
 20,Tue Nov 22 2005,Leicester City FC,2-2,Watford FC
 20,Tue Nov 22 2005,Leeds United FC,2-0,Burnley FC
+20,Tue Nov 22 2005,Ipswich Town FC,0-3,Reading FC
 20,Tue Nov 22 2005,Hull City AFC,1-1,Southampton FC
-21,Sat Nov 26 2005,Sheffield Wednesday FC,0-2,Stoke City FC
-21,Sat Nov 26 2005,Brighton & Hove Albion FC,0-0,Derby County FC
-21,Sat Nov 26 2005,Coventry City FC,2-2,Norwich City FC
+20,Tue Nov 22 2005,Cardiff City FC,1-1,Brighton & Hove Albion FC
+20,Tue Nov 22 2005,Luton Town FC,4-1,Crewe Alexandra FC
 21,Sat Nov 26 2005,Wolverhampton Wanderers FC,0-0,Southampton FC
-21,Sat Nov 26 2005,Burnley FC,3-0,Crewe Alexandra FC
+21,Sat Nov 26 2005,Sheffield Wednesday FC,0-2,Stoke City FC
 21,Sat Nov 26 2005,Queens Park Rangers FC,2-2,Hull City AFC
-21,Sat Nov 26 2005,Leicester City FC,4-2,Sheffield United FC
+21,Sat Nov 26 2005,Preston North End FC,1-1,Watford FC
 21,Sat Nov 26 2005,Plymouth Argyle FC,0-2,Reading FC
 21,Sat Nov 26 2005,Millwall FC,0-1,Leeds United FC
 21,Sat Nov 26 2005,Luton Town FC,2-0,Crystal Palace FC
-21,Sat Nov 26 2005,Preston North End FC,1-1,Watford FC
+21,Sat Nov 26 2005,Leicester City FC,4-2,Sheffield United FC
+21,Sat Nov 26 2005,Coventry City FC,2-2,Norwich City FC
+21,Sat Nov 26 2005,Burnley FC,3-0,Crewe Alexandra FC
+21,Sat Nov 26 2005,Brighton & Hove Albion FC,0-0,Derby County FC
 21,Mon Nov 28 2005,Cardiff City FC,2-1,Ipswich Town FC
-22,Sat Dec 3 2005,Ipswich Town FC,1-1,Wolverhampton Wanderers FC
-22,Sat Dec 3 2005,Crewe Alexandra FC,0-2,Preston North End FC
-22,Sat Dec 3 2005,Crystal Palace FC,1-1,Millwall FC
 22,Sat Dec 3 2005,Watford FC,2-0,Brighton & Hove Albion FC
 22,Sat Dec 3 2005,Stoke City FC,1-2,Queens Park Rangers FC
 22,Sat Dec 3 2005,Southampton FC,1-1,Burnley FC
 22,Sat Dec 3 2005,Sheffield United FC,1-0,Sheffield Wednesday FC
-22,Sat Dec 3 2005,Derby County FC,2-0,Norwich City FC
+22,Sat Dec 3 2005,Reading FC,3-0,Luton Town FC
 22,Sat Dec 3 2005,Leeds United FC,2-1,Leicester City FC
 22,Sat Dec 3 2005,Coventry City FC,3-1,Plymouth Argyle FC
 22,Sat Dec 3 2005,Hull City AFC,2-0,Cardiff City FC
-22,Sat Dec 3 2005,Reading FC,3-0,Luton Town FC
+22,Sat Dec 3 2005,Derby County FC,2-0,Norwich City FC
+22,Sat Dec 3 2005,Crystal Palace FC,1-1,Millwall FC
+22,Sat Dec 3 2005,Crewe Alexandra FC,0-2,Preston North End FC
+22,Sat Dec 3 2005,Ipswich Town FC,1-1,Wolverhampton Wanderers FC
 23,Fri Dec 9 2005,Stoke City FC,3-2,Leicester City FC
-23,Sat Dec 10 2005,Crewe Alexandra FC,1-2,Norwich City FC
-23,Sat Dec 10 2005,Crystal Palace FC,1-1,Wolverhampton Wanderers FC
-23,Sat Dec 10 2005,Coventry City FC,1-0,Millwall FC
 23,Sat Dec 10 2005,Ipswich Town FC,2-2,Queens Park Rangers FC
 23,Sat Dec 10 2005,Sheffield United FC,3-0,Burnley FC
 23,Sat Dec 10 2005,Reading FC,5-1,Brighton & Hove Albion FC
 23,Sat Dec 10 2005,Leeds United FC,0-1,Cardiff City FC
 23,Sat Dec 10 2005,Watford FC,1-1,Plymouth Argyle FC
 23,Sat Dec 10 2005,Hull City AFC,1-0,Sheffield Wednesday FC
+23,Sat Dec 10 2005,Crewe Alexandra FC,1-2,Norwich City FC
+23,Sat Dec 10 2005,Coventry City FC,1-0,Millwall FC
 23,Sat Dec 10 2005,Derby County FC,1-1,Preston North End FC
+23,Sat Dec 10 2005,Crystal Palace FC,1-1,Wolverhampton Wanderers FC
 23,Sun Dec 11 2005,Southampton FC,1-0,Luton Town FC
-24,Fri Dec 16 2005,Preston North End FC,0-0,Sheffield United FC
 24,Fri Dec 16 2005,Brighton & Hove Albion FC,2-1,Hull City AFC
-24,Sat Dec 17 2005,Wolverhampton Wanderers FC,1-0,Leeds United FC
-24,Sat Dec 17 2005,Burnley FC,4-1,Watford FC
-24,Sat Dec 17 2005,Norwich City FC,3-1,Southampton FC
+24,Fri Dec 16 2005,Preston North End FC,0-0,Sheffield United FC
 24,Sat Dec 17 2005,Millwall FC,0-2,Reading FC
 24,Sat Dec 17 2005,Leicester City FC,1-1,Crewe Alexandra FC
-24,Sat Dec 17 2005,Cardiff City FC,0-0,Derby County FC
+24,Sat Dec 17 2005,Sheffield Wednesday FC,0-1,Ipswich Town FC
 24,Sat Dec 17 2005,Plymouth Argyle FC,2-0,Crystal Palace FC
 24,Sat Dec 17 2005,Luton Town FC,2-3,Stoke City FC
-24,Sat Dec 17 2005,Sheffield Wednesday FC,0-1,Ipswich Town FC
+24,Sat Dec 17 2005,Cardiff City FC,0-0,Derby County FC
+24,Sat Dec 17 2005,Burnley FC,4-1,Watford FC
+24,Sat Dec 17 2005,Norwich City FC,3-1,Southampton FC
+24,Sat Dec 17 2005,Wolverhampton Wanderers FC,1-0,Leeds United FC
 24,Mon Dec 19 2005,Queens Park Rangers FC,0-1,Coventry City FC
-25,Mon Dec 26 2005,Preston North End FC,0-0,Sheffield Wednesday FC
-25,Mon Dec 26 2005,Burnley FC,1-0,Stoke City FC
-25,Mon Dec 26 2005,Crewe Alexandra FC,2-2,Hull City AFC
 25,Mon Dec 26 2005,Watford FC,3-0,Southampton FC
 25,Mon Dec 26 2005,Cardiff City FC,0-2,Plymouth Argyle FC
 25,Mon Dec 26 2005,Brighton & Hove Albion FC,1-0,Queens Park Rangers FC
-25,Mon Dec 26 2005,Derby County FC,1-1,Luton Town FC
+25,Mon Dec 26 2005,Preston North End FC,0-0,Sheffield Wednesday FC
 25,Mon Dec 26 2005,Wolverhampton Wanderers FC,0-2,Reading FC
 25,Mon Dec 26 2005,Sheffield United FC,1-3,Norwich City FC
 25,Mon Dec 26 2005,Leicester City FC,1-1,Millwall FC
 25,Mon Dec 26 2005,Leeds United FC,3-1,Coventry City FC
 25,Mon Dec 26 2005,Ipswich Town FC,0-2,Crystal Palace FC
-26,Wed Dec 28 2005,Crystal Palace FC,2-0,Derby County FC
-26,Wed Dec 28 2005,Reading FC,2-0,Leicester City FC
-26,Wed Dec 28 2005,Norwich City FC,2-1,Burnley FC
+25,Mon Dec 26 2005,Derby County FC,1-1,Luton Town FC
+25,Mon Dec 26 2005,Burnley FC,1-0,Stoke City FC
+25,Mon Dec 26 2005,Crewe Alexandra FC,2-2,Hull City AFC
 26,Wed Dec 28 2005,Stoke City FC,0-1,Leeds United FC
 26,Wed Dec 28 2005,Southampton FC,0-1,Sheffield United FC
 26,Wed Dec 28 2005,Sheffield Wednesday FC,0-2,Wolverhampton Wanderers FC
 26,Wed Dec 28 2005,Queens Park Rangers FC,1-0,Cardiff City FC
-26,Wed Dec 28 2005,Coventry City FC,1-1,Crewe Alexandra FC
+26,Wed Dec 28 2005,Crystal Palace FC,2-0,Derby County FC
 26,Wed Dec 28 2005,Millwall FC,0-0,Watford FC
 26,Wed Dec 28 2005,Luton Town FC,3-0,Brighton & Hove Albion FC
 26,Wed Dec 28 2005,Hull City AFC,2-0,Ipswich Town FC
-27,Sat Dec 31 2005,Cardiff City FC,2-1,Southampton FC
-27,Sat Dec 31 2005,Leicester City FC,0-1,Norwich City FC
-27,Sat Dec 31 2005,Derby County FC,2-2,Reading FC
-27,Sat Dec 31 2005,Crewe Alexandra FC,3-4,Queens Park Rangers FC
+26,Wed Dec 28 2005,Coventry City FC,1-1,Crewe Alexandra FC
+26,Wed Dec 28 2005,Reading FC,2-0,Leicester City FC
+26,Wed Dec 28 2005,Norwich City FC,2-1,Burnley FC
 27,Sat Dec 31 2005,Leeds United FC,2-0,Hull City AFC
 27,Sat Dec 31 2005,Watford FC,1-2,Crystal Palace FC
 27,Sat Dec 31 2005,Preston North End FC,3-1,Coventry City FC
 27,Sat Dec 31 2005,Ipswich Town FC,1-0,Luton Town FC
-27,Sat Dec 31 2005,Sheffield United FC,2-1,Stoke City FC
+27,Sat Dec 31 2005,Cardiff City FC,2-1,Southampton FC
 27,Sat Dec 31 2005,Burnley FC,1-2,Sheffield Wednesday FC
 27,Sat Dec 31 2005,Brighton & Hove Albion FC,1-2,Millwall FC
 27,Sat Dec 31 2005,Wolverhampton Wanderers FC,1-1,Plymouth Argyle FC
-28,Mon Jan 2 2006,Coventry City FC,2-0,Wolverhampton Wanderers FC
-28,Mon Jan 2 2006,Norwich City FC,0-3,Preston North End FC
-28,Mon Jan 2 2006,Plymouth Argyle FC,0-3,Leeds United FC
-28,Mon Jan 2 2006,Millwall FC,2-1,Derby County FC
+27,Sat Dec 31 2005,Sheffield United FC,2-1,Stoke City FC
+27,Sat Dec 31 2005,Leicester City FC,0-1,Norwich City FC
+27,Sat Dec 31 2005,Crewe Alexandra FC,3-4,Queens Park Rangers FC
+27,Sat Dec 31 2005,Derby County FC,2-2,Reading FC
 28,Mon Jan 2 2006,Luton Town FC,1-2,Watford FC
 28,Mon Jan 2 2006,Stoke City FC,2-2,Ipswich Town FC
 28,Mon Jan 2 2006,Southampton FC,2-1,Brighton & Hove Albion FC
 28,Mon Jan 2 2006,Sheffield Wednesday FC,3-0,Crewe Alexandra FC
 28,Mon Jan 2 2006,Reading FC,5-1,Cardiff City FC
 28,Mon Jan 2 2006,Queens Park Rangers FC,1-1,Burnley FC
+28,Mon Jan 2 2006,Norwich City FC,0-3,Preston North End FC
+28,Mon Jan 2 2006,Millwall FC,2-1,Derby County FC
 28,Mon Jan 2 2006,Crystal Palace FC,2-0,Leicester City FC
+28,Mon Jan 2 2006,Coventry City FC,2-0,Wolverhampton Wanderers FC
+28,Mon Jan 2 2006,Plymouth Argyle FC,0-3,Leeds United FC
 28,Tue Jan 3 2006,Hull City AFC,1-3,Sheffield United FC
 29,Fri Jan 13 2006,Wolverhampton Wanderers FC,2-1,Luton Town FC
+29,Sat Jan 14 2006,Brighton & Hove Albion FC,2-1,Leeds United FC
+29,Sat Jan 14 2006,Sheffield Wednesday FC,2-1,Leicester City FC
+29,Sat Jan 14 2006,Reading FC,2-0,Coventry City FC
+29,Sat Jan 14 2006,Queens Park Rangers FC,1-0,Southampton FC
+29,Sat Jan 14 2006,Watford FC,1-0,Stoke City FC
+29,Sat Jan 14 2006,Plymouth Argyle FC,1-1,Norwich City FC
+29,Sat Jan 14 2006,Ipswich Town FC,1-1,Sheffield United FC
 29,Sat Jan 14 2006,Hull City AFC,1-2,Crystal Palace FC
 29,Sat Jan 14 2006,Derby County FC,5-1,Crewe Alexandra FC
 29,Sat Jan 14 2006,Cardiff City FC,3-0,Burnley FC
 29,Sat Jan 14 2006,Preston North End FC,2-0,Millwall FC
-29,Sat Jan 14 2006,Brighton & Hove Albion FC,2-1,Leeds United FC
-29,Sat Jan 14 2006,Sheffield Wednesday FC,2-1,Leicester City FC
-29,Sat Jan 14 2006,Ipswich Town FC,1-1,Sheffield United FC
-29,Sat Jan 14 2006,Queens Park Rangers FC,1-0,Southampton FC
-29,Sat Jan 14 2006,Watford FC,1-0,Stoke City FC
-29,Sat Jan 14 2006,Plymouth Argyle FC,1-1,Norwich City FC
-29,Sat Jan 14 2006,Reading FC,2-0,Coventry City FC
 30,Fri Jan 20 2006,Crystal Palace FC,1-1,Reading FC
-30,Sat Jan 21 2006,Burnley FC,0-2,Preston North End FC
-30,Sat Jan 21 2006,Crewe Alexandra FC,1-2,Plymouth Argyle FC
-30,Sat Jan 21 2006,Leeds United FC,3-0,Sheffield Wednesday FC
-30,Sat Jan 21 2006,Coventry City FC,6-1,Derby County FC
 30,Sat Jan 21 2006,Millwall FC,0-0,Wolverhampton Wanderers FC
 30,Sat Jan 21 2006,Southampton FC,0-2,Ipswich Town FC
-30,Sat Jan 21 2006,Leicester City FC,1-2,Cardiff City FC
+30,Sat Jan 21 2006,Sheffield United FC,3-1,Brighton & Hove Albion FC
 30,Sat Jan 21 2006,Norwich City FC,2-3,Watford FC
 30,Sat Jan 21 2006,Stoke City FC,0-3,Hull City AFC
 30,Sat Jan 21 2006,Luton Town FC,2-0,Queens Park Rangers FC
-30,Sat Jan 21 2006,Sheffield United FC,3-1,Brighton & Hove Albion FC
+30,Sat Jan 21 2006,Leicester City FC,1-2,Cardiff City FC
+30,Sat Jan 21 2006,Leeds United FC,3-0,Sheffield Wednesday FC
+30,Sat Jan 21 2006,Crewe Alexandra FC,1-2,Plymouth Argyle FC
+30,Sat Jan 21 2006,Burnley FC,0-2,Preston North End FC
+30,Sat Jan 21 2006,Coventry City FC,6-1,Derby County FC
 17,Tue Jan 24 2006,Plymouth Argyle FC,1-0,Leicester City FC
 17,Wed Jan 25 2006,Southampton FC,0-0,Crystal Palace FC
 31,Sat Jan 28 2006,Watford FC,4-1,Crewe Alexandra FC
-31,Tue Jan 31 2006,Sheffield Wednesday FC,0-2,Luton Town FC
-31,Tue Jan 31 2006,Brighton & Hove Albion FC,0-0,Burnley FC
 31,Tue Jan 31 2006,Preston North End FC,2-0,Crystal Palace FC
 31,Tue Jan 31 2006,Queens Park Rangers FC,2-3,Leicester City FC
-31,Tue Jan 31 2006,Reading FC,4-0,Norwich City FC
+31,Tue Jan 31 2006,Sheffield Wednesday FC,0-2,Luton Town FC
 31,Tue Jan 31 2006,Plymouth Argyle FC,2-1,Southampton FC
 31,Tue Jan 31 2006,Ipswich Town FC,1-1,Leeds United FC
 31,Tue Jan 31 2006,Hull City AFC,1-2,Coventry City FC
 31,Tue Jan 31 2006,Cardiff City FC,1-1,Millwall FC
+31,Tue Jan 31 2006,Brighton & Hove Albion FC,0-0,Burnley FC
+31,Tue Jan 31 2006,Reading FC,4-0,Norwich City FC
 31,Wed Feb 1 2006,Derby County FC,0-1,Sheffield United FC
-32,Sat Feb 4 2006,Coventry City FC,2-0,Brighton & Hove Albion FC
-32,Sat Feb 4 2006,Crystal Palace FC,1-0,Cardiff City FC
-32,Sat Feb 4 2006,Crewe Alexandra FC,3-4,Reading FC
 32,Sat Feb 4 2006,Leicester City FC,1-0,Wolverhampton Wanderers FC
 32,Sat Feb 4 2006,Southampton FC,0-0,Derby County FC
 32,Sat Feb 4 2006,Millwall FC,0-1,Sheffield Wednesday FC
 32,Sat Feb 4 2006,Luton Town FC,2-3,Hull City AFC
 32,Sat Feb 4 2006,Stoke City FC,0-0,Preston North End FC
 32,Sat Feb 4 2006,Burnley FC,1-0,Plymouth Argyle FC
+32,Sat Feb 4 2006,Crystal Palace FC,1-0,Cardiff City FC
+32,Sat Feb 4 2006,Crewe Alexandra FC,3-4,Reading FC
+32,Sat Feb 4 2006,Coventry City FC,2-0,Brighton & Hove Albion FC
 32,Sat Feb 4 2006,Leeds United FC,2-0,Queens Park Rangers FC
 32,Sun Feb 5 2006,Norwich City FC,1-2,Ipswich Town FC
 32,Mon Feb 6 2006,Sheffield United FC,1-4,Watford FC
 33,Fri Feb 10 2006,Reading FC,2-0,Southampton FC
 33,Sat Feb 11 2006,Queens Park Rangers FC,1-0,Millwall FC
-33,Sat Feb 11 2006,Cardiff City FC,3-0,Stoke City FC
-33,Sat Feb 11 2006,Derby County FC,0-0,Leeds United FC
-33,Sat Feb 11 2006,Brighton & Hove Albion FC,1-2,Leicester City FC
 33,Sat Feb 11 2006,Watford FC,4-0,Coventry City FC
 33,Sat Feb 11 2006,Sheffield Wednesday FC,0-0,Crystal Palace FC
 33,Sat Feb 11 2006,Wolverhampton Wanderers FC,1-1,Crewe Alexandra FC
@@ -392,111 +389,114 @@ Matchday,Date,Team 1,FT,Team 2
 33,Sat Feb 11 2006,Plymouth Argyle FC,0-0,Sheffield United FC
 33,Sat Feb 11 2006,Ipswich Town FC,2-1,Burnley FC
 33,Sat Feb 11 2006,Hull City AFC,1-1,Norwich City FC
-34,Tue Feb 14 2006,Crewe Alexandra FC,1-2,Ipswich Town FC
-34,Tue Feb 14 2006,Leeds United FC,2-1,Watford FC
-34,Tue Feb 14 2006,Burnley FC,0-1,Wolverhampton Wanderers FC
+33,Sat Feb 11 2006,Brighton & Hove Albion FC,1-2,Leicester City FC
+33,Sat Feb 11 2006,Cardiff City FC,3-0,Stoke City FC
+33,Sat Feb 11 2006,Derby County FC,0-0,Leeds United FC
 34,Tue Feb 14 2006,Stoke City FC,0-0,Plymouth Argyle FC
 34,Tue Feb 14 2006,Sheffield United FC,1-2,Reading FC
 34,Tue Feb 14 2006,Norwich City FC,3-0,Brighton & Hove Albion FC
 34,Tue Feb 14 2006,Millwall FC,1-1,Hull City AFC
 34,Tue Feb 14 2006,Luton Town FC,3-3,Cardiff City FC
 34,Tue Feb 14 2006,Crystal Palace FC,2-1,Queens Park Rangers FC
+34,Tue Feb 14 2006,Leeds United FC,2-1,Watford FC
+34,Tue Feb 14 2006,Crewe Alexandra FC,1-2,Ipswich Town FC
+34,Tue Feb 14 2006,Burnley FC,0-1,Wolverhampton Wanderers FC
 34,Tue Feb 14 2006,Leicester City FC,2-2,Derby County FC
 34,Wed Feb 15 2006,Coventry City FC,2-1,Sheffield Wednesday FC
 34,Wed Feb 15 2006,Southampton FC,0-0,Preston North End FC
 35,Fri Feb 17 2006,Luton Town FC,3-2,Reading FC
-35,Sat Feb 18 2006,Cardiff City FC,1-0,Hull City AFC
-35,Sat Feb 18 2006,Leicester City FC,1-1,Leeds United FC
-35,Sat Feb 18 2006,Norwich City FC,2-0,Derby County FC
 35,Sat Feb 18 2006,Brighton & Hove Albion FC,0-1,Watford FC
 35,Sat Feb 18 2006,Sheffield Wednesday FC,1-2,Sheffield United FC
 35,Sat Feb 18 2006,Plymouth Argyle FC,3-1,Coventry City FC
 35,Sat Feb 18 2006,Wolverhampton Wanderers FC,1-0,Ipswich Town FC
 35,Sat Feb 18 2006,Millwall FC,1-1,Crystal Palace FC
-36,Sat Feb 25 2006,Reading FC,2-1,Preston North End FC
-36,Sat Feb 25 2006,Crewe Alexandra FC,2-1,Brighton & Hove Albion FC
-36,Sat Feb 25 2006,Crystal Palace FC,4-1,Norwich City FC
-36,Sat Feb 25 2006,Derby County FC,1-0,Plymouth Argyle FC
-36,Sat Feb 25 2006,Hull City AFC,2-3,Wolverhampton Wanderers FC
-36,Sat Feb 25 2006,Ipswich Town FC,2-0,Leicester City FC
+35,Sat Feb 18 2006,Leicester City FC,1-1,Leeds United FC
+35,Sat Feb 18 2006,Cardiff City FC,1-0,Hull City AFC
+35,Sat Feb 18 2006,Norwich City FC,2-0,Derby County FC
 36,Sat Feb 25 2006,Watford FC,2-1,Cardiff City FC
 36,Sat Feb 25 2006,Stoke City FC,2-1,Millwall FC
 36,Sat Feb 25 2006,Southampton FC,3-0,Sheffield Wednesday FC
 36,Sat Feb 25 2006,Sheffield United FC,3-1,Queens Park Rangers FC
 36,Sat Feb 25 2006,Coventry City FC,1-0,Burnley FC
 36,Sat Feb 25 2006,Leeds United FC,2-1,Luton Town FC
+36,Sat Feb 25 2006,Ipswich Town FC,2-0,Leicester City FC
+36,Sat Feb 25 2006,Hull City AFC,2-3,Wolverhampton Wanderers FC
+36,Sat Feb 25 2006,Derby County FC,1-0,Plymouth Argyle FC
+36,Sat Feb 25 2006,Crystal Palace FC,4-1,Norwich City FC
+36,Sat Feb 25 2006,Crewe Alexandra FC,2-1,Brighton & Hove Albion FC
+36,Sat Feb 25 2006,Reading FC,2-1,Preston North End FC
 37,Fri Mar 3 2006,Sheffield United FC,0-0,Crewe Alexandra FC
-37,Sat Mar 4 2006,Norwich City FC,2-1,Stoke City FC
-37,Sat Mar 4 2006,Crystal Palace FC,1-2,Leeds United FC
-37,Sat Mar 4 2006,Cardiff City FC,1-0,Sheffield Wednesday FC
-37,Sat Mar 4 2006,Millwall FC,2-1,Luton Town FC
-37,Sat Mar 4 2006,Leicester City FC,3-2,Hull City AFC
-37,Sat Mar 4 2006,Burnley FC,0-3,Reading FC
 37,Sat Mar 4 2006,Watford FC,2-2,Derby County FC
 37,Sat Mar 4 2006,Southampton FC,1-1,Coventry City FC
 37,Sat Mar 4 2006,Queens Park Rangers FC,0-0,Wolverhampton Wanderers FC
 37,Sat Mar 4 2006,Plymouth Argyle FC,1-0,Brighton & Hove Albion FC
-31,Tue Mar 7 2006,Wolverhampton Wanderers FC,0-0,Stoke City FC
+37,Sat Mar 4 2006,Norwich City FC,2-1,Stoke City FC
+37,Sat Mar 4 2006,Burnley FC,0-3,Reading FC
+37,Sat Mar 4 2006,Leicester City FC,3-2,Hull City AFC
+37,Sat Mar 4 2006,Crystal Palace FC,1-2,Leeds United FC
+37,Sat Mar 4 2006,Cardiff City FC,1-0,Sheffield Wednesday FC
+37,Sat Mar 4 2006,Millwall FC,2-1,Luton Town FC
 26,Tue Mar 7 2006,Plymouth Argyle FC,0-0,Preston North End FC
-38,Sat Mar 11 2006,Hull City AFC,1-0,Plymouth Argyle FC
-38,Sat Mar 11 2006,Coventry City FC,2-0,Sheffield United FC
-38,Sat Mar 11 2006,Ipswich Town FC,1-1,Millwall FC
-38,Sat Mar 11 2006,Derby County FC,3-0,Burnley FC
-38,Sat Mar 11 2006,Brighton & Hove Albion FC,0-0,Preston North End FC
+31,Tue Mar 7 2006,Wolverhampton Wanderers FC,0-0,Stoke City FC
 38,Sat Mar 11 2006,Wolverhampton Wanderers FC,2-0,Cardiff City FC
 38,Sat Mar 11 2006,Sheffield Wednesday FC,1-1,Queens Park Rangers FC
 38,Sat Mar 11 2006,Reading FC,0-0,Watford FC
 38,Sat Mar 11 2006,Luton Town FC,1-2,Leicester City FC
 38,Sat Mar 11 2006,Leeds United FC,2-2,Norwich City FC
+38,Sat Mar 11 2006,Brighton & Hove Albion FC,0-0,Preston North End FC
+38,Sat Mar 11 2006,Hull City AFC,1-0,Plymouth Argyle FC
+38,Sat Mar 11 2006,Derby County FC,3-0,Burnley FC
 38,Sat Mar 11 2006,Crewe Alexandra FC,1-1,Southampton FC
+38,Sat Mar 11 2006,Coventry City FC,2-0,Sheffield United FC
+38,Sat Mar 11 2006,Ipswich Town FC,1-1,Millwall FC
 38,Mon Mar 13 2006,Stoke City FC,1-3,Crystal Palace FC
 37,Tue Mar 14 2006,Preston North End FC,3-1,Ipswich Town FC
 39,Sat Mar 18 2006,Plymouth Argyle FC,0-1,Cardiff City FC
-39,Sat Mar 18 2006,Hull City AFC,1-0,Crewe Alexandra FC
-39,Sat Mar 18 2006,Coventry City FC,1-1,Leeds United FC
-39,Sat Mar 18 2006,Millwall FC,0-1,Leicester City FC
-39,Sat Mar 18 2006,Crystal Palace FC,2-2,Ipswich Town FC
 39,Sat Mar 18 2006,Sheffield Wednesday FC,2-0,Preston North End FC
 39,Sat Mar 18 2006,Reading FC,1-1,Wolverhampton Wanderers FC
 39,Sat Mar 18 2006,Queens Park Rangers FC,1-1,Brighton & Hove Albion FC
 39,Sat Mar 18 2006,Stoke City FC,1-0,Burnley FC
 39,Sat Mar 18 2006,Norwich City FC,2-1,Sheffield United FC
+39,Sat Mar 18 2006,Coventry City FC,1-1,Leeds United FC
 39,Sat Mar 18 2006,Luton Town FC,1-0,Derby County FC
+39,Sat Mar 18 2006,Hull City AFC,1-0,Crewe Alexandra FC
+39,Sat Mar 18 2006,Crystal Palace FC,2-2,Ipswich Town FC
+39,Sat Mar 18 2006,Millwall FC,0-1,Leicester City FC
 39,Mon Mar 20 2006,Southampton FC,1-3,Watford FC
 6,Tue Mar 21 2006,Leeds United FC,0-1,Crystal Palace FC
 40,Fri Mar 24 2006,Burnley FC,2-0,Norwich City FC
 40,Sat Mar 25 2006,Preston North End FC,0-0,Plymouth Argyle FC
-40,Sat Mar 25 2006,Cardiff City FC,0-0,Queens Park Rangers FC
-40,Sat Mar 25 2006,Crewe Alexandra FC,4-1,Coventry City FC
-40,Sat Mar 25 2006,Leicester City FC,1-1,Reading FC
-40,Sat Mar 25 2006,Derby County FC,2-1,Crystal Palace FC
+40,Sat Mar 25 2006,Watford FC,0-2,Millwall FC
 40,Sat Mar 25 2006,Sheffield United FC,3-0,Southampton FC
 40,Sat Mar 25 2006,Wolverhampton Wanderers FC,1-3,Sheffield Wednesday FC
 40,Sat Mar 25 2006,Brighton & Hove Albion FC,1-1,Luton Town FC
 40,Sat Mar 25 2006,Leeds United FC,0-0,Stoke City FC
 40,Sat Mar 25 2006,Ipswich Town FC,1-1,Hull City AFC
-40,Sat Mar 25 2006,Watford FC,0-2,Millwall FC
+40,Sat Mar 25 2006,Derby County FC,2-1,Crystal Palace FC
+40,Sat Mar 25 2006,Crewe Alexandra FC,4-1,Coventry City FC
+40,Sat Mar 25 2006,Cardiff City FC,0-0,Queens Park Rangers FC
+40,Sat Mar 25 2006,Leicester City FC,1-1,Reading FC
 35,Tue Mar 28 2006,Burnley FC,1-1,Southampton FC
 35,Tue Mar 28 2006,Preston North End FC,1-0,Crewe Alexandra FC
 35,Wed Mar 29 2006,Queens Park Rangers FC,2-0,Stoke City FC
 41,Fri Mar 31 2006,Crystal Palace FC,3-1,Watford FC
-41,Sat Apr 1 2006,Sheffield Wednesday FC,0-0,Burnley FC
-41,Sat Apr 1 2006,Stoke City FC,1-1,Sheffield United FC
-41,Sat Apr 1 2006,Millwall FC,0-2,Brighton & Hove Albion FC
 41,Sat Apr 1 2006,Reading FC,5-0,Derby County FC
+41,Sat Apr 1 2006,Stoke City FC,1-1,Sheffield United FC
+41,Sat Apr 1 2006,Southampton FC,3-2,Cardiff City FC
+41,Sat Apr 1 2006,Sheffield Wednesday FC,0-0,Burnley FC
 41,Sat Apr 1 2006,Hull City AFC,1-0,Leeds United FC
 41,Sat Apr 1 2006,Queens Park Rangers FC,1-2,Crewe Alexandra FC
 41,Sat Apr 1 2006,Plymouth Argyle FC,2-0,Wolverhampton Wanderers FC
 41,Sat Apr 1 2006,Norwich City FC,2-1,Leicester City FC
 41,Sat Apr 1 2006,Coventry City FC,0-1,Preston North End FC
 41,Sat Apr 1 2006,Luton Town FC,1-0,Ipswich Town FC
-41,Sat Apr 1 2006,Southampton FC,3-2,Cardiff City FC
+41,Sat Apr 1 2006,Millwall FC,0-2,Brighton & Hove Albion FC
 42,Fri Apr 7 2006,Leicester City FC,2-0,Crystal Palace FC
-42,Sat Apr 8 2006,Wolverhampton Wanderers FC,2-2,Coventry City FC
+42,Sat Apr 8 2006,Ipswich Town FC,1-4,Stoke City FC
 42,Sat Apr 8 2006,Sheffield United FC,3-2,Hull City AFC
 42,Sat Apr 8 2006,Preston North End FC,2-0,Norwich City FC
 42,Sat Apr 8 2006,Leeds United FC,0-0,Plymouth Argyle FC
-42,Sat Apr 8 2006,Ipswich Town FC,1-4,Stoke City FC
+42,Sat Apr 8 2006,Wolverhampton Wanderers FC,2-2,Coventry City FC
 42,Sat Apr 8 2006,Derby County FC,1-0,Millwall FC
 42,Sat Apr 8 2006,Crewe Alexandra FC,2-0,Sheffield Wednesday FC
 42,Sat Apr 8 2006,Cardiff City FC,2-5,Reading FC
@@ -505,27 +505,27 @@ Matchday,Date,Team 1,FT,Team 2
 42,Sun Apr 9 2006,Watford FC,1-1,Luton Town FC
 43,Fri Apr 14 2006,Cardiff City FC,0-1,Sheffield United FC
 43,Fri Apr 14 2006,Wolverhampton Wanderers FC,1-1,Watford FC
-43,Sat Apr 15 2006,Luton Town FC,1-2,Coventry City FC
+43,Sat Apr 15 2006,Sheffield Wednesday FC,1-0,Norwich City FC
 43,Sat Apr 15 2006,Queens Park Rangers FC,1-1,Derby County FC
 43,Sat Apr 15 2006,Millwall FC,1-1,Plymouth Argyle FC
-43,Sat Apr 15 2006,Sheffield Wednesday FC,1-0,Norwich City FC
+43,Sat Apr 15 2006,Stoke City FC,1-2,Southampton FC
 43,Sat Apr 15 2006,Leicester City FC,1-2,Preston North End FC
 43,Sat Apr 15 2006,Leeds United FC,1-1,Reading FC
 43,Sat Apr 15 2006,Ipswich Town FC,1-2,Brighton & Hove Albion FC
 43,Sat Apr 15 2006,Hull City AFC,0-0,Burnley FC
 43,Sat Apr 15 2006,Crystal Palace FC,2-2,Crewe Alexandra FC
-43,Sat Apr 15 2006,Stoke City FC,1-2,Southampton FC
+43,Sat Apr 15 2006,Luton Town FC,1-2,Coventry City FC
 44,Mon Apr 17 2006,Watford FC,2-1,Ipswich Town FC
 44,Mon Apr 17 2006,Southampton FC,2-0,Millwall FC
 44,Mon Apr 17 2006,Reading FC,3-1,Stoke City FC
 44,Mon Apr 17 2006,Preston North End FC,2-0,Wolverhampton Wanderers FC
 44,Mon Apr 17 2006,Plymouth Argyle FC,1-2,Luton Town FC
 44,Mon Apr 17 2006,Norwich City FC,3-2,Queens Park Rangers FC
-44,Mon Apr 17 2006,Derby County FC,1-1,Hull City AFC
+44,Mon Apr 17 2006,Brighton & Hove Albion FC,0-2,Sheffield Wednesday FC
 44,Mon Apr 17 2006,Crewe Alexandra FC,1-1,Cardiff City FC
 44,Mon Apr 17 2006,Coventry City FC,1-1,Leicester City FC
 44,Mon Apr 17 2006,Burnley FC,0-0,Crystal Palace FC
-44,Mon Apr 17 2006,Brighton & Hove Albion FC,0-2,Sheffield Wednesday FC
+44,Mon Apr 17 2006,Derby County FC,1-1,Hull City AFC
 44,Tue Apr 18 2006,Sheffield United FC,1-1,Leeds United FC
 45,Sat Apr 22 2006,Wolverhampton Wanderers FC,1-0,Brighton & Hove Albion FC
 45,Sat Apr 22 2006,Stoke City FC,0-1,Coventry City FC

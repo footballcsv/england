@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Fri Aug 7 1998,Wolverhampton Wanderers FC,2-0,Tranmere Rovers FC
 1,Fri Aug 7 1998,Sunderland AFC,1-0,Queens Park Rangers FC
 1,Fri Aug 7 1998,Sheffield United FC,2-1,Swindon Town FC
@@ -18,264 +18,262 @@ Matchday,Date,Team 1,FT,Team 2
 2,Fri Aug 14 1998,Stockport County FC,0-2,Norwich City FC
 2,Fri Aug 14 1998,Queens Park Rangers FC,1-1,Bristol City FC
 2,Fri Aug 14 1998,Oxford United FC,0-2,Wolverhampton Wanderers FC
-2,Fri Aug 14 1998,Ipswich Town FC,0-0,Bury FC
+2,Fri Aug 14 1998,Bolton Wanderers FC,2-0,Grimsby Town FC
 2,Fri Aug 14 1998,Huddersfield Town AFC,2-1,Port Vale FC
 2,Fri Aug 14 1998,Crewe Alexandra FC,3-1,Barnsley FC
-2,Fri Aug 14 1998,Bolton Wanderers FC,2-0,Grimsby Town FC
+2,Fri Aug 14 1998,Ipswich Town FC,0-0,Bury FC
 2,Sat Aug 15 1998,Birmingham City FC,3-1,Crystal Palace FC
 3,Thu Aug 20 1998,Barnsley FC,1-1,Stockport County FC
-3,Fri Aug 21 1998,Wolverhampton Wanderers FC,1-0,Swindon Town FC
+3,Fri Aug 21 1998,Portsmouth FC,0-0,Ipswich Town FC
 3,Fri Aug 21 1998,Sunderland AFC,5-0,Tranmere Rovers FC
 3,Fri Aug 21 1998,Sheffield United FC,0-2,Birmingham City FC
-3,Fri Aug 21 1998,Portsmouth FC,0-0,Ipswich Town FC
+3,Fri Aug 21 1998,Wolverhampton Wanderers FC,1-0,Swindon Town FC
 3,Fri Aug 21 1998,Port Vale FC,0-3,West Bromwich Albion FC
-3,Fri Aug 21 1998,Norwich City FC,4-2,Queens Park Rangers FC
+3,Fri Aug 21 1998,Bristol City FC,1-4,Watford FC
 3,Fri Aug 21 1998,Grimsby Town FC,1-0,Huddersfield Town AFC
 3,Fri Aug 21 1998,Crystal Palace FC,2-0,Oxford United FC
 3,Fri Aug 21 1998,Bury FC,1-0,Crewe Alexandra FC
-3,Fri Aug 21 1998,Bristol City FC,1-4,Watford FC
+3,Fri Aug 21 1998,Norwich City FC,4-2,Queens Park Rangers FC
 3,Sat Aug 22 1998,Bradford City AFC,2-2,Bolton Wanderers FC
 5,Sun Aug 23 1998,Sunderland AFC,4-1,Watford FC
-4,Thu Aug 27 1998,Watford FC,0-2,Wolverhampton Wanderers FC
 4,Thu Aug 27 1998,Crewe Alexandra FC,2-1,Bradford City AFC
+4,Thu Aug 27 1998,Watford FC,0-2,Wolverhampton Wanderers FC
 4,Fri Aug 28 1998,West Bromwich Albion FC,2-0,Norwich City FC
-4,Fri Aug 28 1998,Birmingham City FC,0-0,Barnsley FC
-4,Fri Aug 28 1998,Bolton Wanderers FC,2-2,Sheffield United FC
-4,Fri Aug 28 1998,Huddersfield Town AFC,3-3,Portsmouth FC
-4,Fri Aug 28 1998,Ipswich Town FC,0-2,Sunderland AFC
-4,Fri Aug 28 1998,Oxford United FC,0-0,Grimsby Town FC
-4,Fri Aug 28 1998,Queens Park Rangers FC,0-0,Bury FC
-4,Fri Aug 28 1998,Stockport County FC,1-1,Crystal Palace FC
-4,Fri Aug 28 1998,Swindon Town FC,1-1,Port Vale FC
 4,Fri Aug 28 1998,Tranmere Rovers FC,1-1,Bristol City FC
-5,Sun Aug 30 1998,Portsmouth FC,3-0,Queens Park Rangers FC
+4,Fri Aug 28 1998,Swindon Town FC,1-1,Port Vale FC
+4,Fri Aug 28 1998,Stockport County FC,1-1,Crystal Palace FC
+4,Fri Aug 28 1998,Queens Park Rangers FC,0-0,Bury FC
+4,Fri Aug 28 1998,Oxford United FC,0-0,Grimsby Town FC
+4,Fri Aug 28 1998,Ipswich Town FC,0-2,Sunderland AFC
+4,Fri Aug 28 1998,Huddersfield Town AFC,3-3,Portsmouth FC
+4,Fri Aug 28 1998,Bolton Wanderers FC,2-2,Sheffield United FC
+4,Fri Aug 28 1998,Birmingham City FC,0-0,Barnsley FC
 5,Sun Aug 30 1998,Wolverhampton Wanderers FC,2-2,Stockport County FC
 5,Sun Aug 30 1998,Sheffield United FC,3-1,Crewe Alexandra FC
+5,Sun Aug 30 1998,Portsmouth FC,3-0,Queens Park Rangers FC
 5,Sun Aug 30 1998,Port Vale FC,0-3,Ipswich Town FC
 5,Sun Aug 30 1998,Grimsby Town FC,5-1,West Bromwich Albion FC
-5,Sun Aug 30 1998,Barnsley FC,1-0,Oxford United FC
 5,Sun Aug 30 1998,Bury FC,3-0,Swindon Town FC
 5,Sun Aug 30 1998,Bristol City FC,1-2,Huddersfield Town AFC
 5,Sun Aug 30 1998,Bradford City AFC,2-1,Birmingham City FC
+5,Sun Aug 30 1998,Barnsley FC,1-0,Oxford United FC
+6,Fri Sep 4 1998,Swindon Town FC,3-2,Bristol City FC
 6,Fri Sep 4 1998,Stockport County FC,2-0,Grimsby Town FC
 6,Fri Sep 4 1998,Birmingham City FC,1-0,Bury FC
-6,Fri Sep 4 1998,Swindon Town FC,3-2,Bristol City FC
 6,Fri Sep 4 1998,Huddersfield Town AFC,1-0,Sheffield United FC
 6,Sat Sep 5 1998,Oxford United FC,3-0,Portsmouth FC
-7,Mon Sep 7 1998,Crewe Alexandra FC,0-1,Crystal Palace FC
-7,Mon Sep 7 1998,West Bromwich Albion FC,2-3,Bolton Wanderers FC
-7,Mon Sep 7 1998,Birmingham City FC,2-0,Stockport County FC
-7,Mon Sep 7 1998,Bury FC,2-1,Portsmouth FC
-7,Mon Sep 7 1998,Queens Park Rangers FC,0-0,Tranmere Rovers FC
-7,Mon Sep 7 1998,Huddersfield Town AFC,2-0,Watford FC
-7,Mon Sep 7 1998,Ipswich Town FC,3-0,Bradford City AFC
-7,Mon Sep 7 1998,Port Vale FC,2-1,Wolverhampton Wanderers FC
-7,Mon Sep 7 1998,Barnsley FC,1-3,Norwich City FC
 7,Mon Sep 7 1998,Sheffield United FC,3-2,Grimsby Town FC
 7,Mon Sep 7 1998,Sunderland AFC,1-1,Bristol City FC
+7,Mon Sep 7 1998,West Bromwich Albion FC,2-3,Bolton Wanderers FC
+7,Mon Sep 7 1998,Barnsley FC,1-3,Norwich City FC
+7,Mon Sep 7 1998,Port Vale FC,2-1,Wolverhampton Wanderers FC
+7,Mon Sep 7 1998,Ipswich Town FC,3-0,Bradford City AFC
+7,Mon Sep 7 1998,Huddersfield Town AFC,2-0,Watford FC
+7,Mon Sep 7 1998,Crewe Alexandra FC,0-1,Crystal Palace FC
+7,Mon Sep 7 1998,Bury FC,2-1,Portsmouth FC
+7,Mon Sep 7 1998,Birmingham City FC,2-0,Stockport County FC
+7,Mon Sep 7 1998,Queens Park Rangers FC,0-0,Tranmere Rovers FC
 7,Tue Sep 8 1998,Swindon Town FC,4-1,Oxford United FC
 8,Thu Sep 10 1998,Tranmere Rovers FC,2-3,Huddersfield Town AFC
+8,Fri Sep 11 1998,Wolverhampton Wanderers FC,1-1,Sunderland AFC
+8,Fri Sep 11 1998,Watford FC,2-1,Queens Park Rangers FC
+8,Fri Sep 11 1998,Stockport County FC,1-1,Crewe Alexandra FC
 8,Fri Sep 11 1998,Portsmouth FC,5-2,Swindon Town FC
 8,Fri Sep 11 1998,Oxford United FC,3-3,Ipswich Town FC
 8,Fri Sep 11 1998,Bolton Wanderers FC,3-1,Birmingham City FC
-8,Fri Sep 11 1998,Stockport County FC,1-1,Crewe Alexandra FC
+8,Fri Sep 11 1998,Crystal Palace FC,0-1,Port Vale FC
 8,Fri Sep 11 1998,Bradford City AFC,2-2,Sheffield United FC
 8,Fri Sep 11 1998,Grimsby Town FC,1-2,Barnsley FC
-8,Fri Sep 11 1998,Wolverhampton Wanderers FC,1-1,Sunderland AFC
-8,Fri Sep 11 1998,Crystal Palace FC,0-1,Port Vale FC
-8,Fri Sep 11 1998,Watford FC,2-1,Queens Park Rangers FC
-8,Sat Sep 12 1998,Bristol City FC,1-3,West Bromwich Albion FC
 8,Sat Sep 12 1998,Norwich City FC,0-0,Bury FC
-9,Fri Sep 18 1998,Ipswich Town FC,3-1,Bristol City FC
+8,Sat Sep 12 1998,Bristol City FC,1-3,West Bromwich Albion FC
+9,Fri Sep 18 1998,Swindon Town FC,1-4,Watford FC
 9,Fri Sep 18 1998,Sunderland AFC,7-0,Oxford United FC
-9,Fri Sep 18 1998,Port Vale FC,0-2,Portsmouth FC
 9,Fri Sep 18 1998,Sheffield United FC,2-1,Norwich City FC
+9,Fri Sep 18 1998,Queens Park Rangers FC,2-0,Stockport County FC
+9,Fri Sep 18 1998,Port Vale FC,0-2,Portsmouth FC
+9,Fri Sep 18 1998,Ipswich Town FC,3-1,Bristol City FC
 9,Fri Sep 18 1998,Huddersfield Town AFC,2-1,Wolverhampton Wanderers FC
 9,Fri Sep 18 1998,Crewe Alexandra FC,4-4,Bolton Wanderers FC
 9,Fri Sep 18 1998,Bury FC,0-0,Tranmere Rovers FC
 9,Fri Sep 18 1998,Birmingham City FC,0-1,Grimsby Town FC
 9,Fri Sep 18 1998,Barnsley FC,4-0,Crystal Palace FC
-9,Fri Sep 18 1998,Swindon Town FC,1-4,Watford FC
-9,Fri Sep 18 1998,Queens Park Rangers FC,2-0,Stockport County FC
 9,Sat Sep 19 1998,West Bromwich Albion FC,0-2,Bradford City AFC
 10,Thu Sep 24 1998,Tranmere Rovers FC,0-0,Swindon Town FC
-10,Fri Sep 25 1998,Wolverhampton Wanderers FC,1-0,Bury FC
-10,Fri Sep 25 1998,Bristol City FC,5-2,Crewe Alexandra FC
-10,Fri Sep 25 1998,Norwich City FC,2-0,Birmingham City FC
-10,Fri Sep 25 1998,Bradford City AFC,2-1,Barnsley FC
-10,Fri Sep 25 1998,Portsmouth FC,1-1,Sunderland AFC
-10,Fri Sep 25 1998,Stockport County FC,2-2,West Bromwich Albion FC
 10,Fri Sep 25 1998,Oxford United FC,4-1,Queens Park Rangers FC
-10,Fri Sep 25 1998,Bolton Wanderers FC,3-0,Huddersfield Town AFC
-10,Fri Sep 25 1998,Grimsby Town FC,2-2,Port Vale FC
 10,Fri Sep 25 1998,Watford FC,1-0,Ipswich Town FC
+10,Fri Sep 25 1998,Stockport County FC,2-2,West Bromwich Albion FC
+10,Fri Sep 25 1998,Portsmouth FC,1-1,Sunderland AFC
+10,Fri Sep 25 1998,Wolverhampton Wanderers FC,1-0,Bury FC
+10,Fri Sep 25 1998,Norwich City FC,2-0,Birmingham City FC
+10,Fri Sep 25 1998,Grimsby Town FC,2-2,Port Vale FC
+10,Fri Sep 25 1998,Bristol City FC,5-2,Crewe Alexandra FC
+10,Fri Sep 25 1998,Bradford City AFC,2-1,Barnsley FC
+10,Fri Sep 25 1998,Bolton Wanderers FC,3-0,Huddersfield Town AFC
 10,Sat Sep 26 1998,Crystal Palace FC,1-0,Sheffield United FC
+11,Mon Sep 28 1998,Wolverhampton Wanderers FC,1-2,Queens Park Rangers FC
+11,Mon Sep 28 1998,Watford FC,1-1,Sheffield United FC
+11,Mon Sep 28 1998,Bolton Wanderers FC,2-1,Swindon Town FC
 11,Mon Sep 28 1998,Stockport County FC,1-1,Huddersfield Town AFC
+11,Mon Sep 28 1998,Portsmouth FC,0-1,Birmingham City FC
+11,Mon Sep 28 1998,Oxford United FC,3-0,West Bromwich Albion FC
 11,Mon Sep 28 1998,Norwich City FC,2-2,Sunderland AFC
 11,Mon Sep 28 1998,Grimsby Town FC,1-1,Crewe Alexandra FC
 11,Mon Sep 28 1998,Bristol City FC,1-1,Barnsley FC
-11,Mon Sep 28 1998,Oxford United FC,3-0,West Bromwich Albion FC
-11,Mon Sep 28 1998,Watford FC,1-1,Sheffield United FC
-11,Mon Sep 28 1998,Tranmere Rovers FC,0-2,Ipswich Town FC
-11,Mon Sep 28 1998,Bolton Wanderers FC,2-1,Swindon Town FC
-11,Mon Sep 28 1998,Portsmouth FC,0-1,Birmingham City FC
-11,Mon Sep 28 1998,Wolverhampton Wanderers FC,1-2,Queens Park Rangers FC
 11,Mon Sep 28 1998,Bradford City AFC,4-0,Port Vale FC
+11,Mon Sep 28 1998,Tranmere Rovers FC,0-2,Ipswich Town FC
 11,Tue Sep 29 1998,Crystal Palace FC,4-2,Bury FC
-12,Fri Oct 2 1998,Sheffield United FC,2-1,Portsmouth FC
-12,Fri Oct 2 1998,Sunderland AFC,0-0,Bradford City AFC
-12,Fri Oct 2 1998,Birmingham City FC,2-2,Tranmere Rovers FC
-12,Fri Oct 2 1998,Bury FC,0-1,Bristol City FC
-12,Fri Oct 2 1998,Crewe Alexandra FC,0-0,Wolverhampton Wanderers FC
-12,Fri Oct 2 1998,Barnsley FC,2-2,Bolton Wanderers FC
-12,Fri Oct 2 1998,Ipswich Town FC,3-0,Crystal Palace FC
-12,Fri Oct 2 1998,Port Vale FC,1-0,Norwich City FC
-12,Fri Oct 2 1998,Queens Park Rangers FC,1-2,Grimsby Town FC
 12,Fri Oct 2 1998,Swindon Town FC,2-3,Stockport County FC
+12,Fri Oct 2 1998,Sunderland AFC,0-0,Bradford City AFC
+12,Fri Oct 2 1998,Sheffield United FC,2-1,Portsmouth FC
+12,Fri Oct 2 1998,Queens Park Rangers FC,1-2,Grimsby Town FC
+12,Fri Oct 2 1998,Port Vale FC,1-0,Norwich City FC
+12,Fri Oct 2 1998,Ipswich Town FC,3-0,Crystal Palace FC
+12,Fri Oct 2 1998,Barnsley FC,2-2,Bolton Wanderers FC
+12,Fri Oct 2 1998,Crewe Alexandra FC,0-0,Wolverhampton Wanderers FC
+12,Fri Oct 2 1998,Bury FC,0-1,Bristol City FC
+12,Fri Oct 2 1998,Birmingham City FC,2-2,Tranmere Rovers FC
 12,Fri Oct 2 1998,Huddersfield Town AFC,2-0,Oxford United FC
 12,Sat Oct 3 1998,West Bromwich Albion FC,4-1,Watford FC
-13,Thu Oct 8 1998,Bradford City AFC,3-0,Bury FC
 13,Thu Oct 8 1998,Swindon Town FC,3-0,Huddersfield Town AFC
-13,Fri Oct 9 1998,Bristol City FC,2-2,Portsmouth FC
+13,Thu Oct 8 1998,Bradford City AFC,3-0,Bury FC
 13,Fri Oct 9 1998,Watford FC,1-1,Birmingham City FC
 13,Fri Oct 9 1998,Oxford United FC,1-2,Tranmere Rovers FC
+13,Fri Oct 9 1998,Bristol City FC,2-2,Portsmouth FC
 13,Sat Oct 10 1998,Barnsley FC,0-2,Port Vale FC
+14,Fri Oct 16 1998,Port Vale FC,3-2,Bristol City FC
 14,Fri Oct 16 1998,Birmingham City FC,3-1,Crewe Alexandra FC
 14,Fri Oct 16 1998,Portsmouth FC,1-0,Wolverhampton Wanderers FC
-14,Fri Oct 16 1998,Crystal Palace FC,5-1,Norwich City FC
 14,Fri Oct 16 1998,Tranmere Rovers FC,3-2,Watford FC
 14,Fri Oct 16 1998,Ipswich Town FC,1-0,Swindon Town FC
 14,Fri Oct 16 1998,Huddersfield Town AFC,2-0,Queens Park Rangers FC
 14,Fri Oct 16 1998,Grimsby Town FC,2-0,Bradford City AFC
-14,Fri Oct 16 1998,Sheffield United FC,1-1,Barnsley FC
+14,Fri Oct 16 1998,Crystal Palace FC,5-1,Norwich City FC
 14,Fri Oct 16 1998,Bury FC,1-1,Stockport County FC
-14,Fri Oct 16 1998,Port Vale FC,3-2,Bristol City FC
 14,Fri Oct 16 1998,Bolton Wanderers FC,1-1,Oxford United FC
+14,Fri Oct 16 1998,Sheffield United FC,1-1,Barnsley FC
 14,Sat Oct 17 1998,West Bromwich Albion FC,2-3,Sunderland AFC
-15,Mon Oct 19 1998,Bury FC,1-0,Oxford United FC
 15,Mon Oct 19 1998,Tranmere Rovers FC,3-0,Barnsley FC
+15,Mon Oct 19 1998,Sheffield United FC,1-1,Stockport County FC
 15,Mon Oct 19 1998,Portsmouth FC,2-4,Bradford City AFC
 15,Mon Oct 19 1998,Port Vale FC,1-0,Crewe Alexandra FC
+15,Mon Oct 19 1998,Ipswich Town FC,0-1,Norwich City FC
 15,Mon Oct 19 1998,Birmingham City FC,1-1,Swindon Town FC
 15,Mon Oct 19 1998,Crystal Palace FC,3-2,Wolverhampton Wanderers FC
-15,Mon Oct 19 1998,Sheffield United FC,1-1,Stockport County FC
-15,Mon Oct 19 1998,Ipswich Town FC,0-1,Norwich City FC
-15,Mon Oct 19 1998,Grimsby Town FC,2-1,Bristol City FC
+15,Mon Oct 19 1998,Bury FC,1-0,Oxford United FC
 15,Mon Oct 19 1998,Bolton Wanderers FC,1-2,Watford FC
-15,Tue Oct 20 1998,West Bromwich Albion FC,2-0,Queens Park Rangers FC
+15,Mon Oct 19 1998,Grimsby Town FC,2-1,Bristol City FC
 15,Tue Oct 20 1998,Huddersfield Town AFC,1-1,Sunderland AFC
+15,Tue Oct 20 1998,West Bromwich Albion FC,2-0,Queens Park Rangers FC
 16,Thu Oct 22 1998,Bristol City FC,2-1,Bolton Wanderers FC
-16,Fri Oct 23 1998,Oxford United FC,0-2,Sheffield United FC
-16,Fri Oct 23 1998,Wolverhampton Wanderers FC,2-0,Grimsby Town FC
-16,Fri Oct 23 1998,Barnsley FC,2-1,Portsmouth FC
-16,Fri Oct 23 1998,Watford FC,2-2,Port Vale FC
 16,Fri Oct 23 1998,Sunderland AFC,1-0,Bury FC
+16,Fri Oct 23 1998,Watford FC,2-2,Port Vale FC
+16,Fri Oct 23 1998,Barnsley FC,2-1,Portsmouth FC
+16,Fri Oct 23 1998,Wolverhampton Wanderers FC,2-0,Grimsby Town FC
 16,Fri Oct 23 1998,Stockport County FC,0-1,Ipswich Town FC
+16,Fri Oct 23 1998,Oxford United FC,0-2,Sheffield United FC
 16,Fri Oct 23 1998,Norwich City FC,4-1,Huddersfield Town AFC
 16,Fri Oct 23 1998,Crewe Alexandra FC,1-4,Tranmere Rovers FC
 16,Fri Oct 23 1998,Swindon Town FC,2-2,West Bromwich Albion FC
 16,Sat Oct 24 1998,Queens Park Rangers FC,0-1,Birmingham City FC
-17,Fri Oct 30 1998,Bury FC,1-3,Watford FC
-17,Fri Oct 30 1998,Birmingham City FC,1-1,Huddersfield Town AFC
-17,Fri Oct 30 1998,Bradford City AFC,5-0,Bristol City FC
-17,Fri Oct 30 1998,Swindon Town FC,3-1,Queens Park Rangers FC
-17,Fri Oct 30 1998,Tranmere Rovers FC,1-1,Stockport County FC
-17,Fri Oct 30 1998,Grimsby Town FC,2-0,Crystal Palace FC
-17,Fri Oct 30 1998,Ipswich Town FC,2-0,West Bromwich Albion FC
-17,Fri Oct 30 1998,Wolverhampton Wanderers FC,1-1,Barnsley FC
-17,Fri Oct 30 1998,Port Vale FC,2-3,Sheffield United FC
 17,Fri Oct 30 1998,Oxford United FC,1-1,Crewe Alexandra FC
+17,Fri Oct 30 1998,Tranmere Rovers FC,1-1,Stockport County FC
+17,Fri Oct 30 1998,Swindon Town FC,3-1,Queens Park Rangers FC
+17,Fri Oct 30 1998,Port Vale FC,2-3,Sheffield United FC
+17,Fri Oct 30 1998,Wolverhampton Wanderers FC,1-1,Barnsley FC
+17,Fri Oct 30 1998,Ipswich Town FC,2-0,West Bromwich Albion FC
+17,Fri Oct 30 1998,Grimsby Town FC,2-0,Crystal Palace FC
+17,Fri Oct 30 1998,Bury FC,1-3,Watford FC
+17,Fri Oct 30 1998,Bradford City AFC,5-0,Bristol City FC
+17,Fri Oct 30 1998,Birmingham City FC,1-1,Huddersfield Town AFC
 17,Sat Oct 31 1998,Bolton Wanderers FC,0-3,Sunderland AFC
+6,Mon Nov 2 1998,West Bromwich Albion FC,3-2,Crystal Palace FC
+6,Mon Nov 2 1998,Watford FC,1-1,Norwich City FC
 6,Mon Nov 2 1998,Crewe Alexandra FC,1-4,Sunderland AFC
 6,Mon Nov 2 1998,Ipswich Town FC,2-0,Wolverhampton Wanderers FC
-6,Mon Nov 2 1998,Watford FC,1-1,Norwich City FC
-6,Mon Nov 2 1998,West Bromwich Albion FC,3-2,Crystal Palace FC
 6,Tue Nov 3 1998,Queens Park Rangers FC,2-1,Barnsley FC
 6,Tue Nov 3 1998,Bolton Wanderers FC,3-1,Port Vale FC
-18,Fri Nov 6 1998,Norwich City FC,2-2,Bradford City AFC
+18,Fri Nov 6 1998,Watford FC,2-0,Oxford United FC
+18,Fri Nov 6 1998,West Bromwich Albion FC,1-3,Birmingham City FC
 18,Fri Nov 6 1998,Sunderland AFC,3-1,Grimsby Town FC
 18,Fri Nov 6 1998,Sheffield United FC,2-2,Tranmere Rovers FC
 18,Fri Nov 6 1998,Queens Park Rangers FC,2-0,Bolton Wanderers FC
+18,Fri Nov 6 1998,Norwich City FC,2-2,Bradford City AFC
 18,Fri Nov 6 1998,Huddersfield Town AFC,2-2,Ipswich Town FC
 18,Fri Nov 6 1998,Crystal Palace FC,4-1,Portsmouth FC
-18,Fri Nov 6 1998,West Bromwich Albion FC,1-3,Birmingham City FC
+18,Fri Nov 6 1998,Crewe Alexandra FC,0-2,Swindon Town FC
 18,Fri Nov 6 1998,Barnsley FC,1-1,Bury FC
 18,Fri Nov 6 1998,Bristol City FC,1-6,Wolverhampton Wanderers FC
-18,Fri Nov 6 1998,Watford FC,2-0,Oxford United FC
-18,Fri Nov 6 1998,Crewe Alexandra FC,0-2,Swindon Town FC
 18,Sat Nov 7 1998,Stockport County FC,4-2,Port Vale FC
 6,Mon Nov 9 1998,Tranmere Rovers FC,0-1,Bradford City AFC
-17,Mon Nov 9 1998,Portsmouth FC,1-2,Norwich City FC
 13,Mon Nov 9 1998,Wolverhampton Wanderers FC,2-1,Sheffield United FC
-19,Fri Nov 13 1998,Crewe Alexandra FC,0-2,Queens Park Rangers FC
-19,Fri Nov 13 1998,Norwich City FC,0-0,Wolverhampton Wanderers FC
-19,Fri Nov 13 1998,Bolton Wanderers FC,2-2,Tranmere Rovers FC
-19,Fri Nov 13 1998,Bradford City AFC,3-0,Swindon Town FC
-19,Fri Nov 13 1998,Barnsley FC,0-1,Ipswich Town FC
-19,Fri Nov 13 1998,Birmingham City FC,0-1,Oxford United FC
-19,Fri Nov 13 1998,Crystal Palace FC,2-1,Bristol City FC
-19,Fri Nov 13 1998,Grimsby Town FC,1-1,Portsmouth FC
+17,Mon Nov 9 1998,Portsmouth FC,1-2,Norwich City FC
 19,Fri Nov 13 1998,Port Vale FC,0-2,Sunderland AFC
 19,Fri Nov 13 1998,Stockport County FC,1-1,Watford FC
-19,Fri Nov 13 1998,West Bromwich Albion FC,3-1,Huddersfield Town AFC
 19,Fri Nov 13 1998,Sheffield United FC,3-1,Bury FC
+19,Fri Nov 13 1998,West Bromwich Albion FC,3-1,Huddersfield Town AFC
+19,Fri Nov 13 1998,Norwich City FC,0-0,Wolverhampton Wanderers FC
+19,Fri Nov 13 1998,Grimsby Town FC,1-1,Portsmouth FC
+19,Fri Nov 13 1998,Crystal Palace FC,2-1,Bristol City FC
+19,Fri Nov 13 1998,Crewe Alexandra FC,0-2,Queens Park Rangers FC
+19,Fri Nov 13 1998,Bradford City AFC,3-0,Swindon Town FC
+19,Fri Nov 13 1998,Bolton Wanderers FC,2-2,Tranmere Rovers FC
+19,Fri Nov 13 1998,Barnsley FC,0-1,Ipswich Town FC
+19,Fri Nov 13 1998,Birmingham City FC,0-1,Oxford United FC
+20,Fri Nov 20 1998,Watford FC,4-2,Crewe Alexandra FC
+20,Fri Nov 20 1998,Tranmere Rovers FC,1-3,Norwich City FC
 20,Fri Nov 20 1998,Swindon Town FC,2-0,Crystal Palace FC
+20,Fri Nov 20 1998,Sunderland AFC,2-3,Barnsley FC
+20,Fri Nov 20 1998,Queens Park Rangers FC,1-2,Sheffield United FC
+20,Fri Nov 20 1998,Portsmouth FC,2-1,West Bromwich Albion FC
 20,Fri Nov 20 1998,Oxford United FC,2-1,Port Vale FC
 20,Fri Nov 20 1998,Ipswich Town FC,0-1,Bolton Wanderers FC
-20,Fri Nov 20 1998,Sunderland AFC,2-3,Barnsley FC
 20,Fri Nov 20 1998,Huddersfield Town AFC,2-1,Bradford City AFC
 20,Fri Nov 20 1998,Bury FC,1-0,Grimsby Town FC
 20,Fri Nov 20 1998,Bristol City FC,1-1,Stockport County FC
-20,Fri Nov 20 1998,Queens Park Rangers FC,1-2,Sheffield United FC
-20,Fri Nov 20 1998,Watford FC,4-2,Crewe Alexandra FC
-20,Fri Nov 20 1998,Tranmere Rovers FC,1-3,Norwich City FC
-20,Fri Nov 20 1998,Portsmouth FC,2-1,West Bromwich Albion FC
 20,Sat Nov 21 1998,Wolverhampton Wanderers FC,3-1,Birmingham City FC
 13,Mon Nov 23 1998,Stockport County FC,0-1,Bolton Wanderers FC
 21,Thu Nov 26 1998,Barnsley FC,7-1,Huddersfield Town AFC
-21,Fri Nov 27 1998,Crystal Palace FC,2-2,Watford FC
-21,Fri Nov 27 1998,Bradford City AFC,0-3,Queens Park Rangers FC
-21,Fri Nov 27 1998,Birmingham City FC,4-2,Bristol City FC
-21,Fri Nov 27 1998,Bolton Wanderers FC,4-0,Bury FC
-21,Fri Nov 27 1998,Stockport County FC,2-0,Portsmouth FC
-21,Fri Nov 27 1998,Port Vale FC,2-2,Tranmere Rovers FC
-21,Fri Nov 27 1998,Crewe Alexandra FC,0-3,Ipswich Town FC
-21,Fri Nov 27 1998,Sheffield United FC,0-4,Sunderland AFC
 21,Fri Nov 27 1998,Grimsby Town FC,1-0,Swindon Town FC
+21,Fri Nov 27 1998,Sheffield United FC,0-4,Sunderland AFC
+21,Fri Nov 27 1998,Port Vale FC,2-2,Tranmere Rovers FC
+21,Fri Nov 27 1998,Stockport County FC,2-0,Portsmouth FC
+21,Fri Nov 27 1998,Crystal Palace FC,2-2,Watford FC
+21,Fri Nov 27 1998,Birmingham City FC,4-2,Bristol City FC
+21,Fri Nov 27 1998,Bradford City AFC,0-3,Queens Park Rangers FC
+21,Fri Nov 27 1998,Bolton Wanderers FC,4-0,Bury FC
+21,Fri Nov 27 1998,Crewe Alexandra FC,0-3,Ipswich Town FC
 21,Sat Nov 28 1998,West Bromwich Albion FC,2-0,Wolverhampton Wanderers FC
 21,Sat Nov 28 1998,Norwich City FC,1-3,Oxford United FC
-13,Tue Dec 1 1998,Norwich City FC,3-1,Grimsby Town FC
 13,Tue Dec 1 1998,Queens Park Rangers FC,1-1,Ipswich Town FC
-22,Fri Dec 4 1998,Tranmere Rovers FC,1-2,Grimsby Town FC
-22,Fri Dec 4 1998,Ipswich Town FC,1-0,Birmingham City FC
-22,Fri Dec 4 1998,Huddersfield Town AFC,4-0,Crystal Palace FC
-22,Fri Dec 4 1998,Bury FC,2-0,West Bromwich Albion FC
-22,Fri Dec 4 1998,Queens Park Rangers FC,3-2,Port Vale FC
+13,Tue Dec 1 1998,Norwich City FC,3-1,Grimsby Town FC
 22,Fri Dec 4 1998,Swindon Town FC,1-1,Norwich City FC
 22,Fri Dec 4 1998,Watford FC,0-0,Barnsley FC
-22,Fri Dec 4 1998,Oxford United FC,0-1,Bradford City AFC
+22,Fri Dec 4 1998,Tranmere Rovers FC,1-2,Grimsby Town FC
 22,Fri Dec 4 1998,Wolverhampton Wanderers FC,1-1,Bolton Wanderers FC
 22,Fri Dec 4 1998,Sunderland AFC,1-0,Stockport County FC
 22,Fri Dec 4 1998,Bristol City FC,2-0,Sheffield United FC
 22,Fri Dec 4 1998,Portsmouth FC,2-0,Crewe Alexandra FC
+22,Fri Dec 4 1998,Oxford United FC,0-1,Bradford City AFC
+22,Fri Dec 4 1998,Ipswich Town FC,1-0,Birmingham City FC
+22,Fri Dec 4 1998,Huddersfield Town AFC,4-0,Crystal Palace FC
+22,Fri Dec 4 1998,Bury FC,2-0,West Bromwich Albion FC
+22,Fri Dec 4 1998,Queens Park Rangers FC,3-2,Port Vale FC
 5,Mon Dec 7 1998,Crystal Palace FC,1-1,Tranmere Rovers FC
 13,Mon Dec 7 1998,Crewe Alexandra FC,1-1,West Bromwich Albion FC
 23,Thu Dec 10 1998,Bury FC,3-3,Sheffield United FC
 23,Fri Dec 11 1998,Swindon Town FC,1-4,Bradford City AFC
-23,Fri Dec 11 1998,Oxford United FC,1-7,Birmingham City FC
-23,Fri Dec 11 1998,Queens Park Rangers FC,0-1,Crewe Alexandra FC
-23,Fri Dec 11 1998,Bristol City FC,1-1,Crystal Palace FC
 23,Fri Dec 11 1998,Watford FC,4-2,Stockport County FC
-23,Fri Dec 11 1998,Huddersfield Town AFC,0-3,West Bromwich Albion FC
+23,Fri Dec 11 1998,Tranmere Rovers FC,1-1,Bolton Wanderers FC
 23,Fri Dec 11 1998,Wolverhampton Wanderers FC,2-2,Norwich City FC
 23,Fri Dec 11 1998,Sunderland AFC,2-0,Port Vale FC
 23,Fri Dec 11 1998,Ipswich Town FC,0-2,Barnsley FC
-23,Fri Dec 11 1998,Tranmere Rovers FC,1-1,Bolton Wanderers FC
+23,Fri Dec 11 1998,Huddersfield Town AFC,0-3,West Bromwich Albion FC
+23,Fri Dec 11 1998,Bristol City FC,1-1,Crystal Palace FC
+23,Fri Dec 11 1998,Queens Park Rangers FC,0-1,Crewe Alexandra FC
+23,Fri Dec 11 1998,Oxford United FC,1-7,Birmingham City FC
 23,Sat Dec 12 1998,Portsmouth FC,0-1,Grimsby Town FC
 13,Mon Dec 14 1998,Sunderland AFC,2-0,Crystal Palace FC
-24,Fri Dec 18 1998,Crewe Alexandra FC,1-2,Huddersfield Town AFC
-24,Fri Dec 18 1998,Stockport County FC,2-0,Oxford United FC
-24,Fri Dec 18 1998,Barnsley FC,1-3,Swindon Town FC
+24,Fri Dec 18 1998,Crystal Palace FC,1-1,Queens Park Rangers FC
 24,Fri Dec 18 1998,Port Vale FC,1-0,Bury FC
 24,Fri Dec 18 1998,Bradford City AFC,2-1,Wolverhampton Wanderers FC
 24,Fri Dec 18 1998,West Bromwich Albion FC,0-2,Tranmere Rovers FC
@@ -283,46 +281,46 @@ Matchday,Date,Team 1,FT,Team 2
 24,Fri Dec 18 1998,Grimsby Town FC,2-1,Watford FC
 24,Fri Dec 18 1998,Bolton Wanderers FC,3-1,Portsmouth FC
 24,Fri Dec 18 1998,Birmingham City FC,0-0,Sunderland AFC
-24,Fri Dec 18 1998,Crystal Palace FC,1-1,Queens Park Rangers FC
+24,Fri Dec 18 1998,Barnsley FC,1-3,Swindon Town FC
+24,Fri Dec 18 1998,Crewe Alexandra FC,1-2,Huddersfield Town AFC
+24,Fri Dec 18 1998,Stockport County FC,2-0,Oxford United FC
 24,Sat Dec 19 1998,Sheffield United FC,1-2,Ipswich Town FC
-25,Fri Dec 25 1998,Swindon Town FC,1-0,Wolverhampton Wanderers FC
-25,Fri Dec 25 1998,Birmingham City FC,1-0,Sheffield United FC
 25,Fri Dec 25 1998,West Bromwich Albion FC,3-2,Port Vale FC
 25,Fri Dec 25 1998,Watford FC,1-0,Bristol City FC
 25,Fri Dec 25 1998,Tranmere Rovers FC,1-0,Sunderland AFC
-25,Fri Dec 25 1998,Bolton Wanderers FC,0-0,Bradford City AFC
+25,Fri Dec 25 1998,Swindon Town FC,1-0,Wolverhampton Wanderers FC
 25,Fri Dec 25 1998,Stockport County FC,0-1,Barnsley FC
 25,Fri Dec 25 1998,Queens Park Rangers FC,2-0,Norwich City FC
 25,Fri Dec 25 1998,Oxford United FC,1-3,Crystal Palace FC
 25,Fri Dec 25 1998,Ipswich Town FC,3-0,Portsmouth FC
 25,Fri Dec 25 1998,Huddersfield Town AFC,2-0,Grimsby Town FC
 25,Fri Dec 25 1998,Crewe Alexandra FC,3-1,Bury FC
-26,Sun Dec 27 1998,Bradford City AFC,2-0,Tranmere Rovers FC
-26,Sun Dec 27 1998,Barnsley FC,1-0,Queens Park Rangers FC
+25,Fri Dec 25 1998,Birmingham City FC,1-0,Sheffield United FC
+25,Fri Dec 25 1998,Bolton Wanderers FC,0-0,Bradford City AFC
 26,Sun Dec 27 1998,Wolverhampton Wanderers FC,1-0,Ipswich Town FC
 26,Sun Dec 27 1998,Sunderland AFC,2-0,Crewe Alexandra FC
 26,Sun Dec 27 1998,Sheffield United FC,2-1,Huddersfield Town AFC
 26,Sun Dec 27 1998,Portsmouth FC,2-2,Oxford United FC
 26,Sun Dec 27 1998,Port Vale FC,0-2,Bolton Wanderers FC
-26,Sun Dec 27 1998,Bristol City FC,3-1,Swindon Town FC
+26,Sun Dec 27 1998,Grimsby Town FC,1-0,Stockport County FC
 26,Sun Dec 27 1998,Crystal Palace FC,1-1,West Bromwich Albion FC
 26,Sun Dec 27 1998,Bury FC,2-4,Birmingham City FC
-26,Sun Dec 27 1998,Grimsby Town FC,1-0,Stockport County FC
+26,Sun Dec 27 1998,Bristol City FC,3-1,Swindon Town FC
+26,Sun Dec 27 1998,Bradford City AFC,2-0,Tranmere Rovers FC
+26,Sun Dec 27 1998,Barnsley FC,1-0,Queens Park Rangers FC
 26,Mon Dec 28 1998,Norwich City FC,1-1,Watford FC
 27,Thu Jan 7 1999,Tranmere Rovers FC,1-2,Wolverhampton Wanderers FC
-27,Fri Jan 8 1999,Birmingham City FC,1-0,Port Vale FC
-27,Fri Jan 8 1999,Crewe Alexandra FC,3-2,Norwich City FC
 27,Fri Jan 8 1999,Stockport County FC,1-2,Bradford City AFC
 27,Fri Jan 8 1999,Watford FC,0-0,Portsmouth FC
 27,Fri Jan 8 1999,Swindon Town FC,2-2,Sheffield United FC
 27,Fri Jan 8 1999,West Bromwich Albion FC,2-0,Barnsley FC
-27,Fri Jan 8 1999,Huddersfield Town AFC,2-2,Bury FC
+27,Fri Jan 8 1999,Queens Park Rangers FC,2-2,Sunderland AFC
 27,Fri Jan 8 1999,Oxford United FC,0-0,Bristol City FC
 27,Fri Jan 8 1999,Ipswich Town FC,0-1,Grimsby Town FC
-27,Fri Jan 8 1999,Queens Park Rangers FC,2-2,Sunderland AFC
+27,Fri Jan 8 1999,Huddersfield Town AFC,2-2,Bury FC
+27,Fri Jan 8 1999,Crewe Alexandra FC,3-2,Norwich City FC
+27,Fri Jan 8 1999,Birmingham City FC,1-0,Port Vale FC
 27,Sat Jan 9 1999,Bolton Wanderers FC,3-0,Crystal Palace FC
-28,Fri Jan 15 1999,Wolverhampton Wanderers FC,0-0,Watford FC
-28,Fri Jan 15 1999,Bristol City FC,1-1,Tranmere Rovers FC
 28,Fri Jan 15 1999,Norwich City FC,1-1,West Bromwich Albion FC
 28,Fri Jan 15 1999,Sheffield United FC,1-2,Bolton Wanderers FC
 28,Fri Jan 15 1999,Portsmouth FC,1-0,Huddersfield Town AFC
@@ -331,21 +329,23 @@ Matchday,Date,Team 1,FT,Team 2
 28,Fri Jan 15 1999,Grimsby Town FC,1-0,Oxford United FC
 28,Fri Jan 15 1999,Crystal Palace FC,2-2,Stockport County FC
 28,Fri Jan 15 1999,Bury FC,1-1,Queens Park Rangers FC
+28,Fri Jan 15 1999,Bristol City FC,1-1,Tranmere Rovers FC
 28,Fri Jan 15 1999,Bradford City AFC,4-1,Crewe Alexandra FC
+28,Fri Jan 15 1999,Wolverhampton Wanderers FC,0-0,Watford FC
 28,Sat Jan 16 1999,Sunderland AFC,2-1,Ipswich Town FC
 16,Mon Jan 18 1999,Bradford City AFC,2-1,Crystal Palace FC
 36,Fri Jan 22 1999,Watford FC,0-2,West Bromwich Albion FC
-29,Fri Jan 29 1999,Oxford United FC,1-0,Barnsley FC
-29,Fri Jan 29 1999,Crewe Alexandra FC,1-2,Sheffield United FC
-29,Fri Jan 29 1999,Huddersfield Town AFC,2-2,Bristol City FC
-29,Fri Jan 29 1999,Ipswich Town FC,1-0,Port Vale FC
 29,Fri Jan 29 1999,Swindon Town FC,1-1,Bury FC
-29,Fri Jan 29 1999,Bolton Wanderers FC,2-0,Norwich City FC
 29,Fri Jan 29 1999,Watford FC,2-1,Sunderland AFC
-29,Fri Jan 29 1999,Stockport County FC,1-2,Wolverhampton Wanderers FC
-29,Fri Jan 29 1999,West Bromwich Albion FC,1-1,Grimsby Town FC
 29,Fri Jan 29 1999,Tranmere Rovers FC,3-1,Crystal Palace FC
+29,Fri Jan 29 1999,West Bromwich Albion FC,1-1,Grimsby Town FC
+29,Fri Jan 29 1999,Stockport County FC,1-2,Wolverhampton Wanderers FC
 29,Fri Jan 29 1999,Queens Park Rangers FC,1-1,Portsmouth FC
+29,Fri Jan 29 1999,Oxford United FC,1-0,Barnsley FC
+29,Fri Jan 29 1999,Ipswich Town FC,1-0,Port Vale FC
+29,Fri Jan 29 1999,Huddersfield Town AFC,2-2,Bristol City FC
+29,Fri Jan 29 1999,Crewe Alexandra FC,1-2,Sheffield United FC
+29,Fri Jan 29 1999,Bolton Wanderers FC,2-0,Norwich City FC
 29,Sat Jan 30 1999,Birmingham City FC,2-1,Bradford City AFC
 30,Thu Feb 4 1999,Bristol City FC,0-0,Queens Park Rangers FC
 30,Fri Feb 5 1999,Barnsley FC,2-2,Crewe Alexandra FC
@@ -354,122 +354,123 @@ Matchday,Date,Team 1,FT,Team 2
 30,Fri Feb 5 1999,Portsmouth FC,1-1,Tranmere Rovers FC
 30,Fri Feb 5 1999,Wolverhampton Wanderers FC,1-1,Oxford United FC
 30,Fri Feb 5 1999,Norwich City FC,0-2,Stockport County FC
+30,Fri Feb 5 1999,Grimsby Town FC,0-1,Bolton Wanderers FC
 30,Fri Feb 5 1999,Crystal Palace FC,1-1,Birmingham City FC
 30,Fri Feb 5 1999,Bury FC,0-3,Ipswich Town FC
 30,Fri Feb 5 1999,Bradford City AFC,2-0,Watford FC
 30,Fri Feb 5 1999,Port Vale FC,2-0,Huddersfield Town AFC
-30,Fri Feb 5 1999,Grimsby Town FC,0-1,Bolton Wanderers FC
-31,Fri Feb 12 1999,Oxford United FC,2-0,Swindon Town FC
-31,Fri Feb 12 1999,Bradford City AFC,0-0,Ipswich Town FC
-31,Fri Feb 12 1999,Bristol City FC,0-1,Sunderland AFC
-31,Fri Feb 12 1999,Bolton Wanderers FC,2-1,West Bromwich Albion FC
-31,Fri Feb 12 1999,Portsmouth FC,2-1,Bury FC
-31,Fri Feb 12 1999,Stockport County FC,1-0,Birmingham City FC
-31,Fri Feb 12 1999,Tranmere Rovers FC,3-2,Queens Park Rangers FC
 31,Fri Feb 12 1999,Wolverhampton Wanderers FC,3-1,Port Vale FC
+31,Fri Feb 12 1999,Tranmere Rovers FC,3-2,Queens Park Rangers FC
+31,Fri Feb 12 1999,Stockport County FC,1-0,Birmingham City FC
+31,Fri Feb 12 1999,Portsmouth FC,2-1,Bury FC
+31,Fri Feb 12 1999,Oxford United FC,2-0,Swindon Town FC
+31,Fri Feb 12 1999,Bolton Wanderers FC,2-1,West Bromwich Albion FC
+31,Fri Feb 12 1999,Bristol City FC,0-1,Sunderland AFC
+31,Fri Feb 12 1999,Bradford City AFC,0-0,Ipswich Town FC
 31,Fri Feb 12 1999,Crystal Palace FC,1-1,Crewe Alexandra FC
-31,Mon Feb 15 1999,Norwich City FC,0-0,Barnsley FC
 31,Mon Feb 15 1999,Watford FC,1-1,Huddersfield Town AFC
+31,Mon Feb 15 1999,Norwich City FC,0-0,Barnsley FC
 32,Thu Feb 18 1999,Sheffield United FC,2-2,Bradford City AFC
-32,Fri Feb 19 1999,Queens Park Rangers FC,1-2,Watford FC
+32,Fri Feb 19 1999,Barnsley FC,0-0,Grimsby Town FC
 32,Fri Feb 19 1999,Swindon Town FC,3-3,Portsmouth FC
 32,Fri Feb 19 1999,Sunderland AFC,2-1,Wolverhampton Wanderers FC
-32,Fri Feb 19 1999,Barnsley FC,0-0,Grimsby Town FC
-32,Fri Feb 19 1999,Bury FC,0-2,Norwich City FC
+32,Fri Feb 19 1999,Queens Park Rangers FC,1-2,Watford FC
 32,Fri Feb 19 1999,West Bromwich Albion FC,2-2,Bristol City FC
 32,Fri Feb 19 1999,Ipswich Town FC,2-1,Oxford United FC
 32,Fri Feb 19 1999,Huddersfield Town AFC,0-0,Tranmere Rovers FC
-32,Fri Feb 19 1999,Port Vale FC,1-0,Crystal Palace FC
 32,Fri Feb 19 1999,Crewe Alexandra FC,0-2,Stockport County FC
+32,Fri Feb 19 1999,Bury FC,0-2,Norwich City FC
+32,Fri Feb 19 1999,Port Vale FC,1-0,Crystal Palace FC
 32,Sat Feb 20 1999,Birmingham City FC,0-0,Bolton Wanderers FC
 33,Thu Feb 25 1999,Watford FC,0-1,Swindon Town FC
-33,Fri Feb 26 1999,Oxford United FC,0-0,Sunderland AFC
+33,Fri Feb 26 1999,Portsmouth FC,4-0,Port Vale FC
+33,Fri Feb 26 1999,Tranmere Rovers FC,4-0,Bury FC
 33,Fri Feb 26 1999,Stockport County FC,0-0,Queens Park Rangers FC
 33,Fri Feb 26 1999,Wolverhampton Wanderers FC,2-2,Huddersfield Town AFC
-33,Fri Feb 26 1999,Portsmouth FC,4-0,Port Vale FC
+33,Fri Feb 26 1999,Oxford United FC,0-0,Sunderland AFC
 33,Fri Feb 26 1999,Norwich City FC,1-1,Sheffield United FC
 33,Fri Feb 26 1999,Bolton Wanderers FC,1-3,Crewe Alexandra FC
+33,Fri Feb 26 1999,Bristol City FC,0-1,Ipswich Town FC
 33,Fri Feb 26 1999,Bradford City AFC,1-0,West Bromwich Albion FC
 33,Fri Feb 26 1999,Grimsby Town FC,0-3,Birmingham City FC
-33,Fri Feb 26 1999,Bristol City FC,0-1,Ipswich Town FC
-33,Fri Feb 26 1999,Tranmere Rovers FC,4-0,Bury FC
 33,Sat Feb 27 1999,Crystal Palace FC,1-0,Barnsley FC
+34,Mon Mar 1 1999,West Bromwich Albion FC,3-1,Stockport County FC
+34,Mon Mar 1 1999,Sunderland AFC,2-0,Portsmouth FC
+34,Mon Mar 1 1999,Sheffield United FC,1-1,Crystal Palace FC
 34,Mon Mar 1 1999,Birmingham City FC,0-0,Norwich City FC
 34,Mon Mar 1 1999,Huddersfield Town AFC,3-2,Bolton Wanderers FC
 34,Mon Mar 1 1999,Ipswich Town FC,3-2,Watford FC
-34,Mon Mar 1 1999,Sheffield United FC,1-1,Crystal Palace FC
-34,Mon Mar 1 1999,Sunderland AFC,2-0,Portsmouth FC
-34,Mon Mar 1 1999,West Bromwich Albion FC,3-1,Stockport County FC
+34,Tue Mar 2 1999,Swindon Town FC,2-3,Tranmere Rovers FC
 34,Tue Mar 2 1999,Queens Park Rangers FC,1-0,Oxford United FC
 34,Tue Mar 2 1999,Barnsley FC,0-1,Bradford City AFC
-34,Tue Mar 2 1999,Swindon Town FC,2-3,Tranmere Rovers FC
-35,Fri Mar 5 1999,Birmingham City FC,4-1,Portsmouth FC
+35,Fri Mar 5 1999,West Bromwich Albion FC,2-0,Oxford United FC
+35,Fri Mar 5 1999,Swindon Town FC,3-3,Bolton Wanderers FC
 35,Fri Mar 5 1999,Sunderland AFC,1-0,Norwich City FC
+35,Fri Mar 5 1999,Birmingham City FC,4-1,Portsmouth FC
+35,Fri Mar 5 1999,Queens Park Rangers FC,0-1,Wolverhampton Wanderers FC
+35,Fri Mar 5 1999,Ipswich Town FC,1-0,Tranmere Rovers FC
 35,Fri Mar 5 1999,Huddersfield Town AFC,3-0,Stockport County FC
 35,Fri Mar 5 1999,Bury FC,0-0,Crystal Palace FC
-35,Fri Mar 5 1999,Queens Park Rangers FC,0-1,Wolverhampton Wanderers FC
-35,Fri Mar 5 1999,Swindon Town FC,3-3,Bolton Wanderers FC
-35,Fri Mar 5 1999,Ipswich Town FC,1-0,Tranmere Rovers FC
-35,Fri Mar 5 1999,West Bromwich Albion FC,2-0,Oxford United FC
 35,Fri Mar 5 1999,Sheffield United FC,3-0,Watford FC
 36,Mon Mar 8 1999,Tranmere Rovers FC,0-1,Birmingham City FC
 36,Mon Mar 8 1999,Stockport County FC,2-1,Swindon Town FC
 36,Mon Mar 8 1999,Portsmouth FC,1-0,Sheffield United FC
 36,Mon Mar 8 1999,Oxford United FC,2-2,Huddersfield Town AFC
-36,Mon Mar 8 1999,Bolton Wanderers FC,3-3,Barnsley FC
 36,Mon Mar 8 1999,Norwich City FC,3-4,Port Vale FC
-36,Mon Mar 8 1999,Crystal Palace FC,3-2,Ipswich Town FC
-36,Mon Mar 8 1999,Bradford City AFC,0-1,Sunderland AFC
+36,Mon Mar 8 1999,Bolton Wanderers FC,3-3,Barnsley FC
 36,Mon Mar 8 1999,Bristol City FC,1-1,Bury FC
-37,Fri Mar 12 1999,Bradford City AFC,4-1,Norwich City FC
-37,Fri Mar 12 1999,Grimsby Town FC,0-2,Sunderland AFC
-37,Fri Mar 12 1999,Swindon Town FC,1-2,Crewe Alexandra FC
-37,Fri Mar 12 1999,Birmingham City FC,4-0,West Bromwich Albion FC
-37,Fri Mar 12 1999,Ipswich Town FC,3-0,Huddersfield Town AFC
-37,Fri Mar 12 1999,Bury FC,0-0,Barnsley FC
-37,Fri Mar 12 1999,Bolton Wanderers FC,2-1,Queens Park Rangers FC
-37,Fri Mar 12 1999,Tranmere Rovers FC,2-3,Sheffield United FC
-37,Fri Mar 12 1999,Oxford United FC,0-0,Watford FC
-37,Fri Mar 12 1999,Port Vale FC,1-1,Stockport County FC
+36,Mon Mar 8 1999,Bradford City AFC,0-1,Sunderland AFC
+36,Mon Mar 8 1999,Crystal Palace FC,3-2,Ipswich Town FC
 37,Fri Mar 12 1999,Wolverhampton Wanderers FC,3-0,Bristol City FC
+37,Fri Mar 12 1999,Tranmere Rovers FC,2-3,Sheffield United FC
+37,Fri Mar 12 1999,Swindon Town FC,1-2,Crewe Alexandra FC
 37,Fri Mar 12 1999,Portsmouth FC,1-1,Crystal Palace FC
+37,Fri Mar 12 1999,Port Vale FC,1-1,Stockport County FC
+37,Fri Mar 12 1999,Oxford United FC,0-0,Watford FC
+37,Fri Mar 12 1999,Birmingham City FC,4-0,West Bromwich Albion FC
+37,Fri Mar 12 1999,Grimsby Town FC,0-2,Sunderland AFC
+37,Fri Mar 12 1999,Bury FC,0-0,Barnsley FC
+37,Fri Mar 12 1999,Bradford City AFC,4-1,Norwich City FC
+37,Fri Mar 12 1999,Bolton Wanderers FC,2-1,Queens Park Rangers FC
+37,Fri Mar 12 1999,Ipswich Town FC,3-0,Huddersfield Town AFC
 34,Mon Mar 15 1999,Bury FC,0-0,Wolverhampton Wanderers FC
 35,Mon Mar 15 1999,Crewe Alexandra FC,0-0,Grimsby Town FC
-38,Fri Mar 19 1999,Crewe Alexandra FC,3-1,Oxford United FC
-38,Fri Mar 19 1999,Sheffield United FC,3-0,Port Vale FC
-38,Fri Mar 19 1999,Huddersfield Town AFC,1-1,Birmingham City FC
-38,Fri Mar 19 1999,Queens Park Rangers FC,4-0,Swindon Town FC
-38,Fri Mar 19 1999,Norwich City FC,0-0,Portsmouth FC
-38,Fri Mar 19 1999,Crystal Palace FC,3-1,Grimsby Town FC
-38,Fri Mar 19 1999,Stockport County FC,0-0,Tranmere Rovers FC
-38,Fri Mar 19 1999,Barnsley FC,2-3,Wolverhampton Wanderers FC
 38,Fri Mar 19 1999,West Bromwich Albion FC,0-1,Ipswich Town FC
 38,Fri Mar 19 1999,Watford FC,0-0,Bury FC
 38,Fri Mar 19 1999,Sunderland AFC,3-1,Bolton Wanderers FC
+38,Fri Mar 19 1999,Barnsley FC,2-3,Wolverhampton Wanderers FC
+38,Fri Mar 19 1999,Sheffield United FC,3-0,Port Vale FC
+38,Fri Mar 19 1999,Queens Park Rangers FC,4-0,Swindon Town FC
+38,Fri Mar 19 1999,Norwich City FC,0-0,Portsmouth FC
+38,Fri Mar 19 1999,Huddersfield Town AFC,1-1,Birmingham City FC
+38,Fri Mar 19 1999,Crystal Palace FC,3-1,Grimsby Town FC
+38,Fri Mar 19 1999,Crewe Alexandra FC,3-1,Oxford United FC
 38,Fri Mar 19 1999,Bristol City FC,2-3,Bradford City AFC
-35,Mon Mar 22 1999,Barnsley FC,2-0,Bristol City FC
+38,Fri Mar 19 1999,Stockport County FC,0-0,Tranmere Rovers FC
 34,Mon Mar 22 1999,Port Vale FC,0-1,Grimsby Town FC
+35,Mon Mar 22 1999,Barnsley FC,2-0,Bristol City FC
 39,Tue Mar 23 1999,Huddersfield Town AFC,1-1,Norwich City FC
 39,Thu Mar 25 1999,Tranmere Rovers FC,3-0,Crewe Alexandra FC
 39,Thu Mar 25 1999,Sheffield United FC,1-2,Oxford United FC
-39,Sat Mar 27 1999,Crystal Palace FC,1-0,Bradford City AFC
 39,Sat Mar 27 1999,Portsmouth FC,1-3,Barnsley FC
+39,Sat Mar 27 1999,Crystal Palace FC,1-0,Bradford City AFC
 36,Mon Mar 29 1999,Wolverhampton Wanderers FC,3-0,Crewe Alexandra FC
 40,Thu Apr 1 1999,Crewe Alexandra FC,0-0,Birmingham City FC
+40,Fri Apr 2 1999,Wolverhampton Wanderers FC,2-0,Portsmouth FC
+40,Fri Apr 2 1999,Watford FC,2-1,Tranmere Rovers FC
 40,Fri Apr 2 1999,Swindon Town FC,0-6,Ipswich Town FC
+40,Fri Apr 2 1999,Sunderland AFC,3-0,West Bromwich Albion FC
+40,Fri Apr 2 1999,Stockport County FC,0-0,Bury FC
 40,Fri Apr 2 1999,Queens Park Rangers FC,1-1,Huddersfield Town AFC
 40,Fri Apr 2 1999,Oxford United FC,0-0,Bolton Wanderers FC
 40,Fri Apr 2 1999,Norwich City FC,0-1,Crystal Palace FC
-40,Fri Apr 2 1999,Stockport County FC,0-0,Bury FC
-40,Fri Apr 2 1999,Sunderland AFC,3-0,West Bromwich Albion FC
-40,Fri Apr 2 1999,Barnsley FC,2-1,Sheffield United FC
 40,Fri Apr 2 1999,Bristol City FC,2-0,Port Vale FC
-40,Fri Apr 2 1999,Watford FC,2-1,Tranmere Rovers FC
-40,Fri Apr 2 1999,Wolverhampton Wanderers FC,2-0,Portsmouth FC
 40,Fri Apr 2 1999,Bradford City AFC,3-0,Grimsby Town FC
+40,Fri Apr 2 1999,Barnsley FC,2-1,Sheffield United FC
 41,Sun Apr 4 1999,West Bromwich Albion FC,1-5,Crewe Alexandra FC
 41,Sun Apr 4 1999,Tranmere Rovers FC,2-2,Oxford United FC
 41,Sun Apr 4 1999,Sheffield United FC,1-1,Wolverhampton Wanderers FC
+41,Sun Apr 4 1999,Portsmouth FC,0-1,Bristol City FC
 41,Sun Apr 4 1999,Port Vale FC,1-0,Barnsley FC
 41,Sun Apr 4 1999,Birmingham City FC,1-2,Watford FC
 41,Sun Apr 4 1999,Huddersfield Town AFC,1-2,Swindon Town FC
@@ -477,7 +478,6 @@ Matchday,Date,Team 1,FT,Team 2
 41,Sun Apr 4 1999,Crystal Palace FC,1-1,Sunderland AFC
 41,Sun Apr 4 1999,Bury FC,0-2,Bradford City AFC
 41,Sun Apr 4 1999,Bolton Wanderers FC,1-2,Stockport County FC
-41,Sun Apr 4 1999,Portsmouth FC,0-1,Bristol City FC
 41,Sun Apr 4 1999,Ipswich Town FC,3-1,Queens Park Rangers FC
 42,Fri Apr 9 1999,Wolverhampton Wanderers FC,0-0,Crystal Palace FC
 42,Fri Apr 9 1999,Watford FC,2-0,Bolton Wanderers FC
@@ -485,66 +485,66 @@ Matchday,Date,Team 1,FT,Team 2
 42,Fri Apr 9 1999,Sunderland AFC,2-0,Huddersfield Town AFC
 42,Fri Apr 9 1999,Stockport County FC,1-0,Sheffield United FC
 42,Fri Apr 9 1999,Queens Park Rangers FC,2-1,West Bromwich Albion FC
-42,Fri Apr 9 1999,Bradford City AFC,2-1,Portsmouth FC
+42,Fri Apr 9 1999,Oxford United FC,0-1,Bury FC
 42,Fri Apr 9 1999,Barnsley FC,1-1,Tranmere Rovers FC
 42,Fri Apr 9 1999,Bristol City FC,4-1,Grimsby Town FC
+42,Fri Apr 9 1999,Bradford City AFC,2-1,Portsmouth FC
 42,Fri Apr 9 1999,Crewe Alexandra FC,0-0,Port Vale FC
-42,Fri Apr 9 1999,Oxford United FC,0-1,Bury FC
 42,Sat Apr 10 1999,Norwich City FC,0-0,Ipswich Town FC
 35,Mon Apr 12 1999,Port Vale FC,1-1,Bradford City AFC
 36,Mon Apr 12 1999,Grimsby Town FC,1-0,Queens Park Rangers FC
+39,Mon Apr 12 1999,West Bromwich Albion FC,1-1,Swindon Town FC
 39,Mon Apr 12 1999,Bury FC,2-5,Sunderland AFC
 39,Mon Apr 12 1999,Bolton Wanderers FC,1-0,Bristol City FC
-39,Mon Apr 12 1999,West Bromwich Albion FC,1-1,Swindon Town FC
 43,Thu Apr 15 1999,Barnsley FC,1-3,Sunderland AFC
-43,Fri Apr 16 1999,Norwich City FC,2-2,Tranmere Rovers FC
-43,Fri Apr 16 1999,Crystal Palace FC,0-1,Swindon Town FC
-43,Fri Apr 16 1999,Crewe Alexandra FC,0-1,Watford FC
-43,Fri Apr 16 1999,Grimsby Town FC,0-0,Bury FC
-43,Fri Apr 16 1999,Birmingham City FC,0-1,Wolverhampton Wanderers FC
-43,Fri Apr 16 1999,Port Vale FC,1-0,Oxford United FC
-43,Fri Apr 16 1999,Bradford City AFC,2-3,Huddersfield Town AFC
 43,Fri Apr 16 1999,Stockport County FC,2-2,Bristol City FC
 43,Fri Apr 16 1999,West Bromwich Albion FC,2-2,Portsmouth FC
 43,Fri Apr 16 1999,Sheffield United FC,2-0,Queens Park Rangers FC
+43,Fri Apr 16 1999,Port Vale FC,1-0,Oxford United FC
+43,Fri Apr 16 1999,Norwich City FC,2-2,Tranmere Rovers FC
+43,Fri Apr 16 1999,Grimsby Town FC,0-0,Bury FC
+43,Fri Apr 16 1999,Crystal Palace FC,0-1,Swindon Town FC
+43,Fri Apr 16 1999,Crewe Alexandra FC,0-1,Watford FC
+43,Fri Apr 16 1999,Bradford City AFC,2-3,Huddersfield Town AFC
+43,Fri Apr 16 1999,Birmingham City FC,0-1,Wolverhampton Wanderers FC
 43,Fri Apr 16 1999,Bolton Wanderers FC,2-0,Ipswich Town FC
-31,Mon Apr 19 1999,Grimsby Town FC,1-2,Sheffield United FC
-39,Mon Apr 19 1999,Birmingham City FC,1-0,Queens Park Rangers FC
-39,Mon Apr 19 1999,Ipswich Town FC,1-0,Stockport County FC
 5,Mon Apr 19 1999,Norwich City FC,2-2,Bolton Wanderers FC
+31,Mon Apr 19 1999,Grimsby Town FC,1-2,Sheffield United FC
+39,Mon Apr 19 1999,Ipswich Town FC,1-0,Stockport County FC
+39,Mon Apr 19 1999,Birmingham City FC,1-0,Queens Park Rangers FC
 44,Thu Apr 22 1999,Bury FC,2-1,Bolton Wanderers FC
-44,Fri Apr 23 1999,Portsmouth FC,3-1,Stockport County FC
-44,Fri Apr 23 1999,Ipswich Town FC,1-2,Crewe Alexandra FC
-44,Fri Apr 23 1999,Bristol City FC,1-2,Birmingham City FC
 44,Fri Apr 23 1999,Swindon Town FC,2-0,Grimsby Town FC
 44,Fri Apr 23 1999,Tranmere Rovers FC,1-1,Port Vale FC
 44,Fri Apr 23 1999,Watford FC,2-1,Crystal Palace FC
-44,Fri Apr 23 1999,Oxford United FC,2-4,Norwich City FC
-44,Fri Apr 23 1999,Queens Park Rangers FC,1-3,Bradford City AFC
-44,Fri Apr 23 1999,Huddersfield Town AFC,0-1,Barnsley FC
 44,Fri Apr 23 1999,Sunderland AFC,0-0,Sheffield United FC
+44,Fri Apr 23 1999,Queens Park Rangers FC,1-3,Bradford City AFC
+44,Fri Apr 23 1999,Portsmouth FC,3-1,Stockport County FC
+44,Fri Apr 23 1999,Oxford United FC,2-4,Norwich City FC
+44,Fri Apr 23 1999,Bristol City FC,1-2,Birmingham City FC
+44,Fri Apr 23 1999,Huddersfield Town AFC,0-1,Barnsley FC
+44,Fri Apr 23 1999,Ipswich Town FC,1-2,Crewe Alexandra FC
 44,Sat Apr 24 1999,Wolverhampton Wanderers FC,1-1,West Bromwich Albion FC
-39,Mon Apr 26 1999,Port Vale FC,1-2,Watford FC
 34,Mon Apr 26 1999,Crewe Alexandra FC,1-0,Bristol City FC
+39,Mon Apr 26 1999,Port Vale FC,1-2,Watford FC
 45,Thu Apr 29 1999,Bolton Wanderers FC,1-1,Wolverhampton Wanderers FC
-45,Fri Apr 30 1999,West Bromwich Albion FC,1-0,Bury FC
 45,Fri Apr 30 1999,Port Vale FC,2-0,Queens Park Rangers FC
 45,Fri Apr 30 1999,Stockport County FC,0-1,Sunderland AFC
 45,Fri Apr 30 1999,Sheffield United FC,3-1,Bristol City FC
-45,Fri Apr 30 1999,Barnsley FC,2-2,Watford FC
+45,Fri Apr 30 1999,West Bromwich Albion FC,1-0,Bury FC
 45,Fri Apr 30 1999,Norwich City FC,2-1,Swindon Town FC
 45,Fri Apr 30 1999,Grimsby Town FC,1-0,Tranmere Rovers FC
 45,Fri Apr 30 1999,Crystal Palace FC,2-2,Huddersfield Town AFC
 45,Fri Apr 30 1999,Crewe Alexandra FC,3-1,Portsmouth FC
 45,Fri Apr 30 1999,Bradford City AFC,0-0,Oxford United FC
+45,Fri Apr 30 1999,Barnsley FC,2-2,Watford FC
 45,Sat May 1 1999,Birmingham City FC,1-0,Ipswich Town FC
 39,Mon May 3 1999,Grimsby Town FC,0-0,Wolverhampton Wanderers FC
-46,Sat May 8 1999,Wolverhampton Wanderers FC,2-3,Bradford City AFC
+46,Sat May 8 1999,Queens Park Rangers FC,6-0,Crystal Palace FC
 46,Sat May 8 1999,Watford FC,1-0,Grimsby Town FC
 46,Sat May 8 1999,Tranmere Rovers FC,3-1,West Bromwich Albion FC
 46,Sat May 8 1999,Swindon Town FC,1-3,Barnsley FC
 46,Sat May 8 1999,Sunderland AFC,2-1,Birmingham City FC
-46,Sat May 8 1999,Queens Park Rangers FC,6-0,Crystal Palace FC
+46,Sat May 8 1999,Wolverhampton Wanderers FC,2-3,Bradford City AFC
 46,Sat May 8 1999,Portsmouth FC,0-2,Bolton Wanderers FC
 46,Sat May 8 1999,Oxford United FC,5-0,Stockport County FC
 46,Sat May 8 1999,Ipswich Town FC,4-1,Sheffield United FC

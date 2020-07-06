@@ -1,91 +1,91 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 16 2003,Leicester City FC,2-2,Southampton FC
 1,Sat Aug 16 2003,Portsmouth FC,2-1,Aston Villa FC
 1,Sat Aug 16 2003,Manchester United FC,4-0,Bolton Wanderers FC
 1,Sat Aug 16 2003,Blackburn Rovers FC,5-1,Wolverhampton Wanderers FC
-1,Sat Aug 16 2003,Fulham FC,3-2,Middlesbrough FC
-1,Sat Aug 16 2003,Birmingham City FC,1-0,Tottenham Hotspur FC
 1,Sat Aug 16 2003,Arsenal FC,2-1,Everton FC
+1,Sat Aug 16 2003,Birmingham City FC,1-0,Tottenham Hotspur FC
+1,Sat Aug 16 2003,Fulham FC,3-2,Middlesbrough FC
 1,Sun Aug 17 2003,Leeds United FC,2-2,Newcastle United FC
-1,Sun Aug 17 2003,Charlton Athletic FC,0-3,Manchester City FC
 1,Sun Aug 17 2003,Liverpool FC,1-2,Chelsea FC
+1,Sun Aug 17 2003,Charlton Athletic FC,0-3,Manchester City FC
 2,Sat Aug 23 2003,Bolton Wanderers FC,2-2,Blackburn Rovers FC
 2,Sat Aug 23 2003,Southampton FC,0-0,Birmingham City FC
-2,Sat Aug 23 2003,Chelsea FC,2-1,Leicester City FC
+2,Sat Aug 23 2003,Everton FC,3-1,Fulham FC
 2,Sat Aug 23 2003,Tottenham Hotspur FC,2-1,Leeds United FC
 2,Sat Aug 23 2003,Newcastle United FC,1-2,Manchester United FC
 2,Sat Aug 23 2003,Manchester City FC,1-1,Portsmouth FC
 2,Sat Aug 23 2003,Wolverhampton Wanderers FC,0-4,Charlton Athletic FC
-2,Sat Aug 23 2003,Everton FC,3-1,Fulham FC
+2,Sat Aug 23 2003,Chelsea FC,2-1,Leicester City FC
 2,Sun Aug 24 2003,Middlesbrough FC,0-4,Arsenal FC
 2,Sun Aug 24 2003,Aston Villa FC,0-0,Liverpool FC
 3,Mon Aug 25 2003,Blackburn Rovers FC,2-3,Manchester City FC
 3,Tue Aug 26 2003,Leicester City FC,0-0,Middlesbrough FC
 3,Tue Aug 26 2003,Charlton Athletic FC,2-2,Everton FC
-3,Tue Aug 26 2003,Portsmouth FC,4-0,Bolton Wanderers FC
 3,Tue Aug 26 2003,Leeds United FC,0-0,Southampton FC
+3,Tue Aug 26 2003,Portsmouth FC,4-0,Bolton Wanderers FC
 3,Wed Aug 27 2003,Manchester United FC,1-0,Wolverhampton Wanderers FC
 3,Wed Aug 27 2003,Arsenal FC,2-0,Aston Villa FC
 3,Wed Aug 27 2003,Liverpool FC,0-0,Tottenham Hotspur FC
 4,Sat Aug 30 2003,Newcastle United FC,0-1,Birmingham City FC
-4,Sat Aug 30 2003,Aston Villa FC,3-1,Leicester City FC
-4,Sat Aug 30 2003,Bolton Wanderers FC,0-0,Charlton Athletic FC
 4,Sat Aug 30 2003,Chelsea FC,2-2,Blackburn Rovers FC
 4,Sat Aug 30 2003,Middlesbrough FC,2-3,Leeds United FC
 4,Sat Aug 30 2003,Wolverhampton Wanderers FC,0-0,Portsmouth FC
 4,Sat Aug 30 2003,Everton FC,0-3,Liverpool FC
 4,Sat Aug 30 2003,Tottenham Hotspur FC,0-3,Fulham FC
+4,Sat Aug 30 2003,Aston Villa FC,3-1,Leicester City FC
+4,Sat Aug 30 2003,Bolton Wanderers FC,0-0,Charlton Athletic FC
 4,Sun Aug 31 2003,Southampton FC,1-0,Manchester United FC
 4,Sun Aug 31 2003,Manchester City FC,1-2,Arsenal FC
 5,Sat Sep 13 2003,Southampton FC,2-0,Wolverhampton Wanderers FC
-5,Sat Sep 13 2003,Charlton Athletic FC,0-2,Manchester United FC
-5,Sat Sep 13 2003,Chelsea FC,4-2,Tottenham Hotspur FC
-5,Sat Sep 13 2003,Arsenal FC,1-1,Portsmouth FC
+5,Sat Sep 13 2003,Blackburn Rovers FC,1-3,Liverpool FC
 5,Sat Sep 13 2003,Everton FC,2-2,Newcastle United FC
 5,Sat Sep 13 2003,Bolton Wanderers FC,2-0,Middlesbrough FC
-5,Sat Sep 13 2003,Blackburn Rovers FC,1-3,Liverpool FC
+5,Sat Sep 13 2003,Arsenal FC,1-1,Portsmouth FC
+5,Sat Sep 13 2003,Chelsea FC,4-2,Tottenham Hotspur FC
+5,Sat Sep 13 2003,Charlton Athletic FC,0-2,Manchester United FC
 5,Sun Sep 14 2003,Manchester City FC,4-1,Aston Villa FC
 5,Sun Sep 14 2003,Birmingham City FC,2-2,Fulham FC
 5,Mon Sep 15 2003,Leicester City FC,4-0,Leeds United FC
-6,Sat Sep 20 2003,Portsmouth FC,1-2,Blackburn Rovers FC
-6,Sat Sep 20 2003,Aston Villa FC,2-1,Charlton Athletic FC
 6,Sat Sep 20 2003,Newcastle United FC,0-0,Bolton Wanderers FC
-6,Sat Sep 20 2003,Wolverhampton Wanderers FC,0-5,Chelsea FC
+6,Sat Sep 20 2003,Portsmouth FC,1-2,Blackburn Rovers FC
 6,Sat Sep 20 2003,Liverpool FC,2-1,Leicester City FC
 6,Sat Sep 20 2003,Fulham FC,2-2,Manchester City FC
 6,Sat Sep 20 2003,Leeds United FC,0-2,Birmingham City FC
 6,Sat Sep 20 2003,Tottenham Hotspur FC,1-3,Southampton FC
+6,Sat Sep 20 2003,Wolverhampton Wanderers FC,0-5,Chelsea FC
+6,Sat Sep 20 2003,Aston Villa FC,2-1,Charlton Athletic FC
 6,Sun Sep 21 2003,Manchester United FC,0-0,Arsenal FC
 6,Sun Sep 21 2003,Middlesbrough FC,1-0,Everton FC
 7,Fri Sep 26 2003,Arsenal FC,3-2,Newcastle United FC
-7,Sat Sep 27 2003,Southampton FC,0-1,Middlesbrough FC
-7,Sat Sep 27 2003,Birmingham City FC,2-0,Portsmouth FC
 7,Sat Sep 27 2003,Chelsea FC,1-0,Aston Villa FC
 7,Sat Sep 27 2003,Bolton Wanderers FC,1-1,Wolverhampton Wanderers FC
 7,Sat Sep 27 2003,Leicester City FC,1-4,Manchester United FC
-7,Sun Sep 28 2003,Manchester City FC,0-0,Tottenham Hotspur FC
-7,Sun Sep 28 2003,Everton FC,4-0,Leeds United FC
+7,Sat Sep 27 2003,Birmingham City FC,2-0,Portsmouth FC
+7,Sat Sep 27 2003,Southampton FC,0-1,Middlesbrough FC
 7,Sun Sep 28 2003,Blackburn Rovers FC,0-2,Fulham FC
 7,Sun Sep 28 2003,Charlton Athletic FC,3-2,Liverpool FC
-8,Sat Oct 4 2003,Wolverhampton Wanderers FC,1-0,Manchester City FC
-8,Sat Oct 4 2003,Leeds United FC,2-1,Blackburn Rovers FC
+7,Sun Sep 28 2003,Manchester City FC,0-0,Tottenham Hotspur FC
+7,Sun Sep 28 2003,Everton FC,4-0,Leeds United FC
 8,Sat Oct 4 2003,Tottenham Hotspur FC,3-0,Everton FC
 8,Sat Oct 4 2003,Newcastle United FC,1-0,Southampton FC
-8,Sat Oct 4 2003,Portsmouth FC,1-2,Charlton Athletic FC
-8,Sat Oct 4 2003,Liverpool FC,1-2,Arsenal FC
-8,Sat Oct 4 2003,Manchester United FC,3-0,Birmingham City FC
+8,Sat Oct 4 2003,Wolverhampton Wanderers FC,1-0,Manchester City FC
 8,Sat Oct 4 2003,Fulham FC,2-0,Leicester City FC
+8,Sat Oct 4 2003,Manchester United FC,3-0,Birmingham City FC
+8,Sat Oct 4 2003,Liverpool FC,1-2,Arsenal FC
+8,Sat Oct 4 2003,Portsmouth FC,1-2,Charlton Athletic FC
+8,Sat Oct 4 2003,Leeds United FC,2-1,Blackburn Rovers FC
 8,Sun Oct 5 2003,Aston Villa FC,1-1,Bolton Wanderers FC
 8,Sun Oct 5 2003,Middlesbrough FC,1-2,Chelsea FC
 3,Tue Oct 14 2003,Birmingham City FC,0-0,Chelsea FC
-9,Sat Oct 18 2003,Leeds United FC,0-1,Manchester United FC
 9,Sat Oct 18 2003,Manchester City FC,6-2,Bolton Wanderers FC
 9,Sat Oct 18 2003,Fulham FC,0-0,Wolverhampton Wanderers FC
 9,Sat Oct 18 2003,Middlesbrough FC,0-1,Newcastle United FC
-9,Sat Oct 18 2003,Portsmouth FC,1-0,Liverpool FC
 9,Sat Oct 18 2003,Arsenal FC,2-1,Chelsea FC
-9,Sun Oct 19 2003,Leicester City FC,1-2,Tottenham Hotspur FC
+9,Sat Oct 18 2003,Leeds United FC,0-1,Manchester United FC
+9,Sat Oct 18 2003,Portsmouth FC,1-0,Liverpool FC
 9,Sun Oct 19 2003,Birmingham City FC,0-0,Aston Villa FC
+9,Sun Oct 19 2003,Leicester City FC,1-2,Tottenham Hotspur FC
 9,Sun Oct 19 2003,Everton FC,0-0,Southampton FC
 9,Mon Oct 20 2003,Blackburn Rovers FC,0-1,Charlton Athletic FC
 3,Tue Oct 21 2003,Fulham FC,2-3,Newcastle United FC
@@ -93,15 +93,15 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Oct 25 2003,Southampton FC,2-0,Blackburn Rovers FC
 10,Sat Oct 25 2003,Bolton Wanderers FC,0-1,Birmingham City FC
 10,Sat Oct 25 2003,Manchester United FC,1-3,Fulham FC
-10,Sat Oct 25 2003,Newcastle United FC,3-0,Portsmouth FC
+10,Sat Oct 25 2003,Aston Villa FC,0-0,Everton FC
 10,Sat Oct 25 2003,Liverpool FC,3-1,Leeds United FC
 10,Sat Oct 25 2003,Wolverhampton Wanderers FC,4-3,Leicester City FC
-10,Sat Oct 25 2003,Aston Villa FC,0-0,Everton FC
+10,Sat Oct 25 2003,Newcastle United FC,3-0,Portsmouth FC
 10,Sun Oct 26 2003,Charlton Athletic FC,1-1,Arsenal FC
 10,Sun Oct 26 2003,Tottenham Hotspur FC,0-0,Middlesbrough FC
-11,Sat Nov 1 2003,Leeds United FC,1-4,Arsenal FC
-11,Sat Nov 1 2003,Tottenham Hotspur FC,0-1,Bolton Wanderers FC
 11,Sat Nov 1 2003,Southampton FC,0-2,Manchester City FC
+11,Sat Nov 1 2003,Tottenham Hotspur FC,0-1,Bolton Wanderers FC
+11,Sat Nov 1 2003,Leeds United FC,1-4,Arsenal FC
 11,Sat Nov 1 2003,Middlesbrough FC,2-0,Wolverhampton Wanderers FC
 11,Sat Nov 1 2003,Everton FC,0-1,Chelsea FC
 11,Sat Nov 1 2003,Newcastle United FC,1-1,Aston Villa FC
@@ -109,49 +109,49 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sun Nov 2 2003,Fulham FC,1-2,Liverpool FC
 11,Sun Nov 2 2003,Leicester City FC,2-0,Blackburn Rovers FC
 11,Mon Nov 3 2003,Birmingham City FC,1-2,Charlton Athletic FC
-12,Sat Nov 8 2003,Arsenal FC,2-1,Tottenham Hotspur FC
 12,Sat Nov 8 2003,Wolverhampton Wanderers FC,1-1,Birmingham City FC
-12,Sat Nov 8 2003,Portsmouth FC,6-1,Leeds United FC
+12,Sat Nov 8 2003,Arsenal FC,2-1,Tottenham Hotspur FC
+12,Sat Nov 8 2003,Charlton Athletic FC,3-1,Fulham FC
 12,Sat Nov 8 2003,Bolton Wanderers FC,0-0,Southampton FC
 12,Sat Nov 8 2003,Aston Villa FC,0-2,Middlesbrough FC
-12,Sat Nov 8 2003,Charlton Athletic FC,3-1,Fulham FC
+12,Sat Nov 8 2003,Portsmouth FC,6-1,Leeds United FC
 12,Sun Nov 9 2003,Manchester City FC,0-3,Leicester City FC
 12,Sun Nov 9 2003,Liverpool FC,1-2,Manchester United FC
 12,Sun Nov 9 2003,Chelsea FC,5-0,Newcastle United FC
 12,Mon Nov 10 2003,Blackburn Rovers FC,2-1,Everton FC
-13,Sat Nov 22 2003,Newcastle United FC,3-0,Manchester City FC
 13,Sat Nov 22 2003,Leeds United FC,0-2,Bolton Wanderers FC
-13,Sat Nov 22 2003,Southampton FC,0-1,Chelsea FC
+13,Sat Nov 22 2003,Newcastle United FC,3-0,Manchester City FC
+13,Sat Nov 22 2003,Leicester City FC,1-1,Charlton Athletic FC
 13,Sat Nov 22 2003,Birmingham City FC,0-3,Arsenal FC
 13,Sat Nov 22 2003,Everton FC,2-0,Wolverhampton Wanderers FC
 13,Sat Nov 22 2003,Manchester United FC,2-1,Blackburn Rovers FC
 13,Sat Nov 22 2003,Middlesbrough FC,0-0,Liverpool FC
-13,Sat Nov 22 2003,Leicester City FC,1-1,Charlton Athletic FC
+13,Sat Nov 22 2003,Southampton FC,0-1,Chelsea FC
 13,Sun Nov 23 2003,Tottenham Hotspur FC,2-1,Aston Villa FC
 13,Mon Nov 24 2003,Fulham FC,2-0,Portsmouth FC
-14,Sat Nov 29 2003,Wolverhampton Wanderers FC,1-1,Newcastle United FC
 14,Sat Nov 29 2003,Portsmouth FC,0-2,Leicester City FC
+14,Sat Nov 29 2003,Wolverhampton Wanderers FC,1-1,Newcastle United FC
 14,Sat Nov 29 2003,Charlton Athletic FC,0-1,Leeds United FC
-14,Sat Nov 29 2003,Aston Villa FC,1-0,Southampton FC
-14,Sat Nov 29 2003,Bolton Wanderers FC,2-0,Everton FC
 14,Sat Nov 29 2003,Blackburn Rovers FC,1-0,Tottenham Hotspur FC
+14,Sat Nov 29 2003,Bolton Wanderers FC,2-0,Everton FC
+14,Sat Nov 29 2003,Aston Villa FC,1-0,Southampton FC
 14,Sun Nov 30 2003,Chelsea FC,1-0,Manchester United FC
-14,Sun Nov 30 2003,Manchester City FC,0-1,Middlesbrough FC
-14,Sun Nov 30 2003,Arsenal FC,0-0,Fulham FC
 14,Sun Nov 30 2003,Liverpool FC,3-1,Birmingham City FC
+14,Sun Nov 30 2003,Arsenal FC,0-0,Fulham FC
+14,Sun Nov 30 2003,Manchester City FC,0-1,Middlesbrough FC
 15,Sat Dec 6 2003,Birmingham City FC,0-4,Blackburn Rovers FC
 15,Sat Dec 6 2003,Tottenham Hotspur FC,5-2,Wolverhampton Wanderers FC
 15,Sat Dec 6 2003,Newcastle United FC,1-1,Liverpool FC
-15,Sat Dec 6 2003,Leeds United FC,1-1,Chelsea FC
+15,Sat Dec 6 2003,Leicester City FC,1-1,Arsenal FC
 15,Sat Dec 6 2003,Middlesbrough FC,0-0,Portsmouth FC
 15,Sat Dec 6 2003,Fulham FC,2-1,Bolton Wanderers FC
 15,Sat Dec 6 2003,Manchester United FC,4-0,Aston Villa FC
-15,Sat Dec 6 2003,Leicester City FC,1-1,Arsenal FC
+15,Sat Dec 6 2003,Leeds United FC,1-1,Chelsea FC
 15,Sun Dec 7 2003,Everton FC,0-0,Manchester City FC
 15,Sun Dec 7 2003,Southampton FC,3-2,Charlton Athletic FC
-16,Sat Dec 13 2003,Liverpool FC,1-2,Southampton FC
-16,Sat Dec 13 2003,Manchester United FC,3-1,Manchester City FC
 16,Sat Dec 13 2003,Newcastle United FC,4-0,Tottenham Hotspur FC
+16,Sat Dec 13 2003,Manchester United FC,3-1,Manchester City FC
+16,Sat Dec 13 2003,Liverpool FC,1-2,Southampton FC
 16,Sat Dec 13 2003,Leicester City FC,0-2,Birmingham City FC
 16,Sat Dec 13 2003,Middlesbrough FC,0-0,Charlton Athletic FC
 16,Sat Dec 13 2003,Chelsea FC,1-2,Bolton Wanderers FC
@@ -162,34 +162,32 @@ Matchday,Date,Team 1,FT,Team 2
 17,Sat Dec 20 2003,Fulham FC,0-1,Chelsea FC
 17,Sat Dec 20 2003,Bolton Wanderers FC,1-1,Arsenal FC
 17,Sat Dec 20 2003,Charlton Athletic FC,0-0,Newcastle United FC
-17,Sat Dec 20 2003,Blackburn Rovers FC,0-2,Aston Villa FC
 17,Sat Dec 20 2003,Everton FC,3-2,Leicester City FC
+17,Sat Dec 20 2003,Blackburn Rovers FC,0-2,Aston Villa FC
 17,Sun Dec 21 2003,Tottenham Hotspur FC,1-2,Manchester United FC
 17,Sun Dec 21 2003,Southampton FC,3-0,Portsmouth FC
 17,Mon Dec 22 2003,Manchester City FC,1-1,Leeds United FC
-18,Fri Dec 26 2003,Leicester City FC,1-1,Newcastle United FC
-18,Fri Dec 26 2003,Manchester United FC,3-2,Everton FC
 18,Fri Dec 26 2003,Portsmouth FC,2-0,Tottenham Hotspur FC
-18,Fri Dec 26 2003,Arsenal FC,3-0,Wolverhampton Wanderers FC
+18,Fri Dec 26 2003,Leicester City FC,1-1,Newcastle United FC
 18,Fri Dec 26 2003,Blackburn Rovers FC,2-2,Middlesbrough FC
 18,Fri Dec 26 2003,Leeds United FC,0-0,Aston Villa FC
 18,Fri Dec 26 2003,Charlton Athletic FC,4-2,Chelsea FC
 18,Fri Dec 26 2003,Birmingham City FC,2-1,Manchester City FC
 18,Fri Dec 26 2003,Fulham FC,2-0,Southampton FC
 18,Fri Dec 26 2003,Liverpool FC,3-1,Bolton Wanderers FC
-19,Sun Dec 28 2003,Everton FC,1-0,Birmingham City FC
-19,Sun Dec 28 2003,Middlesbrough FC,0-1,Manchester United FC
+18,Fri Dec 26 2003,Manchester United FC,3-2,Everton FC
+18,Fri Dec 26 2003,Arsenal FC,3-0,Wolverhampton Wanderers FC
 19,Sun Dec 28 2003,Manchester City FC,2-2,Liverpool FC
 19,Sun Dec 28 2003,Wolverhampton Wanderers FC,3-1,Leeds United FC
 19,Sun Dec 28 2003,Bolton Wanderers FC,2-2,Leicester City FC
-19,Sun Dec 28 2003,Tottenham Hotspur FC,0-1,Charlton Athletic FC
+19,Sun Dec 28 2003,Aston Villa FC,3-0,Fulham FC
 19,Sun Dec 28 2003,Newcastle United FC,0-1,Blackburn Rovers FC
 19,Sun Dec 28 2003,Chelsea FC,3-0,Portsmouth FC
-19,Sun Dec 28 2003,Aston Villa FC,3-0,Fulham FC
+19,Sun Dec 28 2003,Tottenham Hotspur FC,0-1,Charlton Athletic FC
+19,Sun Dec 28 2003,Middlesbrough FC,0-1,Manchester United FC
+19,Sun Dec 28 2003,Everton FC,1-0,Birmingham City FC
 19,Mon Dec 29 2003,Southampton FC,0-1,Arsenal FC
 20,Tue Jan 6 2004,Aston Villa FC,2-1,Portsmouth FC
-20,Wed Jan 7 2004,Tottenham Hotspur FC,4-1,Birmingham City FC
-20,Wed Jan 7 2004,Manchester City FC,1-1,Charlton Athletic FC
 20,Wed Jan 7 2004,Everton FC,1-1,Arsenal FC
 20,Wed Jan 7 2004,Chelsea FC,0-1,Liverpool FC
 20,Wed Jan 7 2004,Newcastle United FC,1-0,Leeds United FC
@@ -197,38 +195,39 @@ Matchday,Date,Team 1,FT,Team 2
 20,Wed Jan 7 2004,Southampton FC,0-0,Leicester City FC
 20,Wed Jan 7 2004,Wolverhampton Wanderers FC,2-2,Blackburn Rovers FC
 20,Wed Jan 7 2004,Middlesbrough FC,2-1,Fulham FC
-21,Sat Jan 10 2004,Blackburn Rovers FC,3-4,Bolton Wanderers FC
-21,Sat Jan 10 2004,Portsmouth FC,4-2,Manchester City FC
+20,Wed Jan 7 2004,Tottenham Hotspur FC,4-1,Birmingham City FC
+20,Wed Jan 7 2004,Manchester City FC,1-1,Charlton Athletic FC
 21,Sat Jan 10 2004,Fulham FC,2-1,Everton FC
 21,Sat Jan 10 2004,Liverpool FC,1-0,Aston Villa FC
 21,Sat Jan 10 2004,Birmingham City FC,2-1,Southampton FC
+21,Sat Jan 10 2004,Leeds United FC,0-1,Tottenham Hotspur FC
+21,Sat Jan 10 2004,Blackburn Rovers FC,3-4,Bolton Wanderers FC
 21,Sat Jan 10 2004,Charlton Athletic FC,2-0,Wolverhampton Wanderers FC
 21,Sat Jan 10 2004,Arsenal FC,4-1,Middlesbrough FC
-21,Sat Jan 10 2004,Leeds United FC,0-1,Tottenham Hotspur FC
+21,Sat Jan 10 2004,Portsmouth FC,4-2,Manchester City FC
 21,Sun Jan 11 2004,Leicester City FC,0-4,Chelsea FC
 21,Sun Jan 11 2004,Manchester United FC,0-0,Newcastle United FC
-22,Sat Jan 17 2004,Manchester City FC,1-1,Blackburn Rovers FC
-22,Sat Jan 17 2004,Southampton FC,2-1,Leeds United FC
 22,Sat Jan 17 2004,Everton FC,0-1,Charlton Athletic FC
 22,Sat Jan 17 2004,Middlesbrough FC,3-3,Leicester City FC
-22,Sat Jan 17 2004,Tottenham Hotspur FC,2-1,Liverpool FC
-22,Sat Jan 17 2004,Wolverhampton Wanderers FC,1-0,Manchester United FC
 22,Sat Jan 17 2004,Bolton Wanderers FC,1-0,Portsmouth FC
+22,Sat Jan 17 2004,Manchester City FC,1-1,Blackburn Rovers FC
+22,Sat Jan 17 2004,Southampton FC,2-1,Leeds United FC
+22,Sat Jan 17 2004,Wolverhampton Wanderers FC,1-0,Manchester United FC
+22,Sat Jan 17 2004,Tottenham Hotspur FC,2-1,Liverpool FC
 22,Sun Jan 18 2004,Chelsea FC,0-0,Birmingham City FC
 22,Sun Jan 18 2004,Aston Villa FC,0-2,Arsenal FC
 22,Mon Jan 19 2004,Newcastle United FC,3-1,Fulham FC
 17,Wed Jan 21 2004,Wolverhampton Wanderers FC,1-1,Liverpool FC
-23,Sat Jan 31 2004,Manchester United FC,3-2,Southampton FC
 23,Sat Jan 31 2004,Portsmouth FC,0-0,Wolverhampton Wanderers FC
 23,Sat Jan 31 2004,Liverpool FC,0-0,Everton FC
 23,Sat Jan 31 2004,Fulham FC,2-1,Tottenham Hotspur FC
 23,Sat Jan 31 2004,Charlton Athletic FC,1-2,Bolton Wanderers FC
-23,Sat Jan 31 2004,Leicester City FC,0-5,Aston Villa FC
-23,Sat Jan 31 2004,Birmingham City FC,1-1,Newcastle United FC
 23,Sat Jan 31 2004,Leeds United FC,0-3,Middlesbrough FC
-23,Sun Feb 1 2004,Arsenal FC,2-1,Manchester City FC
+23,Sat Jan 31 2004,Birmingham City FC,1-1,Newcastle United FC
+23,Sat Jan 31 2004,Leicester City FC,0-5,Aston Villa FC
+23,Sat Jan 31 2004,Manchester United FC,3-2,Southampton FC
 23,Sun Feb 1 2004,Blackburn Rovers FC,2-3,Chelsea FC
-24,Sat Feb 7 2004,Southampton FC,0-0,Fulham FC
+23,Sun Feb 1 2004,Arsenal FC,2-1,Manchester City FC
 24,Sat Feb 7 2004,Wolverhampton Wanderers FC,1-3,Arsenal FC
 24,Sat Feb 7 2004,Everton FC,3-4,Manchester United FC
 24,Sat Feb 7 2004,Bolton Wanderers FC,2-2,Liverpool FC
@@ -236,69 +235,70 @@ Matchday,Date,Team 1,FT,Team 2
 24,Sat Feb 7 2004,Tottenham Hotspur FC,4-3,Portsmouth FC
 24,Sat Feb 7 2004,Aston Villa FC,2-0,Leeds United FC
 24,Sat Feb 7 2004,Middlesbrough FC,0-1,Blackburn Rovers FC
+24,Sat Feb 7 2004,Southampton FC,0-0,Fulham FC
 24,Sun Feb 8 2004,Manchester City FC,0-0,Birmingham City FC
 24,Sun Feb 8 2004,Chelsea FC,1-0,Charlton Athletic FC
 25,Tue Feb 10 2004,Leeds United FC,4-1,Wolverhampton Wanderers FC
-25,Tue Feb 10 2004,Arsenal FC,2-0,Southampton FC
 25,Tue Feb 10 2004,Leicester City FC,1-1,Bolton Wanderers FC
+25,Tue Feb 10 2004,Arsenal FC,2-0,Southampton FC
 25,Wed Feb 11 2004,Fulham FC,1-2,Aston Villa FC
-25,Wed Feb 11 2004,Blackburn Rovers FC,1-1,Newcastle United FC
 25,Wed Feb 11 2004,Liverpool FC,2-1,Manchester City FC
 25,Wed Feb 11 2004,Birmingham City FC,3-0,Everton FC
-25,Wed Feb 11 2004,Charlton Athletic FC,2-4,Tottenham Hotspur FC
+25,Wed Feb 11 2004,Blackburn Rovers FC,1-1,Newcastle United FC
 25,Wed Feb 11 2004,Manchester United FC,2-3,Middlesbrough FC
 25,Wed Feb 11 2004,Portsmouth FC,0-2,Chelsea FC
-26,Sat Feb 21 2004,Wolverhampton Wanderers FC,2-1,Fulham FC
-26,Sat Feb 21 2004,Newcastle United FC,2-1,Middlesbrough FC
+25,Wed Feb 11 2004,Charlton Athletic FC,2-4,Tottenham Hotspur FC
+26,Sat Feb 21 2004,Southampton FC,3-3,Everton FC
 26,Sat Feb 21 2004,Chelsea FC,1-2,Arsenal FC
-26,Sat Feb 21 2004,Charlton Athletic FC,3-2,Blackburn Rovers FC
+26,Sat Feb 21 2004,Wolverhampton Wanderers FC,2-1,Fulham FC
 26,Sat Feb 21 2004,Manchester United FC,1-1,Leeds United FC
 26,Sat Feb 21 2004,Bolton Wanderers FC,1-3,Manchester City FC
-26,Sat Feb 21 2004,Southampton FC,3-3,Everton FC
+26,Sat Feb 21 2004,Newcastle United FC,2-1,Middlesbrough FC
+26,Sat Feb 21 2004,Charlton Athletic FC,3-2,Blackburn Rovers FC
 26,Sun Feb 22 2004,Aston Villa FC,2-2,Birmingham City FC
 26,Sun Feb 22 2004,Tottenham Hotspur FC,4-4,Leicester City FC
-27,Sat Feb 28 2004,Everton FC,2-0,Aston Villa FC
-27,Sat Feb 28 2004,Manchester City FC,0-1,Chelsea FC
 27,Sat Feb 28 2004,Arsenal FC,2-1,Charlton Athletic FC
 27,Sat Feb 28 2004,Fulham FC,1-1,Manchester United FC
 27,Sat Feb 28 2004,Blackburn Rovers FC,1-1,Southampton FC
+27,Sat Feb 28 2004,Manchester City FC,0-1,Chelsea FC
+27,Sat Feb 28 2004,Everton FC,2-0,Aston Villa FC
 27,Sat Feb 28 2004,Leicester City FC,0-0,Wolverhampton Wanderers FC
 27,Sun Feb 29 2004,Portsmouth FC,1-1,Newcastle United FC
 27,Sun Feb 29 2004,Leeds United FC,2-2,Liverpool FC
 17,Wed Mar 3 2004,Birmingham City FC,3-1,Middlesbrough FC
 27,Sat Mar 6 2004,Birmingham City FC,2-0,Bolton Wanderers FC
 27,Tue Mar 9 2004,Middlesbrough FC,1-0,Tottenham Hotspur FC
-28,Sat Mar 13 2004,Charlton Athletic FC,1-0,Middlesbrough FC
 28,Sat Mar 13 2004,Fulham FC,2-0,Leeds United FC
-28,Sat Mar 13 2004,Birmingham City FC,0-1,Leicester City FC
+28,Sat Mar 13 2004,Charlton Athletic FC,1-0,Middlesbrough FC
 28,Sat Mar 13 2004,Blackburn Rovers FC,0-2,Arsenal FC
-28,Sat Mar 13 2004,Everton FC,1-0,Portsmouth FC
+28,Sat Mar 13 2004,Birmingham City FC,0-1,Leicester City FC
 28,Sat Mar 13 2004,Bolton Wanderers FC,0-2,Chelsea FC
-28,Sun Mar 14 2004,Tottenham Hotspur FC,1-0,Newcastle United FC
+28,Sat Mar 13 2004,Everton FC,1-0,Portsmouth FC
 28,Sun Mar 14 2004,Manchester City FC,4-1,Manchester United FC
-28,Sun Mar 14 2004,Southampton FC,2-0,Liverpool FC
+28,Sun Mar 14 2004,Tottenham Hotspur FC,1-0,Newcastle United FC
 28,Sun Mar 14 2004,Wolverhampton Wanderers FC,0-4,Aston Villa FC
+28,Sun Mar 14 2004,Southampton FC,2-0,Liverpool FC
 26,Wed Mar 17 2004,Liverpool FC,3-0,Portsmouth FC
 29,Sat Mar 20 2004,Aston Villa FC,0-2,Blackburn Rovers FC
 29,Sat Mar 20 2004,Newcastle United FC,3-1,Charlton Athletic FC
 29,Sat Mar 20 2004,Leicester City FC,1-1,Everton FC
 29,Sat Mar 20 2004,Liverpool FC,1-0,Wolverhampton Wanderers FC
-29,Sat Mar 20 2004,Chelsea FC,2-1,Fulham FC
+29,Sat Mar 20 2004,Manchester United FC,3-0,Tottenham Hotspur FC
 29,Sat Mar 20 2004,Middlesbrough FC,5-3,Birmingham City FC
 29,Sat Mar 20 2004,Arsenal FC,2-1,Bolton Wanderers FC
-29,Sat Mar 20 2004,Manchester United FC,3-0,Tottenham Hotspur FC
+29,Sat Mar 20 2004,Chelsea FC,2-1,Fulham FC
 29,Sun Mar 21 2004,Portsmouth FC,1-0,Southampton FC
 29,Mon Mar 22 2004,Leeds United FC,2-1,Manchester City FC
-30,Sat Mar 27 2004,Manchester City FC,0-0,Fulham FC
-30,Sat Mar 27 2004,Birmingham City FC,4-1,Leeds United FC
 30,Sat Mar 27 2004,Southampton FC,1-0,Tottenham Hotspur FC
-30,Sat Mar 27 2004,Blackburn Rovers FC,1-2,Portsmouth FC
+30,Sat Mar 27 2004,Birmingham City FC,4-1,Leeds United FC
+30,Sat Mar 27 2004,Manchester City FC,0-0,Fulham FC
+30,Sat Mar 27 2004,Everton FC,1-1,Middlesbrough FC
 30,Sat Mar 27 2004,Charlton Athletic FC,1-2,Aston Villa FC
 30,Sat Mar 27 2004,Chelsea FC,5-2,Wolverhampton Wanderers FC
-30,Sat Mar 27 2004,Everton FC,1-1,Middlesbrough FC
+30,Sat Mar 27 2004,Blackburn Rovers FC,1-2,Portsmouth FC
 30,Sun Mar 28 2004,Bolton Wanderers FC,1-0,Newcastle United FC
-30,Sun Mar 28 2004,Arsenal FC,1-1,Manchester United FC
 30,Sun Mar 28 2004,Leicester City FC,0-0,Liverpool FC
+30,Sun Mar 28 2004,Arsenal FC,1-1,Manchester United FC
 31,Sat Apr 3 2004,Tottenham Hotspur FC,0-1,Chelsea FC
 31,Sat Apr 3 2004,Wolverhampton Wanderers FC,1-4,Southampton FC
 31,Sat Apr 3 2004,Middlesbrough FC,2-0,Bolton Wanderers FC
@@ -309,65 +309,65 @@ Matchday,Date,Team 1,FT,Team 2
 31,Mon Apr 5 2004,Leeds United FC,3-2,Leicester City FC
 32,Fri Apr 9 2004,Everton FC,3-1,Tottenham Hotspur FC
 32,Fri Apr 9 2004,Arsenal FC,4-2,Liverpool FC
-32,Sat Apr 10 2004,Blackburn Rovers FC,1-2,Leeds United FC
-32,Sat Apr 10 2004,Bolton Wanderers FC,2-2,Aston Villa FC
 32,Sat Apr 10 2004,Chelsea FC,0-0,Middlesbrough FC
 32,Sat Apr 10 2004,Leicester City FC,0-2,Fulham FC
-32,Sat Apr 10 2004,Manchester City FC,3-3,Wolverhampton Wanderers FC
-32,Sat Apr 10 2004,Charlton Athletic FC,1-1,Portsmouth FC
 32,Sat Apr 10 2004,Birmingham City FC,1-2,Manchester United FC
+32,Sat Apr 10 2004,Charlton Athletic FC,1-1,Portsmouth FC
+32,Sat Apr 10 2004,Manchester City FC,3-3,Wolverhampton Wanderers FC
+32,Sat Apr 10 2004,Blackburn Rovers FC,1-2,Leeds United FC
+32,Sat Apr 10 2004,Bolton Wanderers FC,2-2,Aston Villa FC
 33,Sun Apr 11 2004,Newcastle United FC,0-0,Arsenal FC
-33,Mon Apr 12 2004,Tottenham Hotspur FC,1-1,Manchester City FC
-33,Mon Apr 12 2004,Portsmouth FC,3-1,Birmingham City FC
-33,Mon Apr 12 2004,Fulham FC,3-4,Blackburn Rovers FC
 33,Mon Apr 12 2004,Middlesbrough FC,3-1,Southampton FC
-33,Mon Apr 12 2004,Wolverhampton Wanderers FC,1-2,Bolton Wanderers FC
+33,Mon Apr 12 2004,Tottenham Hotspur FC,1-1,Manchester City FC
 33,Mon Apr 12 2004,Aston Villa FC,3-2,Chelsea FC
+33,Mon Apr 12 2004,Portsmouth FC,3-1,Birmingham City FC
+33,Mon Apr 12 2004,Wolverhampton Wanderers FC,1-2,Bolton Wanderers FC
+33,Mon Apr 12 2004,Fulham FC,3-4,Blackburn Rovers FC
 33,Mon Apr 12 2004,Liverpool FC,0-1,Charlton Athletic FC
 33,Tue Apr 13 2004,Leeds United FC,1-1,Everton FC
 33,Tue Apr 13 2004,Manchester United FC,1-0,Leicester City FC
 34,Fri Apr 16 2004,Arsenal FC,5-0,Leeds United FC
-34,Sat Apr 17 2004,Liverpool FC,0-0,Fulham FC
-34,Sat Apr 17 2004,Charlton Athletic FC,1-1,Birmingham City FC
-34,Sat Apr 17 2004,Chelsea FC,0-0,Everton FC
 34,Sat Apr 17 2004,Blackburn Rovers FC,1-0,Leicester City FC
 34,Sat Apr 17 2004,Portsmouth FC,1-0,Manchester United FC
 34,Sat Apr 17 2004,Wolverhampton Wanderers FC,2-0,Middlesbrough FC
-34,Sat Apr 17 2004,Manchester City FC,1-3,Southampton FC
 34,Sat Apr 17 2004,Bolton Wanderers FC,2-0,Tottenham Hotspur FC
+34,Sat Apr 17 2004,Manchester City FC,1-3,Southampton FC
+34,Sat Apr 17 2004,Charlton Athletic FC,1-1,Birmingham City FC
+34,Sat Apr 17 2004,Liverpool FC,0-0,Fulham FC
+34,Sat Apr 17 2004,Chelsea FC,0-0,Everton FC
 34,Sun Apr 18 2004,Aston Villa FC,0-0,Newcastle United FC
 31,Tue Apr 20 2004,Manchester United FC,2-0,Charlton Athletic FC
-35,Sat Apr 24 2004,Everton FC,0-1,Blackburn Rovers FC
-35,Sat Apr 24 2004,Fulham FC,2-0,Charlton Athletic FC
 35,Sat Apr 24 2004,Middlesbrough FC,1-2,Aston Villa FC
 35,Sat Apr 24 2004,Leicester City FC,1-1,Manchester City FC
-35,Sat Apr 24 2004,Manchester United FC,0-1,Liverpool FC
 35,Sat Apr 24 2004,Southampton FC,1-2,Bolton Wanderers FC
-35,Sun Apr 25 2004,Leeds United FC,1-2,Portsmouth FC
-35,Sun Apr 25 2004,Newcastle United FC,2-1,Chelsea FC
+35,Sat Apr 24 2004,Manchester United FC,0-1,Liverpool FC
+35,Sat Apr 24 2004,Fulham FC,2-0,Charlton Athletic FC
+35,Sat Apr 24 2004,Everton FC,0-1,Blackburn Rovers FC
 35,Sun Apr 25 2004,Birmingham City FC,2-2,Wolverhampton Wanderers FC
 35,Sun Apr 25 2004,Tottenham Hotspur FC,2-2,Arsenal FC
-36,Sat May 1 2004,Portsmouth FC,1-1,Fulham FC
-36,Sat May 1 2004,Manchester City FC,1-0,Newcastle United FC
+35,Sun Apr 25 2004,Newcastle United FC,2-1,Chelsea FC
+35,Sun Apr 25 2004,Leeds United FC,1-2,Portsmouth FC
 36,Sat May 1 2004,Arsenal FC,0-0,Birmingham City FC
 36,Sat May 1 2004,Chelsea FC,4-0,Southampton FC
-36,Sat May 1 2004,Blackburn Rovers FC,1-0,Manchester United FC
+36,Sat May 1 2004,Portsmouth FC,1-1,Fulham FC
 36,Sat May 1 2004,Charlton Athletic FC,2-2,Leicester City FC
 36,Sat May 1 2004,Wolverhampton Wanderers FC,2-1,Everton FC
+36,Sat May 1 2004,Blackburn Rovers FC,1-0,Manchester United FC
+36,Sat May 1 2004,Manchester City FC,1-0,Newcastle United FC
+36,Sun May 2 2004,Liverpool FC,2-0,Middlesbrough FC
 36,Sun May 2 2004,Aston Villa FC,1-0,Tottenham Hotspur FC
 36,Sun May 2 2004,Bolton Wanderers FC,4-1,Leeds United FC
-36,Sun May 2 2004,Liverpool FC,2-0,Middlesbrough FC
 31,Tue May 4 2004,Portsmouth FC,1-1,Arsenal FC
-37,Sat May 8 2004,Tottenham Hotspur FC,1-0,Blackburn Rovers FC
 37,Sat May 8 2004,Southampton FC,1-1,Aston Villa FC
-37,Sat May 8 2004,Leeds United FC,3-3,Charlton Athletic FC
-37,Sat May 8 2004,Leicester City FC,3-1,Portsmouth FC
+37,Sat May 8 2004,Tottenham Hotspur FC,1-0,Blackburn Rovers FC
+37,Sat May 8 2004,Manchester United FC,1-1,Chelsea FC
 37,Sat May 8 2004,Birmingham City FC,0-3,Liverpool FC
 37,Sat May 8 2004,Middlesbrough FC,2-1,Manchester City FC
 37,Sat May 8 2004,Everton FC,1-2,Bolton Wanderers FC
-37,Sat May 8 2004,Manchester United FC,1-1,Chelsea FC
-37,Sun May 9 2004,Fulham FC,0-1,Arsenal FC
+37,Sat May 8 2004,Leicester City FC,3-1,Portsmouth FC
+37,Sat May 8 2004,Leeds United FC,3-3,Charlton Athletic FC
 37,Sun May 9 2004,Newcastle United FC,1-1,Wolverhampton Wanderers FC
+37,Sun May 9 2004,Fulham FC,0-1,Arsenal FC
 32,Wed May 12 2004,Southampton FC,3-3,Newcastle United FC
 38,Sat May 15 2004,Wolverhampton Wanderers FC,0-2,Tottenham Hotspur FC
 38,Sat May 15 2004,Portsmouth FC,5-1,Middlesbrough FC

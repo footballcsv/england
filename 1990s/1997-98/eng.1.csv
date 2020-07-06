@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 9 1997,Coventry City FC,3-2,Chelsea FC
 1,Sat Aug 9 1997,Everton FC,1-2,Crystal Palace FC
 1,Sat Aug 9 1997,Newcastle United FC,2-1,Sheffield Wednesday FC
@@ -13,305 +13,305 @@ Matchday,Date,Team 1,FT,Team 2
 2,Tue Aug 12 1997,Crystal Palace FC,0-1,Barnsley FC
 2,Wed Aug 13 1997,Manchester United FC,1-0,Southampton FC
 2,Wed Aug 13 1997,Sheffield Wednesday FC,1-3,Leeds United FC
-2,Wed Aug 13 1997,West Ham United FC,2-1,Tottenham Hotspur FC
-2,Wed Aug 13 1997,Aston Villa FC,0-4,Blackburn Rovers FC
 2,Wed Aug 13 1997,Liverpool FC,1-2,Leicester City FC
-3,Sat Aug 23 1997,Wimbledon FC,1-1,Sheffield Wednesday FC
-3,Sat Aug 23 1997,Blackburn Rovers FC,1-1,Liverpool FC
-3,Sat Aug 23 1997,Everton FC,2-1,West Ham United FC
+2,Wed Aug 13 1997,Aston Villa FC,0-4,Blackburn Rovers FC
+2,Wed Aug 13 1997,West Ham United FC,2-1,Tottenham Hotspur FC
 3,Sat Aug 23 1997,Coventry City FC,2-2,Bolton Wanderers FC
 3,Sat Aug 23 1997,Leicester City FC,0-0,Manchester United FC
 3,Sat Aug 23 1997,Newcastle United FC,1-0,Aston Villa FC
-3,Sat Aug 23 1997,Leeds United FC,0-2,Crystal Palace FC
-3,Sat Aug 23 1997,Tottenham Hotspur FC,1-0,Derby County FC
 3,Sat Aug 23 1997,Southampton FC,1-3,Arsenal FC
+3,Sat Aug 23 1997,Tottenham Hotspur FC,1-0,Derby County FC
+3,Sat Aug 23 1997,Leeds United FC,0-2,Crystal Palace FC
+3,Sat Aug 23 1997,Everton FC,2-1,West Ham United FC
+3,Sat Aug 23 1997,Blackburn Rovers FC,1-1,Liverpool FC
+3,Sat Aug 23 1997,Wimbledon FC,1-1,Sheffield Wednesday FC
 3,Sun Aug 24 1997,Barnsley FC,0-6,Chelsea FC
 4,Mon Aug 25 1997,Blackburn Rovers FC,7-2,Sheffield Wednesday FC
 4,Tue Aug 26 1997,Leeds United FC,0-2,Liverpool FC
-4,Wed Aug 27 1997,Tottenham Hotspur FC,3-2,Aston Villa FC
-4,Wed Aug 27 1997,Wimbledon FC,0-2,Chelsea FC
-4,Wed Aug 27 1997,Coventry City FC,1-1,West Ham United FC
 4,Wed Aug 27 1997,Everton FC,0-2,Manchester United FC
-4,Wed Aug 27 1997,Southampton FC,1-0,Crystal Palace FC
-4,Wed Aug 27 1997,Barnsley FC,2-1,Bolton Wanderers FC
 4,Wed Aug 27 1997,Leicester City FC,3-3,Arsenal FC
-5,Sat Aug 30 1997,West Ham United FC,3-1,Wimbledon FC
-5,Sat Aug 30 1997,Arsenal FC,0-0,Tottenham Hotspur FC
-5,Sat Aug 30 1997,Sheffield Wednesday FC,1-0,Leicester City FC
-5,Sat Aug 30 1997,Aston Villa FC,1-0,Leeds United FC
-5,Sat Aug 30 1997,Derby County FC,1-0,Barnsley FC
+4,Wed Aug 27 1997,Barnsley FC,2-1,Bolton Wanderers FC
+4,Wed Aug 27 1997,Southampton FC,1-0,Crystal Palace FC
+4,Wed Aug 27 1997,Coventry City FC,1-1,West Ham United FC
+4,Wed Aug 27 1997,Wimbledon FC,0-2,Chelsea FC
+4,Wed Aug 27 1997,Tottenham Hotspur FC,3-2,Aston Villa FC
+5,Sat Aug 30 1997,Chelsea FC,4-2,Southampton FC
 5,Sat Aug 30 1997,Crystal Palace FC,1-2,Blackburn Rovers FC
 5,Sat Aug 30 1997,Manchester United FC,3-0,Coventry City FC
-5,Sat Aug 30 1997,Chelsea FC,4-2,Southampton FC
+5,Sat Aug 30 1997,Derby County FC,1-0,Barnsley FC
+5,Sat Aug 30 1997,Arsenal FC,0-0,Tottenham Hotspur FC
+5,Sat Aug 30 1997,West Ham United FC,3-1,Wimbledon FC
+5,Sat Aug 30 1997,Aston Villa FC,1-0,Leeds United FC
+5,Sat Aug 30 1997,Sheffield Wednesday FC,1-0,Leicester City FC
 5,Mon Sep 1 1997,Bolton Wanderers FC,0-0,Everton FC
+6,Sat Sep 13 1997,Manchester United FC,2-1,West Ham United FC
 6,Sat Sep 13 1997,Barnsley FC,0-3,Aston Villa FC
+6,Sat Sep 13 1997,Crystal Palace FC,0-3,Chelsea FC
+6,Sat Sep 13 1997,Derby County FC,3-1,Everton FC
+6,Sat Sep 13 1997,Arsenal FC,4-1,Bolton Wanderers FC
+6,Sat Sep 13 1997,Newcastle United FC,1-3,Wimbledon FC
+6,Sat Sep 13 1997,Leicester City FC,3-0,Tottenham Hotspur FC
 6,Sat Sep 13 1997,Liverpool FC,2-1,Sheffield Wednesday FC
 6,Sat Sep 13 1997,Coventry City FC,1-0,Southampton FC
-6,Sat Sep 13 1997,Arsenal FC,4-1,Bolton Wanderers FC
-6,Sat Sep 13 1997,Leicester City FC,3-0,Tottenham Hotspur FC
-6,Sat Sep 13 1997,Derby County FC,3-1,Everton FC
-6,Sat Sep 13 1997,Newcastle United FC,1-3,Wimbledon FC
-6,Sat Sep 13 1997,Crystal Palace FC,0-3,Chelsea FC
-6,Sat Sep 13 1997,Manchester United FC,2-1,West Ham United FC
 6,Sun Sep 14 1997,Blackburn Rovers FC,3-4,Leeds United FC
-7,Sat Sep 20 1997,Aston Villa FC,2-1,Derby County FC
-7,Sat Sep 20 1997,Tottenham Hotspur FC,0-0,Blackburn Rovers FC
-7,Sat Sep 20 1997,Everton FC,4-2,Barnsley FC
-7,Sat Sep 20 1997,Southampton FC,1-1,Liverpool FC
-7,Sat Sep 20 1997,Leeds United FC,0-1,Leicester City FC
 7,Sat Sep 20 1997,Sheffield Wednesday FC,0-0,Coventry City FC
 7,Sat Sep 20 1997,West Ham United FC,0-1,Newcastle United FC
 7,Sat Sep 20 1997,Bolton Wanderers FC,0-0,Manchester United FC
+7,Sat Sep 20 1997,Tottenham Hotspur FC,0-0,Blackburn Rovers FC
+7,Sat Sep 20 1997,Everton FC,4-2,Barnsley FC
+7,Sat Sep 20 1997,Southampton FC,1-1,Liverpool FC
 7,Sat Sep 20 1997,Wimbledon FC,0-1,Crystal Palace FC
+7,Sat Sep 20 1997,Leeds United FC,0-1,Leicester City FC
+7,Sat Sep 20 1997,Aston Villa FC,2-1,Derby County FC
 7,Sun Sep 21 1997,Chelsea FC,2-3,Arsenal FC
 8,Mon Sep 22 1997,Liverpool FC,3-0,Aston Villa FC
-8,Tue Sep 23 1997,Wimbledon FC,4-1,Barnsley FC
 8,Tue Sep 23 1997,Bolton Wanderers FC,1-1,Tottenham Hotspur FC
-8,Wed Sep 24 1997,Arsenal FC,4-0,West Ham United FC
-8,Wed Sep 24 1997,Sheffield Wednesday FC,2-5,Derby County FC
-8,Wed Sep 24 1997,Southampton FC,0-2,Leeds United FC
-8,Wed Sep 24 1997,Leicester City FC,1-1,Blackburn Rovers FC
-8,Wed Sep 24 1997,Newcastle United FC,1-0,Everton FC
+8,Tue Sep 23 1997,Wimbledon FC,4-1,Barnsley FC
 8,Wed Sep 24 1997,Coventry City FC,1-1,Crystal Palace FC
 8,Wed Sep 24 1997,Manchester United FC,2-2,Chelsea FC
-9,Sat Sep 27 1997,Crystal Palace FC,2-2,Bolton Wanderers FC
+8,Wed Sep 24 1997,Arsenal FC,4-0,West Ham United FC
+8,Wed Sep 24 1997,Newcastle United FC,1-0,Everton FC
+8,Wed Sep 24 1997,Leicester City FC,1-1,Blackburn Rovers FC
+8,Wed Sep 24 1997,Southampton FC,0-2,Leeds United FC
+8,Wed Sep 24 1997,Sheffield Wednesday FC,2-5,Derby County FC
+9,Sat Sep 27 1997,West Ham United FC,2-1,Liverpool FC
+9,Sat Sep 27 1997,Derby County FC,4-0,Southampton FC
+9,Sat Sep 27 1997,Aston Villa FC,2-2,Sheffield Wednesday FC
 9,Sat Sep 27 1997,Everton FC,2-2,Arsenal FC
 9,Sat Sep 27 1997,Barnsley FC,0-2,Leicester City FC
+9,Sat Sep 27 1997,Crystal Palace FC,2-2,Bolton Wanderers FC
 9,Sat Sep 27 1997,Chelsea FC,1-0,Newcastle United FC
 9,Sat Sep 27 1997,Leeds United FC,1-0,Manchester United FC
-9,Sat Sep 27 1997,West Ham United FC,2-1,Liverpool FC
-9,Sat Sep 27 1997,Aston Villa FC,2-2,Sheffield Wednesday FC
-9,Sat Sep 27 1997,Derby County FC,4-0,Southampton FC
-9,Sun Sep 28 1997,Blackburn Rovers FC,0-0,Coventry City FC
 9,Sun Sep 28 1997,Tottenham Hotspur FC,0-0,Wimbledon FC
-10,Sat Oct 4 1997,Manchester United FC,2-0,Crystal Palace FC
-10,Sat Oct 4 1997,Arsenal FC,5-0,Barnsley FC
-10,Sat Oct 4 1997,Coventry City FC,0-0,Leeds United FC
-10,Sat Oct 4 1997,Sheffield Wednesday FC,3-1,Everton FC
-10,Sat Oct 4 1997,Southampton FC,3-0,West Ham United FC
-10,Sat Oct 4 1997,Newcastle United FC,1-0,Tottenham Hotspur FC
-10,Sat Oct 4 1997,Wimbledon FC,0-1,Blackburn Rovers FC
+9,Sun Sep 28 1997,Blackburn Rovers FC,0-0,Coventry City FC
 10,Sat Oct 4 1997,Bolton Wanderers FC,0-1,Aston Villa FC
+10,Sat Oct 4 1997,Wimbledon FC,0-1,Blackburn Rovers FC
+10,Sat Oct 4 1997,Newcastle United FC,1-0,Tottenham Hotspur FC
+10,Sat Oct 4 1997,Coventry City FC,0-0,Leeds United FC
+10,Sat Oct 4 1997,Arsenal FC,5-0,Barnsley FC
+10,Sat Oct 4 1997,Southampton FC,3-0,West Ham United FC
+10,Sat Oct 4 1997,Manchester United FC,2-0,Crystal Palace FC
+10,Sat Oct 4 1997,Sheffield Wednesday FC,3-1,Everton FC
 10,Sun Oct 5 1997,Liverpool FC,4-2,Chelsea FC
 10,Mon Oct 6 1997,Leicester City FC,1-2,Derby County FC
-11,Sat Oct 18 1997,Chelsea FC,1-0,Leicester City FC
+11,Sat Oct 18 1997,Everton FC,2-0,Liverpool FC
+11,Sat Oct 18 1997,Leeds United FC,4-1,Newcastle United FC
+11,Sat Oct 18 1997,Derby County FC,2-2,Manchester United FC
 11,Sat Oct 18 1997,Crystal Palace FC,0-0,Arsenal FC
 11,Sat Oct 18 1997,Aston Villa FC,1-2,Wimbledon FC
+11,Sat Oct 18 1997,Chelsea FC,1-0,Leicester City FC
 11,Sat Oct 18 1997,West Ham United FC,3-0,Bolton Wanderers FC
 11,Sat Oct 18 1997,Blackburn Rovers FC,1-0,Southampton FC
-11,Sat Oct 18 1997,Everton FC,2-0,Liverpool FC
-11,Sat Oct 18 1997,Derby County FC,2-2,Manchester United FC
-11,Sat Oct 18 1997,Leeds United FC,4-1,Newcastle United FC
 11,Sun Oct 19 1997,Tottenham Hotspur FC,3-2,Sheffield Wednesday FC
 11,Mon Oct 20 1997,Barnsley FC,2-0,Coventry City FC
 2,Wed Oct 22 1997,Derby County FC,1-1,Wimbledon FC
-12,Sat Oct 25 1997,Coventry City FC,0-0,Everton FC
-12,Sat Oct 25 1997,Manchester United FC,7-0,Barnsley FC
-12,Sat Oct 25 1997,Sheffield Wednesday FC,1-3,Crystal Palace FC
-12,Sat Oct 25 1997,Liverpool FC,4-0,Derby County FC
-12,Sat Oct 25 1997,Wimbledon FC,1-0,Leeds United FC
-12,Sat Oct 25 1997,Southampton FC,3-2,Tottenham Hotspur FC
 12,Sat Oct 25 1997,Newcastle United FC,1-1,Blackburn Rovers FC
-12,Sun Oct 26 1997,Arsenal FC,0-0,Aston Villa FC
+12,Sat Oct 25 1997,Southampton FC,3-2,Tottenham Hotspur FC
+12,Sat Oct 25 1997,Wimbledon FC,1-0,Leeds United FC
+12,Sat Oct 25 1997,Liverpool FC,4-0,Derby County FC
+12,Sat Oct 25 1997,Coventry City FC,0-0,Everton FC
+12,Sat Oct 25 1997,Sheffield Wednesday FC,1-3,Crystal Palace FC
+12,Sat Oct 25 1997,Manchester United FC,7-0,Barnsley FC
 12,Sun Oct 26 1997,Bolton Wanderers FC,1-0,Chelsea FC
+12,Sun Oct 26 1997,Arsenal FC,0-0,Aston Villa FC
 12,Mon Oct 27 1997,Leicester City FC,2-1,West Ham United FC
-13,Sat Nov 1 1997,Bolton Wanderers FC,1-1,Liverpool FC
-13,Sat Nov 1 1997,Tottenham Hotspur FC,0-1,Leeds United FC
-13,Sat Nov 1 1997,Newcastle United FC,3-3,Leicester City FC
-13,Sat Nov 1 1997,Wimbledon FC,1-2,Coventry City FC
 13,Sat Nov 1 1997,Manchester United FC,6-1,Sheffield Wednesday FC
 13,Sat Nov 1 1997,Derby County FC,3-0,Arsenal FC
 13,Sat Nov 1 1997,Barnsley FC,1-1,Blackburn Rovers FC
 13,Sat Nov 1 1997,Aston Villa FC,0-2,Chelsea FC
+13,Sat Nov 1 1997,Wimbledon FC,1-2,Coventry City FC
+13,Sat Nov 1 1997,Bolton Wanderers FC,1-1,Liverpool FC
+13,Sat Nov 1 1997,Newcastle United FC,3-3,Leicester City FC
+13,Sat Nov 1 1997,Tottenham Hotspur FC,0-1,Leeds United FC
 13,Sun Nov 2 1997,Everton FC,0-2,Southampton FC
-14,Sat Nov 8 1997,Southampton FC,4-1,Barnsley FC
-14,Sat Nov 8 1997,Sheffield Wednesday FC,5-0,Bolton Wanderers FC
+14,Sat Nov 8 1997,Coventry City FC,2-2,Newcastle United FC
 14,Sat Nov 8 1997,Leeds United FC,4-3,Derby County FC
 14,Sat Nov 8 1997,Blackburn Rovers FC,3-2,Everton FC
-14,Sat Nov 8 1997,Crystal Palace FC,1-1,Aston Villa FC
-14,Sat Nov 8 1997,Coventry City FC,2-2,Newcastle United FC
+14,Sat Nov 8 1997,Southampton FC,4-1,Barnsley FC
 14,Sat Nov 8 1997,Liverpool FC,4-0,Tottenham Hotspur FC
+14,Sat Nov 8 1997,Crystal Palace FC,1-1,Aston Villa FC
+14,Sat Nov 8 1997,Sheffield Wednesday FC,5-0,Bolton Wanderers FC
 14,Sun Nov 9 1997,Chelsea FC,2-1,West Ham United FC
 14,Sun Nov 9 1997,Arsenal FC,3-2,Manchester United FC
 14,Mon Nov 10 1997,Leicester City FC,0-1,Wimbledon FC
-15,Sat Nov 22 1997,Derby County FC,3-1,Coventry City FC
-15,Sat Nov 22 1997,Newcastle United FC,2-1,Southampton FC
-15,Sat Nov 22 1997,Leicester City FC,0-0,Bolton Wanderers FC
-15,Sat Nov 22 1997,Sheffield Wednesday FC,2-0,Arsenal FC
-15,Sat Nov 22 1997,Liverpool FC,0-1,Barnsley FC
 15,Sat Nov 22 1997,Wimbledon FC,2-5,Manchester United FC
 15,Sat Nov 22 1997,Blackburn Rovers FC,1-0,Chelsea FC
+15,Sat Nov 22 1997,Leicester City FC,0-0,Bolton Wanderers FC
+15,Sat Nov 22 1997,Newcastle United FC,2-1,Southampton FC
+15,Sat Nov 22 1997,Derby County FC,3-1,Coventry City FC
+15,Sat Nov 22 1997,Liverpool FC,0-1,Barnsley FC
+15,Sat Nov 22 1997,Sheffield Wednesday FC,2-0,Arsenal FC
 15,Sat Nov 22 1997,Aston Villa FC,2-1,Everton FC
 15,Sun Nov 23 1997,Leeds United FC,3-1,West Ham United FC
 15,Mon Nov 24 1997,Tottenham Hotspur FC,0-1,Crystal Palace FC
 2,Wed Nov 26 1997,Chelsea FC,2-0,Everton FC
-16,Sat Nov 29 1997,Barnsley FC,2-3,Leeds United FC
-16,Sat Nov 29 1997,West Ham United FC,2-1,Aston Villa FC
-16,Sat Nov 29 1997,Southampton FC,2-3,Sheffield Wednesday FC
-16,Sat Nov 29 1997,Everton FC,0-2,Tottenham Hotspur FC
-16,Sat Nov 29 1997,Chelsea FC,4-0,Derby County FC
+16,Sat Nov 29 1997,Crystal Palace FC,1-2,Newcastle United FC
 16,Sat Nov 29 1997,Bolton Wanderers FC,1-0,Wimbledon FC
 16,Sat Nov 29 1997,Coventry City FC,0-2,Leicester City FC
-16,Sat Nov 29 1997,Crystal Palace FC,1-2,Newcastle United FC
-16,Sun Nov 30 1997,Manchester United FC,4-0,Blackburn Rovers FC
+16,Sat Nov 29 1997,Chelsea FC,4-0,Derby County FC
+16,Sat Nov 29 1997,Southampton FC,2-3,Sheffield Wednesday FC
+16,Sat Nov 29 1997,Everton FC,0-2,Tottenham Hotspur FC
+16,Sat Nov 29 1997,Barnsley FC,2-3,Leeds United FC
+16,Sat Nov 29 1997,West Ham United FC,2-1,Aston Villa FC
 16,Sun Nov 30 1997,Arsenal FC,0-1,Liverpool FC
+16,Sun Nov 30 1997,Manchester United FC,4-0,Blackburn Rovers FC
 2,Mon Dec 1 1997,Bolton Wanderers FC,1-0,Newcastle United FC
 13,Wed Dec 3 1997,West Ham United FC,4-1,Crystal Palace FC
-17,Sat Dec 6 1997,Newcastle United FC,0-1,Arsenal FC
-17,Sat Dec 6 1997,Liverpool FC,1-3,Manchester United FC
 17,Sat Dec 6 1997,Leeds United FC,0-0,Everton FC
 17,Sat Dec 6 1997,Leicester City FC,1-1,Crystal Palace FC
 17,Sat Dec 6 1997,Blackburn Rovers FC,3-1,Bolton Wanderers FC
-17,Sat Dec 6 1997,Derby County FC,2-0,West Ham United FC
-17,Sat Dec 6 1997,Tottenham Hotspur FC,1-6,Chelsea FC
 17,Sat Dec 6 1997,Aston Villa FC,3-0,Coventry City FC
+17,Sat Dec 6 1997,Tottenham Hotspur FC,1-6,Chelsea FC
+17,Sat Dec 6 1997,Derby County FC,2-0,West Ham United FC
+17,Sat Dec 6 1997,Newcastle United FC,0-1,Arsenal FC
+17,Sat Dec 6 1997,Liverpool FC,1-3,Manchester United FC
 17,Sun Dec 7 1997,Wimbledon FC,1-0,Southampton FC
 17,Mon Dec 8 1997,Sheffield Wednesday FC,2-1,Barnsley FC
-18,Sat Dec 13 1997,Southampton FC,2-1,Leicester City FC
-18,Sat Dec 13 1997,Chelsea FC,0-0,Leeds United FC
-18,Sat Dec 13 1997,Crystal Palace FC,0-3,Liverpool FC
+18,Sat Dec 13 1997,West Ham United FC,1-0,Sheffield Wednesday FC
 18,Sat Dec 13 1997,Arsenal FC,1-3,Blackburn Rovers FC
 18,Sat Dec 13 1997,Barnsley FC,2-2,Newcastle United FC
 18,Sat Dec 13 1997,Everton FC,0-0,Wimbledon FC
 18,Sat Dec 13 1997,Coventry City FC,4-0,Tottenham Hotspur FC
-18,Sat Dec 13 1997,West Ham United FC,1-0,Sheffield Wednesday FC
+18,Sat Dec 13 1997,Crystal Palace FC,0-3,Liverpool FC
+18,Sat Dec 13 1997,Chelsea FC,0-0,Leeds United FC
+18,Sat Dec 13 1997,Southampton FC,2-1,Leicester City FC
 18,Sun Dec 14 1997,Bolton Wanderers FC,3-3,Derby County FC
 18,Mon Dec 15 1997,Manchester United FC,1-0,Aston Villa FC
 4,Wed Dec 17 1997,Newcastle United FC,0-0,Derby County FC
-19,Sat Dec 20 1997,Sheffield Wednesday FC,1-4,Chelsea FC
 19,Sat Dec 20 1997,Liverpool FC,1-0,Coventry City FC
-19,Sat Dec 20 1997,Leicester City FC,0-1,Everton FC
+19,Sat Dec 20 1997,Sheffield Wednesday FC,1-4,Chelsea FC
 19,Sat Dec 20 1997,Blackburn Rovers FC,3-0,West Ham United FC
 19,Sat Dec 20 1997,Leeds United FC,2-0,Bolton Wanderers FC
 19,Sat Dec 20 1997,Aston Villa FC,1-1,Southampton FC
 19,Sat Dec 20 1997,Tottenham Hotspur FC,3-0,Barnsley FC
 19,Sat Dec 20 1997,Derby County FC,0-0,Crystal Palace FC
+19,Sat Dec 20 1997,Leicester City FC,0-1,Everton FC
 19,Sun Dec 21 1997,Newcastle United FC,0-1,Manchester United FC
-20,Fri Dec 26 1997,Sheffield Wednesday FC,0-0,Blackburn Rovers FC
-20,Fri Dec 26 1997,Liverpool FC,3-1,Leeds United FC
-20,Fri Dec 26 1997,Manchester United FC,2-0,Everton FC
+20,Fri Dec 26 1997,Crystal Palace FC,1-1,Southampton FC
 20,Fri Dec 26 1997,Bolton Wanderers FC,1-1,Barnsley FC
-20,Fri Dec 26 1997,Chelsea FC,1-1,Wimbledon FC
+20,Fri Dec 26 1997,Sheffield Wednesday FC,0-0,Blackburn Rovers FC
 20,Fri Dec 26 1997,Derby County FC,1-0,Newcastle United FC
 20,Fri Dec 26 1997,Aston Villa FC,4-1,Tottenham Hotspur FC
 20,Fri Dec 26 1997,West Ham United FC,1-0,Coventry City FC
 20,Fri Dec 26 1997,Arsenal FC,2-1,Leicester City FC
-20,Fri Dec 26 1997,Crystal Palace FC,1-1,Southampton FC
-21,Sun Dec 28 1997,Barnsley FC,1-0,Derby County FC
-21,Sun Dec 28 1997,Everton FC,3-2,Bolton Wanderers FC
+20,Fri Dec 26 1997,Manchester United FC,2-0,Everton FC
+20,Fri Dec 26 1997,Liverpool FC,3-1,Leeds United FC
+20,Fri Dec 26 1997,Chelsea FC,1-1,Wimbledon FC
 21,Sun Dec 28 1997,Coventry City FC,3-2,Manchester United FC
 21,Sun Dec 28 1997,Leeds United FC,1-1,Aston Villa FC
 21,Sun Dec 28 1997,Wimbledon FC,1-2,West Ham United FC
-21,Sun Dec 28 1997,Tottenham Hotspur FC,1-1,Arsenal FC
+21,Sun Dec 28 1997,Blackburn Rovers FC,2-2,Crystal Palace FC
 21,Sun Dec 28 1997,Leicester City FC,1-1,Sheffield Wednesday FC
 21,Sun Dec 28 1997,Newcastle United FC,1-2,Liverpool FC
-21,Sun Dec 28 1997,Blackburn Rovers FC,2-2,Crystal Palace FC
+21,Sun Dec 28 1997,Tottenham Hotspur FC,1-1,Arsenal FC
+21,Sun Dec 28 1997,Barnsley FC,1-0,Derby County FC
+21,Sun Dec 28 1997,Everton FC,3-2,Bolton Wanderers FC
 21,Mon Dec 29 1997,Southampton FC,1-0,Chelsea FC
-22,Sat Jan 10 1998,Crystal Palace FC,1-3,Everton FC
-22,Sat Jan 10 1998,Arsenal FC,2-1,Leeds United FC
 22,Sat Jan 10 1998,Aston Villa FC,1-1,Leicester City FC
 22,Sat Jan 10 1998,Manchester United FC,2-0,Tottenham Hotspur FC
 22,Sat Jan 10 1998,Liverpool FC,2-0,Wimbledon FC
-22,Sat Jan 10 1998,Bolton Wanderers FC,0-0,Southampton FC
+22,Sat Jan 10 1998,Sheffield Wednesday FC,2-1,Newcastle United FC
 22,Sat Jan 10 1998,West Ham United FC,6-0,Barnsley FC
 22,Sat Jan 10 1998,Chelsea FC,3-1,Coventry City FC
-22,Sat Jan 10 1998,Sheffield Wednesday FC,2-1,Newcastle United FC
+22,Sat Jan 10 1998,Bolton Wanderers FC,0-0,Southampton FC
+22,Sat Jan 10 1998,Crystal Palace FC,1-3,Everton FC
+22,Sat Jan 10 1998,Arsenal FC,2-1,Leeds United FC
 22,Sun Jan 11 1998,Derby County FC,3-1,Blackburn Rovers FC
-23,Sat Jan 17 1998,Leeds United FC,1-2,Sheffield Wednesday FC
-23,Sat Jan 17 1998,Blackburn Rovers FC,5-0,Aston Villa FC
 23,Sat Jan 17 1998,Leicester City FC,0-0,Liverpool FC
-23,Sat Jan 17 1998,Barnsley FC,1-0,Crystal Palace FC
+23,Sat Jan 17 1998,Leeds United FC,1-2,Sheffield Wednesday FC
 23,Sat Jan 17 1998,Newcastle United FC,2-1,Bolton Wanderers FC
-23,Sat Jan 17 1998,Wimbledon FC,0-0,Derby County FC
+23,Sat Jan 17 1998,Blackburn Rovers FC,5-0,Aston Villa FC
 23,Sat Jan 17 1998,Coventry City FC,2-2,Arsenal FC
 23,Sat Jan 17 1998,Tottenham Hotspur FC,1-0,West Ham United FC
+23,Sat Jan 17 1998,Wimbledon FC,0-0,Derby County FC
+23,Sat Jan 17 1998,Barnsley FC,1-0,Crystal Palace FC
 23,Sun Jan 18 1998,Everton FC,3-1,Chelsea FC
 23,Mon Jan 19 1998,Southampton FC,1-0,Manchester United FC
 5,Tue Jan 20 1998,Liverpool FC,1-0,Newcastle United FC
-24,Sat Jan 31 1998,Derby County FC,2-1,Tottenham Hotspur FC
-24,Sat Jan 31 1998,Liverpool FC,0-0,Blackburn Rovers FC
+24,Sat Jan 31 1998,Arsenal FC,3-0,Southampton FC
 24,Sat Jan 31 1998,Crystal Palace FC,0-2,Leeds United FC
 24,Sat Jan 31 1998,West Ham United FC,2-2,Everton FC
 24,Sat Jan 31 1998,Manchester United FC,0-1,Leicester City FC
 24,Sat Jan 31 1998,Bolton Wanderers FC,1-5,Coventry City FC
 24,Sat Jan 31 1998,Chelsea FC,2-0,Barnsley FC
 24,Sat Jan 31 1998,Sheffield Wednesday FC,1-1,Wimbledon FC
-24,Sat Jan 31 1998,Arsenal FC,3-0,Southampton FC
+24,Sat Jan 31 1998,Liverpool FC,0-0,Blackburn Rovers FC
+24,Sat Jan 31 1998,Derby County FC,2-1,Tottenham Hotspur FC
 24,Sun Feb 1 1998,Aston Villa FC,0-1,Newcastle United FC
-25,Sat Feb 7 1998,Leicester City FC,1-0,Leeds United FC
 25,Sat Feb 7 1998,Liverpool FC,2-3,Southampton FC
 25,Sat Feb 7 1998,Derby County FC,0-1,Aston Villa FC
-25,Sat Feb 7 1998,Newcastle United FC,0-1,West Ham United FC
-25,Sat Feb 7 1998,Blackburn Rovers FC,0-3,Tottenham Hotspur FC
+25,Sat Feb 7 1998,Leicester City FC,1-0,Leeds United FC
+25,Sat Feb 7 1998,Barnsley FC,2-2,Everton FC
 25,Sat Feb 7 1998,Coventry City FC,1-0,Sheffield Wednesday FC
 25,Sat Feb 7 1998,Manchester United FC,1-1,Bolton Wanderers FC
-25,Sat Feb 7 1998,Barnsley FC,2-2,Everton FC
+25,Sat Feb 7 1998,Newcastle United FC,0-1,West Ham United FC
+25,Sat Feb 7 1998,Blackburn Rovers FC,0-3,Tottenham Hotspur FC
 25,Sun Feb 8 1998,Arsenal FC,2-0,Chelsea FC
 25,Mon Feb 9 1998,Crystal Palace FC,0-3,Wimbledon FC
 26,Sat Feb 14 1998,Tottenham Hotspur FC,1-1,Leicester City FC
-26,Sat Feb 14 1998,Everton FC,1-2,Derby County FC
 26,Sat Feb 14 1998,Sheffield Wednesday FC,3-3,Liverpool FC
-34,Wed Feb 18 1998,Aston Villa FC,0-2,Manchester United FC
+26,Sat Feb 14 1998,Everton FC,1-2,Derby County FC
 26,Wed Feb 18 1998,Southampton FC,1-2,Coventry City FC
+34,Wed Feb 18 1998,Aston Villa FC,0-2,Manchester United FC
 27,Sat Feb 21 1998,Bolton Wanderers FC,1-1,West Ham United FC
-27,Sat Feb 21 1998,Coventry City FC,1-0,Barnsley FC
-27,Sat Feb 21 1998,Manchester United FC,2-0,Derby County FC
-27,Sat Feb 21 1998,Sheffield Wednesday FC,1-0,Tottenham Hotspur FC
-27,Sat Feb 21 1998,Southampton FC,3-0,Blackburn Rovers FC
-27,Sat Feb 21 1998,Wimbledon FC,2-1,Aston Villa FC
-27,Sat Feb 21 1998,Leicester City FC,2-0,Chelsea FC
 27,Sat Feb 21 1998,Arsenal FC,1-0,Crystal Palace FC
+27,Sat Feb 21 1998,Wimbledon FC,2-1,Aston Villa FC
+27,Sat Feb 21 1998,Southampton FC,3-0,Blackburn Rovers FC
+27,Sat Feb 21 1998,Sheffield Wednesday FC,1-0,Tottenham Hotspur FC
+27,Sat Feb 21 1998,Manchester United FC,2-0,Derby County FC
+27,Sat Feb 21 1998,Coventry City FC,1-0,Barnsley FC
+27,Sat Feb 21 1998,Leicester City FC,2-0,Chelsea FC
 27,Sun Feb 22 1998,Newcastle United FC,1-1,Leeds United FC
 27,Mon Feb 23 1998,Liverpool FC,1-1,Everton FC
-28,Sat Feb 28 1998,Barnsley FC,2-1,Wimbledon FC
-28,Sat Feb 28 1998,Everton FC,0-0,Newcastle United FC
-28,Sat Feb 28 1998,Crystal Palace FC,0-3,Coventry City FC
-28,Sat Feb 28 1998,Chelsea FC,0-1,Manchester United FC
 28,Sat Feb 28 1998,Leeds United FC,0-1,Southampton FC
+28,Sat Feb 28 1998,Barnsley FC,2-1,Wimbledon FC
+28,Sat Feb 28 1998,Crystal Palace FC,0-3,Coventry City FC
+28,Sat Feb 28 1998,Everton FC,0-0,Newcastle United FC
+28,Sat Feb 28 1998,Chelsea FC,0-1,Manchester United FC
 28,Sat Feb 28 1998,Aston Villa FC,2-1,Liverpool FC
 28,Sat Feb 28 1998,Derby County FC,3-0,Sheffield Wednesday FC
 28,Sat Feb 28 1998,Blackburn Rovers FC,5-3,Leicester City FC
 28,Sun Mar 1 1998,Tottenham Hotspur FC,1-0,Bolton Wanderers FC
 28,Mon Mar 2 1998,West Ham United FC,0-0,Arsenal FC
 29,Wed Mar 4 1998,Leeds United FC,1-0,Tottenham Hotspur FC
-29,Sat Mar 7 1998,Southampton FC,2-1,Everton FC
 29,Sat Mar 7 1998,Liverpool FC,2-1,Bolton Wanderers FC
 29,Sat Mar 7 1998,Sheffield Wednesday FC,2-0,Manchester United FC
+29,Sat Mar 7 1998,Southampton FC,2-1,Everton FC
 29,Sun Mar 8 1998,Chelsea FC,0-1,Aston Villa FC
 19,Wed Mar 11 1998,Wimbledon FC,0-1,Arsenal FC
-26,Wed Mar 11 1998,Leeds United FC,4-0,Blackburn Rovers FC
 26,Wed Mar 11 1998,Aston Villa FC,0-1,Barnsley FC
 26,Wed Mar 11 1998,Chelsea FC,6-2,Crystal Palace FC
 26,Wed Mar 11 1998,West Ham United FC,1-1,Manchester United FC
-30,Sat Mar 14 1998,Manchester United FC,0-1,Arsenal FC
-30,Sat Mar 14 1998,Everton FC,1-0,Blackburn Rovers FC
+26,Wed Mar 11 1998,Leeds United FC,4-0,Blackburn Rovers FC
 30,Sat Mar 14 1998,Bolton Wanderers FC,3-2,Sheffield Wednesday FC
-30,Sat Mar 14 1998,Wimbledon FC,2-1,Leicester City FC
-30,Sat Mar 14 1998,Newcastle United FC,0-0,Coventry City FC
-30,Sat Mar 14 1998,Barnsley FC,4-3,Southampton FC
-30,Sat Mar 14 1998,Aston Villa FC,3-1,Crystal Palace FC
+30,Sat Mar 14 1998,Everton FC,1-0,Blackburn Rovers FC
 30,Sat Mar 14 1998,Tottenham Hotspur FC,3-3,Liverpool FC
+30,Sat Mar 14 1998,Manchester United FC,0-1,Arsenal FC
+30,Sat Mar 14 1998,Aston Villa FC,3-1,Crystal Palace FC
+30,Sat Mar 14 1998,Newcastle United FC,0-0,Coventry City FC
+30,Sat Mar 14 1998,Wimbledon FC,2-1,Leicester City FC
 30,Sat Mar 14 1998,West Ham United FC,2-1,Chelsea FC
+30,Sat Mar 14 1998,Barnsley FC,4-3,Southampton FC
 30,Sun Mar 15 1998,Derby County FC,0-5,Leeds United FC
 32,Wed Mar 18 1998,Newcastle United FC,1-2,Crystal Palace FC
+31,Sat Mar 28 1998,Bolton Wanderers FC,2-0,Leicester City FC
+31,Sat Mar 28 1998,Crystal Palace FC,1-3,Tottenham Hotspur FC
+31,Sat Mar 28 1998,Barnsley FC,2-3,Liverpool FC
 31,Sat Mar 28 1998,Coventry City FC,1-0,Derby County FC
 31,Sat Mar 28 1998,Manchester United FC,2-0,Wimbledon FC
-31,Sat Mar 28 1998,Barnsley FC,2-3,Liverpool FC
-31,Sat Mar 28 1998,Crystal Palace FC,1-3,Tottenham Hotspur FC
-31,Sat Mar 28 1998,Arsenal FC,1-0,Sheffield Wednesday FC
-31,Sat Mar 28 1998,Everton FC,1-4,Aston Villa FC
-31,Sat Mar 28 1998,Bolton Wanderers FC,2-0,Leicester City FC
 31,Sat Mar 28 1998,Southampton FC,2-1,Newcastle United FC
+31,Sat Mar 28 1998,Everton FC,1-4,Aston Villa FC
+31,Sat Mar 28 1998,Arsenal FC,1-0,Sheffield Wednesday FC
 31,Mon Mar 30 1998,West Ham United FC,3-0,Leeds United FC
+26,Tue Mar 31 1998,Bolton Wanderers FC,0-1,Arsenal FC
 26,Tue Mar 31 1998,Wimbledon FC,0-0,Newcastle United FC
 29,Tue Mar 31 1998,Blackburn Rovers FC,2-1,Barnsley FC
-26,Tue Mar 31 1998,Bolton Wanderers FC,0-1,Arsenal FC
-32,Sat Apr 4 1998,Wimbledon FC,0-0,Bolton Wanderers FC
-32,Sat Apr 4 1998,Aston Villa FC,2-0,West Ham United FC
-32,Sat Apr 4 1998,Sheffield Wednesday FC,1-0,Southampton FC
-32,Sat Apr 4 1998,Leicester City FC,1-1,Coventry City FC
 32,Sat Apr 4 1998,Tottenham Hotspur FC,1-1,Everton FC
+32,Sat Apr 4 1998,Aston Villa FC,2-0,West Ham United FC
+32,Sat Apr 4 1998,Leicester City FC,1-1,Coventry City FC
 32,Sat Apr 4 1998,Leeds United FC,2-1,Barnsley FC
+32,Sat Apr 4 1998,Wimbledon FC,0-0,Bolton Wanderers FC
+32,Sat Apr 4 1998,Sheffield Wednesday FC,1-0,Southampton FC
 32,Sun Apr 5 1998,Derby County FC,0-1,Chelsea FC
 32,Mon Apr 6 1998,Blackburn Rovers FC,1-3,Manchester United FC
 34,Wed Apr 8 1998,Leeds United FC,3-1,Chelsea FC
@@ -319,61 +319,61 @@ Matchday,Date,Team 1,FT,Team 2
 33,Sat Apr 11 1998,Bolton Wanderers FC,2-1,Blackburn Rovers FC
 33,Sat Apr 11 1998,Coventry City FC,1-2,Aston Villa FC
 33,Sat Apr 11 1998,Chelsea FC,2-0,Tottenham Hotspur FC
+33,Sat Apr 11 1998,Barnsley FC,2-1,Sheffield Wednesday FC
 33,Sat Apr 11 1998,Crystal Palace FC,0-3,Leicester City FC
 33,Sat Apr 11 1998,Everton FC,2-0,Leeds United FC
 33,Sat Apr 11 1998,Southampton FC,0-1,Wimbledon FC
 33,Sat Apr 11 1998,Arsenal FC,3-1,Newcastle United FC
 33,Sat Apr 11 1998,West Ham United FC,0-0,Derby County FC
-33,Sat Apr 11 1998,Barnsley FC,2-1,Sheffield Wednesday FC
-34,Mon Apr 13 1998,Tottenham Hotspur FC,1-1,Coventry City FC
-34,Mon Apr 13 1998,Wimbledon FC,0-0,Everton FC
-34,Mon Apr 13 1998,Blackburn Rovers FC,1-4,Arsenal FC
-34,Mon Apr 13 1998,Sheffield Wednesday FC,1-1,West Ham United FC
 34,Mon Apr 13 1998,Liverpool FC,2-1,Crystal Palace FC
+34,Mon Apr 13 1998,Wimbledon FC,0-0,Everton FC
 34,Mon Apr 13 1998,Newcastle United FC,2-1,Barnsley FC
 34,Mon Apr 13 1998,Derby County FC,4-0,Bolton Wanderers FC
+34,Mon Apr 13 1998,Sheffield Wednesday FC,1-1,West Ham United FC
+34,Mon Apr 13 1998,Blackburn Rovers FC,1-4,Arsenal FC
+34,Mon Apr 13 1998,Tottenham Hotspur FC,1-1,Coventry City FC
 34,Tue Apr 14 1998,Leicester City FC,3-3,Southampton FC
-35,Sat Apr 18 1998,Southampton FC,1-2,Aston Villa FC
+35,Sat Apr 18 1998,Bolton Wanderers FC,2-3,Leeds United FC
+35,Sat Apr 18 1998,Manchester United FC,1-1,Newcastle United FC
+35,Sat Apr 18 1998,Everton FC,1-1,Leicester City FC
+35,Sat Apr 18 1998,Barnsley FC,1-1,Tottenham Hotspur FC
 35,Sat Apr 18 1998,Arsenal FC,5-0,Wimbledon FC
 35,Sat Apr 18 1998,Crystal Palace FC,3-1,Derby County FC
 35,Sat Apr 18 1998,West Ham United FC,2-1,Blackburn Rovers FC
-35,Sat Apr 18 1998,Everton FC,1-1,Leicester City FC
-35,Sat Apr 18 1998,Manchester United FC,1-1,Newcastle United FC
-35,Sat Apr 18 1998,Bolton Wanderers FC,2-3,Leeds United FC
-35,Sat Apr 18 1998,Barnsley FC,1-1,Tottenham Hotspur FC
+35,Sat Apr 18 1998,Southampton FC,1-2,Aston Villa FC
 35,Sun Apr 19 1998,Coventry City FC,1-1,Liverpool FC
 35,Sun Apr 19 1998,Chelsea FC,1-0,Sheffield Wednesday FC
-36,Sat Apr 25 1998,Blackburn Rovers FC,0-0,Wimbledon FC
-36,Sat Apr 25 1998,West Ham United FC,2-4,Southampton FC
-36,Sat Apr 25 1998,Everton FC,1-3,Sheffield Wednesday FC
-36,Sat Apr 25 1998,Chelsea FC,4-1,Liverpool FC
-36,Sat Apr 25 1998,Leeds United FC,3-3,Coventry City FC
-36,Sat Apr 25 1998,Barnsley FC,0-2,Arsenal FC
 36,Sat Apr 25 1998,Aston Villa FC,1-3,Bolton Wanderers FC
+36,Sat Apr 25 1998,Barnsley FC,0-2,Arsenal FC
+36,Sat Apr 25 1998,Chelsea FC,4-1,Liverpool FC
+36,Sat Apr 25 1998,Blackburn Rovers FC,0-0,Wimbledon FC
+36,Sat Apr 25 1998,Everton FC,1-3,Sheffield Wednesday FC
 36,Sat Apr 25 1998,Tottenham Hotspur FC,2-0,Newcastle United FC
+36,Sat Apr 25 1998,West Ham United FC,2-4,Southampton FC
+36,Sat Apr 25 1998,Leeds United FC,3-3,Coventry City FC
 36,Sun Apr 26 1998,Derby County FC,0-4,Leicester City FC
 36,Mon Apr 27 1998,Crystal Palace FC,0-3,Manchester United FC
+29,Wed Apr 29 1998,Leicester City FC,0-0,Newcastle United FC
 29,Wed Apr 29 1998,Coventry City FC,0-0,Wimbledon FC
 29,Wed Apr 29 1998,Arsenal FC,1-0,Derby County FC
-29,Wed Apr 29 1998,Leicester City FC,0-0,Newcastle United FC
 31,Wed Apr 29 1998,Chelsea FC,0-1,Blackburn Rovers FC
-37,Sat May 2 1998,Liverpool FC,5-0,West Ham United FC
-37,Sat May 2 1998,Newcastle United FC,3-1,Chelsea FC
 37,Sat May 2 1998,Wimbledon FC,2-6,Tottenham Hotspur FC
-37,Sat May 2 1998,Coventry City FC,2-0,Blackburn Rovers FC
+37,Sat May 2 1998,Liverpool FC,5-0,West Ham United FC
 37,Sat May 2 1998,Southampton FC,0-2,Derby County FC
-37,Sat May 2 1998,Sheffield Wednesday FC,1-3,Aston Villa FC
-37,Sat May 2 1998,Bolton Wanderers FC,5-2,Crystal Palace FC
 37,Sat May 2 1998,Leicester City FC,1-0,Barnsley FC
+37,Sat May 2 1998,Bolton Wanderers FC,5-2,Crystal Palace FC
+37,Sat May 2 1998,Sheffield Wednesday FC,1-3,Aston Villa FC
+37,Sat May 2 1998,Coventry City FC,2-0,Blackburn Rovers FC
+37,Sat May 2 1998,Newcastle United FC,3-1,Chelsea FC
 37,Sun May 3 1998,Arsenal FC,4-0,Everton FC
 37,Mon May 4 1998,Manchester United FC,3-0,Leeds United FC
 29,Tue May 5 1998,Crystal Palace FC,3-3,West Ham United FC
 32,Wed May 6 1998,Liverpool FC,4-0,Arsenal FC
-38,Sun May 10 1998,Derby County FC,1-0,Liverpool FC
+38,Sun May 10 1998,Aston Villa FC,1-0,Arsenal FC
 38,Sun May 10 1998,Everton FC,1-1,Coventry City FC
 38,Sun May 10 1998,Crystal Palace FC,1-0,Sheffield Wednesday FC
 38,Sun May 10 1998,West Ham United FC,4-3,Leicester City FC
-38,Sun May 10 1998,Aston Villa FC,1-0,Arsenal FC
+38,Sun May 10 1998,Derby County FC,1-0,Liverpool FC
 38,Sun May 10 1998,Tottenham Hotspur FC,1-1,Southampton FC
 38,Sun May 10 1998,Chelsea FC,2-0,Bolton Wanderers FC
 38,Sun May 10 1998,Barnsley FC,0-2,Manchester United FC

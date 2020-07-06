@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 3 2013,York City FC,1-0,Northampton Town FC
 1,Sat Aug 3 2013,Wycombe Wanderers FC,1-0,Morecambe FC
 1,Sat Aug 3 2013,Torquay United FC,1-1,AFC Wimbledon
@@ -16,13 +16,13 @@ Matchday,Date,Team 1,FT,Team 2
 2,Sat Aug 10 2013,Oxford United FC,2-1,Bury FC
 2,Sat Aug 10 2013,Northampton Town FC,3-1,Newport County AFC
 2,Sat Aug 10 2013,Morecambe FC,1-1,Torquay United FC
-2,Sat Aug 10 2013,Mansfield Town FC,0-0,Exeter City FC
+2,Sat Aug 10 2013,AFC Wimbledon,1-0,Wycombe Wanderers FC
 2,Sat Aug 10 2013,Hartlepool United FC,0-1,Southend United FC
 2,Sat Aug 10 2013,Dagenham & Redbridge FC,2-0,York City FC
 2,Sat Aug 10 2013,Chesterfield FC,2-0,Cheltenham Town FC
 2,Sat Aug 10 2013,Burton Albion FC,1-0,Rochdale AFC
 2,Sat Aug 10 2013,Bristol Rovers FC,0-0,Scunthorpe United FC
-2,Sat Aug 10 2013,AFC Wimbledon,1-0,Wycombe Wanderers FC
+2,Sat Aug 10 2013,Mansfield Town FC,0-0,Exeter City FC
 3,Sat Aug 17 2013,York City FC,0-0,Hartlepool United FC
 3,Sat Aug 17 2013,Wycombe Wanderers FC,0-1,Mansfield Town FC
 3,Sat Aug 17 2013,Torquay United FC,1-3,Oxford United FC
@@ -52,13 +52,13 @@ Matchday,Date,Team 1,FT,Team 2
 5,Sat Aug 31 2013,Scunthorpe United FC,1-1,Newport County AFC
 5,Sat Aug 31 2013,Portsmouth FC,0-2,Chesterfield FC
 5,Sat Aug 31 2013,Oxford United FC,1-1,Rochdale AFC
-5,Sat Aug 31 2013,Morecambe FC,2-1,Plymouth Argyle FC
+5,Sat Aug 31 2013,Accrington Stanley FC,0-1,Burton Albion FC
 5,Sat Aug 31 2013,Mansfield Town FC,3-0,Dagenham & Redbridge FC
 5,Sat Aug 31 2013,Exeter City FC,2-1,York City FC
 5,Sat Aug 31 2013,Bury FC,4-1,Cheltenham Town FC
 5,Sat Aug 31 2013,Bristol Rovers FC,1-0,Northampton Town FC
 5,Sat Aug 31 2013,AFC Wimbledon,2-0,Fleetwood Town FC
-5,Sat Aug 31 2013,Accrington Stanley FC,0-1,Burton Albion FC
+5,Sat Aug 31 2013,Morecambe FC,2-1,Plymouth Argyle FC
 6,Sat Sep 7 2013,York City FC,0-2,AFC Wimbledon
 6,Sat Sep 7 2013,Southend United FC,1-3,Morecambe FC
 6,Sat Sep 7 2013,Rochdale AFC,1-0,Bury FC
@@ -88,19 +88,19 @@ Matchday,Date,Team 1,FT,Team 2
 8,Sat Sep 21 2013,Scunthorpe United FC,1-0,Plymouth Argyle FC
 8,Sat Sep 21 2013,Portsmouth FC,0-1,Fleetwood Town FC
 8,Sat Sep 21 2013,Oxford United FC,0-1,Chesterfield FC
-8,Sat Sep 21 2013,Morecambe FC,2-2,Dagenham & Redbridge FC
+8,Sat Sep 21 2013,Accrington Stanley FC,1-2,Rochdale AFC
 8,Sat Sep 21 2013,Mansfield Town FC,3-0,Northampton Town FC
 8,Sat Sep 21 2013,Exeter City FC,0-2,Newport County AFC
 8,Sat Sep 21 2013,Bury FC,1-1,Southend United FC
 8,Sat Sep 21 2013,Bristol Rovers FC,2-2,Hartlepool United FC
 8,Sat Sep 21 2013,AFC Wimbledon,3-1,Burton Albion FC
-8,Sat Sep 21 2013,Accrington Stanley FC,1-2,Rochdale AFC
+8,Sat Sep 21 2013,Morecambe FC,2-2,Dagenham & Redbridge FC
 9,Fri Sep 27 2013,Southend United FC,1-1,Bristol Rovers FC
-9,Sat Sep 28 2013,Chesterfield FC,0-1,Mansfield Town FC
+9,Sat Sep 28 2013,Northampton Town FC,0-0,Morecambe FC
 9,Sat Sep 28 2013,York City FC,4-2,Portsmouth FC
 9,Sat Sep 28 2013,Rochdale AFC,3-2,Wycombe Wanderers FC
 9,Sat Sep 28 2013,Plymouth Argyle FC,0-0,Accrington Stanley FC
-9,Sat Sep 28 2013,Northampton Town FC,0-0,Morecambe FC
+9,Sat Sep 28 2013,Chesterfield FC,0-1,Mansfield Town FC
 9,Sat Sep 28 2013,Newport County AFC,2-1,Torquay United FC
 9,Sat Sep 28 2013,Hartlepool United FC,1-3,Oxford United FC
 9,Sat Sep 28 2013,Fleetwood Town FC,1-2,Exeter City FC
@@ -124,25 +124,24 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sat Oct 12 2013,Rochdale AFC,3-0,Newport County AFC
 11,Sat Oct 12 2013,Oxford United FC,2-0,Northampton Town FC
 11,Sat Oct 12 2013,Mansfield Town FC,1-1,Bristol Rovers FC
-11,Sat Oct 12 2013,Fleetwood Town FC,1-1,Chesterfield FC
+11,Sat Oct 12 2013,AFC Wimbledon,1-1,Accrington Stanley FC
 11,Sat Oct 12 2013,Exeter City FC,0-3,Hartlepool United FC
 11,Sat Oct 12 2013,Dagenham & Redbridge FC,1-2,Cheltenham Town FC
 11,Sat Oct 12 2013,Bury FC,0-2,Morecambe FC
 11,Sat Oct 12 2013,Burton Albion FC,0-1,Southend United FC
-11,Sat Oct 12 2013,AFC Wimbledon,1-1,Accrington Stanley FC
+11,Sat Oct 12 2013,Fleetwood Town FC,1-1,Chesterfield FC
 12,Fri Oct 18 2013,Southend United FC,2-0,Fleetwood Town FC
-12,Sat Oct 19 2013,Northampton Town FC,2-2,Dagenham & Redbridge FC
 12,Sat Oct 19 2013,Newport County AFC,3-0,York City FC
 12,Sat Oct 19 2013,Scunthorpe United FC,0-4,Exeter City FC
 12,Sat Oct 19 2013,Portsmouth FC,1-0,Bury FC
-12,Sat Oct 19 2013,Bristol Rovers FC,0-1,Wycombe Wanderers FC
-12,Sat Oct 19 2013,Accrington Stanley FC,0-0,Oxford United FC
+12,Sat Oct 19 2013,Northampton Town FC,2-2,Dagenham & Redbridge FC
+12,Sat Oct 19 2013,Torquay United FC,0-0,Mansfield Town FC
 12,Sat Oct 19 2013,Morecambe FC,1-1,AFC Wimbledon
 12,Sat Oct 19 2013,Hartlepool United FC,1-0,Plymouth Argyle FC
 12,Sat Oct 19 2013,Chesterfield FC,0-2,Burton Albion FC
 12,Sat Oct 19 2013,Cheltenham Town FC,1-2,Rochdale AFC
-12,Sat Oct 19 2013,Torquay United FC,0-0,Mansfield Town FC
-13,Tue Oct 22 2013,Accrington Stanley FC,2-1,Bristol Rovers FC
+12,Sat Oct 19 2013,Accrington Stanley FC,0-0,Oxford United FC
+12,Sat Oct 19 2013,Bristol Rovers FC,0-1,Wycombe Wanderers FC
 13,Tue Oct 22 2013,Southend United FC,0-1,Dagenham & Redbridge FC
 13,Tue Oct 22 2013,Rochdale AFC,3-2,Northampton Town FC
 13,Tue Oct 22 2013,Plymouth Argyle FC,0-0,Newport County AFC
@@ -153,142 +152,144 @@ Matchday,Date,Team 1,FT,Team 2
 13,Tue Oct 22 2013,Cheltenham Town FC,3-0,Morecambe FC
 13,Tue Oct 22 2013,Bury FC,0-0,Mansfield Town FC
 13,Tue Oct 22 2013,Burton Albion FC,2-0,Torquay United FC
-14,Sat Oct 26 2013,Scunthorpe United FC,1-0,Hartlepool United FC
-14,Sat Oct 26 2013,Morecambe FC,1-2,Accrington Stanley FC
+13,Tue Oct 22 2013,Accrington Stanley FC,2-1,Bristol Rovers FC
 14,Sat Oct 26 2013,Northampton Town FC,1-1,Cheltenham Town FC
 14,Sat Oct 26 2013,York City FC,0-2,Fleetwood Town FC
 14,Sat Oct 26 2013,Wycombe Wanderers FC,1-2,Bury FC
 14,Sat Oct 26 2013,Torquay United FC,1-1,Portsmouth FC
-14,Sat Oct 26 2013,Bristol Rovers FC,0-0,Chesterfield FC
+14,Sat Oct 26 2013,Scunthorpe United FC,1-0,Hartlepool United FC
 14,Sat Oct 26 2013,Newport County AFC,3-1,Southend United FC
 14,Sat Oct 26 2013,AFC Wimbledon,0-2,Oxford United FC
 14,Sat Oct 26 2013,Mansfield Town FC,0-1,Plymouth Argyle FC
 14,Sat Oct 26 2013,Exeter City FC,0-1,Burton Albion FC
 14,Sat Oct 26 2013,Dagenham & Redbridge FC,3-1,Rochdale AFC
+14,Sat Oct 26 2013,Bristol Rovers FC,0-0,Chesterfield FC
+14,Sat Oct 26 2013,Morecambe FC,1-2,Accrington Stanley FC
 11,Tue Oct 29 2013,York City FC,4-1,Scunthorpe United FC
 15,Fri Nov 1 2013,Southend United FC,3-0,Mansfield Town FC
-15,Sat Nov 2 2013,Oxford United FC,0-1,Bristol Rovers FC
 15,Sat Nov 2 2013,Hartlepool United FC,2-1,Dagenham & Redbridge FC
 15,Sat Nov 2 2013,Portsmouth FC,3-2,Exeter City FC
 15,Sat Nov 2 2013,Plymouth Argyle FC,1-0,Northampton Town FC
-15,Sat Nov 2 2013,Accrington Stanley FC,1-1,Wycombe Wanderers FC
+15,Sat Nov 2 2013,Oxford United FC,0-1,Bristol Rovers FC
 15,Sat Nov 2 2013,Rochdale AFC,1-2,AFC Wimbledon
 15,Sat Nov 2 2013,Fleetwood Town FC,4-1,Newport County AFC
 15,Sat Nov 2 2013,Chesterfield FC,1-1,Scunthorpe United FC
 15,Sat Nov 2 2013,Cheltenham Town FC,2-2,York City FC
 15,Sat Nov 2 2013,Bury FC,1-3,Torquay United FC
 15,Sat Nov 2 2013,Burton Albion FC,0-1,Morecambe FC
+15,Sat Nov 2 2013,Accrington Stanley FC,1-1,Wycombe Wanderers FC
 16,Fri Nov 15 2013,Newport County AFC,2-0,Hartlepool United FC
-16,Sat Nov 16 2013,Northampton Town FC,1-0,Fleetwood Town FC
 16,Sat Nov 16 2013,York City FC,1-1,Plymouth Argyle FC
 16,Sat Nov 16 2013,Wycombe Wanderers FC,1-2,Cheltenham Town FC
 16,Sat Nov 16 2013,Torquay United FC,0-2,Chesterfield FC
 16,Sat Nov 16 2013,Scunthorpe United FC,0-2,Accrington Stanley FC
-16,Sat Nov 16 2013,AFC Wimbledon,4-0,Portsmouth FC
+16,Sat Nov 16 2013,Northampton Town FC,1-0,Fleetwood Town FC
 16,Sat Nov 16 2013,Morecambe FC,1-2,Rochdale AFC
 16,Sat Nov 16 2013,Mansfield Town FC,1-3,Oxford United FC
 16,Sat Nov 16 2013,Exeter City FC,0-2,Southend United FC
 16,Sat Nov 16 2013,Dagenham & Redbridge FC,2-0,Burton Albion FC
 16,Sat Nov 16 2013,Bristol Rovers FC,1-1,Bury FC
-17,Sat Nov 23 2013,Oxford United FC,3-0,Morecambe FC
+16,Sat Nov 16 2013,AFC Wimbledon,4-0,Portsmouth FC
 17,Sat Nov 23 2013,Southend United FC,2-1,York City FC
 17,Sat Nov 23 2013,Rochdale AFC,3-1,Exeter City FC
 17,Sat Nov 23 2013,Portsmouth FC,1-2,Scunthorpe United FC
 17,Sat Nov 23 2013,Plymouth Argyle FC,2-1,Dagenham & Redbridge FC
-17,Sat Nov 23 2013,Hartlepool United FC,2-0,Northampton Town FC
+17,Sat Nov 23 2013,Oxford United FC,3-0,Morecambe FC
 17,Sat Nov 23 2013,Accrington Stanley FC,2-1,Torquay United FC
 17,Sat Nov 23 2013,Fleetwood Town FC,5-4,Mansfield Town FC
 17,Sat Nov 23 2013,Chesterfield FC,2-0,Wycombe Wanderers FC
 17,Sat Nov 23 2013,Cheltenham Town FC,0-0,Newport County AFC
 17,Sat Nov 23 2013,Bury FC,1-1,AFC Wimbledon
 17,Sat Nov 23 2013,Burton Albion FC,1-0,Bristol Rovers FC
-18,Tue Nov 26 2013,Burton Albion FC,1-0,Mansfield Town FC
+17,Sat Nov 23 2013,Hartlepool United FC,2-0,Northampton Town FC
 18,Tue Nov 26 2013,Wycombe Wanderers FC,1-1,Exeter City FC
 18,Tue Nov 26 2013,Torquay United FC,1-1,Plymouth Argyle FC
 18,Tue Nov 26 2013,Rochdale AFC,0-4,Scunthorpe United FC
 18,Tue Nov 26 2013,Portsmouth FC,1-2,Southend United FC
-18,Tue Nov 26 2013,AFC Wimbledon,1-1,Dagenham & Redbridge FC
+18,Tue Nov 26 2013,Oxford United FC,0-0,Newport County AFC
 18,Tue Nov 26 2013,Morecambe FC,0-0,York City FC
 18,Tue Nov 26 2013,Chesterfield FC,0-0,Northampton Town FC
 18,Tue Nov 26 2013,Cheltenham Town FC,0-0,Bristol Rovers FC
 18,Tue Nov 26 2013,Bury FC,1-0,Hartlepool United FC
 18,Tue Nov 26 2013,Accrington Stanley FC,2-0,Fleetwood Town FC
-18,Tue Nov 26 2013,Oxford United FC,0-0,Newport County AFC
-19,Sat Nov 30 2013,Hartlepool United FC,0-0,Portsmouth FC
+18,Tue Nov 26 2013,AFC Wimbledon,1-1,Dagenham & Redbridge FC
+18,Tue Nov 26 2013,Burton Albion FC,1-0,Mansfield Town FC
 19,Sat Nov 30 2013,York City FC,0-0,Rochdale AFC
 19,Sat Nov 30 2013,Southend United FC,1-1,Cheltenham Town FC
 19,Sat Nov 30 2013,Scunthorpe United FC,3-1,Torquay United FC
 19,Sat Nov 30 2013,Plymouth Argyle FC,0-1,Burton Albion FC
 19,Sat Nov 30 2013,Northampton Town FC,1-0,Accrington Stanley FC
-19,Sat Nov 30 2013,Dagenham & Redbridge FC,2-0,Wycombe Wanderers FC
+19,Sat Nov 30 2013,Mansfield Town FC,1-2,Morecambe FC
 19,Sat Nov 30 2013,Bristol Rovers FC,3-0,AFC Wimbledon
 19,Sat Nov 30 2013,Fleetwood Town FC,1-1,Oxford United FC
 19,Sat Nov 30 2013,Exeter City FC,2-2,Bury FC
-19,Sat Nov 30 2013,Mansfield Town FC,1-2,Morecambe FC
+19,Sat Nov 30 2013,Dagenham & Redbridge FC,2-0,Wycombe Wanderers FC
+19,Sat Nov 30 2013,Hartlepool United FC,0-0,Portsmouth FC
 19,Sun Dec 1 2013,Newport County AFC,3-2,Chesterfield FC
 13,Wed Dec 4 2013,Portsmouth FC,2-2,Wycombe Wanderers FC
 29,Sat Dec 7 2013,Morecambe FC,0-1,Cheltenham Town FC
-20,Sat Dec 14 2013,Chesterfield FC,2-0,Plymouth Argyle FC
-20,Sat Dec 14 2013,AFC Wimbledon,0-0,Mansfield Town FC
-20,Sat Dec 14 2013,Burton Albion FC,1-1,York City FC
-20,Sat Dec 14 2013,Bury FC,1-1,Northampton Town FC
-20,Sat Dec 14 2013,Cheltenham Town FC,2-2,Hartlepool United FC
-20,Sat Dec 14 2013,Oxford United FC,2-1,Dagenham & Redbridge FC
-20,Sat Dec 14 2013,Wycombe Wanderers FC,1-1,Scunthorpe United FC
 20,Sat Dec 14 2013,Morecambe FC,2-1,Bristol Rovers FC
-20,Sat Dec 14 2013,Portsmouth FC,0-2,Newport County AFC
-20,Sat Dec 14 2013,Rochdale AFC,1-2,Fleetwood Town FC
 20,Sat Dec 14 2013,Torquay United FC,1-0,Southend United FC
+20,Sat Dec 14 2013,Rochdale AFC,1-2,Fleetwood Town FC
+20,Sat Dec 14 2013,Portsmouth FC,0-2,Newport County AFC
 20,Sat Dec 14 2013,Accrington Stanley FC,2-3,Exeter City FC
+20,Sat Dec 14 2013,Wycombe Wanderers FC,1-1,Scunthorpe United FC
+20,Sat Dec 14 2013,Chesterfield FC,2-0,Plymouth Argyle FC
+20,Sat Dec 14 2013,Cheltenham Town FC,2-2,Hartlepool United FC
+20,Sat Dec 14 2013,Bury FC,1-1,Northampton Town FC
+20,Sat Dec 14 2013,Burton Albion FC,1-1,York City FC
+20,Sat Dec 14 2013,AFC Wimbledon,0-0,Mansfield Town FC
+20,Sat Dec 14 2013,Oxford United FC,2-1,Dagenham & Redbridge FC
 21,Fri Dec 20 2013,Southend United FC,1-1,Rochdale AFC
 21,Fri Dec 20 2013,Exeter City FC,0-2,Chesterfield FC
-21,Sat Dec 21 2013,Mansfield Town FC,2-3,Accrington Stanley FC
-21,Sat Dec 21 2013,Fleetwood Town FC,0-2,Cheltenham Town FC
-21,Sat Dec 21 2013,Bristol Rovers FC,2-0,Portsmouth FC
-21,Sat Dec 21 2013,Dagenham & Redbridge FC,0-1,Torquay United FC
-21,Sat Dec 21 2013,Plymouth Argyle FC,2-1,Bury FC
-21,Sat Dec 21 2013,Scunthorpe United FC,2-0,Morecambe FC
 21,Sat Dec 21 2013,Northampton Town FC,1-4,Wycombe Wanderers FC
-21,Sat Dec 21 2013,Hartlepool United FC,1-1,Burton Albion FC
+21,Sat Dec 21 2013,Scunthorpe United FC,2-0,Morecambe FC
+21,Sat Dec 21 2013,Plymouth Argyle FC,2-1,Bury FC
 21,Sat Dec 21 2013,York City FC,0-0,Oxford United FC
-22,Thu Dec 26 2013,AFC Wimbledon,0-1,Southend United FC
-22,Thu Dec 26 2013,Burton Albion FC,1-0,Northampton Town FC
-22,Thu Dec 26 2013,Bury FC,2-2,Scunthorpe United FC
-22,Thu Dec 26 2013,Cheltenham Town FC,1-0,Exeter City FC
-22,Thu Dec 26 2013,Chesterfield FC,1-1,Hartlepool United FC
-22,Thu Dec 26 2013,Morecambe FC,1-0,Fleetwood Town FC
-22,Thu Dec 26 2013,Oxford United FC,2-3,Plymouth Argyle FC
-22,Thu Dec 26 2013,Rochdale AFC,3-0,Mansfield Town FC
-22,Thu Dec 26 2013,Portsmouth FC,1-0,Dagenham & Redbridge FC
-22,Thu Dec 26 2013,Torquay United FC,1-1,Bristol Rovers FC
+21,Sat Dec 21 2013,Mansfield Town FC,2-3,Accrington Stanley FC
+21,Sat Dec 21 2013,Bristol Rovers FC,2-0,Portsmouth FC
+21,Sat Dec 21 2013,Fleetwood Town FC,0-2,Cheltenham Town FC
+21,Sat Dec 21 2013,Dagenham & Redbridge FC,0-1,Torquay United FC
+21,Sat Dec 21 2013,Hartlepool United FC,1-1,Burton Albion FC
 22,Thu Dec 26 2013,Wycombe Wanderers FC,0-1,Newport County AFC
+22,Thu Dec 26 2013,Torquay United FC,1-1,Bristol Rovers FC
+22,Thu Dec 26 2013,Portsmouth FC,1-0,Dagenham & Redbridge FC
+22,Thu Dec 26 2013,Rochdale AFC,3-0,Mansfield Town FC
+22,Thu Dec 26 2013,Oxford United FC,2-3,Plymouth Argyle FC
+22,Thu Dec 26 2013,Morecambe FC,1-0,Fleetwood Town FC
+22,Thu Dec 26 2013,Chesterfield FC,1-1,Hartlepool United FC
+22,Thu Dec 26 2013,Cheltenham Town FC,1-0,Exeter City FC
+22,Thu Dec 26 2013,Bury FC,2-2,Scunthorpe United FC
+22,Thu Dec 26 2013,Burton Albion FC,1-0,Northampton Town FC
+22,Thu Dec 26 2013,AFC Wimbledon,0-1,Southend United FC
 22,Thu Dec 26 2013,Accrington Stanley FC,1-1,York City FC
+23,Sun Dec 29 2013,Oxford United FC,0-2,Scunthorpe United FC
 23,Sun Dec 29 2013,Rochdale AFC,2-0,Bristol Rovers FC
 23,Sun Dec 29 2013,Portsmouth FC,0-0,Northampton Town FC
 23,Sun Dec 29 2013,Torquay United FC,1-3,Exeter City FC
 23,Sun Dec 29 2013,Morecambe FC,1-2,Hartlepool United FC
 23,Sun Dec 29 2013,Bury FC,2-1,York City FC
-23,Sun Dec 29 2013,Cheltenham Town FC,1-2,Mansfield Town FC
 23,Sun Dec 29 2013,Burton Albion FC,1-0,Newport County AFC
 23,Sun Dec 29 2013,AFC Wimbledon,1-1,Plymouth Argyle FC
 23,Sun Dec 29 2013,Accrington Stanley FC,1-1,Southend United FC
 23,Sun Dec 29 2013,Chesterfield FC,1-1,Dagenham & Redbridge FC
-23,Sun Dec 29 2013,Oxford United FC,0-2,Scunthorpe United FC
+23,Sun Dec 29 2013,Cheltenham Town FC,1-2,Mansfield Town FC
 24,Wed Jan 1 2014,Southend United FC,2-1,Portsmouth FC
 24,Wed Jan 1 2014,Scunthorpe United FC,3-0,Rochdale AFC
 24,Wed Jan 1 2014,Mansfield Town FC,0-0,Burton Albion FC
 24,Wed Jan 1 2014,Hartlepool United FC,0-3,Bury FC
-24,Wed Jan 1 2014,York City FC,1-0,Morecambe FC
-24,Wed Jan 1 2014,Plymouth Argyle FC,2-0,Torquay United FC
 24,Wed Jan 1 2014,Fleetwood Town FC,3-1,Accrington Stanley FC
 24,Wed Jan 1 2014,Dagenham & Redbridge FC,1-0,AFC Wimbledon
-25,Sat Jan 4 2014,Newport County AFC,1-2,Northampton Town FC
-25,Sat Jan 4 2014,Torquay United FC,1-1,Morecambe FC
-25,Sat Jan 4 2014,Wycombe Wanderers FC,0-3,AFC Wimbledon
+24,Wed Jan 1 2014,Plymouth Argyle FC,2-0,Torquay United FC
+24,Wed Jan 1 2014,York City FC,1-0,Morecambe FC
 25,Sat Jan 4 2014,York City FC,3-1,Dagenham & Redbridge FC
+25,Sat Jan 4 2014,Wycombe Wanderers FC,0-3,AFC Wimbledon
+25,Sat Jan 4 2014,Torquay United FC,1-1,Morecambe FC
+25,Sat Jan 4 2014,Newport County AFC,1-2,Northampton Town FC
 25,Sat Jan 4 2014,Exeter City FC,0-1,Mansfield Town FC
 26,Sat Jan 11 2014,Morecambe FC,1-1,Wycombe Wanderers FC
 26,Sat Jan 11 2014,Oxford United FC,0-0,Portsmouth FC
+26,Sat Jan 11 2014,Northampton Town FC,0-2,York City FC
 26,Sat Jan 11 2014,Plymouth Argyle FC,1-1,Southend United FC
 26,Sat Jan 11 2014,Mansfield Town FC,0-2,Scunthorpe United FC
 26,Sat Jan 11 2014,Hartlepool United FC,0-3,Rochdale AFC
@@ -298,173 +299,172 @@ Matchday,Date,Team 1,FT,Team 2
 26,Sat Jan 11 2014,Bristol Rovers FC,2-1,Exeter City FC
 26,Sat Jan 11 2014,AFC Wimbledon,0-2,Torquay United FC
 26,Sat Jan 11 2014,Chesterfield FC,4-0,Bury FC
-26,Sat Jan 11 2014,Northampton Town FC,0-2,York City FC
-27,Sat Jan 18 2014,Scunthorpe United FC,0-0,AFC Wimbledon
-27,Sat Jan 18 2014,Wycombe Wanderers FC,0-1,Oxford United FC
 27,Sat Jan 18 2014,York City FC,0-0,Bristol Rovers FC
+27,Sat Jan 18 2014,Wycombe Wanderers FC,0-1,Oxford United FC
 27,Sat Jan 18 2014,Southend United FC,3-0,Chesterfield FC
-27,Sat Jan 18 2014,Rochdale AFC,3-0,Plymouth Argyle FC
-27,Sat Jan 18 2014,Cheltenham Town FC,1-2,Accrington Stanley FC
-27,Sat Jan 18 2014,Fleetwood Town FC,2-0,Hartlepool United FC
-27,Sat Jan 18 2014,Portsmouth FC,1-1,Mansfield Town FC
+27,Sat Jan 18 2014,Scunthorpe United FC,0-0,AFC Wimbledon
 27,Sat Jan 18 2014,Bury FC,0-0,Burton Albion FC
+27,Sat Jan 18 2014,Portsmouth FC,1-1,Mansfield Town FC
+27,Sat Jan 18 2014,Fleetwood Town FC,2-0,Hartlepool United FC
+27,Sat Jan 18 2014,Cheltenham Town FC,1-2,Accrington Stanley FC
+27,Sat Jan 18 2014,Rochdale AFC,3-0,Plymouth Argyle FC
 28,Tue Jan 21 2014,Chesterfield FC,2-2,Rochdale AFC
-28,Sat Jan 25 2014,Bristol Rovers FC,3-1,Newport County AFC
-28,Sat Jan 25 2014,Mansfield Town FC,2-2,Wycombe Wanderers FC
-28,Sat Jan 25 2014,Dagenham & Redbridge FC,3-3,Scunthorpe United FC
-28,Sat Jan 25 2014,Burton Albion FC,2-4,Fleetwood Town FC
-28,Sat Jan 25 2014,AFC Wimbledon,2-1,Exeter City FC
 24,Sat Jan 25 2014,Northampton Town FC,1-3,Chesterfield FC
+28,Sat Jan 25 2014,Mansfield Town FC,2-2,Wycombe Wanderers FC
+28,Sat Jan 25 2014,Plymouth Argyle FC,1-1,Cheltenham Town FC
 28,Sat Jan 25 2014,Morecambe FC,2-2,Portsmouth FC
 28,Sat Jan 25 2014,Oxford United FC,1-0,Torquay United FC
 28,Sat Jan 25 2014,Hartlepool United FC,2-0,York City FC
-28,Sat Jan 25 2014,Plymouth Argyle FC,1-1,Cheltenham Town FC
+28,Sat Jan 25 2014,Dagenham & Redbridge FC,3-3,Scunthorpe United FC
+28,Sat Jan 25 2014,AFC Wimbledon,2-1,Exeter City FC
+28,Sat Jan 25 2014,Bristol Rovers FC,3-1,Newport County AFC
+28,Sat Jan 25 2014,Burton Albion FC,2-4,Fleetwood Town FC
 29,Mon Jan 27 2014,Scunthorpe United FC,0-0,Fleetwood Town FC
-29,Tue Jan 28 2014,Bristol Rovers FC,0-1,Accrington Stanley FC
-29,Tue Jan 28 2014,Dagenham & Redbridge FC,1-1,Southend United FC
-29,Tue Jan 28 2014,York City FC,0-2,Chesterfield FC
-29,Tue Jan 28 2014,AFC Wimbledon,2-1,Hartlepool United FC
 29,Tue Jan 28 2014,Exeter City FC,0-0,Oxford United FC
+29,Tue Jan 28 2014,AFC Wimbledon,2-1,Hartlepool United FC
+29,Tue Jan 28 2014,York City FC,0-2,Chesterfield FC
+29,Tue Jan 28 2014,Dagenham & Redbridge FC,1-1,Southend United FC
+29,Tue Jan 28 2014,Bristol Rovers FC,0-1,Accrington Stanley FC
 29,Tue Jan 28 2014,Wycombe Wanderers FC,0-1,Portsmouth FC
 30,Fri Jan 31 2014,Southend United FC,0-0,Newport County AFC
-30,Sat Feb 1 2014,Portsmouth FC,0-1,Torquay United FC
-30,Sat Feb 1 2014,Hartlepool United FC,0-0,Scunthorpe United FC
-30,Sat Feb 1 2014,Burton Albion FC,1-1,Exeter City FC
 30,Sat Feb 1 2014,Rochdale AFC,0-1,Dagenham & Redbridge FC
-30,Sat Feb 1 2014,Fleetwood Town FC,1-2,York City FC
+30,Sat Feb 1 2014,Portsmouth FC,0-1,Torquay United FC
 30,Sat Feb 1 2014,Plymouth Argyle FC,1-1,Mansfield Town FC
-30,Sat Feb 1 2014,Cheltenham Town FC,1-1,Northampton Town FC
-30,Sat Feb 1 2014,Chesterfield FC,3-1,Bristol Rovers FC
 30,Sat Feb 1 2014,Oxford United FC,2-1,AFC Wimbledon
+30,Sat Feb 1 2014,Hartlepool United FC,0-0,Scunthorpe United FC
+30,Sat Feb 1 2014,Fleetwood Town FC,1-2,York City FC
+30,Sat Feb 1 2014,Chesterfield FC,3-1,Bristol Rovers FC
+30,Sat Feb 1 2014,Cheltenham Town FC,1-1,Northampton Town FC
 30,Sat Feb 1 2014,Bury FC,1-0,Wycombe Wanderers FC
+30,Sat Feb 1 2014,Burton Albion FC,1-1,Exeter City FC
 25,Tue Feb 4 2014,Bury FC,1-1,Oxford United FC
-31,Sat Feb 8 2014,AFC Wimbledon,0-3,Rochdale AFC
-31,Sat Feb 8 2014,Mansfield Town FC,2-1,Southend United FC
-31,Sat Feb 8 2014,Bristol Rovers FC,1-1,Oxford United FC
-31,Sat Feb 8 2014,Dagenham & Redbridge FC,0-2,Hartlepool United FC
-31,Sat Feb 8 2014,Exeter City FC,1-1,Portsmouth FC
 31,Sat Feb 8 2014,Morecambe FC,0-1,Burton Albion FC
-31,Sat Feb 8 2014,York City FC,0-0,Cheltenham Town FC
+31,Sat Feb 8 2014,Wycombe Wanderers FC,0-0,Accrington Stanley FC
 31,Sat Feb 8 2014,Scunthorpe United FC,1-1,Chesterfield FC
 31,Sat Feb 8 2014,Northampton Town FC,0-2,Plymouth Argyle FC
-31,Sat Feb 8 2014,Wycombe Wanderers FC,0-0,Accrington Stanley FC
-27,Tue Feb 11 2014,Torquay United FC,1-2,Northampton Town FC
+31,Sat Feb 8 2014,York City FC,0-0,Cheltenham Town FC
+31,Sat Feb 8 2014,AFC Wimbledon,0-3,Rochdale AFC
+31,Sat Feb 8 2014,Exeter City FC,1-1,Portsmouth FC
+31,Sat Feb 8 2014,Dagenham & Redbridge FC,0-2,Hartlepool United FC
+31,Sat Feb 8 2014,Bristol Rovers FC,1-1,Oxford United FC
+31,Sat Feb 8 2014,Mansfield Town FC,2-1,Southend United FC
 23,Tue Feb 11 2014,Wycombe Wanderers FC,1-1,Fleetwood Town FC
 24,Tue Feb 11 2014,Bristol Rovers FC,1-0,Cheltenham Town FC
+27,Tue Feb 11 2014,Torquay United FC,1-2,Northampton Town FC
 32,Fri Feb 14 2014,Accrington Stanley FC,2-3,Scunthorpe United FC
+32,Sat Feb 15 2014,Portsmouth FC,1-0,AFC Wimbledon
+32,Sat Feb 15 2014,Rochdale AFC,2-1,Morecambe FC
+32,Sat Feb 15 2014,Burton Albion FC,1-1,Dagenham & Redbridge FC
+32,Sat Feb 15 2014,Plymouth Argyle FC,0-4,York City FC
 32,Sat Feb 15 2014,Oxford United FC,3-0,Mansfield Town FC
 32,Sat Feb 15 2014,Hartlepool United FC,3-0,Newport County AFC
 32,Sat Feb 15 2014,Fleetwood Town FC,2-0,Northampton Town FC
-32,Sat Feb 15 2014,Plymouth Argyle FC,0-4,York City FC
-32,Sat Feb 15 2014,Burton Albion FC,1-1,Dagenham & Redbridge FC
-32,Sat Feb 15 2014,Rochdale AFC,2-1,Morecambe FC
-32,Sat Feb 15 2014,Portsmouth FC,1-0,AFC Wimbledon
 32,Sat Feb 15 2014,Chesterfield FC,3-1,Torquay United FC
 32,Sat Feb 15 2014,Southend United FC,2-3,Exeter City FC
 24,Tue Feb 18 2014,Newport County AFC,3-2,Oxford United FC
-25,Tue Feb 18 2014,Southend United FC,1-1,Hartlepool United FC
 25,Tue Feb 18 2014,Rochdale AFC,1-1,Burton Albion FC
+25,Tue Feb 18 2014,Southend United FC,1-1,Hartlepool United FC
 27,Tue Feb 18 2014,Exeter City FC,1-1,Morecambe FC
 28,Tue Feb 18 2014,Accrington Stanley FC,0-0,Bury FC
 33,Fri Feb 21 2014,Bristol Rovers FC,2-0,Burton Albion FC
-33,Sat Feb 22 2014,Mansfield Town FC,1-0,Fleetwood Town FC
-33,Sat Feb 22 2014,Dagenham & Redbridge FC,1-2,Plymouth Argyle FC
+33,Sat Feb 22 2014,Torquay United FC,0-1,Accrington Stanley FC
+33,Sat Feb 22 2014,Wycombe Wanderers FC,1-0,Chesterfield FC
+33,Sat Feb 22 2014,York City FC,0-0,Southend United FC
+33,Sat Feb 22 2014,Scunthorpe United FC,5-1,Portsmouth FC
 33,Sat Feb 22 2014,Northampton Town FC,2-0,Hartlepool United FC
 33,Sat Feb 22 2014,AFC Wimbledon,0-1,Bury FC
-33,Sat Feb 22 2014,Newport County AFC,0-1,Cheltenham Town FC
-33,Sat Feb 22 2014,Exeter City FC,0-1,Rochdale AFC
-33,Sat Feb 22 2014,York City FC,0-0,Southend United FC
-33,Sat Feb 22 2014,Torquay United FC,0-1,Accrington Stanley FC
 33,Sat Feb 22 2014,Morecambe FC,1-1,Oxford United FC
-33,Sat Feb 22 2014,Wycombe Wanderers FC,1-0,Chesterfield FC
-33,Sat Feb 22 2014,Scunthorpe United FC,5-1,Portsmouth FC
+33,Sat Feb 22 2014,Mansfield Town FC,1-0,Fleetwood Town FC
+33,Sat Feb 22 2014,Exeter City FC,0-1,Rochdale AFC
+33,Sat Feb 22 2014,Dagenham & Redbridge FC,1-2,Plymouth Argyle FC
+33,Sat Feb 22 2014,Newport County AFC,0-1,Cheltenham Town FC
 21,Tue Feb 25 2014,Newport County AFC,1-2,AFC Wimbledon
 24,Tue Feb 25 2014,Exeter City FC,0-1,Wycombe Wanderers FC
-29,Tue Feb 25 2014,Torquay United FC,1-1,Burton Albion FC
-29,Tue Feb 25 2014,Mansfield Town FC,1-4,Bury FC
 25,Tue Feb 25 2014,Portsmouth FC,1-0,Accrington Stanley FC
 25,Tue Feb 25 2014,Fleetwood Town FC,0-4,Plymouth Argyle FC
-28,Tue Feb 25 2014,Northampton Town FC,2-1,Southend United FC
 25,Tue Feb 25 2014,Cheltenham Town FC,1-4,Chesterfield FC
 25,Tue Feb 25 2014,Scunthorpe United FC,1-1,Bristol Rovers FC
+28,Tue Feb 25 2014,Northampton Town FC,2-1,Southend United FC
+29,Tue Feb 25 2014,Mansfield Town FC,1-4,Bury FC
+29,Tue Feb 25 2014,Torquay United FC,1-1,Burton Albion FC
 34,Sat Mar 1 2014,Plymouth Argyle FC,5-0,Morecambe FC
-34,Sat Mar 1 2014,Newport County AFC,2-2,Scunthorpe United FC
-34,Sat Mar 1 2014,Burton Albion FC,2-1,Accrington Stanley FC
-34,Sat Mar 1 2014,Cheltenham Town FC,2-1,Bury FC
-34,Sat Mar 1 2014,Northampton Town FC,0-0,Bristol Rovers FC
-34,Sat Mar 1 2014,York City FC,2-1,Exeter City FC
-34,Sat Mar 1 2014,Dagenham & Redbridge FC,0-0,Mansfield Town FC
-34,Sat Mar 1 2014,Rochdale AFC,3-0,Oxford United FC
-34,Sat Mar 1 2014,Hartlepool United FC,3-0,Torquay United FC
 34,Sat Mar 1 2014,Southend United FC,1-1,Wycombe Wanderers FC
+34,Sat Mar 1 2014,Rochdale AFC,3-0,Oxford United FC
+34,Sat Mar 1 2014,York City FC,2-1,Exeter City FC
+34,Sat Mar 1 2014,Northampton Town FC,0-0,Bristol Rovers FC
+34,Sat Mar 1 2014,Burton Albion FC,2-1,Accrington Stanley FC
+34,Sat Mar 1 2014,Hartlepool United FC,3-0,Torquay United FC
 34,Sat Mar 1 2014,Fleetwood Town FC,0-0,AFC Wimbledon
+34,Sat Mar 1 2014,Dagenham & Redbridge FC,0-0,Mansfield Town FC
+34,Sat Mar 1 2014,Cheltenham Town FC,2-1,Bury FC
+34,Sat Mar 1 2014,Newport County AFC,2-2,Scunthorpe United FC
 34,Mon Mar 3 2014,Chesterfield FC,0-0,Portsmouth FC
 31,Tue Mar 4 2014,Newport County AFC,0-0,Fleetwood Town FC
 35,Fri Mar 7 2014,Bury FC,0-0,Rochdale AFC
-35,Sat Mar 8 2014,Mansfield Town FC,2-1,Newport County AFC
-35,Sat Mar 8 2014,AFC Wimbledon,0-1,York City FC
-35,Sat Mar 8 2014,Accrington Stanley FC,3-1,Chesterfield FC
-35,Sat Mar 8 2014,Bristol Rovers FC,2-1,Plymouth Argyle FC
-35,Sat Mar 8 2014,Exeter City FC,2-2,Dagenham & Redbridge FC
-35,Sat Mar 8 2014,Wycombe Wanderers FC,2-1,Hartlepool United FC
-35,Sat Mar 8 2014,Morecambe FC,2-1,Southend United FC
 35,Sat Mar 8 2014,Portsmouth FC,0-0,Cheltenham Town FC
 35,Sat Mar 8 2014,Torquay United FC,0-1,Fleetwood Town FC
 35,Sat Mar 8 2014,Scunthorpe United FC,1-1,Northampton Town FC
+35,Sat Mar 8 2014,Wycombe Wanderers FC,2-1,Hartlepool United FC
 35,Sat Mar 8 2014,Oxford United FC,1-2,Burton Albion FC
-36,Tue Mar 11 2014,Bury FC,2-2,Fleetwood Town FC
-36,Tue Mar 11 2014,Oxford United FC,1-1,Cheltenham Town FC
-36,Tue Mar 11 2014,AFC Wimbledon,1-1,Chesterfield FC
-36,Tue Mar 11 2014,Bristol Rovers FC,1-2,Dagenham & Redbridge FC
-36,Tue Mar 11 2014,Exeter City FC,0-1,Northampton Town FC
-36,Tue Mar 11 2014,Mansfield Town FC,0-1,York City FC
-36,Tue Mar 11 2014,Morecambe FC,4-1,Newport County AFC
+35,Sat Mar 8 2014,Morecambe FC,2-1,Southend United FC
+35,Sat Mar 8 2014,Mansfield Town FC,2-1,Newport County AFC
+35,Sat Mar 8 2014,Exeter City FC,2-2,Dagenham & Redbridge FC
+35,Sat Mar 8 2014,Bristol Rovers FC,2-1,Plymouth Argyle FC
+35,Sat Mar 8 2014,Accrington Stanley FC,3-1,Chesterfield FC
+35,Sat Mar 8 2014,AFC Wimbledon,0-1,York City FC
 36,Tue Mar 11 2014,Wycombe Wanderers FC,0-1,Plymouth Argyle FC
 36,Tue Mar 11 2014,Torquay United FC,2-1,Rochdale AFC
 36,Tue Mar 11 2014,Scunthorpe United FC,2-2,Southend United FC
 36,Tue Mar 11 2014,Portsmouth FC,0-0,Burton Albion FC
 36,Tue Mar 11 2014,Accrington Stanley FC,0-0,Hartlepool United FC
-37,Sat Mar 15 2014,Rochdale AFC,2-1,Accrington Stanley FC
-37,Sat Mar 15 2014,Plymouth Argyle FC,0-2,Scunthorpe United FC
-37,Sat Mar 15 2014,Fleetwood Town FC,3-1,Portsmouth FC
-37,Sat Mar 15 2014,Cheltenham Town FC,1-0,Torquay United FC
-37,Sat Mar 15 2014,Chesterfield FC,3-0,Oxford United FC
-37,Sat Mar 15 2014,Dagenham & Redbridge FC,1-1,Morecambe FC
-37,Sat Mar 15 2014,Burton Albion FC,1-1,AFC Wimbledon
+36,Tue Mar 11 2014,Morecambe FC,4-1,Newport County AFC
+36,Tue Mar 11 2014,Mansfield Town FC,0-1,York City FC
+36,Tue Mar 11 2014,Exeter City FC,0-1,Northampton Town FC
+36,Tue Mar 11 2014,Bury FC,2-2,Fleetwood Town FC
+36,Tue Mar 11 2014,Bristol Rovers FC,1-2,Dagenham & Redbridge FC
+36,Tue Mar 11 2014,AFC Wimbledon,1-1,Chesterfield FC
+36,Tue Mar 11 2014,Oxford United FC,1-1,Cheltenham Town FC
 37,Sat Mar 15 2014,York City FC,2-0,Wycombe Wanderers FC
 37,Sat Mar 15 2014,Southend United FC,0-0,Bury FC
-37,Sat Mar 15 2014,Hartlepool United FC,4-0,Bristol Rovers FC
+37,Sat Mar 15 2014,Rochdale AFC,2-1,Accrington Stanley FC
+37,Sat Mar 15 2014,Plymouth Argyle FC,0-2,Scunthorpe United FC
 37,Sat Mar 15 2014,Northampton Town FC,1-1,Mansfield Town FC
+37,Sat Mar 15 2014,Hartlepool United FC,4-0,Bristol Rovers FC
+37,Sat Mar 15 2014,Burton Albion FC,1-1,AFC Wimbledon
+37,Sat Mar 15 2014,Dagenham & Redbridge FC,1-1,Morecambe FC
+37,Sat Mar 15 2014,Chesterfield FC,3-0,Oxford United FC
+37,Sat Mar 15 2014,Cheltenham Town FC,1-0,Torquay United FC
+37,Sat Mar 15 2014,Fleetwood Town FC,3-1,Portsmouth FC
 37,Sun Mar 16 2014,Newport County AFC,1-1,Exeter City FC
-40,Tue Mar 18 2014,Plymouth Argyle FC,2-1,Chesterfield FC
-32,Tue Mar 18 2014,Cheltenham Town FC,1-1,Wycombe Wanderers FC
-31,Tue Mar 18 2014,Torquay United FC,2-1,Bury FC
 29,Tue Mar 18 2014,Northampton Town FC,0-3,Rochdale AFC
 30,Tue Mar 18 2014,Accrington Stanley FC,5-1,Morecambe FC
+31,Tue Mar 18 2014,Torquay United FC,2-1,Bury FC
+32,Tue Mar 18 2014,Cheltenham Town FC,1-1,Wycombe Wanderers FC
+40,Tue Mar 18 2014,Plymouth Argyle FC,2-1,Chesterfield FC
 27,Wed Mar 19 2014,Newport County AFC,1-2,Dagenham & Redbridge FC
-38,Fri Mar 21 2014,Bristol Rovers FC,0-0,Southend United FC
 38,Fri Mar 21 2014,Oxford United FC,1-0,Hartlepool United FC
-38,Sat Mar 22 2014,Mansfield Town FC,0-0,Chesterfield FC
-38,Sat Mar 22 2014,AFC Wimbledon,4-3,Cheltenham Town FC
-38,Sat Mar 22 2014,Bury FC,1-1,Dagenham & Redbridge FC
-38,Sat Mar 22 2014,Exeter City FC,3-0,Fleetwood Town FC
-38,Sat Mar 22 2014,Morecambe FC,1-1,Northampton Town FC
-38,Sat Mar 22 2014,Scunthorpe United FC,1-0,Burton Albion FC
-38,Sat Mar 22 2014,Torquay United FC,0-1,Newport County AFC
-38,Sat Mar 22 2014,Accrington Stanley FC,1-1,Plymouth Argyle FC
+38,Fri Mar 21 2014,Bristol Rovers FC,0-0,Southend United FC
 38,Sat Mar 22 2014,Wycombe Wanderers FC,0-2,Rochdale AFC
+38,Sat Mar 22 2014,Accrington Stanley FC,1-1,Plymouth Argyle FC
+38,Sat Mar 22 2014,Torquay United FC,0-1,Newport County AFC
+38,Sat Mar 22 2014,Scunthorpe United FC,1-0,Burton Albion FC
 38,Sat Mar 22 2014,Portsmouth FC,0-1,York City FC
+38,Sat Mar 22 2014,Morecambe FC,1-1,Northampton Town FC
+38,Sat Mar 22 2014,Exeter City FC,3-0,Fleetwood Town FC
+38,Sat Mar 22 2014,Bury FC,1-1,Dagenham & Redbridge FC
+38,Sat Mar 22 2014,AFC Wimbledon,4-3,Cheltenham Town FC
+38,Sat Mar 22 2014,Mansfield Town FC,0-0,Chesterfield FC
 39,Mon Mar 24 2014,Southend United FC,3-0,Oxford United FC
-39,Tue Mar 25 2014,Burton Albion FC,1-0,Wycombe Wanderers FC
-39,Tue Mar 25 2014,Chesterfield FC,1-0,Morecambe FC
-39,Tue Mar 25 2014,Dagenham & Redbridge FC,0-0,Accrington Stanley FC
-39,Tue Mar 25 2014,Fleetwood Town FC,3-1,Bristol Rovers FC
-39,Tue Mar 25 2014,Hartlepool United FC,2-4,Mansfield Town FC
-39,Tue Mar 25 2014,York City FC,1-0,Torquay United FC
-39,Tue Mar 25 2014,Northampton Town FC,2-2,AFC Wimbledon
-39,Tue Mar 25 2014,Plymouth Argyle FC,1-2,Exeter City FC
-39,Tue Mar 25 2014,Cheltenham Town FC,0-2,Scunthorpe United FC
 39,Tue Mar 25 2014,Newport County AFC,0-0,Bury FC
+39,Tue Mar 25 2014,Burton Albion FC,1-0,Wycombe Wanderers FC
+39,Tue Mar 25 2014,Plymouth Argyle FC,1-2,Exeter City FC
+39,Tue Mar 25 2014,Northampton Town FC,2-2,AFC Wimbledon
+39,Tue Mar 25 2014,York City FC,1-0,Torquay United FC
+39,Tue Mar 25 2014,Hartlepool United FC,2-4,Mansfield Town FC
+39,Tue Mar 25 2014,Fleetwood Town FC,3-1,Bristol Rovers FC
+39,Tue Mar 25 2014,Dagenham & Redbridge FC,0-0,Accrington Stanley FC
+39,Tue Mar 25 2014,Chesterfield FC,1-0,Morecambe FC
+39,Tue Mar 25 2014,Cheltenham Town FC,0-2,Scunthorpe United FC
 39,Tue Mar 25 2014,Rochdale AFC,3-0,Portsmouth FC
 40,Sat Mar 29 2014,York City FC,0-0,Burton Albion FC
 40,Sat Mar 29 2014,Southend United FC,1-0,Torquay United FC
@@ -472,16 +472,15 @@ Matchday,Date,Team 1,FT,Team 2
 40,Sat Mar 29 2014,Northampton Town FC,0-3,Bury FC
 40,Sat Mar 29 2014,Newport County AFC,1-2,Portsmouth FC
 40,Sat Mar 29 2014,Mansfield Town FC,1-0,AFC Wimbledon
-40,Sat Mar 29 2014,Bristol Rovers FC,1-0,Morecambe FC
 40,Sat Mar 29 2014,Hartlepool United FC,0-1,Cheltenham Town FC
 40,Sat Mar 29 2014,Fleetwood Town FC,0-0,Rochdale AFC
 40,Sat Mar 29 2014,Exeter City FC,0-1,Accrington Stanley FC
 40,Sat Mar 29 2014,Dagenham & Redbridge FC,1-0,Oxford United FC
+40,Sat Mar 29 2014,Bristol Rovers FC,1-0,Morecambe FC
 32,Tue Apr 1 2014,Bury FC,2-1,Bristol Rovers FC
-41,Sat Apr 5 2014,Burton Albion FC,1-0,Plymouth Argyle FC
 41,Sat Apr 5 2014,Wycombe Wanderers FC,2-0,Dagenham & Redbridge FC
 41,Sat Apr 5 2014,Torquay United FC,0-1,Scunthorpe United FC
-41,Sat Apr 5 2014,AFC Wimbledon,0-0,Bristol Rovers FC
+41,Sat Apr 5 2014,Rochdale AFC,0-0,York City FC
 41,Sat Apr 5 2014,Portsmouth FC,1-0,Hartlepool United FC
 41,Sat Apr 5 2014,Oxford United FC,0-2,Fleetwood Town FC
 41,Sat Apr 5 2014,Morecambe FC,0-1,Mansfield Town FC
@@ -489,7 +488,8 @@ Matchday,Date,Team 1,FT,Team 2
 41,Sat Apr 5 2014,Cheltenham Town FC,1-2,Southend United FC
 41,Sat Apr 5 2014,Bury FC,2-0,Exeter City FC
 41,Sat Apr 5 2014,Accrington Stanley FC,0-1,Northampton Town FC
-41,Sat Apr 5 2014,Rochdale AFC,0-0,York City FC
+41,Sat Apr 5 2014,AFC Wimbledon,0-0,Bristol Rovers FC
+41,Sat Apr 5 2014,Burton Albion FC,1-0,Plymouth Argyle FC
 29,Tue Apr 8 2014,Newport County AFC,1-2,Plymouth Argyle FC
 42,Sat Apr 12 2014,York City FC,1-1,Accrington Stanley FC
 42,Sat Apr 12 2014,Southend United FC,0-1,AFC Wimbledon
@@ -501,43 +501,43 @@ Matchday,Date,Team 1,FT,Team 2
 42,Sat Apr 12 2014,Hartlepool United FC,1-2,Chesterfield FC
 42,Sat Apr 12 2014,Fleetwood Town FC,2-2,Morecambe FC
 42,Sat Apr 12 2014,Exeter City FC,1-1,Cheltenham Town FC
-42,Sat Apr 12 2014,Dagenham & Redbridge FC,1-4,Portsmouth FC
 42,Sat Apr 12 2014,Bristol Rovers FC,1-2,Torquay United FC
+42,Sat Apr 12 2014,Dagenham & Redbridge FC,1-4,Portsmouth FC
 43,Fri Apr 18 2014,Wycombe Wanderers FC,1-1,Northampton Town FC
 43,Fri Apr 18 2014,Torquay United FC,0-1,Dagenham & Redbridge FC
 43,Fri Apr 18 2014,Rochdale AFC,0-3,Southend United FC
 43,Fri Apr 18 2014,Oxford United FC,0-1,York City FC
 43,Fri Apr 18 2014,Morecambe FC,1-1,Scunthorpe United FC
-43,Fri Apr 18 2014,Chesterfield FC,1-1,Exeter City FC
+43,Fri Apr 18 2014,Accrington Stanley FC,1-1,Mansfield Town FC
 43,Fri Apr 18 2014,Cheltenham Town FC,1-2,Fleetwood Town FC
 43,Fri Apr 18 2014,Bury FC,4-0,Plymouth Argyle FC
 43,Fri Apr 18 2014,AFC Wimbledon,2-2,Newport County AFC
-43,Fri Apr 18 2014,Accrington Stanley FC,1-1,Mansfield Town FC
+43,Fri Apr 18 2014,Chesterfield FC,1-1,Exeter City FC
 43,Sat Apr 19 2014,Portsmouth FC,3-2,Bristol Rovers FC
 43,Sat Apr 19 2014,Burton Albion FC,3-0,Hartlepool United FC
-44,Mon Apr 21 2014,Bristol Rovers FC,1-2,Rochdale AFC
+44,Mon Apr 21 2014,Plymouth Argyle FC,1-2,AFC Wimbledon
 44,Mon Apr 21 2014,York City FC,1-0,Bury FC
 44,Mon Apr 21 2014,Southend United FC,1-0,Accrington Stanley FC
 44,Mon Apr 21 2014,Scunthorpe United FC,1-0,Oxford United FC
-44,Mon Apr 21 2014,Plymouth Argyle FC,1-2,AFC Wimbledon
-44,Mon Apr 21 2014,Northampton Town FC,0-1,Portsmouth FC
+44,Mon Apr 21 2014,Bristol Rovers FC,1-2,Rochdale AFC
+44,Mon Apr 21 2014,Dagenham & Redbridge FC,0-1,Chesterfield FC
 44,Mon Apr 21 2014,Newport County AFC,1-1,Burton Albion FC
 44,Mon Apr 21 2014,Mansfield Town FC,0-2,Cheltenham Town FC
 44,Mon Apr 21 2014,Hartlepool United FC,2-1,Morecambe FC
 44,Mon Apr 21 2014,Fleetwood Town FC,1-0,Wycombe Wanderers FC
 44,Mon Apr 21 2014,Exeter City FC,1-2,Torquay United FC
-44,Mon Apr 21 2014,Dagenham & Redbridge FC,0-1,Chesterfield FC
+44,Mon Apr 21 2014,Northampton Town FC,0-1,Portsmouth FC
 45,Sat Apr 26 2014,York City FC,1-0,Newport County AFC
 45,Sat Apr 26 2014,Wycombe Wanderers FC,1-2,Bristol Rovers FC
 45,Sat Apr 26 2014,Rochdale AFC,2-0,Cheltenham Town FC
 45,Sat Apr 26 2014,Plymouth Argyle FC,1-1,Hartlepool United FC
 45,Sat Apr 26 2014,Oxford United FC,1-2,Accrington Stanley FC
 45,Sat Apr 26 2014,Mansfield Town FC,1-3,Torquay United FC
-45,Sat Apr 26 2014,Fleetwood Town FC,1-1,Southend United FC
+45,Sat Apr 26 2014,AFC Wimbledon,0-3,Morecambe FC
 45,Sat Apr 26 2014,Exeter City FC,2-0,Scunthorpe United FC
 45,Sat Apr 26 2014,Dagenham & Redbridge FC,0-3,Northampton Town FC
 45,Sat Apr 26 2014,Bury FC,4-4,Portsmouth FC
-45,Sat Apr 26 2014,AFC Wimbledon,0-3,Morecambe FC
+45,Sat Apr 26 2014,Fleetwood Town FC,1-1,Southend United FC
 45,Sun Apr 27 2014,Burton Albion FC,0-2,Chesterfield FC
 46,Sat May 3 2014,Torquay United FC,0-3,Wycombe Wanderers FC
 46,Sat May 3 2014,Southend United FC,1-0,Burton Albion FC

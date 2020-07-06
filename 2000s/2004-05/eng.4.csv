@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 7 2004,Wycombe Wanderers FC,2-1,Cambridge United FC
 1,Sat Aug 7 2004,Swansea City FC,0-2,Northampton Town FC
 1,Sat Aug 7 2004,Southend United FC,0-2,Cheltenham Town FC
@@ -16,19 +16,19 @@ Matchday,Date,Team 1,FT,Team 2
 2,Tue Aug 10 2004,Northampton Town FC,1-0,Rushden & Diamonds (1992-2011)
 2,Tue Aug 10 2004,Macclesfield Town FC,2-1,Shrewsbury Town FC
 2,Tue Aug 10 2004,Lincoln City FC,1-1,Southend United FC
-2,Tue Aug 10 2004,Kidderminster Harriers FC,0-0,Notts County FC
+2,Tue Aug 10 2004,Bristol Rovers FC,2-2,Bury FC
 2,Tue Aug 10 2004,Grimsby Town FC,1-1,Boston United FC
 2,Tue Aug 10 2004,Chester FC,0-2,Wycombe Wanderers FC
 2,Tue Aug 10 2004,Cheltenham Town FC,0-2,Scunthorpe United FC
 2,Tue Aug 10 2004,Cambridge United FC,1-1,Leyton Orient FC
-2,Tue Aug 10 2004,Bristol Rovers FC,2-2,Bury FC
+2,Tue Aug 10 2004,Kidderminster Harriers FC,0-0,Notts County FC
 2,Wed Aug 11 2004,Oxford United FC,1-0,Mansfield Town FC
-3,Sat Aug 14 2004,Yeovil Town FC,2-0,Boston United FC
+3,Sat Aug 14 2004,Lincoln City FC,1-3,Rushden & Diamonds (1992-2011)
 3,Sat Aug 14 2004,Rochdale AFC,2-0,Southend United FC
 3,Sat Aug 14 2004,Oxford United FC,1-1,Scunthorpe United FC
 3,Sat Aug 14 2004,Northampton Town FC,1-1,Wycombe Wanderers FC
 3,Sat Aug 14 2004,Macclesfield Town FC,1-0,Swansea City FC
-3,Sat Aug 14 2004,Lincoln City FC,1-3,Rushden & Diamonds (1992-2011)
+3,Sat Aug 14 2004,Yeovil Town FC,2-0,Boston United FC
 3,Sat Aug 14 2004,Kidderminster Harriers FC,1-0,Darlington FC
 3,Sat Aug 14 2004,Grimsby Town FC,5-1,Bury FC
 3,Sat Aug 14 2004,Chester FC,0-3,Mansfield Town FC
@@ -48,17 +48,17 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sat Aug 21 2004,Bury FC,1-1,Chester FC
 4,Sat Aug 21 2004,Boston United FC,1-1,Macclesfield Town FC
 5,Fri Aug 27 2004,Bristol Rovers FC,2-1,Southend United FC
-5,Sat Aug 28 2004,Macclesfield Town FC,2-2,Scunthorpe United FC
+5,Sat Aug 28 2004,Cambridge United FC,0-1,Swansea City FC
 5,Sat Aug 28 2004,Rochdale AFC,0-3,Bury FC
 5,Sat Aug 28 2004,Oxford United FC,2-0,Shrewsbury Town FC
 5,Sat Aug 28 2004,Northampton Town FC,2-2,Leyton Orient FC
-5,Sat Aug 28 2004,Cambridge United FC,0-1,Swansea City FC
+5,Sat Aug 28 2004,Yeovil Town FC,3-1,Rushden & Diamonds (1992-2011)
 5,Sat Aug 28 2004,Lincoln City FC,1-2,Notts County FC
 5,Sat Aug 28 2004,Kidderminster Harriers FC,0-2,Wycombe Wanderers FC
 5,Sat Aug 28 2004,Grimsby Town FC,2-0,Mansfield Town FC
 5,Sat Aug 28 2004,Chester FC,0-3,Darlington FC
 5,Sat Aug 28 2004,Cheltenham Town FC,1-0,Boston United FC
-5,Sat Aug 28 2004,Yeovil Town FC,3-1,Rushden & Diamonds (1992-2011)
+5,Sat Aug 28 2004,Macclesfield Town FC,2-2,Scunthorpe United FC
 6,Mon Aug 30 2004,Wycombe Wanderers FC,2-0,Grimsby Town FC
 6,Mon Aug 30 2004,Swansea City FC,1-0,Lincoln City FC
 6,Mon Aug 30 2004,Southend United FC,2-1,Macclesfield Town FC
@@ -72,11 +72,11 @@ Matchday,Date,Team 1,FT,Team 2
 6,Mon Aug 30 2004,Boston United FC,3-1,Chester FC
 6,Tue Aug 31 2004,Shrewsbury Town FC,2-0,Cheltenham Town FC
 7,Fri Sep 3 2004,Wycombe Wanderers FC,1-1,Oxford United FC
-7,Sat Sep 4 2004,Yeovil Town FC,1-0,Swansea City FC
+7,Sat Sep 4 2004,Grimsby Town FC,0-1,Rochdale AFC
 7,Sat Sep 4 2004,Rushden & Diamonds (1992-2011),1-4,Southend United FC
 7,Sat Sep 4 2004,Notts County FC,0-0,Cheltenham Town FC
 7,Sat Sep 4 2004,Kidderminster Harriers FC,1-2,Leyton Orient FC
-7,Sat Sep 4 2004,Grimsby Town FC,0-1,Rochdale AFC
+7,Sat Sep 4 2004,Yeovil Town FC,1-0,Swansea City FC
 7,Sat Sep 4 2004,Darlington FC,0-0,Scunthorpe United FC
 7,Sat Sep 4 2004,Chester FC,1-0,Macclesfield Town FC
 7,Sat Sep 4 2004,Bury FC,0-1,Lincoln City FC
@@ -88,13 +88,13 @@ Matchday,Date,Team 1,FT,Team 2
 8,Sat Sep 11 2004,Shrewsbury Town FC,2-2,Bury FC
 8,Sat Sep 11 2004,Scunthorpe United FC,1-2,Chester FC
 8,Sat Sep 11 2004,Rochdale AFC,1-1,Darlington FC
-8,Sat Sep 11 2004,Oxford United FC,0-0,Rushden & Diamonds (1992-2011)
+8,Sat Sep 11 2004,Cambridge United FC,2-2,Mansfield Town FC
 8,Sat Sep 11 2004,Northampton Town FC,0-0,Notts County FC
 8,Sat Sep 11 2004,Macclesfield Town FC,3-1,Grimsby Town FC
 8,Sat Sep 11 2004,Lincoln City FC,2-2,Boston United FC
 8,Sat Sep 11 2004,Leyton Orient FC,4-2,Bristol Rovers FC
 8,Sat Sep 11 2004,Cheltenham Town FC,1-1,Yeovil Town FC
-8,Sat Sep 11 2004,Cambridge United FC,2-2,Mansfield Town FC
+8,Sat Sep 11 2004,Oxford United FC,0-0,Rushden & Diamonds (1992-2011)
 9,Sat Sep 18 2004,Yeovil Town FC,6-1,Oxford United FC
 9,Sat Sep 18 2004,Wycombe Wanderers FC,0-1,Swansea City FC
 9,Sat Sep 18 2004,Rushden & Diamonds (1992-2011),1-0,Cheltenham Town FC
@@ -105,8 +105,8 @@ Matchday,Date,Team 1,FT,Team 2
 9,Sat Sep 18 2004,Darlington FC,1-1,Northampton Town FC
 9,Sat Sep 18 2004,Chester FC,0-0,Cambridge United FC
 9,Sat Sep 18 2004,Bury FC,0-1,Scunthorpe United FC
-9,Sat Sep 18 2004,Bristol Rovers FC,0-0,Lincoln City FC
 9,Sat Sep 18 2004,Boston United FC,2-2,Shrewsbury Town FC
+9,Sat Sep 18 2004,Bristol Rovers FC,0-0,Lincoln City FC
 10,Sat Sep 25 2004,Swansea City FC,1-0,Rushden & Diamonds (1992-2011)
 10,Sat Sep 25 2004,Southend United FC,1-0,Kidderminster Harriers FC
 10,Sat Sep 25 2004,Shrewsbury Town FC,1-2,Yeovil Town FC
@@ -120,53 +120,52 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Sep 25 2004,Cheltenham Town FC,1-1,Wycombe Wanderers FC
 10,Sat Sep 25 2004,Cambridge United FC,0-2,Grimsby Town FC
 11,Fri Oct 1 2004,Grimsby Town FC,1-1,Cheltenham Town FC
-11,Sat Oct 2 2004,Yeovil Town FC,1-1,Northampton Town FC
+11,Sat Oct 2 2004,Mansfield Town FC,2-2,Lincoln City FC
 11,Sat Oct 2 2004,Wycombe Wanderers FC,1-1,Shrewsbury Town FC
 11,Sat Oct 2 2004,Rushden & Diamonds (1992-2011),0-0,Rochdale AFC
-11,Sat Oct 2 2004,Notts County FC,1-2,Leyton Orient FC
-11,Sat Oct 2 2004,Mansfield Town FC,2-2,Lincoln City FC
+11,Sat Oct 2 2004,Boston United FC,2-1,Scunthorpe United FC
+11,Sat Oct 2 2004,Yeovil Town FC,1-1,Northampton Town FC
 11,Sat Oct 2 2004,Kidderminster Harriers FC,1-1,Cambridge United FC
 11,Sat Oct 2 2004,Darlington FC,4-0,Southend United FC
 11,Sat Oct 2 2004,Chester FC,1-1,Swansea City FC
 11,Sat Oct 2 2004,Bury FC,2-1,Macclesfield Town FC
 11,Sat Oct 2 2004,Bristol Rovers FC,2-0,Oxford United FC
-11,Sat Oct 2 2004,Boston United FC,2-1,Scunthorpe United FC
+11,Sat Oct 2 2004,Notts County FC,1-2,Leyton Orient FC
 12,Fri Oct 8 2004,Swansea City FC,1-0,Mansfield Town FC
 12,Fri Oct 8 2004,Southend United FC,2-1,Boston United FC
 12,Fri Oct 8 2004,Shrewsbury Town FC,0-1,Rushden & Diamonds (1992-2011)
 12,Fri Oct 8 2004,Rochdale AFC,2-1,Yeovil Town FC
-12,Fri Oct 8 2004,Northampton Town FC,0-1,Grimsby Town FC
-12,Fri Oct 8 2004,Cheltenham Town FC,0-0,Chester FC
 12,Fri Oct 8 2004,Scunthorpe United FC,2-0,Wycombe Wanderers FC
+12,Fri Oct 8 2004,Cheltenham Town FC,0-0,Chester FC
+12,Fri Oct 8 2004,Northampton Town FC,0-1,Grimsby Town FC
 12,Sat Oct 9 2004,Lincoln City FC,3-0,Kidderminster Harriers FC
-12,Sat Oct 9 2004,Leyton Orient FC,1-1,Bury FC
 12,Sat Oct 9 2004,Cambridge United FC,1-0,Bristol Rovers FC
+12,Sat Oct 9 2004,Leyton Orient FC,1-1,Bury FC
 12,Sun Oct 10 2004,Oxford United FC,1-2,Darlington FC
 12,Sun Oct 10 2004,Macclesfield Town FC,1-2,Notts County FC
 13,Fri Oct 15 2004,Cambridge United FC,0-1,Northampton Town FC
-13,Sat Oct 16 2004,Yeovil Town FC,1-2,Macclesfield Town FC
+13,Sat Oct 16 2004,Rochdale AFC,1-2,Cheltenham Town FC
 13,Sat Oct 16 2004,Southend United FC,4-2,Swansea City FC
 13,Sat Oct 16 2004,Rushden & Diamonds (1992-2011),0-1,Chester FC
-13,Sat Oct 16 2004,Rochdale AFC,1-2,Cheltenham Town FC
+13,Sat Oct 16 2004,Yeovil Town FC,1-2,Macclesfield Town FC
 13,Sat Oct 16 2004,Oxford United FC,0-1,Lincoln City FC
 13,Sat Oct 16 2004,Mansfield Town FC,3-1,Notts County FC
 13,Sat Oct 16 2004,Leyton Orient FC,4-1,Shrewsbury Town FC
 13,Sat Oct 16 2004,Kidderminster Harriers FC,3-2,Scunthorpe United FC
 13,Sat Oct 16 2004,Grimsby Town FC,0-0,Bristol Rovers FC
-13,Sat Oct 16 2004,Darlington FC,1-2,Bury FC
 13,Sat Oct 16 2004,Boston United FC,2-0,Wycombe Wanderers FC
+13,Sat Oct 16 2004,Darlington FC,1-2,Bury FC
 14,Tue Oct 19 2004,Scunthorpe United FC,3-2,Southend United FC
 14,Tue Oct 19 2004,Wycombe Wanderers FC,1-1,Rushden & Diamonds (1992-2011)
 14,Tue Oct 19 2004,Swansea City FC,1-0,Leyton Orient FC
-14,Tue Oct 19 2004,Notts County FC,1-1,Darlington FC
+14,Tue Oct 19 2004,Shrewsbury Town FC,1-1,Grimsby Town FC
 14,Tue Oct 19 2004,Bristol Rovers FC,2-2,Yeovil Town FC
 14,Tue Oct 19 2004,Northampton Town FC,1-0,Oxford United FC
 14,Tue Oct 19 2004,Macclesfield Town FC,1-1,Cambridge United FC
 14,Tue Oct 19 2004,Lincoln City FC,1-1,Rochdale AFC
 14,Tue Oct 19 2004,Cheltenham Town FC,2-0,Mansfield Town FC
 14,Tue Oct 19 2004,Bury FC,1-1,Boston United FC
-14,Tue Oct 19 2004,Shrewsbury Town FC,1-1,Grimsby Town FC
-15,Sat Oct 23 2004,Bury FC,1-1,Rushden & Diamonds (1992-2011)
+14,Tue Oct 19 2004,Notts County FC,1-1,Darlington FC
 15,Sat Oct 23 2004,Wycombe Wanderers FC,1-1,Mansfield Town FC
 15,Sat Oct 23 2004,Shrewsbury Town FC,1-1,Southend United FC
 15,Sat Oct 23 2004,Scunthorpe United FC,1-0,Yeovil Town FC
@@ -176,9 +175,9 @@ Matchday,Date,Team 1,FT,Team 2
 15,Sat Oct 23 2004,Lincoln City FC,3-4,Leyton Orient FC
 15,Sat Oct 23 2004,Chester FC,2-1,Grimsby Town FC
 15,Sat Oct 23 2004,Cheltenham Town FC,2-1,Cambridge United FC
+15,Sat Oct 23 2004,Bury FC,1-1,Rushden & Diamonds (1992-2011)
 15,Sat Oct 23 2004,Bristol Rovers FC,2-0,Kidderminster Harriers FC
 14,Tue Oct 26 2004,Chester FC,3-0,Kidderminster Harriers FC
-16,Fri Oct 29 2004,Boston United FC,2-2,Bristol Rovers FC
 16,Fri Oct 29 2004,Yeovil Town FC,4-1,Chester FC
 16,Fri Oct 29 2004,Southend United FC,2-1,Northampton Town FC
 16,Fri Oct 29 2004,Rushden & Diamonds (1992-2011),5-1,Notts County FC
@@ -190,199 +189,198 @@ Matchday,Date,Team 1,FT,Team 2
 16,Fri Oct 29 2004,Grimsby Town FC,1-1,Swansea City FC
 16,Fri Oct 29 2004,Darlington FC,1-0,Wycombe Wanderers FC
 16,Fri Oct 29 2004,Cambridge United FC,0-1,Lincoln City FC
-17,Sat Nov 6 2004,Notts County FC,3-0,Shrewsbury Town FC
+16,Fri Oct 29 2004,Boston United FC,2-2,Bristol Rovers FC
 17,Sat Nov 6 2004,Wycombe Wanderers FC,0-1,Yeovil Town FC
 17,Sat Nov 6 2004,Swansea City FC,1-0,Bristol Rovers FC
 17,Sat Nov 6 2004,Southend United FC,4-0,Oxford United FC
 17,Sat Nov 6 2004,Scunthorpe United FC,2-0,Grimsby Town FC
-17,Sat Nov 6 2004,Chester FC,1-1,Leyton Orient FC
+17,Sat Nov 6 2004,Rushden & Diamonds (1992-2011),1-2,Darlington FC
 17,Sat Nov 6 2004,Rochdale AFC,2-1,Cambridge United FC
 17,Sat Nov 6 2004,Cheltenham Town FC,1-0,Bury FC
 17,Sat Nov 6 2004,Mansfield Town FC,0-1,Macclesfield Town FC
 17,Sat Nov 6 2004,Lincoln City FC,3-2,Northampton Town FC
 17,Sat Nov 6 2004,Kidderminster Harriers FC,0-4,Boston United FC
-17,Sat Nov 6 2004,Rushden & Diamonds (1992-2011),1-2,Darlington FC
+17,Sat Nov 6 2004,Chester FC,1-1,Leyton Orient FC
+17,Sat Nov 6 2004,Notts County FC,3-0,Shrewsbury Town FC
 15,Wed Nov 17 2004,Swansea City FC,2-1,Darlington FC
 18,Fri Nov 19 2004,Northampton Town FC,1-1,Chester FC
-18,Sat Nov 20 2004,Yeovil Town FC,3-1,Southend United FC
+18,Sat Nov 20 2004,Leyton Orient FC,1-2,Wycombe Wanderers FC
 18,Sat Nov 20 2004,Shrewsbury Town FC,2-0,Swansea City FC
 18,Sat Nov 20 2004,Oxford United FC,0-1,Rochdale AFC
 18,Sat Nov 20 2004,Macclesfield Town FC,0-2,Cheltenham Town FC
-18,Sat Nov 20 2004,Leyton Orient FC,1-2,Wycombe Wanderers FC
+18,Sat Nov 20 2004,Yeovil Town FC,3-1,Southend United FC
 18,Sat Nov 20 2004,Grimsby Town FC,2-1,Kidderminster Harriers FC
-18,Sat Nov 20 2004,Darlington FC,0-3,Lincoln City FC
+18,Sat Nov 20 2004,Boston United FC,0-0,Mansfield Town FC
 18,Sat Nov 20 2004,Cambridge United FC,3-1,Rushden & Diamonds (1992-2011)
 18,Sat Nov 20 2004,Bury FC,1-0,Notts County FC
 18,Sat Nov 20 2004,Bristol Rovers FC,0-3,Scunthorpe United FC
-18,Sat Nov 20 2004,Boston United FC,0-0,Mansfield Town FC
+18,Sat Nov 20 2004,Darlington FC,0-3,Lincoln City FC
 19,Fri Nov 26 2004,Southend United FC,1-1,Grimsby Town FC
 19,Fri Nov 26 2004,Cheltenham Town FC,0-2,Darlington FC
-19,Sat Nov 27 2004,Wycombe Wanderers FC,1-0,Bristol Rovers FC
+19,Sat Nov 27 2004,Rushden & Diamonds (1992-2011),0-2,Macclesfield Town FC
 19,Sat Nov 27 2004,Swansea City FC,1-3,Bury FC
 19,Sat Nov 27 2004,Scunthorpe United FC,3-1,Shrewsbury Town FC
-19,Sat Nov 27 2004,Rushden & Diamonds (1992-2011),0-2,Macclesfield Town FC
+19,Sat Nov 27 2004,Wycombe Wanderers FC,1-0,Bristol Rovers FC
 19,Sat Nov 27 2004,Rochdale AFC,2-0,Boston United FC
 19,Sat Nov 27 2004,Notts County FC,2-1,Cambridge United FC
 19,Sat Nov 27 2004,Mansfield Town FC,0-1,Leyton Orient FC
 19,Sat Nov 27 2004,Lincoln City FC,3-1,Yeovil Town FC
-19,Sat Nov 27 2004,Kidderminster Harriers FC,0-2,Northampton Town FC
 19,Sat Nov 27 2004,Chester FC,1-3,Oxford United FC
+19,Sat Nov 27 2004,Kidderminster Harriers FC,0-2,Northampton Town FC
 20,Tue Dec 7 2004,Yeovil Town FC,2-1,Kidderminster Harriers FC
 20,Tue Dec 7 2004,Shrewsbury Town FC,0-2,Rochdale AFC
 20,Tue Dec 7 2004,Northampton Town FC,1-1,Cheltenham Town FC
 20,Tue Dec 7 2004,Macclesfield Town FC,2-1,Lincoln City FC
 20,Tue Dec 7 2004,Leyton Orient FC,2-2,Southend United FC
-20,Tue Dec 7 2004,Grimsby Town FC,3-2,Notts County FC
+20,Tue Dec 7 2004,Bristol Rovers FC,4-1,Chester FC
 20,Tue Dec 7 2004,Darlington FC,2-1,Mansfield Town FC
 20,Tue Dec 7 2004,Cambridge United FC,1-2,Scunthorpe United FC
 20,Tue Dec 7 2004,Bury FC,2-2,Wycombe Wanderers FC
-20,Tue Dec 7 2004,Bristol Rovers FC,4-1,Chester FC
+20,Tue Dec 7 2004,Grimsby Town FC,3-2,Notts County FC
 20,Wed Dec 8 2004,Oxford United FC,0-1,Swansea City FC
 20,Wed Dec 8 2004,Boston United FC,1-0,Rushden & Diamonds (1992-2011)
-21,Sat Dec 11 2004,Yeovil Town FC,2-1,Grimsby Town FC
+21,Sat Dec 11 2004,Northampton Town FC,2-1,Boston United FC
 21,Sat Dec 11 2004,Scunthorpe United FC,1-0,Swansea City FC
 21,Sat Dec 11 2004,Oxford United FC,2-1,Cambridge United FC
 21,Sat Dec 11 2004,Notts County FC,0-1,Wycombe Wanderers FC
-21,Sat Dec 11 2004,Northampton Town FC,2-1,Boston United FC
+21,Sat Dec 11 2004,Yeovil Town FC,2-1,Grimsby Town FC
 21,Sat Dec 11 2004,Mansfield Town FC,0-0,Rushden & Diamonds (1992-2011)
 21,Sat Dec 11 2004,Lincoln City FC,0-0,Cheltenham Town FC
 21,Sat Dec 11 2004,Kidderminster Harriers FC,2-1,Rochdale AFC
-21,Sat Dec 11 2004,Darlington FC,3-0,Leyton Orient FC
+21,Sat Dec 11 2004,Bristol Rovers FC,0-0,Macclesfield Town FC
 21,Sat Dec 11 2004,Chester FC,1-1,Shrewsbury Town FC
 21,Sat Dec 11 2004,Bury FC,0-1,Southend United FC
-21,Sat Dec 11 2004,Bristol Rovers FC,0-0,Macclesfield Town FC
+21,Sat Dec 11 2004,Darlington FC,3-0,Leyton Orient FC
 22,Fri Dec 17 2004,Southend United FC,1-0,Chester FC
 22,Fri Dec 17 2004,Grimsby Town FC,1-1,Oxford United FC
-22,Sat Dec 18 2004,Rushden & Diamonds (1992-2011),1-3,Scunthorpe United FC
+22,Sat Dec 18 2004,Rochdale AFC,0-0,Bristol Rovers FC
 22,Sat Dec 18 2004,Wycombe Wanderers FC,1-0,Lincoln City FC
 22,Sat Dec 18 2004,Swansea City FC,4-0,Notts County FC
-22,Sat Dec 18 2004,Rochdale AFC,0-0,Bristol Rovers FC
+22,Sat Dec 18 2004,Rushden & Diamonds (1992-2011),1-3,Scunthorpe United FC
 22,Sat Dec 18 2004,Shrewsbury Town FC,0-2,Mansfield Town FC
 22,Sat Dec 18 2004,Macclesfield Town FC,1-3,Northampton Town FC
 22,Sat Dec 18 2004,Leyton Orient FC,2-3,Yeovil Town FC
-22,Sat Dec 18 2004,Boston United FC,3-1,Darlington FC
-22,Sat Dec 18 2004,Cambridge United FC,1-1,Bury FC
 22,Sat Dec 18 2004,Cheltenham Town FC,2-0,Kidderminster Harriers FC
+22,Sat Dec 18 2004,Cambridge United FC,1-1,Bury FC
+22,Sat Dec 18 2004,Boston United FC,3-1,Darlington FC
 23,Sun Dec 26 2004,Wycombe Wanderers FC,0-1,Southend United FC
 23,Sun Dec 26 2004,Yeovil Town FC,4-1,Cheltenham Town FC
-23,Sun Dec 26 2004,Bristol Rovers FC,1-1,Leyton Orient FC
+23,Sun Dec 26 2004,Kidderminster Harriers FC,1-5,Swansea City FC
 23,Sun Dec 26 2004,Rushden & Diamonds (1992-2011),3-3,Oxford United FC
 23,Sun Dec 26 2004,Grimsby Town FC,0-0,Macclesfield Town FC
 23,Sun Dec 26 2004,Darlington FC,0-3,Rochdale AFC
 23,Sun Dec 26 2004,Chester FC,1-1,Scunthorpe United FC
-23,Sun Dec 26 2004,Kidderminster Harriers FC,1-5,Swansea City FC
-24,Tue Dec 28 2004,Scunthorpe United FC,0-0,Notts County FC
-24,Tue Dec 28 2004,Northampton Town FC,2-0,Bury FC
-24,Tue Dec 28 2004,Swansea City FC,3-1,Boston United FC
-24,Tue Dec 28 2004,Southend United FC,0-1,Mansfield Town FC
-24,Tue Dec 28 2004,Shrewsbury Town FC,4-0,Darlington FC
+23,Sun Dec 26 2004,Bristol Rovers FC,1-1,Leyton Orient FC
+24,Tue Dec 28 2004,Macclesfield Town FC,2-1,Wycombe Wanderers FC
 24,Tue Dec 28 2004,Leyton Orient FC,2-2,Rushden & Diamonds (1992-2011)
 24,Tue Dec 28 2004,Oxford United FC,0-2,Kidderminster Harriers FC
 24,Tue Dec 28 2004,Rochdale AFC,2-2,Chester FC
 24,Tue Dec 28 2004,Cambridge United FC,3-5,Yeovil Town FC
-24,Tue Dec 28 2004,Macclesfield Town FC,2-1,Wycombe Wanderers FC
+24,Tue Dec 28 2004,Shrewsbury Town FC,4-0,Darlington FC
+24,Tue Dec 28 2004,Southend United FC,0-1,Mansfield Town FC
+24,Tue Dec 28 2004,Swansea City FC,3-1,Boston United FC
+24,Tue Dec 28 2004,Northampton Town FC,2-0,Bury FC
+24,Tue Dec 28 2004,Scunthorpe United FC,0-0,Notts County FC
 24,Wed Dec 29 2004,Lincoln City FC,0-0,Grimsby Town FC
 24,Wed Dec 29 2004,Cheltenham Town FC,1-1,Bristol Rovers FC
 25,Sat Jan 1 2005,Shrewsbury Town FC,2-0,Bristol Rovers FC
-25,Sat Jan 1 2005,Macclesfield Town FC,1-2,Chester FC
-25,Sat Jan 1 2005,Cheltenham Town FC,0-2,Notts County FC
-25,Sat Jan 1 2005,Leyton Orient FC,2-1,Kidderminster Harriers FC
-25,Sat Jan 1 2005,Lincoln City FC,1-0,Bury FC
 25,Sat Jan 1 2005,Northampton Town FC,2-1,Mansfield Town FC
 25,Sat Jan 1 2005,Swansea City FC,0-2,Yeovil Town FC
 25,Sat Jan 1 2005,Southend United FC,3-0,Rushden & Diamonds (1992-2011)
 25,Sat Jan 1 2005,Cambridge United FC,0-1,Boston United FC
 25,Sat Jan 1 2005,Scunthorpe United FC,0-1,Darlington FC
 25,Sat Jan 1 2005,Oxford United FC,2-1,Wycombe Wanderers FC
-26,Mon Jan 3 2005,Bury FC,0-0,Oxford United FC
-26,Mon Jan 3 2005,Kidderminster Harriers FC,1-3,Southend United FC
-26,Mon Jan 3 2005,Bristol Rovers FC,3-1,Northampton Town FC
-26,Mon Jan 3 2005,Boston United FC,2-2,Leyton Orient FC
-26,Mon Jan 3 2005,Chester FC,0-1,Lincoln City FC
+25,Sat Jan 1 2005,Macclesfield Town FC,1-2,Chester FC
+25,Sat Jan 1 2005,Lincoln City FC,1-0,Bury FC
+25,Sat Jan 1 2005,Leyton Orient FC,2-1,Kidderminster Harriers FC
+25,Sat Jan 1 2005,Cheltenham Town FC,0-2,Notts County FC
 26,Mon Jan 3 2005,Yeovil Town FC,4-2,Shrewsbury Town FC
 26,Mon Jan 3 2005,Wycombe Wanderers FC,1-1,Cheltenham Town FC
 26,Mon Jan 3 2005,Rushden & Diamonds (1992-2011),0-2,Swansea City FC
-26,Mon Jan 3 2005,Grimsby Town FC,3-0,Cambridge United FC
-26,Mon Jan 3 2005,Mansfield Town FC,1-0,Scunthorpe United FC
-26,Mon Jan 3 2005,Darlington FC,3-1,Macclesfield Town FC
 26,Mon Jan 3 2005,Notts County FC,0-0,Rochdale AFC
-27,Sat Jan 8 2005,Bury FC,0-0,Leyton Orient FC
-27,Sat Jan 8 2005,Bristol Rovers FC,1-1,Cambridge United FC
+26,Mon Jan 3 2005,Mansfield Town FC,1-0,Scunthorpe United FC
+26,Mon Jan 3 2005,Kidderminster Harriers FC,1-3,Southend United FC
+26,Mon Jan 3 2005,Grimsby Town FC,3-0,Cambridge United FC
+26,Mon Jan 3 2005,Darlington FC,3-1,Macclesfield Town FC
+26,Mon Jan 3 2005,Chester FC,0-1,Lincoln City FC
+26,Mon Jan 3 2005,Boston United FC,2-2,Leyton Orient FC
+26,Mon Jan 3 2005,Bristol Rovers FC,3-1,Northampton Town FC
+26,Mon Jan 3 2005,Bury FC,0-0,Oxford United FC
 27,Sat Jan 8 2005,Rushden & Diamonds (1992-2011),0-0,Shrewsbury Town FC
 27,Sat Jan 8 2005,Kidderminster Harriers FC,2-1,Lincoln City FC
 27,Sat Jan 8 2005,Darlington FC,1-1,Oxford United FC
+27,Sat Jan 8 2005,Bury FC,0-0,Leyton Orient FC
+27,Sat Jan 8 2005,Bristol Rovers FC,1-1,Cambridge United FC
 23,Tue Jan 11 2005,Mansfield Town FC,0-0,Cambridge United FC
 27,Tue Jan 11 2005,Grimsby Town FC,1-2,Northampton Town FC
 27,Wed Jan 12 2005,Boston United FC,2-0,Southend United FC
-28,Sat Jan 15 2005,Macclesfield Town FC,2-0,Kidderminster Harriers FC
-28,Sat Jan 15 2005,Rochdale AFC,1-1,Mansfield Town FC
-28,Sat Jan 15 2005,Lincoln City FC,1-1,Bristol Rovers FC
-28,Sat Jan 15 2005,Cheltenham Town FC,4-1,Rushden & Diamonds (1992-2011)
-28,Sat Jan 15 2005,Leyton Orient FC,1-2,Grimsby Town FC
-28,Sat Jan 15 2005,Cambridge United FC,0-0,Chester FC
-28,Sat Jan 15 2005,Northampton Town FC,1-1,Darlington FC
-28,Sat Jan 15 2005,Oxford United FC,2-1,Yeovil Town FC
-28,Sat Jan 15 2005,Scunthorpe United FC,3-2,Bury FC
 28,Sat Jan 15 2005,Southend United FC,0-0,Notts County FC
 28,Sat Jan 15 2005,Swansea City FC,2-2,Wycombe Wanderers FC
 28,Sat Jan 15 2005,Shrewsbury Town FC,0-0,Boston United FC
-29,Sat Jan 22 2005,Bury FC,2-0,Northampton Town FC
+28,Sat Jan 15 2005,Scunthorpe United FC,3-2,Bury FC
+28,Sat Jan 15 2005,Rochdale AFC,1-1,Mansfield Town FC
+28,Sat Jan 15 2005,Oxford United FC,2-1,Yeovil Town FC
+28,Sat Jan 15 2005,Northampton Town FC,1-1,Darlington FC
+28,Sat Jan 15 2005,Macclesfield Town FC,2-0,Kidderminster Harriers FC
+28,Sat Jan 15 2005,Cambridge United FC,0-0,Chester FC
+28,Sat Jan 15 2005,Leyton Orient FC,1-2,Grimsby Town FC
+28,Sat Jan 15 2005,Cheltenham Town FC,4-1,Rushden & Diamonds (1992-2011)
+28,Sat Jan 15 2005,Lincoln City FC,1-1,Bristol Rovers FC
+29,Sat Jan 22 2005,Yeovil Town FC,2-1,Cambridge United FC
+29,Sat Jan 22 2005,Wycombe Wanderers FC,1-1,Macclesfield Town FC
+29,Sat Jan 22 2005,Rushden & Diamonds (1992-2011),2-0,Leyton Orient FC
+29,Sat Jan 22 2005,Notts County FC,2-0,Scunthorpe United FC
+29,Sat Jan 22 2005,Mansfield Town FC,1-1,Southend United FC
+29,Sat Jan 22 2005,Kidderminster Harriers FC,1-3,Oxford United FC
 29,Sat Jan 22 2005,Boston United FC,2-3,Swansea City FC
 29,Sat Jan 22 2005,Darlington FC,3-0,Shrewsbury Town FC
 29,Sat Jan 22 2005,Chester FC,0-0,Rochdale AFC
-29,Sat Jan 22 2005,Kidderminster Harriers FC,1-3,Oxford United FC
-29,Sat Jan 22 2005,Mansfield Town FC,1-1,Southend United FC
-29,Sat Jan 22 2005,Notts County FC,2-0,Scunthorpe United FC
-29,Sat Jan 22 2005,Rushden & Diamonds (1992-2011),2-0,Leyton Orient FC
+29,Sat Jan 22 2005,Bury FC,2-0,Northampton Town FC
 29,Sat Jan 22 2005,Bristol Rovers FC,1-1,Cheltenham Town FC
-29,Sat Jan 22 2005,Yeovil Town FC,2-1,Cambridge United FC
-29,Sat Jan 22 2005,Wycombe Wanderers FC,1-1,Macclesfield Town FC
 29,Sat Jan 22 2005,Grimsby Town FC,2-4,Lincoln City FC
 27,Tue Jan 25 2005,Notts County FC,0-5,Macclesfield Town FC
 27,Tue Jan 25 2005,Yeovil Town FC,2-2,Rochdale AFC
 30,Fri Jan 28 2005,Cheltenham Town FC,2-3,Grimsby Town FC
-30,Sat Jan 29 2005,Swansea City FC,3-0,Chester FC
-30,Sat Jan 29 2005,Oxford United FC,3-2,Bristol Rovers FC
-30,Sat Jan 29 2005,Cambridge United FC,1-3,Kidderminster Harriers FC
-30,Sat Jan 29 2005,Scunthorpe United FC,1-1,Boston United FC
-30,Sat Jan 29 2005,Leyton Orient FC,2-0,Notts County FC
-30,Sat Jan 29 2005,Lincoln City FC,2-0,Mansfield Town FC
-30,Sat Jan 29 2005,Shrewsbury Town FC,0-1,Wycombe Wanderers FC
 30,Sat Jan 29 2005,Rochdale AFC,2-0,Rushden & Diamonds (1992-2011)
 30,Sat Jan 29 2005,Southend United FC,2-0,Darlington FC
+30,Sat Jan 29 2005,Shrewsbury Town FC,0-1,Wycombe Wanderers FC
+30,Sat Jan 29 2005,Cambridge United FC,1-3,Kidderminster Harriers FC
+30,Sat Jan 29 2005,Swansea City FC,3-0,Chester FC
+30,Sat Jan 29 2005,Oxford United FC,3-2,Bristol Rovers FC
 30,Sat Jan 29 2005,Macclesfield Town FC,2-1,Bury FC
+30,Sat Jan 29 2005,Lincoln City FC,2-0,Mansfield Town FC
+30,Sat Jan 29 2005,Leyton Orient FC,2-0,Notts County FC
+30,Sat Jan 29 2005,Scunthorpe United FC,1-1,Boston United FC
 27,Tue Feb 1 2005,Chester FC,0-3,Cheltenham Town FC
-31,Fri Feb 4 2005,Northampton Town FC,2-2,Cambridge United FC
 31,Fri Feb 4 2005,Swansea City FC,1-1,Southend United FC
+31,Fri Feb 4 2005,Northampton Town FC,2-2,Cambridge United FC
+31,Sat Feb 5 2005,Notts County FC,0-1,Mansfield Town FC
+31,Sat Feb 5 2005,Shrewsbury Town FC,4-1,Leyton Orient FC
+31,Sat Feb 5 2005,Scunthorpe United FC,2-1,Kidderminster Harriers FC
+31,Sat Feb 5 2005,Bristol Rovers FC,3-0,Grimsby Town FC
 31,Sat Feb 5 2005,Macclesfield Town FC,3-1,Yeovil Town FC
 31,Sat Feb 5 2005,Lincoln City FC,3-0,Oxford United FC
 31,Sat Feb 5 2005,Chester FC,3-1,Rushden & Diamonds (1992-2011)
-31,Sat Feb 5 2005,Wycombe Wanderers FC,1-2,Boston United FC
-31,Sat Feb 5 2005,Bury FC,0-1,Darlington FC
-31,Sat Feb 5 2005,Bristol Rovers FC,3-0,Grimsby Town FC
-31,Sat Feb 5 2005,Scunthorpe United FC,2-1,Kidderminster Harriers FC
-31,Sat Feb 5 2005,Notts County FC,0-1,Mansfield Town FC
-31,Sat Feb 5 2005,Shrewsbury Town FC,4-1,Leyton Orient FC
 31,Sat Feb 5 2005,Cheltenham Town FC,2-0,Rochdale AFC
-27,Tue Feb 8 2005,Mansfield Town FC,1-0,Swansea City FC
+31,Sat Feb 5 2005,Bury FC,0-1,Darlington FC
+31,Sat Feb 5 2005,Wycombe Wanderers FC,1-2,Boston United FC
 23,Tue Feb 8 2005,Bury FC,0-0,Shrewsbury Town FC
+27,Tue Feb 8 2005,Mansfield Town FC,1-0,Swansea City FC
 32,Fri Feb 11 2005,Southend United FC,0-0,Scunthorpe United FC
-32,Sat Feb 12 2005,Cambridge United FC,0-1,Macclesfield Town FC
-32,Sat Feb 12 2005,Leyton Orient FC,3-1,Swansea City FC
-32,Sat Feb 12 2005,Darlington FC,1-2,Notts County FC
-32,Sat Feb 12 2005,Mansfield Town FC,1-2,Cheltenham Town FC
-32,Sat Feb 12 2005,Kidderminster Harriers FC,0-1,Chester FC
 32,Sat Feb 12 2005,Oxford United FC,1-2,Northampton Town FC
 32,Sat Feb 12 2005,Rushden & Diamonds (1992-2011),1-2,Wycombe Wanderers FC
 32,Sat Feb 12 2005,Rochdale AFC,3-1,Lincoln City FC
 32,Sat Feb 12 2005,Yeovil Town FC,4-2,Bristol Rovers FC
 32,Sat Feb 12 2005,Boston United FC,2-2,Bury FC
+32,Sat Feb 12 2005,Leyton Orient FC,3-1,Swansea City FC
+32,Sat Feb 12 2005,Kidderminster Harriers FC,0-1,Chester FC
 32,Sat Feb 12 2005,Grimsby Town FC,0-1,Shrewsbury Town FC
+32,Sat Feb 12 2005,Darlington FC,1-2,Notts County FC
+32,Sat Feb 12 2005,Cambridge United FC,0-1,Macclesfield Town FC
+32,Sat Feb 12 2005,Mansfield Town FC,1-2,Cheltenham Town FC
 23,Tue Feb 15 2005,Notts County FC,0-0,Northampton Town FC
 27,Tue Feb 15 2005,Wycombe Wanderers FC,2-1,Scunthorpe United FC
 23,Wed Feb 16 2005,Boston United FC,0-2,Lincoln City FC
-33,Sat Feb 19 2005,Chester FC,0-2,Yeovil Town FC
-33,Sat Feb 19 2005,Swansea City FC,0-0,Grimsby Town FC
 33,Sat Feb 19 2005,Northampton Town FC,1-2,Southend United FC
 33,Sat Feb 19 2005,Bristol Rovers FC,1-1,Boston United FC
 33,Sat Feb 19 2005,Shrewsbury Town FC,4-2,Kidderminster Harriers FC
@@ -391,82 +389,83 @@ Matchday,Date,Team 1,FT,Team 2
 33,Sat Feb 19 2005,Wycombe Wanderers FC,1-1,Darlington FC
 33,Sat Feb 19 2005,Macclesfield Town FC,3-0,Rochdale AFC
 33,Sat Feb 19 2005,Lincoln City FC,2-1,Cambridge United FC
-33,Sat Feb 19 2005,Bury FC,0-2,Mansfield Town FC
+33,Sat Feb 19 2005,Chester FC,0-2,Yeovil Town FC
 33,Sat Feb 19 2005,Cheltenham Town FC,0-1,Oxford United FC
-34,Tue Feb 22 2005,Cambridge United FC,1-0,Cheltenham Town FC
-34,Tue Feb 22 2005,Southend United FC,1-0,Shrewsbury Town FC
+33,Sat Feb 19 2005,Bury FC,0-2,Mansfield Town FC
+33,Sat Feb 19 2005,Swansea City FC,0-0,Grimsby Town FC
 34,Tue Feb 22 2005,Darlington FC,2-1,Swansea City FC
 34,Tue Feb 22 2005,Yeovil Town FC,4-3,Scunthorpe United FC
-34,Tue Feb 22 2005,Grimsby Town FC,1-0,Chester FC
+34,Tue Feb 22 2005,Cambridge United FC,1-0,Cheltenham Town FC
 34,Tue Feb 22 2005,Rushden & Diamonds (1992-2011),3-0,Bury FC
 34,Tue Feb 22 2005,Mansfield Town FC,1-4,Wycombe Wanderers FC
 34,Tue Feb 22 2005,Leyton Orient FC,1-1,Lincoln City FC
 34,Tue Feb 22 2005,Kidderminster Harriers FC,1-1,Bristol Rovers FC
-35,Sat Feb 26 2005,Cambridge United FC,2-1,Oxford United FC
-35,Sat Feb 26 2005,Boston United FC,0-1,Northampton Town FC
-35,Sat Feb 26 2005,Macclesfield Town FC,2-1,Bristol Rovers FC
-35,Sat Feb 26 2005,Grimsby Town FC,2-1,Yeovil Town FC
-35,Sat Feb 26 2005,Leyton Orient FC,1-0,Darlington FC
+34,Tue Feb 22 2005,Grimsby Town FC,1-0,Chester FC
+34,Tue Feb 22 2005,Southend United FC,1-0,Shrewsbury Town FC
 35,Sat Feb 26 2005,Swansea City FC,2-1,Scunthorpe United FC
 35,Sat Feb 26 2005,Wycombe Wanderers FC,1-2,Notts County FC
 35,Sat Feb 26 2005,Southend United FC,1-0,Bury FC
 35,Sat Feb 26 2005,Shrewsbury Town FC,5-0,Chester FC
 35,Sat Feb 26 2005,Rushden & Diamonds (1992-2011),0-0,Mansfield Town FC
 35,Sat Feb 26 2005,Rochdale AFC,1-1,Kidderminster Harriers FC
+35,Sat Feb 26 2005,Macclesfield Town FC,2-1,Bristol Rovers FC
+35,Sat Feb 26 2005,Leyton Orient FC,1-0,Darlington FC
+35,Sat Feb 26 2005,Grimsby Town FC,2-1,Yeovil Town FC
 35,Sat Feb 26 2005,Cheltenham Town FC,1-0,Lincoln City FC
-30,Tue Mar 1 2005,Northampton Town FC,1-1,Yeovil Town FC
+35,Sat Feb 26 2005,Cambridge United FC,2-1,Oxford United FC
+35,Sat Feb 26 2005,Boston United FC,0-1,Northampton Town FC
 25,Tue Mar 1 2005,Rochdale AFC,2-0,Grimsby Town FC
-36,Sat Mar 5 2005,Scunthorpe United FC,1-0,Rushden & Diamonds (1992-2011)
-36,Sat Mar 5 2005,Chester FC,2-2,Southend United FC
-36,Sat Mar 5 2005,Yeovil Town FC,1-0,Leyton Orient FC
+30,Tue Mar 1 2005,Northampton Town FC,1-1,Yeovil Town FC
 36,Sat Mar 5 2005,Mansfield Town FC,1-1,Shrewsbury Town FC
-36,Sat Mar 5 2005,Bury FC,2-1,Cambridge United FC
-36,Sat Mar 5 2005,Darlington FC,1-0,Boston United FC
+36,Sat Mar 5 2005,Scunthorpe United FC,1-0,Rushden & Diamonds (1992-2011)
+36,Sat Mar 5 2005,Oxford United FC,1-2,Grimsby Town FC
 36,Sat Mar 5 2005,Notts County FC,1-0,Swansea City FC
 36,Sat Mar 5 2005,Northampton Town FC,1-0,Macclesfield Town FC
 36,Sat Mar 5 2005,Bristol Rovers FC,0-0,Rochdale AFC
 36,Sat Mar 5 2005,Lincoln City FC,2-3,Wycombe Wanderers FC
 36,Sat Mar 5 2005,Kidderminster Harriers FC,1-0,Cheltenham Town FC
-36,Sat Mar 5 2005,Oxford United FC,1-2,Grimsby Town FC
+36,Sat Mar 5 2005,Darlington FC,1-0,Boston United FC
+36,Sat Mar 5 2005,Chester FC,2-2,Southend United FC
+36,Sat Mar 5 2005,Bury FC,2-1,Cambridge United FC
+36,Sat Mar 5 2005,Yeovil Town FC,1-0,Leyton Orient FC
 34,Tue Mar 8 2005,Rochdale AFC,1-0,Northampton Town FC
-37,Sat Mar 12 2005,Southend United FC,1-1,Lincoln City FC
-37,Sat Mar 12 2005,Bury FC,1-1,Bristol Rovers FC
 37,Sat Mar 12 2005,Wycombe Wanderers FC,4-2,Chester FC
 37,Sat Mar 12 2005,Swansea City FC,2-2,Rochdale AFC
-37,Sat Mar 12 2005,Boston United FC,1-1,Grimsby Town FC
+37,Sat Mar 12 2005,Southend United FC,1-1,Lincoln City FC
 37,Sat Mar 12 2005,Shrewsbury Town FC,0-1,Macclesfield Town FC
 37,Sat Mar 12 2005,Scunthorpe United FC,4-1,Cheltenham Town FC
-37,Sat Mar 12 2005,Darlington FC,2-1,Yeovil Town FC
+37,Sat Mar 12 2005,Rushden & Diamonds (1992-2011),3-2,Northampton Town FC
 37,Sat Mar 12 2005,Notts County FC,1-3,Kidderminster Harriers FC
 37,Sat Mar 12 2005,Mansfield Town FC,1-3,Oxford United FC
 37,Sat Mar 12 2005,Leyton Orient FC,1-1,Cambridge United FC
-37,Sat Mar 12 2005,Rushden & Diamonds (1992-2011),3-2,Northampton Town FC
+37,Sat Mar 12 2005,Darlington FC,2-1,Yeovil Town FC
+37,Sat Mar 12 2005,Bury FC,1-1,Bristol Rovers FC
+37,Sat Mar 12 2005,Boston United FC,1-1,Grimsby Town FC
 34,Wed Mar 16 2005,Boston United FC,4-0,Notts County FC
-38,Sat Mar 19 2005,Cheltenham Town FC,0-3,Southend United FC
 38,Sat Mar 19 2005,Lincoln City FC,2-0,Shrewsbury Town FC
 38,Sat Mar 19 2005,Rochdale AFC,0-0,Scunthorpe United FC
 38,Sat Mar 19 2005,Oxford United FC,2-0,Boston United FC
-38,Sat Mar 19 2005,Cambridge United FC,2-1,Wycombe Wanderers FC
+38,Sat Mar 19 2005,Bristol Rovers FC,4-4,Mansfield Town FC
 38,Sat Mar 19 2005,Macclesfield Town FC,3-1,Leyton Orient FC
 38,Sat Mar 19 2005,Yeovil Town FC,0-1,Bury FC
 38,Sat Mar 19 2005,Kidderminster Harriers FC,0-0,Rushden & Diamonds (1992-2011)
 38,Sat Mar 19 2005,Grimsby Town FC,0-1,Darlington FC
 38,Sat Mar 19 2005,Chester FC,3-2,Notts County FC
+38,Sat Mar 19 2005,Cheltenham Town FC,0-3,Southend United FC
+38,Sat Mar 19 2005,Cambridge United FC,2-1,Wycombe Wanderers FC
 38,Sat Mar 19 2005,Northampton Town FC,2-2,Swansea City FC
-38,Sat Mar 19 2005,Bristol Rovers FC,4-4,Mansfield Town FC
-39,Fri Mar 25 2005,Mansfield Town FC,0-0,Chester FC
 39,Fri Mar 25 2005,Southend United FC,3-0,Rochdale AFC
 39,Fri Mar 25 2005,Leyton Orient FC,2-3,Cheltenham Town FC
 39,Fri Mar 25 2005,Bury FC,3-1,Grimsby Town FC
 39,Fri Mar 25 2005,Scunthorpe United FC,1-1,Oxford United FC
-39,Fri Mar 25 2005,Wycombe Wanderers FC,0-1,Northampton Town FC
+39,Fri Mar 25 2005,Mansfield Town FC,0-0,Chester FC
 39,Fri Mar 25 2005,Swansea City FC,2-0,Macclesfield Town FC
 39,Fri Mar 25 2005,Shrewsbury Town FC,0-0,Cambridge United FC
 39,Fri Mar 25 2005,Rushden & Diamonds (1992-2011),1-4,Lincoln City FC
-39,Sat Mar 26 2005,Boston United FC,1-2,Yeovil Town FC
+39,Fri Mar 25 2005,Wycombe Wanderers FC,0-1,Northampton Town FC
 39,Sat Mar 26 2005,Notts County FC,1-2,Bristol Rovers FC
 39,Sat Mar 26 2005,Darlington FC,0-2,Kidderminster Harriers FC
-40,Mon Mar 28 2005,Bristol Rovers FC,3-3,Darlington FC
+39,Sat Mar 26 2005,Boston United FC,1-2,Yeovil Town FC
 40,Mon Mar 28 2005,Macclesfield Town FC,1-1,Boston United FC
 40,Mon Mar 28 2005,Oxford United FC,2-2,Leyton Orient FC
 40,Mon Mar 28 2005,Northampton Town FC,2-0,Shrewsbury Town FC
@@ -477,12 +476,12 @@ Matchday,Date,Team 1,FT,Team 2
 40,Mon Mar 28 2005,Chester FC,2-1,Bury FC
 40,Mon Mar 28 2005,Cheltenham Town FC,1-2,Swansea City FC
 40,Mon Mar 28 2005,Cambridge United FC,0-2,Southend United FC
+40,Mon Mar 28 2005,Bristol Rovers FC,3-3,Darlington FC
 40,Tue Mar 29 2005,Yeovil Town FC,1-3,Notts County FC
 41,Fri Apr 1 2005,Southend United FC,2-0,Bristol Rovers FC
-41,Sat Apr 2 2005,Shrewsbury Town FC,3-0,Oxford United FC
 41,Sat Apr 2 2005,Rushden & Diamonds (1992-2011),2-0,Yeovil Town FC
 41,Sat Apr 2 2005,Swansea City FC,3-0,Cambridge United FC
-41,Sat Apr 2 2005,Boston United FC,2-1,Cheltenham Town FC
+41,Sat Apr 2 2005,Shrewsbury Town FC,3-0,Oxford United FC
 41,Sat Apr 2 2005,Scunthorpe United FC,0-0,Macclesfield Town FC
 41,Sat Apr 2 2005,Wycombe Wanderers FC,3-0,Kidderminster Harriers FC
 41,Sat Apr 2 2005,Notts County FC,1-0,Lincoln City FC
@@ -490,6 +489,7 @@ Matchday,Date,Team 1,FT,Team 2
 41,Sat Apr 2 2005,Leyton Orient FC,3-2,Northampton Town FC
 41,Sat Apr 2 2005,Darlington FC,1-0,Chester FC
 41,Sat Apr 2 2005,Bury FC,0-0,Rochdale AFC
+41,Sat Apr 2 2005,Boston United FC,2-1,Cheltenham Town FC
 34,Wed Apr 6 2005,Oxford United FC,1-1,Macclesfield Town FC
 42,Fri Apr 8 2005,Cheltenham Town FC,1-1,Shrewsbury Town FC
 42,Sat Apr 9 2005,Northampton Town FC,1-2,Scunthorpe United FC
@@ -497,36 +497,36 @@ Matchday,Date,Team 1,FT,Team 2
 42,Sat Apr 9 2005,Oxford United FC,2-1,Notts County FC
 42,Sat Apr 9 2005,Yeovil Town FC,5-2,Mansfield Town FC
 42,Sat Apr 9 2005,Lincoln City FC,1-0,Swansea City FC
-42,Sat Apr 9 2005,Bristol Rovers FC,3-0,Rushden & Diamonds (1992-2011)
+42,Sat Apr 9 2005,Kidderminster Harriers FC,2-2,Bury FC
 42,Sat Apr 9 2005,Grimsby Town FC,0-0,Wycombe Wanderers FC
 42,Sat Apr 9 2005,Chester FC,2-1,Boston United FC
 42,Sat Apr 9 2005,Cambridge United FC,3-1,Darlington FC
-42,Sat Apr 9 2005,Kidderminster Harriers FC,2-2,Bury FC
-43,Fri Apr 15 2005,Southend United FC,0-1,Leyton Orient FC
+42,Sat Apr 9 2005,Bristol Rovers FC,3-0,Rushden & Diamonds (1992-2011)
 43,Fri Apr 15 2005,Swansea City FC,1-0,Oxford United FC
-43,Sat Apr 16 2005,Notts County FC,2-2,Grimsby Town FC
+43,Fri Apr 15 2005,Southend United FC,0-1,Leyton Orient FC
 43,Sat Apr 16 2005,Rochdale AFC,1-1,Shrewsbury Town FC
 43,Sat Apr 16 2005,Scunthorpe United FC,4-0,Cambridge United FC
 43,Sat Apr 16 2005,Rushden & Diamonds (1992-2011),4-2,Boston United FC
-43,Sat Apr 16 2005,Chester FC,2-2,Bristol Rovers FC
+43,Sat Apr 16 2005,Wycombe Wanderers FC,1-2,Bury FC
 43,Sat Apr 16 2005,Cheltenham Town FC,1-0,Northampton Town FC
 43,Sat Apr 16 2005,Mansfield Town FC,1-1,Darlington FC
 43,Sat Apr 16 2005,Lincoln City FC,2-0,Macclesfield Town FC
 43,Sat Apr 16 2005,Kidderminster Harriers FC,1-1,Yeovil Town FC
-43,Sat Apr 16 2005,Wycombe Wanderers FC,1-2,Bury FC
+43,Sat Apr 16 2005,Chester FC,2-2,Bristol Rovers FC
+43,Sat Apr 16 2005,Notts County FC,2-2,Grimsby Town FC
 42,Tue Apr 19 2005,Macclesfield Town FC,1-2,Southend United FC
-44,Sat Apr 23 2005,Yeovil Town FC,1-1,Wycombe Wanderers FC
+44,Sat Apr 23 2005,Boston United FC,3-0,Kidderminster Harriers FC
 44,Sat Apr 23 2005,Shrewsbury Town FC,1-1,Notts County FC
 44,Sat Apr 23 2005,Oxford United FC,2-1,Southend United FC
 44,Sat Apr 23 2005,Northampton Town FC,1-0,Lincoln City FC
 44,Sat Apr 23 2005,Macclesfield Town FC,3-1,Mansfield Town FC
-44,Sat Apr 23 2005,Boston United FC,3-0,Kidderminster Harriers FC
-44,Sat Apr 23 2005,Leyton Orient FC,2-0,Chester FC
+44,Sat Apr 23 2005,Yeovil Town FC,1-1,Wycombe Wanderers FC
+44,Sat Apr 23 2005,Grimsby Town FC,0-0,Scunthorpe United FC
 44,Sat Apr 23 2005,Darlington FC,2-0,Rushden & Diamonds (1992-2011)
 44,Sat Apr 23 2005,Cambridge United FC,0-0,Rochdale AFC
 44,Sat Apr 23 2005,Bury FC,3-1,Cheltenham Town FC
 44,Sat Apr 23 2005,Bristol Rovers FC,2-0,Swansea City FC
-44,Sat Apr 23 2005,Grimsby Town FC,0-0,Scunthorpe United FC
+44,Sat Apr 23 2005,Leyton Orient FC,2-0,Chester FC
 45,Sat Apr 30 2005,Wycombe Wanderers FC,3-2,Leyton Orient FC
 45,Sat Apr 30 2005,Swansea City FC,1-0,Shrewsbury Town FC
 45,Sat Apr 30 2005,Southend United FC,0-1,Yeovil Town FC

@@ -1,33 +1,33 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 5 2006,Luton Town FC,2-0,Leicester City FC
 1,Sat Aug 5 2006,West Bromwich Albion FC,2-0,Hull City AFC
 1,Sat Aug 5 2006,Southend United FC,1-0,Stoke City FC
 1,Sat Aug 5 2006,Preston North End FC,0-0,Sheffield Wednesday FC
 1,Sat Aug 5 2006,Plymouth Argyle FC,1-1,Wolverhampton Wanderers FC
-1,Sat Aug 5 2006,Leeds United FC,1-0,Norwich City FC
+1,Sat Aug 5 2006,Barnsley FC,1-3,Cardiff City FC
 1,Sat Aug 5 2006,Ipswich Town FC,1-2,Crystal Palace FC
 1,Sat Aug 5 2006,Burnley FC,2-0,Queens Park Rangers FC
 1,Sat Aug 5 2006,Birmingham City FC,2-1,Colchester United FC
-1,Sat Aug 5 2006,Barnsley FC,1-3,Cardiff City FC
-1,Sun Aug 6 2006,Coventry City FC,2-1,Sunderland AFC
+1,Sat Aug 5 2006,Leeds United FC,1-0,Norwich City FC
 1,Sun Aug 6 2006,Derby County FC,2-2,Southampton FC
+1,Sun Aug 6 2006,Coventry City FC,2-1,Sunderland AFC
 2,Tue Aug 8 2006,Wolverhampton Wanderers FC,1-0,Ipswich Town FC
 2,Tue Aug 8 2006,Stoke City FC,2-0,Derby County FC
 2,Tue Aug 8 2006,Sheffield Wednesday FC,0-1,Luton Town FC
 2,Tue Aug 8 2006,Norwich City FC,2-0,Preston North End FC
 2,Tue Aug 8 2006,Leicester City FC,0-1,Burnley FC
-2,Tue Aug 8 2006,Hull City AFC,2-3,Barnsley FC
+2,Tue Aug 8 2006,Crystal Palace FC,3-1,Southend United FC
 2,Tue Aug 8 2006,Colchester United FC,0-1,Plymouth Argyle FC
 2,Tue Aug 8 2006,Cardiff City FC,1-1,West Bromwich Albion FC
 2,Tue Aug 8 2006,Queens Park Rangers FC,2-2,Leeds United FC
-2,Tue Aug 8 2006,Crystal Palace FC,3-1,Southend United FC
+2,Tue Aug 8 2006,Hull City AFC,2-3,Barnsley FC
 2,Wed Aug 9 2006,Sunderland AFC,0-1,Birmingham City FC
 2,Wed Aug 9 2006,Southampton FC,2-0,Coventry City FC
 3,Fri Aug 11 2006,Wolverhampton Wanderers FC,1-3,Preston North End FC
-3,Sat Aug 12 2006,Stoke City FC,0-0,Birmingham City FC
+3,Sat Aug 12 2006,Sheffield Wednesday FC,1-1,Burnley FC
 3,Sat Aug 12 2006,Sunderland AFC,2-3,Plymouth Argyle FC
 3,Sat Aug 12 2006,Southampton FC,0-0,West Bromwich Albion FC
-3,Sat Aug 12 2006,Sheffield Wednesday FC,1-1,Burnley FC
+3,Sat Aug 12 2006,Stoke City FC,0-0,Birmingham City FC
 3,Sat Aug 12 2006,Queens Park Rangers FC,2-0,Southend United FC
 3,Sat Aug 12 2006,Norwich City FC,3-2,Luton Town FC
 3,Sat Aug 12 2006,Leicester City FC,3-1,Ipswich Town FC
@@ -45,25 +45,25 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sat Aug 19 2006,Ipswich Town FC,0-0,Hull City AFC
 4,Sat Aug 19 2006,Derby County FC,0-0,Norwich City FC
 4,Sat Aug 19 2006,Burnley FC,0-1,Wolverhampton Wanderers FC
-4,Sat Aug 19 2006,Birmingham City FC,2-1,Crystal Palace FC
 4,Sat Aug 19 2006,Barnsley FC,2-2,Southampton FC
+4,Sat Aug 19 2006,Birmingham City FC,2-1,Crystal Palace FC
 5,Fri Aug 25 2006,Queens Park Rangers FC,1-3,Ipswich Town FC
-5,Sat Aug 26 2006,Cardiff City FC,2-0,Birmingham City FC
+5,Sat Aug 26 2006,Southampton FC,1-1,Preston North End FC
 5,Sat Aug 26 2006,Wolverhampton Wanderers FC,1-0,Luton Town FC
 5,Sat Aug 26 2006,Stoke City FC,1-1,Plymouth Argyle FC
-5,Sat Aug 26 2006,Southampton FC,1-1,Preston North End FC
-5,Sat Aug 26 2006,Norwich City FC,5-1,Barnsley FC
+5,Sat Aug 26 2006,Cardiff City FC,2-0,Birmingham City FC
+5,Sat Aug 26 2006,Colchester United FC,4-3,Derby County FC
 5,Sat Aug 26 2006,Leicester City FC,1-0,Southend United FC
 5,Sat Aug 26 2006,Hull City AFC,0-1,Coventry City FC
 5,Sat Aug 26 2006,Crystal Palace FC,2-2,Burnley FC
-5,Sat Aug 26 2006,Colchester United FC,4-3,Derby County FC
+5,Sat Aug 26 2006,Norwich City FC,5-1,Barnsley FC
 5,Sun Aug 27 2006,Sheffield Wednesday FC,0-1,Leeds United FC
 5,Mon Aug 28 2006,Sunderland AFC,2-0,West Bromwich Albion FC
-6,Sat Sep 9 2006,West Bromwich Albion FC,2-0,Leicester City FC
+6,Sat Sep 9 2006,Luton Town FC,2-1,Crystal Palace FC
 6,Sat Sep 9 2006,Southend United FC,0-0,Sheffield Wednesday FC
 6,Sat Sep 9 2006,Preston North End FC,2-1,Cardiff City FC
 6,Sat Sep 9 2006,Plymouth Argyle FC,1-1,Queens Park Rangers FC
-6,Sat Sep 9 2006,Luton Town FC,2-1,Crystal Palace FC
+6,Sat Sep 9 2006,West Bromwich Albion FC,2-0,Leicester City FC
 6,Sat Sep 9 2006,Ipswich Town FC,2-1,Southampton FC
 6,Sat Sep 9 2006,Derby County FC,1-2,Sunderland AFC
 6,Sat Sep 9 2006,Coventry City FC,3-0,Norwich City FC
@@ -84,23 +84,23 @@ Matchday,Date,Team 1,FT,Team 2
 7,Tue Sep 12 2006,Crystal Palace FC,0-2,Southampton FC
 7,Wed Sep 13 2006,Leeds United FC,0-3,Sunderland AFC
 8,Fri Sep 15 2006,Hull City AFC,2-1,Sheffield Wednesday FC
-8,Sat Sep 16 2006,Norwich City FC,0-1,Crystal Palace FC
+8,Sat Sep 16 2006,Barnsley FC,1-0,Wolverhampton Wanderers FC
 8,Sat Sep 16 2006,Sunderland AFC,1-1,Leicester City FC
 8,Sat Sep 16 2006,Stoke City FC,0-1,Burnley FC
 8,Sat Sep 16 2006,Southampton FC,1-0,Plymouth Argyle FC
-8,Sat Sep 16 2006,Barnsley FC,1-0,Wolverhampton Wanderers FC
+8,Sat Sep 16 2006,West Bromwich Albion FC,1-1,Southend United FC
 8,Sat Sep 16 2006,Derby County FC,1-1,Preston North End FC
 8,Sat Sep 16 2006,Coventry City FC,1-0,Leeds United FC
 8,Sat Sep 16 2006,Colchester United FC,2-1,Queens Park Rangers FC
 8,Sat Sep 16 2006,Cardiff City FC,4-1,Luton Town FC
 8,Sat Sep 16 2006,Birmingham City FC,2-2,Ipswich Town FC
-8,Sat Sep 16 2006,West Bromwich Albion FC,1-1,Southend United FC
+8,Sat Sep 16 2006,Norwich City FC,0-1,Crystal Palace FC
 9,Fri Sep 22 2006,Preston North End FC,1-0,Barnsley FC
-9,Sat Sep 23 2006,Wolverhampton Wanderers FC,2-0,Stoke City FC
+9,Sat Sep 23 2006,Luton Town FC,2-2,West Bromwich Albion FC
 9,Sat Sep 23 2006,Sheffield Wednesday FC,1-2,Derby County FC
 9,Sat Sep 23 2006,Queens Park Rangers FC,2-0,Hull City AFC
 9,Sat Sep 23 2006,Plymouth Argyle FC,3-1,Norwich City FC
-9,Sat Sep 23 2006,Luton Town FC,2-2,West Bromwich Albion FC
+9,Sat Sep 23 2006,Wolverhampton Wanderers FC,2-0,Stoke City FC
 9,Sat Sep 23 2006,Leicester City FC,0-0,Colchester United FC
 9,Sat Sep 23 2006,Leeds United FC,3-2,Birmingham City FC
 9,Sat Sep 23 2006,Ipswich Town FC,3-1,Sunderland AFC
@@ -108,11 +108,11 @@ Matchday,Date,Team 1,FT,Team 2
 9,Sat Sep 23 2006,Burnley FC,2-3,Southampton FC
 9,Sun Sep 24 2006,Southend United FC,0-3,Cardiff City FC
 10,Fri Sep 29 2006,Colchester United FC,1-0,Ipswich Town FC
-10,Sat Sep 30 2006,West Bromwich Albion FC,4-2,Leeds United FC
+10,Sat Sep 30 2006,Hull City AFC,1-1,Crystal Palace FC
 10,Sat Sep 30 2006,Sunderland AFC,1-0,Sheffield Wednesday FC
 10,Sat Sep 30 2006,Stoke City FC,1-1,Preston North End FC
 10,Sat Sep 30 2006,Southampton FC,1-2,Queens Park Rangers FC
-10,Sat Sep 30 2006,Hull City AFC,1-1,Crystal Palace FC
+10,Sat Sep 30 2006,West Bromwich Albion FC,4-2,Leeds United FC
 10,Sat Sep 30 2006,Derby County FC,3-0,Southend United FC
 10,Sat Sep 30 2006,Coventry City FC,0-1,Plymouth Argyle FC
 10,Sat Sep 30 2006,Cardiff City FC,4-0,Wolverhampton Wanderers FC
@@ -120,34 +120,34 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Sep 30 2006,Barnsley FC,1-2,Luton Town FC
 10,Sun Oct 1 2006,Norwich City FC,1-4,Burnley FC
 11,Fri Oct 13 2006,Southend United FC,2-3,Coventry City FC
-11,Sat Oct 14 2006,Luton Town FC,3-2,Birmingham City FC
+11,Sat Oct 14 2006,Burnley FC,2-0,Hull City AFC
 11,Sat Oct 14 2006,Sheffield Wednesday FC,2-1,Barnsley FC
 11,Sat Oct 14 2006,Queens Park Rangers FC,3-3,Norwich City FC
 11,Sat Oct 14 2006,Preston North End FC,4-1,Sunderland AFC
-11,Sat Oct 14 2006,Burnley FC,2-0,Hull City AFC
+11,Sat Oct 14 2006,Wolverhampton Wanderers FC,1-0,Colchester United FC
 11,Sat Oct 14 2006,Leicester City FC,3-2,Southampton FC
 11,Sat Oct 14 2006,Leeds United FC,0-4,Stoke City FC
 11,Sat Oct 14 2006,Ipswich Town FC,1-5,West Bromwich Albion FC
 11,Sat Oct 14 2006,Crystal Palace FC,1-2,Cardiff City FC
-11,Sat Oct 14 2006,Wolverhampton Wanderers FC,1-0,Colchester United FC
+11,Sat Oct 14 2006,Luton Town FC,3-2,Birmingham City FC
 11,Sun Oct 15 2006,Plymouth Argyle FC,3-1,Derby County FC
-12,Tue Oct 17 2006,Wolverhampton Wanderers FC,1-0,Coventry City FC
+12,Tue Oct 17 2006,Hull City AFC,0-0,Luton Town FC
 12,Tue Oct 17 2006,Stoke City FC,2-1,Sunderland AFC
 12,Tue Oct 17 2006,Leeds United FC,1-2,Leicester City FC
 12,Tue Oct 17 2006,Ipswich Town FC,2-3,Preston North End FC
-12,Tue Oct 17 2006,Hull City AFC,0-0,Luton Town FC
+12,Tue Oct 17 2006,Wolverhampton Wanderers FC,1-0,Coventry City FC
 12,Tue Oct 17 2006,Crystal Palace FC,0-2,West Bromwich Albion FC
-12,Tue Oct 17 2006,Cardiff City FC,1-0,Southampton FC
+12,Tue Oct 17 2006,Burnley FC,0-0,Southend United FC
 12,Tue Oct 17 2006,Birmingham City FC,0-1,Norwich City FC
 12,Tue Oct 17 2006,Barnsley FC,2-2,Plymouth Argyle FC
 12,Tue Oct 17 2006,Queens Park Rangers FC,1-2,Derby County FC
-12,Tue Oct 17 2006,Burnley FC,0-0,Southend United FC
+12,Tue Oct 17 2006,Cardiff City FC,1-0,Southampton FC
 12,Wed Oct 18 2006,Colchester United FC,4-0,Sheffield Wednesday FC
-13,Sat Oct 21 2006,Sunderland AFC,2-0,Barnsley FC
+13,Sat Oct 21 2006,Preston North End FC,2-1,Hull City AFC
 13,Sat Oct 21 2006,Southend United FC,1-3,Ipswich Town FC
 13,Sat Oct 21 2006,Southampton FC,1-0,Stoke City FC
 13,Sat Oct 21 2006,Sheffield Wednesday FC,3-2,Queens Park Rangers FC
-13,Sat Oct 21 2006,Preston North End FC,2-1,Hull City AFC
+13,Sat Oct 21 2006,Sunderland AFC,2-0,Barnsley FC
 13,Sat Oct 21 2006,Plymouth Argyle FC,0-0,Burnley FC
 13,Sat Oct 21 2006,Norwich City FC,1-0,Cardiff City FC
 13,Sat Oct 21 2006,Luton Town FC,5-1,Leeds United FC
@@ -156,29 +156,29 @@ Matchday,Date,Team 1,FT,Team 2
 13,Sun Oct 22 2006,West Bromwich Albion FC,3-0,Wolverhampton Wanderers FC
 13,Mon Oct 23 2006,Coventry City FC,2-1,Colchester United FC
 14,Fri Oct 27 2006,Burnley FC,3-2,Preston North End FC
-14,Sat Oct 28 2006,Birmingham City FC,2-0,West Bromwich Albion FC
+14,Sat Oct 28 2006,Queens Park Rangers FC,1-1,Leicester City FC
 14,Sat Oct 28 2006,Wolverhampton Wanderers FC,2-2,Sheffield Wednesday FC
 14,Sat Oct 28 2006,Stoke City FC,5-0,Norwich City FC
-14,Sat Oct 28 2006,Queens Park Rangers FC,1-1,Leicester City FC
-14,Sat Oct 28 2006,Leeds United FC,2-0,Southend United FC
+14,Sat Oct 28 2006,Birmingham City FC,2-0,West Bromwich Albion FC
+14,Sat Oct 28 2006,Barnsley FC,0-1,Coventry City FC
 14,Sat Oct 28 2006,Hull City AFC,0-1,Sunderland AFC
 14,Sat Oct 28 2006,Crystal Palace FC,0-1,Plymouth Argyle FC
 14,Sat Oct 28 2006,Colchester United FC,2-0,Southampton FC
 14,Sat Oct 28 2006,Cardiff City FC,2-2,Derby County FC
-14,Sat Oct 28 2006,Barnsley FC,0-1,Coventry City FC
+14,Sat Oct 28 2006,Leeds United FC,2-0,Southend United FC
 14,Sun Oct 29 2006,Ipswich Town FC,5-0,Luton Town FC
 15,Tue Oct 31 2006,West Bromwich Albion FC,3-3,Queens Park Rangers FC
 15,Tue Oct 31 2006,Sunderland AFC,1-2,Cardiff City FC
 15,Tue Oct 31 2006,Southend United FC,2-3,Hull City AFC
 15,Tue Oct 31 2006,Sheffield Wednesday FC,3-2,Crystal Palace FC
 15,Tue Oct 31 2006,Plymouth Argyle FC,1-1,Ipswich Town FC
-15,Tue Oct 31 2006,Norwich City FC,1-1,Colchester United FC
+15,Tue Oct 31 2006,Preston North End FC,4-1,Leeds United FC
 15,Tue Oct 31 2006,Luton Town FC,0-2,Burnley FC
 15,Tue Oct 31 2006,Leicester City FC,2-1,Stoke City FC
 15,Tue Oct 31 2006,Coventry City FC,0-1,Birmingham City FC
-15,Tue Oct 31 2006,Preston North End FC,4-1,Leeds United FC
-15,Wed Nov 1 2006,Southampton FC,2-0,Wolverhampton Wanderers FC
+15,Tue Oct 31 2006,Norwich City FC,1-1,Colchester United FC
 15,Wed Nov 1 2006,Derby County FC,2-1,Barnsley FC
+15,Wed Nov 1 2006,Southampton FC,2-0,Wolverhampton Wanderers FC
 16,Sat Nov 4 2006,Wolverhampton Wanderers FC,3-1,Southend United FC
 16,Sat Nov 4 2006,Southampton FC,0-0,Hull City AFC
 16,Sat Nov 4 2006,Sheffield Wednesday FC,2-1,Leicester City FC
@@ -196,72 +196,72 @@ Matchday,Date,Team 1,FT,Team 2
 17,Sat Nov 11 2006,Southend United FC,0-0,Preston North End FC
 17,Sat Nov 11 2006,Luton Town FC,2-3,Queens Park Rangers FC
 17,Sat Nov 11 2006,Leicester City FC,2-2,Plymouth Argyle FC
-17,Sat Nov 11 2006,Leeds United FC,3-0,Colchester United FC
+17,Sat Nov 11 2006,Birmingham City FC,2-0,Barnsley FC
 17,Sat Nov 11 2006,Ipswich Town FC,0-2,Sheffield Wednesday FC
 17,Sat Nov 11 2006,Hull City AFC,2-0,Wolverhampton Wanderers FC
 17,Sat Nov 11 2006,Crystal Palace FC,0-1,Stoke City FC
 17,Sat Nov 11 2006,Coventry City FC,1-2,Derby County FC
 17,Sat Nov 11 2006,Cardiff City FC,1-0,Burnley FC
-17,Sat Nov 11 2006,Birmingham City FC,2-0,Barnsley FC
+17,Sat Nov 11 2006,Leeds United FC,3-0,Colchester United FC
 18,Fri Nov 17 2006,Cardiff City FC,0-1,Queens Park Rangers FC
-18,Sat Nov 18 2006,Luton Town FC,0-2,Derby County FC
+18,Sat Nov 18 2006,Coventry City FC,3-1,Sheffield Wednesday FC
 18,Sat Nov 18 2006,West Bromwich Albion FC,3-0,Burnley FC
 18,Sat Nov 18 2006,Sunderland AFC,3-1,Colchester United FC
 18,Sat Nov 18 2006,Southend United FC,1-1,Plymouth Argyle FC
-18,Sat Nov 18 2006,Coventry City FC,3-1,Sheffield Wednesday FC
+18,Sat Nov 18 2006,Birmingham City FC,1-1,Wolverhampton Wanderers FC
 18,Sat Nov 18 2006,Leicester City FC,0-1,Preston North End FC
 18,Sat Nov 18 2006,Leeds United FC,0-3,Southampton FC
 18,Sat Nov 18 2006,Hull City AFC,0-2,Stoke City FC
 18,Sat Nov 18 2006,Crystal Palace FC,2-0,Barnsley FC
-18,Sat Nov 18 2006,Birmingham City FC,1-1,Wolverhampton Wanderers FC
+18,Sat Nov 18 2006,Luton Town FC,0-2,Derby County FC
 18,Sun Nov 19 2006,Ipswich Town FC,3-1,Norwich City FC
 19,Fri Nov 24 2006,Wolverhampton Wanderers FC,1-1,Sunderland AFC
-19,Sat Nov 25 2006,Stoke City FC,1-0,West Bromwich Albion FC
+19,Sat Nov 25 2006,Preston North End FC,0-0,Crystal Palace FC
 19,Sat Nov 25 2006,Southampton FC,2-1,Luton Town FC
 19,Sat Nov 25 2006,Sheffield Wednesday FC,0-0,Cardiff City FC
 19,Sat Nov 25 2006,Queens Park Rangers FC,0-1,Coventry City FC
-19,Sat Nov 25 2006,Preston North End FC,0-0,Crystal Palace FC
+19,Sat Nov 25 2006,Stoke City FC,1-0,West Bromwich Albion FC
 19,Sat Nov 25 2006,Plymouth Argyle FC,1-2,Leeds United FC
 19,Sat Nov 25 2006,Norwich City FC,1-1,Hull City AFC
 19,Sat Nov 25 2006,Derby County FC,1-0,Leicester City FC
 19,Sat Nov 25 2006,Colchester United FC,3-0,Southend United FC
-19,Sat Nov 25 2006,Burnley FC,1-2,Birmingham City FC
 19,Sat Nov 25 2006,Barnsley FC,1-0,Ipswich Town FC
+19,Sat Nov 25 2006,Burnley FC,1-2,Birmingham City FC
 20,Tue Nov 28 2006,Wolverhampton Wanderers FC,1-1,Crystal Palace FC
 20,Tue Nov 28 2006,Stoke City FC,3-0,Cardiff City FC
 20,Tue Nov 28 2006,Sheffield Wednesday FC,3-1,West Bromwich Albion FC
 20,Tue Nov 28 2006,Preston North End FC,1-1,Coventry City FC
 20,Tue Nov 28 2006,Plymouth Argyle FC,1-0,Luton Town FC
-20,Tue Nov 28 2006,Norwich City FC,3-1,Leicester City FC
+20,Tue Nov 28 2006,Queens Park Rangers FC,1-2,Sunderland AFC
 20,Tue Nov 28 2006,Colchester United FC,5-1,Hull City AFC
 20,Tue Nov 28 2006,Burnley FC,2-1,Leeds United FC
 20,Tue Nov 28 2006,Barnsley FC,2-0,Southend United FC
-20,Tue Nov 28 2006,Queens Park Rangers FC,1-2,Sunderland AFC
+20,Tue Nov 28 2006,Norwich City FC,3-1,Leicester City FC
 20,Wed Nov 29 2006,Southampton FC,4-3,Birmingham City FC
 20,Wed Nov 29 2006,Derby County FC,2-1,Ipswich Town FC
-21,Sat Dec 2 2006,Leeds United FC,2-2,Barnsley FC
+21,Sat Dec 2 2006,Luton Town FC,2-0,Preston North End FC
 21,Sat Dec 2 2006,West Bromwich Albion FC,1-0,Derby County FC
 21,Sat Dec 2 2006,Sunderland AFC,1-0,Norwich City FC
 21,Sat Dec 2 2006,Southend United FC,0-1,Wolverhampton Wanderers FC
-21,Sat Dec 2 2006,Luton Town FC,2-0,Preston North End FC
-21,Sat Dec 2 2006,Leicester City FC,1-4,Sheffield Wednesday FC
+21,Sat Dec 2 2006,Leeds United FC,2-2,Barnsley FC
+21,Sat Dec 2 2006,Birmingham City FC,3-0,Plymouth Argyle FC
 21,Sat Dec 2 2006,Ipswich Town FC,1-1,Burnley FC
 21,Sat Dec 2 2006,Hull City AFC,2-4,Southampton FC
 21,Sat Dec 2 2006,Crystal Palace FC,3-0,Queens Park Rangers FC
 21,Sat Dec 2 2006,Coventry City FC,0-0,Stoke City FC
 21,Sat Dec 2 2006,Cardiff City FC,0-0,Colchester United FC
-21,Sat Dec 2 2006,Birmingham City FC,3-0,Plymouth Argyle FC
+21,Sat Dec 2 2006,Leicester City FC,1-4,Sheffield Wednesday FC
 22,Sat Dec 9 2006,Wolverhampton Wanderers FC,1-2,Leicester City FC
 22,Sat Dec 9 2006,Sunderland AFC,2-1,Luton Town FC
 22,Sat Dec 9 2006,Stoke City FC,1-0,Queens Park Rangers FC
 22,Sat Dec 9 2006,Southend United FC,2-1,Southampton FC
 22,Sat Dec 9 2006,Plymouth Argyle FC,1-0,Hull City AFC
 22,Sat Dec 9 2006,Norwich City FC,1-2,Sheffield Wednesday FC
-22,Sat Dec 9 2006,Birmingham City FC,3-1,Preston North End FC
+22,Sat Dec 9 2006,Leeds United FC,0-1,Derby County FC
 22,Sat Dec 9 2006,Crystal Palace FC,1-3,Colchester United FC
 22,Sat Dec 9 2006,Coventry City FC,1-0,Burnley FC
 22,Sat Dec 9 2006,Cardiff City FC,2-2,Ipswich Town FC
-22,Sat Dec 9 2006,Leeds United FC,0-1,Derby County FC
+22,Sat Dec 9 2006,Birmingham City FC,3-1,Preston North End FC
 22,Sun Dec 10 2006,Barnsley FC,1-1,West Bromwich Albion FC
 23,Fri Dec 15 2006,Luton Town FC,0-0,Southend United FC
 23,Sat Dec 16 2006,Preston North End FC,3-0,Plymouth Argyle FC
@@ -293,24 +293,24 @@ Matchday,Date,Team 1,FT,Team 2
 25,Tue Dec 26 2006,Sunderland AFC,2-0,Leeds United FC
 25,Tue Dec 26 2006,Stoke City FC,1-2,Sheffield Wednesday FC
 25,Tue Dec 26 2006,Barnsley FC,1-0,Burnley FC
-25,Tue Dec 26 2006,Norwich City FC,0-0,Southend United FC
+25,Tue Dec 26 2006,Hull City AFC,1-2,Leicester City FC
 25,Tue Dec 26 2006,Derby County FC,0-2,Wolverhampton Wanderers FC
 25,Tue Dec 26 2006,Coventry City FC,1-2,Ipswich Town FC
 25,Tue Dec 26 2006,Colchester United FC,4-1,Luton Town FC
 25,Tue Dec 26 2006,Birmingham City FC,2-1,Queens Park Rangers FC
-25,Tue Dec 26 2006,Hull City AFC,1-2,Leicester City FC
+25,Tue Dec 26 2006,Norwich City FC,0-0,Southend United FC
 26,Fri Dec 29 2006,Birmingham City FC,2-2,Luton Town FC
-26,Sat Dec 30 2006,Barnsley FC,0-3,Sheffield Wednesday FC
+26,Sat Dec 30 2006,Southampton FC,2-0,Leicester City FC
 26,Sat Dec 30 2006,West Bromwich Albion FC,2-0,Ipswich Town FC
 26,Sat Dec 30 2006,Sunderland AFC,0-1,Preston North End FC
 26,Sat Dec 30 2006,Stoke City FC,3-1,Leeds United FC
-26,Sat Dec 30 2006,Southampton FC,2-0,Leicester City FC
+26,Sat Dec 30 2006,Barnsley FC,0-3,Sheffield Wednesday FC
 26,Sat Dec 30 2006,Norwich City FC,1-0,Queens Park Rangers FC
 26,Sat Dec 30 2006,Hull City AFC,2-0,Burnley FC
 26,Sat Dec 30 2006,Derby County FC,1-0,Plymouth Argyle FC
-26,Sat Dec 30 2006,Colchester United FC,2-1,Wolverhampton Wanderers FC
-26,Sat Dec 30 2006,Cardiff City FC,0-0,Crystal Palace FC
 26,Sat Dec 30 2006,Coventry City FC,1-1,Southend United FC
+26,Sat Dec 30 2006,Cardiff City FC,0-0,Crystal Palace FC
+26,Sat Dec 30 2006,Colchester United FC,2-1,Wolverhampton Wanderers FC
 27,Mon Jan 1 2007,Wolverhampton Wanderers FC,2-0,Barnsley FC
 27,Mon Jan 1 2007,Southend United FC,3-1,West Bromwich Albion FC
 27,Mon Jan 1 2007,Sheffield Wednesday FC,1-2,Hull City AFC
@@ -323,165 +323,163 @@ Matchday,Date,Team 1,FT,Team 2
 27,Mon Jan 1 2007,Ipswich Town FC,1-0,Birmingham City FC
 27,Mon Jan 1 2007,Crystal Palace FC,3-1,Norwich City FC
 28,Fri Jan 12 2007,West Bromwich Albion FC,3-2,Luton Town FC
-28,Sat Jan 13 2007,Norwich City FC,1-3,Plymouth Argyle FC
 28,Sat Jan 13 2007,Barnsley FC,0-1,Preston North End FC
 28,Sat Jan 13 2007,Stoke City FC,1-1,Wolverhampton Wanderers FC
-28,Sat Jan 13 2007,Cardiff City FC,0-1,Southend United FC
-28,Sat Jan 13 2007,Hull City AFC,2-1,Queens Park Rangers FC
+28,Sat Jan 13 2007,Southampton FC,0-0,Burnley FC
+28,Sat Jan 13 2007,Norwich City FC,1-3,Plymouth Argyle FC
 28,Sat Jan 13 2007,Sunderland AFC,1-0,Ipswich Town FC
 28,Sat Jan 13 2007,Derby County FC,1-0,Sheffield Wednesday FC
 28,Sat Jan 13 2007,Coventry City FC,2-4,Crystal Palace FC
 28,Sat Jan 13 2007,Colchester United FC,1-1,Leicester City FC
-28,Sat Jan 13 2007,Southampton FC,0-0,Burnley FC
-29,Sat Jan 20 2007,Luton Town FC,0-2,Barnsley FC
-29,Sat Jan 20 2007,Leeds United FC,2-3,West Bromwich Albion FC
+28,Sat Jan 13 2007,Cardiff City FC,0-1,Southend United FC
+28,Sat Jan 13 2007,Hull City AFC,2-1,Queens Park Rangers FC
 29,Sat Jan 20 2007,Wolverhampton Wanderers FC,1-2,Cardiff City FC
 29,Sat Jan 20 2007,Southend United FC,0-1,Derby County FC
 29,Sat Jan 20 2007,Sheffield Wednesday FC,2-4,Sunderland AFC
 29,Sat Jan 20 2007,Queens Park Rangers FC,0-2,Southampton FC
 29,Sat Jan 20 2007,Preston North End FC,3-2,Stoke City FC
 29,Sat Jan 20 2007,Crystal Palace FC,1-1,Hull City AFC
+29,Sat Jan 20 2007,Leeds United FC,2-3,West Bromwich Albion FC
 29,Sat Jan 20 2007,Ipswich Town FC,3-2,Colchester United FC
+29,Sat Jan 20 2007,Luton Town FC,0-2,Barnsley FC
 29,Mon Jan 22 2007,Plymouth Argyle FC,3-2,Coventry City FC
 27,Tue Jan 23 2007,Burnley FC,0-1,Stoke City FC
 30,Sat Jan 27 2007,Cardiff City FC,3-2,Leicester City FC
-30,Tue Jan 30 2007,Birmingham City FC,1-3,Southend United FC
-30,Tue Jan 30 2007,Barnsley FC,2-0,Queens Park Rangers FC
-30,Tue Jan 30 2007,Coventry City FC,1-0,Luton Town FC
 30,Tue Jan 30 2007,Sunderland AFC,0-0,Crystal Palace FC
 30,Tue Jan 30 2007,Stoke City FC,0-0,Ipswich Town FC
 30,Tue Jan 30 2007,Norwich City FC,0-1,Wolverhampton Wanderers FC
 30,Tue Jan 30 2007,Hull City AFC,1-2,Leeds United FC
 30,Tue Jan 30 2007,Derby County FC,1-0,Burnley FC
+30,Tue Jan 30 2007,Barnsley FC,2-0,Queens Park Rangers FC
 30,Tue Jan 30 2007,Colchester United FC,1-0,Preston North End FC
+30,Tue Jan 30 2007,Birmingham City FC,1-3,Southend United FC
+30,Tue Jan 30 2007,Coventry City FC,1-0,Luton Town FC
 30,Wed Jan 31 2007,West Bromwich Albion FC,2-1,Plymouth Argyle FC
 30,Wed Jan 31 2007,Southampton FC,2-1,Sheffield Wednesday FC
 31,Fri Feb 2 2007,Cardiff City FC,2-0,Barnsley FC
 31,Sat Feb 3 2007,Wolverhampton Wanderers FC,2-2,Plymouth Argyle FC
-31,Sat Feb 3 2007,Queens Park Rangers FC,3-1,Burnley FC
-31,Sat Feb 3 2007,Leicester City FC,1-1,Luton Town FC
-31,Sat Feb 3 2007,Crystal Palace FC,2-0,Ipswich Town FC
 31,Sat Feb 3 2007,Sunderland AFC,2-0,Coventry City FC
 31,Sat Feb 3 2007,Stoke City FC,1-1,Southend United FC
 31,Sat Feb 3 2007,Southampton FC,0-1,Derby County FC
 31,Sat Feb 3 2007,Sheffield Wednesday FC,1-3,Preston North End FC
 31,Sat Feb 3 2007,Colchester United FC,1-1,Birmingham City FC
 31,Sat Feb 3 2007,Norwich City FC,2-1,Leeds United FC
+31,Sat Feb 3 2007,Leicester City FC,1-1,Luton Town FC
 31,Sat Feb 3 2007,Hull City AFC,0-1,West Bromwich Albion FC
+31,Sat Feb 3 2007,Crystal Palace FC,2-0,Ipswich Town FC
+31,Sat Feb 3 2007,Queens Park Rangers FC,3-1,Burnley FC
 32,Fri Feb 9 2007,Southend United FC,5-0,Queens Park Rangers FC
-32,Sat Feb 10 2007,Leeds United FC,2-1,Crystal Palace FC
-32,Sat Feb 10 2007,Burnley FC,1-1,Sheffield Wednesday FC
-32,Sat Feb 10 2007,Coventry City FC,2-2,Cardiff City FC
 32,Sat Feb 10 2007,West Bromwich Albion FC,1-1,Southampton FC
 32,Sat Feb 10 2007,Preston North End FC,0-1,Wolverhampton Wanderers FC
 32,Sat Feb 10 2007,Plymouth Argyle FC,0-2,Sunderland AFC
-32,Sat Feb 10 2007,Derby County FC,2-2,Hull City AFC
+32,Sat Feb 10 2007,Leeds United FC,2-1,Crystal Palace FC
 32,Sat Feb 10 2007,Barnsley FC,0-3,Colchester United FC
+32,Sat Feb 10 2007,Derby County FC,2-2,Hull City AFC
+32,Sat Feb 10 2007,Coventry City FC,2-2,Cardiff City FC
+32,Sat Feb 10 2007,Burnley FC,1-1,Sheffield Wednesday FC
 32,Sat Feb 10 2007,Ipswich Town FC,0-2,Leicester City FC
 32,Sun Feb 11 2007,Birmingham City FC,1-0,Stoke City FC
 33,Tue Feb 13 2007,Colchester United FC,1-2,West Bromwich Albion FC
+33,Sat Feb 17 2007,Wolverhampton Wanderers FC,2-1,Burnley FC
 33,Sat Feb 17 2007,Sunderland AFC,4-0,Southend United FC
+33,Sat Feb 17 2007,Stoke City FC,0-0,Luton Town FC
+33,Sat Feb 17 2007,Southampton FC,5-2,Barnsley FC
+33,Sat Feb 17 2007,Leicester City FC,3-0,Coventry City FC
 33,Sat Feb 17 2007,Crystal Palace FC,0-1,Birmingham City FC
 33,Sat Feb 17 2007,Cardiff City FC,2-0,Leeds United FC
-33,Sat Feb 17 2007,Leicester City FC,3-0,Coventry City FC
-33,Sat Feb 17 2007,Wolverhampton Wanderers FC,2-1,Burnley FC
-33,Sat Feb 17 2007,Southampton FC,5-2,Barnsley FC
-33,Sat Feb 17 2007,Stoke City FC,0-0,Luton Town FC
-34,Tue Feb 20 2007,Plymouth Argyle FC,3-0,Colchester United FC
-34,Tue Feb 20 2007,Birmingham City FC,1-1,Sunderland AFC
-34,Tue Feb 20 2007,Preston North End FC,2-1,Norwich City FC
-34,Tue Feb 20 2007,Barnsley FC,3-0,Hull City AFC
-34,Tue Feb 20 2007,Burnley FC,0-1,Leicester City FC
-34,Tue Feb 20 2007,Coventry City FC,2-1,Southampton FC
-34,Tue Feb 20 2007,Ipswich Town FC,0-1,Wolverhampton Wanderers FC
-34,Tue Feb 20 2007,Leeds United FC,0-0,Queens Park Rangers FC
 34,Tue Feb 20 2007,Southend United FC,0-1,Crystal Palace FC
 34,Tue Feb 20 2007,West Bromwich Albion FC,1-0,Cardiff City FC
+34,Tue Feb 20 2007,Preston North End FC,2-1,Norwich City FC
+34,Tue Feb 20 2007,Plymouth Argyle FC,3-0,Colchester United FC
 34,Tue Feb 20 2007,Luton Town FC,3-2,Sheffield Wednesday FC
+34,Tue Feb 20 2007,Leeds United FC,0-0,Queens Park Rangers FC
+34,Tue Feb 20 2007,Ipswich Town FC,0-1,Wolverhampton Wanderers FC
+34,Tue Feb 20 2007,Coventry City FC,2-1,Southampton FC
+34,Tue Feb 20 2007,Burnley FC,0-1,Leicester City FC
+34,Tue Feb 20 2007,Barnsley FC,3-0,Hull City AFC
+34,Tue Feb 20 2007,Birmingham City FC,1-1,Sunderland AFC
 34,Wed Feb 21 2007,Derby County FC,0-2,Stoke City FC
 35,Fri Feb 23 2007,Cardiff City FC,4-1,Preston North End FC
-35,Sat Feb 24 2007,Norwich City FC,1-1,Coventry City FC
+35,Sat Feb 24 2007,Sheffield Wednesday FC,3-2,Southend United FC
+35,Sat Feb 24 2007,Sunderland AFC,2-1,Derby County FC
+35,Sat Feb 24 2007,Southampton FC,1-0,Ipswich Town FC
 35,Sat Feb 24 2007,Wolverhampton Wanderers FC,1-0,Leeds United FC
 35,Sat Feb 24 2007,Queens Park Rangers FC,1-1,Plymouth Argyle FC
-35,Sat Feb 24 2007,Sunderland AFC,2-1,Derby County FC
+35,Sat Feb 24 2007,Colchester United FC,0-0,Burnley FC
 35,Sat Feb 24 2007,Leicester City FC,1-1,West Bromwich Albion FC
-35,Sat Feb 24 2007,Southampton FC,1-0,Ipswich Town FC
 35,Sat Feb 24 2007,Hull City AFC,2-0,Birmingham City FC
 35,Sat Feb 24 2007,Crystal Palace FC,2-1,Luton Town FC
-35,Sat Feb 24 2007,Sheffield Wednesday FC,3-2,Southend United FC
-35,Sat Feb 24 2007,Colchester United FC,0-0,Burnley FC
+35,Sat Feb 24 2007,Norwich City FC,1-1,Coventry City FC
 35,Mon Feb 26 2007,Stoke City FC,0-1,Barnsley FC
-32,Tue Feb 27 2007,Luton Town FC,2-3,Norwich City FC
 28,Tue Feb 27 2007,Birmingham City FC,1-0,Leeds United FC
+32,Tue Feb 27 2007,Luton Town FC,2-3,Norwich City FC
 36,Fri Mar 2 2007,Derby County FC,5-1,Colchester United FC
-36,Sat Mar 3 2007,Leeds United FC,2-3,Sheffield Wednesday FC
-36,Sat Mar 3 2007,Coventry City FC,2-0,Hull City AFC
-36,Sat Mar 3 2007,Burnley FC,1-1,Crystal Palace FC
-36,Sat Mar 3 2007,Barnsley FC,1-3,Norwich City FC
-36,Sat Mar 3 2007,Ipswich Town FC,2-1,Queens Park Rangers FC
-36,Sat Mar 3 2007,Luton Town FC,2-3,Wolverhampton Wanderers FC
 36,Sat Mar 3 2007,West Bromwich Albion FC,1-2,Sunderland AFC
 36,Sat Mar 3 2007,Southend United FC,2-2,Leicester City FC
 36,Sat Mar 3 2007,Plymouth Argyle FC,1-1,Stoke City FC
+36,Sat Mar 3 2007,Luton Town FC,2-3,Wolverhampton Wanderers FC
+36,Sat Mar 3 2007,Leeds United FC,2-3,Sheffield Wednesday FC
+36,Sat Mar 3 2007,Ipswich Town FC,2-1,Queens Park Rangers FC
+36,Sat Mar 3 2007,Barnsley FC,1-3,Norwich City FC
+36,Sat Mar 3 2007,Burnley FC,1-1,Crystal Palace FC
+36,Sat Mar 3 2007,Coventry City FC,2-0,Hull City AFC
 36,Sun Mar 4 2007,Birmingham City FC,1-0,Cardiff City FC
 36,Mon Mar 5 2007,Preston North End FC,3-1,Southampton FC
-33,Tue Mar 6 2007,Sheffield Wednesday FC,1-1,Plymouth Argyle FC
 33,Tue Mar 6 2007,Hull City AFC,2-5,Ipswich Town FC
 33,Tue Mar 6 2007,Norwich City FC,1-2,Derby County FC
+33,Tue Mar 6 2007,Sheffield Wednesday FC,1-1,Plymouth Argyle FC
 37,Fri Mar 9 2007,Birmingham City FC,1-0,Derby County FC
-37,Sat Mar 10 2007,Barnsley FC,0-2,Sunderland AFC
-37,Sat Mar 10 2007,Leeds United FC,1-0,Luton Town FC
-37,Sat Mar 10 2007,Crystal Palace FC,2-0,Leicester City FC
 37,Sat Mar 10 2007,Cardiff City FC,1-0,Norwich City FC
 37,Sat Mar 10 2007,Stoke City FC,2-1,Southampton FC
-37,Sat Mar 10 2007,Hull City AFC,2-0,Preston North End FC
-37,Sat Mar 10 2007,Colchester United FC,0-0,Coventry City FC
-37,Sat Mar 10 2007,Ipswich Town FC,0-2,Southend United FC
 37,Sat Mar 10 2007,Queens Park Rangers FC,1-1,Sheffield Wednesday FC
+37,Sat Mar 10 2007,Barnsley FC,0-2,Sunderland AFC
+37,Sat Mar 10 2007,Ipswich Town FC,0-2,Southend United FC
+37,Sat Mar 10 2007,Hull City AFC,2-0,Preston North End FC
+37,Sat Mar 10 2007,Crystal Palace FC,2-0,Leicester City FC
+37,Sat Mar 10 2007,Colchester United FC,0-0,Coventry City FC
+37,Sat Mar 10 2007,Leeds United FC,1-0,Luton Town FC
 37,Sun Mar 11 2007,Wolverhampton Wanderers FC,1-0,West Bromwich Albion FC
+38,Tue Mar 13 2007,Southend United FC,1-0,Burnley FC
 38,Tue Mar 13 2007,Southampton FC,2-2,Cardiff City FC
+38,Tue Mar 13 2007,Sheffield Wednesday FC,2-0,Colchester United FC
+38,Tue Mar 13 2007,Preston North End FC,1-0,Ipswich Town FC
+38,Tue Mar 13 2007,Norwich City FC,1-0,Birmingham City FC
+38,Tue Mar 13 2007,Coventry City FC,2-1,Wolverhampton Wanderers FC
+38,Tue Mar 13 2007,Leicester City FC,1-1,Leeds United FC
 38,Tue Mar 13 2007,Derby County FC,1-1,Queens Park Rangers FC
 38,Tue Mar 13 2007,Sunderland AFC,2-2,Stoke City FC
 38,Tue Mar 13 2007,Luton Town FC,1-2,Hull City AFC
-38,Tue Mar 13 2007,Southend United FC,1-0,Burnley FC
-38,Tue Mar 13 2007,Leicester City FC,1-1,Leeds United FC
-38,Tue Mar 13 2007,Sheffield Wednesday FC,2-0,Colchester United FC
-38,Tue Mar 13 2007,Coventry City FC,2-1,Wolverhampton Wanderers FC
-38,Tue Mar 13 2007,Norwich City FC,1-0,Birmingham City FC
-38,Tue Mar 13 2007,Preston North End FC,1-0,Ipswich Town FC
 38,Wed Mar 14 2007,West Bromwich Albion FC,2-3,Crystal Palace FC
 38,Wed Mar 14 2007,Plymouth Argyle FC,2-4,Barnsley FC
 39,Fri Mar 16 2007,Southampton FC,1-2,Colchester United FC
-39,Sat Mar 17 2007,Derby County FC,3-1,Cardiff City FC
-39,Sat Mar 17 2007,Luton Town FC,0-2,Ipswich Town FC
-39,Sat Mar 17 2007,Leicester City FC,1-3,Queens Park Rangers FC
-39,Sat Mar 17 2007,Coventry City FC,4-1,Barnsley FC
 39,Sat Mar 17 2007,Preston North End FC,2-0,Burnley FC
 39,Sat Mar 17 2007,Sunderland AFC,2-0,Hull City AFC
-39,Sat Mar 17 2007,Norwich City FC,1-0,Stoke City FC
+39,Sat Mar 17 2007,Southend United FC,1-1,Leeds United FC
 39,Sat Mar 17 2007,Sheffield Wednesday FC,2-2,Wolverhampton Wanderers FC
 39,Sat Mar 17 2007,Plymouth Argyle FC,1-0,Crystal Palace FC
-39,Sat Mar 17 2007,Southend United FC,1-1,Leeds United FC
+39,Sat Mar 17 2007,Norwich City FC,1-0,Stoke City FC
+39,Sat Mar 17 2007,Luton Town FC,0-2,Ipswich Town FC
+39,Sat Mar 17 2007,Leicester City FC,1-3,Queens Park Rangers FC
+39,Sat Mar 17 2007,Derby County FC,3-1,Cardiff City FC
+39,Sat Mar 17 2007,Coventry City FC,4-1,Barnsley FC
 39,Sun Mar 18 2007,West Bromwich Albion FC,1-1,Birmingham City FC
 40,Fri Mar 30 2007,Leeds United FC,2-1,Preston North End FC
 40,Sat Mar 31 2007,Hull City AFC,4-0,Southend United FC
-40,Sat Mar 31 2007,Colchester United FC,3-0,Norwich City FC
-40,Sat Mar 31 2007,Barnsley FC,1-2,Derby County FC
-40,Sat Mar 31 2007,Cardiff City FC,0-1,Sunderland AFC
-40,Sat Mar 31 2007,Burnley FC,0-0,Luton Town FC
 40,Sat Mar 31 2007,Stoke City FC,4-2,Leicester City FC
 40,Sat Mar 31 2007,Queens Park Rangers FC,1-2,West Bromwich Albion FC
 40,Sat Mar 31 2007,Ipswich Town FC,3-0,Plymouth Argyle FC
 40,Sat Mar 31 2007,Wolverhampton Wanderers FC,0-6,Southampton FC
 40,Sat Mar 31 2007,Crystal Palace FC,1-2,Sheffield Wednesday FC
+40,Sat Mar 31 2007,Barnsley FC,1-2,Derby County FC
+40,Sat Mar 31 2007,Cardiff City FC,0-1,Sunderland AFC
+40,Sat Mar 31 2007,Burnley FC,0-0,Luton Town FC
+40,Sat Mar 31 2007,Colchester United FC,3-0,Norwich City FC
 40,Sun Apr 1 2007,Birmingham City FC,3-0,Coventry City FC
-37,Tue Apr 3 2007,Burnley FC,4-0,Plymouth Argyle FC
 33,Tue Apr 3 2007,Queens Park Rangers FC,1-0,Preston North End FC
+37,Tue Apr 3 2007,Burnley FC,4-0,Plymouth Argyle FC
 41,Fri Apr 6 2007,Southend United FC,0-3,Colchester United FC
-41,Fri Apr 6 2007,Hull City AFC,1-2,Norwich City FC
 41,Fri Apr 6 2007,Leicester City FC,1-1,Derby County FC
-41,Sat Apr 7 2007,Luton Town FC,0-2,Southampton FC
-41,Sat Apr 7 2007,Cardiff City FC,1-2,Sheffield Wednesday FC
+41,Fri Apr 6 2007,Hull City AFC,1-2,Norwich City FC
 41,Sat Apr 7 2007,Sunderland AFC,2-1,Wolverhampton Wanderers FC
 41,Sat Apr 7 2007,West Bromwich Albion FC,1-3,Stoke City FC
 41,Sat Apr 7 2007,Birmingham City FC,0-1,Burnley FC
@@ -489,62 +487,64 @@ Matchday,Date,Team 1,FT,Team 2
 41,Sat Apr 7 2007,Ipswich Town FC,5-1,Barnsley FC
 41,Sat Apr 7 2007,Crystal Palace FC,3-0,Preston North End FC
 41,Sat Apr 7 2007,Coventry City FC,0-1,Queens Park Rangers FC
-42,Mon Apr 9 2007,Norwich City FC,1-2,West Bromwich Albion FC
-42,Mon Apr 9 2007,Southampton FC,1-2,Sunderland AFC
+41,Sat Apr 7 2007,Cardiff City FC,1-2,Sheffield Wednesday FC
+41,Sat Apr 7 2007,Luton Town FC,0-2,Southampton FC
 42,Mon Apr 9 2007,Wolverhampton Wanderers FC,3-1,Hull City AFC
 42,Mon Apr 9 2007,Stoke City FC,2-1,Crystal Palace FC
 42,Mon Apr 9 2007,Sheffield Wednesday FC,2-0,Ipswich Town FC
 42,Mon Apr 9 2007,Queens Park Rangers FC,3-2,Luton Town FC
 42,Mon Apr 9 2007,Preston North End FC,2-3,Southend United FC
-42,Mon Apr 9 2007,Burnley FC,2-0,Cardiff City FC
-42,Mon Apr 9 2007,Barnsley FC,1-0,Birmingham City FC
+42,Mon Apr 9 2007,Plymouth Argyle FC,3-0,Leicester City FC
+42,Mon Apr 9 2007,Norwich City FC,1-2,West Bromwich Albion FC
 42,Mon Apr 9 2007,Derby County FC,1-1,Coventry City FC
 42,Mon Apr 9 2007,Colchester United FC,2-1,Leeds United FC
-42,Mon Apr 9 2007,Plymouth Argyle FC,3-0,Leicester City FC
+42,Mon Apr 9 2007,Burnley FC,2-0,Cardiff City FC
+42,Mon Apr 9 2007,Barnsley FC,1-0,Birmingham City FC
+42,Mon Apr 9 2007,Southampton FC,1-2,Sunderland AFC
 43,Fri Apr 13 2007,West Bromwich Albion FC,0-1,Sheffield Wednesday FC
-43,Sat Apr 14 2007,Luton Town FC,1-2,Plymouth Argyle FC
-43,Sat Apr 14 2007,Coventry City FC,0-4,Preston North End FC
 43,Sat Apr 14 2007,Birmingham City FC,2-1,Southampton FC
 43,Sat Apr 14 2007,Southend United FC,1-3,Barnsley FC
-43,Sat Apr 14 2007,Cardiff City FC,1-1,Stoke City FC
+43,Sat Apr 14 2007,Luton Town FC,1-2,Plymouth Argyle FC
 43,Sat Apr 14 2007,Leicester City FC,1-2,Norwich City FC
 43,Sat Apr 14 2007,Sunderland AFC,2-1,Queens Park Rangers FC
 43,Sat Apr 14 2007,Ipswich Town FC,2-1,Derby County FC
 43,Sat Apr 14 2007,Hull City AFC,1-1,Colchester United FC
 43,Sat Apr 14 2007,Crystal Palace FC,2-2,Wolverhampton Wanderers FC
+43,Sat Apr 14 2007,Coventry City FC,0-4,Preston North End FC
+43,Sat Apr 14 2007,Cardiff City FC,1-1,Stoke City FC
 43,Sat Apr 14 2007,Leeds United FC,1-0,Burnley FC
-29,Tue Apr 17 2007,Burnley FC,3-0,Norwich City FC
 29,Tue Apr 17 2007,Leicester City FC,1-2,Birmingham City FC
+29,Tue Apr 17 2007,Burnley FC,3-0,Norwich City FC
 44,Fri Apr 20 2007,Derby County FC,1-0,Luton Town FC
 44,Sat Apr 21 2007,Sheffield Wednesday FC,2-1,Coventry City FC
 44,Sat Apr 21 2007,Southampton FC,1-0,Leeds United FC
 44,Sat Apr 21 2007,Stoke City FC,1-1,Hull City AFC
 44,Sat Apr 21 2007,Queens Park Rangers FC,1-0,Cardiff City FC
 44,Sat Apr 21 2007,Barnsley FC,2-0,Crystal Palace FC
-44,Sat Apr 21 2007,Preston North End FC,0-1,Leicester City FC
-44,Sat Apr 21 2007,Colchester United FC,3-1,Sunderland AFC
 44,Sat Apr 21 2007,Plymouth Argyle FC,2-1,Southend United FC
+44,Sat Apr 21 2007,Colchester United FC,3-1,Sunderland AFC
+44,Sat Apr 21 2007,Preston North End FC,0-1,Leicester City FC
 44,Sun Apr 22 2007,Wolverhampton Wanderers FC,2-3,Birmingham City FC
 44,Sun Apr 22 2007,Norwich City FC,1-1,Ipswich Town FC
 44,Mon Apr 23 2007,Burnley FC,1-3,West Bromwich Albion FC
 45,Fri Apr 27 2007,Sunderland AFC,3-2,Burnley FC
-45,Sat Apr 28 2007,Norwich City FC,0-1,Southampton FC
+45,Sat Apr 28 2007,Southend United FC,1-3,Luton Town FC
 45,Sat Apr 28 2007,Stoke City FC,3-1,Colchester United FC
 45,Sat Apr 28 2007,Wolverhampton Wanderers FC,2-0,Queens Park Rangers FC
 45,Sat Apr 28 2007,Plymouth Argyle FC,2-0,Preston North End FC
-45,Sat Apr 28 2007,Southend United FC,1-3,Luton Town FC
-45,Sat Apr 28 2007,Barnsley FC,0-1,Leicester City FC
+45,Sat Apr 28 2007,Norwich City FC,0-1,Southampton FC
+45,Sat Apr 28 2007,Leeds United FC,1-1,Ipswich Town FC
 45,Sat Apr 28 2007,Coventry City FC,0-1,West Bromwich Albion FC
 45,Sat Apr 28 2007,Cardiff City FC,0-1,Hull City AFC
 45,Sat Apr 28 2007,Birmingham City FC,2-0,Sheffield Wednesday FC
-45,Sat Apr 28 2007,Leeds United FC,1-1,Ipswich Town FC
+45,Sat Apr 28 2007,Barnsley FC,0-1,Leicester City FC
 45,Sun Apr 29 2007,Crystal Palace FC,2-0,Derby County FC
-46,Sun May 6 2007,West Bromwich Albion FC,7-0,Barnsley FC
+46,Sun May 6 2007,Luton Town FC,0-5,Sunderland AFC
 46,Sun May 6 2007,Southampton FC,4-1,Southend United FC
 46,Sun May 6 2007,Sheffield Wednesday FC,3-2,Norwich City FC
 46,Sun May 6 2007,Queens Park Rangers FC,1-1,Stoke City FC
 46,Sun May 6 2007,Preston North End FC,1-0,Birmingham City FC
-46,Sun May 6 2007,Luton Town FC,0-5,Sunderland AFC
+46,Sun May 6 2007,West Bromwich Albion FC,7-0,Barnsley FC
 46,Sun May 6 2007,Leicester City FC,1-4,Wolverhampton Wanderers FC
 46,Sun May 6 2007,Ipswich Town FC,3-1,Cardiff City FC
 46,Sun May 6 2007,Hull City AFC,1-2,Plymouth Argyle FC

@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Fri Aug 6 1999,York City FC,1-0,Swansea City FC
 1,Fri Aug 6 1999,Southend United FC,2-1,Plymouth Argyle FC
 1,Fri Aug 6 1999,Shrewsbury Town FC,1-2,Torquay United FC
@@ -16,25 +16,25 @@ Matchday,Date,Team 1,FT,Team 2
 2,Fri Aug 13 1999,Rotherham United FC,4-0,Chester FC
 2,Fri Aug 13 1999,Rochdale AFC,2-0,Southend United FC
 2,Fri Aug 13 1999,Plymouth Argyle FC,0-0,Shrewsbury Town FC
-2,Fri Aug 13 1999,Barnet FC,2-2,Exeter City FC
+2,Fri Aug 13 1999,Northampton Town FC,0-1,Peterborough United FC
 2,Fri Aug 13 1999,Mansfield Town FC,0-1,Cheltenham Town FC
 2,Fri Aug 13 1999,Leyton Orient FC,1-2,Brighton & Hove Albion FC
 2,Fri Aug 13 1999,Hull City AFC,1-1,Lincoln City FC
 2,Fri Aug 13 1999,Hartlepool United FC,0-2,FC Halifax Town
 2,Fri Aug 13 1999,Darlington FC,3-0,Macclesfield Town FC
-2,Fri Aug 13 1999,Northampton Town FC,0-1,Peterborough United FC
+2,Fri Aug 13 1999,Barnet FC,2-2,Exeter City FC
 3,Tue Aug 17 1999,Chester FC,0-2,Northampton Town FC
-3,Fri Aug 20 1999,Macclesfield Town FC,1-2,Swansea City FC
+3,Fri Aug 20 1999,York City FC,0-3,Rochdale AFC
 3,Fri Aug 20 1999,Southend United FC,1-0,Mansfield Town FC
 3,Fri Aug 20 1999,Shrewsbury Town FC,0-1,Darlington FC
-3,Fri Aug 20 1999,Brighton & Hove Albion FC,0-1,Torquay United FC
-3,Fri Aug 20 1999,York City FC,0-3,Rochdale AFC
+3,Fri Aug 20 1999,Peterborough United FC,2-1,Leyton Orient FC
+3,Fri Aug 20 1999,Macclesfield Town FC,1-2,Swansea City FC
 3,Fri Aug 20 1999,Lincoln City FC,0-0,Barnet FC
 3,Fri Aug 20 1999,FC Halifax Town,0-1,Plymouth Argyle FC
 3,Fri Aug 20 1999,Exeter City FC,3-1,Rotherham United FC
 3,Fri Aug 20 1999,Cheltenham Town FC,1-0,Hull City AFC
 3,Fri Aug 20 1999,Carlisle United FC,0-3,Hartlepool United FC
-3,Fri Aug 20 1999,Peterborough United FC,2-1,Leyton Orient FC
+3,Fri Aug 20 1999,Brighton & Hove Albion FC,0-1,Torquay United FC
 4,Thu Aug 26 1999,Northampton Town FC,1-0,Lincoln City FC
 4,Fri Aug 27 1999,Plymouth Argyle FC,2-1,Peterborough United FC
 4,Fri Aug 27 1999,Swansea City FC,3-1,Southend United FC
@@ -45,17 +45,17 @@ Matchday,Date,Team 1,FT,Team 2
 4,Fri Aug 27 1999,Leyton Orient FC,1-0,FC Halifax Town
 4,Fri Aug 27 1999,Hull City AFC,2-3,Macclesfield Town FC
 4,Fri Aug 27 1999,Hartlepool United FC,0-1,Cheltenham Town FC
-4,Fri Aug 27 1999,Rochdale AFC,0-2,Exeter City FC
 4,Fri Aug 27 1999,Darlington FC,1-1,Brighton & Hove Albion FC
+4,Fri Aug 27 1999,Rochdale AFC,0-2,Exeter City FC
 5,Sun Aug 29 1999,York City FC,0-1,Northampton Town FC
 5,Sun Aug 29 1999,Southend United FC,1-1,Leyton Orient FC
 5,Sun Aug 29 1999,Peterborough United FC,4-2,Darlington FC
 5,Sun Aug 29 1999,Macclesfield Town FC,1-1,Rotherham United FC
 5,Sun Aug 29 1999,Lincoln City FC,0-1,Swansea City FC
-5,Sun Aug 29 1999,Exeter City FC,1-0,Mansfield Town FC
+5,Sun Aug 29 1999,Carlisle United FC,4-2,Plymouth Argyle FC
 5,Sun Aug 29 1999,Chester FC,0-2,Rochdale AFC
 5,Sun Aug 29 1999,Cheltenham Town FC,1-2,Barnet FC
-5,Sun Aug 29 1999,Carlisle United FC,4-2,Plymouth Argyle FC
+5,Sun Aug 29 1999,Exeter City FC,1-0,Mansfield Town FC
 5,Mon Aug 30 1999,Shrewsbury Town FC,0-0,Hartlepool United FC
 5,Mon Aug 30 1999,Brighton & Hove Albion FC,3-0,Hull City AFC
 5,Mon Aug 30 1999,FC Halifax Town,2-0,Torquay United FC
@@ -66,11 +66,10 @@ Matchday,Date,Team 1,FT,Team 2
 6,Fri Sep 3 1999,Darlington FC,1-0,Exeter City FC
 6,Fri Sep 3 1999,Rotherham United FC,1-0,York City FC
 6,Fri Sep 3 1999,Northampton Town FC,0-0,Carlisle United FC
-6,Fri Sep 3 1999,Torquay United FC,5-2,Lincoln City FC
 6,Fri Sep 3 1999,Hartlepool United FC,1-2,Southend United FC
-6,Sat Sep 4 1999,Barnet FC,2-1,Macclesfield Town FC
+6,Fri Sep 3 1999,Torquay United FC,5-2,Lincoln City FC
 6,Sat Sep 4 1999,Plymouth Argyle FC,3-3,Brighton & Hove Albion FC
-7,Fri Sep 10 1999,York City FC,0-0,Peterborough United FC
+6,Sat Sep 4 1999,Barnet FC,2-1,Macclesfield Town FC
 7,Fri Sep 10 1999,Plymouth Argyle FC,1-1,Rotherham United FC
 7,Fri Sep 10 1999,Torquay United FC,0-1,Hull City AFC
 7,Fri Sep 10 1999,Swansea City FC,1-2,Barnet FC
@@ -81,21 +80,21 @@ Matchday,Date,Team 1,FT,Team 2
 7,Fri Sep 10 1999,Macclesfield Town FC,1-2,Southend United FC
 7,Fri Sep 10 1999,FC Halifax Town,2-1,Brighton & Hove Albion FC
 7,Fri Sep 10 1999,Chester FC,1-1,Exeter City FC
+7,Fri Sep 10 1999,York City FC,0-0,Peterborough United FC
 7,Sat Sep 11 1999,Cheltenham Town FC,0-1,Shrewsbury Town FC
-8,Fri Sep 17 1999,Leyton Orient FC,0-2,Torquay United FC
 8,Fri Sep 17 1999,Southend United FC,4-1,FC Halifax Town
 8,Fri Sep 17 1999,Shrewsbury Town FC,4-1,Carlisle United FC
 8,Fri Sep 17 1999,Rotherham United FC,0-1,Rochdale AFC
 8,Fri Sep 17 1999,Peterborough United FC,1-0,Cheltenham Town FC
 8,Fri Sep 17 1999,Lincoln City FC,1-1,Macclesfield Town FC
-8,Fri Sep 17 1999,Brighton & Hove Albion FC,2-3,Chester FC
-8,Fri Sep 17 1999,Barnet FC,2-1,Northampton Town FC
+8,Fri Sep 17 1999,Leyton Orient FC,0-2,Torquay United FC
+8,Fri Sep 17 1999,Hull City AFC,2-0,Swansea City FC
 8,Fri Sep 17 1999,Hartlepool United FC,3-0,Plymouth Argyle FC
 8,Fri Sep 17 1999,Exeter City FC,2-1,York City FC
 8,Fri Sep 17 1999,Darlington FC,0-0,Mansfield Town FC
-8,Fri Sep 17 1999,Hull City AFC,2-0,Swansea City FC
+8,Fri Sep 17 1999,Brighton & Hove Albion FC,2-3,Chester FC
+8,Fri Sep 17 1999,Barnet FC,2-1,Northampton Town FC
 9,Thu Sep 23 1999,Mansfield Town FC,4-0,Shrewsbury Town FC
-9,Fri Sep 24 1999,Leyton Orient FC,2-1,Hartlepool United FC
 9,Fri Sep 24 1999,Brighton & Hove Albion FC,1-0,Cheltenham Town FC
 9,Fri Sep 24 1999,Southend United FC,0-1,Peterborough United FC
 9,Fri Sep 24 1999,Rotherham United FC,3-0,Northampton Town FC
@@ -106,7 +105,7 @@ Matchday,Date,Team 1,FT,Team 2
 9,Fri Sep 24 1999,Exeter City FC,0-3,Macclesfield Town FC
 9,Fri Sep 24 1999,Darlington FC,2-0,Plymouth Argyle FC
 9,Fri Sep 24 1999,Chester FC,1-3,Lincoln City FC
-10,Fri Oct 1 1999,Northampton Town FC,0-1,Rochdale AFC
+9,Fri Sep 24 1999,Leyton Orient FC,2-1,Hartlepool United FC
 10,Fri Oct 1 1999,York City FC,2-2,Chester FC
 10,Fri Oct 1 1999,Swansea City FC,0-1,Mansfield Town FC
 10,Fri Oct 1 1999,Shrewsbury Town FC,0-0,FC Halifax Town
@@ -118,19 +117,19 @@ Matchday,Date,Team 1,FT,Team 2
 10,Fri Oct 1 1999,Hartlepool United FC,2-0,Darlington FC
 10,Fri Oct 1 1999,Cheltenham Town FC,0-2,Rotherham United FC
 10,Fri Oct 1 1999,Carlisle United FC,1-1,Southend United FC
-11,Fri Oct 8 1999,Northampton Town FC,3-0,Torquay United FC
+10,Fri Oct 1 1999,Northampton Town FC,0-1,Rochdale AFC
 11,Fri Oct 8 1999,York City FC,2-1,Leyton Orient FC
 11,Fri Oct 8 1999,Shrewsbury Town FC,1-4,Exeter City FC
 11,Fri Oct 8 1999,Plymouth Argyle FC,2-1,Mansfield Town FC
 11,Fri Oct 8 1999,Peterborough United FC,2-1,Chester FC
-11,Fri Oct 8 1999,Barnet FC,1-0,Rochdale AFC
-11,Fri Oct 8 1999,Carlisle United FC,0-1,Brighton & Hove Albion FC
+11,Fri Oct 8 1999,Northampton Town FC,3-0,Torquay United FC
+11,Fri Oct 8 1999,Macclesfield Town FC,0-2,FC Halifax Town
 11,Fri Oct 8 1999,Lincoln City FC,1-0,Darlington FC
 11,Fri Oct 8 1999,Hartlepool United FC,2-0,Hull City AFC
 11,Fri Oct 8 1999,Cheltenham Town FC,2-1,Southend United FC
-11,Fri Oct 8 1999,Macclesfield Town FC,0-2,FC Halifax Town
+11,Fri Oct 8 1999,Carlisle United FC,0-1,Brighton & Hove Albion FC
+11,Fri Oct 8 1999,Barnet FC,1-0,Rochdale AFC
 11,Mon Oct 11 1999,Swansea City FC,2-0,Rotherham United FC
-12,Fri Oct 15 1999,Darlington FC,1-0,Cheltenham Town FC
 12,Fri Oct 15 1999,Torquay United FC,1-0,Swansea City FC
 12,Fri Oct 15 1999,Southend United FC,3-2,Shrewsbury Town FC
 12,Fri Oct 15 1999,Rotherham United FC,2-0,Barnet FC
@@ -139,82 +138,83 @@ Matchday,Date,Team 1,FT,Team 2
 12,Fri Oct 15 1999,Leyton Orient FC,2-3,Lincoln City FC
 12,Fri Oct 15 1999,Hull City AFC,0-1,Northampton Town FC
 12,Fri Oct 15 1999,FC Halifax Town,2-1,Peterborough United FC
-12,Fri Oct 15 1999,Chester FC,1-2,Macclesfield Town FC
-12,Fri Oct 15 1999,Brighton & Hove Albion FC,0-1,York City FC
 12,Fri Oct 15 1999,Exeter City FC,1-1,Carlisle United FC
-13,Mon Oct 18 1999,Brighton & Hove Albion FC,1-0,Shrewsbury Town FC
+12,Fri Oct 15 1999,Brighton & Hove Albion FC,0-1,York City FC
+12,Fri Oct 15 1999,Chester FC,1-2,Macclesfield Town FC
+12,Fri Oct 15 1999,Darlington FC,1-0,Cheltenham Town FC
 13,Mon Oct 18 1999,Torquay United FC,2-1,Peterborough United FC
 13,Mon Oct 18 1999,Southend United FC,2-2,Lincoln City FC
 13,Mon Oct 18 1999,Rotherham United FC,3-0,Hartlepool United FC
 13,Mon Oct 18 1999,Rochdale AFC,0-1,Macclesfield Town FC
 13,Mon Oct 18 1999,Mansfield Town FC,0-0,Northampton Town FC
-13,Mon Oct 18 1999,Chester FC,2-1,Cheltenham Town FC
+13,Mon Oct 18 1999,Leyton Orient FC,0-0,Barnet FC
 13,Mon Oct 18 1999,Hull City AFC,0-1,Plymouth Argyle FC
 13,Mon Oct 18 1999,FC Halifax Town,0-2,York City FC
 13,Mon Oct 18 1999,Exeter City FC,1-1,Swansea City FC
 13,Mon Oct 18 1999,Darlington FC,3-1,Carlisle United FC
-13,Mon Oct 18 1999,Leyton Orient FC,0-0,Barnet FC
+13,Mon Oct 18 1999,Chester FC,2-1,Cheltenham Town FC
+13,Mon Oct 18 1999,Brighton & Hove Albion FC,1-0,Shrewsbury Town FC
 14,Thu Oct 21 1999,Swansea City FC,1-0,Rochdale AFC
-14,Fri Oct 22 1999,Peterborough United FC,1-0,Southend United FC
 14,Fri Oct 22 1999,Northampton Town FC,0-1,Rotherham United FC
 14,Fri Oct 22 1999,Shrewsbury Town FC,1-2,Mansfield Town FC
 14,Fri Oct 22 1999,Plymouth Argyle FC,0-0,Darlington FC
-14,Fri Oct 22 1999,Macclesfield Town FC,1-0,Exeter City FC
+14,Fri Oct 22 1999,Peterborough United FC,1-0,Southend United FC
 14,Fri Oct 22 1999,York City FC,1-1,Hull City AFC
 14,Fri Oct 22 1999,Barnet FC,1-2,Torquay United FC
 14,Fri Oct 22 1999,Lincoln City FC,4-1,Chester FC
 14,Fri Oct 22 1999,Hartlepool United FC,1-0,Leyton Orient FC
 14,Fri Oct 22 1999,Cheltenham Town FC,0-0,Brighton & Hove Albion FC
 14,Fri Oct 22 1999,Carlisle United FC,1-1,FC Halifax Town
-15,Mon Nov 1 1999,Carlisle United FC,0-1,York City FC
+14,Fri Oct 22 1999,Macclesfield Town FC,1-0,Exeter City FC
 15,Mon Nov 1 1999,Southend United FC,2-1,Brighton & Hove Albion FC
 15,Mon Nov 1 1999,Shrewsbury Town FC,0-1,Chester FC
 15,Mon Nov 1 1999,Rotherham United FC,1-0,Torquay United FC
 15,Mon Nov 1 1999,Rochdale AFC,0-2,Hull City AFC
 15,Mon Nov 1 1999,Plymouth Argyle FC,1-0,Exeter City FC
-15,Mon Nov 1 1999,Darlington FC,3-1,Leyton Orient FC
+15,Mon Nov 1 1999,Northampton Town FC,2-1,Swansea City FC
 15,Mon Nov 1 1999,Macclesfield Town FC,5-2,Mansfield Town FC
 15,Mon Nov 1 1999,Lincoln City FC,1-2,Peterborough United FC
 15,Mon Nov 1 1999,Hartlepool United FC,3-0,Barnet FC
 15,Mon Nov 1 1999,FC Halifax Town,1-1,Cheltenham Town FC
-15,Mon Nov 1 1999,Northampton Town FC,2-1,Swansea City FC
+15,Mon Nov 1 1999,Darlington FC,3-1,Leyton Orient FC
+15,Mon Nov 1 1999,Carlisle United FC,0-1,York City FC
 16,Thu Nov 4 1999,Swansea City FC,3-1,FC Halifax Town
-16,Fri Nov 5 1999,Mansfield Town FC,5-2,Lincoln City FC
 16,Fri Nov 5 1999,York City FC,0-2,Macclesfield Town FC
 16,Fri Nov 5 1999,Torquay United FC,1-0,Rochdale AFC
 16,Fri Nov 5 1999,Peterborough United FC,4-1,Shrewsbury Town FC
-16,Fri Nov 5 1999,Brighton & Hove Albion FC,1-0,Hartlepool United FC
+16,Fri Nov 5 1999,Mansfield Town FC,5-2,Lincoln City FC
 16,Fri Nov 5 1999,Leyton Orient FC,0-0,Northampton Town FC
 16,Fri Nov 5 1999,Hull City AFC,0-0,Rotherham United FC
 16,Fri Nov 5 1999,Exeter City FC,0-1,Southend United FC
 16,Fri Nov 5 1999,Chester FC,0-1,Plymouth Argyle FC
-16,Fri Nov 5 1999,Barnet FC,1-0,Darlington FC
 16,Fri Nov 5 1999,Cheltenham Town FC,3-1,Carlisle United FC
-17,Thu Nov 11 1999,Darlington FC,1-1,Torquay United FC
+16,Fri Nov 5 1999,Barnet FC,1-0,Darlington FC
+16,Fri Nov 5 1999,Brighton & Hove Albion FC,1-0,Hartlepool United FC
 17,Thu Nov 11 1999,Southend United FC,1-2,Hull City AFC
 17,Thu Nov 11 1999,Shrewsbury Town FC,1-1,Swansea City FC
 17,Thu Nov 11 1999,Rotherham United FC,0-1,Leyton Orient FC
-17,Thu Nov 11 1999,Carlisle United FC,1-1,Peterborough United FC
+17,Thu Nov 11 1999,Northampton Town FC,3-2,Cheltenham Town FC
 17,Thu Nov 11 1999,Lincoln City FC,4-2,York City FC
 17,Thu Nov 11 1999,FC Halifax Town,1-0,Exeter City FC
-17,Thu Nov 11 1999,Northampton Town FC,3-2,Cheltenham Town FC
+17,Thu Nov 11 1999,Carlisle United FC,1-1,Peterborough United FC
+17,Thu Nov 11 1999,Darlington FC,1-1,Torquay United FC
 17,Fri Nov 12 1999,Hartlepool United FC,1-0,Chester FC
-17,Sat Nov 13 1999,Macclesfield Town FC,1-1,Brighton & Hove Albion FC
 17,Sat Nov 13 1999,Rochdale AFC,2-1,Mansfield Town FC
 17,Sat Nov 13 1999,Plymouth Argyle FC,4-1,Barnet FC
+17,Sat Nov 13 1999,Macclesfield Town FC,1-1,Brighton & Hove Albion FC
 6,Mon Nov 15 1999,Swansea City FC,0-0,Cheltenham Town FC
 18,Fri Nov 19 1999,Peterborough United FC,2-2,Macclesfield Town FC
-18,Mon Nov 22 1999,Leyton Orient FC,0-0,Rochdale AFC
+18,Mon Nov 22 1999,Swansea City FC,0-0,Darlington FC
 18,Mon Nov 22 1999,Torquay United FC,0-0,Hartlepool United FC
 18,Mon Nov 22 1999,York City FC,1-0,Shrewsbury Town FC
 18,Mon Nov 22 1999,Mansfield Town FC,1-2,Rotherham United FC
-18,Mon Nov 22 1999,Swansea City FC,0-0,Darlington FC
+18,Mon Nov 22 1999,Leyton Orient FC,0-0,Rochdale AFC
 18,Mon Nov 22 1999,Hull City AFC,0-1,FC Halifax Town
-18,Mon Nov 22 1999,Exeter City FC,1-2,Northampton Town FC
+18,Mon Nov 22 1999,Barnet FC,3-0,Carlisle United FC
 18,Mon Nov 22 1999,Chester FC,0-0,Southend United FC
 18,Mon Nov 22 1999,Cheltenham Town FC,2-0,Plymouth Argyle FC
 18,Mon Nov 22 1999,Brighton & Hove Albion FC,2-2,Lincoln City FC
-18,Mon Nov 22 1999,Barnet FC,3-0,Carlisle United FC
+18,Mon Nov 22 1999,Exeter City FC,1-2,Northampton Town FC
 19,Fri Nov 26 1999,York City FC,0-0,Plymouth Argyle FC
 19,Fri Nov 26 1999,Southend United FC,1-2,Darlington FC
 19,Fri Nov 26 1999,Shrewsbury Town FC,3-0,Hull City AFC
@@ -229,7 +229,7 @@ Matchday,Date,Team 1,FT,Team 2
 19,Fri Nov 26 1999,Brighton & Hove Albion FC,1-3,Northampton Town FC
 20,Fri Dec 3 1999,Torquay United FC,3-1,Shrewsbury Town FC
 20,Fri Dec 3 1999,Swansea City FC,1-0,York City FC
-20,Fri Dec 3 1999,Plymouth Argyle FC,3-1,Southend United FC
+20,Fri Dec 3 1999,Rotherham United FC,1-1,Lincoln City FC
 20,Fri Dec 3 1999,Rochdale AFC,0-0,Cheltenham Town FC
 20,Fri Dec 3 1999,Barnet FC,2-0,Chester FC
 20,Fri Dec 3 1999,Northampton Town FC,2-0,Macclesfield Town FC
@@ -237,37 +237,42 @@ Matchday,Date,Team 1,FT,Team 2
 20,Fri Dec 3 1999,Hull City AFC,4-0,Exeter City FC
 20,Fri Dec 3 1999,Hartlepool United FC,1-0,Peterborough United FC
 20,Fri Dec 3 1999,Darlington FC,4-0,FC Halifax Town
-20,Fri Dec 3 1999,Rotherham United FC,1-1,Lincoln City FC
-21,Thu Dec 9 1999,Brighton & Hove Albion FC,3-4,Rochdale AFC
+20,Fri Dec 3 1999,Plymouth Argyle FC,3-1,Southend United FC
 21,Thu Dec 9 1999,Southend United FC,1-3,Barnet FC
-21,Fri Dec 10 1999,FC Halifax Town,0-0,Rotherham United FC
-21,Fri Dec 10 1999,Cheltenham Town FC,1-1,Macclesfield Town FC
-21,Fri Dec 10 1999,Hartlepool United FC,0-1,Swansea City FC
+21,Thu Dec 9 1999,Brighton & Hove Albion FC,3-4,Rochdale AFC
 21,Fri Dec 10 1999,Shrewsbury Town FC,1-0,Northampton Town FC
+21,Fri Dec 10 1999,Hartlepool United FC,0-1,Swansea City FC
+21,Fri Dec 10 1999,Cheltenham Town FC,1-1,Macclesfield Town FC
+21,Fri Dec 10 1999,FC Halifax Town,0-0,Rotherham United FC
 21,Mon Dec 13 1999,Carlisle United FC,0-0,Torquay United FC
 21,Tue Dec 14 1999,Darlington FC,3-1,Chester FC
-22,Thu Dec 16 1999,Northampton Town FC,1-1,Plymouth Argyle FC
 22,Thu Dec 16 1999,York City FC,2-2,Southend United FC
+22,Thu Dec 16 1999,Northampton Town FC,1-1,Plymouth Argyle FC
+22,Fri Dec 17 1999,Swansea City FC,2-0,Brighton & Hove Albion FC
+22,Fri Dec 17 1999,Rotherham United FC,2-1,Darlington FC
+22,Fri Dec 17 1999,Macclesfield Town FC,1-0,Leyton Orient FC
+22,Fri Dec 17 1999,Lincoln City FC,1-2,Shrewsbury Town FC
 22,Fri Dec 17 1999,Hull City AFC,2-1,Carlisle United FC
 22,Fri Dec 17 1999,Exeter City FC,1-2,Hartlepool United FC
 22,Fri Dec 17 1999,Chester FC,2-1,FC Halifax Town
 22,Fri Dec 17 1999,Barnet FC,0-0,Mansfield Town FC
-22,Fri Dec 17 1999,Macclesfield Town FC,1-0,Leyton Orient FC
-22,Fri Dec 17 1999,Swansea City FC,2-0,Brighton & Hove Albion FC
-22,Fri Dec 17 1999,Rotherham United FC,2-1,Darlington FC
-22,Fri Dec 17 1999,Lincoln City FC,1-2,Shrewsbury Town FC
-23,Sat Dec 25 1999,FC Halifax Town,3-0,Lincoln City FC
+23,Sat Dec 25 1999,Shrewsbury Town FC,0-1,Macclesfield Town FC
+23,Sat Dec 25 1999,Southend United FC,2-2,Northampton Town FC
+23,Sat Dec 25 1999,Plymouth Argyle FC,2-2,Torquay United FC
+23,Sat Dec 25 1999,Peterborough United FC,0-5,Rotherham United FC
+23,Sat Dec 25 1999,Mansfield Town FC,2-1,Chester FC
+23,Sat Dec 25 1999,Leyton Orient FC,0-1,Swansea City FC
+23,Sat Dec 25 1999,Hartlepool United FC,2-1,York City FC
 23,Sat Dec 25 1999,Brighton & Hove Albion FC,1-1,Barnet FC
 23,Sat Dec 25 1999,Darlington FC,0-0,Hull City AFC
 23,Sat Dec 25 1999,Cheltenham Town FC,3-1,Exeter City FC
 23,Sat Dec 25 1999,Carlisle United FC,1-2,Rochdale AFC
-23,Sat Dec 25 1999,Hartlepool United FC,2-1,York City FC
-23,Sat Dec 25 1999,Leyton Orient FC,0-1,Swansea City FC
-23,Sat Dec 25 1999,Mansfield Town FC,2-1,Chester FC
-23,Sat Dec 25 1999,Southend United FC,2-2,Northampton Town FC
-23,Sat Dec 25 1999,Plymouth Argyle FC,2-2,Torquay United FC
-23,Sat Dec 25 1999,Peterborough United FC,0-5,Rotherham United FC
-23,Sat Dec 25 1999,Shrewsbury Town FC,0-1,Macclesfield Town FC
+23,Sat Dec 25 1999,FC Halifax Town,3-0,Lincoln City FC
+24,Mon Dec 27 1999,York City FC,1-2,Cheltenham Town FC
+24,Mon Dec 27 1999,Torquay United FC,0-1,Southend United FC
+24,Mon Dec 27 1999,Barnet FC,0-1,FC Halifax Town
+24,Mon Dec 27 1999,Chester FC,1-5,Leyton Orient FC
+24,Mon Dec 27 1999,Exeter City FC,2-2,Peterborough United FC
 24,Mon Dec 27 1999,Hull City AFC,2-0,Mansfield Town FC
 24,Mon Dec 27 1999,Lincoln City FC,1-2,Hartlepool United FC
 24,Mon Dec 27 1999,Swansea City FC,1-0,Plymouth Argyle FC
@@ -275,222 +280,216 @@ Matchday,Date,Team 1,FT,Team 2
 24,Mon Dec 27 1999,Rochdale AFC,2-1,Shrewsbury Town FC
 24,Mon Dec 27 1999,Rotherham United FC,1-3,Brighton & Hove Albion FC
 24,Mon Dec 27 1999,Macclesfield Town FC,2-1,Carlisle United FC
-24,Mon Dec 27 1999,Exeter City FC,2-2,Peterborough United FC
-24,Mon Dec 27 1999,Torquay United FC,0-1,Southend United FC
-24,Mon Dec 27 1999,Barnet FC,0-1,FC Halifax Town
-24,Mon Dec 27 1999,Chester FC,1-5,Leyton Orient FC
-24,Mon Dec 27 1999,York City FC,1-2,Cheltenham Town FC
-25,Sun Jan 2 2000,Brighton & Hove Albion FC,4-2,Exeter City FC
-25,Sun Jan 2 2000,Carlisle United FC,4-1,Chester FC
-25,Sun Jan 2 2000,Cheltenham Town FC,0-2,Lincoln City FC
-25,Sun Jan 2 2000,FC Halifax Town,2-2,Northampton Town FC
-25,Sun Jan 2 2000,Hartlepool United FC,3-2,Rochdale AFC
-25,Sun Jan 2 2000,Leyton Orient FC,0-0,Hull City AFC
-25,Sun Jan 2 2000,Mansfield Town FC,4-3,Torquay United FC
 25,Sun Jan 2 2000,Southend United FC,1-2,Rotherham United FC
 25,Sun Jan 2 2000,Shrewsbury Town FC,1-1,Barnet FC
 25,Sun Jan 2 2000,Plymouth Argyle FC,3-2,Macclesfield Town FC
 25,Sun Jan 2 2000,Peterborough United FC,2-3,Swansea City FC
-26,Fri Jan 7 2000,Rotherham United FC,0-1,FC Halifax Town
-26,Fri Jan 7 2000,Rochdale AFC,1-0,Brighton & Hove Albion FC
-26,Fri Jan 7 2000,Northampton Town FC,3-0,Shrewsbury Town FC
-26,Fri Jan 7 2000,Chester FC,1-2,Darlington FC
-26,Fri Jan 7 2000,Exeter City FC,1-3,Leyton Orient FC
-26,Fri Jan 7 2000,Hull City AFC,2-3,Peterborough United FC
-26,Fri Jan 7 2000,Macclesfield Town FC,1-2,Cheltenham Town FC
-26,Fri Jan 7 2000,Barnet FC,2-1,Southend United FC
+25,Sun Jan 2 2000,Mansfield Town FC,4-3,Torquay United FC
+25,Sun Jan 2 2000,Leyton Orient FC,0-0,Hull City AFC
+25,Sun Jan 2 2000,Hartlepool United FC,3-2,Rochdale AFC
+25,Sun Jan 2 2000,FC Halifax Town,2-2,Northampton Town FC
+25,Sun Jan 2 2000,Cheltenham Town FC,0-2,Lincoln City FC
+25,Sun Jan 2 2000,Carlisle United FC,4-1,Chester FC
+25,Sun Jan 2 2000,Brighton & Hove Albion FC,4-2,Exeter City FC
 26,Fri Jan 7 2000,York City FC,0-1,Mansfield Town FC
 26,Fri Jan 7 2000,Torquay United FC,4-1,Carlisle United FC
 26,Fri Jan 7 2000,Swansea City FC,2-1,Hartlepool United FC
-27,Fri Jan 14 2000,FC Halifax Town,1-1,Hartlepool United FC
-27,Fri Jan 14 2000,Macclesfield Town FC,2-1,Darlington FC
-27,Fri Jan 14 2000,Shrewsbury Town FC,0-0,Plymouth Argyle FC
-27,Fri Jan 14 2000,Lincoln City FC,2-1,Hull City AFC
-27,Fri Jan 14 2000,York City FC,2-2,Torquay United FC
-27,Fri Jan 14 2000,Cheltenham Town FC,1-0,Mansfield Town FC
-27,Fri Jan 14 2000,Southend United FC,3-3,Rochdale AFC
-27,Fri Jan 14 2000,Exeter City FC,0-0,Barnet FC
-27,Fri Jan 14 2000,Peterborough United FC,1-0,Northampton Town FC
+26,Fri Jan 7 2000,Rotherham United FC,0-1,FC Halifax Town
+26,Fri Jan 7 2000,Rochdale AFC,1-0,Brighton & Hove Albion FC
+26,Fri Jan 7 2000,Barnet FC,2-1,Southend United FC
+26,Fri Jan 7 2000,Macclesfield Town FC,1-2,Cheltenham Town FC
+26,Fri Jan 7 2000,Hull City AFC,2-3,Peterborough United FC
+26,Fri Jan 7 2000,Exeter City FC,1-3,Leyton Orient FC
+26,Fri Jan 7 2000,Chester FC,1-2,Darlington FC
+26,Fri Jan 7 2000,Northampton Town FC,3-0,Shrewsbury Town FC
 27,Fri Jan 14 2000,Brighton & Hove Albion FC,0-1,Leyton Orient FC
+27,Fri Jan 14 2000,Southend United FC,3-3,Rochdale AFC
+27,Fri Jan 14 2000,Shrewsbury Town FC,0-0,Plymouth Argyle FC
+27,Fri Jan 14 2000,Peterborough United FC,1-0,Northampton Town FC
+27,Fri Jan 14 2000,Macclesfield Town FC,2-1,Darlington FC
+27,Fri Jan 14 2000,Lincoln City FC,2-1,Hull City AFC
+27,Fri Jan 14 2000,FC Halifax Town,1-1,Hartlepool United FC
+27,Fri Jan 14 2000,Exeter City FC,0-0,Barnet FC
 27,Fri Jan 14 2000,Chester FC,0-2,Rotherham United FC
+27,Fri Jan 14 2000,Cheltenham Town FC,1-0,Mansfield Town FC
+27,Fri Jan 14 2000,York City FC,2-2,Torquay United FC
 25,Mon Jan 17 2000,Darlington FC,2-2,York City FC
-28,Fri Jan 21 2000,Northampton Town FC,3-1,Chester FC
-28,Fri Jan 21 2000,Rochdale AFC,2-1,York City FC
+28,Fri Jan 21 2000,Plymouth Argyle FC,1-1,FC Halifax Town
 28,Fri Jan 21 2000,Barnet FC,5-3,Lincoln City FC
+28,Fri Jan 21 2000,Rotherham United FC,5-0,Exeter City FC
+28,Fri Jan 21 2000,Rochdale AFC,2-1,York City FC
+28,Fri Jan 21 2000,Torquay United FC,0-0,Brighton & Hove Albion FC
+28,Fri Jan 21 2000,Northampton Town FC,3-1,Chester FC
 28,Fri Jan 21 2000,Mansfield Town FC,3-1,Southend United FC
 28,Fri Jan 21 2000,Leyton Orient FC,1-1,Peterborough United FC
 28,Fri Jan 21 2000,Hull City AFC,1-1,Cheltenham Town FC
 28,Fri Jan 21 2000,Hartlepool United FC,1-0,Carlisle United FC
 28,Fri Jan 21 2000,Swansea City FC,1-0,Macclesfield Town FC
-28,Fri Jan 21 2000,Rotherham United FC,5-0,Exeter City FC
-28,Fri Jan 21 2000,Plymouth Argyle FC,1-1,FC Halifax Town
-28,Fri Jan 21 2000,Torquay United FC,0-0,Brighton & Hove Albion FC
-29,Fri Jan 28 2000,Cheltenham Town FC,2-1,Hartlepool United FC
-29,Fri Jan 28 2000,Macclesfield Town FC,0-2,Hull City AFC
-29,Fri Jan 28 2000,Peterborough United FC,2-0,Plymouth Argyle FC
-29,Fri Jan 28 2000,Shrewsbury Town FC,0-0,Rotherham United FC
-29,Fri Jan 28 2000,Exeter City FC,2-0,Rochdale AFC
-29,Fri Jan 28 2000,Carlisle United FC,0-2,Mansfield Town FC
-29,Fri Jan 28 2000,Chester FC,2-1,Torquay United FC
-29,Fri Jan 28 2000,Southend United FC,2-1,Swansea City FC
-29,Fri Jan 28 2000,FC Halifax Town,0-2,Leyton Orient FC
-29,Fri Jan 28 2000,Lincoln City FC,2-2,Northampton Town FC
 29,Fri Jan 28 2000,York City FC,1-0,Barnet FC
+29,Fri Jan 28 2000,Southend United FC,2-1,Swansea City FC
+29,Fri Jan 28 2000,Shrewsbury Town FC,0-0,Rotherham United FC
+29,Fri Jan 28 2000,Peterborough United FC,2-0,Plymouth Argyle FC
+29,Fri Jan 28 2000,Macclesfield Town FC,0-2,Hull City AFC
+29,Fri Jan 28 2000,Lincoln City FC,2-2,Northampton Town FC
+29,Fri Jan 28 2000,FC Halifax Town,0-2,Leyton Orient FC
 29,Fri Jan 28 2000,Brighton & Hove Albion FC,1-1,Darlington FC
+29,Fri Jan 28 2000,Chester FC,2-1,Torquay United FC
+29,Fri Jan 28 2000,Cheltenham Town FC,2-1,Hartlepool United FC
+29,Fri Jan 28 2000,Carlisle United FC,0-2,Mansfield Town FC
+29,Fri Jan 28 2000,Exeter City FC,2-0,Rochdale AFC
 20,Mon Jan 31 2000,Mansfield Town FC,1-0,Brighton & Hove Albion FC
 30,Thu Feb 3 2000,Mansfield Town FC,1-1,Exeter City FC
 30,Thu Feb 3 2000,Swansea City FC,2-1,Lincoln City FC
 30,Fri Feb 4 2000,Torquay United FC,4-0,FC Halifax Town
-30,Fri Feb 4 2000,Plymouth Argyle FC,2-0,Carlisle United FC
 30,Fri Feb 4 2000,Rotherham United FC,2-1,Macclesfield Town FC
-30,Fri Feb 4 2000,Leyton Orient FC,2-1,Southend United FC
-30,Fri Feb 4 2000,Hartlepool United FC,1-0,Shrewsbury Town FC
+30,Fri Feb 4 2000,Rochdale AFC,2-1,Chester FC
+30,Fri Feb 4 2000,Plymouth Argyle FC,2-0,Carlisle United FC
 30,Fri Feb 4 2000,Northampton Town FC,3-0,York City FC
 30,Fri Feb 4 2000,Barnet FC,3-2,Cheltenham Town FC
 30,Fri Feb 4 2000,Hull City AFC,2-0,Brighton & Hove Albion FC
-30,Fri Feb 4 2000,Rochdale AFC,2-1,Chester FC
+30,Fri Feb 4 2000,Hartlepool United FC,1-0,Shrewsbury Town FC
+30,Fri Feb 4 2000,Leyton Orient FC,2-1,Southend United FC
 30,Sat Feb 5 2000,Darlington FC,2-0,Peterborough United FC
-21,Mon Feb 7 2000,Leyton Orient FC,4-1,Exeter City FC
 21,Mon Feb 7 2000,Mansfield Town FC,1-0,York City FC
-31,Fri Feb 11 2000,Exeter City FC,1-4,Darlington FC
-31,Fri Feb 11 2000,Brighton & Hove Albion FC,1-1,Plymouth Argyle FC
-31,Fri Feb 11 2000,Macclesfield Town FC,2-0,Barnet FC
-31,Fri Feb 11 2000,Peterborough United FC,1-0,Mansfield Town FC
-31,Fri Feb 11 2000,FC Halifax Town,0-2,Rochdale AFC
-31,Fri Feb 11 2000,Lincoln City FC,2-1,Torquay United FC
-31,Fri Feb 11 2000,Shrewsbury Town FC,1-0,Leyton Orient FC
+21,Mon Feb 7 2000,Leyton Orient FC,4-1,Exeter City FC
 31,Fri Feb 11 2000,York City FC,1-2,Rotherham United FC
 31,Fri Feb 11 2000,Southend United FC,2-1,Hartlepool United FC
+31,Fri Feb 11 2000,Shrewsbury Town FC,1-0,Leyton Orient FC
+31,Fri Feb 11 2000,Peterborough United FC,1-0,Mansfield Town FC
+31,Fri Feb 11 2000,Macclesfield Town FC,2-0,Barnet FC
+31,Fri Feb 11 2000,Brighton & Hove Albion FC,1-1,Plymouth Argyle FC
+31,Fri Feb 11 2000,FC Halifax Town,0-2,Rochdale AFC
+31,Fri Feb 11 2000,Exeter City FC,1-4,Darlington FC
 31,Fri Feb 11 2000,Chester FC,0-0,Hull City AFC
+31,Fri Feb 11 2000,Lincoln City FC,2-1,Torquay United FC
 31,Sat Feb 12 2000,Cheltenham Town FC,0-0,Swansea City FC
 32,Thu Feb 17 2000,Swansea City FC,2-1,Chester FC
-32,Fri Feb 18 2000,Hull City AFC,0-0,Shrewsbury Town FC
-32,Fri Feb 18 2000,Barnet FC,0-2,Peterborough United FC
-32,Fri Feb 18 2000,Leyton Orient FC,1-0,Cheltenham Town FC
-32,Fri Feb 18 2000,Darlington FC,1-0,Southend United FC
-32,Fri Feb 18 2000,Plymouth Argyle FC,2-0,York City FC
-32,Fri Feb 18 2000,Rochdale AFC,1-1,Lincoln City FC
-32,Fri Feb 18 2000,Mansfield Town FC,0-2,FC Halifax Town
-32,Fri Feb 18 2000,Hartlepool United FC,1-4,Macclesfield Town FC
 32,Fri Feb 18 2000,Torquay United FC,1-0,Exeter City FC
 32,Fri Feb 18 2000,Rotherham United FC,4-2,Carlisle United FC
+32,Fri Feb 18 2000,Rochdale AFC,1-1,Lincoln City FC
+32,Fri Feb 18 2000,Plymouth Argyle FC,2-0,York City FC
 32,Fri Feb 18 2000,Northampton Town FC,1-0,Brighton & Hove Albion FC
+32,Fri Feb 18 2000,Mansfield Town FC,0-2,FC Halifax Town
+32,Fri Feb 18 2000,Barnet FC,0-2,Peterborough United FC
+32,Fri Feb 18 2000,Hull City AFC,0-0,Shrewsbury Town FC
+32,Fri Feb 18 2000,Hartlepool United FC,1-4,Macclesfield Town FC
+32,Fri Feb 18 2000,Darlington FC,1-0,Southend United FC
+32,Fri Feb 18 2000,Leyton Orient FC,1-0,Cheltenham Town FC
 21,Mon Feb 21 2000,Peterborough United FC,2-1,Hull City AFC
 26,Mon Feb 21 2000,Lincoln City FC,3-0,Plymouth Argyle FC
-33,Fri Feb 25 2000,Macclesfield Town FC,1-1,Lincoln City FC
-33,Fri Feb 25 2000,Mansfield Town FC,1-2,Darlington FC
-33,Fri Feb 25 2000,FC Halifax Town,0-0,Southend United FC
-33,Fri Feb 25 2000,Cheltenham Town FC,2-1,Peterborough United FC
-33,Fri Feb 25 2000,Carlisle United FC,1-1,Shrewsbury Town FC
-33,Fri Feb 25 2000,Chester FC,1-7,Brighton & Hove Albion FC
 33,Fri Feb 25 2000,Plymouth Argyle FC,1-1,Hartlepool United FC
-33,Fri Feb 25 2000,Northampton Town FC,1-0,Barnet FC
+33,Fri Feb 25 2000,Torquay United FC,0-0,Leyton Orient FC
 33,Fri Feb 25 2000,Swansea City FC,0-0,Hull City AFC
 33,Fri Feb 25 2000,Rochdale AFC,0-1,Rotherham United FC
 33,Fri Feb 25 2000,York City FC,0-0,Exeter City FC
-33,Fri Feb 25 2000,Torquay United FC,0-0,Leyton Orient FC
+33,Fri Feb 25 2000,Northampton Town FC,1-0,Barnet FC
+33,Fri Feb 25 2000,Mansfield Town FC,1-2,Darlington FC
+33,Fri Feb 25 2000,Macclesfield Town FC,1-1,Lincoln City FC
+33,Fri Feb 25 2000,FC Halifax Town,0-0,Southend United FC
+33,Fri Feb 25 2000,Chester FC,1-7,Brighton & Hove Albion FC
+33,Fri Feb 25 2000,Carlisle United FC,1-1,Shrewsbury Town FC
+33,Fri Feb 25 2000,Cheltenham Town FC,2-1,Peterborough United FC
 34,Thu Mar 2 2000,Southend United FC,1-0,Macclesfield Town FC
-34,Fri Mar 3 2000,Exeter City FC,0-2,Chester FC
-34,Fri Mar 3 2000,Hull City AFC,0-0,Torquay United FC
-34,Fri Mar 3 2000,Brighton & Hove Albion FC,2-1,FC Halifax Town
-34,Fri Mar 3 2000,Barnet FC,0-1,Swansea City FC
-34,Fri Mar 3 2000,Hartlepool United FC,2-1,Northampton Town FC
-34,Fri Mar 3 2000,Darlington FC,4-1,Rochdale AFC
 34,Fri Mar 3 2000,Shrewsbury Town FC,0-2,Cheltenham Town FC
 34,Fri Mar 3 2000,Rotherham United FC,1-1,Plymouth Argyle FC
 34,Fri Mar 3 2000,Peterborough United FC,2-0,York City FC
 34,Fri Mar 3 2000,Lincoln City FC,5-0,Carlisle United FC
 34,Fri Mar 3 2000,Leyton Orient FC,1-3,Mansfield Town FC
-35,Mon Mar 6 2000,FC Halifax Town,0-1,Swansea City FC
-35,Mon Mar 6 2000,Darlington FC,4-0,Barnet FC
-35,Mon Mar 6 2000,Northampton Town FC,2-1,Leyton Orient FC
-35,Mon Mar 6 2000,Hartlepool United FC,0-0,Brighton & Hove Albion FC
-35,Mon Mar 6 2000,Lincoln City FC,3-0,Mansfield Town FC
-35,Mon Mar 6 2000,Macclesfield Town FC,1-1,York City FC
-35,Mon Mar 6 2000,Plymouth Argyle FC,0-0,Chester FC
+34,Fri Mar 3 2000,Hull City AFC,0-0,Torquay United FC
+34,Fri Mar 3 2000,Hartlepool United FC,2-1,Northampton Town FC
+34,Fri Mar 3 2000,Exeter City FC,0-2,Chester FC
+34,Fri Mar 3 2000,Darlington FC,4-1,Rochdale AFC
+34,Fri Mar 3 2000,Barnet FC,0-1,Swansea City FC
+34,Fri Mar 3 2000,Brighton & Hove Albion FC,2-1,FC Halifax Town
+35,Mon Mar 6 2000,Southend United FC,1-2,Exeter City FC
 35,Mon Mar 6 2000,Shrewsbury Town FC,0-1,Peterborough United FC
 35,Mon Mar 6 2000,Rotherham United FC,3-0,Hull City AFC
-35,Mon Mar 6 2000,Southend United FC,1-2,Exeter City FC
+35,Mon Mar 6 2000,Plymouth Argyle FC,0-0,Chester FC
+35,Mon Mar 6 2000,Darlington FC,4-0,Barnet FC
+35,Mon Mar 6 2000,Macclesfield Town FC,1-1,York City FC
+35,Mon Mar 6 2000,Lincoln City FC,3-0,Mansfield Town FC
+35,Mon Mar 6 2000,Hartlepool United FC,0-0,Brighton & Hove Albion FC
+35,Mon Mar 6 2000,FC Halifax Town,0-1,Swansea City FC
+35,Mon Mar 6 2000,Northampton Town FC,2-1,Leyton Orient FC
 36,Thu Mar 9 2000,Swansea City FC,4-1,Northampton Town FC
-36,Fri Mar 10 2000,York City FC,1-1,Carlisle United FC
-36,Fri Mar 10 2000,Hull City AFC,2-2,Rochdale AFC
-36,Fri Mar 10 2000,Mansfield Town FC,1-0,Macclesfield Town FC
-36,Fri Mar 10 2000,Brighton & Hove Albion FC,1-0,Southend United FC
-36,Fri Mar 10 2000,Cheltenham Town FC,3-0,FC Halifax Town
-36,Fri Mar 10 2000,Chester FC,0-0,Shrewsbury Town FC
-36,Fri Mar 10 2000,Exeter City FC,1-1,Plymouth Argyle FC
-36,Fri Mar 10 2000,Barnet FC,1-1,Hartlepool United FC
 36,Fri Mar 10 2000,Leyton Orient FC,2-1,Darlington FC
 36,Fri Mar 10 2000,Torquay United FC,2-1,Rotherham United FC
 36,Fri Mar 10 2000,Peterborough United FC,2-2,Lincoln City FC
+36,Fri Mar 10 2000,Barnet FC,1-1,Hartlepool United FC
+36,Fri Mar 10 2000,York City FC,1-1,Carlisle United FC
+36,Fri Mar 10 2000,Hull City AFC,2-2,Rochdale AFC
+36,Fri Mar 10 2000,Exeter City FC,1-1,Plymouth Argyle FC
+36,Fri Mar 10 2000,Chester FC,0-0,Shrewsbury Town FC
+36,Fri Mar 10 2000,Cheltenham Town FC,3-0,FC Halifax Town
+36,Fri Mar 10 2000,Brighton & Hove Albion FC,1-0,Southend United FC
+36,Fri Mar 10 2000,Mansfield Town FC,1-0,Macclesfield Town FC
 21,Mon Mar 13 2000,Plymouth Argyle FC,1-1,Lincoln City FC
 22,Mon Mar 13 2000,Torquay United FC,1-1,Cheltenham Town FC
 37,Thu Mar 16 2000,Rotherham United FC,2-3,Mansfield Town FC
-37,Fri Mar 17 2000,Carlisle United FC,3-1,Barnet FC
-37,Fri Mar 17 2000,Hartlepool United FC,2-0,Torquay United FC
-37,Fri Mar 17 2000,Darlington FC,1-1,Swansea City FC
-37,Fri Mar 17 2000,FC Halifax Town,0-1,Hull City AFC
-37,Fri Mar 17 2000,Lincoln City FC,1-3,Brighton & Hove Albion FC
-37,Fri Mar 17 2000,Macclesfield Town FC,1-1,Peterborough United FC
 37,Fri Mar 17 2000,Plymouth Argyle FC,1-0,Cheltenham Town FC
 37,Fri Mar 17 2000,Shrewsbury Town FC,0-1,York City FC
 37,Fri Mar 17 2000,Rochdale AFC,1-4,Leyton Orient FC
 37,Fri Mar 17 2000,Southend United FC,3-1,Chester FC
 37,Fri Mar 17 2000,Northampton Town FC,2-1,Exeter City FC
-38,Mon Mar 20 2000,Cheltenham Town FC,2-1,Northampton Town FC
+37,Fri Mar 17 2000,Macclesfield Town FC,1-1,Peterborough United FC
+37,Fri Mar 17 2000,Lincoln City FC,1-3,Brighton & Hove Albion FC
+37,Fri Mar 17 2000,Hartlepool United FC,2-0,Torquay United FC
+37,Fri Mar 17 2000,FC Halifax Town,0-1,Hull City AFC
+37,Fri Mar 17 2000,Carlisle United FC,3-1,Barnet FC
+37,Fri Mar 17 2000,Darlington FC,1-1,Swansea City FC
+38,Mon Mar 20 2000,York City FC,2-0,Lincoln City FC
+38,Mon Mar 20 2000,Torquay United FC,1-0,Darlington FC
+38,Mon Mar 20 2000,Swansea City FC,1-1,Shrewsbury Town FC
+38,Mon Mar 20 2000,Peterborough United FC,0-2,Carlisle United FC
+38,Mon Mar 20 2000,Barnet FC,1-0,Plymouth Argyle FC
 38,Mon Mar 20 2000,Hull City AFC,0-0,Southend United FC
 38,Mon Mar 20 2000,Exeter City FC,1-0,FC Halifax Town
 38,Mon Mar 20 2000,Chester FC,1-1,Hartlepool United FC
+38,Mon Mar 20 2000,Cheltenham Town FC,2-1,Northampton Town FC
 38,Mon Mar 20 2000,Brighton & Hove Albion FC,5-2,Macclesfield Town FC
 38,Mon Mar 20 2000,Leyton Orient FC,0-1,Rotherham United FC
-38,Mon Mar 20 2000,York City FC,2-0,Lincoln City FC
-38,Mon Mar 20 2000,Torquay United FC,1-0,Darlington FC
-38,Mon Mar 20 2000,Barnet FC,1-0,Plymouth Argyle FC
-38,Mon Mar 20 2000,Peterborough United FC,0-2,Carlisle United FC
-38,Mon Mar 20 2000,Swansea City FC,1-1,Shrewsbury Town FC
-39,Fri Mar 24 2000,Macclesfield Town FC,4-2,Shrewsbury Town FC
-39,Fri Mar 24 2000,Lincoln City FC,1-1,FC Halifax Town
-39,Fri Mar 24 2000,Chester FC,5-0,Mansfield Town FC
-39,Fri Mar 24 2000,Exeter City FC,1-2,Cheltenham Town FC
-39,Fri Mar 24 2000,Barnet FC,0-1,Brighton & Hove Albion FC
-39,Fri Mar 24 2000,Hull City AFC,0-1,Darlington FC
-39,Fri Mar 24 2000,Northampton Town FC,2-0,Southend United FC
-39,Fri Mar 24 2000,Rochdale AFC,3-2,Carlisle United FC
+39,Fri Mar 24 2000,York City FC,2-1,Hartlepool United FC
 39,Fri Mar 24 2000,Torquay United FC,0-4,Plymouth Argyle FC
 39,Fri Mar 24 2000,Swansea City FC,0-0,Leyton Orient FC
 39,Fri Mar 24 2000,Rotherham United FC,1-1,Peterborough United FC
-39,Fri Mar 24 2000,York City FC,2-1,Hartlepool United FC
-38,Mon Mar 27 2000,Mansfield Town FC,0-0,Rochdale AFC
+39,Fri Mar 24 2000,Rochdale AFC,3-2,Carlisle United FC
+39,Fri Mar 24 2000,Northampton Town FC,2-0,Southend United FC
+39,Fri Mar 24 2000,Macclesfield Town FC,4-2,Shrewsbury Town FC
+39,Fri Mar 24 2000,Barnet FC,0-1,Brighton & Hove Albion FC
+39,Fri Mar 24 2000,Hull City AFC,0-1,Darlington FC
+39,Fri Mar 24 2000,Exeter City FC,1-2,Cheltenham Town FC
+39,Fri Mar 24 2000,Chester FC,5-0,Mansfield Town FC
+39,Fri Mar 24 2000,Lincoln City FC,1-1,FC Halifax Town
 27,Mon Mar 27 2000,Carlisle United FC,2-0,Swansea City FC
-40,Fri Mar 31 2000,Shrewsbury Town FC,1-2,Lincoln City FC
-40,Fri Mar 31 2000,Cheltenham Town FC,2-0,Torquay United FC
-40,Fri Mar 31 2000,Carlisle United FC,0-4,Hull City AFC
-40,Fri Mar 31 2000,Brighton & Hove Albion FC,1-1,Swansea City FC
-40,Fri Mar 31 2000,FC Halifax Town,0-1,Chester FC
+38,Mon Mar 27 2000,Mansfield Town FC,0-0,Rochdale AFC
 40,Fri Mar 31 2000,Leyton Orient FC,0-0,Macclesfield Town FC
-40,Fri Mar 31 2000,Darlington FC,2-2,Rotherham United FC
-40,Fri Mar 31 2000,Hartlepool United FC,2-1,Exeter City FC
+40,Fri Mar 31 2000,Shrewsbury Town FC,1-2,Lincoln City FC
+40,Fri Mar 31 2000,Plymouth Argyle FC,2-1,Northampton Town FC
 40,Fri Mar 31 2000,Peterborough United FC,3-3,Rochdale AFC
 40,Fri Mar 31 2000,Mansfield Town FC,0-1,Barnet FC
 40,Fri Mar 31 2000,Southend United FC,0-0,York City FC
-40,Fri Mar 31 2000,Plymouth Argyle FC,2-1,Northampton Town FC
+40,Fri Mar 31 2000,Hartlepool United FC,2-1,Exeter City FC
+40,Fri Mar 31 2000,FC Halifax Town,0-1,Chester FC
+40,Fri Mar 31 2000,Darlington FC,2-2,Rotherham United FC
+40,Fri Mar 31 2000,Cheltenham Town FC,2-0,Torquay United FC
+40,Fri Mar 31 2000,Carlisle United FC,0-4,Hull City AFC
+40,Fri Mar 31 2000,Brighton & Hove Albion FC,1-1,Swansea City FC
 35,Mon Apr 3 2000,Carlisle United FC,1-1,Cheltenham Town FC
-35,Tue Apr 4 2000,Rochdale AFC,1-1,Torquay United FC
 28,Tue Apr 4 2000,Darlington FC,2-2,Shrewsbury Town FC
-41,Fri Apr 7 2000,Rotherham United FC,0-0,Southend United FC
-41,Fri Apr 7 2000,Chester FC,0-1,Carlisle United FC
+35,Tue Apr 4 2000,Rochdale AFC,1-1,Torquay United FC
 41,Fri Apr 7 2000,Rochdale AFC,0-0,Hartlepool United FC
 41,Fri Apr 7 2000,Torquay United FC,4-0,Mansfield Town FC
 41,Fri Apr 7 2000,Swansea City FC,0-0,Peterborough United FC
-41,Fri Apr 7 2000,Barnet FC,1-1,Shrewsbury Town FC
+41,Fri Apr 7 2000,Rotherham United FC,0-0,Southend United FC
 41,Fri Apr 7 2000,York City FC,0-0,Darlington FC
 41,Fri Apr 7 2000,Northampton Town FC,3-4,FC Halifax Town
 41,Fri Apr 7 2000,Macclesfield Town FC,4-1,Plymouth Argyle FC
 41,Fri Apr 7 2000,Lincoln City FC,1-2,Cheltenham Town FC
 41,Fri Apr 7 2000,Hull City AFC,2-0,Leyton Orient FC
 41,Fri Apr 7 2000,Exeter City FC,0-0,Brighton & Hove Albion FC
+41,Fri Apr 7 2000,Barnet FC,1-1,Shrewsbury Town FC
+41,Fri Apr 7 2000,Chester FC,0-1,Carlisle United FC
 31,Mon Apr 10 2000,Carlisle United FC,0-1,Northampton Town FC
-42,Fri Apr 14 2000,Brighton & Hove Albion FC,1-1,Rotherham United FC
 42,Fri Apr 14 2000,Hartlepool United FC,2-0,Lincoln City FC
 42,Fri Apr 14 2000,Plymouth Argyle FC,1-0,Swansea City FC
 42,Fri Apr 14 2000,Peterborough United FC,3-1,Exeter City FC
@@ -501,32 +500,32 @@ Matchday,Date,Team 1,FT,Team 2
 42,Fri Apr 14 2000,Darlington FC,0-1,Northampton Town FC
 42,Fri Apr 14 2000,Cheltenham Town FC,0-1,York City FC
 42,Fri Apr 14 2000,Carlisle United FC,0-1,Macclesfield Town FC
+42,Fri Apr 14 2000,Brighton & Hove Albion FC,1-1,Rotherham United FC
 22,Mon Apr 17 2000,Rochdale AFC,1-2,Peterborough United FC
 43,Thu Apr 20 2000,Northampton Town FC,1-0,Hull City AFC
-43,Fri Apr 21 2000,York City FC,0-0,Brighton & Hove Albion FC
 43,Fri Apr 21 2000,Peterborough United FC,2-1,FC Halifax Town
 43,Fri Apr 21 2000,Swansea City FC,2-1,Torquay United FC
 43,Fri Apr 21 2000,Shrewsbury Town FC,2-1,Southend United FC
 43,Fri Apr 21 2000,Barnet FC,1-0,Rotherham United FC
-43,Fri Apr 21 2000,Carlisle United FC,0-0,Exeter City FC
+43,Fri Apr 21 2000,York City FC,0-0,Brighton & Hove Albion FC
 43,Fri Apr 21 2000,Macclesfield Town FC,1-1,Chester FC
 43,Fri Apr 21 2000,Lincoln City FC,0-0,Leyton Orient FC
 43,Fri Apr 21 2000,Hartlepool United FC,1-0,Mansfield Town FC
 43,Fri Apr 21 2000,Cheltenham Town FC,0-0,Darlington FC
+43,Fri Apr 21 2000,Carlisle United FC,0-0,Exeter City FC
 43,Fri Apr 21 2000,Plymouth Argyle FC,1-1,Rochdale AFC
-44,Sun Apr 23 2000,Leyton Orient FC,3-0,Plymouth Argyle FC
 44,Sun Apr 23 2000,Torquay United FC,3-2,Macclesfield Town FC
 44,Sun Apr 23 2000,Southend United FC,2-0,Carlisle United FC
 44,Sun Apr 23 2000,Rotherham United FC,2-0,Cheltenham Town FC
 44,Sun Apr 23 2000,Rochdale AFC,0-3,Northampton Town FC
 44,Sun Apr 23 2000,Mansfield Town FC,0-1,Swansea City FC
-44,Sun Apr 23 2000,Hull City AFC,1-3,Barnet FC
+44,Sun Apr 23 2000,Leyton Orient FC,3-0,Plymouth Argyle FC
 44,Sun Apr 23 2000,Chester FC,2-0,York City FC
 44,Sun Apr 23 2000,FC Halifax Town,2-1,Shrewsbury Town FC
 44,Sun Apr 23 2000,Exeter City FC,3-0,Lincoln City FC
 44,Sun Apr 23 2000,Darlington FC,1-1,Hartlepool United FC
+44,Sun Apr 23 2000,Hull City AFC,1-3,Barnet FC
 44,Tue Apr 25 2000,Brighton & Hove Albion FC,0-0,Peterborough United FC
-45,Fri Apr 28 2000,Barnet FC,2-2,Leyton Orient FC
 45,Fri Apr 28 2000,Northampton Town FC,1-0,Mansfield Town FC
 45,Fri Apr 28 2000,Swansea City FC,3-0,Exeter City FC
 45,Fri Apr 28 2000,Shrewsbury Town FC,1-2,Brighton & Hove Albion FC
@@ -538,6 +537,7 @@ Matchday,Date,Team 1,FT,Team 2
 45,Fri Apr 28 2000,Hartlepool United FC,1-2,Rotherham United FC
 45,Fri Apr 28 2000,Cheltenham Town FC,1-0,Chester FC
 45,Fri Apr 28 2000,Carlisle United FC,1-1,Darlington FC
+45,Fri Apr 28 2000,Barnet FC,2-2,Leyton Orient FC
 42,Mon May 1 2000,Southend United FC,0-2,Torquay United FC
 46,Fri May 5 2000,Torquay United FC,1-2,Northampton Town FC
 46,Fri May 5 2000,Southend United FC,2-1,Cheltenham Town FC

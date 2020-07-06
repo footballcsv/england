@@ -1,94 +1,93 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 13 2011,Wigan Athletic FC,1-1,Norwich City FC
 1,Sat Aug 13 2011,Queens Park Rangers FC,0-4,Bolton Wanderers FC
 1,Sat Aug 13 2011,Fulham FC,0-0,Aston Villa FC
-1,Sat Aug 13 2011,Liverpool FC,1-1,Sunderland AFC
-1,Sat Aug 13 2011,Newcastle United FC,0-0,Arsenal FC
 1,Sat Aug 13 2011,Blackburn Rovers FC,1-2,Wolverhampton Wanderers FC
+1,Sat Aug 13 2011,Newcastle United FC,0-0,Arsenal FC
+1,Sat Aug 13 2011,Liverpool FC,1-1,Sunderland AFC
 1,Sun Aug 14 2011,Stoke City FC,0-0,Chelsea FC
 1,Sun Aug 14 2011,West Bromwich Albion FC,1-2,Manchester United FC
 1,Mon Aug 15 2011,Manchester City FC,4-0,Swansea City FC
-2,Sat Aug 20 2011,Swansea City FC,0-0,Wigan Athletic FC
 2,Sat Aug 20 2011,Arsenal FC,0-2,Liverpool FC
-2,Sat Aug 20 2011,Everton FC,0-1,Queens Park Rangers FC
-2,Sat Aug 20 2011,Aston Villa FC,3-1,Blackburn Rovers FC
-2,Sat Aug 20 2011,Chelsea FC,2-1,West Bromwich Albion FC
+2,Sat Aug 20 2011,Swansea City FC,0-0,Wigan Athletic FC
 2,Sat Aug 20 2011,Sunderland AFC,0-1,Newcastle United FC
-2,Sun Aug 21 2011,Norwich City FC,1-1,Stoke City FC
+2,Sat Aug 20 2011,Chelsea FC,2-1,West Bromwich Albion FC
+2,Sat Aug 20 2011,Aston Villa FC,3-1,Blackburn Rovers FC
+2,Sat Aug 20 2011,Everton FC,0-1,Queens Park Rangers FC
 2,Sun Aug 21 2011,Wolverhampton Wanderers FC,2-0,Fulham FC
 2,Sun Aug 21 2011,Bolton Wanderers FC,2-3,Manchester City FC
+2,Sun Aug 21 2011,Norwich City FC,1-1,Stoke City FC
 2,Mon Aug 22 2011,Manchester United FC,3-0,Tottenham Hotspur FC
-3,Sat Aug 27 2011,Aston Villa FC,0-0,Wolverhampton Wanderers FC
 3,Sat Aug 27 2011,Chelsea FC,3-1,Norwich City FC
 3,Sat Aug 27 2011,Blackburn Rovers FC,0-1,Everton FC
 3,Sat Aug 27 2011,Wigan Athletic FC,2-0,Queens Park Rangers FC
 3,Sat Aug 27 2011,Liverpool FC,3-1,Bolton Wanderers FC
 3,Sat Aug 27 2011,Swansea City FC,0-0,Sunderland AFC
+3,Sat Aug 27 2011,Aston Villa FC,0-0,Wolverhampton Wanderers FC
 3,Sun Aug 28 2011,Manchester United FC,8-2,Arsenal FC
-3,Sun Aug 28 2011,Tottenham Hotspur FC,1-5,Manchester City FC
 3,Sun Aug 28 2011,Newcastle United FC,2-1,Fulham FC
 3,Sun Aug 28 2011,West Bromwich Albion FC,0-1,Stoke City FC
+3,Sun Aug 28 2011,Tottenham Hotspur FC,1-5,Manchester City FC
 4,Sat Sep 10 2011,Wolverhampton Wanderers FC,0-2,Tottenham Hotspur FC
-4,Sat Sep 10 2011,Stoke City FC,1-0,Liverpool FC
 4,Sat Sep 10 2011,Manchester City FC,3-0,Wigan Athletic FC
 4,Sat Sep 10 2011,Arsenal FC,1-0,Swansea City FC
 4,Sat Sep 10 2011,Everton FC,2-2,Aston Villa FC
 4,Sat Sep 10 2011,Sunderland AFC,1-2,Chelsea FC
 4,Sat Sep 10 2011,Bolton Wanderers FC,0-5,Manchester United FC
+4,Sat Sep 10 2011,Stoke City FC,1-0,Liverpool FC
 4,Sun Sep 11 2011,Fulham FC,1-1,Blackburn Rovers FC
 4,Sun Sep 11 2011,Norwich City FC,0-1,West Bromwich Albion FC
 4,Mon Sep 12 2011,Queens Park Rangers FC,0-0,Newcastle United FC
 5,Sat Sep 17 2011,Swansea City FC,3-0,West Bromwich Albion FC
-5,Sat Sep 17 2011,Wolverhampton Wanderers FC,0-3,Queens Park Rangers FC
 5,Sat Sep 17 2011,Blackburn Rovers FC,4-3,Arsenal FC
 5,Sat Sep 17 2011,Bolton Wanderers FC,1-2,Norwich City FC
 5,Sat Sep 17 2011,Everton FC,3-1,Wigan Athletic FC
 5,Sat Sep 17 2011,Aston Villa FC,1-1,Newcastle United FC
-5,Sun Sep 18 2011,Fulham FC,2-2,Manchester City FC
+5,Sat Sep 17 2011,Wolverhampton Wanderers FC,0-3,Queens Park Rangers FC
 5,Sun Sep 18 2011,Manchester United FC,3-1,Chelsea FC
 5,Sun Sep 18 2011,Sunderland AFC,4-0,Stoke City FC
 5,Sun Sep 18 2011,Tottenham Hotspur FC,4-0,Liverpool FC
-6,Sat Sep 24 2011,Newcastle United FC,3-1,Blackburn Rovers FC
+5,Sun Sep 18 2011,Fulham FC,2-2,Manchester City FC
 6,Sat Sep 24 2011,Chelsea FC,4-1,Swansea City FC
 6,Sat Sep 24 2011,Liverpool FC,2-1,Wolverhampton Wanderers FC
 6,Sat Sep 24 2011,Arsenal FC,3-0,Bolton Wanderers FC
-6,Sat Sep 24 2011,Manchester City FC,2-0,Everton FC
+6,Sat Sep 24 2011,West Bromwich Albion FC,0-0,Fulham FC
 6,Sat Sep 24 2011,Stoke City FC,1-1,Manchester United FC
 6,Sat Sep 24 2011,Wigan Athletic FC,1-2,Tottenham Hotspur FC
-6,Sat Sep 24 2011,West Bromwich Albion FC,0-0,Fulham FC
+6,Sat Sep 24 2011,Manchester City FC,2-0,Everton FC
+6,Sat Sep 24 2011,Newcastle United FC,3-1,Blackburn Rovers FC
 6,Sun Sep 25 2011,Queens Park Rangers FC,1-1,Aston Villa FC
 6,Mon Sep 26 2011,Norwich City FC,2-1,Sunderland AFC
-7,Sat Oct 1 2011,Everton FC,0-2,Liverpool FC
 7,Sat Oct 1 2011,Aston Villa FC,2-0,Wigan Athletic FC
 7,Sat Oct 1 2011,Wolverhampton Wanderers FC,1-2,Newcastle United FC
 7,Sat Oct 1 2011,Blackburn Rovers FC,0-4,Manchester City FC
 7,Sat Oct 1 2011,Sunderland AFC,2-2,West Bromwich Albion FC
 7,Sat Oct 1 2011,Manchester United FC,2-0,Norwich City FC
-7,Sun Oct 2 2011,Bolton Wanderers FC,1-5,Chelsea FC
+7,Sat Oct 1 2011,Everton FC,0-2,Liverpool FC
 7,Sun Oct 2 2011,Swansea City FC,2-0,Stoke City FC
 7,Sun Oct 2 2011,Tottenham Hotspur FC,2-1,Arsenal FC
 7,Sun Oct 2 2011,Fulham FC,6-0,Queens Park Rangers FC
-8,Sat Oct 15 2011,Norwich City FC,3-1,Swansea City FC
+7,Sun Oct 2 2011,Bolton Wanderers FC,1-5,Chelsea FC
 8,Sat Oct 15 2011,Manchester City FC,4-1,Aston Villa FC
 8,Sat Oct 15 2011,Stoke City FC,2-0,Fulham FC
-8,Sat Oct 15 2011,Liverpool FC,1-1,Manchester United FC
+8,Sat Oct 15 2011,Norwich City FC,3-1,Swansea City FC
 8,Sat Oct 15 2011,Queens Park Rangers FC,1-1,Blackburn Rovers FC
-8,Sat Oct 15 2011,Chelsea FC,3-1,Everton FC
 8,Sat Oct 15 2011,Wigan Athletic FC,1-3,Bolton Wanderers FC
-8,Sun Oct 16 2011,Arsenal FC,2-1,Sunderland AFC
+8,Sat Oct 15 2011,Chelsea FC,3-1,Everton FC
+8,Sat Oct 15 2011,Liverpool FC,1-1,Manchester United FC
 8,Sun Oct 16 2011,Newcastle United FC,2-2,Tottenham Hotspur FC
+8,Sun Oct 16 2011,Arsenal FC,2-1,Sunderland AFC
 8,Sun Oct 16 2011,West Bromwich Albion FC,2-0,Wolverhampton Wanderers FC
-9,Sat Oct 22 2011,Liverpool FC,1-1,Norwich City FC
 9,Sat Oct 22 2011,Wolverhampton Wanderers FC,2-2,Swansea City FC
 9,Sat Oct 22 2011,Aston Villa FC,1-2,West Bromwich Albion FC
 9,Sat Oct 22 2011,Bolton Wanderers FC,0-2,Sunderland AFC
 9,Sat Oct 22 2011,Newcastle United FC,1-0,Wigan Athletic FC
-9,Sun Oct 23 2011,Blackburn Rovers FC,1-2,Tottenham Hotspur FC
+9,Sat Oct 22 2011,Liverpool FC,1-1,Norwich City FC
 9,Sun Oct 23 2011,Queens Park Rangers FC,1-0,Chelsea FC
 9,Sun Oct 23 2011,Arsenal FC,3-1,Stoke City FC
 9,Sun Oct 23 2011,Fulham FC,1-3,Everton FC
 9,Sun Oct 23 2011,Manchester United FC,1-6,Manchester City FC
-10,Sat Oct 29 2011,Sunderland AFC,2-2,Aston Villa FC
+9,Sun Oct 23 2011,Blackburn Rovers FC,1-2,Tottenham Hotspur FC
 10,Sat Oct 29 2011,Manchester City FC,3-1,Wolverhampton Wanderers FC
 10,Sat Oct 29 2011,Norwich City FC,3-3,Blackburn Rovers FC
 10,Sat Oct 29 2011,Wigan Athletic FC,0-2,Fulham FC
@@ -96,19 +95,19 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Oct 29 2011,West Bromwich Albion FC,0-2,Liverpool FC
 10,Sat Oct 29 2011,Everton FC,0-1,Manchester United FC
 10,Sat Oct 29 2011,Swansea City FC,3-1,Bolton Wanderers FC
+10,Sat Oct 29 2011,Sunderland AFC,2-2,Aston Villa FC
 10,Sun Oct 30 2011,Tottenham Hotspur FC,3-1,Queens Park Rangers FC
 10,Mon Oct 31 2011,Stoke City FC,1-3,Newcastle United FC
-11,Sat Nov 5 2011,Manchester United FC,1-0,Sunderland AFC
 11,Sat Nov 5 2011,Newcastle United FC,2-1,Everton FC
+11,Sat Nov 5 2011,Manchester United FC,1-0,Sunderland AFC
 11,Sat Nov 5 2011,Aston Villa FC,3-2,Norwich City FC
-11,Sat Nov 5 2011,Queens Park Rangers FC,2-3,Manchester City FC
 11,Sat Nov 5 2011,Blackburn Rovers FC,0-1,Chelsea FC
 11,Sat Nov 5 2011,Liverpool FC,0-0,Swansea City FC
 11,Sat Nov 5 2011,Arsenal FC,3-0,West Bromwich Albion FC
+11,Sat Nov 5 2011,Queens Park Rangers FC,2-3,Manchester City FC
+11,Sun Nov 6 2011,Fulham FC,1-3,Tottenham Hotspur FC
 11,Sun Nov 6 2011,Bolton Wanderers FC,5-0,Stoke City FC
 11,Sun Nov 6 2011,Wolverhampton Wanderers FC,3-1,Wigan Athletic FC
-11,Sun Nov 6 2011,Fulham FC,1-3,Tottenham Hotspur FC
-12,Sat Nov 19 2011,Manchester City FC,3-1,Newcastle United FC
 12,Sat Nov 19 2011,Swansea City FC,0-1,Manchester United FC
 12,Sat Nov 19 2011,Norwich City FC,1-2,Arsenal FC
 12,Sat Nov 19 2011,Everton FC,2-1,Wolverhampton Wanderers FC
@@ -116,96 +115,97 @@ Matchday,Date,Team 1,FT,Team 2
 12,Sat Nov 19 2011,West Bromwich Albion FC,2-1,Bolton Wanderers FC
 12,Sat Nov 19 2011,Wigan Athletic FC,3-3,Blackburn Rovers FC
 12,Sat Nov 19 2011,Sunderland AFC,0-0,Fulham FC
+12,Sat Nov 19 2011,Manchester City FC,3-1,Newcastle United FC
 12,Sun Nov 20 2011,Chelsea FC,1-2,Liverpool FC
 12,Mon Nov 21 2011,Tottenham Hotspur FC,2-0,Aston Villa FC
-13,Sat Nov 26 2011,Manchester United FC,1-1,Newcastle United FC
 13,Sat Nov 26 2011,Stoke City FC,3-1,Blackburn Rovers FC
-13,Sat Nov 26 2011,Bolton Wanderers FC,0-2,Everton FC
+13,Sat Nov 26 2011,Manchester United FC,1-1,Newcastle United FC
 13,Sat Nov 26 2011,Arsenal FC,1-1,Fulham FC
 13,Sat Nov 26 2011,Chelsea FC,3-0,Wolverhampton Wanderers FC
-13,Sat Nov 26 2011,Sunderland AFC,1-2,Wigan Athletic FC
-13,Sat Nov 26 2011,West Bromwich Albion FC,1-3,Tottenham Hotspur FC
 13,Sat Nov 26 2011,Norwich City FC,2-1,Queens Park Rangers FC
+13,Sat Nov 26 2011,West Bromwich Albion FC,1-3,Tottenham Hotspur FC
+13,Sat Nov 26 2011,Sunderland AFC,1-2,Wigan Athletic FC
+13,Sat Nov 26 2011,Bolton Wanderers FC,0-2,Everton FC
 13,Sun Nov 27 2011,Liverpool FC,1-1,Manchester City FC
 13,Sun Nov 27 2011,Swansea City FC,0-0,Aston Villa FC
-14,Sat Dec 3 2011,Aston Villa FC,0-1,Manchester United FC
 14,Sat Dec 3 2011,Queens Park Rangers FC,1-1,West Bromwich Albion FC
 14,Sat Dec 3 2011,Wigan Athletic FC,0-4,Arsenal FC
 14,Sat Dec 3 2011,Blackburn Rovers FC,4-2,Swansea City FC
+14,Sat Dec 3 2011,Newcastle United FC,0-3,Chelsea FC
+14,Sat Dec 3 2011,Aston Villa FC,0-1,Manchester United FC
 14,Sat Dec 3 2011,Manchester City FC,5-1,Norwich City FC
 14,Sat Dec 3 2011,Tottenham Hotspur FC,3-0,Bolton Wanderers FC
-14,Sat Dec 3 2011,Newcastle United FC,0-3,Chelsea FC
 14,Sun Dec 4 2011,Wolverhampton Wanderers FC,2-1,Sunderland AFC
 14,Sun Dec 4 2011,Everton FC,0-1,Stoke City FC
 14,Mon Dec 5 2011,Fulham FC,1-0,Liverpool FC
-15,Sat Dec 10 2011,Arsenal FC,1-0,Everton FC
 15,Sat Dec 10 2011,Norwich City FC,4-2,Newcastle United FC
 15,Sat Dec 10 2011,Swansea City FC,2-0,Fulham FC
 15,Sat Dec 10 2011,Manchester United FC,4-1,Wolverhampton Wanderers FC
-15,Sat Dec 10 2011,Liverpool FC,1-0,Queens Park Rangers FC
-15,Sat Dec 10 2011,West Bromwich Albion FC,1-2,Wigan Athletic FC
 15,Sat Dec 10 2011,Bolton Wanderers FC,1-2,Aston Villa FC
+15,Sat Dec 10 2011,West Bromwich Albion FC,1-2,Wigan Athletic FC
+15,Sat Dec 10 2011,Arsenal FC,1-0,Everton FC
+15,Sat Dec 10 2011,Liverpool FC,1-0,Queens Park Rangers FC
 15,Sun Dec 11 2011,Sunderland AFC,2-1,Blackburn Rovers FC
 15,Sun Dec 11 2011,Stoke City FC,2-1,Tottenham Hotspur FC
 15,Mon Dec 12 2011,Chelsea FC,2-1,Manchester City FC
 16,Sat Dec 17 2011,Wolverhampton Wanderers FC,1-2,Stoke City FC
-16,Sat Dec 17 2011,Newcastle United FC,0-0,Swansea City FC
 16,Sat Dec 17 2011,Fulham FC,2-0,Bolton Wanderers FC
 16,Sat Dec 17 2011,Wigan Athletic FC,1-1,Chelsea FC
-16,Sat Dec 17 2011,Blackburn Rovers FC,1-2,West Bromwich Albion FC
+16,Sat Dec 17 2011,Newcastle United FC,0-0,Swansea City FC
 16,Sat Dec 17 2011,Everton FC,1-1,Norwich City FC
+16,Sat Dec 17 2011,Blackburn Rovers FC,1-2,West Bromwich Albion FC
 16,Sun Dec 18 2011,Tottenham Hotspur FC,1-0,Sunderland AFC
-16,Sun Dec 18 2011,Aston Villa FC,0-2,Liverpool FC
 16,Sun Dec 18 2011,Queens Park Rangers FC,0-2,Manchester United FC
+16,Sun Dec 18 2011,Aston Villa FC,0-2,Liverpool FC
 16,Sun Dec 18 2011,Manchester City FC,1-0,Arsenal FC
-17,Tue Dec 20 2011,Blackburn Rovers FC,1-2,Bolton Wanderers FC
 17,Tue Dec 20 2011,Wolverhampton Wanderers FC,2-2,Norwich City FC
-17,Wed Dec 21 2011,Newcastle United FC,2-3,West Bromwich Albion FC
+17,Tue Dec 20 2011,Blackburn Rovers FC,1-2,Bolton Wanderers FC
 17,Wed Dec 21 2011,Everton FC,1-0,Swansea City FC
 17,Wed Dec 21 2011,Queens Park Rangers FC,2-3,Sunderland AFC
 17,Wed Dec 21 2011,Manchester City FC,3-0,Stoke City FC
 17,Wed Dec 21 2011,Aston Villa FC,1-2,Arsenal FC
-17,Wed Dec 21 2011,Wigan Athletic FC,0-0,Liverpool FC
 17,Wed Dec 21 2011,Fulham FC,0-5,Manchester United FC
+17,Wed Dec 21 2011,Newcastle United FC,2-3,West Bromwich Albion FC
+17,Wed Dec 21 2011,Wigan Athletic FC,0-0,Liverpool FC
 17,Thu Dec 22 2011,Tottenham Hotspur FC,1-1,Chelsea FC
-18,Mon Dec 26 2011,Liverpool FC,1-1,Blackburn Rovers FC
 18,Mon Dec 26 2011,Stoke City FC,0-0,Aston Villa FC
 18,Mon Dec 26 2011,Bolton Wanderers FC,0-2,Newcastle United FC
-18,Mon Dec 26 2011,West Bromwich Albion FC,0-0,Manchester City FC
+18,Mon Dec 26 2011,Liverpool FC,1-1,Blackburn Rovers FC
 18,Mon Dec 26 2011,Sunderland AFC,1-1,Everton FC
-18,Mon Dec 26 2011,Manchester United FC,5-0,Wigan Athletic FC
+18,Mon Dec 26 2011,West Bromwich Albion FC,0-0,Manchester City FC
 18,Mon Dec 26 2011,Chelsea FC,1-1,Fulham FC
+18,Mon Dec 26 2011,Manchester United FC,5-0,Wigan Athletic FC
 18,Tue Dec 27 2011,Norwich City FC,0-2,Tottenham Hotspur FC
-18,Tue Dec 27 2011,Arsenal FC,1-1,Wolverhampton Wanderers FC
 18,Tue Dec 27 2011,Swansea City FC,1-1,Queens Park Rangers FC
+18,Tue Dec 27 2011,Arsenal FC,1-1,Wolverhampton Wanderers FC
 19,Fri Dec 30 2011,Liverpool FC,3-1,Newcastle United FC
-19,Sat Dec 31 2011,Arsenal FC,1-0,Queens Park Rangers FC
 19,Sat Dec 31 2011,Stoke City FC,2-2,Wigan Athletic FC
 19,Sat Dec 31 2011,Chelsea FC,1-3,Aston Villa FC
 19,Sat Dec 31 2011,Bolton Wanderers FC,1-1,Wolverhampton Wanderers FC
 19,Sat Dec 31 2011,Manchester United FC,2-3,Blackburn Rovers FC
 19,Sat Dec 31 2011,Swansea City FC,1-1,Tottenham Hotspur FC
 19,Sat Dec 31 2011,Norwich City FC,1-1,Fulham FC
-19,Sun Jan 1 2012,Sunderland AFC,1-0,Manchester City FC
+19,Sat Dec 31 2011,Arsenal FC,1-0,Queens Park Rangers FC
 19,Sun Jan 1 2012,West Bromwich Albion FC,0-1,Everton FC
-20,Mon Jan 2 2012,Queens Park Rangers FC,1-2,Norwich City FC
-20,Mon Jan 2 2012,Fulham FC,2-1,Arsenal FC
+19,Sun Jan 1 2012,Sunderland AFC,1-0,Manchester City FC
+20,Mon Jan 2 2012,Wolverhampton Wanderers FC,1-2,Chelsea FC
 20,Mon Jan 2 2012,Aston Villa FC,0-2,Swansea City FC
 20,Mon Jan 2 2012,Blackburn Rovers FC,1-2,Stoke City FC
-20,Mon Jan 2 2012,Wolverhampton Wanderers FC,1-2,Chelsea FC
-20,Tue Jan 3 2012,Manchester City FC,3-0,Liverpool FC
+20,Mon Jan 2 2012,Fulham FC,2-1,Arsenal FC
+20,Mon Jan 2 2012,Queens Park Rangers FC,1-2,Norwich City FC
 20,Tue Jan 3 2012,Tottenham Hotspur FC,1-0,West Bromwich Albion FC
 20,Tue Jan 3 2012,Wigan Athletic FC,1-4,Sunderland AFC
+20,Tue Jan 3 2012,Manchester City FC,3-0,Liverpool FC
 20,Wed Jan 4 2012,Newcastle United FC,3-0,Manchester United FC
 20,Wed Jan 4 2012,Everton FC,1-2,Bolton Wanderers FC
 1,Wed Jan 11 2012,Tottenham Hotspur FC,2-0,Everton FC
 21,Sat Jan 14 2012,Chelsea FC,1-0,Sunderland AFC
-21,Sat Jan 14 2012,West Bromwich Albion FC,1-2,Norwich City FC
+21,Sat Jan 14 2012,Blackburn Rovers FC,3-1,Fulham FC
 21,Sat Jan 14 2012,Aston Villa FC,1-1,Everton FC
 21,Sat Jan 14 2012,Tottenham Hotspur FC,1-1,Wolverhampton Wanderers FC
 21,Sat Jan 14 2012,Liverpool FC,0-0,Stoke City FC
 21,Sat Jan 14 2012,Manchester United FC,3-0,Bolton Wanderers FC
-21,Sat Jan 14 2012,Blackburn Rovers FC,3-1,Fulham FC
+21,Sat Jan 14 2012,West Bromwich Albion FC,1-2,Norwich City FC
 21,Sun Jan 15 2012,Newcastle United FC,1-0,Queens Park Rangers FC
 21,Sun Jan 15 2012,Swansea City FC,3-2,Arsenal FC
 21,Mon Jan 16 2012,Wigan Athletic FC,0-1,Manchester City FC
@@ -219,11 +219,11 @@ Matchday,Date,Team 1,FT,Team 2
 22,Sat Jan 21 2012,Queens Park Rangers FC,3-1,Wigan Athletic FC
 22,Sun Jan 22 2012,Manchester City FC,3-2,Tottenham Hotspur FC
 22,Sun Jan 22 2012,Arsenal FC,1-2,Manchester United FC
+23,Tue Jan 31 2012,Manchester United FC,2-0,Stoke City FC
 23,Tue Jan 31 2012,Wolverhampton Wanderers FC,0-3,Liverpool FC
-23,Tue Jan 31 2012,Everton FC,1-0,Manchester City FC
 23,Tue Jan 31 2012,Swansea City FC,1-1,Chelsea FC
 23,Tue Jan 31 2012,Tottenham Hotspur FC,3-1,Wigan Athletic FC
-23,Tue Jan 31 2012,Manchester United FC,2-0,Stoke City FC
+23,Tue Jan 31 2012,Everton FC,1-0,Manchester City FC
 23,Wed Feb 1 2012,Fulham FC,1-1,West Bromwich Albion FC
 23,Wed Feb 1 2012,Aston Villa FC,2-2,Queens Park Rangers FC
 23,Wed Feb 1 2012,Blackburn Rovers FC,0-2,Newcastle United FC
@@ -239,44 +239,44 @@ Matchday,Date,Team 1,FT,Team 2
 24,Sun Feb 5 2012,Newcastle United FC,2-1,Aston Villa FC
 24,Sun Feb 5 2012,Chelsea FC,3-3,Manchester United FC
 24,Mon Feb 6 2012,Liverpool FC,0-0,Tottenham Hotspur FC
-25,Sat Feb 11 2012,Bolton Wanderers FC,1-2,Wigan Athletic FC
-25,Sat Feb 11 2012,Manchester United FC,2-1,Liverpool FC
 25,Sat Feb 11 2012,Swansea City FC,2-3,Norwich City FC
+25,Sat Feb 11 2012,Everton FC,2-0,Chelsea FC
+25,Sat Feb 11 2012,Bolton Wanderers FC,1-2,Wigan Athletic FC
 25,Sat Feb 11 2012,Blackburn Rovers FC,3-2,Queens Park Rangers FC
 25,Sat Feb 11 2012,Tottenham Hotspur FC,5-0,Newcastle United FC
 25,Sat Feb 11 2012,Fulham FC,2-1,Stoke City FC
 25,Sat Feb 11 2012,Sunderland AFC,1-2,Arsenal FC
-25,Sat Feb 11 2012,Everton FC,2-0,Chelsea FC
+25,Sat Feb 11 2012,Manchester United FC,2-1,Liverpool FC
 25,Sun Feb 12 2012,Wolverhampton Wanderers FC,1-5,West Bromwich Albion FC
 25,Sun Feb 12 2012,Aston Villa FC,0-1,Manchester City FC
-26,Sat Feb 25 2012,Queens Park Rangers FC,0-1,Fulham FC
 26,Sat Feb 25 2012,Newcastle United FC,2-2,Wolverhampton Wanderers FC
+26,Sat Feb 25 2012,Queens Park Rangers FC,0-1,Fulham FC
 26,Sat Feb 25 2012,Manchester City FC,3-0,Blackburn Rovers FC
-26,Sat Feb 25 2012,Wigan Athletic FC,0-0,Aston Villa FC
-26,Sat Feb 25 2012,Chelsea FC,3-0,Bolton Wanderers FC
 26,Sat Feb 25 2012,West Bromwich Albion FC,4-0,Sunderland AFC
+26,Sat Feb 25 2012,Chelsea FC,3-0,Bolton Wanderers FC
+26,Sat Feb 25 2012,Wigan Athletic FC,0-0,Aston Villa FC
 26,Sun Feb 26 2012,Stoke City FC,2-0,Swansea City FC
 26,Sun Feb 26 2012,Norwich City FC,1-2,Manchester United FC
 26,Sun Feb 26 2012,Arsenal FC,5-2,Tottenham Hotspur FC
-27,Sat Mar 3 2012,West Bromwich Albion FC,1-0,Chelsea FC
 27,Sat Mar 3 2012,Blackburn Rovers FC,1-1,Aston Villa FC
 27,Sat Mar 3 2012,Wigan Athletic FC,0-2,Swansea City FC
 27,Sat Mar 3 2012,Manchester City FC,2-0,Bolton Wanderers FC
-27,Sat Mar 3 2012,Queens Park Rangers FC,1-1,Everton FC
+27,Sat Mar 3 2012,West Bromwich Albion FC,1-0,Chelsea FC
 27,Sat Mar 3 2012,Stoke City FC,1-0,Norwich City FC
 27,Sat Mar 3 2012,Liverpool FC,1-2,Arsenal FC
-27,Sun Mar 4 2012,Newcastle United FC,1-1,Sunderland AFC
+27,Sat Mar 3 2012,Queens Park Rangers FC,1-1,Everton FC
 27,Sun Mar 4 2012,Fulham FC,5-0,Wolverhampton Wanderers FC
 27,Sun Mar 4 2012,Tottenham Hotspur FC,1-3,Manchester United FC
-28,Sat Mar 10 2012,Aston Villa FC,1-0,Fulham FC
+27,Sun Mar 4 2012,Newcastle United FC,1-1,Sunderland AFC
 28,Sat Mar 10 2012,Chelsea FC,1-0,Stoke City FC
 28,Sat Mar 10 2012,Wolverhampton Wanderers FC,0-2,Blackburn Rovers FC
 28,Sat Mar 10 2012,Bolton Wanderers FC,2-1,Queens Park Rangers FC
 28,Sat Mar 10 2012,Sunderland AFC,1-0,Liverpool FC
+28,Sat Mar 10 2012,Aston Villa FC,1-0,Fulham FC
 28,Sat Mar 10 2012,Everton FC,1-0,Tottenham Hotspur FC
-28,Sun Mar 11 2012,Swansea City FC,1-0,Manchester City FC
 28,Sun Mar 11 2012,Manchester United FC,2-0,West Bromwich Albion FC
 28,Sun Mar 11 2012,Norwich City FC,1-1,Wigan Athletic FC
+28,Sun Mar 11 2012,Swansea City FC,1-0,Manchester City FC
 28,Mon Mar 12 2012,Arsenal FC,2-1,Newcastle United FC
 26,Tue Mar 13 2012,Liverpool FC,3-0,Everton FC
 29,Sat Mar 17 2012,Fulham FC,0-3,Swansea City FC
@@ -286,72 +286,72 @@ Matchday,Date,Team 1,FT,Team 2
 29,Tue Mar 20 2012,Blackburn Rovers FC,2-0,Sunderland AFC
 29,Wed Mar 21 2012,Queens Park Rangers FC,3-2,Liverpool FC
 29,Wed Mar 21 2012,Tottenham Hotspur FC,1-1,Stoke City FC
-29,Wed Mar 21 2012,Manchester City FC,2-1,Chelsea FC
 29,Wed Mar 21 2012,Everton FC,0-1,Arsenal FC
-30,Sat Mar 24 2012,Norwich City FC,2-1,Wolverhampton Wanderers FC
+29,Wed Mar 21 2012,Manchester City FC,2-1,Chelsea FC
 30,Sat Mar 24 2012,Sunderland AFC,3-1,Queens Park Rangers FC
 30,Sat Mar 24 2012,Arsenal FC,3-0,Aston Villa FC
 30,Sat Mar 24 2012,Liverpool FC,1-2,Wigan Athletic FC
 30,Sat Mar 24 2012,Stoke City FC,1-1,Manchester City FC
-30,Sat Mar 24 2012,Bolton Wanderers FC,2-1,Blackburn Rovers FC
+30,Sat Mar 24 2012,Norwich City FC,2-1,Wolverhampton Wanderers FC
 30,Sat Mar 24 2012,Chelsea FC,0-0,Tottenham Hotspur FC
 30,Sat Mar 24 2012,Swansea City FC,0-2,Everton FC
+30,Sat Mar 24 2012,Bolton Wanderers FC,2-1,Blackburn Rovers FC
 30,Sun Mar 25 2012,West Bromwich Albion FC,1-3,Newcastle United FC
 30,Mon Mar 26 2012,Manchester United FC,1-0,Fulham FC
-31,Sat Mar 31 2012,Manchester City FC,3-3,Sunderland AFC
 31,Sat Mar 31 2012,Fulham FC,2-1,Norwich City FC
 31,Sat Mar 31 2012,Aston Villa FC,2-4,Chelsea FC
-31,Sat Mar 31 2012,Wigan Athletic FC,2-0,Stoke City FC
+31,Sat Mar 31 2012,Manchester City FC,3-3,Sunderland AFC
 31,Sat Mar 31 2012,Everton FC,2-0,West Bromwich Albion FC
 31,Sat Mar 31 2012,Queens Park Rangers FC,2-1,Arsenal FC
 31,Sat Mar 31 2012,Wolverhampton Wanderers FC,2-3,Bolton Wanderers FC
-31,Sun Apr 1 2012,Tottenham Hotspur FC,3-1,Swansea City FC
+31,Sat Mar 31 2012,Wigan Athletic FC,2-0,Stoke City FC
 31,Sun Apr 1 2012,Newcastle United FC,2-0,Liverpool FC
+31,Sun Apr 1 2012,Tottenham Hotspur FC,3-1,Swansea City FC
 31,Mon Apr 2 2012,Blackburn Rovers FC,0-2,Manchester United FC
 32,Fri Apr 6 2012,Swansea City FC,0-2,Newcastle United FC
-32,Sat Apr 7 2012,Bolton Wanderers FC,0-3,Fulham FC
-32,Sat Apr 7 2012,Chelsea FC,2-1,Wigan Athletic FC
+32,Sat Apr 7 2012,Norwich City FC,2-2,Everton FC
 32,Sat Apr 7 2012,West Bromwich Albion FC,3-0,Blackburn Rovers FC
 32,Sat Apr 7 2012,Stoke City FC,2-1,Wolverhampton Wanderers FC
 32,Sat Apr 7 2012,Liverpool FC,1-1,Aston Villa FC
 32,Sat Apr 7 2012,Sunderland AFC,0-0,Tottenham Hotspur FC
-32,Sat Apr 7 2012,Norwich City FC,2-2,Everton FC
+32,Sat Apr 7 2012,Chelsea FC,2-1,Wigan Athletic FC
+32,Sat Apr 7 2012,Bolton Wanderers FC,0-3,Fulham FC
 32,Sun Apr 8 2012,Arsenal FC,1-0,Manchester City FC
 32,Sun Apr 8 2012,Manchester United FC,2-0,Queens Park Rangers FC
 33,Mon Apr 9 2012,Tottenham Hotspur FC,1-2,Norwich City FC
-33,Mon Apr 9 2012,Newcastle United FC,2-0,Bolton Wanderers FC
 33,Mon Apr 9 2012,Everton FC,4-0,Sunderland AFC
 33,Mon Apr 9 2012,Fulham FC,1-1,Chelsea FC
+33,Mon Apr 9 2012,Newcastle United FC,2-0,Bolton Wanderers FC
 33,Mon Apr 9 2012,Aston Villa FC,1-1,Stoke City FC
 33,Tue Apr 10 2012,Blackburn Rovers FC,2-3,Liverpool FC
-33,Wed Apr 11 2012,Wolverhampton Wanderers FC,0-3,Arsenal FC
 33,Wed Apr 11 2012,Manchester City FC,4-0,West Bromwich Albion FC
 33,Wed Apr 11 2012,Wigan Athletic FC,1-0,Manchester United FC
 33,Wed Apr 11 2012,Queens Park Rangers FC,3-0,Swansea City FC
-34,Sat Apr 14 2012,Sunderland AFC,0-0,Wolverhampton Wanderers FC
+33,Wed Apr 11 2012,Wolverhampton Wanderers FC,0-3,Arsenal FC
 34,Sat Apr 14 2012,Swansea City FC,3-0,Blackburn Rovers FC
 34,Sat Apr 14 2012,Norwich City FC,1-6,Manchester City FC
 34,Sat Apr 14 2012,West Bromwich Albion FC,1-0,Queens Park Rangers FC
+34,Sat Apr 14 2012,Sunderland AFC,0-0,Wolverhampton Wanderers FC
 34,Sun Apr 15 2012,Manchester United FC,4-0,Aston Villa FC
 34,Mon Apr 16 2012,Arsenal FC,1-2,Wigan Athletic FC
+35,Sat Apr 21 2012,Bolton Wanderers FC,1-1,Swansea City FC
+35,Sat Apr 21 2012,Arsenal FC,0-0,Chelsea FC
 35,Sat Apr 21 2012,Aston Villa FC,0-0,Sunderland AFC
 35,Sat Apr 21 2012,Fulham FC,2-1,Wigan Athletic FC
 35,Sat Apr 21 2012,Newcastle United FC,3-0,Stoke City FC
-35,Sat Apr 21 2012,Blackburn Rovers FC,2-0,Norwich City FC
-35,Sat Apr 21 2012,Arsenal FC,0-0,Chelsea FC
-35,Sat Apr 21 2012,Bolton Wanderers FC,1-1,Swansea City FC
 35,Sat Apr 21 2012,Queens Park Rangers FC,1-0,Tottenham Hotspur FC
+35,Sat Apr 21 2012,Blackburn Rovers FC,2-0,Norwich City FC
 35,Sun Apr 22 2012,Manchester United FC,4-4,Everton FC
 35,Sun Apr 22 2012,Wolverhampton Wanderers FC,0-2,Manchester City FC
 35,Sun Apr 22 2012,Liverpool FC,0-1,West Bromwich Albion FC
 29,Tue Apr 24 2012,Aston Villa FC,1-2,Bolton Wanderers FC
-36,Sat Apr 28 2012,Swansea City FC,4-4,Wolverhampton Wanderers FC
-36,Sat Apr 28 2012,West Bromwich Albion FC,0-0,Aston Villa FC
-36,Sat Apr 28 2012,Norwich City FC,0-3,Liverpool FC
-36,Sat Apr 28 2012,Everton FC,4-0,Fulham FC
 36,Sat Apr 28 2012,Sunderland AFC,2-2,Bolton Wanderers FC
 36,Sat Apr 28 2012,Stoke City FC,1-1,Arsenal FC
 36,Sat Apr 28 2012,Wigan Athletic FC,4-0,Newcastle United FC
+36,Sat Apr 28 2012,Everton FC,4-0,Fulham FC
+36,Sat Apr 28 2012,Norwich City FC,0-3,Liverpool FC
+36,Sat Apr 28 2012,West Bromwich Albion FC,0-0,Aston Villa FC
+36,Sat Apr 28 2012,Swansea City FC,4-4,Wolverhampton Wanderers FC
 36,Sun Apr 29 2012,Tottenham Hotspur FC,2-0,Blackburn Rovers FC
 36,Sun Apr 29 2012,Chelsea FC,6-1,Queens Park Rangers FC
 36,Mon Apr 30 2012,Manchester City FC,1-0,Manchester United FC
@@ -360,20 +360,20 @@ Matchday,Date,Team 1,FT,Team 2
 34,Wed May 2 2012,Chelsea FC,0-2,Newcastle United FC
 34,Wed May 2 2012,Bolton Wanderers FC,1-4,Tottenham Hotspur FC
 37,Sat May 5 2012,Arsenal FC,3-3,Norwich City FC
-37,Sun May 6 2012,Fulham FC,2-1,Sunderland AFC
-37,Sun May 6 2012,Queens Park Rangers FC,1-0,Stoke City FC
 37,Sun May 6 2012,Aston Villa FC,1-1,Tottenham Hotspur FC
+37,Sun May 6 2012,Queens Park Rangers FC,1-0,Stoke City FC
+37,Sun May 6 2012,Manchester United FC,2-0,Swansea City FC
 37,Sun May 6 2012,Newcastle United FC,0-2,Manchester City FC
 37,Sun May 6 2012,Bolton Wanderers FC,2-2,West Bromwich Albion FC
 37,Sun May 6 2012,Wolverhampton Wanderers FC,0-0,Everton FC
-37,Sun May 6 2012,Manchester United FC,2-0,Swansea City FC
+37,Sun May 6 2012,Fulham FC,2-1,Sunderland AFC
 37,Mon May 7 2012,Blackburn Rovers FC,0-1,Wigan Athletic FC
 37,Tue May 8 2012,Liverpool FC,4-1,Chelsea FC
-38,Sun May 13 2012,Chelsea FC,2-1,Blackburn Rovers FC
+38,Sun May 13 2012,Everton FC,3-1,Newcastle United FC
 38,Sun May 13 2012,West Bromwich Albion FC,2-3,Arsenal FC
 38,Sun May 13 2012,Stoke City FC,2-2,Bolton Wanderers FC
 38,Sun May 13 2012,Swansea City FC,1-0,Liverpool FC
-38,Sun May 13 2012,Everton FC,3-1,Newcastle United FC
+38,Sun May 13 2012,Chelsea FC,2-1,Blackburn Rovers FC
 38,Sun May 13 2012,Wigan Athletic FC,3-2,Wolverhampton Wanderers FC
 38,Sun May 13 2012,Manchester City FC,3-2,Queens Park Rangers FC
 38,Sun May 13 2012,Norwich City FC,2-0,Aston Villa FC

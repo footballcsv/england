@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Fri Aug 11 2000,Wrexham AFC,0-2,Bristol City FC
 1,Fri Aug 11 2000,Swindon Town FC,0-0,Colchester United FC
 1,Fri Aug 11 2000,Swansea City FC,0-0,Wigan Athletic FC
@@ -12,537 +12,537 @@ Matchday,Date,Team 1,FT,Team 2
 1,Fri Aug 11 2000,Cambridge United FC,0-1,Bury FC
 1,Fri Aug 11 2000,Bristol Rovers FC,1-1,AFC Bournemouth
 2,Thu Aug 17 2000,Colchester United FC,0-1,Rotherham United FC
-2,Fri Aug 18 2000,Bristol City FC,1-2,Stoke City FC
+2,Fri Aug 18 2000,Port Vale FC,3-0,Oxford United FC
 2,Fri Aug 18 2000,Wigan Athletic FC,2-1,Luton Town FC
 2,Fri Aug 18 2000,Walsall FC,3-2,Oldham Athletic AFC
 2,Fri Aug 18 2000,Reading FC,2-0,Swindon Town FC
-2,Fri Aug 18 2000,Port Vale FC,3-0,Oxford United FC
+2,Fri Aug 18 2000,Wycombe Wanderers FC,1-0,Northampton Town FC
 2,Fri Aug 18 2000,Notts County FC,3-4,Millwall FC
 2,Fri Aug 18 2000,Bury FC,1-4,Wrexham AFC
 2,Fri Aug 18 2000,AFC Bournemouth,1-1,Cambridge United FC
 2,Fri Aug 18 2000,Brentford FC,0-0,Swansea City FC
-2,Fri Aug 18 2000,Wycombe Wanderers FC,1-0,Northampton Town FC
+2,Fri Aug 18 2000,Bristol City FC,1-2,Stoke City FC
 2,Sat Aug 19 2000,Peterborough United FC,2-2,Bristol Rovers FC
-3,Fri Aug 25 2000,Rotherham United FC,1-2,Bury FC
+3,Fri Aug 25 2000,Wrexham AFC,1-3,Wigan Athletic FC
 3,Fri Aug 25 2000,Swindon Town FC,1-4,Walsall FC
 3,Fri Aug 25 2000,Swansea City FC,0-2,Colchester United FC
 3,Fri Aug 25 2000,Stoke City FC,0-1,Notts County FC
-3,Fri Aug 25 2000,Wrexham AFC,1-3,Wigan Athletic FC
+3,Fri Aug 25 2000,Rotherham United FC,1-2,Bury FC
 3,Fri Aug 25 2000,Oxford United FC,0-1,Brentford FC
 3,Fri Aug 25 2000,Oldham Athletic AFC,1-4,Peterborough United FC
 3,Fri Aug 25 2000,Northampton Town FC,2-0,Reading FC
-3,Fri Aug 25 2000,Millwall FC,1-2,Wycombe Wanderers FC
-3,Fri Aug 25 2000,Luton Town FC,1-0,AFC Bournemouth
 3,Fri Aug 25 2000,Cambridge United FC,1-0,Bristol City FC
-4,Sun Aug 27 2000,Bury FC,1-0,Northampton Town FC
+3,Fri Aug 25 2000,Luton Town FC,1-0,AFC Bournemouth
+3,Fri Aug 25 2000,Millwall FC,1-2,Wycombe Wanderers FC
 4,Sun Aug 27 2000,Wycombe Wanderers FC,1-1,Luton Town FC
 4,Sun Aug 27 2000,Port Vale FC,3-0,Swindon Town FC
 4,Sun Aug 27 2000,Brentford FC,2-6,Bristol Rovers FC
 4,Sun Aug 27 2000,Notts County FC,0-1,Cambridge United FC
-4,Sun Aug 27 2000,Peterborough United FC,0-2,Swansea City FC
+4,Sun Aug 27 2000,Bury FC,1-0,Northampton Town FC
 4,Sun Aug 27 2000,Bristol City FC,0-1,Rotherham United FC
-4,Mon Aug 28 2000,Reading FC,3-3,Stoke City FC
+4,Sun Aug 27 2000,Peterborough United FC,0-2,Swansea City FC
 4,Mon Aug 28 2000,Walsall FC,3-2,Oxford United FC
+4,Mon Aug 28 2000,Reading FC,3-3,Stoke City FC
 4,Mon Aug 28 2000,Colchester United FC,1-1,Oldham Athletic AFC
-5,Fri Sep 1 2000,Rotherham United FC,1-1,Luton Town FC
-5,Fri Sep 1 2000,Oldham Athletic AFC,0-1,Notts County FC
-5,Fri Sep 1 2000,Brentford FC,0-0,Wycombe Wanderers FC
 5,Fri Sep 1 2000,Port Vale FC,0-1,Reading FC
-5,Fri Sep 1 2000,Colchester United FC,3-1,AFC Bournemouth
-5,Fri Sep 1 2000,Oxford United FC,1-1,Cambridge United FC
-5,Fri Sep 1 2000,Peterborough United FC,1-1,Bury FC
+5,Fri Sep 1 2000,Rotherham United FC,1-1,Luton Town FC
 5,Fri Sep 1 2000,Walsall FC,2-0,Wigan Athletic FC
+5,Fri Sep 1 2000,Peterborough United FC,1-1,Bury FC
+5,Fri Sep 1 2000,Oxford United FC,1-1,Cambridge United FC
+5,Fri Sep 1 2000,Oldham Athletic AFC,0-1,Notts County FC
+5,Fri Sep 1 2000,Colchester United FC,3-1,AFC Bournemouth
+5,Fri Sep 1 2000,Brentford FC,0-0,Wycombe Wanderers FC
 6,Thu Sep 7 2000,Wycombe Wanderers FC,3-1,Oxford United FC
-6,Fri Sep 8 2000,Notts County FC,1-1,Bristol Rovers FC
-6,Fri Sep 8 2000,Bury FC,2-0,Walsall FC
-6,Fri Sep 8 2000,Cambridge United FC,6-1,Rotherham United FC
-6,Fri Sep 8 2000,Luton Town FC,0-2,Northampton Town FC
-6,Fri Sep 8 2000,Reading FC,4-0,Brentford FC
-6,Fri Sep 8 2000,AFC Bournemouth,1-1,Port Vale FC
-6,Fri Sep 8 2000,Bristol City FC,0-1,Swindon Town FC
 6,Fri Sep 8 2000,Wrexham AFC,3-1,Oldham Athletic AFC
 6,Fri Sep 8 2000,Wigan Athletic FC,3-1,Colchester United FC
 6,Fri Sep 8 2000,Stoke City FC,3-0,Peterborough United FC
+6,Fri Sep 8 2000,Reading FC,4-0,Brentford FC
+6,Fri Sep 8 2000,AFC Bournemouth,1-1,Port Vale FC
 6,Fri Sep 8 2000,Millwall FC,1-0,Swansea City FC
-7,Mon Sep 11 2000,Notts County FC,0-1,Swansea City FC
-7,Mon Sep 11 2000,Reading FC,5-0,Oldham Athletic AFC
-7,Mon Sep 11 2000,Cambridge United FC,4-0,Port Vale FC
-7,Mon Sep 11 2000,Bury FC,0-0,Colchester United FC
-7,Mon Sep 11 2000,AFC Bournemouth,3-0,Swindon Town FC
-7,Mon Sep 11 2000,Wigan Athletic FC,1-0,Peterborough United FC
-7,Mon Sep 11 2000,Millwall FC,0-1,Northampton Town FC
+6,Fri Sep 8 2000,Luton Town FC,0-2,Northampton Town FC
+6,Fri Sep 8 2000,Cambridge United FC,6-1,Rotherham United FC
+6,Fri Sep 8 2000,Bury FC,2-0,Walsall FC
+6,Fri Sep 8 2000,Bristol City FC,0-1,Swindon Town FC
+6,Fri Sep 8 2000,Notts County FC,1-1,Bristol Rovers FC
 7,Mon Sep 11 2000,Wycombe Wanderers FC,0-1,Bristol Rovers FC
 7,Mon Sep 11 2000,Wrexham AFC,1-3,Rotherham United FC
+7,Mon Sep 11 2000,Wigan Athletic FC,1-0,Peterborough United FC
+7,Mon Sep 11 2000,Reading FC,5-0,Oldham Athletic AFC
+7,Mon Sep 11 2000,Notts County FC,0-1,Swansea City FC
+7,Mon Sep 11 2000,Millwall FC,0-1,Northampton Town FC
 7,Mon Sep 11 2000,Luton Town FC,0-0,Walsall FC
+7,Mon Sep 11 2000,AFC Bournemouth,3-0,Swindon Town FC
+7,Mon Sep 11 2000,Bury FC,0-0,Colchester United FC
+7,Mon Sep 11 2000,Cambridge United FC,4-0,Port Vale FC
 7,Tue Sep 12 2000,Stoke City FC,4-0,Oxford United FC
-8,Fri Sep 15 2000,Brentford FC,1-1,Millwall FC
+8,Fri Sep 15 2000,Oxford United FC,1-0,Bury FC
+8,Fri Sep 15 2000,Swansea City FC,4-0,Luton Town FC
+8,Fri Sep 15 2000,Rotherham United FC,1-0,Wycombe Wanderers FC
+8,Fri Sep 15 2000,Peterborough United FC,1-0,Reading FC
 8,Fri Sep 15 2000,Walsall FC,1-1,AFC Bournemouth
 8,Fri Sep 15 2000,Oldham Athletic AFC,0-0,Bristol City FC
 8,Fri Sep 15 2000,Northampton Town FC,1-0,Notts County FC
 8,Fri Sep 15 2000,Colchester United FC,1-1,Wrexham AFC
 8,Fri Sep 15 2000,Bristol Rovers FC,0-0,Wigan Athletic FC
-8,Fri Sep 15 2000,Swansea City FC,4-0,Luton Town FC
-8,Fri Sep 15 2000,Peterborough United FC,1-0,Reading FC
-8,Fri Sep 15 2000,Oxford United FC,1-0,Bury FC
-8,Fri Sep 15 2000,Rotherham United FC,1-0,Wycombe Wanderers FC
+8,Fri Sep 15 2000,Brentford FC,1-1,Millwall FC
 8,Sat Sep 16 2000,Port Vale FC,1-1,Stoke City FC
-9,Fri Sep 22 2000,Wigan Athletic FC,2-1,Northampton Town FC
-9,Fri Sep 22 2000,Bury FC,2-0,Port Vale FC
-9,Fri Sep 22 2000,Millwall FC,5-0,Oxford United FC
-9,Fri Sep 22 2000,Bristol City FC,1-1,Colchester United FC
-9,Fri Sep 22 2000,Cambridge United FC,0-3,Bristol Rovers FC
-9,Fri Sep 22 2000,Luton Town FC,2-3,Swindon Town FC
-9,Fri Sep 22 2000,AFC Bournemouth,1-1,Oldham Athletic AFC
-9,Fri Sep 22 2000,Notts County FC,2-2,Brentford FC
-9,Fri Sep 22 2000,Stoke City FC,1-1,Rotherham United FC
 9,Fri Sep 22 2000,Wycombe Wanderers FC,2-0,Peterborough United FC
 9,Fri Sep 22 2000,Wrexham AFC,0-1,Walsall FC
+9,Fri Sep 22 2000,Wigan Athletic FC,2-1,Northampton Town FC
+9,Fri Sep 22 2000,Stoke City FC,1-1,Rotherham United FC
 9,Fri Sep 22 2000,Reading FC,5-1,Swansea City FC
+9,Fri Sep 22 2000,Notts County FC,2-2,Brentford FC
+9,Fri Sep 22 2000,AFC Bournemouth,1-1,Oldham Athletic AFC
+9,Fri Sep 22 2000,Luton Town FC,2-3,Swindon Town FC
+9,Fri Sep 22 2000,Cambridge United FC,0-3,Bristol Rovers FC
+9,Fri Sep 22 2000,Bury FC,2-0,Port Vale FC
+9,Fri Sep 22 2000,Bristol City FC,1-1,Colchester United FC
+9,Fri Sep 22 2000,Millwall FC,5-0,Oxford United FC
 4,Mon Sep 25 2000,AFC Bournemouth,1-2,Wrexham AFC
-10,Fri Sep 29 2000,Port Vale FC,0-1,Wycombe Wanderers FC
-10,Fri Sep 29 2000,Oldham Athletic AFC,1-3,Cambridge United FC
-10,Fri Sep 29 2000,Northampton Town FC,2-2,Wrexham AFC
-10,Fri Sep 29 2000,Brentford FC,3-2,AFC Bournemouth
-10,Fri Sep 29 2000,Bristol Rovers FC,3-3,Luton Town FC
-10,Fri Sep 29 2000,Oxford United FC,0-1,Bristol City FC
-10,Fri Sep 29 2000,Colchester United FC,0-1,Stoke City FC
-10,Fri Sep 29 2000,Walsall FC,5-1,Notts County FC
 10,Fri Sep 29 2000,Peterborough United FC,1-4,Millwall FC
 10,Fri Sep 29 2000,Swindon Town FC,2-2,Wigan Athletic FC
 10,Fri Sep 29 2000,Swansea City FC,0-2,Bury FC
 10,Fri Sep 29 2000,Rotherham United FC,1-3,Reading FC
-11,Thu Oct 5 2000,Bristol City FC,3-3,AFC Bournemouth
-11,Thu Oct 5 2000,Colchester United FC,0-2,Walsall FC
+10,Fri Sep 29 2000,Port Vale FC,0-1,Wycombe Wanderers FC
+10,Fri Sep 29 2000,Walsall FC,5-1,Notts County FC
+10,Fri Sep 29 2000,Oxford United FC,0-1,Bristol City FC
+10,Fri Sep 29 2000,Oldham Athletic AFC,1-3,Cambridge United FC
+10,Fri Sep 29 2000,Northampton Town FC,2-2,Wrexham AFC
+10,Fri Sep 29 2000,Brentford FC,3-2,AFC Bournemouth
+10,Fri Sep 29 2000,Bristol Rovers FC,3-3,Luton Town FC
+10,Fri Sep 29 2000,Colchester United FC,0-1,Stoke City FC
 11,Thu Oct 5 2000,Wycombe Wanderers FC,3-1,Notts County FC
-11,Thu Oct 5 2000,Bury FC,1-0,Bristol Rovers FC
 11,Thu Oct 5 2000,Wigan Athletic FC,1-1,Reading FC
-11,Sat Oct 7 2000,Swindon Town FC,2-1,Oxford United FC
+11,Thu Oct 5 2000,Colchester United FC,0-2,Walsall FC
+11,Thu Oct 5 2000,Bury FC,1-0,Bristol Rovers FC
+11,Thu Oct 5 2000,Bristol City FC,3-3,AFC Bournemouth
+11,Sat Oct 7 2000,Luton Town FC,0-1,Millwall FC
 11,Sat Oct 7 2000,Rotherham United FC,3-0,Oldham Athletic AFC
 11,Sat Oct 7 2000,Peterborough United FC,2-0,Port Vale FC
-11,Sat Oct 7 2000,Luton Town FC,0-1,Millwall FC
+11,Sat Oct 7 2000,Swindon Town FC,2-1,Oxford United FC
 12,Thu Oct 12 2000,Cambridge United FC,2-1,Luton Town FC
-12,Fri Oct 13 2000,Oldham Athletic AFC,1-0,Swindon Town FC
-12,Fri Oct 13 2000,Oxford United FC,3-4,Wrexham AFC
-12,Fri Oct 13 2000,Notts County FC,2-2,Wigan Athletic FC
-12,Fri Oct 13 2000,Brentford FC,1-0,Peterborough United FC
-12,Fri Oct 13 2000,Bristol Rovers FC,0-1,Northampton Town FC
-12,Fri Oct 13 2000,Millwall FC,4-0,Bury FC
-12,Fri Oct 13 2000,AFC Bournemouth,0-1,Rotherham United FC
-12,Fri Oct 13 2000,Reading FC,2-0,Wycombe Wanderers FC
-12,Fri Oct 13 2000,Swansea City FC,2-1,Stoke City FC
 12,Fri Oct 13 2000,Walsall FC,0-0,Bristol City FC
+12,Fri Oct 13 2000,Swansea City FC,2-1,Stoke City FC
+12,Fri Oct 13 2000,Reading FC,2-0,Wycombe Wanderers FC
 12,Fri Oct 13 2000,Port Vale FC,3-1,Colchester United FC
-13,Mon Oct 16 2000,Cambridge United FC,1-1,Stoke City FC
-13,Mon Oct 16 2000,Brentford FC,1-0,Colchester United FC
-13,Mon Oct 16 2000,Bristol Rovers FC,1-1,Rotherham United FC
-13,Mon Oct 16 2000,AFC Bournemouth,0-0,Wigan Athletic FC
-13,Mon Oct 16 2000,Millwall FC,1-1,Bristol City FC
-13,Mon Oct 16 2000,Notts County FC,1-0,Bury FC
-13,Mon Oct 16 2000,Oldham Athletic AFC,2-0,Wycombe Wanderers FC
-13,Mon Oct 16 2000,Oxford United FC,0-0,Luton Town FC
-13,Mon Oct 16 2000,Port Vale FC,2-2,Northampton Town FC
-13,Mon Oct 16 2000,Reading FC,4-1,Wrexham AFC
-13,Mon Oct 16 2000,Swansea City FC,0-0,Swindon Town FC
+12,Fri Oct 13 2000,Oxford United FC,3-4,Wrexham AFC
+12,Fri Oct 13 2000,Oldham Athletic AFC,1-0,Swindon Town FC
+12,Fri Oct 13 2000,AFC Bournemouth,0-1,Rotherham United FC
+12,Fri Oct 13 2000,Millwall FC,4-0,Bury FC
+12,Fri Oct 13 2000,Bristol Rovers FC,0-1,Northampton Town FC
+12,Fri Oct 13 2000,Brentford FC,1-0,Peterborough United FC
+12,Fri Oct 13 2000,Notts County FC,2-2,Wigan Athletic FC
 13,Mon Oct 16 2000,Walsall FC,1-1,Peterborough United FC
+13,Mon Oct 16 2000,Swansea City FC,0-0,Swindon Town FC
+13,Mon Oct 16 2000,Reading FC,4-1,Wrexham AFC
+13,Mon Oct 16 2000,Port Vale FC,2-2,Northampton Town FC
+13,Mon Oct 16 2000,Oxford United FC,0-0,Luton Town FC
+13,Mon Oct 16 2000,Oldham Athletic AFC,2-0,Wycombe Wanderers FC
+13,Mon Oct 16 2000,Notts County FC,1-0,Bury FC
+13,Mon Oct 16 2000,Millwall FC,1-1,Bristol City FC
+13,Mon Oct 16 2000,AFC Bournemouth,0-0,Wigan Athletic FC
+13,Mon Oct 16 2000,Bristol Rovers FC,1-1,Rotherham United FC
+13,Mon Oct 16 2000,Brentford FC,1-0,Colchester United FC
+13,Mon Oct 16 2000,Cambridge United FC,1-1,Stoke City FC
 14,Fri Oct 20 2000,Wycombe Wanderers FC,3-1,Walsall FC
+14,Fri Oct 20 2000,Wrexham AFC,1-0,Swansea City FC
 14,Fri Oct 20 2000,Wigan Athletic FC,1-0,Port Vale FC
 14,Fri Oct 20 2000,Swindon Town FC,1-3,Bristol Rovers FC
 14,Fri Oct 20 2000,Stoke City FC,3-2,Millwall FC
 14,Fri Oct 20 2000,Rotherham United FC,3-1,Oxford United FC
 14,Fri Oct 20 2000,Peterborough United FC,1-0,Notts County FC
+14,Fri Oct 20 2000,Northampton Town FC,2-1,Oldham Athletic AFC
 14,Fri Oct 20 2000,Luton Town FC,3-1,Brentford FC
 14,Fri Oct 20 2000,Colchester United FC,2-0,Cambridge United FC
 14,Fri Oct 20 2000,Bury FC,2-5,AFC Bournemouth
 14,Fri Oct 20 2000,Bristol City FC,4-0,Reading FC
-14,Fri Oct 20 2000,Northampton Town FC,2-1,Oldham Athletic AFC
-14,Fri Oct 20 2000,Wrexham AFC,1-0,Swansea City FC
-15,Mon Oct 23 2000,Walsall FC,3-0,Stoke City FC
-15,Mon Oct 23 2000,Oxford United FC,0-2,Wigan Athletic FC
-15,Mon Oct 23 2000,Bristol City FC,2-1,Peterborough United FC
-15,Mon Oct 23 2000,Bury FC,0-2,Reading FC
-15,Mon Oct 23 2000,Cambridge United FC,1-2,Northampton Town FC
-15,Mon Oct 23 2000,Colchester United FC,2-1,Bristol Rovers FC
-15,Mon Oct 23 2000,AFC Bournemouth,0-1,Notts County FC
-15,Mon Oct 23 2000,Port Vale FC,1-1,Brentford FC
-15,Mon Oct 23 2000,Rotherham United FC,4-2,Swansea City FC
-15,Mon Oct 23 2000,Swindon Town FC,0-2,Millwall FC
 15,Mon Oct 23 2000,Wrexham AFC,0-0,Wycombe Wanderers FC
-16,Fri Oct 27 2000,Reading FC,4-3,Oxford United FC
-16,Fri Oct 27 2000,Wigan Athletic FC,1-0,Bury FC
-16,Fri Oct 27 2000,Bristol Rovers FC,0-2,Oldham Athletic AFC
-16,Fri Oct 27 2000,Brentford FC,2-1,Walsall FC
-16,Fri Oct 27 2000,Luton Town FC,3-4,Wrexham AFC
-16,Fri Oct 27 2000,Stoke City FC,2-1,AFC Bournemouth
-16,Fri Oct 27 2000,Millwall FC,3-1,Cambridge United FC
-16,Fri Oct 27 2000,Swansea City FC,0-1,Port Vale FC
-16,Fri Oct 27 2000,Notts County FC,3-2,Swindon Town FC
+15,Mon Oct 23 2000,Walsall FC,3-0,Stoke City FC
+15,Mon Oct 23 2000,Swindon Town FC,0-2,Millwall FC
+15,Mon Oct 23 2000,Rotherham United FC,4-2,Swansea City FC
+15,Mon Oct 23 2000,Port Vale FC,1-1,Brentford FC
+15,Mon Oct 23 2000,AFC Bournemouth,0-1,Notts County FC
+15,Mon Oct 23 2000,Colchester United FC,2-1,Bristol Rovers FC
+15,Mon Oct 23 2000,Cambridge United FC,1-2,Northampton Town FC
+15,Mon Oct 23 2000,Bury FC,0-2,Reading FC
+15,Mon Oct 23 2000,Bristol City FC,2-1,Peterborough United FC
+15,Mon Oct 23 2000,Oxford United FC,0-2,Wigan Athletic FC
 16,Fri Oct 27 2000,Wycombe Wanderers FC,1-2,Bristol City FC
+16,Fri Oct 27 2000,Brentford FC,2-1,Walsall FC
+16,Fri Oct 27 2000,Swansea City FC,0-1,Port Vale FC
+16,Fri Oct 27 2000,Stoke City FC,2-1,AFC Bournemouth
+16,Fri Oct 27 2000,Reading FC,4-3,Oxford United FC
 16,Fri Oct 27 2000,Peterborough United FC,3-1,Colchester United FC
+16,Fri Oct 27 2000,Notts County FC,3-2,Swindon Town FC
 16,Fri Oct 27 2000,Northampton Town FC,0-1,Rotherham United FC
+16,Fri Oct 27 2000,Millwall FC,3-1,Cambridge United FC
+16,Fri Oct 27 2000,Luton Town FC,3-4,Wrexham AFC
+16,Fri Oct 27 2000,Bristol Rovers FC,0-2,Oldham Athletic AFC
+16,Fri Oct 27 2000,Wigan Athletic FC,1-0,Bury FC
 5,Mon Oct 30 2000,Swansea City FC,2-2,Bristol City FC
 8,Mon Oct 30 2000,Swindon Town FC,3-1,Cambridge United FC
-17,Fri Nov 3 2000,Wrexham AFC,1-2,Stoke City FC
+17,Fri Nov 3 2000,Port Vale FC,1-1,Millwall FC
+17,Fri Nov 3 2000,Walsall FC,2-1,Reading FC
 17,Fri Nov 3 2000,Swindon Town FC,1-1,Wycombe Wanderers FC
 17,Fri Nov 3 2000,Rotherham United FC,1-1,Wigan Athletic FC
 17,Fri Nov 3 2000,AFC Bournemouth,2-1,Peterborough United FC
 17,Fri Nov 3 2000,Oxford United FC,0-1,Bristol Rovers FC
 17,Fri Nov 3 2000,Oldham Athletic AFC,1-1,Swansea City FC
 17,Fri Nov 3 2000,Colchester United FC,0-2,Northampton Town FC
-17,Fri Nov 3 2000,Walsall FC,2-1,Reading FC
+17,Fri Nov 3 2000,Cambridge United FC,1-1,Brentford FC
 17,Fri Nov 3 2000,Bury FC,1-1,Luton Town FC
 17,Fri Nov 3 2000,Bristol City FC,4-0,Notts County FC
-17,Fri Nov 3 2000,Port Vale FC,1-1,Millwall FC
-17,Fri Nov 3 2000,Cambridge United FC,1-1,Brentford FC
+17,Fri Nov 3 2000,Wrexham AFC,1-2,Stoke City FC
 4,Mon Nov 6 2000,Wigan Athletic FC,1-0,Millwall FC
-5,Mon Nov 6 2000,Northampton Town FC,2-2,Stoke City FC
 5,Mon Nov 6 2000,Swindon Town FC,2-2,Wrexham AFC
-18,Fri Nov 10 2000,Luton Town FC,0-3,Bristol City FC
-18,Fri Nov 10 2000,Bristol Rovers FC,0-0,Walsall FC
-18,Fri Nov 10 2000,Peterborough United FC,4-0,Swindon Town FC
-18,Fri Nov 10 2000,Brentford FC,0-3,Rotherham United FC
-18,Fri Nov 10 2000,Reading FC,0-1,Colchester United FC
-18,Fri Nov 10 2000,Wycombe Wanderers FC,2-1,Bury FC
-18,Fri Nov 10 2000,Millwall FC,1-0,Wrexham AFC
-18,Fri Nov 10 2000,Northampton Town FC,0-3,AFC Bournemouth
+5,Mon Nov 6 2000,Northampton Town FC,2-2,Stoke City FC
+18,Fri Nov 10 2000,Stoke City FC,0-1,Oldham Athletic AFC
 18,Fri Nov 10 2000,Wigan Athletic FC,2-1,Cambridge United FC
 18,Fri Nov 10 2000,Swansea City FC,1-2,Oxford United FC
-18,Fri Nov 10 2000,Stoke City FC,0-1,Oldham Athletic AFC
+18,Fri Nov 10 2000,Wycombe Wanderers FC,2-1,Bury FC
+18,Fri Nov 10 2000,Reading FC,0-1,Colchester United FC
+18,Fri Nov 10 2000,Peterborough United FC,4-0,Swindon Town FC
+18,Fri Nov 10 2000,Northampton Town FC,0-3,AFC Bournemouth
+18,Fri Nov 10 2000,Millwall FC,1-0,Wrexham AFC
+18,Fri Nov 10 2000,Luton Town FC,0-3,Bristol City FC
+18,Fri Nov 10 2000,Brentford FC,0-3,Rotherham United FC
+18,Fri Nov 10 2000,Bristol Rovers FC,0-0,Walsall FC
 11,Mon Nov 20 2000,Wrexham AFC,2-2,Cambridge United FC
 5,Tue Nov 21 2000,Bristol Rovers FC,1-2,Millwall FC
-19,Fri Nov 24 2000,Rotherham United FC,3-0,Peterborough United FC
-19,Fri Nov 24 2000,Oxford United FC,2-3,Notts County FC
-19,Fri Nov 24 2000,Oldham Athletic AFC,0-1,Millwall FC
-19,Fri Nov 24 2000,Colchester United FC,0-0,Wycombe Wanderers FC
-19,Fri Nov 24 2000,Cambridge United FC,3-3,Swansea City FC
-19,Fri Nov 24 2000,Port Vale FC,3-0,Luton Town FC
 19,Fri Nov 24 2000,Bristol City FC,1-1,Wigan Athletic FC
 19,Fri Nov 24 2000,Walsall FC,3-0,Northampton Town FC
 19,Fri Nov 24 2000,Swindon Town FC,0-3,Stoke City FC
 19,Fri Nov 24 2000,Wrexham AFC,1-0,Bristol Rovers FC
-20,Fri Dec 1 2000,Stoke City FC,1-3,Luton Town FC
-20,Fri Dec 1 2000,Brentford FC,2-2,Wigan Athletic FC
-20,Fri Dec 1 2000,Bristol City FC,4-1,Bury FC
-20,Fri Dec 1 2000,Colchester United FC,2-0,Notts County FC
-20,Fri Dec 1 2000,Northampton Town FC,0-1,Swindon Town FC
-20,Fri Dec 1 2000,Oldham Athletic AFC,3-2,Oxford United FC
-20,Fri Dec 1 2000,Rotherham United FC,3-2,Millwall FC
-20,Fri Dec 1 2000,Reading FC,3-0,Cambridge United FC
+19,Fri Nov 24 2000,Port Vale FC,3-0,Luton Town FC
+19,Fri Nov 24 2000,Oxford United FC,2-3,Notts County FC
+19,Fri Nov 24 2000,Oldham Athletic AFC,0-1,Millwall FC
+19,Fri Nov 24 2000,Colchester United FC,0-0,Wycombe Wanderers FC
+19,Fri Nov 24 2000,Cambridge United FC,3-3,Swansea City FC
+19,Fri Nov 24 2000,Rotherham United FC,3-0,Peterborough United FC
 20,Fri Dec 1 2000,Wycombe Wanderers FC,0-3,AFC Bournemouth
 20,Fri Dec 1 2000,Walsall FC,2-1,Port Vale FC
 20,Fri Dec 1 2000,Swansea City FC,0-0,Bristol Rovers FC
+20,Fri Dec 1 2000,Stoke City FC,1-3,Luton Town FC
+20,Fri Dec 1 2000,Rotherham United FC,3-2,Millwall FC
+20,Fri Dec 1 2000,Reading FC,3-0,Cambridge United FC
 20,Fri Dec 1 2000,Peterborough United FC,1-0,Wrexham AFC
+20,Fri Dec 1 2000,Oldham Athletic AFC,3-2,Oxford United FC
+20,Fri Dec 1 2000,Northampton Town FC,0-1,Swindon Town FC
+20,Fri Dec 1 2000,Colchester United FC,2-0,Notts County FC
+20,Fri Dec 1 2000,Bristol City FC,4-1,Bury FC
+20,Fri Dec 1 2000,Brentford FC,2-2,Wigan Athletic FC
 7,Mon Dec 11 2000,Bristol City FC,1-2,Brentford FC
 21,Thu Dec 14 2000,Cambridge United FC,0-0,Peterborough United FC
-21,Fri Dec 15 2000,Bury FC,1-1,Oldham Athletic AFC
-21,Fri Dec 15 2000,Millwall FC,2-0,Walsall FC
-21,Fri Dec 15 2000,Notts County FC,3-2,Reading FC
-21,Fri Dec 15 2000,Bristol Rovers FC,0-3,Stoke City FC
-21,Fri Dec 15 2000,Wrexham AFC,2-1,Brentford FC
-21,Fri Dec 15 2000,Luton Town FC,0-3,Colchester United FC
-21,Fri Dec 15 2000,Oxford United FC,3-1,Northampton Town FC
-21,Fri Dec 15 2000,Port Vale FC,1-2,Bristol City FC
+21,Fri Dec 15 2000,AFC Bournemouth,2-0,Swansea City FC
 21,Fri Dec 15 2000,Wigan Athletic FC,2-1,Wycombe Wanderers FC
 21,Fri Dec 15 2000,Swindon Town FC,2-1,Rotherham United FC
-21,Fri Dec 15 2000,AFC Bournemouth,2-0,Swansea City FC
-22,Thu Dec 21 2000,Bristol City FC,3-2,Bristol Rovers FC
-22,Thu Dec 21 2000,Colchester United FC,3-2,Oxford United FC
+21,Fri Dec 15 2000,Port Vale FC,1-2,Bristol City FC
+21,Fri Dec 15 2000,Wrexham AFC,2-1,Brentford FC
+21,Fri Dec 15 2000,Notts County FC,3-2,Reading FC
+21,Fri Dec 15 2000,Millwall FC,2-0,Walsall FC
+21,Fri Dec 15 2000,Luton Town FC,0-3,Colchester United FC
+21,Fri Dec 15 2000,Bury FC,1-1,Oldham Athletic AFC
+21,Fri Dec 15 2000,Bristol Rovers FC,0-3,Stoke City FC
+21,Fri Dec 15 2000,Oxford United FC,3-1,Northampton Town FC
 22,Thu Dec 21 2000,Port Vale FC,0-2,Rotherham United FC
-22,Fri Dec 22 2000,Bury FC,1-0,Swindon Town FC
+22,Thu Dec 21 2000,Colchester United FC,3-2,Oxford United FC
+22,Thu Dec 21 2000,Bristol City FC,3-2,Bristol Rovers FC
+22,Fri Dec 22 2000,Walsall FC,3-1,Cambridge United FC
+22,Fri Dec 22 2000,Wigan Athletic FC,1-1,Stoke City FC
 22,Fri Dec 22 2000,Wycombe Wanderers FC,2-1,Swansea City FC
 22,Fri Dec 22 2000,AFC Bournemouth,1-2,Millwall FC
 22,Fri Dec 22 2000,Peterborough United FC,1-2,Northampton Town FC
 22,Fri Dec 22 2000,Notts County FC,1-0,Wrexham AFC
-22,Fri Dec 22 2000,Reading FC,4-1,Luton Town FC
+22,Fri Dec 22 2000,Bury FC,1-0,Swindon Town FC
 22,Fri Dec 22 2000,Brentford FC,1-1,Oldham Athletic AFC
-22,Fri Dec 22 2000,Walsall FC,3-1,Cambridge United FC
-22,Fri Dec 22 2000,Wigan Athletic FC,1-1,Stoke City FC
-23,Mon Dec 25 2000,Oxford United FC,1-2,AFC Bournemouth
-23,Mon Dec 25 2000,Cambridge United FC,1-0,Wycombe Wanderers FC
-23,Mon Dec 25 2000,Millwall FC,6-1,Colchester United FC
-23,Mon Dec 25 2000,Luton Town FC,3-2,Peterborough United FC
-23,Mon Dec 25 2000,Rotherham United FC,0-0,Notts County FC
-23,Mon Dec 25 2000,Northampton Town FC,2-0,Bristol City FC
-23,Mon Dec 25 2000,Oldham Athletic AFC,2-1,Wigan Athletic FC
+22,Fri Dec 22 2000,Reading FC,4-1,Luton Town FC
 23,Mon Dec 25 2000,Wrexham AFC,1-0,Port Vale FC
 23,Mon Dec 25 2000,Swindon Town FC,2-3,Brentford FC
 23,Mon Dec 25 2000,Swansea City FC,3-1,Walsall FC
 23,Mon Dec 25 2000,Stoke City FC,2-1,Bury FC
+23,Mon Dec 25 2000,Rotherham United FC,0-0,Notts County FC
+23,Mon Dec 25 2000,Oxford United FC,1-2,AFC Bournemouth
+23,Mon Dec 25 2000,Oldham Athletic AFC,2-1,Wigan Athletic FC
+23,Mon Dec 25 2000,Northampton Town FC,2-0,Bristol City FC
 23,Mon Dec 25 2000,Bristol Rovers FC,2-2,Reading FC
-24,Fri Dec 29 2000,Northampton Town FC,2-2,Wycombe Wanderers FC
-24,Fri Dec 29 2000,Oldham Athletic AFC,0-0,Walsall FC
-24,Fri Dec 29 2000,Luton Town FC,0-2,Wigan Athletic FC
-24,Fri Dec 29 2000,Millwall FC,2-3,Notts County FC
+23,Mon Dec 25 2000,Luton Town FC,3-2,Peterborough United FC
+23,Mon Dec 25 2000,Cambridge United FC,1-0,Wycombe Wanderers FC
+23,Mon Dec 25 2000,Millwall FC,6-1,Colchester United FC
 24,Fri Dec 29 2000,Stoke City FC,1-0,Bristol City FC
-25,Sat Dec 30 2000,Walsall FC,1-0,Swindon Town FC
-25,Sat Dec 30 2000,AFC Bournemouth,3-2,Luton Town FC
-25,Sat Dec 30 2000,Brentford FC,3-0,Oxford United FC
-25,Sat Dec 30 2000,Bristol City FC,6-2,Cambridge United FC
-25,Sat Dec 30 2000,Bury FC,0-0,Rotherham United FC
-25,Sat Dec 30 2000,Wigan Athletic FC,0-0,Wrexham AFC
-25,Sat Dec 30 2000,Notts County FC,2-2,Stoke City FC
-25,Sat Dec 30 2000,Reading FC,1-1,Northampton Town FC
+24,Fri Dec 29 2000,Northampton Town FC,2-2,Wycombe Wanderers FC
+24,Fri Dec 29 2000,Millwall FC,2-3,Notts County FC
+24,Fri Dec 29 2000,Luton Town FC,0-2,Wigan Athletic FC
+24,Fri Dec 29 2000,Oldham Athletic AFC,0-0,Walsall FC
 25,Sat Dec 30 2000,Peterborough United FC,0-0,Oldham Athletic AFC
-26,Fri Jan 5 2001,Brentford FC,1-1,Northampton Town FC
-26,Fri Jan 5 2001,Reading FC,3-4,Millwall FC
-26,Fri Jan 5 2001,Bury FC,0-1,Cambridge United FC
+25,Sat Dec 30 2000,Reading FC,1-1,Northampton Town FC
+25,Sat Dec 30 2000,Notts County FC,2-2,Stoke City FC
+25,Sat Dec 30 2000,Wigan Athletic FC,0-0,Wrexham AFC
+25,Sat Dec 30 2000,Bury FC,0-0,Rotherham United FC
+25,Sat Dec 30 2000,Bristol City FC,6-2,Cambridge United FC
+25,Sat Dec 30 2000,Brentford FC,3-0,Oxford United FC
+25,Sat Dec 30 2000,AFC Bournemouth,3-2,Luton Town FC
+25,Sat Dec 30 2000,Walsall FC,1-0,Swindon Town FC
 26,Fri Jan 5 2001,Wigan Athletic FC,2-0,Swansea City FC
+26,Fri Jan 5 2001,Reading FC,3-4,Millwall FC
 26,Fri Jan 5 2001,Port Vale FC,0-0,Oldham Athletic AFC
+26,Fri Jan 5 2001,Brentford FC,1-1,Northampton Town FC
+26,Fri Jan 5 2001,Bury FC,0-1,Cambridge United FC
 27,Thu Jan 11 2001,Luton Town FC,1-2,Wycombe Wanderers FC
 27,Fri Jan 12 2001,Swansea City FC,2-2,Peterborough United FC
-27,Fri Jan 12 2001,Millwall FC,3-1,Wigan Athletic FC
-27,Fri Jan 12 2001,Northampton Town FC,2-1,Bury FC
 27,Fri Jan 12 2001,Swindon Town FC,0-1,Port Vale FC
 27,Fri Jan 12 2001,Wrexham AFC,2-2,AFC Bournemouth
 27,Fri Jan 12 2001,Stoke City FC,0-0,Reading FC
 27,Fri Jan 12 2001,Rotherham United FC,1-1,Bristol City FC
+27,Fri Jan 12 2001,Oxford United FC,2-1,Walsall FC
 27,Fri Jan 12 2001,Oldham Athletic AFC,1-1,Colchester United FC
+27,Fri Jan 12 2001,Northampton Town FC,2-1,Bury FC
+27,Fri Jan 12 2001,Millwall FC,3-1,Wigan Athletic FC
 27,Fri Jan 12 2001,Cambridge United FC,2-2,Notts County FC
 27,Fri Jan 12 2001,Bristol Rovers FC,0-0,Brentford FC
-27,Fri Jan 12 2001,Oxford United FC,2-1,Walsall FC
 11,Tue Jan 16 2001,Stoke City FC,1-0,Brentford FC
-28,Fri Jan 19 2001,Bristol City FC,2-0,Northampton Town FC
-28,Fri Jan 19 2001,Reading FC,1-0,Bristol Rovers FC
-28,Fri Jan 19 2001,Walsall FC,5-1,Swansea City FC
 28,Fri Jan 19 2001,Wigan Athletic FC,3-1,Oldham Athletic AFC
+28,Fri Jan 19 2001,Walsall FC,5-1,Swansea City FC
+28,Fri Jan 19 2001,Reading FC,1-0,Bristol Rovers FC
+28,Fri Jan 19 2001,Bristol City FC,2-0,Northampton Town FC
 28,Fri Jan 19 2001,Notts County FC,4-1,Rotherham United FC
-24,Mon Jan 22 2001,Cambridge United FC,0-2,AFC Bournemouth
-26,Mon Jan 22 2001,Walsall FC,1-1,Rotherham United FC
 15,Mon Jan 22 2001,Oldham Athletic AFC,2-0,Luton Town FC
 19,Mon Jan 22 2001,Bury FC,0-1,Brentford FC
+24,Mon Jan 22 2001,Cambridge United FC,0-2,AFC Bournemouth
+26,Mon Jan 22 2001,Walsall FC,1-1,Rotherham United FC
+29,Fri Jan 26 2001,Oxford United FC,0-1,Colchester United FC
+29,Fri Jan 26 2001,Stoke City FC,2-0,Wigan Athletic FC
+29,Fri Jan 26 2001,Rotherham United FC,3-2,Port Vale FC
 29,Fri Jan 26 2001,Swindon Town FC,3-0,Bury FC
 29,Fri Jan 26 2001,Oldham Athletic AFC,3-0,Brentford FC
-29,Fri Jan 26 2001,Stoke City FC,2-0,Wigan Athletic FC
-29,Fri Jan 26 2001,Oxford United FC,0-1,Colchester United FC
-29,Fri Jan 26 2001,Millwall FC,0-1,AFC Bournemouth
-29,Fri Jan 26 2001,Rotherham United FC,3-2,Port Vale FC
-29,Fri Jan 26 2001,Cambridge United FC,0-1,Walsall FC
 29,Fri Jan 26 2001,Northampton Town FC,0-0,Peterborough United FC
+29,Fri Jan 26 2001,Millwall FC,0-1,AFC Bournemouth
+29,Fri Jan 26 2001,Cambridge United FC,0-1,Walsall FC
 26,Mon Jan 29 2001,Peterborough United FC,4-2,Oxford United FC
 30,Thu Feb 1 2001,Wigan Athletic FC,1-1,Walsall FC
-30,Fri Feb 2 2001,Millwall FC,3-0,Bristol Rovers FC
-30,Fri Feb 2 2001,Bristol City FC,3-1,Swansea City FC
 30,Fri Feb 2 2001,Wycombe Wanderers FC,0-0,Brentford FC
 30,Fri Feb 2 2001,Stoke City FC,1-1,Northampton Town FC
 30,Fri Feb 2 2001,Reading FC,1-0,Port Vale FC
-30,Fri Feb 2 2001,Bury FC,2-1,Peterborough United FC
-30,Fri Feb 2 2001,AFC Bournemouth,2-2,Colchester United FC
 30,Fri Feb 2 2001,Notts County FC,1-0,Oldham Athletic AFC
+30,Fri Feb 2 2001,AFC Bournemouth,2-2,Colchester United FC
+30,Fri Feb 2 2001,Bury FC,2-1,Peterborough United FC
+30,Fri Feb 2 2001,Bristol City FC,3-1,Swansea City FC
+30,Fri Feb 2 2001,Millwall FC,3-0,Bristol Rovers FC
 30,Sat Feb 3 2001,Wrexham AFC,1-1,Swindon Town FC
 28,Mon Feb 5 2001,Wycombe Wanderers FC,0-2,Cambridge United FC
 28,Mon Feb 5 2001,Colchester United FC,0-1,Millwall FC
-31,Fri Feb 9 2001,Oldham Athletic AFC,5-1,Wrexham AFC
-31,Fri Feb 9 2001,Rotherham United FC,3-0,Cambridge United FC
-31,Fri Feb 9 2001,Swindon Town FC,1-1,Bristol City FC
-31,Fri Feb 9 2001,Peterborough United FC,0-4,Stoke City FC
 31,Fri Feb 9 2001,Walsall FC,1-2,Bury FC
-31,Fri Feb 9 2001,Brentford FC,1-2,Reading FC
+31,Fri Feb 9 2001,Swindon Town FC,1-1,Bristol City FC
+31,Fri Feb 9 2001,Rotherham United FC,3-0,Cambridge United FC
 31,Fri Feb 9 2001,Port Vale FC,2-1,AFC Bournemouth
+31,Fri Feb 9 2001,Peterborough United FC,0-4,Stoke City FC
+31,Fri Feb 9 2001,Brentford FC,1-2,Reading FC
+31,Fri Feb 9 2001,Oldham Athletic AFC,5-1,Wrexham AFC
 31,Fri Feb 9 2001,Northampton Town FC,0-1,Luton Town FC
-31,Fri Feb 9 2001,Oxford United FC,1-2,Wycombe Wanderers FC
-31,Fri Feb 9 2001,Bristol Rovers FC,0-0,Notts County FC
 31,Fri Feb 9 2001,Colchester United FC,0-2,Wigan Athletic FC
+31,Fri Feb 9 2001,Bristol Rovers FC,0-0,Notts County FC
+31,Fri Feb 9 2001,Oxford United FC,1-2,Wycombe Wanderers FC
 31,Sat Feb 10 2001,Swansea City FC,0-0,Millwall FC
-26,Mon Feb 12 2001,Bristol City FC,2-1,Wrexham AFC
 26,Mon Feb 12 2001,Notts County FC,1-3,Luton Town FC
+26,Mon Feb 12 2001,Bristol City FC,2-1,Wrexham AFC
 32,Thu Feb 15 2001,Millwall FC,1-0,Brentford FC
 32,Fri Feb 16 2001,Stoke City FC,1-1,Port Vale FC
-32,Fri Feb 16 2001,Notts County FC,2-0,Northampton Town FC
 32,Fri Feb 16 2001,Wigan Athletic FC,0-0,Bristol Rovers FC
 32,Fri Feb 16 2001,Wrexham AFC,1-0,Colchester United FC
 32,Fri Feb 16 2001,Reading FC,1-1,Peterborough United FC
 32,Fri Feb 16 2001,AFC Bournemouth,2-2,Walsall FC
 32,Fri Feb 16 2001,Luton Town FC,5-3,Swansea City FC
-32,Fri Feb 16 2001,Bury FC,3-1,Oxford United FC
 32,Fri Feb 16 2001,Cambridge United FC,0-1,Swindon Town FC
-33,Mon Feb 19 2001,Port Vale FC,4-2,Cambridge United FC
-33,Mon Feb 19 2001,Brentford FC,2-1,Bristol City FC
-33,Mon Feb 19 2001,Colchester United FC,1-1,Bury FC
-33,Mon Feb 19 2001,Swansea City FC,0-1,Notts County FC
-33,Mon Feb 19 2001,Swindon Town FC,1-1,AFC Bournemouth
-33,Mon Feb 19 2001,Northampton Town FC,3-3,Millwall FC
-33,Mon Feb 19 2001,Oldham Athletic AFC,0-2,Reading FC
-33,Mon Feb 19 2001,Oxford United FC,1-1,Stoke City FC
-33,Mon Feb 19 2001,Peterborough United FC,2-0,Wigan Athletic FC
+32,Fri Feb 16 2001,Bury FC,3-1,Oxford United FC
+32,Fri Feb 16 2001,Notts County FC,2-0,Northampton Town FC
 33,Mon Feb 19 2001,Walsall FC,3-1,Luton Town FC
+33,Mon Feb 19 2001,Swindon Town FC,1-1,AFC Bournemouth
+33,Mon Feb 19 2001,Swansea City FC,0-1,Notts County FC
 33,Mon Feb 19 2001,Rotherham United FC,2-0,Wrexham AFC
+33,Mon Feb 19 2001,Port Vale FC,4-2,Cambridge United FC
+33,Mon Feb 19 2001,Peterborough United FC,2-0,Wigan Athletic FC
+33,Mon Feb 19 2001,Oxford United FC,1-1,Stoke City FC
+33,Mon Feb 19 2001,Oldham Athletic AFC,0-2,Reading FC
+33,Mon Feb 19 2001,Northampton Town FC,3-3,Millwall FC
+33,Mon Feb 19 2001,Colchester United FC,1-1,Bury FC
+33,Mon Feb 19 2001,Brentford FC,2-1,Bristol City FC
+34,Fri Feb 23 2001,Walsall FC,2-3,Wrexham AFC
+34,Fri Feb 23 2001,Swindon Town FC,1-3,Luton Town FC
+34,Fri Feb 23 2001,Swansea City FC,0-1,Reading FC
+34,Fri Feb 23 2001,Rotherham United FC,2-1,Stoke City FC
+34,Fri Feb 23 2001,Port Vale FC,1-1,Bury FC
+34,Fri Feb 23 2001,Peterborough United FC,3-2,Wycombe Wanderers FC
+34,Fri Feb 23 2001,Oxford United FC,0-2,Millwall FC
+34,Fri Feb 23 2001,Brentford FC,3-1,Notts County FC
 34,Fri Feb 23 2001,Northampton Town FC,1-0,Wigan Athletic FC
 34,Fri Feb 23 2001,Colchester United FC,4-0,Bristol City FC
 34,Fri Feb 23 2001,Bristol Rovers FC,2-1,Cambridge United FC
-34,Fri Feb 23 2001,Oxford United FC,0-2,Millwall FC
 34,Fri Feb 23 2001,Oldham Athletic AFC,2-1,AFC Bournemouth
-34,Fri Feb 23 2001,Walsall FC,2-3,Wrexham AFC
-34,Fri Feb 23 2001,Swindon Town FC,1-3,Luton Town FC
-34,Fri Feb 23 2001,Brentford FC,3-1,Notts County FC
-34,Fri Feb 23 2001,Swansea City FC,0-1,Reading FC
-34,Fri Feb 23 2001,Port Vale FC,1-1,Bury FC
-34,Fri Feb 23 2001,Rotherham United FC,2-1,Stoke City FC
-34,Fri Feb 23 2001,Peterborough United FC,3-2,Wycombe Wanderers FC
-26,Mon Feb 26 2001,AFC Bournemouth,1-2,Bristol Rovers FC
-24,Mon Feb 26 2001,Rotherham United FC,3-2,Colchester United FC
 11,Mon Feb 26 2001,Northampton Town FC,2-1,Swansea City FC
+24,Mon Feb 26 2001,Rotherham United FC,3-2,Colchester United FC
+26,Mon Feb 26 2001,AFC Bournemouth,1-2,Bristol Rovers FC
 35,Thu Mar 1 2001,Wrexham AFC,3-0,Northampton Town FC
-35,Fri Mar 2 2001,AFC Bournemouth,2-0,Brentford FC
-35,Fri Mar 2 2001,Wigan Athletic FC,0-0,Swindon Town FC
-35,Fri Mar 2 2001,Wycombe Wanderers FC,0-1,Port Vale FC
-35,Fri Mar 2 2001,Stoke City FC,3-1,Colchester United FC
-35,Fri Mar 2 2001,Luton Town FC,0-0,Bristol Rovers FC
 35,Fri Mar 2 2001,Reading FC,2-0,Rotherham United FC
+35,Fri Mar 2 2001,Wigan Athletic FC,0-0,Swindon Town FC
+35,Fri Mar 2 2001,Stoke City FC,3-1,Colchester United FC
+35,Fri Mar 2 2001,Wycombe Wanderers FC,0-1,Port Vale FC
+35,Fri Mar 2 2001,AFC Bournemouth,2-0,Brentford FC
+35,Fri Mar 2 2001,Millwall FC,0-0,Peterborough United FC
+35,Fri Mar 2 2001,Luton Town FC,0-0,Bristol Rovers FC
 35,Fri Mar 2 2001,Cambridge United FC,2-0,Oldham Athletic AFC
 35,Fri Mar 2 2001,Bury FC,3-0,Swansea City FC
 35,Fri Mar 2 2001,Bristol City FC,0-0,Oxford United FC
 35,Fri Mar 2 2001,Notts County FC,2-0,Walsall FC
-35,Fri Mar 2 2001,Millwall FC,0-0,Peterborough United FC
-36,Mon Mar 5 2001,Bristol City FC,1-3,Walsall FC
-36,Mon Mar 5 2001,Peterborough United FC,1-1,Brentford FC
-36,Mon Mar 5 2001,Rotherham United FC,3-1,AFC Bournemouth
-36,Mon Mar 5 2001,Swindon Town FC,3-0,Oldham Athletic AFC
-36,Mon Mar 5 2001,Wigan Athletic FC,1-1,Notts County FC
+36,Mon Mar 5 2001,Wycombe Wanderers FC,1-1,Reading FC
 36,Mon Mar 5 2001,Wrexham AFC,5-3,Oxford United FC
+36,Mon Mar 5 2001,Wigan Athletic FC,1-1,Notts County FC
+36,Mon Mar 5 2001,Swindon Town FC,3-0,Oldham Athletic AFC
+36,Mon Mar 5 2001,Rotherham United FC,3-1,AFC Bournemouth
+36,Mon Mar 5 2001,Peterborough United FC,1-1,Brentford FC
+36,Mon Mar 5 2001,Bristol City FC,1-3,Walsall FC
 36,Mon Mar 5 2001,Luton Town FC,1-0,Cambridge United FC
 36,Mon Mar 5 2001,Bury FC,2-1,Millwall FC
 36,Mon Mar 5 2001,Northampton Town FC,2-1,Bristol Rovers FC
-36,Mon Mar 5 2001,Wycombe Wanderers FC,1-1,Reading FC
-36,Tue Mar 6 2001,Colchester United FC,0-1,Port Vale FC
 36,Tue Mar 6 2001,Stoke City FC,1-2,Swansea City FC
+36,Tue Mar 6 2001,Colchester United FC,0-1,Port Vale FC
 37,Thu Mar 8 2001,Reading FC,1-0,Wigan Athletic FC
-37,Fri Mar 9 2001,Cambridge United FC,2-3,Wrexham AFC
-37,Fri Mar 9 2001,AFC Bournemouth,4-0,Bristol City FC
-37,Fri Mar 9 2001,Millwall FC,1-0,Luton Town FC
-37,Fri Mar 9 2001,Bristol Rovers FC,2-0,Bury FC
 37,Fri Mar 9 2001,Walsall FC,0-1,Colchester United FC
 37,Fri Mar 9 2001,Swansea City FC,1-1,Northampton Town FC
 37,Fri Mar 9 2001,Port Vale FC,5-0,Peterborough United FC
-37,Fri Mar 9 2001,Oldham Athletic AFC,2-3,Rotherham United FC
-37,Fri Mar 9 2001,Brentford FC,2-2,Stoke City FC
 37,Fri Mar 9 2001,Oxford United FC,0-1,Swindon Town FC
+37,Fri Mar 9 2001,Oldham Athletic AFC,2-3,Rotherham United FC
+37,Fri Mar 9 2001,Millwall FC,1-0,Luton Town FC
+37,Fri Mar 9 2001,AFC Bournemouth,4-0,Bristol City FC
+37,Fri Mar 9 2001,Bristol Rovers FC,2-0,Bury FC
+37,Fri Mar 9 2001,Brentford FC,2-2,Stoke City FC
+37,Fri Mar 9 2001,Cambridge United FC,2-3,Wrexham AFC
 26,Mon Mar 12 2001,Wycombe Wanderers FC,0-1,Stoke City FC
 38,Thu Mar 15 2001,Bristol City FC,2-1,Millwall FC
 38,Thu Mar 15 2001,Colchester United FC,3-1,Brentford FC
-38,Fri Mar 16 2001,Wrexham AFC,1-2,Reading FC
 38,Fri Mar 16 2001,Wycombe Wanderers FC,2-1,Oldham Athletic AFC
-38,Fri Mar 16 2001,Swindon Town FC,1-1,Swansea City FC
-38,Fri Mar 16 2001,Rotherham United FC,3-0,Bristol Rovers FC
+38,Fri Mar 16 2001,Wrexham AFC,1-2,Reading FC
 38,Fri Mar 16 2001,Wigan Athletic FC,1-1,AFC Bournemouth
+38,Fri Mar 16 2001,Swindon Town FC,1-1,Swansea City FC
 38,Fri Mar 16 2001,Stoke City FC,2-3,Cambridge United FC
+38,Fri Mar 16 2001,Rotherham United FC,3-0,Bristol Rovers FC
 38,Fri Mar 16 2001,Bury FC,1-1,Notts County FC
+24,Mon Mar 19 2001,Wrexham AFC,0-1,Bury FC
 26,Mon Mar 19 2001,Colchester United FC,0-1,Swindon Town FC
 32,Mon Mar 19 2001,Wycombe Wanderers FC,0-1,Rotherham United FC
-24,Mon Mar 19 2001,Wrexham AFC,0-1,Bury FC
-39,Thu Mar 22 2001,Reading FC,1-3,Bristol City FC
 39,Thu Mar 22 2001,Notts County FC,3-3,Peterborough United FC
 39,Thu Mar 22 2001,Oldham Athletic AFC,2-1,Northampton Town FC
-39,Fri Mar 23 2001,AFC Bournemouth,1-0,Bury FC
-39,Fri Mar 23 2001,Oxford United FC,4-3,Rotherham United FC
-39,Fri Mar 23 2001,Bristol Rovers FC,0-0,Swindon Town FC
+39,Thu Mar 22 2001,Reading FC,1-3,Bristol City FC
 39,Fri Mar 23 2001,Walsall FC,5-1,Wycombe Wanderers FC
 39,Fri Mar 23 2001,Port Vale FC,0-0,Wigan Athletic FC
-32,Mon Mar 26 2001,Bristol City FC,2-2,Oldham Athletic AFC
+39,Fri Mar 23 2001,Oxford United FC,4-3,Rotherham United FC
+39,Fri Mar 23 2001,AFC Bournemouth,1-0,Bury FC
+39,Fri Mar 23 2001,Bristol Rovers FC,0-0,Swindon Town FC
 18,Mon Mar 26 2001,Notts County FC,0-1,Port Vale FC
-30,Mon Mar 26 2001,Cambridge United FC,1-0,Oxford United FC
 24,Mon Mar 26 2001,Swindon Town FC,0-1,Reading FC
-28,Mon Mar 26 2001,Bury FC,1-0,Stoke City FC
-28,Mon Mar 26 2001,Peterborough United FC,1-1,Luton Town FC
 25,Mon Mar 26 2001,Wycombe Wanderers FC,0-0,Millwall FC
-40,Fri Mar 30 2001,Oldham Athletic AFC,1-1,Bury FC
-40,Fri Mar 30 2001,Brentford FC,1-0,Wrexham AFC
-40,Fri Mar 30 2001,Swansea City FC,0-3,AFC Bournemouth
-40,Fri Mar 30 2001,Walsall FC,0-0,Millwall FC
+28,Mon Mar 26 2001,Peterborough United FC,1-1,Luton Town FC
+28,Mon Mar 26 2001,Bury FC,1-0,Stoke City FC
+30,Mon Mar 26 2001,Cambridge United FC,1-0,Oxford United FC
+32,Mon Mar 26 2001,Bristol City FC,2-2,Oldham Athletic AFC
 40,Fri Mar 30 2001,Stoke City FC,4-1,Bristol Rovers FC
-40,Fri Mar 30 2001,Bristol City FC,1-1,Port Vale FC
+40,Fri Mar 30 2001,Walsall FC,0-0,Millwall FC
+40,Fri Mar 30 2001,Swansea City FC,0-3,AFC Bournemouth
+40,Fri Mar 30 2001,Wycombe Wanderers FC,1-2,Wigan Athletic FC
 40,Fri Mar 30 2001,Rotherham United FC,4-3,Swindon Town FC
 40,Fri Mar 30 2001,Reading FC,2-1,Notts County FC
 40,Fri Mar 30 2001,Peterborough United FC,4-1,Cambridge United FC
-40,Fri Mar 30 2001,Colchester United FC,3-1,Luton Town FC
+40,Fri Mar 30 2001,Oldham Athletic AFC,1-1,Bury FC
 40,Fri Mar 30 2001,Northampton Town FC,0-1,Oxford United FC
-40,Fri Mar 30 2001,Wycombe Wanderers FC,1-2,Wigan Athletic FC
+40,Fri Mar 30 2001,Colchester United FC,3-1,Luton Town FC
+40,Fri Mar 30 2001,Brentford FC,1-0,Wrexham AFC
+40,Fri Mar 30 2001,Bristol City FC,1-1,Port Vale FC
+25,Mon Apr 2 2001,Colchester United FC,3-0,Swansea City FC
+28,Mon Apr 2 2001,Port Vale FC,1-1,Wrexham AFC
 28,Mon Apr 2 2001,AFC Bournemouth,4-3,Oxford United FC
 29,Mon Apr 2 2001,Bristol Rovers FC,1-1,Bristol City FC
-25,Mon Apr 2 2001,Colchester United FC,3-0,Swansea City FC
 29,Mon Apr 2 2001,Luton Town FC,1-1,Reading FC
-28,Mon Apr 2 2001,Port Vale FC,1-1,Wrexham AFC
 39,Mon Apr 2 2001,Millwall FC,2-0,Stoke City FC
-41,Fri Apr 6 2001,Oxford United FC,0-1,Oldham Athletic AFC
+41,Fri Apr 6 2001,Wigan Athletic FC,1-3,Brentford FC
 41,Fri Apr 6 2001,Wrexham AFC,2-1,Peterborough United FC
 41,Fri Apr 6 2001,Swindon Town FC,1-1,Northampton Town FC
 41,Fri Apr 6 2001,Bristol Rovers FC,1-0,Swansea City FC
-41,Fri Apr 6 2001,Bury FC,0-1,Bristol City FC
+41,Fri Apr 6 2001,Millwall FC,4-0,Rotherham United FC
 41,Fri Apr 6 2001,Luton Town FC,1-2,Stoke City FC
 41,Fri Apr 6 2001,Cambridge United FC,1-1,Reading FC
-41,Fri Apr 6 2001,Millwall FC,4-0,Rotherham United FC
-41,Fri Apr 6 2001,Wigan Athletic FC,1-3,Brentford FC
+41,Fri Apr 6 2001,Bury FC,0-1,Bristol City FC
+41,Fri Apr 6 2001,Oxford United FC,0-1,Oldham Athletic AFC
 25,Sun Apr 8 2001,Port Vale FC,1-0,Bristol Rovers FC
 19,Mon Apr 9 2001,AFC Bournemouth,1-2,Reading FC
-29,Mon Apr 9 2001,Swansea City FC,3-1,Wycombe Wanderers FC
-29,Mon Apr 9 2001,Wrexham AFC,1-1,Notts County FC
-38,Mon Apr 9 2001,Luton Town FC,1-1,Oxford United FC
 28,Mon Apr 9 2001,Brentford FC,0-1,Swindon Town FC
+29,Mon Apr 9 2001,Wrexham AFC,1-1,Notts County FC
+29,Mon Apr 9 2001,Swansea City FC,3-1,Wycombe Wanderers FC
+38,Mon Apr 9 2001,Luton Town FC,1-1,Oxford United FC
 24,Tue Apr 10 2001,Bristol Rovers FC,1-2,Peterborough United FC
 44,Tue Apr 10 2001,Millwall FC,1-0,Port Vale FC
 42,Thu Apr 12 2001,Northampton Town FC,0-2,Cambridge United FC
+42,Fri Apr 13 2001,Stoke City FC,0-0,Walsall FC
+42,Fri Apr 13 2001,Wigan Athletic FC,3-2,Oxford United FC
+42,Fri Apr 13 2001,Swansea City FC,0-0,Rotherham United FC
 42,Fri Apr 13 2001,Wycombe Wanderers FC,1-1,Wrexham AFC
 42,Fri Apr 13 2001,Reading FC,4-1,Bury FC
+42,Fri Apr 13 2001,Brentford FC,1-1,Port Vale FC
 42,Fri Apr 13 2001,Notts County FC,0-2,AFC Bournemouth
 42,Fri Apr 13 2001,Millwall FC,1-0,Swindon Town FC
 42,Fri Apr 13 2001,Luton Town FC,0-0,Oldham Athletic AFC
-42,Fri Apr 13 2001,Brentford FC,1-1,Port Vale FC
-42,Fri Apr 13 2001,Stoke City FC,0-0,Walsall FC
 42,Fri Apr 13 2001,Bristol Rovers FC,2-0,Colchester United FC
-42,Fri Apr 13 2001,Wigan Athletic FC,3-2,Oxford United FC
 42,Fri Apr 13 2001,Peterborough United FC,2-1,Bristol City FC
-42,Fri Apr 13 2001,Swansea City FC,0-0,Rotherham United FC
+43,Sun Apr 15 2001,Wrexham AFC,3-1,Luton Town FC
+43,Sun Apr 15 2001,Swindon Town FC,1-2,Notts County FC
+43,Sun Apr 15 2001,Rotherham United FC,1-0,Northampton Town FC
 43,Sun Apr 15 2001,Port Vale FC,1-0,Swansea City FC
 43,Sun Apr 15 2001,Oldham Athletic AFC,1-0,Bristol Rovers FC
 43,Sun Apr 15 2001,Bristol City FC,1-2,Wycombe Wanderers FC
 43,Sun Apr 15 2001,Bury FC,0-1,Wigan Athletic FC
-43,Sun Apr 15 2001,Swindon Town FC,1-2,Notts County FC
-43,Sun Apr 15 2001,Rotherham United FC,1-0,Northampton Town FC
-43,Sun Apr 15 2001,Wrexham AFC,3-1,Luton Town FC
-43,Mon Apr 16 2001,Colchester United FC,2-2,Peterborough United FC
-43,Mon Apr 16 2001,Oxford United FC,0-2,Reading FC
-43,Mon Apr 16 2001,Cambridge United FC,1-5,Millwall FC
 43,Mon Apr 16 2001,Walsall FC,3-2,Brentford FC
+43,Mon Apr 16 2001,Oxford United FC,0-2,Reading FC
+43,Mon Apr 16 2001,Colchester United FC,2-2,Peterborough United FC
 43,Mon Apr 16 2001,AFC Bournemouth,1-0,Stoke City FC
+43,Mon Apr 16 2001,Cambridge United FC,1-5,Millwall FC
+44,Fri Apr 20 2001,Wycombe Wanderers FC,0-0,Swindon Town FC
 44,Fri Apr 20 2001,Wigan Athletic FC,0-2,Rotherham United FC
+44,Fri Apr 20 2001,Swansea City FC,1-2,Oldham Athletic AFC
 44,Fri Apr 20 2001,Stoke City FC,3-1,Wrexham AFC
 44,Fri Apr 20 2001,Reading FC,2-2,Walsall FC
-44,Fri Apr 20 2001,Wycombe Wanderers FC,0-0,Swindon Town FC
-44,Fri Apr 20 2001,Luton Town FC,1-2,Bury FC
-44,Fri Apr 20 2001,Bristol Rovers FC,6-2,Oxford United FC
-44,Fri Apr 20 2001,Northampton Town FC,2-0,Colchester United FC
-44,Fri Apr 20 2001,Notts County FC,2-1,Bristol City FC
 44,Fri Apr 20 2001,Peterborough United FC,1-2,AFC Bournemouth
-44,Fri Apr 20 2001,Swansea City FC,1-2,Oldham Athletic AFC
+44,Fri Apr 20 2001,Notts County FC,2-1,Bristol City FC
+44,Fri Apr 20 2001,Northampton Town FC,2-0,Colchester United FC
+44,Fri Apr 20 2001,Bristol Rovers FC,6-2,Oxford United FC
+44,Fri Apr 20 2001,Luton Town FC,1-2,Bury FC
 41,Sun Apr 22 2001,AFC Bournemouth,2-0,Wycombe Wanderers FC
-39,Mon Apr 23 2001,Swansea City FC,0-1,Wrexham AFC
 30,Mon Apr 23 2001,Luton Town FC,0-1,Rotherham United FC
 38,Mon Apr 23 2001,Peterborough United FC,2-0,Walsall FC
+39,Mon Apr 23 2001,Swansea City FC,0-1,Wrexham AFC
 44,Tue Apr 24 2001,Brentford FC,2-2,Cambridge United FC
 37,Wed Apr 25 2001,Notts County FC,0-2,Wycombe Wanderers FC
 38,Wed Apr 25 2001,Northampton Town FC,0-2,Port Vale FC
-45,Fri Apr 27 2001,Bristol City FC,3-1,Luton Town FC
-45,Fri Apr 27 2001,Port Vale FC,2-3,Notts County FC
-45,Fri Apr 27 2001,Cambridge United FC,1-2,Wigan Athletic FC
-45,Fri Apr 27 2001,Bury FC,1-1,Wycombe Wanderers FC
-45,Fri Apr 27 2001,Colchester United FC,2-1,Reading FC
-45,Fri Apr 27 2001,Rotherham United FC,2-1,Brentford FC
-45,Fri Apr 27 2001,Oxford United FC,3-1,Swansea City FC
-45,Fri Apr 27 2001,Oldham Athletic AFC,1-2,Stoke City FC
 45,Fri Apr 27 2001,Swindon Town FC,2-1,Peterborough United FC
 45,Fri Apr 27 2001,AFC Bournemouth,2-0,Northampton Town FC
 45,Fri Apr 27 2001,Wrexham AFC,1-1,Millwall FC
+45,Fri Apr 27 2001,Rotherham United FC,2-1,Brentford FC
+45,Fri Apr 27 2001,Port Vale FC,2-3,Notts County FC
+45,Fri Apr 27 2001,Oxford United FC,3-1,Swansea City FC
+45,Fri Apr 27 2001,Oldham Athletic AFC,1-2,Stoke City FC
+45,Fri Apr 27 2001,Colchester United FC,2-1,Reading FC
+45,Fri Apr 27 2001,Cambridge United FC,1-2,Wigan Athletic FC
+45,Fri Apr 27 2001,Bury FC,1-1,Wycombe Wanderers FC
+45,Fri Apr 27 2001,Bristol City FC,3-1,Luton Town FC
 45,Fri Apr 27 2001,Walsall FC,2-1,Bristol Rovers FC
 3,Sun Apr 29 2001,Bristol Rovers FC,0-3,Port Vale FC
-39,Mon Apr 30 2001,Cambridge United FC,2-1,Colchester United FC
-24,Mon Apr 30 2001,Oxford United FC,1-1,Port Vale FC
 24,Mon Apr 30 2001,Swansea City FC,6-0,Brentford FC
+24,Mon Apr 30 2001,Oxford United FC,1-1,Port Vale FC
+39,Mon Apr 30 2001,Cambridge United FC,2-1,Colchester United FC
 33,Tue May 1 2001,Bristol Rovers FC,1-2,Wycombe Wanderers FC
-41,Wed May 2 2001,Notts County FC,2-2,Colchester United FC
-41,Wed May 2 2001,Port Vale FC,0-2,Walsall FC
 39,Wed May 2 2001,Brentford FC,2-2,Luton Town FC
+41,Wed May 2 2001,Port Vale FC,0-2,Walsall FC
+41,Wed May 2 2001,Notts County FC,2-2,Colchester United FC
 46,Thu May 3 2001,Bristol Rovers FC,4-0,Wrexham AFC
-46,Fri May 4 2001,Swansea City FC,1-1,Cambridge United FC
-46,Fri May 4 2001,Wycombe Wanderers FC,1-1,Colchester United FC
 46,Fri May 4 2001,Wigan Athletic FC,0-0,Bristol City FC
+46,Fri May 4 2001,Wycombe Wanderers FC,1-1,Colchester United FC
+46,Fri May 4 2001,Swansea City FC,1-1,Cambridge United FC
 46,Fri May 4 2001,Stoke City FC,4-1,Swindon Town FC
 46,Fri May 4 2001,Reading FC,3-3,AFC Bournemouth
 46,Fri May 4 2001,Peterborough United FC,1-1,Rotherham United FC

@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Fri Aug 11 2000,Wimbledon FC,0-0,Tranmere Rovers FC
 1,Fri Aug 11 2000,Sheffield United FC,2-0,Portsmouth FC
 1,Fri Aug 11 2000,Queens Park Rangers FC,0-0,Birmingham City FC
@@ -12,29 +12,29 @@ Matchday,Date,Team 1,FT,Team 2
 1,Fri Aug 11 2000,Barnsley FC,1-0,Norwich City FC
 1,Sat Aug 12 2000,Wolverhampton Wanderers FC,1-1,Sheffield Wednesday FC
 2,Thu Aug 17 2000,Birmingham City FC,1-3,Fulham FC
-2,Fri Aug 18 2000,Burnley FC,1-0,Wimbledon FC
+2,Fri Aug 18 2000,Sheffield Wednesday FC,2-3,Huddersfield Town AFC
 2,Fri Aug 18 2000,Watford FC,1-0,Barnsley FC
 2,Fri Aug 18 2000,Tranmere Rovers FC,3-2,Gillingham FC
 2,Fri Aug 18 2000,Stockport County FC,1-1,Wolverhampton Wanderers FC
-2,Fri Aug 18 2000,Sheffield Wednesday FC,2-3,Huddersfield Town AFC
+2,Fri Aug 18 2000,West Bromwich Albion FC,0-2,Bolton Wanderers FC
 2,Fri Aug 18 2000,Preston North End FC,3-0,Sheffield United FC
 2,Fri Aug 18 2000,Portsmouth FC,1-1,Grimsby Town FC
 2,Fri Aug 18 2000,Norwich City FC,0-0,Nottingham Forest FC
 2,Fri Aug 18 2000,Crewe Alexandra FC,0-0,Blackburn Rovers FC
-2,Fri Aug 18 2000,West Bromwich Albion FC,0-2,Bolton Wanderers FC
+2,Fri Aug 18 2000,Burnley FC,1-0,Wimbledon FC
 2,Sat Aug 19 2000,Crystal Palace FC,1-1,Queens Park Rangers FC
 3,Thu Aug 24 2000,Gillingham FC,1-1,Portsmouth FC
-3,Fri Aug 25 2000,Nottingham Forest FC,1-2,Birmingham City FC
+3,Fri Aug 25 2000,Wolverhampton Wanderers FC,1-0,Burnley FC
 3,Fri Aug 25 2000,Wimbledon FC,0-0,Watford FC
 3,Fri Aug 25 2000,Sheffield United FC,2-0,Tranmere Rovers FC
 3,Fri Aug 25 2000,Queens Park Rangers FC,1-0,Crewe Alexandra FC
-3,Fri Aug 25 2000,Wolverhampton Wanderers FC,1-0,Burnley FC
+3,Fri Aug 25 2000,Nottingham Forest FC,1-2,Birmingham City FC
 3,Fri Aug 25 2000,Huddersfield Town AFC,1-2,Crystal Palace FC
-3,Fri Aug 25 2000,Barnsley FC,4-1,West Bromwich Albion FC
+3,Fri Aug 25 2000,Grimsby Town FC,0-1,Sheffield Wednesday FC
 3,Fri Aug 25 2000,Fulham FC,4-1,Stockport County FC
 3,Fri Aug 25 2000,Bolton Wanderers FC,2-0,Preston North End FC
 3,Fri Aug 25 2000,Blackburn Rovers FC,3-2,Norwich City FC
-3,Fri Aug 25 2000,Grimsby Town FC,0-1,Sheffield Wednesday FC
+3,Fri Aug 25 2000,Barnsley FC,4-1,West Bromwich Albion FC
 4,Sun Aug 27 2000,Birmingham City FC,4-1,Barnsley FC
 4,Sun Aug 27 2000,Watford FC,4-1,Sheffield United FC
 4,Sun Aug 27 2000,Tranmere Rovers FC,0-1,Bolton Wanderers FC
@@ -42,508 +42,508 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sun Aug 27 2000,Sheffield Wednesday FC,1-1,Blackburn Rovers FC
 4,Sun Aug 27 2000,Preston North End FC,1-1,Wimbledon FC
 4,Sun Aug 27 2000,Portsmouth FC,3-1,Wolverhampton Wanderers FC
-4,Sun Aug 27 2000,West Bromwich Albion FC,2-1,Queens Park Rangers FC
+4,Sun Aug 27 2000,Norwich City FC,0-1,Fulham FC
 4,Sun Aug 27 2000,Crystal Palace FC,2-3,Nottingham Forest FC
 4,Sun Aug 27 2000,Burnley FC,1-1,Gillingham FC
-4,Sun Aug 27 2000,Norwich City FC,0-1,Fulham FC
+4,Sun Aug 27 2000,West Bromwich Albion FC,2-1,Queens Park Rangers FC
 4,Mon Aug 28 2000,Crewe Alexandra FC,2-0,Grimsby Town FC
 5,Thu Aug 31 2000,Tranmere Rovers FC,2-1,Stockport County FC
-5,Fri Sep 1 2000,Preston North End FC,1-0,Portsmouth FC
 5,Fri Sep 1 2000,Gillingham FC,1-0,Wolverhampton Wanderers FC
+5,Fri Sep 1 2000,Preston North End FC,1-0,Portsmouth FC
 5,Sat Sep 2 2000,West Bromwich Albion FC,1-0,Crystal Palace FC
-6,Fri Sep 8 2000,Grimsby Town FC,1-0,Gillingham FC
-6,Fri Sep 8 2000,Blackburn Rovers FC,3-0,Nottingham Forest FC
-6,Fri Sep 8 2000,Birmingham City FC,1-0,Sheffield United FC
-6,Fri Sep 8 2000,Crystal Palace FC,0-1,Burnley FC
-6,Fri Sep 8 2000,Crewe Alexandra FC,0-0,Norwich City FC
-6,Fri Sep 8 2000,Huddersfield Town AFC,2-3,Bolton Wanderers FC
-6,Fri Sep 8 2000,Wolverhampton Wanderers FC,1-2,Tranmere Rovers FC
-6,Fri Sep 8 2000,Queens Park Rangers FC,0-0,Preston North End FC
 6,Fri Sep 8 2000,Sheffield Wednesday FC,0-5,Wimbledon FC
 6,Fri Sep 8 2000,Stockport County FC,0-0,West Bromwich Albion FC
+6,Fri Sep 8 2000,Wolverhampton Wanderers FC,1-2,Tranmere Rovers FC
+6,Fri Sep 8 2000,Queens Park Rangers FC,0-0,Preston North End FC
 6,Fri Sep 8 2000,Portsmouth FC,1-3,Watford FC
+6,Fri Sep 8 2000,Huddersfield Town AFC,2-3,Bolton Wanderers FC
+6,Fri Sep 8 2000,Grimsby Town FC,1-0,Gillingham FC
+6,Fri Sep 8 2000,Crystal Palace FC,0-1,Burnley FC
+6,Fri Sep 8 2000,Birmingham City FC,1-0,Sheffield United FC
+6,Fri Sep 8 2000,Blackburn Rovers FC,3-0,Nottingham Forest FC
+6,Fri Sep 8 2000,Crewe Alexandra FC,0-0,Norwich City FC
 6,Sat Sep 9 2000,Fulham FC,5-1,Barnsley FC
-7,Mon Sep 11 2000,Blackburn Rovers FC,3-4,Watford FC
-7,Mon Sep 11 2000,Fulham FC,3-1,Burnley FC
-7,Mon Sep 11 2000,Portsmouth FC,2-0,Tranmere Rovers FC
-7,Mon Sep 11 2000,Crewe Alexandra FC,0-1,West Bromwich Albion FC
-7,Mon Sep 11 2000,Wolverhampton Wanderers FC,0-0,Sheffield United FC
-7,Mon Sep 11 2000,Birmingham City FC,3-1,Preston North End FC
-7,Mon Sep 11 2000,Stockport County FC,1-3,Norwich City FC
-7,Mon Sep 11 2000,Huddersfield Town AFC,0-2,Wimbledon FC
 7,Mon Sep 11 2000,Grimsby Town FC,0-1,Bolton Wanderers FC
+7,Mon Sep 11 2000,Stockport County FC,1-3,Norwich City FC
+7,Mon Sep 11 2000,Portsmouth FC,2-0,Tranmere Rovers FC
+7,Mon Sep 11 2000,Huddersfield Town AFC,0-2,Wimbledon FC
+7,Mon Sep 11 2000,Wolverhampton Wanderers FC,0-0,Sheffield United FC
+7,Mon Sep 11 2000,Fulham FC,3-1,Burnley FC
 7,Mon Sep 11 2000,Crystal Palace FC,1-0,Barnsley FC
+7,Mon Sep 11 2000,Birmingham City FC,3-1,Preston North End FC
+7,Mon Sep 11 2000,Blackburn Rovers FC,3-4,Watford FC
+7,Mon Sep 11 2000,Crewe Alexandra FC,0-1,West Bromwich Albion FC
 7,Tue Sep 12 2000,Sheffield Wednesday FC,0-1,Nottingham Forest FC
 7,Tue Sep 12 2000,Queens Park Rangers FC,2-2,Gillingham FC
 8,Thu Sep 14 2000,Sheffield United FC,2-0,Blackburn Rovers FC
-8,Fri Sep 15 2000,Gillingham FC,2-1,Huddersfield Town AFC
+8,Fri Sep 15 2000,Preston North End FC,1-1,Stockport County FC
+8,Fri Sep 15 2000,Watford FC,3-0,Crewe Alexandra FC
+8,Fri Sep 15 2000,Tranmere Rovers FC,2-0,Sheffield Wednesday FC
 8,Fri Sep 15 2000,Wimbledon FC,1-1,Wolverhampton Wanderers FC
 8,Fri Sep 15 2000,Nottingham Forest FC,0-3,Fulham FC
 8,Fri Sep 15 2000,Norwich City FC,0-0,Crystal Palace FC
+8,Fri Sep 15 2000,Gillingham FC,2-1,Huddersfield Town AFC
 8,Fri Sep 15 2000,Burnley FC,1-1,Grimsby Town FC
 8,Fri Sep 15 2000,Bolton Wanderers FC,2-0,Portsmouth FC
-8,Fri Sep 15 2000,Watford FC,3-0,Crewe Alexandra FC
-8,Fri Sep 15 2000,Tranmere Rovers FC,2-0,Sheffield Wednesday FC
-8,Fri Sep 15 2000,Preston North End FC,1-1,Stockport County FC
 8,Fri Sep 15 2000,Barnsley FC,4-2,Queens Park Rangers FC
 8,Sat Sep 16 2000,West Bromwich Albion FC,1-1,Birmingham City FC
 9,Fri Sep 22 2000,Birmingham City FC,2-0,Tranmere Rovers FC
-9,Fri Sep 22 2000,Crewe Alexandra FC,2-2,Barnsley FC
-9,Fri Sep 22 2000,Huddersfield Town AFC,0-1,Burnley FC
-9,Fri Sep 22 2000,Blackburn Rovers FC,1-1,Bolton Wanderers FC
-9,Fri Sep 22 2000,Crystal Palace FC,0-1,Sheffield United FC
-9,Fri Sep 22 2000,Fulham FC,3-0,Gillingham FC
-9,Fri Sep 22 2000,Grimsby Town FC,0-2,Nottingham Forest FC
-9,Fri Sep 22 2000,Stockport County FC,2-3,Watford FC
-9,Fri Sep 22 2000,Queens Park Rangers FC,2-1,Wimbledon FC
 9,Fri Sep 22 2000,Sheffield Wednesday FC,1-3,Preston North End FC
+9,Fri Sep 22 2000,Queens Park Rangers FC,2-1,Wimbledon FC
 9,Fri Sep 22 2000,Portsmouth FC,0-1,West Bromwich Albion FC
+9,Fri Sep 22 2000,Stockport County FC,2-3,Watford FC
+9,Fri Sep 22 2000,Grimsby Town FC,0-2,Nottingham Forest FC
+9,Fri Sep 22 2000,Fulham FC,3-0,Gillingham FC
+9,Fri Sep 22 2000,Crystal Palace FC,0-1,Sheffield United FC
+9,Fri Sep 22 2000,Crewe Alexandra FC,2-2,Barnsley FC
+9,Fri Sep 22 2000,Blackburn Rovers FC,1-1,Bolton Wanderers FC
+9,Fri Sep 22 2000,Huddersfield Town AFC,0-1,Burnley FC
 9,Sat Sep 23 2000,Wolverhampton Wanderers FC,4-0,Norwich City FC
+10,Fri Sep 29 2000,Preston North End FC,2-0,Crystal Palace FC
+10,Fri Sep 29 2000,West Bromwich Albion FC,1-0,Blackburn Rovers FC
 10,Fri Sep 29 2000,Tranmere Rovers FC,1-3,Crewe Alexandra FC
+10,Fri Sep 29 2000,Sheffield United FC,1-1,Queens Park Rangers FC
+10,Fri Sep 29 2000,Wimbledon FC,2-0,Stockport County FC
 10,Fri Sep 29 2000,Nottingham Forest FC,0-0,Wolverhampton Wanderers FC
 10,Fri Sep 29 2000,Norwich City FC,1-1,Huddersfield Town AFC
 10,Fri Sep 29 2000,Gillingham FC,2-0,Sheffield Wednesday FC
-10,Fri Sep 29 2000,Wimbledon FC,2-0,Stockport County FC
 10,Fri Sep 29 2000,Barnsley FC,2-0,Grimsby Town FC
 10,Fri Sep 29 2000,Bolton Wanderers FC,0-2,Fulham FC
-10,Fri Sep 29 2000,Sheffield United FC,1-1,Queens Park Rangers FC
-10,Fri Sep 29 2000,Preston North End FC,2-0,Crystal Palace FC
-10,Fri Sep 29 2000,West Bromwich Albion FC,1-0,Blackburn Rovers FC
 10,Fri Sep 29 2000,Burnley FC,1-1,Portsmouth FC
 10,Sat Sep 30 2000,Watford FC,2-0,Birmingham City FC
-11,Thu Oct 5 2000,Gillingham FC,2-2,Bolton Wanderers FC
 11,Thu Oct 5 2000,Huddersfield Town AFC,1-1,Barnsley FC
 11,Thu Oct 5 2000,Tranmere Rovers FC,2-3,Burnley FC
+11,Thu Oct 5 2000,Gillingham FC,2-2,Bolton Wanderers FC
 11,Fri Oct 6 2000,Crystal Palace FC,3-1,Wimbledon FC
-11,Sat Oct 7 2000,Crewe Alexandra FC,0-2,Birmingham City FC
-11,Sat Oct 7 2000,Sheffield Wednesday FC,1-2,West Bromwich Albion FC
 11,Sat Oct 7 2000,Stockport County FC,1-1,Portsmouth FC
-12,Fri Oct 13 2000,Sheffield United FC,1-0,Crewe Alexandra FC
-12,Fri Oct 13 2000,Burnley FC,2-1,Stockport County FC
-12,Fri Oct 13 2000,Birmingham City FC,2-1,Crystal Palace FC
-12,Fri Oct 13 2000,Bolton Wanderers FC,2-1,Wolverhampton Wanderers FC
-12,Fri Oct 13 2000,Barnsley FC,3-4,Nottingham Forest FC
-12,Fri Oct 13 2000,Grimsby Town FC,1-0,Huddersfield Town AFC
-12,Fri Oct 13 2000,Portsmouth FC,2-1,Sheffield Wednesday FC
+11,Sat Oct 7 2000,Sheffield Wednesday FC,1-2,West Bromwich Albion FC
+11,Sat Oct 7 2000,Crewe Alexandra FC,0-2,Birmingham City FC
 12,Fri Oct 13 2000,West Bromwich Albion FC,2-3,Norwich City FC
-12,Fri Oct 13 2000,Watford FC,3-1,Queens Park Rangers FC
 12,Fri Oct 13 2000,Wimbledon FC,4-4,Gillingham FC
+12,Fri Oct 13 2000,Watford FC,3-1,Queens Park Rangers FC
+12,Fri Oct 13 2000,Sheffield United FC,1-0,Crewe Alexandra FC
 12,Fri Oct 13 2000,Preston North End FC,1-0,Tranmere Rovers FC
+12,Fri Oct 13 2000,Portsmouth FC,2-1,Sheffield Wednesday FC
+12,Fri Oct 13 2000,Grimsby Town FC,1-0,Huddersfield Town AFC
+12,Fri Oct 13 2000,Barnsley FC,3-4,Nottingham Forest FC
+12,Fri Oct 13 2000,Bolton Wanderers FC,2-1,Wolverhampton Wanderers FC
+12,Fri Oct 13 2000,Birmingham City FC,2-1,Crystal Palace FC
+12,Fri Oct 13 2000,Burnley FC,2-1,Stockport County FC
 12,Sat Oct 14 2000,Fulham FC,2-1,Blackburn Rovers FC
-13,Mon Oct 16 2000,Barnsley FC,1-1,Tranmere Rovers FC
-13,Mon Oct 16 2000,Grimsby Town FC,3-1,Queens Park Rangers FC
-13,Mon Oct 16 2000,Birmingham City FC,4-0,Stockport County FC
-13,Mon Oct 16 2000,Bolton Wanderers FC,0-0,Nottingham Forest FC
-13,Mon Oct 16 2000,Burnley FC,1-0,Sheffield Wednesday FC
 13,Mon Oct 16 2000,West Bromwich Albion FC,1-0,Wolverhampton Wanderers FC
 13,Mon Oct 16 2000,Watford FC,0-0,Gillingham FC
-13,Mon Oct 16 2000,Preston North End FC,1-0,Norwich City FC
 13,Mon Oct 16 2000,Sheffield United FC,3-0,Huddersfield Town AFC
+13,Mon Oct 16 2000,Preston North End FC,1-0,Norwich City FC
 13,Mon Oct 16 2000,Portsmouth FC,2-1,Crewe Alexandra FC
-13,Tue Oct 17 2000,Wimbledon FC,0-2,Blackburn Rovers FC
+13,Mon Oct 16 2000,Barnsley FC,1-1,Tranmere Rovers FC
+13,Mon Oct 16 2000,Burnley FC,1-0,Sheffield Wednesday FC
+13,Mon Oct 16 2000,Bolton Wanderers FC,0-0,Nottingham Forest FC
+13,Mon Oct 16 2000,Birmingham City FC,4-0,Stockport County FC
+13,Mon Oct 16 2000,Grimsby Town FC,3-1,Queens Park Rangers FC
 13,Tue Oct 17 2000,Fulham FC,3-1,Crystal Palace FC
-14,Fri Oct 20 2000,Nottingham Forest FC,0-2,Watford FC
-14,Fri Oct 20 2000,Huddersfield Town AFC,0-0,Preston North End FC
-14,Fri Oct 20 2000,Norwich City FC,4-2,Sheffield United FC
-14,Fri Oct 20 2000,Gillingham FC,0-0,Barnsley FC
-14,Fri Oct 20 2000,Queens Park Rangers FC,0-1,Burnley FC
-14,Fri Oct 20 2000,Stockport County FC,4-3,Bolton Wanderers FC
-14,Fri Oct 20 2000,Tranmere Rovers FC,2-2,West Bromwich Albion FC
+13,Tue Oct 17 2000,Wimbledon FC,0-2,Blackburn Rovers FC
 14,Fri Oct 20 2000,Wolverhampton Wanderers FC,0-0,Fulham FC
+14,Fri Oct 20 2000,Tranmere Rovers FC,2-2,West Bromwich Albion FC
+14,Fri Oct 20 2000,Stockport County FC,4-3,Bolton Wanderers FC
+14,Fri Oct 20 2000,Queens Park Rangers FC,0-1,Burnley FC
+14,Fri Oct 20 2000,Nottingham Forest FC,0-2,Watford FC
+14,Fri Oct 20 2000,Norwich City FC,4-2,Sheffield United FC
+14,Fri Oct 20 2000,Huddersfield Town AFC,0-0,Preston North End FC
+14,Fri Oct 20 2000,Gillingham FC,0-0,Barnsley FC
 14,Fri Oct 20 2000,Crystal Palace FC,2-3,Portsmouth FC
 14,Fri Oct 20 2000,Crewe Alexandra FC,0-4,Wimbledon FC
 14,Fri Oct 20 2000,Blackburn Rovers FC,2-0,Grimsby Town FC
 14,Sat Oct 21 2000,Sheffield Wednesday FC,1-0,Birmingham City FC
-15,Mon Oct 23 2000,Norwich City FC,0-0,Portsmouth FC
+15,Mon Oct 23 2000,West Bromwich Albion FC,3-1,Wimbledon FC
 15,Mon Oct 23 2000,Watford FC,1-0,Bolton Wanderers FC
 15,Mon Oct 23 2000,Sheffield United FC,1-0,Stockport County FC
-15,Mon Oct 23 2000,West Bromwich Albion FC,3-1,Wimbledon FC
+15,Mon Oct 23 2000,Norwich City FC,0-0,Portsmouth FC
 15,Mon Oct 23 2000,Fulham FC,0-1,Preston North End FC
 15,Mon Oct 23 2000,Barnsley FC,1-2,Wolverhampton Wanderers FC
 15,Mon Oct 23 2000,Crewe Alexandra FC,1-0,Huddersfield Town AFC
 15,Mon Oct 23 2000,Crystal Palace FC,0-1,Grimsby Town FC
 15,Tue Oct 24 2000,Queens Park Rangers FC,1-2,Sheffield Wednesday FC
+15,Tue Oct 24 2000,Nottingham Forest FC,5-0,Burnley FC
 15,Tue Oct 24 2000,Blackburn Rovers FC,3-2,Tranmere Rovers FC
 15,Tue Oct 24 2000,Birmingham City FC,1-0,Gillingham FC
-15,Tue Oct 24 2000,Nottingham Forest FC,5-0,Burnley FC
 16,Thu Oct 26 2000,Preston North End FC,1-2,Barnsley FC
+16,Fri Oct 27 2000,Wolverhampton Wanderers FC,2-2,Watford FC
+16,Fri Oct 27 2000,Wimbledon FC,0-0,Sheffield United FC
 16,Fri Oct 27 2000,Tranmere Rovers FC,1-1,Queens Park Rangers FC
 16,Fri Oct 27 2000,Stockport County FC,1-2,Nottingham Forest FC
 16,Fri Oct 27 2000,Sheffield Wednesday FC,3-3,Fulham FC
-16,Fri Oct 27 2000,Wimbledon FC,0-0,Sheffield United FC
-16,Fri Oct 27 2000,Wolverhampton Wanderers FC,2-2,Watford FC
 16,Fri Oct 27 2000,Bolton Wanderers FC,3-3,Crystal Palace FC
 16,Fri Oct 27 2000,Huddersfield Town AFC,0-1,Blackburn Rovers FC
 16,Fri Oct 27 2000,Gillingham FC,0-1,Crewe Alexandra FC
 16,Fri Oct 27 2000,Portsmouth FC,1-1,Birmingham City FC
 16,Sat Oct 28 2000,Grimsby Town FC,2-0,West Bromwich Albion FC
-5,Mon Oct 30 2000,Burnley FC,1-0,Crewe Alexandra FC
 5,Mon Oct 30 2000,Bolton Wanderers FC,3-1,Queens Park Rangers FC
-17,Fri Nov 3 2000,Nottingham Forest FC,3-1,Preston North End FC
+5,Mon Oct 30 2000,Burnley FC,1-0,Crewe Alexandra FC
 17,Fri Nov 3 2000,Birmingham City FC,1-1,Bolton Wanderers FC
-17,Fri Nov 3 2000,Queens Park Rangers FC,1-1,Portsmouth FC
 17,Fri Nov 3 2000,Watford FC,4-0,Grimsby Town FC
+17,Fri Nov 3 2000,Sheffield United FC,1-2,Gillingham FC
+17,Fri Nov 3 2000,Queens Park Rangers FC,1-1,Portsmouth FC
+17,Fri Nov 3 2000,Nottingham Forest FC,3-1,Preston North End FC
 17,Fri Nov 3 2000,Norwich City FC,1-0,Tranmere Rovers FC
 17,Fri Nov 3 2000,Fulham FC,3-0,Huddersfield Town AFC
 17,Fri Nov 3 2000,Crystal Palace FC,4-1,Sheffield Wednesday FC
 17,Fri Nov 3 2000,Crewe Alexandra FC,2-0,Wolverhampton Wanderers FC
-17,Fri Nov 3 2000,West Bromwich Albion FC,1-1,Burnley FC
 17,Fri Nov 3 2000,Blackburn Rovers FC,2-1,Stockport County FC
-17,Fri Nov 3 2000,Sheffield United FC,1-2,Gillingham FC
+17,Fri Nov 3 2000,West Bromwich Albion FC,1-1,Burnley FC
 17,Sat Nov 4 2000,Barnsley FC,0-1,Wimbledon FC
 5,Mon Nov 6 2000,Watford FC,1-3,Sheffield Wednesday FC
 5,Mon Nov 6 2000,Norwich City FC,1-0,Birmingham City FC
 5,Tue Nov 7 2000,Barnsley FC,1-2,Blackburn Rovers FC
 18,Thu Nov 9 2000,Preston North End FC,2-1,Crewe Alexandra FC
+18,Fri Nov 10 2000,Wimbledon FC,0-3,Fulham FC
+18,Fri Nov 10 2000,Wolverhampton Wanderers FC,1-3,Crystal Palace FC
+18,Fri Nov 10 2000,Tranmere Rovers FC,2-0,Watford FC
+18,Fri Nov 10 2000,Stockport County FC,2-2,Queens Park Rangers FC
+18,Fri Nov 10 2000,Sheffield Wednesday FC,3-2,Norwich City FC
+18,Fri Nov 10 2000,Portsmouth FC,2-2,Blackburn Rovers FC
 18,Fri Nov 10 2000,Huddersfield Town AFC,0-2,West Bromwich Albion FC
 18,Fri Nov 10 2000,Burnley FC,2-0,Sheffield United FC
 18,Fri Nov 10 2000,Bolton Wanderers FC,2-0,Barnsley FC
-18,Fri Nov 10 2000,Portsmouth FC,2-2,Blackburn Rovers FC
-18,Fri Nov 10 2000,Sheffield Wednesday FC,3-2,Norwich City FC
-18,Fri Nov 10 2000,Wolverhampton Wanderers FC,1-3,Crystal Palace FC
-18,Fri Nov 10 2000,Tranmere Rovers FC,2-0,Watford FC
-18,Fri Nov 10 2000,Wimbledon FC,0-3,Fulham FC
-18,Fri Nov 10 2000,Stockport County FC,2-2,Queens Park Rangers FC
 18,Sat Nov 11 2000,Gillingham FC,1-3,Nottingham Forest FC
-19,Fri Nov 17 2000,Blackburn Rovers FC,1-0,Wolverhampton Wanderers FC
+19,Fri Nov 17 2000,Norwich City FC,0-2,Bolton Wanderers FC
+19,Fri Nov 17 2000,Watford FC,2-3,Preston North End FC
+19,Fri Nov 17 2000,Sheffield United FC,3-2,Grimsby Town FC
 19,Fri Nov 17 2000,Queens Park Rangers FC,1-1,Huddersfield Town AFC
 19,Fri Nov 17 2000,Nottingham Forest FC,1-2,Wimbledon FC
 19,Fri Nov 17 2000,West Bromwich Albion FC,3-1,Gillingham FC
 19,Fri Nov 17 2000,Barnsley FC,1-0,Sheffield Wednesday FC
 19,Fri Nov 17 2000,Crystal Palace FC,3-2,Tranmere Rovers FC
 19,Fri Nov 17 2000,Crewe Alexandra FC,1-2,Stockport County FC
+19,Fri Nov 17 2000,Blackburn Rovers FC,1-0,Wolverhampton Wanderers FC
 19,Fri Nov 17 2000,Birmingham City FC,3-2,Burnley FC
 19,Fri Nov 17 2000,Fulham FC,3-1,Portsmouth FC
-19,Fri Nov 17 2000,Sheffield United FC,3-2,Grimsby Town FC
-19,Fri Nov 17 2000,Norwich City FC,0-2,Bolton Wanderers FC
-19,Fri Nov 17 2000,Watford FC,2-3,Preston North End FC
-16,Mon Nov 20 2000,Burnley FC,2-0,Norwich City FC
-11,Mon Nov 20 2000,Wolverhampton Wanderers FC,2-0,Grimsby Town FC
 5,Mon Nov 20 2000,Sheffield United FC,1-1,Fulham FC
-20,Fri Nov 24 2000,Crystal Palace FC,2-2,Stockport County FC
-20,Fri Nov 24 2000,Blackburn Rovers FC,1-2,Gillingham FC
-20,Fri Nov 24 2000,Norwich City FC,1-2,Wimbledon FC
-20,Fri Nov 24 2000,Crewe Alexandra FC,1-0,Sheffield Wednesday FC
-20,Fri Nov 24 2000,Barnsley FC,1-0,Portsmouth FC
-20,Fri Nov 24 2000,Fulham FC,2-1,Grimsby Town FC
-20,Fri Nov 24 2000,Birmingham City FC,2-1,Huddersfield Town AFC
+11,Mon Nov 20 2000,Wolverhampton Wanderers FC,2-0,Grimsby Town FC
+16,Mon Nov 20 2000,Burnley FC,2-0,Norwich City FC
 20,Fri Nov 24 2000,Nottingham Forest FC,3-1,Tranmere Rovers FC
 20,Fri Nov 24 2000,Sheffield United FC,1-0,Bolton Wanderers FC
 20,Fri Nov 24 2000,Queens Park Rangers FC,2-2,Wolverhampton Wanderers FC
 20,Fri Nov 24 2000,West Bromwich Albion FC,3-1,Preston North End FC
+20,Fri Nov 24 2000,Norwich City FC,1-2,Wimbledon FC
+20,Fri Nov 24 2000,Fulham FC,2-1,Grimsby Town FC
+20,Fri Nov 24 2000,Crystal Palace FC,2-2,Stockport County FC
+20,Fri Nov 24 2000,Crewe Alexandra FC,1-0,Sheffield Wednesday FC
+20,Fri Nov 24 2000,Blackburn Rovers FC,1-2,Gillingham FC
+20,Fri Nov 24 2000,Barnsley FC,1-0,Portsmouth FC
+20,Fri Nov 24 2000,Birmingham City FC,2-1,Huddersfield Town AFC
 11,Tue Nov 28 2000,Nottingham Forest FC,2-0,Sheffield United FC
+21,Fri Dec 1 2000,Burnley FC,1-0,Nottingham Forest FC
+21,Fri Dec 1 2000,Wimbledon FC,0-1,West Bromwich Albion FC
+21,Fri Dec 1 2000,Tranmere Rovers FC,1-1,Blackburn Rovers FC
+21,Fri Dec 1 2000,Stockport County FC,0-2,Sheffield United FC
+21,Fri Dec 1 2000,Wolverhampton Wanderers FC,2-0,Barnsley FC
+21,Fri Dec 1 2000,Preston North End FC,1-1,Fulham FC
 21,Fri Dec 1 2000,Portsmouth FC,2-0,Norwich City FC
 21,Fri Dec 1 2000,Huddersfield Town AFC,3-1,Crewe Alexandra FC
 21,Fri Dec 1 2000,Grimsby Town FC,2-2,Crystal Palace FC
 21,Fri Dec 1 2000,Gillingham FC,1-2,Birmingham City FC
 21,Fri Dec 1 2000,Sheffield Wednesday FC,5-2,Queens Park Rangers FC
-21,Fri Dec 1 2000,Wolverhampton Wanderers FC,2-0,Barnsley FC
-21,Fri Dec 1 2000,Stockport County FC,0-2,Sheffield United FC
-21,Fri Dec 1 2000,Burnley FC,1-0,Nottingham Forest FC
-21,Fri Dec 1 2000,Wimbledon FC,0-1,West Bromwich Albion FC
-21,Fri Dec 1 2000,Tranmere Rovers FC,1-1,Blackburn Rovers FC
-21,Fri Dec 1 2000,Preston North End FC,1-1,Fulham FC
 21,Sat Dec 2 2000,Bolton Wanderers FC,2-1,Watford FC
-22,Fri Dec 8 2000,Crystal Palace FC,1-0,Watford FC
-22,Fri Dec 8 2000,Huddersfield Town AFC,3-0,Wolverhampton Wanderers FC
-22,Fri Dec 8 2000,Bolton Wanderers FC,4-1,Crewe Alexandra FC
-22,Fri Dec 8 2000,West Bromwich Albion FC,1-3,Fulham FC
-22,Fri Dec 8 2000,Norwich City FC,1-0,Gillingham FC
-22,Fri Dec 8 2000,Birmingham City FC,0-3,Wimbledon FC
-22,Fri Dec 8 2000,Blackburn Rovers FC,0-0,Queens Park Rangers FC
-22,Fri Dec 8 2000,Nottingham Forest FC,2-0,Portsmouth FC
+22,Fri Dec 8 2000,Barnsley FC,0-0,Sheffield United FC
 22,Fri Dec 8 2000,Tranmere Rovers FC,2-0,Grimsby Town FC
 22,Fri Dec 8 2000,Sheffield Wednesday FC,2-4,Stockport County FC
 22,Fri Dec 8 2000,Preston North End FC,2-1,Burnley FC
-22,Fri Dec 8 2000,Barnsley FC,0-0,Sheffield United FC
-5,Tue Dec 12 2000,Nottingham Forest FC,1-3,Huddersfield Town AFC
+22,Fri Dec 8 2000,Nottingham Forest FC,2-0,Portsmouth FC
+22,Fri Dec 8 2000,West Bromwich Albion FC,1-3,Fulham FC
+22,Fri Dec 8 2000,Huddersfield Town AFC,3-0,Wolverhampton Wanderers FC
+22,Fri Dec 8 2000,Crystal Palace FC,1-0,Watford FC
+22,Fri Dec 8 2000,Bolton Wanderers FC,4-1,Crewe Alexandra FC
+22,Fri Dec 8 2000,Blackburn Rovers FC,0-0,Queens Park Rangers FC
+22,Fri Dec 8 2000,Birmingham City FC,0-3,Wimbledon FC
+22,Fri Dec 8 2000,Norwich City FC,1-0,Gillingham FC
 5,Tue Dec 12 2000,Wimbledon FC,2-2,Grimsby Town FC
-23,Fri Dec 15 2000,Fulham FC,3-1,Tranmere Rovers FC
-23,Fri Dec 15 2000,Gillingham FC,4-0,Preston North End FC
-23,Fri Dec 15 2000,Queens Park Rangers FC,1-0,Nottingham Forest FC
-23,Fri Dec 15 2000,Grimsby Town FC,2-0,Norwich City FC
-23,Fri Dec 15 2000,Portsmouth FC,1-1,Huddersfield Town AFC
+5,Tue Dec 12 2000,Nottingham Forest FC,1-3,Huddersfield Town AFC
 23,Fri Dec 15 2000,Sheffield United FC,1-1,Sheffield Wednesday FC
 23,Fri Dec 15 2000,Watford FC,3-3,West Bromwich Albion FC
-23,Fri Dec 15 2000,Crewe Alexandra FC,1-1,Crystal Palace FC
-23,Fri Dec 15 2000,Wimbledon FC,0-1,Bolton Wanderers FC
 23,Fri Dec 15 2000,Stockport County FC,2-0,Barnsley FC
-23,Sat Dec 16 2000,Burnley FC,0-2,Blackburn Rovers FC
+23,Fri Dec 15 2000,Wimbledon FC,0-1,Bolton Wanderers FC
+23,Fri Dec 15 2000,Crewe Alexandra FC,1-1,Crystal Palace FC
+23,Fri Dec 15 2000,Portsmouth FC,1-1,Huddersfield Town AFC
+23,Fri Dec 15 2000,Grimsby Town FC,2-0,Norwich City FC
+23,Fri Dec 15 2000,Gillingham FC,4-0,Preston North End FC
+23,Fri Dec 15 2000,Fulham FC,3-1,Tranmere Rovers FC
+23,Fri Dec 15 2000,Queens Park Rangers FC,1-0,Nottingham Forest FC
 23,Sat Dec 16 2000,Wolverhampton Wanderers FC,0-1,Birmingham City FC
-24,Thu Dec 21 2000,Stockport County FC,2-2,Gillingham FC
+23,Sat Dec 16 2000,Burnley FC,0-2,Blackburn Rovers FC
 24,Thu Dec 21 2000,Crystal Palace FC,2-3,Blackburn Rovers FC
-24,Fri Dec 22 2000,West Bromwich Albion FC,3-0,Nottingham Forest FC
-24,Fri Dec 22 2000,Tranmere Rovers FC,0-4,Wimbledon FC
-24,Fri Dec 22 2000,Birmingham City FC,0-0,Queens Park Rangers FC
-24,Fri Dec 22 2000,Norwich City FC,0-0,Barnsley FC
-24,Fri Dec 22 2000,Crewe Alexandra FC,1-2,Fulham FC
+24,Thu Dec 21 2000,Stockport County FC,2-2,Gillingham FC
 24,Fri Dec 22 2000,Burnley FC,0-2,Bolton Wanderers FC
 24,Fri Dec 22 2000,Preston North End FC,1-2,Grimsby Town FC
 24,Fri Dec 22 2000,Sheffield Wednesday FC,0-1,Wolverhampton Wanderers FC
 24,Fri Dec 22 2000,Portsmouth FC,0-0,Sheffield United FC
 24,Fri Dec 22 2000,Watford FC,1-2,Huddersfield Town AFC
-25,Mon Dec 25 2000,Huddersfield Town AFC,3-0,Tranmere Rovers FC
-25,Mon Dec 25 2000,Fulham FC,5-0,Watford FC
-25,Mon Dec 25 2000,Barnsley FC,1-0,Burnley FC
-25,Mon Dec 25 2000,Blackburn Rovers FC,2-1,Birmingham City FC
-25,Mon Dec 25 2000,Bolton Wanderers FC,2-0,Sheffield Wednesday FC
-25,Mon Dec 25 2000,Grimsby Town FC,1-1,Stockport County FC
+24,Fri Dec 22 2000,West Bromwich Albion FC,3-0,Nottingham Forest FC
+24,Fri Dec 22 2000,Crewe Alexandra FC,1-2,Fulham FC
+24,Fri Dec 22 2000,Norwich City FC,0-0,Barnsley FC
+24,Fri Dec 22 2000,Birmingham City FC,0-0,Queens Park Rangers FC
+24,Fri Dec 22 2000,Tranmere Rovers FC,0-4,Wimbledon FC
+25,Mon Dec 25 2000,Wolverhampton Wanderers FC,0-1,Preston North End FC
 25,Mon Dec 25 2000,Wimbledon FC,1-1,Portsmouth FC
 25,Mon Dec 25 2000,Sheffield United FC,2-0,West Bromwich Albion FC
 25,Mon Dec 25 2000,Queens Park Rangers FC,2-3,Norwich City FC
 25,Mon Dec 25 2000,Nottingham Forest FC,1-0,Crewe Alexandra FC
+25,Mon Dec 25 2000,Huddersfield Town AFC,3-0,Tranmere Rovers FC
+25,Mon Dec 25 2000,Grimsby Town FC,1-1,Stockport County FC
 25,Mon Dec 25 2000,Gillingham FC,4-1,Crystal Palace FC
-25,Mon Dec 25 2000,Wolverhampton Wanderers FC,0-1,Preston North End FC
+25,Mon Dec 25 2000,Fulham FC,5-0,Watford FC
+25,Mon Dec 25 2000,Barnsley FC,1-0,Burnley FC
+25,Mon Dec 25 2000,Blackburn Rovers FC,2-1,Birmingham City FC
+25,Mon Dec 25 2000,Bolton Wanderers FC,2-0,Sheffield Wednesday FC
 26,Thu Dec 28 2000,Barnsley FC,0-1,Watford FC
-26,Fri Dec 29 2000,Sheffield United FC,3-2,Preston North End FC
-26,Fri Dec 29 2000,Huddersfield Town AFC,0-0,Sheffield Wednesday FC
-26,Fri Dec 29 2000,Bolton Wanderers FC,0-1,West Bromwich Albion FC
-26,Fri Dec 29 2000,Nottingham Forest FC,0-0,Norwich City FC
-26,Fri Dec 29 2000,Wolverhampton Wanderers FC,3-2,Stockport County FC
 26,Fri Dec 29 2000,Queens Park Rangers FC,1-1,Crystal Palace FC
 26,Fri Dec 29 2000,Blackburn Rovers FC,1-0,Crewe Alexandra FC
-27,Sat Dec 30 2000,Preston North End FC,0-2,Bolton Wanderers FC
-27,Sat Dec 30 2000,Tranmere Rovers FC,1-0,Sheffield United FC
-27,Sat Dec 30 2000,Burnley FC,1-2,Wolverhampton Wanderers FC
-27,Sat Dec 30 2000,West Bromwich Albion FC,1-0,Barnsley FC
+26,Fri Dec 29 2000,Wolverhampton Wanderers FC,3-2,Stockport County FC
+26,Fri Dec 29 2000,Nottingham Forest FC,0-0,Norwich City FC
+26,Fri Dec 29 2000,Huddersfield Town AFC,0-0,Sheffield Wednesday FC
+26,Fri Dec 29 2000,Bolton Wanderers FC,0-1,West Bromwich Albion FC
+26,Fri Dec 29 2000,Sheffield United FC,3-2,Preston North End FC
 27,Sat Dec 30 2000,Birmingham City FC,0-2,Nottingham Forest FC
-27,Sat Dec 30 2000,Norwich City FC,1-1,Blackburn Rovers FC
+27,Sat Dec 30 2000,Tranmere Rovers FC,1-0,Sheffield United FC
 27,Sat Dec 30 2000,Stockport County FC,2-0,Fulham FC
 27,Sat Dec 30 2000,Sheffield Wednesday FC,1-0,Grimsby Town FC
+27,Sat Dec 30 2000,Preston North End FC,0-2,Bolton Wanderers FC
 27,Sat Dec 30 2000,Portsmouth FC,0-0,Gillingham FC
+27,Sat Dec 30 2000,Norwich City FC,1-1,Blackburn Rovers FC
+27,Sat Dec 30 2000,Burnley FC,1-2,Wolverhampton Wanderers FC
+27,Sat Dec 30 2000,West Bromwich Albion FC,1-0,Barnsley FC
 27,Mon Jan 1 2001,Watford FC,3-1,Wimbledon FC
 11,Tue Jan 9 2001,Blackburn Rovers FC,3-2,Preston North End FC
-28,Fri Jan 12 2001,Blackburn Rovers FC,2-0,Sheffield Wednesday FC
-28,Fri Jan 12 2001,Bolton Wanderers FC,2-0,Tranmere Rovers FC
-28,Fri Jan 12 2001,Wimbledon FC,3-1,Preston North End FC
-28,Fri Jan 12 2001,Fulham FC,2-0,Norwich City FC
-28,Fri Jan 12 2001,Barnsley FC,2-3,Birmingham City FC
-28,Fri Jan 12 2001,Gillingham FC,0-0,Burnley FC
 28,Fri Jan 12 2001,Huddersfield Town AFC,0-0,Stockport County FC
-28,Fri Jan 12 2001,Wolverhampton Wanderers FC,1-1,Portsmouth FC
-28,Fri Jan 12 2001,Queens Park Rangers FC,2-0,West Bromwich Albion FC
+28,Fri Jan 12 2001,Wimbledon FC,3-1,Preston North End FC
 28,Fri Jan 12 2001,Sheffield United FC,0-1,Watford FC
+28,Fri Jan 12 2001,Queens Park Rangers FC,2-0,West Bromwich Albion FC
+28,Fri Jan 12 2001,Wolverhampton Wanderers FC,1-1,Portsmouth FC
 28,Fri Jan 12 2001,Grimsby Town FC,1-3,Crewe Alexandra FC
+28,Fri Jan 12 2001,Gillingham FC,0-0,Burnley FC
+28,Fri Jan 12 2001,Barnsley FC,2-3,Birmingham City FC
+28,Fri Jan 12 2001,Bolton Wanderers FC,2-0,Tranmere Rovers FC
+28,Fri Jan 12 2001,Blackburn Rovers FC,2-0,Sheffield Wednesday FC
+28,Fri Jan 12 2001,Fulham FC,2-0,Norwich City FC
 28,Sat Jan 13 2001,Nottingham Forest FC,0-3,Crystal Palace FC
+29,Fri Jan 19 2001,West Bromwich Albion FC,2-1,Sheffield United FC
 29,Fri Jan 19 2001,Watford FC,1-3,Fulham FC
 29,Fri Jan 19 2001,Stockport County FC,1-1,Grimsby Town FC
-29,Fri Jan 19 2001,Portsmouth FC,2-1,Wimbledon FC
 29,Fri Jan 19 2001,Sheffield Wednesday FC,0-3,Bolton Wanderers FC
-29,Fri Jan 19 2001,West Bromwich Albion FC,2-1,Sheffield United FC
 29,Fri Jan 19 2001,Burnley FC,2-1,Barnsley FC
 29,Fri Jan 19 2001,Norwich City FC,1-0,Queens Park Rangers FC
 29,Fri Jan 19 2001,Crystal Palace FC,2-2,Gillingham FC
-26,Fri Jan 26 2001,Fulham FC,0-1,Birmingham City FC
-26,Fri Jan 26 2001,Grimsby Town FC,2-1,Portsmouth FC
+29,Fri Jan 19 2001,Portsmouth FC,2-1,Wimbledon FC
 11,Fri Jan 26 2001,Norwich City FC,2-1,Watford FC
+26,Fri Jan 26 2001,Grimsby Town FC,2-1,Portsmouth FC
+26,Fri Jan 26 2001,Fulham FC,0-1,Birmingham City FC
 11,Tue Jan 30 2001,Queens Park Rangers FC,0-2,Fulham FC
-30,Fri Feb 2 2001,Blackburn Rovers FC,0-0,Barnsley FC
-30,Fri Feb 2 2001,Huddersfield Town AFC,1-1,Nottingham Forest FC
 30,Fri Feb 2 2001,Birmingham City FC,2-1,Norwich City FC
+30,Fri Feb 2 2001,Stockport County FC,1-1,Tranmere Rovers FC
+30,Fri Feb 2 2001,Sheffield Wednesday FC,2-3,Watford FC
+30,Fri Feb 2 2001,Queens Park Rangers FC,1-1,Bolton Wanderers FC
+30,Fri Feb 2 2001,Wolverhampton Wanderers FC,1-1,Gillingham FC
+30,Fri Feb 2 2001,Huddersfield Town AFC,1-1,Nottingham Forest FC
 30,Fri Feb 2 2001,Crystal Palace FC,2-2,West Bromwich Albion FC
 30,Fri Feb 2 2001,Crewe Alexandra FC,4-2,Burnley FC
+30,Fri Feb 2 2001,Blackburn Rovers FC,0-0,Barnsley FC
 30,Fri Feb 2 2001,Portsmouth FC,0-1,Preston North End FC
-30,Fri Feb 2 2001,Stockport County FC,1-1,Tranmere Rovers FC
-30,Fri Feb 2 2001,Queens Park Rangers FC,1-1,Bolton Wanderers FC
-30,Fri Feb 2 2001,Sheffield Wednesday FC,2-3,Watford FC
-30,Fri Feb 2 2001,Wolverhampton Wanderers FC,1-1,Gillingham FC
 30,Sat Feb 3 2001,Fulham FC,1-1,Sheffield United FC
-31,Fri Feb 9 2001,Gillingham FC,1-0,Grimsby Town FC
 31,Fri Feb 9 2001,Preston North End FC,5-0,Queens Park Rangers FC
+31,Fri Feb 9 2001,West Bromwich Albion FC,1-1,Stockport County FC
 31,Fri Feb 9 2001,Watford FC,2-2,Portsmouth FC
 31,Fri Feb 9 2001,Tranmere Rovers FC,0-2,Wolverhampton Wanderers FC
-31,Fri Feb 9 2001,West Bromwich Albion FC,1-1,Stockport County FC
 31,Fri Feb 9 2001,Barnsley FC,0-0,Fulham FC
 31,Fri Feb 9 2001,Wimbledon FC,4-1,Sheffield Wednesday FC
 31,Fri Feb 9 2001,Nottingham Forest FC,2-1,Blackburn Rovers FC
-31,Fri Feb 9 2001,Burnley FC,1-2,Crystal Palace FC
 31,Fri Feb 9 2001,Norwich City FC,1-1,Crewe Alexandra FC
-31,Fri Feb 9 2001,Sheffield United FC,3-1,Birmingham City FC
+31,Fri Feb 9 2001,Gillingham FC,1-0,Grimsby Town FC
+31,Fri Feb 9 2001,Burnley FC,1-2,Crystal Palace FC
 31,Fri Feb 9 2001,Bolton Wanderers FC,2-2,Huddersfield Town AFC
+31,Fri Feb 9 2001,Sheffield United FC,3-1,Birmingham City FC
 32,Mon Feb 12 2001,Stockport County FC,0-1,Preston North End FC
-32,Mon Feb 12 2001,Portsmouth FC,1-2,Bolton Wanderers FC
 32,Mon Feb 12 2001,Sheffield Wednesday FC,1-0,Tranmere Rovers FC
+32,Mon Feb 12 2001,Portsmouth FC,1-2,Bolton Wanderers FC
+32,Fri Feb 16 2001,Huddersfield Town AFC,2-3,Gillingham FC
 32,Fri Feb 16 2001,Queens Park Rangers FC,2-0,Barnsley FC
 32,Fri Feb 16 2001,Grimsby Town FC,1-0,Burnley FC
-32,Fri Feb 16 2001,Huddersfield Town AFC,2-3,Gillingham FC
+32,Fri Feb 16 2001,Fulham FC,1-0,Nottingham Forest FC
 32,Fri Feb 16 2001,Crystal Palace FC,1-1,Norwich City FC
 32,Fri Feb 16 2001,Crewe Alexandra FC,2-0,Watford FC
 32,Fri Feb 16 2001,Birmingham City FC,2-1,West Bromwich Albion FC
-32,Fri Feb 16 2001,Fulham FC,1-0,Nottingham Forest FC
-33,Mon Feb 19 2001,Preston North End FC,0-2,Birmingham City FC
 33,Mon Feb 19 2001,West Bromwich Albion FC,2-2,Crewe Alexandra FC
-33,Mon Feb 19 2001,Gillingham FC,0-1,Queens Park Rangers FC
-33,Mon Feb 19 2001,Bolton Wanderers FC,2-2,Grimsby Town FC
-33,Mon Feb 19 2001,Burnley FC,2-1,Fulham FC
-33,Mon Feb 19 2001,Barnsley FC,1-0,Crystal Palace FC
-33,Mon Feb 19 2001,Sheffield United FC,1-0,Wolverhampton Wanderers FC
 33,Mon Feb 19 2001,Watford FC,0-1,Blackburn Rovers FC
+33,Mon Feb 19 2001,Sheffield United FC,1-0,Wolverhampton Wanderers FC
+33,Mon Feb 19 2001,Preston North End FC,0-2,Birmingham City FC
 33,Mon Feb 19 2001,Norwich City FC,4-0,Stockport County FC
+33,Mon Feb 19 2001,Barnsley FC,1-0,Crystal Palace FC
+33,Mon Feb 19 2001,Burnley FC,2-1,Fulham FC
+33,Mon Feb 19 2001,Bolton Wanderers FC,2-2,Grimsby Town FC
+33,Mon Feb 19 2001,Gillingham FC,0-1,Queens Park Rangers FC
 33,Tue Feb 20 2001,Nottingham Forest FC,0-1,Sheffield Wednesday FC
 34,Thu Feb 22 2001,Bolton Wanderers FC,1-4,Blackburn Rovers FC
 34,Fri Feb 23 2001,Preston North End FC,2-0,Sheffield Wednesday FC
 34,Fri Feb 23 2001,West Bromwich Albion FC,2-0,Portsmouth FC
-34,Fri Feb 23 2001,Sheffield United FC,1-0,Crystal Palace FC
-34,Fri Feb 23 2001,Barnsley FC,3-0,Crewe Alexandra FC
-34,Fri Feb 23 2001,Burnley FC,1-0,Huddersfield Town AFC
-34,Fri Feb 23 2001,Gillingham FC,0-2,Fulham FC
-34,Fri Feb 23 2001,Nottingham Forest FC,3-1,Grimsby Town FC
 34,Fri Feb 23 2001,Watford FC,2-2,Stockport County FC
+34,Fri Feb 23 2001,Sheffield United FC,1-0,Crystal Palace FC
 34,Fri Feb 23 2001,Wimbledon FC,5-0,Queens Park Rangers FC
+34,Fri Feb 23 2001,Nottingham Forest FC,3-1,Grimsby Town FC
 34,Fri Feb 23 2001,Norwich City FC,1-0,Wolverhampton Wanderers FC
+34,Fri Feb 23 2001,Gillingham FC,0-2,Fulham FC
+34,Fri Feb 23 2001,Burnley FC,1-0,Huddersfield Town AFC
+34,Fri Feb 23 2001,Barnsley FC,3-0,Crewe Alexandra FC
 29,Mon Feb 26 2001,Tranmere Rovers FC,2-0,Huddersfield Town AFC
 35,Thu Mar 1 2001,Birmingham City FC,2-0,Watford FC
-35,Fri Mar 2 2001,Queens Park Rangers FC,1-3,Sheffield United FC
+35,Fri Mar 2 2001,Wolverhampton Wanderers FC,2-0,Nottingham Forest FC
 35,Fri Mar 2 2001,Stockport County FC,2-2,Wimbledon FC
 35,Fri Mar 2 2001,Sheffield Wednesday FC,2-1,Gillingham FC
-35,Fri Mar 2 2001,Wolverhampton Wanderers FC,2-0,Nottingham Forest FC
+35,Fri Mar 2 2001,Queens Park Rangers FC,1-3,Sheffield United FC
 35,Fri Mar 2 2001,Portsmouth FC,2-0,Burnley FC
 35,Fri Mar 2 2001,Huddersfield Town AFC,2-0,Norwich City FC
 35,Fri Mar 2 2001,Grimsby Town FC,0-2,Barnsley FC
-35,Fri Mar 2 2001,Crewe Alexandra FC,3-1,Tranmere Rovers FC
-35,Fri Mar 2 2001,Blackburn Rovers FC,1-0,West Bromwich Albion FC
 35,Fri Mar 2 2001,Crystal Palace FC,0-2,Preston North End FC
+35,Fri Mar 2 2001,Blackburn Rovers FC,1-0,West Bromwich Albion FC
+35,Fri Mar 2 2001,Crewe Alexandra FC,3-1,Tranmere Rovers FC
 35,Sat Mar 3 2001,Fulham FC,1-1,Bolton Wanderers FC
-36,Mon Mar 5 2001,Huddersfield Town AFC,0-0,Grimsby Town FC
-36,Mon Mar 5 2001,Stockport County FC,0-0,Burnley FC
 36,Mon Mar 5 2001,Norwich City FC,0-1,West Bromwich Albion FC
-36,Mon Mar 5 2001,Crystal Palace FC,1-2,Birmingham City FC
+36,Mon Mar 5 2001,Stockport County FC,0-0,Burnley FC
 36,Mon Mar 5 2001,Tranmere Rovers FC,1-1,Preston North End FC
 36,Mon Mar 5 2001,Crewe Alexandra FC,1-0,Sheffield United FC
 36,Mon Mar 5 2001,Gillingham FC,0-0,Wimbledon FC
+36,Mon Mar 5 2001,Crystal Palace FC,1-2,Birmingham City FC
+36,Mon Mar 5 2001,Huddersfield Town AFC,0-0,Grimsby Town FC
 36,Tue Mar 6 2001,Sheffield Wednesday FC,0-0,Portsmouth FC
 36,Tue Mar 6 2001,Queens Park Rangers FC,1-1,Watford FC
 36,Tue Mar 6 2001,Nottingham Forest FC,1-0,Barnsley FC
-37,Fri Mar 9 2001,Wimbledon FC,1-0,Crystal Palace FC
-37,Fri Mar 9 2001,Grimsby Town FC,0-2,Wolverhampton Wanderers FC
-37,Fri Mar 9 2001,Portsmouth FC,2-1,Stockport County FC
-37,Fri Mar 9 2001,Fulham FC,2-0,Queens Park Rangers FC
-37,Fri Mar 9 2001,Barnsley FC,3-1,Huddersfield Town AFC
-37,Fri Mar 9 2001,West Bromwich Albion FC,1-2,Sheffield Wednesday FC
 37,Fri Mar 9 2001,Sheffield United FC,1-3,Nottingham Forest FC
+37,Fri Mar 9 2001,West Bromwich Albion FC,1-2,Sheffield Wednesday FC
+37,Fri Mar 9 2001,Barnsley FC,3-1,Huddersfield Town AFC
+37,Fri Mar 9 2001,Wimbledon FC,1-0,Crystal Palace FC
+37,Fri Mar 9 2001,Portsmouth FC,2-1,Stockport County FC
+37,Fri Mar 9 2001,Grimsby Town FC,0-2,Wolverhampton Wanderers FC
+37,Fri Mar 9 2001,Fulham FC,2-0,Queens Park Rangers FC
 37,Fri Mar 9 2001,Bolton Wanderers FC,3-3,Gillingham FC
 37,Fri Mar 9 2001,Birmingham City FC,2-0,Crewe Alexandra FC
 37,Fri Mar 9 2001,Watford FC,4-1,Norwich City FC
 20,Mon Mar 12 2001,Watford FC,0-1,Burnley FC
-30,Mon Mar 12 2001,Grimsby Town FC,1-1,Wimbledon FC
 29,Mon Mar 12 2001,Crewe Alexandra FC,1-0,Nottingham Forest FC
-33,Tue Mar 13 2001,Tranmere Rovers FC,1-1,Portsmouth FC
+30,Mon Mar 12 2001,Grimsby Town FC,1-1,Wimbledon FC
 29,Tue Mar 13 2001,Preston North End FC,2-0,Wolverhampton Wanderers FC
 29,Tue Mar 13 2001,Birmingham City FC,0-2,Blackburn Rovers FC
-38,Fri Mar 16 2001,Crystal Palace FC,0-2,Fulham FC
-38,Fri Mar 16 2001,Norwich City FC,1-2,Preston North End FC
-38,Fri Mar 16 2001,Crewe Alexandra FC,1-0,Portsmouth FC
-38,Fri Mar 16 2001,Huddersfield Town AFC,2-1,Sheffield United FC
-38,Fri Mar 16 2001,Sheffield Wednesday FC,2-0,Burnley FC
-38,Fri Mar 16 2001,Tranmere Rovers FC,2-3,Barnsley FC
+33,Tue Mar 13 2001,Tranmere Rovers FC,1-1,Portsmouth FC
 38,Fri Mar 16 2001,Stockport County FC,2-0,Birmingham City FC
-38,Fri Mar 16 2001,Queens Park Rangers FC,0-1,Grimsby Town FC
+38,Fri Mar 16 2001,Tranmere Rovers FC,2-3,Barnsley FC
 38,Fri Mar 16 2001,Blackburn Rovers FC,1-1,Wimbledon FC
+38,Fri Mar 16 2001,Queens Park Rangers FC,0-1,Grimsby Town FC
 38,Fri Mar 16 2001,Nottingham Forest FC,0-2,Bolton Wanderers FC
+38,Fri Mar 16 2001,Norwich City FC,1-2,Preston North End FC
+38,Fri Mar 16 2001,Huddersfield Town AFC,2-1,Sheffield United FC
+38,Fri Mar 16 2001,Crystal Palace FC,0-2,Fulham FC
+38,Fri Mar 16 2001,Crewe Alexandra FC,1-0,Portsmouth FC
+38,Fri Mar 16 2001,Sheffield Wednesday FC,2-0,Burnley FC
 38,Sat Mar 17 2001,Wolverhampton Wanderers FC,3-1,West Bromwich Albion FC
-26,Mon Mar 19 2001,Gillingham FC,2-1,Tranmere Rovers FC
 18,Mon Mar 19 2001,Grimsby Town FC,1-1,Birmingham City FC
-39,Fri Mar 23 2001,Birmingham City FC,1-2,Sheffield Wednesday FC
+26,Mon Mar 19 2001,Gillingham FC,2-1,Tranmere Rovers FC
 39,Fri Mar 23 2001,Burnley FC,2-1,Queens Park Rangers FC
-39,Sat Mar 24 2001,West Bromwich Albion FC,2-1,Tranmere Rovers FC
+39,Fri Mar 23 2001,Birmingham City FC,1-2,Sheffield Wednesday FC
 39,Sat Mar 24 2001,Barnsley FC,3-1,Gillingham FC
+39,Sat Mar 24 2001,West Bromwich Albion FC,2-1,Tranmere Rovers FC
 40,Thu Mar 29 2001,Tranmere Rovers FC,1-4,Fulham FC
-40,Fri Mar 30 2001,Norwich City FC,2-1,Grimsby Town FC
 40,Fri Mar 30 2001,West Bromwich Albion FC,3-0,Watford FC
-40,Fri Mar 30 2001,Nottingham Forest FC,1-1,Queens Park Rangers FC
 40,Fri Mar 30 2001,Preston North End FC,0-0,Gillingham FC
+40,Fri Mar 30 2001,Barnsley FC,0-2,Stockport County FC
+40,Fri Mar 30 2001,Norwich City FC,2-1,Grimsby Town FC
 40,Fri Mar 30 2001,Huddersfield Town AFC,4-1,Portsmouth FC
 40,Fri Mar 30 2001,Crystal Palace FC,1-0,Crewe Alexandra FC
-40,Fri Mar 30 2001,Barnsley FC,0-2,Stockport County FC
 40,Fri Mar 30 2001,Bolton Wanderers FC,2-2,Wimbledon FC
+40,Fri Mar 30 2001,Nottingham Forest FC,1-1,Queens Park Rangers FC
 40,Sat Mar 31 2001,Sheffield Wednesday FC,1-2,Sheffield United FC
-40,Sat Mar 31 2001,Birmingham City FC,0-1,Wolverhampton Wanderers FC
 40,Sat Mar 31 2001,Blackburn Rovers FC,5-0,Burnley FC
-39,Mon Apr 2 2001,Watford FC,3-0,Nottingham Forest FC
+40,Sat Mar 31 2001,Birmingham City FC,0-1,Wolverhampton Wanderers FC
 27,Mon Apr 2 2001,Crystal Palace FC,0-0,Huddersfield Town AFC
+39,Mon Apr 2 2001,Watford FC,3-0,Nottingham Forest FC
 39,Mon Apr 2 2001,Bolton Wanderers FC,1-1,Stockport County FC
 32,Tue Apr 3 2001,Blackburn Rovers FC,1-1,Sheffield United FC
 32,Tue Apr 3 2001,Wolverhampton Wanderers FC,0-1,Wimbledon FC
 41,Thu Apr 5 2001,Burnley FC,3-0,Preston North End FC
-41,Fri Apr 6 2001,Wimbledon FC,3-1,Birmingham City FC
-41,Fri Apr 6 2001,Sheffield United FC,1-2,Barnsley FC
 41,Fri Apr 6 2001,Watford FC,2-2,Crystal Palace FC
-41,Fri Apr 6 2001,Queens Park Rangers FC,1-3,Blackburn Rovers FC
+41,Fri Apr 6 2001,Wimbledon FC,3-1,Birmingham City FC
+41,Fri Apr 6 2001,Wolverhampton Wanderers FC,0-1,Huddersfield Town AFC
 41,Fri Apr 6 2001,Stockport County FC,2-1,Sheffield Wednesday FC
+41,Fri Apr 6 2001,Sheffield United FC,1-2,Barnsley FC
+41,Fri Apr 6 2001,Queens Park Rangers FC,1-3,Blackburn Rovers FC
 41,Fri Apr 6 2001,Portsmouth FC,0-2,Nottingham Forest FC
 41,Fri Apr 6 2001,Grimsby Town FC,3-1,Tranmere Rovers FC
-41,Fri Apr 6 2001,Wolverhampton Wanderers FC,0-1,Huddersfield Town AFC
-41,Fri Apr 6 2001,Fulham FC,0-0,West Bromwich Albion FC
 41,Fri Apr 6 2001,Gillingham FC,4-3,Norwich City FC
-34,Mon Apr 9 2001,Tranmere Rovers FC,1-0,Birmingham City FC
+41,Fri Apr 6 2001,Fulham FC,0-0,West Bromwich Albion FC
 26,Mon Apr 9 2001,Wimbledon FC,0-2,Burnley FC
+27,Mon Apr 9 2001,Crewe Alexandra FC,2-2,Queens Park Rangers FC
+34,Mon Apr 9 2001,Tranmere Rovers FC,1-0,Birmingham City FC
 39,Mon Apr 9 2001,Preston North End FC,0-0,Huddersfield Town AFC
 39,Mon Apr 9 2001,Sheffield United FC,1-1,Norwich City FC
-27,Mon Apr 9 2001,Crewe Alexandra FC,2-2,Queens Park Rangers FC
 36,Tue Apr 10 2001,Blackburn Rovers FC,1-2,Fulham FC
 42,Thu Apr 12 2001,Bolton Wanderers FC,2-2,Birmingham City FC
-42,Fri Apr 13 2001,Portsmouth FC,1-1,Queens Park Rangers FC
-42,Fri Apr 13 2001,Sheffield Wednesday FC,4-1,Crystal Palace FC
-42,Fri Apr 13 2001,Huddersfield Town AFC,1-2,Fulham FC
-42,Fri Apr 13 2001,Grimsby Town FC,2-1,Watford FC
-42,Fri Apr 13 2001,Stockport County FC,0-0,Blackburn Rovers FC
-42,Fri Apr 13 2001,Gillingham FC,4-1,Sheffield United FC
-42,Fri Apr 13 2001,Wolverhampton Wanderers FC,0-0,Crewe Alexandra FC
 42,Fri Apr 13 2001,Tranmere Rovers FC,0-1,Norwich City FC
 42,Fri Apr 13 2001,Wimbledon FC,1-1,Barnsley FC
+42,Fri Apr 13 2001,Wolverhampton Wanderers FC,0-0,Crewe Alexandra FC
+42,Fri Apr 13 2001,Stockport County FC,0-0,Blackburn Rovers FC
+42,Fri Apr 13 2001,Sheffield Wednesday FC,4-1,Crystal Palace FC
 42,Fri Apr 13 2001,Burnley FC,1-1,West Bromwich Albion FC
+42,Fri Apr 13 2001,Portsmouth FC,1-1,Queens Park Rangers FC
+42,Fri Apr 13 2001,Huddersfield Town AFC,1-2,Fulham FC
+42,Fri Apr 13 2001,Grimsby Town FC,2-1,Watford FC
+42,Fri Apr 13 2001,Gillingham FC,4-1,Sheffield United FC
 42,Fri Apr 13 2001,Preston North End FC,1-1,Nottingham Forest FC
+43,Sun Apr 15 2001,West Bromwich Albion FC,0-1,Grimsby Town FC
 43,Sun Apr 15 2001,Queens Park Rangers FC,2-0,Tranmere Rovers FC
+43,Sun Apr 15 2001,Nottingham Forest FC,1-0,Stockport County FC
 43,Sun Apr 15 2001,Norwich City FC,2-3,Burnley FC
 43,Sun Apr 15 2001,Fulham FC,1-1,Sheffield Wednesday FC
 43,Sun Apr 15 2001,Barnsley FC,0-4,Preston North End FC
-43,Sun Apr 15 2001,West Bromwich Albion FC,0-1,Grimsby Town FC
 43,Sun Apr 15 2001,Crewe Alexandra FC,2-1,Gillingham FC
 43,Sun Apr 15 2001,Blackburn Rovers FC,2-0,Huddersfield Town AFC
 43,Sun Apr 15 2001,Birmingham City FC,0-0,Portsmouth FC
 43,Sun Apr 15 2001,Crystal Palace FC,0-2,Bolton Wanderers FC
-43,Sun Apr 15 2001,Nottingham Forest FC,1-0,Stockport County FC
 43,Mon Apr 16 2001,Watford FC,3-2,Wolverhampton Wanderers FC
 43,Mon Apr 16 2001,Sheffield United FC,0-1,Wimbledon FC
 41,Tue Apr 17 2001,Crewe Alexandra FC,2-1,Bolton Wanderers FC
-44,Fri Apr 20 2001,Huddersfield Town AFC,2-1,Queens Park Rangers FC
+44,Fri Apr 20 2001,Sheffield Wednesday FC,2-1,Barnsley FC
+44,Fri Apr 20 2001,Wimbledon FC,2-1,Nottingham Forest FC
+44,Fri Apr 20 2001,Tranmere Rovers FC,1-1,Crystal Palace FC
+44,Fri Apr 20 2001,Stockport County FC,3-0,Crewe Alexandra FC
+44,Fri Apr 20 2001,Wolverhampton Wanderers FC,0-0,Blackburn Rovers FC
+44,Fri Apr 20 2001,Portsmouth FC,1-1,Fulham FC
 44,Fri Apr 20 2001,Bolton Wanderers FC,1-0,Norwich City FC
 44,Fri Apr 20 2001,Grimsby Town FC,0-1,Sheffield United FC
 44,Fri Apr 20 2001,Gillingham FC,1-2,West Bromwich Albion FC
 44,Fri Apr 20 2001,Burnley FC,0-0,Birmingham City FC
-44,Fri Apr 20 2001,Portsmouth FC,1-1,Fulham FC
-44,Fri Apr 20 2001,Wimbledon FC,2-1,Nottingham Forest FC
-44,Fri Apr 20 2001,Stockport County FC,3-0,Crewe Alexandra FC
-44,Fri Apr 20 2001,Wolverhampton Wanderers FC,0-0,Blackburn Rovers FC
-44,Fri Apr 20 2001,Sheffield Wednesday FC,2-1,Barnsley FC
-44,Fri Apr 20 2001,Tranmere Rovers FC,1-1,Crystal Palace FC
+44,Fri Apr 20 2001,Huddersfield Town AFC,2-1,Queens Park Rangers FC
 44,Sat Apr 21 2001,Preston North End FC,3-2,Watford FC
-39,Mon Apr 23 2001,Grimsby Town FC,1-4,Blackburn Rovers FC
-39,Mon Apr 23 2001,Fulham FC,2-0,Wolverhampton Wanderers FC
-39,Mon Apr 23 2001,Wimbledon FC,3-3,Crewe Alexandra FC
 37,Mon Apr 23 2001,Burnley FC,2-1,Tranmere Rovers FC
-45,Fri Apr 27 2001,Crewe Alexandra FC,1-3,Preston North End FC
-45,Fri Apr 27 2001,Birmingham City FC,1-0,Grimsby Town FC
-45,Fri Apr 27 2001,Crystal Palace FC,0-2,Wolverhampton Wanderers FC
-45,Fri Apr 27 2001,Fulham FC,1-1,Wimbledon FC
-45,Fri Apr 27 2001,West Bromwich Albion FC,1-1,Huddersfield Town AFC
+39,Mon Apr 23 2001,Wimbledon FC,3-3,Crewe Alexandra FC
+39,Mon Apr 23 2001,Fulham FC,2-0,Wolverhampton Wanderers FC
+39,Mon Apr 23 2001,Grimsby Town FC,1-4,Blackburn Rovers FC
 45,Fri Apr 27 2001,Sheffield United FC,2-0,Burnley FC
-45,Fri Apr 27 2001,Norwich City FC,1-0,Sheffield Wednesday FC
+45,Fri Apr 27 2001,Watford FC,1-1,Tranmere Rovers FC
 45,Fri Apr 27 2001,Barnsley FC,0-1,Bolton Wanderers FC
 45,Fri Apr 27 2001,Queens Park Rangers FC,0-3,Stockport County FC
 45,Fri Apr 27 2001,Nottingham Forest FC,0-1,Gillingham FC
-45,Fri Apr 27 2001,Watford FC,1-1,Tranmere Rovers FC
+45,Fri Apr 27 2001,Norwich City FC,1-0,Sheffield Wednesday FC
+45,Fri Apr 27 2001,Fulham FC,1-1,Wimbledon FC
+45,Fri Apr 27 2001,Crystal Palace FC,0-2,Wolverhampton Wanderers FC
+45,Fri Apr 27 2001,Crewe Alexandra FC,1-3,Preston North End FC
+45,Fri Apr 27 2001,Birmingham City FC,1-0,Grimsby Town FC
+45,Fri Apr 27 2001,West Bromwich Albion FC,1-1,Huddersfield Town AFC
 45,Sat Apr 28 2001,Blackburn Rovers FC,3-1,Portsmouth FC
 33,Mon Apr 30 2001,Wimbledon FC,1-1,Huddersfield Town AFC
-38,Mon Apr 30 2001,Gillingham FC,0-3,Watford FC
 36,Mon Apr 30 2001,Wolverhampton Wanderers FC,0-2,Bolton Wanderers FC
+38,Mon Apr 30 2001,Gillingham FC,0-3,Watford FC
 37,Tue May 1 2001,Preston North End FC,0-1,Blackburn Rovers FC
 39,Tue May 1 2001,Portsmouth FC,2-4,Crystal Palace FC
-46,Sat May 5 2001,Sheffield Wednesday FC,0-0,Crewe Alexandra FC
+46,Sat May 5 2001,Stockport County FC,0-1,Crystal Palace FC
 46,Sat May 5 2001,Wimbledon FC,0-0,Norwich City FC
 46,Sat May 5 2001,Tranmere Rovers FC,2-2,Nottingham Forest FC
 46,Sat May 5 2001,Wolverhampton Wanderers FC,1-1,Queens Park Rangers FC
-46,Sat May 5 2001,Stockport County FC,0-1,Crystal Palace FC
+46,Sat May 5 2001,Sheffield Wednesday FC,0-0,Crewe Alexandra FC
 46,Sat May 5 2001,Preston North End FC,2-1,West Bromwich Albion FC
 46,Sat May 5 2001,Portsmouth FC,3-0,Barnsley FC
 46,Sat May 5 2001,Huddersfield Town AFC,1-2,Birmingham City FC

@@ -1,13 +1,13 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 19 2000,Leeds United FC,2-0,Everton FC
 1,Sat Aug 19 2000,Derby County FC,2-2,Southampton FC
 1,Sat Aug 19 2000,Tottenham Hotspur FC,3-1,Ipswich Town FC
 1,Sat Aug 19 2000,Sunderland AFC,1-0,Arsenal FC
 1,Sat Aug 19 2000,Coventry City FC,1-3,Middlesbrough FC
 1,Sat Aug 19 2000,Leicester City FC,0-0,Aston Villa FC
-1,Sat Aug 19 2000,Liverpool FC,1-0,Bradford City AFC
-1,Sat Aug 19 2000,Chelsea FC,4-2,West Ham United FC
 1,Sat Aug 19 2000,Charlton Athletic FC,4-0,Manchester City FC
+1,Sat Aug 19 2000,Chelsea FC,4-2,West Ham United FC
+1,Sat Aug 19 2000,Liverpool FC,1-0,Bradford City AFC
 1,Sun Aug 20 2000,Manchester United FC,2-0,Newcastle United FC
 2,Mon Aug 21 2000,Arsenal FC,2-0,Liverpool FC
 2,Tue Aug 22 2000,Ipswich Town FC,1-1,Manchester United FC
@@ -19,26 +19,25 @@ Matchday,Date,Team 1,FT,Team 2
 2,Wed Aug 23 2000,Southampton FC,1-2,Coventry City FC
 2,Wed Aug 23 2000,Newcastle United FC,3-2,Derby County FC
 3,Sat Aug 26 2000,Bradford City AFC,0-0,Leicester City FC
-3,Sat Aug 26 2000,Arsenal FC,5-3,Charlton Athletic FC
 3,Sat Aug 26 2000,Manchester City FC,1-2,Coventry City FC
 3,Sat Aug 26 2000,Middlesbrough FC,1-2,Leeds United FC
-3,Sat Aug 26 2000,Everton FC,2-2,Derby County FC
+3,Sat Aug 26 2000,Southampton FC,3-3,Liverpool FC
 3,Sat Aug 26 2000,West Ham United FC,2-2,Manchester United FC
 3,Sat Aug 26 2000,Ipswich Town FC,1-0,Sunderland AFC
 3,Sat Aug 26 2000,Newcastle United FC,2-0,Tottenham Hotspur FC
-3,Sat Aug 26 2000,Southampton FC,3-3,Liverpool FC
+3,Sat Aug 26 2000,Everton FC,2-2,Derby County FC
+3,Sat Aug 26 2000,Arsenal FC,5-3,Charlton Athletic FC
 3,Sun Aug 27 2000,Aston Villa FC,1-1,Chelsea FC
 4,Tue Sep 5 2000,Sunderland AFC,1-1,West Ham United FC
-4,Tue Sep 5 2000,Manchester United FC,6-0,Bradford City AFC
 4,Tue Sep 5 2000,Leeds United FC,1-2,Manchester City FC
 4,Tue Sep 5 2000,Tottenham Hotspur FC,3-2,Everton FC
-4,Wed Sep 6 2000,Leicester City FC,2-1,Ipswich Town FC
+4,Tue Sep 5 2000,Manchester United FC,6-0,Bradford City AFC
 4,Wed Sep 6 2000,Charlton Athletic FC,1-1,Southampton FC
 4,Wed Sep 6 2000,Derby County FC,3-3,Middlesbrough FC
 4,Wed Sep 6 2000,Chelsea FC,2-2,Arsenal FC
-4,Wed Sep 6 2000,Coventry City FC,0-2,Newcastle United FC
+4,Wed Sep 6 2000,Leicester City FC,2-1,Ipswich Town FC
 4,Wed Sep 6 2000,Liverpool FC,3-1,Aston Villa FC
-5,Sat Sep 9 2000,Coventry City FC,0-0,Leeds United FC
+4,Wed Sep 6 2000,Coventry City FC,0-2,Newcastle United FC
 5,Sat Sep 9 2000,Manchester United FC,3-0,Sunderland AFC
 5,Sat Sep 9 2000,Leicester City FC,1-0,Southampton FC
 5,Sat Sep 9 2000,Liverpool FC,3-2,Manchester City FC
@@ -46,19 +45,19 @@ Matchday,Date,Team 1,FT,Team 2
 5,Sat Sep 9 2000,Newcastle United FC,0-0,Chelsea FC
 5,Sat Sep 9 2000,Middlesbrough FC,1-2,Everton FC
 5,Sat Sep 9 2000,Ipswich Town FC,1-2,Aston Villa FC
+5,Sat Sep 9 2000,Coventry City FC,0-0,Leeds United FC
 5,Sun Sep 10 2000,Derby County FC,2-2,Charlton Athletic FC
 5,Mon Sep 11 2000,Tottenham Hotspur FC,1-0,West Ham United FC
-6,Sat Sep 16 2000,Leeds United FC,1-2,Ipswich Town FC
 6,Sat Sep 16 2000,Everton FC,1-3,Manchester United FC
 6,Sat Sep 16 2000,Aston Villa FC,2-0,Bradford City AFC
+6,Sat Sep 16 2000,Leeds United FC,1-2,Ipswich Town FC
 6,Sat Sep 16 2000,Sunderland AFC,2-1,Derby County FC
-6,Sat Sep 16 2000,Arsenal FC,2-1,Coventry City FC
 6,Sat Sep 16 2000,Southampton FC,2-0,Newcastle United FC
 6,Sat Sep 16 2000,Charlton Athletic FC,1-0,Tottenham Hotspur FC
-6,Sun Sep 17 2000,Chelsea FC,0-2,Leicester City FC
+6,Sat Sep 16 2000,Arsenal FC,2-1,Coventry City FC
 6,Sun Sep 17 2000,West Ham United FC,1-1,Liverpool FC
+6,Sun Sep 17 2000,Chelsea FC,0-2,Leicester City FC
 6,Sun Sep 17 2000,Manchester City FC,1-1,Middlesbrough FC
-7,Sat Sep 23 2000,Bradford City AFC,0-1,Southampton FC
 7,Sat Sep 23 2000,Derby County FC,1-1,Leeds United FC
 7,Sat Sep 23 2000,Ipswich Town FC,1-1,Arsenal FC
 7,Sat Sep 23 2000,Newcastle United FC,0-1,Charlton Athletic FC
@@ -67,28 +66,28 @@ Matchday,Date,Team 1,FT,Team 2
 7,Sat Sep 23 2000,Tottenham Hotspur FC,0-0,Manchester City FC
 7,Sat Sep 23 2000,Coventry City FC,0-3,West Ham United FC
 7,Sat Sep 23 2000,Middlesbrough FC,1-1,Aston Villa FC
+7,Sat Sep 23 2000,Bradford City AFC,0-1,Southampton FC
 7,Sun Sep 24 2000,Leicester City FC,1-1,Everton FC
-8,Sat Sep 30 2000,Aston Villa FC,4-1,Derby County FC
 8,Sat Sep 30 2000,West Ham United FC,1-1,Bradford City AFC
 8,Sat Sep 30 2000,Everton FC,0-3,Ipswich Town FC
-8,Sat Sep 30 2000,Manchester City FC,0-1,Newcastle United FC
+8,Sat Sep 30 2000,Aston Villa FC,4-1,Derby County FC
 8,Sat Sep 30 2000,Leeds United FC,4-3,Tottenham Hotspur FC
-8,Sat Sep 30 2000,Southampton FC,1-3,Middlesbrough FC
 8,Sat Sep 30 2000,Charlton Athletic FC,2-2,Coventry City FC
-8,Sun Oct 1 2000,Arsenal FC,1-0,Manchester United FC
+8,Sat Sep 30 2000,Southampton FC,1-3,Middlesbrough FC
+8,Sat Sep 30 2000,Manchester City FC,0-1,Newcastle United FC
 8,Sun Oct 1 2000,Chelsea FC,3-0,Liverpool FC
+8,Sun Oct 1 2000,Arsenal FC,1-0,Manchester United FC
 8,Sun Oct 1 2000,Sunderland AFC,0-0,Leicester City FC
-9,Sat Oct 14 2000,Ipswich Town FC,1-1,West Ham United FC
 9,Sat Oct 14 2000,Arsenal FC,1-0,Aston Villa FC
 9,Sat Oct 14 2000,Coventry City FC,2-1,Tottenham Hotspur FC
 9,Sat Oct 14 2000,Manchester City FC,2-0,Bradford City AFC
 9,Sat Oct 14 2000,Leicester City FC,0-3,Manchester United FC
-9,Sat Oct 14 2000,Leeds United FC,3-1,Charlton Athletic FC
+9,Sat Oct 14 2000,Ipswich Town FC,1-1,West Ham United FC
 9,Sat Oct 14 2000,Everton FC,1-1,Southampton FC
 9,Sat Oct 14 2000,Sunderland AFC,1-0,Chelsea FC
+9,Sat Oct 14 2000,Leeds United FC,3-1,Charlton Athletic FC
 9,Sun Oct 15 2000,Derby County FC,0-4,Liverpool FC
 9,Mon Oct 16 2000,Middlesbrough FC,1-3,Newcastle United FC
-10,Sat Oct 21 2000,Newcastle United FC,0-1,Everton FC
 10,Sat Oct 21 2000,Manchester United FC,3-0,Leeds United FC
 10,Sat Oct 21 2000,Chelsea FC,6-1,Coventry City FC
 10,Sat Oct 21 2000,Liverpool FC,1-0,Leicester City FC
@@ -96,90 +95,90 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Oct 21 2000,Tottenham Hotspur FC,3-1,Derby County FC
 10,Sat Oct 21 2000,Charlton Athletic FC,1-0,Middlesbrough FC
 10,Sat Oct 21 2000,Bradford City AFC,0-2,Ipswich Town FC
+10,Sat Oct 21 2000,Newcastle United FC,0-1,Everton FC
 10,Sun Oct 22 2000,Aston Villa FC,0-0,Sunderland AFC
 10,Mon Oct 23 2000,Southampton FC,0-2,Manchester City FC
-11,Sat Oct 28 2000,Leicester City FC,2-1,Derby County FC
 11,Sat Oct 28 2000,Sunderland AFC,1-0,Coventry City FC
 11,Sat Oct 28 2000,Manchester United FC,5-0,Southampton FC
-11,Sat Oct 28 2000,Ipswich Town FC,2-1,Middlesbrough FC
+11,Sat Oct 28 2000,Leicester City FC,2-1,Derby County FC
 11,Sat Oct 28 2000,West Ham United FC,1-0,Newcastle United FC
 11,Sat Oct 28 2000,Aston Villa FC,2-1,Charlton Athletic FC
 11,Sat Oct 28 2000,Arsenal FC,5-0,Manchester City FC
 11,Sat Oct 28 2000,Chelsea FC,3-0,Tottenham Hotspur FC
+11,Sat Oct 28 2000,Ipswich Town FC,2-1,Middlesbrough FC
 11,Sun Oct 29 2000,Bradford City AFC,1-1,Leeds United FC
 11,Sun Oct 29 2000,Liverpool FC,3-1,Everton FC
-12,Sat Nov 4 2000,Manchester City FC,0-1,Leicester City FC
 12,Sat Nov 4 2000,Middlesbrough FC,0-1,Arsenal FC
 12,Sat Nov 4 2000,Coventry City FC,1-2,Manchester United FC
-12,Sat Nov 4 2000,Newcastle United FC,2-1,Ipswich Town FC
+12,Sat Nov 4 2000,Manchester City FC,0-1,Leicester City FC
 12,Sat Nov 4 2000,Tottenham Hotspur FC,2-1,Sunderland AFC
 12,Sat Nov 4 2000,Southampton FC,3-2,Chelsea FC
 12,Sat Nov 4 2000,Charlton Athletic FC,2-0,Bradford City AFC
 12,Sat Nov 4 2000,Leeds United FC,4-3,Liverpool FC
+12,Sat Nov 4 2000,Newcastle United FC,2-1,Ipswich Town FC
 12,Sun Nov 5 2000,Everton FC,0-1,Aston Villa FC
 12,Mon Nov 6 2000,Derby County FC,0-0,West Ham United FC
-13,Sat Nov 11 2000,Manchester United FC,2-1,Middlesbrough FC
 13,Sat Nov 11 2000,Arsenal FC,0-0,Derby County FC
 13,Sat Nov 11 2000,Sunderland AFC,2-2,Southampton FC
-13,Sat Nov 11 2000,Bradford City AFC,0-1,Everton FC
+13,Sat Nov 11 2000,Manchester United FC,2-1,Middlesbrough FC
 13,Sat Nov 11 2000,Ipswich Town FC,2-0,Charlton Athletic FC
-13,Sat Nov 11 2000,West Ham United FC,4-1,Manchester City FC
-13,Sat Nov 11 2000,Aston Villa FC,2-0,Tottenham Hotspur FC
 13,Sat Nov 11 2000,Leicester City FC,1-1,Newcastle United FC
+13,Sat Nov 11 2000,Aston Villa FC,2-0,Tottenham Hotspur FC
+13,Sat Nov 11 2000,West Ham United FC,4-1,Manchester City FC
+13,Sat Nov 11 2000,Bradford City AFC,0-1,Everton FC
 13,Sun Nov 12 2000,Liverpool FC,4-1,Coventry City FC
 13,Sun Nov 12 2000,Chelsea FC,1-1,Leeds United FC
-14,Sat Nov 18 2000,Charlton Athletic FC,2-0,Chelsea FC
 14,Sat Nov 18 2000,Newcastle United FC,1-2,Sunderland AFC
 14,Sat Nov 18 2000,Leeds United FC,0-1,West Ham United FC
 14,Sat Nov 18 2000,Derby County FC,2-0,Bradford City AFC
 14,Sat Nov 18 2000,Everton FC,2-0,Arsenal FC
-14,Sat Nov 18 2000,Middlesbrough FC,0-3,Leicester City FC
+14,Sat Nov 18 2000,Charlton Athletic FC,2-0,Chelsea FC
 14,Sat Nov 18 2000,Southampton FC,2-0,Aston Villa FC
 14,Sat Nov 18 2000,Manchester City FC,0-1,Manchester United FC
+14,Sat Nov 18 2000,Middlesbrough FC,0-3,Leicester City FC
 14,Sun Nov 19 2000,Tottenham Hotspur FC,2-1,Liverpool FC
 14,Mon Nov 20 2000,Coventry City FC,0-1,Ipswich Town FC
-15,Sat Nov 25 2000,Charlton Athletic FC,0-1,Sunderland AFC
 15,Sat Nov 25 2000,Coventry City FC,1-1,Aston Villa FC
 15,Sat Nov 25 2000,Southampton FC,2-3,West Ham United FC
 15,Sat Nov 25 2000,Manchester City FC,2-3,Ipswich Town FC
-15,Sat Nov 25 2000,Tottenham Hotspur FC,3-0,Leicester City FC
+15,Sat Nov 25 2000,Everton FC,2-1,Chelsea FC
 15,Sat Nov 25 2000,Derby County FC,0-3,Manchester United FC
 15,Sat Nov 25 2000,Middlesbrough FC,2-2,Bradford City AFC
-15,Sat Nov 25 2000,Everton FC,2-1,Chelsea FC
+15,Sat Nov 25 2000,Tottenham Hotspur FC,3-0,Leicester City FC
+15,Sat Nov 25 2000,Charlton Athletic FC,0-1,Sunderland AFC
 15,Sun Nov 26 2000,Newcastle United FC,2-1,Liverpool FC
 15,Sun Nov 26 2000,Leeds United FC,1-0,Arsenal FC
-16,Sat Dec 2 2000,Manchester United FC,2-0,Tottenham Hotspur FC
 16,Sat Dec 2 2000,Liverpool FC,3-0,Charlton Athletic FC
-16,Sat Dec 2 2000,West Ham United FC,1-0,Middlesbrough FC
+16,Sat Dec 2 2000,Manchester United FC,2-0,Tottenham Hotspur FC
 16,Sat Dec 2 2000,Arsenal FC,1-0,Southampton FC
-16,Sat Dec 2 2000,Ipswich Town FC,0-1,Derby County FC
+16,Sat Dec 2 2000,Bradford City AFC,2-1,Coventry City FC
 16,Sat Dec 2 2000,Leicester City FC,3-1,Leeds United FC
 16,Sat Dec 2 2000,Aston Villa FC,1-1,Newcastle United FC
-16,Sat Dec 2 2000,Bradford City AFC,2-1,Coventry City FC
+16,Sat Dec 2 2000,Ipswich Town FC,0-1,Derby County FC
+16,Sat Dec 2 2000,West Ham United FC,1-0,Middlesbrough FC
 16,Sun Dec 3 2000,Chelsea FC,2-1,Manchester City FC
 16,Mon Dec 4 2000,Sunderland AFC,2-0,Everton FC
-17,Sat Dec 9 2000,Bradford City AFC,3-3,Tottenham Hotspur FC
 17,Sat Dec 9 2000,Sunderland AFC,1-0,Middlesbrough FC
 17,Sat Dec 9 2000,Chelsea FC,4-1,Derby County FC
 17,Sat Dec 9 2000,Southampton FC,1-0,Leeds United FC
-17,Sat Dec 9 2000,Arsenal FC,5-0,Newcastle United FC
+17,Sat Dec 9 2000,Bradford City AFC,3-3,Tottenham Hotspur FC
 17,Sat Dec 9 2000,Manchester City FC,5-0,Everton FC
 17,Sat Dec 9 2000,West Ham United FC,1-1,Aston Villa FC
 17,Sat Dec 9 2000,Charlton Athletic FC,3-3,Manchester United FC
+17,Sat Dec 9 2000,Arsenal FC,5-0,Newcastle United FC
 17,Sun Dec 10 2000,Liverpool FC,0-1,Ipswich Town FC
 17,Sun Dec 10 2000,Coventry City FC,1-0,Leicester City FC
-18,Sat Dec 16 2000,Ipswich Town FC,3-1,Southampton FC
 18,Sat Dec 16 2000,Middlesbrough FC,1-0,Chelsea FC
 18,Sat Dec 16 2000,Leeds United FC,2-0,Sunderland AFC
 18,Sat Dec 16 2000,Derby County FC,1-0,Coventry City FC
+18,Sat Dec 16 2000,Ipswich Town FC,3-1,Southampton FC
 18,Sat Dec 16 2000,Aston Villa FC,2-2,Manchester City FC
-18,Sat Dec 16 2000,Leicester City FC,3-1,Charlton Athletic FC
 18,Sat Dec 16 2000,Everton FC,1-1,West Ham United FC
+18,Sat Dec 16 2000,Leicester City FC,3-1,Charlton Athletic FC
 18,Sat Dec 16 2000,Newcastle United FC,2-1,Bradford City AFC
 18,Sun Dec 17 2000,Manchester United FC,0-1,Liverpool FC
 18,Mon Dec 18 2000,Tottenham Hotspur FC,1-1,Arsenal FC
 19,Fri Dec 22 2000,Coventry City FC,1-1,Southampton FC
-19,Sat Dec 23 2000,Leicester City FC,2-1,West Ham United FC
 19,Sat Dec 23 2000,Manchester United FC,2-0,Ipswich Town FC
 19,Sat Dec 23 2000,Liverpool FC,4-0,Arsenal FC
 19,Sat Dec 23 2000,Derby County FC,2-0,Newcastle United FC
@@ -188,191 +187,192 @@ Matchday,Date,Team 1,FT,Team 2
 19,Sat Dec 23 2000,Charlton Athletic FC,1-0,Everton FC
 19,Sat Dec 23 2000,Leeds United FC,1-2,Aston Villa FC
 19,Sat Dec 23 2000,Sunderland AFC,1-0,Manchester City FC
-20,Tue Dec 26 2000,Newcastle United FC,2-1,Leeds United FC
-20,Tue Dec 26 2000,Arsenal FC,6-1,Leicester City FC
+19,Sat Dec 23 2000,Leicester City FC,2-1,West Ham United FC
+20,Tue Dec 26 2000,Bradford City AFC,1-4,Sunderland AFC
 20,Tue Dec 26 2000,Everton FC,1-2,Coventry City FC
 20,Tue Dec 26 2000,Ipswich Town FC,2-2,Chelsea FC
 20,Tue Dec 26 2000,Middlesbrough FC,1-0,Liverpool FC
 20,Tue Dec 26 2000,Aston Villa FC,0-1,Manchester United FC
 20,Tue Dec 26 2000,Manchester City FC,0-0,Derby County FC
 20,Tue Dec 26 2000,West Ham United FC,5-0,Charlton Athletic FC
-20,Tue Dec 26 2000,Bradford City AFC,1-4,Sunderland AFC
+20,Tue Dec 26 2000,Arsenal FC,6-1,Leicester City FC
+20,Tue Dec 26 2000,Newcastle United FC,2-1,Leeds United FC
 20,Wed Dec 27 2000,Southampton FC,2-0,Tottenham Hotspur FC
-21,Sat Dec 30 2000,Arsenal FC,2-2,Sunderland AFC
 21,Sat Dec 30 2000,Middlesbrough FC,1-1,Coventry City FC
-21,Sat Dec 30 2000,Southampton FC,1-0,Derby County FC
+21,Sat Dec 30 2000,Arsenal FC,2-2,Sunderland AFC
 21,Sat Dec 30 2000,Newcastle United FC,1-1,Manchester United FC
 21,Sat Dec 30 2000,Manchester City FC,1-4,Charlton Athletic FC
 21,Sat Dec 30 2000,Ipswich Town FC,3-0,Tottenham Hotspur FC
-22,Mon Jan 1 2001,Chelsea FC,1-0,Aston Villa FC
-22,Mon Jan 1 2001,Manchester United FC,3-1,West Ham United FC
-22,Mon Jan 1 2001,Sunderland AFC,4-1,Ipswich Town FC
-22,Mon Jan 1 2001,Leeds United FC,1-1,Middlesbrough FC
-22,Mon Jan 1 2001,Coventry City FC,1-1,Manchester City FC
+21,Sat Dec 30 2000,Southampton FC,1-0,Derby County FC
 22,Mon Jan 1 2001,Liverpool FC,2-1,Southampton FC
 22,Mon Jan 1 2001,Leicester City FC,1-2,Bradford City AFC
 22,Mon Jan 1 2001,Derby County FC,1-0,Everton FC
+22,Mon Jan 1 2001,Leeds United FC,1-1,Middlesbrough FC
+22,Mon Jan 1 2001,Coventry City FC,1-1,Manchester City FC
 22,Mon Jan 1 2001,Charlton Athletic FC,1-0,Arsenal FC
+22,Mon Jan 1 2001,Sunderland AFC,4-1,Ipswich Town FC
+22,Mon Jan 1 2001,Chelsea FC,1-0,Aston Villa FC
+22,Mon Jan 1 2001,Manchester United FC,3-1,West Ham United FC
 22,Tue Jan 2 2001,Tottenham Hotspur FC,4-2,Newcastle United FC
-23,Sat Jan 13 2001,Bradford City AFC,0-3,Manchester United FC
-23,Sat Jan 13 2001,Southampton FC,0-0,Charlton Athletic FC
-23,Sat Jan 13 2001,Manchester City FC,0-4,Leeds United FC
-23,Sat Jan 13 2001,Aston Villa FC,0-3,Liverpool FC
-23,Sat Jan 13 2001,Everton FC,0-0,Tottenham Hotspur FC
-23,Sat Jan 13 2001,Middlesbrough FC,4-0,Derby County FC
+23,Sat Jan 13 2001,West Ham United FC,0-2,Sunderland AFC
 23,Sat Jan 13 2001,Arsenal FC,1-1,Chelsea FC
 23,Sat Jan 13 2001,Newcastle United FC,3-1,Coventry City FC
-23,Sat Jan 13 2001,West Ham United FC,0-2,Sunderland AFC
+23,Sat Jan 13 2001,Bradford City AFC,0-3,Manchester United FC
+23,Sat Jan 13 2001,Everton FC,0-0,Tottenham Hotspur FC
+23,Sat Jan 13 2001,Middlesbrough FC,4-0,Derby County FC
+23,Sat Jan 13 2001,Aston Villa FC,0-3,Liverpool FC
+23,Sat Jan 13 2001,Manchester City FC,0-4,Leeds United FC
+23,Sat Jan 13 2001,Southampton FC,0-0,Charlton Athletic FC
 23,Sun Jan 14 2001,Ipswich Town FC,2-0,Leicester City FC
-24,Sat Jan 20 2001,Leicester City FC,0-0,Arsenal FC
-24,Sat Jan 20 2001,Tottenham Hotspur FC,0-0,Southampton FC
-24,Sat Jan 20 2001,Derby County FC,1-1,Manchester City FC
-24,Sat Jan 20 2001,Chelsea FC,4-1,Ipswich Town FC
-24,Sat Jan 20 2001,Liverpool FC,0-0,Middlesbrough FC
 24,Sat Jan 20 2001,Leeds United FC,1-3,Newcastle United FC
 24,Sat Jan 20 2001,Coventry City FC,1-3,Everton FC
+24,Sat Jan 20 2001,Derby County FC,1-1,Manchester City FC
+24,Sat Jan 20 2001,Leicester City FC,0-0,Arsenal FC
+24,Sat Jan 20 2001,Liverpool FC,0-0,Middlesbrough FC
+24,Sat Jan 20 2001,Tottenham Hotspur FC,0-0,Southampton FC
 24,Sat Jan 20 2001,Manchester United FC,2-0,Aston Villa FC
+24,Sat Jan 20 2001,Chelsea FC,4-1,Ipswich Town FC
 24,Sun Jan 21 2001,Sunderland AFC,0-0,Bradford City AFC
 24,Mon Jan 22 2001,Charlton Athletic FC,1-1,West Ham United FC
 2,Wed Jan 24 2001,Aston Villa FC,1-2,Leeds United FC
-25,Tue Jan 30 2001,Charlton Athletic FC,2-1,Derby County FC
 25,Tue Jan 30 2001,Arsenal FC,2-0,Bradford City AFC
-25,Wed Jan 31 2001,Leeds United FC,1-0,Coventry City FC
-25,Wed Jan 31 2001,Chelsea FC,3-1,Newcastle United FC
-25,Wed Jan 31 2001,Sunderland AFC,0-1,Manchester United FC
-25,Wed Jan 31 2001,Everton FC,2-2,Middlesbrough FC
+25,Tue Jan 30 2001,Charlton Athletic FC,2-1,Derby County FC
 25,Wed Jan 31 2001,West Ham United FC,0-0,Tottenham Hotspur FC
 25,Wed Jan 31 2001,Manchester City FC,1-1,Liverpool FC
 25,Wed Jan 31 2001,Southampton FC,1-0,Leicester City FC
-26,Sat Feb 3 2001,Liverpool FC,3-0,West Ham United FC
-26,Sat Feb 3 2001,Ipswich Town FC,1-2,Leeds United FC
-26,Sat Feb 3 2001,Coventry City FC,0-1,Arsenal FC
-26,Sat Feb 3 2001,Manchester United FC,1-0,Everton FC
-26,Sat Feb 3 2001,Bradford City AFC,0-3,Aston Villa FC
-26,Sat Feb 3 2001,Derby County FC,1-0,Sunderland AFC
+25,Wed Jan 31 2001,Everton FC,2-2,Middlesbrough FC
+25,Wed Jan 31 2001,Leeds United FC,1-0,Coventry City FC
+25,Wed Jan 31 2001,Sunderland AFC,0-1,Manchester United FC
+25,Wed Jan 31 2001,Chelsea FC,3-1,Newcastle United FC
+26,Sat Feb 3 2001,Leicester City FC,2-1,Chelsea FC
 26,Sat Feb 3 2001,Middlesbrough FC,1-1,Manchester City FC
 26,Sat Feb 3 2001,Tottenham Hotspur FC,0-0,Charlton Athletic FC
-26,Sat Feb 3 2001,Leicester City FC,2-1,Chelsea FC
+26,Sat Feb 3 2001,Derby County FC,1-0,Sunderland AFC
+26,Sat Feb 3 2001,Ipswich Town FC,1-2,Leeds United FC
+26,Sat Feb 3 2001,Bradford City AFC,0-3,Aston Villa FC
+26,Sat Feb 3 2001,Liverpool FC,3-0,West Ham United FC
+26,Sat Feb 3 2001,Coventry City FC,0-1,Arsenal FC
+26,Sat Feb 3 2001,Manchester United FC,1-0,Everton FC
 21,Wed Feb 7 2001,Everton FC,2-2,Leeds United FC
 27,Sat Feb 10 2001,Southampton FC,2-0,Bradford City AFC
-27,Sat Feb 10 2001,Sunderland AFC,1-1,Liverpool FC
-27,Sat Feb 10 2001,Arsenal FC,1-0,Ipswich Town FC
-27,Sat Feb 10 2001,Manchester City FC,0-1,Tottenham Hotspur FC
-27,Sat Feb 10 2001,Chelsea FC,1-1,Manchester United FC
-27,Sat Feb 10 2001,Everton FC,2-1,Leicester City FC
 27,Sat Feb 10 2001,Aston Villa FC,1-1,Middlesbrough FC
+27,Sat Feb 10 2001,Everton FC,2-1,Leicester City FC
+27,Sat Feb 10 2001,Manchester City FC,0-1,Tottenham Hotspur FC
+27,Sat Feb 10 2001,Arsenal FC,1-0,Ipswich Town FC
+27,Sat Feb 10 2001,Sunderland AFC,1-1,Liverpool FC
 27,Sat Feb 10 2001,Leeds United FC,0-0,Derby County FC
+27,Sat Feb 10 2001,Chelsea FC,1-1,Manchester United FC
 27,Sun Feb 11 2001,Charlton Athletic FC,2-0,Newcastle United FC
 27,Mon Feb 12 2001,West Ham United FC,1-1,Coventry City FC
-28,Sat Feb 24 2001,Coventry City FC,2-2,Charlton Athletic FC
+28,Sat Feb 24 2001,Derby County FC,1-0,Aston Villa FC
+28,Sat Feb 24 2001,Leicester City FC,2-0,Sunderland AFC
+28,Sat Feb 24 2001,Middlesbrough FC,0-1,Southampton FC
+28,Sat Feb 24 2001,Tottenham Hotspur FC,1-2,Leeds United FC
 28,Sat Feb 24 2001,Newcastle United FC,0-1,Manchester City FC
 28,Sat Feb 24 2001,Bradford City AFC,1-2,West Ham United FC
-28,Sat Feb 24 2001,Tottenham Hotspur FC,1-2,Leeds United FC
+28,Sat Feb 24 2001,Coventry City FC,2-2,Charlton Athletic FC
 28,Sat Feb 24 2001,Ipswich Town FC,2-0,Everton FC
-28,Sat Feb 24 2001,Middlesbrough FC,0-1,Southampton FC
-28,Sat Feb 24 2001,Leicester City FC,2-0,Sunderland AFC
-28,Sat Feb 24 2001,Derby County FC,1-0,Aston Villa FC
 28,Sun Feb 25 2001,Manchester United FC,6-1,Arsenal FC
-29,Sat Mar 3 2001,Coventry City FC,0-0,Chelsea FC
+29,Sat Mar 3 2001,Derby County FC,2-1,Tottenham Hotspur FC
+29,Sat Mar 3 2001,Leeds United FC,1-1,Manchester United FC
+29,Sat Mar 3 2001,Leicester City FC,2-0,Liverpool FC
+29,Sat Mar 3 2001,Everton FC,1-1,Newcastle United FC
+29,Sat Mar 3 2001,Manchester City FC,0-1,Southampton FC
 29,Sat Mar 3 2001,Middlesbrough FC,0-0,Charlton Athletic FC
 29,Sat Mar 3 2001,Arsenal FC,3-0,West Ham United FC
-29,Sat Mar 3 2001,Everton FC,1-1,Newcastle United FC
-29,Sat Mar 3 2001,Leicester City FC,2-0,Liverpool FC
-29,Sat Mar 3 2001,Leeds United FC,1-1,Manchester United FC
-29,Sat Mar 3 2001,Derby County FC,2-1,Tottenham Hotspur FC
-29,Sat Mar 3 2001,Manchester City FC,0-1,Southampton FC
+29,Sat Mar 3 2001,Coventry City FC,0-0,Chelsea FC
 29,Sun Mar 4 2001,Ipswich Town FC,3-1,Bradford City AFC
 29,Mon Mar 5 2001,Sunderland AFC,1-1,Aston Villa FC
 21,Wed Mar 7 2001,West Ham United FC,0-2,Chelsea FC
 25,Sat Mar 10 2001,Aston Villa FC,2-1,Ipswich Town FC
-30,Sat Mar 17 2001,Southampton FC,1-0,Everton FC
-30,Sat Mar 17 2001,Tottenham Hotspur FC,3-0,Coventry City FC
-30,Sat Mar 17 2001,West Ham United FC,0-1,Ipswich Town FC
-30,Sat Mar 17 2001,Charlton Athletic FC,1-2,Leeds United FC
-30,Sat Mar 17 2001,Manchester United FC,2-0,Leicester City FC
+30,Sat Mar 17 2001,Chelsea FC,2-4,Sunderland AFC
 30,Sat Mar 17 2001,Bradford City AFC,2-2,Manchester City FC
 30,Sat Mar 17 2001,Newcastle United FC,1-2,Middlesbrough FC
-30,Sat Mar 17 2001,Chelsea FC,2-4,Sunderland AFC
+30,Sat Mar 17 2001,West Ham United FC,0-1,Ipswich Town FC
+30,Sat Mar 17 2001,Tottenham Hotspur FC,3-0,Coventry City FC
+30,Sat Mar 17 2001,Charlton Athletic FC,1-2,Leeds United FC
+30,Sat Mar 17 2001,Manchester United FC,2-0,Leicester City FC
+30,Sat Mar 17 2001,Southampton FC,1-0,Everton FC
 30,Sun Mar 18 2001,Liverpool FC,1-1,Derby County FC
 30,Sun Mar 18 2001,Aston Villa FC,0-0,Arsenal FC
-31,Sat Mar 31 2001,Liverpool FC,2-0,Manchester United FC
+31,Sat Mar 31 2001,Sunderland AFC,0-2,Leeds United FC
+31,Sat Mar 31 2001,Manchester City FC,1-3,Aston Villa FC
+31,Sat Mar 31 2001,Arsenal FC,2-0,Tottenham Hotspur FC
+31,Sat Mar 31 2001,Chelsea FC,2-1,Middlesbrough FC
 31,Sat Mar 31 2001,West Ham United FC,0-2,Everton FC
 31,Sat Mar 31 2001,Coventry City FC,2-0,Derby County FC
 31,Sat Mar 31 2001,Bradford City AFC,2-2,Newcastle United FC
-31,Sat Mar 31 2001,Sunderland AFC,0-2,Leeds United FC
-31,Sat Mar 31 2001,Chelsea FC,2-1,Middlesbrough FC
-31,Sat Mar 31 2001,Arsenal FC,2-0,Tottenham Hotspur FC
-31,Sat Mar 31 2001,Manchester City FC,1-3,Aston Villa FC
+31,Sat Mar 31 2001,Liverpool FC,2-0,Manchester United FC
 31,Sun Apr 1 2001,Charlton Athletic FC,2-0,Leicester City FC
 31,Mon Apr 2 2001,Southampton FC,0-3,Ipswich Town FC
 21,Wed Apr 4 2001,Aston Villa FC,2-1,Leicester City FC
-32,Sat Apr 7 2001,Leeds United FC,2-0,Southampton FC
-32,Sat Apr 7 2001,Aston Villa FC,2-2,West Ham United FC
 32,Sat Apr 7 2001,Derby County FC,0-4,Chelsea FC
 32,Sat Apr 7 2001,Leicester City FC,1-3,Coventry City FC
+32,Sat Apr 7 2001,Leeds United FC,2-0,Southampton FC
+32,Sat Apr 7 2001,Aston Villa FC,2-2,West Ham United FC
 32,Sun Apr 8 2001,Everton FC,3-1,Manchester City FC
 32,Mon Apr 9 2001,Middlesbrough FC,0-0,Sunderland AFC
-32,Tue Apr 10 2001,Manchester United FC,2-1,Charlton Athletic FC
-32,Tue Apr 10 2001,Ipswich Town FC,1-1,Liverpool FC
 32,Tue Apr 10 2001,Tottenham Hotspur FC,2-1,Bradford City AFC
+32,Tue Apr 10 2001,Ipswich Town FC,1-1,Liverpool FC
+32,Tue Apr 10 2001,Manchester United FC,2-1,Charlton Athletic FC
 34,Wed Apr 11 2001,Manchester City FC,0-4,Arsenal FC
-33,Fri Apr 13 2001,Liverpool FC,1-2,Leeds United FC
 33,Fri Apr 13 2001,Bradford City AFC,2-0,Charlton Athletic FC
-33,Sat Apr 14 2001,Aston Villa FC,2-1,Everton FC
-33,Sat Apr 14 2001,West Ham United FC,3-1,Derby County FC
+33,Fri Apr 13 2001,Liverpool FC,1-2,Leeds United FC
 33,Sat Apr 14 2001,Arsenal FC,0-3,Middlesbrough FC
 33,Sat Apr 14 2001,Manchester United FC,4-2,Coventry City FC
 33,Sat Apr 14 2001,Chelsea FC,1-0,Southampton FC
 33,Sat Apr 14 2001,Leicester City FC,1-2,Manchester City FC
 33,Sat Apr 14 2001,Ipswich Town FC,1-0,Newcastle United FC
+33,Sat Apr 14 2001,Aston Villa FC,2-1,Everton FC
+33,Sat Apr 14 2001,West Ham United FC,3-1,Derby County FC
 33,Sat Apr 14 2001,Sunderland AFC,2-3,Tottenham Hotspur FC
-34,Mon Apr 16 2001,Everton FC,2-3,Liverpool FC
-34,Mon Apr 16 2001,Coventry City FC,1-0,Sunderland AFC
-34,Mon Apr 16 2001,Middlesbrough FC,1-2,Ipswich Town FC
 34,Mon Apr 16 2001,Newcastle United FC,2-1,West Ham United FC
+34,Mon Apr 16 2001,Middlesbrough FC,1-2,Ipswich Town FC
+34,Mon Apr 16 2001,Coventry City FC,1-0,Sunderland AFC
+34,Mon Apr 16 2001,Everton FC,2-3,Liverpool FC
 34,Mon Apr 16 2001,Derby County FC,2-0,Leicester City FC
-34,Tue Apr 17 2001,Tottenham Hotspur FC,0-3,Chelsea FC
 34,Tue Apr 17 2001,Charlton Athletic FC,3-3,Aston Villa FC
-35,Sat Apr 21 2001,West Ham United FC,0-2,Leeds United FC
-35,Sat Apr 21 2001,Leicester City FC,0-3,Middlesbrough FC
-35,Sat Apr 21 2001,Manchester United FC,1-1,Manchester City FC
-35,Sat Apr 21 2001,Aston Villa FC,0-0,Southampton FC
-35,Sat Apr 21 2001,Ipswich Town FC,2-0,Coventry City FC
-35,Sat Apr 21 2001,Sunderland AFC,1-1,Newcastle United FC
+34,Tue Apr 17 2001,Tottenham Hotspur FC,0-3,Chelsea FC
 35,Sat Apr 21 2001,Bradford City AFC,2-0,Derby County FC
 35,Sat Apr 21 2001,Chelsea FC,0-1,Charlton Athletic FC
 35,Sat Apr 21 2001,Arsenal FC,4-1,Everton FC
+35,Sat Apr 21 2001,Sunderland AFC,1-1,Newcastle United FC
+35,Sat Apr 21 2001,Leicester City FC,0-3,Middlesbrough FC
+35,Sat Apr 21 2001,Ipswich Town FC,2-0,Coventry City FC
+35,Sat Apr 21 2001,West Ham United FC,0-2,Leeds United FC
+35,Sat Apr 21 2001,Aston Villa FC,0-0,Southampton FC
+35,Sat Apr 21 2001,Manchester United FC,1-1,Manchester City FC
 35,Sun Apr 22 2001,Liverpool FC,3-1,Tottenham Hotspur FC
-36,Sat Apr 28 2001,Tottenham Hotspur FC,0-0,Aston Villa FC
+36,Sat Apr 28 2001,Leeds United FC,2-0,Chelsea FC
+36,Sat Apr 28 2001,Everton FC,2-1,Bradford City AFC
+36,Sat Apr 28 2001,Charlton Athletic FC,2-1,Ipswich Town FC
+36,Sat Apr 28 2001,Coventry City FC,0-2,Liverpool FC
 36,Sat Apr 28 2001,Derby County FC,1-2,Arsenal FC
+36,Sat Apr 28 2001,Tottenham Hotspur FC,0-0,Aston Villa FC
+36,Sat Apr 28 2001,Manchester City FC,1-0,West Ham United FC
 36,Sat Apr 28 2001,Newcastle United FC,1-0,Leicester City FC
 36,Sat Apr 28 2001,Southampton FC,0-1,Sunderland AFC
 36,Sat Apr 28 2001,Middlesbrough FC,0-2,Manchester United FC
-36,Sat Apr 28 2001,Manchester City FC,1-0,West Ham United FC
-36,Sat Apr 28 2001,Coventry City FC,0-2,Liverpool FC
-36,Sat Apr 28 2001,Everton FC,2-1,Bradford City AFC
-36,Sat Apr 28 2001,Charlton Athletic FC,2-1,Ipswich Town FC
-36,Sat Apr 28 2001,Leeds United FC,2-0,Chelsea FC
 21,Tue May 1 2001,Bradford City AFC,0-2,Liverpool FC
 26,Tue May 1 2001,Newcastle United FC,1-1,Southampton FC
-37,Sat May 5 2001,Leicester City FC,4-2,Tottenham Hotspur FC
-37,Sat May 5 2001,Bradford City AFC,1-1,Middlesbrough FC
-37,Sat May 5 2001,Sunderland AFC,3-2,Charlton Athletic FC
-37,Sat May 5 2001,West Ham United FC,3-0,Southampton FC
 37,Sat May 5 2001,Aston Villa FC,3-2,Coventry City FC
-37,Sat May 5 2001,Liverpool FC,3-0,Newcastle United FC
+37,Sat May 5 2001,Chelsea FC,2-1,Everton FC
 37,Sat May 5 2001,Arsenal FC,2-1,Leeds United FC
 37,Sat May 5 2001,Manchester United FC,0-1,Derby County FC
-37,Sat May 5 2001,Chelsea FC,2-1,Everton FC
+37,Sat May 5 2001,Liverpool FC,3-0,Newcastle United FC
+37,Sat May 5 2001,Bradford City AFC,1-1,Middlesbrough FC
+37,Sat May 5 2001,Leicester City FC,4-2,Tottenham Hotspur FC
+37,Sat May 5 2001,West Ham United FC,3-0,Southampton FC
+37,Sat May 5 2001,Sunderland AFC,3-2,Charlton Athletic FC
 37,Mon May 7 2001,Ipswich Town FC,2-1,Manchester City FC
 28,Tue May 8 2001,Liverpool FC,2-2,Chelsea FC
-34,Sun May 13 2001,Leeds United FC,6-1,Bradford City AFC
 34,Sun May 13 2001,Southampton FC,2-1,Manchester United FC
+34,Sun May 13 2001,Leeds United FC,6-1,Bradford City AFC
 32,Tue May 15 2001,Newcastle United FC,0-0,Arsenal FC
-38,Sat May 19 2001,Newcastle United FC,3-0,Aston Villa FC
+38,Sat May 19 2001,Coventry City FC,0-0,Bradford City AFC
 38,Sat May 19 2001,Derby County FC,1-1,Ipswich Town FC
 38,Sat May 19 2001,Everton FC,2-2,Sunderland AFC
-38,Sat May 19 2001,Coventry City FC,0-0,Bradford City AFC
+38,Sat May 19 2001,Newcastle United FC,3-0,Aston Villa FC
 38,Sat May 19 2001,Southampton FC,3-2,Arsenal FC
 38,Sat May 19 2001,Middlesbrough FC,2-1,West Ham United FC
 38,Sat May 19 2001,Manchester City FC,1-2,Chelsea FC

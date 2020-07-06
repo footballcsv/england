@@ -1,44 +1,43 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Fri Aug 14 1998,Wimbledon FC,3-1,Tottenham Hotspur FC
 1,Fri Aug 14 1998,Sheffield Wednesday FC,0-1,West Ham United FC
 1,Fri Aug 14 1998,Newcastle United FC,0-0,Charlton Athletic FC
 1,Fri Aug 14 1998,Middlesbrough FC,0-0,Leeds United FC
-1,Fri Aug 14 1998,Manchester United FC,2-2,Leicester City FC
+1,Fri Aug 14 1998,Blackburn Rovers FC,0-0,Derby County FC
 1,Fri Aug 14 1998,Everton FC,0-0,Aston Villa FC
 1,Fri Aug 14 1998,Coventry City FC,2-1,Chelsea FC
-1,Fri Aug 14 1998,Blackburn Rovers FC,0-0,Derby County FC
+1,Fri Aug 14 1998,Manchester United FC,2-2,Leicester City FC
 1,Sat Aug 15 1998,Southampton FC,1-2,Liverpool FC
 1,Sun Aug 16 1998,Arsenal FC,2-1,Nottingham Forest FC
 2,Fri Aug 21 1998,West Ham United FC,0-0,Manchester United FC
 2,Fri Aug 21 1998,Tottenham Hotspur FC,0-3,Sheffield Wednesday FC
 2,Fri Aug 21 1998,Nottingham Forest FC,1-0,Coventry City FC
-2,Fri Aug 21 1998,Liverpool FC,0-0,Arsenal FC
+2,Fri Aug 21 1998,Aston Villa FC,3-1,Middlesbrough FC
 2,Fri Aug 21 1998,Leicester City FC,2-0,Everton FC
 2,Fri Aug 21 1998,Derby County FC,0-0,Wimbledon FC
 2,Fri Aug 21 1998,Chelsea FC,1-1,Newcastle United FC
 2,Fri Aug 21 1998,Charlton Athletic FC,5-0,Southampton FC
-2,Fri Aug 21 1998,Aston Villa FC,3-1,Middlesbrough FC
+2,Fri Aug 21 1998,Liverpool FC,0-0,Arsenal FC
 2,Sun Aug 23 1998,Leeds United FC,1-0,Blackburn Rovers FC
-3,Fri Aug 28 1998,Wimbledon FC,1-1,Leeds United FC
+3,Fri Aug 28 1998,Middlesbrough FC,1-1,Derby County FC
 3,Fri Aug 28 1998,Southampton FC,1-2,Nottingham Forest FC
 3,Fri Aug 28 1998,Sheffield Wednesday FC,0-1,Aston Villa FC
-3,Fri Aug 28 1998,Middlesbrough FC,1-1,Derby County FC
-3,Fri Aug 28 1998,Everton FC,0-1,Tottenham Hotspur FC
+3,Fri Aug 28 1998,Wimbledon FC,1-1,Leeds United FC
+3,Fri Aug 28 1998,Arsenal FC,0-0,Charlton Athletic FC
 3,Fri Aug 28 1998,Coventry City FC,0-0,West Ham United FC
 3,Fri Aug 28 1998,Blackburn Rovers FC,1-0,Leicester City FC
-3,Fri Aug 28 1998,Arsenal FC,0-0,Charlton Athletic FC
+3,Fri Aug 28 1998,Everton FC,0-1,Tottenham Hotspur FC
 3,Sat Aug 29 1998,Newcastle United FC,1-4,Liverpool FC
 4,Mon Sep 7 1998,Manchester United FC,4-1,Charlton Athletic FC
-4,Mon Sep 7 1998,Leeds United FC,3-0,Southampton FC
 4,Mon Sep 7 1998,Nottingham Forest FC,0-2,Everton FC
+4,Mon Sep 7 1998,Leeds United FC,3-0,Southampton FC
 4,Tue Sep 8 1998,Tottenham Hotspur FC,2-1,Blackburn Rovers FC
-4,Tue Sep 8 1998,Aston Villa FC,1-0,Newcastle United FC
 4,Tue Sep 8 1998,West Ham United FC,3-4,Wimbledon FC
 4,Tue Sep 8 1998,Liverpool FC,2-0,Coventry City FC
 4,Tue Sep 8 1998,Leicester City FC,0-1,Middlesbrough FC
 4,Tue Sep 8 1998,Derby County FC,1-0,Sheffield Wednesday FC
 4,Tue Sep 8 1998,Chelsea FC,0-0,Arsenal FC
-5,Fri Sep 11 1998,Aston Villa FC,2-0,Wimbledon FC
+4,Tue Sep 8 1998,Aston Villa FC,1-0,Newcastle United FC
 5,Fri Sep 11 1998,West Ham United FC,2-1,Liverpool FC
 5,Fri Sep 11 1998,Sheffield Wednesday FC,3-0,Blackburn Rovers FC
 5,Fri Sep 11 1998,Newcastle United FC,4-0,Southampton FC
@@ -47,124 +46,125 @@ Matchday,Date,Team 1,FT,Team 2
 5,Fri Sep 11 1998,Everton FC,0-0,Leeds United FC
 5,Fri Sep 11 1998,Chelsea FC,2-1,Nottingham Forest FC
 5,Fri Sep 11 1998,Charlton Athletic FC,1-2,Derby County FC
+5,Fri Sep 11 1998,Aston Villa FC,2-0,Wimbledon FC
 5,Sat Sep 12 1998,Tottenham Hotspur FC,0-3,Middlesbrough FC
-6,Fri Sep 18 1998,Liverpool FC,3-3,Charlton Athletic FC
 6,Fri Sep 18 1998,Wimbledon FC,2-1,Sheffield Wednesday FC
 6,Fri Sep 18 1998,Southampton FC,1-1,Tottenham Hotspur FC
 6,Fri Sep 18 1998,Nottingham Forest FC,0-0,West Ham United FC
+6,Fri Sep 18 1998,Middlesbrough FC,2-2,Everton FC
+6,Fri Sep 18 1998,Liverpool FC,3-3,Charlton Athletic FC
+6,Fri Sep 18 1998,Leeds United FC,0-0,Aston Villa FC
 6,Fri Sep 18 1998,Derby County FC,2-0,Leicester City FC
 6,Fri Sep 18 1998,Coventry City FC,1-5,Newcastle United FC
-6,Fri Sep 18 1998,Leeds United FC,0-0,Aston Villa FC
-6,Fri Sep 18 1998,Middlesbrough FC,2-2,Everton FC
 6,Sat Sep 19 1998,Arsenal FC,3-0,Manchester United FC
 6,Sun Sep 20 1998,Blackburn Rovers FC,3-4,Chelsea FC
 7,Wed Sep 23 1998,Manchester United FC,2-0,Liverpool FC
-7,Fri Sep 25 1998,Sheffield Wednesday FC,1-0,Arsenal FC
 7,Fri Sep 25 1998,Aston Villa FC,1-0,Derby County FC
-7,Fri Sep 25 1998,Newcastle United FC,2-0,Nottingham Forest FC
+7,Fri Sep 25 1998,Sheffield Wednesday FC,1-0,Arsenal FC
 7,Fri Sep 25 1998,Tottenham Hotspur FC,3-3,Leeds United FC
 7,Fri Sep 25 1998,Everton FC,0-0,Blackburn Rovers FC
-7,Fri Sep 25 1998,Charlton Athletic FC,1-1,Coventry City FC
 7,Fri Sep 25 1998,Chelsea FC,2-0,Middlesbrough FC
+7,Fri Sep 25 1998,Charlton Athletic FC,1-1,Coventry City FC
+7,Fri Sep 25 1998,Newcastle United FC,2-0,Nottingham Forest FC
 7,Sat Sep 26 1998,Leicester City FC,1-1,Wimbledon FC
 7,Sun Sep 27 1998,West Ham United FC,1-0,Southampton FC
-8,Fri Oct 2 1998,Blackburn Rovers FC,3-0,West Ham United FC
 8,Fri Oct 2 1998,Nottingham Forest FC,0-1,Charlton Athletic FC
 8,Fri Oct 2 1998,Southampton FC,0-3,Manchester United FC
-8,Fri Oct 2 1998,Coventry City FC,1-2,Aston Villa FC
-8,Fri Oct 2 1998,Middlesbrough FC,4-0,Sheffield Wednesday FC
+8,Fri Oct 2 1998,Wimbledon FC,1-2,Everton FC
+8,Fri Oct 2 1998,Blackburn Rovers FC,3-0,West Ham United FC
 8,Fri Oct 2 1998,Leeds United FC,0-1,Leicester City FC
 8,Fri Oct 2 1998,Derby County FC,0-1,Tottenham Hotspur FC
-8,Fri Oct 2 1998,Wimbledon FC,1-2,Everton FC
+8,Fri Oct 2 1998,Coventry City FC,1-2,Aston Villa FC
+8,Fri Oct 2 1998,Middlesbrough FC,4-0,Sheffield Wednesday FC
 8,Sat Oct 3 1998,Liverpool FC,1-1,Chelsea FC
 8,Sat Oct 3 1998,Arsenal FC,3-0,Newcastle United FC
-9,Fri Oct 16 1998,Nottingham Forest FC,1-1,Leeds United FC
 9,Fri Oct 16 1998,Newcastle United FC,2-1,Derby County FC
-9,Fri Oct 16 1998,Chelsea FC,2-1,Charlton Athletic FC
+9,Fri Oct 16 1998,Nottingham Forest FC,1-1,Leeds United FC
 9,Fri Oct 16 1998,West Ham United FC,0-0,Aston Villa FC
-9,Fri Oct 16 1998,Arsenal FC,1-1,Southampton FC
+9,Fri Oct 16 1998,Middlesbrough FC,2-1,Blackburn Rovers FC
 9,Fri Oct 16 1998,Manchester United FC,5-1,Wimbledon FC
 9,Fri Oct 16 1998,Everton FC,0-0,Liverpool FC
-9,Fri Oct 16 1998,Middlesbrough FC,2-1,Blackburn Rovers FC
+9,Fri Oct 16 1998,Chelsea FC,2-1,Charlton Athletic FC
+9,Fri Oct 16 1998,Arsenal FC,1-1,Southampton FC
 9,Sat Oct 17 1998,Coventry City FC,1-0,Sheffield Wednesday FC
 9,Sun Oct 18 1998,Leicester City FC,2-1,Tottenham Hotspur FC
-10,Fri Oct 23 1998,Charlton Athletic FC,4-2,West Ham United FC
 10,Fri Oct 23 1998,Southampton FC,2-1,Coventry City FC
 10,Fri Oct 23 1998,Tottenham Hotspur FC,2-0,Newcastle United FC
 10,Fri Oct 23 1998,Wimbledon FC,2-2,Middlesbrough FC
 10,Fri Oct 23 1998,Sheffield Wednesday FC,0-0,Everton FC
 10,Fri Oct 23 1998,Liverpool FC,5-1,Nottingham Forest FC
 10,Fri Oct 23 1998,Aston Villa FC,1-1,Leicester City FC
+10,Fri Oct 23 1998,Charlton Athletic FC,4-2,West Ham United FC
 10,Fri Oct 23 1998,Derby County FC,1-1,Manchester United FC
-10,Sat Oct 24 1998,Blackburn Rovers FC,1-2,Arsenal FC
 10,Sat Oct 24 1998,Leeds United FC,0-0,Chelsea FC
-11,Fri Oct 30 1998,Leicester City FC,1-0,Liverpool FC
+10,Sat Oct 24 1998,Blackburn Rovers FC,1-2,Arsenal FC
 11,Fri Oct 30 1998,Newcastle United FC,0-3,West Ham United FC
 11,Fri Oct 30 1998,Sheffield Wednesday FC,0-0,Southampton FC
 11,Fri Oct 30 1998,Wimbledon FC,1-1,Blackburn Rovers FC
-11,Fri Oct 30 1998,Coventry City FC,0-1,Arsenal FC
+11,Fri Oct 30 1998,Leicester City FC,1-0,Liverpool FC
 11,Fri Oct 30 1998,Everton FC,1-4,Manchester United FC
 11,Fri Oct 30 1998,Derby County FC,2-2,Leeds United FC
+11,Fri Oct 30 1998,Coventry City FC,0-1,Arsenal FC
 11,Sat Oct 31 1998,Middlesbrough FC,1-1,Nottingham Forest FC
 11,Sun Nov 1 1998,Tottenham Hotspur FC,2-2,Charlton Athletic FC
-12,Fri Nov 6 1998,Aston Villa FC,3-2,Tottenham Hotspur FC
 12,Fri Nov 6 1998,Nottingham Forest FC,0-1,Wimbledon FC
-12,Fri Nov 6 1998,Charlton Athletic FC,0-0,Leicester City FC
 12,Fri Nov 6 1998,Southampton FC,3-3,Middlesbrough FC
 12,Fri Nov 6 1998,Liverpool FC,1-2,Derby County FC
+12,Fri Nov 6 1998,Aston Villa FC,3-2,Tottenham Hotspur FC
 12,Fri Nov 6 1998,Blackburn Rovers FC,1-2,Coventry City FC
-12,Sat Nov 7 1998,Leeds United FC,2-1,Sheffield Wednesday FC
-12,Sat Nov 7 1998,Arsenal FC,1-0,Everton FC
+12,Fri Nov 6 1998,Charlton Athletic FC,0-0,Leicester City FC
 12,Sat Nov 7 1998,West Ham United FC,1-1,Chelsea FC
 12,Sat Nov 7 1998,Manchester United FC,0-0,Newcastle United FC
-13,Fri Nov 13 1998,Arsenal FC,0-0,Tottenham Hotspur FC
-13,Fri Nov 13 1998,Newcastle United FC,1-1,Sheffield Wednesday FC
+12,Sat Nov 7 1998,Leeds United FC,2-1,Sheffield Wednesday FC
+12,Sat Nov 7 1998,Arsenal FC,1-0,Everton FC
 13,Fri Nov 13 1998,Southampton FC,1-4,Aston Villa FC
 13,Fri Nov 13 1998,West Ham United FC,3-2,Leicester City FC
-13,Fri Nov 13 1998,Charlton Athletic FC,1-1,Middlesbrough FC
-13,Fri Nov 13 1998,Chelsea FC,3-0,Wimbledon FC
-13,Fri Nov 13 1998,Liverpool FC,1-3,Leeds United FC
+13,Fri Nov 13 1998,Arsenal FC,0-0,Tottenham Hotspur FC
 13,Fri Nov 13 1998,Manchester United FC,3-2,Blackburn Rovers FC
+13,Fri Nov 13 1998,Liverpool FC,1-3,Leeds United FC
+13,Fri Nov 13 1998,Chelsea FC,3-0,Wimbledon FC
+13,Fri Nov 13 1998,Charlton Athletic FC,1-1,Middlesbrough FC
+13,Fri Nov 13 1998,Newcastle United FC,1-1,Sheffield Wednesday FC
 13,Sat Nov 14 1998,Coventry City FC,3-0,Everton FC
 13,Sun Nov 15 1998,Nottingham Forest FC,2-2,Derby County FC
-14,Fri Nov 20 1998,Leicester City FC,2-4,Chelsea FC
-14,Fri Nov 20 1998,Aston Villa FC,2-4,Liverpool FC
 14,Fri Nov 20 1998,Sheffield Wednesday FC,3-1,Manchester United FC
 14,Fri Nov 20 1998,Tottenham Hotspur FC,2-0,Nottingham Forest FC
 14,Fri Nov 20 1998,Wimbledon FC,1-0,Arsenal FC
+14,Fri Nov 20 1998,Middlesbrough FC,2-0,Coventry City FC
+14,Fri Nov 20 1998,Leicester City FC,2-4,Chelsea FC
 14,Fri Nov 20 1998,Leeds United FC,4-1,Charlton Athletic FC
 14,Fri Nov 20 1998,Blackburn Rovers FC,0-2,Southampton FC
-14,Fri Nov 20 1998,Middlesbrough FC,2-0,Coventry City FC
+14,Fri Nov 20 1998,Aston Villa FC,2-4,Liverpool FC
 14,Sat Nov 21 1998,Derby County FC,0-2,West Ham United FC
 14,Sun Nov 22 1998,Everton FC,1-0,Newcastle United FC
-15,Fri Nov 27 1998,Chelsea FC,1-1,Sheffield Wednesday FC
-15,Fri Nov 27 1998,Charlton Athletic FC,1-2,Everton FC
 15,Fri Nov 27 1998,Nottingham Forest FC,2-2,Aston Villa FC
 15,Fri Nov 27 1998,Southampton FC,0-1,Derby County FC
 15,Fri Nov 27 1998,West Ham United FC,2-1,Tottenham Hotspur FC
 15,Fri Nov 27 1998,Newcastle United FC,3-1,Wimbledon FC
 15,Fri Nov 27 1998,Coventry City FC,1-1,Leicester City FC
-15,Sat Nov 28 1998,Liverpool FC,2-0,Blackburn Rovers FC
+15,Fri Nov 27 1998,Charlton Athletic FC,1-2,Everton FC
+15,Fri Nov 27 1998,Chelsea FC,1-1,Sheffield Wednesday FC
 15,Sat Nov 28 1998,Manchester United FC,3-2,Leeds United FC
+15,Sat Nov 28 1998,Liverpool FC,2-0,Blackburn Rovers FC
 15,Sat Nov 28 1998,Arsenal FC,1-1,Middlesbrough FC
 16,Fri Dec 4 1998,Leicester City FC,2-0,Southampton FC
-16,Fri Dec 4 1998,Aston Villa FC,1-1,Manchester United FC
-16,Fri Dec 4 1998,Blackburn Rovers FC,1-0,Charlton Athletic FC
 16,Fri Dec 4 1998,Tottenham Hotspur FC,2-1,Liverpool FC
-16,Fri Dec 4 1998,Derby County FC,0-0,Arsenal FC
+16,Fri Dec 4 1998,Wimbledon FC,2-1,Coventry City FC
 16,Fri Dec 4 1998,Leeds United FC,4-0,West Ham United FC
 16,Fri Dec 4 1998,Everton FC,0-0,Chelsea FC
-16,Fri Dec 4 1998,Wimbledon FC,2-1,Coventry City FC
+16,Fri Dec 4 1998,Derby County FC,0-0,Arsenal FC
+16,Fri Dec 4 1998,Blackburn Rovers FC,1-0,Charlton Athletic FC
+16,Fri Dec 4 1998,Aston Villa FC,1-1,Manchester United FC
 16,Sat Dec 5 1998,Middlesbrough FC,2-2,Newcastle United FC
 16,Sun Dec 6 1998,Sheffield Wednesday FC,3-2,Nottingham Forest FC
 11,Tue Dec 8 1998,Chelsea FC,2-1,Aston Villa FC
-17,Fri Dec 11 1998,Everton FC,1-0,Southampton FC
 17,Fri Dec 11 1998,Middlesbrough FC,1-0,West Ham United FC
 17,Fri Dec 11 1998,Sheffield Wednesday FC,3-0,Charlton Athletic FC
 17,Fri Dec 11 1998,Tottenham Hotspur FC,2-2,Manchester United FC
+17,Fri Dec 11 1998,Blackburn Rovers FC,0-0,Newcastle United FC
+17,Fri Dec 11 1998,Everton FC,1-0,Southampton FC
 17,Fri Dec 11 1998,Derby County FC,2-2,Chelsea FC
 17,Fri Dec 11 1998,Leicester City FC,3-1,Nottingham Forest FC
-17,Fri Dec 11 1998,Blackburn Rovers FC,0-0,Newcastle United FC
 17,Sat Dec 12 1998,Wimbledon FC,1-0,Liverpool FC
 17,Sat Dec 12 1998,Aston Villa FC,3-2,Arsenal FC
 17,Sun Dec 13 1998,Leeds United FC,2-0,Coventry City FC
@@ -173,55 +173,55 @@ Matchday,Date,Team 1,FT,Team 2
 18,Fri Dec 18 1998,Southampton FC,3-1,Wimbledon FC
 18,Fri Dec 18 1998,Nottingham Forest FC,2-2,Blackburn Rovers FC
 18,Fri Dec 18 1998,West Ham United FC,2-1,Everton FC
-18,Fri Dec 18 1998,Chelsea FC,2-0,Tottenham Hotspur FC
+18,Fri Dec 18 1998,Manchester United FC,2-3,Middlesbrough FC
 18,Fri Dec 18 1998,Liverpool FC,2-0,Sheffield Wednesday FC
 18,Fri Dec 18 1998,Coventry City FC,1-1,Derby County FC
-18,Fri Dec 18 1998,Manchester United FC,2-3,Middlesbrough FC
+18,Fri Dec 18 1998,Chelsea FC,2-0,Tottenham Hotspur FC
 18,Sat Dec 19 1998,Arsenal FC,3-1,Leeds United FC
 18,Sun Dec 20 1998,Charlton Athletic FC,0-1,Aston Villa FC
 19,Fri Dec 25 1998,Middlesbrough FC,1-3,Liverpool FC
 19,Fri Dec 25 1998,Southampton FC,0-2,Chelsea FC
 19,Fri Dec 25 1998,Sheffield Wednesday FC,0-1,Leicester City FC
-19,Fri Dec 25 1998,Arsenal FC,1-0,West Ham United FC
+19,Fri Dec 25 1998,Newcastle United FC,0-3,Leeds United FC
 19,Fri Dec 25 1998,Wimbledon FC,2-1,Charlton Athletic FC
 19,Fri Dec 25 1998,Manchester United FC,3-0,Nottingham Forest FC
 19,Fri Dec 25 1998,Everton FC,0-0,Derby County FC
 19,Fri Dec 25 1998,Coventry City FC,1-1,Tottenham Hotspur FC
 19,Fri Dec 25 1998,Blackburn Rovers FC,2-1,Aston Villa FC
-19,Fri Dec 25 1998,Newcastle United FC,0-3,Leeds United FC
-20,Sun Dec 27 1998,Leicester City FC,1-1,Blackburn Rovers FC
+19,Fri Dec 25 1998,Arsenal FC,1-0,West Ham United FC
+20,Sun Dec 27 1998,West Ham United FC,2-0,Coventry City FC
 20,Sun Dec 27 1998,Tottenham Hotspur FC,4-1,Everton FC
 20,Sun Dec 27 1998,Nottingham Forest FC,1-1,Southampton FC
 20,Sun Dec 27 1998,Liverpool FC,4-2,Newcastle United FC
 20,Sun Dec 27 1998,Aston Villa FC,2-1,Sheffield Wednesday FC
 20,Sun Dec 27 1998,Derby County FC,2-1,Middlesbrough FC
 20,Sun Dec 27 1998,Charlton Athletic FC,0-1,Arsenal FC
-20,Sun Dec 27 1998,West Ham United FC,2-0,Coventry City FC
+20,Sun Dec 27 1998,Leicester City FC,1-1,Blackburn Rovers FC
 20,Mon Dec 28 1998,Leeds United FC,2-2,Wimbledon FC
 20,Mon Dec 28 1998,Chelsea FC,0-0,Manchester United FC
-21,Fri Jan 8 1999,Arsenal FC,0-0,Liverpool FC
+21,Fri Jan 8 1999,Wimbledon FC,2-1,Derby County FC
 21,Fri Jan 8 1999,Southampton FC,3-1,Charlton Athletic FC
 21,Fri Jan 8 1999,Sheffield Wednesday FC,0-0,Tottenham Hotspur FC
-21,Fri Jan 8 1999,Wimbledon FC,2-1,Derby County FC
+21,Fri Jan 8 1999,Arsenal FC,0-0,Liverpool FC
 21,Fri Jan 8 1999,Middlesbrough FC,0-0,Aston Villa FC
 21,Fri Jan 8 1999,Everton FC,0-0,Leicester City FC
 21,Fri Jan 8 1999,Coventry City FC,4-0,Nottingham Forest FC
-21,Fri Jan 8 1999,Newcastle United FC,0-1,Chelsea FC
 21,Fri Jan 8 1999,Blackburn Rovers FC,1-0,Leeds United FC
+21,Fri Jan 8 1999,Newcastle United FC,0-1,Chelsea FC
 21,Sat Jan 9 1999,Manchester United FC,4-1,West Ham United FC
-22,Fri Jan 15 1999,West Ham United FC,0-4,Sheffield Wednesday FC
-22,Fri Jan 15 1999,Tottenham Hotspur FC,0-0,Wimbledon FC
-22,Fri Jan 15 1999,Leicester City FC,2-6,Manchester United FC
 22,Fri Jan 15 1999,Liverpool FC,7-1,Southampton FC
+22,Fri Jan 15 1999,Tottenham Hotspur FC,0-0,Wimbledon FC
+22,Fri Jan 15 1999,Nottingham Forest FC,0-1,Arsenal FC
+22,Fri Jan 15 1999,West Ham United FC,0-4,Sheffield Wednesday FC
 22,Fri Jan 15 1999,Chelsea FC,2-1,Coventry City FC
 22,Fri Jan 15 1999,Leeds United FC,2-0,Middlesbrough FC
 22,Fri Jan 15 1999,Derby County FC,1-0,Blackburn Rovers FC
-22,Fri Jan 15 1999,Nottingham Forest FC,0-1,Arsenal FC
+22,Fri Jan 15 1999,Leicester City FC,2-6,Manchester United FC
 22,Sat Jan 16 1999,Charlton Athletic FC,2-2,Newcastle United FC
 22,Sun Jan 17 1999,Aston Villa FC,3-0,Everton FC
-23,Fri Jan 29 1999,Wimbledon FC,0-0,West Ham United FC
-23,Fri Jan 29 1999,Southampton FC,3-0,Leeds United FC
 23,Fri Jan 29 1999,Sheffield Wednesday FC,0-1,Derby County FC
+23,Fri Jan 29 1999,Southampton FC,3-0,Leeds United FC
+23,Fri Jan 29 1999,Wimbledon FC,0-0,West Ham United FC
 23,Fri Jan 29 1999,Blackburn Rovers FC,1-1,Tottenham Hotspur FC
 23,Fri Jan 29 1999,Middlesbrough FC,0-0,Leicester City FC
 23,Fri Jan 29 1999,Everton FC,0-1,Nottingham Forest FC
@@ -230,141 +230,141 @@ Matchday,Date,Team 1,FT,Team 2
 23,Sat Jan 30 1999,Arsenal FC,1-0,Chelsea FC
 23,Sat Jan 30 1999,Charlton Athletic FC,0-1,Manchester United FC
 32,Tue Feb 2 1999,Manchester United FC,1-0,Derby County FC
-24,Fri Feb 5 1999,Leeds United FC,0-1,Newcastle United FC
-24,Fri Feb 5 1999,Chelsea FC,1-0,Southampton FC
-24,Fri Feb 5 1999,Aston Villa FC,1-3,Blackburn Rovers FC
-24,Fri Feb 5 1999,Leicester City FC,0-2,Sheffield Wednesday FC
-24,Fri Feb 5 1999,West Ham United FC,0-4,Arsenal FC
 24,Fri Feb 5 1999,Liverpool FC,3-1,Middlesbrough FC
 24,Fri Feb 5 1999,Tottenham Hotspur FC,0-0,Coventry City FC
 24,Fri Feb 5 1999,Nottingham Forest FC,1-8,Manchester United FC
+24,Fri Feb 5 1999,West Ham United FC,0-4,Arsenal FC
+24,Fri Feb 5 1999,Leicester City FC,0-2,Sheffield Wednesday FC
+24,Fri Feb 5 1999,Leeds United FC,0-1,Newcastle United FC
+24,Fri Feb 5 1999,Chelsea FC,1-0,Southampton FC
+24,Fri Feb 5 1999,Aston Villa FC,1-3,Blackburn Rovers FC
 24,Sat Feb 6 1999,Derby County FC,2-1,Everton FC
 24,Sun Feb 7 1999,Charlton Athletic FC,2-0,Wimbledon FC
 25,Fri Feb 12 1999,West Ham United FC,2-1,Nottingham Forest FC
 25,Fri Feb 12 1999,Charlton Athletic FC,1-0,Liverpool FC
 25,Tue Feb 16 1999,Newcastle United FC,4-1,Coventry City FC
-25,Tue Feb 16 1999,Aston Villa FC,1-2,Leeds United FC
 25,Tue Feb 16 1999,Manchester United FC,1-1,Arsenal FC
 25,Tue Feb 16 1999,Everton FC,5-0,Middlesbrough FC
 25,Tue Feb 16 1999,Chelsea FC,1-1,Blackburn Rovers FC
-26,Fri Feb 19 1999,Leeds United FC,1-0,Everton FC
-26,Fri Feb 19 1999,Blackburn Rovers FC,1-4,Sheffield Wednesday FC
-26,Fri Feb 19 1999,Coventry City FC,0-1,Manchester United FC
-26,Fri Feb 19 1999,Derby County FC,0-2,Charlton Athletic FC
-26,Fri Feb 19 1999,Arsenal FC,5-0,Leicester City FC
-26,Fri Feb 19 1999,Middlesbrough FC,0-0,Tottenham Hotspur FC
-26,Fri Feb 19 1999,Nottingham Forest FC,1-3,Chelsea FC
+25,Tue Feb 16 1999,Aston Villa FC,1-2,Leeds United FC
 26,Fri Feb 19 1999,Southampton FC,2-1,Newcastle United FC
+26,Fri Feb 19 1999,Nottingham Forest FC,1-3,Chelsea FC
+26,Fri Feb 19 1999,Middlesbrough FC,0-0,Tottenham Hotspur FC
 26,Fri Feb 19 1999,Liverpool FC,2-2,West Ham United FC
+26,Fri Feb 19 1999,Arsenal FC,5-0,Leicester City FC
+26,Fri Feb 19 1999,Derby County FC,0-2,Charlton Athletic FC
+26,Fri Feb 19 1999,Coventry City FC,0-1,Manchester United FC
+26,Fri Feb 19 1999,Blackburn Rovers FC,1-4,Sheffield Wednesday FC
+26,Fri Feb 19 1999,Leeds United FC,1-0,Everton FC
 26,Sat Feb 20 1999,Wimbledon FC,0-0,Aston Villa FC
-27,Fri Feb 26 1999,Chelsea FC,2-1,Liverpool FC
-27,Fri Feb 26 1999,Tottenham Hotspur FC,1-1,Derby County FC
-27,Fri Feb 26 1999,Everton FC,1-1,Wimbledon FC
-27,Fri Feb 26 1999,Charlton Athletic FC,0-0,Nottingham Forest FC
 27,Fri Feb 26 1999,Manchester United FC,2-1,Southampton FC
+27,Fri Feb 26 1999,Tottenham Hotspur FC,1-1,Derby County FC
 27,Fri Feb 26 1999,Sheffield Wednesday FC,3-1,Middlesbrough FC
 27,Fri Feb 26 1999,West Ham United FC,2-0,Blackburn Rovers FC
 27,Fri Feb 26 1999,Aston Villa FC,1-4,Coventry City FC
+27,Fri Feb 26 1999,Chelsea FC,2-1,Liverpool FC
+27,Fri Feb 26 1999,Charlton Athletic FC,0-0,Nottingham Forest FC
+27,Fri Feb 26 1999,Everton FC,1-1,Wimbledon FC
 27,Sat Feb 27 1999,Newcastle United FC,1-1,Arsenal FC
 27,Sun Feb 28 1999,Leicester City FC,1-2,Leeds United FC
 25,Mon Mar 1 1999,Tottenham Hotspur FC,3-0,Southampton FC
 25,Tue Mar 2 1999,Sheffield Wednesday FC,1-2,Wimbledon FC
-28,Fri Mar 5 1999,Coventry City FC,2-1,Charlton Athletic FC
 28,Fri Mar 5 1999,Wimbledon FC,0-1,Leicester City FC
+28,Fri Mar 5 1999,Coventry City FC,2-1,Charlton Athletic FC
 28,Fri Mar 5 1999,Southampton FC,1-0,West Ham United FC
 28,Mon Mar 8 1999,Arsenal FC,3-0,Sheffield Wednesday FC
-28,Tue Mar 9 1999,Blackburn Rovers FC,1-2,Everton FC
-28,Tue Mar 9 1999,Derby County FC,2-1,Aston Villa FC
 28,Tue Mar 9 1999,Leeds United FC,2-0,Tottenham Hotspur FC
 28,Tue Mar 9 1999,Nottingham Forest FC,1-2,Newcastle United FC
+28,Tue Mar 9 1999,Blackburn Rovers FC,1-2,Everton FC
+28,Tue Mar 9 1999,Derby County FC,2-1,Aston Villa FC
+29,Fri Mar 12 1999,Wimbledon FC,1-3,Nottingham Forest FC
+29,Fri Mar 12 1999,Tottenham Hotspur FC,1-0,Aston Villa FC
+29,Fri Mar 12 1999,Sheffield Wednesday FC,0-2,Leeds United FC
+29,Fri Mar 12 1999,Newcastle United FC,1-2,Manchester United FC
+29,Fri Mar 12 1999,Leicester City FC,1-1,Charlton Athletic FC
+29,Fri Mar 12 1999,Everton FC,0-2,Arsenal FC
+29,Fri Mar 12 1999,Derby County FC,3-2,Liverpool FC
 29,Fri Mar 12 1999,Chelsea FC,0-1,West Ham United FC
 29,Fri Mar 12 1999,Coventry City FC,1-1,Blackburn Rovers FC
-29,Fri Mar 12 1999,Derby County FC,3-2,Liverpool FC
-29,Fri Mar 12 1999,Everton FC,0-2,Arsenal FC
-29,Fri Mar 12 1999,Leicester City FC,1-1,Charlton Athletic FC
-29,Fri Mar 12 1999,Sheffield Wednesday FC,0-2,Leeds United FC
-29,Fri Mar 12 1999,Tottenham Hotspur FC,1-0,Aston Villa FC
-29,Fri Mar 12 1999,Wimbledon FC,1-3,Nottingham Forest FC
-29,Fri Mar 12 1999,Newcastle United FC,1-2,Manchester United FC
 29,Sat Mar 13 1999,Middlesbrough FC,3-0,Southampton FC
+30,Fri Mar 19 1999,West Ham United FC,2-0,Newcastle United FC
 30,Fri Mar 19 1999,Southampton FC,1-0,Sheffield Wednesday FC
 30,Fri Mar 19 1999,Nottingham Forest FC,1-2,Middlesbrough FC
 30,Fri Mar 19 1999,Arsenal FC,2-0,Coventry City FC
-30,Fri Mar 19 1999,West Ham United FC,2-0,Newcastle United FC
 30,Fri Mar 19 1999,Blackburn Rovers FC,3-1,Wimbledon FC
 30,Fri Mar 19 1999,Leeds United FC,4-1,Derby County FC
-30,Sat Mar 20 1999,Aston Villa FC,0-3,Chelsea FC
 30,Sat Mar 20 1999,Manchester United FC,3-1,Everton FC
+30,Sat Mar 20 1999,Aston Villa FC,0-3,Chelsea FC
 31,Thu Apr 1 1999,Aston Villa FC,0-0,West Ham United FC
-31,Fri Apr 2 1999,Leeds United FC,3-1,Nottingham Forest FC
+31,Fri Apr 2 1999,Wimbledon FC,1-1,Manchester United FC
+31,Fri Apr 2 1999,Tottenham Hotspur FC,0-2,Leicester City FC
+31,Fri Apr 2 1999,Blackburn Rovers FC,0-0,Middlesbrough FC
 31,Fri Apr 2 1999,Sheffield Wednesday FC,1-2,Coventry City FC
 31,Fri Apr 2 1999,Liverpool FC,3-2,Everton FC
-31,Fri Apr 2 1999,Blackburn Rovers FC,0-0,Middlesbrough FC
+31,Fri Apr 2 1999,Leeds United FC,3-1,Nottingham Forest FC
 31,Fri Apr 2 1999,Derby County FC,3-4,Newcastle United FC
 31,Fri Apr 2 1999,Charlton Athletic FC,0-1,Chelsea FC
 31,Fri Apr 2 1999,Southampton FC,0-0,Arsenal FC
-31,Fri Apr 2 1999,Tottenham Hotspur FC,0-2,Leicester City FC
-31,Fri Apr 2 1999,Wimbledon FC,1-1,Manchester United FC
 32,Sun Apr 4 1999,West Ham United FC,0-1,Charlton Athletic FC
-32,Sun Apr 4 1999,Coventry City FC,1-0,Southampton FC
-32,Sun Apr 4 1999,Middlesbrough FC,3-1,Wimbledon FC
 32,Sun Apr 4 1999,Nottingham Forest FC,2-2,Liverpool FC
-32,Sun Apr 4 1999,Everton FC,1-2,Sheffield Wednesday FC
 32,Sun Apr 4 1999,Newcastle United FC,1-1,Tottenham Hotspur FC
-32,Mon Apr 5 1999,Arsenal FC,1-0,Blackburn Rovers FC
+32,Sun Apr 4 1999,Middlesbrough FC,3-1,Wimbledon FC
+32,Sun Apr 4 1999,Coventry City FC,1-0,Southampton FC
+32,Sun Apr 4 1999,Everton FC,1-2,Sheffield Wednesday FC
 32,Mon Apr 5 1999,Leicester City FC,2-2,Aston Villa FC
+32,Mon Apr 5 1999,Arsenal FC,1-0,Blackburn Rovers FC
 33,Fri Apr 9 1999,Middlesbrough FC,2-0,Charlton Athletic FC
-33,Fri Apr 9 1999,Derby County FC,1-0,Nottingham Forest FC
-33,Fri Apr 9 1999,Aston Villa FC,3-0,Southampton FC
 33,Fri Apr 9 1999,Leicester City FC,0-0,West Ham United FC
+33,Fri Apr 9 1999,Aston Villa FC,3-0,Southampton FC
+33,Fri Apr 9 1999,Derby County FC,1-0,Nottingham Forest FC
 33,Sat Apr 10 1999,Wimbledon FC,1-2,Chelsea FC
 33,Sat Apr 10 1999,Everton FC,2-0,Coventry City FC
 33,Sun Apr 11 1999,Leeds United FC,0-0,Liverpool FC
 28,Tue Apr 13 1999,Middlesbrough FC,0-0,Chelsea FC
 34,Fri Apr 16 1999,Newcastle United FC,1-3,Everton FC
+34,Fri Apr 16 1999,Charlton Athletic FC,1-1,Leeds United FC
+34,Fri Apr 16 1999,Nottingham Forest FC,0-1,Tottenham Hotspur FC
 34,Fri Apr 16 1999,West Ham United FC,5-1,Derby County FC
+34,Fri Apr 16 1999,Manchester United FC,3-0,Sheffield Wednesday FC
+34,Fri Apr 16 1999,Liverpool FC,0-1,Aston Villa FC
 34,Fri Apr 16 1999,Coventry City FC,1-2,Middlesbrough FC
 34,Fri Apr 16 1999,Southampton FC,3-3,Blackburn Rovers FC
-34,Fri Apr 16 1999,Liverpool FC,0-1,Aston Villa FC
-34,Fri Apr 16 1999,Nottingham Forest FC,0-1,Tottenham Hotspur FC
-34,Fri Apr 16 1999,Charlton Athletic FC,1-1,Leeds United FC
-34,Fri Apr 16 1999,Manchester United FC,3-0,Sheffield Wednesday FC
 34,Sat Apr 17 1999,Chelsea FC,2-2,Leicester City FC
 34,Sun Apr 18 1999,Arsenal FC,5-1,Wimbledon FC
 30,Mon Apr 19 1999,Charlton Athletic FC,1-4,Tottenham Hotspur FC
 30,Tue Apr 20 1999,Liverpool FC,0-1,Leicester City FC
 33,Tue Apr 20 1999,Sheffield Wednesday FC,1-1,Newcastle United FC
-35,Fri Apr 23 1999,Blackburn Rovers FC,1-3,Liverpool FC
-35,Fri Apr 23 1999,Everton FC,4-1,Charlton Athletic FC
-35,Fri Apr 23 1999,Middlesbrough FC,1-6,Arsenal FC
-35,Fri Apr 23 1999,Aston Villa FC,2-0,Nottingham Forest FC
-35,Fri Apr 23 1999,Leicester City FC,1-0,Coventry City FC
 35,Fri Apr 23 1999,Wimbledon FC,1-1,Newcastle United FC
 35,Fri Apr 23 1999,Tottenham Hotspur FC,1-2,West Ham United FC
+35,Fri Apr 23 1999,Middlesbrough FC,1-6,Arsenal FC
+35,Fri Apr 23 1999,Leicester City FC,1-0,Coventry City FC
+35,Fri Apr 23 1999,Aston Villa FC,2-0,Nottingham Forest FC
 35,Fri Apr 23 1999,Derby County FC,0-0,Southampton FC
+35,Fri Apr 23 1999,Blackburn Rovers FC,1-3,Liverpool FC
+35,Fri Apr 23 1999,Everton FC,4-1,Charlton Athletic FC
 35,Sat Apr 24 1999,Sheffield Wednesday FC,0-0,Chelsea FC
 35,Sat Apr 24 1999,Leeds United FC,1-1,Manchester United FC
-36,Fri Apr 30 1999,Liverpool FC,3-2,Tottenham Hotspur FC
-36,Fri Apr 30 1999,Chelsea FC,3-1,Everton FC
-36,Fri Apr 30 1999,Manchester United FC,2-1,Aston Villa FC
-36,Fri Apr 30 1999,West Ham United FC,1-5,Leeds United FC
-36,Fri Apr 30 1999,Coventry City FC,2-1,Wimbledon FC
-36,Fri Apr 30 1999,Newcastle United FC,1-1,Middlesbrough FC
+36,Fri Apr 30 1999,Charlton Athletic FC,0-0,Blackburn Rovers FC
 36,Fri Apr 30 1999,Southampton FC,2-1,Leicester City FC
 36,Fri Apr 30 1999,Nottingham Forest FC,2-0,Sheffield Wednesday FC
-36,Fri Apr 30 1999,Charlton Athletic FC,0-0,Blackburn Rovers FC
+36,Fri Apr 30 1999,Newcastle United FC,1-1,Middlesbrough FC
+36,Fri Apr 30 1999,Manchester United FC,2-1,Aston Villa FC
+36,Fri Apr 30 1999,Liverpool FC,3-2,Tottenham Hotspur FC
+36,Fri Apr 30 1999,Coventry City FC,2-1,Wimbledon FC
+36,Fri Apr 30 1999,Chelsea FC,3-1,Everton FC
+36,Fri Apr 30 1999,West Ham United FC,1-5,Leeds United FC
 36,Sat May 1 1999,Arsenal FC,1-0,Derby County FC
 25,Tue May 4 1999,Leicester City FC,1-2,Derby County FC
-32,Tue May 4 1999,Chelsea FC,1-0,Leeds United FC
 28,Tue May 4 1999,Liverpool FC,2-2,Manchester United FC
+32,Tue May 4 1999,Chelsea FC,1-0,Leeds United FC
 33,Tue May 4 1999,Tottenham Hotspur FC,1-3,Arsenal FC
 37,Fri May 7 1999,Sheffield Wednesday FC,1-0,Liverpool FC
-37,Fri May 7 1999,Everton FC,6-0,West Ham United FC
 37,Fri May 7 1999,Wimbledon FC,0-2,Southampton FC
-37,Fri May 7 1999,Blackburn Rovers FC,1-2,Nottingham Forest FC
+37,Fri May 7 1999,Leicester City FC,2-0,Newcastle United FC
 37,Fri May 7 1999,Aston Villa FC,3-4,Charlton Athletic FC
 37,Fri May 7 1999,Derby County FC,0-0,Coventry City FC
-37,Fri May 7 1999,Leicester City FC,2-0,Newcastle United FC
+37,Fri May 7 1999,Blackburn Rovers FC,1-2,Nottingham Forest FC
+37,Fri May 7 1999,Everton FC,6-0,West Ham United FC
 37,Sat May 8 1999,Middlesbrough FC,0-1,Manchester United FC
 37,Sun May 9 1999,Tottenham Hotspur FC,2-2,Chelsea FC
 37,Mon May 10 1999,Leeds United FC,1-0,Arsenal FC

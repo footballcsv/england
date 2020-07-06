@@ -1,0 +1,553 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Aug 4 2018,Sunderland AFC,2-1,Charlton Athletic FC
+1,Sat Aug 4 2018,Accrington Stanley FC,0-2,Gillingham FC
+1,Sat Aug 4 2018,Barnsley FC,4-0,Oxford United FC
+1,Sat Aug 4 2018,Burton Albion FC,1-2,Rochdale AFC
+1,Sat Aug 4 2018,Coventry City FC,1-2,Scunthorpe United FC
+1,Sat Aug 4 2018,Fleetwood Town FC,0-1,AFC Wimbledon
+1,Sat Aug 4 2018,Peterborough United FC,2-1,Bristol Rovers FC
+1,Sat Aug 4 2018,Portsmouth FC,1-0,Luton Town FC
+1,Sat Aug 4 2018,Shrewsbury Town FC,0-1,Bradford City AFC
+1,Sat Aug 4 2018,Southend United FC,2-3,Doncaster Rovers FC
+1,Sat Aug 4 2018,Walsall FC,2-1,Plymouth Argyle FC
+1,Sat Aug 4 2018,Wycombe Wanderers FC,0-0,Blackpool FC
+2,Sat Aug 11 2018,AFC Wimbledon,0-0,Coventry City FC
+2,Sat Aug 11 2018,Blackpool FC,1-2,Portsmouth FC
+2,Sat Aug 11 2018,Bradford City AFC,0-2,Barnsley FC
+2,Sat Aug 11 2018,Bristol Rovers FC,1-2,Accrington Stanley FC
+2,Sat Aug 11 2018,Charlton Athletic FC,2-1,Shrewsbury Town FC
+2,Sat Aug 11 2018,Scunthorpe United FC,1-1,Walsall FC
+2,Sat Aug 11 2018,Gillingham FC,3-1,Burton Albion FC
+2,Sat Aug 11 2018,Luton Town FC,1-1,Sunderland AFC
+2,Sat Aug 11 2018,Oxford United FC,0-2,Fleetwood Town FC
+2,Sat Aug 11 2018,Plymouth Argyle FC,1-1,Southend United FC
+2,Sat Aug 11 2018,Doncaster Rovers FC,3-0,Wycombe Wanderers FC
+2,Sat Aug 11 2018,Rochdale AFC,1-4,Peterborough United FC
+3,Sat Aug 18 2018,Accrington Stanley FC,1-1,Charlton Athletic FC
+3,Sat Aug 18 2018,Barnsley FC,0-0,AFC Wimbledon
+3,Sat Aug 18 2018,Burton Albion FC,1-0,Doncaster Rovers FC
+3,Sat Aug 18 2018,Coventry City FC,1-0,Plymouth Argyle FC
+3,Sat Aug 18 2018,Fleetwood Town FC,2-2,Rochdale AFC
+3,Sat Aug 18 2018,Peterborough United FC,3-1,Luton Town FC
+3,Sat Aug 18 2018,Portsmouth FC,4-1,Oxford United FC
+3,Sat Aug 18 2018,Shrewsbury Town FC,0-0,Blackpool FC
+3,Sat Aug 18 2018,Southend United FC,2-0,Bradford City AFC
+3,Sat Aug 18 2018,Walsall FC,2-1,Gillingham FC
+3,Sat Aug 18 2018,Wycombe Wanderers FC,1-2,Bristol Rovers FC
+3,Sun Aug 19 2018,Sunderland AFC,3-0,Scunthorpe United FC
+4,Tue Aug 21 2018,Charlton Athletic FC,0-1,Peterborough United FC
+4,Tue Aug 21 2018,Blackpool FC,2-0,Coventry City FC
+4,Tue Aug 21 2018,Bradford City AFC,1-0,Burton Albion FC
+4,Tue Aug 21 2018,Bristol Rovers FC,1-2,Portsmouth FC
+4,Tue Aug 21 2018,AFC Wimbledon,1-3,Walsall FC
+4,Tue Aug 21 2018,Doncaster Rovers FC,0-0,Shrewsbury Town FC
+4,Tue Aug 21 2018,Luton Town FC,2-0,Southend United FC
+4,Tue Aug 21 2018,Oxford United FC,2-3,Accrington Stanley FC
+4,Tue Aug 21 2018,Plymouth Argyle FC,1-1,Wycombe Wanderers FC
+4,Tue Aug 21 2018,Rochdale AFC,0-4,Barnsley FC
+4,Wed Aug 22 2018,Gillingham FC,1-4,Sunderland AFC
+4,Wed Aug 22 2018,Scunthorpe United FC,0-5,Fleetwood Town FC
+5,Sat Aug 25 2018,Charlton Athletic FC,0-0,Fleetwood Town FC
+5,Sat Aug 25 2018,Blackpool FC,1-1,Accrington Stanley FC
+5,Sat Aug 25 2018,Bradford City AFC,1-2,Wycombe Wanderers FC
+5,Sat Aug 25 2018,Bristol Rovers FC,0-1,Southend United FC
+5,Sat Aug 25 2018,AFC Wimbledon,1-2,Sunderland AFC
+5,Sat Aug 25 2018,Scunthorpe United FC,2-2,Barnsley FC
+5,Sat Aug 25 2018,Gillingham FC,1-1,Coventry City FC
+5,Sat Aug 25 2018,Luton Town FC,3-2,Shrewsbury Town FC
+5,Sat Aug 25 2018,Oxford United FC,3-1,Burton Albion FC
+5,Sat Aug 25 2018,Plymouth Argyle FC,1-5,Peterborough United FC
+5,Sat Aug 25 2018,Doncaster Rovers FC,0-0,Portsmouth FC
+5,Sat Aug 25 2018,Rochdale AFC,1-2,Walsall FC
+6,Sat Sep 1 2018,Accrington Stanley FC,1-1,Scunthorpe United FC
+6,Sat Sep 1 2018,Barnsley FC,2-1,Gillingham FC
+6,Sat Sep 1 2018,Burton Albion FC,3-0,AFC Wimbledon
+6,Sat Sep 1 2018,Coventry City FC,0-1,Rochdale AFC
+6,Sat Sep 1 2018,Walsall FC,0-0,Blackpool FC
+6,Sat Sep 1 2018,Peterborough United FC,1-1,Doncaster Rovers FC
+6,Sat Sep 1 2018,Portsmouth FC,3-0,Plymouth Argyle FC
+6,Sat Sep 1 2018,Shrewsbury Town FC,1-1,Bristol Rovers FC
+6,Sat Sep 1 2018,Southend United FC,1-2,Charlton Athletic FC
+6,Sat Sep 1 2018,Sunderland AFC,1-1,Oxford United FC
+6,Sat Sep 1 2018,Wycombe Wanderers FC,1-1,Luton Town FC
+6,Sat Sep 1 2018,Fleetwood Town FC,2-1,Bradford City AFC
+7,Sat Sep 8 2018,Bristol Rovers FC,0-0,Plymouth Argyle FC
+7,Sat Sep 8 2018,Accrington Stanley FC,1-1,Burton Albion FC
+7,Sat Sep 8 2018,Barnsley FC,1-1,Walsall FC
+7,Sat Sep 8 2018,Sunderland AFC,1-1,Fleetwood Town FC
+7,Sat Sep 8 2018,Charlton Athletic FC,3-2,Wycombe Wanderers FC
+7,Sat Sep 8 2018,Doncaster Rovers FC,2-1,Luton Town FC
+7,Sat Sep 8 2018,Gillingham FC,0-1,AFC Wimbledon
+7,Sat Sep 8 2018,Portsmouth FC,1-1,Shrewsbury Town FC
+7,Sat Sep 8 2018,Scunthorpe United FC,3-3,Rochdale AFC
+7,Sat Sep 8 2018,Southend United FC,2-3,Peterborough United FC
+7,Sat Sep 8 2018,Blackpool FC,3-2,Bradford City AFC
+7,Sun Sep 9 2018,Oxford United FC,1-2,Coventry City FC
+8,Sat Sep 15 2018,AFC Wimbledon,2-3,Scunthorpe United FC
+8,Sat Sep 15 2018,Bradford City AFC,0-2,Charlton Athletic FC
+8,Sat Sep 15 2018,Burton Albion FC,2-1,Sunderland AFC
+8,Sat Sep 15 2018,Coventry City FC,1-0,Barnsley FC
+8,Sat Sep 15 2018,Fleetwood Town FC,1-1,Accrington Stanley FC
+8,Sat Sep 15 2018,Wycombe Wanderers FC,0-0,Oxford United FC
+8,Sat Sep 15 2018,Peterborough United FC,1-2,Portsmouth FC
+8,Sat Sep 15 2018,Plymouth Argyle FC,0-1,Blackpool FC
+8,Sat Sep 15 2018,Rochdale AFC,3-0,Gillingham FC
+8,Sat Sep 15 2018,Shrewsbury Town FC,2-0,Southend United FC
+8,Sat Sep 15 2018,Luton Town FC,1-0,Bristol Rovers FC
+8,Sat Sep 15 2018,Walsall FC,1-4,Doncaster Rovers FC
+9,Sat Sep 22 2018,Accrington Stanley FC,2-1,AFC Wimbledon
+9,Sat Sep 22 2018,Blackpool FC,0-0,Luton Town FC
+9,Sat Sep 22 2018,Bristol Rovers FC,3-1,Coventry City FC
+9,Sat Sep 22 2018,Charlton Athletic FC,2-1,Plymouth Argyle FC
+9,Sat Sep 22 2018,Sunderland AFC,4-1,Rochdale AFC
+9,Sat Sep 22 2018,Gillingham FC,2-4,Peterborough United FC
+9,Sat Sep 22 2018,Oxford United FC,1-2,Walsall FC
+9,Sat Sep 22 2018,Portsmouth FC,2-2,Wycombe Wanderers FC
+9,Sat Sep 22 2018,Scunthorpe United FC,1-0,Shrewsbury Town FC
+9,Sat Sep 22 2018,Southend United FC,1-0,Fleetwood Town FC
+9,Sat Sep 22 2018,Doncaster Rovers FC,2-1,Bradford City AFC
+10,Sat Sep 29 2018,Walsall FC,0-1,Accrington Stanley FC
+10,Sat Sep 29 2018,Coventry City FC,1-1,Sunderland AFC
+10,Sat Sep 29 2018,AFC Wimbledon,2-1,Oxford United FC
+10,Sat Sep 29 2018,Bradford City AFC,0-0,Bristol Rovers FC
+10,Sat Sep 29 2018,Burton Albion FC,0-0,Scunthorpe United FC
+10,Sat Sep 29 2018,Fleetwood Town FC,1-3,Barnsley FC
+10,Sat Sep 29 2018,Luton Town FC,2-2,Charlton Athletic FC
+10,Sat Sep 29 2018,Peterborough United FC,2-2,Blackpool FC
+10,Sat Sep 29 2018,Plymouth Argyle FC,2-3,Doncaster Rovers FC
+10,Sat Sep 29 2018,Rochdale AFC,1-3,Portsmouth FC
+10,Sat Sep 29 2018,Wycombe Wanderers FC,2-3,Southend United FC
+10,Sat Sep 29 2018,Shrewsbury Town FC,2-2,Gillingham FC
+11,Tue Oct 2 2018,Coventry City FC,0-1,Portsmouth FC
+11,Tue Oct 2 2018,AFC Wimbledon,0-1,Bradford City AFC
+11,Tue Oct 2 2018,Accrington Stanley FC,1-0,Doncaster Rovers FC
+11,Tue Oct 2 2018,Barnsley FC,1-1,Plymouth Argyle FC
+11,Tue Oct 2 2018,Burton Albion FC,1-2,Southend United FC
+11,Tue Oct 2 2018,Walsall FC,0-0,Shrewsbury Town FC
+11,Tue Oct 2 2018,Fleetwood Town FC,1-1,Wycombe Wanderers FC
+11,Tue Oct 2 2018,Oxford United FC,1-2,Luton Town FC
+11,Tue Oct 2 2018,Rochdale AFC,0-0,Bristol Rovers FC
+11,Tue Oct 2 2018,Scunthorpe United FC,5-3,Charlton Athletic FC
+11,Tue Oct 2 2018,Sunderland AFC,2-2,Peterborough United FC
+12,Sat Oct 6 2018,Wycombe Wanderers FC,2-1,Burton Albion FC
+12,Sat Oct 6 2018,Shrewsbury Town FC,1-0,Accrington Stanley FC
+12,Sat Oct 6 2018,Blackpool FC,2-2,Rochdale AFC
+12,Sat Oct 6 2018,Bradford City AFC,1-2,Sunderland AFC
+12,Sat Oct 6 2018,Bristol Rovers FC,0-1,Walsall FC
+12,Sat Oct 6 2018,Southend United FC,0-0,Oxford United FC
+12,Sat Oct 6 2018,Doncaster Rovers FC,0-4,Fleetwood Town FC
+12,Sat Oct 6 2018,Luton Town FC,3-2,Scunthorpe United FC
+12,Sat Oct 6 2018,Peterborough United FC,0-4,Barnsley FC
+12,Sat Oct 6 2018,Plymouth Argyle FC,1-0,AFC Wimbledon
+12,Sat Oct 6 2018,Portsmouth FC,0-2,Gillingham FC
+12,Sat Oct 6 2018,Charlton Athletic FC,1-2,Coventry City FC
+13,Sat Oct 13 2018,Oxford United FC,2-0,Plymouth Argyle FC
+13,Sat Oct 13 2018,Rochdale AFC,2-3,Doncaster Rovers FC
+13,Sat Oct 13 2018,Barnsley FC,3-2,Luton Town FC
+13,Sat Oct 13 2018,AFC Wimbledon,1-2,Portsmouth FC
+13,Sat Oct 13 2018,Accrington Stanley FC,3-1,Bradford City AFC
+13,Sat Oct 13 2018,Burton Albion FC,1-0,Bristol Rovers FC
+13,Sat Oct 13 2018,Coventry City FC,1-0,Wycombe Wanderers FC
+13,Sat Oct 13 2018,Fleetwood Town FC,2-1,Shrewsbury Town FC
+13,Sat Oct 13 2018,Gillingham FC,0-2,Southend United FC
+13,Sat Oct 13 2018,Scunthorpe United FC,0-2,Peterborough United FC
+14,Sat Oct 20 2018,Bristol Rovers FC,0-0,Oxford United FC
+14,Sat Oct 20 2018,Wycombe Wanderers FC,3-2,Scunthorpe United FC
+14,Sat Oct 20 2018,Southend United FC,1-2,Coventry City FC
+14,Sat Oct 20 2018,Shrewsbury Town FC,0-2,Sunderland AFC
+14,Sat Oct 20 2018,Blackpool FC,2-0,AFC Wimbledon
+14,Sat Oct 20 2018,Bradford City AFC,0-2,Rochdale AFC
+14,Sat Oct 20 2018,Portsmouth FC,1-0,Fleetwood Town FC
+14,Sat Oct 20 2018,Charlton Athletic FC,2-0,Barnsley FC
+14,Sat Oct 20 2018,Doncaster Rovers FC,3-3,Gillingham FC
+14,Sat Oct 20 2018,Luton Town FC,2-0,Walsall FC
+14,Sat Oct 20 2018,Peterborough United FC,0-1,Accrington Stanley FC
+14,Sat Oct 20 2018,Plymouth Argyle FC,2-3,Burton Albion FC
+15,Tue Oct 23 2018,Shrewsbury Town FC,3-1,Barnsley FC
+15,Tue Oct 23 2018,Portsmouth FC,2-2,Burton Albion FC
+15,Tue Oct 23 2018,Southend United FC,3-0,Walsall FC
+15,Tue Oct 23 2018,Wycombe Wanderers FC,3-0,Rochdale AFC
+15,Tue Oct 23 2018,Blackpool FC,1-0,Scunthorpe United FC
+15,Tue Oct 23 2018,Bradford City AFC,2-4,Coventry City FC
+15,Tue Oct 23 2018,Bristol Rovers FC,2-0,AFC Wimbledon
+15,Tue Oct 23 2018,Plymouth Argyle FC,3-1,Gillingham FC
+15,Tue Oct 23 2018,Doncaster Rovers FC,0-1,Sunderland AFC
+15,Tue Oct 23 2018,Luton Town FC,4-1,Accrington Stanley FC
+15,Tue Oct 23 2018,Peterborough United FC,1-0,Fleetwood Town FC
+15,Tue Oct 23 2018,Charlton Athletic FC,1-1,Oxford United FC
+16,Sat Oct 27 2018,Rochdale AFC,1-0,Charlton Athletic FC
+16,Sat Oct 27 2018,Walsall FC,3-2,Wycombe Wanderers FC
+16,Sat Oct 27 2018,Sunderland AFC,3-0,Southend United FC
+16,Sat Oct 27 2018,Scunthorpe United FC,1-4,Plymouth Argyle FC
+16,Sat Oct 27 2018,AFC Wimbledon,0-2,Luton Town FC
+16,Sat Oct 27 2018,Accrington Stanley FC,1-1,Portsmouth FC
+16,Sat Oct 27 2018,Barnsley FC,1-0,Bristol Rovers FC
+16,Sat Oct 27 2018,Burton Albion FC,1-2,Peterborough United FC
+16,Sat Oct 27 2018,Coventry City FC,2-1,Doncaster Rovers FC
+16,Sat Oct 27 2018,Fleetwood Town FC,3-2,Blackpool FC
+16,Sat Oct 27 2018,Gillingham FC,4-0,Bradford City AFC
+16,Sat Oct 27 2018,Oxford United FC,3-0,Shrewsbury Town FC
+17,Sat Nov 3 2018,Plymouth Argyle FC,0-2,Sunderland AFC
+17,Sat Nov 3 2018,Wycombe Wanderers FC,1-0,Peterborough United FC
+17,Sat Nov 3 2018,Walsall FC,1-3,Burton Albion FC
+17,Sat Nov 3 2018,Rochdale AFC,0-0,Luton Town FC
+17,Sat Nov 3 2018,AFC Wimbledon,1-2,Shrewsbury Town FC
+17,Sat Nov 3 2018,Barnsley FC,1-0,Southend United FC
+17,Sat Nov 3 2018,Blackpool FC,0-3,Bristol Rovers FC
+17,Sat Nov 3 2018,Bradford City AFC,0-1,Portsmouth FC
+17,Sat Nov 3 2018,Charlton Athletic FC,2-0,Doncaster Rovers FC
+17,Sat Nov 3 2018,Coventry City FC,1-1,Accrington Stanley FC
+17,Sat Nov 3 2018,Gillingham FC,3-0,Fleetwood Town FC
+17,Sat Nov 3 2018,Scunthorpe United FC,3-3,Oxford United FC
+11,Tue Nov 6 2018,Gillingham FC,0-1,Blackpool FC
+13,Tue Nov 6 2018,Walsall FC,0-2,Charlton Athletic FC
+18,Sat Nov 17 2018,Shrewsbury Town FC,3-2,Rochdale AFC
+18,Sat Nov 17 2018,Sunderland AFC,1-1,Wycombe Wanderers FC
+18,Sat Nov 17 2018,Fleetwood Town FC,0-0,Walsall FC
+18,Sat Nov 17 2018,Accrington Stanley FC,0-2,Barnsley FC
+18,Sat Nov 17 2018,Bristol Rovers FC,1-2,Scunthorpe United FC
+18,Sat Nov 17 2018,Burton Albion FC,1-0,Coventry City FC
+18,Sat Nov 17 2018,Doncaster Rovers FC,2-1,AFC Wimbledon
+18,Sat Nov 17 2018,Luton Town FC,5-1,Plymouth Argyle FC
+18,Sat Nov 17 2018,Oxford United FC,1-0,Gillingham FC
+18,Sat Nov 17 2018,Peterborough United FC,1-1,Bradford City AFC
+18,Sat Nov 17 2018,Southend United FC,1-2,Blackpool FC
+19,Fri Nov 23 2018,Coventry City FC,1-1,Peterborough United FC
+19,Sat Nov 24 2018,Rochdale AFC,1-0,Accrington Stanley FC
+19,Sat Nov 24 2018,Walsall FC,2-2,Sunderland AFC
+19,Sat Nov 24 2018,Scunthorpe United FC,1-2,Portsmouth FC
+19,Sat Nov 24 2018,AFC Wimbledon,2-1,Southend United FC
+19,Sat Nov 24 2018,Blackpool FC,3-0,Burton Albion FC
+19,Sat Nov 24 2018,Wycombe Wanderers FC,3-2,Shrewsbury Town FC
+19,Sat Nov 24 2018,Bradford City AFC,2-0,Oxford United FC
+19,Sat Nov 24 2018,Charlton Athletic FC,3-1,Bristol Rovers FC
+19,Sat Nov 24 2018,Gillingham FC,1-3,Luton Town FC
+19,Sat Nov 24 2018,Plymouth Argyle FC,2-1,Fleetwood Town FC
+19,Sat Nov 24 2018,Barnsley FC,1-1,Doncaster Rovers FC
+20,Tue Nov 27 2018,Burton Albion FC,1-2,Charlton Athletic FC
+20,Tue Nov 27 2018,Southend United FC,2-0,Scunthorpe United FC
+20,Tue Nov 27 2018,Sunderland AFC,4-2,Barnsley FC
+20,Tue Nov 27 2018,Accrington Stanley FC,1-2,Wycombe Wanderers FC
+20,Tue Nov 27 2018,Bristol Rovers FC,1-2,Gillingham FC
+20,Tue Nov 27 2018,Shrewsbury Town FC,2-0,Plymouth Argyle FC
+20,Tue Nov 27 2018,Doncaster Rovers FC,2-0,Blackpool FC
+20,Tue Nov 27 2018,Fleetwood Town FC,3-0,Coventry City FC
+20,Tue Nov 27 2018,Luton Town FC,4-0,Bradford City AFC
+20,Tue Nov 27 2018,Oxford United FC,4-2,Rochdale AFC
+20,Tue Nov 27 2018,Peterborough United FC,1-0,AFC Wimbledon
+20,Tue Nov 27 2018,Portsmouth FC,2-0,Walsall FC
+21,Sat Dec 8 2018,Scunthorpe United FC,0-2,Gillingham FC
+21,Sat Dec 8 2018,Walsall FC,2-1,Coventry City FC
+21,Sat Dec 8 2018,Wycombe Wanderers FC,1-0,Barnsley FC
+21,Sat Dec 8 2018,AFC Wimbledon,1-1,Rochdale AFC
+21,Sat Dec 8 2018,Blackpool FC,2-1,Charlton Athletic FC
+21,Sat Dec 8 2018,Burton Albion FC,2-1,Shrewsbury Town FC
+21,Sat Dec 8 2018,Portsmouth FC,2-0,Southend United FC
+21,Sat Dec 8 2018,Luton Town FC,2-0,Fleetwood Town FC
+21,Sat Dec 8 2018,Peterborough United FC,2-2,Oxford United FC
+21,Sat Dec 8 2018,Plymouth Argyle FC,3-3,Bradford City AFC
+21,Sat Dec 8 2018,Bristol Rovers FC,0-4,Doncaster Rovers FC
+18,Tue Dec 11 2018,Portsmouth FC,1-2,Charlton Athletic FC
+22,Sat Dec 15 2018,Shrewsbury Town FC,2-2,Peterborough United FC
+22,Sat Dec 15 2018,Sunderland AFC,2-1,Bristol Rovers FC
+22,Sat Dec 15 2018,Southend United FC,3-0,Accrington Stanley FC
+22,Sat Dec 15 2018,Doncaster Rovers FC,3-0,Scunthorpe United FC
+22,Sat Dec 15 2018,Barnsley FC,1-1,Portsmouth FC
+22,Sat Dec 15 2018,Bradford City AFC,4-0,Walsall FC
+22,Sat Dec 15 2018,Charlton Athletic FC,2-0,AFC Wimbledon
+22,Sat Dec 15 2018,Coventry City FC,1-2,Luton Town FC
+22,Sat Dec 15 2018,Fleetwood Town FC,1-0,Burton Albion FC
+22,Sat Dec 15 2018,Gillingham FC,2-2,Wycombe Wanderers FC
+22,Sat Dec 15 2018,Oxford United FC,2-0,Blackpool FC
+22,Sat Dec 15 2018,Rochdale AFC,1-2,Plymouth Argyle FC
+23,Sat Dec 22 2018,Southend United FC,1-2,Rochdale AFC
+23,Sat Dec 22 2018,Shrewsbury Town FC,1-0,Coventry City FC
+23,Sat Dec 22 2018,Wycombe Wanderers FC,1-2,AFC Wimbledon
+23,Sat Dec 22 2018,Blackpool FC,0-1,Barnsley FC
+23,Sat Dec 22 2018,Bradford City AFC,2-0,Scunthorpe United FC
+23,Sat Dec 22 2018,Bristol Rovers FC,2-1,Fleetwood Town FC
+23,Sat Dec 22 2018,Charlton Athletic FC,2-0,Gillingham FC
+23,Sat Dec 22 2018,Doncaster Rovers FC,2-2,Oxford United FC
+23,Sat Dec 22 2018,Luton Town FC,2-0,Burton Albion FC
+23,Sat Dec 22 2018,Peterborough United FC,1-1,Walsall FC
+23,Sat Dec 22 2018,Plymouth Argyle FC,0-3,Accrington Stanley FC
+23,Sat Dec 22 2018,Portsmouth FC,3-1,Sunderland AFC
+24,Wed Dec 26 2018,Sunderland AFC,1-0,Bradford City AFC
+24,Wed Dec 26 2018,Scunthorpe United FC,0-2,Luton Town FC
+24,Wed Dec 26 2018,Walsall FC,1-3,Bristol Rovers FC
+24,Wed Dec 26 2018,Gillingham FC,2-0,Portsmouth FC
+24,Wed Dec 26 2018,AFC Wimbledon,2-1,Plymouth Argyle FC
+24,Wed Dec 26 2018,Accrington Stanley FC,2-1,Shrewsbury Town FC
+24,Wed Dec 26 2018,Barnsley FC,2-0,Peterborough United FC
+24,Wed Dec 26 2018,Burton Albion FC,3-1,Wycombe Wanderers FC
+24,Wed Dec 26 2018,Coventry City FC,2-1,Charlton Athletic FC
+24,Wed Dec 26 2018,Fleetwood Town FC,3-0,Doncaster Rovers FC
+24,Wed Dec 26 2018,Oxford United FC,0-1,Southend United FC
+24,Wed Dec 26 2018,Rochdale AFC,2-1,Blackpool FC
+25,Sat Dec 29 2018,Rochdale AFC,0-4,Bradford City AFC
+25,Sat Dec 29 2018,Walsall FC,2-2,Luton Town FC
+25,Sat Dec 29 2018,Sunderland AFC,1-1,Shrewsbury Town FC
+25,Sat Dec 29 2018,Oxford United FC,0-2,Bristol Rovers FC
+25,Sat Dec 29 2018,AFC Wimbledon,0-0,Blackpool FC
+25,Sat Dec 29 2018,Accrington Stanley FC,0-4,Peterborough United FC
+25,Sat Dec 29 2018,Barnsley FC,2-1,Charlton Athletic FC
+25,Sat Dec 29 2018,Burton Albion FC,1-1,Plymouth Argyle FC
+25,Sat Dec 29 2018,Coventry City FC,1-0,Southend United FC
+25,Sat Dec 29 2018,Fleetwood Town FC,2-5,Portsmouth FC
+25,Sat Dec 29 2018,Gillingham FC,1-3,Doncaster Rovers FC
+25,Sat Dec 29 2018,Scunthorpe United FC,1-0,Wycombe Wanderers FC
+26,Tue Jan 1 2019,Southend United FC,2-0,Gillingham FC
+26,Tue Jan 1 2019,Shrewsbury Town FC,0-0,Fleetwood Town FC
+26,Tue Jan 1 2019,Wycombe Wanderers FC,0-2,Coventry City FC
+26,Tue Jan 1 2019,Blackpool FC,0-1,Sunderland AFC
+26,Tue Jan 1 2019,Bradford City AFC,3-0,Accrington Stanley FC
+26,Tue Jan 1 2019,Bristol Rovers FC,0-0,Burton Albion FC
+26,Tue Jan 1 2019,Charlton Athletic FC,2-1,Walsall FC
+26,Tue Jan 1 2019,Doncaster Rovers FC,5-0,Rochdale AFC
+26,Tue Jan 1 2019,Luton Town FC,0-0,Barnsley FC
+26,Tue Jan 1 2019,Peterborough United FC,0-2,Scunthorpe United FC
+26,Tue Jan 1 2019,Plymouth Argyle FC,3-0,Oxford United FC
+26,Tue Jan 1 2019,Portsmouth FC,2-1,AFC Wimbledon
+27,Sat Jan 5 2019,Charlton Athletic FC,1-1,Sunderland AFC
+27,Sat Jan 5 2019,Scunthorpe United FC,2-1,Coventry City FC
+27,Sat Jan 5 2019,Rochdale AFC,0-4,Burton Albion FC
+28,Sat Jan 12 2019,Sunderland AFC,1-1,Luton Town FC
+28,Sat Jan 12 2019,Walsall FC,1-2,Scunthorpe United FC
+28,Sat Jan 12 2019,Accrington Stanley FC,0-0,Bristol Rovers FC
+28,Sat Jan 12 2019,Southend United FC,2-3,Plymouth Argyle FC
+28,Sat Jan 12 2019,Shrewsbury Town FC,0-3,Charlton Athletic FC
+28,Sat Jan 12 2019,Portsmouth FC,0-1,Blackpool FC
+28,Sat Jan 12 2019,Peterborough United FC,2-1,Rochdale AFC
+28,Sat Jan 12 2019,Fleetwood Town FC,2-2,Oxford United FC
+28,Sat Jan 12 2019,Coventry City FC,1-1,AFC Wimbledon
+28,Sat Jan 12 2019,Burton Albion FC,2-3,Gillingham FC
+28,Sat Jan 12 2019,Barnsley FC,3-0,Bradford City AFC
+28,Sat Jan 12 2019,Wycombe Wanderers FC,3-2,Doncaster Rovers FC
+29,Sat Jan 19 2019,AFC Wimbledon,1-4,Barnsley FC
+29,Sat Jan 19 2019,Blackpool FC,0-0,Shrewsbury Town FC
+29,Sat Jan 19 2019,Bradford City AFC,0-4,Southend United FC
+29,Sat Jan 19 2019,Bristol Rovers FC,0-1,Wycombe Wanderers FC
+29,Sat Jan 19 2019,Charlton Athletic FC,1-0,Accrington Stanley FC
+29,Sat Jan 19 2019,Doncaster Rovers FC,2-2,Burton Albion FC
+29,Sat Jan 19 2019,Luton Town FC,4-0,Peterborough United FC
+29,Sat Jan 19 2019,Oxford United FC,2-1,Portsmouth FC
+29,Sat Jan 19 2019,Plymouth Argyle FC,2-1,Coventry City FC
+29,Sat Jan 19 2019,Rochdale AFC,1-1,Fleetwood Town FC
+29,Sat Jan 19 2019,Gillingham FC,0-3,Walsall FC
+29,Sat Jan 19 2019,Scunthorpe United FC,1-1,Sunderland AFC
+27,Tue Jan 22 2019,AFC Wimbledon,0-3,Fleetwood Town FC
+27,Tue Jan 22 2019,Plymouth Argyle FC,2-1,Walsall FC
+30,Sat Jan 26 2019,Peterborough United FC,0-0,Charlton Athletic FC
+30,Sat Jan 26 2019,Southend United FC,0-1,Luton Town FC
+30,Sat Jan 26 2019,Fleetwood Town FC,0-1,Scunthorpe United FC
+30,Sat Jan 26 2019,Wycombe Wanderers FC,1-0,Plymouth Argyle FC
+30,Sat Jan 26 2019,Burton Albion FC,1-1,Bradford City AFC
+30,Sat Jan 26 2019,Barnsley FC,2-1,Rochdale AFC
+30,Sat Jan 26 2019,Coventry City FC,0-2,Blackpool FC
+27,Tue Jan 29 2019,Oxford United FC,2-2,Barnsley FC
+27,Tue Jan 29 2019,Luton Town FC,3-2,Portsmouth FC
+27,Tue Jan 29 2019,Gillingham FC,0-0,Accrington Stanley FC
+27,Tue Jan 29 2019,Blackpool FC,2-2,Wycombe Wanderers FC
+27,Tue Jan 29 2019,Bristol Rovers FC,2-2,Peterborough United FC
+27,Tue Jan 29 2019,Bradford City AFC,4-3,Shrewsbury Town FC
+31,Sat Feb 2 2019,Wycombe Wanderers FC,0-0,Bradford City AFC
+31,Sat Feb 2 2019,Sunderland AFC,1-0,AFC Wimbledon
+31,Sat Feb 2 2019,Burton Albion FC,0-0,Oxford United FC
+31,Sat Feb 2 2019,Southend United FC,1-2,Bristol Rovers FC
+31,Sat Feb 2 2019,Shrewsbury Town FC,0-3,Luton Town FC
+31,Sat Feb 2 2019,Portsmouth FC,1-1,Doncaster Rovers FC
+31,Sat Feb 2 2019,Peterborough United FC,0-1,Plymouth Argyle FC
+31,Sat Feb 2 2019,Fleetwood Town FC,1-0,Charlton Athletic FC
+31,Sat Feb 2 2019,Coventry City FC,1-1,Gillingham FC
+31,Sat Feb 2 2019,Barnsley FC,2-0,Scunthorpe United FC
+31,Sat Feb 2 2019,Walsall FC,1-2,Rochdale AFC
+32,Sat Feb 9 2019,Luton Town FC,3-0,Wycombe Wanderers FC
+32,Sat Feb 9 2019,Bristol Rovers FC,1-1,Shrewsbury Town FC
+32,Sat Feb 9 2019,Scunthorpe United FC,2-0,Accrington Stanley FC
+32,Sat Feb 9 2019,Rochdale AFC,0-1,Coventry City FC
+32,Sat Feb 9 2019,Doncaster Rovers FC,3-1,Peterborough United FC
+32,Sat Feb 9 2019,Bradford City AFC,0-1,Fleetwood Town FC
+32,Sat Feb 9 2019,Plymouth Argyle FC,1-1,Portsmouth FC
+32,Sat Feb 9 2019,Oxford United FC,1-1,Sunderland AFC
+32,Sat Feb 9 2019,Blackpool FC,2-0,Walsall FC
+32,Sat Feb 9 2019,Gillingham FC,1-4,Barnsley FC
+32,Sat Feb 9 2019,AFC Wimbledon,0-2,Burton Albion FC
+32,Sat Feb 9 2019,Charlton Athletic FC,1-1,Southend United FC
+13,Tue Feb 12 2019,Sunderland AFC,1-1,Blackpool FC
+27,Tue Feb 12 2019,Doncaster Rovers FC,3-0,Southend United FC
+30,Tue Feb 12 2019,Walsall FC,0-1,AFC Wimbledon
+33,Fri Feb 15 2019,Sunderland AFC,2-2,Accrington Stanley FC
+33,Sat Feb 16 2019,Fleetwood Town FC,1-2,Luton Town FC
+33,Sat Feb 16 2019,Charlton Athletic FC,0-0,Blackpool FC
+33,Sat Feb 16 2019,Coventry City FC,3-0,Walsall FC
+33,Sat Feb 16 2019,Gillingham FC,1-0,Scunthorpe United FC
+33,Sat Feb 16 2019,Barnsley FC,2-1,Wycombe Wanderers FC
+33,Sat Feb 16 2019,Shrewsbury Town FC,1-1,Burton Albion FC
+33,Sat Feb 16 2019,Bradford City AFC,0-0,Plymouth Argyle FC
+33,Sat Feb 16 2019,Southend United FC,3-3,Portsmouth FC
+33,Sat Feb 16 2019,Oxford United FC,0-1,Peterborough United FC
+9,Tue Feb 19 2019,Barnsley FC,0-0,Burton Albion FC
+30,Tue Feb 19 2019,Sunderland AFC,4-2,Gillingham FC
+30,Tue Feb 19 2019,Accrington Stanley FC,4-2,Oxford United FC
+30,Tue Feb 19 2019,Portsmouth FC,1-1,Bristol Rovers FC
+33,Tue Feb 19 2019,Rochdale AFC,3-4,AFC Wimbledon
+34,Sat Feb 23 2019,Walsall FC,3-2,Bradford City AFC
+34,Sat Feb 23 2019,Wycombe Wanderers FC,0-1,Gillingham FC
+34,Sat Feb 23 2019,Portsmouth FC,0-0,Barnsley FC
+34,Sat Feb 23 2019,Plymouth Argyle FC,5-1,Rochdale AFC
+34,Sat Feb 23 2019,Peterborough United FC,1-2,Shrewsbury Town FC
+34,Sat Feb 23 2019,Scunthorpe United FC,1-1,Doncaster Rovers FC
+34,Sat Feb 23 2019,Accrington Stanley FC,1-1,Southend United FC
+34,Sat Feb 23 2019,Blackpool FC,0-1,Oxford United FC
+34,Sat Feb 23 2019,Bristol Rovers FC,0-2,Sunderland AFC
+34,Sat Feb 23 2019,Burton Albion FC,0-1,Fleetwood Town FC
+34,Sat Feb 23 2019,AFC Wimbledon,1-2,Charlton Athletic FC
+34,Sun Feb 24 2019,Luton Town FC,1-1,Coventry City FC
+30,Tue Feb 26 2019,Shrewsbury Town FC,2-0,Doncaster Rovers FC
+35,Sat Mar 2 2019,Shrewsbury Town FC,0-0,AFC Wimbledon
+35,Sat Mar 2 2019,Sunderland AFC,2-0,Plymouth Argyle FC
+35,Sat Mar 2 2019,Portsmouth FC,5-1,Bradford City AFC
+35,Sat Mar 2 2019,Southend United FC,0-3,Barnsley FC
+35,Sat Mar 2 2019,Accrington Stanley FC,0-1,Coventry City FC
+35,Sat Mar 2 2019,Bristol Rovers FC,4-0,Blackpool FC
+35,Sat Mar 2 2019,Doncaster Rovers FC,1-1,Charlton Athletic FC
+35,Sat Mar 2 2019,Peterborough United FC,4-2,Wycombe Wanderers FC
+35,Sat Mar 2 2019,Fleetwood Town FC,1-1,Gillingham FC
+35,Sat Mar 2 2019,Luton Town FC,2-0,Rochdale AFC
+35,Sat Mar 2 2019,Oxford United FC,2-1,Scunthorpe United FC
+35,Sat Mar 2 2019,Burton Albion FC,0-0,Walsall FC
+31,Tue Mar 5 2019,Accrington Stanley FC,1-2,Blackpool FC
+36,Fri Mar 8 2019,Coventry City FC,1-2,Burton Albion FC
+36,Sat Mar 9 2019,Charlton Athletic FC,2-1,Portsmouth FC
+36,Sat Mar 9 2019,Blackpool FC,2-2,Southend United FC
+36,Sat Mar 9 2019,AFC Wimbledon,2-0,Doncaster Rovers FC
+36,Sat Mar 9 2019,Barnsley FC,2-0,Accrington Stanley FC
+36,Sat Mar 9 2019,Wycombe Wanderers FC,1-1,Sunderland AFC
+36,Sat Mar 9 2019,Bradford City AFC,3-1,Peterborough United FC
+36,Sat Mar 9 2019,Gillingham FC,1-0,Oxford United FC
+36,Sat Mar 9 2019,Plymouth Argyle FC,0-0,Luton Town FC
+36,Sat Mar 9 2019,Rochdale AFC,2-1,Shrewsbury Town FC
+36,Sat Mar 9 2019,Scunthorpe United FC,0-1,Bristol Rovers FC
+36,Sat Mar 9 2019,Walsall FC,2-0,Fleetwood Town FC
+37,Tue Mar 12 2019,Rochdale AFC,0-0,Oxford United FC
+37,Tue Mar 12 2019,Wycombe Wanderers FC,1-3,Accrington Stanley FC
+37,Tue Mar 12 2019,AFC Wimbledon,1-0,Peterborough United FC
+37,Tue Mar 12 2019,Barnsley FC,0-0,Sunderland AFC
+37,Tue Mar 12 2019,Scunthorpe United FC,4-1,Southend United FC
+37,Tue Mar 12 2019,Blackpool FC,1-1,Doncaster Rovers FC
+37,Tue Mar 12 2019,Charlton Athletic FC,2-1,Burton Albion FC
+37,Tue Mar 12 2019,Coventry City FC,2-1,Fleetwood Town FC
+37,Tue Mar 12 2019,Gillingham FC,0-1,Bristol Rovers FC
+37,Tue Mar 12 2019,Plymouth Argyle FC,2-1,Shrewsbury Town FC
+37,Tue Mar 12 2019,Walsall FC,2-3,Portsmouth FC
+37,Tue Mar 12 2019,Bradford City AFC,0-1,Luton Town FC
+38,Fri Mar 15 2019,Doncaster Rovers FC,0-0,Barnsley FC
+38,Sat Mar 16 2019,Sunderland AFC,2-1,Walsall FC
+38,Sat Mar 16 2019,Shrewsbury Town FC,2-1,Wycombe Wanderers FC
+38,Sat Mar 16 2019,Bristol Rovers FC,0-0,Charlton Athletic FC
+38,Sat Mar 16 2019,Burton Albion FC,3-0,Blackpool FC
+38,Sat Mar 16 2019,Fleetwood Town FC,2-0,Plymouth Argyle FC
+38,Sat Mar 16 2019,Luton Town FC,2-2,Gillingham FC
+38,Sat Mar 16 2019,Oxford United FC,1-0,Bradford City AFC
+38,Sat Mar 16 2019,Peterborough United FC,1-2,Coventry City FC
+38,Sat Mar 16 2019,Portsmouth FC,2-0,Scunthorpe United FC
+38,Sat Mar 16 2019,Southend United FC,0-1,AFC Wimbledon
+39,Sat Mar 23 2019,Rochdale AFC,3-1,Scunthorpe United FC
+39,Sat Mar 23 2019,Shrewsbury Town FC,0-2,Portsmouth FC
+39,Sat Mar 23 2019,Plymouth Argyle FC,2-2,Bristol Rovers FC
+39,Sat Mar 23 2019,Walsall FC,0-1,Barnsley FC
+39,Sat Mar 23 2019,AFC Wimbledon,2-4,Gillingham FC
+39,Sat Mar 23 2019,Bradford City AFC,1-4,Blackpool FC
+39,Sat Mar 23 2019,Burton Albion FC,5-2,Accrington Stanley FC
+39,Sat Mar 23 2019,Coventry City FC,0-1,Oxford United FC
+39,Sat Mar 23 2019,Luton Town FC,4-0,Doncaster Rovers FC
+39,Sat Mar 23 2019,Peterborough United FC,2-0,Southend United FC
+33,Tue Mar 26 2019,Doncaster Rovers FC,4-1,Bristol Rovers FC
+40,Sat Mar 30 2019,Scunthorpe United FC,1-2,AFC Wimbledon
+40,Sat Mar 30 2019,Southend United FC,0-2,Shrewsbury Town FC
+40,Sat Mar 30 2019,Oxford United FC,2-1,Wycombe Wanderers FC
+40,Sat Mar 30 2019,Gillingham FC,1-1,Rochdale AFC
+40,Sat Mar 30 2019,Accrington Stanley FC,0-1,Fleetwood Town FC
+40,Sat Mar 30 2019,Doncaster Rovers FC,3-1,Walsall FC
+40,Sat Mar 30 2019,Blackpool FC,2-2,Plymouth Argyle FC
+40,Sat Mar 30 2019,Bristol Rovers FC,1-2,Luton Town FC
+40,Sat Mar 30 2019,Charlton Athletic FC,1-0,Bradford City AFC
+40,Sat Mar 30 2019,Barnsley FC,2-2,Coventry City FC
+21,Wed Apr 3 2019,Accrington Stanley FC,0-3,Sunderland AFC
+41,Sat Apr 6 2019,Rochdale AFC,1-2,Sunderland AFC
+41,Sat Apr 6 2019,Plymouth Argyle FC,0-2,Charlton Athletic FC
+41,Sat Apr 6 2019,Wycombe Wanderers FC,2-3,Portsmouth FC
+41,Sat Apr 6 2019,Walsall FC,1-3,Oxford United FC
+41,Sat Apr 6 2019,Shrewsbury Town FC,1-1,Scunthorpe United FC
+41,Sat Apr 6 2019,AFC Wimbledon,1-1,Accrington Stanley FC
+41,Sat Apr 6 2019,Peterborough United FC,2-0,Gillingham FC
+41,Sat Apr 6 2019,Burton Albion FC,3-1,Barnsley FC
+41,Sat Apr 6 2019,Fleetwood Town FC,2-2,Southend United FC
+41,Sat Apr 6 2019,Luton Town FC,2-2,Blackpool FC
+41,Sat Apr 6 2019,Bradford City AFC,0-1,Doncaster Rovers FC
+41,Sun Apr 7 2019,Coventry City FC,0-0,Bristol Rovers FC
+38,Tue Apr 9 2019,Accrington Stanley FC,0-1,Rochdale AFC
+39,Tue Apr 9 2019,Wycombe Wanderers FC,0-1,Charlton Athletic FC
+40,Tue Apr 9 2019,Sunderland AFC,1-1,Burton Albion FC
+42,Sat Apr 13 2019,Scunthorpe United FC,0-3,Burton Albion FC
+42,Sat Apr 13 2019,Southend United FC,0-2,Wycombe Wanderers FC
+42,Sat Apr 13 2019,Accrington Stanley FC,2-1,Walsall FC
+42,Sat Apr 13 2019,Blackpool FC,0-1,Peterborough United FC
+42,Sat Apr 13 2019,Sunderland AFC,4-5,Coventry City FC
+42,Sat Apr 13 2019,Bristol Rovers FC,3-2,Bradford City AFC
+42,Sat Apr 13 2019,Charlton Athletic FC,3-1,Luton Town FC
+42,Sat Apr 13 2019,Doncaster Rovers FC,2-0,Plymouth Argyle FC
+42,Sat Apr 13 2019,Gillingham FC,0-2,Shrewsbury Town FC
+42,Sat Apr 13 2019,Barnsley FC,4-2,Fleetwood Town FC
+42,Sat Apr 13 2019,Portsmouth FC,4-1,Rochdale AFC
+42,Sat Apr 13 2019,Oxford United FC,0-0,AFC Wimbledon
+43,Fri Apr 19 2019,Scunthorpe United FC,0-0,Blackpool FC
+43,Fri Apr 19 2019,Sunderland AFC,2-0,Doncaster Rovers FC
+43,Fri Apr 19 2019,Walsall FC,1-1,Southend United FC
+43,Fri Apr 19 2019,Oxford United FC,2-1,Charlton Athletic FC
+43,Fri Apr 19 2019,AFC Wimbledon,1-1,Bristol Rovers FC
+43,Fri Apr 19 2019,Barnsley FC,2-1,Shrewsbury Town FC
+43,Fri Apr 19 2019,Burton Albion FC,1-2,Portsmouth FC
+43,Fri Apr 19 2019,Fleetwood Town FC,1-1,Peterborough United FC
+43,Fri Apr 19 2019,Gillingham FC,3-1,Plymouth Argyle FC
+43,Fri Apr 19 2019,Rochdale AFC,1-0,Wycombe Wanderers FC
+43,Fri Apr 19 2019,Coventry City FC,2-0,Bradford City AFC
+43,Sat Apr 20 2019,Accrington Stanley FC,0-3,Luton Town FC
+44,Mon Apr 22 2019,Shrewsbury Town FC,2-3,Oxford United FC
+44,Mon Apr 22 2019,Wycombe Wanderers FC,1-0,Walsall FC
+44,Mon Apr 22 2019,Portsmouth FC,2-1,Coventry City FC
+44,Mon Apr 22 2019,Southend United FC,3-2,Burton Albion FC
+44,Mon Apr 22 2019,Blackpool FC,2-1,Fleetwood Town FC
+44,Mon Apr 22 2019,Bradford City AFC,1-1,Gillingham FC
+44,Mon Apr 22 2019,Bristol Rovers FC,0-1,Rochdale AFC
+44,Mon Apr 22 2019,Charlton Athletic FC,4-0,Scunthorpe United FC
+44,Mon Apr 22 2019,Peterborough United FC,1-1,Sunderland AFC
+44,Mon Apr 22 2019,Plymouth Argyle FC,0-3,Barnsley FC
+44,Tue Apr 23 2019,Luton Town FC,2-2,AFC Wimbledon
+44,Tue Apr 23 2019,Doncaster Rovers FC,1-2,Accrington Stanley FC
+45,Sat Apr 27 2019,Barnsley FC,2-1,Blackpool FC
+45,Sat Apr 27 2019,Sunderland AFC,1-1,Portsmouth FC
+45,Sat Apr 27 2019,AFC Wimbledon,2-1,Wycombe Wanderers FC
+45,Sat Apr 27 2019,Accrington Stanley FC,5-1,Plymouth Argyle FC
+45,Sat Apr 27 2019,Fleetwood Town FC,0-0,Bristol Rovers FC
+45,Sat Apr 27 2019,Walsall FC,3-0,Peterborough United FC
+45,Sat Apr 27 2019,Scunthorpe United FC,2-3,Bradford City AFC
+45,Sat Apr 27 2019,Gillingham FC,0-2,Charlton Athletic FC
+45,Sat Apr 27 2019,Oxford United FC,2-2,Doncaster Rovers FC
+45,Sat Apr 27 2019,Rochdale AFC,1-0,Southend United FC
+45,Sat Apr 27 2019,Burton Albion FC,2-1,Luton Town FC
+45,Sun Apr 28 2019,Coventry City FC,1-1,Shrewsbury Town FC
+39,Tue Apr 30 2019,Fleetwood Town FC,2-1,Sunderland AFC
+40,Tue Apr 30 2019,Portsmouth FC,2-3,Peterborough United FC
+46,Sat May 4 2019,Luton Town FC,3-1,Oxford United FC
+46,Sat May 4 2019,Bradford City AFC,0-0,AFC Wimbledon
+46,Sat May 4 2019,Bristol Rovers FC,2-1,Barnsley FC
+46,Sat May 4 2019,Charlton Athletic FC,4-0,Rochdale AFC
+46,Sat May 4 2019,Doncaster Rovers FC,2-0,Coventry City FC
+46,Sat May 4 2019,Blackpool FC,0-3,Gillingham FC
+46,Sat May 4 2019,Peterborough United FC,3-1,Burton Albion FC
+46,Sat May 4 2019,Plymouth Argyle FC,3-2,Scunthorpe United FC
+46,Sat May 4 2019,Portsmouth FC,1-1,Accrington Stanley FC
+46,Sat May 4 2019,Shrewsbury Town FC,0-0,Walsall FC
+46,Sat May 4 2019,Southend United FC,2-1,Sunderland AFC
+46,Sat May 4 2019,Wycombe Wanderers FC,1-0,Fleetwood Town FC

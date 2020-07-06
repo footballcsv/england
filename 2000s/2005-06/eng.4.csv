@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 6 2005,Wycombe Wanderers FC,1-1,Carlisle United FC
 1,Sat Aug 6 2005,Wrexham AFC,2-0,Boston United FC
 1,Sat Aug 6 2005,Torquay United FC,0-0,Notts County FC
@@ -16,13 +16,13 @@ Matchday,Date,Team 1,FT,Team 2
 2,Tue Aug 9 2005,Northampton Town FC,1-2,Barnet FC
 2,Tue Aug 9 2005,Mansfield Town FC,0-1,Rushden & Diamonds (1992-2011)
 2,Tue Aug 9 2005,Macclesfield Town FC,2-2,Cheltenham Town FC
-2,Tue Aug 9 2005,Darlington FC,2-0,Stockport County FC
+2,Tue Aug 9 2005,Bristol Rovers FC,1-2,Grimsby Town FC
 2,Tue Aug 9 2005,Chester FC,2-2,Lincoln City FC
 2,Tue Aug 9 2005,Carlisle United FC,1-0,Peterborough United FC
 2,Tue Aug 9 2005,Bury FC,1-2,Leyton Orient FC
-2,Tue Aug 9 2005,Bristol Rovers FC,1-2,Grimsby Town FC
-2,Wed Aug 10 2005,Oxford United FC,1-0,Torquay United FC
+2,Tue Aug 9 2005,Darlington FC,2-0,Stockport County FC
 2,Wed Aug 10 2005,Boston United FC,1-1,Shrewsbury Town FC
+2,Wed Aug 10 2005,Oxford United FC,1-0,Torquay United FC
 3,Sat Aug 13 2005,Rochdale AFC,1-1,Cheltenham Town FC
 3,Sat Aug 13 2005,Oxford United FC,2-2,Wycombe Wanderers FC
 3,Sat Aug 13 2005,Notts County FC,2-1,Lincoln City FC
@@ -33,8 +33,6 @@ Matchday,Date,Team 1,FT,Team 2
 3,Sat Aug 13 2005,Bury FC,2-0,Shrewsbury Town FC
 3,Sat Aug 13 2005,Bristol Rovers FC,2-3,Peterborough United FC
 3,Sat Aug 13 2005,Boston United FC,2-2,Stockport County FC
-4,Sat Aug 20 2005,Grimsby Town FC,0-1,Darlington FC
-4,Sat Aug 20 2005,Cheltenham Town FC,3-0,Boston United FC
 4,Sat Aug 20 2005,Wycombe Wanderers FC,4-0,Bury FC
 4,Sat Aug 20 2005,Wrexham AFC,0-1,Carlisle United FC
 4,Sat Aug 20 2005,Torquay United FC,2-3,Bristol Rovers FC
@@ -44,9 +42,9 @@ Matchday,Date,Team 1,FT,Team 2
 4,Sat Aug 20 2005,Peterborough United FC,2-0,Mansfield Town FC
 4,Sat Aug 20 2005,Lincoln City FC,2-1,Oxford United FC
 4,Sat Aug 20 2005,Leyton Orient FC,1-4,Rochdale AFC
+4,Sat Aug 20 2005,Grimsby Town FC,0-1,Darlington FC
+4,Sat Aug 20 2005,Cheltenham Town FC,3-0,Boston United FC
 4,Sat Aug 20 2005,Shrewsbury Town FC,1-1,Northampton Town FC
-5,Sat Aug 27 2005,Bury FC,2-2,Wrexham AFC
-5,Sat Aug 27 2005,Barnet FC,0-1,Grimsby Town FC
 5,Sat Aug 27 2005,Shrewsbury Town FC,1-1,Wycombe Wanderers FC
 5,Sat Aug 27 2005,Rushden & Diamonds (1992-2011),1-1,Lincoln City FC
 5,Sat Aug 27 2005,Rochdale AFC,3-1,Macclesfield Town FC
@@ -56,45 +54,47 @@ Matchday,Date,Team 1,FT,Team 2
 5,Sat Aug 27 2005,Chester FC,4-4,Darlington FC
 5,Sat Aug 27 2005,Cheltenham Town FC,1-1,Leyton Orient FC
 5,Sat Aug 27 2005,Carlisle United FC,0-1,Northampton Town FC
+5,Sat Aug 27 2005,Bury FC,2-2,Wrexham AFC
 5,Sat Aug 27 2005,Boston United FC,2-2,Mansfield Town FC
-6,Mon Aug 29 2005,Stockport County FC,1-1,Peterborough United FC
-6,Mon Aug 29 2005,Grimsby Town FC,2-0,Rushden & Diamonds (1992-2011)
+5,Sat Aug 27 2005,Barnet FC,0-1,Grimsby Town FC
 6,Mon Aug 29 2005,Wycombe Wanderers FC,0-0,Cheltenham Town FC
 6,Mon Aug 29 2005,Wrexham AFC,3-1,Barnet FC
 6,Mon Aug 29 2005,Torquay United FC,0-1,Chester FC
-6,Mon Aug 29 2005,Leyton Orient FC,0-1,Shrewsbury Town FC
+6,Mon Aug 29 2005,Darlington FC,2-1,Rochdale AFC
 6,Mon Aug 29 2005,Northampton Town FC,3-2,Boston United FC
 6,Mon Aug 29 2005,Mansfield Town FC,2-3,Notts County FC
 6,Mon Aug 29 2005,Macclesfield Town FC,1-0,Bury FC
 6,Mon Aug 29 2005,Lincoln City FC,0-0,Carlisle United FC
-6,Mon Aug 29 2005,Darlington FC,2-1,Rochdale AFC
-7,Fri Sep 2 2005,Grimsby Town FC,1-3,Stockport County FC
-7,Fri Sep 2 2005,Rushden & Diamonds (1992-2011),0-2,Peterborough United FC
-7,Fri Sep 2 2005,Chester FC,3-1,Mansfield Town FC
+6,Mon Aug 29 2005,Leyton Orient FC,0-1,Shrewsbury Town FC
+6,Mon Aug 29 2005,Grimsby Town FC,2-0,Rushden & Diamonds (1992-2011)
+6,Mon Aug 29 2005,Stockport County FC,1-1,Peterborough United FC
 7,Fri Sep 2 2005,Wycombe Wanderers FC,1-1,Northampton Town FC
-7,Fri Sep 2 2005,Darlington FC,1-1,Notts County FC
-7,Fri Sep 2 2005,Bury FC,0-1,Carlisle United FC
-7,Fri Sep 2 2005,Cheltenham Town FC,1-1,Barnet FC
 7,Fri Sep 2 2005,Shrewsbury Town FC,2-0,Oxford United FC
-7,Sat Sep 3 2005,Leyton Orient FC,2-3,Bristol Rovers FC
+7,Fri Sep 2 2005,Bury FC,0-1,Carlisle United FC
+7,Fri Sep 2 2005,Grimsby Town FC,1-3,Stockport County FC
+7,Fri Sep 2 2005,Darlington FC,1-1,Notts County FC
+7,Fri Sep 2 2005,Chester FC,3-1,Mansfield Town FC
+7,Fri Sep 2 2005,Cheltenham Town FC,1-1,Barnet FC
+7,Fri Sep 2 2005,Rushden & Diamonds (1992-2011),0-2,Peterborough United FC
 7,Sat Sep 3 2005,Rochdale AFC,4-1,Torquay United FC
+7,Sat Sep 3 2005,Leyton Orient FC,2-3,Bristol Rovers FC
 7,Sun Sep 4 2005,Macclesfield Town FC,2-2,Boston United FC
 3,Tue Sep 6 2005,Chester FC,1-2,Grimsby Town FC
-8,Sat Sep 10 2005,Barnet FC,2-3,Leyton Orient FC
-8,Sat Sep 10 2005,Boston United FC,3-2,Rochdale AFC
-8,Sat Sep 10 2005,Bristol Rovers FC,0-0,Lincoln City FC
 8,Sat Sep 10 2005,Peterborough United FC,0-1,Grimsby Town FC
 8,Sat Sep 10 2005,Torquay United FC,2-1,Shrewsbury Town FC
 8,Sat Sep 10 2005,Stockport County FC,3-3,Wycombe Wanderers FC
 8,Sat Sep 10 2005,Wrexham AFC,2-0,Cheltenham Town FC
-8,Sat Sep 10 2005,Carlisle United FC,2-0,Macclesfield Town FC
+8,Sat Sep 10 2005,Oxford United FC,2-2,Rushden & Diamonds (1992-2011)
 8,Sat Sep 10 2005,Notts County FC,1-1,Chester FC
 8,Sat Sep 10 2005,Northampton Town FC,1-1,Bury FC
 8,Sat Sep 10 2005,Mansfield Town FC,2-2,Darlington FC
-8,Sat Sep 10 2005,Oxford United FC,2-2,Rushden & Diamonds (1992-2011)
-7,Tue Sep 13 2005,Lincoln City FC,2-0,Wrexham AFC
-6,Tue Sep 13 2005,Bristol Rovers FC,1-1,Oxford United FC
+8,Sat Sep 10 2005,Carlisle United FC,2-0,Macclesfield Town FC
+8,Sat Sep 10 2005,Bristol Rovers FC,0-0,Lincoln City FC
+8,Sat Sep 10 2005,Boston United FC,3-2,Rochdale AFC
+8,Sat Sep 10 2005,Barnet FC,2-3,Leyton Orient FC
 3,Tue Sep 13 2005,Macclesfield Town FC,3-1,Rushden & Diamonds (1992-2011)
+6,Tue Sep 13 2005,Bristol Rovers FC,1-1,Oxford United FC
+7,Tue Sep 13 2005,Lincoln City FC,2-0,Wrexham AFC
 9,Sat Sep 17 2005,Macclesfield Town FC,1-4,Northampton Town FC
 9,Sat Sep 17 2005,Shrewsbury Town FC,2-0,Notts County FC
 9,Sat Sep 17 2005,Bury FC,1-1,Boston United FC
@@ -137,36 +137,35 @@ Matchday,Date,Team 1,FT,Team 2
 12,Sat Oct 1 2005,Rochdale AFC,2-1,Rushden & Diamonds (1992-2011)
 12,Sat Oct 1 2005,Northampton Town FC,0-0,Darlington FC
 12,Sat Oct 1 2005,Macclesfield Town FC,0-0,Notts County FC
-12,Sat Oct 1 2005,Leyton Orient FC,3-1,Mansfield Town FC
+12,Sat Oct 1 2005,Barnet FC,0-0,Oxford United FC
 12,Sat Oct 1 2005,Cheltenham Town FC,0-1,Torquay United FC
 12,Sat Oct 1 2005,Carlisle United FC,1-3,Bristol Rovers FC
 12,Sat Oct 1 2005,Bury FC,1-1,Lincoln City FC
 12,Sat Oct 1 2005,Boston United FC,1-0,Peterborough United FC
-12,Sat Oct 1 2005,Barnet FC,0-0,Oxford United FC
+12,Sat Oct 1 2005,Leyton Orient FC,3-1,Mansfield Town FC
 13,Fri Oct 7 2005,Darlington FC,1-0,Macclesfield Town FC
 13,Fri Oct 7 2005,Torquay United FC,0-0,Barnet FC
 13,Fri Oct 7 2005,Rushden & Diamonds (1992-2011),0-2,Bury FC
 13,Fri Oct 7 2005,Oxford United FC,1-0,Carlisle United FC
 13,Fri Oct 7 2005,Notts County FC,1-2,Boston United FC
 13,Fri Oct 7 2005,Mansfield Town FC,4-0,Shrewsbury Town FC
-13,Fri Oct 7 2005,Lincoln City FC,0-1,Cheltenham Town FC
+13,Fri Oct 7 2005,Bristol Rovers FC,0-0,Northampton Town FC
 13,Fri Oct 7 2005,Grimsby Town FC,0-1,Wycombe Wanderers FC
 13,Fri Oct 7 2005,Chester FC,2-3,Rochdale AFC
-13,Fri Oct 7 2005,Bristol Rovers FC,0-0,Northampton Town FC
+13,Fri Oct 7 2005,Lincoln City FC,0-1,Cheltenham Town FC
 13,Sat Oct 8 2005,Stockport County FC,1-1,Leyton Orient FC
-14,Fri Oct 14 2005,Northampton Town FC,1-0,Oxford United FC
 14,Fri Oct 14 2005,Cheltenham Town FC,0-3,Grimsby Town FC
-14,Sat Oct 15 2005,Macclesfield Town FC,0-4,Peterborough United FC
+14,Fri Oct 14 2005,Northampton Town FC,1-0,Oxford United FC
 14,Sat Oct 15 2005,Wycombe Wanderers FC,0-0,Rushden & Diamonds (1992-2011)
 14,Sat Oct 15 2005,Wrexham AFC,4-2,Torquay United FC
 14,Sat Oct 15 2005,Shrewsbury Town FC,2-2,Stockport County FC
-14,Sat Oct 15 2005,Boston United FC,3-1,Bristol Rovers FC
+14,Sat Oct 15 2005,Rochdale AFC,3-0,Notts County FC
 14,Sat Oct 15 2005,Barnet FC,1-3,Chester FC
 14,Sat Oct 15 2005,Leyton Orient FC,1-1,Lincoln City FC
 14,Sat Oct 15 2005,Carlisle United FC,1-0,Mansfield Town FC
 14,Sat Oct 15 2005,Bury FC,1-0,Darlington FC
-14,Sat Oct 15 2005,Rochdale AFC,3-0,Notts County FC
-15,Sat Oct 22 2005,Bristol Rovers FC,2-1,Wrexham AFC
+14,Sat Oct 15 2005,Boston United FC,3-1,Bristol Rovers FC
+14,Sat Oct 15 2005,Macclesfield Town FC,0-4,Peterborough United FC
 15,Sat Oct 22 2005,Torquay United FC,1-1,Macclesfield Town FC
 15,Sat Oct 22 2005,Stockport County FC,4-2,Northampton Town FC
 15,Sat Oct 22 2005,Rushden & Diamonds (1992-2011),3-0,Shrewsbury Town FC
@@ -178,6 +177,7 @@ Matchday,Date,Team 1,FT,Team 2
 15,Sat Oct 22 2005,Grimsby Town FC,0-1,Leyton Orient FC
 15,Sat Oct 22 2005,Darlington FC,3-1,Cheltenham Town FC
 15,Sat Oct 22 2005,Chester FC,1-1,Bury FC
+15,Sat Oct 22 2005,Bristol Rovers FC,2-1,Wrexham AFC
 13,Tue Oct 25 2005,Peterborough United FC,1-1,Wrexham AFC
 16,Sat Oct 29 2005,Wycombe Wanderers FC,2-2,Peterborough United FC
 16,Sat Oct 29 2005,Wrexham AFC,1-0,Darlington FC
@@ -189,80 +189,77 @@ Matchday,Date,Team 1,FT,Team 2
 16,Sat Oct 29 2005,Cheltenham Town FC,0-2,Mansfield Town FC
 16,Sat Oct 29 2005,Carlisle United FC,6-0,Stockport County FC
 16,Sat Oct 29 2005,Bury FC,2-3,Notts County FC
-16,Sat Oct 29 2005,Boston United FC,2-0,Torquay United FC
 16,Sat Oct 29 2005,Barnet FC,2-1,Rushden & Diamonds (1992-2011)
+16,Sat Oct 29 2005,Boston United FC,2-0,Torquay United FC
 17,Fri Nov 11 2005,Rushden & Diamonds (1992-2011),1-0,Boston United FC
 17,Fri Nov 11 2005,Mansfield Town FC,0-3,Bury FC
 17,Fri Nov 11 2005,Grimsby Town FC,3-1,Macclesfield Town FC
-17,Sat Nov 12 2005,Notts County FC,2-3,Cheltenham Town FC
-17,Sat Nov 12 2005,Bristol Rovers FC,1-2,Rochdale AFC
 17,Sat Nov 12 2005,Darlington FC,1-1,Wycombe Wanderers FC
+17,Sat Nov 12 2005,Chester FC,0-0,Northampton Town FC
+17,Sat Nov 12 2005,Notts County FC,2-3,Cheltenham Town FC
 17,Sat Nov 12 2005,Torquay United FC,3-4,Carlisle United FC
 17,Sat Nov 12 2005,Peterborough United FC,1-1,Leyton Orient FC
 17,Sat Nov 12 2005,Oxford United FC,0-3,Wrexham AFC
 17,Sat Nov 12 2005,Lincoln City FC,1-1,Shrewsbury Town FC
-17,Sat Nov 12 2005,Chester FC,0-0,Northampton Town FC
+17,Sat Nov 12 2005,Bristol Rovers FC,1-2,Rochdale AFC
 17,Sun Nov 13 2005,Stockport County FC,1-1,Barnet FC
 18,Fri Nov 18 2005,Cheltenham Town FC,4-1,Lincoln City FC
-18,Sat Nov 19 2005,Wycombe Wanderers FC,3-1,Grimsby Town FC
+18,Sat Nov 19 2005,Northampton Town FC,4-0,Bristol Rovers FC
 18,Sat Nov 19 2005,Wrexham AFC,1-1,Peterborough United FC
 18,Sat Nov 19 2005,Rochdale AFC,2-2,Chester FC
-18,Sat Nov 19 2005,Northampton Town FC,4-0,Bristol Rovers FC
+18,Sat Nov 19 2005,Wycombe Wanderers FC,3-1,Grimsby Town FC
 18,Sat Nov 19 2005,Macclesfield Town FC,1-0,Darlington FC
-18,Sat Nov 19 2005,Leyton Orient FC,2-2,Stockport County FC
+18,Sat Nov 19 2005,Barnet FC,1-0,Torquay United FC
 18,Sat Nov 19 2005,Carlisle United FC,2-1,Oxford United FC
 18,Sat Nov 19 2005,Boston United FC,1-2,Notts County FC
-18,Sat Nov 19 2005,Barnet FC,1-0,Torquay United FC
-19,Sat Nov 26 2005,Bristol Rovers FC,2-1,Barnet FC
-19,Sat Nov 26 2005,Boston United FC,2-1,Wrexham AFC
+18,Sat Nov 19 2005,Leyton Orient FC,2-2,Stockport County FC
 19,Sat Nov 26 2005,Northampton Town FC,1-1,Lincoln City FC
 19,Sat Nov 26 2005,Rochdale AFC,4-3,Shrewsbury Town FC
 19,Sat Nov 26 2005,Oxford United FC,2-3,Grimsby Town FC
 19,Sat Nov 26 2005,Notts County FC,2-2,Torquay United FC
 19,Sat Nov 26 2005,Mansfield Town FC,2-1,Stockport County FC
-19,Sat Nov 26 2005,Bury FC,0-1,Cheltenham Town FC
+19,Sat Nov 26 2005,Macclesfield Town FC,0-0,Leyton Orient FC
 19,Sat Nov 26 2005,Darlington FC,1-1,Rushden & Diamonds (1992-2011)
 19,Sat Nov 26 2005,Chester FC,3-1,Peterborough United FC
 19,Sat Nov 26 2005,Carlisle United FC,0-1,Wycombe Wanderers FC
-19,Sat Nov 26 2005,Macclesfield Town FC,0-0,Leyton Orient FC
+19,Sat Nov 26 2005,Bury FC,0-1,Cheltenham Town FC
+19,Sat Nov 26 2005,Bristol Rovers FC,2-1,Barnet FC
+19,Sat Nov 26 2005,Boston United FC,2-1,Wrexham AFC
 20,Sat Dec 3 2005,Lincoln City FC,2-2,Macclesfield Town FC
 20,Sat Dec 3 2005,Barnet FC,1-1,Bury FC
-20,Tue Dec 6 2005,Wrexham AFC,4-1,Mansfield Town FC
-20,Tue Dec 6 2005,Stockport County FC,0-1,Bristol Rovers FC
 20,Tue Dec 6 2005,Cheltenham Town FC,1-2,Oxford United FC
-20,Tue Dec 6 2005,Grimsby Town FC,4-1,Rochdale AFC
+20,Tue Dec 6 2005,Wrexham AFC,4-1,Mansfield Town FC
 20,Tue Dec 6 2005,Torquay United FC,3-3,Northampton Town FC
 20,Tue Dec 6 2005,Wycombe Wanderers FC,1-1,Boston United FC
 20,Tue Dec 6 2005,Shrewsbury Town FC,3-1,Darlington FC
 20,Tue Dec 6 2005,Rushden & Diamonds (1992-2011),0-4,Carlisle United FC
 20,Tue Dec 6 2005,Peterborough United FC,2-0,Notts County FC
 20,Tue Dec 6 2005,Leyton Orient FC,0-1,Chester FC
-21,Sat Dec 10 2005,Rushden & Diamonds (1992-2011),1-2,Mansfield Town FC
-21,Sat Dec 10 2005,Lincoln City FC,3-1,Chester FC
+20,Tue Dec 6 2005,Grimsby Town FC,4-1,Rochdale AFC
+20,Tue Dec 6 2005,Stockport County FC,0-1,Bristol Rovers FC
 21,Sat Dec 10 2005,Wycombe Wanderers FC,3-0,Rochdale AFC
 21,Sat Dec 10 2005,Wrexham AFC,1-1,Notts County FC
 21,Sat Dec 10 2005,Torquay United FC,3-3,Oxford United FC
-21,Sat Dec 10 2005,Grimsby Town FC,0-1,Bristol Rovers FC
+21,Sat Dec 10 2005,Stockport County FC,0-3,Darlington FC
 21,Sat Dec 10 2005,Shrewsbury Town FC,1-1,Boston United FC
-21,Sat Dec 10 2005,Cheltenham Town FC,2-2,Macclesfield Town FC
+21,Sat Dec 10 2005,Rushden & Diamonds (1992-2011),1-2,Mansfield Town FC
 21,Sat Dec 10 2005,Peterborough United FC,1-1,Carlisle United FC
 21,Sat Dec 10 2005,Barnet FC,0-1,Northampton Town FC
 21,Sat Dec 10 2005,Leyton Orient FC,0-1,Bury FC
-21,Sat Dec 10 2005,Stockport County FC,0-3,Darlington FC
+21,Sat Dec 10 2005,Grimsby Town FC,0-1,Bristol Rovers FC
+21,Sat Dec 10 2005,Cheltenham Town FC,2-2,Macclesfield Town FC
+21,Sat Dec 10 2005,Lincoln City FC,3-1,Chester FC
 22,Fri Dec 16 2005,Oxford United FC,0-1,Lincoln City FC
-22,Sat Dec 17 2005,Northampton Town FC,1-0,Shrewsbury Town FC
-22,Sat Dec 17 2005,Bristol Rovers FC,0-1,Torquay United FC
 22,Sat Dec 17 2005,Macclesfield Town FC,1-1,Barnet FC
 22,Sat Dec 17 2005,Notts County FC,2-0,Stockport County FC
-22,Sat Dec 17 2005,Boston United FC,0-0,Cheltenham Town FC
+22,Sat Dec 17 2005,Northampton Town FC,1-0,Shrewsbury Town FC
 22,Sat Dec 17 2005,Mansfield Town FC,0-0,Peterborough United FC
 22,Sat Dec 17 2005,Rochdale AFC,2-4,Leyton Orient FC
 22,Sat Dec 17 2005,Chester FC,1-2,Rushden & Diamonds (1992-2011)
 22,Sat Dec 17 2005,Carlisle United FC,2-1,Wrexham AFC
 22,Sat Dec 17 2005,Bury FC,2-1,Wycombe Wanderers FC
-23,Mon Dec 26 2005,Lincoln City FC,0-0,Boston United FC
-23,Mon Dec 26 2005,Bury FC,1-2,Grimsby Town FC
-23,Mon Dec 26 2005,Cheltenham Town FC,1-0,Chester FC
+22,Sat Dec 17 2005,Bristol Rovers FC,0-1,Torquay United FC
+22,Sat Dec 17 2005,Boston United FC,0-0,Cheltenham Town FC
 23,Mon Dec 26 2005,Leyton Orient FC,5-1,Rushden & Diamonds (1992-2011)
 23,Mon Dec 26 2005,Carlisle United FC,1-1,Darlington FC
 23,Mon Dec 26 2005,Bristol Rovers FC,2-1,Shrewsbury Town FC
@@ -271,273 +268,276 @@ Matchday,Date,Team 1,FT,Team 2
 23,Mon Dec 26 2005,Oxford United FC,3-0,Notts County FC
 23,Mon Dec 26 2005,Northampton Town FC,1-0,Mansfield Town FC
 23,Mon Dec 26 2005,Macclesfield Town FC,6-0,Stockport County FC
+23,Mon Dec 26 2005,Lincoln City FC,0-0,Boston United FC
+23,Mon Dec 26 2005,Cheltenham Town FC,1-0,Chester FC
+23,Mon Dec 26 2005,Bury FC,1-2,Grimsby Town FC
 23,Mon Dec 26 2005,Barnet FC,2-1,Peterborough United FC
+24,Wed Dec 28 2005,Darlington FC,2-1,Barnet FC
 24,Wed Dec 28 2005,Rushden & Diamonds (1992-2011),0-1,Cheltenham Town FC
 24,Wed Dec 28 2005,Grimsby Town FC,3-0,Lincoln City FC
 24,Wed Dec 28 2005,Mansfield Town FC,3-3,Bristol Rovers FC
-24,Wed Dec 28 2005,Darlington FC,2-1,Barnet FC
 24,Thu Dec 29 2005,Wycombe Wanderers FC,4-2,Leyton Orient FC
-25,Sat Dec 31 2005,Carlisle United FC,2-1,Rochdale AFC
-25,Sat Dec 31 2005,Macclesfield Town FC,1-0,Chester FC
-25,Sat Dec 31 2005,Cheltenham Town FC,1-0,Shrewsbury Town FC
-25,Sat Dec 31 2005,Oxford United FC,1-2,Mansfield Town FC
-25,Sat Dec 31 2005,Wrexham AFC,1-2,Grimsby Town FC
-25,Sat Dec 31 2005,Lincoln City FC,2-2,Darlington FC
-25,Sat Dec 31 2005,Bristol Rovers FC,1-2,Wycombe Wanderers FC
-25,Sat Dec 31 2005,Barnet FC,1-0,Boston United FC
-25,Sat Dec 31 2005,Leyton Orient FC,1-0,Notts County FC
-25,Sat Dec 31 2005,Torquay United FC,2-1,Rushden & Diamonds (1992-2011)
 25,Sat Dec 31 2005,Northampton Town FC,0-1,Peterborough United FC
-26,Mon Jan 2 2006,Mansfield Town FC,0-0,Lincoln City FC
+25,Sat Dec 31 2005,Torquay United FC,2-1,Rushden & Diamonds (1992-2011)
+25,Sat Dec 31 2005,Leyton Orient FC,1-0,Notts County FC
+25,Sat Dec 31 2005,Barnet FC,1-0,Boston United FC
+25,Sat Dec 31 2005,Bristol Rovers FC,1-2,Wycombe Wanderers FC
+25,Sat Dec 31 2005,Carlisle United FC,2-1,Rochdale AFC
+25,Sat Dec 31 2005,Wrexham AFC,1-2,Grimsby Town FC
+25,Sat Dec 31 2005,Oxford United FC,1-2,Mansfield Town FC
+25,Sat Dec 31 2005,Macclesfield Town FC,1-0,Chester FC
+25,Sat Dec 31 2005,Lincoln City FC,2-2,Darlington FC
+25,Sat Dec 31 2005,Cheltenham Town FC,1-0,Shrewsbury Town FC
+26,Mon Jan 2 2006,Wycombe Wanderers FC,4-5,Macclesfield Town FC
+26,Mon Jan 2 2006,Stockport County FC,2-2,Cheltenham Town FC
+26,Mon Jan 2 2006,Rushden & Diamonds (1992-2011),2-3,Bristol Rovers FC
+26,Mon Jan 2 2006,Rochdale AFC,1-1,Northampton Town FC
+26,Mon Jan 2 2006,Peterborough United FC,4-1,Bury FC
 26,Mon Jan 2 2006,Notts County FC,1-0,Barnet FC
+26,Mon Jan 2 2006,Mansfield Town FC,0-0,Lincoln City FC
 26,Mon Jan 2 2006,Grimsby Town FC,1-2,Carlisle United FC
+26,Mon Jan 2 2006,Darlington FC,3-2,Torquay United FC
 26,Mon Jan 2 2006,Boston United FC,1-2,Leyton Orient FC
 26,Mon Jan 2 2006,Chester FC,0-1,Oxford United FC
-26,Mon Jan 2 2006,Peterborough United FC,4-1,Bury FC
-26,Mon Jan 2 2006,Rochdale AFC,1-1,Northampton Town FC
-26,Mon Jan 2 2006,Rushden & Diamonds (1992-2011),2-3,Bristol Rovers FC
-26,Mon Jan 2 2006,Stockport County FC,2-2,Cheltenham Town FC
-26,Mon Jan 2 2006,Wycombe Wanderers FC,4-5,Macclesfield Town FC
-26,Mon Jan 2 2006,Darlington FC,3-2,Torquay United FC
 26,Tue Jan 3 2006,Shrewsbury Town FC,1-0,Wrexham AFC
-27,Sat Jan 7 2006,Boston United FC,3-1,Macclesfield Town FC
-27,Sat Jan 7 2006,Oxford United FC,0-3,Shrewsbury Town FC
 27,Sat Jan 7 2006,Wrexham AFC,1-1,Lincoln City FC
 27,Sat Jan 7 2006,Peterborough United FC,2-0,Rushden & Diamonds (1992-2011)
-27,Sat Jan 7 2006,Notts County FC,3-2,Darlington FC
+27,Sat Jan 7 2006,Oxford United FC,0-3,Shrewsbury Town FC
+27,Sat Jan 7 2006,Boston United FC,3-1,Macclesfield Town FC
 27,Sat Jan 7 2006,Carlisle United FC,4-0,Bury FC
-27,Tue Jan 10 2006,Barnet FC,1-1,Cheltenham Town FC
+27,Sat Jan 7 2006,Notts County FC,3-2,Darlington FC
 24,Tue Jan 10 2006,Peterborough United FC,0-0,Oxford United FC
-28,Sat Jan 14 2006,Rochdale AFC,0-1,Stockport County FC
+27,Tue Jan 10 2006,Barnet FC,1-1,Cheltenham Town FC
 28,Sat Jan 14 2006,Shrewsbury Town FC,2-1,Carlisle United FC
+28,Sat Jan 14 2006,Wycombe Wanderers FC,2-0,Notts County FC
 28,Sat Jan 14 2006,Rushden & Diamonds (1992-2011),0-2,Wrexham AFC
 28,Sat Jan 14 2006,Bury FC,3-2,Torquay United FC
-28,Sat Jan 14 2006,Chester FC,0-1,Boston United FC
-28,Sat Jan 14 2006,Darlington FC,2-1,Peterborough United FC
-28,Sat Jan 14 2006,Grimsby Town FC,2-1,Mansfield Town FC
-28,Sat Jan 14 2006,Leyton Orient FC,1-2,Northampton Town FC
-28,Sat Jan 14 2006,Lincoln City FC,4-1,Barnet FC
 28,Sat Jan 14 2006,Macclesfield Town FC,1-1,Oxford United FC
-28,Sat Jan 14 2006,Wycombe Wanderers FC,2-0,Notts County FC
+28,Sat Jan 14 2006,Lincoln City FC,4-1,Barnet FC
+28,Sat Jan 14 2006,Leyton Orient FC,1-2,Northampton Town FC
+28,Sat Jan 14 2006,Grimsby Town FC,2-1,Mansfield Town FC
+28,Sat Jan 14 2006,Darlington FC,2-1,Peterborough United FC
+28,Sat Jan 14 2006,Chester FC,0-1,Boston United FC
 28,Sat Jan 14 2006,Cheltenham Town FC,2-3,Bristol Rovers FC
-22,Tue Jan 17 2006,Darlington FC,0-0,Grimsby Town FC
+28,Sat Jan 14 2006,Rochdale AFC,0-1,Stockport County FC
 18,Tue Jan 17 2006,Shrewsbury Town FC,0-0,Mansfield Town FC
+22,Tue Jan 17 2006,Darlington FC,0-0,Grimsby Town FC
 24,Wed Jan 18 2006,Boston United FC,0-5,Carlisle United FC
-29,Sat Jan 21 2006,Carlisle United FC,1-1,Cheltenham Town FC
+29,Sat Jan 21 2006,Oxford United FC,0-2,Darlington FC
+29,Sat Jan 21 2006,Torquay United FC,2-2,Grimsby Town FC
+29,Sat Jan 21 2006,Stockport County FC,2-2,Rushden & Diamonds (1992-2011)
+29,Sat Jan 21 2006,Peterborough United FC,1-1,Lincoln City FC
 29,Sat Jan 21 2006,Wrexham AFC,1-2,Leyton Orient FC
 29,Sat Jan 21 2006,Notts County FC,2-1,Shrewsbury Town FC
 29,Sat Jan 21 2006,Northampton Town FC,5-0,Macclesfield Town FC
-29,Sat Jan 21 2006,Peterborough United FC,1-1,Lincoln City FC
+29,Sat Jan 21 2006,Mansfield Town FC,1-0,Rochdale AFC
+29,Sat Jan 21 2006,Carlisle United FC,1-1,Cheltenham Town FC
 29,Sat Jan 21 2006,Bristol Rovers FC,2-1,Chester FC
 29,Sat Jan 21 2006,Barnet FC,0-0,Wycombe Wanderers FC
-29,Sat Jan 21 2006,Oxford United FC,0-2,Darlington FC
-29,Sat Jan 21 2006,Torquay United FC,2-2,Grimsby Town FC
 29,Sat Jan 21 2006,Boston United FC,3-1,Bury FC
-29,Sat Jan 21 2006,Stockport County FC,2-2,Rushden & Diamonds (1992-2011)
-29,Sat Jan 21 2006,Mansfield Town FC,1-0,Rochdale AFC
-27,Tue Jan 24 2006,Mansfield Town FC,1-2,Chester FC
 24,Tue Jan 24 2006,Notts County FC,2-2,Northampton Town FC
 27,Tue Jan 24 2006,Torquay United FC,1-3,Rochdale AFC
 27,Tue Jan 24 2006,Stockport County FC,2-1,Grimsby Town FC
-30,Sat Jan 28 2006,Darlington FC,4-0,Mansfield Town FC
-30,Sat Jan 28 2006,Chester FC,0-2,Notts County FC
-30,Sat Jan 28 2006,Bury FC,0-2,Northampton Town FC
+27,Tue Jan 24 2006,Mansfield Town FC,1-2,Chester FC
 30,Sat Jan 28 2006,Rushden & Diamonds (1992-2011),3-0,Oxford United FC
-30,Sat Jan 28 2006,Lincoln City FC,1-0,Bristol Rovers FC
-30,Sat Jan 28 2006,Rochdale AFC,1-1,Boston United FC
 30,Sat Jan 28 2006,Shrewsbury Town FC,0-1,Torquay United FC
 30,Sat Jan 28 2006,Wycombe Wanderers FC,1-1,Stockport County FC
+30,Sat Jan 28 2006,Rochdale AFC,1-1,Boston United FC
+30,Sat Jan 28 2006,Lincoln City FC,1-0,Bristol Rovers FC
 30,Sat Jan 28 2006,Grimsby Town FC,1-2,Peterborough United FC
+30,Sat Jan 28 2006,Darlington FC,4-0,Mansfield Town FC
+30,Sat Jan 28 2006,Bury FC,0-2,Northampton Town FC
+30,Sat Jan 28 2006,Chester FC,0-2,Notts County FC
 30,Sun Jan 29 2006,Macclesfield Town FC,3-0,Carlisle United FC
-27,Tue Jan 31 2006,Bristol Rovers FC,3-3,Leyton Orient FC
 24,Tue Jan 31 2006,Stockport County FC,1-1,Torquay United FC
 24,Tue Jan 31 2006,Shrewsbury Town FC,1-1,Macclesfield Town FC
 27,Tue Jan 31 2006,Northampton Town FC,0-0,Wycombe Wanderers FC
-31,Sat Feb 4 2006,Mansfield Town FC,1-1,Macclesfield Town FC
-31,Sat Feb 4 2006,Bristol Rovers FC,1-0,Bury FC
-31,Sat Feb 4 2006,Barnet FC,1-0,Shrewsbury Town FC
-31,Sat Feb 4 2006,Carlisle United FC,5-0,Chester FC
-31,Sat Feb 4 2006,Boston United FC,0-0,Darlington FC
-31,Sat Feb 4 2006,Northampton Town FC,2-0,Rushden & Diamonds (1992-2011)
+27,Tue Jan 31 2006,Bristol Rovers FC,3-3,Leyton Orient FC
 31,Sat Feb 4 2006,Peterborough United FC,1-0,Cheltenham Town FC
 31,Sat Feb 4 2006,Torquay United FC,2-0,Leyton Orient FC
 31,Sat Feb 4 2006,Stockport County FC,2-3,Lincoln City FC
-31,Sat Feb 4 2006,Notts County FC,0-1,Grimsby Town FC
-31,Sat Feb 4 2006,Oxford United FC,1-1,Rochdale AFC
 31,Sat Feb 4 2006,Wrexham AFC,2-0,Wycombe Wanderers FC
+31,Sat Feb 4 2006,Oxford United FC,1-1,Rochdale AFC
+31,Sat Feb 4 2006,Notts County FC,0-1,Grimsby Town FC
+31,Sat Feb 4 2006,Northampton Town FC,2-0,Rushden & Diamonds (1992-2011)
+31,Sat Feb 4 2006,Mansfield Town FC,1-1,Macclesfield Town FC
+31,Sat Feb 4 2006,Barnet FC,1-0,Shrewsbury Town FC
+31,Sat Feb 4 2006,Bristol Rovers FC,1-0,Bury FC
+31,Sat Feb 4 2006,Boston United FC,0-0,Darlington FC
+31,Sat Feb 4 2006,Carlisle United FC,5-0,Chester FC
 18,Tue Feb 7 2006,Bury FC,1-1,Rushden & Diamonds (1992-2011)
-32,Sat Feb 11 2006,Chester FC,1-2,Stockport County FC
-32,Sat Feb 11 2006,Wycombe Wanderers FC,2-2,Mansfield Town FC
+32,Sat Feb 11 2006,Lincoln City FC,2-0,Torquay United FC
+32,Sat Feb 11 2006,Shrewsbury Town FC,2-1,Peterborough United FC
+32,Sat Feb 11 2006,Rushden & Diamonds (1992-2011),1-0,Notts County FC
+32,Sat Feb 11 2006,Cheltenham Town FC,3-1,Northampton Town FC
 32,Sat Feb 11 2006,Leyton Orient FC,0-0,Carlisle United FC
 32,Sat Feb 11 2006,Grimsby Town FC,1-0,Boston United FC
 32,Sat Feb 11 2006,Darlington FC,1-1,Bristol Rovers FC
-32,Sat Feb 11 2006,Cheltenham Town FC,3-1,Northampton Town FC
-32,Sat Feb 11 2006,Shrewsbury Town FC,2-1,Peterborough United FC
-32,Sat Feb 11 2006,Rushden & Diamonds (1992-2011),1-0,Notts County FC
-32,Sat Feb 11 2006,Lincoln City FC,2-0,Torquay United FC
-33,Tue Feb 14 2006,Bristol Rovers FC,0-1,Cheltenham Town FC
-33,Tue Feb 14 2006,Carlisle United FC,2-2,Shrewsbury Town FC
-33,Tue Feb 14 2006,Barnet FC,2-3,Lincoln City FC
-33,Tue Feb 14 2006,Mansfield Town FC,2-1,Grimsby Town FC
-33,Tue Feb 14 2006,Northampton Town FC,1-1,Leyton Orient FC
-33,Tue Feb 14 2006,Notts County FC,1-2,Wycombe Wanderers FC
+32,Sat Feb 11 2006,Chester FC,1-2,Stockport County FC
+32,Sat Feb 11 2006,Wycombe Wanderers FC,2-2,Mansfield Town FC
+33,Tue Feb 14 2006,Wrexham AFC,2-0,Rushden & Diamonds (1992-2011)
 33,Tue Feb 14 2006,Torquay United FC,0-0,Bury FC
 33,Tue Feb 14 2006,Stockport County FC,3-0,Rochdale AFC
-33,Tue Feb 14 2006,Wrexham AFC,2-0,Rushden & Diamonds (1992-2011)
 33,Tue Feb 14 2006,Peterborough United FC,2-1,Darlington FC
+33,Tue Feb 14 2006,Notts County FC,1-2,Wycombe Wanderers FC
+33,Tue Feb 14 2006,Northampton Town FC,1-1,Leyton Orient FC
+33,Tue Feb 14 2006,Mansfield Town FC,2-1,Grimsby Town FC
+33,Tue Feb 14 2006,Barnet FC,2-3,Lincoln City FC
+33,Tue Feb 14 2006,Bristol Rovers FC,0-1,Cheltenham Town FC
+33,Tue Feb 14 2006,Carlisle United FC,2-2,Shrewsbury Town FC
 33,Wed Feb 15 2006,Oxford United FC,1-1,Macclesfield Town FC
 34,Fri Feb 17 2006,Northampton Town FC,1-0,Torquay United FC
+34,Sat Feb 18 2006,Macclesfield Town FC,1-1,Lincoln City FC
+34,Sat Feb 18 2006,Notts County FC,1-2,Peterborough United FC
 34,Sat Feb 18 2006,Mansfield Town FC,2-2,Wrexham AFC
+34,Sat Feb 18 2006,Oxford United FC,1-1,Cheltenham Town FC
+34,Sat Feb 18 2006,Darlington FC,0-1,Shrewsbury Town FC
+34,Sat Feb 18 2006,Chester FC,0-2,Leyton Orient FC
 34,Sat Feb 18 2006,Carlisle United FC,5-0,Rushden & Diamonds (1992-2011)
 34,Sat Feb 18 2006,Bury FC,0-0,Barnet FC
 34,Sat Feb 18 2006,Bristol Rovers FC,2-2,Stockport County FC
-34,Sat Feb 18 2006,Chester FC,0-2,Leyton Orient FC
 34,Sat Feb 18 2006,Boston United FC,1-1,Wycombe Wanderers FC
-34,Sat Feb 18 2006,Oxford United FC,1-1,Cheltenham Town FC
-34,Sat Feb 18 2006,Notts County FC,1-2,Peterborough United FC
-34,Sat Feb 18 2006,Darlington FC,0-1,Shrewsbury Town FC
-34,Sat Feb 18 2006,Macclesfield Town FC,1-1,Lincoln City FC
-35,Sat Feb 25 2006,Lincoln City FC,2-1,Notts County FC
+35,Sat Feb 25 2006,Wycombe Wanderers FC,2-1,Oxford United FC
+35,Sat Feb 25 2006,Wrexham AFC,0-1,Northampton Town FC
+35,Sat Feb 25 2006,Torquay United FC,0-2,Mansfield Town FC
 35,Sat Feb 25 2006,Barnet FC,1-2,Carlisle United FC
 35,Sat Feb 25 2006,Shrewsbury Town FC,0-1,Bury FC
 35,Sat Feb 25 2006,Rushden & Diamonds (1992-2011),1-0,Macclesfield Town FC
-35,Sat Feb 25 2006,Wrexham AFC,0-1,Northampton Town FC
+35,Sat Feb 25 2006,Peterborough United FC,1-2,Bristol Rovers FC
+35,Sat Feb 25 2006,Lincoln City FC,2-1,Notts County FC
+35,Sat Feb 25 2006,Leyton Orient FC,1-0,Darlington FC
 35,Sat Feb 25 2006,Grimsby Town FC,1-0,Chester FC
 35,Sat Feb 25 2006,Cheltenham Town FC,1-1,Rochdale AFC
 35,Sat Feb 25 2006,Stockport County FC,0-1,Boston United FC
-35,Sat Feb 25 2006,Leyton Orient FC,1-0,Darlington FC
-35,Sat Feb 25 2006,Torquay United FC,0-2,Mansfield Town FC
-35,Sat Feb 25 2006,Wycombe Wanderers FC,2-1,Oxford United FC
-35,Sat Feb 25 2006,Peterborough United FC,1-2,Bristol Rovers FC
-30,Tue Feb 28 2006,Leyton Orient FC,0-0,Barnet FC
 24,Tue Feb 28 2006,Rochdale AFC,1-1,Bury FC
-36,Sat Mar 4 2006,Peterborough United FC,2-0,Stockport County FC
+30,Tue Feb 28 2006,Leyton Orient FC,0-0,Barnet FC
 36,Sat Mar 4 2006,Rushden & Diamonds (1992-2011),1-1,Grimsby Town FC
-36,Sat Mar 4 2006,Cheltenham Town FC,2-1,Wycombe Wanderers FC
 36,Sat Mar 4 2006,Shrewsbury Town FC,3-3,Leyton Orient FC
 36,Sat Mar 4 2006,Barnet FC,2-2,Wrexham AFC
 36,Sat Mar 4 2006,Notts County FC,2-2,Mansfield Town FC
+36,Sat Mar 4 2006,Cheltenham Town FC,2-1,Wycombe Wanderers FC
+36,Sat Mar 4 2006,Peterborough United FC,2-0,Stockport County FC
 25,Tue Mar 7 2006,Bury FC,0-1,Stockport County FC
 36,Tue Mar 7 2006,Chester FC,1-1,Torquay United FC
 37,Fri Mar 10 2006,Northampton Town FC,0-3,Carlisle United FC
+37,Sat Mar 11 2006,Stockport County FC,2-1,Oxford United FC
+37,Sat Mar 11 2006,Wrexham AFC,0-0,Bury FC
 37,Sat Mar 11 2006,Torquay United FC,1-0,Peterborough United FC
+37,Sat Mar 11 2006,Wycombe Wanderers FC,2-0,Shrewsbury Town FC
+37,Sat Mar 11 2006,Mansfield Town FC,5-0,Boston United FC
+37,Sat Mar 11 2006,Macclesfield Town FC,1-3,Rochdale AFC
 37,Sat Mar 11 2006,Lincoln City FC,2-2,Rushden & Diamonds (1992-2011)
 37,Sat Mar 11 2006,Leyton Orient FC,1-0,Cheltenham Town FC
-37,Sat Mar 11 2006,Stockport County FC,2-1,Oxford United FC
 37,Sat Mar 11 2006,Grimsby Town FC,3-0,Barnet FC
 37,Sat Mar 11 2006,Darlington FC,1-0,Chester FC
 37,Sat Mar 11 2006,Bristol Rovers FC,1-2,Notts County FC
-37,Sat Mar 11 2006,Wrexham AFC,0-0,Bury FC
-37,Sat Mar 11 2006,Mansfield Town FC,5-0,Boston United FC
-37,Sat Mar 11 2006,Wycombe Wanderers FC,2-0,Shrewsbury Town FC
-37,Sat Mar 11 2006,Macclesfield Town FC,1-3,Rochdale AFC
 32,Tue Mar 14 2006,Macclesfield Town FC,3-2,Wrexham AFC
 36,Wed Mar 15 2006,Oxford United FC,1-0,Bristol Rovers FC
-38,Sat Mar 18 2006,Notts County FC,0-0,Oxford United FC
+38,Sat Mar 18 2006,Darlington FC,0-5,Carlisle United FC
+38,Sat Mar 18 2006,Stockport County FC,2-0,Macclesfield Town FC
 38,Sat Mar 18 2006,Shrewsbury Town FC,1-0,Bristol Rovers FC
+38,Sat Mar 18 2006,Rushden & Diamonds (1992-2011),1-0,Leyton Orient FC
 38,Sat Mar 18 2006,Wycombe Wanderers FC,0-1,Torquay United FC
 38,Sat Mar 18 2006,Peterborough United FC,2-2,Barnet FC
-38,Sat Mar 18 2006,Rushden & Diamonds (1992-2011),1-0,Leyton Orient FC
+38,Sat Mar 18 2006,Notts County FC,0-0,Oxford United FC
 38,Sat Mar 18 2006,Mansfield Town FC,1-0,Northampton Town FC
 38,Sat Mar 18 2006,Grimsby Town FC,2-1,Bury FC
 38,Sat Mar 18 2006,Chester FC,0-1,Cheltenham Town FC
 38,Sat Mar 18 2006,Boston United FC,2-1,Lincoln City FC
 38,Sat Mar 18 2006,Rochdale AFC,0-1,Wrexham AFC
-38,Sat Mar 18 2006,Darlington FC,0-5,Carlisle United FC
-38,Sat Mar 18 2006,Stockport County FC,2-0,Macclesfield Town FC
-34,Tue Mar 21 2006,Rochdale AFC,2-2,Grimsby Town FC
 30,Tue Mar 21 2006,Cheltenham Town FC,2-2,Wrexham AFC
 32,Tue Mar 21 2006,Bury FC,1-1,Oxford United FC
+34,Tue Mar 21 2006,Rochdale AFC,2-2,Grimsby Town FC
 36,Wed Mar 22 2006,Boston United FC,0-1,Northampton Town FC
-39,Sat Mar 25 2006,Macclesfield Town FC,2-0,Shrewsbury Town FC
-39,Sat Mar 25 2006,Bristol Rovers FC,2-0,Mansfield Town FC
-39,Sat Mar 25 2006,Cheltenham Town FC,3-1,Rushden & Diamonds (1992-2011)
-39,Sat Mar 25 2006,Bury FC,2-1,Rochdale AFC
-39,Sat Mar 25 2006,Carlisle United FC,4-2,Boston United FC
-39,Sat Mar 25 2006,Leyton Orient FC,1-0,Wycombe Wanderers FC
-39,Sat Mar 25 2006,Lincoln City FC,5-0,Grimsby Town FC
+39,Sat Mar 25 2006,Barnet FC,1-0,Darlington FC
 39,Sat Mar 25 2006,Northampton Town FC,2-0,Notts County FC
 39,Sat Mar 25 2006,Oxford United FC,1-0,Peterborough United FC
-39,Sat Mar 25 2006,Barnet FC,1-0,Darlington FC
+39,Sat Mar 25 2006,Lincoln City FC,5-0,Grimsby Town FC
+39,Sat Mar 25 2006,Leyton Orient FC,1-0,Wycombe Wanderers FC
+39,Sat Mar 25 2006,Cheltenham Town FC,3-1,Rushden & Diamonds (1992-2011)
+39,Sat Mar 25 2006,Carlisle United FC,4-2,Boston United FC
+39,Sat Mar 25 2006,Bury FC,2-1,Rochdale AFC
+39,Sat Mar 25 2006,Bristol Rovers FC,2-0,Mansfield Town FC
+39,Sat Mar 25 2006,Macclesfield Town FC,2-0,Shrewsbury Town FC
 39,Sun Mar 26 2006,Wrexham AFC,2-1,Chester FC
 36,Tue Mar 28 2006,Carlisle United FC,1-0,Lincoln City FC
 33,Wed Mar 29 2006,Boston United FC,1-3,Chester FC
 40,Sat Apr 1 2006,Rushden & Diamonds (1992-2011),1-0,Torquay United FC
-40,Sat Apr 1 2006,Chester FC,2-1,Macclesfield Town FC
-40,Sat Apr 1 2006,Darlington FC,4-2,Lincoln City FC
-40,Sat Apr 1 2006,Mansfield Town FC,1-0,Oxford United FC
-40,Sat Apr 1 2006,Grimsby Town FC,2-0,Wrexham AFC
-40,Sat Apr 1 2006,Boston United FC,2-1,Barnet FC
 40,Sat Apr 1 2006,Stockport County FC,0-1,Bury FC
 40,Sat Apr 1 2006,Shrewsbury Town FC,2-0,Cheltenham Town FC
 40,Sat Apr 1 2006,Wycombe Wanderers FC,1-3,Bristol Rovers FC
 40,Sat Apr 1 2006,Peterborough United FC,0-1,Northampton Town FC
 40,Sat Apr 1 2006,Notts County FC,1-1,Leyton Orient FC
-36,Tue Apr 4 2006,Bury FC,0-0,Macclesfield Town FC
+40,Sat Apr 1 2006,Mansfield Town FC,1-0,Oxford United FC
+40,Sat Apr 1 2006,Grimsby Town FC,2-0,Wrexham AFC
+40,Sat Apr 1 2006,Darlington FC,4-2,Lincoln City FC
+40,Sat Apr 1 2006,Chester FC,2-1,Macclesfield Town FC
+40,Sat Apr 1 2006,Boston United FC,2-1,Barnet FC
 36,Tue Apr 4 2006,Rochdale AFC,0-2,Darlington FC
+36,Tue Apr 4 2006,Bury FC,0-0,Macclesfield Town FC
 41,Sat Apr 8 2006,Lincoln City FC,1-1,Mansfield Town FC
-41,Sat Apr 8 2006,Barnet FC,2-1,Notts County FC
-41,Sat Apr 8 2006,Bury FC,1-3,Peterborough United FC
-41,Sat Apr 8 2006,Carlisle United FC,1-0,Grimsby Town FC
-41,Sat Apr 8 2006,Bristol Rovers FC,0-1,Rushden & Diamonds (1992-2011)
-41,Sat Apr 8 2006,Cheltenham Town FC,3-3,Stockport County FC
+41,Sat Apr 8 2006,Torquay United FC,1-2,Darlington FC
 41,Sat Apr 8 2006,Oxford United FC,0-1,Chester FC
 41,Sat Apr 8 2006,Macclesfield Town FC,2-1,Wycombe Wanderers FC
 41,Sat Apr 8 2006,Northampton Town FC,2-2,Rochdale AFC
 41,Sat Apr 8 2006,Leyton Orient FC,2-0,Boston United FC
-41,Sat Apr 8 2006,Torquay United FC,1-2,Darlington FC
+41,Sat Apr 8 2006,Cheltenham Town FC,3-3,Stockport County FC
+41,Sat Apr 8 2006,Carlisle United FC,1-0,Grimsby Town FC
+41,Sat Apr 8 2006,Bury FC,1-3,Peterborough United FC
+41,Sat Apr 8 2006,Barnet FC,2-1,Notts County FC
+41,Sat Apr 8 2006,Bristol Rovers FC,0-1,Rushden & Diamonds (1992-2011)
 41,Sun Apr 9 2006,Wrexham AFC,1-2,Shrewsbury Town FC
 24,Wed Apr 12 2006,Chester FC,2-1,Wrexham AFC
-42,Sat Apr 15 2006,Rushden & Diamonds (1992-2011),1-1,Rochdale AFC
-42,Sat Apr 15 2006,Bristol Rovers FC,1-1,Carlisle United FC
-42,Sat Apr 15 2006,Chester FC,1-0,Wycombe Wanderers FC
 42,Sat Apr 15 2006,Oxford United FC,2-0,Barnet FC
 42,Sat Apr 15 2006,Stockport County FC,2-1,Wrexham AFC
-42,Sat Apr 15 2006,Grimsby Town FC,1-1,Shrewsbury Town FC
+42,Sat Apr 15 2006,Rushden & Diamonds (1992-2011),1-1,Rochdale AFC
 42,Sat Apr 15 2006,Peterborough United FC,0-1,Boston United FC
 42,Sat Apr 15 2006,Torquay United FC,1-2,Cheltenham Town FC
 42,Sat Apr 15 2006,Notts County FC,1-1,Macclesfield Town FC
 42,Sat Apr 15 2006,Mansfield Town FC,0-1,Leyton Orient FC
 42,Sat Apr 15 2006,Lincoln City FC,1-1,Bury FC
+42,Sat Apr 15 2006,Grimsby Town FC,1-1,Shrewsbury Town FC
 42,Sat Apr 15 2006,Darlington FC,0-1,Northampton Town FC
-43,Mon Apr 17 2006,Boston United FC,1-0,Oxford United FC
-43,Mon Apr 17 2006,Macclesfield Town FC,0-2,Torquay United FC
-43,Mon Apr 17 2006,Bury FC,0-0,Chester FC
+42,Sat Apr 15 2006,Bristol Rovers FC,1-1,Carlisle United FC
+42,Sat Apr 15 2006,Chester FC,1-0,Wycombe Wanderers FC
 43,Mon Apr 17 2006,Wycombe Wanderers FC,0-3,Lincoln City FC
 43,Mon Apr 17 2006,Wrexham AFC,1-0,Bristol Rovers FC
 43,Mon Apr 17 2006,Rochdale AFC,1-0,Peterborough United FC
 43,Mon Apr 17 2006,Northampton Town FC,2-0,Stockport County FC
-43,Mon Apr 17 2006,Carlisle United FC,2-1,Notts County FC
+43,Mon Apr 17 2006,Barnet FC,1-0,Mansfield Town FC
 43,Mon Apr 17 2006,Leyton Orient FC,0-0,Grimsby Town FC
 43,Mon Apr 17 2006,Cheltenham Town FC,1-1,Darlington FC
-43,Mon Apr 17 2006,Barnet FC,1-0,Mansfield Town FC
+43,Mon Apr 17 2006,Carlisle United FC,2-1,Notts County FC
+43,Mon Apr 17 2006,Bury FC,0-0,Chester FC
+43,Mon Apr 17 2006,Boston United FC,1-0,Oxford United FC
+43,Mon Apr 17 2006,Macclesfield Town FC,0-2,Torquay United FC
 43,Tue Apr 18 2006,Shrewsbury Town FC,4-1,Rushden & Diamonds (1992-2011)
 44,Fri Apr 21 2006,Grimsby Town FC,1-0,Cheltenham Town FC
-44,Sat Apr 22 2006,Rushden & Diamonds (1992-2011),1-3,Wycombe Wanderers FC
-44,Sat Apr 22 2006,Notts County FC,1-1,Rochdale AFC
-44,Sat Apr 22 2006,Chester FC,0-0,Barnet FC
 44,Sat Apr 22 2006,Oxford United FC,1-3,Northampton Town FC
 44,Sat Apr 22 2006,Stockport County FC,3-1,Shrewsbury Town FC
-44,Sat Apr 22 2006,Darlington FC,2-3,Bury FC
+44,Sat Apr 22 2006,Rushden & Diamonds (1992-2011),1-3,Wycombe Wanderers FC
 44,Sat Apr 22 2006,Peterborough United FC,3-2,Macclesfield Town FC
 44,Sat Apr 22 2006,Torquay United FC,1-0,Wrexham AFC
 44,Sat Apr 22 2006,Bristol Rovers FC,3-1,Boston United FC
 44,Sat Apr 22 2006,Mansfield Town FC,1-1,Carlisle United FC
 44,Sat Apr 22 2006,Lincoln City FC,1-1,Leyton Orient FC
+44,Sat Apr 22 2006,Darlington FC,2-3,Bury FC
+44,Sat Apr 22 2006,Chester FC,0-0,Barnet FC
+44,Sat Apr 22 2006,Notts County FC,1-1,Rochdale AFC
 32,Tue Apr 25 2006,Rochdale AFC,1-1,Barnet FC
 39,Tue Apr 25 2006,Torquay United FC,4-0,Stockport County FC
-45,Sat Apr 29 2006,Wycombe Wanderers FC,0-1,Darlington FC
 45,Sat Apr 29 2006,Northampton Town FC,1-0,Chester FC
 45,Sat Apr 29 2006,Wrexham AFC,1-1,Oxford United FC
 45,Sat Apr 29 2006,Shrewsbury Town FC,0-1,Lincoln City FC
 45,Sat Apr 29 2006,Rochdale AFC,2-0,Bristol Rovers FC
-45,Sat Apr 29 2006,Barnet FC,0-0,Stockport County FC
+45,Sat Apr 29 2006,Wycombe Wanderers FC,0-1,Darlington FC
 45,Sat Apr 29 2006,Macclesfield Town FC,1-1,Grimsby Town FC
 45,Sat Apr 29 2006,Leyton Orient FC,2-1,Peterborough United FC
 45,Sat Apr 29 2006,Cheltenham Town FC,2-0,Notts County FC
 45,Sat Apr 29 2006,Carlisle United FC,1-2,Torquay United FC
 45,Sat Apr 29 2006,Bury FC,0-0,Mansfield Town FC
 45,Sat Apr 29 2006,Boston United FC,2-0,Rushden & Diamonds (1992-2011)
+45,Sat Apr 29 2006,Barnet FC,0-0,Stockport County FC
 40,Tue May 2 2006,Rochdale AFC,0-2,Carlisle United FC
 46,Sat May 6 2006,Notts County FC,2-2,Bury FC
 46,Sat May 6 2006,Stockport County FC,0-0,Carlisle United FC

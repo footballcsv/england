@@ -1,26 +1,26 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 15 1992,Arsenal FC,2-4,Norwich City FC
 1,Sat Aug 15 1992,Leeds United FC,2-1,Wimbledon FC
 1,Sat Aug 15 1992,Coventry City FC,2-1,Middlesbrough FC
 1,Sat Aug 15 1992,Ipswich Town FC,1-1,Aston Villa FC
 1,Sat Aug 15 1992,Crystal Palace FC,3-3,Blackburn Rovers FC
-1,Sat Aug 15 1992,Everton FC,1-1,Sheffield Wednesday FC
+1,Sat Aug 15 1992,Southampton FC,0-0,Tottenham Hotspur FC
 1,Sat Aug 15 1992,Chelsea FC,1-1,Oldham Athletic AFC
 1,Sat Aug 15 1992,Sheffield United FC,2-1,Manchester United FC
-1,Sat Aug 15 1992,Southampton FC,0-0,Tottenham Hotspur FC
+1,Sat Aug 15 1992,Everton FC,1-1,Sheffield Wednesday FC
 1,Sun Aug 16 1992,Nottingham Forest FC,1-0,Liverpool FC
 1,Mon Aug 17 1992,Manchester City FC,1-1,Queens Park Rangers FC
 2,Tue Aug 18 1992,Blackburn Rovers FC,1-0,Arsenal FC
 2,Tue Aug 18 1992,Wimbledon FC,0-1,Ipswich Town FC
-2,Wed Aug 19 1992,Liverpool FC,2-1,Sheffield United FC
-2,Wed Aug 19 1992,Norwich City FC,2-1,Chelsea FC
-2,Wed Aug 19 1992,Queens Park Rangers FC,3-1,Southampton FC
 2,Wed Aug 19 1992,Sheffield Wednesday FC,2-0,Nottingham Forest FC
+2,Wed Aug 19 1992,Norwich City FC,2-1,Chelsea FC
+2,Wed Aug 19 1992,Manchester United FC,0-3,Everton FC
+2,Wed Aug 19 1992,Liverpool FC,2-1,Sheffield United FC
 2,Wed Aug 19 1992,Middlesbrough FC,2-0,Manchester City FC
 2,Wed Aug 19 1992,Oldham Athletic AFC,1-1,Crystal Palace FC
 2,Wed Aug 19 1992,Aston Villa FC,1-1,Leeds United FC
 2,Wed Aug 19 1992,Tottenham Hotspur FC,0-2,Coventry City FC
-2,Wed Aug 19 1992,Manchester United FC,0-3,Everton FC
+2,Wed Aug 19 1992,Queens Park Rangers FC,3-1,Southampton FC
 3,Sat Aug 22 1992,Queens Park Rangers FC,3-2,Sheffield United FC
 3,Sat Aug 22 1992,Manchester United FC,1-1,Ipswich Town FC
 3,Sat Aug 22 1992,Wimbledon FC,1-2,Coventry City FC
@@ -28,76 +28,75 @@ Matchday,Date,Team 1,FT,Team 2
 3,Sat Aug 22 1992,Tottenham Hotspur FC,2-2,Crystal Palace FC
 3,Sat Aug 22 1992,Blackburn Rovers FC,1-0,Manchester City FC
 3,Sat Aug 22 1992,Oldham Athletic AFC,5-3,Nottingham Forest FC
-3,Sat Aug 22 1992,Norwich City FC,1-1,Everton FC
-3,Sat Aug 22 1992,Middlesbrough FC,4-1,Leeds United FC
 3,Sat Aug 22 1992,Sheffield Wednesday FC,3-3,Chelsea FC
+3,Sat Aug 22 1992,Middlesbrough FC,4-1,Leeds United FC
+3,Sat Aug 22 1992,Norwich City FC,1-1,Everton FC
 3,Sun Aug 23 1992,Liverpool FC,0-2,Arsenal FC
 4,Mon Aug 24 1992,Southampton FC,0-1,Manchester United FC
-4,Tue Aug 25 1992,Leeds United FC,5-0,Tottenham Hotspur FC
 4,Tue Aug 25 1992,Crystal Palace FC,1-1,Sheffield Wednesday FC
+4,Tue Aug 25 1992,Leeds United FC,5-0,Tottenham Hotspur FC
 4,Tue Aug 25 1992,Sheffield United FC,2-2,Wimbledon FC
-4,Tue Aug 25 1992,Ipswich Town FC,2-2,Liverpool FC
 4,Tue Aug 25 1992,Everton FC,1-0,Aston Villa FC
+4,Tue Aug 25 1992,Ipswich Town FC,2-2,Liverpool FC
 4,Wed Aug 26 1992,Coventry City FC,0-1,Queens Park Rangers FC
 4,Wed Aug 26 1992,Arsenal FC,2-0,Oldham Athletic AFC
 4,Wed Aug 26 1992,Chelsea FC,0-0,Blackburn Rovers FC
 4,Wed Aug 26 1992,Manchester City FC,3-1,Norwich City FC
-5,Sat Aug 29 1992,Southampton FC,2-1,Middlesbrough FC
 5,Sat Aug 29 1992,Crystal Palace FC,1-2,Norwich City FC
-5,Sat Aug 29 1992,Everton FC,0-0,Wimbledon FC
+5,Sat Aug 29 1992,Sheffield United FC,0-2,Aston Villa FC
 5,Sat Aug 29 1992,Chelsea FC,1-0,Queens Park Rangers FC
 5,Sat Aug 29 1992,Manchester City FC,3-3,Oldham Athletic AFC
 5,Sat Aug 29 1992,Nottingham Forest FC,0-2,Manchester United FC
 5,Sat Aug 29 1992,Coventry City FC,0-2,Blackburn Rovers FC
 5,Sat Aug 29 1992,Leeds United FC,2-2,Liverpool FC
 5,Sat Aug 29 1992,Arsenal FC,2-1,Sheffield Wednesday FC
-5,Sat Aug 29 1992,Sheffield United FC,0-2,Aston Villa FC
+5,Sat Aug 29 1992,Everton FC,0-0,Wimbledon FC
+5,Sat Aug 29 1992,Southampton FC,2-1,Middlesbrough FC
 5,Sun Aug 30 1992,Ipswich Town FC,1-1,Tottenham Hotspur FC
 6,Mon Aug 31 1992,Norwich City FC,3-1,Nottingham Forest FC
-6,Tue Sep 1 1992,Middlesbrough FC,2-2,Ipswich Town FC
 6,Tue Sep 1 1992,Liverpool FC,1-1,Southampton FC
 6,Tue Sep 1 1992,Wimbledon FC,0-1,Manchester City FC
+6,Tue Sep 1 1992,Middlesbrough FC,2-2,Ipswich Town FC
 6,Tue Sep 1 1992,Oldham Athletic AFC,2-2,Leeds United FC
 6,Wed Sep 2 1992,Aston Villa FC,1-3,Chelsea FC
-6,Wed Sep 2 1992,Sheffield Wednesday FC,1-2,Coventry City FC
 6,Wed Sep 2 1992,Manchester United FC,1-0,Crystal Palace FC
 6,Wed Sep 2 1992,Tottenham Hotspur FC,2-0,Sheffield United FC
 6,Wed Sep 2 1992,Queens Park Rangers FC,0-0,Arsenal FC
-7,Sat Sep 5 1992,Middlesbrough FC,2-0,Sheffield United FC
-7,Sat Sep 5 1992,Oldham Athletic AFC,0-1,Coventry City FC
+6,Wed Sep 2 1992,Sheffield Wednesday FC,1-2,Coventry City FC
 7,Sat Sep 5 1992,Aston Villa FC,3-0,Crystal Palace FC
-7,Sat Sep 5 1992,Blackburn Rovers FC,4-1,Nottingham Forest FC
+7,Sat Sep 5 1992,Middlesbrough FC,2-0,Sheffield United FC
 7,Sat Sep 5 1992,Tottenham Hotspur FC,2-1,Everton FC
 7,Sat Sep 5 1992,Wimbledon FC,3-2,Arsenal FC
-7,Sat Sep 5 1992,Queens Park Rangers FC,0-0,Ipswich Town FC
+7,Sat Sep 5 1992,Liverpool FC,2-1,Chelsea FC
 7,Sat Sep 5 1992,Sheffield Wednesday FC,0-3,Manchester City FC
 7,Sat Sep 5 1992,Norwich City FC,1-0,Southampton FC
-7,Sat Sep 5 1992,Liverpool FC,2-1,Chelsea FC
+7,Sat Sep 5 1992,Blackburn Rovers FC,4-1,Nottingham Forest FC
+7,Sat Sep 5 1992,Oldham Athletic AFC,0-1,Coventry City FC
+7,Sat Sep 5 1992,Queens Park Rangers FC,0-0,Ipswich Town FC
 7,Sun Sep 6 1992,Manchester United FC,2-0,Leeds United FC
-8,Sat Sep 12 1992,Everton FC,0-2,Manchester United FC
-8,Sat Sep 12 1992,Sheffield United FC,1-0,Liverpool FC
 8,Sat Sep 12 1992,Nottingham Forest FC,1-2,Sheffield Wednesday FC
 8,Sat Sep 12 1992,Arsenal FC,0-1,Blackburn Rovers FC
 8,Sat Sep 12 1992,Southampton FC,1-2,Queens Park Rangers FC
 8,Sat Sep 12 1992,Chelsea FC,2-3,Norwich City FC
-8,Sat Sep 12 1992,Ipswich Town FC,2-1,Wimbledon FC
+8,Sat Sep 12 1992,Sheffield United FC,1-0,Liverpool FC
 8,Sat Sep 12 1992,Crystal Palace FC,2-2,Oldham Athletic AFC
 8,Sat Sep 12 1992,Manchester City FC,0-1,Middlesbrough FC
+8,Sat Sep 12 1992,Everton FC,0-2,Manchester United FC
+8,Sat Sep 12 1992,Ipswich Town FC,2-1,Wimbledon FC
 8,Sun Sep 13 1992,Leeds United FC,1-1,Aston Villa FC
 8,Mon Sep 14 1992,Coventry City FC,1-0,Tottenham Hotspur FC
 6,Tue Sep 15 1992,Blackburn Rovers FC,2-3,Everton FC
 9,Sat Sep 19 1992,Aston Villa FC,4-2,Liverpool FC
-9,Sat Sep 19 1992,Wimbledon FC,1-1,Blackburn Rovers FC
 9,Sat Sep 19 1992,Everton FC,0-2,Crystal Palace FC
 9,Sat Sep 19 1992,Norwich City FC,1-0,Sheffield Wednesday FC
 9,Sat Sep 19 1992,Oldham Athletic AFC,4-2,Ipswich Town FC
-9,Sat Sep 19 1992,Southampton FC,1-1,Leeds United FC
+9,Sat Sep 19 1992,Queens Park Rangers FC,3-3,Middlesbrough FC
 9,Sat Sep 19 1992,Tottenham Hotspur FC,1-1,Manchester United FC
 9,Sat Sep 19 1992,Sheffield United FC,1-1,Arsenal FC
-9,Sat Sep 19 1992,Queens Park Rangers FC,3-3,Middlesbrough FC
+9,Sat Sep 19 1992,Southampton FC,1-1,Leeds United FC
+9,Sat Sep 19 1992,Wimbledon FC,1-1,Blackburn Rovers FC
 9,Sun Sep 20 1992,Manchester City FC,0-1,Chelsea FC
 9,Mon Sep 21 1992,Nottingham Forest FC,1-1,Coventry City FC
-10,Sat Sep 26 1992,Blackburn Rovers FC,2-0,Oldham Athletic AFC
 10,Sat Sep 26 1992,Liverpool FC,2-3,Wimbledon FC
 10,Sat Sep 26 1992,Ipswich Town FC,0-0,Sheffield United FC
 10,Sat Sep 26 1992,Coventry City FC,1-1,Norwich City FC
@@ -106,9 +105,9 @@ Matchday,Date,Team 1,FT,Team 2
 10,Sat Sep 26 1992,Leeds United FC,2-0,Everton FC
 10,Sat Sep 26 1992,Middlesbrough FC,2-3,Aston Villa FC
 10,Sat Sep 26 1992,Crystal Palace FC,1-2,Southampton FC
+10,Sat Sep 26 1992,Blackburn Rovers FC,2-0,Oldham Athletic AFC
 10,Sun Sep 27 1992,Sheffield Wednesday FC,2-0,Tottenham Hotspur FC
 10,Mon Sep 28 1992,Arsenal FC,1-0,Manchester City FC
-11,Sat Oct 3 1992,Manchester City FC,2-2,Nottingham Forest FC
 11,Sat Oct 3 1992,Ipswich Town FC,4-2,Leeds United FC
 11,Sat Oct 3 1992,Wimbledon FC,2-3,Aston Villa FC
 11,Sat Oct 3 1992,Middlesbrough FC,1-1,Manchester United FC
@@ -117,80 +116,81 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sat Oct 3 1992,Coventry City FC,2-2,Crystal Palace FC
 11,Sat Oct 3 1992,Sheffield United FC,2-0,Southampton FC
 11,Sat Oct 3 1992,Blackburn Rovers FC,7-1,Norwich City FC
+11,Sat Oct 3 1992,Manchester City FC,2-2,Nottingham Forest FC
 11,Sat Oct 3 1992,Liverpool FC,1-0,Sheffield Wednesday FC
 11,Sun Oct 4 1992,Oldham Athletic AFC,1-0,Everton FC
-12,Sat Oct 17 1992,Leeds United FC,3-1,Sheffield United FC
 12,Sat Oct 17 1992,Crystal Palace FC,0-0,Manchester City FC
 12,Sat Oct 17 1992,Everton FC,1-1,Coventry City FC
 12,Sat Oct 17 1992,Nottingham Forest FC,0-1,Arsenal FC
+12,Sat Oct 17 1992,Leeds United FC,3-1,Sheffield United FC
 12,Sat Oct 17 1992,Chelsea FC,2-1,Ipswich Town FC
-12,Sat Oct 17 1992,Tottenham Hotspur FC,2-2,Middlesbrough FC
 12,Sat Oct 17 1992,Norwich City FC,2-1,Queens Park Rangers FC
 12,Sat Oct 17 1992,Southampton FC,2-2,Wimbledon FC
 12,Sat Oct 17 1992,Sheffield Wednesday FC,2-1,Oldham Athletic AFC
+12,Sat Oct 17 1992,Tottenham Hotspur FC,2-2,Middlesbrough FC
 12,Sun Oct 18 1992,Manchester United FC,2-2,Liverpool FC
 12,Mon Oct 19 1992,Aston Villa FC,0-0,Blackburn Rovers FC
 4,Wed Oct 21 1992,Nottingham Forest FC,1-0,Middlesbrough FC
 13,Sat Oct 24 1992,Middlesbrough FC,1-1,Sheffield Wednesday FC
 13,Sat Oct 24 1992,Sheffield United FC,0-0,Nottingham Forest FC
 13,Sat Oct 24 1992,Ipswich Town FC,2-2,Crystal Palace FC
-13,Sat Oct 24 1992,Manchester City FC,1-0,Southampton FC
+13,Sat Oct 24 1992,Arsenal FC,2-0,Everton FC
 13,Sat Oct 24 1992,Coventry City FC,1-2,Chelsea FC
 13,Sat Oct 24 1992,Wimbledon FC,1-1,Tottenham Hotspur FC
 13,Sat Oct 24 1992,Oldham Athletic AFC,1-1,Aston Villa FC
 13,Sat Oct 24 1992,Queens Park Rangers FC,2-1,Leeds United FC
 13,Sat Oct 24 1992,Blackburn Rovers FC,0-0,Manchester United FC
-13,Sat Oct 24 1992,Arsenal FC,2-0,Everton FC
+13,Sat Oct 24 1992,Manchester City FC,1-0,Southampton FC
 13,Sun Oct 25 1992,Liverpool FC,4-1,Norwich City FC
-14,Sat Oct 31 1992,Southampton FC,1-0,Oldham Athletic AFC
+14,Sat Oct 31 1992,Norwich City FC,1-1,Middlesbrough FC
 14,Sat Oct 31 1992,Manchester United FC,0-1,Wimbledon FC
 14,Sat Oct 31 1992,Sheffield Wednesday FC,0-0,Blackburn Rovers FC
 14,Sat Oct 31 1992,Chelsea FC,1-2,Sheffield United FC
-14,Sat Oct 31 1992,Norwich City FC,1-1,Middlesbrough FC
+14,Sat Oct 31 1992,Southampton FC,1-0,Oldham Athletic AFC
 14,Sat Oct 31 1992,Leeds United FC,2-2,Coventry City FC
 14,Sat Oct 31 1992,Nottingham Forest FC,0-1,Ipswich Town FC
 14,Sat Oct 31 1992,Tottenham Hotspur FC,2-0,Liverpool FC
 14,Sat Oct 31 1992,Everton FC,1-3,Manchester City FC
 14,Sun Nov 1 1992,Aston Villa FC,2-0,Queens Park Rangers FC
 14,Mon Nov 2 1992,Crystal Palace FC,1-2,Arsenal FC
-15,Sat Nov 7 1992,Manchester City FC,4-0,Leeds United FC
+15,Sat Nov 7 1992,Chelsea FC,3-1,Crystal Palace FC
 15,Sat Nov 7 1992,Blackburn Rovers FC,0-2,Tottenham Hotspur FC
 15,Sat Nov 7 1992,Wimbledon FC,0-2,Queens Park Rangers FC
 15,Sat Nov 7 1992,Aston Villa FC,1-0,Manchester United FC
-15,Sat Nov 7 1992,Chelsea FC,3-1,Crystal Palace FC
+15,Sat Nov 7 1992,Manchester City FC,4-0,Leeds United FC
 15,Sat Nov 7 1992,Liverpool FC,4-1,Middlesbrough FC
 15,Sat Nov 7 1992,Ipswich Town FC,0-0,Southampton FC
 15,Sat Nov 7 1992,Arsenal FC,3-0,Coventry City FC
 15,Sat Nov 7 1992,Nottingham Forest FC,0-1,Everton FC
 15,Sun Nov 8 1992,Sheffield United FC,1-1,Sheffield Wednesday FC
 15,Mon Nov 9 1992,Oldham Athletic AFC,2-3,Norwich City FC
-16,Sat Nov 21 1992,Everton FC,0-1,Chelsea FC
+16,Sat Nov 21 1992,Coventry City FC,2-3,Manchester City FC
 16,Sat Nov 21 1992,Manchester United FC,3-0,Oldham Athletic AFC
 16,Sat Nov 21 1992,Tottenham Hotspur FC,0-0,Aston Villa FC
-16,Sat Nov 21 1992,Coventry City FC,2-3,Manchester City FC
-16,Sat Nov 21 1992,Crystal Palace FC,1-1,Nottingham Forest FC
+16,Sat Nov 21 1992,Everton FC,0-1,Chelsea FC
+16,Sat Nov 21 1992,Norwich City FC,2-1,Sheffield United FC
 16,Sat Nov 21 1992,Leeds United FC,3-0,Arsenal FC
 16,Sat Nov 21 1992,Sheffield Wednesday FC,1-1,Ipswich Town FC
 16,Sat Nov 21 1992,Middlesbrough FC,2-0,Wimbledon FC
-16,Sat Nov 21 1992,Norwich City FC,2-1,Sheffield United FC
+16,Sat Nov 21 1992,Crystal Palace FC,1-1,Nottingham Forest FC
 16,Sun Nov 22 1992,Queens Park Rangers FC,0-1,Liverpool FC
 16,Sun Nov 22 1992,Southampton FC,1-1,Blackburn Rovers FC
-17,Sat Nov 28 1992,Wimbledon FC,1-1,Sheffield Wednesday FC
-17,Sat Nov 28 1992,Arsenal FC,0-1,Manchester United FC
-17,Sat Nov 28 1992,Blackburn Rovers FC,1-0,Queens Park Rangers FC
 17,Sat Nov 28 1992,Liverpool FC,5-0,Crystal Palace FC
+17,Sat Nov 28 1992,Arsenal FC,0-1,Manchester United FC
+17,Sat Nov 28 1992,Ipswich Town FC,1-0,Everton FC
+17,Sat Nov 28 1992,Wimbledon FC,1-1,Sheffield Wednesday FC
 17,Sat Nov 28 1992,Sheffield United FC,1-1,Coventry City FC
 17,Sat Nov 28 1992,Oldham Athletic AFC,4-1,Middlesbrough FC
 17,Sat Nov 28 1992,Aston Villa FC,2-3,Norwich City FC
 17,Sat Nov 28 1992,Manchester City FC,0-1,Tottenham Hotspur FC
 17,Sat Nov 28 1992,Nottingham Forest FC,1-2,Southampton FC
-17,Sat Nov 28 1992,Ipswich Town FC,1-0,Everton FC
+17,Sat Nov 28 1992,Blackburn Rovers FC,1-0,Queens Park Rangers FC
 17,Sun Nov 29 1992,Chelsea FC,1-0,Leeds United FC
-18,Sat Dec 5 1992,Queens Park Rangers FC,3-2,Oldham Athletic AFC
+18,Sat Dec 5 1992,Norwich City FC,2-1,Wimbledon FC
 18,Sat Dec 5 1992,Sheffield Wednesday FC,1-2,Aston Villa FC
 18,Sat Dec 5 1992,Tottenham Hotspur FC,1-2,Chelsea FC
 18,Sat Dec 5 1992,Coventry City FC,2-2,Ipswich Town FC
-18,Sat Dec 5 1992,Norwich City FC,2-1,Wimbledon FC
+18,Sat Dec 5 1992,Queens Park Rangers FC,3-2,Oldham Athletic AFC
 18,Sat Dec 5 1992,Leeds United FC,1-4,Nottingham Forest FC
 18,Sat Dec 5 1992,Middlesbrough FC,3-2,Blackburn Rovers FC
 18,Sat Dec 5 1992,Southampton FC,2-0,Arsenal FC
@@ -198,49 +198,46 @@ Matchday,Date,Team 1,FT,Team 2
 18,Sun Dec 6 1992,Manchester United FC,2-1,Manchester City FC
 18,Mon Dec 7 1992,Everton FC,2-1,Liverpool FC
 19,Fri Dec 11 1992,Middlesbrough FC,0-0,Chelsea FC
-19,Sat Dec 12 1992,Wimbledon FC,5-2,Oldham Athletic AFC
-19,Sat Dec 12 1992,Sheffield United FC,1-0,Everton FC
-19,Sat Dec 12 1992,Aston Villa FC,2-1,Nottingham Forest FC
 19,Sat Dec 12 1992,Manchester United FC,1-0,Norwich City FC
+19,Sat Dec 12 1992,Sheffield United FC,1-0,Everton FC
+19,Sat Dec 12 1992,Queens Park Rangers FC,1-3,Crystal Palace FC
+19,Sat Dec 12 1992,Wimbledon FC,5-2,Oldham Athletic AFC
 19,Sat Dec 12 1992,Tottenham Hotspur FC,1-0,Arsenal FC
 19,Sat Dec 12 1992,Leeds United FC,3-1,Sheffield Wednesday FC
 19,Sat Dec 12 1992,Ipswich Town FC,3-1,Manchester City FC
 19,Sat Dec 12 1992,Southampton FC,2-2,Coventry City FC
-19,Sat Dec 12 1992,Queens Park Rangers FC,1-3,Crystal Palace FC
+19,Sat Dec 12 1992,Aston Villa FC,2-1,Nottingham Forest FC
 19,Sun Dec 13 1992,Liverpool FC,2-1,Blackburn Rovers FC
-20,Sat Dec 19 1992,Blackburn Rovers FC,1-0,Sheffield United FC
+20,Sat Dec 19 1992,Sheffield Wednesday FC,1-0,Queens Park Rangers FC
 20,Sat Dec 19 1992,Manchester City FC,1-1,Aston Villa FC
 20,Sat Dec 19 1992,Coventry City FC,5-1,Liverpool FC
-20,Sat Dec 19 1992,Sheffield Wednesday FC,1-0,Queens Park Rangers FC
+20,Sat Dec 19 1992,Chelsea FC,1-1,Manchester United FC
 20,Sat Dec 19 1992,Oldham Athletic AFC,2-1,Tottenham Hotspur FC
 20,Sat Dec 19 1992,Everton FC,2-1,Southampton FC
 20,Sat Dec 19 1992,Arsenal FC,1-1,Middlesbrough FC
-20,Sat Dec 19 1992,Chelsea FC,1-1,Manchester United FC
+20,Sat Dec 19 1992,Blackburn Rovers FC,1-0,Sheffield United FC
 20,Sun Dec 20 1992,Crystal Palace FC,1-0,Leeds United FC
 20,Sun Dec 20 1992,Nottingham Forest FC,1-1,Wimbledon FC
 20,Mon Dec 21 1992,Norwich City FC,0-2,Ipswich Town FC
-21,Sat Dec 26 1992,Blackburn Rovers FC,3-1,Leeds United FC
-21,Sat Dec 26 1992,Manchester City FC,2-0,Sheffield United FC
 21,Sat Dec 26 1992,Everton FC,2-2,Middlesbrough FC
+21,Sat Dec 26 1992,Manchester City FC,2-0,Sheffield United FC
+21,Sat Dec 26 1992,Blackburn Rovers FC,3-1,Leeds United FC
 21,Sat Dec 26 1992,Norwich City FC,0-0,Tottenham Hotspur FC
 21,Sat Dec 26 1992,Crystal Palace FC,2-0,Wimbledon FC
 21,Sat Dec 26 1992,Coventry City FC,3-0,Aston Villa FC
 21,Sat Dec 26 1992,Sheffield Wednesday FC,3-3,Manchester United FC
-21,Sat Dec 26 1992,Chelsea FC,1-1,Southampton FC
 21,Sat Dec 26 1992,Arsenal FC,0-0,Ipswich Town FC
-22,Mon Dec 28 1992,Ipswich Town FC,2-1,Blackburn Rovers FC
-22,Mon Dec 28 1992,Liverpool FC,1-1,Manchester City FC
-22,Mon Dec 28 1992,Middlesbrough FC,0-1,Crystal Palace FC
+21,Sat Dec 26 1992,Chelsea FC,1-1,Southampton FC
+22,Mon Dec 28 1992,Manchester United FC,5-0,Coventry City FC
 22,Mon Dec 28 1992,Wimbledon FC,0-0,Chelsea FC
 22,Mon Dec 28 1992,Southampton FC,1-2,Sheffield Wednesday FC
 22,Mon Dec 28 1992,Aston Villa FC,1-0,Arsenal FC
 22,Mon Dec 28 1992,Tottenham Hotspur FC,2-1,Nottingham Forest FC
 22,Mon Dec 28 1992,Queens Park Rangers FC,4-2,Everton FC
 22,Mon Dec 28 1992,Leeds United FC,0-0,Norwich City FC
-22,Mon Dec 28 1992,Manchester United FC,5-0,Coventry City FC
-23,Sat Jan 9 1993,Crystal Palace FC,0-2,Everton FC
-23,Sat Jan 9 1993,Manchester United FC,4-1,Tottenham Hotspur FC
-23,Sat Jan 9 1993,Arsenal FC,1-1,Sheffield United FC
+22,Mon Dec 28 1992,Middlesbrough FC,0-1,Crystal Palace FC
+22,Mon Dec 28 1992,Liverpool FC,1-1,Manchester City FC
+22,Mon Dec 28 1992,Ipswich Town FC,2-1,Blackburn Rovers FC
 23,Sat Jan 9 1993,Ipswich Town FC,1-2,Oldham Athletic AFC
 23,Sat Jan 9 1993,Liverpool FC,1-2,Aston Villa FC
 23,Sat Jan 9 1993,Chelsea FC,2-4,Manchester City FC
@@ -248,216 +245,219 @@ Matchday,Date,Team 1,FT,Team 2
 23,Sat Jan 9 1993,Leeds United FC,2-1,Southampton FC
 23,Sat Jan 9 1993,Blackburn Rovers FC,0-0,Wimbledon FC
 23,Sat Jan 9 1993,Middlesbrough FC,0-1,Queens Park Rangers FC
+23,Sat Jan 9 1993,Arsenal FC,1-1,Sheffield United FC
+23,Sat Jan 9 1993,Crystal Palace FC,0-2,Everton FC
+23,Sat Jan 9 1993,Manchester United FC,4-1,Tottenham Hotspur FC
 23,Sun Jan 10 1993,Sheffield Wednesday FC,1-0,Norwich City FC
-24,Sat Jan 16 1993,Norwich City FC,1-1,Coventry City FC
-24,Sat Jan 16 1993,Nottingham Forest FC,3-0,Chelsea FC
-24,Sat Jan 16 1993,Wimbledon FC,2-0,Liverpool FC
 24,Sat Jan 16 1993,Southampton FC,1-0,Crystal Palace FC
 24,Sat Jan 16 1993,Tottenham Hotspur FC,0-2,Sheffield Wednesday FC
 24,Sat Jan 16 1993,Manchester City FC,0-1,Arsenal FC
-24,Sat Jan 16 1993,Everton FC,2-0,Leeds United FC
-24,Sat Jan 16 1993,Oldham Athletic AFC,0-1,Blackburn Rovers FC
 24,Sat Jan 16 1993,Sheffield United FC,3-0,Ipswich Town FC
+24,Sat Jan 16 1993,Oldham Athletic AFC,0-1,Blackburn Rovers FC
+24,Sat Jan 16 1993,Everton FC,2-0,Leeds United FC
+24,Sat Jan 16 1993,Wimbledon FC,2-0,Liverpool FC
+24,Sat Jan 16 1993,Nottingham Forest FC,3-0,Chelsea FC
+24,Sat Jan 16 1993,Norwich City FC,1-1,Coventry City FC
 24,Sun Jan 17 1993,Aston Villa FC,5-1,Middlesbrough FC
 24,Mon Jan 18 1993,Queens Park Rangers FC,1-3,Manchester United FC
 28,Sat Jan 23 1993,Coventry City FC,3-0,Oldham Athletic AFC
 25,Tue Jan 26 1993,Wimbledon FC,1-3,Everton FC
+25,Tue Jan 26 1993,Blackburn Rovers FC,2-5,Coventry City FC
 25,Tue Jan 26 1993,Middlesbrough FC,2-1,Southampton FC
 25,Tue Jan 26 1993,Oldham Athletic AFC,0-1,Manchester City FC
-25,Tue Jan 26 1993,Blackburn Rovers FC,2-5,Coventry City FC
-25,Wed Jan 27 1993,Queens Park Rangers FC,1-1,Chelsea FC
-25,Wed Jan 27 1993,Manchester United FC,2-0,Nottingham Forest FC
-25,Wed Jan 27 1993,Tottenham Hotspur FC,0-2,Ipswich Town FC
-25,Wed Jan 27 1993,Aston Villa FC,3-1,Sheffield United FC
 25,Wed Jan 27 1993,Norwich City FC,4-2,Crystal Palace FC
-26,Sat Jan 30 1993,Sheffield United FC,1-2,Queens Park Rangers FC
-26,Sat Jan 30 1993,Southampton FC,2-0,Aston Villa FC
-26,Sat Jan 30 1993,Nottingham Forest FC,2-0,Oldham Athletic AFC
-26,Sat Jan 30 1993,Leeds United FC,3-0,Middlesbrough FC
+25,Wed Jan 27 1993,Manchester United FC,2-0,Nottingham Forest FC
+25,Wed Jan 27 1993,Aston Villa FC,3-1,Sheffield United FC
+25,Wed Jan 27 1993,Tottenham Hotspur FC,0-2,Ipswich Town FC
+25,Wed Jan 27 1993,Queens Park Rangers FC,1-1,Chelsea FC
 26,Sat Jan 30 1993,Coventry City FC,0-2,Wimbledon FC
+26,Sat Jan 30 1993,Leeds United FC,3-0,Middlesbrough FC
+26,Sat Jan 30 1993,Nottingham Forest FC,2-0,Oldham Athletic AFC
+26,Sat Jan 30 1993,Sheffield United FC,1-2,Queens Park Rangers FC
+26,Sat Jan 30 1993,Ipswich Town FC,2-1,Manchester United FC
 26,Sat Jan 30 1993,Chelsea FC,0-2,Sheffield Wednesday FC
+26,Sat Jan 30 1993,Southampton FC,2-0,Aston Villa FC
+26,Sat Jan 30 1993,Crystal Palace FC,1-3,Tottenham Hotspur FC
 26,Sat Jan 30 1993,Everton FC,0-1,Norwich City FC
 26,Sat Jan 30 1993,Manchester City FC,3-2,Blackburn Rovers FC
-26,Sat Jan 30 1993,Ipswich Town FC,2-1,Manchester United FC
-26,Sat Jan 30 1993,Crystal Palace FC,1-3,Tottenham Hotspur FC
 26,Sun Jan 31 1993,Arsenal FC,0-1,Liverpool FC
 27,Tue Feb 2 1993,Blackburn Rovers FC,1-2,Crystal Palace FC
 27,Sat Feb 6 1993,Queens Park Rangers FC,1-1,Manchester City FC
-27,Sat Feb 6 1993,Oldham Athletic AFC,3-1,Chelsea FC
-27,Sat Feb 6 1993,Aston Villa FC,2-0,Ipswich Town FC
 27,Sat Feb 6 1993,Liverpool FC,0-0,Nottingham Forest FC
 27,Sat Feb 6 1993,Middlesbrough FC,0-2,Coventry City FC
 27,Sat Feb 6 1993,Sheffield Wednesday FC,3-1,Everton FC
-27,Sat Feb 6 1993,Wimbledon FC,1-0,Leeds United FC
 27,Sat Feb 6 1993,Manchester United FC,2-1,Sheffield United FC
+27,Sat Feb 6 1993,Aston Villa FC,2-0,Ipswich Town FC
+27,Sat Feb 6 1993,Oldham Athletic AFC,3-1,Chelsea FC
+27,Sat Feb 6 1993,Wimbledon FC,1-0,Leeds United FC
 27,Sun Feb 7 1993,Tottenham Hotspur FC,4-2,Southampton FC
 28,Mon Feb 8 1993,Leeds United FC,0-0,Manchester United FC
-28,Tue Feb 9 1993,Sheffield United FC,2-0,Middlesbrough FC
 28,Tue Feb 9 1993,Ipswich Town FC,1-1,Queens Park Rangers FC
-28,Wed Feb 10 1993,Everton FC,1-2,Tottenham Hotspur FC
-28,Wed Feb 10 1993,Crystal Palace FC,1-0,Aston Villa FC
-28,Wed Feb 10 1993,Southampton FC,3-0,Norwich City FC
-28,Wed Feb 10 1993,Chelsea FC,0-0,Liverpool FC
+28,Tue Feb 9 1993,Sheffield United FC,2-0,Middlesbrough FC
 28,Wed Feb 10 1993,Arsenal FC,0-1,Wimbledon FC
+28,Wed Feb 10 1993,Southampton FC,3-0,Norwich City FC
+28,Wed Feb 10 1993,Everton FC,1-2,Tottenham Hotspur FC
+28,Wed Feb 10 1993,Chelsea FC,0-0,Liverpool FC
+28,Wed Feb 10 1993,Crystal Palace FC,1-0,Aston Villa FC
 29,Sat Feb 13 1993,Chelsea FC,0-1,Aston Villa FC
 29,Sat Feb 13 1993,Southampton FC,2-1,Liverpool FC
 29,Sat Feb 13 1993,Leeds United FC,2-0,Oldham Athletic AFC
-30,Sat Feb 20 1993,Middlesbrough FC,1-2,Nottingham Forest FC
-30,Sat Feb 20 1993,Wimbledon FC,2-0,Sheffield United FC
-30,Sat Feb 20 1993,Liverpool FC,0-0,Ipswich Town FC
-30,Sat Feb 20 1993,Queens Park Rangers FC,2-0,Coventry City FC
 30,Sat Feb 20 1993,Manchester United FC,2-1,Southampton FC
-30,Sat Feb 20 1993,Norwich City FC,2-1,Manchester City FC
-30,Sat Feb 20 1993,Oldham Athletic AFC,0-1,Arsenal FC
+30,Sat Feb 20 1993,Middlesbrough FC,1-2,Nottingham Forest FC
 30,Sat Feb 20 1993,Tottenham Hotspur FC,4-0,Leeds United FC
-30,Sat Feb 20 1993,Sheffield Wednesday FC,2-1,Crystal Palace FC
+30,Sat Feb 20 1993,Liverpool FC,0-0,Ipswich Town FC
+30,Sat Feb 20 1993,Wimbledon FC,2-0,Sheffield United FC
+30,Sat Feb 20 1993,Queens Park Rangers FC,2-0,Coventry City FC
+30,Sat Feb 20 1993,Norwich City FC,2-1,Manchester City FC
 30,Sat Feb 20 1993,Aston Villa FC,2-1,Everton FC
+30,Sat Feb 20 1993,Sheffield Wednesday FC,2-1,Crystal Palace FC
+30,Sat Feb 20 1993,Oldham Athletic AFC,0-1,Arsenal FC
 30,Sun Feb 21 1993,Blackburn Rovers FC,2-0,Chelsea FC
 22,Mon Feb 22 1993,Sheffield United FC,2-0,Oldham Athletic AFC
 28,Tue Feb 23 1993,Manchester City FC,1-2,Sheffield Wednesday FC
 21,Wed Feb 24 1993,Nottingham Forest FC,1-0,Queens Park Rangers FC
 33,Wed Feb 24 1993,Arsenal FC,0-0,Leeds United FC
-31,Sat Feb 27 1993,Leeds United FC,1-0,Ipswich Town FC
-31,Sat Feb 27 1993,Everton FC,2-2,Oldham Athletic AFC
-31,Sat Feb 27 1993,Tottenham Hotspur FC,3-2,Queens Park Rangers FC
-31,Sat Feb 27 1993,Aston Villa FC,1-0,Wimbledon FC
-31,Sat Feb 27 1993,Manchester United FC,3-0,Middlesbrough FC
-31,Sat Feb 27 1993,Crystal Palace FC,0-0,Coventry City FC
-31,Sat Feb 27 1993,Nottingham Forest FC,0-2,Manchester City FC
 31,Sat Feb 27 1993,Southampton FC,3-2,Sheffield United FC
 31,Sat Feb 27 1993,Sheffield Wednesday FC,1-1,Liverpool FC
+31,Sat Feb 27 1993,Nottingham Forest FC,0-2,Manchester City FC
+31,Sat Feb 27 1993,Crystal Palace FC,0-0,Coventry City FC
+31,Sat Feb 27 1993,Tottenham Hotspur FC,3-2,Queens Park Rangers FC
+31,Sat Feb 27 1993,Everton FC,2-2,Oldham Athletic AFC
+31,Sat Feb 27 1993,Leeds United FC,1-0,Ipswich Town FC
+31,Sat Feb 27 1993,Aston Villa FC,1-0,Wimbledon FC
+31,Sat Feb 27 1993,Manchester United FC,3-0,Middlesbrough FC
 31,Sun Feb 28 1993,Norwich City FC,0-0,Blackburn Rovers FC
 31,Mon Mar 1 1993,Chelsea FC,1-0,Arsenal FC
-29,Tue Mar 2 1993,Ipswich Town FC,0-1,Middlesbrough FC
 29,Tue Mar 2 1993,Sheffield United FC,6-0,Tottenham Hotspur FC
-33,Wed Mar 3 1993,Nottingham Forest FC,1-1,Crystal Palace FC
+29,Tue Mar 2 1993,Ipswich Town FC,0-1,Middlesbrough FC
 27,Wed Mar 3 1993,Norwich City FC,1-1,Arsenal FC
 29,Wed Mar 3 1993,Coventry City FC,1-0,Sheffield Wednesday FC
 29,Wed Mar 3 1993,Everton FC,2-1,Blackburn Rovers FC
-32,Sat Mar 6 1993,Wimbledon FC,1-2,Southampton FC
-32,Sat Mar 6 1993,Queens Park Rangers FC,3-1,Norwich City FC
+33,Wed Mar 3 1993,Nottingham Forest FC,1-1,Crystal Palace FC
 32,Sat Mar 6 1993,Liverpool FC,1-2,Manchester United FC
+32,Sat Mar 6 1993,Queens Park Rangers FC,3-1,Norwich City FC
+32,Sat Mar 6 1993,Wimbledon FC,1-2,Southampton FC
 32,Sun Mar 7 1993,Coventry City FC,0-1,Everton FC
+33,Tue Mar 9 1993,Wimbledon FC,2-0,Middlesbrough FC
 33,Tue Mar 9 1993,Blackburn Rovers FC,0-0,Southampton FC
 33,Tue Mar 9 1993,Oldham Athletic AFC,1-0,Manchester United FC
-33,Tue Mar 9 1993,Wimbledon FC,2-0,Middlesbrough FC
 33,Wed Mar 10 1993,Ipswich Town FC,0-1,Sheffield Wednesday FC
-33,Wed Mar 10 1993,Sheffield United FC,0-1,Norwich City FC
-33,Wed Mar 10 1993,Chelsea FC,2-1,Everton FC
-33,Wed Mar 10 1993,Aston Villa FC,0-0,Tottenham Hotspur FC
 33,Wed Mar 10 1993,Liverpool FC,1-0,Queens Park Rangers FC
 33,Wed Mar 10 1993,Manchester City FC,1-0,Coventry City FC
-34,Sat Mar 13 1993,Middlesbrough FC,1-2,Liverpool FC
-34,Sat Mar 13 1993,Coventry City FC,0-2,Arsenal FC
-34,Sat Mar 13 1993,Leeds United FC,1-0,Manchester City FC
-34,Sat Mar 13 1993,Queens Park Rangers FC,1-2,Wimbledon FC
-34,Sat Mar 13 1993,Norwich City FC,1-0,Oldham Athletic AFC
+33,Wed Mar 10 1993,Aston Villa FC,0-0,Tottenham Hotspur FC
+33,Wed Mar 10 1993,Chelsea FC,2-1,Everton FC
+33,Wed Mar 10 1993,Sheffield United FC,0-1,Norwich City FC
 34,Sat Mar 13 1993,Southampton FC,4-3,Ipswich Town FC
+34,Sat Mar 13 1993,Leeds United FC,1-0,Manchester City FC
+34,Sat Mar 13 1993,Coventry City FC,0-2,Arsenal FC
+34,Sat Mar 13 1993,Middlesbrough FC,1-2,Liverpool FC
+34,Sat Mar 13 1993,Norwich City FC,1-0,Oldham Athletic AFC
 34,Sat Mar 13 1993,Everton FC,3-0,Nottingham Forest FC
+34,Sat Mar 13 1993,Queens Park Rangers FC,1-2,Wimbledon FC
 34,Sun Mar 14 1993,Manchester United FC,1-1,Aston Villa FC
 34,Mon Mar 15 1993,Crystal Palace FC,1-1,Chelsea FC
 29,Wed Mar 17 1993,Nottingham Forest FC,0-3,Norwich City FC
-35,Sat Mar 20 1993,Wimbledon FC,3-0,Norwich City FC
-35,Sat Mar 20 1993,Blackburn Rovers FC,1-1,Middlesbrough FC
-35,Sat Mar 20 1993,Manchester City FC,1-1,Manchester United FC
 35,Sat Mar 20 1993,Chelsea FC,1-1,Tottenham Hotspur FC
+35,Sat Mar 20 1993,Manchester City FC,1-1,Manchester United FC
+35,Sat Mar 20 1993,Liverpool FC,1-0,Everton FC
+35,Sat Mar 20 1993,Blackburn Rovers FC,1-1,Middlesbrough FC
+35,Sat Mar 20 1993,Sheffield United FC,0-1,Crystal Palace FC
 35,Sat Mar 20 1993,Ipswich Town FC,0-0,Coventry City FC
 35,Sat Mar 20 1993,Oldham Athletic AFC,2-2,Queens Park Rangers FC
 35,Sat Mar 20 1993,Arsenal FC,4-3,Southampton FC
-35,Sat Mar 20 1993,Liverpool FC,1-0,Everton FC
+35,Sat Mar 20 1993,Wimbledon FC,3-0,Norwich City FC
 35,Sat Mar 20 1993,Aston Villa FC,2-0,Sheffield Wednesday FC
-35,Sat Mar 20 1993,Sheffield United FC,0-1,Crystal Palace FC
 35,Sun Mar 21 1993,Nottingham Forest FC,1-1,Leeds United FC
 36,Mon Mar 22 1993,Middlesbrough FC,2-3,Oldham Athletic AFC
 36,Tue Mar 23 1993,Crystal Palace FC,1-1,Liverpool FC
+36,Wed Mar 24 1993,Norwich City FC,1-0,Aston Villa FC
+36,Wed Mar 24 1993,Leeds United FC,1-1,Chelsea FC
 36,Wed Mar 24 1993,Tottenham Hotspur FC,3-1,Manchester City FC
 36,Wed Mar 24 1993,Coventry City FC,1-3,Sheffield United FC
 36,Wed Mar 24 1993,Queens Park Rangers FC,0-3,Blackburn Rovers FC
 36,Wed Mar 24 1993,Sheffield Wednesday FC,1-1,Wimbledon FC
 36,Wed Mar 24 1993,Everton FC,3-0,Ipswich Town FC
-36,Wed Mar 24 1993,Leeds United FC,1-1,Chelsea FC
 36,Wed Mar 24 1993,Manchester United FC,0-0,Arsenal FC
 36,Wed Mar 24 1993,Southampton FC,1-2,Nottingham Forest FC
-36,Wed Mar 24 1993,Norwich City FC,1-0,Aston Villa FC
 37,Sat Apr 3 1993,Oldham Athletic AFC,6-2,Wimbledon FC
+37,Sat Apr 3 1993,Manchester City FC,3-1,Ipswich Town FC
 37,Sat Apr 3 1993,Chelsea FC,4-0,Middlesbrough FC
 37,Sat Apr 3 1993,Blackburn Rovers FC,4-1,Liverpool FC
 37,Sat Apr 3 1993,Crystal Palace FC,1-1,Queens Park Rangers FC
-37,Sat Apr 3 1993,Manchester City FC,3-1,Ipswich Town FC
 37,Sat Apr 3 1993,Coventry City FC,2-0,Southampton FC
 37,Sun Apr 4 1993,Nottingham Forest FC,0-1,Aston Villa FC
 37,Mon Apr 5 1993,Norwich City FC,1-3,Manchester United FC
+32,Tue Apr 6 1993,Ipswich Town FC,1-1,Chelsea FC
 32,Tue Apr 6 1993,Sheffield United FC,2-1,Leeds United FC
 40,Tue Apr 6 1993,Middlesbrough FC,1-0,Arsenal FC
-32,Tue Apr 6 1993,Ipswich Town FC,1-1,Chelsea FC
 28,Wed Apr 7 1993,Nottingham Forest FC,1-3,Blackburn Rovers FC
 32,Wed Apr 7 1993,Oldham Athletic AFC,1-1,Sheffield Wednesday FC
-38,Fri Apr 9 1993,Wimbledon FC,4-0,Crystal Palace FC
-38,Fri Apr 9 1993,Tottenham Hotspur FC,5-1,Norwich City FC
 38,Fri Apr 9 1993,Sheffield United FC,1-1,Manchester City FC
+38,Fri Apr 9 1993,Tottenham Hotspur FC,5-1,Norwich City FC
+38,Fri Apr 9 1993,Wimbledon FC,4-0,Crystal Palace FC
 38,Sat Apr 10 1993,Aston Villa FC,0-0,Coventry City FC
 38,Sat Apr 10 1993,Liverpool FC,1-0,Oldham Athletic AFC
-38,Sat Apr 10 1993,Southampton FC,1-0,Chelsea FC
 38,Sat Apr 10 1993,Queens Park Rangers FC,4-3,Nottingham Forest FC
-38,Sat Apr 10 1993,Ipswich Town FC,1-2,Arsenal FC
+38,Sat Apr 10 1993,Leeds United FC,5-2,Blackburn Rovers FC
+38,Sat Apr 10 1993,Southampton FC,1-0,Chelsea FC
 38,Sat Apr 10 1993,Manchester United FC,2-1,Sheffield Wednesday FC
 38,Sat Apr 10 1993,Middlesbrough FC,1-2,Everton FC
-38,Sat Apr 10 1993,Leeds United FC,5-2,Blackburn Rovers FC
+38,Sat Apr 10 1993,Ipswich Town FC,1-2,Arsenal FC
 39,Mon Apr 12 1993,Coventry City FC,0-1,Manchester United FC
-39,Mon Apr 12 1993,Everton FC,3-5,Queens Park Rangers FC
-39,Mon Apr 12 1993,Blackburn Rovers FC,2-1,Ipswich Town FC
-39,Mon Apr 12 1993,Sheffield Wednesday FC,5-2,Southampton FC
 39,Mon Apr 12 1993,Crystal Palace FC,4-1,Middlesbrough FC
-39,Mon Apr 12 1993,Manchester City FC,1-1,Liverpool FC
+39,Mon Apr 12 1993,Nottingham Forest FC,2-1,Tottenham Hotspur FC
 39,Mon Apr 12 1993,Chelsea FC,4-2,Wimbledon FC
 39,Mon Apr 12 1993,Arsenal FC,0-1,Aston Villa FC
-39,Mon Apr 12 1993,Nottingham Forest FC,2-1,Tottenham Hotspur FC
+39,Mon Apr 12 1993,Manchester City FC,1-1,Liverpool FC
+39,Mon Apr 12 1993,Everton FC,3-5,Queens Park Rangers FC
+39,Mon Apr 12 1993,Sheffield Wednesday FC,5-2,Southampton FC
+39,Mon Apr 12 1993,Blackburn Rovers FC,2-1,Ipswich Town FC
 39,Wed Apr 14 1993,Oldham Athletic AFC,1-1,Sheffield United FC
 39,Wed Apr 14 1993,Norwich City FC,4-2,Leeds United FC
-40,Sat Apr 17 1993,Wimbledon FC,1-0,Nottingham Forest FC
 40,Sat Apr 17 1993,Liverpool FC,4-0,Coventry City FC
-40,Sat Apr 17 1993,Manchester United FC,3-0,Chelsea FC
-40,Sat Apr 17 1993,Tottenham Hotspur FC,4-1,Oldham Athletic AFC
 40,Sat Apr 17 1993,Southampton FC,0-0,Everton FC
 40,Sat Apr 17 1993,Leeds United FC,0-0,Crystal Palace FC
 40,Sat Apr 17 1993,Sheffield United FC,1-3,Blackburn Rovers FC
+40,Sat Apr 17 1993,Tottenham Hotspur FC,4-1,Oldham Athletic AFC
+40,Sat Apr 17 1993,Manchester United FC,3-0,Chelsea FC
+40,Sat Apr 17 1993,Wimbledon FC,1-0,Nottingham Forest FC
 40,Sun Apr 18 1993,Aston Villa FC,3-1,Manchester City FC
 40,Mon Apr 19 1993,Ipswich Town FC,3-1,Norwich City FC
 32,Tue Apr 20 1993,Middlesbrough FC,3-0,Tottenham Hotspur FC
-29,Wed Apr 21 1993,Crystal Palace FC,0-2,Manchester United FC
-32,Wed Apr 21 1993,Arsenal FC,1-1,Nottingham Forest FC
 25,Wed Apr 21 1993,Liverpool FC,2-0,Leeds United FC
 29,Wed Apr 21 1993,Manchester City FC,1-1,Wimbledon FC
+29,Wed Apr 21 1993,Crystal Palace FC,0-2,Manchester United FC
 32,Wed Apr 21 1993,Blackburn Rovers FC,3-0,Aston Villa FC
+32,Wed Apr 21 1993,Arsenal FC,1-1,Nottingham Forest FC
 34,Wed Apr 21 1993,Sheffield Wednesday FC,1-1,Sheffield United FC
-41,Sat May 1 1993,Norwich City FC,1-0,Liverpool FC
-41,Sat May 1 1993,Everton FC,0-0,Arsenal FC
-41,Sat May 1 1993,Chelsea FC,2-1,Coventry City FC
-41,Sat May 1 1993,Nottingham Forest FC,0-2,Sheffield United FC
+41,Sat May 1 1993,Leeds United FC,1-1,Queens Park Rangers FC
+41,Sat May 1 1993,Sheffield Wednesday FC,2-3,Middlesbrough FC
 41,Sat May 1 1993,Southampton FC,0-1,Manchester City FC
 41,Sat May 1 1993,Tottenham Hotspur FC,1-1,Wimbledon FC
-41,Sat May 1 1993,Sheffield Wednesday FC,2-3,Middlesbrough FC
-41,Sat May 1 1993,Leeds United FC,1-1,Queens Park Rangers FC
 41,Sat May 1 1993,Crystal Palace FC,3-1,Ipswich Town FC
+41,Sat May 1 1993,Nottingham Forest FC,0-2,Sheffield United FC
+41,Sat May 1 1993,Norwich City FC,1-0,Liverpool FC
+41,Sat May 1 1993,Chelsea FC,2-1,Coventry City FC
+41,Sat May 1 1993,Everton FC,0-0,Arsenal FC
 41,Sun May 2 1993,Aston Villa FC,0-1,Oldham Athletic AFC
 41,Mon May 3 1993,Manchester United FC,3-1,Blackburn Rovers FC
+29,Tue May 4 1993,Arsenal FC,0-0,Queens Park Rangers FC
 37,Tue May 4 1993,Sheffield Wednesday FC,1-1,Leeds United FC
 37,Tue May 4 1993,Everton FC,0-2,Sheffield United FC
-29,Tue May 4 1993,Arsenal FC,0-0,Queens Park Rangers FC
 21,Wed May 5 1993,Oldham Athletic AFC,3-2,Liverpool FC
-34,Wed May 5 1993,Tottenham Hotspur FC,1-2,Blackburn Rovers FC
 32,Wed May 5 1993,Manchester City FC,0-0,Crystal Palace FC
+34,Wed May 5 1993,Tottenham Hotspur FC,1-2,Blackburn Rovers FC
 25,Thu May 6 1993,Sheffield Wednesday FC,1-0,Arsenal FC
-42,Sat May 8 1993,Oldham Athletic AFC,4-3,Southampton FC
-42,Sat May 8 1993,Liverpool FC,6-2,Tottenham Hotspur FC
 42,Sat May 8 1993,Manchester City FC,2-5,Everton FC
-42,Sat May 8 1993,Blackburn Rovers FC,1-0,Sheffield Wednesday FC
+42,Sat May 8 1993,Oldham Athletic AFC,4-3,Southampton FC
 42,Sat May 8 1993,Coventry City FC,3-3,Leeds United FC
-42,Sat May 8 1993,Ipswich Town FC,2-1,Nottingham Forest FC
+42,Sat May 8 1993,Liverpool FC,6-2,Tottenham Hotspur FC
 42,Sat May 8 1993,Middlesbrough FC,3-3,Norwich City FC
 42,Sat May 8 1993,Sheffield United FC,4-2,Chelsea FC
+42,Sat May 8 1993,Ipswich Town FC,2-1,Nottingham Forest FC
+42,Sat May 8 1993,Blackburn Rovers FC,1-0,Sheffield Wednesday FC
 42,Sat May 8 1993,Arsenal FC,3-0,Crystal Palace FC
 42,Sun May 9 1993,Wimbledon FC,1-2,Manchester United FC
 42,Sun May 9 1993,Queens Park Rangers FC,2-1,Aston Villa FC
-40,Tue May 11 1993,Queens Park Rangers FC,3-1,Sheffield Wednesday FC
 37,Tue May 11 1993,Arsenal FC,1-3,Tottenham Hotspur FC
+40,Tue May 11 1993,Queens Park Rangers FC,3-1,Sheffield Wednesday FC

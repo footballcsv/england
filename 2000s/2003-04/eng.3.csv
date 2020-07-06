@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Fri Aug 8 2003,Wycombe Wanderers FC,1-0,Stockport County FC
 1,Fri Aug 8 2003,Wrexham AFC,0-0,Chesterfield FC
 1,Fri Aug 8 2003,Tranmere Rovers FC,4-1,Brentford FC
@@ -16,19 +16,19 @@ Matchday,Date,Team 1,FT,Team 2
 2,Fri Aug 15 2003,Sheffield Wednesday FC,2-2,Oldham Athletic AFC
 2,Fri Aug 15 2003,Rushden & Diamonds (1992-2011),2-1,Plymouth Argyle FC
 2,Fri Aug 15 2003,Notts County FC,0-1,Wrexham AFC
-2,Fri Aug 15 2003,Blackpool FC,3-2,Wycombe Wanderers FC
+2,Fri Aug 15 2003,Hartlepool United FC,0-0,Tranmere Rovers FC
 2,Fri Aug 15 2003,Grimsby Town FC,1-2,Port Vale FC
 2,Fri Aug 15 2003,Chesterfield FC,1-1,Bristol City FC
 2,Fri Aug 15 2003,Brentford FC,0-3,Peterborough United FC
 2,Fri Aug 15 2003,AFC Bournemouth,2-2,Barnsley FC
-2,Fri Aug 15 2003,Hartlepool United FC,0-0,Tranmere Rovers FC
+2,Fri Aug 15 2003,Blackpool FC,3-2,Wycombe Wanderers FC
 2,Mon Aug 18 2003,Brighton & Hove Albion FC,2-1,Queens Park Rangers FC
-3,Fri Aug 22 2003,Port Vale FC,4-3,Colchester United FC
+3,Fri Aug 22 2003,Wycombe Wanderers FC,3-3,Chesterfield FC
 3,Fri Aug 22 2003,Wrexham AFC,1-0,Brentford FC
 3,Fri Aug 22 2003,Tranmere Rovers FC,1-2,Rushden & Diamonds (1992-2011)
 3,Fri Aug 22 2003,Swindon Town FC,4-0,Notts County FC
 3,Fri Aug 22 2003,Queens Park Rangers FC,1-0,AFC Bournemouth
-3,Fri Aug 22 2003,Wycombe Wanderers FC,3-3,Chesterfield FC
+3,Fri Aug 22 2003,Port Vale FC,4-3,Colchester United FC
 3,Fri Aug 22 2003,Plymouth Argyle FC,3-1,Stockport County FC
 3,Fri Aug 22 2003,Peterborough United FC,0-1,Sheffield Wednesday FC
 3,Fri Aug 22 2003,Oldham Athletic AFC,2-3,Blackpool FC
@@ -52,25 +52,24 @@ Matchday,Date,Team 1,FT,Team 2
 5,Fri Aug 29 2003,Swindon Town FC,2-2,Blackpool FC
 5,Fri Aug 29 2003,Queens Park Rangers FC,3-0,Chesterfield FC
 5,Fri Aug 29 2003,Port Vale FC,1-0,Brentford FC
-5,Fri Aug 29 2003,Barnsley FC,1-1,Notts County FC
+5,Fri Aug 29 2003,Plymouth Argyle FC,3-3,Brighton & Hove Albion FC
 5,Fri Aug 29 2003,Peterborough United FC,1-2,Stockport County FC
 5,Fri Aug 29 2003,Oldham Athletic AFC,3-2,Rushden & Diamonds (1992-2011)
 5,Fri Aug 29 2003,Luton Town FC,3-2,Hartlepool United FC
 5,Fri Aug 29 2003,Bristol City FC,1-0,Grimsby Town FC
-5,Fri Aug 29 2003,Plymouth Argyle FC,3-3,Brighton & Hove Albion FC
+5,Fri Aug 29 2003,Barnsley FC,1-1,Notts County FC
 5,Mon Sep 1 2003,Wycombe Wanderers FC,1-2,Sheffield Wednesday FC
-6,Fri Sep 5 2003,Stockport County FC,2-2,Port Vale FC
+6,Fri Sep 5 2003,AFC Bournemouth,0-0,Bristol City FC
 6,Fri Sep 5 2003,Sheffield Wednesday FC,2-0,Tranmere Rovers FC
 6,Fri Sep 5 2003,Rushden & Diamonds (1992-2011),2-0,Wycombe Wanderers FC
 6,Fri Sep 5 2003,Notts County FC,1-1,Luton Town FC
-6,Fri Sep 5 2003,AFC Bournemouth,0-0,Bristol City FC
+6,Fri Sep 5 2003,Stockport County FC,2-2,Port Vale FC
 6,Fri Sep 5 2003,Grimsby Town FC,1-1,Peterborough United FC
 6,Fri Sep 5 2003,Colchester United FC,2-2,Queens Park Rangers FC
 6,Fri Sep 5 2003,Chesterfield FC,0-2,Barnsley FC
 6,Fri Sep 5 2003,Brighton & Hove Albion FC,2-2,Swindon Town FC
 6,Fri Sep 5 2003,Brentford FC,1-3,Plymouth Argyle FC
 6,Fri Sep 5 2003,Hartlepool United FC,0-0,Oldham Athletic AFC
-7,Fri Sep 12 2003,Hartlepool United FC,8-1,Grimsby Town FC
 7,Fri Sep 12 2003,Blackpool FC,1-2,AFC Bournemouth
 7,Fri Sep 12 2003,Tranmere Rovers FC,0-0,Peterborough United FC
 7,Fri Sep 12 2003,Swindon Town FC,1-0,Wrexham AFC
@@ -82,31 +81,31 @@ Matchday,Date,Team 1,FT,Team 2
 7,Fri Sep 12 2003,Oldham Athletic AFC,1-1,Bristol City FC
 7,Fri Sep 12 2003,Colchester United FC,1-0,Brighton & Hove Albion FC
 7,Fri Sep 12 2003,Chesterfield FC,0-1,Notts County FC
-8,Tue Sep 16 2003,Notts County FC,1-3,Rushden & Diamonds (1992-2011)
+7,Fri Sep 12 2003,Hartlepool United FC,8-1,Grimsby Town FC
 8,Tue Sep 16 2003,Wycombe Wanderers FC,1-2,Colchester United FC
 8,Tue Sep 16 2003,Wrexham AFC,0-2,Queens Park Rangers FC
 8,Tue Sep 16 2003,Stockport County FC,1-2,Hartlepool United FC
 8,Tue Sep 16 2003,Peterborough United FC,2-2,Plymouth Argyle FC
-8,Tue Sep 16 2003,Barnsley FC,1-1,Oldham Athletic AFC
+8,Tue Sep 16 2003,Notts County FC,1-3,Rushden & Diamonds (1992-2011)
 8,Tue Sep 16 2003,Luton Town FC,2-0,Port Vale FC
 8,Tue Sep 16 2003,Grimsby Town FC,1-2,Swindon Town FC
 8,Tue Sep 16 2003,Bristol City FC,2-0,Tranmere Rovers FC
 8,Tue Sep 16 2003,Brighton & Hove Albion FC,1-0,Chesterfield FC
 8,Tue Sep 16 2003,Brentford FC,0-0,Blackpool FC
 8,Tue Sep 16 2003,AFC Bournemouth,1-0,Sheffield Wednesday FC
-9,Fri Sep 19 2003,AFC Bournemouth,2-1,Rushden & Diamonds (1992-2011)
+8,Tue Sep 16 2003,Barnsley FC,1-1,Oldham Athletic AFC
 9,Fri Sep 19 2003,Wycombe Wanderers FC,2-5,Oldham Athletic AFC
 9,Fri Sep 19 2003,Wrexham AFC,2-2,Plymouth Argyle FC
 9,Fri Sep 19 2003,Stockport County FC,1-3,Blackpool FC
 9,Fri Sep 19 2003,Peterborough United FC,1-2,Colchester United FC
 9,Fri Sep 19 2003,Notts County FC,2-2,Tranmere Rovers FC
-9,Fri Sep 19 2003,Luton Town FC,1-1,Queens Park Rangers FC
+9,Fri Sep 19 2003,Barnsley FC,1-1,Swindon Town FC
 9,Fri Sep 19 2003,Grimsby Town FC,4-0,Chesterfield FC
 9,Fri Sep 19 2003,Bristol City FC,0-1,Port Vale FC
 9,Fri Sep 19 2003,Brighton & Hove Albion FC,2-0,Sheffield Wednesday FC
 9,Fri Sep 19 2003,Brentford FC,2-1,Hartlepool United FC
-9,Fri Sep 19 2003,Barnsley FC,1-1,Swindon Town FC
-10,Fri Sep 26 2003,Port Vale FC,1-1,Wycombe Wanderers FC
+9,Fri Sep 19 2003,AFC Bournemouth,2-1,Rushden & Diamonds (1992-2011)
+9,Fri Sep 19 2003,Luton Town FC,1-1,Queens Park Rangers FC
 10,Fri Sep 26 2003,Tranmere Rovers FC,1-2,Wrexham AFC
 10,Fri Sep 26 2003,Swindon Town FC,2-0,Peterborough United FC
 10,Fri Sep 26 2003,Sheffield Wednesday FC,0-0,Grimsby Town FC
@@ -118,7 +117,7 @@ Matchday,Date,Team 1,FT,Team 2
 10,Fri Sep 26 2003,Hartlepool United FC,0-0,Brighton & Hove Albion FC
 10,Fri Sep 26 2003,Colchester United FC,1-0,AFC Bournemouth
 10,Fri Sep 26 2003,Chesterfield FC,1-2,Brentford FC
-11,Tue Sep 30 2003,Oldham Athletic AFC,2-0,Stockport County FC
+10,Fri Sep 26 2003,Port Vale FC,1-1,Wycombe Wanderers FC
 11,Tue Sep 30 2003,Tranmere Rovers FC,2-1,Wycombe Wanderers FC
 11,Tue Sep 30 2003,Rushden & Diamonds (1992-2011),1-3,Brighton & Hove Albion FC
 11,Tue Sep 30 2003,Queens Park Rangers FC,4-0,Barnsley FC
@@ -128,9 +127,9 @@ Matchday,Date,Team 1,FT,Team 2
 11,Tue Sep 30 2003,Hartlepool United FC,2-0,Wrexham AFC
 11,Tue Sep 30 2003,Colchester United FC,1-1,Brentford FC
 11,Tue Sep 30 2003,Chesterfield FC,1-1,AFC Bournemouth
-11,Wed Oct 1 2003,Sheffield Wednesday FC,2-1,Notts County FC
+11,Tue Sep 30 2003,Oldham Athletic AFC,2-0,Stockport County FC
 11,Wed Oct 1 2003,Swindon Town FC,2-2,Luton Town FC
-12,Fri Oct 3 2003,AFC Bournemouth,2-2,Hartlepool United FC
+11,Wed Oct 1 2003,Sheffield Wednesday FC,2-1,Notts County FC
 12,Fri Oct 3 2003,Wycombe Wanderers FC,0-0,Plymouth Argyle FC
 12,Fri Oct 3 2003,Wrexham AFC,2-1,Port Vale FC
 12,Fri Oct 3 2003,Stockport County FC,0-0,Chesterfield FC
@@ -140,58 +139,57 @@ Matchday,Date,Team 1,FT,Team 2
 12,Fri Oct 3 2003,Bristol City FC,2-1,Swindon Town FC
 12,Fri Oct 3 2003,Brighton & Hove Albion FC,3-0,Blackpool FC
 12,Fri Oct 3 2003,Brentford FC,0-3,Sheffield Wednesday FC
+12,Fri Oct 3 2003,AFC Bournemouth,2-2,Hartlepool United FC
 12,Fri Oct 3 2003,Barnsley FC,2-0,Rushden & Diamonds (1992-2011)
 12,Mon Oct 6 2003,Luton Town FC,3-1,Tranmere Rovers FC
-13,Fri Oct 10 2003,Rushden & Diamonds (1992-2011),2-1,Chesterfield FC
 13,Fri Oct 10 2003,Hartlepool United FC,1-1,Sheffield Wednesday FC
 13,Fri Oct 10 2003,Bristol City FC,1-1,Peterborough United FC
 13,Fri Oct 10 2003,Swindon Town FC,1-2,Stockport County FC
-13,Fri Oct 10 2003,Brighton & Hove Albion FC,3-0,Grimsby Town FC
+13,Fri Oct 10 2003,Rushden & Diamonds (1992-2011),2-1,Chesterfield FC
 13,Fri Oct 10 2003,Plymouth Argyle FC,6-0,Tranmere Rovers FC
 13,Fri Oct 10 2003,Oldham Athletic AFC,2-1,Port Vale FC
 13,Fri Oct 10 2003,Notts County FC,0-1,AFC Bournemouth
 13,Fri Oct 10 2003,Luton Town FC,3-1,Wycombe Wanderers FC
 13,Fri Oct 10 2003,Colchester United FC,1-1,Blackpool FC
-14,Fri Oct 17 2003,Tranmere Rovers FC,2-1,Oldham Athletic AFC
-14,Fri Oct 17 2003,Peterborough United FC,0-0,Queens Park Rangers FC
-14,Fri Oct 17 2003,AFC Bournemouth,1-0,Brighton & Hove Albion FC
+13,Fri Oct 10 2003,Brighton & Hove Albion FC,3-0,Grimsby Town FC
 14,Fri Oct 17 2003,Wycombe Wanderers FC,1-2,Barnsley FC
 14,Fri Oct 17 2003,Wrexham AFC,0-0,Bristol City FC
-14,Fri Oct 17 2003,Brentford FC,4-2,Luton Town FC
+14,Fri Oct 17 2003,Tranmere Rovers FC,2-1,Oldham Athletic AFC
 14,Fri Oct 17 2003,Stockport County FC,2-2,Notts County FC
 14,Fri Oct 17 2003,Sheffield Wednesday FC,0-0,Rushden & Diamonds (1992-2011)
 14,Fri Oct 17 2003,Port Vale FC,1-5,Plymouth Argyle FC
 14,Fri Oct 17 2003,Blackpool FC,4-0,Hartlepool United FC
 14,Fri Oct 17 2003,Grimsby Town FC,2-0,Colchester United FC
 14,Fri Oct 17 2003,Chesterfield FC,3-0,Swindon Town FC
-15,Tue Oct 21 2003,Wycombe Wanderers FC,3-0,Bristol City FC
-15,Tue Oct 21 2003,Brentford FC,4-0,Brighton & Hove Albion FC
-15,Tue Oct 21 2003,AFC Bournemouth,6-3,Luton Town FC
+14,Fri Oct 17 2003,Brentford FC,4-2,Luton Town FC
+14,Fri Oct 17 2003,AFC Bournemouth,1-0,Brighton & Hove Albion FC
+14,Fri Oct 17 2003,Peterborough United FC,0-0,Queens Park Rangers FC
 15,Tue Oct 21 2003,Blackpool FC,2-3,Rushden & Diamonds (1992-2011)
 15,Tue Oct 21 2003,Wrexham AFC,4-0,Oldham Athletic AFC
 15,Tue Oct 21 2003,Tranmere Rovers FC,1-0,Swindon Town FC
 15,Tue Oct 21 2003,Stockport County FC,1-3,Colchester United FC
-15,Tue Oct 21 2003,Chesterfield FC,1-2,Hartlepool United FC
+15,Tue Oct 21 2003,Port Vale FC,2-0,Queens Park Rangers FC
 15,Tue Oct 21 2003,Peterborough United FC,2-3,Barnsley FC
 15,Tue Oct 21 2003,Grimsby Town FC,2-0,Notts County FC
-15,Tue Oct 21 2003,Port Vale FC,2-0,Queens Park Rangers FC
+15,Tue Oct 21 2003,Chesterfield FC,1-2,Hartlepool United FC
+15,Tue Oct 21 2003,Brentford FC,4-0,Brighton & Hove Albion FC
+15,Tue Oct 21 2003,AFC Bournemouth,6-3,Luton Town FC
+15,Tue Oct 21 2003,Wycombe Wanderers FC,3-0,Bristol City FC
 15,Wed Oct 22 2003,Sheffield Wednesday FC,1-3,Plymouth Argyle FC
-16,Fri Oct 24 2003,Barnsley FC,0-0,Grimsby Town FC
-16,Fri Oct 24 2003,Queens Park Rangers FC,1-1,Tranmere Rovers FC
-16,Fri Oct 24 2003,Bristol City FC,1-1,Sheffield Wednesday FC
 16,Fri Oct 24 2003,Notts County FC,2-0,Brentford FC
 16,Fri Oct 24 2003,Rushden & Diamonds (1992-2011),2-3,Wrexham AFC
-16,Fri Oct 24 2003,Brighton & Hove Albion FC,0-1,Stockport County FC
-16,Fri Oct 24 2003,Colchester United FC,1-0,Chesterfield FC
+16,Fri Oct 24 2003,Barnsley FC,0-0,Grimsby Town FC
+16,Fri Oct 24 2003,Plymouth Argyle FC,1-0,Blackpool FC
 16,Fri Oct 24 2003,Oldham Athletic AFC,1-1,AFC Bournemouth
 16,Fri Oct 24 2003,Swindon Town FC,0-0,Port Vale FC
 16,Fri Oct 24 2003,Luton Town FC,1-1,Peterborough United FC
 16,Fri Oct 24 2003,Hartlepool United FC,1-1,Wycombe Wanderers FC
-16,Fri Oct 24 2003,Plymouth Argyle FC,1-0,Blackpool FC
+16,Fri Oct 24 2003,Colchester United FC,1-0,Chesterfield FC
+16,Fri Oct 24 2003,Bristol City FC,1-1,Sheffield Wednesday FC
+16,Fri Oct 24 2003,Brighton & Hove Albion FC,0-1,Stockport County FC
+16,Fri Oct 24 2003,Queens Park Rangers FC,1-1,Tranmere Rovers FC
 13,Tue Oct 28 2003,Barnsley FC,2-1,Wrexham AFC
 17,Fri Oct 31 2003,Wrexham AFC,0-1,Colchester United FC
-17,Sat Nov 1 2003,Plymouth Argyle FC,2-2,Oldham Athletic AFC
-17,Sat Nov 1 2003,Bristol City FC,1-1,Luton Town FC
 17,Sat Nov 1 2003,Rushden & Diamonds (1992-2011),3-1,Grimsby Town FC
 17,Sat Nov 1 2003,Swindon Town FC,2-0,Wycombe Wanderers FC
 17,Sat Nov 1 2003,Stockport County FC,1-2,Queens Park Rangers FC
@@ -201,20 +199,22 @@ Matchday,Date,Team 1,FT,Team 2
 17,Sat Nov 1 2003,Peterborough United FC,2-2,Brighton & Hove Albion FC
 17,Sat Nov 1 2003,Notts County FC,1-0,Hartlepool United FC
 17,Sat Nov 1 2003,Chesterfield FC,1-0,Port Vale FC
+17,Sat Nov 1 2003,Bristol City FC,1-1,Luton Town FC
+17,Sat Nov 1 2003,Plymouth Argyle FC,2-2,Oldham Athletic AFC
 6,Tue Nov 11 2003,Blackpool FC,0-1,Wrexham AFC
 13,Tue Nov 11 2003,Queens Park Rangers FC,1-0,Brentford FC
-18,Sat Nov 15 2003,Hartlepool United FC,2-1,Rushden & Diamonds (1992-2011)
+18,Sat Nov 15 2003,Wycombe Wanderers FC,1-2,Brentford FC
 18,Sat Nov 15 2003,Queens Park Rangers FC,3-0,Plymouth Argyle FC
 18,Sat Nov 15 2003,Port Vale FC,1-0,Notts County FC
 18,Sat Nov 15 2003,Oldham Athletic AFC,0-1,Swindon Town FC
 18,Sat Nov 15 2003,Luton Town FC,3-2,Wrexham AFC
-18,Sat Nov 15 2003,Wycombe Wanderers FC,1-2,Brentford FC
+18,Sat Nov 15 2003,Hartlepool United FC,2-1,Rushden & Diamonds (1992-2011)
 18,Sat Nov 15 2003,Grimsby Town FC,1-1,Stockport County FC
 18,Sat Nov 15 2003,Colchester United FC,3-1,Sheffield Wednesday FC
 18,Sat Nov 15 2003,Brighton & Hove Albion FC,1-4,Bristol City FC
-18,Sat Nov 15 2003,Blackpool FC,1-0,Chesterfield FC
-18,Sat Nov 15 2003,Barnsley FC,2-0,Tranmere Rovers FC
 18,Sat Nov 15 2003,AFC Bournemouth,1-2,Peterborough United FC
+18,Sat Nov 15 2003,Barnsley FC,2-0,Tranmere Rovers FC
+18,Sat Nov 15 2003,Blackpool FC,1-0,Chesterfield FC
 19,Sat Nov 22 2003,Wrexham AFC,0-0,Wycombe Wanderers FC
 19,Sat Nov 22 2003,Tranmere Rovers FC,1-0,Port Vale FC
 19,Sat Nov 22 2003,Swindon Town FC,1-1,Queens Park Rangers FC
@@ -232,25 +232,25 @@ Matchday,Date,Team 1,FT,Team 2
 20,Sat Nov 29 2003,Port Vale FC,1-1,Rushden & Diamonds (1992-2011)
 20,Sat Nov 29 2003,Oldham Athletic AFC,0-1,Notts County FC
 20,Sat Nov 29 2003,Luton Town FC,1-0,Chesterfield FC
-20,Sat Nov 29 2003,Hartlepool United FC,2-0,Swindon Town FC
+20,Sat Nov 29 2003,Barnsley FC,3-3,Stockport County FC
 20,Sat Nov 29 2003,Grimsby Town FC,0-1,Tranmere Rovers FC
 20,Sat Nov 29 2003,Colchester United FC,0-2,Plymouth Argyle FC
 20,Sat Nov 29 2003,Brighton & Hove Albion FC,2-0,Wrexham AFC
 20,Sat Nov 29 2003,AFC Bournemouth,1-0,Brentford FC
 20,Sat Nov 29 2003,Blackpool FC,1-0,Bristol City FC
-20,Sat Nov 29 2003,Barnsley FC,3-3,Stockport County FC
+20,Sat Nov 29 2003,Hartlepool United FC,2-0,Swindon Town FC
 21,Fri Dec 12 2003,Brighton & Hove Albion FC,1-1,Port Vale FC
-21,Sat Dec 13 2003,Barnsley FC,1-1,Sheffield Wednesday FC
+21,Sat Dec 13 2003,Rushden & Diamonds (1992-2011),1-1,Bristol City FC
 21,Sat Dec 13 2003,Wrexham AFC,2-0,Peterborough United FC
 21,Sat Dec 13 2003,Swindon Town FC,2-3,Plymouth Argyle FC
 21,Sat Dec 13 2003,Stockport County FC,1-1,Brentford FC
-21,Sat Dec 13 2003,Rushden & Diamonds (1992-2011),1-1,Bristol City FC
+21,Sat Dec 13 2003,Barnsley FC,1-1,Sheffield Wednesday FC
 21,Sat Dec 13 2003,Queens Park Rangers FC,4-1,Hartlepool United FC
 21,Sat Dec 13 2003,Notts County FC,1-1,Wycombe Wanderers FC
 21,Sat Dec 13 2003,Colchester United FC,2-1,Oldham Athletic AFC
 21,Sat Dec 13 2003,Chesterfield FC,2-2,Tranmere Rovers FC
-21,Sat Dec 13 2003,AFC Bournemouth,0-0,Grimsby Town FC
 21,Sat Dec 13 2003,Blackpool FC,0-1,Luton Town FC
+21,Sat Dec 13 2003,AFC Bournemouth,0-0,Grimsby Town FC
 22,Sat Dec 20 2003,Wycombe Wanderers FC,2-0,AFC Bournemouth
 22,Sat Dec 20 2003,Tranmere Rovers FC,1-0,Brighton & Hove Albion FC
 22,Sat Dec 20 2003,Sheffield Wednesday FC,0-0,Chesterfield FC
@@ -261,21 +261,19 @@ Matchday,Date,Team 1,FT,Team 2
 22,Sat Dec 20 2003,Hartlepool United FC,0-0,Colchester United FC
 22,Sat Dec 20 2003,Bristol City FC,1-0,Stockport County FC
 22,Sat Dec 20 2003,Brentford FC,0-2,Swindon Town FC
-23,Fri Dec 26 2003,Notts County FC,3-3,Queens Park Rangers FC
-23,Fri Dec 26 2003,Blackpool FC,2-1,Tranmere Rovers FC
 23,Fri Dec 26 2003,Brentford FC,1-2,Bristol City FC
 23,Fri Dec 26 2003,Brighton & Hove Albion FC,4-0,Wycombe Wanderers FC
 23,Fri Dec 26 2003,Stockport County FC,0-1,Wrexham AFC
 23,Fri Dec 26 2003,Sheffield Wednesday FC,2-3,Port Vale FC
-23,Fri Dec 26 2003,AFC Bournemouth,0-2,Plymouth Argyle FC
+23,Fri Dec 26 2003,Hartlepool United FC,1-2,Barnsley FC
 23,Fri Dec 26 2003,Grimsby Town FC,3-3,Oldham Athletic AFC
 23,Fri Dec 26 2003,Rushden & Diamonds (1992-2011),2-0,Swindon Town FC
 23,Fri Dec 26 2003,Colchester United FC,1-1,Luton Town FC
 23,Fri Dec 26 2003,Chesterfield FC,2-1,Peterborough United FC
-23,Fri Dec 26 2003,Hartlepool United FC,1-2,Barnsley FC
-24,Sun Dec 28 2003,Oldham Athletic AFC,0-2,Hartlepool United FC
-24,Sun Dec 28 2003,Wycombe Wanderers FC,0-2,Rushden & Diamonds (1992-2011)
-24,Sun Dec 28 2003,Bristol City FC,2-0,AFC Bournemouth
+23,Fri Dec 26 2003,AFC Bournemouth,0-2,Plymouth Argyle FC
+23,Fri Dec 26 2003,Blackpool FC,2-1,Tranmere Rovers FC
+23,Fri Dec 26 2003,Notts County FC,3-3,Queens Park Rangers FC
+24,Sun Dec 28 2003,Tranmere Rovers FC,2-2,Sheffield Wednesday FC
 24,Sun Dec 28 2003,Wrexham AFC,4-2,Blackpool FC
 24,Sun Dec 28 2003,Swindon Town FC,2-1,Brighton & Hove Albion FC
 24,Sun Dec 28 2003,Barnsley FC,0-1,Chesterfield FC
@@ -284,189 +282,187 @@ Matchday,Date,Team 1,FT,Team 2
 24,Sun Dec 28 2003,Plymouth Argyle FC,2-0,Brentford FC
 24,Sun Dec 28 2003,Peterborough United FC,0-0,Grimsby Town FC
 24,Sun Dec 28 2003,Luton Town FC,2-0,Notts County FC
-24,Sun Dec 28 2003,Tranmere Rovers FC,2-2,Sheffield Wednesday FC
+24,Sun Dec 28 2003,Bristol City FC,2-0,AFC Bournemouth
+24,Sun Dec 28 2003,Oldham Athletic AFC,0-2,Hartlepool United FC
+24,Sun Dec 28 2003,Wycombe Wanderers FC,0-2,Rushden & Diamonds (1992-2011)
 25,Sat Jan 3 2004,Wrexham AFC,1-2,Sheffield Wednesday FC
+25,Sat Jan 3 2004,Wycombe Wanderers FC,4-1,Grimsby Town FC
+25,Sat Jan 3 2004,Swindon Town FC,2-1,AFC Bournemouth
+25,Sat Jan 3 2004,Oldham Athletic AFC,1-1,Brentford FC
 25,Sat Jan 3 2004,Plymouth Argyle FC,7-0,Chesterfield FC
 25,Sat Jan 3 2004,Queens Park Rangers FC,1-0,Rushden & Diamonds (1992-2011)
-25,Sat Jan 3 2004,Oldham Athletic AFC,1-1,Brentford FC
-25,Sat Jan 3 2004,Swindon Town FC,2-1,AFC Bournemouth
-25,Sat Jan 3 2004,Wycombe Wanderers FC,4-1,Grimsby Town FC
 25,Tue Jan 6 2004,Peterborough United FC,5-2,Notts County FC
-26,Sat Jan 10 2004,Brighton & Hove Albion FC,0-0,Oldham Athletic AFC
-26,Sat Jan 10 2004,Grimsby Town FC,0-0,Plymouth Argyle FC
-26,Sat Jan 10 2004,Stockport County FC,2-0,Wycombe Wanderers FC
-26,Sat Jan 10 2004,Hartlepool United FC,1-0,Peterborough United FC
-26,Sat Jan 10 2004,Brentford FC,2-2,Tranmere Rovers FC
-26,Sat Jan 10 2004,Blackpool FC,0-1,Queens Park Rangers FC
-26,Sat Jan 10 2004,Chesterfield FC,2-1,Wrexham AFC
 26,Sat Jan 10 2004,Rushden & Diamonds (1992-2011),2-2,Luton Town FC
 26,Sat Jan 10 2004,Sheffield Wednesday FC,1-1,Swindon Town FC
-26,Sat Jan 10 2004,Colchester United FC,1-1,Barnsley FC
+26,Sat Jan 10 2004,Stockport County FC,2-0,Wycombe Wanderers FC
 26,Sat Jan 10 2004,Notts County FC,1-2,Bristol City FC
+26,Sat Jan 10 2004,Hartlepool United FC,1-0,Peterborough United FC
+26,Sat Jan 10 2004,Grimsby Town FC,0-0,Plymouth Argyle FC
+26,Sat Jan 10 2004,Colchester United FC,1-1,Barnsley FC
+26,Sat Jan 10 2004,Chesterfield FC,2-1,Wrexham AFC
+26,Sat Jan 10 2004,Blackpool FC,0-1,Queens Park Rangers FC
+26,Sat Jan 10 2004,Brentford FC,2-2,Tranmere Rovers FC
 26,Sat Jan 10 2004,AFC Bournemouth,2-1,Port Vale FC
+26,Sat Jan 10 2004,Brighton & Hove Albion FC,0-0,Oldham Athletic AFC
 22,Wed Jan 14 2004,Port Vale FC,2-1,Blackpool FC
-27,Sat Jan 17 2004,Plymouth Argyle FC,3-0,Rushden & Diamonds (1992-2011)
-27,Sat Jan 17 2004,Peterborough United FC,0-0,Brentford FC
-27,Sat Jan 17 2004,Oldham Athletic AFC,1-0,Sheffield Wednesday FC
-27,Sat Jan 17 2004,Luton Town FC,2-2,Stockport County FC
-27,Sat Jan 17 2004,Bristol City FC,4-0,Chesterfield FC
-27,Sat Jan 17 2004,Wycombe Wanderers FC,0-3,Blackpool FC
 27,Sat Jan 17 2004,Port Vale FC,5-1,Grimsby Town FC
 27,Sat Jan 17 2004,Wrexham AFC,0-1,Notts County FC
 27,Sat Jan 17 2004,Tranmere Rovers FC,0-0,Hartlepool United FC
 27,Sat Jan 17 2004,Swindon Town FC,2-0,Colchester United FC
 27,Sat Jan 17 2004,Queens Park Rangers FC,2-1,Brighton & Hove Albion FC
 27,Sat Jan 17 2004,Barnsley FC,1-1,AFC Bournemouth
+27,Sat Jan 17 2004,Plymouth Argyle FC,3-0,Rushden & Diamonds (1992-2011)
+27,Sat Jan 17 2004,Peterborough United FC,0-0,Brentford FC
+27,Sat Jan 17 2004,Oldham Athletic AFC,1-0,Sheffield Wednesday FC
+27,Sat Jan 17 2004,Luton Town FC,2-2,Stockport County FC
+27,Sat Jan 17 2004,Bristol City FC,4-0,Chesterfield FC
+27,Sat Jan 17 2004,Wycombe Wanderers FC,0-3,Blackpool FC
 22,Tue Jan 20 2004,Grimsby Town FC,1-3,Wrexham AFC
-28,Sat Jan 24 2004,Brentford FC,0-1,Wrexham AFC
-28,Sat Jan 24 2004,Brighton & Hove Albion FC,1-0,Barnsley FC
-28,Sat Jan 24 2004,AFC Bournemouth,1-0,Queens Park Rangers FC
-28,Sat Jan 24 2004,Blackpool FC,1-1,Oldham Athletic AFC
-28,Sat Jan 24 2004,Chesterfield FC,2-2,Wycombe Wanderers FC
 28,Sat Jan 24 2004,Hartlepool United FC,1-2,Bristol City FC
 28,Sat Jan 24 2004,Sheffield Wednesday FC,2-0,Peterborough United FC
 28,Sat Jan 24 2004,Notts County FC,1-2,Swindon Town FC
 28,Sat Jan 24 2004,Stockport County FC,0-2,Plymouth Argyle FC
-25,Tue Jan 27 2004,Bristol City FC,1-0,Colchester United FC
-25,Tue Jan 27 2004,Port Vale FC,2-5,Hartlepool United FC
+28,Sat Jan 24 2004,Chesterfield FC,2-2,Wycombe Wanderers FC
+28,Sat Jan 24 2004,Blackpool FC,1-1,Oldham Athletic AFC
+28,Sat Jan 24 2004,Brentford FC,0-1,Wrexham AFC
+28,Sat Jan 24 2004,AFC Bournemouth,1-0,Queens Park Rangers FC
+28,Sat Jan 24 2004,Brighton & Hove Albion FC,1-0,Barnsley FC
 25,Tue Jan 27 2004,Tranmere Rovers FC,3-2,Stockport County FC
+25,Tue Jan 27 2004,Port Vale FC,2-5,Hartlepool United FC
 25,Tue Jan 27 2004,Barnsley FC,3-0,Blackpool FC
+25,Tue Jan 27 2004,Bristol City FC,1-0,Colchester United FC
 29,Fri Jan 30 2004,Sheffield Wednesday FC,1-1,Wycombe Wanderers FC
-29,Sat Jan 31 2004,Chesterfield FC,4-2,Queens Park Rangers FC
-29,Sat Jan 31 2004,Brentford FC,3-2,Port Vale FC
-29,Sat Jan 31 2004,Brighton & Hove Albion FC,2-1,Plymouth Argyle FC
-29,Sat Jan 31 2004,Blackpool FC,2-2,Swindon Town FC
 29,Sat Jan 31 2004,Rushden & Diamonds (1992-2011),4-1,Oldham Athletic AFC
 29,Sat Jan 31 2004,Stockport County FC,2-2,Peterborough United FC
 29,Sat Jan 31 2004,Notts County FC,1-1,Barnsley FC
 29,Sat Jan 31 2004,Colchester United FC,1-1,Tranmere Rovers FC
+29,Sat Jan 31 2004,Chesterfield FC,4-2,Queens Park Rangers FC
+29,Sat Jan 31 2004,Brentford FC,3-2,Port Vale FC
+29,Sat Jan 31 2004,Brighton & Hove Albion FC,2-1,Plymouth Argyle FC
+29,Sat Jan 31 2004,Blackpool FC,2-2,Swindon Town FC
+30,Sat Feb 7 2004,Wycombe Wanderers FC,1-1,Brighton & Hove Albion FC
+30,Sat Feb 7 2004,Wrexham AFC,0-0,Stockport County FC
+30,Sat Feb 7 2004,Tranmere Rovers FC,1-1,Blackpool FC
+30,Sat Feb 7 2004,Swindon Town FC,4-2,Rushden & Diamonds (1992-2011)
+30,Sat Feb 7 2004,Barnsley FC,2-2,Hartlepool United FC
+30,Sat Feb 7 2004,Port Vale FC,3-0,Sheffield Wednesday FC
+30,Sat Feb 7 2004,Plymouth Argyle FC,0-0,AFC Bournemouth
 30,Sat Feb 7 2004,Peterborough United FC,0-2,Chesterfield FC
 30,Sat Feb 7 2004,Luton Town FC,1-0,Colchester United FC
 30,Sat Feb 7 2004,Bristol City FC,3-1,Brentford FC
 30,Sat Feb 7 2004,Queens Park Rangers FC,3-2,Notts County FC
-30,Sat Feb 7 2004,Plymouth Argyle FC,0-0,AFC Bournemouth
-30,Sat Feb 7 2004,Port Vale FC,3-0,Sheffield Wednesday FC
-30,Sat Feb 7 2004,Barnsley FC,2-2,Hartlepool United FC
-30,Sat Feb 7 2004,Wycombe Wanderers FC,1-1,Brighton & Hove Albion FC
-30,Sat Feb 7 2004,Swindon Town FC,4-2,Rushden & Diamonds (1992-2011)
-30,Sat Feb 7 2004,Tranmere Rovers FC,1-1,Blackpool FC
-30,Sat Feb 7 2004,Wrexham AFC,0-0,Stockport County FC
 30,Sun Feb 8 2004,Oldham Athletic AFC,6-0,Grimsby Town FC
 25,Tue Feb 10 2004,Luton Town FC,2-0,Brighton & Hove Albion FC
-31,Sat Feb 14 2004,Wrexham AFC,1-0,Barnsley FC
-31,Sat Feb 14 2004,Peterborough United FC,0-1,Bristol City FC
-31,Sat Feb 14 2004,Brentford FC,1-1,Queens Park Rangers FC
-31,Sat Feb 14 2004,Grimsby Town FC,2-1,Brighton & Hove Albion FC
-31,Sat Feb 14 2004,Port Vale FC,1-0,Oldham Athletic AFC
-31,Sat Feb 14 2004,Chesterfield FC,2-0,Rushden & Diamonds (1992-2011)
-31,Sat Feb 14 2004,Wycombe Wanderers FC,0-0,Luton Town FC
+31,Sat Feb 14 2004,Sheffield Wednesday FC,1-0,Hartlepool United FC
 31,Sat Feb 14 2004,AFC Bournemouth,1-0,Notts County FC
 31,Sat Feb 14 2004,Stockport County FC,2-4,Swindon Town FC
-31,Sat Feb 14 2004,Sheffield Wednesday FC,1-0,Hartlepool United FC
-31,Tue Feb 17 2004,Tranmere Rovers FC,3-0,Plymouth Argyle FC
+31,Sat Feb 14 2004,Wycombe Wanderers FC,0-0,Luton Town FC
+31,Sat Feb 14 2004,Port Vale FC,1-0,Oldham Athletic AFC
+31,Sat Feb 14 2004,Peterborough United FC,0-1,Bristol City FC
+31,Sat Feb 14 2004,Grimsby Town FC,2-1,Brighton & Hove Albion FC
+31,Sat Feb 14 2004,Chesterfield FC,2-0,Rushden & Diamonds (1992-2011)
+31,Sat Feb 14 2004,Brentford FC,1-1,Queens Park Rangers FC
+31,Sat Feb 14 2004,Wrexham AFC,1-0,Barnsley FC
 29,Tue Feb 17 2004,Grimsby Town FC,1-2,Bristol City FC
+31,Tue Feb 17 2004,Tranmere Rovers FC,3-0,Plymouth Argyle FC
 32,Fri Feb 20 2004,Queens Park Rangers FC,1-1,Peterborough United FC
 32,Fri Feb 20 2004,Hartlepool United FC,1-1,Blackpool FC
-32,Sat Feb 21 2004,Brighton & Hove Albion FC,3-0,AFC Bournemouth
-32,Sat Feb 21 2004,Luton Town FC,4-1,Brentford FC
-32,Sat Feb 21 2004,Colchester United FC,2-0,Grimsby Town FC
-32,Sat Feb 21 2004,Barnsley FC,0-0,Wycombe Wanderers FC
-32,Sat Feb 21 2004,Bristol City FC,1-0,Wrexham AFC
-32,Sat Feb 21 2004,Notts County FC,4-1,Stockport County FC
 32,Sat Feb 21 2004,Plymouth Argyle FC,2-1,Port Vale FC
 32,Sat Feb 21 2004,Rushden & Diamonds (1992-2011),1-2,Sheffield Wednesday FC
-32,Sat Feb 21 2004,Oldham Athletic AFC,1-1,Tranmere Rovers FC
 32,Sat Feb 21 2004,Swindon Town FC,2-0,Chesterfield FC
+32,Sat Feb 21 2004,Oldham Athletic AFC,1-1,Tranmere Rovers FC
+32,Sat Feb 21 2004,Barnsley FC,0-0,Wycombe Wanderers FC
+32,Sat Feb 21 2004,Luton Town FC,4-1,Brentford FC
+32,Sat Feb 21 2004,Colchester United FC,2-0,Grimsby Town FC
+32,Sat Feb 21 2004,Bristol City FC,1-0,Wrexham AFC
+32,Sat Feb 21 2004,Brighton & Hove Albion FC,3-0,AFC Bournemouth
+32,Sat Feb 21 2004,Notts County FC,4-1,Stockport County FC
 28,Tue Feb 24 2004,Rushden & Diamonds (1992-2011),2-1,Tranmere Rovers FC
-29,Tue Feb 24 2004,AFC Bournemouth,6-0,Wrexham AFC
 28,Tue Feb 24 2004,Grimsby Town FC,3-2,Luton Town FC
 28,Tue Feb 24 2004,Colchester United FC,1-4,Port Vale FC
+29,Tue Feb 24 2004,AFC Bournemouth,6-0,Wrexham AFC
 33,Sat Feb 28 2004,Wycombe Wanderers FC,3-4,Hartlepool United FC
-33,Sat Feb 28 2004,Grimsby Town FC,6-1,Barnsley FC
-33,Sat Feb 28 2004,Blackpool FC,0-1,Plymouth Argyle FC
 33,Sat Feb 28 2004,Wrexham AFC,1-1,Rushden & Diamonds (1992-2011)
 33,Sat Feb 28 2004,Stockport County FC,1-1,Brighton & Hove Albion FC
 33,Sat Feb 28 2004,Sheffield Wednesday FC,1-0,Bristol City FC
+33,Sat Feb 28 2004,Peterborough United FC,1-2,Luton Town FC
+33,Sat Feb 28 2004,Grimsby Town FC,6-1,Barnsley FC
 33,Sat Feb 28 2004,Brentford FC,2-3,Notts County FC
 33,Sat Feb 28 2004,AFC Bournemouth,1-0,Oldham Athletic AFC
-33,Sat Feb 28 2004,Peterborough United FC,1-2,Luton Town FC
-34,Tue Mar 2 2004,Barnsley FC,0-1,Peterborough United FC
-34,Tue Mar 2 2004,Notts County FC,3-1,Grimsby Town FC
-34,Tue Mar 2 2004,Brighton & Hove Albion FC,1-0,Brentford FC
-34,Tue Mar 2 2004,Bristol City FC,1-1,Wycombe Wanderers FC
-34,Tue Mar 2 2004,Colchester United FC,2-1,Stockport County FC
+33,Sat Feb 28 2004,Blackpool FC,0-1,Plymouth Argyle FC
 34,Tue Mar 2 2004,Rushden & Diamonds (1992-2011),0-0,Blackpool FC
 34,Tue Mar 2 2004,Queens Park Rangers FC,3-2,Port Vale FC
 34,Tue Mar 2 2004,Plymouth Argyle FC,2-0,Sheffield Wednesday FC
+34,Tue Mar 2 2004,Barnsley FC,0-1,Peterborough United FC
 34,Tue Mar 2 2004,Hartlepool United FC,2-0,Chesterfield FC
+34,Tue Mar 2 2004,Colchester United FC,2-1,Stockport County FC
+34,Tue Mar 2 2004,Bristol City FC,1-1,Wycombe Wanderers FC
+34,Tue Mar 2 2004,Brighton & Hove Albion FC,1-0,Brentford FC
+34,Tue Mar 2 2004,Notts County FC,3-1,Grimsby Town FC
 34,Wed Mar 3 2004,Swindon Town FC,2-0,Tranmere Rovers FC
-35,Sat Mar 6 2004,Queens Park Rangers FC,1-1,Oldham Athletic AFC
-35,Sat Mar 6 2004,Blackpool FC,2-1,Port Vale FC
-35,Sat Mar 6 2004,Notts County FC,0-0,Plymouth Argyle FC
-35,Sat Mar 6 2004,AFC Bournemouth,1-0,Wycombe Wanderers FC
-35,Sat Mar 6 2004,Rushden & Diamonds (1992-2011),0-1,Peterborough United FC
-35,Sat Mar 6 2004,Colchester United FC,1-2,Hartlepool United FC
-35,Sat Mar 6 2004,Stockport County FC,2-0,Bristol City FC
 35,Sat Mar 6 2004,Wrexham AFC,3-0,Grimsby Town FC
 35,Sat Mar 6 2004,Swindon Town FC,2-1,Brentford FC
+35,Sat Mar 6 2004,Stockport County FC,2-0,Bristol City FC
+35,Sat Mar 6 2004,Rushden & Diamonds (1992-2011),0-1,Peterborough United FC
+35,Sat Mar 6 2004,Queens Park Rangers FC,1-1,Oldham Athletic AFC
 35,Sat Mar 6 2004,Barnsley FC,0-0,Luton Town FC
+35,Sat Mar 6 2004,Colchester United FC,1-2,Hartlepool United FC
+35,Sat Mar 6 2004,AFC Bournemouth,1-0,Wycombe Wanderers FC
+35,Sat Mar 6 2004,Blackpool FC,2-1,Port Vale FC
+35,Sat Mar 6 2004,Notts County FC,0-0,Plymouth Argyle FC
 35,Sun Mar 7 2004,Chesterfield FC,3-1,Sheffield Wednesday FC
 35,Wed Mar 10 2004,Brighton & Hove Albion FC,3-0,Tranmere Rovers FC
 36,Fri Mar 12 2004,Bristol City FC,1-0,Rushden & Diamonds (1992-2011)
-36,Sat Mar 13 2004,Brentford FC,0-2,Stockport County FC
-36,Sat Mar 13 2004,Hartlepool United FC,1-4,Queens Park Rangers FC
-36,Sat Mar 13 2004,Luton Town FC,3-2,Blackpool FC
-36,Sat Mar 13 2004,Oldham Athletic AFC,0-0,Colchester United FC
-36,Sat Mar 13 2004,Grimsby Town FC,1-1,AFC Bournemouth
-36,Sat Mar 13 2004,Wycombe Wanderers FC,1-1,Notts County FC
-36,Sat Mar 13 2004,Peterborough United FC,6-1,Wrexham AFC
 36,Sat Mar 13 2004,Plymouth Argyle FC,2-1,Swindon Town FC
 36,Sat Mar 13 2004,Tranmere Rovers FC,2-3,Chesterfield FC
 36,Sat Mar 13 2004,Sheffield Wednesday FC,2-1,Barnsley FC
 36,Sat Mar 13 2004,Port Vale FC,1-1,Brighton & Hove Albion FC
+36,Sat Mar 13 2004,Wycombe Wanderers FC,1-1,Notts County FC
+36,Sat Mar 13 2004,Brentford FC,0-2,Stockport County FC
+36,Sat Mar 13 2004,Oldham Athletic AFC,0-0,Colchester United FC
+36,Sat Mar 13 2004,Luton Town FC,3-2,Blackpool FC
+36,Sat Mar 13 2004,Hartlepool United FC,1-4,Queens Park Rangers FC
+36,Sat Mar 13 2004,Grimsby Town FC,1-1,AFC Bournemouth
+36,Sat Mar 13 2004,Peterborough United FC,6-1,Wrexham AFC
+37,Tue Mar 16 2004,Rushden & Diamonds (1992-2011),2-1,Notts County FC
+37,Tue Mar 16 2004,Queens Park Rangers FC,2-0,Wrexham AFC
+37,Tue Mar 16 2004,Port Vale FC,1-0,Luton Town FC
+37,Tue Mar 16 2004,Plymouth Argyle FC,2-0,Peterborough United FC
+37,Tue Mar 16 2004,Oldham Athletic AFC,1-1,Barnsley FC
 37,Tue Mar 16 2004,Blackpool FC,1-1,Brentford FC
 37,Tue Mar 16 2004,Colchester United FC,1-1,Wycombe Wanderers FC
 37,Tue Mar 16 2004,Chesterfield FC,0-2,Brighton & Hove Albion FC
 37,Tue Mar 16 2004,Hartlepool United FC,2-2,Stockport County FC
-37,Tue Mar 16 2004,Port Vale FC,1-0,Luton Town FC
-37,Tue Mar 16 2004,Queens Park Rangers FC,2-0,Wrexham AFC
-37,Tue Mar 16 2004,Oldham Athletic AFC,1-1,Barnsley FC
-37,Tue Mar 16 2004,Rushden & Diamonds (1992-2011),2-1,Notts County FC
-37,Tue Mar 16 2004,Plymouth Argyle FC,2-0,Peterborough United FC
 37,Wed Mar 17 2004,Swindon Town FC,2-0,Grimsby Town FC
 37,Wed Mar 17 2004,Sheffield Wednesday FC,0-2,AFC Bournemouth
+38,Sat Mar 20 2004,Wycombe Wanderers FC,2-2,Queens Park Rangers FC
 38,Sat Mar 20 2004,Wrexham AFC,3-2,Swindon Town FC
+38,Sat Mar 20 2004,Stockport County FC,1-0,Sheffield Wednesday FC
+38,Sat Mar 20 2004,Peterborough United FC,0-0,Tranmere Rovers FC
+38,Sat Mar 20 2004,Notts County FC,1-1,Chesterfield FC
+38,Sat Mar 20 2004,Luton Town FC,1-1,Plymouth Argyle FC
+38,Sat Mar 20 2004,Grimsby Town FC,0-2,Hartlepool United FC
 38,Sat Mar 20 2004,Barnsley FC,0-0,Port Vale FC
 38,Sat Mar 20 2004,Brighton & Hove Albion FC,2-1,Colchester United FC
-38,Sat Mar 20 2004,Notts County FC,1-1,Chesterfield FC
 38,Sat Mar 20 2004,Brentford FC,3-2,Rushden & Diamonds (1992-2011)
 38,Sat Mar 20 2004,Bristol City FC,0-2,Oldham Athletic AFC
-38,Sat Mar 20 2004,Peterborough United FC,0-0,Tranmere Rovers FC
-38,Sat Mar 20 2004,Stockport County FC,1-0,Sheffield Wednesday FC
-38,Sat Mar 20 2004,Wycombe Wanderers FC,2-2,Queens Park Rangers FC
-38,Sat Mar 20 2004,Grimsby Town FC,0-2,Hartlepool United FC
-38,Sat Mar 20 2004,Luton Town FC,1-1,Plymouth Argyle FC
 33,Tue Mar 23 2004,Chesterfield FC,1-2,Colchester United FC
-38,Wed Mar 24 2004,AFC Bournemouth,1-2,Blackpool FC
 37,Wed Mar 24 2004,Tranmere Rovers FC,1-0,Bristol City FC
-39,Sat Mar 27 2004,Blackpool FC,1-1,Stockport County FC
-39,Sat Mar 27 2004,Hartlepool United FC,1-2,Brentford FC
-39,Sat Mar 27 2004,Colchester United FC,0-0,Peterborough United FC
-39,Sat Mar 27 2004,Plymouth Argyle FC,0-0,Wrexham AFC
-39,Sat Mar 27 2004,Oldham Athletic AFC,2-3,Wycombe Wanderers FC
-39,Sat Mar 27 2004,Chesterfield FC,4-4,Grimsby Town FC
+38,Wed Mar 24 2004,AFC Bournemouth,1-2,Blackpool FC
 39,Sat Mar 27 2004,Queens Park Rangers FC,1-1,Luton Town FC
-39,Sat Mar 27 2004,Port Vale FC,2-1,Bristol City FC
+39,Sat Mar 27 2004,Swindon Town FC,1-1,Barnsley FC
 39,Sat Mar 27 2004,Sheffield Wednesday FC,2-1,Brighton & Hove Albion FC
 39,Sat Mar 27 2004,Rushden & Diamonds (1992-2011),0-3,AFC Bournemouth
 39,Sat Mar 27 2004,Tranmere Rovers FC,4-0,Notts County FC
-39,Sat Mar 27 2004,Swindon Town FC,1-1,Barnsley FC
-33,Tue Mar 30 2004,Port Vale FC,3-3,Swindon Town FC
+39,Sat Mar 27 2004,Port Vale FC,2-1,Bristol City FC
+39,Sat Mar 27 2004,Plymouth Argyle FC,0-0,Wrexham AFC
+39,Sat Mar 27 2004,Blackpool FC,1-1,Stockport County FC
+39,Sat Mar 27 2004,Hartlepool United FC,1-2,Brentford FC
+39,Sat Mar 27 2004,Colchester United FC,0-0,Peterborough United FC
+39,Sat Mar 27 2004,Chesterfield FC,4-4,Grimsby Town FC
+39,Sat Mar 27 2004,Oldham Athletic AFC,2-3,Wycombe Wanderers FC
 31,Tue Mar 30 2004,Blackpool FC,0-0,Colchester United FC
-40,Sat Apr 3 2004,AFC Bournemouth,1-1,Colchester United FC
-40,Sat Apr 3 2004,Bristol City FC,1-0,Queens Park Rangers FC
-40,Sat Apr 3 2004,Barnsley FC,1-0,Plymouth Argyle FC
-40,Sat Apr 3 2004,Brighton & Hove Albion FC,2-0,Hartlepool United FC
+33,Tue Mar 30 2004,Port Vale FC,3-3,Swindon Town FC
 40,Sat Apr 3 2004,Notts County FC,4-1,Blackpool FC
 40,Sat Apr 3 2004,Wycombe Wanderers FC,2-1,Port Vale FC
 40,Sat Apr 3 2004,Stockport County FC,2-1,Rushden & Diamonds (1992-2011)
@@ -474,14 +470,16 @@ Matchday,Date,Team 1,FT,Team 2
 40,Sat Apr 3 2004,Wrexham AFC,0-1,Tranmere Rovers FC
 40,Sat Apr 3 2004,Luton Town FC,1-1,Oldham Athletic AFC
 40,Sat Apr 3 2004,Grimsby Town FC,2-0,Sheffield Wednesday FC
+40,Sat Apr 3 2004,Bristol City FC,1-0,Queens Park Rangers FC
+40,Sat Apr 3 2004,Brighton & Hove Albion FC,2-0,Hartlepool United FC
 40,Sat Apr 3 2004,Brentford FC,1-1,Chesterfield FC
-33,Tue Apr 6 2004,Tranmere Rovers FC,0-0,Queens Park Rangers FC
+40,Sat Apr 3 2004,AFC Bournemouth,1-1,Colchester United FC
+40,Sat Apr 3 2004,Barnsley FC,1-0,Plymouth Argyle FC
 29,Tue Apr 6 2004,Hartlepool United FC,4-3,Luton Town FC
-41,Sat Apr 10 2004,Sheffield Wednesday FC,1-1,Brentford FC
-41,Sat Apr 10 2004,Blackpool FC,3-1,Brighton & Hove Albion FC
+33,Tue Apr 6 2004,Tranmere Rovers FC,0-0,Queens Park Rangers FC
 41,Sat Apr 10 2004,Queens Park Rangers FC,3-0,Grimsby Town FC
 41,Sat Apr 10 2004,Swindon Town FC,1-1,Bristol City FC
-41,Sat Apr 10 2004,Chesterfield FC,0-3,Stockport County FC
+41,Sat Apr 10 2004,Sheffield Wednesday FC,1-1,Brentford FC
 41,Sat Apr 10 2004,Rushden & Diamonds (1992-2011),2-3,Barnsley FC
 41,Sat Apr 10 2004,Tranmere Rovers FC,1-0,Luton Town FC
 41,Sat Apr 10 2004,Port Vale FC,1-0,Wrexham AFC
@@ -489,20 +487,20 @@ Matchday,Date,Team 1,FT,Team 2
 41,Sat Apr 10 2004,Oldham Athletic AFC,1-1,Peterborough United FC
 41,Sat Apr 10 2004,Hartlepool United FC,2-1,AFC Bournemouth
 41,Sat Apr 10 2004,Colchester United FC,4-1,Notts County FC
-42,Mon Apr 12 2004,Notts County FC,0-0,Sheffield Wednesday FC
-42,Mon Apr 12 2004,AFC Bournemouth,2-2,Chesterfield FC
+41,Sat Apr 10 2004,Blackpool FC,3-1,Brighton & Hove Albion FC
+41,Sat Apr 10 2004,Chesterfield FC,0-3,Stockport County FC
 42,Mon Apr 12 2004,Wycombe Wanderers FC,1-2,Tranmere Rovers FC
 42,Mon Apr 12 2004,Wrexham AFC,1-2,Hartlepool United FC
 42,Mon Apr 12 2004,Stockport County FC,1-1,Oldham Athletic AFC
 42,Mon Apr 12 2004,Peterborough United FC,3-1,Port Vale FC
-42,Mon Apr 12 2004,Brentford FC,3-2,Colchester United FC
+42,Mon Apr 12 2004,Notts County FC,0-0,Sheffield Wednesday FC
 42,Mon Apr 12 2004,Luton Town FC,0-3,Swindon Town FC
 42,Mon Apr 12 2004,Grimsby Town FC,0-2,Blackpool FC
 42,Mon Apr 12 2004,Brighton & Hove Albion FC,0-0,Rushden & Diamonds (1992-2011)
+42,Mon Apr 12 2004,Brentford FC,3-2,Colchester United FC
+42,Mon Apr 12 2004,AFC Bournemouth,2-2,Chesterfield FC
 42,Mon Apr 12 2004,Barnsley FC,3-3,Queens Park Rangers FC
 42,Tue Apr 13 2004,Bristol City FC,1-0,Plymouth Argyle FC
-43,Sat Apr 17 2004,Hartlepool United FC,4-0,Notts County FC
-43,Sat Apr 17 2004,AFC Bournemouth,1-5,Tranmere Rovers FC
 43,Sat Apr 17 2004,Blackpool FC,4-1,Sheffield Wednesday FC
 43,Sat Apr 17 2004,Wycombe Wanderers FC,0-3,Swindon Town FC
 43,Sat Apr 17 2004,Queens Park Rangers FC,1-1,Stockport County FC
@@ -513,8 +511,10 @@ Matchday,Date,Team 1,FT,Team 2
 43,Sat Apr 17 2004,Grimsby Town FC,1-0,Rushden & Diamonds (1992-2011)
 43,Sat Apr 17 2004,Colchester United FC,3-1,Wrexham AFC
 43,Sat Apr 17 2004,Brighton & Hove Albion FC,1-0,Peterborough United FC
-34,Tue Apr 20 2004,Luton Town FC,1-1,AFC Bournemouth
+43,Sat Apr 17 2004,AFC Bournemouth,1-5,Tranmere Rovers FC
+43,Sat Apr 17 2004,Hartlepool United FC,4-0,Notts County FC
 34,Tue Apr 20 2004,Oldham Athletic AFC,1-1,Wrexham AFC
+34,Tue Apr 20 2004,Luton Town FC,1-1,AFC Bournemouth
 44,Sat Apr 24 2004,Sheffield Wednesday FC,0-1,Colchester United FC
 44,Sat Apr 24 2004,Tranmere Rovers FC,2-0,Barnsley FC
 44,Sat Apr 24 2004,Swindon Town FC,1-2,Oldham Athletic AFC
@@ -525,26 +525,26 @@ Matchday,Date,Team 1,FT,Team 2
 44,Sat Apr 24 2004,Peterborough United FC,0-1,AFC Bournemouth
 44,Sat Apr 24 2004,Notts County FC,1-2,Port Vale FC
 44,Sat Apr 24 2004,Chesterfield FC,1-0,Blackpool FC
-44,Sat Apr 24 2004,Rushden & Diamonds (1992-2011),0-2,Hartlepool United FC
 44,Sat Apr 24 2004,Bristol City FC,0-0,Brighton & Hove Albion FC
+44,Sat Apr 24 2004,Rushden & Diamonds (1992-2011),0-2,Hartlepool United FC
 45,Sat May 1 2004,Wycombe Wanderers FC,1-1,Wrexham AFC
 45,Sat May 1 2004,Queens Park Rangers FC,1-0,Swindon Town FC
 45,Sat May 1 2004,Port Vale FC,2-1,Tranmere Rovers FC
 45,Sat May 1 2004,Oldham Athletic AFC,2-0,Chesterfield FC
 45,Sat May 1 2004,Luton Town FC,3-2,Sheffield Wednesday FC
-45,Sat May 1 2004,Grimsby Town FC,1-0,Brentford FC
+45,Sat May 1 2004,Hartlepool United FC,1-3,Plymouth Argyle FC
 45,Sat May 1 2004,Blackpool FC,1-4,Peterborough United FC
 45,Sat May 1 2004,Colchester United FC,2-0,Rushden & Diamonds (1992-2011)
 45,Sat May 1 2004,Brighton & Hove Albion FC,1-0,Notts County FC
 45,Sat May 1 2004,AFC Bournemouth,0-0,Stockport County FC
-45,Sat May 1 2004,Hartlepool United FC,1-3,Plymouth Argyle FC
+45,Sat May 1 2004,Grimsby Town FC,1-0,Brentford FC
 45,Sun May 2 2004,Barnsley FC,0-1,Bristol City FC
-46,Sat May 8 2004,Rushden & Diamonds (1992-2011),0-2,Port Vale FC
+46,Sat May 8 2004,Wrexham AFC,0-2,Brighton & Hove Albion FC
 46,Sat May 8 2004,Tranmere Rovers FC,2-1,Grimsby Town FC
 46,Sat May 8 2004,Swindon Town FC,1-1,Hartlepool United FC
 46,Sat May 8 2004,Stockport County FC,2-3,Barnsley FC
 46,Sat May 8 2004,Sheffield Wednesday FC,1-3,Queens Park Rangers FC
-46,Sat May 8 2004,Wrexham AFC,0-2,Brighton & Hove Albion FC
+46,Sat May 8 2004,Rushden & Diamonds (1992-2011),0-2,Port Vale FC
 46,Sat May 8 2004,Plymouth Argyle FC,2-0,Colchester United FC
 46,Sat May 8 2004,Peterborough United FC,1-1,Wycombe Wanderers FC
 46,Sat May 8 2004,Notts County FC,1-1,Oldham Athletic AFC

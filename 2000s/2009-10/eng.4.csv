@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 8 2009,Torquay United FC,2-0,Chesterfield FC
 1,Sat Aug 8 2009,Shrewsbury Town FC,3-1,Burton Albion FC
 1,Sat Aug 8 2009,Rotherham United FC,1-0,Accrington Stanley FC
@@ -16,13 +16,13 @@ Matchday,Date,Team 1,FT,Team 2
 2,Sat Aug 15 2009,Hereford FC (2014-),1-1,Cheltenham Town FC
 2,Sat Aug 15 2009,Grimsby Town FC,0-4,Crewe Alexandra FC
 2,Sat Aug 15 2009,Darlington FC,0-1,Bury FC
-2,Sat Aug 15 2009,Dagenham & Redbridge FC,5-3,Torquay United FC
+2,Sat Aug 15 2009,Accrington Stanley FC,1-0,Lincoln City FC
 2,Sat Aug 15 2009,Chesterfield FC,1-0,Northampton Town FC
 2,Sat Aug 15 2009,Burton Albion FC,5-2,Morecambe FC
 2,Sat Aug 15 2009,Bradford City AFC,0-0,Port Vale FC
 2,Sat Aug 15 2009,AFC Bournemouth,1-0,Rotherham United FC
 2,Sat Aug 15 2009,Barnet FC,2-2,Shrewsbury Town FC
-2,Sat Aug 15 2009,Accrington Stanley FC,1-0,Lincoln City FC
+2,Sat Aug 15 2009,Dagenham & Redbridge FC,5-3,Torquay United FC
 3,Tue Aug 18 2009,Rochdale AFC,0-1,Cheltenham Town FC
 3,Tue Aug 18 2009,Macclesfield Town FC,2-0,Port Vale FC
 3,Tue Aug 18 2009,Hereford FC (2014-),1-3,Bury FC
@@ -52,19 +52,19 @@ Matchday,Date,Team 1,FT,Team 2
 5,Sat Aug 29 2009,Hereford FC (2014-),2-2,Port Vale FC
 5,Sat Aug 29 2009,Grimsby Town FC,1-2,Aldershot Town FC
 5,Sat Aug 29 2009,Darlington FC,1-1,Cheltenham Town FC
-5,Sat Aug 29 2009,Dagenham & Redbridge FC,3-0,Lincoln City FC
+5,Sat Aug 29 2009,Accrington Stanley FC,1-3,Shrewsbury Town FC
 5,Sat Aug 29 2009,Chesterfield FC,1-1,Morecambe FC
 5,Sat Aug 29 2009,Burton Albion FC,3-2,Northampton Town FC
 5,Sat Aug 29 2009,Bradford City AFC,2-0,Torquay United FC
 5,Sat Aug 29 2009,AFC Bournemouth,1-0,Crewe Alexandra FC
 5,Sat Aug 29 2009,Barnet FC,1-0,Notts County FC
-5,Sat Aug 29 2009,Accrington Stanley FC,1-3,Shrewsbury Town FC
+5,Sat Aug 29 2009,Dagenham & Redbridge FC,3-0,Lincoln City FC
 6,Fri Sep 4 2009,Northampton Town FC,1-3,Barnet FC
 6,Fri Sep 4 2009,Morecambe FC,3-3,Rochdale AFC
-6,Sat Sep 5 2009,Rotherham United FC,3-1,Chesterfield FC
+6,Sat Sep 5 2009,Port Vale FC,4-0,Grimsby Town FC
 6,Sat Sep 5 2009,Torquay United FC,1-2,AFC Bournemouth
 6,Sat Sep 5 2009,Shrewsbury Town FC,1-2,Bradford City AFC
-6,Sat Sep 5 2009,Port Vale FC,4-0,Grimsby Town FC
+6,Sat Sep 5 2009,Rotherham United FC,3-1,Chesterfield FC
 6,Sat Sep 5 2009,Notts County FC,1-1,Burton Albion FC
 6,Sat Sep 5 2009,Lincoln City FC,3-0,Darlington FC
 6,Sat Sep 5 2009,Crewe Alexandra FC,2-1,Macclesfield Town FC
@@ -88,19 +88,19 @@ Matchday,Date,Team 1,FT,Team 2
 8,Sat Sep 19 2009,Northampton Town FC,1-2,Rochdale AFC
 8,Sat Sep 19 2009,Morecambe FC,2-1,Notts County FC
 8,Sat Sep 19 2009,Lincoln City FC,0-2,Shrewsbury Town FC
-8,Sat Sep 19 2009,Hereford FC (2014-),2-0,Accrington Stanley FC
+8,Sat Sep 19 2009,Barnet FC,2-2,Bradford City AFC
 8,Sat Sep 19 2009,Darlington FC,0-2,AFC Bournemouth
 8,Sat Sep 19 2009,Crewe Alexandra FC,1-2,Aldershot Town FC
 8,Sat Sep 19 2009,Chesterfield FC,4-1,Macclesfield Town FC
 8,Sat Sep 19 2009,Cheltenham Town FC,1-1,Rotherham United FC
 8,Sat Sep 19 2009,Burton Albion FC,0-1,Dagenham & Redbridge FC
-8,Sat Sep 19 2009,Barnet FC,2-2,Bradford City AFC
+8,Sat Sep 19 2009,Hereford FC (2014-),2-0,Accrington Stanley FC
 9,Fri Sep 25 2009,Accrington Stanley FC,5-3,Crewe Alexandra FC
-9,Sat Sep 26 2009,Shrewsbury Town FC,3-0,Northampton Town FC
+9,Sat Sep 26 2009,Macclesfield Town FC,2-1,Torquay United FC
 9,Sat Sep 26 2009,Rotherham United FC,3-0,Barnet FC
 9,Sat Sep 26 2009,Rochdale AFC,4-1,Hereford FC (2014-)
 9,Sat Sep 26 2009,Notts County FC,3-1,Port Vale FC
-9,Sat Sep 26 2009,Macclesfield Town FC,2-1,Torquay United FC
+9,Sat Sep 26 2009,Shrewsbury Town FC,3-0,Northampton Town FC
 9,Sat Sep 26 2009,Grimsby Town FC,1-1,Darlington FC
 9,Sat Sep 26 2009,Dagenham & Redbridge FC,1-1,Morecambe FC
 9,Sat Sep 26 2009,Bury FC,2-0,Lincoln City FC
@@ -124,31 +124,31 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sat Oct 3 2009,Northampton Town FC,2-2,Bradford City AFC
 11,Sat Oct 3 2009,Morecambe FC,1-1,Shrewsbury Town FC
 11,Sat Oct 3 2009,Lincoln City FC,1-0,Aldershot Town FC
-11,Sat Oct 3 2009,Hereford FC (2014-),1-1,Dagenham & Redbridge FC
+11,Sat Oct 3 2009,Barnet FC,3-0,Grimsby Town FC
 11,Sat Oct 3 2009,Darlington FC,0-1,Macclesfield Town FC
 11,Sat Oct 3 2009,Crewe Alexandra FC,2-3,Rotherham United FC
 11,Sat Oct 3 2009,Chesterfield FC,1-0,Accrington Stanley FC
 11,Sat Oct 3 2009,Cheltenham Town FC,1-1,Notts County FC
-11,Sat Oct 3 2009,Barnet FC,3-0,Grimsby Town FC
+11,Sat Oct 3 2009,Hereford FC (2014-),1-1,Dagenham & Redbridge FC
 11,Sun Oct 4 2009,Burton Albion FC,1-0,Rochdale AFC
-12,Sat Oct 10 2009,Shrewsbury Town FC,0-1,Port Vale FC
-12,Sat Oct 10 2009,Rotherham United FC,1-1,Hereford FC (2014-)
-12,Sat Oct 10 2009,Bradford City AFC,2-3,Crewe Alexandra FC
-12,Sat Oct 10 2009,Macclesfield Town FC,0-1,Lincoln City FC
 12,Sat Oct 10 2009,Grimsby Town FC,1-2,Burton Albion FC
+12,Sat Oct 10 2009,Rotherham United FC,1-1,Hereford FC (2014-)
+12,Sat Oct 10 2009,Rochdale AFC,2-1,Barnet FC
+12,Sat Oct 10 2009,Macclesfield Town FC,0-1,Lincoln City FC
+12,Sat Oct 10 2009,Shrewsbury Town FC,0-1,Port Vale FC
 12,Sat Oct 10 2009,Dagenham & Redbridge FC,2-0,Darlington FC
 12,Sat Oct 10 2009,Bury FC,2-2,Northampton Town FC
 12,Sat Oct 10 2009,Accrington Stanley FC,4-0,Cheltenham Town FC
 12,Sat Oct 10 2009,AFC Bournemouth,1-2,Chesterfield FC
 12,Sat Oct 10 2009,Aldershot Town FC,4-1,Morecambe FC
-12,Sat Oct 10 2009,Rochdale AFC,2-1,Barnet FC
+12,Sat Oct 10 2009,Bradford City AFC,2-3,Crewe Alexandra FC
 12,Sun Oct 11 2009,Notts County FC,2-2,Torquay United FC
 13,Fri Oct 16 2009,Cheltenham Town FC,1-2,Macclesfield Town FC
-13,Sat Oct 17 2009,Torquay United FC,2-2,Morecambe FC
+13,Sat Oct 17 2009,Grimsby Town FC,0-2,Rochdale AFC
 13,Sat Oct 17 2009,Rotherham United FC,0-0,Notts County FC
 13,Sat Oct 17 2009,Northampton Town FC,1-0,Lincoln City FC
 13,Sat Oct 17 2009,Hereford FC (2014-),1-0,Chesterfield FC
-13,Sat Oct 17 2009,Grimsby Town FC,0-2,Rochdale AFC
+13,Sat Oct 17 2009,Torquay United FC,2-2,Morecambe FC
 13,Sat Oct 17 2009,Darlington FC,2-1,Shrewsbury Town FC
 13,Sat Oct 17 2009,Dagenham & Redbridge FC,2-1,Bradford City AFC
 13,Sat Oct 17 2009,Crewe Alexandra FC,1-2,Port Vale FC
@@ -160,25 +160,25 @@ Matchday,Date,Team 1,FT,Team 2
 14,Sat Oct 24 2009,Port Vale FC,1-1,Cheltenham Town FC
 14,Sat Oct 24 2009,Notts County FC,2-0,Crewe Alexandra FC
 14,Sat Oct 24 2009,Morecambe FC,2-4,Northampton Town FC
-14,Sat Oct 24 2009,Macclesfield Town FC,2-2,Dagenham & Redbridge FC
+14,Sat Oct 24 2009,Barnet FC,3-0,Darlington FC
 14,Sat Oct 24 2009,Lincoln City FC,0-0,Torquay United FC
 14,Sat Oct 24 2009,Chesterfield FC,5-2,Burton Albion FC
 14,Sat Oct 24 2009,Bury FC,2-1,Rotherham United FC
 14,Sat Oct 24 2009,Bradford City AFC,1-0,Hereford FC (2014-)
 14,Sat Oct 24 2009,AFC Bournemouth,3-1,Grimsby Town FC
-14,Sat Oct 24 2009,Barnet FC,3-0,Darlington FC
+14,Sat Oct 24 2009,Macclesfield Town FC,2-2,Dagenham & Redbridge FC
 15,Fri Oct 30 2009,Grimsby Town FC,2-2,Accrington Stanley FC
-15,Sat Oct 31 2009,Torquay United FC,1-0,Northampton Town FC
+15,Sat Oct 31 2009,Macclesfield Town FC,2-2,Bradford City AFC
 15,Sat Oct 31 2009,Rotherham United FC,0-0,Aldershot Town FC
 15,Sat Oct 31 2009,Notts County FC,1-1,Shrewsbury Town FC
 15,Sat Oct 31 2009,Morecambe FC,3-1,Lincoln City FC
-15,Sat Oct 31 2009,Macclesfield Town FC,2-2,Bradford City AFC
+15,Sat Oct 31 2009,Torquay United FC,1-0,Northampton Town FC
 15,Sat Oct 31 2009,Hereford FC (2014-),2-1,Darlington FC
 15,Sat Oct 31 2009,Dagenham & Redbridge FC,1-1,Port Vale FC
 15,Sat Oct 31 2009,Chesterfield FC,1-0,Barnet FC
 15,Sat Oct 31 2009,Cheltenham Town FC,0-4,Crewe Alexandra FC
-15,Sat Oct 31 2009,Burton Albion FC,0-0,Bury FC
 15,Sat Oct 31 2009,AFC Bournemouth,0-4,Rochdale AFC
+15,Sat Oct 31 2009,Burton Albion FC,0-0,Bury FC
 16,Sat Nov 14 2009,Shrewsbury Town FC,1-1,Torquay United FC
 16,Sat Nov 14 2009,Rochdale AFC,2-3,Chesterfield FC
 16,Sat Nov 14 2009,Port Vale FC,1-2,Rotherham United FC
@@ -196,16 +196,16 @@ Matchday,Date,Team 1,FT,Team 2
 17,Sat Nov 21 2009,Notts County FC,0-0,Aldershot Town FC
 17,Sat Nov 21 2009,Northampton Town FC,2-2,Crewe Alexandra FC
 17,Sat Nov 21 2009,Morecambe FC,1-0,Cheltenham Town FC
-17,Sat Nov 21 2009,Macclesfield Town FC,1-2,AFC Bournemouth
+17,Sat Nov 21 2009,Barnet FC,0-0,Port Vale FC
 17,Sat Nov 21 2009,Lincoln City FC,0-0,Grimsby Town FC
 17,Sat Nov 21 2009,Dagenham & Redbridge FC,1-2,Rochdale AFC
 17,Sat Nov 21 2009,Chesterfield FC,5-2,Darlington FC
 17,Sat Nov 21 2009,Burton Albion FC,3-2,Hereford FC (2014-)
 17,Sat Nov 21 2009,Bradford City AFC,1-1,Accrington Stanley FC
-17,Sat Nov 21 2009,Barnet FC,0-0,Port Vale FC
+17,Sat Nov 21 2009,Macclesfield Town FC,1-2,AFC Bournemouth
 18,Tue Nov 24 2009,Rotherham United FC,2-0,Lincoln City FC
 18,Tue Nov 24 2009,Rochdale AFC,2-1,Notts County FC
-18,Tue Nov 24 2009,Cheltenham Town FC,5-1,Barnet FC
+18,Tue Nov 24 2009,Port Vale FC,2-2,Torquay United FC
 18,Tue Nov 24 2009,Hereford FC (2014-),2-1,Shrewsbury Town FC
 18,Tue Nov 24 2009,Grimsby Town FC,0-3,Bradford City AFC
 18,Tue Nov 24 2009,Darlington FC,0-4,Morecambe FC
@@ -213,20 +213,19 @@ Matchday,Date,Team 1,FT,Team 2
 18,Tue Nov 24 2009,Aldershot Town FC,2-1,Northampton Town FC
 18,Tue Nov 24 2009,Bury FC,2-1,Chesterfield FC
 18,Tue Nov 24 2009,AFC Bournemouth,0-0,Dagenham & Redbridge FC
-18,Tue Nov 24 2009,Port Vale FC,2-2,Torquay United FC
+18,Tue Nov 24 2009,Cheltenham Town FC,5-1,Barnet FC
 19,Sat Nov 28 2009,Macclesfield Town FC,0-0,Grimsby Town FC
-19,Tue Dec 1 2009,Northampton Town FC,1-3,Hereford FC (2014-)
 19,Tue Dec 1 2009,Morecambe FC,3-0,Bury FC
 19,Tue Dec 1 2009,Shrewsbury Town FC,2-0,Rotherham United FC
 19,Tue Dec 1 2009,Notts County FC,4-0,Darlington FC
-19,Tue Dec 1 2009,Barnet FC,1-1,AFC Bournemouth
-19,Tue Dec 1 2009,Bradford City AFC,0-3,Rochdale AFC
+19,Tue Dec 1 2009,Northampton Town FC,1-3,Hereford FC (2014-)
+19,Tue Dec 1 2009,Torquay United FC,3-0,Cheltenham Town FC
 19,Tue Dec 1 2009,Lincoln City FC,1-2,Port Vale FC
 19,Tue Dec 1 2009,Dagenham & Redbridge FC,2-5,Aldershot Town FC
 19,Tue Dec 1 2009,Burton Albion FC,0-2,Accrington Stanley FC
-19,Tue Dec 1 2009,Torquay United FC,3-0,Cheltenham Town FC
+19,Tue Dec 1 2009,Bradford City AFC,0-3,Rochdale AFC
+19,Tue Dec 1 2009,Barnet FC,1-1,AFC Bournemouth
 19,Wed Dec 2 2009,Chesterfield FC,2-3,Crewe Alexandra FC
-20,Sat Dec 5 2009,AFC Bournemouth,1-0,Shrewsbury Town FC
 20,Sat Dec 5 2009,Rotherham United FC,2-2,Burton Albion FC
 20,Sat Dec 5 2009,Rochdale AFC,3-0,Macclesfield Town FC
 20,Sat Dec 5 2009,Port Vale FC,0-2,Morecambe FC
@@ -236,12 +235,12 @@ Matchday,Date,Team 1,FT,Team 2
 20,Sat Dec 5 2009,Crewe Alexandra FC,0-0,Lincoln City FC
 20,Sat Dec 5 2009,Cheltenham Town FC,2-2,Northampton Town FC
 20,Sat Dec 5 2009,Bury FC,2-0,Barnet FC
-20,Sat Dec 5 2009,Darlington FC,0-1,Bradford City AFC
+20,Sat Dec 5 2009,AFC Bournemouth,1-0,Shrewsbury Town FC
 20,Sat Dec 5 2009,Aldershot Town FC,1-0,Chesterfield FC
-21,Sat Dec 12 2009,Notts County FC,1-2,Accrington Stanley FC
+20,Sat Dec 5 2009,Darlington FC,0-1,Bradford City AFC
 21,Sat Dec 12 2009,Torquay United FC,5-0,Darlington FC
 21,Sat Dec 12 2009,Shrewsbury Town FC,0-0,Grimsby Town FC
-21,Sat Dec 12 2009,Chesterfield FC,1-0,Cheltenham Town FC
+21,Sat Dec 12 2009,Notts County FC,1-2,Accrington Stanley FC
 21,Sat Dec 12 2009,Northampton Town FC,1-1,Port Vale FC
 21,Sat Dec 12 2009,Morecambe FC,5-0,AFC Bournemouth
 21,Sat Dec 12 2009,Macclesfield Town FC,3-1,Hereford FC (2014-)
@@ -250,16 +249,18 @@ Matchday,Date,Team 1,FT,Team 2
 21,Sat Dec 12 2009,Barnet FC,1-2,Crewe Alexandra FC
 21,Sat Dec 12 2009,Burton Albion FC,6-1,Aldershot Town FC
 21,Sat Dec 12 2009,Bradford City AFC,2-4,Rotherham United FC
+21,Sat Dec 12 2009,Chesterfield FC,1-0,Cheltenham Town FC
 22,Fri Dec 18 2009,Grimsby Town FC,1-1,Morecambe FC
 22,Sat Dec 19 2009,Rochdale AFC,4-0,Shrewsbury Town FC
+23,Sat Dec 26 2009,Northampton Town FC,1-0,Dagenham & Redbridge FC
+23,Sat Dec 26 2009,Shrewsbury Town FC,2-2,Macclesfield Town FC
 23,Sat Dec 26 2009,Torquay United FC,1-0,Hereford FC (2014-)
 23,Sat Dec 26 2009,Morecambe FC,1-2,Accrington Stanley FC
+23,Sat Dec 26 2009,Lincoln City FC,2-1,Chesterfield FC
 23,Sat Dec 26 2009,Crewe Alexandra FC,2-2,Rochdale AFC
-23,Sat Dec 26 2009,Shrewsbury Town FC,2-2,Macclesfield Town FC
-23,Sat Dec 26 2009,Northampton Town FC,1-0,Dagenham & Redbridge FC
 23,Sat Dec 26 2009,Cheltenham Town FC,0-1,AFC Bournemouth
 23,Sat Dec 26 2009,Aldershot Town FC,4-0,Barnet FC
-23,Sat Dec 26 2009,Lincoln City FC,2-1,Chesterfield FC
+24,Mon Dec 28 2009,Rochdale AFC,4-1,Morecambe FC
 24,Mon Dec 28 2009,Macclesfield Town FC,4-1,Crewe Alexandra FC
 24,Mon Dec 28 2009,Grimsby Town FC,1-2,Port Vale FC
 24,Mon Dec 28 2009,Dagenham & Redbridge FC,0-2,Cheltenham Town FC
@@ -268,205 +269,200 @@ Matchday,Date,Team 1,FT,Team 2
 24,Mon Dec 28 2009,AFC Bournemouth,2-1,Torquay United FC
 24,Mon Dec 28 2009,Barnet FC,0-0,Northampton Town FC
 24,Mon Dec 28 2009,Burton Albion FC,1-4,Notts County FC
-24,Mon Dec 28 2009,Rochdale AFC,4-1,Morecambe FC
-25,Sat Jan 2 2010,AFC Bournemouth,0-2,Northampton Town FC
+25,Sat Jan 2 2010,Grimsby Town FC,1-1,Bury FC
 25,Sat Jan 2 2010,Chesterfield FC,0-1,Shrewsbury Town FC
 25,Sat Jan 2 2010,Bradford City AFC,1-1,Cheltenham Town FC
-25,Sat Jan 2 2010,Grimsby Town FC,1-1,Bury FC
-27,Sat Jan 16 2010,Chesterfield FC,1-0,Torquay United FC
-27,Sat Jan 16 2010,Dagenham & Redbridge FC,2-0,Crewe Alexandra FC
-27,Sat Jan 16 2010,Burton Albion FC,1-1,Shrewsbury Town FC
-27,Sat Jan 16 2010,Grimsby Town FC,0-0,Cheltenham Town FC
+25,Sat Jan 2 2010,AFC Bournemouth,0-2,Northampton Town FC
 27,Sat Jan 16 2010,AFC Bournemouth,1-2,Bury FC
+27,Sat Jan 16 2010,Chesterfield FC,1-0,Torquay United FC
 27,Sat Jan 16 2010,Barnet FC,1-2,Lincoln City FC
-23,Tue Jan 19 2010,Bury FC,2-1,Bradford City AFC
+27,Sat Jan 16 2010,Grimsby Town FC,0-0,Cheltenham Town FC
+27,Sat Jan 16 2010,Burton Albion FC,1-1,Shrewsbury Town FC
+27,Sat Jan 16 2010,Dagenham & Redbridge FC,2-0,Crewe Alexandra FC
+23,Tue Jan 19 2010,Rotherham United FC,1-2,Darlington FC
 23,Tue Jan 19 2010,Port Vale FC,3-1,Burton Albion FC
+23,Tue Jan 19 2010,Bury FC,2-1,Bradford City AFC
 25,Tue Jan 19 2010,Hereford FC (2014-),1-1,Crewe Alexandra FC
 26,Tue Jan 19 2010,Aldershot Town FC,1-1,Rochdale AFC
-23,Tue Jan 19 2010,Rotherham United FC,1-2,Darlington FC
 27,Wed Jan 20 2010,Macclesfield Town FC,0-2,Northampton Town FC
-28,Sat Jan 23 2010,Cheltenham Town FC,1-4,Rochdale AFC
-28,Sat Jan 23 2010,Lincoln City FC,2-1,Bradford City AFC
 26,Sat Jan 23 2010,Northampton Town FC,0-0,Chesterfield FC
-28,Sat Jan 23 2010,Bury FC,1-0,Hereford FC (2014-)
 28,Sat Jan 23 2010,Rotherham United FC,2-1,Grimsby Town FC
-28,Sat Jan 23 2010,Crewe Alexandra FC,3-0,Darlington FC
-28,Sat Jan 23 2010,Morecambe FC,2-1,Barnet FC
 28,Sat Jan 23 2010,Shrewsbury Town FC,2-1,Dagenham & Redbridge FC
 28,Sat Jan 23 2010,Port Vale FC,0-0,Macclesfield Town FC
-28,Sat Jan 23 2010,Aldershot Town FC,2-1,AFC Bournemouth
 28,Sat Jan 23 2010,Torquay United FC,2-3,Burton Albion FC
-24,Tue Jan 26 2010,Chesterfield FC,0-1,Rotherham United FC
-25,Tue Jan 26 2010,Barnet FC,1-1,Torquay United FC
-25,Tue Jan 26 2010,Macclesfield Town FC,2-2,Morecambe FC
+28,Sat Jan 23 2010,Aldershot Town FC,2-1,AFC Bournemouth
+28,Sat Jan 23 2010,Lincoln City FC,2-1,Bradford City AFC
+28,Sat Jan 23 2010,Crewe Alexandra FC,3-0,Darlington FC
+28,Sat Jan 23 2010,Cheltenham Town FC,1-4,Rochdale AFC
+28,Sat Jan 23 2010,Bury FC,1-0,Hereford FC (2014-)
+28,Sat Jan 23 2010,Morecambe FC,2-1,Barnet FC
 22,Tue Jan 26 2010,Darlington FC,1-2,Northampton Town FC
+24,Tue Jan 26 2010,Chesterfield FC,0-1,Rotherham United FC
 25,Tue Jan 26 2010,Dagenham & Redbridge FC,0-3,Notts County FC
 25,Tue Jan 26 2010,Accrington Stanley FC,2-1,Aldershot Town FC
+25,Tue Jan 26 2010,Macclesfield Town FC,2-2,Morecambe FC
+25,Tue Jan 26 2010,Barnet FC,1-1,Torquay United FC
 27,Tue Jan 26 2010,Rochdale AFC,0-0,Port Vale FC
 25,Wed Jan 27 2010,Burton Albion FC,1-0,Lincoln City FC
+29,Sat Jan 30 2010,Torquay United FC,1-2,Bradford City AFC
+29,Sat Jan 30 2010,Shrewsbury Town FC,0-1,Accrington Stanley FC
+29,Sat Jan 30 2010,Port Vale FC,2-0,Hereford FC (2014-)
+29,Sat Jan 30 2010,Notts County FC,2-0,Barnet FC
+29,Sat Jan 30 2010,Aldershot Town FC,1-1,Grimsby Town FC
+29,Sat Jan 30 2010,Morecambe FC,0-1,Chesterfield FC
 29,Sat Jan 30 2010,Crewe Alexandra FC,1-2,AFC Bournemouth
 29,Sat Jan 30 2010,Northampton Town FC,1-1,Burton Albion FC
-29,Sat Jan 30 2010,Aldershot Town FC,1-1,Grimsby Town FC
-29,Sat Jan 30 2010,Port Vale FC,2-0,Hereford FC (2014-)
-29,Sat Jan 30 2010,Shrewsbury Town FC,0-1,Accrington Stanley FC
-29,Sat Jan 30 2010,Torquay United FC,1-2,Bradford City AFC
-29,Sat Jan 30 2010,Morecambe FC,0-1,Chesterfield FC
-29,Sat Jan 30 2010,Notts County FC,2-0,Barnet FC
 29,Mon Feb 1 2010,Bury FC,1-0,Rochdale AFC
 22,Tue Feb 2 2010,Crewe Alexandra FC,1-1,Torquay United FC
 22,Tue Feb 2 2010,Hereford FC (2014-),2-0,Lincoln City FC
 26,Tue Feb 2 2010,Rotherham United FC,1-3,AFC Bournemouth
-30,Sat Feb 6 2010,AFC Bournemouth,0-0,Cheltenham Town FC
-30,Sat Feb 6 2010,Bradford City AFC,0-1,Bury FC
-30,Sat Feb 6 2010,Barnet FC,3-0,Aldershot Town FC
-30,Sat Feb 6 2010,Macclesfield Town FC,0-1,Shrewsbury Town FC
-30,Sat Feb 6 2010,Accrington Stanley FC,3-2,Morecambe FC
-30,Sat Feb 6 2010,Burton Albion FC,1-0,Port Vale FC
-30,Sat Feb 6 2010,Chesterfield FC,2-1,Lincoln City FC
 30,Sat Feb 6 2010,Rochdale AFC,2-0,Crewe Alexandra FC
-30,Sat Feb 6 2010,Darlington FC,2-0,Rotherham United FC
-30,Sat Feb 6 2010,Grimsby Town FC,0-1,Notts County FC
-30,Sat Feb 6 2010,Dagenham & Redbridge FC,0-1,Northampton Town FC
+30,Sat Feb 6 2010,Macclesfield Town FC,0-1,Shrewsbury Town FC
 30,Sat Feb 6 2010,Hereford FC (2014-),1-0,Torquay United FC
+30,Sat Feb 6 2010,Grimsby Town FC,0-1,Notts County FC
+30,Sat Feb 6 2010,Darlington FC,2-0,Rotherham United FC
+30,Sat Feb 6 2010,Dagenham & Redbridge FC,0-1,Northampton Town FC
+30,Sat Feb 6 2010,Chesterfield FC,2-1,Lincoln City FC
+30,Sat Feb 6 2010,Burton Albion FC,1-0,Port Vale FC
+30,Sat Feb 6 2010,Accrington Stanley FC,3-2,Morecambe FC
+30,Sat Feb 6 2010,AFC Bournemouth,0-0,Cheltenham Town FC
+30,Sat Feb 6 2010,Barnet FC,3-0,Aldershot Town FC
+30,Sat Feb 6 2010,Bradford City AFC,0-1,Bury FC
+22,Tue Feb 9 2010,AFC Bournemouth,2-1,Notts County FC
+22,Tue Feb 9 2010,Rotherham United FC,2-0,Dagenham & Redbridge FC
 22,Tue Feb 9 2010,Port Vale FC,1-2,Chesterfield FC
 22,Tue Feb 9 2010,Bury FC,2-1,Macclesfield Town FC
 22,Tue Feb 9 2010,Cheltenham Town FC,0-1,Burton Albion FC
-22,Tue Feb 9 2010,AFC Bournemouth,2-1,Notts County FC
+24,Tue Feb 9 2010,Darlington FC,1-1,Lincoln City FC
 26,Tue Feb 9 2010,Shrewsbury Town FC,2-0,Barnet FC
 28,Tue Feb 9 2010,Northampton Town FC,4-0,Accrington Stanley FC
-22,Tue Feb 9 2010,Rotherham United FC,2-0,Dagenham & Redbridge FC
-24,Tue Feb 9 2010,Darlington FC,1-1,Lincoln City FC
 31,Fri Feb 12 2010,Northampton Town FC,0-3,Aldershot Town FC
 31,Fri Feb 12 2010,Burton Albion FC,1-2,Crewe Alexandra FC
-31,Sat Feb 13 2010,Torquay United FC,1-2,Port Vale FC
-31,Sat Feb 13 2010,Lincoln City FC,1-2,Rotherham United FC
-31,Sat Feb 13 2010,Barnet FC,1-1,Cheltenham Town FC
-31,Sat Feb 13 2010,Dagenham & Redbridge FC,1-0,AFC Bournemouth
-31,Sat Feb 13 2010,Macclesfield Town FC,0-0,Accrington Stanley FC
-31,Sat Feb 13 2010,Bradford City AFC,0-0,Grimsby Town FC
-31,Sat Feb 13 2010,Chesterfield FC,1-0,Bury FC
-31,Sat Feb 13 2010,Shrewsbury Town FC,3-1,Hereford FC (2014-)
 31,Sat Feb 13 2010,Morecambe FC,2-0,Darlington FC
+31,Sat Feb 13 2010,Shrewsbury Town FC,3-1,Hereford FC (2014-)
+31,Sat Feb 13 2010,Torquay United FC,1-2,Port Vale FC
+31,Sat Feb 13 2010,Barnet FC,1-1,Cheltenham Town FC
+31,Sat Feb 13 2010,Lincoln City FC,1-2,Rotherham United FC
+31,Sat Feb 13 2010,Dagenham & Redbridge FC,1-0,AFC Bournemouth
+31,Sat Feb 13 2010,Chesterfield FC,1-0,Bury FC
+31,Sat Feb 13 2010,Bradford City AFC,0-0,Grimsby Town FC
+31,Sat Feb 13 2010,Macclesfield Town FC,0-0,Accrington Stanley FC
 24,Tue Feb 16 2010,Hereford FC (2014-),2-0,Aldershot Town FC
 26,Tue Feb 16 2010,Morecambe FC,3-2,Burton Albion FC
 26,Tue Feb 16 2010,Lincoln City FC,2-1,Accrington Stanley FC
 23,Wed Feb 17 2010,Notts County FC,1-1,Grimsby Town FC
 32,Fri Feb 19 2010,Rotherham United FC,1-1,Torquay United FC
 32,Fri Feb 19 2010,Bury FC,1-0,Shrewsbury Town FC
-32,Sat Feb 20 2010,Darlington FC,2-3,Chesterfield FC
+32,Sat Feb 20 2010,Grimsby Town FC,2-2,Lincoln City FC
+32,Sat Feb 20 2010,Port Vale FC,0-2,Barnet FC
+32,Sat Feb 20 2010,Hereford FC (2014-),3-4,Burton Albion FC
 32,Sat Feb 20 2010,Rochdale AFC,3-1,Dagenham & Redbridge FC
+32,Sat Feb 20 2010,Darlington FC,2-3,Chesterfield FC
 32,Sat Feb 20 2010,Crewe Alexandra FC,3-2,Northampton Town FC
 32,Sat Feb 20 2010,Cheltenham Town FC,2-0,Morecambe FC
 32,Sat Feb 20 2010,Accrington Stanley FC,2-0,Bradford City AFC
 32,Sat Feb 20 2010,Aldershot Town FC,1-1,Notts County FC
-32,Sat Feb 20 2010,Hereford FC (2014-),3-4,Burton Albion FC
-32,Sat Feb 20 2010,Port Vale FC,0-2,Barnet FC
 32,Sat Feb 20 2010,AFC Bournemouth,1-1,Macclesfield Town FC
-32,Sat Feb 20 2010,Grimsby Town FC,2-2,Lincoln City FC
 33,Mon Feb 22 2010,Rotherham United FC,1-1,Shrewsbury Town FC
-33,Tue Feb 23 2010,Rochdale AFC,1-3,Bradford City AFC
+33,Tue Feb 23 2010,Aldershot Town FC,2-3,Dagenham & Redbridge FC
 33,Tue Feb 23 2010,Port Vale FC,4-0,Lincoln City FC
 33,Tue Feb 23 2010,Hereford FC (2014-),0-2,Northampton Town FC
-33,Tue Feb 23 2010,Aldershot Town FC,2-3,Dagenham & Redbridge FC
+33,Tue Feb 23 2010,Rochdale AFC,1-3,Bradford City AFC
 33,Tue Feb 23 2010,Cheltenham Town FC,1-1,Torquay United FC
 33,Tue Feb 23 2010,Bury FC,0-0,Morecambe FC
-33,Tue Feb 23 2010,Grimsby Town FC,1-1,Macclesfield Town FC
 33,Tue Feb 23 2010,AFC Bournemouth,3-0,Barnet FC
+33,Tue Feb 23 2010,Grimsby Town FC,1-1,Macclesfield Town FC
 33,Wed Feb 24 2010,Crewe Alexandra FC,0-1,Chesterfield FC
 34,Sat Feb 27 2010,Macclesfield Town FC,0-1,Rochdale AFC
 34,Sat Feb 27 2010,Shrewsbury Town FC,1-0,AFC Bournemouth
+34,Sat Feb 27 2010,Notts County FC,5-0,Hereford FC (2014-)
 34,Sat Feb 27 2010,Northampton Town FC,2-1,Cheltenham Town FC
 34,Sat Feb 27 2010,Morecambe FC,1-0,Port Vale FC
 34,Sat Feb 27 2010,Torquay United FC,2-1,Accrington Stanley FC
 34,Sat Feb 27 2010,Lincoln City FC,1-1,Crewe Alexandra FC
-34,Sat Feb 27 2010,Barnet FC,0-0,Bury FC
-34,Sat Feb 27 2010,Bradford City AFC,1-0,Darlington FC
-34,Sat Feb 27 2010,Burton Albion FC,0-1,Rotherham United FC
 34,Sat Feb 27 2010,Dagenham & Redbridge FC,2-0,Grimsby Town FC
 34,Sat Feb 27 2010,Chesterfield FC,0-1,Aldershot Town FC
-34,Sat Feb 27 2010,Notts County FC,5-0,Hereford FC (2014-)
-26,Tue Mar 2 2010,Cheltenham Town FC,0-1,Hereford FC (2014-)
-25,Tue Mar 2 2010,Darlington FC,1-3,Port Vale FC
-25,Tue Mar 2 2010,Rochdale AFC,4-0,Rotherham United FC
-26,Tue Mar 2 2010,Torquay United FC,0-0,Dagenham & Redbridge FC
+34,Sat Feb 27 2010,Burton Albion FC,0-1,Rotherham United FC
+34,Sat Feb 27 2010,Bradford City AFC,1-0,Darlington FC
+34,Sat Feb 27 2010,Barnet FC,0-0,Bury FC
 22,Tue Mar 2 2010,Aldershot Town FC,1-0,Bradford City AFC
+25,Tue Mar 2 2010,Rochdale AFC,4-0,Rotherham United FC
+25,Tue Mar 2 2010,Darlington FC,1-3,Port Vale FC
 26,Tue Mar 2 2010,Notts County FC,1-0,Macclesfield Town FC
-35,Sat Mar 6 2010,Hereford FC (2014-),0-2,Macclesfield Town FC
-35,Sat Mar 6 2010,Bury FC,0-0,Dagenham & Redbridge FC
+26,Tue Mar 2 2010,Cheltenham Town FC,0-1,Hereford FC (2014-)
+26,Tue Mar 2 2010,Torquay United FC,0-0,Dagenham & Redbridge FC
 35,Sat Mar 6 2010,Port Vale FC,1-3,Northampton Town FC
-35,Sat Mar 6 2010,Aldershot Town FC,0-2,Burton Albion FC
-35,Sat Mar 6 2010,Accrington Stanley FC,0-3,Notts County FC
-35,Sat Mar 6 2010,AFC Bournemouth,1-0,Morecambe FC
-35,Sat Mar 6 2010,Cheltenham Town FC,0-1,Chesterfield FC
-35,Sat Mar 6 2010,Rotherham United FC,1-2,Bradford City AFC
-35,Sat Mar 6 2010,Grimsby Town FC,3-0,Shrewsbury Town FC
-35,Sat Mar 6 2010,Crewe Alexandra FC,2-2,Barnet FC
-35,Sat Mar 6 2010,Darlington FC,1-3,Torquay United FC
 35,Sat Mar 6 2010,Rochdale AFC,1-1,Lincoln City FC
+35,Sat Mar 6 2010,Rotherham United FC,1-2,Bradford City AFC
+35,Sat Mar 6 2010,Hereford FC (2014-),0-2,Macclesfield Town FC
+35,Sat Mar 6 2010,Grimsby Town FC,3-0,Shrewsbury Town FC
+35,Sat Mar 6 2010,Darlington FC,1-3,Torquay United FC
+35,Sat Mar 6 2010,Crewe Alexandra FC,2-2,Barnet FC
+35,Sat Mar 6 2010,Cheltenham Town FC,0-1,Chesterfield FC
+35,Sat Mar 6 2010,Bury FC,0-0,Dagenham & Redbridge FC
+35,Sat Mar 6 2010,AFC Bournemouth,1-0,Morecambe FC
+35,Sat Mar 6 2010,Accrington Stanley FC,0-3,Notts County FC
+35,Sat Mar 6 2010,Aldershot Town FC,0-2,Burton Albion FC
+18,Tue Mar 9 2010,Accrington Stanley FC,1-1,Macclesfield Town FC
 26,Tue Mar 9 2010,Port Vale FC,2-1,Bradford City AFC
+26,Tue Mar 9 2010,Crewe Alexandra FC,4-2,Grimsby Town FC
 26,Tue Mar 9 2010,Bury FC,1-1,Darlington FC
 28,Tue Mar 9 2010,Notts County FC,1-0,Chesterfield FC
-26,Tue Mar 9 2010,Crewe Alexandra FC,4-2,Grimsby Town FC
-18,Tue Mar 9 2010,Accrington Stanley FC,1-1,Macclesfield Town FC
 36,Fri Mar 12 2010,Lincoln City FC,3-1,Hereford FC (2014-)
-36,Sat Mar 13 2010,Northampton Town FC,2-0,Darlington FC
-36,Sat Mar 13 2010,Macclesfield Town FC,2-0,Bury FC
-36,Sat Mar 13 2010,Torquay United FC,1-1,Crewe Alexandra FC
 36,Sat Mar 13 2010,Shrewsbury Town FC,0-1,Rochdale AFC
-36,Sat Mar 13 2010,Chesterfield FC,0-5,Port Vale FC
-36,Sat Mar 13 2010,Bradford City AFC,2-1,Aldershot Town FC
+36,Sat Mar 13 2010,Torquay United FC,1-1,Crewe Alexandra FC
+36,Sat Mar 13 2010,Northampton Town FC,2-0,Darlington FC
+36,Sat Mar 13 2010,Morecambe FC,1-1,Grimsby Town FC
+36,Sat Mar 13 2010,Macclesfield Town FC,2-0,Bury FC
 36,Sat Mar 13 2010,Dagenham & Redbridge FC,0-1,Rotherham United FC
 36,Sat Mar 13 2010,Barnet FC,1-2,Accrington Stanley FC
 36,Sat Mar 13 2010,Burton Albion FC,5-6,Cheltenham Town FC
-36,Sat Mar 13 2010,Morecambe FC,1-1,Grimsby Town FC
+36,Sat Mar 13 2010,Bradford City AFC,2-1,Aldershot Town FC
+36,Sat Mar 13 2010,Chesterfield FC,0-5,Port Vale FC
 36,Mon Mar 15 2010,Notts County FC,2-2,AFC Bournemouth
-27,Tue Mar 16 2010,Accrington Stanley FC,2-1,Rotherham United FC
 27,Tue Mar 16 2010,Hereford FC (2014-),0-1,Morecambe FC
+27,Tue Mar 16 2010,Accrington Stanley FC,2-1,Rotherham United FC
 29,Tue Mar 16 2010,Lincoln City FC,1-1,Dagenham & Redbridge FC
-37,Sat Mar 20 2010,Burton Albion FC,2-2,Chesterfield FC
-37,Sat Mar 20 2010,Cheltenham Town FC,1-1,Port Vale FC
-37,Sat Mar 20 2010,Crewe Alexandra FC,0-1,Notts County FC
-37,Sat Mar 20 2010,Darlington FC,1-2,Barnet FC
-37,Sat Mar 20 2010,Dagenham & Redbridge FC,3-1,Macclesfield Town FC
-37,Sat Mar 20 2010,Aldershot Town FC,2-0,Shrewsbury Town FC
-37,Sat Mar 20 2010,Accrington Stanley FC,2-4,Rochdale AFC
-37,Sat Mar 20 2010,Grimsby Town FC,3-2,AFC Bournemouth
-37,Sat Mar 20 2010,Torquay United FC,2-3,Lincoln City FC
+37,Sat Mar 20 2010,Hereford FC (2014-),2-0,Bradford City AFC
 37,Sat Mar 20 2010,Rotherham United FC,1-0,Bury FC
 37,Sat Mar 20 2010,Northampton Town FC,2-0,Morecambe FC
-37,Sat Mar 20 2010,Hereford FC (2014-),2-0,Bradford City AFC
+37,Sat Mar 20 2010,Torquay United FC,2-3,Lincoln City FC
+37,Sat Mar 20 2010,Grimsby Town FC,3-2,AFC Bournemouth
+37,Sat Mar 20 2010,Accrington Stanley FC,2-4,Rochdale AFC
+37,Sat Mar 20 2010,Dagenham & Redbridge FC,3-1,Macclesfield Town FC
+37,Sat Mar 20 2010,Crewe Alexandra FC,0-1,Notts County FC
+37,Sat Mar 20 2010,Cheltenham Town FC,1-1,Port Vale FC
+37,Sat Mar 20 2010,Burton Albion FC,2-2,Chesterfield FC
+37,Sat Mar 20 2010,Aldershot Town FC,2-0,Shrewsbury Town FC
+37,Sat Mar 20 2010,Darlington FC,1-2,Barnet FC
 27,Tue Mar 23 2010,Bradford City AFC,0-0,Notts County FC
 27,Tue Mar 23 2010,Darlington FC,1-2,Aldershot Town FC
 29,Tue Mar 23 2010,Rotherham United FC,3-1,Macclesfield Town FC
 33,Tue Mar 23 2010,Accrington Stanley FC,0-2,Burton Albion FC
-38,Sat Mar 27 2010,Bury FC,1-2,Aldershot Town FC
-38,Sat Mar 27 2010,Lincoln City FC,1-1,Northampton Town FC
-38,Sat Mar 27 2010,Bradford City AFC,3-3,Dagenham & Redbridge FC
-38,Sat Mar 27 2010,AFC Bournemouth,2-0,Accrington Stanley FC
 38,Sat Mar 27 2010,Shrewsbury Town FC,0-2,Darlington FC
 38,Sat Mar 27 2010,Rochdale AFC,4-1,Grimsby Town FC
 38,Sat Mar 27 2010,Port Vale FC,0-1,Crewe Alexandra FC
-38,Sat Mar 27 2010,Chesterfield FC,1-2,Hereford FC (2014-)
+38,Sat Mar 27 2010,Notts County FC,1-0,Rotherham United FC
 38,Sat Mar 27 2010,Morecambe FC,2-0,Torquay United FC
 38,Sat Mar 27 2010,Macclesfield Town FC,1-0,Cheltenham Town FC
 38,Sat Mar 27 2010,Barnet FC,1-1,Burton Albion FC
-38,Sat Mar 27 2010,Notts County FC,1-0,Rotherham United FC
-39,Fri Apr 2 2010,Grimsby Town FC,1-2,Northampton Town FC
+38,Sat Mar 27 2010,Chesterfield FC,1-2,Hereford FC (2014-)
+38,Sat Mar 27 2010,Bury FC,1-2,Aldershot Town FC
+38,Sat Mar 27 2010,Bradford City AFC,3-3,Dagenham & Redbridge FC
+38,Sat Mar 27 2010,AFC Bournemouth,2-0,Accrington Stanley FC
+38,Sat Mar 27 2010,Lincoln City FC,1-1,Northampton Town FC
 39,Fri Apr 2 2010,Morecambe FC,4-3,Crewe Alexandra FC
-39,Sat Apr 3 2010,Rotherham United FC,1-2,Port Vale FC
-39,Sat Apr 3 2010,Cheltenham Town FC,1-0,Lincoln City FC
-39,Sat Apr 3 2010,AFC Bournemouth,1-0,Bradford City AFC
-39,Sat Apr 3 2010,Burton Albion FC,1-2,Darlington FC
+39,Fri Apr 2 2010,Grimsby Town FC,1-2,Northampton Town FC
 39,Sat Apr 3 2010,Torquay United FC,2-1,Shrewsbury Town FC
-39,Sat Apr 3 2010,Chesterfield FC,2-0,Rochdale AFC
+39,Sat Apr 3 2010,Rotherham United FC,1-2,Port Vale FC
 39,Sat Apr 3 2010,Notts County FC,5-0,Bury FC
 39,Sat Apr 3 2010,Macclesfield Town FC,1-1,Aldershot Town FC
 39,Sat Apr 3 2010,Hereford FC (2014-),2-1,Barnet FC
 39,Sat Apr 3 2010,Dagenham & Redbridge FC,3-1,Accrington Stanley FC
-40,Mon Apr 5 2010,Barnet FC,3-1,Chesterfield FC
-40,Mon Apr 5 2010,Bradford City AFC,1-2,Macclesfield Town FC
-40,Mon Apr 5 2010,Aldershot Town FC,3-0,Rotherham United FC
-40,Mon Apr 5 2010,Crewe Alexandra FC,1-2,Cheltenham Town FC
+39,Sat Apr 3 2010,Chesterfield FC,2-0,Rochdale AFC
+39,Sat Apr 3 2010,Cheltenham Town FC,1-0,Lincoln City FC
+39,Sat Apr 3 2010,Burton Albion FC,1-2,Darlington FC
+39,Sat Apr 3 2010,AFC Bournemouth,1-0,Bradford City AFC
 40,Mon Apr 5 2010,Shrewsbury Town FC,0-1,Notts County FC
 40,Mon Apr 5 2010,Rochdale AFC,0-0,AFC Bournemouth
 40,Mon Apr 5 2010,Port Vale FC,3-1,Dagenham & Redbridge FC
@@ -475,22 +471,22 @@ Matchday,Date,Team 1,FT,Team 2
 40,Mon Apr 5 2010,Darlington FC,0-1,Hereford FC (2014-)
 40,Mon Apr 5 2010,Accrington Stanley FC,2-3,Grimsby Town FC
 40,Mon Apr 5 2010,Bury FC,3-0,Burton Albion FC
-41,Sat Apr 10 2010,Morecambe FC,2-0,Rotherham United FC
-41,Sat Apr 10 2010,Chesterfield FC,2-2,Dagenham & Redbridge FC
-41,Sat Apr 10 2010,Burton Albion FC,1-1,Bradford City AFC
-41,Sat Apr 10 2010,Barnet FC,1-2,Macclesfield Town FC
+40,Mon Apr 5 2010,Bradford City AFC,1-2,Macclesfield Town FC
+40,Mon Apr 5 2010,Barnet FC,3-1,Chesterfield FC
+40,Mon Apr 5 2010,Aldershot Town FC,3-0,Rotherham United FC
+40,Mon Apr 5 2010,Crewe Alexandra FC,1-2,Cheltenham Town FC
 41,Sat Apr 10 2010,Torquay United FC,5-0,Rochdale AFC
 41,Sat Apr 10 2010,Port Vale FC,1-1,Aldershot Town FC
 41,Sat Apr 10 2010,Northampton Town FC,0-1,Notts County FC
-41,Sat Apr 10 2010,Cheltenham Town FC,5-2,Bury FC
+41,Sat Apr 10 2010,Morecambe FC,2-0,Rotherham United FC
 41,Sat Apr 10 2010,Lincoln City FC,2-1,AFC Bournemouth
 41,Sat Apr 10 2010,Hereford FC (2014-),0-1,Grimsby Town FC
 41,Sat Apr 10 2010,Darlington FC,0-0,Accrington Stanley FC
 41,Sat Apr 10 2010,Crewe Alexandra FC,0-3,Shrewsbury Town FC
-42,Tue Apr 13 2010,AFC Bournemouth,2-1,Hereford FC (2014-)
-42,Tue Apr 13 2010,Bradford City AFC,2-0,Morecambe FC
-42,Tue Apr 13 2010,Accrington Stanley FC,1-2,Port Vale FC
-42,Tue Apr 13 2010,Aldershot Town FC,0-2,Torquay United FC
+41,Sat Apr 10 2010,Chesterfield FC,2-2,Dagenham & Redbridge FC
+41,Sat Apr 10 2010,Cheltenham Town FC,5-2,Bury FC
+41,Sat Apr 10 2010,Barnet FC,1-2,Macclesfield Town FC
+41,Sat Apr 10 2010,Burton Albion FC,1-1,Bradford City AFC
 42,Tue Apr 13 2010,Shrewsbury Town FC,0-0,Cheltenham Town FC
 42,Tue Apr 13 2010,Rotherham United FC,1-0,Northampton Town FC
 42,Tue Apr 13 2010,Rochdale AFC,0-1,Darlington FC
@@ -499,10 +495,10 @@ Matchday,Date,Team 1,FT,Team 2
 42,Tue Apr 13 2010,Grimsby Town FC,2-2,Chesterfield FC
 42,Tue Apr 13 2010,Dagenham & Redbridge FC,4-1,Barnet FC
 42,Tue Apr 13 2010,Bury FC,3-0,Crewe Alexandra FC
-43,Sat Apr 17 2010,Aldershot Town FC,1-1,Crewe Alexandra FC
-43,Sat Apr 17 2010,AFC Bournemouth,2-0,Darlington FC
-43,Sat Apr 17 2010,Bury FC,1-1,Port Vale FC
-43,Sat Apr 17 2010,Accrington Stanley FC,1-2,Hereford FC (2014-)
+42,Tue Apr 13 2010,Bradford City AFC,2-0,Morecambe FC
+42,Tue Apr 13 2010,AFC Bournemouth,2-1,Hereford FC (2014-)
+42,Tue Apr 13 2010,Aldershot Town FC,0-2,Torquay United FC
+42,Tue Apr 13 2010,Accrington Stanley FC,1-2,Port Vale FC
 43,Sat Apr 17 2010,Shrewsbury Town FC,1-0,Lincoln City FC
 43,Sat Apr 17 2010,Rotherham United FC,0-0,Cheltenham Town FC
 43,Sat Apr 17 2010,Rochdale AFC,1-0,Northampton Town FC
@@ -511,20 +507,24 @@ Matchday,Date,Team 1,FT,Team 2
 43,Sat Apr 17 2010,Dagenham & Redbridge FC,2-1,Burton Albion FC
 43,Sat Apr 17 2010,Macclesfield Town FC,2-0,Chesterfield FC
 43,Sat Apr 17 2010,Bradford City AFC,2-1,Barnet FC
+43,Sat Apr 17 2010,AFC Bournemouth,2-0,Darlington FC
+43,Sat Apr 17 2010,Aldershot Town FC,1-1,Crewe Alexandra FC
+43,Sat Apr 17 2010,Accrington Stanley FC,1-2,Hereford FC (2014-)
+43,Sat Apr 17 2010,Bury FC,1-1,Port Vale FC
 29,Tue Apr 20 2010,Cheltenham Town FC,3-3,Darlington FC
 31,Tue Apr 20 2010,Notts County FC,1-0,Rochdale AFC
-44,Sat Apr 24 2010,Morecambe FC,1-0,Dagenham & Redbridge FC
-44,Sat Apr 24 2010,Darlington FC,0-2,Grimsby Town FC
 44,Sat Apr 24 2010,Lincoln City FC,1-0,Bury FC
 44,Sat Apr 24 2010,Port Vale FC,2-1,Notts County FC
 44,Sat Apr 24 2010,Northampton Town FC,2-0,Shrewsbury Town FC
-44,Sat Apr 24 2010,Burton Albion FC,0-2,AFC Bournemouth
+44,Sat Apr 24 2010,Morecambe FC,1-0,Dagenham & Redbridge FC
 44,Sat Apr 24 2010,Torquay United FC,1-0,Macclesfield Town FC
 44,Sat Apr 24 2010,Hereford FC (2014-),2-1,Rochdale AFC
 44,Sat Apr 24 2010,Barnet FC,0-1,Rotherham United FC
 44,Sat Apr 24 2010,Crewe Alexandra FC,5-1,Accrington Stanley FC
 44,Sat Apr 24 2010,Chesterfield FC,1-1,Bradford City AFC
 44,Sat Apr 24 2010,Cheltenham Town FC,1-2,Aldershot Town FC
+44,Sat Apr 24 2010,Burton Albion FC,0-2,AFC Bournemouth
+44,Sat Apr 24 2010,Darlington FC,0-2,Grimsby Town FC
 22,Tue Apr 27 2010,Accrington Stanley FC,1-0,Barnet FC
 33,Tue Apr 27 2010,Darlington FC,0-5,Notts County FC
 45,Sat May 1 2010,Macclesfield Town FC,0-2,Darlington FC

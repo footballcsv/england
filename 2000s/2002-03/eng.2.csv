@@ -1,4 +1,4 @@
-Matchday,Date,Team 1,FT,Team 2
+Round,Date,Team 1,FT,Team 2
 1,Sat Aug 10 2002,Wimbledon FC,0-1,Gillingham FC
 1,Sat Aug 10 2002,Sheffield Wednesday FC,0-0,Stoke City FC
 1,Sat Aug 10 2002,Preston North End FC,1-2,Crystal Palace FC
@@ -8,57 +8,56 @@ Matchday,Date,Team 1,FT,Team 2
 1,Sat Aug 10 2002,Leicester City FC,2-0,Watford FC
 1,Sat Aug 10 2002,Derby County FC,3-0,Reading FC
 1,Sat Aug 10 2002,Coventry City FC,2-1,Sheffield United FC
-1,Sat Aug 10 2002,Burnley FC,1-3,Brighton & Hove Albion FC
 1,Sat Aug 10 2002,Walsall FC,0-2,Ipswich Town FC
+1,Sat Aug 10 2002,Burnley FC,1-3,Brighton & Hove Albion FC
 1,Sun Aug 11 2002,Bradford City AFC,0-0,Wolverhampton Wanderers FC
-2,Tue Aug 13 2002,Watford FC,0-0,Millwall FC
+2,Tue Aug 13 2002,Reading FC,2-1,Sheffield Wednesday FC
 2,Tue Aug 13 2002,Sheffield United FC,1-1,Portsmouth FC
 2,Tue Aug 13 2002,Rotherham United FC,1-1,Norwich City FC
-2,Tue Aug 13 2002,Reading FC,2-1,Sheffield Wednesday FC
-2,Tue Aug 13 2002,Grimsby Town FC,0-0,Wimbledon FC
+2,Tue Aug 13 2002,Watford FC,0-0,Millwall FC
+2,Tue Aug 13 2002,Crystal Palace FC,1-1,Bradford City AFC
 2,Tue Aug 13 2002,Gillingham FC,1-0,Derby County FC
 2,Tue Aug 13 2002,Brighton & Hove Albion FC,0-0,Coventry City FC
-2,Tue Aug 13 2002,Crystal Palace FC,1-1,Bradford City AFC
+2,Tue Aug 13 2002,Grimsby Town FC,0-0,Wimbledon FC
 2,Wed Aug 14 2002,Wolverhampton Wanderers FC,3-1,Walsall FC
 2,Wed Aug 14 2002,Stoke City FC,0-1,Leicester City FC
 2,Wed Aug 14 2002,Nottingham Forest FC,2-2,Preston North End FC
-3,Sat Aug 17 2002,Stoke City FC,2-1,Bradford City AFC
 3,Sat Aug 17 2002,Sheffield United FC,1-1,Walsall FC
 3,Sat Aug 17 2002,Watford FC,3-2,Wimbledon FC
-3,Sat Aug 17 2002,Brighton & Hove Albion FC,0-2,Norwich City FC
+3,Sat Aug 17 2002,Stoke City FC,2-1,Bradford City AFC
 3,Sat Aug 17 2002,Grimsby Town FC,1-2,Derby County FC
 3,Sat Aug 17 2002,Rotherham United FC,0-0,Preston North End FC
 3,Sat Aug 17 2002,Reading FC,1-2,Coventry City FC
 3,Sat Aug 17 2002,Nottingham Forest FC,4-0,Sheffield Wednesday FC
 3,Sat Aug 17 2002,Gillingham FC,1-0,Millwall FC
 3,Sat Aug 17 2002,Crystal Palace FC,2-3,Portsmouth FC
+3,Sat Aug 17 2002,Brighton & Hove Albion FC,0-2,Norwich City FC
 3,Sat Aug 17 2002,Wolverhampton Wanderers FC,3-0,Burnley FC
 3,Sun Aug 18 2002,Ipswich Town FC,6-1,Leicester City FC
-4,Sat Aug 24 2002,Portsmouth FC,3-0,Watford FC
 4,Sat Aug 24 2002,Norwich City FC,1-0,Gillingham FC
 4,Sat Aug 24 2002,Walsall FC,2-1,Nottingham Forest FC
 4,Sat Aug 24 2002,Sheffield Wednesday FC,1-2,Rotherham United FC
 4,Sat Aug 24 2002,Bradford City AFC,0-0,Grimsby Town FC
-4,Sat Aug 24 2002,Burnley FC,0-1,Sheffield United FC
+4,Sat Aug 24 2002,Portsmouth FC,3-0,Watford FC
 4,Sat Aug 24 2002,Wimbledon FC,1-0,Brighton & Hove Albion FC
 4,Sat Aug 24 2002,Millwall FC,1-1,Ipswich Town FC
 4,Sat Aug 24 2002,Leicester City FC,2-1,Reading FC
 4,Sat Aug 24 2002,Derby County FC,1-4,Wolverhampton Wanderers FC
 4,Sat Aug 24 2002,Coventry City FC,1-0,Crystal Palace FC
+4,Sat Aug 24 2002,Burnley FC,0-1,Sheffield United FC
 4,Sat Aug 24 2002,Preston North End FC,4-3,Stoke City FC
-5,Mon Aug 26 2002,Ipswich Town FC,1-2,Bradford City AFC
 5,Mon Aug 26 2002,Watford FC,5-2,Coventry City FC
 5,Mon Aug 26 2002,Stoke City FC,1-1,Norwich City FC
 5,Mon Aug 26 2002,Rotherham United FC,2-1,Derby County FC
-5,Mon Aug 26 2002,Gillingham FC,1-1,Preston North End FC
+5,Mon Aug 26 2002,Ipswich Town FC,1-2,Bradford City AFC
 5,Mon Aug 26 2002,Grimsby Town FC,0-1,Portsmouth FC
 5,Mon Aug 26 2002,Brighton & Hove Albion FC,0-2,Walsall FC
-5,Tue Aug 27 2002,Crystal Palace FC,0-0,Leicester City FC
+5,Mon Aug 26 2002,Gillingham FC,1-1,Preston North End FC
 5,Tue Aug 27 2002,Wolverhampton Wanderers FC,2-2,Sheffield Wednesday FC
-5,Tue Aug 27 2002,Reading FC,3-0,Burnley FC
 5,Tue Aug 27 2002,Sheffield United FC,3-1,Millwall FC
+5,Tue Aug 27 2002,Reading FC,3-0,Burnley FC
+5,Tue Aug 27 2002,Crystal Palace FC,0-0,Leicester City FC
 5,Wed Aug 28 2002,Nottingham Forest FC,2-0,Wimbledon FC
-6,Sat Aug 31 2002,Bradford City AFC,4-2,Rotherham United FC
 6,Sat Aug 31 2002,Norwich City FC,4-0,Watford FC
 6,Sat Aug 31 2002,Wimbledon FC,3-2,Wolverhampton Wanderers FC
 6,Sat Aug 31 2002,Walsall FC,0-2,Reading FC
@@ -67,58 +66,56 @@ Matchday,Date,Team 1,FT,Team 2
 6,Sat Aug 31 2002,Millwall FC,2-0,Grimsby Town FC
 6,Sat Aug 31 2002,Leicester City FC,2-0,Gillingham FC
 6,Sat Aug 31 2002,Burnley FC,0-0,Crystal Palace FC
+6,Sat Aug 31 2002,Bradford City AFC,4-2,Rotherham United FC
 6,Sat Aug 31 2002,Portsmouth FC,4-2,Brighton & Hove Albion FC
 6,Sun Sep 1 2002,Sheffield Wednesday FC,2-0,Sheffield United FC
 6,Sun Sep 1 2002,Preston North End FC,0-0,Ipswich Town FC
-7,Sat Sep 7 2002,Rotherham United FC,0-0,Reading FC
 7,Sat Sep 7 2002,Derby County FC,1-2,Burnley FC
-7,Sat Sep 7 2002,Wimbledon FC,2-3,Leicester City FC
+7,Sat Sep 7 2002,Rotherham United FC,0-0,Reading FC
 7,Sat Sep 7 2002,Watford FC,2-0,Walsall FC
 7,Sat Sep 7 2002,Norwich City FC,2-3,Sheffield United FC
 7,Sat Sep 7 2002,Millwall FC,1-0,Brighton & Hove Albion FC
 7,Sat Sep 7 2002,Gillingham FC,1-3,Portsmouth FC
-8,Sat Sep 14 2002,Burnley FC,2-1,Stoke City FC
-8,Sat Sep 14 2002,Nottingham Forest FC,0-1,Watford FC
-8,Sat Sep 14 2002,Brighton & Hove Albion FC,2-4,Gillingham FC
-8,Sat Sep 14 2002,Coventry City FC,3-2,Grimsby Town FC
-8,Sat Sep 14 2002,Crystal Palace FC,4-2,Wolverhampton Wanderers FC
-8,Sat Sep 14 2002,Leicester City FC,3-1,Derby County FC
-8,Sat Sep 14 2002,Preston North End FC,2-2,Sheffield Wednesday FC
+7,Sat Sep 7 2002,Wimbledon FC,2-3,Leicester City FC
+8,Sat Sep 14 2002,Portsmouth FC,1-0,Millwall FC
 8,Sat Sep 14 2002,Walsall FC,0-1,Bradford City AFC
 8,Sat Sep 14 2002,Sheffield United FC,1-0,Rotherham United FC
 8,Sat Sep 14 2002,Reading FC,0-1,Wimbledon FC
-8,Sat Sep 14 2002,Portsmouth FC,1-0,Millwall FC
+8,Sat Sep 14 2002,Preston North End FC,2-2,Sheffield Wednesday FC
+8,Sat Sep 14 2002,Nottingham Forest FC,0-1,Watford FC
+8,Sat Sep 14 2002,Leicester City FC,3-1,Derby County FC
+8,Sat Sep 14 2002,Crystal Palace FC,4-2,Wolverhampton Wanderers FC
+8,Sat Sep 14 2002,Coventry City FC,3-2,Grimsby Town FC
+8,Sat Sep 14 2002,Brighton & Hove Albion FC,2-4,Gillingham FC
+8,Sat Sep 14 2002,Burnley FC,2-1,Stoke City FC
 8,Sun Sep 15 2002,Ipswich Town FC,1-1,Norwich City FC
+9,Tue Sep 17 2002,Portsmouth FC,4-1,Wimbledon FC
+9,Tue Sep 17 2002,Sheffield United FC,2-1,Grimsby Town FC
 9,Tue Sep 17 2002,Preston North End FC,1-1,Watford FC
+9,Tue Sep 17 2002,Walsall FC,3-4,Rotherham United FC
 9,Tue Sep 17 2002,Leicester City FC,4-0,Bradford City AFC
 9,Tue Sep 17 2002,Crystal Palace FC,0-1,Derby County FC
 9,Tue Sep 17 2002,Brighton & Hove Albion FC,1-2,Stoke City FC
 9,Tue Sep 17 2002,Burnley FC,2-2,Millwall FC
-9,Tue Sep 17 2002,Walsall FC,3-4,Rotherham United FC
-9,Tue Sep 17 2002,Portsmouth FC,4-1,Wimbledon FC
-9,Tue Sep 17 2002,Sheffield United FC,2-1,Grimsby Town FC
 9,Wed Sep 18 2002,Nottingham Forest FC,4-1,Gillingham FC
 9,Wed Sep 18 2002,Coventry City FC,1-1,Sheffield Wednesday FC
 9,Wed Sep 18 2002,Reading FC,0-2,Norwich City FC
-10,Sat Sep 21 2002,Millwall FC,0-3,Walsall FC
-10,Sat Sep 21 2002,Gillingham FC,1-1,Sheffield United FC
-10,Sat Sep 21 2002,Grimsby Town FC,0-3,Nottingham Forest FC
-10,Sat Sep 21 2002,Sheffield Wednesday FC,0-0,Leicester City FC
-10,Sat Sep 21 2002,Bradford City AFC,2-2,Burnley FC
-10,Sat Sep 21 2002,Derby County FC,0-2,Preston North End FC
-10,Sat Sep 21 2002,Wolverhampton Wanderers FC,0-1,Reading FC
 10,Sat Sep 21 2002,Rotherham United FC,1-0,Brighton & Hove Albion FC
 10,Sat Sep 21 2002,Wimbledon FC,0-1,Coventry City FC
 10,Sat Sep 21 2002,Watford FC,3-3,Crystal Palace FC
+10,Sat Sep 21 2002,Sheffield Wednesday FC,0-0,Leicester City FC
+10,Sat Sep 21 2002,Wolverhampton Wanderers FC,0-1,Reading FC
 10,Sat Sep 21 2002,Norwich City FC,1-0,Portsmouth FC
+10,Sat Sep 21 2002,Millwall FC,0-3,Walsall FC
+10,Sat Sep 21 2002,Grimsby Town FC,0-3,Nottingham Forest FC
+10,Sat Sep 21 2002,Gillingham FC,1-1,Sheffield United FC
+10,Sat Sep 21 2002,Bradford City AFC,2-2,Burnley FC
+10,Sat Sep 21 2002,Derby County FC,0-2,Preston North End FC
 10,Sun Sep 22 2002,Stoke City FC,2-1,Ipswich Town FC
 7,Tue Sep 24 2002,Wolverhampton Wanderers FC,4-0,Preston North End FC
 7,Tue Sep 24 2002,Bradford City AFC,1-1,Coventry City FC
-7,Wed Sep 25 2002,Sheffield Wednesday FC,0-0,Crystal Palace FC
 7,Wed Sep 25 2002,Stoke City FC,2-2,Nottingham Forest FC
-11,Sat Sep 28 2002,Brighton & Hove Albion FC,1-2,Grimsby Town FC
-11,Sat Sep 28 2002,Burnley FC,1-0,Wimbledon FC
-11,Sat Sep 28 2002,Ipswich Town FC,0-1,Derby County FC
+7,Wed Sep 25 2002,Sheffield Wednesday FC,0-0,Crystal Palace FC
 11,Sat Sep 28 2002,Preston North End FC,1-2,Norwich City FC
 11,Sat Sep 28 2002,Sheffield United FC,1-2,Watford FC
 11,Sat Sep 28 2002,Reading FC,1-1,Stoke City FC
@@ -126,119 +123,119 @@ Matchday,Date,Team 1,FT,Team 2
 11,Sat Sep 28 2002,Portsmouth FC,3-0,Bradford City AFC
 11,Sat Sep 28 2002,Nottingham Forest FC,3-2,Rotherham United FC
 11,Sat Sep 28 2002,Leicester City FC,1-0,Wolverhampton Wanderers FC
+11,Sat Sep 28 2002,Ipswich Town FC,0-1,Derby County FC
 11,Sat Sep 28 2002,Coventry City FC,2-3,Millwall FC
+11,Sat Sep 28 2002,Brighton & Hove Albion FC,1-2,Grimsby Town FC
+11,Sat Sep 28 2002,Burnley FC,1-0,Wimbledon FC
 11,Sun Sep 29 2002,Crystal Palace FC,2-2,Gillingham FC
-12,Sat Oct 5 2002,Watford FC,1-0,Brighton & Hove Albion FC
-12,Sat Oct 5 2002,Derby County FC,2-2,Walsall FC
-12,Sat Oct 5 2002,Bradford City AFC,1-1,Preston North End FC
 12,Sat Oct 5 2002,Rotherham United FC,2-3,Portsmouth FC
 12,Sat Oct 5 2002,Norwich City FC,0-0,Leicester City FC
 12,Sat Oct 5 2002,Stoke City FC,1-1,Crystal Palace FC
 12,Sat Oct 5 2002,Sheffield Wednesday FC,1-3,Burnley FC
 12,Sat Oct 5 2002,Wolverhampton Wanderers FC,1-3,Sheffield United FC
-12,Sat Oct 5 2002,Gillingham FC,0-2,Coventry City FC
-12,Sat Oct 5 2002,Grimsby Town FC,0-3,Reading FC
 12,Sat Oct 5 2002,Millwall FC,1-2,Nottingham Forest FC
+12,Sat Oct 5 2002,Grimsby Town FC,0-3,Reading FC
+12,Sat Oct 5 2002,Gillingham FC,0-2,Coventry City FC
+12,Sat Oct 5 2002,Derby County FC,2-2,Walsall FC
+12,Sat Oct 5 2002,Bradford City AFC,1-1,Preston North End FC
+12,Sat Oct 5 2002,Watford FC,1-0,Brighton & Hove Albion FC
 12,Sun Oct 6 2002,Wimbledon FC,0-1,Ipswich Town FC
 7,Tue Oct 8 2002,Grimsby Town FC,3-0,Ipswich Town FC
 13,Sat Oct 12 2002,Rotherham United FC,1-1,Gillingham FC
-13,Sat Oct 12 2002,Watford FC,2-0,Grimsby Town FC
-13,Sat Oct 12 2002,Burnley FC,2-1,Walsall FC
 13,Sat Oct 12 2002,Bradford City AFC,0-0,Derby County FC
 13,Sat Oct 12 2002,Millwall FC,1-1,Wimbledon FC
 13,Sat Oct 12 2002,Ipswich Town FC,2-1,Sheffield Wednesday FC
-14,Sat Oct 19 2002,Stoke City FC,0-2,Wolverhampton Wanderers FC
-14,Sat Oct 19 2002,Norwich City FC,3-1,Millwall FC
-14,Sat Oct 19 2002,Portsmouth FC,1-1,Coventry City FC
-14,Sat Oct 19 2002,Sheffield Wednesday FC,2-1,Bradford City AFC
-14,Sat Oct 19 2002,Reading FC,3-1,Ipswich Town FC
-14,Sat Oct 19 2002,Grimsby Town FC,0-0,Rotherham United FC
-14,Sat Oct 19 2002,Brighton & Hove Albion FC,2-4,Sheffield United FC
-14,Sat Oct 19 2002,Gillingham FC,3-0,Watford FC
+13,Sat Oct 12 2002,Burnley FC,2-1,Walsall FC
+13,Sat Oct 12 2002,Watford FC,2-0,Grimsby Town FC
 14,Sat Oct 19 2002,Wimbledon FC,2-2,Crystal Palace FC
 14,Sat Oct 19 2002,Walsall FC,3-3,Preston North End FC
+14,Sat Oct 19 2002,Sheffield Wednesday FC,2-1,Bradford City AFC
+14,Sat Oct 19 2002,Reading FC,3-1,Ipswich Town FC
+14,Sat Oct 19 2002,Portsmouth FC,1-1,Coventry City FC
+14,Sat Oct 19 2002,Norwich City FC,3-1,Millwall FC
 14,Sat Oct 19 2002,Leicester City FC,0-1,Burnley FC
+14,Sat Oct 19 2002,Stoke City FC,0-2,Wolverhampton Wanderers FC
+14,Sat Oct 19 2002,Gillingham FC,3-0,Watford FC
+14,Sat Oct 19 2002,Brighton & Hove Albion FC,2-4,Sheffield United FC
+14,Sat Oct 19 2002,Grimsby Town FC,0-0,Rotherham United FC
 14,Sun Oct 20 2002,Derby County FC,0-0,Nottingham Forest FC
 2,Tue Oct 22 2002,Ipswich Town FC,2-2,Burnley FC
 13,Wed Oct 23 2002,Coventry City FC,1-1,Norwich City FC
 13,Wed Oct 23 2002,Sheffield United FC,2-1,Stoke City FC
-15,Sat Oct 26 2002,Watford FC,1-0,Sheffield Wednesday FC
-15,Sat Oct 26 2002,Ipswich Town FC,0-1,Gillingham FC
-15,Sat Oct 26 2002,Rotherham United FC,4-0,Stoke City FC
-15,Sat Oct 26 2002,Burnley FC,0-3,Portsmouth FC
-15,Sat Oct 26 2002,Coventry City FC,0-0,Walsall FC
 15,Sat Oct 26 2002,Wolverhampton Wanderers FC,4-1,Grimsby Town FC
-15,Sat Oct 26 2002,Crystal Palace FC,5-0,Brighton & Hove Albion FC
+15,Sat Oct 26 2002,Watford FC,1-0,Sheffield Wednesday FC
 15,Sat Oct 26 2002,Sheffield United FC,1-1,Wimbledon FC
 15,Sat Oct 26 2002,Bradford City AFC,2-1,Norwich City FC
 15,Sat Oct 26 2002,Preston North End FC,1-0,Reading FC
 15,Sat Oct 26 2002,Nottingham Forest FC,2-2,Leicester City FC
 15,Sat Oct 26 2002,Millwall FC,3-0,Derby County FC
-16,Tue Oct 29 2002,Grimsby Town FC,6-5,Burnley FC
-16,Tue Oct 29 2002,Gillingham FC,0-4,Wolverhampton Wanderers FC
-16,Tue Oct 29 2002,Reading FC,1-0,Bradford City AFC
-16,Tue Oct 29 2002,Leicester City FC,2-1,Coventry City FC
-16,Tue Oct 29 2002,Norwich City FC,0-0,Nottingham Forest FC
+15,Sat Oct 26 2002,Ipswich Town FC,0-1,Gillingham FC
+15,Sat Oct 26 2002,Crystal Palace FC,5-0,Brighton & Hove Albion FC
+15,Sat Oct 26 2002,Coventry City FC,0-0,Walsall FC
+15,Sat Oct 26 2002,Burnley FC,0-3,Portsmouth FC
+15,Sat Oct 26 2002,Rotherham United FC,4-0,Stoke City FC
 16,Tue Oct 29 2002,Wimbledon FC,2-1,Rotherham United FC
-16,Tue Oct 29 2002,Portsmouth FC,3-2,Preston North End FC
 16,Tue Oct 29 2002,Walsall FC,3-4,Crystal Palace FC
+16,Tue Oct 29 2002,Portsmouth FC,3-2,Preston North End FC
+16,Tue Oct 29 2002,Norwich City FC,0-0,Nottingham Forest FC
+16,Tue Oct 29 2002,Leicester City FC,2-1,Coventry City FC
+16,Tue Oct 29 2002,Reading FC,1-0,Bradford City AFC
+16,Tue Oct 29 2002,Gillingham FC,0-4,Wolverhampton Wanderers FC
+16,Tue Oct 29 2002,Grimsby Town FC,6-5,Burnley FC
 16,Wed Oct 30 2002,Stoke City FC,1-2,Watford FC
 16,Wed Oct 30 2002,Derby County FC,2-1,Sheffield United FC
 16,Wed Oct 30 2002,Sheffield Wednesday FC,0-1,Millwall FC
-17,Sat Nov 2 2002,Brighton & Hove Albion FC,3-2,Bradford City AFC
-17,Sat Nov 2 2002,Coventry City FC,2-1,Rotherham United FC
-17,Sat Nov 2 2002,Preston North End FC,3-1,Burnley FC
-17,Sat Nov 2 2002,Nottingham Forest FC,3-0,Sheffield United FC
-17,Sat Nov 2 2002,Portsmouth FC,0-2,Leicester City FC
-17,Sat Nov 2 2002,Grimsby Town FC,1-1,Gillingham FC
 17,Sat Nov 2 2002,Reading FC,2-0,Millwall FC
-17,Sat Nov 2 2002,Sheffield Wednesday FC,1-3,Derby County FC
+17,Sat Nov 2 2002,Wimbledon FC,4-2,Norwich City FC
 17,Sat Nov 2 2002,Watford FC,1-1,Wolverhampton Wanderers FC
 17,Sat Nov 2 2002,Walsall FC,4-2,Stoke City FC
-17,Sat Nov 2 2002,Wimbledon FC,4-2,Norwich City FC
+17,Sat Nov 2 2002,Sheffield Wednesday FC,1-3,Derby County FC
+17,Sat Nov 2 2002,Portsmouth FC,0-2,Leicester City FC
+17,Sat Nov 2 2002,Nottingham Forest FC,3-0,Sheffield United FC
+17,Sat Nov 2 2002,Grimsby Town FC,1-1,Gillingham FC
+17,Sat Nov 2 2002,Coventry City FC,2-1,Rotherham United FC
+17,Sat Nov 2 2002,Brighton & Hove Albion FC,3-2,Bradford City AFC
+17,Sat Nov 2 2002,Preston North End FC,3-1,Burnley FC
 17,Sun Nov 3 2002,Ipswich Town FC,1-2,Crystal Palace FC
 13,Wed Nov 6 2002,Wolverhampton Wanderers FC,1-1,Portsmouth FC
-18,Sat Nov 9 2002,Norwich City FC,3-0,Sheffield Wednesday FC
-18,Sat Nov 9 2002,Derby County FC,1-2,Portsmouth FC
-18,Sat Nov 9 2002,Gillingham FC,0-1,Reading FC
-18,Sat Nov 9 2002,Millwall FC,2-1,Preston North End FC
-18,Sat Nov 9 2002,Burnley FC,3-1,Coventry City FC
 18,Sat Nov 9 2002,Bradford City AFC,3-5,Wimbledon FC
-18,Sat Nov 9 2002,Leicester City FC,2-0,Walsall FC
-18,Sat Nov 9 2002,Rotherham United FC,2-1,Watford FC
-18,Sat Nov 9 2002,Crystal Palace FC,0-0,Nottingham Forest FC
-18,Sat Nov 9 2002,Stoke City FC,1-2,Grimsby Town FC
 18,Sat Nov 9 2002,Sheffield United FC,0-0,Ipswich Town FC
+18,Sat Nov 9 2002,Rotherham United FC,2-1,Watford FC
+18,Sat Nov 9 2002,Norwich City FC,3-0,Sheffield Wednesday FC
+18,Sat Nov 9 2002,Stoke City FC,1-2,Grimsby Town FC
+18,Sat Nov 9 2002,Leicester City FC,2-0,Walsall FC
+18,Sat Nov 9 2002,Gillingham FC,0-1,Reading FC
+18,Sat Nov 9 2002,Derby County FC,1-2,Portsmouth FC
+18,Sat Nov 9 2002,Crystal Palace FC,0-0,Nottingham Forest FC
+18,Sat Nov 9 2002,Burnley FC,3-1,Coventry City FC
+18,Sat Nov 9 2002,Millwall FC,2-1,Preston North End FC
 18,Mon Nov 11 2002,Wolverhampton Wanderers FC,1-1,Brighton & Hove Albion FC
+19,Sat Nov 16 2002,Norwich City FC,2-0,Crystal Palace FC
+19,Sat Nov 16 2002,Rotherham United FC,0-0,Burnley FC
 19,Sat Nov 16 2002,Portsmouth FC,3-0,Stoke City FC
+19,Sat Nov 16 2002,Nottingham Forest FC,3-0,Bradford City AFC
+19,Sat Nov 16 2002,Wimbledon FC,3-2,Walsall FC
+19,Sat Nov 16 2002,Brighton & Hove Albion FC,1-0,Derby County FC
+19,Sat Nov 16 2002,Grimsby Town FC,3-3,Preston North End FC
 19,Sat Nov 16 2002,Gillingham FC,1-1,Sheffield Wednesday FC
 19,Sat Nov 16 2002,Coventry City FC,0-2,Wolverhampton Wanderers FC
 19,Sat Nov 16 2002,Millwall FC,2-2,Leicester City FC
-19,Sat Nov 16 2002,Brighton & Hove Albion FC,1-0,Derby County FC
-19,Sat Nov 16 2002,Norwich City FC,2-0,Crystal Palace FC
-19,Sat Nov 16 2002,Wimbledon FC,3-2,Walsall FC
-19,Sat Nov 16 2002,Grimsby Town FC,3-3,Preston North End FC
-19,Sat Nov 16 2002,Nottingham Forest FC,3-0,Bradford City AFC
-19,Sat Nov 16 2002,Rotherham United FC,0-0,Burnley FC
 19,Sun Nov 17 2002,Watford FC,0-2,Ipswich Town FC
-20,Sat Nov 23 2002,Reading FC,1-0,Watford FC
-20,Sat Nov 23 2002,Ipswich Town FC,2-1,Coventry City FC
-20,Sat Nov 23 2002,Crystal Palace FC,2-0,Grimsby Town FC
-20,Sat Nov 23 2002,Sheffield Wednesday FC,1-3,Portsmouth FC
-20,Sat Nov 23 2002,Leicester City FC,2-1,Rotherham United FC
-20,Sat Nov 23 2002,Bradford City AFC,0-5,Sheffield United FC
 20,Sat Nov 23 2002,Wolverhampton Wanderers FC,2-1,Nottingham Forest FC
-20,Sat Nov 23 2002,Preston North End FC,2-2,Brighton & Hove Albion FC
-20,Sat Nov 23 2002,Stoke City FC,0-1,Millwall FC
-20,Sat Nov 23 2002,Burnley FC,2-0,Norwich City FC
 20,Sat Nov 23 2002,Walsall FC,1-0,Gillingham FC
+20,Sat Nov 23 2002,Stoke City FC,0-1,Millwall FC
+20,Sat Nov 23 2002,Reading FC,1-0,Watford FC
+20,Sat Nov 23 2002,Preston North End FC,2-2,Brighton & Hove Albion FC
+20,Sat Nov 23 2002,Leicester City FC,2-1,Rotherham United FC
+20,Sat Nov 23 2002,Sheffield Wednesday FC,1-3,Portsmouth FC
+20,Sat Nov 23 2002,Crystal Palace FC,2-0,Grimsby Town FC
+20,Sat Nov 23 2002,Burnley FC,2-0,Norwich City FC
+20,Sat Nov 23 2002,Bradford City AFC,0-5,Sheffield United FC
+20,Sat Nov 23 2002,Ipswich Town FC,2-1,Coventry City FC
 20,Mon Nov 25 2002,Derby County FC,3-2,Wimbledon FC
-13,Tue Nov 26 2002,Preston North End FC,2-0,Leicester City FC
 13,Tue Nov 26 2002,Crystal Palace FC,0-1,Reading FC
+13,Tue Nov 26 2002,Preston North End FC,2-0,Leicester City FC
 13,Wed Nov 27 2002,Nottingham Forest FC,3-2,Brighton & Hove Albion FC
-21,Sat Nov 30 2002,Coventry City FC,1-2,Preston North End FC
-21,Sat Nov 30 2002,Portsmouth FC,3-2,Walsall FC
-21,Sat Nov 30 2002,Brighton & Hove Albion FC,0-1,Reading FC
 21,Sat Nov 30 2002,Norwich City FC,1-0,Derby County FC
 21,Sat Nov 30 2002,Watford FC,2-1,Burnley FC
 21,Sat Nov 30 2002,Sheffield United FC,2-1,Crystal Palace FC
@@ -248,21 +245,22 @@ Matchday,Date,Team 1,FT,Team 2
 21,Sat Nov 30 2002,Millwall FC,1-0,Bradford City AFC
 21,Sat Nov 30 2002,Grimsby Town FC,1-2,Leicester City FC
 21,Sat Nov 30 2002,Gillingham FC,1-1,Stoke City FC
-22,Sat Dec 7 2002,Burnley FC,1-0,Nottingham Forest FC
-22,Sat Dec 7 2002,Crystal Palace FC,1-0,Millwall FC
-22,Sat Dec 7 2002,Stoke City FC,1-2,Coventry City FC
+21,Sat Nov 30 2002,Coventry City FC,1-2,Preston North End FC
+21,Sat Nov 30 2002,Brighton & Hove Albion FC,0-1,Reading FC
+21,Sat Nov 30 2002,Portsmouth FC,3-2,Walsall FC
 22,Sat Dec 7 2002,Reading FC,0-0,Portsmouth FC
 22,Sat Dec 7 2002,Wolverhampton Wanderers FC,1-0,Norwich City FC
 22,Sat Dec 7 2002,Walsall FC,3-1,Grimsby Town FC
 22,Sat Dec 7 2002,Bradford City AFC,1-3,Gillingham FC
-22,Sat Dec 7 2002,Derby County FC,3-0,Watford FC
+22,Sat Dec 7 2002,Sheffield Wednesday FC,1-1,Brighton & Hove Albion FC
 22,Sat Dec 7 2002,Preston North End FC,3-5,Wimbledon FC
 22,Sat Dec 7 2002,Leicester City FC,0-0,Sheffield United FC
 22,Sat Dec 7 2002,Ipswich Town FC,1-2,Rotherham United FC
-22,Sat Dec 7 2002,Sheffield Wednesday FC,1-1,Brighton & Hove Albion FC
+22,Sat Dec 7 2002,Derby County FC,3-0,Watford FC
+22,Sat Dec 7 2002,Crystal Palace FC,1-0,Millwall FC
+22,Sat Dec 7 2002,Burnley FC,1-0,Nottingham Forest FC
+22,Sat Dec 7 2002,Stoke City FC,1-2,Coventry City FC
 16,Tue Dec 10 2002,Brighton & Hove Albion FC,1-1,Ipswich Town FC
-23,Sat Dec 14 2002,Preston North End FC,3-0,Grimsby Town FC
-23,Sat Dec 14 2002,Leicester City FC,4-1,Millwall FC
 23,Sat Dec 14 2002,Wolverhampton Wanderers FC,0-2,Coventry City FC
 23,Sat Dec 14 2002,Walsall FC,2-0,Wimbledon FC
 23,Sat Dec 14 2002,Stoke City FC,1-1,Portsmouth FC
@@ -273,248 +271,248 @@ Matchday,Date,Team 1,FT,Team 2
 23,Sat Dec 14 2002,Crystal Palace FC,2-0,Norwich City FC
 23,Sat Dec 14 2002,Burnley FC,2-6,Rotherham United FC
 23,Sat Dec 14 2002,Bradford City AFC,1-0,Nottingham Forest FC
+23,Sat Dec 14 2002,Preston North End FC,3-0,Grimsby Town FC
+23,Sat Dec 14 2002,Leicester City FC,4-1,Millwall FC
 24,Fri Dec 20 2002,Brighton & Hove Albion FC,0-1,Leicester City FC
-24,Sat Dec 21 2002,Wimbledon FC,1-1,Stoke City FC
-24,Sat Dec 21 2002,Nottingham Forest FC,2-0,Reading FC
 24,Sat Dec 21 2002,Millwall FC,1-1,Wolverhampton Wanderers FC
 24,Sat Dec 21 2002,Portsmouth FC,1-1,Ipswich Town FC
 24,Sat Dec 21 2002,Sheffield United FC,1-0,Preston North End FC
-24,Sat Dec 21 2002,Coventry City FC,3-0,Derby County FC
+24,Sat Dec 21 2002,Norwich City FC,2-1,Walsall FC
 24,Sat Dec 21 2002,Watford FC,1-0,Bradford City AFC
 24,Sat Dec 21 2002,Grimsby Town FC,2-0,Sheffield Wednesday FC
 24,Sat Dec 21 2002,Gillingham FC,4-2,Burnley FC
-24,Sat Dec 21 2002,Norwich City FC,2-1,Walsall FC
+24,Sat Dec 21 2002,Coventry City FC,3-0,Derby County FC
+24,Sat Dec 21 2002,Nottingham Forest FC,2-0,Reading FC
+24,Sat Dec 21 2002,Wimbledon FC,1-1,Stoke City FC
 24,Sun Dec 22 2002,Rotherham United FC,1-3,Crystal Palace FC
-25,Thu Dec 26 2002,Bradford City AFC,4-2,Stoke City FC
-25,Thu Dec 26 2002,Burnley FC,2-1,Wolverhampton Wanderers FC
 25,Thu Dec 26 2002,Wimbledon FC,0-0,Watford FC
 25,Thu Dec 26 2002,Millwall FC,2-2,Gillingham FC
 25,Thu Dec 26 2002,Coventry City FC,2-0,Reading FC
-25,Thu Dec 26 2002,Leicester City FC,1-2,Ipswich Town FC
+25,Thu Dec 26 2002,Bradford City AFC,4-2,Stoke City FC
 25,Thu Dec 26 2002,Walsall FC,0-1,Sheffield United FC
 25,Thu Dec 26 2002,Sheffield Wednesday FC,2-0,Nottingham Forest FC
 25,Thu Dec 26 2002,Preston North End FC,0-2,Rotherham United FC
 25,Thu Dec 26 2002,Portsmouth FC,1-1,Crystal Palace FC
 25,Thu Dec 26 2002,Norwich City FC,0-1,Brighton & Hove Albion FC
 25,Thu Dec 26 2002,Derby County FC,1-3,Grimsby Town FC
-26,Sat Dec 28 2002,Nottingham Forest FC,1-2,Portsmouth FC
-26,Sat Dec 28 2002,Ipswich Town FC,3-2,Walsall FC
-26,Sat Dec 28 2002,Crystal Palace FC,2-0,Preston North End FC
+25,Thu Dec 26 2002,Leicester City FC,1-2,Ipswich Town FC
+25,Thu Dec 26 2002,Burnley FC,2-1,Wolverhampton Wanderers FC
+26,Sat Dec 28 2002,Wolverhampton Wanderers FC,1-2,Bradford City AFC
 26,Sat Dec 28 2002,Watford FC,1-2,Leicester City FC
 26,Sat Dec 28 2002,Stoke City FC,3-2,Sheffield Wednesday FC
 26,Sat Dec 28 2002,Sheffield United FC,0-0,Coventry City FC
 26,Sat Dec 28 2002,Rotherham United FC,1-3,Millwall FC
 26,Sat Dec 28 2002,Reading FC,2-1,Derby County FC
-26,Sat Dec 28 2002,Brighton & Hove Albion FC,2-2,Burnley FC
+26,Sat Dec 28 2002,Nottingham Forest FC,1-2,Portsmouth FC
 26,Sat Dec 28 2002,Grimsby Town FC,1-1,Norwich City FC
-26,Sat Dec 28 2002,Wolverhampton Wanderers FC,1-2,Bradford City AFC
-27,Wed Jan 1 2003,Crystal Palace FC,1-1,Coventry City FC
-27,Wed Jan 1 2003,Watford FC,2-2,Portsmouth FC
-27,Wed Jan 1 2003,Ipswich Town FC,4-1,Millwall FC
+26,Sat Dec 28 2002,Crystal Palace FC,2-0,Preston North End FC
+26,Sat Dec 28 2002,Brighton & Hove Albion FC,2-2,Burnley FC
+26,Sat Dec 28 2002,Ipswich Town FC,3-2,Walsall FC
 27,Wed Jan 1 2003,Rotherham United FC,0-2,Sheffield Wednesday FC
 27,Wed Jan 1 2003,Wolverhampton Wanderers FC,1-1,Derby County FC
 27,Wed Jan 1 2003,Stoke City FC,2-1,Preston North End FC
 27,Wed Jan 1 2003,Nottingham Forest FC,1-1,Walsall FC
-28,Sat Jan 11 2003,Burnley FC,1-1,Ipswich Town FC
-28,Sat Jan 11 2003,Walsall FC,0-1,Wolverhampton Wanderers FC
-28,Sat Jan 11 2003,Wimbledon FC,3-3,Grimsby Town FC
-28,Sat Jan 11 2003,Coventry City FC,0-0,Brighton & Hove Albion FC
-28,Sat Jan 11 2003,Derby County FC,1-1,Gillingham FC
+27,Wed Jan 1 2003,Ipswich Town FC,4-1,Millwall FC
+27,Wed Jan 1 2003,Crystal Palace FC,1-1,Coventry City FC
+27,Wed Jan 1 2003,Watford FC,2-2,Portsmouth FC
 28,Sat Jan 11 2003,Leicester City FC,0-0,Stoke City FC
-28,Sat Jan 11 2003,Norwich City FC,1-1,Rotherham United FC
+28,Sat Jan 11 2003,Wimbledon FC,3-3,Grimsby Town FC
+28,Sat Jan 11 2003,Burnley FC,1-1,Ipswich Town FC
 28,Sat Jan 11 2003,Sheffield Wednesday FC,3-2,Reading FC
+28,Sat Jan 11 2003,Norwich City FC,1-1,Rotherham United FC
 28,Sat Jan 11 2003,Millwall FC,4-0,Watford FC
+28,Sat Jan 11 2003,Derby County FC,1-1,Gillingham FC
+28,Sat Jan 11 2003,Coventry City FC,0-0,Brighton & Hove Albion FC
+28,Sat Jan 11 2003,Walsall FC,0-1,Wolverhampton Wanderers FC
 28,Mon Jan 13 2003,Portsmouth FC,1-2,Sheffield United FC
 29,Fri Jan 17 2003,Sheffield United FC,3-1,Sheffield Wednesday FC
+29,Sat Jan 18 2003,Rotherham United FC,3-2,Bradford City AFC
+29,Sat Jan 18 2003,Wolverhampton Wanderers FC,1-1,Wimbledon FC
+29,Sat Jan 18 2003,Stoke City FC,1-3,Derby County FC
 29,Sat Jan 18 2003,Brighton & Hove Albion FC,1-1,Portsmouth FC
+29,Sat Jan 18 2003,Reading FC,0-0,Walsall FC
 29,Sat Jan 18 2003,Crystal Palace FC,1-1,Burnley FC
 29,Sat Jan 18 2003,Ipswich Town FC,3-0,Preston North End FC
 29,Sat Jan 18 2003,Grimsby Town FC,0-2,Millwall FC
 29,Sat Jan 18 2003,Gillingham FC,3-2,Leicester City FC
 29,Sat Jan 18 2003,Nottingham Forest FC,1-1,Coventry City FC
-29,Sat Jan 18 2003,Rotherham United FC,3-2,Bradford City AFC
-29,Sat Jan 18 2003,Stoke City FC,1-3,Derby County FC
-29,Sat Jan 18 2003,Wolverhampton Wanderers FC,1-1,Wimbledon FC
-29,Sat Jan 18 2003,Reading FC,0-0,Walsall FC
 29,Sun Jan 19 2003,Watford FC,2-1,Norwich City FC
 27,Sat Jan 25 2003,Grimsby Town FC,1-2,Bradford City AFC
 28,Sat Jan 25 2003,Preston North End FC,1-1,Nottingham Forest FC
 27,Tue Jan 28 2003,Reading FC,1-3,Leicester City FC
-30,Sat Feb 1 2003,Leicester City FC,1-0,Crystal Palace FC
-30,Sat Feb 1 2003,Coventry City FC,0-1,Watford FC
-30,Sat Feb 1 2003,Derby County FC,3-0,Rotherham United FC
-30,Sat Feb 1 2003,Bradford City AFC,2-0,Ipswich Town FC
-30,Sat Feb 1 2003,Burnley FC,2-5,Reading FC
-30,Sat Feb 1 2003,Millwall FC,1-0,Sheffield United FC
-30,Sat Feb 1 2003,Wimbledon FC,2-3,Nottingham Forest FC
 30,Sat Feb 1 2003,Norwich City FC,2-2,Stoke City FC
 30,Sat Feb 1 2003,Walsall FC,1-0,Brighton & Hove Albion FC
 30,Sat Feb 1 2003,Sheffield Wednesday FC,0-4,Wolverhampton Wanderers FC
-30,Sat Feb 1 2003,Portsmouth FC,3-0,Grimsby Town FC
 30,Sat Feb 1 2003,Preston North End FC,3-0,Gillingham FC
+30,Sat Feb 1 2003,Portsmouth FC,3-0,Grimsby Town FC
+30,Sat Feb 1 2003,Wimbledon FC,2-3,Nottingham Forest FC
+30,Sat Feb 1 2003,Millwall FC,1-0,Sheffield United FC
+30,Sat Feb 1 2003,Leicester City FC,1-0,Crystal Palace FC
+30,Sat Feb 1 2003,Derby County FC,3-0,Rotherham United FC
+30,Sat Feb 1 2003,Coventry City FC,0-1,Watford FC
+30,Sat Feb 1 2003,Burnley FC,2-5,Reading FC
+30,Sat Feb 1 2003,Bradford City AFC,2-0,Ipswich Town FC
 27,Tue Feb 4 2003,Brighton & Hove Albion FC,2-3,Wimbledon FC
-31,Sat Feb 8 2003,Grimsby Town FC,2-0,Stoke City FC
-31,Sat Feb 8 2003,Portsmouth FC,6-2,Derby County FC
-31,Sat Feb 8 2003,Ipswich Town FC,3-2,Sheffield United FC
-31,Sat Feb 8 2003,Coventry City FC,0-1,Burnley FC
-31,Sat Feb 8 2003,Brighton & Hove Albion FC,4-1,Wolverhampton Wanderers FC
-31,Sat Feb 8 2003,Nottingham Forest FC,2-1,Crystal Palace FC
 31,Sat Feb 8 2003,Wimbledon FC,2-2,Bradford City AFC
 31,Sat Feb 8 2003,Watford FC,1-2,Rotherham United FC
 31,Sat Feb 8 2003,Walsall FC,1-4,Leicester City FC
 31,Sat Feb 8 2003,Sheffield Wednesday FC,2-2,Norwich City FC
 31,Sat Feb 8 2003,Preston North End FC,2-1,Millwall FC
+31,Sat Feb 8 2003,Portsmouth FC,6-2,Derby County FC
+31,Sat Feb 8 2003,Ipswich Town FC,3-2,Sheffield United FC
+31,Sat Feb 8 2003,Nottingham Forest FC,2-1,Crystal Palace FC
+31,Sat Feb 8 2003,Coventry City FC,0-1,Burnley FC
+31,Sat Feb 8 2003,Brighton & Hove Albion FC,4-1,Wolverhampton Wanderers FC
+31,Sat Feb 8 2003,Grimsby Town FC,2-0,Stoke City FC
 31,Mon Feb 10 2003,Reading FC,2-1,Gillingham FC
-32,Sat Feb 15 2003,Millwall FC,0-2,Reading FC
-32,Sat Feb 15 2003,Bradford City AFC,0-1,Brighton & Hove Albion FC
-32,Sat Feb 15 2003,Derby County FC,2-2,Sheffield Wednesday FC
-32,Sat Feb 15 2003,Gillingham FC,3-0,Grimsby Town FC
 32,Sat Feb 15 2003,Rotherham United FC,1-0,Coventry City FC
+32,Sat Feb 15 2003,Millwall FC,0-2,Reading FC
+32,Sat Feb 15 2003,Gillingham FC,3-0,Grimsby Town FC
+32,Sat Feb 15 2003,Derby County FC,2-2,Sheffield Wednesday FC
+32,Sat Feb 15 2003,Bradford City AFC,0-1,Brighton & Hove Albion FC
 32,Mon Feb 17 2003,Leicester City FC,1-1,Portsmouth FC
 19,Tue Feb 18 2003,Sheffield United FC,1-3,Reading FC
 9,Wed Feb 19 2003,Ipswich Town FC,2-4,Wolverhampton Wanderers FC
-33,Sat Feb 22 2003,Ipswich Town FC,2-2,Grimsby Town FC
-33,Sat Feb 22 2003,Burnley FC,2-0,Derby County FC
-33,Sat Feb 22 2003,Coventry City FC,0-2,Bradford City AFC
-33,Sat Feb 22 2003,Leicester City FC,4-0,Wimbledon FC
-33,Sat Feb 22 2003,Crystal Palace FC,0-0,Sheffield Wednesday FC
-33,Sat Feb 22 2003,Nottingham Forest FC,6-0,Stoke City FC
-33,Sat Feb 22 2003,Brighton & Hove Albion FC,1-0,Millwall FC
-33,Sat Feb 22 2003,Walsall FC,2-0,Watford FC
-33,Sat Feb 22 2003,Preston North End FC,0-2,Wolverhampton Wanderers FC
-33,Sat Feb 22 2003,Sheffield United FC,0-1,Norwich City FC
 33,Sat Feb 22 2003,Portsmouth FC,1-0,Gillingham FC
+33,Sat Feb 22 2003,Sheffield United FC,0-1,Norwich City FC
 33,Sat Feb 22 2003,Reading FC,3-0,Rotherham United FC
-32,Tue Feb 25 2003,Wolverhampton Wanderers FC,0-0,Watford FC
+33,Sat Feb 22 2003,Preston North End FC,0-2,Wolverhampton Wanderers FC
+33,Sat Feb 22 2003,Walsall FC,2-0,Watford FC
+33,Sat Feb 22 2003,Brighton & Hove Albion FC,1-0,Millwall FC
+33,Sat Feb 22 2003,Leicester City FC,4-0,Wimbledon FC
+33,Sat Feb 22 2003,Ipswich Town FC,2-2,Grimsby Town FC
+33,Sat Feb 22 2003,Crystal Palace FC,0-0,Sheffield Wednesday FC
+33,Sat Feb 22 2003,Coventry City FC,0-2,Bradford City AFC
+33,Sat Feb 22 2003,Burnley FC,2-0,Derby County FC
+33,Sat Feb 22 2003,Nottingham Forest FC,6-0,Stoke City FC
 27,Tue Feb 25 2003,Gillingham FC,1-0,Norwich City FC
+32,Tue Feb 25 2003,Wolverhampton Wanderers FC,0-0,Watford FC
 32,Wed Feb 26 2003,Stoke City FC,1-0,Walsall FC
 34,Fri Feb 28 2003,Rotherham United FC,1-2,Sheffield United FC
-34,Sat Mar 1 2003,Wolverhampton Wanderers FC,4-0,Crystal Palace FC
-34,Sat Mar 1 2003,Grimsby Town FC,0-2,Coventry City FC
-34,Sat Mar 1 2003,Watford FC,1-1,Nottingham Forest FC
-34,Sat Mar 1 2003,Derby County FC,1-1,Leicester City FC
-34,Sat Mar 1 2003,Millwall FC,0-5,Portsmouth FC
-34,Sat Mar 1 2003,Bradford City AFC,1-2,Walsall FC
-34,Sat Mar 1 2003,Sheffield Wednesday FC,0-1,Preston North End FC
 34,Sat Mar 1 2003,Stoke City FC,0-1,Burnley FC
 34,Sat Mar 1 2003,Wimbledon FC,2-0,Reading FC
+34,Sat Mar 1 2003,Watford FC,1-1,Nottingham Forest FC
+34,Sat Mar 1 2003,Wolverhampton Wanderers FC,4-0,Crystal Palace FC
+34,Sat Mar 1 2003,Sheffield Wednesday FC,0-1,Preston North End FC
+34,Sat Mar 1 2003,Millwall FC,0-5,Portsmouth FC
+34,Sat Mar 1 2003,Grimsby Town FC,0-2,Coventry City FC
+34,Sat Mar 1 2003,Derby County FC,1-1,Leicester City FC
+34,Sat Mar 1 2003,Bradford City AFC,1-2,Walsall FC
 34,Sat Mar 1 2003,Gillingham FC,3-0,Brighton & Hove Albion FC
 34,Sun Mar 2 2003,Norwich City FC,0-2,Ipswich Town FC
-35,Tue Mar 4 2003,Millwall FC,1-1,Burnley FC
-35,Tue Mar 4 2003,Wimbledon FC,2-1,Portsmouth FC
-35,Tue Mar 4 2003,Watford FC,0-1,Preston North End FC
-35,Tue Mar 4 2003,Rotherham United FC,0-0,Walsall FC
 35,Tue Mar 4 2003,Bradford City AFC,0-0,Leicester City FC
+35,Tue Mar 4 2003,Watford FC,0-1,Preston North End FC
+35,Tue Mar 4 2003,Wimbledon FC,2-1,Portsmouth FC
+35,Tue Mar 4 2003,Millwall FC,1-1,Burnley FC
 35,Tue Mar 4 2003,Grimsby Town FC,1-4,Sheffield United FC
 35,Tue Mar 4 2003,Gillingham FC,1-4,Nottingham Forest FC
-35,Wed Mar 5 2003,Sheffield Wednesday FC,5-1,Coventry City FC
-35,Wed Mar 5 2003,Derby County FC,0-1,Crystal Palace FC
-35,Wed Mar 5 2003,Norwich City FC,0-1,Reading FC
-35,Wed Mar 5 2003,Stoke City FC,1-0,Brighton & Hove Albion FC
+35,Tue Mar 4 2003,Rotherham United FC,0-0,Walsall FC
 35,Wed Mar 5 2003,Wolverhampton Wanderers FC,1-1,Ipswich Town FC
-36,Sat Mar 8 2003,Ipswich Town FC,0-0,Stoke City FC
-36,Sat Mar 8 2003,Brighton & Hove Albion FC,2-0,Rotherham United FC
+35,Wed Mar 5 2003,Stoke City FC,1-0,Brighton & Hove Albion FC
+35,Wed Mar 5 2003,Sheffield Wednesday FC,5-1,Coventry City FC
+35,Wed Mar 5 2003,Norwich City FC,0-1,Reading FC
+35,Wed Mar 5 2003,Derby County FC,0-1,Crystal Palace FC
 28,Sat Mar 8 2003,Bradford City AFC,2-1,Crystal Palace FC
-36,Sat Mar 8 2003,Walsall FC,1-2,Millwall FC
-36,Sat Mar 8 2003,Coventry City FC,2-2,Wimbledon FC
-36,Sat Mar 8 2003,Leicester City FC,1-1,Sheffield Wednesday FC
 36,Sat Mar 8 2003,Preston North End FC,4-2,Derby County FC
+36,Sat Mar 8 2003,Leicester City FC,1-1,Sheffield Wednesday FC
+36,Sat Mar 8 2003,Ipswich Town FC,0-0,Stoke City FC
+36,Sat Mar 8 2003,Coventry City FC,2-2,Wimbledon FC
+36,Sat Mar 8 2003,Walsall FC,1-2,Millwall FC
+36,Sat Mar 8 2003,Brighton & Hove Albion FC,2-0,Rotherham United FC
 36,Mon Mar 10 2003,Nottingham Forest FC,2-2,Grimsby Town FC
-32,Tue Mar 11 2003,Crystal Palace FC,1-1,Ipswich Town FC
 26,Tue Mar 11 2003,Gillingham FC,3-3,Wimbledon FC
+32,Tue Mar 11 2003,Crystal Palace FC,1-1,Ipswich Town FC
 27,Wed Mar 12 2003,Sheffield United FC,4-2,Burnley FC
 36,Wed Mar 12 2003,Portsmouth FC,3-2,Norwich City FC
 36,Wed Mar 12 2003,Reading FC,0-1,Wolverhampton Wanderers FC
-37,Sat Mar 15 2003,Norwich City FC,2-0,Coventry City FC
-37,Sat Mar 15 2003,Brighton & Hove Albion FC,1-0,Nottingham Forest FC
-37,Sat Mar 15 2003,Grimsby Town FC,1-0,Watford FC
-37,Sat Mar 15 2003,Derby County FC,1-2,Bradford City AFC
-37,Sat Mar 15 2003,Gillingham FC,1-1,Rotherham United FC
-37,Sat Mar 15 2003,Leicester City FC,2-1,Preston North End FC
 37,Sat Mar 15 2003,Stoke City FC,0-0,Sheffield United FC
 37,Sat Mar 15 2003,Walsall FC,3-2,Burnley FC
 37,Sat Mar 15 2003,Wimbledon FC,2-0,Millwall FC
-37,Sat Mar 15 2003,Portsmouth FC,1-0,Wolverhampton Wanderers FC
-37,Sat Mar 15 2003,Reading FC,2-1,Crystal Palace FC
 37,Sat Mar 15 2003,Sheffield Wednesday FC,0-1,Ipswich Town FC
-38,Tue Mar 18 2003,Ipswich Town FC,3-1,Reading FC
-38,Tue Mar 18 2003,Millwall FC,0-2,Norwich City FC
-38,Tue Mar 18 2003,Preston North End FC,5-0,Walsall FC
-38,Tue Mar 18 2003,Sheffield United FC,2-1,Brighton & Hove Albion FC
-38,Tue Mar 18 2003,Burnley FC,1-2,Leicester City FC
-38,Tue Mar 18 2003,Crystal Palace FC,0-1,Wimbledon FC
-38,Tue Mar 18 2003,Rotherham United FC,0-1,Grimsby Town FC
+37,Sat Mar 15 2003,Reading FC,2-1,Crystal Palace FC
+37,Sat Mar 15 2003,Portsmouth FC,1-0,Wolverhampton Wanderers FC
+37,Sat Mar 15 2003,Norwich City FC,2-0,Coventry City FC
+37,Sat Mar 15 2003,Leicester City FC,2-1,Preston North End FC
+37,Sat Mar 15 2003,Gillingham FC,1-1,Rotherham United FC
+37,Sat Mar 15 2003,Derby County FC,1-2,Bradford City AFC
+37,Sat Mar 15 2003,Brighton & Hove Albion FC,1-0,Nottingham Forest FC
+37,Sat Mar 15 2003,Grimsby Town FC,1-0,Watford FC
+38,Tue Mar 18 2003,Wolverhampton Wanderers FC,0-0,Stoke City FC
 38,Tue Mar 18 2003,Watford FC,0-1,Gillingham FC
 38,Tue Mar 18 2003,Bradford City AFC,1-1,Sheffield Wednesday FC
-38,Tue Mar 18 2003,Wolverhampton Wanderers FC,0-0,Stoke City FC
+38,Tue Mar 18 2003,Rotherham United FC,0-1,Grimsby Town FC
+38,Tue Mar 18 2003,Preston North End FC,5-0,Walsall FC
+38,Tue Mar 18 2003,Millwall FC,0-2,Norwich City FC
+38,Tue Mar 18 2003,Ipswich Town FC,3-1,Reading FC
+38,Tue Mar 18 2003,Crystal Palace FC,0-1,Wimbledon FC
+38,Tue Mar 18 2003,Burnley FC,1-2,Leicester City FC
+38,Tue Mar 18 2003,Sheffield United FC,2-1,Brighton & Hove Albion FC
 38,Wed Mar 19 2003,Nottingham Forest FC,3-0,Derby County FC
 38,Wed Mar 19 2003,Coventry City FC,0-4,Portsmouth FC
-39,Sat Mar 22 2003,Millwall FC,3-0,Sheffield Wednesday FC
-39,Sat Mar 22 2003,Rotherham United FC,2-1,Wimbledon FC
-39,Sat Mar 22 2003,Burnley FC,1-1,Grimsby Town FC
-39,Sat Mar 22 2003,Coventry City FC,1-2,Leicester City FC
-39,Sat Mar 22 2003,Crystal Palace FC,2-0,Walsall FC
-39,Sat Mar 22 2003,Ipswich Town FC,2-2,Brighton & Hove Albion FC
 39,Sat Mar 22 2003,Preston North End FC,1-1,Portsmouth FC
 39,Sat Mar 22 2003,Watford FC,1-2,Stoke City FC
 39,Sat Mar 22 2003,Sheffield United FC,2-0,Derby County FC
 39,Sat Mar 22 2003,Bradford City AFC,0-1,Reading FC
 39,Sat Mar 22 2003,Wolverhampton Wanderers FC,6-0,Gillingham FC
 39,Sat Mar 22 2003,Nottingham Forest FC,4-0,Norwich City FC
+39,Sat Mar 22 2003,Millwall FC,3-0,Sheffield Wednesday FC
+39,Sat Mar 22 2003,Ipswich Town FC,2-2,Brighton & Hove Albion FC
+39,Sat Mar 22 2003,Crystal Palace FC,2-0,Walsall FC
+39,Sat Mar 22 2003,Coventry City FC,1-2,Leicester City FC
+39,Sat Mar 22 2003,Burnley FC,1-1,Grimsby Town FC
+39,Sat Mar 22 2003,Rotherham United FC,2-1,Wimbledon FC
+32,Tue Mar 25 2003,Norwich City FC,1-0,Wimbledon FC
+36,Tue Mar 25 2003,Sheffield United FC,2-2,Gillingham FC
 36,Tue Mar 25 2003,Burnley FC,0-2,Bradford City AFC
 40,Tue Mar 25 2003,Brighton & Hove Albion FC,0-0,Crystal Palace FC
-36,Tue Mar 25 2003,Sheffield United FC,2-2,Gillingham FC
-32,Tue Mar 25 2003,Norwich City FC,1-0,Wimbledon FC
+40,Sat Mar 29 2003,Gillingham FC,1-3,Ipswich Town FC
 40,Sat Mar 29 2003,Norwich City FC,3-2,Bradford City AFC
 40,Sat Mar 29 2003,Sheffield Wednesday FC,2-2,Watford FC
-40,Sat Mar 29 2003,Gillingham FC,1-3,Ipswich Town FC
 41,Fri Apr 4 2003,Reading FC,1-2,Brighton & Hove Albion FC
-41,Sat Apr 5 2003,Sheffield Wednesday FC,4-2,Wimbledon FC
-41,Sat Apr 5 2003,Leicester City FC,2-0,Grimsby Town FC
 41,Sat Apr 5 2003,Stoke City FC,0-0,Gillingham FC
-41,Sat Apr 5 2003,Bradford City AFC,0-1,Millwall FC
-41,Sat Apr 5 2003,Burnley FC,4-7,Watford FC
-41,Sat Apr 5 2003,Crystal Palace FC,2-2,Sheffield United FC
 41,Sat Apr 5 2003,Wolverhampton Wanderers FC,0-0,Rotherham United FC
-41,Sat Apr 5 2003,Ipswich Town FC,3-4,Nottingham Forest FC
-41,Sat Apr 5 2003,Walsall FC,1-2,Portsmouth FC
+41,Sat Apr 5 2003,Sheffield Wednesday FC,4-2,Wimbledon FC
 41,Sat Apr 5 2003,Preston North End FC,2-2,Coventry City FC
+41,Sat Apr 5 2003,Walsall FC,1-2,Portsmouth FC
+41,Sat Apr 5 2003,Ipswich Town FC,3-4,Nottingham Forest FC
 41,Sat Apr 5 2003,Derby County FC,2-1,Norwich City FC
+41,Sat Apr 5 2003,Crystal Palace FC,2-2,Sheffield United FC
+41,Sat Apr 5 2003,Burnley FC,4-7,Watford FC
+41,Sat Apr 5 2003,Bradford City AFC,0-1,Millwall FC
+41,Sat Apr 5 2003,Leicester City FC,2-0,Grimsby Town FC
 40,Mon Apr 7 2003,Wimbledon FC,1-0,Sheffield United FC
+32,Tue Apr 8 2003,Burnley FC,2-0,Preston North End FC
 36,Tue Apr 8 2003,Crystal Palace FC,0-1,Watford FC
 40,Tue Apr 8 2003,Leicester City FC,1-0,Nottingham Forest FC
 40,Tue Apr 8 2003,Grimsby Town FC,0-1,Wolverhampton Wanderers FC
-32,Tue Apr 8 2003,Burnley FC,2-0,Preston North End FC
 40,Wed Apr 9 2003,Stoke City FC,2-0,Rotherham United FC
 42,Fri Apr 11 2003,Nottingham Forest FC,2-2,Wolverhampton Wanderers FC
-42,Sat Apr 12 2003,Millwall FC,3-1,Stoke City FC
-42,Sat Apr 12 2003,Coventry City FC,2-4,Ipswich Town FC
-42,Sat Apr 12 2003,Grimsby Town FC,1-4,Crystal Palace FC
-42,Sat Apr 12 2003,Gillingham FC,0-1,Walsall FC
-42,Sat Apr 12 2003,Brighton & Hove Albion FC,0-2,Preston North End FC
 42,Sat Apr 12 2003,Wimbledon FC,0-2,Derby County FC
 42,Sat Apr 12 2003,Rotherham United FC,1-1,Leicester City FC
 42,Sat Apr 12 2003,Portsmouth FC,1-2,Sheffield Wednesday FC
 42,Sat Apr 12 2003,Norwich City FC,2-0,Burnley FC
+42,Sat Apr 12 2003,Millwall FC,3-1,Stoke City FC
+42,Sat Apr 12 2003,Brighton & Hove Albion FC,0-2,Preston North End FC
+42,Sat Apr 12 2003,Gillingham FC,0-1,Walsall FC
+42,Sat Apr 12 2003,Coventry City FC,2-4,Ipswich Town FC
+42,Sat Apr 12 2003,Grimsby Town FC,1-4,Crystal Palace FC
 32,Tue Apr 15 2003,Sheffield United FC,1-0,Nottingham Forest FC
+40,Tue Apr 15 2003,Walsall FC,0-0,Coventry City FC
 40,Tue Apr 15 2003,Portsmouth FC,1-0,Burnley FC
 40,Tue Apr 15 2003,Reading FC,5-1,Preston North End FC
-40,Tue Apr 15 2003,Walsall FC,0-0,Coventry City FC
 40,Wed Apr 16 2003,Derby County FC,1-2,Millwall FC
 43,Fri Apr 18 2003,Ipswich Town FC,3-0,Portsmouth FC
 43,Fri Apr 18 2003,Reading FC,1-0,Nottingham Forest FC
-43,Sat Apr 19 2003,Burnley FC,2-0,Gillingham FC
-43,Sat Apr 19 2003,Stoke City FC,2-1,Wimbledon FC
 43,Sat Apr 19 2003,Sheffield Wednesday FC,0-0,Grimsby Town FC
 43,Sat Apr 19 2003,Walsall FC,0-0,Norwich City FC
 43,Sat Apr 19 2003,Bradford City AFC,2-1,Watford FC
 43,Sat Apr 19 2003,Wolverhampton Wanderers FC,3-0,Millwall FC
 43,Sat Apr 19 2003,Preston North End FC,2-0,Sheffield United FC
-43,Sat Apr 19 2003,Crystal Palace FC,0-0,Rotherham United FC
-43,Sat Apr 19 2003,Derby County FC,1-0,Coventry City FC
 43,Sat Apr 19 2003,Leicester City FC,2-0,Brighton & Hove Albion FC
-44,Mon Apr 21 2003,Brighton & Hove Albion FC,1-1,Sheffield Wednesday FC
-44,Mon Apr 21 2003,Nottingham Forest FC,2-0,Burnley FC
+43,Sat Apr 19 2003,Derby County FC,1-0,Coventry City FC
+43,Sat Apr 19 2003,Crystal Palace FC,0-0,Rotherham United FC
+43,Sat Apr 19 2003,Burnley FC,2-0,Gillingham FC
+43,Sat Apr 19 2003,Stoke City FC,2-1,Wimbledon FC
 44,Mon Apr 21 2003,Sheffield United FC,2-1,Leicester City FC
 44,Mon Apr 21 2003,Wimbledon FC,2-0,Preston North End FC
 44,Mon Apr 21 2003,Watford FC,2-0,Derby County FC
@@ -525,18 +523,20 @@ Matchday,Date,Team 1,FT,Team 2
 44,Mon Apr 21 2003,Grimsby Town FC,0-1,Walsall FC
 44,Mon Apr 21 2003,Gillingham FC,1-0,Bradford City AFC
 44,Mon Apr 21 2003,Coventry City FC,0-1,Stoke City FC
-45,Sat Apr 26 2003,Preston North End FC,1-0,Bradford City AFC
-45,Sat Apr 26 2003,Ipswich Town FC,1-5,Wimbledon FC
+44,Mon Apr 21 2003,Brighton & Hove Albion FC,1-1,Sheffield Wednesday FC
+44,Mon Apr 21 2003,Nottingham Forest FC,2-0,Burnley FC
 45,Sat Apr 26 2003,Burnley FC,2-7,Sheffield Wednesday FC
 45,Sat Apr 26 2003,Walsall FC,3-2,Derby County FC
 45,Sat Apr 26 2003,Sheffield United FC,3-3,Wolverhampton Wanderers FC
 45,Sat Apr 26 2003,Reading FC,2-1,Grimsby Town FC
-45,Sat Apr 26 2003,Coventry City FC,0-0,Gillingham FC
+45,Sat Apr 26 2003,Preston North End FC,1-0,Bradford City AFC
 45,Sat Apr 26 2003,Nottingham Forest FC,3-3,Millwall FC
 45,Sat Apr 26 2003,Brighton & Hove Albion FC,4-0,Watford FC
 45,Sat Apr 26 2003,Crystal Palace FC,1-0,Stoke City FC
-45,Sun Apr 27 2003,Portsmouth FC,3-2,Rotherham United FC
+45,Sat Apr 26 2003,Coventry City FC,0-0,Gillingham FC
+45,Sat Apr 26 2003,Ipswich Town FC,1-5,Wimbledon FC
 45,Sun Apr 27 2003,Leicester City FC,1-1,Norwich City FC
+45,Sun Apr 27 2003,Portsmouth FC,3-2,Rotherham United FC
 42,Tue Apr 29 2003,Sheffield United FC,3-0,Bradford City AFC
 42,Wed Apr 30 2003,Watford FC,0-3,Reading FC
 46,Sun May 4 2003,Wolverhampton Wanderers FC,1-1,Leicester City FC
