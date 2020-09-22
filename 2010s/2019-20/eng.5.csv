@@ -1,0 +1,553 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Aug 3 2019,Stockport County FC,0-1,Maidenhead United FC
+1,Sat Aug 3 2019,Aldershot Town FC,1-2,AFC Fylde
+1,Sat Aug 3 2019,Barnet FC,1-0,Yeovil Town FC
+1,Sat Aug 3 2019,Chesterfield FC,1-2,Dover Athletic FC
+1,Sat Aug 3 2019,Chorley FC,0-0,Bromley FC
+1,Sat Aug 3 2019,Dagenham & Redbridge FC,0-2,Woking FC
+1,Sat Aug 3 2019,Eastleigh FC,1-0,Notts County FC
+1,Sat Aug 3 2019,Ebbsfleet United FC,1-4,FC Halifax Town
+1,Sat Aug 3 2019,Harrogate Town AFC,2-2,Solihull Moors FC
+1,Sat Aug 3 2019,Hartlepool United FC,1-3,Sutton United FC
+1,Sat Aug 3 2019,Torquay United FC,2-1,Boreham Wood FC
+1,Sat Aug 3 2019,Wrexham AFC,2-1,Barrow AFC
+2,Tue Aug 6 2019,AFC Fylde,0-0,Chorley FC
+2,Tue Aug 6 2019,Barrow AFC,0-3,Harrogate Town AFC
+2,Tue Aug 6 2019,Boreham Wood FC,2-2,Wrexham AFC
+2,Tue Aug 6 2019,Bromley FC,3-1,Ebbsfleet United FC
+2,Tue Aug 6 2019,Dover Athletic FC,1-2,Dagenham & Redbridge FC
+2,Tue Aug 6 2019,FC Halifax Town,2-0,Hartlepool United FC
+2,Tue Aug 6 2019,Maidenhead United FC,1-1,Chesterfield FC
+2,Tue Aug 6 2019,Notts County FC,1-1,Stockport County FC
+2,Tue Aug 6 2019,Solihull Moors FC,3-0,Torquay United FC
+2,Tue Aug 6 2019,Sutton United FC,1-1,Barnet FC
+2,Tue Aug 6 2019,Woking FC,0-1,Aldershot Town FC
+2,Tue Aug 6 2019,Yeovil Town FC,1-0,Eastleigh FC
+3,Sat Aug 10 2019,AFC Fylde,1-0,Ebbsfleet United FC
+3,Sat Aug 10 2019,Barrow AFC,2-0,Eastleigh FC
+3,Sat Aug 10 2019,Boreham Wood FC,2-2,Chesterfield FC
+3,Sat Aug 10 2019,Bromley FC,3-3,Torquay United FC
+3,Sat Aug 10 2019,Dover Athletic FC,2-1,Wrexham AFC
+3,Sat Aug 10 2019,FC Halifax Town,1-0,Dagenham & Redbridge FC
+3,Sat Aug 10 2019,Maidenhead United FC,0-1,Hartlepool United FC
+3,Sat Aug 10 2019,Solihull Moors FC,2-1,Aldershot Town FC
+3,Sat Aug 10 2019,Sutton United FC,2-2,Chorley FC
+3,Sat Aug 10 2019,Woking FC,1-0,Harrogate Town AFC
+3,Sat Aug 10 2019,Yeovil Town FC,1-1,Stockport County FC
+3,Sat Aug 10 2019,Notts County FC,1-2,Barnet FC
+4,Tue Aug 13 2019,Aldershot Town FC,0-1,Bromley FC
+4,Tue Aug 13 2019,Barnet FC,0-1,Dover Athletic FC
+4,Tue Aug 13 2019,Chesterfield FC,1-2,Woking FC
+4,Tue Aug 13 2019,Chorley FC,1-6,Solihull Moors FC
+4,Tue Aug 13 2019,Dagenham & Redbridge FC,0-3,Boreham Wood FC
+4,Tue Aug 13 2019,Eastleigh FC,1-1,Sutton United FC
+4,Tue Aug 13 2019,Ebbsfleet United FC,1-3,Yeovil Town FC
+4,Tue Aug 13 2019,Harrogate Town AFC,0-2,Notts County FC
+4,Tue Aug 13 2019,Hartlepool United FC,2-2,AFC Fylde
+4,Tue Aug 13 2019,Stockport County FC,3-2,Barrow AFC
+4,Tue Aug 13 2019,Torquay United FC,0-2,Maidenhead United FC
+4,Tue Aug 13 2019,Wrexham AFC,1-0,FC Halifax Town
+5,Sat Aug 17 2019,AFC Fylde,1-4,Woking FC
+5,Sat Aug 17 2019,Aldershot Town FC,1-1,FC Halifax Town
+5,Sat Aug 17 2019,Barnet FC,2-2,Chesterfield FC
+5,Sat Aug 17 2019,Boreham Wood FC,0-1,Sutton United FC
+5,Sat Aug 17 2019,Dagenham & Redbridge FC,4-2,Harrogate Town AFC
+5,Sat Aug 17 2019,Dover Athletic FC,1-2,Torquay United FC
+5,Sat Aug 17 2019,Hartlepool United FC,2-3,Bromley FC
+5,Sat Aug 17 2019,Maidenhead United FC,4-1,Chorley FC
+5,Sat Aug 17 2019,Solihull Moors FC,2-1,Ebbsfleet United FC
+5,Sat Aug 17 2019,Stockport County FC,2-0,Eastleigh FC
+5,Sat Aug 17 2019,Barrow AFC,1-0,Yeovil Town FC
+5,Sun Aug 18 2019,Notts County FC,1-1,Wrexham AFC
+6,Sat Aug 24 2019,Bromley FC,1-0,Boreham Wood FC
+6,Sat Aug 24 2019,Chesterfield FC,2-2,Barrow AFC
+6,Sat Aug 24 2019,Chorley FC,0-0,Hartlepool United FC
+6,Sat Aug 24 2019,Eastleigh FC,1-1,Dagenham & Redbridge FC
+6,Sat Aug 24 2019,Ebbsfleet United FC,2-2,Notts County FC
+6,Sat Aug 24 2019,FC Halifax Town,4-1,AFC Fylde
+6,Sat Aug 24 2019,Harrogate Town AFC,2-1,Stockport County FC
+6,Sat Aug 24 2019,Sutton United FC,1-2,Dover Athletic FC
+6,Sat Aug 24 2019,Woking FC,2-0,Solihull Moors FC
+6,Sat Aug 24 2019,Wrexham AFC,1-1,Barnet FC
+6,Sat Aug 24 2019,Yeovil Town FC,1-2,Maidenhead United FC
+6,Sat Aug 24 2019,Torquay United FC,2-0,Aldershot Town FC
+7,Mon Aug 26 2019,AFC Fylde,0-0,Harrogate Town AFC
+7,Mon Aug 26 2019,Aldershot Town FC,1-1,Sutton United FC
+7,Mon Aug 26 2019,Barnet FC,2-2,Torquay United FC
+7,Mon Aug 26 2019,Barrow AFC,1-2,FC Halifax Town
+7,Mon Aug 26 2019,Boreham Wood FC,1-2,Ebbsfleet United FC
+7,Mon Aug 26 2019,Dagenham & Redbridge FC,3-2,Yeovil Town FC
+7,Mon Aug 26 2019,Dover Athletic FC,1-2,Woking FC
+7,Mon Aug 26 2019,Hartlepool United FC,4-2,Wrexham AFC
+7,Mon Aug 26 2019,Maidenhead United FC,1-2,Bromley FC
+7,Mon Aug 26 2019,Notts County FC,5-1,Chorley FC
+7,Mon Aug 26 2019,Stockport County FC,2-0,Chesterfield FC
+7,Mon Aug 26 2019,Solihull Moors FC,1-2,Eastleigh FC
+8,Sat Aug 31 2019,Bromley FC,2-2,AFC Fylde
+8,Sat Aug 31 2019,Chesterfield FC,1-1,Dagenham & Redbridge FC
+8,Sat Aug 31 2019,Eastleigh FC,1-2,Barnet FC
+8,Sat Aug 31 2019,Ebbsfleet United FC,1-2,Aldershot Town FC
+8,Sat Aug 31 2019,FC Halifax Town,2-1,Solihull Moors FC
+8,Sat Aug 31 2019,Harrogate Town AFC,0-2,Dover Athletic FC
+8,Sat Aug 31 2019,Sutton United FC,0-3,Maidenhead United FC
+8,Sat Aug 31 2019,Torquay United FC,1-2,Hartlepool United FC
+8,Sat Aug 31 2019,Woking FC,3-2,Barrow AFC
+8,Sat Aug 31 2019,Wrexham AFC,1-2,Stockport County FC
+8,Sat Aug 31 2019,Yeovil Town FC,3-1,Notts County FC
+8,Sat Aug 31 2019,Chorley FC,1-3,Boreham Wood FC
+9,Tue Sep 3 2019,Barrow AFC,0-1,Hartlepool United FC
+9,Tue Sep 3 2019,Chesterfield FC,2-3,FC Halifax Town
+9,Tue Sep 3 2019,Dover Athletic FC,1-1,Ebbsfleet United FC
+9,Tue Sep 3 2019,Eastleigh FC,2-0,Boreham Wood FC
+9,Tue Sep 3 2019,Harrogate Town AFC,2-0,Chorley FC
+9,Tue Sep 3 2019,Notts County FC,0-0,Solihull Moors FC
+9,Tue Sep 3 2019,Stockport County FC,2-1,AFC Fylde
+9,Tue Sep 3 2019,Woking FC,1-1,Torquay United FC
+9,Tue Sep 3 2019,Wrexham AFC,2-2,Maidenhead United FC
+9,Tue Sep 3 2019,Yeovil Town FC,1-0,Sutton United FC
+9,Wed Sep 4 2019,Dagenham & Redbridge FC,1-1,Bromley FC
+10,Sat Sep 7 2019,Aldershot Town FC,1-2,Barrow AFC
+10,Sat Sep 7 2019,Hartlepool United FC,1-1,Woking FC
+10,Sat Sep 7 2019,Boreham Wood FC,3-1,Dover Athletic FC
+10,Sat Sep 7 2019,Bromley FC,2-1,Chesterfield FC
+10,Sat Sep 7 2019,Chorley FC,3-0,Stockport County FC
+10,Sat Sep 7 2019,Ebbsfleet United FC,1-1,Eastleigh FC
+10,Sat Sep 7 2019,FC Halifax Town,0-2,Yeovil Town FC
+10,Sat Sep 7 2019,Maidenhead United FC,0-1,Dagenham & Redbridge FC
+10,Sat Sep 7 2019,Sutton United FC,1-1,Notts County FC
+10,Sat Sep 7 2019,Torquay United FC,4-2,Harrogate Town AFC
+11,Sat Sep 14 2019,Wrexham AFC,1-1,Sutton United FC
+11,Sat Sep 14 2019,Dover Athletic FC,1-1,Chorley FC
+11,Sat Sep 14 2019,Yeovil Town FC,3-2,AFC Fylde
+11,Sat Sep 14 2019,Barnet FC,1-0,Maidenhead United FC
+11,Sat Sep 14 2019,Barrow AFC,3-0,Solihull Moors FC
+11,Sat Sep 14 2019,Chesterfield FC,1-0,Torquay United FC
+11,Sat Sep 14 2019,Dagenham & Redbridge FC,3-1,Hartlepool United FC
+11,Sat Sep 14 2019,Stockport County FC,1-2,Aldershot Town FC
+11,Sat Sep 14 2019,Eastleigh FC,1-1,Bromley FC
+11,Sat Sep 14 2019,Harrogate Town AFC,0-0,Boreham Wood FC
+11,Sat Sep 14 2019,Notts County FC,1-0,FC Halifax Town
+11,Sat Sep 14 2019,Woking FC,2-2,Ebbsfleet United FC
+9,Tue Sep 17 2019,Barnet FC,2-0,Aldershot Town FC
+12,Sat Sep 21 2019,Chorley FC,1-1,Woking FC
+12,Sat Sep 21 2019,AFC Fylde,3-1,Eastleigh FC
+12,Sat Sep 21 2019,Aldershot Town FC,1-0,Wrexham AFC
+12,Sat Sep 21 2019,Boreham Wood FC,4-0,Stockport County FC
+12,Sat Sep 21 2019,Bromley FC,2-1,Notts County FC
+12,Sat Sep 21 2019,Torquay United FC,0-0,Dagenham & Redbridge FC
+12,Sat Sep 21 2019,Ebbsfleet United FC,0-3,Barrow AFC
+12,Sat Sep 21 2019,FC Halifax Town,4-2,Barnet FC
+12,Sat Sep 21 2019,Hartlepool United FC,0-2,Dover Athletic FC
+12,Sat Sep 21 2019,Maidenhead United FC,1-1,Harrogate Town AFC
+12,Sat Sep 21 2019,Solihull Moors FC,0-1,Yeovil Town FC
+12,Sat Sep 21 2019,Sutton United FC,4-0,Chesterfield FC
+13,Tue Sep 24 2019,Sutton United FC,0-2,Dagenham & Redbridge FC
+13,Tue Sep 24 2019,Torquay United FC,2-3,Eastleigh FC
+13,Tue Sep 24 2019,AFC Fylde,3-2,Wrexham AFC
+13,Tue Sep 24 2019,Aldershot Town FC,1-3,Yeovil Town FC
+13,Tue Sep 24 2019,Boreham Wood FC,1-2,Notts County FC
+13,Tue Sep 24 2019,Bromley FC,1-0,Woking FC
+13,Tue Sep 24 2019,Chorley FC,1-3,Barrow AFC
+13,Tue Sep 24 2019,Ebbsfleet United FC,3-0,Barnet FC
+13,Tue Sep 24 2019,FC Halifax Town,0-1,Harrogate Town AFC
+13,Tue Sep 24 2019,Hartlepool United FC,1-1,Chesterfield FC
+13,Tue Sep 24 2019,Maidenhead United FC,1-2,Dover Athletic FC
+13,Tue Sep 24 2019,Solihull Moors FC,2-0,Stockport County FC
+14,Sat Sep 28 2019,Eastleigh FC,1-1,Hartlepool United FC
+14,Sat Sep 28 2019,Dover Athletic FC,0-2,FC Halifax Town
+14,Sat Sep 28 2019,Barnet FC,0-0,Solihull Moors FC
+14,Sat Sep 28 2019,Barrow AFC,2-0,Maidenhead United FC
+14,Sat Sep 28 2019,Chesterfield FC,2-1,Aldershot Town FC
+14,Sat Sep 28 2019,Dagenham & Redbridge FC,0-0,Chorley FC
+14,Sat Sep 28 2019,Wrexham AFC,1-0,Ebbsfleet United FC
+14,Sat Sep 28 2019,Harrogate Town AFC,2-0,Sutton United FC
+14,Sat Sep 28 2019,Notts County FC,2-0,AFC Fylde
+14,Sat Sep 28 2019,Stockport County FC,0-4,Torquay United FC
+14,Sat Sep 28 2019,Woking FC,1-2,Boreham Wood FC
+14,Sat Sep 28 2019,Yeovil Town FC,3-1,Bromley FC
+10,Tue Oct 1 2019,Solihull Moors FC,3-1,Wrexham AFC
+10,Tue Oct 1 2019,AFC Fylde,0-4,Barnet FC
+15,Sat Oct 5 2019,Dagenham & Redbridge FC,1-1,Barnet FC
+15,Sat Oct 5 2019,Bromley FC,1-2,Barrow AFC
+15,Sat Oct 5 2019,Chesterfield FC,1-2,Eastleigh FC
+15,Sat Oct 5 2019,Chorley FC,0-0,Aldershot Town FC
+15,Sat Oct 5 2019,Dover Athletic FC,2-2,Notts County FC
+15,Sat Oct 5 2019,Boreham Wood FC,1-0,Solihull Moors FC
+15,Sat Oct 5 2019,Hartlepool United FC,2-1,Yeovil Town FC
+15,Sat Oct 5 2019,Maidenhead United FC,0-1,FC Halifax Town
+15,Sat Oct 5 2019,Sutton United FC,0-0,Stockport County FC
+15,Sat Oct 5 2019,Torquay United FC,2-1,AFC Fylde
+15,Sat Oct 5 2019,Woking FC,1-1,Wrexham AFC
+15,Sat Oct 5 2019,Harrogate Town AFC,2-0,Ebbsfleet United FC
+16,Tue Oct 8 2019,AFC Fylde,1-3,Chesterfield FC
+16,Tue Oct 8 2019,Aldershot Town FC,4-0,Dover Athletic FC
+16,Tue Oct 8 2019,Barnet FC,1-2,Bromley FC
+16,Tue Oct 8 2019,Barrow AFC,3-1,Boreham Wood FC
+16,Tue Oct 8 2019,Eastleigh FC,2-1,Maidenhead United FC
+16,Tue Oct 8 2019,Ebbsfleet United FC,2-4,Torquay United FC
+16,Tue Oct 8 2019,FC Halifax Town,0-0,Chorley FC
+16,Tue Oct 8 2019,Notts County FC,2-0,Dagenham & Redbridge FC
+16,Tue Oct 8 2019,Solihull Moors FC,2-0,Sutton United FC
+16,Tue Oct 8 2019,Wrexham AFC,1-1,Harrogate Town AFC
+16,Tue Oct 8 2019,Yeovil Town FC,3-1,Woking FC
+16,Wed Oct 9 2019,Stockport County FC,2-1,Hartlepool United FC
+17,Sat Oct 12 2019,Aldershot Town FC,0-3,Hartlepool United FC
+17,Sat Oct 12 2019,Barnet FC,2-2,Woking FC
+17,Sat Oct 12 2019,Eastleigh FC,0-0,Chorley FC
+17,Sat Oct 12 2019,Ebbsfleet United FC,1-2,Maidenhead United FC
+17,Sat Oct 12 2019,FC Halifax Town,0-2,Boreham Wood FC
+17,Sat Oct 12 2019,Notts County FC,2-0,Torquay United FC
+17,Sat Oct 12 2019,Yeovil Town FC,1-2,Harrogate Town AFC
+17,Sat Oct 12 2019,Solihull Moors FC,2-1,Bromley FC
+17,Tue Oct 15 2019,Wrexham AFC,0-1,Chesterfield FC
+18,Sat Oct 26 2019,Chesterfield FC,1-0,Notts County FC
+18,Sat Oct 26 2019,Woking FC,1-1,Eastleigh FC
+18,Sat Oct 26 2019,Torquay United FC,4-2,Barrow AFC
+18,Sat Oct 26 2019,Boreham Wood FC,0-2,AFC Fylde
+18,Sat Oct 26 2019,Bromley FC,5-0,FC Halifax Town
+18,Sat Oct 26 2019,Chorley FC,1-2,Yeovil Town FC
+18,Sat Oct 26 2019,Dagenham & Redbridge FC,2-1,Wrexham AFC
+18,Sat Oct 26 2019,Dover Athletic FC,0-1,Stockport County FC
+18,Sat Oct 26 2019,Harrogate Town AFC,1-0,Aldershot Town FC
+18,Sat Oct 26 2019,Hartlepool United FC,2-0,Barnet FC
+18,Sat Oct 26 2019,Maidenhead United FC,1-0,Solihull Moors FC
+18,Sat Oct 26 2019,Sutton United FC,2-3,Ebbsfleet United FC
+19,Tue Oct 29 2019,Woking FC,0-4,Notts County FC
+19,Tue Oct 29 2019,Torquay United FC,1-0,Wrexham AFC
+19,Tue Oct 29 2019,Sutton United FC,0-1,FC Halifax Town
+19,Tue Oct 29 2019,Boreham Wood FC,0-0,Aldershot Town FC
+19,Tue Oct 29 2019,Bromley FC,2-2,Stockport County FC
+19,Tue Oct 29 2019,Chorley FC,0-4,Ebbsfleet United FC
+19,Tue Oct 29 2019,Dagenham & Redbridge FC,0-2,Barrow AFC
+19,Tue Oct 29 2019,Dover Athletic FC,3-1,Eastleigh FC
+19,Tue Oct 29 2019,Harrogate Town AFC,2-1,Barnet FC
+19,Tue Oct 29 2019,Maidenhead United FC,1-1,AFC Fylde
+20,Sat Nov 2 2019,Barnet FC,2-1,Chorley FC
+20,Sat Nov 2 2019,Yeovil Town FC,1-1,Boreham Wood FC
+20,Sat Nov 2 2019,Solihull Moors FC,2-1,Dagenham & Redbridge FC
+20,Sat Nov 2 2019,Notts County FC,2-2,Hartlepool United FC
+20,Sat Nov 2 2019,Wrexham AFC,1-0,Bromley FC
+20,Sat Nov 2 2019,AFC Fylde,0-0,Dover Athletic FC
+20,Sat Nov 2 2019,Aldershot Town FC,2-0,Maidenhead United FC
+20,Sat Nov 2 2019,Stockport County FC,1-3,Woking FC
+20,Sat Nov 2 2019,Barrow AFC,1-0,Sutton United FC
+20,Sat Nov 2 2019,Eastleigh FC,4-2,Harrogate Town AFC
+20,Sat Nov 2 2019,Ebbsfleet United FC,2-2,Chesterfield FC
+20,Sat Nov 2 2019,FC Halifax Town,2-4,Torquay United FC
+19,Tue Nov 5 2019,Hartlepool United FC,0-1,Solihull Moors FC
+17,Sat Nov 9 2019,Stockport County FC,1-0,Dagenham & Redbridge FC
+21,Sat Nov 16 2019,Boreham Wood FC,2-1,Maidenhead United FC
+21,Sat Nov 16 2019,Woking FC,0-0,FC Halifax Town
+21,Sat Nov 16 2019,Yeovil Town FC,0-1,Dover Athletic FC
+21,Sat Nov 16 2019,Barnet FC,1-2,Stockport County FC
+21,Sat Nov 16 2019,Notts County FC,0-3,Barrow AFC
+21,Sat Nov 16 2019,Solihull Moors FC,3-1,AFC Fylde
+21,Sat Nov 16 2019,Chesterfield FC,2-3,Chorley FC
+21,Sat Nov 16 2019,Dagenham & Redbridge FC,6-1,Aldershot Town FC
+21,Sat Nov 16 2019,Ebbsfleet United FC,2-2,Hartlepool United FC
+21,Sat Nov 16 2019,Bromley FC,3-3,Harrogate Town AFC
+21,Sat Nov 16 2019,Torquay United FC,1-2,Sutton United FC
+22,Sat Nov 23 2019,Stockport County FC,1-1,Ebbsfleet United FC
+22,Sat Nov 23 2019,Maidenhead United FC,2-3,Woking FC
+22,Sat Nov 23 2019,Wrexham AFC,3-3,Yeovil Town FC
+22,Sat Nov 23 2019,Sutton United FC,0-2,Bromley FC
+22,Sat Nov 23 2019,AFC Fylde,3-0,Dagenham & Redbridge FC
+22,Sat Nov 23 2019,Aldershot Town FC,2-1,Notts County FC
+22,Sat Nov 23 2019,Barrow AFC,2-1,Barnet FC
+22,Sat Nov 23 2019,Chorley FC,1-0,Torquay United FC
+22,Sat Nov 23 2019,Dover Athletic FC,1-1,Solihull Moors FC
+22,Sat Nov 23 2019,FC Halifax Town,1-1,Eastleigh FC
+22,Sat Nov 23 2019,Harrogate Town AFC,3-1,Chesterfield FC
+22,Sat Nov 23 2019,Hartlepool United FC,2-2,Boreham Wood FC
+23,Tue Nov 26 2019,Woking FC,2-1,Bromley FC
+23,Tue Nov 26 2019,Stockport County FC,1-4,Solihull Moors FC
+23,Tue Nov 26 2019,Yeovil Town FC,2-2,Aldershot Town FC
+23,Tue Nov 26 2019,Notts County FC,2-2,Boreham Wood FC
+23,Tue Nov 26 2019,Barnet FC,5-2,Ebbsfleet United FC
+23,Tue Nov 26 2019,Barrow AFC,2-2,Chorley FC
+23,Tue Nov 26 2019,Chesterfield FC,1-5,Hartlepool United FC
+23,Tue Nov 26 2019,Dagenham & Redbridge FC,1-2,Sutton United FC
+23,Tue Nov 26 2019,Dover Athletic FC,3-4,Maidenhead United FC
+23,Tue Nov 26 2019,Eastleigh FC,3-2,Torquay United FC
+23,Tue Nov 26 2019,Harrogate Town AFC,2-2,FC Halifax Town
+23,Tue Nov 26 2019,Wrexham AFC,0-1,AFC Fylde
+24,Sat Nov 30 2019,Sutton United FC,3-1,Harrogate Town AFC
+24,Sat Nov 30 2019,Ebbsfleet United FC,2-1,Wrexham AFC
+24,Sat Nov 30 2019,Maidenhead United FC,0-4,Barrow AFC
+24,Sat Nov 30 2019,Torquay United FC,1-5,Stockport County FC
+24,Sat Nov 30 2019,Aldershot Town FC,2-2,Chesterfield FC
+24,Sat Nov 30 2019,Boreham Wood FC,1-0,Woking FC
+24,Sat Nov 30 2019,Bromley FC,1-1,Yeovil Town FC
+24,Sat Nov 30 2019,Chorley FC,1-0,Dagenham & Redbridge FC
+21,Tue Dec 3 2019,Eastleigh FC,0-2,Wrexham AFC
+25,Sat Dec 7 2019,Barnet FC,2-1,AFC Fylde
+25,Sat Dec 7 2019,Yeovil Town FC,2-0,FC Halifax Town
+25,Sat Dec 7 2019,Wrexham AFC,2-0,Solihull Moors FC
+25,Sat Dec 7 2019,Woking FC,2-1,Hartlepool United FC
+25,Sat Dec 7 2019,Stockport County FC,4-2,Chorley FC
+25,Sat Dec 7 2019,Notts County FC,1-1,Sutton United FC
+25,Sat Dec 7 2019,Harrogate Town AFC,2-1,Torquay United FC
+25,Sat Dec 7 2019,Barrow AFC,1-0,Aldershot Town FC
+25,Sat Dec 7 2019,Chesterfield FC,1-2,Bromley FC
+25,Sat Dec 7 2019,Dagenham & Redbridge FC,1-2,Maidenhead United FC
+25,Sat Dec 7 2019,Dover Athletic FC,0-2,Boreham Wood FC
+25,Sat Dec 7 2019,Eastleigh FC,1-1,Ebbsfleet United FC
+17,Tue Dec 10 2019,AFC Fylde,0-0,Sutton United FC
+19,Tue Dec 10 2019,Chesterfield FC,1-2,Yeovil Town FC
+26,Sat Dec 21 2019,Maidenhead United FC,1-4,Barnet FC
+26,Sat Dec 21 2019,Sutton United FC,3-1,Wrexham AFC
+26,Sat Dec 21 2019,FC Halifax Town,2-4,Notts County FC
+26,Sat Dec 21 2019,Torquay United FC,0-3,Chesterfield FC
+26,Sat Dec 21 2019,Hartlepool United FC,1-0,Dagenham & Redbridge FC
+26,Sat Dec 21 2019,AFC Fylde,2-2,Yeovil Town FC
+26,Sat Dec 21 2019,Aldershot Town FC,2-1,Stockport County FC
+26,Sat Dec 21 2019,Boreham Wood FC,2-1,Harrogate Town AFC
+26,Sat Dec 21 2019,Bromley FC,2-3,Eastleigh FC
+26,Sat Dec 21 2019,Chorley FC,1-1,Dover Athletic FC
+27,Thu Dec 26 2019,Chesterfield FC,2-2,Solihull Moors FC
+27,Thu Dec 26 2019,Yeovil Town FC,6-2,Torquay United FC
+27,Thu Dec 26 2019,Wrexham AFC,3-1,Chorley FC
+27,Thu Dec 26 2019,Stockport County FC,5-1,FC Halifax Town
+27,Thu Dec 26 2019,Notts County FC,3-0,Maidenhead United FC
+27,Thu Dec 26 2019,Harrogate Town AFC,4-1,Hartlepool United FC
+27,Thu Dec 26 2019,Dover Athletic FC,3-0,Bromley FC
+27,Thu Dec 26 2019,Dagenham & Redbridge FC,1-1,Ebbsfleet United FC
+27,Thu Dec 26 2019,Woking FC,0-2,Sutton United FC
+27,Thu Dec 26 2019,Barrow AFC,1-1,AFC Fylde
+28,Sat Dec 28 2019,FC Halifax Town,1-0,Chesterfield FC
+28,Sat Dec 28 2019,Chorley FC,0-2,Harrogate Town AFC
+28,Sat Dec 28 2019,Ebbsfleet United FC,0-1,Dover Athletic FC
+28,Sat Dec 28 2019,Torquay United FC,4-1,Woking FC
+28,Sat Dec 28 2019,Solihull Moors FC,0-1,Notts County FC
+28,Sat Dec 28 2019,Aldershot Town FC,0-0,Barnet FC
+28,Sat Dec 28 2019,Hartlepool United FC,2-2,Barrow AFC
+28,Sat Dec 28 2019,Bromley FC,3-0,Dagenham & Redbridge FC
+28,Sat Dec 28 2019,Boreham Wood FC,2-2,Eastleigh FC
+28,Sat Dec 28 2019,Sutton United FC,3-2,Yeovil Town FC
+28,Sat Dec 28 2019,AFC Fylde,1-2,Stockport County FC
+28,Sat Dec 28 2019,Maidenhead United FC,2-0,Wrexham AFC
+29,Wed Jan 1 2020,Maidenhead United FC,0-0,Notts County FC
+29,Wed Jan 1 2020,Torquay United FC,0-2,Yeovil Town FC
+29,Wed Jan 1 2020,Sutton United FC,6-2,Woking FC
+29,Wed Jan 1 2020,Solihull Moors FC,3-0,Chesterfield FC
+29,Wed Jan 1 2020,Hartlepool United FC,0-1,Harrogate Town AFC
+29,Wed Jan 1 2020,FC Halifax Town,0-0,Stockport County FC
+29,Wed Jan 1 2020,Ebbsfleet United FC,1-1,Dagenham & Redbridge FC
+29,Wed Jan 1 2020,Chorley FC,0-2,Wrexham AFC
+29,Wed Jan 1 2020,Bromley FC,3-0,Dover Athletic FC
+29,Wed Jan 1 2020,AFC Fylde,0-1,Barrow AFC
+29,Wed Jan 1 2020,Boreham Wood FC,0-0,Barnet FC
+29,Wed Jan 1 2020,Aldershot Town FC,3-1,Eastleigh FC
+30,Sat Jan 4 2020,Chesterfield FC,1-0,Sutton United FC
+30,Sat Jan 4 2020,Dagenham & Redbridge FC,0-0,Torquay United FC
+30,Sat Jan 4 2020,Yeovil Town FC,0-0,Solihull Moors FC
+30,Sat Jan 4 2020,Wrexham AFC,1-2,Aldershot Town FC
+30,Sat Jan 4 2020,Woking FC,1-0,Chorley FC
+30,Sat Jan 4 2020,Barnet FC,1-1,FC Halifax Town
+30,Sat Jan 4 2020,Notts County FC,2-1,Bromley FC
+30,Sat Jan 4 2020,Harrogate Town AFC,1-0,Maidenhead United FC
+30,Sat Jan 4 2020,Barrow AFC,7-0,Ebbsfleet United FC
+30,Sat Jan 4 2020,Stockport County FC,1-3,Boreham Wood FC
+24,Tue Jan 7 2020,Hartlepool United FC,2-1,Eastleigh FC
+30,Sat Jan 11 2020,Dover Athletic FC,1-1,Hartlepool United FC
+31,Sat Jan 18 2020,Stockport County FC,0-0,Sutton United FC
+31,Sat Jan 18 2020,Yeovil Town FC,2-2,Hartlepool United FC
+31,Sat Jan 18 2020,Wrexham AFC,3-0,Woking FC
+31,Sat Jan 18 2020,FC Halifax Town,5-2,Maidenhead United FC
+31,Sat Jan 18 2020,Aldershot Town FC,3-3,Chorley FC
+31,Sat Jan 18 2020,Barrow AFC,2-0,Bromley FC
+31,Sat Jan 18 2020,Notts County FC,0-0,Dover Athletic FC
+31,Sat Jan 18 2020,Ebbsfleet United FC,0-2,Harrogate Town AFC
+31,Sat Jan 18 2020,Eastleigh FC,0-2,Chesterfield FC
+31,Sat Jan 18 2020,AFC Fylde,2-3,Torquay United FC
+31,Sat Jan 18 2020,Solihull Moors FC,0-2,Boreham Wood FC
+32,Sat Jan 25 2020,Dagenham & Redbridge FC,2-0,Notts County FC
+32,Sat Jan 25 2020,Chorley FC,0-1,FC Halifax Town
+32,Sat Jan 25 2020,Woking FC,1-0,Yeovil Town FC
+32,Sat Jan 25 2020,Torquay United FC,0-0,Ebbsfleet United FC
+32,Sat Jan 25 2020,Sutton United FC,0-0,Solihull Moors FC
+32,Sat Jan 25 2020,Maidenhead United FC,2-0,Eastleigh FC
+32,Sat Jan 25 2020,Hartlepool United FC,2-0,Stockport County FC
+32,Sat Jan 25 2020,Harrogate Town AFC,0-2,Wrexham AFC
+32,Sat Jan 25 2020,Bromley FC,1-2,Barnet FC
+32,Sat Jan 25 2020,Chesterfield FC,1-1,AFC Fylde
+32,Sat Jan 25 2020,Boreham Wood FC,1-1,Barrow AFC
+32,Sat Jan 25 2020,Dover Athletic FC,2-0,Aldershot Town FC
+24,Tue Jan 28 2020,FC Halifax Town,4-2,Dover Athletic FC
+26,Tue Jan 28 2020,Solihull Moors FC,0-0,Barrow AFC
+26,Tue Jan 28 2020,Ebbsfleet United FC,2-1,Woking FC
+27,Tue Jan 28 2020,Eastleigh FC,0-0,Aldershot Town FC
+33,Sat Feb 1 2020,Notts County FC,3-0,Chesterfield FC
+33,Sat Feb 1 2020,Yeovil Town FC,1-1,Chorley FC
+33,Sat Feb 1 2020,Stockport County FC,0-2,Dover Athletic FC
+33,Sat Feb 1 2020,Wrexham AFC,0-0,Dagenham & Redbridge FC
+33,Sat Feb 1 2020,Eastleigh FC,2-0,Woking FC
+33,Sat Feb 1 2020,FC Halifax Town,2-1,Bromley FC
+33,Sat Feb 1 2020,AFC Fylde,1-2,Boreham Wood FC
+33,Sat Feb 1 2020,Aldershot Town FC,1-1,Harrogate Town AFC
+33,Sat Feb 1 2020,Barnet FC,2-1,Hartlepool United FC
+33,Sat Feb 1 2020,Barrow AFC,2-1,Torquay United FC
+33,Sat Feb 1 2020,Ebbsfleet United FC,1-1,Sutton United FC
+33,Sat Feb 1 2020,Solihull Moors FC,0-2,Maidenhead United FC
+34,Tue Feb 4 2020,Dover Athletic FC,2-1,Barrow AFC
+34,Sat Feb 8 2020,Bromley FC,2-2,Solihull Moors FC
+34,Sat Feb 8 2020,Dagenham & Redbridge FC,1-1,Stockport County FC
+34,Sat Feb 8 2020,Chesterfield FC,3-2,Wrexham AFC
+34,Sat Feb 8 2020,Hartlepool United FC,2-0,Aldershot Town FC
+24,Tue Feb 11 2020,Solihull Moors FC,1-0,Barnet FC
+30,Tue Feb 11 2020,Eastleigh FC,2-2,AFC Fylde
+34,Tue Feb 11 2020,Harrogate Town AFC,3-0,Yeovil Town FC
+35,Sat Feb 15 2020,Notts County FC,1-1,Woking FC
+35,Sat Feb 15 2020,Ebbsfleet United FC,1-0,Chorley FC
+35,Sat Feb 15 2020,Stockport County FC,1-0,Bromley FC
+17,Tue Feb 18 2020,Barrow AFC,1-0,Dover Athletic FC
+36,Sat Feb 22 2020,Hartlepool United FC,2-0,Notts County FC
+36,Sat Feb 22 2020,Maidenhead United FC,1-2,Aldershot Town FC
+36,Sat Feb 22 2020,Dagenham & Redbridge FC,2-0,Solihull Moors FC
+36,Sat Feb 22 2020,Harrogate Town AFC,3-0,Eastleigh FC
+36,Sat Feb 22 2020,Dover Athletic FC,5-1,AFC Fylde
+36,Sat Feb 22 2020,Chorley FC,0-1,Barnet FC
+36,Sat Feb 22 2020,Torquay United FC,1-0,FC Halifax Town
+36,Sat Feb 22 2020,Chesterfield FC,4-0,Ebbsfleet United FC
+36,Sat Feb 22 2020,Sutton United FC,2-2,Barrow AFC
+36,Sat Feb 22 2020,Boreham Wood FC,1-0,Yeovil Town FC
+36,Sat Feb 22 2020,Bromley FC,0-2,Wrexham AFC
+36,Sat Feb 22 2020,Woking FC,1-1,Stockport County FC
+34,Tue Feb 25 2020,Maidenhead United FC,1-3,Ebbsfleet United FC
+35,Tue Feb 25 2020,Aldershot Town FC,3-2,Boreham Wood FC
+35,Sat Feb 29 2020,Barrow AFC,2-1,Dagenham & Redbridge FC
+37,Sat Feb 29 2020,Ebbsfleet United FC,0-1,Stockport County FC
+37,Sat Feb 29 2020,Solihull Moors FC,3-0,Dover Athletic FC
+37,Sat Feb 29 2020,Torquay United FC,2-0,Chorley FC
+37,Sat Feb 29 2020,Boreham Wood FC,1-1,Hartlepool United FC
+37,Sat Feb 29 2020,Woking FC,2-0,Maidenhead United FC
+37,Sat Feb 29 2020,Yeovil Town FC,3-0,Wrexham AFC
+37,Sat Feb 29 2020,Bromley FC,0-1,Sutton United FC
+24,Tue Mar 3 2020,AFC Fylde,1-2,Notts County FC
+27,Tue Mar 3 2020,Barnet FC,2-2,Boreham Wood FC
+34,Tue Mar 3 2020,Chorley FC,1-2,Eastleigh FC
+35,Tue Mar 3 2020,FC Halifax Town,1-0,Sutton United FC
+35,Tue Mar 3 2020,Solihull Moors FC,0-1,Hartlepool United FC
+37,Tue Mar 3 2020,Chesterfield FC,3-4,Harrogate Town AFC
+38,Sat Mar 7 2020,Aldershot Town FC,0-1,Dagenham & Redbridge FC
+38,Sat Mar 7 2020,Harrogate Town AFC,1-1,Bromley FC
+38,Sat Mar 7 2020,Stockport County FC,1-1,Barnet FC
+38,Sat Mar 7 2020,Sutton United FC,2-0,Torquay United FC
+38,Sat Mar 7 2020,Barrow AFC,0-2,Notts County FC
+38,Sat Mar 7 2020,Hartlepool United FC,0-1,Ebbsfleet United FC
+38,Sat Mar 7 2020,FC Halifax Town,0-2,Woking FC
+38,Sat Mar 7 2020,Dover Athletic FC,0-1,Yeovil Town FC
+38,Sat Mar 7 2020,Chorley FC,1-2,Chesterfield FC
+38,Sat Mar 7 2020,Wrexham AFC,0-0,Eastleigh FC
+38,Sat Mar 7 2020,Maidenhead United FC,0-1,Boreham Wood FC
+38,Sat Mar 7 2020,AFC Fylde,0-0,Solihull Moors FC
+34,Tue Mar 10 2020,Woking FC,1-3,Barnet FC
+37,Tue Mar 10 2020,Notts County FC,3-1,Aldershot Town FC
+37,Tue Mar 10 2020,Dagenham & Redbridge FC,1-2,AFC Fylde
+39,Fri Mar 13 2020,Solihull Moors FC,,Harrogate Town AFC
+39,Sat Mar 14 2020,FC Halifax Town,0-1,Ebbsfleet United FC
+39,Sat Mar 14 2020,Barrow AFC,,Wrexham AFC
+39,Sat Mar 14 2020,Dover Athletic FC,1-1,Chesterfield FC
+39,Sat Mar 14 2020,Sutton United FC,1-1,Hartlepool United FC
+39,Sat Mar 14 2020,Yeovil Town FC,,Barnet FC
+39,Sat Mar 14 2020,Notts County FC,4-0,Eastleigh FC
+39,Sat Mar 14 2020,Maidenhead United FC,1-2,Stockport County FC
+39,Sat Mar 14 2020,Boreham Wood FC,,Torquay United FC
+39,Sat Mar 14 2020,Bromley FC,,Chorley FC
+39,Sat Mar 14 2020,AFC Fylde,1-0,Aldershot Town FC
+39,Sat Mar 14 2020,Woking FC,,Dagenham & Redbridge FC
+34,Tue Mar 17 2020,Boreham Wood FC,,FC Halifax Town
+34,Tue Mar 17 2020,Torquay United FC,,Notts County FC
+34,Tue Mar 17 2020,Sutton United FC,,AFC Fylde
+35,Tue Mar 17 2020,Eastleigh FC,,Dover Athletic FC
+37,Tue Mar 17 2020,Barnet FC,,Barrow AFC
+40,Sat Mar 21 2020,Wrexham AFC,,Boreham Wood FC
+40,Sat Mar 21 2020,Chorley FC,,AFC Fylde
+40,Sat Mar 21 2020,Torquay United FC,,Solihull Moors FC
+40,Sat Mar 21 2020,Ebbsfleet United FC,,Bromley FC
+40,Sat Mar 21 2020,Eastleigh FC,,Yeovil Town FC
+40,Sat Mar 21 2020,Hartlepool United FC,,FC Halifax Town
+40,Sat Mar 21 2020,Aldershot Town FC,,Woking FC
+40,Sat Mar 21 2020,Barnet FC,,Sutton United FC
+40,Sat Mar 21 2020,Chesterfield FC,,Maidenhead United FC
+40,Sat Mar 21 2020,Dagenham & Redbridge FC,,Dover Athletic FC
+35,Tue Mar 24 2020,AFC Fylde,,Maidenhead United FC
+35,Tue Mar 24 2020,Wrexham AFC,,Torquay United FC
+35,Tue Mar 24 2020,Yeovil Town FC,,Chesterfield FC
+40,Tue Mar 24 2020,Stockport County FC,,Notts County FC
+41,Sat Mar 28 2020,Barrow AFC,,Stockport County FC
+41,Sat Mar 28 2020,Yeovil Town FC,,Ebbsfleet United FC
+41,Sat Mar 28 2020,Woking FC,,Chesterfield FC
+41,Sat Mar 28 2020,Solihull Moors FC,,Chorley FC
+41,Sat Mar 28 2020,AFC Fylde,,Hartlepool United FC
+41,Sat Mar 28 2020,Sutton United FC,,Eastleigh FC
+41,Sat Mar 28 2020,Boreham Wood FC,,Dagenham & Redbridge FC
+41,Sat Mar 28 2020,Bromley FC,,Aldershot Town FC
+41,Sat Mar 28 2020,Dover Athletic FC,,Barnet FC
+41,Sat Mar 28 2020,FC Halifax Town,,Wrexham AFC
+41,Sat Mar 28 2020,Maidenhead United FC,,Torquay United FC
+35,Tue Mar 31 2020,Barnet FC,,Harrogate Town AFC
+37,Tue Mar 31 2020,Eastleigh FC,,FC Halifax Town
+40,Wed Apr 1 2020,Harrogate Town AFC,,Barrow AFC
+42,Sat Apr 4 2020,Wrexham AFC,,Dover Athletic FC
+42,Sat Apr 4 2020,Torquay United FC,,Bromley FC
+42,Sat Apr 4 2020,Aldershot Town FC,,Solihull Moors FC
+42,Sat Apr 4 2020,Barnet FC,,Notts County FC
+42,Sat Apr 4 2020,Chesterfield FC,,Boreham Wood FC
+42,Sat Apr 4 2020,Stockport County FC,,Yeovil Town FC
+42,Sat Apr 4 2020,Dagenham & Redbridge FC,,FC Halifax Town
+42,Sat Apr 4 2020,Eastleigh FC,,Barrow AFC
+42,Sat Apr 4 2020,Ebbsfleet United FC,,AFC Fylde
+42,Sat Apr 4 2020,Harrogate Town AFC,,Woking FC
+42,Sat Apr 4 2020,Hartlepool United FC,,Maidenhead United FC
+42,Sat Apr 4 2020,Chorley FC,,Sutton United FC
+31,Tue Apr 7 2020,Barnet FC,,Dagenham & Redbridge FC
+41,Tue Apr 7 2020,Notts County FC,,Harrogate Town AFC
+43,Fri Apr 10 2020,Bromley FC,,Maidenhead United FC
+43,Fri Apr 10 2020,Chesterfield FC,,Stockport County FC
+43,Fri Apr 10 2020,Chorley FC,,Notts County FC
+43,Fri Apr 10 2020,Wrexham AFC,,Hartlepool United FC
+43,Fri Apr 10 2020,Ebbsfleet United FC,,Boreham Wood FC
+43,Fri Apr 10 2020,FC Halifax Town,,Barrow AFC
+43,Fri Apr 10 2020,Harrogate Town AFC,,AFC Fylde
+43,Fri Apr 10 2020,Sutton United FC,,Aldershot Town FC
+43,Fri Apr 10 2020,Torquay United FC,,Barnet FC
+43,Fri Apr 10 2020,Woking FC,,Dover Athletic FC
+43,Fri Apr 10 2020,Yeovil Town FC,,Dagenham & Redbridge FC
+43,Fri Apr 10 2020,Eastleigh FC,,Solihull Moors FC
+44,Mon Apr 13 2020,AFC Fylde,,FC Halifax Town
+44,Mon Apr 13 2020,Aldershot Town FC,,Torquay United FC
+44,Mon Apr 13 2020,Barnet FC,,Wrexham AFC
+44,Mon Apr 13 2020,Barrow AFC,,Chesterfield FC
+44,Mon Apr 13 2020,Stockport County FC,,Harrogate Town AFC
+44,Mon Apr 13 2020,Dagenham & Redbridge FC,,Eastleigh FC
+44,Mon Apr 13 2020,Dover Athletic FC,,Sutton United FC
+44,Mon Apr 13 2020,Hartlepool United FC,,Chorley FC
+44,Mon Apr 13 2020,Maidenhead United FC,,Yeovil Town FC
+44,Mon Apr 13 2020,Notts County FC,,Ebbsfleet United FC
+44,Mon Apr 13 2020,Solihull Moors FC,,Woking FC
+44,Mon Apr 13 2020,Boreham Wood FC,,Bromley FC
+45,Sat Apr 18 2020,Bromley FC,,Hartlepool United FC
+45,Sat Apr 18 2020,Chesterfield FC,,Barnet FC
+45,Sat Apr 18 2020,Chorley FC,,Maidenhead United FC
+45,Sat Apr 18 2020,Eastleigh FC,,Stockport County FC
+45,Sat Apr 18 2020,Ebbsfleet United FC,,Solihull Moors FC
+45,Sat Apr 18 2020,FC Halifax Town,,Aldershot Town FC
+45,Sat Apr 18 2020,Yeovil Town FC,,Barrow AFC
+45,Sat Apr 18 2020,Sutton United FC,,Boreham Wood FC
+45,Sat Apr 18 2020,Torquay United FC,,Dover Athletic FC
+45,Sat Apr 18 2020,Woking FC,,AFC Fylde
+45,Sat Apr 18 2020,Wrexham AFC,,Notts County FC
+45,Sat Apr 18 2020,Harrogate Town AFC,,Dagenham & Redbridge FC
+46,Sat Apr 25 2020,AFC Fylde,,Bromley FC
+46,Sat Apr 25 2020,Aldershot Town FC,,Ebbsfleet United FC
+46,Sat Apr 25 2020,Barnet FC,,Eastleigh FC
+46,Sat Apr 25 2020,Barrow AFC,,Woking FC
+46,Sat Apr 25 2020,Boreham Wood FC,,Chorley FC
+46,Sat Apr 25 2020,Dagenham & Redbridge FC,,Chesterfield FC
+46,Sat Apr 25 2020,Dover Athletic FC,,Harrogate Town AFC
+46,Sat Apr 25 2020,Hartlepool United FC,,Torquay United FC
+46,Sat Apr 25 2020,Maidenhead United FC,,Sutton United FC
+46,Sat Apr 25 2020,Notts County FC,,Yeovil Town FC
+46,Sat Apr 25 2020,Solihull Moors FC,,FC Halifax Town
+46,Sat Apr 25 2020,Stockport County FC,,Wrexham AFC

@@ -1,0 +1,553 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Aug 4 2018,Salford City FC,1-1,Leyton Orient FC
+1,Sat Aug 4 2018,AFC Fylde,2-1,Bromley FC
+1,Sat Aug 4 2018,Aldershot Town FC,0-0,Barnet FC
+1,Sat Aug 4 2018,Barrow AFC,3-0,Havant & Waterlooville FC
+1,Sat Aug 4 2018,Boreham Wood FC,1-0,Dagenham & Redbridge FC
+1,Sat Aug 4 2018,Braintree Town FC,0-2,FC Halifax Town
+1,Sat Aug 4 2018,Dover Athletic FC,0-1,Wrexham AFC
+1,Sat Aug 4 2018,Eastleigh FC,1-2,Solihull Moors FC
+1,Sat Aug 4 2018,Ebbsfleet United FC,0-1,Chesterfield FC
+1,Sat Aug 4 2018,Harrogate Town AFC,2-2,Sutton United FC
+1,Sat Aug 4 2018,Maidenhead United FC,1-3,Gateshead FC
+1,Sat Aug 4 2018,Maidstone United FC,1-1,Hartlepool United FC
+2,Tue Aug 7 2018,Barnet FC,1-1,Braintree Town FC
+2,Tue Aug 7 2018,Bromley FC,2-2,Dover Athletic FC
+2,Tue Aug 7 2018,Chesterfield FC,3-0,Aldershot Town FC
+2,Tue Aug 7 2018,Dagenham & Redbridge FC,1-2,Maidstone United FC
+2,Tue Aug 7 2018,FC Halifax Town,2-0,Barrow AFC
+2,Tue Aug 7 2018,Gateshead FC,2-1,Salford City FC
+2,Tue Aug 7 2018,Hartlepool United FC,2-2,Harrogate Town AFC
+2,Tue Aug 7 2018,Havant & Waterlooville FC,0-0,Boreham Wood FC
+2,Tue Aug 7 2018,Leyton Orient FC,1-1,Ebbsfleet United FC
+2,Tue Aug 7 2018,Solihull Moors FC,1-0,Maidenhead United FC
+2,Tue Aug 7 2018,Sutton United FC,1-0,Eastleigh FC
+2,Tue Aug 7 2018,Wrexham AFC,0-0,AFC Fylde
+3,Sat Aug 11 2018,Wrexham AFC,3-0,Boreham Wood FC
+3,Sat Aug 11 2018,Barnet FC,1-2,Eastleigh FC
+3,Sat Aug 11 2018,Bromley FC,1-1,Harrogate Town AFC
+3,Sat Aug 11 2018,Chesterfield FC,1-0,Braintree Town FC
+3,Sat Aug 11 2018,Dagenham & Redbridge FC,2-2,Maidenhead United FC
+3,Sat Aug 11 2018,FC Halifax Town,3-0,Maidstone United FC
+3,Sat Aug 11 2018,Gateshead FC,2-1,Dover Athletic FC
+3,Sat Aug 11 2018,Hartlepool United FC,0-1,Ebbsfleet United FC
+3,Sat Aug 11 2018,Havant & Waterlooville FC,1-1,AFC Fylde
+3,Sat Aug 11 2018,Leyton Orient FC,2-2,Barrow AFC
+3,Sat Aug 11 2018,Solihull Moors FC,1-0,Aldershot Town FC
+3,Sat Aug 11 2018,Sutton United FC,2-1,Salford City FC
+4,Tue Aug 14 2018,AFC Fylde,3-1,Solihull Moors FC
+4,Tue Aug 14 2018,Aldershot Town FC,2-1,Dagenham & Redbridge FC
+4,Tue Aug 14 2018,Barrow AFC,3-2,Chesterfield FC
+4,Tue Aug 14 2018,Boreham Wood FC,1-1,Gateshead FC
+4,Tue Aug 14 2018,Braintree Town FC,1-1,Hartlepool United FC
+4,Tue Aug 14 2018,Dover Athletic FC,4-3,Havant & Waterlooville FC
+4,Tue Aug 14 2018,Eastleigh FC,1-0,Bromley FC
+4,Tue Aug 14 2018,Ebbsfleet United FC,0-1,Sutton United FC
+4,Tue Aug 14 2018,Harrogate Town AFC,2-0,Barnet FC
+4,Tue Aug 14 2018,Maidenhead United FC,0-2,Wrexham AFC
+4,Tue Aug 14 2018,Maidstone United FC,1-2,Leyton Orient FC
+4,Tue Aug 14 2018,Salford City FC,2-1,FC Halifax Town
+5,Sat Aug 18 2018,AFC Fylde,4-0,Dover Athletic FC
+5,Sat Aug 18 2018,Aldershot Town FC,0-2,Harrogate Town AFC
+5,Sat Aug 18 2018,Barnet FC,0-3,Ebbsfleet United FC
+5,Sat Aug 18 2018,Braintree Town FC,3-4,Havant & Waterlooville FC
+5,Sat Aug 18 2018,Bromley FC,1-0,Gateshead FC
+5,Sat Aug 18 2018,Eastleigh FC,1-3,Wrexham AFC
+5,Sat Aug 18 2018,FC Halifax Town,2-1,Dagenham & Redbridge FC
+5,Sat Aug 18 2018,Hartlepool United FC,2-1,Maidenhead United FC
+5,Sat Aug 18 2018,Leyton Orient FC,1-0,Boreham Wood FC
+5,Sat Aug 18 2018,Maidstone United FC,1-0,Barrow AFC
+5,Sat Aug 18 2018,Salford City FC,3-2,Chesterfield FC
+5,Sat Aug 18 2018,Solihull Moors FC,2-2,Sutton United FC
+6,Sat Aug 25 2018,Maidenhead United FC,3-2,Maidstone United FC
+6,Sat Aug 25 2018,Barrow AFC,1-0,Braintree Town FC
+6,Sat Aug 25 2018,Boreham Wood FC,2-1,FC Halifax Town
+6,Sat Aug 25 2018,Chesterfield FC,0-1,Barnet FC
+6,Sat Aug 25 2018,Dagenham & Redbridge FC,1-2,Hartlepool United FC
+6,Sat Aug 25 2018,Dover Athletic FC,1-2,Eastleigh FC
+6,Sat Aug 25 2018,Ebbsfleet United FC,3-1,Aldershot Town FC
+6,Sat Aug 25 2018,Gateshead FC,1-1,Leyton Orient FC
+6,Sat Aug 25 2018,Harrogate Town AFC,3-1,Solihull Moors FC
+6,Sat Aug 25 2018,Havant & Waterlooville FC,1-1,Salford City FC
+6,Sat Aug 25 2018,Sutton United FC,0-0,AFC Fylde
+6,Sat Aug 25 2018,Wrexham AFC,2-2,Bromley FC
+7,Mon Aug 27 2018,Aldershot Town FC,2-1,Sutton United FC
+7,Mon Aug 27 2018,Barnet FC,2-1,Dagenham & Redbridge FC
+7,Mon Aug 27 2018,Braintree Town FC,0-2,Maidenhead United FC
+7,Mon Aug 27 2018,Bromley FC,4-0,Havant & Waterlooville FC
+7,Mon Aug 27 2018,Eastleigh FC,0-1,Ebbsfleet United FC
+7,Mon Aug 27 2018,FC Halifax Town,1-0,Gateshead FC
+7,Mon Aug 27 2018,Hartlepool United FC,1-0,Chesterfield FC
+7,Mon Aug 27 2018,Leyton Orient FC,3-0,Dover Athletic FC
+7,Mon Aug 27 2018,Maidstone United FC,1-2,Boreham Wood FC
+7,Mon Aug 27 2018,Salford City FC,3-1,Barrow AFC
+7,Mon Aug 27 2018,Solihull Moors FC,1-0,Wrexham AFC
+7,Mon Aug 27 2018,AFC Fylde,0-0,Harrogate Town AFC
+8,Sat Sep 1 2018,Barrow AFC,1-2,Solihull Moors FC
+8,Sat Sep 1 2018,Boreham Wood FC,1-1,Braintree Town FC
+8,Sat Sep 1 2018,Chesterfield FC,0-1,Leyton Orient FC
+8,Sat Sep 1 2018,Dagenham & Redbridge FC,0-0,Salford City FC
+8,Sat Sep 1 2018,Dover Athletic FC,1-2,Barnet FC
+8,Sat Sep 1 2018,Ebbsfleet United FC,1-3,AFC Fylde
+8,Sat Sep 1 2018,Gateshead FC,1-0,Maidstone United FC
+8,Sat Sep 1 2018,Harrogate Town AFC,4-0,Eastleigh FC
+8,Sat Sep 1 2018,Havant & Waterlooville FC,1-2,Hartlepool United FC
+8,Sat Sep 1 2018,Maidenhead United FC,2-2,Bromley FC
+8,Sat Sep 1 2018,Sutton United FC,1-1,FC Halifax Town
+8,Sat Sep 1 2018,Wrexham AFC,2-0,Aldershot Town FC
+9,Tue Sep 4 2018,AFC Fylde,0-2,Salford City FC
+9,Tue Sep 4 2018,Boreham Wood FC,1-0,Chesterfield FC
+9,Tue Sep 4 2018,Bromley FC,0-1,Barnet FC
+9,Tue Sep 4 2018,Dagenham & Redbridge FC,1-0,Braintree Town FC
+9,Tue Sep 4 2018,Dover Athletic FC,1-1,Ebbsfleet United FC
+9,Tue Sep 4 2018,Gateshead FC,2-3,Harrogate Town AFC
+9,Tue Sep 4 2018,Hartlepool United FC,0-0,Barrow AFC
+9,Tue Sep 4 2018,Leyton Orient FC,3-0,Solihull Moors FC
+9,Tue Sep 4 2018,Maidenhead United FC,2-0,Eastleigh FC
+9,Tue Sep 4 2018,Maidstone United FC,0-1,Sutton United FC
+9,Tue Sep 4 2018,Wrexham AFC,0-0,FC Halifax Town
+9,Wed Sep 5 2018,Havant & Waterlooville FC,2-1,Aldershot Town FC
+10,Sat Sep 8 2018,Aldershot Town FC,3-2,Bromley FC
+10,Sat Sep 8 2018,Barnet FC,1-0,Maidenhead United FC
+10,Sat Sep 8 2018,Barrow AFC,0-1,Dagenham & Redbridge FC
+10,Sat Sep 8 2018,Braintree Town FC,0-1,Wrexham AFC
+10,Sat Sep 8 2018,Chesterfield FC,0-0,Dover Athletic FC
+10,Sat Sep 8 2018,Eastleigh FC,0-0,AFC Fylde
+10,Sat Sep 8 2018,FC Halifax Town,1-1,Leyton Orient FC
+10,Sat Sep 8 2018,Harrogate Town AFC,3-2,Havant & Waterlooville FC
+10,Sat Sep 8 2018,Salford City FC,1-0,Maidstone United FC
+10,Sat Sep 8 2018,Solihull Moors FC,0-1,Hartlepool United FC
+10,Sat Sep 8 2018,Ebbsfleet United FC,0-1,Gateshead FC
+11,Sat Sep 15 2018,Wrexham AFC,4-1,Ebbsfleet United FC
+11,Sat Sep 15 2018,AFC Fylde,3-0,Aldershot Town FC
+11,Sat Sep 15 2018,Boreham Wood FC,1-1,Barrow AFC
+11,Sat Sep 15 2018,Bromley FC,0-2,Salford City FC
+11,Sat Sep 15 2018,Dagenham & Redbridge FC,1-1,Chesterfield FC
+11,Sat Sep 15 2018,Dover Athletic FC,0-2,Solihull Moors FC
+11,Sat Sep 15 2018,Gateshead FC,0-1,Braintree Town FC
+11,Sat Sep 15 2018,Hartlepool United FC,1-1,Eastleigh FC
+11,Sat Sep 15 2018,Havant & Waterlooville FC,1-2,Sutton United FC
+11,Sat Sep 15 2018,Leyton Orient FC,3-1,Barnet FC
+11,Sat Sep 15 2018,Maidenhead United FC,3-0,FC Halifax Town
+11,Sat Sep 15 2018,Maidstone United FC,0-2,Harrogate Town AFC
+10,Tue Sep 18 2018,Sutton United FC,0-4,Boreham Wood FC
+12,Sat Sep 22 2018,Eastleigh FC,1-0,Dagenham & Redbridge FC
+12,Sat Sep 22 2018,Aldershot Town FC,2-0,Dover Athletic FC
+12,Sat Sep 22 2018,Barnet FC,1-1,AFC Fylde
+12,Sat Sep 22 2018,Barrow AFC,2-0,Maidenhead United FC
+12,Sat Sep 22 2018,Braintree Town FC,0-1,Maidstone United FC
+12,Sat Sep 22 2018,Chesterfield FC,0-3,Gateshead FC
+12,Sat Sep 22 2018,Ebbsfleet United FC,1-1,Havant & Waterlooville FC
+12,Sat Sep 22 2018,FC Halifax Town,1-2,Hartlepool United FC
+12,Sat Sep 22 2018,Harrogate Town AFC,0-3,Leyton Orient FC
+12,Sat Sep 22 2018,Salford City FC,3-1,Boreham Wood FC
+12,Sat Sep 22 2018,Solihull Moors FC,5-0,Bromley FC
+12,Sat Sep 22 2018,Sutton United FC,3-0,Wrexham AFC
+13,Tue Sep 25 2018,Aldershot Town FC,0-1,Maidstone United FC
+13,Tue Sep 25 2018,Barnet FC,2-2,Havant & Waterlooville FC
+13,Tue Sep 25 2018,Barrow AFC,1-2,Gateshead FC
+13,Tue Sep 25 2018,Braintree Town FC,1-5,Leyton Orient FC
+13,Tue Sep 25 2018,Chesterfield FC,1-3,Maidenhead United FC
+13,Tue Sep 25 2018,Eastleigh FC,1-0,Boreham Wood FC
+13,Tue Sep 25 2018,Ebbsfleet United FC,1-2,Bromley FC
+13,Tue Sep 25 2018,FC Halifax Town,0-0,AFC Fylde
+13,Tue Sep 25 2018,Harrogate Town AFC,0-0,Wrexham AFC
+13,Tue Sep 25 2018,Salford City FC,3-0,Hartlepool United FC
+13,Tue Sep 25 2018,Solihull Moors FC,2-0,Dagenham & Redbridge FC
+13,Tue Sep 25 2018,Sutton United FC,2-2,Dover Athletic FC
+14,Sat Sep 29 2018,AFC Fylde,3-0,Braintree Town FC
+14,Sat Sep 29 2018,Boreham Wood FC,2-4,Harrogate Town AFC
+14,Sat Sep 29 2018,Bromley FC,2-2,FC Halifax Town
+14,Sat Sep 29 2018,Dagenham & Redbridge FC,1-3,Ebbsfleet United FC
+14,Sat Sep 29 2018,Dover Athletic FC,0-2,Barrow AFC
+14,Sat Sep 29 2018,Gateshead FC,0-1,Eastleigh FC
+14,Sat Sep 29 2018,Hartlepool United FC,1-1,Aldershot Town FC
+14,Sat Sep 29 2018,Havant & Waterlooville FC,0-1,Solihull Moors FC
+14,Sat Sep 29 2018,Leyton Orient FC,0-1,Sutton United FC
+14,Sat Sep 29 2018,Maidenhead United FC,0-3,Salford City FC
+14,Sat Sep 29 2018,Maidstone United FC,1-1,Chesterfield FC
+14,Sat Sep 29 2018,Wrexham AFC,1-0,Barnet FC
+15,Sat Oct 6 2018,Aldershot Town FC,3-0,FC Halifax Town
+15,Sat Oct 6 2018,Barnet FC,2-0,Solihull Moors FC
+15,Sat Oct 6 2018,Barrow AFC,2-1,Sutton United FC
+15,Sat Oct 6 2018,Braintree Town FC,1-2,Eastleigh FC
+15,Sat Oct 6 2018,Chesterfield FC,0-0,AFC Fylde
+15,Sat Oct 6 2018,Dover Athletic FC,1-4,Salford City FC
+15,Sat Oct 6 2018,Ebbsfleet United FC,0-2,Harrogate Town AFC
+15,Sat Oct 6 2018,Gateshead FC,2-0,Dagenham & Redbridge FC
+15,Sat Oct 6 2018,Hartlepool United FC,2-0,Boreham Wood FC
+15,Sat Oct 6 2018,Maidenhead United FC,0-2,Leyton Orient FC
+15,Sat Oct 6 2018,Maidstone United FC,0-1,Bromley FC
+15,Sat Oct 6 2018,Wrexham AFC,1-0,Havant & Waterlooville FC
+16,Sat Oct 13 2018,AFC Fylde,2-0,Maidstone United FC
+16,Sat Oct 13 2018,Boreham Wood FC,3-1,Maidenhead United FC
+16,Sat Oct 13 2018,Bromley FC,2-1,Barrow AFC
+16,Sat Oct 13 2018,Dagenham & Redbridge FC,1-2,Wrexham AFC
+16,Sat Oct 13 2018,Eastleigh FC,1-2,Aldershot Town FC
+16,Sat Oct 13 2018,Harrogate Town AFC,2-2,Dover Athletic FC
+16,Sat Oct 13 2018,Havant & Waterlooville FC,0-1,Gateshead FC
+16,Sat Oct 13 2018,Leyton Orient FC,0-0,Hartlepool United FC
+16,Sat Oct 13 2018,Salford City FC,2-2,Braintree Town FC
+16,Sat Oct 13 2018,Solihull Moors FC,2-1,Ebbsfleet United FC
+16,Sat Oct 13 2018,FC Halifax Town,1-1,Chesterfield FC
+17,Sat Oct 27 2018,Salford City FC,1-1,Ebbsfleet United FC
+17,Sat Oct 27 2018,Barrow AFC,0-2,Barnet FC
+17,Sat Oct 27 2018,Boreham Wood FC,2-1,Bromley FC
+17,Sat Oct 27 2018,Braintree Town FC,2-1,Dover Athletic FC
+17,Sat Oct 27 2018,Chesterfield FC,1-1,Wrexham AFC
+17,Sat Oct 27 2018,Dagenham & Redbridge FC,2-1,Harrogate Town AFC
+17,Sat Oct 27 2018,FC Halifax Town,0-1,Eastleigh FC
+17,Sat Oct 27 2018,Gateshead FC,3-0,Aldershot Town FC
+17,Sat Oct 27 2018,Hartlepool United FC,2-3,Sutton United FC
+17,Sat Oct 27 2018,Leyton Orient FC,4-0,Havant & Waterlooville FC
+17,Sat Oct 27 2018,Maidenhead United FC,0-6,AFC Fylde
+17,Sat Oct 27 2018,Maidstone United FC,1-3,Solihull Moors FC
+18,Tue Oct 30 2018,Wrexham AFC,1-0,Hartlepool United FC
+18,Tue Oct 30 2018,AFC Fylde,1-0,Gateshead FC
+18,Tue Oct 30 2018,Aldershot Town FC,1-1,Boreham Wood FC
+18,Tue Oct 30 2018,Barnet FC,1-3,Salford City FC
+18,Tue Oct 30 2018,Bromley FC,2-4,Braintree Town FC
+18,Tue Oct 30 2018,Dover Athletic FC,0-2,Dagenham & Redbridge FC
+18,Tue Oct 30 2018,Eastleigh FC,1-1,Leyton Orient FC
+18,Tue Oct 30 2018,Ebbsfleet United FC,1-1,Maidstone United FC
+18,Tue Oct 30 2018,Harrogate Town AFC,4-2,Barrow AFC
+18,Tue Oct 30 2018,Havant & Waterlooville FC,7-0,Maidenhead United FC
+18,Tue Oct 30 2018,Solihull Moors FC,0-0,FC Halifax Town
+18,Tue Oct 30 2018,Sutton United FC,1-1,Chesterfield FC
+19,Sat Nov 3 2018,Sutton United FC,1-0,Dagenham & Redbridge FC
+19,Sat Nov 3 2018,AFC Fylde,1-3,Leyton Orient FC
+19,Sat Nov 3 2018,Aldershot Town FC,1-0,Braintree Town FC
+19,Sat Nov 3 2018,Barnet FC,0-2,Maidstone United FC
+19,Sat Nov 3 2018,Bromley FC,4-0,Hartlepool United FC
+19,Sat Nov 3 2018,Dover Athletic FC,2-0,Maidenhead United FC
+19,Sat Nov 3 2018,Eastleigh FC,1-1,Salford City FC
+19,Sat Nov 3 2018,Ebbsfleet United FC,1-0,Barrow AFC
+19,Sat Nov 3 2018,Harrogate Town AFC,1-1,Chesterfield FC
+19,Sat Nov 3 2018,Havant & Waterlooville FC,2-1,FC Halifax Town
+19,Sat Nov 3 2018,Wrexham AFC,3-1,Gateshead FC
+19,Sat Nov 3 2018,Solihull Moors FC,0-0,Boreham Wood FC
+20,Sat Nov 17 2018,Dagenham & Redbridge FC,2-1,AFC Fylde
+20,Sat Nov 17 2018,Braintree Town FC,0-3,Solihull Moors FC
+20,Sat Nov 17 2018,Barrow AFC,0-3,Eastleigh FC
+20,Sat Nov 17 2018,Boreham Wood FC,0-0,Ebbsfleet United FC
+20,Sat Nov 17 2018,Chesterfield FC,0-0,Havant & Waterlooville FC
+20,Sat Nov 17 2018,FC Halifax Town,1-0,Dover Athletic FC
+20,Sat Nov 17 2018,Maidstone United FC,1-1,Wrexham AFC
+20,Sat Nov 17 2018,Gateshead FC,0-0,Sutton United FC
+20,Sat Nov 17 2018,Leyton Orient FC,3-1,Bromley FC
+20,Sat Nov 17 2018,Salford City FC,4-0,Aldershot Town FC
+20,Sun Nov 18 2018,Hartlepool United FC,1-3,Barnet FC
+21,Sat Nov 24 2018,Bromley FC,0-2,Dagenham & Redbridge FC
+21,Sat Nov 24 2018,Wrexham AFC,0-2,Leyton Orient FC
+21,Sat Nov 24 2018,AFC Fylde,2-1,Boreham Wood FC
+21,Sat Nov 24 2018,Aldershot Town FC,0-2,Barrow AFC
+21,Sat Nov 24 2018,Solihull Moors FC,0-0,Salford City FC
+21,Sat Nov 24 2018,Harrogate Town AFC,3-1,Braintree Town FC
+21,Sat Nov 24 2018,Dover Athletic FC,2-1,Hartlepool United FC
+21,Sat Nov 24 2018,Eastleigh FC,1-1,Chesterfield FC
+21,Sat Nov 24 2018,Ebbsfleet United FC,4-0,FC Halifax Town
+21,Sat Nov 24 2018,Barnet FC,1-2,Gateshead FC
+21,Sat Nov 24 2018,Havant & Waterlooville FC,5-2,Maidstone United FC
+21,Sat Nov 24 2018,Sutton United FC,0-1,Maidenhead United FC
+22,Tue Nov 27 2018,Maidenhead United FC,1-1,Ebbsfleet United FC
+22,Tue Nov 27 2018,Salford City FC,3-2,Harrogate Town AFC
+22,Tue Nov 27 2018,Barrow AFC,0-0,Wrexham AFC
+22,Tue Nov 27 2018,Boreham Wood FC,0-1,Dover Athletic FC
+22,Tue Nov 27 2018,Braintree Town FC,2-2,Sutton United FC
+22,Tue Nov 27 2018,Chesterfield FC,1-1,Bromley FC
+22,Tue Nov 27 2018,Dagenham & Redbridge FC,3-1,Havant & Waterlooville FC
+22,Tue Nov 27 2018,Hartlepool United FC,1-2,AFC Fylde
+22,Tue Nov 27 2018,Leyton Orient FC,0-0,Aldershot Town FC
+22,Tue Nov 27 2018,Maidstone United FC,1-3,Eastleigh FC
+20,Sat Dec 1 2018,Maidenhead United FC,1-2,Harrogate Town AFC
+23,Sat Dec 1 2018,Leyton Orient FC,2-0,Gateshead FC
+23,Sat Dec 1 2018,Salford City FC,3-0,Havant & Waterlooville FC
+23,Sat Dec 1 2018,Eastleigh FC,2-2,Dover Athletic FC
+23,Sat Dec 1 2018,AFC Fylde,2-2,Sutton United FC
+23,Sat Dec 1 2018,Hartlepool United FC,1-2,Dagenham & Redbridge FC
+23,Sat Dec 1 2018,Braintree Town FC,0-2,Barrow AFC
+23,Sat Dec 1 2018,Aldershot Town FC,0-2,Ebbsfleet United FC
+23,Tue Dec 4 2018,Solihull Moors FC,2-0,Harrogate Town AFC
+24,Sat Dec 8 2018,Gateshead FC,2-0,Bromley FC
+24,Sat Dec 8 2018,Sutton United FC,2-2,Solihull Moors FC
+24,Sat Dec 8 2018,Maidenhead United FC,0-1,Hartlepool United FC
+24,Sat Dec 8 2018,Havant & Waterlooville FC,2-1,Braintree Town FC
+24,Sat Dec 8 2018,Harrogate Town AFC,4-1,Aldershot Town FC
+24,Sat Dec 8 2018,Wrexham AFC,2-0,Eastleigh FC
+24,Sat Dec 8 2018,Ebbsfleet United FC,1-0,Barnet FC
+24,Sat Dec 8 2018,Boreham Wood FC,1-0,Leyton Orient FC
+24,Sat Dec 8 2018,Barrow AFC,1-0,Maidstone United FC
+24,Sat Dec 8 2018,Chesterfield FC,2-0,Salford City FC
+24,Sat Dec 8 2018,Dagenham & Redbridge FC,1-1,FC Halifax Town
+24,Sat Dec 8 2018,Dover Athletic FC,2-1,AFC Fylde
+23,Tue Dec 18 2018,FC Halifax Town,1-1,Boreham Wood FC
+25,Sat Dec 22 2018,Hartlepool United FC,1-1,Havant & Waterlooville FC
+25,Sat Dec 22 2018,Salford City FC,1-2,Dagenham & Redbridge FC
+25,Sat Dec 22 2018,Eastleigh FC,2-1,Harrogate Town AFC
+25,Sat Dec 22 2018,Maidstone United FC,2-3,Gateshead FC
+25,Sat Dec 22 2018,Leyton Orient FC,3-1,Chesterfield FC
+25,Sat Dec 22 2018,Solihull Moors FC,0-1,Barrow AFC
+25,Sat Dec 22 2018,Barnet FC,2-0,Dover Athletic FC
+25,Sat Dec 22 2018,AFC Fylde,2-0,Ebbsfleet United FC
+25,Sat Dec 22 2018,Aldershot Town FC,0-0,Wrexham AFC
+25,Sat Dec 22 2018,Braintree Town FC,1-1,Boreham Wood FC
+25,Sat Dec 22 2018,Bromley FC,1-0,Maidenhead United FC
+25,Sat Dec 22 2018,FC Halifax Town,0-1,Sutton United FC
+26,Wed Dec 26 2018,Dover Athletic FC,3-1,Maidstone United FC
+26,Wed Dec 26 2018,Gateshead FC,2-1,Hartlepool United FC
+26,Wed Dec 26 2018,Harrogate Town AFC,1-2,FC Halifax Town
+26,Wed Dec 26 2018,Havant & Waterlooville FC,2-2,Eastleigh FC
+26,Wed Dec 26 2018,Sutton United FC,1-0,Bromley FC
+26,Wed Dec 26 2018,Wrexham AFC,5-1,Salford City FC
+26,Wed Dec 26 2018,Maidenhead United FC,4-3,Aldershot Town FC
+26,Wed Dec 26 2018,Boreham Wood FC,1-0,Barnet FC
+26,Wed Dec 26 2018,Dagenham & Redbridge FC,2-1,Leyton Orient FC
+26,Wed Dec 26 2018,Barrow AFC,1-1,AFC Fylde
+26,Wed Dec 26 2018,Chesterfield FC,0-4,Solihull Moors FC
+26,Wed Dec 26 2018,Ebbsfleet United FC,4-2,Braintree Town FC
+27,Sat Dec 29 2018,Barrow AFC,3-2,Salford City FC
+27,Sat Dec 29 2018,Gateshead FC,1-1,FC Halifax Town
+27,Sat Dec 29 2018,Wrexham AFC,1-0,Solihull Moors FC
+27,Sat Dec 29 2018,Sutton United FC,2-1,Aldershot Town FC
+27,Sat Dec 29 2018,Maidenhead United FC,0-1,Braintree Town FC
+27,Sat Dec 29 2018,Havant & Waterlooville FC,0-3,Bromley FC
+27,Sat Dec 29 2018,Harrogate Town AFC,1-2,AFC Fylde
+27,Sat Dec 29 2018,Boreham Wood FC,0-1,Maidstone United FC
+27,Sat Dec 29 2018,Chesterfield FC,1-1,Hartlepool United FC
+27,Sat Dec 29 2018,Dagenham & Redbridge FC,0-1,Barnet FC
+27,Sat Dec 29 2018,Dover Athletic FC,0-0,Leyton Orient FC
+27,Sat Dec 29 2018,Ebbsfleet United FC,3-0,Eastleigh FC
+28,Tue Jan 1 2019,FC Halifax Town,1-1,Harrogate Town AFC
+28,Tue Jan 1 2019,Hartlepool United FC,2-1,Gateshead FC
+28,Tue Jan 1 2019,Bromley FC,2-1,Sutton United FC
+28,Tue Jan 1 2019,Solihull Moors FC,2-2,Chesterfield FC
+28,Tue Jan 1 2019,Salford City FC,2-0,Wrexham AFC
+28,Tue Jan 1 2019,Maidstone United FC,0-1,Dover Athletic FC
+28,Tue Jan 1 2019,AFC Fylde,0-0,Barrow AFC
+28,Tue Jan 1 2019,Aldershot Town FC,0-0,Maidenhead United FC
+28,Tue Jan 1 2019,Barnet FC,1-1,Boreham Wood FC
+28,Tue Jan 1 2019,Braintree Town FC,0-4,Ebbsfleet United FC
+28,Tue Jan 1 2019,Eastleigh FC,2-1,Havant & Waterlooville FC
+28,Tue Jan 1 2019,Leyton Orient FC,1-0,Dagenham & Redbridge FC
+29,Sat Jan 5 2019,Solihull Moors FC,4-1,Eastleigh FC
+29,Sat Jan 5 2019,Sutton United FC,2-1,Harrogate Town AFC
+29,Sat Jan 5 2019,Leyton Orient FC,0-3,Salford City FC
+29,Sat Jan 5 2019,Wrexham AFC,0-1,Dover Athletic FC
+29,Sat Jan 5 2019,Havant & Waterlooville FC,2-0,Barrow AFC
+29,Sat Jan 5 2019,Hartlepool United FC,1-2,Maidstone United FC
+29,Sat Jan 5 2019,Chesterfield FC,3-3,Ebbsfleet United FC
+29,Sat Jan 5 2019,Gateshead FC,0-1,Maidenhead United FC
+29,Sat Jan 5 2019,Dagenham & Redbridge FC,4-4,Boreham Wood FC
+29,Sat Jan 5 2019,FC Halifax Town,0-0,Braintree Town FC
+29,Sat Jan 5 2019,Bromley FC,3-2,AFC Fylde
+22,Tue Jan 8 2019,Gateshead FC,1-2,Solihull Moors FC
+23,Tue Jan 8 2019,Bromley FC,2-0,Wrexham AFC
+23,Tue Jan 15 2019,Maidstone United FC,2-4,Maidenhead United FC
+30,Sat Jan 19 2019,AFC Fylde,2-0,Wrexham AFC
+30,Sat Jan 19 2019,Ebbsfleet United FC,2-0,Leyton Orient FC
+30,Sat Jan 19 2019,Salford City FC,1-1,Gateshead FC
+30,Sat Jan 19 2019,Maidstone United FC,0-3,Dagenham & Redbridge FC
+30,Sat Jan 19 2019,Harrogate Town AFC,3-1,Hartlepool United FC
+30,Sat Jan 19 2019,Braintree Town FC,4-0,Barnet FC
+30,Sat Jan 19 2019,Eastleigh FC,3-2,Sutton United FC
+30,Sat Jan 19 2019,Barrow AFC,0-0,FC Halifax Town
+30,Sat Jan 19 2019,Boreham Wood FC,1-3,Havant & Waterlooville FC
+30,Sat Jan 19 2019,Maidenhead United FC,1-2,Solihull Moors FC
+30,Sat Jan 19 2019,Dover Athletic FC,1-1,Bromley FC
+30,Sat Jan 19 2019,Aldershot Town FC,0-2,Chesterfield FC
+31,Sat Jan 26 2019,Solihull Moors FC,1-2,AFC Fylde
+31,Sat Jan 26 2019,Sutton United FC,1-0,Ebbsfleet United FC
+31,Sat Jan 26 2019,Wrexham AFC,1-0,Maidenhead United FC
+31,Sat Jan 26 2019,Leyton Orient FC,3-0,Maidstone United FC
+31,Sat Jan 26 2019,Bromley FC,0-1,Eastleigh FC
+31,Sat Jan 26 2019,Chesterfield FC,0-0,Barrow AFC
+31,Sat Jan 26 2019,Havant & Waterlooville FC,0-0,Dover Athletic FC
+31,Sat Jan 26 2019,FC Halifax Town,0-0,Salford City FC
+31,Sat Jan 26 2019,Gateshead FC,1-1,Boreham Wood FC
+31,Sat Jan 26 2019,Hartlepool United FC,2-1,Braintree Town FC
+31,Sat Jan 26 2019,Dagenham & Redbridge FC,1-1,Aldershot Town FC
+32,Sat Feb 2 2019,Dover Athletic FC,1-2,Gateshead FC
+33,Sat Feb 9 2019,Gateshead FC,0-0,Havant & Waterlooville FC
+33,Sat Feb 9 2019,Hartlepool United FC,1-1,Leyton Orient FC
+33,Sat Feb 9 2019,Ebbsfleet United FC,0-1,Solihull Moors FC
+33,Sat Feb 9 2019,Dover Athletic FC,2-3,Harrogate Town AFC
+33,Sat Feb 9 2019,Chesterfield FC,1-0,FC Halifax Town
+33,Sat Feb 9 2019,Braintree Town FC,1-0,Salford City FC
+33,Sat Feb 9 2019,Wrexham AFC,1-0,Dagenham & Redbridge FC
+33,Sat Feb 9 2019,Barnet FC,0-1,Sutton United FC
+33,Sat Feb 9 2019,Aldershot Town FC,1-3,Eastleigh FC
+33,Sat Feb 9 2019,Maidenhead United FC,1-0,Boreham Wood FC
+33,Sat Feb 9 2019,Maidstone United FC,1-1,AFC Fylde
+33,Sat Feb 9 2019,Barrow AFC,1-1,Bromley FC
+32,Tue Feb 12 2019,Aldershot Town FC,0-3,Solihull Moors FC
+34,Sat Feb 16 2019,Boreham Wood FC,0-4,Hartlepool United FC
+34,Sat Feb 16 2019,Bromley FC,2-0,Maidstone United FC
+34,Sat Feb 16 2019,Sutton United FC,0-1,Barrow AFC
+34,Sat Feb 16 2019,Dagenham & Redbridge FC,0-2,Gateshead FC
+34,Sat Feb 16 2019,Eastleigh FC,2-1,Braintree Town FC
+34,Sat Feb 16 2019,FC Halifax Town,0-0,Aldershot Town FC
+34,Sat Feb 16 2019,Solihull Moors FC,2-2,Barnet FC
+34,Sat Feb 16 2019,Salford City FC,1-3,Dover Athletic FC
+34,Sat Feb 16 2019,Harrogate Town AFC,1-2,Ebbsfleet United FC
+34,Sat Feb 16 2019,Leyton Orient FC,0-1,Maidenhead United FC
+34,Sat Feb 16 2019,Havant & Waterlooville FC,2-3,Wrexham AFC
+34,Sat Feb 16 2019,AFC Fylde,0-1,Chesterfield FC
+16,Tue Feb 19 2019,Sutton United FC,0-0,Barnet FC
+32,Tue Feb 19 2019,Maidstone United FC,0-1,FC Halifax Town
+32,Tue Feb 19 2019,AFC Fylde,6-2,Havant & Waterlooville FC
+32,Tue Feb 19 2019,Ebbsfleet United FC,0-0,Hartlepool United FC
+32,Tue Feb 19 2019,Boreham Wood FC,0-2,Wrexham AFC
+35,Sat Feb 23 2019,Dagenham & Redbridge FC,1-0,Sutton United FC
+35,Sat Feb 23 2019,FC Halifax Town,0-0,Havant & Waterlooville FC
+35,Sat Feb 23 2019,Chesterfield FC,0-1,Harrogate Town AFC
+35,Sat Feb 23 2019,Braintree Town FC,0-1,Aldershot Town FC
+35,Sat Feb 23 2019,Gateshead FC,1-1,Wrexham AFC
+35,Sat Feb 23 2019,Hartlepool United FC,1-2,Bromley FC
+35,Sat Feb 23 2019,Maidenhead United FC,1-0,Dover Athletic FC
+35,Sat Feb 23 2019,Salford City FC,0-2,Eastleigh FC
+35,Sat Feb 23 2019,Barrow AFC,0-0,Ebbsfleet United FC
+23,Tue Feb 26 2019,Barnet FC,0-2,Chesterfield FC
+36,Sat Mar 2 2019,Wrexham AFC,1-0,Chesterfield FC
+36,Sat Mar 2 2019,Bromley FC,0-2,Boreham Wood FC
+36,Sat Mar 2 2019,Eastleigh FC,0-1,FC Halifax Town
+36,Sat Mar 2 2019,Barnet FC,3-1,Barrow AFC
+36,Sat Mar 2 2019,Aldershot Town FC,0-2,Gateshead FC
+36,Sat Mar 2 2019,Dover Athletic FC,3-0,Braintree Town FC
+36,Sat Mar 2 2019,Sutton United FC,2-2,Hartlepool United FC
+36,Sat Mar 2 2019,Solihull Moors FC,5-0,Maidstone United FC
+36,Sat Mar 2 2019,Ebbsfleet United FC,0-1,Salford City FC
+36,Sat Mar 2 2019,Havant & Waterlooville FC,1-2,Leyton Orient FC
+36,Sat Mar 2 2019,Harrogate Town AFC,1-1,Dagenham & Redbridge FC
+36,Sat Mar 2 2019,AFC Fylde,2-1,Maidenhead United FC
+22,Tue Mar 5 2019,FC Halifax Town,3-0,Barnet FC
+32,Tue Mar 5 2019,Maidenhead United FC,1-1,Dagenham & Redbridge FC
+32,Tue Mar 5 2019,Braintree Town FC,1-3,Chesterfield FC
+32,Tue Mar 5 2019,Barrow AFC,2-3,Leyton Orient FC
+32,Tue Mar 5 2019,Salford City FC,2-0,Sutton United FC
+32,Tue Mar 5 2019,Harrogate Town AFC,1-0,Bromley FC
+37,Sat Mar 9 2019,Maidstone United FC,2-0,Havant & Waterlooville FC
+37,Sat Mar 9 2019,Salford City FC,2-0,Solihull Moors FC
+37,Sat Mar 9 2019,Dagenham & Redbridge FC,3-0,Bromley FC
+37,Sat Mar 9 2019,Maidenhead United FC,1-0,Sutton United FC
+37,Sat Mar 9 2019,Hartlepool United FC,3-2,Dover Athletic FC
+37,Sat Mar 9 2019,Gateshead FC,2-1,Barnet FC
+37,Sat Mar 9 2019,Leyton Orient FC,1-0,Wrexham AFC
+37,Sat Mar 9 2019,Chesterfield FC,2-3,Eastleigh FC
+37,Sat Mar 9 2019,Boreham Wood FC,1-1,AFC Fylde
+37,Sat Mar 9 2019,Braintree Town FC,0-4,Harrogate Town AFC
+37,Sat Mar 9 2019,Barrow AFC,2-1,Aldershot Town FC
+38,Tue Mar 12 2019,Ebbsfleet United FC,3-0,Maidenhead United FC
+38,Tue Mar 12 2019,Bromley FC,3-3,Chesterfield FC
+38,Tue Mar 12 2019,Havant & Waterlooville FC,3-0,Dagenham & Redbridge FC
+38,Tue Mar 12 2019,Solihull Moors FC,1-0,Gateshead FC
+38,Tue Mar 12 2019,Sutton United FC,0-3,Braintree Town FC
+38,Tue Mar 12 2019,Wrexham AFC,1-3,Barrow AFC
+38,Tue Mar 12 2019,Dover Athletic FC,1-1,Boreham Wood FC
+38,Tue Mar 12 2019,AFC Fylde,4-2,Hartlepool United FC
+38,Tue Mar 12 2019,Aldershot Town FC,1-2,Leyton Orient FC
+38,Tue Mar 12 2019,Barnet FC,1-1,FC Halifax Town
+38,Tue Mar 12 2019,Eastleigh FC,2-0,Maidstone United FC
+39,Sat Mar 16 2019,Solihull Moors FC,2-1,Braintree Town FC
+39,Sat Mar 16 2019,Harrogate Town AFC,1-0,Maidenhead United FC
+39,Sat Mar 16 2019,Wrexham AFC,1-0,Maidstone United FC
+39,Sat Mar 16 2019,Sutton United FC,4-2,Gateshead FC
+39,Sat Mar 16 2019,Havant & Waterlooville FC,1-2,Chesterfield FC
+39,Sat Mar 16 2019,Ebbsfleet United FC,3-2,Boreham Wood FC
+39,Sat Mar 16 2019,Barnet FC,0-0,Hartlepool United FC
+39,Sat Mar 16 2019,Dover Athletic FC,2-1,FC Halifax Town
+39,Sat Mar 16 2019,Aldershot Town FC,0-1,Salford City FC
+39,Sat Mar 16 2019,Eastleigh FC,0-1,Barrow AFC
+31,Tue Mar 19 2019,Barnet FC,1-0,Harrogate Town AFC
+40,Sat Mar 23 2019,Braintree Town FC,2-4,Bromley FC
+40,Sat Mar 23 2019,Boreham Wood FC,0-2,Aldershot Town FC
+40,Sat Mar 23 2019,Salford City FC,0-0,Barnet FC
+40,Sat Mar 23 2019,Barrow AFC,2-2,Harrogate Town AFC
+40,Sat Mar 23 2019,Maidstone United FC,0-2,Ebbsfleet United FC
+40,Sat Mar 23 2019,Chesterfield FC,3-0,Sutton United FC
+40,Sat Mar 23 2019,Hartlepool United FC,1-0,Wrexham AFC
+40,Sat Mar 23 2019,FC Halifax Town,2-0,Solihull Moors FC
+29,Tue Mar 26 2019,Barnet FC,2-0,Aldershot Town FC
+35,Tue Mar 26 2019,Boreham Wood FC,2-2,Solihull Moors FC
+35,Tue Mar 26 2019,Leyton Orient FC,2-0,AFC Fylde
+37,Tue Mar 26 2019,FC Halifax Town,0-0,Ebbsfleet United FC
+40,Tue Mar 26 2019,Maidenhead United FC,2-1,Havant & Waterlooville FC
+40,Tue Mar 26 2019,Dagenham & Redbridge FC,1-3,Dover Athletic FC
+38,Wed Mar 27 2019,Harrogate Town AFC,0-1,Salford City FC
+41,Sat Mar 30 2019,Salford City FC,2-1,Bromley FC
+41,Sat Mar 30 2019,Harrogate Town AFC,2-2,Maidstone United FC
+41,Sat Mar 30 2019,Sutton United FC,2-2,Havant & Waterlooville FC
+41,Sat Mar 30 2019,Solihull Moors FC,2-2,Dover Athletic FC
+41,Sat Mar 30 2019,FC Halifax Town,0-1,Maidenhead United FC
+41,Sat Mar 30 2019,Ebbsfleet United FC,4-2,Wrexham AFC
+41,Sat Mar 30 2019,Aldershot Town FC,0-0,AFC Fylde
+41,Sat Mar 30 2019,Eastleigh FC,3-2,Hartlepool United FC
+41,Sat Mar 30 2019,Barrow AFC,1-2,Boreham Wood FC
+41,Sat Mar 30 2019,Braintree Town FC,2-0,Gateshead FC
+41,Sat Mar 30 2019,Chesterfield FC,2-0,Dagenham & Redbridge FC
+41,Sat Mar 30 2019,Barnet FC,0-0,Leyton Orient FC
+32,Tue Apr 2 2019,Eastleigh FC,0-3,Barnet FC
+39,Tue Apr 2 2019,Bromley FC,2-1,Leyton Orient FC
+39,Tue Apr 2 2019,AFC Fylde,1-1,Dagenham & Redbridge FC
+42,Sat Apr 6 2019,Bromley FC,2-2,Aldershot Town FC
+42,Sat Apr 6 2019,Wrexham AFC,3-1,Braintree Town FC
+42,Sat Apr 6 2019,Maidstone United FC,0-2,Salford City FC
+42,Sat Apr 6 2019,AFC Fylde,4-2,Eastleigh FC
+42,Sat Apr 6 2019,Boreham Wood FC,1-2,Sutton United FC
+42,Sat Apr 6 2019,Maidenhead United FC,0-1,Barnet FC
+42,Sat Apr 6 2019,Dagenham & Redbridge FC,0-0,Barrow AFC
+42,Sat Apr 6 2019,Leyton Orient FC,2-2,FC Halifax Town
+42,Sat Apr 6 2019,Gateshead FC,1-1,Ebbsfleet United FC
+42,Sat Apr 6 2019,Hartlepool United FC,0-1,Solihull Moors FC
+42,Sat Apr 6 2019,Havant & Waterlooville FC,1-2,Harrogate Town AFC
+42,Sat Apr 6 2019,Dover Athletic FC,0-0,Chesterfield FC
+35,Tue Apr 9 2019,Maidstone United FC,2-1,Barnet FC
+40,Tue Apr 9 2019,Gateshead FC,0-1,AFC Fylde
+40,Tue Apr 9 2019,Leyton Orient FC,3-2,Eastleigh FC
+43,Sat Apr 13 2019,Braintree Town FC,2-1,AFC Fylde
+43,Sat Apr 13 2019,Aldershot Town FC,1-1,Hartlepool United FC
+43,Sat Apr 13 2019,Barnet FC,1-2,Wrexham AFC
+43,Sat Apr 13 2019,Barrow AFC,2-3,Dover Athletic FC
+43,Sat Apr 13 2019,Solihull Moors FC,3-2,Havant & Waterlooville FC
+43,Sat Apr 13 2019,Chesterfield FC,4-1,Maidstone United FC
+43,Sat Apr 13 2019,Eastleigh FC,1-0,Gateshead FC
+43,Sat Apr 13 2019,Ebbsfleet United FC,0-1,Dagenham & Redbridge FC
+43,Sat Apr 13 2019,FC Halifax Town,2-2,Bromley FC
+43,Sat Apr 13 2019,Harrogate Town AFC,0-1,Boreham Wood FC
+43,Sat Apr 13 2019,Sutton United FC,1-2,Leyton Orient FC
+43,Sat Apr 13 2019,Salford City FC,3-0,Maidenhead United FC
+44,Fri Apr 19 2019,AFC Fylde,1-0,Barnet FC
+44,Fri Apr 19 2019,Boreham Wood FC,2-3,Salford City FC
+44,Fri Apr 19 2019,Bromley FC,0-2,Solihull Moors FC
+44,Fri Apr 19 2019,Dagenham & Redbridge FC,2-0,Eastleigh FC
+44,Fri Apr 19 2019,Wrexham AFC,1-0,Sutton United FC
+44,Fri Apr 19 2019,Gateshead FC,1-0,Chesterfield FC
+44,Fri Apr 19 2019,Hartlepool United FC,2-1,FC Halifax Town
+44,Fri Apr 19 2019,Havant & Waterlooville FC,3-3,Ebbsfleet United FC
+44,Fri Apr 19 2019,Leyton Orient FC,2-0,Harrogate Town AFC
+44,Fri Apr 19 2019,Maidenhead United FC,1-1,Barrow AFC
+44,Fri Apr 19 2019,Maidstone United FC,0-2,Braintree Town FC
+44,Fri Apr 19 2019,Dover Athletic FC,1-0,Aldershot Town FC
+45,Mon Apr 22 2019,Aldershot Town FC,2-0,Havant & Waterlooville FC
+45,Mon Apr 22 2019,Barnet FC,1-1,Bromley FC
+45,Mon Apr 22 2019,Barrow AFC,1-0,Hartlepool United FC
+45,Mon Apr 22 2019,Braintree Town FC,2-0,Dagenham & Redbridge FC
+45,Mon Apr 22 2019,Chesterfield FC,3-2,Boreham Wood FC
+45,Mon Apr 22 2019,Eastleigh FC,2-0,Maidenhead United FC
+45,Mon Apr 22 2019,Ebbsfleet United FC,0-1,Dover Athletic FC
+45,Mon Apr 22 2019,FC Halifax Town,2-1,Wrexham AFC
+45,Mon Apr 22 2019,Harrogate Town AFC,2-0,Gateshead FC
+45,Mon Apr 22 2019,Salford City FC,0-1,AFC Fylde
+45,Mon Apr 22 2019,Solihull Moors FC,0-0,Leyton Orient FC
+45,Mon Apr 22 2019,Sutton United FC,2-2,Maidstone United FC
+46,Sat Apr 27 2019,AFC Fylde,0-2,FC Halifax Town
+46,Sat Apr 27 2019,Boreham Wood FC,3-3,Eastleigh FC
+46,Sat Apr 27 2019,Bromley FC,5-1,Ebbsfleet United FC
+46,Sat Apr 27 2019,Dagenham & Redbridge FC,1-1,Solihull Moors FC
+46,Sat Apr 27 2019,Dover Athletic FC,3-0,Sutton United FC
+46,Sat Apr 27 2019,Gateshead FC,0-2,Barrow AFC
+46,Sat Apr 27 2019,Hartlepool United FC,3-2,Salford City FC
+46,Sat Apr 27 2019,Havant & Waterlooville FC,0-2,Barnet FC
+46,Sat Apr 27 2019,Leyton Orient FC,0-0,Braintree Town FC
+46,Sat Apr 27 2019,Maidenhead United FC,2-0,Chesterfield FC
+46,Sat Apr 27 2019,Maidstone United FC,0-2,Aldershot Town FC
+46,Sat Apr 27 2019,Wrexham AFC,2-1,Harrogate Town AFC

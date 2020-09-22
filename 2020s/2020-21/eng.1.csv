@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Sep 12 2020,Burnley FC,,Manchester United FC
+1,Sat Sep 12 2020,Manchester City FC,,Aston Villa FC
+1,Sat Sep 12 2020,Fulham FC,0-3,Arsenal FC
+1,Sat Sep 12 2020,Crystal Palace FC,1-0,Southampton FC
+1,Sat Sep 12 2020,Liverpool FC,4-3,Leeds United FC
+1,Sat Sep 12 2020,West Ham United FC,0-2,Newcastle United FC
+1,Sun Sep 13 2020,West Bromwich Albion FC,0-3,Leicester City FC
+1,Sun Sep 13 2020,Tottenham Hotspur FC,0-1,Everton FC
+1,Mon Sep 14 2020,Sheffield United FC,0-2,Wolverhampton Wanderers FC
+1,Mon Sep 14 2020,Brighton & Hove Albion FC,1-3,Chelsea FC
+2,Sat Sep 19 2020,Everton FC,,West Bromwich Albion FC
+2,Sat Sep 19 2020,Leeds United FC,,Fulham FC
+2,Sat Sep 19 2020,Manchester United FC,,Crystal Palace FC
+2,Sat Sep 19 2020,Arsenal FC,,West Ham United FC
+2,Sun Sep 20 2020,Southampton FC,,Tottenham Hotspur FC
+2,Sun Sep 20 2020,Newcastle United FC,,Brighton & Hove Albion FC
+2,Sun Sep 20 2020,Chelsea FC,,Liverpool FC
+2,Sun Sep 20 2020,Leicester City FC,,Burnley FC
+2,Mon Sep 21 2020,Aston Villa FC,,Sheffield United FC
+2,Mon Sep 21 2020,Wolverhampton Wanderers FC,,Manchester City FC
+3,Sat Sep 26 2020,Brighton & Hove Albion FC,,Manchester United FC
+3,Sat Sep 26 2020,Crystal Palace FC,,Everton FC
+3,Sat Sep 26 2020,West Bromwich Albion FC,,Chelsea FC
+3,Sat Sep 26 2020,Burnley FC,,Southampton FC
+3,Sun Sep 27 2020,Sheffield United FC,,Leeds United FC
+3,Sun Sep 27 2020,Tottenham Hotspur FC,,Newcastle United FC
+3,Sun Sep 27 2020,Manchester City FC,,Leicester City FC
+3,Sun Sep 27 2020,West Ham United FC,,Wolverhampton Wanderers FC
+3,Mon Sep 28 2020,Fulham FC,,Aston Villa FC
+3,Mon Sep 28 2020,Liverpool FC,,Arsenal FC
+4,Sat Oct 3 2020,Arsenal FC,,Sheffield United FC
+4,Sat Oct 3 2020,Aston Villa FC,,Liverpool FC
+4,Sat Oct 3 2020,Chelsea FC,,Crystal Palace FC
+4,Sat Oct 3 2020,Everton FC,,Brighton & Hove Albion FC
+4,Sat Oct 3 2020,Leeds United FC,,Manchester City FC
+4,Sat Oct 3 2020,Leicester City FC,,West Ham United FC
+4,Sat Oct 3 2020,Manchester United FC,,Tottenham Hotspur FC
+4,Sat Oct 3 2020,Newcastle United FC,,Burnley FC
+4,Sat Oct 3 2020,Southampton FC,,West Bromwich Albion FC
+4,Sat Oct 3 2020,Wolverhampton Wanderers FC,,Fulham FC
+5,Sat Oct 17 2020,Chelsea FC,,Southampton FC
+5,Sat Oct 17 2020,Crystal Palace FC,,Brighton & Hove Albion FC
+5,Sat Oct 17 2020,Everton FC,,Liverpool FC
+5,Sat Oct 17 2020,Leeds United FC,,Wolverhampton Wanderers FC
+5,Sat Oct 17 2020,Leicester City FC,,Aston Villa FC
+5,Sat Oct 17 2020,Manchester City FC,,Arsenal FC
+5,Sat Oct 17 2020,Newcastle United FC,,Manchester United FC
+5,Sat Oct 17 2020,Sheffield United FC,,Fulham FC
+5,Sat Oct 17 2020,Tottenham Hotspur FC,,West Ham United FC
+5,Sat Oct 17 2020,West Bromwich Albion FC,,Burnley FC
+6,Sat Oct 24 2020,Arsenal FC,,Leicester City FC
+6,Sat Oct 24 2020,Aston Villa FC,,Leeds United FC
+6,Sat Oct 24 2020,Brighton & Hove Albion FC,,West Bromwich Albion FC
+6,Sat Oct 24 2020,Burnley FC,,Tottenham Hotspur FC
+6,Sat Oct 24 2020,Fulham FC,,Crystal Palace FC
+6,Sat Oct 24 2020,Liverpool FC,,Sheffield United FC
+6,Sat Oct 24 2020,Manchester United FC,,Chelsea FC
+6,Sat Oct 24 2020,Southampton FC,,Everton FC
+6,Sat Oct 24 2020,West Ham United FC,,Manchester City FC
+6,Sat Oct 24 2020,Wolverhampton Wanderers FC,,Newcastle United FC
+7,Sat Oct 31 2020,Aston Villa FC,,Southampton FC
+7,Sat Oct 31 2020,Burnley FC,,Chelsea FC
+7,Sat Oct 31 2020,Fulham FC,,West Bromwich Albion FC
+7,Sat Oct 31 2020,Leeds United FC,,Leicester City FC
+7,Sat Oct 31 2020,Liverpool FC,,West Ham United FC
+7,Sat Oct 31 2020,Manchester United FC,,Arsenal FC
+7,Sat Oct 31 2020,Newcastle United FC,,Everton FC
+7,Sat Oct 31 2020,Sheffield United FC,,Manchester City FC
+7,Sat Oct 31 2020,Tottenham Hotspur FC,,Brighton & Hove Albion FC
+7,Sat Oct 31 2020,Wolverhampton Wanderers FC,,Crystal Palace FC
+8,Sat Nov 7 2020,Arsenal FC,,Aston Villa FC
+8,Sat Nov 7 2020,Brighton & Hove Albion FC,,Burnley FC
+8,Sat Nov 7 2020,Chelsea FC,,Sheffield United FC
+8,Sat Nov 7 2020,Crystal Palace FC,,Leeds United FC
+8,Sat Nov 7 2020,Everton FC,,Manchester United FC
+8,Sat Nov 7 2020,Leicester City FC,,Wolverhampton Wanderers FC
+8,Sat Nov 7 2020,Manchester City FC,,Liverpool FC
+8,Sat Nov 7 2020,Southampton FC,,Newcastle United FC
+8,Sat Nov 7 2020,West Bromwich Albion FC,,Tottenham Hotspur FC
+8,Sat Nov 7 2020,West Ham United FC,,Fulham FC
+9,Sat Nov 21 2020,Aston Villa FC,,Brighton & Hove Albion FC
+9,Sat Nov 21 2020,Burnley FC,,Crystal Palace FC
+9,Sat Nov 21 2020,Fulham FC,,Everton FC
+9,Sat Nov 21 2020,Leeds United FC,,Arsenal FC
+9,Sat Nov 21 2020,Liverpool FC,,Leicester City FC
+9,Sat Nov 21 2020,Manchester United FC,,West Bromwich Albion FC
+9,Sat Nov 21 2020,Newcastle United FC,,Chelsea FC
+9,Sat Nov 21 2020,Sheffield United FC,,West Ham United FC
+9,Sat Nov 21 2020,Tottenham Hotspur FC,,Manchester City FC
+9,Sat Nov 21 2020,Wolverhampton Wanderers FC,,Southampton FC
+10,Sat Nov 28 2020,Arsenal FC,,Wolverhampton Wanderers FC
+10,Sat Nov 28 2020,Brighton & Hove Albion FC,,Liverpool FC
+10,Sat Nov 28 2020,Chelsea FC,,Tottenham Hotspur FC
+10,Sat Nov 28 2020,Crystal Palace FC,,Newcastle United FC
+10,Sat Nov 28 2020,Everton FC,,Leeds United FC
+10,Sat Nov 28 2020,Leicester City FC,,Fulham FC
+10,Sat Nov 28 2020,Manchester City FC,,Burnley FC
+10,Sat Nov 28 2020,Southampton FC,,Manchester United FC
+10,Sat Nov 28 2020,West Bromwich Albion FC,,Sheffield United FC
+10,Sat Nov 28 2020,West Ham United FC,,Aston Villa FC
+11,Sat Dec 5 2020,Aston Villa FC,,Newcastle United FC
+11,Sat Dec 5 2020,Brighton & Hove Albion FC,,Southampton FC
+11,Sat Dec 5 2020,Burnley FC,,Everton FC
+11,Sat Dec 5 2020,Chelsea FC,,Leeds United FC
+11,Sat Dec 5 2020,Liverpool FC,,Wolverhampton Wanderers FC
+11,Sat Dec 5 2020,Manchester City FC,,Fulham FC
+11,Sat Dec 5 2020,Sheffield United FC,,Leicester City FC
+11,Sat Dec 5 2020,Tottenham Hotspur FC,,Arsenal FC
+11,Sat Dec 5 2020,West Bromwich Albion FC,,Crystal Palace FC
+11,Sat Dec 5 2020,West Ham United FC,,Manchester United FC
+12,Sat Dec 12 2020,Arsenal FC,,Burnley FC
+12,Sat Dec 12 2020,Crystal Palace FC,,Tottenham Hotspur FC
+12,Sat Dec 12 2020,Everton FC,,Chelsea FC
+12,Sat Dec 12 2020,Fulham FC,,Liverpool FC
+12,Sat Dec 12 2020,Leeds United FC,,West Ham United FC
+12,Sat Dec 12 2020,Leicester City FC,,Brighton & Hove Albion FC
+12,Sat Dec 12 2020,Manchester United FC,,Manchester City FC
+12,Sat Dec 12 2020,Newcastle United FC,,West Bromwich Albion FC
+12,Sat Dec 12 2020,Southampton FC,,Sheffield United FC
+12,Sat Dec 12 2020,Wolverhampton Wanderers FC,,Aston Villa FC
+13,Tue Dec 15 2020,Arsenal FC,,Southampton FC
+13,Tue Dec 15 2020,Aston Villa FC,,Burnley FC
+13,Tue Dec 15 2020,Fulham FC,,Brighton & Hove Albion FC
+13,Tue Dec 15 2020,Leeds United FC,,Newcastle United FC
+13,Tue Dec 15 2020,Leicester City FC,,Everton FC
+13,Tue Dec 15 2020,Sheffield United FC,,Manchester United FC
+13,Tue Dec 15 2020,West Ham United FC,,Crystal Palace FC
+13,Tue Dec 15 2020,Wolverhampton Wanderers FC,,Chelsea FC
+13,Wed Dec 16 2020,Liverpool FC,,Tottenham Hotspur FC
+13,Wed Dec 16 2020,Manchester City FC,,West Bromwich Albion FC
+14,Sat Dec 19 2020,Brighton & Hove Albion FC,,Sheffield United FC
+14,Sat Dec 19 2020,Burnley FC,,Wolverhampton Wanderers FC
+14,Sat Dec 19 2020,Chelsea FC,,West Ham United FC
+14,Sat Dec 19 2020,Crystal Palace FC,,Liverpool FC
+14,Sat Dec 19 2020,Everton FC,,Arsenal FC
+14,Sat Dec 19 2020,Manchester United FC,,Leeds United FC
+14,Sat Dec 19 2020,Newcastle United FC,,Fulham FC
+14,Sat Dec 19 2020,Southampton FC,,Manchester City FC
+14,Sat Dec 19 2020,Tottenham Hotspur FC,,Leicester City FC
+14,Sat Dec 19 2020,West Bromwich Albion FC,,Aston Villa FC
+15,Sat Dec 26 2020,Arsenal FC,,Chelsea FC
+15,Sat Dec 26 2020,Aston Villa FC,,Crystal Palace FC
+15,Sat Dec 26 2020,Fulham FC,,Southampton FC
+15,Sat Dec 26 2020,Leeds United FC,,Burnley FC
+15,Sat Dec 26 2020,Leicester City FC,,Manchester United FC
+15,Sat Dec 26 2020,Liverpool FC,,West Bromwich Albion FC
+15,Sat Dec 26 2020,Manchester City FC,,Newcastle United FC
+15,Sat Dec 26 2020,Sheffield United FC,,Everton FC
+15,Sat Dec 26 2020,West Ham United FC,,Brighton & Hove Albion FC
+15,Sat Dec 26 2020,Wolverhampton Wanderers FC,,Tottenham Hotspur FC
+16,Mon Dec 28 2020,Brighton & Hove Albion FC,,Arsenal FC
+16,Mon Dec 28 2020,Burnley FC,,Sheffield United FC
+16,Mon Dec 28 2020,Chelsea FC,,Aston Villa FC
+16,Mon Dec 28 2020,Crystal Palace FC,,Leicester City FC
+16,Mon Dec 28 2020,Everton FC,,Manchester City FC
+16,Mon Dec 28 2020,Manchester United FC,,Wolverhampton Wanderers FC
+16,Mon Dec 28 2020,Newcastle United FC,,Liverpool FC
+16,Mon Dec 28 2020,Southampton FC,,West Ham United FC
+16,Mon Dec 28 2020,Tottenham Hotspur FC,,Fulham FC
+16,Mon Dec 28 2020,West Bromwich Albion FC,,Leeds United FC
+17,Sat Jan 2 2021,Brighton & Hove Albion FC,,Wolverhampton Wanderers FC
+17,Sat Jan 2 2021,Burnley FC,,Fulham FC
+17,Sat Jan 2 2021,Chelsea FC,,Manchester City FC
+17,Sat Jan 2 2021,Crystal Palace FC,,Sheffield United FC
+17,Sat Jan 2 2021,Everton FC,,West Ham United FC
+17,Sat Jan 2 2021,Manchester United FC,,Aston Villa FC
+17,Sat Jan 2 2021,Newcastle United FC,,Leicester City FC
+17,Sat Jan 2 2021,Southampton FC,,Liverpool FC
+17,Sat Jan 2 2021,Tottenham Hotspur FC,,Leeds United FC
+17,Sat Jan 2 2021,West Bromwich Albion FC,,Arsenal FC
+18,Tue Jan 12 2021,Arsenal FC,,Crystal Palace FC
+18,Tue Jan 12 2021,Aston Villa FC,,Tottenham Hotspur FC
+18,Tue Jan 12 2021,Fulham FC,,Manchester United FC
+18,Tue Jan 12 2021,Leeds United FC,,Southampton FC
+18,Tue Jan 12 2021,Leicester City FC,,Chelsea FC
+18,Tue Jan 12 2021,Sheffield United FC,,Newcastle United FC
+18,Tue Jan 12 2021,West Ham United FC,,West Bromwich Albion FC
+18,Tue Jan 12 2021,Wolverhampton Wanderers FC,,Everton FC
+18,Wed Jan 13 2021,Liverpool FC,,Burnley FC
+18,Wed Jan 13 2021,Manchester City FC,,Brighton & Hove Albion FC
+19,Sat Jan 16 2021,Arsenal FC,,Newcastle United FC
+19,Sat Jan 16 2021,Aston Villa FC,,Everton FC
+19,Sat Jan 16 2021,Fulham FC,,Chelsea FC
+19,Sat Jan 16 2021,Leeds United FC,,Brighton & Hove Albion FC
+19,Sat Jan 16 2021,Leicester City FC,,Southampton FC
+19,Sat Jan 16 2021,Liverpool FC,,Manchester United FC
+19,Sat Jan 16 2021,Manchester City FC,,Crystal Palace FC
+19,Sat Jan 16 2021,Sheffield United FC,,Tottenham Hotspur FC
+19,Sat Jan 16 2021,West Ham United FC,,Burnley FC
+19,Sat Jan 16 2021,Wolverhampton Wanderers FC,,West Bromwich Albion FC
+20,Tue Jan 26 2021,Brighton & Hove Albion FC,,Fulham FC
+20,Tue Jan 26 2021,Burnley FC,,Aston Villa FC
+20,Tue Jan 26 2021,Everton FC,,Leicester City FC
+20,Tue Jan 26 2021,Manchester United FC,,Sheffield United FC
+20,Tue Jan 26 2021,West Bromwich Albion FC,,Manchester City FC
+20,Wed Jan 27 2021,Chelsea FC,,Wolverhampton Wanderers FC
+20,Wed Jan 27 2021,Newcastle United FC,,Leeds United FC
+20,Wed Jan 27 2021,Southampton FC,,Arsenal FC
+20,Wed Jan 27 2021,Tottenham Hotspur FC,,Liverpool FC
+20,Wed Jan 27 2021,Crystal Palace FC,,West Ham United FC
+21,Sat Jan 30 2021,Arsenal FC,,Manchester United FC
+21,Sat Jan 30 2021,Brighton & Hove Albion FC,,Tottenham Hotspur FC
+21,Sat Jan 30 2021,Chelsea FC,,Burnley FC
+21,Sat Jan 30 2021,Crystal Palace FC,,Wolverhampton Wanderers FC
+21,Sat Jan 30 2021,Everton FC,,Newcastle United FC
+21,Sat Jan 30 2021,Leicester City FC,,Leeds United FC
+21,Sat Jan 30 2021,Manchester City FC,,Sheffield United FC
+21,Sat Jan 30 2021,Southampton FC,,Aston Villa FC
+21,Sat Jan 30 2021,West Bromwich Albion FC,,Fulham FC
+21,Sat Jan 30 2021,West Ham United FC,,Liverpool FC
+22,Tue Feb 2 2021,Aston Villa FC,,West Ham United FC
+22,Tue Feb 2 2021,Burnley FC,,Manchester City FC
+22,Tue Feb 2 2021,Fulham FC,,Leicester City FC
+22,Tue Feb 2 2021,Leeds United FC,,Everton FC
+22,Tue Feb 2 2021,Sheffield United FC,,West Bromwich Albion FC
+22,Tue Feb 2 2021,Wolverhampton Wanderers FC,,Arsenal FC
+22,Tue Feb 2 2021,Manchester United FC,,Southampton FC
+22,Wed Feb 3 2021,Newcastle United FC,,Crystal Palace FC
+22,Wed Feb 3 2021,Tottenham Hotspur FC,,Chelsea FC
+22,Wed Feb 3 2021,Liverpool FC,,Brighton & Hove Albion FC
+23,Sat Feb 6 2021,Aston Villa FC,,Arsenal FC
+23,Sat Feb 6 2021,Burnley FC,,Brighton & Hove Albion FC
+23,Sat Feb 6 2021,Fulham FC,,West Ham United FC
+23,Sat Feb 6 2021,Leeds United FC,,Crystal Palace FC
+23,Sat Feb 6 2021,Liverpool FC,,Manchester City FC
+23,Sat Feb 6 2021,Manchester United FC,,Everton FC
+23,Sat Feb 6 2021,Newcastle United FC,,Southampton FC
+23,Sat Feb 6 2021,Sheffield United FC,,Chelsea FC
+23,Sat Feb 6 2021,Tottenham Hotspur FC,,West Bromwich Albion FC
+23,Sat Feb 6 2021,Wolverhampton Wanderers FC,,Leicester City FC
+24,Sat Feb 13 2021,Arsenal FC,,Leeds United FC
+24,Sat Feb 13 2021,Brighton & Hove Albion FC,,Aston Villa FC
+24,Sat Feb 13 2021,Chelsea FC,,Newcastle United FC
+24,Sat Feb 13 2021,Crystal Palace FC,,Burnley FC
+24,Sat Feb 13 2021,Everton FC,,Fulham FC
+24,Sat Feb 13 2021,Leicester City FC,,Liverpool FC
+24,Sat Feb 13 2021,Manchester City FC,,Tottenham Hotspur FC
+24,Sat Feb 13 2021,Southampton FC,,Wolverhampton Wanderers FC
+24,Sat Feb 13 2021,West Bromwich Albion FC,,Manchester United FC
+24,Sat Feb 13 2021,West Ham United FC,,Sheffield United FC
+25,Sat Feb 20 2021,Arsenal FC,,Manchester City FC
+25,Sat Feb 20 2021,Aston Villa FC,,Leicester City FC
+25,Sat Feb 20 2021,Brighton & Hove Albion FC,,Crystal Palace FC
+25,Sat Feb 20 2021,Burnley FC,,West Bromwich Albion FC
+25,Sat Feb 20 2021,Fulham FC,,Sheffield United FC
+25,Sat Feb 20 2021,Liverpool FC,,Everton FC
+25,Sat Feb 20 2021,Manchester United FC,,Newcastle United FC
+25,Sat Feb 20 2021,Southampton FC,,Chelsea FC
+25,Sat Feb 20 2021,West Ham United FC,,Tottenham Hotspur FC
+25,Sat Feb 20 2021,Wolverhampton Wanderers FC,,Leeds United FC
+26,Sat Feb 27 2021,Chelsea FC,,Manchester United FC
+26,Sat Feb 27 2021,Crystal Palace FC,,Fulham FC
+26,Sat Feb 27 2021,Everton FC,,Southampton FC
+26,Sat Feb 27 2021,Leeds United FC,,Aston Villa FC
+26,Sat Feb 27 2021,Leicester City FC,,Arsenal FC
+26,Sat Feb 27 2021,Manchester City FC,,West Ham United FC
+26,Sat Feb 27 2021,Newcastle United FC,,Wolverhampton Wanderers FC
+26,Sat Feb 27 2021,Sheffield United FC,,Liverpool FC
+26,Sat Feb 27 2021,Tottenham Hotspur FC,,Burnley FC
+26,Sat Feb 27 2021,West Bromwich Albion FC,,Brighton & Hove Albion FC
+27,Sat Mar 6 2021,Aston Villa FC,,Wolverhampton Wanderers FC
+27,Sat Mar 6 2021,Brighton & Hove Albion FC,,Leicester City FC
+27,Sat Mar 6 2021,Burnley FC,,Arsenal FC
+27,Sat Mar 6 2021,Chelsea FC,,Everton FC
+27,Sat Mar 6 2021,Liverpool FC,,Fulham FC
+27,Sat Mar 6 2021,Manchester City FC,,Manchester United FC
+27,Sat Mar 6 2021,Sheffield United FC,,Southampton FC
+27,Sat Mar 6 2021,Tottenham Hotspur FC,,Crystal Palace FC
+27,Sat Mar 6 2021,West Bromwich Albion FC,,Newcastle United FC
+27,Sat Mar 6 2021,West Ham United FC,,Leeds United FC
+28,Sat Mar 13 2021,Arsenal FC,,Tottenham Hotspur FC
+28,Sat Mar 13 2021,Crystal Palace FC,,West Bromwich Albion FC
+28,Sat Mar 13 2021,Everton FC,,Burnley FC
+28,Sat Mar 13 2021,Fulham FC,,Manchester City FC
+28,Sat Mar 13 2021,Leeds United FC,,Chelsea FC
+28,Sat Mar 13 2021,Leicester City FC,,Sheffield United FC
+28,Sat Mar 13 2021,Manchester United FC,,West Ham United FC
+28,Sat Mar 13 2021,Newcastle United FC,,Aston Villa FC
+28,Sat Mar 13 2021,Southampton FC,,Brighton & Hove Albion FC
+28,Sat Mar 13 2021,Wolverhampton Wanderers FC,,Liverpool FC
+29,Sat Mar 20 2021,Brighton & Hove Albion FC,,Newcastle United FC
+29,Sat Mar 20 2021,Burnley FC,,Leicester City FC
+29,Sat Mar 20 2021,Crystal Palace FC,,Manchester United FC
+29,Sat Mar 20 2021,Fulham FC,,Leeds United FC
+29,Sat Mar 20 2021,Liverpool FC,,Chelsea FC
+29,Sat Mar 20 2021,Manchester City FC,,Wolverhampton Wanderers FC
+29,Sat Mar 20 2021,Sheffield United FC,,Aston Villa FC
+29,Sat Mar 20 2021,Tottenham Hotspur FC,,Southampton FC
+29,Sat Mar 20 2021,West Bromwich Albion FC,,Everton FC
+29,Sat Mar 20 2021,West Ham United FC,,Arsenal FC
+30,Sat Apr 3 2021,Arsenal FC,,Liverpool FC
+30,Sat Apr 3 2021,Aston Villa FC,,Fulham FC
+30,Sat Apr 3 2021,Chelsea FC,,West Bromwich Albion FC
+30,Sat Apr 3 2021,Everton FC,,Crystal Palace FC
+30,Sat Apr 3 2021,Leeds United FC,,Sheffield United FC
+30,Sat Apr 3 2021,Leicester City FC,,Manchester City FC
+30,Sat Apr 3 2021,Manchester United FC,,Brighton & Hove Albion FC
+30,Sat Apr 3 2021,Newcastle United FC,,Tottenham Hotspur FC
+30,Sat Apr 3 2021,Southampton FC,,Burnley FC
+30,Sat Apr 3 2021,Wolverhampton Wanderers FC,,West Ham United FC
+31,Sat Apr 10 2021,Brighton & Hove Albion FC,,Everton FC
+31,Sat Apr 10 2021,Burnley FC,,Newcastle United FC
+31,Sat Apr 10 2021,Crystal Palace FC,,Chelsea FC
+31,Sat Apr 10 2021,Fulham FC,,Wolverhampton Wanderers FC
+31,Sat Apr 10 2021,Liverpool FC,,Aston Villa FC
+31,Sat Apr 10 2021,Manchester City FC,,Leeds United FC
+31,Sat Apr 10 2021,Sheffield United FC,,Arsenal FC
+31,Sat Apr 10 2021,Tottenham Hotspur FC,,Manchester United FC
+31,Sat Apr 10 2021,West Bromwich Albion FC,,Southampton FC
+31,Sat Apr 10 2021,West Ham United FC,,Leicester City FC
+32,Sat Apr 17 2021,Arsenal FC,,Fulham FC
+32,Sat Apr 17 2021,Aston Villa FC,,Manchester City FC
+32,Sat Apr 17 2021,Chelsea FC,,Brighton & Hove Albion FC
+32,Sat Apr 17 2021,Everton FC,,Tottenham Hotspur FC
+32,Sat Apr 17 2021,Leeds United FC,,Liverpool FC
+32,Sat Apr 17 2021,Leicester City FC,,West Bromwich Albion FC
+32,Sat Apr 17 2021,Manchester United FC,,Burnley FC
+32,Sat Apr 17 2021,Newcastle United FC,,West Ham United FC
+32,Sat Apr 17 2021,Southampton FC,,Crystal Palace FC
+32,Sat Apr 17 2021,Wolverhampton Wanderers FC,,Sheffield United FC
+33,Sat Apr 24 2021,Arsenal FC,,Everton FC
+33,Sat Apr 24 2021,Aston Villa FC,,West Bromwich Albion FC
+33,Sat Apr 24 2021,Fulham FC,,Tottenham Hotspur FC
+33,Sat Apr 24 2021,Leeds United FC,,Manchester United FC
+33,Sat Apr 24 2021,Leicester City FC,,Crystal Palace FC
+33,Sat Apr 24 2021,Liverpool FC,,Newcastle United FC
+33,Sat Apr 24 2021,Manchester City FC,,Southampton FC
+33,Sat Apr 24 2021,Sheffield United FC,,Brighton & Hove Albion FC
+33,Sat Apr 24 2021,West Ham United FC,,Chelsea FC
+33,Sat Apr 24 2021,Wolverhampton Wanderers FC,,Burnley FC
+34,Sat May 1 2021,Brighton & Hove Albion FC,,Leeds United FC
+34,Sat May 1 2021,Burnley FC,,West Ham United FC
+34,Sat May 1 2021,Chelsea FC,,Fulham FC
+34,Sat May 1 2021,Crystal Palace FC,,Manchester City FC
+34,Sat May 1 2021,Everton FC,,Aston Villa FC
+34,Sat May 1 2021,Manchester United FC,,Liverpool FC
+34,Sat May 1 2021,Newcastle United FC,,Arsenal FC
+34,Sat May 1 2021,Southampton FC,,Leicester City FC
+34,Sat May 1 2021,Tottenham Hotspur FC,,Sheffield United FC
+34,Sat May 1 2021,West Bromwich Albion FC,,Wolverhampton Wanderers FC
+35,Sat May 8 2021,Arsenal FC,,West Bromwich Albion FC
+35,Sat May 8 2021,Aston Villa FC,,Manchester United FC
+35,Sat May 8 2021,Fulham FC,,Burnley FC
+35,Sat May 8 2021,Leeds United FC,,Tottenham Hotspur FC
+35,Sat May 8 2021,Leicester City FC,,Newcastle United FC
+35,Sat May 8 2021,Liverpool FC,,Southampton FC
+35,Sat May 8 2021,Manchester City FC,,Chelsea FC
+35,Sat May 8 2021,Sheffield United FC,,Crystal Palace FC
+35,Sat May 8 2021,West Ham United FC,,Everton FC
+35,Sat May 8 2021,Wolverhampton Wanderers FC,,Brighton & Hove Albion FC
+36,Tue May 11 2021,Brighton & Hove Albion FC,,West Ham United FC
+36,Tue May 11 2021,Burnley FC,,Leeds United FC
+36,Tue May 11 2021,Everton FC,,Sheffield United FC
+36,Tue May 11 2021,Manchester United FC,,Leicester City FC
+36,Tue May 11 2021,West Bromwich Albion FC,,Liverpool FC
+36,Wed May 12 2021,Chelsea FC,,Arsenal FC
+36,Wed May 12 2021,Newcastle United FC,,Manchester City FC
+36,Wed May 12 2021,Southampton FC,,Fulham FC
+36,Wed May 12 2021,Tottenham Hotspur FC,,Wolverhampton Wanderers FC
+36,Wed May 12 2021,Crystal Palace FC,,Aston Villa FC
+37,Sat May 15 2021,Brighton & Hove Albion FC,,Manchester City FC
+37,Sat May 15 2021,Burnley FC,,Liverpool FC
+37,Sat May 15 2021,Chelsea FC,,Leicester City FC
+37,Sat May 15 2021,Crystal Palace FC,,Arsenal FC
+37,Sat May 15 2021,Everton FC,,Wolverhampton Wanderers FC
+37,Sat May 15 2021,Manchester United FC,,Fulham FC
+37,Sat May 15 2021,Newcastle United FC,,Sheffield United FC
+37,Sat May 15 2021,Southampton FC,,Leeds United FC
+37,Sat May 15 2021,Tottenham Hotspur FC,,Aston Villa FC
+37,Sat May 15 2021,West Bromwich Albion FC,,West Ham United FC
+38,Sun May 23 2021,Arsenal FC,,Brighton & Hove Albion FC
+38,Sun May 23 2021,Aston Villa FC,,Chelsea FC
+38,Sun May 23 2021,Fulham FC,,Newcastle United FC
+38,Sun May 23 2021,Leeds United FC,,West Bromwich Albion FC
+38,Sun May 23 2021,Leicester City FC,,Tottenham Hotspur FC
+38,Sun May 23 2021,Liverpool FC,,Crystal Palace FC
+38,Sun May 23 2021,Manchester City FC,,Everton FC
+38,Sun May 23 2021,Sheffield United FC,,Burnley FC
+38,Sun May 23 2021,West Ham United FC,,Southampton FC
+38,Sun May 23 2021,Wolverhampton Wanderers FC,,Manchester United FC
