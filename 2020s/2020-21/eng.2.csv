@@ -47,27 +47,27 @@ Round,Date,Team 1,FT,Team 2
 4,Sat Oct 3 2020,Swansea City FC,2-1,Millwall FC
 4,Sun Oct 4 2020,Brentford FC,2-4,Preston North End FC
 4,Sun Oct 4 2020,Stoke City FC,1-1,Birmingham City FC
-5,Fri Oct 16 2020,Derby County FC,,Watford FC
-5,Sat Oct 17 2020,AFC Bournemouth,,Queens Park Rangers FC
-5,Sat Oct 17 2020,Birmingham City FC,,Sheffield Wednesday FC
-5,Sat Oct 17 2020,Blackburn Rovers FC,,Nottingham Forest FC
-5,Sat Oct 17 2020,Barnsley FC,,Bristol City FC
-5,Sat Oct 17 2020,Brentford FC,,Coventry City FC
-5,Sat Oct 17 2020,Middlesbrough FC,,Reading FC
-5,Sat Oct 17 2020,Luton Town FC,,Stoke City FC
-5,Sat Oct 17 2020,Rotherham United FC,,Norwich City FC
-5,Sat Oct 17 2020,Swansea City FC,,Huddersfield Town AFC
-5,Sat Oct 17 2020,Wycombe Wanderers FC,,Millwall FC
-5,Sun Oct 18 2020,Preston North End FC,,Cardiff City FC
+5,Fri Oct 16 2020,Derby County FC,0-1,Watford FC
+5,Sat Oct 17 2020,AFC Bournemouth,0-0,Queens Park Rangers FC
+5,Sat Oct 17 2020,Birmingham City FC,0-1,Sheffield Wednesday FC
+5,Sat Oct 17 2020,Blackburn Rovers FC,0-1,Nottingham Forest FC
+5,Sat Oct 17 2020,Barnsley FC,2-2,Bristol City FC
+5,Sat Oct 17 2020,Brentford FC,2-0,Coventry City FC
+5,Sat Oct 17 2020,Middlesbrough FC,0-0,Reading FC
+5,Sat Oct 17 2020,Luton Town FC,0-2,Stoke City FC
+5,Sat Oct 17 2020,Rotherham United FC,1-2,Norwich City FC
+5,Sat Oct 17 2020,Swansea City FC,1-2,Huddersfield Town AFC
+5,Sat Oct 17 2020,Wycombe Wanderers FC,1-2,Millwall FC
+5,Sun Oct 18 2020,Preston North End FC,0-1,Cardiff City FC
 6,Tue Oct 20 2020,Bristol City FC,,Middlesbrough FC
 6,Tue Oct 20 2020,Coventry City FC,,Swansea City FC
 6,Tue Oct 20 2020,Millwall FC,,Luton Town FC
 6,Tue Oct 20 2020,Norwich City FC,,Birmingham City FC
 6,Tue Oct 20 2020,Nottingham Forest FC,,Rotherham United FC
+6,Tue Oct 20 2020,Huddersfield Town AFC,,Derby County FC
 6,Tue Oct 20 2020,Reading FC,,Wycombe Wanderers FC
 6,Wed Oct 21 2020,Cardiff City FC,,AFC Bournemouth
 6,Wed Oct 21 2020,Watford FC,,Blackburn Rovers FC
-6,Wed Oct 21 2020,Huddersfield Town AFC,,Derby County FC
 6,Wed Oct 21 2020,Queens Park Rangers FC,,Preston North End FC
 6,Wed Oct 21 2020,Sheffield Wednesday FC,,Brentford FC
 6,Wed Oct 21 2020,Stoke City FC,,Barnsley FC

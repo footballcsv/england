@@ -35,83 +35,83 @@ Round,Date,Team 1,FT,Team 2
 3,Sat Sep 26 2020,Sunderland AFC,1-0,Peterborough United FC
 3,Sat Sep 26 2020,Swindon Town FC,4-2,Burton Albion FC
 3,Sun Sep 27 2020,Lincoln City FC,2-0,Charlton Athletic FC
-4,Sat Oct 3 2020,Oxford United FC,,Crewe Alexandra FC
 4,Sat Oct 3 2020,AFC Wimbledon,1-2,Accrington Stanley FC
 4,Sat Oct 3 2020,Blackpool FC,2-3,Lincoln City FC
 4,Sat Oct 3 2020,Bristol Rovers FC,2-0,Northampton Town FC
+4,Sat Oct 3 2020,Burton Albion FC,2-4,Portsmouth FC
 4,Sat Oct 3 2020,Wigan Athletic FC,1-0,Doncaster Rovers FC
-4,Sat Oct 3 2020,Charlton Athletic FC,0-0,Sunderland AFC
 4,Sat Oct 3 2020,Hull City AFC,1-0,Plymouth Argyle FC
 4,Sat Oct 3 2020,Milton Keynes Dons FC,1-1,Ipswich Town FC
 4,Sat Oct 3 2020,Peterborough United FC,3-1,Swindon Town FC
 4,Sat Oct 3 2020,Rochdale AFC,2-1,Fleetwood Town FC
 4,Sat Oct 3 2020,Shrewsbury Town FC,1-1,Gillingham FC
-4,Sat Oct 3 2020,Burton Albion FC,2-4,Portsmouth FC
-5,Fri Oct 9 2020,Fleetwood Town FC,,Hull City AFC
-5,Sat Oct 10 2020,Gillingham FC,,Oxford United FC
-12,Sat Oct 10 2020,Blackpool FC,,Ipswich Town FC
-5,Sat Oct 10 2020,Northampton Town FC,,Peterborough United FC
+4,Sat Oct 3 2020,Charlton Athletic FC,0-0,Sunderland AFC
+5,Fri Oct 9 2020,Fleetwood Town FC,4-1,Hull City AFC
+5,Sat Oct 10 2020,Gillingham FC,3-1,Oxford United FC
+12,Sat Oct 10 2020,Blackpool FC,1-4,Ipswich Town FC
 5,Sat Oct 10 2020,Doncaster Rovers FC,,Shrewsbury Town FC
-5,Sat Oct 10 2020,Accrington Stanley FC,,Rochdale AFC
-5,Sat Oct 10 2020,Crewe Alexandra FC,,Wigan Athletic FC
-5,Sat Oct 10 2020,Plymouth Argyle FC,,Burton Albion FC
-5,Sat Oct 10 2020,Portsmouth FC,,Milton Keynes Dons FC
-5,Sat Oct 10 2020,Swindon Town FC,,AFC Wimbledon
-5,Sat Oct 10 2020,Lincoln City FC,,Bristol Rovers FC
-6,Sat Oct 17 2020,Swindon Town FC,,Sunderland AFC
-6,Sat Oct 17 2020,AFC Wimbledon,,Shrewsbury Town FC
-6,Sat Oct 17 2020,Bristol Rovers FC,,Burton Albion FC
-6,Sat Oct 17 2020,Charlton Athletic FC,,Wigan Athletic FC
-6,Sat Oct 17 2020,Crewe Alexandra FC,,Blackpool FC
-6,Sat Oct 17 2020,Rochdale AFC,,Hull City AFC
-6,Sat Oct 17 2020,Ipswich Town FC,,Accrington Stanley FC
-6,Sat Oct 17 2020,Milton Keynes Dons FC,,Gillingham FC
-6,Sat Oct 17 2020,Peterborough United FC,,Oxford United FC
-6,Sat Oct 17 2020,Plymouth Argyle FC,,Northampton Town FC
-6,Sat Oct 17 2020,Portsmouth FC,,Doncaster Rovers FC
-6,Sat Oct 17 2020,Fleetwood Town FC,,Lincoln City FC
+5,Sat Oct 10 2020,Accrington Stanley FC,2-1,Rochdale AFC
+5,Sat Oct 10 2020,Crewe Alexandra FC,3-0,Wigan Athletic FC
+5,Sat Oct 10 2020,Swindon Town FC,0-1,AFC Wimbledon
+5,Sat Oct 10 2020,Northampton Town FC,0-2,Peterborough United FC
+5,Sat Oct 10 2020,Plymouth Argyle FC,2-0,Burton Albion FC
+5,Sat Oct 10 2020,Portsmouth FC,2-1,Milton Keynes Dons FC
+5,Sat Oct 10 2020,Lincoln City FC,1-2,Bristol Rovers FC
+4,Tue Oct 13 2020,Oxford United FC,,Crewe Alexandra FC
+6,Sat Oct 17 2020,Milton Keynes Dons FC,2-0,Gillingham FC
+6,Sat Oct 17 2020,Swindon Town FC,0-2,Sunderland AFC
+6,Sat Oct 17 2020,AFC Wimbledon,0-1,Shrewsbury Town FC
+6,Sat Oct 17 2020,Bristol Rovers FC,1-1,Burton Albion FC
+6,Sat Oct 17 2020,Rochdale AFC,0-3,Hull City AFC
+6,Sat Oct 17 2020,Crewe Alexandra FC,1-1,Blackpool FC
+6,Sat Oct 17 2020,Fleetwood Town FC,0-0,Lincoln City FC
+6,Sat Oct 17 2020,Ipswich Town FC,2-0,Accrington Stanley FC
+6,Sat Oct 17 2020,Peterborough United FC,2-0,Oxford United FC
+6,Sat Oct 17 2020,Plymouth Argyle FC,2-1,Northampton Town FC
+6,Sat Oct 17 2020,Portsmouth FC,0-1,Doncaster Rovers FC
+6,Sat Oct 17 2020,Charlton Athletic FC,1-0,Wigan Athletic FC
+7,Tue Oct 20 2020,Shrewsbury Town FC,,Bristol Rovers FC
 7,Tue Oct 20 2020,Gillingham FC,,Portsmouth FC
-7,Tue Oct 20 2020,Accrington Stanley FC,,Fleetwood Town FC
-7,Tue Oct 20 2020,Sunderland AFC,,Crewe Alexandra FC
 7,Tue Oct 20 2020,Blackpool FC,,Charlton Athletic FC
-7,Tue Oct 20 2020,Burton Albion FC,,Rochdale AFC
+7,Tue Oct 20 2020,Accrington Stanley FC,,Fleetwood Town FC
+7,Tue Oct 20 2020,Doncaster Rovers FC,,Ipswich Town FC
 7,Tue Oct 20 2020,Wigan Athletic FC,,Peterborough United FC
 7,Tue Oct 20 2020,Lincoln City FC,,Plymouth Argyle FC
-7,Tue Oct 20 2020,Northampton Town FC,,Swindon Town FC
 7,Tue Oct 20 2020,Oxford United FC,,Milton Keynes Dons FC
-7,Tue Oct 20 2020,Shrewsbury Town FC,,Bristol Rovers FC
+7,Tue Oct 20 2020,Sunderland AFC,,Crewe Alexandra FC
 7,Tue Oct 20 2020,Hull City AFC,,AFC Wimbledon
-7,Tue Oct 20 2020,Doncaster Rovers FC,,Ipswich Town FC
+7,Tue Oct 20 2020,Northampton Town FC,,Swindon Town FC
+7,Tue Oct 20 2020,Burton Albion FC,,Rochdale AFC
 8,Sat Oct 24 2020,Gillingham FC,,Fleetwood Town FC
-8,Sat Oct 24 2020,Wigan Athletic FC,,Plymouth Argyle FC
+8,Sat Oct 24 2020,Burton Albion FC,,AFC Wimbledon
 8,Sat Oct 24 2020,Accrington Stanley FC,,Bristol Rovers FC
 8,Sat Oct 24 2020,Blackpool FC,,Milton Keynes Dons FC
-8,Sat Oct 24 2020,Burton Albion FC,,AFC Wimbledon
 8,Sat Oct 24 2020,Doncaster Rovers FC,,Crewe Alexandra FC
+8,Sat Oct 24 2020,Wigan Athletic FC,,Plymouth Argyle FC
 8,Sat Oct 24 2020,Hull City AFC,,Peterborough United FC
-8,Sat Oct 24 2020,Lincoln City FC,,Ipswich Town FC
+8,Sat Oct 24 2020,Sunderland AFC,,Portsmouth FC
 8,Sat Oct 24 2020,Northampton Town FC,,Charlton Athletic FC
 8,Sat Oct 24 2020,Oxford United FC,,Swindon Town FC
 8,Sat Oct 24 2020,Shrewsbury Town FC,,Rochdale AFC
-8,Sat Oct 24 2020,Sunderland AFC,,Portsmouth FC
-9,Tue Oct 27 2020,Rochdale AFC,,Sunderland AFC
-9,Tue Oct 27 2020,AFC Wimbledon,,Blackpool FC
-9,Tue Oct 27 2020,Bristol Rovers FC,,Hull City AFC
+8,Sat Oct 24 2020,Lincoln City FC,,Ipswich Town FC
+9,Tue Oct 27 2020,Swindon Town FC,,Accrington Stanley FC
 9,Tue Oct 27 2020,Charlton Athletic FC,,Oxford United FC
 9,Tue Oct 27 2020,Crewe Alexandra FC,,Lincoln City FC
 9,Tue Oct 27 2020,Ipswich Town FC,,Gillingham FC
-9,Tue Oct 27 2020,Swindon Town FC,,Accrington Stanley FC
 9,Tue Oct 27 2020,Milton Keynes Dons FC,,Wigan Athletic FC
-9,Tue Oct 27 2020,Peterborough United FC,,Burton Albion FC
-9,Tue Oct 27 2020,Plymouth Argyle FC,,Doncaster Rovers FC
 9,Tue Oct 27 2020,Portsmouth FC,,Northampton Town FC
+9,Tue Oct 27 2020,Rochdale AFC,,Sunderland AFC
+9,Tue Oct 27 2020,Bristol Rovers FC,,Hull City AFC
 9,Tue Oct 27 2020,Fleetwood Town FC,,Shrewsbury Town FC
-10,Sat Oct 31 2020,Wigan Athletic FC,,Northampton Town FC
+9,Tue Oct 27 2020,AFC Wimbledon,,Blackpool FC
+9,Tue Oct 27 2020,Plymouth Argyle FC,,Doncaster Rovers FC
+9,Tue Oct 27 2020,Peterborough United FC,,Burton Albion FC
+10,Sat Oct 31 2020,Gillingham FC,,Sunderland AFC
 10,Sat Oct 31 2020,Accrington Stanley FC,,Plymouth Argyle FC
+10,Sat Oct 31 2020,Wigan Athletic FC,,Northampton Town FC
 10,Sat Oct 31 2020,Burton Albion FC,,Blackpool FC
 10,Sat Oct 31 2020,Doncaster Rovers FC,,Lincoln City FC
 10,Sat Oct 31 2020,Fleetwood Town FC,,Oxford United FC
-10,Sat Oct 31 2020,Gillingham FC,,Sunderland AFC
 10,Sat Oct 31 2020,Ipswich Town FC,,Crewe Alexandra FC
 10,Sat Oct 31 2020,Milton Keynes Dons FC,,AFC Wimbledon
 10,Sat Oct 31 2020,Peterborough United FC,,Shrewsbury Town FC
