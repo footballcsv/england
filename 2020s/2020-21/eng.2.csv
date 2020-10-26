@@ -59,45 +59,45 @@ Round,Date,Team 1,FT,Team 2
 5,Sat Oct 17 2020,Swansea City FC,1-2,Huddersfield Town AFC
 5,Sat Oct 17 2020,Wycombe Wanderers FC,1-2,Millwall FC
 5,Sun Oct 18 2020,Preston North End FC,0-1,Cardiff City FC
-6,Tue Oct 20 2020,Bristol City FC,,Middlesbrough FC
-6,Tue Oct 20 2020,Coventry City FC,,Swansea City FC
-6,Tue Oct 20 2020,Millwall FC,,Luton Town FC
-6,Tue Oct 20 2020,Norwich City FC,,Birmingham City FC
-6,Tue Oct 20 2020,Nottingham Forest FC,,Rotherham United FC
-6,Tue Oct 20 2020,Huddersfield Town AFC,,Derby County FC
-6,Tue Oct 20 2020,Reading FC,,Wycombe Wanderers FC
-6,Wed Oct 21 2020,Cardiff City FC,,AFC Bournemouth
-6,Wed Oct 21 2020,Watford FC,,Blackburn Rovers FC
-6,Wed Oct 21 2020,Queens Park Rangers FC,,Preston North End FC
-6,Wed Oct 21 2020,Sheffield Wednesday FC,,Brentford FC
-6,Wed Oct 21 2020,Stoke City FC,,Barnsley FC
-7,Fri Oct 23 2020,Nottingham Forest FC,,Derby County FC
-7,Sat Oct 24 2020,Watford FC,,AFC Bournemouth
-7,Sat Oct 24 2020,Bristol City FC,,Swansea City FC
-7,Sat Oct 24 2020,Cardiff City FC,,Middlesbrough FC
-7,Sat Oct 24 2020,Coventry City FC,,Blackburn Rovers FC
-7,Sat Oct 24 2020,Millwall FC,,Barnsley FC
-7,Sat Oct 24 2020,Reading FC,,Rotherham United FC
-7,Sat Oct 24 2020,Huddersfield Town AFC,,Preston North End FC
-7,Sat Oct 24 2020,Norwich City FC,,Wycombe Wanderers FC
-7,Sat Oct 24 2020,Queens Park Rangers FC,,Birmingham City FC
-7,Sat Oct 24 2020,Sheffield Wednesday FC,,Luton Town FC
-7,Sat Oct 24 2020,Stoke City FC,,Brentford FC
-8,Tue Oct 27 2020,Blackburn Rovers FC,,Reading FC
+6,Tue Oct 20 2020,Bristol City FC,0-1,Middlesbrough FC
+6,Tue Oct 20 2020,Coventry City FC,1-1,Swansea City FC
+6,Tue Oct 20 2020,Millwall FC,2-0,Luton Town FC
+6,Tue Oct 20 2020,Norwich City FC,1-0,Birmingham City FC
+6,Tue Oct 20 2020,Nottingham Forest FC,1-1,Rotherham United FC
+6,Tue Oct 20 2020,Huddersfield Town AFC,1-0,Derby County FC
+6,Tue Oct 20 2020,Reading FC,1-0,Wycombe Wanderers FC
+6,Wed Oct 21 2020,Cardiff City FC,1-1,AFC Bournemouth
+6,Wed Oct 21 2020,Watford FC,3-1,Blackburn Rovers FC
+6,Wed Oct 21 2020,Queens Park Rangers FC,0-2,Preston North End FC
+6,Wed Oct 21 2020,Sheffield Wednesday FC,1-2,Brentford FC
+6,Wed Oct 21 2020,Stoke City FC,2-2,Barnsley FC
+7,Fri Oct 23 2020,Nottingham Forest FC,1-1,Derby County FC
+7,Sat Oct 24 2020,Watford FC,1-1,AFC Bournemouth
+7,Sat Oct 24 2020,Bristol City FC,1-1,Swansea City FC
+7,Sat Oct 24 2020,Cardiff City FC,1-1,Middlesbrough FC
+7,Sat Oct 24 2020,Coventry City FC,0-4,Blackburn Rovers FC
+7,Sat Oct 24 2020,Millwall FC,1-1,Barnsley FC
+7,Sat Oct 24 2020,Reading FC,3-0,Rotherham United FC
+7,Sat Oct 24 2020,Huddersfield Town AFC,1-2,Preston North End FC
+7,Sat Oct 24 2020,Norwich City FC,2-1,Wycombe Wanderers FC
+7,Sat Oct 24 2020,Queens Park Rangers FC,0-0,Birmingham City FC
+7,Sat Oct 24 2020,Sheffield Wednesday FC,0-1,Luton Town FC
+7,Sat Oct 24 2020,Stoke City FC,3-2,Brentford FC
 8,Tue Oct 27 2020,Barnsley FC,,Queens Park Rangers FC
+8,Tue Oct 27 2020,Blackburn Rovers FC,,Reading FC
 8,Tue Oct 27 2020,Brentford FC,,Norwich City FC
 8,Tue Oct 27 2020,Middlesbrough FC,,Coventry City FC
 8,Tue Oct 27 2020,Swansea City FC,,Stoke City FC
 8,Tue Oct 27 2020,Wycombe Wanderers FC,,Watford FC
+8,Wed Oct 28 2020,Preston North End FC,,Millwall FC
 8,Wed Oct 28 2020,AFC Bournemouth,,Bristol City FC
 8,Wed Oct 28 2020,Birmingham City FC,,Huddersfield Town AFC
 8,Wed Oct 28 2020,Derby County FC,,Cardiff City FC
 8,Wed Oct 28 2020,Luton Town FC,,Nottingham Forest FC
-8,Wed Oct 28 2020,Preston North End FC,,Millwall FC
 8,Wed Oct 28 2020,Rotherham United FC,,Sheffield Wednesday FC
+9,Fri Oct 30 2020,Coventry City FC,,Reading FC
 9,Sat Oct 31 2020,AFC Bournemouth,,Derby County FC
 9,Sat Oct 31 2020,Bristol City FC,,Norwich City FC
-9,Sat Oct 31 2020,Coventry City FC,,Reading FC
 9,Sat Oct 31 2020,Barnsley FC,,Watford FC
 9,Sat Oct 31 2020,Middlesbrough FC,,Nottingham Forest FC
 9,Sat Oct 31 2020,Millwall FC,,Huddersfield Town AFC
@@ -113,18 +113,18 @@ Round,Date,Team 1,FT,Team 2
 10,Tue Nov 3 2020,Huddersfield Town AFC,,Bristol City FC
 10,Tue Nov 3 2020,Norwich City FC,,Millwall FC
 10,Tue Nov 3 2020,Sheffield Wednesday FC,,AFC Bournemouth
+10,Wed Nov 4 2020,Reading FC,,Preston North End FC
 10,Wed Nov 4 2020,Birmingham City FC,,Wycombe Wanderers FC
 10,Wed Nov 4 2020,Derby County FC,,Queens Park Rangers FC
 10,Wed Nov 4 2020,Watford FC,,Stoke City FC
 10,Wed Nov 4 2020,Nottingham Forest FC,,Coventry City FC
 10,Wed Nov 4 2020,Rotherham United FC,,Luton Town FC
-10,Wed Nov 4 2020,Reading FC,,Preston North End FC
+11,Fri Nov 6 2020,Cardiff City FC,,Bristol City FC
+11,Sat Nov 7 2020,Reading FC,,Stoke City FC
 11,Sat Nov 7 2020,Birmingham City FC,,AFC Bournemouth
 11,Sat Nov 7 2020,Blackburn Rovers FC,,Queens Park Rangers FC
-11,Sat Nov 7 2020,Cardiff City FC,,Bristol City FC
 11,Sat Nov 7 2020,Derby County FC,,Barnsley FC
 11,Sat Nov 7 2020,Brentford FC,,Middlesbrough FC
-11,Sat Nov 7 2020,Reading FC,,Stoke City FC
 11,Sat Nov 7 2020,Watford FC,,Coventry City FC
 11,Sat Nov 7 2020,Huddersfield Town AFC,,Luton Town FC
 11,Sat Nov 7 2020,Norwich City FC,,Swansea City FC
