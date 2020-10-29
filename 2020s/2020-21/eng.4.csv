@@ -94,24 +94,24 @@ Round,Date,Team 1,FT,Team 2
 8,Sat Oct 24 2020,Salford City FC,1-1,Crawley Town FC
 8,Sat Oct 24 2020,Oldham Athletic AFC,1-2,Port Vale FC
 8,Sat Oct 24 2020,Grimsby Town FC,1-1,Carlisle United FC
-9,Tue Oct 27 2020,Crawley Town FC,,Tranmere Rovers FC
-9,Tue Oct 27 2020,Southend United FC,,Oldham Athletic AFC
-9,Tue Oct 27 2020,Carlisle United FC,,Morecambe FC
-9,Tue Oct 27 2020,Walsall FC,,Cambridge United FC
-9,Tue Oct 27 2020,Leyton Orient FC,,Exeter City FC
-9,Tue Oct 27 2020,Harrogate Town AFC,,Stevenage FC
-9,Tue Oct 27 2020,Bolton Wanderers FC,,Bradford City AFC
-9,Tue Oct 27 2020,Mansfield Town FC,,Barrow AFC
-9,Tue Oct 27 2020,Port Vale FC,,Cheltenham Town FC
-9,Tue Oct 27 2020,Forest Green Rovers FC,,Grimsby Town FC
+9,Tue Oct 27 2020,Crawley Town FC,4-0,Tranmere Rovers FC
+9,Tue Oct 27 2020,Harrogate Town AFC,0-0,Stevenage FC
+9,Tue Oct 27 2020,Carlisle United FC,3-1,Morecambe FC
+9,Tue Oct 27 2020,Walsall FC,0-2,Cambridge United FC
+9,Tue Oct 27 2020,Southend United FC,1-2,Oldham Athletic AFC
+9,Tue Oct 27 2020,Bolton Wanderers FC,1-0,Bradford City AFC
+9,Tue Oct 27 2020,Leyton Orient FC,1-1,Exeter City FC
+9,Tue Oct 27 2020,Mansfield Town FC,2-4,Barrow AFC
+9,Tue Oct 27 2020,Newport County AFC,2-1,Colchester United FC
+9,Tue Oct 27 2020,Port Vale FC,2-1,Cheltenham Town FC
+9,Tue Oct 27 2020,Forest Green Rovers FC,1-0,Grimsby Town FC
 9,Tue Oct 27 2020,Scunthorpe United FC,,Salford City FC
-9,Tue Oct 27 2020,Newport County AFC,,Colchester United FC
 10,Fri Oct 30 2020,Scunthorpe United FC,,Colchester United FC
-10,Sat Oct 31 2020,Crawley Town FC,,Cambridge United FC
-10,Sat Oct 31 2020,Barrow AFC,,Bradford City AFC
-10,Sat Oct 31 2020,Cheltenham Town FC,,Forest Green Rovers FC
 10,Sat Oct 31 2020,Exeter City FC,,Carlisle United FC
 10,Sat Oct 31 2020,Tranmere Rovers FC,,Morecambe FC
+10,Sat Oct 31 2020,Barrow AFC,,Bradford City AFC
+10,Sat Oct 31 2020,Cheltenham Town FC,,Forest Green Rovers FC
+10,Sat Oct 31 2020,Crawley Town FC,,Cambridge United FC
 10,Sat Oct 31 2020,Stevenage FC,,Grimsby Town FC
 10,Sat Oct 31 2020,Leyton Orient FC,,Bolton Wanderers FC
 10,Sat Oct 31 2020,Mansfield Town FC,,Walsall FC
@@ -121,15 +121,15 @@ Round,Date,Team 1,FT,Team 2
 11,Tue Nov 3 2020,Oldham Athletic AFC,,Cheltenham Town FC
 11,Tue Nov 3 2020,Morecambe FC,,Exeter City FC
 11,Tue Nov 3 2020,Carlisle United FC,,Newport County AFC
-11,Tue Nov 3 2020,Cambridge United FC,,Salford City FC
-11,Tue Nov 3 2020,Forest Green Rovers FC,,Leyton Orient FC
-11,Tue Nov 3 2020,Bolton Wanderers FC,,Mansfield Town FC
-11,Tue Nov 3 2020,Grimsby Town FC,,Barrow AFC
-11,Tue Nov 3 2020,Port Vale FC,,Scunthorpe United FC
-11,Tue Nov 3 2020,Walsall FC,,Crawley Town FC
 11,Tue Nov 3 2020,Bradford City AFC,,Southend United FC
+11,Tue Nov 3 2020,Cambridge United FC,,Salford City FC
+11,Tue Nov 3 2020,Port Vale FC,,Scunthorpe United FC
 11,Tue Nov 3 2020,Colchester United FC,,Stevenage FC
+11,Tue Nov 3 2020,Walsall FC,,Crawley Town FC
+11,Tue Nov 3 2020,Forest Green Rovers FC,,Leyton Orient FC
+11,Tue Nov 3 2020,Grimsby Town FC,,Barrow AFC
 11,Tue Nov 3 2020,Harrogate Town AFC,,Tranmere Rovers FC
+11,Tue Nov 3 2020,Bolton Wanderers FC,,Mansfield Town FC
 12,Fri Nov 13 2020,Bolton Wanderers FC,,Salford City FC
 12,Sat Nov 14 2020,Port Vale FC,,Tranmere Rovers FC
 12,Sat Nov 14 2020,Bradford City AFC,,Exeter City FC

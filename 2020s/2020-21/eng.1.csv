@@ -56,9 +56,9 @@ Round,Date,Team 1,FT,Team 2
 6,Sat Oct 24 2020,Liverpool FC,2-1,Sheffield United FC
 6,Sun Oct 25 2020,Southampton FC,2-0,Everton FC
 6,Sun Oct 25 2020,Wolverhampton Wanderers FC,1-1,Newcastle United FC
-6,Sun Oct 25 2020,Arsenal FC,,Leicester City FC
-6,Mon Oct 26 2020,Brighton & Hove Albion FC,,West Bromwich Albion FC
-6,Mon Oct 26 2020,Burnley FC,,Tottenham Hotspur FC
+6,Sun Oct 25 2020,Arsenal FC,0-1,Leicester City FC
+6,Mon Oct 26 2020,Brighton & Hove Albion FC,1-1,West Bromwich Albion FC
+6,Mon Oct 26 2020,Burnley FC,0-1,Tottenham Hotspur FC
 7,Fri Oct 30 2020,Wolverhampton Wanderers FC,,Crystal Palace FC
 7,Sat Oct 31 2020,Sheffield United FC,,Manchester City FC
 7,Sat Oct 31 2020,Burnley FC,,Chelsea FC
@@ -69,36 +69,36 @@ Round,Date,Team 1,FT,Team 2
 7,Sun Nov 1 2020,Tottenham Hotspur FC,,Brighton & Hove Albion FC
 7,Mon Nov 2 2020,Fulham FC,,West Bromwich Albion FC
 7,Mon Nov 2 2020,Leeds United FC,,Leicester City FC
+8,Fri Nov 6 2020,Southampton FC,,Newcastle United FC
 8,Sat Nov 7 2020,Arsenal FC,,Aston Villa FC
 8,Sat Nov 7 2020,Brighton & Hove Albion FC,,Burnley FC
-8,Sat Nov 7 2020,Chelsea FC,,Sheffield United FC
 8,Sat Nov 7 2020,Crystal Palace FC,,Leeds United FC
 8,Sat Nov 7 2020,Everton FC,,Manchester United FC
-8,Sat Nov 7 2020,Leicester City FC,,Wolverhampton Wanderers FC
-8,Sat Nov 7 2020,Manchester City FC,,Liverpool FC
-8,Sat Nov 7 2020,Southampton FC,,Newcastle United FC
 8,Sat Nov 7 2020,West Bromwich Albion FC,,Tottenham Hotspur FC
 8,Sat Nov 7 2020,West Ham United FC,,Fulham FC
+8,Sat Nov 7 2020,Chelsea FC,,Sheffield United FC
+8,Sun Nov 8 2020,Leicester City FC,,Wolverhampton Wanderers FC
+8,Sun Nov 8 2020,Manchester City FC,,Liverpool FC
+9,Sat Nov 21 2020,Newcastle United FC,,Chelsea FC
 9,Sat Nov 21 2020,Aston Villa FC,,Brighton & Hove Albion FC
 9,Sat Nov 21 2020,Burnley FC,,Crystal Palace FC
 9,Sat Nov 21 2020,Fulham FC,,Everton FC
-9,Sat Nov 21 2020,Leeds United FC,,Arsenal FC
 9,Sat Nov 21 2020,Liverpool FC,,Leicester City FC
 9,Sat Nov 21 2020,Manchester United FC,,West Bromwich Albion FC
-9,Sat Nov 21 2020,Newcastle United FC,,Chelsea FC
-9,Sat Nov 21 2020,Sheffield United FC,,West Ham United FC
-9,Sat Nov 21 2020,Tottenham Hotspur FC,,Manchester City FC
 9,Sat Nov 21 2020,Wolverhampton Wanderers FC,,Southampton FC
+9,Sat Nov 21 2020,Tottenham Hotspur FC,,Manchester City FC
+9,Sun Nov 22 2020,Sheffield United FC,,West Ham United FC
+9,Sun Nov 22 2020,Leeds United FC,,Arsenal FC
 10,Sat Nov 28 2020,Arsenal FC,,Wolverhampton Wanderers FC
-10,Sat Nov 28 2020,Brighton & Hove Albion FC,,Liverpool FC
-10,Sat Nov 28 2020,Chelsea FC,,Tottenham Hotspur FC
-10,Sat Nov 28 2020,Crystal Palace FC,,Newcastle United FC
-10,Sat Nov 28 2020,Everton FC,,Leeds United FC
 10,Sat Nov 28 2020,Leicester City FC,,Fulham FC
+10,Sat Nov 28 2020,Brighton & Hove Albion FC,,Liverpool FC
+10,Sat Nov 28 2020,Crystal Palace FC,,Newcastle United FC
 10,Sat Nov 28 2020,Manchester City FC,,Burnley FC
-10,Sat Nov 28 2020,Southampton FC,,Manchester United FC
 10,Sat Nov 28 2020,West Bromwich Albion FC,,Sheffield United FC
-10,Sat Nov 28 2020,West Ham United FC,,Aston Villa FC
+10,Sat Nov 28 2020,Everton FC,,Leeds United FC
+10,Sun Nov 29 2020,Southampton FC,,Manchester United FC
+10,Sun Nov 29 2020,Chelsea FC,,Tottenham Hotspur FC
+10,Mon Nov 30 2020,West Ham United FC,,Aston Villa FC
 11,Sat Dec 5 2020,Aston Villa FC,,Newcastle United FC
 11,Sat Dec 5 2020,Brighton & Hove Albion FC,,Southampton FC
 11,Sat Dec 5 2020,Burnley FC,,Everton FC
