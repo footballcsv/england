@@ -38,6 +38,12 @@ Football data for England (and Wales) includes:
 The datasets are a 1:1 mirror, that is, an export in the comma-separated values (CSV) format from the [open football.db /england datasets](https://github.com/openfootball/england).
 
 
+##  More
+
+See Alen Biju's [**Fbref_Scraping**](https://github.com/Berserk21/Fbref_Scraping) repo for generating more  football datasets (in .csv).
+
+
+
 
 ## Questions? Comments?
 
